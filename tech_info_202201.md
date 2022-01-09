@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T02:12:41Z | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | 0 | 0| 
+| 20220109T02:12:29Z | Exploit to Eternal Blue in python3 | https://github.com/Gabriel-Lima232/EternalBlue-in-Python3 | 0 | 0| 
 | 20220109T02:03:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220109T01:54:40Z | Interesting Exploits & Defenses | https://github.com/Jymit/exploit-notes | 0 | 0| 
 | 20220109T01:53:10Z | Null | https://github.com/HappyyCat/exploit | 0 | 0| 
@@ -96,8 +98,6 @@
 | 20220109T00:30:51Z | simple exploits | https://github.com/l0st-idi0t/RblxScripts | 0 | 0| 
 | 20220109T00:24:07Z | Binary Exploitation | https://github.com/jmpshell/BinEx | 2 | 0| 
 | 20220109T00:19:04Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
-| 20220109T00:06:30Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 30 | 21| 
-| 20220108T23:46:52Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 124 | 24| 
 
 
 # backdoor on Github 推荐
