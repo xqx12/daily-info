@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T01:51:41Z | Interesting Exploits & Defenses | https://github.com/Jymit/exploit-notes | 0 | 0| 
-| 20220109T01:49:35Z | Null | https://github.com/HappyyCat/exploit | 0 | 0| 
+| 20220109T01:54:40Z | Interesting Exploits & Defenses | https://github.com/Jymit/exploit-notes | 0 | 0| 
+| 20220109T01:53:10Z | Null | https://github.com/HappyyCat/exploit | 0 | 0| 
 | 20220109T01:45:53Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5063 | 981| 
 | 20220109T01:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220109T01:00:19Z | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | 3 | 1| 
