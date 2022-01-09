@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T02:30:11Z | Various kernel exploits | https://github.com/bcoles/kernel-exploits | 484 | 216| 
 | 20220109T02:12:41Z | Driver Exploitation with HEVD (HackSys Extreme Vulnerable Driver) | https://github.com/edcod3/hevd-drivexp | 0 | 0| 
 | 20220109T02:12:29Z | Exploit to Eternal Blue in python3 | https://github.com/Gabriel-Lima232/EternalBlue-in-Python3 | 0 | 0| 
 | 20220109T02:03:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
@@ -97,14 +98,13 @@
 | 20220109T01:00:19Z | An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device. | https://github.com/natthawk/TMOHS1-Root-Utility | 3 | 1| 
 | 20220109T00:30:51Z | simple exploits | https://github.com/l0st-idi0t/RblxScripts | 0 | 0| 
 | 20220109T00:24:07Z | Binary Exploitation | https://github.com/jmpshell/BinEx | 2 | 0| 
-| 20220109T00:19:04Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T02:29:06Z | Null | https://github.com/interpreterK/Roblox-Backdoor | 0 | 0| 
 | 20220109T02:28:45Z | помощник администратора | https://github.com/diksaratower/Backdoor-RAT | 0 | 0| 
-| 20220109T02:25:27Z | Null | https://github.com/interpreterK/Roblox-Backdoor | 0 | 0| 
 | 20220109T01:21:40Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 3 | 0| 
 | 20220109T00:42:23Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 1 | 0| 
 | 20220109T00:39:54Z | Null | https://github.com/hackintoanetwork/backdoor | 0 | 0| 
@@ -142,9 +142,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T02:24:49Z | Null | https://github.com/mr-vill4in/log4j-fuzzer | 0 | 0| 
+| 20220109T02:30:50Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20220109T02:28:31Z | Null | https://github.com/mr-vill4in/log4j-fuzzer | 0 | 0| 
 | 20220109T02:12:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 713 | 70| 
-| 20220109T01:43:39Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220109T01:04:37Z | A fuzzing framework targeted at MQTT brokers. Modeled as a finite state machine (using Markov Modeling). | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20220109T01:03:20Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20220109T00:59:57Z | Null | https://github.com/illenafnayr/fuzzy-garbanzo | 0 | 0| 
