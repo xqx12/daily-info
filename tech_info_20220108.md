@@ -20,7 +20,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220108T13:43:55Z | CVE-2021-43798 | Null | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | | 
+| 20220108T22:50:58Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20220108T20:18:11Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20220108T15:28:06Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
+| 20220108T14:39:01Z | CVE-2021-43798 | Null | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | | 
 | 20220108T10:36:34Z | CVE-2021-44228 | Null | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | | 
 | 20220108T08:28:20Z | CVE-2021-45232 | 一键批量检测poc | https://github.com/yggcwhat/CVE-2021-45232 | | 
 | 20220108T06:48:51Z | CVE-2021-44228 | Null | https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads | | 
@@ -31,8 +34,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T13:02:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3503 | 110| 
-| 20220108T05:40:31Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 5 | 0| 
+| 20220108T23:55:20Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 6 | 0| 
+| 20220108T16:44:39Z | for atcoder | https://github.com/kashee337/klee_atcoder | 0 | 0| 
+| 20220108T16:42:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3506 | 110| 
 | 20220108T05:07:12Z | Null | https://github.com/KleePaimon/KleePaimon.github.io | 0 | 0| 
 | 20220108T04:32:21Z | For my moms website  | https://github.com/Master-Mind291/Maid-To-Kleen | 0 | 0| 
 
@@ -40,32 +44,36 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T04:02:17Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220108T14:20:16Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220108T01:46:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T13:57:56Z | webdav exploit | https://github.com/buraktyce/XAMPP-Webdav-Exploit | 0 | 0| 
-| 20220108T13:23:41Z | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | 0 | 0| 
-| 20220108T13:22:22Z | Source codes of Windows API Exploitation for Red and Blue teams from Pentester Academy | https://github.com/tbhaxor/WinAPI-RedBlue | 45 | 6| 
-| 20220108T13:09:31Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
-| 20220108T13:03:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
-| 20220108T13:00:17Z | User-perceived latency is important for the quality of experience (QoE) of wide-area real-time communications (RTC). This paper explores a futuristic yet important problem facing the RTC community: can we exploit emerging mega-constellations to facilitate low-latency RTC globally? We carry out our quest in three steps. First, through a measurement study associated with a large number of geo-distributed RTC users, we quantitatively expose that the meandering routes over the client-cloud segment and the inter-cloud-site segment in existing cloud-based RTC architecture are critical culprits for the high latency issue suffered by wide-area RTC sessions. Second, after analyzing the low-latency potential enabled by mega-constellations, we formulate the dynamic RTC latency minimization problem under the integrated space-ground environment, and propose SpaceRTC, a satellite-cloud cooperative framework that adaptively selects relay servers upon satellites and cloud sites to build an overlay network which enables diverse close-to-optimal paths, and then judiciously allocates RTC flows in the network to facilitate low-latency interactions. Finally, we implement a hardware-in-the-loop experimental environment based on public constellation information and RTC trace, and extensive experiments demonstrate that SpaceRTC can deliver near-optimal interactive latency, with up to 64.9% latency reduction as compared with other state-of-the-art cloud-based solutions under representative videoconferencing traffic. | https://github.com/SpaceNetLab/SpaceRTC_Project | 2 | 0| 
-| 20220108T12:46:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
-| 20220108T12:46:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 83| 
-| 20220108T12:36:23Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 1 | 0| 
-| 20220108T12:31:14Z | Site where i mostly document my exploits. Built with Nuxt, Tailwind and currently using Forestry CMS | https://github.com/ikeohachidi/ikeoha | 0 | 0| 
+| 20220108T23:46:52Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 124 | 24| 
+| 20220108T23:24:27Z | Make custom invite (vanity link) for your Discord server. | https://github.com/fyannz/vanity-exploit | 0 | 0| 
+| 20220108T23:11:37Z | Written exploits by me | https://github.com/kryptohaker/exploits | 0 | 0| 
+| 20220108T22:46:14Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
+| 20220108T21:22:04Z | catalog / index images, expose interface for exploitation | https://github.com/arossi1/photobook | 0 | 0| 
+| 20220108T20:18:11Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 4 | 1| 
+| 20220108T20:10:33Z | Null | https://github.com/C0ldheim/NetworkExploitation | 0 | 0| 
+| 20220108T20:06:59Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 143 | 62| 
+| 20220108T20:06:05Z | dlink leaked by drix. | https://github.com/DrixSh/dlink-exploit | 1 | 0| 
+| 20220108T20:03:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 83| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T13:54:13Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 0 | 0| 
+| 20220108T23:32:07Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 2 | 0| 
+| 20220108T23:18:36Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 108 | 39| 
+| 20220108T23:16:22Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
+| 20220108T20:06:04Z | Small surveillance backdoor for Windows. | https://github.com/ZMathias/kodiak | 0 | 0| 
+| 20220108T17:02:34Z | DiscordBackdoor/BetterDiscord/  | https://github.com/TheGodVanis/DiscordBackdoor-BetterDiscord | 0 | 0| 
+| 20220108T15:13:12Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 4 | 7| 
 | 20220108T13:18:39Z | Python3 backdoor for windows! | https://github.com/hirusha-adi/backdoor | 0 | 0| 
 | 20220108T10:59:24Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 7| 
-| 20220108T08:12:57Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -88,16 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T13:38:12Z | Solar forecasting | https://github.com/vannserr/Fuzzy-Time-Series-Methods-Applied | 0 | 0| 
-| 20220108T13:32:48Z | fuzzer http ( hackingyseguridad.com ) busca ficheros interesantes en un sitio web | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
-| 20220108T12:54:55Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 35 | 4| 
-| 20220108T12:52:12Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1155 | 154| 
-| 20220108T12:25:58Z | Config files for my GitHub profile. | https://github.com/FuzzyBang/FuzzyBang | 0 | 0| 
-| 20220108T12:25:34Z | Null | https://github.com/mardantoserina/fuzzy-lamp | 0 | 0| 
-| 20220108T12:21:16Z | Null | https://github.com/suparnnosupanto/fuzzy-disco | 0 | 0| 
-| 20220108T12:02:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 12| 
-| 20220108T11:44:17Z | Null | https://github.com/gungnir479/fuzzJIT | 0 | 0| 
-| 20220108T11:39:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
+| 20220108T23:55:18Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
+| 20220108T23:01:56Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20220108T22:10:20Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 38 | 4| 
+| 20220108T22:05:13Z | Robust and blazing fast open-redirect vulnerability scanner with ability of recursevely crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 0 | 0| 
+| 20220108T21:59:00Z | Null | https://github.com/rfuzzo/FuzzoBot | 1 | 0| 
+| 20220108T21:05:51Z | Over the net fuzzing of QUIC servers or clients. | https://github.com/private-octopus/fuzi_q | 0 | 0| 
+| 20220108T19:24:18Z | Heuristical path fuzzing tool like gobuster with options like curl | https://github.com/phvietan/strangebust | 0 | 0| 
+| 20220108T19:15:23Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 10 | 4| 
+| 20220108T18:51:13Z | Null | https://github.com/fuzzywavecode/fuzzywavecode.github.io | 0 | 0| 
+| 20220108T17:40:09Z | Null | https://github.com/mpollicito/fuzzy-meme | 0 | 0| 
 
 
 
