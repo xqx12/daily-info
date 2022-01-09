@@ -54,7 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T13:53:50Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
+| 20220109T13:54:18Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
 | 20220109T13:26:04Z | This repository contains an express API to the keylogger-backdoor application.  | https://github.com/kesaralive/keylogger-express-api | 0 | 0| 
 | 20220109T13:07:43Z | This repository contains a ExpressJs API for the keylogger-backdoor application.  | https://github.com/kesaralive/Keylogger-API | 0 | 0| 
 | 20220109T13:03:25Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 8 | 1| 
@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T13:55:59Z | Null | https://github.com/Pal501/fuzzy-eureka | 0 | 0| 
 | 20220109T13:38:07Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 7 | 0| 
 | 20220109T13:31:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 713 | 70| 
 | 20220109T13:10:01Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20220109T12:07:42Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220109T12:02:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 13| 
 | 20220109T11:59:36Z | Null | https://github.com/Potatochips2001/fuzz | 0 | 0| 
-| 20220109T11:57:44Z | Small project of face recognition and image manipulation in Python using face_recognition and Pillow library | https://github.com/dixneuf19/fuzzy-octo-disco | 0 | 0| 
 
 
 
