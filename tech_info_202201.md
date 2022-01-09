@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T11:58:06Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220109T13:01:53Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220108T01:46:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220107T06:24:16Z | Serial to Ethernet Module based on W5500 & Cortex-M0 | https://github.com/Wiznet/WIZ550S2E-Modbus | 3 | 4| 
 | 20220106T00:01:41Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
@@ -88,23 +88,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
+| 20220109T13:01:53Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220109T12:53:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 83| 
 | 20220109T12:50:16Z | Null | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | 0 | 0| 
 | 20220109T12:48:54Z | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | 1 | 0| 
 | 20220109T12:45:24Z | Null | https://github.com/renox31/silent-exploit-PDF | 0 | 0| 
 | 20220109T12:39:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10571 | 1817| 
 | 20220109T12:20:40Z | This is an paied Exploiting Gui for Hood Modded  | https://github.com/Davidutuu1/HoodX | 0 | 0| 
-| 20220109T12:03:08Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
 | 20220109T12:02:21Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3904 | 1369| 
-| 20220109T11:58:06Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220109T11:41:49Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 8 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T13:03:25Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 8 | 1| 
 | 20220109T12:57:15Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
-| 20220109T12:27:23Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 7 | 1| 
 | 20220109T12:04:48Z | Simple Backdoor made in php.  | https://github.com/CrypticDev/backdoor | 0 | 0| 
 | 20220109T11:25:29Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
 | 20220109T09:50:55Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 67 | 18| 
@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220108T19:17:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2619 | 388| 
+| 20220109T12:03:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2620 | 388| 
 | 20220108T12:59:21Z | symbolic execution for x86 | https://github.com/xsyzbw/bniemczykc | 0 | 0| 
 | 20220108T12:07:07Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 | 20220108T12:04:04Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 511 | 83| 
