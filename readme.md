@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220109T13:52:31Z | 888 RAT  C%est un serveur natif. Il fonctionne sous Windows 7, 8, 8.1, XP, Vista, 2000, 98, 95 sur 64 et 34 bits. Livré avec un démarrage de persistance même s%il est supprimé. Masquer le processus (32 bits). Raccourci de propagation USB (nouvelle méthode). Capable d%usurper n%importe quelle extension (SCR). Il est capable de désactiver teskmgr et Msconfig, option très utile. Obfuscateur Av. Fud du serveur Usg. Uac exploit 0 jour. Livré avec une fonction de contournement pour rester caché de l%antivirus ! Démarrage programmé. Peut masquer l%installation. 2 constructeur personnalisé. Un changeur d%icônes. Capable de lier tout type de fichier. | https://github.com/Skyssy/888-RAT | 0 | 0| 
 | 20220109T13:45:32Z | Null | https://github.com/byth22/Exploits | 0 | 0| 
 | 20220109T13:43:38Z | This Log4j RCE exploit originated from https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | https://github.com/maximofernandezriera/CVE-2021-44228 | 0 | 0| 
 | 20220109T13:03:04Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 42 | 21| 
@@ -48,13 +49,12 @@
 | 20220109T12:48:54Z | Nmap domain list scanner to find exploited vulnerabilities | https://github.com/bormaxi8080/nmap-scanner | 1 | 0| 
 | 20220109T12:45:24Z | Null | https://github.com/renox31/silent-exploit-PDF | 0 | 0| 
 | 20220109T12:39:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10571 | 1817| 
-| 20220109T12:20:40Z | This is an paied Exploiting Gui for Hood Modded  | https://github.com/Davidutuu1/HoodX | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T13:49:21Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
+| 20220109T13:53:50Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
 | 20220109T13:26:04Z | This repository contains an express API to the keylogger-backdoor application.  | https://github.com/kesaralive/keylogger-express-api | 0 | 0| 
 | 20220109T13:07:43Z | This repository contains a ExpressJs API for the keylogger-backdoor application.  | https://github.com/kesaralive/Keylogger-API | 0 | 0| 
 | 20220109T13:03:25Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 8 | 1| 
