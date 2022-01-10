@@ -26,7 +26,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T21:46:06Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 7 | 0| 
 | 20220109T20:10:10Z | Null | https://github.com/Plastic2/klee2 | 0 | 0| 
 | 20220109T19:24:15Z | Null | https://github.com/Plastic2/klee | 0 | 0| 
 | 20220109T18:20:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
