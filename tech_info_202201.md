@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T01:27:52Z | Exploits developed by me. And scripts I made and use for pentesting / getting bloods on HTB | https://github.com/OlivierLaflamme/Exploit-Dev-CVE-Code | 9 | 8| 
 | 20220110T01:18:43Z | These are my notes and also problem writeups for challenges I solve as part of the MIT Binary Exploitation classes hosted over IAP 2022 | https://github.com/huy-dai/BinaryExploitation_IAP_2022 | 0 | 0| 
 | 20220110T01:07:08Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 0 | 0| 
 | 20220110T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
@@ -97,7 +98,6 @@
 | 20220110T00:14:11Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 261 | 10| 
 | 20220110T00:10:35Z | Null | https://github.com/Bio3SS/Exploitation_models | 0 | 0| 
 | 20220109T23:58:54Z | Tools, shellcode and exploits I have created, shared with the community | https://github.com/Br0k3nS3c/MyTools | 0 | 0| 
-| 20220109T23:42:33Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -142,8 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T01:28:28Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
 | 20220110T01:26:30Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 4 | 0| 
-| 20220110T01:26:22Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
 | 20220110T01:02:36Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 245 | 30| 
 | 20220110T01:01:33Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 44 | 5| 
 | 20220110T00:59:10Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
