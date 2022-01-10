@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220110T01:41:04Z | CVE-2021-33044 | Dahua   IPC/VTH/VTO devices auth bypass exploit | https://github.com/dorkerdevil/CVE-2021-33044 | | 
 | 20220110T01:12:08Z | CVE-2021-44228 | This Log4j RCE exploit originated from https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | https://github.com/maximofernandezriera/CVE-2021-44228 | | 
 | 20220110T01:06:39Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
 | 20220110T00:56:59Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
 | 20220109T18:13:07Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220109T16:42:03Z | CVE-2021-42392 | Null | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | | 
-| 20220109T15:39:09Z | CVE-2021-33044 | Dahua   IPC/VTH/VTO devices auth bypass exploit | https://github.com/dorkerdevil/CVE-2021-33044 | | 
 | 20220109T15:38:48Z | CVE-2021-36749 | Null | https://github.com/dorkerdevil/CVE-2021-36749 | | 
 | 20220109T15:38:37Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
 | 20220109T01:45:00Z | CVE-2021-44228 | Null | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | | 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T01:40:30Z | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | 0 | 0| 
+| 20220110T01:39:54Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 0 | 0| 
 | 20220110T01:27:52Z | Exploits developed by me. And scripts I made and use for pentesting / getting bloods on HTB | https://github.com/OlivierLaflamme/Exploit-Dev-CVE-Code | 9 | 8| 
 | 20220110T01:18:43Z | These are my notes and also problem writeups for challenges I solve as part of the MIT Binary Exploitation classes hosted over IAP 2022 | https://github.com/huy-dai/BinaryExploitation_IAP_2022 | 0 | 0| 
-| 20220110T01:07:08Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 0 | 0| 
 | 20220110T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
 | 20220110T00:28:35Z | PS4 Exploit Loader | https://github.com/hbs7/hbs7.github.io | 0 | 0| 
 | 20220110T00:18:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 84| 
 | 20220110T00:15:32Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 1 | 2| 
 | 20220110T00:14:11Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 261 | 10| 
 | 20220110T00:10:35Z | Null | https://github.com/Bio3SS/Exploitation_models | 0 | 0| 
-| 20220109T23:58:54Z | Tools, shellcode and exploits I have created, shared with the community | https://github.com/Br0k3nS3c/MyTools | 0 | 0| 
 
 
 # backdoor on Github 推荐

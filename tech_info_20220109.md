@@ -18,7 +18,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220109T18:13:07Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220109T16:42:03Z | CVE-2021-42392 | Null | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | | 
-| 20220109T15:39:09Z | CVE-2021-33044 | Dahua   IPC/VTH/VTO devices auth bypass exploit | https://github.com/dorkerdevil/CVE-2021-33044 | | 
 | 20220109T15:38:48Z | CVE-2021-36749 | Null | https://github.com/dorkerdevil/CVE-2021-36749 | | 
 | 20220109T15:38:37Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
 | 20220109T01:45:00Z | CVE-2021-44228 | Null | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | | 
