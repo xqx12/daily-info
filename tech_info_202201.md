@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T13:43:32Z | InstallerFileTakeover exploit  | https://github.com/if-redteam/InstallerFileTakeover | 0 | 0| 
+| 20220110T13:46:49Z | Vulnerabilities in Web Application  and How to test and exploit for them. | https://github.com/ehsaanqazi/Mind-Maps | 46 | 8| 
+| 20220110T13:46:11Z | InstallerFileTakeover exploit  | https://github.com/if-redteam/InstallerFileTakeover | 0 | 0| 
 | 20220110T13:16:54Z | Null | https://github.com/hawkwheels/Exploit_scripts | 0 | 0| 
 | 20220110T13:14:23Z | CVenom is a C++ Header-Only Library For Malware And Exploits Development | https://github.com/Mahmoud7Osman/CVenom | 8 | 3| 
 | 20220110T13:11:05Z | exploitation framework | https://github.com/trevalkov/dogfather | 0 | 0| 
@@ -97,14 +98,13 @@
 | 20220110T12:59:01Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3909 | 1370| 
 | 20220110T12:54:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 280 | 85| 
 | 20220110T12:52:33Z | exploitation framework | https://github.com/trevalkov/godfather | 0 | 0| 
-| 20220110T12:52:30Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220110T13:32:13Z | Null | https://github.com/markgoertz/Backdoor-client | 0 | 0| 
-| 20220110T13:31:00Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 36 | 6| 
+| 20220110T13:31:00Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 36 | 7| 
 | 20220110T08:47:34Z | <pre> A backdoor shell that cannot be searched using dork, is perfect for those of you who want to have long-lasting backdoor access to the target website.  In this backdoor shell, several useful features are also available to carry out activities that are usually required, namely:  - Upload - Edit - Rename - Delete - Change permissions - Command - Backconnect - Config grab - Symlink - Jumping - Mass deface / mass delete files - Change email in cpanel to reset password - Create rdp account (for windows server) - Ransomware - Zone-h mass notify  Please download the official version (to avoid loggers and others), which is only here: <a>https://github.com/cowokumel/s3nd4lflop-minishell/</a> </pre> | https://github.com/cowokumel/s3nd4ljepit-minishell | 0 | 0| 
 | 20220110T07:32:50Z | Simple Backdoor made in php.  | https://github.com/CrypticDev/backdoor | 1 | 0| 
 | 20220110T07:09:17Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://openreview.net/pdf?id=9l0K4OM-oXE) in PyTorch. | https://github.com/bboylyg/NAD | 51 | 8| 
