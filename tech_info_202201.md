@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220110 | ceload - 加载 CheatEngine 签名驱动的工具 | https://github.com/ioncodes/ceload| 
+| 20220110 | Fuzzing101 with LibAFL - Part IV: Fuzzing LibTIFF | https://epi052.gitlab.io/notes-to-self/blog/2021-11-26-fuzzing-101-with-libafl-part-4/| 
+| 20220110 | Remote Code Execution in Google Cloud Dataflow | https://mbrancato.github.io/2021/12/28/rce-dataflow.html| 
+| 20220110 | 通过配置特殊配置文件，可以在 NPM CI 过程中执行任意命令 | https://medium.com/cider-sec/npm-might-be-executing-malicious-code-in-your-ci-without-your-knowledge-e5e45bab2fed| 
+| 20220110 | Unpacking CVE-2021-40444: A Deep Technical Analysis of an Office RCE Exploit | https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/| 
+| 20220110 | 检测 Syscall Number 的新方法 | https://www.mdsec.co.uk/2022/01/edr-parallel-asis-through-analysis/| 
+| 20220110 | CVE-2021-38000: Chrome Intents Logic Flaw | https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2021/CVE-2021-38000.html| 
+| 20220110 | My first impressions of web3 | https://moxie.org/2022/01/07/web3-first-impressions.html| 
+| 20220110 | 利用差异模糊测试的方案挖掘智能合约虚拟机的漏洞 | https://github.com/fgsect/NeoDiff/blob/main/roots21-2.pdf| 
 | 20220107 | 腾讯安全团队总结的面向开发人员梳理的代码安全指南 | https://github.com/Tencent/secguide| 
 | 20220107 | AI-for-Security-Learning - 安全场景、基于 AI 的安全算法和安全数据分析学习笔记 | https://github.com/404notf0und/AI-for-Security-Learning| 
 | 20220107 | The JNDI Strikes Back – Unauthenticated RCE in H2 Database Console | https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/| 
@@ -17,20 +26,14 @@
 | 20220107 | 年轻人如何挖掘第一个RCE. | https://paper.seebug.org/1809/| 
 | 20220106 | win32k CVE-2021-1732 window 对象类型混淆漏洞的分析 | https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/technical-analysis-of-cve-2021-1732/| 
 | 20220106 | NoReboot - 有研究员实现对 iOS 关机过程伪造，“关机”后继续监控用户 | https://blog.zecops.com/research/persistence-without-persistence-meet-the-ultimate-persistence-bug-noreboot/| 
-| 20220106 | Issue 2224: XNU: heap-use-after-free in inm_merge | https://bugs.chromium.org/p/project-zero/issues/detail?id=2224| 
-| 20220106 | API 安全相关的工具和资料整理 | https://github.com/arainho/awesome-api-security| 
-| 20220106 | 有开发者开发了一个漏洞预警工具 BugAlert | https://mattslifebytes.com/2022/01/04/bugalert-org/| 
-| 20220106 | 因供应链安全问题，美国 Broward 系统泄露 130 万病人的健康数据 | https://threatpost.com/broward-breach-healthcare-supply-chain/177401/| 
-| 20220106 | FortiGuard Labs 对 Active-Directory CVE-2021-42278/42287 漏洞的分析 | https://www.fortinet.com/blog/threat-research/cve-2021-42278-cve-2021-42287-from-user-to-domain-admin-60-seconds| 
-| 20220106 | Toward a Best-of-Both-Worlds Binary Disassembler | http://blog.trailofbits.com/2022/01/05/toward-a-best-of-both-worlds-binary-disassembler/| 
-| 20220106 | 软件无线电在漏洞挖掘领域的应用 | http://radioactive.blog/2022/01/05/insec_world_2021_chengdu/| 
-| 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | https://sec.today/pulses/ba6b2944-11b1-400c-bc95-e9548d4f2e3b/| 
-| 20220106 | 据 Checkpoint 分析，Zloader 恶意软件利用 Windows 签名验证的缺陷将恶意 Payload 注入到合法签名的 DLL 文件中绕过杀软检测 | http://research.checkpoint.com/2022/can-you-trust-a-files-digital-signature-new-zloader-campaign-exploits-microsofts-signature-verification-putting-users-at-risk/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220110 | SecWiki周刊（第410期) | https://www.sec-wiki.com/weekly/410| 
+| 20220110 | Rootkit 系列研究-Windows平台的高隐匿、高持久化威胁 | https://mp.weixin.qq.com/s/YE7bt6Bhz2mYYp1n-2vJtQ| 
+| 20220110 | 2021年侵犯个人信息十大典型案例 | https://mp.weixin.qq.com/s/mL3UWks3T2s1sliH28GaqA| 
 | 20220108 | 有用的无用模型：网络安全中复杂问题的建模方法 | https://toooold.com/2022/01/04/useful_useless_model_cn.html| 
 | 20220108 | APT新趋势：战略性休眠域名利用率提升，检测困难 | https://mp.weixin.qq.com/s/yoqfkKbvh8S0gQWX8xskZA| 
 | 20220108 | 2021年网络安全产业态势总结 | https://mp.weixin.qq.com/s/xMXRlTjzeS6a4hYRyH1wZg| 
@@ -38,33 +41,30 @@
 | 20220107 | 《2021太空安全报告》 | https://mp.weixin.qq.com/s/LBrXIivudLZlH_a-ecEzDg| 
 | 20220106 | 2021年“CCF优秀博士学位论文奖”列表及全文 | https://www.ccf.org.cn/Awards/Awards/2022-01-05/752703.shtml| 
 | 20220106 | 互联网信息服务算法推荐管理规定 | http://www.gov.cn/zhengce/zhengceku/2022-01/04/content_5666429.htm| 
-| 20220106 | 浅谈数据安全运营能力建设 | https://mp.weixin.qq.com/s/SvMd8aCalyg5pL6Jri-4AA| 
-| 20220106 | DataCon2021域名体系安全赛道黑产方向赛题深度解析 | https://mp.weixin.qq.com/s/xIuXEt6DXoBoXqgzBIWcxQ| 
-| 20220106 | 某系统漏洞挖掘之固件分析 | https://mp.weixin.qq.com/s/-xlzHLT6WoX2nKphpO04fQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220110T12:58:17Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
+| 20220110T11:05:52Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20220110T10:02:18Z | CVE-2021-42392 | Null | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | | 
+| 20220110T08:46:27Z | CVE-2022-21660 | CVE-2022-21660 | https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660 | | 
+| 20220110T07:07:15Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | | 
+| 20220110T07:02:01Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
 | 20220110T02:46:28Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
 | 20220110T02:36:38Z | CVE-2021-41277 | CVE-2021-41277 can be extended to an SSRF  | https://github.com/sasukeourad/CVE-2021-41277_SSRF | | 
 | 20220110T02:23:10Z | cve-2022-2222 | Null | https://github.com/gnaiq/cve-2022-2222 | | 
 | 20220110T01:49:54Z | cve-2021-44228 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | | 
-| 20220110T01:46:32Z | cve-2021-4428 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-4428 | | 
-| 20220110T01:41:04Z | CVE-2021-33044 | Dahua   IPC/VTH/VTO devices auth bypass exploit | https://github.com/dorkerdevil/CVE-2021-33044 | | 
-| 20220110T01:12:08Z | CVE-2021-44228 | This Log4j RCE exploit originated from https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | https://github.com/maximofernandezriera/CVE-2021-44228 | | 
-| 20220110T00:56:59Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
-| 20220109T18:13:07Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20220109T16:42:03Z | CVE-2021-42392 | Null | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:53:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3524 | 111| 
-| 20220110T02:11:45Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 8 | 0| 
+| 20220110T10:39:31Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 17 | 0| 
+| 20220110T10:22:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3536 | 112| 
+| 20220110T04:02:35Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 8 | 0| 
 | 20220110T02:09:03Z | Config files for my GitHub profile. | https://github.com/kleen888/kleen888 | 0 | 0| 
-| 20220110T01:16:36Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 13 | 0| 
 | 20220109T20:10:10Z | Null | https://github.com/Plastic2/klee2 | 0 | 0| 
 | 20220109T19:24:15Z | Null | https://github.com/Plastic2/klee | 0 | 0| 
 | 20220109T18:20:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:33:31Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220110T11:39:16Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220108T01:46:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220107T06:24:16Z | Serial to Ethernet Module based on W5500 & Cortex-M0 | https://github.com/Wiznet/WIZ550S2E-Modbus | 3 | 4| 
 | 20220106T00:01:41Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:51:35Z | This repo will be validating various threat hunting scenarios based on Log4j Exploitation. | https://github.com/C2ActiveThreatHunters/ThreatHunting-for-Log4j | 0 | 0| 
-| 20220110T02:47:38Z | Null | https://github.com/errorecho/Windows-Exploits | 0 | 0| 
-| 20220110T02:45:03Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 1 | 0| 
-| 20220110T02:33:31Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
-| 20220110T02:16:39Z | Null | https://github.com/YungBinary/get-log4j-exploit-payload-docker | 0 | 0| 
-| 20220110T02:13:04Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1547 | 529| 
-| 20220110T02:08:02Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
-| 20220110T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
-| 20220110T01:58:25Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
-| 20220110T01:40:30Z | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | 0 | 0| 
+| 20220110T12:59:01Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3909 | 1370| 
+| 20220110T12:54:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 280 | 85| 
+| 20220110T12:52:33Z | exploitation framework | https://github.com/trevalkov/godfather | 0 | 0| 
+| 20220110T12:52:30Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 0 | 0| 
+| 20220110T12:49:14Z | Automated Beef based browser exploitation framework with custom modules. | https://github.com/Darkhaxxor005/BeefSec | 0 | 0| 
+| 20220110T12:39:59Z | Config files for my GitHub profile. | https://github.com/Exploits59/Exploits59 | 0 | 0| 
+| 20220110T12:26:09Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 8 | 4| 
+| 20220110T12:07:29Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 1 | 0| 
+| 20220110T12:03:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
+| 20220110T11:44:43Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:46:14Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
-| 20220110T02:15:58Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 23 | 5| 
+| 20220110T11:11:39Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 35 | 6| 
+| 20220110T08:47:34Z | <pre> A backdoor shell that cannot be searched using dork, is perfect for those of you who want to have long-lasting backdoor access to the target website.  In this backdoor shell, several useful features are also available to carry out activities that are usually required, namely:  - Upload - Edit - Rename - Delete - Change permissions - Command - Backconnect - Config grab - Symlink - Jumping - Mass deface / mass delete files - Change email in cpanel to reset password - Create rdp account (for windows server) - Ransomware - Zone-h mass notify  Please download the official version (to avoid loggers and others), which is only here: <a>https://github.com/cowokumel/s3nd4lflop-minishell/</a> </pre> | https://github.com/cowokumel/s3nd4ljepit-minishell | 0 | 0| 
+| 20220110T07:32:50Z | Simple Backdoor made in php.  | https://github.com/CrypticDev/backdoor | 1 | 0| 
+| 20220110T07:09:17Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://openreview.net/pdf?id=9l0K4OM-oXE) in PyTorch. | https://github.com/bboylyg/NAD | 51 | 8| 
+| 20220110T06:01:18Z | A script to create a new WordPress user with a dynamic credential and role. | https://github.com/alvindcaesar/wp-backdoor-entry | 0 | 0| 
+| 20220110T05:44:39Z | Null | https://github.com/Ramirez1001/backdoor | 0 | 0| 
+| 20220110T03:40:44Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
+| 20220110T03:16:06Z | A Kotlin program used to analyse and discover backdoors in Minecraft Java 1.12.2 forge mods | https://github.com/Tigermouthbear/Theia | 145 | 16| 
 | 20220109T22:18:21Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220109T14:01:27Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
-| 20220109T13:26:04Z | This repository contains an express API to the keylogger-backdoor application.  | https://github.com/kesaralive/keylogger-express-api | 0 | 0| 
-| 20220109T13:07:43Z | This repository contains a ExpressJs API for the keylogger-backdoor application.  | https://github.com/kesaralive/Keylogger-API | 0 | 0| 
-| 20220109T12:04:48Z | Simple Backdoor made in php.  | https://github.com/CrypticDev/backdoor | 0 | 0| 
-| 20220109T09:50:55Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 67 | 18| 
-| 20220109T07:43:33Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 7| 
-| 20220109T04:20:56Z | Null | https://github.com/hackintoanetwork/Backdoor-Python | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
