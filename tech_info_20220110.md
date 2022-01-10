@@ -100,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T03:00:16Z | the first testy repo | https://github.com/pedi26/fuzzy-octo-garbanzo | 0 | 0| 
-| 20220110T02:55:09Z | Fuzzer and generator for string and regex problems in SMT-LIB 2.x format. | https://github.com/vidorchany/dblotsky6 | 0 | 0| 
-| 20220110T02:53:46Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 6 | 0| 
-| 20220110T02:29:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20220110T02:18:01Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
-| 20220110T02:14:13Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 45 | 5| 
-| 20220110T02:05:27Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 261 | 25| 
-| 20220110T01:56:03Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1149 | 47| 
-| 20220110T01:46:38Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
-| 20220110T01:02:36Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 245 | 30| 
+| 20220110T13:04:29Z | Null | https://github.com/soWhat1/FloatFuzzing | 0 | 0| 
+| 20220110T13:03:51Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
+| 20220110T13:03:49Z | Demo of some fuzzy set concepts | https://github.com/uekstrom/fuzzy-sets | 0 | 0| 
+| 20220110T13:02:57Z | nothing especial just a simple fuzzy control system =) | https://github.com/garfield-gray/Fuzzy | 0 | 0| 
+| 20220110T12:53:14Z | Null | https://github.com/obinnae/fuzzy-computing-machine | 0 | 0| 
+| 20220110T12:39:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3872 | 917| 
+| 20220110T12:34:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 714 | 70| 
+| 20220110T12:32:03Z | Null | https://github.com/season-lab/fuzzy-sat | 7 | 0| 
+| 20220110T12:23:51Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 51 | 6| 
+| 20220110T12:11:56Z | An Implementation of a Fuzzy Logic Speed Controller for DC Motor using Arduino Platform | https://github.com/sscdodo/FuzzyLogic_DCMotor | 1 | 0| 
 
 
 
