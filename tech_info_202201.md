@@ -88,13 +88,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T00:57:58Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 0 | 0| 
+| 20220110T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
+| 20220110T01:02:59Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 0 | 0| 
 | 20220110T00:28:35Z | PS4 Exploit Loader | https://github.com/hbs7/hbs7.github.io | 0 | 0| 
 | 20220110T00:18:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 84| 
 | 20220110T00:15:32Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 1 | 2| 
 | 20220110T00:14:11Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 261 | 10| 
 | 20220110T00:10:35Z | Null | https://github.com/Bio3SS/Exploitation_models | 0 | 0| 
-| 20220110T00:03:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
 | 20220109T23:58:54Z | Tools, shellcode and exploits I have created, shared with the community | https://github.com/Br0k3nS3c/MyTools | 0 | 0| 
 | 20220109T23:42:33Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 | 20220109T23:21:55Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 145 | 63| 
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T12:03:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2620 | 388| 
+| 20220109T22:57:15Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
+| 20220109T22:18:21Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
+| 20220109T18:20:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
+| 20220109T17:35:24Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 511 | 83| 
+| 20220109T16:39:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2621 | 390| 
 | 20220108T12:59:21Z | symbolic execution for x86 | https://github.com/xsyzbw/bniemczykc | 0 | 0| 
 | 20220108T12:07:07Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
-| 20220108T12:04:04Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 511 | 83| 
 | 20220108T08:01:09Z | A tool for incremental symbolic execution | https://github.com/FenseTool/fense | 0 | 0| 
 | 20220108T02:59:04Z | Experimental symbolic execution compiler/language. | https://github.com/jakzo/Zymbolic | 0 | 0| 
 | 20220108T01:46:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
-| 20220107T23:14:40Z | Semantic interpretation the ARM Specification Language using symbolic execution  | https://github.com/GaloisInc/asl-translator | 3 | 0| 
-| 20220107T22:01:07Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1957 | 406| 
-| 20220107T20:32:36Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 47 | 3| 
 
 
 # big4 on Github 推荐

@@ -79,7 +79,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T12:03:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2620 | 388| 
+| 20220109T22:57:15Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
+| 20220109T22:18:21Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
+| 20220109T18:20:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
+| 20220109T17:35:24Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 511 | 83| 
+| 20220109T16:39:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2621 | 390| 
 
 
 # big4 on Github 推荐
