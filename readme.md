@@ -58,8 +58,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T13:55:47Z | InstallerFileTakeover exploit  | https://github.com/if-redteam/InstallerFileTakeover | 0 | 0| 
 | 20220110T13:46:49Z | Vulnerabilities in Web Application  and How to test and exploit for them. | https://github.com/ehsaanqazi/Mind-Maps | 46 | 8| 
-| 20220110T13:46:11Z | InstallerFileTakeover exploit  | https://github.com/if-redteam/InstallerFileTakeover | 0 | 0| 
 | 20220110T13:16:54Z | Null | https://github.com/hawkwheels/Exploit_scripts | 0 | 0| 
 | 20220110T13:14:23Z | CVenom is a C++ Header-Only Library For Malware And Exploits Development | https://github.com/Mahmoud7Osman/CVenom | 8 | 3| 
 | 20220110T13:11:05Z | exploitation framework | https://github.com/trevalkov/dogfather | 0 | 0| 
