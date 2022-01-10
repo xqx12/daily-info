@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T01:18:43Z | These are my notes and also problem writeups for challenges I solve as part of the MIT Binary Exploitation classes hosted over IAP 2022 | https://github.com/huy-dai/BinaryExploitation_IAP_2022 | 0 | 0| 
 | 20220110T01:07:08Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 0 | 0| 
 | 20220110T01:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
 | 20220110T00:28:35Z | PS4 Exploit Loader | https://github.com/hbs7/hbs7.github.io | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220110T00:10:35Z | Null | https://github.com/Bio3SS/Exploitation_models | 0 | 0| 
 | 20220109T23:58:54Z | Tools, shellcode and exploits I have created, shared with the community | https://github.com/Br0k3nS3c/MyTools | 0 | 0| 
 | 20220109T23:42:33Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
-| 20220109T23:21:55Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 145 | 63| 
 
 
 # backdoor on Github 推荐
