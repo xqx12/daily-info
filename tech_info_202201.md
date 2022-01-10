@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:34:20Z | CVE-2021-41277 | CVE-2021-41277 can be extended to an SSRF  | https://github.com/sasukeourad/CVE-2021-41277_SSRF | | 
+| 20220110T02:36:38Z | CVE-2021-41277 | CVE-2021-41277 can be extended to an SSRF  | https://github.com/sasukeourad/CVE-2021-41277_SSRF | | 
 | 20220110T02:23:10Z | cve-2022-2222 | Null | https://github.com/gnaiq/cve-2022-2222 | | 
 | 20220110T01:49:54Z | cve-2021-44228 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | | 
 | 20220110T01:46:32Z | cve-2021-4428 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-4428 | | 
@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:34:58Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
+| 20220110T02:36:28Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
 | 20220110T02:15:58Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 23 | 5| 
 | 20220109T22:18:21Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220109T14:01:27Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
