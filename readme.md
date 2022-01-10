@@ -58,6 +58,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T13:11:05Z | exploitation framework | https://github.com/trevalkov/dogfather | 0 | 0| 
+| 20220110T13:07:46Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 55 | 7| 
+| 20220110T13:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
 | 20220110T12:59:01Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3909 | 1370| 
 | 20220110T12:54:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 280 | 85| 
 | 20220110T12:52:33Z | exploitation framework | https://github.com/trevalkov/godfather | 0 | 0| 
@@ -65,9 +68,6 @@
 | 20220110T12:49:14Z | Automated Beef based browser exploitation framework with custom modules. | https://github.com/Darkhaxxor005/BeefSec | 0 | 0| 
 | 20220110T12:39:59Z | Config files for my GitHub profile. | https://github.com/Exploits59/Exploits59 | 0 | 0| 
 | 20220110T12:26:09Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 8 | 4| 
-| 20220110T12:07:29Z | Multi FW Support Exploit Host For PS4. | https://github.com/Harleythetech/MultiFW-RD-PS4 | 1 | 0| 
-| 20220110T12:03:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
-| 20220110T11:44:43Z | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | 0 | 0| 
 
 
 # backdoor on Github 推荐
