@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220110T02:46:28Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
 | 20220110T02:36:38Z | CVE-2021-41277 | CVE-2021-41277 can be extended to an SSRF  | https://github.com/sasukeourad/CVE-2021-41277_SSRF | | 
 | 20220110T02:23:10Z | cve-2022-2222 | Null | https://github.com/gnaiq/cve-2022-2222 | | 
 | 20220110T01:49:54Z | cve-2021-44228 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | | 
 | 20220110T01:46:32Z | cve-2021-4428 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-4428 | | 
 | 20220110T01:41:04Z | CVE-2021-33044 | Dahua   IPC/VTH/VTO devices auth bypass exploit | https://github.com/dorkerdevil/CVE-2021-33044 | | 
 | 20220110T01:12:08Z | CVE-2021-44228 | This Log4j RCE exploit originated from https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | https://github.com/maximofernandezriera/CVE-2021-44228 | | 
-| 20220110T01:06:39Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
 | 20220110T00:56:59Z | CVE-2021-44228 | Log4Shell Proof of Concept (CVE-2021-44228) | https://github.com/Kr0ff/CVE-2021-44228 | | 
 | 20220109T18:13:07Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220109T16:42:03Z | CVE-2021-42392 | Null | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | | 
@@ -88,22 +88,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T02:47:38Z | Null | https://github.com/errorecho/Windows-Exploits | 0 | 0| 
+| 20220110T02:47:34Z | This repo will be validating various threat hunting scenarios based on Log4j Exploitation. | https://github.com/C2ActiveThreatHunters/ThreatHunting-for-Log4j | 0 | 0| 
+| 20220110T02:45:03Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 1 | 0| 
 | 20220110T02:33:31Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220110T02:16:39Z | Null | https://github.com/YungBinary/get-log4j-exploit-payload-docker | 0 | 0| 
 | 20220110T02:13:04Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1547 | 529| 
 | 20220110T02:08:02Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 | 20220110T02:03:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
 | 20220110T01:58:25Z | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | 1 | 0| 
-| 20220110T01:45:11Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 1 | 0| 
 | 20220110T01:40:30Z | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | 0 | 0| 
-| 20220110T01:27:52Z | Exploits developed by me. And scripts I made and use for pentesting / getting bloods on HTB | https://github.com/OlivierLaflamme/Exploit-Dev-CVE-Code | 9 | 8| 
-| 20220110T01:18:43Z | These are my notes and also problem writeups for challenges I solve as part of the MIT Binary Exploitation classes hosted over IAP 2022 | https://github.com/huy-dai/BinaryExploitation_IAP_2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:36:28Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
+| 20220110T02:46:14Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
 | 20220110T02:15:58Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 23 | 5| 
 | 20220109T22:18:21Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220109T14:01:27Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
