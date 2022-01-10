@@ -58,6 +58,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T13:14:33Z | Null | https://github.com/hawkwheels/Exploit_scripts | 0 | 0| 
+| 20220110T13:14:23Z | CVenom is a C++ Header-Only Library For Malware And Exploits Development | https://github.com/Mahmoud7Osman/CVenom | 8 | 3| 
 | 20220110T13:11:05Z | exploitation framework | https://github.com/trevalkov/dogfather | 0 | 0| 
 | 20220110T13:07:46Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 55 | 7| 
 | 20220110T13:03:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
@@ -66,8 +68,6 @@
 | 20220110T12:52:33Z | exploitation framework | https://github.com/trevalkov/godfather | 0 | 0| 
 | 20220110T12:52:30Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 0 | 0| 
 | 20220110T12:49:14Z | Automated Beef based browser exploitation framework with custom modules. | https://github.com/Darkhaxxor005/BeefSec | 0 | 0| 
-| 20220110T12:39:59Z | Config files for my GitHub profile. | https://github.com/Exploits59/Exploits59 | 0 | 0| 
-| 20220110T12:26:09Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 8 | 4| 
 
 
 # backdoor on Github 推荐
