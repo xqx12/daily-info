@@ -142,11 +142,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T01:01:33Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 44 | 5| 
 | 20220110T00:59:10Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20220110T00:18:24Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220110T00:14:09Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 3 | 0| 
 | 20220110T00:05:41Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 13| 
-| 20220109T23:54:02Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 43 | 5| 
 | 20220109T23:50:22Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1149 | 47| 
 | 20220109T23:47:20Z | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/T-Reqs-HTTP-Fuzzer | 112 | 9| 
 | 20220109T22:53:10Z | Null | https://github.com/Noormahmoud/Fuzzy-Control | 0 | 0| 

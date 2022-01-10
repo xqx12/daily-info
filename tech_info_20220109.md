@@ -90,7 +90,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T23:54:02Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 43 | 5| 
 | 20220109T23:50:22Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1149 | 47| 
 | 20220109T23:47:20Z | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/T-Reqs-HTTP-Fuzzer | 112 | 9| 
 | 20220109T22:53:10Z | Null | https://github.com/Noormahmoud/Fuzzy-Control | 0 | 0| 
@@ -100,6 +99,7 @@
 | 20220109T22:17:21Z | A fuzzing framework targeted at MQTT brokers. Modeled as a finite state machine (using Markov Modeling). | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20220109T21:50:04Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20220109T21:27:56Z | Null | https://github.com/obinnae/fuzzy-computing-machine | 0 | 0| 
+| 20220109T21:23:02Z | Null | https://github.com/academy47/fuzzy-octo-rotary-phone1 | 0 | 0| 
 
 
 
