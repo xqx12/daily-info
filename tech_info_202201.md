@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T01:53:33Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 | 20220110T01:45:11Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 1 | 0| 
 | 20220110T01:40:30Z | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | 0 | 0| 
 | 20220110T01:27:52Z | Exploits developed by me. And scripts I made and use for pentesting / getting bloods on HTB | https://github.com/OlivierLaflamme/Exploit-Dev-CVE-Code | 9 | 8| 
@@ -97,7 +98,6 @@
 | 20220110T00:18:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 278 | 84| 
 | 20220110T00:15:32Z | We propose Deep Kronecker Neural Network, which is a general framework for neural networks with adaptive activation functions. In particular we proposed Rowdy activation functions that inject sinusoidal fluctuations thereby allows the optimizer to exploit more and train the network faster. Various test cases ranging from function approximation, inferring the PDE solution, and the standard deep learning benchmarks like MNIST, CIFAR-10, CIFAR-100, SVHN etc are solved to show the efficacy of the proposed activation functions. | https://github.com/AmeyaJagtap/Rowdy_Activation_Functions | 1 | 2| 
 | 20220110T00:14:11Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 261 | 10| 
-| 20220110T00:10:35Z | Null | https://github.com/Bio3SS/Exploitation_models | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T01:53:17Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
+| 20220110T01:55:23Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
 | 20220110T01:52:34Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 4 | 0| 
 | 20220110T01:46:38Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
 | 20220110T01:38:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 

@@ -46,7 +46,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220109T23:58:54Z | Tools, shellcode and exploits I have created, shared with the community | https://github.com/Br0k3nS3c/MyTools | 0 | 0| 
-| 20220109T23:42:33Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
 | 20220109T23:21:55Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 145 | 63| 
 | 20220109T23:04:52Z | A Database of exploiters for a dead game with no anti cheat. | https://github.com/jnz-dev/PL-Exploiter-DB | 0 | 0| 
 | 20220109T22:52:14Z |  An assembly tutorial for Game Boy showing how the scroll registers can be exploited to create some nice and interesting effects.  | https://github.com/gbdev/DeadCScroll | 0 | 0| 
@@ -55,6 +54,7 @@
 | 20220109T21:55:15Z | Nerfs exploitable village mechanics such as trades and automatic farms | https://github.com/MithrandirCraft/NerfVillages | 0 | 0| 
 | 20220109T21:48:52Z | Null | https://github.com/MedKH1684/Log4j-Vulneradility-Exploitation | 0 | 0| 
 | 20220109T21:24:34Z | 4eisa40 GPU computing : exploiting the GPU to execute advanced simulations | https://github.com/ECAM-4MIN/GPU-computing | 2 | 0| 
+| 20220109T20:58:25Z | Will extract all software and version from the system and try to find an exploit. | https://github.com/Anonyme35/vulnerability_system-finder | 0 | 0| 
 
 
 # backdoor on Github 推荐
