@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T13:43:32Z | InstallerFileTakeover exploit  | https://github.com/if-redteam/InstallerFileTakeover | 0 | 0| 
 | 20220110T13:16:54Z | Null | https://github.com/hawkwheels/Exploit_scripts | 0 | 0| 
 | 20220110T13:14:23Z | CVenom is a C++ Header-Only Library For Malware And Exploits Development | https://github.com/Mahmoud7Osman/CVenom | 8 | 3| 
 | 20220110T13:11:05Z | exploitation framework | https://github.com/trevalkov/dogfather | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220110T12:54:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 280 | 85| 
 | 20220110T12:52:33Z | exploitation framework | https://github.com/trevalkov/godfather | 0 | 0| 
 | 20220110T12:52:30Z | Null | https://github.com/nu11secur1ty/Windows11Exploits | 0 | 0| 
-| 20220110T12:49:14Z | Automated Beef based browser exploitation framework with custom modules. | https://github.com/Darkhaxxor005/BeefSec | 0 | 0| 
 
 
 # backdoor on Github 推荐
