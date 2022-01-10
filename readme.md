@@ -95,12 +95,12 @@
 | 20220109T23:47:20Z | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/T-Reqs-HTTP-Fuzzer | 112 | 9| 
 | 20220109T22:53:10Z | Null | https://github.com/Noormahmoud/Fuzzy-Control | 0 | 0| 
 | 20220109T22:50:52Z | test website | https://github.com/nupurdogra/fuzzywuzzy.github.io | 0 | 0| 
-| 20220109T22:39:07Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
 | 20220109T22:18:32Z | Null | https://github.com/divyatyam/fuzzy-palm-tree | 0 | 0| 
 | 20220109T22:17:21Z | A fuzzing framework targeted at MQTT brokers. Modeled as a finite state machine (using Markov Modeling). | https://github.com/PBearson/FUME-Fuzzing-MQTT-Brokers | 0 | 0| 
 | 20220109T21:50:04Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 3 | 1| 
 | 20220109T21:27:56Z | Null | https://github.com/obinnae/fuzzy-computing-machine | 0 | 0| 
 | 20220109T21:23:02Z | Null | https://github.com/academy47/fuzzy-octo-rotary-phone1 | 0 | 0| 
+| 20220109T21:19:25Z | Null | https://github.com/academy47/fuzzy-octo-rotary-phone | 0 | 0| 
 
 
 
