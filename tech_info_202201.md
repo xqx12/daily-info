@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220109T16:37:30Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220110T02:21:07Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220108T01:46:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220107T06:24:16Z | Serial to Ethernet Module based on W5500 & Cortex-M0 | https://github.com/Wiznet/WIZ550S2E-Modbus | 3 | 4| 
 | 20220106T00:01:41Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T02:21:07Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220110T02:16:39Z | Null | https://github.com/YungBinary/get-log4j-exploit-payload-docker | 0 | 0| 
 | 20220110T02:13:04Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1547 | 529| 
 | 20220110T02:08:02Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220110T01:40:30Z | A data science project about vulnerabilities and exploits. | https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis | 0 | 0| 
 | 20220110T01:27:52Z | Exploits developed by me. And scripts I made and use for pentesting / getting bloods on HTB | https://github.com/OlivierLaflamme/Exploit-Dev-CVE-Code | 9 | 8| 
 | 20220110T01:18:43Z | These are my notes and also problem writeups for challenges I solve as part of the MIT Binary Exploitation classes hosted over IAP 2022 | https://github.com/huy-dai/BinaryExploitation_IAP_2022 | 0 | 0| 
-| 20220110T00:28:35Z | PS4 Exploit Loader | https://github.com/hbs7/hbs7.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
