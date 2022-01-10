@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220110T01:46:32Z | cve-2021-4428 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-4428 | | 
 | 20220110T01:41:04Z | CVE-2021-33044 | Dahua   IPC/VTH/VTO devices auth bypass exploit | https://github.com/dorkerdevil/CVE-2021-33044 | | 
 | 20220110T01:12:08Z | CVE-2021-44228 | This Log4j RCE exploit originated from https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | https://github.com/maximofernandezriera/CVE-2021-44228 | | 
 | 20220110T01:06:39Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
@@ -55,7 +56,6 @@
 | 20220109T15:38:48Z | CVE-2021-36749 | Null | https://github.com/dorkerdevil/CVE-2021-36749 | | 
 | 20220109T15:38:37Z | CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | | 
 | 20220109T01:45:00Z | CVE-2021-44228 | Null | https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified- | | 
-| 20220108T22:50:58Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 
 
 # klee on Github 推荐
@@ -143,7 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T01:46:17Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
+| 20220110T01:46:47Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
+| 20220110T01:46:38Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
 | 20220110T01:38:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220110T01:26:30Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 4 | 0| 
 | 20220110T01:02:36Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 245 | 30| 
@@ -152,7 +153,6 @@
 | 20220110T00:05:41Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 39 | 13| 
 | 20220109T23:50:22Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1149 | 47| 
 | 20220109T23:47:20Z | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/T-Reqs-HTTP-Fuzzer | 112 | 9| 
-| 20220109T22:53:10Z | Null | https://github.com/Noormahmoud/Fuzzy-Control | 0 | 0| 
 
 
 
