@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T02:09:03Z | Config files for my GitHub profile. | https://github.com/kleen888/kleen888 | 0 | 0| 
 | 20220110T01:44:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3523 | 110| 
 | 20220110T01:16:36Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 13 | 0| 
 | 20220109T21:46:06Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 7 | 0| 
@@ -70,7 +71,6 @@
 | 20220109T17:42:56Z | Null | https://github.com/AdilNaseemSheikh/kleenmycar | 0 | 0| 
 | 20220109T17:35:36Z | Null | https://github.com/AdilNaseemSheikh/kleen-privacypolice | 0 | 0| 
 | 20220109T12:11:24Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 1 | 1| 
-| 20220109T02:43:53Z | Null | https://github.com/lindsayp30/sort-o_kleex | 0 | 0| 
 
 
 # s2e on Github 推荐
