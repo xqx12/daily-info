@@ -143,10 +143,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T01:52:16Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
+| 20220110T01:53:17Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
+| 20220110T01:52:34Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 4 | 0| 
 | 20220110T01:46:38Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
 | 20220110T01:38:44Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20220110T01:26:30Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 4 | 0| 
 | 20220110T01:02:36Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 245 | 30| 
 | 20220110T01:01:33Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 44 | 5| 
 | 20220110T00:59:10Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
