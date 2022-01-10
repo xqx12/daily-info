@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T13:14:33Z | Null | https://github.com/hawkwheels/Exploit_scripts | 0 | 0| 
+| 20220110T13:16:54Z | Null | https://github.com/hawkwheels/Exploit_scripts | 0 | 0| 
 | 20220110T13:14:23Z | CVenom is a C++ Header-Only Library For Malware And Exploits Development | https://github.com/Mahmoud7Osman/CVenom | 8 | 3| 
 | 20220110T13:11:05Z | exploitation framework | https://github.com/trevalkov/dogfather | 0 | 0| 
 | 20220110T13:07:46Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 55 | 7| 
