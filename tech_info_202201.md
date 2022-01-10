@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T02:48:54Z | This repo will be validating various threat hunting scenarios based on Log4j Exploitation. | https://github.com/C2ActiveThreatHunters/ThreatHunting-for-Log4j | 0 | 0| 
 | 20220110T02:47:38Z | Null | https://github.com/errorecho/Windows-Exploits | 0 | 0| 
-| 20220110T02:47:34Z | This repo will be validating various threat hunting scenarios based on Log4j Exploitation. | https://github.com/C2ActiveThreatHunters/ThreatHunting-for-Log4j | 0 | 0| 
 | 20220110T02:45:03Z | Validate arbitrary base64-encoded image uploads as incoming data urls while preserving image integrity but removing EXIF and unwanted artifacts and mitigating RCE-exploit potential. | https://github.com/hostinfodev/jericho-validator | 1 | 0| 
 | 20220110T02:33:31Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220110T02:16:39Z | Null | https://github.com/YungBinary/get-log4j-exploit-payload-docker | 0 | 0| 
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T02:49:44Z | Fuzzer and generator for string and regex problems in SMT-LIB 2.x format. | https://github.com/vidorchany/dblotsky6 | 0 | 0| 
 | 20220110T02:45:22Z | the first testy repo | https://github.com/pedi26/fuzzy-octo-garbanzo | 0 | 0| 
 | 20220110T02:33:46Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 6 | 0| 
 | 20220110T02:29:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
@@ -152,7 +153,6 @@
 | 20220110T01:56:03Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1149 | 47| 
 | 20220110T01:46:38Z | Null | https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures | 0 | 0| 
 | 20220110T01:02:36Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 245 | 30| 
-| 20220110T00:59:10Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 
 
 
