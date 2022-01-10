@@ -100,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220110T13:17:03Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
+| 20220110T13:16:08Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 51 | 6| 
+| 20220110T13:15:55Z | Null | https://github.com/obinnae/fuzzy-computing-machine | 0 | 0| 
 | 20220110T13:12:28Z | llvm IR implementation of the F1 fuzzer (https://github.com/vrthra/F1) | https://github.com/abhilashgupta/F1-llvm | 0 | 0| 
 | 20220110T13:04:29Z | Null | https://github.com/soWhat1/FloatFuzzing | 0 | 0| 
 | 20220110T13:03:51Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
 | 20220110T13:03:49Z | Demo of some fuzzy set concepts | https://github.com/uekstrom/fuzzy-sets | 0 | 0| 
 | 20220110T13:02:57Z | nothing especial just a simple fuzzy control system =) | https://github.com/garfield-gray/Fuzzy | 0 | 0| 
-| 20220110T12:53:14Z | Null | https://github.com/obinnae/fuzzy-computing-machine | 0 | 0| 
 | 20220110T12:39:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3872 | 917| 
 | 20220110T12:34:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 714 | 70| 
-| 20220110T12:32:03Z | Null | https://github.com/season-lab/fuzzy-sat | 7 | 0| 
-| 20220110T12:23:51Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 51 | 6| 
 
 
 
