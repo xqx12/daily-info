@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:22:37Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220110T02:28:47Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220110T02:16:39Z | Null | https://github.com/YungBinary/get-log4j-exploit-payload-docker | 0 | 0| 
 | 20220110T02:13:04Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1547 | 529| 
 | 20220110T02:08:02Z | Null | https://github.com/blueIbird/exploit | 0 | 0| 
