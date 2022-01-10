@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:31:25Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
+| 20220110T02:34:58Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/Keylogger-Backdoor | 3 | 0| 
 | 20220110T02:15:58Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 23 | 5| 
 | 20220109T22:18:21Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220109T14:01:27Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220110T02:33:43Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 6 | 0| 
+| 20220110T02:33:46Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 6 | 0| 
 | 20220110T02:29:16Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220110T02:25:06Z | the first testy repo | https://github.com/pedi26/fuzzy-octo-garbanzo | 0 | 0| 
 | 20220110T02:18:01Z |  Modified Nuclei Templates Version to FUZZ Host Header | https://github.com/0xAwali/Virtual-Host | 0 | 0| 
