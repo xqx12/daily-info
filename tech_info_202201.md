@@ -118,7 +118,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220111T01:55:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2623 | 390| 
+| 20220111T11:55:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2624 | 392| 
+| 20220111T08:22:50Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
 | 20220110T23:57:49Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20220110T21:38:19Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220110T17:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 167 | 37| 
@@ -127,7 +128,6 @@
 | 20220109T18:20:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1864 | 529| 
 | 20220109T17:35:24Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 511 | 83| 
 | 20220108T12:59:21Z | symbolic execution for x86 | https://github.com/xsyzbw/bniemczykc | 0 | 0| 
-| 20220108T12:07:07Z | RAUK: Automatic Schedulability Analysis of RTIC Applications Using Symbolic Execution | https://github.com/markhakansson/master-thesis | 5 | 0| 
 
 
 # big4 on Github 推荐

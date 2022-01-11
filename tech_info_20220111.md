@@ -80,7 +80,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220111T01:55:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2623 | 390| 
+| 20220111T11:55:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2624 | 392| 
+| 20220111T08:22:50Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
 
 
 # big4 on Github 推荐
