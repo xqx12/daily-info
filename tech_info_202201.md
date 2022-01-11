@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T02:01:09Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
 | 20220111T01:53:35Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:39:41Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 125 | 24| 
-| 20220111T01:35:06Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
 | 20220111T01:32:54Z | I DO NOT OWN NOR AM I RESPONSIBLE FOR THE EXPLOIT CODE USED HERE - Credit goes to the talented hackers of the Wii U Modding Scene - Just a hacky website that launches a modified payload.elf to automate launching Mocha. The HBLExploit.html is just a gate that launches the normal JSTypeHax payload, so just bookmark that if you%re looking for an alternative gate. | https://github.com/Quark064/WiiUAutoGate | 1 | 0| 
 | 20220111T01:21:07Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3560 | 587| 
 | 20220111T01:15:57Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 1 | 0| 
