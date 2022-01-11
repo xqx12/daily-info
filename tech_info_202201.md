@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220111T01:23:05Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
+| 20220111T01:27:04Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
 | 20220111T01:21:07Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3560 | 587| 
 | 20220111T01:19:44Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:15:57Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 1 | 0| 
