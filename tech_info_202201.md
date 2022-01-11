@@ -46,8 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220111T02:14:10Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20220111T01:29:15Z | CVE-2021-39623 | Null | https://github.com/marcinguy/CVE-2021-39623 | | 
+| 20220111T02:14:53Z | CVE-2021-41277 | CVE-2021-41277 can be extended to an SSRF  | https://github.com/sasukeourad/CVE-2021-41277_SSRF | | 
+| 20220111T02:14:46Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20220111T02:14:38Z | CVE-2021-39623 | Null | https://github.com/marcinguy/CVE-2021-39623 | | 
 | 20220111T01:29:02Z | CVE-2021-43798 | Null | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | | 
 | 20220110T23:34:27Z | CVE-2021-42392 | Null | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | | 
 | 20220110T19:21:49Z | cve-2021-44228 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | | 
@@ -55,7 +56,6 @@
 | 20220110T16:58:25Z | CVE-2020-3452 | Null | https://github.com/Veids/CVE-2020-3452_auto | | 
 | 20220110T11:05:52Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220110T08:46:27Z | CVE-2022-21660 | CVE-2022-21660 | https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660 | | 
-| 20220110T07:07:15Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | | 
 
 
 # klee on Github 推荐

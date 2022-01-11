@@ -40,7 +40,7 @@
 | 20220110T07:07:15Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | | 
 | 20220110T07:02:01Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
 | 20220110T02:46:28Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
-| 20220110T02:36:38Z | CVE-2021-41277 | CVE-2021-41277 can be extended to an SSRF  | https://github.com/sasukeourad/CVE-2021-41277_SSRF | | 
+| 20220110T02:23:10Z | cve-2022-2222 | Null | https://github.com/gnaiq/cve-2022-2222 | | 
 
 
 # klee on Github 推荐
