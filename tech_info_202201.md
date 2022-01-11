@@ -143,10 +143,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T01:59:43Z | Null | https://github.com/ryanflitcroft/fuzzy-bunny-hb | 0 | 0| 
 | 20220111T01:55:49Z | Null | https://github.com/clayton-knapp/half-baked-fuzzy-bunny-organizer-web-01 | 0 | 0| 
 | 20220111T01:53:35Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:52:35Z | Null | https://github.com/alicehsing/half-baked-fuzzy-bunny-organizer | 0 | 0| 
-| 20220111T01:52:18Z | Null | https://github.com/ryanflitcroft/fuzzy-bunny-hb | 0 | 0| 
 | 20220111T01:47:09Z | Null | https://github.com/oliviaamiller/half-baked-fuzzy-bunny | 0 | 0| 
 | 20220111T01:40:32Z | Null | https://github.com/viccaruso/fuzzy-bunny-organizer | 0 | 0| 
 | 20220111T01:28:39Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 54 | 6| 
