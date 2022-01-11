@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220111 | Domain Escalation – sAMAccountName Spoofing | http://pentestlab.blog/2022/01/10/domain-escalation-samaccountname-spoofing/| 
+| 20220111 | Wordpress core (CVE-2022–21661) SQL 注入漏洞的分析（越南语） | https://sec.today/pulses/50860b7e-d75c-4bd1-977d-cc01536e5118/| 
+| 20220111 | Process Herpaderping - 通过替换进程的磁盘镜像绕过杀软检测 | https://github.com/jxy-s/herpaderping| 
+| 20220111 | NCC Group 发布的 2021 年度研究报告，报告的研究角度主要是 2021 年全年的会议、技术博客、工具链 | http://research.nccgroup.com/2022/01/10/2021-annual-research-report/| 
+| 20220111 | 昆仑实验室对 XNU Mach Port CVE-2021-30909 漏洞的分析 | https://www.cyberkl.com/cvelist/cvedetail/38| 
+| 20220111 | 昆仑实验室 对 XNU turnstile UAF CVE-2021-30916 漏洞的分析 | https://www.cyberkl.com/cvelist/cvedetail/33| 
+| 20220111 | Kernel Karnage – Part 8 (Getting Around DSE) | http://blog.nviso.eu/2022/01/10/kernel-karnage-part-8-getting-around-dse/| 
+| 20220111 | 基于 Wi-Fi 搭建一个 VoLTE/VoWiFi 环境 | http://worthdoingbadly.com/vowifi2/| 
+| 20220111 | 监控浏览器扩展与 NativeMessaging Host 之间的 Native 消息 | http://textslashplain.com/2022/01/08/debug-native-messaging/| 
 | 20220110 | ceload - 加载 CheatEngine 签名驱动的工具 | https://github.com/ioncodes/ceload| 
 | 20220110 | Fuzzing101 with LibAFL - Part IV: Fuzzing LibTIFF | https://epi052.gitlab.io/notes-to-self/blog/2021-11-26-fuzzing-101-with-libafl-part-4/| 
 | 20220110 | Remote Code Execution in Google Cloud Dataflow | https://mbrancato.github.io/2021/12/28/rce-dataflow.html| 
@@ -17,20 +26,13 @@
 | 20220110 | 利用差异模糊测试的方案挖掘智能合约虚拟机的漏洞 | https://github.com/fgsect/NeoDiff/blob/main/roots21-2.pdf| 
 | 20220110 | 我们是如何发现PBX设备的固件后门的（译文）. | https://tttang.com/archive/1398/| 
 | 20220110 | psproc源码阅读 . | http://www.nul.pw/2022/01/10/292.html| 
-| 20220110 | Zynq的漏洞分析 第三部分: (CVE-2021-27208). | https://www.reddit.com/r/ReverseEngineering/comments/rzovs8/breaking_zynqs_secure_boot_the_tedious_way/| 
-| 20220107 | 腾讯安全团队总结的面向开发人员梳理的代码安全指南 | https://github.com/Tencent/secguide| 
-| 20220107 | AI-for-Security-Learning - 安全场景、基于 AI 的安全算法和安全数据分析学习笔记 | https://github.com/404notf0und/AI-for-Security-Learning| 
-| 20220107 | The JNDI Strikes Back – Unauthenticated RCE in H2 Database Console | https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/| 
-| 20220107 | 多个 PHP disable_functions Bypass Exploits | https://github.com/mm0r1/exploits| 
-| 20220107 | Exploiting Redash instances with CVE-2021-41192 | http://ian.sh/redash| 
-| 20220107 | Fuzz introspector - 帮助 Fuzzer 开发者监控 Fuzzer 工作状态的工具 | https://github.com/ossf/fuzz-introspector| 
-| 20220107 | Sophos 对恶意攻击者利用 CVE-2021-40444 MSHTML RCE 漏洞攻击 Word 过程的分析 | http://news.sophos.com/en-us/2021/12/21/attackers-test-cab-less-40444-exploit-in-a-dry-run/| 
-| 20220107 | ZDI 评选的 “The Top 5 Bugs Submitted in 2021” | https://www.zerodayinitiative.com/blog/2022/1/5/the-top-5-bugs-submitted-in-2021| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220111 | 基于跨站跳转和文本数据异构图的GCN模型实现恶意网站识别 | https://mp.weixin.qq.com/s/sQxa7YrNybZnP1w5iZeceA| 
+| 20220111 | 在互联网交换中心检测反射放大 DDoS 攻击 | https://mp.weixin.qq.com/s/bH7SSb9-RW1H5VlUWog8cQ| 
 | 20220110 | SecWiki周刊（第410期) | https://www.sec-wiki.com/weekly/410| 
 | 20220110 | Rootkit 系列研究-Windows平台的高隐匿、高持久化威胁 | https://mp.weixin.qq.com/s/YE7bt6Bhz2mYYp1n-2vJtQ| 
 | 20220110 | 2021年侵犯个人信息十大典型案例 | https://mp.weixin.qq.com/s/mL3UWks3T2s1sliH28GaqA| 
@@ -39,38 +41,36 @@
 | 20220108 | 2021年网络安全产业态势总结 | https://mp.weixin.qq.com/s/xMXRlTjzeS6a4hYRyH1wZg| 
 | 20220108 | 2021 年全球主要网络安全威胁发展态势 | https://mp.weixin.qq.com/s/hWB07M_0obNuJCZa7kGSoA| 
 | 20220107 | 《2021太空安全报告》 | https://mp.weixin.qq.com/s/LBrXIivudLZlH_a-ecEzDg| 
-| 20220106 | 2021年“CCF优秀博士学位论文奖”列表及全文 | https://www.ccf.org.cn/Awards/Awards/2022-01-05/752703.shtml| 
-| 20220106 | 互联网信息服务算法推荐管理规定 | http://www.gov.cn/zhengce/zhengceku/2022-01/04/content_5666429.htm| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220111T02:14:53Z | CVE-2021-41277 | CVE-2021-41277 can be extended to an SSRF  | https://github.com/sasukeourad/CVE-2021-41277_SSRF | | 
-| 20220111T02:14:46Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20220111T02:14:38Z | CVE-2021-39623 | Null | https://github.com/marcinguy/CVE-2021-39623 | | 
-| 20220111T01:29:02Z | CVE-2021-43798 | Null | https://github.com/rodpwn/CVE-2021-43798-mass_scanner | | 
-| 20220110T23:34:27Z | CVE-2021-42392 | Null | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | | 
-| 20220110T19:21:49Z | cve-2021-44228 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | | 
-| 20220110T19:12:19Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
-| 20220110T16:58:25Z | CVE-2020-3452 | Null | https://github.com/Veids/CVE-2020-3452_auto | | 
-| 20220110T11:05:52Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20220110T08:46:27Z | CVE-2022-21660 | CVE-2022-21660 | https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660 | | 
+| 20220111T12:42:50Z | CVE-2022-21660 | CVE-2022-21660 | https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660 | | 
+| 20220111T10:59:57Z | CVE-2020-7352 | Powershell implemetation of CVE-2020-7352 | https://github.com/szerszen199/PS-CVE-2020-7352 | | 
+| 20220111T08:14:06Z | CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | | 
+| 20220111T08:11:57Z | CVE-2021-43798 | 运用golang写的grafana批量验证脚本，内置48个验证 | https://github.com/light-Life/CVE-2021-43798 | | 
+| 20220111T08:11:37Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
+| 20220111T07:54:58Z | CVE-2021-44228 | Experimental exploit for Log4Shell | https://github.com/c4dr01d/CVE-2021-44228 | | 
+| 20220111T07:41:21Z | 未知编号 | a cve crawler for 2021 | https://github.com/song856854132/scrapy_CVE2021 | | 
+| 20220111T06:01:47Z | CVE-2021-40490 | Null | https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | | 
+| 20220111T05:38:16Z | CVE-2021-39623 | Null | https://github.com/marcinguy/CVE-2021-39623 | | 
+| 20220111T05:36:44Z | CVE-2021-0434 | Null | https://github.com/Nivaskumark/CVE-2021-0434_packages_apps_Settings | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220111T02:19:23Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 20 | 0| 
+| 20220111T12:29:11Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 29 | 0| 
+| 20220111T11:59:22Z | Null | https://github.com/theanmol-raj/Admin-Kleen | 0 | 0| 
+| 20220111T08:22:50Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
+| 20220111T08:17:50Z | A library for concolic execution of RV32 instruction set simulators | https://github.com/agra-uni-bremen/clover | 1 | 0| 
 | 20220110T23:33:31Z | Modified Juliet test suite for testing KLEE | https://github.com/yh570/Juliet_test_suite | 0 | 0| 
 | 20220110T22:00:38Z | For my moms website  | https://github.com/Master-Mind291/Maid-To-Kleen | 0 | 0| 
 | 20220110T21:32:20Z | Null | https://github.com/lindsayp30/sort-o_kleex | 0 | 0| 
 | 20220110T21:18:27Z | A modified KLEE with concolic execution | https://github.com/yh570/Concolic_klee | 0 | 0| 
 | 20220110T19:48:37Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
 | 20220110T17:39:21Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 9 | 0| 
-| 20220110T16:16:59Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 45| 
-| 20220110T10:22:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3536 | 112| 
-| 20220110T02:09:03Z | Config files for my GitHub profile. | https://github.com/kleen888/kleen888 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,22 +88,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220111T02:38:49Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
-| 20220111T02:27:20Z | An exploit for CVE-2021-20038 | https://github.com/jbaines-r7/badblood | 0 | 0| 
-| 20220111T02:08:59Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3561 | 587| 
-| 20220111T02:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
-| 20220111T01:53:35Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
-| 20220111T01:39:41Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 125 | 24| 
-| 20220111T01:32:54Z | I DO NOT OWN NOR AM I RESPONSIBLE FOR THE EXPLOIT CODE USED HERE - Credit goes to the talented hackers of the Wii U Modding Scene - Just a hacky website that launches a modified payload.elf to automate launching Mocha. The HBLExploit.html is just a gate that launches the normal JSTypeHax payload, so just bookmark that if you%re looking for an alternative gate. | https://github.com/Quark064/WiiUAutoGate | 1 | 0| 
-| 20220111T01:15:57Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 1 | 0| 
-| 20220111T01:03:39Z | An  interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | 0 | 0| 
-| 20220111T00:51:33Z | Null | https://github.com/bruvzz/YouExploit | 0 | 0| 
+| 20220111T12:56:33Z | Automated Beef based browser exploitation framework with custom modules. | https://github.com/GHHCommunity/BeefSec | 0 | 0| 
+| 20220111T12:48:54Z | A repository for exploits I have repurposed, rewritten or modified | https://github.com/p3kingduck/exploits | 0 | 0| 
+| 20220111T12:47:07Z | Null | https://github.com/MorphyKutay/Linux-local-root-exploit | 0 | 0| 
+| 20220111T12:28:11Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4241 | 572| 
+| 20220111T12:14:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 281 | 86| 
+| 20220111T12:13:47Z | Code for the paper %Are Graph Convolutional Networks Fully Exploiting Graph Structure?%, D. Buffelli, F. Vandin | https://github.com/DavideBuffelli/RWRReg | 0 | 0| 
+| 20220111T12:11:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10576 | 1824| 
+| 20220111T11:25:40Z | SonicWall SMA-100 Unauth RCE Exploit (CVE-2021-20038) | https://github.com/jbaines-r7/badblood | 0 | 1| 
+| 20220111T11:17:53Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、shellcode免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 0 | 0| 
+| 20220111T11:06:38Z | FROM:@Mr-xn 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/CnHack3r/Penetration_PoC | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220111T01:00:20Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/BitzLogger | 3 | 0| 
+| 20220111T10:24:06Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/BitzLogger | 3 | 0| 
+| 20220111T03:27:25Z | This program is an opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 476 | 173| 
+| 20220111T03:05:21Z | Allowing server admins to backdoor their own server! | https://github.com/CloudOn9/DiscordBackdoorBot | 1 | 0| 
 | 20220111T00:06:05Z | Find out if your model has a backdoor trigger. | https://github.com/trigger-attack/trigger-attack | 0 | 0| 
 | 20220110T21:38:19Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
 | 20220110T20:37:09Z | Backdoor Windows with CMD Command | https://github.com/BugHunter021/CMDBackDoor | 0 | 0| 
@@ -111,8 +113,6 @@
 | 20220110T18:11:20Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
 | 20220110T14:56:33Z | Null | https://github.com/jaackkiscool/Backdoor-Scanner-v1.0 | 1 | 0| 
 | 20220110T13:32:13Z | Null | https://github.com/markgoertz/Backdoor-client | 0 | 0| 
-| 20220110T13:31:00Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 36 | 7| 
-| 20220110T08:47:34Z | <pre> A backdoor shell that cannot be searched using dork, is perfect for those of you who want to have long-lasting backdoor access to the target website.  In this backdoor shell, several useful features are also available to carry out activities that are usually required, namely:  - Upload - Edit - Rename - Delete - Change permissions - Command - Backconnect - Config grab - Symlink - Jumping - Mass deface / mass delete files - Change email in cpanel to reset password - Create rdp account (for windows server) - Ransomware - Zone-h mass notify  Please download the official version (to avoid loggers and others), which is only here: <a>https://github.com/cowokumel/s3nd4lflop-minishell/</a> </pre> | https://github.com/cowokumel/s3nd4ljepit-minishell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T11:46:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3873 | 917| 
+| 20220111T09:55:12Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 22 | 0| 
+| 20220111T09:33:48Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 56 | 6| 
+| 20220111T09:22:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7010 | 1473| 
+| 20220111T08:57:22Z | X11/libX11.so.6 (XQueryKeymap) Stack corruption/Access violation [PoC+ Fuzzer] | https://github.com/zhouzhouxpyf/epsylon7 | 0 | 0| 
+| 20220111T06:59:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 660 | 140| 
+| 20220111T04:28:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2383 | 459| 
 | 20220111T03:00:12Z | https://cadillacjack42.github.io/half-baked-fuzzy-bunny/ | https://github.com/CadillacJack42/half-baked-fuzzy-bunny | 0 | 0| 
-| 20220111T02:42:26Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 16 | 0| 
 | 20220111T02:29:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220111T01:59:43Z | Null | https://github.com/ryanflitcroft/fuzzy-bunny-hb | 0 | 0| 
-| 20220111T01:55:49Z | Null | https://github.com/clayton-knapp/half-baked-fuzzy-bunny-organizer-web-01 | 0 | 0| 
-| 20220111T01:53:35Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
-| 20220111T01:52:35Z | Null | https://github.com/alicehsing/half-baked-fuzzy-bunny-organizer | 0 | 0| 
-| 20220111T01:47:09Z | Null | https://github.com/oliviaamiller/half-baked-fuzzy-bunny | 0 | 0| 
-| 20220111T01:40:32Z | Null | https://github.com/viccaruso/fuzzy-bunny-organizer | 0 | 0| 
-| 20220111T01:28:39Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 54 | 6| 
 
 
 
