@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T13:15:55Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、shellcode免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 1 | 0| 
 | 20220111T12:56:33Z | Automated Beef based browser exploitation framework with custom modules. | https://github.com/GHHCommunity/BeefSec | 0 | 0| 
 | 20220111T12:48:54Z | A repository for exploits I have repurposed, rewritten or modified | https://github.com/p3kingduck/exploits | 0 | 0| 
 | 20220111T12:47:07Z | Null | https://github.com/MorphyKutay/Linux-local-root-exploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220111T12:13:47Z | Code for the paper %Are Graph Convolutional Networks Fully Exploiting Graph Structure?%, D. Buffelli, F. Vandin | https://github.com/DavideBuffelli/RWRReg | 0 | 0| 
 | 20220111T12:11:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10576 | 1824| 
 | 20220111T11:25:40Z | SonicWall SMA-100 Unauth RCE Exploit (CVE-2021-20038) | https://github.com/jbaines-r7/badblood | 0 | 1| 
-| 20220111T11:17:53Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、shellcode免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 0 | 0| 
 | 20220111T11:06:38Z | FROM:@Mr-xn 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/CnHack3r/Penetration_PoC | 0 | 0| 
 
 
