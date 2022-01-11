@@ -88,14 +88,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220111T00:57:45Z | An  interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | 0 | 0| 
+| 20220111T01:03:39Z | An  interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | 0 | 0| 
+| 20220111T01:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
 | 20220111T00:51:33Z | Null | https://github.com/bruvzz/YouExploit | 0 | 0| 
 | 20220111T00:46:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
 | 20220111T00:24:57Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 1 | 0| 
 | 20220111T00:22:55Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
 | 20220111T00:19:56Z | Evolving computational sustainability in rapidly changing exploited ecosystems | https://github.com/melian009/Deepbios | 0 | 0| 
 | 20220111T00:14:56Z | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | 0 | 0| 
-| 20220111T00:04:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
 | 20220110T23:57:19Z | Le serveur POP3 du Seattle Lab Mail 5.5 souffre d%une vulnérabilité de dépassement de tampon non authentifié lors de la réception d%un mot de passe très long. on peut  exploiter cette vulnérabilité dans n%importe quelle version de Windows exécutant l%exécutable SLmail.exe | https://github.com/ahdibiaymen/SLMail-5.5-buffer-overflow- | 0 | 0| 
 | 20220110T23:56:11Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T01:02:55Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20220111T00:58:28Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 53 | 6| 
 | 20220111T00:54:08Z | Null | https://github.com/Cliffmax85/fuzzy_bunny-hb | 0 | 0| 
 | 20220111T00:46:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4662 | 475| 
@@ -152,7 +153,6 @@
 | 20220111T00:41:45Z | Null | https://github.com/viccaruso/fuzzy-bunny-organizer | 0 | 0| 
 | 20220111T00:40:55Z | Null | https://github.com/alicehsing/half-baked-fuzzy-bunny-organizer | 0 | 0| 
 | 20220111T00:32:00Z | Null | https://github.com/Kyra-christensen/half-baked-fuzzy-bunny-org | 0 | 0| 
-| 20220111T00:29:35Z | Null | https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
 
 
 
