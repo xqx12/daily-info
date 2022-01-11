@@ -143,10 +143,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T01:44:06Z | Null | https://github.com/ryanflitcroft/fuzzy-bunny-hb | 0 | 0| 
 | 20220111T01:40:32Z | Null | https://github.com/viccaruso/fuzzy-bunny-organizer | 0 | 0| 
 | 20220111T01:40:15Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:28:39Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 54 | 6| 
-| 20220111T01:24:31Z | Null | https://github.com/ryanflitcroft/fuzzy-bunny-hb | 0 | 0| 
 | 20220111T01:22:13Z | fuzzy string matching implented by python for product name matching | https://github.com/Huaizi/Fuzzy_String_Matching | 0 | 0| 
 | 20220111T01:13:34Z | https://peteseeling.github.io/fuzzy-bunny/ | https://github.com/PeteSeeling/fuzzy-bunny | 0 | 0| 
 | 20220111T01:10:12Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 14 | 0| 
