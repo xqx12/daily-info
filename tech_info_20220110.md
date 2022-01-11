@@ -102,7 +102,6 @@
 | 20220110T17:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 167 | 37| 
 | 20220110T16:55:21Z | A proof of concept tool that demonstrates virtual machines, dynamic taint analysis, and symbolic execution. | https://github.com/yangsongqing1v/sjcappellac | 0 | 0| 
 | 20220110T15:04:35Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1961 | 406| 
-| 20220110T07:38:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2622 | 390| 
 
 
 # big4 on Github 推荐
