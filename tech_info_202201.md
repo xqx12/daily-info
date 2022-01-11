@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T01:10:02Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:03:39Z | An  interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | 0 | 0| 
 | 20220111T01:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
 | 20220111T00:51:33Z | Null | https://github.com/bruvzz/YouExploit | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220111T00:19:56Z | Evolving computational sustainability in rapidly changing exploited ecosystems | https://github.com/melian009/Deepbios | 0 | 0| 
 | 20220111T00:14:56Z | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | 0 | 0| 
 | 20220110T23:57:19Z | Le serveur POP3 du Seattle Lab Mail 5.5 souffre d%une vulnérabilité de dépassement de tampon non authentifié lors de la réception d%un mot de passe très long. on peut  exploiter cette vulnérabilité dans n%importe quelle version de Windows exécutant l%exécutable SLmail.exe | https://github.com/ahdibiaymen/SLMail-5.5-buffer-overflow- | 0 | 0| 
-| 20220110T23:56:11Z | Codes from Hacking: The Art of Exploitation book. By Jon Erickson. | https://github.com/edupazzz/Hacking-The-Art-of-Exploitation-Book | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T01:12:09Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
+| 20220111T01:11:32Z | Null | https://github.com/ryanflitcroft/fuzzy-bunny-hb | 0 | 0| 
+| 20220111T01:10:56Z | Null | https://github.com/PeteSeeling/fuzzy-bunny | 0 | 0| 
 | 20220111T01:10:12Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 14 | 0| 
-| 20220111T01:10:02Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:02:55Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20220111T00:58:28Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 53 | 6| 
 | 20220111T00:54:08Z | Null | https://github.com/Cliffmax85/fuzzy_bunny-hb | 0 | 0| 
 | 20220111T00:46:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4662 | 475| 
 | 20220111T00:44:16Z | Null | https://github.com/Benatovich/fuzzy-bunny-organizer | 0 | 0| 
 | 20220111T00:43:08Z | https://cadillacjack42.github.io/half-baked-fuzzy-bunny/ | https://github.com/CadillacJack42/half-baked-fuzzy-bunny | 0 | 0| 
-| 20220111T00:42:38Z | Null | https://github.com/Trevor-Rezac/half-baked-fuzzy-bunny-organizer. | 0 | 0| 
-| 20220111T00:41:45Z | Null | https://github.com/viccaruso/fuzzy-bunny-organizer | 0 | 0| 
 
 
 
