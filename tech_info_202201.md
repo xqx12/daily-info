@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220111T01:27:04Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
+| 20220111T01:31:31Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
+| 20220111T01:31:21Z | I DO NOT OWN NOR AM I RESPONSIBLE FOR THE EXPLOIT CODE USED HERE - Credit goes to the talented hackers of the Wii U Modding Scene - Just a hacky website that launches a modified payload.elf to automate launching Mocha. The HBLExploit.html is just a gate that launches the normal JSTypeHax payload, so just bookmark that if you%re looking for an alternative gate. | https://github.com/Quark064/WiiUAutoGate | 1 | 0| 
 | 20220111T01:21:07Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3560 | 587| 
 | 20220111T01:19:44Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:15:57Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220111T00:51:33Z | Null | https://github.com/bruvzz/YouExploit | 0 | 0| 
 | 20220111T00:46:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
 | 20220111T00:24:57Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 1 | 0| 
-| 20220111T00:19:56Z | Evolving computational sustainability in rapidly changing exploited ecosystems | https://github.com/melian009/Deepbios | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -143,13 +143,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T01:28:39Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 54 | 6| 
 | 20220111T01:24:31Z | Null | https://github.com/ryanflitcroft/fuzzy-bunny-hb | 0 | 0| 
 | 20220111T01:22:13Z | fuzzy string matching implented by python for product name matching | https://github.com/Huaizi/Fuzzy_String_Matching | 0 | 0| 
 | 20220111T01:19:44Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:13:34Z | https://peteseeling.github.io/fuzzy-bunny/ | https://github.com/PeteSeeling/fuzzy-bunny | 0 | 0| 
 | 20220111T01:10:12Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 14 | 0| 
 | 20220111T01:02:55Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
-| 20220111T00:58:28Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 53 | 6| 
 | 20220111T00:54:08Z | Null | https://github.com/Cliffmax85/fuzzy_bunny-hb | 0 | 0| 
 | 20220111T00:46:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4662 | 475| 
 | 20220111T00:44:16Z | Null | https://github.com/Benatovich/fuzzy-bunny-organizer | 0 | 0| 
