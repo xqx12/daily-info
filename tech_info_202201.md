@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T03:00:12Z | https://cadillacjack42.github.io/half-baked-fuzzy-bunny/ | https://github.com/CadillacJack42/half-baked-fuzzy-bunny | 0 | 0| 
 | 20220111T02:42:26Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 16 | 0| 
 | 20220111T02:29:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220111T01:59:43Z | Null | https://github.com/ryanflitcroft/fuzzy-bunny-hb | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220111T01:47:09Z | Null | https://github.com/oliviaamiller/half-baked-fuzzy-bunny | 0 | 0| 
 | 20220111T01:40:32Z | Null | https://github.com/viccaruso/fuzzy-bunny-organizer | 0 | 0| 
 | 20220111T01:28:39Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 54 | 6| 
-| 20220111T01:22:13Z | fuzzy string matching implented by python for product name matching | https://github.com/Huaizi/Fuzzy_String_Matching | 0 | 0| 
 
 
 
