@@ -143,6 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T01:10:12Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 14 | 0| 
+| 20220111T01:10:02Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:02:55Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
 | 20220111T00:58:28Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 53 | 6| 
 | 20220111T00:54:08Z | Null | https://github.com/Cliffmax85/fuzzy_bunny-hb | 0 | 0| 
@@ -151,8 +153,6 @@
 | 20220111T00:43:08Z | https://cadillacjack42.github.io/half-baked-fuzzy-bunny/ | https://github.com/CadillacJack42/half-baked-fuzzy-bunny | 0 | 0| 
 | 20220111T00:42:38Z | Null | https://github.com/Trevor-Rezac/half-baked-fuzzy-bunny-organizer. | 0 | 0| 
 | 20220111T00:41:45Z | Null | https://github.com/viccaruso/fuzzy-bunny-organizer | 0 | 0| 
-| 20220111T00:40:55Z | Null | https://github.com/alicehsing/half-baked-fuzzy-bunny-organizer | 0 | 0| 
-| 20220111T00:32:00Z | Null | https://github.com/Kyra-christensen/half-baked-fuzzy-bunny-org | 0 | 0| 
 
 
 
