@@ -32,7 +32,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220110T23:34:27Z | CVE-2021-42392 | Null | https://github.com/cybersecurityworks553/CVE-2021-42392-Detect | | 
-| 20220110T23:08:16Z | CVE-2021-39623 | Null | https://github.com/marcinguy/CVE-2021-39623 | | 
 | 20220110T19:21:49Z | cve-2021-44228 | Null | https://github.com/cryptoforcecommand/log4j-cve-2021-44228 | | 
 | 20220110T19:12:19Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20220110T16:58:25Z | CVE-2020-3452 | Null | https://github.com/Veids/CVE-2020-3452_auto | | 
@@ -41,6 +40,7 @@
 | 20220110T07:07:15Z | CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC  | https://github.com/dnr6419/CVE-2021-29447 | | 
 | 20220110T07:02:01Z | cve-2021-21985 | cve-2021-21985 exploit | https://github.com/xnianq/cve-2021-21985_exp | | 
 | 20220110T02:46:28Z | 未知编号 | 2022年Java应用程序的CVE漏洞 | https://github.com/HackJava/CVE2022 | | 
+| 20220110T02:36:38Z | CVE-2021-41277 | CVE-2021-41277 can be extended to an SSRF  | https://github.com/sasukeourad/CVE-2021-41277_SSRF | | 
 
 
 # klee on Github 推荐
