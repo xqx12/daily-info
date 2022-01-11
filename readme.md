@@ -115,13 +115,13 @@
 | 20220110T23:52:45Z | https://carolynnfleming.github.io/fuzzy-bunny-supabase/ | https://github.com/CarolynnFleming/fuzzy-bunny-supabase | 0 | 0| 
 | 20220110T23:47:51Z | Null | https://github.com/xDenzelB/fuzzy-bun | 0 | 0| 
 | 20220110T23:39:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 1 | 1| 
-| 20220110T23:37:25Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
 | 20220110T23:25:31Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 659 | 140| 
 | 20220110T23:08:38Z | Null | https://github.com/philngom/fuzzy-bunny-half-baked | 0 | 0| 
 | 20220110T22:41:37Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 15 | 3| 
 | 20220110T13:40:36Z | Null | https://github.com/soWhat1/FloatFuzzing | 0 | 0| 
 | 20220110T13:15:55Z | Null | https://github.com/obinnae/fuzzy-computing-machine | 0 | 0| 
 | 20220110T13:12:28Z | llvm IR implementation of the F1 fuzzer (https://github.com/vrthra/F1) | https://github.com/abhilashgupta/F1-llvm | 0 | 0| 
+| 20220110T13:03:51Z | Null | https://github.com/MiguelTheGamer/fuzzy-meme | 0 | 0| 
 
 
 
