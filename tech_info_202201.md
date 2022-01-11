@@ -143,8 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T02:42:26Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 16 | 0| 
 | 20220111T02:29:10Z | Null | https://github.com/zyrouge/fuzzle | 0 | 1| 
-| 20220111T02:11:21Z | Tzer: TVM Implementation of %Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA%22)“. | https://github.com/Tzer-AnonBot/tzer | 15 | 0| 
 | 20220111T01:59:43Z | Null | https://github.com/ryanflitcroft/fuzzy-bunny-hb | 0 | 0| 
 | 20220111T01:55:49Z | Null | https://github.com/clayton-knapp/half-baked-fuzzy-bunny-organizer-web-01 | 0 | 0| 
 | 20220111T01:53:35Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
