@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T02:25:28Z | An exploit for CVE-2021-20038 | https://github.com/jbaines-r7/badblood | 0 | 0| 
 | 20220111T02:19:27Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
 | 20220111T02:08:59Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3561 | 587| 
 | 20220111T02:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
@@ -97,7 +98,6 @@
 | 20220111T01:15:57Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 1 | 0| 
 | 20220111T01:03:39Z | An  interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | 0 | 0| 
 | 20220111T00:51:33Z | Null | https://github.com/bruvzz/YouExploit | 0 | 0| 
-| 20220111T00:46:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
 
 
 # backdoor on Github 推荐
