@@ -88,8 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220111T01:16:21Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
+| 20220111T01:15:57Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 1 | 0| 
 | 20220111T01:14:33Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
-| 20220111T01:12:09Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:03:39Z | An  interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | 0 | 0| 
 | 20220111T01:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 43 | 21| 
 | 20220111T00:51:33Z | Null | https://github.com/bruvzz/YouExploit | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220111T00:24:57Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 1 | 0| 
 | 20220111T00:19:56Z | Evolving computational sustainability in rapidly changing exploited ecosystems | https://github.com/melian009/Deepbios | 0 | 0| 
 | 20220111T00:14:56Z | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | 0 | 0| 
-| 20220110T23:57:19Z | Le serveur POP3 du Seattle Lab Mail 5.5 souffre d%une vulnérabilité de dépassement de tampon non authentifié lors de la réception d%un mot de passe très long. on peut  exploiter cette vulnérabilité dans n%importe quelle version de Windows exécutant l%exécutable SLmail.exe | https://github.com/ahdibiaymen/SLMail-5.5-buffer-overflow- | 0 | 0| 
 
 
 # backdoor on Github 推荐
