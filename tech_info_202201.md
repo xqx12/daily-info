@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220111T01:20:40Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
+| 20220111T01:21:15Z | Crosshair X Ultimate Is A Small, Simple Lightweight, And Adjustable Crosshair Overlay For Windows! | https://github.com/Bubbadudez/Crosshair-X-Ultimate | 1 | 0| 
+| 20220111T01:21:07Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3560 | 587| 
 | 20220111T01:19:44Z | FuSeBMC is a novel Energy-Efficient Test Generator that exploits fuzzing and BMC engines to detect security vulnerabilities in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 23 | 2| 
 | 20220111T01:15:57Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 1 | 0| 
 | 20220111T01:03:39Z | An  interface to display and exploit liquidations | https://github.com/Tburm/liquidations-interface | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220111T00:46:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 25 | 18| 
 | 20220111T00:24:57Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 1 | 0| 
 | 20220111T00:19:56Z | Evolving computational sustainability in rapidly changing exploited ecosystems | https://github.com/melian009/Deepbios | 0 | 0| 
-| 20220111T00:14:56Z | Enumerated, exploited, and escalated privileges on vulnerable VM; analyzed logs for mitigation techniques | https://github.com/RacquelleRequenez/Attack-Defense-Analysis | 0 | 0| 
 
 
 # backdoor on Github 推荐
