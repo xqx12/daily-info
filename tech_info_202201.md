@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T01:28:47Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 2 | 0| 
 | 20220112T00:19:50Z | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | https://github.com/krabelize/icmpdoor | 124 | 30| 
 | 20220111T23:34:59Z | Null | https://github.com/fu1001hao/A-Feature-Based-On-Line-Detector-to-Remove-Adversarial-Backdoors-by-Iterative-Demarcation | 0 | 0| 
 | 20220111T20:56:08Z | Null | https://github.com/Tyyuiss/Backdoor | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20220111T16:03:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 405 | 71| 
 | 20220111T09:02:28Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 41 | 8| 
 | 20220111T03:27:25Z | This program is an opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 476 | 173| 
-| 20220111T03:05:21Z | Allowing server admins to backdoor their own server! | https://github.com/CloudOn9/DiscordBackdoorBot | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
