@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220112T01:01:53Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 5 | 0| 
+| 20220112T01:08:06Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 6 | 0| 
 | 20220112T00:48:42Z | Null | https://github.com/slumsd01/fuzzy-octo-doodle | 0 | 0| 
 | 20220112T00:26:24Z | Null | https://github.com/lucianohsmelo/lhsm-fuzzy | 0 | 0| 
 | 20220112T00:20:07Z | Null | https://github.com/alex-i-blair/fuzzy-bunny | 0 | 0| 
