@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T12:24:59Z | A Simple Socket Fuzzer for BoF | https://github.com/0xomar/pfuzzer | 0 | 0| 
+| 20220112T12:12:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2385 | 461| 
+| 20220112T11:42:01Z | domain fuzzer program I wrote to learn golang | https://github.com/SphiwokuhleS/subdomain-fuzzer | 0 | 0| 
+| 20220112T11:18:50Z | Null | https://github.com/Monatyr/Fuzzy-Logic-Simulation | 0 | 0| 
+| 20220112T09:51:36Z |  the Network Protocol Fuzzer that we will want to use. | https://github.com/nccgroup/fuzzowski | 506 | 84| 
+| 20220112T09:01:33Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 443 | 43| 
+| 20220112T04:03:20Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1153 | 204| 
 | 20220112T02:50:36Z | Research project for using pid controller as heuristics to guide fuzzing  | https://github.com/ElaineYao/pid_research | 0 | 0| 
+| 20220112T02:35:01Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1850 | 463| 
 | 20220112T01:24:15Z | Null | https://github.com/swasnaiktik/fuzzy-eureka | 0 | 0| 
-| 20220112T01:19:11Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 7 | 0| 
-| 20220112T00:48:42Z | Null | https://github.com/slumsd01/fuzzy-octo-doodle | 0 | 0| 
-| 20220112T00:26:24Z | Null | https://github.com/lucianohsmelo/lhsm-fuzzy | 0 | 0| 
-| 20220112T00:20:07Z | Null | https://github.com/alex-i-blair/fuzzy-bunny | 0 | 0| 
-| 20220111T23:41:06Z | Java fuzzy string matching implementation of the well known Python%s fuzzywuzzy algorithm. Fuzzy search for Java | https://github.com/xdrop/fuzzywuzzy | 584 | 91| 
-| 20220111T22:21:43Z | Null | https://github.com/Benatovich/bug-hunt-fuzzy-bunny | 0 | 0| 
-| 20220111T22:19:26Z | Null | https://github.com/Kyra-christensen/bug-hunt-fuzzy-bunny | 0 | 0| 
-| 20220111T22:19:11Z | Null | https://github.com/clayton-knapp/bug-hunt-fuzzy-bunny-organizer-web-01 | 0 | 0| 
 
 
 
