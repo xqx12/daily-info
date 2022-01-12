@@ -61,9 +61,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T02:51:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1866 | 529| 
 | 20220112T02:43:23Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 45 | 0| 
 | 20220112T00:09:36Z | Config files for my GitHub profile. | https://github.com/kleells/kleells | 0 | 0| 
-| 20220111T17:53:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1865 | 529| 
 | 20220111T11:59:22Z | Null | https://github.com/theanmol-raj/Admin-Kleen | 0 | 0| 
 | 20220111T08:22:50Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
 | 20220111T08:17:50Z | A library for concolic execution of RV32 instruction set simulators | https://github.com/agra-uni-bremen/clover | 1 | 0| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T02:51:32Z | 🗄️ Exploit Discord%s cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims) | https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC | 112 | 19| 
 | 20220112T02:32:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10578 | 1825| 
 | 20220112T00:32:44Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 0| 
 | 20220111T22:11:18Z | Information about Captain Frosts various exploits | https://github.com/CaptainFrost/captainfrostnet | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220111T16:06:05Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 6 | 2| 
 | 20220111T13:15:55Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、shellcode免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 1 | 0| 
 | 20220111T12:56:33Z | Automated Beef based browser exploitation framework with custom modules. | https://github.com/GHHCommunity/BeefSec | 0 | 0| 
-| 20220111T12:48:54Z | A repository for exploits I have repurposed, rewritten or modified | https://github.com/p3kingduck/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T02:50:36Z | Research project for using pid controller as heuristics to guide fuzzing  | https://github.com/ElaineYao/pid_research | 0 | 0| 
 | 20220112T01:24:15Z | Null | https://github.com/swasnaiktik/fuzzy-eureka | 0 | 0| 
 | 20220112T01:19:11Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 7 | 0| 
 | 20220112T00:48:42Z | Null | https://github.com/slumsd01/fuzzy-octo-doodle | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220111T22:21:43Z | Null | https://github.com/Benatovich/bug-hunt-fuzzy-bunny | 0 | 0| 
 | 20220111T22:19:26Z | Null | https://github.com/Kyra-christensen/bug-hunt-fuzzy-bunny | 0 | 0| 
 | 20220111T22:19:11Z | Null | https://github.com/clayton-knapp/bug-hunt-fuzzy-bunny-organizer-web-01 | 0 | 0| 
-| 20220111T22:18:55Z | Null | https://github.com/oliviaamiller/bug-hunt-fuzzy-bunny | 0 | 0| 
 
 
 
