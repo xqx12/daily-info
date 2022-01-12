@@ -14,6 +14,7 @@
 | 20220112 | 利用 CodeQL 工具挖掘未处理异常漏洞的变种 | http://blog.trailofbits.com/2022/01/11/finding-unhandled-errors-using-codeql/| 
 | 20220112 | KCodes NetUSB 内核模块被发现高危 RCE，影响多款路由器厂商产品 | https://threatpost.com/millions-routers-exposed-bug-usb-module-kcodes-netusb/177506/| 
 | 20220112 | 伊朗 APT35 组织被发现利用 Log4j 漏洞传播其 PowerShell 攻击组件 | http://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distribute-new-modular-powershell-toolkit/| 
+| 20220112 | windows内核之Null指针解引用(四). | https://tttang.com/archive/1400/| 
 | 20220111 | Domain Escalation – sAMAccountName Spoofing | http://pentestlab.blog/2022/01/10/domain-escalation-samaccountname-spoofing/| 
 | 20220111 | Wordpress core (CVE-2022–21661) SQL 注入漏洞的分析（越南语） | https://sec.today/pulses/50860b7e-d75c-4bd1-977d-cc01536e5118/| 
 | 20220111 | Process Herpaderping - 通过替换进程的磁盘镜像绕过杀软检测 | https://github.com/jxy-s/herpaderping| 
@@ -25,7 +26,6 @@
 | 20220111 | 监控浏览器扩展与 NativeMessaging Host 之间的 Native 消息 | http://textslashplain.com/2022/01/08/debug-native-messaging/| 
 | 20220111 | 针对“重狗”组织分析报告：面向企业邮箱的大规模钓鱼. | https://paper.seebug.org/1811/| 
 | 20220111 | 用DTA照亮DNS威胁分析之路 (2). | https://blog.netlab.360.com/use_dta_to_illuminate_the_path_of_dns_threat_analysis_2/| 
-| 20220111 | Wordpress core (CVE-2022–21661) SQL 注入漏洞的分析（越南语） | https://cognn.medium.com/sql-injection-in-wordpress-core-zdi-can-15541-a451c492897| 
 
 
 # 安全维基 推荐
@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T13:36:57Z | Automated tool to find & created Exploit Poc for Clickjacking Vulnerability | https://github.com/Raiders0786/ClickjackPoc | 2 | 1| 
 | 20220112T13:05:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10581 | 1827| 
-| 20220112T11:14:26Z | Automated tool to find & created Exploit Poc for Clickjacking Vulnerability | https://github.com/Raiders0786/ClickjackPoc | 1 | 0| 
 | 20220112T11:05:19Z | A Rust iteration of the Spectre Variant 1 attack formulated in my undergraduate research. The original thesis% text explores the feasibility of exploitation of the Spectre vulnerability in security-focused languages, from which Rust is taken as a prime example. | https://github.com/movrsprbp/rust-spectre | 7 | 0| 
 | 20220112T09:44:57Z |  Compilation of Self-made exploits to HackTheBox Labs | https://github.com/SoloAdventurer/Hack-The-Box-exploits | 0 | 0| 
 | 20220112T09:34:46Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 3 | 0| 
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T13:37:03Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 42 | 8| 
 | 20220112T09:46:54Z | e | https://github.com/Torono909/lunacore.backdoor | 2 | 0| 
 | 20220112T06:57:45Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 11 | 2| 
 | 20220112T04:56:19Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 1 | 0| 
@@ -112,7 +113,6 @@
 | 20220111T20:56:08Z | Null | https://github.com/Tyyuiss/Backdoor | 0 | 0| 
 | 20220111T17:55:30Z | This is an educational project that sends target machine%s key press log to a cloud server by creating a backdoor. | https://github.com/kesaralive/BitzLogger | 4 | 0| 
 | 20220111T16:34:57Z | A Kotlin program used to analyze and discover backdoors in Minecraft Java 1.12.2 forge mods. | https://github.com/PerrySolutions/Theia | 3 | 0| 
-| 20220111T16:08:11Z | Process to create fully undetectable backdoors | https://github.com/ghostking2802/FUD | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
