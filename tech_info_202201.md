@@ -150,9 +150,9 @@
 | 20220112T11:18:50Z | Null | https://github.com/Monatyr/Fuzzy-Logic-Simulation | 0 | 0| 
 | 20220112T09:51:36Z |  the Network Protocol Fuzzer that we will want to use. | https://github.com/nccgroup/fuzzowski | 506 | 84| 
 | 20220112T09:01:33Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 443 | 43| 
+| 20220112T06:45:18Z | Null | https://github.com/Tsiming/FuzzTechEvaluating | 0 | 0| 
+| 20220112T06:28:31Z | 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker  | https://github.com/ppbibo/PentesterSpecialDict | 676 | 154| 
 | 20220112T04:03:20Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1153 | 204| 
-| 20220112T02:50:36Z | Research project for using pid controller as heuristics to guide fuzzing  | https://github.com/ElaineYao/pid_research | 0 | 0| 
-| 20220112T02:35:01Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1850 | 463| 
 
 
 
