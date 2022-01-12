@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T02:32:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10578 | 1825| 
 | 20220112T00:32:44Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 0| 
 | 20220111T22:11:18Z | Information about Captain Frosts various exploits | https://github.com/CaptainFrost/captainfrostnet | 0 | 0| 
 | 20220111T21:17:10Z | WordPress RevSlider Exploit , Grab Config. | https://github.com/xaletr/RevSlider-Exploit | 4 | 2| 
 | 20220111T20:55:28Z | Resources, re-written exploits, challenges, notes, and more in an attempt to get gooder at web-application hacking. | https://github.com/t3rp/web-hack-gooder | 0 | 0| 
 | 20220111T20:24:48Z | Whatever ^^ | https://github.com/RENNAARENATA/Exploits | 1 | 0| 
-| 20220111T19:28:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10578 | 1825| 
 | 20220111T16:06:05Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 6 | 2| 
 | 20220111T13:15:55Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、shellcode免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 1 | 0| 
 | 20220111T12:56:33Z | Automated Beef based browser exploitation framework with custom modules. | https://github.com/GHHCommunity/BeefSec | 0 | 0| 
