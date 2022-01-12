@@ -82,7 +82,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220112T02:56:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2623 | 392| 
+| 20220112T13:29:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2624 | 392| 
 | 20220112T02:51:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1866 | 530| 
 
 
