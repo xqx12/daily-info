@@ -35,11 +35,11 @@
 | 20220111T16:06:05Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220111T12:42:50Z | CVE-2022-21660 | CVE-2022-21660 | https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660 | | 
 | 20220111T10:59:57Z | CVE-2020-7352 | Powershell implemetation of CVE-2020-7352 | https://github.com/szerszen199/PS-CVE-2020-7352 | | 
-| 20220111T08:14:06Z | CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | | 
 | 20220111T08:11:57Z | CVE-2021-43798 | 运用golang写的grafana批量验证脚本，内置48个验证 | https://github.com/light-Life/CVE-2021-43798 | | 
 | 20220111T08:11:37Z | cve-2021-44228 | Ansible detector scanner playbook to verify target Linux hosts using the official Red Hat Log4j detector script RHSB-2021-009 Remote Code Execution - log4j (CVE-2021-44228) | https://github.com/lucab85/log4j-cve-2021-44228 | | 
 | 20220111T07:54:58Z | CVE-2021-44228 | Experimental exploit for Log4Shell | https://github.com/c4dr01d/CVE-2021-44228 | | 
 | 20220111T07:41:21Z | 未知编号 | a cve crawler for 2021 | https://github.com/song856854132/scrapy_CVE2021 | | 
+| 20220111T06:01:47Z | CVE-2021-40490 | Null | https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72 | | 
 
 
 # klee on Github 推荐
