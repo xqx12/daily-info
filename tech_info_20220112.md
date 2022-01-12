@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T13:05:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10581 | 1827| 
 | 20220112T11:14:26Z | Automated tool to find & created Exploit Poc for Clickjacking Vulnerability | https://github.com/Raiders0786/ClickjackPoc | 1 | 0| 
 | 20220112T11:05:19Z | A Rust iteration of the Spectre Variant 1 attack formulated in my undergraduate research. The original thesis% text explores the feasibility of exploitation of the Spectre vulnerability in security-focused languages, from which Rust is taken as a prime example. | https://github.com/movrsprbp/rust-spectre | 7 | 0| 
 | 20220112T09:44:57Z |  Compilation of Self-made exploits to HackTheBox Labs | https://github.com/SoloAdventurer/Hack-The-Box-exploits | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20220112T09:04:55Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 636 | 139| 
 | 20220112T08:40:55Z | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | 27 | 5| 
 | 20220112T08:39:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 282 | 86| 
-| 20220112T08:29:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10580 | 1827| 
 | 20220112T02:51:32Z | 🗄️ Exploit Discord%s cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims) | https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC | 112 | 19| 
 | 20220112T00:32:44Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 0| 
 
