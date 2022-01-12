@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220112T13:36:57Z | Automated tool to find & created Exploit Poc for Clickjacking Vulnerability | https://github.com/Raiders0786/ClickjackPoc | 2 | 1| 
+| 20220112T13:41:51Z | Automated tool to find & created Exploit Poc for Clickjacking Vulnerability | https://github.com/Raiders0786/ClickjackPoc | 2 | 1| 
 | 20220112T13:05:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10581 | 1827| 
 | 20220112T11:05:19Z | A Rust iteration of the Spectre Variant 1 attack formulated in my undergraduate research. The original thesis% text explores the feasibility of exploitation of the Spectre vulnerability in security-focused languages, from which Rust is taken as a prime example. | https://github.com/movrsprbp/rust-spectre | 7 | 0| 
 | 20220112T09:44:57Z |  Compilation of Self-made exploits to HackTheBox Labs | https://github.com/SoloAdventurer/Hack-The-Box-exploits | 0 | 0| 
