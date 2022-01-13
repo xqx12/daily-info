@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220113T13:58:30Z | For a relaxing time | https://github.com/henrik716/fuzzy-fiesta | 0 | 0| 
 | 20220113T13:27:14Z | Attacker is an Information Security based tool developed in python for attacking websites to check their security. It is consists of Fuzzer, Spider, SpiderAJAX attacks. | https://github.com/bilalahmed-125/Attacker | 0 | 0| 
 | 20220113T12:34:27Z | Framework for creating fuzzers and negative tests for TLS 1.3 implementations | https://github.com/artem-smotrakov/tlsbunny | 8 | 3| 
 | 20220113T12:18:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 444 | 43| 
@@ -106,7 +107,6 @@
 | 20220113T10:21:10Z | Null | https://github.com/grimmbraten/fuzzier | 0 | 0| 
 | 20220113T10:07:37Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 340 | 48| 
 | 20220113T09:57:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 721 | 70| 
-| 20220113T03:35:25Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 58 | 6| 
 
 
 
