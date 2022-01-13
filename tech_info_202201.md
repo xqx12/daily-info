@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220113T01:31:07Z | A coverage-based greybox fuzzer based on AFL. | https://github.com/bjchan9an/AFLProber | 0 | 0| 
 | 20220113T00:21:46Z | Null | https://github.com/Malrez33/fuzzy-palm-tree | 0 | 0| 
 | 20220112T23:34:41Z | Null | https://github.com/swasnaiktik/fuzzy-eureka | 1 | 0| 
 | 20220112T23:24:15Z | Fuse.js binding for fuzzy text match highlighting | https://github.com/metonym/svelte-fuzzy | 15 | 0| 
@@ -152,7 +153,6 @@
 | 20220112T18:40:51Z | fuzzy merge for pandas dataframe package | https://github.com/mmcelhan/df_fuzzy_merge | 0 | 0| 
 | 20220112T18:33:52Z | Package that does fuzzy merges for dataframe joins | https://github.com/mmcelhan/dataframe_fuzzy_merge_source | 0 | 0| 
 | 20220112T16:16:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7013 | 1472| 
-| 20220112T14:47:27Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1152 | 47| 
 
 
 
