@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220113T02:39:53Z | Fuzzy match SEC mutual funds with CRSP fund names to replicate Alekseev et al. (2022). | https://github.com/GeoAle404/fuzzy-match-SEC-funds-CRSP | 0 | 0| 
+| 20220113T02:55:14Z | Fuzzy match SEC mutual funds with CRSP fund names to replicate Alekseev et al. (2022). | https://github.com/GeoAle404/fuzzy-match-SEC-funds-CRSP | 0 | 0| 
 | 20220113T02:16:33Z | Collection of fuzzing harnesses. A harness is the target file which will be executed and is effectively a bridge between the target application and the fuzzing framework. | https://github.com/francobel/Harness-Collection | 0 | 0| 
 | 20220113T02:03:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2458 | 152| 
 | 20220113T01:53:01Z | Null | https://github.com/rizalkhisyam/fuzzy-garbanzo | 0 | 0| 
