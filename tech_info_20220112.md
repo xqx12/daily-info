@@ -38,7 +38,6 @@
 | 20220112T18:26:57Z | CVE-2021-41773 | School project - Please use other repos for actual testing | https://github.com/norrig/CVE-2021-41773-exploiter | | 
 | 20220112T16:19:10Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220112T14:32:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220112T10:52:16Z | CVE-2020-14386 | Null | https://github.com/artsking/linux-4.19.72_CVE-2020-14386 | | 
 | 20220112T10:00:39Z | CVE-2020-15261 | CVE-2020-15261 test | https://github.com/yaoyao-cool/CVE-2020-15261 | | 
 | 20220112T09:04:59Z | CVE-2020-7352 | Powershell implemetation of CVE-2020-7352 | https://github.com/szerszen199/PS-CVE-2020-7352 | | 
 | 20220112T06:50:57Z | CVE-2021-31956 | Null | https://github.com/aazhuliang/CVE-2021-31956-EXP | | 
