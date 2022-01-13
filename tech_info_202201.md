@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220113T13:22:01Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | | 
 | 20220113T12:12:16Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220113T11:20:46Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | | 
 | 20220113T08:56:12Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220113T08:42:20Z | CVE-2021-26084 | POC of CVE-2021-26084, which is Atlassian Confluence Server OGNL(Object-Graph Navigation Language) Pre-Auth RCE Injection Vulneralibity. | https://github.com/antx-code/CVE-2021-26084 | | 
 | 20220113T06:41:10Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.17.1 update to mitigate Apache Log4J Security Vulnerabilities including Log4Shell | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220113T12:55:22Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 86 | 1| 
+| 20220113T13:16:33Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 87 | 1| 
 | 20220113T12:02:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1868 | 530| 
 | 20220113T11:39:30Z | My redesign for a local optician. | https://github.com/DavidOut03/VanKleefOptiek | 0 | 0| 
 | 20220113T07:20:31Z | Null | https://github.com/davidtr1037/klee-symsize | 1 | 0| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220113T13:18:33Z | this was a oayed cheat that existed scamm in 2 days here is their ud source with drivers this shit has cool external exploits etc and chest esp prob best source out rn | https://github.com/SlaveTEch/Uranium-Fortnite-Undetected-Cheat-With-Chest-ESP-Source-Leak | 0 | 0| 
 | 20220113T13:12:17Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 353 | 109| 
 | 20220113T13:12:03Z | Null | https://github.com/dpfaffenbauer/defichain-icx-exploit-review | 1 | 0| 
 | 20220113T13:06:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10587 | 1829| 
@@ -97,7 +98,6 @@
 | 20220113T12:08:31Z |  Compilation of Self-made solutions to PortSwigger labs | https://github.com/SoloAdventurer/PortSwigger-exploits | 0 | 0| 
 | 20220113T11:58:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 282 | 87| 
 | 20220113T11:37:59Z | This is a simple token cracker that use user id to crack and use proxy to bypass rate limit :D. For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | 16 | 6| 
-| 20220113T09:40:28Z | Static Map Generation from 3D LiDAR Point Clouds Exploiting Ground Segmentation | https://github.com/PRBonn/dynamic-point-removal | 0 | 0| 
 
 
 # backdoor on Github 推荐
