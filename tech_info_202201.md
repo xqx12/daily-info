@@ -144,6 +144,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220113T02:16:33Z | Collection of fuzzing harnesses. A harness is the target file which will be executed and is effectively a bridge between the target application and the fuzzing framework. | https://github.com/francobel/Harness-Collection | 0 | 0| 
+| 20220113T02:03:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2458 | 152| 
 | 20220113T01:53:01Z | Null | https://github.com/rizalkhisyam/fuzzy-garbanzo | 0 | 0| 
 | 20220113T01:31:07Z | A coverage-based greybox fuzzer based on AFL. | https://github.com/bjchan9an/AFLProber | 0 | 0| 
 | 20220113T00:21:46Z | Null | https://github.com/Malrez33/fuzzy-palm-tree | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220112T22:30:04Z | String distances and multiprocessing in Python. | https://github.com/john-mwangi/Fuzzy-Join | 0 | 0| 
 | 20220112T20:20:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4662 | 475| 
 | 20220112T20:02:13Z | Null | https://github.com/jlaaa/java_fuzzer | 0 | 0| 
-| 20220112T18:40:51Z | fuzzy merge for pandas dataframe package | https://github.com/mmcelhan/df_fuzzy_merge | 0 | 0| 
 
 
 
