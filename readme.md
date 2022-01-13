@@ -90,8 +90,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T18:08:44Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 0 | 0| 
 | 20220112T13:38:42Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1961 | 406| 
-| 20220112T13:30:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2625 | 392| 
 | 20220112T02:51:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1866 | 530| 
 
 
