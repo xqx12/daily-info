@@ -55,6 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220113T13:12:17Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 353 | 109| 
+| 20220113T13:12:03Z | Null | https://github.com/dpfaffenbauer/defichain-icx-exploit-review | 1 | 0| 
 | 20220113T13:06:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10587 | 1829| 
 | 20220113T12:35:27Z | Null | https://github.com/FoxTrue0001/Fortnite-UDSourceAndExploits | 0 | 0| 
 | 20220113T12:20:22Z | List of Awesome Advanced Windows Exploitation References | https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References | 1083 | 273| 
@@ -63,8 +65,6 @@
 | 20220113T11:58:29Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 282 | 87| 
 | 20220113T11:37:59Z | This is a simple token cracker that use user id to crack and use proxy to bypass rate limit :D. For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | 16 | 6| 
 | 20220113T09:40:28Z | Static Map Generation from 3D LiDAR Point Clouds Exploiting Ground Segmentation | https://github.com/PRBonn/dynamic-point-removal | 0 | 0| 
-| 20220113T08:02:51Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 352 | 109| 
-| 20220113T07:50:49Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 4 | 0| 
 
 
 # backdoor on Github 推荐
@@ -93,12 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220113T12:34:27Z | Framework for creating fuzzers and negative tests for TLS 1.3 implementations | https://github.com/artem-smotrakov/tlsbunny | 8 | 3| 
+| 20220113T12:18:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 444 | 43| 
+| 20220113T12:17:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2384 | 462| 
+| 20220113T11:57:20Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 743 | 146| 
+| 20220113T11:42:21Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3874 | 917| 
+| 20220113T10:21:10Z | Null | https://github.com/grimmbraten/fuzzier | 0 | 0| 
+| 20220113T10:07:37Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 340 | 48| 
+| 20220113T09:57:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 721 | 70| 
 | 20220113T02:55:14Z | Fuzzy match SEC mutual funds with CRSP fund names to replicate Alekseev et al. (2022). | https://github.com/GeoAle404/fuzzy-match-SEC-funds-CRSP | 0 | 0| 
 | 20220113T02:16:33Z | Collection of fuzzing harnesses. A harness is the target file which will be executed and is effectively a bridge between the target application and the fuzzing framework. | https://github.com/francobel/Harness-Collection | 0 | 0| 
-| 20220113T02:03:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2458 | 152| 
-| 20220113T01:53:01Z | Null | https://github.com/rizalkhisyam/fuzzy-garbanzo | 0 | 0| 
-| 20220113T01:31:07Z | A coverage-based greybox fuzzer based on AFL. | https://github.com/bjchan9an/AFLProber | 0 | 0| 
-| 20220113T00:21:46Z | Null | https://github.com/Malrez33/fuzzy-palm-tree | 0 | 0| 
 
 
 
