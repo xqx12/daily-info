@@ -61,7 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220112T22:28:59Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 13 | 1| 
+| 20220112T22:28:59Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 13 | 2| 
 | 20220112T21:32:55Z | Omegle Exploit | https://github.com/MrGeek6000/Omegle-Exploit- | 0 | 0| 
 | 20220112T20:35:22Z | Roblox Exploit Library for Synapse X to download assets from URL. | https://github.com/RobloxArchiver/AssetDownloader | 2 | 1| 
 | 20220112T19:22:56Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 474 | 118| 
@@ -103,16 +103,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T23:34:41Z | Null | https://github.com/swasnaiktik/fuzzy-eureka | 1 | 0| 
+| 20220112T23:24:15Z | Fuse.js binding for fuzzy text match highlighting | https://github.com/metonym/svelte-fuzzy | 15 | 0| 
+| 20220112T22:30:04Z | String distances and multiprocessing in Python. | https://github.com/john-mwangi/Fuzzy-Join | 0 | 0| 
+| 20220112T20:20:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4662 | 475| 
+| 20220112T20:02:13Z | Null | https://github.com/jlaaa/java_fuzzer | 0 | 0| 
+| 20220112T18:40:51Z | fuzzy merge for pandas dataframe package | https://github.com/mmcelhan/df_fuzzy_merge | 0 | 0| 
+| 20220112T18:33:52Z | Package that does fuzzy merges for dataframe joins | https://github.com/mmcelhan/dataframe_fuzzy_merge_source | 0 | 0| 
+| 20220112T16:16:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7013 | 1472| 
+| 20220112T14:47:27Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1152 | 47| 
 | 20220112T13:46:12Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1851 | 463| 
-| 20220112T13:33:13Z | Fuzzy Lemon ontology | https://github.com/fbobillo/fuzzyLemon | 0 | 1| 
-| 20220112T12:24:59Z | A Simple Socket Fuzzer for BoF | https://github.com/0xomar/pfuzzer | 0 | 0| 
-| 20220112T12:12:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2385 | 461| 
-| 20220112T11:42:01Z | domain fuzzer program I wrote to learn golang | https://github.com/SphiwokuhleS/subdomain-fuzzer | 0 | 0| 
-| 20220112T11:18:50Z | Null | https://github.com/Monatyr/Fuzzy-Logic-Simulation | 0 | 0| 
-| 20220112T09:51:36Z |  the Network Protocol Fuzzer that we will want to use. | https://github.com/nccgroup/fuzzowski | 506 | 84| 
-| 20220112T09:01:33Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 443 | 43| 
-| 20220112T06:45:18Z | Null | https://github.com/Tsiming/FuzzTechEvaluating | 0 | 0| 
-| 20220112T06:28:31Z | 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker  | https://github.com/ppbibo/PentesterSpecialDict | 676 | 154| 
 
 
 
