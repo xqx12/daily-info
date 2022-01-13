@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220113T02:39:10Z | CVE-2021-31956 | Null | https://github.com/aazhuliang/CVE-2021-31956-EXP | | 
 | 20220113T02:14:50Z | CVE-2020-14386 | Null | https://github.com/artsking/linux-4.19.72_CVE-2020-14386 | | 
 | 20220112T19:37:15Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
 | 20220112T19:20:33Z | CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | | 
@@ -55,7 +56,6 @@
 | 20220112T16:15:40Z | CVE-2021-45383 | Details,PoC and patches for CVE-2021-45383 & CVE-2021-45384 | https://github.com/nt1dr/CVE-2021-45383 | | 
 | 20220112T14:32:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220112T10:00:39Z | CVE-2020-15261 | CVE-2020-15261 test | https://github.com/yaoyao-cool/CVE-2020-15261 | | 
-| 20220112T09:04:59Z | CVE-2020-7352 | Powershell implemetation of CVE-2020-7352 | https://github.com/szerszen199/PS-CVE-2020-7352 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220113T02:38:40Z | Battle Cats MITM Mailbox Hack [PATCHED] | https://github.com/jamestiotio/CITM | 9 | 6| 
 | 20220113T01:51:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10584 | 1828| 
 | 20220113T01:47:41Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 16 | 2| 
 | 20220113T00:25:48Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v2.0b2 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220112T21:32:55Z | Omegle Exploit | https://github.com/MrGeek6000/Omegle-Exploit- | 0 | 0| 
 | 20220112T20:35:22Z | Roblox Exploit Library for Synapse X to download assets from URL. | https://github.com/RobloxArchiver/AssetDownloader | 2 | 1| 
 | 20220112T19:22:56Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 474 | 118| 
-| 20220112T18:32:35Z | Azure Sentinel intrusion detection rules, recent exploits and lolbas :)  | https://github.com/basedfir/awesomekql | 12 | 0| 
 
 
 # backdoor on Github 推荐
