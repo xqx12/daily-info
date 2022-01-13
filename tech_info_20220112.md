@@ -15,6 +15,7 @@
 | 20220112 | KCodes NetUSB 内核模块被发现高危 RCE，影响多款路由器厂商产品 | https://threatpost.com/millions-routers-exposed-bug-usb-module-kcodes-netusb/177506/| 
 | 20220112 | 伊朗 APT35 组织被发现利用 Log4j 漏洞传播其 PowerShell 攻击组件 | http://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distribute-new-modular-powershell-toolkit/| 
 | 20220112 | windows内核之Null指针解引用(四). | https://tttang.com/archive/1400/| 
+| 20220112 | 安全研究人员发表2022年 (macOS)平台第一个新的“SysJoker ”恶意软件安全报告. | http://objective-see.com/blog/blog_0x6C.html| 
 
 
 # 安全维基 推荐
@@ -31,20 +32,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220112T11:48:34Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | | 
+| 20220112T19:37:15Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
+| 20220112T19:20:33Z | CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | | 
+| 20220112T19:20:14Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | | 
+| 20220112T18:26:57Z | CVE-2021-41773 | School project - Please use other repos for actual testing | https://github.com/norrig/CVE-2021-41773-exploiter | | 
+| 20220112T16:19:10Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20220112T14:32:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220112T10:52:16Z | CVE-2020-14386 | Null | https://github.com/artsking/linux-4.19.72_CVE-2020-14386 | | 
 | 20220112T10:00:39Z | CVE-2020-15261 | CVE-2020-15261 test | https://github.com/yaoyao-cool/CVE-2020-15261 | | 
 | 20220112T09:04:59Z | CVE-2020-7352 | Powershell implemetation of CVE-2020-7352 | https://github.com/szerszen199/PS-CVE-2020-7352 | | 
 | 20220112T06:50:57Z | CVE-2021-31956 | Null | https://github.com/aazhuliang/CVE-2021-31956-EXP | | 
-| 20220112T03:22:30Z | CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | | 
-| 20220112T03:11:33Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220112T13:16:55Z | Null | https://github.com/dorawei/klee-tc | 7 | 0| 
-| 20220112T11:44:05Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 57 | 0| 
 | 20220112T02:51:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1866 | 530| 
 | 20220112T00:09:36Z | Config files for my GitHub profile. | https://github.com/kleells/kleells | 0 | 0| 
 
@@ -58,22 +61,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220112T22:28:59Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 13 | 1| 
+| 20220112T21:32:55Z | Omegle Exploit | https://github.com/MrGeek6000/Omegle-Exploit- | 0 | 0| 
+| 20220112T20:35:22Z | Roblox Exploit Library for Synapse X to download assets from URL. | https://github.com/RobloxArchiver/AssetDownloader | 2 | 1| 
+| 20220112T19:22:56Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 474 | 118| 
+| 20220112T18:32:35Z | Azure Sentinel intrusion detection rules, recent exploits and lolbas :)  | https://github.com/basedfir/awesomekql | 12 | 0| 
+| 20220112T18:26:57Z | School project - Please use other repos for actual testing | https://github.com/norrig/CVE-2021-41773-exploiter | 0 | 0| 
+| 20220112T17:35:30Z | malware samples, exploits and payloads | https://github.com/phoenixthrush-malicious/phoenixthrush-malicious.github.io | 0 | 0| 
 | 20220112T13:41:51Z | Automated tool to find & created Exploit Poc for Clickjacking Vulnerability | https://github.com/Raiders0786/ClickjackPoc | 2 | 1| 
-| 20220112T13:05:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10581 | 1827| 
 | 20220112T11:05:19Z | A Rust iteration of the Spectre Variant 1 attack formulated in my undergraduate research. The original thesis% text explores the feasibility of exploitation of the Spectre vulnerability in security-focused languages, from which Rust is taken as a prime example. | https://github.com/movrsprbp/rust-spectre | 7 | 0| 
 | 20220112T09:44:57Z |  Compilation of Self-made exploits to HackTheBox Labs | https://github.com/SoloAdventurer/Hack-The-Box-exploits | 0 | 0| 
-| 20220112T09:34:46Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 3 | 0| 
-| 20220112T09:04:55Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 636 | 139| 
-| 20220112T08:40:55Z | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | 27 | 5| 
-| 20220112T08:39:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 282 | 86| 
-| 20220112T02:51:32Z | 🗄️ Exploit Discord%s cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims) | https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC | 112 | 19| 
-| 20220112T00:32:44Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220112T13:37:03Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 42 | 8| 
+| 20220112T23:14:23Z | A Kotlin program used to analyze and discover backdoors in Minecraft Java 1.12.2 forge mods. | https://github.com/PerrySolutions/Theia | 6 | 0| 
+| 20220112T19:51:56Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 43 | 9| 
+| 20220112T18:37:13Z | hello glitch | https://github.com/mikhaillav/backdoor | 0 | 0| 
+| 20220112T18:18:53Z | Null | https://github.com/technoscience741/backdoor | 0 | 0| 
 | 20220112T09:46:54Z | e | https://github.com/Torono909/lunacore.backdoor | 2 | 0| 
 | 20220112T06:57:45Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 11 | 2| 
 | 20220112T04:56:19Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 1 | 0| 
