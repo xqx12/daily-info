@@ -61,7 +61,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220112T22:28:59Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 13 | 2| 
 | 20220112T21:32:55Z | Omegle Exploit | https://github.com/MrGeek6000/Omegle-Exploit- | 0 | 0| 
 | 20220112T20:35:22Z | Roblox Exploit Library for Synapse X to download assets from URL. | https://github.com/RobloxArchiver/AssetDownloader | 2 | 1| 
 | 20220112T19:22:56Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 474 | 118| 
@@ -71,6 +70,7 @@
 | 20220112T13:41:51Z | Automated tool to find & created Exploit Poc for Clickjacking Vulnerability | https://github.com/Raiders0786/ClickjackPoc | 2 | 1| 
 | 20220112T11:05:19Z | A Rust iteration of the Spectre Variant 1 attack formulated in my undergraduate research. The original thesis% text explores the feasibility of exploitation of the Spectre vulnerability in security-focused languages, from which Rust is taken as a prime example. | https://github.com/movrsprbp/rust-spectre | 7 | 0| 
 | 20220112T09:44:57Z |  Compilation of Self-made exploits to HackTheBox Labs | https://github.com/SoloAdventurer/Hack-The-Box-exploits | 0 | 0| 
+| 20220112T09:34:46Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 3 | 0| 
 
 
 # backdoor on Github 推荐
