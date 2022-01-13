@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220113T01:44:52Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 15 | 2| 
+| 20220113T01:47:41Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 16 | 2| 
 | 20220113T00:51:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10583 | 1828| 
 | 20220113T00:25:48Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v2.0b2 Coded by SiSTRo | https://github.com/DTMExploits/DTMExploits.github.io | 0 | 0| 
 | 20220113T00:25:11Z | I wrote this script to complete the Try Hack Me zthobscurewebvulns JWT challenge. | https://github.com/fpro4x/Manual-JWT-exploit | 0 | 0| 
@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220113T00:16:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2628 | 392| 
+| 20220113T00:16:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2628 | 393| 
 | 20220112T18:08:44Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 0 | 0| 
 | 20220112T13:38:42Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1961 | 406| 
 | 20220112T02:51:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1866 | 530| 
