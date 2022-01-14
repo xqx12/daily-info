@@ -35,11 +35,11 @@
 | 20220113T14:26:56Z | CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | | 
 | 20220113T14:06:54Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20220113T13:46:52Z | CVE-2021-44228 | Null | https://github.com/solitarysp/Log4j-CVE-2021-44228 | | 
-| 20220113T13:22:01Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | | 
 | 20220113T08:56:12Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220113T08:42:20Z | CVE-2021-26084 | POC of CVE-2021-26084, which is Atlassian Confluence Server OGNL(Object-Graph Navigation Language) Pre-Auth RCE Injection Vulneralibity. | https://github.com/antx-code/CVE-2021-26084 | | 
 | 20220113T06:41:10Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.17.1 update to mitigate Apache Log4J Security Vulnerabilities including Log4Shell | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
 | 20220113T02:39:10Z | CVE-2021-31956 | Null | https://github.com/aazhuliang/CVE-2021-31956-EXP | | 
+| 20220113T02:14:50Z | CVE-2020-14386 | Null | https://github.com/artsking/linux-4.19.72_CVE-2020-14386 | | 
 
 
 # klee on Github 推荐
@@ -79,7 +79,7 @@
 | 20220113T23:52:10Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 2 | 0| 
 | 20220113T19:28:59Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 54 | 27| 
 | 20220113T18:45:45Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
-| 20220113T18:09:38Z | A simple remote tool in C#. | https://github.com/qwqdanchun/DcRat | 521 | 186| 
+| 20220113T18:09:38Z | A simple remote tool in C#. | https://github.com/qwqdanchun/DcRat | 521 | 187| 
 | 20220113T17:13:04Z | This program is an opensource backdoor/reverse tcp/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 477 | 173| 
 | 20220113T16:00:56Z | Just a simple tool scan shell backdoor write in python | https://github.com/0xrohadi/shellscan | 0 | 1| 
 | 20220113T14:00:47Z | A wrapper for commands to be executed as Windows services | https://github.com/tasooshi/ServiceWrapper | 0 | 0| 
