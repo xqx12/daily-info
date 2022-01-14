@@ -48,6 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220113T15:58:54Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220113T15:56:25Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20220113T14:26:56Z | CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | | 
 | 20220113T14:06:54Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20220113T13:46:52Z | CVE-2021-44228 | Null | https://github.com/solitarysp/Log4j-CVE-2021-44228 | | 
 | 20220113T13:22:01Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | | 
@@ -55,7 +56,6 @@
 | 20220113T08:56:12Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220113T08:42:20Z | CVE-2021-26084 | POC of CVE-2021-26084, which is Atlassian Confluence Server OGNL(Object-Graph Navigation Language) Pre-Auth RCE Injection Vulneralibity. | https://github.com/antx-code/CVE-2021-26084 | | 
 | 20220113T06:41:10Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.17.1 update to mitigate Apache Log4J Security Vulnerabilities including Log4Shell | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
-| 20220113T02:39:10Z | CVE-2021-31956 | Null | https://github.com/aazhuliang/CVE-2021-31956-EXP | | 
 
 
 # klee on Github 推荐
