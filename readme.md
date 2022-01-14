@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220114T12:33:11Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 375 | 115| 
+| 20220114T13:18:32Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 376 | 115| 
 | 20220114T11:33:46Z | Fortnite Cheat, Fortnite Drivers, Exploits, Cheat Source, Fortnite Source | https://github.com/galaxiesfn/uranium-fortnite-cheat-leak | 1 | 0| 
 | 20220114T09:36:21Z | Learning how to use the GSAP Library for Complex Animations on the Web | https://github.com/OlaoreFouad/gsap-exploits | 0 | 0| 
 | 20220114T09:36:19Z | Null | https://github.com/PainNonsense/PainExploit.github.io | 0 | 0| 
