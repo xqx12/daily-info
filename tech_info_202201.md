@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220114T01:54:41Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220113T15:58:54Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220113T15:56:25Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20220113T14:26:56Z | CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | | 
 | 20220113T14:06:54Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20220113T13:46:52Z | CVE-2021-44228 | Null | https://github.com/solitarysp/Log4j-CVE-2021-44228 | | 
 | 20220113T13:22:01Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | | 
-| 20220113T12:12:16Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220113T08:56:12Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220113T08:42:20Z | CVE-2021-26084 | POC of CVE-2021-26084, which is Atlassian Confluence Server OGNL(Object-Graph Navigation Language) Pre-Auth RCE Injection Vulneralibity. | https://github.com/antx-code/CVE-2021-26084 | | 
 | 20220113T06:41:10Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.17.1 update to mitigate Apache Log4J Security Vulnerabilities including Log4Shell | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220114T01:51:08Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 92 | 1| 
 | 20220114T01:29:37Z | woo | https://github.com/xinrachel30/kleex | 0 | 0| 
-| 20220113T23:26:49Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 91 | 1| 
 | 20220113T15:12:38Z | Null | https://github.com/kocherizhka/-Saint-Petersburg---Kleeva- | 0 | 0| 
 | 20220113T12:02:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1868 | 530| 
 | 20220113T11:39:30Z | My redesign for a local optician. | https://github.com/DavidOut03/VanKleefOptiek | 0 | 0| 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220114T01:52:52Z | Null | https://github.com/SouthpawCurveConcepts/fuzzy-broccoli | 0 | 0| 
 | 20220114T01:27:49Z | 54 | https://github.com/SouthpawCurveConcepts/fuzzy-funicular | 0 | 0| 
 | 20220114T00:58:18Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1370 | 237| 
 | 20220114T00:55:51Z | Null | https://github.com/tgargula/agh-sem5-psi-fuzzy | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20220113T22:37:47Z | A basic file format fuzzer written in java | https://github.com/jlaaa/java_fuzzer | 0 | 0| 
 | 20220113T22:24:07Z | A basic fuzzer that checks for reflected XSS vulnerabilities | https://github.com/grantv9/basic-fuzzer | 0 | 0| 
 | 20220113T22:18:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7013 | 1473| 
-| 20220113T21:50:54Z | Null | https://github.com/ralan/fuzzytext | 0 | 0| 
 
 
 

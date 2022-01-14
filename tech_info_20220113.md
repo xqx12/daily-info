@@ -36,16 +36,15 @@
 | 20220113T14:06:54Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20220113T13:46:52Z | CVE-2021-44228 | Null | https://github.com/solitarysp/Log4j-CVE-2021-44228 | | 
 | 20220113T13:22:01Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | | 
-| 20220113T12:12:16Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220113T08:56:12Z | CVE-2021-45232 | CVE-2021-45232-RCE-多线程批量漏洞检测 | https://github.com/GYLQ/CVE-2021-45232-RCE | | 
 | 20220113T08:42:20Z | CVE-2021-26084 | POC of CVE-2021-26084, which is Atlassian Confluence Server OGNL(Object-Graph Navigation Language) Pre-Auth RCE Injection Vulneralibity. | https://github.com/antx-code/CVE-2021-26084 | | 
 | 20220113T06:41:10Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.17.1 update to mitigate Apache Log4J Security Vulnerabilities including Log4Shell | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
+| 20220113T02:39:10Z | CVE-2021-31956 | Null | https://github.com/aazhuliang/CVE-2021-31956-EXP | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220113T23:26:49Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 91 | 1| 
 | 20220113T15:12:38Z | Null | https://github.com/kocherizhka/-Saint-Petersburg---Kleeva- | 0 | 0| 
 | 20220113T12:02:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1868 | 530| 
 | 20220113T11:39:30Z | My redesign for a local optician. | https://github.com/DavidOut03/VanKleefOptiek | 0 | 0| 
