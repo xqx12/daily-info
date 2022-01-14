@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220113T15:58:54Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20220113T15:56:25Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20220113T14:06:54Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20220113T13:46:52Z | CVE-2021-44228 | Null | https://github.com/solitarysp/Log4j-CVE-2021-44228 | | 
 | 20220113T13:22:01Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/ibnuuby/CVE-2021-32099 | | 
 | 20220113T12:12:16Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -53,15 +56,14 @@
 | 20220113T08:42:20Z | CVE-2021-26084 | POC of CVE-2021-26084, which is Atlassian Confluence Server OGNL(Object-Graph Navigation Language) Pre-Auth RCE Injection Vulneralibity. | https://github.com/antx-code/CVE-2021-26084 | | 
 | 20220113T06:41:10Z | CVE-2021-44228 | Patch Pulsar Docker images with Log4J 2.17.1 update to mitigate Apache Log4J Security Vulnerabilities including Log4Shell | https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228 | | 
 | 20220113T02:39:10Z | CVE-2021-31956 | Null | https://github.com/aazhuliang/CVE-2021-31956-EXP | | 
-| 20220113T02:14:50Z | CVE-2020-14386 | Null | https://github.com/artsking/linux-4.19.72_CVE-2020-14386 | | 
-| 20220112T19:37:15Z | cve-2021-44228 | Log4j Exploit Detection Logic for Zeek | https://github.com/corelight/cve-2021-44228 | | 
-| 20220112T19:20:33Z | CVE-2021-32099 | Just for HTB | https://github.com/zjicmDarkWing/CVE-2021-32099 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220113T13:16:33Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 87 | 1| 
+| 20220114T01:29:37Z | woo | https://github.com/xinrachel30/kleex | 0 | 0| 
+| 20220113T23:26:49Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 91 | 1| 
+| 20220113T15:12:38Z | Null | https://github.com/kocherizhka/-Saint-Petersburg---Kleeva- | 0 | 0| 
 | 20220113T12:02:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1868 | 530| 
 | 20220113T11:39:30Z | My redesign for a local optician. | https://github.com/DavidOut03/VanKleefOptiek | 0 | 0| 
 | 20220113T07:20:31Z | Null | https://github.com/davidtr1037/klee-symsize | 1 | 0| 
@@ -69,8 +71,6 @@
 | 20220112T00:09:36Z | Config files for my GitHub profile. | https://github.com/kleells/kleells | 0 | 0| 
 | 20220111T11:59:22Z | Null | https://github.com/theanmol-raj/Admin-Kleen | 0 | 0| 
 | 20220111T08:22:50Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
-| 20220111T08:17:50Z | A library for concolic execution of RV32 instruction set simulators | https://github.com/agra-uni-bremen/clover | 1 | 0| 
-| 20220110T23:33:31Z | Modified Juliet test suite for testing KLEE | https://github.com/yh570/Juliet_test_suite | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220114T00:56:57Z | Upcoming Roblox Exploit (Mac/Windows) | https://github.com/Not-Nullz/Azure-Ware | 0 | 0| 
+| 20220114T00:05:39Z | Common Security Exploits on Solana | https://github.com/project-serum/sealevel-attacks | 51 | 2| 
+| 20220114T00:04:25Z | krnl roblox exploit | https://github.com/krnkl60/krnl | 0 | 0| 
+| 20220113T23:21:08Z | This Is The First Ever Level 8 Roblox Executer! This Is Still In Alpha So Please Use An Alt Account And It May Not Work | https://github.com/UBinsaid1/Core-Exploit | 0 | 0| 
+| 20220113T22:33:18Z | The Official Blooket Hack | https://github.com/glixzzy/blooket-hack | 342 | 919| 
+| 20220113T22:22:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10590 | 1829| 
+| 20220113T22:02:37Z | Null | https://github.com/henryhuangbc/funkyfriday-exploit | 0 | 0| 
+| 20220113T21:57:26Z | Minecraft Spigot Plugin to check if the Log4j Exploit has been fixed. If not instructions based on the current server versions will be sent to console | https://github.com/christiantschoerner/log4j-fixed-checker | 1 | 0| 
+| 20220113T15:58:54Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 6 | 2| 
 | 20220113T13:48:49Z | Damn Vulnerable DeFi(The offensive security playground for decentralized finances) Solutions - Contracts and Exploit Codes | https://github.com/inhack/damn-vernerable-defi-solutions | 0 | 0| 
-| 20220113T13:48:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10588 | 1829| 
-| 20220113T13:44:38Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 354 | 109| 
-| 20220113T13:31:34Z | A proof-of-concept puzzle game. You have the ability to split time into two parallel timelines. Use that power to exploit the stock market and gain as much profit as you can in seven days.  Written in Python Pygame using Pygame GUI. | https://github.com/PMahhov/Self-Arbitrage | 0 | 0| 
-| 20220113T13:18:33Z | this was a oayed cheat that existed scamm in 2 days here is their ud source with drivers this shit has cool external exploits etc and chest esp prob best source out rn | https://github.com/SlaveTEch/Uranium-Fortnite-Undetected-Cheat-With-Chest-ESP-Source-Leak | 0 | 0| 
-| 20220113T13:12:03Z | Null | https://github.com/dpfaffenbauer/defichain-icx-exploit-review | 1 | 0| 
-| 20220113T12:35:27Z | Null | https://github.com/FoxTrue0001/Fortnite-UDSourceAndExploits | 0 | 0| 
-| 20220113T12:20:22Z | List of Awesome Advanced Windows Exploitation References | https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References | 1083 | 273| 
-| 20220113T12:10:47Z | roblos explot | https://github.com/CHEESYBOI21/shitty-open-source-roblox-exploit | 0 | 0| 
-| 20220113T12:08:31Z |  Compilation of Self-made solutions to PortSwigger labs | https://github.com/SoloAdventurer/PortSwigger-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220113T23:55:56Z | Null | https://github.com/sstan001/two-apps-one-backdoor | 0 | 0| 
+| 20220113T23:52:10Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 2 | 0| 
+| 20220113T19:28:59Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 54 | 27| 
+| 20220113T18:45:45Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
+| 20220113T18:09:38Z | A simple remote tool in C#. | https://github.com/qwqdanchun/DcRat | 521 | 186| 
+| 20220113T17:13:04Z | This program is an opensource backdoor/reverse tcp/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 477 | 173| 
+| 20220113T16:00:56Z | Just a simple tool scan shell backdoor write in python | https://github.com/0xrohadi/shellscan | 0 | 1| 
+| 20220113T14:00:47Z | A wrapper for commands to be executed as Windows services | https://github.com/tasooshi/ServiceWrapper | 0 | 0| 
 | 20220113T13:12:42Z | A Kotlin program used to analyze and discover backdoors in Minecraft Java 1.12.2 forge mods. | https://github.com/PerrySolutions/Theia | 7 | 1| 
 | 20220113T11:19:13Z | Null | https://github.com/DianaGalter/BackDoor-Runner | 0 | 0| 
-| 20220113T11:12:44Z | This is a remote executable backdoor implemented in python which when executed by the attacker opens a reverse shell from the host and then lets the attacker to execute commands remotely. | https://github.com/Purbayan2014/Remote_Backdoor | 0 | 0| 
-| 20220113T10:27:14Z | A simple remote tool in C#. | https://github.com/qwqdanchun/DcRat | 521 | 185| 
-| 20220113T05:52:45Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 217 | 59| 
-| 20220112T19:51:56Z | Windows Backdoor that is controlled through Discord | https://github.com/3ct0s/disctopia-c2 | 43 | 9| 
-| 20220112T18:37:13Z | hello glitch | https://github.com/mikhaillav/backdoor | 0 | 0| 
-| 20220112T18:18:53Z | Null | https://github.com/technoscience741/backdoor | 0 | 0| 
-| 20220112T09:46:54Z | e | https://github.com/Torono909/lunacore.backdoor | 2 | 0| 
-| 20220112T06:57:45Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 11 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -121,7 +121,7 @@
 | 20220113T12:33:46Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1964 | 406| 
 | 20220113T12:02:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1868 | 530| 
 | 20220113T10:31:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 512 | 83| 
-| 20220113T00:16:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2628 | 393| 
+| 20220113T00:16:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2628 | 394| 
 | 20220112T18:08:44Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 0 | 0| 
 | 20220111T08:22:50Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
 | 20220110T23:57:49Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
@@ -133,6 +133,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220113T13:27:34Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 0 | 0| 
 | 20220110T01:43:16Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 32 | 7| 
 | 20220108T07:02:35Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 211 | 44| 
 | 20220108T04:58:38Z | Implementation of paper %Proof of Storage-Time: Efficiently Checking Continuous Data Availability% | https://github.com/winderica/PoST_NDSS20 | 1 | 0| 
@@ -143,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220113T13:58:30Z | For a relaxing time | https://github.com/henrik716/fuzzy-fiesta | 0 | 0| 
-| 20220113T13:27:14Z | Attacker is an Information Security based tool developed in python for attacking websites to check their security. It is consists of Fuzzer, Spider, SpiderAJAX attacks. | https://github.com/bilalahmed-125/Attacker | 0 | 0| 
-| 20220113T12:34:27Z | Framework for creating fuzzers and negative tests for TLS 1.3 implementations | https://github.com/artem-smotrakov/tlsbunny | 8 | 3| 
-| 20220113T12:18:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 444 | 43| 
-| 20220113T12:17:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2384 | 462| 
-| 20220113T11:57:20Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 743 | 146| 
-| 20220113T11:42:21Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3874 | 917| 
-| 20220113T10:21:10Z | Null | https://github.com/grimmbraten/fuzzier | 0 | 0| 
-| 20220113T10:07:37Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 340 | 48| 
-| 20220113T09:57:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 721 | 70| 
+| 20220114T01:27:49Z | 54 | https://github.com/SouthpawCurveConcepts/fuzzy-funicular | 0 | 0| 
+| 20220114T00:58:18Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1370 | 237| 
+| 20220114T00:55:51Z | Null | https://github.com/tgargula/agh-sem5-psi-fuzzy | 0 | 0| 
+| 20220114T00:07:03Z | Null | https://github.com/Kathleen202/fuzzy-potato | 0 | 0| 
+| 20220113T23:16:53Z | Null | https://github.com/D1sl/fuzzy-robot | 0 | 0| 
+| 20220113T22:58:29Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 222 | 29| 
+| 20220113T22:37:47Z | A basic file format fuzzer written in java | https://github.com/jlaaa/java_fuzzer | 0 | 0| 
+| 20220113T22:24:07Z | A basic fuzzer that checks for reflected XSS vulnerabilities | https://github.com/grantv9/basic-fuzzer | 0 | 0| 
+| 20220113T22:18:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7013 | 1473| 
+| 20220113T21:50:54Z | Null | https://github.com/ralan/fuzzytext | 0 | 0| 
 
 
 
