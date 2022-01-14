@@ -89,10 +89,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220114T13:58:24Z | a simple exploit POC for https://promon.co/security-news/strandhogg/ which can steal username and password from targeted android package process | https://github.com/tripoloski1337/android-task-hijacking | 0 | 0| 
 | 20220114T13:53:05Z | Null | https://github.com/PainNonsense/PainExploit-Scripts | 0 | 0| 
 | 20220114T13:52:00Z | Created Home Page | https://github.com/PainNonsense/PainExploit-Home | 0 | 0| 
 | 20220114T13:49:49Z | Created Home Page | https://github.com/PainNonsense/PainExploit---Home | 0 | 0| 
-| 20220114T13:38:23Z | a simple exploit POC for https://promon.co/security-news/strandhogg/ which can steal username and password from targeted android package process | https://github.com/tripoloski1337/android-task-hijacking | 0 | 0| 
 | 20220114T13:23:11Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 377 | 115| 
 | 20220114T11:47:59Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 6 | 0| 
 | 20220114T11:33:46Z | Fortnite Cheat, Fortnite Drivers, Exploits, Cheat Source, Fortnite Source | https://github.com/galaxiesfn/uranium-fortnite-cheat-leak | 1 | 0| 
