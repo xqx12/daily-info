@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220114T13:34:01Z | Null | https://github.com/xsalonx/fuzzyLogic | 0 | 0| 
 | 20220114T12:43:18Z | A fuzzy min max classifier introducing the concept of fuzzy neural networks. | https://github.com/Cartmanishere/fuzzy-min-max-classifier | 24 | 16| 
 | 20220114T12:15:01Z | POC%s and stuff | https://github.com/Duran-Cole/fuzzy-waffle | 0 | 0| 
 | 20220114T11:54:12Z | Short introduction to fuzzing in C, Python and Java | https://github.com/sijohans/fuzzing-introduction | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220114T05:08:56Z | Null | https://github.com/SouthpawCurveConcepts/fuzzy-meme | 0 | 0| 
 | 20220114T01:52:52Z | Null | https://github.com/SouthpawCurveConcepts/fuzzy-broccoli | 0 | 0| 
 | 20220114T01:27:49Z | 54 | https://github.com/SouthpawCurveConcepts/fuzzy-funicular | 0 | 0| 
-| 20220114T00:58:18Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1370 | 237| 
 
 
 
