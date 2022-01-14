@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220114T13:53:05Z | Null | https://github.com/PainNonsense/PainExploit-Scripts | 0 | 0| 
 | 20220114T13:52:00Z | Created Home Page | https://github.com/PainNonsense/PainExploit-Home | 0 | 0| 
 | 20220114T13:49:49Z | Created Home Page | https://github.com/PainNonsense/PainExploit---Home | 0 | 0| 
 | 20220114T13:38:23Z | a simple exploit POC for https://promon.co/security-news/strandhogg/ which can steal username and password from targeted android package process | https://github.com/tripoloski1337/android-task-hijacking | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20220114T09:36:21Z | Learning how to use the GSAP Library for Complex Animations on the Web | https://github.com/OlaoreFouad/gsap-exploits | 0 | 0| 
 | 20220114T09:36:19Z | Null | https://github.com/PainNonsense/PainExploit.github.io | 0 | 0| 
 | 20220114T09:29:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 284 | 88| 
-| 20220114T09:27:39Z | this was a oayed cheat that existed scamm in 2 days here is their ud source with drivers this shit has cool external exploits etc and chest esp prob best source out rn | https://github.com/SlaveTEch/Uranium-Fortnite-Undetected-Cheat-With-Chest-ESP-Source-Leak | 0 | 0| 
 
 
 # backdoor on Github 推荐
