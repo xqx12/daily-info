@@ -119,8 +119,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T13:19:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2642 | 395| 
 | 20220115T13:08:06Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1964 | 406| 
-| 20220115T13:01:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2641 | 395| 
 | 20220114T06:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1869 | 530| 
 | 20220113T10:31:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 512 | 83| 
 | 20220112T18:08:44Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 0 | 0| 
@@ -146,6 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T13:19:16Z | Constructing a fuzzy controller for a set of  given rules. The rules are minimized to see the difference in ouput values. | https://github.com/tudi72/Fuzzy_Controller | 0 | 0| 
+| 20220115T13:18:51Z | Fuzzy Logic Deployment Logic | https://github.com/JackMalone1/FuzzyLogic | 0 | 0| 
 | 20220115T12:57:36Z | Config files for my GitHub profile. | https://github.com/FuZz3TheLord/FuZz3TheLord | 0 | 0| 
 | 20220115T12:33:08Z | Null | https://github.com/Iloveidea/fuzzy-octo-guacamole | 0 | 0| 
 | 20220115T12:13:02Z | Null | https://github.com/FerretDB/fuzz-corpus | 0 | 0| 
@@ -154,8 +156,6 @@
 | 20220115T11:31:49Z | Null | https://github.com/chopperg/fuzzy | 0 | 0| 
 | 20220115T11:04:57Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 60 | 6| 
 | 20220115T10:40:30Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 73 | 7| 
-| 20220115T09:24:23Z | Null | https://github.com/ttscoff/fuzzy_cd | 0 | 0| 
-| 20220115T07:25:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2457 | 152| 
 
 
 
