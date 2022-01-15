@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T13:35:59Z | Null | https://github.com/Calvooooo/https-raw.githubusercontent.com-DiamondHands-Exploit-BedWarsExploit-main-Source.lua | 0 | 0| 
 | 20220115T13:25:22Z | OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution (RCE) | https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE | 7 | 2| 
 | 20220115T13:24:37Z | Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) using the Metasploit Framework. | https://github.com/d4t4s3c/SMBploit | 63 | 17| 
 | 20220115T13:20:23Z | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20220115T11:55:18Z | Null | https://github.com/hris69/AstoExploit | 0 | 0| 
 | 20220115T11:32:27Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth | https://github.com/GaryOderNichts/bluubomb | 74 | 2| 
 | 20220115T10:32:24Z | Keyless Roblox exploiter, level: 7, language: Lua | https://github.com/FewgBlocks/CQ | 0 | 0| 
-| 20220115T09:39:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10596 | 1830| 
 
 
 # backdoor on Github 推荐
