@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T02:09:58Z | <pre> A backdoor shell that cannot be searched using dork, is perfect for those of you who want to have long-lasting backdoor access to the target website.  In this backdoor shell, several useful features are also available to carry out activities that are usually required, namely:  - Upload - Edit - Rename - Delete - Change permissions - Command - Backconnect - Config grab - Symlink - Jumping - Mass deface / mass delete files - Change email in cpanel to reset password - Create rdp account (for windows server) - Ransomware - Zone-h mass notify  Please download the official version (to avoid loggers and others), which is only here: <a>https://github.com/cowokumel/s3nd4lflop-minishell/</a> </pre> | https://github.com/cowokumel/s3nd4ljepit-minishell | 1 | 0| 
 | 20220114T21:12:03Z | Null | https://github.com/jaackkiscool/Backdoor-Scanner-v1.1 | 1 | 0| 
 | 20220114T08:44:55Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 1 | 0| 
 | 20220114T03:16:46Z | simple app to delete Beast (RAT) and Slackbot | https://github.com/trisyatalia/clean-backdoor-java | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20220113T19:28:59Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 54 | 27| 
 | 20220113T18:45:45Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
 | 20220113T17:13:04Z | This program is an opensource backdoor/reverse tcp/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 477 | 173| 
-| 20220113T16:00:56Z | Just a simple tool scan shell backdoor write in python | https://github.com/0xrohadi/shellscan | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
