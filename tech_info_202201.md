@@ -119,8 +119,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T13:08:06Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1964 | 406| 
 | 20220115T13:01:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2641 | 395| 
-| 20220115T00:20:40Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1965 | 406| 
 | 20220114T06:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1869 | 530| 
 | 20220113T10:31:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 512 | 83| 
 | 20220112T18:08:44Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 0 | 0| 
@@ -152,10 +152,10 @@
 | 20220115T11:43:52Z | fuzz%s blog | https://github.com/eternity-fuzz/eternity-fuzz.github.io | 0 | 0| 
 | 20220115T11:38:41Z | web server docker container for fuzzing pratice | https://github.com/FrancescoDiSalesGithub/fuzzing-web-server | 0 | 0| 
 | 20220115T11:31:49Z | Null | https://github.com/chopperg/fuzzy | 0 | 0| 
+| 20220115T11:04:57Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 60 | 6| 
 | 20220115T10:40:30Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 73 | 7| 
 | 20220115T09:24:23Z | Null | https://github.com/ttscoff/fuzzy_cd | 0 | 0| 
 | 20220115T07:25:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2457 | 152| 
-| 20220115T06:21:52Z | Studied the reliability of the discrimination ability of each classifier, gave three indicators to measure the uncertainties: Randomness, Clarity and Ambiguity. Presented functions to satisfy these conditions and gave relevant codes. | https://github.com/peggrio/Multi-classifier-Fusion-Based-on-Fuzzy-Integrals- | 0 | 0| 
 
 
 
