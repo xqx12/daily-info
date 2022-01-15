@@ -95,10 +95,10 @@
 | 20220115T00:22:28Z | Null | https://github.com/sdsatumd/exploitability-tools | 0 | 0| 
 | 20220114T23:52:35Z | Writeups for my personal CTF exploits | https://github.com/MooseTheGoose/ctf-writeups | 0 | 0| 
 | 20220114T23:32:42Z | HatCon 2022 HatSploit exploit modules | https://github.com/enty8080/HatCon-2022 | 0 | 0| 
+| 20220114T23:24:33Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 34 | 25| 
 | 20220114T23:14:45Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4263 | 573| 
 | 20220114T23:10:52Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 385 | 118| 
 | 20220114T22:29:07Z | exploit databases | https://github.com/woounnan/exploits | 1 | 0| 
-| 20220114T22:07:51Z | PoC exploits that works on fivem windows servers! | https://github.com/miraf202/Fivem-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
