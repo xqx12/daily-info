@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220115T01:17:32Z | Null | https://github.com/Gleeeduc21/fuzzy-journey | 0 | 0| 
+| 20220115T01:27:32Z | Null | https://github.com/Gleeeduc21/fuzzy-journey | 1 | 0| 
 | 20220115T00:42:03Z | web server docker container for fuzzing pratice | https://github.com/FrancescoDiSalesGithub/fuzzing-web-server | 0 | 0| 
 | 20220114T23:54:12Z | Rust fuzzer | https://github.com/actuallyexeon/chocofuzz | 0 | 0| 
 | 20220114T23:20:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 940 | 145| 
