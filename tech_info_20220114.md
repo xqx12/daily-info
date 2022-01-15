@@ -96,7 +96,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220114T23:54:12Z | Rust fuzzer | https://github.com/actuallyexeon/chocofuzz | 0 | 0| 
-| 20220114T23:20:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 940 | 145| 
 | 20220114T22:19:59Z | A university project showcasing the power of a fuzzy logic inference system. | https://github.com/iwoplaza/fuzzy-plane | 0 | 0| 
 | 20220114T20:20:46Z | Null | https://github.com/rayhaneh/go-fuzz | 0 | 0| 
 | 20220114T20:12:06Z | Penetration-List is the supplement for Tester. It contains Every single type of vulnerabilities Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep, So More Information about our theory sections, Visit our Medium profile. | https://github.com/AlbusSec/Penetration-List | 0 | 0| 
@@ -105,6 +104,7 @@
 | 20220114T13:34:01Z | Null | https://github.com/xsalonx/fuzzyLogic | 0 | 0| 
 | 20220114T13:33:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7014 | 1473| 
 | 20220114T12:43:18Z | A fuzzy min max classifier introducing the concept of fuzzy neural networks. | https://github.com/Cartmanishere/fuzzy-min-max-classifier | 24 | 16| 
+| 20220114T12:15:01Z | POC%s and stuff | https://github.com/Duran-Cole/fuzzy-waffle | 0 | 0| 
 
 
 

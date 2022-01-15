@@ -146,10 +146,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T02:22:08Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 941 | 145| 
 | 20220115T01:27:32Z | Null | https://github.com/Gleeeduc21/fuzzy-journey | 1 | 0| 
 | 20220115T00:42:03Z | web server docker container for fuzzing pratice | https://github.com/FrancescoDiSalesGithub/fuzzing-web-server | 0 | 0| 
 | 20220114T23:54:12Z | Rust fuzzer | https://github.com/actuallyexeon/chocofuzz | 0 | 0| 
-| 20220114T23:20:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 940 | 145| 
 | 20220114T22:19:59Z | A university project showcasing the power of a fuzzy logic inference system. | https://github.com/iwoplaza/fuzzy-plane | 0 | 0| 
 | 20220114T20:20:46Z | Null | https://github.com/rayhaneh/go-fuzz | 0 | 0| 
 | 20220114T20:12:06Z | Penetration-List is the supplement for Tester. It contains Every single type of vulnerabilities Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep, So More Information about our theory sections, Visit our Medium profile. | https://github.com/AlbusSec/Penetration-List | 0 | 0| 
