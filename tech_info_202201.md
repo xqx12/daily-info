@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T01:17:32Z | Null | https://github.com/Gleeeduc21/fuzzy-journey | 0 | 0| 
 | 20220115T00:42:03Z | web server docker container for fuzzing pratice | https://github.com/FrancescoDiSalesGithub/fuzzing-web-server | 0 | 0| 
 | 20220114T23:54:12Z | Rust fuzzer | https://github.com/actuallyexeon/chocofuzz | 0 | 0| 
 | 20220114T23:20:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 940 | 145| 
@@ -155,7 +156,6 @@
 | 20220114T18:31:09Z | The project uses fuzzy logic to calculate the intensity of watering. | https://github.com/kfaracik/Watering-the-Fuzzy-Driver | 0 | 0| 
 | 20220114T17:06:19Z | Open-source RESTful API built with Laravel framework for our project %Fuzzle% | https://github.com/PAXANDDOS/fuzzle-api | 0 | 0| 
 | 20220114T13:34:01Z | Null | https://github.com/xsalonx/fuzzyLogic | 0 | 0| 
-| 20220114T13:33:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7014 | 1473| 
 
 
 
