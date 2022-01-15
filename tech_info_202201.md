@@ -31,16 +31,16 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220115 | 端到端模型在人员流失预警场景的实践 | https://mp.weixin.qq.com/s/DY-gzglv73iLrANjDY4PrQ| 
+| 20220115 | 互联网领域黑产常见攻击手法初探 | https://mp.weixin.qq.com/s/RfBOC1Tiy76qQRlrjIMdTA| 
+| 20220115 | Zeek - Detect Godzilla WebShell | https://canon88.github.io/2021/11/30/Zeek-Detect-Godzilla-WebShell/| 
+| 20220115 | 云防火墙产品的演进思路 | https://mp.weixin.qq.com/s/nKbUajOKuNjoCef-ZpgYfA| 
+| 20220115 | MSF+生成流量免杀木马 | https://mp.weixin.qq.com/s/UtA5BgOs8rlh5_8Q72cf8A| 
+| 20220115 | 剖析海莲花组织恶意文件定制化策略 | https://mp.weixin.qq.com/s/_ON095i-wuNHtQQgB-hSng| 
+| 20220115 | r3kapig技能栈1.0 | https://r3kapig.com/r3kapig-skill-tree-v1.0| 
+| 20220115 | X通信息安全培训体系建设 | https://mp.weixin.qq.com/s/LklmkgRXydx35D1JcOFewA| 
+| 20220115 | ATT&CK Techniques to Security Events | https://ossemproject.com/dm/mitre_attack/attack_techniques_to_events.html| 
 | 20220113 | 将EXE程序通过Powershell形式实现无文件运行 | http://www.bugsafe.cn/archives/294.html| 
-| 20220113 | QRS 2021 论文录用列表 | https://mp.weixin.qq.com/s/BMEXcjaFPuA00VrBDnhnlg| 
-| 20220113 | 从分析一个赌球APP中入门安卓逆向、开发、协议分析 | https://mp.weixin.qq.com/s/s1EmuyqlfcBa25wmxC87sQ| 
-| 20220113 | QRS 2021 论文录用列表 | /news/29999| 
-| 20220112 | Gartner 2021 漏洞评估产品市场指南 | https://mp.weixin.qq.com/s/Oi7id-3jJOFjS1x-PlmD6w| 
-| 20220112 | 网安新兴赛道及厂商速查· Cyber Security Billboard | https://docs.qq.com/sheet/DQ2F2a29TZFhDdFZp?tab=BB08J2| 
-| 20220112 | 网络空间测绘溯源技术剖析 | https://mp.weixin.qq.com/s/i-VzWFUB4bncDlKvrJk9xw| 
-| 20220112 | 网络空间威胁狩猎的研究综述 | https://mp.weixin.qq.com/s/nSM-WoSE6IVDXZ52F9h9SQ| 
-| 20220112 | 长安战疫-WriteUp | https://mp.weixin.qq.com/s/VMk7RPkvDioqMqEQdM5jFw| 
-| 20220112 | APT组织情报研究年鉴 2021 | http://blog.nsfocus.net/wp-content/uploads/2022/01/APT.pdf| 
 
 
 # CVE Github 推荐
@@ -61,25 +61,25 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220115T02:52:01Z | Provides the ability to create custom ktest files for klee given the input format | https://github.com/R3x/ktest-creator | 0 | 0| 
+| 20220115T12:26:46Z | Null | https://github.com/theanmol-raj/finance-kleen | 0 | 0| 
+| 20220115T05:08:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 98 | 1| 
+| 20220115T04:17:03Z | Provides the ability to create custom ktest files for klee given the input format | https://github.com/R3x/ktest-creator | 0 | 0| 
 | 20220114T15:46:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 10 | 0| 
-| 20220114T11:27:46Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 96 | 1| 
 | 20220114T11:09:20Z | Config files for my GitHub profile. | https://github.com/Kleex123/Kleex123 | 0 | 0| 
 | 20220114T06:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1869 | 530| 
 | 20220114T01:29:37Z | woo | https://github.com/xinrachel30/kleex | 0 | 0| 
 | 20220113T15:12:38Z | Null | https://github.com/kocherizhka/-Saint-Petersburg---Kleeva- | 0 | 0| 
 | 20220113T11:39:30Z | My redesign for a local optician. | https://github.com/DavidOut03/VanKleefOptiek | 0 | 0| 
 | 20220113T07:20:31Z | Null | https://github.com/davidtr1037/klee-symsize | 1 | 0| 
-| 20220112T13:16:55Z | Null | https://github.com/dorawei/klee-tc | 7 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T09:06:01Z | Null | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220114T09:33:59Z | Null | https://github.com/software-testing-bootcamp/S2E1-selenium4-java-testng-allure | 1 | 0| 
 | 20220114T07:28:34Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 5 | 0| 
 | 20220113T00:41:05Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 0| 
-| 20220110T11:39:16Z | CRAX++: S2E-based modular exploit generation system that incorporates various binary exploitation techniques. | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
 | 20220108T01:46:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220107T06:24:16Z | Serial to Ethernet Module based on W5500 & Cortex-M0 | https://github.com/Wiznet/WIZ550S2E-Modbus | 3 | 4| 
 | 20220106T00:01:41Z | Null | https://github.com/s2e-lab/s2e-lab.github.io | 0 | 0| 
@@ -89,21 +89,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220115T02:55:55Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 282 | 12| 
-| 20220115T02:48:34Z | Automatic IP-Cam Search and Exploit | https://github.com/MBHudson/AutoCamExploit | 0 | 0| 
-| 20220115T01:19:40Z | Null | https://github.com/stackviolator/ccso-exploitdev | 0 | 0| 
-| 20220115T01:04:03Z | Just installation tutorial | https://github.com/SEHSExploits/ExploitPackOne | 0 | 0| 
-| 20220115T00:22:28Z | Null | https://github.com/sdsatumd/exploitability-tools | 0 | 0| 
-| 20220114T23:52:35Z | Writeups for my personal CTF exploits | https://github.com/MooseTheGoose/ctf-writeups | 0 | 0| 
-| 20220114T23:32:42Z | HatCon 2022 HatSploit exploit modules | https://github.com/enty8080/HatCon-2022 | 0 | 0| 
-| 20220114T23:24:33Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 34 | 25| 
-| 20220114T23:14:45Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4263 | 573| 
-| 20220114T23:10:52Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 385 | 118| 
+| 20220115T12:59:44Z | Null | https://github.com/PainNonsense/PainExploit-ADMIN-COMMAND | 0 | 0| 
+| 20220115T12:59:19Z | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | 0 | 0| 
+| 20220115T12:54:51Z | Null | https://github.com/PainNonsense/PainExploit-Shindo-Life | 0 | 0| 
+| 20220115T12:30:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 283 | 89| 
+| 20220115T11:55:18Z | Null | https://github.com/hris69/AstoExploit | 0 | 0| 
+| 20220115T11:32:27Z | Exploits the Wii U%s bluetooth stack to gain IOSU kernel access via bluetooth | https://github.com/GaryOderNichts/bluubomb | 74 | 2| 
+| 20220115T10:32:24Z | Keyless Roblox exploiter, level: 7, language: Lua | https://github.com/FewgBlocks/CQ | 0 | 0| 
+| 20220115T09:39:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10596 | 1830| 
+| 20220115T09:06:01Z | Null | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
+| 20220115T07:03:27Z | Null | https://github.com/d3or/web3-exploits | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T07:15:29Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
 | 20220115T02:09:58Z | <pre> A backdoor shell that cannot be searched using dork, is perfect for those of you who want to have long-lasting backdoor access to the target website.  In this backdoor shell, several useful features are also available to carry out activities that are usually required, namely:  - Upload - Edit - Rename - Delete - Change permissions - Command - Backconnect - Config grab - Symlink - Jumping - Mass deface / mass delete files - Change email in cpanel to reset password - Create rdp account (for windows server) - Ransomware - Zone-h mass notify  Please download the official version (to avoid loggers and others), which is only here: <a>https://github.com/cowokumel/s3nd4lflop-minishell/</a> </pre> | https://github.com/cowokumel/s3nd4ljepit-minishell | 1 | 0| 
 | 20220114T21:12:03Z | Null | https://github.com/jaackkiscool/Backdoor-Scanner-v1.1 | 1 | 0| 
 | 20220114T08:44:55Z | Null | https://github.com/quantization-backdoor/quantization-backdoor | 1 | 0| 
@@ -113,13 +114,12 @@
 | 20220113T23:52:10Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 2 | 0| 
 | 20220113T19:28:59Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 54 | 27| 
 | 20220113T18:45:45Z | another snake friendly rat backbone | https://github.com/trevalkov/ratpy | 1 | 0| 
-| 20220113T17:13:04Z | This program is an opensource backdoor/reverse tcp/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 477 | 173| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220115T02:19:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2636 | 395| 
+| 20220115T13:01:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2641 | 395| 
 | 20220115T00:20:40Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1965 | 406| 
 | 20220114T06:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1869 | 530| 
 | 20220113T10:31:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 512 | 83| 
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220115T02:22:08Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 941 | 145| 
-| 20220115T01:27:32Z | Null | https://github.com/Gleeeduc21/fuzzy-journey | 1 | 0| 
-| 20220115T00:42:03Z | web server docker container for fuzzing pratice | https://github.com/FrancescoDiSalesGithub/fuzzing-web-server | 0 | 0| 
-| 20220114T23:54:12Z | Rust fuzzer | https://github.com/actuallyexeon/chocofuzz | 0 | 0| 
-| 20220114T22:19:59Z | A university project showcasing the power of a fuzzy logic inference system. | https://github.com/iwoplaza/fuzzy-plane | 0 | 0| 
-| 20220114T20:20:46Z | Null | https://github.com/rayhaneh/go-fuzz | 0 | 0| 
-| 20220114T20:12:06Z | Penetration-List is the supplement for Tester. It contains Every single type of vulnerabilities Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep, So More Information about our theory sections, Visit our Medium profile. | https://github.com/AlbusSec/Penetration-List | 0 | 0| 
-| 20220114T18:31:09Z | The project uses fuzzy logic to calculate the intensity of watering. | https://github.com/kfaracik/Watering-the-Fuzzy-Driver | 0 | 0| 
-| 20220114T17:06:19Z | Open-source RESTful API built with Laravel framework for our project %Fuzzle% | https://github.com/PAXANDDOS/fuzzle-api | 0 | 0| 
-| 20220114T13:34:01Z | Null | https://github.com/xsalonx/fuzzyLogic | 0 | 0| 
+| 20220115T12:57:36Z | Config files for my GitHub profile. | https://github.com/FuZz3TheLord/FuZz3TheLord | 0 | 0| 
+| 20220115T12:33:08Z | Null | https://github.com/Iloveidea/fuzzy-octo-guacamole | 0 | 0| 
+| 20220115T12:13:02Z | Null | https://github.com/FerretDB/fuzz-corpus | 0 | 0| 
+| 20220115T11:43:52Z | fuzz%s blog | https://github.com/eternity-fuzz/eternity-fuzz.github.io | 0 | 0| 
+| 20220115T11:38:41Z | web server docker container for fuzzing pratice | https://github.com/FrancescoDiSalesGithub/fuzzing-web-server | 0 | 0| 
+| 20220115T11:31:49Z | Null | https://github.com/chopperg/fuzzy | 0 | 0| 
+| 20220115T10:40:30Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 73 | 7| 
+| 20220115T09:24:23Z | Null | https://github.com/ttscoff/fuzzy_cd | 0 | 0| 
+| 20220115T07:25:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2457 | 152| 
+| 20220115T06:21:52Z | Studied the reliability of the discrimination ability of each classifier, gave three indicators to measure the uncertainties: Randomness, Clarity and Ambiguity. Presented functions to satisfy these conditions and gave relevant codes. | https://github.com/peggrio/Multi-classifier-Fusion-Based-on-Fuzzy-Integrals- | 0 | 0| 
 
 
 
