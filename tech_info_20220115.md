@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T13:24:37Z | Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) using the Metasploit Framework. | https://github.com/d4t4s3c/SMBploit | 63 | 17| 
 | 20220115T13:20:23Z | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | 0 | 0| 
 | 20220115T12:59:44Z | Null | https://github.com/PainNonsense/PainExploit-ADMIN-COMMAND | 0 | 0| 
 | 20220115T12:54:51Z | Null | https://github.com/PainNonsense/PainExploit-Shindo-Life | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20220115T10:32:24Z | Keyless Roblox exploiter, level: 7, language: Lua | https://github.com/FewgBlocks/CQ | 0 | 0| 
 | 20220115T09:39:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10596 | 1830| 
 | 20220115T09:06:01Z | Null | https://github.com/SQLab/CRAXplusplus | 29 | 3| 
-| 20220115T07:03:27Z | Null | https://github.com/d3or/web3-exploits | 2 | 0| 
 
 
 # backdoor on Github 推荐
