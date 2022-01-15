@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T13:34:32Z | Minimal application for fuzzy-testing of Java code via the Jazzer fuzzer | https://github.com/centic9/demo-fuzz | 0 | 0| 
 | 20220115T13:19:16Z | Constructing a fuzzy controller for a set of  given rules. The rules are minimized to see the difference in ouput values. | https://github.com/tudi72/Fuzzy_Controller | 0 | 0| 
 | 20220115T13:18:51Z | Fuzzy Logic Deployment Logic | https://github.com/JackMalone1/FuzzyLogic | 0 | 0| 
 | 20220115T12:57:36Z | Config files for my GitHub profile. | https://github.com/FuZz3TheLord/FuZz3TheLord | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20220115T11:38:41Z | web server docker container for fuzzing pratice | https://github.com/FrancescoDiSalesGithub/fuzzing-web-server | 0 | 0| 
 | 20220115T11:31:49Z | Null | https://github.com/chopperg/fuzzy | 0 | 0| 
 | 20220115T11:04:57Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 60 | 6| 
-| 20220115T10:40:30Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 73 | 7| 
 
 
 
