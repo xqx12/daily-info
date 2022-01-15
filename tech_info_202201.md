@@ -89,9 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220115T01:22:52Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 275 | 12| 
 | 20220115T01:19:40Z | Null | https://github.com/stackviolator/ccso-exploitdev | 0 | 0| 
 | 20220115T01:04:03Z | Just installation tutorial | https://github.com/SEHSExploits/ExploitPackOne | 0 | 0| 
-| 20220115T00:51:05Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 274 | 12| 
 | 20220115T00:22:28Z | Null | https://github.com/sdsatumd/exploitability-tools | 0 | 0| 
 | 20220114T23:52:35Z | Writeups for my personal CTF exploits | https://github.com/MooseTheGoose/ctf-writeups | 0 | 0| 
 | 20220114T23:32:42Z | HatCon 2022 HatSploit exploit modules | https://github.com/enty8080/HatCon-2022 | 0 | 0| 
