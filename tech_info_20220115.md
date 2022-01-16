@@ -92,7 +92,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220115T22:51:18Z | smart contracts development using Foundry | https://github.com/gr4yha7/fuzzman | 0 | 0| 
 | 20220115T22:32:55Z | A Ruby library for generating, mutating, and fuzzing data | https://github.com/ronin-rb/ronin-fuzzing | 0 | 0| 
-| 20220115T21:50:58Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controller | 0 | 0| 
 | 20220115T20:56:07Z | Fuzzy logics project | https://github.com/mrrys00/fuzzy | 0 | 0| 
 | 20220115T20:16:28Z | Null | https://github.com/sajibpothik/fuzzy-octo-pancake | 0 | 0| 
 | 20220115T20:15:02Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1156 | 47| 
@@ -100,6 +99,7 @@
 | 20220115T13:59:06Z | Use Jazzer to perform fuzzy testing of Apache Commons CSV | https://github.com/centic9/csv-fuzz | 0 | 0| 
 | 20220115T13:57:49Z | Minimal application for fuzzy-testing of Java code via the Jazzer fuzzer | https://github.com/centic9/demo-fuzz | 1 | 0| 
 | 20220115T13:19:16Z | Constructing a fuzzy controller for a set of  given rules. The rules are minimized to see the difference in ouput values. | https://github.com/tudi72/Fuzzy_Controller | 0 | 0| 
+| 20220115T13:18:51Z | Fuzzy Logic Deployment Logic | https://github.com/JackMalone1/FuzzyLogic | 0 | 0| 
 
 
 
