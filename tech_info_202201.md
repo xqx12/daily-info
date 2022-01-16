@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220116 | 适用于 Android 平台的 Adob​​e Acrobat Reader 中RCE漏洞利用(CVE-2021-40724). | https://hulkvision.github.io/blog/post1/| 
 | 20220114 | CVE-2021-42342 Goahead 环境变量注入漏洞分析 | http://bestwing.me/CVE-2021-42342-Goahead.html| 
 | 20220114 | Manticore - trailofbits 开源的符号执行工具，用于分析智能合约和二进制文件 | https://github.com/trailofbits/manticore| 
 | 20220114 | Electron Prototype Pollution XSS 漏洞的影响 | https://github.com/msrkp/electron-research| 
@@ -25,37 +26,36 @@
 | 20220113 | 恶意 Office 文件的分析 | http://www.intezer.com/blog/malware-analysis/analyze-malicious-microsoft-office-files/| 
 | 20220113 | FIRMWIRE - 基带处理器固件的模拟执行平台，用于固件的动态分析（Paper） | http://hernan.de/research/papers/firmwire-ndss22-hernandez.pdf| 
 | 20220113 | 即将举办的 2022 Pwn2Own Vancouver 比赛的项目及规则公布了 | https://www.zerodayinitiative.com/blog/2022/1/12/pwn2own-vancouver-2022-luanch#auto| 
-| 20220113 | SCTF两道web题的writeup及出题感想. | http://tttang.com/archive/1393/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220116 | 安全学术会议排行榜（2021版） | https://mp.weixin.qq.com/s/6Bd5eg9TJw5PL_Qtpq8eLg| 
+| 20220116 | Graph Embedding实战系列：Node2vec原理与代码实战 | https://mp.weixin.qq.com/s/V6DzgC1WXST7yZczKQiCXg| 
+| 20220116 | 初识WebAssembly | https://mp.weixin.qq.com/s/IMbAujuFHzX3JO3PFE_vLg| 
+| 20220116 | 现代网络犯罪模式解读 | https://mp.weixin.qq.com/s/7xwIaxfyObDnzx0x-j6P2w| 
 | 20220115 | 端到端模型在人员流失预警场景的实践 | https://mp.weixin.qq.com/s/DY-gzglv73iLrANjDY4PrQ| 
 | 20220115 | 互联网领域黑产常见攻击手法初探 | https://mp.weixin.qq.com/s/RfBOC1Tiy76qQRlrjIMdTA| 
 | 20220115 | Zeek - Detect Godzilla WebShell | https://canon88.github.io/2021/11/30/Zeek-Detect-Godzilla-WebShell/| 
 | 20220115 | 云防火墙产品的演进思路 | https://mp.weixin.qq.com/s/nKbUajOKuNjoCef-ZpgYfA| 
 | 20220115 | MSF+生成流量免杀木马 | https://mp.weixin.qq.com/s/UtA5BgOs8rlh5_8Q72cf8A| 
 | 20220115 | 剖析海莲花组织恶意文件定制化策略 | https://mp.weixin.qq.com/s/_ON095i-wuNHtQQgB-hSng| 
-| 20220115 | r3kapig技能栈1.0 | https://r3kapig.com/r3kapig-skill-tree-v1.0| 
-| 20220115 | X通信息安全培训体系建设 | https://mp.weixin.qq.com/s/LklmkgRXydx35D1JcOFewA| 
-| 20220115 | ATT&CK Techniques to Security Events | https://ossemproject.com/dm/mitre_attack/attack_techniques_to_events.html| 
-| 20220113 | 将EXE程序通过Powershell形式实现无文件运行 | http://www.bugsafe.cn/archives/294.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220116T11:35:38Z | CVE-2021-42237 | An exploit/PoC for CVE-2021-42237 | https://github.com/PinkDev1/CVE-2021-42237 | | 
+| 20220116T11:03:04Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
+| 20220116T09:52:28Z | CVE-2022-0236 | Null | https://github.com/qurbat/CVE-2022-0236 | | 
+| 20220116T04:17:11Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | | 
 | 20220116T02:46:25Z | CVE-2021-28476 | CVE-2021-28476: Hyper-V vmswitch.sys arbitrary pointer dereference from guest VM | https://github.com/australeo/CVE-2021-28476 | | 
 | 20220115T20:51:06Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
-| 20220115T16:11:09Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20220114T22:01:52Z | CVE-2021-32648 | Proof Of Concept code for OctoberCMS Auth Bypass CVE-2021-32648 | https://github.com/Immersive-Labs-Sec/CVE-2021-32648 | | 
 | 20220114T21:54:38Z | CVE-2021-35211 | Null | https://github.com/BishopFox/CVE-2021-35211 | | 
 | 20220114T21:45:58Z | CVE-2021-46080 | CVE-2021-46080 - A Cross Site Request Forgery (CSRF) vulnerability exists in Vehicle Service Management System 1.0. An successful CSRF attacks leads to Stored Cross Site Scripting Vulnerability. | https://github.com/plsanu/CVE-2021-46080 | | 
 | 20220114T21:26:02Z | CVE-2021-46079 | CVE-2021-46079 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to Html Injection. | https://github.com/plsanu/CVE-2021-46079 | | 
-| 20220114T20:49:42Z | CVE-2021-46078 | CVE-2021-46078 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to a Stored Cross-Site Scripting vulnerability. | https://github.com/plsanu/CVE-2021-46078 | | 
-| 20220114T20:28:01Z | CVE-2021-46076 | CVE-2021-46076 - Sourcecodester Vehicle Service Management System 1.0 is vulnerable to File upload. An attacker can upload a malicious php file in multiple endpoints it leading to Code Execution. | https://github.com/plsanu/CVE-2021-46076 | | 
-| 20220114T20:15:28Z | CVE-2021-46075 | CVE-2021-46075 - A Privilege Escalation vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. Staff account users can access the admin resources and perform CRUD Operations. | https://github.com/plsanu/CVE-2021-46075 | | 
 
 
 # klee on Github 推荐
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220116T02:04:20Z | Exploiting Multi-Layer Features Using a CNN-RNN Approach for RGB-D Object Recognition | https://github.com/acaglayan/exploitCNN-RNN | 11 | 1| 
-| 20220116T02:00:29Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 183 | 35| 
-| 20220116T01:59:19Z | Compilation of roblox scripts made specifically for cheating | https://github.com/OpenSourceRoblox/Exploits | 0 | 0| 
-| 20220116T00:23:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4267 | 573| 
-| 20220115T23:18:51Z | SIMON ROSALES EXPLOIT 9.00  | https://github.com/SutemVzla/PS4 | 0 | 0| 
-| 20220115T22:38:26Z | Null | https://github.com/WexxanBest/py_exploits | 0 | 0| 
-| 20220115T21:20:22Z | Black Fox is a lightweight Roblox Exploit built on the WeAreDevs API | https://github.com/Rixxo-WX/Black-Fox | 0 | 0| 
-| 20220115T21:03:54Z | This is a very basic exploit.  | https://github.com/cOpEtriNe/Underground-War-Point-Exploit | 0 | 0| 
-| 20220115T20:43:34Z | This is a simple ftp anonymous login scanner to see if target is vulnerable to ftp login exploit. | https://github.com/SkidHecker1337/FTP-Anonymous-Vuln-Scanner | 0 | 0| 
-| 20220115T16:35:11Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 49 | 22| 
+| 20220116T12:55:26Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 515 | 132| 
+| 20220116T12:51:16Z | This repository contains one Roblox cheat script made by me and other scripts made by other persons which I use to exploit Roblox. | https://github.com/ezluci/Roblox-scripts | 1 | 0| 
+| 20220116T12:24:03Z | Android Kernel Exploitation | https://github.com/cloudfuzz/android-kernel-exploitation | 375 | 74| 
+| 20220116T12:14:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 44 | 21| 
+| 20220116T12:09:36Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 338 | 15| 
+| 20220116T11:21:55Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3060 | 675| 
+| 20220116T10:19:07Z | Null | https://github.com/10rd-d4rk/Exploit_Finder | 0 | 0| 
+| 20220116T09:59:17Z | Every time I see an exploit get posted/leaked, I will throw it into this.  | https://github.com/xoElf/FortniteExploits | 1 | 1| 
+| 20220116T08:36:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10599 | 1830| 
+| 20220116T07:57:18Z | Exploiting FTP/21 version VSFTDP 2.3.4 in Metasploitable 2 | https://github.com/nipund513/Review-Paper---Exploiting-FTP-21-version-VSFTDP-2.3.4-in-Metasploitable-2- | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220115T13:19:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2642 | 395| 
+| 20220116T05:38:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2644 | 395| 
 | 20220115T13:08:06Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1964 | 406| 
 | 20220114T06:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1869 | 530| 
 | 20220113T10:31:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 512 | 83| 
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220116T10:57:16Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 30 | 4| 
+| 20220116T10:03:12Z | Web fuzzer based on wfuzz, customizing the target | https://github.com/dnr6419/wfuzzer | 0 | 0| 
+| 20220116T10:01:16Z | Null | https://github.com/Ram5anthosh/fuzzy-octo-happiness | 0 | 0| 
+| 20220116T08:53:10Z | Null | https://github.com/Magryglak/fuzzy-octo-adventure | 0 | 0| 
+| 20220116T05:56:44Z | fuzz%s blogs | https://github.com/eternity-fuzz/eternity-fuzz.github.io | 0 | 0| 
+| 20220116T03:18:15Z | Null | https://github.com/Paulo-Henrique21/tal-um-guia-fuzzy | 0 | 0| 
 | 20220116T02:17:14Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controller | 0 | 0| 
 | 20220116T02:11:23Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controllerq | 0 | 0| 
 | 20220116T01:51:58Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controllere | 0 | 0| 
 | 20220116T00:36:53Z | Null | https://github.com/grzenow4/JNP1-Fuzzy | 0 | 0| 
-| 20220116T00:09:44Z | Starter Template for Eleventy (^1.0.0) & Tailwind CSS (^3.0.0) on Netlify | https://github.com/BA7B7CFE/fuzzy-system | 0 | 0| 
-| 20220115T22:51:18Z | smart contracts development using Foundry | https://github.com/gr4yha7/fuzzman | 0 | 0| 
-| 20220115T22:32:55Z | A Ruby library for generating, mutating, and fuzzing data | https://github.com/ronin-rb/ronin-fuzzing | 0 | 0| 
-| 20220115T20:56:07Z | Fuzzy logics project | https://github.com/mrrys00/fuzzy | 0 | 0| 
-| 20220115T20:16:28Z | Null | https://github.com/sajibpothik/fuzzy-octo-pancake | 0 | 0| 
-| 20220115T20:15:02Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1156 | 47| 
 
 
 
