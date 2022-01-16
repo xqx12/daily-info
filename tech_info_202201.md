@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220116T02:12:14Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controller | 0 | 0| 
+| 20220116T02:17:14Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controller | 0 | 0| 
 | 20220116T02:11:23Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controllerq | 0 | 0| 
 | 20220116T01:51:58Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controllere | 0 | 0| 
 | 20220116T00:36:53Z | Null | https://github.com/grzenow4/JNP1-Fuzzy | 0 | 0| 
