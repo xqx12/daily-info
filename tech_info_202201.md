@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220116T01:52:20Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controller | 0 | 0| 
+| 20220116T01:55:14Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controller | 0 | 0| 
 | 20220116T01:51:58Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controllere | 0 | 0| 
 | 20220116T00:36:53Z | Null | https://github.com/grzenow4/JNP1-Fuzzy | 0 | 0| 
 | 20220116T00:09:44Z | Starter Template for Eleventy (^1.0.0) & Tailwind CSS (^3.0.0) on Netlify | https://github.com/BA7B7CFE/fuzzy-system | 0 | 0| 
