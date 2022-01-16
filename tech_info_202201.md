@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220116T02:04:20Z | Exploiting Multi-Layer Features Using a CNN-RNN Approach for RGB-D Object Recognition | https://github.com/acaglayan/exploitCNN-RNN | 11 | 1| 
 | 20220116T02:00:29Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 183 | 35| 
 | 20220116T01:59:19Z | Compilation of roblox scripts made specifically for cheating | https://github.com/OpenSourceRoblox/Exploits | 0 | 0| 
 | 20220116T00:23:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4267 | 573| 
@@ -98,7 +99,6 @@
 | 20220115T21:03:54Z | This is a very basic exploit.  | https://github.com/cOpEtriNe/Underground-War-Point-Exploit | 0 | 0| 
 | 20220115T20:43:34Z | This is a simple ftp anonymous login scanner to see if target is vulnerable to ftp login exploit. | https://github.com/SkidHecker1337/FTP-Anonymous-Vuln-Scanner | 0 | 0| 
 | 20220115T16:35:11Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 49 | 22| 
-| 20220115T15:46:14Z | The Official Blooket Hack | https://github.com/glixzzy/blooket-hack | 349 | 944| 
 
 
 # backdoor on Github 推荐
