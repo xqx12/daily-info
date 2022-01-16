@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220116T02:45:26Z | CVE-2021-28476 | CVE-2021-28476: Hyper-V vmswitch.sys arbitrary pointer dereference from guest VM | https://github.com/australeo/CVE-2021-28476 | | 
 | 20220115T20:51:06Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220115T16:11:09Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20220114T22:01:52Z | CVE-2021-32648 | Proof Of Concept code for OctoberCMS Auth Bypass CVE-2021-32648 | https://github.com/Immersive-Labs-Sec/CVE-2021-32648 | | 
@@ -55,7 +56,6 @@
 | 20220114T20:49:42Z | CVE-2021-46078 | CVE-2021-46078 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to a Stored Cross-Site Scripting vulnerability. | https://github.com/plsanu/CVE-2021-46078 | | 
 | 20220114T20:28:01Z | CVE-2021-46076 | CVE-2021-46076 - Sourcecodester Vehicle Service Management System 1.0 is vulnerable to File upload. An attacker can upload a malicious php file in multiple endpoints it leading to Code Execution. | https://github.com/plsanu/CVE-2021-46076 | | 
 | 20220114T20:15:28Z | CVE-2021-46075 | CVE-2021-46075 - A Privilege Escalation vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. Staff account users can access the admin resources and perform CRUD Operations. | https://github.com/plsanu/CVE-2021-46075 | | 
-| 20220114T20:01:50Z | CVE-2021-46074 | CVE-2021-46074 - A Stored Cross Site Scripting (XSS) vulnerability exists in Sourcecodester Vehicle Service Management System 1.0 via the Settings Section in login panel. | https://github.com/plsanu/CVE-2021-46074 | | 
 
 
 # klee on Github 推荐
