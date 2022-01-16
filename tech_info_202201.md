@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220116T02:00:29Z | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | 183 | 35| 
+| 20220116T01:59:19Z | Compilation of roblox scripts made specifically for cheating | https://github.com/OpenSourceRoblox/Exploits | 0 | 0| 
 | 20220116T00:23:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4267 | 573| 
 | 20220115T23:18:51Z | SIMON ROSALES EXPLOIT 9.00  | https://github.com/SutemVzla/PS4 | 0 | 0| 
 | 20220115T22:38:26Z | Null | https://github.com/WexxanBest/py_exploits | 0 | 0| 
@@ -97,8 +99,6 @@
 | 20220115T20:43:34Z | This is a simple ftp anonymous login scanner to see if target is vulnerable to ftp login exploit. | https://github.com/SkidHecker1337/FTP-Anonymous-Vuln-Scanner | 0 | 0| 
 | 20220115T16:35:11Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 49 | 22| 
 | 20220115T15:46:14Z | The Official Blooket Hack | https://github.com/glixzzy/blooket-hack | 349 | 944| 
-| 20220115T13:35:59Z | Null | https://github.com/Calvooooo/https-raw.githubusercontent.com-DiamondHands-Exploit-BedWarsExploit-main-Source.lua | 0 | 0| 
-| 20220115T13:25:22Z | OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution (RCE) | https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE | 7 | 2| 
 
 
 # backdoor on Github 推荐
