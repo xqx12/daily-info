@@ -104,16 +104,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220116T11:26:33Z | In this project on a backdoor development | https://github.com/Akashg1234/backdoor | 0 | 0| 
+| 20220116T10:56:50Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 429 | 185| 
+| 20220116T07:49:54Z | Application for the organization of the backdoor in the software complex for developers | https://github.com/MinistrBob/DjangoBackdoor | 0 | 0| 
 | 20220116T00:09:02Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 11 | 2| 
 | 20220115T23:53:40Z | Simple programa que ejemplifica como seria una backdoor muy sencilla | https://github.com/Hcnc100/simple_backdoor.py | 0 | 0| 
-| 20220115T21:12:44Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 427 | 185| 
 | 20220115T20:25:31Z | Null | https://github.com/karimzhonov/backdoor_with_sockets | 0 | 0| 
 | 20220115T20:19:37Z | badcat is a tool I%ve made to learn `rust` and analyze anonymous backdoors | https://github.com/yanmarques/badcat | 3 | 1| 
-| 20220115T18:35:44Z | Application for the organization of the backdoor in the software complex for developers | https://github.com/MinistrBob/DjangoBackdoor | 0 | 0| 
 | 20220115T14:06:24Z | A simple but dangerous backdoor built as a kernel module. | https://github.com/threadexio/kernel-module-backdoor-poc | 0 | 0| 
 | 20220115T13:54:03Z | Backdoor is a CyberSecurity discussion forum created for organizing a community based on all cyber security related matters | https://github.com/aksshay07/Backdoor | 0 | 0| 
 | 20220115T07:15:29Z | Null | https://github.com/ccccccc17/trpo_backdoor | 0 | 0| 
-| 20220115T02:09:58Z | <pre> A backdoor shell that cannot be searched using dork, is perfect for those of you who want to have long-lasting backdoor access to the target website.  In this backdoor shell, several useful features are also available to carry out activities that are usually required, namely:  - Upload - Edit - Rename - Delete - Change permissions - Command - Backconnect - Config grab - Symlink - Jumping - Mass deface / mass delete files - Change email in cpanel to reset password - Create rdp account (for windows server) - Ransomware - Zone-h mass notify  Please download the official version (to avoid loggers and others), which is only here: <a>https://github.com/cowokumel/s3nd4lflop-minishell/</a> </pre> | https://github.com/cowokumel/s3nd4ljepit-minishell | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
