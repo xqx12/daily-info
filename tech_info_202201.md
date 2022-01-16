@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220116T13:34:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10600 | 1830| 
 | 20220116T12:55:26Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 515 | 132| 
 | 20220116T12:51:16Z | This repository contains one Roblox cheat script made by me and other scripts made by other persons which I use to exploit Roblox. | https://github.com/ezluci/Roblox-scripts | 1 | 0| 
 | 20220116T12:24:03Z | Android Kernel Exploitation | https://github.com/cloudfuzz/android-kernel-exploitation | 375 | 74| 
@@ -97,7 +98,6 @@
 | 20220116T11:21:55Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3060 | 675| 
 | 20220116T10:19:07Z | Null | https://github.com/10rd-d4rk/Exploit_Finder | 0 | 0| 
 | 20220116T09:59:17Z | Every time I see an exploit get posted/leaked, I will throw it into this.  | https://github.com/xoElf/FortniteExploits | 1 | 1| 
-| 20220116T08:36:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10599 | 1830| 
 | 20220116T07:57:18Z | Exploiting FTP/21 version VSFTDP 2.3.4 in Metasploitable 2 | https://github.com/nipund513/Review-Paper---Exploiting-FTP-21-version-VSFTDP-2.3.4-in-Metasploitable-2- | 0 | 0| 
 
 
