@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T13:06:55Z | Null | https://github.com/PainNonsense/PainExploit-Shindo-Life-GUI | 0 | 0| 
 | 20220117T13:00:06Z | Null | https://github.com/soyzer0/imt_exploit | 0 | 0| 
 | 20220117T11:14:10Z | Code for Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference (CVPR2020) | https://github.com/thomasverelst/dynconv | 103 | 12| 
 | 20220117T11:06:06Z | Null | https://github.com/christopherhjung/log4j-exploit | 0 | 0| 

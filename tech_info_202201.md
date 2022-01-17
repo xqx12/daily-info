@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T13:06:55Z | Null | https://github.com/PainNonsense/PainExploit-Shindo-Life-GUI | 0 | 0| 
 | 20220117T13:00:06Z | Null | https://github.com/soyzer0/imt_exploit | 0 | 0| 
 | 20220117T11:14:10Z | Code for Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference (CVPR2020) | https://github.com/thomasverelst/dynconv | 103 | 12| 
 | 20220117T11:06:06Z | Null | https://github.com/christopherhjung/log4j-exploit | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220117T02:12:18Z | Host exploit para OFW 9.00 de PS4 - Dark House | https://github.com/DarkHouse82/darkhosuse900 | 0 | 0| 
 | 20220117T00:23:02Z | PS4 9.00 pOOBs4 exploit web server and USB emulation buildroot for Raspberry Pi, Orange Pi, etc. | https://github.com/Shivelight/pOOBs4-buildroot | 20 | 2| 
 | 20220116T23:12:25Z | a exploit script for emergency responce: liberty county on roblox | https://github.com/aahax/erc-script | 0 | 0| 
-| 20220116T22:29:57Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-2022 | 1 | 0| 
 
 
 # backdoor on Github 推荐
