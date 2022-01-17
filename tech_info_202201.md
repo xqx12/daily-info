@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T02:10:39Z | Projekt robiony w parze - o implementacji liczb rozmytych. | https://github.com/AaRaBiNoZa/JNP1-3-fuzzy | 0 | 0| 
 | 20220117T02:00:39Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 32 | 5| 
 | 20220117T00:49:18Z | Null | https://github.com/mugirmdl/fuzzy-guacamole | 0 | 0| 
 | 20220117T00:45:39Z | Implementation of DigFuzz (NDSS19 %Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing%) | https://github.com/shouc/digfuzz | 3 | 0| 
@@ -155,7 +156,6 @@
 | 20220116T19:03:52Z | Null | https://github.com/katyabollong/fuzzy-carnival | 0 | 0| 
 | 20220116T18:26:20Z | Null | https://github.com/jpwilliams/fuzzy-tabber | 0 | 0| 
 | 20220116T17:54:28Z | A game of %microgames% about blending in, and losing the cops. | https://github.com/RavenBP/ItsTheFuzz | 0 | 0| 
-| 20220116T10:03:12Z | Web fuzzer based on wfuzz, customizing the target | https://github.com/dnr6419/wfuzzer | 0 | 0| 
 
 
 
