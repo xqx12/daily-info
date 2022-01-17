@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T13:31:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 735 | 70| 
 | 20220117T12:51:27Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
 | 20220117T12:39:19Z | Null | https://github.com/idioteque420/fuzzy-telegram | 0 | 0| 
 | 20220117T12:31:10Z | Classifying visibility of ID cards in photos | https://github.com/sumitsharmamanit/Fuzzy_ID_Classification | 0 | 0| 
@@ -103,7 +104,6 @@
 | 20220117T09:17:32Z | Null | https://github.com/ndenawalludin/irrigation-system-using-a-microcontroller-and-the-method-of-fuzzy-logic-Sugeno | 0 | 0| 
 | 20220117T07:56:37Z | can you help me  | https://github.com/fahadkhan047/fuzzy-octo-spoon | 0 | 0| 
 | 20220117T07:00:46Z | my first repository on GitHub  | https://github.com/naaataliewong/fuzzy-computing-machine | 0 | 0| 
-| 20220117T02:39:09Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 33 | 5| 
 
 
 
