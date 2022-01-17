@@ -24,7 +24,6 @@
 | 20220116T23:25:31Z | CVE-2021-21985 | Null | https://github.com/alt3kx/CVE-2021-21985_PoC | | 
 | 20220116T18:48:08Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20220116T17:50:52Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
-| 20220116T15:42:24Z | CVE-2021-42237 | An exploit/PoC for CVE-2021-42237 | https://github.com/PinkDev1/CVE-2021-42237 | | 
 | 20220116T09:52:28Z | CVE-2022-0236 | Null | https://github.com/qurbat/CVE-2022-0236 | | 
 | 20220116T02:46:25Z | CVE-2021-28476 | CVE-2021-28476: Hyper-V vmswitch.sys arbitrary pointer dereference from guest VM | https://github.com/australeo/CVE-2021-28476 | | 
 
