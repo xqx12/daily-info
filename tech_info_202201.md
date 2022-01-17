@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220117T13:06:55Z | CVE-2020-44228 | Static detection of vulnerable log4j librairies on Windows members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2020-44228 | | 
 | 20220117T12:56:19Z | CVE-2022-0236 | CVE-2022-0236 | https://github.com/xiska62314/CVE-2022-0236 | | 
-| 20220117T12:46:20Z | CVE-2020-44228 | Static detection of vulnerable log4j librairies on Windows members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2020-44228 | | 
 | 20220117T12:34:23Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220117T12:32:59Z | CVE-2021-43297 | CVE-2021-43297 POC | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 | 20220117T11:57:48Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T12:51:27Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
 | 20220117T12:39:19Z | Null | https://github.com/idioteque420/fuzzy-telegram | 0 | 0| 
 | 20220117T12:31:10Z | Classifying visibility of ID cards in photos | https://github.com/sumitsharmamanit/Fuzzy_ID_Classification | 0 | 0| 
 | 20220117T11:57:02Z | golang exercise | https://github.com/KinakoExE/simple_web_fuzzer | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220117T07:56:37Z | can you help me  | https://github.com/fahadkhan047/fuzzy-octo-spoon | 0 | 0| 
 | 20220117T07:00:46Z | my first repository on GitHub  | https://github.com/naaataliewong/fuzzy-computing-machine | 0 | 0| 
 | 20220117T02:39:09Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 33 | 5| 
-| 20220117T02:10:39Z | Projekt robiony w parze - o implementacji liczb rozmytych. | https://github.com/AaRaBiNoZa/JNP1-3-fuzzy | 0 | 0| 
 
 
 
