@@ -72,7 +72,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220116T05:38:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2644 | 395| 
+| 20220116T23:54:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2645 | 395| 
+| 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
+| 20220116T16:34:55Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 15 | 6| 
 
 
 # big4 on Github 推荐
@@ -83,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220116T20:52:03Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 0| 
+| 20220116T19:03:52Z | Null | https://github.com/katyabollong/fuzzy-carnival | 0 | 0| 
+| 20220116T18:26:20Z | Null | https://github.com/jpwilliams/fuzzy-tabber | 0 | 0| 
+| 20220116T17:54:28Z | A game of %microgames% about blending in, and losing the cops. | https://github.com/RavenBP/ItsTheFuzz | 0 | 0| 
 | 20220116T10:57:16Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 30 | 4| 
 | 20220116T10:03:12Z | Web fuzzer based on wfuzz, customizing the target | https://github.com/dnr6419/wfuzzer | 0 | 0| 
 | 20220116T10:01:16Z | Null | https://github.com/Ram5anthosh/fuzzy-octo-happiness | 0 | 0| 
 | 20220116T08:53:10Z | Null | https://github.com/Magryglak/fuzzy-octo-adventure | 0 | 0| 
 | 20220116T05:56:44Z | fuzz%s blogs | https://github.com/eternity-fuzz/eternity-fuzz.github.io | 0 | 0| 
 | 20220116T03:18:15Z | Null | https://github.com/Paulo-Henrique21/tal-um-guia-fuzzy | 0 | 0| 
-| 20220116T02:17:14Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controller | 0 | 0| 
-| 20220116T02:11:23Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controllerq | 0 | 0| 
-| 20220116T01:51:58Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controllere | 0 | 0| 
-| 20220116T00:36:53Z | Null | https://github.com/grzenow4/JNP1-Fuzzy | 0 | 0| 
 
 
 

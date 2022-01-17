@@ -119,7 +119,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220116T05:38:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2644 | 395| 
+| 20220116T23:54:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2645 | 395| 
+| 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
+| 20220116T16:34:55Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 15 | 6| 
 | 20220115T13:08:06Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1964 | 406| 
 | 20220114T06:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1869 | 530| 
 | 20220113T10:31:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 512 | 83| 
@@ -127,8 +129,6 @@
 | 20220111T08:22:50Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
 | 20220110T23:57:49Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 11 | 5| 
 | 20220110T21:38:19Z | Codebase for my Level 4 University Project: Static Analysis of Executable Code to Detect Backdoors on IoT Devices | https://github.com/sophieboyle/Symbolic-Execution-for-ARM-Backdoor-Detection | 0 | 0| 
-| 20220110T17:10:33Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 167 | 37| 
-| 20220110T16:55:21Z | A proof of concept tool that demonstrates virtual machines, dynamic taint analysis, and symbolic execution. | https://github.com/yangsongqing1v/sjcappellac | 0 | 0| 
 
 
 # big4 on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T00:49:18Z | Null | https://github.com/mugirmdl/fuzzy-guacamole | 0 | 0| 
+| 20220117T00:45:39Z | Implementation of DigFuzz (NDSS19 %Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing%) | https://github.com/shouc/digfuzz | 3 | 0| 
+| 20220117T00:35:35Z | Yet another AFL: around 300ish lines of code to create an architecture-independent and easy to use system mode QEMU fuzzer, along the lines of triforce AFL and FirmAFL; version two of the jetset fuzzer, used to hack Boeing 737 components. | https://github.com/maxwell-bland/yafl | 1 | 0| 
+| 20220117T00:35:21Z | Repository for setting up an architecture independent fuzzer based on AFL in an instance of the QEmu codebase. | https://github.com/aerosec/jetset_fuzzer | 1 | 0| 
+| 20220116T20:52:03Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 0| 
+| 20220116T19:03:52Z | Null | https://github.com/katyabollong/fuzzy-carnival | 0 | 0| 
+| 20220116T18:26:20Z | Null | https://github.com/jpwilliams/fuzzy-tabber | 0 | 0| 
+| 20220116T17:54:28Z | A game of %microgames% about blending in, and losing the cops. | https://github.com/RavenBP/ItsTheFuzz | 0 | 0| 
 | 20220116T10:57:16Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 30 | 4| 
 | 20220116T10:03:12Z | Web fuzzer based on wfuzz, customizing the target | https://github.com/dnr6419/wfuzzer | 0 | 0| 
-| 20220116T10:01:16Z | Null | https://github.com/Ram5anthosh/fuzzy-octo-happiness | 0 | 0| 
-| 20220116T08:53:10Z | Null | https://github.com/Magryglak/fuzzy-octo-adventure | 0 | 0| 
-| 20220116T05:56:44Z | fuzz%s blogs | https://github.com/eternity-fuzz/eternity-fuzz.github.io | 0 | 0| 
-| 20220116T03:18:15Z | Null | https://github.com/Paulo-Henrique21/tal-um-guia-fuzzy | 0 | 0| 
-| 20220116T02:17:14Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controller | 0 | 0| 
-| 20220116T02:11:23Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controllerq | 0 | 0| 
-| 20220116T01:51:58Z | Null | https://github.com/ObadaZay/Fuzzy-pid-controllere | 0 | 0| 
-| 20220116T00:36:53Z | Null | https://github.com/grzenow4/JNP1-Fuzzy | 0 | 0| 
 
 
 
