@@ -89,7 +89,7 @@
 | 20220116T19:03:52Z | Null | https://github.com/katyabollong/fuzzy-carnival | 0 | 0| 
 | 20220116T18:26:20Z | Null | https://github.com/jpwilliams/fuzzy-tabber | 0 | 0| 
 | 20220116T17:54:28Z | A game of %microgames% about blending in, and losing the cops. | https://github.com/RavenBP/ItsTheFuzz | 0 | 0| 
-| 20220116T10:57:16Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 30 | 4| 
+| 20220116T16:06:17Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 31 | 5| 
 | 20220116T10:03:12Z | Web fuzzer based on wfuzz, customizing the target | https://github.com/dnr6419/wfuzzer | 0 | 0| 
 | 20220116T10:01:16Z | Null | https://github.com/Ram5anthosh/fuzzy-octo-happiness | 0 | 0| 
 | 20220116T08:53:10Z | Null | https://github.com/Magryglak/fuzzy-octo-adventure | 0 | 0| 
