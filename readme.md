@@ -16,6 +16,7 @@
 | 20220117 | 微软威胁情报中心发现针对乌克兰组织的攻击行动 | https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/| 
 | 20220117 | HXP 2021 CTF 比赛 LKVM 虚拟机逃逸题的 writeup | http://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/| 
 | 20220117 | CVE-2021-4122 cryptsetup: disable encryption via header rewrite | https://sec.today/pulses/a6eb6f7e-a4ec-4dce-bcb8-feb97f809e81/| 
+| 20220117 | CVE-2021-4122 cryptsetup: disable encryption via header rewrite | https://bugzilla.redhat.com/show_bug.cgi?id=2032401| 
 
 
 # 安全维基 推荐
@@ -81,7 +82,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220117T02:44:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2646 | 395| 
+| 20220117T07:29:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2647 | 394| 
 
 
 # big4 on Github 推荐

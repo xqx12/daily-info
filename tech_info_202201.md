@@ -16,6 +16,7 @@
 | 20220117 | 微软威胁情报中心发现针对乌克兰组织的攻击行动 | https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/| 
 | 20220117 | HXP 2021 CTF 比赛 LKVM 虚拟机逃逸题的 writeup | http://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/| 
 | 20220117 | CVE-2021-4122 cryptsetup: disable encryption via header rewrite | https://sec.today/pulses/a6eb6f7e-a4ec-4dce-bcb8-feb97f809e81/| 
+| 20220117 | CVE-2021-4122 cryptsetup: disable encryption via header rewrite | https://bugzilla.redhat.com/show_bug.cgi?id=2032401| 
 | 20220116 | 适用于 Android 平台的 Adob​​e Acrobat Reader 中RCE漏洞利用(CVE-2021-40724). | https://hulkvision.github.io/blog/post1/| 
 | 20220114 | CVE-2021-42342 Goahead 环境变量注入漏洞分析 | http://bestwing.me/CVE-2021-42342-Goahead.html| 
 | 20220114 | Manticore - trailofbits 开源的符号执行工具，用于分析智能合约和二进制文件 | https://github.com/trailofbits/manticore| 
@@ -25,7 +26,6 @@
 | 20220114 | HTTP 协议栈 RCE 漏洞 CVE-2022–21907 的补丁分析 | https://piffd0s.medium.com/patch-diffing-cve-2022-21907-b739f4108eee| 
 | 20220114 | APT 组织 BlueNoroff 近期的关注点是加密货币 | https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/| 
 | 20220114 | Litecoin 区块链 MimbleWimble 协议实现的安全性研究 | http://blog.quarkslab.com/audit-of-the-mimblewimble-integration-inside-litecoin.html| 
-| 20220114 | 据报道，2021 年朝鲜 APT 组织 Lazarus 共窃取加密货币 4 亿美金 | https://threatpost.com/north-korea-apts-stole-400m-cryptocurrency/177638/| 
 
 
 # 安全维基 推荐
@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220117T02:44:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2646 | 395| 
+| 20220117T07:29:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2647 | 394| 
 | 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
 | 20220116T16:34:55Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 15 | 6| 
 | 20220115T13:08:06Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1964 | 406| 
