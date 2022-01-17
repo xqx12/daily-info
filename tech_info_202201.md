@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T02:12:18Z | Host exploit para OFW 9.00 de PS4 - Dark House | https://github.com/DarkHouse82/darkhosuse900 | 0 | 0| 
 | 20220116T23:12:25Z | a exploit script for emergency responce: liberty county on roblox | https://github.com/aahax/erc-script | 0 | 0| 
 | 20220116T22:29:57Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-2022 | 1 | 0| 
 | 20220116T21:32:46Z | Scripts | https://github.com/Dofikalty/Exploite | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220116T19:41:57Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6274 | 1475| 
 | 20220116T17:50:52Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 7 | 2| 
 | 20220116T13:49:30Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 516 | 132| 
-| 20220116T13:34:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10600 | 1831| 
 
 
 # backdoor on Github 推荐
