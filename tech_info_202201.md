@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220117T02:59:32Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220117T02:42:06Z | CVE-2021-42237 | An exploit/PoC for CVE-2021-42237 | https://github.com/PinkDev1/CVE-2021-42237 | | 
 | 20220117T02:39:39Z | CVE-2021-21234 | Null | https://github.com/C0ldCash/CVE-2021-21234-Xray- | | 
 | 20220117T02:28:50Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
@@ -54,7 +55,6 @@
 | 20220116T17:50:52Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220116T09:52:28Z | CVE-2022-0236 | Null | https://github.com/qurbat/CVE-2022-0236 | | 
 | 20220116T02:46:25Z | CVE-2021-28476 | CVE-2021-28476: Hyper-V vmswitch.sys arbitrary pointer dereference from guest VM | https://github.com/australeo/CVE-2021-28476 | | 
-| 20220115T20:51:06Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220115T03:52:31Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 
 
