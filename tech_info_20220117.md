@@ -96,12 +96,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T13:54:12Z | golang exercise | https://github.com/KinakoExE/simple_web_fuzzer | 0 | 0| 
 | 20220117T13:43:07Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. | https://github.com/swisskyrepo/GraphQLmap | 711 | 127| 
 | 20220117T13:31:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 735 | 70| 
 | 20220117T12:51:27Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
 | 20220117T12:39:19Z | Null | https://github.com/idioteque420/fuzzy-telegram | 0 | 0| 
 | 20220117T12:31:10Z | Classifying visibility of ID cards in photos | https://github.com/sumitsharmamanit/Fuzzy_ID_Classification | 0 | 0| 
-| 20220117T11:57:02Z | golang exercise | https://github.com/KinakoExE/simple_web_fuzzer | 0 | 0| 
 | 20220117T10:01:24Z | A basic file format fuzzer written in rust | https://github.com/jlaaa/rust_fuzzer | 0 | 0| 
 | 20220117T09:22:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7022 | 1474| 
 | 20220117T09:17:32Z | Null | https://github.com/ndenawalludin/irrigation-system-using-a-microcontroller-and-the-method-of-fuzzy-logic-Sugeno | 0 | 0| 
