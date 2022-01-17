@@ -146,8 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T02:39:09Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 33 | 5| 
 | 20220117T02:10:39Z | Projekt robiony w parze - o implementacji liczb rozmytych. | https://github.com/AaRaBiNoZa/JNP1-3-fuzzy | 0 | 0| 
-| 20220117T02:00:39Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 32 | 5| 
 | 20220117T00:49:18Z | Null | https://github.com/mugirmdl/fuzzy-guacamole | 0 | 0| 
 | 20220117T00:45:39Z | Implementation of DigFuzz (NDSS19 %Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing%) | https://github.com/shouc/digfuzz | 3 | 0| 
 | 20220117T00:35:35Z | Yet another AFL: around 300ish lines of code to create an architecture-independent and easy to use system mode QEMU fuzzer, along the lines of triforce AFL and FirmAFL; version two of the jetset fuzzer, used to hack Boeing 737 components. | https://github.com/maxwell-bland/yafl | 1 | 0| 
