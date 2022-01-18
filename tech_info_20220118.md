@@ -19,6 +19,8 @@
 | 20220118 | IPv6 Security & Capability Testing, Part 2 | https://sec.today/pulses/6ec31a2e-2fa2-401e-ad30-ef6ace6fb5dd/| 
 | 20220118 | reFlutter - Flutter 逆向框架，辅助逆向基于 Flutter 包构建的 App | https://github.com/ptswarm/reFlutter| 
 | 20220118 | IPv6 Security & Capability Testing, Part 2 | https://theinternetprotocolblog.wordpress.com/2020/05/26/ipv6-security-capability-testing-part-2/| 
+| 20220118 | Building a Bootable USB drive with UEFI Shell (x64). | https://chipsec.github.io/installation/USB%20with%20UEFI%20Shell.html| 
+| 20220118 | python受限的任意代码执行与黑魔法攻略. | http://tttang.com/archive/1397/| 
 
 
 # 安全维基 推荐

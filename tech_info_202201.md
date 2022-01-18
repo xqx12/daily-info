@@ -19,13 +19,13 @@
 | 20220118 | IPv6 Security & Capability Testing, Part 2 | https://sec.today/pulses/6ec31a2e-2fa2-401e-ad30-ef6ace6fb5dd/| 
 | 20220118 | reFlutter - Flutter 逆向框架，辅助逆向基于 Flutter 包构建的 App | https://github.com/ptswarm/reFlutter| 
 | 20220118 | IPv6 Security & Capability Testing, Part 2 | https://theinternetprotocolblog.wordpress.com/2020/05/26/ipv6-security-capability-testing-part-2/| 
+| 20220118 | Building a Bootable USB drive with UEFI Shell (x64). | https://chipsec.github.io/installation/USB%20with%20UEFI%20Shell.html| 
+| 20220118 | python受限的任意代码执行与黑魔法攻略. | http://tttang.com/archive/1397/| 
 | 20220117 | 不完美的条件竞争JNDI漏洞利用链发现过程. | https://tttang.com/archive/1409/| 
 | 20220117 | IOCTLDump - 用于 hook 和 dump 其他驱动注册的 IOCTLS 的工具 | https://github.com/Kharos102/IOCTLDump| 
 | 20220117 | Lifars 对 Grief 勒索软件的研究报告 | https://lifars.com/knowledge-center/a-deep-dive-into-the-grief-ransomwares-capabilities/| 
 | 20220117 | 10 real-world stories of how we’ve compromised CI/CD pipelines | http://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/| 
 | 20220117 | “The Cyber Plumbers Handbook”，一本专注 ssh 隧道与端口转发在渗透测试中应用的电子书 | https://github.com/opsdisk/the_cyber_plumbers_handbook| 
-| 20220117 | Exploiting IndexedDB API information leaks in Safari 15 | https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/| 
-| 20220117 | RedBPF - 用于 Build 和运行 BPF/eBPF 模块的工具 | http://github.com/foniod/redbpf| 
 
 
 # 安全维基 推荐
