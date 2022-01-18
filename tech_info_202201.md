@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220118T01:59:50Z | Exploit Telegram Desktop 2.9.2 - Denial of Service (PoC) | https://github.com/TAPESH-TEAM/Exploit-Telegram-Desktop-2.9.2-Denial-of-Service-PoC | 0 | 0| 
 | 20220118T01:09:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10605 | 1832| 
 | 20220117T22:59:08Z | We will exploit a machine using the ProFTPD 1.3.3c  exploit, add defenses to that machine, and regain access with the same exploit. | https://github.com/CajunSaint/ProFTPDivas | 0 | 0| 
 | 20220117T22:34:49Z | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220117T20:16:42Z | Introduction to information security, exploiting a vulnerable ISO. | https://github.com/kibotrel/42-Snowcrash | 0 | 0| 
 | 20220117T17:00:05Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 1 | 3| 
 | 20220117T15:51:19Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 58 | 7| 
-| 20220117T15:48:28Z | Null | https://github.com/SQLab/CRAXplusplus | 30 | 3| 
 
 
 # backdoor on Github 推荐
