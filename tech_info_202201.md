@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220117T17:26:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2646 | 394| 
+| 20220118T01:40:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2647 | 394| 
 | 20220117T14:40:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 168 | 37| 
 | 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
 | 20220116T16:34:55Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 15 | 6| 

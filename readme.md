@@ -87,7 +87,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220117T17:26:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2646 | 394| 
 | 20220117T14:40:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 168 | 37| 
 
 
