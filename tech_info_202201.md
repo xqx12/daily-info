@@ -17,6 +17,8 @@
 | 20220118 | GitHub 上出现 Windows HTTP 协议栈远程代码执行漏洞（CVE-2022-21907）的 PoC | https://github.com/antx-code/CVE-2022-21907| 
 | 20220118 | reFlutter - Flutter 逆向框架，辅助逆向基于 Flutter 包构建的 App | https://sec.today/pulses/ee82f119-aced-4220-8168-90888f7afb41/| 
 | 20220118 | IPv6 Security & Capability Testing, Part 2 | https://sec.today/pulses/6ec31a2e-2fa2-401e-ad30-ef6ace6fb5dd/| 
+| 20220118 | reFlutter - Flutter 逆向框架，辅助逆向基于 Flutter 包构建的 App | https://github.com/ptswarm/reFlutter| 
+| 20220118 | IPv6 Security & Capability Testing, Part 2 | https://theinternetprotocolblog.wordpress.com/2020/05/26/ipv6-security-capability-testing-part-2/| 
 | 20220117 | 不完美的条件竞争JNDI漏洞利用链发现过程. | https://tttang.com/archive/1409/| 
 | 20220117 | IOCTLDump - 用于 hook 和 dump 其他驱动注册的 IOCTLS 的工具 | https://github.com/Kharos102/IOCTLDump| 
 | 20220117 | Lifars 对 Grief 勒索软件的研究报告 | https://lifars.com/knowledge-center/a-deep-dive-into-the-grief-ransomwares-capabilities/| 
@@ -24,8 +26,6 @@
 | 20220117 | “The Cyber Plumbers Handbook”，一本专注 ssh 隧道与端口转发在渗透测试中应用的电子书 | https://github.com/opsdisk/the_cyber_plumbers_handbook| 
 | 20220117 | Exploiting IndexedDB API information leaks in Safari 15 | https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/| 
 | 20220117 | RedBPF - 用于 Build 和运行 BPF/eBPF 模块的工具 | http://github.com/foniod/redbpf| 
-| 20220117 | 微软威胁情报中心发现针对乌克兰组织的攻击行动 | https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/| 
-| 20220117 | HXP 2021 CTF 比赛 LKVM 虚拟机逃逸题的 writeup | http://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/| 
 
 
 # 安全维基 推荐
@@ -119,23 +119,23 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220118T10:46:32Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 513 | 83| 
+| 20220118T10:44:52Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1966 | 407| 
+| 20220118T09:22:59Z | Null | https://github.com/williamberman/evm-symbolic-execution | 2 | 0| 
+| 20220118T08:43:50Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 190 | 10| 
 | 20220118T01:40:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2647 | 394| 
 | 20220117T14:40:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 168 | 37| 
 | 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
 | 20220116T16:34:55Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 15 | 6| 
-| 20220115T13:08:06Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1964 | 407| 
-| 20220114T06:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1869 | 530| 
-| 20220114T04:30:34Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 189 | 10| 
-| 20220113T10:31:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 512 | 83| 
+| 20220114T06:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1869 | 531| 
 | 20220112T18:08:44Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 0 | 0| 
-| 20220111T08:22:50Z | A RISC-V RV32 virtual prototype based on riscv-vp with symbolic execution support | https://github.com/agra-uni-bremen/symex-vp | 4 | 1| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220118T10:19:11Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 1 | 0| 
 | 20220117T17:34:12Z | This repository contains artifacts and synthesized translations from synthCT (NDSS%22) | https://github.com/FPSG-UIUC/synthCT-artifacts | 1 | 0| 
-| 20220117T17:10:07Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 1 | 0| 
 | 20220114T17:43:23Z | An implementation of Brick, anonymized for the NDSS 2020 paper submission | https://github.com/ndss2020-brick-submission/brick | 1 | 1| 
 | 20220113T13:27:34Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 0 | 0| 
 | 20220110T01:43:16Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 32 | 7| 
