@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220118T13:33:55Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 569 | 145| 
 | 20220118T13:15:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10607 | 1834| 
-| 20220118T12:04:54Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 568 | 145| 
 | 20220118T10:39:52Z | xss exploits testing | https://github.com/noelimmi/xssexploit | 0 | 0| 
 | 20220118T09:34:01Z | Incase of an exploit I find, or find in the internet. Scripts you can include into your webpages, or applications will be put here to warn users. | https://github.com/SirObby/security_concern | 0 | 0| 
 | 20220118T09:25:42Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 59 | 7| 
@@ -134,7 +134,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220118T13:37:25Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 1 | 0| 
+| 20220118T13:38:37Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 2 | 0| 
 | 20220118T10:19:11Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 1 | 0| 
 | 20220117T17:34:12Z | This repository contains artifacts and synthesized translations from synthCT (NDSS%22) | https://github.com/FPSG-UIUC/synthCT-artifacts | 1 | 0| 
 | 20220114T17:43:23Z | An implementation of Brick, anonymized for the NDSS 2020 paper submission | https://github.com/ndss2020-brick-submission/brick | 1 | 1| 
