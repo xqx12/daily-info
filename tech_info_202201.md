@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220118T01:32:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3794 | 120| 
+| 20220118T01:41:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3795 | 120| 
 | 20220117T13:40:08Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220116T20:42:49Z | Klee Fishing Mania!  | https://github.com/reinharttanto/python_game_FP | 0 | 0| 
 | 20220116T19:42:09Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 99 | 1| 
@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220118T01:39:41Z | Null | https://github.com/PorkRelatives/fuzzy-octo-parakeet | 0 | 0| 
+| 20220118T01:41:51Z | Null | https://github.com/PorkRelatives/fuzzy-octo-parakeet | 0 | 0| 
 | 20220117T23:45:47Z | Null | https://github.com/Zaynthecoder/fuzzy-telegram-fail-handgesturefsdbcspacmfdwsomlpcdbsmdjhcomwagdmpac | 0 | 0| 
 | 20220117T22:54:09Z | Incredibly bad code to solve some problems | https://github.com/krisanovdev/NeuroFuzzyIdentification | 0 | 0| 
 | 20220117T21:17:04Z | Null | https://github.com/mpeseke/fuzzy-octo-enigma | 0 | 0| 
