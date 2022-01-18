@@ -36,10 +36,10 @@
 | 20220117T13:42:44Z | CVE-2022-21907 | CVE-2022-21907 | https://github.com/xiska62314/CVE-2022-21907 | | 
 | 20220117T13:06:55Z | CVE-2020-44228 | Static detection of vulnerable log4j librairies on Windows members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2020-44228 | | 
 | 20220117T12:56:19Z | CVE-2022-0236 | CVE-2022-0236 | https://github.com/xiska62314/CVE-2022-0236 | | 
-| 20220117T12:32:59Z | CVE-2021-43297 | CVE-2021-43297 POC | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 | 20220117T08:39:49Z | CVE-2022-0236 | Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236) | https://github.com/qurbat/CVE-2022-0236 | | 
 | 20220117T05:25:06Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220117T04:11:11Z | CVE-2020-14386 | Null | https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch | | 
+| 20220117T02:42:06Z | CVE-2021-42237 | An exploit/PoC for CVE-2021-42237 | https://github.com/PinkDev1/CVE-2021-42237 | | 
 
 
 # klee on Github 推荐
