@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220118 | 研究员 Axel Souchet 开源了一个支持多平台的 ROP gadget 搜索工具 | http://github.com/0vercl0k/rp| 
+| 20220118 | 可执行文件加壳相关的资料和工具整理 | https://github.com/dhondta/awesome-executable-packing| 
+| 20220118 | 从 TrustedInstaller 和 winlogon 窃取 token，禁用 Windows Defender | https://github.com/lab52io/StopDefender| 
+| 20220118 | SUSE 发行版因担心 eBPF 的漏洞决定限制普通用户使用 eBPF | https://www.suse.com/support/kb/doc/?id=000020545| 
+| 20220118 | Apache HTTP Server mod_lua 模块缓冲区溢出漏洞分析（CVE-2021-44790） | https://mp.weixin.qq.com/s/VjSpJW-1sYM1BwDPQZDqFA| 
+| 20220118 | 利用 VMWare Workspace One Access 的 SSRF 漏洞泄露管理员身份 JWT | https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/| 
+| 20220118 | 嵌入式设备逆向所需的工具链 | http://voidstarsec.com/blog//2022/01/17/intro-to-embedded-part-1| 
+| 20220118 | 基于 PyRDP 工具从 RDP 流量中截获 RDP NetNTLMv2 Hash | https://www.gosecure.net/blog/2022/01/17/capturing-rdp-netntlmv2-hashes-attack-details-and-a-technical-how-to-guide/| 
+| 20220118 | GitHub 上出现 Windows HTTP 协议栈远程代码执行漏洞（CVE-2022-21907）的 PoC | https://github.com/antx-code/CVE-2022-21907| 
+| 20220118 | reFlutter - Flutter 逆向框架，辅助逆向基于 Flutter 包构建的 App | https://sec.today/pulses/ee82f119-aced-4220-8168-90888f7afb41/| 
+| 20220118 | IPv6 Security & Capability Testing, Part 2 | https://sec.today/pulses/6ec31a2e-2fa2-401e-ad30-ef6ace6fb5dd/| 
 | 20220117 | 不完美的条件竞争JNDI漏洞利用链发现过程. | https://tttang.com/archive/1409/| 
 | 20220117 | IOCTLDump - 用于 hook 和 dump 其他驱动注册的 IOCTLS 的工具 | https://github.com/Kharos102/IOCTLDump| 
 | 20220117 | Lifars 对 Grief 勒索软件的研究报告 | https://lifars.com/knowledge-center/a-deep-dive-into-the-grief-ransomwares-capabilities/| 
@@ -15,22 +26,12 @@
 | 20220117 | RedBPF - 用于 Build 和运行 BPF/eBPF 模块的工具 | http://github.com/foniod/redbpf| 
 | 20220117 | 微软威胁情报中心发现针对乌克兰组织的攻击行动 | https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/| 
 | 20220117 | HXP 2021 CTF 比赛 LKVM 虚拟机逃逸题的 writeup | http://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/| 
-| 20220117 | CVE-2021-4122 cryptsetup: disable encryption via header rewrite | https://sec.today/pulses/a6eb6f7e-a4ec-4dce-bcb8-feb97f809e81/| 
-| 20220117 | CVE-2021-4122 cryptsetup: disable encryption via header rewrite | https://bugzilla.redhat.com/show_bug.cgi?id=2032401| 
-| 20220116 | 适用于 Android 平台的 Adob​​e Acrobat Reader 中RCE漏洞利用(CVE-2021-40724). | https://hulkvision.github.io/blog/post1/| 
-| 20220114 | CVE-2021-42342 Goahead 环境变量注入漏洞分析 | http://bestwing.me/CVE-2021-42342-Goahead.html| 
-| 20220114 | Manticore - trailofbits 开源的符号执行工具，用于分析智能合约和二进制文件 | https://github.com/trailofbits/manticore| 
-| 20220114 | Electron Prototype Pollution XSS 漏洞的影响 | https://github.com/msrkp/electron-research| 
-| 20220114 | Windows EFSRPC 服务任意文件上传本地提权漏洞分析（CVE-2021-43893） | https://bugs.chromium.org/p/project-zero/issues/detail?id=2228| 
-| 20220114 | Searching for Deserialization Protection Bypasses in Microsoft Exchange (CVE-2022–21969) | https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d| 
-| 20220114 | HTTP 协议栈 RCE 漏洞 CVE-2022–21907 的补丁分析 | https://piffd0s.medium.com/patch-diffing-cve-2022-21907-b739f4108eee| 
-| 20220114 | APT 组织 BlueNoroff 近期的关注点是加密货币 | https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/| 
-| 20220114 | Litecoin 区块链 MimbleWimble 协议实现的安全性研究 | http://blog.quarkslab.com/audit-of-the-mimblewimble-integration-inside-litecoin.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220118 | 以色列“飞马”间谍软件攻击事件的综合分析 | https://mp.weixin.qq.com/s/T2pO8ZiW-c1MDk9LnsteTg| 
 | 20220117 | Yasso: 强大的内网渗透辅助工具集 | https://github.com/sairson/Yasso| 
 | 20220117 | SecWiki周刊（第411期) | https://www.sec-wiki.com/weekly/411| 
 | 20220117 | 中国（大陆）虚拟货币犯罪形态分析报告-2021年度 | https://upload.zklatech.com/annual_report_2021.pdf| 
@@ -40,29 +41,28 @@
 | 20220116 | 现代网络犯罪模式解读 | https://mp.weixin.qq.com/s/7xwIaxfyObDnzx0x-j6P2w| 
 | 20220115 | 端到端模型在人员流失预警场景的实践 | https://mp.weixin.qq.com/s/DY-gzglv73iLrANjDY4PrQ| 
 | 20220115 | 互联网领域黑产常见攻击手法初探 | https://mp.weixin.qq.com/s/RfBOC1Tiy76qQRlrjIMdTA| 
-| 20220115 | Zeek - Detect Godzilla WebShell | https://canon88.github.io/2021/11/30/Zeek-Detect-Godzilla-WebShell/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220118T02:44:41Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
-| 20220118T02:37:29Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
+| 20220118T12:51:43Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220118T12:36:43Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
+| 20220118T11:45:03Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
+| 20220118T11:22:05Z | CVE-2021-34600 | Null | https://github.com/x41sec/CVE-2021-34600 | | 
+| 20220118T11:12:59Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
+| 20220118T10:13:10Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
+| 20220118T09:04:26Z | CVE-2021-24750 | Null | https://github.com/fimtow/CVE-2021-24750 | | 
 | 20220118T01:55:20Z | CVE-2021-43297 | CVE-2021-43297 POC | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 | 20220118T00:21:34Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
-| 20220117T16:55:08Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20220117T16:30:56Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
-| 20220117T15:14:33Z | CVE-2021-34473 | A simple script to check for ProxyShell | https://github.com/jrgdiaz/ProxyShell-CVE-2021-34473 | | 
-| 20220117T13:42:44Z | CVE-2022-21907 | CVE-2022-21907 | https://github.com/xiska62314/CVE-2022-21907 | | 
-| 20220117T13:06:55Z | CVE-2020-44228 | Static detection of vulnerable log4j librairies on Windows members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2020-44228 | | 
-| 20220117T12:56:19Z | CVE-2022-0236 | CVE-2022-0236 | https://github.com/xiska62314/CVE-2022-0236 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220118T02:40:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3809 | 120| 
-| 20220118T02:18:49Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 100 | 1| 
+| 20220118T12:42:56Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 162 | 6| 
+| 20220118T12:31:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3839 | 122| 
 | 20220117T13:40:08Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220116T20:42:49Z | Klee Fishing Mania!  | https://github.com/reinharttanto/python_game_FP | 0 | 0| 
 | 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220118T12:40:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10608 | 1834| 
+| 20220118T12:04:54Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 568 | 145| 
+| 20220118T10:39:52Z | xss exploits testing | https://github.com/noelimmi/xssexploit | 0 | 0| 
+| 20220118T09:34:01Z | Incase of an exploit I find, or find in the internet. Scripts you can include into your webpages, or applications will be put here to warn users. | https://github.com/SirObby/security_concern | 0 | 0| 
+| 20220118T09:25:42Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 59 | 7| 
+| 20220118T08:37:35Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 2 | 0| 
 | 20220118T01:59:50Z | Exploit Telegram Desktop 2.9.2 - Denial of Service (PoC) | https://github.com/TAPESH-TEAM/Exploit-Telegram-Desktop-2.9.2-Denial-of-Service-PoC | 0 | 0| 
-| 20220118T01:09:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10605 | 1832| 
 | 20220117T22:59:08Z | We will exploit a machine using the ProFTPD 1.3.3c  exploit, add defenses to that machine, and regain access with the same exploit. | https://github.com/CajunSaint/ProFTPDivas | 0 | 0| 
 | 20220117T22:34:49Z | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | 0 | 0| 
 | 20220117T21:35:27Z | [In-Dev, not open source at the time] This is a lua addon using lua server sided exploit to give to any player any entities or other netMessage requests advantages. | https://github.com/Lopinosaurus/NoCom-but-on-Gmod | 0 | 0| 
-| 20220117T21:32:02Z | PS4 Exploit Host based on @Nazky%s V4 host. | https://github.com/cryptofyre/hub.cryptofyre.org | 0 | 0| 
-| 20220117T21:08:01Z | Exploit some RNN to achieve POS tagging | https://github.com/FedeSpu/POS-tagging | 0 | 0| 
-| 20220117T20:16:42Z | Introduction to information security, exploiting a vulnerable ISO. | https://github.com/kibotrel/42-Snowcrash | 0 | 0| 
-| 20220117T17:00:05Z | A peer 2 peer approach to increase price stability and to reduce price manipulation by exploiting non-fundamentals-based volatility | https://github.com/distributed-ledger-technology/vofarm-deno-part | 1 | 3| 
-| 20220117T15:51:19Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 58 | 7| 
 
 
 # backdoor on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220118T12:34:16Z | Its a piece of ... | https://github.com/Motherhackar/fuzzy-meme | 0 | 0| 
+| 20220118T12:32:57Z | Fuzzle is an onine service for graphic design for creating your own masterpieces. | https://github.com/PAXANDDOS/fuzzle-next | 0 | 0| 
+| 20220118T12:23:21Z | Fuzzing Testing && Detect vulnerability | https://github.com/HomeSit-Institute-of-Technology/CSCS01 | 0 | 0| 
+| 20220118T11:42:28Z | Smart Greybox Fuzzing (https://thuanpv.github.io/publications/TSE19_aflsmart.pdf) | https://github.com/aflsmart/aflsmart | 451 | 90| 
+| 20220118T11:27:38Z | This repository contains scripts for fuzzing and spiking for overflowing buffer  | https://github.com/khalil0192/BufferOverflow | 0 | 0| 
+| 20220118T10:56:14Z | An OCaml Implementation of the Wu and Manber fuzzy search algorithm  | https://github.com/ifazk/wu-manber-fuzzy-search | 0 | 0| 
+| 20220118T10:07:28Z | Null | https://github.com/dileepdkumar/https-github.com-fuzzstati0n-fuzzgoat1 | 0 | 0| 
+| 20220118T07:33:46Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 665 | 142| 
+| 20220118T03:10:29Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 109 | 25| 
 | 20220118T01:41:51Z | Null | https://github.com/PorkRelatives/fuzzy-octo-parakeet | 0 | 0| 
-| 20220117T23:45:47Z | Null | https://github.com/Zaynthecoder/fuzzy-telegram-fail-handgesturefsdbcspacmfdwsomlpcdbsmdjhcomwagdmpac | 0 | 0| 
-| 20220117T22:54:09Z | Incredibly bad code to solve some problems | https://github.com/krisanovdev/NeuroFuzzyIdentification | 0 | 0| 
-| 20220117T21:17:04Z | Null | https://github.com/mpeseke/fuzzy-octo-enigma | 0 | 0| 
-| 20220117T20:53:05Z | Null | https://github.com/fuzzywavecode/fuzzywavecode.github.io | 0 | 0| 
-| 20220117T20:37:30Z | Fuzzy logic based control system that allowed a Rosbot to perform two behaviors automatically: right-edge following and obstacle avoidance. | https://github.com/abundis28/Fuzzy_Logic_Rosbot | 0 | 0| 
-| 20220117T20:37:23Z | Null | https://github.com/nvxmain/fuzzy-octo-eureka | 0 | 0| 
-| 20220117T20:33:04Z | Null | https://github.com/prateek-malhotra/fuzzy-pandas | 0 | 0| 
-| 20220117T13:54:12Z | golang exercise | https://github.com/KinakoExE/simple_web_fuzzer | 0 | 0| 
-| 20220117T13:43:07Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. | https://github.com/swisskyrepo/GraphQLmap | 711 | 127| 
 
 
 
