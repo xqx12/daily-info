@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220118T01:39:41Z | Null | https://github.com/PorkRelatives/fuzzy-octo-parakeet | 0 | 0| 
 | 20220117T23:45:47Z | Null | https://github.com/Zaynthecoder/fuzzy-telegram-fail-handgesturefsdbcspacmfdwsomlpcdbsmdjhcomwagdmpac | 0 | 0| 
 | 20220117T22:54:09Z | Incredibly bad code to solve some problems | https://github.com/krisanovdev/NeuroFuzzyIdentification | 0 | 0| 
 | 20220117T21:17:04Z | Null | https://github.com/mpeseke/fuzzy-octo-enigma | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20220117T20:33:04Z | Null | https://github.com/prateek-malhotra/fuzzy-pandas | 0 | 0| 
 | 20220117T13:54:12Z | golang exercise | https://github.com/KinakoExE/simple_web_fuzzer | 0 | 0| 
 | 20220117T13:43:07Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. | https://github.com/swisskyrepo/GraphQLmap | 711 | 127| 
-| 20220117T13:31:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 735 | 70| 
 
 
 
