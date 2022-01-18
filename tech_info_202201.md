@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220118T02:07:44Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220118T01:57:24Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
-| 20220118T01:55:55Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220118T01:55:20Z | CVE-2021-43297 | CVE-2021-43297 POC | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 | 20220118T00:21:34Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
 | 20220117T16:55:08Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
