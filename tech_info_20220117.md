@@ -78,7 +78,6 @@
 | 20220117T15:40:44Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 432 | 186| 
 | 20220117T14:58:53Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 52 | 11| 
 | 20220117T09:25:17Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 7| 
-| 20220117T09:08:54Z | Null | https://github.com/0xSh3RlocK/BackDoor_in_C | 0 | 0| 
 | 20220117T08:08:49Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 55 | 28| 
 | 20220117T05:13:50Z | ufonet... but with my own backdoor ;) | https://github.com/gitYayo/ufonet | 0 | 0| 
 
