@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220118T02:07:44Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220118T02:29:28Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220118T01:57:24Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
 | 20220118T01:55:20Z | CVE-2021-43297 | CVE-2021-43297 POC | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 | 20220118T00:21:34Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220118T02:23:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3806 | 120| 
+| 20220118T02:31:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3808 | 120| 
 | 20220118T02:18:49Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 100 | 1| 
 | 20220117T13:40:08Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220116T20:42:49Z | Klee Fishing Mania!  | https://github.com/reinharttanto/python_game_FP | 0 | 0| 
@@ -104,8 +104,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220118T02:30:20Z | A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV%s signature | https://github.com/martdev123/RapidFUD | 0 | 0| 
 | 20220118T02:13:27Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 7 | 9| 
-| 20220117T22:42:54Z | A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV%s signature | https://github.com/martdev123/RapidFUD | 0 | 0| 
 | 20220117T18:18:47Z | Powerfull self made multi-purpose CTF script tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20220117T15:40:44Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 432 | 186| 
 | 20220117T14:58:53Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 52 | 11| 

@@ -74,7 +74,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220117T22:42:54Z | A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV%s signature | https://github.com/martdev123/RapidFUD | 0 | 0| 
 | 20220117T18:18:47Z | Powerfull self made multi-purpose CTF script tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20220117T15:40:44Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 432 | 186| 
 | 20220117T14:58:53Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 52 | 11| 
