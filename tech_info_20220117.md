@@ -30,29 +30,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220117T13:49:28Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220117T16:55:08Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
+| 20220117T16:30:56Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
+| 20220117T15:14:33Z | CVE-2021-34473 | A simple script to check for ProxyShell | https://github.com/jrgdiaz/ProxyShell-CVE-2021-34473 | | 
 | 20220117T13:42:44Z | CVE-2022-21907 | CVE-2022-21907 | https://github.com/xiska62314/CVE-2022-21907 | | 
 | 20220117T13:06:55Z | CVE-2020-44228 | Static detection of vulnerable log4j librairies on Windows members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2020-44228 | | 
 | 20220117T12:56:19Z | CVE-2022-0236 | CVE-2022-0236 | https://github.com/xiska62314/CVE-2022-0236 | | 
 | 20220117T12:32:59Z | CVE-2021-43297 | CVE-2021-43297 POC | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
-| 20220117T11:57:48Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
-| 20220117T10:14:46Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
-| 20220117T09:32:18Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
 | 20220117T08:39:49Z | CVE-2022-0236 | Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236) | https://github.com/qurbat/CVE-2022-0236 | | 
 | 20220117T05:25:06Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20220117T04:11:11Z | CVE-2020-14386 | Null | https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrapatch | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220117T13:40:08Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
-| 20220117T12:33:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3786 | 120| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220117T05:26:51Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 194 | 42| 
+| 20220117T17:41:56Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
+| 20220117T15:48:28Z | Null | https://github.com/SQLab/CRAXplusplus | 30 | 3| 
 | 20220117T03:46:07Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 6 | 0| 
 
 
@@ -85,7 +85,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220117T07:29:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2647 | 394| 
+| 20220117T17:26:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2646 | 394| 
+| 20220117T14:40:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 168 | 37| 
 
 
 # big4 on Github 推荐
@@ -96,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220117T23:45:47Z | Null | https://github.com/Zaynthecoder/fuzzy-telegram-fail-handgesturefsdbcspacmfdwsomlpcdbsmdjhcomwagdmpac | 0 | 0| 
+| 20220117T22:54:09Z | Incredibly bad code to solve some problems | https://github.com/krisanovdev/NeuroFuzzyIdentification | 0 | 0| 
+| 20220117T21:17:04Z | Null | https://github.com/mpeseke/fuzzy-octo-enigma | 0 | 0| 
+| 20220117T20:53:05Z | Null | https://github.com/fuzzywavecode/fuzzywavecode.github.io | 0 | 0| 
+| 20220117T20:37:30Z | Fuzzy logic based control system that allowed a Rosbot to perform two behaviors automatically: right-edge following and obstacle avoidance. | https://github.com/abundis28/Fuzzy_Logic_Rosbot | 0 | 0| 
+| 20220117T20:37:23Z | Null | https://github.com/nvxmain/fuzzy-octo-eureka | 0 | 0| 
+| 20220117T20:33:04Z | Null | https://github.com/prateek-malhotra/fuzzy-pandas | 0 | 0| 
 | 20220117T13:54:12Z | golang exercise | https://github.com/KinakoExE/simple_web_fuzzer | 0 | 0| 
 | 20220117T13:43:07Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. | https://github.com/swisskyrepo/GraphQLmap | 711 | 127| 
 | 20220117T13:31:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 735 | 70| 
-| 20220117T12:51:27Z | Seed-based random network fuzzer | https://github.com/kahiroka/fuzz-automata | 0 | 0| 
-| 20220117T12:39:19Z | Null | https://github.com/idioteque420/fuzzy-telegram | 0 | 0| 
-| 20220117T12:31:10Z | Classifying visibility of ID cards in photos | https://github.com/sumitsharmamanit/Fuzzy_ID_Classification | 0 | 0| 
-| 20220117T10:01:24Z | A basic file format fuzzer written in rust | https://github.com/jlaaa/rust_fuzzer | 0 | 0| 
-| 20220117T09:22:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7022 | 1474| 
-| 20220117T09:17:32Z | Null | https://github.com/ndenawalludin/irrigation-system-using-a-microcontroller-and-the-method-of-fuzzy-logic-Sugeno | 0 | 0| 
-| 20220117T07:56:37Z | can you help me  | https://github.com/fahadkhan047/fuzzy-octo-spoon | 0 | 0| 
 
 
 
