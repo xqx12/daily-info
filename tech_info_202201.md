@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220119T01:54:14Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220119T01:46:16Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
-| 20220119T01:37:50Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220119T01:20:25Z | CVE-2021-44228 | Apache log4j2 CVE-20210-44228 poc | https://github.com/c4dr01d/CVE-2021-44228-poc | | 
 | 20220119T01:16:07Z | CVE-2022-0236 | Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236) | https://github.com/qurbat/CVE-2022-0236 | | 
 | 20220118T23:54:36Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220119T01:53:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3909 | 125| 
-| 20220119T01:21:18Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 193 | 7| 
+| 20220119T02:02:29Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 194 | 7| 
+| 20220119T02:00:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3911 | 125| 
 | 20220118T17:34:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1870 | 531| 
 | 20220117T13:40:08Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220116T20:42:49Z | Klee Fishing Mania!  | https://github.com/reinharttanto/python_game_FP | 0 | 0| 
@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220119T01:31:54Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 599 | 149| 
+| 20220119T01:59:59Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 602 | 149| 
 | 20220119T00:01:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10612 | 1835| 
 | 20220118T23:19:55Z | [ OLD PROJECT ] Um simples Exploit Browser feito durante estudos em Delphi. | https://github.com/W3sll3yR4m0s/ExploitBrowser_Delphi | 0 | 0| 
 | 20220118T23:17:56Z | auto exploit upload shell easily | https://github.com/Mile403/FM-0day | 0 | 0| 
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220119T01:58:14Z | Automated UI Testing Stubs 2018 | https://github.com/jtucker276/fuzzy-telegram | 0 | 0| 
 | 20220119T00:22:18Z | Null | https://github.com/garlic0x1/fuzz_tools | 0 | 0| 
 | 20220118T22:59:48Z | Video Game Demo Project | https://github.com/SebastianNolette/fuzzy-eureka | 0 | 0| 
 | 20220118T21:51:15Z | Template harness for fuzzing Windows binaries using a shared memory input. | https://github.com/australeo/windows_fuzzing_harness | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220118T12:32:57Z | Fuzzle is an onine service for graphic design for creating your own masterpieces. | https://github.com/PAXANDDOS/fuzzle-next | 0 | 0| 
 | 20220118T12:23:21Z | Fuzzing Testing && Detect vulnerability | https://github.com/HomeSit-Institute-of-Technology/CSCS01 | 0 | 0| 
 | 20220118T11:42:28Z | Smart Greybox Fuzzing (https://thuanpv.github.io/publications/TSE19_aflsmart.pdf) | https://github.com/aflsmart/aflsmart | 451 | 90| 
-| 20220118T11:27:38Z | This repository contains scripts for fuzzing and spiking for overflowing buffer  | https://github.com/khalil0192/BufferOverflow | 0 | 0| 
 
 
 
