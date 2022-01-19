@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220119T02:23:06Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 216 | 40| 
 | 20220119T02:20:18Z | CIDOR - Canvas IDOR Numerical Fuzzer | https://github.com/n3onhacks/cidor | 0 | 0| 
 | 20220119T01:58:14Z | Automated UI Testing Stubs 2018 | https://github.com/jtucker276/fuzzy-telegram | 0 | 0| 
 | 20220119T00:22:18Z | Null | https://github.com/garlic0x1/fuzz_tools | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220118T15:30:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 736 | 70| 
 | 20220118T12:34:16Z | Its a piece of ... | https://github.com/Motherhackar/fuzzy-meme | 0 | 0| 
 | 20220118T12:32:57Z | Fuzzle is an onine service for graphic design for creating your own masterpieces. | https://github.com/PAXANDDOS/fuzzle-next | 0 | 0| 
-| 20220118T12:23:21Z | Fuzzing Testing && Detect vulnerability | https://github.com/HomeSit-Institute-of-Technology/CSCS01 | 0 | 0| 
 
 
 
