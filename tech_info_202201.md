@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220119T01:30:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3903 | 124| 
+| 20220119T01:34:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3905 | 124| 
 | 20220119T01:21:18Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 193 | 7| 
 | 20220118T17:34:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1870 | 531| 
 | 20220117T13:40:08Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220119T01:31:54Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 599 | 148| 
+| 20220119T01:31:54Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 599 | 149| 
 | 20220119T00:01:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10612 | 1835| 
 | 20220118T23:19:55Z | [ OLD PROJECT ] Um simples Exploit Browser feito durante estudos em Delphi. | https://github.com/W3sll3yR4m0s/ExploitBrowser_Delphi | 0 | 0| 
 | 20220118T23:17:56Z | auto exploit upload shell easily | https://github.com/Mile403/FM-0day | 0 | 0| 
