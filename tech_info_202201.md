@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220119T02:33:59Z | Null | https://github.com/PainNonsense/PainExploit-Dark-Hub | 0 | 0| 
 | 20220119T02:21:08Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4276 | 574| 
 | 20220119T01:59:59Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 602 | 150| 
 | 20220119T00:01:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10612 | 1835| 
@@ -98,12 +99,12 @@
 | 20220118T21:05:05Z | Null | https://github.com/aymenbouferroum/CVE-2021-43798_exploit | 0 | 0| 
 | 20220118T10:39:52Z | xss exploits testing | https://github.com/noelimmi/xssexploit | 0 | 0| 
 | 20220118T09:34:01Z | Incase of an exploit I find, or find in the internet. Scripts you can include into your webpages, or applications will be put here to warn users. | https://github.com/SirObby/security_concern | 0 | 0| 
-| 20220118T09:25:42Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 59 | 7| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220119T02:33:27Z | Null | https://github.com/samhill15/rev-tcp-backdoor | 0 | 0| 
 | 20220118T21:06:16Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 53 | 11| 
 | 20220118T20:48:49Z | A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV%s signature | https://github.com/martdev123/RapidFUD | 1 | 0| 
 | 20220118T08:49:16Z | This a simple python backdoor/reverse shell for Windows. It contains a lot of features including executing all windows commands, taking screenshot of target machine, etc. | https://github.com/vishnuz1611/Python-Backdoor-Windows | 1 | 1| 
@@ -113,7 +114,6 @@
 | 20220117T15:40:44Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 432 | 186| 
 | 20220117T09:25:17Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 7| 
 | 20220117T08:08:49Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 55 | 28| 
-| 20220117T05:13:50Z | ufonet... but with my own backdoor ;) | https://github.com/gitYayo/ufonet | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
