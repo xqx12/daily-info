@@ -59,7 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220119T12:05:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10615 | 1835| 
+| 20220119T13:32:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10616 | 1835| 
 | 20220119T11:49:40Z | Null | https://github.com/angelaclan/ArchitecturSysExploitation | 0 | 0| 
 | 20220119T11:39:27Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
 | 20220119T11:17:35Z | yes | https://github.com/xd3nux/Vulnserver-HTER-Exploit | 0 | 0| 
@@ -99,6 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220119T13:33:32Z | Web fuzzer based on wfuzz, customizing the target | https://github.com/dnr6419/wfuzzer | 0 | 0| 
 | 20220119T12:03:52Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3887 | 917| 
 | 20220119T11:33:36Z | A data dependency-aware hybrid fuzzer for Ethereum smart contracts (EuroS&P 2021).  | https://github.com/christoftorres/ConFuzzius | 20 | 10| 
 | 20220119T10:51:18Z | Simple implementation of Robust Rank Correlation Coefficients on the Basis of Fuzzy Orderings paper. | https://github.com/mikulatomas/fuzzycorr | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20220119T06:30:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7024 | 1473| 
 | 20220119T06:14:53Z | Null | https://github.com/rujack/bsmFuzzy | 1 | 0| 
 | 20220119T04:31:18Z | CIDOR - Canvas IDOR Numerical Fuzzer | https://github.com/n3onhacks/cidor | 1 | 0| 
-| 20220119T02:23:06Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 216 | 40| 
 
 
 
