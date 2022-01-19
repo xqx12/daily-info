@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220119T13:47:39Z | Differential fuzzing for elliptic curves | https://github.com/catenacyber/elliptic-curve-differential-fuzzer | 22 | 9| 
 | 20220119T13:36:27Z | A XSS Fuzzer with a scraper | https://github.com/DadeCoderh/xinghudamowang2 | 0 | 0| 
 | 20220119T13:33:32Z | Web fuzzer based on wfuzz, customizing the target | https://github.com/dnr6419/wfuzzer | 0 | 0| 
 | 20220119T12:03:52Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3887 | 917| 
@@ -158,7 +159,6 @@
 | 20220119T08:49:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4664 | 476| 
 | 20220119T08:26:00Z | A Ruby library for generating, mutating, and fuzzing data | https://github.com/ronin-rb/ronin-fuzzing | 2 | 0| 
 | 20220119T06:30:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7024 | 1473| 
-| 20220119T06:14:53Z | Null | https://github.com/rujack/bsmFuzzy | 1 | 0| 
 
 
 
