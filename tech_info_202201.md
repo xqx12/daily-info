@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220119T00:59:33Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220119T01:01:26Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220118T23:54:36Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220118T21:26:05Z | cve-2021-22205 | Finds an identifiable hash value for each version of GitLab vulnerable to CVE-2021-22205 (https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22205.json) for use in fingerprinting. | https://github.com/GitLab-Red-Team/cve-2021-22205-hash-harvester | | 
 | 20220118T21:05:05Z | CVE-2021-43798 | Null | https://github.com/aymenbouferroum/CVE-2021-43798_exploit | | 
@@ -119,16 +119,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220118T13:55:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2647 | 394| 
-| 20220118T10:46:32Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 513 | 83| 
-| 20220118T10:44:52Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1966 | 407| 
-| 20220118T09:22:59Z | Null | https://github.com/williamberman/evm-symbolic-execution | 2 | 0| 
+| 20220118T22:56:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2649 | 394| 
+| 20220118T21:27:23Z | Null | https://github.com/williamberman/evm-symbolic-execution | 9 | 0| 
+| 20220118T20:03:39Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 514 | 83| 
+| 20220118T17:34:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1870 | 531| 
+| 20220118T17:00:14Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1967 | 408| 
 | 20220118T08:43:50Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 190 | 10| 
+| 20220117T17:41:56Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220117T14:40:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 168 | 37| 
 | 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
 | 20220116T16:34:55Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 15 | 6| 
-| 20220114T06:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1869 | 531| 
-| 20220112T18:08:44Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 0 | 0| 
 
 
 # big4 on Github 推荐
