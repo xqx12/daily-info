@@ -35,13 +35,13 @@
 | 20220118T23:54:36Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220118T21:26:05Z | cve-2021-22205 | Finds an identifiable hash value for each version of GitLab vulnerable to CVE-2021-22205 (https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22205.json) for use in fingerprinting. | https://github.com/GitLab-Red-Team/cve-2021-22205-hash-harvester | | 
 | 20220118T21:05:05Z | CVE-2021-43798 | Null | https://github.com/aymenbouferroum/CVE-2021-43798_exploit | | 
-| 20220118T20:01:40Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220118T19:29:55Z | CVE-2021-32099 | Exploit for CVE-2021-32099  | https://github.com/nikn0laty/CVE-2021-32099_exploit | | 
 | 20220118T19:22:38Z | CVE-2021-44228 | POC for Infamous Log4j CVE-2021-44228 | https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC | | 
 | 20220118T18:56:03Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
 | 20220118T14:38:56Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 | 20220118T11:22:05Z | CVE-2021-34600 | Null | https://github.com/x41sec/CVE-2021-34600 | | 
 | 20220118T10:13:10Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
+| 20220118T09:04:26Z | CVE-2021-24750 | Null | https://github.com/fimtow/CVE-2021-24750 | | 
 
 
 # klee on Github 推荐
