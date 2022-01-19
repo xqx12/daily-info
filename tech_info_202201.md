@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220119T01:16:07Z | CVE-2022-0236 | Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236) | https://github.com/qurbat/CVE-2022-0236 | | 
 | 20220119T01:13:42Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220118T23:54:36Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220118T21:26:05Z | cve-2021-22205 | Finds an identifiable hash value for each version of GitLab vulnerable to CVE-2021-22205 (https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22205.json) for use in fingerprinting. | https://github.com/GitLab-Red-Team/cve-2021-22205-hash-harvester | | 
@@ -54,7 +55,6 @@
 | 20220118T19:29:55Z | CVE-2021-32099 | Exploit for CVE-2021-32099  | https://github.com/nikn0laty/CVE-2021-32099_exploit | | 
 | 20220118T19:22:38Z | CVE-2021-44228 | POC for Infamous Log4j CVE-2021-44228 | https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC | | 
 | 20220118T18:56:03Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
-| 20220118T17:15:10Z | CVE-2022-0236 | Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236) | https://github.com/qurbat/CVE-2022-0236 | | 
 | 20220118T14:38:56Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 
 
