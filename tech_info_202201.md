@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220118T13:34:15Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
-| 20220118T13:03:56Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
-| 20220118T12:36:43Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
-| 20220118T11:22:05Z | CVE-2021-34600 | Null | https://github.com/x41sec/CVE-2021-34600 | | 
-| 20220118T11:12:59Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20220118T10:13:10Z | CVE-2021-22205 | GitLab CE/EE Preauth RCE using ExifTool | https://github.com/inspiringz/CVE-2021-22205 | | 
-| 20220118T09:04:26Z | CVE-2021-24750 | Null | https://github.com/fimtow/CVE-2021-24750 | | 
-| 20220118T01:55:20Z | CVE-2021-43297 | CVE-2021-43297 POC | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
-| 20220118T00:21:34Z | CVE-2021-44228 | 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words | | 
-| 20220117T16:30:56Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
+| 20220119T00:59:33Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220118T23:54:36Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20220118T21:26:05Z | cve-2021-22205 | Finds an identifiable hash value for each version of GitLab vulnerable to CVE-2021-22205 (https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22205.json) for use in fingerprinting. | https://github.com/GitLab-Red-Team/cve-2021-22205-hash-harvester | | 
+| 20220118T21:05:05Z | CVE-2021-43798 | Null | https://github.com/aymenbouferroum/CVE-2021-43798_exploit | | 
+| 20220118T20:01:40Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
+| 20220118T19:29:55Z | CVE-2021-32099 | Exploit for CVE-2021-32099  | https://github.com/nikn0laty/CVE-2021-32099_exploit | | 
+| 20220118T19:22:38Z | CVE-2021-44228 | POC for Infamous Log4j CVE-2021-44228 | https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC | | 
+| 20220118T18:56:03Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
+| 20220118T17:15:10Z | CVE-2022-0236 | Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236) | https://github.com/qurbat/CVE-2022-0236 | | 
+| 20220118T14:38:56Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220118T13:55:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3843 | 122| 
-| 20220118T13:47:56Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 167 | 7| 
+| 20220119T00:52:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 3894 | 124| 
+| 20220119T00:49:19Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 190 | 7| 
+| 20220118T17:34:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1870 | 531| 
 | 20220117T13:40:08Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220116T20:42:49Z | Klee Fishing Mania!  | https://github.com/reinharttanto/python_game_FP | 0 | 0| 
 | 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220115T16:18:51Z | Created with CodeSandbox | https://github.com/kemoeverlyne/Kleensport-landing | 0 | 0| 
 | 20220115T16:18:23Z | Null | https://github.com/kemoeverlyne/KleenSpot-landing | 0 | 0| 
 | 20220115T12:26:46Z | Null | https://github.com/theanmol-raj/finance-kleen | 0 | 0| 
-| 20220115T04:17:03Z | Provides the ability to create custom ktest files for klee given the input format | https://github.com/R3x/ktest-creator | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -89,28 +89,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220118T13:33:55Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 569 | 145| 
-| 20220118T13:15:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10607 | 1834| 
+| 20220119T00:52:30Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 598 | 148| 
+| 20220119T00:01:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10612 | 1835| 
+| 20220118T23:19:55Z | [ OLD PROJECT ] Um simples Exploit Browser feito durante estudos em Delphi. | https://github.com/W3sll3yR4m0s/ExploitBrowser_Delphi | 0 | 0| 
+| 20220118T23:17:56Z | auto exploit upload shell easily | https://github.com/Mile403/FM-0day | 0 | 0| 
+| 20220118T23:02:38Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 45 | 4| 
+| 20220118T21:05:05Z | Null | https://github.com/aymenbouferroum/CVE-2021-43798_exploit | 0 | 0| 
 | 20220118T10:39:52Z | xss exploits testing | https://github.com/noelimmi/xssexploit | 0 | 0| 
 | 20220118T09:34:01Z | Incase of an exploit I find, or find in the internet. Scripts you can include into your webpages, or applications will be put here to warn users. | https://github.com/SirObby/security_concern | 0 | 0| 
 | 20220118T09:25:42Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 59 | 7| 
 | 20220118T08:37:35Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 2 | 0| 
-| 20220118T01:59:50Z | Exploit Telegram Desktop 2.9.2 - Denial of Service (PoC) | https://github.com/TAPESH-TEAM/Exploit-Telegram-Desktop-2.9.2-Denial-of-Service-PoC | 0 | 0| 
-| 20220117T22:59:08Z | We will exploit a machine using the ProFTPD 1.3.3c  exploit, add defenses to that machine, and regain access with the same exploit. | https://github.com/CajunSaint/ProFTPDivas | 0 | 0| 
-| 20220117T22:34:49Z | Global bypass for shitty anti cheats supports: Synapse, Scripware, Krnl (I think), and other exploits that has newcclousure, hookfuc, and suppoerts metatable hooking. | https://github.com/Who-Is-E/Adeva-Global-AcBypass | 0 | 0| 
-| 20220117T21:35:27Z | [In-Dev, not open source at the time] This is a lua addon using lua server sided exploit to give to any player any entities or other netMessage requests advantages. | https://github.com/Lopinosaurus/NoCom-but-on-Gmod | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220118T21:06:16Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 53 | 11| 
+| 20220118T20:48:49Z | A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV%s signature | https://github.com/martdev123/RapidFUD | 1 | 0| 
 | 20220118T08:49:16Z | This a simple python backdoor/reverse shell for Windows. It contains a lot of features including executing all windows commands, taking screenshot of target machine, etc. | https://github.com/vishnuz1611/Python-Backdoor-Windows | 1 | 1| 
-| 20220118T03:34:01Z | A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV%s signature | https://github.com/martdev123/RapidFUD | 0 | 0| 
 | 20220118T02:33:31Z | Null | https://github.com/0xSh3RlocK/BackDoor_in_C | 1 | 0| 
 | 20220118T02:13:27Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 7 | 9| 
 | 20220117T18:18:47Z | Powerfull self made multi-purpose CTF script tool written under Kali Linux Os taking adventage of several programs pre-installed. Contains one liner backdoors generator for many programs/languages, recognition scanners, useful  encoders/decoders with some special features as powershell base64 format, tools from ... [ more info at README.md ] | https://github.com/0bfxgh0st/saf2 | 2 | 1| 
 | 20220117T15:40:44Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 432 | 186| 
-| 20220117T14:58:53Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 52 | 11| 
 | 20220117T09:25:17Z | Null | https://github.com/THUYimingLi/BackdoorBox | 9 | 7| 
 | 20220117T08:08:49Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 55 | 28| 
 | 20220117T05:13:50Z | ufonet... but with my own backdoor ;) | https://github.com/gitYayo/ufonet | 0 | 0| 
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220119T00:22:18Z | Null | https://github.com/garlic0x1/fuzz_tools | 0 | 0| 
+| 20220118T22:59:48Z | Video Game Demo Project | https://github.com/SebastianNolette/fuzzy-eureka | 0 | 0| 
+| 20220118T21:51:15Z | Template harness for fuzzing Windows binaries using a shared memory input. | https://github.com/australeo/windows_fuzzing_harness | 0 | 0| 
+| 20220118T19:49:19Z | Null | https://github.com/MichaelRRyan/AIFG-Fuzzy-Logic | 0 | 0| 
+| 20220118T15:30:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 736 | 70| 
 | 20220118T12:34:16Z | Its a piece of ... | https://github.com/Motherhackar/fuzzy-meme | 0 | 0| 
 | 20220118T12:32:57Z | Fuzzle is an onine service for graphic design for creating your own masterpieces. | https://github.com/PAXANDDOS/fuzzle-next | 0 | 0| 
 | 20220118T12:23:21Z | Fuzzing Testing && Detect vulnerability | https://github.com/HomeSit-Institute-of-Technology/CSCS01 | 0 | 0| 
 | 20220118T11:42:28Z | Smart Greybox Fuzzing (https://thuanpv.github.io/publications/TSE19_aflsmart.pdf) | https://github.com/aflsmart/aflsmart | 451 | 90| 
 | 20220118T11:27:38Z | This repository contains scripts for fuzzing and spiking for overflowing buffer  | https://github.com/khalil0192/BufferOverflow | 0 | 0| 
-| 20220118T10:56:14Z | An OCaml Implementation of the Wu and Manber fuzzy search algorithm  | https://github.com/ifazk/wu-manber-fuzzy-search | 0 | 0| 
-| 20220118T10:07:28Z | Null | https://github.com/dileepdkumar/https-github.com-fuzzstati0n-fuzzgoat1 | 0 | 0| 
-| 20220118T07:33:46Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 665 | 142| 
-| 20220118T03:10:29Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 109 | 25| 
-| 20220118T01:41:51Z | Null | https://github.com/PorkRelatives/fuzzy-octo-parakeet | 0 | 0| 
 
 
 
