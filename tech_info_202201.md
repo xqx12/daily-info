@@ -16,6 +16,7 @@
 | 20220119 | 趋势科技对 White Rabbit 勒索软件家族的分析 | https://www.trendmicro.com/en_us/research/22/a/new-ransomware-spotted-white-rabbit-and-its-evasion-tactics.html| 
 | 20220119 | Project Zero Natalie Silvanovich 对 Zoom 的安全研究 “Zooming in on Zero-click Exploits” | https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html| 
 | 20220119 | WordPress WP_Query SQL 注入漏洞（CVE-2022-21661）的分析 | https://sec.today/pulses/4d0c926a-5af7-4362-b8bf-872525767c89/| 
+| 20220119 | WordPress WP_Query SQL 注入漏洞（CVE-2022-21661）的分析 | https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection| 
 | 20220118 | 研究员 Axel Souchet 开源了一个支持多平台的 ROP gadget 搜索工具 | http://github.com/0vercl0k/rp| 
 | 20220118 | 可执行文件加壳相关的资料和工具整理 | https://github.com/dhondta/awesome-executable-packing| 
 | 20220118 | 从 TrustedInstaller 和 winlogon 窃取 token，禁用 Windows Defender | https://github.com/lab52io/StopDefender| 
@@ -25,7 +26,6 @@
 | 20220118 | 嵌入式设备逆向所需的工具链 | http://voidstarsec.com/blog//2022/01/17/intro-to-embedded-part-1| 
 | 20220118 | 基于 PyRDP 工具从 RDP 流量中截获 RDP NetNTLMv2 Hash | https://www.gosecure.net/blog/2022/01/17/capturing-rdp-netntlmv2-hashes-attack-details-and-a-technical-how-to-guide/| 
 | 20220118 | GitHub 上出现 Windows HTTP 协议栈远程代码执行漏洞（CVE-2022-21907）的 PoC | https://github.com/antx-code/CVE-2022-21907| 
-| 20220118 | reFlutter - Flutter 逆向框架，辅助逆向基于 Flutter 包构建的 App | https://sec.today/pulses/ee82f119-aced-4220-8168-90888f7afb41/| 
 
 
 # 安全维基 推荐
@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220119T12:59:25Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220119T13:01:19Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220119T12:46:19Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220119T12:22:32Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220119T10:55:20Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
@@ -119,16 +119,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220119T02:47:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2650 | 395| 
+| 20220119T12:02:30Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1967 | 408| 
+| 20220119T05:32:44Z | Working towards verifying information flows using symbolic execution | https://github.com/MatthewGregoire42/IFT-and-Symbolic-Execution | 0 | 0| 
+| 20220119T03:37:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2651 | 395| 
 | 20220118T21:27:23Z | Null | https://github.com/williamberman/evm-symbolic-execution | 9 | 0| 
 | 20220118T20:03:39Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 514 | 83| 
 | 20220118T17:34:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1870 | 531| 
-| 20220118T17:00:14Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1967 | 408| 
 | 20220118T08:43:50Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 190 | 10| 
 | 20220117T17:41:56Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220117T14:40:36Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 168 | 37| 
 | 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
-| 20220116T16:34:55Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 15 | 6| 
 
 
 # big4 on Github 推荐

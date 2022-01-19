@@ -16,6 +16,7 @@
 | 20220119 | 趋势科技对 White Rabbit 勒索软件家族的分析 | https://www.trendmicro.com/en_us/research/22/a/new-ransomware-spotted-white-rabbit-and-its-evasion-tactics.html| 
 | 20220119 | Project Zero Natalie Silvanovich 对 Zoom 的安全研究 “Zooming in on Zero-click Exploits” | https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html| 
 | 20220119 | WordPress WP_Query SQL 注入漏洞（CVE-2022-21661）的分析 | https://sec.today/pulses/4d0c926a-5af7-4362-b8bf-872525767c89/| 
+| 20220119 | WordPress WP_Query SQL 注入漏洞（CVE-2022-21661）的分析 | https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection| 
 
 
 # 安全维基 推荐
@@ -29,7 +30,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220119T12:59:25Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220119T13:01:19Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220119T12:46:19Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220119T12:22:32Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220119T10:55:20Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
@@ -85,7 +86,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220119T02:47:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2650 | 395| 
+| 20220119T12:02:30Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1967 | 408| 
+| 20220119T05:32:44Z | Working towards verifying information flows using symbolic execution | https://github.com/MatthewGregoire42/IFT-and-Symbolic-Execution | 0 | 0| 
+| 20220119T03:37:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2651 | 395| 
 
 
 # big4 on Github 推荐
