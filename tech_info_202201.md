@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220119T01:59:59Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 602 | 149| 
+| 20220119T01:59:59Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 602 | 150| 
 | 20220119T00:01:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10612 | 1835| 
 | 20220118T23:19:55Z | [ OLD PROJECT ] Um simples Exploit Browser feito durante estudos em Delphi. | https://github.com/W3sll3yR4m0s/ExploitBrowser_Delphi | 0 | 0| 
 | 20220118T23:17:56Z | auto exploit upload shell easily | https://github.com/Mile403/FM-0day | 0 | 0| 
