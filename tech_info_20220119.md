@@ -45,7 +45,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220119T16:00:49Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 210 | 9| 
 | 20220119T08:29:24Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 
 
@@ -53,7 +52,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220119T11:16:37Z | Null | https://github.com/software-testing-bootcamp/S2E1-selenium4-java-testng-allure | 2 | 2| 
-| 20220119T01:41:47Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 0| 
 
 
 # exploit on Github 推荐
