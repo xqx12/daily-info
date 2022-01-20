@@ -51,13 +51,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T13:32:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10621 | 1836| 
 | 20220120T11:22:11Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 3 | 0| 
 | 20220120T10:02:26Z | Null | https://github.com/alfredxiao/ldconfig-exploit-demo | 0 | 0| 
 | 20220120T09:33:00Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1555 | 529| 
 | 20220120T09:30:23Z | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | 1 | 0| 
 | 20220120T09:21:25Z | A executor named GExecutor, made by Gamium, a roblox revival exploiting group. | https://github.com/Lez1S/GExecutor | 0 | 0| 
 | 20220120T06:49:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 288 | 90| 
-| 20220120T06:39:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10620 | 1836| 
 | 20220120T06:25:32Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4279 | 574| 
 | 20220120T01:28:57Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1373 | 348| 
 | 20220120T00:17:13Z | Null | https://github.com/zhirobyte/WinExploit | 0 | 0| 
@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T13:31:19Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 42 | 7| 
 | 20220120T13:10:46Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 49 | 5| 
 | 20220120T12:20:29Z | Files used for reproducing Fuzzware%s experiments | https://github.com/fuzzware-fuzzer/fuzzware-experiments | 13 | 1| 
 | 20220120T11:41:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3886 | 917| 
@@ -97,7 +98,6 @@
 | 20220120T06:25:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7026 | 1474| 
 | 20220120T02:57:31Z | parallel genetic algorithms, inform me if you want to use or make a contribution | https://github.com/ghlkm/parrallel-ea-fuzzy-classifier | 3 | 0| 
 | 20220120T01:46:19Z | Fuzz USDV contract | https://github.com/vetherasset/usdv-fuzz | 0 | 0| 
-| 20220120T01:27:42Z | vr photon을 공부하기 위한 세컨드입니다 | https://github.com/heungdol/fuzzy-parakeet | 0 | 0| 
 
 
 
