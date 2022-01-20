@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220120 | SOK: On the Analysis of Web Browser Security | https://arxiv.org/pdf/2112.15561.pdf| 
+| 20220120 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | https://github.com/fuzzware-fuzzer/fuzzware| 
+| 20220120 | 趋势科技 Deep Security Agent Linux 版本 root 提权漏洞 PoC | https://github.com/modzero/MZ-21-02-Trendmicro| 
+| 20220120 | 宏基电脑在 Windows 系统安装的 Acer Care Center 被发现本地提权漏洞 | https://aptw.tf/2022/01/20/acer-care-center-privesc.html| 
+| 20220120 | CryptoLyzer - 自动化分析 SSL/TLS, SSH 协议相关加密配置属性的工具 | http://pfeifferszilard.hu/2021/12/27/cryptolyzer-a-comprehensive-cryptographic-settings-analyzer.html| 
+| 20220120 | Zloader 木马近期功能更新，运行时会安装 VNC 以及 Cobalt Strike | http://news.sophos.com/en-us/2022/01/19/zloader-installs-remote-access-backdoors-and-delivers-cobalt-strike/| 
+| 20220120 | rellic-headergen - Trail of Bits 开源了一个用于分析字节码，还原 C 数据结构关联的工具 | http://blog.trailofbits.com/2022/01/19/c-your-data-structures-with-rellic-headergen/| 
 | 20220119 | Vulnerable AWS Lambda function – Initial access in cloud attacks | https://sysdig.com/blog/exploit-mitigate-aws-lambdas-mitre/| 
 | 20220119 | A Beginner’s guide into Router Hacking and Firmware Emulation | https://secnigma.wordpress.com/2022/01/18/a-beginners-guide-into-router-hacking-and-firmware-emulation/| 
 | 20220119 | SeeYouCM Thief - 思科电话系统的常见错误配置问题以及对应的安全影响 | https://www.trustedsec.com/blog/seeyoucm-thief-exploiting-common-misconfigurations-in-cisco-phone-systems/| 
@@ -19,18 +26,12 @@
 | 20220119 | WordPress WP_Query SQL 注入漏洞（CVE-2022-21661）的分析 | https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection| 
 | 20220119 | CVE-2021-22204 GitLab RCE之exiftool代码执行漏洞深入分析（二） | http://blog.topsec.com.cn/cve-2021-22204-gitlab-rce%e4%b9%8bexiftool%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90%ef%bc%88%e4%ba%8c%ef%bc%89/| 
 | 20220119 | CVE-2021-31956漏洞分析与利用. | https://bbs.pediy.com/thread-271140.htm| 
-| 20220118 | 研究员 Axel Souchet 开源了一个支持多平台的 ROP gadget 搜索工具 | http://github.com/0vercl0k/rp| 
-| 20220118 | 可执行文件加壳相关的资料和工具整理 | https://github.com/dhondta/awesome-executable-packing| 
-| 20220118 | 从 TrustedInstaller 和 winlogon 窃取 token，禁用 Windows Defender | https://github.com/lab52io/StopDefender| 
-| 20220118 | SUSE 发行版因担心 eBPF 的漏洞决定限制普通用户使用 eBPF | https://www.suse.com/support/kb/doc/?id=000020545| 
-| 20220118 | Apache HTTP Server mod_lua 模块缓冲区溢出漏洞分析（CVE-2021-44790） | https://mp.weixin.qq.com/s/VjSpJW-1sYM1BwDPQZDqFA| 
-| 20220118 | 利用 VMWare Workspace One Access 的 SSRF 漏洞泄露管理员身份 JWT | https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/| 
-| 20220118 | 嵌入式设备逆向所需的工具链 | http://voidstarsec.com/blog//2022/01/17/intro-to-embedded-part-1| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220120 | 浅析现代企业网络安全架构 | https://mp.weixin.qq.com/s/Ye6-H5d894wD2E6C8uYRSg| 
 | 20220119 | 2021年全球DDoS威胁报告 | http://blog.nsfocus.net/wp-content/uploads/2022/01/DDoS-NSFOCUS.pdf| 
 | 20220119 | 谁动了我的DevOps：DevOps风险测绘 | https://mp.weixin.qq.com/s/WYZHx1a-_zSn1nJG5AKoWw| 
 | 20220119 | 基于上下文感知计算的APT攻击组织追踪方法 | https://mp.weixin.qq.com/s/Ca-6jNJadDu0qp5e_Bwj2A| 
@@ -40,29 +41,28 @@
 | 20220117 | 中国（大陆）虚拟货币犯罪形态分析报告-2021年度 | https://upload.zklatech.com/annual_report_2021.pdf| 
 | 20220116 | 安全学术会议排行榜（2021版） | https://mp.weixin.qq.com/s/6Bd5eg9TJw5PL_Qtpq8eLg| 
 | 20220116 | Graph Embedding实战系列：Node2vec原理与代码实战 | https://mp.weixin.qq.com/s/V6DzgC1WXST7yZczKQiCXg| 
-| 20220116 | 初识WebAssembly | https://mp.weixin.qq.com/s/IMbAujuFHzX3JO3PFE_vLg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220120T12:20:14Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
+| 20220120T11:48:53Z | CVE-2021-32790 | Null | https://github.com/LazyTitan33/CVE-2021-32790-PoC | | 
+| 20220120T10:54:00Z | CVE-2021-44228 | Null | https://github.com/semelnyk/CVE-2021-44228-ScannersListFromRF | | 
+| 20220120T10:17:42Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220120T09:39:04Z | cve-2021-44228 | Testing WAF protection against CVE-2021-44228 | https://github.com/robrankin/cve-2021-44228-waf-tests | | 
+| 20220120T09:30:12Z | CVE-2021-32648 | Patch your code for October CMS Auth Bypass CVE-2021-32648 | https://github.com/daftspunk/CVE-2021-32648 | | 
 | 20220120T02:52:49Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20220120T02:43:41Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
-| 20220120T02:30:38Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220119T22:31:21Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
 | 20220119T18:26:52Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220119T15:39:49Z | CVE-2021-25741 | Exploit for CVE-2021-25741 vulnerability | https://github.com/Betep0k/CVE-2021-25741 | | 
-| 20220119T10:55:20Z | CVE-2021-43297 | Apache Dubbo Hessian2 CVE-2021-43297 demo | https://github.com/longofo/Apache-Dubbo-Hessian2-CVE-2021-43297 | | 
-| 20220119T09:39:55Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
-| 20220119T08:30:13Z | CVE-2021-44228 | Static detection of vulnerable log4j librairies on Windows servers, members of an AD domain. | https://github.com/arnaudluti/PS-CVE-2021-44228 | | 
-| 20220119T06:18:40Z | CVE-2022-0236 | Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236) | https://github.com/qurbat/CVE-2022-0236 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220120T02:57:29Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 211 | 9| 
-| 20220120T02:19:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4014 | 130| 
+| 20220120T12:09:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4033 | 131| 
+| 20220120T03:19:51Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 212 | 10| 
 | 20220119T08:29:24Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220118T17:34:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1870 | 532| 
 | 20220116T20:42:49Z | Klee Fishing Mania!  | https://github.com/reinharttanto/python_game_FP | 0 | 0| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T11:22:11Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 3 | 0| 
+| 20220120T10:02:26Z | Null | https://github.com/alfredxiao/ldconfig-exploit-demo | 0 | 0| 
+| 20220120T09:33:00Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1555 | 529| 
+| 20220120T09:30:23Z | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | 1 | 0| 
+| 20220120T09:21:25Z | A executor named GExecutor, made by Gamium, a roblox revival exploiting group. | https://github.com/Lez1S/GExecutor | 0 | 0| 
+| 20220120T06:49:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 288 | 90| 
+| 20220120T06:39:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10620 | 1835| 
 | 20220120T02:02:13Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4281 | 574| 
-| 20220120T02:00:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 286 | 90| 
 | 20220120T01:28:57Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1373 | 348| 
 | 20220120T00:17:13Z | Null | https://github.com/zhirobyte/WinExploit | 0 | 0| 
-| 20220119T23:11:03Z | Received grade: 100%, Project weight: 40%, Description: Code utilized to exploit perceptual hashing algorithms, a main component of social media platforms. The purpose of this project was to display the lacking coverage perceptual hashing algorithms provide and how they can be further exploited to bypass utilizing models. | https://github.com/averywit/CS4501FinalProject | 0 | 0| 
-| 20220119T23:09:17Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 70 | 11| 
-| 20220119T22:43:25Z | Team scenario with the role of both pentester and SOC analyst. As the Red Team, attacked a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, used Kibana to review logs taken during day 1 engagement. Used the logs to extract hard data and visualizations for reporting. Then, interpreted log data to suggest mitigation measures for each exploit that was successfully performed. | https://github.com/BrandonQ3/Capstone-Engagement-Project-2 | 1 | 0| 
-| 20220119T21:36:23Z | How to perform the `sudo less` exploit to gain root access in Linux terminal | https://github.com/Jbyford89/sudo-less-exploit | 0 | 0| 
-| 20220119T19:35:51Z | Roblox exploiting script | https://github.com/AvexcitalScripts/RSU-GUI | 0 | 0| 
-| 20220119T17:18:39Z | This repository is for unification of and tinkering with HTML, CSS, JS, SQL, C, ASM, Python, Protocols, Browsers, Single Page Applications, Web Exploitations, Penetrations, Cryptopgraphy, Binary Exploitations, Forensics and Reverse Engineering with focus on scalable/ enterprise web application security through experimental mock projects and documentation of so-called white hat penetrations and CTFs. | https://github.com/gd-js/WEB-SECURITY | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T09:39:15Z | Null | https://github.com/wangshang123/SourceBackdoorAttack-Demon | 0 | 0| 
+| 20220120T08:41:59Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 7 | 9| 
+| 20220120T05:45:47Z | Null | https://github.com/ShairbekovBakyt/Simple_backdoor | 0 | 0| 
+| 20220120T05:42:14Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/7wuza/Hikivision-backdoor-scanner-snapshot-saver | 0 | 0| 
 | 20220119T14:27:18Z | [Backdoor] Self-replicating tagging virus [WIP] | https://github.com/SaltyMilk/Famine | 1 | 0| 
 | 20220119T13:56:08Z | Backdoor With Python | https://github.com/AlunWulf/Backdoor | 0 | 0| 
 | 20220119T11:08:30Z | One guy tried to upload a backdoor to my friend%s server. It%s his source code. | https://github.com/BrawlsMons/BACKDOOR-MINECRAFT | 0 | 0| 
 | 20220119T09:11:35Z | a tool to make pdf backdoor | https://github.com/klodi667/evilpdf | 0 | 0| 
 | 20220119T06:18:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 409 | 72| 
 | 20220119T04:54:32Z | This program is an opensource backdoor/reverse tcp/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 479 | 174| 
-| 20220119T04:45:18Z | Null | https://github.com/danielserbu/TextEditorTrojanBackdoor | 3 | 2| 
-| 20220119T03:08:34Z | A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV%s signature | https://github.com/martdev123/RapidFUD | 1 | 0| 
-| 20220119T02:50:41Z | Null | https://github.com/samhill15/rev-tcp-backdoor | 0 | 0| 
-| 20220118T21:06:16Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 53 | 11| 
 
 
 # symbolic execution on Github 推荐
