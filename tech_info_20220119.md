@@ -105,6 +105,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220119T23:46:44Z | Arkanoid type game with AI the player who controls the movement of the racket. Logic of the game is based on FuzzyLogicController  | https://github.com/LukaszFlis/BrickBrakerGameOnFuzzyLogic | 0 | 0| 
 | 20220119T23:14:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7026 | 1474| 
+| 20220119T23:14:19Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 117 | 29| 
 | 20220119T22:36:46Z | Null | https://github.com/NickHastings/fuzzel-debian | 0 | 0| 
 | 20220119T21:50:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2401 | 470| 
 | 20220119T21:33:46Z | Source code for package that does fuzzy merges for dataframe joins | https://github.com/mmcelhan/dataframe_fuzzy_merge_source | 1 | 0| 
@@ -112,7 +113,6 @@
 | 20220119T18:31:22Z | Null | https://github.com/AllexisAlvarico/Fuzzy-Logic | 0 | 0| 
 | 20220119T16:43:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 737 | 71| 
 | 20220119T13:47:39Z | Differential fuzzing for elliptic curves | https://github.com/catenacyber/elliptic-curve-differential-fuzzer | 22 | 9| 
-| 20220119T13:36:27Z | A XSS Fuzzer with a scraper | https://github.com/DadeCoderh/xinghudamowang2 | 0 | 0| 
 
 
 
