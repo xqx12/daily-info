@@ -68,7 +68,7 @@
 | 20220119T17:18:39Z | This repository is for unification of and tinkering with HTML, CSS, JS, SQL, C, ASM, Python, Protocols, Browsers, Single Page Applications, Web Exploitations, Penetrations, Cryptopgraphy, Binary Exploitations, Forensics and Reverse Engineering with focus on scalable/ enterprise web application security through experimental mock projects and documentation of so-called white hat penetrations and CTFs. | https://github.com/gd-js/WEB-SECURITY | 1 | 0| 
 | 20220119T16:57:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 285 | 90| 
 | 20220119T16:40:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10618 | 1835| 
-| 20220119T11:49:40Z | Null | https://github.com/angelaclan/ArchitecturSysExploitation | 0 | 0| 
+| 20220119T11:54:51Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1372 | 347| 
 
 
 # backdoor on Github 推荐
