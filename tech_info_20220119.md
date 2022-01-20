@@ -112,7 +112,7 @@
 | 20220119T19:40:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2462 | 152| 
 | 20220119T18:31:22Z | Null | https://github.com/AllexisAlvarico/Fuzzy-Logic | 0 | 0| 
 | 20220119T16:43:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 737 | 71| 
-| 20220119T13:47:39Z | Differential fuzzing for elliptic curves | https://github.com/catenacyber/elliptic-curve-differential-fuzzer | 22 | 9| 
+| 20220119T15:15:18Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4665 | 476| 
 
 
 
