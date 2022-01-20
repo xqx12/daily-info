@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T01:21:33Z | vr photon을 공부하기 위한 세컨드입니다 | https://github.com/heungdol/fuzzy-parakeet | 0 | 0| 
 | 20220120T01:05:42Z | Null | https://github.com/linplot/fuzzy-garbanzo | 0 | 0| 
 | 20220119T23:46:44Z | Arkanoid type game with AI the player who controls the movement of the racket. Logic of the game is based on FuzzyLogicController  | https://github.com/LukaszFlis/BrickBrakerGameOnFuzzyLogic | 0 | 0| 
 | 20220119T23:14:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7026 | 1474| 
@@ -158,7 +159,6 @@
 | 20220119T21:33:46Z | Source code for package that does fuzzy merges for dataframe joins | https://github.com/mmcelhan/dataframe_fuzzy_merge_source | 1 | 0| 
 | 20220119T19:40:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2462 | 152| 
 | 20220119T18:31:22Z | Null | https://github.com/AllexisAlvarico/Fuzzy-Logic | 0 | 0| 
-| 20220119T16:43:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 737 | 71| 
 
 
 
