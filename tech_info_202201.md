@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220120T01:46:23Z | CVE-2022-21907 | Windows HTTP协议栈远程代码执行漏洞 CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220120T02:05:00Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220120T02:00:42Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220120T01:28:27Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
-| 20220120T01:03:34Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220119T22:31:21Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
 | 20220119T18:26:52Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220119T15:39:49Z | CVE-2021-25741 | Exploit for CVE-2021-25741 vulnerability | https://github.com/Betep0k/CVE-2021-25741 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220120T01:49:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4011 | 130| 
+| 20220120T02:04:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4012 | 130| 
 | 20220119T16:00:49Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 210 | 9| 
 | 20220119T08:29:24Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220118T17:34:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1870 | 532| 
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T02:02:13Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4281 | 574| 
+| 20220120T02:00:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 286 | 90| 
 | 20220120T01:28:57Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1373 | 348| 
 | 20220120T00:17:13Z | Null | https://github.com/zhirobyte/WinExploit | 0 | 0| 
 | 20220119T23:11:03Z | Received grade: 100%, Project weight: 40%, Description: Code utilized to exploit perceptual hashing algorithms, a main component of social media platforms. The purpose of this project was to display the lacking coverage perceptual hashing algorithms provide and how they can be further exploited to bypass utilizing models. | https://github.com/averywit/CS4501FinalProject | 0 | 0| 
 | 20220119T23:09:17Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 70 | 11| 
 | 20220119T22:43:25Z | Team scenario with the role of both pentester and SOC analyst. As the Red Team, attacked a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, used Kibana to review logs taken during day 1 engagement. Used the logs to extract hard data and visualizations for reporting. Then, interpreted log data to suggest mitigation measures for each exploit that was successfully performed. | https://github.com/BrandonQ3/Capstone-Engagement-Project-2 | 1 | 0| 
-| 20220119T22:34:02Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4280 | 574| 
 | 20220119T21:36:23Z | How to perform the `sudo less` exploit to gain root access in Linux terminal | https://github.com/Jbyford89/sudo-less-exploit | 0 | 0| 
 | 20220119T19:35:51Z | Roblox exploiting script | https://github.com/AvexcitalScripts/RSU-GUI | 0 | 0| 
 | 20220119T17:18:39Z | This repository is for unification of and tinkering with HTML, CSS, JS, SQL, C, ASM, Python, Protocols, Browsers, Single Page Applications, Web Exploitations, Penetrations, Cryptopgraphy, Binary Exploitations, Forensics and Reverse Engineering with focus on scalable/ enterprise web application security through experimental mock projects and documentation of so-called white hat penetrations and CTFs. | https://github.com/gd-js/WEB-SECURITY | 1 | 0| 
-| 20220119T16:57:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 285 | 90| 
 
 
 # backdoor on Github 推荐
