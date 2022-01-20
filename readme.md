@@ -60,7 +60,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220119T23:11:03Z | Received grade: 100%, Project weight: 40%, Description: Code utilized to exploit perceptual hashing algorithms, a main component of social media platforms. The purpose of this project was to display the lacking coverage perceptual hashing algorithms provide and how they can be further exploited to bypass utilizing models. | https://github.com/averywit/CS4501FinalProject | 0 | 0| 
-| 20220119T23:09:17Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 70 | 10| 
+| 20220119T23:09:17Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 70 | 11| 
 | 20220119T22:43:25Z | Team scenario with the role of both pentester and SOC analyst. As the Red Team, attacked a vulnerable VM within your environment, ultimately gaining root access to the machine. As Blue Team, used Kibana to review logs taken during day 1 engagement. Used the logs to extract hard data and visualizations for reporting. Then, interpreted log data to suggest mitigation measures for each exploit that was successfully performed. | https://github.com/BrandonQ3/Capstone-Engagement-Project-2 | 1 | 0| 
 | 20220119T22:34:02Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4280 | 574| 
 | 20220119T21:36:23Z | How to perform the `sudo less` exploit to gain root access in Linux terminal | https://github.com/Jbyford89/sudo-less-exploit | 0 | 0| 
@@ -68,7 +68,7 @@
 | 20220119T17:18:39Z | This repository is for unification of and tinkering with HTML, CSS, JS, SQL, C, ASM, Python, Protocols, Browsers, Single Page Applications, Web Exploitations, Penetrations, Cryptopgraphy, Binary Exploitations, Forensics and Reverse Engineering with focus on scalable/ enterprise web application security through experimental mock projects and documentation of so-called white hat penetrations and CTFs. | https://github.com/gd-js/WEB-SECURITY | 1 | 0| 
 | 20220119T16:57:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 285 | 90| 
 | 20220119T16:40:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10618 | 1835| 
-| 20220119T11:54:51Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1372 | 347| 
+| 20220119T11:49:40Z | Null | https://github.com/angelaclan/ArchitecturSysExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
