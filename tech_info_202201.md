@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T01:05:42Z | Null | https://github.com/linplot/fuzzy-garbanzo | 0 | 0| 
 | 20220119T23:46:44Z | Arkanoid type game with AI the player who controls the movement of the racket. Logic of the game is based on FuzzyLogicController  | https://github.com/LukaszFlis/BrickBrakerGameOnFuzzyLogic | 0 | 0| 
 | 20220119T23:14:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7026 | 1474| 
 | 20220119T22:36:46Z | Null | https://github.com/NickHastings/fuzzel-debian | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220119T18:31:22Z | Null | https://github.com/AllexisAlvarico/Fuzzy-Logic | 0 | 0| 
 | 20220119T16:43:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 737 | 71| 
 | 20220119T13:47:39Z | Differential fuzzing for elliptic curves | https://github.com/catenacyber/elliptic-curve-differential-fuzzer | 22 | 9| 
-| 20220119T13:36:27Z | A XSS Fuzzer with a scraper | https://github.com/DadeCoderh/xinghudamowang2 | 0 | 0| 
 
 
 
