@@ -58,7 +58,7 @@
 | 20220120T09:21:25Z | A executor named GExecutor, made by Gamium, a roblox revival exploiting group. | https://github.com/Lez1S/GExecutor | 0 | 0| 
 | 20220120T06:49:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 288 | 90| 
 | 20220120T06:39:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10620 | 1836| 
-| 20220120T02:02:13Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4281 | 574| 
+| 20220120T06:25:32Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4279 | 574| 
 | 20220120T01:28:57Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1373 | 348| 
 | 20220120T00:17:13Z | Null | https://github.com/zhirobyte/WinExploit | 0 | 0| 
 
