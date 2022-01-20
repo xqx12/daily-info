@@ -24,10 +24,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220120T13:10:24Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220120T12:20:14Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220120T11:48:53Z | CVE-2021-32790 | Null | https://github.com/LazyTitan33/CVE-2021-32790-PoC | | 
 | 20220120T10:54:00Z | CVE-2021-44228 | Null | https://github.com/semelnyk/CVE-2021-44228-ScannersListFromRF | | 
-| 20220120T10:17:42Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220120T09:39:04Z | cve-2021-44228 | Testing WAF protection against CVE-2021-44228 | https://github.com/robrankin/cve-2021-44228-waf-tests | | 
 | 20220120T09:30:12Z | CVE-2021-32648 | Patch your code for October CMS Auth Bypass CVE-2021-32648 | https://github.com/daftspunk/CVE-2021-32648 | | 
 | 20220120T02:52:49Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
@@ -36,7 +36,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220120T13:06:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4034 | 131| 
+| 20220120T13:10:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4035 | 131| 
 | 20220120T03:19:51Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 212 | 10| 
 
 
@@ -87,7 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220120T12:56:38Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 48 | 5| 
+| 20220120T13:10:46Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 49 | 5| 
 | 20220120T12:20:29Z | Files used for reproducing Fuzzware%s experiments | https://github.com/fuzzware-fuzzer/fuzzware-experiments | 13 | 1| 
 | 20220120T11:41:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3886 | 917| 
 | 20220120T09:48:02Z | Null | https://github.com/kaydenvan/Kaggle-fuzzy_matching | 0 | 0| 
