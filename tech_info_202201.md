@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T13:34:30Z | List of exploitation techniques on vulnerabilities in programs using jemalloc | https://github.com/Checkam/how2jemalloc | 0 | 0| 
 | 20220120T13:32:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10621 | 1836| 
 | 20220120T11:22:11Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 3 | 0| 
 | 20220120T10:02:26Z | Null | https://github.com/alfredxiao/ldconfig-exploit-demo | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220120T06:49:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 288 | 90| 
 | 20220120T06:25:32Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4279 | 574| 
 | 20220120T01:28:57Z | Pwn stuff. | https://github.com/mm0r1/exploits | 1373 | 348| 
-| 20220120T00:17:13Z | Null | https://github.com/zhirobyte/WinExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
