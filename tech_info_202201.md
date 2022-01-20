@@ -150,7 +150,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220120T13:31:19Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 42 | 7| 
-| 20220120T13:10:46Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 49 | 5| 
+| 20220120T13:10:46Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 49 | 6| 
 | 20220120T12:20:29Z | Files used for reproducing Fuzzware%s experiments | https://github.com/fuzzware-fuzzer/fuzzware-experiments | 13 | 1| 
 | 20220120T11:41:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3886 | 917| 
 | 20220120T09:48:02Z | Null | https://github.com/kaydenvan/Kaggle-fuzzy_matching | 0 | 0| 
