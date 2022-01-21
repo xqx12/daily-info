@@ -149,6 +149,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T02:56:33Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4668 | 477| 
+| 20220121T02:56:31Z | Null | https://github.com/ltlfuzzer/LTL-Fuzzer | 0 | 0| 
 | 20220121T02:36:11Z | Null | https://github.com/KiernenIrons/Fuzzy-Logic | 0 | 0| 
 | 20220121T02:34:36Z | Guitar Fuzz Effect PCB | https://github.com/GadgetReboot/Fuzz | 0 | 0| 
 | 20220121T01:26:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7027 | 1475| 
@@ -157,8 +159,6 @@
 | 20220120T22:40:52Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1363 | 152| 
 | 20220120T21:58:36Z | (Work in Progress) Interoperability and fuzz testing of TLS implementations. | https://github.com/xvzcf/tls-interop-runner | 7 | 12| 
 | 20220120T21:22:19Z | Null | https://github.com/blaind/bevy_fuzz | 0 | 0| 
-| 20220120T20:46:15Z | CIDOR - Canvas IDOR fuzzer/downloader/cleaner using common structures used at colleges for document retrieval. Watch the POC video for CIDOR finding previous Stanford University Mid-term Tests/Answers.  | https://github.com/n3onhacks/cidor | 2 | 0| 
-| 20220120T20:24:55Z | Null | https://github.com/tartofour/fuzzer | 0 | 0| 
 
 
 
