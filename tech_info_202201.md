@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T13:16:16Z | A fork of Google%s deprecated fuzzer test suite | https://github.com/tCm3nc/fuzzer-test-suite | 0 | 0| 
 | 20220121T12:10:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 742 | 72| 
 | 20220121T11:30:50Z | In this repository you%ll find an Microsoft Excel sheet containing the matematical approach of FCP used in the study %Conceptualising managerial implications from and for water reservoirs by using Fuzzy Composite Programming in a questionnaire% | https://github.com/milan-daus/Fuzzy-Composite-Programming-approach | 0 | 0| 
 | 20220121T10:49:19Z | hii | https://github.com/parthiRandino/fuzzy-octo-adventure | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220121T08:46:13Z | Projek terkait algoritma fuzzy | https://github.com/AndykaSaputra25/Fuzzy-Algorithms | 0 | 0| 
 | 20220121T07:57:05Z | Null | https://github.com/ltlfuzzer/LTL-Fuzzer | 0 | 0| 
 | 20220121T02:56:33Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4668 | 477| 
-| 20220121T02:37:59Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1863 | 466| 
 
 
 
