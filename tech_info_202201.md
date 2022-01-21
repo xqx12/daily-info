@@ -46,8 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220121T02:43:20Z | CVE-2021-32099 | CVE-2021-32099 SQLi allow attacker bypass login | https://github.com/l3eol3eo/CVE-2021-32099_SQLi | | 
+| 20220121T02:38:10Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220121T01:31:17Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | | 
-| 20220121T01:12:25Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220120T23:56:00Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 | 20220120T22:56:54Z | CVE-2021-25741 | Exploit for CVE-2021-25741 vulnerability | https://github.com/Betep0k/CVE-2021-25741 | | 
 | 20220120T18:50:47Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
@@ -55,13 +56,12 @@
 | 20220120T14:24:45Z | CVE-2022-0219 | Null | https://github.com/Haxatron/CVE-2022-0219 | | 
 | 20220120T13:20:08Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
 | 20220120T12:20:14Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
-| 20220120T11:48:53Z | CVE-2021-32790 | Null | https://github.com/LazyTitan33/CVE-2021-32790-PoC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220121T02:25:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4050 | 131| 
+| 20220121T02:43:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4052 | 131| 
 | 20220121T02:24:23Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 228 | 12| 
 | 20220121T01:47:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1871 | 532| 
 | 20220119T08:29:24Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
