@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220120T13:34:30Z | List of exploitation techniques on vulnerabilities in programs using jemalloc | https://github.com/Checkam/how2jemalloc | 0 | 0| 
-| 20220120T13:32:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10621 | 1836| 
-| 20220120T11:22:11Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 3 | 0| 
-| 20220120T10:02:26Z | Null | https://github.com/alfredxiao/ldconfig-exploit-demo | 0 | 0| 
-| 20220120T09:33:00Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1555 | 529| 
-| 20220120T09:30:23Z | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/DS1NC-DesConnet/EvilMC | 1 | 0| 
-| 20220120T09:21:25Z | A executor named GExecutor, made by Gamium, a roblox revival exploiting group. | https://github.com/Lez1S/GExecutor | 0 | 0| 
-| 20220120T06:49:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 288 | 90| 
-| 20220120T06:25:32Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4279 | 574| 
-| 20220120T02:37:04Z | CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 30 | 3| 
+| 20220121T00:58:41Z | Wrenches 2 Exploits is my personal blog detailing my journey from becoming a mechanic to a future ethical hacker | https://github.com/jaygoncalves/wrenches2exploits | 0 | 0| 
+| 20220121T00:49:53Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 154 | 67| 
+| 20220120T23:32:51Z | Mostly used for exploiting but sometimes just some other scripts or maybe a readme type thingy idk | https://github.com/Dargonizer/Roblox | 0 | 0| 
+| 20220120T21:49:28Z | Tool for automation exploiting SQL injection vulnerability  | https://github.com/azecdev90/sqliscanner | 0 | 0| 
+| 20220120T21:35:53Z | Minecraft Sunucu(ları) için koruma dosyaları | https://github.com/nevihost-private/ExploitProtection | 0 | 0| 
+| 20220120T21:21:57Z | Null | https://github.com/rcs-tringuyen/working-exploit-poc | 0 | 0| 
+| 20220120T21:21:05Z | Misc tools/scripts/files for reversing, exploit, development and ease of use | https://github.com/nadrojisk/stuff | 0 | 0| 
+| 20220120T21:06:46Z | 💀 Linux local root exploit for CVE-2018-18955 | https://github.com/scheatkode/CVE-2018-18955 | 0 | 0| 
+| 20220120T21:06:25Z | This repository contains all the exploits I was able to execute successfully | https://github.com/warlock2k/exploits | 0 | 0| 
+| 20220120T19:38:26Z | Null | https://github.com/TUTUMSPACE/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
