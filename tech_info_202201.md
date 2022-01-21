@@ -89,12 +89,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T13:09:44Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 28 | 11| 
 | 20220121T12:46:24Z | Null | https://github.com/mgmnrn/ps4_exploit_host | 0 | 0| 
 | 20220121T12:10:01Z | Découverte et exploitation du protocole LLMNR | https://github.com/antoinechauvn/LLMNR-attack | 0 | 0| 
 | 20220121T11:16:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10626 | 1837| 
 | 20220121T09:49:33Z | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | 301 | 59| 
 | 20220121T09:24:58Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 70 | 11| 
-| 20220121T09:23:18Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 27 | 11| 
 | 20220121T07:28:14Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 289 | 90| 
 | 20220121T06:40:21Z | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | 1 | 0| 
 | 20220121T01:12:08Z | Config files for my GitHub profile. | https://github.com/caesar-exploit/caesar-exploit | 0 | 0| 
