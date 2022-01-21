@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T12:10:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 742 | 72| 
+| 20220121T11:30:50Z | In this repository you%ll find an Microsoft Excel sheet containing the matematical approach of FCP used in the study %Conceptualising managerial implications from and for water reservoirs by using Fuzzy Composite Programming in a questionnaire% | https://github.com/milan-daus/Fuzzy-Composite-Programming-approach | 0 | 0| 
+| 20220121T10:49:19Z | hii | https://github.com/parthiRandino/fuzzy-octo-adventure | 0 | 0| 
+| 20220121T10:21:01Z | Null | https://github.com/Taucrates/fuzzymar_multi_robot | 0 | 0| 
+| 20220121T09:32:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3890 | 918| 
+| 20220121T08:53:51Z | Don%t lose potential assets from a target due to overlooking a redirect response after fuzzing. Retrieve the files. | https://github.com/n3onhacks/retriever | 0 | 0| 
+| 20220121T08:46:13Z | Projek terkait algoritma fuzzy | https://github.com/AndykaSaputra25/Fuzzy-Algorithms | 0 | 0| 
+| 20220121T07:57:05Z | Null | https://github.com/ltlfuzzer/LTL-Fuzzer | 0 | 0| 
 | 20220121T02:56:33Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4668 | 477| 
-| 20220121T02:56:31Z | Null | https://github.com/ltlfuzzer/LTL-Fuzzer | 0 | 0| 
-| 20220121T02:36:11Z | Null | https://github.com/KiernenIrons/Fuzzy-Logic | 0 | 0| 
-| 20220121T02:34:36Z | Guitar Fuzz Effect PCB | https://github.com/GadgetReboot/Fuzz | 0 | 0| 
-| 20220121T01:26:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7027 | 1475| 
-| 20220121T01:17:26Z | JSON fuzzing library | https://github.com/mjstahl/fuzzed-json | 0 | 0| 
-| 20220121T01:11:28Z | Robust and blazing fast open-redirect vulnerability scanner with ability of recursevely crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 24 | 3| 
-| 20220120T22:40:52Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1363 | 152| 
-| 20220120T21:58:36Z | (Work in Progress) Interoperability and fuzz testing of TLS implementations. | https://github.com/xvzcf/tls-interop-runner | 7 | 12| 
-| 20220120T21:22:19Z | Null | https://github.com/blaind/bevy_fuzz | 0 | 0| 
+| 20220121T02:37:59Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1863 | 466| 
 
 
 
