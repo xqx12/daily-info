@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220121T01:03:20Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
+| 20220121T01:12:25Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220120T23:56:00Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 | 20220120T23:45:14Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | | 
 | 20220120T22:56:54Z | CVE-2021-25741 | Exploit for CVE-2021-25741 vulnerability | https://github.com/Betep0k/CVE-2021-25741 | | 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T01:12:08Z | Config files for my GitHub profile. | https://github.com/caesar-exploit/caesar-exploit | 0 | 0| 
 | 20220121T00:58:41Z | Wrenches 2 Exploits is my personal blog detailing my journey from becoming a mechanic to a future ethical hacker | https://github.com/jaygoncalves/wrenches2exploits | 0 | 0| 
 | 20220121T00:49:53Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 154 | 67| 
 | 20220120T23:32:51Z | Mostly used for exploiting but sometimes just some other scripts or maybe a readme type thingy idk | https://github.com/Dargonizer/Roblox | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220120T21:21:05Z | Misc tools/scripts/files for reversing, exploit, development and ease of use | https://github.com/nadrojisk/stuff | 0 | 0| 
 | 20220120T21:06:46Z | 💀 Linux local root exploit for CVE-2018-18955 | https://github.com/scheatkode/CVE-2018-18955 | 0 | 0| 
 | 20220120T21:06:25Z | This repository contains all the exploits I was able to execute successfully | https://github.com/warlock2k/exploits | 0 | 0| 
-| 20220120T19:38:26Z | Null | https://github.com/TUTUMSPACE/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
