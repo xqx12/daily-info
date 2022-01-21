@@ -26,7 +26,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220120T23:56:00Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
-| 20220120T23:45:14Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | | 
 | 20220120T22:56:54Z | CVE-2021-25741 | Exploit for CVE-2021-25741 vulnerability | https://github.com/Betep0k/CVE-2021-25741 | | 
 | 20220120T18:50:47Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20220120T15:30:10Z | CVE-2021-44228 | POC for Infamous Log4j CVE-2021-44228 | https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC | | 
@@ -35,6 +34,7 @@
 | 20220120T12:20:14Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220120T11:48:53Z | CVE-2021-32790 | Null | https://github.com/LazyTitan33/CVE-2021-32790-PoC | | 
 | 20220120T10:54:00Z | CVE-2021-44228 | Null | https://github.com/semelnyk/CVE-2021-44228-ScannersListFromRF | | 
+| 20220120T09:39:04Z | cve-2021-44228 | Testing WAF protection against CVE-2021-44228 | https://github.com/robrankin/cve-2021-44228-waf-tests | | 
 
 
 # klee on Github 推荐
