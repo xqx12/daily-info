@@ -13,6 +13,7 @@
 | 20220120 | CryptoLyzer - 自动化分析 SSL/TLS, SSH 协议相关加密配置属性的工具 | http://pfeifferszilard.hu/2021/12/27/cryptolyzer-a-comprehensive-cryptographic-settings-analyzer.html| 
 | 20220120 | Zloader 木马近期功能更新，运行时会安装 VNC 以及 Cobalt Strike | http://news.sophos.com/en-us/2022/01/19/zloader-installs-remote-access-backdoors-and-delivers-cobalt-strike/| 
 | 20220120 | rellic-headergen - Trail of Bits 开源了一个用于分析字节码，还原 C 数据结构关联的工具 | http://blog.trailofbits.com/2022/01/19/c-your-data-structures-with-rellic-headergen/| 
+| 20220120 | 假旗 or 升级？疑似海莲花利用Glitch平台的攻击样本再现 | https://mp-weixin-qq-com.translate.goog/s/1L7o1C-aGlMBAXzHqR9udA?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN| 
 
 
 # 安全维基 推荐
@@ -24,21 +25,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220120T23:56:00Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
+| 20220120T23:45:14Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | | 
+| 20220120T22:56:54Z | CVE-2021-25741 | Exploit for CVE-2021-25741 vulnerability | https://github.com/Betep0k/CVE-2021-25741 | | 
+| 20220120T18:50:47Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20220120T15:30:10Z | CVE-2021-44228 | POC for Infamous Log4j CVE-2021-44228 | https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC | | 
+| 20220120T14:24:45Z | CVE-2022-0219 | Null | https://github.com/Haxatron/CVE-2022-0219 | | 
 | 20220120T13:20:08Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
-| 20220120T13:10:24Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220120T12:20:14Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220120T11:48:53Z | CVE-2021-32790 | Null | https://github.com/LazyTitan33/CVE-2021-32790-PoC | | 
 | 20220120T10:54:00Z | CVE-2021-44228 | Null | https://github.com/semelnyk/CVE-2021-44228-ScannersListFromRF | | 
-| 20220120T09:39:04Z | cve-2021-44228 | Testing WAF protection against CVE-2021-44228 | https://github.com/robrankin/cve-2021-44228-waf-tests | | 
-| 20220120T09:30:12Z | CVE-2021-32648 | Patch your code for October CMS Auth Bypass CVE-2021-32648 | https://github.com/daftspunk/CVE-2021-32648 | | 
-| 20220120T02:52:49Z | CVE-2021-44228 | Remote Code Injection In Log4j | https://github.com/jas502n/Log4j2-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220120T13:40:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4037 | 131| 
-| 20220120T03:19:51Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 212 | 11| 
+| 20220120T20:31:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4046 | 131| 
 
 
 # s2e on Github 推荐
@@ -66,6 +68,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T23:20:47Z | Find out if your model has a backdoor trigger. | https://github.com/trigger-attack/trigger-attack | 0 | 0| 
+| 20220120T17:40:47Z | Simple multi client Backdoor, with Python. | https://github.com/zNairy/Sonaris | 9 | 2| 
 | 20220120T09:39:15Z | Null | https://github.com/wangshang123/SourceBackdoorAttack-Demon | 0 | 0| 
 | 20220120T08:41:59Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 7 | 9| 
 | 20220120T05:45:47Z | Null | https://github.com/ShairbekovBakyt/Simple_backdoor | 0 | 0| 
@@ -75,6 +79,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T16:28:38Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 169 | 37| 
 | 20220120T10:26:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2657 | 395| 
 | 20220120T08:29:42Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1969 | 408| 
 | 20220120T02:37:04Z | CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 30 | 3| 
@@ -88,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220120T22:40:52Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1363 | 152| 
+| 20220120T21:58:36Z | (Work in Progress) Interoperability and fuzz testing of TLS implementations. | https://github.com/xvzcf/tls-interop-runner | 7 | 12| 
+| 20220120T21:22:19Z | Null | https://github.com/blaind/bevy_fuzz | 0 | 0| 
+| 20220120T20:46:15Z | CIDOR - Canvas IDOR fuzzer/downloader/cleaner using common structures used at colleges for document retrieval. Watch the POC video for CIDOR finding previous Stanford University Mid-term Tests/Answers.  | https://github.com/n3onhacks/cidor | 2 | 0| 
+| 20220120T20:24:55Z | Null | https://github.com/tartofour/fuzzer | 0 | 0| 
+| 20220120T19:46:32Z | Robust and blazing fast open-redirect vulnerability scanner with ability of recursevely crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 23 | 3| 
 | 20220120T13:31:19Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 42 | 7| 
 | 20220120T13:10:46Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 49 | 6| 
 | 20220120T12:20:29Z | Files used for reproducing Fuzzware%s experiments | https://github.com/fuzzware-fuzzer/fuzzware-experiments | 13 | 1| 
 | 20220120T11:41:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3886 | 917| 
-| 20220120T09:48:02Z | Null | https://github.com/kaydenvan/Kaggle-fuzzy_matching | 0 | 0| 
-| 20220120T08:31:52Z | adaptive fuzzy sliding mode control for robot manipulator | https://github.com/nwilliterate/adaptive-fuzzy-sliding-mode-control | 0 | 0| 
-| 20220120T07:26:08Z | Robust and blazing fast open-redirect vulnerability scanner with ability of recursevely crawling all of web-forms, entry points, or links with data.  | https://github.com/d34db33f-1007/fuzz300 | 22 | 3| 
-| 20220120T06:25:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7026 | 1474| 
-| 20220120T02:57:31Z | parallel genetic algorithms, inform me if you want to use or make a contribution | https://github.com/ghlkm/parrallel-ea-fuzzy-classifier | 3 | 0| 
-| 20220120T01:46:19Z | Fuzz USDV contract | https://github.com/vetherasset/usdv-fuzz | 0 | 0| 
 
 
 
