@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220121 | 自动化渗透-DeepExploit框架深度分析 | https://mp.weixin.qq.com/s/Kab4A-ReHIZ5AhZq4Qac8A| 
 | 20220120 | 浅析现代企业网络安全架构 | https://mp.weixin.qq.com/s/Ye6-H5d894wD2E6C8uYRSg| 
 | 20220119 | 2021年全球DDoS威胁报告 | http://blog.nsfocus.net/wp-content/uploads/2022/01/DDoS-NSFOCUS.pdf| 
 | 20220119 | 谁动了我的DevOps：DevOps风险测绘 | https://mp.weixin.qq.com/s/WYZHx1a-_zSn1nJG5AKoWw| 
@@ -40,7 +41,6 @@
 | 20220117 | SecWiki周刊（第411期) | https://www.sec-wiki.com/weekly/411| 
 | 20220117 | 中国（大陆）虚拟货币犯罪形态分析报告-2021年度 | https://upload.zklatech.com/annual_report_2021.pdf| 
 | 20220116 | 安全学术会议排行榜（2021版） | https://mp.weixin.qq.com/s/6Bd5eg9TJw5PL_Qtpq8eLg| 
-| 20220116 | Graph Embedding实战系列：Node2vec原理与代码实战 | https://mp.weixin.qq.com/s/V6DzgC1WXST7yZczKQiCXg| 
 
 
 # CVE Github 推荐
@@ -104,6 +104,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T04:20:01Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
+| 20220121T03:57:22Z | Backdoor Website | https://github.com/CobaltXV/Backdoor | 0 | 0| 
 | 20220120T23:20:47Z | Find out if your model has a backdoor trigger. | https://github.com/trigger-attack/trigger-attack | 0 | 0| 
 | 20220120T17:40:47Z | Simple multi client Backdoor, with Python. | https://github.com/zNairy/Sonaris | 9 | 2| 
 | 20220120T09:39:15Z | Null | https://github.com/wangshang123/SourceBackdoorAttack-Demon | 0 | 0| 
@@ -112,8 +114,6 @@
 | 20220120T05:42:14Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/7wuza/Hikivision-backdoor-scanner-snapshot-saver | 0 | 0| 
 | 20220119T14:27:18Z | [Backdoor] Self-replicating tagging virus [WIP] | https://github.com/SaltyMilk/Famine | 1 | 0| 
 | 20220119T13:56:08Z | Backdoor With Python | https://github.com/AlunWulf/Backdoor | 0 | 0| 
-| 20220119T13:17:27Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 493 | 60| 
-| 20220119T11:08:30Z | One guy tried to upload a backdoor to my friend%s server. It%s his source code. | https://github.com/BrawlsMons/BACKDOOR-MINECRAFT | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -134,13 +134,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T04:32:41Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 33 | 8| 
 | 20220120T16:19:03Z | Implementation of paper %Proof of Storage-Time: Efficiently Checking Continuous Data Availability% | https://github.com/winderica/PoST_NDSS20 | 2 | 0| 
 | 20220118T13:38:37Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 2 | 0| 
 | 20220118T10:19:11Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 1 | 0| 
 | 20220117T17:34:12Z | This repository contains artifacts and synthesized translations from synthCT (NDSS%22) | https://github.com/FPSG-UIUC/synthCT-artifacts | 1 | 0| 
 | 20220114T17:43:23Z | An implementation of Brick, anonymized for the NDSS 2020 paper submission | https://github.com/ndss2020-brick-submission/brick | 1 | 1| 
 | 20220113T13:27:34Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 0 | 0| 
-| 20220110T01:43:16Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 32 | 7| 
 | 20220108T07:02:35Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 211 | 44| 
 | 20220107T05:24:59Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 60 | 21| 
 | 20220106T07:30:53Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 14 | 0| 

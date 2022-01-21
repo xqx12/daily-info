@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220121 | 自动化渗透-DeepExploit框架深度分析 | https://mp.weixin.qq.com/s/Kab4A-ReHIZ5AhZq4Qac8A| 
 
 
 # CVE Github 推荐
@@ -56,6 +57,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T04:20:01Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
+| 20220121T03:57:22Z | Backdoor Website | https://github.com/CobaltXV/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -67,6 +70,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T04:32:41Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 33 | 8| 
 
 
 # fuzz on Github 推荐
