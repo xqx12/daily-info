@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220122T13:29:51Z | Simple regex fuzzer. | https://github.com/I2rys/RegexFuzz | 0 | 0| 
 | 20220122T13:09:56Z | Store the POCs of fuzzing. | https://github.com/Asteriska8/Poc_Fuzzing | 0 | 0| 
 | 20220122T11:58:48Z | Null | https://github.com/ltlfuzzer/LTL-Fuzzer | 0 | 0| 
 | 20220122T11:11:40Z | Null | https://github.com/imobasshir/fuzzy-broccoli | 0 | 0| 

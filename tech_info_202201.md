@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220122T13:29:51Z | Simple regex fuzzer. | https://github.com/I2rys/RegexFuzz | 0 | 0| 
 | 20220122T13:09:56Z | Store the POCs of fuzzing. | https://github.com/Asteriska8/Poc_Fuzzing | 0 | 0| 
 | 20220122T11:58:48Z | Null | https://github.com/ltlfuzzer/LTL-Fuzzer | 0 | 0| 
 | 20220122T11:11:40Z | Null | https://github.com/imobasshir/fuzzy-broccoli | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20220122T03:30:54Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  fuzzySim — Fuzzy Similarity in Species Distributions. Homepage: fuzzysim.r-forge.r-project.org, https://CRAN.R-project.org/package=fuzzySim   | https://github.com/cran/fuzzySim | 0 | 0| 
 | 20220121T23:32:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36491 | 18798| 
 | 20220121T22:21:46Z | Experimental high-performance fuzz-testing for bevy systems, emulating user UI interaction | https://github.com/blaind/bevy_fuzz | 0 | 0| 
-| 20220121T21:39:37Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2406 | 472| 
 
 
 
