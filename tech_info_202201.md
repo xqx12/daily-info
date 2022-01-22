@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220122T02:01:25Z | Backup of code  | https://github.com/stnert/Scan_BackdoorIntelME | 0 | 0| 
 | 20220121T17:33:26Z | Backdoor | https://github.com/Numbers-Archive/tdoor | 0 | 0| 
 | 20220121T13:33:43Z | Null | https://github.com/jaackkiscool/Backdoor-Scanner | 1 | 0| 
 | 20220121T04:20:01Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20220120T17:40:47Z | Simple multi client Backdoor, with Python. | https://github.com/zNairy/Sonaris | 9 | 2| 
 | 20220120T09:39:15Z | Null | https://github.com/wangshang123/SourceBackdoorAttack-Demon | 0 | 0| 
 | 20220120T08:41:59Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 7 | 9| 
-| 20220120T05:45:47Z | Null | https://github.com/ShairbekovBakyt/Simple_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
