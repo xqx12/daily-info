@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220122T13:42:11Z | Null | https://github.com/ilol1337/Fivem-Exploitation-Library | 0 | 0| 
 | 20220122T12:36:36Z | Any items for index | https://github.com/xinerva/exploits | 1 | 0| 
 | 20220122T11:44:34Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6281 | 1478| 
 | 20220122T11:16:13Z | Null | https://github.com/GandalfX65/Exploit-GandalfX | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220122T09:23:31Z | Null | https://github.com/CryptoHacksv1/PancakeExploit2.1 | 0 | 0| 
 | 20220122T06:58:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 291 | 90| 
 | 20220122T05:49:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10630 | 1837| 
-| 20220122T02:41:16Z | Null | https://github.com/Discord-PrimeBot/Blooket-Bookmarklet-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
