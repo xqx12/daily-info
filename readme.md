@@ -61,6 +61,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T17:33:26Z | Backdoor | https://github.com/Numbers-Archive/tdoor | 0 | 0| 
+| 20220121T13:33:43Z | Null | https://github.com/jaackkiscool/Backdoor-Scanner | 1 | 0| 
 | 20220121T04:20:01Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
 | 20220121T03:57:22Z | Backdoor Website | https://github.com/CobaltXV/Backdoor | 0 | 0| 
 
@@ -68,6 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T18:47:35Z | Null | https://github.com/williamberman/evm-symbolic-execution | 11 | 0| 
+| 20220121T18:39:30Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
+| 20220121T18:39:11Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 48 | 3| 
 | 20220121T01:47:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1871 | 532| 
 
 
