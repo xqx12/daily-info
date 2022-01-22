@@ -91,10 +91,10 @@
 | 20220121T20:00:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 744 | 73| 
 | 20220121T19:22:24Z | Null | https://github.com/nduc4nh/and-fuzzy-logic | 0 | 0| 
 | 20220121T19:12:48Z | Bring libfuzzer to Unicorn | https://github.com/wtdcode/fuzzercorn | 0 | 0| 
+| 20220121T17:42:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1363 | 152| 
 | 20220121T17:00:47Z | Null | https://github.com/adityaharis69/elektrokoagulasi_fuzzy | 0 | 0| 
 | 20220121T16:27:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7028 | 1475| 
 | 20220121T13:32:06Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecWordlist | 1 | 0| 
-| 20220121T13:31:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3891 | 918| 
 
 
 
