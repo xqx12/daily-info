@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220122T01:34:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4186 | 134| 
+| 20220122T01:56:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4187 | 134| 
 | 20220121T22:53:28Z | Null | https://github.com/fedorgrab/klee-frontend | 0 | 0| 
 | 20220121T15:24:39Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 235 | 14| 
 | 20220121T13:55:54Z | woo | https://github.com/xinrachel30/kleex | 1 | 0| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220122T01:55:50Z | Null | https://github.com/AnxinCanada/Blook-Exploit-Bookmarklet | 0 | 0| 
 | 20220122T01:50:47Z | Null | https://github.com/LSouzaDev/ps4-900-webkit-exploit | 0 | 0| 
 | 20220122T00:56:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 290 | 90| 
 | 20220122T00:51:45Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 13 | 0| 
@@ -99,7 +100,6 @@
 | 20220121T21:51:04Z | Découverte et exploitation des protocoles LLMNR et NBT-NS | https://github.com/antoinechauvn/SMB-attack | 0 | 0| 
 | 20220121T20:59:20Z | Some exploits that i%ve built | https://github.com/HackerOnTwoWheels/Exploits | 0 | 0| 
 | 20220121T17:36:54Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1556 | 530| 
-| 20220121T13:09:44Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 28 | 11| 
 
 
 # backdoor on Github 推荐
