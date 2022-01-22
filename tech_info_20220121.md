@@ -54,8 +54,8 @@
 | 20220121T12:46:24Z | Null | https://github.com/mgmnrn/ps4_exploit_host | 0 | 0| 
 | 20220121T12:10:01Z | Découverte et exploitation du protocole LLMNR | https://github.com/antoinechauvn/LLMNR-attack | 0 | 0| 
 | 20220121T09:49:33Z | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | 301 | 59| 
-| 20220121T09:24:58Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 70 | 11| 
 | 20220121T06:40:21Z | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | 1 | 0| 
+| 20220121T06:04:30Z | Null | https://github.com/Mathiu13/RoExploitFree | 0 | 0| 
 
 
 # backdoor on Github 推荐
