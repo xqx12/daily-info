@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220122T02:41:16Z | Null | https://github.com/Discord-PrimeBot/Blooket-Bookmarklet-Exploit | 0 | 0| 
 | 20220122T02:24:22Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 71 | 11| 
 | 20220122T01:55:50Z | Null | https://github.com/AnxinCanada/Blook-Exploit-Bookmarklet | 0 | 0| 
 | 20220122T01:50:47Z | Null | https://github.com/LSouzaDev/ps4-900-webkit-exploit | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220122T00:22:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10629 | 1837| 
 | 20220121T22:53:47Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 9 | 2| 
 | 20220121T21:51:04Z | Découverte et exploitation des protocoles LLMNR et NBT-NS | https://github.com/antoinechauvn/SMB-attack | 0 | 0| 
-| 20220121T20:59:20Z | Some exploits that i%ve built | https://github.com/HackerOnTwoWheels/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
