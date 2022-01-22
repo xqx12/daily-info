@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220121 | 浅析分组加密模式攻击手段 | https://tttang.com/archive/1403/| 
 | 20220120 | SOK: On the Analysis of Web Browser Security | https://arxiv.org/pdf/2112.15561.pdf| 
 | 20220120 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | https://github.com/fuzzware-fuzzer/fuzzware| 
 | 20220120 | 趋势科技 Deep Security Agent Linux 版本 root 提权漏洞 PoC | https://github.com/modzero/MZ-21-02-Trendmicro| 
@@ -25,7 +26,6 @@
 | 20220119 | Project Zero Natalie Silvanovich 对 Zoom 的安全研究 “Zooming in on Zero-click Exploits” | https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html| 
 | 20220119 | WordPress WP_Query SQL 注入漏洞（CVE-2022-21661）的分析 | https://sec.today/pulses/4d0c926a-5af7-4362-b8bf-872525767c89/| 
 | 20220119 | WordPress WP_Query SQL 注入漏洞（CVE-2022-21661）的分析 | https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection| 
-| 20220119 | CVE-2021-22204 GitLab RCE之exiftool代码执行漏洞深入分析（二） | http://blog.topsec.com.cn/cve-2021-22204-gitlab-rce%e4%b9%8bexiftool%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90%ef%bc%88%e4%ba%8c%ef%bc%89/| 
 
 
 # 安全维基 推荐
@@ -61,23 +61,24 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220121T14:04:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4131 | 133| 
+| 20220122T00:59:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4179 | 134| 
+| 20220121T22:53:28Z | Null | https://github.com/fedorgrab/klee-frontend | 0 | 0| 
+| 20220121T15:24:39Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 235 | 14| 
 | 20220121T13:55:54Z | woo | https://github.com/xinrachel30/kleex | 1 | 0| 
-| 20220121T08:51:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 234 | 14| 
 | 20220121T01:47:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1871 | 532| 
 | 20220119T08:29:24Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220116T20:42:49Z | Klee Fishing Mania!  | https://github.com/reinharttanto/python_game_FP | 0 | 0| 
 | 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
 | 20220115T20:54:14Z | Config files for my GitHub profile. | https://github.com/cedricKleeward/cedricKleeward | 0 | 0| 
 | 20220115T16:18:51Z | Created with CodeSandbox | https://github.com/kemoeverlyne/Kleensport-landing | 0 | 0| 
-| 20220115T16:18:23Z | Null | https://github.com/kemoeverlyne/KleenSpot-landing | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220120T02:57:37Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 0| 
-| 20220120T02:37:04Z | CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 30 | 3| 
+| 20220121T18:39:30Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
+| 20220121T18:18:20Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 17 | 5| 
+| 20220120T02:57:37Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 1| 
 | 20220119T11:16:37Z | Null | https://github.com/software-testing-bootcamp/S2E1-selenium4-java-testng-allure | 2 | 2| 
 | 20220117T17:41:56Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 195 | 42| 
 | 20220117T03:46:07Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 6 | 0| 
@@ -89,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220122T00:56:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 290 | 90| 
+| 20220122T00:51:45Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 13 | 0| 
+| 20220122T00:24:41Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4283 | 574| 
+| 20220122T00:22:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10629 | 1837| 
+| 20220121T22:53:47Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 9 | 2| 
+| 20220121T21:51:04Z | Découverte et exploitation des protocoles LLMNR et NBT-NS | https://github.com/antoinechauvn/SMB-attack | 0 | 0| 
+| 20220121T20:59:20Z | Some exploits that i%ve built | https://github.com/HackerOnTwoWheels/Exploits | 0 | 0| 
 | 20220121T13:09:44Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 28 | 11| 
 | 20220121T12:46:24Z | Null | https://github.com/mgmnrn/ps4_exploit_host | 0 | 0| 
 | 20220121T12:10:01Z | Découverte et exploitation du protocole LLMNR | https://github.com/antoinechauvn/LLMNR-attack | 0 | 0| 
-| 20220121T11:16:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10626 | 1837| 
-| 20220121T09:49:33Z | 一款漏洞验证工具而已 | https://github.com/bigblackhat/oFx | 301 | 59| 
-| 20220121T09:24:58Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 70 | 11| 
-| 20220121T07:28:14Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 289 | 90| 
-| 20220121T06:40:21Z | A Ruby API for Post-Exploitation | https://github.com/ronin-rb/ronin-post_ex | 1 | 0| 
-| 20220121T01:12:08Z | Config files for my GitHub profile. | https://github.com/caesar-exploit/caesar-exploit | 0 | 0| 
-| 20220121T00:58:41Z | Wrenches 2 Exploits is my personal blog detailing my journey from becoming a mechanic to a future ethical hacker | https://github.com/jaygoncalves/wrenches2exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -149,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220121T23:32:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36491 | 18798| 
+| 20220121T22:21:46Z | Experimental high-performance fuzz-testing for bevy systems, emulating user UI interaction | https://github.com/blaind/bevy_fuzz | 0 | 0| 
+| 20220121T21:39:37Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2406 | 472| 
+| 20220121T20:00:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 744 | 73| 
+| 20220121T19:22:24Z | Null | https://github.com/nduc4nh/and-fuzzy-logic | 0 | 0| 
+| 20220121T19:12:48Z | Bring libfuzzer to Unicorn | https://github.com/wtdcode/fuzzercorn | 0 | 0| 
+| 20220121T17:00:47Z | Null | https://github.com/adityaharis69/elektrokoagulasi_fuzzy | 0 | 0| 
+| 20220121T16:27:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7028 | 1475| 
 | 20220121T13:32:06Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecWordlist | 1 | 0| 
 | 20220121T13:31:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3891 | 918| 
-| 20220121T13:17:59Z | A fork of Google%s deprecated fuzzer test suite | https://github.com/tCm3nc/fuzzer-test-suite | 0 | 0| 
-| 20220121T12:10:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 742 | 72| 
-| 20220121T11:30:50Z | In this repository you%ll find an Microsoft Excel sheet containing the matematical approach of FCP used in the study %Conceptualising managerial implications from and for water reservoirs by using Fuzzy Composite Programming in a questionnaire% | https://github.com/milan-daus/Fuzzy-Composite-Programming-approach | 0 | 0| 
-| 20220121T10:49:19Z | hii | https://github.com/parthiRandino/fuzzy-octo-adventure | 0 | 0| 
-| 20220121T10:21:01Z | Null | https://github.com/Taucrates/fuzzymar_multi_robot | 0 | 0| 
-| 20220121T08:53:51Z | Don%t lose potential assets from a target due to overlooking a redirect response after fuzzing. Retrieve the files. | https://github.com/n3onhacks/retriever | 0 | 0| 
-| 20220121T08:46:13Z | Projek terkait algoritma fuzzy | https://github.com/AndykaSaputra25/Fuzzy-Algorithms | 0 | 0| 
-| 20220121T07:57:05Z | Null | https://github.com/ltlfuzzer/LTL-Fuzzer | 0 | 0| 
 
 
 
