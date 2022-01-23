@@ -56,7 +56,6 @@
 | 20220122T14:02:08Z | Null | https://github.com/whorahul/PHP-Backdoors | 0 | 0| 
 | 20220122T13:17:42Z | Null | https://github.com/TheCoder-de/Backdoor | 1 | 0| 
 | 20220122T12:08:41Z | A backdoor finder. | https://github.com/Errors-Utility/Unnamed-Backdoor-Finder | 0 | 0| 
-| 20220122T07:39:26Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 53 | 7| 
 | 20220122T04:12:35Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 494 | 61| 
 | 20220122T02:01:25Z | Backup of code  | https://github.com/stnert/Scan_BackdoorIntelME | 0 | 0| 
 
