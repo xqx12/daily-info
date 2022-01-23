@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220123T01:30:08Z | test code of the facl and fql algorithms | https://github.com/r-haight/Test_OOP_Fuzzy | 0 | 0| 
 | 20220123T00:09:49Z | Fuzzing concurrent Go programs | https://github.com/system-pclub/GFuzz | 8 | 3| 
 | 20220122T22:40:02Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1365 | 152| 
 | 20220122T21:21:57Z | This is our project for the Warm and Fuzzy category for McHacks 9 | https://github.com/ChrisVatos/WarmAndFuzzyMcHacks9 | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20220122T18:20:55Z | Null | https://github.com/thyhjfhkieykur/fuzzy-spork | 0 | 0| 
 | 20220122T18:15:40Z | Null | https://github.com/sjagmeet37/fuzzy-engine | 0 | 0| 
 | 20220122T17:22:58Z | A port of a %Fuzzy Seek% thingy that was originally made by @TheOfficialFloW . This is VERY SMALL MOD that can be created in 1 minute but originally i took it from him. Makes the game loading faster by telling MPG123 to NOT load and save data that we dont need at all | https://github.com/AndroidModLoader/GTA_FuzzySeek | 0 | 0| 
-| 20220122T15:42:36Z | A simple python implementation of Fuzzy C-means algorithm. | https://github.com/omadson/fuzzy-c-means | 81 | 32| 
 
 
 
