@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220123 | AFLTeam - AFLTeam: Towards Systematic and Dynamic Task Allocation for Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam| 
+| 20220123 | Contiki OS 系统 IoT 设备取证分析之数据还原 | https://www.forensicfocus.com/webinars/coffee-forensics-reconstructing-data-in-iot-devices-running-contiki-os/| 
+| 20220123 | CVE-2021-45467: CWP CentOS Web Panel – preauth RCE | https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/| 
+| 20220123 | Rust 发布安全公告，std::fs::remove_dir_all 标准库函数存在条件竞争漏洞 (CVE-2022-21658) | http://blog.rust-lang.org/2022/01/20/cve-2022-21658.html| 
+| 20220123 | 2232 - XNU kernel use-after-free in mach_msg - project-zero | https://bugs.chromium.org/p/project-zero/issues/detail?id=2232| 
+| 20220123 | McAfee Agent 被发现 Windows SYSTEM 本地提权漏洞 | https://threatpost.com/mcafee-bug-windows-system-privileges/177857/| 
+| 20220123 | 桌面终端安全管理软件 Zoho ManageEngine 被发现高危认证绕过漏洞（CVE-2021-44515） | https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html| 
+| 20220123 | MoonBounce: the dark side of UEFI firmware | https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/| 
 | 20220121 | 浅析分组加密模式攻击手段 | https://tttang.com/archive/1403/| 
 | 20220120 | SOK: On the Analysis of Web Browser Security | https://arxiv.org/pdf/2112.15561.pdf| 
 | 20220120 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | https://github.com/fuzzware-fuzzer/fuzzware| 
@@ -18,14 +26,6 @@
 | 20220119 | Vulnerable AWS Lambda function – Initial access in cloud attacks | https://sysdig.com/blog/exploit-mitigate-aws-lambdas-mitre/| 
 | 20220119 | A Beginner’s guide into Router Hacking and Firmware Emulation | https://secnigma.wordpress.com/2022/01/18/a-beginners-guide-into-router-hacking-and-firmware-emulation/| 
 | 20220119 | SeeYouCM Thief - 思科电话系统的常见错误配置问题以及对应的安全影响 | https://www.trustedsec.com/blog/seeyoucm-thief-exploiting-common-misconfigurations-in-cisco-phone-systems/| 
-| 20220119 | ASP.NET Ajax 框架 Ajax.NET Professional 被发现 RCE 漏洞 | https://mogwailabs.de/en/blog/2022/01/vulnerability-spotlight-rce-in-ajax.net-professional/| 
-| 20220119 | 定向攻击乌克兰的 WhisperGate 恶意样本分析 | https://medium.com/s2wblog/analysis-of-destructive-malware-whispergate-targeting-ukraine-9d5d158f19f3| 
-| 20220119 | 扫描域控是否存在 NTLM Reply 问题的工具 | https://github.com/zyn3rgy/LdapRelayScan| 
-| 20220119 | Telenot Complex: Insecure AES Key Generation | http://x41-dsec.de/lab/blog/telenot-complex-insecure-keygen/| 
-| 20220119 | 趋势科技对 White Rabbit 勒索软件家族的分析 | https://www.trendmicro.com/en_us/research/22/a/new-ransomware-spotted-white-rabbit-and-its-evasion-tactics.html| 
-| 20220119 | Project Zero Natalie Silvanovich 对 Zoom 的安全研究 “Zooming in on Zero-click Exploits” | https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html| 
-| 20220119 | WordPress WP_Query SQL 注入漏洞（CVE-2022-21661）的分析 | https://sec.today/pulses/4d0c926a-5af7-4362-b8bf-872525767c89/| 
-| 20220119 | WordPress WP_Query SQL 注入漏洞（CVE-2022-21661）的分析 | https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection| 
 
 
 # 安全维基 推荐
@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220123T12:43:36Z | CVE-2021-1732 | 对1909下windows版本的EXP进行分析，并对代码添加调试和注释 | https://github.com/ExploitCN/CVE-2021-1732-EXP- | | 
+| 20220123T10:28:37Z | CVE-2021-22204 | Null | https://github.com/LazyTitan33/CVE-2021-22204 | | 
 | 20220122T12:21:28Z | CVE-2022- | test 反向辣鸡数据投放 CVE-2022-23305 工具 利用 教程 Exploit POC  | https://github.com/AlphabugX/CVE-2022-RCE | | 
 | 20220122T05:41:19Z | CVE-2021-32099 | CVE-2021-32099 SQLi allow attacker bypass login. From HTB with love | https://github.com/l3eol3eo/CVE-2021-32099_SQLi | | 
 | 20220121T09:29:21Z | CVE-2022-22296 | All Details about CVE-2022-22296 | https://github.com/vlakhani28/CVE-2022-22296 | | 
@@ -54,15 +56,13 @@
 | 20220121T02:38:10Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
 | 20220121T01:31:17Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | | 
 | 20220120T23:56:00Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
-| 20220120T22:56:54Z | CVE-2021-25741 | Exploit for CVE-2021-25741 vulnerability | https://github.com/Betep0k/CVE-2021-25741 | | 
-| 20220120T18:50:47Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T03:18:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4296 | 141| 
-| 20220123T03:01:50Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 240 | 14| 
+| 20220123T12:27:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4334 | 142| 
+| 20220123T09:49:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 244 | 15| 
 | 20220122T19:07:42Z | Config files for my GitHub profile. | https://github.com/klee3333/klee3333 | 0 | 0| 
 | 20220121T22:53:28Z | Null | https://github.com/fedorgrab/klee-frontend | 0 | 0| 
 | 20220121T13:55:54Z | woo | https://github.com/xinrachel30/kleex | 1 | 0| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T02:56:07Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 2 | 0| 
-| 20220123T02:31:14Z | Brute force prevention for numerous dupe exploits via disabling quickswapping | https://github.com/ace10102/QuickStop | 0 | 0| 
-| 20220123T02:18:31Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 15 | 1| 
-| 20220123T01:11:20Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 0 | 0| 
-| 20220123T00:12:07Z | A collection of tools and exploits written and used for WPA2/3 vulnerability analysis | https://github.com/ONeT-Github/ISAC317 | 0 | 0| 
-| 20220123T00:05:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10632 | 1839| 
-| 20220122T23:32:05Z | LW PS4 Exploit 9.00FW | https://github.com/ps4md/ps4md.github.io | 0 | 0| 
-| 20220122T22:38:00Z | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | 1 | 0| 
-| 20220122T21:36:15Z | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | 0 | 0| 
-| 20220122T19:35:15Z | Roblox exploiting GUI. | https://github.com/zilibobi/zHub | 2 | 0| 
+| 20220123T12:42:32Z | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | 0 | 0| 
+| 20220123T12:39:17Z | Python for exploits. | https://github.com/BrianBarakaKasamba/Offensive-Python | 0 | 0| 
+| 20220123T12:31:08Z | Exploit Insecure Firebase Directly | https://github.com/Shuvamoy/TinyFireExploiter | 0 | 0| 
+| 20220123T12:20:14Z | ShellsHock Zaafiyeti İçin Exploit Aracı | https://github.com/ASER-VANT/ShellsHock | 0 | 1| 
+| 20220123T11:52:12Z | This is a small repo with templates on binary exploitation | https://github.com/Panagiotis-INS/Pwn-Star | 0 | 0| 
+| 20220123T11:02:15Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 6 | 3| 
+| 20220123T10:50:05Z | UD fortnite external cheat, uisng leaked drivers, has cool exploits, aim,esp | https://github.com/UDFreeCheats/UD-RN-External-fortnite-cheat- | 0 | 0| 
+| 20220123T10:37:05Z | A brute force prevention for numerous dupe exploits via disabling Quick-Swapping | https://github.com/ace10102/Swapper-No-Swapping | 0 | 0| 
+| 20220123T05:46:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 45 | 20| 
+| 20220123T03:29:28Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6282 | 1478| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220123T10:03:47Z | Null | https://github.com/BobDaGithubAccount/backdoorConfig | 0 | 0| 
+| 20220123T03:38:10Z | an undetectable SSH backdoor, as described in http://resources.infosecinstitute.com/creating-undetectable-custom-ssh-… | https://github.com/kay2xqsh/grassmeight | 0 | 0| 
 | 20220123T01:37:40Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 54 | 7| 
 | 20220122T21:07:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1546 | 378| 
 | 20220122T19:53:38Z | windows 11, 10 persistent backdoor  | https://github.com/DioBruh/backdoor-windows | 8 | 1| 
-| 20220122T16:35:03Z | Null | https://github.com/BobDaGithubAccount/backdoorConfig | 0 | 0| 
 | 20220122T14:02:08Z | Null | https://github.com/whorahul/PHP-Backdoors | 0 | 0| 
 | 20220122T13:17:42Z | Null | https://github.com/TheCoder-de/Backdoor | 1 | 0| 
 | 20220122T12:08:41Z | A backdoor finder. | https://github.com/Errors-Utility/Unnamed-Backdoor-Finder | 0 | 0| 
 | 20220122T04:12:35Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 494 | 61| 
-| 20220122T02:01:25Z | Backup of code  | https://github.com/stnert/Scan_BackdoorIntelME | 0 | 0| 
-| 20220121T17:33:26Z | Backdoor | https://github.com/Numbers-Archive/tdoor | 0 | 0| 
+| 20220122T02:35:12Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 55 | 12| 
 
 
 # symbolic execution on Github 推荐
@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T01:30:08Z | test code of the facl and fql algorithms | https://github.com/r-haight/Test_OOP_Fuzzy | 0 | 0| 
-| 20220123T00:09:49Z | Fuzzing concurrent Go programs | https://github.com/system-pclub/GFuzz | 8 | 3| 
-| 20220122T22:40:02Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1365 | 152| 
-| 20220122T21:21:57Z | This is our project for the Warm and Fuzzy category for McHacks 9 | https://github.com/ChrisVatos/WarmAndFuzzyMcHacks9 | 0 | 0| 
-| 20220122T20:29:33Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 5892 | 685| 
-| 20220122T19:32:04Z | Bring libfuzzer to Unicorn | https://github.com/wtdcode/fuzzercorn | 0 | 0| 
-| 20220122T19:11:54Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2407 | 472| 
-| 20220122T18:20:55Z | Null | https://github.com/thyhjfhkieykur/fuzzy-spork | 0 | 0| 
-| 20220122T18:15:40Z | Null | https://github.com/sjagmeet37/fuzzy-engine | 0 | 0| 
-| 20220122T17:22:58Z | A port of a %Fuzzy Seek% thingy that was originally made by @TheOfficialFloW . This is VERY SMALL MOD that can be created in 1 minute but originally i took it from him. Makes the game loading faster by telling MPG123 to NOT load and save data that we dont need at all | https://github.com/AndroidModLoader/GTA_FuzzySeek | 0 | 0| 
+| 20220123T13:00:45Z | Scenario-based fuzzing test execution tool%s scenario library | https://github.com/shfz/shfzlib | 1 | 0| 
+| 20220123T13:00:38Z | Scenario-based fuzzing test execution tool for web applications | https://github.com/shfz/shfz | 2 | 0| 
+| 20220123T12:59:59Z | Performance Review - Build a 3d web-based game using Ruby and Ruby on Rails | https://github.com/amiranazri/wtc-fuzzy-succotash | 0 | 0| 
+| 20220123T12:50:11Z | Null | https://github.com/Akshay1006/Fuzzy_match | 0 | 0| 
+| 20220123T12:12:13Z | Mini project in Fuzzy at AGH UST | https://github.com/gregori0o/psi-fuzzy | 0 | 0| 
+| 20220123T12:01:30Z | Реализация нечеткого контроллера на Rust | https://github.com/Ares566/rust_fuzzy_controller | 0 | 0| 
+| 20220123T11:25:49Z | Null | https://github.com/Fbrido28/fuzzy-memory | 0 | 0| 
+| 20220123T11:17:16Z | Null | https://github.com/MeloneFlier/fuzzy-octo-adventure | 0 | 0| 
+| 20220123T09:36:58Z | Null | https://github.com/asieriko/fuzzyperceptron | 0 | 0| 
+| 20220123T08:54:01Z | Null | https://github.com/bhorvath/jest-expect-to-fuzzy-equal | 0 | 0| 
 
 
 
