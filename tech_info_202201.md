@@ -90,13 +90,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220123T02:56:07Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 2 | 0| 
 | 20220123T02:31:14Z | Brute force prevention for numerous dupe exploits via disabling quickswapping | https://github.com/ace10102/QuickStop | 0 | 0| 
 | 20220123T02:18:31Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 15 | 1| 
 | 20220123T01:11:20Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 0 | 0| 
 | 20220123T00:12:07Z | A collection of tools and exploits written and used for WPA2/3 vulnerability analysis | https://github.com/ONeT-Github/ISAC317 | 0 | 0| 
 | 20220123T00:05:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10632 | 1839| 
 | 20220122T23:32:05Z | LW PS4 Exploit 9.00FW | https://github.com/ps4md/ps4md.github.io | 0 | 0| 
-| 20220122T22:58:49Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 1 | 0| 
 | 20220122T22:38:00Z | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | 1 | 0| 
 | 20220122T21:36:15Z | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | 0 | 0| 
 | 20220122T19:35:15Z | Roblox exploiting GUI. | https://github.com/zilibobi/zHub | 2 | 0| 

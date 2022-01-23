@@ -36,7 +36,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220122T23:32:05Z | LW PS4 Exploit 9.00FW | https://github.com/ps4md/ps4md.github.io | 0 | 0| 
-| 20220122T22:58:49Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 1 | 0| 
 | 20220122T22:38:00Z | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | 1 | 0| 
 | 20220122T21:36:15Z | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | 0 | 0| 
 | 20220122T19:35:15Z | Roblox exploiting GUI. | https://github.com/zilibobi/zHub | 2 | 0| 
@@ -45,6 +44,7 @@
 | 20220122T13:53:29Z | FiveM Exploitation Library. FiveM and Discord tool | https://github.com/ilol1337/Fivem-Exploitation-Library | 0 | 0| 
 | 20220122T12:36:36Z | Any items for index | https://github.com/xinerva/exploits | 1 | 0| 
 | 20220122T11:44:34Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6281 | 1478| 
+| 20220122T11:16:13Z | Null | https://github.com/GandalfX65/Exploit-GandalfX | 0 | 0| 
 
 
 # backdoor on Github 推荐
