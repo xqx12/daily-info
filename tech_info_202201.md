@@ -14,6 +14,7 @@
 | 20220123 | McAfee Agent 被发现 Windows SYSTEM 本地提权漏洞 | https://threatpost.com/mcafee-bug-windows-system-privileges/177857/| 
 | 20220123 | 桌面终端安全管理软件 Zoho ManageEngine 被发现高危认证绕过漏洞（CVE-2021-44515） | https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html| 
 | 20220123 | MoonBounce: the dark side of UEFI firmware | https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/| 
+| 20220123 | Snooping on Android 12’s Privacy Dashboard. | http://thebinaryhick.blog/2022/01/22/snooping-on-android-12s-privacy-dashboard/| 
 | 20220121 | 浅析分组加密模式攻击手段 | https://tttang.com/archive/1403/| 
 | 20220120 | SOK: On the Analysis of Web Browser Security | https://arxiv.org/pdf/2112.15561.pdf| 
 | 20220120 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | https://github.com/fuzzware-fuzzer/fuzzware| 
@@ -25,7 +26,6 @@
 | 20220120 | 假旗 or 升级？疑似海莲花利用Glitch平台的攻击样本再现 | https://mp-weixin-qq-com.translate.goog/s/1L7o1C-aGlMBAXzHqR9udA?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN| 
 | 20220119 | Vulnerable AWS Lambda function – Initial access in cloud attacks | https://sysdig.com/blog/exploit-mitigate-aws-lambdas-mitre/| 
 | 20220119 | A Beginner’s guide into Router Hacking and Firmware Emulation | https://secnigma.wordpress.com/2022/01/18/a-beginners-guide-into-router-hacking-and-firmware-emulation/| 
-| 20220119 | SeeYouCM Thief - 思科电话系统的常见错误配置问题以及对应的安全影响 | https://www.trustedsec.com/blog/seeyoucm-thief-exploiting-common-misconfigurations-in-cisco-phone-systems/| 
 
 
 # 安全维基 推荐

@@ -14,6 +14,7 @@
 | 20220123 | McAfee Agent 被发现 Windows SYSTEM 本地提权漏洞 | https://threatpost.com/mcafee-bug-windows-system-privileges/177857/| 
 | 20220123 | 桌面终端安全管理软件 Zoho ManageEngine 被发现高危认证绕过漏洞（CVE-2021-44515） | https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html| 
 | 20220123 | MoonBounce: the dark side of UEFI firmware | https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/| 
+| 20220123 | Snooping on Android 12’s Privacy Dashboard. | http://thebinaryhick.blog/2022/01/22/snooping-on-android-12s-privacy-dashboard/| 
 
 
 # 安全维基 推荐
