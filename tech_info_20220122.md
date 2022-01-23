@@ -41,11 +41,11 @@
 | 20220122T22:38:00Z | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | 1 | 0| 
 | 20220122T21:36:15Z | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | 0 | 0| 
 | 20220122T19:35:15Z | Roblox exploiting GUI. | https://github.com/zilibobi/zHub | 2 | 0| 
-| 20220122T19:06:55Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 0 | 0| 
 | 20220122T17:43:46Z | Oculus Quest 2 & Kali Linux Exploit | https://github.com/georgebluff/Kali | 0 | 0| 
 | 20220122T16:27:26Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 16 | 1| 
 | 20220122T14:16:23Z | writeups of challenges in Exploit Education  | https://github.com/talsim/Exploit-Education | 0 | 0| 
 | 20220122T13:53:29Z | FiveM Exploitation Library. FiveM and Discord tool | https://github.com/ilol1337/Fivem-Exploitation-Library | 0 | 0| 
+| 20220122T12:36:36Z | Any items for index | https://github.com/xinerva/exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
