@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T13:53:32Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 6 | 3| 
+| 20220123T13:59:41Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 7 | 3| 
 | 20220123T13:30:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10635 | 1839| 
 | 20220123T13:25:18Z | Null | https://github.com/EsharkyTheGreat/Kernel-Exploitation | 0 | 0| 
 | 20220123T13:19:48Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
