@@ -31,7 +31,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T13:18:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4338 | 142| 
+| 20220123T13:22:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4339 | 142| 
 | 20220123T13:06:17Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 245 | 15| 
 
 
@@ -43,6 +43,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220123T13:19:48Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
+| 20220123T13:17:35Z | Null | https://github.com/EsharkyTheGreat/Kernel-Exploitation | 0 | 0| 
 | 20220123T13:11:50Z | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | 0 | 0| 
 | 20220123T13:10:22Z | DehoodExploit | https://github.com/Vreslia/DehoodExploit | 0 | 0| 
 | 20220123T12:39:17Z | Python for exploits. | https://github.com/BrianBarakaKasamba/Offensive-Python | 0 | 0| 
@@ -51,8 +53,6 @@
 | 20220123T11:52:12Z | This is a small repo with templates on binary exploitation | https://github.com/Panagiotis-INS/Pwn-Star | 0 | 0| 
 | 20220123T11:02:15Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 6 | 3| 
 | 20220123T10:50:05Z | UD fortnite external cheat, uisng leaked drivers, has cool exploits, aim,esp | https://github.com/UDFreeCheats/UD-RN-External-fortnite-cheat- | 0 | 0| 
-| 20220123T10:37:05Z | A brute force prevention for numerous dupe exploits via disabling Quick-Swapping | https://github.com/ace10102/Swapper-No-Swapping | 0 | 0| 
-| 20220123T05:46:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 45 | 20| 
 
 
 # backdoor on Github 推荐
