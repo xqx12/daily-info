@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220123T02:31:14Z | Brute force prevention for numerous dupe exploits via disabling quickswapping | https://github.com/ace10102/QuickStop | 0 | 0| 
 | 20220123T02:18:31Z | http://ps4h3x.zd.lu/store | https://github.com/upal212/pkg-store | 15 | 1| 
 | 20220123T01:11:20Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 0 | 0| 
 | 20220123T00:12:07Z | A collection of tools and exploits written and used for WPA2/3 vulnerability analysis | https://github.com/ONeT-Github/ISAC317 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220122T22:38:00Z | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | 1 | 0| 
 | 20220122T21:36:15Z | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | 0 | 0| 
 | 20220122T19:35:15Z | Roblox exploiting GUI. | https://github.com/zilibobi/zHub | 2 | 0| 
-| 20220122T17:43:46Z | Oculus Quest 2 & Kali Linux Exploit | https://github.com/georgebluff/Kali | 0 | 0| 
 
 
 # backdoor on Github 推荐
