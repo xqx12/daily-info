@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T13:09:41Z | DehoodExploit | https://github.com/Vreslia/DehoodExploit | 0 | 0| 
+| 20220123T13:10:22Z | DehoodExploit | https://github.com/Vreslia/DehoodExploit | 0 | 0| 
 | 20220123T13:05:31Z | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | 0 | 0| 
 | 20220123T12:39:17Z | Python for exploits. | https://github.com/BrianBarakaKasamba/Offensive-Python | 0 | 0| 
 | 20220123T12:31:08Z | Exploit Insecure Firebase Directly | https://github.com/Shuvamoy/TinyFireExploiter | 0 | 0| 
