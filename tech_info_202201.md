@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220123T13:09:41Z | DehoodExploit | https://github.com/Vreslia/DehoodExploit | 0 | 0| 
 | 20220123T13:05:31Z | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | 0 | 0| 
 | 20220123T12:39:17Z | Python for exploits. | https://github.com/BrianBarakaKasamba/Offensive-Python | 0 | 0| 
 | 20220123T12:31:08Z | Exploit Insecure Firebase Directly | https://github.com/Shuvamoy/TinyFireExploiter | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220123T10:50:05Z | UD fortnite external cheat, uisng leaked drivers, has cool exploits, aim,esp | https://github.com/UDFreeCheats/UD-RN-External-fortnite-cheat- | 0 | 0| 
 | 20220123T10:37:05Z | A brute force prevention for numerous dupe exploits via disabling Quick-Swapping | https://github.com/ace10102/Swapper-No-Swapping | 0 | 0| 
 | 20220123T05:46:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 45 | 20| 
-| 20220123T03:29:28Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6282 | 1478| 
 
 
 # backdoor on Github 推荐
