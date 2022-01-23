@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T12:42:32Z | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | 0 | 0| 
+| 20220123T13:05:31Z | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | 0 | 0| 
 | 20220123T12:39:17Z | Python for exploits. | https://github.com/BrianBarakaKasamba/Offensive-Python | 0 | 0| 
 | 20220123T12:31:08Z | Exploit Insecure Firebase Directly | https://github.com/Shuvamoy/TinyFireExploiter | 0 | 0| 
 | 20220123T12:20:14Z | ShellsHock Zaafiyeti İçin Exploit Aracı | https://github.com/ASER-VANT/ShellsHock | 0 | 1| 
