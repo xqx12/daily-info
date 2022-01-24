@@ -23,6 +23,7 @@
 | 20220124 | SecWiki周刊（第412期) | https://www.sec-wiki.com/weekly/412| 
 | 20220124 | 内网代理工具与检测方法研究 | https://mp.weixin.qq.com/s/N2HL89HAHv0OmLrB3AGHSQ| 
 | 20220124 | 狩猎样本的哈希游戏 | https://mp.weixin.qq.com/s/7WrlFUepch6JhU2NhdSyJw| 
+| 20220124 | 初探node.js相关之原型链污染 | https://xz.aliyun.com/t/10809| 
 
 
 # CVE Github 推荐

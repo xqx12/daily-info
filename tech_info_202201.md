@@ -35,12 +35,12 @@
 | 20220124 | SecWiki周刊（第412期) | https://www.sec-wiki.com/weekly/412| 
 | 20220124 | 内网代理工具与检测方法研究 | https://mp.weixin.qq.com/s/N2HL89HAHv0OmLrB3AGHSQ| 
 | 20220124 | 狩猎样本的哈希游戏 | https://mp.weixin.qq.com/s/7WrlFUepch6JhU2NhdSyJw| 
+| 20220124 | 初探node.js相关之原型链污染 | https://xz.aliyun.com/t/10809| 
 | 20220121 | 自动化渗透-DeepExploit框架深度分析 | https://mp.weixin.qq.com/s/Kab4A-ReHIZ5AhZq4Qac8A| 
 | 20220120 | 浅析现代企业网络安全架构 | https://mp.weixin.qq.com/s/Ye6-H5d894wD2E6C8uYRSg| 
 | 20220119 | 2021年全球DDoS威胁报告 | http://blog.nsfocus.net/wp-content/uploads/2022/01/DDoS-NSFOCUS.pdf| 
 | 20220119 | 谁动了我的DevOps：DevOps风险测绘 | https://mp.weixin.qq.com/s/WYZHx1a-_zSn1nJG5AKoWw| 
 | 20220119 | 基于上下文感知计算的APT攻击组织追踪方法 | https://mp.weixin.qq.com/s/Ca-6jNJadDu0qp5e_Bwj2A| 
-| 20220118 | 以色列“飞马”间谍软件攻击事件的综合分析 | https://mp.weixin.qq.com/s/T2pO8ZiW-c1MDk9LnsteTg| 
 
 
 # CVE Github 推荐
