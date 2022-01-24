@@ -75,6 +75,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220123T15:16:48Z | Symbolic Dynamic Memory Allocation for Symbolic Execution | https://github.com/AnonyGiit/SymAlloc | 0 | 0| 
 | 20220123T07:47:15Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 12 | 5| 
 | 20220123T03:46:28Z | Null | https://github.com/williamberman/evm-symbolic-execution | 12 | 0| 
 
