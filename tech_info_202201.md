@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T13:55:54Z | Null | https://github.com/Anderson-Xia/JS_Engine_Fuzzing_Corpus | 0 | 0| 
 | 20220124T13:33:02Z | Null | https://github.com/Cod-cypher/fuzzy-waddle | 1 | 0| 
 | 20220124T13:02:46Z | Null | https://github.com/arnaudpilato/fuzzy-funicular | 0 | 0| 
 | 20220124T12:45:40Z | Simple HTTP server for sending GUTI to Dolphin Fuzzer | https://github.com/IshayBen/httpServer4DolphinGuti | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20220124T10:17:32Z | Null | https://github.com/Kaspyy/fuzzy-sets-numpy | 0 | 0| 
 | 20220124T10:01:09Z | Null | https://github.com/coder-yunyi/fuzzy-garbanzo | 0 | 0| 
 | 20220124T09:48:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3896 | 917| 
-| 20220124T09:28:11Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 670 | 142| 
 
 
 
