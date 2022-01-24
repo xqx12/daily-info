@@ -86,7 +86,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T23:00:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2408 | 472| 
 | 20220123T22:48:11Z | Testing out fuzzy matching with wasm | https://github.com/mthelm85/fuzzy-linker-wasm | 0 | 0| 
 | 20220123T15:45:55Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 2 | 0| 
 | 20220123T13:41:27Z | Use Jazzer to perform fuzzy testing of antlr v4 | https://github.com/centic9/antlr-fuzz | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20220123T12:50:11Z | Null | https://github.com/Akshay1006/Fuzzy_match | 0 | 0| 
 | 20220123T12:12:13Z | Mini project in Fuzzy at AGH UST | https://github.com/gregori0o/psi-fuzzy | 0 | 0| 
 | 20220123T12:01:30Z | Реализация нечеткого контроллера на Rust | https://github.com/Ares566/rust_fuzzy_controller | 0 | 0| 
+| 20220123T11:25:49Z | Null | https://github.com/Fbrido28/fuzzy-memory | 0 | 0| 
 
 
 

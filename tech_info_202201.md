@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T01:40:20Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4284 | 574| 
 | 20220123T23:18:24Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 17 | 1| 
 | 20220123T23:11:25Z | BEFORE U FINNA SAY SOMETHING iIGizMonster11I AND MysteryWasFound ARE THE SAME PERSON! | https://github.com/MysteryWasFound/Auto-Rap-Battles-Exploit-Beta | 0 | 0| 
 | 20220123T20:00:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10636 | 1839| 
@@ -99,7 +100,6 @@
 | 20220123T14:04:03Z | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | 0 | 0| 
 | 20220123T13:59:41Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 7 | 3| 
 | 20220123T13:25:18Z | Null | https://github.com/EsharkyTheGreat/Kernel-Exploitation | 0 | 0| 
-| 20220123T13:19:48Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -150,9 +150,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T01:40:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2409 | 472| 
 | 20220124T00:56:08Z | Null | https://github.com/mikealeixogf/logic_fuzzy | 0 | 0| 
 | 20220124T00:05:46Z | Solidity contracts and tests used to benchmark performance of fuzzers | https://github.com/mds1/solidity-fuzzing-benchmarks | 1 | 0| 
-| 20220123T23:00:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2408 | 472| 
 | 20220123T22:48:11Z | Testing out fuzzy matching with wasm | https://github.com/mthelm85/fuzzy-linker-wasm | 0 | 0| 
 | 20220123T15:45:55Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 2 | 0| 
 | 20220123T13:41:27Z | Use Jazzer to perform fuzzy testing of antlr v4 | https://github.com/centic9/antlr-fuzz | 0 | 0| 
