@@ -105,8 +105,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220124T01:59:37Z | Qlutch backdoor plugin now open src | https://github.com/Minecraft-Force-Op/Qlutch | 5 | 7| 
-| 20220124T00:05:19Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 58 | 12| 
+| 20220124T11:00:52Z | Qlutch backdoor plugin now open src | https://github.com/Minecraft-Force-Op/Qlutch | 7 | 8| 
+| 20220124T09:29:31Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 62 | 12| 
+| 20220124T07:04:54Z | Backdoor en Python 3+ | https://github.com/JkDevArg/b4ckd00r_Py | 0 | 0| 
 | 20220123T16:04:03Z | sysjoker  backdoor hunt with yara and osquery | https://github.com/j4ckzh0u/sysjoker-hunt | 0 | 0| 
 | 20220123T15:18:07Z | Null | https://github.com/boez1111/backdoor | 0 | 0| 
 | 20220123T10:03:47Z | Null | https://github.com/BobDaGithubAccount/backdoorConfig | 0 | 0| 
@@ -114,22 +115,21 @@
 | 20220123T01:37:40Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 54 | 7| 
 | 20220122T21:07:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1546 | 378| 
 | 20220122T19:53:38Z | windows 11, 10 persistent backdoor  | https://github.com/DioBruh/backdoor-windows | 8 | 1| 
-| 20220122T14:02:08Z | Null | https://github.com/whorahul/PHP-Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T04:54:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 196 | 43| 
 | 20220123T15:16:48Z | Symbolic Dynamic Memory Allocation for Symbolic Execution | https://github.com/AnonyGiit/SymAlloc | 0 | 0| 
 | 20220123T07:47:15Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 12 | 5| 
 | 20220123T03:46:28Z | Null | https://github.com/williamberman/evm-symbolic-execution | 12 | 0| 
 | 20220122T18:01:26Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1969 | 407| 
 | 20220122T15:36:47Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 206 | 53| 
-| 20220122T12:19:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2659 | 395| 
+| 20220122T12:19:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2659 | 396| 
 | 20220121T18:39:30Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 | 20220121T18:39:11Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 48 | 3| 
 | 20220121T01:47:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1871 | 532| 
-| 20220120T16:28:38Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 169 | 37| 
 
 
 # big4 on Github 推荐
@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T13:02:46Z | Null | https://github.com/arnaudpilato/fuzzy-funicular | 0 | 0| 
 | 20220124T12:45:40Z | Simple HTTP server for sending GUTI to Dolphin Fuzzer | https://github.com/IshayBen/httpServer4DolphinGuti | 0 | 0| 
 | 20220124T12:37:59Z | Null | https://github.com/MaSobkowiak/FuzzyMovieRecomendations | 0 | 0| 
 | 20220124T11:37:38Z | Null | https://github.com/ZeroIsntNull/FuzzyLogic1 | 0 | 0| 
@@ -159,7 +160,6 @@
 | 20220124T09:48:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3896 | 917| 
 | 20220124T09:28:11Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 670 | 142| 
 | 20220124T06:40:49Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1126 | 86| 
-| 20220124T02:48:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2410 | 472| 
 
 
 

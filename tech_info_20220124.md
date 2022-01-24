@@ -70,13 +70,15 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220124T01:59:37Z | Qlutch backdoor plugin now open src | https://github.com/Minecraft-Force-Op/Qlutch | 5 | 7| 
-| 20220124T00:05:19Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 58 | 12| 
+| 20220124T11:00:52Z | Qlutch backdoor plugin now open src | https://github.com/Minecraft-Force-Op/Qlutch | 7 | 8| 
+| 20220124T09:29:31Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 62 | 12| 
+| 20220124T07:04:54Z | Backdoor en Python 3+ | https://github.com/JkDevArg/b4ckd00r_Py | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T04:54:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 196 | 43| 
 
 
 # big4 on Github 推荐
@@ -87,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T13:02:46Z | Null | https://github.com/arnaudpilato/fuzzy-funicular | 0 | 0| 
 | 20220124T12:45:40Z | Simple HTTP server for sending GUTI to Dolphin Fuzzer | https://github.com/IshayBen/httpServer4DolphinGuti | 0 | 0| 
 | 20220124T12:37:59Z | Null | https://github.com/MaSobkowiak/FuzzyMovieRecomendations | 0 | 0| 
 | 20220124T11:37:38Z | Null | https://github.com/ZeroIsntNull/FuzzyLogic1 | 0 | 0| 
@@ -96,7 +99,6 @@
 | 20220124T09:48:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3896 | 917| 
 | 20220124T09:28:11Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 670 | 142| 
 | 20220124T06:40:49Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1126 | 86| 
-| 20220124T02:48:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2410 | 472| 
 
 
 
