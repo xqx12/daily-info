@@ -150,6 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T01:52:07Z | Null | https://github.com/Abdoulaye3/fuzzy-octo-engine | 0 | 0| 
 | 20220124T01:40:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2409 | 472| 
 | 20220124T00:56:08Z | Null | https://github.com/mikealeixogf/logic_fuzzy | 0 | 0| 
 | 20220124T00:05:46Z | Solidity contracts and tests used to benchmark performance of fuzzers | https://github.com/mds1/solidity-fuzzing-benchmarks | 1 | 0| 
@@ -159,7 +160,6 @@
 | 20220123T13:00:45Z | Scenario-based fuzzing test execution tool%s scenario library | https://github.com/shfz/shfzlib | 1 | 0| 
 | 20220123T13:00:38Z | Scenario-based fuzzing test execution tool for web applications | https://github.com/shfz/shfz | 2 | 0| 
 | 20220123T12:59:59Z | Performance Review - Build a 3d web-based game using Ruby and Ruby on Rails | https://github.com/amiranazri/wtc-fuzzy-succotash | 0 | 0| 
-| 20220123T12:50:11Z | Null | https://github.com/Akshay1006/Fuzzy_match | 0 | 0| 
 
 
 
