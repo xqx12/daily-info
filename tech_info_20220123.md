@@ -62,7 +62,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T23:14:56Z | Qlutch backdoor plugin now open src | https://github.com/Minecraft-Force-Op/Qlutch | 4 | 6| 
 | 20220123T16:04:03Z | sysjoker  backdoor hunt with yara and osquery | https://github.com/j4ckzh0u/sysjoker-hunt | 0 | 0| 
 | 20220123T15:18:07Z | Null | https://github.com/boez1111/backdoor | 0 | 0| 
 | 20220123T10:03:47Z | Null | https://github.com/BobDaGithubAccount/backdoorConfig | 0 | 0| 
