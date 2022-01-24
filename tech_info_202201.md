@@ -150,8 +150,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T02:48:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2410 | 472| 
 | 20220124T01:52:07Z | Null | https://github.com/Abdoulaye3/fuzzy-octo-engine | 0 | 0| 
-| 20220124T01:40:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2409 | 472| 
 | 20220124T00:56:08Z | Null | https://github.com/mikealeixogf/logic_fuzzy | 0 | 0| 
 | 20220124T00:05:46Z | Solidity contracts and tests used to benchmark performance of fuzzers | https://github.com/mds1/solidity-fuzzing-benchmarks | 1 | 0| 
 | 20220123T22:48:11Z | Testing out fuzzy matching with wasm | https://github.com/mthelm85/fuzzy-linker-wasm | 0 | 0| 
