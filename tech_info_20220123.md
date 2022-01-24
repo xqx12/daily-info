@@ -53,7 +53,7 @@
 | 20220123T16:50:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8678 | 1484| 
 | 20220123T16:04:14Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 293 | 90| 
 | 20220123T14:04:03Z | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | 0 | 0| 
-| 20220123T13:59:41Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 7 | 3| 
+| 20220123T13:59:41Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 7 | 4| 
 | 20220123T13:25:18Z | Null | https://github.com/EsharkyTheGreat/Kernel-Exploitation | 0 | 0| 
 | 20220123T13:19:48Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
 | 20220123T13:11:50Z | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | 0 | 0| 
