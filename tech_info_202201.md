@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220123T16:18:55Z | CVE-2021-44228 | POC for Infamous Log4j CVE-2021-44228 | https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC | | 
+| 20220123T16:01:49Z | CVE-2022-22852 | Null | https://github.com/Sant268/CVE-2022-22852 | | 
+| 20220123T16:01:26Z | CVE-2022-22851 | Null | https://github.com/Sant268/CVE-2022-22851 | | 
+| 20220123T16:00:34Z | CVE-2022-22850 | Null | https://github.com/Sant268/CVE-2022-22850 | | 
+| 20220123T14:26:52Z | CVE-2022-21907 | CVE-2022-21907 Vulnerability PoC | https://github.com/michelep/CVE-2022-21907-Vulnerability-PoC | | 
 | 20220123T12:43:36Z | CVE-2021-1732 | 对1909下windows版本的EXP进行分析，并对代码添加调试和注释 | https://github.com/ExploitCN/CVE-2021-1732-EXP- | | 
 | 20220123T10:28:37Z | CVE-2021-22204 | Null | https://github.com/LazyTitan33/CVE-2021-22204 | | 
 | 20220122T12:21:28Z | CVE-2022- | test 反向辣鸡数据投放 CVE-2022-23305 工具 利用 教程 Exploit POC  | https://github.com/AlphabugX/CVE-2022-RCE | | 
 | 20220122T05:41:19Z | CVE-2021-32099 | CVE-2021-32099 SQLi allow attacker bypass login. From HTB with love | https://github.com/l3eol3eo/CVE-2021-32099_SQLi | | 
 | 20220121T09:29:21Z | CVE-2022-22296 | All Details about CVE-2022-22296 | https://github.com/vlakhani28/CVE-2022-22296 | | 
-| 20220121T08:48:42Z | CVE-2021-44593 | Public disclosure & writeup of CVE-2021-44593. | https://github.com/Mister-Joe/CVE-2021-44593 | | 
-| 20220121T06:10:05Z | cve-2022-21658 | POC for cve-2022-21658 | https://github.com/sagittarius-a/cve-2022-21658 | | 
-| 20220121T02:38:10Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | https://github.com/antx-code/CVE-2022-21907 | | 
-| 20220121T01:31:17Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | | 
-| 20220120T23:56:00Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220123T13:54:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4340 | 142| 
-| 20220123T13:06:17Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 245 | 15| 
+| 20220123T23:14:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4356 | 142| 
+| 20220123T21:17:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 246 | 16| 
 | 20220122T19:07:42Z | Config files for my GitHub profile. | https://github.com/klee3333/klee3333 | 0 | 0| 
 | 20220121T22:53:28Z | Null | https://github.com/fedorgrab/klee-frontend | 0 | 0| 
 | 20220121T13:55:54Z | woo | https://github.com/xinrachel30/kleex | 1 | 0| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220123T23:18:24Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 17 | 1| 
+| 20220123T23:11:25Z | BEFORE U FINNA SAY SOMETHING iIGizMonster11I AND MysteryWasFound ARE THE SAME PERSON! | https://github.com/MysteryWasFound/Auto-Rap-Battles-Exploit-Beta | 0 | 0| 
+| 20220123T20:00:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10636 | 1839| 
+| 20220123T18:49:52Z | My exploit for ClipBucket v4.0 unauthenticated file upload to RCE | https://github.com/N3H4L/ClipBucket-v4.0-RCE | 0 | 0| 
+| 20220123T16:50:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8678 | 1484| 
+| 20220123T16:04:14Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 293 | 90| 
 | 20220123T14:04:03Z | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | 0 | 0| 
 | 20220123T13:59:41Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 7 | 3| 
-| 20220123T13:30:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10635 | 1839| 
 | 20220123T13:25:18Z | Null | https://github.com/EsharkyTheGreat/Kernel-Exploitation | 0 | 0| 
 | 20220123T13:19:48Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 2 | 0| 
-| 20220123T13:11:50Z | Website for Exploiter | https://github.com/Dani-Hacker/exploiter-web | 0 | 0| 
-| 20220123T13:10:22Z | DehoodExploit | https://github.com/Vreslia/DehoodExploit | 0 | 0| 
-| 20220123T12:39:17Z | Python for exploits. | https://github.com/BrianBarakaKasamba/Offensive-Python | 0 | 0| 
-| 20220123T12:31:08Z | Exploit Insecure Firebase Directly | https://github.com/Shuvamoy/TinyFireExploiter | 0 | 0| 
-| 20220123T12:20:14Z | ShellsHock Zaafiyeti İçin Exploit Aracı | https://github.com/ASER-VANT/ShellsHock | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T00:05:19Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 58 | 12| 
+| 20220123T23:14:56Z | Qlutch backdoor plugin now open src | https://github.com/Minecraft-Force-Op/Qlutch | 4 | 6| 
+| 20220123T16:04:03Z | sysjoker  backdoor hunt with yara and osquery | https://github.com/j4ckzh0u/sysjoker-hunt | 0 | 0| 
+| 20220123T15:18:07Z | Null | https://github.com/boez1111/backdoor | 0 | 0| 
 | 20220123T10:03:47Z | Null | https://github.com/BobDaGithubAccount/backdoorConfig | 0 | 0| 
 | 20220123T03:38:10Z | an undetectable SSH backdoor, as described in http://resources.infosecinstitute.com/creating-undetectable-custom-ssh-… | https://github.com/kay2xqsh/grassmeight | 0 | 0| 
 | 20220123T01:37:40Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 54 | 7| 
 | 20220122T21:07:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1546 | 378| 
 | 20220122T19:53:38Z | windows 11, 10 persistent backdoor  | https://github.com/DioBruh/backdoor-windows | 8 | 1| 
 | 20220122T14:02:08Z | Null | https://github.com/whorahul/PHP-Backdoors | 0 | 0| 
-| 20220122T13:17:42Z | Null | https://github.com/TheCoder-de/Backdoor | 1 | 0| 
-| 20220122T12:08:41Z | A backdoor finder. | https://github.com/Errors-Utility/Unnamed-Backdoor-Finder | 0 | 0| 
-| 20220122T04:12:35Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 494 | 61| 
-| 20220122T02:35:12Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 55 | 12| 
 
 
 # symbolic execution on Github 推荐
@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T00:56:08Z | Null | https://github.com/mikealeixogf/logic_fuzzy | 0 | 0| 
+| 20220124T00:05:46Z | Solidity contracts and tests used to benchmark performance of fuzzers | https://github.com/mds1/solidity-fuzzing-benchmarks | 1 | 0| 
+| 20220123T23:00:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2408 | 472| 
+| 20220123T22:48:11Z | Testing out fuzzy matching with wasm | https://github.com/mthelm85/fuzzy-linker-wasm | 0 | 0| 
+| 20220123T15:45:55Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 2 | 0| 
 | 20220123T13:41:27Z | Use Jazzer to perform fuzzy testing of antlr v4 | https://github.com/centic9/antlr-fuzz | 0 | 0| 
 | 20220123T13:00:45Z | Scenario-based fuzzing test execution tool%s scenario library | https://github.com/shfz/shfzlib | 1 | 0| 
 | 20220123T13:00:38Z | Scenario-based fuzzing test execution tool for web applications | https://github.com/shfz/shfz | 2 | 0| 
 | 20220123T12:59:59Z | Performance Review - Build a 3d web-based game using Ruby and Ruby on Rails | https://github.com/amiranazri/wtc-fuzzy-succotash | 0 | 0| 
 | 20220123T12:50:11Z | Null | https://github.com/Akshay1006/Fuzzy_match | 0 | 0| 
-| 20220123T12:12:13Z | Mini project in Fuzzy at AGH UST | https://github.com/gregori0o/psi-fuzzy | 0 | 0| 
-| 20220123T12:01:30Z | Реализация нечеткого контроллера на Rust | https://github.com/Ares566/rust_fuzzy_controller | 0 | 0| 
-| 20220123T11:25:49Z | Null | https://github.com/Fbrido28/fuzzy-memory | 0 | 0| 
-| 20220123T11:17:16Z | Null | https://github.com/MeloneFlier/fuzzy-octo-adventure | 0 | 0| 
-| 20220123T09:36:58Z | Null | https://github.com/asieriko/fuzzyperceptron | 0 | 0| 
 
 
 
