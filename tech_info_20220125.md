@@ -14,6 +14,7 @@
 | 20220125 | r3kapig 战队写的 RealWorld CTF 比赛 writeup | https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483688&idx=1&sn=06d1bbdeb3d86ec548358dacfa0cce7f| 
 | 20220125 | Check Point 发现，近期有网络诈骗人员利用假 Token 从受害者智能合约中窃取钱财 | http://research.checkpoint.com/2022/scammers-are-creating-new-fraudulent-crypto-tokens-and-misconfiguring-smart-contracts-to-steal-funds/| 
 | 20220125 | CVE-2021-33742：Internet Explorer MSHTML堆越界写漏洞分析 | http://blog.topsec.com.cn/cve-2021-33742-analysis_of_internet_explorer_mshtml_heap_out-of-bounds_write_vulnerability/| 
+| 20220125 | JAVA反序列化之C3P0. | https://tttang.com/archive/1411/| 
 
 
 # 安全维基 推荐
