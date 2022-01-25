@@ -93,6 +93,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220125T13:24:09Z | Reproduce public CVE vulnerability notes | https://github.com/furuanruan/Exploit | 0 | 0| 
 | 20220125T13:04:53Z | Comandos para hacer tu host en kali linux que te puede servir para meterte en otros ordenadores windows | https://github.com/Ocell248/Exploit-Information | 0 | 0| 
+| 20220125T12:45:16Z | Sherlock and Watson exploit check against Windows Exploit Suggester NG (WesNG) | https://github.com/d-lan2/SawNG | 0 | 0| 
 | 20220125T10:55:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10646 | 1841| 
 | 20220125T10:51:13Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 145 | 96| 
 | 20220125T10:51:12Z | Null | https://github.com/WhiteMCWizard/discord-exploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220125T09:25:06Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1051 | 250| 
 | 20220125T08:59:11Z | Ares %Low Profile Injection% POC, exploits a flaw in Windows to inject Dynamically linked libraries without any notice. | https://github.com/0xfaer/ares-lpi | 0 | 0| 
 | 20220125T08:37:05Z | Knowledge base of exploit mitigations available across numerous  operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | 463 | 52| 
-| 20220125T06:43:54Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 690 | 167| 
 
 
 # backdoor on Github 推荐
