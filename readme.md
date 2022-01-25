@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220125T13:24:08Z | Null | https://github.com/AnaghHegde/fuzzy-broccoli | 0 | 0| 
 | 20220125T13:08:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7035 | 1483| 
 | 20220125T12:49:24Z | Null | https://github.com/Hvbisjwkd/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20220125T11:33:26Z | Null | https://github.com/jmoralesblink/fuzzy-guide | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20220125T10:41:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 749 | 74| 
 | 20220125T09:40:49Z | Null | https://github.com/Harshyadav14/Outlier-Detection-Techniques-Based-on-Fuzzy-Clustering-using-python | 0 | 0| 
 | 20220125T09:38:00Z | Realme | https://github.com/Razwanshah/fuzzy-funicular | 0 | 0| 
-| 20220125T09:16:24Z | Null | https://github.com/khadas/android_external_oss-fuzz | 0 | 0| 
 
 
 
