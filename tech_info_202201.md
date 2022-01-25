@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220125 | JavaScript Raider - JavaScript Fuzzing framework for v8 | https://github.com/freingruber/JavaScript-Raider| 
+| 20220125 | Realworld CTF 比赛中 Qiling Sandbox Escape 题的 writeup | http://www.kalmarunionen.dk/writeups/2022/rwctf/qlaas/| 
+| 20220125 | 企业打印机管理软件 PrinterLogic 被发现多个 RCE 高危漏洞 | https://www.yahooinc.com/paranoids/paranoids-vulnerability-research-printerlogic-issues-security-alert/| 
+| 20220125 | Sliver - 攻击行为模拟框架 | https://github.com/BishopFox/sliver/releases/tag/v1.4.9| 
+| 20220125 | 复现基于 eBPF 实现的 Docker 逃逸 | https://drivertom.blogspot.com/2022/01/ebpfdocker.html| 
+| 20220125 | r3kapig 战队写的 RealWorld CTF 比赛 writeup | https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247483688&idx=1&sn=06d1bbdeb3d86ec548358dacfa0cce7f| 
+| 20220125 | Check Point 发现，近期有网络诈骗人员利用假 Token 从受害者智能合约中窃取钱财 | http://research.checkpoint.com/2022/scammers-are-creating-new-fraudulent-crypto-tokens-and-misconfiguring-smart-contracts-to-steal-funds/| 
+| 20220125 | CVE-2021-33742：Internet Explorer MSHTML堆越界写漏洞分析 | http://blog.topsec.com.cn/cve-2021-33742-analysis_of_internet_explorer_mshtml_heap_out-of-bounds_write_vulnerability/| 
 | 20220124 | Cisco StarOS 被发现 RCE 漏洞 | https://gbhackers.com/cisco-staros-flaw/| 
 | 20220124 | 静态程序分析入门教程 | https://github.com/RangerNJU/Static-Program-Analysis-Book| 
 | 20220124 | Certipy - Python implementation for Active Directory certificate abuse | https://github.com/ly4k/Certipy| 
@@ -18,14 +26,6 @@
 | 20220124 | CVE-2021-33742：Internet Explorer MSHTML 堆越界写漏洞分析. | https://paper.seebug.org/1819/| 
 | 20220124 | 如何阅读源码与模糊测试方法学习资料。 | https://github.com/hardik05/Source-and-Fuzzing| 
 | 20220124 | Cobalt Strike, a Defender’s Guide – Part 2 | https://thedfirreport.com/2022/01/24/cobalt-strike-a-defenders-guide-part-2/| 
-| 20220123 | AFLTeam - AFLTeam: Towards Systematic and Dynamic Task Allocation for Collaborative Parallel Fuzzing | https://github.com/MelbourneFuzzingHub/aflteam| 
-| 20220123 | Contiki OS 系统 IoT 设备取证分析之数据还原 | https://www.forensicfocus.com/webinars/coffee-forensics-reconstructing-data-in-iot-devices-running-contiki-os/| 
-| 20220123 | CVE-2021-45467: CWP CentOS Web Panel – preauth RCE | https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/| 
-| 20220123 | Rust 发布安全公告，std::fs::remove_dir_all 标准库函数存在条件竞争漏洞 (CVE-2022-21658) | http://blog.rust-lang.org/2022/01/20/cve-2022-21658.html| 
-| 20220123 | 2232 - XNU kernel use-after-free in mach_msg - project-zero | https://bugs.chromium.org/p/project-zero/issues/detail?id=2232| 
-| 20220123 | McAfee Agent 被发现 Windows SYSTEM 本地提权漏洞 | https://threatpost.com/mcafee-bug-windows-system-privileges/177857/| 
-| 20220123 | 桌面终端安全管理软件 Zoho ManageEngine 被发现高危认证绕过漏洞（CVE-2021-44515） | https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html| 
-| 20220123 | MoonBounce: the dark side of UEFI firmware | https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/| 
 
 
 # 安全维基 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220125T10:55:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10646 | 1841| 
+| 20220125T10:51:13Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 145 | 96| 
+| 20220125T10:51:12Z | Null | https://github.com/WhiteMCWizard/discord-exploits | 0 | 0| 
+| 20220125T09:53:05Z | Counter-Strike: Global Offensive lag exploit from a private cheat of mine, I have removed some key parts but if you are dedicated, you can fix it. | https://github.com/0xfaer/csgo-lag-exploit | 0 | 0| 
+| 20220125T09:25:06Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1051 | 250| 
+| 20220125T08:59:11Z | Ares %Low Profile Injection% POC, exploits a flaw in Windows to inject Dynamically linked libraries without any notice. | https://github.com/0xfaer/ares-lpi | 0 | 0| 
+| 20220125T08:37:05Z | Knowledge base of exploit mitigations available across numerous  operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | 463 | 52| 
+| 20220125T06:43:54Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 690 | 167| 
 | 20220125T02:37:52Z | roblox exploit git repos. | https://github.com/00FB00P/Ignify | 0 | 0| 
-| 20220125T00:14:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10644 | 1840| 
 | 20220125T00:11:06Z | Book hacking the art of exploitation source code | https://github.com/Webins/Hacking_The_Art_Of_Exploitation | 1 | 0| 
-| 20220124T23:52:02Z | a C++ implementation of a Boosted Decision Tree Neural Network exploiting ROOT Classes | https://github.com/LeeoBianchi/BDT_NeuralNetwork | 0 | 0| 
-| 20220124T23:08:46Z | Null | https://github.com/Adomas-Alimas/EdukaExploits | 0 | 0| 
-| 20220124T22:42:27Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1047 | 384| 
-| 20220124T22:32:38Z | Tool to automate the looting-swap exploit on the minecraft-server GrieferGames. | https://github.com/Pleezon/Bonze.cc | 0 | 0| 
-| 20220124T22:15:54Z | Null | https://github.com/lexisrepo/Linux-Exploitation | 0 | 0| 
-| 20220124T22:15:21Z | Null | https://github.com/lexisrepo/Windows-Exploitation | 0 | 0| 
-| 20220124T21:47:22Z | A chest wich can be arranged and add diferent types of items and exploit the space in the chest | https://github.com/Ismaaaaaa/Cofre | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220125T01:53:37Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 1 | 0| 
+| 20220125T12:31:01Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 63 | 12| 
+| 20220125T10:21:50Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 3 | 1| 
+| 20220125T10:18:38Z | Backdoor Lnk Obfuscated Macro Hidden Developed by 4po. | https://github.com/4po/BackdoorObfuscated | 2 | 2| 
 | 20220124T23:55:47Z | Testing malware for the windows os | https://github.com/Webins/windows-backdoor | 1 | 0| 
 | 20220124T11:00:52Z | Qlutch backdoor plugin now open src | https://github.com/Minecraft-Force-Op/Qlutch | 7 | 8| 
-| 20220124T09:29:31Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 62 | 12| 
 | 20220124T07:04:54Z | Backdoor en Python 3+ | https://github.com/JkDevArg/b4ckd00r_Py | 0 | 0| 
 | 20220123T16:04:03Z | sysjoker  backdoor hunt with yara and osquery | https://github.com/j4ckzh0u/sysjoker-hunt | 0 | 0| 
 | 20220123T15:18:07Z | Null | https://github.com/boez1111/backdoor | 0 | 0| 
 | 20220123T10:03:47Z | Null | https://github.com/BobDaGithubAccount/backdoorConfig | 0 | 0| 
 | 20220123T09:29:37Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 42 | 13| 
-| 20220123T03:38:10Z | an undetectable SSH backdoor, as described in http://resources.infosecinstitute.com/creating-undetectable-custom-ssh-… | https://github.com/kay2xqsh/grassmeight | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -136,9 +136,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220125T07:07:19Z | Implementation of paper %Proof of Storage-Time: Efficiently Checking Continuous Data Availability% | https://github.com/winderica/PoST_NDSS20 | 3 | 0| 
 | 20220124T18:38:59Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 2 | 0| 
 | 20220121T04:32:41Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 33 | 8| 
-| 20220120T16:19:03Z | Implementation of paper %Proof of Storage-Time: Efficiently Checking Continuous Data Availability% | https://github.com/winderica/PoST_NDSS20 | 2 | 0| 
 | 20220118T13:38:37Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 2 | 1| 
 | 20220117T17:34:12Z | This repository contains artifacts and synthesized translations from synthCT (NDSS%22) | https://github.com/FPSG-UIUC/synthCT-artifacts | 1 | 0| 
 | 20220114T17:43:23Z | An implementation of Brick, anonymized for the NDSS 2020 paper submission | https://github.com/ndss2020-brick-submission/brick | 1 | 1| 
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220125T02:25:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7032 | 1480| 
-| 20220124T23:58:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 749 | 74| 
-| 20220124T23:51:03Z | Null | https://github.com/DanielaNC/fuzzy-garbanzo | 0 | 0| 
-| 20220124T23:38:31Z | Null | https://github.com/capricious-slingshot/fuzzy-meme | 0 | 0| 
-| 20220124T16:35:33Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1168 | 47| 
-| 20220124T13:55:54Z | Null | https://github.com/Anderson-Xia/JS_Engine_Fuzzing_Corpus | 0 | 0| 
-| 20220124T13:33:02Z | Null | https://github.com/Cod-cypher/fuzzy-waddle | 1 | 0| 
-| 20220124T13:02:46Z | Null | https://github.com/arnaudpilato/fuzzy-funicular | 0 | 0| 
-| 20220124T12:45:40Z | Simple HTTP server for sending GUTI to Dolphin Fuzzer | https://github.com/IshayBen/httpServer4DolphinGuti | 0 | 0| 
-| 20220124T12:37:59Z | Null | https://github.com/MaSobkowiak/FuzzyMovieRecomendations | 0 | 0| 
+| 20220125T12:49:24Z | Null | https://github.com/Hvbisjwkd/fuzzy-octo-rotary-phone | 0 | 0| 
+| 20220125T11:33:26Z | Null | https://github.com/jmoralesblink/fuzzy-guide | 0 | 0| 
+| 20220125T11:31:25Z | Null | https://github.com/emirybolat/fuzzy-journey | 0 | 0| 
+| 20220125T11:20:28Z | TypeScript Scenario-Based Web Application Fuzzing Framework | https://github.com/shfz/shfz | 14 | 0| 
+| 20220125T11:10:43Z | Lets you set up Java Out Of Process Fuzzing on your CI Fuzz server, without using the local installation first | https://github.com/ci-fuzz/java-oop-fuzzing-skeleton-project | 0 | 0| 
+| 20220125T10:41:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 749 | 74| 
+| 20220125T09:40:49Z | Null | https://github.com/Harshyadav14/Outlier-Detection-Techniques-Based-on-Fuzzy-Clustering-using-python | 0 | 0| 
+| 20220125T09:38:00Z | Realme | https://github.com/Razwanshah/fuzzy-funicular | 0 | 0| 
+| 20220125T09:25:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7034 | 1482| 
+| 20220125T09:16:24Z | Null | https://github.com/khadas/android_external_oss-fuzz | 0 | 0| 
 
 
 
