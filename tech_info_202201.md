@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T23:18:22Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1985 | 407| 
+| 20220124T22:06:12Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 101 | 8| 
+| 20220124T17:51:08Z | Null | https://github.com/williamberman/evm-symbolic-execution | 13 | 0| 
+| 20220124T14:18:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2660 | 396| 
 | 20220124T04:54:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 196 | 43| 
 | 20220123T15:16:48Z | Symbolic Dynamic Memory Allocation for Symbolic Execution | https://github.com/AnonyGiit/SymAlloc | 0 | 0| 
 | 20220123T07:47:15Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 12 | 5| 
-| 20220123T03:46:28Z | Null | https://github.com/williamberman/evm-symbolic-execution | 12 | 0| 
-| 20220122T18:01:26Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1969 | 407| 
 | 20220122T15:36:47Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 206 | 53| 
-| 20220122T12:19:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2659 | 396| 
 | 20220121T18:39:30Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 | 20220121T18:39:11Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 48 | 3| 
-| 20220121T01:47:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1871 | 532| 
 
 
 # big4 on Github 推荐
