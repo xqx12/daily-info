@@ -95,12 +95,12 @@
 | 20220125T00:11:06Z | Book hacking the art of exploitation source code | https://github.com/Webins/Hacking_The_Art_Of_Exploitation | 1 | 0| 
 | 20220124T23:52:02Z | a C++ implementation of a Boosted Decision Tree Neural Network exploiting ROOT Classes | https://github.com/LeeoBianchi/BDT_NeuralNetwork | 0 | 0| 
 | 20220124T23:08:46Z | Null | https://github.com/Adomas-Alimas/EdukaExploits | 0 | 0| 
+| 20220124T22:42:27Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1047 | 384| 
 | 20220124T22:32:38Z | Tool to automate the looting-swap exploit on the minecraft-server GrieferGames. | https://github.com/Pleezon/Bonze.cc | 0 | 0| 
 | 20220124T22:15:54Z | Null | https://github.com/lexisrepo/Linux-Exploitation | 0 | 0| 
 | 20220124T22:15:21Z | Null | https://github.com/lexisrepo/Windows-Exploitation | 0 | 0| 
 | 20220124T21:47:22Z | A chest wich can be arranged and add diferent types of items and exploit the space in the chest | https://github.com/Ismaaaaaa/Cofre | 0 | 0| 
 | 20220124T19:58:37Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6284 | 1477| 
-| 20220124T18:41:26Z | Please patch these | https://github.com/casualdegenerate/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
