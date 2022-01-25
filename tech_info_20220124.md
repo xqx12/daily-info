@@ -67,10 +67,10 @@
 | 20220124T22:15:54Z | Null | https://github.com/lexisrepo/Linux-Exploitation | 0 | 0| 
 | 20220124T22:15:21Z | Null | https://github.com/lexisrepo/Windows-Exploitation | 0 | 0| 
 | 20220124T21:47:22Z | A chest wich can be arranged and add diferent types of items and exploit the space in the chest | https://github.com/Ismaaaaaa/Cofre | 0 | 0| 
+| 20220124T19:58:37Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6284 | 1477| 
 | 20220124T18:41:26Z | Please patch these | https://github.com/casualdegenerate/Exploits | 0 | 0| 
 | 20220124T12:41:48Z | Null | https://github.com/Sixtinebs/exploitation-agricole | 0 | 0| 
 | 20220124T12:33:26Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 3937 | 1385| 
-| 20220124T12:28:44Z | Null | https://github.com/zzssrko/EFREI_PARIS_System_Exploitation_TP1 | 0 | 0| 
 
 
 # backdoor on Github 推荐

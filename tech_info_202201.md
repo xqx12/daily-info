@@ -99,8 +99,8 @@
 | 20220124T22:15:54Z | Null | https://github.com/lexisrepo/Linux-Exploitation | 0 | 0| 
 | 20220124T22:15:21Z | Null | https://github.com/lexisrepo/Windows-Exploitation | 0 | 0| 
 | 20220124T21:47:22Z | A chest wich can be arranged and add diferent types of items and exploit the space in the chest | https://github.com/Ismaaaaaa/Cofre | 0 | 0| 
+| 20220124T19:58:37Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6284 | 1477| 
 | 20220124T18:41:26Z | Please patch these | https://github.com/casualdegenerate/Exploits | 0 | 0| 
-| 20220124T12:41:48Z | Null | https://github.com/Sixtinebs/exploitation-agricole | 0 | 0| 
 
 
 # backdoor on Github 推荐
