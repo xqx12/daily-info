@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220125T13:34:03Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 691 | 167| 
 | 20220125T13:24:09Z | Reproduce public CVE vulnerability notes | https://github.com/furuanruan/Exploit | 0 | 0| 
 | 20220125T13:04:53Z | Comandos para hacer tu host en kali linux que te puede servir para meterte en otros ordenadores windows | https://github.com/Ocell248/Exploit-Information | 0 | 0| 
 | 20220125T12:45:16Z | Sherlock and Watson exploit check against Windows Exploit Suggester NG (WesNG) | https://github.com/d-lan2/SawNG | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220125T09:53:05Z | Counter-Strike: Global Offensive lag exploit from a private cheat of mine, I have removed some key parts but if you are dedicated, you can fix it. | https://github.com/0xfaer/csgo-lag-exploit | 0 | 0| 
 | 20220125T09:25:06Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1051 | 250| 
 | 20220125T08:59:11Z | Ares %Low Profile Injection% POC, exploits a flaw in Windows to inject Dynamically linked libraries without any notice. | https://github.com/0xfaer/ares-lpi | 0 | 0| 
-| 20220125T08:37:05Z | Knowledge base of exploit mitigations available across numerous  operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | 463 | 52| 
 
 
 # backdoor on Github 推荐
