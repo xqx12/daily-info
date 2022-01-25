@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220124T23:58:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 749 | 74| 
+| 20220124T23:51:03Z | Null | https://github.com/DanielaNC/fuzzy-garbanzo | 0 | 0| 
+| 20220124T23:38:31Z | Null | https://github.com/capricious-slingshot/fuzzy-meme | 0 | 0| 
+| 20220124T16:35:33Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1168 | 47| 
 | 20220124T13:55:54Z | Null | https://github.com/Anderson-Xia/JS_Engine_Fuzzing_Corpus | 0 | 0| 
 | 20220124T13:33:02Z | Null | https://github.com/Cod-cypher/fuzzy-waddle | 1 | 0| 
 | 20220124T13:02:46Z | Null | https://github.com/arnaudpilato/fuzzy-funicular | 0 | 0| 
 | 20220124T12:45:40Z | Simple HTTP server for sending GUTI to Dolphin Fuzzer | https://github.com/IshayBen/httpServer4DolphinGuti | 0 | 0| 
 | 20220124T12:37:59Z | Null | https://github.com/MaSobkowiak/FuzzyMovieRecomendations | 0 | 0| 
 | 20220124T11:37:38Z | Null | https://github.com/ZeroIsntNull/FuzzyLogic1 | 0 | 0| 
-| 20220124T11:20:43Z | Null | https://github.com/aillieo/EasyFuzzyLogic | 0 | 0| 
-| 20220124T10:17:32Z | Null | https://github.com/Kaspyy/fuzzy-sets-numpy | 0 | 0| 
-| 20220124T10:01:09Z | Null | https://github.com/coder-yunyi/fuzzy-garbanzo | 0 | 0| 
-| 20220124T09:48:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3896 | 917| 
 
 
 
