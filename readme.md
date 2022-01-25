@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220125T13:56:18Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6045 | 1896| 
 | 20220125T13:34:03Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 691 | 167| 
 | 20220125T13:24:09Z | Reproduce public CVE vulnerability notes | https://github.com/furuanruan/Exploit | 0 | 0| 
 | 20220125T13:04:53Z | Comandos para hacer tu host en kali linux que te puede servir para meterte en otros ordenadores windows | https://github.com/Ocell248/Exploit-Information | 0 | 0| 
@@ -51,12 +52,12 @@
 | 20220125T10:51:12Z | Null | https://github.com/WhiteMCWizard/discord-exploits | 0 | 0| 
 | 20220125T09:53:05Z | Counter-Strike: Global Offensive lag exploit from a private cheat of mine, I have removed some key parts but if you are dedicated, you can fix it. | https://github.com/0xfaer/csgo-lag-exploit | 0 | 0| 
 | 20220125T09:25:06Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1051 | 250| 
-| 20220125T08:59:11Z | Ares %Low Profile Injection% POC, exploits a flaw in Windows to inject Dynamically linked libraries without any notice. | https://github.com/0xfaer/ares-lpi | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220125T13:56:18Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6045 | 1896| 
 | 20220125T12:31:01Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 63 | 12| 
 | 20220125T10:21:50Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 3 | 1| 
 | 20220125T10:18:38Z | Backdoor Lnk Obfuscated Macro Hidden Developed by 4po. | https://github.com/4po/BackdoorObfuscated | 2 | 2| 
@@ -65,9 +66,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220125T13:54:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2662 | 396| 
 | 20220125T13:01:41Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1999 | 407| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
-| 20220125T07:41:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2661 | 396| 
 
 
 # big4 on Github 推荐
