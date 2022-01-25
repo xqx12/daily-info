@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220125T13:04:53Z | Comandos para hacer tu host en kali linux que te puede servir para meterte en otros ordenadores windows | https://github.com/Ocell248/Exploit-Information | 0 | 0| 
 | 20220125T10:55:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10646 | 1841| 
 | 20220125T10:51:13Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 145 | 96| 
 | 20220125T10:51:12Z | Null | https://github.com/WhiteMCWizard/discord-exploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220125T08:37:05Z | Knowledge base of exploit mitigations available across numerous  operating systems, architectures and applications and versions. | https://github.com/nccgroup/exploit_mitigations | 463 | 52| 
 | 20220125T06:43:54Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 690 | 167| 
 | 20220125T02:37:52Z | roblox exploit git repos. | https://github.com/00FB00P/Ignify | 0 | 0| 
-| 20220125T00:11:06Z | Book hacking the art of exploitation source code | https://github.com/Webins/Hacking_The_Art_Of_Exploitation | 1 | 0| 
 
 
 # backdoor on Github 推荐
