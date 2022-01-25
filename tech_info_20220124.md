@@ -77,7 +77,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220124T23:55:47Z | Testing malware for the windows os | https://github.com/Webins/windows-backdoor | 1 | 0| 
-| 20220124T13:29:26Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 0 | 0| 
 | 20220124T11:00:52Z | Qlutch backdoor plugin now open src | https://github.com/Minecraft-Force-Op/Qlutch | 7 | 8| 
 | 20220124T09:29:31Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 62 | 12| 
 | 20220124T07:04:54Z | Backdoor en Python 3+ | https://github.com/JkDevArg/b4ckd00r_Py | 0 | 0| 
