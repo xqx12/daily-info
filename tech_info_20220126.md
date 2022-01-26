@@ -18,9 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220126T13:14:19Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T13:13:18Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T13:13:12Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
-| 20220126T13:11:06Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T12:49:03Z | CVE-2021-4034 | A stupid poc for CVE-2021-4034 | https://github.com/LukeGix/CVE-2021-4034 | | 
 | 20220126T12:44:22Z | CVE-2021-4034 | Null | https://github.com/jostmart/-CVE-2021-4034 | | 
 | 20220126T12:15:18Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
