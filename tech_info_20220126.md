@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220126T12:58:41Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220126T13:00:48Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T12:56:19Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T12:49:03Z | CVE-2021-4034 | A stupid poc for CVE-2021-4034 | https://github.com/LukeGix/CVE-2021-4034 | | 
 | 20220126T12:49:03Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
@@ -33,7 +33,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T12:55:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4675 | 166| 
+| 20220126T13:02:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4676 | 166| 
 | 20220126T08:02:15Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 259 | 16| 
 
 
@@ -45,13 +45,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:22:31Z | code for testing exploits | https://github.com/tomBombad17/exploit | 0 | 0| 
-| 20220126T01:55:31Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6286 | 1478| 
-| 20220126T01:27:55Z | modifies desmos packets to allow any user to attach an image directly to the website | https://github.com/evannns/desmos-packet-modifier | 0 | 0| 
-| 20220126T01:10:31Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6771 | 1861| 
-| 20220126T01:00:54Z | 🖥 Exploiting the Windows kernel | https://github.com/xryshirfxn/exkern | 1 | 0| 
-| 20220126T00:23:57Z | Creating tools, scripts, and exploits with different types of programming languages, and other types of of projects. | https://github.com/Miftahul7838/Projects_and_Scripts | 0 | 0| 
-| 20220126T00:21:14Z | Null | https://github.com/xqeokcwxbpcfmrmj/exploits | 0 | 0| 
+| 20220126T12:51:30Z | CVE, exploits and PoC%s only for educational purpose | https://github.com/ailtonbsj/exploits-and-others | 0 | 0| 
+| 20220126T12:03:45Z | PoC Exploit for CVE-2015-3306 | https://github.com/7unn3l/CVE-2015-3306-PoC | 0 | 0| 
+| 20220126T11:36:02Z | Fake Triggers for FiveM , To avoid cheaters from exploiting in your server. | https://github.com/NotReloads/reload-faketriggers | 0 | 0| 
+| 20220126T11:32:26Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 765 | 172| 
+| 20220126T10:53:12Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3222 | 827| 
+| 20220126T10:20:27Z | material of exploit dev course | https://github.com/aleeamini/ExploitDevelopmentCourse | 0 | 0| 
+| 20220126T10:05:45Z | discord-hack discord-exploits discord-exploit i2rys 0discord discord-hacking-tools discord-exploit-collection discord-tools-collection discord-fun-tools discord-trolling-tools | https://github.com/darkencoder/-ODiscord | 0 | 0| 
+| 20220126T08:53:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 292 | 92| 
+| 20220126T08:42:26Z | Search exploit/cve/POC stuff from github | https://github.com/joey-s1/github_cve | 0 | 0| 
+| 20220126T07:37:11Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 11 | 5| 
 
 
 # backdoor on Github 推荐
