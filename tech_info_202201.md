@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220126T01:01:47Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T01:00:22Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T00:58:36Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
 | 20220126T00:55:28Z | CVE-2021-4034 | Null | https://github.com/gbrsh/CVE-2021-4034 | | 
-| 20220126T00:39:24Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T00:29:11Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
 | 20220126T00:17:13Z | CVE-2022-0332 | Null | https://github.com/numanturle/CVE-2022-0332 | | 
 | 20220125T23:40:34Z | cve-2021-4034 | impromptu pwn chal | https://github.com/lourkeur/cve-2021-4034-playground | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T00:56:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4586 | 163| 
+| 20220126T01:02:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4587 | 163| 
 | 20220125T22:51:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 254 | 16| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
@@ -121,8 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220125T13:54:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2662 | 396| 
-| 20220125T13:01:41Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 1999 | 407| 
+| 20220125T19:51:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2664 | 396| 
+| 20220125T16:50:57Z | SIFT: Symbolic Execution with Selective Thread Scheduling | https://github.com/sysrel/SIFT | 0 | 0| 
+| 20220125T15:40:16Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 2003 | 408| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
 | 20220124T22:06:12Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 101 | 8| 
 | 20220124T17:51:08Z | Null | https://github.com/williamberman/evm-symbolic-execution | 13 | 0| 
@@ -130,7 +131,6 @@
 | 20220123T15:16:48Z | Symbolic Dynamic Memory Allocation for Symbolic Execution | https://github.com/AnonyGiit/SymAlloc | 0 | 0| 
 | 20220123T07:47:15Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 12 | 5| 
 | 20220122T15:36:47Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 206 | 53| 
-| 20220121T18:39:30Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 
 
 # big4 on Github 推荐
