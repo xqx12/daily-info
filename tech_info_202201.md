@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220126T13:16:28Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
+| 20220126T13:16:25Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220126T13:16:18Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T13:13:18Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220126T13:13:12Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
 | 20220126T12:49:03Z | CVE-2021-4034 | A stupid poc for CVE-2021-4034 | https://github.com/LukeGix/CVE-2021-4034 | | 
 | 20220126T12:44:22Z | CVE-2021-4034 | Null | https://github.com/jostmart/-CVE-2021-4034 | | 
-| 20220126T12:15:18Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220126T11:34:11Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
 | 20220126T11:22:13Z | CVE-2021-41773 | A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration "require all denied", these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue only affects Apache 2.4.49 and not earlier versions. Credits to: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773  | https://github.com/m96dg/CVE-2021-41773-exercise | | 
 | 20220126T11:20:30Z | CVE-2021-4034 | Pseudopatch for CVE-2021-4034 | https://github.com/moldabekov/CVE-2021-4034 | | 
