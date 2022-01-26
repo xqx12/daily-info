@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:37:25Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
+| 20220126T02:37:32Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
+| 20220126T02:37:31Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T02:35:15Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | | 
 | 20220126T02:35:14Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220126T02:34:02Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T02:04:07Z | CVE-2021-4034 | PoC for CVE-2021-4034 | https://github.com/nikaiw/CVE-2021-4034 | | 
 | 20220126T01:56:13Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
 | 20220126T01:38:03Z | CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:34:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4605 | 163| 
+| 20220126T02:39:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4606 | 163| 
 | 20220126T01:03:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 255 | 16| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
@@ -151,8 +151,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220126T02:40:13Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 676 | 142| 
 | 20220126T02:04:29Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1397 | 154| 
-| 20220126T01:07:15Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 675 | 142| 
 | 20220125T23:54:34Z | A curated list of awesome Fuzzing(or Fuzz Testing) for software security | https://github.com/cpuu/awesome-fuzzing | 495 | 59| 
 | 20220125T21:46:42Z | Brenda | https://github.com/Richard38garcia/fuzzy-parakeet | 1 | 0| 
 | 20220125T21:23:16Z | Null | https://github.com/philtodisco/fuzz-spot-client | 0 | 0| 
