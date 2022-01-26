@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:41:36Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220126T02:45:37Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T02:40:58Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T02:37:32Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
 | 20220126T02:35:15Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:42:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4608 | 163| 
+| 20220126T02:46:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4609 | 163| 
 | 20220126T01:03:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 255 | 16| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
