@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220126 | 2021年度高级威胁研究报告 | http://blog.nsfocus.net/wp-content/uploads/2022/01/2021-APT-Botnet-Ransomware.pdf| 
+| 20220126 | [HTB] Safe Writeup | https://mp.weixin.qq.com/s/NuP7kjfGgEMLrg60_fSzWg| 
 | 20220125 | 2021密码应用技术白皮书 | https://share.weiyun.com/R3cG8Hav| 
 | 20220125 | 2021年网络检测和响应报告 | https://mp.weixin.qq.com/s/CmEoeYzuJH51ozfIm0Dzyg| 
 | 20220125 | 2021网络空间测绘年报 | http://blog.nsfocus.net/wp-content/uploads/2022/01/2021CyberspaceSurveyReport.pdf| 
@@ -39,30 +41,28 @@
 | 20220124 | 2021攻击技术发展趋势报告 | http://blog.nsfocus.net/wp-content/uploads/2022/01/2021-NSFOCUS.pdf| 
 | 20220124 | SecWiki周刊（第412期) | https://www.sec-wiki.com/weekly/412| 
 | 20220124 | 内网代理工具与检测方法研究 | https://mp.weixin.qq.com/s/N2HL89HAHv0OmLrB3AGHSQ| 
-| 20220124 | 狩猎样本的哈希游戏 | https://mp.weixin.qq.com/s/7WrlFUepch6JhU2NhdSyJw| 
-| 20220124 | 初探node.js相关之原型链污染 | https://xz.aliyun.com/t/10809| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:57:48Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220126T02:54:21Z | CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | | 
-| 20220126T02:52:14Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
-| 20220126T02:50:46Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220126T02:37:32Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
-| 20220126T02:35:15Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | | 
-| 20220126T02:04:07Z | CVE-2021-4034 | PoC for CVE-2021-4034 | https://github.com/nikaiw/CVE-2021-4034 | | 
-| 20220126T01:37:41Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
-| 20220126T01:36:56Z | CVE-2021-4034 | CVE-2021-4034 🎧 | https://github.com/Audiobahn/CVE-2021-4034 | | 
-| 20220126T01:05:36Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
+| 20220126T12:58:41Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220126T12:56:19Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220126T12:49:03Z | CVE-2021-4034 | A stupid poc for CVE-2021-4034 | https://github.com/LukeGix/CVE-2021-4034 | | 
+| 20220126T12:49:03Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
+| 20220126T12:44:22Z | CVE-2021-4034 | Null | https://github.com/jostmart/-CVE-2021-4034 | | 
+| 20220126T12:15:18Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
+| 20220126T11:34:11Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
+| 20220126T11:22:13Z | CVE-2021-41773 | A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration "require all denied", these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue only affects Apache 2.4.49 and not earlier versions. Credits to: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773  | https://github.com/m96dg/CVE-2021-41773-exercise | | 
+| 20220126T11:20:30Z | CVE-2021-4034 | Pseudopatch for CVE-2021-4034 | https://github.com/moldabekov/CVE-2021-4034 | | 
+| 20220126T11:09:34Z | CVE-2021-4034 | CVE-2021-4034 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:58:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4611 | 163| 
-| 20220126T01:03:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 255 | 16| 
+| 20220126T12:55:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4675 | 166| 
+| 20220126T08:02:15Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 259 | 16| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
 | 20220122T19:07:42Z | Config files for my GitHub profile. | https://github.com/klee3333/klee3333 | 0 | 0| 
@@ -77,7 +77,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220124T21:11:43Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 80 | 36| 
-| 20220124T04:54:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 196 | 43| 
+| 20220124T04:54:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 196 | 42| 
 | 20220121T18:39:30Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 | 20220121T18:18:20Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 17 | 5| 
 | 20220120T02:57:37Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 1| 
@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:49:02Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6047 | 1896| 
-| 20220126T02:30:47Z | Null | https://github.com/harol1997/backdoor | 0 | 0| 
+| 20220126T12:14:36Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6051 | 1897| 
+| 20220126T06:02:13Z | This demonstration video shows how we can control the victim%s device by sending the innocent-looking PDF file to the target which actually consists of embedded payload. The exploit was made public as CVE-2010-1240. | https://github.com/omarothmann/Embedded-Backdoor-Connection | 0 | 0| 
+| 20220126T03:18:08Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 4 | 1| 
+| 20220126T03:15:07Z | Null | https://github.com/harol1997/backdoor | 0 | 0| 
 | 20220125T21:39:23Z | Null | https://github.com/IndracoMEN/backdoor_troyano | 0 | 0| 
 | 20220125T12:31:01Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 63 | 12| 
-| 20220125T10:21:50Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 3 | 1| 
 | 20220125T10:18:38Z | Backdoor Lnk Obfuscated Macro Hidden Developed by 4po. | https://github.com/4po/BackdoorObfuscated | 2 | 2| 
 | 20220124T23:55:47Z | Testing malware for the windows os | https://github.com/Webins/windows-backdoor | 1 | 0| 
 | 20220124T11:00:52Z | Qlutch backdoor plugin now open src | https://github.com/Minecraft-Force-Op/Qlutch | 7 | 8| 
 | 20220124T07:04:54Z | Backdoor en Python 3+ | https://github.com/JkDevArg/b4ckd00r_Py | 0 | 0| 
-| 20220123T16:04:03Z | sysjoker  backdoor hunt with yara and osquery | https://github.com/j4ckzh0u/sysjoker-hunt | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220126T12:55:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7039 | 1485| 
+| 20220126T12:24:32Z | Null | https://github.com/rujack/bsmFuzzy | 1 | 0| 
+| 20220126T12:18:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2418 | 474| 
+| 20220126T12:07:10Z | Null | https://github.com/AdamKorcz/go-118-fuzz-build | 3 | 0| 
+| 20220126T11:26:30Z | Null | https://github.com/Bronomor/FuzzyLogic | 0 | 0| 
+| 20220126T08:25:26Z | Berserk API Fuzzer | https://github.com/tisnik/baf | 0 | 0| 
+| 20220126T05:19:49Z | Null | https://github.com/OFxGL/FuzzingTest | 0 | 0| 
 | 20220126T02:40:13Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 676 | 142| 
 | 20220126T02:04:29Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1397 | 154| 
 | 20220125T23:54:34Z | A curated list of awesome Fuzzing(or Fuzz Testing) for software security | https://github.com/cpuu/awesome-fuzzing | 495 | 59| 
-| 20220125T21:46:42Z | Brenda | https://github.com/Richard38garcia/fuzzy-parakeet | 1 | 0| 
-| 20220125T21:23:16Z | Null | https://github.com/philtodisco/fuzz-spot-client | 0 | 0| 
-| 20220125T21:13:31Z | Null | https://github.com/philtodisco/fuzz-spot-server | 0 | 0| 
-| 20220125T20:32:00Z | DMTCP checkpoint/restart support for AFL fuzzer | https://github.com/gourryinverse/dmtcp_afl | 0 | 0| 
-| 20220125T20:29:39Z | Null | https://github.com/antonio-morales/Fuzzing | 13 | 6| 
-| 20220125T20:27:29Z | Null | https://github.com/antonio-morales/Apache-HTTP-Fuzzing | 34 | 11| 
-| 20220125T13:30:26Z | Null | https://github.com/rayneel90/parallel_fuzzy_match | 0 | 0| 
 
 
 
