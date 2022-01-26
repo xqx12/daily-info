@@ -31,38 +31,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220125 | 2021密码应用技术白皮书 | https://share.weiyun.com/R3cG8Hav| 
+| 20220125 | 2021年网络检测和响应报告 | https://mp.weixin.qq.com/s/CmEoeYzuJH51ozfIm0Dzyg| 
+| 20220125 | 2021网络空间测绘年报 | http://blog.nsfocus.net/wp-content/uploads/2022/01/2021CyberspaceSurveyReport.pdf| 
+| 20220125 | 流量全密化趋势下的检测困境和思考 | https://mp.weixin.qq.com/s/5c7_AiwpGBGw1azDs6Z0Pw| 
+| 20220125 | 全国首例算法推荐案宣判（附判决书） | https://mp.weixin.qq.com/s/DcqVJDxtteHBzJVAyoNg5A| 
 | 20220124 | 2021攻击技术发展趋势报告 | http://blog.nsfocus.net/wp-content/uploads/2022/01/2021-NSFOCUS.pdf| 
 | 20220124 | SecWiki周刊（第412期) | https://www.sec-wiki.com/weekly/412| 
 | 20220124 | 内网代理工具与检测方法研究 | https://mp.weixin.qq.com/s/N2HL89HAHv0OmLrB3AGHSQ| 
 | 20220124 | 狩猎样本的哈希游戏 | https://mp.weixin.qq.com/s/7WrlFUepch6JhU2NhdSyJw| 
 | 20220124 | 初探node.js相关之原型链污染 | https://xz.aliyun.com/t/10809| 
-| 20220121 | 自动化渗透-DeepExploit框架深度分析 | https://mp.weixin.qq.com/s/Kab4A-ReHIZ5AhZq4Qac8A| 
-| 20220120 | 浅析现代企业网络安全架构 | https://mp.weixin.qq.com/s/Ye6-H5d894wD2E6C8uYRSg| 
-| 20220119 | 2021年全球DDoS威胁报告 | http://blog.nsfocus.net/wp-content/uploads/2022/01/DDoS-NSFOCUS.pdf| 
-| 20220119 | 谁动了我的DevOps：DevOps风险测绘 | https://mp.weixin.qq.com/s/WYZHx1a-_zSn1nJG5AKoWw| 
-| 20220119 | 基于上下文感知计算的APT攻击组织追踪方法 | https://mp.weixin.qq.com/s/Ca-6jNJadDu0qp5e_Bwj2A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220126T01:00:22Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220126T00:58:36Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
+| 20220126T00:55:28Z | CVE-2021-4034 | Null | https://github.com/gbrsh/CVE-2021-4034 | | 
+| 20220126T00:39:24Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220126T00:29:11Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
+| 20220126T00:17:13Z | CVE-2022-0332 | Null | https://github.com/numanturle/CVE-2022-0332 | | 
+| 20220125T23:40:34Z | cve-2021-4034 | impromptu pwn chal | https://github.com/lourkeur/cve-2021-4034-playground | | 
+| 20220125T23:07:05Z | CVE-2022-21371 | Oracle WebLogic Server 12.1.3.0.0 / 12.2.1.3.0 / 12.2.1.4.0 / 14.1.1.0.0 Local File Inclusion | https://github.com/Mr-xn/CVE-2022-21371 | | 
 | 20220124T22:18:20Z | CVE-2021-40346 | CVE-2021-40346 - HaProxy HTTP request smuggling through integer overflow | https://github.com/alexOarga/CVE-2021-40346 | | 
 | 20220124T21:37:09Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
-| 20220124T17:32:45Z | CVE-2022-23046 | Null | https://github.com/jcarabantes/CVE-2022-23046 | | 
-| 20220124T11:56:32Z | CVE-2021- | Null | https://github.com/w1023913214/CVE-2021-test | | 
-| 20220124T10:05:13Z | 未知编号 | Null | https://github.com/CycloneOrg/CVE_2022_21907-poc | | 
-| 20220124T08:25:59Z | CVE-2022-3666 | Null | https://github.com/w1023913214/CVE-2022-3666 | | 
-| 20220124T06:22:09Z | CVE-2022-21907 | CVE-2022-21907 Vulnerability PoC | https://github.com/michelep/CVE-2022-21907-Vulnerability-PoC | | 
-| 20220124T06:20:48Z | CVE-2022-22852 | Null | https://github.com/Sant268/CVE-2022-22852 | | 
-| 20220124T06:20:47Z | CVE-2022-22851 | Null | https://github.com/Sant268/CVE-2022-22851 | | 
-| 20220124T06:20:46Z | CVE-2022-22850 | Null | https://github.com/Sant268/CVE-2022-22850 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220125T13:49:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4548 | 161| 
-| 20220125T13:34:47Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 252 | 16| 
+| 20220126T00:56:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4586 | 163| 
+| 20220125T22:51:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 254 | 16| 
+| 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
 | 20220122T19:07:42Z | Config files for my GitHub profile. | https://github.com/klee3333/klee3333 | 0 | 0| 
 | 20220121T22:53:28Z | Null | https://github.com/fedorgrab/klee-frontend | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220120T14:13:53Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 16 | 1| 
 | 20220119T08:29:24Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220116T20:42:49Z | Klee Fishing Mania!  | https://github.com/reinharttanto/python_game_FP | 0 | 0| 
-| 20220116T18:11:55Z | Use klee symbolic execution to autogenerate test cases for a function, and get coverage on it | https://github.com/talbor49/klee-autogen-tests | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -91,22 +91,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220125T13:56:18Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6045 | 1896| 
-| 20220125T13:34:03Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 691 | 167| 
-| 20220125T13:24:09Z | Reproduce public CVE vulnerability notes | https://github.com/furuanruan/Exploit | 0 | 0| 
-| 20220125T13:04:53Z | Comandos para hacer tu host en kali linux que te puede servir para meterte en otros ordenadores windows | https://github.com/Ocell248/Exploit-Information | 0 | 0| 
-| 20220125T12:45:16Z | Sherlock and Watson exploit check against Windows Exploit Suggester NG (WesNG) | https://github.com/d-lan2/SawNG | 0 | 0| 
-| 20220125T10:55:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10646 | 1841| 
-| 20220125T10:51:13Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 145 | 96| 
-| 20220125T10:51:12Z | Null | https://github.com/WhiteMCWizard/discord-exploits | 0 | 0| 
-| 20220125T09:53:05Z | Counter-Strike: Global Offensive lag exploit from a private cheat of mine, I have removed some key parts but if you are dedicated, you can fix it. | https://github.com/0xfaer/csgo-lag-exploit | 0 | 0| 
-| 20220125T09:25:06Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1051 | 250| 
+| 20220126T01:00:54Z | 🖥 Exploiting the Windows kernel | https://github.com/xryshirfxn/exkern | 1 | 0| 
+| 20220126T00:23:57Z | Creating tools, scripts, and exploits with different types of programming languages, and other types of of projects. | https://github.com/Miftahul7838/Projects_and_Scripts | 0 | 0| 
+| 20220126T00:21:14Z | Null | https://github.com/xqeokcwxbpcfmrmj/exploits | 0 | 0| 
+| 20220125T20:54:45Z | A Beacon Object File (BOF) is a compiled C program, written to a convention that allows it to execute within a Beacon process and use internal Beacon APIs. BOFs are a way to rapidly extend the Beacon agent with new post-exploitation features. | https://github.com/Cobalt-Strike/bof_template | 0 | 0| 
+| 20220125T20:47:59Z | Angular and MVC App | https://github.com/razor1997/CostsExploitationCarsBackend | 1 | 0| 
+| 20220125T20:44:55Z | It%s front end app using angular framework | https://github.com/razor1997/CostsExploitationCarFrontApp | 0 | 0| 
+| 20220125T20:11:31Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 0 | 0| 
+| 20220125T20:10:21Z | List of malware found in a single WordPress site - for reference only | https://github.com/WPXSS/wordpress-malware | 0 | 3| 
+| 20220125T18:48:17Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8684 | 1485| 
+| 20220125T16:19:19Z | linWinPwn is a script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220125T13:56:18Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6045 | 1896| 
+| 20220125T23:50:09Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6045 | 1896| 
+| 20220125T21:39:23Z | Null | https://github.com/IndracoMEN/backdoor_troyano | 0 | 0| 
 | 20220125T12:31:01Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 63 | 12| 
 | 20220125T10:21:50Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 3 | 1| 
 | 20220125T10:18:38Z | Backdoor Lnk Obfuscated Macro Hidden Developed by 4po. | https://github.com/4po/BackdoorObfuscated | 2 | 2| 
@@ -115,7 +116,6 @@
 | 20220124T07:04:54Z | Backdoor en Python 3+ | https://github.com/JkDevArg/b4ckd00r_Py | 0 | 0| 
 | 20220123T16:04:03Z | sysjoker  backdoor hunt with yara and osquery | https://github.com/j4ckzh0u/sysjoker-hunt | 0 | 0| 
 | 20220123T15:18:07Z | Null | https://github.com/boez1111/backdoor | 0 | 0| 
-| 20220123T10:03:47Z | Null | https://github.com/BobDaGithubAccount/backdoorConfig | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220125T23:54:34Z | A curated list of awesome Fuzzing(or Fuzz Testing) for software security | https://github.com/cpuu/awesome-fuzzing | 495 | 59| 
+| 20220125T21:46:42Z | Brenda | https://github.com/Richard38garcia/fuzzy-parakeet | 1 | 0| 
+| 20220125T21:23:16Z | Null | https://github.com/philtodisco/fuzz-spot-client | 0 | 0| 
+| 20220125T21:13:31Z | Null | https://github.com/philtodisco/fuzz-spot-server | 0 | 0| 
+| 20220125T20:32:00Z | DMTCP checkpoint/restart support for AFL fuzzer | https://github.com/gourryinverse/dmtcp_afl | 0 | 0| 
+| 20220125T20:29:39Z | Null | https://github.com/antonio-morales/Fuzzing | 13 | 6| 
+| 20220125T20:27:29Z | Null | https://github.com/antonio-morales/Apache-HTTP-Fuzzing | 34 | 11| 
+| 20220125T20:14:30Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 674 | 142| 
 | 20220125T13:30:26Z | Null | https://github.com/rayneel90/parallel_fuzzy_match | 0 | 0| 
 | 20220125T13:24:08Z | Null | https://github.com/AnaghHegde/fuzzy-broccoli | 0 | 0| 
-| 20220125T13:08:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7035 | 1483| 
-| 20220125T12:49:24Z | Null | https://github.com/Hvbisjwkd/fuzzy-octo-rotary-phone | 0 | 0| 
-| 20220125T11:33:26Z | Null | https://github.com/jmoralesblink/fuzzy-guide | 0 | 0| 
-| 20220125T11:31:25Z | Null | https://github.com/emirybolat/fuzzy-journey | 0 | 0| 
-| 20220125T11:20:28Z | TypeScript Scenario-Based Web Application Fuzzing Framework | https://github.com/shfz/shfz | 14 | 0| 
-| 20220125T11:10:43Z | Lets you set up Java Out Of Process Fuzzing on your CI Fuzz server, without using the local installation first | https://github.com/ci-fuzz/java-oop-fuzzing-skeleton-project | 0 | 0| 
-| 20220125T10:41:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 749 | 74| 
-| 20220125T09:40:49Z | Null | https://github.com/Harshyadav14/Outlier-Detection-Techniques-Based-on-Fuzzy-Clustering-using-python | 0 | 0| 
 
 
 
