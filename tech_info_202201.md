@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:21:08Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | | 
+| 20220126T02:22:14Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | | 
 | 20220126T02:21:01Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T02:15:19Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T02:04:07Z | CVE-2021-4034 | PoC for CVE-2021-4034 | https://github.com/nikaiw/CVE-2021-4034 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220126T02:22:31Z | code for testing exploits | https://github.com/tomBombad17/exploit | 0 | 0| 
 | 20220126T01:27:55Z | modifies desmos packets to allow any user to attach an image directly to the website | https://github.com/evannns/desmos-packet-modifier | 0 | 0| 
 | 20220126T01:10:31Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6771 | 1861| 
 | 20220126T01:00:54Z | 🖥 Exploiting the Windows kernel | https://github.com/xryshirfxn/exkern | 1 | 0| 
@@ -100,13 +101,12 @@
 | 20220125T20:47:59Z | Angular and MVC App | https://github.com/razor1997/CostsExploitationCarsBackend | 1 | 0| 
 | 20220125T20:44:55Z | It%s front end app using angular framework | https://github.com/razor1997/CostsExploitationCarFrontApp | 0 | 0| 
 | 20220125T20:11:31Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 0 | 0| 
-| 20220125T20:10:21Z | List of malware found in a single WordPress site - for reference only | https://github.com/WPXSS/wordpress-malware | 0 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220125T23:50:09Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6045 | 1896| 
+| 20220126T02:23:44Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6046 | 1896| 
 | 20220125T21:39:23Z | Null | https://github.com/IndracoMEN/backdoor_troyano | 0 | 0| 
 | 20220125T12:31:01Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 63 | 12| 
 | 20220125T10:21:50Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 3 | 1| 
@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:15:20Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 2005 | 408| 
+| 20220126T02:20:10Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 2006 | 408| 
 | 20220125T19:51:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2664 | 396| 
 | 20220125T16:50:57Z | SIFT: Symbolic Execution with Selective Thread Scheduling | https://github.com/sysrel/SIFT | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
