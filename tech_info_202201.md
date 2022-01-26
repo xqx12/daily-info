@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:51:25Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
-| 20220126T02:51:23Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220126T02:52:14Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
+| 20220126T02:51:32Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T02:50:46Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T02:37:32Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
 | 20220126T02:35:15Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | | 
