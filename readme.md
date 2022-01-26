@@ -55,10 +55,10 @@
 | 20220125T20:11:31Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 0 | 0| 
 | 20220125T20:10:21Z | List of malware found in a single WordPress site - for reference only | https://github.com/WPXSS/wordpress-malware | 0 | 3| 
 | 20220125T18:48:17Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8684 | 1485| 
+| 20220125T18:39:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10648 | 1842| 
 | 20220125T16:19:19Z | linWinPwn is a script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 2 | 0| 
 | 20220125T13:56:18Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6045 | 1896| 
 | 20220125T13:54:57Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1558 | 530| 
-| 20220125T13:34:03Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 691 | 167| 
 
 
 # backdoor on Github 推荐
