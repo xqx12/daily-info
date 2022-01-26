@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220126T02:00:03Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T01:56:13Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
-| 20220126T01:43:43Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T01:38:03Z | CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | | 
 | 20220126T01:37:41Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220126T01:36:56Z | CVE-2021-4034 | CVE-2021-4034 🎧 | https://github.com/Audiobahn/CVE-2021-4034 | | 
