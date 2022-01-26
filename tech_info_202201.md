@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220126T01:05:55Z | CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | | 
+| 20220126T01:05:36Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 | 20220126T01:01:47Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T01:00:22Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T00:58:36Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
@@ -54,8 +56,6 @@
 | 20220126T00:17:13Z | CVE-2022-0332 | Null | https://github.com/numanturle/CVE-2022-0332 | | 
 | 20220125T23:40:34Z | cve-2021-4034 | impromptu pwn chal | https://github.com/lourkeur/cve-2021-4034-playground | | 
 | 20220125T23:07:05Z | CVE-2022-21371 | Oracle WebLogic Server 12.1.3.0.0 / 12.2.1.3.0 / 12.2.1.4.0 / 14.1.1.0.0 Local File Inclusion | https://github.com/Mr-xn/CVE-2022-21371 | | 
-| 20220124T22:18:20Z | CVE-2021-40346 | CVE-2021-40346 - HaProxy HTTP request smuggling through integer overflow | https://github.com/alexOarga/CVE-2021-40346 | | 
-| 20220124T21:37:09Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 
 
 # klee on Github 推荐
