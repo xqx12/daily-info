@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220126T01:34:44Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220126T01:34:05Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T01:17:51Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T01:06:45Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
@@ -55,7 +56,6 @@
 | 20220126T00:29:11Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
 | 20220126T00:17:13Z | CVE-2022-0332 | Null | https://github.com/numanturle/CVE-2022-0332 | | 
 | 20220125T23:40:34Z | cve-2021-4034 | impromptu pwn chal | https://github.com/lourkeur/cve-2021-4034-playground | | 
-| 20220125T23:07:05Z | CVE-2022-21371 | Oracle WebLogic Server 12.1.3.0.0 / 12.2.1.3.0 / 12.2.1.4.0 / 14.1.1.0.0 Local File Inclusion | https://github.com/Mr-xn/CVE-2022-21371 | | 
 
 
 # klee on Github 推荐
