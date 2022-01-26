@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220126T13:58:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 750 | 74| 
 | 20220126T13:20:28Z | Fuzzy string search | https://github.com/Orangesoft-Development/fuzzy-search | 0 | 0| 
 | 20220126T12:55:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7039 | 1485| 
 | 20220126T12:24:32Z | Null | https://github.com/rujack/bsmFuzzy | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20220126T08:25:26Z | Berserk API Fuzzer | https://github.com/tisnik/baf | 0 | 0| 
 | 20220126T05:19:49Z | Null | https://github.com/OFxGL/FuzzingTest | 0 | 0| 
 | 20220126T02:40:13Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 676 | 142| 
-| 20220126T02:04:29Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1397 | 154| 
 
 
 
