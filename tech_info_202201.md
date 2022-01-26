@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220126T02:40:58Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T02:37:32Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
 | 20220126T02:37:31Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T02:35:15Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/signfind/CVE-2021-4034 | | 
-| 20220126T02:35:14Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T02:04:07Z | CVE-2021-4034 | PoC for CVE-2021-4034 | https://github.com/nikaiw/CVE-2021-4034 | | 
 | 20220126T01:56:13Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
 | 20220126T01:38:03Z | CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T02:39:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4606 | 163| 
+| 20220126T02:39:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4607 | 163| 
 | 20220126T01:03:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 255 | 16| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
@@ -92,6 +92,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220126T02:22:31Z | code for testing exploits | https://github.com/tomBombad17/exploit | 0 | 0| 
+| 20220126T01:55:31Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6286 | 1478| 
 | 20220126T01:27:55Z | modifies desmos packets to allow any user to attach an image directly to the website | https://github.com/evannns/desmos-packet-modifier | 0 | 0| 
 | 20220126T01:10:31Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6771 | 1861| 
 | 20220126T01:00:54Z | 🖥 Exploiting the Windows kernel | https://github.com/xryshirfxn/exkern | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20220125T20:54:45Z | A Beacon Object File (BOF) is a compiled C program, written to a convention that allows it to execute within a Beacon process and use internal Beacon APIs. BOFs are a way to rapidly extend the Beacon agent with new post-exploitation features. | https://github.com/Cobalt-Strike/bof_template | 0 | 0| 
 | 20220125T20:47:59Z | Angular and MVC App | https://github.com/razor1997/CostsExploitationCarsBackend | 1 | 0| 
 | 20220125T20:44:55Z | It%s front end app using angular framework | https://github.com/razor1997/CostsExploitationCarFrontApp | 0 | 0| 
-| 20220125T20:11:31Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
