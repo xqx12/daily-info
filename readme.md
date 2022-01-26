@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220126T13:20:28Z | Fuzzy string search | https://github.com/Orangesoft-Development/fuzzy-search | 0 | 0| 
 | 20220126T12:55:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7039 | 1485| 
 | 20220126T12:24:32Z | Null | https://github.com/rujack/bsmFuzzy | 1 | 0| 
 | 20220126T12:18:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2418 | 474| 
