@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220126 | 从Challenge42看Linux提权基本技巧. | https://tttang.com/archive/1414/| 
 
 
 # 安全维基 推荐
@@ -45,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T13:20:30Z | Bukan hamkel | https://github.com/JaeXploit/WPFM-Exploiter | 0 | 0| 
+| 20220126T13:32:11Z | Bukan hamkel | https://github.com/JaeXploit/WPFM-Exploiter | 1 | 0| 
 | 20220126T12:51:30Z | CVE, exploits and PoC%s only for educational purpose | https://github.com/ailtonbsj/exploits-and-others | 0 | 0| 
 | 20220126T12:03:45Z | PoC Exploit for CVE-2015-3306 | https://github.com/7unn3l/CVE-2015-3306-PoC | 0 | 0| 
 | 20220126T11:36:02Z | Fake Triggers for FiveM , To avoid cheaters from exploiting in your server. | https://github.com/NotReloads/reload-faketriggers | 0 | 0| 

@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220126 | 从Challenge42看Linux提权基本技巧. | https://tttang.com/archive/1414/| 
 | 20220125 | JavaScript Raider - JavaScript Fuzzing framework for v8 | https://github.com/freingruber/JavaScript-Raider| 
 | 20220125 | Realworld CTF 比赛中 Qiling Sandbox Escape 题的 writeup | http://www.kalmarunionen.dk/writeups/2022/rwctf/qlaas/| 
 | 20220125 | 企业打印机管理软件 PrinterLogic 被发现多个 RCE 高危漏洞 | https://www.yahooinc.com/paranoids/paranoids-vulnerability-research-printerlogic-issues-security-alert/| 
@@ -25,7 +26,6 @@
 | 20220124 | Azure 云环境安全测试相关的资料 | https://github.com/rootsecdev/Azure-Red-Team| 
 | 20220124 | ASP.NET下的内存马(1) filter内存马分析. | https://tttang.com/archive/1408/| 
 | 20220124 | CVE-2021-33742：Internet Explorer MSHTML 堆越界写漏洞分析. | https://paper.seebug.org/1819/| 
-| 20220124 | 如何阅读源码与模糊测试方法学习资料。 | https://github.com/hardik05/Source-and-Fuzzing| 
 
 
 # 安全维基 推荐
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T13:20:30Z | Bukan hamkel | https://github.com/JaeXploit/WPFM-Exploiter | 0 | 0| 
+| 20220126T13:32:11Z | Bukan hamkel | https://github.com/JaeXploit/WPFM-Exploiter | 1 | 0| 
 | 20220126T12:51:30Z | CVE, exploits and PoC%s only for educational purpose | https://github.com/ailtonbsj/exploits-and-others | 0 | 0| 
 | 20220126T12:03:45Z | PoC Exploit for CVE-2015-3306 | https://github.com/7unn3l/CVE-2015-3306-PoC | 0 | 0| 
 | 20220126T11:36:02Z | Fake Triggers for FiveM , To avoid cheaters from exploiting in your server. | https://github.com/NotReloads/reload-faketriggers | 0 | 0| 
