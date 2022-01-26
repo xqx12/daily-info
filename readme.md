@@ -18,9 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220126T13:17:44Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T13:16:28Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
 | 20220126T13:16:25Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
-| 20220126T13:16:18Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T13:13:18Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220126T12:49:03Z | CVE-2021-4034 | A stupid poc for CVE-2021-4034 | https://github.com/LukeGix/CVE-2021-4034 | | 
 | 20220126T12:44:22Z | CVE-2021-4034 | Null | https://github.com/jostmart/-CVE-2021-4034 | | 
@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220126T13:17:17Z | Bukan hamkel | https://github.com/JaeXploit/WPFM-Exploiter | 0 | 0| 
 | 20220126T12:51:30Z | CVE, exploits and PoC%s only for educational purpose | https://github.com/ailtonbsj/exploits-and-others | 0 | 0| 
 | 20220126T12:03:45Z | PoC Exploit for CVE-2015-3306 | https://github.com/7unn3l/CVE-2015-3306-PoC | 0 | 0| 
 | 20220126T11:36:02Z | Fake Triggers for FiveM , To avoid cheaters from exploiting in your server. | https://github.com/NotReloads/reload-faketriggers | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20220126T10:05:45Z | discord-hack discord-exploits discord-exploit i2rys 0discord discord-hacking-tools discord-exploit-collection discord-tools-collection discord-fun-tools discord-trolling-tools | https://github.com/darkencoder/-ODiscord | 0 | 0| 
 | 20220126T08:53:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 292 | 92| 
 | 20220126T08:42:26Z | Search exploit/cve/POC stuff from github | https://github.com/joey-s1/github_cve | 0 | 0| 
-| 20220126T07:37:11Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 11 | 5| 
 
 
 # backdoor on Github 推荐
