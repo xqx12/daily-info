@@ -96,9 +96,9 @@
 | 20220125T20:32:00Z | DMTCP checkpoint/restart support for AFL fuzzer | https://github.com/gourryinverse/dmtcp_afl | 0 | 0| 
 | 20220125T20:29:39Z | Null | https://github.com/antonio-morales/Fuzzing | 13 | 6| 
 | 20220125T20:27:29Z | Null | https://github.com/antonio-morales/Apache-HTTP-Fuzzing | 34 | 11| 
-| 20220125T20:14:30Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 674 | 142| 
 | 20220125T13:30:26Z | Null | https://github.com/rayneel90/parallel_fuzzy_match | 0 | 0| 
 | 20220125T13:24:08Z | Null | https://github.com/AnaghHegde/fuzzy-broccoli | 0 | 0| 
+| 20220125T13:08:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7035 | 1483| 
 
 
 

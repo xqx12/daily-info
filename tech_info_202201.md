@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220126T01:07:15Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 675 | 142| 
 | 20220125T23:54:34Z | A curated list of awesome Fuzzing(or Fuzz Testing) for software security | https://github.com/cpuu/awesome-fuzzing | 495 | 59| 
 | 20220125T21:46:42Z | Brenda | https://github.com/Richard38garcia/fuzzy-parakeet | 1 | 0| 
 | 20220125T21:23:16Z | Null | https://github.com/philtodisco/fuzz-spot-client | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220125T20:32:00Z | DMTCP checkpoint/restart support for AFL fuzzer | https://github.com/gourryinverse/dmtcp_afl | 0 | 0| 
 | 20220125T20:29:39Z | Null | https://github.com/antonio-morales/Fuzzing | 13 | 6| 
 | 20220125T20:27:29Z | Null | https://github.com/antonio-morales/Apache-HTTP-Fuzzing | 34 | 11| 
-| 20220125T20:14:30Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 674 | 142| 
 | 20220125T13:30:26Z | Null | https://github.com/rayneel90/parallel_fuzzy_match | 0 | 0| 
 | 20220125T13:24:08Z | Null | https://github.com/AnaghHegde/fuzzy-broccoli | 0 | 0| 
 
