@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220126T01:34:44Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
+| 20220126T01:38:23Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
+| 20220126T01:38:03Z | CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | | 
+| 20220126T01:37:41Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
+| 20220126T01:36:56Z | CVE-2021-4034 | CVE-2021-4034 🎧 | https://github.com/Audiobahn/CVE-2021-4034 | | 
 | 20220126T01:34:05Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220126T01:17:51Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220126T01:06:45Z | CVE-2022-0185 | CVE-2022-0185 | https://github.com/Crusaders-of-Rust/CVE-2022-0185 | | 
-| 20220126T01:05:55Z | CVE-2021-4034 | Bash implementation of CVE-2021-4034 | https://github.com/JohnHammond/CVE-2021-4034 | | 
 | 20220126T01:05:36Z | CVE-2021-43297 | CVE-2021-43297 POC，Apache Dubbo<= 2.7.13时可以实现RCE | https://github.com/bitterzzZZ/CVE-2021-43297-POC | | 
 | 20220126T00:55:28Z | CVE-2021-4034 | Null | https://github.com/gbrsh/CVE-2021-4034 | | 
 | 20220126T00:29:11Z | CVE-2021-4034 | Null | https://github.com/clubby789/CVE-2021-4034 | | 
 | 20220126T00:17:13Z | CVE-2022-0332 | Null | https://github.com/numanturle/CVE-2022-0332 | | 
-| 20220125T23:40:34Z | cve-2021-4034 | impromptu pwn chal | https://github.com/lourkeur/cve-2021-4034-playground | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T01:33:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4590 | 163| 
+| 20220126T01:37:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4591 | 163| 
 | 20220126T01:03:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 255 | 16| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
@@ -92,7 +92,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220126T01:27:55Z | modifies desmos packets to allow any user to attach an image directly to the website | https://github.com/evannns/desmos-packet-modifier | 0 | 0| 
-| 20220126T01:10:31Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6771 | 1860| 
+| 20220126T01:10:31Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6771 | 1861| 
 | 20220126T01:00:54Z | 🖥 Exploiting the Windows kernel | https://github.com/xryshirfxn/exkern | 1 | 0| 
 | 20220126T00:23:57Z | Creating tools, scripts, and exploits with different types of programming languages, and other types of of projects. | https://github.com/Miftahul7838/Projects_and_Scripts | 0 | 0| 
 | 20220126T00:21:14Z | Null | https://github.com/xqeokcwxbpcfmrmj/exploits | 0 | 0| 
