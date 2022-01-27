@@ -31,7 +31,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220127T13:04:24Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220127T13:20:50Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220127T13:18:16Z | CVE-2021-46005 | Null | https://github.com/nawed20002/CVE-2021-46005 | | 
 | 20220127T12:30:09Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
 | 20220127T11:49:46Z | cve-2021-4034 | PoC for cve-2021-4034 | https://github.com/mike-artemis/cve-2021-4034 | | 
 | 20220127T10:22:23Z | CVE-2021-4034 | Python exploit for CVE-2021-4034 | https://github.com/Plethore/CVE-2021-4034 | | 
@@ -40,14 +41,13 @@
 | 20220127T09:13:50Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
 | 20220127T08:40:59Z | CVE-2021-4034 | PoC CVE 2021-4034 PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec | https://github.com/NiS3x/CVE-2021-4034 | | 
 | 20220127T08:19:51Z | CVE-2021-4034 | Null | https://github.com/nikip72/CVE-2021-4034 | | 
-| 20220127T07:19:28Z | CVE-2021-4034 | Null | https://github.com/puckiestyle/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220127T13:00:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4759 | 169| 
-| 20220127T08:45:09Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 264 | 17| 
+| 20220127T13:28:48Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 265 | 17| 
+| 20220127T13:27:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4761 | 169| 
 
 
 # s2e on Github 推荐
@@ -59,7 +59,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220127T13:08:46Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 143 | 23| 
+| 20220127T13:26:55Z | Bare-bones Roblox exploit API | https://github.com/system-69/roblox-exploit-api | 0 | 0| 
+| 20220127T13:14:15Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 144 | 23| 
 | 20220127T12:51:05Z | simple roblox exploit class  | https://github.com/system-69/xen-api | 0 | 0| 
 | 20220127T12:25:20Z | A compilation of features that have been posted on uc or leaked. I take no credit for discovering or creating this code. | https://github.com/rain0x06/r6-exploits | 0 | 0| 
 | 20220127T12:17:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 293 | 92| 
@@ -68,7 +69,6 @@
 | 20220127T10:58:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10656 | 1845| 
 | 20220127T10:27:39Z | LSM BPF module to block pwnkit (CVE-2021-4034) like exploits | https://github.com/evdenis/lsm_bpf_check_argc0 | 0 | 0| 
 | 20220127T10:22:23Z | Python exploit for CVE-2021-4034 | https://github.com/Plethore/CVE-2021-4034 | 0 | 0| 
-| 20220127T10:09:55Z | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | 47 | 6| 
 
 
 # backdoor on Github 推荐
