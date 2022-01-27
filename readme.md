@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220127T14:07:07Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220127T14:09:46Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220127T13:50:06Z | CVE-2021-46005 | CVE-2021-46005 | https://github.com/nawed20002/CVE-2021-46005 | | 
 | 20220127T13:32:08Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
 | 20220127T11:49:46Z | cve-2021-4034 | PoC for cve-2021-4034 | https://github.com/mike-artemis/cve-2021-4034 | | 
