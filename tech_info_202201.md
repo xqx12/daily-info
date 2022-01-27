@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220127T02:26:29Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220127T01:54:10Z | CVE-2022-9632 | Null | https://github.com/w1023913214/CVE-2022-9632 | | 
 | 20220127T01:53:47Z | CVE-2022-22828 | Write-up of CVE-2022-22828 | https://github.com/videnlabs/CVE-2022-22828 | | 
 | 20220127T01:31:11Z | CVE-2022- | Null | https://github.com/w1023913214/CVE-2022-test | | 
-| 20220127T01:21:53Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220127T01:19:37Z | CVE-2021-4034 | A simple proof-of-concept for CVE-2021-4034 (pkexec local privilege escalation) | https://github.com/cd80-ctf/CVE-2021-4034 | | 
 | 20220127T01:04:46Z | CVE-2021-4034 | Null | https://github.com/T3cnokarita/CVE-2021-4034 | | 
 | 20220126T23:40:24Z | CVE-2021-4034 | Linux system service bug gives root on all major distros, exploit published A vulnerability in the pkexec component of Polkit identified as CVE-2021-4034 PwnKit is present in the default configuration of all major Linux distributions and can be exploited to gain privileges over the compj researchers. | https://github.com/Anonymous-Family/CVE-2021-4034 | | 
@@ -151,8 +151,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T02:25:41Z | Null | https://github.com/TiBerry08/Fuzzy-Search | 0 | 0| 
+| 20220127T02:23:51Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1130 | 86| 
 | 20220127T02:17:14Z | StdFuzzer is the reference implementation of a generic bit-level fuzzer with LibAFL | https://github.com/AFLplusplus/StdFuzzer | 35 | 0| 
-| 20220127T02:01:34Z | Null | https://github.com/TiBerry08/Fuzzy-Search | 0 | 0| 
 | 20220127T01:57:40Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2424 | 474| 
 | 20220126T23:01:08Z | Given two list of strings, iterates the first one looking for similar strings on the second list. Returns the best match. | https://github.com/lucasivanmuller/fuzzy_list_matcher | 0 | 0| 
 | 20220126T22:39:39Z | Essay about the usage of fuzzing for finding vulnerabilities in network protocols, made as a project for the course %Security Protocols% from Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest | https://github.com/iosifache/NetworkProtocolsFuzzing | 1 | 0| 
@@ -160,7 +161,6 @@
 | 20220126T21:43:47Z | Null | https://github.com/gadgetsmag/fuzzy-lamp | 0 | 0| 
 | 20220126T20:47:22Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1408 | 155| 
 | 20220126T17:43:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7042 | 1485| 
-| 20220126T16:06:13Z | 🔎 Fuzzy search EC2 instances to SSH into them | https://github.com/DavidWittman/ec2-fuzzy | 3 | 0| 
 
 
 
