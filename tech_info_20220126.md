@@ -94,8 +94,8 @@
 | 20220126T20:47:22Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1408 | 155| 
 | 20220126T19:18:01Z | StdFuzzer is the reference implementation of a generic bit-level fuzzer with LibAFL | https://github.com/AFLplusplus/StdFuzzer | 34 | 0| 
 | 20220126T17:43:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7042 | 1485| 
+| 20220126T16:06:13Z | 🔎 Fuzzy search EC2 instances to SSH into them | https://github.com/DavidWittman/ec2-fuzzy | 3 | 0| 
 | 20220126T13:58:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 750 | 74| 
-| 20220126T13:20:28Z | Fuzzy string search | https://github.com/Orangesoft-Development/fuzzy-search | 0 | 0| 
 
 
 
