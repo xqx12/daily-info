@@ -31,14 +31,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220127T14:14:05Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
+| 20220127T14:13:42Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
 | 20220127T14:09:46Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220127T13:50:06Z | CVE-2021-46005 | CVE-2021-46005 | https://github.com/nawed20002/CVE-2021-46005 | | 
-| 20220127T13:32:08Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
 | 20220127T11:49:46Z | cve-2021-4034 | PoC for cve-2021-4034 | https://github.com/mike-artemis/cve-2021-4034 | | 
 | 20220127T10:22:23Z | CVE-2021-4034 | Python exploit for CVE-2021-4034 | https://github.com/Plethore/CVE-2021-4034 | | 
 | 20220127T10:09:55Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
 | 20220127T09:35:54Z | CVE-2021-4034 | Null | https://github.com/0xTRAW/CVE-2021-4034 | | 
-| 20220127T09:13:50Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
 | 20220127T08:40:59Z | CVE-2021-4034 | PoC CVE 2021-4034 PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec | https://github.com/NiS3x/CVE-2021-4034 | | 
 | 20220127T08:19:51Z | CVE-2021-4034 | Null | https://github.com/nikip72/CVE-2021-4034 | | 
 
@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T14:15:23Z | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | 48 | 6| 
 | 20220127T14:06:12Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 148 | 24| 
 | 20220127T13:44:20Z | LSM BPF module to block pwnkit (CVE-2021-4034) like exploits | https://github.com/evdenis/lsm_bpf_check_argc0 | 0 | 0| 
 | 20220127T13:37:40Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4297 | 573| 
@@ -68,7 +69,6 @@
 | 20220127T12:17:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 293 | 92| 
 | 20220127T11:53:32Z | some privilege escalation exploits | https://github.com/GustavoChiochetta/privilege_escalation | 0 | 0| 
 | 20220127T11:32:02Z | My proof-of-concept exploits for the Linux kernel, Windows Terminal and Android Kotlin | https://github.com/Vicvenpet/gen-exploits | 1 | 0| 
-| 20220127T10:58:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10656 | 1845| 
 
 
 # backdoor on Github 推荐
