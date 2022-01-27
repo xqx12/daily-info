@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220127T01:41:57Z | CVE-2022-22828 | Null | https://github.com/videnlabs/CVE-2022-22828 | | 
 | 20220127T01:31:11Z | CVE-2022- | Null | https://github.com/w1023913214/CVE-2022-test | | 
 | 20220127T01:21:53Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220127T01:19:37Z | CVE-2021-4034 | A simple proof-of-concept for CVE-2021-4034 (pkexec local privilege escalation) | https://github.com/cd80-ctf/CVE-2021-4034 | | 
@@ -55,7 +56,6 @@
 | 20220126T20:13:38Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
 | 20220126T19:46:57Z | CVE-2021-4034 | Null | https://github.com/vilasboasph/CVE-2021-4034 | | 
 | 20220126T19:45:27Z | CVE-2022-22919 | Null | https://github.com/jdordonezn/CVE-2022-22919 | | 
-| 20220126T19:37:20Z | CVE-2021-4034 | Null | https://github.com/hackingyseguridad/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
