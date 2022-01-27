@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220127T02:49:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4719 | 168| 
+| 20220127T02:51:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4720 | 168| 
 | 20220126T23:09:40Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 262 | 17| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T02:50:56Z | Dbuster-pro is a beta open-source hacking tool for scanning directories in the websites!  | https://github.com/DioBruh/dbuster-pro | 8 | 1| 
 | 20220127T01:12:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10652 | 1845| 
 | 20220127T00:20:29Z | Roblox 0day exploit also known as xss and pretty much a one click beaming method for roblox | https://github.com/lnfernal/roblox-rce | 1 | 0| 
 | 20220127T00:15:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 27 | 17| 
@@ -100,7 +101,6 @@
 | 20220126T21:41:13Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 698 | 168| 
 | 20220126T20:52:28Z | Designed for tracking spell slots and sorcery points for the unique case of crossing a warlock and a sorcerer exploiting the no sleep temp spell slot rules | https://github.com/wariokirby/CoffeelockCheeseTracker | 0 | 0| 
 | 20220126T20:22:25Z | exploit lab connor and kyle | https://github.com/kylekennedy26/3482-lab2 | 0 | 0| 
-| 20220126T19:56:12Z | Null | https://github.com/ISK33/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
