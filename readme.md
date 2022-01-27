@@ -59,7 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220127T12:57:34Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 142 | 23| 
+| 20220127T13:08:46Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 143 | 23| 
 | 20220127T12:51:05Z | simple roblox exploit class  | https://github.com/system-69/xen-api | 0 | 0| 
 | 20220127T12:25:20Z | A compilation of features that have been posted on uc or leaked. I take no credit for discovering or creating this code. | https://github.com/rain0x06/r6-exploits | 0 | 0| 
 | 20220127T12:17:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 293 | 92| 
