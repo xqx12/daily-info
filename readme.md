@@ -15,6 +15,7 @@
 | 20220127 | Apache httpd mod_lua 整数溢出 RCE 漏洞分析（CVE-2021-44790） | http://www.thezdi.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow| 
 | 20220127 | 新版本的 BRATA 木马 App 增加 GPS 跟踪和高级代码混淆特性 | https://threatpost.com/brata-android-trojan-kill-switch-wipes/177921/| 
 | 20220127 | 对 JSON Web Token (JWT) 的攻击方法总结. | https://infosecwriteups.com/attacks-on-json-web-token-jwt-278a49a1ad2e?gi=4f1ffa7b12cc| 
+| 20220127 | 服务器端模版注入SSTI分析与归纳. | https://tttang.com/archive/1412/| 
 
 
 # 安全维基 推荐
@@ -32,16 +33,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220127T14:19:44Z | CVE-2021-4034 | CVE-2021-4034, exploit para escalado de privilegios en SO Linux  a root | https://github.com/hackingyseguridad/CVE-2021-4034 | | 
-| 20220127T14:18:55Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
+| 20220127T14:24:18Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
+| 20220127T14:20:41Z | CVE-2021-4034 | CVE-2021-4034, exploit para escalado de privilegios en SO Linux  a root | https://github.com/hackingyseguridad/CVE-2021-4034 | | 
 | 20220127T14:15:23Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
 | 20220127T14:13:42Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
 | 20220127T14:09:46Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220127T13:50:06Z | CVE-2021-46005 | CVE-2021-46005 | https://github.com/nawed20002/CVE-2021-46005 | | 
+| 20220127T13:19:28Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220127T11:49:46Z | cve-2021-4034 | PoC for cve-2021-4034 | https://github.com/mike-artemis/cve-2021-4034 | | 
 | 20220127T10:22:23Z | CVE-2021-4034 | Python exploit for CVE-2021-4034 | https://github.com/Plethore/CVE-2021-4034 | | 
 | 20220127T09:35:54Z | CVE-2021-4034 | Null | https://github.com/0xTRAW/CVE-2021-4034 | | 
-| 20220127T08:40:59Z | CVE-2021-4034 | PoC CVE 2021-4034 PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec | https://github.com/NiS3x/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
@@ -60,8 +61,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T14:23:27Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 150 | 24| 
 | 20220127T14:20:41Z | CVE-2021-4034, exploit para escalado de privilegios en SO Linux  a root | https://github.com/hackingyseguridad/CVE-2021-4034 | 0 | 0| 
-| 20220127T14:20:19Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 149 | 24| 
 | 20220127T14:15:23Z | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | 48 | 6| 
 | 20220127T13:44:20Z | LSM BPF module to block pwnkit (CVE-2021-4034) like exploits | https://github.com/evdenis/lsm_bpf_check_argc0 | 0 | 0| 
 | 20220127T13:37:40Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4297 | 573| 
