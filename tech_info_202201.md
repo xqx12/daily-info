@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220127T13:55:40Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 146 | 24| 
+| 20220127T14:01:02Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 147 | 24| 
 | 20220127T13:44:20Z | LSM BPF module to block pwnkit (CVE-2021-4034) like exploits | https://github.com/evdenis/lsm_bpf_check_argc0 | 0 | 0| 
 | 20220127T13:37:40Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4297 | 573| 
 | 20220127T13:26:55Z | Bare-bones Roblox exploit API | https://github.com/system-69/roblox-exploit-api | 0 | 0| 
