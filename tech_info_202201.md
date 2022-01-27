@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T10:27:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 197 | 42| 
 | 20220124T21:11:43Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 80 | 36| 
-| 20220124T04:54:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 196 | 42| 
 | 20220121T18:39:30Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 | 20220121T18:18:20Z | Linux kernels (CGC DECREE and vanilla) with S2E extensions | https://github.com/S2E/s2e-linux-kernel | 17 | 5| 
 | 20220120T02:57:37Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 2 | 1| 
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T21:49:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2666 | 396| 
+| 20220127T12:35:05Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 2017 | 410| 
+| 20220127T10:27:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 197 | 42| 
+| 20220127T03:59:38Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 116 | 11| 
+| 20220127T03:42:49Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2667 | 396| 
 | 20220126T21:49:07Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 168 | 36| 
 | 20220126T20:38:42Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 0 | 0| 
 | 20220126T19:27:39Z | Example to use the KeY Theorem Prover for Symbolic Execution | https://github.com/KeYProject/symbex-java-example | 0 | 0| 
 | 20220126T12:41:27Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 104 | 8| 
-| 20220126T12:26:46Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 2015 | 410| 
 | 20220125T16:50:57Z | SIFT: Symbolic Execution with Selective Thread Scheduling | https://github.com/sysrel/SIFT | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
-| 20220124T17:51:08Z | Null | https://github.com/williamberman/evm-symbolic-execution | 13 | 0| 
-| 20220124T04:54:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 196 | 42| 
 
 
 # big4 on Github 推荐

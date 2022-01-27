@@ -53,6 +53,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T10:27:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 197 | 42| 
 
 
 # exploit on Github 推荐
@@ -81,6 +82,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T12:35:05Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 2017 | 410| 
+| 20220127T10:27:57Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 197 | 42| 
+| 20220127T03:59:38Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 116 | 11| 
+| 20220127T03:42:49Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2667 | 396| 
 
 
 # big4 on Github 推荐
