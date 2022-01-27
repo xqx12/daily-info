@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T02:17:14Z | StdFuzzer is the reference implementation of a generic bit-level fuzzer with LibAFL | https://github.com/AFLplusplus/StdFuzzer | 35 | 0| 
 | 20220127T02:01:34Z | Null | https://github.com/TiBerry08/Fuzzy-Search | 0 | 0| 
 | 20220127T01:57:40Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2424 | 474| 
 | 20220126T23:01:08Z | Given two list of strings, iterates the first one looking for similar strings on the second list. Returns the best match. | https://github.com/lucasivanmuller/fuzzy_list_matcher | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220126T22:34:37Z | Fuzzy control system car steering | https://github.com/a-float/psi-fuzzy-driving | 0 | 0| 
 | 20220126T21:43:47Z | Null | https://github.com/gadgetsmag/fuzzy-lamp | 0 | 0| 
 | 20220126T20:47:22Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1408 | 155| 
-| 20220126T19:18:01Z | StdFuzzer is the reference implementation of a generic bit-level fuzzer with LibAFL | https://github.com/AFLplusplus/StdFuzzer | 34 | 0| 
 | 20220126T17:43:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7042 | 1485| 
 | 20220126T16:06:13Z | 🔎 Fuzzy search EC2 instances to SSH into them | https://github.com/DavidWittman/ec2-fuzzy | 3 | 0| 
 
