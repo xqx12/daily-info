@@ -52,9 +52,9 @@
 | 20220126T20:52:28Z | Designed for tracking spell slots and sorcery points for the unique case of crossing a warlock and a sorcerer exploiting the no sleep temp spell slot rules | https://github.com/wariokirby/CoffeelockCheeseTracker | 0 | 0| 
 | 20220126T20:22:25Z | exploit lab connor and kyle | https://github.com/kylekennedy26/3482-lab2 | 0 | 0| 
 | 20220126T19:56:12Z | Null | https://github.com/ISK33/Exploit | 0 | 0| 
-| 20220126T19:32:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10651 | 1845| 
 | 20220126T13:32:11Z | Bukan hamkel | https://github.com/JaeXploit/WPFM-Exploiter | 1 | 0| 
 | 20220126T12:51:30Z | CVE, exploits and PoC%s only for educational purpose | https://github.com/ailtonbsj/exploits-and-others | 0 | 0| 
+| 20220126T12:03:45Z | PoC Exploit for CVE-2015-3306 | https://github.com/7unn3l/CVE-2015-3306-PoC | 0 | 0| 
 
 
 # backdoor on Github 推荐

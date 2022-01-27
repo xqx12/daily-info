@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T01:12:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10652 | 1845| 
 | 20220127T00:20:29Z | Roblox 0day exploit also known as xss and pretty much a one click beaming method for roblox | https://github.com/lnfernal/roblox-rce | 1 | 0| 
 | 20220127T00:15:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 27 | 17| 
 | 20220126T23:53:08Z | CVE-2021-4034  | https://github.com/luijait/PwnKit-Exploit | 2 | 0| 
@@ -100,7 +101,6 @@
 | 20220126T20:52:28Z | Designed for tracking spell slots and sorcery points for the unique case of crossing a warlock and a sorcerer exploiting the no sleep temp spell slot rules | https://github.com/wariokirby/CoffeelockCheeseTracker | 0 | 0| 
 | 20220126T20:22:25Z | exploit lab connor and kyle | https://github.com/kylekennedy26/3482-lab2 | 0 | 0| 
 | 20220126T19:56:12Z | Null | https://github.com/ISK33/Exploit | 0 | 0| 
-| 20220126T19:32:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10651 | 1845| 
 
 
 # backdoor on Github 推荐
