@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220127T02:31:43Z | CVE-2021-3156 | CVE-2021-3156 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2021-3156 | | 
 | 20220127T02:26:29Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220127T01:54:10Z | CVE-2022-9632 | Null | https://github.com/w1023913214/CVE-2022-9632 | | 
 | 20220127T01:53:47Z | CVE-2022-22828 | Write-up of CVE-2022-22828 | https://github.com/videnlabs/CVE-2022-22828 | | 
@@ -55,7 +56,6 @@
 | 20220126T23:40:24Z | CVE-2021-4034 | Linux system service bug gives root on all major distros, exploit published A vulnerability in the pkexec component of Polkit identified as CVE-2021-4034 PwnKit is present in the default configuration of all major Linux distributions and can be exploited to gain privileges over the compj researchers. | https://github.com/Anonymous-Family/CVE-2021-4034 | | 
 | 20220126T22:59:54Z | CVE-2020-4034 | Polkit pkexec CVE-2021-4034 Proof Of Concept and Patching | https://github.com/nobelh/CVE-2020-4034 | | 
 | 20220126T20:13:38Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
-| 20220126T19:46:57Z | CVE-2021-4034 | Null | https://github.com/vilasboasph/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
