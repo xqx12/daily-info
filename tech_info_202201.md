@@ -14,6 +14,7 @@
 | 20220127 | Apple 今天发布多个产品补丁更新，其中包括修复玄武实验室报告的两个漏洞 | https://support.apple.com/zh-cn/HT213055| 
 | 20220127 | Apache httpd mod_lua 整数溢出 RCE 漏洞分析（CVE-2021-44790） | http://www.thezdi.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow| 
 | 20220127 | 新版本的 BRATA 木马 App 增加 GPS 跟踪和高级代码混淆特性 | https://threatpost.com/brata-android-trojan-kill-switch-wipes/177921/| 
+| 20220127 | 对 JSON Web Token (JWT) 的攻击方法总结. | https://infosecwriteups.com/attacks-on-json-web-token-jwt-278a49a1ad2e?gi=4f1ffa7b12cc| 
 | 20220126 | 从Challenge42看Linux提权基本技巧. | https://tttang.com/archive/1414/| 
 | 20220125 | JavaScript Raider - JavaScript Fuzzing framework for v8 | https://github.com/freingruber/JavaScript-Raider| 
 | 20220125 | Realworld CTF 比赛中 Qiling Sandbox Escape 题的 writeup | http://www.kalmarunionen.dk/writeups/2022/rwctf/qlaas/| 
@@ -25,7 +26,6 @@
 | 20220125 | CVE-2021-33742：Internet Explorer MSHTML堆越界写漏洞分析 | http://blog.topsec.com.cn/cve-2021-33742-analysis_of_internet_explorer_mshtml_heap_out-of-bounds_write_vulnerability/| 
 | 20220125 | JAVA反序列化之C3P0. | https://tttang.com/archive/1411/| 
 | 20220124 | Cisco StarOS 被发现 RCE 漏洞 | https://gbhackers.com/cisco-staros-flaw/| 
-| 20220124 | 静态程序分析入门教程 | https://github.com/RangerNJU/Static-Program-Analysis-Book| 
 
 
 # 安全维基 推荐
@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220127T14:18:55Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
 | 20220127T14:15:23Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
-| 20220127T14:14:05Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
 | 20220127T14:13:42Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
 | 20220127T14:09:46Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220127T13:50:06Z | CVE-2021-46005 | CVE-2021-46005 | https://github.com/nawed20002/CVE-2021-46005 | | 

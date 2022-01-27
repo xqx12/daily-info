@@ -14,6 +14,7 @@
 | 20220127 | Apple 今天发布多个产品补丁更新，其中包括修复玄武实验室报告的两个漏洞 | https://support.apple.com/zh-cn/HT213055| 
 | 20220127 | Apache httpd mod_lua 整数溢出 RCE 漏洞分析（CVE-2021-44790） | http://www.thezdi.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow| 
 | 20220127 | 新版本的 BRATA 木马 App 增加 GPS 跟踪和高级代码混淆特性 | https://threatpost.com/brata-android-trojan-kill-switch-wipes/177921/| 
+| 20220127 | 对 JSON Web Token (JWT) 的攻击方法总结. | https://infosecwriteups.com/attacks-on-json-web-token-jwt-278a49a1ad2e?gi=4f1ffa7b12cc| 
 
 
 # 安全维基 推荐
@@ -31,8 +32,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220127T14:18:55Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
 | 20220127T14:15:23Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
-| 20220127T14:14:05Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
 | 20220127T14:13:42Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
 | 20220127T14:09:46Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220127T13:50:06Z | CVE-2021-46005 | CVE-2021-46005 | https://github.com/nawed20002/CVE-2021-46005 | | 
