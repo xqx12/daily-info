@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220127T01:21:53Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220127T01:19:37Z | CVE-2021-4034 | A simple proof-of-concept for CVE-2021-4034 (pkexec local privilege escalation) | https://github.com/cd80-ctf/CVE-2021-4034 | | 
 | 20220127T01:04:46Z | CVE-2021-4034 | Null | https://github.com/T3cnokarita/CVE-2021-4034 | | 
-| 20220127T00:42:57Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220126T23:40:24Z | CVE-2021-4034 | Linux system service bug gives root on all major distros, exploit published A vulnerability in the pkexec component of Polkit identified as CVE-2021-4034 PwnKit is present in the default configuration of all major Linux distributions and can be exploited to gain privileges over the compj researchers. | https://github.com/Anonymous-Family/CVE-2021-4034 | | 
 | 20220126T22:59:54Z | CVE-2020-4034 | Polkit pkexec CVE-2021-4034 Proof Of Concept and Patching | https://github.com/nobelh/CVE-2020-4034 | | 
 | 20220126T20:13:38Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220127T01:15:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4709 | 168| 
+| 20220127T01:21:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4711 | 168| 
 | 20220126T23:09:40Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 262 | 17| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220125T10:28:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1874 | 533| 
