@@ -19,23 +19,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220126T13:59:22Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220126T13:57:13Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
-| 20220126T13:56:21Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220126T13:55:51Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
-| 20220126T13:49:03Z | cve-2022-21907 | cve-2022-21907 | https://github.com/corelight/cve-2022-21907 | | 
-| 20220126T13:47:01Z | CVE-2021-4034 | Null | https://github.com/1nf1n17yk1ng/CVE-2021-4034 | | 
-| 20220126T12:49:03Z | CVE-2021-4034 | A stupid poc for CVE-2021-4034 | https://github.com/LukeGix/CVE-2021-4034 | | 
-| 20220126T12:44:22Z | CVE-2021-4034 | Null | https://github.com/jostmart/-CVE-2021-4034 | | 
-| 20220126T11:34:11Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
-| 20220126T11:22:13Z | CVE-2021-41773 | A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration "require all denied", these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue only affects Apache 2.4.49 and not earlier versions. Credits to: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773  | https://github.com/m96dg/CVE-2021-41773-exercise | | 
+| 20220126T23:46:28Z | CVE-2021-4034 | Null | https://github.com/T3cnokarita/CVE-2021-4034 | | 
+| 20220126T23:40:24Z | CVE-2021-4034 | Linux system service bug gives root on all major distros, exploit published A vulnerability in the pkexec component of Polkit identified as CVE-2021-4034 PwnKit is present in the default configuration of all major Linux distributions and can be exploited to gain privileges over the compj researchers. | https://github.com/Anonymous-Family/CVE-2021-4034 | | 
+| 20220126T22:59:54Z | CVE-2020-4034 | Polkit pkexec CVE-2021-4034 Proof Of Concept and Patching | https://github.com/nobelh/CVE-2020-4034 | | 
+| 20220126T20:13:38Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
+| 20220126T19:46:57Z | CVE-2021-4034 | Null | https://github.com/vilasboasph/CVE-2021-4034 | | 
+| 20220126T19:45:27Z | CVE-2022-22919 | Null | https://github.com/jdordonezn/CVE-2022-22919 | | 
+| 20220126T19:37:20Z | CVE-2021-4034 | Null | https://github.com/hackingyseguridad/CVE-2021-4034 | | 
+| 20220126T19:10:05Z | CVE-2021-4034 | Null | https://github.com/phvilasboas/CVE-2021-4034 | | 
+| 20220126T18:53:06Z | CVE-2022-23967 | TightVNC Vulnerability. | https://github.com/MaherAzzouzi/CVE-2022-23967 | | 
+| 20220126T17:50:58Z | CVE-2021-4034 | Null | https://github.com/robemmerson/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T13:51:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4682 | 166| 
-| 20220126T08:02:15Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 259 | 16| 
+| 20220126T23:09:40Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 262 | 17| 
 
 
 # s2e on Github 推荐
@@ -46,22 +45,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220126T23:53:08Z | CVE-2021-4034  | https://github.com/luijait/PwnKit-Exploit | 2 | 0| 
+| 20220126T23:44:49Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 5 | 1| 
+| 20220126T23:40:24Z | Linux system service bug gives root on all major distros, exploit published A vulnerability in the pkexec component of Polkit identified as CVE-2021-4034 PwnKit is present in the default configuration of all major Linux distributions and can be exploited to gain privileges over the compj researchers. | https://github.com/Anonymous-Family/CVE-2021-4034 | 2 | 0| 
+| 20220126T21:41:13Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 698 | 168| 
+| 20220126T20:52:28Z | Designed for tracking spell slots and sorcery points for the unique case of crossing a warlock and a sorcerer exploiting the no sleep temp spell slot rules | https://github.com/wariokirby/CoffeelockCheeseTracker | 0 | 0| 
+| 20220126T20:22:25Z | exploit lab connor and kyle | https://github.com/kylekennedy26/3482-lab2 | 0 | 0| 
+| 20220126T19:56:12Z | Null | https://github.com/ISK33/Exploit | 0 | 0| 
+| 20220126T19:32:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10651 | 1845| 
 | 20220126T13:32:11Z | Bukan hamkel | https://github.com/JaeXploit/WPFM-Exploiter | 1 | 0| 
 | 20220126T12:51:30Z | CVE, exploits and PoC%s only for educational purpose | https://github.com/ailtonbsj/exploits-and-others | 0 | 0| 
-| 20220126T12:03:45Z | PoC Exploit for CVE-2015-3306 | https://github.com/7unn3l/CVE-2015-3306-PoC | 0 | 0| 
-| 20220126T11:36:02Z | Fake Triggers for FiveM , To avoid cheaters from exploiting in your server. | https://github.com/NotReloads/reload-faketriggers | 0 | 0| 
-| 20220126T11:32:26Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 765 | 172| 
-| 20220126T11:28:20Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 695 | 168| 
-| 20220126T10:53:12Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3222 | 827| 
-| 20220126T10:20:27Z | material of exploit dev course | https://github.com/aleeamini/ExploitDevelopmentCourse | 0 | 0| 
-| 20220126T10:05:45Z | discord-hack discord-exploits discord-exploit i2rys 0discord discord-hacking-tools discord-exploit-collection discord-tools-collection discord-fun-tools discord-trolling-tools | https://github.com/darkencoder/-ODiscord | 0 | 0| 
-| 20220126T08:53:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 292 | 92| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220126T12:14:36Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6051 | 1897| 
+| 20220126T21:30:31Z | Null | https://github.com/NormalUhr/warping_backdoor | 0 | 0| 
+| 20220126T18:41:38Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6053 | 1896| 
 | 20220126T06:02:13Z | This demonstration video shows how we can control the victim%s device by sending the innocent-looking PDF file to the target which actually consists of embedded payload. The exploit was made public as CVE-2010-1240. | https://github.com/omarothmann/Embedded-Backdoor-Connection | 0 | 0| 
 | 20220126T03:18:08Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 4 | 1| 
 | 20220126T03:15:07Z | Null | https://github.com/harol1997/backdoor | 0 | 0| 
@@ -83,16 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220126T23:01:08Z | Given two list of strings, iterates the first one looking for similar strings on the second list. Returns the best match. | https://github.com/lucasivanmuller/fuzzy_list_matcher | 0 | 0| 
+| 20220126T22:39:39Z | Essay about the usage of fuzzing for finding vulnerabilities in network protocols, made as a project for the course %Security Protocols% from Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest | https://github.com/iosifache/NetworkProtocolsFuzzing | 1 | 0| 
+| 20220126T22:34:37Z | Fuzzy control system car steering | https://github.com/a-float/psi-fuzzy-driving | 0 | 0| 
+| 20220126T22:25:03Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2423 | 474| 
+| 20220126T21:43:47Z | Null | https://github.com/gadgetsmag/fuzzy-lamp | 0 | 0| 
+| 20220126T20:47:22Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1408 | 155| 
+| 20220126T19:18:01Z | StdFuzzer is the reference implementation of a generic bit-level fuzzer with LibAFL | https://github.com/AFLplusplus/StdFuzzer | 34 | 0| 
+| 20220126T17:43:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7042 | 1485| 
 | 20220126T13:58:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 750 | 74| 
 | 20220126T13:20:28Z | Fuzzy string search | https://github.com/Orangesoft-Development/fuzzy-search | 0 | 0| 
-| 20220126T12:55:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7039 | 1485| 
-| 20220126T12:24:32Z | Null | https://github.com/rujack/bsmFuzzy | 1 | 0| 
-| 20220126T12:18:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2418 | 474| 
-| 20220126T12:07:10Z | Null | https://github.com/AdamKorcz/go-118-fuzz-build | 3 | 0| 
-| 20220126T11:26:30Z | Null | https://github.com/Bronomor/FuzzyLogic | 0 | 0| 
-| 20220126T08:25:26Z | Berserk API Fuzzer | https://github.com/tisnik/baf | 0 | 0| 
-| 20220126T05:19:49Z | Null | https://github.com/OFxGL/FuzzingTest | 0 | 0| 
-| 20220126T02:40:13Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 676 | 142| 
 
 
 
