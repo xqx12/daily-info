@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220127T14:15:23Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
 | 20220127T14:14:05Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
 | 20220127T14:13:42Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
 | 20220127T14:09:46Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220127T13:50:06Z | CVE-2021-46005 | CVE-2021-46005 | https://github.com/nawed20002/CVE-2021-46005 | | 
 | 20220127T11:49:46Z | cve-2021-4034 | PoC for cve-2021-4034 | https://github.com/mike-artemis/cve-2021-4034 | | 
 | 20220127T10:22:23Z | CVE-2021-4034 | Python exploit for CVE-2021-4034 | https://github.com/Plethore/CVE-2021-4034 | | 
-| 20220127T10:09:55Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
 | 20220127T09:35:54Z | CVE-2021-4034 | Null | https://github.com/0xTRAW/CVE-2021-4034 | | 
 | 20220127T08:40:59Z | CVE-2021-4034 | PoC CVE 2021-4034 PwnKit: Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec | https://github.com/NiS3x/CVE-2021-4034 | | 
 | 20220127T08:19:51Z | CVE-2021-4034 | Null | https://github.com/nikip72/CVE-2021-4034 | | 
