@@ -136,13 +136,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T08:58:47Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 1 | 0| 
 | 20220125T07:07:19Z | Implementation of paper %Proof of Storage-Time: Efficiently Checking Continuous Data Availability% | https://github.com/winderica/PoST_NDSS20 | 3 | 0| 
 | 20220124T18:38:59Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 2 | 0| 
 | 20220121T04:32:41Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 33 | 8| 
 | 20220118T13:38:37Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 2 | 1| 
 | 20220117T17:34:12Z | This repository contains artifacts and synthesized translations from synthCT (NDSS%22) | https://github.com/FPSG-UIUC/synthCT-artifacts | 1 | 0| 
 | 20220114T17:43:23Z | An implementation of Brick, anonymized for the NDSS 2020 paper submission | https://github.com/ndss2020-brick-submission/brick | 1 | 1| 
-| 20220113T13:27:34Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 0 | 0| 
 | 20220108T07:02:35Z | A penetration testing tool for finding file upload bugs (NDSS 2020) | https://github.com/WSP-LAB/FUSE | 211 | 44| 
 | 20220107T05:24:59Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 60 | 21| 
 | 20220106T07:30:53Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 14 | 0| 
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T13:04:14Z | Null | https://github.com/kseniashilova/Fuzzy-Modeling | 0 | 0| 
 | 20220127T13:01:20Z | I have created login system using php having basic functionality such as login user and take to welcome page if user_type is %student% otherwise if user type is %admin% take user to xammp phpadmin page. There is also a registration form to self-register a new user on system by default user_type will be %student%. Further, it has forgot password functionality using security question and security answer. also there is logout functionality on welcome page to logout user by destroying session. | https://github.com/RahulCGcoea/php-fuzzy-bassoon.gihub.io | 0 | 0| 
 | 20220127T12:57:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7045 | 1485| 
 | 20220127T12:48:38Z | haskell fuzzers | https://github.com/trevalkov/hfuzz | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20220127T11:30:31Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 64 | 7| 
 | 20220127T11:21:31Z | Null | https://github.com/TP-67/FUZZY-LOGIC-JAN-2022 | 0 | 0| 
 | 20220127T11:16:25Z | introduction to afl fuzz (slides & code) | https://github.com/nmoskopp/afl-fuzz-talk | 0 | 0| 
-| 20220127T10:22:03Z | Null | https://github.com/Zara-Iqbal/AcademicPerformance-FuzzyLogic | 0 | 0| 
 
 
 

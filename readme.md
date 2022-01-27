@@ -91,11 +91,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T08:58:47Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T13:04:14Z | Null | https://github.com/kseniashilova/Fuzzy-Modeling | 0 | 0| 
 | 20220127T13:01:20Z | I have created login system using php having basic functionality such as login user and take to welcome page if user_type is %student% otherwise if user type is %admin% take user to xammp phpadmin page. There is also a registration form to self-register a new user on system by default user_type will be %student%. Further, it has forgot password functionality using security question and security answer. also there is logout functionality on welcome page to logout user by destroying session. | https://github.com/RahulCGcoea/php-fuzzy-bassoon.gihub.io | 0 | 0| 
 | 20220127T12:57:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7045 | 1485| 
 | 20220127T12:48:38Z | haskell fuzzers | https://github.com/trevalkov/hfuzz | 0 | 0| 
@@ -105,7 +107,6 @@
 | 20220127T11:30:31Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 64 | 7| 
 | 20220127T11:21:31Z | Null | https://github.com/TP-67/FUZZY-LOGIC-JAN-2022 | 0 | 0| 
 | 20220127T11:16:25Z | introduction to afl fuzz (slides & code) | https://github.com/nmoskopp/afl-fuzz-talk | 0 | 0| 
-| 20220127T10:22:03Z | Null | https://github.com/Zara-Iqbal/AcademicPerformance-FuzzyLogic | 0 | 0| 
 
 
 
