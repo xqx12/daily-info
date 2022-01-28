@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220128T01:45:07Z | CVE-2020-29599 | Null | https://github.com/genjix2/CVE-2020-29599 | | 
 | 20220128T01:37:45Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220128T01:37:30Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T01:27:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -55,13 +56,12 @@
 | 20220127T23:42:17Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
 | 20220127T20:46:39Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
 | 20220127T19:37:54Z | CVE-2021-4034 | Null | https://github.com/MedKH1684/Pwnkit-CVE-2021-4034 | | 
-| 20220127T18:46:02Z | CVE-2021-45416 | Reflected Cross-site scripting (XSS) vulnerability in RosarioSIS 8.2.1 allows attackers to inject arbitrary HTML via the search_term parameter in the modules/Scheduling/Courses.php script. | https://github.com/86x/CVE-2021-45416 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220128T01:41:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4774 | 170| 
+| 20220128T01:45:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4775 | 170| 
 | 20220128T01:26:04Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 266 | 17| 
 | 20220127T15:22:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1875 | 533| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
