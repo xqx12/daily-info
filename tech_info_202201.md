@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220128T01:35:16Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220128T01:37:45Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220128T01:37:30Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T01:27:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220128T01:19:45Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T00:50:08Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
 | 20220128T00:29:52Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
 | 20220128T00:26:40Z | CVE-2021-43789 | Prestashop >= 1.7.5.0 < 1.7.8.2 - SQL injection | https://github.com/numanturle/CVE-2021-43789 | | 
