@@ -18,9 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220128T13:30:07Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T13:27:04Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220128T13:26:23Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/Pr0f3ssor/CVE-2021-4034 | | 
-| 20220128T13:22:15Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T13:22:03Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
 | 20220128T13:04:22Z | CVE-2021-4034 | Null | https://github.com/Yakumwamba/POC-CVE-2021-4034 | | 
 | 20220128T12:08:25Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
@@ -62,7 +62,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220128T13:21:22Z | Null | https://github.com/ErilinAleksei/Backdoor | 0 | 0| 
+| 20220128T13:30:15Z | Null | https://github.com/ErilinAleksei/Backdoor | 0 | 0| 
 | 20220128T05:44:02Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 481 | 174| 
 | 20220128T00:06:37Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6055 | 1896| 
 
