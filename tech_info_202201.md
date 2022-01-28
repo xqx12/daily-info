@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220128T02:58:42Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T02:58:00Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220128T02:54:38Z | CVE-2021-4032 | Null | https://github.com/EstamelGG/CVE-2021-4032-NoGCC | | 
-| 20220128T02:37:17Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T01:49:20Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
 | 20220128T01:45:07Z | CVE-2020-29599 | Null | https://github.com/genjix2/CVE-2020-29599 | | 
 | 20220128T01:27:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
