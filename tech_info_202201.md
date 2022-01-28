@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220128T01:54:26Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220128T01:54:23Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220128T01:49:20Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
-| 20220128T01:48:11Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220128T01:45:07Z | CVE-2020-29599 | Null | https://github.com/genjix2/CVE-2020-29599 | | 
-| 20220128T01:37:30Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T01:27:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220128T00:50:08Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
 | 20220128T00:26:40Z | CVE-2021-43789 | Prestashop >= 1.7.5.0 < 1.7.8.2 - SQL injection | https://github.com/numanturle/CVE-2021-43789 | | 
@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220128T01:53:39Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 165 | 28| 
 | 20220128T01:49:20Z | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | 10 | 4| 
-| 20220128T01:42:12Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 164 | 28| 
 | 20220128T00:47:48Z | SaveService is a project created by Captan40000 for ROBLOX. This is currently not public and is for many things (e.g anti-exploit, saving values) Not to be confused with DataStoreService. | https://github.com/Captan40000/SaveService | 0 | 0| 
 | 20220128T00:29:42Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 19 | 7| 
 | 20220128T00:25:07Z | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | 10 | 2| 
