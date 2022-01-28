@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220128T01:49:20Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
 | 20220128T01:48:11Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220128T01:46:24Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
 | 20220128T01:45:07Z | CVE-2020-29599 | Null | https://github.com/genjix2/CVE-2020-29599 | | 
 | 20220128T01:37:30Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T01:27:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220128T01:46:24Z | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | 9 | 4| 
+| 20220128T01:49:20Z | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | 10 | 4| 
 | 20220128T01:42:12Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 164 | 28| 
 | 20220128T00:47:48Z | SaveService is a project created by Captan40000 for ROBLOX. This is currently not public and is for many things (e.g anti-exploit, saving values) Not to be confused with DataStoreService. | https://github.com/Captan40000/SaveService | 0 | 0| 
 | 20220128T00:29:42Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 19 | 7| 
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220128T01:50:05Z | Null | https://github.com/Raniajoe/fuzzy-memory- | 0 | 0| 
 | 20220128T01:17:28Z | Divya_Java_Code_Files_Import | https://github.com/DivyasreeGarlapati/fuzzy-palm-tree | 1 | 0| 
 | 20220128T00:06:23Z | Null | https://github.com/BoomAmplifier/Fuzzy_HW | 0 | 0| 
 | 20220128T00:02:13Z | Premier petit programme en Rust, un web fuzzer. | https://github.com/reverseth/fuzzosaur | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20220127T22:04:16Z | Null | https://github.com/stricklandrbls/Valheim-Server-Fuzzer | 0 | 0| 
 | 20220127T20:33:33Z | The all tools in this repo are in BlachArch Linux | https://github.com/RobertoLeonNS/Fuzzer-HackingTools | 0 | 0| 
 | 20220127T16:05:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4668 | 477| 
-| 20220127T15:53:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2466 | 155| 
 
 
 
