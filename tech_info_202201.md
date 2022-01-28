@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220128T01:22:36Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 163 | 28| 
+| 20220128T01:42:12Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 164 | 28| 
 | 20220128T00:47:48Z | SaveService is a project created by Captan40000 for ROBLOX. This is currently not public and is for many things (e.g anti-exploit, saving values) Not to be confused with DataStoreService. | https://github.com/Captan40000/SaveService | 0 | 0| 
 | 20220128T00:29:52Z | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | 8 | 4| 
 | 20220128T00:29:42Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 19 | 7| 
