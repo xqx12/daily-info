@@ -41,16 +41,15 @@
 | 20220127T17:40:42Z | CVE-2021-4034 | Null | https://github.com/0xTRAW/CVE-2021-4034 | | 
 | 20220127T17:21:21Z | CVE-2021-4034 | Exploit PoC for the polkit pkexec (PWNKIT) vulnerability | https://github.com/rayheffer/CVE-2021-4034 | | 
 | 20220127T16:50:40Z | CVE-2021-4024 | Linux LPE using polkit-1 written in Rust.  | https://github.com/deoxykev/CVE-2021-4024-Rust | | 
-| 20220127T16:29:56Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220127T16:25:54Z | CVE-2022-0185 | Null | https://github.com/khaclep007/CVE-2022-0185 | | 
 | 20220127T15:42:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
+| 20220127T14:24:18Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220127T15:22:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1875 | 533| 
-| 20220127T13:28:48Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 265 | 17| 
 
 
 # s2e on Github 推荐
