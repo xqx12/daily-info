@@ -46,8 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220128T12:57:20Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220128T12:57:10Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220128T13:04:22Z | CVE-2021-4034 | Null | https://github.com/Yakumwamba/POC-CVE-2021-4034 | | 
+| 20220128T13:03:38Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220128T13:03:37Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T12:08:25Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
 | 20220128T11:16:00Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
 | 20220128T11:04:40Z | CVE-2020-0796 | Scanner for CVE-2020-0796 | https://github.com/julixsalas/CVE-2020-0796 | | 
@@ -55,7 +56,6 @@
 | 20220128T07:29:58Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220128T07:23:24Z | CVE-2021-4034 | Exploit for Local Privilege Escalation Vulnerability in polkit’s pkexec  | https://github.com/JoyGhoshs/CVE-2021-4034 | | 
 | 20220128T06:36:31Z | CVE-2021-4032 | Null | https://github.com/EstamelGG/CVE-2021-4032-NoGCC | | 
-| 20220128T04:33:54Z | CVE-2021-4034 | CVE-2021-4034 - One line in the terminal for an instant priv esc to boxes that are vulnerable. See usage. | https://github.com/n3onhacks/CVE-2021-4034-BASH-One-File-Exploit | | 
 
 
 # klee on Github 推荐
