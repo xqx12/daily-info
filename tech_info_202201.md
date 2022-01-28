@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220128T03:16:06Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220128T03:11:45Z | CVE-2021-4032 | Null | https://github.com/EstamelGG/CVE-2021-4032-NoGCC | | 
-| 20220128T02:58:42Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220128T01:49:20Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
-| 20220128T01:45:07Z | CVE-2020-29599 | Null | https://github.com/genjix2/CVE-2020-29599 | | 
-| 20220128T01:27:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220128T00:50:08Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
-| 20220128T00:26:40Z | CVE-2021-43789 | Prestashop >= 1.7.5.0 < 1.7.8.2 - SQL injection | https://github.com/numanturle/CVE-2021-43789 | | 
-| 20220127T23:42:17Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
-| 20220127T20:46:39Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
+| 20220128T12:57:20Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220128T12:57:10Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220128T12:08:25Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
+| 20220128T11:16:00Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
+| 20220128T11:04:40Z | CVE-2020-0796 | Scanner for CVE-2020-0796 | https://github.com/julixsalas/CVE-2020-0796 | | 
+| 20220128T10:44:58Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
+| 20220128T07:29:58Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
+| 20220128T07:23:24Z | CVE-2021-4034 | Exploit for Local Privilege Escalation Vulnerability in polkit’s pkexec  | https://github.com/JoyGhoshs/CVE-2021-4034 | | 
+| 20220128T06:36:31Z | CVE-2021-4032 | Null | https://github.com/EstamelGG/CVE-2021-4032-NoGCC | | 
+| 20220128T04:33:54Z | CVE-2021-4034 | CVE-2021-4034 - One line in the terminal for an instant priv esc to boxes that are vulnerable. See usage. | https://github.com/n3onhacks/CVE-2021-4034-BASH-One-File-Exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220128T01:45:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4775 | 170| 
+| 20220128T12:04:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4804 | 171| 
+| 20220128T08:00:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1876 | 533| 
+| 20220128T05:32:26Z | Caltech first-year graduate student proposition project with Katherine de Kleer studying oxygen aurora on Ganymede. | https://github.com/zachariahmilby/ge-297-de-kleer-ganymede-aurora | 0 | 0| 
 | 20220128T01:26:04Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 266 | 17| 
-| 20220127T15:22:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1875 | 533| 
 | 20220125T14:39:25Z | Null | https://github.com/targetcom/https-www.target.com-p-kleenex-perfect-fit-facial-tissue---A-84754791-preselect-16719210 | 0 | 0| 
 | 20220122T19:07:42Z | Config files for my GitHub profile. | https://github.com/klee3333/klee3333 | 0 | 0| 
 | 20220121T22:53:28Z | Null | https://github.com/fedorgrab/klee-frontend | 0 | 0| 
 | 20220121T13:55:54Z | woo | https://github.com/xinrachel30/kleex | 1 | 0| 
 | 20220120T14:13:53Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 16 | 1| 
 | 20220119T08:29:24Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
-| 20220116T20:42:49Z | Klee Fishing Mania!  | https://github.com/reinharttanto/python_game_FP | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -91,22 +91,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220128T12:17:08Z | Proof of Concept (PoC) CVE-2021-4034  | https://github.com/luijait/PwnKit-Exploit | 9 | 1| 
+| 20220128T12:02:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10664 | 1846| 
+| 20220128T09:58:29Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8690 | 1486| 
+| 20220128T09:47:48Z | You can use to capture the stored password after the post exploitation for the windows machine and then report will be send to you through gmail. | https://github.com/charlesaurav13/storedpasswordcapture | 0 | 0| 
+| 20220128T09:37:54Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1036 | 229| 
+| 20220128T09:00:52Z | NO CREDITS NEEDED JUST PUT THIS IN YOUR CLIENT!!!!! | https://github.com/YeetBlank1337/VRChat-RCE-Exploit-Fix | 0 | 0| 
+| 20220128T04:31:43Z | A collection of LPE exploits written in Go | https://github.com/jm33-m0/go-lpe | 12 | 0| 
 | 20220128T03:06:13Z | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | 12 | 2| 
 | 20220128T02:42:51Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 168 | 28| 
 | 20220128T01:49:20Z | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | 10 | 4| 
-| 20220128T00:47:48Z | SaveService is a project created by Captan40000 for ROBLOX. This is currently not public and is for many things (e.g anti-exploit, saving values) Not to be confused with DataStoreService. | https://github.com/Captan40000/SaveService | 0 | 0| 
-| 20220128T00:29:42Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 19 | 7| 
-| 20220128T00:06:37Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6055 | 1896| 
-| 20220127T21:11:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10661 | 1846| 
-| 20220127T20:23:50Z | Null | https://github.com/scripter54/vbulletin-5.6.1-EXPLOIT- | 1 | 0| 
-| 20220127T18:50:46Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 48 | 24| 
-| 20220127T14:20:41Z | CVE-2021-4034, exploit para escalado de privilegios en SO Linux  a root | https://github.com/hackingyseguridad/CVE-2021-4034 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220128T02:49:53Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 480 | 174| 
+| 20220128T05:44:02Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 481 | 174| 
 | 20220128T00:06:37Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6055 | 1896| 
 | 20220127T21:27:19Z | Windows NTLM Authentication Backdoor | https://github.com/RITRedteam/nosferatu | 1 | 0| 
 | 20220127T16:58:32Z | Null | https://github.com/BobDaGithubAccount/backdoorConfig | 0 | 0| 
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220128T13:01:05Z | much fuzzers very wow | https://github.com/trevalkov/muchfuzzers | 0 | 0| 
+| 20220128T12:21:12Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1449 | 279| 
+| 20220128T11:41:52Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 212 | 11| 
+| 20220128T10:47:03Z | Null | https://github.com/peter8rabit/covering-fuzzy | 0 | 0| 
+| 20220128T09:32:40Z | Testing this github kinikan | https://github.com/ErikTheHunter/fuzzy-robot | 0 | 0| 
+| 20220128T09:23:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 752 | 74| 
+| 20220128T08:26:25Z | Null | https://github.com/cristina-ticala/Fuzzy_image_edge_detection_ACO | 0 | 0| 
 | 20220128T01:50:05Z | Null | https://github.com/Raniajoe/fuzzy-memory- | 0 | 0| 
 | 20220128T01:17:28Z | Divya_Java_Code_Files_Import | https://github.com/DivyasreeGarlapati/fuzzy-palm-tree | 1 | 0| 
 | 20220128T00:06:23Z | Null | https://github.com/BoomAmplifier/Fuzzy_HW | 0 | 0| 
-| 20220128T00:02:13Z | Premier petit programme en Rust, un web fuzzer. | https://github.com/reverseth/fuzzosaur | 0 | 0| 
-| 20220127T23:48:36Z | Fuzzer of directotories. | https://github.com/Diperblue/Script-for-fuzzing-directories | 0 | 0| 
-| 20220127T23:08:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7047 | 1485| 
-| 20220127T22:53:00Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1410 | 157| 
-| 20220127T22:04:16Z | Null | https://github.com/stricklandrbls/Valheim-Server-Fuzzer | 0 | 0| 
-| 20220127T20:33:33Z | The all tools in this repo are in BlachArch Linux | https://github.com/RobertoLeonNS/Fuzzer-HackingTools | 0 | 0| 
-| 20220127T16:05:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4668 | 477| 
 
 
 
