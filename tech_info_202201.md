@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220128T03:16:06Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220128T03:11:45Z | CVE-2021-4032 | Null | https://github.com/EstamelGG/CVE-2021-4032-NoGCC | | 
 | 20220128T02:58:42Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220128T02:58:00Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220128T02:54:38Z | CVE-2021-4032 | Null | https://github.com/EstamelGG/CVE-2021-4032-NoGCC | | 
 | 20220128T01:49:20Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
 | 20220128T01:45:07Z | CVE-2020-29599 | Null | https://github.com/genjix2/CVE-2020-29599 | | 
 | 20220128T01:27:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -91,11 +91,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220128T03:06:13Z | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | 12 | 2| 
 | 20220128T02:42:51Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 168 | 28| 
 | 20220128T01:49:20Z | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | 10 | 4| 
 | 20220128T00:47:48Z | SaveService is a project created by Captan40000 for ROBLOX. This is currently not public and is for many things (e.g anti-exploit, saving values) Not to be confused with DataStoreService. | https://github.com/Captan40000/SaveService | 0 | 0| 
 | 20220128T00:29:42Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 19 | 7| 
-| 20220128T00:25:07Z | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | 10 | 2| 
 | 20220128T00:06:37Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6055 | 1896| 
 | 20220127T21:11:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10661 | 1846| 
 | 20220127T20:23:50Z | Null | https://github.com/scripter54/vbulletin-5.6.1-EXPLOIT- | 1 | 0| 
