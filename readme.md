@@ -16,6 +16,7 @@
 | 20220127 | 新版本的 BRATA 木马 App 增加 GPS 跟踪和高级代码混淆特性 | https://threatpost.com/brata-android-trojan-kill-switch-wipes/177921/| 
 | 20220127 | 对 JSON Web Token (JWT) 的攻击方法总结. | https://infosecwriteups.com/attacks-on-json-web-token-jwt-278a49a1ad2e?gi=4f1ffa7b12cc| 
 | 20220127 | 服务器端模版注入SSTI分析与归纳. | https://tttang.com/archive/1412/| 
+| 20220127 | CodeQL 学习提升篇. | https://tttang.com/archive/1415/| 
 
 
 # 安全维基 推荐
@@ -33,22 +34,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220127T14:24:18Z | CVE-2022-21882 | win32k LPE  | https://github.com/KaLendsi/CVE-2022-21882 | | 
-| 20220127T14:20:41Z | CVE-2021-4034 | CVE-2021-4034, exploit para escalado de privilegios en SO Linux  a root | https://github.com/hackingyseguridad/CVE-2021-4034 | | 
-| 20220127T14:15:23Z | CVE-2021-4034 | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | | 
-| 20220127T14:13:42Z | CVE-2021-4034 | polkit pkexec Local Privilege Vulnerability to Add custom commands | https://github.com/zhzyker/CVE-2021-4034 | | 
-| 20220127T14:09:46Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220127T13:50:06Z | CVE-2021-46005 | CVE-2021-46005 | https://github.com/nawed20002/CVE-2021-46005 | | 
-| 20220127T13:19:28Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
-| 20220127T11:49:46Z | cve-2021-4034 | PoC for cve-2021-4034 | https://github.com/mike-artemis/cve-2021-4034 | | 
-| 20220127T10:22:23Z | CVE-2021-4034 | Python exploit for CVE-2021-4034 | https://github.com/Plethore/CVE-2021-4034 | | 
-| 20220127T09:35:54Z | CVE-2021-4034 | Null | https://github.com/0xTRAW/CVE-2021-4034 | | 
+| 20220127T23:42:17Z | cve-2021-4034 | PoC for CVE-2021-4034 dubbed pwnkit | https://github.com/dzonerzy/poc-cve-2021-4034 | | 
+| 20220127T20:46:39Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
+| 20220127T19:37:54Z | CVE-2021-4034 | Null | https://github.com/MedKH1684/Pwnkit-CVE-2021-4034 | | 
+| 20220127T18:46:02Z | CVE-2021-45416 | Reflected Cross-site scripting (XSS) vulnerability in RosarioSIS 8.2.1 allows attackers to inject arbitrary HTML via the search_term parameter in the modules/Scheduling/Courses.php script. | https://github.com/86x/CVE-2021-45416 | | 
+| 20220127T17:40:42Z | CVE-2021-4034 | Null | https://github.com/0xTRAW/CVE-2021-4034 | | 
+| 20220127T17:21:21Z | CVE-2021-4034 | Exploit PoC for the polkit pkexec (PWNKIT) vulnerability | https://github.com/rayheffer/CVE-2021-4034 | | 
+| 20220127T16:50:40Z | CVE-2021-4024 | Linux LPE using polkit-1 written in Rust.  | https://github.com/deoxykev/CVE-2021-4024-Rust | | 
+| 20220127T16:29:56Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220127T16:25:54Z | CVE-2022-0185 | Null | https://github.com/khaclep007/CVE-2022-0185 | | 
+| 20220127T15:42:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220127T13:54:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4762 | 169| 
+| 20220127T15:22:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1875 | 533| 
 | 20220127T13:28:48Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 265 | 17| 
 
 
@@ -61,23 +62,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220127T14:23:27Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 150 | 24| 
+| 20220127T21:11:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10661 | 1846| 
+| 20220127T20:23:50Z | Null | https://github.com/scripter54/vbulletin-5.6.1-EXPLOIT- | 1 | 0| 
+| 20220127T18:50:46Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 48 | 24| 
 | 20220127T14:20:41Z | CVE-2021-4034, exploit para escalado de privilegios en SO Linux  a root | https://github.com/hackingyseguridad/CVE-2021-4034 | 0 | 0| 
 | 20220127T14:15:23Z | Exploit for CVE-2021-4034 | https://github.com/Ayrx/CVE-2021-4034 | 48 | 6| 
 | 20220127T13:44:20Z | LSM BPF module to block pwnkit (CVE-2021-4034) like exploits | https://github.com/evdenis/lsm_bpf_check_argc0 | 0 | 0| 
 | 20220127T13:37:40Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4297 | 573| 
 | 20220127T13:26:55Z | Bare-bones Roblox exploit API | https://github.com/system-69/roblox-exploit-api | 0 | 0| 
+| 20220127T13:26:20Z | A collection of intelligence about Log4Shell and its exploitation activity.  | https://github.com/curated-intel/Log4Shell-IOCs | 153 | 33| 
 | 20220127T12:51:05Z | simple roblox exploit class  | https://github.com/system-69/xen-api | 0 | 0| 
-| 20220127T12:25:20Z | A compilation of features that have been posted on uc or leaked. I take no credit for discovering or creating this code. | https://github.com/rain0x06/r6-exploits | 0 | 0| 
-| 20220127T12:17:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 293 | 92| 
-| 20220127T11:53:32Z | some privilege escalation exploits | https://github.com/GustavoChiochetta/privilege_escalation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T21:27:19Z | Windows NTLM Authentication Backdoor | https://github.com/RITRedteam/nosferatu | 1 | 0| 
+| 20220127T16:58:32Z | Null | https://github.com/BobDaGithubAccount/backdoorConfig | 0 | 0| 
+| 20220127T16:15:09Z | Shell Backdoor scanner Tools for scanning Backdoor in your Application ! | https://github.com/galehrizky/Shell-Backdoor-Scanner | 0 | 0| 
+| 20220127T16:12:06Z | Experimental code for the submitted paper %Hidden Trigger Backdoor Attack on NLP Models via Linguistic Style Manipulation% | https://github.com/ravenSanstete/LISM-Security22-MR | 0 | 0| 
 | 20220127T06:24:35Z | This super basic tool makes our victim run a program and send us their credentials, either emails or passwords to our mail. | https://github.com/Skull6000/Email-Backdoor | 0 | 0| 
-| 20220127T06:13:27Z | Windows NTLM Authentication Backdoor | https://github.com/RITRedteam/nosferatu | 0 | 0| 
 | 20220127T03:49:11Z | Null | https://github.com/Mostafa-Samy-97/Python-HTTP-Backdoor | 0 | 0| 
 
 
@@ -99,16 +103,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220127T23:48:36Z | Fuzzer of directotories. | https://github.com/Diperblue/Script-for-fuzzing-directories | 0 | 0| 
+| 20220127T23:08:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7047 | 1485| 
+| 20220127T22:53:00Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1410 | 157| 
+| 20220127T22:04:16Z | Null | https://github.com/stricklandrbls/Valheim-Server-Fuzzer | 0 | 0| 
+| 20220127T20:33:33Z | The all tools in this repo are in BlachArch Linux | https://github.com/RobertoLeonNS/Fuzzer-HackingTools | 0 | 0| 
+| 20220127T16:05:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4668 | 477| 
+| 20220127T15:53:44Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2466 | 155| 
 | 20220127T13:46:16Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 66 | 7| 
 | 20220127T13:45:58Z | I have created login system using php having basic functionality such as login user and take to welcome page if user_type is %student% otherwise if user type is %admin% take user to xammp phpadmin page. There is also a registration form to self-register a new user on system by default user_type will be %student%. Further, it has forgot password functionality using security question and security answer. also there is logout functionality on welcome page to logout user by destroying session. | https://github.com/RahulCGcoea/php-fuzzy-bassoon | 0 | 0| 
 | 20220127T13:43:48Z | Null | https://github.com/gclwf4ka2f1d/fuzzy-enigma | 0 | 0| 
-| 20220127T13:05:29Z | I have created login system using php having basic functionality such as login user and take to welcome page if user_type is %student% otherwise if user type is %admin% take user to xammp phpadmin page. There is also a registration form to self-register a new user on system by default user_type will be %student%. Further, it has forgot password functionality using security question and security answer. also there is logout functionality on welcome page to logout user by destroying session. | https://github.com/RahulCGcoea/php-fuzzy-bassoon.gihub.io | 0 | 0| 
-| 20220127T13:04:14Z | Null | https://github.com/kseniashilova/Fuzzy-Modeling | 0 | 0| 
-| 20220127T12:57:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7045 | 1485| 
-| 20220127T12:48:38Z | haskell fuzzers | https://github.com/trevalkov/hfuzz | 0 | 0| 
-| 20220127T12:30:39Z | Null | https://github.com/Abba0027/fuzzy-octo-broccoli | 0 | 0| 
-| 20220127T11:55:16Z | Null | https://github.com/divya-ilona/Fuzzy-Genetic-Hybrid-System | 0 | 0| 
-| 20220127T11:44:51Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 455 | 43| 
 
 
 
