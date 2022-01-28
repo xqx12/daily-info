@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220128T14:10:53Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220128T14:17:51Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220128T14:16:27Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T14:07:15Z | CVE-2021-4034 | Null | https://github.com/CYB3RK1D/CVE-2021-4034-POC | | 
-| 20220128T14:04:34Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T13:42:53Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/Sakura-nee/CVE-2021-4034 | | 
 | 20220128T13:26:23Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/Pr0f3ssor/CVE-2021-4034 | | 
 | 20220128T13:22:03Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
@@ -159,8 +159,8 @@
 | 20220128T09:32:40Z | Testing this github kinikan | https://github.com/ErikTheHunter/fuzzy-robot | 0 | 0| 
 | 20220128T09:23:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 752 | 74| 
 | 20220128T08:26:25Z | Null | https://github.com/cristina-ticala/Fuzzy_image_edge_detection_ACO | 0 | 0| 
+| 20220128T07:55:22Z | Null | https://github.com/nhdvn/fuzzy | 0 | 0| 
 | 20220128T01:50:05Z | Null | https://github.com/Raniajoe/fuzzy-memory- | 0 | 0| 
-| 20220128T01:17:28Z | Divya_Java_Code_Files_Import | https://github.com/DivyasreeGarlapati/fuzzy-palm-tree | 1 | 0| 
 
 
 
