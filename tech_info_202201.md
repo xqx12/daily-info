@@ -113,9 +113,9 @@
 | 20220127T16:12:06Z | Experimental code for the submitted paper %Hidden Trigger Backdoor Attack on NLP Models via Linguistic Style Manipulation% | https://github.com/ravenSanstete/LISM-Security22-MR | 0 | 0| 
 | 20220127T06:24:35Z | This super basic tool makes our victim run a program and send us their credentials, either emails or passwords to our mail. | https://github.com/Skull6000/Email-Backdoor | 0 | 0| 
 | 20220127T03:49:11Z | Null | https://github.com/Mostafa-Samy-97/Python-HTTP-Backdoor | 0 | 0| 
+| 20220126T23:32:31Z | This program is an opensource backdoor/reverse tcp/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 480 | 174| 
 | 20220126T21:30:31Z | Null | https://github.com/NormalUhr/warping_backdoor | 0 | 0| 
 | 20220126T06:02:13Z | This demonstration video shows how we can control the victim%s device by sending the innocent-looking PDF file to the target which actually consists of embedded payload. The exploit was made public as CVE-2010-1240. | https://github.com/omarothmann/Embedded-Backdoor-Connection | 0 | 0| 
-| 20220126T03:18:08Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 4 | 1| 
 
 
 # symbolic execution on Github 推荐
