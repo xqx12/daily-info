@@ -151,7 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220128T01:14:58Z | Divya_Java_Code_Files_Import | https://github.com/DivyasreeGarlapati/fuzzy-palm-tree | 0 | 0| 
+| 20220128T01:17:28Z | Divya_Java_Code_Files_Import | https://github.com/DivyasreeGarlapati/fuzzy-palm-tree | 1 | 0| 
 | 20220128T00:06:23Z | Null | https://github.com/BoomAmplifier/Fuzzy_HW | 0 | 0| 
 | 20220128T00:02:13Z | Premier petit programme en Rust, un web fuzzer. | https://github.com/reverseth/fuzzosaur | 0 | 0| 
 | 20220127T23:48:36Z | Fuzzer of directotories. | https://github.com/Diperblue/Script-for-fuzzing-directories | 0 | 0| 
