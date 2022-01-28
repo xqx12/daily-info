@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220128T13:42:53Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/Sakura-nee/CVE-2021-4034 | | 
+| 20220128T13:42:16Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T13:40:12Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220128T13:38:24Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/Sakura-nee/CVE-2021-4034 | | 
-| 20220128T13:38:03Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T13:26:23Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/Pr0f3ssor/CVE-2021-4034 | | 
 | 20220128T13:22:03Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
 | 20220128T13:04:22Z | CVE-2021-4034 | Null | https://github.com/Yakumwamba/POC-CVE-2021-4034 | | 
