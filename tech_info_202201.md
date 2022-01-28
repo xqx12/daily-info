@@ -91,11 +91,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220128T01:22:36Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 163 | 28| 
 | 20220128T00:47:48Z | SaveService is a project created by Captan40000 for ROBLOX. This is currently not public and is for many things (e.g anti-exploit, saving values) Not to be confused with DataStoreService. | https://github.com/Captan40000/SaveService | 0 | 0| 
 | 20220128T00:29:52Z | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | 8 | 4| 
 | 20220128T00:29:42Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 19 | 7| 
 | 20220128T00:25:07Z | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | 10 | 2| 
-| 20220128T00:20:11Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 162 | 28| 
 | 20220128T00:06:37Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6055 | 1896| 
 | 20220127T21:11:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10661 | 1846| 
 | 20220127T20:23:50Z | Null | https://github.com/scripter54/vbulletin-5.6.1-EXPLOIT- | 1 | 0| 
