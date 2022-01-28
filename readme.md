@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220128 | 如何对ARM架构下的VxWorks系统固件进行修复？ | https://tttang.com/archive/1418/| 
 
 
 # 安全维基 推荐
@@ -18,16 +19,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220128T14:10:53Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220128T14:07:15Z | CVE-2021-4034 | Null | https://github.com/CYB3RK1D/CVE-2021-4034-POC | | 
+| 20220128T14:04:34Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T13:42:53Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/Sakura-nee/CVE-2021-4034 | | 
-| 20220128T13:42:16Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220128T13:40:12Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220128T13:26:23Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/Pr0f3ssor/CVE-2021-4034 | | 
 | 20220128T13:22:03Z | CVE-2021-4034 | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | | 
 | 20220128T13:04:22Z | CVE-2021-4034 | Null | https://github.com/Yakumwamba/POC-CVE-2021-4034 | | 
 | 20220128T12:08:25Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
 | 20220128T11:16:00Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
 | 20220128T11:04:40Z | CVE-2020-0796 | Scanner for CVE-2020-0796 | https://github.com/julixsalas/CVE-2020-0796 | | 
-| 20220128T07:29:58Z | CVE-2022-21907 | This repository detects a system vulnerable to CVE-2022-21907 and protects against this vulnerability if desired. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 
 
 # klee on Github 推荐
@@ -47,8 +48,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220128T14:04:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10665 | 1846| 
+| 20220128T13:56:50Z | Exploit to bypass Google%s JS security protection when using MITM phishing tools | https://github.com/456478/evilginx.botguard | 12 | 4| 
 | 20220128T12:17:08Z | Proof of Concept (PoC) CVE-2021-4034  | https://github.com/luijait/PwnKit-Exploit | 9 | 1| 
-| 20220128T12:02:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10664 | 1846| 
 | 20220128T09:58:29Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8690 | 1486| 
 | 20220128T09:47:48Z | You can use to capture the stored password after the post exploitation for the windows machine and then report will be send to you through gmail. | https://github.com/charlesaurav13/storedpasswordcapture | 0 | 0| 
 | 20220128T09:37:54Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1036 | 229| 
@@ -56,7 +58,6 @@
 | 20220128T04:31:43Z | A collection of LPE exploits written in Go | https://github.com/jm33-m0/go-lpe | 12 | 0| 
 | 20220128T03:06:13Z | CVE-2021-4034 POC exploit | https://github.com/PeterGottesman/pwnkit-exploit | 12 | 2| 
 | 20220128T02:42:51Z | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation | https://github.com/ly4k/PwnKit | 168 | 28| 
-| 20220128T01:49:20Z | Python exploit code for CVE-2021-4034 (pwnkit) | https://github.com/joeammond/CVE-2021-4034 | 10 | 4| 
 
 
 # backdoor on Github 推荐
