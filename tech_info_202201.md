@@ -122,7 +122,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220128T14:27:34Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 2 | 0| 
-| 20220128T08:00:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1876 | 533| 
+| 20220128T08:00:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1876 | 534| 
 | 20220128T07:51:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2670 | 396| 
 | 20220127T20:35:39Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 169 | 36| 
 | 20220127T15:19:24Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 198 | 43| 
