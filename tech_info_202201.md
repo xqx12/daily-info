@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220129T01:18:51Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220129T01:06:49Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220129T01:06:44Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T18:13:50Z | CVE-2021-4034 | BASH file, no download capabilties? Copy and paste it! | https://github.com/n3onhacks/CVE-2021-4034 | | 
 | 20220128T18:07:33Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
 | 20220128T16:50:45Z | CVE-2021-4034 | Null | https://github.com/qq224015/CVE-2021-4034 | | 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T01:16:11Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 223 | 22| 
 | 20220129T00:32:21Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 2 | 1| 
-| 20220128T22:49:20Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5102 | 987| 
+| 20220128T22:49:20Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5102 | 988| 
 | 20220128T22:24:04Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4301 | 575| 
 | 20220128T21:39:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10669 | 1845| 
 | 20220128T21:21:35Z | Null | https://github.com/666-1238/Smooth-Exploit-GUI-Script | 0 | 0| 
 | 20220128T20:54:41Z | An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance) | https://github.com/peterpt/eternal_scanner | 282 | 115| 
 | 20220128T13:56:50Z | Exploit to bypass Google%s JS security protection when using MITM phishing tools | https://github.com/456478/evilginx.botguard | 12 | 4| 
+| 20220128T12:49:23Z | Gain persistence through apt-get update. Every time user tries sudo apt-get update command we gain root access if we set a listener first. An alternative to /metasploit-framework/blob/master/modules/exploits/linux/local/apt_package_manager_persistence.rb | https://github.com/0bfxgh0st/apt-get_update_hook | 2 | 0| 
 | 20220128T12:17:08Z | Proof of Concept (PoC) CVE-2021-4034  | https://github.com/luijait/PwnKit-Exploit | 9 | 1| 
-| 20220128T09:58:29Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8690 | 1486| 
-| 20220128T09:47:48Z | You can use to capture the stored password after the post exploitation for the windows machine and then report will be send to you through gmail. | https://github.com/charlesaurav13/storedpasswordcapture | 0 | 0| 
 
 
 # backdoor on Github 推荐
