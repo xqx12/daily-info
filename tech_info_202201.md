@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220129T02:59:01Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220129T02:55:12Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220129T02:55:11Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220128T18:13:50Z | CVE-2021-4034 | BASH file, no download capabilties? Copy and paste it! | https://github.com/n3onhacks/CVE-2021-4034 | | 
 | 20220128T18:07:33Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
 | 20220128T16:50:45Z | CVE-2021-4034 | Null | https://github.com/qq224015/CVE-2021-4034 | | 
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T02:55:55Z | Null | https://github.com/HackerDemon/fuzzy-engine | 0 | 0| 
 | 20220129T02:44:05Z | Null | https://github.com/TensileFuzz/TensileFuzz | 0 | 0| 
 | 20220129T01:01:06Z | Null | https://github.com/itang1/fuzzy_jaccard | 0 | 0| 
 | 20220129T00:14:12Z | Null | https://github.com/AAAAAXfda/fuzzy-enigma | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20220128T21:24:24Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1131 | 87| 
 | 20220128T20:49:06Z | Null | https://github.com/pazad/fuzzyproblem22 | 0 | 0| 
 | 20220128T20:47:35Z | Null | https://github.com/pazad/fuzzyproblem | 0 | 0| 
-| 20220128T20:46:01Z | 🔭 Lightweight URL fuzzer and spider: Discover a web server%s undisclosed files, directories and VHOSTs | https://github.com/liamg/scout | 285 | 33| 
 
 
 
