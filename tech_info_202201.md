@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220129T02:04:44Z | Null | https://github.com/CyberSecurityUP/CVE-2018-0114-Exploit | 0 | 0| 
+| 20220129T02:10:37Z | Null | https://github.com/CyberSecurityUP/CVE-2018-0114-Exploit | 0 | 0| 
 | 20220129T01:16:11Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 223 | 22| 
 | 20220129T00:50:50Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 128 | 24| 
 | 20220129T00:32:21Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 2 | 1| 
