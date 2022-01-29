@@ -92,6 +92,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220129T01:16:11Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 223 | 22| 
+| 20220129T00:50:50Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 128 | 24| 
 | 20220129T00:32:21Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 2 | 1| 
 | 20220128T22:49:20Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5102 | 988| 
 | 20220128T22:24:04Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4301 | 575| 
@@ -100,7 +101,6 @@
 | 20220128T21:21:35Z | Null | https://github.com/666-1238/Smooth-Exploit-GUI-Script | 0 | 0| 
 | 20220128T20:54:41Z | An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance) | https://github.com/peterpt/eternal_scanner | 282 | 115| 
 | 20220128T13:56:50Z | Exploit to bypass Google%s JS security protection when using MITM phishing tools | https://github.com/456478/evilginx.botguard | 12 | 4| 
-| 20220128T12:49:23Z | Gain persistence through apt-get update. Every time user tries sudo apt-get update command we gain root access if we set a listener first. An alternative to /metasploit-framework/blob/master/modules/exploits/linux/local/apt_package_manager_persistence.rb | https://github.com/0bfxgh0st/apt-get_update_hook | 2 | 0| 
 
 
 # backdoor on Github 推荐
