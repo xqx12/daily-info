@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220129T02:40:18Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220129T02:46:24Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220129T02:39:17Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220128T18:13:50Z | CVE-2021-4034 | BASH file, no download capabilties? Copy and paste it! | https://github.com/n3onhacks/CVE-2021-4034 | | 
 | 20220128T18:07:33Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T02:45:19Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 294 | 92| 
 | 20220129T02:19:52Z | Null | https://github.com/CyberSecurityUP/CBC-Exploits-Ruby | 0 | 0| 
 | 20220129T02:14:44Z | Null | https://github.com/CyberSecurityUP/JWTK-Exploits | 0 | 0| 
 | 20220129T02:10:37Z | Null | https://github.com/CyberSecurityUP/CVE-2018-0114-Exploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220128T22:49:20Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5102 | 988| 
 | 20220128T22:24:04Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4301 | 575| 
 | 20220128T22:23:20Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6057 | 1897| 
-| 20220128T21:39:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10669 | 1845| 
 
 
 # backdoor on Github 推荐
