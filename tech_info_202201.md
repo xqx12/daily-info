@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T02:19:52Z | Null | https://github.com/CyberSecurityUP/CBC-Exploits-Ruby | 0 | 0| 
 | 20220129T02:14:44Z | Null | https://github.com/CyberSecurityUP/JWTK-Exploits | 0 | 0| 
 | 20220129T02:10:37Z | Null | https://github.com/CyberSecurityUP/CVE-2018-0114-Exploit | 0 | 0| 
 | 20220129T01:16:11Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 223 | 22| 
@@ -100,12 +101,12 @@
 | 20220128T22:24:04Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4301 | 575| 
 | 20220128T22:23:20Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6057 | 1897| 
 | 20220128T21:39:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10669 | 1845| 
-| 20220128T21:21:35Z | Null | https://github.com/666-1238/Smooth-Exploit-GUI-Script | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T02:19:33Z | Windows NTLM Authentication Backdoor | https://github.com/RITRedteam/nosferatu | 2 | 0| 
 | 20220128T22:23:20Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6057 | 1897| 
 | 20220128T21:48:49Z | gives everyone op | https://github.com/Justgamer101/Backdoorplugin | 0 | 0| 
 | 20220128T20:31:01Z | V1 Backdoor Implementation.(Firewall is yet to be bypassed :%) | https://github.com/Astreak/ReverseShell-P1 | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20220128T16:41:15Z | A simple but dangerous backdoor built as a kernel module. | https://github.com/threadexio/kernel-module-backdoor-poc | 1 | 0| 
 | 20220128T16:41:09Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 68 | 18| 
 | 20220128T13:32:51Z | Backdoor for web server | https://github.com/ErilinAleksei/Backdoor | 0 | 0| 
-| 20220128T05:44:02Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 481 | 174| 
 
 
 # symbolic execution on Github 推荐
