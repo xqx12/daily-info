@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220129T02:40:18Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220129T02:39:17Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220129T02:34:26Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220128T18:13:50Z | CVE-2021-4034 | BASH file, no download capabilties? Copy and paste it! | https://github.com/n3onhacks/CVE-2021-4034 | | 
 | 20220128T18:07:33Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
 | 20220128T16:50:45Z | CVE-2021-4034 | Null | https://github.com/qq224015/CVE-2021-4034 | | 
@@ -156,11 +156,11 @@
 | 20220128T23:50:56Z | A PoC library for allowing use of fuzzy variable names | https://github.com/kmod/fuzzy_names | 0 | 0| 
 | 20220128T22:17:57Z | Códigos  | https://github.com/LuisEndara/Fault-Tolerant-Neuro-Fuzzy-System | 0 | 0| 
 | 20220128T22:05:00Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 15 | 3| 
+| 20220128T21:24:24Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1131 | 87| 
 | 20220128T20:49:06Z | Null | https://github.com/pazad/fuzzyproblem22 | 0 | 0| 
 | 20220128T20:47:35Z | Null | https://github.com/pazad/fuzzyproblem | 0 | 0| 
 | 20220128T20:46:01Z | 🔭 Lightweight URL fuzzer and spider: Discover a web server%s undisclosed files, directories and VHOSTs | https://github.com/liamg/scout | 285 | 33| 
 | 20220128T20:09:21Z | This repo contains multiple repos from the Storj GitHub project. Its primary purpose is to pull in multiple repos that we will perform continuous testing on, primarily fuzzing tests. | https://github.com/PressureTank/FuzzingStorj | 0 | 0| 
-| 20220128T18:36:17Z | Null | https://github.com/pratik-kumar-sahu/FuzzUI | 0 | 0| 
 
 
 
