@@ -49,6 +49,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220128T22:49:20Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5102 | 988| 
 | 20220128T22:24:04Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4301 | 575| 
+| 20220128T22:23:20Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6057 | 1897| 
 | 20220128T21:39:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10669 | 1845| 
 | 20220128T21:21:35Z | Null | https://github.com/666-1238/Smooth-Exploit-GUI-Script | 0 | 0| 
 | 20220128T20:54:41Z | An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance) | https://github.com/peterpt/eternal_scanner | 282 | 115| 
@@ -56,7 +57,6 @@
 | 20220128T12:49:23Z | Gain persistence through apt-get update. Every time user tries sudo apt-get update command we gain root access if we set a listener first. An alternative to /metasploit-framework/blob/master/modules/exploits/linux/local/apt_package_manager_persistence.rb | https://github.com/0bfxgh0st/apt-get_update_hook | 2 | 0| 
 | 20220128T12:17:08Z | Proof of Concept (PoC) CVE-2021-4034  | https://github.com/luijait/PwnKit-Exploit | 9 | 1| 
 | 20220128T09:58:29Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8690 | 1486| 
-| 20220128T09:47:48Z | You can use to capture the stored password after the post exploitation for the windows machine and then report will be send to you through gmail. | https://github.com/charlesaurav13/storedpasswordcapture | 0 | 0| 
 
 
 # backdoor on Github 推荐
