@@ -16,9 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220129T13:38:31Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220129T13:13:10Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220129T12:57:21Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
-| 20220129T12:42:33Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220129T11:06:44Z | CVE-2021-4034 | Null | https://github.com/Yakumwamba/POC-CVE-2021-4034 | | 
 | 20220129T09:13:34Z | CVE-2022- | Null | https://github.com/nxiwmd/CVE-2022-test | | 
 | 20220129T08:34:21Z | CVE-2021-4034 | centos 6.10 rpm for fix polkit CVE-2021-4034;   centos 6.10的rpm包，修复CVE-2021-4034 漏洞 | https://github.com/sofire/polkit-0.96-CVE-2021-4034 | | 
