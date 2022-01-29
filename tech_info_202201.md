@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220129T03:03:43Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220129T03:03:43Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220129T03:18:16Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220129T03:17:32Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220129T03:01:43Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
 | 20220128T18:13:50Z | CVE-2021-4034 | BASH file, no download capabilties? Copy and paste it! | https://github.com/n3onhacks/CVE-2021-4034 | | 
 | 20220128T16:50:45Z | CVE-2021-4034 | Null | https://github.com/qq224015/CVE-2021-4034 | | 
@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T03:17:26Z | Application platforms that allow the exploitation, sharing and analysis of big data such as Google Earth Engine, Amazon Web Service, Hadoop... have gradually become essential tools for the exploitation and application of telematics data. detective. | https://github.com/Stickelssharell1/Application-platforms-that-allow-the-exploitation-sharing-and-analysis-of-big-data-such-as-Google-E | 0 | 0| 
+| 20220129T03:13:36Z | 🎯 Synapse X Cracked Free , Roblox Exploit , Level 7 | https://github.com/vinizinnn232/Synapse-X-Roblox-Free-Cracked | 0 | 0| 
 | 20220129T02:45:19Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 294 | 92| 
 | 20220129T02:19:52Z | Null | https://github.com/CyberSecurityUP/CBC-Exploits-Ruby | 0 | 0| 
 | 20220129T02:14:44Z | Null | https://github.com/CyberSecurityUP/JWTK-Exploits | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20220129T00:50:50Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 128 | 24| 
 | 20220129T00:32:21Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 2 | 1| 
 | 20220128T22:49:20Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5102 | 988| 
-| 20220128T22:24:04Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4301 | 575| 
-| 20220128T22:23:20Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6057 | 1897| 
 
 
 # backdoor on Github 推荐
