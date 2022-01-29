@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220129T01:28:40Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220129T01:27:41Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220129T02:00:01Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220129T01:59:56Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220128T18:13:50Z | CVE-2021-4034 | BASH file, no download capabilties? Copy and paste it! | https://github.com/n3onhacks/CVE-2021-4034 | | 
 | 20220128T18:07:33Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
 | 20220128T16:50:45Z | CVE-2021-4034 | Null | https://github.com/qq224015/CVE-2021-4034 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220129T01:50:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4819 | 171| 
+| 20220129T02:02:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4821 | 171| 
 | 20220129T00:51:43Z | Null | https://github.com/unicorn-talent/kleenex | 0 | 0| 
 | 20220128T18:17:09Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 267 | 17| 
 | 20220128T08:00:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1876 | 533| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T02:04:44Z | Null | https://github.com/CyberSecurityUP/CVE-2018-0114-Exploit | 0 | 0| 
 | 20220129T01:16:11Z | VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit | https://github.com/klezVirus/vortex | 223 | 22| 
 | 20220129T00:50:50Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 128 | 24| 
 | 20220129T00:32:21Z | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | 2 | 1| 
@@ -100,7 +101,6 @@
 | 20220128T21:39:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10669 | 1845| 
 | 20220128T21:21:35Z | Null | https://github.com/666-1238/Smooth-Exploit-GUI-Script | 0 | 0| 
 | 20220128T20:54:41Z | An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance) | https://github.com/peterpt/eternal_scanner | 282 | 115| 
-| 20220128T13:56:50Z | Exploit to bypass Google%s JS security protection when using MITM phishing tools | https://github.com/456478/evilginx.botguard | 12 | 4| 
 
 
 # backdoor on Github 推荐
