@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220130T13:19:35Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220130T13:10:08Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
-| 20220130T11:16:43Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220130T10:27:02Z | cve-2021-4034 | Null | https://github.com/milot/dissecting-pkexec-cve-2021-4034 | | 
 | 20220130T10:25:13Z | CVE-2021-1675 | PrintNightmare Local Privilege Escalation  | https://github.com/AndrewTrube/CVE-2021-1675 | | 
 | 20220130T10:24:27Z | CVE-2021-4034 | PwnKit PoC for Polkit pkexec CVE-2021-4034  | https://github.com/navisec/CVE-2021-4034-PwnKit | | 
