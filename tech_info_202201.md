@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220130 | wJa (D&S&I)AST 工具 | https://xz.aliyun.com/t/10792| 
 | 20220128 | 如何入门工控漏洞挖掘 | https://mp.weixin.qq.com/s/7vLevyUEz9B0nOrLVYa23w| 
 | 20220128 | CodeQL 提升篇 | https://tttang.com/archive/1415/| 
 | 20220127 | 2021年物联网设备CVE天梯榜 | https://www.anquanke.com/post/id/266061| 
@@ -40,29 +41,28 @@
 | 20220127 | 去中心化上线CS | https://hosch3n.github.io/2021/11/10/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E4%B8%8A%E7%BA%BFCS/| 
 | 20220127 | 漏洞监控平台——Monitor | https://github.com/lxflxfcl/monitor| 
 | 20220127 | 聊聊API安全的重要性及治理思路 | https://mp.weixin.qq.com/s/Q9fZrq51fLNf0itPj1p9Vw| 
-| 20220126 | 2021年度高级威胁研究报告 | http://blog.nsfocus.net/wp-content/uploads/2022/01/2021-APT-Botnet-Ransomware.pdf| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220130T02:55:24Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220130T02:55:24Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220130T12:45:54Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220130T11:16:43Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220130T10:27:02Z | cve-2021-4034 | Null | https://github.com/milot/dissecting-pkexec-cve-2021-4034 | | 
+| 20220130T10:25:13Z | CVE-2021-1675 | PrintNightmare Local Privilege Escalation  | https://github.com/AndrewTrube/CVE-2021-1675 | | 
+| 20220130T10:24:27Z | CVE-2021-4034 | PwnKit PoC for Polkit pkexec CVE-2021-4034  | https://github.com/navisec/CVE-2021-4034-PwnKit | | 
+| 20220130T09:37:24Z | CVE-2020-35476 | A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter.  | https://github.com/glowbase/CVE-2020-35476 | | 
+| 20220130T06:58:31Z | CVE-2021-3156 | Exploit for CVE-2021-3156 | https://github.com/litt1eb0yy/CVE-2021-3156 | | 
+| 20220130T04:00:25Z | CVE-2021-4034 | centos 6.10 rpm for fix polkit CVE-2021-4034;   centos 6.10的rpm包，修复CVE-2021-4034 漏洞 | https://github.com/sofire/polkit-0.96-CVE-2021-4034 | | 
+| 20220130T03:17:14Z | CVE-2021-22204 | A complete PoC for CVE-2021-22204 exiftool RCE  | https://github.com/0xBruno/CVE-2021-22204 | | 
 | 20220130T02:43:09Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
-| 20220130T01:50:07Z | CVE-2021-4034 | centos 6.10 rpm for fix polkit CVE-2021-4034;   centos 6.10的rpm包，修复CVE-2021-4034 漏洞 | https://github.com/sofire/polkit-0.96-CVE-2021-4034 | | 
-| 20220129T23:20:28Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/OxWeb4/CVE-2021-4034- | | 
-| 20220129T20:01:43Z | CVE-2021-4034 | PwnKit - Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/TW-D/PwnKit-Vulnerability_CVE-2021-4034 | | 
-| 20220129T15:17:29Z | CVE-2021-4034 | Exploit for the PwnKit Vulnerability | https://github.com/v-rzh/CVE-2021-4034 | | 
-| 20220129T14:25:03Z | CVE-2022-24032 | Null | https://github.com/jdordonezn/CVE-2022-24032 | | 
-| 20220129T11:06:44Z | CVE-2021-4034 | Null | https://github.com/Yakumwamba/POC-CVE-2021-4034 | | 
-| 20220129T09:13:34Z | CVE-2022- | Null | https://github.com/nxiwmd/CVE-2022-test | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220130T02:13:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4851 | 172| 
-| 20220130T00:02:58Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 270 | 17| 
+| 20220130T12:28:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4865 | 173| 
+| 20220130T06:24:25Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 271 | 17| 
 | 20220129T00:51:43Z | Null | https://github.com/unicorn-talent/kleenex | 0 | 0| 
 | 20220128T08:00:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1876 | 534| 
 | 20220128T05:32:26Z | Caltech first-year graduate student proposition project with Katherine de Kleer studying oxygen aurora on Ganymede. | https://github.com/zachariahmilby/ge-297-de-kleer-ganymede-aurora | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220129T23:48:47Z | Code and material from VulnHub. VulnHub provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration tasks. | https://github.com/formidablae/VulnHub | 8 | 0| 
-| 20220129T22:43:44Z | Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems | https://github.com/ChrisTheCoolHut/Zeratool | 848 | 119| 
-| 20220129T20:45:38Z | Null | https://github.com/uberripper/Anti-Chat-Exploit | 0 | 0| 
-| 20220129T18:17:53Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/snakedark33/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220129T18:14:37Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/snakedark33/Hacking-Tools-Pack | 0 | 0| 
-| 20220129T16:53:58Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 295 | 92| 
-| 20220129T12:49:58Z | Working Python exploit code for the new found log4j2 RCE vulnerability | https://github.com/ishan-saha/Log4j-RCE | 0 | 0| 
-| 20220129T11:08:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | 4303 | 575| 
-| 20220129T10:58:49Z | Null | https://github.com/xy1sul41n/Exploits | 0 | 0| 
-| 20220129T10:15:05Z | Writeup and exploit for installed app to system privilege escalation on Android 12 Beta through CVE-2021-0928, a `writeToParcel`/`createFromParcel` serialization mismatch in `OutputConfiguration` | https://github.com/michalbednarski/ReparcelBug2 | 0 | 0| 
+| 20220130T10:44:36Z | pwnkit: Local Privilege Escalation in polkit%s pkexec (CVE-2021-4034) | https://github.com/Almorabea/pkexec-exploit | 0 | 0| 
+| 20220130T10:30:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 296 | 93| 
+| 20220130T10:14:25Z | Gestion et exploitation de bases de données | https://github.com/Pastofarian/DB | 0 | 0| 
+| 20220130T10:01:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10675 | 1845| 
+| 20220130T09:26:15Z | Prevents dosh spam related exploits - server lags, server crash, blocking volume bypass, zed kills, etc. | https://github.com/InsultingPros/DoshFix | 0 | 0| 
+| 20220130T09:15:41Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 7 | 3| 
+| 20220130T07:04:10Z | The very popular game Wordle gets exploited by this program given clues as input | https://github.com/TahsinMir/Wordle-Exploiter | 0 | 0| 
+| 20220130T06:58:31Z | Exploit for CVE-2021-3156 | https://github.com/litt1eb0yy/CVE-2021-3156 | 0 | 0| 
+| 20220130T06:25:17Z | exploit for roblox | https://github.com/covesghe/Lavender-Exploits | 0 | 0| 
+| 20220130T05:31:09Z | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220130T12:50:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6067 | 1898| 
+| 20220130T06:12:37Z | Null | https://github.com/avacadox21/BackdoorPlugin | 0 | 0| 
+| 20220130T04:02:37Z | Config files for my GitHub profile. | https://github.com/backdoorgenerator/backdoorgenerator | 0 | 0| 
 | 20220130T01:59:29Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 64 | 15| 
 | 20220130T01:58:27Z | Null | https://github.com/Killian356/e-com-backdoor | 0 | 0| 
-| 20220130T01:32:33Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6064 | 1897| 
 | 20220129T17:59:01Z | ksysrqd is a Linux kernel module for calling magic sysrq-keys over TCP/IP. Therefore it runs inside kernel space and is OOM safe. Also can be used as debugging tool or hacking backdoors inside the kernel (with patches of course) ;-). | https://github.com/ipcjk/ksysrqd | 7 | 0| 
 | 20220129T14:11:09Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/INZO-Technologies/Backdoor-Plugin | 0 | 0| 
-| 20220129T12:48:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 411 | 73| 
+| 20220129T12:48:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 411 | 74| 
 | 20220129T10:15:23Z | Null | https://github.com/Mr-Anonymous002/msfvenom-backdoor-android | 0 | 0| 
 | 20220129T05:16:32Z | A Backdoor Fucked by the Sewer Pig | https://github.com/JustAHippo/Qlutch | 0 | 0| 
-| 20220129T02:19:33Z | Windows NTLM Authentication Backdoor | https://github.com/RITRedteam/nosferatu | 2 | 0| 
-| 20220128T21:48:49Z | gives everyone op | https://github.com/Justgamer101/Backdoorplugin | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220130T11:53:59Z | ExprTk Fuzzer | https://github.com/ArashPartow/exprtk-fuzzer | 0 | 0| 
+| 20220130T11:34:29Z | Null | https://github.com/is2ei/DOMPurify-fuzzing-test | 0 | 0| 
+| 20220130T11:22:40Z | Null | https://github.com/kgloryi/waf-upload-fuzz | 0 | 0| 
+| 20220130T08:33:14Z | Null | https://github.com/Githubtesi/fuzzy_string_matching | 0 | 0| 
+| 20220130T06:36:23Z | my repository | https://github.com/subash668/fuzzy | 0 | 0| 
+| 20220130T04:59:21Z | Null | https://github.com/Aswinoct/fuzzy-meme | 0 | 0| 
 | 20220130T02:21:23Z | Null | https://github.com/Romir-bot/periquito-fuzzy | 0 | 0| 
 | 20220130T00:13:56Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 345 | 48| 
 | 20220129T23:05:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2434 | 474| 
 | 20220129T23:04:50Z | A Ruby library for generating, mutating, and fuzzing data | https://github.com/ronin-rb/ronin-fuzzer | 2 | 0| 
-| 20220129T21:51:51Z | Null | https://github.com/Hemanth0924/fuzzy-octo-broccoli | 0 | 0| 
-| 20220129T20:00:19Z | Textpattern CMS plugin  that offers alternative spellings and/or close-matching articles from search terms | https://github.com/Bloke/smd_fuzzy_find | 2 | 1| 
-| 20220129T19:50:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7051 | 1488| 
-| 20220129T12:06:29Z | Null | https://github.com/Hadesgonnahate/fuzzy-happiness | 0 | 0| 
-| 20220129T11:53:19Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 99 | 11| 
-| 20220129T11:46:15Z | Null | https://github.com/benjamin-asdf/nbb-fuzzy | 0 | 0| 
 
 
 
