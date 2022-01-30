@@ -106,25 +106,25 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T18:39:53Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6063 | 1897| 
+| 20220129T17:59:01Z | ksysrqd is a Linux kernel module for calling magic sysrq-keys over TCP/IP. Therefore it runs inside kernel space and is OOM safe. Also can be used as debugging tool or hacking backdoors inside the kernel (with patches of course) ;-). | https://github.com/ipcjk/ksysrqd | 7 | 0| 
+| 20220129T14:11:09Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/INZO-Technologies/Backdoor-Plugin | 0 | 0| 
 | 20220129T12:48:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 411 | 73| 
-| 20220129T12:40:40Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6059 | 1897| 
 | 20220129T10:15:23Z | Null | https://github.com/Mr-Anonymous002/msfvenom-backdoor-android | 0 | 0| 
 | 20220129T05:16:32Z | A Backdoor Fucked by the Sewer Pig | https://github.com/JustAHippo/Qlutch | 0 | 0| 
 | 20220129T02:19:33Z | Windows NTLM Authentication Backdoor | https://github.com/RITRedteam/nosferatu | 2 | 0| 
 | 20220128T21:48:49Z | gives everyone op | https://github.com/Justgamer101/Backdoorplugin | 0 | 0| 
 | 20220128T20:31:01Z | V1 Backdoor Implementation.(Firewall is yet to be bypassed :%) | https://github.com/Astreak/ReverseShell-P1 | 0 | 0| 
 | 20220128T19:23:53Z | PHP Backdoor Tool | https://github.com/devsoftinyo/netkit | 0 | 0| 
-| 20220128T16:46:02Z | Generate backdoor and connect to metasploit | https://github.com/redteaminterac/pe4shell | 0 | 0| 
-| 20220128T16:41:21Z | Backdoor en Python 3+ | https://github.com/JkDevArg/b4ckd00r_Py | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T22:30:21Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 170 | 36| 
+| 20220129T19:05:36Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 4 | 0| 
 | 20220129T13:39:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2671 | 396| 
-| 20220128T14:27:34Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 2 | 0| 
 | 20220128T08:00:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1876 | 534| 
-| 20220127T20:35:39Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 169 | 36| 
 | 20220127T15:19:24Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 198 | 43| 
 | 20220127T12:35:05Z | Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings. | https://github.com/JonathanSalwan/Triton | 2017 | 410| 
 | 20220127T03:59:38Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 116 | 11| 

@@ -55,8 +55,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T18:39:53Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6063 | 1897| 
+| 20220129T17:59:01Z | ksysrqd is a Linux kernel module for calling magic sysrq-keys over TCP/IP. Therefore it runs inside kernel space and is OOM safe. Also can be used as debugging tool or hacking backdoors inside the kernel (with patches of course) ;-). | https://github.com/ipcjk/ksysrqd | 7 | 0| 
+| 20220129T14:11:09Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/INZO-Technologies/Backdoor-Plugin | 0 | 0| 
 | 20220129T12:48:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 411 | 73| 
-| 20220129T12:40:40Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6059 | 1897| 
 | 20220129T10:15:23Z | Null | https://github.com/Mr-Anonymous002/msfvenom-backdoor-android | 0 | 0| 
 | 20220129T05:16:32Z | A Backdoor Fucked by the Sewer Pig | https://github.com/JustAHippo/Qlutch | 0 | 0| 
 | 20220129T02:19:33Z | Windows NTLM Authentication Backdoor | https://github.com/RITRedteam/nosferatu | 2 | 0| 
@@ -65,6 +67,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220129T22:30:21Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 170 | 36| 
+| 20220129T19:05:36Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 4 | 0| 
 | 20220129T13:39:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2671 | 396| 
 
 
