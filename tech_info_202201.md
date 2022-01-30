@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220130T12:45:54Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220130T13:02:31Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220130T11:16:43Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220130T10:27:02Z | cve-2021-4034 | Null | https://github.com/milot/dissecting-pkexec-cve-2021-4034 | | 
 | 20220130T10:25:13Z | CVE-2021-1675 | PrintNightmare Local Privilege Escalation  | https://github.com/AndrewTrube/CVE-2021-1675 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220130T12:28:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4865 | 173| 
+| 20220130T13:02:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4866 | 173| 
 | 20220130T06:24:25Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 271 | 17| 
 | 20220129T00:51:43Z | Null | https://github.com/unicorn-talent/kleenex | 0 | 0| 
 | 20220128T08:00:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1876 | 534| 
@@ -91,13 +91,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220130T13:03:48Z | The very popular game Wordle gets exploited by this program given clues as input | https://github.com/TahsinMir/Wordle-Exploiter | 0 | 0| 
 | 20220130T10:44:36Z | pwnkit: Local Privilege Escalation in polkit%s pkexec (CVE-2021-4034) | https://github.com/Almorabea/pkexec-exploit | 0 | 0| 
 | 20220130T10:30:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 296 | 93| 
 | 20220130T10:14:25Z | Gestion et exploitation de bases de données | https://github.com/Pastofarian/DB | 0 | 0| 
 | 20220130T10:01:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10675 | 1845| 
 | 20220130T09:26:15Z | Prevents dosh spam related exploits - server lags, server crash, blocking volume bypass, zed kills, etc. | https://github.com/InsultingPros/DoshFix | 0 | 0| 
 | 20220130T09:15:41Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 7 | 3| 
-| 20220130T07:04:10Z | The very popular game Wordle gets exploited by this program given clues as input | https://github.com/TahsinMir/Wordle-Exploiter | 0 | 0| 
 | 20220130T06:58:31Z | Exploit for CVE-2021-3156 | https://github.com/litt1eb0yy/CVE-2021-3156 | 0 | 0| 
 | 20220130T06:25:17Z | exploit for roblox | https://github.com/covesghe/Lavender-Exploits | 0 | 0| 
 | 20220130T05:31:09Z | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | 0 | 0| 
