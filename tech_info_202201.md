@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220130T01:18:27Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220130T00:43:29Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220130T01:35:54Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220130T01:35:54Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220129T23:22:37Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
 | 20220129T23:20:28Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/OxWeb4/CVE-2021-4034- | | 
 | 20220129T20:01:43Z | CVE-2021-4034 | PwnKit - Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/TW-D/PwnKit-Vulnerability_CVE-2021-4034 | | 
@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220130T01:33:11Z | Null | https://github.com/Killian356/e-com-backdoor | 0 | 0| 
 | 20220130T01:32:33Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6064 | 1897| 
 | 20220129T17:59:01Z | ksysrqd is a Linux kernel module for calling magic sysrq-keys over TCP/IP. Therefore it runs inside kernel space and is OOM safe. Also can be used as debugging tool or hacking backdoors inside the kernel (with patches of course) ;-). | https://github.com/ipcjk/ksysrqd | 7 | 0| 
 | 20220129T14:11:09Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/INZO-Technologies/Backdoor-Plugin | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20220129T02:19:33Z | Windows NTLM Authentication Backdoor | https://github.com/RITRedteam/nosferatu | 2 | 0| 
 | 20220128T21:48:49Z | gives everyone op | https://github.com/Justgamer101/Backdoorplugin | 0 | 0| 
 | 20220128T20:31:01Z | V1 Backdoor Implementation.(Firewall is yet to be bypassed :%) | https://github.com/Astreak/ReverseShell-P1 | 0 | 0| 
-| 20220128T19:23:53Z | PHP Backdoor Tool | https://github.com/devsoftinyo/netkit | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
