@@ -23,7 +23,6 @@
 | 20220129T14:25:03Z | CVE-2022-24032 | Null | https://github.com/jdordonezn/CVE-2022-24032 | | 
 | 20220129T11:06:44Z | CVE-2021-4034 | Null | https://github.com/Yakumwamba/POC-CVE-2021-4034 | | 
 | 20220129T09:13:34Z | CVE-2022- | Null | https://github.com/nxiwmd/CVE-2022-test | | 
-| 20220129T08:34:21Z | CVE-2021-4034 | centos 6.10 rpm for fix polkit CVE-2021-4034;   centos 6.10的rpm包，修复CVE-2021-4034 漏洞 | https://github.com/sofire/polkit-0.96-CVE-2021-4034 | | 
 
 
 # klee on Github 推荐

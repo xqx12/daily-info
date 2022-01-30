@@ -46,8 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220130T01:48:27Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220130T01:48:27Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220130T01:50:57Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220130T01:50:57Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220130T01:50:07Z | CVE-2021-4034 | centos 6.10 rpm for fix polkit CVE-2021-4034;   centos 6.10的rpm包，修复CVE-2021-4034 漏洞 | https://github.com/sofire/polkit-0.96-CVE-2021-4034 | | 
 | 20220129T23:22:37Z | CVE-2021-4034 | CVE-2021-4034 Add Root User - Pkexec Local Privilege Escalation | https://github.com/Rvn0xsy/CVE-2021-4034 | | 
 | 20220129T23:20:28Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/OxWeb4/CVE-2021-4034- | | 
 | 20220129T20:01:43Z | CVE-2021-4034 | PwnKit - Local Privilege Escalation Vulnerability Discovered in polkit’s pkexec (CVE-2021-4034) | https://github.com/TW-D/PwnKit-Vulnerability_CVE-2021-4034 | | 
@@ -55,7 +56,6 @@
 | 20220129T14:25:03Z | CVE-2022-24032 | Null | https://github.com/jdordonezn/CVE-2022-24032 | | 
 | 20220129T11:06:44Z | CVE-2021-4034 | Null | https://github.com/Yakumwamba/POC-CVE-2021-4034 | | 
 | 20220129T09:13:34Z | CVE-2022- | Null | https://github.com/nxiwmd/CVE-2022-test | | 
-| 20220129T08:34:21Z | CVE-2021-4034 | centos 6.10 rpm for fix polkit CVE-2021-4034;   centos 6.10的rpm包，修复CVE-2021-4034 漏洞 | https://github.com/sofire/polkit-0.96-CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
