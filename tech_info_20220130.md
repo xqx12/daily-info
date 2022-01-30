@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220130T13:40:56Z | It%s not for you it%s an reverse shell exploit I am just testing | https://github.com/hackerW1/reverse_shell | 0 | 0| 
 | 20220130T13:03:48Z | The very popular game Wordle gets exploited by this program given clues as input | https://github.com/TahsinMir/Wordle-Exploiter | 0 | 0| 
 | 20220130T10:44:36Z | pwnkit: Local Privilege Escalation in polkit%s pkexec (CVE-2021-4034) | https://github.com/Almorabea/pkexec-exploit | 0 | 0| 
 | 20220130T10:30:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 296 | 93| 
@@ -54,7 +55,6 @@
 | 20220130T09:15:41Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 7 | 3| 
 | 20220130T06:58:31Z | Exploit for CVE-2021-3156 | https://github.com/litt1eb0yy/CVE-2021-3156 | 0 | 0| 
 | 20220130T06:25:17Z | exploit for roblox | https://github.com/covesghe/Lavender-Exploits | 0 | 0| 
-| 20220130T05:31:09Z | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | 0 | 0| 
 
 
 # backdoor on Github 推荐
