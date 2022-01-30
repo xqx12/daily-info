@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220130T13:25:32Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220130T13:34:58Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220130T13:19:35Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220130T10:27:02Z | cve-2021-4034 | Null | https://github.com/milot/dissecting-pkexec-cve-2021-4034 | | 
 | 20220130T10:25:13Z | CVE-2021-1675 | PrintNightmare Local Privilege Escalation  | https://github.com/AndrewTrube/CVE-2021-1675 | | 
@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220130T13:34:53Z | Backdoor software with some useful functions | https://github.com/Kamelleon/PyDoor | 0 | 0| 
 | 20220130T12:50:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6067 | 1898| 
 | 20220130T06:12:37Z | Null | https://github.com/avacadox21/BackdoorPlugin | 0 | 0| 
 | 20220130T04:02:37Z | Config files for my GitHub profile. | https://github.com/backdoorgenerator/backdoorgenerator | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20220129T14:11:09Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/INZO-Technologies/Backdoor-Plugin | 0 | 0| 
 | 20220129T12:48:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 411 | 74| 
 | 20220129T10:15:23Z | Null | https://github.com/Mr-Anonymous002/msfvenom-backdoor-android | 0 | 0| 
-| 20220129T05:16:32Z | A Backdoor Fucked by the Sewer Pig | https://github.com/JustAHippo/Qlutch | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
