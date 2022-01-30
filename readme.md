@@ -69,6 +69,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220130T08:21:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2672 | 396| 
+| 20220130T08:14:25Z | Symbolic Dynamic Memory Allocation for Symbolic Execution | https://github.com/AnonyGiit/SymAlloc | 0 | 0| 
+| 20220130T08:05:55Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 192 | 10| 
 
 
 # big4 on Github 推荐
