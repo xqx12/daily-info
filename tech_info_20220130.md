@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220130 | wJa (D&S&I)AST 工具 | https://xz.aliyun.com/t/10792| 
+| 20220130 | 威胁想定分析框架 | https://mp.weixin.qq.com/s/s_2GvSNggV7pz0WDDrFvTQ| 
 
 
 # CVE Github 推荐

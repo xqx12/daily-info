@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220130 | wJa (D&S&I)AST 工具 | https://xz.aliyun.com/t/10792| 
+| 20220130 | 威胁想定分析框架 | https://mp.weixin.qq.com/s/s_2GvSNggV7pz0WDDrFvTQ| 
 | 20220128 | 如何入门工控漏洞挖掘 | https://mp.weixin.qq.com/s/7vLevyUEz9B0nOrLVYa23w| 
 | 20220128 | CodeQL 提升篇 | https://tttang.com/archive/1415/| 
 | 20220127 | 2021年物联网设备CVE天梯榜 | https://www.anquanke.com/post/id/266061| 
@@ -40,7 +41,6 @@
 | 20220127 | ISOON2021 线下域渗透题解 | https://www.anquanke.com/post/id/262921| 
 | 20220127 | 去中心化上线CS | https://hosch3n.github.io/2021/11/10/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E4%B8%8A%E7%BA%BFCS/| 
 | 20220127 | 漏洞监控平台——Monitor | https://github.com/lxflxfcl/monitor| 
-| 20220127 | 聊聊API安全的重要性及治理思路 | https://mp.weixin.qq.com/s/Q9fZrq51fLNf0itPj1p9Vw| 
 
 
 # CVE Github 推荐
