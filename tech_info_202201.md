@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220131T01:35:02Z | A collection of Roblox exploits | https://github.com/ayvacs/scripts | 0 | 0| 
+| 20220131T01:41:03Z | A lil collection of Roblox exploits | https://github.com/ayvacs/scripts | 1 | 0| 
 | 20220131T01:10:20Z | Null | https://github.com/LUIS9799/linkvertise-exploit | 0 | 0| 
 | 20220131T00:50:00Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | 3503 | 196| 
 | 20220131T00:22:01Z | Null | https://github.com/russianname/Roblox-Exploit-Client | 0 | 0| 
