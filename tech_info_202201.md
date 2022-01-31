@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T02:44:26Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1057 | 250| 
 | 20220131T02:39:11Z | Find exploits and vulnerabilities in the most important databases. | https://github.com/ygorsimoes/dionisio | 0 | 0| 
 | 20220131T02:31:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 3 | 1| 
 | 20220131T01:41:03Z | A lil collection of Roblox exploits | https://github.com/ayvacs/scripts | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20220130T23:26:04Z | Exploitation du protocole ftp | https://github.com/antoinechauvn/ftp-exploit | 0 | 0| 
 | 20220130T23:08:47Z | Null | https://github.com/RapidoBuzz/RhyteredExploit | 0 | 0| 
 | 20220130T23:00:50Z | Fire is my personal Krnl based Roblox executor, a relic from my Roblox exploit days. | https://github.com/PotentiallyParadoxical/FireExecutor | 0 | 0| 
-| 20220130T21:16:54Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2740 | 419| 
 
 
 # backdoor on Github 推荐
