@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T13:20:15Z | Penetration-List is the supplement for Tester. It contains Every single type of vulnerabilities Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep, So More Information about our theory sections, Visit our Medium profile. | https://github.com/AlbusSec/Penetration-List | 2 | 1| 
 | 20220131T12:58:46Z | Null | https://github.com/yuvraj1464/fuzzy-bassoon | 0 | 0| 
 | 20220131T11:51:34Z | C++14 automated code test infrastructure with permutation, fuzzing, sanitising and edge coverage | https://github.com/ned14/kerneltest | 11 | 2| 
 | 20220131T11:17:27Z | Fuzzy Logic Implementation | https://github.com/Nico-Duduf/DuFuzzyLogic | 2 | 1| 
@@ -82,7 +83,6 @@
 | 20220131T09:57:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 753 | 74| 
 | 20220131T09:26:04Z | Null | https://github.com/GauravSharma7112/fuzzy-telegram | 0 | 0| 
 | 20220131T08:02:50Z | Null | https://github.com/mm6li6sac3ah/fuzzy-telegram | 0 | 0| 
-| 20220131T07:54:34Z | Penetration-List is the supplement for Tester. It contains Every single type of vulnerabilities Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep, So More Information about our theory sections, Visit our Medium profile. | https://github.com/AlbusSec/Penetration-List | 1 | 1| 
 | 20220131T07:34:18Z | A javascript fuzzy search lib , written in rust | https://github.com/ChrisLee0211/fast-fuzzy-search | 0 | 0| 
 | 20220131T07:28:19Z | Null | https://github.com/6s2rp0676asi/fuzzy-rotary-phone | 0 | 0| 
 
