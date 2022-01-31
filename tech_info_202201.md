@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T02:31:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 3 | 1| 
 | 20220131T01:41:03Z | A lil collection of Roblox exploits | https://github.com/ayvacs/scripts | 1 | 0| 
 | 20220131T01:10:20Z | Null | https://github.com/LUIS9799/linkvertise-exploit | 0 | 0| 
 | 20220131T00:50:00Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | 3503 | 196| 
@@ -100,7 +101,6 @@
 | 20220130T23:00:50Z | Fire is my personal Krnl based Roblox executor, a relic from my Roblox exploit days. | https://github.com/PotentiallyParadoxical/FireExecutor | 0 | 0| 
 | 20220130T21:16:54Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2740 | 419| 
 | 20220130T21:15:10Z | A collection of exploit scripting modules I%ve derived of my own and others volition. Just use loadstrings to load them. | https://github.com/NostalgiaBoy/RLUA-Module-Collection | 0 | 0| 
-| 20220130T20:58:44Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 2 | 0| 
 
 
 # backdoor on Github 推荐
