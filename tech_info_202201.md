@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220131T01:49:06Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220131T00:57:20Z | CVE-2021-4034 | Null | https://github.com/EstamelGG/CVE-2021-4034-NoGCC | | 
-| 20220131T00:19:31Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220130T22:58:23Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220130T22:49:02Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220130T16:23:30Z | CVE-2021-22204 | A complete PoC for CVE-2021-22204 exiftool RCE  | https://github.com/0xBruno/CVE-2021-22204 | | 
