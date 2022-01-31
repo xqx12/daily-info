@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T13:57:02Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | 0 | 0| 
 | 20220131T13:46:48Z | Automated tool to exploit basic buffer overflow remotely and locally & x32 and x64  | https://github.com/isch1zo/buffy | 0 | 0| 
 | 20220131T13:21:59Z | Exploit Host version lite for Exploit v9.00 | https://github.com/leeful77/Ghost1396 | 0 | 0| 
 | 20220131T13:03:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8696 | 1487| 
@@ -48,7 +49,6 @@
 | 20220131T10:06:53Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 90 | 8| 
 | 20220131T09:27:52Z | TODO: | https://github.com/badru8612/File-Upload-Exploit-Via-Race-Condition | 0 | 0| 
 | 20220131T08:58:01Z | A fabric client-side mod for an invincibility exploit. | https://github.com/Coderx-Gamer/invincibility-hack | 2 | 1| 
-| 20220131T08:57:24Z | CVE-2021-4034 | https://github.com/xuntitled/Polkit-pkexec-exploit-for-Linux | 0 | 0| 
 
 
 # backdoor on Github 推荐
