@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T02:33:16Z | Analyzes, recognizes and finds vulnerabilities and exploits. | https://github.com/ygorsimoes/dionisio | 0 | 0| 
 | 20220131T02:31:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 3 | 1| 
 | 20220131T01:41:03Z | A lil collection of Roblox exploits | https://github.com/ayvacs/scripts | 1 | 0| 
 | 20220131T01:10:20Z | Null | https://github.com/LUIS9799/linkvertise-exploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220130T23:08:47Z | Null | https://github.com/RapidoBuzz/RhyteredExploit | 0 | 0| 
 | 20220130T23:00:50Z | Fire is my personal Krnl based Roblox executor, a relic from my Roblox exploit days. | https://github.com/PotentiallyParadoxical/FireExecutor | 0 | 0| 
 | 20220130T21:16:54Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2740 | 419| 
-| 20220130T21:15:10Z | A collection of exploit scripting modules I%ve derived of my own and others volition. Just use loadstrings to load them. | https://github.com/NostalgiaBoy/RLUA-Module-Collection | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T02:33:36Z | Null | https://github.com/Nosihlechiliza0/fuzzy-octo-robot | 0 | 0| 
 | 20220131T02:28:00Z | Comparison between a PID, ANN & Fuzzy-PID controller while controlling a Robotic Arm in Simulink | https://github.com/pritismankar-maan/Control-of-Robotics-ARM-using-PID-ANN-Fuzzy-controllers | 0 | 0| 
 | 20220131T02:16:38Z | Comparison between a PID, ANN & Fuzzy-PID controller while controlling a Robotic Arm in Simulink | https://github.com/pritismankar-maan/Control-of-Robotics-ARM-using-PID-ANN-Fuzzy-PID-controllers | 0 | 0| 
 | 20220131T01:16:35Z | Null | https://github.com/1xkq3sn8vcrv/fuzzy-goggles | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20220131T00:22:27Z | Null | https://github.com/pw7xybtwkj8f/fuzzy-chainsaw | 0 | 0| 
 | 20220130T20:55:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7057 | 1491| 
 | 20220130T20:52:09Z | 自动fuzz spring的加密密码，自动解密spring的加密密码 | https://github.com/AbelChe/jasyptAtuoDecrypt | 1 | 0| 
-| 20220130T19:49:00Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2436 | 476| 
 
 
 
