@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T02:43:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 42 | 13| 
 | 20220131T02:33:36Z | Null | https://github.com/Nosihlechiliza0/fuzzy-octo-robot | 0 | 0| 
 | 20220131T02:28:00Z | Comparison between a PID, ANN & Fuzzy-PID controller while controlling a Robotic Arm in Simulink | https://github.com/pritismankar-maan/Control-of-Robotics-ARM-using-PID-ANN-Fuzzy-controllers | 0 | 0| 
 | 20220131T02:16:38Z | Comparison between a PID, ANN & Fuzzy-PID controller while controlling a Robotic Arm in Simulink | https://github.com/pritismankar-maan/Control-of-Robotics-ARM-using-PID-ANN-Fuzzy-PID-controllers | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20220131T00:48:57Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 750 | 147| 
 | 20220131T00:22:27Z | Null | https://github.com/pw7xybtwkj8f/fuzzy-chainsaw | 0 | 0| 
 | 20220130T20:55:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7057 | 1491| 
-| 20220130T20:52:09Z | 自动fuzz spring的加密密码，自动解密spring的加密密码 | https://github.com/AbelChe/jasyptAtuoDecrypt | 1 | 0| 
 
 
 
