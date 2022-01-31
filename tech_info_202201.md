@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T02:28:00Z | Comparison between a PID, ANN & Fuzzy-PID controller while controlling a Robotic Arm in Simulink | https://github.com/pritismankar-maan/Control-of-Robotics-ARM-using-PID-ANN-Fuzzy-controllers | 0 | 0| 
 | 20220131T02:16:38Z | Comparison between a PID, ANN & Fuzzy-PID controller while controlling a Robotic Arm in Simulink | https://github.com/pritismankar-maan/Control-of-Robotics-ARM-using-PID-ANN-Fuzzy-PID-controllers | 0 | 0| 
 | 20220131T01:16:35Z | Null | https://github.com/1xkq3sn8vcrv/fuzzy-goggles | 0 | 0| 
 | 20220131T01:11:45Z | react tutorial | https://github.com/maur-ojeda/fuzzy-chainsaw | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20220130T20:55:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7057 | 1491| 
 | 20220130T20:52:09Z | 自动fuzz spring的加密密码，自动解密spring的加密密码 | https://github.com/AbelChe/jasyptAtuoDecrypt | 1 | 0| 
 | 20220130T19:49:00Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2436 | 476| 
-| 20220130T18:11:13Z | Null | https://github.com/acetinkaya/scikit-fuzzy | 0 | 0| 
 
 
 
