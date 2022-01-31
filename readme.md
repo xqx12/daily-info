@@ -74,7 +74,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220130T08:21:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2672 | 396| 
+| 20220130T23:14:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2675 | 396| 
+| 20220130T18:21:16Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 171 | 36| 
 | 20220130T08:14:25Z | Symbolic Dynamic Memory Allocation for Symbolic Execution | https://github.com/AnonyGiit/SymAlloc | 0 | 0| 
 | 20220130T08:05:55Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 192 | 10| 
 
