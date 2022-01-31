@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220131T02:38:31Z | Find exploits and vulnerabilities in the most important databases. | https://github.com/ygorsimoes/dionisio | 0 | 0| 
+| 20220131T02:39:11Z | Find exploits and vulnerabilities in the most important databases. | https://github.com/ygorsimoes/dionisio | 0 | 0| 
 | 20220131T02:31:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 3 | 1| 
 | 20220131T01:41:03Z | A lil collection of Roblox exploits | https://github.com/ayvacs/scripts | 1 | 0| 
 | 20220131T01:10:20Z | Null | https://github.com/LUIS9799/linkvertise-exploit | 0 | 0| 
