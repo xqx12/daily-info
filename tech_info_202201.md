@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T13:46:48Z | Automated tool to exploit basic buffer overflow remotely and locally & x32 and x64  | https://github.com/isch1zo/buffy | 0 | 0| 
 | 20220131T13:21:59Z | Exploit Host version lite for Exploit v9.00 | https://github.com/leeful77/Ghost1396 | 0 | 0| 
 | 20220131T13:03:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8696 | 1487| 
 | 20220131T12:56:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10687 | 1848| 
@@ -100,7 +101,6 @@
 | 20220131T09:27:52Z | TODO: | https://github.com/badru8612/File-Upload-Exploit-Via-Race-Condition | 0 | 0| 
 | 20220131T08:58:01Z | A fabric client-side mod for an invincibility exploit. | https://github.com/Coderx-Gamer/invincibility-hack | 2 | 1| 
 | 20220131T08:57:24Z | CVE-2021-4034 | https://github.com/xuntitled/Polkit-pkexec-exploit-for-Linux | 0 | 0| 
-| 20220131T08:13:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 298 | 93| 
 
 
 # backdoor on Github 推荐
