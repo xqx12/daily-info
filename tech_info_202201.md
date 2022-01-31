@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220131 | SecWiki周刊（第413期) | https://www.sec-wiki.com/weekly/413| 
+| 20220131 | 配置错误注入测试中的挑战与机遇 | https://mp.weixin.qq.com/s/WvRb5cp6EssuzcVqlYWcSQ| 
 | 20220130 | wJa (D&S&I)AST 工具 | https://xz.aliyun.com/t/10792| 
 | 20220130 | 威胁想定分析框架 | https://mp.weixin.qq.com/s/s_2GvSNggV7pz0WDDrFvTQ| 
 | 20220128 | 如何入门工控漏洞挖掘 | https://mp.weixin.qq.com/s/7vLevyUEz9B0nOrLVYa23w| 
@@ -39,14 +41,14 @@
 | 20220127 | Flare-On 8th两道题目复现 | https://www.anquanke.com/post/id/265361| 
 | 20220127 | 应急响应-Yara规则木马检测 | https://www.anquanke.com/post/id/264531| 
 | 20220127 | ISOON2021 线下域渗透题解 | https://www.anquanke.com/post/id/262921| 
-| 20220127 | 去中心化上线CS | https://hosch3n.github.io/2021/11/10/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E4%B8%8A%E7%BA%BFCS/| 
-| 20220127 | 漏洞监控平台——Monitor | https://github.com/lxflxfcl/monitor| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220131T01:49:06Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220131T12:12:24Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220131T09:02:23Z | CVE-2021-3560 | CVE-2021-3560 analysis | https://github.com/chenaotian/CVE-2021-3560 | | 
+| 20220131T08:21:05Z | CVE-2021-38560 | Null | https://github.com/os909/iVANTI-CVE-2021-38560 | | 
 | 20220131T00:57:20Z | CVE-2021-4034 | Null | https://github.com/EstamelGG/CVE-2021-4034-NoGCC | | 
 | 20220130T22:58:23Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220130T22:49:02Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
@@ -54,15 +56,13 @@
 | 20220130T10:27:02Z | cve-2021-4034 | Null | https://github.com/milot/dissecting-pkexec-cve-2021-4034 | | 
 | 20220130T10:25:13Z | CVE-2021-1675 | PrintNightmare Local Privilege Escalation  | https://github.com/AndrewTrube/CVE-2021-1675 | | 
 | 20220130T10:24:27Z | CVE-2021-4034 | PwnKit PoC for Polkit pkexec CVE-2021-4034  | https://github.com/navisec/CVE-2021-4034-PwnKit | | 
-| 20220130T09:37:24Z | CVE-2020-35476 | A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter.  | https://github.com/glowbase/CVE-2020-35476 | | 
-| 20220130T06:58:31Z | CVE-2021-3156 | Exploit for CVE-2021-3156 | https://github.com/litt1eb0yy/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220131T01:29:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4879 | 174| 
-| 20220130T06:24:25Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 271 | 17| 
+| 20220131T10:49:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4886 | 176| 
+| 20220131T05:53:48Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 272 | 17| 
 | 20220129T00:51:43Z | Null | https://github.com/unicorn-talent/kleenex | 0 | 0| 
 | 20220128T08:00:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1876 | 534| 
 | 20220128T05:32:26Z | Caltech first-year graduate student proposition project with Katherine de Kleer studying oxygen aurora on Ganymede. | https://github.com/zachariahmilby/ge-297-de-kleer-ganymede-aurora | 0 | 0| 
@@ -91,21 +91,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220131T02:44:26Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1057 | 250| 
-| 20220131T02:39:11Z | Find exploits and vulnerabilities in the most important databases. | https://github.com/ygorsimoes/dionisio | 0 | 0| 
-| 20220131T02:31:30Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 3 | 1| 
-| 20220131T01:41:03Z | A lil collection of Roblox exploits | https://github.com/ayvacs/scripts | 1 | 0| 
-| 20220131T01:10:20Z | Null | https://github.com/LUIS9799/linkvertise-exploit | 0 | 0| 
-| 20220131T00:50:00Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | 3503 | 196| 
-| 20220131T00:22:01Z | Null | https://github.com/russianname/Roblox-Exploit-Client | 0 | 0| 
-| 20220130T23:26:04Z | Exploitation du protocole ftp | https://github.com/antoinechauvn/ftp-exploit | 0 | 0| 
-| 20220130T23:08:47Z | Null | https://github.com/RapidoBuzz/RhyteredExploit | 0 | 0| 
-| 20220130T23:00:50Z | Fire is my personal Krnl based Roblox executor, a relic from my Roblox exploit days. | https://github.com/PotentiallyParadoxical/FireExecutor | 0 | 0| 
+| 20220131T12:56:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10687 | 1848| 
+| 20220131T11:24:45Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/DavidTDC3377/Ro-XploitMM2GUI | 0 | 0| 
+| 20220131T10:22:07Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1562 | 529| 
+| 20220131T10:06:53Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 90 | 8| 
+| 20220131T09:27:52Z | TODO: | https://github.com/badru8612/File-Upload-Exploit-Via-Race-Condition | 0 | 0| 
+| 20220131T08:58:01Z | A fabric client-side mod for an invincibility exploit. | https://github.com/Coderx-Gamer/invincibility-hack | 2 | 1| 
+| 20220131T08:57:24Z | CVE-2021-4034 | https://github.com/xuntitled/Polkit-pkexec-exploit-for-Linux | 0 | 0| 
+| 20220131T08:13:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 298 | 93| 
+| 20220131T07:44:58Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2856 | 568| 
+| 20220131T06:30:52Z | This is a simple token cracker that use user / bot id to crack and use proxy to bypass rate limit. For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | 23 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T09:01:05Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 65 | 15| 
 | 20220131T01:11:55Z | Scan for Backdoor in Hardware for Intel | https://github.com/stnert/ScanME | 0 | 0| 
 | 20220131T01:09:51Z | Scan for Backdoor in Hardware for Intel | https://github.com/stnert/FuckCIA_- | 0 | 0| 
 | 20220131T01:06:53Z | Backup of code  | https://github.com/stnert/Scan_BackdoorIntelME | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20220130T16:09:06Z | [Backdoor] Self-replicating tagging virus | https://github.com/SaltyMilk/Famine | 1 | 0| 
 | 20220130T15:30:14Z | A FUD python backdoor creator and listener for reverse shell connection. | https://github.com/Darkhaxxor005/Rouge.py | 0 | 0| 
 | 20220130T13:34:53Z | Backdoor software with some useful functions | https://github.com/Kamelleon/PyDoor | 0 | 0| 
-| 20220130T12:50:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6067 | 1898| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220131T02:43:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 42 | 13| 
-| 20220131T02:33:36Z | Null | https://github.com/Nosihlechiliza0/fuzzy-octo-robot | 0 | 0| 
-| 20220131T02:28:00Z | Comparison between a PID, ANN & Fuzzy-PID controller while controlling a Robotic Arm in Simulink | https://github.com/pritismankar-maan/Control-of-Robotics-ARM-using-PID-ANN-Fuzzy-controllers | 0 | 0| 
-| 20220131T02:16:38Z | Comparison between a PID, ANN & Fuzzy-PID controller while controlling a Robotic Arm in Simulink | https://github.com/pritismankar-maan/Control-of-Robotics-ARM-using-PID-ANN-Fuzzy-PID-controllers | 0 | 0| 
-| 20220131T01:16:35Z | Null | https://github.com/1xkq3sn8vcrv/fuzzy-goggles | 0 | 0| 
-| 20220131T01:11:45Z | react tutorial | https://github.com/maur-ojeda/fuzzy-chainsaw | 0 | 0| 
-| 20220131T01:09:08Z | Null | https://github.com/2mju5m2mrkwz/fuzzy-carnival | 0 | 0| 
-| 20220131T00:48:57Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 750 | 147| 
-| 20220131T00:22:27Z | Null | https://github.com/pw7xybtwkj8f/fuzzy-chainsaw | 0 | 0| 
-| 20220130T20:55:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7057 | 1491| 
+| 20220131T12:58:46Z | Null | https://github.com/yuvraj1464/fuzzy-bassoon | 0 | 0| 
+| 20220131T11:51:34Z | C++14 automated code test infrastructure with permutation, fuzzing, sanitising and edge coverage | https://github.com/ned14/kerneltest | 11 | 2| 
+| 20220131T11:17:27Z | Fuzzy Logic Implementation | https://github.com/Nico-Duduf/DuFuzzyLogic | 2 | 1| 
+| 20220131T10:02:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 43 | 13| 
+| 20220131T09:57:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 753 | 74| 
+| 20220131T09:26:04Z | Null | https://github.com/GauravSharma7112/fuzzy-telegram | 0 | 0| 
+| 20220131T08:02:50Z | Null | https://github.com/mm6li6sac3ah/fuzzy-telegram | 0 | 0| 
+| 20220131T07:54:34Z | Penetration-List is the supplement for Tester. It contains Every single type of vulnerabilities Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep, So More Information about our theory sections, Visit our Medium profile. | https://github.com/AlbusSec/Penetration-List | 1 | 1| 
+| 20220131T07:34:18Z | A javascript fuzzy search lib , written in rust | https://github.com/ChrisLee0211/fast-fuzzy-search | 0 | 0| 
+| 20220131T07:28:19Z | Null | https://github.com/6s2rp0676asi/fuzzy-rotary-phone | 0 | 0| 
 
 
 
