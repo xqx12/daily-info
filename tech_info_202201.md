@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T01:11:55Z | Scan for Backdoor in Hardware for Intel | https://github.com/stnert/ScanME | 0 | 0| 
 | 20220131T01:09:51Z | Scan for Backdoor in Hardware for Intel | https://github.com/stnert/FuckCIA_- | 0 | 0| 
 | 20220131T01:06:53Z | Backup of code  | https://github.com/stnert/Scan_BackdoorIntelME | 0 | 0| 
 | 20220130T20:58:25Z | Config files for my GitHub profile. | https://github.com/Backdoor3/Backdoor3 | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20220130T15:30:14Z | A FUD python backdoor creator and listener for reverse shell connection. | https://github.com/Darkhaxxor005/Rouge.py | 0 | 0| 
 | 20220130T13:34:53Z | Backdoor software with some useful functions | https://github.com/Kamelleon/PyDoor | 0 | 0| 
 | 20220130T12:50:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6067 | 1898| 
-| 20220130T06:12:37Z | Null | https://github.com/avacadox21/BackdoorPlugin | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
