@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T01:10:20Z | Null | https://github.com/LUIS9799/linkvertise-exploit | 0 | 0| 
 | 20220131T00:50:00Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | 3503 | 196| 
 | 20220131T00:22:01Z | Null | https://github.com/russianname/Roblox-Exploit-Client | 0 | 0| 
 | 20220130T23:26:04Z | Exploitation du protocole ftp | https://github.com/antoinechauvn/ftp-exploit | 0 | 0| 
@@ -100,12 +101,12 @@
 | 20220130T21:15:10Z | A collection of exploit scripting modules I%ve derived of my own and others volition. Just use loadstrings to load them. | https://github.com/NostalgiaBoy/RLUA-Module-Collection | 0 | 0| 
 | 20220130T20:58:44Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 2 | 0| 
 | 20220130T19:37:56Z | Python İle Web Kazıma // MongoDB | https://github.com/omergoc/ExploitHavuzProjesi | 0 | 0| 
-| 20220130T18:04:35Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 10 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T01:09:51Z | Scan for Backdoor in Hardware for Intel | https://github.com/stnert/FuckCIA_- | 0 | 0| 
 | 20220131T01:06:53Z | Backup of code  | https://github.com/stnert/Scan_BackdoorIntelME | 0 | 0| 
 | 20220130T20:58:25Z | Config files for my GitHub profile. | https://github.com/Backdoor3/Backdoor3 | 0 | 0| 
 | 20220130T17:57:31Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/INZO-Technologies/Backdoor-Plugin | 1 | 0| 
@@ -115,7 +116,6 @@
 | 20220130T13:34:53Z | Backdoor software with some useful functions | https://github.com/Kamelleon/PyDoor | 0 | 0| 
 | 20220130T12:50:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6067 | 1898| 
 | 20220130T06:12:37Z | Null | https://github.com/avacadox21/BackdoorPlugin | 0 | 0| 
-| 20220130T04:02:37Z | Config files for my GitHub profile. | https://github.com/backdoorgenerator/backdoorgenerator | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
