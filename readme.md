@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T13:03:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8696 | 1487| 
 | 20220131T12:56:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10687 | 1848| 
 | 20220131T11:24:45Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/DavidTDC3377/Ro-XploitMM2GUI | 0 | 0| 
 | 20220131T10:22:07Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1562 | 529| 
@@ -48,7 +49,6 @@
 | 20220131T08:57:24Z | CVE-2021-4034 | https://github.com/xuntitled/Polkit-pkexec-exploit-for-Linux | 0 | 0| 
 | 20220131T08:13:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 298 | 93| 
 | 20220131T07:44:58Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 2856 | 568| 
-| 20220131T06:30:52Z | This is a simple token cracker that use user / bot id to crack and use proxy to bypass rate limit. For Educational Purposes Only! | https://github.com/tungdo0602/Discord-Token-Cracker | 23 | 6| 
 
 
 # backdoor on Github 推荐
@@ -63,6 +63,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220131T09:44:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2676 | 396| 
+| 20220131T05:24:28Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 
 
 # big4 on Github 推荐
