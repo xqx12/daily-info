@@ -36,6 +36,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220201T13:35:42Z | Null | https://github.com/easrng/scratch-link-exploit | 0 | 0| 
+| 20220201T13:34:46Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 16 | 6| 
 | 20220201T13:04:36Z | My Analysis and Exploits for old Driver Vulnerabilities | https://github.com/HadiMed/Reverse-engineering-exploiting-Win-drivers | 0 | 0| 
 | 20220201T12:55:07Z | Contains security vulnerabilities payloads and exploits that I come across or use | https://github.com/ladecruze/Exploits | 1 | 0| 
 | 20220201T11:32:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10690 | 1851| 
@@ -44,8 +46,6 @@
 | 20220201T10:03:20Z | Scan/Exploit - EternalBlue MS17-010 - Windows 7 x86/x64 | https://github.com/d4t4s3c/Win7Blue | 36 | 5| 
 | 20220201T09:51:27Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 82 | 33| 
 | 20220201T08:31:40Z | A demonstration on the reflection exploit discussed by CMU Rule 15 Platform security.  | https://github.com/azdmcpeak/SEC05-J | 0 | 0| 
-| 20220201T07:59:15Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8696 | 1487| 
-| 20220201T06:07:44Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 
 
 # backdoor on Github 推荐
