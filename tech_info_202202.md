@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220201T13:25:57Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220201T12:34:47Z | CVE-2021-4034 | Pwnkit CVE-2021-4034 | https://github.com/scent2d/PoC-CVE-2021-4034 | | 
-| 20220201T11:02:59Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220201T10:54:41Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 
 
