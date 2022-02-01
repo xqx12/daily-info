@@ -70,6 +70,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220201T13:18:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36673 | 18880| 
+| 20220201T12:44:51Z | 针对目标已知信息的字典生成工具 | https://github.com/ffffffff0x/name-fuzz | 5 | 0| 
 | 20220201T12:43:56Z | Null | https://github.com/avicraft/fuzzy-waddle | 0 | 0| 
 | 20220201T12:28:23Z | Null | https://github.com/hermawansunandar/fuzzy-waddle | 0 | 0| 
 | 20220201T11:52:38Z | Null | https://github.com/alikasunarto/fuzzy-happiness | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20220201T09:28:16Z | fuzzydb is a fuzzy matching database engine capable of providing human-like search results that make life much easier for users of websites searching for things like cars, houses, people and jobs. | https://github.com/whirlwind-match/fuzzydb | 17 | 5| 
 | 20220201T07:21:47Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 222 | 13| 
 | 20220201T05:00:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3920 | 919| 
-| 20220201T01:57:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 754 | 74| 
 
 
 
