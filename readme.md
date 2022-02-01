@@ -46,7 +46,7 @@
 | 20220131T22:37:48Z | Null | https://github.com/RapidoBuzz/RhyteredExploit | 0 | 0| 
 | 20220131T22:34:54Z | A CmdLib for exploits. | https://github.com/Ix1x0x3/eurus | 0 | 0| 
 | 20220131T22:31:43Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 35 | 7| 
-| 20220131T22:00:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10688 | 1848| 
+| 20220131T22:00:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10688 | 1849| 
 | 20220131T21:23:54Z | Log4J Exploits for Different Systems | https://github.com/RandomRobbieBF/Log4J-Exploits | 0 | 0| 
 | 20220131T21:22:38Z | Sourcemod plugin for No More Room in Hell that fixes a common exploit where clients hug corners to aggro NPCs and not take damage from them | https://github.com/dysphie/nmrih-cornerbug-fix | 0 | 0| 
 | 20220131T21:16:23Z | Null | https://github.com/samvho/exploit_prediction | 0 | 0| 
