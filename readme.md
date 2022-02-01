@@ -76,9 +76,9 @@
 | 20220201T11:12:25Z | A small Java package for simple string matching. | https://github.com/SpinningVinyl/FuzzyStrings | 0 | 0| 
 | 20220201T10:11:15Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2439 | 477| 
 | 20220201T09:28:16Z | fuzzydb is a fuzzy matching database engine capable of providing human-like search results that make life much easier for users of websites searching for things like cars, houses, people and jobs. | https://github.com/whirlwind-match/fuzzydb | 17 | 5| 
+| 20220201T07:21:47Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 222 | 13| 
 | 20220201T05:00:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3920 | 919| 
 | 20220201T01:57:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 754 | 74| 
-| 20220201T01:01:35Z | Null | https://github.com/TorreszRicrdo/fuzzy-pancake | 0 | 0| 
 
 
 
