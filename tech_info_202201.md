@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220131T13:57:02Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | 0 | 0| 
-| 20220131T13:46:48Z | Automated tool to exploit basic buffer overflow remotely and locally & x32 and x64  | https://github.com/isch1zo/buffy | 0 | 0| 
-| 20220131T13:21:59Z | Exploit Host version lite for Exploit v9.00 | https://github.com/leeful77/Ghost1396 | 0 | 0| 
-| 20220131T13:03:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8696 | 1487| 
-| 20220131T12:56:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10687 | 1848| 
-| 20220131T11:24:45Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/DavidTDC3377/Ro-XploitMM2GUI | 0 | 0| 
-| 20220131T10:22:07Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1562 | 529| 
-| 20220131T10:06:53Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 90 | 8| 
-| 20220131T09:27:52Z | TODO: | https://github.com/badru8612/File-Upload-Exploit-Via-Race-Condition | 0 | 0| 
-| 20220131T08:58:01Z | A fabric client-side mod for an invincibility exploit. | https://github.com/Coderx-Gamer/invincibility-hack | 2 | 1| 
+| 20220131T23:54:02Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2944 | 545| 
+| 20220131T22:46:01Z | Null | https://github.com/Lkdytz2/Exploit-Template | 0 | 0| 
+| 20220131T22:37:48Z | Null | https://github.com/RapidoBuzz/RhyteredExploit | 0 | 0| 
+| 20220131T22:34:54Z | A CmdLib for exploits. | https://github.com/Ix1x0x3/eurus | 0 | 0| 
+| 20220131T22:31:43Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 35 | 7| 
+| 20220131T22:20:57Z | Find exploits and vulnerabilities in the most important databases. | https://github.com/ygorsimoes/dionisio | 0 | 0| 
+| 20220131T22:00:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10688 | 1848| 
+| 20220131T21:23:54Z | Log4J Exploits for Different Systems | https://github.com/RandomRobbieBF/Log4J-Exploits | 0 | 0| 
+| 20220131T21:22:38Z | Sourcemod plugin for No More Room in Hell that fixes a common exploit where clients hug corners to aggro NPCs and not take damage from them | https://github.com/dysphie/nmrih-cornerbug-fix | 0 | 0| 
+| 20220131T21:16:23Z | Null | https://github.com/samvho/exploit_prediction | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220131T09:44:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2676 | 396| 
+| 20220131T22:44:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2677 | 396| 
 | 20220131T05:24:28Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 | 20220130T08:14:25Z | Symbolic Dynamic Memory Allocation for Symbolic Execution | https://github.com/AnonyGiit/SymAlloc | 0 | 0| 
 | 20220130T08:05:55Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 192 | 10| 
