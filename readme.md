@@ -30,6 +30,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220201T06:07:44Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 
 
 # exploit on Github 推荐
@@ -55,6 +56,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220201T12:12:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2680 | 396| 
+| 20220201T06:07:44Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 
 
 # big4 on Github 推荐
