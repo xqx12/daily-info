@@ -153,13 +153,13 @@
 | 20220131T23:13:30Z | Scalable fuzzing management | https://github.com/Veids/spray-and-pray | 0 | 0| 
 | 20220131T20:24:46Z | Practical example of using Fuzzy Logic in JAVA to control a Lamp and  sensor | https://github.com/abdou-glitch/FuzzyControllerLogic-in-JAVA | 0 | 0| 
 | 20220131T19:30:39Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 503 | 22| 
+| 20220131T15:29:42Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 222 | 13| 
 | 20220131T13:20:15Z | Penetration-List is the supplement for Tester. It contains Every single type of vulnerabilities Material used during Penetration Testing. The list includes Pyaloads, dorks, Fuzzing Materials, and many more. And We also provide theory Sections about every vulnerability in deep, So More Information about our theory sections, Visit our Medium profile. | https://github.com/AlbusSec/Penetration-List | 2 | 1| 
 | 20220131T12:58:46Z | Null | https://github.com/yuvraj1464/fuzzy-bassoon | 0 | 0| 
 | 20220131T11:51:34Z | C++14 automated code test infrastructure with permutation, fuzzing, sanitising and edge coverage | https://github.com/ned14/kerneltest | 11 | 2| 
 | 20220131T11:17:27Z | Fuzzy Logic Implementation | https://github.com/Nico-Duduf/DuFuzzyLogic | 2 | 1| 
 | 20220131T10:02:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 43 | 13| 
 | 20220131T09:26:04Z | Null | https://github.com/GauravSharma7112/fuzzy-telegram | 0 | 0| 
-| 20220131T08:02:50Z | Null | https://github.com/mm6li6sac3ah/fuzzy-telegram | 0 | 0| 
 
 
 
