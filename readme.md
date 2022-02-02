@@ -62,7 +62,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220201T12:12:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2680 | 396| 
+| 20220201T23:05:14Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 117 | 11| 
+| 20220201T19:45:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2681 | 396| 
+| 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 43| 
 | 20220201T06:07:44Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 
 

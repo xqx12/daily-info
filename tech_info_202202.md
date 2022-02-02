@@ -41,7 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220202T01:00:25Z | Acid Exploits Foldier | https://github.com/OfficalLBFluxus/Acid-Exploits | 0 | 0| 
+| 20220202T01:02:04Z | Acid Exploits Foldier | https://github.com/OfficalLBFluxus/Acid-Exploits | 0 | 0| 
 | 20220202T00:35:56Z | Null | https://github.com/razordeveloper/Warzone-XLL-Excel-Exploit-Crack | 0 | 0| 
 | 20220201T23:41:16Z | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | 1 | 0| 
 | 20220201T23:11:10Z | Trainer Offline/online como desees ^_^ solo aplica y guarda en el icono de herramientas tu Host (si te lo descargas...) Ademas he incluido una Gran Variedad de Exploits para ke no te falte de Nada!Disfrutalo! | https://github.com/Neluve/Trainer | 0 | 0| 
@@ -64,7 +64,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220201T12:12:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2680 | 396| 
+| 20220201T23:05:14Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 117 | 11| 
+| 20220201T19:45:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2681 | 396| 
+| 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 43| 
 | 20220201T06:07:44Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 
 
