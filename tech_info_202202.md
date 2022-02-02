@@ -103,8 +103,8 @@
 | 20220202T08:15:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 755 | 74| 
 | 20220202T06:20:09Z | Null | https://github.com/Fuzzyvishak/Fuzzy | 0 | 0| 
 | 20220202T04:52:19Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 219 | 40| 
+| 20220202T03:07:47Z | Null | https://github.com/super-duper-octo-journey/fuzzy-octo-palm-tree | 0 | 0| 
 | 20220202T02:39:35Z | Null | https://github.com/whaleisland-dc/fuzzy-fortnight | 0 | 0| 
-| 20220202T02:28:16Z | Null | https://github.com/super-duper-octo-journey/fuzzy-octo-palm-tree | 0 | 0| 
 
 
 
