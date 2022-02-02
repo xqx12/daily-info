@@ -41,7 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220202T01:44:19Z | System ES1 simple pure software exploit | https://github.com/Shizmob/res1gn | 0 | 0| 
+| 20220202T01:55:30Z | Simple pure-software System ES1 exploit | https://github.com/Shizmob/res1gn | 0 | 0| 
 | 20220202T01:41:17Z | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | 1 | 0| 
 | 20220202T01:18:16Z | Synapse X cracked tool is a free code executor application | https://github.com/JackC4G/Synapse-X-Cracked-Roblox-Exploit-Free-Download-2022- | 1 | 0| 
 | 20220202T01:02:04Z | Acid Exploits Foldier | https://github.com/OfficalLBFluxus/Acid-Exploits | 0 | 0| 
