@@ -39,7 +39,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220201T23:41:16Z | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | 1 | 0| 
 | 20220201T23:11:10Z | Trainer Offline/online como desees ^_^ solo aplica y guarda en el icono de herramientas tu Host (si te lo descargas...) Ademas he incluido una Gran Variedad de Exploits para ke no te falte de Nada!Disfrutalo! | https://github.com/Neluve/Trainer | 0 | 0| 
 | 20220201T23:01:12Z | An advanced tool used to exploit service in port 8983 which runs Solar that uses log4j in its application | https://github.com/FonderElite/Log4j_exploit | 0 | 0| 
 | 20220201T21:37:22Z | Exploiting TOCTOU vulnerability using OpLock and Junctions | https://github.com/LucaBarile/TOCTOU | 1 | 1| 
@@ -49,6 +48,7 @@
 | 20220201T13:35:42Z | Null | https://github.com/easrng/scratch-link-exploit | 0 | 0| 
 | 20220201T13:34:46Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 16 | 6| 
 | 20220201T13:04:36Z | My Analysis and Exploits for old Driver Vulnerabilities | https://github.com/HadiMed/Reverse-engineering-exploiting-Win-drivers | 0 | 0| 
+| 20220201T12:55:07Z | Contains security vulnerabilities payloads and exploits that I come across or use | https://github.com/ladecruze/Exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
