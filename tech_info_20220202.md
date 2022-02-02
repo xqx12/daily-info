@@ -58,12 +58,18 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220202T09:23:11Z | This is the source code for Data-free Backdoor. | https://github.com/yangyunfei16/Data-free-Backdoor | 0 | 0| 
+| 20220202T08:47:50Z | An executable Backdoor with PowerShell and Ncat. | https://github.com/CorlieHips/NUKE | 0 | 0| 
+| 20220202T07:08:27Z | Null | https://github.com/bangs5282/BackDoor | 0 | 0| 
+| 20220202T06:26:41Z | Simple backdoor on Python 3 and C++ for windows. Works as reverse shell. Needs in small modification. | https://github.com/Retr0-code/Phoenix | 2 | 1| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220202T02:24:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1877 | 533| 
+| 20220202T12:52:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2683 | 396| 
+| 20220202T05:48:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 49 | 3| 
+| 20220202T04:19:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1878 | 534| 
 
 
 # big4 on Github 推荐

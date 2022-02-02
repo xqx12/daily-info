@@ -64,6 +64,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220202T09:23:11Z | This is the source code for Data-free Backdoor. | https://github.com/yangyunfei16/Data-free-Backdoor | 0 | 0| 
+| 20220202T08:47:50Z | An executable Backdoor with PowerShell and Ncat. | https://github.com/CorlieHips/NUKE | 0 | 0| 
+| 20220202T07:08:27Z | Null | https://github.com/bangs5282/BackDoor | 0 | 0| 
+| 20220202T06:26:41Z | Simple backdoor on Python 3 and C++ for windows. Works as reverse shell. Needs in small modification. | https://github.com/Retr0-code/Phoenix | 2 | 1| 
 | 20220201T21:10:24Z | evasion webshell in php in differenr extensions | https://github.com/FabioDefilippo/webshell.php | 1 | 0| 
 | 20220201T19:36:26Z | What seems like an ordinary tic tac toe but actually opens a backdoor on the player%s device | https://github.com/MikeManzi/tic-tac-toe | 0 | 0| 
 | 20220201T13:38:18Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 67 | 15| 
@@ -72,9 +76,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220202T02:24:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1877 | 533| 
+| 20220202T12:52:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2683 | 396| 
+| 20220202T05:48:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 49 | 3| 
+| 20220202T04:19:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1878 | 534| 
 | 20220201T23:05:14Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 117 | 11| 
-| 20220201T19:45:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2681 | 396| 
 | 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 43| 
 | 20220201T06:07:44Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
 
