@@ -77,16 +77,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220201T23:58:05Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 497 | 96| 
+| 20220201T23:55:26Z | Project for Spanish Class made using Slidev! | https://github.com/dev23jjl/fuzzy-adventure | 0 | 0| 
+| 20220201T22:32:32Z | A proof-of-concept of an irrigation system based on fuzzy logic | https://github.com/abldvd/FuzzyIrrigation | 0 | 0| 
+| 20220201T18:49:18Z | Null | https://github.com/PinkHairElizabeth/fuzzy-memory | 1 | 0| 
 | 20220201T13:18:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36673 | 18880| 
 | 20220201T12:44:51Z | 针对目标已知信息的字典生成工具 | https://github.com/ffffffff0x/name-fuzz | 5 | 0| 
 | 20220201T12:43:56Z | Null | https://github.com/avicraft/fuzzy-waddle | 0 | 0| 
 | 20220201T12:28:23Z | Null | https://github.com/hermawansunandar/fuzzy-waddle | 0 | 0| 
 | 20220201T11:52:38Z | Null | https://github.com/alikasunarto/fuzzy-happiness | 0 | 0| 
 | 20220201T11:12:25Z | A small Java package for simple string matching. | https://github.com/SpinningVinyl/FuzzyStrings | 0 | 0| 
-| 20220201T10:11:15Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2439 | 477| 
-| 20220201T09:28:16Z | fuzzydb is a fuzzy matching database engine capable of providing human-like search results that make life much easier for users of websites searching for things like cars, houses, people and jobs. | https://github.com/whirlwind-match/fuzzydb | 17 | 5| 
-| 20220201T07:21:47Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 222 | 13| 
-| 20220201T05:00:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3920 | 919| 
 
 
 
