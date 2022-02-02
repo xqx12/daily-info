@@ -80,7 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220202T02:10:06Z | Null | https://github.com/super-duper-octo-journey/fuzzy-octo-palm-tree | 0 | 0| 
+| 20220202T02:28:16Z | Null | https://github.com/super-duper-octo-journey/fuzzy-octo-palm-tree | 0 | 0| 
 | 20220201T23:58:05Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 497 | 96| 
 | 20220201T23:55:26Z | Project for Spanish Class made using Slidev! | https://github.com/dev23jjl/fuzzy-adventure | 0 | 0| 
 | 20220201T22:32:32Z | A proof-of-concept of an irrigation system based on fuzzy logic | https://github.com/abldvd/FuzzyIrrigation | 0 | 0| 
