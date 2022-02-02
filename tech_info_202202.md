@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220202T01:07:48Z | Synapse X cracked tool is a free code executor application | https://github.com/JackC4G/Synapse-X-Cracked-Roblox-Exploit-Free-Download-2022- | 0 | 0| 
 | 20220202T01:02:04Z | Acid Exploits Foldier | https://github.com/OfficalLBFluxus/Acid-Exploits | 0 | 0| 
 | 20220202T00:35:56Z | Null | https://github.com/razordeveloper/Warzone-XLL-Excel-Exploit-Crack | 0 | 0| 
 | 20220201T23:41:16Z | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | 1 | 0| 
@@ -50,7 +51,6 @@
 | 20220201T21:36:39Z | DLL Hijacking using DLL Proxying technique | https://github.com/LucaBarile/DLL-Hijacking | 1 | 2| 
 | 20220201T18:22:22Z | The public repository including all code to recreate the analysis and figures from, %Exploiting convergent evolution to derive a pan-cancer cisplatin sensitivity gene expression signature.% | https://github.com/jessicascarborough/cissig | 0 | 0| 
 | 20220201T14:09:51Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is designed to skip through iReady lessons/quizzes/time requirements or whatever. | https://github.com/cupiditys/iReady-Overload | 37 | 31| 
-| 20220201T13:35:42Z | Null | https://github.com/easrng/scratch-link-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
