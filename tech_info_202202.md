@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220202T02:39:35Z | Null | https://github.com/whaleisland-dc/fuzzy-fortnight | 0 | 0| 
 | 20220202T02:28:16Z | Null | https://github.com/super-duper-octo-journey/fuzzy-octo-palm-tree | 0 | 0| 
 | 20220201T23:58:05Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 497 | 96| 
 | 20220201T23:55:26Z | Project for Spanish Class made using Slidev! | https://github.com/dev23jjl/fuzzy-adventure | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20220201T12:44:51Z | 针对目标已知信息的字典生成工具 | https://github.com/ffffffff0x/name-fuzz | 5 | 0| 
 | 20220201T12:43:56Z | Null | https://github.com/avicraft/fuzzy-waddle | 0 | 0| 
 | 20220201T12:28:23Z | Null | https://github.com/hermawansunandar/fuzzy-waddle | 0 | 0| 
-| 20220201T11:52:38Z | Null | https://github.com/alikasunarto/fuzzy-happiness | 0 | 0| 
 
 
 
