@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220201T23:09:07Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220201T21:39:48Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 | 20220201T18:30:53Z | CVE-2020-14321 | Modified Moodle exploit for privilege escalation (Dorvack) | https://github.com/f0ns1/CVE-2020-14321-modified-exploit | | 
 | 20220201T18:10:15Z | CVE-2022-21882 | CVE-2022-21882 | https://github.com/David-Honisch/CVE-2022-21882 | | 
