@@ -42,8 +42,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220202T02:57:44Z | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | 1 | 0| 
 | 20220202T02:52:06Z | Simple pure-software System ES1 exploit | https://github.com/Shizmob/res1gn | 1 | 0| 
-| 20220202T02:46:20Z | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | 0 | 0| 
 | 20220202T01:41:17Z | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | 1 | 0| 
 | 20220202T01:18:16Z | Synapse X cracked tool is a free code executor application | https://github.com/JackC4G/Synapse-X-Cracked-Roblox-Exploit-Free-Download-2022- | 1 | 0| 
 | 20220202T01:02:04Z | Acid Exploits Foldier | https://github.com/OfficalLBFluxus/Acid-Exploits | 0 | 0| 
