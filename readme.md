@@ -18,11 +18,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220202T13:32:03Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 | 20220202T12:14:44Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220202T12:04:56Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220202T09:27:18Z | CVE-2021-4034 | Null | https://github.com/Ankit-Ojha16/CVE-2021-4034 | | 
 | 20220202T08:36:22Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
-| 20220202T08:27:53Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 | 20220202T05:38:06Z | CVE-2021-4034 | PWNKIT - Local Privilege Escalation Vulnerability on Linux (Polkit) | https://github.com/HrishitJoshi/CVE-2021-4034 | | 
 
 
