@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220202T02:30:01Z | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | 0 | 0| 
 | 20220202T01:55:30Z | Simple pure-software System ES1 exploit | https://github.com/Shizmob/res1gn | 0 | 0| 
 | 20220202T01:41:17Z | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | 1 | 0| 
 | 20220202T01:18:16Z | Synapse X cracked tool is a free code executor application | https://github.com/JackC4G/Synapse-X-Cracked-Roblox-Exploit-Free-Download-2022- | 1 | 0| 
@@ -51,7 +52,6 @@
 | 20220201T23:01:12Z | An advanced tool used to exploit service in port 8983 which runs Solar that uses log4j in its application | https://github.com/FonderElite/Log4j_exploit | 0 | 0| 
 | 20220201T21:37:22Z | Exploiting TOCTOU vulnerability using OpLock and Junctions | https://github.com/LucaBarile/TOCTOU | 1 | 1| 
 | 20220201T21:36:39Z | DLL Hijacking using DLL Proxying technique | https://github.com/LucaBarile/DLL-Hijacking | 1 | 2| 
-| 20220201T18:22:22Z | The public repository including all code to recreate the analysis and figures from, %Exploiting convergent evolution to derive a pan-cancer cisplatin sensitivity gene expression signature.% | https://github.com/jessicascarborough/cissig | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -65,6 +65,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220202T02:24:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1877 | 533| 
 | 20220201T23:05:14Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 117 | 11| 
 | 20220201T19:45:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2681 | 396| 
 | 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 43| 
