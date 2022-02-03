@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220203T13:26:05Z | CVE-2021-42013 | Apache HTTP Server 2.4.50 - RCE Lab | https://github.com/jas9reet/CVE-2021-42013-LAB | | 
 | 20220203T13:13:31Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220203T12:10:27Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 | 20220203T08:43:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -28,7 +29,6 @@
 | 20220203T05:17:09Z | CVE-2021-4034 | Linux LPE using polkit-1 written in Rust.  | https://github.com/deoxykev/CVE-2021-4034-Rust | | 
 | 20220203T01:35:25Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220202T17:35:27Z | CVE-2022-77777 | Test Sample | https://github.com/rezasarvani/CVE-2022-77777 | | 
-| 20220202T16:56:30Z | CVE-2021-2175 | CVE-2021-2175 | https://github.com/emad-almousa/CVE-2021-2175 | | 
 
 
 # klee on Github 推荐
@@ -83,9 +83,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220203T13:23:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1880 | 534| 
 | 20220203T12:27:07Z | Null | https://github.com/williamberman/evm-symbolic-execution | 15 | 0| 
 | 20220203T08:43:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2689 | 396| 
-| 20220203T04:39:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1879 | 534| 
 | 20220202T05:48:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 49 | 3| 
 | 20220201T23:05:14Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 117 | 11| 
 | 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 43| 
