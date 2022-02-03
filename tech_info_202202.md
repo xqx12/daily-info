@@ -49,7 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220203T00:59:18Z | Null | https://github.com/RyanScripz/Basic-Print-Exploit | 0 | 0| 
+| 20220203T01:04:35Z | Null | https://github.com/RyanScripz/Basic-Print-Exploit | 0 | 0| 
 | 20220203T00:50:52Z | Hello this is an exploit I made (MAY HAVE ISSUES AFTER NEW ROBLOX UPDATES) (DOWNLOAD EXLINSPLOIT - GITHUB) | https://github.com/AnonymousMonke12/ExlinSploit | 0 | 0| 
 | 20220203T00:25:59Z | Exploit / Backdoor patcher / preventer for gmod.  | https://github.com/z-Mythic/ExPatch | 1 | 0| 
 | 20220202T23:33:02Z | A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain. | https://github.com/0xApt/awesome-bbht | 390 | 78| 
