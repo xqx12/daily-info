@@ -55,10 +55,10 @@
 | 20220202T23:33:02Z | A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain. | https://github.com/0xApt/awesome-bbht | 390 | 78| 
 | 20220202T21:09:29Z | PS-Phwoar! Lite Version Exploit Host Menu for 5.05 FW with GoldHEN v2.1 Coded by SiSTRo | https://github.com/psxploitz/PSXploitz.github.io | 0 | 1| 
 | 20220202T13:43:56Z | Simple pure-software System ES1 exploit | https://github.com/Shizmob/res1gn | 5 | 1| 
+| 20220202T13:25:43Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 20 | 1| 
 | 20220202T12:42:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10698 | 1854| 
 | 20220202T12:36:51Z | Redis未授权批量ssh公钥写入 | https://github.com/Spencer-Clay/RedisMassiveExploit | 1 | 0| 
 | 20220202T11:20:49Z | Some exploits i developed for VulnHub machines and common vulnerabilities. | https://github.com/Xcatolin/Personal-Exploits | 3 | 1| 
-| 20220202T11:15:52Z | Repositório criado para o curso de Python do Beco do Exploit | https://github.com/h41stur/beco.py | 13 | 7| 
 
 
 # backdoor on Github 推荐
