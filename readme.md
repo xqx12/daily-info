@@ -83,7 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220203T13:34:18Z | A GitHub Security Lab initiative https://securitylab.github.com/ | https://github.com/antonio-morales/Fuzzing101 | 1005 | 116| 
+| 20220203T13:55:54Z | A GitHub Security Lab initiative https://securitylab.github.com/ | https://github.com/antonio-morales/Fuzzing101 | 1006 | 116| 
 | 20220203T13:26:57Z | Match databases based on last names in Spanish and date of birth | https://github.com/rafalab/fuzzypareo | 0 | 0| 
 | 20220203T12:56:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36710 | 18892| 
 | 20220203T11:49:32Z | java fuzzing util | https://github.com/yrime/jAsmInst | 0 | 0| 
