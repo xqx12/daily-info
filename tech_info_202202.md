@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220203T13:26:05Z | CVE-2021-42013 | Apache HTTP Server 2.4.50 - RCE Lab | https://github.com/jas9reet/CVE-2021-42013-LAB | | 
+| 20220203T13:30:55Z | CVE-2021-42013 | Apache HTTP Server 2.4.50 - RCE Lab | https://github.com/jas9reet/CVE-2021-42013-LAB | | 
 | 20220203T13:13:31Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220203T12:10:27Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 | 20220203T08:43:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -103,14 +103,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220203T13:26:57Z | Match databases based on last names in Spanish and date of birth | https://github.com/rafalab/fuzzypareo | 0 | 0| 
 | 20220203T13:00:16Z | A GitHub Security Lab initiative https://securitylab.github.com/ | https://github.com/antonio-morales/Fuzzing101 | 1004 | 116| 
-| 20220203T12:56:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36710 | 18891| 
+| 20220203T12:56:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36710 | 18893| 
 | 20220203T11:49:32Z | java fuzzing util | https://github.com/yrime/jAsmInst | 0 | 0| 
 | 20220203T09:21:43Z | Khan academy first drawing. Enjoy! 😅 | https://github.com/Beneficialapple4133/fuzzy-succotash | 0 | 0| 
 | 20220203T09:04:38Z | Null | https://github.com/ArthurVar/fuzzy-palm-tree | 0 | 0| 
 | 20220203T07:38:25Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 220 | 40| 
 | 20220203T07:27:02Z | Null | https://github.com/skajmera/fuzzy-search-app | 0 | 0| 
-| 20220203T04:39:34Z | fuzzypareo R package | https://github.com/rafalab/fuzzypareo | 0 | 0| 
 | 20220203T04:16:53Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 70 | 8| 
 | 20220203T01:50:40Z | fuzzy spoon | https://github.com/No88Fan/fuzzy-spoon | 0 | 0| 
 
