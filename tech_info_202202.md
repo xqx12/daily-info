@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220203T13:41:26Z | An implementation of Valve Anti Cheat Exploit, written in C with a built-in injector. | https://github.com/wajnie/vacEXPLOIT | 0 | 0| 
 | 20220203T13:31:23Z | This sample is created to show XPath Injection vulnerability, exploit and patch it. | https://github.com/amir-h-fallahi/xpath-injection | 0 | 0| 
 | 20220203T13:13:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10704 | 1854| 
 | 20220203T10:34:57Z | Null | https://github.com/johnnadamm/exploits | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20220203T04:04:06Z | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | 0 | 0| 
 | 20220203T02:32:07Z | Config files for my GitHub profile. | https://github.com/IloveExploits101/IloveExploits101 | 0 | 0| 
 | 20220203T02:14:56Z | A collection of academic papers on Linux kernel exploitation. | https://github.com/anvbis/linux-kernel-papers | 0 | 0| 
-| 20220203T01:04:35Z | Null | https://github.com/RyanScripz/Basic-Print-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
