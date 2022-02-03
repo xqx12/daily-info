@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220203T13:20:48Z | This sample is created to show XPath injection vulnerability, exploit and patch it. | https://github.com/amir-h-fallahi/xpath-injection | 0 | 0| 
+| 20220203T13:28:11Z | This sample is created to show XPath injection vulnerability, exploit and patch it. | https://github.com/amir-h-fallahi/xpath-injection | 0 | 0| 
 | 20220203T13:13:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10704 | 1854| 
 | 20220203T10:34:57Z | Null | https://github.com/johnnadamm/exploits | 0 | 0| 
 | 20220203T10:29:25Z | Null | https://github.com/Ciphercode80/Google-Chrome-Exploit-Code | 0 | 0| 
