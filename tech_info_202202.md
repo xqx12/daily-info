@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220203T00:46:01Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
+| 20220203T01:35:25Z | CVE-2021-4034 | CVE-2021-4034 1day | https://github.com/berdav/CVE-2021-4034 | | 
 | 20220203T00:15:56Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 | 20220202T22:17:02Z | CVE-2021-3560 | Polkit Exploit (CVE-2021-3560), no download capabilty? Copy and paste it! | https://github.com/n3onhacks/CVE-2021-3560 | | 
 | 20220202T17:35:27Z | CVE-2022-77777 | Test Sample | https://github.com/rezasarvani/CVE-2022-77777 | | 
