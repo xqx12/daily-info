@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220203T02:14:56Z | A collection of academic papers on Linux kernel exploitation. | https://github.com/anvbis/linux-kernel-papers | 0 | 0| 
 | 20220203T01:04:35Z | Null | https://github.com/RyanScripz/Basic-Print-Exploit | 0 | 0| 
 | 20220203T00:50:52Z | Hello this is an exploit I made (MAY HAVE ISSUES AFTER NEW ROBLOX UPDATES) (DOWNLOAD EXLINSPLOIT - GITHUB) | https://github.com/AnonymousMonke12/ExlinSploit | 0 | 0| 
 | 20220203T00:25:59Z | Exploit / Backdoor patcher / preventer for gmod.  | https://github.com/z-Mythic/ExPatch | 1 | 0| 
@@ -58,7 +59,6 @@
 | 20220202T13:25:43Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 20 | 1| 
 | 20220202T12:42:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10698 | 1854| 
 | 20220202T12:36:51Z | Redis未授权批量ssh公钥写入 | https://github.com/Spencer-Clay/RedisMassiveExploit | 1 | 0| 
-| 20220202T11:20:49Z | Some exploits i developed for VulnHub machines and common vulnerabilities. | https://github.com/Xcatolin/Personal-Exploits | 3 | 1| 
 
 
 # backdoor on Github 推荐
@@ -77,7 +77,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220203T01:37:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2684 | 396| 
+| 20220203T02:13:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2685 | 396| 
 | 20220202T14:45:21Z | Null | https://github.com/williamberman/evm-symbolic-execution | 14 | 0| 
 | 20220202T05:48:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 49 | 3| 
 | 20220202T04:19:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1878 | 534| 
