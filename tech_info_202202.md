@@ -97,8 +97,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220203T01:05:27Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36702 | 18890| 
 | 20220203T00:22:51Z | Project for Spanish Class made using Slidev! | https://github.com/dev23jjl/fuzzy-adventure | 0 | 0| 
-| 20220202T23:42:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36701 | 18890| 
 | 20220202T22:18:57Z | Null | https://github.com/Yeashna/fuzzy-octo-memory | 0 | 0| 
 | 20220202T21:12:45Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 | 20220202T16:07:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1174 | 48| 

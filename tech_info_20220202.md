@@ -85,7 +85,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220202T23:42:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36701 | 18890| 
 | 20220202T22:18:57Z | Null | https://github.com/Yeashna/fuzzy-octo-memory | 0 | 0| 
 | 20220202T21:12:45Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 | 20220202T16:07:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1174 | 48| 
@@ -95,6 +94,7 @@
 | 20220202T11:54:44Z | Null | https://github.com/AdaboyOP20/fuzzy-couscous | 0 | 0| 
 | 20220202T10:51:08Z | Cool busines | https://github.com/Babatoyosi/fuzzy-octo-guide | 0 | 0| 
 | 20220202T10:45:48Z | Null | https://github.com/guidovranken/wolf-ssl-ssh-fuzzers | 4 | 2| 
+| 20220202T08:50:03Z | Null | https://github.com/nickyyuda11/spk-koperasi-fuzzy | 0 | 0| 
 
 
 
