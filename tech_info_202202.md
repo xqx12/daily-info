@@ -101,12 +101,12 @@
 | 20220203T01:50:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36703 | 18891| 
 | 20220203T01:34:36Z | Null | https://github.com/mthelm85/fuzzy-linker-svelte | 0 | 0| 
 | 20220203T01:32:23Z | Null | https://github.com/Leonic23/fuzzy-enigma | 0 | 0| 
+| 20220203T00:42:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7060 | 1490| 
 | 20220203T00:22:51Z | Project for Spanish Class made using Slidev! | https://github.com/dev23jjl/fuzzy-adventure | 0 | 0| 
 | 20220202T22:18:57Z | Null | https://github.com/Yeashna/fuzzy-octo-memory | 0 | 0| 
 | 20220202T21:12:45Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 | 20220202T16:07:56Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1174 | 48| 
 | 20220202T15:50:07Z | Null | https://github.com/whaleisland-dc/fuzzy-fortnight | 0 | 0| 
-| 20220202T13:56:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 756 | 74| 
 
 
 
