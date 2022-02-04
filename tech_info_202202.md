@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220204T00:33:54Z | Recently my local machine was subject to the dirty sock privellege escalation exploitation. Here%s an imperfect solution to denying the hackers my dirty socks by turning off all listening service ports. | https://github.com/hyperobjects/dirty-socks-deny | 0 | 0| 
+| 20220204T01:20:52Z | Recently my local machine was subject to the dirty sock privellege escalation exploitation. Here%s an imperfect solution to denying the hackers my dirty socks by turning off all listening service ports. | https://github.com/hyperobjects/dirty-socks-deny | 0 | 0| 
 | 20220203T22:11:56Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 38 | 32| 
 | 20220203T20:56:49Z | Null | https://github.com/swarogisreal/Simple-Exploit-Steal-Cookie | 0 | 0| 
 | 20220203T20:51:06Z | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | 1 | 0| 
