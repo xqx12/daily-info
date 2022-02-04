@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220203T22:11:56Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 38 | 32| 
+| 20220203T20:56:49Z | Null | https://github.com/swarogisreal/Simple-Exploit-Steal-Cookie | 0 | 0| 
+| 20220203T20:51:06Z | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | 1 | 0| 
+| 20220203T20:18:55Z | Null | https://github.com/Ciphercode80/App-Cloner-Exploit | 0 | 0| 
+| 20220203T20:18:11Z | Unofficial documentation for the Roblox exploit Comet | https://github.com/0x580x540x43/CometDocs | 0 | 0| 
+| 20220203T18:44:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10706 | 1854| 
+| 20220203T17:38:06Z | simple.lua is a project I have made for exploiters that are not good at scripting. | https://github.com/goldmoments/simple.lua | 0 | 0| 
 | 20220203T13:41:26Z | An implementation of Valve Anti Cheat Exploit, written in C with a built-in injector. | https://github.com/wajnie/vacEXPLOIT | 0 | 0| 
 | 20220203T13:31:23Z | This sample is created to show XPath Injection vulnerability, exploit and patch it. | https://github.com/amir-h-fallahi/xpath-injection | 0 | 0| 
-| 20220203T13:13:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10704 | 1854| 
 | 20220203T10:34:57Z | Null | https://github.com/johnnadamm/exploits | 0 | 0| 
-| 20220203T10:29:25Z | Null | https://github.com/Ciphercode80/Google-Chrome-Exploit-Code | 0 | 0| 
-| 20220203T10:11:30Z | Null | https://github.com/Ciphercode80/Exploit-code-Google-DUO | 0 | 0| 
-| 20220203T08:10:32Z | A prototype of an SSA-based quantum IR exploiting value semantics | https://github.com/opencompl/QMLIR | 1 | 1| 
-| 20220203T04:04:06Z | This includes the methods of recon and exploit for Bug Bounty. | https://github.com/glyptho/myreconmethods | 0 | 0| 
-| 20220203T02:32:07Z | Config files for my GitHub profile. | https://github.com/IloveExploits101/IloveExploits101 | 0 | 0| 
-| 20220203T02:14:56Z | A collection of academic papers on Linux kernel exploitation. | https://github.com/anvbis/linux-kernel-papers | 0 | 0| 
 
 
 # backdoor on Github 推荐
