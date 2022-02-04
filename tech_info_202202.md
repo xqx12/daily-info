@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220204T12:49:24Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
+| 20220204T13:01:39Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220204T11:58:21Z | cve-2020-7934 | Null | https://github.com/Sergio235705/audit-xss-cve-2020-7934 | | 
 | 20220203T21:27:01Z | CVE-2021-45901 | Null | https://github.com/9lyph/CVE-2021-45901 | | 
 | 20220203T20:45:39Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
@@ -56,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220204T12:48:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10708 | 1854| 
+| 20220204T09:53:49Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 652 | 146| 
 | 20220204T01:20:52Z | Recently my local machine was subject to the dirty sock privellege escalation exploitation. Here%s an imperfect solution to denying the hackers my dirty socks by turning off all listening service ports. | https://github.com/hyperobjects/dirty-socks-deny | 0 | 0| 
+| 20220204T00:48:11Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 18 | 7| 
 | 20220203T22:11:56Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 38 | 32| 
 | 20220203T20:56:49Z | Null | https://github.com/swarogisreal/Simple-Exploit-Steal-Cookie | 0 | 0| 
 | 20220203T20:51:06Z | A simple Android app to help focusing exploiting the flowmodoro technique | https://github.com/pviscone/flowmodoro | 1 | 0| 
 | 20220203T20:18:55Z | Null | https://github.com/Ciphercode80/App-Cloner-Exploit | 0 | 0| 
 | 20220203T20:18:11Z | Unofficial documentation for the Roblox exploit Comet | https://github.com/0x580x540x43/CometDocs | 0 | 0| 
-| 20220203T18:44:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10706 | 1854| 
 | 20220203T17:38:06Z | simple.lua is a project I have made for exploiters that are not good at scripting. | https://github.com/goldmoments/simple.lua | 0 | 0| 
-| 20220203T13:41:26Z | An implementation of Valve Anti Cheat Exploit, written in C with a built-in injector. | https://github.com/wajnie/vacEXPLOIT | 0 | 0| 
-| 20220203T13:31:23Z | This sample is created to show XPath Injection vulnerability, exploit and patch it. | https://github.com/amir-h-fallahi/xpath-injection | 0 | 0| 
 
 
 # backdoor on Github 推荐

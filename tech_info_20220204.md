@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220204T12:49:24Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
+| 20220204T13:01:39Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220204T11:58:21Z | cve-2020-7934 | Null | https://github.com/Sergio235705/audit-xss-cve-2020-7934 | | 
 
 
@@ -35,7 +35,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220204T12:48:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10708 | 1854| 
+| 20220204T09:53:49Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 652 | 146| 
 | 20220204T01:20:52Z | Recently my local machine was subject to the dirty sock privellege escalation exploitation. Here%s an imperfect solution to denying the hackers my dirty socks by turning off all listening service ports. | https://github.com/hyperobjects/dirty-socks-deny | 0 | 0| 
+| 20220204T00:48:11Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 18 | 7| 
 
 
 # backdoor on Github 推荐
