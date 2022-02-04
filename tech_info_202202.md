@@ -19,7 +19,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220204T02:58:18Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
+| 20220204T12:49:24Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
+| 20220204T11:58:21Z | cve-2020-7934 | Null | https://github.com/Sergio235705/audit-xss-cve-2020-7934 | | 
 | 20220203T21:27:01Z | CVE-2021-45901 | Null | https://github.com/9lyph/CVE-2021-45901 | | 
 | 20220203T20:45:39Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
 | 20220203T19:03:41Z | CVE-2021-4034 | a python script that downloads neofetch and traitor and attempts to exploit CVE-2021-4034 | https://github.com/Ph4nt0mh4x0r/auto-CVE-2021-4034 | | 
@@ -28,16 +29,15 @@
 | 20220203T12:10:27Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 | 20220203T08:43:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220203T07:18:07Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2022_21882 | | 
-| 20220203T07:13:32Z | CVE-2021-3560 | Polkit Exploit (CVE-2021-3560), no download capabilty? Copy and paste it! | https://github.com/n3onhacks/CVE-2021-3560 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220204T02:40:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4940 | 180| 
+| 20220204T08:37:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4942 | 180| 
 | 20220203T22:04:43Z | Null | https://github.com/Tobias050205/Quiz-Kleemannschule | 0 | 0| 
 | 20220203T14:08:36Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 0 | 0| 
-| 20220203T13:23:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1880 | 534| 
+| 20220203T13:23:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1880 | 535| 
 | 20220203T11:45:48Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 272 | 17| 
 | 20220202T08:00:10Z | Assets to be used for linking, wget-uploads and Gists. | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
 | 20220202T00:34:12Z | Null | https://github.com/Klee55/Klee55.github.io | 0 | 0| 
@@ -46,6 +46,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220204T11:24:27Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 7 | 0| 
 | 20220203T13:13:02Z | In this Episode we will be installing Asterisk and The Browser Phone onto a Virtual Private Cloud. We are going to be using Amazon Web Services and Google Cloud, and we will be installing Ubuntu 18 LTS and CentOS 8. | https://github.com/InnovateAsterisk/S2E2 | 0 | 1| 
 | 20220203T08:48:56Z | Season 2, Episode 1 - In this episode we look at how to correctly host your HTML files, and reverse proxy the ws/ (Websocket) connections back to the Asterisk Service. It%s all done on a single local instance so we are using a self signed certificate. | https://github.com/InnovateAsterisk/S2E1 | 0 | 1| 
 | 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 43| 
@@ -70,6 +71,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220204T04:36:08Z | Null | https://github.com/Madff386/backdoor | 0 | 0| 
+| 20220204T03:02:15Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 226 | 61| 
 | 20220204T02:44:06Z | Reverse SSH tunnel for Docker | https://github.com/javanile-backup/backdoor | 3 | 1| 
 | 20220203T21:11:58Z | Null | https://github.com/sSpicey/spice-backdoor | 0 | 0| 
 | 20220203T20:08:18Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 3 | 1| 
@@ -78,8 +81,6 @@
 | 20220203T08:24:26Z | Official repository of the paper %Backdoor Attacks-Resilient Aggregation based on Robust Filtering of Outliers in Federated Learning for image classification%. | https://github.com/ari-dasci/S-RFOut | 0 | 0| 
 | 20220203T08:23:12Z | Null | https://github.com/Alvaroskill/Backdoors-Crud | 0 | 0| 
 | 20220203T00:25:59Z | Exploit / Backdoor patcher / preventer for gmod.  | https://github.com/z-Mythic/ExPatch | 1 | 0| 
-| 20220202T15:47:50Z | evasion webshell in php in differenr extensions | https://github.com/FabioDefilippo/webshell.php | 2 | 0| 
-| 20220202T09:23:11Z | This is the source code for Data-free Backdoor. | https://github.com/yangyunfei16/Data-free-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -108,16 +109,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220204T11:57:28Z | Fuzzers implemented with libafl to evaluate several techniques on fuzzbench | https://github.com/AFLplusplus/libafl_fuzzbench | 0 | 0| 
+| 20220204T11:04:45Z | Null | https://github.com/pmj4321/fuzzy-rotary-phone | 0 | 0| 
+| 20220204T10:57:17Z | Null | https://github.com/NiZina/fuzzbuzz | 0 | 0| 
+| 20220204T09:37:07Z | Null | https://github.com/CerviCz/fuzzy-potato | 0 | 0| 
+| 20220204T08:58:17Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1179 | 49| 
+| 20220204T06:26:45Z | A repository for the Language-Brainscore project, soon approaching MWE :) | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 | 20220204T02:02:56Z | Site fast fuzzing with chorme extension.  | https://github.com/tismayil/fastfuz-chrome-ext | 0 | 0| 
 | 20220204T01:31:00Z | Null | https://github.com/santiagocollomb/fuzzyfy | 0 | 0| 
 | 20220204T01:18:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7064 | 1492| 
 | 20220204T00:40:15Z | Messing with github pages | https://github.com/Fuzzwah/fuzzwah.github.com | 0 | 0| 
-| 20220204T00:26:55Z | Site fast fuzzing with chorme extension.  | https://github.com/tismayil/fastfuz-chorme-ext | 0 | 0| 
-| 20220204T00:18:31Z | Config files for my GitHub profile. | https://github.com/FuzzBeary/FuzzBeary | 0 | 0| 
-| 20220204T00:11:14Z | Null | https://github.com/xanwal/FuzzyMatch | 0 | 0| 
-| 20220203T23:38:19Z | Repository with fuzzing scripts for different applications.  | https://github.com/ArchCWithClasses/Fuzzing | 0 | 0| 
-| 20220203T22:28:53Z | Null | https://github.com/mpeseke/fuzzy-octo-enigma | 0 | 0| 
-| 20220203T22:24:18Z | A repository for the Language-Brainscore project, soon approaching MWE :) | https://github.com/language-brainscore/lang-brainscore-fuzzy-potato | 0 | 0| 
 
 
 
