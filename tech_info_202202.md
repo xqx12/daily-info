@@ -85,6 +85,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220204T02:16:15Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 105 | 8| 
 | 20220203T22:49:22Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 26 | 13| 
 | 20220203T20:11:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2691 | 396| 
 | 20220203T14:17:49Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
