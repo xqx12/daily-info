@@ -70,6 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220204T02:44:06Z | Reverse SSH tunnel for Docker | https://github.com/javanile-backup/backdoor | 3 | 1| 
 | 20220203T21:11:58Z | Null | https://github.com/sSpicey/spice-backdoor | 0 | 0| 
 | 20220203T20:08:18Z | A module-based repository for testing and evaluating backdoor attacks and defenses. | https://github.com/SewoongLab/backdoor-suite | 3 | 1| 
 | 20220203T15:20:39Z | Null | https://github.com/wrongsid3/Cpp-Reverse-Shell-Backdoor | 3 | 0| 
@@ -79,7 +80,6 @@
 | 20220203T00:25:59Z | Exploit / Backdoor patcher / preventer for gmod.  | https://github.com/z-Mythic/ExPatch | 1 | 0| 
 | 20220202T15:47:50Z | evasion webshell in php in differenr extensions | https://github.com/FabioDefilippo/webshell.php | 2 | 0| 
 | 20220202T09:23:11Z | This is the source code for Data-free Backdoor. | https://github.com/yangyunfei16/Data-free-Backdoor | 0 | 0| 
-| 20220202T08:47:50Z | An executable Backdoor with PowerShell and Ncat. | https://github.com/CorlieHips/NUKE | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
