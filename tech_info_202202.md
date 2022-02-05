@@ -60,8 +60,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220205T13:44:26Z | Some Linux kernel exploit documentation/Linux内核利用资料精选 | https://github.com/0x0021h/pwnlinux | 43 | 8| 
 | 20220205T12:42:31Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 49 | 5| 
-| 20220205T12:37:58Z | Some Linux kernel exploit documentation/Linux内核利用资料精选 | https://github.com/0x0021h/pwnlinux | 42 | 8| 
 | 20220205T11:48:18Z | Working Python exploit code for the new found log4j2 RCE vulnerability | https://github.com/ishan-saha/Log4j-RCE | 0 | 0| 
 | 20220205T07:57:50Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 22 | 1| 
 | 20220205T04:53:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10713 | 1853| 
