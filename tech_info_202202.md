@@ -58,10 +58,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220205T02:05:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10712 | 1853| 
 | 20220205T01:41:46Z | linWinPwn is a bash script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 28 | 3| 
 | 20220205T01:41:06Z | Roblox Exploit Script Whitelist Loadstring | https://github.com/OwO-Wolfyy-UwU/owo | 0 | 0| 
 | 20220205T00:18:42Z | C# tool to identify and exploit weaknesses within MSSQL instances in Active Directory environments | https://github.com/lefayjey/SharpSQLPwn | 1 | 1| 
-| 20220204T23:54:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10711 | 1853| 
 | 20220204T22:10:04Z | writeups of challenges in Exploit Education  | https://github.com/talsim/Exploit-Education | 0 | 0| 
 | 20220204T20:40:41Z | A fun project that was made for a learning experience. | https://github.com/NovalineDev/Novaline-Print-Exploit | 0 | 0| 
 | 20220204T20:16:15Z | Config files for my GitHub profile. | https://github.com/exploiter12/exploiter12 | 0 | 0| 
