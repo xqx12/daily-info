@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220205T01:41:06Z | Roblox Exploit Script Whitelist Loadstring | https://github.com/OwO-Wolfyy-UwU/owo | 0 | 0| 
 | 20220205T00:44:48Z | linWinPwn is a bash script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 27 | 3| 
 | 20220205T00:18:42Z | C# tool to identify and exploit weaknesses within MSSQL instances in Active Directory environments | https://github.com/lefayjey/SharpSQLPwn | 1 | 1| 
 | 20220204T23:54:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10711 | 1853| 
@@ -67,7 +68,6 @@
 | 20220204T15:10:59Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 21 | 1| 
 | 20220204T09:53:49Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 652 | 146| 
 | 20220204T01:20:52Z | Recently my local machine was subject to the dirty sock privellege escalation exploitation. Here%s an imperfect solution to denying the hackers my dirty socks by turning off all listening service ports. | https://github.com/hyperobjects/dirty-socks-deny | 0 | 0| 
-| 20220204T00:48:11Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 18 | 7| 
 
 
 # backdoor on Github 推荐
