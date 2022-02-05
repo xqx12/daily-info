@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220205T01:06:57Z | A fuzzy thumbnail downloader for retroarch, for when the playlist entries don%t match the server names | https://github.com/i30817/libretro-fuzzythumbnails | 0 | 0| 
 | 20220205T00:53:53Z | Null | https://github.com/amp-fuzz/AmpFuzz | 0 | 0| 
 | 20220205T00:14:41Z | emoji combos | https://github.com/transtrender/fuzzy-octo-journey | 0 | 0| 
 | 20220204T23:53:02Z | A simple process monitor alert | https://github.com/PinkHairElizabeth/fuzzy-memory | 1 | 0| 
@@ -120,7 +121,6 @@
 | 20220204T21:47:13Z | Link extractor and wordlist generator for fuzzing, written in go | https://github.com/N25sec/fuzzylinks | 0 | 0| 
 | 20220204T19:45:05Z | Null | https://github.com/TeodorKanev/FuzzySets | 0 | 0| 
 | 20220204T19:03:36Z | OpenRedirect Fuzzer allows you to fuzz an HTTP parameter and detect open redirect vulnerabilities. | https://github.com/xanhacks/openredirect-fuzzer | 0 | 0| 
-| 20220204T13:23:56Z | Null | https://github.com/openiked/openiked-fuzzing | 0 | 0| 
 
 
 
