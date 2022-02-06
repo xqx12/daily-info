@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T01:26:20Z | Image processing algorithms in general are good candidates for exploiting GPU capabilities. The parallelism is naturally provided by per-pixel operations. Application includes MRI processing of human head scans is one such area to effectively utilize the GPU resources. The CAD (Computer Aided Diagnostic) system used for analyzing large medical image datasets are usually a pipeline processing that includes a variety of image processing operations. Pre and post processing of images consumes huge amount of time and the methods used includes Noise filters, segmentation, image diffusion and enhancement. To reduce the amount of time, CUDA programming on GPU machine is used.The Objective of this project is to design and evaluate the performance of medical image processing algorithms implemented in CUDA running on GPU based machine. To achieve a speed up of 3-300 times compared to conventional central processing unit (CPU) processor in Per Pixel Threading model and up to 30 times in Per Slice Threading model. | https://github.com/Rehshma/Image-processing-algorithms-on-GPU-machines | 0 | 0| 
 | 20220206T01:21:17Z | Null | https://github.com/UnfairRoblox91/PlutoExploit.github.io | 0 | 0| 
 | 20220205T23:57:19Z | roblox exploit with every hack | https://github.com/totallynotacoolguy/roblox-exploit | 0 | 0| 
 | 20220205T23:53:23Z | Null | https://github.com/RyanScripz/Basic-Print-Exploit | 1 | 0| 
@@ -69,7 +70,6 @@
 | 20220205T22:21:52Z | Null | https://github.com/ExploitHax/ExploitHax | 0 | 1| 
 | 20220205T22:11:46Z | linWinPwn is a bash script that automates a number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 29 | 5| 
 | 20220205T16:18:56Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 19 | 7| 
-| 20220205T13:44:26Z | Some Linux kernel exploit documentation/Linux内核利用资料精选 | https://github.com/0x0021h/pwnlinux | 43 | 8| 
 
 
 # backdoor on Github 推荐
