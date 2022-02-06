@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T01:44:36Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1565 | 529| 
 | 20220206T01:30:57Z | Roblox Exploit Injector Created by ION Services and 7Meli 𖤐 . Enjoy the Injector | https://github.com/IONHeart93/ION-Meli-Script-Injector | 0 | 0| 
 | 20220206T01:26:20Z | Image processing algorithms in general are good candidates for exploiting GPU capabilities. The parallelism is naturally provided by per-pixel operations. Application includes MRI processing of human head scans is one such area to effectively utilize the GPU resources. The CAD (Computer Aided Diagnostic) system used for analyzing large medical image datasets are usually a pipeline processing that includes a variety of image processing operations. Pre and post processing of images consumes huge amount of time and the methods used includes Noise filters, segmentation, image diffusion and enhancement. To reduce the amount of time, CUDA programming on GPU machine is used.The Objective of this project is to design and evaluate the performance of medical image processing algorithms implemented in CUDA running on GPU based machine. To achieve a speed up of 3-300 times compared to conventional central processing unit (CPU) processor in Per Pixel Threading model and up to 30 times in Per Slice Threading model. | https://github.com/Rehshma/Image-processing-algorithms-on-GPU-machines | 0 | 0| 
 | 20220206T01:21:17Z | Null | https://github.com/UnfairRoblox91/PlutoExploit.github.io | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20220205T23:24:57Z | An exploit and demonstration on how to exploit a Stored XSS vulnerability in https://anonstress.com. | https://github.com/7ub/AnonStress-Stored-XSS-Exploit | 2 | 0| 
 | 20220205T22:24:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10714 | 1853| 
 | 20220205T22:21:52Z | Null | https://github.com/ExploitHax/ExploitHax | 0 | 1| 
-| 20220205T22:11:46Z | linWinPwn is a bash script that automates a number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 29 | 5| 
 
 
 # backdoor on Github 推荐
