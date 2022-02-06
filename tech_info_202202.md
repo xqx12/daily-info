@@ -75,6 +75,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T02:39:36Z | BlueFish is a complete covert application that allows a user to remotely open a port on a firewall, communicate with a “disguised” backdoor. | https://github.com/MeCRO-DEV/BlueFish | 0 | 0| 
 | 20220205T23:47:58Z | modulAr tooL for fInding bAckdoors for Sat (ALIAS) | https://github.com/Nauchnik/alias | 1 | 1| 
 | 20220205T18:17:41Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 23 | 2| 
 | 20220205T14:04:10Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 227 | 61| 
@@ -84,7 +85,6 @@
 | 20220205T06:26:33Z | Keylogger malware for penetration testing in Windows platforms | https://github.com/araujo88/keylogger | 0 | 0| 
 | 20220205T05:42:31Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 318 | 64| 
 | 20220204T13:37:15Z | Null | https://github.com/luisoos/Img-Backdoor | 0 | 0| 
-| 20220204T04:36:08Z | Null | https://github.com/Madff386/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
