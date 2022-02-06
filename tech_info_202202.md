@@ -90,7 +90,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220205T13:32:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2697 | 396| 
+| 20220206T11:40:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2698 | 396| 
+| 20220206T10:54:28Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
 | 20220204T02:16:15Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 105 | 8| 
 | 20220203T22:49:22Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 26 | 13| 
@@ -98,8 +99,7 @@
 | 20220203T12:27:07Z | Null | https://github.com/williamberman/evm-symbolic-execution | 15 | 0| 
 | 20220202T05:48:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 49 | 3| 
 | 20220201T23:05:14Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 117 | 11| 
-| 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 43| 
-| 20220201T06:07:44Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
+| 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 44| 
 
 
 # big4 on Github 推荐

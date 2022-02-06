@@ -57,6 +57,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T11:40:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2698 | 396| 
+| 20220206T10:54:28Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 
 
 # big4 on Github 推荐
