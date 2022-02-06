@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T13:04:10Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 722 | 41| 
 | 20220206T10:11:32Z | Grudge tracker app - React Native | https://github.com/chombazm/fuzzy-octo-parakeet | 0 | 0| 
 | 20220206T07:46:54Z | Different approaches to fuzz numeric passcodes with Golang. | https://github.com/snix0/Passcode-Fuzzer | 0 | 0| 
 | 20220206T07:24:19Z | American Fuzzy Logic | https://github.com/AishwaryaJadhav9850/American-Fuzzy-Logic | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20220206T00:20:45Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 806 | 58| 
 | 20220205T23:56:17Z | Fuzzy String Matching Project made at TPC. | https://github.com/rfolmedoa/fuzzy-string-matching | 0 | 0| 
 | 20220205T23:53:32Z | dunno just trying out lol | https://github.com/dyssomnia/fuzzy-system | 0 | 0| 
-| 20220205T23:51:45Z | LiteX-based PCIe MITM, sniffing, fuzzing, device emulation | https://github.com/jevinskie/pcie-mitm | 3 | 0| 
 
 
 
