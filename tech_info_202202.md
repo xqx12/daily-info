@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220206T13:39:57Z | CVE-2022-24348 | Find similar issues like CVE-2022-24348 | https://github.com/jkroepke/CVE-2022-24348-2 | | 
 | 20220206T12:40:17Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220205T22:18:14Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20220205T16:32:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -30,7 +31,6 @@
 | 20220203T21:27:01Z | CVE-2021-45901 | Null | https://github.com/9lyph/CVE-2021-45901 | | 
 | 20220203T19:03:41Z | CVE-2021-4034 | a python script that downloads neofetch and traitor and attempts to exploit CVE-2021-4034 | https://github.com/Ph4nt0mh4x0r/auto-CVE-2021-4034 | | 
 | 20220203T13:32:45Z | CVE-2021-42013 | Apache HTTP Server 2.4.50 - RCE Lab | https://github.com/jas9reet/CVE-2021-42013-LAB | | 
-| 20220203T12:10:27Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 
 
 # klee on Github 推荐

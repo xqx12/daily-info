@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220206T13:39:57Z | CVE-2022-24348 | Find similar issues like CVE-2022-24348 | https://github.com/jkroepke/CVE-2022-24348-2 | | 
 | 20220206T12:40:17Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 
 
