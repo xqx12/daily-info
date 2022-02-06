@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T01:21:17Z | Null | https://github.com/UnfairRoblox91/PlutoExploit.github.io | 0 | 0| 
 | 20220205T23:57:19Z | roblox exploit with every hack | https://github.com/totallynotacoolguy/roblox-exploit | 0 | 0| 
 | 20220205T23:53:23Z | Null | https://github.com/RyanScripz/Basic-Print-Exploit | 1 | 0| 
 | 20220205T23:29:52Z | Null | https://github.com/SamirJ1134/ExploitingAD | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20220205T22:11:46Z | linWinPwn is a bash script that automates a number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 29 | 5| 
 | 20220205T16:18:56Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 19 | 7| 
 | 20220205T13:44:26Z | Some Linux kernel exploit documentation/Linux内核利用资料精选 | https://github.com/0x0021h/pwnlinux | 43 | 8| 
-| 20220205T12:42:31Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 49 | 5| 
 
 
 # backdoor on Github 推荐
