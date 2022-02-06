@@ -51,6 +51,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T13:33:32Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 24 | 2| 
 | 20220206T02:39:36Z | BlueFish is a complete covert application that allows a user to remotely open a port on a firewall, communicate with a “disguised” backdoor. | https://github.com/MeCRO-DEV/BlueFish | 0 | 0| 
 
 
