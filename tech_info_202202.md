@@ -21,14 +21,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220205T10:03:09Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
+| 20220206T00:23:45Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
+| 20220205T22:18:14Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
+| 20220205T16:32:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220204T22:48:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
 | 20220204T19:20:34Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec in Python | https://github.com/ravindubw/CVE-2021-4034 | | 
-| 20220204T15:30:05Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220204T11:58:21Z | cve-2020-7934 | Null | https://github.com/Sergio235705/audit-xss-cve-2020-7934 | | 
 | 20220203T21:27:01Z | CVE-2021-45901 | Null | https://github.com/9lyph/CVE-2021-45901 | | 
 | 20220203T19:03:41Z | CVE-2021-4034 | a python script that downloads neofetch and traitor and attempts to exploit CVE-2021-4034 | https://github.com/Ph4nt0mh4x0r/auto-CVE-2021-4034 | | 
-| 20220203T14:15:46Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20220203T13:32:45Z | CVE-2021-42013 | Apache HTTP Server 2.4.50 - RCE Lab | https://github.com/jas9reet/CVE-2021-42013-LAB | | 
 | 20220203T12:10:27Z | CVE-2021-45897 | PoC for CVE-2021-45897 | https://github.com/manuelz120/CVE-2021-45897 | | 
 
@@ -36,11 +36,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220205T11:21:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4955 | 180| 
+| 20220205T15:34:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4956 | 180| 
+| 20220205T15:33:08Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 274 | 17| 
 | 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
 | 20220204T23:09:05Z | Config files for my GitHub profile. | https://github.com/KleemoffDeveloper/KleemoffDeveloper | 0 | 0| 
 | 20220204T15:14:45Z | Config files for my GitHub profile. | https://github.com/kleem-bus/kleem-bus | 0 | 0| 
-| 20220204T14:54:41Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 273 | 17| 
 | 20220203T22:04:43Z | Null | https://github.com/Tobias050205/Quiz-Kleemannschule | 0 | 0| 
 | 20220203T14:08:36Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 0 | 0| 
 | 20220202T08:00:10Z | Assets to be used for linking, wget-uploads and Gists. | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
@@ -60,31 +60,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220205T23:57:19Z | roblox exploit with every hack | https://github.com/totallynotacoolguy/roblox-exploit | 0 | 0| 
+| 20220205T23:53:23Z | Null | https://github.com/RyanScripz/Basic-Print-Exploit | 1 | 0| 
+| 20220205T23:29:52Z | Null | https://github.com/SamirJ1134/ExploitingAD | 0 | 0| 
+| 20220205T23:24:57Z | An exploit and demonstration on how to exploit a Stored XSS vulnerability in https://anonstress.com. | https://github.com/7ub/AnonStress-Stored-XSS-Exploit | 2 | 0| 
+| 20220205T22:24:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10714 | 1853| 
+| 20220205T22:21:52Z | Null | https://github.com/ExploitHax/ExploitHax | 0 | 1| 
+| 20220205T22:11:46Z | linWinPwn is a bash script that automates a number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 29 | 5| 
+| 20220205T16:18:56Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 19 | 7| 
 | 20220205T13:44:26Z | Some Linux kernel exploit documentation/Linux内核利用资料精选 | https://github.com/0x0021h/pwnlinux | 43 | 8| 
 | 20220205T12:42:31Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 49 | 5| 
-| 20220205T11:48:18Z | Working Python exploit code for the new found log4j2 RCE vulnerability | https://github.com/ishan-saha/Log4j-RCE | 0 | 0| 
-| 20220205T07:57:50Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 22 | 1| 
-| 20220205T04:53:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10713 | 1853| 
-| 20220205T04:05:58Z | C# tool to identify and exploit weaknesses within MSSQL instances in Active Directory environments | https://github.com/lefayjey/SharpSQLPwn | 2 | 1| 
-| 20220205T01:41:46Z | linWinPwn is a bash script that automates a large number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 28 | 5| 
-| 20220205T01:41:06Z | Roblox Exploit Script Whitelist Loadstring | https://github.com/OwO-Wolfyy-UwU/owo | 0 | 0| 
-| 20220204T22:10:04Z | writeups of challenges in Exploit Education  | https://github.com/talsim/Exploit-Education | 0 | 0| 
-| 20220204T20:40:41Z | A fun project that was made for a learning experience. | https://github.com/NovalineDev/Novaline-Print-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220205T23:47:58Z | modulAr tooL for fInding bAckdoors for Sat (ALIAS) | https://github.com/Nauchnik/alias | 1 | 1| 
+| 20220205T18:17:41Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 23 | 2| 
+| 20220205T14:04:10Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 227 | 61| 
 | 20220205T12:40:43Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 3 | 2| 
 | 20220205T09:51:32Z | Null | https://github.com/SadboyDarknet/shell-backdoor | 0 | 0| 
 | 20220205T07:03:09Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 53 | 6| 
 | 20220205T06:26:33Z | Keylogger malware for penetration testing in Windows platforms | https://github.com/araujo88/keylogger | 0 | 0| 
 | 20220205T05:42:31Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 318 | 64| 
-| 20220204T20:39:47Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 22 | 2| 
 | 20220204T13:37:15Z | Null | https://github.com/luisoos/Img-Backdoor | 0 | 0| 
 | 20220204T04:36:08Z | Null | https://github.com/Madff386/backdoor | 0 | 0| 
-| 20220204T03:02:15Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 226 | 61| 
-| 20220204T02:44:06Z | Reverse SSH tunnel for Docker | https://github.com/javanile-backup/backdoor | 3 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220205T13:09:24Z | Null | https://github.com/ReAbout/ShadowFuzzer | 0 | 0| 
-| 20220205T13:02:43Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 385 | 56| 
-| 20220205T12:07:20Z | Containing Some wordlists for FUZZING.... | https://github.com/BDhackers009/wordlists | 0 | 0| 
-| 20220205T11:54:33Z | Fuzzy Logic Implementation | https://github.com/Nico-Duduf/DuFuzzyLogic | 3 | 1| 
-| 20220205T11:41:16Z | Null | https://github.com/mikecodejs/fuzzy-dollop | 0 | 0| 
-| 20220205T10:10:51Z | Experimenting with golang 1.18 workspaces, fuzzing and generics  | https://github.com/xmlking/go-workspace | 1 | 0| 
-| 20220205T09:22:46Z | Null | https://github.com/Rafaelacamecran/fuzzy-sniffle | 0 | 0| 
-| 20220205T07:13:59Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2444 | 480| 
-| 20220205T02:51:17Z | 模糊测试学习笔记 | https://github.com/Czw007/fuzz | 0 | 0| 
-| 20220205T01:06:57Z | A fuzzy thumbnail downloader for retroarch, for when the playlist entries don%t match the server names | https://github.com/i30817/libretro-fuzzythumbnails | 0 | 0| 
+| 20220206T00:40:10Z | Null | https://github.com/shanemcmahon/fuzzy-telegram-JS | 0 | 0| 
+| 20220206T00:20:45Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 806 | 58| 
+| 20220205T23:56:17Z | Fuzzy String Matching Project made at TPC. | https://github.com/rfolmedoa/fuzzy-string-matching | 0 | 0| 
+| 20220205T23:53:32Z | dunno just trying out lol | https://github.com/dyssomnia/fuzzy-system | 0 | 0| 
+| 20220205T23:51:45Z | LiteX-based PCIe MITM, sniffing, fuzzing, device emulation | https://github.com/jevinskie/pcie-mitm | 3 | 0| 
+| 20220205T22:52:52Z | Target components for kAFL/Nyx Fuzzer | https://github.com/IntelLabs/kafl.targets | 0 | 0| 
+| 20220205T21:19:41Z | Native C++ implementation of the fuzzy C-means clustering algorithm | https://github.com/deanone/FuzzyCMeans | 1 | 0| 
+| 20220205T21:03:15Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1182 | 49| 
+| 20220205T20:32:52Z | yoyo fun | https://github.com/penguinuwu/fuzzy-invention | 0 | 0| 
+| 20220205T18:37:45Z | Frontend for Contact API  | https://github.com/Cropcyc/fuzzy-fortnight | 0 | 0| 
 
 
 
