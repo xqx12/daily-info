@@ -68,8 +68,8 @@
 | 20220206T08:39:02Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 20 | 7| 
 | 20220206T08:34:19Z | This can simulate hacking. | https://github.com/karutabyss/exploit-simulator | 0 | 0| 
 | 20220206T06:31:56Z | This application has three main components:  Registration Authentication File Manager Once a user registers via an online sign up page, they are directed to a login page where they can login into the application%s file management system. The system allows users to create, read, edit, and delete files on the server. Then a file is created, the owner sets the read and write privilege%s given to other users. The privileges are based on a whitelist, so only the users listed have access to the privilege. While the authentication, file ACLs, and rigorous system logs provide some security to the application, the security can still be improved. One potential exploit is an attacker using the %list files% option on the server to ascertain the name of the password list file. Then, they could create a fake ACL list for the password file and gain access to it. The purpose of this project was to learn how backend code interacts with front-end code on a server, and to gain an appreciation for the challenges regarding authentication and ACL security implementations | https://github.com/samE01/NodeMCU-ESP8266MOD-Authentication-File-Manager-Web-Application | 0 | 0| 
+| 20220206T03:32:16Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 127 | 42| 
 | 20220206T02:56:00Z | %Ike: A binary exploitation and reversing handbook.  | https://github.com/mahaloz/ike | 15 | 0| 
-| 20220206T02:42:32Z | Rblx exploit powered by Wearedev api | https://github.com/Thun2552/Xmi-Project | 0 | 0| 
 
 
 # backdoor on Github 推荐
