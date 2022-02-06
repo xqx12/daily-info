@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220206T00:23:45Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
+| 20220206T12:40:17Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220205T22:18:14Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20220205T16:32:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220204T22:48:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
@@ -36,13 +36,13 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220206T02:29:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4957 | 180| 
-| 20220205T15:33:08Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 274 | 18| 
+| 20220206T12:49:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4967 | 181| 
+| 20220206T12:23:38Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 276 | 17| 
+| 20220206T07:58:40Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 1 | 0| 
 | 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
 | 20220204T23:09:05Z | Config files for my GitHub profile. | https://github.com/KleemoffDeveloper/KleemoffDeveloper | 0 | 0| 
 | 20220204T15:14:45Z | Config files for my GitHub profile. | https://github.com/kleem-bus/kleem-bus | 0 | 0| 
 | 20220203T22:04:43Z | Null | https://github.com/Tobias050205/Quiz-Kleemannschule | 0 | 0| 
-| 20220203T14:08:36Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 0 | 0| 
 | 20220202T08:00:10Z | Assets to be used for linking, wget-uploads and Gists. | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
 | 20220202T00:34:12Z | Null | https://github.com/Klee55/Klee55.github.io | 0 | 0| 
 
@@ -50,26 +50,26 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T10:54:28Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220204T11:24:27Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 7 | 0| 
 | 20220203T13:13:02Z | In this Episode we will be installing Asterisk and The Browser Phone onto a Virtual Private Cloud. We are going to be using Amazon Web Services and Google Cloud, and we will be installing Ubuntu 18 LTS and CentOS 8. | https://github.com/InnovateAsterisk/S2E2 | 0 | 1| 
 | 20220203T08:48:56Z | Season 2, Episode 1 - In this episode we look at how to correctly host your HTML files, and reverse proxy the ws/ (Websocket) connections back to the Asterisk Service. It%s all done on a single local instance so we are using a self signed certificate. | https://github.com/InnovateAsterisk/S2E1 | 0 | 1| 
-| 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 43| 
-| 20220201T06:07:44Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 31 | 3| 
+| 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 44| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T11:49:34Z | Null | https://github.com/artem14133q/ssh_exploit | 0 | 0| 
+| 20220206T11:45:58Z | An introduction to Cross-Site Scripting vulnerabilities in web exploitation. | https://github.com/Thib-fkr/XSS_Practice | 0 | 0| 
+| 20220206T10:54:28Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
+| 20220206T09:25:42Z | PS4H3X 9.00 Jailbreak V2 | https://github.com/upal212/900v2 | 0 | 0| 
+| 20220206T08:39:02Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 20 | 7| 
+| 20220206T08:34:19Z | This can simulate hacking. | https://github.com/karutabyss/exploit-simulator | 0 | 0| 
+| 20220206T07:31:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10716 | 1853| 
+| 20220206T06:31:56Z | This application has three main components:  Registration Authentication File Manager Once a user registers via an online sign up page, they are directed to a login page where they can login into the application%s file management system. The system allows users to create, read, edit, and delete files on the server. Then a file is created, the owner sets the read and write privilege%s given to other users. The privileges are based on a whitelist, so only the users listed have access to the privilege. While the authentication, file ACLs, and rigorous system logs provide some security to the application, the security can still be improved. One potential exploit is an attacker using the %list files% option on the server to ascertain the name of the password list file. Then, they could create a fake ACL list for the password file and gain access to it. The purpose of this project was to learn how backend code interacts with front-end code on a server, and to gain an appreciation for the challenges regarding authentication and ACL security implementations | https://github.com/samE01/NodeMCU-ESP8266MOD-Authentication-File-Manager-Web-Application | 0 | 0| 
 | 20220206T02:56:00Z | %Ike: A binary exploitation and reversing handbook.  | https://github.com/mahaloz/ike | 15 | 0| 
 | 20220206T02:42:32Z | Rblx exploit powered by Wearedev api | https://github.com/Thun2552/Xmi-Project | 0 | 0| 
-| 20220206T01:44:36Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1565 | 529| 
-| 20220206T01:30:57Z | Roblox Exploit Injector Created by ION Services and 7Meli 𖤐 . Enjoy the Injector | https://github.com/IONHeart93/ION-Meli-Script-Injector | 0 | 0| 
-| 20220206T01:26:20Z | Image processing algorithms in general are good candidates for exploiting GPU capabilities. The parallelism is naturally provided by per-pixel operations. Application includes MRI processing of human head scans is one such area to effectively utilize the GPU resources. The CAD (Computer Aided Diagnostic) system used for analyzing large medical image datasets are usually a pipeline processing that includes a variety of image processing operations. Pre and post processing of images consumes huge amount of time and the methods used includes Noise filters, segmentation, image diffusion and enhancement. To reduce the amount of time, CUDA programming on GPU machine is used.The Objective of this project is to design and evaluate the performance of medical image processing algorithms implemented in CUDA running on GPU based machine. To achieve a speed up of 3-300 times compared to conventional central processing unit (CPU) processor in Per Pixel Threading model and up to 30 times in Per Slice Threading model. | https://github.com/Rehshma/Image-processing-algorithms-on-GPU-machines | 0 | 0| 
-| 20220206T01:21:17Z | Null | https://github.com/UnfairRoblox91/PlutoExploit.github.io | 0 | 0| 
-| 20220205T23:57:19Z | roblox exploit with every hack | https://github.com/totallynotacoolguy/roblox-exploit | 0 | 0| 
-| 20220205T23:53:23Z | Null | https://github.com/RyanScripz/Basic-Print-Exploit | 1 | 0| 
-| 20220205T23:29:52Z | Null | https://github.com/SamirJ1134/ExploitingAD | 0 | 0| 
-| 20220205T23:24:57Z | An exploit and demonstration on how to exploit a Stored XSS vulnerability in https://anonstress.com. | https://github.com/7ub/AnonStress-Stored-XSS-Exploit | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T10:11:32Z | Grudge tracker app - React Native | https://github.com/chombazm/fuzzy-octo-parakeet | 0 | 0| 
+| 20220206T07:46:54Z | Different approaches to fuzz numeric passcodes with Golang. | https://github.com/snix0/Passcode-Fuzzer | 0 | 0| 
+| 20220206T07:24:19Z | American Fuzzy Logic | https://github.com/AishwaryaJadhav9850/American-Fuzzy-Logic | 0 | 0| 
+| 20220206T06:05:25Z | Null | https://github.com/Trick52Dev/fuzzy-telegram | 0 | 0| 
+| 20220206T04:16:38Z | A black-box fuzzer to detect custom permission related privilege escalation vulnerabilities in Android.  | https://github.com/little-leiry/CuPerFuzzer | 3 | 1| 
 | 20220206T00:40:10Z | Null | https://github.com/shanemcmahon/fuzzy-telegram-JS | 0 | 0| 
 | 20220206T00:20:45Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 806 | 58| 
 | 20220205T23:56:17Z | Fuzzy String Matching Project made at TPC. | https://github.com/rfolmedoa/fuzzy-string-matching | 0 | 0| 
 | 20220205T23:53:32Z | dunno just trying out lol | https://github.com/dyssomnia/fuzzy-system | 0 | 0| 
 | 20220205T23:51:45Z | LiteX-based PCIe MITM, sniffing, fuzzing, device emulation | https://github.com/jevinskie/pcie-mitm | 3 | 0| 
-| 20220205T22:52:52Z | Target components for kAFL/Nyx Fuzzer | https://github.com/IntelLabs/kafl.targets | 0 | 0| 
-| 20220205T21:19:41Z | Native C++ implementation of the fuzzy C-means clustering algorithm | https://github.com/deanone/FuzzyCMeans | 1 | 0| 
-| 20220205T21:03:15Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1182 | 49| 
-| 20220205T20:32:52Z | yoyo fun | https://github.com/penguinuwu/fuzzy-invention | 0 | 0| 
-| 20220205T18:37:45Z | Frontend for Contact API  | https://github.com/Cropcyc/fuzzy-fortnight | 0 | 0| 
 
 
 
