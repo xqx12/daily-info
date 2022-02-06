@@ -37,7 +37,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220206T02:29:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4957 | 180| 
-| 20220205T15:33:08Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 274 | 17| 
+| 20220205T15:33:08Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 274 | 18| 
 | 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
 | 20220204T23:09:05Z | Config files for my GitHub profile. | https://github.com/KleemoffDeveloper/KleemoffDeveloper | 0 | 0| 
 | 20220204T15:14:45Z | Config files for my GitHub profile. | https://github.com/kleem-bus/kleem-bus | 0 | 0| 
@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T02:56:00Z | %Ike: A binary exploitation and reversing handbook.  | https://github.com/mahaloz/ike | 15 | 0| 
 | 20220206T02:42:32Z | Rblx exploit powered by Wearedev api | https://github.com/Thun2552/Xmi-Project | 0 | 0| 
 | 20220206T01:44:36Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1565 | 529| 
 | 20220206T01:30:57Z | Roblox Exploit Injector Created by ION Services and 7Meli 𖤐 . Enjoy the Injector | https://github.com/IONHeart93/ION-Meli-Script-Injector | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20220205T23:53:23Z | Null | https://github.com/RyanScripz/Basic-Print-Exploit | 1 | 0| 
 | 20220205T23:29:52Z | Null | https://github.com/SamirJ1134/ExploitingAD | 0 | 0| 
 | 20220205T23:24:57Z | An exploit and demonstration on how to exploit a Stored XSS vulnerability in https://anonstress.com. | https://github.com/7ub/AnonStress-Stored-XSS-Exploit | 2 | 0| 
-| 20220205T22:24:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10714 | 1853| 
 
 
 # backdoor on Github 推荐
