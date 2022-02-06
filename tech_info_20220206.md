@@ -69,6 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T13:10:54Z | Config files for my GitHub profile. | https://github.com/fuzzy456/fuzzy456 | 0 | 0| 
 | 20220206T13:04:10Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 722 | 41| 
 | 20220206T10:11:32Z | Grudge tracker app - React Native | https://github.com/chombazm/fuzzy-octo-parakeet | 0 | 0| 
 | 20220206T07:46:54Z | Different approaches to fuzz numeric passcodes with Golang. | https://github.com/snix0/Passcode-Fuzzer | 0 | 0| 
