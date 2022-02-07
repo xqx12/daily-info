@@ -21,24 +21,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220207T12:32:11Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
+| 20220207T10:55:09Z | CVE-2020-35749 | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | | 
+| 20220207T10:20:07Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
 | 20220207T01:51:53Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220207T01:11:09Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220206T21:23:38Z | CVE-2021-4034 | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | | 
 | 20220206T13:39:57Z | CVE-2022-24348 | Find similar issues like CVE-2022-24348 | https://github.com/jkroepke/CVE-2022-24348-2 | | 
 | 20220205T22:18:14Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20220204T22:48:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
 | 20220204T19:20:34Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec in Python | https://github.com/ravindubw/CVE-2021-4034 | | 
 | 20220204T11:58:21Z | cve-2020-7934 | Null | https://github.com/Sergio235705/audit-xss-cve-2020-7934 | | 
-| 20220203T21:27:01Z | CVE-2021-45901 | Null | https://github.com/9lyph/CVE-2021-45901 | | 
-| 20220203T19:03:41Z | CVE-2021-4034 | a python script that downloads neofetch and traitor and attempts to exploit CVE-2021-4034 | https://github.com/Ph4nt0mh4x0r/auto-CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220207T02:53:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4980 | 182| 
-| 20220206T18:21:13Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 277 | 17| 
-| 20220206T07:58:40Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 1 | 0| 
+| 20220207T11:13:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4997 | 182| 
+| 20220207T10:25:44Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 1 | 0| 
+| 20220207T07:39:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 279 | 17| 
 | 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
 | 20220204T23:09:05Z | Config files for my GitHub profile. | https://github.com/KleemoffDeveloper/KleemoffDeveloper | 0 | 0| 
 | 20220204T15:14:45Z | Config files for my GitHub profile. | https://github.com/kleem-bus/kleem-bus | 0 | 0| 
@@ -75,6 +75,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220207T12:02:13Z | A simple remote tool in C#. | https://github.com/qwqdanchun/DcRat | 549 | 206| 
+| 20220207T09:48:22Z | Phpstudy RCE EXP | https://github.com/xzajyjs/phpstudy_Backdoor-EXP | 5 | 1| 
+| 20220207T04:15:23Z | official repository of python back door scam program | https://github.com/ntwari-egide/python-backdoor-scam-program | 0 | 0| 
 | 20220207T02:41:32Z | An adversarial killchain walkthrough focusing on malware development | https://github.com/bakarilevy/TheKillchain | 0 | 1| 
 | 20220206T22:04:57Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 25 | 2| 
 | 20220206T20:58:16Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 319 | 64| 
@@ -82,14 +85,13 @@
 | 20220206T20:07:51Z | Null | https://github.com/cyusakeny/backdoor-scam | 0 | 0| 
 | 20220206T18:11:41Z | A Hack to Linux%s Authentication System  | https://github.com/SauveJeanLuc/backdoor-keys | 5 | 0| 
 | 20220206T16:18:50Z | A purposeful scamming program to backdoor a client PC. | https://github.com/divinirakiza/backdoor-scam | 0 | 1| 
-| 20220206T02:39:36Z | BlueFish is a complete covert application that allows a user to remotely open a port on a firewall, communicate with a “disguised” backdoor. | https://github.com/MeCRO-DEV/BlueFish | 0 | 0| 
-| 20220205T23:47:58Z | modulAr tooL for fInding bAckdoors for Sat (ALIAS) | https://github.com/Nauchnik/alias | 1 | 1| 
-| 20220205T14:04:10Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 227 | 61| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220207T12:26:15Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 0 | 0| 
+| 20220207T11:30:22Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 193 | 10| 
 | 20220206T22:47:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2699 | 396| 
 | 20220206T10:54:28Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
@@ -98,8 +100,6 @@
 | 20220203T14:17:49Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20220203T12:27:07Z | Null | https://github.com/williamberman/evm-symbolic-execution | 15 | 0| 
 | 20220202T05:48:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 49 | 3| 
-| 20220201T23:05:14Z | A python symbolic execution framework using radare2%s ESIL (Evaluable String Intermediate Language) | https://github.com/radareorg/esilsolve | 117 | 11| 
-| 20220201T17:42:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 199 | 44| 
 
 
 # big4 on Github 推荐
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220207T11:34:59Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2452 | 481| 
+| 20220207T11:33:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2474 | 156| 
+| 20220207T11:29:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 758 | 75| 
+| 20220207T11:28:38Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1874 | 469| 
+| 20220207T10:21:37Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 483 | 44| 
+| 20220207T04:28:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7069 | 1494| 
 | 20220207T02:46:03Z | LiteX-based PCIe MITM, sniffing, fuzzing, device emulation | https://github.com/jevinskie/pcie-mitm | 4 | 0| 
-| 20220207T02:32:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2472 | 156| 
 | 20220206T22:36:48Z | Support System For Project Team Formation | https://github.com/mark-rofaeel/Fuzzy-Logic | 0 | 0| 
 | 20220206T21:26:35Z | Null | https://github.com/pplzpplzpplz/fuzz_gradients | 0 | 0| 
 | 20220206T21:21:35Z | Aircraft Silhouette Classification using MKNN Algorithm | https://github.com/anujsarda3/Classification-of-Aircraft-Silhouettes-using-Modified-KNN-and-Fuzzy-Logic | 0 | 0| 
-| 20220206T20:30:51Z | Source code for Modbus/TCP fuzzer used for ETFA 2015 paper | https://github.com/artemiosv/etfa2015 | 15 | 5| 
-| 20220206T20:01:23Z | Null | https://github.com/Voldemar63/fuzzy-octo-parakeet | 0 | 0| 
-| 20220206T13:10:54Z | Config files for my GitHub profile. | https://github.com/fuzzy456/fuzzy456 | 0 | 0| 
-| 20220206T13:04:10Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 722 | 41| 
-| 20220206T10:11:32Z | Grudge tracker app - React Native | https://github.com/chombazm/fuzzy-octo-parakeet | 0 | 0| 
 
 
 
