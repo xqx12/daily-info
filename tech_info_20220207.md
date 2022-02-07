@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220207T13:57:44Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 73 | 8| 
 | 20220207T13:49:09Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 5981 | 690| 
 | 20220207T13:46:09Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 484 | 45| 
 | 20220207T13:15:57Z | FuzzyMatch a Query Set with a Reference Set Using Spark | https://github.com/ph2017001/FuzzyMatch_Spark | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20220207T11:29:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 758 | 75| 
 | 20220207T11:28:38Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1874 | 469| 
 | 20220207T04:28:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7069 | 1494| 
-| 20220207T02:46:03Z | LiteX-based PCIe MITM, sniffing, fuzzing, device emulation | https://github.com/jevinskie/pcie-mitm | 4 | 0| 
 
 
 
