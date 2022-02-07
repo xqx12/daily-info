@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20220207 | 侠盗猎车 -- 玩转滚动码（中) | https://bbs.pediy.com/thread-271406.htm| 
 | 20220207 | 黑灰产识别与溯源 | https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g| 
+| 20220207 | ML-DOCTOR：对机器学习模型推理攻击的全局性研究 | https://mp.weixin.qq.com/s/B0_nPJkbSLRO7xyeHnA3OQ| 
 
 
 # CVE Github 推荐

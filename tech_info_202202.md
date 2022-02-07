@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20220207 | 侠盗猎车 -- 玩转滚动码（中) | https://bbs.pediy.com/thread-271406.htm| 
 | 20220207 | 黑灰产识别与溯源 | https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g| 
+| 20220207 | ML-DOCTOR：对机器学习模型推理攻击的全局性研究 | https://mp.weixin.qq.com/s/B0_nPJkbSLRO7xyeHnA3OQ| 
 | 20220205 | 对Java反序列化数据绕WAF新姿势的补充 | https://y4tacker.github.io/2022/02/05/year/2022/2/%E5%AF%B9Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%95%B0%E6%8D%AE%E7%BB%95WAF%E6%96%B0%E5%A7%BF%E5%8A%BF%E7%9A%84%E8%A1%A5%E5%85%85/| 
 | 20220205 | 连载：演化的高级威胁治理（五） | https://mp.weixin.qq.com/s/T9-mgl1G7dXDnQZIqG0nZQ| 
 | 20220203 | 新姿势绕过应用的ROOT检测 | https://mp.weixin.qq.com/s/JRliZMMUOB7BEX21mtEXCg| 
