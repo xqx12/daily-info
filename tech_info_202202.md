@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220207 | 侠盗猎车 -- 玩转滚动码（中) | https://bbs.pediy.com/thread-271406.htm| 
 | 20220205 | 对Java反序列化数据绕WAF新姿势的补充 | https://y4tacker.github.io/2022/02/05/year/2022/2/%E5%AF%B9Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%95%B0%E6%8D%AE%E7%BB%95WAF%E6%96%B0%E5%A7%BF%E5%8A%BF%E7%9A%84%E8%A1%A5%E5%85%85/| 
 | 20220205 | 连载：演化的高级威胁治理（五） | https://mp.weixin.qq.com/s/T9-mgl1G7dXDnQZIqG0nZQ| 
 | 20220203 | 新姿势绕过应用的ROOT检测 | https://mp.weixin.qq.com/s/JRliZMMUOB7BEX21mtEXCg| 
@@ -60,16 +61,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220207T02:14:37Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 678 | 145| 
-| 20220207T01:48:42Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1064 | 253| 
-| 20220207T00:28:06Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 41 | 36| 
-| 20220206T22:39:44Z | Calcule les racines d%un trinôme du second degré, demande de connaître les nombres complexes pour exploiter tous les résultats, s%adresse plutôt aux élèves de terminales scientifiques.. | https://github.com/StephaneLab/Trinome-second-degre-racines-reelles-ou-complexes | 0 | 0| 
-| 20220206T21:46:22Z | Null | https://github.com/tomkark/exploits-implementations | 0 | 0| 
-| 20220206T21:29:12Z | Hamzie%s Hub is a Roblox Script. That gives you the best Exploit Scripts for all the supported games! And everyday there are more games added. Hamzie%s Hub comes with its own executor, so NO KEY BULLSHIT! | https://github.com/Hamziee/Hamzies-Hub | 0 | 0| 
-| 20220206T21:23:38Z | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | 0 | 0| 
-| 20220206T20:35:42Z | Null | https://github.com/DanielRuf/exploits | 0 | 0| 
-| 20220206T19:56:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10720 | 1855| 
-| 20220206T19:32:46Z | Null | https://github.com/630r63k/safari-exploits | 0 | 0| 
+| 20220207T13:01:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10725 | 1855| 
+| 20220207T12:20:37Z | kernel exploit | https://github.com/0x1ns4n3/CVE-2015-1328-Golden_Eye | 1 | 0| 
+| 20220207T11:23:49Z | Null | https://github.com/synapsegod/exploit-library | 0 | 0| 
+| 20220207T11:02:51Z | linWinPwn is a bash script that automates a number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 58 | 11| 
+| 20220207T10:55:09Z | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | 1 | 0| 
+| 20220207T10:53:27Z | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne | https://github.com/jojo2406/API-Qualite-EAU-77 | 0 | 0| 
+| 20220207T10:12:22Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 1 | 0| 
+| 20220207T10:06:06Z | Unauthenticated attackers can cause a denial of service (resource consumption) by using the large list of registered .js files (from wp-includes/script-loader.php) to construct a series of requests to load every file many times. | https://github.com/DeyaaMuhammad/WPDOSLoader | 0 | 0| 
+| 20220207T08:22:53Z | Null | https://github.com/takeboy/https-github.com-abatchy17-WindowsExploits | 0 | 0| 
+| 20220207T07:40:22Z | Null | https://github.com/KOZ1OL/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

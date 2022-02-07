@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220207 | 侠盗猎车 -- 玩转滚动码（中) | https://bbs.pediy.com/thread-271406.htm| 
 
 
 # CVE Github 推荐
@@ -38,9 +39,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220207T02:14:37Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 678 | 145| 
-| 20220207T01:48:42Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1064 | 253| 
-| 20220207T00:28:06Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 41 | 36| 
+| 20220207T13:01:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10725 | 1855| 
+| 20220207T12:20:37Z | kernel exploit | https://github.com/0x1ns4n3/CVE-2015-1328-Golden_Eye | 1 | 0| 
+| 20220207T11:23:49Z | Null | https://github.com/synapsegod/exploit-library | 0 | 0| 
+| 20220207T11:02:51Z | linWinPwn is a bash script that automates a number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 58 | 11| 
+| 20220207T10:55:09Z | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | 1 | 0| 
+| 20220207T10:53:27Z | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne | https://github.com/jojo2406/API-Qualite-EAU-77 | 0 | 0| 
+| 20220207T10:12:22Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 1 | 0| 
+| 20220207T10:06:06Z | Unauthenticated attackers can cause a denial of service (resource consumption) by using the large list of registered .js files (from wp-includes/script-loader.php) to construct a series of requests to load every file many times. | https://github.com/DeyaaMuhammad/WPDOSLoader | 0 | 0| 
+| 20220207T08:22:53Z | Null | https://github.com/takeboy/https-github.com-abatchy17-WindowsExploits | 0 | 0| 
+| 20220207T07:40:22Z | Null | https://github.com/KOZ1OL/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
