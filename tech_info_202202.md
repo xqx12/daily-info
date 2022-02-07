@@ -36,7 +36,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220207T02:30:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4978 | 182| 
+| 20220207T02:34:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4979 | 182| 
 | 20220206T18:21:13Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 277 | 17| 
 | 20220206T07:58:40Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 1 | 0| 
 | 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220207T02:32:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2472 | 156| 
 | 20220206T22:36:48Z | Support System For Project Team Formation | https://github.com/mark-rofaeel/Fuzzy-Logic | 0 | 0| 
 | 20220206T21:26:35Z | Null | https://github.com/pplzpplzpplz/fuzz_gradients | 0 | 0| 
 | 20220206T21:21:35Z | Aircraft Silhouette Classification using MKNN Algorithm | https://github.com/anujsarda3/Classification-of-Aircraft-Silhouettes-using-Modified-KNN-and-Fuzzy-Logic | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20220206T13:04:10Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 722 | 41| 
 | 20220206T10:11:32Z | Grudge tracker app - React Native | https://github.com/chombazm/fuzzy-octo-parakeet | 0 | 0| 
 | 20220206T07:46:54Z | Different approaches to fuzz numeric passcodes with Golang. | https://github.com/snix0/Passcode-Fuzzer | 0 | 0| 
-| 20220206T07:24:19Z | American Fuzzy Logic | https://github.com/AishwaryaJadhav9850/American-Fuzzy-Logic | 0 | 0| 
 
 
 
