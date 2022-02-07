@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220207T02:46:03Z | LiteX-based PCIe MITM, sniffing, fuzzing, device emulation | https://github.com/jevinskie/pcie-mitm | 4 | 0| 
 | 20220207T02:32:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2472 | 156| 
 | 20220206T22:36:48Z | Support System For Project Team Formation | https://github.com/mark-rofaeel/Fuzzy-Logic | 0 | 0| 
 | 20220206T21:26:35Z | Null | https://github.com/pplzpplzpplz/fuzz_gradients | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20220206T13:10:54Z | Config files for my GitHub profile. | https://github.com/fuzzy456/fuzzy456 | 0 | 0| 
 | 20220206T13:04:10Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 722 | 41| 
 | 20220206T10:11:32Z | Grudge tracker app - React Native | https://github.com/chombazm/fuzzy-octo-parakeet | 0 | 0| 
-| 20220206T07:46:54Z | Different approaches to fuzz numeric passcodes with Golang. | https://github.com/snix0/Passcode-Fuzzer | 0 | 0| 
 
 
 
