@@ -21,8 +21,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220206T21:23:38Z | CVE-2021-4034 | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | | 
+| 20220206T19:08:15Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220206T13:39:57Z | CVE-2022-24348 | Find similar issues like CVE-2022-24348 | https://github.com/jkroepke/CVE-2022-24348-2 | | 
-| 20220206T12:40:17Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220205T22:18:14Z | CVE-2021-44228 | Scanners for Jar files that may be vulnerable to CVE-2021-44228 | https://github.com/CERTCC/CVE-2021-44228_scanner | | 
 | 20220205T16:32:19Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220204T22:48:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
@@ -30,14 +31,13 @@
 | 20220204T11:58:21Z | cve-2020-7934 | Null | https://github.com/Sergio235705/audit-xss-cve-2020-7934 | | 
 | 20220203T21:27:01Z | CVE-2021-45901 | Null | https://github.com/9lyph/CVE-2021-45901 | | 
 | 20220203T19:03:41Z | CVE-2021-4034 | a python script that downloads neofetch and traitor and attempts to exploit CVE-2021-4034 | https://github.com/Ph4nt0mh4x0r/auto-CVE-2021-4034 | | 
-| 20220203T13:32:45Z | CVE-2021-42013 | Apache HTTP Server 2.4.50 - RCE Lab | https://github.com/jas9reet/CVE-2021-42013-LAB | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220206T13:18:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4968 | 181| 
-| 20220206T12:23:38Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 276 | 17| 
+| 20220206T23:02:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4975 | 182| 
+| 20220206T18:21:13Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 277 | 17| 
 | 20220206T07:58:40Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 1 | 0| 
 | 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
 | 20220204T23:09:05Z | Config files for my GitHub profile. | https://github.com/KleemoffDeveloper/KleemoffDeveloper | 0 | 0| 
@@ -60,31 +60,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220206T13:06:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10715 | 1853| 
-| 20220206T11:49:34Z | Null | https://github.com/artem14133q/ssh_exploit | 0 | 0| 
-| 20220206T11:45:58Z | An introduction to Cross-Site Scripting vulnerabilities in web exploitation. | https://github.com/Thib-fkr/XSS_Practice | 0 | 0| 
-| 20220206T10:54:28Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
-| 20220206T09:25:42Z | PS4H3X 9.00 Jailbreak V2 | https://github.com/upal212/900v2 | 0 | 0| 
-| 20220206T08:39:02Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 20 | 7| 
-| 20220206T08:34:19Z | This can simulate hacking. | https://github.com/karutabyss/exploit-simulator | 0 | 0| 
-| 20220206T06:31:56Z | This application has three main components:  Registration Authentication File Manager Once a user registers via an online sign up page, they are directed to a login page where they can login into the application%s file management system. The system allows users to create, read, edit, and delete files on the server. Then a file is created, the owner sets the read and write privilege%s given to other users. The privileges are based on a whitelist, so only the users listed have access to the privilege. While the authentication, file ACLs, and rigorous system logs provide some security to the application, the security can still be improved. One potential exploit is an attacker using the %list files% option on the server to ascertain the name of the password list file. Then, they could create a fake ACL list for the password file and gain access to it. The purpose of this project was to learn how backend code interacts with front-end code on a server, and to gain an appreciation for the challenges regarding authentication and ACL security implementations | https://github.com/samE01/NodeMCU-ESP8266MOD-Authentication-File-Manager-Web-Application | 0 | 0| 
-| 20220206T03:32:16Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 127 | 42| 
-| 20220206T02:56:00Z | %Ike: A binary exploitation and reversing handbook.  | https://github.com/mahaloz/ike | 15 | 0| 
+| 20220207T00:28:06Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 41 | 36| 
+| 20220206T23:57:10Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1062 | 253| 
+| 20220206T22:39:44Z | Calcule les racines d%un trinôme du second degré, demande de connaître les nombres complexes pour exploiter tous les résultats, s%adresse plutôt aux élèves de terminales scientifiques.. | https://github.com/StephaneLab/Trinome-second-degre-racines-reelles-ou-complexes | 0 | 0| 
+| 20220206T21:46:22Z | Null | https://github.com/tomkark/exploits-implementations | 0 | 0| 
+| 20220206T21:29:12Z | Hamzie%s Hub is a Roblox Script. That gives you the best Exploit Scripts for all the supported games! And everyday there are more games added. Hamzie%s Hub comes with its own executor, so NO KEY BULLSHIT! | https://github.com/Hamziee/Hamzies-Hub | 0 | 0| 
+| 20220206T21:23:38Z | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | 0 | 0| 
+| 20220206T20:49:44Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 677 | 145| 
+| 20220206T20:35:42Z | Null | https://github.com/DanielRuf/exploits | 0 | 0| 
+| 20220206T19:56:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10720 | 1855| 
+| 20220206T19:32:46Z | Null | https://github.com/630r63k/safari-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220206T13:33:32Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 24 | 2| 
+| 20220206T22:04:57Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 25 | 2| 
+| 20220206T20:58:16Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 319 | 64| 
+| 20220206T20:13:09Z | Null | https://github.com/twizelissa/Backdoor-program | 0 | 0| 
+| 20220206T20:07:51Z | Null | https://github.com/cyusakeny/backdoor-scam | 0 | 0| 
+| 20220206T18:11:41Z | A Hack to Linux%s Authentication System  | https://github.com/SauveJeanLuc/backdoor-keys | 5 | 0| 
+| 20220206T16:18:50Z | A purposeful scamming program to backdoor a client PC. | https://github.com/divinirakiza/backdoor-scam | 0 | 1| 
 | 20220206T02:39:36Z | BlueFish is a complete covert application that allows a user to remotely open a port on a firewall, communicate with a “disguised” backdoor. | https://github.com/MeCRO-DEV/BlueFish | 0 | 0| 
 | 20220205T23:47:58Z | modulAr tooL for fInding bAckdoors for Sat (ALIAS) | https://github.com/Nauchnik/alias | 1 | 1| 
 | 20220205T14:04:10Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 227 | 61| 
 | 20220205T12:40:43Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 3 | 2| 
-| 20220205T09:51:32Z | Null | https://github.com/SadboyDarknet/shell-backdoor | 0 | 0| 
-| 20220205T07:03:09Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 53 | 6| 
-| 20220205T06:26:33Z | Keylogger malware for penetration testing in Windows platforms | https://github.com/araujo88/keylogger | 0 | 0| 
-| 20220205T05:42:31Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 318 | 64| 
-| 20220204T13:37:15Z | Null | https://github.com/luisoos/Img-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220206T22:36:48Z | Support System For Project Team Formation | https://github.com/mark-rofaeel/Fuzzy-Logic | 0 | 0| 
+| 20220206T21:26:35Z | Null | https://github.com/pplzpplzpplz/fuzz_gradients | 0 | 0| 
+| 20220206T21:21:35Z | Aircraft Silhouette Classification using MKNN Algorithm | https://github.com/anujsarda3/Classification-of-Aircraft-Silhouettes-using-Modified-KNN-and-Fuzzy-Logic | 0 | 0| 
+| 20220206T20:30:51Z | Source code for Modbus/TCP fuzzer used for ETFA 2015 paper | https://github.com/artemiosv/etfa2015 | 15 | 5| 
+| 20220206T20:01:23Z | Null | https://github.com/Voldemar63/fuzzy-octo-parakeet | 0 | 0| 
 | 20220206T13:10:54Z | Config files for my GitHub profile. | https://github.com/fuzzy456/fuzzy456 | 0 | 0| 
 | 20220206T13:04:10Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 722 | 41| 
 | 20220206T10:11:32Z | Grudge tracker app - React Native | https://github.com/chombazm/fuzzy-octo-parakeet | 0 | 0| 
 | 20220206T07:46:54Z | Different approaches to fuzz numeric passcodes with Golang. | https://github.com/snix0/Passcode-Fuzzer | 0 | 0| 
 | 20220206T07:24:19Z | American Fuzzy Logic | https://github.com/AishwaryaJadhav9850/American-Fuzzy-Logic | 0 | 0| 
-| 20220206T06:05:25Z | Null | https://github.com/Trick52Dev/fuzzy-telegram | 0 | 0| 
-| 20220206T04:16:38Z | A black-box fuzzer to detect custom permission related privilege escalation vulnerabilities in Android.  | https://github.com/little-leiry/CuPerFuzzer | 3 | 1| 
-| 20220206T00:40:10Z | Null | https://github.com/shanemcmahon/fuzzy-telegram-JS | 0 | 0| 
-| 20220206T00:20:45Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 806 | 58| 
-| 20220205T23:56:17Z | Fuzzy String Matching Project made at TPC. | https://github.com/rfolmedoa/fuzzy-string-matching | 0 | 0| 
 
 
 
