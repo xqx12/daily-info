@@ -38,7 +38,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220206T23:57:10Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1062 | 253| 
 | 20220206T22:39:44Z | Calcule les racines d%un trinôme du second degré, demande de connaître les nombres complexes pour exploiter tous les résultats, s%adresse plutôt aux élèves de terminales scientifiques.. | https://github.com/StephaneLab/Trinome-second-degre-racines-reelles-ou-complexes | 0 | 0| 
 | 20220206T21:46:22Z | Null | https://github.com/tomkark/exploits-implementations | 0 | 0| 
 | 20220206T21:29:12Z | Hamzie%s Hub is a Roblox Script. That gives you the best Exploit Scripts for all the supported games! And everyday there are more games added. Hamzie%s Hub comes with its own executor, so NO KEY BULLSHIT! | https://github.com/Hamziee/Hamzies-Hub | 0 | 0| 
@@ -48,6 +47,7 @@
 | 20220206T19:56:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10720 | 1855| 
 | 20220206T19:32:46Z | Null | https://github.com/630r63k/safari-exploits | 0 | 0| 
 | 20220206T11:49:34Z | Null | https://github.com/artem14133q/ssh_exploit | 0 | 0| 
+| 20220206T11:45:58Z | An introduction to Cross-Site Scripting vulnerabilities in web exploitation. | https://github.com/Thib-fkr/XSS_Practice | 0 | 0| 
 
 
 # backdoor on Github 推荐

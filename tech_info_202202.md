@@ -60,8 +60,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220207T01:04:40Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1063 | 253| 
 | 20220207T00:28:06Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 41 | 36| 
-| 20220206T23:57:10Z | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1062 | 253| 
 | 20220206T22:39:44Z | Calcule les racines d%un trinôme du second degré, demande de connaître les nombres complexes pour exploiter tous les résultats, s%adresse plutôt aux élèves de terminales scientifiques.. | https://github.com/StephaneLab/Trinome-second-degre-racines-reelles-ou-complexes | 0 | 0| 
 | 20220206T21:46:22Z | Null | https://github.com/tomkark/exploits-implementations | 0 | 0| 
 | 20220206T21:29:12Z | Hamzie%s Hub is a Roblox Script. That gives you the best Exploit Scripts for all the supported games! And everyday there are more games added. Hamzie%s Hub comes with its own executor, so NO KEY BULLSHIT! | https://github.com/Hamziee/Hamzies-Hub | 0 | 0| 
