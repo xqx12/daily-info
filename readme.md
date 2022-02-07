@@ -23,7 +23,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220206T23:02:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 4975 | 182| 
 | 20220206T18:21:13Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 277 | 17| 
 | 20220206T07:58:40Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 1 | 0| 
 
