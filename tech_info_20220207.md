@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220207 | 侠盗猎车 -- 玩转滚动码（中) | https://bbs.pediy.com/thread-271406.htm| 
+| 20220207 | 黑灰产识别与溯源 | https://mp.weixin.qq.com/s/-jvt7elrDrsBqT7GCUis3g| 
 
 
 # CVE Github 推荐
@@ -39,10 +40,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220207T13:03:47Z | linWinPwn is a bash script that automates a number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 59 | 11| 
 | 20220207T13:01:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10725 | 1855| 
 | 20220207T12:20:37Z | kernel exploit | https://github.com/0x1ns4n3/CVE-2015-1328-Golden_Eye | 1 | 0| 
 | 20220207T11:23:49Z | Null | https://github.com/synapsegod/exploit-library | 0 | 0| 
-| 20220207T11:02:51Z | linWinPwn is a bash script that automates a number of Active Directory Enumeration and Exploitation steps. | https://github.com/lefayjey/linWinPwn | 58 | 11| 
 | 20220207T10:55:09Z | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | 1 | 0| 
 | 20220207T10:53:27Z | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne | https://github.com/jojo2406/API-Qualite-EAU-77 | 0 | 0| 
 | 20220207T10:12:22Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 1 | 0| 
