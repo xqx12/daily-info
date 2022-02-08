@@ -97,7 +97,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220208T01:44:08Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 27 | 1| 
+| 20220208T01:50:45Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 28 | 1| 
 | 20220208T01:40:19Z | malSET: An Automated Symbolic Execution Toolkit for  Assisting Malware Classification Systems | https://github.com/DanielHaugen/malSET | 1 | 0| 
 | 20220208T00:13:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2702 | 397| 
 | 20220207T19:43:07Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 26 | 13| 
