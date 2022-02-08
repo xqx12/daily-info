@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220208T01:09:00Z | Null | https://github.com/SamirJ1134/ExploitingAD | 0 | 0| 
 | 20220208T00:53:35Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1566 | 528| 
 | 20220208T00:49:50Z | Deface POC KCFINDER Exploit With Terminal | https://github.com/JawaTengahXploit1337/KCXploit | 0 | 0| 
 | 20220207T23:11:53Z | Null | https://github.com/swarogisreal/Simple_CORS_Exploit_Read_responseFromVulnerableWebsite | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20220207T12:20:37Z | kernel exploit | https://github.com/0x1ns4n3/CVE-2015-1328-Golden_Eye | 1 | 0| 
 | 20220207T11:23:49Z | Null | https://github.com/synapsegod/exploit-library | 0 | 0| 
 | 20220207T10:55:09Z | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | 1 | 0| 
-| 20220207T10:53:27Z | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne | https://github.com/jojo2406/API-Qualite-EAU-77 | 0 | 0| 
 
 
 # backdoor on Github 推荐
