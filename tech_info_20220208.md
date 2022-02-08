@@ -63,13 +63,19 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220208T12:44:53Z | Null | https://github.com/KATERGaming/Backdoor.exe | 0 | 0| 
+| 20220208T11:56:37Z | Take the Keys, unlock the backdoor,  Enter the House | https://github.com/SauveJeanLuc/backdoor-keys | 6 | 0| 
+| 20220208T10:54:01Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 72 | 16| 
+| 20220208T09:39:10Z | BlueFish is a complete covert application that allows a user to remotely open a port on a firewall, communicate with a “disguised” backdoor. | https://github.com/MeCRO-DEV/BlueFish | 1 | 0| 
+| 20220208T07:10:38Z | A purposeful scamming program to backdoor a client PC. | https://github.com/divinirakiza/prizzer | 0 | 1| 
+| 20220208T06:52:21Z | official repository of python back door scam program | https://github.com/ntwari-egide/python-backdoor-scam-program | 0 | 0| 
 | 20220208T01:41:38Z | Backdoor Command Execution VSFTPD v2.3.4. | https://github.com/caique-garbim/VSFTPDv2.3.4-Exploit | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220208T02:43:30Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 29 | 1| 
+| 20220208T11:52:15Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 38 | 1| 
 | 20220208T01:40:19Z | malSET: An Automated Symbolic Execution Toolkit for  Assisting Malware Classification Systems | https://github.com/DanielHaugen/malSET | 1 | 0| 
 | 20220208T00:13:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2702 | 397| 
 
