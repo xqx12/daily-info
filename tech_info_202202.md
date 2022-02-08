@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220208T01:05:11Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
 | 20220208T00:09:31Z | CVE-2021-4034 | Ansible role to patch  RHSB-2022-001 Polkit Privilege Escalation - (CVE-2021-4034) | https://github.com/ziadsaleemi/polkit_CVE-2021-4034 | | 
 | 20220207T23:21:17Z | cve-2022-21877 | a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak) | https://github.com/Big5-sec/cve-2022-21877 | | 
-| 20220207T22:04:53Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
 | 20220207T18:10:06Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220207T15:56:59Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220207T10:55:09Z | CVE-2020-35749 | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | | 
@@ -97,13 +97,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220207T12:26:15Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 0 | 0| 
+| 20220208T00:35:21Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 26 | 1| 
+| 20220208T00:13:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2702 | 397| 
+| 20220207T19:43:07Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 26 | 13| 
 | 20220207T11:30:22Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 193 | 10| 
-| 20220206T22:47:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2699 | 396| 
 | 20220206T10:54:28Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
 | 20220204T02:16:15Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 105 | 8| 
-| 20220203T22:49:22Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 26 | 13| 
 | 20220203T14:17:49Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 7 | 3| 
 | 20220203T12:27:07Z | Null | https://github.com/williamberman/evm-symbolic-execution | 15 | 0| 
 | 20220202T05:48:50Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 49 | 3| 
