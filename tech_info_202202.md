@@ -120,10 +120,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220208T01:42:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 760 | 75| 
 | 20220208T01:23:35Z | asdf | https://github.com/TheMostUnmemorableUsernameInTheWorld/fuzzy-chainsaw | 0 | 0| 
 | 20220208T00:11:56Z | Lightweight fuzzy search highlighting component using fuse.js | https://github.com/metonym/react-fuzzy-highlighter | 17 | 3| 
 | 20220208T00:04:13Z | Null | https://github.com/cahdyeg/fuzzy-dollop | 0 | 0| 
-| 20220208T00:03:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 759 | 75| 
 | 20220207T23:26:30Z | Null | https://github.com/johnnytheboii/TensorFuzz_2.0 | 0 | 0| 
 | 20220207T22:31:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7070 | 1494| 
 | 20220207T22:23:28Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 346 | 48| 
