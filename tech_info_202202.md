@@ -36,7 +36,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220208T13:21:59Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220208T13:41:28Z | CVE-2022-23378 | Null | https://github.com/TheGetch/CVE-2022-23378 | | 
+| 20220208T13:40:08Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220208T12:17:20Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220208T07:11:24Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
 | 20220208T03:55:23Z | CVE-2021-4034 | local privilage esscalation vulnerablity | https://github.com/fireclasher/pwnkit-CVE-2021-4034- | | 
@@ -45,7 +46,6 @@
 | 20220207T10:55:09Z | CVE-2020-35749 | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | | 
 | 20220207T01:51:53Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220206T21:23:38Z | CVE-2021-4034 | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | | 
-| 20220206T13:39:57Z | CVE-2022-24348 | Find similar issues like CVE-2022-24348 | https://github.com/jkroepke/CVE-2022-24348-2 | | 
 
 
 # klee on Github 推荐
