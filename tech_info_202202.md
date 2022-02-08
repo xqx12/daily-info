@@ -15,6 +15,7 @@
 | 20220208 | 修改 Smali 代码，重打包 Android APK | http://blog.quarkslab.com/smali-the-parseltongue-language.html| 
 | 20220208 | Java 反序列化漏洞研究前序: Transformer、动态代理与注解 | http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/01/30/java-dynamic-proxy-and-annotation| 
 | 20220208 | Pwn2Own Austin 2021 Samba 堆内存越界读写 RCE 漏洞的分析（CVE-2021-44142） | http://www.thezdi.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin| 
+| 20220208 | Hunting for Persistence in Linux (Part 5): Systemd Generators. | https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/| 
 | 20220207 | SIM卡劫持分析研究. | https://sensepost.com/blog/2022/sim-hijacking/| 
 | 20220207 | 从 0 开始学 V8 漏洞利用之 CVE-2021-30517（七） | https://paper.seebug.org/1826/| 
 
@@ -130,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220208T14:04:25Z | Null | https://github.com/duongtuan2603/FuzzyApp1 | 0 | 0| 
 | 20220208T13:48:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3934 | 919| 
 | 20220208T13:47:53Z | Null | https://github.com/nathanmaciel/fuzzy-palm-tree | 0 | 0| 
 | 20220208T12:47:05Z | Gtk-rs fuzzer to catch as many bugs as possible | https://github.com/qarmin/gtk-rs-fuzzer | 2 | 0| 
@@ -139,7 +141,6 @@
 | 20220208T10:28:04Z | Course project for the Fuzzy Sets subject at the Faculty of Mathematics and Informatics at the Sofia University | https://github.com/AlekBoninski/fuzzy-sets-course-project | 0 | 0| 
 | 20220208T09:56:12Z | P2P platform for publishing content, self-hosting, decentralized curation, and more. | https://github.com/FuzzrNet/Fuzzr | 26 | 3| 
 | 20220208T09:34:03Z | Designer colour | https://github.com/PLACID25/fuzzy-broccoli | 0 | 0| 
-| 20220208T09:19:15Z | JavaScript implementation of the FuzzyDBSCAN algorithm | https://github.com/schulzch/fuzzy-dbscan-js | 3 | 0| 
 
 
 
