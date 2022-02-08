@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220208T01:23:02Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
+| 20220208T01:25:37Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
 | 20220208T01:20:17Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220208T00:09:31Z | CVE-2021-4034 | Ansible role to patch  RHSB-2022-001 Polkit Privilege Escalation - (CVE-2021-4034) | https://github.com/ziadsaleemi/polkit_CVE-2021-4034 | | 
 | 20220207T23:21:17Z | cve-2022-21877 | a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak) | https://github.com/Big5-sec/cve-2022-21877 | | 
@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220208T01:23:35Z | asdf | https://github.com/TheMostUnmemorableUsernameInTheWorld/fuzzy-chainsaw | 0 | 0| 
 | 20220208T00:11:56Z | Lightweight fuzzy search highlighting component using fuse.js | https://github.com/metonym/react-fuzzy-highlighter | 17 | 3| 
 | 20220208T00:04:13Z | Null | https://github.com/cahdyeg/fuzzy-dollop | 0 | 0| 
 | 20220208T00:03:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 759 | 75| 
@@ -129,7 +130,6 @@
 | 20220207T21:58:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2475 | 156| 
 | 20220207T21:18:48Z | find hidden folders and files | https://github.com/OgulcanKacarr/Fuzzing | 0 | 0| 
 | 20220207T13:57:44Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 73 | 8| 
-| 20220207T13:49:09Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 5981 | 690| 
 
 
 
