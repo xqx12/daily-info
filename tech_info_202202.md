@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220208T01:34:57Z | Backdoor Command Execution VSFTPD v2.3.4. | https://github.com/caique-garbim/VSFTPDv2.3.4-Exploit | 0 | 0| 
+| 20220208T01:41:38Z | Backdoor Command Execution VSFTPD v2.3.4. | https://github.com/caique-garbim/VSFTPDv2.3.4-Exploit | 0 | 0| 
 | 20220208T01:09:00Z | Null | https://github.com/SamirJ1134/ExploitingAD | 0 | 0| 
 | 20220208T00:53:35Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1566 | 528| 
 | 20220208T00:49:50Z | Deface POC KCFINDER Exploit With Terminal | https://github.com/JawaTengahXploit1337/KCXploit | 0 | 0| 
