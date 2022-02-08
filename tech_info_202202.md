@@ -36,7 +36,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220208T12:55:41Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220208T13:21:59Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220208T12:17:20Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220208T07:11:24Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
 | 20220208T03:55:23Z | CVE-2021-4034 | local privilage esscalation vulnerablity | https://github.com/fireclasher/pwnkit-CVE-2021-4034- | | 
