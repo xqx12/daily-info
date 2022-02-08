@@ -131,6 +131,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220208T12:47:05Z | Gtk-rs fuzzer to catch as many bugs as possible | https://github.com/qarmin/gtk-rs-fuzzer | 2 | 0| 
+| 20220208T12:02:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3933 | 919| 
 | 20220208T11:50:26Z | repo for my class PW3 | https://github.com/Mezali/fuzzy-enigma | 0 | 0| 
 | 20220208T11:38:07Z | fuzzy logic using python without libraries (TR_tr: bulanık Mantık) | https://github.com/bturkoglu/fuzzy-logic-with-python | 0 | 0| 
 | 20220208T11:05:23Z | A microservice which eases fuzzy search on adressenregister. | https://github.com/lblod/adressenregister-fuzzy-search-service | 1 | 0| 
@@ -139,7 +140,6 @@
 | 20220208T09:34:03Z | Designer colour | https://github.com/PLACID25/fuzzy-broccoli | 0 | 0| 
 | 20220208T09:19:15Z | JavaScript implementation of the FuzzyDBSCAN algorithm | https://github.com/schulzch/fuzzy-dbscan-js | 3 | 0| 
 | 20220208T02:46:21Z | A tool to submit random data to CKB transactions pool. | https://github.com/yangby-cryptape/ckb-txpool-fuzzer | 0 | 0| 
-| 20220208T02:11:48Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4674 | 477| 
 
 
 
