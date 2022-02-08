@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220208T13:51:01Z | CVE-2021-4034 | Null | https://github.com/puckiestyle/CVE-2021-4034 | | 
 | 20220208T13:41:28Z | CVE-2022-23378 | Null | https://github.com/TheGetch/CVE-2022-23378 | | 
 | 20220208T13:40:08Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220208T12:17:20Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
@@ -50,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220208T13:50:41Z | Lumberjack: An Active Directory vulnerability identification, exploitation, & reporting tool  | https://github.com/TG-Coder101/Lumberjack | 0 | 0| 
 | 20220208T12:44:13Z | CVEs Exploit Scripts | https://github.com/Nefcore/cveExploits | 1 | 0| 
 | 20220208T12:39:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10730 | 1857| 
 | 20220208T10:39:21Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 658 | 149| 
@@ -59,7 +61,6 @@
 | 20220208T01:41:38Z | Backdoor Command Execution VSFTPD v2.3.4. | https://github.com/caique-garbim/VSFTPDv2.3.4-Exploit | 0 | 0| 
 | 20220208T01:09:00Z | Null | https://github.com/SamirJ1134/ExploitingAD | 0 | 0| 
 | 20220208T01:08:56Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 725 | 123| 
-| 20220208T00:53:35Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1566 | 528| 
 
 
 # backdoor on Github 推荐
