@@ -86,8 +86,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220209T13:57:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1020 | 151| 
 | 20220209T13:10:09Z | Chapter 4 code_Project_17 The second part 2 of %The Arduino World Book% code_Project_17 Fuzzy Logic (Mamdani) with Arduino Project | https://github.com/FarkadAdnan/Project-17-Fuzzy-Logic-Mamdani-with-Arduino-Project | 1 | 0| 
-| 20220209T12:01:23Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1019 | 151| 
+| 20220209T11:51:37Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 79 | 9| 
 | 20220209T09:26:39Z | Null | https://github.com/nkiraikova/fuzzy-logic | 0 | 0| 
 | 20220209T09:23:03Z | Null | https://github.com/nilswiersma/fuzzing-101-wip | 0 | 0| 
 | 20220209T09:10:41Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1552 | 319| 
