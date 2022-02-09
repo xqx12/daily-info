@@ -80,7 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220209T01:17:10Z | Null | https://github.com/iVlados/exploit-test | 0 | 0| 
+| 20220209T01:19:09Z | Null | https://github.com/iVlados/exploit-test | 0 | 0| 
 | 20220209T00:34:49Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1103 | 264| 
 | 20220209T00:29:35Z | A Roblox rbxm(x) file runtime built for exploiting | https://github.com/richie0866/rbxm-suite | 2 | 1| 
 | 20220209T00:18:49Z | just a grep of all of github%s repositories API data for the word %exploit% | https://github.com/nicholas-long/github-exploit-code-repository-index | 0 | 0| 
