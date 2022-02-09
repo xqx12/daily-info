@@ -103,6 +103,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220209T07:19:49Z | This is the source code for Data-free Backdoor. | https://github.com/yangyunfei16/Data-free-Backdoor | 0 | 0| 
+| 20220209T05:04:29Z | official repository of python back door scam program | https://github.com/ntwari-egide/python-backdoor-scam-program | 1 | 0| 
 | 20220209T02:40:10Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 77 | 16| 
 | 20220209T02:14:28Z | This is not made to be abused, and I%m sure it%s going to get caught by windows defender. Don%t even think about abusing it. | https://github.com/Hanheum/ultimate_backdoor | 0 | 0| 
 | 20220208T18:58:51Z | Un backdoor (ou porte dérobée) avec TCP | https://github.com/jjjeanmax/TCP-Backdoor | 0 | 0| 
@@ -111,15 +113,13 @@
 | 20220208T12:44:53Z | Null | https://github.com/KATERGaming/Backdoor.exe | 0 | 0| 
 | 20220208T11:56:37Z | Take the Keys, unlock the backdoor,  Enter the House | https://github.com/SauveJeanLuc/backdoor-keys | 6 | 0| 
 | 20220208T09:39:10Z | BlueFish is a complete covert application that allows a user to remotely open a port on a firewall, communicate with a “disguised” backdoor. | https://github.com/MeCRO-DEV/BlueFish | 1 | 0| 
-| 20220208T07:10:38Z | A purposeful scamming program to backdoor a client PC. | https://github.com/divinirakiza/prizzer | 0 | 1| 
-| 20220208T06:52:21Z | official repository of python back door scam program | https://github.com/ntwari-egide/python-backdoor-scam-program | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220209T02:42:23Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 40 | 1| 
-| 20220209T01:13:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2704 | 397| 
+| 20220209T10:10:14Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 42 | 1| 
+| 20220209T08:26:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2705 | 397| 
 | 20220208T23:44:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1883 | 536| 
 | 20220208T18:45:24Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 194 | 11| 
 | 20220208T01:40:19Z | malSET: An Automated Symbolic Execution Toolkit for  Assisting Malware Classification Systems | https://github.com/DanielHaugen/malSET | 1 | 0| 
