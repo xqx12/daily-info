@@ -39,7 +39,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220209T01:45:48Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220209T01:56:09Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220208T22:36:49Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/Pr0f3ssor/CVE-2021-4034-Pwnkit | | 
 | 20220208T21:46:33Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220208T21:24:56Z | CVE-2021-4034 | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | | 
@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220209T01:55:57Z | Onmi | https://github.com/Deweloper94/fuzzy--y-k- | 0 | 0| 
 | 20220209T01:15:46Z | Config files for my GitHub profile. | https://github.com/Fixid-Fuzz/Fixid-Fuzz | 0 | 0| 
 | 20220208T22:37:18Z | Null | https://github.com/mick-pear/fuzzy-dollop | 0 | 0| 
 | 20220208T22:35:29Z | Null | https://github.com/theapplegates/fuzzy-memory-new-gat | 0 | 0| 
@@ -142,7 +143,6 @@
 | 20220208T14:04:25Z | Null | https://github.com/duongtuan2603/FuzzyApp1 | 0 | 0| 
 | 20220208T13:48:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3934 | 919| 
 | 20220208T13:47:53Z | Null | https://github.com/nathanmaciel/fuzzy-palm-tree | 0 | 0| 
-| 20220208T12:47:05Z | Gtk-rs fuzzer to catch as many bugs as possible | https://github.com/qarmin/gtk-rs-fuzzer | 2 | 0| 
 
 
 
