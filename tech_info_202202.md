@@ -39,6 +39,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220209T02:32:54Z | 未知编号 | Null | https://github.com/modubyk/CVE_2020_0601 | | 
 | 20220209T02:25:24Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220208T22:36:49Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/Pr0f3ssor/CVE-2021-4034-Pwnkit | | 
 | 20220208T21:46:33Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
@@ -48,7 +49,6 @@
 | 20220208T17:39:33Z | CVE-2020-35749 | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | | 
 | 20220208T16:52:46Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220208T13:51:01Z | CVE-2021-4034 | Null | https://github.com/puckiestyle/CVE-2021-4034 | | 
-| 20220208T13:41:28Z | CVE-2022-23378 | Null | https://github.com/TheGetch/CVE-2022-23378 | | 
 
 
 # klee on Github 推荐
