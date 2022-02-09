@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220209T01:17:10Z | Null | https://github.com/iVlados/exploit-test | 0 | 0| 
 | 20220209T00:34:49Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1103 | 264| 
 | 20220209T00:29:35Z | A Roblox rbxm(x) file runtime built for exploiting | https://github.com/richie0866/rbxm-suite | 2 | 1| 
 | 20220209T00:18:49Z | just a grep of all of github%s repositories API data for the word %exploit% | https://github.com/nicholas-long/github-exploit-code-repository-index | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20220208T22:31:37Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2748 | 423| 
 | 20220208T21:50:50Z | Exploit up to version 3.73 (PS Vita/TV) | https://github.com/Nintendo-Homebrew/h-encore | 0 | 0| 
 | 20220208T21:49:27Z | A Spring Boot App to facilitate appointment booking, engineered to be secure against common exploits and infiltration techniques. | https://github.com/EJEgan/secureVaxBooking | 1 | 0| 
-| 20220208T21:24:56Z | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -133,6 +133,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220209T01:15:46Z | Config files for my GitHub profile. | https://github.com/Fixid-Fuzz/Fixid-Fuzz | 0 | 0| 
 | 20220208T22:37:18Z | Null | https://github.com/mick-pear/fuzzy-dollop | 0 | 0| 
 | 20220208T22:35:29Z | Null | https://github.com/theapplegates/fuzzy-memory-new-gat | 0 | 0| 
 | 20220208T22:23:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7074 | 1494| 
@@ -142,7 +143,6 @@
 | 20220208T13:48:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3934 | 919| 
 | 20220208T13:47:53Z | Null | https://github.com/nathanmaciel/fuzzy-palm-tree | 0 | 0| 
 | 20220208T12:47:05Z | Gtk-rs fuzzer to catch as many bugs as possible | https://github.com/qarmin/gtk-rs-fuzzer | 2 | 0| 
-| 20220208T11:50:26Z | repo for my class PW3 | https://github.com/Mezali/fuzzy-enigma | 0 | 0| 
 
 
 
