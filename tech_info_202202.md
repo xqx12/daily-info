@@ -16,6 +16,8 @@
 | 20220208 | Java 反序列化漏洞研究前序: Transformer、动态代理与注解 | http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/01/30/java-dynamic-proxy-and-annotation| 
 | 20220208 | Pwn2Own Austin 2021 Samba 堆内存越界读写 RCE 漏洞的分析（CVE-2021-44142） | http://www.thezdi.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin| 
 | 20220208 | Hunting for Persistence in Linux (Part 5): Systemd Generators. | https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/| 
+| 20220208 | SoK: 浏览器安全分析. | https://paper.seebug.org/1818/| 
+| 20220208 | CodeQL 数据流分析/污点分析 笔记（上篇） | http://eternalsakura13.com/2022/02/08/codeql_flow_analyze/| 
 | 20220207 | SIM卡劫持分析研究. | https://sensepost.com/blog/2022/sim-hijacking/| 
 | 20220207 | 从 0 开始学 V8 漏洞利用之 CVE-2021-30517（七） | https://paper.seebug.org/1826/| 
 
@@ -37,31 +39,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220209T00:42:53Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220208T22:36:49Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/Pr0f3ssor/CVE-2021-4034-Pwnkit | | 
+| 20220208T21:46:33Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
+| 20220208T21:24:56Z | CVE-2021-4034 | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | | 
+| 20220208T20:59:44Z | CVE-2021-4034 | Polkit pkexec CVE-2021-4034 Proof Of Concept and Patching | https://github.com/nobelh/CVE-2021-4034 | | 
+| 20220208T17:45:52Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
+| 20220208T17:39:33Z | CVE-2020-35749 | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | | 
+| 20220208T16:52:46Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220208T13:51:01Z | CVE-2021-4034 | Null | https://github.com/puckiestyle/CVE-2021-4034 | | 
 | 20220208T13:41:28Z | CVE-2022-23378 | Null | https://github.com/TheGetch/CVE-2022-23378 | | 
-| 20220208T13:40:08Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
-| 20220208T12:17:20Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
-| 20220208T07:11:24Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
-| 20220208T03:55:23Z | CVE-2021-4034 | local privilage esscalation vulnerablity | https://github.com/fireclasher/pwnkit-CVE-2021-4034- | | 
-| 20220208T00:09:31Z | CVE-2021-4034 | Ansible role to patch  RHSB-2022-001 Polkit Privilege Escalation - (CVE-2021-4034) | https://github.com/ziadsaleemi/polkit_CVE-2021-4034 | | 
-| 20220207T23:21:17Z | cve-2022-21877 | a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak) | https://github.com/Big5-sec/cve-2022-21877 | | 
-| 20220207T10:55:09Z | CVE-2020-35749 | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | | 
-| 20220207T01:51:53Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220208T13:49:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5019 | 183| 
+| 20220209T00:38:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5023 | 183| 
+| 20220208T23:44:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1883 | 536| 
+| 20220208T20:37:20Z | a vm for building and experimenting with klee | https://github.com/rchtsang/klee-vm | 0 | 0| 
+| 20220208T15:41:32Z | Config files for my GitHub profile. | https://github.com/TheKleeneCoder/TheKleeneCoder | 0 | 0| 
+| 20220208T15:06:19Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 280 | 18| 
+| 20220208T14:51:29Z | Null | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
 | 20220207T14:08:21Z | Config files for my GitHub profile. | https://github.com/NikolaiKleev/NikolaiKleev | 0 | 0| 
 | 20220207T10:25:44Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 1 | 0| 
-| 20220207T07:39:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 279 | 17| 
-| 20220205T04:41:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1882 | 536| 
 | 20220204T23:09:05Z | Config files for my GitHub profile. | https://github.com/KleemoffDeveloper/KleemoffDeveloper | 0 | 0| 
 | 20220204T15:14:45Z | Config files for my GitHub profile. | https://github.com/kleem-bus/kleem-bus | 0 | 0| 
-| 20220203T22:04:43Z | Null | https://github.com/Tobias050205/Quiz-Kleemannschule | 0 | 0| 
-| 20220202T08:00:10Z | Assets to be used for linking, wget-uploads and Gists. | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
-| 20220202T00:34:12Z | Null | https://github.com/Klee55/Klee55.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -78,31 +80,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220208T13:50:41Z | Lumberjack: An Active Directory vulnerability identification, exploitation, & reporting tool  | https://github.com/TG-Coder101/Lumberjack | 0 | 0| 
-| 20220208T12:44:13Z | CVEs Exploit Scripts | https://github.com/Nefcore/cveExploits | 1 | 0| 
-| 20220208T12:39:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10730 | 1857| 
-| 20220208T10:39:21Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 658 | 149| 
-| 20220208T10:33:48Z | Null | https://github.com/thushi99/scp-client-vulnerability-exploit | 0 | 0| 
-| 20220208T08:41:35Z | Null | https://github.com/OrtalGitHub/Vulnerabilities-Exploits-Analysis | 0 | 0| 
-| 20220208T03:01:23Z | Coding exercepts from book Hacking: Art of Exploitation | https://github.com/smashdashhashbrown/art_of_exploitation | 0 | 0| 
-| 20220208T01:41:38Z | Backdoor Command Execution VSFTPD v2.3.4. | https://github.com/caique-garbim/VSFTPDv2.3.4-Exploit | 0 | 0| 
-| 20220208T01:09:00Z | Null | https://github.com/SamirJ1134/ExploitingAD | 0 | 0| 
-| 20220208T01:08:56Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 725 | 123| 
+| 20220209T00:34:49Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1103 | 264| 
+| 20220209T00:29:35Z | A Roblox rbxm(x) file runtime built for exploiting | https://github.com/richie0866/rbxm-suite | 2 | 1| 
+| 20220209T00:18:49Z | just a grep of all of github%s repositories API data for the word %exploit% | https://github.com/nicholas-long/github-exploit-code-repository-index | 0 | 0| 
+| 20220209T00:14:27Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 72 | 13| 
+| 20220208T23:15:04Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and more. | https://github.com/volkandindar/agartha | 6 | 0| 
+| 20220208T22:45:38Z | Null | https://github.com/swarogisreal/Simple_CORS_Exploit_Read_responseFromVulnerableWebsite | 0 | 0| 
+| 20220208T22:31:37Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2748 | 423| 
+| 20220208T21:50:50Z | Exploit up to version 3.73 (PS Vita/TV) | https://github.com/Nintendo-Homebrew/h-encore | 0 | 0| 
+| 20220208T21:49:27Z | A Spring Boot App to facilitate appointment booking, engineered to be secure against common exploits and infiltration techniques. | https://github.com/EJEgan/secureVaxBooking | 1 | 0| 
+| 20220208T21:24:56Z | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220209T00:14:17Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 76 | 16| 
+| 20220208T18:58:51Z | Un backdoor (ou porte dérobée) avec TCP | https://github.com/jjjeanmax/TCP-Backdoor | 0 | 0| 
+| 20220208T18:05:51Z | a backdoor written in python | https://github.com/ColeStrickler/Python-Backdoor | 0 | 0| 
 | 20220208T13:55:08Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 27 | 3| 
 | 20220208T12:44:53Z | Null | https://github.com/KATERGaming/Backdoor.exe | 0 | 0| 
 | 20220208T11:56:37Z | Take the Keys, unlock the backdoor,  Enter the House | https://github.com/SauveJeanLuc/backdoor-keys | 6 | 0| 
-| 20220208T10:54:01Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 72 | 16| 
 | 20220208T09:39:10Z | BlueFish is a complete covert application that allows a user to remotely open a port on a firewall, communicate with a “disguised” backdoor. | https://github.com/MeCRO-DEV/BlueFish | 1 | 0| 
 | 20220208T07:10:38Z | A purposeful scamming program to backdoor a client PC. | https://github.com/divinirakiza/prizzer | 0 | 1| 
 | 20220208T06:52:21Z | official repository of python back door scam program | https://github.com/ntwari-egide/python-backdoor-scam-program | 0 | 0| 
 | 20220208T01:41:38Z | Backdoor Command Execution VSFTPD v2.3.4. | https://github.com/caique-garbim/VSFTPDv2.3.4-Exploit | 0 | 0| 
-| 20220207T19:50:13Z | simple python backdoor | https://github.com/ColeStrickler/Python-Backdoor | 0 | 0| 
-| 20220207T19:25:17Z | Null | https://github.com/grips1/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,16 +133,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220208T22:37:18Z | Null | https://github.com/mick-pear/fuzzy-dollop | 0 | 0| 
+| 20220208T22:35:29Z | Null | https://github.com/theapplegates/fuzzy-memory-new-gat | 0 | 0| 
+| 20220208T22:23:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7074 | 1494| 
+| 20220208T21:46:45Z | Null | https://github.com/TheWarmFuzzy/TheWarmFuzzy | 0 | 0| 
+| 20220208T17:10:16Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1188 | 49| 
 | 20220208T14:04:25Z | Null | https://github.com/duongtuan2603/FuzzyApp1 | 0 | 0| 
 | 20220208T13:48:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3934 | 919| 
 | 20220208T13:47:53Z | Null | https://github.com/nathanmaciel/fuzzy-palm-tree | 0 | 0| 
 | 20220208T12:47:05Z | Gtk-rs fuzzer to catch as many bugs as possible | https://github.com/qarmin/gtk-rs-fuzzer | 2 | 0| 
 | 20220208T11:50:26Z | repo for my class PW3 | https://github.com/Mezali/fuzzy-enigma | 0 | 0| 
-| 20220208T11:38:07Z | fuzzy logic using python without libraries (TR_tr: bulanık Mantık) | https://github.com/bturkoglu/fuzzy-logic-with-python | 0 | 0| 
-| 20220208T11:05:23Z | A microservice which eases fuzzy search on adressenregister. | https://github.com/lblod/adressenregister-fuzzy-search-service | 1 | 0| 
-| 20220208T10:28:04Z | Course project for the Fuzzy Sets subject at the Faculty of Mathematics and Informatics at the Sofia University | https://github.com/AlekBoninski/fuzzy-sets-course-project | 0 | 0| 
-| 20220208T09:56:12Z | P2P platform for publishing content, self-hosting, decentralized curation, and more. | https://github.com/FuzzrNet/Fuzzr | 26 | 3| 
-| 20220208T09:34:03Z | Designer colour | https://github.com/PLACID25/fuzzy-broccoli | 0 | 0| 
 
 
 
