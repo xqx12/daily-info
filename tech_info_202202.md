@@ -39,7 +39,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220209T02:51:19Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220209T03:00:24Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220209T02:45:45Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
 | 20220209T02:32:54Z | 未知编号 | Null | https://github.com/modubyk/CVE_2020_0601 | | 
 | 20220208T22:36:49Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/Pr0f3ssor/CVE-2021-4034-Pwnkit | | 
@@ -54,7 +54,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220209T00:38:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5023 | 182| 
+| 20220209T03:01:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5024 | 182| 
 | 20220208T23:44:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1883 | 536| 
 | 20220208T20:37:20Z | a vm for building and experimenting with klee | https://github.com/rchtsang/klee-vm | 0 | 0| 
 | 20220208T15:41:32Z | Config files for my GitHub profile. | https://github.com/TheKleeneCoder/TheKleeneCoder | 0 | 0| 
