@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220209T13:42:06Z | CVE-2021-42013 | Docker container lab to play/learn with CVE-2021-42013 | https://github.com/twseptian/CVE-2021-42013-Docker-Lab | | 
 | 20220209T13:38:21Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220209T09:46:43Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
 | 20220209T05:53:03Z | cve-2022-21877 | a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak) | https://github.com/Big5-sec/cve-2022-21877 | | 
@@ -55,7 +56,6 @@
 | 20220208T21:46:33Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
 | 20220208T21:24:56Z | CVE-2021-4034 | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | | 
 | 20220208T20:59:44Z | CVE-2021-4034 | Polkit pkexec CVE-2021-4034 Proof Of Concept and Patching | https://github.com/nobelh/CVE-2021-4034 | | 
-| 20220208T17:39:33Z | CVE-2020-35749 | Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit  | https://github.com/M4xSec/Wordpress-CVE-2020-35749 | | 
 
 
 # klee on Github 推荐
