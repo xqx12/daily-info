@@ -93,7 +93,6 @@
 | 20220208T23:44:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1883 | 536| 
 | 20220208T19:50:13Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 39 | 1| 
 | 20220208T18:45:24Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 194 | 11| 
-| 20220208T14:00:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2703 | 397| 
 | 20220208T01:40:19Z | malSET: An Automated Symbolic Execution Toolkit for  Assisting Malware Classification Systems | https://github.com/DanielHaugen/malSET | 1 | 0| 
 
 
