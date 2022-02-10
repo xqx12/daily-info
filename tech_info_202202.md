@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T13:02:47Z | My exploits with scripting languages:  Python, PHP, Ruby, etc | https://github.com/joehaffey/scripting | 0 | 0| 
 | 20220210T12:32:14Z | This program evaluates the association strength of the bug-inducing and bug-fixing commit pairs for the datasets in the paper %Exploring and Exploiting the Correlations between Bug-Inducing and Bug-Fixing Commits%.  The goal is to ascertain how reliable code change-based datasets are for software bug prediction.  The average association strengths evaluated to be 0.262, 0.086, 0.726 and 0.048 for Apache Accumulo, Apache Ambari, Apache Lucene and Apache Oozie, respectively and yielding a cumulative average association strength of 0.280.  So, in summary, the individual association strength values varied from project to project. However, the low cumulative average association strength indicates that code change-based datasets may not be as reliable as we think. So, the recommendation is that researchers conduct this experiment before using any code change-based dataset in their study. | https://github.com/chizzymeka/association-rule-mining-experiment | 0 | 0| 
 | 20220210T11:14:34Z | This directory contains the source code for implementing Random Linear Network Coding (RLNC) into Multi-Processor System-on-Chips (MPSoC). By exploiting data vectorization, we obtained latency and throughputs gains during the matrix multiplication operations. | https://github.com/jracevedob/RLNC_MPSoC | 0 | 0| 
 | 20220210T10:56:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10735 | 1860| 
@@ -97,7 +98,6 @@
 | 20220210T01:37:57Z | Code for our paper %Adaptively Exploiting d-Separators with Causal Bandits%. | https://github.com/blairbilodeau/adaptive-causal-bandits | 0 | 0| 
 | 20220210T00:15:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4331 | 576| 
 | 20220209T23:48:36Z | I dont know what this is but i intend to find out. once i achieve that. im going to exploit anyone i possibly can. thank you | https://github.com/gaveitmypaul/checkouttime | 0 | 0| 
-| 20220209T23:23:29Z | Null | https://github.com/KLKLNET/KLKL-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,13 +118,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T04:45:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1885 | 537| 
+| 20220210T04:19:37Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 44 | 1| 
+| 20220210T04:17:20Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 195 | 11| 
+| 20220210T03:59:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2705 | 397| 
 | 20220209T21:54:36Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 5 | 0| 
-| 20220209T19:36:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1884 | 536| 
 | 20220209T18:44:47Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 171 | 36| 
 | 20220209T18:39:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 670 | 69| 
-| 20220209T18:16:05Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 43 | 1| 
-| 20220209T17:26:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2704 | 397| 
-| 20220209T15:06:33Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 194 | 11| 
 | 20220208T01:40:19Z | malSET: An Automated Symbolic Execution Toolkit for  Assisting Malware Classification Systems | https://github.com/DanielHaugen/malSET | 1 | 0| 
 | 20220207T19:43:07Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 26 | 13| 
 | 20220206T10:54:28Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
@@ -149,8 +149,8 @@
 | 20220210T11:23:02Z | A clone of MozillaSecurity/FuzzManager 0.4.1 | https://github.com/uds-se/FuzzManager | 1 | 0| 
 | 20220210T11:21:45Z | Null | https://github.com/santiagocollomb/fuzzyfy-static | 0 | 0| 
 | 20220210T10:34:30Z | Null | https://github.com/LegendSaber/Fuzzy | 0 | 0| 
+| 20220210T10:20:56Z | Null | https://github.com/Karik197/fuzzy-robot | 0 | 0| 
 | 20220210T09:53:12Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2467 | 482| 
-| 20220210T08:33:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7077 | 1496| 
 
 
 
