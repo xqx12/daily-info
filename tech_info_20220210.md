@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220210T14:40:40Z | CVE-2022-20699 | Null | https://github.com/puckiestyle/CVE-2022-20699 | | 
 | 20220210T14:29:25Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220210T11:38:49Z | CVE-2021-26084 | CVE-2021-26084 Remote Code Execution on Confluence Servers | https://github.com/0xf4n9x/CVE-2021-26084 | | 
 | 20220210T06:01:08Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 

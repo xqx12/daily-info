@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220210T14:40:40Z | CVE-2022-20699 | Null | https://github.com/puckiestyle/CVE-2022-20699 | | 
 | 20220210T14:29:25Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220210T11:38:49Z | CVE-2021-26084 | CVE-2021-26084 Remote Code Execution on Confluence Servers | https://github.com/0xf4n9x/CVE-2021-26084 | | 
 | 20220210T06:01:08Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -55,7 +56,6 @@
 | 20220209T21:23:32Z | CVE-2020-7980 | PoC script that shows RCE vulnerability over Intellian Satellite controller | https://github.com/Xh4H/Satellian-CVE-2020-7980 | | 
 | 20220209T18:28:00Z | CVE-2022-24693 | Null | https://github.com/lukejenkins/CVE-2022-24693 | | 
 | 20220209T18:03:51Z | CVE-2022-24348 | Find similar issues like CVE-2022-24348 | https://github.com/jkroepke/CVE-2022-24348-2 | | 
-| 20220209T13:51:05Z | CVE-2021-42013 | Docker container lab to play/learn with CVE-2021-42013 | https://github.com/twseptian/CVE-2021-42013-Docker-Lab | | 
 
 
 # klee on Github 推荐
