@@ -15,6 +15,7 @@
 | 20220209 | SnapLoader - 利用 PssCaptureSnapshot 和 PssWalkSnapshot 实现的 Shellcode 注入和线程劫持 | https://gitlab.com/ORCA666/snaploader| 
 | 20220209 | Maddie Stone 在 OffensiveCon 2022 会议关于 2021 野外漏洞利用的总结 | https://github.com/maddiestone/ConPresentations/blob/master/OffensiveCon2022.RealWorld0days.pdf| 
 | 20220209 | SpoolFool - 今天微软又修复了一个 Windows Print Spooler 本地提权漏洞(CVE-2022–22718) | https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81?gif=true| 
+| 20220209 | 漫游螳螂(Roaming Mantis) 到达欧洲 | https://paper.seebug.org/1827/| 
 | 20220208 | James Forshaw 在 OffensiveCon 2022 会议关于 Kerberos Authentication Relaying 研究的分享 | https://github.com/tyranid/infosec-presentations/blob/master/OffensiveCon/2022/This%20are%20my%20principals.pdf| 
 | 20220208 | Attacking JavaScript Engines in 2022，来自 OffensiveCon 2022 会议 | https://saelo.github.io/presentations/offensivecon_22_attacking_javascript_engines.pdf| 
 | 20220208 | BeaconFuzz - Ethereum 2.0 区块链 Fuzz，来自 OffensiveCon 2022 会议 | http://fuzzinglabs.com/wp-content/uploads/2022/02/Beaconfuzz_OffensiveCon2022_patrick_ventuzelo.pdf| 
@@ -25,7 +26,6 @@
 | 20220208 | Java 反序列化漏洞研究前序: Transformer、动态代理与注解 | http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2022/01/30/java-dynamic-proxy-and-annotation| 
 | 20220208 | Pwn2Own Austin 2021 Samba 堆内存越界读写 RCE 漏洞的分析（CVE-2021-44142） | http://www.thezdi.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin| 
 | 20220208 | Hunting for Persistence in Linux (Part 5): Systemd Generators. | https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/| 
-| 20220208 | SoK: 浏览器安全分析. | https://paper.seebug.org/1818/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220209T13:53:09Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220210T00:59:20Z | cve-2022-21877 | a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak) | https://github.com/Big5-sec/cve-2022-21877 | | 
+| 20220209T23:46:01Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220209T21:23:32Z | CVE-2020-7980 | PoC script that shows RCE vulnerability over Intellian Satellite controller | https://github.com/Xh4H/Satellian-CVE-2020-7980 | | 
+| 20220209T18:28:00Z | CVE-2022-24693 | Null | https://github.com/lukejenkins/CVE-2022-24693 | | 
+| 20220209T18:03:51Z | CVE-2022-24348 | Find similar issues like CVE-2022-24348 | https://github.com/jkroepke/CVE-2022-24348-2 | | 
+| 20220209T15:10:56Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220209T13:51:05Z | CVE-2021-42013 | Docker container lab to play/learn with CVE-2021-42013 | https://github.com/twseptian/CVE-2021-42013-Docker-Lab | | 
 | 20220209T09:46:43Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
-| 20220209T05:53:03Z | cve-2022-21877 | a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak) | https://github.com/Big5-sec/cve-2022-21877 | | 
 | 20220209T02:32:54Z | 未知编号 | Null | https://github.com/modubyk/CVE_2020_0601 | | 
 | 20220209T02:21:08Z | CVE-2021-4034 | CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境 | https://github.com/EstamelGG/CVE-2021-4034-NoGCC | | 
-| 20220208T22:36:49Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/Pr0f3ssor/CVE-2021-4034-Pwnkit | | 
-| 20220208T21:46:33Z | CVE-2022-21882 | Null | https://github.com/L4ys/CVE-2022-21882 | | 
-| 20220208T21:24:56Z | CVE-2021-4034 | Polkit CVE-2021-4034 exploitation in High-Level Programming Language | https://github.com/Joffr3y/Polkit-CVE-2021-4034-HLP | | 
-| 20220208T20:59:44Z | CVE-2021-4034 | Polkit pkexec CVE-2021-4034 Proof Of Concept and Patching | https://github.com/nobelh/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220209T12:51:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5044 | 183| 
+| 20220210T00:42:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5046 | 183| 
+| 20220209T19:36:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1884 | 536| 
+| 20220209T18:39:11Z | IIPODAM rApA}I{! HeDoporo! | https://github.com/Cur1iosity/IIO4EMY_RegExp_Klee | 0 | 0| 
 | 20220209T06:03:19Z | Null | https://github.com/mrthat1996/klee-bugs-report | 0 | 0| 
-| 20220208T23:44:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1883 | 536| 
 | 20220208T20:37:20Z | a vm for building and experimenting with klee | https://github.com/rchtsang/klee-vm | 0 | 0| 
 | 20220208T15:41:32Z | Config files for my GitHub profile. | https://github.com/TheKleeneCoder/TheKleeneCoder | 0 | 0| 
 | 20220208T15:06:19Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 280 | 18| 
 | 20220208T14:51:29Z | Null | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
 | 20220207T14:08:21Z | Config files for my GitHub profile. | https://github.com/NikolaiKleev/NikolaiKleev | 0 | 0| 
 | 20220207T10:25:44Z | Null | https://github.com/Mustapha-AJEGHRIR/klee_project_audio | 1 | 0| 
-| 20220204T23:09:05Z | Config files for my GitHub profile. | https://github.com/KleemoffDeveloper/KleemoffDeveloper | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,21 +88,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T00:15:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4331 | 576| 
+| 20220209T23:48:36Z | I dont know what this is but i intend to find out. once i achieve that. im going to exploit anyone i possibly can. thank you | https://github.com/gaveitmypaul/checkouttime | 0 | 0| 
+| 20220209T23:23:29Z | Null | https://github.com/KLKLNET/KLKL-Exploit | 0 | 0| 
+| 20220209T21:42:57Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 26 | 1| 
+| 20220209T20:25:18Z | Browser exploitation v8 and sandbox escape challenges with solutions. | https://github.com/MaherAzzouzi/BrowserExploitation | 7 | 2| 
+| 20220209T20:16:24Z | Null | https://github.com/EXtremeExploit/EXtremeExploit | 0 | 0| 
+| 20220209T19:53:36Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1446 | 201| 
+| 20220209T18:08:55Z | Improved version of DarkmodderVC%s offline exploit,  | https://github.com/psfargo/neptune | 0 | 0| 
+| 20220209T16:01:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10736 | 1859| 
 | 20220209T13:44:28Z | Improved version of DarkmodderVC%s offline exploit,  | https://github.com/psfargo/darkmodder | 0 | 0| 
-| 20220209T13:43:04Z | Introduction to information security, exploiting a vulnerable ISO. | https://github.com/kibotrel/42-SnowCrash | 0 | 0| 
-| 20220209T13:28:56Z | Introduction to information security, exploiting a vulnerable ISO. | https://github.com/kibotrel/42-Snowcrash | 0 | 0| 
-| 20220209T13:20:54Z | Codism provides Golang Development Company for clients who do not get into the entrenched code base and yet went to gain from the high-end functionalities of a programming language. Golang, as a programming language for software products and this web platforms is ideal for startups and small to medium business.  Use of Golang has dual benefits for such enterprises. One, it is widely appreciated and regarded by the companies who are already doing well in the market. Two, companies that primarily use Golang development in their technology stack are more likely to acquire such an enterprise. Therefore, the choice of Golang as a programming language for the products and services of a budding company is decisive to the success of the company.  Key Offerings Over the years, Golang Development Company has proved to be a comparatively faster and more efficient programming language for a number of microservices. It is the kind of software and web development technology where the client wants to get the task done in a very short time frame and does not want too into the minute details related to coding.  Golang Development Company at Codism, after having successfully completed several projects on the platform, have proven to be excellent. Over the years, we have developed an expertise in creating remarkable IT products using Golang Web Development. That’s also the reason why our clients keep coming back to us for their more Golang projects.  Benefits of Golang Development Golang as a programming language offers a string of benefits, and it’s important to exploit them to the full potential to create products for client from various domains that, these products are world class. To know more: https://codism.io/services/hire-golang-web-development-services-company-india/ | https://github.com/Codism66/Hire-Golang-Web-Development-Services-by-Codism | 0 | 0| 
-| 20220209T11:26:29Z | Tool designed for exploiting with a Rojo-based workflow | https://github.com/richie0866/rbxm-suite | 2 | 1| 
-| 20220209T11:24:01Z | A modern exploiting solution, built for Roblox and Rojo | https://github.com/richie0866/Rostruct | 6 | 1| 
-| 20220209T11:15:03Z | My exploit scripts and vulnserver walkthrough | https://github.com/AidenPearce369/Vulnserver-Walkthrough | 0 | 0| 
-| 20220209T10:49:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10734 | 1858| 
-| 20220209T10:44:09Z | Roblox scripts used in exploiting roblox | https://github.com/Maks1116/roblox-exploit-scripts | 1 | 1| 
-| 20220209T10:42:14Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 46 | 21| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220209T20:18:27Z | An adversarial killchain walkthrough focusing on malware development | https://github.com/bakarilevy/TheKillchain | 1 | 1| 
 | 20220209T07:19:49Z | This is the source code for Data-free Backdoor. | https://github.com/yangyunfei16/Data-free-Backdoor | 0 | 0| 
 | 20220209T05:04:29Z | official repository of python back door scam program | https://github.com/ntwari-egide/python-backdoor-scam-program | 1 | 0| 
 | 20220209T02:40:10Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 77 | 16| 
@@ -112,7 +113,6 @@
 | 20220208T13:55:08Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 27 | 3| 
 | 20220208T12:44:53Z | Null | https://github.com/KATERGaming/Backdoor.exe | 0 | 0| 
 | 20220208T11:56:37Z | Take the Keys, unlock the backdoor,  Enter the House | https://github.com/SauveJeanLuc/backdoor-keys | 6 | 0| 
-| 20220208T09:39:10Z | BlueFish is a complete covert application that allows a user to remotely open a port on a firewall, communicate with a “disguised” backdoor. | https://github.com/MeCRO-DEV/BlueFish | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T00:29:02Z | Null | https://github.com/jtsmithv/fuzzy-adventure | 0 | 0| 
+| 20220209T23:00:05Z | Null | https://github.com/OtavioArruda/fuzzy-potato | 1 | 0| 
+| 20220209T22:42:23Z | Null | https://github.com/Buciak551/15.fuzzy-funicular | 1 | 0| 
+| 20220209T22:15:00Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1188 | 49| 
+| 20220209T22:10:35Z | Null | https://github.com/Srishail123/fuzzy-octo-system | 0 | 0| 
+| 20220209T21:29:30Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1150 | 88| 
 | 20220209T13:57:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1020 | 151| 
 | 20220209T13:10:09Z | Chapter 4 code_Project_17 The second part 2 of %The Arduino World Book% code_Project_17 Fuzzy Logic (Mamdani) with Arduino Project | https://github.com/FarkadAdnan/Project-17-Fuzzy-Logic-Mamdani-with-Arduino-Project | 1 | 0| 
+| 20220209T12:43:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1476 | 163| 
 | 20220209T11:51:37Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 79 | 9| 
-| 20220209T09:26:39Z | Null | https://github.com/nkiraikova/fuzzy-logic | 0 | 0| 
-| 20220209T09:23:03Z | Null | https://github.com/nilswiersma/fuzzing-101-wip | 0 | 0| 
-| 20220209T09:10:41Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1552 | 319| 
-| 20220209T01:55:57Z | Onmi | https://github.com/Deweloper94/fuzzy--y-k- | 0 | 0| 
-| 20220209T01:15:46Z | Config files for my GitHub profile. | https://github.com/Fixid-Fuzz/Fixid-Fuzz | 0 | 0| 
-| 20220208T22:37:18Z | Null | https://github.com/mick-pear/fuzzy-dollop | 0 | 0| 
-| 20220208T22:35:29Z | Null | https://github.com/theapplegates/fuzzy-memory-new-gat | 0 | 0| 
 
 
 
