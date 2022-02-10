@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T14:19:17Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecWordlist | 1 | 0| 
 | 20220210T14:13:06Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 684 | 84| 
 | 20220210T14:10:38Z | Null | https://github.com/santiagocollomb/fuzzyfy | 0 | 0| 
 | 20220210T13:22:34Z | Config files for my GitHub profile. | https://github.com/FuzzzMind/FuzzzMind | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220210T12:27:10Z | Good Wordlist For Sql Injection Fuzzing | https://github.com/Steiner-254/db.txt | 0 | 0| 
 | 20220210T11:36:39Z | Null | https://github.com/OtavioArruda/fuzzy-potato | 3 | 0| 
 | 20220210T11:28:37Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 682 | 143| 
-| 20220210T11:23:02Z | A clone of MozillaSecurity/FuzzManager 0.4.1 | https://github.com/uds-se/FuzzManager | 1 | 0| 
 
 
 
