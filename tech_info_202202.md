@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T14:17:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5055 | 182| 
 | 20220210T13:04:40Z | Personal TF2 HUD edit, derrived from e.v.e HUD and ToonHUD. | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
-| 20220210T11:11:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5053 | 182| 
 | 20220210T09:18:01Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220210T04:45:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1885 | 537| 
 | 20220209T18:39:11Z | IIPODAM rApA}I{! HeDoporo! | https://github.com/Cur1iosity/IIO4EMY_RegExp_Klee | 0 | 0| 
@@ -103,8 +103,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T13:22:07Z | An adversarial killchain walkthrough focusing on malware development | https://github.com/bakarilevy/TheKillchain | 2 | 1| 
 | 20220210T10:38:20Z | Implementation of Label Smoothed Backdoor Attack | https://github.com/v-mipeng/LabelSmoothedAttack | 0 | 0| 
-| 20220209T20:18:27Z | An adversarial killchain walkthrough focusing on malware development | https://github.com/bakarilevy/TheKillchain | 1 | 1| 
 | 20220209T07:19:49Z | This is the source code for Data-free Backdoor. | https://github.com/yangyunfei16/Data-free-Backdoor | 0 | 0| 
 | 20220209T05:04:29Z | official repository of python back door scam program | https://github.com/ntwari-egide/python-backdoor-scam-program | 1 | 0| 
 | 20220209T02:40:10Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 77 | 16| 
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220210T12:57:24Z | Config files for my GitHub profile. | https://github.com/FuzzzMind/FuzzzMind | 0 | 0| 
+| 20220210T14:13:06Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 684 | 84| 
+| 20220210T14:10:38Z | Null | https://github.com/santiagocollomb/fuzzyfy | 0 | 0| 
+| 20220210T13:22:34Z | Config files for my GitHub profile. | https://github.com/FuzzzMind/FuzzzMind | 0 | 0| 
+| 20220210T13:17:28Z | Config files for my GitHub profile. | https://github.com/FuzzzMind/FuzzyMind | 0 | 0| 
 | 20220210T12:57:14Z | Null | https://github.com/Fibonacci1664/FuzzyLiteProject_MAT_301_AI | 0 | 0| 
 | 20220210T12:35:35Z | SQL Project : Where I have been hired as an E-Commerce Database Analyst for Maven Fuzzy Factory | https://github.com/subratasubro/Maven-Fuzzy-Factory | 0 | 0| 
 | 20220210T12:27:10Z | Good Wordlist For Sql Injection Fuzzing | https://github.com/Steiner-254/db.txt | 0 | 0| 
 | 20220210T11:36:39Z | Null | https://github.com/OtavioArruda/fuzzy-potato | 3 | 0| 
+| 20220210T11:28:37Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 682 | 143| 
 | 20220210T11:23:02Z | A clone of MozillaSecurity/FuzzManager 0.4.1 | https://github.com/uds-se/FuzzManager | 1 | 0| 
-| 20220210T11:21:45Z | Null | https://github.com/santiagocollomb/fuzzyfy-static | 0 | 0| 
-| 20220210T10:34:30Z | Null | https://github.com/LegendSaber/Fuzzy | 0 | 0| 
-| 20220210T10:20:56Z | Null | https://github.com/Karik197/fuzzy-robot | 0 | 0| 
-| 20220210T09:53:12Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2467 | 482| 
 
 
 
