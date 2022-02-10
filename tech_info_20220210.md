@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220210T13:07:01Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220210T14:29:25Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220210T11:38:49Z | CVE-2021-26084 | CVE-2021-26084 Remote Code Execution on Confluence Servers | https://github.com/0xf4n9x/CVE-2021-26084 | | 
 | 20220210T06:01:08Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220210T03:55:59Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
@@ -43,6 +43,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T14:35:56Z | Null | https://github.com/klee016/klee016.github.io | 0 | 0| 
 | 20220210T14:17:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5055 | 182| 
 | 20220210T13:04:40Z | Personal TF2 HUD edit, derrived from e.v.e HUD and ToonHUD. | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
 | 20220210T09:18:01Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
@@ -92,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T14:27:40Z | Null | https://github.com/OtavioArruda/fuzzy-potato | 4 | 0| 
 | 20220210T14:19:17Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecWordlist | 1 | 0| 
 | 20220210T14:13:06Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 684 | 84| 
 | 20220210T14:10:38Z | Null | https://github.com/santiagocollomb/fuzzyfy | 0 | 0| 
@@ -100,7 +102,6 @@
 | 20220210T12:57:14Z | Null | https://github.com/Fibonacci1664/FuzzyLiteProject_MAT_301_AI | 0 | 0| 
 | 20220210T12:35:35Z | SQL Project : Where I have been hired as an E-Commerce Database Analyst for Maven Fuzzy Factory | https://github.com/subratasubro/Maven-Fuzzy-Factory | 0 | 0| 
 | 20220210T12:27:10Z | Good Wordlist For Sql Injection Fuzzing | https://github.com/Steiner-254/db.txt | 0 | 0| 
-| 20220210T11:36:39Z | Null | https://github.com/OtavioArruda/fuzzy-potato | 3 | 0| 
 | 20220210T11:28:37Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 682 | 143| 
 
 
