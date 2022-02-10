@@ -27,7 +27,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220209T23:46:01Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220209T21:23:32Z | CVE-2020-7980 | PoC script that shows RCE vulnerability over Intellian Satellite controller | https://github.com/Xh4H/Satellian-CVE-2020-7980 | | 
 | 20220209T18:28:00Z | CVE-2022-24693 | Null | https://github.com/lukejenkins/CVE-2022-24693 | | 
 | 20220209T18:03:51Z | CVE-2022-24348 | Find similar issues like CVE-2022-24348 | https://github.com/jkroepke/CVE-2022-24348-2 | | 
