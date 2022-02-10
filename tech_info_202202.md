@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T01:13:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10735 | 1859| 
 | 20220210T00:15:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4331 | 576| 
 | 20220209T23:48:36Z | I dont know what this is but i intend to find out. once i achieve that. im going to exploit anyone i possibly can. thank you | https://github.com/gaveitmypaul/checkouttime | 0 | 0| 
 | 20220209T23:23:29Z | Null | https://github.com/KLKLNET/KLKL-Exploit | 0 | 0| 
@@ -96,8 +97,7 @@
 | 20220209T20:16:24Z | Null | https://github.com/EXtremeExploit/EXtremeExploit | 0 | 0| 
 | 20220209T19:53:36Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo for linux privilege escalation. | https://github.com/TH3xACE/SUDO_KILLER | 1446 | 201| 
 | 20220209T18:08:55Z | Improved version of DarkmodderVC%s offline exploit,  | https://github.com/psfargo/neptune | 0 | 0| 
-| 20220209T16:01:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10736 | 1859| 
-| 20220209T13:44:28Z | Improved version of DarkmodderVC%s offline exploit,  | https://github.com/psfargo/darkmodder | 0 | 0| 
+| 20220209T16:14:35Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 32 | 10| 
 
 
 # backdoor on Github 推荐
