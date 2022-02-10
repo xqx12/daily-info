@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T02:57:47Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 36846 | 18951| 
 | 20220210T01:48:57Z | Null | https://github.com/RayRay123-99/fuzzy-c-means | 0 | 0| 
 | 20220210T01:46:26Z | Config files for my GitHub profile. | https://github.com/fuzzGG/fuzzGG | 0 | 0| 
 | 20220210T01:36:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7076 | 1496| 
@@ -150,7 +151,6 @@
 | 20220209T22:15:00Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1188 | 49| 
 | 20220209T22:10:35Z | Null | https://github.com/Srishail123/fuzzy-octo-system | 0 | 0| 
 | 20220209T21:29:30Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1150 | 88| 
-| 20220209T13:57:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1020 | 151| 
 
 
 
