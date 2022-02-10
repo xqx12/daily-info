@@ -14,6 +14,8 @@
 | 20220210 | What are Weak Links in the npm Supply Chain? | https://arxiv.org/pdf/2112.10165.pdf| 
 | 20220210 | A Python based ingestor for BloodHound | https://github.com/fox-it/BloodHound.py| 
 | 20220210 | 通过 patch diff 的方法分析 Windows Storage Spaces Controller 的信息泄露漏洞（CVE-2022-21877） | https://big5-sec.github.io/posts/an-analysis-of-cve-2022-21877/| 
+| 20220210 | Realworldctf 2022 hso writeup与nso iMessage 0click漏洞分析. | http://eternalsakura13.com/2022/02/10/hso/| 
+| 20220210 | glibc 中偏门利用技巧. | https://tttang.com/archive/1429/| 
 
 
 # 安全维基 推荐

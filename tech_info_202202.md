@@ -14,6 +14,8 @@
 | 20220210 | What are Weak Links in the npm Supply Chain? | https://arxiv.org/pdf/2112.10165.pdf| 
 | 20220210 | A Python based ingestor for BloodHound | https://github.com/fox-it/BloodHound.py| 
 | 20220210 | 通过 patch diff 的方法分析 Windows Storage Spaces Controller 的信息泄露漏洞（CVE-2022-21877） | https://big5-sec.github.io/posts/an-analysis-of-cve-2022-21877/| 
+| 20220210 | Realworldctf 2022 hso writeup与nso iMessage 0click漏洞分析. | http://eternalsakura13.com/2022/02/10/hso/| 
+| 20220210 | glibc 中偏门利用技巧. | https://tttang.com/archive/1429/| 
 | 20220209 | Exploring Windows UAC Bypasses: Techniques and Detection Strategies | https://elastic.github.io/security-research/whitepapers/2022/02/03.exploring-windows-uac-bypass-techniques-detection-strategies/article/| 
 | 20220209 | Advanced Process Injection Workshop，Windows 进程注入实验环境 | https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop| 
 | 20220209 | 因遭受网络攻击，沃达丰在葡萄牙的 4G、5G 服务被迫中断 | https://www.bleepingcomputer.com/news/security/vodafone-portugal-4g-and-5g-services-down-after-cyberattack/| 
@@ -24,8 +26,6 @@
 | 20220209 | Maddie Stone 在 OffensiveCon 2022 会议关于 2021 野外漏洞利用的总结 | https://github.com/maddiestone/ConPresentations/blob/master/OffensiveCon2022.RealWorld0days.pdf| 
 | 20220209 | SpoolFool - 今天微软又修复了一个 Windows Print Spooler 本地提权漏洞(CVE-2022–22718) | https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81?gif=true| 
 | 20220209 | 漫游螳螂(Roaming Mantis) 到达欧洲 | https://paper.seebug.org/1827/| 
-| 20220208 | James Forshaw 在 OffensiveCon 2022 会议关于 Kerberos Authentication Relaying 研究的分享 | https://github.com/tyranid/infosec-presentations/blob/master/OffensiveCon/2022/This%20are%20my%20principals.pdf| 
-| 20220208 | Attacking JavaScript Engines in 2022，来自 OffensiveCon 2022 会议 | https://saelo.github.io/presentations/offensivecon_22_attacking_javascript_engines.pdf| 
 
 
 # 安全维基 推荐
