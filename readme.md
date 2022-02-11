@@ -97,8 +97,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T14:22:01Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 1 | 0| 
 | 20220211T14:13:02Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 45 | 11| 
-| 20220211T14:09:06Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 0 | 0| 
 | 20220211T13:56:11Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1030 | 151| 
 | 20220211T13:12:37Z | Null | https://github.com/mgriebling/FuzzyLogic | 0 | 0| 
 | 20220211T12:27:43Z | Null | https://github.com/MikeOwino/fuzzy-happiness | 0 | 0| 
