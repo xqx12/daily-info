@@ -78,6 +78,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T06:06:30Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
+| 20220211T04:43:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2704 | 397| 
 | 20220211T02:16:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 19 | 5| 
 | 20220211T02:02:31Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1143 | 48| 
 
