@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T14:01:58Z | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | 0 | 0| 
 | 20220211T12:59:09Z | Code accompanying the paper %A phase I study of a novel glioblastoma radiation therapy schedule exploiting cell-state plasticity%. | https://github.com/jamiedean/glioblastoma-radiation-therapy-schedule | 0 | 0| 
 | 20220211T12:27:01Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 661 | 150| 
 | 20220211T12:22:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10743 | 1864| 
@@ -65,14 +66,14 @@
 | 20220211T11:05:06Z | Null | https://github.com/dfotis/precompiled_exploits | 0 | 0| 
 | 20220211T10:56:15Z | This program evaluates the association strength of the bug-inducing and bug-fixing commit pairs for the datasets in the paper %Exploring and Exploiting the Correlations between Bug-Inducing and Bug-Fixing Commits%.  The goal is to ascertain how reliable code change-based datasets are for software bug prediction.  The average association strengths evaluated to be 0.262, 0.086, 0.726 and 0.048 for Apache Accumulo, Apache Ambari, Apache Lucene and Apache Oozie, respectively and yielding a cumulative average association strength of 0.280.  So, in summary, the individual association strength values varied from project to project. However, the low cumulative average association strength indicates that code change-based datasets may not be as reliable as we think. So, the recommendation is that researchers conduct this experiment before using any code change-based dataset in their study. | https://github.com/chizzymeka/association-rule-mining-experiment | 0 | 0| 
 | 20220211T10:23:46Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 1282 | 189| 
-| 20220211T10:18:35Z | 蜜罐搜集的爆破字典 | https://github.com/Dragon-yy/SSH-exploit-dictionary | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T14:10:51Z | It can get access to any device . its a RAT.  modify and give a victim. | https://github.com/sandunjeewantha/Backdoor | 3 | 0| 
+| 20220211T14:06:56Z | Null | https://github.com/sSpicey/spice-backdoor | 0 | 0| 
 | 20220211T13:39:08Z | Null | https://github.com/THUYimingLi/BackdoorBox | 13 | 9| 
-| 20220211T12:20:56Z | It can get access to any device . its a RAT.  modify and give a victim. | https://github.com/sandunjeewantha/Backdoor | 2 | 0| 
 | 20220211T11:40:02Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 322 | 64| 
 | 20220211T11:33:45Z | Rxploit | https://github.com/JosephFrankFir/Rxploit | 3 | 0| 
 | 20220211T09:52:10Z | Null | https://github.com/OscarIsorez/backdoor | 0 | 0| 
@@ -96,8 +97,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T14:13:02Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 45 | 11| 
+| 20220211T14:09:06Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 0 | 0| 
 | 20220211T13:56:11Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1030 | 151| 
-| 20220211T13:41:33Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 1 | 0| 
 | 20220211T13:12:37Z | Null | https://github.com/mgriebling/FuzzyLogic | 0 | 0| 
 | 20220211T12:27:43Z | Null | https://github.com/MikeOwino/fuzzy-happiness | 0 | 0| 
 | 20220211T12:25:15Z | CMP304 AI Week 2 Lab  | https://github.com/1900594/CMP304-AI-WK2-Fuzzy_Logic | 0 | 0| 
@@ -105,7 +107,6 @@
 | 20220211T10:14:21Z | Null | https://github.com/snillosh/Fuzz-Emulation | 0 | 0| 
 | 20220211T09:15:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7081 | 1497| 
 | 20220211T09:15:28Z | Gtk-rs fuzzer to catch as many bugs as possible | https://github.com/qarmin/gtk-rs-fuzzer | 3 | 0| 
-| 20220211T08:31:55Z | Use Jazzer to perform fuzzy testing of Apache Tika | https://github.com/centic9/tika-fuzz | 1 | 0| 
 
 
 
