@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T13:12:37Z | Null | https://github.com/mgriebling/FuzzyLogic | 0 | 0| 
 | 20220211T12:27:43Z | Null | https://github.com/MikeOwino/fuzzy-happiness | 0 | 0| 
 | 20220211T12:25:15Z | CMP304 AI Week 2 Lab  | https://github.com/1900594/CMP304-AI-WK2-Fuzzy_Logic | 0 | 0| 
 | 20220211T11:40:20Z | Null | https://github.com/1901881/CMP304-AI_Week_2_Fuzzy_Logic | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220211T08:31:55Z | Use Jazzer to perform fuzzy testing of Apache Tika | https://github.com/centic9/tika-fuzz | 1 | 0| 
 | 20220211T05:21:08Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1190 | 51| 
 | 20220211T04:53:07Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 489 | 46| 
-| 20220211T02:56:11Z | Null | https://github.com/fuzzydeep/fuzzydeep | 0 | 0| 
 
 
 
