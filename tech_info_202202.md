@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220211T00:50:33Z | cve-2022-21877 | a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak) | https://github.com/Big5-sec/cve-2022-21877 | | 
+| 20220211T00:01:46Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220210T19:02:47Z | CVE-2021-4045 | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | | 
 | 20220210T14:40:40Z | CVE-2022-20699 | Null | https://github.com/puckiestyle/CVE-2022-20699 | | 
-| 20220210T14:29:25Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220210T11:38:49Z | CVE-2021-26084 | CVE-2021-26084 Remote Code Execution on Confluence Servers | https://github.com/0xf4n9x/CVE-2021-26084 | | 
 | 20220210T06:01:08Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220210T03:55:59Z | cve-2022-21882 | lpe poc for cve-2022-21882  | https://github.com/sailay1996/cve-2022-21882-poc | | 
 | 20220210T03:03:33Z | CVE-2021-4034 | CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境 | https://github.com/EstamelGG/CVE-2021-4034-NoGCC | | 
-| 20220210T00:59:20Z | cve-2022-21877 | a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak) | https://github.com/Big5-sec/cve-2022-21877 | | 
 | 20220209T21:23:32Z | CVE-2020-7980 | PoC script that shows RCE vulnerability over Intellian Satellite controller | https://github.com/Xh4H/Satellian-CVE-2020-7980 | | 
 | 20220209T18:28:00Z | CVE-2022-24693 | Null | https://github.com/lukejenkins/CVE-2022-24693 | | 
-| 20220209T18:03:51Z | CVE-2022-24348 | Find similar issues like CVE-2022-24348 | https://github.com/jkroepke/CVE-2022-24348-2 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T00:56:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5057 | 182| 
+| 20220210T19:22:29Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
+| 20220210T15:40:07Z | Null | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
+| 20220210T15:31:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1886 | 537| 
 | 20220210T14:35:56Z | Null | https://github.com/klee016/klee016.github.io | 0 | 0| 
-| 20220210T14:17:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5055 | 182| 
-| 20220210T13:04:40Z | Personal TF2 HUD edit, derrived from e.v.e HUD and ToonHUD. | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
-| 20220210T09:18:01Z | A static website served by GitHub Pages, made by Klee mains! Boom boom bakudan! | https://github.com/ESL313/kleemains | 0 | 0| 
-| 20220210T04:45:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1885 | 537| 
 | 20220209T18:39:11Z | IIPODAM rApA}I{! HeDoporo! | https://github.com/Cur1iosity/IIO4EMY_RegExp_Klee | 0 | 0| 
 | 20220209T06:03:19Z | Null | https://github.com/mrthat1996/klee-bugs-report | 0 | 0| 
 | 20220208T20:37:20Z | a vm for building and experimenting with klee | https://github.com/rchtsang/klee-vm | 0 | 0| 
@@ -88,21 +88,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T00:01:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10738 | 1862| 
+| 20220211T00:00:47Z | Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect | https://github.com/0xDezzy/CVE-2019-11539 | 125 | 38| 
+| 20220210T21:35:46Z | Red-Rabbit is a ethical/unethical hacking platform to give people exactly what they need to understand the concepts of hacking and cyber security, this framework brings a whole new identity to the term `old` featuring tools to exploit older and newer services or system executions like file path pillaging | https://github.com/ArkAngeL43/Red-Rabbit-V5 | 40 | 7| 
+| 20220210T19:02:47Z | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | 0 | 0| 
 | 20220210T13:02:47Z | My exploits with scripting languages:  Python, PHP, Ruby, etc | https://github.com/joehaffey/scripting | 0 | 0| 
 | 20220210T12:32:14Z | This program evaluates the association strength of the bug-inducing and bug-fixing commit pairs for the datasets in the paper %Exploring and Exploiting the Correlations between Bug-Inducing and Bug-Fixing Commits%.  The goal is to ascertain how reliable code change-based datasets are for software bug prediction.  The average association strengths evaluated to be 0.262, 0.086, 0.726 and 0.048 for Apache Accumulo, Apache Ambari, Apache Lucene and Apache Oozie, respectively and yielding a cumulative average association strength of 0.280.  So, in summary, the individual association strength values varied from project to project. However, the low cumulative average association strength indicates that code change-based datasets may not be as reliable as we think. So, the recommendation is that researchers conduct this experiment before using any code change-based dataset in their study. | https://github.com/chizzymeka/association-rule-mining-experiment | 0 | 0| 
 | 20220210T11:14:34Z | This directory contains the source code for implementing Random Linear Network Coding (RLNC) into Multi-Processor System-on-Chips (MPSoC). By exploiting data vectorization, we obtained latency and throughputs gains during the matrix multiplication operations. | https://github.com/jracevedob/RLNC_MPSoC | 0 | 0| 
-| 20220210T10:56:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10735 | 1860| 
 | 20220210T10:43:12Z | Exploit a smart contract that uses a %random% function to decide how many token to mint | https://github.com/RegoNoShi/RIPTokenExploit | 0 | 0| 
+| 20220210T05:55:21Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 128 | 41| 
 | 20220210T05:22:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 303 | 95| 
-| 20220210T02:10:43Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 34 | 12| 
-| 20220210T01:37:57Z | Code for our paper %Adaptively Exploiting d-Separators with Causal Bandits%. | https://github.com/blairbilodeau/adaptive-causal-bandits | 0 | 0| 
-| 20220210T00:15:37Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4331 | 576| 
-| 20220209T23:48:36Z | I dont know what this is but i intend to find out. once i achieve that. im going to exploit anyone i possibly can. thank you | https://github.com/gaveitmypaul/checkouttime | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T21:35:19Z | Null | https://github.com/0xSkorpioN/Client-Server_Backdoor | 0 | 0| 
+| 20220210T19:45:50Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 321 | 64| 
+| 20220210T19:18:30Z | script de mierda que se promociona como un %BACKDOOR% que podes usar en todos los juegos cuando solo podes usarlo en skids que hayan ejecutado sus scripts infectados kek | https://github.com/mogolicoo/mxfvcker-cracked | 1 | 0| 
 | 20220210T13:22:07Z | An adversarial killchain walkthrough focusing on malware development | https://github.com/bakarilevy/TheKillchain | 2 | 1| 
 | 20220210T10:38:20Z | Implementation of Label Smoothed Backdoor Attack | https://github.com/v-mipeng/LabelSmoothedAttack | 0 | 0| 
 | 20220209T07:19:49Z | This is the source code for Data-free Backdoor. | https://github.com/yangyunfei16/Data-free-Backdoor | 0 | 0| 
@@ -110,9 +113,6 @@
 | 20220209T02:40:10Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 77 | 16| 
 | 20220209T02:14:28Z | This is not made to be abused, and I%m sure it%s going to get caught by windows defender. Don%t even think about abusing it. | https://github.com/Hanheum/ultimate_backdoor | 0 | 0| 
 | 20220208T18:58:51Z | Un backdoor (ou porte dérobée) avec TCP | https://github.com/jjjeanmax/TCP-Backdoor | 0 | 0| 
-| 20220208T18:05:51Z | a backdoor written in python | https://github.com/ColeStrickler/Python-Backdoor | 0 | 0| 
-| 20220208T13:55:08Z | Yet Another PHP Shell | https://github.com/Nickguitar/YAPS | 27 | 3| 
-| 20220208T12:44:53Z | Null | https://github.com/KATERGaming/Backdoor.exe | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
