@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220211T13:26:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2703 | 397| 
+| 20220211T14:15:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2704 | 397| 
 | 20220211T13:13:31Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220211T06:06:30Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
 | 20220211T02:16:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 19 | 5| 
