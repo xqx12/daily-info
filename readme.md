@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T13:37:12Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 0 | 0| 
 | 20220211T13:12:37Z | Null | https://github.com/mgriebling/FuzzyLogic | 0 | 0| 
 | 20220211T12:27:43Z | Null | https://github.com/MikeOwino/fuzzy-happiness | 0 | 0| 
 | 20220211T12:25:15Z | CMP304 AI Week 2 Lab  | https://github.com/1900594/CMP304-AI-WK2-Fuzzy_Logic | 0 | 0| 
@@ -103,8 +104,7 @@
 | 20220211T09:15:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7081 | 1497| 
 | 20220211T09:15:28Z | Gtk-rs fuzzer to catch as many bugs as possible | https://github.com/qarmin/gtk-rs-fuzzer | 3 | 0| 
 | 20220211T08:31:55Z | Use Jazzer to perform fuzzy testing of Apache Tika | https://github.com/centic9/tika-fuzz | 1 | 0| 
-| 20220211T05:21:08Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1190 | 51| 
-| 20220211T04:53:07Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 489 | 46| 
+| 20220211T06:06:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 764 | 76| 
 
 
 

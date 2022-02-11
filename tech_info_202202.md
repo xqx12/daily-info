@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T13:32:09Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220211T13:14:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5083 | 182| 
-| 20220211T13:00:04Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 0 | 0| 
 | 20220211T08:05:26Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 284 | 18| 
 | 20220210T15:40:07Z | Null | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
 | 20220210T15:31:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1886 | 537| 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T13:37:12Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 0 | 0| 
 | 20220211T13:12:37Z | Null | https://github.com/mgriebling/FuzzyLogic | 0 | 0| 
 | 20220211T12:27:43Z | Null | https://github.com/MikeOwino/fuzzy-happiness | 0 | 0| 
 | 20220211T12:25:15Z | CMP304 AI Week 2 Lab  | https://github.com/1900594/CMP304-AI-WK2-Fuzzy_Logic | 0 | 0| 
@@ -149,8 +150,7 @@
 | 20220211T09:15:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7081 | 1497| 
 | 20220211T09:15:28Z | Gtk-rs fuzzer to catch as many bugs as possible | https://github.com/qarmin/gtk-rs-fuzzer | 3 | 0| 
 | 20220211T08:31:55Z | Use Jazzer to perform fuzzy testing of Apache Tika | https://github.com/centic9/tika-fuzz | 1 | 0| 
-| 20220211T05:21:08Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1190 | 51| 
-| 20220211T04:53:07Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 489 | 46| 
+| 20220211T06:06:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 764 | 76| 
 
 
 
