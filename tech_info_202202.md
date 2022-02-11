@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T02:02:31Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1143 | 48| 
 | 20220210T15:31:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1886 | 537| 
 | 20220210T04:19:37Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 44 | 1| 
 | 20220210T04:17:20Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 195 | 11| 
@@ -127,7 +128,6 @@
 | 20220209T18:39:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 670 | 70| 
 | 20220208T01:40:19Z | malSET: An Automated Symbolic Execution Toolkit for  Assisting Malware Classification Systems | https://github.com/DanielHaugen/malSET | 1 | 0| 
 | 20220207T19:43:07Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 26 | 13| 
-| 20220206T10:54:28Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 
 
 # big4 on Github 推荐
