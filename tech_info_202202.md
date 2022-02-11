@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T13:13:31Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220211T06:06:30Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
 | 20220211T04:43:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2704 | 397| 
 | 20220211T02:16:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 19 | 5| 
@@ -127,7 +128,6 @@
 | 20220210T04:17:20Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 195 | 11| 
 | 20220209T21:54:36Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 5 | 0| 
 | 20220209T18:44:47Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 171 | 36| 
-| 20220209T18:39:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 670 | 70| 
 
 
 # big4 on Github 推荐
