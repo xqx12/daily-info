@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220211T01:05:11Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
+| 20220211T01:18:16Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
 | 20220211T00:50:33Z | cve-2022-21877 | a demonstration PoC for CVE-2022-21877 (storage spaces controller memory leak) | https://github.com/Big5-sec/cve-2022-21877 | | 
 | 20220210T19:02:47Z | CVE-2021-4045 | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | | 
 | 20220210T14:40:40Z | CVE-2022-20699 | Null | https://github.com/puckiestyle/CVE-2022-20699 | | 
@@ -91,13 +91,13 @@
 | 20220211T00:01:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10738 | 1862| 
 | 20220211T00:00:47Z | Exploit for the Post-Auth RCE vulnerability in Pulse Secure Connect | https://github.com/0xDezzy/CVE-2019-11539 | 125 | 38| 
 | 20220210T21:35:46Z | Red-Rabbit is a ethical/unethical hacking platform to give people exactly what they need to understand the concepts of hacking and cyber security, this framework brings a whole new identity to the term `old` featuring tools to exploit older and newer services or system executions like file path pillaging | https://github.com/ArkAngeL43/Red-Rabbit-V5 | 40 | 7| 
+| 20220210T20:53:43Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 729 | 125| 
 | 20220210T19:02:47Z | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | 0 | 0| 
 | 20220210T13:02:47Z | My exploits with scripting languages:  Python, PHP, Ruby, etc | https://github.com/joehaffey/scripting | 0 | 0| 
 | 20220210T12:32:14Z | This program evaluates the association strength of the bug-inducing and bug-fixing commit pairs for the datasets in the paper %Exploring and Exploiting the Correlations between Bug-Inducing and Bug-Fixing Commits%.  The goal is to ascertain how reliable code change-based datasets are for software bug prediction.  The average association strengths evaluated to be 0.262, 0.086, 0.726 and 0.048 for Apache Accumulo, Apache Ambari, Apache Lucene and Apache Oozie, respectively and yielding a cumulative average association strength of 0.280.  So, in summary, the individual association strength values varied from project to project. However, the low cumulative average association strength indicates that code change-based datasets may not be as reliable as we think. So, the recommendation is that researchers conduct this experiment before using any code change-based dataset in their study. | https://github.com/chizzymeka/association-rule-mining-experiment | 0 | 0| 
 | 20220210T11:14:34Z | This directory contains the source code for implementing Random Linear Network Coding (RLNC) into Multi-Processor System-on-Chips (MPSoC). By exploiting data vectorization, we obtained latency and throughputs gains during the matrix multiplication operations. | https://github.com/jracevedob/RLNC_MPSoC | 0 | 0| 
 | 20220210T10:43:12Z | Exploit a smart contract that uses a %random% function to decide how many token to mint | https://github.com/RegoNoShi/RIPTokenExploit | 0 | 0| 
 | 20220210T05:55:21Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 128 | 41| 
-| 20220210T05:22:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 303 | 95| 
 
 
 # backdoor on Github 推荐
