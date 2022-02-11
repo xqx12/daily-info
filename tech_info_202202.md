@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T02:13:45Z | Happy Fuzzing! | https://github.com/JsHuang/fuzz4fun | 3 | 2| 
 | 20220211T01:47:10Z | A model-based API Fuzzer for SMT Solvers. | https://github.com/murxla/murxla | 3 | 0| 
 | 20220210T23:26:47Z | Null | https://github.com/theapplegates/fuzzy-robot-hugo-love | 0 | 0| 
 | 20220210T22:42:22Z | A Maven plugin that provides support for running fuzzing campaigns | https://github.com/neu-se/meringue | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220210T16:26:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7079 | 1497| 
 | 20220210T15:47:08Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1479 | 163| 
 | 20220210T14:27:40Z | Null | https://github.com/OtavioArruda/fuzzy-potato | 4 | 0| 
-| 20220210T14:19:17Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecWordlist | 1 | 0| 
 
 
 
