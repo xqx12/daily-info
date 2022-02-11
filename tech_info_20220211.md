@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T13:39:08Z | Null | https://github.com/THUYimingLi/BackdoorBox | 13 | 9| 
 | 20220211T12:20:56Z | It can get access to any device . its a RAT.  modify and give a victim. | https://github.com/sandunjeewantha/Backdoor | 2 | 0| 
 | 20220211T11:40:02Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 322 | 64| 
 | 20220211T11:33:45Z | Rxploit | https://github.com/JosephFrankFir/Rxploit | 3 | 0| 
@@ -80,9 +81,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T13:26:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2703 | 397| 
 | 20220211T13:13:31Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220211T06:06:30Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
-| 20220211T04:43:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2704 | 397| 
 | 20220211T02:16:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 19 | 5| 
 | 20220211T02:02:31Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1143 | 48| 
 
@@ -95,7 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220211T13:37:12Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 0 | 0| 
+| 20220211T13:41:33Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 1 | 0| 
 | 20220211T13:12:37Z | Null | https://github.com/mgriebling/FuzzyLogic | 0 | 0| 
 | 20220211T12:27:43Z | Null | https://github.com/MikeOwino/fuzzy-happiness | 0 | 0| 
 | 20220211T12:25:15Z | CMP304 AI Week 2 Lab  | https://github.com/1900594/CMP304-AI-WK2-Fuzzy_Logic | 0 | 0| 
