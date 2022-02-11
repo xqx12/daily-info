@@ -96,16 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220210T23:26:47Z | Null | https://github.com/theapplegates/fuzzy-robot-hugo-love | 0 | 0| 
+| 20220210T22:42:22Z | A Maven plugin that provides support for running fuzzing campaigns | https://github.com/neu-se/meringue | 0 | 0| 
+| 20220210T21:05:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2477 | 156| 
+| 20220210T20:15:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 763 | 75| 
+| 20220210T19:31:42Z | sdsad | https://github.com/lajospetya/fuzzy-dollop | 0 | 0| 
+| 20220210T16:26:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7079 | 1497| 
+| 20220210T15:47:08Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1479 | 163| 
 | 20220210T14:27:40Z | Null | https://github.com/OtavioArruda/fuzzy-potato | 4 | 0| 
 | 20220210T14:19:17Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecWordlist | 1 | 0| 
 | 20220210T14:13:06Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 684 | 84| 
-| 20220210T14:10:38Z | Null | https://github.com/santiagocollomb/fuzzyfy | 0 | 0| 
-| 20220210T13:22:34Z | Config files for my GitHub profile. | https://github.com/FuzzzMind/FuzzzMind | 0 | 0| 
-| 20220210T13:17:28Z | Config files for my GitHub profile. | https://github.com/FuzzzMind/FuzzyMind | 0 | 0| 
-| 20220210T12:57:14Z | Null | https://github.com/Fibonacci1664/FuzzyLiteProject_MAT_301_AI | 0 | 0| 
-| 20220210T12:35:35Z | SQL Project : Where I have been hired as an E-Commerce Database Analyst for Maven Fuzzy Factory | https://github.com/subratasubro/Maven-Fuzzy-Factory | 0 | 0| 
-| 20220210T12:27:10Z | Good Wordlist For Sql Injection Fuzzing | https://github.com/Steiner-254/db.txt | 0 | 0| 
-| 20220210T11:28:37Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 682 | 143| 
 
 
 
