@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T02:16:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 19 | 5| 
 | 20220211T02:02:31Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1143 | 48| 
 | 20220210T15:31:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1886 | 537| 
 | 20220210T04:19:37Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 44 | 1| 
@@ -127,7 +128,6 @@
 | 20220209T18:44:47Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 171 | 36| 
 | 20220209T18:39:23Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 670 | 70| 
 | 20220208T01:40:19Z | malSET: An Automated Symbolic Execution Toolkit for  Assisting Malware Classification Systems | https://github.com/DanielHaugen/malSET | 1 | 0| 
-| 20220207T19:43:07Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 26 | 13| 
 
 
 # big4 on Github 推荐
