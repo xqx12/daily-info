@@ -66,7 +66,7 @@
 | 20220210T10:43:12Z | Exploit a smart contract that uses a %random% function to decide how many token to mint | https://github.com/RegoNoShi/RIPTokenExploit | 0 | 0| 
 | 20220210T05:55:21Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 128 | 41| 
 | 20220210T05:22:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 303 | 95| 
-| 20220210T02:10:43Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 34 | 12| 
+| 20220210T01:37:57Z | Code for our paper %Adaptively Exploiting d-Separators with Causal Bandits%. | https://github.com/blairbilodeau/adaptive-causal-bandits | 0 | 0| 
 
 
 # backdoor on Github 推荐
