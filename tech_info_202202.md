@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T02:56:11Z | Null | https://github.com/fuzzydeep/fuzzydeep | 0 | 0| 
 | 20220211T02:13:45Z | Happy Fuzzing! | https://github.com/JsHuang/fuzz4fun | 3 | 2| 
 | 20220211T01:47:10Z | A model-based API Fuzzer for SMT Solvers. | https://github.com/murxla/murxla | 3 | 0| 
 | 20220210T23:26:47Z | Null | https://github.com/theapplegates/fuzzy-robot-hugo-love | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220210T19:31:42Z | sdsad | https://github.com/lajospetya/fuzzy-dollop | 0 | 0| 
 | 20220210T16:26:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7079 | 1497| 
 | 20220210T15:47:08Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1479 | 163| 
-| 20220210T14:27:40Z | Null | https://github.com/OtavioArruda/fuzzy-potato | 4 | 0| 
 
 
 
