@@ -26,6 +26,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220212T13:56:12Z | Null | https://github.com/T0PEKA/Spark-Knight-Klee-of-the-Knights-of-Favonius-reporting-for-duty- | 0 | 0| 
 | 20220212T13:12:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5096 | 183| 
 
 
@@ -74,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220212T13:57:13Z | Simple fuzzy search | https://github.com/wouter2203/fuzzy-search | 158 | 24| 
 | 20220212T11:37:05Z | Null | https://github.com/marsandaderika/fuzzy-octo-pancake | 0 | 0| 
 | 20220212T10:27:51Z | Null | https://github.com/KalimAmzad/CSE-4872-Fuzzy-Logic-and-Neural-Network | 0 | 0| 
 | 20220212T09:46:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7083 | 1498| 
@@ -83,7 +85,6 @@
 | 20220212T03:09:27Z | Null | https://github.com/msvorcan/NM-fuzzy_control | 0 | 1| 
 | 20220212T02:23:16Z | Null | https://github.com/lakemile/fuzzy-dollop | 0 | 0| 
 | 20220212T02:15:14Z | Just a holder for me | https://github.com/fuzzlewhack/fuzzlewhack.github.io | 0 | 0| 
-| 20220212T02:05:20Z | Undergraduate Thesis | https://github.com/JoshLintag/Handwritten-and-Printed-Musical-Notation-Recognition-Using-Neuro-Fuzzy | 0 | 1| 
 
 
 
