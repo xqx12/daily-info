@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220212T02:44:59Z | 利用类总结 | https://github.com/hhddj/ExploitClass | 0 | 0| 
 | 20220212T01:52:08Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 696 | 133| 
 | 20220211T23:17:56Z | Beta Version of the Malicious Code Deployment System, A standalone Win32 Executable With Many ON-SITE Exploitation Tools. | https://github.com/odf-community/mcds-beta | 0 | 0| 
 | 20220211T21:41:46Z | in this project we will scan the eternal blue virtual machine and then try to gain all the info read it and then exploit | https://github.com/vikasyadav190049/exploiting-eternal-blue | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220211T14:01:58Z | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | 0 | 0| 
 | 20220211T12:59:09Z | Code accompanying the paper %A phase I study of a novel glioblastoma radiation therapy schedule exploiting cell-state plasticity%. | https://github.com/jamiedean/glioblastoma-radiation-therapy-schedule | 0 | 0| 
 | 20220211T12:27:01Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 661 | 150| 
-| 20220211T12:16:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 305 | 95| 
 
 
 # backdoor on Github 推荐
