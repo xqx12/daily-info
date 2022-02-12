@@ -79,6 +79,7 @@
 | 20220212T09:46:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7083 | 1498| 
 | 20220212T07:52:59Z | Fast SublimeText-like fuzzy search for JavaScript. | https://github.com/farzher/fuzzysort | 2610 | 144| 
 | 20220212T07:49:18Z | Null | https://github.com/elbiazo/fuzz_with_emus | 0 | 0| 
+| 20220212T03:20:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1034 | 151| 
 | 20220212T03:09:27Z | Null | https://github.com/msvorcan/NM-fuzzy_control | 0 | 1| 
 | 20220212T02:23:16Z | Null | https://github.com/lakemile/fuzzy-dollop | 0 | 0| 
 | 20220212T02:15:14Z | Just a holder for me | https://github.com/fuzzlewhack/fuzzlewhack.github.io | 0 | 0| 
