@@ -141,6 +141,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T23:06:30Z | v | https://github.com/zizo-pro/fuzzy-enigma | 0 | 0| 
+| 20220211T20:13:58Z | Web Assembly Fuzzing Tool | https://github.com/Cybergenik/breakpoint | 0 | 0| 
+| 20220211T19:00:42Z | Null | https://github.com/yesiamherenow/fuzzy-octo-umbrella | 0 | 0| 
 | 20220211T14:22:01Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 1 | 0| 
 | 20220211T14:13:02Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 45 | 11| 
 | 20220211T13:56:11Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1030 | 151| 
@@ -148,9 +151,6 @@
 | 20220211T12:27:43Z | Null | https://github.com/MikeOwino/fuzzy-happiness | 0 | 0| 
 | 20220211T12:25:15Z | CMP304 AI Week 2 Lab  | https://github.com/1900594/CMP304-AI-WK2-Fuzzy_Logic | 0 | 0| 
 | 20220211T11:40:20Z | Null | https://github.com/1901881/CMP304-AI_Week_2_Fuzzy_Logic | 0 | 0| 
-| 20220211T10:14:21Z | Null | https://github.com/snillosh/Fuzz-Emulation | 0 | 0| 
-| 20220211T09:15:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7081 | 1497| 
-| 20220211T09:15:28Z | Gtk-rs fuzzer to catch as many bugs as possible | https://github.com/qarmin/gtk-rs-fuzzer | 3 | 0| 
 
 
 
