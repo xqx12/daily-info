@@ -64,11 +64,11 @@
 | 20220211T18:49:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10745 | 1864| 
 | 20220211T16:03:47Z | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | 0 | 0| 
 | 20220211T15:13:20Z | Repository that tracks public exploits, vulnerabilities and advisories that I [co-]discovered or [co-]authored. | https://github.com/rdomanski/Exploits_and_Advisories | 44 | 10| 
-| 20220211T14:46:03Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 697 | 133| 
 | 20220211T14:01:58Z | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | 0 | 0| 
 | 20220211T12:59:09Z | Code accompanying the paper %A phase I study of a novel glioblastoma radiation therapy schedule exploiting cell-state plasticity%. | https://github.com/jamiedean/glioblastoma-radiation-therapy-schedule | 0 | 0| 
 | 20220211T12:27:01Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 661 | 150| 
 | 20220211T12:16:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 305 | 95| 
+| 20220211T11:33:45Z | Rxploit | https://github.com/JosephFrankFir/Rxploit | 3 | 0| 
 
 
 # backdoor on Github 推荐
