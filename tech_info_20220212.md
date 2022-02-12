@@ -38,13 +38,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220212T13:01:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10747 | 1864| 
 | 20220212T12:39:26Z | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | 1 | 0| 
 | 20220212T11:20:21Z | Limits the maximum range of the teleport command | https://github.com/KxmischesDomi/TeleportExploitFixer | 0 | 0| 
 | 20220212T11:17:01Z | Exploiting and preventing insecure deserialization | https://github.com/pghgh/Insecure-Deserialization | 0 | 0| 
 | 20220212T10:43:14Z | Blind SSRF with Shellshock exploitation | https://github.com/anmolksachan/Blind-SSRF-with-Shellshock-exploitation | 0 | 0| 
 | 20220212T08:34:13Z | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | 0 | 0| 
 | 20220212T06:59:11Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 44 | 46| 
-| 20220212T05:08:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10746 | 1864| 
 | 20220212T04:30:53Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 664 | 150| 
 | 20220212T03:10:40Z | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | 1 | 0| 
 | 20220212T02:44:59Z | 利用类总结 | https://github.com/hhddj/ExploitClass | 0 | 0| 
@@ -61,6 +61,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220212T04:07:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2705 | 397| 
 | 20220212T02:26:52Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
 
 
