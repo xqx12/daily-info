@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220212T03:03:24Z | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | 1 | 0| 
+| 20220212T03:10:40Z | Many hacks, exploits and cheats for the popular game Wordle. | https://github.com/bribes/wordle-hacks | 1 | 0| 
 | 20220212T02:44:59Z | 利用类总结 | https://github.com/hhddj/ExploitClass | 0 | 0| 
 | 20220212T01:52:08Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 696 | 133| 
 | 20220211T23:17:56Z | Beta Version of the Malicious Code Deployment System, A standalone Win32 Executable With Many ON-SITE Exploitation Tools. | https://github.com/odf-community/mcds-beta | 0 | 0| 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220212T03:09:27Z | Null | https://github.com/msvorcan/NM-fuzzy_control | 0 | 0| 
 | 20220212T02:23:16Z | Null | https://github.com/lakemile/fuzzy-dollop | 0 | 0| 
 | 20220212T02:15:14Z | Just a holder for me | https://github.com/fuzzlewhack/fuzzlewhack.github.io | 0 | 0| 
 | 20220212T02:05:20Z | Undergraduate Thesis | https://github.com/JoshLintag/Handwritten-and-Printed-Musical-Notation-Recognition-Using-Neuro-Fuzzy | 0 | 1| 
@@ -150,7 +151,6 @@
 | 20220211T14:22:01Z | Riyan tidak naik kelas karena ia malas belajar | https://github.com/cklrhb50/fuzzy-octo-broccoli | 1 | 0| 
 | 20220211T14:13:02Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 45 | 11| 
 | 20220211T13:56:11Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1030 | 151| 
-| 20220211T13:12:37Z | Null | https://github.com/mgriebling/FuzzyLogic | 0 | 0| 
 
 
 
