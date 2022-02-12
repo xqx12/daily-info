@@ -31,6 +31,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220211T18:04:19Z | CVE-2020-9484 | POC - Apache Tomcat Deserialization Vulnerability (CVE-2020-9484) | https://github.com/ColdFusionX/CVE-2020-9484 | | 
+| 20220211T15:22:23Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
 | 20220211T08:12:40Z | CVE-2022- | Null | https://github.com/yuxiaokui/CVE-2022-xxxx | | 
 | 20220211T04:17:22Z | CVE-2021-1883 | Null | https://github.com/gabe-k/CVE-2021-1883 | | 
 | 20220211T04:06:21Z | cve-2021-4043 | pwnkit exploit | https://github.com/cspshivam/cve-2021-4043 | | 
@@ -42,8 +44,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T19:27:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1888 | 537| 
+| 20220211T18:36:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5084 | 182| 
 | 20220211T13:32:09Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 0 | 0| 
-| 20220211T13:14:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5083 | 182| 
 | 20220211T08:05:26Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 284 | 18| 
 
 
@@ -56,24 +59,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T23:17:56Z | Beta Version of the Malicious Code Deployment System, A standalone Win32 Executable With Many ON-SITE Exploitation Tools. | https://github.com/odf-community/mcds-beta | 0 | 0| 
+| 20220211T21:41:46Z | in this project we will scan the eternal blue virtual machine and then try to gain all the info read it and then exploit | https://github.com/vikasyadav190049/exploiting-eternal-blue | 0 | 0| 
+| 20220211T18:49:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10745 | 1864| 
+| 20220211T16:03:47Z | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | 0 | 0| 
+| 20220211T15:13:20Z | Repository that tracks public exploits, vulnerabilities and advisories that I [co-]discovered or [co-]authored. | https://github.com/rdomanski/Exploits_and_Advisories | 44 | 10| 
+| 20220211T14:46:03Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 697 | 133| 
 | 20220211T14:01:58Z | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | 0 | 0| 
 | 20220211T12:59:09Z | Code accompanying the paper %A phase I study of a novel glioblastoma radiation therapy schedule exploiting cell-state plasticity%. | https://github.com/jamiedean/glioblastoma-radiation-therapy-schedule | 0 | 0| 
 | 20220211T12:27:01Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 661 | 150| 
-| 20220211T12:22:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10743 | 1864| 
 | 20220211T12:16:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 305 | 95| 
-| 20220211T11:33:45Z | Rxploit | https://github.com/JosephFrankFir/Rxploit | 3 | 0| 
-| 20220211T11:06:41Z | Superior Exploitation Techniques | https://github.com/enty8080/SET | 1 | 1| 
-| 20220211T11:05:06Z | Null | https://github.com/dfotis/precompiled_exploits | 0 | 0| 
-| 20220211T10:56:15Z | This program evaluates the association strength of the bug-inducing and bug-fixing commit pairs for the datasets in the paper %Exploring and Exploiting the Correlations between Bug-Inducing and Bug-Fixing Commits%.  The goal is to ascertain how reliable code change-based datasets are for software bug prediction.  The average association strengths evaluated to be 0.262, 0.086, 0.726 and 0.048 for Apache Accumulo, Apache Ambari, Apache Lucene and Apache Oozie, respectively and yielding a cumulative average association strength of 0.280.  So, in summary, the individual association strength values varied from project to project. However, the low cumulative average association strength indicates that code change-based datasets may not be as reliable as we think. So, the recommendation is that researchers conduct this experiment before using any code change-based dataset in their study. | https://github.com/chizzymeka/association-rule-mining-experiment | 0 | 0| 
-| 20220211T10:23:46Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 1282 | 189| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220211T21:44:49Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 412 | 75| 
+| 20220211T21:00:57Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 10 | 3| 
+| 20220211T19:46:21Z | Find out if your model has a backdoor trigger. | https://github.com/trigger-attack/trigger-attack | 1 | 1| 
+| 20220211T18:29:06Z | Python backdoor reverse shell program to be executed in target machine | https://github.com/sSpicey/spice-backdoor | 0 | 0| 
+| 20220211T15:41:31Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 0 | 0| 
+| 20220211T14:39:10Z | Null | https://github.com/THUYimingLi/BackdoorBox | 14 | 9| 
 | 20220211T14:10:51Z | It can get access to any device . its a RAT.  modify and give a victim. | https://github.com/sandunjeewantha/Backdoor | 3 | 0| 
-| 20220211T14:06:56Z | Null | https://github.com/sSpicey/spice-backdoor | 0 | 0| 
-| 20220211T13:39:08Z | Null | https://github.com/THUYimingLi/BackdoorBox | 13 | 9| 
 | 20220211T11:40:02Z | Python AV Evasion Tools | https://github.com/G1ft3dC0d3/MsfMania | 322 | 64| 
 | 20220211T11:33:45Z | Rxploit | https://github.com/JosephFrankFir/Rxploit | 3 | 0| 
 | 20220211T09:52:10Z | Null | https://github.com/OscarIsorez/backdoor | 0 | 0| 
