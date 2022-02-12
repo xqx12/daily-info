@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220212T01:52:08Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 696 | 133| 
 | 20220211T23:17:56Z | Beta Version of the Malicious Code Deployment System, A standalone Win32 Executable With Many ON-SITE Exploitation Tools. | https://github.com/odf-community/mcds-beta | 0 | 0| 
 | 20220211T21:41:46Z | in this project we will scan the eternal blue virtual machine and then try to gain all the info read it and then exploit | https://github.com/vikasyadav190049/exploiting-eternal-blue | 0 | 0| 
 | 20220211T18:49:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10745 | 1864| 
 | 20220211T16:03:47Z | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box | https://github.com/E1P0TR0/CVE-Machines_htb | 0 | 0| 
 | 20220211T15:13:20Z | Repository that tracks public exploits, vulnerabilities and advisories that I [co-]discovered or [co-]authored. | https://github.com/rdomanski/Exploits_and_Advisories | 44 | 10| 
-| 20220211T14:46:03Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 697 | 133| 
 | 20220211T14:01:58Z | 악성 익스플로잇 막는 플러그인 입니당 | https://github.com/Rdos0211/ExploitFix | 0 | 0| 
 | 20220211T12:59:09Z | Code accompanying the paper %A phase I study of a novel glioblastoma radiation therapy schedule exploiting cell-state plasticity%. | https://github.com/jamiedean/glioblastoma-radiation-therapy-schedule | 0 | 0| 
 | 20220211T12:27:01Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 661 | 150| 
@@ -141,6 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220212T02:05:20Z | Undergraduate Thesis | https://github.com/JoshLintag/Handwritten-and-Printed-Musical-Notation-Recognition-Using-Neuro-Fuzzy | 0 | 1| 
+| 20220212T02:05:05Z | Just for the funs | https://github.com/fuzzlewhack/fuzzlewhack.github.io | 0 | 0| 
 | 20220211T23:06:30Z | v | https://github.com/zizo-pro/fuzzy-enigma | 0 | 0| 
 | 20220211T20:13:58Z | Web Assembly Fuzzing Tool | https://github.com/Cybergenik/breakpoint | 0 | 0| 
 | 20220211T19:00:42Z | Null | https://github.com/yesiamherenow/fuzzy-octo-umbrella | 0 | 0| 
@@ -149,8 +151,6 @@
 | 20220211T13:56:11Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1030 | 151| 
 | 20220211T13:12:37Z | Null | https://github.com/mgriebling/FuzzyLogic | 0 | 0| 
 | 20220211T12:27:43Z | Null | https://github.com/MikeOwino/fuzzy-happiness | 0 | 0| 
-| 20220211T12:25:15Z | CMP304 AI Week 2 Lab  | https://github.com/1900594/CMP304-AI-WK2-Fuzzy_Logic | 0 | 0| 
-| 20220211T11:40:20Z | Null | https://github.com/1901881/CMP304-AI_Week_2_Fuzzy_Logic | 0 | 0| 
 
 
 
