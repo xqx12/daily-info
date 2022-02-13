@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220213T02:22:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10748 | 1864| 
+| 20220213T02:40:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10749 | 1864| 
 | 20220213T02:15:40Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1057 | 390| 
 | 20220213T01:29:30Z | pwncat module that automatically exploits CVE-2021-4034 (pwnkit) | https://github.com/DanaEpp/pwncat_pwnkit | 1 | 0| 
 | 20220212T22:59:21Z | Null | https://github.com/lostroes/CalwordExploit | 0 | 0| 
