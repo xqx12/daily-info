@@ -93,7 +93,7 @@
 | 20220213T12:48:47Z | Null | https://github.com/unknownprogrammer7/PS4Exploit | 0 | 0| 
 | 20220213T12:38:59Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 732 | 126| 
 | 20220213T12:37:54Z | 🎈・Description First it unverifies and removes their email by making an invalid request to the api, then it just requests discord to send a verification email. an email will be sent every 12 seconds or so (because of rate limit). After some time their inbox will be filled up in no time! Great job discord!  🎉・Usage py main.py <token> | https://github.com/urxnot/Discord-Email-Exploit | 0 | 0| 
-| 20220213T10:18:51Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 626 | 78| 
+| 20220213T10:18:51Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 626 | 77| 
 | 20220213T09:55:41Z | Various Kernel Exploits For Linux And Windows  | https://github.com/krishpranav/kernelexploits | 1 | 0| 
 | 20220213T09:51:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10751 | 1863| 
 | 20220213T09:48:04Z | A multi exploit instagram exploitation framework | https://github.com/TheBirdSecurity/Instagram-Exploitation-Framework | 1 | 0| 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220213T13:54:45Z | Null | https://github.com/TranQuocTuan1711/BlogFuzzyPN | 0 | 0| 
 | 20220213T12:09:24Z | Null | https://github.com/Mysigyeong/Rosetta-2-Fuzzing | 0 | 0| 
 | 20220213T11:44:07Z | Null | https://github.com/enasibov/FuzzyGBR | 0 | 0| 
 | 20220213T08:17:55Z | Proposed a new Fuzzy DBScan Algorithm which gives better results. | https://github.com/iinaimaf/Fuzzy-DBScan-algorithm | 2 | 0| 
@@ -150,7 +151,6 @@
 | 20220213T00:14:17Z | Null | https://github.com/amisterdann/fuzzy-waddle | 0 | 0| 
 | 20220212T23:17:59Z | Config files for my GitHub profile. | https://github.com/toktok-fuzzer/toktok-fuzzer | 0 | 0| 
 | 20220212T23:17:24Z | Null | https://github.com/TokTok/toktok-fuzzer | 0 | 0| 
-| 20220212T22:12:23Z | code memoire fuzzy Forest | https://github.com/adiko-junior/Fuzzy_forest | 0 | 0| 
 
 
 
