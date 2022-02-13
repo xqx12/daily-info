@@ -88,13 +88,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220213T02:22:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10748 | 1864| 
 | 20220213T02:15:40Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1057 | 390| 
 | 20220213T01:29:30Z | pwncat module that automatically exploits CVE-2021-4034 (pwnkit) | https://github.com/DanaEpp/pwncat_pwnkit | 1 | 0| 
 | 20220212T22:59:21Z | Null | https://github.com/lostroes/CalwordExploit | 0 | 0| 
 | 20220212T22:38:53Z | Null | https://github.com/0x7b4/exploitdb | 0 | 0| 
 | 20220212T21:48:58Z | Salesforce Recon and Exploitation Toolkit | https://github.com/reconstation/sret | 3 | 1| 
 | 20220212T21:29:06Z | Script run requests to fake scammer site and fill fake forms.  I didn%t hack anything, didn%t do anything that a normal person couldn%t have done.  No hacks, exploits, vulnerabilities, break-ins. Every action I took was publicly available  to me and everyone else that went to scam site. | https://github.com/reedjohnnny/punisher_for_scmmrs | 0 | 0| 
-| 20220212T20:52:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10747 | 1864| 
 | 20220212T12:39:26Z | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | 1 | 0| 
 | 20220212T11:20:21Z | Limits the maximum range of the teleport command | https://github.com/KxmischesDomi/TeleportExploitFixer | 0 | 0| 
 | 20220212T11:17:01Z | Exploiting and preventing insecure deserialization | https://github.com/pghgh/Insecure-Deserialization | 0 | 0| 
