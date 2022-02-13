@@ -19,7 +19,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220212T17:08:05Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
-| 20220212T11:31:26Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
 | 20220212T06:26:41Z | CVE-2021-4034 | Null | https://github.com/an0n7os/CVE-2021-4034 | | 
 
 
