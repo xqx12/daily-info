@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220213T00:50:55Z | A small library to alter AWS API requests; Used for fuzzing research | https://github.com/Frichetten/aws_api_shapeshifter | 4 | 0| 
+| 20220213T01:46:42Z | A small library to alter AWS API requests; Used for fuzzing research | https://github.com/Frichetten/aws_api_shapeshifter | 5 | 0| 
 | 20220213T00:14:17Z | Null | https://github.com/amisterdann/fuzzy-waddle | 0 | 0| 
 | 20220212T23:17:59Z | Config files for my GitHub profile. | https://github.com/toktok-fuzzer/toktok-fuzzer | 0 | 0| 
 | 20220212T23:17:24Z | Null | https://github.com/TokTok/toktok-fuzzer | 0 | 0| 
