@@ -42,11 +42,11 @@
 | 20220213T12:48:47Z | Null | https://github.com/unknownprogrammer7/PS4Exploit | 0 | 0| 
 | 20220213T12:38:59Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 732 | 126| 
 | 20220213T12:37:54Z | 🎈・Description First it unverifies and removes their email by making an invalid request to the api, then it just requests discord to send a verification email. an email will be sent every 12 seconds or so (because of rate limit). After some time their inbox will be filled up in no time! Great job discord!  🎉・Usage py main.py <token> | https://github.com/urxnot/Discord-Email-Exploit | 0 | 0| 
+| 20220213T10:18:51Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 626 | 78| 
 | 20220213T09:55:41Z | Various Kernel Exploits For Linux And Windows  | https://github.com/krishpranav/kernelexploits | 1 | 0| 
 | 20220213T09:51:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10751 | 1863| 
 | 20220213T09:48:04Z | A multi exploit instagram exploitation framework | https://github.com/TheBirdSecurity/Instagram-Exploitation-Framework | 1 | 0| 
 | 20220213T08:49:46Z | Null | https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification | 0 | 0| 
-| 20220213T05:47:43Z | Yet Another PHP Shell - The most complete PHP reverse shell | https://github.com/Nickguitar/YAPS | 29 | 3| 
 
 
 # backdoor on Github 推荐
