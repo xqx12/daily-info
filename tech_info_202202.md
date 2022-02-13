@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220213T01:53:09Z | Backdoor | https://github.com/ZeroDayOutplay/zdo | 0 | 0| 
 | 20220213T00:25:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 515 | 211| 
 | 20220212T22:04:53Z | Fat-Stealer is a stealer that allows you to grab the Discord token from a user and open a backdoor in his machine. | https://github.com/JetBerri/Stealer | 1 | 0| 
 | 20220212T14:37:55Z | Null | https://github.com/4ur1X/reverse-backdoor | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20220211T21:44:49Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 412 | 75| 
 | 20220211T21:00:57Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 10 | 3| 
 | 20220211T19:46:21Z | Find out if your model has a backdoor trigger. | https://github.com/trigger-attack/trigger-attack | 1 | 1| 
-| 20220211T18:29:06Z | Python backdoor reverse shell program to be executed in target machine | https://github.com/sSpicey/spice-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
