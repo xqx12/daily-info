@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220213 | JavaScript 调试技巧总结. | https://flaviocopes.com/debugging/| 
 | 20220211 | Apple 发布紧急补丁，修复 WebKit 的一个野外利用漏洞 | https://support.apple.com/en-us/HT213093| 
 | 20220211 | Case Studies of Fuzzing with Xen，来自 OffensiveCon 2022 会议 | http://silentsignal.hu/docs/OffensiveCon22-Case_Studies_of_Fuzzing_with_Xen.pdf| 
 | 20220211 | Android 13 开发者预览版发布，更新 Photo picker 和附近 Wi-Fi 设备的隐私数据管理 | https://android-developers.googleblog.com/2022/02/first-preview-android-13.html| 
@@ -25,7 +26,6 @@
 | 20220210 | What are Weak Links in the npm Supply Chain? | https://arxiv.org/pdf/2112.10165.pdf| 
 | 20220210 | A Python based ingestor for BloodHound | https://github.com/fox-it/BloodHound.py| 
 | 20220210 | 通过 patch diff 的方法分析 Windows Storage Spaces Controller 的信息泄露漏洞（CVE-2022-21877） | https://big5-sec.github.io/posts/an-analysis-of-cve-2022-21877/| 
-| 20220210 | Realworldctf 2022 hso writeup与nso iMessage 0click漏洞分析. | http://eternalsakura13.com/2022/02/10/hso/| 
 
 
 # 安全维基 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220213T13:57:38Z | A python utility to assist in matching sets of strings that do not have exact matches. | https://github.com/RTeresiOB/FuzzyMatcher | 0 | 0| 
 | 20220213T13:54:45Z | Null | https://github.com/TranQuocTuan1711/BlogFuzzyPN | 0 | 0| 
 | 20220213T12:09:24Z | Null | https://github.com/Mysigyeong/Rosetta-2-Fuzzing | 0 | 0| 
 | 20220213T11:44:07Z | Null | https://github.com/enasibov/FuzzyGBR | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220213T01:46:42Z | A small library to alter AWS API requests; Used for fuzzing research | https://github.com/Frichetten/aws_api_shapeshifter | 5 | 0| 
 | 20220213T00:14:17Z | Null | https://github.com/amisterdann/fuzzy-waddle | 0 | 0| 
 | 20220212T23:17:59Z | Config files for my GitHub profile. | https://github.com/toktok-fuzzer/toktok-fuzzer | 0 | 0| 
-| 20220212T23:17:24Z | Null | https://github.com/TokTok/toktok-fuzzer | 0 | 0| 
 
 
 
