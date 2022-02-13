@@ -46,8 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220213T11:57:18Z | CVE-2022-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2022-4034 | | 
+| 20220213T11:04:31Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220213T01:16:40Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
-| 20220213T00:35:00Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220212T17:08:05Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
 | 20220212T06:26:41Z | CVE-2021-4034 | Null | https://github.com/an0n7os/CVE-2021-4034 | | 
 | 20220211T18:04:19Z | CVE-2020-9484 | POC - Apache Tomcat Deserialization Vulnerability (CVE-2020-9484) | https://github.com/ColdFusionX/CVE-2020-9484 | | 
@@ -55,15 +56,14 @@
 | 20220211T04:17:22Z | CVE-2021-1883 | Null | https://github.com/gabe-k/CVE-2021-1883 | | 
 | 20220211T04:06:21Z | cve-2021-4043 | pwnkit exploit | https://github.com/cspshivam/cve-2021-4043 | | 
 | 20220211T01:33:07Z | CVE-2022-20699 | Cisco Anyconnect VPN unauth RCE (rwx stack) | https://github.com/Audiobahn/CVE-2022-20699 | | 
-| 20220211T01:13:18Z | CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI  | https://github.com/corelight/CVE-2021-38647 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220213T11:53:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5116 | 183| 
+| 20220213T05:33:13Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 288 | 18| 
 | 20220213T02:57:18Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 17 | 1| 
-| 20220213T01:35:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5104 | 183| 
-| 20220212T21:56:08Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 287 | 18| 
 | 20220212T13:56:12Z | Null | https://github.com/T0PEKA/Spark-Knight-Klee-of-the-Knights-of-Favonius-reporting-for-duty- | 0 | 0| 
 | 20220211T19:27:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1888 | 537| 
 | 20220211T13:32:09Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220213T02:40:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10749 | 1864| 
-| 20220213T02:15:40Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1057 | 390| 
-| 20220213T01:29:30Z | pwncat module that automatically exploits CVE-2021-4034 (pwnkit) | https://github.com/DanaEpp/pwncat_pwnkit | 1 | 0| 
-| 20220212T22:59:21Z | Null | https://github.com/lostroes/CalwordExploit | 0 | 0| 
-| 20220212T22:38:53Z | Null | https://github.com/0x7b4/exploitdb | 0 | 0| 
-| 20220212T21:48:58Z | Salesforce Recon and Exploitation Toolkit | https://github.com/reconstation/sret | 3 | 1| 
-| 20220212T21:29:06Z | Script run requests to fake scammer site and fill fake forms.  I didn%t hack anything, didn%t do anything that a normal person couldn%t have done.  No hacks, exploits, vulnerabilities, break-ins. Every action I took was publicly available  to me and everyone else that went to scam site. | https://github.com/reedjohnnny/punisher_for_scmmrs | 0 | 0| 
-| 20220212T12:39:26Z | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | 1 | 0| 
-| 20220212T11:20:21Z | Limits the maximum range of the teleport command | https://github.com/KxmischesDomi/TeleportExploitFixer | 0 | 0| 
-| 20220212T11:17:01Z | Exploiting and preventing insecure deserialization | https://github.com/pghgh/Insecure-Deserialization | 0 | 0| 
+| 20220213T12:48:47Z | Null | https://github.com/unknownprogrammer7/PS4Exploit | 0 | 0| 
+| 20220213T12:46:09Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 526 | 213| 
+| 20220213T12:38:59Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 732 | 126| 
+| 20220213T12:37:54Z | 🎈・Description First it unverifies and removes their email by making an invalid request to the api, then it just requests discord to send a verification email. an email will be sent every 12 seconds or so (because of rate limit). After some time their inbox will be filled up in no time! Great job discord!  🎉・Usage py main.py <token> | https://github.com/urxnot/Discord-Email-Exploit | 0 | 0| 
+| 20220213T11:49:16Z | This is my first proper expressjs project so be light on the exploits, its a work in progress, Make an issue if you see anything that needs changed please, it helps alot | https://github.com/callum1337/Auth-Webiste | 0 | 0| 
+| 20220213T09:55:41Z | Various Kernel Exploits For Linux And Windows  | https://github.com/krishpranav/kernelexploits | 1 | 0| 
+| 20220213T09:51:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10751 | 1863| 
+| 20220213T09:48:04Z | A multi exploit instagram exploitation framework | https://github.com/TheBirdSecurity/Instagram-Exploitation-Framework | 1 | 0| 
+| 20220213T08:49:46Z | Null | https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification | 0 | 0| 
+| 20220213T05:47:43Z | Yet Another PHP Shell - The most complete PHP reverse shell | https://github.com/Nickguitar/YAPS | 29 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220213T02:56:54Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 516 | 211| 
+| 20220213T12:46:09Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 526 | 213| 
+| 20220213T12:24:52Z | Fat-Stealer is a stealer that allows you to grab the Discord token from a user and open a backdoor in his machine. | https://github.com/JetBerri/Stealer | 4 | 0| 
+| 20220213T08:07:00Z | Null | https://github.com/S4vana/android_backDoor | 0 | 0| 
+| 20220213T05:47:43Z | Yet Another PHP Shell - The most complete PHP reverse shell | https://github.com/Nickguitar/YAPS | 29 | 3| 
 | 20220213T02:09:20Z | Backdoor | https://github.com/ZeroDayOutplay/zdo | 0 | 0| 
-| 20220212T22:04:53Z | Fat-Stealer is a stealer that allows you to grab the Discord token from a user and open a backdoor in his machine. | https://github.com/JetBerri/Stealer | 1 | 0| 
 | 20220212T14:37:55Z | Null | https://github.com/4ur1X/reverse-backdoor | 0 | 0| 
 | 20220212T14:30:27Z | Windoor is a Windows Backdoor that uses ssh to gain access to the windows machine.  | https://github.com/Talhamehar007/windoor-ssh | 0 | 0| 
 | 20220212T08:57:51Z | Null | https://github.com/4ur1X/reverse_backdoor | 0 | 0| 
 | 20220212T04:06:27Z | It can get access to any device . its a RAT.  modify and give a victim. | https://github.com/sandunjeewantha/Backdoor | 4 | 0| 
 | 20220211T21:44:49Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 412 | 75| 
-| 20220211T21:00:57Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 10 | 3| 
-| 20220211T19:46:21Z | Find out if your model has a backdoor trigger. | https://github.com/trigger-attack/trigger-attack | 1 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220213T12:09:24Z | Null | https://github.com/Mysigyeong/Rosetta-2-Fuzzing | 0 | 0| 
+| 20220213T11:44:07Z | Null | https://github.com/enasibov/FuzzyGBR | 0 | 0| 
+| 20220213T08:17:55Z | Proposed a new Fuzzy DBScan Algorithm which gives better results. | https://github.com/iinaimaf/Fuzzy-DBScan-algorithm | 2 | 0| 
+| 20220213T05:05:50Z | The official Android app for Fizanto Fuzz YouTube channel | https://github.com/Aryan9059/fizanto-fuzz | 0 | 0| 
+| 20220213T02:31:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7084 | 1498| 
 | 20220213T01:46:42Z | A small library to alter AWS API requests; Used for fuzzing research | https://github.com/Frichetten/aws_api_shapeshifter | 5 | 0| 
 | 20220213T00:14:17Z | Null | https://github.com/amisterdann/fuzzy-waddle | 0 | 0| 
 | 20220212T23:17:59Z | Config files for my GitHub profile. | https://github.com/toktok-fuzzer/toktok-fuzzer | 0 | 0| 
 | 20220212T23:17:24Z | Null | https://github.com/TokTok/toktok-fuzzer | 0 | 0| 
 | 20220212T22:12:23Z | code memoire fuzzy Forest | https://github.com/adiko-junior/Fuzzy_forest | 0 | 0| 
-| 20220212T21:52:45Z | Null | https://github.com/Alexis-Haan/fuzzy-guacamole | 0 | 0| 
-| 20220212T21:05:11Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1191 | 51| 
-| 20220212T19:52:32Z | Null | https://github.com/ksmith97/http-fuzzer | 0 | 0| 
-| 20220212T13:57:13Z | Simple fuzzy search | https://github.com/wouter2203/fuzzy-search | 158 | 24| 
-| 20220212T11:37:05Z | Null | https://github.com/marsandaderika/fuzzy-octo-pancake | 0 | 0| 
 
 
 
