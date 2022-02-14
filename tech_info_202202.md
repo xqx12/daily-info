@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220213T22:55:30Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220214T01:41:00Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220213T14:49:37Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
 | 20220213T13:58:43Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
 | 20220213T11:57:18Z | CVE-2022-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2022-4034 | | 
@@ -89,7 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220213T23:54:22Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 138 | 22| 
+| 20220214T01:38:11Z | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | 5 | 5| 
+| 20220214T01:29:28Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 139 | 22| 
 | 20220213T23:21:58Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 263 | 10| 
 | 20220213T22:09:34Z | writeups for binary exploitation challenges | https://github.com/Bex32/binary-exploitation | 0 | 0| 
 | 20220213T21:11:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 306 | 96| 
@@ -98,7 +99,6 @@
 | 20220213T20:51:18Z | A research project to exploit the effect of DIP techniques over yolo predictions and accuracy. Target of research was to improve reliability of Yolo models in specialized environments and use cases. | https://github.com/MasterHM-ml/dip-with-yolov5 | 0 | 0| 
 | 20220213T20:45:43Z | Null | https://github.com/Blessjets/exploits | 0 | 0| 
 | 20220213T20:09:48Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4339 | 577| 
-| 20220213T16:05:45Z | C# tool to identify and exploit weaknesses within MSSQL instances in Active Directory environments | https://github.com/lefayjey/SharpSQLPwn | 4 | 2| 
 
 
 # backdoor on Github 推荐
