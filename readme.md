@@ -53,14 +53,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220214T02:55:06Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 142 | 22| 
-| 20220214T02:29:40Z | Null | https://github.com/xXNexxusMindXx/Rblx-exploits | 0 | 0| 
-| 20220214T01:38:11Z | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | 5 | 5| 
+| 20220214T13:03:32Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 169 | 28| 
+| 20220214T12:30:23Z | [ICLR2022] Code for %Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View% | https://github.com/xrenaa/DisCo | 62 | 5| 
+| 20220214T12:16:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10754 | 1864| 
+| 20220214T11:53:50Z | Null | https://github.com/dragondev-king/cream-finance-exploit | 0 | 0| 
+| 20220214T11:50:48Z | Null | https://github.com/eric-giraud/cream-finance-exploit | 0 | 0| 
+| 20220214T11:18:12Z | Null | https://github.com/NumanZaidan/RayxExploitVersion | 0 | 0| 
+| 20220214T11:17:53Z | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne (77) | https://github.com/johanpalos/API-Qualite-EAU-77 | 1 | 0| 
+| 20220214T10:43:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4326 | 606| 
+| 20220214T10:33:04Z | 渗透测试打点信息收集与漏洞扫描系统 | https://github.com/b0bac/B0bacExploit | 3 | 1| 
+| 20220214T09:49:17Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220214T12:59:55Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 77 | 17| 
 | 20220214T12:02:40Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 540 | 219| 
 
 

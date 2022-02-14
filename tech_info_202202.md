@@ -89,21 +89,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220214T02:55:06Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 142 | 22| 
-| 20220214T02:29:40Z | Null | https://github.com/xXNexxusMindXx/Rblx-exploits | 0 | 0| 
-| 20220214T01:38:11Z | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | 5 | 5| 
-| 20220213T23:21:58Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 263 | 10| 
-| 20220213T22:09:34Z | writeups for binary exploitation challenges | https://github.com/Bex32/binary-exploitation | 0 | 0| 
-| 20220213T21:11:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 306 | 96| 
-| 20220213T20:59:51Z | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | 2 | 3| 
-| 20220213T20:57:00Z | This is my first proper expressjs project so be light on the exploits, its a work in progress, Make an issue if you see anything that needs changed please, it helps alot | https://github.com/callum1337/Auth-Webiste | 1 | 0| 
-| 20220213T20:51:18Z | A research project to exploit the effect of DIP techniques over yolo predictions and accuracy. Target of research was to improve reliability of Yolo models in specialized environments and use cases. | https://github.com/MasterHM-ml/dip-with-yolov5 | 0 | 0| 
-| 20220213T20:45:43Z | Null | https://github.com/Blessjets/exploits | 0 | 0| 
+| 20220214T13:03:32Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 169 | 28| 
+| 20220214T12:30:23Z | [ICLR2022] Code for %Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View% | https://github.com/xrenaa/DisCo | 62 | 5| 
+| 20220214T12:16:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10754 | 1864| 
+| 20220214T11:53:50Z | Null | https://github.com/dragondev-king/cream-finance-exploit | 0 | 0| 
+| 20220214T11:50:48Z | Null | https://github.com/eric-giraud/cream-finance-exploit | 0 | 0| 
+| 20220214T11:18:12Z | Null | https://github.com/NumanZaidan/RayxExploitVersion | 0 | 0| 
+| 20220214T11:17:53Z | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne (77) | https://github.com/johanpalos/API-Qualite-EAU-77 | 1 | 0| 
+| 20220214T10:43:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4326 | 606| 
+| 20220214T10:33:04Z | 渗透测试打点信息收集与漏洞扫描系统 | https://github.com/b0bac/B0bacExploit | 3 | 1| 
+| 20220214T09:49:17Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220214T12:59:55Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 77 | 17| 
 | 20220214T12:02:40Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 540 | 219| 
 | 20220213T23:02:22Z | Null | https://github.com/THUYimingLi/BackdoorBox | 15 | 9| 
 | 20220213T20:33:04Z | Null | https://github.com/skimaharvey/dvd-backdoor | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20220213T08:07:00Z | Null | https://github.com/S4vana/android_backDoor | 0 | 0| 
 | 20220213T05:47:43Z | Yet Another PHP Shell - The most complete PHP reverse shell | https://github.com/Nickguitar/YAPS | 29 | 3| 
 | 20220213T02:09:20Z | Backdoor | https://github.com/ZeroDayOutplay/zdo | 0 | 0| 
-| 20220212T21:22:54Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/INZO-Technologies/Backdoor-Plugin | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
