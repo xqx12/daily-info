@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220214T09:34:36Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
+| 20220214T13:44:57Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220214T07:34:41Z | CVE-2021-45416 | Stored XSS Vulnerability on RosarioSIS 8.2.1 | https://github.com/dnr6419/CVE-2021-45416 | | 
 | 20220214T07:32:12Z | CVE-2022-20699 | Null | https://github.com/rohankumardubey/CVE-2022-20699 | | 
 | 20220214T01:58:23Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
