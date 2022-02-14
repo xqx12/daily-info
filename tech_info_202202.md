@@ -151,7 +151,7 @@
 | 20220214T11:50:46Z | Config files for my GitHub profile. | https://github.com/Fuzzy-Mind/Fuzzy-Mind | 0 | 0| 
 | 20220214T11:13:07Z | Null | https://github.com/coolgogi/DIY-fuzzing | 0 | 0| 
 | 20220214T09:49:00Z | about fuzz something | https://github.com/TheBinKing/fuzz-journey | 0 | 0| 
-| 20220214T09:07:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 491 | 47| 
+| 20220214T09:44:10Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 687 | 82| 
 
 
 
