@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220214T02:14:17Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220214T01:58:23Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
 | 20220214T01:57:10Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
-| 20220214T01:50:47Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220213T13:58:43Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
 | 20220213T11:57:18Z | CVE-2022-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2022-4034 | | 
 | 20220212T06:26:41Z | CVE-2021-4034 | Null | https://github.com/an0n7os/CVE-2021-4034 | | 
