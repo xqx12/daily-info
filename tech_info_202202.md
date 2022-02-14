@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220214T02:43:32Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 141 | 22| 
 | 20220214T02:29:40Z | Null | https://github.com/xXNexxusMindXx/Rblx-exploits | 0 | 0| 
-| 20220214T02:14:09Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 140 | 22| 
 | 20220214T01:38:11Z | A collection of browser exploits in the form of a bookmarklet | https://github.com/jangodev/CrownJS | 5 | 5| 
 | 20220213T23:21:58Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 263 | 10| 
 | 20220213T22:09:34Z | writeups for binary exploitation challenges | https://github.com/Bex32/binary-exploitation | 0 | 0| 
