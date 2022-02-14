@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220214T01:57:10Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
 | 20220214T01:50:47Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220213T14:49:37Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
 | 20220213T13:58:43Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
 | 20220213T11:57:18Z | CVE-2022-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2022-4034 | | 
 | 20220213T01:16:40Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220213T23:16:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5122 | 183| 
+| 20220214T01:57:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5123 | 183| 
 | 20220213T23:14:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 216 | 24| 
 | 20220213T05:33:13Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 288 | 18| 
 | 20220213T02:57:18Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 17 | 1| 
