@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220214T01:58:26Z | about fuzzing | https://github.com/coolgogi/study_fuzzing | 0 | 0| 
+| 20220214T02:53:32Z | about fuzzing | https://github.com/coolgogi/study_fuzzing | 0 | 0| 
 | 20220214T00:25:49Z | Fuzzy Parameter Adaptation for PSO | https://github.com/mmziaei/FuzzyPSO | 0 | 0| 
 | 20220213T23:27:56Z | A small library to alter AWS API requests; Used for fuzzing research | https://github.com/Frichetten/aws_api_shapeshifter | 11 | 0| 
 | 20220213T22:59:16Z | CVE-2021-44228 | https://github.com/mr-vill4in/log4j-fuzzer | 4 | 3| 
