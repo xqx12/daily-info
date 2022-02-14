@@ -20,7 +20,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220213T13:58:43Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
 | 20220213T11:57:18Z | CVE-2022-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2022-4034 | | 
-| 20220213T01:16:40Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
 
 
 # klee on Github 推荐
