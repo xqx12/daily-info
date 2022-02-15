@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T01:38:19Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 189 | 29| 
+| 20220215T01:46:24Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 190 | 29| 
 | 20220214T23:55:30Z | A lab & assignment for CSC427 | https://github.com/daffychuy/Log4j-Exploit | 0 | 0| 
 | 20220214T22:54:36Z | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | 13 | 8| 
 | 20220214T22:38:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 309 | 96| 
