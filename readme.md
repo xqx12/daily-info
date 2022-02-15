@@ -64,13 +64,13 @@
 | 20220214T23:55:30Z | A lab & assignment for CSC427 | https://github.com/daffychuy/Log4j-Exploit | 0 | 0| 
 | 20220214T22:54:36Z | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | 13 | 8| 
 | 20220214T22:38:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 309 | 96| 
+| 20220214T22:16:27Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 36 | 12| 
 | 20220214T21:16:31Z | Cisa Exploited Vulns | https://github.com/yung-orchestrator/CISA_Exploited_Vulns | 0 | 0| 
 | 20220214T20:03:07Z | This is my first proper expressjs project so be light on the exploits, its a work in progress, Make an issue if you see anything that needs changed please, it helps alot | https://github.com/callum1337/Auth-Webiste | 1 | 0| 
 | 20220214T14:42:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10755 | 1865| 
 | 20220214T14:18:53Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 74 | 13| 
 | 20220214T13:21:16Z | [ICLR2022] Code for %Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View% | https://github.com/xrenaa/DisCo | 64 | 5| 
 | 20220214T11:53:50Z | Null | https://github.com/dragondev-king/cream-finance-exploit | 0 | 0| 
-| 20220214T11:50:48Z | Null | https://github.com/eric-giraud/cream-finance-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
