@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T13:25:39Z | The following is an automated AWS python exploit to change and update the IAM profiles in an AWS account to a password that we can log into with the management console. | https://github.com/Gfuen/AWSUpdateProfileExploit | 0 | 0| 
 | 20220215T13:19:32Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 274 | 36| 
 | 20220215T13:15:28Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1060 | 232| 
 | 20220215T12:45:53Z | Fortnite internal fixed source. Updated internal source with SDK, credits to android. Has working zipline flying/teleport exploit. Have fun | https://github.com/or1equal1/fortnite-internal-fixed | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20220215T09:10:21Z | Demo exploit targeting usb gadget%s os descriptor handler | https://github.com/szymonh/d-os-descriptor | 0 | 0| 
 | 20220215T08:26:10Z | Null | https://github.com/AnonymPlayer2/TL-Exploit | 0 | 0| 
 | 20220215T07:41:53Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 734 | 127| 
-| 20220215T06:50:17Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 75 | 13| 
 
 
 # backdoor on Github 推荐
