@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T02:16:32Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 154 | 23| 
+| 20220215T02:36:13Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 155 | 23| 
 | 20220215T02:09:21Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1144 | 48| 
 | 20220214T20:58:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 196 | 11| 
 | 20220214T18:31:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2708 | 396| 
@@ -142,9 +142,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T02:41:31Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 820 | 59| 
 | 20220215T02:35:10Z | Null | https://github.com/coolgogi/DIY-fuzzer | 0 | 0| 
 | 20220215T01:12:54Z | Null | https://github.com/codosnes/fuzzy-tribble | 0 | 0| 
-| 20220215T01:03:07Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 821 | 59| 
 | 20220215T00:32:27Z | Null | https://github.com/sungbin/DIY-Fuzzer | 0 | 0| 
 | 20220215T00:02:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20220214T22:15:43Z | Null | https://github.com/jhordyess/fuzzy-logic-test | 0 | 0| 
