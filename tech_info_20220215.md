@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T13:25:39Z | The following is an automated AWS python exploit to change and update the IAM profiles in an AWS account to a password that we can log into with the management console. | https://github.com/Gfuen/AWSUpdateProfileExploit | 0 | 0| 
+| 20220215T13:26:58Z | The following is an automated AWS python exploit to change and update the IAM profiles in an AWS account to a password that we can log into with the management console. | https://github.com/Gfuen/AWSUpdateProfileExploit | 0 | 0| 
 | 20220215T13:19:32Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 274 | 36| 
 | 20220215T13:15:28Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1060 | 232| 
 | 20220215T12:45:53Z | Fortnite internal fixed source. Updated internal source with SDK, credits to android. Has working zipline flying/teleport exploit. Have fun | https://github.com/or1equal1/fortnite-internal-fixed | 0 | 0| 
