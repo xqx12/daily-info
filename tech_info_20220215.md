@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T13:16:22Z | XSStrike is a program which can crawl, fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs. | https://github.com/cybersimple/XSStrike | 0 | 0| 
 | 20220215T10:49:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7093 | 1499| 
 | 20220215T10:19:35Z | Config files for my GitHub profile. | https://github.com/Fuzzy-Mind/Fuzzy-Mind | 0 | 0| 
 | 20220215T08:35:47Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 235 | 14| 
@@ -105,7 +106,6 @@
 | 20220215T02:35:10Z | Null | https://github.com/coolgogi/DIY-fuzzer | 0 | 0| 
 | 20220215T01:12:54Z | Null | https://github.com/codosnes/fuzzy-tribble | 0 | 0| 
 | 20220215T00:32:27Z | Null | https://github.com/sungbin/DIY-Fuzzer | 0 | 0| 
-| 20220215T00:02:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 
 
 
