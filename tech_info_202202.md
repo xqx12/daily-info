@@ -144,6 +144,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220215T02:35:10Z | Null | https://github.com/coolgogi/DIY-fuzzer | 0 | 0| 
 | 20220215T01:12:54Z | Null | https://github.com/codosnes/fuzzy-tribble | 0 | 0| 
+| 20220215T01:03:07Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 821 | 59| 
 | 20220215T00:32:27Z | Null | https://github.com/sungbin/DIY-Fuzzer | 0 | 0| 
 | 20220215T00:02:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20220214T22:15:43Z | Null | https://github.com/jhordyess/fuzzy-logic-test | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20220214T17:23:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 44 | 13| 
 | 20220214T16:40:49Z | Null | https://github.com/coolgogi/DIY-fuzzing | 0 | 0| 
 | 20220214T13:57:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6016 | 695| 
-| 20220214T13:09:16Z | Fast SublimeText-like fuzzy search for JavaScript. | https://github.com/farzher/fuzzysort | 2612 | 144| 
 
 
 
