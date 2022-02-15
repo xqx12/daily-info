@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T02:02:58Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 195 | 29| 
+| 20220215T02:04:32Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 196 | 29| 
 | 20220214T23:55:30Z | A lab & assignment for CSC427 | https://github.com/daffychuy/Log4j-Exploit | 0 | 0| 
 | 20220214T22:54:36Z | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | 13 | 8| 
 | 20220214T22:38:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 309 | 96| 
@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T01:54:56Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 147 | 22| 
+| 20220215T02:02:42Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 150 | 22| 
 | 20220214T20:58:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 196 | 11| 
 | 20220214T18:31:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2708 | 396| 
 | 20220214T11:34:30Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 6 | 0| 
