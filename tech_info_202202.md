@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T01:57:58Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 194 | 29| 
+| 20220215T02:02:58Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 195 | 29| 
 | 20220214T23:55:30Z | A lab & assignment for CSC427 | https://github.com/daffychuy/Log4j-Exploit | 0 | 0| 
 | 20220214T22:54:36Z | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | 13 | 8| 
 | 20220214T22:38:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 309 | 96| 
@@ -104,7 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T01:22:41Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 561 | 219| 
+| 20220215T01:22:41Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 561 | 220| 
 | 20220214T22:13:00Z | Null | https://github.com/charlesaurav13/reverse_backdoor | 0 | 0| 
 | 20220214T21:34:13Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 413 | 75| 
 | 20220214T19:21:25Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassAdmin | 3 | 1| 
