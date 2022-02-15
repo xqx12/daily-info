@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T01:12:39Z | Null | https://github.com/codosnes/fuzzy-tribble | 0 | 0| 
 | 20220215T00:32:27Z | Null | https://github.com/sungbin/DIY-Fuzzer | 0 | 0| 
 | 20220215T00:02:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20220214T22:15:43Z | Null | https://github.com/jhordyess/fuzzy-logic-test | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20220214T13:57:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6016 | 695| 
 | 20220214T13:09:16Z | Fast SublimeText-like fuzzy search for JavaScript. | https://github.com/farzher/fuzzysort | 2612 | 144| 
 | 20220214T12:40:05Z | Null | https://github.com/2000mahan/inverted-pendulum-with-fuzzy-control | 0 | 0| 
-| 20220214T12:32:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7089 | 1498| 
 
 
 
