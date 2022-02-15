@@ -104,7 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T00:49:50Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 559 | 219| 
+| 20220215T01:16:04Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 560 | 219| 
 | 20220214T22:13:00Z | Null | https://github.com/charlesaurav13/reverse_backdoor | 0 | 0| 
 | 20220214T21:34:13Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 413 | 75| 
 | 20220214T19:21:25Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassAdmin | 3 | 1| 
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T01:12:39Z | Null | https://github.com/codosnes/fuzzy-tribble | 0 | 0| 
+| 20220215T01:12:54Z | Null | https://github.com/codosnes/fuzzy-tribble | 0 | 0| 
 | 20220215T00:32:27Z | Null | https://github.com/sungbin/DIY-Fuzzer | 0 | 0| 
 | 20220215T00:02:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
 | 20220214T22:15:43Z | Null | https://github.com/jhordyess/fuzzy-logic-test | 0 | 0| 
