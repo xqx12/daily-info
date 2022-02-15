@@ -15,6 +15,9 @@
 | 20220214 | GLIBC 2.34 堆漏洞利用技术的攻与防 | http://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/| 
 | 20220214 | SNPSFuzzer - 基于快照实现高性能网络协议灰盒 Fuzz 的工具 | https://arxiv.org/pdf/2202.03643.pdf| 
 | 20220214 | MXview 网络管理系统被发现 unauth RCE | http://www.claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/| 
+| 20220214 | Programming for Wannabes XIV. Crypters Part II | https://0x00sec.org/t/progamming-for-wannabes-xv-crypters-part-iii/27934| 
+| 20220214 | Linux 二进制开发学习资料. | https://github.com/rosehgal/BinExp| 
+| 20220214 | 汽车安全测试终极指南，第一篇（译文） | https://tttang.com/archive/1427/| 
 
 
 # 安全维基 推荐
@@ -28,6 +31,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220214T21:38:54Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
+| 20220214T21:26:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220214T20:18:27Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
+| 20220214T19:01:32Z | CVE-2021-21311 | Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9. | https://github.com/llhala/CVE-2021-21311 | | 
 | 20220214T13:44:57Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
 | 20220214T07:34:41Z | CVE-2021-45416 | Stored XSS Vulnerability on RosarioSIS 8.2.1 | https://github.com/dnr6419/CVE-2021-45416 | | 
 | 20220214T07:32:12Z | CVE-2022-20699 | Null | https://github.com/rohankumardubey/CVE-2022-20699 | | 
@@ -38,11 +45,12 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220214T13:30:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5144 | 184| 
-| 20220214T13:15:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 217 | 24| 
+| 20220214T21:35:11Z | Null | https://github.com/kleenexx/kleenexx | 0 | 0| 
+| 20220214T20:52:03Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 220 | 24| 
+| 20220214T19:58:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5145 | 184| 
+| 20220214T18:38:28Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 291 | 18| 
 | 20220214T06:51:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1890 | 537| 
 | 20220214T05:59:26Z | Null | https://github.com/jbushago/ECE-595-KLEE-Assignment | 0 | 0| 
-| 20220214T05:16:23Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 289 | 18| 
 
 
 # s2e on Github 推荐
@@ -54,23 +62,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220214T13:45:06Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 170 | 28| 
+| 20220214T23:55:30Z | A lab & assignment for CSC427 | https://github.com/daffychuy/Log4j-Exploit | 0 | 0| 
+| 20220214T22:54:36Z | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | 13 | 8| 
+| 20220214T22:38:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 309 | 96| 
+| 20220214T21:16:31Z | Cisa Exploited Vulns | https://github.com/yung-orchestrator/CISA_Exploited_Vulns | 0 | 0| 
+| 20220214T20:03:07Z | This is my first proper expressjs project so be light on the exploits, its a work in progress, Make an issue if you see anything that needs changed please, it helps alot | https://github.com/callum1337/Auth-Webiste | 1 | 0| 
+| 20220214T14:42:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10755 | 1865| 
+| 20220214T14:18:53Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 74 | 13| 
 | 20220214T13:21:16Z | [ICLR2022] Code for %Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View% | https://github.com/xrenaa/DisCo | 64 | 5| 
-| 20220214T12:16:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10754 | 1864| 
 | 20220214T11:53:50Z | Null | https://github.com/dragondev-king/cream-finance-exploit | 0 | 0| 
 | 20220214T11:50:48Z | Null | https://github.com/eric-giraud/cream-finance-exploit | 0 | 0| 
-| 20220214T11:18:12Z | Null | https://github.com/NumanZaidan/RayxExploitVersion | 0 | 0| 
-| 20220214T11:17:53Z | Exploitation cartographique API de la Qualité des eaux de Seine-et-Marne (77) | https://github.com/johanpalos/API-Qualite-EAU-77 | 1 | 0| 
-| 20220214T10:43:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4326 | 606| 
-| 20220214T10:33:04Z | 渗透测试打点信息收集与漏洞扫描系统 | https://github.com/b0bac/B0bacExploit | 3 | 1| 
-| 20220214T09:49:17Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220214T22:13:00Z | Null | https://github.com/charlesaurav13/reverse_backdoor | 0 | 0| 
+| 20220214T21:34:13Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 413 | 75| 
+| 20220214T19:21:25Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassAdmin | 3 | 1| 
+| 20220214T14:32:57Z | Null | https://github.com/skimaharvey/dvd-backdoor | 0 | 0| 
 | 20220214T12:59:55Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 77 | 17| 
-| 20220214T12:02:40Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 540 | 219| 
 
 
 # symbolic execution on Github 推荐
@@ -90,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220214T22:15:43Z | Null | https://github.com/jhordyess/fuzzy-logic-test | 0 | 0| 
+| 20220214T22:03:08Z | Pass list of urls with FUZZ in and it will check if it has found a potential SSRF. | https://github.com/random-robbie/ssrf-finder | 81 | 24| 
+| 20220214T17:23:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 44 | 13| 
+| 20220214T16:40:49Z | Null | https://github.com/coolgogi/DIY-fuzzing | 0 | 0| 
 | 20220214T13:57:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6016 | 695| 
 | 20220214T13:09:16Z | Fast SublimeText-like fuzzy search for JavaScript. | https://github.com/farzher/fuzzysort | 2612 | 144| 
 | 20220214T12:40:05Z | Null | https://github.com/2000mahan/inverted-pendulum-with-fuzzy-control | 0 | 0| 
 | 20220214T12:32:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7089 | 1498| 
 | 20220214T12:06:37Z | Null | https://github.com/Mechanics-Mechatronics-and-Robotics/Fuzzy-logic-and-ML | 0 | 0| 
 | 20220214T12:03:01Z | Null | https://github.com/Ruddini/Fuzzy_regulator-Inverted_pendulum | 0 | 0| 
-| 20220214T11:50:46Z | Config files for my GitHub profile. | https://github.com/Fuzzy-Mind/Fuzzy-Mind | 0 | 0| 
-| 20220214T11:13:07Z | Null | https://github.com/coolgogi/DIY-fuzzing | 0 | 0| 
-| 20220214T09:49:00Z | about fuzz something | https://github.com/TheBinKing/fuzz-journey | 0 | 0| 
-| 20220214T09:44:10Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 687 | 82| 
 
 
 
