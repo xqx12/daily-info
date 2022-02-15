@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220215T02:34:48Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
 | 20220215T00:48:55Z | CVE-2022-23046 | SQL Injection Vulnerability on PhpIPAM v1.4.4 | https://github.com/dnr6419/CVE-2022-23046 | | 
 | 20220214T21:38:54Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
 | 20220214T21:26:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -55,7 +56,6 @@
 | 20220214T07:34:41Z | CVE-2021-45416 | Stored XSS Vulnerability on RosarioSIS 8.2.1 | https://github.com/dnr6419/CVE-2021-45416 | | 
 | 20220214T07:32:12Z | CVE-2022-20699 | Null | https://github.com/rohankumardubey/CVE-2022-20699 | | 
 | 20220214T01:58:23Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
-| 20220214T01:57:10Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T02:35:10Z | Null | https://github.com/coolgogi/DIY-fuzzer | 0 | 0| 
 | 20220215T01:12:54Z | Null | https://github.com/codosnes/fuzzy-tribble | 0 | 0| 
 | 20220215T00:32:27Z | Null | https://github.com/sungbin/DIY-Fuzzer | 0 | 0| 
 | 20220215T00:02:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
@@ -151,7 +152,6 @@
 | 20220214T16:40:49Z | Null | https://github.com/coolgogi/DIY-fuzzing | 0 | 0| 
 | 20220214T13:57:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6016 | 695| 
 | 20220214T13:09:16Z | Fast SublimeText-like fuzzy search for JavaScript. | https://github.com/farzher/fuzzysort | 2612 | 144| 
-| 20220214T12:40:05Z | Null | https://github.com/2000mahan/inverted-pendulum-with-fuzzy-control | 0 | 0| 
 
 
 
