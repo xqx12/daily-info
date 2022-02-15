@@ -77,7 +77,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220214T22:13:00Z | Null | https://github.com/charlesaurav13/reverse_backdoor | 0 | 0| 
-| 20220214T21:34:13Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 413 | 75| 
 | 20220214T19:21:25Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassAdmin | 3 | 1| 
 | 20220214T14:32:57Z | Null | https://github.com/skimaharvey/dvd-backdoor | 0 | 0| 
 | 20220214T12:59:55Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 77 | 17| 
