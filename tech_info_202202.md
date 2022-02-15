@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220215T13:02:33Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
 | 20220215T12:47:45Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
 | 20220215T10:01:59Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
 | 20220215T09:31:13Z | CVE-2022-23888 | 测试测试 | https://github.com/MrShiF/CVE-2022-23888 | | 
 | 20220215T07:12:02Z | CVE-2022-23046 | SQL Injection Vulnerability on PhpIPAM v1.4.4 | https://github.com/dnr6419/CVE-2022-23046 | | 
 | 20220215T07:07:15Z | cve-2021-4034 | pwnkit exploit | https://github.com/cspshivam/cve-2021-4034 | | 
-| 20220215T06:54:56Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
 | 20220214T21:26:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220214T20:18:27Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
 | 20220214T19:01:32Z | CVE-2021-21311 | Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9. | https://github.com/llhala/CVE-2021-21311 | | 
@@ -119,7 +119,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T02:47:10Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 156 | 23| 
+| 20220215T13:00:11Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 199 | 30| 
+| 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 | 20220215T02:09:21Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1144 | 48| 
 | 20220214T20:58:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 196 | 11| 
 | 20220214T18:31:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2708 | 396| 
@@ -128,7 +129,6 @@
 | 20220212T02:26:52Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
 | 20220211T19:27:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1888 | 537| 
 | 20220211T13:13:31Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
-| 20220211T06:06:30Z | Symbolic Execution & Verification Framework | https://github.com/gprechter/youverify | 1 | 0| 
 
 
 # big4 on Github 推荐

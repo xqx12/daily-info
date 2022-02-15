@@ -29,12 +29,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220215T13:02:33Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
 | 20220215T12:47:45Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
 | 20220215T10:01:59Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
 | 20220215T09:31:13Z | CVE-2022-23888 | 测试测试 | https://github.com/MrShiF/CVE-2022-23888 | | 
 | 20220215T07:12:02Z | CVE-2022-23046 | SQL Injection Vulnerability on PhpIPAM v1.4.4 | https://github.com/dnr6419/CVE-2022-23046 | | 
 | 20220215T07:07:15Z | cve-2021-4034 | pwnkit exploit | https://github.com/cspshivam/cve-2021-4034 | | 
-| 20220215T06:54:56Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
 
 
 # klee on Github 推荐
@@ -82,7 +82,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T02:47:10Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 156 | 23| 
+| 20220215T13:00:11Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 199 | 30| 
+| 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 | 20220215T02:09:21Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1144 | 48| 
 
 
