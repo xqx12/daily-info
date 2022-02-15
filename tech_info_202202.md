@@ -142,6 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T13:56:52Z | Null | https://github.com/prudhviajet/Fuzzy-Inference-System | 0 | 0| 
+| 20220215T13:56:11Z | An implementation of the fuzzy c-mean algorithm using java. | https://github.com/LaercioRJ/fuzzy-c-means | 0 | 0| 
 | 20220215T13:16:22Z | XSStrike is a program which can crawl, fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs. | https://github.com/cybersimple/XSStrike | 0 | 0| 
 | 20220215T10:49:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7093 | 1499| 
 | 20220215T10:19:35Z | Config files for my GitHub profile. | https://github.com/Fuzzy-Mind/Fuzzy-Mind | 0 | 0| 
@@ -150,8 +152,6 @@
 | 20220215T06:29:48Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 88 | 9| 
 | 20220215T02:41:31Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 820 | 59| 
 | 20220215T02:35:10Z | Null | https://github.com/coolgogi/DIY-fuzzer | 0 | 0| 
-| 20220215T01:12:54Z | Null | https://github.com/codosnes/fuzzy-tribble | 0 | 0| 
-| 20220215T00:32:27Z | Null | https://github.com/sungbin/DIY-Fuzzer | 0 | 0| 
 
 
 
