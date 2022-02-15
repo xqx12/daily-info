@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220215 | PropR: Property-based Program repair using GHC | https://github.com/Tritlo/PropR| 
+| 20220215 | 编写 Notepad++ Plugins 实现渗透时的权限维持 | http://pentestlab.blog/2022/02/14/persistence-notepad-plugins/| 
+| 20220215 | 利用 Ghostbuster 工具发现 AWS 云环境 IP 变更导致的 Dangling IP | https://blog.assetnote.io/2022/02/13/dangling-eips/| 
+| 20220215 | PrivateLoader: The first step in many malware schemes | https://intel471.com/blog/privateloader-malware| 
+| 20220215 | 利用 Windows EFS CVE-2021-43893 漏洞在 Domain Controller 上写文件 | https://www.rapid7.com/blog/post/2022/02/14/dropping-files-on-a-domain-controller-using-cve-2021-43893/| 
+| 20220215 | 京东 DawnsLab 对 Parallels Desktop 虚拟机逃逸漏洞的分析 | https://dawnslab.jd.com/pd-exploit-blog1/| 
+| 20220215 | CVE-2021-4034 pkexec 本地提权漏洞利用解析 | http://www.iceswordlab.com/2022/02/10/CVE-2021-4034/| 
 | 20220214 | Cisco RV340 SSL VPN Unauth root RCE 漏洞分析 | https://github.com/pedrib/PoC/blob/master/advisories/Pwn2Own/Austin_2021/flashback_connects/flashback_connects.md| 
 | 20220214 | 静态代码分析工具 Joern 与 CodeQl 的比较 | https://elmanto.github.io/posts/sast_derby_joern_vs_codeql| 
 | 20220214 | go-fuzz-headers - 为 Go Fuzzer 提供对复杂数据类型 Fuzz 的工具 | http://adalogics.com/blog/structure-aware-go-fuzzing-complex-types| 
@@ -19,52 +26,45 @@
 | 20220214 | Linux 二进制开发学习资料. | https://github.com/rosehgal/BinExp| 
 | 20220214 | 汽车安全测试终极指南，第一篇（译文） | https://tttang.com/archive/1427/| 
 | 20220213 | JavaScript 调试技巧总结. | https://flaviocopes.com/debugging/| 
-| 20220213 | OzLockCon 2017会议视频 - Bluetooth that bites — BTLE Unlocking - Huajiang ‘Kevin2600’ Chen. | https://www.youtube.com/watch?v=jJ1QCFa4kDw| 
-| 20220211 | Apple 发布紧急补丁，修复 WebKit 的一个野外利用漏洞 | https://support.apple.com/en-us/HT213093| 
-| 20220211 | Case Studies of Fuzzing with Xen，来自 OffensiveCon 2022 会议 | http://silentsignal.hu/docs/OffensiveCon22-Case_Studies_of_Fuzzing_with_Xen.pdf| 
-| 20220211 | Android 13 开发者预览版发布，更新 Photo picker 和附近 Wi-Fi 设备的隐私数据管理 | https://android-developers.googleblog.com/2022/02/first-preview-android-13.html| 
-| 20220211 | Sentinel Labs 对 ModifiedElephant APT 组织的分析报告 | https://assets.sentinelone.com/sentinellabs-apt/modified-elephant-apt| 
-| 20220211 | Attacking an Ethereum L2 with Unbridled Optimism | https://www.saurik.com/optimism.html| 
-| 20220211 | Linux 内核 TIPC 模块 RCE 漏洞分析（CVE-2022-0435） | http://www.openwall.com/lists/oss-security/2022/02/10/1| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220215 | 终极Java反序列化Payload缩小技术 | https://xz.aliyun.com/t/10824| 
+| 20220215 | 求解网络安全问题的可解释机器学习 | https://toooold.com/2022/02/13/explainable_w_shap_cn.html| 
+| 20220215 | 从一例 Pegasus 误报说开去 | https://mp.weixin.qq.com/s/JR771hiRCocy8prLP3mvXw| 
+| 20220215 | 绕过污点分析的一些思考 | https://mp.weixin.qq.com/s/UbqPcqPnQ3GNKSIx0VNjxw| 
+| 20220215 | 2021网络金融黑产研究报告 | https://mp.weixin.qq.com/s/nsj0UowJWxm8niS3ITT8OA| 
+| 20220215 | 解读2022年《网络安全审查办法》版本修订要点 | https://mp.weixin.qq.com/s/r_OBH12gNsHNWRFCYYXb8w| 
 | 20220214 | SecWiki周刊（第415期) | https://www.sec-wiki.com/weekly/415| 
 | 20220214 | Java安全研究与安全开发面试题总结 | https://github.com/4ra1n/JavaSecInterview| 
 | 20220214 | 记一次挖矿病毒的应急响应 | https://www.freebuf.com/articles/network/321590.html| 
 | 20220212 | 开源软件包与软件供应链安全漏洞修复分析研究 | https://mp.weixin.qq.com/s/KrmzMMDUPUG7qolPPi8SSg| 
-| 20220212 | 攻防对抗的十八层地狱 | https://mp.weixin.qq.com/s/6K98x6qjiJKLn2tZX2g0zQ| 
-| 20220211 | [HTB] Love Writeup | https://mp.weixin.qq.com/s/3xZKlWMdUiWNCkhaXn7-4g| 
-| 20220211 | PendingIntent重定向：一种针对安卓系统和流行App的通用提权方... | https://mp.weixin.qq.com/s/lB3yV1-VE3X-CmqN2T5KCw| 
-| 20220211 | 自动机器学习的安全风险 | https://mp.weixin.qq.com/s/ixkVCo7ktpdKD1sL4_YE0Q| 
-| 20220211 | 解构开源IAST 打造安全灰盒利器 | https://mp.weixin.qq.com/s/qyii_dLzUnZlfCIGZPOthA| 
-| 20220210 | Top 10 web hacking techniques of 2021 | https://portswigger.net/research/top-10-web-hacking-techniques-of-2021| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220215T02:39:31Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
-| 20220215T00:48:55Z | CVE-2022-23046 | SQL Injection Vulnerability on PhpIPAM v1.4.4 | https://github.com/dnr6419/CVE-2022-23046 | | 
-| 20220214T21:38:54Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
+| 20220215T12:47:45Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
+| 20220215T10:01:59Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
+| 20220215T09:31:13Z | CVE-2022-23888 | 测试测试 | https://github.com/MrShiF/CVE-2022-23888 | | 
+| 20220215T07:12:02Z | CVE-2022-23046 | SQL Injection Vulnerability on PhpIPAM v1.4.4 | https://github.com/dnr6419/CVE-2022-23046 | | 
+| 20220215T07:07:15Z | cve-2021-4034 | pwnkit exploit | https://github.com/cspshivam/cve-2021-4034 | | 
+| 20220215T06:54:56Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
 | 20220214T21:26:23Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220214T20:18:27Z | CVE-2021-3560 | Null | https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation | | 
 | 20220214T19:01:32Z | CVE-2021-21311 | Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9. | https://github.com/llhala/CVE-2021-21311 | | 
 | 20220214T13:44:57Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) | https://github.com/arthepsy/CVE-2021-4034 | | 
-| 20220214T07:34:41Z | CVE-2021-45416 | Stored XSS Vulnerability on RosarioSIS 8.2.1 | https://github.com/dnr6419/CVE-2021-45416 | | 
-| 20220214T07:32:12Z | CVE-2022-20699 | Null | https://github.com/rohankumardubey/CVE-2022-20699 | | 
-| 20220214T01:58:23Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T02:44:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5149 | 184| 
+| 20220215T12:58:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5159 | 183| 
+| 20220215T11:25:17Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 222 | 24| 
+| 20220215T10:31:40Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 295 | 18| 
 | 20220214T21:35:11Z | Null | https://github.com/kleenexx/kleenexx | 0 | 0| 
-| 20220214T20:52:03Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 220 | 24| 
-| 20220214T18:38:28Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 291 | 18| 
 | 20220214T06:51:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1890 | 538| 
 | 20220214T05:59:26Z | Null | https://github.com/jbushago/ECE-595-KLEE-Assignment | 0 | 0| 
 | 20220213T02:57:18Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 17 | 1| 
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T07:06:33Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 8 | 0| 
 | 20220214T01:13:44Z | A MakeCode project | https://github.com/Flora623/s2e07task3 | 0 | 0| 
 | 20220212T14:23:29Z | Null | https://github.com/software-testing-bootcamp/S2E2-Appium-2.0-Java-Mobile-Automation | 1 | 0| 
-| 20220212T07:43:47Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 7 | 0| 
 | 20220211T13:13:31Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220208T00:21:08Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 13 | 8| 
 | 20220203T13:13:02Z | In this Episode we will be installing Asterisk and The Browser Phone onto a Virtual Private Cloud. We are going to be using Amazon Web Services and Google Cloud, and we will be installing Ubuntu 18 LTS and CentOS 8. | https://github.com/InnovateAsterisk/S2E2 | 0 | 1| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T02:16:20Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 197 | 30| 
-| 20220214T23:55:30Z | A lab & assignment for CSC427 | https://github.com/daffychuy/Log4j-Exploit | 0 | 0| 
-| 20220214T22:54:36Z | Ded Security Framework is a tool aimed at security professionals | https://github.com/dedsecurity/dedsecurity-framework | 13 | 8| 
-| 20220214T22:38:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 309 | 96| 
-| 20220214T22:16:27Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 36 | 12| 
-| 20220214T21:16:31Z | Cisa Exploited Vulns | https://github.com/yung-orchestrator/CISA_Exploited_Vulns | 0 | 0| 
-| 20220214T20:03:07Z | This is my first proper expressjs project so be light on the exploits, its a work in progress, Make an issue if you see anything that needs changed please, it helps alot | https://github.com/callum1337/Auth-Webiste | 1 | 0| 
-| 20220214T14:42:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10755 | 1865| 
-| 20220214T14:18:53Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 74 | 13| 
-| 20220214T13:21:16Z | [ICLR2022] Code for %Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View% | https://github.com/xrenaa/DisCo | 64 | 5| 
+| 20220215T12:54:34Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 270 | 36| 
+| 20220215T12:45:53Z | Fortnite internal fixed source. Updated internal source with SDK, credits to android. Has working zipline flying/teleport exploit. Have fun | https://github.com/or1equal1/fortnite-internal-fixed | 0 | 0| 
+| 20220215T12:21:37Z | 3D Rendering India ,3D product modeling services are highly pragmatic and very inexpensive. We have helped scores of customers to design creative 3d product. We shape new concepts for products, designing projects and product presentations . Many company and business exploit our 3D product modeling services. These high quality design are  supporting for Marketing, advertising, Product approval etc. 3D Product Rendering Services India 3D Product Rendering Services India & worldeide is used by all businesses to exhibit and for the  commerce  intention of their products. Let’s begin understand what is 3D Product Rendering. 3D Product Rendering is a Computer-generated  spec and is used for commerce  intention. Ecommerce company need these 3D Product image to show all the details of the products to the consumers.  Whether it is Automotive company, 3D Product Renderings are a needs for Marketing managers and company owners. presently, most of the visuals you see as long as shopping on online platforms but, they are commonly 3D Product Visuals and not genuine product photoshoots. We have a team of elite 3d designers who have a good experience in 3d rendering. The Imagine Studio is an India-based web development/ 3d rendering company. Distributing high-quality, cost-effective, reliable, and result-oriented solutions to our clients spread all over the world. The Imagine Studio is one of the dominant 3d modeling companies in Delhi, India where all your imaginations are convinced into 3d models and animation. We are fascinated about our work and enthusiastically design the steep quality of Web Development, E-Commerce Solutions, Digital Marketing, Architectural 3D Rendering, 3D cut-models, 3D landscape, 3d stall design, 3D Walk-through, 3D product modeling, 3D Furniture modeling, 3D home decor modeling, 3D gaming models, 3d character animation, 3D explainer video, 3D commercial animation, 3D automobiles 3d medical and other machinery models, etc. | https://github.com/Imaginestudio1/3d-Product-Rendering-Services-India-Theimaginestudio.Com | 0 | 0| 
+| 20220215T10:43:49Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1059 | 232| 
+| 20220215T09:28:33Z | An exploitable scenario in order to understand how to audit and fix mistakes made on developing stages. | https://github.com/corraldev/auditing-web-services | 0 | 0| 
+| 20220215T09:10:42Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | 0 | 0| 
+| 20220215T09:10:21Z | Demo exploit targeting usb gadget%s os descriptor handler | https://github.com/szymonh/d-os-descriptor | 0 | 0| 
+| 20220215T08:26:10Z | Null | https://github.com/AnonymPlayer2/TL-Exploit | 0 | 0| 
+| 20220215T07:41:53Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 734 | 127| 
+| 20220215T06:50:17Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 75 | 13| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T10:43:33Z | [Virus] [Backdoor] Self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/Pestilence | 0 | 0| 
+| 20220215T10:40:48Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 83 | 16| 
+| 20220215T06:41:13Z | Null | https://github.com/Matt-Gaston/Simple-Backdoor | 0 | 0| 
+| 20220215T05:13:18Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1490 | 687| 
+| 20220215T03:46:26Z | Null | https://github.com/d3ck9/shell-backdoor | 0 | 0| 
+| 20220215T03:04:59Z | Null | https://github.com/THUYimingLi/BackdoorBox | 16 | 9| 
 | 20220215T02:38:24Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 414 | 76| 
 | 20220215T02:35:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 564 | 220| 
 | 20220214T22:13:00Z | Null | https://github.com/charlesaurav13/reverse_backdoor | 0 | 0| 
 | 20220214T19:21:25Z | A workflow to create/manage a backdoor admin account and rotate the password. E.g. Another LAPS workflow. | https://github.com/Rocketman-Tech/BreakGlassAdmin | 3 | 1| 
-| 20220214T14:32:57Z | Null | https://github.com/skimaharvey/dvd-backdoor | 0 | 0| 
-| 20220214T12:59:55Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 77 | 17| 
-| 20220213T23:02:22Z | Null | https://github.com/THUYimingLi/BackdoorBox | 15 | 9| 
-| 20220213T15:51:35Z | Fat-Stealer is a stealer that allows you to grab the Discord token from a user and open a backdoor in his machine. | https://github.com/JetBerri/Stealer | 6 | 0| 
-| 20220213T13:07:06Z | Kermini-Backdoor : a gmod simple backdoor System | https://github.com/Maxime48/Kermini-Backdoor-Gmod | 1 | 0| 
-| 20220213T10:37:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1489 | 686| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T10:49:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7093 | 1499| 
+| 20220215T10:19:35Z | Config files for my GitHub profile. | https://github.com/Fuzzy-Mind/Fuzzy-Mind | 0 | 0| 
+| 20220215T08:35:47Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 235 | 14| 
+| 20220215T06:49:24Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 492 | 47| 
+| 20220215T06:29:48Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 88 | 9| 
 | 20220215T02:41:31Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 820 | 59| 
 | 20220215T02:35:10Z | Null | https://github.com/coolgogi/DIY-fuzzer | 0 | 0| 
 | 20220215T01:12:54Z | Null | https://github.com/codosnes/fuzzy-tribble | 0 | 0| 
 | 20220215T00:32:27Z | Null | https://github.com/sungbin/DIY-Fuzzer | 0 | 0| 
 | 20220215T00:02:20Z | Null | https://github.com/oscarpimentel/fuzzy-torch | 1 | 0| 
-| 20220214T22:15:43Z | Null | https://github.com/jhordyess/fuzzy-logic-test | 0 | 0| 
-| 20220214T22:03:08Z | Pass list of urls with FUZZ in and it will check if it has found a potential SSRF. | https://github.com/random-robbie/ssrf-finder | 81 | 24| 
-| 20220214T17:23:06Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 44 | 13| 
-| 20220214T16:40:49Z | Null | https://github.com/coolgogi/DIY-fuzzing | 0 | 0| 
-| 20220214T13:57:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6016 | 695| 
 
 
 
