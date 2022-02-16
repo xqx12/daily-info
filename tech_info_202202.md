@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T01:52:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 327 | 43| 
+| 20220216T01:55:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 328 | 43| 
 | 20220216T01:47:20Z | Null | https://github.com/BLACKHAT-SSG/Vmware-Exploitation | 0 | 0| 
 | 20220216T01:19:23Z | Null | https://github.com/freitzzz/tpas-binary-exploitation | 0 | 0| 
 | 20220216T01:12:20Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6367 | 1489| 
@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T01:09:02Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 221 | 33| 
+| 20220216T01:56:09Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 222 | 33| 
 | 20220215T21:01:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2709 | 396| 
 | 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 | 20220215T02:09:21Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1144 | 48| 
