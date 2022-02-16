@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T01:19:23Z | Null | https://github.com/freitzzz/tpas-binary-exploitation | 0 | 0| 
 | 20220216T01:14:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 324 | 43| 
 | 20220216T01:12:20Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6367 | 1489| 
 | 20220216T00:46:25Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2528 | 456| 
@@ -98,7 +99,6 @@
 | 20220215T20:19:07Z | L%api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | 0 | 0| 
 | 20220215T19:57:47Z | This is my first proper expressjs project so be light on the exploits, its a work in progress, Make an issue if you see anything that needs changed please, it helps alot | https://github.com/callum1337/Auth-Webiste | 1 | 1| 
 | 20220215T19:27:33Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1112 | 472| 
-| 20220215T13:26:58Z | The following is an automated AWS python exploit to change and update the IAM profiles in an AWS account to a password that we can log into with the management console. | https://github.com/Gfuen/AWSUpdateProfileExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
