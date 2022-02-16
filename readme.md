@@ -13,6 +13,7 @@
 | 20220215 | 利用 Windows EFS CVE-2021-43893 漏洞在 Domain Controller 上写文件 | https://www.rapid7.com/blog/post/2022/02/14/dropping-files-on-a-domain-controller-using-cve-2021-43893/| 
 | 20220215 | 京东 DawnsLab 对 Parallels Desktop 虚拟机逃逸漏洞的分析 | https://dawnslab.jd.com/pd-exploit-blog1/| 
 | 20220215 | CVE-2021-4034 pkexec 本地提权漏洞利用解析 | http://www.iceswordlab.com/2022/02/10/CVE-2021-4034/| 
+| 20220215 | RedLine Stealer 伪装成 Windows 11 更新程序，窃取用户信息. | https://paper.seebug.org/1831/| 
 
 
 # 安全维基 推荐
@@ -29,7 +30,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220215T13:53:59Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
+| 20220215T18:44:00Z | cve-2020-13777 | Zeek script to detect servers vulnerable to CVE-2020-13777 | https://github.com/0xxon/cve-2020-13777 | | 
+| 20220215T18:42:06Z | cve-2020-0601 | Zeek package to detect CVE-2020-0601 | https://github.com/0xxon/cve-2020-0601 | | 
+| 20220215T17:00:00Z | CVE-2021-1732 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-1732 | | 
 | 20220215T13:18:02Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
 | 20220215T13:14:06Z | CVE-2021-22005 | CVE-2021-22005 vcenter任意文件上传批量验证poc | https://github.com/chaosec2021/CVE-2021-22005poc | | 
 | 20220215T10:01:59Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
@@ -41,8 +44,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T13:56:25Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 301 | 18| 
-| 20220215T13:51:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5160 | 183| 
+| 20220215T13:59:18Z | KLEE with floating point support (unmaintained) | https://github.com/srg-imperial/klee-float | 14 | 14| 
 | 20220215T11:25:17Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 222 | 24| 
 
 
@@ -55,16 +57,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T13:56:22Z | Gather and update all available and newest CVEs with their POC. | https://github.com/trickest/cve | 276 | 36| 
+| 20220215T22:50:30Z | A framework for exploits. Don%t worry non exploiters, I gotchu with another framework coming up. | https://github.com/Ix1x0x3/EurusFramework | 0 | 0| 
+| 20220215T20:19:07Z | L%api de RhyteredExploit | https://github.com/RapidoBuzz/RhyteredExploitAPI | 0 | 0| 
+| 20220215T19:57:47Z | This is my first proper expressjs project so be light on the exploits, its a work in progress, Make an issue if you see anything that needs changed please, it helps alot | https://github.com/callum1337/Auth-Webiste | 1 | 1| 
+| 20220215T19:27:33Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1112 | 472| 
 | 20220215T13:26:58Z | The following is an automated AWS python exploit to change and update the IAM profiles in an AWS account to a password that we can log into with the management console. | https://github.com/Gfuen/AWSUpdateProfileExploit | 0 | 0| 
 | 20220215T13:15:28Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1060 | 232| 
 | 20220215T12:45:53Z | Fortnite internal fixed source. Updated internal source with SDK, credits to android. Has working zipline flying/teleport exploit. Have fun | https://github.com/or1equal1/fortnite-internal-fixed | 0 | 0| 
 | 20220215T12:21:37Z | 3D Rendering India ,3D product modeling services are highly pragmatic and very inexpensive. We have helped scores of customers to design creative 3d product. We shape new concepts for products, designing projects and product presentations . Many company and business exploit our 3D product modeling services. These high quality design are  supporting for Marketing, advertising, Product approval etc. 3D Product Rendering Services India 3D Product Rendering Services India & worldeide is used by all businesses to exhibit and for the  commerce  intention of their products. Let’s begin understand what is 3D Product Rendering. 3D Product Rendering is a Computer-generated  spec and is used for commerce  intention. Ecommerce company need these 3D Product image to show all the details of the products to the consumers.  Whether it is Automotive company, 3D Product Renderings are a needs for Marketing managers and company owners. presently, most of the visuals you see as long as shopping on online platforms but, they are commonly 3D Product Visuals and not genuine product photoshoots. We have a team of elite 3d designers who have a good experience in 3d rendering. The Imagine Studio is an India-based web development/ 3d rendering company. Distributing high-quality, cost-effective, reliable, and result-oriented solutions to our clients spread all over the world. The Imagine Studio is one of the dominant 3d modeling companies in Delhi, India where all your imaginations are convinced into 3d models and animation. We are fascinated about our work and enthusiastically design the steep quality of Web Development, E-Commerce Solutions, Digital Marketing, Architectural 3D Rendering, 3D cut-models, 3D landscape, 3d stall design, 3D Walk-through, 3D product modeling, 3D Furniture modeling, 3D home decor modeling, 3D gaming models, 3d character animation, 3D explainer video, 3D commercial animation, 3D automobiles 3d medical and other machinery models, etc. | https://github.com/Imaginestudio1/3d-Product-Rendering-Services-India-Theimaginestudio.Com | 0 | 0| 
+| 20220215T10:45:35Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 322 | 20| 
 | 20220215T09:28:33Z | An exploitable scenario in order to understand how to audit and fix mistakes made on developing stages. | https://github.com/corraldev/auditing-web-services | 0 | 0| 
-| 20220215T09:10:42Z | Ro-Exploit MM2 Gui, Murder Mystery 2 GUI by Ro-Xploit team | https://github.com/RoXploit/Ro-XploitMM2GUI | 0 | 0| 
-| 20220215T09:10:21Z | Demo exploit targeting usb gadget%s os descriptor handler | https://github.com/szymonh/d-os-descriptor | 0 | 0| 
-| 20220215T08:26:10Z | Null | https://github.com/AnonymPlayer2/TL-Exploit | 0 | 0| 
-| 20220215T07:41:53Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 734 | 127| 
 
 
 # backdoor on Github 推荐
@@ -83,7 +85,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220215T13:41:22Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 201 | 30| 
+| 20220215T21:01:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2709 | 396| 
 | 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 | 20220215T02:09:21Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1144 | 48| 
 
@@ -96,16 +98,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T23:32:58Z | A random program generator for fuzzing WGSL compilers | https://github.com/hasali19/WGSLsmith | 1 | 0| 
+| 20220215T22:50:27Z | Implementation of Inverted Pendulum with Fuzzy Expert System. | https://github.com/hedzd/Fuzzy-inverted-pendulum | 0 | 0| 
+| 20220215T22:49:07Z | Simple site for a friend a mine. All credits to HTML5UP.net | https://github.com/JasonCruz-Dev/fuzzy-enigma | 0 | 0| 
+| 20220215T22:02:30Z | Null | https://github.com/wozniwa/fuzzy-telegram | 0 | 0| 
+| 20220215T19:44:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7094 | 1499| 
 | 20220215T13:56:52Z | Null | https://github.com/prudhviajet/Fuzzy-Inference-System | 0 | 0| 
 | 20220215T13:56:11Z | An implementation of the fuzzy c-mean algorithm using java. | https://github.com/LaercioRJ/fuzzy-c-means | 0 | 0| 
 | 20220215T13:16:22Z | XSStrike is a program which can crawl, fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs. | https://github.com/cybersimple/XSStrike | 0 | 0| 
-| 20220215T10:49:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7093 | 1499| 
 | 20220215T10:19:35Z | Config files for my GitHub profile. | https://github.com/Fuzzy-Mind/Fuzzy-Mind | 0 | 0| 
-| 20220215T08:35:47Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 235 | 14| 
-| 20220215T06:49:24Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 492 | 47| 
-| 20220215T06:29:48Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 88 | 9| 
-| 20220215T02:41:31Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 820 | 59| 
-| 20220215T02:35:10Z | Null | https://github.com/coolgogi/DIY-fuzzer | 0 | 0| 
+| 20220215T09:13:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4679 | 476| 
 
 
 
