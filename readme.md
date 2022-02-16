@@ -72,14 +72,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220215T22:51:41Z | Code for An Adaptive Black-box Backdoor Detection Method for Deep Neural Networks | https://github.com/xinqiaozhang/adatrojan | 0 | 0| 
+| 20220215T21:54:38Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 79 | 18| 
+| 20220215T21:03:01Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 504 | 63| 
+| 20220215T20:19:56Z | Yet Another PHP Shell - The most complete PHP reverse shell | https://github.com/Nickguitar/YAPS | 30 | 3| 
+| 20220215T16:54:46Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 128 | 31| 
+| 20220215T14:02:52Z | Tlelegram backdoor builder | https://github.com/blueTUZZ01/Triker | 0 | 0| 
 | 20220215T10:43:33Z | [Virus] [Backdoor] Self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/Pestilence | 0 | 0| 
 | 20220215T10:40:48Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 83 | 16| 
 | 20220215T06:41:13Z | Null | https://github.com/Matt-Gaston/Simple-Backdoor | 0 | 0| 
 | 20220215T05:13:18Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1490 | 687| 
-| 20220215T03:46:26Z | Null | https://github.com/d3ck9/shell-backdoor | 0 | 0| 
-| 20220215T03:04:59Z | Null | https://github.com/THUYimingLi/BackdoorBox | 16 | 9| 
-| 20220215T02:38:24Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 414 | 76| 
-| 20220215T02:35:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 564 | 220| 
 
 
 # symbolic execution on Github 推荐
