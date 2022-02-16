@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220216 | AD CS: from ManageCA to RCE - BlackArrow | https://www.blackarrow.net/ad-cs-from-manageca-to-rce/| 
+| 20220216 | Gaining the upper hand(le) - 利用 Low-IL 进程中残留的敏感 handle 提权或 Bypass UAC | https://aptw.tf/2022/02/10/leaked-handle-hunting.html| 
+| 20220216 | VMware View Planner、vRealize Business for Cloud unauth RCE | https://swarm.ptsecurity.com/hunting-for-bugs-in-vmware-view-planner-and-vrealize-business-for-cloud/| 
+| 20220216 | CVE-2021-44521: RCE Vulnerability in Apache Cassandra | https://jfrog.com/blog/cve-2021-44521-exploiting-apache-cassandra-user-defined-functions-for-remote-code-execution/| 
+| 20220216 | 基于 .NET 6 写的跨平台 Mythic Agent | https://github.com/MythicAgents/Athena| 
+| 20220216 | 利用 Object Overloading 技术，向 Windows Built-in 进程注入代码绕过 EDR 的检测 | http://blog.xpnsec.com/object-overloading/| 
+| 20220216 | Chrome 发布版本更新，本次更新修复了一个野外被攻击的漏洞 | https://threatpost.com/google-chrome-zero-day-under-attack/178428/| 
+| 20220216 | 利用 Binary Ninja 的静态污点分析功能挖掘 MySQL Cluster 的漏洞 | https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities| 
 | 20220215 | PropR: Property-based Program repair using GHC | https://github.com/Tritlo/PropR| 
 | 20220215 | 编写 Notepad++ Plugins 实现渗透时的权限维持 | http://pentestlab.blog/2022/02/14/persistence-notepad-plugins/| 
 | 20220215 | 利用 Ghostbuster 工具发现 AWS 云环境 IP 变更导致的 Dangling IP | https://blog.assetnote.io/2022/02/13/dangling-eips/| 
@@ -18,14 +26,6 @@
 | 20220214 | 静态代码分析工具 Joern 与 CodeQl 的比较 | https://elmanto.github.io/posts/sast_derby_joern_vs_codeql| 
 | 20220214 | go-fuzz-headers - 为 Go Fuzzer 提供对复杂数据类型 Fuzz 的工具 | http://adalogics.com/blog/structure-aware-go-fuzzing-complex-types| 
 | 20220214 | Meta(Facebook) BugBounty-Writeups | https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups| 
-| 20220214 | FuzzingDriver - 为 Coverage-based Greybox Fuzzers 生成字典 Token 的工具 | https://arxiv.org/ftp/arxiv/papers/2201/2201.04853.pdf| 
-| 20220214 | How I made $31500 by submitting a bug to Facebook | https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204| 
-| 20220214 | GLIBC 2.34 堆漏洞利用技术的攻与防 | http://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/| 
-| 20220214 | SNPSFuzzer - 基于快照实现高性能网络协议灰盒 Fuzz 的工具 | https://arxiv.org/pdf/2202.03643.pdf| 
-| 20220214 | MXview 网络管理系统被发现 unauth RCE | http://www.claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/| 
-| 20220214 | Programming for Wannabes XIV. Crypters Part II | https://0x00sec.org/t/progamming-for-wannabes-xv-crypters-part-iii/27934| 
-| 20220214 | Linux 二进制开发学习资料. | https://github.com/rosehgal/BinExp| 
-| 20220214 | 汽车安全测试终极指南，第一篇（译文） | https://tttang.com/archive/1427/| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220216T02:07:26Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
+| 20220216T11:47:39Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
+| 20220216T08:50:33Z | cve-2022-24086 | cve-2022-24086 patch for Magento 1.9  | https://github.com/wambo-co/magento-1.9-cve-2022-24086 | | 
+| 20220216T08:33:06Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
 | 20220215T18:44:00Z | cve-2020-13777 | Zeek script to detect servers vulnerable to CVE-2020-13777 | https://github.com/0xxon/cve-2020-13777 | | 
 | 20220215T18:42:06Z | cve-2020-0601 | Zeek package to detect CVE-2020-0601 | https://github.com/0xxon/cve-2020-0601 | | 
 | 20220215T17:00:00Z | CVE-2021-1732 | Null | https://github.com/r1l4-i3pur1l4/CVE-2021-1732 | | 
 | 20220215T13:18:02Z | CVE-2022-21882 | Null | https://github.com/r1l4-i3pur1l4/CVE-2022-21882 | | 
 | 20220215T13:14:06Z | CVE-2021-22005 | CVE-2021-22005 vcenter任意文件上传批量验证poc | https://github.com/chaosec2021/CVE-2021-22005poc | | 
-| 20220215T10:01:59Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
 | 20220215T09:31:13Z | CVE-2022-23888 | 测试测试 | https://github.com/MrShiF/CVE-2022-23888 | | 
 | 20220215T07:12:02Z | CVE-2022-23046 | SQL Injection Vulnerability on PhpIPAM v1.4.4 | https://github.com/dnr6419/CVE-2022-23046 | | 
-| 20220215T07:07:15Z | cve-2021-4034 | pwnkit exploit | https://github.com/cspshivam/cve-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T02:50:30Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 321 | 22| 
-| 20220216T02:32:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5164 | 183| 
+| 20220216T12:28:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5173 | 184| 
+| 20220216T11:55:16Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 347 | 22| 
+| 20220216T03:13:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 224 | 36| 
 | 20220215T13:59:18Z | KLEE with floating point support (unmaintained) | https://github.com/srg-imperial/klee-float | 14 | 14| 
 | 20220215T11:25:17Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 222 | 24| 
 | 20220214T21:35:11Z | Null | https://github.com/kleenexx/kleenexx | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220214T05:59:26Z | Null | https://github.com/jbushago/ECE-595-KLEE-Assignment | 0 | 0| 
 | 20220213T02:57:18Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 17 | 1| 
 | 20220212T13:56:12Z | Null | https://github.com/T0PEKA/Spark-Knight-Klee-of-the-Knights-of-Favonius-reporting-for-duty- | 0 | 0| 
-| 20220211T13:32:09Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T13:00:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 606 | 73| 
+| 20220216T12:59:24Z | Bypassing Linux Executable Space Protection using 20+ years old tools. | https://github.com/x0reaxeax/exec-prot-bypass | 0 | 0| 
+| 20220216T12:49:35Z | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | 2 | 0| 
+| 20220216T12:07:34Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2963 | 549| 
+| 20220216T09:53:44Z | Null | https://github.com/Prasanth-9600/exploit_practice | 0 | 0| 
+| 20220216T07:28:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10758 | 1865| 
+| 20220216T06:12:38Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 16 | 5| 
 | 20220216T02:58:25Z | Null | https://github.com/BLACKHAT-SSG/AWESOME-EXPLOIT-DEVELOPMENT | 0 | 0| 
-| 20220216T02:50:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 334 | 44| 
 | 20220216T02:46:50Z | Null | https://github.com/0xdeadhead/exploits | 0 | 0| 
 | 20220216T02:46:16Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6368 | 1490| 
-| 20220216T02:09:40Z | Pytorch code for our MS-MLP %Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs% | https://github.com/JegZheng/MS-MLP | 0 | 0| 
-| 20220216T01:47:20Z | Null | https://github.com/BLACKHAT-SSG/Vmware-Exploitation | 0 | 0| 
-| 20220216T01:19:23Z | Null | https://github.com/freitzzz/tpas-binary-exploitation | 0 | 0| 
-| 20220216T00:46:25Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2528 | 456| 
-| 20220216T00:34:03Z | My exploits with scripting languages:  Python, PHP, Ruby, etc | https://github.com/joehaffey/scripting | 0 | 0| 
-| 20220216T00:27:30Z | Null | https://github.com/Apolloknine/k9-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T12:55:28Z | I improve the original fuzzotron%s feature of calibration. | https://github.com/LeonCiou/MyFuzzotron | 0 | 0| 
+| 20220216T12:39:38Z | This is in progress fuzzy application for android written in kotlin | https://github.com/DusanTodorovic5/FuzzyApp | 1 | 0| 
+| 20220216T12:31:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3945 | 930| 
+| 20220216T12:14:28Z | Null | https://github.com/EduaReyes/fuzzy-invention | 0 | 0| 
+| 20220216T11:52:34Z | repo for my class PW3 | https://github.com/Mezali/fuzzy-enigma | 0 | 0| 
+| 20220216T08:38:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7096 | 1499| 
+| 20220216T07:29:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1045 | 151| 
 | 20220216T01:16:24Z | Null | https://github.com/dc9865/Fuzzer | 0 | 0| 
 | 20220215T23:32:58Z | A random program generator for fuzzing WGSL compilers | https://github.com/hasali19/WGSLsmith | 1 | 0| 
 | 20220215T22:50:27Z | Implementation of Inverted Pendulum with Fuzzy Expert System. | https://github.com/hedzd/Fuzzy-inverted-pendulum | 0 | 0| 
-| 20220215T22:49:07Z | Simple site for a friend a mine. All credits to HTML5UP.net | https://github.com/JasonCruz-Dev/fuzzy-enigma | 0 | 0| 
-| 20220215T22:02:30Z | Null | https://github.com/wozniwa/fuzzy-telegram | 0 | 0| 
-| 20220215T19:44:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7094 | 1499| 
-| 20220215T13:56:52Z | Null | https://github.com/prudhviajet/Fuzzy-Inference-System | 0 | 0| 
-| 20220215T13:56:11Z | An implementation of the fuzzy c-mean algorithm using java. | https://github.com/LaercioRJ/fuzzy-c-means | 0 | 0| 
-| 20220215T13:16:22Z | XSStrike is a program which can crawl, fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs. | https://github.com/cybersimple/XSStrike | 0 | 0| 
-| 20220215T10:19:35Z | Config files for my GitHub profile. | https://github.com/Fuzzy-Mind/Fuzzy-Mind | 0 | 0| 
 
 
 
