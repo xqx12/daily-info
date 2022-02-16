@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T01:11:28Z | Null | https://github.com/dc9865/Fuzzer | 0 | 0| 
+| 20220216T01:16:24Z | Null | https://github.com/dc9865/Fuzzer | 0 | 0| 
 | 20220215T23:32:58Z | A random program generator for fuzzing WGSL compilers | https://github.com/hasali19/WGSLsmith | 1 | 0| 
 | 20220215T22:50:27Z | Implementation of Inverted Pendulum with Fuzzy Expert System. | https://github.com/hedzd/Fuzzy-inverted-pendulum | 0 | 0| 
 | 20220215T22:49:07Z | Simple site for a friend a mine. All credits to HTML5UP.net | https://github.com/JasonCruz-Dev/fuzzy-enigma | 0 | 0| 
