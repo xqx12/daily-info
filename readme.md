@@ -46,7 +46,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T13:18:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 630 | 74| 
+| 20220216T13:19:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 631 | 74| 
+| 20220216T13:19:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 311 | 97| 
 | 20220216T12:59:24Z | Bypassing Linux Executable Space Protection using 20+ years old tools. | https://github.com/x0reaxeax/exec-prot-bypass | 0 | 0| 
 | 20220216T12:49:35Z | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | 2 | 0| 
 | 20220216T12:07:34Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2963 | 549| 
@@ -55,7 +56,6 @@
 | 20220216T06:12:38Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 16 | 5| 
 | 20220216T02:58:25Z | Null | https://github.com/BLACKHAT-SSG/AWESOME-EXPLOIT-DEVELOPMENT | 0 | 0| 
 | 20220216T02:46:50Z | Null | https://github.com/0xdeadhead/exploits | 0 | 0| 
-| 20220216T02:46:16Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6368 | 1490| 
 
 
 # backdoor on Github 推荐
