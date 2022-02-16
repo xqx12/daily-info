@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T01:24:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 325 | 43| 
 | 20220216T01:19:23Z | Null | https://github.com/freitzzz/tpas-binary-exploitation | 0 | 0| 
-| 20220216T01:14:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 324 | 43| 
 | 20220216T01:12:20Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6367 | 1489| 
 | 20220216T00:46:25Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2528 | 456| 
 | 20220216T00:34:03Z | My exploits with scripting languages:  Python, PHP, Ruby, etc | https://github.com/joehaffey/scripting | 0 | 0| 
