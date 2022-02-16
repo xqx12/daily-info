@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T02:58:25Z | Null | https://github.com/BLACKHAT-SSG/AWESOME-EXPLOIT-DEVELOPMENT | 0 | 0| 
+| 20220216T02:50:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 334 | 44| 
 | 20220216T02:46:50Z | Null | https://github.com/0xdeadhead/exploits | 0 | 0| 
 | 20220216T02:46:16Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6368 | 1490| 
-| 20220216T02:45:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 333 | 43| 
 | 20220216T02:09:40Z | Pytorch code for our MS-MLP %Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs% | https://github.com/JegZheng/MS-MLP | 0 | 0| 
 | 20220216T01:47:20Z | Null | https://github.com/BLACKHAT-SSG/Vmware-Exploitation | 0 | 0| 
 | 20220216T01:19:23Z | Null | https://github.com/freitzzz/tpas-binary-exploitation | 0 | 0| 
 | 20220216T00:46:25Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2528 | 456| 
 | 20220216T00:34:03Z | My exploits with scripting languages:  Python, PHP, Ruby, etc | https://github.com/joehaffey/scripting | 0 | 0| 
 | 20220216T00:27:30Z | Null | https://github.com/Apolloknine/k9-exploit | 0 | 0| 
-| 20220215T22:50:30Z | A framework for exploits. Don%t worry non exploiters, I gotchu with another framework coming up. | https://github.com/Ix1x0x3/EurusFramework | 0 | 0| 
 
 
 # backdoor on Github 推荐
