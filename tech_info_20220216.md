@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T13:02:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 607 | 73| 
+| 20220216T13:13:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 621 | 73| 
 | 20220216T12:59:24Z | Bypassing Linux Executable Space Protection using 20+ years old tools. | https://github.com/x0reaxeax/exec-prot-bypass | 0 | 0| 
 | 20220216T12:49:35Z | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | 2 | 0| 
 | 20220216T12:07:34Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2963 | 549| 
@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T13:14:08Z | 炸图必备 | https://github.com/Born-to-be-a-human-I-am-awesome/fuzzy-invention | 0 | 0| 
 | 20220216T12:55:28Z | I improve the original fuzzotron%s feature of calibration. | https://github.com/LeonCiou/MyFuzzotron | 0 | 0| 
 | 20220216T12:39:38Z | This is in progress fuzzy application for android written in kotlin | https://github.com/DusanTodorovic5/FuzzyApp | 1 | 0| 
 | 20220216T12:31:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3945 | 930| 
