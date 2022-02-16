@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T08:41:37Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 0 | 0| 
 | 20220215T07:06:33Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 8 | 0| 
 | 20220214T01:13:44Z | A MakeCode project | https://github.com/Flora623/s2e07task3 | 0 | 0| 
 | 20220212T14:23:29Z | Null | https://github.com/software-testing-bootcamp/S2E2-Appium-2.0-Java-Mobile-Automation | 1 | 0| 
@@ -89,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T13:00:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 606 | 73| 
+| 20220216T13:02:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 607 | 73| 
 | 20220216T12:59:24Z | Bypassing Linux Executable Space Protection using 20+ years old tools. | https://github.com/x0reaxeax/exec-prot-bypass | 0 | 0| 
 | 20220216T12:49:35Z | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | 2 | 0| 
 | 20220216T12:07:34Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2963 | 549| 
@@ -104,23 +105,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T11:40:23Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 80 | 18| 
+| 20220216T09:23:15Z | HTB Backdoor Capture The Flag | https://github.com/yaguine/backdoor | 0 | 0| 
+| 20220216T08:09:31Z | Web shells are the scripts which are coded in many languages like PHP, Python, ASP, Perl and so on which further use as backdoor for illegitimate access in any server by uploading it on a web server. | https://github.com/0waizKhan/Kali-Webshells | 0 | 0| 
+| 20220216T06:23:47Z | Research work on biometric security and template updation using Machine Learning.  | https://github.com/Adk2001tech/Biometric-Backdoors | 2 | 0| 
+| 20220216T04:22:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 415 | 75| 
+| 20220216T03:09:38Z | Null | https://github.com/THUYimingLi/BackdoorBox | 17 | 9| 
 | 20220215T22:51:41Z | Code for An Adaptive Black-box Backdoor Detection Method for Deep Neural Networks | https://github.com/xinqiaozhang/adatrojan | 0 | 0| 
-| 20220215T21:54:38Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 79 | 18| 
 | 20220215T21:03:01Z | Statically-linked ssh server with reverse shell functionality for CTFs and such | https://github.com/Fahrj/reverse-ssh | 504 | 63| 
 | 20220215T20:19:56Z | Yet Another PHP Shell - The most complete PHP reverse shell | https://github.com/Nickguitar/YAPS | 30 | 3| 
 | 20220215T16:54:46Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 128 | 31| 
-| 20220215T14:02:52Z | Tlelegram backdoor builder | https://github.com/blueTUZZ01/Triker | 0 | 0| 
-| 20220215T10:43:33Z | [Virus] [Backdoor] Self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/Pestilence | 0 | 0| 
-| 20220215T10:40:48Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 83 | 16| 
-| 20220215T06:41:13Z | Null | https://github.com/Matt-Gaston/Simple-Backdoor | 0 | 0| 
-| 20220215T05:13:18Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1490 | 687| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T02:34:40Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 224 | 33| 
-| 20220215T21:01:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2709 | 396| 
+| 20220216T12:51:46Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 249 | 37| 
+| 20220216T07:36:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2710 | 396| 
 | 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 | 20220215T02:09:21Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1144 | 48| 
 | 20220214T20:58:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 196 | 12| 
