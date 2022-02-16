@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T02:31:52Z | Null | https://github.com/0xdeadhead/exploits | 0 | 0| 
-| 20220216T02:30:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 330 | 43| 
+| 20220216T02:39:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 331 | 43| 
+| 20220216T02:38:57Z | Null | https://github.com/0xdeadhead/exploits | 0 | 0| 
 | 20220216T02:09:40Z | Pytorch code for our MS-MLP %Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs% | https://github.com/JegZheng/MS-MLP | 0 | 0| 
 | 20220216T01:47:20Z | Null | https://github.com/BLACKHAT-SSG/Vmware-Exploitation | 0 | 0| 
 | 20220216T01:19:23Z | Null | https://github.com/freitzzz/tpas-binary-exploitation | 0 | 0| 
@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T02:21:31Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 223 | 33| 
+| 20220216T02:34:40Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 224 | 33| 
 | 20220215T21:01:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2709 | 396| 
 | 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 | 20220215T02:09:21Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1144 | 48| 
