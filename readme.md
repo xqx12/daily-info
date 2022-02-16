@@ -32,8 +32,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T13:40:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5174 | 184| 
 | 20220216T13:19:19Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 348 | 22| 
-| 20220216T12:28:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5173 | 184| 
 | 20220216T03:13:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 224 | 36| 
 
 
@@ -46,7 +46,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T13:40:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 666 | 77| 
+| 20220216T13:42:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 668 | 77| 
+| 20220216T13:41:35Z | files for advanced exploitation | https://github.com/STEALTH-Z/mega-resources | 0 | 0| 
 | 20220216T13:38:37Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6389 | 1500| 
 | 20220216T13:19:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 311 | 97| 
 | 20220216T12:59:24Z | Bypassing Linux Executable Space Protection using 20+ years old tools. | https://github.com/x0reaxeax/exec-prot-bypass | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20220216T09:53:44Z | Null | https://github.com/Prasanth-9600/exploit_practice | 0 | 0| 
 | 20220216T07:28:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10758 | 1865| 
 | 20220216T06:12:38Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 16 | 5| 
-| 20220216T02:58:25Z | Null | https://github.com/BLACKHAT-SSG/AWESOME-EXPLOIT-DEVELOPMENT | 0 | 0| 
 
 
 # backdoor on Github 推荐
