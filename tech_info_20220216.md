@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T13:13:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 621 | 73| 
+| 20220216T13:15:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 627 | 74| 
 | 20220216T12:59:24Z | Bypassing Linux Executable Space Protection using 20+ years old tools. | https://github.com/x0reaxeax/exec-prot-bypass | 0 | 0| 
 | 20220216T12:49:35Z | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | 2 | 0| 
 | 20220216T12:07:34Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2963 | 549| 
@@ -72,7 +72,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T13:09:45Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 250 | 37| 
+| 20220216T13:12:54Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 251 | 37| 
 | 20220216T07:36:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2710 | 396| 
 
 
