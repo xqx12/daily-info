@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T01:06:10Z | Various ways of C style for looping by exploiting the locality of arguments and properties of post unary operator | https://github.com/taimoon/C-summation-example | 0 | 0| 
+| 20220217T01:27:58Z | Various ways of C style for looping by exploiting the locality of arguments and properties of post unary operator | https://github.com/taimoon/C-summation-example | 0 | 0| 
 | 20220217T01:03:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1124 | 122| 
 | 20220217T00:29:16Z | Network based protocol fuzzer | https://github.com/wireghoul/doona | 63 | 26| 
 | 20220217T00:26:27Z | Self contained htaccess shells and attacks | https://github.com/wireghoul/htshells | 800 | 183| 
