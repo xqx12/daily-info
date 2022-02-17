@@ -145,8 +145,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220217T13:04:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3958 | 932| 
 | 20220217T10:21:46Z | Design of a fuzzy logic system with multiple crisp inputs obtained through the OpenWeatherMap API for the computation of the humidity reference for a control based on the reference. | https://github.com/yalarcon99/Fuzzy_Logic_for_IrrigationSystem | 0 | 0| 
-| 20220217T10:08:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3957 | 931| 
 | 20220217T10:07:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2481 | 157| 
 | 20220217T09:54:08Z | Null | https://github.com/ttscoff/omf-fuzzy_cd | 0 | 0| 
 | 20220217T09:49:04Z | Null | https://github.com/wsbblyy/image-fuzzy-matching | 1 | 0| 
