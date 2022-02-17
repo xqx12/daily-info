@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T13:00:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1467 | 159| 
+| 20220217T13:01:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1468 | 159| 
 | 20220217T12:52:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10765 | 1865| 
 | 20220217T12:34:42Z |  Fortnite-Exploits XD | https://github.com/fendylox/Fortnite-Exploits | 0 | 0| 
 | 20220217T12:23:59Z | Document and Patch Security Flaws in Oculus software/firmware.  | https://github.com/Valeraxxx/ExploitQuest | 0 | 0| 
@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T01:25:49Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 580 | 224| 
+| 20220217T12:56:34Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 84 | 16| 
+| 20220217T12:31:56Z | for educational purposes only! Send all contacts and SMS to a database for Android. | https://github.com/komen205/java-spyware | 0 | 0| 
+| 20220217T11:40:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 416 | 76| 
+| 20220217T07:21:36Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 581 | 225| 
 | 20220217T00:25:38Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 24 | 3| 
 | 20220216T15:10:50Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 0 | 0| 
 | 20220216T13:25:26Z | 0 backdoor faite par moi je la re leak | https://github.com/Shutdown29/Boutique-Notorious | 0 | 0| 
 | 20220216T11:40:23Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 80 | 18| 
 | 20220216T09:23:15Z | HTB Backdoor Capture The Flag | https://github.com/yaguine/backdoor | 0 | 0| 
 | 20220216T09:07:29Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 70 | 18| 
-| 20220216T08:09:31Z | Web shells are the scripts which are coded in many languages like PHP, Python, ASP, Perl and so on which further use as backdoor for illegitimate access in any server by uploading it on a web server. | https://github.com/0waizKhan/Kali-Webshells | 0 | 0| 
-| 20220216T06:23:47Z | Research work on biometric security and template updation using Machine Learning.  | https://github.com/Adk2001tech/Biometric-Backdoors | 2 | 0| 
-| 20220216T04:22:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 415 | 75| 
 
 
 # symbolic execution on Github 推荐
