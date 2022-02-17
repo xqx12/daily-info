@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220217T13:29:26Z | CVE-2022-25257 | Null | https://github.com/RobertDra/CVE-2022-25257 | | 
 | 20220217T13:11:08Z | CVE-2022-25256 | Null | https://github.com/RobertDra/CVE-2022-25256 | | 
 | 20220217T12:13:47Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
 | 20220217T07:24:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 

@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220217T13:29:26Z | CVE-2022-25257 | Null | https://github.com/RobertDra/CVE-2022-25257 | | 
 | 20220217T13:11:08Z | CVE-2022-25256 | Null | https://github.com/RobertDra/CVE-2022-25256 | | 
 | 20220217T12:13:47Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
 | 20220217T07:24:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
@@ -55,7 +56,6 @@
 | 20220216T21:43:37Z | CVE-2021-44228 | Null | https://github.com/vorburger/Log4j_CVE-2021-44228 | | 
 | 20220216T08:50:33Z | cve-2022-24086 | cve-2022-24086 patch for Magento 1.9  | https://github.com/wambo-co/magento-1.9-cve-2022-24086 | | 
 | 20220216T08:33:06Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
-| 20220215T18:44:00Z | cve-2020-13777 | Zeek script to detect servers vulnerable to CVE-2020-13777 | https://github.com/0xxon/cve-2020-13777 | | 
 
 
 # klee on Github 推荐
