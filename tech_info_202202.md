@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T13:43:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1490 | 164| 
+| 20220217T13:47:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1493 | 164| 
+| 20220217T13:45:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10767 | 1866| 
 | 20220217T13:28:23Z | Retired machines% notes and exploitation material | https://github.com/1nj3ct10n/HackTheBox | 0 | 0| 
-| 20220217T13:15:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10766 | 1866| 
 | 20220217T13:09:51Z | exploitpack extracted from a honeynet which is being prepared by intruduers to be used as an exploitation infrastructure | https://github.com/maxamin/exploitpack-from-an-APT-infrastructure | 1 | 0| 
 | 20220217T12:34:42Z |  Fortnite-Exploits XD | https://github.com/fendylox/Fortnite-Exploits | 0 | 0| 
 | 20220217T12:23:59Z | Document and Patch Security Flaws in Oculus software/firmware.  | https://github.com/Valeraxxx/ExploitQuest | 0 | 0| 
