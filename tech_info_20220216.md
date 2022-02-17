@@ -26,7 +26,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220216T23:57:25Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
 | 20220216T21:43:37Z | CVE-2021-44228 | Null | https://github.com/vorburger/Log4j_CVE-2021-44228 | | 
-| 20220216T17:52:47Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
 | 20220216T16:15:24Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220216T08:50:33Z | cve-2022-24086 | cve-2022-24086 patch for Magento 1.9  | https://github.com/wambo-co/magento-1.9-cve-2022-24086 | | 
 | 20220216T08:33:06Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
@@ -54,6 +53,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220216T23:15:51Z | EXPLOIT XLS Bypass Excel Security | https://github.com/Eddi0x/EXPLOIT-Excel-XLS-2022 | 0 | 0| 
 | 20220216T23:06:44Z | Null | https://github.com/Eddi0x/EXPLOIT-POWER-POINT | 0 | 0| 
+| 20220216T17:21:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220216T13:53:51Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6391 | 1500| 
 | 20220216T13:41:35Z | files for advanced exploitation | https://github.com/STEALTH-Z/mega-resources | 0 | 0| 
 | 20220216T13:19:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 311 | 97| 
@@ -61,7 +61,6 @@
 | 20220216T12:49:35Z | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | 2 | 0| 
 | 20220216T12:07:34Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2963 | 549| 
 | 20220216T09:53:44Z | Null | https://github.com/Prasanth-9600/exploit_practice | 0 | 0| 
-| 20220216T07:28:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10758 | 1865| 
 
 
 # backdoor on Github 推荐
