@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220217T13:24:36Z | fuzzy-guacamole involves a form of set theory and logic in which predicates can have a degree of application, rather than simply being true or false. It has important applications in artificial intelligence and control system design. | https://github.com/japanesedig6613/fuzzy-guacamole | 0 | 0| 
 | 20220217T13:04:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3958 | 932| 
 | 20220217T10:21:46Z | Design of a fuzzy logic system with multiple crisp inputs obtained through the OpenWeatherMap API for the computation of the humidity reference for a control based on the reference. | https://github.com/yalarcon99/Fuzzy_Logic_for_IrrigationSystem | 0 | 0| 
 | 20220217T10:07:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2481 | 157| 
@@ -98,7 +99,6 @@
 | 20220217T07:34:11Z |  Command line fuzzer and bruteforcer 🌪 wfuzz for command | https://github.com/ariary/cfuzz | 1 | 0| 
 | 20220217T02:27:45Z | Web 前端开发的一些工具索引一览 | https://github.com/ScarboroughCoral/fuzzy-broccoli | 0 | 0| 
 | 20220217T02:27:30Z | Web 前端开发的一些工具索引一览 | https://github.com/ScarboroughCoral/fuzzy-broccoli- | 0 | 0| 
-| 20220217T02:14:54Z | Read-only mirror of %fuzzynumbers% from r-forge SVN. | https://github.com/r-forge/fuzzynumbers | 0 | 0| 
 
 
 
