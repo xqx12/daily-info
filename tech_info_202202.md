@@ -95,12 +95,12 @@
 | 20220217T01:03:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1124 | 122| 
 | 20220217T00:29:16Z | Network based protocol fuzzer | https://github.com/wireghoul/doona | 63 | 26| 
 | 20220217T00:26:27Z | Self contained htaccess shells and attacks | https://github.com/wireghoul/htshells | 800 | 183| 
+| 20220217T00:10:22Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 43 | 12| 
 | 20220216T23:15:51Z | EXPLOIT XLS Bypass Excel Security | https://github.com/Eddi0x/EXPLOIT-Excel-XLS-2022 | 0 | 0| 
 | 20220216T23:06:44Z | Null | https://github.com/Eddi0x/EXPLOIT-POWER-POINT | 0 | 0| 
 | 20220216T13:53:51Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6391 | 1500| 
 | 20220216T13:41:35Z | files for advanced exploitation | https://github.com/STEALTH-Z/mega-resources | 0 | 0| 
 | 20220216T13:19:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 311 | 97| 
-| 20220216T12:59:24Z | Bypassing Linux Executable Space Protection using 20+ years old tools. | https://github.com/x0reaxeax/exec-prot-bypass | 0 | 0| 
 
 
 # backdoor on Github 推荐
