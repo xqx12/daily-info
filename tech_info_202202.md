@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220217T01:35:25Z | Null | https://github.com/BLACKHAT-SSG/Exploit-Development-01 | 0 | 0| 
 | 20220217T01:27:58Z | Various ways of C style for looping by exploiting the locality of arguments and properties of post unary operator | https://github.com/taimoon/C-summation-example | 0 | 0| 
 | 20220217T01:03:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1124 | 122| 
 | 20220217T00:29:16Z | Network based protocol fuzzer | https://github.com/wireghoul/doona | 63 | 26| 
@@ -100,7 +101,6 @@
 | 20220216T23:06:44Z | Null | https://github.com/Eddi0x/EXPLOIT-POWER-POINT | 0 | 0| 
 | 20220216T13:53:51Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6391 | 1500| 
 | 20220216T13:41:35Z | files for advanced exploitation | https://github.com/STEALTH-Z/mega-resources | 0 | 0| 
-| 20220216T13:19:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 311 | 97| 
 
 
 # backdoor on Github 推荐
