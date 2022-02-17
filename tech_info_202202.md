@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220217T01:06:10Z | Various ways of C style for looping by exploiting the locality of arguments and properties of post unary operator | https://github.com/taimoon/C-summation-example | 0 | 0| 
 | 20220217T01:03:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1124 | 122| 
 | 20220217T00:29:16Z | Network based protocol fuzzer | https://github.com/wireghoul/doona | 63 | 26| 
 | 20220217T00:26:27Z | Self contained htaccess shells and attacks | https://github.com/wireghoul/htshells | 800 | 183| 
@@ -100,7 +101,6 @@
 | 20220216T13:41:35Z | files for advanced exploitation | https://github.com/STEALTH-Z/mega-resources | 0 | 0| 
 | 20220216T13:19:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 311 | 97| 
 | 20220216T12:59:24Z | Bypassing Linux Executable Space Protection using 20+ years old tools. | https://github.com/x0reaxeax/exec-prot-bypass | 0 | 0| 
-| 20220216T12:49:35Z | ADB Exploitation toolkit | https://github.com/JoyGhoshs/last-breath | 2 | 0| 
 
 
 # backdoor on Github 推荐
