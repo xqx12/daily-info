@@ -53,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T13:18:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1476 | 160| 
+| 20220217T13:29:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1480 | 161| 
+| 20220217T13:28:23Z | Retired machines% notes and exploitation material | https://github.com/1nj3ct10n/HackTheBox | 0 | 0| 
 | 20220217T13:15:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10766 | 1866| 
 | 20220217T13:09:51Z | exploitpack extracted from a honeynet which is being prepared by intruduers to be used as an exploitation infrastructure | https://github.com/maxamin/exploitpack-from-an-APT-infrastructure | 1 | 0| 
 | 20220217T12:34:42Z |  Fortnite-Exploits XD | https://github.com/fendylox/Fortnite-Exploits | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20220217T11:57:14Z | An exploit script of CVE-2016-5195 | https://github.com/th3-5had0w/DirtyCOW-PoC | 0 | 0| 
 | 20220217T11:04:38Z | Given a set of survey locations of an observer walking in the fleld or flying over a given areas, r.survey calculates best solid angle, 3D Distance, View Angle and Solid Angle for each pixel and for a given object size. It runs in GRASS GIS and exploits r.viewshed | https://github.com/IvanMarchesini/r.survey.py | 2 | 0| 
 | 20220217T09:51:20Z | Null | https://github.com/ChaptalAdrien/systeme-exploitation-labs | 0 | 0| 
-| 20220217T09:33:47Z | Null | https://github.com/ACM-BMU/HackBMU-5.0-Team-exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
