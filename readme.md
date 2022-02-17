@@ -77,7 +77,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T12:12:22Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 316 | 51| 
+| 20220217T13:24:43Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 317 | 51| 
 | 20220217T04:19:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2712 | 396| 
 
 
