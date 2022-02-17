@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T13:17:52Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 386 | 23| 
+| 20220217T13:50:06Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 387 | 23| 
 | 20220217T12:54:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5180 | 184| 
 | 20220217T08:16:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 223 | 24| 
 | 20220216T15:29:08Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 1 | 0| 
@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220217T13:51:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1496 | 164| 
 | 20220217T13:48:59Z | Retired machines% notes and exploitation material | https://github.com/1nj3ct10n/HackTheBox | 0 | 0| 
-| 20220217T13:48:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1495 | 164| 
 | 20220217T13:45:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10767 | 1866| 
 | 20220217T13:09:51Z | exploitpack extracted from a honeynet which is being prepared by intruduers to be used as an exploitation infrastructure | https://github.com/maxamin/exploitpack-from-an-APT-infrastructure | 1 | 0| 
 | 20220217T12:34:42Z |  Fortnite-Exploits XD | https://github.com/fendylox/Fortnite-Exploits | 0 | 0| 
