@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T13:01:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1468 | 159| 
+| 20220217T13:13:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1474 | 159| 
+| 20220217T13:09:51Z | exploitpack extracted from a honeynet which is being prepared by intruduers to be used as an exploitation infrastructure | https://github.com/maxamin/exploitpack-from-an-APT-infrastructure | 1 | 0| 
 | 20220217T12:52:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10765 | 1865| 
 | 20220217T12:34:42Z |  Fortnite-Exploits XD | https://github.com/fendylox/Fortnite-Exploits | 0 | 0| 
 | 20220217T12:23:59Z | Document and Patch Security Flaws in Oculus software/firmware.  | https://github.com/Valeraxxx/ExploitQuest | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220217T11:04:38Z | Given a set of survey locations of an observer walking in the fleld or flying over a given areas, r.survey calculates best solid angle, 3D Distance, View Angle and Solid Angle for each pixel and for a given object size. It runs in GRASS GIS and exploits r.viewshed | https://github.com/IvanMarchesini/r.survey.py | 2 | 0| 
 | 20220217T09:51:20Z | Null | https://github.com/ChaptalAdrien/systeme-exploitation-labs | 0 | 0| 
 | 20220217T09:33:47Z | Null | https://github.com/ACM-BMU/HackBMU-5.0-Team-exploiter | 0 | 0| 
-| 20220217T09:22:18Z | The purpose of this project is to investigate the applicability of a tensor framework to global cross-asset-factor-country investing. Indeed, multiple assets (e.g., bonds, equities), across multiple factors (e.g., carry, momentum), across multiple countries are naturally represented as a tensor. The student could focus on developing a tensor factor model, exploiting multi-linear algebra to take into account cross-asset dependencies, not possible to achieve with the “flat view” linear algebra. | https://github.com/zxt18/Tensor-Decomposition-Applications-in-Factor-Investing | 0 | 0| 
 
 
 # backdoor on Github 推荐
