@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T00:57:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1120 | 122| 
+| 20220217T01:03:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1124 | 122| 
 | 20220217T00:29:16Z | Network based protocol fuzzer | https://github.com/wireghoul/doona | 63 | 26| 
 | 20220217T00:26:27Z | Self contained htaccess shells and attacks | https://github.com/wireghoul/htshells | 800 | 183| 
 | 20220216T23:15:51Z | EXPLOIT XLS Bypass Excel Security | https://github.com/Eddi0x/EXPLOIT-Excel-XLS-2022 | 0 | 0| 
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220217T00:06:54Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 279 | 42| 
+| 20220216T20:41:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2711 | 396| 
+| 20220216T17:21:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220216T13:43:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 200 | 45| 
-| 20220216T13:34:03Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 253 | 40| 
-| 20220216T07:36:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2710 | 396| 
 | 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 | 20220215T02:09:21Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1144 | 48| 
 | 20220214T20:58:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 196 | 12| 
 | 20220214T11:34:30Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 6 | 0| 
 | 20220214T09:06:38Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 8 | 3| 
 | 20220212T02:26:52Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
-| 20220211T19:27:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1888 | 537| 
 
 
 # big4 on Github 推荐
