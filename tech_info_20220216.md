@@ -24,7 +24,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220216T11:47:39Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
+| 20220216T23:57:25Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
+| 20220216T21:43:37Z | CVE-2021-44228 | Null | https://github.com/vorburger/Log4j_CVE-2021-44228 | | 
+| 20220216T17:52:47Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
+| 20220216T16:15:24Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220216T08:50:33Z | cve-2022-24086 | cve-2022-24086 patch for Magento 1.9  | https://github.com/wambo-co/magento-1.9-cve-2022-24086 | | 
 | 20220216T08:33:06Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
 
@@ -32,14 +35,17 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T15:29:08Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 1 | 0| 
 | 20220216T13:40:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5174 | 184| 
-| 20220216T13:19:19Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 348 | 22| 
 | 20220216T03:13:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 224 | 36| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T18:51:44Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 3 | 1| 
+| 20220216T18:51:06Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 9 | 0| 
+| 20220216T17:21:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220216T13:43:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 200 | 45| 
 | 20220216T08:41:37Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 0 | 0| 
 
@@ -47,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220216T13:58:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 686 | 78| 
+| 20220216T23:15:51Z | EXPLOIT XLS Bypass Excel Security | https://github.com/Eddi0x/EXPLOIT-Excel-XLS-2022 | 0 | 0| 
+| 20220216T23:06:44Z | Null | https://github.com/Eddi0x/EXPLOIT-POWER-POINT | 0 | 0| 
 | 20220216T13:53:51Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6391 | 1500| 
 | 20220216T13:41:35Z | files for advanced exploitation | https://github.com/STEALTH-Z/mega-resources | 0 | 0| 
 | 20220216T13:19:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 311 | 97| 
@@ -56,15 +63,17 @@
 | 20220216T12:07:34Z | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | 2963 | 549| 
 | 20220216T09:53:44Z | Null | https://github.com/Prasanth-9600/exploit_practice | 0 | 0| 
 | 20220216T07:28:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10758 | 1865| 
-| 20220216T06:12:38Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 16 | 5| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T18:56:17Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 579 | 223| 
+| 20220216T15:10:50Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 0 | 0| 
 | 20220216T13:25:26Z | 0 backdoor faite par moi je la re leak | https://github.com/Shutdown29/Boutique-Notorious | 0 | 0| 
 | 20220216T11:40:23Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 80 | 18| 
 | 20220216T09:23:15Z | HTB Backdoor Capture The Flag | https://github.com/yaguine/backdoor | 0 | 0| 
+| 20220216T09:07:29Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 70 | 18| 
 | 20220216T08:09:31Z | Web shells are the scripts which are coded in many languages like PHP, Python, ASP, Perl and so on which further use as backdoor for illegitimate access in any server by uploading it on a web server. | https://github.com/0waizKhan/Kali-Webshells | 0 | 0| 
 | 20220216T06:23:47Z | Research work on biometric security and template updation using Machine Learning.  | https://github.com/Adk2001tech/Biometric-Backdoors | 2 | 0| 
 | 20220216T04:22:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 415 | 75| 
@@ -88,6 +97,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220216T23:58:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7098 | 1500| 
+| 20220216T23:23:30Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 1| 
+| 20220216T21:42:46Z |  Command line fuzzer 🌪 wfuzz for command | https://github.com/ariary/cfuzz | 1 | 0| 
 | 20220216T13:31:10Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1046 | 151| 
 | 20220216T13:14:08Z | 炸图必备 | https://github.com/Born-to-be-a-human-I-am-awesome/fuzzy-invention | 0 | 0| 
 | 20220216T12:55:28Z | I improve the original fuzzotron%s feature of calibration. | https://github.com/LeonCiou/MyFuzzotron | 0 | 0| 
@@ -95,8 +107,6 @@
 | 20220216T12:31:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3945 | 930| 
 | 20220216T12:14:28Z | Null | https://github.com/EduaReyes/fuzzy-invention | 0 | 0| 
 | 20220216T11:52:34Z | repo for my class PW3 | https://github.com/Mezali/fuzzy-enigma | 0 | 0| 
-| 20220216T08:38:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7096 | 1499| 
-| 20220216T01:16:24Z | Null | https://github.com/dc9865/Fuzzer | 0 | 0| 
 
 
 
