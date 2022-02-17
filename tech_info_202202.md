@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220217T02:14:54Z | Read-only mirror of %fuzzynumbers% from r-forge SVN. | https://github.com/r-forge/fuzzynumbers | 0 | 0| 
 | 20220217T00:57:01Z | Null | https://github.com/matthewpetriella/fuzzy-guacamole | 0 | 0| 
 | 20220217T00:29:16Z | Network based protocol fuzzer | https://github.com/wireghoul/doona | 63 | 26| 
 | 20220217T00:22:53Z | yes | https://github.com/imsmartbutdumb/fuzzy-octo-funicular | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220216T21:42:46Z |  Command line fuzzer 🌪 wfuzz for command | https://github.com/ariary/cfuzz | 1 | 0| 
 | 20220216T13:31:10Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1046 | 151| 
 | 20220216T13:14:08Z | 炸图必备 | https://github.com/Born-to-be-a-human-I-am-awesome/fuzzy-invention | 0 | 0| 
-| 20220216T12:55:28Z | I improve the original fuzzotron%s feature of calibration. | https://github.com/LeonCiou/MyFuzzotron | 0 | 0| 
 
 
 
