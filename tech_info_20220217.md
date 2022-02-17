@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T13:51:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1496 | 164| 
+| 20220217T13:52:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1499 | 164| 
 | 20220217T13:48:59Z | Retired machines% notes and exploitation material | https://github.com/1nj3ct10n/HackTheBox | 0 | 0| 
 | 20220217T13:45:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10767 | 1866| 
 | 20220217T13:09:51Z | exploitpack extracted from a honeynet which is being prepared by intruduers to be used as an exploitation infrastructure | https://github.com/maxamin/exploitpack-from-an-APT-infrastructure | 1 | 0| 
@@ -78,8 +78,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220217T13:50:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2713 | 396| 
 | 20220217T13:24:43Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 317 | 51| 
-| 20220217T04:19:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2712 | 396| 
 
 
 # big4 on Github 推荐
