@@ -85,8 +85,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220217T23:48:12Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 322 | 52| 
+| 20220217T16:37:15Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 617 | 128| 
 | 20220217T13:50:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2713 | 396| 
-| 20220217T13:24:43Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 317 | 51| 
 
 
 # big4 on Github 推荐
