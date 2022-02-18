@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220218 | 绕过安装包更新机制，提取 Lexmark MC3224i 打印机的固件 | http://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/| 
+| 20220218 | Rust 语言的 Buffer Overflow 漏洞代码实例 | https://gist.github.com/rexim/38c176fe4669ef83db69aca9909d7b7f| 
+| 20220218 | 利用 Unredacter 工具还原被马赛克打码的文字 | https://bishopfox.com/blog/unredacter-tool-never-pixelation| 
+| 20220218 | Android Binder CVE-2019-2215 漏洞的利用 | https://cutesmilee.github.io/kernel/linux/android/2022/02/17/cve-2019-2215_writeup.html| 
+| 20220218 | Zabbix - A Case Study of Unsafe Session Storage | https://blog.sonarsource.com/zabbix-case-study-of-unsafe-session-storage/| 
+| 20220218 | 利用 Kubesploit & KubiScan 开源工具扫描 Kubernetes 的漏洞 | https://www.conjur.org/blog/tutorial-kubernetes-vulnerability-scanning-testing-with-open-source/| 
+| 20220218 | Jenkins 默认的 Build Authorization 配置存在缺陷 | https://medium.com/cider-sec/exploiting-jenkins-build-authorization-22bf72926072| 
+| 20220218 | Windows 内核保护机制 HyperGuard 的实现研究 | https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-2-skpg-extents/?utm_source=rss&utm_medium=rss&utm_campaign=hyperguard-secure-kernel-patch-guard-part-2-skpg-extents| 
 | 20220217 | 安全杂志 PoC ,, GTFO 发布第 21 期 | http://www.alchemistowl.org/pocorgtfo/pocorgtfo21.pdf| 
 | 20220217 | Nightmare: One Byte to ROP | https://hackmd.io/@pepsipu/ry-SK44pt| 
 | 20220217 | Immunity 对 Linux 内核 TIPC 模块远程栈溢出漏洞的分析（CVE-2022-0435） | http://blog.immunityinc.com/p/a-remote-stack-overflow-in-the-linux-kernel/| 
@@ -18,51 +26,43 @@
 | 20220217 | JAVA 协议安全笔记-JNDI篇. | http://tttang.com/archive/1441/| 
 | 20220217 | APT组织Lorec53(洛瑞熊)近期针对乌克兰的大规模网络攻击活动. | http://blog.nsfocus.net/apt-lorec53-20220216/| 
 | 20220217 | Attack Surface Monitoring using Open-Source Intelligence. | https://infosecwriteups.com/attack-surface-monitoring-using-open-source-intelligence-90415e863e93?source=rss----7b722bfd1b8d---4&gi=a08394dee9fc| 
-| 20220217 | DCSync 攻击与检测方法入门介绍. | https://www.alteredsecurity.com/post/a-primer-on-dcsync-attack-and-detection| 
-| 20220216 | AD CS: from ManageCA to RCE - BlackArrow | https://www.blackarrow.net/ad-cs-from-manageca-to-rce/| 
-| 20220216 | Gaining the upper hand(le) - 利用 Low-IL 进程中残留的敏感 handle 提权或 Bypass UAC | https://aptw.tf/2022/02/10/leaked-handle-hunting.html| 
-| 20220216 | VMware View Planner、vRealize Business for Cloud unauth RCE | https://swarm.ptsecurity.com/hunting-for-bugs-in-vmware-view-planner-and-vrealize-business-for-cloud/| 
-| 20220216 | CVE-2021-44521: RCE Vulnerability in Apache Cassandra | https://jfrog.com/blog/cve-2021-44521-exploiting-apache-cassandra-user-defined-functions-for-remote-code-execution/| 
-| 20220216 | 基于 .NET 6 写的跨平台 Mythic Agent | https://github.com/MythicAgents/Athena| 
-| 20220216 | 利用 Object Overloading 技术，向 Windows Built-in 进程注入代码绕过 EDR 的检测 | http://blog.xpnsec.com/object-overloading/| 
-| 20220216 | Chrome 发布版本更新，本次更新修复了一个野外被攻击的漏洞 | https://threatpost.com/google-chrome-zero-day-under-attack/178428/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220218 | 利用IP分片污染攻击TCP流量 | https://mp.weixin.qq.com/s/7gA74jWC1RES76p1XBO_Kw| 
+| 20220218 | “红蓝对抗演练评分系统”开源框架 (preview) | https://mp.weixin.qq.com/s/tQMVEsSY9JJXHJI-1gX7cQ| 
+| 20220218 | Web框架CSRF防御的有效性 | https://mp.weixin.qq.com/s/ydwWuMa_ZzvvSNZ9CAAxjA| 
+| 20220218 | PRIVGUARD：用于GDPR隐私合规的数据治理框架 | https://mp.weixin.qq.com/s/GKwBuIb1UV9phF3HJpDAQw| 
+| 20220218 | 中间商之 Ntlm Relay 攻击分析 | https://mp.weixin.qq.com/s/EhJVdRG71JTr9yZFajGKqg| 
+| 20220218 | 网络安全工作你必须懂的3保1评 | https://mp.weixin.qq.com/s/qGcii5iElYq9mwfSFPhfHg| 
+| 20220218 | 电子信息工程科技发展十三大挑战（2022） | http://www.xinhuanet.com/techpro/20220217/0edc34cae344483a98d7dab8b7367a50/c.html| 
 | 20220217 | WordPress 生态中恶意插件的大规模研究 | https://mp.weixin.qq.com/s/qJsOSBnkA10KYJUE9Leepw| 
 | 20220217 | 2021年工业控制网络安全态势白皮书 | https://ncstatic.clewm.net/rsrc/2022/0217/09/f730918a355c2afeb8aebdfe357bda98.pdf| 
 | 20220215 | 终极Java反序列化Payload缩小技术 | https://xz.aliyun.com/t/10824| 
-| 20220215 | 求解网络安全问题的可解释机器学习 | https://toooold.com/2022/02/13/explainable_w_shap_cn.html| 
-| 20220215 | 从一例 Pegasus 误报说开去 | https://mp.weixin.qq.com/s/JR771hiRCocy8prLP3mvXw| 
-| 20220215 | 绕过污点分析的一些思考 | https://mp.weixin.qq.com/s/UbqPcqPnQ3GNKSIx0VNjxw| 
-| 20220215 | 2021网络金融黑产研究报告 | https://mp.weixin.qq.com/s/nsj0UowJWxm8niS3ITT8OA| 
-| 20220215 | 解读2022年《网络安全审查办法》版本修订要点 | https://mp.weixin.qq.com/s/r_OBH12gNsHNWRFCYYXb8w| 
-| 20220214 | SecWiki周刊（第415期) | https://www.sec-wiki.com/weekly/415| 
-| 20220214 | Java安全研究与安全开发面试题总结 | https://github.com/4ra1n/JavaSecInterview| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220218T12:29:13Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
+| 20220218T11:56:43Z | CVE-2021-1965 | Null | https://github.com/parsdefense/CVE-2021-1965 | | 
+| 20220218T10:09:47Z | CVE-2021-4034 | pkexec EoP exploit | https://github.com/LJP-TW/CVE-2021-4034 | | 
+| 20220218T09:32:09Z | CVE-2022-0185 | CVE-2021-4034 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
+| 20220218T09:29:16Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
+| 20220218T08:40:00Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
+| 20220218T08:04:49Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/Neko-chanQwQ/CVE-2020-15778-Exploit | | 
+| 20220218T03:54:37Z | CVE-2021-26855 |   CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. | https://github.com/raheel0x01/CVE-2021-26855 | | 
+| 20220218T03:03:26Z | CVE-2022-23131 | Null | https://github.com/qq1549176285/CVE-2022-23131 | | 
 | 20220217T23:06:37Z | CVE-2020-8816 | A PoC for CVE-2020-8816 that does not use $PATH but $PWD and globbing | https://github.com/MartinSohn/CVE-2020-8816 | | 
-| 20220217T18:11:34Z | CVE-2022-22909 | Hotel Druid 3.0.3 Code Injection to Remote Code Execution | https://github.com/0z09e/CVE-2022-22909 | | 
-| 20220217T13:29:26Z | CVE-2022-25257 | Null | https://github.com/RobertDra/CVE-2022-25257 | | 
-| 20220217T13:11:08Z | CVE-2022-25256 | Null | https://github.com/RobertDra/CVE-2022-25256 | | 
-| 20220217T12:13:47Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
-| 20220217T07:24:02Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
-| 20220217T04:11:50Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
-| 20220217T01:01:28Z | CVE-2021-24145 | WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5 | https://github.com/dnr6419/CVE-2021-24145 | | 
-| 20220216T23:57:25Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
-| 20220216T21:43:37Z | CVE-2021-44228 | Null | https://github.com/vorburger/Log4j_CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T02:45:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5184 | 184| 
-| 20220218T02:23:46Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 398 | 23| 
+| 20220218T12:33:56Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 420 | 25| 
+| 20220218T12:17:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5195 | 186| 
 | 20220217T08:16:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 223 | 24| 
 | 20220216T15:29:08Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 1 | 0| 
 | 20220216T03:13:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 224 | 36| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220218T12:50:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1864 | 198| 
+| 20220218T12:50:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 319 | 98| 
+| 20220218T12:50:22Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 77 | 14| 
+| 20220218T12:40:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10783 | 1867| 
+| 20220218T11:46:54Z | Exploit para exploração de plugins Wordpress para auxílio numa possível escalação de privilégios. | https://github.com/Nosferatuvjr/RCE-GNU-gdbserver | 0 | 0| 
+| 20220218T09:33:19Z | Null | https://github.com/xxycfhb/pku_exploit_files | 7 | 1| 
+| 20220218T09:19:13Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 18 | 4| 
 | 20220218T02:58:28Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
-| 20220218T02:56:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1724 | 186| 
 | 20220218T02:33:52Z | Null | https://github.com/LeQuocKhanh2K/Tool_Camera_Exploit_Netwave_CVE-2018-6479 | 0 | 0| 
 | 20220218T02:30:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 47 | 12| 
-| 20220218T01:45:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 316 | 98| 
-| 20220218T00:55:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10776 | 1866| 
-| 20220218T00:18:56Z | Null | https://github.com/Kitolua/RobloxExploits | 0 | 0| 
-| 20220217T22:08:51Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
-| 20220217T21:25:50Z | A detailed tutorial on how Buffer Overflows are performed and how they can exploit an application. | https://github.com/KarlDamienBarrett/Exploit-Development | 0 | 0| 
-| 20220217T21:00:29Z | Acted as an offensive security Red Team to exploit a vulnerable Capstone VM and then switched to the role of Blue Team to analyze logs taken during the Red Team attack. The data was used to develop ideas for new alerts that can improve monitoring. | https://github.com/jakebrabham/Red-Team-vs.-Blue-Team-Project | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220218T12:30:10Z | Null | https://github.com/shubhaguha/fuzzy-octo-telegram | 0 | 0| 
+| 20220218T12:29:07Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 2 | 1| 
+| 20220218T11:50:31Z | Null | https://github.com/python-divya/fuzzy-octo-giggle | 0 | 0| 
+| 20220218T11:38:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3966 | 934| 
+| 20220218T11:19:28Z | Null | https://github.com/Tanisk1999/fuzzy | 0 | 0| 
+| 20220218T10:47:31Z | fuzzing | https://github.com/standaside/stas | 0 | 0| 
+| 20220218T10:43:16Z | tmp rep | https://github.com/Seongyun-Jeong/fuzzbench_analysis | 0 | 0| 
+| 20220218T10:23:41Z | Django application demonstrating grabbing and storing user%s location | https://github.com/jaysridhar/fuzzy-spoon | 0 | 0| 
 | 20220218T02:40:26Z | Null | https://github.com/sdjkfsg/fuzzy-octo-disco | 0 | 0| 
 | 20220218T02:08:10Z | Null | https://github.com/0xalpharush/fuzzing | 0 | 0| 
-| 20220218T00:47:56Z | Null | https://github.com/mpektkd/NTUA-Neuro-Fuzzy-Control | 0 | 0| 
-| 20220217T20:14:45Z | Null | https://github.com/ystromm/fuzzy-garbanzo | 0 | 0| 
-| 20220217T18:15:20Z | Null | https://github.com/amisterdann/fuzzy-waddle | 0 | 0| 
-| 20220217T13:24:36Z | fuzzy-guacamole involves a form of set theory and logic in which predicates can have a degree of application, rather than simply being true or false. It has important applications in artificial intelligence and control system design. | https://github.com/japanesedig6613/fuzzy-guacamole | 0 | 0| 
-| 20220217T13:04:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3958 | 932| 
-| 20220217T12:31:23Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1198 | 52| 
-| 20220217T10:21:46Z | Design of a fuzzy logic system with multiple crisp inputs obtained through the OpenWeatherMap API for the computation of the humidity reference for a control based on the reference. | https://github.com/yalarcon99/Fuzzy_Logic_for_IrrigationSystem | 0 | 0| 
-| 20220217T10:07:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2481 | 157| 
 
 
 
