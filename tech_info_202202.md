@@ -91,23 +91,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T13:13:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1869 | 199| 
+| 20220218T13:14:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1870 | 200| 
 | 20220218T12:50:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 319 | 98| 
 | 20220218T12:50:22Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 77 | 14| 
 | 20220218T12:40:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10783 | 1867| 
 | 20220218T11:46:54Z | Exploit para exploração de plugins Wordpress para auxílio numa possível escalação de privilégios. | https://github.com/Nosferatuvjr/RCE-GNU-gdbserver | 0 | 0| 
 | 20220218T09:33:19Z | Null | https://github.com/xxycfhb/pku_exploit_files | 7 | 1| 
 | 20220218T09:19:13Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 18 | 4| 
+| 20220218T07:11:07Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 306 | 109| 
 | 20220218T02:58:28Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
 | 20220218T02:33:52Z | Null | https://github.com/LeQuocKhanh2K/Tool_Camera_Exploit_Netwave_CVE-2018-6479 | 0 | 0| 
-| 20220218T02:30:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 47 | 12| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220218T13:16:07Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 586 | 226| 
 | 20220218T10:16:58Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 3 | 0| 
-| 20220218T09:40:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 585 | 226| 
 | 20220217T16:52:00Z | Backdoor with Golang (Cross-Plateform) | https://github.com/pilebones/backdoorGolang | 16 | 6| 
 | 20220217T14:09:44Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 85 | 16| 
 | 20220217T12:31:56Z | for educational purposes only! Send all contacts and SMS to a database for Android. | https://github.com/komen205/java-spyware | 0 | 0| 
