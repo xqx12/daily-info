@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T02:35:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1718 | 185| 
+| 20220218T02:39:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1719 | 185| 
 | 20220218T02:33:52Z | Null | https://github.com/LeQuocKhanh2K/Tool_Camera_Exploit_Netwave_CVE-2018-6479 | 0 | 0| 
 | 20220218T02:30:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 47 | 12| 
 | 20220218T01:45:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 316 | 98| 
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220218T02:40:26Z | Null | https://github.com/sdjkfsg/fuzzy-octo-disco | 0 | 0| 
 | 20220218T02:08:10Z | Null | https://github.com/0xalpharush/fuzzing | 0 | 0| 
 | 20220218T00:47:56Z | Null | https://github.com/mpektkd/NTUA-Neuro-Fuzzy-Control | 0 | 0| 
 | 20220217T20:14:45Z | Null | https://github.com/ystromm/fuzzy-garbanzo | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220217T12:31:23Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1198 | 52| 
 | 20220217T10:21:46Z | Design of a fuzzy logic system with multiple crisp inputs obtained through the OpenWeatherMap API for the computation of the humidity reference for a control based on the reference. | https://github.com/yalarcon99/Fuzzy_Logic_for_IrrigationSystem | 0 | 0| 
 | 20220217T10:07:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2481 | 157| 
-| 20220217T09:54:08Z | Null | https://github.com/ttscoff/omf-fuzzy_cd | 0 | 0| 
 
 
 
