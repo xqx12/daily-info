@@ -91,8 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220218T02:33:04Z | Null | https://github.com/LeQuocKhanh2K/Tool_Camera_Exploit_Netwave_CVE-2018-6479 | 0 | 0| 
+| 20220218T02:32:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1716 | 185| 
 | 20220218T02:30:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 47 | 12| 
-| 20220218T02:27:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1715 | 185| 
 | 20220218T01:45:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 316 | 98| 
 | 20220218T00:55:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10776 | 1866| 
 | 20220218T00:18:56Z | Null | https://github.com/Kitolua/RobloxExploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220217T21:25:50Z | A detailed tutorial on how Buffer Overflows are performed and how they can exploit an application. | https://github.com/KarlDamienBarrett/Exploit-Development | 0 | 0| 
 | 20220217T21:00:29Z | Acted as an offensive security Red Team to exploit a vulnerable Capstone VM and then switched to the role of Blue Team to analyze logs taken during the Red Team attack. The data was used to develop ideas for new alerts that can improve monitoring. | https://github.com/jakebrabham/Red-Team-vs.-Blue-Team-Project | 0 | 0| 
 | 20220217T13:48:59Z | Retired machines% notes and exploitation material | https://github.com/1nj3ct10n/HackTheBox | 0 | 0| 
-| 20220217T13:09:51Z | exploitpack extracted from a honeynet which is being prepared by intruduers to be used as an exploitation infrastructure | https://github.com/maxamin/exploitpack-from-an-APT-infrastructure | 1 | 0| 
 
 
 # backdoor on Github 推荐
