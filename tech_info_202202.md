@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T02:14:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1709 | 184| 
+| 20220218T02:14:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1709 | 185| 
 | 20220218T01:45:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 316 | 98| 
 | 20220218T00:55:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10776 | 1866| 
 | 20220218T00:18:56Z | Null | https://github.com/Kitolua/RobloxExploits | 0 | 0| 
@@ -107,7 +107,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220217T19:50:18Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 2 | 0| 
-| 20220217T19:27:26Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 583 | 225| 
+| 20220217T19:27:26Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 583 | 226| 
 | 20220217T16:52:00Z | Backdoor with Golang (Cross-Plateform) | https://github.com/pilebones/backdoorGolang | 16 | 6| 
 | 20220217T14:09:44Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 85 | 16| 
 | 20220217T12:31:56Z | for educational purposes only! Send all contacts and SMS to a database for Android. | https://github.com/komen205/java-spyware | 0 | 0| 
