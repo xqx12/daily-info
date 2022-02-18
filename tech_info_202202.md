@@ -15,6 +15,10 @@
 | 20220217 | A Modern Ninja: Evasive Trickbot Attacks Customers of 60 High-Profile Companies | http://research.checkpoint.com/2022/a-modern-ninja-evasive-trickbot-attacks-customers-of-60-high-profile-companies/| 
 | 20220217 | Fortinet 对伊朗 Moses Staff 攻击组织的分析 | https://www.fortinet.com/blog/threat-research/guard-your-drive-from-driveguard| 
 | 20220217 | 动态还原被 VMProtect 3.x 壳混淆的函数 | https://github.com/JonathanSalwan/VMProtect-devirtualization| 
+| 20220217 | JAVA 协议安全笔记-JNDI篇. | http://tttang.com/archive/1441/| 
+| 20220217 | APT组织Lorec53(洛瑞熊)近期针对乌克兰的大规模网络攻击活动. | http://blog.nsfocus.net/apt-lorec53-20220216/| 
+| 20220217 | Attack Surface Monitoring using Open-Source Intelligence. | https://infosecwriteups.com/attack-surface-monitoring-using-open-source-intelligence-90415e863e93?source=rss----7b722bfd1b8d---4&gi=a08394dee9fc| 
+| 20220217 | DCSync 攻击与检测方法入门介绍. | https://www.alteredsecurity.com/post/a-primer-on-dcsync-attack-and-detection| 
 | 20220216 | AD CS: from ManageCA to RCE - BlackArrow | https://www.blackarrow.net/ad-cs-from-manageca-to-rce/| 
 | 20220216 | Gaining the upper hand(le) - 利用 Low-IL 进程中残留的敏感 handle 提权或 Bypass UAC | https://aptw.tf/2022/02/10/leaked-handle-hunting.html| 
 | 20220216 | VMware View Planner、vRealize Business for Cloud unauth RCE | https://swarm.ptsecurity.com/hunting-for-bugs-in-vmware-view-planner-and-vrealize-business-for-cloud/| 
@@ -22,10 +26,6 @@
 | 20220216 | 基于 .NET 6 写的跨平台 Mythic Agent | https://github.com/MythicAgents/Athena| 
 | 20220216 | 利用 Object Overloading 技术，向 Windows Built-in 进程注入代码绕过 EDR 的检测 | http://blog.xpnsec.com/object-overloading/| 
 | 20220216 | Chrome 发布版本更新，本次更新修复了一个野外被攻击的漏洞 | https://threatpost.com/google-chrome-zero-day-under-attack/178428/| 
-| 20220216 | 利用 Binary Ninja 的静态污点分析功能挖掘 MySQL Cluster 的漏洞 | https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities| 
-| 20220215 | PropR: Property-based Program repair using GHC | https://github.com/Tritlo/PropR| 
-| 20220215 | 编写 Notepad++ Plugins 实现渗透时的权限维持 | http://pentestlab.blog/2022/02/14/persistence-notepad-plugins/| 
-| 20220215 | 利用 Ghostbuster 工具发现 AWS 云环境 IP 变更导致的 Dangling IP | https://blog.assetnote.io/2022/02/13/dangling-eips/| 
 
 
 # 安全维基 推荐
@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220217T23:06:37Z | CVE-2020-8816 | A PoC for CVE-2020-8816 that does not use $PATH but $PWD and globbing | https://github.com/MartinSohn/CVE-2020-8816 | | 
+| 20220217T18:11:34Z | CVE-2022-22909 | Hotel Druid 3.0.3 Code Injection to Remote Code Execution | https://github.com/0z09e/CVE-2022-22909 | | 
 | 20220217T13:29:26Z | CVE-2022-25257 | Null | https://github.com/RobertDra/CVE-2022-25257 | | 
 | 20220217T13:11:08Z | CVE-2022-25256 | Null | https://github.com/RobertDra/CVE-2022-25256 | | 
 | 20220217T12:13:47Z | CVE-2022-22536 | SAP memory pipes(MPI)  desynchronization vulnerability CVE-2022-22536. | https://github.com/antx-code/CVE-2022-22536 | | 
@@ -54,15 +56,13 @@
 | 20220217T01:01:28Z | CVE-2021-24145 | WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5 | https://github.com/dnr6419/CVE-2021-24145 | | 
 | 20220216T23:57:25Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
 | 20220216T21:43:37Z | CVE-2021-44228 | Null | https://github.com/vorburger/Log4j_CVE-2021-44228 | | 
-| 20220216T08:50:33Z | cve-2022-24086 | cve-2022-24086 patch for Magento 1.9  | https://github.com/wambo-co/magento-1.9-cve-2022-24086 | | 
-| 20220216T08:33:06Z | CVE-2021-4034 | CVE-2021-4034 centos8可用版本 | https://github.com/ck00004/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T13:58:21Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 388 | 23| 
-| 20220217T12:54:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5180 | 184| 
+| 20220218T00:55:48Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 396 | 23| 
+| 20220217T15:57:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5180 | 184| 
 | 20220217T08:16:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 223 | 24| 
 | 20220216T15:29:08Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 1 | 0| 
 | 20220216T03:13:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 224 | 36| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T13:52:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1499 | 164| 
+| 20220218T00:55:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10776 | 1866| 
+| 20220218T00:35:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1692 | 180| 
+| 20220218T00:18:56Z | Null | https://github.com/Kitolua/RobloxExploits | 0 | 0| 
+| 20220217T22:08:51Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
+| 20220217T21:25:50Z | A detailed tutorial on how Buffer Overflows are performed and how they can exploit an application. | https://github.com/KarlDamienBarrett/Exploit-Development | 0 | 0| 
+| 20220217T21:00:29Z | Acted as an offensive security Red Team to exploit a vulnerable Capstone VM and then switched to the role of Blue Team to analyze logs taken during the Red Team attack. The data was used to develop ideas for new alerts that can improve monitoring. | https://github.com/jakebrabham/Red-Team-vs.-Blue-Team-Project | 0 | 0| 
+| 20220217T16:41:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 314 | 98| 
 | 20220217T13:48:59Z | Retired machines% notes and exploitation material | https://github.com/1nj3ct10n/HackTheBox | 0 | 0| 
-| 20220217T13:45:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10767 | 1866| 
 | 20220217T13:09:51Z | exploitpack extracted from a honeynet which is being prepared by intruduers to be used as an exploitation infrastructure | https://github.com/maxamin/exploitpack-from-an-APT-infrastructure | 1 | 0| 
 | 20220217T12:34:42Z |  Fortnite-Exploits XD | https://github.com/fendylox/Fortnite-Exploits | 0 | 0| 
-| 20220217T12:23:59Z | Document and Patch Security Flaws in Oculus software/firmware.  | https://github.com/Valeraxxx/ExploitQuest | 0 | 0| 
-| 20220217T12:11:33Z | Une exploitation des données Parcoursup | https://github.com/juliengossa/parcoursup | 0 | 0| 
-| 20220217T11:57:14Z | An exploit script of CVE-2016-5195 | https://github.com/th3-5had0w/DirtyCOW-PoC | 0 | 0| 
-| 20220217T11:04:38Z | Given a set of survey locations of an observer walking in the fleld or flying over a given areas, r.survey calculates best solid angle, 3D Distance, View Angle and Solid Angle for each pixel and for a given object size. It runs in GRASS GIS and exploits r.viewshed | https://github.com/IvanMarchesini/r.survey.py | 2 | 0| 
-| 20220217T09:51:20Z | Null | https://github.com/ChaptalAdrien/systeme-exploitation-labs | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T12:56:34Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 84 | 16| 
+| 20220217T19:50:18Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 2 | 0| 
+| 20220217T19:27:26Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 583 | 225| 
+| 20220217T16:52:00Z | Backdoor with Golang (Cross-Plateform) | https://github.com/pilebones/backdoorGolang | 16 | 6| 
+| 20220217T14:09:44Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 85 | 16| 
 | 20220217T12:31:56Z | for educational purposes only! Send all contacts and SMS to a database for Android. | https://github.com/komen205/java-spyware | 0 | 0| 
 | 20220217T11:40:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 416 | 76| 
-| 20220217T07:21:36Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 581 | 225| 
 | 20220217T00:25:38Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 24 | 3| 
-| 20220216T15:10:50Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 0 | 0| 
 | 20220216T13:25:26Z | 0 backdoor faite par moi je la re leak | https://github.com/Shutdown29/Boutique-Notorious | 0 | 0| 
 | 20220216T11:40:23Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 80 | 18| 
 | 20220216T09:23:15Z | HTB Backdoor Capture The Flag | https://github.com/yaguine/backdoor | 0 | 0| 
-| 20220216T09:07:29Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 70 | 18| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220218T00:47:56Z | Null | https://github.com/mpektkd/NTUA-Neuro-Fuzzy-Control | 0 | 0| 
+| 20220217T20:14:45Z | Null | https://github.com/ystromm/fuzzy-garbanzo | 0 | 0| 
+| 20220217T18:15:20Z | Null | https://github.com/amisterdann/fuzzy-waddle | 0 | 0| 
 | 20220217T13:24:36Z | fuzzy-guacamole involves a form of set theory and logic in which predicates can have a degree of application, rather than simply being true or false. It has important applications in artificial intelligence and control system design. | https://github.com/japanesedig6613/fuzzy-guacamole | 0 | 0| 
 | 20220217T13:04:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3958 | 932| 
+| 20220217T12:31:23Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1198 | 52| 
 | 20220217T10:21:46Z | Design of a fuzzy logic system with multiple crisp inputs obtained through the OpenWeatherMap API for the computation of the humidity reference for a control based on the reference. | https://github.com/yalarcon99/Fuzzy_Logic_for_IrrigationSystem | 0 | 0| 
 | 20220217T10:07:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2481 | 157| 
 | 20220217T09:54:08Z | Null | https://github.com/ttscoff/omf-fuzzy_cd | 0 | 0| 
 | 20220217T09:49:04Z | Null | https://github.com/wsbblyy/image-fuzzy-matching | 1 | 0| 
-| 20220217T09:33:34Z | A flexible date parser written in rust | https://github.com/DevinVS/fuzzydate | 1 | 0| 
-| 20220217T07:34:11Z |  Command line fuzzer and bruteforcer 🌪 wfuzz for command | https://github.com/ariary/cfuzz | 1 | 0| 
-| 20220217T02:27:45Z | Web 前端开发的一些工具索引一览 | https://github.com/ScarboroughCoral/fuzzy-broccoli | 0 | 0| 
-| 20220217T02:27:30Z | Web 前端开发的一些工具索引一览 | https://github.com/ScarboroughCoral/fuzzy-broccoli- | 0 | 0| 
 
 
 
