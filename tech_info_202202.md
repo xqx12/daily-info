@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220218T02:08:10Z | Null | https://github.com/0xalpharush/fuzzing | 0 | 0| 
 | 20220218T00:47:56Z | Null | https://github.com/mpektkd/NTUA-Neuro-Fuzzy-Control | 0 | 0| 
 | 20220217T20:14:45Z | Null | https://github.com/ystromm/fuzzy-garbanzo | 0 | 0| 
 | 20220217T18:15:20Z | Null | https://github.com/amisterdann/fuzzy-waddle | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220217T10:21:46Z | Design of a fuzzy logic system with multiple crisp inputs obtained through the OpenWeatherMap API for the computation of the humidity reference for a control based on the reference. | https://github.com/yalarcon99/Fuzzy_Logic_for_IrrigationSystem | 0 | 0| 
 | 20220217T10:07:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2481 | 157| 
 | 20220217T09:54:08Z | Null | https://github.com/ttscoff/omf-fuzzy_cd | 0 | 0| 
-| 20220217T09:49:04Z | Null | https://github.com/wsbblyy/image-fuzzy-matching | 1 | 0| 
 
 
 
