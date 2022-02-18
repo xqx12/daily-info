@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T01:07:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1694 | 180| 
+| 20220218T01:13:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1694 | 180| 
 | 20220218T00:55:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10776 | 1866| 
 | 20220218T00:18:56Z | Null | https://github.com/Kitolua/RobloxExploits | 0 | 0| 
 | 20220217T22:08:51Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
