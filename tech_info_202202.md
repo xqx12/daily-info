@@ -106,24 +106,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T02:38:41Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 584 | 226| 
-| 20220217T19:50:18Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 2 | 0| 
+| 20220218T10:16:58Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 3 | 0| 
+| 20220218T09:40:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 585 | 226| 
 | 20220217T16:52:00Z | Backdoor with Golang (Cross-Plateform) | https://github.com/pilebones/backdoorGolang | 16 | 6| 
 | 20220217T14:09:44Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 85 | 16| 
 | 20220217T12:31:56Z | for educational purposes only! Send all contacts and SMS to a database for Android. | https://github.com/komen205/java-spyware | 0 | 0| 
 | 20220217T11:40:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 416 | 76| 
 | 20220217T00:25:38Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 24 | 3| 
+| 20220216T20:00:48Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 54 | 6| 
 | 20220216T13:25:26Z | 0 backdoor faite par moi je la re leak | https://github.com/Shutdown29/Boutique-Notorious | 0 | 0| 
 | 20220216T11:40:23Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 80 | 18| 
-| 20220216T09:23:15Z | HTB Backdoor Capture The Flag | https://github.com/yaguine/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220217T23:48:12Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 322 | 53| 
+| 20220218T10:38:31Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 330 | 56| 
+| 20220218T05:59:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2714 | 396| 
 | 20220217T16:37:15Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 617 | 128| 
-| 20220217T13:50:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2713 | 396| 
 | 20220216T17:21:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220216T13:43:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 200 | 45| 
 | 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
