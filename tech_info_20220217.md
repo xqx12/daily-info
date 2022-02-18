@@ -73,7 +73,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220217T19:50:18Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 2 | 0| 
-| 20220217T19:27:26Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 583 | 226| 
 | 20220217T16:52:00Z | Backdoor with Golang (Cross-Plateform) | https://github.com/pilebones/backdoorGolang | 16 | 6| 
 | 20220217T14:09:44Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 85 | 16| 
 | 20220217T12:31:56Z | for educational purposes only! Send all contacts and SMS to a database for Android. | https://github.com/komen205/java-spyware | 0 | 0| 
