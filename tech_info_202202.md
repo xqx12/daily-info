@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220218T12:29:13Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
+| 20220218T13:29:34Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220218T11:56:43Z | CVE-2021-1965 | Null | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220218T10:09:47Z | CVE-2021-4034 | pkexec EoP exploit | https://github.com/LJP-TW/CVE-2021-4034 | | 
 | 20220218T09:32:09Z | CVE-2022-0185 | CVE-2021-4034 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
