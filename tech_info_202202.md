@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T02:52:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1723 | 186| 
+| 20220218T02:58:28Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
+| 20220218T02:56:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1724 | 186| 
 | 20220218T02:33:52Z | Null | https://github.com/LeQuocKhanh2K/Tool_Camera_Exploit_Netwave_CVE-2018-6479 | 0 | 0| 
 | 20220218T02:30:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 47 | 12| 
 | 20220218T01:45:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 316 | 98| 
@@ -100,7 +101,6 @@
 | 20220217T22:08:51Z | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | 1 | 0| 
 | 20220217T21:25:50Z | A detailed tutorial on how Buffer Overflows are performed and how they can exploit an application. | https://github.com/KarlDamienBarrett/Exploit-Development | 0 | 0| 
 | 20220217T21:00:29Z | Acted as an offensive security Red Team to exploit a vulnerable Capstone VM and then switched to the role of Blue Team to analyze logs taken during the Red Team attack. The data was used to develop ideas for new alerts that can improve monitoring. | https://github.com/jakebrabham/Red-Team-vs.-Blue-Team-Project | 0 | 0| 
-| 20220217T13:48:59Z | Retired machines% notes and exploitation material | https://github.com/1nj3ct10n/HackTheBox | 0 | 0| 
 
 
 # backdoor on Github 推荐
