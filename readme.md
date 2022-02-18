@@ -57,7 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T13:40:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1873 | 200| 
+| 20220218T13:46:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1874 | 201| 
 | 20220218T12:50:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 319 | 98| 
 | 20220218T12:50:22Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 77 | 14| 
 | 20220218T12:40:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10783 | 1867| 
@@ -79,7 +79,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T10:38:31Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 330 | 56| 
+| 20220218T13:44:33Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 331 | 56| 
 | 20220218T05:59:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2714 | 396| 
 
 
