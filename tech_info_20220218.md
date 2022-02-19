@@ -31,8 +31,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220218T13:29:34Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
-| 20220218T11:56:43Z | CVE-2021-1965 | Null | https://github.com/parsdefense/CVE-2021-1965 | | 
+| 20220218T23:52:59Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
+| 20220218T23:03:45Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
+| 20220218T14:48:53Z | CVE-2022-23131 | Null | https://github.com/1mxml/CVE-2022-23131 | | 
 | 20220218T10:09:47Z | CVE-2021-4034 | pkexec EoP exploit | https://github.com/LJP-TW/CVE-2021-4034 | | 
 | 20220218T09:32:09Z | CVE-2022-0185 | CVE-2021-4034 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
 | 20220218T09:29:16Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
@@ -45,8 +46,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T12:33:56Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 420 | 25| 
-| 20220218T12:17:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5195 | 186| 
+| 20220218T22:09:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5202 | 186| 
+| 20220218T17:41:39Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 426 | 26| 
 
 
 # s2e on Github 推荐
@@ -57,23 +58,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220218T13:46:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1874 | 201| 
+| 20220218T23:09:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10784 | 1868| 
+| 20220218T22:57:12Z | Null | https://github.com/Dlol/exploitsite | 1 | 0| 
+| 20220218T21:48:06Z | Exploit | https://github.com/woahminas/RoSploits | 0 | 0| 
+| 20220218T13:15:01Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5206 | 993| 
 | 20220218T12:50:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 319 | 98| 
 | 20220218T12:50:22Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 77 | 14| 
-| 20220218T12:40:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10783 | 1867| 
 | 20220218T11:46:54Z | Exploit para exploração de plugins Wordpress para auxílio numa possível escalação de privilégios. | https://github.com/Nosferatuvjr/RCE-GNU-gdbserver | 0 | 0| 
 | 20220218T09:33:19Z | Null | https://github.com/xxycfhb/pku_exploit_files | 7 | 1| 
 | 20220218T09:19:13Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 18 | 4| 
-| 20220218T07:11:07Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 306 | 109| 
-| 20220218T02:58:28Z | https://exploit-poc.com | https://github.com/hktalent/exploit-poc | 2 | 1| 
-| 20220218T02:33:52Z | Null | https://github.com/LeQuocKhanh2K/Tool_Camera_Exploit_Netwave_CVE-2018-6479 | 0 | 0| 
+| 20220218T07:35:11Z | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | 8 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220218T13:54:29Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 4 | 0| 
-| 20220218T13:16:07Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 586 | 227| 
 
 
 # symbolic execution on Github 推荐
