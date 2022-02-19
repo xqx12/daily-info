@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220219T02:41:53Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1980 | 212| 
+| 20220219T02:58:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1981 | 212| 
 | 20220219T02:32:47Z | Current understanding of exploits by finding them, breaking them down, understanding how they work, and building my own from scratch | https://github.com/ZVR999/Working_With_Exploits | 0 | 0| 
 | 20220219T02:28:58Z | The HardenedBSD - exploit mitigation and security technologies on top of FreeBSD | https://github.com/bryn1u/HardenedBSD | 0 | 0| 
 | 20220219T01:56:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 49 | 12| 
