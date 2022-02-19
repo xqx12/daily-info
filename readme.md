@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220219T12:41:03Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
+| 20220219T13:46:52Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220219T11:18:38Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220219T10:53:42Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
 | 20220219T08:00:15Z | CVE-2021-4034 | pkexec EoP exploit | https://github.com/LJP-TW/CVE-2021-4034 | | 
