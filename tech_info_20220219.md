@@ -61,6 +61,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220219T10:19:37Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 339 | 57| 
+| 20220219T09:55:10Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 671 | 70| 
 | 20220219T02:43:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2715 | 396| 
 
 
