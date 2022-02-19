@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220219T13:43:48Z | The HardenedBSD - exploit mitigation and security technologies on top of FreeBSD | https://github.com/bryn1u/HardenedBSD | 0 | 0| 
 | 20220219T13:40:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2034 | 216| 
 | 20220219T13:24:09Z | Full VAC Bypass. Inject detected cheats and not get VAC banned. | https://github.com/Jackbail4/VAC-Bypass | 51 | 15| 
 | 20220219T13:14:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 321 | 99| 
@@ -48,7 +49,6 @@
 | 20220219T05:48:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10785 | 1868| 
 | 20220219T04:10:39Z | some random rblx exploit | https://github.com/akukebedberag/exploit | 1 | 0| 
 | 20220219T02:32:47Z | Current understanding of exploits by finding them, breaking them down, understanding how they work, and building my own from scratch | https://github.com/ZVR999/Working_With_Exploits | 0 | 0| 
-| 20220219T02:28:58Z | The HardenedBSD - exploit mitigation and security technologies on top of FreeBSD | https://github.com/bryn1u/HardenedBSD | 0 | 0| 
 
 
 # backdoor on Github 推荐
