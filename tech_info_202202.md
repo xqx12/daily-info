@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220219T13:36:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2033 | 216| 
+| 20220219T13:40:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2034 | 216| 
 | 20220219T13:24:09Z | Full VAC Bypass. Inject detected cheats and not get VAC banned. | https://github.com/Jackbail4/VAC-Bypass | 51 | 15| 
 | 20220219T13:14:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 321 | 99| 
 | 20220219T12:24:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 12 | 3| 
@@ -126,7 +126,7 @@
 | 20220219T02:43:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2715 | 396| 
 | 20220218T14:23:01Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 618 | 128| 
 | 20220216T17:21:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
-| 20220216T13:43:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 200 | 45| 
+| 20220216T13:43:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 200 | 46| 
 | 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 | 20220215T02:09:21Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1144 | 48| 
 | 20220214T20:58:09Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 196 | 13| 
