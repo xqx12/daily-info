@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220219T01:02:07Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 427 | 26| 
+| 20220219T01:30:14Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 428 | 26| 
 | 20220218T22:09:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5202 | 186| 
 | 20220217T08:16:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 223 | 24| 
 | 20220216T15:29:08Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 1 | 0| 
@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220219T01:30:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1978 | 211| 
 | 20220219T01:23:36Z | Null | https://github.com/RealChronics/Exploit-Template-v2 | 0 | 0| 
-| 20220219T01:08:53Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1977 | 211| 
 | 20220218T23:09:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10784 | 1868| 
 | 20220218T22:57:12Z | Null | https://github.com/Dlol/exploitsite | 1 | 0| 
 | 20220218T21:48:06Z | Exploit | https://github.com/woahminas/RoSploits | 0 | 0| 
