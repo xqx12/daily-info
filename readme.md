@@ -78,7 +78,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220218T22:00:11Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 335 | 56| 
 | 20220218T14:23:01Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 618 | 128| 
-| 20220218T05:59:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2714 | 396| 
 
 
 # big4 on Github 推荐
