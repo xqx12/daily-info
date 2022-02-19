@@ -77,6 +77,7 @@
 | 20220219T12:45:33Z | Null | https://github.com/Jakubszadkowski/fuzzy | 0 | 0| 
 | 20220219T12:25:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7102 | 1500| 
 | 20220219T09:39:57Z | Null | https://github.com/Moinulilm10/CSE-4871_Fuzzy_and_Neural_Network | 0 | 0| 
+| 20220219T09:09:24Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1197 | 210| 
 | 20220219T08:59:58Z | Null | https://github.com/swift-nav/gnss-converters-fuzz-testcases | 0 | 0| 
 | 20220219T07:45:42Z | fuzzing | https://github.com/standaside/stas | 0 | 0| 
 | 20220219T06:42:51Z | Django application demonstrating grabbing and storing user%s location | https://github.com/jaysridhar/fuzzy-spoon | 0 | 0| 

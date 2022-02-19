@@ -148,13 +148,13 @@
 | 20220219T12:45:33Z | Null | https://github.com/Jakubszadkowski/fuzzy | 0 | 0| 
 | 20220219T12:25:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7102 | 1500| 
 | 20220219T09:39:57Z | Null | https://github.com/Moinulilm10/CSE-4871_Fuzzy_and_Neural_Network | 0 | 0| 
+| 20220219T09:09:24Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1197 | 210| 
 | 20220219T08:59:58Z | Null | https://github.com/swift-nav/gnss-converters-fuzz-testcases | 0 | 0| 
 | 20220219T07:45:42Z | fuzzing | https://github.com/standaside/stas | 0 | 0| 
 | 20220219T06:42:51Z | Django application demonstrating grabbing and storing user%s location | https://github.com/jaysridhar/fuzzy-spoon | 0 | 0| 
 | 20220219T04:24:32Z | fuzzy-carnival Carnival is a form of carnival commonly celebrated in Roman Catholic societies, to a lesser extent Eastern Orthodoxy. | https://github.com/wisejamie38856/fuzzy-carnival | 0 | 0| 
 | 20220219T00:17:53Z | Experimenting with golang 1.18 workspaces, fuzzing and generics  | https://github.com/xmlking/go-workspace | 2 | 0| 
 | 20220218T23:07:21Z | C++ Regex Fuzzer and Analyzer (WIP) | https://github.com/Deruago/DREGX | 1 | 0| 
-| 20220218T22:35:17Z | Null | https://github.com/theapplegates/fuzzy-octotailwindnextjs | 0 | 0| 
 
 
 
