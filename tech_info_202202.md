@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220219T02:38:35Z | CVE-2022-23131 | Null | https://github.com/1mxml/CVE-2022-23131 | | 
-| 20220219T02:38:20Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
-| 20220219T02:06:33Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
-| 20220218T10:09:47Z | CVE-2021-4034 | pkexec EoP exploit | https://github.com/LJP-TW/CVE-2021-4034 | | 
+| 20220219T12:41:03Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
+| 20220219T11:18:38Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
+| 20220219T10:53:42Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
+| 20220219T08:00:15Z | CVE-2021-4034 | pkexec EoP exploit | https://github.com/LJP-TW/CVE-2021-4034 | | 
+| 20220219T03:14:49Z | CVE-2022-23131 | Null | https://github.com/1mxml/CVE-2022-23131 | | 
 | 20220218T09:32:09Z | CVE-2022-0185 | CVE-2021-4034 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
 | 20220218T09:29:16Z | CVE-2021-4034 | A simple PWNKIT file to convert you to root  | https://github.com/x04000/CVE-2021-4034 | | 
 | 20220218T08:40:00Z | CVE-2021-44228 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 | https://github.com/logpresso/CVE-2021-44228-Scanner | | 
 | 20220218T08:04:49Z | CVE-2020-15778 | Exploit for CVE-2020-15778(OpenSSH vul) | https://github.com/Neko-chanQwQ/CVE-2020-15778-Exploit | | 
 | 20220218T03:54:37Z | CVE-2021-26855 |   CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. | https://github.com/raheel0x01/CVE-2021-26855 | | 
-| 20220218T03:03:26Z | CVE-2022-23131 | Null | https://github.com/qq1549176285/CVE-2022-23131 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220219T01:42:13Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 429 | 26| 
-| 20220218T22:09:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5202 | 186| 
-| 20220217T08:16:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 223 | 24| 
+| 20220219T11:49:39Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 440 | 27| 
+| 20220219T11:01:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5208 | 186| 
+| 20220219T04:42:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 222 | 24| 
 | 20220216T15:29:08Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 1 | 0| 
 | 20220216T03:13:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 224 | 36| 
 | 20220215T13:59:18Z | KLEE with floating point support (unmaintained) | https://github.com/srg-imperial/klee-float | 14 | 14| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220219T02:58:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1981 | 212| 
+| 20220219T12:31:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2031 | 216| 
+| 20220219T12:24:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 12 | 3| 
+| 20220219T10:23:10Z | Simple and fast discord token cracker | https://github.com/tungdo0602/Discord-Token-Cracker | 26 | 7| 
+| 20220219T08:52:41Z | Null | https://github.com/bhavikmalhotra/Exploit-Education-Phoenix | 0 | 0| 
+| 20220219T05:48:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10785 | 1868| 
+| 20220219T04:21:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 320 | 99| 
+| 20220219T04:10:39Z | some random rblx exploit | https://github.com/akukebedberag/exploit | 1 | 0| 
 | 20220219T02:32:47Z | Current understanding of exploits by finding them, breaking them down, understanding how they work, and building my own from scratch | https://github.com/ZVR999/Working_With_Exploits | 0 | 0| 
 | 20220219T02:28:58Z | The HardenedBSD - exploit mitigation and security technologies on top of FreeBSD | https://github.com/bryn1u/HardenedBSD | 0 | 0| 
 | 20220219T01:56:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 49 | 12| 
-| 20220219T01:23:36Z | Null | https://github.com/RealChronics/Exploit-Template-v2 | 0 | 0| 
-| 20220218T23:09:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10784 | 1868| 
-| 20220218T22:57:12Z | Null | https://github.com/Dlol/exploitsite | 1 | 0| 
-| 20220218T21:48:06Z | Exploit | https://github.com/woahminas/RoSploits | 0 | 0| 
-| 20220218T13:15:01Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5206 | 993| 
-| 20220218T12:50:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 319 | 99| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220219T00:31:43Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 590 | 228| 
+| 20220219T12:15:41Z | Null | https://github.com/reynolds9808/vit-backdoor-attack | 0 | 0| 
+| 20220219T10:17:58Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 593 | 231| 
 | 20220218T13:54:29Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 4 | 0| 
+| 20220217T19:11:22Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 238 | 61| 
 | 20220217T16:52:00Z | Backdoor with Golang (Cross-Plateform) | https://github.com/pilebones/backdoorGolang | 16 | 6| 
 | 20220217T14:09:44Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 85 | 16| 
 | 20220217T12:31:56Z | for educational purposes only! Send all contacts and SMS to a database for Android. | https://github.com/komen205/java-spyware | 0 | 0| 
 | 20220217T11:40:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 416 | 76| 
 | 20220217T00:25:38Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 24 | 3| 
 | 20220216T20:00:48Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 54 | 6| 
-| 20220216T13:25:26Z | 0 backdoor faite par moi je la re leak | https://github.com/Shutdown29/Boutique-Notorious | 0 | 0| 
-| 20220216T11:40:23Z |  Access ADB On Browsers (: | https://github.com/jxroot/adbwebkit | 80 | 18| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220219T12:45:33Z | Null | https://github.com/Jakubszadkowski/fuzzy | 0 | 0| 
+| 20220219T12:25:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7102 | 1500| 
+| 20220219T09:39:57Z | Null | https://github.com/Moinulilm10/CSE-4871_Fuzzy_and_Neural_Network | 0 | 0| 
+| 20220219T08:59:58Z | Null | https://github.com/swift-nav/gnss-converters-fuzz-testcases | 0 | 0| 
+| 20220219T07:45:42Z | fuzzing | https://github.com/standaside/stas | 0 | 0| 
+| 20220219T06:42:51Z | Django application demonstrating grabbing and storing user%s location | https://github.com/jaysridhar/fuzzy-spoon | 0 | 0| 
+| 20220219T04:24:32Z | fuzzy-carnival Carnival is a form of carnival commonly celebrated in Roman Catholic societies, to a lesser extent Eastern Orthodoxy. | https://github.com/wisejamie38856/fuzzy-carnival | 0 | 0| 
 | 20220219T00:17:53Z | Experimenting with golang 1.18 workspaces, fuzzing and generics  | https://github.com/xmlking/go-workspace | 2 | 0| 
 | 20220218T23:07:21Z | C++ Regex Fuzzer and Analyzer (WIP) | https://github.com/Deruago/DREGX | 1 | 0| 
 | 20220218T22:35:17Z | Null | https://github.com/theapplegates/fuzzy-octotailwindnextjs | 0 | 0| 
-| 20220218T22:04:37Z | Null | https://github.com/jaimin4949/custom-fuzz | 0 | 0| 
-| 20220218T19:12:55Z | Installation of Fuzz typechecker for Z in Ubuntu 20.04 | https://github.com/Gricel-lee/Fuzz-typechecker-for-Z---Ubuntu | 0 | 0| 
-| 20220218T12:30:10Z | Null | https://github.com/shubhaguha/fuzzy-octo-telegram | 0 | 0| 
-| 20220218T12:29:07Z | JetBrains Research intership project. | https://github.com/AnzhelaSukhanova/fuzzing_of_spacer | 2 | 1| 
-| 20220218T11:50:31Z | Null | https://github.com/python-divya/fuzzy-octo-giggle | 0 | 0| 
-| 20220218T11:38:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3966 | 934| 
-| 20220218T11:19:28Z | Null | https://github.com/Tanisk1999/fuzzy | 0 | 0| 
 
 
 
