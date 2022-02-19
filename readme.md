@@ -61,13 +61,13 @@
 | 20220218T23:09:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10784 | 1868| 
 | 20220218T22:57:12Z | Null | https://github.com/Dlol/exploitsite | 1 | 0| 
 | 20220218T21:48:06Z | Exploit | https://github.com/woahminas/RoSploits | 0 | 0| 
+| 20220218T14:04:15Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 48 | 12| 
 | 20220218T13:15:01Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5206 | 993| 
 | 20220218T12:50:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 319 | 98| 
 | 20220218T12:50:22Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 77 | 14| 
 | 20220218T11:46:54Z | Exploit para exploração de plugins Wordpress para auxílio numa possível escalação de privilégios. | https://github.com/Nosferatuvjr/RCE-GNU-gdbserver | 0 | 0| 
 | 20220218T09:33:19Z | Null | https://github.com/xxycfhb/pku_exploit_files | 7 | 1| 
 | 20220218T09:19:13Z | The whole collection of Exploits developed by me (Hacker5preme) | https://github.com/Hacker5preme/Exploits | 18 | 4| 
-| 20220218T07:35:11Z | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | 8 | 1| 
 
 
 # backdoor on Github 推荐
