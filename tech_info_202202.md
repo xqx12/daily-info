@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220219T01:12:58Z | Null | https://github.com/RealChronics/Exploit-Template-v2 | 0 | 0| 
+| 20220219T01:23:36Z | Null | https://github.com/RealChronics/Exploit-Template-v2 | 0 | 0| 
 | 20220219T01:08:53Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1977 | 211| 
 | 20220218T23:09:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10784 | 1868| 
 | 20220218T22:57:12Z | Null | https://github.com/Dlol/exploitsite | 1 | 0| 
