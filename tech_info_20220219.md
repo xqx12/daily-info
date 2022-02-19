@@ -39,12 +39,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220219T13:14:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 321 | 99| 
 | 20220219T12:31:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2031 | 216| 
 | 20220219T12:24:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 12 | 3| 
 | 20220219T10:23:10Z | Simple and fast discord token cracker | https://github.com/tungdo0602/Discord-Token-Cracker | 26 | 7| 
 | 20220219T08:52:41Z | Null | https://github.com/bhavikmalhotra/Exploit-Education-Phoenix | 0 | 0| 
 | 20220219T05:48:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10785 | 1868| 
-| 20220219T04:21:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 320 | 99| 
 | 20220219T04:10:39Z | some random rblx exploit | https://github.com/akukebedberag/exploit | 1 | 0| 
 | 20220219T02:32:47Z | Current understanding of exploits by finding them, breaking them down, understanding how they work, and building my own from scratch | https://github.com/ZVR999/Working_With_Exploits | 0 | 0| 
 | 20220219T02:28:58Z | The HardenedBSD - exploit mitigation and security technologies on top of FreeBSD | https://github.com/bryn1u/HardenedBSD | 0 | 0| 
