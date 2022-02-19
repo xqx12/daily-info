@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220219T02:41:53Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1980 | 212| 
 | 20220219T02:32:47Z | Current understanding of exploits by finding them, breaking them down, understanding how they work, and building my own from scratch | https://github.com/ZVR999/Working_With_Exploits | 0 | 0| 
 | 20220219T02:28:58Z | The HardenedBSD - exploit mitigation and security technologies on top of FreeBSD | https://github.com/bryn1u/HardenedBSD | 0 | 0| 
-| 20220219T02:05:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 1979 | 212| 
 | 20220219T01:56:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 49 | 12| 
 | 20220219T01:23:36Z | Null | https://github.com/RealChronics/Exploit-Template-v2 | 0 | 0| 
 | 20220218T23:09:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10784 | 1868| 
