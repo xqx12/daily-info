@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220219T13:14:37Z | Null | https://github.com/meetqy/fuzzy-ui | 0 | 0| 
 | 20220219T12:45:33Z | Null | https://github.com/Jakubszadkowski/fuzzy | 0 | 0| 
 | 20220219T12:25:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7102 | 1500| 
 | 20220219T09:39:57Z | Null | https://github.com/Moinulilm10/CSE-4871_Fuzzy_and_Neural_Network | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220219T06:42:51Z | Django application demonstrating grabbing and storing user%s location | https://github.com/jaysridhar/fuzzy-spoon | 0 | 0| 
 | 20220219T04:24:32Z | fuzzy-carnival Carnival is a form of carnival commonly celebrated in Roman Catholic societies, to a lesser extent Eastern Orthodoxy. | https://github.com/wisejamie38856/fuzzy-carnival | 0 | 0| 
 | 20220219T00:17:53Z | Experimenting with golang 1.18 workspaces, fuzzing and generics  | https://github.com/xmlking/go-workspace | 2 | 0| 
-| 20220218T23:07:21Z | C++ Regex Fuzzer and Analyzer (WIP) | https://github.com/Deruago/DREGX | 1 | 0| 
 
 
 
