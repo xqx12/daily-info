@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T02:31:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7105 | 1501| 
+| 20220220T02:31:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7105 | 1502| 
 | 20220220T00:44:34Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 389 | 56| 
 | 20220220T00:07:45Z | Simple site for a friend a mine. All credits to HTML5UP.net | https://github.com/JasonCruz-Dev/fuzzy-enigma | 0 | 0| 
 | 20220219T23:35:48Z | logique floue  | https://github.com/Walid2000815/Logique-floue-fuzzy-logic- | 0 | 0| 
