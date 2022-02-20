@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T13:43:14Z | python scripts | https://github.com/twseptian/python-exploit-scripts | 0 | 0| 
 | 20220220T13:31:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1916| 
 | 20220220T13:26:49Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 179 | 31| 
 | 20220220T11:26:28Z | Null | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20220220T01:38:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2072 | 219| 
 | 20220220T00:50:20Z | Useful Windows and AD tools | https://github.com/r4wd3r/ADPWN | 13 | 9| 
 | 20220220T00:21:57Z | AuraX is a new Executor Created By Aura18x and Nexure. We are a Level 7 Executor for Roblox. we come with tons of preloaded scripts in its own menu and even host giveaways for beta access from time to time. Hope to see you using AuraX for your next trolling/exploiting session! | https://github.com/Aura18x/AuraX | 0 | 0| 
-| 20220220T00:11:27Z | Null | https://github.com/Blue-PvP/RobloxExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
