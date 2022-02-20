@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T01:09:25Z | nuevo | https://github.com/garciarodrigue/backdoor.1 | 0 | 0| 
 | 20220220T00:55:15Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 595 | 233| 
 | 20220219T22:03:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20220219T21:50:59Z | BACKDOOR CON TAN SOLO 2 LINEAS DE CODIGO (LINUX Y WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 1 | 0| 
@@ -115,7 +116,6 @@
 | 20220219T14:37:32Z | Null | https://github.com/reynolds9808/transformers_backdoor_attack | 0 | 0| 
 | 20220219T12:15:41Z | Null | https://github.com/reynolds9808/vit-backdoor-attack | 0 | 0| 
 | 20220218T13:54:29Z | Files related to PoC,,GTFO 21:21 - NSA’s Backdoor of the PX1000-Cr | https://github.com/stef/px1000cr | 4 | 0| 
-| 20220217T16:52:00Z | Backdoor with Golang (Cross-Plateform) | https://github.com/pilebones/backdoorGolang | 16 | 6| 
 
 
 # symbolic execution on Github 推荐
