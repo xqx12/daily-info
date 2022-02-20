@@ -86,12 +86,12 @@
 | 20220219T22:09:45Z | Null | https://github.com/FuhgJan/intervalAndFuzzyPINN | 0 | 0| 
 | 20220219T20:35:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1063 | 153| 
 | 20220219T20:24:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 45 | 14| 
-| 20220219T16:07:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7104 | 1501| 
 | 20220219T13:14:37Z | Null | https://github.com/meetqy/fuzzy-ui | 0 | 0| 
 | 20220219T12:45:33Z | Null | https://github.com/Jakubszadkowski/fuzzy | 0 | 0| 
 | 20220219T09:39:57Z | Null | https://github.com/Moinulilm10/CSE-4871_Fuzzy_and_Neural_Network | 0 | 0| 
 | 20220219T09:09:24Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1197 | 210| 
 | 20220219T08:59:58Z | Null | https://github.com/swift-nav/gnss-converters-fuzz-testcases | 0 | 0| 
+| 20220219T07:45:42Z | fuzzing | https://github.com/standaside/stas | 0 | 0| 
 
 
 

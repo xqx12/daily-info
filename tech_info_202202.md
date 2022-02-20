@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220220T02:29:23Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220220T02:24:35Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220220T01:59:14Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
-| 20220220T00:52:56Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220219T23:51:30Z | CVE-2020-1472 | Fancy Zerologon Beta | https://github.com/Exploitspacks/CVE-2020-1472 | | 
 | 20220219T23:20:58Z | CVE-2021-34527 | PrintNightmare+Manual | https://github.com/Exploitspacks/CVE-2021-34527-CVE-2021-1675 | | 
 | 20220219T22:30:47Z | CVE-2020-12812 | A full-fledged exploit for CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 and not only with a powershell parser. Any evidence | https://github.com/Exploitspacks/CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 | | 
@@ -145,13 +145,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T02:31:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7105 | 1501| 
 | 20220220T00:44:34Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 389 | 56| 
 | 20220220T00:07:45Z | Simple site for a friend a mine. All credits to HTML5UP.net | https://github.com/JasonCruz-Dev/fuzzy-enigma | 0 | 0| 
 | 20220219T23:35:48Z | logique floue  | https://github.com/Walid2000815/Logique-floue-fuzzy-logic- | 0 | 0| 
 | 20220219T22:09:45Z | Null | https://github.com/FuhgJan/intervalAndFuzzyPINN | 0 | 0| 
 | 20220219T20:35:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1063 | 153| 
 | 20220219T20:24:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 45 | 14| 
-| 20220219T16:07:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7104 | 1501| 
 | 20220219T13:14:37Z | Null | https://github.com/meetqy/fuzzy-ui | 0 | 0| 
 | 20220219T12:45:33Z | Null | https://github.com/Jakubszadkowski/fuzzy | 0 | 0| 
 | 20220219T09:39:57Z | Null | https://github.com/Moinulilm10/CSE-4871_Fuzzy_and_Neural_Network | 0 | 0| 
