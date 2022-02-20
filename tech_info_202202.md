@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220220T02:29:23Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
-| 20220220T02:24:35Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
-| 20220220T01:59:14Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
+| 20220220T12:19:55Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
+| 20220220T09:58:53Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
+| 20220220T07:31:24Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
 | 20220219T23:51:30Z | CVE-2020-1472 | Fancy Zerologon Beta | https://github.com/Exploitspacks/CVE-2020-1472 | | 
 | 20220219T23:20:58Z | CVE-2021-34527 | PrintNightmare+Manual | https://github.com/Exploitspacks/CVE-2021-34527-CVE-2021-1675 | | 
 | 20220219T22:30:47Z | CVE-2020-12812 | A full-fledged exploit for CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 and not only with a powershell parser. Any evidence | https://github.com/Exploitspacks/CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 | | 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T02:34:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5211 | 187| 
-| 20220220T02:33:03Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 445 | 27| 
+| 20220220T12:58:07Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 450 | 27| 
+| 20220220T11:25:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5213 | 189| 
 | 20220219T04:42:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 222 | 24| 
 | 20220216T15:29:08Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 1 | 0| 
 | 20220216T03:13:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 224 | 36| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T11:50:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6131 | 1916| 
+| 20220220T11:26:28Z | Null | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | 0 | 0| 
+| 20220220T11:23:06Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 178 | 31| 
+| 20220220T05:58:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10789 | 1868| 
 | 20220220T02:41:11Z | Its our new exploits we made together using teamview thanks! youtube - https://www.youtube.com/channel/UCJ_EIpyHPlWlKJ-BRZ57Rrg | https://github.com/IUploadExploits/Enki-X-DailyXploits | 0 | 0| 
 | 20220220T01:56:47Z | Null | https://github.com/krypton612/ExploitGenMb | 0 | 0| 
 | 20220220T01:38:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2072 | 219| 
-| 20220220T01:17:42Z | Null | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | 0 | 0| 
 | 20220220T00:50:20Z | Useful Windows and AD tools | https://github.com/r4wd3r/ADPWN | 13 | 9| 
 | 20220220T00:21:57Z | AuraX is a new Executor Created By Aura18x and Nexure. We are a Level 7 Executor for Roblox. we come with tons of preloaded scripts in its own menu and even host giveaways for beta access from time to time. Hope to see you using AuraX for your next trolling/exploiting session! | https://github.com/Aura18x/AuraX | 0 | 0| 
 | 20220220T00:11:27Z | Null | https://github.com/Blue-PvP/RobloxExploits | 0 | 0| 
-| 20220219T23:40:50Z | exploits | https://github.com/crizskuk/code-ctf | 0 | 0| 
-| 20220219T23:40:15Z | Urban entomology heavily relies on the use of conventional insecticides for cockroach management. Yet the symbiotic relationship between cockroaches and their endosymbionts such as Wolbachia holds apposite insights that could be exploited for control.  To better understand the cladogenetic lineage and  host relationship of cockroach-associated Wolbachia we provide here a set of analysis conducted on  MLST data, Biotin synthesis genes from Wolbachia as well as the host Phylogeny. | https://github.com/Younes-Laidoudi/Cockroach-associated-Wolbachia | 0 | 0| 
-| 20220219T23:36:58Z | (TF2) Block the build command on spies to stop the voice line cooldown exploit. | https://github.com/Sreap/sm_noapsap | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T12:05:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 415 | 76| 
+| 20220220T11:50:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6131 | 1916| 
+| 20220220T09:51:09Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features [WIP] | https://github.com/SaltyMilk/War | 0 | 0| 
+| 20220220T09:11:03Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 599 | 232| 
+| 20220220T05:04:02Z | A basic reverse backdoor coded in Python. This is one of the projects I worked on while following a course on ethical hacking. | https://github.com/saverio87/python-reverse-backdoor | 0 | 0| 
+| 20220220T03:09:17Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 55 | 6| 
 | 20220220T01:37:58Z | Backdoor Shell Scanner and Web App Filter (SQLI, XSS, RCE, LFI) | https://github.com/gtx666ti/web-security | 0 | 0| 
 | 20220220T01:09:25Z | nuevo | https://github.com/garciarodrigue/backdoor.1 | 0 | 0| 
-| 20220220T00:55:15Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 595 | 233| 
 | 20220219T22:03:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20220219T21:50:59Z | BACKDOOR CON TAN SOLO 2 LINEAS DE CODIGO (LINUX Y WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 1 | 0| 
-| 20220219T21:22:13Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 239 | 61| 
-| 20220219T19:07:30Z | Null | https://github.com/ekovegeance/backdoor | 0 | 0| 
-| 20220219T15:40:53Z | Null | https://github.com/Armaggon/Python-Backdoor | 0 | 0| 
-| 20220219T14:37:32Z | Null | https://github.com/reynolds9808/transformers_backdoor_attack | 0 | 0| 
-| 20220219T12:15:41Z | Null | https://github.com/reynolds9808/vit-backdoor-attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T02:42:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 767 | 79| 
-| 20220220T02:31:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7105 | 1502| 
+| 20220220T11:06:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7106 | 1504| 
+| 20220220T07:13:07Z | Furry Fiesta is a furry convention that is held in Dallas, Texas, USA. It occurs each February or March at the Hyatt Regency Dallas. | https://github.com/paytonbabbie983/fuzzy-fiesta | 0 | 0| 
+| 20220220T06:59:39Z | Null | https://github.com/Labster22/SqlFuzz | 0 | 0| 
+| 20220220T06:26:09Z | Null | https://github.com/anurag1developer/fuzzy-adventure | 0 | 0| 
+| 20220220T05:38:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 768 | 79| 
+| 20220220T05:27:36Z | Null | https://github.com/Shafiuzzaman-Hira/AFL-Fuzz | 0 | 0| 
 | 20220220T00:44:34Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 389 | 56| 
 | 20220220T00:07:45Z | Simple site for a friend a mine. All credits to HTML5UP.net | https://github.com/JasonCruz-Dev/fuzzy-enigma | 0 | 0| 
 | 20220219T23:35:48Z | logique floue  | https://github.com/Walid2000815/Logique-floue-fuzzy-logic- | 0 | 0| 
 | 20220219T22:09:45Z | Null | https://github.com/FuhgJan/intervalAndFuzzyPINN | 0 | 0| 
-| 20220219T20:35:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1063 | 153| 
-| 20220219T20:24:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 45 | 14| 
-| 20220219T13:14:37Z | Null | https://github.com/meetqy/fuzzy-ui | 0 | 0| 
-| 20220219T12:45:33Z | Null | https://github.com/Jakubszadkowski/fuzzy | 0 | 0| 
 
 
 
