@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T13:31:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1916| 
 | 20220220T13:26:49Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 179 | 31| 
-| 20220220T11:50:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6131 | 1916| 
 | 20220220T11:26:28Z | Null | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | 0 | 0| 
 | 20220220T05:58:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10789 | 1868| 
 | 20220220T02:41:11Z | Its our new exploits we made together using teamview thanks! youtube - https://www.youtube.com/channel/UCJ_EIpyHPlWlKJ-BRZ57Rrg | https://github.com/IUploadExploits/Enki-X-DailyXploits | 0 | 0| 
@@ -106,9 +106,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T13:31:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1916| 
 | 20220220T13:14:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 598 | 232| 
 | 20220220T12:05:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 415 | 76| 
-| 20220220T11:50:12Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6131 | 1916| 
 | 20220220T09:51:09Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features [WIP] | https://github.com/SaltyMilk/War | 0 | 0| 
 | 20220220T05:04:02Z | A basic reverse backdoor coded in Python. This is one of the projects I worked on while following a course on ethical hacking. | https://github.com/saverio87/python-reverse-backdoor | 0 | 0| 
 | 20220220T03:09:17Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 55 | 6| 
