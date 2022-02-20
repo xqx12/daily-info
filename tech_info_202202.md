@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T02:42:45Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 767 | 79| 
 | 20220220T02:31:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7105 | 1502| 
 | 20220220T00:44:34Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 389 | 56| 
 | 20220220T00:07:45Z | Simple site for a friend a mine. All credits to HTML5UP.net | https://github.com/JasonCruz-Dev/fuzzy-enigma | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220219T20:24:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 45 | 14| 
 | 20220219T13:14:37Z | Null | https://github.com/meetqy/fuzzy-ui | 0 | 0| 
 | 20220219T12:45:33Z | Null | https://github.com/Jakubszadkowski/fuzzy | 0 | 0| 
-| 20220219T09:39:57Z | Null | https://github.com/Moinulilm10/CSE-4871_Fuzzy_and_Neural_Network | 0 | 0| 
 
 
 
