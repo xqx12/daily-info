@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T01:56:47Z | Null | https://github.com/krypton612/ExploitGenMb | 0 | 0| 
 | 20220220T01:38:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2072 | 219| 
 | 20220220T01:17:42Z | Null | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | 0 | 0| 
 | 20220220T00:50:20Z | Useful Windows and AD tools | https://github.com/r4wd3r/ADPWN | 13 | 9| 
@@ -100,7 +101,6 @@
 | 20220219T23:40:15Z | Urban entomology heavily relies on the use of conventional insecticides for cockroach management. Yet the symbiotic relationship between cockroaches and their endosymbionts such as Wolbachia holds apposite insights that could be exploited for control.  To better understand the cladogenetic lineage and  host relationship of cockroach-associated Wolbachia we provide here a set of analysis conducted on  MLST data, Biotin synthesis genes from Wolbachia as well as the host Phylogeny. | https://github.com/Younes-Laidoudi/Cockroach-associated-Wolbachia | 0 | 0| 
 | 20220219T23:36:58Z | (TF2) Block the build command on spies to stop the voice line cooldown exploit. | https://github.com/Sreap/sm_noapsap | 0 | 0| 
 | 20220219T23:36:35Z | Windows Antivirus Evasion and Memory Injection | https://github.com/iDigitalFlame/InYourMems | 12 | 8| 
-| 20220219T23:10:43Z | Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021. | https://github.com/0vercl0k/zenith | 33 | 6| 
 
 
 # backdoor on Github 推荐
