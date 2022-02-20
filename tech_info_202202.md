@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220220T01:59:14Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
 | 20220220T00:52:56Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220220T00:46:52Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220219T23:51:30Z | CVE-2020-1472 | Fancy Zerologon Beta | https://github.com/Exploitspacks/CVE-2020-1472 | | 
@@ -55,7 +56,6 @@
 | 20220219T21:43:51Z | CVE-2021-20028 | SonicWall Exploit CVE-2021-20028 | https://github.com/Exploitspacks/CVE-2021-20028 | | 
 | 20220219T21:02:42Z | CVE-2021-42949 | Null | https://github.com/dhammon/HotelDruid-CVE-2021-42949 | | 
 | 20220219T21:01:12Z | CVE-2021-42948 | Null | https://github.com/dhammon/HotelDruid-CVE-2021-42948 | | 
-| 20220219T15:28:59Z | CVE-2021-45007 | Cross-Site Request Forgery | https://github.com/AS4mir/CVE-2021-45007 | | 
 
 
 # klee on Github 推荐
