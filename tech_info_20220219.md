@@ -49,10 +49,10 @@
 | 20220219T23:36:35Z | Windows Antivirus Evasion and Memory Injection | https://github.com/iDigitalFlame/InYourMems | 12 | 8| 
 | 20220219T23:10:43Z | Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021. | https://github.com/0vercl0k/zenith | 33 | 6| 
 | 20220219T22:52:09Z | Fully modified exploit for Ms17-010 | https://github.com/Exploitspacks/MS17-010-2017-2997-CVE-2017-2998-CVE-2017-2999-CVE-2017-3000-CVE-2017-3001-CVE-2017-3002-CVE-2017-3 | 0 | 0| 
+| 20220219T22:47:06Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 51 | 12| 
 | 20220219T22:39:05Z | Modified exploit | https://github.com/Exploitspacks/CVE-2019-0708 | 0 | 0| 
 | 20220219T22:30:47Z | A full-fledged exploit for CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 and not only with a powershell parser. Any evidence | https://github.com/Exploitspacks/CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 | 0 | 0| 
 | 20220219T22:10:00Z | Exploit for Quantum | https://github.com/Exploitspacks/Exploit-Quantum | 0 | 0| 
-| 20220219T21:43:51Z | SonicWall Exploit CVE-2021-20028 | https://github.com/Exploitspacks/CVE-2021-20028 | 0 | 0| 
 
 
 # backdoor on Github 推荐
