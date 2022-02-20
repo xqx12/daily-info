@@ -16,18 +16,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220219T13:56:37Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
-| 20220219T11:18:38Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
+| 20220219T23:51:30Z | CVE-2020-1472 | Fancy Zerologon Beta | https://github.com/Exploitspacks/CVE-2020-1472 | | 
+| 20220219T23:20:58Z | CVE-2021-34527 | PrintNightmare+Manual | https://github.com/Exploitspacks/CVE-2021-34527-CVE-2021-1675 | | 
+| 20220219T22:30:47Z | CVE-2020-12812 | A full-fledged exploit for CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 and not only with a powershell parser. Any evidence | https://github.com/Exploitspacks/CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 | | 
+| 20220219T22:18:00Z | CVE-2020-0787 | Vulnerability: CVE-2020-0787 (Published: March 10, 2020) Supported versions: Vista/2008/W7/2008R2/W8/2012/W8.1/2012R2/W10/2016/2019 Supported architecture: x86/x64 Development stage: v1.0.20130 (stable) Code size: 36Kb | https://github.com/Exploitspacks/CVE-2020-0787 | | 
+| 20220219T21:43:51Z | CVE-2021-20028 | SonicWall Exploit CVE-2021-20028 | https://github.com/Exploitspacks/CVE-2021-20028 | | 
+| 20220219T21:02:42Z | CVE-2021-42949 | Null | https://github.com/dhammon/HotelDruid-CVE-2021-42949 | | 
+| 20220219T21:01:12Z | CVE-2021-42948 | Null | https://github.com/dhammon/HotelDruid-CVE-2021-42948 | | 
+| 20220219T15:28:59Z | CVE-2021-45007 | Cross-Site Request Forgery | https://github.com/AS4mir/CVE-2021-45007 | | 
 | 20220219T10:53:42Z | CVE-2022-21661 | Null | https://github.com/purple-WL/wordpress-CVE-2022-21661 | | 
 | 20220219T08:00:15Z | CVE-2021-4034 | pkexec EoP exploit | https://github.com/LJP-TW/CVE-2021-4034 | | 
-| 20220219T03:14:49Z | CVE-2022-23131 | Null | https://github.com/1mxml/CVE-2022-23131 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220219T11:49:39Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 440 | 27| 
-| 20220219T11:01:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5208 | 186| 
+| 20220219T14:33:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5209 | 186| 
 | 20220219T04:42:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 222 | 24| 
 
 
@@ -39,23 +43,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220219T13:43:48Z | The HardenedBSD - exploit mitigation and security technologies on top of FreeBSD | https://github.com/bryn1u/HardenedBSD | 0 | 0| 
-| 20220219T13:40:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2034 | 216| 
-| 20220219T13:24:09Z | Full VAC Bypass. Inject detected cheats and not get VAC banned. | https://github.com/Jackbail4/VAC-Bypass | 51 | 15| 
-| 20220219T13:14:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 321 | 99| 
-| 20220219T12:24:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 12 | 3| 
-| 20220219T11:39:07Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4025 | 1413| 
-| 20220219T10:23:10Z | Simple and fast discord token cracker | https://github.com/tungdo0602/Discord-Token-Cracker | 26 | 7| 
-| 20220219T08:52:41Z | Null | https://github.com/bhavikmalhotra/Exploit-Education-Phoenix | 0 | 0| 
-| 20220219T05:48:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10785 | 1868| 
-| 20220219T04:10:39Z | some random rblx exploit | https://github.com/akukebedberag/exploit | 1 | 0| 
+| 20220219T23:40:50Z | exploits | https://github.com/crizskuk/code-ctf | 0 | 0| 
+| 20220219T23:40:15Z | Urban entomology heavily relies on the use of conventional insecticides for cockroach management. Yet the symbiotic relationship between cockroaches and their endosymbionts such as Wolbachia holds apposite insights that could be exploited for control.  To better understand the cladogenetic lineage and  host relationship of cockroach-associated Wolbachia we provide here a set of analysis conducted on  MLST data, Biotin synthesis genes from Wolbachia as well as the host Phylogeny. | https://github.com/Younes-Laidoudi/Cockroach-associated-Wolbachia | 0 | 0| 
+| 20220219T23:36:58Z | (TF2) Block the build command on spies to stop the voice line cooldown exploit. | https://github.com/Sreap/sm_noapsap | 0 | 0| 
+| 20220219T23:36:35Z | Windows Antivirus Evasion and Memory Injection | https://github.com/iDigitalFlame/InYourMems | 12 | 8| 
+| 20220219T23:10:43Z | Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021. | https://github.com/0vercl0k/zenith | 33 | 6| 
+| 20220219T22:52:09Z | Fully modified exploit for Ms17-010 | https://github.com/Exploitspacks/MS17-010-2017-2997-CVE-2017-2998-CVE-2017-2999-CVE-2017-3000-CVE-2017-3001-CVE-2017-3002-CVE-2017-3 | 0 | 0| 
+| 20220219T22:39:05Z | Modified exploit | https://github.com/Exploitspacks/CVE-2019-0708 | 0 | 0| 
+| 20220219T22:30:47Z | A full-fledged exploit for CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 and not only with a powershell parser. Any evidence | https://github.com/Exploitspacks/CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 | 0 | 0| 
+| 20220219T22:10:00Z | Exploit for Quantum | https://github.com/Exploitspacks/Exploit-Quantum | 0 | 0| 
+| 20220219T21:43:51Z | SonicWall Exploit CVE-2021-20028 | https://github.com/Exploitspacks/CVE-2021-20028 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220219T22:03:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
+| 20220219T21:50:59Z | BACKDOOR CON TAN SOLO 2 LINEAS DE CODIGO (LINUX Y WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 1 | 0| 
+| 20220219T21:22:13Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 239 | 61| 
+| 20220219T19:07:30Z | Null | https://github.com/ekovegeance/backdoor | 0 | 0| 
+| 20220219T15:40:53Z | Null | https://github.com/Armaggon/Python-Backdoor | 0 | 0| 
+| 20220219T14:37:32Z | Null | https://github.com/reynolds9808/transformers_backdoor_attack | 0 | 0| 
 | 20220219T12:15:41Z | Null | https://github.com/reynolds9808/vit-backdoor-attack | 0 | 0| 
-| 20220219T10:17:58Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 593 | 231| 
 
 
 # symbolic execution on Github 推荐
@@ -74,16 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220219T23:35:48Z | logique floue  | https://github.com/Walid2000815/Logique-floue-fuzzy-logic- | 0 | 0| 
+| 20220219T22:09:45Z | Null | https://github.com/FuhgJan/intervalAndFuzzyPINN | 0 | 0| 
+| 20220219T20:35:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1063 | 153| 
+| 20220219T20:24:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 45 | 14| 
+| 20220219T16:07:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7104 | 1501| 
 | 20220219T13:14:37Z | Null | https://github.com/meetqy/fuzzy-ui | 0 | 0| 
 | 20220219T12:45:33Z | Null | https://github.com/Jakubszadkowski/fuzzy | 0 | 0| 
-| 20220219T12:25:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7102 | 1500| 
 | 20220219T09:39:57Z | Null | https://github.com/Moinulilm10/CSE-4871_Fuzzy_and_Neural_Network | 0 | 0| 
 | 20220219T09:09:24Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1197 | 210| 
 | 20220219T08:59:58Z | Null | https://github.com/swift-nav/gnss-converters-fuzz-testcases | 0 | 0| 
-| 20220219T07:45:42Z | fuzzing | https://github.com/standaside/stas | 0 | 0| 
-| 20220219T06:42:51Z | Django application demonstrating grabbing and storing user%s location | https://github.com/jaysridhar/fuzzy-spoon | 0 | 0| 
-| 20220219T04:24:32Z | fuzzy-carnival Carnival is a form of carnival commonly celebrated in Roman Catholic societies, to a lesser extent Eastern Orthodoxy. | https://github.com/wisejamie38856/fuzzy-carnival | 0 | 0| 
-| 20220219T00:17:53Z | Experimenting with golang 1.18 workspaces, fuzzing and generics  | https://github.com/xmlking/go-workspace | 2 | 0| 
 
 
 
