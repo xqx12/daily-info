@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220220T02:41:11Z | Its our new exploits we made together using teamview thanks! youtube - https://www.youtube.com/channel/UCJ_EIpyHPlWlKJ-BRZ57Rrg | https://github.com/IUploadExploits/Enki-X-DailyXploits | 0 | 0| 
 | 20220220T01:56:47Z | Null | https://github.com/krypton612/ExploitGenMb | 0 | 0| 
 | 20220220T01:38:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2072 | 219| 
 | 20220220T01:17:42Z | Null | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220219T23:40:50Z | exploits | https://github.com/crizskuk/code-ctf | 0 | 0| 
 | 20220219T23:40:15Z | Urban entomology heavily relies on the use of conventional insecticides for cockroach management. Yet the symbiotic relationship between cockroaches and their endosymbionts such as Wolbachia holds apposite insights that could be exploited for control.  To better understand the cladogenetic lineage and  host relationship of cockroach-associated Wolbachia we provide here a set of analysis conducted on  MLST data, Biotin synthesis genes from Wolbachia as well as the host Phylogeny. | https://github.com/Younes-Laidoudi/Cockroach-associated-Wolbachia | 0 | 0| 
 | 20220219T23:36:58Z | (TF2) Block the build command on spies to stop the voice line cooldown exploit. | https://github.com/Sreap/sm_noapsap | 0 | 0| 
-| 20220219T23:36:35Z | Windows Antivirus Evasion and Memory Injection | https://github.com/iDigitalFlame/InYourMems | 12 | 8| 
 
 
 # backdoor on Github 推荐
