@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220220T13:52:31Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220220T13:20:34Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220220T09:58:53Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220220T07:31:24Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
@@ -55,7 +56,6 @@
 | 20220219T22:18:00Z | CVE-2020-0787 | Vulnerability: CVE-2020-0787 (Published: March 10, 2020) Supported versions: Vista/2008/W7/2008R2/W8/2012/W8.1/2012R2/W10/2016/2019 Supported architecture: x86/x64 Development stage: v1.0.20130 (stable) Code size: 36Kb | https://github.com/Exploitspacks/CVE-2020-0787 | | 
 | 20220219T21:43:51Z | CVE-2021-20028 | SonicWall Exploit CVE-2021-20028 | https://github.com/Exploitspacks/CVE-2021-20028 | | 
 | 20220219T21:02:42Z | CVE-2021-42949 | Null | https://github.com/dhammon/HotelDruid-CVE-2021-42949 | | 
-| 20220219T21:01:12Z | CVE-2021-42948 | Null | https://github.com/dhammon/HotelDruid-CVE-2021-42948 | | 
 
 
 # klee on Github 推荐
