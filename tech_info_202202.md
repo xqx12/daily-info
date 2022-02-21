@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220221T01:03:54Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220221T01:00:16Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
-| 20220221T00:22:11Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220220T16:31:01Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
 | 20220220T15:38:56Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220220T09:58:53Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T01:01:40Z | Kernel fuzzer inspired by Syzkaller. This is a just prototype and many important features cannot be published due to many non-technical limitations. | https://github.com/SunHao-0/healer | 179 | 25| 
+| 20220221T00:52:53Z | Null | https://github.com/Fabiebp/fuzzed.github.io | 0 | 0| 
+| 20220221T00:32:55Z | Port of https://github.com/farzher/fuzzysort for Dart | https://github.com/tomasweigenast/fuzzysearch | 0 | 0| 
+| 20220220T22:32:25Z | AI based fuzzer based on imitation learning | https://github.com/eth-sri/ilf | 71 | 18| 
+| 20220220T22:11:05Z | Null | https://github.com/forge-app/fuzzy-barnacle | 0 | 0| 
+| 20220220T22:09:02Z | Null | https://github.com/forge-app/fuzzy-succotash | 0 | 0| 
+| 20220220T22:04:59Z | Null | https://github.com/forge-app/fuzzy-telegram | 0 | 0| 
+| 20220220T20:42:08Z | Personal web development portfolio site | https://github.com/fuzzylogicltd/fuzzylogic.ltd-v1 | 0 | 0| 
 | 20220220T11:06:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7106 | 1504| 
 | 20220220T07:13:07Z | Furry Fiesta is a furry convention that is held in Dallas, Texas, USA. It occurs each February or March at the Hyatt Regency Dallas. | https://github.com/paytonbabbie983/fuzzy-fiesta | 0 | 0| 
-| 20220220T06:59:39Z | Null | https://github.com/Labster22/SqlFuzz | 0 | 0| 
-| 20220220T06:26:09Z | Null | https://github.com/anurag1developer/fuzzy-adventure | 0 | 0| 
-| 20220220T05:38:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 768 | 79| 
-| 20220220T05:27:36Z | Null | https://github.com/Shafiuzzaman-Hira/AFL-Fuzz | 0 | 0| 
-| 20220220T00:44:34Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 389 | 56| 
-| 20220220T00:07:45Z | Simple site for a friend a mine. All credits to HTML5UP.net | https://github.com/JasonCruz-Dev/fuzzy-enigma | 0 | 0| 
-| 20220219T23:35:48Z | logique floue  | https://github.com/Walid2000815/Logique-floue-fuzzy-logic- | 0 | 0| 
-| 20220219T22:09:45Z | Null | https://github.com/FuhgJan/intervalAndFuzzyPINN | 0 | 0| 
 
 
 
