@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T13:45:44Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 223 | 41| 
 | 20220221T13:34:10Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1157 | 88| 
 | 20220221T13:29:38Z | Null | https://github.com/shannonmae999/fuzzy-octo-meme | 0 | 0| 
 | 20220221T13:27:44Z | Null | https://github.com/tezedge/action_fuzzer_ci | 0 | 0| 
@@ -103,7 +104,6 @@
 | 20220221T10:42:07Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 166 | 24| 
 | 20220221T10:35:56Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 691 | 146| 
 | 20220221T10:27:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 768 | 79| 
-| 20220221T05:25:40Z | Null | https://github.com/Penetrati0n/fuzzy-sets-calculator | 0 | 0| 
 
 
 
