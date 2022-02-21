@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220220 | Delphi API monitoring with Frida, Part 2 | http://www.hexacorn.com/blog/2022/02/19/delphi-api-monitoring-with-frida-part-2/| 
+| 20220220 | 我是如何利用环境变量注入执行任意命令 | https://tttang.com/archive/1450/| 
 | 20220218 | 绕过安装包更新机制，提取 Lexmark MC3224i 打印机的固件 | http://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/| 
 | 20220218 | Rust 语言的 Buffer Overflow 漏洞代码实例 | https://gist.github.com/rexim/38c176fe4669ef83db69aca9909d7b7f| 
 | 20220218 | 利用 Unredacter 工具还原被马赛克打码的文字 | https://bishopfox.com/blog/unredacter-tool-never-pixelation| 
@@ -24,8 +26,6 @@
 | 20220217 | Fortinet 对伊朗 Moses Staff 攻击组织的分析 | https://www.fortinet.com/blog/threat-research/guard-your-drive-from-driveguard| 
 | 20220217 | 动态还原被 VMProtect 3.x 壳混淆的函数 | https://github.com/JonathanSalwan/VMProtect-devirtualization| 
 | 20220217 | JAVA 协议安全笔记-JNDI篇. | http://tttang.com/archive/1441/| 
-| 20220217 | APT组织Lorec53(洛瑞熊)近期针对乌克兰的大规模网络攻击活动. | http://blog.nsfocus.net/apt-lorec53-20220216/| 
-| 20220217 | Attack Surface Monitoring using Open-Source Intelligence. | https://infosecwriteups.com/attack-surface-monitoring-using-open-source-intelligence-90415e863e93?source=rss----7b722bfd1b8d---4&gi=a08394dee9fc| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220220T13:52:31Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
-| 20220220T13:20:34Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
+| 20220221T01:00:16Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
+| 20220221T00:22:11Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
+| 20220220T16:31:01Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
+| 20220220T15:38:56Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220220T09:58:53Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220220T07:31:24Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
 | 20220219T23:51:30Z | CVE-2020-1472 | Fancy Zerologon Beta | https://github.com/Exploitspacks/CVE-2020-1472 | | 
 | 20220219T23:20:58Z | CVE-2021-34527 | PrintNightmare+Manual | https://github.com/Exploitspacks/CVE-2021-34527-CVE-2021-1675 | | 
 | 20220219T22:30:47Z | CVE-2020-12812 | A full-fledged exploit for CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 and not only with a powershell parser. Any evidence | https://github.com/Exploitspacks/CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 | | 
 | 20220219T22:18:00Z | CVE-2020-0787 | Vulnerability: CVE-2020-0787 (Published: March 10, 2020) Supported versions: Vista/2008/W7/2008R2/W8/2012/W8.1/2012R2/W10/2016/2019 Supported architecture: x86/x64 Development stage: v1.0.20130 (stable) Code size: 36Kb | https://github.com/Exploitspacks/CVE-2020-0787 | | 
-| 20220219T21:43:51Z | CVE-2021-20028 | SonicWall Exploit CVE-2021-20028 | https://github.com/Exploitspacks/CVE-2021-20028 | | 
-| 20220219T21:02:42Z | CVE-2021-42949 | Null | https://github.com/dhammon/HotelDruid-CVE-2021-42949 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T13:17:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5214 | 189| 
-| 20220220T13:04:33Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 451 | 27| 
+| 20220221T00:55:45Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 459 | 27| 
+| 20220221T00:55:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5217 | 189| 
+| 20220220T16:21:49Z | Logiciel d%affichage dynamique | https://github.com/Allofame/kleenyaffichage | 0 | 0| 
 | 20220219T04:42:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 222 | 24| 
 | 20220216T15:29:08Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 1 | 0| 
 | 20220216T03:13:52Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 224 | 36| 
@@ -70,7 +71,6 @@
 | 20220214T21:35:11Z | Null | https://github.com/kleenexx/kleenexx | 0 | 0| 
 | 20220214T06:51:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1890 | 538| 
 | 20220214T05:59:26Z | Null | https://github.com/jbushago/ECE-595-KLEE-Assignment | 0 | 0| 
-| 20220213T02:57:18Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 17 | 1| 
 
 
 # s2e on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T00:43:06Z | Null | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | 0 | 0| 
+| 20220220T23:45:53Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2120 | 223| 
+| 20220220T22:31:07Z | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | 0 | 0| 
+| 20220220T20:57:19Z | Null | https://github.com/lexisrepo/Web-Exploitation | 0 | 0| 
+| 20220220T19:55:31Z | CVE-2022-25375 - Demo exploit of RNDIS USB Gadget | https://github.com/szymonh/rndis-co | 0 | 0| 
+| 20220220T19:13:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10791 | 1868| 
+| 20220220T19:01:41Z | Module for Roblox Exploiting with support for multiple games, has set of remotes to be used easily. | https://github.com/RobloxArchiver/WrapperLib | 0 | 0| 
 | 20220220T13:59:06Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 180 | 32| 
 | 20220220T13:43:14Z | python scripts | https://github.com/twseptian/python-exploit-scripts | 0 | 0| 
 | 20220220T13:31:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1916| 
-| 20220220T11:26:28Z | Null | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | 0 | 0| 
-| 20220220T05:58:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10789 | 1868| 
-| 20220220T02:41:11Z | Its our new exploits we made together using teamview thanks! youtube - https://www.youtube.com/channel/UCJ_EIpyHPlWlKJ-BRZ57Rrg | https://github.com/IUploadExploits/Enki-X-DailyXploits | 0 | 0| 
-| 20220220T01:56:47Z | Null | https://github.com/krypton612/ExploitGenMb | 0 | 0| 
-| 20220220T01:38:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2072 | 219| 
-| 20220220T00:50:20Z | Useful Windows and AD tools | https://github.com/r4wd3r/ADPWN | 13 | 9| 
-| 20220220T00:21:57Z | AuraX is a new Executor Created By Aura18x and Nexure. We are a Level 7 Executor for Roblox. we come with tons of preloaded scripts in its own menu and even host giveaways for beta access from time to time. Hope to see you using AuraX for your next trolling/exploiting session! | https://github.com/Aura18x/AuraX | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T13:31:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1916| 
+| 20220220T23:34:23Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1915| 
+| 20220220T18:26:49Z | a backdoor, that is powerful enough, to crash a computer 1 getting all of its .jar files + .exe files + gets discord tokens, google data, brave data, firefox data, minecraft data, tlauncher profiles/accounts, minecraft account !!!FOR EDUCATIONAL PURPOSES ONLY!!! | https://github.com/ferderplays/WindowsKiller | 0 | 0| 
+| 20220220T17:25:05Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 240 | 61| 
+| 20220220T16:22:19Z | A Golang implant that uses Discord as a C2 team server | https://github.com/kensh1ro/Willie-C2 | 3 | 3| 
+| 20220220T14:58:38Z | Null | https://github.com/plasmashen/BackdoorPTM | 0 | 0| 
 | 20220220T13:14:16Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 598 | 232| 
 | 20220220T12:05:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 415 | 76| 
 | 20220220T09:51:09Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features [WIP] | https://github.com/SaltyMilk/War | 0 | 0| 
 | 20220220T05:04:02Z | A basic reverse backdoor coded in Python. This is one of the projects I worked on while following a course on ethical hacking. | https://github.com/saverio87/python-reverse-backdoor | 0 | 0| 
 | 20220220T03:09:17Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 55 | 6| 
-| 20220220T01:37:58Z | Backdoor Shell Scanner and Web App Filter (SQLI, XSS, RCE, LFI) | https://github.com/gtx666ti/web-security | 0 | 0| 
-| 20220220T01:09:25Z | nuevo | https://github.com/garciarodrigue/backdoor.1 | 0 | 0| 
-| 20220219T22:03:46Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
-| 20220219T21:50:59Z | BACKDOOR CON TAN SOLO 2 LINEAS DE CODIGO (LINUX Y WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
