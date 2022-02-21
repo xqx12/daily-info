@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220221T01:30:01Z | Kernel fuzzer inspired by Syzkaller. Many important features cannot be published due to some non-technical limitations. | https://github.com/SunHao-0/healer | 179 | 25| 
+| 20220221T02:00:14Z | Kernel fuzzer inspired by Syzkaller. Note: many important features cannot be published due to some non-technical limitations. | https://github.com/SunHao-0/healer | 179 | 25| 
 | 20220221T01:05:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7110 | 1505| 
 | 20220221T00:52:53Z | Null | https://github.com/Fabiebp/fuzzed.github.io | 0 | 0| 
 | 20220221T00:32:55Z | Port of https://github.com/farzher/fuzzysort for Dart | https://github.com/tomasweigenast/fuzzysearch | 0 | 0| 
