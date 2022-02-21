@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220221T02:08:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2125 | 224| 
+| 20220221T02:30:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2127 | 224| 
 | 20220221T01:29:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4357 | 579| 
 | 20220221T00:43:06Z | Null | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | 0 | 0| 
 | 20220220T22:31:07Z | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | 0 | 0| 
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T02:30:38Z | Null | https://github.com/jenniferawells/fuzzy-rotary-phone | 0 | 0| 
 | 20220221T02:00:14Z | Kernel fuzzer inspired by Syzkaller. Note: many important features cannot be published due to some non-technical limitations. | https://github.com/SunHao-0/healer | 179 | 25| 
 | 20220221T01:05:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7110 | 1504| 
 | 20220221T00:52:53Z | Null | https://github.com/Fabiebp/fuzzed.github.io | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220220T22:09:02Z | Null | https://github.com/forge-app/fuzzy-succotash | 0 | 0| 
 | 20220220T22:04:59Z | Null | https://github.com/forge-app/fuzzy-telegram | 0 | 0| 
 | 20220220T20:42:08Z | Personal web development portfolio site | https://github.com/fuzzylogicltd/fuzzylogic.ltd-v1 | 0 | 0| 
-| 20220220T07:13:07Z | Furry Fiesta is a furry convention that is held in Dallas, Texas, USA. It occurs each February or March at the Hyatt Regency Dallas. | https://github.com/paytonbabbie983/fuzzy-fiesta | 0 | 0| 
 
 
 
