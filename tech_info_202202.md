@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T01:29:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4357 | 579| 
 | 20220221T01:02:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2121 | 224| 
 | 20220221T00:43:06Z | Null | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | 0 | 0| 
 | 20220220T22:31:07Z | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220220T19:01:41Z | Module for Roblox Exploiting with support for multiple games, has set of remotes to be used easily. | https://github.com/RobloxArchiver/WrapperLib | 0 | 0| 
 | 20220220T15:10:38Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 53 | 12| 
 | 20220220T13:59:06Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 180 | 32| 
-| 20220220T13:43:14Z | python scripts | https://github.com/twseptian/python-exploit-scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -145,8 +145,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T01:30:01Z | Kernel fuzzer inspired by Syzkaller. Many important features cannot be published due to some non-technical limitations. | https://github.com/SunHao-0/healer | 179 | 25| 
 | 20220221T01:05:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7110 | 1505| 
-| 20220221T01:01:40Z | Kernel fuzzer inspired by Syzkaller. This is a just prototype and many important features cannot be published due to many non-technical limitations. | https://github.com/SunHao-0/healer | 179 | 25| 
 | 20220221T00:52:53Z | Null | https://github.com/Fabiebp/fuzzed.github.io | 0 | 0| 
 | 20220221T00:32:55Z | Port of https://github.com/farzher/fuzzysort for Dart | https://github.com/tomasweigenast/fuzzysearch | 0 | 0| 
 | 20220220T22:32:25Z | AI based fuzzer based on imitation learning | https://github.com/eth-sri/ilf | 71 | 18| 
