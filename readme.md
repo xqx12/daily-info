@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T13:34:10Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1157 | 88| 
 | 20220221T13:29:38Z | Null | https://github.com/shannonmae999/fuzzy-octo-meme | 0 | 0| 
 | 20220221T13:27:44Z | Null | https://github.com/tezedge/action_fuzzer_ci | 0 | 0| 
 | 20220221T12:06:31Z | Like golf? How about enjoying a Fuzzy%s vodka cocktail on the course in sunny Florida this fall? Join 2 time major champion and our chairman of the board Frank Urban %Fuzzy% Zoeller at his exclusive golf course in Naples, FL for a round of golf. You will travel down memory lane with Fuzzy to hear some of golf%s greatest untold stories.  The grand prize winner will win a round of golf for three at Naples National Country Club . In addition to the round of golf, we%ll even have the Chairman throw in a $1,000 gift card (almost the amount of money Fuzzy earned for his first tournament win).  The contest will run through July 2nd, 2021. The winner will be randomly selected from our forecaddie program and announced on social media. There%s no purchase necessary just join our forecaddie program below for a chance to win.  Multiple entries will not increase your chance of winning therefore if you%re already a member, kick back and enjoy a Fuzzy%s cocktail and hopefully you%ll receive some good news on July 2nd.  Can%t find Fuzzy%s vodka at a store near you? Have it delivered at shopfuzzyvodka.com.  Must be 21 or older to enter. For a complete list of rules please visit https://fuzzyvodka.com/contesttermsandconditions/ | https://github.com/SergioAdkins/fuzzy-winner | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20220221T10:35:56Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 691 | 146| 
 | 20220221T10:27:17Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 768 | 79| 
 | 20220221T05:25:40Z | Null | https://github.com/Penetrati0n/fuzzy-sets-calculator | 0 | 0| 
-| 20220221T02:30:38Z | Null | https://github.com/jenniferawells/fuzzy-rotary-phone | 0 | 0| 
 
 
 
