@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T13:53:52Z | An easy to use Python package to exploit ICSA-17-124-01 / CVE-2017-7921 in HikVision camera%s.  | https://github.com/NFIRBV/krijg-de-hik | 0 | 0| 
 | 20220221T13:40:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 917 | 151| 
 | 20220221T13:38:53Z | Null | https://github.com/stangezond/exploit | 0 | 0| 
 | 20220221T13:02:17Z | This is the repository used for CVE-2017-7651 for exploiting mosquitto 1.4.14 | https://github.com/St3v3nsS/CVE-2017-7651 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220221T06:14:56Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 14 | 3| 
 | 20220221T05:28:54Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 670 | 150| 
 | 20220221T02:23:35Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 122 | 21| 
-| 20220221T01:29:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4357 | 579| 
 
 
 # backdoor on Github 推荐
