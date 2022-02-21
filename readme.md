@@ -41,11 +41,11 @@
 | 20220220T19:55:31Z | CVE-2022-25375 - Demo exploit of RNDIS USB Gadget | https://github.com/szymonh/rndis-co | 0 | 0| 
 | 20220220T19:13:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10791 | 1868| 
 | 20220220T19:01:41Z | Module for Roblox Exploiting with support for multiple games, has set of remotes to be used easily. | https://github.com/RobloxArchiver/WrapperLib | 0 | 0| 
+| 20220220T15:10:38Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 53 | 12| 
 | 20220220T13:59:06Z | Proof of concept for abusing Telegram%s %People Near Me% feature and tracking people%s location | https://github.com/jkctech/Telegram-Trilateration | 180 | 32| 
 | 20220220T13:43:14Z | python scripts | https://github.com/twseptian/python-exploit-scripts | 0 | 0| 
 | 20220220T13:31:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1916| 
 | 20220220T11:26:28Z | Null | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | 0 | 0| 
-| 20220220T05:50:50Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 1 | 0| 
 
 
 # backdoor on Github 推荐
