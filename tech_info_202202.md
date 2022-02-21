@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220221T01:51:28Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
+| 20220221T02:01:41Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
 | 20220221T01:45:13Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220221T01:20:42Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220221T01:00:16Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T23:34:23Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1915| 
+| 20220221T02:03:33Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6133 | 1915| 
 | 20220220T18:26:49Z | a backdoor, that is powerful enough, to crash a computer 1 getting all of its .jar files + .exe files + gets discord tokens, google data, brave data, firefox data, minecraft data, tlauncher profiles/accounts, minecraft account !!!FOR EDUCATIONAL PURPOSES ONLY!!! | https://github.com/ferderplays/WindowsKiller | 0 | 0| 
 | 20220220T17:25:05Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 240 | 61| 
 | 20220220T16:22:19Z | A Golang implant that uses Discord as a C2 team server | https://github.com/kensh1ro/Willie-C2 | 3 | 3| 

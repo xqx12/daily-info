@@ -51,7 +51,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T23:34:23Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1915| 
 | 20220220T18:26:49Z | a backdoor, that is powerful enough, to crash a computer 1 getting all of its .jar files + .exe files + gets discord tokens, google data, brave data, firefox data, minecraft data, tlauncher profiles/accounts, minecraft account !!!FOR EDUCATIONAL PURPOSES ONLY!!! | https://github.com/ferderplays/WindowsKiller | 0 | 0| 
 | 20220220T17:25:05Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 240 | 61| 
 | 20220220T16:22:19Z | A Golang implant that uses Discord as a C2 team server | https://github.com/kensh1ro/Willie-C2 | 3 | 3| 
@@ -61,6 +60,7 @@
 | 20220220T09:51:09Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features [WIP] | https://github.com/SaltyMilk/War | 0 | 0| 
 | 20220220T05:04:02Z | A basic reverse backdoor coded in Python. This is one of the projects I worked on while following a course on ethical hacking. | https://github.com/saverio87/python-reverse-backdoor | 0 | 0| 
 | 20220220T03:09:17Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 55 | 6| 
+| 20220220T01:37:58Z | Backdoor Shell Scanner and Web App Filter (SQLI, XSS, RCE, LFI) | https://github.com/gtx666ti/web-security | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
