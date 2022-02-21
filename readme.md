@@ -38,7 +38,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T23:45:53Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2120 | 223| 
 | 20220220T22:31:07Z | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | 0 | 0| 
 | 20220220T20:57:19Z | Null | https://github.com/lexisrepo/Web-Exploitation | 0 | 0| 
 | 20220220T19:55:31Z | CVE-2022-25375 - Demo exploit of RNDIS USB Gadget | https://github.com/szymonh/rndis-co | 0 | 0| 
@@ -48,6 +47,7 @@
 | 20220220T13:43:14Z | python scripts | https://github.com/twseptian/python-exploit-scripts | 0 | 0| 
 | 20220220T13:31:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6132 | 1916| 
 | 20220220T11:26:28Z | Null | https://github.com/Ruia-ruia/NFC-UAF-exploit-2021 | 0 | 0| 
+| 20220220T05:50:50Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -68,8 +68,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T12:42:45Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 351 | 58| 
-| 20220220T11:06:53Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1145 | 48| 
+| 20220220T22:03:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2718 | 396| 
+| 20220220T20:24:26Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1147 | 48| 
 
 
 # big4 on Github 推荐

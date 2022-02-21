@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T01:02:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2121 | 224| 
 | 20220221T00:43:06Z | Null | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | 0 | 0| 
-| 20220220T23:45:53Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2120 | 223| 
 | 20220220T22:31:07Z | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | 0 | 0| 
 | 20220220T20:57:19Z | Null | https://github.com/lexisrepo/Web-Exploitation | 0 | 0| 
 | 20220220T19:55:31Z | CVE-2022-25375 - Demo exploit of RNDIS USB Gadget | https://github.com/szymonh/rndis-co | 0 | 0| 
@@ -121,10 +121,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220220T12:42:45Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 351 | 58| 
-| 20220220T11:06:53Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1145 | 48| 
+| 20220221T00:26:36Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 363 | 58| 
+| 20220220T22:03:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2718 | 396| 
+| 20220220T20:24:26Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1147 | 48| 
 | 20220219T15:36:51Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 619 | 128| 
-| 20220219T14:49:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2717 | 396| 
 | 20220219T09:55:10Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 671 | 70| 
 | 20220216T17:21:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220216T13:43:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 200 | 46| 
