@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220221T02:51:48Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
+| 20220221T02:50:13Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
 | 20220221T02:45:33Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
 | 20220221T02:43:47Z | cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | | 
 | 20220221T02:27:48Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
-| 20220221T02:14:35Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
-| 20220221T02:03:38Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220220T09:58:53Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220220T07:31:24Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
 | 20220219T23:51:30Z | CVE-2020-1472 | Fancy Zerologon Beta | https://github.com/Exploitspacks/CVE-2020-1472 | | 
