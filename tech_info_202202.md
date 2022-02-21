@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220221T02:43:47Z | cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | | 
 | 20220221T02:27:48Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220221T02:14:35Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
 | 20220221T02:03:38Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
@@ -55,7 +56,6 @@
 | 20220219T23:51:30Z | CVE-2020-1472 | Fancy Zerologon Beta | https://github.com/Exploitspacks/CVE-2020-1472 | | 
 | 20220219T23:20:58Z | CVE-2021-34527 | PrintNightmare+Manual | https://github.com/Exploitspacks/CVE-2021-34527-CVE-2021-1675 | | 
 | 20220219T22:30:47Z | CVE-2020-12812 | A full-fledged exploit for CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 and not only with a powershell parser. Any evidence | https://github.com/Exploitspacks/CVE-2018-13379-CVE-2020-12812-CVE-2019-5591 | | 
-| 20220219T22:18:00Z | CVE-2020-0787 | Vulnerability: CVE-2020-0787 (Published: March 10, 2020) Supported versions: Vista/2008/W7/2008R2/W8/2012/W8.1/2012R2/W10/2016/2019 Supported architecture: x86/x64 Development stage: v1.0.20130 (stable) Code size: 36Kb | https://github.com/Exploitspacks/CVE-2020-0787 | | 
 
 
 # klee on Github 推荐
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220221T02:42:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2134 | 226| 
+| 20220221T02:42:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2134 | 227| 
 | 20220221T01:29:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4357 | 579| 
 | 20220221T00:43:06Z | Null | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | 0 | 0| 
 | 20220220T22:31:07Z | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | 0 | 0| 
@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220221T01:05:22Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 364 | 58| 
+| 20220221T02:41:55Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 365 | 58| 
 | 20220220T22:03:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2718 | 396| 
 | 20220220T20:24:26Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1147 | 48| 
 | 20220219T15:36:51Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 619 | 128| 
