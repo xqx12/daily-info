@@ -28,13 +28,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220221T13:02:01Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
 | 20220221T12:55:25Z | CVE-2022-24112 | CVE-2022-24112 check | https://github.com/shakeman8/CVE-2022-24112 | | 
 | 20220221T12:36:06Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220221T11:58:09Z | CVE-2021-22204 | exiftool exploit | https://github.com/tuhin81/CVE-2021-22204-exiftool | | 
 | 20220221T10:36:29Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220221T09:29:45Z | cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | | 
 | 20220221T09:00:38Z | CVE-2021-45008 | Null | https://github.com/AS4mir/CVE-2021-45008 | | 
-| 20220221T08:09:56Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
 | 20220221T03:42:06Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
 | 20220221T02:27:48Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 
@@ -54,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220221T12:54:41Z | This is the repository used for CVE-2017-7651 for exploiting mosquitto 1.4.14 | https://github.com/St3v3nsS/CVE-2017-7651 | 0 | 0| 
+| 20220221T13:02:17Z | This is the repository used for CVE-2017-7651 for exploiting mosquitto 1.4.14 | https://github.com/St3v3nsS/CVE-2017-7651 | 0 | 0| 
 | 20220221T12:54:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2183 | 241| 
 | 20220221T11:58:09Z | exiftool exploit | https://github.com/tuhin81/CVE-2021-22204-exiftool | 0 | 0| 
 | 20220221T09:19:13Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 916 | 151| 
@@ -86,6 +86,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T11:10:08Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 4 | 1| 
 
 
 # fuzz on Github 推荐
