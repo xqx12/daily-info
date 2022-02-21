@@ -18,7 +18,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220220T16:31:01Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
 | 20220220T15:38:56Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220220T09:58:53Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220220T07:31:24Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
