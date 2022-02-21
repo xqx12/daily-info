@@ -54,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220221T13:40:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 917 | 151| 
+| 20220221T13:38:53Z | Null | https://github.com/stangezond/exploit | 0 | 0| 
 | 20220221T13:02:17Z | This is the repository used for CVE-2017-7651 for exploiting mosquitto 1.4.14 | https://github.com/St3v3nsS/CVE-2017-7651 | 0 | 0| 
 | 20220221T12:54:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2183 | 241| 
 | 20220221T11:58:09Z | exiftool exploit | https://github.com/tuhin81/CVE-2021-22204-exiftool | 0 | 0| 
-| 20220221T09:19:13Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 916 | 151| 
 | 20220221T09:16:19Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4030 | 1416| 
 | 20220221T06:14:56Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 14 | 3| 
 | 20220221T05:28:54Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 670 | 150| 
 | 20220221T02:23:35Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 122 | 21| 
 | 20220221T01:29:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4357 | 579| 
-| 20220221T00:43:06Z | Null | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | 0 | 0| 
 
 
 # backdoor on Github 推荐
