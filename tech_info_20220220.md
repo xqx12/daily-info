@@ -85,11 +85,11 @@
 | 20220220T22:09:02Z | Null | https://github.com/forge-app/fuzzy-succotash | 0 | 0| 
 | 20220220T22:04:59Z | Null | https://github.com/forge-app/fuzzy-telegram | 0 | 0| 
 | 20220220T20:42:08Z | Personal web development portfolio site | https://github.com/fuzzylogicltd/fuzzylogic.ltd-v1 | 0 | 0| 
-| 20220220T11:06:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7106 | 1504| 
 | 20220220T07:13:07Z | Furry Fiesta is a furry convention that is held in Dallas, Texas, USA. It occurs each February or March at the Hyatt Regency Dallas. | https://github.com/paytonbabbie983/fuzzy-fiesta | 0 | 0| 
 | 20220220T06:59:39Z | Null | https://github.com/Labster22/SqlFuzz | 0 | 0| 
 | 20220220T06:26:09Z | Null | https://github.com/anurag1developer/fuzzy-adventure | 0 | 0| 
 | 20220220T05:38:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 768 | 79| 
+| 20220220T05:27:36Z | Null | https://github.com/Shafiuzzaman-Hira/AFL-Fuzz | 0 | 0| 
 
 
 
