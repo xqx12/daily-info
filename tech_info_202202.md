@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220221T02:26:36Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
+| 20220221T02:27:48Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 | 20220221T02:14:35Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
 | 20220221T02:03:38Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220221T01:00:16Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
