@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220221T02:52:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2138 | 228| 
+| 20220221T02:57:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2139 | 228| 
 | 20220221T01:29:59Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4357 | 579| 
 | 20220221T00:43:06Z | Null | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | 0 | 0| 
 | 20220220T22:31:07Z | Useful functions to generate static payloads for binary exploitation challenges. | https://github.com/thamugadi/hs-pwn | 0 | 0| 
