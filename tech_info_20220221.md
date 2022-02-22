@@ -33,7 +33,6 @@
 | 20220221T20:31:17Z | CVE-2021-27965 | A repository housing the exploit code for CVE-2021-27965, a stack-buffer overflow vulnerability in MsIo.sys. | https://github.com/Leo-Security/CVE-2021-27965-Win10-20H2-x64 | | 
 | 20220221T16:57:30Z | CVE-2021-4034 | Null | https://github.com/Tanmay-N/CVE-2021-4034 | | 
 | 20220221T16:30:15Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
-| 20220221T16:09:20Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
 | 20220221T11:58:09Z | CVE-2021-22204 | exiftool exploit | https://github.com/tuhin81/CVE-2021-22204-exiftool | | 
 | 20220221T09:29:45Z | cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | | 
 | 20220221T09:00:38Z | CVE-2021-45008 | Null | https://github.com/AS4mir/CVE-2021-45008 | | 
