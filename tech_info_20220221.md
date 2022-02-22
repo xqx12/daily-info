@@ -36,10 +36,10 @@
 | 20220221T16:09:20Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
 | 20220221T12:55:25Z | CVE-2022-24112 | CVE-2022-24112 check | https://github.com/shakeman8/CVE-2022-24112 | | 
 | 20220221T11:58:09Z | CVE-2021-22204 | exiftool exploit | https://github.com/tuhin81/CVE-2021-22204-exiftool | | 
-| 20220221T10:36:29Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220221T09:29:45Z | cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | | 
 | 20220221T09:00:38Z | CVE-2021-45008 | Null | https://github.com/AS4mir/CVE-2021-45008 | | 
 | 20220221T03:42:06Z | CVE-2021-40449 | Null | https://github.com/BL0odz/CVE-2021-40449-NtGdiResetDC-UAF | | 
+| 20220221T02:27:48Z | CVE-2021-1965 | CVE-2021-1965 WiFi Zero Click RCE Trigger PoC | https://github.com/parsdefense/CVE-2021-1965 | | 
 
 
 # klee on Github 推荐
