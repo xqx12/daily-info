@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220222T13:21:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2215 | 249| 
+| 20220222T13:28:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2216 | 249| 
 | 20220222T13:16:43Z | simple interface to communicate between a exploit and node.js application | https://github.com/PrintedScript/nodebloxremake | 0 | 0| 
 | 20220222T13:13:16Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6681 | 1543| 
 | 20220222T12:37:38Z | test exploit of the TOR daemon (for research only.) | https://github.com/Smellyslab/toramp | 0 | 0| 
