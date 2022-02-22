@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220222T13:28:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2216 | 249| 
+| 20220222T13:38:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2217 | 249| 
 | 20220222T13:16:43Z | simple interface to communicate between a exploit and node.js application | https://github.com/PrintedScript/nodebloxremake | 0 | 0| 
 | 20220222T13:13:16Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6681 | 1543| 
 | 20220222T12:37:38Z | test exploit of the TOR daemon (for research only.) | https://github.com/Smellyslab/toramp | 0 | 0| 
@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220222T13:24:06Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6141 | 1915| 
+| 20220222T13:24:06Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6141 | 1914| 
 | 20220222T12:35:22Z | Backdoor for Linux x64. | https://github.com/enty8080/Metaphor | 0 | 0| 
 | 20220222T11:02:32Z | Python based hacking tool designed for linux | https://github.com/FlynAber/Exiled | 1 | 0| 
 | 20220222T10:39:49Z | Obfuscated. Don%t mind it. | https://github.com/Dumb-Utility/Backdoor-Project | 0 | 0| 
