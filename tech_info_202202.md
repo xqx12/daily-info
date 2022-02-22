@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220222T02:45:40Z | Null | https://github.com/Lucky2102/fuzzy-doodle | 0 | 0| 
+| 20220222T02:51:44Z | Null | https://github.com/Lucky2102/fuzzy-doodle | 1 | 0| 
 | 20220222T01:52:59Z | Null | https://github.com/Sendthenoodles/fuzzy-enigma | 0 | 0| 
 | 20220222T01:15:52Z | Primeiro | https://github.com/Fabiohbernardi/tal-fuzzy-octo-giggle | 0 | 0| 
 | 20220222T00:45:40Z | Null | https://github.com/AlexOrlet89/fuzzy-bunny-organizer | 0 | 0| 
