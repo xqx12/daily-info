@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220222T01:39:52Z | cve-2022-23131 | cve-2022-23131 | https://github.com/L0ading-x/cve-2022-23131 | | 
 | 20220222T01:37:16Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220221T20:31:17Z | CVE-2021-27965 | A repository housing the exploit code for CVE-2021-27965, a stack-buffer overflow vulnerability in MsIo.sys. | https://github.com/Leo-Security/CVE-2021-27965-Win10-20H2-x64 | | 
 | 20220221T16:57:30Z | CVE-2021-4034 | Null | https://github.com/Tanmay-N/CVE-2021-4034 | | 
@@ -55,7 +56,6 @@
 | 20220221T11:58:09Z | CVE-2021-22204 | exiftool exploit | https://github.com/tuhin81/CVE-2021-22204-exiftool | | 
 | 20220221T10:36:29Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220221T09:29:45Z | cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | | 
-| 20220221T09:00:38Z | CVE-2021-45008 | Null | https://github.com/AS4mir/CVE-2021-45008 | | 
 
 
 # klee on Github 推荐
