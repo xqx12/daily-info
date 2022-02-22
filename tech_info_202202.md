@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220222T12:53:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6680 | 1543| 
+| 20220222T13:13:16Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6681 | 1543| 
 | 20220222T12:52:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2214 | 249| 
 | 20220222T12:37:38Z | test exploit of the TOR daemon (for research only.) | https://github.com/Smellyslab/toramp | 0 | 0| 
 | 20220222T12:37:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 945 | 157| 
