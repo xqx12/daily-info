@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220222T01:31:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2197 | 243| 
 | 20220222T00:48:01Z | RYS is a Minecraft Bedrock Realms anticheat, made to stop hackers, exploits, and other things you wouldn%t like in your server. | https://github.com/rysthicmc/RYS-Public | 0 | 0| 
-| 20220222T00:31:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2196 | 243| 
 | 20220221T22:00:45Z | CremiWorld Lite exploit | https://github.com/cremigame/cremigame.github.io | 0 | 0| 
 | 20220221T20:45:54Z | Null | https://github.com/vicojump/Exploit4 | 0 | 0| 
 | 20220221T20:42:21Z | Null | https://github.com/vicojump/Exploit3 | 0 | 0| 
