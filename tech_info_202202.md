@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220222T02:32:43Z | cve-2022-23131 | cve-2022-23131 | https://github.com/L0ading-x/cve-2022-23131 | | 
 | 20220222T01:52:47Z | CVE-2022-24112 | CVE-2022-24112 check | https://github.com/shakeman8/CVE-2022-24112 | | 
-| 20220222T01:47:29Z | cve-2022-23131 | cve-2022-23131 | https://github.com/L0ading-x/cve-2022-23131 | | 
 | 20220222T01:41:12Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220222T01:37:16Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220221T20:31:17Z | CVE-2021-27965 | A repository housing the exploit code for CVE-2021-27965, a stack-buffer overflow vulnerability in MsIo.sys. | https://github.com/Leo-Security/CVE-2021-27965-Win10-20H2-x64 | | 
