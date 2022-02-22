@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220222T01:52:47Z | CVE-2022-24112 | CVE-2022-24112 check | https://github.com/shakeman8/CVE-2022-24112 | | 
 | 20220222T01:47:29Z | cve-2022-23131 | cve-2022-23131 | https://github.com/L0ading-x/cve-2022-23131 | | 
 | 20220222T01:41:12Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220222T01:37:16Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
@@ -53,7 +54,6 @@
 | 20220221T16:57:30Z | CVE-2021-4034 | Null | https://github.com/Tanmay-N/CVE-2021-4034 | | 
 | 20220221T16:30:15Z | CVE-2021-1965 | Null | https://github.com/foxtrot/CVE-2021-1965 | | 
 | 20220221T16:09:20Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
-| 20220221T12:55:25Z | CVE-2022-24112 | CVE-2022-24112 check | https://github.com/shakeman8/CVE-2022-24112 | | 
 | 20220221T11:58:09Z | CVE-2021-22204 | exiftool exploit | https://github.com/tuhin81/CVE-2021-22204-exiftool | | 
 | 20220221T09:29:45Z | cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | | 
 
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220222T01:52:59Z | Null | https://github.com/Sendthenoodles/fuzzy-enigma | 0 | 0| 
 | 20220222T01:15:52Z | Primeiro | https://github.com/Fabiohbernardi/tal-fuzzy-octo-giggle | 0 | 0| 
 | 20220222T00:45:40Z | Null | https://github.com/AlexOrlet89/fuzzy-bunny-organizer | 0 | 0| 
 | 20220222T00:43:27Z | Null | https://github.com/BrendenSeifried/fuzzybunny | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220222T00:08:40Z | Null | https://github.com/Velavee/compare_strings_with_fuzz | 0 | 0| 
 | 20220221T23:23:39Z | Null | https://github.com/meiyihTan/Fuzzy-Logic-System | 0 | 0| 
 | 20220221T23:21:55Z | Null | https://github.com/YugiohN123/fuzzy-rotary-phone | 0 | 0| 
-| 20220221T21:50:59Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 267 | 39| 
 
 
 
