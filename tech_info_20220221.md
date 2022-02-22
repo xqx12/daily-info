@@ -101,6 +101,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220221T23:23:39Z | Null | https://github.com/meiyihTan/Fuzzy-Logic-System | 0 | 0| 
 | 20220221T23:21:55Z | Null | https://github.com/YugiohN123/fuzzy-rotary-phone | 0 | 0| 
+| 20220221T21:50:59Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 267 | 39| 
 | 20220221T20:35:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7113 | 1504| 
 | 20220221T20:22:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 770 | 80| 
 | 20220221T13:58:00Z | Null | https://github.com/tezedge/action_fuzzer_ci | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20220221T13:49:43Z | Null | https://github.com/milaabl/fuzzy-octo-guide | 0 | 0| 
 | 20220221T13:45:44Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 223 | 41| 
 | 20220221T13:34:10Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1157 | 88| 
-| 20220221T13:29:38Z | Null | https://github.com/shannonmae999/fuzzy-octo-meme | 0 | 0| 
 
 
 

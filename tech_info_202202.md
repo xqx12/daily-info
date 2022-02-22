@@ -154,7 +154,7 @@
 | 20220222T00:08:40Z | Null | https://github.com/Velavee/compare_strings_with_fuzz | 0 | 0| 
 | 20220221T23:23:39Z | Null | https://github.com/meiyihTan/Fuzzy-Logic-System | 0 | 0| 
 | 20220221T23:21:55Z | Null | https://github.com/YugiohN123/fuzzy-rotary-phone | 0 | 0| 
-| 20220221T20:35:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7113 | 1504| 
+| 20220221T21:50:59Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 267 | 39| 
 
 
 
