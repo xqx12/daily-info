@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T02:49:37Z | Null | https://github.com/RapidoBuzz/RhyteredExploit | 0 | 0| 
 | 20220223T01:35:53Z | Config files for my GitHub profile. | https://github.com/etheriums/exploits | 1 | 0| 
 | 20220223T01:30:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2240 | 249| 
 | 20220223T01:13:23Z | Write up and solution scripts for the Modern Binary Exploitation Reversing challenges. | https://github.com/eremus-dev/MBE_RE_solutions | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220222T21:29:49Z | Some of my Binary Exploitation Write-Ups | https://github.com/Milo-D/write-ups | 1 | 0| 
 | 20220222T21:17:12Z |  Exploit que executa o CFW e o Tiramisu bootloader automaticamente a cada reinício. | https://github.com/Nintendo-Homebrew/Tiramisu | 0 | 0| 
 | 20220222T20:31:28Z | Null | https://github.com/explabs/ad-ctf-paas-exploits | 0 | 0| 
-| 20220222T20:22:12Z | C Projects/Lessons from %Hacking: The Art of Exploitation% | https://github.com/trstout/C | 0 | 0| 
 
 
 # backdoor on Github 推荐
