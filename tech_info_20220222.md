@@ -55,7 +55,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220222T23:22:52Z | My collection of Microsoft security information, exploits, and tools for information use only | https://github.com/kolbyomalley/Microsoft_hacking | 0 | 0| 
-| 20220222T23:17:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2239 | 249| 
 | 20220222T23:05:51Z | a python port of the wearedevs exploit api | https://github.com/DeepPainDev/python-wrdapi | 1 | 0| 
 | 20220222T22:44:03Z | Tips and methodologies to pentest the most common web services | https://github.com/lexisrepo/Web-Exploitation | 0 | 0| 
 | 20220222T21:29:49Z | Some of my Binary Exploitation Write-Ups | https://github.com/Milo-D/write-ups | 1 | 0| 
@@ -64,6 +63,7 @@
 | 20220222T20:22:12Z | C Projects/Lessons from %Hacking: The Art of Exploitation% | https://github.com/trstout/C | 0 | 0| 
 | 20220222T17:52:04Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 32 | 2| 
 | 20220222T16:48:22Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 80 | 14| 
+| 20220222T16:39:33Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 15 | 3| 
 
 
 # backdoor on Github 推荐

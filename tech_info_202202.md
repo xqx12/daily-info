@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220223T01:29:33Z | CVE-2022-24112 | CVE-2022-24112：Apache APISIX apisix/batch-requests RCE | https://github.com/Mr-xn/CVE-2022-24112 | | 
 | 20220223T01:25:02Z | CVE-2022-24112 | Apache APISIX apisix/batch-requests RCE | https://github.com/Udyz/CVE-2022-24112 | | 
-| 20220223T00:51:21Z | CVE-2022-24112 | CVE-2022-24112：Apache APISIX apisix/batch-requests RCE | https://github.com/Mr-xn/CVE-2022-24112 | | 
 | 20220222T15:29:46Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220222T10:40:16Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
 | 20220222T09:50:09Z | CVE-2022-21660 | Null | https://github.com/UzJu/CVE-2022-21660 | | 
@@ -91,10 +91,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T01:30:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2240 | 249| 
 | 20220223T01:22:10Z | Config files for my GitHub profile. | https://github.com/etheriums/exploits | 0 | 0| 
 | 20220223T01:13:23Z | Write up and solution scripts for the Modern Binary Exploitation Reversing challenges. | https://github.com/eremus-dev/MBE_RE_solutions | 0 | 0| 
 | 20220222T23:22:52Z | My collection of Microsoft security information, exploits, and tools for information use only | https://github.com/kolbyomalley/Microsoft_hacking | 0 | 0| 
-| 20220222T23:17:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2239 | 249| 
 | 20220222T23:05:51Z | a python port of the wearedevs exploit api | https://github.com/DeepPainDev/python-wrdapi | 1 | 0| 
 | 20220222T22:44:03Z | Tips and methodologies to pentest the most common web services | https://github.com/lexisrepo/Web-Exploitation | 0 | 0| 
 | 20220222T21:29:49Z | Some of my Binary Exploitation Write-Ups | https://github.com/Milo-D/write-ups | 1 | 0| 
