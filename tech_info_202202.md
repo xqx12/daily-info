@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220223T01:15:26Z | Null | https://github.com/ahmadfaqih73/fuzzysevqual | 0 | 0| 
+| 20220223T01:55:46Z | Null | https://github.com/ahmadfaqih73/fuzzysevqual | 0 | 0| 
 | 20220223T00:21:52Z | Null | https://github.com/Sydnie-McDonald/fuzzy | 0 | 0| 
 | 20220222T23:46:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7123 | 1505| 
 | 20220222T23:30:35Z | Null | https://github.com/akshayelangovan/fuzzy_template_akshay | 0 | 0| 
