@@ -95,7 +95,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220222T23:46:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7123 | 1505| 
 | 20220222T23:30:35Z | Null | https://github.com/akshayelangovan/fuzzy_template_akshay | 0 | 0| 
 | 20220222T22:39:07Z | A fork of Netflix dial-reference to demonstrate Travis CI integration for fuzz testing with Mayhem by ForAllSecure, Inc. | https://github.com/ForAllSecure/Mayhem-with-TravisCI-netflix-dial-example | 0 | 1| 
 | 20220222T21:59:22Z | Palm tree | https://github.com/Ethanhimes999/fuzzy-octo-palm-tree | 0 | 0| 
@@ -105,6 +104,7 @@
 | 20220222T13:42:58Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 11 | 0| 
 | 20220222T13:33:10Z | Fuzz Rust code with LibAFL | https://github.com/AFLplusplus/cargo-libafl | 1 | 0| 
 | 20220222T12:45:52Z |  Command line fuzzer and bruteforcer 🌪 wfuzz for command | https://github.com/ariary/cfuzz | 25 | 1| 
+| 20220222T12:18:59Z | Null | https://github.com/Mo-Mans0ur/fuzzy-octo-guacamole | 0 | 0| 
 
 
 
