@@ -42,7 +42,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220222T23:23:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5243 | 190| 
-| 20220222T15:43:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 482 | 30| 
 | 20220222T12:41:32Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 
 
