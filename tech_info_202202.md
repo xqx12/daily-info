@@ -91,12 +91,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T13:44:19Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 963 | 158| 
+| 20220223T13:43:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10806 | 1868| 
 | 20220223T13:40:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2252 | 254| 
 | 20220223T13:02:22Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 33 | 2| 
 | 20220223T13:01:25Z | auto find the offset for exploiting _rtld_global structure to hijack exit() | https://github.com/0599jiangyc/exit_hijack | 0 | 0| 
-| 20220223T12:45:57Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 962 | 158| 
 | 20220223T12:45:12Z | [CVPR 2021] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis (official pytorch implementation) | https://github.com/chaoyivision/SGGpoint | 33 | 7| 
-| 20220223T12:06:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10805 | 1868| 
 | 20220223T10:05:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 326 | 99| 
 | 20220223T10:04:55Z | Null | https://github.com/tranmanhdat/exploit | 0 | 0| 
 | 20220223T07:03:10Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 672 | 150| 
