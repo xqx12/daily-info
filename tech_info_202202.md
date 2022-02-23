@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220223T13:00:15Z | auto find the offset for exploiting _rtld_global structure to hijack exit() | https://github.com/0599jiangyc/exit_hijack | 0 | 0| 
+| 20220223T13:02:22Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 33 | 2| 
+| 20220223T13:01:25Z | auto find the offset for exploiting _rtld_global structure to hijack exit() | https://github.com/0599jiangyc/exit_hijack | 0 | 0| 
 | 20220223T12:45:57Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 962 | 158| 
 | 20220223T12:45:12Z | [CVPR 2021] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis (official pytorch implementation) | https://github.com/chaoyivision/SGGpoint | 33 | 7| 
 | 20220223T12:06:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10805 | 1868| 
@@ -100,7 +101,6 @@
 | 20220223T10:04:55Z | Null | https://github.com/tranmanhdat/exploit | 0 | 0| 
 | 20220223T07:03:10Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 672 | 150| 
 | 20220223T04:50:49Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 81 | 14| 
-| 20220223T02:53:28Z | PS-Phwoar! Lite Version Exploit Host Menu for 5.05 FW with GoldHEN v2.1.2 Coded by SiSTRo | https://github.com/psxploitz/PSXploitz.github.io | 0 | 1| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T13:00:47Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 672 | 70| 
+| 20220223T13:00:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2724 | 397| 
+| 20220223T13:00:04Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 400 | 62| 
+| 20220223T12:47:07Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 11 | 0| 
 | 20220223T02:18:57Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 33 | 3| 
-| 20220223T00:13:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2722 | 397| 
-| 20220222T22:38:10Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 396 | 62| 
 | 20220222T14:13:15Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 198 | 13| 
 | 20220222T06:27:36Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 620 | 128| 
 | 20220221T14:30:16Z | Symbolic Execution Reading Group | https://github.com/frediramos/SE-Reading-Group | 0 | 0| 
 | 20220220T20:24:26Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1147 | 48| 
-| 20220219T09:55:10Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 671 | 70| 
 | 20220216T13:43:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 200 | 46| 
-| 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 
 
 # big4 on Github 推荐
