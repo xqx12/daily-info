@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T02:53:28Z | PS-Phwoar! Lite Version Exploit Host Menu for 5.05 FW with GoldHEN v2.1.2 Coded by SiSTRo | https://github.com/psxploitz/PSXploitz.github.io | 0 | 1| 
 | 20220223T02:49:37Z | Null | https://github.com/RapidoBuzz/RhyteredExploit | 0 | 0| 
 | 20220223T01:35:53Z | Config files for my GitHub profile. | https://github.com/etheriums/exploits | 1 | 0| 
 | 20220223T01:30:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2240 | 249| 
@@ -100,7 +101,6 @@
 | 20220222T22:44:03Z | Tips and methodologies to pentest the most common web services | https://github.com/lexisrepo/Web-Exploitation | 0 | 0| 
 | 20220222T21:29:49Z | Some of my Binary Exploitation Write-Ups | https://github.com/Milo-D/write-ups | 1 | 0| 
 | 20220222T21:17:12Z |  Exploit que executa o CFW e o Tiramisu bootloader automaticamente a cada reinício. | https://github.com/Nintendo-Homebrew/Tiramisu | 0 | 0| 
-| 20220222T20:31:28Z | Null | https://github.com/explabs/ad-ctf-paas-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
