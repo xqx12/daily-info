@@ -79,9 +79,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T13:03:55Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 401 | 62| 
 | 20220223T13:00:47Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 672 | 70| 
 | 20220223T13:00:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2724 | 397| 
-| 20220223T13:00:04Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 400 | 62| 
 | 20220223T12:47:07Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 11 | 0| 
 | 20220223T02:18:57Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 33 | 3| 
 
@@ -89,6 +89,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T05:55:09Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 2 | 0| 
 
 
 # fuzz on Github 推荐

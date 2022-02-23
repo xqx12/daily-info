@@ -121,9 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T13:03:55Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 401 | 62| 
 | 20220223T13:00:47Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 672 | 70| 
 | 20220223T13:00:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2724 | 397| 
-| 20220223T13:00:04Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 400 | 62| 
 | 20220223T12:47:07Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 11 | 0| 
 | 20220223T02:18:57Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 33 | 3| 
 | 20220222T14:13:15Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 198 | 13| 
@@ -136,6 +136,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T05:55:09Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 2 | 0| 
 | 20220222T13:21:36Z | ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper) | https://github.com/nsg-ethz/ditto | 2 | 0| 
 | 20220221T11:10:08Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 4 | 1| 
 | 20220216T02:43:25Z | Null | https://github.com/WoogiWooks/NDSS_LAB | 0 | 0| 
