@@ -14,6 +14,7 @@
 | 20220222 | 在 Kubernetes 管理的容器中大规模 Fuzz radare2 | https://www.archcloudlabs.com/projects/dumb_fuzzing/| 
 | 20220222 | mysqljs/mysql 的 escape 实现导致的 SQL 注入 | https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4| 
 | 20220222 | Linux 内核 NFC 子系统的一个 UAF 漏洞 | https://ruia-ruia.github.io/NFC-UAF/| 
+| 20220222 | 影子凭据（译文） | https://tttang.com/archive/1440/| 
 
 
 # 安全维基 推荐
@@ -25,6 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220222T23:28:04Z | CVE-2022-24112 | Apache APISIX apisix/batch-requests RCE | https://github.com/Udyz/CVE-2022-24112 | | 
+| 20220222T15:29:46Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220222T10:40:16Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
 | 20220222T09:50:09Z | CVE-2022-21660 | Null | https://github.com/UzJu/CVE-2022-21660 | | 
 | 20220222T06:40:01Z | cve-2022-23131 | poc | https://github.com/zwjjustdoit/cve-2022-23131 | | 
@@ -33,16 +36,14 @@
 | 20220222T03:33:49Z | CVE-2020-1472 | Null | https://github.com/mtthwstffrd/dirkjanm-CVE-2020-1472 | | 
 | 20220222T03:33:37Z | CVE-2020-1472 | Null | https://github.com/mtthwstffrd/SecuraBV-CVE-2020-1472 | | 
 | 20220222T03:32:48Z | CVE-2021-1675 | Null | https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675 | | 
-| 20220222T03:32:28Z | CVE-2021-1675 | Null | https://github.com/mtthwstffrd/cube0x0-CVE-2021-1675 | | 
-| 20220222T02:32:43Z | cve-2022-23131 | cve-2022-23131 | https://github.com/L0ading-x/cve-2022-23131 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220222T13:32:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5239 | 190| 
+| 20220222T23:23:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5243 | 190| 
+| 20220222T15:43:35Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 482 | 29| 
 | 20220222T12:41:32Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
-| 20220222T07:09:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 480 | 29| 
 
 
 # s2e on Github 推荐
@@ -53,23 +54,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220222T13:51:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2217 | 249| 
-| 20220222T13:16:43Z | simple interface to communicate between a exploit and node.js application | https://github.com/PrintedScript/nodebloxremake | 0 | 0| 
-| 20220222T13:13:16Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6681 | 1543| 
-| 20220222T12:37:38Z | test exploit of the TOR daemon (for research only.) | https://github.com/Smellyslab/toramp | 0 | 0| 
-| 20220222T12:37:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 945 | 157| 
-| 20220222T11:29:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 325 | 99| 
-| 20220222T10:40:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10797 | 1869| 
-| 20220222T10:28:36Z | Null | https://github.com/codernocook/-Build-A-Boat-For-Treasure-Exploit-Postum | 0 | 0| 
-| 20220222T10:08:20Z | Priv8 Tools Software Mass Dork Auto Exploit. | https://github.com/RSecxXx/RSecxXx_MassDork | 0 | 0| 
-| 20220222T09:51:56Z | Guide Exploitation | https://github.com/hbo-partners/guides | 0 | 0| 
+| 20220222T23:22:52Z | My collection of Microsoft security information, exploits, and tools for information use only | https://github.com/kolbyomalley/Microsoft_hacking | 0 | 0| 
+| 20220222T23:17:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2239 | 249| 
+| 20220222T23:05:51Z | a python port of the wearedevs exploit api | https://github.com/DeepPainDev/python-wrdapi | 1 | 0| 
+| 20220222T22:44:03Z | Tips and methodologies to pentest the most common web services | https://github.com/lexisrepo/Web-Exploitation | 0 | 0| 
+| 20220222T21:29:49Z | Some of my Binary Exploitation Write-Ups | https://github.com/Milo-D/write-ups | 1 | 0| 
+| 20220222T21:17:12Z |  Exploit que executa o CFW e o Tiramisu bootloader automaticamente a cada reinício. | https://github.com/Nintendo-Homebrew/Tiramisu | 0 | 0| 
+| 20220222T20:31:28Z | Null | https://github.com/explabs/ad-ctf-paas-exploits | 0 | 0| 
+| 20220222T20:22:12Z | C Projects/Lessons from %Hacking: The Art of Exploitation% | https://github.com/trstout/C | 0 | 0| 
+| 20220222T17:52:04Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 32 | 2| 
+| 20220222T16:48:22Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 80 | 14| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220222T13:24:06Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6141 | 1914| 
-| 20220222T12:35:22Z | Backdoor for Linux x64. | https://github.com/enty8080/Metaphor | 0 | 0| 
+| 20220222T23:43:08Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 28 | 20| 
+| 20220222T23:37:04Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6143 | 1913| 
+| 20220222T21:00:20Z | Fat-Stealer is a stealer that allows you to grab the Discord token from a user and open a backdoor in his machine. | https://github.com/JetBerri/Stealer | 10 | 0| 
+| 20220222T14:55:51Z | Backdoor for Linux x64. | https://github.com/enty8080/Metaphor | 0 | 0| 
 | 20220222T11:02:32Z | Python based hacking tool designed for linux | https://github.com/FlynAber/Exiled | 1 | 0| 
 | 20220222T10:39:49Z | Obfuscated. Don%t mind it. | https://github.com/Dumb-Utility/Backdoor-Project | 0 | 0| 
 | 20220222T08:15:45Z | This project is in beta test (the author will not be responsible for the harm done) | https://github.com/Nickherotroll/Backdoor-plus | 0 | 0| 
@@ -94,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220222T23:46:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7123 | 1505| 
+| 20220222T23:30:35Z | Null | https://github.com/akshayelangovan/fuzzy_template_akshay | 0 | 0| 
+| 20220222T22:39:07Z | A fork of Netflix dial-reference to demonstrate Travis CI integration for fuzz testing with Mayhem by ForAllSecure, Inc. | https://github.com/ForAllSecure/Mayhem-with-TravisCI-netflix-dial-example | 0 | 1| 
+| 20220222T21:59:22Z | Palm tree | https://github.com/Ethanhimes999/fuzzy-octo-palm-tree | 0 | 0| 
+| 20220222T20:40:41Z | Null | https://github.com/Chrireid18/fuzzy-journey | 0 | 0| 
+| 20220222T20:32:37Z | Null | https://github.com/0XMagdy/FUZZ | 0 | 0| 
+| 20220222T17:23:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2483 | 157| 
 | 20220222T13:42:58Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 11 | 0| 
 | 20220222T13:33:10Z | Fuzz Rust code with LibAFL | https://github.com/AFLplusplus/cargo-libafl | 1 | 0| 
-| 20220222T12:52:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7121 | 1504| 
 | 20220222T12:45:52Z |  Command line fuzzer and bruteforcer 🌪 wfuzz for command | https://github.com/ariary/cfuzz | 25 | 1| 
-| 20220222T12:18:59Z | Null | https://github.com/Mo-Mans0ur/fuzzy-octo-guacamole | 0 | 0| 
-| 20220222T10:22:20Z | Null | https://github.com/NikPanica/fuzzy-queries | 0 | 0| 
-| 20220222T09:43:37Z | Netzob: Protocol Reverse Engineering, Modeling and Fuzzing | https://github.com/netzob/netzob | 634 | 140| 
-| 20220222T02:51:44Z | Null | https://github.com/Lucky2102/fuzzy-doodle | 1 | 0| 
-| 20220222T01:52:59Z | Null | https://github.com/Sendthenoodles/fuzzy-enigma | 0 | 0| 
-| 20220222T01:15:52Z | Primeiro | https://github.com/Fabiohbernardi/tal-fuzzy-octo-giggle | 0 | 0| 
 
 
 
