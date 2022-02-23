@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220223T02:18:57Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 33 | 3| 
 | 20220223T00:13:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2722 | 397| 
 | 20220222T22:38:10Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 396 | 62| 
 | 20220222T14:13:15Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 198 | 13| 
@@ -128,7 +129,6 @@
 | 20220221T14:30:16Z | Symbolic Execution Reading Group | https://github.com/frediramos/SE-Reading-Group | 0 | 0| 
 | 20220220T20:24:26Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1147 | 48| 
 | 20220219T09:55:10Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 671 | 70| 
-| 20220216T17:21:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 32 | 3| 
 | 20220216T13:43:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 200 | 46| 
 | 20220215T12:59:44Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 172 | 36| 
 
