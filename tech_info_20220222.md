@@ -26,7 +26,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220222T23:28:04Z | CVE-2022-24112 | Apache APISIX apisix/batch-requests RCE | https://github.com/Udyz/CVE-2022-24112 | | 
 | 20220222T15:29:46Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220222T10:40:16Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
 | 20220222T09:50:09Z | CVE-2022-21660 | Null | https://github.com/UzJu/CVE-2022-21660 | | 
@@ -36,6 +35,7 @@
 | 20220222T03:33:49Z | CVE-2020-1472 | Null | https://github.com/mtthwstffrd/dirkjanm-CVE-2020-1472 | | 
 | 20220222T03:33:37Z | CVE-2020-1472 | Null | https://github.com/mtthwstffrd/SecuraBV-CVE-2020-1472 | | 
 | 20220222T03:32:48Z | CVE-2021-1675 | Null | https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675 | | 
+| 20220222T03:32:28Z | CVE-2021-1675 | Null | https://github.com/mtthwstffrd/cube0x0-CVE-2021-1675 | | 
 
 
 # klee on Github 推荐
