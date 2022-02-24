@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220224T13:40:32Z | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/-CVE-2022-22845-Exploit | 0 | 0| 
 | 20220224T12:53:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 980 | 163| 
 | 20220224T12:25:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2283 | 261| 
 | 20220224T11:59:45Z | Exploit payload | https://github.com/febnug/shellcode | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20220224T09:10:43Z | Config files for my GitHub profile. | https://github.com/JustExploit/JustExploit | 0 | 0| 
 | 20220224T08:44:47Z | GUI Python tools. Copyright (c) 2021 real-exploit | https://github.com/real-exploit/red_hat_python | 0 | 0| 
 | 20220224T07:21:37Z | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | 180 | 21| 
-| 20220224T05:46:18Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 82 | 14| 
 
 
 # backdoor on Github 推荐
