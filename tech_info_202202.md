@@ -14,6 +14,8 @@
 | 20220224 | 利用 CodeQL IR 和 Clang checkers 检测可控数据作为循环条件或用于指针操作的 Bug | http://www.thezdi.com/blog/2022/2/22/clang-checkers-and-codeql-queries-for-detecting-untrusted-pointer-derefs-and-tainted-loop-conditions| 
 | 20220224 | Google 正在将 Kernel Stack Overflow Mitigation 移植到 32-bit ARM CPU 中 | https://security.googleblog.com/2022/02/mitigating-kernel-risks-on-32-bit-arm.html| 
 | 20220224 | Maat - Trail of Bits 开源的一个跨平台的符号执行框架 | http://blog.trailofbits.com/2022/02/23/maat-symbolic-execution-made-easy/| 
+| 20220224 | 剖析 ELF 文件格式的研究. | http://0x434b.dev/dissecting-and-exploiting-elf-files/| 
+| 20220224 | shellcode题目整理. | http://tttang.com/archive/1447/| 
 | 20220223 | cargo-libafl - Fuzz Rust code with LibAFL | https://github.com/AFLplusplus/cargo-libafl| 
 | 20220223 | Relaying Kerberos over DNS using krbrelayx and mitm6 | http://dirkjanm.io/relaying-kerberos-over-dns-with-krbrelayx-and-mitm6/| 
 | 20220223 | Rooting 三星 Q60T 智能电视 | https://github.com/synacktiv/samsung-q60t-exploit/blob/main/slides/presentation.pdf| 
@@ -24,8 +26,6 @@
 | 20220223 | 攻击者从 OpenSea NFT 市场的 17 位投资者窃取 170 万美金 | https://threatpost.com/nft-investors-lose-1-7m-in-opensea-phishing-attack/178558/| 
 | 20220223 | An In-depth Analysis of Duplicated Linux Kernel Bug Reports（Paper） | https://gangw.cs.illinois.edu/ndss22-linux.pdf| 
 | 20220223 | Issue 1230444: Cross-site information leak - Leaking cross-origin redirect destination URI due to CORS (iOS) | https://sec.today/pulses/842a7273-b48a-4228-a8b0-b767327649c7/| 
-| 20220223 | Issue 1230444: Cross-site information leak - Leaking cross-origin redirect destination URI due to CORS (iOS) | https://bugs.chromium.org/p/chromium/issues/detail?id=1230444| 
-| 20220223 | VNCTF2022公开赛 Blockchain-VNloan | https://tttang.com/archive/1445/| 
 
 
 # 安全维基 推荐
@@ -91,10 +91,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220224T13:49:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2284 | 261| 
 | 20220224T13:44:39Z | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/CVE-2022-22845-Exploit | 0 | 0| 
 | 20220224T13:40:32Z | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/-CVE-2022-22845-Exploit | 0 | 0| 
 | 20220224T12:53:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 980 | 163| 
-| 20220224T12:25:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2283 | 261| 
 | 20220224T11:59:45Z | Exploit payload | https://github.com/febnug/shellcode | 0 | 0| 
 | 20220224T10:16:17Z | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/fightingBack | 0 | 0| 
 | 20220224T09:20:09Z | Null | https://github.com/JustExploit/JustExploits | 0 | 0| 
