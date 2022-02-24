@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220224T01:37:55Z | A list of references to fuzzing resources for wifi security testing. | https://github.com/chibataiki/Awesome-Wifi-Fuzzing | 0 | 0| 
 | 20220224T00:10:34Z | cluster strings into groups using Levenstein normal distance as metric | https://github.com/mioxyz/fuzzy-group | 0 | 0| 
 | 20220223T22:53:53Z | Null | https://github.com/SSCsecurity/fuzzyoctopus | 0 | 0| 
 | 20220223T21:43:02Z | A fork of openssl to demonstrate Jenkins integration for fuzz testing with Mayhem by ForAllSecure, Inc. | https://github.com/ForAllSecure/Mayhem-with-Jenkins-openssl-example | 4 | 2| 
@@ -156,7 +157,6 @@
 | 20220223T12:53:16Z | PHP復習 FizzBuzz | https://github.com/ALcot/PHP_FuzzBuzz | 0 | 0| 
 | 20220223T12:33:37Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 24 | 2| 
 | 20220223T12:14:32Z | MAZACOTE - Model-Aided fuZzing And COncolic TEsting | https://github.com/imdea-software/mazacote | 0 | 0| 
-| 20220223T12:03:25Z | Null | https://github.com/niccolocao/Fuzzy-Normal-Model | 0 | 0| 
 
 
 
