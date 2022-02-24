@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220224T13:58:26Z | POC of cracking the myhjexperience.com Validation Code ciphers | https://github.com/benliew68/hungry-jacks-survey-exploit | 0 | 0| 
 | 20220224T13:49:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2284 | 261| 
 | 20220224T13:44:39Z | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/CVE-2022-22845-Exploit | 0 | 0| 
 | 20220224T13:40:32Z | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/-CVE-2022-22845-Exploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220224T09:20:09Z | Null | https://github.com/JustExploit/JustExploits | 0 | 0| 
 | 20220224T09:17:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10810 | 1868| 
 | 20220224T09:10:43Z | Config files for my GitHub profile. | https://github.com/JustExploit/JustExploit | 0 | 0| 
-| 20220224T08:44:47Z | GUI Python tools. Copyright (c) 2021 real-exploit | https://github.com/real-exploit/red_hat_python | 0 | 0| 
 
 
 # backdoor on Github 推荐
