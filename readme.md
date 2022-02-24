@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220224T13:40:32Z | CVE-2022-22845 | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/-CVE-2022-22845-Exploit | | 
 | 20220224T12:04:56Z | CVE-2021-44521 | Automated PoC of CVE-2021-44521 | https://github.com/QHpix/CVE-2021-44521 | | 
 | 20220224T11:55:50Z | CVE-2022-23131 | Null | https://github.com/pykiller/CVE-2022-23131 | | 
 | 20220224T11:47:56Z | CVE-2022-23131 | Null | https://github.com/trganda/CVE-2022-23131 | | 
