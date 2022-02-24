@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220224T13:44:39Z | CVE-2022-22845 | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/CVE-2022-22845-Exploit | | 
 | 20220224T13:40:32Z | CVE-2022-22845 | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/-CVE-2022-22845-Exploit | | 
 | 20220224T12:04:56Z | CVE-2021-44521 | Automated PoC of CVE-2021-44521 | https://github.com/QHpix/CVE-2021-44521 | | 
 | 20220224T11:55:50Z | CVE-2022-23131 | Null | https://github.com/pykiller/CVE-2022-23131 | | 
@@ -60,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220224T13:44:39Z | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/CVE-2022-22845-Exploit | 0 | 0| 
 | 20220224T13:40:32Z | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/-CVE-2022-22845-Exploit | 0 | 0| 
 | 20220224T12:53:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 980 | 163| 
 | 20220224T12:25:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2283 | 261| 
@@ -69,7 +71,6 @@
 | 20220224T09:17:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10810 | 1868| 
 | 20220224T09:10:43Z | Config files for my GitHub profile. | https://github.com/JustExploit/JustExploit | 0 | 0| 
 | 20220224T08:44:47Z | GUI Python tools. Copyright (c) 2021 real-exploit | https://github.com/real-exploit/red_hat_python | 0 | 0| 
-| 20220224T07:21:37Z | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | 180 | 21| 
 
 
 # backdoor on Github 推荐
@@ -87,8 +88,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220224T13:44:22Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 112 | 5| 
 | 20220224T13:31:15Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 409 | 62| 
-| 20220224T13:12:40Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 111 | 5| 
 | 20220224T02:24:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2729 | 399| 
 
 
