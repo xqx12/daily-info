@@ -65,9 +65,9 @@
 | 20220224T09:20:09Z | Null | https://github.com/JustExploit/JustExploits | 0 | 0| 
 | 20220224T09:17:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10810 | 1868| 
 | 20220224T09:10:43Z | Config files for my GitHub profile. | https://github.com/JustExploit/JustExploit | 0 | 0| 
+| 20220224T08:44:47Z | GUI Python tools. Copyright (c) 2021 real-exploit | https://github.com/real-exploit/red_hat_python | 0 | 0| 
 | 20220224T07:21:37Z | A collection of reverse engineered Apple formats | https://github.com/hack-different/apple-knowledge | 180 | 21| 
 | 20220224T05:46:18Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 82 | 14| 
-| 20220224T02:45:36Z | A repository housing the exploit code for CVE-2021-27965, a stack-buffer overflow vulnerability in MsIo.sys. | https://github.com/Leo-Security/CVE-2021-27965-Win10-20H2-x64 | 0 | 0| 
 
 
 # backdoor on Github 推荐
