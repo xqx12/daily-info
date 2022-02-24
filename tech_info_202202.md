@@ -17,6 +17,8 @@
 | 20220223 | An In-depth Analysis of Duplicated Linux Kernel Bug Reports（Paper） | https://gangw.cs.illinois.edu/ndss22-linux.pdf| 
 | 20220223 | Issue 1230444: Cross-site information leak - Leaking cross-origin redirect destination URI due to CORS (iOS) | https://sec.today/pulses/842a7273-b48a-4228-a8b0-b767327649c7/| 
 | 20220223 | Issue 1230444: Cross-site information leak - Leaking cross-origin redirect destination URI due to CORS (iOS) | https://bugs.chromium.org/p/chromium/issues/detail?id=1230444| 
+| 20220223 | VNCTF2022公开赛 Blockchain-VNloan | https://tttang.com/archive/1445/| 
+| 20220223 | Cobalt Strike Being Distributed to Vulnerable MS-SQL Servers | http://asec.ahnlab.com/en/31811/| 
 | 20220222 | Awesome ADB（Android Debug Bridge） | https://github.com/mzlogin/awesome-adb| 
 | 20220222 | Kraken - Zerofox 对一款 Go 语言写的 Botnet 的分析 | https://www.zerofox.com/blog/meet-kraken-a-new-golang-botnet-in-development/| 
 | 20220222 | Process Overwriting - 在进程中注入 PE 文件 | https://github.com/hasherezade/process_overwriting| 
@@ -24,8 +26,6 @@
 | 20220222 | Fuzzcheck is a modular, structure-aware, and feedback-driven fuzzing engine for Rust functions. | https://github.com/loiclec/fuzzcheck-rs| 
 | 20220222 | 在 Kubernetes 管理的容器中大规模 Fuzz radare2 | https://www.archcloudlabs.com/projects/dumb_fuzzing/| 
 | 20220222 | mysqljs/mysql 的 escape 实现导致的 SQL 注入 | https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4| 
-| 20220222 | Linux 内核 NFC 子系统的一个 UAF 漏洞 | https://ruia-ruia.github.io/NFC-UAF/| 
-| 20220222 | 影子凭据（译文） | https://tttang.com/archive/1440/| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220223T18:19:49Z | CVE-2022-24112 | CVE-2022-24112：Apache APISIX apisix/batch-requests RCE | https://github.com/Mr-xn/CVE-2022-24112 | | 
+| 20220223T17:31:09Z | cve-2022-23131 | Zabbix SSO Bypass | https://github.com/random-robbie/cve-2022-23131-exp | | 
 | 20220223T12:30:09Z | CVE-2022-24112 | Apache APISIX apisix/batch-requests RCE | https://github.com/Udyz/CVE-2022-24112 | | 
 | 20220223T11:55:34Z | CVE-2020-0242 | Null | https://github.com/pazhanivel07/frameworks_av-10-r33_CVE-2020-0242 | | 
-| 20220223T11:23:14Z | CVE-2022-24112 | CVE-2022-24112：Apache APISIX apisix/batch-requests RCE | https://github.com/Mr-xn/CVE-2022-24112 | | 
 | 20220223T10:56:50Z | CVE-2020-0209 | Null | https://github.com/pazhanivel07/frameworks_base_CVE-2020-0209 | | 
 | 20220223T10:14:55Z | CVE-2020-0219 | Null | https://github.com/pazhanivel07/Settings_10-r33_CVE-CVE-2020-0219 | | 
 | 20220223T10:11:06Z | cve-2022-23131 | cve-2022-23131 | https://github.com/L0ading-x/cve-2022-23131 | | 
 | 20220223T02:09:35Z | CVE-2022-0185 | CVE-2022-0185 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
 | 20220222T15:29:46Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220222T10:40:16Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
-| 20220222T09:50:09Z | CVE-2022-21660 | Null | https://github.com/UzJu/CVE-2022-21660 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220223T12:21:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5251 | 190| 
-| 20220223T08:10:22Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 486 | 30| 
+| 20220224T00:59:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5254 | 190| 
+| 20220223T16:25:50Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 488 | 30| 
 | 20220222T12:41:32Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 | 20220220T16:21:49Z | Logiciel d%affichage dynamique | https://github.com/Allofame/kleenyaffichage | 0 | 0| 
 | 20220219T04:42:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 222 | 24| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220224T00:55:29Z | gadgets is a nodejs security toolkit used for exploiting webapps and finding vulns.. still in development | https://github.com/DevDeclann/gadgets | 0 | 0| 
+| 20220224T00:23:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2269 | 260| 
+| 20220223T23:13:57Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 136 | 27| 
+| 20220223T22:54:25Z | A key system for exploiters. | https://github.com/AviaAlex/ExploitKeySystem | 0 | 0| 
+| 20220223T22:35:52Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6702 | 1551| 
+| 20220223T22:23:01Z | A number of scripts POC%s and problems solved as pentests move along.  | https://github.com/alienwithin/Scripts-Sploits | 36 | 21| 
+| 20220223T17:19:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 327 | 99| 
 | 20220223T13:44:19Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 963 | 158| 
 | 20220223T13:43:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10806 | 1868| 
-| 20220223T13:40:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2252 | 254| 
 | 20220223T13:02:22Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 33 | 2| 
-| 20220223T13:01:25Z | auto find the offset for exploiting _rtld_global structure to hijack exit() | https://github.com/0599jiangyc/exit_hijack | 0 | 0| 
-| 20220223T12:45:12Z | [CVPR 2021] Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis (official pytorch implementation) | https://github.com/chaoyivision/SGGpoint | 33 | 7| 
-| 20220223T10:05:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 326 | 99| 
-| 20220223T10:04:55Z | Null | https://github.com/tranmanhdat/exploit | 0 | 0| 
-| 20220223T07:03:10Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 672 | 150| 
-| 20220223T04:50:49Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 81 | 14| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220223T07:23:33Z | Fat-Stealer is a stealer that allows you to grab the Discord token from a user and open a backdoor in his machine. | https://github.com/JetBerri/Stealer | 11 | 0| 
+| 20220223T23:12:19Z | Null | https://github.com/programmermohamedadel/BackDoor_malware | 0 | 0| 
+| 20220223T22:11:38Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 0 | 0| 
+| 20220223T18:53:46Z | Fat-Stealer is a stealer that allows you to grab the Discord token from a user and open a backdoor in his machine. | https://github.com/JetBerri/Stealer | 12 | 0| 
+| 20220223T16:10:15Z | Discord Webhook intializer + connector, it initializes webhooks, and can send things to them. THIS IS NOT FOR EDUCATIONAL PURPOSES, AS IT ISNT A BACKDOOR, BUT A TOOL | https://github.com/ferderplays/DiscordWebhookConnector | 0 | 0| 
+| 20220223T13:02:51Z | Windoor is a Windows Backdoor that uses ssh to gain access to the windows machine.  | https://github.com/Talhamehar007/windoor-ssh | 2 | 1| 
 | 20220223T07:21:55Z | example backdoor malware in C explained | https://github.com/lukasbalazik123/h34vy-backdoor | 0 | 0| 
 | 20220223T05:36:13Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 23 | 2| 
 | 20220223T01:42:37Z | a reverse backdoor that uses sockets  | https://github.com/oscara1796/reverse-backdoor | 0 | 0| 
 | 20220223T01:18:49Z | Null | https://github.com/Guest257351/python-backdoor | 0 | 0| 
 | 20220223T00:00:53Z | pwn++ - a (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | 59 | 3| 
-| 20220222T23:43:08Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 28 | 20| 
-| 20220222T23:37:04Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6143 | 1913| 
-| 20220222T14:55:51Z | Backdoor for Linux x64. | https://github.com/enty8080/Metaphor | 0 | 0| 
-| 20220222T11:02:32Z | Python based hacking tool designed for linux | https://github.com/FlynAber/Exiled | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
