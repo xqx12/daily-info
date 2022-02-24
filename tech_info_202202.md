@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220224T02:04:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 969 | 160| 
 | 20220224T01:31:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2270 | 260| 
 | 20220224T01:09:54Z | Null | https://github.com/Eli-Segovia/BufferOverflowExploit | 0 | 0| 
 | 20220224T00:55:29Z | gadgets is a nodejs security toolkit used for exploiting webapps and finding vulns.. still in development | https://github.com/DevDeclann/gadgets | 0 | 1| 
@@ -100,7 +101,6 @@
 | 20220223T22:23:01Z | A number of scripts POC%s and problems solved as pentests move along.  | https://github.com/alienwithin/Scripts-Sploits | 36 | 21| 
 | 20220223T19:01:03Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 57 | 12| 
 | 20220223T17:19:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 327 | 99| 
-| 20220223T13:44:19Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 963 | 158| 
 
 
 # backdoor on Github 推荐
