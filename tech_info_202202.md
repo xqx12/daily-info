@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220224T02:06:23Z | cve-2022-23131 | Zabbix SSO Bypass | https://github.com/random-robbie/cve-2022-23131-exp | | 
 | 20220224T01:58:58Z | CVE-2022-24112 | CVE-2022-24112：Apache APISIX apisix/batch-requests RCE | https://github.com/Mr-xn/CVE-2022-24112 | | 
-| 20220223T17:31:09Z | cve-2022-23131 | Zabbix SSO Bypass | https://github.com/random-robbie/cve-2022-23131-exp | | 
 | 20220223T12:30:09Z | CVE-2022-24112 | Apache APISIX apisix/batch-requests RCE | https://github.com/Udyz/CVE-2022-24112 | | 
 | 20220223T11:55:34Z | CVE-2020-0242 | Null | https://github.com/pazhanivel07/frameworks_av-10-r33_CVE-2020-0242 | | 
 | 20220223T10:56:50Z | CVE-2020-0209 | Null | https://github.com/pazhanivel07/frameworks_base_CVE-2020-0209 | | 
