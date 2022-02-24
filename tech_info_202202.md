@@ -153,10 +153,10 @@
 | 20220224T10:57:56Z | Null | https://github.com/tayebel/fuzzy_system_02 | 0 | 0| 
 | 20220224T10:40:08Z | Null | https://github.com/purrwhite/fuzzy-blue | 0 | 0| 
 | 20220224T09:39:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3982 | 940| 
+| 20220224T08:28:49Z |  Command line fuzzer and bruteforcer 🌪 wfuzz for command | https://github.com/ariary/cfuzz | 54 | 5| 
 | 20220224T02:11:39Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 316 | 51| 
 | 20220224T01:37:55Z | A list of references to fuzzing resources for wifi security testing. | https://github.com/chibataiki/Awesome-Wifi-Fuzzing | 0 | 0| 
 | 20220224T00:10:34Z | cluster strings into groups using Levenstein normal distance as metric | https://github.com/mioxyz/fuzzy-group | 0 | 0| 
-| 20220223T22:53:53Z | Null | https://github.com/SSCsecurity/fuzzyoctopus | 0 | 0| 
 
 
 
