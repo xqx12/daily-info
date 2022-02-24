@@ -83,7 +83,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220223T22:34:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2728 | 398| 
 | 20220223T13:00:47Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 672 | 70| 
 | 20220223T02:18:57Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 33 | 3| 
 
