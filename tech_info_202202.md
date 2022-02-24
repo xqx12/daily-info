@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220223T18:19:49Z | CVE-2022-24112 | CVE-2022-24112：Apache APISIX apisix/batch-requests RCE | https://github.com/Mr-xn/CVE-2022-24112 | | 
+| 20220224T01:58:58Z | CVE-2022-24112 | CVE-2022-24112：Apache APISIX apisix/batch-requests RCE | https://github.com/Mr-xn/CVE-2022-24112 | | 
 | 20220223T17:31:09Z | cve-2022-23131 | Zabbix SSO Bypass | https://github.com/random-robbie/cve-2022-23131-exp | | 
 | 20220223T12:30:09Z | CVE-2022-24112 | Apache APISIX apisix/batch-requests RCE | https://github.com/Udyz/CVE-2022-24112 | | 
 | 20220223T11:55:34Z | CVE-2020-0242 | Null | https://github.com/pazhanivel07/frameworks_av-10-r33_CVE-2020-0242 | | 
@@ -62,7 +62,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220224T00:59:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5254 | 190| 
-| 20220223T16:25:50Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 488 | 30| 
+| 20220223T16:25:50Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 488 | 31| 
 | 20220222T12:41:32Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 | 20220220T16:21:49Z | Logiciel d%affichage dynamique | https://github.com/Allofame/kleenyaffichage | 0 | 0| 
 | 20220219T04:42:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 222 | 24| 
