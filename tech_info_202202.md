@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220224T02:45:36Z | CVE-2021-27965 | A repository housing the exploit code for CVE-2021-27965, a stack-buffer overflow vulnerability in MsIo.sys. | https://github.com/Leo-Security/CVE-2021-27965-Win10-20H2-x64 | | 
 | 20220224T02:12:23Z | CVE-2022-24112 | CVE-2022-24112：Apache APISIX apisix/batch-requests RCE | https://github.com/Mr-xn/CVE-2022-24112 | | 
 | 20220224T02:06:23Z | cve-2022-23131 | Zabbix SSO Bypass | https://github.com/random-robbie/cve-2022-23131-exp | | 
 | 20220223T12:30:09Z | CVE-2022-24112 | Apache APISIX apisix/batch-requests RCE | https://github.com/Udyz/CVE-2022-24112 | | 
@@ -55,7 +56,6 @@
 | 20220223T10:11:06Z | cve-2022-23131 | cve-2022-23131 | https://github.com/L0ading-x/cve-2022-23131 | | 
 | 20220223T02:09:35Z | CVE-2022-0185 | CVE-2022-0185 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
 | 20220222T15:29:46Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
-| 20220222T10:40:16Z | CVE-2022-23131 | Null | https://github.com/0tt7/CVE-2022-23131 | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220224T02:45:36Z | A repository housing the exploit code for CVE-2021-27965, a stack-buffer overflow vulnerability in MsIo.sys. | https://github.com/Leo-Security/CVE-2021-27965-Win10-20H2-x64 | 0 | 0| 
 | 20220224T02:31:36Z | Poc script for ProxyShell exploit chain in Exchange Server | https://github.com/mr-r3bot/Proxyshell-Exchange | 4 | 5| 
 | 20220224T02:23:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 970 | 160| 
 | 20220224T01:31:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2270 | 260| 
@@ -100,7 +101,6 @@
 | 20220223T22:54:25Z | A key system for exploiters. | https://github.com/AviaAlex/ExploitKeySystem | 0 | 0| 
 | 20220223T22:35:52Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6702 | 1551| 
 | 20220223T22:23:01Z | A number of scripts POC%s and problems solved as pentests move along.  | https://github.com/alienwithin/Scripts-Sploits | 36 | 21| 
-| 20220223T19:01:03Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 57 | 12| 
 
 
 # backdoor on Github 推荐
