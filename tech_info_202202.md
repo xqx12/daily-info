@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220225T01:30:09Z | CVE-2021-4034 | Null | https://github.com/hahaleyile/CVE-2021-4034 | | 
+| 20220225T01:30:57Z | CVE-2021-4034 | Null | https://github.com/hahaleyile/CVE-2021-4034 | | 
 | 20220224T21:19:13Z | CVE-2021-44521 | Automated PoC of CVE-2021-44521 | https://github.com/QHpix/CVE-2021-44521 | | 
 | 20220224T19:27:51Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220224T17:30:45Z | CVE-2021-25461 | Null | https://github.com/bkojusner/CVE-2021-25461 | | 
