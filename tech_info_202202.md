@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220225T01:42:18Z | Null | https://github.com/TheChocolatine/Rblx-Infinity-Hub-UI-Exploit | 0 | 0| 
 | 20220225T01:29:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2296 | 262| 
 | 20220224T23:56:40Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 60 | 12| 
 | 20220224T23:42:52Z | Supported: SynapseX, KRNL, ScriptWare, and other shitsploits | https://github.com/XJMI/LuaU-Scripts | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20220224T22:07:41Z | only changed fans like this | https://github.com/lanmor2013/Roblox-Puro-Exploit | 0 | 0| 
 | 20220224T21:57:59Z | Auto bans every player joining without a Steam ID. (Steam exploit) | https://github.com/Zedruc/NSIDAB | 0 | 0| 
 | 20220224T21:24:16Z | Agent-based model of scientific careers with an exploration propensity parameter. This is a work in progress research. | https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence | 0 | 0| 
-| 20220224T19:12:48Z | The new roblox exploit script. | https://github.com/eqq-evil/kokolaXD | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220225T01:33:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 121 | 5| 
+| 20220225T01:39:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 122 | 6| 
 | 20220224T20:56:40Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 412 | 62| 
 | 20220224T14:34:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2731 | 399| 
 | 20220223T13:00:47Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 672 | 70| 
