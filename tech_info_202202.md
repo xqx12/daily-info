@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220225T13:12:33Z | Null | https://github.com/AdelAKA/FuzzyLogic-Robot-Controller | 0 | 0| 
 | 20220225T13:07:11Z | Null | https://github.com/AdelAKA/FuzzyLogic-Image-Enhancement | 0 | 0| 
 | 20220225T12:11:53Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 388 | 56| 
 | 20220225T11:52:58Z | Config files for my GitHub profile. | https://github.com/fuzzyharry/fuzzyharry | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20220225T08:42:33Z | Null | https://github.com/dhawanbrar/fuzzy-rotary-phone | 0 | 0| 
 | 20220224T23:09:44Z | Null | https://github.com/sr-lab/qsharp-fuzz | 0 | 0| 
 | 20220224T22:01:10Z | Use Jazzer to perform fuzzy testing of Apache Tika | https://github.com/centic9/tika-fuzz | 1 | 0| 
-| 20220224T20:37:40Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1208 | 52| 
 
 
 
