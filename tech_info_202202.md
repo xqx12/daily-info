@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220225T01:46:23Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220225T01:35:54Z | CVE-2022-0185 | CVE-2022-0185 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
 | 20220225T01:30:57Z | CVE-2021-4034 | Null | https://github.com/hahaleyile/CVE-2021-4034 | | 
 | 20220224T21:19:13Z | CVE-2021-44521 | Automated PoC of CVE-2021-44521 | https://github.com/QHpix/CVE-2021-44521 | | 
@@ -55,7 +56,6 @@
 | 20220224T13:44:39Z | CVE-2022-22845 | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/CVE-2022-22845-Exploit | | 
 | 20220224T13:40:32Z | CVE-2022-22845 | Exploit for CVE-2022-22845 - Unauthenticated Admin Takeover On QXIP SIPCAPTURE Homer-App up to 1.4.27 | https://github.com/OmriBaso/-CVE-2022-22845-Exploit | | 
 | 20220224T11:55:50Z | CVE-2022-23131 | Null | https://github.com/pykiller/CVE-2022-23131 | | 
-| 20220224T11:47:56Z | CVE-2022-23131 | Null | https://github.com/trganda/CVE-2022-23131 | | 
 
 
 # klee on Github 推荐
