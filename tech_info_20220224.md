@@ -92,7 +92,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220224T23:50:25Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 120 | 5| 
 | 20220224T20:56:40Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 412 | 62| 
 | 20220224T14:34:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2731 | 399| 
 
