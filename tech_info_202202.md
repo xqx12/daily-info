@@ -14,6 +14,7 @@
 | 20220225 | BlackHat Asia 2022 会议的议题列表公开了 | https://www.blackhat.com/asia-22/briefings/schedule/#macos-vulnerabilities-hiding-in-plain-sight-26073| 
 | 20220225 | Windows 驱动逆向方法论 | https://voidsec.com/windows-drivers-reverse-engineering-methodology/| 
 | 20220225 | 取证分析公司 Passware 称他们发现了一个 Apple T2 芯片的漏洞，可以破解磁盘加密的密码 | http://9to5mac.com/2022/02/17/t2-mac-security-vulnerability-passware/| 
+| 20220225 | ASP.NET下的内存马(3) HttpListener内存马. | https://tttang.com/archive/1451/| 
 | 20220224 | Stealing a few more GitHub Actions secrets | http://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html| 
 | 20220224 | Logic Flaw Leading to RCE in Dynamicweb 9.5.0 - 9.12.7 | https://blog.assetnote.io/2022/02/20/logicflaw-dynamicweb-rce/| 
 | 20220224 | Kunlun Lab 研究员 Zweig 公开了 iOS 15 的内核漏洞 CVE-2021-30955 的细节 | https://www.cyberkl.com/cvelist/cvedetail/24| 
@@ -25,7 +26,6 @@
 | 20220224 | 剖析 ELF 文件格式的研究. | http://0x434b.dev/dissecting-and-exploiting-elf-files/| 
 | 20220224 | shellcode题目整理. | http://tttang.com/archive/1447/| 
 | 20220223 | cargo-libafl - Fuzz Rust code with LibAFL | https://github.com/AFLplusplus/cargo-libafl| 
-| 20220223 | Relaying Kerberos over DNS using krbrelayx and mitm6 | http://dirkjanm.io/relaying-kerberos-over-dns-with-krbrelayx-and-mitm6/| 
 
 
 # 安全维基 推荐
@@ -91,21 +91,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220225T13:57:48Z | Null | https://github.com/DevPrestigious/vulnerablitiesAndExploits | 0 | 0| 
+| 20220225T13:30:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2311 | 265| 
 | 20220225T12:42:44Z | A few Blooket hacks (Example: ChestX-ray, TokenHack). But it might not work... | https://github.com/IvyFlight/Blooket-hack-scripts | 1 | 1| 
 | 20220225T12:34:02Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4039 | 1420| 
 | 20220225T12:12:04Z | Exploitation and Mitigation Slides | https://github.com/dobin/yookiterm-slides | 95 | 26| 
-| 20220225T11:43:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2310 | 265| 
 | 20220225T11:19:39Z | Script to demonstrate the Grafana directory traversal exploit (CVE-2021-43798). | https://github.com/Jroo1053/GrafanaDirInclusion | 0 | 0| 
 | 20220225T11:13:39Z | Here we deal with the issue of fairness in machine learning classification algorithm and we try to exploit regularization technique to attain fairness. | https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier | 0 | 1| 
 | 20220225T11:09:23Z | Null | https://github.com/Sheidaas/exploit-frontend | 0 | 0| 
 | 20220225T10:50:21Z | Exercice Vuejs pour exploiter une API | https://github.com/CedgonzalDevCda/API_Typicode | 0 | 0| 
 | 20220225T06:34:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10815 | 1869| 
-| 20220225T05:12:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 329 | 99| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220225T13:23:37Z | 100% Undetectable NodeJS reverse shell backdoor that autoruns on startup. | https://github.com/I2rys/NRSBackdoor | 14 | 4| 
 | 20220225T07:56:04Z | This is my first repository | https://github.com/unrestrain/backdoor-code | 0 | 0| 
 | 20220225T07:32:41Z | Backdoor attack implemented in python | https://github.com/boubacar-sow/Backdoor | 0 | 0| 
 | 20220224T23:07:19Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 1 | 0| 
@@ -115,13 +116,12 @@
 | 20220224T14:46:26Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20220224T12:25:21Z | So many bugs, but still works ;-; | https://github.com/X2X303/My-XSS-Backdoor | 0 | 0| 
 | 20220224T12:07:52Z | backdoor | https://github.com/stapitop/backdoor | 1 | 0| 
-| 20220224T11:52:54Z | Null | https://github.com/rohit-krish/BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220225T12:50:41Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 134 | 8| 
+| 20220225T13:11:43Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 135 | 8| 
 | 20220225T12:48:53Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 422 | 62| 
 | 20220225T02:40:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2731 | 399| 
 | 20220223T13:00:47Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 672 | 70| 
@@ -147,7 +147,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220225T13:12:33Z | Null | https://github.com/AdelAKA/FuzzyLogic-Robot-Controller | 0 | 0| 
+| 20220225T14:03:46Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 169 | 25| 
+| 20220225T13:50:30Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 12 | 0| 
+| 20220225T13:18:15Z | Null | https://github.com/AdelAKA/FuzzyLogic-Robot-Controller | 0 | 0| 
 | 20220225T13:07:11Z | Null | https://github.com/AdelAKA/FuzzyLogic-Image-Enhancement | 0 | 0| 
 | 20220225T12:11:53Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 388 | 56| 
 | 20220225T11:52:58Z | Config files for my GitHub profile. | https://github.com/fuzzyharry/fuzzyharry | 0 | 0| 
@@ -155,8 +157,6 @@
 | 20220225T09:00:20Z | Null | https://github.com/diablo0822/fuzz-base | 0 | 0| 
 | 20220225T08:58:12Z | Automatic fuzz targets generation for Golang packages | https://github.com/catenacyber/ngolo-fuzzing | 0 | 0| 
 | 20220225T08:42:33Z | Null | https://github.com/dhawanbrar/fuzzy-rotary-phone | 0 | 0| 
-| 20220224T23:09:44Z | Null | https://github.com/sr-lab/qsharp-fuzz | 0 | 0| 
-| 20220224T22:01:10Z | Use Jazzer to perform fuzzy testing of Apache Tika | https://github.com/centic9/tika-fuzz | 1 | 0| 
 
 
 
