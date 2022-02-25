@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220225T01:30:09Z | CVE-2021-4034 | Null | https://github.com/hahaleyile/CVE-2021-4034 | | 
 | 20220224T21:19:13Z | CVE-2021-44521 | Automated PoC of CVE-2021-44521 | https://github.com/QHpix/CVE-2021-44521 | | 
 | 20220224T19:27:51Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220224T17:30:45Z | CVE-2021-25461 | Null | https://github.com/bkojusner/CVE-2021-25461 | | 
@@ -55,7 +56,6 @@
 | 20220224T11:55:50Z | CVE-2022-23131 | Null | https://github.com/pykiller/CVE-2022-23131 | | 
 | 20220224T11:47:56Z | CVE-2022-23131 | Null | https://github.com/trganda/CVE-2022-23131 | | 
 | 20220224T11:15:31Z | cve-2022-23131 | cve-2022-23131 | https://github.com/L0ading-x/cve-2022-23131 | | 
-| 20220224T08:55:13Z | CVE-2022-24112 | CVE-2022-24112：Apache APISIX apisix/batch-requests RCE | https://github.com/Mr-xn/CVE-2022-24112 | | 
 
 
 # klee on Github 推荐
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220225T00:34:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2295 | 262| 
+| 20220225T01:29:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2296 | 262| 
 | 20220224T23:56:40Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 60 | 12| 
 | 20220224T23:42:52Z | Supported: SynapseX, KRNL, ScriptWare, and other shitsploits | https://github.com/XJMI/LuaU-Scripts | 1 | 0| 
 | 20220224T23:19:34Z | * 0.0 | https://github.com/PunkedOut/Punked-Hub | 0 | 0| 
