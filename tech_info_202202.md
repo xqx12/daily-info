@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220225T14:11:33Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 137 | 27| 
 | 20220225T13:57:48Z | Null | https://github.com/DevPrestigious/vulnerablitiesAndExploits | 0 | 0| 
 | 20220225T13:30:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2311 | 265| 
 | 20220225T12:42:44Z | A few Blooket hacks (Example: ChestX-ray, TokenHack). But it might not work... | https://github.com/IvyFlight/Blooket-hack-scripts | 1 | 1| 
@@ -100,7 +101,6 @@
 | 20220225T11:13:39Z | Here we deal with the issue of fairness in machine learning classification algorithm and we try to exploit regularization technique to attain fairness. | https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier | 0 | 1| 
 | 20220225T11:09:23Z | Null | https://github.com/Sheidaas/exploit-frontend | 0 | 0| 
 | 20220225T10:50:21Z | Exercice Vuejs pour exploiter une API | https://github.com/CedgonzalDevCda/API_Typicode | 0 | 0| 
-| 20220225T06:34:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10815 | 1869| 
 
 
 # backdoor on Github 推荐
