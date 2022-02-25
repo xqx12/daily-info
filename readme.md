@@ -93,7 +93,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220224T20:56:40Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 412 | 62| 
-| 20220224T14:34:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2731 | 399| 
 
 
 # big4 on Github 推荐
