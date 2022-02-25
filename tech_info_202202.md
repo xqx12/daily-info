@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220225T02:46:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2297 | 262| 
 | 20220225T01:42:18Z | Null | https://github.com/TheChocolatine/Rblx-Infinity-Hub-UI-Exploit | 0 | 0| 
-| 20220225T01:29:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2296 | 262| 
 | 20220224T23:56:40Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 60 | 12| 
 | 20220224T23:42:52Z | Supported: SynapseX, KRNL, ScriptWare, and other shitsploits | https://github.com/XJMI/LuaU-Scripts | 1 | 0| 
 | 20220224T23:19:34Z | * 0.0 | https://github.com/PunkedOut/Punked-Hub | 0 | 0| 
