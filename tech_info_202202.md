@@ -92,6 +92,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220225T00:34:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2295 | 262| 
+| 20220224T23:56:40Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 60 | 12| 
 | 20220224T23:42:52Z | Supported: SynapseX, KRNL, ScriptWare, and other shitsploits | https://github.com/XJMI/LuaU-Scripts | 1 | 0| 
 | 20220224T23:19:34Z | * 0.0 | https://github.com/PunkedOut/Punked-Hub | 0 | 0| 
 | 20220224T23:02:44Z | some code for dumping random bytes back at servers that search for exploitable links. | https://github.com/samiam2013/makitikosMars | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220224T21:57:59Z | Auto bans every player joining without a Steam ID. (Steam exploit) | https://github.com/Zedruc/NSIDAB | 0 | 0| 
 | 20220224T21:24:16Z | Agent-based model of scientific careers with an exploration propensity parameter. This is a work in progress research. | https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence | 0 | 0| 
 | 20220224T19:12:48Z | The new roblox exploit script. | https://github.com/eqq-evil/kokolaXD | 0 | 0| 
-| 20220224T18:38:51Z | MavLink Protocol Drone Exploiting Tool | https://github.com/moayyad57/dronize-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
