@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220226T02:04:38Z | Null | https://github.com/cryptogalaxy04/exploit-contract | 0 | 0| 
 | 20220226T00:27:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10818 | 1870| 
 | 20220226T00:20:02Z | Null | https://github.com/Dir0x/SQLi-exploit---Simple-Client-Management-System | 0 | 0| 
 | 20220226T00:14:27Z | Exploits in Simple Subscription Company to dump users and hashes from database. | https://github.com/Dir0x/Multiple-SQLi-in-Simple-Subscription-Company | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220225T21:30:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2315 | 265| 
 | 20220225T15:55:24Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 64 | 13| 
 | 20220225T14:34:26Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 113 | 50| 
-| 20220225T14:11:33Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 137 | 27| 
 
 
 # backdoor on Github 推荐
