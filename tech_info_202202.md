@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220226T01:54:04Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 419 | 77| 
 | 20220226T01:37:49Z | Null | https://github.com/merlinepedra/ANDROID_HIDDEN_BACKDOOR | 0 | 0| 
 | 20220226T01:30:51Z | Null | https://github.com/merlinepedra25/ANDROID_HIDDEN_BACKDOOR | 0 | 0| 
 | 20220225T22:41:29Z | Multiplatform, post-exploitation tool to maintain the continuous access to a computer using irc as communication bus and capable of spawning a remote shell. | https://github.com/giwiro/s3ntineL-irc | 3 | 0| 
@@ -115,7 +116,6 @@
 | 20220225T07:56:04Z | This is my first repository | https://github.com/unrestrain/backdoor-code | 0 | 0| 
 | 20220225T07:32:41Z | Backdoor attack implemented in python | https://github.com/boubacar-sow/Backdoor | 0 | 0| 
 | 20220224T23:07:19Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 1 | 0| 
-| 20220224T22:41:22Z | Fat-Stealer is a stealer that allows you to grab the Discord token from a user and open a backdoor in his machine. | https://github.com/JetBerri/Stealer | 14 | 0| 
 
 
 # symbolic execution on Github 推荐
