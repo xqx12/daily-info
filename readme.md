@@ -68,12 +68,12 @@
 | 20220225T22:41:29Z | Multiplatform, post-exploitation tool to maintain the continuous access to a computer using irc as communication bus and capable of spawning a remote shell. | https://github.com/giwiro/s3ntineL-irc | 3 | 0| 
 | 20220225T21:31:36Z | WordPress exploiter coded with love for Mother Russia | https://github.com/Mile403/chyort | 0 | 0| 
 | 20220225T21:30:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2315 | 265| 
+| 20220225T17:19:14Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 49 | 54| 
 | 20220225T15:55:24Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 64 | 13| 
 | 20220225T14:34:26Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 113 | 50| 
 | 20220225T14:11:33Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 137 | 27| 
 | 20220225T13:57:48Z | Null | https://github.com/DevPrestigious/vulnerablitiesAndExploits | 0 | 0| 
 | 20220225T12:42:44Z | A few Blooket hacks (Example: ChestX-ray, TokenHack). But it might not work... | https://github.com/IvyFlight/Blooket-hack-scripts | 1 | 1| 
-| 20220225T12:34:02Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4039 | 1420| 
 
 
 # backdoor on Github 推荐

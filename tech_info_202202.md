@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220226T02:53:18Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7100 | 1734| 
+| 20220226T02:46:43Z | A privacy attack that exploits Adversarial Training models to compromise the privacy of Federated Learning systems. | https://github.com/zjysteven/PrivayAttack_AT_FL | 1 | 2| 
 | 20220226T02:04:38Z | Null | https://github.com/cryptogalaxy04/exploit-contract | 0 | 0| 
 | 20220226T00:27:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10818 | 1870| 
 | 20220226T00:20:02Z | Null | https://github.com/Dir0x/SQLi-exploit---Simple-Client-Management-System | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20220225T22:41:29Z | Multiplatform, post-exploitation tool to maintain the continuous access to a computer using irc as communication bus and capable of spawning a remote shell. | https://github.com/giwiro/s3ntineL-irc | 3 | 0| 
 | 20220225T21:31:36Z | WordPress exploiter coded with love for Mother Russia | https://github.com/Mile403/chyort | 0 | 0| 
 | 20220225T21:30:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2315 | 265| 
-| 20220225T15:55:24Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 64 | 13| 
-| 20220225T14:34:26Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 113 | 50| 
 
 
 # backdoor on Github 推荐
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220226T02:17:47Z | Fuzzing Web Sites Directories | https://github.com/dock0d1/fuzzerex | 0 | 0| 
 | 20220226T01:18:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7125 | 1507| 
 | 20220226T00:42:00Z | Null | https://github.com/lovedeepkaursaini/FuzzyNeighbor | 0 | 0| 
 | 20220225T21:16:02Z | Null | https://github.com/AdelAKA/FuzzyLogic-Robot-Controller | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20220225T13:50:30Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 12 | 0| 
 | 20220225T12:11:53Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/intel/kernel-fuzzer-for-xen-project | 388 | 56| 
 | 20220225T11:52:58Z | Config files for my GitHub profile. | https://github.com/fuzzyharry/fuzzyharry | 0 | 0| 
-| 20220225T11:07:17Z | Broccoli can be eaten both raw and cooked, but recent studies show that steaming broccoli has the most health benefits. | https://github.com/RieseBuckler88/fuzzy-broccoli | 0 | 0| 
 
 
 
