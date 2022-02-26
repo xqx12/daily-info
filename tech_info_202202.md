@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220226T13:54:44Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220226T12:52:41Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | | 
-| 20220226T12:28:01Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220226T10:12:45Z | CVE-2022-24086 | CVE-2022-24086  RCE | https://github.com/shakeman8/CVE-2022-24086-RCE | | 
 | 20220226T06:23:59Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220226T06:21:26Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220226T13:09:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2318 | 265| 
 | 20220226T12:52:41Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | 4 | 1| 
 | 20220226T12:21:34Z | A new roblox exploit | https://github.com/malthis2/wolfieshack.github.io | 0 | 0| 
 | 20220226T11:18:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10820 | 1870| 
@@ -100,12 +101,12 @@
 | 20220226T02:46:43Z | A privacy attack that exploits Adversarial Training models to compromise the privacy of Federated Learning systems. | https://github.com/zjysteven/PrivayAttack_AT_FL | 1 | 2| 
 | 20220226T02:04:38Z | Null | https://github.com/cryptogalaxy04/exploit-contract | 0 | 0| 
 | 20220226T00:20:02Z | Null | https://github.com/Dir0x/SQLi-exploit---Simple-Client-Management-System | 0 | 0| 
-| 20220226T00:14:27Z | Exploits in Simple Subscription Company to dump users and hashes from database. | https://github.com/Dir0x/Multiple-SQLi-in-Simple-Subscription-Company | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220226T13:48:33Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 72 | 20| 
 | 20220226T12:32:42Z | Null | https://github.com/DmodvGH/BackDoorBot | 0 | 0| 
 | 20220226T09:46:44Z | Backdoor for web server | https://github.com/ErilinAleksei/WEB-Backdoor | 0 | 0| 
 | 20220226T07:24:56Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 8 | 0| 
@@ -115,7 +116,6 @@
 | 20220226T01:30:51Z | Null | https://github.com/merlinepedra25/ANDROID_HIDDEN_BACKDOOR | 0 | 0| 
 | 20220225T22:41:29Z | Multiplatform, post-exploitation tool to maintain the continuous access to a computer using irc as communication bus and capable of spawning a remote shell. | https://github.com/giwiro/s3ntineL-irc | 3 | 0| 
 | 20220225T21:50:13Z | Null | https://github.com/0xDarkSky/DS-Backdoor | 1 | 0| 
-| 20220225T19:45:59Z | Null | https://github.com/PrintfDead/Backdoor | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220226T13:40:59Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 10 | 1| 
 | 20220226T11:48:14Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4687 | 479| 
 | 20220226T11:39:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7126 | 1507| 
 | 20220226T11:37:15Z | NPTEL :  Fuzzy Logic and Neural Networks codes | https://github.com/nehalbk/Fuzzy-Logic-and-Neural-Networks | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20220226T04:08:46Z | Hyper-V Fuzzer using hAFL2 | https://github.com/blackcon/HVFUZZ | 0 | 0| 
 | 20220226T02:17:47Z | Fuzzing Web Sites Directories | https://github.com/dock0d1/fuzzerex | 0 | 0| 
 | 20220226T00:42:00Z | Null | https://github.com/lovedeepkaursaini/FuzzyNeighbor | 0 | 0| 
-| 20220225T21:16:02Z | Null | https://github.com/AdelAKA/FuzzyLogic-Robot-Controller | 0 | 0| 
 
 
 
