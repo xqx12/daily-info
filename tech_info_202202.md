@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220226T01:49:51Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220226T00:42:37Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220226T00:24:03Z | CVE-2021-44521 | Automated PoC of CVE-2021-44521 | https://github.com/QHpix/CVE-2021-44521 | | 
-| 20220225T20:47:02Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220225T20:31:06Z | CVE-2021-3560 | Null | https://github.com/innxrmxst/CVE-2021-3560 | | 
 | 20220225T15:33:08Z | CVE-2022-24112 | Apache APISIX batch-requests RCE(CVE-2022-24112) | https://github.com/Axx8/CVE-2022-24112 | | 
 | 20220225T11:08:29Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 

@@ -34,7 +34,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220225T20:47:02Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 | 20220225T20:31:06Z | CVE-2021-3560 | Null | https://github.com/innxrmxst/CVE-2021-3560 | | 
 | 20220225T15:33:08Z | CVE-2022-24112 | Apache APISIX batch-requests RCE(CVE-2022-24112) | https://github.com/Axx8/CVE-2022-24112 | | 
 | 20220225T11:08:29Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
@@ -44,6 +43,7 @@
 | 20220225T08:02:23Z | CVE-2022-24124 | POC for CVE-2022-24124 | https://github.com/ColdFusionX/CVE-2022-24124 | | 
 | 20220225T06:42:32Z | CVE-2022-23131 | Null | https://github.com/trganda/CVE-2022-23131 | | 
 | 20220225T01:35:54Z | CVE-2022-0185 | CVE-2022-0185 POC and Docker and simple Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
+| 20220225T01:30:57Z | CVE-2021-4034 | Null | https://github.com/hahaleyile/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
