@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220227 | 自定义AWVS的Docker镜像 | https://mp.weixin.qq.com/s/uwTUzinq1v9U7moqfatVOA| 
 | 20220225 | SecCrawler: 每日安全日报的爬虫和推送程序 | https://github.com/Le0nsec/SecCrawler| 
 | 20220225 | cheatsheet: 信安技术羊皮卷 | https://github.com/LubyRuffy/cheatsheet| 
 | 20220225 | 代码分析与自动化重构 | https://github.com/modernizing/modernization| 
@@ -40,28 +41,28 @@
 | 20220225 | 路由器TP-Link WR740后门漏洞 | https://mp.weixin.qq.com/s/SWFLV6H1zKWQyvnC0JGGhg| 
 | 20220225 | Parallels Desktop虚拟机逃逸 | https://dawnslab.jd.com/pd-exploit-blog1/| 
 | 20220225 | k8s安全入门 | https://mp.weixin.qq.com/s/T2QGLlKwjaUByDtGFL94PQ| 
-| 20220224 | 针对AD CS中ESC7的滥用 | https://mp.weixin.qq.com/s/TqW3ONBdcUFijg4keSiO1g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220227T02:55:49Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
-| 20220227T01:16:36Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
-| 20220226T22:38:56Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
+| 20220227T12:56:11Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
+| 20220227T12:15:52Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
+| 20220227T11:31:05Z | cve-2022-23131 | Null | https://github.com/Fa1c0n35/zabbix-cve-2022-23131 | | 
+| 20220227T10:33:02Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
 | 20220226T17:41:47Z | CVE-2020-18326 | Exploit PoC for CVE-2020-18326 | https://github.com/hamm0nz/CVE-2020-18326 | | 
 | 20220226T17:41:26Z | CVE-2020-18325 | Exploit PoC for CVE-2020-18325 | https://github.com/hamm0nz/CVE-2020-18325 | | 
 | 20220226T17:41:07Z | CVE-2020-18324 | Exploit PoC for CVE-2020-18324 | https://github.com/hamm0nz/CVE-2020-18324 | | 
 | 20220226T12:52:41Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | | 
 | 20220226T10:12:45Z | CVE-2022-24086 | CVE-2022-24086  RCE | https://github.com/shakeman8/CVE-2022-24086-RCE | | 
 | 20220226T06:23:59Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
-| 20220226T06:21:26Z | cve-2022-23131 | cve-2022-23131 zabbix-saml-bypass-exp | https://github.com/Mr-xn/cve-2022-23131 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220226T15:42:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5282 | 192| 
+| 20220227T12:21:20Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
+| 20220227T09:05:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5284 | 192| 
 | 20220226T09:35:36Z | Config files for my GitHub profile. | https://github.com/MoniKLee/MoniKLee | 0 | 0| 
 | 20220226T09:31:14Z | Config files for my GitHub profile. | https://github.com/ChanAndKlee/ChanAndKlee | 0 | 0| 
 | 20220226T05:22:09Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 510 | 32| 
@@ -70,7 +71,6 @@
 | 20220224T13:29:06Z | Config files for my GitHub profile. | https://github.com/TMcKleen007/TMcKleen007 | 0 | 0| 
 | 20220222T12:41:32Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 | 20220220T16:21:49Z | Logiciel d%affichage dynamique | https://github.com/Allofame/kleenyaffichage | 0 | 0| 
-| 20220216T15:29:08Z | A collaborative project made by Klee Mains to serve as a website for all klee related stuff! | https://github.com/ESL313/kleemains | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220227T12:56:35Z | - 👀 Exploit Free & Open Source | https://github.com/skyMateus/skyExploit | 0 | 0| 
+| 20220227T12:48:20Z | im into metaploit,cross-script-injections,basically web-based attacks. i enjoy learning how the code operates inside a website while exploiting its weaknesses | https://github.com/xss-pariah/XSS-PARIAH | 0 | 0| 
+| 20220227T12:15:18Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 18 | 3| 
+| 20220227T11:54:29Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6733 | 1560| 
+| 20220227T11:26:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10826 | 1871| 
+| 20220227T11:06:27Z | Null | https://github.com/LogMoss/exploit_site | 0 | 0| 
+| 20220227T08:42:18Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 83 | 14| 
 | 20220227T02:27:12Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
 | 20220227T01:59:53Z | Null | https://github.com/ksecurity45/exploit-me.com | 0 | 0| 
 | 20220227T00:55:39Z | ⭐This is a list of new updated console scripts! These are all to change the look of discord or giving you cool stuff | https://github.com/GarudaID/Discord-Exploit | 1 | 0| 
-| 20220227T00:32:10Z | * 0.1 | https://github.com/PunkedOut/Punked-Hub | 0 | 0| 
-| 20220226T23:37:00Z | a gui exploit for fellow road blocks script kiddies (wip) | https://github.com/ncax/voidsploit | 0 | 0| 
-| 20220226T22:55:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2321 | 265| 
-| 20220226T22:29:47Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4367 | 578| 
-| 20220226T21:09:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10822 | 1871| 
-| 20220226T12:52:41Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | 4 | 1| 
-| 20220226T12:21:34Z | A new roblox exploit | https://github.com/malthis2/wolfieshack.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220227T01:31:01Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 4 | 0| 
-| 20220226T16:01:05Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 20 | 1| 
+| 20220227T11:57:39Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 9 | 0| 
+| 20220227T10:40:17Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 21 | 1| 
+| 20220227T10:24:00Z | Python based hacking tool designed for linux | https://github.com/FlynAber/Exiled | 2 | 0| 
+| 20220227T08:15:12Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 73 | 20| 
+| 20220227T07:49:33Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 7 | 0| 
+| 20220227T05:50:52Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 874 | 125| 
+| 20220227T03:52:54Z | The Americium Backdoor | https://github.com/AmericiumBD/Americium | 0 | 0| 
 | 20220226T15:07:33Z | A simple, drop-in reverse shell handler for multiple backdoor connections. Made for CNY Hackathon. | https://github.com/bocajspear1/bdmultiplexer | 1 | 2| 
-| 20220226T13:48:33Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 72 | 20| 
 | 20220226T12:32:42Z | Null | https://github.com/DmodvGH/BackDoorBot | 0 | 0| 
 | 20220226T09:46:44Z | Backdoor for web server | https://github.com/ErilinAleksei/WEB-Backdoor | 0 | 0| 
-| 20220226T07:24:56Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 8 | 0| 
-| 20220226T01:54:04Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 419 | 77| 
-| 20220226T01:37:49Z | Null | https://github.com/merlinepedra/ANDROID_HIDDEN_BACKDOOR | 0 | 0| 
-| 20220226T01:30:51Z | Null | https://github.com/merlinepedra25/ANDROID_HIDDEN_BACKDOOR | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -147,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220227T01:32:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7128 | 1509| 
-| 20220226T21:33:30Z | Null | https://github.com/CMOISDEAD/fuzzy-happiness | 0 | 0| 
-| 20220226T21:31:58Z | Null | https://github.com/WesleyScott99/FuzzyLogicChess | 1 | 0| 
-| 20220226T18:19:40Z | Null | https://github.com/BurnsD/fuzzy-robot | 0 | 0| 
-| 20220226T17:08:53Z | Null | https://github.com/Calajese/fuzzy-guide | 0 | 0| 
-| 20220226T13:40:59Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 10 | 1| 
-| 20220226T11:48:14Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4687 | 479| 
-| 20220226T11:37:15Z | NPTEL :  Fuzzy Logic and Neural Networks codes | https://github.com/nehalbk/Fuzzy-Logic-and-Neural-Networks | 0 | 0| 
-| 20220226T09:20:15Z | fuzzy-octo-chainsaw used to split, split solid or hard ones | https://github.com/JaizaClap1986/fuzzy-octo-chainsaw | 0 | 0| 
-| 20220226T09:13:44Z | Taneko is an %octopus% - a cute cross between a tako (octopus) and a neko (cat) who captures the octopus%s talent for camouflage and mimicry, and a faint cuteness | https://github.com/ZiaireZedaker/fuzzy-octo-dollop | 0 | 0| 
+| 20220227T12:19:06Z | simple fuzzer for command line utilities  | https://github.com/3sjay/simple-fuzzer | 0 | 0| 
+| 20220227T11:39:23Z | Fuzzy Control Library which uses config files instead of requiring edits in code | https://github.com/FelixLabelle/FuzzyController | 0 | 0| 
+| 20220227T11:14:13Z | Docker registry UI made with love  | https://github.com/Tchoupinax/fuzzy-engine | 7 | 0| 
+| 20220227T09:55:55Z | Same-Architecture Firmware Rehosting and Fuzzing | https://github.com/pr0me/SAFIREFUZZ | 0 | 0| 
+| 20220227T08:36:51Z | Null | https://github.com/bencer3283/FuzzyIntro | 0 | 0| 
+| 20220227T08:19:16Z | This is simple file fuzzer | https://github.com/g3un/simple-file-fuzzer | 0 | 0| 
+| 20220227T07:36:42Z | Single giggling attractive young European man with large furry beard with eyeglasses placed in shirt over gray background | https://github.com/NeveahaAdauto1991/fuzzy-giggle | 0 | 0| 
+| 20220227T07:09:01Z | Best-Selling Watch of the Week, Genuine Longines Watches with classic, classy, simple and luxurious design with quality movement | https://github.com/ZakyrahDobey95/fuzzy-octo-fortnight | 0 | 0| 
+| 20220227T06:42:56Z | Null | https://github.com/Quellcrist3/fuzzy-octo-potato | 0 | 0| 
+| 20220227T06:09:35Z | Null | https://github.com/josemluna/fuzzy-lamp | 0 | 0| 
 
 
 
