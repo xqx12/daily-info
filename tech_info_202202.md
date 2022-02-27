@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220227T13:38:24Z | teste | https://github.com/cuj/yml-exploits-vulnerabilities | 0 | 0| 
 | 20220227T13:08:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10825 | 1871| 
 | 20220227T12:56:35Z | - 👀 Exploit Free & Open Source | https://github.com/skyMateus/skyExploit | 0 | 0| 
 | 20220227T12:48:20Z | im into metaploit,cross-script-injections,basically web-based attacks. i enjoy learning how the code operates inside a website while exploiting its weaknesses | https://github.com/xss-pariah/XSS-PARIAH | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220227T08:42:18Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 83 | 14| 
 | 20220227T02:27:12Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
 | 20220227T01:59:53Z | Null | https://github.com/ksecurity45/exploit-me.com | 0 | 0| 
-| 20220227T00:55:39Z | ⭐This is a list of new updated console scripts! These are all to change the look of discord or giving you cool stuff | https://github.com/GarudaID/Discord-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
