@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220227T13:09:48Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
+| 20220227T13:42:02Z | cve-2022-0185 | kctf exploit | https://github.com/shahparkhan/cve-2022-0185 | | 
+| 20220227T13:42:02Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
+| 20220227T13:41:07Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
 | 20220227T12:15:52Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220227T11:31:05Z | cve-2022-23131 | Null | https://github.com/Fa1c0n35/zabbix-cve-2022-23131 | | 
-| 20220227T10:33:02Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
 | 20220226T17:41:47Z | CVE-2020-18326 | Exploit PoC for CVE-2020-18326 | https://github.com/hamm0nz/CVE-2020-18326 | | 
 | 20220226T17:41:26Z | CVE-2020-18325 | Exploit PoC for CVE-2020-18325 | https://github.com/hamm0nz/CVE-2020-18325 | | 
 | 20220226T17:41:07Z | CVE-2020-18324 | Exploit PoC for CVE-2020-18324 | https://github.com/hamm0nz/CVE-2020-18324 | | 
 | 20220226T12:52:41Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | | 
 | 20220226T10:12:45Z | CVE-2022-24086 | CVE-2022-24086  RCE | https://github.com/shakeman8/CVE-2022-24086-RCE | | 
-| 20220226T06:23:59Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220227T13:42:02Z | kctf exploit | https://github.com/shahparkhan/cve-2022-0185 | 0 | 0| 
 | 20220227T13:38:24Z | teste | https://github.com/cuj/yml-exploits-vulnerabilities | 0 | 0| 
 | 20220227T13:08:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10825 | 1871| 
 | 20220227T12:56:35Z | - 👀 Exploit Free & Open Source | https://github.com/skyMateus/skyExploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220227T11:06:27Z | Null | https://github.com/LogMoss/exploit_site | 0 | 0| 
 | 20220227T08:42:18Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 83 | 14| 
 | 20220227T02:27:12Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
-| 20220227T01:59:53Z | Null | https://github.com/ksecurity45/exploit-me.com | 0 | 0| 
 
 
 # backdoor on Github 推荐
