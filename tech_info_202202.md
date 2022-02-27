@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220226T23:39:12Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
+| 20220227T01:16:36Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220226T23:35:03Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
 | 20220226T22:38:56Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
 | 20220226T17:41:47Z | CVE-2020-18326 | Exploit PoC for CVE-2020-18326 | https://github.com/hamm0nz/CVE-2020-18326 | | 
@@ -94,9 +94,9 @@
 | 20220227T00:55:39Z | ⭐This is a list of new updated console scripts! These are all to change the look of discord or giving you cool stuff | https://github.com/GarudaID/Discord-Exploit | 1 | 0| 
 | 20220227T00:32:10Z | * 0.1 | https://github.com/PunkedOut/Punked-Hub | 0 | 0| 
 | 20220226T23:37:00Z | a gui exploit for fellow road blocks script kiddies (wip) | https://github.com/ncax/voidsploit | 0 | 0| 
+| 20220226T22:55:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2321 | 265| 
 | 20220226T22:29:47Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4367 | 578| 
 | 20220226T21:09:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10822 | 1871| 
-| 20220226T13:09:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2318 | 265| 
 | 20220226T12:52:41Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | 4 | 1| 
 | 20220226T12:21:34Z | A new roblox exploit | https://github.com/malthis2/wolfieshack.github.io | 0 | 0| 
 | 20220226T11:17:34Z | Null | https://github.com/J0lm3d0/EtternalBlue8_Exploit_Python3 | 0 | 0| 
@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220227T00:39:28Z | Linux Kernel Mode(LKM) rootkit capable of hiding itself, processes/implants, protecting itself from being rmmod%ed, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 4 | 0| 
+| 20220227T01:31:01Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 4 | 0| 
 | 20220226T16:01:05Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 20 | 1| 
 | 20220226T15:07:33Z | A simple, drop-in reverse shell handler for multiple backdoor connections. Made for CNY Hackathon. | https://github.com/bocajspear1/bdmultiplexer | 1 | 2| 
 | 20220226T13:48:33Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 72 | 20| 
@@ -147,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220227T01:32:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7128 | 1509| 
+| 20220226T21:33:30Z | Null | https://github.com/CMOISDEAD/fuzzy-happiness | 0 | 0| 
+| 20220226T21:31:58Z | Null | https://github.com/WesleyScott99/FuzzyLogicChess | 1 | 0| 
+| 20220226T18:19:40Z | Null | https://github.com/BurnsD/fuzzy-robot | 0 | 0| 
+| 20220226T17:08:53Z | Null | https://github.com/Calajese/fuzzy-guide | 0 | 0| 
 | 20220226T13:40:59Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 10 | 1| 
 | 20220226T11:48:14Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4687 | 479| 
-| 20220226T11:39:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7126 | 1507| 
 | 20220226T11:37:15Z | NPTEL :  Fuzzy Logic and Neural Networks codes | https://github.com/nehalbk/Fuzzy-Logic-and-Neural-Networks | 0 | 0| 
 | 20220226T09:20:15Z | fuzzy-octo-chainsaw used to split, split solid or hard ones | https://github.com/JaizaClap1986/fuzzy-octo-chainsaw | 0 | 0| 
 | 20220226T09:13:44Z | Taneko is an %octopus% - a cute cross between a tako (octopus) and a neko (cat) who captures the octopus%s talent for camouflage and mimicry, and a faint cuteness | https://github.com/ZiaireZedaker/fuzzy-octo-dollop | 0 | 0| 
-| 20220226T04:49:42Z | Null | https://github.com/adaliuBC/software_fuzzing | 0 | 0| 
-| 20220226T04:08:46Z | Hyper-V Fuzzer using hAFL2 | https://github.com/blackcon/HVFUZZ | 0 | 0| 
-| 20220226T02:17:47Z | Fuzzing Web Sites Directories | https://github.com/dock0d1/fuzzerex | 0 | 0| 
-| 20220226T00:42:00Z | Null | https://github.com/lovedeepkaursaini/FuzzyNeighbor | 0 | 0| 
 
 
 
