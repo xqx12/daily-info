@@ -74,9 +74,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220226T11:20:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2732 | 399| 
-| 20220226T10:48:03Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 147 | 9| 
-| 20220226T05:44:21Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 424 | 62| 
+| 20220226T21:56:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 200 | 14| 
+| 20220226T21:46:19Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 156 | 9| 
+| 20220226T17:39:38Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 426 | 62| 
+| 20220226T16:20:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2733 | 399| 
 
 
 # big4 on Github 推荐
