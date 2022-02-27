@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220227T01:59:53Z | Null | https://github.com/ksecurity45/exploit-me.com | 0 | 0| 
 | 20220227T00:55:39Z | ⭐This is a list of new updated console scripts! These are all to change the look of discord or giving you cool stuff | https://github.com/GarudaID/Discord-Exploit | 1 | 0| 
 | 20220227T00:32:10Z | * 0.1 | https://github.com/PunkedOut/Punked-Hub | 0 | 0| 
 | 20220226T23:37:00Z | a gui exploit for fellow road blocks script kiddies (wip) | https://github.com/ncax/voidsploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220226T12:52:41Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | 4 | 1| 
 | 20220226T12:21:34Z | A new roblox exploit | https://github.com/malthis2/wolfieshack.github.io | 0 | 0| 
 | 20220226T11:17:34Z | Null | https://github.com/J0lm3d0/EtternalBlue8_Exploit_Python3 | 0 | 0| 
-| 20220226T10:59:20Z | Welcome To Gentlemens Gui, A Require Script Compiled With All The Best Scripts, And GUIS. To install it, simply get the text file in readme.md and copty it into your executor | https://github.com/jevam/GentlemensGui | 0 | 0| 
 
 
 # backdoor on Github 推荐
