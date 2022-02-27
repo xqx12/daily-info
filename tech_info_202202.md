@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220227T01:48:11Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
 | 20220227T01:16:36Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
-| 20220226T23:35:03Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
 | 20220226T22:38:56Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
 | 20220226T17:41:47Z | CVE-2020-18326 | Exploit PoC for CVE-2020-18326 | https://github.com/hamm0nz/CVE-2020-18326 | | 
 | 20220226T17:41:26Z | CVE-2020-18325 | Exploit PoC for CVE-2020-18325 | https://github.com/hamm0nz/CVE-2020-18325 | | 
