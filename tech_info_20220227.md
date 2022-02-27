@@ -38,11 +38,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220227T13:08:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10825 | 1871| 
 | 20220227T12:56:35Z | - 👀 Exploit Free & Open Source | https://github.com/skyMateus/skyExploit | 0 | 0| 
 | 20220227T12:48:20Z | im into metaploit,cross-script-injections,basically web-based attacks. i enjoy learning how the code operates inside a website while exploiting its weaknesses | https://github.com/xss-pariah/XSS-PARIAH | 0 | 0| 
 | 20220227T12:15:18Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 18 | 3| 
 | 20220227T11:54:29Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6733 | 1560| 
-| 20220227T11:26:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10826 | 1871| 
 | 20220227T11:06:27Z | Null | https://github.com/LogMoss/exploit_site | 0 | 0| 
 | 20220227T08:42:18Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 83 | 14| 
 | 20220227T02:27:12Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
