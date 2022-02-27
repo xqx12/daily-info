@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220227T01:48:11Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
+| 20220227T02:37:04Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
 | 20220227T01:16:36Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
 | 20220226T22:38:56Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
 | 20220226T17:41:47Z | CVE-2020-18326 | Exploit PoC for CVE-2020-18326 | https://github.com/hamm0nz/CVE-2020-18326 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220227T02:27:12Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
 | 20220227T01:59:53Z | Null | https://github.com/ksecurity45/exploit-me.com | 0 | 0| 
 | 20220227T00:55:39Z | ⭐This is a list of new updated console scripts! These are all to change the look of discord or giving you cool stuff | https://github.com/GarudaID/Discord-Exploit | 1 | 0| 
 | 20220227T00:32:10Z | * 0.1 | https://github.com/PunkedOut/Punked-Hub | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220226T21:09:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10822 | 1871| 
 | 20220226T12:52:41Z | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | 4 | 1| 
 | 20220226T12:21:34Z | A new roblox exploit | https://github.com/malthis2/wolfieshack.github.io | 0 | 0| 
-| 20220226T11:17:34Z | Null | https://github.com/J0lm3d0/EtternalBlue8_Exploit_Python3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,9 +121,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220227T02:20:36Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 427 | 62| 
 | 20220227T01:58:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 156 | 9| 
 | 20220226T21:56:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 200 | 14| 
-| 20220226T17:39:38Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 426 | 62| 
 | 20220226T16:20:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2733 | 399| 
 | 20220225T19:06:08Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 173 | 36| 
 | 20220225T15:05:06Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 201 | 46| 
