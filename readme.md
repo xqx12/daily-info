@@ -77,6 +77,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220227T13:27:50Z | Null | https://github.com/APB97/FuzzySetsCalc | 0 | 0| 
+| 20220227T13:26:48Z | Null | https://github.com/Alexzhdanyuk87/fuzzy-doodle | 0 | 0| 
 | 20220227T12:19:06Z | simple fuzzer for command line utilities  | https://github.com/3sjay/simple-fuzzer | 0 | 0| 
 | 20220227T11:39:23Z | Fuzzy Control Library which uses config files instead of requiring edits in code | https://github.com/FelixLabelle/FuzzyController | 0 | 0| 
 | 20220227T11:14:13Z | Docker registry UI made with love  | https://github.com/Tchoupinax/fuzzy-engine | 7 | 0| 
@@ -85,8 +87,6 @@
 | 20220227T08:19:16Z | This is simple file fuzzer | https://github.com/g3un/simple-file-fuzzer | 0 | 0| 
 | 20220227T07:36:42Z | Single giggling attractive young European man with large furry beard with eyeglasses placed in shirt over gray background | https://github.com/NeveahaAdauto1991/fuzzy-giggle | 0 | 0| 
 | 20220227T07:09:01Z | Best-Selling Watch of the Week, Genuine Longines Watches with classic, classy, simple and luxurious design with quality movement | https://github.com/ZakyrahDobey95/fuzzy-octo-fortnight | 0 | 0| 
-| 20220227T06:42:56Z | Null | https://github.com/Quellcrist3/fuzzy-octo-potato | 0 | 0| 
-| 20220227T06:09:35Z | Null | https://github.com/josemluna/fuzzy-lamp | 0 | 0| 
 
 
 
