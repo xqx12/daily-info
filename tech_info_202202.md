@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220228T02:09:10Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
+| 20220228T02:21:54Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
 | 20220228T01:52:47Z | CVE-2022-2222 | CVE-2022-2222 | https://github.com/KiritoLoveAsuna/CVE-2022-2222 | | 
 | 20220228T01:08:03Z | CVE-2022-1111 | CVE-2022-1111 | https://github.com/KiritoLoveAsuna/CVE-2022-1111 | | 
 | 20220227T23:59:51Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
