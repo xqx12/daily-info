@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220228T01:52:47Z | CVE-2022-2222 | CVE-2022-2222 | https://github.com/KiritoLoveAsuna/CVE-2022-2222 | | 
 | 20220228T01:50:38Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
 | 20220228T01:08:03Z | CVE-2022-1111 | CVE-2022-1111 | https://github.com/KiritoLoveAsuna/CVE-2022-1111 | | 
 | 20220227T23:59:51Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
@@ -55,7 +56,6 @@
 | 20220226T17:41:47Z | CVE-2020-18326 | Exploit PoC for CVE-2020-18326 | https://github.com/hamm0nz/CVE-2020-18326 | | 
 | 20220226T17:41:26Z | CVE-2020-18325 | Exploit PoC for CVE-2020-18325 | https://github.com/hamm0nz/CVE-2020-18325 | | 
 | 20220226T17:41:07Z | CVE-2020-18324 | Exploit PoC for CVE-2020-18324 | https://github.com/hamm0nz/CVE-2020-18324 | | 
-| 20220226T12:52:41Z | CVE-2021-31166 | Different rules to detect if CVE-2021-31166 is being exploited | https://github.com/mvlnetdev/CVE-2021-31166-detection-rules | | 
 
 
 # klee on Github 推荐
