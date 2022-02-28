@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:28:42Z | Null | https://github.com/DmodvGH/BackDoorBot | 1 | 0| 
 | 20220228T13:13:51Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 129 | 32| 
 | 20220228T12:45:43Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 0 | 0| 
 | 20220228T11:57:51Z | AV evading Backdoor Framework | https://github.com/3subs/OSRipper | 1 | 0| 
@@ -115,7 +116,6 @@
 | 20220228T02:46:47Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/War | 0 | 0| 
 | 20220227T19:00:42Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 10 | 0| 
 | 20220227T10:40:17Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 21 | 1| 
-| 20220227T10:24:00Z | Python based hacking tool designed for linux | https://github.com/FlynAber/Exiled | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
