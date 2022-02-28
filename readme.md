@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:37:28Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1470 | 280| 
 | 20220228T12:32:57Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 240 | 14| 
 | 20220228T11:11:11Z | I WANT TO BECOME A PROFIONAL HACKER | https://github.com/Bogoy123/fuzzy-octo-waddle | 0 | 0| 
 | 20220228T11:01:49Z | Null | https://github.com/KhedoussiAr/fuzzy-waffle | 0 | 0| 

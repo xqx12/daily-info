@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:37:28Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1470 | 280| 
 | 20220228T12:32:57Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 240 | 14| 
 | 20220228T11:11:11Z | I WANT TO BECOME A PROFIONAL HACKER | https://github.com/Bogoy123/fuzzy-octo-waddle | 0 | 0| 
 | 20220228T11:01:49Z | Null | https://github.com/KhedoussiAr/fuzzy-waffle | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220228T10:15:02Z | Null | https://github.com/Ivaylogi98/FuzzyProject | 0 | 0| 
 | 20220228T05:39:37Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 496 | 50| 
 | 20220228T02:49:26Z | Null | https://github.com/LegendSaber/Fuzzer | 0 | 0| 
-| 20220227T23:58:50Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1469 | 280| 
 | 20220227T23:55:08Z | Null | https://github.com/anakinZhe/FuzzyInterviewChallenge | 0 | 0| 
 | 20220227T23:09:19Z | Algoritmos e data coletada do meu projeto para Iniciação Científica | https://github.com/Shinku159/IC-Agrupamento_Fuzzy | 0 | 0| 
 
