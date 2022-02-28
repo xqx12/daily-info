@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220228 | 自动生成对抗性文本序列攻击 NLP 预测模型 | https://github.com/QData/deepWordBug| 
+| 20220228 | 近些年国内各个安全相关会议的 PPT 整理 | https://github.com/FeeiCN/Security-PPT| 
+| 20220228 | MISP - 开源威胁情报和共享平台 | https://github.com/MISP/MISP| 
+| 20220228 | Container Security Checklist: From the image to the workload | https://github.com/krol3/container-security-checklist| 
+| 20220228 | Smuggling HTTP requests over fake WebSocket connection | https://github.com/0ang3el/websocket-smuggle| 
+| 20220228 | 利用 Carbon Black Cloud Workload Appliance 和 vRealize Operations Manager 的多个漏洞实现 RCE | https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/| 
+| 20220228 | 在 Fuzz 网络应用的时候，将网络的接收和发送重定向到标准输入和输出，方便使用 AFL Fuzz 测试 | https://github.com/fkie-cad/libdesock| 
+| 20220228 | Windows win32kfull.sys 一个空指针解引用漏洞的分析 | http://www.thezdi.com/blog/2021/1/27/zdi-can-12671-windows-kernel-dosprivilege-escalation-via-a-null-pointer-deref| 
+| 20220228 | Fortinet 对 SoulSearcher 恶意软件样本的分析 | https://www.fortinet.com/blog/threat-research/unraveling-the-evolution-of-the-soul-searcher-malware| 
 | 20220225 | 基于向日葵 RCE 的 LPE 漏洞 PoC | https://github.com/Ryze-T/CNVD-2022-10270-LPE| 
 | 20220225 | 自动生成 Fuzz Driver，Fuzz macOS 闭源 SDK | https://github.com/occia/apicraft| 
 | 20220225 | G.O.S.S.I.P 学术论文推荐 - “Model Stealing Attacks Against Inductive Graph Neural Networks” | https://mp.weixin.qq.com/s/VeGMQPFcXJqWUB7_W_7Pvw| 
@@ -17,20 +26,12 @@
 | 20220225 | ASP.NET下的内存马(3) HttpListener内存马. | https://tttang.com/archive/1451/| 
 | 20220224 | Stealing a few more GitHub Actions secrets | http://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html| 
 | 20220224 | Logic Flaw Leading to RCE in Dynamicweb 9.5.0 - 9.12.7 | https://blog.assetnote.io/2022/02/20/logicflaw-dynamicweb-rce/| 
-| 20220224 | Kunlun Lab 研究员 Zweig 公开了 iOS 15 的内核漏洞 CVE-2021-30955 的细节 | https://www.cyberkl.com/cvelist/cvedetail/24| 
-| 20220224 | Windows 11 版本 KUSER_SHARED_DATA 结构体变化的研究 | https://connormcgarr.github.io/kuser-shared-data-changes-win-11/| 
-| 20220224 | 有研究员发表 Paper “Trust Dies in Darkness: Shedding Light on Samsung’s TrustZone Keymaster Design”，称三星手机的硬件加密 Key 可以被还原 | https://threatpost.com/samsung-shattered-encryption-on-100m-phones/178606/| 
-| 20220224 | 利用 CodeQL IR 和 Clang checkers 检测可控数据作为循环条件或用于指针操作的 Bug | http://www.thezdi.com/blog/2022/2/22/clang-checkers-and-codeql-queries-for-detecting-untrusted-pointer-derefs-and-tainted-loop-conditions| 
-| 20220224 | Google 正在将 Kernel Stack Overflow Mitigation 移植到 32-bit ARM CPU 中 | https://security.googleblog.com/2022/02/mitigating-kernel-risks-on-32-bit-arm.html| 
-| 20220224 | Maat - Trail of Bits 开源的一个跨平台的符号执行框架 | http://blog.trailofbits.com/2022/02/23/maat-symbolic-execution-made-easy/| 
-| 20220224 | 剖析 ELF 文件格式的研究. | http://0x434b.dev/dissecting-and-exploiting-elf-files/| 
-| 20220224 | shellcode题目整理. | http://tttang.com/archive/1447/| 
-| 20220223 | cargo-libafl - Fuzz Rust code with LibAFL | https://github.com/AFLplusplus/cargo-libafl| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220228 | 攻击者入侵窃数据，英伟达反手来攻击？ | https://mp.weixin.qq.com/s/mLwmFY1L3OUGTE5K_jkmgw| 
 | 20220227 | 自定义AWVS的Docker镜像 | https://mp.weixin.qq.com/s/uwTUzinq1v9U7moqfatVOA| 
 | 20220225 | SecCrawler: 每日安全日报的爬虫和推送程序 | https://github.com/Le0nsec/SecCrawler| 
 | 20220225 | cheatsheet: 信安技术羊皮卷 | https://github.com/LubyRuffy/cheatsheet| 
@@ -40,37 +41,36 @@
 | 20220225 | CodeQL 与 Shiro550 碰撞 | https://paper.seebug.org/1839/| 
 | 20220225 | 路由器TP-Link WR740后门漏洞 | https://mp.weixin.qq.com/s/SWFLV6H1zKWQyvnC0JGGhg| 
 | 20220225 | Parallels Desktop虚拟机逃逸 | https://dawnslab.jd.com/pd-exploit-blog1/| 
-| 20220225 | k8s安全入门 | https://mp.weixin.qq.com/s/T2QGLlKwjaUByDtGFL94PQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220228T02:50:25Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
-| 20220228T01:52:47Z | CVE-2022-2222 | CVE-2022-2222 | https://github.com/KiritoLoveAsuna/CVE-2022-2222 | | 
-| 20220228T01:08:03Z | CVE-2022-1111 | CVE-2022-1111 | https://github.com/KiritoLoveAsuna/CVE-2022-1111 | | 
-| 20220227T23:59:51Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
-| 20220227T18:21:35Z | CVE-2022-24086 | CVE-2022-24086 about Magento RCE  | https://github.com/Mr-xn/CVE-2022-24086 | | 
-| 20220227T13:42:02Z | cve-2022-0185 | kctf exploit | https://github.com/shahparkhan/cve-2022-0185 | | 
-| 20220227T11:31:05Z | cve-2022-23131 | Null | https://github.com/Fa1c0n35/zabbix-cve-2022-23131 | | 
-| 20220226T17:41:47Z | CVE-2020-18326 | Exploit PoC for CVE-2020-18326 | https://github.com/hamm0nz/CVE-2020-18326 | | 
-| 20220226T17:41:26Z | CVE-2020-18325 | Exploit PoC for CVE-2020-18325 | https://github.com/hamm0nz/CVE-2020-18325 | | 
-| 20220226T17:41:07Z | CVE-2020-18324 | Exploit PoC for CVE-2020-18324 | https://github.com/hamm0nz/CVE-2020-18324 | | 
+| 20220228T12:58:12Z | CVE-2022-23131 | Zabbix - SAML SSO Authentication Bypass | https://github.com/kh4sh3i/CVE-2022-23131 | | 
+| 20220228T12:43:27Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
+| 20220228T12:43:19Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
+| 20220228T06:14:50Z | cve-2022-0185 | kctf exploit | https://github.com/shahparkhan/cve-2022-0185 | | 
+| 20220228T05:52:19Z | CVE-2022-24124 | POC for CVE-2022-24124 | https://github.com/ColdFusionX/CVE-2022-24124 | | 
+| 20220228T05:24:20Z | CVE-2022-24086 | CVE-2022-24086  RCE | https://github.com/shakeman8/CVE-2022-24086-RCE | | 
+| 20220228T04:46:26Z | CVE-2021-4034 | Null | https://github.com/movvamrocks/PwnKit-CVE-2021-4034 | | 
+| 20220228T03:51:56Z | CVE-2022-26158 | Null | https://github.com/l00neyhacker/CVE-2022-26158 | | 
+| 20220228T03:51:05Z | CVE-2022-26157 | Null | https://github.com/l00neyhacker/CVE-2022-26157 | | 
+| 20220228T03:50:12Z | CVE-2022-26156 | Null | https://github.com/l00neyhacker/CVE-2022-26156 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T02:42:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5288 | 193| 
-| 20220228T02:27:23Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 513 | 32| 
+| 20220228T12:54:41Z | Buildbot scripts for the KLEE project | https://github.com/klee/legacy-klee-buildbot | 1 | 0| 
+| 20220228T11:42:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5290 | 193| 
+| 20220228T10:51:32Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 526 | 33| 
+| 20220228T10:26:35Z | Null | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
+| 20220228T09:48:05Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 227 | 37| 
 | 20220227T14:43:44Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/ModdingForBlockheads/KleeSlabs | 10 | 3| 
 | 20220226T09:35:36Z | Config files for my GitHub profile. | https://github.com/MoniKLee/MoniKLee | 0 | 0| 
 | 20220226T09:31:14Z | Config files for my GitHub profile. | https://github.com/ChanAndKlee/ChanAndKlee | 0 | 0| 
 | 20220225T21:19:24Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 221 | 24| 
-| 20220225T05:21:02Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 226 | 37| 
 | 20220224T13:29:06Z | Config files for my GitHub profile. | https://github.com/TMcKleen007/TMcKleen007 | 0 | 0| 
-| 20220222T12:41:32Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
-| 20220220T16:21:49Z | Logiciel d%affichage dynamique | https://github.com/Allofame/kleenyaffichage | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T02:33:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2346 | 269| 
-| 20220228T02:30:05Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 132 | 43| 
-| 20220228T02:01:41Z | Null | https://github.com/AMTitan/Copy-and-Paste-Exploit | 0 | 0| 
-| 20220228T00:53:54Z | Exploits for sites used for educational purposes, | https://github.com/unc0vrd/EducationExploits | 0 | 0| 
-| 20220227T22:49:58Z | Exercice Vuejs pour exploiter une API | https://github.com/CedgonzalDevCda/API_Typicode | 0 | 0| 
-| 20220227T22:42:44Z | Ginny exploit Premium  Can execute most scripts  Tab System does not work right now  Level 7   executor  EasyExploits DLL (Upgrading soon)  Weekly Updates  Made by Ginny#0007 And 𝕱𝖆𝖙𝖊#7588  Discord server! : https://discord.gg/Ybk5wyvJws | https://github.com/Ginny1807/Ginny-exploit-Premium- | 0 | 0| 
-| 20220227T21:44:41Z | Null | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | 1 | 0| 
-| 20220227T21:15:51Z | Lumberjack: An Active Directory vulnerability identification, exploitation, & reporting tool  | https://github.com/TG-Coder101/Lumberjack | 0 | 0| 
-| 20220227T20:14:20Z | Highlights from vulnerabilities I%ve discovered and original exploits | https://github.com/billchaison/trophies | 1 | 0| 
-| 20220227T19:46:54Z | Actividad 11 - Offensive Security | https://github.com/WanManolo/custom-exploit | 0 | 0| 
+| 20220228T12:37:45Z | Google Hacking Database (GHDB) - Exploit-DB | https://github.com/readloud/ghdb | 0 | 0| 
+| 20220228T12:21:49Z | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | 0 | 0| 
+| 20220228T11:34:52Z | Application platforms that allow the exploitation, sharing and analysis of big data such as Google Earth Engine, Amazon Web Service, Hadoop... have gradually become essential tools for the exploitation and application of telematics data. detective. | https://github.com/AvereySchauble/data-analytics-platform | 0 | 0| 
+| 20220228T11:30:57Z | Walkthroughs of exploit education | https://github.com/2baias/exploit_education | 0 | 0| 
+| 20220228T11:10:21Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 169 | 106| 
+| 20220228T10:35:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1034 | 172| 
+| 20220228T09:33:36Z | SPVREDDY spv reddy venkatreddy sreepuram Security Enthusiast, Speaker and Penetration Testing Engineer with 6 years of experience in Cyber Security domain and 5 Years of Corporate experience in handling Vulnerability Assessment and Penetration Testing on Web Applications, Mobile Applications, API%s, Networks, Wireless Security and thick clients. Delivered talks in multiple Conferences, Workshops, Chapter meets and Webinars covering 5000+ members. Reported Critical Vulnerabilities in more than 25 Government websites leaking sensitive information of users and helped them to patch them. Ability to handle SAST (Static Application Security Testing), SAST (Dynamic Application Security Testing), End to End Product Security Operations and Penetration Testing. Good Knowledge on Software Defined Radio (SDR) Exploitation, Radio Frequency Identification Devices(RFID) and FRID tags. | https://github.com/spvreddy/spvreddy.github.io | 0 | 1| 
+| 20220228T09:18:57Z | Using dapptool to rediscover popsicle exploit | https://github.com/hellwolf/popsicle-exploit | 0 | 0| 
+| 20220228T08:14:18Z | Attempt to derive insights from data to find a player%s %Patterns of Play%. These can be exploited in a match. | https://github.com/kartikchincholikar/Badminton-Analysis | 0 | 0| 
+| 20220228T07:10:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 330 | 99| 
 
 
 # backdoor on Github 推荐
