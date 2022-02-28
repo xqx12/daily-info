@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:35:51Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 1 | 0| 
 | 20220228T13:18:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1035 | 172| 
 | 20220228T13:08:10Z | Google Hacking Database (GHDB) - Exploit-DB | https://github.com/readloud/ghdb | 0 | 0| 
 | 20220228T12:57:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2357 | 272| 
@@ -100,7 +101,6 @@
 | 20220228T11:10:21Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 169 | 106| 
 | 20220228T09:33:36Z | SPVREDDY spv reddy venkatreddy sreepuram Security Enthusiast, Speaker and Penetration Testing Engineer with 6 years of experience in Cyber Security domain and 5 Years of Corporate experience in handling Vulnerability Assessment and Penetration Testing on Web Applications, Mobile Applications, API%s, Networks, Wireless Security and thick clients. Delivered talks in multiple Conferences, Workshops, Chapter meets and Webinars covering 5000+ members. Reported Critical Vulnerabilities in more than 25 Government websites leaking sensitive information of users and helped them to patch them. Ability to handle SAST (Static Application Security Testing), SAST (Dynamic Application Security Testing), End to End Product Security Operations and Penetration Testing. Good Knowledge on Software Defined Radio (SDR) Exploitation, Radio Frequency Identification Devices(RFID) and FRID tags. | https://github.com/spvreddy/spvreddy.github.io | 0 | 1| 
 | 20220228T09:18:57Z | Using dapptool to rediscover popsicle exploit | https://github.com/hellwolf/popsicle-exploit | 0 | 0| 
-| 20220228T08:14:18Z | Attempt to derive insights from data to find a player%s %Patterns of Play%. These can be exploited in a match. | https://github.com/kartikchincholikar/Badminton-Analysis | 0 | 0| 
 
 
 # backdoor on Github 推荐
