@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T02:46:47Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/War | 0 | 0| 
 | 20220227T19:00:42Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 10 | 0| 
 | 20220227T16:17:06Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 875 | 125| 
 | 20220227T11:57:39Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 9 | 0| 
@@ -115,7 +116,6 @@
 | 20220227T03:52:54Z | The Americium Backdoor | https://github.com/AmericiumBD/Americium | 0 | 0| 
 | 20220226T15:07:33Z | A simple, drop-in reverse shell handler for multiple backdoor connections. Made for CNY Hackathon. | https://github.com/bocajspear1/bdmultiplexer | 1 | 2| 
 | 20220226T12:32:42Z | Null | https://github.com/DmodvGH/BackDoorBot | 0 | 0| 
-| 20220226T09:46:44Z | Backdoor for web server | https://github.com/ErilinAleksei/WEB-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
