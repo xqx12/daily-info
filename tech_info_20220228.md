@@ -74,6 +74,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:59:27Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 11 | 0| 
 | 20220228T13:45:37Z | AV evading Backdoor Framework | https://github.com/3subs/OSRipper | 1 | 0| 
 | 20220228T13:28:42Z | Null | https://github.com/DmodvGH/BackDoorBot | 1 | 0| 
 | 20220228T13:13:51Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 129 | 32| 
@@ -87,6 +88,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:55:19Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 201 | 14| 
 | 20220228T13:53:14Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 434 | 63| 
 | 20220228T13:44:13Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 173 | 9| 
 

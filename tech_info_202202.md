@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:59:27Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 11 | 0| 
 | 20220228T13:45:37Z | AV evading Backdoor Framework | https://github.com/3subs/OSRipper | 1 | 0| 
 | 20220228T13:28:42Z | Null | https://github.com/DmodvGH/BackDoorBot | 1 | 0| 
 | 20220228T13:13:51Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 129 | 32| 
@@ -114,16 +115,15 @@
 | 20220228T03:59:43Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 876 | 125| 
 | 20220228T03:52:56Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 10 | 1| 
 | 20220228T02:46:47Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/War | 0 | 0| 
-| 20220227T19:00:42Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 10 | 0| 
 | 20220227T10:40:17Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 21 | 1| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:55:19Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 201 | 14| 
 | 20220228T13:53:14Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 434 | 63| 
 | 20220228T13:44:13Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 173 | 9| 
-| 20220226T21:56:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 200 | 14| 
 | 20220226T16:20:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2733 | 399| 
 | 20220225T19:06:08Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 173 | 36| 
 | 20220225T15:05:06Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 201 | 46| 
