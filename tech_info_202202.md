@@ -15,6 +15,7 @@
 | 20220228 | 在 Fuzz 网络应用的时候，将网络的接收和发送重定向到标准输入和输出，方便使用 AFL Fuzz 测试 | https://github.com/fkie-cad/libdesock| 
 | 20220228 | Windows win32kfull.sys 一个空指针解引用漏洞的分析 | http://www.thezdi.com/blog/2021/1/27/zdi-can-12671-windows-kernel-dosprivilege-escalation-via-a-null-pointer-deref| 
 | 20220228 | Fortinet 对 SoulSearcher 恶意软件样本的分析 | https://www.fortinet.com/blog/threat-research/unraveling-the-evolution-of-the-soul-searcher-malware| 
+| 20220228 | SIM Hijacking（译文） | http://tttang.com/archive/1446/| 
 | 20220225 | 基于向日葵 RCE 的 LPE 漏洞 PoC | https://github.com/Ryze-T/CNVD-2022-10270-LPE| 
 | 20220225 | 自动生成 Fuzz Driver，Fuzz macOS 闭源 SDK | https://github.com/occia/apicraft| 
 | 20220225 | G.O.S.S.I.P 学术论文推荐 - “Model Stealing Attacks Against Inductive Graph Neural Networks” | https://mp.weixin.qq.com/s/VeGMQPFcXJqWUB7_W_7Pvw| 
@@ -25,7 +26,6 @@
 | 20220225 | 取证分析公司 Passware 称他们发现了一个 Apple T2 芯片的漏洞，可以破解磁盘加密的密码 | http://9to5mac.com/2022/02/17/t2-mac-security-vulnerability-passware/| 
 | 20220225 | ASP.NET下的内存马(3) HttpListener内存马. | https://tttang.com/archive/1451/| 
 | 20220224 | Stealing a few more GitHub Actions secrets | http://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html| 
-| 20220224 | Logic Flaw Leading to RCE in Dynamicweb 9.5.0 - 9.12.7 | https://blog.assetnote.io/2022/02/20/logicflaw-dynamicweb-rce/| 
 
 
 # 安全维基 推荐

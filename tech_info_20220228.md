@@ -15,6 +15,7 @@
 | 20220228 | 在 Fuzz 网络应用的时候，将网络的接收和发送重定向到标准输入和输出，方便使用 AFL Fuzz 测试 | https://github.com/fkie-cad/libdesock| 
 | 20220228 | Windows win32kfull.sys 一个空指针解引用漏洞的分析 | http://www.thezdi.com/blog/2021/1/27/zdi-can-12671-windows-kernel-dosprivilege-escalation-via-a-null-pointer-deref| 
 | 20220228 | Fortinet 对 SoulSearcher 恶意软件样本的分析 | https://www.fortinet.com/blog/threat-research/unraveling-the-evolution-of-the-soul-searcher-malware| 
+| 20220228 | SIM Hijacking（译文） | http://tttang.com/archive/1446/| 
 
 
 # 安全维基 推荐
