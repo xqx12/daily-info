@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T02:30:05Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 132 | 43| 
 | 20220228T02:01:41Z | Null | https://github.com/AMTitan/Copy-and-Paste-Exploit | 0 | 0| 
 | 20220228T01:51:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2345 | 269| 
 | 20220228T00:53:54Z | Exploits for sites used for educational purposes, | https://github.com/unc0vrd/EducationExploits | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220227T21:15:51Z | Lumberjack: An Active Directory vulnerability identification, exploitation, & reporting tool  | https://github.com/TG-Coder101/Lumberjack | 0 | 0| 
 | 20220227T20:14:20Z | Highlights from vulnerabilities I%ve discovered and original exploits | https://github.com/billchaison/trophies | 1 | 0| 
 | 20220227T19:46:54Z | Actividad 11 - Offensive Security | https://github.com/WanManolo/custom-exploit | 0 | 0| 
-| 20220227T18:35:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10827 | 1871| 
 
 
 # backdoor on Github 推荐
