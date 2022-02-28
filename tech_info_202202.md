@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20220228 | 攻击者入侵窃数据，英伟达反手来攻击？ | https://mp.weixin.qq.com/s/mLwmFY1L3OUGTE5K_jkmgw| 
 | 20220228 | 以PoC迁移促进漏洞评估 | https://mp.weixin.qq.com/s/_jZyco_HxlLOMiI2sS1FYA| 
+| 20220228 | SecWiki周刊（第417期) | https://www.sec-wiki.com/weekly/417| 
 | 20220227 | 自定义AWVS的Docker镜像 | https://mp.weixin.qq.com/s/uwTUzinq1v9U7moqfatVOA| 
 | 20220225 | SecCrawler: 每日安全日报的爬虫和推送程序 | https://github.com/Le0nsec/SecCrawler| 
 | 20220225 | cheatsheet: 信安技术羊皮卷 | https://github.com/LubyRuffy/cheatsheet| 
@@ -40,7 +41,6 @@
 | 20220225 | 企业级安全智能化实践指南 | https://github.com/404notf0und/AI-for-Security-Landing| 
 | 20220225 | 针对Cookie同意和 GDPR 违规的自动化检测工具 | https://www.anquanke.com/post/id/267338| 
 | 20220225 | CodeQL 与 Shiro550 碰撞 | https://paper.seebug.org/1839/| 
-| 20220225 | 路由器TP-Link WR740后门漏洞 | https://mp.weixin.qq.com/s/SWFLV6H1zKWQyvnC0JGGhg| 
 
 
 # CVE Github 推荐

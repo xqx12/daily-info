@@ -22,6 +22,7 @@
 | --- | --- | ---| 
 | 20220228 | 攻击者入侵窃数据，英伟达反手来攻击？ | https://mp.weixin.qq.com/s/mLwmFY1L3OUGTE5K_jkmgw| 
 | 20220228 | 以PoC迁移促进漏洞评估 | https://mp.weixin.qq.com/s/_jZyco_HxlLOMiI2sS1FYA| 
+| 20220228 | SecWiki周刊（第417期) | https://www.sec-wiki.com/weekly/417| 
 
 
 # CVE Github 推荐
