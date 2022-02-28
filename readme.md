@@ -71,14 +71,19 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T12:45:43Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 0 | 0| 
+| 20220228T11:57:51Z | AV evading Backdoor Framework | https://github.com/3subs/OSRipper | 1 | 0| 
+| 20220228T08:36:06Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 63 | 5| 
+| 20220228T03:59:43Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 876 | 125| 
+| 20220228T03:52:56Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 10 | 1| 
 | 20220228T02:46:47Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/War | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T02:27:21Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 164 | 9| 
-| 20220228T00:55:31Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 431 | 63| 
+| 20220228T10:41:50Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 172 | 9| 
+| 20220228T06:11:37Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 433 | 63| 
 
 
 # big4 on Github 推荐

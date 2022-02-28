@@ -106,23 +106,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T12:45:43Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 0 | 0| 
+| 20220228T11:57:51Z | AV evading Backdoor Framework | https://github.com/3subs/OSRipper | 1 | 0| 
+| 20220228T08:36:06Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 63 | 5| 
+| 20220228T03:59:43Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 876 | 125| 
+| 20220228T03:52:56Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 10 | 1| 
 | 20220228T02:46:47Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/War | 0 | 0| 
 | 20220227T19:00:42Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 10 | 0| 
-| 20220227T16:17:06Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 875 | 125| 
-| 20220227T11:57:39Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 9 | 0| 
 | 20220227T10:40:17Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 21 | 1| 
 | 20220227T10:24:00Z | Python based hacking tool designed for linux | https://github.com/FlynAber/Exiled | 2 | 0| 
 | 20220227T08:15:12Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 73 | 20| 
-| 20220227T03:52:54Z | The Americium Backdoor | https://github.com/AmericiumBD/Americium | 0 | 0| 
-| 20220226T15:07:33Z | A simple, drop-in reverse shell handler for multiple backdoor connections. Made for CNY Hackathon. | https://github.com/bocajspear1/bdmultiplexer | 1 | 2| 
-| 20220226T12:32:42Z | Null | https://github.com/DmodvGH/BackDoorBot | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T02:27:21Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 164 | 9| 
-| 20220228T00:55:31Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 431 | 63| 
+| 20220228T10:41:50Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 172 | 9| 
+| 20220228T06:11:37Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 433 | 63| 
 | 20220226T21:56:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 200 | 14| 
 | 20220226T16:20:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2733 | 399| 
 | 20220225T19:06:08Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 173 | 36| 
