@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220228T02:21:54Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
+| 20220228T02:50:25Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
 | 20220228T01:52:47Z | CVE-2022-2222 | CVE-2022-2222 | https://github.com/KiritoLoveAsuna/CVE-2022-2222 | | 
 | 20220228T01:08:03Z | CVE-2022-1111 | CVE-2022-1111 | https://github.com/KiritoLoveAsuna/CVE-2022-1111 | | 
 | 20220227T23:59:51Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T02:49:26Z | Null | https://github.com/LegendSaber/Fuzzer | 0 | 0| 
 | 20220227T23:58:50Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1469 | 280| 
 | 20220227T23:55:08Z | Null | https://github.com/anakinZhe/FuzzyInterviewChallenge | 0 | 0| 
 | 20220227T23:09:19Z | Algoritmos e data coletada do meu projeto para Iniciação Científica | https://github.com/Shinku159/IC-Agrupamento_Fuzzy | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20220227T20:33:14Z | Null | https://github.com/dezo505/Fuzzy-Systems-creator | 0 | 0| 
 | 20220227T20:24:23Z | Null | https://github.com/k3an3/remote-fuzzer | 0 | 0| 
 | 20220227T20:04:07Z | Null | https://github.com/leooo99/fuzzer2 | 0 | 0| 
-| 20220227T19:56:50Z | C++ Regex Fuzzer and Analyzer | https://github.com/Deruago/DREGX | 1 | 0| 
 
 
 
