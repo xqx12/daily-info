@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220228 | 攻击者入侵窃数据，英伟达反手来攻击？ | https://mp.weixin.qq.com/s/mLwmFY1L3OUGTE5K_jkmgw| 
+| 20220228 | 以PoC迁移促进漏洞评估 | https://mp.weixin.qq.com/s/_jZyco_HxlLOMiI2sS1FYA| 
 | 20220227 | 自定义AWVS的Docker镜像 | https://mp.weixin.qq.com/s/uwTUzinq1v9U7moqfatVOA| 
 | 20220225 | SecCrawler: 每日安全日报的爬虫和推送程序 | https://github.com/Le0nsec/SecCrawler| 
 | 20220225 | cheatsheet: 信安技术羊皮卷 | https://github.com/LubyRuffy/cheatsheet| 
@@ -40,7 +41,6 @@
 | 20220225 | 针对Cookie同意和 GDPR 违规的自动化检测工具 | https://www.anquanke.com/post/id/267338| 
 | 20220225 | CodeQL 与 Shiro550 碰撞 | https://paper.seebug.org/1839/| 
 | 20220225 | 路由器TP-Link WR740后门漏洞 | https://mp.weixin.qq.com/s/SWFLV6H1zKWQyvnC0JGGhg| 
-| 20220225 | Parallels Desktop虚拟机逃逸 | https://dawnslab.jd.com/pd-exploit-blog1/| 
 
 
 # CVE Github 推荐
@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:13:51Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 129 | 32| 
 | 20220228T12:45:43Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 0 | 0| 
 | 20220228T11:57:51Z | AV evading Backdoor Framework | https://github.com/3subs/OSRipper | 1 | 0| 
 | 20220228T08:36:06Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 63 | 5| 
@@ -115,7 +116,6 @@
 | 20220227T19:00:42Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 10 | 0| 
 | 20220227T10:40:17Z | A batch script for taking information. A bit overdeveloped, and kind of useless. | https://github.com/Takaovi/BatchStealer | 21 | 1| 
 | 20220227T10:24:00Z | Python based hacking tool designed for linux | https://github.com/FlynAber/Exiled | 2 | 0| 
-| 20220227T08:15:12Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 73 | 20| 
 
 
 # symbolic execution on Github 推荐

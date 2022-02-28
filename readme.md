@@ -21,6 +21,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220228 | 攻击者入侵窃数据，英伟达反手来攻击？ | https://mp.weixin.qq.com/s/mLwmFY1L3OUGTE5K_jkmgw| 
+| 20220228 | 以PoC迁移促进漏洞评估 | https://mp.weixin.qq.com/s/_jZyco_HxlLOMiI2sS1FYA| 
 
 
 # CVE Github 推荐
@@ -71,6 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T13:13:51Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 129 | 32| 
 | 20220228T12:45:43Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 0 | 0| 
 | 20220228T11:57:51Z | AV evading Backdoor Framework | https://github.com/3subs/OSRipper | 1 | 0| 
 | 20220228T08:36:06Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 63 | 5| 
