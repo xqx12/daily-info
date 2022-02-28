@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T02:33:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2346 | 269| 
 | 20220228T02:30:05Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 132 | 43| 
 | 20220228T02:01:41Z | Null | https://github.com/AMTitan/Copy-and-Paste-Exploit | 0 | 0| 
-| 20220228T01:51:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2345 | 269| 
 | 20220228T00:53:54Z | Exploits for sites used for educational purposes, | https://github.com/unc0vrd/EducationExploits | 0 | 0| 
 | 20220227T22:49:58Z | Exercice Vuejs pour exploiter une API | https://github.com/CedgonzalDevCda/API_Typicode | 0 | 0| 
 | 20220227T22:42:44Z | Ginny exploit Premium  Can execute most scripts  Tab System does not work right now  Level 7   executor  EasyExploits DLL (Upgrading soon)  Weekly Updates  Made by Ginny#0007 And 𝕱𝖆𝖙𝖊#7588  Discord server! : https://discord.gg/Ybk5wyvJws | https://github.com/Ginny1807/Ginny-exploit-Premium- | 0 | 0| 
@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T01:51:13Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 162 | 9| 
+| 20220228T02:27:21Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 164 | 9| 
 | 20220228T00:55:31Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 431 | 63| 
 | 20220226T21:56:00Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 200 | 14| 
 | 20220226T16:20:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2733 | 399| 
