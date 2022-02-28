@@ -92,6 +92,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220228T00:53:54Z | Exploits for sites used for educational purposes, | https://github.com/unc0vrd/EducationExploits | 0 | 0| 
+| 20220228T00:12:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2341 | 269| 
 | 20220227T22:49:58Z | Exercice Vuejs pour exploiter une API | https://github.com/CedgonzalDevCda/API_Typicode | 0 | 0| 
 | 20220227T22:42:44Z | Ginny exploit Premium  Can execute most scripts  Tab System does not work right now  Level 7   executor  EasyExploits DLL (Upgrading soon)  Weekly Updates  Made by Ginny#0007 And 𝕱𝖆𝖙𝖊#7588  Discord server! : https://discord.gg/Ybk5wyvJws | https://github.com/Ginny1807/Ginny-exploit-Premium- | 0 | 0| 
 | 20220227T21:44:41Z | Null | https://github.com/Eddi0x/PDF-Silent-Exploit-FUD | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20220227T19:46:54Z | Actividad 11 - Offensive Security | https://github.com/WanManolo/custom-exploit | 0 | 0| 
 | 20220227T18:35:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10827 | 1871| 
 | 20220227T15:47:53Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 20 | 4| 
-| 20220227T14:19:46Z | EXCEL XLL EXPLOIT BUILDER 2022 - FUD CLEAN SCANTIME AND RUNTIME | https://github.com/Eddi0x/XLL-Excel-Exploit-Silent-Dropper-2022 | 2 | 0| 
 
 
 # backdoor on Github 推荐
