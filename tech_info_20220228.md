@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T12:37:45Z | Google Hacking Database (GHDB) - Exploit-DB | https://github.com/readloud/ghdb | 0 | 0| 
+| 20220228T13:08:10Z | Google Hacking Database (GHDB) - Exploit-DB | https://github.com/readloud/ghdb | 0 | 0| 
 | 20220228T12:21:49Z | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | 0 | 0| 
 | 20220228T11:34:52Z | Application platforms that allow the exploitation, sharing and analysis of big data such as Google Earth Engine, Amazon Web Service, Hadoop... have gradually become essential tools for the exploitation and application of telematics data. detective. | https://github.com/AvereySchauble/data-analytics-platform | 0 | 0| 
 | 20220228T11:30:57Z | Walkthroughs of exploit education | https://github.com/2baias/exploit_education | 0 | 0| 
