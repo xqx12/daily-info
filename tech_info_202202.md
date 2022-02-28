@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T01:35:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2342 | 269| 
+| 20220228T01:39:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2343 | 269| 
 | 20220228T00:53:54Z | Exploits for sites used for educational purposes, | https://github.com/unc0vrd/EducationExploits | 0 | 0| 
 | 20220227T22:49:58Z | Exercice Vuejs pour exploiter une API | https://github.com/CedgonzalDevCda/API_Typicode | 0 | 0| 
 | 20220227T22:42:44Z | Ginny exploit Premium  Can execute most scripts  Tab System does not work right now  Level 7   executor  EasyExploits DLL (Upgrading soon)  Weekly Updates  Made by Ginny#0007 And 𝕱𝖆𝖙𝖊#7588  Discord server! : https://discord.gg/Ybk5wyvJws | https://github.com/Ginny1807/Ginny-exploit-Premium- | 0 | 0| 
