@@ -31,7 +31,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220228T23:56:42Z | CVE-2022-24124 | POC for CVE-2022-24124 | https://github.com/ColdFusionX/CVE-2022-24124 | | 
 | 20220228T23:28:39Z | CVE-2021-30955 | https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa compiled into a ipa | https://github.com/verygenericname/CVE-2021-30955-POC-IPA | | 
-| 20220228T15:19:20Z | CVE-2022-26159 | A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file.  | https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML | | 
 | 20220228T14:54:22Z | CVE-2021-30955 | Null | https://github.com/timb-machine-mirrors/CVE-2021-30955 | | 
 | 20220228T12:58:12Z | CVE-2022-23131 | Zabbix - SAML SSO Authentication Bypass | https://github.com/kh4sh3i/CVE-2022-23131 | | 
 | 20220228T06:14:50Z | cve-2022-0185 | kctf exploit | https://github.com/shahparkhan/cve-2022-0185 | | 
@@ -39,6 +38,7 @@
 | 20220228T04:46:26Z | CVE-2021-4034 | Null | https://github.com/movvamrocks/PwnKit-CVE-2021-4034 | | 
 | 20220228T03:51:56Z | CVE-2022-26158 | Null | https://github.com/l00neyhacker/CVE-2022-26158 | | 
 | 20220228T03:51:05Z | CVE-2022-26157 | Null | https://github.com/l00neyhacker/CVE-2022-26157 | | 
+| 20220228T03:50:12Z | CVE-2022-26156 | Null | https://github.com/l00neyhacker/CVE-2022-26156 | | 
 
 
 # klee on Github 推荐
