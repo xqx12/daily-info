@@ -58,7 +58,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220228T23:11:08Z | Null | https://github.com/ilijadivi/VisionExploit | 0 | 0| 
-| 20220228T23:05:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2362 | 273| 
 | 20220228T22:53:16Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 22 | 4| 
 | 20220228T19:37:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 29 | 18| 
 | 20220228T13:35:51Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 1 | 0| 
@@ -67,6 +66,7 @@
 | 20220228T12:21:49Z | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | 0 | 0| 
 | 20220228T11:34:52Z | Application platforms that allow the exploitation, sharing and analysis of big data such as Google Earth Engine, Amazon Web Service, Hadoop... have gradually become essential tools for the exploitation and application of telematics data. detective. | https://github.com/AvereySchauble/data-analytics-platform | 0 | 0| 
 | 20220228T11:30:57Z | Walkthroughs of exploit education | https://github.com/2baias/exploit_education | 0 | 0| 
+| 20220228T11:30:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 69 | 14| 
 
 
 # backdoor on Github 推荐
