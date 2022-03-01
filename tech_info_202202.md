@@ -46,7 +46,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220228T23:57:52Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
 | 20220228T23:56:42Z | CVE-2022-24124 | POC for CVE-2022-24124 | https://github.com/ColdFusionX/CVE-2022-24124 | | 
 | 20220228T23:28:39Z | CVE-2021-30955 | https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa compiled into a ipa | https://github.com/verygenericname/CVE-2021-30955-POC-IPA | | 
 | 20220228T17:00:06Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
@@ -56,6 +55,7 @@
 | 20220228T06:14:50Z | cve-2022-0185 | kctf exploit | https://github.com/shahparkhan/cve-2022-0185 | | 
 | 20220228T05:24:20Z | CVE-2022-24086 | CVE-2022-24086  RCE | https://github.com/shakeman8/CVE-2022-24086-RCE | | 
 | 20220228T04:46:26Z | CVE-2021-4034 | Null | https://github.com/movvamrocks/PwnKit-CVE-2021-4034 | | 
+| 20220228T03:51:56Z | CVE-2022-26158 | Null | https://github.com/l00neyhacker/CVE-2022-26158 | | 
 
 
 # klee on Github 推荐
