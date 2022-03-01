@@ -29,24 +29,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220228T13:40:21Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
+| 20220228T23:57:52Z | CVE-2022-21971 | PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21971 | | 
+| 20220228T23:56:42Z | CVE-2022-24124 | POC for CVE-2022-24124 | https://github.com/ColdFusionX/CVE-2022-24124 | | 
+| 20220228T23:28:39Z | CVE-2021-30955 | https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa compiled into a ipa | https://github.com/verygenericname/CVE-2021-30955-POC-IPA | | 
+| 20220228T17:00:06Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
+| 20220228T15:19:20Z | CVE-2022-26159 | A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file.  | https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML | | 
+| 20220228T14:54:22Z | CVE-2021-30955 | Null | https://github.com/timb-machine-mirrors/CVE-2021-30955 | | 
 | 20220228T12:58:12Z | CVE-2022-23131 | Zabbix - SAML SSO Authentication Bypass | https://github.com/kh4sh3i/CVE-2022-23131 | | 
-| 20220228T12:43:19Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
 | 20220228T06:14:50Z | cve-2022-0185 | kctf exploit | https://github.com/shahparkhan/cve-2022-0185 | | 
-| 20220228T05:52:19Z | CVE-2022-24124 | POC for CVE-2022-24124 | https://github.com/ColdFusionX/CVE-2022-24124 | | 
 | 20220228T05:24:20Z | CVE-2022-24086 | CVE-2022-24086  RCE | https://github.com/shakeman8/CVE-2022-24086-RCE | | 
 | 20220228T04:46:26Z | CVE-2021-4034 | Null | https://github.com/movvamrocks/PwnKit-CVE-2021-4034 | | 
-| 20220228T03:51:56Z | CVE-2022-26158 | Null | https://github.com/l00neyhacker/CVE-2022-26158 | | 
-| 20220228T03:51:05Z | CVE-2022-26157 | Null | https://github.com/l00neyhacker/CVE-2022-26157 | | 
-| 20220228T03:50:12Z | CVE-2022-26156 | Null | https://github.com/l00neyhacker/CVE-2022-26156 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T13:33:16Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 527 | 33| 
+| 20220228T23:26:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5292 | 194| 
+| 20220228T18:49:01Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 529 | 33| 
 | 20220228T12:54:41Z | Buildbot scripts for the KLEE project | https://github.com/klee/legacy-klee-buildbot | 1 | 0| 
-| 20220228T11:42:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5290 | 193| 
 | 20220228T10:26:35Z | Null | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
 | 20220228T09:48:05Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 227 | 37| 
 
@@ -59,6 +59,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T23:11:08Z | Null | https://github.com/ilijadivi/VisionExploit | 0 | 0| 
+| 20220228T22:53:16Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 22 | 4| 
+| 20220228T19:37:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 29 | 18| 
 | 20220228T13:35:51Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 1 | 0| 
 | 20220228T13:18:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1035 | 172| 
 | 20220228T13:08:10Z | Google Hacking Database (GHDB) - Exploit-DB | https://github.com/readloud/ghdb | 0 | 0| 
@@ -66,23 +69,21 @@
 | 20220228T12:21:49Z | Information security project. This is a collection of ELF binaries exploits to better understand how memory works. | https://github.com/kibotrel/42-Rainfall | 0 | 0| 
 | 20220228T11:34:52Z | Application platforms that allow the exploitation, sharing and analysis of big data such as Google Earth Engine, Amazon Web Service, Hadoop... have gradually become essential tools for the exploitation and application of telematics data. detective. | https://github.com/AvereySchauble/data-analytics-platform | 0 | 0| 
 | 20220228T11:30:57Z | Walkthroughs of exploit education | https://github.com/2baias/exploit_education | 0 | 0| 
-| 20220228T11:10:21Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 169 | 106| 
-| 20220228T09:33:36Z | SPVREDDY spv reddy venkatreddy sreepuram Security Enthusiast, Speaker and Penetration Testing Engineer with 6 years of experience in Cyber Security domain and 5 Years of Corporate experience in handling Vulnerability Assessment and Penetration Testing on Web Applications, Mobile Applications, API%s, Networks, Wireless Security and thick clients. Delivered talks in multiple Conferences, Workshops, Chapter meets and Webinars covering 5000+ members. Reported Critical Vulnerabilities in more than 25 Government websites leaking sensitive information of users and helped them to patch them. Ability to handle SAST (Static Application Security Testing), SAST (Dynamic Application Security Testing), End to End Product Security Operations and Penetration Testing. Good Knowledge on Software Defined Radio (SDR) Exploitation, Radio Frequency Identification Devices(RFID) and FRID tags. | https://github.com/spvreddy/spvreddy.github.io | 0 | 1| 
-| 20220228T09:18:57Z | Using dapptool to rediscover popsicle exploit | https://github.com/hellwolf/popsicle-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T13:59:27Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 11 | 0| 
-| 20220228T13:45:37Z | AV evading Backdoor Framework | https://github.com/3subs/OSRipper | 1 | 0| 
+| 20220228T23:26:52Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 877 | 125| 
+| 20220228T22:57:11Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 13 | 0| 
+| 20220228T19:46:10Z | AV evading Backdoor Framework | https://github.com/3subs/OSRipper | 1 | 0| 
+| 20220228T17:51:57Z | A script in python3 for hosting a server or command control centre in host and listening to incomming connections from the backdoor if executed on the target machine | https://github.com/Janesh7/Backdoor | 1 | 0| 
+| 20220228T17:07:54Z | Null | https://github.com/anon-sec/Anon_Backdoor | 0 | 0| 
+| 20220228T15:44:59Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 64 | 5| 
 | 20220228T13:28:42Z | Null | https://github.com/DmodvGH/BackDoorBot | 1 | 0| 
 | 20220228T13:13:51Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 129 | 32| 
+| 20220228T12:47:59Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3 | https://github.com/anonlo-rw/Windows-Backdoor | 21 | 7| 
 | 20220228T12:45:43Z | backdoor that uses dns to communicate | https://github.com/R00tendo/dnsnet | 0 | 0| 
-| 20220228T08:36:06Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 63 | 5| 
-| 20220228T03:59:43Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 876 | 125| 
-| 20220228T03:52:56Z | Null | https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main | 10 | 1| 
-| 20220228T02:46:47Z | [Virus] [Backdoor] Polymorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/War | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -101,6 +102,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T23:09:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7137 | 1511| 
+| 20220228T21:43:58Z | Kaitai Struct bits int fuzzer | https://github.com/generalmimon/ks-bits-fuzzer | 0 | 0| 
+| 20220228T13:37:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2490 | 157| 
 | 20220228T13:37:28Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1470 | 280| 
 | 20220228T12:32:57Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 240 | 14| 
 | 20220228T11:11:11Z | I WANT TO BECOME A PROFIONAL HACKER | https://github.com/Bogoy123/fuzzy-octo-waddle | 0 | 0| 
@@ -108,7 +112,6 @@
 | 20220228T10:31:10Z | 瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf | https://github.com/7dog7/bottleneckOsmosis | 480 | 76| 
 | 20220228T10:15:02Z | Null | https://github.com/Ivaylogi98/FuzzyProject | 0 | 0| 
 | 20220228T05:39:37Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 496 | 50| 
-| 20220228T02:49:26Z | Null | https://github.com/LegendSaber/Fuzzer | 0 | 0| 
 
 
 
