@@ -102,7 +102,6 @@
 | 20220228T21:43:58Z | Kaitai Struct bits int fuzzer | https://github.com/generalmimon/ks-bits-fuzzer | 0 | 0| 
 | 20220228T13:37:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2490 | 157| 
 | 20220228T13:37:28Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1470 | 280| 
-| 20220228T12:32:57Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 240 | 14| 
 | 20220228T11:11:11Z | I WANT TO BECOME A PROFIONAL HACKER | https://github.com/Bogoy123/fuzzy-octo-waddle | 0 | 0| 
 | 20220228T11:01:49Z | Null | https://github.com/KhedoussiAr/fuzzy-waffle | 0 | 0| 
 | 20220228T10:31:10Z | 瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf | https://github.com/7dog7/bottleneckOsmosis | 480 | 76| 
