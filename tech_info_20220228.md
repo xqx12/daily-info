@@ -31,7 +31,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220228T23:56:42Z | CVE-2022-24124 | POC for CVE-2022-24124 | https://github.com/ColdFusionX/CVE-2022-24124 | | 
 | 20220228T23:28:39Z | CVE-2021-30955 | https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa compiled into a ipa | https://github.com/verygenericname/CVE-2021-30955-POC-IPA | | 
-| 20220228T17:00:06Z | CVE-2022-21974 | PoC for CVE-2022-21974 "Roaming Security Rights Management Services Remote Code Execution Vulnerability" | https://github.com/0vercl0k/CVE-2022-21974 | | 
 | 20220228T15:19:20Z | CVE-2022-26159 | A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file.  | https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML | | 
 | 20220228T14:54:22Z | CVE-2021-30955 | Null | https://github.com/timb-machine-mirrors/CVE-2021-30955 | | 
 | 20220228T12:58:12Z | CVE-2022-23131 | Zabbix - SAML SSO Authentication Bypass | https://github.com/kh4sh3i/CVE-2022-23131 | | 
@@ -39,12 +38,12 @@
 | 20220228T05:24:20Z | CVE-2022-24086 | CVE-2022-24086  RCE | https://github.com/shakeman8/CVE-2022-24086-RCE | | 
 | 20220228T04:46:26Z | CVE-2021-4034 | Null | https://github.com/movvamrocks/PwnKit-CVE-2021-4034 | | 
 | 20220228T03:51:56Z | CVE-2022-26158 | Null | https://github.com/l00neyhacker/CVE-2022-26158 | | 
+| 20220228T03:51:05Z | CVE-2022-26157 | Null | https://github.com/l00neyhacker/CVE-2022-26157 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T23:26:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5292 | 194| 
 | 20220228T12:54:41Z | Buildbot scripts for the KLEE project | https://github.com/klee/legacy-klee-buildbot | 1 | 0| 
 | 20220228T10:26:35Z | Null | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
 | 20220228T09:48:05Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 227 | 37| 
