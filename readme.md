@@ -89,9 +89,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220228T15:24:49Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 48 | 4| 
 | 20220228T13:55:19Z | radius is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 201 | 14| 
-| 20220228T13:53:14Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 434 | 63| 
-| 20220228T13:44:13Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 173 | 9| 
 
 
 # big4 on Github 推荐
