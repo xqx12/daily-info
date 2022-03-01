@@ -99,7 +99,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220228T23:09:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7137 | 1511| 
 | 20220228T21:43:58Z | Kaitai Struct bits int fuzzer | https://github.com/generalmimon/ks-bits-fuzzer | 0 | 0| 
 | 20220228T13:37:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2490 | 157| 
 | 20220228T13:37:28Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1470 | 280| 
@@ -109,6 +108,7 @@
 | 20220228T10:31:10Z | 瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf | https://github.com/7dog7/bottleneckOsmosis | 480 | 76| 
 | 20220228T10:15:02Z | Null | https://github.com/Ivaylogi98/FuzzyProject | 0 | 0| 
 | 20220228T05:39:37Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 496 | 50| 
+| 20220228T02:49:26Z | Null | https://github.com/LegendSaber/Fuzzer | 0 | 0| 
 
 
 
