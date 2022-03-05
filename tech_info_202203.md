@@ -102,6 +102,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220305T13:32:12Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/3subs/OSRipper | 8 | 1| 
+| 20220305T13:32:12Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 8 | 1| 
 | 20220305T13:13:29Z | Cheat and Backdoor Menu for Garry%s Mod | https://github.com/VierlochStute/Garrys-Mod-Backdoor-Menu | 0 | 0| 
 | 20220305T11:50:50Z | Null | https://github.com/xdsavitar/backdoor | 0 | 0| 
 | 20220305T11:43:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 425 | 78| 
@@ -110,7 +111,6 @@
 | 20220304T09:44:35Z | The unofficial NBA statistic portal | https://github.com/mellonnen/backdoor | 0 | 0| 
 | 20220304T06:47:03Z | Null | https://github.com/TineshKumarM/backdoor | 0 | 0| 
 | 20220304T05:30:34Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
-| 20220304T00:23:06Z | Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux. | https://github.com/thisisnzed/Pandora | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
