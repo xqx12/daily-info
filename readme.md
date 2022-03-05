@@ -55,14 +55,14 @@
 | 20220305T09:38:06Z | Fast and stable nitro generator + checker | https://github.com/tungdo0602/NitroGenX | 0 | 0| 
 | 20220305T09:22:19Z | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | 0 | 0| 
 | 20220305T06:44:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10848 | 1881| 
-| 20220305T02:43:30Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | 460 | 326| 
+| 20220305T03:15:30Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 119 | 52| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220305T13:32:12Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/3subs/OSRipper | 8 | 1| 
 | 20220305T13:13:29Z | Cheat and Backdoor Menu for Garry%s Mod | https://github.com/VierlochStute/Garrys-Mod-Backdoor-Menu | 0 | 0| 
-| 20220305T12:34:38Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/3subs/OSRipper | 7 | 1| 
 | 20220305T11:50:50Z | Null | https://github.com/xdsavitar/backdoor | 0 | 0| 
 | 20220305T11:43:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 425 | 78| 
 | 20220305T08:49:43Z | Null | https://github.com/mfarukk06/MyBackdoor-Listener | 0 | 0| 
