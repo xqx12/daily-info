@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220305T02:52:28Z | CVE-2022-22947 | 日常更新一些顺手写的gobypoc，包含高危害EXP | https://github.com/york-cmd/CVE-2022-22947-goby | | 
 | 20220305T02:08:08Z | CVE-2022-22947 | 批量url检测Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/Xd-tl/CVE-2022-22947-Rce_POC | | 
 | 20220305T01:57:23Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
 | 20220305T01:57:14Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947） | https://github.com/helloexp/CVE-2022-22947 | | 
@@ -55,7 +56,6 @@
 | 20220304T21:30:17Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220304T18:26:35Z | cve-2022-24644 | Null | https://github.com/gerr-re/cve-2022-24644 | | 
 | 20220304T17:28:24Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令没进行正则，大佬们先用着，后续再更 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
-| 20220304T15:18:59Z | cve-2022-22947 |  cve-2022-22947 spring cloud gateway 批量扫描脚本 | https://github.com/dingxiao77/-cve-2022-22947- | | 
 
 
 # klee on Github 推荐

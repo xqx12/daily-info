@@ -36,9 +36,9 @@
 | 20220304T13:51:52Z | cve-2022-22947 | Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/nu0l/cve-2022-22947 | | 
 | 20220304T13:07:05Z | CVE-2021-3156 | Null | https://github.com/puckiestyle/CVE-2021-3156 | | 
 | 20220304T09:54:48Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API 远程命令执行 CVE-2022-22947 | https://github.com/dbgee/CVE-2022-22947 | | 
-| 20220304T09:29:42Z | CVE-2022-22947 | 日常更新一些顺手写的gobypoc，包含高危害EXP | https://github.com/york-cmd/CVE-2022-22947-goby | | 
 | 20220304T05:32:32Z | cve-2021-4034 | port of CVE-2021-4034 exploit to Rust/cargo for my own edification | https://github.com/defhacks/cve-2021-4034 | | 
 | 20220304T05:28:12Z | CVE-2022-22947 | Exp | https://github.com/BerMalBerIst/CVE-2022-22947 | | 
+| 20220304T03:22:05Z | CVE-2022-22947 | Null | https://github.com/Greetdawn/CVE-2022-22947 | | 
 
 
 # klee on Github 推荐
