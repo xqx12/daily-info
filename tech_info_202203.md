@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220305T01:57:23Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
+| 20220305T01:57:14Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947） | https://github.com/helloexp/CVE-2022-22947 | | 
 | 20220305T01:53:35Z | 未知编号 | Spring_CVE_2022_22947:Spring Cloud Gateway现高风险漏洞cve,poc漏洞利用,一键利用,开箱即用 | https://github.com/wjl110/Spring_CVE_2022_22947 | | 
 | 20220305T01:33:18Z | CVE-2022-22947 | Spring Cloud Gateway < 3.0.7 & < 3.1.1 Code Injection (RCE) | https://github.com/carlosevieira/CVE-2022-22947 | | 
 | 20220305T01:16:12Z | CVE-2022-22947 | CVE-2021-42013批量 | https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | | 
-| 20220304T23:00:57Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
 | 20220304T21:30:17Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220304T18:26:35Z | cve-2022-24644 | Null | https://github.com/gerr-re/cve-2022-24644 | | 
 | 20220304T17:28:24Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令没进行正则，大佬们先用着，后续再更 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
 | 20220304T15:18:59Z | cve-2022-22947 |  cve-2022-22947 spring cloud gateway 批量扫描脚本 | https://github.com/dingxiao77/-cve-2022-22947- | | 
 | 20220304T15:09:10Z | CVE-2022-22947 | 批量url检测Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/Xd-tl/CVE-2022-22947-Rce_POC | | 
-| 20220304T13:51:52Z | cve-2022-22947 | Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/nu0l/cve-2022-22947 | | 
 
 
 # klee on Github 推荐
@@ -130,6 +130,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220304T13:54:09Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 37 | 8| 
 
 
 # fuzz on Github 推荐

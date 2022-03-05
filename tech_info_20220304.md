@@ -29,7 +29,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220304T23:00:57Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
 | 20220304T21:30:17Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220304T18:26:35Z | cve-2022-24644 | Null | https://github.com/gerr-re/cve-2022-24644 | | 
 | 20220304T17:28:24Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令没进行正则，大佬们先用着，后续再更 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
@@ -39,6 +38,7 @@
 | 20220304T13:07:05Z | CVE-2021-3156 | Null | https://github.com/puckiestyle/CVE-2021-3156 | | 
 | 20220304T09:54:48Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API 远程命令执行 CVE-2022-22947 | https://github.com/dbgee/CVE-2022-22947 | | 
 | 20220304T09:29:42Z | CVE-2022-22947 | 日常更新一些顺手写的gobypoc，包含高危害EXP | https://github.com/york-cmd/CVE-2022-22947-goby | | 
+| 20220304T05:32:32Z | cve-2021-4034 | port of CVE-2021-4034 exploit to Rust/cargo for my own edification | https://github.com/defhacks/cve-2021-4034 | | 
 
 
 # klee on Github 推荐
@@ -103,6 +103,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220304T13:54:09Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 37 | 8| 
 
 
 # fuzz on Github 推荐
