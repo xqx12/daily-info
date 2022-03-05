@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220305 | 高效挖掘反序列化漏洞——GadgetInspector改造 | https://xz.aliyun.com/t/10908| 
+| 20220305 | js安全之ast混淆 | https://ainrm.cn/2022/js_ast.html| 
+| 20220305 | 基于openresty的安全网关开发记录 | https://ainrm.cn/2022/safegate.html| 
 | 20220304 | Mnemosyne：一个高效的水坑攻击调查取证系统 | https://mp.weixin.qq.com/s/dPhP3Z4moCKATk32meRQNw| 
 | 20220304 | GoDLP: 敏感信息保护系统 | https://github.com/bytedance/godlp| 
 | 20220304 | Make JDBC Attacks Brilliant Again 番外篇 | http://tttang.com/archive/1462/?continueFlag=ac31708e6f6b0c4f99bffa25b3a945d8| 
@@ -38,30 +41,27 @@
 | 20220303 | 跟着三梦学Java安全：半自动挖洞 | https://xz.aliyun.com/t/10925| 
 | 20220303 | TA402 针对中东目标持续发起攻击 | https://mp.weixin.qq.com/s/ww2KizA5JXu-V6ofkxTDxg| 
 | 20220303 | 移动GS3101光猫分析 —— 狸猫换太子 | https://www.anquanke.com/post/id/267397| 
-| 20220303 | 从网络空间认知战到对俄大规模网络致瘫攻击 | https://mp.weixin.qq.com/s/iewfqJoAq0ZBclniSJEpAA| 
-| 20220302 | 合作方数据安全闭环管理实践 | https://mp.weixin.qq.com/s/StQ0HlLQMJO064vpcCBayw| 
-| 20220301 | 聊一聊《Bvp47 美国NSA方程式的顶级后门》中的BPF隐藏信道 | https://mp.weixin.qq.com/s/k3PTDA8rDSylqknwp_jYIA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220305T11:05:04Z | CVE-2022-22947 | Null | https://github.com/22ke/CVE-2022-22947 | | 
+| 20220305T10:51:04Z | CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | | 
+| 20220305T10:48:51Z | CVE-2022-22947 | CVE-2021-42013批量 | https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | | 
+| 20220305T09:56:59Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令已经正则好，超时时间不超过2s，欢迎师傅们尝试 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
+| 20220305T08:53:45Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/akr3ch/CVE-2021-32099 | | 
 | 20220305T02:52:28Z | CVE-2022-22947 | 日常更新一些顺手写的gobypoc，包含高危害EXP | https://github.com/york-cmd/CVE-2022-22947-goby | | 
 | 20220305T02:08:08Z | CVE-2022-22947 | 批量url检测Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/Xd-tl/CVE-2022-22947-Rce_POC | | 
 | 20220305T01:57:23Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
 | 20220305T01:57:14Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947） | https://github.com/helloexp/CVE-2022-22947 | | 
 | 20220305T01:53:35Z | 未知编号 | Spring_CVE_2022_22947:Spring Cloud Gateway现高风险漏洞cve,poc漏洞利用,一键利用,开箱即用 | https://github.com/wjl110/Spring_CVE_2022_22947 | | 
-| 20220305T01:33:18Z | CVE-2022-22947 | Spring Cloud Gateway < 3.0.7 & < 3.1.1 Code Injection (RCE) | https://github.com/carlosevieira/CVE-2022-22947 | | 
-| 20220305T01:16:12Z | CVE-2022-22947 | CVE-2021-42013批量 | https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | | 
-| 20220304T21:30:17Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
-| 20220304T18:26:35Z | cve-2022-24644 | Null | https://github.com/gerr-re/cve-2022-24644 | | 
-| 20220304T17:28:24Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令没进行正则，大佬们先用着，后续再更 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220305T02:40:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5339 | 196| 
+| 20220305T11:19:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5341 | 197| 
 | 20220304T20:47:51Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
 | 20220304T14:58:52Z | Null | https://github.com/gergimentr/myKleeChecker | 0 | 0| 
 | 20220304T14:48:02Z | Null | https://github.com/fontworks-fonts/Klee | 661 | 22| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220305T08:54:56Z | Null | https://github.com/software-testing-bootcamp/S2E3-process-automation-RPA-with-jenkins-and-test-automation-tools | 0 | 0| 
 | 20220304T21:53:39Z | primer ejercicio  | https://github.com/Diazjh2022/S2EjemploGitHub | 0 | 0| 
 | 20220304T16:58:53Z | Null | https://github.com/AndRogJava/s2eCovid | 0 | 0| 
 | 20220304T14:34:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 35 | 3| 
@@ -100,28 +101,28 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220305T12:34:38Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/3subs/OSRipper | 7 | 1| 
+| 20220305T11:50:50Z | Null | https://github.com/xdsavitar/backdoor | 0 | 0| 
+| 20220305T11:43:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 425 | 78| 
+| 20220305T08:49:43Z | Null | https://github.com/mfarukk06/MyBackdoor-Listener | 0 | 0| 
 | 20220305T01:50:39Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 134 | 34| 
-| 20220304T18:35:05Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/3subs/OSRipper | 3 | 0| 
 | 20220304T09:44:35Z | The unofficial NBA statistic portal | https://github.com/mellonnen/backdoor | 0 | 0| 
 | 20220304T06:47:03Z | Null | https://github.com/TineshKumarM/backdoor | 0 | 0| 
 | 20220304T05:30:34Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
-| 20220304T03:01:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 424 | 78| 
 | 20220304T00:23:06Z | Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux. | https://github.com/thisisnzed/Pandora | 5 | 0| 
 | 20220303T16:54:41Z | Null | https://github.com/THUYimingLi/BackdoorBox | 21 | 9| 
-| 20220303T14:57:51Z | The code for the %Dynamic Backdoor Attacks Against Machine Learning Models% paper | https://github.com/AhmedSalem2/Dynamic-Backdoor | 0 | 0| 
-| 20220303T14:51:20Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 92 | 22| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220305T08:42:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2743 | 400| 
 | 20220304T14:34:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 35 | 3| 
 | 20220304T09:57:06Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 215 | 12| 
 | 20220304T07:13:13Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 49 | 4| 
 | 20220304T05:42:22Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 | 20220304T04:15:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1898 | 542| 
 | 20220304T03:27:34Z | A cross-library formal verification against different crypto libraries by utilizing %saferewrite%, a symbolic execution based function equivalence verifier. | https://github.com/ixxxMrAnderson/MCSA | 0 | 0| 
-| 20220304T03:12:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2742 | 400| 
 | 20220302T12:52:01Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 203 | 14| 
 | 20220302T10:21:05Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 8 | 3| 
 | 20220301T00:51:34Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 436 | 63| 
@@ -136,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220305T12:20:23Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 121 | 19| 
+| 20220305T10:25:02Z | The project is focused on Plotting Fuzzy-graphs along with its Membership functions. It also emphasizes upon the defuzzification of the graphs so that the output that is obtained after fuzzification can be converted back into the crisp domain for real world usage | https://github.com/Atharva91/Fuzzy-logic_Plots_and_Defuzzification | 0 | 0| 
+| 20220305T08:04:31Z | Null | https://github.com/HarshitSingh27/NeuroFuzzy-Assignment1 | 0 | 0| 
+| 20220305T05:53:56Z | Vim plugin for handling Git Stashes with fzf | https://github.com/aacunningham/vim-fuzzy-stash | 4 | 3| 
+| 20220305T04:22:20Z | Null | https://github.com/fuzzilia/fuzzilia.github.io | 0 | 0| 
+| 20220305T04:04:02Z | Null | https://github.com/Saksham-Garg1/fuzzy-octo-umbrella | 0 | 0| 
+| 20220305T03:13:14Z | Null | https://github.com/aseprite/fuzz | 2 | 0| 
 | 20220305T02:00:54Z | Null | https://github.com/arbourKyle/fuzzy-octo-waffle | 0 | 0| 
 | 20220305T00:53:01Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 26 | 3| 
 | 20220304T19:01:02Z | E-commerce online retailer who has just launched their first product. | https://github.com/VaishaliSharda/Maven-Fuzzy-Factory | 0 | 0| 
-| 20220304T18:13:23Z | Upgrade yarn dependencies to latest with fuzzy matching | https://github.com/AndrewLeedham/yarn-upgrade-fuzzy | 0 | 0| 
-| 20220304T12:57:23Z | Null | https://github.com/yashjoshi007/Neuro-Fuzzy-Assignment--087- | 0 | 0| 
-| 20220304T12:15:50Z | Property fuzzing for OCaml | https://github.com/stedolan/crowbar | 153 | 25| 
-| 20220304T11:05:56Z | C\C++实现矩阵操作、模糊数学相关操作 | https://github.com/HeavyLaw/Fuzzy_package | 0 | 0| 
-| 20220304T11:00:56Z | C语言实现模糊数学相关操作，矩阵操作 | https://github.com/HeavyLaw/C_Fuzzy | 0 | 0| 
-| 20220304T10:40:42Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 516 | 52| 
-| 20220304T04:35:23Z | Fuzzy Data Benchmark | https://github.com/suhailrehman/fuzzydata | 0 | 0| 
 
 
 
