@@ -29,25 +29,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220304T13:59:14Z | CVE-2022-22947 | CVE-2021-42013批量 | https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | | 
+| 20220304T23:00:57Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
+| 20220304T21:30:17Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
+| 20220304T18:26:35Z | cve-2022-24644 | Null | https://github.com/gerr-re/cve-2022-24644 | | 
+| 20220304T17:28:24Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令没进行正则，大佬们先用着，后续再更 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
+| 20220304T15:18:59Z | cve-2022-22947 |  cve-2022-22947 spring cloud gateway 批量扫描脚本 | https://github.com/dingxiao77/-cve-2022-22947- | | 
+| 20220304T15:09:10Z | CVE-2022-22947 | 批量url检测Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/Xd-tl/CVE-2022-22947-Rce_POC | | 
 | 20220304T13:51:52Z | cve-2022-22947 | Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/nu0l/cve-2022-22947 | | 
 | 20220304T13:07:05Z | CVE-2021-3156 | Null | https://github.com/puckiestyle/CVE-2021-3156 | | 
-| 20220304T11:45:26Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令没进行正则，大佬们先用着，后续再更 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
-| 20220304T10:06:10Z | CVE-2022-22947 | Spring Cloud Gateway < 3.0.7 & < 3.1.1 Code Injection (RCE) | https://github.com/carlosevieira/CVE-2022-22947 | | 
 | 20220304T09:54:48Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API 远程命令执行 CVE-2022-22947 | https://github.com/dbgee/CVE-2022-22947 | | 
 | 20220304T09:29:42Z | CVE-2022-22947 | 日常更新一些顺手写的gobypoc，包含高危害EXP | https://github.com/york-cmd/CVE-2022-22947-goby | | 
-| 20220304T08:53:28Z | cve-2022-22947 |  cve-2022-22947 spring cloud gateway 批量扫描脚本 | https://github.com/dingxiao77/-cve-2022-22947- | | 
-| 20220304T05:32:32Z | cve-2021-4034 | port of CVE-2021-4034 exploit to Rust/cargo for my own edification | https://github.com/defhacks/cve-2021-4034 | | 
-| 20220304T05:28:12Z | CVE-2022-22947 | Exp | https://github.com/BerMalBerIst/CVE-2022-22947 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220304T14:20:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5337 | 196| 
-| 20220304T14:17:24Z | Null | https://github.com/fontworks-fonts/Klee | 660 | 22| 
+| 20220304T20:47:51Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
+| 20220304T14:58:52Z | Null | https://github.com/gergimentr/myKleeChecker | 0 | 0| 
+| 20220304T14:48:02Z | Null | https://github.com/fontworks-fonts/Klee | 661 | 22| 
+| 20220304T14:21:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5338 | 196| 
 | 20220304T09:40:23Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 559 | 34| 
-| 20220304T07:05:59Z | Null | https://github.com/gergimentr/myKleeChecker | 0 | 0| 
 | 20220304T05:42:22Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 | 20220304T04:15:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1898 | 542| 
 
@@ -55,29 +56,32 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220304T14:04:43Z | Null | https://github.com/AndRogJava/s2eCovid | 0 | 0| 
+| 20220304T21:53:39Z | primer ejercicio  | https://github.com/Diazjh2022/S2EjemploGitHub | 0 | 0| 
+| 20220304T16:58:53Z | Null | https://github.com/AndRogJava/s2eCovid | 0 | 0| 
+| 20220304T14:34:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 35 | 3| 
 | 20220304T03:43:40Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 13 | 1| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220304T21:57:40Z | Containing my notes, practice binaries + solutions, blog posts, etc. for the Offensive Security Exploit Developer (OSED/EXP-301) | https://github.com/nop-tech/OSED | 1 | 0| 
+| 20220304T21:01:48Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7203 | 1760| 
+| 20220304T20:18:34Z | Created this repository provides guidance on how build your own hacking environment, learn about offensive security (ethical hacking) techniques, vulnerability research, exploit development, reverse engineering, malware analysis, threat intelligence, threat hunting, digital forensics and incident response (DFIR). | https://github.com/KodaneFlash/ethical-hacking | 0 | 0| 
+| 20220304T19:40:53Z | Course project: optimal control of a 2 dof manipulator exploiting the DDP algorithm | https://github.com/LorenzoBalandi/Optimal-Control-of-a-Robotic-Manipulator | 0 | 0| 
+| 20220304T19:29:15Z | Patches Bruteforce Coordinate Exploit | https://github.com/oldfagorg/CoordinateExploitFix | 18 | 4| 
+| 20220304T19:28:00Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 120 | 52| 
+| 20220304T17:33:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2407 | 277| 
 | 20220304T14:21:04Z | This python code will remove setuid from %pkexec% which can cause exploit by giving %root% privileges to any user  | https://github.com/geekmanctf/Pwnkit-Terminator | 0 | 0| 
+| 20220304T13:58:08Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1075 | 394| 
 | 20220304T13:46:59Z | 드림핵 alasql 문제 exploit 을 위한 레포지스토리 | https://github.com/jeongwon119/dreamhak_alasql_exploit | 0 | 0| 
-| 20220304T13:14:08Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 760 | 133| 
-| 20220304T13:03:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4063 | 1427| 
-| 20220304T12:35:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10850 | 1879| 
-| 20220304T09:43:50Z | Null | https://github.com/JuyLang/Learn-Web-Exploitation | 0 | 0| 
-| 20220304T09:39:39Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 18 | 4| 
-| 20220304T02:38:57Z | For Exploit | https://github.com/MrRooten/JunNuoExploit | 0 | 0| 
-| 20220304T02:25:12Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | 450 | 322| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220304T18:35:05Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/3subs/OSRipper | 3 | 0| 
 | 20220304T09:44:35Z | The unofficial NBA statistic portal | https://github.com/mellonnen/backdoor | 0 | 0| 
-| 20220304T08:33:43Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 133 | 34| 
 | 20220304T06:47:03Z | Null | https://github.com/TineshKumarM/backdoor | 0 | 0| 
 | 20220304T05:30:34Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
 | 20220304T03:01:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 424 | 78| 
@@ -87,6 +91,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220304T14:34:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 35 | 3| 
+| 20220304T09:57:06Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 215 | 12| 
+| 20220304T07:13:13Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 49 | 4| 
+| 20220304T05:42:22Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
+| 20220304T04:15:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1898 | 542| 
+| 20220304T03:27:34Z | A cross-library formal verification against different crypto libraries by utilizing %saferewrite%, a symbolic execution based function equivalence verifier. | https://github.com/ixxxMrAnderson/MCSA | 0 | 0| 
+| 20220304T03:12:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2742 | 400| 
 
 
 # big4 on Github 推荐
@@ -97,11 +108,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220304T19:01:02Z | E-commerce online retailer who has just launched their first product. | https://github.com/VaishaliSharda/Maven-Fuzzy-Factory | 0 | 0| 
+| 20220304T18:13:23Z | Upgrade yarn dependencies to latest with fuzzy matching | https://github.com/AndrewLeedham/yarn-upgrade-fuzzy | 0 | 0| 
 | 20220304T12:57:23Z | Null | https://github.com/yashjoshi007/Neuro-Fuzzy-Assignment--087- | 0 | 0| 
 | 20220304T12:15:50Z | Property fuzzing for OCaml | https://github.com/stedolan/crowbar | 153 | 25| 
 | 20220304T11:05:56Z | C\C++实现矩阵操作、模糊数学相关操作 | https://github.com/HeavyLaw/Fuzzy_package | 0 | 0| 
 | 20220304T11:00:56Z | C语言实现模糊数学相关操作，矩阵操作 | https://github.com/HeavyLaw/C_Fuzzy | 0 | 0| 
 | 20220304T10:40:42Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 516 | 52| 
+| 20220304T04:35:23Z | Fuzzy Data Benchmark | https://github.com/suhailrehman/fuzzydata | 0 | 0| 
 
 
 
