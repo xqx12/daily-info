@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220305T02:01:24Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | 457 | 326| 
 | 20220305T01:13:23Z | Generador de APK%s maliciosas para Android , local y remoto. | https://github.com/R3LI4NT/MSF-Android | 1 | 0| 
 | 20220304T21:57:40Z | Containing my notes, practice binaries + solutions, blog posts, etc. for the Offensive Security Exploit Developer (OSED/EXP-301) | https://github.com/nop-tech/OSED | 1 | 0| 
 | 20220304T21:01:48Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7203 | 1760| 
@@ -94,7 +95,6 @@
 | 20220304T19:28:00Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 120 | 52| 
 | 20220304T17:33:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2407 | 277| 
 | 20220304T14:21:04Z | This python code will remove setuid from %pkexec% which can cause exploit by giving %root% privileges to any user  | https://github.com/geekmanctf/Pwnkit-Terminator | 0 | 0| 
-| 20220304T13:58:08Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1075 | 394| 
 
 
 # backdoor on Github 推荐
