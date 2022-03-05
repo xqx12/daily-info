@@ -47,7 +47,6 @@
 | 20220304T20:47:51Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
 | 20220304T14:58:52Z | Null | https://github.com/gergimentr/myKleeChecker | 0 | 0| 
 | 20220304T14:48:02Z | Null | https://github.com/fontworks-fonts/Klee | 661 | 22| 
-| 20220304T14:21:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5338 | 196| 
 | 20220304T09:40:23Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 559 | 34| 
 | 20220304T05:42:22Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 | 20220304T04:15:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1898 | 542| 
