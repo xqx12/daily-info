@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220305T12:18:38Z | Script laravel auto exploit  | https://github.com/kamalkarlos/LaraFuck | 0 | 0| 
+| 20220305T11:08:12Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/PawanKumarPandit/Commix | 1 | 0| 
+| 20220305T10:53:21Z | Null | https://github.com/xct/windows-exploitation | 0 | 0| 
+| 20220305T10:51:04Z | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | 16 | 6| 
+| 20220305T10:23:30Z | Store my own blogs I exploit hexo to generate | https://github.com/captainnotseeingthesea/captainnotseeingthesea.github.io | 0 | 0| 
+| 20220305T10:05:05Z | A roblox level 6 executor! Designed by me | https://github.com/FLUORESCENTXX/Valance | 0 | 0| 
+| 20220305T09:38:06Z | Fast and stable nitro generator + checker | https://github.com/tungdo0602/NitroGenX | 0 | 0| 
+| 20220305T09:22:19Z | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | 0 | 0| 
+| 20220305T06:44:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10848 | 1880| 
 | 20220305T02:43:30Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新 | https://github.com/helloexp/0day | 460 | 326| 
-| 20220305T02:11:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10849 | 1881| 
-| 20220305T01:13:23Z | Generador de APK%s maliciosas para Android , local y remoto. | https://github.com/R3LI4NT/MSF-Android | 1 | 0| 
-| 20220304T21:57:40Z | Containing my notes, practice binaries + solutions, blog posts, etc. for the Offensive Security Exploit Developer (OSED/EXP-301) | https://github.com/nop-tech/OSED | 1 | 0| 
-| 20220304T21:01:48Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7203 | 1760| 
-| 20220304T20:18:34Z | Created this repository provides guidance on how build your own hacking environment, learn about offensive security (ethical hacking) techniques, vulnerability research, exploit development, reverse engineering, malware analysis, threat intelligence, threat hunting, digital forensics and incident response (DFIR). | https://github.com/KodaneFlash/ethical-hacking | 0 | 0| 
-| 20220304T19:40:53Z | Course project: optimal control of a 2 dof manipulator exploiting the DDP algorithm | https://github.com/LorenzoBalandi/Optimal-Control-of-a-Robotic-Manipulator | 0 | 0| 
-| 20220304T19:29:15Z | Patches Bruteforce Coordinate Exploit | https://github.com/oldfagorg/CoordinateExploitFix | 18 | 4| 
-| 20220304T19:28:00Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 120 | 52| 
-| 20220304T17:33:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2407 | 277| 
 
 
 # backdoor on Github 推荐
