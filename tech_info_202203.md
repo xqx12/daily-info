@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220306T01:53:32Z | all social media backdoor tools!! | https://github.com/dray32/https-github.com-rixon-cochi-SMF | 0 | 0| 
 | 20220306T00:12:10Z | Null | https://github.com/THUYimingLi/BackdoorBox | 22 | 9| 
 | 20220305T23:03:39Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 10 | 3| 
 | 20220305T22:59:13Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 93 | 22| 
@@ -111,7 +112,6 @@
 | 20220305T11:43:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 425 | 78| 
 | 20220305T08:49:43Z | Null | https://github.com/mfarukk06/MyBackdoor-Listener | 0 | 0| 
 | 20220305T01:50:39Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 134 | 34| 
-| 20220304T09:44:35Z | The unofficial NBA statistic portal | https://github.com/mellonnen/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
