@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220306T13:08:45Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
 | 20220306T13:00:12Z | CVE-2022-0492 | A script to check if a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/SofianeHamlaoui/CVE-2022-0492-Checker | | 
 | 20220306T12:54:00Z | cve-2022-22947 |  cve-2022-22947 spring cloud gateway 批量扫描脚本 | https://github.com/dingxiao77/-cve-2022-22947- | | 
 | 20220306T12:51:54Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令已经正则好，超时时间不超过2s，欢迎师傅们尝试 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
-| 20220306T12:47:35Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
 | 20220306T10:28:39Z | CVE-2022-22947 | CVE-2021-42013批量 | https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | | 
 | 20220305T21:06:07Z | CVE-2022-23779 | CVE-2022-23779: Internal Hostname Disclosure Vulnerability | https://github.com/fbusr/CVE-2022-23779 | | 
 | 20220305T11:05:04Z | CVE-2022-22947 | Null | https://github.com/22ke/CVE-2022-22947 | | 
