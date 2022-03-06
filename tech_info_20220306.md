@@ -68,6 +68,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220306T12:30:48Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 621 | 128| 
+| 20220306T11:01:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2744 | 398| 
+| 20220306T10:43:12Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 791 | 111| 
+| 20220306T09:26:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1899 | 543| 
+| 20220306T06:27:37Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 | 20220306T00:13:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 216 | 12| 
 
 
