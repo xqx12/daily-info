@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220306T00:46:36Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 123 | 19| 
+| 20220306T01:33:34Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 124 | 19| 
 | 20220305T23:17:33Z | Определение цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 1 | 0| 
 | 20220305T22:22:43Z | Config files for my GitHub profile. | https://github.com/FuzzyBakery/FuzzyBakery | 0 | 0| 
 | 20220305T21:41:29Z | Null | https://github.com/KenTheCoderBoi/fuzzy-memory | 0 | 0| 
