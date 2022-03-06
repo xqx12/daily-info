@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220306T13:58:14Z | no fuzz configurator | https://github.com/roxiness/configent | 11 | 2| 
 | 20220306T12:09:01Z | Null | https://github.com/iamchisaki/fuzzy-journey | 0 | 0| 
 | 20220306T09:34:04Z | Null | https://github.com/codeIvy/fuzzy-octo-waffle | 0 | 0| 
 | 20220306T08:30:54Z | Advanced file format fuzzer based-on deep neural language models. | https://github.com/m-zakeri/iust_deep_fuzz | 30 | 11| 
