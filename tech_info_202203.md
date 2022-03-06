@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220306T02:54:44Z | A Roblox Exploiter using the WeAreDevs API. | https://github.com/Benadry/SNGUI | 0 | 0| 
 | 20220306T02:43:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10848 | 1881| 
 | 20220306T02:34:32Z | Code for paper %ATSE: a peptide toxicity predictor by exploiting structural and evolutionary information based on graph neural network and attention mechanism% | https://github.com/WLYLab/ATSE | 3 | 2| 
 | 20220306T02:04:15Z | Documentation for the TSA Cybersecurity team. Contains Linux Fundamentals, picoCTF solves, crypto/stegano, web/binary exploit, etc. | https://github.com/jktrn/cyber | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220305T22:40:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 47 | 21| 
 | 20220305T22:30:19Z | Heres a really cool exploit for roblox I made, I hope you enjoy it, in fact- I worked on it for like a week so I hope you like it | https://github.com/AnonymousMonke1234/Slasher | 0 | 0| 
 | 20220305T21:54:36Z | best exploit. | https://github.com/Gogogamer61/KurdishX | 0 | 0| 
-| 20220305T20:57:29Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1126 | 475| 
 
 
 # backdoor on Github 推荐
