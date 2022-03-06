@@ -46,28 +46,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220306T00:06:58Z | CVE-2022-0824 | Webmin CVE-2022-0824 Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
+| 20220306T13:00:12Z | CVE-2022-0492 | A script to check if a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/SofianeHamlaoui/CVE-2022-0492-Checker | | 
+| 20220306T12:54:00Z | cve-2022-22947 |  cve-2022-22947 spring cloud gateway 批量扫描脚本 | https://github.com/dingxiao77/-cve-2022-22947- | | 
+| 20220306T12:51:54Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令已经正则好，超时时间不超过2s，欢迎师傅们尝试 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
+| 20220306T12:47:35Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
+| 20220306T10:28:39Z | CVE-2022-22947 | CVE-2021-42013批量 | https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | | 
 | 20220305T21:06:07Z | CVE-2022-23779 | CVE-2022-23779: Internal Hostname Disclosure Vulnerability | https://github.com/fbusr/CVE-2022-23779 | | 
 | 20220305T11:05:04Z | CVE-2022-22947 | Null | https://github.com/22ke/CVE-2022-22947 | | 
 | 20220305T10:51:04Z | CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | | 
-| 20220305T10:48:51Z | CVE-2022-22947 | CVE-2021-42013批量 | https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | | 
-| 20220305T09:56:59Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，回显命令已经正则好，超时时间不超过2s，欢迎师傅们尝试 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
 | 20220305T08:53:45Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/akr3ch/CVE-2021-32099 | | 
 | 20220305T02:52:28Z | CVE-2022-22947 | 日常更新一些顺手写的gobypoc，包含高危害EXP | https://github.com/york-cmd/CVE-2022-22947-goby | | 
-| 20220305T02:08:08Z | CVE-2022-22947 | 批量url检测Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/Xd-tl/CVE-2022-22947-Rce_POC | | 
-| 20220305T01:57:23Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220305T23:16:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5347 | 196| 
-| 20220305T17:57:09Z | Null | https://github.com/fontworks-fonts/Klee | 663 | 22| 
+| 20220306T09:26:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1899 | 543| 
+| 20220306T08:51:53Z | Null | https://github.com/fontworks-fonts/Klee | 664 | 22| 
+| 20220306T08:24:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 5348 | 196| 
+| 20220306T06:27:37Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 | 20220304T20:47:51Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
 | 20220304T14:58:52Z | Null | https://github.com/gergimentr/myKleeChecker | 0 | 0| 
 | 20220304T09:40:23Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 559 | 34| 
-| 20220304T05:42:22Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
-| 20220304T04:15:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1898 | 543| 
 | 20220301T23:40:42Z | Caltech first-year graduate student proposition project with Katherine de Kleer studying oxygen aurora on Ganymede. | https://github.com/zachariahmilby/ge-297-de-kleer-ganymede-aurora | 0 | 0| 
 | 20220301T18:37:55Z | Config files for my GitHub profile. | https://github.com/LorenzKleeberg/LorenzKleeberg | 0 | 0| 
 | 20220301T12:32:56Z | Null | https://github.com/Chiyukichan/metron-assets-klee | 0 | 0| 
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220306T12:53:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10849 | 1881| 
+| 20220306T10:53:40Z | PoC for CVE-2020-0601 - CryptoAPI exploit | https://github.com/ioncodes/Curveball | 22 | 4| 
+| 20220306T10:49:57Z | Porting of exploit-db local exploit for windows in powershell | https://github.com/FabioDefilippo/ps-local-exploit | 0 | 0| 
+| 20220306T10:22:21Z | Exploits | https://github.com/CryptedVR/RX | 0 | 0| 
+| 20220306T09:37:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2419 | 281| 
+| 20220306T09:00:07Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 763 | 133| 
+| 20220306T08:56:24Z | Null | https://github.com/T4t4ru/Exploit-Education | 0 | 0| 
 | 20220306T02:54:44Z | A Roblox Exploiter using the WeAreDevs API. | https://github.com/Benadry/SNGUI | 0 | 0| 
-| 20220306T02:43:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10848 | 1881| 
 | 20220306T02:34:32Z | Code for paper %ATSE: a peptide toxicity predictor by exploiting structural and evolutionary information based on graph neural network and attention mechanism% | https://github.com/WLYLab/ATSE | 3 | 2| 
 | 20220306T02:04:15Z | Documentation for the TSA Cybersecurity team. Contains Linux Fundamentals, picoCTF solves, crypto/stegano, web/binary exploit, etc. | https://github.com/jktrn/cyber | 0 | 0| 
-| 20220306T00:05:26Z | Config files for my GitHub profile. | https://github.com/MasterExploiterz/MasterExploiterz | 0 | 0| 
-| 20220305T23:25:07Z | Null | https://github.com/MelDia/Exploit-9.00-v2.1 | 0 | 0| 
-| 20220305T23:16:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2417 | 279| 
-| 20220305T22:40:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 47 | 21| 
-| 20220305T22:30:19Z | Heres a really cool exploit for roblox I made, I hope you enjoy it, in fact- I worked on it for like a week so I hope you like it | https://github.com/AnonymousMonke1234/Slasher | 0 | 0| 
-| 20220305T21:54:36Z | best exploit. | https://github.com/Gogogamer61/KurdishX | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220306T12:32:42Z | Cheat and Backdoor Menu for Garry%s Mod | https://github.com/VierlochStute/Garrys-Mod-CheatBackdoor-Menu | 1 | 0| 
+| 20220306T11:09:53Z | Enhancing Backdoor Attacks with Multi-Level MMD Regularization | https://github.com/xpf/Multi-Level-MMD-Regularization | 2 | 0| 
+| 20220306T10:40:31Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 21 | 7| 
+| 20220306T10:31:05Z | Null | https://github.com/Ramish222/Backdoor | 0 | 0| 
+| 20220306T05:53:00Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 94 | 23| 
+| 20220306T05:35:48Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 11 | 3| 
 | 20220306T01:53:32Z | all social media backdoor tools!! | https://github.com/dray32/https-github.com-rixon-cochi-SMF | 0 | 0| 
 | 20220306T00:12:10Z | Null | https://github.com/THUYimingLi/BackdoorBox | 22 | 9| 
-| 20220305T23:03:39Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 10 | 3| 
-| 20220305T22:59:13Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 93 | 22| 
 | 20220305T17:37:04Z | Cheat and Backdoor Menu for Garry%s Mod | https://github.com/VierlochStute/Garrys-Mod-Backdoor-Menu | 1 | 0| 
 | 20220305T13:32:12Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/3subs/OSRipper | 8 | 1| 
-| 20220305T11:50:50Z | Null | https://github.com/xdsavitar/backdoor | 0 | 0| 
-| 20220305T11:43:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 425 | 78| 
-| 20220305T08:49:43Z | Null | https://github.com/mfarukk06/MyBackdoor-Listener | 0 | 0| 
-| 20220305T01:50:39Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 134 | 34| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220306T12:09:01Z | Null | https://github.com/iamchisaki/fuzzy-journey | 0 | 0| 
+| 20220306T09:34:04Z | Null | https://github.com/codeIvy/fuzzy-octo-waffle | 0 | 0| 
+| 20220306T08:30:54Z | Advanced file format fuzzer based-on deep neural language models. | https://github.com/m-zakeri/iust_deep_fuzz | 30 | 11| 
+| 20220306T05:05:24Z | Null | https://github.com/overstarry/fuzz-demo | 0 | 0| 
 | 20220306T01:33:34Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 124 | 19| 
 | 20220305T23:17:33Z | Определение цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 1 | 0| 
 | 20220305T22:22:43Z | Config files for my GitHub profile. | https://github.com/FuzzyBakery/FuzzyBakery | 0 | 0| 
 | 20220305T21:41:29Z | Null | https://github.com/KenTheCoderBoi/fuzzy-memory | 0 | 0| 
 | 20220305T20:57:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7157 | 1516| 
 | 20220305T19:01:36Z | will start my first  project making  | https://github.com/Smith19910828/fuzzy-octo-memory | 0 | 0| 
-| 20220305T10:25:02Z | The project is focused on Plotting Fuzzy-graphs along with its Membership functions. It also emphasizes upon the defuzzification of the graphs so that the output that is obtained after fuzzification can be converted back into the crisp domain for real world usage | https://github.com/Atharva91/Fuzzy-logic_Plots_and_Defuzzification | 0 | 0| 
-| 20220305T08:04:31Z | Null | https://github.com/HarshitSingh27/NeuroFuzzy-Assignment1 | 0 | 0| 
-| 20220305T05:53:56Z | Vim plugin for handling Git Stashes with fzf | https://github.com/aacunningham/vim-fuzzy-stash | 4 | 3| 
-| 20220305T04:22:20Z | Null | https://github.com/fuzzilia/fuzzilia.github.io | 0 | 0| 
 
 
 
