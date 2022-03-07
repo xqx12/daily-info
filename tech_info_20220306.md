@@ -70,7 +70,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220306T23:20:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1900 | 543| 
 | 20220306T22:25:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2745 | 398| 
 | 20220306T19:30:53Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 792 | 111| 
 | 20220306T17:58:45Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 12 | 5| 
