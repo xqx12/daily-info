@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220307T13:27:19Z | Rex library for various exploitation helpers | https://github.com/rapid7/rex-exploitation | 17 | 31| 
 | 20220307T12:54:09Z | Craft PNG files that appear completely different in Apple software [NOW PATCHED] | https://github.com/DavidBuchanan314/ambiguous-png-packer | 1009 | 38| 
 | 20220307T11:05:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1114 | 184| 
 | 20220307T10:54:18Z | Null | https://github.com/rl-ehs-sl0th/exploit | 0 | 0| 
@@ -53,8 +54,8 @@
 | 20220307T10:00:31Z | exploit-vul | https://github.com/DangPhucTech/exploit-vul | 0 | 0| 
 | 20220307T09:27:14Z | Revslider Exploit | https://github.com/ZekkelAR/Revslider | 0 | 0| 
 | 20220307T08:35:19Z | Null | https://github.com/mfarukk06/Buffer-Overflow-Exploit | 0 | 0| 
+| 20220307T07:18:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2424 | 281| 
 | 20220307T02:02:17Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 56 | 66| 
-| 20220307T00:02:24Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and more. | https://github.com/volkandindar/agartha | 24 | 3| 
 
 
 # backdoor on Github 推荐
