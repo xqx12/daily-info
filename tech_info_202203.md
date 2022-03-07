@@ -104,7 +104,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220306T20:41:16Z | This Is A Python Backdoor Tool Project Written In Python3. | https://github.com/Keyj33k/ReverseShell | 0 | 0| 
 | 20220306T19:21:41Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 14 | 4| 
-| 20220306T18:04:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 426 | 79| 
+| 20220306T18:04:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 426 | 80| 
 | 20220306T17:29:48Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 72 | 20| 
 | 20220306T15:01:06Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 95 | 23| 
 | 20220306T13:06:14Z | Cheat and Backdoor Menu for Garry%s Mod | https://github.com/VierlochStute/Garrys-Mod-CheatBackdoor-Menu | 1 | 0| 
