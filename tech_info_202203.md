@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220307T02:02:17Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 56 | 66| 
 | 20220307T00:02:24Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and more. | https://github.com/volkandindar/agartha | 24 | 3| 
 | 20220306T23:47:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2423 | 281| 
 | 20220306T23:36:48Z | A container/VM malware that finds and exploits SSRF opportunities in a compromised cloud environment | https://github.com/ex0dus-0x/sneak | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220306T21:34:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 332 | 99| 
 | 20220306T20:57:33Z | It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible. | https://github.com/T369-Real/pwnkit-pwn | 1 | 0| 
 | 20220306T20:50:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10849 | 1882| 
-| 20220306T20:16:59Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 56 | 66| 
 | 20220306T19:08:12Z | A brute force script in python made for a specific grade portal | https://github.com/macromillion/portal-shitter | 1 | 0| 
 
 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220307T01:56:48Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 4311 | 261| 
 | 20220307T01:01:56Z | Null | https://github.com/binhdam/Incoterm-Selection-with-Static-Fuzzy-AHP-TOPSIS | 0 | 0| 
 | 20220307T00:06:17Z | My beginner projects. I am currently learning Python and will be compiling my projects here.  | https://github.com/london182/fuzzy-invention | 0 | 0| 
 | 20220306T22:55:57Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 323 | 53| 
@@ -147,7 +148,6 @@
 | 20220306T21:07:49Z | Graphical gauges and history table generators for Weewx | https://github.com/brewster76/fuzzy-archer | 30 | 27| 
 | 20220306T13:58:14Z | no fuzz configurator | https://github.com/roxiness/configent | 11 | 2| 
 | 20220306T12:09:01Z | Null | https://github.com/iamchisaki/fuzzy-journey | 0 | 0| 
-| 20220306T09:34:04Z | Null | https://github.com/codeIvy/fuzzy-octo-waffle | 0 | 0| 
 
 
 

@@ -46,9 +46,9 @@
 | 20220306T21:34:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 332 | 99| 
 | 20220306T20:57:33Z | It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible. | https://github.com/T369-Real/pwnkit-pwn | 1 | 0| 
 | 20220306T20:50:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10849 | 1882| 
-| 20220306T20:16:59Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 56 | 66| 
 | 20220306T19:08:12Z | A brute force script in python made for a specific grade portal | https://github.com/macromillion/portal-shitter | 1 | 0| 
 | 20220306T11:39:01Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 74 | 15| 
+| 20220306T10:53:40Z | PoC for CVE-2020-0601 - CryptoAPI exploit | https://github.com/ioncodes/Curveball | 22 | 4| 
 
 
 # backdoor on Github 推荐
