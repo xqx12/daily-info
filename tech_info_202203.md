@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220307T13:33:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5357 | 195| 
+| 20220307T13:53:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5358 | 195| 
 | 20220307T11:59:28Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 26| 
 | 20220307T01:19:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1901 | 543| 
 | 20220306T21:28:12Z | Klee | https://github.com/aiskunks/Klee | 1 | 1| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220307T13:52:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10850 | 1883| 
 | 20220307T13:27:19Z | Rex library for various exploitation helpers | https://github.com/rapid7/rex-exploitation | 17 | 31| 
 | 20220307T12:54:09Z | Craft PNG files that appear completely different in Apple software [NOW PATCHED] | https://github.com/DavidBuchanan314/ambiguous-png-packer | 1009 | 38| 
 | 20220307T11:05:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1114 | 184| 
@@ -96,7 +97,6 @@
 | 20220307T09:27:14Z | Revslider Exploit | https://github.com/ZekkelAR/Revslider | 0 | 0| 
 | 20220307T08:35:19Z | Null | https://github.com/mfarukk06/Buffer-Overflow-Exploit | 0 | 0| 
 | 20220307T07:18:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2424 | 281| 
-| 20220307T02:02:17Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 56 | 66| 
 
 
 # backdoor on Github 推荐
