@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220307T01:49:07Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
+| 20220307T01:58:40Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
 | 20220306T22:10:24Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
 | 20220306T16:13:06Z | CVE-2022-0492 | A script to check if a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/SofianeHamlaoui/CVE-2022-0492-Checker | | 
 | 20220306T14:35:28Z | CVE-2022-22947 | CVE-2021-42013批量 | https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway | | 
