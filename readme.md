@@ -26,7 +26,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220306T23:20:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1900 | 543| 
 | 20220306T21:28:12Z | Klee | https://github.com/aiskunks/Klee | 1 | 1| 
 | 20220306T08:51:53Z | Null | https://github.com/fontworks-fonts/Klee | 664 | 22| 
 | 20220306T06:27:37Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
