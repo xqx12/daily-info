@@ -61,6 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220307T13:48:32Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6873 | 1709| 
 | 20220307T06:09:54Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 21 | 7| 
 | 20220307T05:37:18Z | A c# backdoor, to be upgraded :-) | https://github.com/Thehacker-arch/backdoor | 0 | 0| 
 

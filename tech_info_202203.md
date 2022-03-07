@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220307T13:48:32Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6873 | 1709| 
 | 20220307T06:09:54Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 21 | 7| 
 | 20220307T05:37:18Z | A c# backdoor, to be upgraded :-) | https://github.com/Thehacker-arch/backdoor | 0 | 0| 
 | 20220306T20:41:16Z | This Is A Python Backdoor Tool Project Written In Python3. | https://github.com/Keyj33k/ReverseShell | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20220306T15:01:06Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 95 | 24| 
 | 20220306T13:06:14Z | Cheat and Backdoor Menu for Garry%s Mod | https://github.com/VierlochStute/Garrys-Mod-CheatBackdoor-Menu | 1 | 0| 
 | 20220306T11:09:53Z | Enhancing Backdoor Attacks with Multi-Level MMD Regularization | https://github.com/xpf/Multi-Level-MMD-Regularization | 2 | 0| 
-| 20220306T10:31:05Z | Null | https://github.com/Ramish222/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
