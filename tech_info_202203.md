@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220307T13:15:29Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
 | 20220307T11:53:51Z | CVE-2022-22947 | SpringCloudGatewayRCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2022-22947 | | 
-| 20220307T11:29:09Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
 | 20220307T10:19:20Z | CVE-2022-25257 | Null | https://github.com/RobertDra/CVE-2022-25257 | | 
 | 20220307T10:18:41Z | CVE-2022-25256 | Null | https://github.com/RobertDra/CVE-2022-25256 | | 
 | 20220307T10:03:29Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
