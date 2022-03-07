@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220307T02:48:12Z | CVE-2022-22947 | Spring Cloud Gateway < 3.0.7 & < 3.1.1 Code Injection (RCE) | https://github.com/carlosevieira/CVE-2022-22947 | | 
 | 20220307T02:44:50Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
 | 20220306T22:10:24Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
 | 20220306T16:13:06Z | CVE-2022-0492 | A script to check if a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/SofianeHamlaoui/CVE-2022-0492-Checker | | 
@@ -55,7 +56,6 @@
 | 20220305T21:06:07Z | CVE-2022-23779 | CVE-2022-23779: Internal Hostname Disclosure Vulnerability | https://github.com/fbusr/CVE-2022-23779 | | 
 | 20220305T11:05:04Z | CVE-2022-22947 | Null | https://github.com/22ke/CVE-2022-22947 | | 
 | 20220305T10:51:04Z | CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | | 
-| 20220305T08:53:45Z | CVE-2021-32099 | CVE-2021-32099 | https://github.com/akr3ch/CVE-2021-32099 | | 
 
 
 # klee on Github 推荐
