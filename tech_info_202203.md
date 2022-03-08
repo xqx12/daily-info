@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:52:23Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T01:55:33Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T01:51:07Z | CVE-2022-0847 | CVE-2022-0847简单复现 | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220308T01:42:24Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220308T01:34:05Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
