@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220308T02:51:52Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220308T02:50:54Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220308T02:50:40Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
-| 20220308T02:48:51Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   Linux内核提权 | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220308T02:35:42Z | CVE-2022-25636 | CVE-2022-25636 | https://github.com/Bonfee/CVE-2022-25636 | | 
 | 20220308T02:19:18Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
 | 20220308T02:18:02Z | CVE-2022-0847 | This is the story of CVE-2022-0847, a vulnerability in the Linux kernel since 5.8 which allows overwriting data in arbitrary read-only files. This leads to privilege escalation because unprivileged processes can inject code into root processes. | https://github.com/Udyz/CVE-2022-0847 | | 
@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220308T02:50:40Z | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | 83 | 23| 
+| 20220308T02:53:21Z | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | 84 | 23| 
 | 20220308T01:41:37Z | This Exploit tweaks with the API for Tracfone and try%s to get to the endpoint of the API and will pull a account pin some times this works sometimes it don%t this is a old exploit so yeah | https://github.com/Exploitgodz/tracfonesploit | 0 | 0| 
 | 20220308T01:40:33Z | This Exploit tweaks with the API for Tracfone and try%s to get to the endpoint of the API and will pull a account pin some times this works sometimes it don%t | https://github.com/Exploitgodz/Tracfone-exploit | 0 | 0| 
 | 20220308T00:49:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2426 | 281| 
