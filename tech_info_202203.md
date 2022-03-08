@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:29:22Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T01:31:54Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T01:28:32Z | CVE-2022-24990 | Null | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS-PHP- | | 
 | 20220308T01:25:37Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
 | 20220308T01:20:21Z | CVE-2022-0847 | This is the story of CVE-2022-0847, a vulnerability in the Linux kernel since 5.8 which allows overwriting data in arbitrary read-only files. This leads to privilege escalation because unprivileged processes can inject code into root processes. | https://github.com/Udyz/CVE-2022-0847 | | 
