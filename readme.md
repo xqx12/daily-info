@@ -99,6 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220308T13:02:53Z | Null | https://github.com/insol29/fuzzy-giggle | 0 | 0| 
 | 20220308T12:51:14Z | tugas | https://github.com/gabebutar05/tugasFuzzy | 0 | 0| 
 | 20220308T12:30:20Z | Null | https://github.com/gabebutar05/Fuzzy-scpk | 0 | 0| 
 | 20220308T11:56:35Z | Null | https://github.com/BelajarCuan/Tugas-FUZZY | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20220308T10:39:46Z | Null | https://github.com/sukatdong/TugasFuzzy | 0 | 0| 
 | 20220308T08:43:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7159 | 1518| 
 | 20220308T07:27:09Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 864 | 95| 
-| 20220308T07:05:59Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 518 | 52| 
 
 
 
