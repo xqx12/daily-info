@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220308T01:39:49Z | Null | https://github.com/AditiNaik16/fuzzy-octo-happiness | 0 | 0| 
 | 20220307T23:36:39Z | Null | https://github.com/N1VR1TH1/fuzzy-umbrella | 0 | 0| 
 | 20220307T22:00:18Z | rock papers scissors  | https://github.com/elfamosodemon/fuzzy-computing-machine | 0 | 0| 
 | 20220307T21:17:07Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 3 | 6| 
@@ -147,7 +148,6 @@
 | 20220307T19:40:15Z | Date Fuzzy Span | https://github.com/davidvandertuijn/date_fuzzy_span | 0 | 0| 
 | 20220307T13:10:53Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1106 | 155| 
 | 20220307T12:51:47Z | Live ticketing platform and online music streaming | https://github.com/SkNuwanTissera/fuzzy-adventure | 0 | 0| 
-| 20220307T12:45:01Z | Null | https://github.com/Tequilashott/fuzzy-octo-guacamole | 0 | 0| 
 
 
 
