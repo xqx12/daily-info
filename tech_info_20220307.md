@@ -95,9 +95,9 @@
 | 20220307T20:11:05Z | Null | https://github.com/fatura-brigitta/fuzzy-palm-tree | 0 | 0| 
 | 20220307T20:02:35Z | AI project for 6th sem | https://github.com/Gopal-Kshetri/Fuzzy_logic | 0 | 0| 
 | 20220307T19:40:15Z | Date Fuzzy Span | https://github.com/davidvandertuijn/date_fuzzy_span | 0 | 0| 
+| 20220307T18:12:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7158 | 1518| 
 | 20220307T13:10:53Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1106 | 155| 
 | 20220307T12:51:47Z | Live ticketing platform and online music streaming | https://github.com/SkNuwanTissera/fuzzy-adventure | 0 | 0| 
-| 20220307T12:45:01Z | Null | https://github.com/Tequilashott/fuzzy-octo-guacamole | 0 | 0| 
 
 
 
