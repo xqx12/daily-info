@@ -75,11 +75,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220308T13:09:28Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6211 | 1919| 
 | 20220308T11:52:09Z | Null | https://github.com/Seaocn/Dyn-Backdoor | 0 | 0| 
 | 20220308T11:32:01Z | Small and convenient C2 tool for Windows targets [Путин хуйло, Лукашенко тоже: шо один шо другой -- на говно похожи] | https://github.com/Cr4sh/MicroBackdoor | 346 | 77| 
 | 20220308T11:05:30Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 15 | 5| 
 | 20220308T10:26:20Z | A python backdoor/reverseshell for linux. Written In Python3. | https://github.com/Keyj33k/ReverseShell | 0 | 0| 
-| 20220308T09:52:17Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6210 | 1919| 
 | 20220308T06:31:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 427 | 80| 
 | 20220308T06:27:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 135 | 34| 
 | 20220308T05:03:04Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 17 | 4| 
