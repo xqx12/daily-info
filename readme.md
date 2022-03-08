@@ -25,10 +25,10 @@
 | 20220307T19:01:49Z | CVE-2021-31166 | CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
 | 20220307T18:52:35Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
 | 20220307T17:53:31Z | CVE-2022-0847 | Vulnerability in the Linux kernel since 5.8 | https://github.com/xndpxs/CVE-2022-0847 | | 
-| 20220307T17:31:51Z | CVE-2021-4034 | Script CVE-2021-4034 en python | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
 | 20220307T16:51:45Z | CVE-2022-25636 | CVE-2022-25636 | https://github.com/Bonfee/CVE-2022-25636 | | 
 | 20220307T15:24:53Z | cve-2022-22947 | Null | https://github.com/darkb1rd/cve-2022-22947 | | 
 | 20220307T13:15:29Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
+| 20220307T11:53:51Z | CVE-2022-22947 | SpringCloudGatewayRCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2022-22947 | | 
 
 
 # klee on Github 推荐
