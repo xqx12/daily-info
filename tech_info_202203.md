@@ -46,7 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T02:24:59Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T02:25:54Z | CVE-2022-25636 | CVE-2022-25636 | https://github.com/Bonfee/CVE-2022-25636 | | 
+| 20220308T02:25:43Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T02:23:43Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220308T02:22:03Z | CVE-2022-0847 | CVE-2022-0847简单复现 | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220308T02:19:18Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
@@ -55,7 +56,6 @@
 | 20220308T02:06:43Z | CVE-2021-4034 | Script en python de la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
 | 20220308T01:34:05Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
 | 20220308T01:28:32Z | CVE-2022-24990 | Null | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS-PHP- | | 
-| 20220308T01:18:02Z | CVE-2022-0847 | Null | https://github.com/lucksec/CVE-2022-0847 | | 
 
 
 # klee on Github 推荐
