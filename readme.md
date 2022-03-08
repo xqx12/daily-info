@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T13:26:10Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T13:26:38Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T13:22:16Z | CVE-2021-4034 | Script en python de la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
 | 20220308T13:21:36Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
 | 20220308T13:21:11Z | CVE-2022-0847 | Vulnerability in the Linux kernel since 5.8 | https://github.com/xndpxs/CVE-2022-0847 | | 
