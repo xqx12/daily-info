@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:34:52Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T01:41:10Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T01:40:32Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220308T01:34:05Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
-| 20220308T01:33:58Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220308T01:28:32Z | CVE-2022-24990 | Null | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS-PHP- | | 
 | 20220308T01:25:37Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
 | 20220308T01:20:21Z | CVE-2022-0847 | This is the story of CVE-2022-0847, a vulnerability in the Linux kernel since 5.8 which allows overwriting data in arbitrary read-only files. This leads to privilege escalation because unprivileged processes can inject code into root processes. | https://github.com/Udyz/CVE-2022-0847 | | 
@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220308T01:41:37Z | This Exploit tweaks with the API for Tracfone and try%s to get to the endpoint of the API and will pull a account pin some times this works sometimes it don%t this is a old exploit so yeah | https://github.com/Exploitgodz/tracfonesploit | 0 | 0| 
+| 20220308T01:40:33Z | This Exploit tweaks with the API for Tracfone and try%s to get to the endpoint of the API and will pull a account pin some times this works sometimes it don%t | https://github.com/Exploitgodz/Tracfone-exploit | 0 | 0| 
 | 20220308T00:49:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2426 | 281| 
 | 20220308T00:29:11Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1581 | 532| 
 | 20220308T00:16:44Z | This repository provides guidance on how build your own hacking environment, learn about offensive security (ethical hacking) techniques, vulnerability research, exploit development, reverse engineering, malware analysis, threat intelligence, threat hunting, digital forensics and incident response (DFIR). | https://github.com/KodaneFlash/ethical-hacking | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20220307T18:30:37Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 168 | 72| 
 | 20220307T13:52:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10850 | 1883| 
 | 20220307T13:27:19Z | Rex library for various exploitation helpers | https://github.com/rapid7/rex-exploitation | 17 | 31| 
-| 20220307T12:54:09Z | Craft PNG files that appear completely different in Apple software [NOW PATCHED] | https://github.com/DavidBuchanan314/ambiguous-png-packer | 1009 | 38| 
-| 20220307T11:05:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1114 | 184| 
 
 
 # backdoor on Github 推荐
