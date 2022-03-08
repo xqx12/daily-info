@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220308T13:26:10Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T13:22:16Z | CVE-2021-4034 | Script en python de la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
 | 20220308T13:21:36Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
 | 20220308T13:21:11Z | CVE-2022-0847 | Vulnerability in the Linux kernel since 5.8 | https://github.com/xndpxs/CVE-2022-0847 | | 
-| 20220308T13:20:59Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T13:20:48Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220308T13:20:38Z | CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220308T13:20:20Z | CVE-2021-31166 | CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220308T13:24:43Z | The codes associated with my paper published in neurocomputing  | https://github.com/siven-git/Fuzzy-Clustering-codes | 0 | 0| 
 | 20220308T13:02:53Z | Null | https://github.com/insol29/fuzzy-giggle | 0 | 0| 
 | 20220308T12:51:14Z | tugas | https://github.com/gabebutar05/tugasFuzzy | 0 | 0| 
 | 20220308T12:30:20Z | Null | https://github.com/gabebutar05/Fuzzy-scpk | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20220308T11:01:08Z | Tugas fuzzy | https://github.com/gabebutar05/TUGAS-FUZZY | 0 | 0| 
 | 20220308T10:39:46Z | Null | https://github.com/sukatdong/TugasFuzzy | 0 | 0| 
 | 20220308T08:43:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7159 | 1518| 
-| 20220308T07:27:09Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 864 | 95| 
 
 
 
