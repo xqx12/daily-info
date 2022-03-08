@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220307T13:15:29Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
-| 20220307T11:53:51Z | CVE-2022-22947 | SpringCloudGatewayRCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2022-22947 | | 
-| 20220307T10:19:20Z | CVE-2022-25257 | Null | https://github.com/RobertDra/CVE-2022-25257 | | 
-| 20220307T10:18:41Z | CVE-2022-25256 | Null | https://github.com/RobertDra/CVE-2022-25256 | | 
-| 20220307T10:03:29Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
-| 20220307T08:22:00Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行漏洞POC，基于命令执行的基础上，增加了反弹shell操作 | https://github.com/j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE | | 
-| 20220307T06:26:50Z | CVE-2022-22947 | Null | https://github.com/22ke/CVE-2022-22947 | | 
-| 20220307T04:57:52Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
-| 20220307T03:58:14Z | CVE-2022-22947 | Spring Cloud Gateway < 3.0.7 & < 3.1.1 Code Injection (RCE) | https://github.com/carlosevieira/CVE-2022-22947 | | 
-| 20220306T22:10:24Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection. | https://github.com/march0s1as/CVE-2022-22947 | | 
+| 20220308T00:59:25Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T00:52:35Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
+| 20220308T00:29:46Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
+| 20220307T22:41:14Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
+| 20220307T19:58:56Z | CVE-2022-0847 | 66666 | https://github.com/2xYuan/CVE-2022-0847 | | 
+| 20220307T19:03:00Z | CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | | 
+| 20220307T19:01:49Z | CVE-2021-31166 | CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
+| 20220307T18:52:35Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
+| 20220307T18:43:53Z | CVE-2022-0847 | CVE-2022-0847简单复现 | https://github.com/imfiver/CVE-2022-0847 | | 
+| 20220307T17:53:31Z | CVE-2022-0847 | Vulnerability in the Linux kernel since 5.8 | https://github.com/xndpxs/CVE-2022-0847 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220307T13:53:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5358 | 195| 
+| 20220307T17:21:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5360 | 195| 
 | 20220307T11:59:28Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 26| 
 | 20220307T01:19:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1901 | 543| 
 | 20220306T21:28:12Z | Klee | https://github.com/aiskunks/Klee | 1 | 1| 
@@ -87,21 +87,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220308T00:49:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2426 | 281| 
+| 20220308T00:29:11Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1581 | 532| 
+| 20220308T00:16:44Z | This repository provides guidance on how build your own hacking environment, learn about offensive security (ethical hacking) techniques, vulnerability research, exploit development, reverse engineering, malware analysis, threat intelligence, threat hunting, digital forensics and incident response (DFIR). | https://github.com/KodaneFlash/ethical-hacking | 0 | 0| 
+| 20220307T23:12:20Z | A true and authentic pastry of cybersecurity write-ups! | https://github.com/Kipferl-OS/exploiting-croissant.github.io | 0 | 0| 
+| 20220307T21:57:00Z | roblox exploit script | https://github.com/intr-dev/klox | 0 | 0| 
+| 20220307T18:30:37Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 168 | 72| 
 | 20220307T13:52:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10850 | 1883| 
 | 20220307T13:27:19Z | Rex library for various exploitation helpers | https://github.com/rapid7/rex-exploitation | 17 | 31| 
 | 20220307T12:54:09Z | Craft PNG files that appear completely different in Apple software [NOW PATCHED] | https://github.com/DavidBuchanan314/ambiguous-png-packer | 1009 | 38| 
 | 20220307T11:05:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1114 | 184| 
-| 20220307T10:54:18Z | Null | https://github.com/rl-ehs-sl0th/exploit | 0 | 0| 
-| 20220307T10:11:58Z | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts | https://github.com/hotpotcookie/lol4j-white-box | 1 | 0| 
-| 20220307T10:00:31Z | exploit-vul | https://github.com/DangPhucTech/exploit-vul | 0 | 0| 
-| 20220307T09:27:14Z | Revslider Exploit | https://github.com/ZekkelAR/Revslider | 0 | 0| 
-| 20220307T08:35:19Z | Null | https://github.com/mfarukk06/Buffer-Overflow-Exploit | 0 | 0| 
-| 20220307T07:18:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2424 | 281| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220307T23:20:08Z | Null | https://github.com/VITA-Group/Backdoor-LTH | 0 | 0| 
+| 20220307T19:46:22Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 96 | 24| 
+| 20220307T19:43:12Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 15 | 4| 
 | 20220307T13:48:32Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6873 | 1709| 
 | 20220307T06:09:54Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 21 | 7| 
 | 20220307T05:37:18Z | A c# backdoor, to be upgraded :-) | https://github.com/Thehacker-arch/backdoor | 0 | 0| 
@@ -109,9 +112,6 @@
 | 20220306T19:21:41Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 14 | 5| 
 | 20220306T18:04:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 426 | 80| 
 | 20220306T17:29:48Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 72 | 20| 
-| 20220306T15:01:06Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 95 | 24| 
-| 20220306T13:06:14Z | Cheat and Backdoor Menu for Garry%s Mod | https://github.com/VierlochStute/Garrys-Mod-CheatBackdoor-Menu | 1 | 0| 
-| 20220306T11:09:53Z | Enhancing Backdoor Attacks with Multi-Level MMD Regularization | https://github.com/xpf/Multi-Level-MMD-Regularization | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220307T23:36:39Z | Null | https://github.com/N1VR1TH1/fuzzy-umbrella | 0 | 0| 
+| 20220307T22:00:18Z | rock papers scissors  | https://github.com/elfamosodemon/fuzzy-computing-machine | 0 | 0| 
+| 20220307T21:17:07Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 3 | 6| 
+| 20220307T21:05:31Z | fuzzy-rainbow is a RGB ⟷ CMYK ⟷ HEX converter tool | https://github.com/Zweizack/fuzzy-rainbow | 0 | 0| 
+| 20220307T20:11:05Z | Null | https://github.com/fatura-brigitta/fuzzy-palm-tree | 0 | 0| 
+| 20220307T20:02:35Z | AI project for 6th sem | https://github.com/Gopal-Kshetri/Fuzzy_logic | 0 | 0| 
+| 20220307T19:40:15Z | Date Fuzzy Span | https://github.com/davidvandertuijn/date_fuzzy_span | 0 | 0| 
 | 20220307T13:10:53Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1106 | 155| 
 | 20220307T12:51:47Z | Live ticketing platform and online music streaming | https://github.com/SkNuwanTissera/fuzzy-adventure | 0 | 0| 
 | 20220307T12:45:01Z | Null | https://github.com/Tequilashott/fuzzy-octo-guacamole | 0 | 0| 
-| 20220307T12:01:32Z | Null | https://github.com/abhisek1999-android/Fuzzy-Image-Contrast-Enhancify | 0 | 0| 
-| 20220307T11:19:51Z | Null | https://github.com/Xryak/fuzzy-from-bitbacket | 0 | 0| 
-| 20220307T11:04:06Z | Null | https://github.com/EnderPluser/fuzzy-lamp | 0 | 0| 
-| 20220307T10:40:48Z | Null | https://github.com/Reinz0n/Fuzzy | 0 | 0| 
-| 20220307T02:49:22Z | Null | https://github.com/binhdam/Incoterm-Selection-with-Static-Fuzzy-AHP-TOPSIS | 0 | 0| 
-| 20220307T02:34:42Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 4312 | 261| 
-| 20220307T02:24:46Z | Null | https://github.com/2020-SIT215-Group6/PBL1-FuzzyCar | 1 | 0| 
 
 
 
