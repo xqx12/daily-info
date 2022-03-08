@@ -19,7 +19,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220307T22:41:14Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
 | 20220307T19:58:56Z | CVE-2022-0847 | 66666 | https://github.com/2xYuan/CVE-2022-0847 | | 
 | 20220307T19:03:00Z | CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220307T19:01:49Z | CVE-2021-31166 | CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
@@ -29,6 +28,7 @@
 | 20220307T15:24:53Z | cve-2022-22947 | Null | https://github.com/darkb1rd/cve-2022-22947 | | 
 | 20220307T13:15:29Z | CVE-2022-0824 | Webmin CVE-2022-0824 Post-Auth Reverse Shell | https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell | | 
 | 20220307T11:53:51Z | CVE-2022-22947 | SpringCloudGatewayRCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2022-22947 | | 
+| 20220307T10:19:20Z | CVE-2022-25257 | Null | https://github.com/RobertDra/CVE-2022-25257 | | 
 
 
 # klee on Github 推荐
