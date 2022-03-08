@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:41:10Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
-| 20220308T01:40:32Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
+| 20220308T01:42:24Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
+| 20220308T01:42:05Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T01:34:05Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
 | 20220308T01:28:32Z | CVE-2022-24990 | Null | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS-PHP- | | 
 | 20220308T01:25:37Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:39:49Z | Null | https://github.com/AditiNaik16/fuzzy-octo-happiness | 0 | 0| 
+| 20220308T01:40:37Z | Null | https://github.com/AditiNaik16/fuzzy-octo-happiness | 0 | 0| 
 | 20220307T23:36:39Z | Null | https://github.com/N1VR1TH1/fuzzy-umbrella | 0 | 0| 
 | 20220307T22:00:18Z | rock papers scissors  | https://github.com/elfamosodemon/fuzzy-computing-machine | 0 | 0| 
 | 20220307T21:17:07Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 3 | 6| 
