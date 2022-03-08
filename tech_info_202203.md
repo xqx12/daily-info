@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220308T13:22:16Z | CVE-2021-4034 | Script en python de la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
+| 20220308T13:21:36Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
+| 20220308T13:21:11Z | CVE-2022-0847 | Vulnerability in the Linux kernel since 5.8 | https://github.com/xndpxs/CVE-2022-0847 | | 
+| 20220308T13:20:59Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T13:20:48Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
+| 20220308T13:20:38Z | CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | | 
 | 20220308T13:20:20Z | CVE-2021-31166 | CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
-| 20220308T13:20:02Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T13:19:19Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
-| 20220308T13:16:35Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220308T12:50:25Z | CVE-2022-0847 | CVE-2022-0847: Linux Kernel Privilege Escalation Vulnerability | https://github.com/ahrixia/CVE_2022_0847 | | 
 | 20220308T10:42:34Z | CVE-2022-0847 | An exploit for CVE-2022-0847 dirty-pipe vulnerability | https://github.com/cspshivam/CVE-2022-0847-dirty-pipe-exploit | | 
-| 20220308T10:22:21Z | CVE-2022-0847 | Linux Kernel Local Privilege Escalation Vulnerability CVE-2022-0847. | https://github.com/antx-code/CVE-2022-0847 | | 
-| 20220308T10:07:54Z | CVE-2022-22947 | 调试代码包含断点信息,直接导入即可进行调试 | https://github.com/ba1ma0/Spring-Cloud-GateWay-CVE-2022-22947-demon-code | | 
-| 20220308T10:05:14Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
-| 20220308T09:46:36Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，超时时间不超过2s，已更新可反弹shell的EXP，欢迎师傅们试用 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
 
 
 # klee on Github 推荐
