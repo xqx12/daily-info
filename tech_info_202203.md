@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:56:34Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T01:58:02Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T01:51:07Z | CVE-2022-0847 | CVE-2022-0847简单复现 | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220308T01:42:24Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220308T01:34:05Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220308T01:58:01Z | Null | https://github.com/carolfortuna/Fuzzy-controller-Python | 0 | 0| 
 | 20220308T01:40:37Z | Null | https://github.com/AditiNaik16/fuzzy-octo-happiness | 0 | 0| 
 | 20220307T23:36:39Z | Null | https://github.com/N1VR1TH1/fuzzy-umbrella | 0 | 0| 
 | 20220307T22:00:18Z | rock papers scissors  | https://github.com/elfamosodemon/fuzzy-computing-machine | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20220307T20:02:35Z | AI project for 6th sem | https://github.com/Gopal-Kshetri/Fuzzy_logic | 0 | 0| 
 | 20220307T19:40:15Z | Date Fuzzy Span | https://github.com/davidvandertuijn/date_fuzzy_span | 0 | 0| 
 | 20220307T13:10:53Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1106 | 155| 
-| 20220307T12:51:47Z | Live ticketing platform and online music streaming | https://github.com/SkNuwanTissera/fuzzy-adventure | 0 | 0| 
 
 
 
