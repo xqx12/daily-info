@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220308T02:26:50Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T02:25:54Z | CVE-2022-25636 | CVE-2022-25636 | https://github.com/Bonfee/CVE-2022-25636 | | 
-| 20220308T02:25:43Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T02:23:43Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220308T02:22:03Z | CVE-2022-0847 | CVE-2022-0847简单复现 | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220308T02:19:18Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
