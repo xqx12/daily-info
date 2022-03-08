@@ -89,6 +89,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220308T12:06:17Z | It%s a repository to import public exploits to be written in Ruby without Metasploit complication  | https://github.com/readloud/CVE-in-Ruby | 0 | 0| 
 | 20220308T11:50:29Z | CVE-2022-0847 DirtyPipe Exploit. | https://github.com/febinrev/dirtypipez-exploit | 0 | 0| 
+| 20220308T11:21:13Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 35 | 2| 
 | 20220308T10:42:34Z | An exploit for CVE-2022-0847 dirty-pipe vulnerability | https://github.com/cspshivam/CVE-2022-0847-dirty-pipe-exploit | 0 | 0| 
 | 20220308T10:01:22Z | Various exploits that have been tested | https://github.com/tsigouris007/exploits | 0 | 0| 
 | 20220308T09:19:05Z | XSS HTTP Inject0r is a proof of concept tool that shows how XSS (Cross Site Scripting) flags can be exploited easily. | https://github.com/readloud/XSS-HTTP-Inject0r | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220308T08:20:07Z | Automatically scan jar packages by using ast to find fastjson gadgets. In particular, this project is limited to mining Gadgets that may be exploited, and screening results need to be excluded by themselves. Looking forward to Fork and Star. | https://github.com/H3rmesk1t/Fastjson-Gadgets-Automatic-Scanner | 0 | 0| 
 | 20220308T07:53:27Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 87 | 15| 
 | 20220308T07:53:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 333 | 99| 
-| 20220308T07:27:09Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 864 | 95| 
 
 
 # backdoor on Github 推荐
