@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:23:42Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
+| 20220308T01:26:43Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T01:25:37Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
 | 20220308T01:20:21Z | CVE-2022-0847 | This is the story of CVE-2022-0847, a vulnerability in the Linux kernel since 5.8 which allows overwriting data in arbitrary read-only files. This leads to privilege escalation because unprivileged processes can inject code into root processes. | https://github.com/Udyz/CVE-2022-0847 | | 
 | 20220308T01:18:02Z | CVE-2022-0847 | Null | https://github.com/lucksec/CVE-2022-0847 | | 
-| 20220308T01:12:22Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T00:29:46Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220307T22:41:14Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
 | 20220307T19:58:56Z | CVE-2022-0847 | 66666 | https://github.com/2xYuan/CVE-2022-0847 | | 
