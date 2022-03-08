@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:31:54Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T01:34:52Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T01:34:05Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
+| 20220308T01:33:58Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220308T01:28:32Z | CVE-2022-24990 | Null | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS-PHP- | | 
 | 20220308T01:25:37Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
 | 20220308T01:20:21Z | CVE-2022-0847 | This is the story of CVE-2022-0847, a vulnerability in the Linux kernel since 5.8 which allows overwriting data in arbitrary read-only files. This leads to privilege escalation because unprivileged processes can inject code into root processes. | https://github.com/Udyz/CVE-2022-0847 | | 
 | 20220308T01:18:02Z | CVE-2022-0847 | Null | https://github.com/lucksec/CVE-2022-0847 | | 
-| 20220308T00:29:46Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
 | 20220307T22:41:14Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
 | 20220307T19:58:56Z | CVE-2022-0847 | 66666 | https://github.com/2xYuan/CVE-2022-0847 | | 
 | 20220307T19:03:00Z | CVE-2022-21907 | CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube. | https://github.com/mauricelambert/CVE-2022-21907 | | 
-| 20220307T19:01:49Z | CVE-2021-31166 | CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:22:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5361 | 195| 
+| 20220308T01:35:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5362 | 195| 
 | 20220307T11:59:28Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 26| 
 | 20220307T01:19:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1901 | 543| 
 | 20220306T21:28:12Z | Klee | https://github.com/aiskunks/Klee | 1 | 1| 
