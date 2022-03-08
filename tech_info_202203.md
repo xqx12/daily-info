@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220308T02:47:32Z | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | 81 | 22| 
 | 20220308T01:41:37Z | This Exploit tweaks with the API for Tracfone and try%s to get to the endpoint of the API and will pull a account pin some times this works sometimes it don%t this is a old exploit so yeah | https://github.com/Exploitgodz/tracfonesploit | 0 | 0| 
 | 20220308T01:40:33Z | This Exploit tweaks with the API for Tracfone and try%s to get to the endpoint of the API and will pull a account pin some times this works sometimes it don%t | https://github.com/Exploitgodz/Tracfone-exploit | 0 | 0| 
 | 20220308T00:49:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2426 | 281| 
@@ -96,7 +97,6 @@
 | 20220307T21:57:00Z | roblox exploit script | https://github.com/intr-dev/klox | 0 | 0| 
 | 20220307T18:30:37Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 168 | 72| 
 | 20220307T13:52:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10850 | 1883| 
-| 20220307T13:27:19Z | Rex library for various exploitation helpers | https://github.com/rapid7/rex-exploitation | 17 | 31| 
 
 
 # backdoor on Github 推荐
