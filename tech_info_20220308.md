@@ -31,16 +31,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220308T13:20:20Z | CVE-2021-31166 | CVE-2022-21907: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
+| 20220308T13:20:02Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T13:19:19Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
 | 20220308T13:16:35Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
-| 20220308T13:15:13Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220308T12:50:25Z | CVE-2022-0847 | CVE-2022-0847: Linux Kernel Privilege Escalation Vulnerability | https://github.com/ahrixia/CVE_2022_0847 | | 
 | 20220308T10:42:34Z | CVE-2022-0847 | An exploit for CVE-2022-0847 dirty-pipe vulnerability | https://github.com/cspshivam/CVE-2022-0847-dirty-pipe-exploit | | 
 | 20220308T10:22:21Z | CVE-2022-0847 | Linux Kernel Local Privilege Escalation Vulnerability CVE-2022-0847. | https://github.com/antx-code/CVE-2022-0847 | | 
 | 20220308T10:07:54Z | CVE-2022-22947 | 调试代码包含断点信息,直接导入即可进行调试 | https://github.com/ba1ma0/Spring-Cloud-GateWay-CVE-2022-22947-demon-code | | 
 | 20220308T10:05:14Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
 | 20220308T09:46:36Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，超时时间不超过2s，已更新可反弹shell的EXP，欢迎师傅们试用 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
-| 20220308T09:37:25Z | CVE-2022-22947 | CVE-2022-22947_EXP,CVE-2022-22947_RCE,CVE-2022-22947反弹shell,CVE-2022-22947 getshell | https://github.com/aodsec/CVE-2022-22947 | | 
-| 20220308T09:27:55Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
 
 
 # klee on Github 推荐
