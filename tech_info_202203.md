@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220308T13:24:43Z | The codes associated with my paper published in neurocomputing  | https://github.com/siven-git/Fuzzy-Clustering-codes | 0 | 0| 
+| 20220308T13:27:15Z | The codes associated with my paper published in neurocomputing  | https://github.com/siven-git/Fuzzy-Clustering-codes | 0 | 0| 
 | 20220308T13:02:53Z | Null | https://github.com/insol29/fuzzy-giggle | 0 | 0| 
 | 20220308T12:51:14Z | tugas | https://github.com/gabebutar05/tugasFuzzy | 0 | 0| 
 | 20220308T12:30:20Z | Null | https://github.com/gabebutar05/Fuzzy-scpk | 0 | 0| 
