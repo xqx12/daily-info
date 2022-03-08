@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220308 | A Detailed Guide on Wfuzz | https://www.hackingarticles.in/a-detailed-guide-on-wfuzz/| 
+| 20220308 | 从 MITRE ATT&CK 框架的角度回顾 2021 年 | https://thedfirreport.com/2022/03/07/2021-year-in-review/| 
+| 20220308 | 通过补丁分析 Microsoft Sharepoint CVE-2022-22005 RCE 漏洞 | https://hnd3884.github.io/posts/cve-2022-22005-microsoft-sharepoint-RCE/| 
+| 20220308 | New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape? | https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/| 
+| 20220308 | Microsoft Azure Automation 被发现高危的账户越权访问漏洞 | https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/| 
+| 20220308 | Escaping privileged containers for fun | http://pwning.systems/posts/escaping-containers-for-fun/| 
+| 20220308 | Linux 内核被发现 Dirty Pipe 本地提权漏洞（CVE-2022-0847） | http://dirtypipe.cm4all.com/| 
+| 20220308 | 三星确认勒索软件组织 Lapsus$ 窃取了公司的大量源码 | https://threatpost.com/samsung-lapsus-ransomware-source-code/178791/| 
+| 20220308 | Amazon Alexa can be hijacked via commands from own speaker | https://arxiv.org/abs/2202.08619| 
 | 20220304 | 不依赖 Mimikatz 重置用户的密码 | https://www.trustedsec.com/blog/manipulating-user-passwords-without-mimikatz/?utm_campaign=Blog%20Posts&utm_content=199879719&utm_medium=social&utm_source=twitter&hss_channel=tw-403811306| 
 | 20220304 | 小米发布 《消费级物联网安全基线》2.0 版本 | https://github.com/MiSecurity/Cyber-Security-Baseline-for-Consumer-Internet-of-Things| 
 | 20220304 | 一款支持在内存中执行 JS 脚本的 C2 Post-Exploitation 框架 | https://github.com/enkomio/AlanFramework| 
@@ -17,60 +26,51 @@
 | 20220304 | 近些年蓝牙相关的安全研究资料整理 | https://github.com/engn33r/awesome-bluetooth-security| 
 | 20220303 | Rogue RDP – Revisiting Initial Access Methods. | https://www.blackhillsinfosec.com/rogue-rdp-revisiting-initial-access-methods/| 
 | 20220303 | 静态程序分析在线电子书 | https://spa-book.pblo.gq/| 
-| 20220303 | 刚刚举办的 Bluehat 会议关于 Intel MTE 的议题《Security Analysis of MTE Through Examples》 | http://github.com/saaramar/security_analysis_mte/blob/main/Security%20Analysis%20of%20MTE%20Through%20Examples.pdf| 
-| 20220303 | Pluto-Obfuscator - 基于 LLVM 实现的代码混淆工具 | https://github.com/bluesadi/Pluto-Obfuscator| 
-| 20220303 | 智能合约 Fuzzer Echidna 的性能优化 | http://blog.trailofbits.com/2022/03/02/optimizing-a-smart-contract-fuzzer/| 
-| 20220303 | Spring Boot 相关漏洞学习资料，利用方法和技巧合集 | https://github.com/LandGrey/SpringBootVulExploit| 
-| 20220303 | Hacking LG webOS TV | https://blog.recurity-labs.com/2022-03-02/webOS_Pt2.html| 
-| 20220303 | 不依赖 DLL 注入的 UAC Bypass，支持 Windows 11 | https://github.com/aaaddress1/PR0CESS/tree/main/UACBypassJF_RpcALPC| 
-| 20220302 | IsaacWiper and HermeticWizard: New wiper and worm targeting Ukraine | https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/| 
-| 20220302 | 如何分析恶意 Docker 容器 | https://sysdig.com/blog/triaging-malicious-docker-container/| 
-| 20220302 | Linux 内核 CVE-2022-0185 漏洞的发现和利用过程 | https://www.hackthebox.com/blog/CVE-2022-0185:_A_case_study| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220308 | 用户层下API的逆向分析及重构 | https://mp.weixin.qq.com/s/fmQiczq4mTJAkTMidJyOeA| 
+| 20220308 | 符号和解释 | https://ya0guang.com/caprice/SymbolAndInterpretation/| 
+| 20220308 | ROME改造计划 | https://y4tacker.github.io/2022/03/07/year/2022/3/ROME%E6%94%B9%E9%80%A0%E8%AE%A1%E5%88%92/#%E6%9C%80%E7%BB%88%E4%BB%A3%E7%A0%81| 
+| 20220308 | 记一次自建 Gitea + Drone 实例被挖矿的经历 | https://imlonghao.com/59.html| 
+| 20220308 | 容器安全在野攻击调查 | https://mp.weixin.qq.com/s/oynjO8Q3IgZJt21HwxxMgA| 
+| 20220308 | ATT&CK 在野数据分析 | https://mp.weixin.qq.com/s/VE1_ZPKvcQhdvelUy0Rofg| 
 | 20220307 | 优秀 ATT&CK 项目巡礼 | https://mp.weixin.qq.com/s/z3ewcfqGsO28BnZoPUhiYg| 
 | 20220307 | SecWiki周刊（第418期) | https://www.sec-wiki.com/weekly/418| 
 | 20220307 | 软件工程能力漫谈(视频 & PPT) | https://mp.weixin.qq.com/s/NNfWyGUl6jHrzsqVw8-Eww| 
 | 20220305 | 高效挖掘反序列化漏洞——GadgetInspector改造 | https://xz.aliyun.com/t/10908| 
-| 20220305 | js安全之ast混淆 | https://ainrm.cn/2022/js_ast.html| 
-| 20220305 | 基于openresty的安全网关开发记录 | https://ainrm.cn/2022/safegate.html| 
-| 20220304 | Mnemosyne：一个高效的水坑攻击调查取证系统 | https://mp.weixin.qq.com/s/dPhP3Z4moCKATk32meRQNw| 
-| 20220304 | GoDLP: 敏感信息保护系统 | https://github.com/bytedance/godlp| 
-| 20220304 | Make JDBC Attacks Brilliant Again 番外篇 | http://tttang.com/archive/1462/?continueFlag=ac31708e6f6b0c4f99bffa25b3a945d8| 
-| 20220304 | Attack Flow — Beyond Atomic Behaviors | https://medium.com/mitre-engenuity/attack-flow-beyond-atomic-behaviors-c646675cc793| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T02:55:35Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
-| 20220308T02:55:04Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/bbaranoff/CVE-2022-0847 | | 
-| 20220308T02:51:52Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
-| 20220308T02:35:42Z | CVE-2022-25636 | CVE-2022-25636 | https://github.com/Bonfee/CVE-2022-25636 | | 
-| 20220308T02:19:18Z | CVE-2022-0492 | Null | https://github.com/puckiestyle/CVE-2022-0492 | | 
-| 20220308T02:18:02Z | CVE-2022-0847 | This is the story of CVE-2022-0847, a vulnerability in the Linux kernel since 5.8 which allows overwriting data in arbitrary read-only files. This leads to privilege escalation because unprivileged processes can inject code into root processes. | https://github.com/Udyz/CVE-2022-0847 | | 
-| 20220308T02:17:57Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/mrknow001/CVE-2022-22947 | | 
-| 20220308T02:06:43Z | CVE-2021-4034 | Script en python de la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
-| 20220308T01:34:05Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
-| 20220308T01:28:32Z | CVE-2022-24990 | Null | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS-PHP- | | 
+| 20220308T12:59:06Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220308T12:57:53Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
+| 20220308T12:50:25Z | CVE-2022-0847 | CVE-2022-0847: Linux Kernel Privilege Escalation Vulnerability | https://github.com/ahrixia/CVE_2022_0847 | | 
+| 20220308T10:42:34Z | CVE-2022-0847 | An exploit for CVE-2022-0847 dirty-pipe vulnerability | https://github.com/cspshivam/CVE-2022-0847-dirty-pipe-exploit | | 
+| 20220308T10:22:21Z | CVE-2022-0847 | Linux Kernel Local Privilege Escalation Vulnerability CVE-2022-0847. | https://github.com/antx-code/CVE-2022-0847 | | 
+| 20220308T10:07:54Z | CVE-2022-22947 | 调试代码包含断点信息,直接导入即可进行调试 | https://github.com/ba1ma0/Spring-Cloud-GateWay-CVE-2022-22947-demon-code | | 
+| 20220308T10:05:14Z | CVE-2022-24990 | CVE-2022-24990：TerraMaster TOS 通过 PHP 对象实例化执行未经身份验证的远程命令 | https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP- | | 
+| 20220308T09:46:36Z | CVE-2022-22947 | CVE-2022-22947批量检测脚本，超时时间不超过2s，已更新可反弹shell的EXP，欢迎师傅们试用 | https://github.com/chaosec2021/CVE-2022-22947-POC | | 
+| 20220308T09:37:25Z | CVE-2022-22947 | CVE-2022-22947_EXP,CVE-2022-22947_RCE,CVE-2022-22947反弹shell,CVE-2022-22947 getshell | https://github.com/aodsec/CVE-2022-22947 | | 
+| 20220308T09:27:55Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:35:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5362 | 195| 
+| 20220308T12:24:03Z | Null | https://github.com/fontworks-fonts/Klee | 665 | 22| 
+| 20220308T12:18:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5372 | 195| 
+| 20220308T08:27:35Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 16 | 9| 
 | 20220307T11:59:28Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 26| 
 | 20220307T01:19:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1901 | 543| 
 | 20220306T21:28:12Z | Klee | https://github.com/aiskunks/Klee | 1 | 1| 
-| 20220306T08:51:53Z | Null | https://github.com/fontworks-fonts/Klee | 664 | 22| 
 | 20220306T06:27:37Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 | 20220304T20:47:51Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
 | 20220304T14:58:52Z | Null | https://github.com/gergimentr/myKleeChecker | 0 | 0| 
 | 20220304T09:40:23Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 559 | 34| 
-| 20220301T23:40:42Z | Caltech first-year graduate student proposition project with Katherine de Kleer studying oxygen aurora on Ganymede. | https://github.com/zachariahmilby/ge-297-de-kleer-ganymede-aurora | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220308T02:55:35Z | A root exploit for CVE-2022-0847 | https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit | 90 | 23| 
-| 20220308T01:41:37Z | This Exploit tweaks with the API for Tracfone and try%s to get to the endpoint of the API and will pull a account pin some times this works sometimes it don%t this is a old exploit so yeah | https://github.com/Exploitgodz/tracfonesploit | 0 | 0| 
-| 20220308T01:40:33Z | This Exploit tweaks with the API for Tracfone and try%s to get to the endpoint of the API and will pull a account pin some times this works sometimes it don%t | https://github.com/Exploitgodz/Tracfone-exploit | 0 | 0| 
-| 20220308T00:49:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2426 | 281| 
-| 20220308T00:29:11Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1581 | 532| 
-| 20220308T00:16:44Z | This repository provides guidance on how build your own hacking environment, learn about offensive security (ethical hacking) techniques, vulnerability research, exploit development, reverse engineering, malware analysis, threat intelligence, threat hunting, digital forensics and incident response (DFIR). | https://github.com/KodaneFlash/ethical-hacking | 0 | 0| 
-| 20220307T23:12:20Z | A true and authentic pastry of cybersecurity write-ups! | https://github.com/Kipferl-OS/exploiting-croissant.github.io | 0 | 0| 
-| 20220307T21:57:00Z | roblox exploit script | https://github.com/intr-dev/klox | 0 | 0| 
-| 20220307T18:30:37Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 168 | 72| 
-| 20220307T13:52:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10850 | 1883| 
+| 20220308T12:06:17Z | It%s a repository to import public exploits to be written in Ruby without Metasploit complication  | https://github.com/readloud/CVE-in-Ruby | 0 | 0| 
+| 20220308T11:50:29Z | CVE-2022-0847 DirtyPipe Exploit. | https://github.com/febinrev/dirtypipez-exploit | 0 | 0| 
+| 20220308T10:42:34Z | An exploit for CVE-2022-0847 dirty-pipe vulnerability | https://github.com/cspshivam/CVE-2022-0847-dirty-pipe-exploit | 0 | 0| 
+| 20220308T10:01:22Z | Various exploits that have been tested | https://github.com/tsigouris007/exploits | 0 | 0| 
+| 20220308T09:19:05Z | XSS HTTP Inject0r is a proof of concept tool that shows how XSS (Cross Site Scripting) flags can be exploited easily. | https://github.com/readloud/XSS-HTTP-Inject0r | 0 | 0| 
+| 20220308T09:10:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10856 | 1884| 
+| 20220308T08:20:07Z | Automatically scan jar packages by using ast to find fastjson gadgets. In particular, this project is limited to mining Gadgets that may be exploited, and screening results need to be excluded by themselves. Looking forward to Fork and Star. | https://github.com/H3rmesk1t/Fastjson-Gadgets-Automatic-Scanner | 0 | 0| 
+| 20220308T07:53:27Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 87 | 15| 
+| 20220308T07:53:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 333 | 99| 
+| 20220308T07:27:09Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 864 | 95| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220308T11:52:09Z | Null | https://github.com/Seaocn/Dyn-Backdoor | 0 | 0| 
+| 20220308T11:32:01Z | Small and convenient C2 tool for Windows targets [Путин хуйло, Лукашенко тоже: шо один шо другой -- на говно похожи] | https://github.com/Cr4sh/MicroBackdoor | 346 | 77| 
+| 20220308T11:05:30Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 15 | 5| 
+| 20220308T10:26:20Z | A python backdoor/reverseshell for linux. Written In Python3. | https://github.com/Keyj33k/ReverseShell | 0 | 0| 
+| 20220308T09:52:17Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6210 | 1919| 
+| 20220308T06:31:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 427 | 80| 
+| 20220308T06:27:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 135 | 34| 
+| 20220308T05:03:04Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 17 | 4| 
 | 20220307T23:20:08Z | Null | https://github.com/VITA-Group/Backdoor-LTH | 0 | 0| 
 | 20220307T19:46:22Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 96 | 24| 
-| 20220307T19:43:12Z | Remote control software, supported Windows/Unix/MacOS/Linux(x86/x64/mips/arm) | https://github.com/h1zzz/purewater | 15 | 4| 
-| 20220307T13:48:32Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6873 | 1709| 
-| 20220307T06:09:54Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 21 | 7| 
-| 20220307T05:37:18Z | A c# backdoor, to be upgraded :-) | https://github.com/Thehacker-arch/backdoor | 0 | 0| 
-| 20220306T20:41:16Z | This Is A Python Backdoor Tool Project Written In Python3. | https://github.com/Keyj33k/ReverseShell | 0 | 0| 
-| 20220306T19:21:41Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 14 | 5| 
-| 20220306T18:04:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 426 | 80| 
-| 20220306T17:29:48Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 72 | 20| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220308T01:58:01Z | Null | https://github.com/carolfortuna/Fuzzy-controller-Python | 0 | 0| 
-| 20220308T01:40:37Z | Null | https://github.com/AditiNaik16/fuzzy-octo-happiness | 0 | 0| 
-| 20220307T23:36:39Z | Null | https://github.com/N1VR1TH1/fuzzy-umbrella | 0 | 0| 
-| 20220307T22:00:18Z | rock papers scissors  | https://github.com/elfamosodemon/fuzzy-computing-machine | 0 | 0| 
-| 20220307T21:17:07Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 3 | 6| 
-| 20220307T21:05:31Z | fuzzy-rainbow is a RGB ⟷ CMYK ⟷ HEX converter tool | https://github.com/Zweizack/fuzzy-rainbow | 0 | 0| 
-| 20220307T20:11:05Z | Null | https://github.com/fatura-brigitta/fuzzy-palm-tree | 0 | 0| 
-| 20220307T20:02:35Z | AI project for 6th sem | https://github.com/Gopal-Kshetri/Fuzzy_logic | 0 | 0| 
-| 20220307T19:40:15Z | Date Fuzzy Span | https://github.com/davidvandertuijn/date_fuzzy_span | 0 | 0| 
-| 20220307T18:12:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7158 | 1518| 
+| 20220308T12:51:14Z | tugas | https://github.com/gabebutar05/tugasFuzzy | 0 | 0| 
+| 20220308T12:30:20Z | Null | https://github.com/gabebutar05/Fuzzy-scpk | 0 | 0| 
+| 20220308T11:56:35Z | Null | https://github.com/BelajarCuan/Tugas-FUZZY | 0 | 0| 
+| 20220308T11:34:43Z | Tugas Fuzzy prak SCPK | https://github.com/gabebutar05/fuzzy-prak-scpk | 0 | 0| 
+| 20220308T11:02:25Z | Null | https://github.com/gabebutar05/Matlab-Fuzzy-prak-scpk | 0 | 0| 
+| 20220308T11:01:08Z | Tugas fuzzy | https://github.com/gabebutar05/TUGAS-FUZZY | 0 | 0| 
+| 20220308T10:39:46Z | Null | https://github.com/sukatdong/TugasFuzzy | 0 | 0| 
+| 20220308T08:43:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7159 | 1518| 
+| 20220308T07:27:09Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 864 | 95| 
+| 20220308T07:05:59Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 518 | 52| 
 
 
 
