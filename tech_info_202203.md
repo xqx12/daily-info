@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220309T01:33:33Z | CVE-2021-41073 | Null | https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073 | | 
 | 20220309T01:30:48Z | CVE-2022-0847 | The Dirty Pipe Vulnerability | https://github.com/knqyf263/CVE-2022-0847 | | 
-| 20220309T01:20:58Z | CVE-2021-41073 | Null | https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073 | | 
 | 20220308T21:58:51Z | CVE-2021-41773 | This script exploits CVE-2021-41773 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-41773 | | 
 | 20220308T21:54:10Z | CVE-2021-42013 | This script exploits CVE-2021-42013 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-42013 | | 
 | 20220308T20:33:46Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/4luc4rdr5290/CVE-2022-0847 | | 
