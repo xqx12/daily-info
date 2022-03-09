@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220309T13:07:15Z | The ChromeCast Exploitation Kit | https://github.com/PabloBrusseel/CCEK | 22 | 7| 
 | 20220309T13:00:34Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3600 | 247| 
 | 20220309T12:52:32Z | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | 84 | 28| 
 | 20220309T12:03:13Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 5056 | 1443| 
@@ -96,7 +97,6 @@
 | 20220309T09:06:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1139 | 188| 
 | 20220309T07:32:34Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2790 | 434| 
 | 20220309T02:37:40Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 679 | 151| 
-| 20220309T02:11:57Z | Null | https://github.com/CxntBerry/PrintExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220309T13:05:37Z | Null | https://github.com/professorfabioandrade/QuadcopterFuzzy | 0 | 0| 
+| 20220309T13:10:31Z | Null | https://github.com/professorfabioandrade/QuadcopterFuzzy | 0 | 0| 
 | 20220309T12:44:59Z | Freshley Grisyuan Surya Kolim | https://github.com/freshleygrisy/Tugas_Fuzzy | 0 | 0| 
 | 20220309T12:39:17Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 520 | 52| 
 | 20220309T12:22:09Z | A homework | https://github.com/Sayuris1/fuzzy | 0 | 0| 
