@@ -34,13 +34,13 @@
 | 20220309 | CodeBERT: A Pre-Trained Model for Programming and Natural ... | https://zhuanlan.zhihu.com/p/476950957| 
 | 20220309 | 浅谈一下，Linux中基于eBPF的恶意利用与检测机制 | https://mp.weixin.qq.com/s/-1GiCncNTqtfO_grQT7cGw| 
 | 20220309 | 安全的未来是上下文 | https://mp.weixin.qq.com/s/P0nOKaP31k10bgRuuJGLWg| 
+| 20220309 | 用户视角下的网络威胁情报共享平台 | https://mp.weixin.qq.com/s/rgY7KbJ_NWb6_XjhVZS0xw| 
 | 20220308 | 用户层下API的逆向分析及重构 | https://mp.weixin.qq.com/s/fmQiczq4mTJAkTMidJyOeA| 
 | 20220308 | 符号和解释 | https://ya0guang.com/caprice/SymbolAndInterpretation/| 
 | 20220308 | ROME改造计划 | https://y4tacker.github.io/2022/03/07/year/2022/3/ROME%E6%94%B9%E9%80%A0%E8%AE%A1%E5%88%92/#%E6%9C%80%E7%BB%88%E4%BB%A3%E7%A0%81| 
 | 20220308 | 记一次自建 Gitea + Drone 实例被挖矿的经历 | https://imlonghao.com/59.html| 
 | 20220308 | 容器安全在野攻击调查 | https://mp.weixin.qq.com/s/oynjO8Q3IgZJt21HwxxMgA| 
 | 20220308 | ATT&CK 在野数据分析 | https://mp.weixin.qq.com/s/VE1_ZPKvcQhdvelUy0Rofg| 
-| 20220307 | 优秀 ATT&CK 项目巡礼 | https://mp.weixin.qq.com/s/z3ewcfqGsO28BnZoPUhiYg| 
 
 
 # CVE Github 推荐
