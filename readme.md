@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220309T13:37:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1138 | 188| 
 | 20220309T13:31:41Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3601 | 247| 
 | 20220309T13:20:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2441 | 283| 
 | 20220309T13:07:15Z | The ChromeCast Exploitation Kit | https://github.com/PabloBrusseel/CCEK | 22 | 7| 
@@ -64,7 +65,6 @@
 | 20220309T11:53:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6827 | 1581| 
 | 20220309T10:15:23Z | Null | https://github.com/AyoubNajim/cve-2022-0847dirtypipe-exploit | 0 | 1| 
 | 20220309T09:14:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10857 | 1884| 
-| 20220309T09:06:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1139 | 188| 
 | 20220309T07:32:34Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2790 | 434| 
 
 
@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220309T13:37:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7159 | 1518| 
 | 20220309T13:15:40Z | Simulation of Fuzzy Gain-Scheduling PID for UAV Position and Altitude Controllers using Matlab | https://github.com/GeneralAdmin/FuzzyGainSchedulingUAV | 0 | 0| 
 | 20220309T13:10:31Z | Null | https://github.com/professorfabioandrade/QuadcopterFuzzy | 0 | 0| 
 | 20220309T12:44:59Z | Freshley Grisyuan Surya Kolim | https://github.com/freshleygrisy/Tugas_Fuzzy | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20220309T11:54:07Z | Null | https://github.com/ilhamkurn14/Tugas-2-Logika-Fuzzy | 0 | 0| 
 | 20220309T10:23:57Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 297 | 24| 
 | 20220309T02:39:14Z | Null | https://github.com/ac3018/fuzzer-project | 0 | 0| 
-| 20220309T01:46:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7160 | 1518| 
 
 
 
