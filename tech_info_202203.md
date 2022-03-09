@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220309T01:45:59Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
 | 20220309T01:33:33Z | CVE-2021-41073 | Null | https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073 | | 
 | 20220309T01:30:48Z | CVE-2022-0847 | The Dirty Pipe Vulnerability | https://github.com/knqyf263/CVE-2022-0847 | | 
 | 20220308T21:58:51Z | CVE-2021-41773 | This script exploits CVE-2021-41773 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-41773 | | 
@@ -55,7 +56,6 @@
 | 20220308T20:13:08Z | CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
 | 20220308T17:39:32Z | CVE-2020-14144 | A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks | https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce | | 
 | 20220308T17:14:12Z | CVE-2022-0847 | Bash script to check for CVE-2022-0847 "Dirty Pipe" | https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker | | 
-| 20220308T17:10:43Z | CVE-2022-244112 | CVE-2022-24112: Apache APISIX Remote Code Execution Vulnerability | https://github.com/Mah1ndra/CVE-2022-244112 | | 
 
 
 # klee on Github 推荐
