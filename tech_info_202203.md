@@ -96,7 +96,7 @@
 | 20220309T11:53:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6827 | 1581| 
 | 20220309T10:15:23Z | Null | https://github.com/AyoubNajim/cve-2022-0847dirtypipe-exploit | 0 | 1| 
 | 20220309T09:14:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10857 | 1884| 
-| 20220309T07:32:34Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2790 | 434| 
+| 20220309T07:53:20Z | Discord SelfBot & Exploit Executor | https://github.com/RooverPY/RooverCord | 21 | 2| 
 
 
 # backdoor on Github 推荐
