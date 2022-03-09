@@ -68,9 +68,9 @@
 | 20220308T21:54:10Z | This script exploits CVE-2021-42013 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-42013 | 0 | 0| 
 | 20220308T20:44:06Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 75 | 16| 
 | 20220308T18:26:46Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
+| 20220308T13:42:48Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 767 | 133| 
 | 20220308T13:33:04Z | CVE-2022-0847 DirtyPipe Exploit. | https://github.com/febinrev/dirtypipez-exploit | 1 | 0| 
 | 20220308T12:06:17Z | It%s a repository to import public exploits to be written in Ruby without Metasploit complication  | https://github.com/readloud/CVE-in-Ruby | 0 | 0| 
-| 20220308T11:21:13Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 35 | 2| 
 
 
 # backdoor on Github 推荐
