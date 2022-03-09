@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220309T01:50:27Z | Null | https://github.com/CxntBerry/PrintExploit | 0 | 0| 
 | 20220309T01:49:36Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6822 | 1580| 
 | 20220309T01:46:38Z | Suppboard Exploit add user with CSRF | https://github.com/dmzhari/Suppboard-Exploit-3.5.6 | 0 | 0| 
 | 20220309T01:43:35Z | M2I is a simple but effective joint motion prediction framework that makes marginal and conditional predictions by exploiting the factorized relations between interacting agents | https://github.com/Tsinghua-MARS-Lab/M2I | 2 | 0| 
@@ -96,7 +97,6 @@
 | 20220308T21:58:51Z | This script exploits CVE-2021-41773 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-41773 | 0 | 0| 
 | 20220308T21:54:10Z | This script exploits CVE-2021-42013 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-42013 | 0 | 0| 
 | 20220308T20:44:06Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 75 | 16| 
-| 20220308T18:26:46Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
