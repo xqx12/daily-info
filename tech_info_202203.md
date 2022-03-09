@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220309T01:43:35Z | M2I is a simple but effective joint motion prediction framework that makes marginal and conditional predictions by exploiting the factorized relations between interacting agents | https://github.com/Tsinghua-MARS-Lab/M2I | 2 | 0| 
 | 20220308T23:57:55Z | The only pastry that bakes fresh pentesting pastry write-ups :)! | https://github.com/Kipferl-OS/exploiting-croissant | 0 | 0| 
 | 20220308T23:17:33Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket | https://github.com/liamg/traitor | 3584 | 245| 
 | 20220308T22:22:09Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 118 | 53| 
@@ -96,7 +97,6 @@
 | 20220308T18:26:46Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20220308T13:33:04Z | CVE-2022-0847 DirtyPipe Exploit. | https://github.com/febinrev/dirtypipez-exploit | 1 | 0| 
 | 20220308T12:06:17Z | It%s a repository to import public exploits to be written in Ruby without Metasploit complication  | https://github.com/readloud/CVE-in-Ruby | 0 | 0| 
-| 20220308T11:21:13Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 35 | 2| 
 
 
 # backdoor on Github 推荐
