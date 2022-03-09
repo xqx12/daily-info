@@ -32,7 +32,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220308T22:17:14Z | CVE-2022-0847 | The Dirty Pipe Vulnerability | https://github.com/knqyf263/CVE-2022-0847 | | 
 | 20220308T21:58:51Z | CVE-2021-41773 | This script exploits CVE-2021-41773 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-41773 | | 
 | 20220308T21:54:10Z | CVE-2021-42013 | This script exploits CVE-2021-42013 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-42013 | | 
 | 20220308T20:33:46Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/4luc4rdr5290/CVE-2022-0847 | | 
@@ -42,6 +41,7 @@
 | 20220308T17:14:12Z | CVE-2022-0847 | Bash script to check for CVE-2022-0847 "Dirty Pipe" | https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker | | 
 | 20220308T17:10:43Z | CVE-2022-244112 | CVE-2022-24112: Apache APISIX Remote Code Execution Vulnerability | https://github.com/Mah1ndra/CVE-2022-244112 | | 
 | 20220308T17:05:05Z | CVE-2022-0847 | Docker exploit | https://github.com/mrchucu1/CVE-2022-0847-Docker | | 
+| 20220308T15:35:41Z | CVE-2022-0847 | Null | https://github.com/puckiestyle/CVE-2022-0847 | | 
 
 
 # klee on Github 推荐
