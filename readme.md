@@ -81,8 +81,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220309T13:20:34Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 221 | 13| 
+| 20220309T13:20:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2746 | 399| 
 | 20220309T03:24:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 525 | 86| 
-| 20220309T02:48:16Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 220 | 13| 
 
 
 # big4 on Github 推荐
@@ -93,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220309T13:15:40Z | Simulation of Fuzzy Gain-Scheduling PID for UAV Position and Altitude Controllers using Matlab | https://github.com/GeneralAdmin/FuzzyGainSchedulingUAV | 0 | 0| 
 | 20220309T13:10:31Z | Null | https://github.com/professorfabioandrade/QuadcopterFuzzy | 0 | 0| 
 | 20220309T12:44:59Z | Freshley Grisyuan Surya Kolim | https://github.com/freshleygrisy/Tugas_Fuzzy | 0 | 0| 
 | 20220309T12:39:17Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 520 | 52| 
@@ -102,7 +104,6 @@
 | 20220309T10:23:57Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 297 | 24| 
 | 20220309T02:39:14Z | Null | https://github.com/ac3018/fuzzer-project | 0 | 0| 
 | 20220309T01:46:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7160 | 1518| 
-| 20220309T01:14:27Z | Null | https://github.com/bananaVG/fuzzy-doodle | 0 | 0| 
 
 
 
