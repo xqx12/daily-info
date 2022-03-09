@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220309T13:08:31Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 POC | https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540 | | 
+| 20220309T13:09:55Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 POC | https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540 | | 
 | 20220309T12:52:32Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220309T12:06:00Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | | 
 | 20220309T11:05:06Z | CVE-2020-14144 | A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks | https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce | | 
@@ -58,13 +58,13 @@
 | 20220309T13:07:15Z | The ChromeCast Exploitation Kit | https://github.com/PabloBrusseel/CCEK | 22 | 7| 
 | 20220309T13:00:34Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3600 | 247| 
 | 20220309T12:52:32Z | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | 84 | 28| 
+| 20220309T12:29:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2440 | 283| 
 | 20220309T12:03:13Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 5056 | 1443| 
 | 20220309T11:53:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6827 | 1581| 
 | 20220309T10:15:23Z | Null | https://github.com/AyoubNajim/cve-2022-0847dirtypipe-exploit | 0 | 1| 
 | 20220309T09:14:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10857 | 1884| 
 | 20220309T09:06:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1139 | 188| 
 | 20220309T07:32:34Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2790 | 434| 
-| 20220309T02:37:40Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 679 | 151| 
 
 
 # backdoor on Github 推荐
