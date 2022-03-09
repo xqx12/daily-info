@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220309T13:50:37Z | Exploiting Hierarchical Parallelism and Reusability in Tensor Kernel Processing on Heterogeneous HPC Systems | https://github.com/Danniedan/HPMTTKRP | 0 | 0| 
 | 20220309T13:37:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1138 | 188| 
 | 20220309T13:31:41Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3601 | 247| 
 | 20220309T13:20:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2441 | 283| 
@@ -96,7 +97,6 @@
 | 20220309T11:53:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6827 | 1581| 
 | 20220309T10:15:23Z | Null | https://github.com/AyoubNajim/cve-2022-0847dirtypipe-exploit | 0 | 1| 
 | 20220309T09:14:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10857 | 1884| 
-| 20220309T07:53:20Z | Discord SelfBot & Exploit Executor | https://github.com/RooverPY/RooverCord | 21 | 2| 
 
 
 # backdoor on Github 推荐
