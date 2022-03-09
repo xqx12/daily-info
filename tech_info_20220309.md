@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220309T13:08:31Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 POC | https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540 | | 
 | 20220309T12:52:32Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220309T12:06:00Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | | 
 | 20220309T11:05:06Z | CVE-2020-14144 | A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks | https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce | | 
@@ -36,7 +37,6 @@
 | 20220309T07:16:19Z | CVE-2022-0847 | A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to privilege themselves with code injection. | https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit | | 
 | 20220309T06:57:40Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
 | 20220309T05:34:00Z | CVE-2022-0847 | Null | https://github.com/Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit | | 
-| 20220309T02:52:32Z | CVE-2022-0847 | Null | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe | | 
 
 
 # klee on Github 推荐
@@ -101,6 +101,7 @@
 | 20220309T11:54:07Z | Null | https://github.com/ilhamkurn14/Tugas-2-Logika-Fuzzy | 0 | 0| 
 | 20220309T10:23:57Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 297 | 24| 
 | 20220309T02:39:14Z | Null | https://github.com/ac3018/fuzzer-project | 0 | 0| 
+| 20220309T01:46:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7160 | 1518| 
 | 20220309T01:14:27Z | Null | https://github.com/bananaVG/fuzzy-doodle | 0 | 0| 
 
 
