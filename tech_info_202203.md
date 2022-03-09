@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220309T01:55:04Z | CVE-2022-0847 | A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to privilege themselves with code injection. | https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit | | 
+| 20220309T02:01:30Z | CVE-2022-0847 | A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to privilege themselves with code injection. | https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit | | 
 | 20220309T01:45:59Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
 | 20220309T01:33:33Z | CVE-2021-41073 | Null | https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073 | | 
 | 20220309T01:30:48Z | CVE-2022-0847 | The Dirty Pipe Vulnerability | https://github.com/knqyf263/CVE-2022-0847 | | 
@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220309T01:55:04Z | A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to privilege themselves with code injection. | https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit | 0 | 0| 
+| 20220309T02:01:30Z | A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to privilege themselves with code injection. | https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit | 0 | 0| 
 | 20220309T01:50:27Z | Null | https://github.com/CxntBerry/PrintExploit | 0 | 0| 
 | 20220309T01:49:36Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6822 | 1580| 
 | 20220309T01:46:38Z | Suppboard Exploit add user with CSRF | https://github.com/dmzhari/Suppboard-Exploit-3.5.6 | 0 | 0| 
