@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220309T02:48:58Z | CVE-2022-0847 | Null | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe | | 
 | 20220309T02:47:50Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | | 
 | 20220309T02:47:06Z | CVE-2022-0847 | Null | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe- | | 
 | 20220309T02:42:22Z | CVE-2021-41073 | Null | https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073 | | 
@@ -55,7 +56,6 @@
 | 20220309T02:01:30Z | CVE-2022-0847 | A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to privilege themselves with code injection. | https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit | | 
 | 20220309T01:30:48Z | CVE-2022-0847 | The Dirty Pipe Vulnerability | https://github.com/knqyf263/CVE-2022-0847 | | 
 | 20220308T21:58:51Z | CVE-2021-41773 | This script exploits CVE-2021-41773 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-41773 | | 
-| 20220308T21:54:10Z | CVE-2021-42013 | This script exploits CVE-2021-42013 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-42013 | | 
 
 
 # klee on Github 推荐
