@@ -92,11 +92,11 @@
 | 20220308T22:22:09Z | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | 118 | 53| 
 | 20220308T21:58:51Z | This script exploits CVE-2021-41773 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-41773 | 0 | 0| 
 | 20220308T21:54:10Z | This script exploits CVE-2021-42013 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-42013 | 0 | 0| 
+| 20220308T20:44:06Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 75 | 16| 
 | 20220308T18:26:46Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20220308T13:33:04Z | CVE-2022-0847 DirtyPipe Exploit. | https://github.com/febinrev/dirtypipez-exploit | 1 | 0| 
 | 20220308T12:06:17Z | It%s a repository to import public exploits to be written in Ruby without Metasploit complication  | https://github.com/readloud/CVE-in-Ruby | 0 | 0| 
 | 20220308T11:21:13Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 35 | 2| 
-| 20220308T10:42:34Z | An exploit for CVE-2022-0847 dirty-pipe vulnerability | https://github.com/cspshivam/CVE-2022-0847-dirty-pipe-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
