@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220309T13:05:37Z | Null | https://github.com/professorfabioandrade/QuadcopterFuzzy | 0 | 0| 
 | 20220309T12:44:59Z | Freshley Grisyuan Surya Kolim | https://github.com/freshleygrisy/Tugas_Fuzzy | 0 | 0| 
 | 20220309T12:39:17Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 520 | 52| 
 | 20220309T12:22:09Z | A homework | https://github.com/Sayuris1/fuzzy | 0 | 0| 
