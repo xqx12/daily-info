@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220309T02:47:08Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | | 
+| 20220309T02:47:06Z | CVE-2022-0847 | Null | https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe- | | 
 | 20220309T02:42:22Z | CVE-2021-41073 | Null | https://github.com/chompie1337/Linux_LPE_io_uring_CVE-2021-41073 | | 
 | 20220309T02:15:33Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
 | 20220309T02:04:33Z | CVE-2022-0185 | CVE-2022-0185 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
@@ -54,8 +56,6 @@
 | 20220309T01:30:48Z | CVE-2022-0847 | The Dirty Pipe Vulnerability | https://github.com/knqyf263/CVE-2022-0847 | | 
 | 20220308T21:58:51Z | CVE-2021-41773 | This script exploits CVE-2021-41773 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-41773 | | 
 | 20220308T21:54:10Z | CVE-2021-42013 | This script exploits CVE-2021-42013 to print file or/and execute command. | https://github.com/mauricelambert/CVE-2021-42013 | | 
-| 20220308T20:33:46Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/4luc4rdr5290/CVE-2022-0847 | | 
-| 20220308T20:28:06Z | CVE-2021-3560 | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | | 
 
 
 # klee on Github 推荐
