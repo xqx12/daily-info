@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220310T13:23:52Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | | 
+| 20220310T13:40:33Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220310T12:58:02Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220310T11:15:38Z | CVE-2022-0853 | Null | https://github.com/ByteHackr/CVE-2022-0853 | | 
 | 20220310T10:46:36Z | CVE-2022-22947 | Null | https://github.com/PaoPaoLong-lab/Spring-CVE-2022-22947- | | 
@@ -54,11 +54,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T13:40:33Z | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | 0 | 0| 
 | 20220310T13:38:22Z | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | 0 | 0| 
 | 20220310T13:31:50Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3792 | 269| 
 | 20220310T13:31:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2453 | 285| 
 | 20220310T13:28:45Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6831 | 1582| 
-| 20220310T13:23:52Z | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | 0 | 0| 
 | 20220310T12:14:18Z | Null | https://github.com/retr0-13/linux_exploit_suggester | 0 | 0| 
 | 20220310T11:56:52Z | :no_entry: Python console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | 0 | 0| 
 | 20220310T10:38:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2091 | 342| 
