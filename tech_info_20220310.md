@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T13:44:01Z | Null | https://github.com/GawainZZH/Fuzzy-QoS-Evaluatuon | 0 | 0| 
 | 20220310T12:30:32Z | Null | https://github.com/Xunhaoz/FuzzySearch | 0 | 0| 
 | 20220310T11:58:28Z | Null | https://github.com/znyrpt1/MerryFuzzyTransfer | 0 | 0| 
 | 20220310T11:01:59Z | Null | https://github.com/denalimarsh/fuzzy-octo-giggle | 0 | 0| 

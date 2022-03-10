@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T13:44:01Z | Null | https://github.com/GawainZZH/Fuzzy-QoS-Evaluatuon | 0 | 0| 
 | 20220310T12:30:32Z | Null | https://github.com/Xunhaoz/FuzzySearch | 0 | 0| 
 | 20220310T11:58:28Z | Null | https://github.com/znyrpt1/MerryFuzzyTransfer | 0 | 0| 
 | 20220310T11:01:59Z | Null | https://github.com/denalimarsh/fuzzy-octo-giggle | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20220309T22:56:16Z | Null | https://github.com/sakshidhama/fuzzy-octo-barnacle | 0 | 0| 
 | 20220309T16:30:50Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 298 | 24| 
 | 20220309T13:37:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7159 | 1518| 
-| 20220309T13:19:16Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 903 | 72| 
 
 
 
