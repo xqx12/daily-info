@@ -87,9 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T13:44:52Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3793 | 269| 
 | 20220310T13:42:20Z | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | 1 | 0| 
 | 20220310T13:40:33Z | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | 0 | 0| 
-| 20220310T13:31:50Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3792 | 269| 
 | 20220310T13:31:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2453 | 285| 
 | 20220310T13:28:45Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6831 | 1582| 
 | 20220310T12:14:18Z | Null | https://github.com/retr0-13/linux_exploit_suggester | 0 | 0| 
