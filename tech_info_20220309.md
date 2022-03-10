@@ -32,12 +32,12 @@
 | 20220309T20:41:12Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 POC | https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540 | | 
 | 20220309T16:54:55Z | CVE-2022-0847 | Null | https://github.com/T4t4ru/CVE-2022-0847 | | 
 | 20220309T15:45:37Z | CVE-2022-0847 | Dirty Pipe POC | https://github.com/gyaansastra/CVE-2022-0847 | | 
-| 20220309T12:06:00Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | | 
 | 20220309T11:05:06Z | CVE-2020-14144 | A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks | https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce | | 
 | 20220309T10:26:10Z | CVE-2022-0847 | Null | https://github.com/pentestblogin/pentestblog-CVE-2022-0847 | | 
 | 20220309T10:15:23Z | cve-2022-0847 | Null | https://github.com/AyoubNajim/cve-2022-0847dirtypipe-exploit | | 
 | 20220309T07:44:58Z | CVE-2022-22947 | 调试代码包含断点信息,直接导入即可进行调试 | https://github.com/ba1ma0/Spring-Cloud-GateWay-CVE-2022-22947-demon-code | | 
 | 20220309T07:16:19Z | CVE-2022-0847 | A “Dirty Pipe” vulnerability with CVE-2022-0847 and a CVSS score of 7.8 has been identified, affecting Linux Kernel 5.8 and higher. The vulnerability allows attackers to overwrite data in read-only files. Threat actors can exploit this vulnerability to privilege themselves with code injection. | https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit | | 
+| 20220309T06:57:40Z | cve-2022-0492 | Test whether a container environment is vulnerable to container escapes via CVE-2022-0492 | https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492 | | 
 
 
 # klee on Github 推荐
