@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220310T01:28:00Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
+| 20220310T01:27:29Z | CVE-2022-0847 | CVE-2022-0847 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2022-0847 | | 
 | 20220310T01:25:51Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | | 
 | 20220310T01:24:25Z | CVE-2021-4034 | Null | https://github.com/edsonjt81/CVE-2021-4034-Linux | | 
 | 20220310T01:18:36Z | CVE-2022-0847 | Null | https://github.com/edsonjt81/CVE-2022-0847-Linux | | 
 | 20220310T01:00:55Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/babyshen/CVE-2022-0847 | | 
-| 20220309T23:58:11Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220309T20:41:12Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 POC | https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540 | | 
 | 20220309T16:54:55Z | CVE-2022-0847 | Null | https://github.com/T4t4ru/CVE-2022-0847 | | 
 | 20220309T15:45:37Z | CVE-2022-0847 | Dirty Pipe POC | https://github.com/gyaansastra/CVE-2022-0847 | | 
 | 20220309T11:05:06Z | CVE-2020-14144 | A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks | https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce | | 
-| 20220309T10:26:10Z | CVE-2022-0847 | Null | https://github.com/pentestblogin/pentestblog-CVE-2022-0847 | | 
 
 
 # klee on Github 推荐
