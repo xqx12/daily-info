@@ -54,10 +54,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220310T13:30:32Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3791 | 269| 
+| 20220310T13:31:50Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3792 | 269| 
+| 20220310T13:31:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2453 | 285| 
 | 20220310T13:28:45Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6831 | 1582| 
 | 20220310T13:23:52Z | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | 0 | 0| 
-| 20220310T13:23:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2452 | 285| 
 | 20220310T12:14:18Z | Null | https://github.com/retr0-13/linux_exploit_suggester | 0 | 0| 
 | 20220310T11:56:52Z | :no_entry: Python console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | 0 | 0| 
 | 20220310T10:38:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2091 | 342| 
