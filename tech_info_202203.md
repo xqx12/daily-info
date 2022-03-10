@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220310T01:24:25Z | CVE-2021-4034 | Null | https://github.com/edsonjt81/CVE-2021-4034-Linux | | 
 | 20220310T01:18:36Z | CVE-2022-0847 | Null | https://github.com/edsonjt81/CVE-2022-0847-Linux | | 
 | 20220310T01:11:29Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | | 
 | 20220310T01:00:55Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/babyshen/CVE-2022-0847 | | 
@@ -55,7 +56,6 @@
 | 20220309T15:45:37Z | CVE-2022-0847 | Dirty Pipe POC | https://github.com/gyaansastra/CVE-2022-0847 | | 
 | 20220309T11:05:06Z | CVE-2020-14144 | A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks | https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce | | 
 | 20220309T10:26:10Z | CVE-2022-0847 | Null | https://github.com/pentestblogin/pentestblog-CVE-2022-0847 | | 
-| 20220309T10:15:23Z | cve-2022-0847 | Null | https://github.com/AyoubNajim/cve-2022-0847dirtypipe-exploit | | 
 
 
 # klee on Github 推荐
