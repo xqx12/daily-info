@@ -78,7 +78,6 @@
 | 20220309T18:50:58Z | BACKDOOR EN PYTHON (LABORATORIO) | https://github.com/tmcyberagent/BACKDOOR-LABORATORIO- | 1 | 0| 
 | 20220309T16:45:22Z | Threat Emulation and Red Teaming Framework, The Hacking Software for normal people. | https://github.com/quantumcore/remote_hacker_probe | 127 | 42| 
 | 20220309T16:05:00Z | Small and convenient C2 tool for Windows targets [Путин хуйло, Лукашенко тоже: шо один шо другой -- на говно похожи] | https://github.com/Cr4sh/MicroBackdoor | 350 | 79| 
-| 20220309T14:15:00Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 429 | 80| 
 | 20220309T10:42:11Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6215 | 1920| 
 | 20220309T00:58:35Z | Null | https://github.com/VITA-Group/Backdoor-LTH | 1 | 0| 
 | 20220309T00:40:06Z | Config files for my GitHub profile. | https://github.com/Backdoor-4375/Backdoor-4375 | 0 | 0| 
