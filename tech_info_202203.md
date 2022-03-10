@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T13:46:37Z | DeFi Hack Solutions - Contracts and Exploit Codes | https://github.com/inhack/DeFiHack-hardhat | 0 | 0| 
 | 20220310T13:44:52Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3793 | 269| 
 | 20220310T13:42:20Z | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | 1 | 0| 
 | 20220310T13:40:33Z | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220310T11:56:52Z | :no_entry: Python console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | 0 | 0| 
 | 20220310T10:38:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2091 | 342| 
 | 20220310T07:01:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10857 | 1886| 
-| 20220310T02:28:53Z | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | 4 | 0| 
 
 
 # backdoor on Github 推荐
