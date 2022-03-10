@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T13:38:22Z | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | 0 | 0| 
 | 20220310T13:31:50Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3792 | 269| 
 | 20220310T13:31:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2453 | 285| 
 | 20220310T13:28:45Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6831 | 1582| 
@@ -63,12 +64,12 @@
 | 20220310T10:38:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2091 | 342| 
 | 20220310T07:01:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10857 | 1886| 
 | 20220310T02:28:53Z | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | 4 | 0| 
-| 20220310T02:12:13Z | C# project that Reflectively loads .Net assemblies in memory. | https://github.com/m8r0wn/EAPrimer | 6 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T13:38:22Z | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | 0 | 0| 
 | 20220310T12:52:32Z | Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux. | https://github.com/thisisnzed/Pandora | 13 | 5| 
 | 20220310T05:53:24Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 432 | 80| 
 | 20220310T05:49:12Z | Buat pintu belakang server kalau misal susah login | https://github.com/wawan-ikhwan/backdoor | 0 | 0| 
