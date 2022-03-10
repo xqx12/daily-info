@@ -54,8 +54,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T13:59:03Z | DeFiHack Solutions - Contracts and Exploit Codes | https://github.com/inhack/DeFiHack-Hardhat | 0 | 0| 
 | 20220310T13:58:37Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3794 | 269| 
-| 20220310T13:54:48Z | DeFiHack Solutions - Contracts and Exploit Codes | https://github.com/inhack/DeFiHack-Hardhat | 0 | 0| 
 | 20220310T13:46:37Z | DeFi Hack Solutions - Contracts and Exploit Codes | https://github.com/inhack/DeFiHack-hardhat | 0 | 0| 
 | 20220310T13:42:20Z | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | 1 | 0| 
 | 20220310T13:40:33Z | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | 0 | 0| 
@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T14:00:30Z | Null | https://github.com/GawainZZH/Fuzzy-QoS-Evaluation | 0 | 0| 
 | 20220310T13:44:01Z | Null | https://github.com/GawainZZH/Fuzzy-QoS-Evaluatuon | 0 | 0| 
 | 20220310T12:30:32Z | Null | https://github.com/Xunhaoz/FuzzySearch | 0 | 0| 
 | 20220310T11:58:28Z | Null | https://github.com/znyrpt1/MerryFuzzyTransfer | 0 | 0| 
