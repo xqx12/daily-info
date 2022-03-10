@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220310 | HP 刚刚修复了 UEFI 固件的 16 个高危漏洞 | https://securityaffairs.co/wordpress/128838/hacking/hp-uefi-firmware-flaws.html| 
+| 20220310 | Linux 自动化提权工具 | https://github.com/liamg/traitor| 
+| 20220310 | 多款包管理器被发现安全漏洞 | https://blog.sonarsource.com/securing-developer-tools-package-managers/| 
+| 20220310 | DeTT&CT - 帮助衡量 MITRE ATT&CK 框架体系下威胁检测覆盖度的工具 | http://blog.nviso.eu/2022/03/09/dettct-mapping-detection-to-mitre-attck/| 
+| 20220310 | Oracle Access Manager Pre-Auth RCE (CVE-2021–35587 Analysis) | https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316| 
+| 20220310 | Escalating from Logic App Contributor to Root Owner in Azure | http://www.netspi.com/blog/technical/cloud-penetration-testing/azure-logic-app-contributor-escalation-to-root-owner/| 
+| 20220310 | 不依赖 Cobalt agent 执行 BOF 文件的工具 | http://labs.nettitude.com/blog/introducing-runof-arbitrary-bof-tool/| 
+| 20220310 | Mark Dowd 在 Offensivecon 2022 会议关于漏洞挖掘的演讲 PPT “Rules to Hack By” | https://www.slideshare.net/MarkDowd13/rules-to-hack-by-offensivecon-2022-keynote-251318003?qid=f231dd12-8cdb-46b4-8417-954621561b18&v=&b=&from_search=1| 
+| 20220310 | 除了三星，Nvidia 也被攻击发生数据泄露，泄露的签名密钥可以用来签发恶意软件 | https://www.theregister.com/2022/03/05/nvidia_stolen_certificate/| 
 | 20220309 | 微软发布 3 月份漏洞补丁公告，修复 3 个高危漏洞 | http://threatpost.com/microsoft-zero-days-critical-bugsmarch-patch-tuesday/178817/| 
 | 20220309 | Branch History Injection - Spectre-v2 攻击硬件缓解措施的绕过 | https://www.vusec.net/projects/bhi-spectre-bhb/| 
 | 20220309 | Mitel MiCollab 商业电话系统的 CVE-2022-26143 漏洞被利用发起 DDoS 攻击 | https://sec.today/pulses/356231ef-5647-45bf-801f-0e887f098bde/| 
@@ -17,20 +26,13 @@
 | 20220308 | A Detailed Guide on Wfuzz | https://www.hackingarticles.in/a-detailed-guide-on-wfuzz/| 
 | 20220308 | 从 MITRE ATT&CK 框架的角度回顾 2021 年 | https://thedfirreport.com/2022/03/07/2021-year-in-review/| 
 | 20220308 | 通过补丁分析 Microsoft Sharepoint CVE-2022-22005 RCE 漏洞 | https://hnd3884.github.io/posts/cve-2022-22005-microsoft-sharepoint-RCE/| 
-| 20220308 | New Linux Vulnerability CVE-2022-0492 Affecting Cgroups: Can Containers Escape? | https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/| 
-| 20220308 | Microsoft Azure Automation 被发现高危的账户越权访问漏洞 | https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/| 
-| 20220308 | Escaping privileged containers for fun | http://pwning.systems/posts/escaping-containers-for-fun/| 
-| 20220308 | Linux 内核被发现 Dirty Pipe 本地提权漏洞（CVE-2022-0847） | http://dirtypipe.cm4all.com/| 
-| 20220308 | 三星确认勒索软件组织 Lapsus$ 窃取了公司的大量源码 | https://threatpost.com/samsung-lapsus-ransomware-source-code/178791/| 
-| 20220308 | Amazon Alexa can be hijacked via commands from own speaker | https://arxiv.org/abs/2202.08619| 
-| 20220308 | Make JDBC Attacks Brilliant Again 番外篇. | http://tttang.com/archive/1462| 
-| 20220304 | 不依赖 Mimikatz 重置用户的密码 | https://www.trustedsec.com/blog/manipulating-user-passwords-without-mimikatz/?utm_campaign=Blog%20Posts&utm_content=199879719&utm_medium=social&utm_source=twitter&hss_channel=tw-403811306| 
-| 20220304 | 小米发布 《消费级物联网安全基线》2.0 版本 | https://github.com/MiSecurity/Cyber-Security-Baseline-for-Consumer-Internet-of-Things| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220310 | 使用 CodeQL 分析 Dubbo RCE | https://mp.weixin.qq.com/s/B-uhbd5FApxSXnjPEFzArQ| 
+| 20220310 | 基于依赖性分析的软件供应链评估指标对预测npm包的流行程度变... | https://mp.weixin.qq.com/s/uSRPX9L_UxAD679mW4B_zQ| 
 | 20220309 | CodeBERT: A Pre-Trained Model for Programming and Natural ... | https://zhuanlan.zhihu.com/p/476950957| 
 | 20220309 | 浅谈一下，Linux中基于eBPF的恶意利用与检测机制 | https://mp.weixin.qq.com/s/-1GiCncNTqtfO_grQT7cGw| 
 | 20220309 | 安全的未来是上下文 | https://mp.weixin.qq.com/s/P0nOKaP31k10bgRuuJGLWg| 
@@ -39,30 +41,28 @@
 | 20220308 | 符号和解释 | https://ya0guang.com/caprice/SymbolAndInterpretation/| 
 | 20220308 | ROME改造计划 | https://y4tacker.github.io/2022/03/07/year/2022/3/ROME%E6%94%B9%E9%80%A0%E8%AE%A1%E5%88%92/#%E6%9C%80%E7%BB%88%E4%BB%A3%E7%A0%81| 
 | 20220308 | 记一次自建 Gitea + Drone 实例被挖矿的经历 | https://imlonghao.com/59.html| 
-| 20220308 | 容器安全在野攻击调查 | https://mp.weixin.qq.com/s/oynjO8Q3IgZJt21HwxxMgA| 
-| 20220308 | ATT&CK 在野数据分析 | https://mp.weixin.qq.com/s/VE1_ZPKvcQhdvelUy0Rofg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220310T12:58:02Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
+| 20220310T11:15:38Z | CVE-2022-0853 | Null | https://github.com/ByteHackr/CVE-2022-0853 | | 
+| 20220310T10:46:36Z | CVE-2022-22947 | Null | https://github.com/PaoPaoLong-lab/Spring-CVE-2022-22947- | | 
+| 20220310T08:44:28Z | CVE-2022-22947 | CVE-2022-22947 Exploit script | https://github.com/An0th3r/CVE-2022-22947-exp | | 
+| 20220310T07:16:46Z | CVE-2021-41773 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-41773 | | 
+| 20220310T07:03:51Z | CVE-2021-42013 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-42013 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-42013 | | 
+| 20220310T06:07:10Z | CVE-2022-0847 | CVE-2022-0847 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2022-0847 | | 
+| 20220310T04:32:07Z | CVE-2021-44228 | CVE-2021-44228 in Container | https://github.com/cryst4lliz3/CVE-2021-44228 | | 
+| 20220310T03:16:04Z | CVE-2022-24990 | 仅仅是poc,并不是exp | https://github.com/VVeakee/CVE-2022-24990-POC | | 
 | 20220310T02:59:23Z | CVE-2022-0847 | CVE-2022-0847 | https://github.com/Al1ex/CVE-2022-0847 | | 
-| 20220310T02:32:16Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
-| 20220310T01:32:00Z | CVE-2022-0847 | CVE-2022-0847 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2022-0847 | | 
-| 20220310T01:24:25Z | CVE-2021-4034 | Null | https://github.com/edsonjt81/CVE-2021-4034-Linux | | 
-| 20220310T01:18:36Z | CVE-2022-0847 | Null | https://github.com/edsonjt81/CVE-2022-0847-Linux | | 
-| 20220310T01:00:55Z | CVE-2022-0847 | A root exploit for CVE-2022-0847 (Dirty Pipe) | https://github.com/babyshen/CVE-2022-0847 | | 
-| 20220309T20:41:12Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 POC | https://github.com/Rajchowdhury420/ThinkAdmin-CVE-2020-25540 | | 
-| 20220309T16:54:55Z | CVE-2022-0847 | Null | https://github.com/T4t4ru/CVE-2022-0847 | | 
-| 20220309T15:45:37Z | CVE-2022-0847 | Dirty Pipe POC | https://github.com/gyaansastra/CVE-2022-0847 | | 
-| 20220309T11:05:06Z | CVE-2020-14144 | A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks | https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T10:19:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5394 | 195| 
 | 20220310T02:24:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1903 | 543| 
-| 20220310T00:14:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5384 | 195| 
 | 20220309T17:00:17Z | Null | https://github.com/0xjeremdev/Kleep | 0 | 0| 
 | 20220309T16:52:17Z | Config files for my GitHub profile. | https://github.com/kleelynn/kleelynn | 0 | 0| 
 | 20220309T15:02:06Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 17 | 1| 
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T12:30:32Z | Null | https://github.com/Xunhaoz/FuzzySearch | 0 | 0| 
+| 20220310T11:58:28Z | Null | https://github.com/znyrpt1/MerryFuzzyTransfer | 0 | 0| 
+| 20220310T11:01:59Z | Null | https://github.com/denalimarsh/fuzzy-octo-giggle | 0 | 0| 
 | 20220310T01:21:35Z | This warehouse is for test. | https://github.com/csj3860/fuzzy-octo-disco | 0 | 0| 
 | 20220310T00:36:30Z | Analyzing Stock Data with R | https://github.com/medhanies/fuzzy-happiness | 0 | 0| 
 | 20220309T23:45:45Z | Fuzzing concurrent Go programs | https://github.com/system-pclub/GFuzz | 47 | 7| 
 | 20220309T22:56:16Z | Null | https://github.com/sakshidhama/fuzzy-octo-barnacle | 0 | 0| 
+| 20220309T16:30:50Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 298 | 24| 
 | 20220309T13:37:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7159 | 1518| 
 | 20220309T13:19:16Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 903 | 72| 
-| 20220309T13:15:40Z | Simulation of Fuzzy Gain-Scheduling PID for UAV Position and Altitude Controllers using Matlab | https://github.com/GeneralAdmin/FuzzyGainSchedulingUAV | 0 | 0| 
-| 20220309T13:10:31Z | Null | https://github.com/professorfabioandrade/QuadcopterFuzzy | 0 | 0| 
-| 20220309T12:44:59Z | Freshley Grisyuan Surya Kolim | https://github.com/freshleygrisy/Tugas_Fuzzy | 0 | 0| 
-| 20220309T12:39:17Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 520 | 52| 
 
 
 
