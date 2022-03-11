@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220311T01:44:12Z | learn fuzz technology by building a simpler fuzzer. | https://github.com/picklover/PySimpleFuzzer | 0 | 0| 
 | 20220311T00:50:50Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 526 | 27| 
 | 20220310T22:26:00Z | Null | https://github.com/georgephilippas-ber/fuzzy-chainsaw | 0 | 0| 
 | 20220310T14:09:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7164 | 1518| 
@@ -148,7 +149,6 @@
 | 20220310T11:58:28Z | Null | https://github.com/znyrpt1/MerryFuzzyTransfer | 0 | 0| 
 | 20220310T11:01:59Z | Null | https://github.com/denalimarsh/fuzzy-octo-giggle | 0 | 0| 
 | 20220310T01:21:35Z | This warehouse is for test. | https://github.com/csj3860/fuzzy-octo-disco | 0 | 0| 
-| 20220310T00:36:30Z | Analyzing Stock Data with R | https://github.com/medhanies/fuzzy-happiness | 0 | 0| 
 
 
 
