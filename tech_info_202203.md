@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220311T01:27:55Z | cve-2022-22947 | cve-2022-22947-docker | https://github.com/hh-hunter/cve-2022-22947-docker | | 
 | 20220311T01:06:26Z | CVE-2022-24990 | Null | https://github.com/VVeakee/CVE-2022-24990-EXP | | 
 | 20220311T00:31:36Z | CVE-2022-0853 | Null | https://github.com/ByteHackr/CVE-2022-0853 | | 
 | 20220310T19:10:50Z | CVE-2021-3156 | About Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | | 
@@ -55,7 +56,6 @@
 | 20220310T12:58:02Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
 | 20220310T10:46:36Z | CVE-2022-22947 | Null | https://github.com/PaoPaoLong-lab/Spring-CVE-2022-22947- | | 
 | 20220310T08:44:28Z | CVE-2022-22947 | CVE-2022-22947 Exploit script | https://github.com/An0th3r/CVE-2022-22947-exp | | 
-| 20220310T07:16:46Z | CVE-2021-41773 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
