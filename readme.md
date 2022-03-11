@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220311T13:01:41Z | LPE on linux kernel based on CVE-2017-14954, CVE-2017-18344, CVE-2017-5123 | https://github.com/echo-devim/exploit_linux_kernel4.13 | 1 | 0| 
+| 20220311T13:05:16Z | LPE on linux kernel based on CVE-2017-14954, CVE-2017-18344, CVE-2017-5123 | https://github.com/echo-devim/exploit_linux_kernel4.13 | 1 | 0| 
 | 20220311T12:45:50Z | PoC. Search for all available Dead by Daylight lobbies in your region via Steamworks. | https://github.com/sizzeR1337/Steamworks-Exploit | 1 | 0| 
 | 20220311T11:50:52Z | shitty exploit for eac, more specifically rust | https://github.com/dutchavelli/eac-bypass | 0 | 0| 
 | 20220311T10:49:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2465 | 289| 
