@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220311T01:06:26Z | CVE-2022-24990 | Null | https://github.com/VVeakee/CVE-2022-24990-EXP | | 
 | 20220311T00:31:36Z | CVE-2022-0853 | Null | https://github.com/ByteHackr/CVE-2022-0853 | | 
 | 20220310T19:10:50Z | CVE-2021-3156 | About Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | | 
 | 20220310T16:11:19Z | CVE-2022-22947 | Null | https://github.com/michaelklaan/CVE-2022-22947-Spring-Cloud | | 
@@ -55,7 +56,6 @@
 | 20220310T10:46:36Z | CVE-2022-22947 | Null | https://github.com/PaoPaoLong-lab/Spring-CVE-2022-22947- | | 
 | 20220310T08:44:28Z | CVE-2022-22947 | CVE-2022-22947 Exploit script | https://github.com/An0th3r/CVE-2022-22947-exp | | 
 | 20220310T07:16:46Z | CVE-2021-41773 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-41773 | | 
-| 20220310T07:10:13Z | CVE-2021-31166 | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
 
 
 # klee on Github 推荐
