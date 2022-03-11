@@ -61,10 +61,10 @@
 | 20220310T23:11:35Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 3 | 0| 
 | 20220310T22:52:54Z | Arc is an advanced tool used for exploiting the browser and bypassing web restrictions. | https://github.com/animecat7/Arc | 0 | 0| 
 | 20220310T22:45:24Z | Null | https://github.com/ZortTechnologies/ZortTechnolgoiesExploitMakerExploits | 0 | 0| 
+| 20220310T20:47:19Z | CVE-2022-0847 Python exploit to get root or write a no write permission, immutable or read-only mounted file. | https://github.com/terabitSec/dirtyPipe-automaticRoot | 1 | 0| 
 | 20220310T20:19:59Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 119 | 55| 
 | 20220310T13:59:03Z | DeFiHack Solutions - Contracts and Exploit Codes | https://github.com/inhack/DeFiHack-Hardhat | 0 | 0| 
 | 20220310T13:58:37Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3794 | 269| 
-| 20220310T13:46:37Z | DeFi Hack Solutions - Contracts and Exploit Codes | https://github.com/inhack/DeFiHack-hardhat | 0 | 0| 
 
 
 # backdoor on Github 推荐
