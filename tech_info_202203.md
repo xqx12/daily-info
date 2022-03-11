@@ -92,7 +92,7 @@
 | 20220311T00:20:30Z | Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated) | https://github.com/TAPESH-TEAM/Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated | 0 | 0| 
 | 20220310T23:38:40Z | Patched for the newly founded token logger exploit [ONLY WORKS FOR BROWSER]  | https://github.com/XBrevity/DiscordTokenExploitFix | 1 | 0| 
 | 20220310T23:36:27Z | A cool python exploit to spoof your payload into another extension like pdf, docx, png, jpg, mp3, etc. | https://github.com/vesperlol/Extension-Spoofer | 4 | 0| 
-| 20220310T23:20:17Z | Null | https://github.com/connormcgarr/Exploit-Development | 195 | 92| 
+| 20220310T23:20:17Z | Null | https://github.com/connormcgarr/Exploit-Development | 195 | 93| 
 | 20220310T23:11:35Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 3 | 0| 
 | 20220310T22:52:54Z | Arc is an advanced tool used for exploiting the browser and bypassing web restrictions. | https://github.com/animecat7/Arc | 0 | 0| 
 | 20220310T22:45:24Z | Null | https://github.com/ZortTechnologies/ZortTechnolgoiesExploitMakerExploits | 0 | 0| 
