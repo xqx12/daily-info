@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220311T13:30:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10862 | 1887| 
 | 20220311T13:05:16Z | LPE on linux kernel based on CVE-2017-14954, CVE-2017-18344, CVE-2017-5123 | https://github.com/echo-devim/exploit_linux_kernel4.13 | 1 | 0| 
 | 20220311T12:45:50Z | PoC. Search for all available Dead by Daylight lobbies in your region via Steamworks. | https://github.com/sizzeR1337/Steamworks-Exploit | 1 | 0| 
 | 20220311T11:50:52Z | shitty exploit for eac, more specifically rust | https://github.com/dutchavelli/eac-bypass | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220311T09:41:42Z | Playing Around with cyber vulns | https://github.com/grimwolf007/Exploits | 0 | 0| 
 | 20220311T02:32:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 335 | 100| 
 | 20220311T01:42:43Z | Null | https://github.com/connormcgarr/Exploit-Development | 196 | 93| 
-| 20220311T01:29:04Z | Ansible playbook for automatic installation of useful tools for a reversing and exploitation environment | https://github.com/Lallero98/quick-setup-for-exploitation-tools-on-Linux | 0 | 0| 
 
 
 # backdoor on Github 推荐
