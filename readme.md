@@ -15,6 +15,7 @@
 | 20220310 | 不依赖 Cobalt agent 执行 BOF 文件的工具 | http://labs.nettitude.com/blog/introducing-runof-arbitrary-bof-tool/| 
 | 20220310 | Mark Dowd 在 Offensivecon 2022 会议关于漏洞挖掘的演讲 PPT “Rules to Hack By” | https://www.slideshare.net/MarkDowd13/rules-to-hack-by-offensivecon-2022-keynote-251318003?qid=f231dd12-8cdb-46b4-8417-954621561b18&v=&b=&from_search=1| 
 | 20220310 | 除了三星，Nvidia 也被攻击发生数据泄露，泄露的签名密钥可以用来签发恶意软件 | https://www.theregister.com/2022/03/05/nvidia_stolen_certificate/| 
+| 20220310 | 探究syscall的前世今生. | https://tttang.com/archive/1464/| 
 
 
 # 安全维基 推荐
@@ -27,48 +28,50 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220310T19:10:50Z | CVE-2021-3156 | About Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | | 
+| 20220310T16:11:19Z | CVE-2022-22947 | Null | https://github.com/michaelklaan/CVE-2022-22947-Spring-Cloud | | 
+| 20220310T16:10:15Z | CVE-2022-0847 | Null | https://github.com/michaelklaan/CVE-2022-0847-Dirty-Pipe | | 
 | 20220310T13:40:33Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | | 
 | 20220310T12:58:02Z | CVE-2022-0847 | CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe” | https://github.com/imfiver/CVE-2022-0847 | | 
-| 20220310T11:15:38Z | CVE-2022-0853 | Null | https://github.com/ByteHackr/CVE-2022-0853 | | 
 | 20220310T10:46:36Z | CVE-2022-22947 | Null | https://github.com/PaoPaoLong-lab/Spring-CVE-2022-22947- | | 
 | 20220310T08:44:28Z | CVE-2022-22947 | CVE-2022-22947 Exploit script | https://github.com/An0th3r/CVE-2022-22947-exp | | 
 | 20220310T07:16:46Z | CVE-2021-41773 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-41773 | | 
+| 20220310T07:10:13Z | CVE-2021-31166 | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
 | 20220310T07:03:51Z | CVE-2021-42013 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-42013 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-42013 | | 
-| 20220310T06:07:10Z | CVE-2022-0847 | CVE-2022-0847 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2022-0847 | | 
-| 20220310T04:32:07Z | CVE-2021-44228 | CVE-2021-44228 in Container | https://github.com/cryst4lliz3/CVE-2021-44228 | | 
-| 20220310T03:16:04Z | CVE-2022-24990 | 仅仅是poc,并不是exp | https://github.com/VVeakee/CVE-2022-24990-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220310T13:18:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5395 | 195| 
 | 20220310T02:24:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1903 | 543| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T21:28:36Z | Null | https://github.com/andteki/s2ejsterkup | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T23:38:40Z | Patched for the newly founded token logger exploit [ONLY WORKS FOR BROWSER]  | https://github.com/XBrevity/DiscordTokenExploitFix | 1 | 0| 
+| 20220310T23:36:27Z | A cool python exploit to spoof your payload into another extension like pdf, docx, png, jpg, mp3, etc. | https://github.com/vesperlol/Extension-Spoofer | 4 | 0| 
+| 20220310T23:20:17Z | Null | https://github.com/connormcgarr/Exploit-Development | 195 | 92| 
+| 20220310T23:11:35Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 3 | 0| 
+| 20220310T22:52:54Z | Arc is an advanced tool used for exploiting the browser and bypassing web restrictions. | https://github.com/animecat7/Arc | 0 | 0| 
+| 20220310T22:45:24Z | Null | https://github.com/ZortTechnologies/ZortTechnolgoiesExploitMakerExploits | 0 | 0| 
+| 20220310T20:19:59Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 119 | 55| 
 | 20220310T13:59:03Z | DeFiHack Solutions - Contracts and Exploit Codes | https://github.com/inhack/DeFiHack-Hardhat | 0 | 0| 
 | 20220310T13:58:37Z | :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 3794 | 269| 
 | 20220310T13:46:37Z | DeFi Hack Solutions - Contracts and Exploit Codes | https://github.com/inhack/DeFiHack-hardhat | 0 | 0| 
-| 20220310T13:42:20Z | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | 1 | 0| 
-| 20220310T13:40:33Z | CVE-2022-0847-DirtyPipe-Exploit | https://github.com/V0WKeep3r/CVE-2022-0847-DirtyPipe-Exploit | 0 | 0| 
-| 20220310T13:31:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2453 | 285| 
-| 20220310T13:28:45Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6831 | 1582| 
-| 20220310T12:14:18Z | Null | https://github.com/retr0-13/linux_exploit_suggester | 0 | 0| 
-| 20220310T11:56:52Z | :no_entry: Python console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | 0 | 0| 
-| 20220310T10:38:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2091 | 342| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T22:37:37Z | Null | https://github.com/luovkle/simple-backdoor | 0 | 0| 
+| 20220310T16:12:43Z | Null | https://github.com/michaelklaan/Wordpress-RPC-Backdoor | 0 | 0| 
 | 20220310T13:56:41Z | Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux. | https://github.com/thisisnzed/Pandora | 14 | 5| 
 | 20220310T13:42:20Z | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | 1 | 0| 
 | 20220310T05:53:24Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 432 | 80| 
@@ -92,6 +95,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220310T22:26:00Z | Null | https://github.com/georgephilippas-ber/fuzzy-chainsaw | 0 | 0| 
+| 20220310T14:09:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7164 | 1518| 
 | 20220310T14:00:30Z | Null | https://github.com/GawainZZH/Fuzzy-QoS-Evaluation | 0 | 0| 
 | 20220310T13:44:01Z | Null | https://github.com/GawainZZH/Fuzzy-QoS-Evaluatuon | 0 | 0| 
 | 20220310T12:30:32Z | Null | https://github.com/Xunhaoz/FuzzySearch | 0 | 0| 
