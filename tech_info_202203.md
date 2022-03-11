@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220311T13:01:41Z | LPE on linux kernel based on CVE-2017-14954, CVE-2017-18344, CVE-2017-5123 | https://github.com/echo-devim/exploit_linux_kernel4.13 | 1 | 0| 
+| 20220311T12:45:50Z | PoC. Search for all available Dead by Daylight lobbies in your region via Steamworks. | https://github.com/sizzeR1337/Steamworks-Exploit | 1 | 0| 
+| 20220311T11:50:52Z | shitty exploit for eac, more specifically rust | https://github.com/dutchavelli/eac-bypass | 0 | 0| 
+| 20220311T10:49:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2465 | 289| 
+| 20220311T10:40:29Z | A simple shop for learning purposes and probably lots of bugs and exploits | https://github.com/tolik518/simple_webshop | 0 | 0| 
+| 20220311T09:49:24Z | Roblox Exploiting project made by mafia and scri | https://github.com/skybright0/Project-Dominate | 0 | 0| 
+| 20220311T09:41:42Z | Playing Around with cyber vulns | https://github.com/grimwolf007/Exploits | 0 | 0| 
+| 20220311T02:32:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 335 | 100| 
 | 20220311T01:42:43Z | Null | https://github.com/connormcgarr/Exploit-Development | 196 | 93| 
 | 20220311T01:29:04Z | Ansible playbook for automatic installation of useful tools for a reversing and exploitation environment | https://github.com/Lallero98/quick-setup-for-exploitation-tools-on-Linux | 0 | 0| 
-| 20220311T00:27:10Z | exploit | https://github.com/password24254/Exploit | 0 | 0| 
-| 20220311T00:20:30Z | Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated) | https://github.com/TAPESH-TEAM/Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated | 0 | 0| 
-| 20220310T23:38:40Z | Patched for the newly founded token logger exploit [ONLY WORKS FOR BROWSER]  | https://github.com/XBrevity/DiscordTokenExploitFix | 1 | 0| 
-| 20220310T23:36:27Z | A cool python exploit to spoof your payload into another extension like pdf, docx, png, jpg, mp3, etc. | https://github.com/vesperlol/Extension-Spoofer | 4 | 0| 
-| 20220310T23:11:35Z | Binary exploitation. | https://github.com/SIB-BYTE/Binary-exploitation | 3 | 0| 
-| 20220310T22:52:54Z | Arc is an advanced tool used for exploiting the browser and bypassing web restrictions. | https://github.com/animecat7/Arc | 0 | 0| 
-| 20220310T22:45:24Z | Null | https://github.com/ZortTechnologies/ZortTechnolgoiesExploitMakerExploits | 0 | 0| 
-| 20220310T20:47:19Z | CVE-2022-0847 Python exploit to get root or write a no write permission, immutable or read-only mounted file. | https://github.com/terabitSec/dirtyPipe-automaticRoot | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,8 +118,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220311T09:14:24Z | Seminar for the ANTIQUE Team about Relational symbolic execution | https://github.com/ignatirabo/seminar-relsym | 0 | 0| 
+| 20220311T06:53:31Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 223 | 14| 
 | 20220311T02:57:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2750 | 399| 
-| 20220310T14:31:07Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 222 | 14| 
 | 20220310T08:01:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 524 | 86| 
 | 20220310T02:24:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1903 | 543| 
 | 20220308T02:58:38Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 796 | 111| 
@@ -127,12 +128,12 @@
 | 20220307T05:49:53Z | Symbolic Execution For Bug Hunting in Binaries | https://github.com/Resery/Symbolic-Execution-For-Bug-Hunting-in-Binaries | 0 | 0| 
 | 20220306T17:58:45Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 12 | 5| 
 | 20220306T12:30:48Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 621 | 128| 
-| 20220306T06:27:37Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220311T12:04:36Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 5 | 1| 
 | 20220304T13:54:09Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 37 | 8| 
 
 
