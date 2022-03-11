@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220311T12:43:15Z | CVE-2021-44228 | Log4j2组件命令执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-44228 | | 
+| 20220311T13:24:13Z | CVE-2021-44228 | Log4j2组件命令执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-44228 | | 
 | 20220311T08:17:56Z | CVE-2022-0853 | Null | https://github.com/ByteHackr/CVE-2022-0853 | | 
 | 20220311T08:06:36Z | CVE-2022-0492 | CVE-2022-0492 EXP and Analysis write up | https://github.com/chenaotian/CVE-2022-0492 | | 
 | 20220311T07:35:31Z | CVE-2021-41277 | MetaBase 任意文件读取 | https://github.com/Chen-ling-afk/CVE-2021-41277 | | 
