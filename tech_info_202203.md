@@ -139,7 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220311T01:51:24Z | Null | https://github.com/aT0ngMu/FuzzingBook | 0 | 0| 
+| 20220311T02:24:18Z | Null | https://github.com/aT0ngMu/FuzzingBook | 0 | 0| 
 | 20220311T01:44:12Z | learn fuzz technology by building a simpler fuzzer. | https://github.com/picklover/PySimpleFuzzer | 0 | 0| 
 | 20220311T00:50:50Z | CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and does not require maintenance. | https://github.com/Endava/cats | 526 | 27| 
 | 20220310T22:26:00Z | Null | https://github.com/georgephilippas-ber/fuzzy-chainsaw | 0 | 0| 
