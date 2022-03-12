@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220312 | AKG：攻击者知识图谱 | https://mp.weixin.qq.com/s/tDJJOfwac5NAick15lS7-A| 
 
 
 # CVE Github 推荐

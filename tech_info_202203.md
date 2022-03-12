@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220312 | AKG：攻击者知识图谱 | https://mp.weixin.qq.com/s/tDJJOfwac5NAick15lS7-A| 
 | 20220311 | 网络安全2022：守望高质量-PDF | http://blog.nsfocus.net/wp-content/uploads/2022/03/Cybersecurity-in-the-Context-of-Building-a-Cyber-Power.pdf| 
 | 20220310 | 使用 CodeQL 分析 Dubbo RCE | https://mp.weixin.qq.com/s/B-uhbd5FApxSXnjPEFzArQ| 
 | 20220310 | 基于依赖性分析的软件供应链评估指标对预测npm包的流行程度变... | https://mp.weixin.qq.com/s/uSRPX9L_UxAD679mW4B_zQ| 
@@ -40,7 +41,6 @@
 | 20220309 | 用户视角下的网络威胁情报共享平台 | https://mp.weixin.qq.com/s/rgY7KbJ_NWb6_XjhVZS0xw| 
 | 20220308 | 用户层下API的逆向分析及重构 | https://mp.weixin.qq.com/s/fmQiczq4mTJAkTMidJyOeA| 
 | 20220308 | 符号和解释 | https://ya0guang.com/caprice/SymbolAndInterpretation/| 
-| 20220308 | ROME改造计划 | https://y4tacker.github.io/2022/03/07/year/2022/3/ROME%E6%94%B9%E9%80%A0%E8%AE%A1%E5%88%92/#%E6%9C%80%E7%BB%88%E4%BB%A3%E7%A0%81| 
 
 
 # CVE Github 推荐
