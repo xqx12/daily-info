@@ -142,6 +142,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220312T12:57:36Z | This is a simple algorithm increase the traffic efficiency of intersections. | https://github.com/YuqingWANG99/Fuzzy-algorithm-of-traffic-light | 0 | 0| 
+| 20220312T12:54:02Z | CI/CD Test repo | https://github.com/sistemiv/fuzzy-journey | 0 | 0| 
 | 20220312T12:53:02Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 7 | 0| 
 | 20220312T12:18:33Z | Null | https://github.com/EJueon/language_fuzz | 0 | 0| 
 | 20220312T09:56:49Z | Null | https://github.com/ivanjevtic123/Neural-Network-Fuzzy-Logic | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220312T02:29:41Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 133 | 8| 
 | 20220312T02:12:22Z | Property-based grammar fuzzer for SQL databases | https://github.com/tekaireb/SQLFuzz | 2 | 0| 
 | 20220311T23:38:09Z | A model-based API Fuzzer for SMT Solvers. | https://github.com/murxla/murxla | 3 | 0| 
-| 20220311T20:22:11Z | Null | https://github.com/snirvt/FuzzyTrees | 0 | 0| 
 
 
 
