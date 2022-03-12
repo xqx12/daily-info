@@ -22,6 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220312T13:44:22Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20220312T13:33:57Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
 | 20220312T03:06:15Z | CVE-2022-0492 | CVE-2022-0492 EXP and Analysis write up | https://github.com/chenaotian/CVE-2022-0492 | | 
 | 20220312T03:05:58Z | CVE-2022-23940 | PoC for CVE-2022-23940 | https://github.com/manuelz120/CVE-2022-23940 | | 

@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220312T13:44:22Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20220312T13:33:57Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
 | 20220312T03:06:15Z | CVE-2022-0492 | CVE-2022-0492 EXP and Analysis write up | https://github.com/chenaotian/CVE-2022-0492 | | 
 | 20220312T03:05:58Z | CVE-2022-23940 | PoC for CVE-2022-23940 | https://github.com/manuelz120/CVE-2022-23940 | | 
@@ -55,7 +56,6 @@
 | 20220311T16:16:15Z | CVE-2021-3156 | Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | | 
 | 20220311T13:24:13Z | CVE-2021-44228 | Log4j2组件命令执行RCE / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2021-44228 | | 
 | 20220311T08:17:56Z | CVE-2022-0853 | Null | https://github.com/ByteHackr/CVE-2022-0853 | | 
-| 20220311T07:35:31Z | CVE-2021-41277 | MetaBase 任意文件读取 | https://github.com/Chen-ling-afk/CVE-2021-41277 | | 
 
 
 # klee on Github 推荐
