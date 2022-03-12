@@ -34,13 +34,13 @@
 | 20220312 | AKG：攻击者知识图谱 | https://mp.weixin.qq.com/s/tDJJOfwac5NAick15lS7-A| 
 | 20220312 | 开源组件治理的实践与思考 | https://mp.weixin.qq.com/s/o099UY2eQnBpsBGbf7NOTg| 
 | 20220312 | 安全和美-我对网络安全的观察和思考 | https://mp.weixin.qq.com/s/TA_KAZrEN_0I37zby1KIzQ| 
+| 20220312 | 威胁情报平台OpenCTI的搭建 | https://mp.weixin.qq.com/s/pLNJSnelQRF_YKttm0IsNw| 
+| 20220312 | 人工智能（AI）&网络安全 | https://mp.weixin.qq.com/s/8MpJQIgFayH_ZRCl55oBgA| 
 | 20220311 | 网络安全2022：守望高质量-PDF | http://blog.nsfocus.net/wp-content/uploads/2022/03/Cybersecurity-in-the-Context-of-Building-a-Cyber-Power.pdf| 
 | 20220310 | 使用 CodeQL 分析 Dubbo RCE | https://mp.weixin.qq.com/s/B-uhbd5FApxSXnjPEFzArQ| 
 | 20220310 | 基于依赖性分析的软件供应链评估指标对预测npm包的流行程度变... | https://mp.weixin.qq.com/s/uSRPX9L_UxAD679mW4B_zQ| 
 | 20220309 | CodeBERT: A Pre-Trained Model for Programming and Natural ... | https://zhuanlan.zhihu.com/p/476950957| 
 | 20220309 | 浅谈一下，Linux中基于eBPF的恶意利用与检测机制 | https://mp.weixin.qq.com/s/-1GiCncNTqtfO_grQT7cGw| 
-| 20220309 | 安全的未来是上下文 | https://mp.weixin.qq.com/s/P0nOKaP31k10bgRuuJGLWg| 
-| 20220309 | 用户视角下的网络威胁情报共享平台 | https://mp.weixin.qq.com/s/rgY7KbJ_NWb6_XjhVZS0xw| 
 
 
 # CVE Github 推荐

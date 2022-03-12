@@ -14,6 +14,8 @@
 | 20220312 | AKG：攻击者知识图谱 | https://mp.weixin.qq.com/s/tDJJOfwac5NAick15lS7-A| 
 | 20220312 | 开源组件治理的实践与思考 | https://mp.weixin.qq.com/s/o099UY2eQnBpsBGbf7NOTg| 
 | 20220312 | 安全和美-我对网络安全的观察和思考 | https://mp.weixin.qq.com/s/TA_KAZrEN_0I37zby1KIzQ| 
+| 20220312 | 威胁情报平台OpenCTI的搭建 | https://mp.weixin.qq.com/s/pLNJSnelQRF_YKttm0IsNw| 
+| 20220312 | 人工智能（AI）&网络安全 | https://mp.weixin.qq.com/s/8MpJQIgFayH_ZRCl55oBgA| 
 
 
 # CVE Github 推荐
