@@ -16,6 +16,7 @@
 | 20220312 | 安全和美-我对网络安全的观察和思考 | https://mp.weixin.qq.com/s/TA_KAZrEN_0I37zby1KIzQ| 
 | 20220312 | 威胁情报平台OpenCTI的搭建 | https://mp.weixin.qq.com/s/pLNJSnelQRF_YKttm0IsNw| 
 | 20220312 | 人工智能（AI）&网络安全 | https://mp.weixin.qq.com/s/8MpJQIgFayH_ZRCl55oBgA| 
+| 20220312 | 安全中间件的设计思路和简单实践 | https://my.oschina.net/9199771/blog/5417127| 
 
 
 # CVE Github 推荐
@@ -29,7 +30,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220312T08:29:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5424 | 195| 
+| 20220312T13:13:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5425 | 195| 
 | 20220312T08:27:21Z | Config files for my GitHub profile. | https://github.com/kleekle/kleekle | 0 | 0| 
 
 
@@ -77,9 +78,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220312T13:17:19Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 9 | 0| 
 | 20220312T12:57:36Z | This is a simple algorithm increase the traffic efficiency of intersections. | https://github.com/YuqingWANG99/Fuzzy-algorithm-of-traffic-light | 0 | 0| 
 | 20220312T12:54:02Z | CI/CD Test repo | https://github.com/sistemiv/fuzzy-journey | 0 | 0| 
-| 20220312T12:53:02Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 7 | 0| 
 | 20220312T12:18:33Z | Null | https://github.com/EJueon/language_fuzz | 0 | 0| 
 | 20220312T09:56:49Z | Null | https://github.com/ivanjevtic123/Neural-Network-Fuzzy-Logic | 0 | 0| 
 | 20220312T09:49:54Z | The Flunk First Grader%s | https://github.com/alexandercuevas1/fuzzy-knuckle- | 0 | 0| 
