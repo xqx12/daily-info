@@ -60,7 +60,7 @@
 | 20220311T12:45:50Z | PoC. Search for all available Dead by Daylight lobbies in your region via Steamworks. | https://github.com/sizzeR1337/Steamworks-Exploit | 1 | 0| 
 | 20220311T11:50:52Z | shitty exploit for eac, more specifically rust | https://github.com/dutchavelli/eac-bypass | 0 | 0| 
 | 20220311T10:40:29Z | A simple shop for learning purposes and probably lots of bugs and exploits | https://github.com/tolik518/simple_webshop | 0 | 0| 
-| 20220311T09:49:24Z | Roblox Exploiting project made by mafia and scri | https://github.com/skybright0/Project-Dominate | 0 | 0| 
+| 20220311T10:25:46Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 77 | 19| 
 
 
 # backdoor on Github 推荐
