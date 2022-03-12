@@ -95,9 +95,9 @@
 | 20220311T20:50:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2469 | 289| 
 | 20220311T20:40:47Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 16 | 5| 
 | 20220311T20:39:49Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 87 | 15| 
+| 20220311T17:24:59Z | Vulnerabilities in some blockchain projects and theire exploits | https://github.com/Dig2/chain-exploit | 0 | 0| 
 | 20220311T13:30:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10862 | 1887| 
 | 20220311T13:05:16Z | LPE on linux kernel based on CVE-2017-14954, CVE-2017-18344, CVE-2017-5123 | https://github.com/echo-devim/exploit_linux_kernel4.13 | 1 | 0| 
-| 20220311T12:45:50Z | PoC. Search for all available Dead by Daylight lobbies in your region via Steamworks. | https://github.com/sizzeR1337/Steamworks-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
