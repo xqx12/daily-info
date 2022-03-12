@@ -79,8 +79,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220312T13:58:32Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 12 | 0| 
 | 20220312T13:53:09Z | Null | https://github.com/Skylar-Lorena/fuzzy-carnival | 0 | 0| 
-| 20220312T13:45:58Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 11 | 0| 
 | 20220312T12:57:36Z | This is a simple algorithm increase the traffic efficiency of intersections. | https://github.com/YuqingWANG99/Fuzzy-algorithm-of-traffic-light | 0 | 0| 
 | 20220312T12:54:02Z | CI/CD Test repo | https://github.com/sistemiv/fuzzy-journey | 0 | 0| 
 | 20220312T12:18:33Z | Null | https://github.com/EJueon/language_fuzz | 0 | 0| 
