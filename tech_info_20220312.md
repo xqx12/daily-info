@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220312T13:17:09Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2098 | 347| 
 | 20220312T13:07:35Z | Null | https://github.com/ATTACK-TOOLS/exploit-shop | 0 | 0| 
 | 20220312T12:21:24Z | Exploiting the vulnerabilities of the HLL sketch in different scenarios. | https://github.com/PizzaWhisperer/HLLVuln | 0 | 0| 
 | 20220312T12:03:59Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6845 | 1587| 
@@ -51,7 +52,6 @@
 | 20220312T10:50:05Z | Null | https://github.com/OliverMBathurst/ps4-exploit-self-host | 0 | 0| 
 | 20220312T10:27:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2472 | 289| 
 | 20220312T10:03:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10864 | 1887| 
-| 20220312T09:26:22Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 682 | 151| 
 
 
 # backdoor on Github 推荐
