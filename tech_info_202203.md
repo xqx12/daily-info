@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220312T11:45:17Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
+| 20220312T13:33:57Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
 | 20220312T03:06:15Z | CVE-2022-0492 | CVE-2022-0492 EXP and Analysis write up | https://github.com/chenaotian/CVE-2022-0492 | | 
 | 20220312T03:05:58Z | CVE-2022-23940 | PoC for CVE-2022-23940 | https://github.com/manuelz120/CVE-2022-23940 | | 
 | 20220311T21:52:35Z | CVE-2021-41773 | Small PoC of CVE-2021-41773 | https://github.com/the29a/CVE-2021-41773 | | 
@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220312T13:33:57Z | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | 1 | 0| 
 | 20220312T13:17:09Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2098 | 347| 
 | 20220312T13:07:35Z | Null | https://github.com/ATTACK-TOOLS/exploit-shop | 0 | 0| 
 | 20220312T12:21:24Z | Exploiting the vulnerabilities of the HLL sketch in different scenarios. | https://github.com/PizzaWhisperer/HLLVuln | 0 | 0| 
 | 20220312T12:03:59Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6845 | 1587| 
 | 20220312T11:55:26Z | Delete any Discord webhook that you desire. | https://github.com/Whiteforge/Delete-Webhook-Exploit | 0 | 0| 
-| 20220312T11:45:17Z | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | 0 | 0| 
 | 20220312T11:34:50Z | Null | https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20220312T10:50:05Z | Null | https://github.com/OliverMBathurst/ps4-exploit-self-host | 0 | 0| 
 | 20220312T10:27:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2472 | 289| 
