@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20220312 | AKG：攻击者知识图谱 | https://mp.weixin.qq.com/s/tDJJOfwac5NAick15lS7-A| 
 | 20220312 | 开源组件治理的实践与思考 | https://mp.weixin.qq.com/s/o099UY2eQnBpsBGbf7NOTg| 
+| 20220312 | 安全和美-我对网络安全的观察和思考 | https://mp.weixin.qq.com/s/TA_KAZrEN_0I37zby1KIzQ| 
 
 
 # CVE Github 推荐
