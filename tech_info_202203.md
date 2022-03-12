@@ -142,7 +142,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220312T02:12:22Z | Property-based grammar fuzzer for SQL databases | https://github.com/tekaireb/SQLFuzz | 2 | 0| 
-| 20220312T00:55:52Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 132 | 7| 
+| 20220312T00:55:52Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 132 | 8| 
 | 20220311T23:38:09Z | A model-based API Fuzzer for SMT Solvers. | https://github.com/murxla/murxla | 3 | 0| 
 | 20220311T20:22:11Z | Null | https://github.com/snirvt/FuzzyTrees | 0 | 0| 
 | 20220311T19:58:45Z | Null | https://github.com/FoxSJi/fuzzy-waddle | 0 | 0| 
