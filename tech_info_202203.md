@@ -141,7 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220313T01:44:02Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 30 | 0| 
+| 20220313T02:11:08Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 31 | 0| 
+| 20220313T02:08:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 789 | 84| 
 | 20220313T00:14:13Z | Null | https://github.com/snirvt/FuzzyTrees | 0 | 0| 
 | 20220312T23:14:27Z | Null | https://github.com/7yuvraj/MavenFuzzyFactory-Analysis | 0 | 0| 
 | 20220312T22:06:37Z | An automated setup for compiling & fuzzing Apache httpd server | https://github.com/0xbigshaq/apache-afl | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220312T19:41:45Z | EDGE CS Project | https://github.com/LynetteDong/fuzzy-spoon | 0 | 0| 
 | 20220312T13:53:09Z | Null | https://github.com/Skylar-Lorena/fuzzy-carnival | 0 | 0| 
 | 20220312T12:57:36Z | This is a simple algorithm increase the traffic efficiency of intersections. | https://github.com/YuqingWANG99/Fuzzy-algorithm-of-traffic-light | 0 | 0| 
-| 20220312T12:54:02Z | CI/CD Test repo | https://github.com/sistemiv/fuzzy-journey | 0 | 0| 
 
 
 
