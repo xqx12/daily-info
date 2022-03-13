@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220313T02:37:54Z | Attempt to patch Lag Compensation %Exploit% aka Backtrack by checking history ticks inside CPlayerMove::RunCommand and simply blocking the new command that tries to use old used tick. | https://github.com/sneakyevilSK/CSGO_BacktrackPatch | 0 | 0| 
 | 20220313T01:57:22Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 2 | 3| 
 | 20220313T00:40:14Z | Audit and pentest methodologies including enumeration, privesc, lateral movement, etc. | https://github.com/Kiosec/Azure-Exploitation | 0 | 0| 
 | 20220312T22:35:24Z | Goals:    1-)rearrange loops to increase spatial locality of a program    2-)exploit cache to improve the performance of a program    3-)write cache-friendly code for matrix operations | https://github.com/mehmeTurhan/matrixAlloc | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220312T13:33:57Z | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | 1 | 0| 
 | 20220312T13:17:09Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2098 | 347| 
 | 20220312T13:07:35Z | Null | https://github.com/ATTACK-TOOLS/exploit-shop | 0 | 0| 
-| 20220312T12:21:24Z | Exploiting the vulnerabilities of the HLL sketch in different scenarios. | https://github.com/PizzaWhisperer/HLLVuln | 0 | 0| 
 
 
 # backdoor on Github 推荐
