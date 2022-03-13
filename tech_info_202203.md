@@ -97,7 +97,7 @@
 | 20220313T09:58:10Z | Null | https://github.com/retr0-13/UAC_Exploit | 0 | 0| 
 | 20220313T09:48:48Z | Ethereum recon and exploitation tool. | https://github.com/cleanunicorn/theo | 214 | 77| 
 | 20220313T07:05:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 336 | 100| 
-| 20220313T02:42:48Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 3 | 3| 
+| 20220313T06:33:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2474 | 290| 
 
 
 # backdoor on Github 推荐
