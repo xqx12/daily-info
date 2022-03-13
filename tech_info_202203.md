@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220313T00:59:59Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 29 | 0| 
+| 20220313T01:44:02Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 30 | 0| 
 | 20220313T00:14:13Z | Null | https://github.com/snirvt/FuzzyTrees | 0 | 0| 
 | 20220312T23:14:27Z | Null | https://github.com/7yuvraj/MavenFuzzyFactory-Analysis | 0 | 0| 
 | 20220312T22:06:37Z | An automated setup for compiling & fuzzing Apache httpd server | https://github.com/0xbigshaq/apache-afl | 0 | 0| 
