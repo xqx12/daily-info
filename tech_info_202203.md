@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220313T01:57:22Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 2 | 2| 
+| 20220313T01:57:22Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 2 | 3| 
 | 20220313T00:40:14Z | Audit and pentest methodologies including enumeration, privesc, lateral movement, etc. | https://github.com/Kiosec/Azure-Exploitation | 0 | 0| 
 | 20220312T22:35:24Z | Goals:    1-)rearrange loops to increase spatial locality of a program    2-)exploit cache to improve the performance of a program    3-)write cache-friendly code for matrix operations | https://github.com/mehmeTurhan/matrixAlloc | 0 | 0| 
 | 20220312T21:40:13Z | Exploit Excel are Compatible with all Windows Versions and all their Service Packs. It is also works in full unpatched systems and supports 0day Exploit Excel You can use those Exploit Excel to spread them via Social Media. | https://github.com/Eddi0x/EXPLOIT-XLS-Bypass-Excel-Security | 0 | 0| 
