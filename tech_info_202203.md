@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220313T01:02:53Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20220313T01:57:22Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220312T23:20:39Z | CVE-2020-17456 | Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated) | https://github.com/TAPESH-TEAM/CVE-2020-17456-Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated | | 
 | 20220312T21:32:15Z | CVE-2021-41773 | Apache2 2.4.49 - LFI & RCE Exploit - CVE-2021-41773 | https://github.com/thehackersbrain/CVE-2021-41773 | | 
 | 20220312T13:44:22Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220313T01:02:53Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 1 | 2| 
+| 20220313T01:57:22Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 2 | 2| 
 | 20220313T00:40:14Z | Audit and pentest methodologies including enumeration, privesc, lateral movement, etc. | https://github.com/Kiosec/Azure-Exploitation | 0 | 0| 
 | 20220312T22:35:24Z | Goals:    1-)rearrange loops to increase spatial locality of a program    2-)exploit cache to improve the performance of a program    3-)write cache-friendly code for matrix operations | https://github.com/mehmeTurhan/matrixAlloc | 0 | 0| 
 | 20220312T21:40:13Z | Exploit Excel are Compatible with all Windows Versions and all their Service Packs. It is also works in full unpatched systems and supports 0day Exploit Excel You can use those Exploit Excel to spread them via Social Media. | https://github.com/Eddi0x/EXPLOIT-XLS-Bypass-Excel-Security | 0 | 0| 
