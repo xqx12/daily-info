@@ -23,7 +23,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220312T23:20:39Z | CVE-2020-17456 | Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated) | https://github.com/TAPESH-TEAM/CVE-2020-17456-Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated | | 
-| 20220312T23:11:10Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220312T21:32:15Z | CVE-2021-41773 | Apache2 2.4.49 - LFI & RCE Exploit - CVE-2021-41773 | https://github.com/thehackersbrain/CVE-2021-41773 | | 
 | 20220312T13:44:22Z | cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | | 
 | 20220312T13:33:57Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
@@ -47,7 +46,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220312T23:11:10Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 0 | 1| 
 | 20220312T22:35:24Z | Goals:    1-)rearrange loops to increase spatial locality of a program    2-)exploit cache to improve the performance of a program    3-)write cache-friendly code for matrix operations | https://github.com/mehmeTurhan/matrixAlloc | 0 | 0| 
 | 20220312T21:40:13Z | Exploit Excel are Compatible with all Windows Versions and all their Service Packs. It is also works in full unpatched systems and supports 0day Exploit Excel You can use those Exploit Excel to spread them via Social Media. | https://github.com/Eddi0x/EXPLOIT-XLS-Bypass-Excel-Security | 0 | 0| 
 | 20220312T21:38:54Z | FULL UNDETECTABLE Our product Silent Exploit PDF is FUD and it won’t be detected , the code is structed from a really good team and its detection ratio is quite astonishing, with anti-reverse techniques and random variables the code is running silently and smoothly in the background. | https://github.com/Eddi0x/Silent-PDF-Exploit | 0 | 0| 
@@ -57,6 +55,7 @@
 | 20220312T13:07:35Z | Null | https://github.com/ATTACK-TOOLS/exploit-shop | 0 | 0| 
 | 20220312T12:21:24Z | Exploiting the vulnerabilities of the HLL sketch in different scenarios. | https://github.com/PizzaWhisperer/HLLVuln | 0 | 0| 
 | 20220312T12:03:59Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6845 | 1587| 
+| 20220312T11:55:26Z | Delete any Discord webhook that you desire. | https://github.com/Whiteforge/Delete-Webhook-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -73,7 +72,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220312T10:35:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2751 | 399| 
+| 20220312T10:35:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2751 | 400| 
 | 20220312T09:38:09Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 797 | 111| 
 
 
