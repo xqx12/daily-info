@@ -42,8 +42,8 @@
 | 20220313T23:43:48Z | Null | https://github.com/danielmuthama/I_exploit | 0 | 0| 
 | 20220313T23:36:04Z | This is a tutorial on how to exploit PySpark%s Machine Learning library spark.ml in order to run basic statistical analysis and classical machine learning algorithms. | https://github.com/danielegiampaoli/PySpark-ML-library | 0 | 0| 
 | 20220313T23:30:08Z | Discord VC Exploit to lag VCS, after all this time, this is STILL working. | https://github.com/Sint0-xyz/Discord-Vc-Exploit | 1 | 0| 
-| 20220313T23:30:06Z | Enables some hidden features and sets your client to staff mode. | https://github.com/Sint0-xyz/Staff-Mode-Exploit | 1 | 0| 
 | 20220313T23:30:06Z | It%s a simple %script% that allows you to change your Discord account Password. | https://github.com/Sint0-xyz/Change-Password-Exploit | 1 | 0| 
+| 20220313T23:30:06Z | Enables some hidden features and sets your client to staff mode. | https://github.com/Sint0-xyz/Staff-Mode-Exploit | 1 | 0| 
 | 20220313T23:30:05Z | It%s a simple %script% that allows you to add Bot and System Tag to your Discord Account. | https://github.com/Sint0-xyz/Bot-and-System-Tag-Exploit | 1 | 0| 
 | 20220313T23:30:04Z | Added a activity button in voice channel | https://github.com/Sint0-xyz/Discord-Activities-Exploit | 1 | 0| 
 
