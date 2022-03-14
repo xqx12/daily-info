@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220314T00:04:12Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20220314T00:40:26Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220313T15:23:49Z | CVE-2021-44228 | Null | https://github.com/micha3lcve/LOG4J-mass-rce-CVE-2021-44228 | | 
 | 20220313T14:32:13Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
 | 20220313T07:44:14Z | CVE-2021-4034 | Null | https://github.com/Kashiki078/CVE-2021-4034 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220313T21:30:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5444 | 196| 
+| 20220314T00:17:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5445 | 196| 
 | 20220312T08:27:21Z | Config files for my GitHub profile. | https://github.com/kleekle/kleekle | 0 | 0| 
 | 20220311T13:04:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1904 | 544| 
 | 20220309T17:00:17Z | Null | https://github.com/0xjeremdev/Kleep | 0 | 0| 
