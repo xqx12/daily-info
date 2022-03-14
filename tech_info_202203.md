@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220314T01:40:06Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
 | 20220314T01:31:38Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220313T15:23:49Z | CVE-2021-44228 | Null | https://github.com/micha3lcve/LOG4J-mass-rce-CVE-2021-44228 | | 
-| 20220313T14:32:13Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
 | 20220313T07:44:14Z | CVE-2021-4034 | Null | https://github.com/Kashiki078/CVE-2021-4034 | | 
 | 20220313T06:07:15Z | CVE-2022-0847 | CVE-2022-0847 (Dirty Pipe) is an arbitrary file overwrite vulnerability that allows escalation of privileges by modifying or overwriting arbitrary read-only files e.g. /etc/passwd, /etc/shadow. | https://github.com/sa-infinity8888/Dirty-Pipe-CVE-2022-0847 | | 
 | 20220313T03:48:47Z | CVE-2020-17456 | Seowon SLR-120S42G RCE Exploit / Remote Code Execution (Unauthenticated) | https://github.com/TAPESH-TEAM/CVE-2020-17456-Seowon-SLR-120S42G-RCE-Exploit-Unauthenticated | | 
@@ -90,6 +90,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220313T23:53:54Z | GUI Doc & Excel Exploit For Windows | https://github.com/officialdedsec/Free-Office-Doc-Excel-Exploit | 0 | 0| 
 | 20220313T23:48:27Z | You%ll never be bored again if you try out our custom exploiting service, you can request the games to be added, and we try to add requested games every week! | https://github.com/Extra-Mundane/Redline-Products | 0 | 0| 
+| 20220313T23:43:51Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 687 | 152| 
 | 20220313T23:43:48Z | Null | https://github.com/danielmuthama/I_exploit | 0 | 0| 
 | 20220313T23:36:04Z | This is a tutorial on how to exploit PySpark%s Machine Learning library spark.ml in order to run basic statistical analysis and classical machine learning algorithms. | https://github.com/danielegiampaoli/PySpark-ML-library | 0 | 0| 
 | 20220313T23:30:08Z | Discord VC Exploit to lag VCS, after all this time, this is STILL working. | https://github.com/Sint0-xyz/Discord-Vc-Exploit | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220313T23:30:06Z | It%s a simple %script% that allows you to change your Discord account Password. | https://github.com/Sint0-xyz/Change-Password-Exploit | 1 | 0| 
 | 20220313T23:30:05Z | It%s a simple %script% that allows you to add Bot and System Tag to your Discord Account. | https://github.com/Sint0-xyz/Bot-and-System-Tag-Exploit | 1 | 0| 
 | 20220313T23:30:04Z | Added a activity button in voice channel | https://github.com/Sint0-xyz/Discord-Activities-Exploit | 1 | 0| 
-| 20220313T23:15:41Z | A collection of papers exploiting the seminal transformer module in deep learning era. | https://github.com/moeinheidari/Awesome-Transformer | 0 | 0| 
 
 
 # backdoor on Github 推荐
