@@ -97,6 +97,7 @@
 | 20220314T10:30:26Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 251 | 18| 
 | 20220314T10:17:14Z | Null | https://github.com/amrrs/fuzzy-matching-rapidfuzz | 0 | 0| 
 | 20220314T07:43:50Z | This is a car which moves without hitting obstacles using ultrasonic sensors and a fuzzy logic algorithm | https://github.com/priyatham921/fuzzyBot | 0 | 0| 
+| 20220314T04:34:34Z | Fuzzy Logic with Tsukamoto FIS Implementation | https://github.com/dzuerst/kotlin-fuzzy-logic | 0 | 0| 
 | 20220314T01:40:14Z | Null | https://github.com/clintmint/post-json-fuzzer | 0 | 0| 
 | 20220314T01:02:21Z | Null | https://github.com/HoManCode/PBL-1-Fuzzy-Car-Controller | 0 | 0| 
 
