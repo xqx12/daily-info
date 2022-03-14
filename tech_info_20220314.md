@@ -59,7 +59,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220314T12:40:23Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 53 | 12| 
 | 20220314T11:00:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1222 | 199| 
-| 20220314T09:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10871 | 1890| 
+| 20220314T09:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10871 | 1891| 
 | 20220314T09:23:35Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 | 20220314T08:46:13Z | Downloads CVE exploited vulnerability catalog from CISA, gathers a score for every entry and ads to the file.  | https://github.com/indeedion/CVETools | 0 | 0| 
 | 20220314T08:32:16Z | Some scripts or shellcodes | https://github.com/Choumou/Exploitation | 0 | 0| 
