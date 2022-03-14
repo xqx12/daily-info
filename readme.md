@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220314T10:17:04Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20220314T12:01:15Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220314T07:37:19Z | CVE-2021-42013 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-42013 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-42013 | | 
 | 20220314T07:35:34Z | CVE-2021-41773 | These Metasploit, Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-41773 | | 
 | 20220314T06:47:15Z | CVE-2021-35587 | Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587 | https://github.com/antx-code/CVE-2021-35587 | | 
@@ -51,6 +51,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220314T04:41:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 204 | 46| 
 
 
 # exploit on Github 推荐
