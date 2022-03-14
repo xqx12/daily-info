@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220314T01:44:11Z | Prevents players from triggering the invisible Heavy exploit in Team Fortress 2 (2020-01) | https://github.com/nosoop/SM-TFHeavyInvisExploitFix | 1 | 0| 
 | 20220313T23:53:54Z | GUI Doc & Excel Exploit For Windows | https://github.com/officialdedsec/Free-Office-Doc-Excel-Exploit | 0 | 0| 
 | 20220313T23:48:27Z | You%ll never be bored again if you try out our custom exploiting service, you can request the games to be added, and we try to add requested games every week! | https://github.com/Extra-Mundane/Redline-Products | 0 | 0| 
 | 20220313T23:43:51Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 687 | 152| 
@@ -97,7 +98,6 @@
 | 20220313T23:30:06Z | Enables some hidden features and sets your client to staff mode. | https://github.com/Sint0-xyz/Staff-Mode-Exploit | 1 | 0| 
 | 20220313T23:30:06Z | It%s a simple %script% that allows you to change your Discord account Password. | https://github.com/Sint0-xyz/Change-Password-Exploit | 1 | 0| 
 | 20220313T23:30:05Z | It%s a simple %script% that allows you to add Bot and System Tag to your Discord Account. | https://github.com/Sint0-xyz/Bot-and-System-Tag-Exploit | 1 | 0| 
-| 20220313T23:30:04Z | Added a activity button in voice channel | https://github.com/Sint0-xyz/Discord-Activities-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
