@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220314T00:46:55Z | Null | https://github.com/HoManCode/PBL-1-Fuzzy-Car-Controller | 0 | 0| 
+| 20220314T01:02:21Z | Null | https://github.com/HoManCode/PBL-1-Fuzzy-Car-Controller | 0 | 0| 
 | 20220313T23:41:29Z | Going through fuzz tutorial at go.dev | https://github.com/potatogopher/go-fuzzing-examples | 0 | 0| 
 | 20220313T23:10:24Z | Null | https://github.com/skripsimedansoftware/Optimasi-Kelapa-Sawit-Algoritma-Fuzzy-Mamdani | 0 | 0| 
 | 20220313T20:30:04Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 12 | 0| 
