@@ -16,6 +16,7 @@
 | 20220314 | Compilers: The Old New Security Frontier，来自 Bluehat 2022 会议的演讲 | https://grsecurity.net/Compilers_The_Old_New_Security_Frontier_BlueHat_IL_2022.pdf| 
 | 20220314 | Hayyim CTF 2022 比赛 ClamAV 漏洞 writeup | http://ptr-yudai.hatenablog.com/entry/2022/02/13/122744| 
 | 20220314 | Microsoft Edge CVE-2019-0567 类型混淆漏洞的利用过程 | https://sec.today/pulses/2587603a-eb03-4f8a-ab38-e97a93d31c0c/| 
+| 20220314 | Microsoft Edge CVE-2019-0567 类型混淆漏洞的利用过程 | https://connormcgarr.github.io/type-confusion-part-1/| 
 | 20220311 | macOS Red Teaming: Bypass TCC with old apps | https://wojciechregula.blog/post/macos-red-teaming-bypass-tcc-with-old-apps/| 
 | 20220311 | VulFi - 一款用于辅助在 IDA Pro 中挖掘漏洞的插件 | https://github.com/Accenture/VulFi| 
 | 20220311 | 用于红蓝对抗中快速验证 Web 应用漏洞的工具 | https://github.com/jiangsir404/POC-S| 
@@ -25,7 +26,6 @@
 | 20220311 | Windows CLFS 文件系统驱动 clfs.sys UAF 漏洞的利用 | https://blog.exodusintel.com/2022/03/10/exploiting-a-use-after-free-in-windows-common-logging-file-system-clfs/?utm_source=rss&utm_medium=rss&utm_campaign=exploiting-a-use-after-free-in-windows-common-logging-file-system-clfs| 
 | 20220310 | HP 刚刚修复了 UEFI 固件的 16 个高危漏洞 | https://securityaffairs.co/wordpress/128838/hacking/hp-uefi-firmware-flaws.html| 
 | 20220310 | Linux 自动化提权工具 | https://github.com/liamg/traitor| 
-| 20220310 | 多款包管理器被发现安全漏洞 | https://blog.sonarsource.com/securing-developer-tools-package-managers/| 
 
 
 # 安全维基 推荐
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220314T01:53:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1905 | 545| 
+| 20220314T07:16:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2752 | 401| 
+| 20220314T04:47:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1906 | 545| 
+| 20220314T04:41:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 204 | 46| 
 | 20220313T21:35:21Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 798 | 111| 
 | 20220313T20:54:59Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 226 | 15| 
-| 20220312T10:35:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2751 | 400| 
 | 20220311T09:14:24Z | Seminar for the ANTIQUE Team about Relational symbolic execution | https://github.com/ignatirabo/seminar-relsym | 0 | 0| 
 | 20220310T08:01:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 524 | 86| 
 | 20220307T22:04:02Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 50 | 4| 
 | 20220307T05:49:53Z | Symbolic Execution For Bug Hunting in Binaries | https://github.com/Resery/Symbolic-Execution-For-Bug-Hunting-in-Binaries | 0 | 0| 
 | 20220306T17:58:45Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 12 | 5| 
-| 20220306T12:30:48Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 621 | 128| 
 
 
 # big4 on Github 推荐

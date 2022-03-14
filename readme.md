@@ -16,6 +16,7 @@
 | 20220314 | Compilers: The Old New Security Frontier，来自 Bluehat 2022 会议的演讲 | https://grsecurity.net/Compilers_The_Old_New_Security_Frontier_BlueHat_IL_2022.pdf| 
 | 20220314 | Hayyim CTF 2022 比赛 ClamAV 漏洞 writeup | http://ptr-yudai.hatenablog.com/entry/2022/02/13/122744| 
 | 20220314 | Microsoft Edge CVE-2019-0567 类型混淆漏洞的利用过程 | https://sec.today/pulses/2587603a-eb03-4f8a-ab38-e97a93d31c0c/| 
+| 20220314 | Microsoft Edge CVE-2019-0567 类型混淆漏洞的利用过程 | https://connormcgarr.github.io/type-confusion-part-1/| 
 
 
 # 安全维基 推荐
@@ -79,7 +80,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220314T01:53:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1905 | 545| 
+| 20220314T07:16:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2752 | 401| 
+| 20220314T04:47:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1906 | 545| 
+| 20220314T04:41:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 204 | 46| 
 
 
 # big4 on Github 推荐
