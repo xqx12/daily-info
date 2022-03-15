@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220315T00:25:22Z | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/bstevens94/IDOR-for-the-Casual | 0 | 0| 
+| 20220315T00:28:49Z | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/bstevens94/IDOR-for-the-Casual | 0 | 0| 
 | 20220315T00:07:16Z | Binary exploitation exercises and scripts | https://github.com/ivanmedina/Pwning | 4 | 0| 
 | 20220314T23:31:13Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 73 | 14| 
 | 20220314T22:23:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2480 | 293| 
