@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220315T12:22:23Z | A Path traversal vulnerability in the file upload functionality in tinyfilemanager.php in Tiny File Manager Project%s Tiny File Manager <= 2.4.6 allows remote attackers with valid user accounts to upload malicious PHP files to the webroot and achieve code execution on the target server. | https://github.com/febinrev/tinyfilemanager-2.4.3-exploit | 0 | 0| 
 | 20220315T11:08:01Z | Null | https://github.com/F0rbidden-Equation/SqlExploit | 0 | 0| 
 | 20220315T10:41:37Z | Null | https://github.com/F0rbidden-Equation/XssExploit | 0 | 0| 
 | 20220315T10:29:07Z | Null | https://github.com/F0rbidden-Equation/PortExploit | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220315T08:54:46Z | Null | https://github.com/phuonguno98/CVE-2022-0847-DirtyPipe-Exploits | 0 | 0| 
 | 20220315T07:56:21Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 693 | 153| 
 | 20220315T07:20:58Z | This repository contains codes and exploits which are used by AccuKnox team to demonstrate an attack scenario in a controlled environment   | https://github.com/accuknox/samples | 2 | 5| 
-| 20220315T05:03:42Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 88 | 15| 
 
 
 # backdoor on Github 推荐
@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220315T12:17:36Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 297 | 25| 
+| 20220315T12:25:38Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 298 | 25| 
 | 20220315T12:00:11Z | Null | https://github.com/Nilstrieb/fuzz-rustc-ast | 0 | 0| 
 | 20220315T11:08:11Z | Ini adalah Web Application dengan metode Fuzzy Logic | https://github.com/alfrands/CI3_Fuzzy | 0 | 0| 
 | 20220315T11:03:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7185 | 1526| 
