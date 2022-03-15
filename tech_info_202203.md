@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220315T01:15:12Z | Longue vue is an exploit chain that can compromise over the internet NETGEAR DGND3700v2 devices. | https://github.com/0vercl0k/longue-vue | 8 | 3| 
 | 20220315T00:28:49Z | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/bstevens94/IDOR-for-the-Casual | 0 | 0| 
 | 20220315T00:07:16Z | Binary exploitation exercises and scripts | https://github.com/ivanmedina/Pwning | 4 | 0| 
 | 20220314T23:31:13Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 73 | 14| 
@@ -97,7 +98,6 @@
 | 20220314T20:52:26Z | My PS4 exploit host | https://github.com/OliverMBathurst/ps4-exploit-self-host | 1 | 0| 
 | 20220314T20:38:49Z | Null | https://github.com/Marklord96/solidity-exploits | 0 | 0| 
 | 20220314T19:01:25Z | A technique to run binaries filelessly and stealthily on Linux by tricking dd into exploiting itself. | https://github.com/arget13/DDexec | 18 | 0| 
-| 20220314T12:48:43Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 690 | 152| 
 
 
 # backdoor on Github 推荐
