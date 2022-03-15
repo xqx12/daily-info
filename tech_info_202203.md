@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220315T00:22:54Z | CVE-2021-4034 | pkexec --> privilege escalation | https://github.com/TomSgn/CVE-2021-4034 | | 
 | 20220314T23:31:13Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220314T23:10:10Z | CVE-2022-0847 | Implementation of CVE-2022-0847 as a shellcode | https://github.com/Shotokhan/cve_2022_0847_shellcode | | 
 | 20220314T21:44:14Z | CVE-2022-24122 | CVE-2022-24122 Proof of Concept | https://github.com/meowmeowxw/CVE-2022-24122 | | 
@@ -55,7 +56,6 @@
 | 20220314T16:44:00Z | CVE-2021-41773 | Null | https://github.com/Fa1c0n35/CVE-2021-41773 | | 
 | 20220314T12:13:10Z | CVE-2021-35587 | Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587 | https://github.com/antx-code/CVE-2021-35587 | | 
 | 20220314T07:37:19Z | CVE-2021-42013 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-42013 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-42013 | | 
-| 20220314T07:35:34Z | CVE-2021-41773 | These Metasploit, Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
