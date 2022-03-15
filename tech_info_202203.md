@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220315T01:32:09Z | Null | https://github.com/CodeGlichBeast/fuzzy-parakeet | 0 | 0| 
 | 20220314T22:51:08Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 53 | 0| 
 | 20220314T22:15:39Z | Add scripts to run the project | https://github.com/DCsunset/fuzzer-test-suite | 0 | 0| 
 | 20220314T21:35:56Z | A fuzzing tool I made for fun and practice  | https://github.com/MikeyPPPPPPPP/Fuzzy | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220314T10:30:26Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 251 | 18| 
 | 20220314T10:17:14Z | Null | https://github.com/amrrs/fuzzy-matching-rapidfuzz | 0 | 0| 
 | 20220314T07:43:50Z | This is a car which moves without hitting obstacles using ultrasonic sensors and a fuzzy logic algorithm | https://github.com/priyatham921/fuzzyBot | 0 | 0| 
-| 20220314T04:34:34Z | Fuzzy Logic with Tsukamoto FIS Implementation | https://github.com/dzuerst/kotlin-fuzzy-logic | 0 | 0| 
 
 
 
