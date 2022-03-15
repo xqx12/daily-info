@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220315T00:25:22Z | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/bstevens94/IDOR-for-the-Casual | 0 | 0| 
 | 20220315T00:07:16Z | Binary exploitation exercises and scripts | https://github.com/ivanmedina/Pwning | 4 | 0| 
 | 20220314T22:23:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2480 | 293| 
 | 20220314T22:18:09Z | Null | https://github.com/osamu-kj/hacking-and-exploiting-pathway-notes | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220314T19:01:25Z | A technique to run binaries filelessly and stealthily on Linux by tricking dd into exploiting itself. | https://github.com/arget13/DDexec | 18 | 0| 
 | 20220314T12:48:43Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 690 | 152| 
 | 20220314T12:40:23Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 53 | 12| 
-| 20220314T11:00:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1222 | 199| 
 
 
 # backdoor on Github 推荐
