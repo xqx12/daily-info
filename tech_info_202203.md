@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220315T01:25:09Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 74 | 14| 
+| 20220315T01:36:27Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 75 | 14| 
 | 20220315T01:15:12Z | Longue vue is an exploit chain that can compromise over the internet NETGEAR DGND3700v2 devices. | https://github.com/0vercl0k/longue-vue | 8 | 3| 
 | 20220315T00:28:49Z | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/bstevens94/IDOR-for-the-Casual | 0 | 0| 
 | 20220315T00:07:16Z | Binary exploitation exercises and scripts | https://github.com/ivanmedina/Pwning | 4 | 0| 
