@@ -31,7 +31,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220314T23:31:13Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220314T23:10:10Z | CVE-2022-0847 | Implementation of CVE-2022-0847 as a shellcode | https://github.com/Shotokhan/cve_2022_0847_shellcode | | 
 | 20220314T21:44:14Z | CVE-2022-24122 | CVE-2022-24122 Proof of Concept | https://github.com/meowmeowxw/CVE-2022-24122 | | 
 | 20220314T19:36:09Z | CVE-2022-0847 | dirtypipe | https://github.com/CYB3RK1D/CVE-2022-0847-POC | | 
@@ -41,6 +40,7 @@
 | 20220314T12:13:10Z | CVE-2021-35587 | Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587 | https://github.com/antx-code/CVE-2021-35587 | | 
 | 20220314T07:37:19Z | CVE-2021-42013 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-42013 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-42013 | | 
 | 20220314T07:35:34Z | CVE-2021-41773 | These Metasploit, Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-41773 | | 
+| 20220314T04:59:50Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
 
 
 # klee on Github 推荐
@@ -59,7 +59,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220314T23:31:13Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 73 | 14| 
 | 20220314T22:23:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2480 | 293| 
 | 20220314T22:18:09Z | Null | https://github.com/osamu-kj/hacking-and-exploiting-pathway-notes | 0 | 0| 
 | 20220314T20:59:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10872 | 1893| 
@@ -69,6 +68,7 @@
 | 20220314T12:48:43Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 690 | 152| 
 | 20220314T11:00:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1222 | 199| 
 | 20220314T09:23:35Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
+| 20220314T08:46:13Z | Downloads CVE exploited vulnerability catalog from CISA, gathers a score for every entry and ads to the file.  | https://github.com/indeedion/CVETools | 0 | 0| 
 
 
 # backdoor on Github 推荐

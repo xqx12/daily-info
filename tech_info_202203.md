@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220315T01:25:09Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220315T00:22:54Z | CVE-2021-4034 | pkexec --> privilege escalation | https://github.com/TomSgn/CVE-2021-4034 | | 
-| 20220314T23:31:13Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220314T23:10:10Z | CVE-2022-0847 | Implementation of CVE-2022-0847 as a shellcode | https://github.com/Shotokhan/cve_2022_0847_shellcode | | 
 | 20220314T21:44:14Z | CVE-2022-24122 | CVE-2022-24122 Proof of Concept | https://github.com/meowmeowxw/CVE-2022-24122 | | 
 | 20220314T19:36:09Z | CVE-2022-0847 | dirtypipe | https://github.com/CYB3RK1D/CVE-2022-0847-POC | | 
@@ -88,10 +88,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220315T01:25:09Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 74 | 14| 
 | 20220315T01:15:12Z | Longue vue is an exploit chain that can compromise over the internet NETGEAR DGND3700v2 devices. | https://github.com/0vercl0k/longue-vue | 8 | 3| 
 | 20220315T00:28:49Z | A casual IDOR exploiter that provides .csv files of url and status code. | https://github.com/bstevens94/IDOR-for-the-Casual | 0 | 0| 
 | 20220315T00:07:16Z | Binary exploitation exercises and scripts | https://github.com/ivanmedina/Pwning | 4 | 0| 
-| 20220314T23:31:13Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 73 | 14| 
 | 20220314T22:23:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2480 | 293| 
 | 20220314T22:18:09Z | Null | https://github.com/osamu-kj/hacking-and-exploiting-pathway-notes | 0 | 0| 
 | 20220314T20:59:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10872 | 1893| 
