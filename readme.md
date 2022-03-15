@@ -17,6 +17,7 @@
 | 20220314 | Hayyim CTF 2022 比赛 ClamAV 漏洞 writeup | http://ptr-yudai.hatenablog.com/entry/2022/02/13/122744| 
 | 20220314 | Microsoft Edge CVE-2019-0567 类型混淆漏洞的利用过程 | https://sec.today/pulses/2587603a-eb03-4f8a-ab38-e97a93d31c0c/| 
 | 20220314 | Microsoft Edge CVE-2019-0567 类型混淆漏洞的利用过程 | https://connormcgarr.github.io/type-confusion-part-1/| 
+| 20220314 | Shiro后渗透拓展面 | https://tttang.com/archive/1472/| 
 
 
 # 安全维基 推荐
@@ -24,27 +25,29 @@
 | --- | --- | ---| 
 | 20220314 | Watchdog 还是 TeamTNT？一例攻击归因刍议 | https://mp.weixin.qq.com/s/RNMmyylEZDprf5XDsNDe4g| 
 | 20220314 | SecWiki周刊（第419期) | https://www.sec-wiki.com/weekly/419| 
+| 20220314 | [HTB] Ophiuchi Writeup | https://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652490020&idx=1&sn=0d67a7d5c6e51f1dc8fdea1b62b5dadf&chksm=8c945df3bbe3d4e5f63bf169516d6206705a19a7c9a74a7db6250d59edb193f7bb515161851b#rd| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220314T12:40:23Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20220314T23:31:13Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20220314T23:10:10Z | CVE-2022-0847 | Implementation of CVE-2022-0847 as a shellcode | https://github.com/Shotokhan/cve_2022_0847_shellcode | | 
+| 20220314T21:44:14Z | CVE-2022-24122 | CVE-2022-24122 Proof of Concept | https://github.com/meowmeowxw/CVE-2022-24122 | | 
+| 20220314T19:36:09Z | CVE-2022-0847 | dirtypipe | https://github.com/CYB3RK1D/CVE-2022-0847-POC | | 
+| 20220314T17:30:22Z | CVE-2021-33193 | PoC for CVE-2021-33193 | https://github.com/jeremy-cxf/CVE-2021-33193 | | 
+| 20220314T17:14:48Z | CVE-2022-22909 |  Exploits for Hotel Druid 3.0.3 - Remote Code Execution (RCE)  CVE-2022-22909 | https://github.com/kaal18/CVE-2022-22909 | | 
+| 20220314T16:44:00Z | CVE-2021-41773 | Null | https://github.com/Fa1c0n35/CVE-2021-41773 | | 
 | 20220314T12:13:10Z | CVE-2021-35587 | Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587 | https://github.com/antx-code/CVE-2021-35587 | | 
 | 20220314T07:37:19Z | CVE-2021-42013 | These Nmap, Python and Ruby scripts detects and exploits CVE-2021-42013 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-42013 | | 
 | 20220314T07:35:34Z | CVE-2021-41773 | These Metasploit, Nmap, Python and Ruby scripts detects and exploits CVE-2021-41773 with RCE and local file disclosure. | https://github.com/mauricelambert/CVE-2021-41773 | | 
-| 20220314T04:59:50Z | CVE-2022-0847 | my personal exploit of CVE-2022-0847(dirty pipe) | https://github.com/arttnba3/CVE-2022-0847 | | 
-| 20220314T04:20:42Z | CVE-2021-42013 | Null | https://github.com/cryst4lliz3/CVE-2021-42013 | | 
-| 20220314T04:13:24Z | CVE-2021-44228 | Null | https://github.com/cryst4lliz3/CVE-2021-44228-vuln-app | | 
-| 20220314T04:09:57Z | CVE-2021-44228 | Null | https://github.com/cryst4lliz3/CVE-2021-44228 | | 
-| 20220314T04:09:34Z | CVE-2021-22205 | Null | https://github.com/cryst4lliz3/CVE-2021-22205 | | 
-| 20220314T04:09:11Z | CVE-2021-41773 | Null | https://github.com/cryst4lliz3/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220314T12:42:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5457 | 197| 
+| 20220314T19:54:02Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 27| 
+| 20220314T16:18:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5460 | 197| 
 | 20220314T04:47:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1906 | 545| 
 
 
@@ -57,21 +60,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220314T22:23:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2480 | 293| 
+| 20220314T22:18:09Z | Null | https://github.com/osamu-kj/hacking-and-exploiting-pathway-notes | 0 | 0| 
+| 20220314T20:59:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10872 | 1893| 
+| 20220314T20:52:26Z | My PS4 exploit host | https://github.com/OliverMBathurst/ps4-exploit-self-host | 1 | 0| 
+| 20220314T20:38:49Z | Null | https://github.com/Marklord96/solidity-exploits | 0 | 0| 
+| 20220314T19:01:25Z | A technique to run binaries filelessly and stealthily on Linux by tricking dd into exploiting itself. | https://github.com/arget13/DDexec | 18 | 0| 
 | 20220314T12:48:43Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 690 | 152| 
 | 20220314T12:40:23Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | 53 | 12| 
 | 20220314T11:00:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1222 | 199| 
-| 20220314T09:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10871 | 1891| 
 | 20220314T09:23:35Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
-| 20220314T08:46:13Z | Downloads CVE exploited vulnerability catalog from CISA, gathers a score for every entry and ads to the file.  | https://github.com/indeedion/CVETools | 0 | 0| 
-| 20220314T08:32:16Z | Some scripts or shellcodes | https://github.com/Choumou/Exploitation | 0 | 0| 
-| 20220314T07:55:49Z | Null | https://github.com/philip17rc/Exploits | 0 | 0| 
-| 20220314T07:36:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 337 | 100| 
-| 20220314T07:32:11Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 27 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220314T22:45:22Z | [Virus] [Backdoor] Metamorphic self-replicating tagging virus with anti debugging features [WIP] | https://github.com/SaltyMilk/D34TH | 0 | 0| 
+| 20220314T22:22:35Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 12 | 2| 
+| 20220314T20:16:20Z | An evil compiler that adds undetectable backdoors into programs it compiles | https://github.com/awelm/evil-compiler | 1 | 0| 
+| 20220314T19:00:27Z | Screen and webcam backdoor | https://github.com/Konstantin-create/Screen-backdoor | 0 | 0| 
+| 20220314T18:54:52Z | Null | https://github.com/technomagician-ros/simple_backdoor | 0 | 0| 
+| 20220314T14:39:13Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 22 | 7| 
 | 20220314T11:55:46Z | This project contains methodology of creating position independent code that is used to extract shellcode from the generated binary. Position independent shellcode could be injected in any process for evading defenses and creating backdoors. | https://github.com/shaddy43/Position_Independent_Backdoor | 0 | 0| 
 | 20220314T10:17:45Z | Simulation files for the paper %Luminance-based video backdoor attack against anti-spoofing rebroadcast detection% published at the 2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP), Kuala Lumpur, Malaysia | https://github.com/KassemKallas/MMSP19-videobackdoor | 0 | 0| 
 | 20220314T09:26:28Z | A Simple Backdoor ToolKit Using Rust | https://github.com/krishpranav/evilkit | 2 | 0| 
@@ -94,13 +103,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220314T22:51:08Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 53 | 0| 
+| 20220314T22:15:39Z | Add scripts to run the project | https://github.com/DCsunset/fuzzer-test-suite | 0 | 0| 
+| 20220314T21:35:56Z | A fuzzing tool I made for fun and practice  | https://github.com/MikeyPPPPPPPP/Fuzzy | 0 | 0| 
+| 20220314T21:19:16Z | A toy fuzzer with ring-like properties | https://github.com/mirror12k/JSON-Ring-Fuzzer | 0 | 0| 
+| 20220314T20:49:48Z | Null | https://github.com/Thestripeproject/fuzzy-winter | 0 | 0| 
 | 20220314T12:32:40Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 260 | 20| 
 | 20220314T10:30:26Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 251 | 18| 
 | 20220314T10:17:14Z | Null | https://github.com/amrrs/fuzzy-matching-rapidfuzz | 0 | 0| 
 | 20220314T07:43:50Z | This is a car which moves without hitting obstacles using ultrasonic sensors and a fuzzy logic algorithm | https://github.com/priyatham921/fuzzyBot | 0 | 0| 
 | 20220314T04:34:34Z | Fuzzy Logic with Tsukamoto FIS Implementation | https://github.com/dzuerst/kotlin-fuzzy-logic | 0 | 0| 
-| 20220314T01:40:14Z | Null | https://github.com/clintmint/post-json-fuzzer | 0 | 0| 
-| 20220314T01:02:21Z | Null | https://github.com/HoManCode/PBL-1-Fuzzy-Car-Controller | 0 | 0| 
 
 
 
