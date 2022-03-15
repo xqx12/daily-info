@@ -25,6 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220315T12:58:11Z | CVE-2022-24990 | 仅仅是poc,并不是exp | https://github.com/VVeakee/CVE-2022-24990-POC | | 
 | 20220315T11:27:38Z | CVE-2022-0847 | Python script to check if your kernel is vulnerable to Dirty pipe CVE-2022-0847 | https://github.com/MrP1xel/CVE-2022-0847-dirty-pipe-kernel-checker | | 
 | 20220315T10:39:54Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220315T10:20:13Z | CVE-2022-24122 | CVE-2022-24122 Proof of Concept | https://github.com/meowmeowxw/CVE-2022-24122 | | 
@@ -34,7 +35,6 @@
 | 20220315T08:54:46Z | CVE-2022-0847 | Null | https://github.com/phuonguno98/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220315T08:50:13Z | CVE-2022-22947 | Null | https://github.com/bysinks/CVE-2022-22947 | | 
 | 20220315T08:34:07Z | CVE-2022-0847 | Null | https://github.com/githublihaha/DirtyPIPE-CVE-2022-0847 | | 
-| 20220315T07:38:51Z | cve-2021-21341 | Null | https://github.com/Mani1325/ka-cve-2021-21341 | | 
 
 
 # klee on Github 推荐
@@ -90,7 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220315T12:52:25Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 302 | 25| 
+| 20220315T12:59:29Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 303 | 25| 
 | 20220315T12:00:11Z | Null | https://github.com/Nilstrieb/fuzz-rustc-ast | 0 | 0| 
 | 20220315T11:08:11Z | Ini adalah Web Application dengan metode Fuzzy Logic | https://github.com/alfrands/CI3_Fuzzy | 0 | 0| 
 | 20220315T11:03:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7185 | 1526| 
