@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220316T12:38:38Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220316T11:57:09Z | CVE-2021-21983 | [CVE-2021-21983] VMware vRealize Operations (vROps) Manager File Path Traversal Leads to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21983 | | 
 | 20220316T11:23:05Z | CVE-2021-0595 | Null | https://github.com/pazhanivel07/frameworks_base-CVE-2021-0595 | | 
 | 20220316T11:09:20Z | CVE-2021-43008 | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | | 
@@ -53,7 +54,6 @@
 | 20220316T10:59:58Z | CVE-2021-0595 | Null | https://github.com/pazhanivel07/Settings-CVE-2021-0595 | | 
 | 20220316T10:44:13Z | CVE-2021-39165 | Null | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220316T09:54:17Z | CVE-2022-26503 | Null | https://github.com/sinsinology/CVE-2022-26503 | | 
-| 20220316T09:22:51Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220316T09:20:45Z | CVE-2022-0543 | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | https://github.com/aodsec/CVE-2022-0543 | | 
 | 20220316T09:19:38Z | CVE-2022-24112 | Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit  | https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112 | | 
 
