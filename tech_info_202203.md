@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220316T01:15:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5478 | 199| 
+| 20220316T01:49:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5479 | 199| 
 | 20220315T09:06:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1907 | 545| 
 | 20220314T19:54:02Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 27| 
 | 20220314T07:09:11Z | Null | https://github.com/fontworks-fonts/Klee | 667 | 22| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220316T01:46:46Z | Exploration versus exploration under a multi-armed bandit as a function of uncertainty bonus  | https://github.com/leonardtang/exploit-explore-adaptive-gain | 0 | 0| 
 | 20220316T01:27:57Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6867 | 1593| 
 | 20220316T00:19:03Z | Exploit para PS4 versión 9.0 de PixelCuba | https://github.com/PixelCuba/ps4v9 | 0 | 0| 
 | 20220315T23:40:13Z | A series of simple but powerful scripts based on automation of exploits. | https://github.com/0xcybrK3r0/SimplePwnSeries | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220315T22:36:20Z | This cheat is Internal really isn%t like other liars | https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20220315T21:55:32Z | This makes it easier to download metasploit exploits and install them into your local metasploit database | https://github.com/zenedf/Install_Metasploit_Exploits | 0 | 0| 
 | 20220315T21:04:22Z | Null | https://github.com/Marklord96/solidity-exploits | 0 | 0| 
-| 20220315T20:36:47Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 27 | 4| 
 
 
 # backdoor on Github 推荐
