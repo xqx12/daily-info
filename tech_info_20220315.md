@@ -28,7 +28,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220315T23:28:16Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
-| 20220315T21:09:43Z | CVE-2020-0443 | Proof of concept app for Android permanent denial-of-service vulnerability CVE-2020-0443 | https://github.com/Supersonic/CVE-2020-0443 | | 
 | 20220315T20:31:10Z | CVE-2021-39165 | Null | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220315T17:00:23Z | CVE-2022-0847 | Implementation of CVE-2022-0847 as a shellcode | https://github.com/Shotokhan/cve_2022_0847_shellcode | | 
 | 20220315T12:58:11Z | CVE-2022-24990 | 仅仅是poc,并不是exp | https://github.com/VVeakee/CVE-2022-24990-POC | | 
@@ -37,6 +36,7 @@
 | 20220315T08:54:46Z | CVE-2022-0847 | Null | https://github.com/phuonguno98/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220315T08:50:13Z | CVE-2022-22947 | Null | https://github.com/bysinks/CVE-2022-22947 | | 
 | 20220315T08:34:07Z | CVE-2022-0847 | Null | https://github.com/githublihaha/DirtyPIPE-CVE-2022-0847 | | 
+| 20220315T07:38:51Z | cve-2021-21341 | Null | https://github.com/Mani1325/ka-cve-2021-21341 | | 
 
 
 # klee on Github 推荐
