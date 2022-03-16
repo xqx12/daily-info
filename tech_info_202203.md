@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220316T00:57:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6865 | 1593| 
 | 20220316T00:19:03Z | Exploit para PS4 versión 9.0 de PixelCuba | https://github.com/PixelCuba/ps4v9 | 0 | 0| 
 | 20220315T23:40:13Z | A series of simple but powerful scripts based on automation of exploits. | https://github.com/0xcybrK3r0/SimplePwnSeries | 0 | 0| 
 | 20220315T22:53:46Z | Exploits for sites used for educational purposes, | https://github.com/unc0vrd/EducationExploits | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220315T21:55:32Z | This makes it easier to download metasploit exploits and install them into your local metasploit database | https://github.com/zenedf/Install_Metasploit_Exploits | 0 | 0| 
 | 20220315T21:04:22Z | Null | https://github.com/Marklord96/solidity-exploits | 0 | 0| 
 | 20220315T20:36:47Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 27 | 4| 
-| 20220315T20:07:16Z | Null | https://github.com/nimelehin/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
