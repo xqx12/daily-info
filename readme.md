@@ -27,7 +27,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220315T23:43:14Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220315T23:28:16Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220315T21:09:43Z | CVE-2020-0443 | Proof of concept app for Android permanent denial-of-service vulnerability CVE-2020-0443 | https://github.com/Supersonic/CVE-2020-0443 | | 
 | 20220315T20:31:10Z | CVE-2021-39165 | Null | https://github.com/W0rty/CVE-2021-39165 | | 
@@ -37,6 +36,7 @@
 | 20220315T12:58:11Z | CVE-2022-24990 | 仅仅是poc,并不是exp | https://github.com/VVeakee/CVE-2022-24990-POC | | 
 | 20220315T09:49:33Z | CVE-2022-24086 | Null | https://github.com/k0zulzr/CVE-2022-24086-RCE | | 
 | 20220315T09:02:02Z | CVE-2021-29441 | Null | https://github.com/bysinks/CVE-2021-29441 | | 
+| 20220315T08:54:46Z | CVE-2022-0847 | Null | https://github.com/phuonguno98/CVE-2022-0847-DirtyPipe-Exploits | | 
 
 
 # klee on Github 推荐
