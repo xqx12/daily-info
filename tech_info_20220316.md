@@ -53,9 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220316T01:46:46Z | Exploration versus exploration under a multi-armed bandit as a function of uncertainty bonus  | https://github.com/leonardtang/exploit-explore-adaptive-gain | 0 | 0| 
-| 20220316T01:27:57Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6867 | 1593| 
-| 20220316T00:19:03Z | Exploit para PS4 versión 9.0 de PixelCuba | https://github.com/PixelCuba/ps4v9 | 0 | 0| 
+| 20220316T11:42:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10875 | 1896| 
+| 20220316T11:09:20Z | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | 19 | 4| 
+| 20220316T10:10:41Z | Measuring the invisible: exploiting a two-substrate two-product equilibrium to determine the decomposition rate of one of the products | https://github.com/roberts-farm-of-ideas/7 | 0 | 0| 
+| 20220316T10:04:43Z | Phineas is a vulnerable box to learn some web exploitation | https://github.com/CalfCrusher/Phineas-Vulnerable-OS | 1 | 1| 
+| 20220316T09:37:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 339 | 101| 
+| 20220316T09:19:38Z | Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit  | https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112 | 1 | 1| 
+| 20220316T09:12:00Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2107 | 347| 
+| 20220316T08:55:59Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 695 | 153| 
+| 20220316T06:37:43Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 552 | 40| 
+| 20220316T06:29:42Z | Exploring and exploiting CVE-2022-0778.  | https://github.com/BobTheShoplifter/CVE-2022-0778-POC | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -80,6 +87,15 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220316T11:54:03Z | Null | https://github.com/xfuzzable/dde-fuzz | 0 | 0| 
+| 20220316T11:24:00Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1133 | 159| 
+| 20220316T11:06:44Z | There are some experiment data about glibFuzzer | https://github.com/double-blind-paper-data/glibFuzzer | 0 | 0| 
+| 20220316T10:38:44Z | This library provides an automated integration of (all) OSS-Fuzz experiments into fuzzbench | https://github.com/florian-university/format_fuzzer_experiments | 1 | 0| 
+| 20220316T08:47:04Z | Null | https://github.com/takada-s/fuzzuf-ci | 0 | 0| 
+| 20220316T07:15:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7192 | 1529| 
+| 20220316T04:20:23Z | This service supports management and result report when user conduct software testing as AFL++.  | https://github.com/jiniljeil/FuzzingManagementService | 0 | 0| 
+| 20220316T03:21:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 797 | 84| 
+| 20220316T03:07:06Z | A simple fuzzer based on python. | https://github.com/picklover/PySimpleFuzzer | 0 | 0| 
 
 
 
