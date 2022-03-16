@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220316T00:57:35Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6865 | 1593| 
+| 20220316T01:16:08Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6866 | 1593| 
 | 20220316T00:19:03Z | Exploit para PS4 versión 9.0 de PixelCuba | https://github.com/PixelCuba/ps4v9 | 0 | 0| 
 | 20220315T23:40:13Z | A series of simple but powerful scripts based on automation of exploits. | https://github.com/0xcybrK3r0/SimplePwnSeries | 0 | 0| 
 | 20220315T22:53:46Z | Exploits for sites used for educational purposes, | https://github.com/unc0vrd/EducationExploits | 0 | 0| 
