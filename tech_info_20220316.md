@@ -55,6 +55,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220316T11:42:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10875 | 1896| 
 | 20220316T11:09:20Z | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | 19 | 4| 
+| 20220316T11:01:42Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1531 | 125| 
 | 20220316T10:10:41Z | Measuring the invisible: exploiting a two-substrate two-product equilibrium to determine the decomposition rate of one of the products | https://github.com/roberts-farm-of-ideas/7 | 0 | 0| 
 | 20220316T10:04:43Z | Phineas is a vulnerable box to learn some web exploitation | https://github.com/CalfCrusher/Phineas-Vulnerable-OS | 1 | 1| 
 | 20220316T09:37:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 339 | 101| 
@@ -62,7 +63,6 @@
 | 20220316T09:12:00Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2107 | 347| 
 | 20220316T08:55:59Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 695 | 153| 
 | 20220316T06:37:43Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 552 | 40| 
-| 20220316T06:29:42Z | Exploring and exploiting CVE-2022-0778.  | https://github.com/BobTheShoplifter/CVE-2022-0778-POC | 0 | 0| 
 
 
 # backdoor on Github 推荐
