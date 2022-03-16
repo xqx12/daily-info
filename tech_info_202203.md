@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220316T12:18:27Z | Null | https://github.com/AYUSHIKOUL/fuzzy-train | 0 | 0| 
 | 20220316T12:10:29Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 386 | 29| 
 | 20220316T11:54:03Z | Null | https://github.com/xfuzzable/dde-fuzz | 0 | 0| 
 | 20220316T11:24:00Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1133 | 159| 
 | 20220316T11:06:44Z | There are some experiment data about glibFuzzer | https://github.com/double-blind-paper-data/glibFuzzer | 0 | 0| 
 | 20220316T10:38:44Z | This library provides an automated integration of (all) OSS-Fuzz experiments into fuzzbench | https://github.com/florian-university/format_fuzzer_experiments | 1 | 0| 
+| 20220316T08:51:22Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1904 | 474| 
 | 20220316T08:47:04Z | Null | https://github.com/takada-s/fuzzuf-ci | 0 | 0| 
 | 20220316T07:15:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7192 | 1529| 
 | 20220316T04:20:23Z | This service supports management and result report when user conduct software testing as AFL++.  | https://github.com/jiniljeil/FuzzingManagementService | 0 | 0| 
-| 20220316T03:21:28Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 797 | 84| 
-| 20220316T03:07:06Z | A simple fuzzer based on python. | https://github.com/picklover/PySimpleFuzzer | 0 | 0| 
 
 
 
