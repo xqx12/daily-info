@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220316T12:38:38Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220316T12:42:35Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220316T11:57:09Z | CVE-2021-21983 | [CVE-2021-21983] VMware vRealize Operations (vROps) Manager File Path Traversal Leads to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21983 | | 
 | 20220316T11:23:05Z | CVE-2021-0595 | Null | https://github.com/pazhanivel07/frameworks_base-CVE-2021-0595 | | 
 | 20220316T11:09:20Z | CVE-2021-43008 | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | | 
