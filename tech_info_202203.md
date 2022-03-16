@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220315T15:27:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5474 | 199| 
+| 20220316T00:19:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5476 | 199| 
 | 20220315T09:06:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1907 | 545| 
 | 20220314T19:54:02Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 27| 
 | 20220314T07:09:11Z | Null | https://github.com/fontworks-fonts/Klee | 667 | 22| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220316T00:19:03Z | Exploit para PS4 versión 9.0 de PixelCuba | https://github.com/PixelCuba/ps4v9 | 0 | 0| 
 | 20220315T23:40:13Z | A series of simple but powerful scripts based on automation of exploits. | https://github.com/0xcybrK3r0/SimplePwnSeries | 0 | 0| 
 | 20220315T22:53:46Z | Exploits for sites used for educational purposes, | https://github.com/unc0vrd/EducationExploits | 0 | 0| 
 | 20220315T22:49:10Z | Null | https://github.com/razordeveloper/XLL-Excel-Exploit | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220315T21:04:22Z | Null | https://github.com/Marklord96/solidity-exploits | 0 | 0| 
 | 20220315T20:36:47Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 27 | 4| 
 | 20220315T20:07:16Z | Null | https://github.com/nimelehin/exploits | 0 | 0| 
-| 20220315T19:13:56Z | Null | https://github.com/test1244bbbb/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
