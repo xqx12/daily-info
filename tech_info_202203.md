@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220316T12:42:35Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220316T12:57:14Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220316T11:57:09Z | CVE-2021-21983 | [CVE-2021-21983] VMware vRealize Operations (vROps) Manager File Path Traversal Leads to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21983 | | 
 | 20220316T11:23:05Z | CVE-2021-0595 | Null | https://github.com/pazhanivel07/frameworks_base-CVE-2021-0595 | | 
 | 20220316T11:09:20Z | CVE-2021-43008 | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | | 
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220316T12:57:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 340 | 101| 
+| 20220316T12:46:22Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4094 | 1437| 
 | 20220316T11:42:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10875 | 1896| 
 | 20220316T11:09:20Z | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | 19 | 4| 
 | 20220316T11:01:42Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1531 | 125| 
 | 20220316T10:10:41Z | Measuring the invisible: exploiting a two-substrate two-product equilibrium to determine the decomposition rate of one of the products | https://github.com/roberts-farm-of-ideas/7 | 0 | 0| 
 | 20220316T10:04:43Z | Phineas is a vulnerable box to learn some web exploitation | https://github.com/CalfCrusher/Phineas-Vulnerable-OS | 1 | 1| 
-| 20220316T09:37:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 339 | 101| 
 | 20220316T09:19:38Z | Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit  | https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112 | 1 | 1| 
 | 20220316T09:12:00Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 2107 | 347| 
 | 20220316T08:55:59Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 695 | 153| 
-| 20220316T06:37:43Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 552 | 40| 
 
 
 # backdoor on Github 推荐
@@ -142,9 +142,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220316T12:56:35Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 387 | 29| 
 | 20220316T12:34:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7193 | 1530| 
 | 20220316T12:18:27Z | Null | https://github.com/AYUSHIKOUL/fuzzy-train | 0 | 0| 
-| 20220316T12:10:29Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 386 | 29| 
 | 20220316T12:09:32Z | Null | https://github.com/hub-se/BeDivFuzz | 4 | 1| 
 | 20220316T11:54:03Z | Null | https://github.com/xfuzzable/dde-fuzz | 0 | 0| 
 | 20220316T11:24:00Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1133 | 159| 
