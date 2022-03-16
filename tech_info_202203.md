@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220316T01:44:29Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220316T01:33:16Z | CVE-2020-0443 | Proof of concept app for Android permanent denial-of-service vulnerability CVE-2020-0443 | https://github.com/Supersonic/CVE-2020-0443 | | 
 | 20220316T01:31:18Z | CVE-2022-24122 | CVE-2022-24122 Proof of Concept | https://github.com/meowmeowxw/CVE-2022-24122 | | 
 | 20220316T01:31:17Z | CVE-2022-0847 | Python script to check if your kernel is vulnerable to Dirty pipe CVE-2022-0847 | https://github.com/MrP1xel/CVE-2022-0847-dirty-pipe-kernel-checker | | 
-| 20220316T01:18:46Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220315T23:28:16Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220315T20:31:10Z | CVE-2021-39165 | Null | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220315T17:00:23Z | CVE-2022-0847 | Implementation of CVE-2022-0847 as a shellcode | https://github.com/Shotokhan/cve_2022_0847_shellcode | | 
