@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220316 | Group3r - AD 环境组策略配置探测工具 | https://github.com/Group3r/Group3r| 
+| 20220316 | 利用 Safari 处理 gzip 流程的缺陷绕过 GateKeeper | https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/| 
+| 20220316 | Nuclei - 基于YAML语法模板的定制化快速漏洞扫描器 | http://github.com/projectdiscovery/nuclei| 
+| 20220316 | SatanSword - 红队综合渗透框架 | https://github.com/Lucifer1993/SatanSword| 
+| 20220316 | Facebook 开发的一套 Rust 中间 IR 的 Interpreter | https://github.com/facebookexperimental/MIRAI| 
+| 20220316 | Apple macOS XAR 任意文件写漏洞分析(CVE-2022-22582) | http://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/| 
+| 20220316 | Overview of Microsoft Identity Security Monitoring | https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/IdentitySecurityMonitoring.md| 
+| 20220316 | 使用 DNS Tunnel 技术的 Linux 后门 B1txor20 正在通过 Log4j 漏洞传播 | https://blog.netlab.360.com/b1txor20-use-of-dns-tunneling_cn/| 
 | 20220315 | Apple 发布 iOS 15.4 版本，修复多个漏洞，其中包括玄武实验室报告的多个漏洞 | https://support.apple.com/zh-cn/HT213182| 
 | 20220315 | G.O.S.S.I.P 学术论文推荐 - 二进制分析工具 Arbiter | https://mp.weixin.qq.com/s/DZ2Nd5sIjWOuAGwLzBEQGQ| 
 | 20220315 | Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587 | https://github.com/antx-code/CVE-2021-35587| 
@@ -18,19 +26,14 @@
 | 20220315 | 内核模式威胁与实际防御演讲会议视频. | https://www.youtube.com/watch?v=BBJgKuXzfwc&feature=youtu.be| 
 | 20220315 | CVE-2022-0847 Linux内核漏洞简要分析. | https://tttang.com/archive/1480/| 
 | 20220314 | 不依赖 JavaScript 和 Cookie 构建用户指纹 | https://github.com/fingerprintjs/blog-nojs-fingerprint-demo| 
-| 20220314 | 滥用 Telegram 的 People Near Me 特性实现位置跟踪 | https://github.com/jkctech/Telegram-Trilateration| 
-| 20220314 | Ghidra analyzer for UEFI firmware | https://github.com/retrage/efiSeek/tree/efi-xplorer| 
-| 20220314 | Netgear 路由器 CVE-2021-34979 漏洞的分析 | https://nstarke.github.io/netgear/nday/2022/03/13/reverse-engineering-a-netgear-nday.html| 
-| 20220314 | Exploiting CSN.1 Bugs in MediaTek Basebands | https://labs.taszk.io/articles/post/mtk_baseband_csn1_exploitation/| 
-| 20220314 | 操作系统的启动过程 | https://de-engineer.github.io/Understanding-booting-process-and-writing-own-os/| 
-| 20220314 | FirmWire - 基带固件分析平台，支持 Samsung 和 MediaTek | https://github.com/FirmWire/FirmWire| 
-| 20220314 | Compilers: The Old New Security Frontier，来自 Bluehat 2022 会议的演讲 | https://grsecurity.net/Compilers_The_Old_New_Security_Frontier_BlueHat_IL_2022.pdf| 
-| 20220314 | Hayyim CTF 2022 比赛 ClamAV 漏洞 writeup | http://ptr-yudai.hatenablog.com/entry/2022/02/13/122744| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220316 | [HTB] TheNotebook Writeup | https://mp.weixin.qq.com/s/7wQFqoN8Gu4q7CIb3kLM9Q| 
+| 20220316 | ICD（集成网络防御）概念参考模型 | https://mp.weixin.qq.com/s/H0seZS8d1_PzWHYpB2CiKQ| 
+| 20220316 | 企业安全运营实践：四个阶段实现风险处置的快和准 | https://mp.weixin.qq.com/s/z-KDuUw9V5trLFZ849nswQ| 
 | 20220314 | Watchdog 还是 TeamTNT？一例攻击归因刍议 | https://mp.weixin.qq.com/s/RNMmyylEZDprf5XDsNDe4g| 
 | 20220314 | SecWiki周刊（第419期) | https://www.sec-wiki.com/weekly/419| 
 | 20220314 | [HTB] Ophiuchi Writeup | https://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652490020&idx=1&sn=0d67a7d5c6e51f1dc8fdea1b62b5dadf&chksm=8c945df3bbe3d4e5f63bf169516d6206705a19a7c9a74a7db6250d59edb193f7bb515161851b#rd| 
@@ -38,31 +41,28 @@
 | 20220312 | AKG：攻击者知识图谱 | https://mp.weixin.qq.com/s/tDJJOfwac5NAick15lS7-A| 
 | 20220312 | 开源组件治理的实践与思考 | https://mp.weixin.qq.com/s/o099UY2eQnBpsBGbf7NOTg| 
 | 20220312 | 安全和美-我对网络安全的观察和思考 | https://mp.weixin.qq.com/s/TA_KAZrEN_0I37zby1KIzQ| 
-| 20220312 | 威胁情报平台OpenCTI的搭建 | https://mp.weixin.qq.com/s/pLNJSnelQRF_YKttm0IsNw| 
-| 20220312 | 人工智能（AI）&网络安全 | https://mp.weixin.qq.com/s/8MpJQIgFayH_ZRCl55oBgA| 
-| 20220312 | 安全中间件的设计思路和简单实践 | https://my.oschina.net/9199771/blog/5417127| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220316T01:44:29Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
-| 20220316T01:33:16Z | CVE-2020-0443 | Proof of concept app for Android permanent denial-of-service vulnerability CVE-2020-0443 | https://github.com/Supersonic/CVE-2020-0443 | | 
-| 20220316T01:31:18Z | CVE-2022-24122 | CVE-2022-24122 Proof of Concept | https://github.com/meowmeowxw/CVE-2022-24122 | | 
-| 20220316T01:31:17Z | CVE-2022-0847 | Python script to check if your kernel is vulnerable to Dirty pipe CVE-2022-0847 | https://github.com/MrP1xel/CVE-2022-0847-dirty-pipe-kernel-checker | | 
-| 20220315T23:28:16Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits | | 
-| 20220315T20:31:10Z | CVE-2021-39165 | Null | https://github.com/W0rty/CVE-2021-39165 | | 
-| 20220315T17:00:23Z | CVE-2022-0847 | Implementation of CVE-2022-0847 as a shellcode | https://github.com/Shotokhan/cve_2022_0847_shellcode | | 
-| 20220315T12:58:11Z | CVE-2022-24990 | 仅仅是poc,并不是exp | https://github.com/VVeakee/CVE-2022-24990-POC | | 
-| 20220315T09:49:33Z | CVE-2022-24086 | Null | https://github.com/k0zulzr/CVE-2022-24086-RCE | | 
-| 20220315T09:02:02Z | CVE-2021-29441 | Null | https://github.com/bysinks/CVE-2021-29441 | | 
+| 20220316T11:57:09Z | CVE-2021-21983 | [CVE-2021-21983] VMware vRealize Operations (vROps) Manager File Path Traversal Leads to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21983 | | 
+| 20220316T11:23:05Z | CVE-2021-0595 | Null | https://github.com/pazhanivel07/frameworks_base-CVE-2021-0595 | | 
+| 20220316T11:09:20Z | CVE-2021-43008 | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | | 
+| 20220316T11:02:16Z | cve-2021-21300 | Null | https://github.com/Jiang59991/cve-2021-21300 | | 
+| 20220316T10:59:58Z | CVE-2021-0595 | Null | https://github.com/pazhanivel07/Settings-CVE-2021-0595 | | 
+| 20220316T10:44:13Z | CVE-2021-39165 | Null | https://github.com/W0rty/CVE-2021-39165 | | 
+| 20220316T09:54:17Z | CVE-2022-26503 | Null | https://github.com/sinsinology/CVE-2022-26503 | | 
+| 20220316T09:22:51Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220316T09:20:45Z | CVE-2022-0543 | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | https://github.com/aodsec/CVE-2022-0543 | | 
+| 20220316T09:19:38Z | CVE-2022-24112 | Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit  | https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220316T01:49:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5479 | 199| 
-| 20220315T09:06:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1907 | 545| 
+| 20220316T10:31:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5486 | 199| 
+| 20220315T09:06:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1907 | 546| 
 | 20220314T19:54:02Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 27| 
 | 20220314T07:09:11Z | Null | https://github.com/fontworks-fonts/Klee | 667 | 22| 
 | 20220312T08:27:21Z | Config files for my GitHub profile. | https://github.com/kleekle/kleekle | 0 | 0| 
@@ -104,16 +104,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220316T10:48:37Z | Source code implementation for paper: Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions | https://github.com/Cinofix/backdoor_learning_curves | 0 | 0| 
+| 20220316T10:25:47Z | [Virus] [Backdoor] Metamorphic self-replicating tagging virus with anti debugging features [WIP] | https://github.com/SaltyMilk/D34TH | 0 | 0| 
+| 20220316T09:54:58Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
+| 20220316T08:17:26Z | Backdoor for windows machines written on C | https://github.com/jsdeemon/win_backdoor | 0 | 0| 
 | 20220315T23:41:32Z | Null | https://github.com/STXBain/Php-backdoor | 0 | 0| 
 | 20220315T23:15:22Z | hi | https://github.com/CloovyYT/Backdoor.exe-roblox-no-logging | 0 | 0| 
 | 20220315T22:40:07Z | Null | https://github.com/razordeveloper/Venom-RAT-Source-Code | 0 | 0| 
 | 20220315T17:35:23Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 436 | 81| 
 | 20220315T16:26:54Z | An evil compiler that adds undetectable backdoors into programs it compiles | https://github.com/awelm/evil-compiler | 2 | 0| 
 | 20220315T14:35:53Z | This is a proof-of-concept of malicious software running inside of ModSecurity WAF. | https://github.com/azurit/modsecurity-backdoor | 0 | 0| 
-| 20220315T13:44:22Z | Simple python script to exploit Vsftpd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/PrestaDZ/vsftpd-2.3.4 | 0 | 0| 
-| 20220315T11:50:49Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 137 | 35| 
-| 20220314T22:45:22Z | [Virus] [Backdoor] Metamorphic self-replicating tagging virus with anti debugging features [WIP] | https://github.com/SaltyMilk/D34TH | 0 | 0| 
-| 20220314T22:22:35Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 12 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -121,7 +121,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220315T22:51:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2754 | 401| 
 | 20220315T14:33:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 229 | 15| 
-| 20220315T09:06:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1907 | 545| 
+| 20220315T09:06:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1907 | 546| 
 | 20220315T04:36:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 205 | 46| 
 | 20220314T23:50:32Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 174 | 36| 
 | 20220314T21:59:35Z | Proof of concept for generation of eBPF seccomp profiles through symbolic execution | https://github.com/shilch/seccomp | 0 | 0| 
