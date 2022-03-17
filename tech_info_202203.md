@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220317T01:03:33Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
 | 20220317T00:25:48Z | CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220317T00:16:24Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220316T23:35:28Z | CVE-2022-26503 | Null | https://github.com/sinsinology/CVE-2022-26503 | | 
 | 20220316T22:33:57Z | CVE-2021-43008 | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | | 
 | 20220316T21:21:17Z | CVE-2021-31166 | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
-| 20220316T19:49:38Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
 | 20220316T15:06:21Z | cve-2022-25640 | Exploitation of CVE-2020-256480 using scapy | https://github.com/dim0x69/cve-2022-25640-exploit | | 
 | 20220316T14:39:48Z | CVE-2021-45007 | Cross-Site Request Forgery | https://github.com/AS4mir/CVE-2021-45007 | | 
 | 20220316T14:01:37Z | CVE-2022-0543 | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | https://github.com/aodsec/CVE-2022-0543 | | 
@@ -89,13 +89,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T01:03:33Z | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | 6 | 3| 
 | 20220317T00:53:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 341 | 101| 
 | 20220316T23:40:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2498 | 294| 
 | 20220316T22:38:53Z | Find exploits about a target without ever touching the target | https://github.com/jas-/recon.sh | 0 | 0| 
 | 20220316T22:38:14Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 192 | 24| 
 | 20220316T22:09:29Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6876 | 1593| 
 | 20220316T21:21:17Z | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | 1 | 0| 
-| 20220316T19:49:38Z | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | 5 | 3| 
 | 20220316T19:37:26Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 1| 
 | 20220316T19:31:54Z | POCs of published exploits | https://github.com/venkyr/cve-pocs | 0 | 0| 
 | 20220316T15:25:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10878 | 1897| 
