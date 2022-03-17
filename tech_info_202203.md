@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T12:43:32Z | Null | https://github.com/weisje/usernameFuzzer | 0 | 0| 
 | 20220317T12:39:35Z | Fuzzing the COVESA/vsomeip library with AFL++ | https://github.com/cfanatic/vsomeip-fuzzing | 5 | 2| 
 | 20220317T11:48:45Z | The data, analysis, and outputs of the paper %False Peaks: On the Estimation of Fuzzing Effectiveness% submitted to ESEC/FSE 2022. | https://github.com/dliyanage/false_peaks_experiments | 0 | 0| 
 | 20220317T11:19:10Z | Thesis work on Fuzzy Fault Tree Analysis | https://github.com/AzureDVBB/fuzzyftapy | 0 | 1| 
@@ -152,7 +153,6 @@
 | 20220317T10:09:55Z | Network protocol fuzzer for SOME/IP | https://github.com/cfanatic/someip-protocol-fuzzer | 0 | 0| 
 | 20220317T08:58:16Z | Tool: showfuzz is report to stdout the functions that can be fuzzing test | https://github.com/kimuson13/showfuzz | 0 | 0| 
 | 20220317T08:35:03Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 13 | 0| 
-| 20220316T22:25:29Z | Null | https://github.com/OnurSelim/Infecting-the-Artificial-World-with-Fuzzy-Control | 0 | 0| 
 
 
 
