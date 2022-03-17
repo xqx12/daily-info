@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T01:10:34Z | Null | https://github.com/mtthwstffrd/mzet-linux-exploit-suggester | 0 | 0| 
 | 20220317T01:07:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6877 | 1593| 
 | 20220317T01:03:33Z | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | 6 | 3| 
 | 20220317T00:53:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 341 | 101| 
@@ -98,7 +99,6 @@
 | 20220316T21:21:17Z | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | 1 | 0| 
 | 20220316T19:37:26Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 1| 
 | 20220316T19:31:54Z | POCs of published exploits | https://github.com/venkyr/cve-pocs | 0 | 0| 
-| 20220316T15:25:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10878 | 1897| 
 
 
 # backdoor on Github 推荐
