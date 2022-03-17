@@ -58,13 +58,13 @@
 | 20220316T23:40:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2498 | 294| 
 | 20220316T22:38:53Z | Find exploits about a target without ever touching the target | https://github.com/jas-/recon.sh | 0 | 0| 
 | 20220316T22:38:14Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 192 | 24| 
-| 20220316T22:09:29Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6876 | 1593| 
 | 20220316T21:21:17Z | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | 1 | 0| 
 | 20220316T19:37:26Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 1| 
 | 20220316T19:31:54Z | POCs of published exploits | https://github.com/venkyr/cve-pocs | 0 | 0| 
 | 20220316T15:25:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10878 | 1897| 
 | 20220316T12:46:22Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4094 | 1437| 
 | 20220316T11:09:20Z | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | 19 | 4| 
+| 20220316T11:01:42Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1531 | 125| 
 
 
 # backdoor on Github 推荐
@@ -81,7 +81,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220316T22:40:54Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 236 | 16| 
 | 20220316T20:50:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1908 | 546| 
 | 20220316T19:28:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2756 | 401| 
 | 20220316T18:35:03Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 

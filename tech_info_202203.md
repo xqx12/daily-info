@@ -89,12 +89,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T01:07:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6877 | 1593| 
 | 20220317T01:03:33Z | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | 6 | 3| 
 | 20220317T00:53:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 341 | 101| 
 | 20220316T23:40:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2498 | 294| 
 | 20220316T22:38:53Z | Find exploits about a target without ever touching the target | https://github.com/jas-/recon.sh | 0 | 0| 
 | 20220316T22:38:14Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 192 | 24| 
-| 20220316T22:09:29Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6876 | 1593| 
 | 20220316T21:21:17Z | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | 1 | 0| 
 | 20220316T19:37:26Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 1| 
 | 20220316T19:31:54Z | POCs of published exploits | https://github.com/venkyr/cve-pocs | 0 | 0| 
@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220316T22:40:54Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 236 | 16| 
+| 20220317T01:02:00Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 237 | 16| 
 | 20220316T20:50:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1908 | 546| 
 | 20220316T19:28:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2756 | 401| 
 | 20220316T18:35:03Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
