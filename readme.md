@@ -31,12 +31,12 @@
 | 20220316T22:33:57Z | CVE-2021-43008 | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | | 
 | 20220316T21:21:17Z | CVE-2021-31166 | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
 | 20220316T19:49:38Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
-| 20220316T18:02:37Z | CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220316T15:06:21Z | cve-2022-25640 | Exploitation of CVE-2020-256480 using scapy | https://github.com/dim0x69/cve-2022-25640-exploit | | 
 | 20220316T14:39:48Z | CVE-2021-45007 | Cross-Site Request Forgery | https://github.com/AS4mir/CVE-2021-45007 | | 
 | 20220316T14:01:37Z | CVE-2022-0543 | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | https://github.com/aodsec/CVE-2022-0543 | | 
 | 20220316T13:53:28Z | CVE-2021-21983 | [CVE-2021-21983] VMware vRealize Operations (vROps) Manager API Arbitrary File Write Leads to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21983 | | 
 | 20220316T13:36:02Z | cve-2021-21300 | Null | https://github.com/Jiang59991/cve-2021-21300 | | 
+| 20220316T11:23:05Z | CVE-2021-0595 | Null | https://github.com/pazhanivel07/frameworks_base-CVE-2021-0595 | | 
 
 
 # klee on Github 推荐
