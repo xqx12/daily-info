@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220317T00:16:24Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220316T23:35:28Z | CVE-2022-26503 | Null | https://github.com/sinsinology/CVE-2022-26503 | | 
 | 20220316T22:33:57Z | CVE-2021-43008 | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability  | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | | 
-| 20220316T21:49:14Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220316T21:21:17Z | CVE-2021-31166 | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
 | 20220316T19:49:38Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
 | 20220316T18:02:37Z | CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | | 
@@ -94,7 +94,7 @@
 | 20220316T22:38:14Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 192 | 24| 
 | 20220316T22:09:29Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6876 | 1593| 
 | 20220316T21:21:17Z | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | 1 | 0| 
-| 20220316T19:49:38Z | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | 5 | 2| 
+| 20220316T19:49:38Z | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | 5 | 3| 
 | 20220316T19:37:26Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 1| 
 | 20220316T19:31:54Z | POCs of published exploits | https://github.com/venkyr/cve-pocs | 0 | 0| 
 | 20220316T15:25:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10878 | 1897| 
@@ -147,11 +147,11 @@
 | 20220316T21:04:31Z | Null | https://github.com/yrahul3910/why-fuzzy-sampling-works | 0 | 0| 
 | 20220316T20:48:45Z | Config files for my GitHub profile. | https://github.com/fuzzzzyyyyyy/fuzzzzyyyyyy | 0 | 0| 
 | 20220316T20:48:02Z | Лабораторные работы по предмету %Нечёткая логика% | https://github.com/Alexander-Goryaynov/fuzzy-labs | 0 | 0| 
+| 20220316T20:28:18Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1524 | 168| 
 | 20220316T16:29:35Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 62 | 0| 
 | 20220316T15:50:09Z | A script that finds resources on a remote host based on a word list provided as input | https://github.com/maxschmittlaurin/directory-fuzzer | 0 | 0| 
 | 20220316T15:49:13Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2497 | 156| 
 | 20220316T12:56:35Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 387 | 29| 
-| 20220316T12:18:27Z | Null | https://github.com/AYUSHIKOUL/fuzzy-train | 0 | 0| 
 
 
 
