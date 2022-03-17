@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T12:28:57Z | MediaTek bootrom exploit | https://github.com/R0rt1z2/kamakiri | 0 | 0| 
 | 20220317T11:47:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10880 | 1897| 
 | 20220317T11:07:08Z | Excessive Working Hours of Child Labourers Using Indian Time-Use Data of 2019, by Jihye Kim (University of Manchester) and Wendy Olsen, keywords Time-use, India, employment, gender, child labour, harmful forms of work, extreme exploitation, working hours, ILO, exploitation  | https://github.com/WendyOlsen/excessworkhoursindia | 0 | 0| 
 | 20220317T11:02:49Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/LP-H4cmilo/CVE-2022-0847_DirtyPipe_Exploits | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20220317T10:05:52Z | Null | https://github.com/tuannm-1876/exploit-server-simulator | 0 | 0| 
 | 20220317T10:01:04Z | Null | https://github.com/ocman-nazir-briet/b-exploit | 0 | 0| 
 | 20220317T02:15:01Z | Null | https://github.com/renox31/silent-exploit-jpg | 0 | 0| 
-| 20220317T01:55:17Z | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | 9 | 4| 
 
 
 # backdoor on Github 推荐
