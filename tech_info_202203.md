@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T00:53:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 341 | 101| 
 | 20220316T23:40:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2498 | 294| 
 | 20220316T22:38:53Z | Find exploits about a target without ever touching the target | https://github.com/jas-/recon.sh | 0 | 0| 
 | 20220316T22:38:14Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 192 | 24| 
@@ -98,7 +99,6 @@
 | 20220316T19:37:26Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 1| 
 | 20220316T19:31:54Z | POCs of published exploits | https://github.com/venkyr/cve-pocs | 0 | 0| 
 | 20220316T15:25:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10878 | 1897| 
-| 20220316T12:57:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 340 | 101| 
 
 
 # backdoor on Github 推荐
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T00:52:00Z | The data, analysis, and outputs of the paper %False Peaks: On the Estimation of Fuzzing Effectiveness% submitted to ESEC/FSE 2022. | https://github.com/dliyanage/false_peaks_experiments | 0 | 0| 
 | 20220316T22:25:29Z | Null | https://github.com/OnurSelim/Infecting-the-Artificial-World-with-Fuzzy-Control | 0 | 0| 
 | 20220316T21:09:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7194 | 1530| 
 | 20220316T21:04:31Z | Null | https://github.com/yrahul3910/why-fuzzy-sampling-works | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20220316T16:29:35Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 62 | 0| 
 | 20220316T15:50:09Z | A script that finds resources on a remote host based on a word list provided as input | https://github.com/maxschmittlaurin/directory-fuzzer | 0 | 0| 
 | 20220316T15:49:13Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2497 | 156| 
-| 20220316T12:56:35Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 387 | 29| 
 
 
 
