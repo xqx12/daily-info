@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T12:55:46Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 695 | 153| 
 | 20220317T12:28:57Z | MediaTek bootrom exploit | https://github.com/R0rt1z2/kamakiri | 0 | 0| 
 | 20220317T11:47:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10880 | 1897| 
 | 20220317T11:07:08Z | Excessive Working Hours of Child Labourers Using Indian Time-Use Data of 2019, by Jihye Kim (University of Manchester) and Wendy Olsen, keywords Time-use, India, employment, gender, child labour, harmful forms of work, extreme exploitation, working hours, ILO, exploitation  | https://github.com/WendyOlsen/excessworkhoursindia | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220317T10:17:09Z | exploits XAR – Arbitrary File Write | https://github.com/poizon-box/CVE-2022-22582 | 0 | 0| 
 | 20220317T10:05:52Z | Null | https://github.com/tuannm-1876/exploit-server-simulator | 0 | 0| 
 | 20220317T10:01:04Z | Null | https://github.com/ocman-nazir-briet/b-exploit | 0 | 0| 
-| 20220317T08:21:00Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 215 | 42| 
 
 
 # backdoor on Github 推荐
