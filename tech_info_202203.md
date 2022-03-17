@@ -98,7 +98,7 @@
 | 20220317T10:17:09Z | exploits XAR – Arbitrary File Write | https://github.com/poizon-box/CVE-2022-22582 | 0 | 0| 
 | 20220317T10:05:52Z | Null | https://github.com/tuannm-1876/exploit-server-simulator | 0 | 0| 
 | 20220317T10:01:04Z | Null | https://github.com/ocman-nazir-briet/b-exploit | 0 | 0| 
-| 20220317T02:15:01Z | Null | https://github.com/renox31/silent-exploit-jpg | 0 | 0| 
+| 20220317T08:21:00Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 215 | 42| 
 
 
 # backdoor on Github 推荐
@@ -143,12 +143,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T12:39:35Z | Fuzzing the COVESA/vsomeip library with AFL++ | https://github.com/cfanatic/vsomeip-fuzzing | 5 | 2| 
 | 20220317T11:48:45Z | The data, analysis, and outputs of the paper %False Peaks: On the Estimation of Fuzzing Effectiveness% submitted to ESEC/FSE 2022. | https://github.com/dliyanage/false_peaks_experiments | 0 | 0| 
 | 20220317T11:19:10Z | Thesis work on Fuzzy Fault Tree Analysis | https://github.com/AzureDVBB/fuzzyftapy | 0 | 1| 
 | 20220317T11:07:43Z | Null | https://github.com/gizemeker/fuzzy-sim-pcm | 0 | 0| 
 | 20220317T11:03:58Z | We use Arduino MCU to design a device that can accurately monitor the occurrence of fire and feed back information to users in real time. When the temperature of carbon monoxide and carbon dioxide in the site exceeds the threshold value, we will immediately monitor the temperature of carbon monoxide and carbon dioxide in combination with the temperature of the site, the infrared sensor, and the corresponding data of the smoke sensor, After signal preprocessing, the information is transmitted to Arduino processor for intelligent comprehensive analysis, and then send data to users through hc-06 Bluetooth module and store historical data, so that users can monitor the state of forest at any time to monitor and prevent forest fire. The forest alarm is more intelligent and convenient to use, reducing the waste of material and human resources. Due to the high accuracy of the sensor and wide application scenarios, the accuracy of judging whether a fire occurs is more strengthened, and it can be monitored 24 hours in a variety of environments. | https://github.com/jcllong/Forest-fire-detection-system-based-on-fuzzy-inference-algorithm | 0 | 0| 
 | 20220317T10:25:35Z | Air Conditioning system using Fuzzy Logic. | https://github.com/LukeTormey/FuzzyLogicAC | 0 | 0| 
-| 20220317T10:22:58Z | Fuzzing the COVESA/vsomeip library with AFL++ | https://github.com/cfanatic/vsomeip-fuzzing | 5 | 2| 
 | 20220317T10:09:55Z | Network protocol fuzzer for SOME/IP | https://github.com/cfanatic/someip-protocol-fuzzer | 0 | 0| 
 | 20220317T08:58:16Z | Tool: showfuzz is report to stdout the functions that can be fuzzing test | https://github.com/kimuson13/showfuzz | 0 | 0| 
 | 20220317T08:35:03Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 13 | 0| 
