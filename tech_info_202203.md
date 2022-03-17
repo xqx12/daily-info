@@ -90,7 +90,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220317T01:28:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 30 | 19| 
-| 20220317T01:25:44Z | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | 8 | 3| 
+| 20220317T01:25:44Z | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | 8 | 4| 
 | 20220317T01:10:34Z | Null | https://github.com/mtthwstffrd/mzet-linux-exploit-suggester | 0 | 0| 
 | 20220317T01:07:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6877 | 1593| 
 | 20220317T00:53:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 341 | 101| 
