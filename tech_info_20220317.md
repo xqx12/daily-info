@@ -100,11 +100,11 @@
 | 20220317T19:47:45Z | Null | https://github.com/NightmareXDev/Fuzzy | 0 | 0| 
 | 20220317T19:29:48Z | Null | https://github.com/VCFNFT/fuzzy-happiness | 0 | 0| 
 | 20220317T16:01:11Z | In this project, we compared a symbolic executor, KLEE, and a black box fuzzing tool, radamsa, on their ability to find memory errors. | https://github.com/jacktrig/csce548Project1 | 0 | 0| 
+| 20220317T13:24:03Z | Tool: gofuzzgen is generate template of fuzzing test code | https://github.com/kimuson13/gofuzzgen | 1 | 0| 
 | 20220317T13:20:11Z | Automatic fuzz targets generation for Golang packages | https://github.com/catenacyber/ngolo-fuzzing | 3 | 0| 
 | 20220317T12:43:32Z | Null | https://github.com/weisje/usernameFuzzer | 0 | 0| 
 | 20220317T12:39:35Z | Fuzzing the COVESA/vsomeip library with AFL++ | https://github.com/cfanatic/vsomeip-fuzzing | 5 | 2| 
 | 20220317T11:48:45Z | The data, analysis, and outputs of the paper %False Peaks: On the Estimation of Fuzzing Effectiveness% submitted to ESEC/FSE 2022. | https://github.com/dliyanage/false_peaks_experiments | 0 | 0| 
-| 20220317T11:19:10Z | Thesis work on Fuzzy Fault Tree Analysis | https://github.com/AzureDVBB/fuzzyftapy | 0 | 1| 
 
 
 
