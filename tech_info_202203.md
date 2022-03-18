@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220318T12:27:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5506 | 199| 
 | 20220318T12:14:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1911 | 546| 
-| 20220318T09:09:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5505 | 199| 
 | 20220317T20:17:36Z | IKPMD project made with Jetpack Compose. | https://github.com/Romano999/kleeren-jetpack-compose | 0 | 0| 
 | 20220317T16:01:11Z | In this project, we compared a symbolic executor, KLEE, and a black box fuzzing tool, radamsa, on their ability to find memory errors. | https://github.com/jacktrig/csce548Project1 | 0 | 0| 
 | 20220317T14:56:09Z | Null | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220318T12:35:31Z | A test app to check if your device is vulnerable to CVE-2021-30955 | https://github.com/GeoSn0w/Pentagram-exploit-tester | 0 | 0| 
 | 20220318T11:48:15Z | An advanced computer vision module exploiting some of the sophisticated algorithms inspired from IEEE papers. | https://github.com/ivehement/naina | 0 | 1| 
 | 20220318T11:35:20Z | Null | https://github.com/nipunsomani/Adobe-ColdFusion-8-File-Upload-Exploit | 0 | 0| 
 | 20220318T11:35:09Z | Individual scripts and exploits. | https://github.com/medpaf/netsec-scripts | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220318T09:29:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1308 | 214| 
 | 20220318T05:18:40Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4104 | 1437| 
 | 20220318T01:41:36Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 89 | 15| 
-| 20220318T01:18:06Z | Null | https://github.com/lu1sjddk/apache2.4.49-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,9 +119,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220318T12:14:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1911 | 546| 
 | 20220318T11:59:14Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 50 | 4| 
 | 20220318T02:46:00Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 206 | 47| 
-| 20220318T01:40:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1910 | 546| 
 | 20220318T01:17:47Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 244 | 17| 
 | 20220317T20:32:36Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 174 | 36| 
 | 20220317T09:34:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2757 | 402| 
@@ -143,7 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220318T12:18:27Z | Tool for post processing the results of ParamSpider and fuzz parameters | https://github.com/haicenhacks/PostParamSpider | 0 | 0| 
+| 20220318T12:45:38Z | Null | https://github.com/conorreid97/cmp304_FuzzyLogic_Project_conorreid | 0 | 0| 
+| 20220318T12:21:27Z | Tool for post processing the results of ParamSpider and fuzz parameters | https://github.com/haicenhacks/PostParamSpider | 0 | 0| 
 | 20220318T11:54:24Z | Null | https://github.com/Alvov1/Fuzzer | 0 | 0| 
 | 20220318T11:14:57Z | Null | https://github.com/waddewaa/FennecFuzz | 0 | 0| 
 | 20220318T11:10:23Z | fuzzy-graph-coloring is a Python package for calculating the fuzzy chromatic number and coloring of a graph with fuzzy edges. | https://github.com/ferdinand-dhbw/fuzzy-graph-coloring | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220318T01:06:07Z | Tool: gofuzzgen is generate template of fuzzing test code | https://github.com/kimuson13/gofuzzgen | 1 | 0| 
 | 20220318T00:21:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7199 | 1532| 
 | 20220317T21:35:22Z | stackable case-insensitive FUSE file system | https://github.com/XXLuigiMario/fuzzyfs | 0 | 1| 
-| 20220317T20:50:41Z | Null | https://github.com/shahyyehia/Fuzzy-Logic | 0 | 0| 
 
 
 
