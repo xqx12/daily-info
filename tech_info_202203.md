@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220318T01:17:47Z | Null | https://github.com/lu1sjddk/apache2.4.49-exploit | 1 | 0| 
 | 20220318T00:48:26Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7262 | 1783| 
 | 20220318T00:34:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10882 | 1897| 
 | 20220317T23:57:27Z | This is an old Reposiory of mine that ive made back in 2020-21 to automate the creation proccess of Crashin Discord clients with gifs due to overloaded buffers with lvhd. | https://github.com/Kerago/discord_exploit_2021 | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220317T19:56:52Z | Firmware exploit written in C/C++ and Assembly language. | https://github.com/babatunde-ayoade/exploit | 0 | 0| 
 | 20220317T19:22:59Z | Null | https://github.com/ddnnife/exploiting-ddnnfs-eval | 0 | 0| 
 | 20220317T17:28:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 31 | 19| 
-| 20220317T13:00:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2499 | 296| 
 
 
 # backdoor on Github 推荐
@@ -119,8 +119,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220318T01:17:47Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 244 | 17| 
 | 20220317T20:32:36Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 174 | 36| 
-| 20220317T20:12:56Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 243 | 17| 
 | 20220317T09:34:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2757 | 402| 
 | 20220317T02:47:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1909 | 546| 
 | 20220316T18:35:03Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
