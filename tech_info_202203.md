@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220318T00:26:59Z | CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220318T00:19:02Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/RodricBr/CVE-2021-3156 | | 
 | 20220317T20:21:45Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
 | 20220317T18:45:43Z | CVE-2022-24112 | Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit  | https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112 | | 
@@ -55,7 +56,6 @@
 | 20220317T11:41:19Z | CVE-2022-0543 | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | https://github.com/aodsec/CVE-2022-0543 | | 
 | 20220317T11:02:49Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/LP-H4cmilo/CVE-2022-0847_DirtyPipe_Exploits | | 
 | 20220317T10:17:09Z | CVE-2022-22582 | exploits XAR – Arbitrary File Write | https://github.com/poizon-box/CVE-2022-22582 | | 
-| 20220317T08:24:56Z | CVE-2022-24112 | Apache APISIX 2.12.1 Remote Code Execution by IP restriction bypass and using default admin AIP token | https://github.com/kavishkagihan/CVE-2022-24112-POC | | 
 
 
 # klee on Github 推荐
