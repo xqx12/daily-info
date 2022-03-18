@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220318T01:17:47Z | Null | https://github.com/lu1sjddk/apache2.4.49-exploit | 1 | 0| 
+| 20220318T01:18:06Z | Null | https://github.com/lu1sjddk/apache2.4.49-exploit | 1 | 0| 
 | 20220318T00:48:26Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7262 | 1783| 
 | 20220318T00:34:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10882 | 1897| 
 | 20220317T23:57:27Z | This is an old Reposiory of mine that ive made back in 2020-21 to automate the creation proccess of Crashin Discord clients with gifs due to overloaded buffers with lvhd. | https://github.com/Kerago/discord_exploit_2021 | 0 | 0| 
