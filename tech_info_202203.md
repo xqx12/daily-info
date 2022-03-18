@@ -61,11 +61,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220318T01:40:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1910 | 546| 
 | 20220318T01:39:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5502 | 199| 
 | 20220317T20:17:36Z | IKPMD project made with Jetpack Compose. | https://github.com/Romano999/kleeren-jetpack-compose | 0 | 0| 
 | 20220317T16:01:11Z | In this project, we compared a symbolic executor, KLEE, and a black box fuzzing tool, radamsa, on their ability to find memory errors. | https://github.com/jacktrig/csce548Project1 | 0 | 0| 
 | 20220317T14:56:09Z | Null | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
-| 20220317T02:47:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1909 | 546| 
 | 20220316T18:35:03Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 | 20220314T19:54:02Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 27| 
 | 20220314T07:09:11Z | Null | https://github.com/fontworks-fonts/Klee | 667 | 22| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220318T01:41:36Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 89 | 15| 
 | 20220318T01:18:06Z | Null | https://github.com/lu1sjddk/apache2.4.49-exploit | 1 | 0| 
 | 20220318T00:48:26Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7262 | 1783| 
 | 20220318T00:34:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10882 | 1897| 
@@ -98,7 +99,6 @@
 | 20220317T20:15:36Z | Windows exploitation tool  | https://github.com/snifuh/Snatch-NG | 0 | 0| 
 | 20220317T19:56:52Z | Firmware exploit written in C/C++ and Assembly language. | https://github.com/babatunde-ayoade/exploit | 0 | 0| 
 | 20220317T19:22:59Z | Null | https://github.com/ddnnife/exploiting-ddnnfs-eval | 0 | 0| 
-| 20220317T17:28:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 31 | 19| 
 
 
 # backdoor on Github 推荐
