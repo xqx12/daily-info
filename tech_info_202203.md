@@ -89,9 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220318T00:34:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10882 | 1897| 
 | 20220318T00:31:54Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7261 | 1783| 
 | 20220317T23:57:27Z | This is an old Reposiory of mine that ive made back in 2020-21 to automate the creation proccess of Crashin Discord clients with gifs due to overloaded buffers with lvhd. | https://github.com/Kerago/discord_exploit_2021 | 0 | 0| 
-| 20220317T21:52:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10881 | 1897| 
 | 20220317T21:09:09Z | Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs but to cause real-world physical effects. Specifically, it targets centrifuges used to produce the enriched uranium that powers nuclear weapons and reactors. | https://github.com/uraninite/win32-stuxnet | 10 | 6| 
 | 20220317T20:56:10Z | Null | https://github.com/0mgRod/rbx-exploits | 0 | 0| 
 | 20220317T20:15:36Z | Windows exploitation tool  | https://github.com/snifuh/Snatch-NG | 0 | 0| 

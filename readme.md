@@ -59,7 +59,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220317T23:57:27Z | This is an old Reposiory of mine that ive made back in 2020-21 to automate the creation proccess of Crashin Discord clients with gifs due to overloaded buffers with lvhd. | https://github.com/Kerago/discord_exploit_2021 | 0 | 0| 
-| 20220317T21:52:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10881 | 1897| 
 | 20220317T21:09:09Z | Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs but to cause real-world physical effects. Specifically, it targets centrifuges used to produce the enriched uranium that powers nuclear weapons and reactors. | https://github.com/uraninite/win32-stuxnet | 10 | 6| 
 | 20220317T20:56:10Z | Null | https://github.com/0mgRod/rbx-exploits | 0 | 0| 
 | 20220317T20:15:36Z | Windows exploitation tool  | https://github.com/snifuh/Snatch-NG | 0 | 0| 
@@ -68,6 +67,7 @@
 | 20220317T17:28:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 31 | 19| 
 | 20220317T13:00:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2499 | 296| 
 | 20220317T12:55:46Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 695 | 153| 
+| 20220317T12:28:57Z | MediaTek bootrom exploit | https://github.com/R0rt1z2/kamakiri | 0 | 0| 
 
 
 # backdoor on Github 推荐
