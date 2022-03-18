@@ -95,7 +95,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220317T23:06:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7198 | 1532| 
 | 20220317T21:35:22Z | stackable case-insensitive FUSE file system | https://github.com/XXLuigiMario/fuzzyfs | 0 | 1| 
 | 20220317T20:50:41Z | Null | https://github.com/shahyyehia/Fuzzy-Logic | 0 | 0| 
 | 20220317T19:47:45Z | Null | https://github.com/NightmareXDev/Fuzzy | 0 | 0| 
@@ -105,6 +104,7 @@
 | 20220317T12:43:32Z | Null | https://github.com/weisje/usernameFuzzer | 0 | 0| 
 | 20220317T12:39:35Z | Fuzzing the COVESA/vsomeip library with AFL++ | https://github.com/cfanatic/vsomeip-fuzzing | 5 | 2| 
 | 20220317T11:48:45Z | The data, analysis, and outputs of the paper %False Peaks: On the Estimation of Fuzzing Effectiveness% submitted to ESEC/FSE 2022. | https://github.com/dliyanage/false_peaks_experiments | 0 | 0| 
+| 20220317T11:19:10Z | Thesis work on Fuzzy Fault Tree Analysis | https://github.com/AzureDVBB/fuzzyftapy | 0 | 1| 
 
 
 
