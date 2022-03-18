@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220318T01:15:05Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 93 | 11| 
 | 20220318T01:06:07Z | Tool: gofuzzgen is generate template of fuzzing test code | https://github.com/kimuson13/gofuzzgen | 1 | 0| 
 | 20220318T00:21:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7199 | 1532| 
 | 20220317T21:35:22Z | stackable case-insensitive FUSE file system | https://github.com/XXLuigiMario/fuzzyfs | 0 | 1| 
@@ -152,7 +153,6 @@
 | 20220317T16:01:11Z | In this project, we compared a symbolic executor, KLEE, and a black box fuzzing tool, radamsa, on their ability to find memory errors. | https://github.com/jacktrig/csce548Project1 | 0 | 0| 
 | 20220317T13:20:11Z | Automatic fuzz targets generation for Golang packages | https://github.com/catenacyber/ngolo-fuzzing | 3 | 0| 
 | 20220317T12:43:32Z | Null | https://github.com/weisje/usernameFuzzer | 0 | 0| 
-| 20220317T12:39:35Z | Fuzzing the COVESA/vsomeip library with AFL++ | https://github.com/cfanatic/vsomeip-fuzzing | 5 | 2| 
 
 
 
