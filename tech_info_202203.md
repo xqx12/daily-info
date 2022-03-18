@@ -14,6 +14,9 @@
 | 20220317 | cr8escape - Kubernetes 容器引擎 CRI-O 被发现容器逃逸漏洞（CVE-2022-0811） | https://www.crowdstrike.com/blog/cr8escape-new-vulnerability-discovered-in-cri-o-container-engine-cve-2022-0811/| 
 | 20220317 | Arya - 基于 Yara 规则生成恶意样本的工具 | http://claroty.com/2022/03/16/blog-research-arya-the-new-tailor-made-eicar-using-yara/| 
 | 20220317 | Azure Active Directory 方向的攻防对抗 | https://github.com/Cloud-Architekt/AzureAD-Attack-Defense| 
+| 20220317 | Windows 漏洞利用学习系列教程. | https://web.archive.org/web/20200510110201/https://fullpwnops.com/windows-exploitation-pathway.html| 
+| 20220317 | Docker又爆出高危逃逸漏洞了？仔细研究下事情没那么简单. | https://tttang.com/archive/1484/| 
+| 20220317 | 冰蝎Java WebShell免杀生成工具. | https://github.com/Tas9er/ByPassBehinder4J| 
 | 20220316 | Group3r - AD 环境组策略配置探测工具 | https://github.com/Group3r/Group3r| 
 | 20220316 | 利用 Safari 处理 gzip 流程的缺陷绕过 GateKeeper | https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/| 
 | 20220316 | Nuclei - 基于YAML语法模板的定制化快速漏洞扫描器 | http://github.com/projectdiscovery/nuclei| 
@@ -23,9 +26,6 @@
 | 20220316 | Overview of Microsoft Identity Security Monitoring | https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/IdentitySecurityMonitoring.md| 
 | 20220316 | 使用 DNS Tunnel 技术的 Linux 后门 B1txor20 正在通过 Log4j 漏洞传播 | https://blog.netlab.360.com/b1txor20-use-of-dns-tunneling_cn/| 
 | 20220315 | Apple 发布 iOS 15.4 版本，修复多个漏洞，其中包括玄武实验室报告的多个漏洞 | https://support.apple.com/zh-cn/HT213182| 
-| 20220315 | G.O.S.S.I.P 学术论文推荐 - 二进制分析工具 Arbiter | https://mp.weixin.qq.com/s/DZ2Nd5sIjWOuAGwLzBEQGQ| 
-| 20220315 | Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587 | https://github.com/antx-code/CVE-2021-35587| 
-| 20220315 | Linux kernel netfilter 越界写漏洞（CVE-2022-25636）的分析和利用 | http://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220317T20:21:45Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
+| 20220317T18:45:43Z | CVE-2022-24112 | Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit  | https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112 | | 
+| 20220317T16:50:14Z | CVE-2022-23812 | node-ipc is malware / protestware! | https://github.com/scriptzteam/node-ipc-malware-protestware-CVE-2022-23812 | | 
+| 20220317T16:38:21Z | CVE-2022-22947 | CVE-2022-22947_POC_EXP | https://github.com/Wrin9/CVE-2022-22947 | | 
 | 20220317T11:44:36Z | CVE-2022-0778 | Exploring and exploiting CVE-2022-0778.  | https://github.com/BobTheShoplifter/CVE-2022-0778-POC | | 
-| 20220317T11:43:44Z | CVE-2022-24112 | Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit  | https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112 | | 
-| 20220317T11:42:23Z | CVE-2022-22947 | CVE-2022-22947_POC_EXP | https://github.com/Wrin9/CVE-2022-22947 | | 
 | 20220317T11:41:19Z | CVE-2022-0543 | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | https://github.com/aodsec/CVE-2022-0543 | | 
 | 20220317T11:02:49Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/LP-H4cmilo/CVE-2022-0847_DirtyPipe_Exploits | | 
 | 20220317T10:17:09Z | CVE-2022-22582 | exploits XAR – Arbitrary File Write | https://github.com/poizon-box/CVE-2022-22582 | | 
 | 20220317T08:24:56Z | CVE-2022-24112 | Apache APISIX 2.12.1 Remote Code Execution by IP restriction bypass and using default admin AIP token | https://github.com/kavishkagihan/CVE-2022-24112-POC | | 
-| 20220317T08:04:43Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
 | 20220317T08:03:00Z | CVE-2021-31166 | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
-| 20220317T02:37:58Z | cve-2021-21300 | Null | https://github.com/Jiang59991/cve-2021-21300 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220317T12:44:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5500 | 199| 
+| 20220317T20:17:36Z | IKPMD project made with Jetpack Compose. | https://github.com/Romano999/kleeren-jetpack-compose | 0 | 0| 
+| 20220317T16:01:11Z | In this project, we compared a symbolic executor, KLEE, and a black box fuzzing tool, radamsa, on their ability to find memory errors. | https://github.com/jacktrig/csce548Project1 | 0 | 0| 
+| 20220317T14:56:09Z | Null | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
+| 20220317T14:44:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5501 | 199| 
 | 20220317T02:47:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1909 | 546| 
 | 20220316T18:35:03Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 | 20220314T19:54:02Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 27| 
 | 20220314T07:09:11Z | Null | https://github.com/fontworks-fonts/Klee | 667 | 22| 
 | 20220312T08:27:21Z | Config files for my GitHub profile. | https://github.com/kleekle/kleekle | 0 | 0| 
 | 20220309T17:00:17Z | Null | https://github.com/0xjeremdev/Kleep | 0 | 0| 
-| 20220309T16:52:17Z | Config files for my GitHub profile. | https://github.com/kleelynn/kleelynn | 0 | 0| 
-| 20220309T15:02:06Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 17 | 1| 
-| 20220309T01:28:22Z | Config files for my GitHub profile. | https://github.com/Klee103/Klee103 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -89,22 +89,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220317T12:55:46Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 695 | 153| 
-| 20220317T12:28:57Z | MediaTek bootrom exploit | https://github.com/R0rt1z2/kamakiri | 0 | 0| 
-| 20220317T11:47:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10880 | 1897| 
-| 20220317T11:07:08Z | Excessive Working Hours of Child Labourers Using Indian Time-Use Data of 2019, by Jihye Kim (University of Manchester) and Wendy Olsen, keywords Time-use, India, employment, gender, child labour, harmful forms of work, extreme exploitation, working hours, ILO, exploitation  | https://github.com/WendyOlsen/excessworkhoursindia | 0 | 0| 
-| 20220317T11:02:49Z | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/LP-H4cmilo/CVE-2022-0847_DirtyPipe_Exploits | 0 | 0| 
-| 20220317T10:59:01Z | An interpretable machine learning approach for cerebrovascular event prediction exploiting carotid plaque’s calcification | https://github.com/francescopisu/CEVEP | 0 | 0| 
-| 20220317T10:28:05Z | My solutions to exploit.education | https://github.com/Romansko/protostar | 0 | 0| 
-| 20220317T10:17:09Z | exploits XAR – Arbitrary File Write | https://github.com/poizon-box/CVE-2022-22582 | 0 | 0| 
-| 20220317T10:05:52Z | Null | https://github.com/tuannm-1876/exploit-server-simulator | 0 | 0| 
-| 20220317T10:01:04Z | Null | https://github.com/ocman-nazir-briet/b-exploit | 0 | 0| 
+| 20220317T23:57:27Z | This is an old Reposiory of mine that ive made back in 2020-21 to automate the creation proccess of Crashin Discord clients with gifs due to overloaded buffers with lvhd. | https://github.com/Kerago/discord_exploit_2021 | 0 | 0| 
+| 20220317T21:52:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10881 | 1897| 
+| 20220317T21:35:32Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7260 | 1783| 
+| 20220317T21:09:09Z | Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs but to cause real-world physical effects. Specifically, it targets centrifuges used to produce the enriched uranium that powers nuclear weapons and reactors. | https://github.com/uraninite/win32-stuxnet | 10 | 6| 
+| 20220317T20:56:10Z | Null | https://github.com/0mgRod/rbx-exploits | 0 | 0| 
+| 20220317T20:15:36Z | Windows exploitation tool  | https://github.com/snifuh/Snatch-NG | 0 | 0| 
+| 20220317T19:56:52Z | Firmware exploit written in C/C++ and Assembly language. | https://github.com/babatunde-ayoade/exploit | 0 | 0| 
+| 20220317T19:22:59Z | Null | https://github.com/ddnnife/exploiting-ddnnfs-eval | 0 | 0| 
+| 20220317T17:28:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 31 | 19| 
+| 20220317T13:00:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2499 | 296| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220317T04:10:39Z | Lion Cub is a Basic but power full framework for hacking beginners. This frame work has the ability to create reverse TCP backdoors, Keyloggers also it has the ability to do ARP spoofing attacks, MAC address changing, DNS spoofing attacks, WPA2 handshake capture automation etc. This is a hobby project to concentrate all my ethical hacking projects done earlier. | https://github.com/0301yasiru/LionCub | 6 | 1| 
+| 20220317T21:52:40Z | Lion Cub is a Basic but power full framework for hacking beginners. This frame work has the ability to create reverse TCP backdoors, Keyloggers also it has the ability to do ARP spoofing attacks, MAC address changing, DNS spoofing attacks, WPA2 handshake capture automation etc. This is a hobby project to concentrate all my ethical hacking projects done earlier. | https://github.com/0301yasiru/LionCub | 7 | 1| 
+| 20220317T16:18:34Z | Null | https://github.com/fabiola-espinoza-castellon/BackdoorFL | 0 | 0| 
 | 20220316T21:49:05Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 23 | 7| 
 | 20220316T13:19:02Z | Analysis-of-Invisible-Data-Poisoning-Backdoor-Attacks-against-Malware-Classifiers | https://github.com/mingwaiTSANG/Analysis-of-Invisible-Data-Poisoning-Backdoor-Attacks-against-Malware-Classifiers | 0 | 0| 
 | 20220316T10:48:37Z | Source code implementation for paper: Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions | https://github.com/Cinofix/backdoor_learning_curves | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20220316T08:17:26Z | Backdoor for windows machines written on C | https://github.com/jsdeemon/win_backdoor | 0 | 0| 
 | 20220315T23:41:32Z | Null | https://github.com/STXBain/Php-backdoor | 0 | 0| 
 | 20220315T23:15:22Z | hi | https://github.com/CloovyYT/Backdoor.exe-roblox-no-logging | 0 | 0| 
-| 20220315T22:40:07Z | Null | https://github.com/razordeveloper/Venom-RAT-Source-Code | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220317T23:06:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7198 | 1532| 
+| 20220317T21:35:22Z | stackable case-insensitive FUSE file system | https://github.com/XXLuigiMario/fuzzyfs | 0 | 1| 
+| 20220317T20:50:41Z | Null | https://github.com/shahyyehia/Fuzzy-Logic | 0 | 0| 
+| 20220317T19:47:45Z | Null | https://github.com/NightmareXDev/Fuzzy | 0 | 0| 
+| 20220317T19:29:48Z | Null | https://github.com/VCFNFT/fuzzy-happiness | 0 | 0| 
+| 20220317T16:01:11Z | In this project, we compared a symbolic executor, KLEE, and a black box fuzzing tool, radamsa, on their ability to find memory errors. | https://github.com/jacktrig/csce548Project1 | 0 | 0| 
+| 20220317T13:20:11Z | Automatic fuzz targets generation for Golang packages | https://github.com/catenacyber/ngolo-fuzzing | 3 | 0| 
 | 20220317T12:43:32Z | Null | https://github.com/weisje/usernameFuzzer | 0 | 0| 
 | 20220317T12:39:35Z | Fuzzing the COVESA/vsomeip library with AFL++ | https://github.com/cfanatic/vsomeip-fuzzing | 5 | 2| 
 | 20220317T11:48:45Z | The data, analysis, and outputs of the paper %False Peaks: On the Estimation of Fuzzing Effectiveness% submitted to ESEC/FSE 2022. | https://github.com/dliyanage/false_peaks_experiments | 0 | 0| 
-| 20220317T11:19:10Z | Thesis work on Fuzzy Fault Tree Analysis | https://github.com/AzureDVBB/fuzzyftapy | 0 | 1| 
-| 20220317T11:07:43Z | Null | https://github.com/gizemeker/fuzzy-sim-pcm | 0 | 0| 
-| 20220317T11:03:58Z | We use Arduino MCU to design a device that can accurately monitor the occurrence of fire and feed back information to users in real time. When the temperature of carbon monoxide and carbon dioxide in the site exceeds the threshold value, we will immediately monitor the temperature of carbon monoxide and carbon dioxide in combination with the temperature of the site, the infrared sensor, and the corresponding data of the smoke sensor, After signal preprocessing, the information is transmitted to Arduino processor for intelligent comprehensive analysis, and then send data to users through hc-06 Bluetooth module and store historical data, so that users can monitor the state of forest at any time to monitor and prevent forest fire. The forest alarm is more intelligent and convenient to use, reducing the waste of material and human resources. Due to the high accuracy of the sensor and wide application scenarios, the accuracy of judging whether a fire occurs is more strengthened, and it can be monitored 24 hours in a variety of environments. | https://github.com/jcllong/Forest-fire-detection-system-based-on-fuzzy-inference-algorithm | 0 | 0| 
-| 20220317T10:25:35Z | Air Conditioning system using Fuzzy Logic. | https://github.com/LukeTormey/FuzzyLogicAC | 0 | 0| 
-| 20220317T10:16:55Z | Files used for reproducing Fuzzware%s experiments | https://github.com/fuzzware-fuzzer/fuzzware-experiments | 34 | 2| 
-| 20220317T10:09:55Z | Network protocol fuzzer for SOME/IP | https://github.com/cfanatic/someip-protocol-fuzzer | 0 | 0| 
-| 20220317T08:58:16Z | Tool: showfuzz is report to stdout the functions that can be fuzzing test | https://github.com/kimuson13/showfuzz | 0 | 0| 
 
 
 
