@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220319T12:58:55Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/RodricBr/CVE-2021-3156 | | 
 | 20220319T12:17:39Z | 未知编号 | Exploit for CVE-2021_33751 used in PWN2OWN2021 | https://github.com/1N1T1A/cve_2021_33751_pwo | | 
 | 20220319T12:04:49Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220319T11:03:24Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
@@ -55,7 +56,6 @@
 | 20220318T16:34:46Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
 | 20220318T04:47:30Z | CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220318T04:02:06Z | CVE-2022-23812 | node-ipc is malware / protestware! | https://github.com/scriptzteam/node-ipc-malware-protestware-CVE-2022-23812 | | 
-| 20220318T03:38:03Z | CVE-2022-22947 | CVE-2022-22947_POC_EXP | https://github.com/Wrin9/CVE-2022-22947 | | 
 
 
 # klee on Github 推荐
@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220319T12:58:46Z | Rust language memory safe?  huh? | https://github.com/MaherAzzouzi/RustExploitation | 0 | 0| 
+| 20220319T12:57:54Z | Null | https://github.com/MaherAzzouzi/RustExploitqtion | 0 | 0| 
 | 20220319T12:19:15Z | Exploit for CVE-2021_33751 used in PWN2OWN2021 | https://github.com/1N1T1A/pwn2own_exploit | 0 | 0| 
 | 20220319T12:18:35Z | Exploit for CVE-2021_33751 used in PWN2OWN2021 | https://github.com/1N1T1A/cve_2021_33751_exploit_pwn2own | 0 | 0| 
 | 20220319T12:04:49Z | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | 0 | 0| 
@@ -97,8 +99,6 @@
 | 20220319T10:52:27Z | Vuln-Kernel Is an automated tool that discovers if your current kernel Linux version is vulnerable or not if yes, It will discover the exploitation method in different Websites/Platforms. | https://github.com/0x1mahmoud/Vuln-Kernel | 0 | 0| 
 | 20220319T10:27:41Z | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | 4 | 1| 
 | 20220319T08:46:52Z | Null | https://github.com/Purbayan2014/Exploitation-Deveploment | 0 | 0| 
-| 20220319T04:29:06Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4106 | 1437| 
-| 20220319T01:45:36Z | Exploit for CVE-2022-27226 | https://github.com/SakuraSamuraii/ez-iRZ | 1 | 0| 
 
 
 # backdoor on Github 推荐
