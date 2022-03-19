@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220319T12:04:49Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220319T11:49:32Z | 未知编号 | Null | https://github.com/1N1T1A/cve_2021_33751_pwo | | 
 | 20220319T11:03:24Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
 | 20220319T06:11:18Z | CVE-2022-0847 | Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well) | https://github.com/LudovicPatho/CVE-2022-0847 | | 
@@ -55,7 +56,6 @@
 | 20220318T04:47:30Z | CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220318T04:02:06Z | CVE-2022-23812 | node-ipc is malware / protestware! | https://github.com/scriptzteam/node-ipc-malware-protestware-CVE-2022-23812 | | 
 | 20220318T03:38:03Z | CVE-2022-22947 | CVE-2022-22947_POC_EXP | https://github.com/Wrin9/CVE-2022-22947 | | 
-| 20220318T02:28:45Z | CVE-2022-26503 | Null | https://github.com/sinsinology/CVE-2022-26503 | | 
 
 
 # klee on Github 推荐
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220319T12:04:49Z | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | 0 | 0| 
 | 20220319T11:44:34Z | Null | https://github.com/mohammadreza-ashouri/OwnershipExploitationSoldity | 0 | 0| 
 | 20220319T11:02:39Z | Null | https://github.com/AituGT/AZES_Exploit_key | 0 | 0| 
 | 20220319T10:52:27Z | Vuln-Kernel Is an automated tool that discovers if your current kernel Linux version is vulnerable or not if yes, It will discover the exploitation method in different Websites/Platforms. | https://github.com/0x1mahmoud/Vuln-Kernel | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220319T01:45:36Z | Exploit for CVE-2022-27226 | https://github.com/SakuraSamuraii/ez-iRZ | 1 | 0| 
 | 20220319T00:35:26Z | Collection of RISC-V exploits | https://github.com/praveenjntu34gmailr/chrysht | 0 | 0| 
 | 20220319T00:26:36Z | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/79782136qqv/exploitagencyu | 0 | 0| 
-| 20220319T00:04:35Z | Vulnerable server used for learning software exploitation | https://github.com/425154211qqch/stephenbradshaws | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,8 +119,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220318T18:02:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 207 | 48| 
-| 20220318T15:16:43Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 245 | 17| 
+| 20220319T11:18:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 248 | 17| 
+| 20220319T10:18:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 208 | 48| 
+| 20220319T09:36:37Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 35 | 3| 
 | 20220318T14:40:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1912 | 546| 
 | 20220318T11:59:14Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 50 | 4| 
 | 20220317T20:32:36Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 174 | 36| 
@@ -128,7 +129,6 @@
 | 20220316T18:35:03Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 | 20220314T23:50:32Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 174 | 36| 
 | 20220314T21:59:35Z | Proof of concept for generation of eBPF seccomp profiles through symbolic execution | https://github.com/shilch/seccomp | 0 | 0| 
-| 20220314T16:50:13Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 799 | 111| 
 
 
 # big4 on Github 推荐
