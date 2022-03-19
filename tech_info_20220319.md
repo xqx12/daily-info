@@ -77,6 +77,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220319T12:14:16Z | Null | https://github.com/SimeonAleksov/fuzzy-dollop | 0 | 0| 
+| 20220319T12:11:36Z | Null | https://github.com/1N1T1A/fuzzer | 0 | 0| 
+| 20220319T12:09:08Z | An AI wifi fuzzer | https://github.com/stamanousTis/aiWifiFuzzer | 0 | 0| 
 | 20220319T11:16:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7199 | 1533| 
 | 20220319T09:03:54Z | A fuzzer in rust | https://github.com/Pricter/Ruzzer | 0 | 0| 
 | 20220319T09:02:17Z | Null | https://github.com/Pricter/pyFuzz | 0 | 0| 
@@ -84,7 +87,6 @@
 | 20220319T07:32:41Z | Null | https://github.com/sudhirkumarojhaa/fuzzy-octo-broccoli | 0 | 0| 
 | 20220319T06:40:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1535 | 168| 
 | 20220319T06:40:15Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 122 | 31| 
-| 20220319T06:00:24Z | Null | https://github.com/phanlnn/fuzzy-doodle- | 0 | 0| 
 
 
 
