@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220319T12:28:04Z | Stealthy backdoor for Windows operating systems | https://github.com/feifeidegaog/rokups | 0 | 0| 
 | 20220319T11:40:43Z | muteall with backdoor | https://github.com/hanbao233xD/MuteAll- | 0 | 0| 
 | 20220319T10:34:50Z | New Release Shell Backdoor 403-404 | https://github.com/SkullCyberArmy-Official/Bypass-Shell-SkullCyberArmy | 1 | 0| 
 | 20220319T08:31:11Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 1| 
@@ -113,7 +114,6 @@
 | 20220318T10:38:54Z | Null | https://github.com/code-backdoor/code-backdoor | 0 | 0| 
 | 20220318T09:09:06Z | Writing custom backdoor payloads with C# - Defcon 27 Workshop | https://github.com/mvelazc0/defcon27_csharp_workshop | 705 | 202| 
 | 20220318T01:33:41Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
-| 20220317T21:52:40Z | Lion Cub is a Basic but power full framework for hacking beginners. This frame work has the ability to create reverse TCP backdoors, Keyloggers also it has the ability to do ARP spoofing attacks, MAC address changing, DNS spoofing attacks, WPA2 handshake capture automation etc. This is a hobby project to concentrate all my ethical hacking projects done earlier. | https://github.com/0301yasiru/LionCub | 7 | 1| 
 
 
 # symbolic execution on Github 推荐
