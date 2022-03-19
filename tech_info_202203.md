@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220318T22:52:25Z | CVE-2022-0847 | Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well) | https://github.com/LudovicPatho/CVE-2022-0847 | | 
-| 20220318T18:57:55Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
+| 20220319T11:49:32Z | 未知编号 | Null | https://github.com/1N1T1A/cve_2021_33751_pwo | | 
+| 20220319T11:03:24Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
+| 20220319T06:11:18Z | CVE-2022-0847 | Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well) | https://github.com/LudovicPatho/CVE-2022-0847 | | 
+| 20220319T02:45:54Z | CVE-2022-24990 | Null | https://github.com/VVeakee/CVE-2022-24990-EXP | | 
 | 20220318T18:35:40Z | CVE-2021-45010 | A Path traversal vulnerability in the file upload functionality in tinyfilemanager.php in Tiny File Manager Project’s Tiny File Manager <= 2.4.3 allows remote attackers with valid user accounts to upload malicious PHP files to the webroot and achieve code execution on the target server. | https://github.com/febinrev/CVE-2021-45010-TinyFileManager-Exploit | | 
 | 20220318T16:34:46Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
 | 20220318T04:47:30Z | CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220318T04:02:06Z | CVE-2022-23812 | node-ipc is malware / protestware! | https://github.com/scriptzteam/node-ipc-malware-protestware-CVE-2022-23812 | | 
 | 20220318T03:38:03Z | CVE-2022-22947 | CVE-2022-22947_POC_EXP | https://github.com/Wrin9/CVE-2022-22947 | | 
 | 20220318T02:28:45Z | CVE-2022-26503 | Null | https://github.com/sinsinology/CVE-2022-26503 | | 
-| 20220318T00:19:02Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/RodricBr/CVE-2021-3156 | | 
-| 20220317T18:45:43Z | CVE-2022-24112 | Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit  | https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220318T15:29:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5507 | 199| 
+| 20220319T11:28:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5516 | 199| 
 | 20220318T14:40:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1912 | 546| 
 | 20220317T20:17:36Z | IKPMD project made with Jetpack Compose. | https://github.com/Romano999/kleeren-jetpack-compose | 0 | 0| 
 | 20220317T16:01:11Z | In this project, we compared a symbolic executor, KLEE, and a black box fuzzing tool, radamsa, on their ability to find memory errors. | https://github.com/jacktrig/csce548Project1 | 0 | 0| 
@@ -76,44 +76,44 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220318T18:02:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 207 | 48| 
+| 20220319T10:18:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 208 | 48| 
+| 20220319T09:36:37Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 35 | 3| 
+| 20220319T09:17:18Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 13 | 2| 
 | 20220315T12:37:25Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 13 | 15| 
 | 20220310T21:28:36Z | Null | https://github.com/andteki/s2ejsterkup | 0 | 0| 
 | 20220305T14:52:27Z | Null | https://github.com/software-testing-bootcamp/S2E3-process-automation-RPA-with-jenkins-and-test-automation-tools | 0 | 0| 
 | 20220304T21:53:39Z | primer ejercicio  | https://github.com/Diazjh2022/S2EjemploGitHub | 0 | 0| 
 | 20220304T16:58:53Z | Null | https://github.com/AndRogJava/s2eCovid | 0 | 0| 
-| 20220304T14:34:20Z | 🐚 CRAX++: Modular exploit generation using symbolic execution | https://github.com/SQLab/CRAXplusplus | 35 | 3| 
-| 20220304T03:43:40Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 13 | 2| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220319T00:50:49Z | Exploit for CVE-2022-27226 | https://github.com/SakuraSamuraii/ez-iRZ | 0 | 0| 
+| 20220319T11:44:34Z | Null | https://github.com/mohammadreza-ashouri/OwnershipExploitationSoldity | 0 | 0| 
+| 20220319T11:02:39Z | Null | https://github.com/AituGT/AZES_Exploit_key | 0 | 0| 
+| 20220319T10:52:27Z | Vuln-Kernel Is an automated tool that discovers if your current kernel Linux version is vulnerable or not if yes, It will discover the exploitation method in different Websites/Platforms. | https://github.com/0x1mahmoud/Vuln-Kernel | 0 | 0| 
+| 20220319T10:27:41Z | Exploits for various CVEs | https://github.com/TheMirkin/CVE-List-Public-Exploits | 4 | 1| 
+| 20220319T08:46:52Z | Null | https://github.com/Purbayan2014/Exploitation-Deveploment | 0 | 0| 
+| 20220319T04:29:06Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4106 | 1437| 
+| 20220319T01:45:36Z | Exploit for CVE-2022-27226 | https://github.com/SakuraSamuraii/ez-iRZ | 1 | 0| 
 | 20220319T00:35:26Z | Collection of RISC-V exploits | https://github.com/praveenjntu34gmailr/chrysht | 0 | 0| 
 | 20220319T00:26:36Z | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/79782136qqv/exploitagencyu | 0 | 0| 
 | 20220319T00:04:35Z | Vulnerable server used for learning software exploitation | https://github.com/425154211qqch/stephenbradshaws | 0 | 0| 
-| 20220318T23:35:55Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8824 | 1492| 
-| 20220318T22:08:27Z | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits!  | https://github.com/NathanTheIceCube/ProSploit-Hub | 0 | 0| 
-| 20220318T21:34:54Z | This cheat is Internal really isn%t like other liars | https://github.com/UwuRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
-| 20220318T21:32:19Z | These are the files, I exploit during my Python Training | https://github.com/victor-eagle/PYTHON_BASICS | 0 | 0| 
-| 20220318T20:18:01Z | Downloads CVE exploited vulnerability catalog from CISA, gathers a score for every entry and ads to the file.  | https://github.com/indeedion/CVETools | 0 | 0| 
-| 20220318T19:35:39Z | Format string exploit + return-to-libc attempt targeting wuftpd 2.6.0 on Ubuntu 12.04.5 LTS x86 | https://github.com/Optixal/wuftpd-format-string | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220319T11:40:43Z | muteall with backdoor | https://github.com/hanbao233xD/MuteAll- | 0 | 0| 
+| 20220319T10:34:50Z | New Release Shell Backdoor 403-404 | https://github.com/SkullCyberArmy-Official/Bypass-Shell-SkullCyberArmy | 1 | 0| 
+| 20220319T08:31:11Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 1| 
+| 20220319T04:14:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 139 | 35| 
 | 20220318T13:27:54Z | python code to run a backdoor on victims machine | https://github.com/emansamyy/Simple-Backdoor-Program | 0 | 0| 
 | 20220318T10:47:01Z | Fat-Stealer is a stealer that allows you to grab the Discord token from a user and open a backdoor in his machine. | https://github.com/JetBerri/Stealer | 22 | 1| 
 | 20220318T10:38:54Z | Null | https://github.com/code-backdoor/code-backdoor | 0 | 0| 
 | 20220318T09:09:06Z | Writing custom backdoor payloads with C# - Defcon 27 Workshop | https://github.com/mvelazc0/defcon27_csharp_workshop | 705 | 202| 
-| 20220318T02:58:48Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 1| 
-| 20220318T02:57:18Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 138 | 35| 
 | 20220318T01:33:41Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
 | 20220317T21:52:40Z | Lion Cub is a Basic but power full framework for hacking beginners. This frame work has the ability to create reverse TCP backdoors, Keyloggers also it has the ability to do ARP spoofing attacks, MAC address changing, DNS spoofing attacks, WPA2 handshake capture automation etc. This is a hobby project to concentrate all my ethical hacking projects done earlier. | https://github.com/0301yasiru/LionCub | 7 | 1| 
-| 20220317T16:18:34Z | Null | https://github.com/fabiola-espinoza-castellon/BackdoorFL | 0 | 0| 
-| 20220316T21:49:05Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 23 | 7| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220319T11:16:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7199 | 1533| 
+| 20220319T09:03:54Z | A fuzzer in rust | https://github.com/Pricter/Ruzzer | 0 | 0| 
+| 20220319T09:02:17Z | Null | https://github.com/Pricter/pyFuzz | 0 | 0| 
+| 20220319T07:43:42Z | Curated list of classic fuzzing books, papers about fuzzing at information security top conferences over the years, commonly used fuzzing tools, and resources that can help us use fuzzer easily.  | https://github.com/liyansong2018/fuzzing-tutorial | 73 | 13| 
+| 20220319T07:32:41Z | Null | https://github.com/sudhirkumarojhaa/fuzzy-octo-broccoli | 0 | 0| 
+| 20220319T06:40:27Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1535 | 168| 
+| 20220319T06:40:15Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 122 | 31| 
+| 20220319T06:00:24Z | Null | https://github.com/phanlnn/fuzzy-doodle- | 0 | 0| 
 | 20220318T12:45:38Z | Null | https://github.com/conorreid97/cmp304_FuzzyLogic_Project_conorreid | 0 | 0| 
 | 20220318T12:21:27Z | Tool for post processing the results of ParamSpider and fuzz parameters | https://github.com/haicenhacks/PostParamSpider | 0 | 0| 
-| 20220318T11:54:24Z | Null | https://github.com/Alvov1/Fuzzer | 0 | 0| 
-| 20220318T11:14:57Z | Null | https://github.com/waddewaa/FennecFuzz | 0 | 0| 
-| 20220318T11:10:23Z | fuzzy-graph-coloring is a Python package for calculating the fuzzy chromatic number and coloring of a graph with fuzzy edges. | https://github.com/ferdinand-dhbw/fuzzy-graph-coloring | 0 | 0| 
-| 20220318T09:12:56Z | FSE22 SeamFuzz submission | https://github.com/SeamFuzzFSE/SeamFuzz_FSE22 | 0 | 0| 
-| 20220318T01:15:05Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 93 | 11| 
-| 20220318T01:06:07Z | Tool: gofuzzgen is generate template of fuzzing test code | https://github.com/kimuson13/gofuzzgen | 1 | 0| 
-| 20220318T00:21:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7199 | 1532| 
-| 20220317T21:35:22Z | stackable case-insensitive FUSE file system | https://github.com/XXLuigiMario/fuzzyfs | 0 | 1| 
 
 
 
