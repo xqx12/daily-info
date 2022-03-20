@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220320T00:42:05Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
+| 20220320T01:44:21Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220319T23:33:24Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
 | 20220319T17:23:12Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
 | 20220319T12:58:55Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/RodricBr/CVE-2021-3156 | | 
@@ -89,7 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220320T01:26:28Z | Null | https://github.com/maxamin/Exploitkits | 0 | 0| 
+| 20220320T01:39:35Z | Null | https://github.com/maxamin/Exploitkits | 0 | 0| 
+| 20220320T01:05:44Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 696 | 153| 
 | 20220320T00:00:07Z | Null | https://github.com/Eddi0x/Silent-PDF-Exploit-EXE-to-PDF-2022 | 1 | 0| 
 | 20220319T23:48:06Z | Silent Exploit Pack - PDF - DOC - XLS - XLL | https://github.com/Eddi0x/Silent-Excel-XLS-Exploit-2022 | 0 | 0| 
 | 20220319T23:33:24Z | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220319T22:12:32Z | nanodisco: a toolbox for discovering and exploiting multiple types of DNA methylation from individual bacteria and microbiomes using nanopore sequencing. | https://github.com/fanglab/nanodisco | 36 | 3| 
 | 20220319T20:52:15Z | Null | https://github.com/Fortcampbell123/Exploit | 0 | 0| 
 | 20220319T20:41:19Z | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | 0 | 0| 
-| 20220319T19:54:23Z | Wolfy%s Script Library | https://github.com/ExploiterWolfy/ExploiterWolfy.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -143,8 +143,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220320T00:52:31Z | Null | https://github.com/Ninja99612/fuzzlistserver | 0 | 0| 
-| 20220320T00:46:18Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 23 | 1| 
+| 20220320T01:14:38Z | A hypervisor or virtual machine monitor (VMM) fuzzer. | https://github.com/kongsikongsidevelopergmailt/rcvalle | 0 | 0| 
+| 20220320T01:13:18Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 24 | 1| 
+| 20220320T01:05:20Z | Null | https://github.com/Ninja99612/fuzzlistserver | 0 | 0| 
 | 20220320T00:43:59Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/BadAssess/hardik05f | 0 | 0| 
 | 20220320T00:21:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7200 | 1533| 
 | 20220320T00:04:41Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 312 | 14| 
@@ -152,7 +153,6 @@
 | 20220319T20:24:48Z | Null | https://github.com/luoyuwen31/MavenFuzzyFactorySQL | 0 | 0| 
 | 20220319T19:51:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 124 | 32| 
 | 20220319T18:38:10Z | Null | https://github.com/jefxx/fuzzy-octo-garbanzo | 0 | 0| 
-| 20220319T14:26:01Z | Network protocol fuzzer for SOME/IP | https://github.com/cfanatic/someip-protocol-fuzzer | 0 | 0| 
 
 
 
