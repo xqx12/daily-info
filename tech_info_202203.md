@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220320T01:26:28Z | Null | https://github.com/maxamin/Exploitkits | 0 | 0| 
 | 20220320T00:00:07Z | Null | https://github.com/Eddi0x/Silent-PDF-Exploit-EXE-to-PDF-2022 | 1 | 0| 
 | 20220319T23:48:06Z | Silent Exploit Pack - PDF - DOC - XLS - XLL | https://github.com/Eddi0x/Silent-Excel-XLS-Exploit-2022 | 0 | 0| 
 | 20220319T23:33:24Z | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220319T20:52:15Z | Null | https://github.com/Fortcampbell123/Exploit | 0 | 0| 
 | 20220319T20:41:19Z | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | 0 | 0| 
 | 20220319T19:54:23Z | Wolfy%s Script Library | https://github.com/ExploiterWolfy/ExploiterWolfy.github.io | 0 | 0| 
-| 20220319T19:32:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10884 | 1897| 
 
 
 # backdoor on Github 推荐
