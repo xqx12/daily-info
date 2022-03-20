@@ -17,7 +17,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220319T23:33:24Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
-| 20220319T23:32:05Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220319T17:23:12Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
 | 20220319T12:58:55Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/RodricBr/CVE-2021-3156 | | 
 | 20220319T12:17:39Z | 未知编号 | Exploit for CVE-2021_33751 used in PWN2OWN2021 | https://github.com/1N1T1A/cve_2021_33751_pwo | | 
