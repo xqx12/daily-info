@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220320T00:52:31Z | Null | https://github.com/Ninja99612/fuzzlistserver | 0 | 0| 
 | 20220320T00:46:18Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 23 | 1| 
 | 20220320T00:43:59Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/BadAssess/hardik05f | 0 | 0| 
 | 20220320T00:21:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7200 | 1533| 
@@ -152,7 +153,6 @@
 | 20220319T19:51:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 124 | 32| 
 | 20220319T18:38:10Z | Null | https://github.com/jefxx/fuzzy-octo-garbanzo | 0 | 0| 
 | 20220319T14:26:01Z | Network protocol fuzzer for SOME/IP | https://github.com/cfanatic/someip-protocol-fuzzer | 0 | 0| 
-| 20220319T12:14:16Z | Null | https://github.com/SimeonAleksov/fuzzy-dollop | 0 | 0| 
 
 
 
