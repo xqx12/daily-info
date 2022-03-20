@@ -143,8 +143,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220320T00:21:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7200 | 1533| 
+| 20220320T00:21:05Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 22 | 1| 
 | 20220320T00:04:41Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 312 | 14| 
-| 20220319T23:09:52Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 21 | 1| 
 | 20220319T21:32:43Z | Null | https://github.com/snoowl26/fuzzy-winner | 0 | 0| 
 | 20220319T20:24:48Z | Null | https://github.com/luoyuwen31/MavenFuzzyFactorySQL | 0 | 0| 
 | 20220319T19:51:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 124 | 32| 
@@ -152,7 +153,6 @@
 | 20220319T14:26:01Z | Network protocol fuzzer for SOME/IP | https://github.com/cfanatic/someip-protocol-fuzzer | 0 | 0| 
 | 20220319T12:14:16Z | Null | https://github.com/SimeonAleksov/fuzzy-dollop | 0 | 0| 
 | 20220319T12:11:36Z | Null | https://github.com/1N1T1A/fuzzer | 0 | 0| 
-| 20220319T12:09:08Z | An AI wifi fuzzer | https://github.com/stamanousTis/aiWifiFuzzer | 0 | 0| 
 
 
 

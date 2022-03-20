@@ -83,7 +83,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220319T23:09:52Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 21 | 1| 
 | 20220319T21:32:43Z | Null | https://github.com/snoowl26/fuzzy-winner | 0 | 0| 
 | 20220319T20:24:48Z | Null | https://github.com/luoyuwen31/MavenFuzzyFactorySQL | 0 | 0| 
 | 20220319T19:51:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 124 | 32| 
@@ -93,6 +92,7 @@
 | 20220319T12:11:36Z | Null | https://github.com/1N1T1A/fuzzer | 0 | 0| 
 | 20220319T12:09:08Z | An AI wifi fuzzer | https://github.com/stamanousTis/aiWifiFuzzer | 0 | 0| 
 | 20220319T11:58:09Z | A proof-of-concept WordPress plugin fuzzer | https://github.com/kazet/wpgarlic | 47 | 7| 
+| 20220319T10:13:16Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1244 | 52| 
 
 
 
