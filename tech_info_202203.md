@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220320T12:08:49Z | Null | https://github.com/AfroooCircuss/NeonExploit | 0 | 0| 
 | 20220320T11:59:04Z | Install exsploit | https://github.com/S4tria18/exploit | 0 | 0| 
 | 20220320T10:57:04Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 4 | 0| 
 | 20220320T10:42:53Z | Null | https://github.com/retr0-13/malware-and-exploitdev-resources | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220320T09:37:12Z | Null | https://github.com/CC11001100/idea-project-fish-exploit | 3 | 0| 
 | 20220320T09:36:19Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 7 | 4| 
 | 20220320T09:10:57Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 698 | 153| 
-| 20220320T07:53:42Z | we propose the adoption of deep learning to detect whether there%s a COVID-19 presence in X-ray images by exploiting transfer learning. thus proposes an improved algorithm of convolutional neural network VGG-16 and VGG-19 using deep learning to realize this goal. this may represent a suggestion for the radiologist to right away localize the X-ray areas that may be of interest. | https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays- | 0 | 0| 
 
 
 # backdoor on Github 推荐
