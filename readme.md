@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220320T12:43:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7200 | 1534| 
 | 20220320T11:36:07Z | Good luck | https://github.com/NICOLSEEE/-fuzzy-octo-robot | 0 | 0| 
 | 20220320T10:36:50Z | Null | https://github.com/smoggles/fuzzy-giggle | 0 | 0| 
 | 20220320T07:12:02Z | Null | https://github.com/AabhasKrJha/fuzzyCLI | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220320T06:46:46Z | Null | https://github.com/avinash-218/Fuzzy-WSM-Decision-Making-Method | 0 | 0| 
 | 20220320T04:26:58Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 64 | 0| 
 | 20220320T01:14:38Z | A hypervisor or virtual machine monitor (VMM) fuzzer. | https://github.com/kongsikongsidevelopergmailt/rcvalle | 0 | 0| 
-| 20220320T01:13:18Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 24 | 1| 
 
 
 
