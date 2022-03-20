@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220319T11:18:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 248 | 17| 
+| 20220319T21:25:49Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 253 | 17| 
 | 20220319T10:18:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 208 | 48| 
 | 20220319T09:36:37Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 35 | 3| 
 | 20220318T14:40:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1912 | 546| 
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220320T00:04:41Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 312 | 14| 
 | 20220319T23:09:52Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 21 | 1| 
 | 20220319T21:32:43Z | Null | https://github.com/snoowl26/fuzzy-winner | 0 | 0| 
 | 20220319T20:24:48Z | Null | https://github.com/luoyuwen31/MavenFuzzyFactorySQL | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220319T12:14:16Z | Null | https://github.com/SimeonAleksov/fuzzy-dollop | 0 | 0| 
 | 20220319T12:11:36Z | Null | https://github.com/1N1T1A/fuzzer | 0 | 0| 
 | 20220319T12:09:08Z | An AI wifi fuzzer | https://github.com/stamanousTis/aiWifiFuzzer | 0 | 0| 
-| 20220319T11:58:09Z | A proof-of-concept WordPress plugin fuzzer | https://github.com/kazet/wpgarlic | 47 | 7| 
 
 
 
