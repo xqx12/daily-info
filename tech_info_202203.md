@@ -94,7 +94,7 @@
 | 20220320T11:59:04Z | Install exsploit | https://github.com/S4tria18/exploit | 0 | 0| 
 | 20220320T10:57:04Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 4 | 0| 
 | 20220320T10:42:53Z | Null | https://github.com/retr0-13/malware-and-exploitdev-resources | 0 | 0| 
-| 20220320T10:40:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1353 | 219| 
+| 20220320T10:40:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1353 | 220| 
 | 20220320T10:36:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10888 | 1897| 
 | 20220320T10:29:41Z | This repository include the witeup of SSRF exploitation in a Vulnhub Machine GEMINI INC 1 | https://github.com/avhiaryal/ssrf-exploitation | 0 | 0| 
 | 20220320T09:37:12Z | Null | https://github.com/CC11001100/idea-project-fish-exploit | 3 | 0| 
