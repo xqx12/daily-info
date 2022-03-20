@@ -70,6 +70,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220320T11:07:32Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 254 | 17| 
+| 20220320T07:32:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 209 | 48| 
 | 20220320T00:29:34Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 765 | 142| 
 
 
