@@ -144,8 +144,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T01:21:58Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 64 | 3| 
 | 20220321T00:49:27Z | Null | https://github.com/RodriCM97/FuzzyLogic2DCarUnity3D | 0 | 0| 
-| 20220321T00:46:43Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 63 | 3| 
 | 20220320T23:29:25Z | Null | https://github.com/tuan/fuzzyfind | 0 | 0| 
 | 20220320T22:31:54Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 125 | 33| 
 | 20220320T21:35:19Z | A simple fuzzy classifier | https://github.com/Fuzzy-Classifier-Project/fuzzy-classifier | 0 | 0| 
