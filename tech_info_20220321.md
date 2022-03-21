@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T12:40:17Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 644 | 87| 
 | 20220321T12:32:26Z | Exploit for Apex Legends | https://github.com/Tymec/ApexLegendsExploit | 0 | 0| 
 | 20220321T12:31:42Z | A paper i write for my college about return oriented programming exploits. | https://github.com/xMaxH/ReturnOrientedProgrammingPaper | 0 | 0| 
 | 20220321T11:53:32Z | Null | https://github.com/caadams4/x86Exploit_chall_00 | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20220321T10:06:46Z | Simple webhook to block exploitation of CVE-2022-0811 | https://github.com/spiarh/webhook-cve-2022-0811 | 1 | 0| 
 | 20220321T10:01:34Z | Null | https://github.com/MohamedLinux/UpdateExploit | 0 | 0| 
 | 20220321T09:57:55Z | Exploiting a machine running Icecast via a buffer overflow vulnerability | https://github.com/TaylorTopp/Icecast-Header-Overflow_PenTest | 0 | 0| 
-| 20220321T09:39:47Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 643 | 86| 
 | 20220321T09:09:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10893 | 1901| 
 
 
