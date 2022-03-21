@@ -16,6 +16,7 @@
 | 20220321 | Abusing Kerberos to Bypass UAC | https://www.tiraniddo.dev/2022/03/bypassing-uac-in-most-complex-way.html| 
 | 20220321 | AirDrop process of ApeCoin cryptocurrency found vulnerable, led to theft of millions of dollars in NFTs | http://research.checkpoint.com/2022/airdrop-process-of-apecoin-cryptocurrency-found-vulnerable-led-to-theft-of-millions-of-dollars-in-nfts/| 
 | 20220321 | Sandworm APT 攻击 ASUS 路由器 | https://sec.today/pulses/648c4950-f8e1-4b21-aff3-082e19de87eb/| 
+| 20220321 | Sandworm APT 攻击 ASUS 路由器 | https://threatpost.com/sandworm-asus-routers-cyclops-blink-botnet/178986/| 
 
 
 # 安全维基 推荐
@@ -83,6 +84,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T10:23:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 256 | 17| 
+| 20220321T10:15:40Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/AnonymousSEMA/SEMA-ToolChain | 0 | 0| 
+| 20220321T07:04:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1913 | 546| 
+| 20220321T05:38:08Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 36 | 3| 
 
 
 # big4 on Github 推荐

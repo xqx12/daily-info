@@ -16,6 +16,7 @@
 | 20220321 | Abusing Kerberos to Bypass UAC | https://www.tiraniddo.dev/2022/03/bypassing-uac-in-most-complex-way.html| 
 | 20220321 | AirDrop process of ApeCoin cryptocurrency found vulnerable, led to theft of millions of dollars in NFTs | http://research.checkpoint.com/2022/airdrop-process-of-apecoin-cryptocurrency-found-vulnerable-led-to-theft-of-millions-of-dollars-in-nfts/| 
 | 20220321 | Sandworm APT 攻击 ASUS 路由器 | https://sec.today/pulses/648c4950-f8e1-4b21-aff3-082e19de87eb/| 
+| 20220321 | Sandworm APT 攻击 ASUS 路由器 | https://threatpost.com/sandworm-asus-routers-cyclops-blink-botnet/178986/| 
 | 20220320 | 探索高版本 JDK 下 JNDI 漏洞的利用方法：第二章. | http://tttang.com/archive/1489/| 
 | 20220320 | 检测分析父PID欺骗. | https://www.hackingarticles.in/parent-pid-spoofing-mitret1134/| 
 | 20220318 | Analyzing Malware with Hooks, Stomps, and Return-addresses | https://www.arashparsa.com/catching-a-malware-with-no-name/| 
@@ -25,7 +26,6 @@
 | 20220318 | npm node-ipc 包开发者发布特殊版本，针对特定地区开发者，删除所有数据文件 | https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/| 
 | 20220318 | Jamf 对前两天修复的 macOS Gatekeeper Bypass（CVE-2022-22616）漏洞的分析 | https://www.jamf.com/blog/jamf-threat-labs-safari-vuln-gatekeeper-bypass/| 
 | 20220318 | Why is memory safety still a concern | https://docs.google.com/presentation/d/1EscMOcMNOwi-bCgOthjiwIXE30w_SeHk3ahjyY0pX10/edit#slide=id.p| 
-| 20220318 | Abusing Azure Hybrid Workers for Privilege Escalation | http://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-for-privilege-escalation/| 
 
 
 # 安全维基 推荐
@@ -120,16 +120,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220320T11:07:32Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 254 | 17| 
+| 20220321T10:23:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 256 | 17| 
+| 20220321T10:15:40Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/AnonymousSEMA/SEMA-ToolChain | 0 | 0| 
+| 20220321T07:04:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1913 | 546| 
+| 20220321T05:38:08Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 36 | 3| 
 | 20220320T07:32:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 209 | 48| 
 | 20220320T00:29:34Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 765 | 142| 
-| 20220319T09:36:37Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 35 | 3| 
-| 20220318T14:40:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1912 | 546| 
 | 20220318T11:59:14Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 50 | 4| 
 | 20220317T20:32:36Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 174 | 36| 
 | 20220317T09:34:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2757 | 402| 
 | 20220316T18:35:03Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
-| 20220314T23:50:32Z | The symbolic execution engine powering the K Framework | https://github.com/kframework/kore | 174 | 36| 
 
 
 # big4 on Github 推荐
