@@ -22,7 +22,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220320T18:26:24Z | cve-2022-24112 | Apache APISIX < 2.12.1 Remote Code Execution and Docker Lab | https://github.com/twseptian/cve-2022-24112 | | 
 | 20220320T10:42:14Z | CVE-2022-27251 | Remote Code Execution in LocalStack 0.12.6 | https://github.com/TheCyberGeek/CVE-2022-27251 | | 
-| 20220320T09:37:42Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
 | 20220320T07:35:57Z | CVE-2021-31166 | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
 | 20220320T03:50:42Z | CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | | 
 
