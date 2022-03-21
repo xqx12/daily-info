@@ -108,13 +108,13 @@
 | 20220321T10:35:11Z | BACKDOOR WITH ONLY 2 LINES OF CODE (LINUX AND WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 2 | 0| 
 | 20220321T10:27:57Z | Null | https://github.com/TakXDLOL/BackDoor.Lua | 0 | 0| 
 | 20220321T10:15:59Z | backdoor that steals and control the victim%s computer, download files and send them to the attacker | https://github.com/tmcyberagent/BACKDOOR-LABORATORIO- | 1 | 0| 
+| 20220321T08:14:50Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 18 | 6| 
 | 20220321T06:54:08Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 441 | 86| 
 | 20220321T03:00:37Z | 主要针对联邦学习场景下的后门攻击，相关的文章整理 | https://github.com/zxccvdql/backdoor-defense-Document-arrangement | 0 | 0| 
 | 20220321T02:49:48Z | Null | https://github.com/code-backdoor/code-backdoor | 0 | 0| 
 | 20220321T00:56:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 138 | 35| 
 | 20220321T00:38:54Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6246 | 1931| 
 | 20220320T22:39:24Z | A backdoor written in C# & Node.JS aiming to give console access to a targets machine. | https://github.com/kgsensei/CSharp-Backdoor | 1 | 0| 
-| 20220320T19:23:34Z | Script para encontrar procesos activos en la máquina backdoor de hack the box, usando Local File Inclusion | https://github.com/SeKonDz/ProcFInder---Backdoor-machine-HTB | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
