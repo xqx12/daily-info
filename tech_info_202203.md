@@ -146,6 +146,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220320T23:29:25Z | Null | https://github.com/tuan/fuzzyfind | 0 | 0| 
 | 20220320T22:44:06Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 62 | 3| 
+| 20220320T22:31:54Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 125 | 33| 
 | 20220320T21:35:19Z | A simple fuzzy classifier | https://github.com/Fuzzy-Classifier-Project/fuzzy-classifier | 0 | 0| 
 | 20220320T21:13:57Z | for my gf and her thesis supervisor | https://github.com/aljedaxi/toy-fuzzy-finder | 0 | 0| 
 | 20220320T21:11:34Z | identity pure functions in golang source | https://github.com/tam7t/cautious-pancake | 24 | 1| 
@@ -153,7 +154,6 @@
 | 20220320T19:19:44Z | Null | https://github.com/likemoody/fuzzy-octo-umbrella | 0 | 0| 
 | 20220320T17:55:57Z | Null | https://github.com/aleksac99/Fuzzy | 0 | 0| 
 | 20220320T17:36:30Z | Fuzz test Python modules with libFuzzer | https://github.com/eerimoq/pyfuzzer | 12 | 1| 
-| 20220320T16:17:05Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 355 | 49| 
 
 
 
