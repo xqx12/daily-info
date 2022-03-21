@@ -54,8 +54,8 @@
 | 20220320T22:35:06Z | Instructions for setting up minimal lab to demonstrate the log4shell exploit | https://github.com/ColorTokens-Labs/log4shell-demo-lab | 0 | 0| 
 | 20220320T22:08:51Z | A daedalus library for the game Gothic. Exploits the interpreter to allow arbitrary memory access and defines a lot of useful functions for interfacing with the engine. | https://github.com/Lehona/Ikarus | 8 | 6| 
 | 20220320T21:19:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10890 | 1900| 
+| 20220320T20:45:37Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2798 | 500| 
 | 20220320T20:43:03Z | This is a repo  about some hacking scripts to make your hacks better and easier.This also includes a session on exploit development where we develop exploits for different vulnerabilities.Please do not use these for illegal purposes. | https://github.com/mutur4/Hacking-Scripts | 0 | 0| 
-| 20220320T19:20:14Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 29 | 4| 
 
 
 # backdoor on Github 推荐
@@ -85,7 +85,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220320T23:29:25Z | Null | https://github.com/tuan/fuzzyfind | 0 | 0| 
-| 20220320T22:44:06Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 62 | 3| 
 | 20220320T22:31:54Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 125 | 33| 
 | 20220320T21:35:19Z | A simple fuzzy classifier | https://github.com/Fuzzy-Classifier-Project/fuzzy-classifier | 0 | 0| 
 | 20220320T21:13:57Z | for my gf and her thesis supervisor | https://github.com/aljedaxi/toy-fuzzy-finder | 0 | 0| 
@@ -94,6 +93,7 @@
 | 20220320T19:19:44Z | Null | https://github.com/likemoody/fuzzy-octo-umbrella | 0 | 0| 
 | 20220320T17:55:57Z | Null | https://github.com/aleksac99/Fuzzy | 0 | 0| 
 | 20220320T17:36:30Z | Fuzz test Python modules with libFuzzer | https://github.com/eerimoq/pyfuzzer | 12 | 1| 
+| 20220320T16:17:05Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 355 | 49| 
 
 
 
