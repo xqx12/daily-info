@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220320T12:09:16Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
-| 20220320T11:48:49Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
+| 20220320T23:19:58Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
+| 20220320T20:55:01Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220320T18:26:24Z | cve-2022-24112 | Apache APISIX < 2.12.1 Remote Code Execution and Docker Lab | https://github.com/twseptian/cve-2022-24112 | | 
+| 20220320T16:43:15Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
 | 20220320T10:42:14Z | CVE-2022-27251 | Remote Code Execution in LocalStack 0.12.6 | https://github.com/TheCyberGeek/CVE-2022-27251 | | 
-| 20220320T09:54:45Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220320T09:37:42Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
 | 20220320T07:35:57Z | CVE-2021-31166 | CVE-2022-31166: exploitation with Powershell, Python, Ruby, NMAP and Metasploit. | https://github.com/mauricelambert/CVE-2021-31166 | | 
 | 20220320T03:50:42Z | CVE-2021-39165 | Github repository which contains a functional exploit for CVE-2021-39165 | https://github.com/W0rty/CVE-2021-39165 | | 
 | 20220319T23:33:24Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
 | 20220319T17:23:12Z | CVE-2022-25949 | A years-old exploit of a local EoP vulnerability in Kingsoft Antivirus KWatch Driver version 2009.3.17.77. | https://github.com/tandasat/CVE-2022-25949 | | 
-| 20220319T12:58:55Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/RodricBr/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220320T12:08:49Z | Null | https://github.com/AfroooCircuss/NeonExploit | 0 | 0| 
-| 20220320T11:59:04Z | Install exsploit | https://github.com/S4tria18/exploit | 0 | 0| 
-| 20220320T10:57:04Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITION | 4 | 0| 
-| 20220320T10:42:53Z | Null | https://github.com/retr0-13/malware-and-exploitdev-resources | 0 | 0| 
-| 20220320T10:40:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1353 | 220| 
-| 20220320T10:36:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10888 | 1897| 
-| 20220320T10:29:41Z | This repository include the witeup of SSRF exploitation in a Vulnhub Machine GEMINI INC 1 | https://github.com/avhiaryal/ssrf-exploitation | 0 | 0| 
-| 20220320T09:37:12Z | Null | https://github.com/CC11001100/idea-project-fish-exploit | 3 | 0| 
-| 20220320T09:36:19Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 7 | 4| 
-| 20220320T09:10:57Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 698 | 153| 
+| 20220320T23:48:52Z | STJ.JUS.BR - 2022 Exploited | https://github.com/STJLeak2022/STJ | 0 | 0| 
+| 20220320T23:38:39Z | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | 2 | 0| 
+| 20220320T23:30:22Z | A library that I use to make my GUI%s use this if you want to | https://github.com/Nikev2/Roblox-Gui-Exploit-Libary-Module | 0 | 0| 
+| 20220320T23:24:24Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
+| 20220320T23:10:23Z | pwncat module that automatically exploits CVE-2022-0847 (dirtypipe) | https://github.com/DanaEpp/pwncat_dirtypipe | 0 | 0| 
+| 20220320T22:35:06Z | Instructions for setting up minimal lab to demonstrate the log4shell exploit | https://github.com/ColorTokens-Labs/log4shell-demo-lab | 0 | 0| 
+| 20220320T22:08:51Z | A daedalus library for the game Gothic. Exploits the interpreter to allow arbitrary memory access and defines a lot of useful functions for interfacing with the engine. | https://github.com/Lehona/Ikarus | 8 | 6| 
+| 20220320T21:19:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10890 | 1900| 
+| 20220320T20:43:03Z | This is a repo  about some hacking scripts to make your hacks better and easier.This also includes a session on exploit development where we develop exploits for different vulnerabilities.Please do not use these for illegal purposes. | https://github.com/mutur4/Hacking-Scripts | 0 | 0| 
+| 20220320T19:20:14Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 29 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220320T22:39:24Z | A backdoor written in C# & Node.JS aiming to give console access to a targets machine. | https://github.com/kgsensei/CSharp-Backdoor | 1 | 0| 
+| 20220320T19:23:34Z | Script para encontrar procesos activos en la máquina backdoor de hack the box, usando Local File Inclusion | https://github.com/SeKonDz/ProcFInder---Backdoor-machine-HTB | 0 | 0| 
+| 20220320T18:06:45Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6245 | 1930| 
 | 20220320T08:21:20Z | Null | https://github.com/DmodvGH/BackDoorBot | 2 | 0| 
-| 20220320T03:30:53Z | A backdoor written in C# & Node.JS aiming to give console access to a targets machine. | https://github.com/kgsensei/CSharp-Backdoor | 1 | 0| 
 | 20220320T02:59:04Z | Null | https://github.com/backdoorclub/backdoorclub.github.io | 0 | 0| 
 | 20220320T02:10:10Z | Null | https://github.com/alex54142/PHP-SHELL-backdoor | 0 | 0| 
 | 20220319T18:43:59Z | get remote access to someone%s terminal and execute your commands there | https://github.com/theuithe0/backdoor | 0 | 0| 
 | 20220319T16:15:14Z | Enhancing Backdoor Attacks with Multi-Level MMD Regularization | https://github.com/xpf/Multi-Level-MMD-Regularization | 3 | 0| 
 | 20220319T12:28:04Z | Stealthy backdoor for Windows operating systems | https://github.com/feifeidegaog/rokups | 0 | 0| 
 | 20220319T11:40:43Z | muteall with backdoor | https://github.com/hanbao233xD/MuteAll- | 0 | 0| 
-| 20220319T10:34:50Z | New Release Shell Backdoor 403-404 | https://github.com/SkullCyberArmy-Official/Bypass-Shell-SkullCyberArmy | 1 | 0| 
-| 20220319T08:31:11Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220320T12:43:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7200 | 1534| 
-| 20220320T11:36:07Z | Good luck | https://github.com/NICOLSEEE/-fuzzy-octo-robot | 0 | 0| 
-| 20220320T10:36:50Z | Null | https://github.com/smoggles/fuzzy-giggle | 0 | 0| 
-| 20220320T07:12:02Z | Null | https://github.com/AabhasKrJha/fuzzyCLI | 0 | 0| 
-| 20220320T07:02:03Z | Null | https://github.com/avinash-218/Fuzzy-TOPSIS-Decision-Making-Method | 0 | 0| 
-| 20220320T07:01:14Z | Null | https://github.com/avinash-218/Fuzzy-WPM-Decision-Making-Method | 0 | 0| 
-| 20220320T06:55:20Z | Null | https://github.com/avinash-218/Fuzzy-AHP-Decision-Making-Method | 0 | 0| 
-| 20220320T06:46:46Z | Null | https://github.com/avinash-218/Fuzzy-WSM-Decision-Making-Method | 0 | 0| 
-| 20220320T04:26:58Z | Winapi fuzzer to help Wine project in creating better Windows %emulator% | https://github.com/qarmin/Win32Fuzzer | 64 | 0| 
-| 20220320T01:14:38Z | A hypervisor or virtual machine monitor (VMM) fuzzer. | https://github.com/kongsikongsidevelopergmailt/rcvalle | 0 | 0| 
+| 20220320T23:29:25Z | Null | https://github.com/tuan/fuzzyfind | 0 | 0| 
+| 20220320T22:44:06Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 62 | 3| 
+| 20220320T21:35:19Z | A simple fuzzy classifier | https://github.com/Fuzzy-Classifier-Project/fuzzy-classifier | 0 | 0| 
+| 20220320T21:13:57Z | for my gf and her thesis supervisor | https://github.com/aljedaxi/toy-fuzzy-finder | 0 | 0| 
+| 20220320T21:11:34Z | identity pure functions in golang source | https://github.com/tam7t/cautious-pancake | 24 | 1| 
+| 20220320T19:33:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7201 | 1534| 
+| 20220320T19:19:44Z | Null | https://github.com/likemoody/fuzzy-octo-umbrella | 0 | 0| 
+| 20220320T17:55:57Z | Null | https://github.com/aleksac99/Fuzzy | 0 | 0| 
+| 20220320T17:36:30Z | Fuzz test Python modules with libFuzzer | https://github.com/eerimoq/pyfuzzer | 12 | 1| 
+| 20220320T16:17:05Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 355 | 49| 
 
 
 
