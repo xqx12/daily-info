@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220321T00:57:50Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220321T00:32:07Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
-| 20220320T23:19:58Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220320T20:55:01Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220320T18:26:24Z | cve-2022-24112 | Apache APISIX < 2.12.1 Remote Code Execution and Docker Lab | https://github.com/twseptian/cve-2022-24112 | | 
 | 20220320T10:42:14Z | CVE-2022-27251 | Remote Code Execution in LocalStack 0.12.6 | https://github.com/TheCyberGeek/CVE-2022-27251 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220320T15:47:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5530 | 199| 
+| 20220321T00:58:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5531 | 199| 
 | 20220320T06:28:53Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 35 | 5| 
 | 20220319T13:41:38Z | 可莉桌宠 | https://github.com/wuyongxiang/KLEE_Elf | 0 | 0| 
 | 20220318T14:40:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1912 | 546| 
