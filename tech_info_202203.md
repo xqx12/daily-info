@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T00:56:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 138 | 35| 
 | 20220321T00:38:54Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6246 | 1930| 
 | 20220320T22:39:24Z | A backdoor written in C# & Node.JS aiming to give console access to a targets machine. | https://github.com/kgsensei/CSharp-Backdoor | 1 | 0| 
 | 20220320T19:23:34Z | Script para encontrar procesos activos en la máquina backdoor de hack the box, usando Local File Inclusion | https://github.com/SeKonDz/ProcFInder---Backdoor-machine-HTB | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20220319T18:43:59Z | get remote access to someone%s terminal and execute your commands there | https://github.com/theuithe0/backdoor | 0 | 0| 
 | 20220319T16:15:14Z | Enhancing Backdoor Attacks with Multi-Level MMD Regularization | https://github.com/xpf/Multi-Level-MMD-Regularization | 3 | 0| 
 | 20220319T12:28:04Z | Stealthy backdoor for Windows operating systems | https://github.com/feifeidegaog/rokups | 0 | 0| 
-| 20220319T11:40:43Z | muteall with backdoor | https://github.com/hanbao233xD/MuteAll- | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
