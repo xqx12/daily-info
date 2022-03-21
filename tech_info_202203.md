@@ -90,6 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T12:32:26Z | Exploit for Apex Legends | https://github.com/Tymec/ApexLegendsExploit | 0 | 0| 
+| 20220321T12:31:42Z | A paper i write for my college about return oriented programming exploits. | https://github.com/xMaxH/ReturnOrientedProgrammingPaper | 0 | 0| 
 | 20220321T11:53:32Z | Null | https://github.com/caadams4/x86Exploit_chall_00 | 0 | 0| 
 | 20220321T11:10:07Z | Null | https://github.com/MoadRAZZAKI/TP-2-Exploitation-du-format-JSON-pour-les-r-seaux-et-les-syst-mes | 0 | 0| 
 | 20220321T10:34:49Z | Null | https://github.com/Setha77/projetSystemeExploitation | 0 | 0| 
@@ -98,8 +100,6 @@
 | 20220321T09:57:55Z | Exploiting a machine running Icecast via a buffer overflow vulnerability | https://github.com/TaylorTopp/Icecast-Header-Overflow_PenTest | 0 | 0| 
 | 20220321T09:39:47Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 643 | 86| 
 | 20220321T09:09:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10893 | 1901| 
-| 20220321T08:47:50Z | Null | https://github.com/Fajar-NS/ExploitDb | 1 | 0| 
-| 20220321T08:45:02Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 7 | 4| 
 
 
 # backdoor on Github 推荐
