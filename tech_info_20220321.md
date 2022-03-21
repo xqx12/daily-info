@@ -42,6 +42,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T12:43:46Z | KLEE in the browser | https://github.com/klee/klee-web | 48 | 12| 
+| 20220321T12:43:37Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 34 | 38| 
 | 20220321T11:43:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5533 | 201| 
 | 20220321T09:32:17Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 36 | 5| 
 | 20220321T07:04:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1913 | 546| 
@@ -105,6 +107,7 @@
 | 20220321T10:32:26Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 12 | 8| 
 | 20220321T10:31:29Z | Null | https://github.com/Ronittomar/fuzzy-octo-guacamole | 0 | 0| 
 | 20220321T09:58:06Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 358 | 65| 
+| 20220321T09:36:38Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1144 | 160| 
 | 20220321T07:46:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 528 | 57| 
 | 20220321T01:45:14Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 66 | 3| 
 | 20220321T01:39:14Z | Null | https://github.com/M1ndFl4y/fuzzing-lists | 0 | 0| 
