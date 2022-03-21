@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220321T12:19:27Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
+| 20220321T12:48:10Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220321T11:11:27Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220321T10:57:39Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
 | 20220321T10:06:46Z | cve-2022-0811 | Simple webhook to block exploitation of CVE-2022-0811 | https://github.com/spiarh/webhook-cve-2022-0811 | | 
@@ -88,6 +88,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T12:49:50Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 210 | 48| 
 | 20220321T10:23:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 256 | 17| 
 | 20220321T10:15:40Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/AnonymousSEMA/SEMA-ToolChain | 0 | 0| 
 | 20220321T07:04:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1913 | 546| 
