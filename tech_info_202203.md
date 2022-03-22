@@ -98,8 +98,8 @@
 | 20220321T21:22:59Z | Null | https://github.com/Jack7988/PDF-Exploit-Builder-Work-on-latest-Adobe-DC | 1 | 0| 
 | 20220321T21:20:05Z | SPREADING ANY E-MAILS Hackers can exploit the security vulnerability by tricking the victim into opening a specially crafted, malicious Exploit PDF file or a PDF document containing that malicious file PDF Exploit in an email.   EXPLOIT PDF SPREADING The hacker could even upload the malicious Exploit PDF file to a file PDF service, like Dropbox or Google Drive, and then send that link PDF file to the victim.   COMPATIBLE WITH Exploit PDF are Compatible with all Windows Versions and all their Service Packs. It is also works in full unpatched systems and supports 0day Exploit PDF You can use those Exploit PDF to spread them via Social Media. | https://github.com/0x414141414/silent-exploit-PDF | 0 | 0| 
 | 20220321T20:25:13Z | Null | https://github.com/kanitmann/Metasploit_Exploit | 0 | 0| 
+| 20220321T20:23:18Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 78 | 21| 
 | 20220321T18:53:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2507 | 302| 
-| 20220321T16:38:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10893 | 1901| 
 
 
 # backdoor on Github 推荐
@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220322T01:38:03Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 79 | 4| 
+| 20220322T01:39:55Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 80 | 4| 
 | 20220322T00:36:20Z | Null | https://github.com/ainurnazirov/weather_fuzzy_logic | 0 | 0| 
 | 20220321T23:46:43Z | NBA Schedule and Score Scripts | https://github.com/Tyr314159/Fuzz_NBA | 0 | 0| 
 | 20220321T23:41:47Z | Null | https://github.com/TRUBDUBZ/fuzzy-spoon | 0 | 0| 
