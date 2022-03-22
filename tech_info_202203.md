@@ -17,6 +17,8 @@
 | 20220321 | AirDrop process of ApeCoin cryptocurrency found vulnerable, led to theft of millions of dollars in NFTs | http://research.checkpoint.com/2022/airdrop-process-of-apecoin-cryptocurrency-found-vulnerable-led-to-theft-of-millions-of-dollars-in-nfts/| 
 | 20220321 | Sandworm APT 攻击 ASUS 路由器 | https://sec.today/pulses/648c4950-f8e1-4b21-aff3-082e19de87eb/| 
 | 20220321 | Sandworm APT 攻击 ASUS 路由器 | https://threatpost.com/sandworm-asus-routers-cyclops-blink-botnet/178986/| 
+| 20220321 | 针对Exchange的攻击方式 | https://tttang.com/archive/1487/| 
+| 20220321 | 中国 Android 个人技术开源排行榜. | https://github.com/getActivity/AndroidGithubBoss| 
 | 20220320 | 探索高版本 JDK 下 JNDI 漏洞的利用方法：第二章. | http://tttang.com/archive/1489/| 
 | 20220320 | 检测分析父PID欺骗. | https://www.hackingarticles.in/parent-pid-spoofing-mitret1134/| 
 | 20220318 | Analyzing Malware with Hooks, Stomps, and Return-addresses | https://www.arashparsa.com/catching-a-malware-with-no-name/| 
@@ -24,8 +26,6 @@
 | 20220318 | Android 应用开发安全手册 | https://0xn3va.gitbook.io/cheat-sheets/| 
 | 20220318 | HEAPSTER: Analyzing the Security of Dynamic Allocators for Monolithic Firmware Images（Paper） | https://degrigis.github.io/bins/heapster.pdf| 
 | 20220318 | npm node-ipc 包开发者发布特殊版本，针对特定地区开发者，删除所有数据文件 | https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/| 
-| 20220318 | Jamf 对前两天修复的 macOS Gatekeeper Bypass（CVE-2022-22616）漏洞的分析 | https://www.jamf.com/blog/jamf-threat-labs-safari-vuln-gatekeeper-bypass/| 
-| 20220318 | Why is memory safety still a concern | https://docs.google.com/presentation/d/1EscMOcMNOwi-bCgOthjiwIXE30w_SeHk3ahjyY0pX10/edit#slide=id.p| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220321T12:48:10Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
-| 20220321T11:11:27Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
-| 20220321T10:57:39Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
-| 20220321T10:06:46Z | cve-2022-0811 | Simple webhook to block exploitation of CVE-2022-0811 | https://github.com/spiarh/webhook-cve-2022-0811 | | 
-| 20220321T09:22:33Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
+| 20220321T23:37:20Z | cve-2022-22947 | Null | https://github.com/Enokiy/cve-2022-22947-springcloud-gateway | | 
+| 20220321T23:05:39Z | CVE-2020-6418 | Null | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | | 
+| 20220321T21:45:54Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
+| 20220321T21:08:41Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220321T19:48:49Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
+| 20220321T19:45:01Z | cve-2022-0811 | Simple webhook to block exploitation of CVE-2022-0811 | https://github.com/spiarh/webhook-cve-2022-0811 | | 
+| 20220321T16:20:52Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
 | 20220321T07:15:47Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
 | 20220321T03:58:29Z | CVE-2020-2551 | Null | https://github.com/LTiDi2000/CVE-2020-2551 | | 
 | 20220321T01:09:15Z | CVE-2022-0847 | Bash script to check for CVE-2022-0847 "Dirty Pipe" | https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker | | 
-| 20220320T18:26:24Z | cve-2022-24112 | Apache APISIX < 2.12.1 Remote Code Execution and Docker Lab | https://github.com/twseptian/cve-2022-24112 | | 
-| 20220320T10:42:14Z | CVE-2022-27251 | Remote Code Execution in LocalStack 0.12.6 | https://github.com/TheCyberGeek/CVE-2022-27251 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T18:21:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5535 | 201| 
+| 20220321T17:28:16Z | Null | https://github.com/adoumane/Kleene-Algebra | 0 | 0| 
 | 20220321T12:43:46Z | KLEE in the browser | https://github.com/klee/klee-web | 48 | 12| 
 | 20220321T12:43:37Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 34 | 38| 
-| 20220321T11:43:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5533 | 201| 
 | 20220321T09:32:17Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 36 | 5| 
 | 20220321T07:04:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1913 | 546| 
 | 20220321T02:17:20Z | Null | https://github.com/youfantan/KleeBot | 1 | 0| 
 | 20220319T13:41:38Z | 可莉桌宠 | https://github.com/wuyongxiang/KLEE_Elf | 0 | 0| 
 | 20220317T20:17:36Z | IKPMD project made with Jetpack Compose. | https://github.com/Romano999/kleeren-jetpack-compose | 0 | 0| 
 | 20220317T16:01:11Z | In this project, we compared a symbolic executor, KLEE, and a black box fuzzing tool, radamsa, on their ability to find memory errors. | https://github.com/jacktrig/csce548Project1 | 0 | 0| 
-| 20220317T14:56:09Z | Null | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T22:10:38Z | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits!  | https://github.com/NathanTheIceCube/ProSploit-Hub | 0 | 0| 
+| 20220321T21:31:29Z | Null | https://github.com/EmanuelFirmino/shellshock-remote-code-execution-exploit | 0 | 0| 
+| 20220321T21:27:58Z | Null | https://github.com/Eddi0x/Silent-Exploit-DOC | 0 | 0| 
+| 20220321T21:22:59Z | Null | https://github.com/Jack7988/PDF-Exploit-Builder-Work-on-latest-Adobe-DC | 1 | 0| 
+| 20220321T21:20:05Z | SPREADING ANY E-MAILS Hackers can exploit the security vulnerability by tricking the victim into opening a specially crafted, malicious Exploit PDF file or a PDF document containing that malicious file PDF Exploit in an email.   EXPLOIT PDF SPREADING The hacker could even upload the malicious Exploit PDF file to a file PDF service, like Dropbox or Google Drive, and then send that link PDF file to the victim.   COMPATIBLE WITH Exploit PDF are Compatible with all Windows Versions and all their Service Packs. It is also works in full unpatched systems and supports 0day Exploit PDF You can use those Exploit PDF to spread them via Social Media. | https://github.com/0x414141414/silent-exploit-PDF | 0 | 0| 
+| 20220321T20:25:13Z | Null | https://github.com/kanitmann/Metasploit_Exploit | 0 | 0| 
+| 20220321T18:53:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2507 | 302| 
+| 20220321T16:38:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10893 | 1901| 
 | 20220321T12:40:17Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 644 | 87| 
 | 20220321T12:32:26Z | Exploit for Apex Legends | https://github.com/Tymec/ApexLegendsExploit | 0 | 0| 
-| 20220321T12:31:42Z | A paper i write for my college about return oriented programming exploits. | https://github.com/xMaxH/ReturnOrientedProgrammingPaper | 0 | 0| 
-| 20220321T11:53:32Z | Null | https://github.com/caadams4/x86Exploit_chall_00 | 0 | 0| 
-| 20220321T11:10:07Z | Null | https://github.com/MoadRAZZAKI/TP-2-Exploitation-du-format-JSON-pour-les-r-seaux-et-les-syst-mes | 0 | 0| 
-| 20220321T10:34:49Z | Null | https://github.com/Setha77/projetSystemeExploitation | 0 | 0| 
-| 20220321T10:06:46Z | Simple webhook to block exploitation of CVE-2022-0811 | https://github.com/spiarh/webhook-cve-2022-0811 | 1 | 0| 
-| 20220321T10:01:34Z | Null | https://github.com/MohamedLinux/UpdateExploit | 0 | 0| 
-| 20220321T09:57:55Z | Exploiting a machine running Icecast via a buffer overflow vulnerability | https://github.com/TaylorTopp/Icecast-Header-Overflow_PenTest | 0 | 0| 
-| 20220321T09:09:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10893 | 1901| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T21:19:06Z | Null | https://github.com/Hattinger04/PythonBackdoor | 0 | 0| 
+| 20220321T20:26:05Z | get remote access to someone%s terminal and execute your commands there | https://github.com/theuithe0/backdoor | 0 | 0| 
+| 20220321T20:25:41Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 20 | 6| 
+| 20220321T19:32:34Z | Null | https://github.com/Gwinhen/PixelBackdoor | 0 | 0| 
 | 20220321T10:35:11Z | BACKDOOR WITH ONLY 2 LINES OF CODE (LINUX AND WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 2 | 0| 
 | 20220321T10:27:57Z | Null | https://github.com/TakXDLOL/BackDoor.Lua | 0 | 0| 
 | 20220321T10:15:59Z | backdoor that steals and control the victim%s computer, download files and send them to the attacker | https://github.com/tmcyberagent/BACKDOOR-LABORATORIO- | 1 | 0| 
-| 20220321T08:14:50Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 18 | 6| 
 | 20220321T06:54:08Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 441 | 86| 
 | 20220321T03:00:37Z | 主要针对联邦学习场景下的后门攻击，相关的文章整理 | https://github.com/zxccvdql/backdoor-defense-Document-arrangement | 0 | 0| 
 | 20220321T02:49:48Z | Null | https://github.com/code-backdoor/code-backdoor | 0 | 0| 
-| 20220321T00:56:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 138 | 35| 
-| 20220321T00:38:54Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 6246 | 1931| 
-| 20220320T22:39:24Z | A backdoor written in C# & Node.JS aiming to give console access to a targets machine. | https://github.com/kgsensei/CSharp-Backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T23:46:43Z | NBA Schedule and Score Scripts | https://github.com/Tyr314159/Fuzz_NBA | 0 | 0| 
+| 20220321T23:41:47Z | Null | https://github.com/TRUBDUBZ/fuzzy-spoon | 0 | 0| 
+| 20220321T23:18:50Z | Null | https://github.com/moovy2/fuzzy-doodle | 0 | 0| 
+| 20220321T21:59:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2569 | 518| 
+| 20220321T21:28:54Z | Null | https://github.com/loodzer/fuzzy-giggle | 0 | 0| 
+| 20220321T20:32:01Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 77 | 4| 
 | 20220321T11:40:24Z | Config files for my GitHub profile. | https://github.com/0FuzzBuzz/0FuzzBuzz | 0 | 0| 
 | 20220321T10:32:26Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 12 | 8| 
 | 20220321T10:31:29Z | Null | https://github.com/Ronittomar/fuzzy-octo-guacamole | 0 | 0| 
 | 20220321T09:58:06Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 358 | 65| 
-| 20220321T09:36:38Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1144 | 160| 
-| 20220321T08:46:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7202 | 1534| 
-| 20220321T07:46:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 528 | 57| 
-| 20220321T01:45:14Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 66 | 3| 
-| 20220321T01:39:14Z | Null | https://github.com/M1ndFl4y/fuzzing-lists | 0 | 0| 
-| 20220321T00:49:27Z | Null | https://github.com/RodriCM97/FuzzyLogic2DCarUnity3D | 0 | 0| 
 
 
 
