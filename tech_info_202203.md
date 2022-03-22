@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T12:50:38Z | Just some logs of a test run of the ExperimentRunner.py. See the repository format_fuzzer_experiments for more info | https://github.com/florian-university/fuzzbench-oss-fuzz-integration-logs | 0 | 0| 
 | 20220322T12:42:45Z | Null | https://github.com/FuzzyMonkeyCo/fuzzymonkey.co | 0 | 0| 
 | 20220322T12:30:47Z | Null | https://github.com/ewiqsoe/fuzzy-system | 0 | 0| 
 | 20220322T12:08:00Z | Null | https://github.com/Mohammad-Afzal786/fuzzy-lamp | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220322T07:47:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7203 | 1535| 
 | 20220322T01:54:41Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 81 | 4| 
 | 20220322T01:44:26Z | Stress Test tool to load test MANY networks | https://github.com/l-1-labs/many-fuzzy | 0 | 1| 
-| 20220322T00:36:20Z | Null | https://github.com/ainurnazirov/weather_fuzzy_logic | 0 | 0| 
 
 
 
