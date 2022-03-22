@@ -33,7 +33,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220321T23:37:20Z | cve-2022-22947 | Null | https://github.com/Enokiy/cve-2022-22947-springcloud-gateway | | 
 | 20220321T23:05:39Z | CVE-2020-6418 | Null | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | | 
-| 20220321T21:45:54Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220321T19:48:49Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
 | 20220321T19:45:01Z | cve-2022-0811 | Simple webhook to block exploitation of CVE-2022-0811 | https://github.com/spiarh/webhook-cve-2022-0811 | | 
 | 20220321T16:20:52Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
@@ -114,11 +113,11 @@
 | 20220321T23:18:50Z | Null | https://github.com/moovy2/fuzzy-doodle | 0 | 0| 
 | 20220321T21:59:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2569 | 518| 
 | 20220321T21:28:54Z | Null | https://github.com/loodzer/fuzzy-giggle | 0 | 0| 
-| 20220321T20:32:01Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 77 | 4| 
 | 20220321T11:40:24Z | Config files for my GitHub profile. | https://github.com/0FuzzBuzz/0FuzzBuzz | 0 | 0| 
 | 20220321T10:32:26Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 12 | 8| 
 | 20220321T10:31:29Z | Null | https://github.com/Ronittomar/fuzzy-octo-guacamole | 0 | 0| 
 | 20220321T09:58:06Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 358 | 65| 
+| 20220321T09:36:38Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1144 | 160| 
 
 
 
