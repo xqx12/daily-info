@@ -97,9 +97,9 @@
 | 20220322T09:06:06Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 5094 | 1457| 
 | 20220322T08:53:58Z | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | 1 | 1| 
 | 20220322T08:37:04Z | Null | https://github.com/santhosh-duraipandiyan/exploittube | 0 | 0| 
+| 20220322T06:39:58Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4109 | 1437| 
 | 20220322T06:36:13Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 92 | 17| 
 | 20220322T03:20:28Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 785 | 133| 
-| 20220322T01:48:52Z | Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126. | https://github.com/tremwil/ds3-nrssr-rce | 20 | 1| 
 
 
 # backdoor on Github 推荐
