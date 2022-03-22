@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T12:47:10Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 700 | 152| 
 | 20220322T11:36:55Z | Any web-application use apache struts or in backend Java. You can checkout there Vulnerability  | https://github.com/Amangupta1234/An-Exploit-for-Apache-Struts-RCE | 0 | 0| 
 | 20220322T11:11:23Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 607 | 51| 
 | 20220322T11:09:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1394 | 229| 
@@ -99,7 +100,6 @@
 | 20220322T08:37:04Z | Null | https://github.com/santhosh-duraipandiyan/exploittube | 0 | 0| 
 | 20220322T06:39:58Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4109 | 1437| 
 | 20220322T06:36:13Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 92 | 17| 
-| 20220322T03:20:28Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 785 | 133| 
 
 
 # backdoor on Github 推荐
