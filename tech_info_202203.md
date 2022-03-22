@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220322T00:11:21Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220321T23:37:20Z | cve-2022-22947 | Null | https://github.com/Enokiy/cve-2022-22947-springcloud-gateway | | 
 | 20220321T23:05:39Z | CVE-2020-6418 | Null | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | | 
 | 20220321T21:45:54Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
-| 20220321T21:08:41Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220321T19:48:49Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
 | 20220321T19:45:01Z | cve-2022-0811 | Simple webhook to block exploitation of CVE-2022-0811 | https://github.com/spiarh/webhook-cve-2022-0811 | | 
 | 20220321T16:20:52Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T00:04:15Z | Interactive exploit finder with ExploitAlert | https://github.com/HerculesRD/exFinder | 0 | 0| 
 | 20220321T22:10:38Z | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits!  | https://github.com/NathanTheIceCube/ProSploit-Hub | 0 | 0| 
 | 20220321T21:31:29Z | Null | https://github.com/EmanuelFirmino/shellshock-remote-code-execution-exploit | 0 | 0| 
 | 20220321T21:27:58Z | Null | https://github.com/Eddi0x/Silent-Exploit-DOC | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220321T18:53:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2507 | 302| 
 | 20220321T16:38:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10893 | 1901| 
 | 20220321T12:40:17Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 644 | 87| 
-| 20220321T12:32:26Z | Exploit for Apex Legends | https://github.com/Tymec/ApexLegendsExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
