@@ -80,13 +80,13 @@
 | 20220321T21:19:06Z | Null | https://github.com/Hattinger04/PythonBackdoor | 0 | 0| 
 | 20220321T20:26:05Z | get remote access to someone%s terminal and execute your commands there | https://github.com/theuithe0/backdoor | 0 | 0| 
 | 20220321T20:25:41Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 20 | 6| 
-| 20220321T19:32:34Z | Null | https://github.com/Gwinhen/PixelBackdoor | 0 | 0| 
 | 20220321T10:35:11Z | BACKDOOR WITH ONLY 2 LINES OF CODE (LINUX AND WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 2 | 0| 
 | 20220321T10:27:57Z | Null | https://github.com/TakXDLOL/BackDoor.Lua | 0 | 0| 
 | 20220321T10:15:59Z | backdoor that steals and control the victim%s computer, download files and send them to the attacker | https://github.com/tmcyberagent/BACKDOOR-LABORATORIO- | 1 | 0| 
 | 20220321T06:54:08Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 441 | 86| 
 | 20220321T03:00:37Z | 主要针对联邦学习场景下的后门攻击，相关的文章整理 | https://github.com/zxccvdql/backdoor-defense-Document-arrangement | 0 | 0| 
 | 20220321T02:49:48Z | Null | https://github.com/code-backdoor/code-backdoor | 0 | 0| 
+| 20220321T00:56:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 138 | 35| 
 
 
 # symbolic execution on Github 推荐
