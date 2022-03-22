@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T00:36:20Z | Null | https://github.com/ainurnazirov/weather_fuzzy_logic | 0 | 0| 
 | 20220321T23:46:43Z | NBA Schedule and Score Scripts | https://github.com/Tyr314159/Fuzz_NBA | 0 | 0| 
 | 20220321T23:41:47Z | Null | https://github.com/TRUBDUBZ/fuzzy-spoon | 0 | 0| 
 | 20220321T23:18:50Z | Null | https://github.com/moovy2/fuzzy-doodle | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220321T11:40:24Z | Config files for my GitHub profile. | https://github.com/0FuzzBuzz/0FuzzBuzz | 0 | 0| 
 | 20220321T10:32:26Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 12 | 8| 
 | 20220321T10:31:29Z | Null | https://github.com/Ronittomar/fuzzy-octo-guacamole | 0 | 0| 
-| 20220321T09:58:06Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 358 | 65| 
 
 
 
