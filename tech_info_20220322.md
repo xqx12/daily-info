@@ -48,9 +48,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T12:58:32Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 608 | 51| 
 | 20220322T12:47:10Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 700 | 152| 
 | 20220322T11:36:55Z | Any web-application use apache struts or in backend Java. You can checkout there Vulnerability  | https://github.com/Amangupta1234/An-Exploit-for-Apache-Struts-RCE | 0 | 0| 
-| 20220322T11:11:23Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 607 | 51| 
 | 20220322T11:09:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1394 | 229| 
 | 20220322T09:32:48Z | Null | https://github.com/topavankumarj/CORS-Exploit-Script | 31 | 13| 
 | 20220322T09:06:06Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 5094 | 1457| 
