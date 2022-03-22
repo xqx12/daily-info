@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220322T00:52:44Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 78 | 4| 
+| 20220322T01:38:03Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 79 | 4| 
 | 20220322T00:36:20Z | Null | https://github.com/ainurnazirov/weather_fuzzy_logic | 0 | 0| 
 | 20220321T23:46:43Z | NBA Schedule and Score Scripts | https://github.com/Tyr314159/Fuzz_NBA | 0 | 0| 
 | 20220321T23:41:47Z | Null | https://github.com/TRUBDUBZ/fuzzy-spoon | 0 | 0| 
