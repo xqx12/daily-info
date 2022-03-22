@@ -80,6 +80,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T11:29:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2571 | 518| 
+| 20220322T10:12:31Z | Null | https://github.com/FuzzyFade/FuzzyFade | 0 | 0| 
+| 20220322T07:47:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7203 | 1535| 
 | 20220322T01:54:41Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 81 | 4| 
 | 20220322T01:44:26Z | Stress Test tool to load test MANY networks | https://github.com/l-1-labs/many-fuzzy | 0 | 1| 
 | 20220322T00:36:20Z | Null | https://github.com/ainurnazirov/weather_fuzzy_logic | 0 | 0| 

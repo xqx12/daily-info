@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T11:29:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2571 | 518| 
+| 20220322T10:12:31Z | Null | https://github.com/FuzzyFade/FuzzyFade | 0 | 0| 
+| 20220322T07:47:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7203 | 1535| 
 | 20220322T01:54:41Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 81 | 4| 
 | 20220322T01:44:26Z | Stress Test tool to load test MANY networks | https://github.com/l-1-labs/many-fuzzy | 0 | 1| 
 | 20220322T00:36:20Z | Null | https://github.com/ainurnazirov/weather_fuzzy_logic | 0 | 0| 
 | 20220321T23:46:43Z | NBA Schedule and Score Scripts | https://github.com/Tyr314159/Fuzz_NBA | 0 | 0| 
 | 20220321T23:41:47Z | Null | https://github.com/TRUBDUBZ/fuzzy-spoon | 0 | 0| 
 | 20220321T23:18:50Z | Null | https://github.com/moovy2/fuzzy-doodle | 0 | 0| 
-| 20220321T21:59:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2569 | 518| 
 | 20220321T21:28:54Z | Null | https://github.com/loodzer/fuzzy-giggle | 0 | 0| 
-| 20220321T11:40:24Z | Config files for my GitHub profile. | https://github.com/0FuzzBuzz/0FuzzBuzz | 0 | 0| 
-| 20220321T10:32:26Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 12 | 8| 
 
 
 
