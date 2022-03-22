@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220321T23:55:39Z | Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126. | https://github.com/tremwil/ds3-nrssr-rce | 19 | 0| 
 | 20220321T22:10:38Z | A Very User-Friendly Roblox Exploit That Can Execute Scripts, Send Commands And Has Apps That Can Support Other Exploits!  | https://github.com/NathanTheIceCube/ProSploit-Hub | 0 | 0| 
 | 20220321T21:31:29Z | Null | https://github.com/EmanuelFirmino/shellshock-remote-code-execution-exploit | 0 | 0| 
 | 20220321T21:27:58Z | Null | https://github.com/Eddi0x/Silent-Exploit-DOC | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20220321T18:53:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2507 | 302| 
 | 20220321T16:38:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10893 | 1901| 
 | 20220321T12:40:17Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 644 | 87| 
-| 20220321T12:32:26Z | Exploit for Apex Legends | https://github.com/Tymec/ApexLegendsExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
