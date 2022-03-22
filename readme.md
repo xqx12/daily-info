@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T12:30:47Z | Null | https://github.com/ewiqsoe/fuzzy-system | 0 | 0| 
 | 20220322T12:08:00Z | Null | https://github.com/Mohammad-Afzal786/fuzzy-lamp | 0 | 0| 
 | 20220322T11:29:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2571 | 518| 
 | 20220322T10:12:31Z | Null | https://github.com/FuzzyFade/FuzzyFade | 0 | 0| 
