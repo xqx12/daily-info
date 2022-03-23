@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220322 | SecWiki周刊（第420期) | https://www.sec-wiki.com/weekly/420| 
 | 20220321 | 五十年跌宕起伏，恶意软件进化路 | https://mp.weixin.qq.com/s/hHaHePZWzG8shLNM2Suh5Q| 
 | 20220321 | 编写信息安全规划的几点经验 | https://mp.weixin.qq.com/s/EjFZ2wr5ynzhiqttVAm8ng| 
 | 20220320 | 利用抽象语法树挖掘Fastjson可用的Gadget | https://xz.aliyun.com/t/11001| 
@@ -40,28 +41,28 @@
 | 20220318 | 浏览网页就能泄露手机号的小秘密 | https://mp.weixin.qq.com/s/_bTunF9TXBUze8ewCM--Fg| 
 | 20220318 | 攻击面管理（ASM）技术详解和实现 | https://mp.weixin.qq.com/s/ZTNfI9SOKyAYvixuFfPMig| 
 | 20220318 | ATT&CK红队评估三套靶场渗透记录 | https://mp.weixin.qq.com/s/8s7l4TgcYb-CibfnQ6XhLA| 
-| 20220318 | 使用DNS Tunnel技术的Linux后门B1txor20 | https://mp.weixin.qq.com/s/qTOycSR7stc2CmRXMoGfoA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220322T12:44:24Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
+| 20220322T23:59:14Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
+| 20220322T19:01:59Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220322T14:14:21Z | CVE-2022-24990 | CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation | https://github.com/0xf4n9x/CVE-2022-24990 | | 
 | 20220322T10:38:20Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
-| 20220322T10:31:26Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220322T08:23:53Z | cve-2022-0811 | Simple webhook to block exploitation of CVE-2022-0811 | https://github.com/spiarh/webhook-cve-2022-0811 | | 
 | 20220322T07:07:58Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
 | 20220322T07:07:42Z | CVE-2021-43530 | CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 94. | https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | | 
 | 20220322T06:35:41Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/byteofandri/CVE-2021-20837 | | 
 | 20220322T04:21:40Z | CVE-2022-0824 | Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990. | https://github.com/cryst4lliz3/CVE-2022-0824 | | 
 | 20220321T23:37:20Z | cve-2022-22947 | Null | https://github.com/Enokiy/cve-2022-22947-springcloud-gateway | | 
-| 20220321T23:05:39Z | CVE-2020-6418 | Null | https://github.com/SivaPriyaRanganatha/CVE-2020-6418 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220322T11:46:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5548 | 202| 
+| 20220322T18:16:33Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
+| 20220322T14:31:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5553 | 202| 
 | 20220321T17:28:16Z | Null | https://github.com/adoumane/Kleene-Algebra | 0 | 0| 
 | 20220321T12:43:46Z | KLEE in the browser | https://github.com/klee/klee-web | 48 | 12| 
 | 20220321T12:43:37Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 34 | 38| 
@@ -70,14 +71,13 @@
 | 20220321T02:17:20Z | Null | https://github.com/youfantan/KleeBot | 1 | 0| 
 | 20220319T13:41:38Z | 可莉桌宠 | https://github.com/wuyongxiang/KLEE_Elf | 0 | 0| 
 | 20220317T20:17:36Z | IKPMD project made with Jetpack Compose. | https://github.com/Romano999/kleeren-jetpack-compose | 0 | 0| 
-| 20220317T16:01:11Z | In this project, we compared a symbolic executor, KLEE, and a black box fuzzing tool, radamsa, on their ability to find memory errors. | https://github.com/jacktrig/csce548Project1 | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T14:35:24Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 37 | 3| 
 | 20220321T12:49:50Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 210 | 48| 
-| 20220321T05:38:08Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 36 | 3| 
 | 20220320T07:32:21Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 79 | 38| 
 | 20220319T09:17:18Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 13 | 2| 
 | 20220315T12:37:25Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 13 | 15| 
@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T23:25:10Z | Automated -configuring a vulnerable system with CVE of my choice using Ansible and demonstrating the attack on that machine | https://github.com/shyambhanushali/AttackDefendExercise | 2 | 0| 
+| 20220322T22:56:29Z | Windows AppContainer Firewall Rules Security Feature Bypass Vulnerability CVE-2021-41338 Security Vulnerability Released: Oct 12, 2021  Assigning CNA: Microsoft MITRE CVE-2021-41338  CVSS:3.1 5.5 / 5.0 Attack Vector Local Attack Complexity Low Privileges Required Low User Interaction None Scope Unchanged Confidentiality High Integrity None Availability None Exploit Code Maturity Proof-of-Concept Remediation Level Official Fix Report Confidence Confirmed Please see Common Vulnerability Scoring System for more information on the definition of these metrics.  Exploitability The following table provides an exploitability assessment for this vulnerability at the time of original publication. Yes No Exploitation Less Likely | https://github.com/Mario-Kart-Felix/firewall-cve | 0 | 0| 
+| 20220322T22:13:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10905 | 1903| 
+| 20220322T21:42:58Z | General Purpouse Telegram Bot. Can act as a RAT, a post exploitation tool, or just as a core to your custom bot. | https://github.com/StringManolo/nbmxbsf | 1 | 0| 
+| 20220322T20:59:32Z | My Personal PS4 Exploit Host | https://github.com/marcussacana/JB672 | 0 | 0| 
+| 20220322T19:32:49Z | An automated BOT that completely controls your computer without you having to do anything while it exploits the site list you have prompted with a very fast speed. | https://github.com/Z3NTL3/WP-XPL0IT | 0 | 1| 
+| 20220322T19:00:05Z | Null | https://github.com/darkdev123/AtyeExploit | 0 | 0| 
 | 20220322T12:58:32Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 608 | 51| 
 | 20220322T12:47:10Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 700 | 152| 
 | 20220322T11:36:55Z | Any web-application use apache struts or in backend Java. You can checkout there Vulnerability  | https://github.com/Amangupta1234/An-Exploit-for-Apache-Struts-RCE | 0 | 0| 
-| 20220322T11:09:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1394 | 229| 
-| 20220322T09:32:48Z | Null | https://github.com/topavankumarj/CORS-Exploit-Script | 31 | 13| 
-| 20220322T09:06:06Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 5094 | 1457| 
-| 20220322T08:53:58Z | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | 1 | 1| 
-| 20220322T08:37:04Z | Null | https://github.com/santhosh-duraipandiyan/exploittube | 0 | 0| 
-| 20220322T06:39:58Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4109 | 1437| 
-| 20220322T06:36:13Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 92 | 17| 
 
 
 # backdoor on Github 推荐
