@@ -46,11 +46,11 @@
 | 20220323T12:21:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1431 | 231| 
 | 20220323T11:58:57Z | Null | https://github.com/simen-g/SQLi-exploitation-RL | 1 | 0| 
 | 20220323T11:53:14Z | 一个利用exported Activity的简单demo，目标apk来自https://github.com/dineshshetty/Android-InsecureBankv2 | https://github.com/Khoroamu/ActivityExploitingDemo | 0 | 0| 
+| 20220323T11:51:59Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3361 | 866| 
 | 20220323T10:28:00Z | Survant v1 is one of my exploits. | https://github.com/dusty99/Survant-V1 | 0 | 0| 
 | 20220323T10:18:30Z | my exploit smh. | https://github.com/dusty99/dusty | 0 | 0| 
 | 20220323T09:40:06Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 312 | 110| 
 | 20220323T05:10:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10907 | 1903| 
-| 20220323T02:49:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 346 | 101| 
 
 
 # backdoor on Github 推荐
