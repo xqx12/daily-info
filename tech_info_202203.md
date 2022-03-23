@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220323T00:23:48Z | JNX Exploit Free | https://github.com/SenMartinserna/JonyHacker | 0 | 0| 
 | 20220322T23:25:10Z | Automated -configuring a vulnerable system with CVE of my choice using Ansible and demonstrating the attack on that machine | https://github.com/shyambhanushali/AttackDefendExercise | 2 | 0| 
 | 20220322T22:56:29Z | Windows AppContainer Firewall Rules Security Feature Bypass Vulnerability CVE-2021-41338 Security Vulnerability Released: Oct 12, 2021  Assigning CNA: Microsoft MITRE CVE-2021-41338  CVSS:3.1 5.5 / 5.0 Attack Vector Local Attack Complexity Low Privileges Required Low User Interaction None Scope Unchanged Confidentiality High Integrity None Availability None Exploit Code Maturity Proof-of-Concept Remediation Level Official Fix Report Confidence Confirmed Please see Common Vulnerability Scoring System for more information on the definition of these metrics.  Exploitability The following table provides an exploitability assessment for this vulnerability at the time of original publication. Yes No Exploitation Less Likely | https://github.com/Mario-Kart-Felix/firewall-cve | 0 | 0| 
 | 20220322T22:13:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10905 | 1903| 
@@ -99,7 +100,6 @@
 | 20220322T19:00:05Z | Null | https://github.com/darkdev123/AtyeExploit | 0 | 0| 
 | 20220322T12:58:32Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 608 | 51| 
 | 20220322T12:47:10Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 700 | 152| 
-| 20220322T11:36:55Z | Any web-application use apache struts or in backend Java. You can checkout there Vulnerability  | https://github.com/Amangupta1234/An-Exploit-for-Apache-Struts-RCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
