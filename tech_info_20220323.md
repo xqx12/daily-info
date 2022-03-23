@@ -41,8 +41,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220323T12:21:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1431 | 231| 
 | 20220323T11:58:57Z | Null | https://github.com/simen-g/SQLi-exploitation-RL | 1 | 0| 
-| 20220323T11:58:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1430 | 231| 
 | 20220323T11:53:14Z | 一个利用exported Activity的简单demo，目标apk来自https://github.com/dineshshetty/Android-InsecureBankv2 | https://github.com/Khoroamu/ActivityExploitingDemo | 0 | 0| 
 | 20220323T10:28:00Z | Survant v1 is one of my exploits. | https://github.com/dusty99/Survant-V1 | 0 | 0| 
 | 20220323T10:18:30Z | my exploit smh. | https://github.com/dusty99/dusty | 0 | 0| 
