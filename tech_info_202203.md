@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220323T12:47:37Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220323T11:08:38Z | CVE-2021-4034 | Null | https://github.com/mtthwstffrd/berdav-CVE-2021-4034 | | 
 | 20220323T09:54:11Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
 | 20220323T09:49:11Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
-| 20220323T05:09:15Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220323T02:41:23Z | CVE-2022-24990 | CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation | https://github.com/0xf4n9x/CVE-2022-24990 | | 
 | 20220323T00:55:38Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
 | 20220322T10:38:20Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
