@@ -67,6 +67,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T21:58:42Z | 「🚪」The hidden hookless backdoor | https://github.com/MrEmpy/zoris | 1 | 0| 
+| 20220322T21:35:04Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 22 | 6| 
+| 20220322T16:21:02Z | Null | https://github.com/PharaOhms/backdoor | 0 | 0| 
 | 20220322T06:13:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 443 | 86| 
 | 20220322T00:58:50Z | Null | https://github.com/Gwinhen/PixelBackdoor | 1 | 0| 
 
@@ -74,6 +77,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T18:52:58Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 0 | 0| 
+| 20220322T14:35:24Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 37 | 3| 
+| 20220322T13:21:11Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 764 | 143| 
 
 
 # big4 on Github 推荐

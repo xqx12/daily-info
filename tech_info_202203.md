@@ -105,31 +105,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T21:58:42Z | 「🚪」The hidden hookless backdoor | https://github.com/MrEmpy/zoris | 1 | 0| 
+| 20220322T21:35:04Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 22 | 6| 
+| 20220322T16:21:02Z | Null | https://github.com/PharaOhms/backdoor | 0 | 0| 
 | 20220322T06:13:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 443 | 86| 
 | 20220322T00:58:50Z | Null | https://github.com/Gwinhen/PixelBackdoor | 1 | 0| 
 | 20220321T21:19:06Z | Null | https://github.com/Hattinger04/PythonBackdoor | 0 | 0| 
 | 20220321T20:26:05Z | get remote access to someone%s terminal and execute your commands there | https://github.com/theuithe0/backdoor | 0 | 0| 
-| 20220321T20:25:41Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 20 | 6| 
 | 20220321T10:35:11Z | BACKDOOR WITH ONLY 2 LINES OF CODE (LINUX AND WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 2 | 0| 
 | 20220321T10:27:57Z | Null | https://github.com/TakXDLOL/BackDoor.Lua | 0 | 0| 
 | 20220321T10:15:59Z | backdoor that steals and control the victim%s computer, download files and send them to the attacker | https://github.com/tmcyberagent/BACKDOOR-LABORATORIO- | 1 | 0| 
-| 20220321T03:00:37Z | 主要针对联邦学习场景下的后门攻击，相关的文章整理 | https://github.com/zxccvdql/backdoor-defense-Document-arrangement | 0 | 0| 
-| 20220321T02:49:48Z | Null | https://github.com/code-backdoor/code-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220322T18:52:58Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 0 | 0| 
+| 20220322T14:35:24Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 37 | 3| 
+| 20220322T13:21:11Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 764 | 143| 
 | 20220321T12:49:50Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 210 | 48| 
 | 20220321T10:23:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 256 | 17| 
 | 20220321T10:15:40Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/AnonymousSEMA/SEMA-ToolChain | 0 | 0| 
 | 20220321T07:04:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1913 | 546| 
-| 20220321T05:38:08Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 36 | 3| 
-| 20220320T00:29:34Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 765 | 143| 
 | 20220318T11:59:14Z | Symbolica%s open-source symbolic execution engine. | https://github.com/Symbolica/Symbolica | 50 | 4| 
 | 20220317T20:32:36Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 174 | 36| 
 | 20220317T09:34:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2757 | 402| 
-| 20220316T18:35:03Z | A KQuery parser for KLEE KQuery. Tool for KLEE symbolic execution enthusiasts. | https://github.com/lahiri-phdworks/KLEE-KQueryParser | 0 | 0| 
 
 
 # big4 on Github 推荐
