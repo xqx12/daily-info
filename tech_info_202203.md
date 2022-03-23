@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220323 | Windows驱动签名经验贴 | https://yunshanwuyin.com/BlogDetail?Id=2rw2depz3jhghnskrsg9874p| 
+| 20220323 | 初探Shellcode免杀 | https://yunshanwuyin.com/BlogDetail?Id=thutgzhvtyyn4ezxzps6kcfu| 
 | 20220322 | SecWiki周刊（第420期) | https://www.sec-wiki.com/weekly/420| 
 | 20220321 | 五十年跌宕起伏，恶意软件进化路 | https://mp.weixin.qq.com/s/hHaHePZWzG8shLNM2Suh5Q| 
 | 20220321 | 编写信息安全规划的几点经验 | https://mp.weixin.qq.com/s/EjFZ2wr5ynzhiqttVAm8ng| 
@@ -39,35 +41,33 @@
 | 20220318 | 浅谈数据安全 | https://mp.weixin.qq.com/s/vTRfFHXaodbGyNCoT-h0zw| 
 | 20220318 | 利用服务网格为基于微服务的应用程序实施 DevSecOps | https://jimmysong.io/service-mesh-devsecops/| 
 | 20220318 | 浏览网页就能泄露手机号的小秘密 | https://mp.weixin.qq.com/s/_bTunF9TXBUze8ewCM--Fg| 
-| 20220318 | 攻击面管理（ASM）技术详解和实现 | https://mp.weixin.qq.com/s/ZTNfI9SOKyAYvixuFfPMig| 
-| 20220318 | ATT&CK红队评估三套靶场渗透记录 | https://mp.weixin.qq.com/s/8s7l4TgcYb-CibfnQ6XhLA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220323T01:15:18Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220323T11:08:38Z | CVE-2021-4034 | Null | https://github.com/mtthwstffrd/berdav-CVE-2021-4034 | | 
+| 20220323T09:54:11Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
+| 20220323T09:49:11Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
+| 20220323T05:09:15Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220323T02:41:23Z | CVE-2022-24990 | CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation | https://github.com/0xf4n9x/CVE-2022-24990 | | 
 | 20220323T00:55:38Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
-| 20220322T23:59:14Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
-| 20220322T14:14:21Z | CVE-2022-24990 | CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation | https://github.com/0xf4n9x/CVE-2022-24990 | | 
 | 20220322T10:38:20Z | CVE-2022-0543 | Redis沙盒逃逸漏洞复现(CVE-2022-0543) | https://github.com/Newbee740/REDIS-CVE-2022-0543 | | 
 | 20220322T08:23:53Z | cve-2022-0811 | Simple webhook to block exploitation of CVE-2022-0811 | https://github.com/spiarh/webhook-cve-2022-0811 | | 
-| 20220322T07:07:58Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
 | 20220322T07:07:42Z | CVE-2021-43530 | CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 94. | https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | | 
 | 20220322T06:35:41Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/byteofandri/CVE-2021-20837 | | 
-| 20220322T04:21:40Z | CVE-2022-0824 | Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990. | https://github.com/cryst4lliz3/CVE-2022-0824 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220323T10:13:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5556 | 203| 
+| 20220323T06:36:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1914 | 546| 
 | 20220322T18:16:33Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
-| 20220322T14:31:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5553 | 202| 
 | 20220321T17:28:16Z | Null | https://github.com/adoumane/Kleene-Algebra | 0 | 0| 
 | 20220321T12:43:46Z | KLEE in the browser | https://github.com/klee/klee-web | 48 | 12| 
 | 20220321T12:43:37Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 34 | 38| 
 | 20220321T09:32:17Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 36 | 5| 
-| 20220321T07:04:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1913 | 546| 
 | 20220321T02:17:20Z | Null | https://github.com/youfantan/KleeBot | 1 | 0| 
 | 20220319T13:41:38Z | 可莉桌宠 | https://github.com/wuyongxiang/KLEE_Elf | 0 | 0| 
 | 20220317T20:17:36Z | IKPMD project made with Jetpack Compose. | https://github.com/Romano999/kleeren-jetpack-compose | 0 | 0| 
@@ -90,26 +90,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220323T01:25:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10906 | 1903| 
+| 20220323T11:58:57Z | Null | https://github.com/simen-g/SQLi-exploitation-RL | 1 | 0| 
+| 20220323T11:58:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1430 | 231| 
+| 20220323T11:53:14Z | 一个利用exported Activity的简单demo，目标apk来自https://github.com/dineshshetty/Android-InsecureBankv2 | https://github.com/Khoroamu/ActivityExploitingDemo | 0 | 0| 
+| 20220323T10:28:00Z | Survant v1 is one of my exploits. | https://github.com/dusty99/Survant-V1 | 0 | 0| 
+| 20220323T10:18:30Z | my exploit smh. | https://github.com/dusty99/dusty | 0 | 0| 
+| 20220323T05:10:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10907 | 1903| 
+| 20220323T02:49:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 346 | 101| 
 | 20220323T00:48:25Z | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | 0 | 0| 
 | 20220323T00:23:48Z | JNX Exploit Free | https://github.com/SenMartinserna/JonyHacker | 0 | 0| 
 | 20220322T23:25:10Z | Automated -configuring a vulnerable system with CVE of my choice using Ansible and demonstrating the attack on that machine | https://github.com/shyambhanushali/AttackDefendExercise | 2 | 0| 
-| 20220322T22:56:29Z | Windows AppContainer Firewall Rules Security Feature Bypass Vulnerability CVE-2021-41338 Security Vulnerability Released: Oct 12, 2021  Assigning CNA: Microsoft MITRE CVE-2021-41338  CVSS:3.1 5.5 / 5.0 Attack Vector Local Attack Complexity Low Privileges Required Low User Interaction None Scope Unchanged Confidentiality High Integrity None Availability None Exploit Code Maturity Proof-of-Concept Remediation Level Official Fix Report Confidence Confirmed Please see Common Vulnerability Scoring System for more information on the definition of these metrics.  Exploitability The following table provides an exploitability assessment for this vulnerability at the time of original publication. Yes No Exploitation Less Likely | https://github.com/Mario-Kart-Felix/firewall-cve | 0 | 0| 
-| 20220322T21:42:58Z | General Purpouse Telegram Bot. Can act as a RAT, a post exploitation tool, or just as a core to your custom bot. | https://github.com/StringManolo/nbmxbsf | 1 | 0| 
-| 20220322T20:59:32Z | My Personal PS4 Exploit Host | https://github.com/marcussacana/JB672 | 0 | 0| 
-| 20220322T19:32:49Z | An automated BOT that completely controls your computer without you having to do anything while it exploits the site list you have prompted with a very fast speed. | https://github.com/Z3NTL3/WP-XPL0IT | 0 | 1| 
-| 20220322T19:00:05Z | Null | https://github.com/darkdev123/AtyeExploit | 0 | 0| 
-| 20220322T14:33:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 32 | 19| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220323T01:54:24Z | Soul Console: A simple backdoor console (3 options) to start pentesting and experimenting | https://github.com/no1638/soulconsole | 0 | 0| 
+| 20220323T10:03:01Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 25 | 6| 
+| 20220323T03:17:44Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 444 | 86| 
+| 20220323T02:11:35Z | Soul Console: A simple backdoor console (3 options) to start pentesting and experimenting | https://github.com/no1638/soulconsole | 0 | 0| 
 | 20220322T21:58:42Z | 「🚪」The hidden hookless backdoor | https://github.com/MrEmpy/zoris | 1 | 0| 
-| 20220322T21:35:04Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 22 | 6| 
 | 20220322T16:21:02Z | Null | https://github.com/PharaOhms/backdoor | 0 | 0| 
-| 20220322T06:13:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 443 | 86| 
 | 20220322T00:58:50Z | Null | https://github.com/Gwinhen/PixelBackdoor | 1 | 0| 
 | 20220321T21:19:06Z | Null | https://github.com/Hattinger04/PythonBackdoor | 0 | 0| 
 | 20220321T20:26:05Z | get remote access to someone%s terminal and execute your commands there | https://github.com/theuithe0/backdoor | 0 | 0| 
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220323T11:50:32Z | Fuzzy Logic AI project made in school in 2019. Can%t find the documentation anymore | https://github.com/Pit14/fuzzy_logic_school_project_2019 | 0 | 0| 
+| 20220323T11:27:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2572 | 518| 
+| 20220323T11:21:56Z | Null | https://github.com/bennofs/oss-fuzz-repo-store | 0 | 0| 
+| 20220323T10:17:35Z | A sample project for OSS-FUZZ to test its functionalities (e.g. filing/closing issues). | https://github.com/Alan32Liu/github-scarecrow | 0 | 0| 
+| 20220323T09:36:18Z | Null | https://github.com/cysec-lab/verified-edr-fuzzing | 0 | 0| 
+| 20220323T09:31:29Z | Null | https://github.com/xfuzzable/dde-fuzz | 0 | 0| 
+| 20220323T09:14:09Z | Null | https://github.com/sachintembhurne/fuzzapi | 0 | 0| 
+| 20220323T08:05:03Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 54 | 9| 
 | 20220323T01:38:18Z | Null | https://github.com/amandaewerick/fuzzy-guide | 0 | 0| 
 | 20220323T01:04:35Z | Bringing Back My Memory | https://github.com/BlueJeanGamerGirl/fuzzy-octo-invention | 0 | 0| 
-| 20220323T00:41:03Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 0 | 1| 
-| 20220322T23:33:33Z | Null | https://github.com/theapplegates/fuzzy-journey-gatfoundation | 0 | 0| 
-| 20220322T23:24:33Z | Null | https://github.com/edwinprakashgmailcom/fuzzy-pancake | 0 | 0| 
-| 20220322T23:09:48Z | Null | https://github.com/Nilnim/tal-fuzzy-waffle | 0 | 0| 
-| 20220322T22:28:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7204 | 1535| 
-| 20220322T22:26:59Z | Lists to use in fuzzing software | https://github.com/RiversideRocks/FuzzingLists | 1 | 0| 
-| 20220322T21:17:46Z | K Means ve Fuzzy C Means Algoritmalarını kullanarak işlemlerin yapılmaya çalışıldığı algoritma kısa projeleridir. | https://github.com/ozgegcr/KmeansAndFuzzyCMeansAlgorithms | 0 | 0| 
-| 20220322T12:53:45Z | Null | https://github.com/LadiaRahmahati/fuzzy-database | 0 | 0| 
 
 
 
