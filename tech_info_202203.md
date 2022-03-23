@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220323T01:54:24Z | Soul Console: A simple backdoor console (3 options) to start pentesting and experimenting | https://github.com/no1638/soulconsole | 0 | 0| 
 | 20220322T21:58:42Z | 「🚪」The hidden hookless backdoor | https://github.com/MrEmpy/zoris | 1 | 0| 
 | 20220322T21:35:04Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 22 | 6| 
 | 20220322T16:21:02Z | Null | https://github.com/PharaOhms/backdoor | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20220321T20:26:05Z | get remote access to someone%s terminal and execute your commands there | https://github.com/theuithe0/backdoor | 0 | 0| 
 | 20220321T10:35:11Z | BACKDOOR WITH ONLY 2 LINES OF CODE (LINUX AND WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 2 | 0| 
 | 20220321T10:27:57Z | Null | https://github.com/TakXDLOL/BackDoor.Lua | 0 | 0| 
-| 20220321T10:15:59Z | backdoor that steals and control the victim%s computer, download files and send them to the attacker | https://github.com/tmcyberagent/BACKDOOR-LABORATORIO- | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
