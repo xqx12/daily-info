@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220323T00:48:25Z | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | 0 | 0| 
 | 20220323T00:23:48Z | JNX Exploit Free | https://github.com/SenMartinserna/JonyHacker | 0 | 0| 
 | 20220322T23:25:10Z | Automated -configuring a vulnerable system with CVE of my choice using Ansible and demonstrating the attack on that machine | https://github.com/shyambhanushali/AttackDefendExercise | 2 | 0| 
 | 20220322T22:56:29Z | Windows AppContainer Firewall Rules Security Feature Bypass Vulnerability CVE-2021-41338 Security Vulnerability Released: Oct 12, 2021  Assigning CNA: Microsoft MITRE CVE-2021-41338  CVSS:3.1 5.5 / 5.0 Attack Vector Local Attack Complexity Low Privileges Required Low User Interaction None Scope Unchanged Confidentiality High Integrity None Availability None Exploit Code Maturity Proof-of-Concept Remediation Level Official Fix Report Confidence Confirmed Please see Common Vulnerability Scoring System for more information on the definition of these metrics.  Exploitability The following table provides an exploitability assessment for this vulnerability at the time of original publication. Yes No Exploitation Less Likely | https://github.com/Mario-Kart-Felix/firewall-cve | 0 | 0| 
@@ -98,8 +99,7 @@
 | 20220322T20:59:32Z | My Personal PS4 Exploit Host | https://github.com/marcussacana/JB672 | 0 | 0| 
 | 20220322T19:32:49Z | An automated BOT that completely controls your computer without you having to do anything while it exploits the site list you have prompted with a very fast speed. | https://github.com/Z3NTL3/WP-XPL0IT | 0 | 1| 
 | 20220322T19:00:05Z | Null | https://github.com/darkdev123/AtyeExploit | 0 | 0| 
-| 20220322T12:58:32Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 608 | 51| 
-| 20220322T12:47:10Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 700 | 152| 
+| 20220322T14:33:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 32 | 19| 
 
 
 # backdoor on Github 推荐

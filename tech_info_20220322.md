@@ -59,9 +59,9 @@
 | 20220322T20:59:32Z | My Personal PS4 Exploit Host | https://github.com/marcussacana/JB672 | 0 | 0| 
 | 20220322T19:32:49Z | An automated BOT that completely controls your computer without you having to do anything while it exploits the site list you have prompted with a very fast speed. | https://github.com/Z3NTL3/WP-XPL0IT | 0 | 1| 
 | 20220322T19:00:05Z | Null | https://github.com/darkdev123/AtyeExploit | 0 | 0| 
+| 20220322T14:33:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 32 | 19| 
 | 20220322T12:58:32Z | 🦄🔒 Awesome list of secrets in environment variables 🖥️ | https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables | 608 | 51| 
 | 20220322T12:47:10Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 700 | 152| 
-| 20220322T11:36:55Z | Any web-application use apache struts or in backend Java. You can checkout there Vulnerability  | https://github.com/Amangupta1234/An-Exploit-for-Apache-Struts-RCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
