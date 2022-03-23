@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220323T12:28:56Z | Pencrypt: a Framework for Web, Linux, Windows Pentesting and Cryptographic Operations, Exploit Development and Reverse Engineering, Malware Analysis | https://github.com/RashidKhanPathan/Pencrypt-Framework | 0 | 0| 
 | 20220323T12:21:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1431 | 231| 
 | 20220323T11:58:57Z | Null | https://github.com/simen-g/SQLi-exploitation-RL | 1 | 0| 
 | 20220323T11:53:14Z | 一个利用exported Activity的简单demo，目标apk来自https://github.com/dineshshetty/Android-InsecureBankv2 | https://github.com/Khoroamu/ActivityExploitingDemo | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220323T02:49:35Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 346 | 101| 
 | 20220323T00:48:25Z | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | 0 | 0| 
 | 20220323T00:23:48Z | JNX Exploit Free | https://github.com/SenMartinserna/JonyHacker | 0 | 0| 
-| 20220322T23:25:10Z | Automated -configuring a vulnerable system with CVE of my choice using Ansible and demonstrating the attack on that machine | https://github.com/shyambhanushali/AttackDefendExercise | 2 | 0| 
 
 
 # backdoor on Github 推荐
