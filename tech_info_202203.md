@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220323T00:30:26Z | Null | https://github.com/TokTok/toktok-fuzzer | 0 | 1| 
+| 20220323T00:41:03Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 0 | 1| 
 | 20220322T23:33:33Z | Null | https://github.com/theapplegates/fuzzy-journey-gatfoundation | 0 | 0| 
 | 20220322T23:24:33Z | Null | https://github.com/edwinprakashgmailcom/fuzzy-pancake | 0 | 0| 
 | 20220322T23:09:48Z | Null | https://github.com/Nilnim/tal-fuzzy-waffle | 0 | 0| 
