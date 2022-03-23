@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220323T00:55:38Z | CVE-2022-24087 | CVE-2022-24086 and CVE-2022-24087 exploits proof of concept | https://github.com/Sam00rx/CVE-2022-24087 | | 
 | 20220322T23:59:14Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220322T19:01:59Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220322T14:14:21Z | CVE-2022-24990 | CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation | https://github.com/0xf4n9x/CVE-2022-24990 | | 
@@ -55,7 +56,6 @@
 | 20220322T07:07:42Z | CVE-2021-43530 | CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 94. | https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | | 
 | 20220322T06:35:41Z | CVE-2021-20837 | XMLRPC  - RCE in MovableTypePoC | https://github.com/byteofandri/CVE-2021-20837 | | 
 | 20220322T04:21:40Z | CVE-2022-0824 | Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990. | https://github.com/cryst4lliz3/CVE-2022-0824 | | 
-| 20220321T23:37:20Z | cve-2022-22947 | Null | https://github.com/Enokiy/cve-2022-22947-springcloud-gateway | | 
 
 
 # klee on Github 推荐
