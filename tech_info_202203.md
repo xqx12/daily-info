@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220323T12:47:37Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220323T14:57:26Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
 | 20220323T11:08:38Z | CVE-2021-4034 | Null | https://github.com/mtthwstffrd/berdav-CVE-2021-4034 | | 
 | 20220323T09:54:11Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
 | 20220323T09:49:11Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220323T12:38:48Z | Pencrypt: a Framework for Web, Linux, Windows Pentesting and Cryptographic Operations, Exploit Development and Reverse Engineering, Malware Analysis | https://github.com/RashidKhanPathan/Pencrypt-The-Pentesting-Framework | 0 | 0| 
-| 20220323T12:28:56Z | Pencrypt: a Framework for Web, Linux, Windows Pentesting and Cryptographic Operations, Exploit Development and Reverse Engineering, Malware Analysis | https://github.com/RashidKhanPathan/Pencrypt-Framework | 0 | 0| 
-| 20220323T12:21:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1431 | 231| 
-| 20220323T11:58:57Z | Null | https://github.com/simen-g/SQLi-exploitation-RL | 1 | 0| 
-| 20220323T11:53:14Z | 一个利用exported Activity的简单demo，目标apk来自https://github.com/dineshshetty/Android-InsecureBankv2 | https://github.com/Khoroamu/ActivityExploitingDemo | 0 | 0| 
-| 20220323T11:51:59Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3361 | 866| 
-| 20220323T10:28:00Z | Survant v1 is one of my exploits. | https://github.com/dusty99/Survant-V1 | 0 | 0| 
-| 20220323T10:18:30Z | my exploit smh. | https://github.com/dusty99/dusty | 0 | 0| 
-| 20220323T09:40:06Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 312 | 110| 
-| 20220323T05:10:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10907 | 1903| 
+| 20220323T23:52:10Z | well some exploits or vulnerabilityes (i spelled at least one of those words wrong) | https://github.com/TerrificTable/vulnerabilities_exploits | 0 | 0| 
+| 20220323T23:17:13Z | Null | https://github.com/bugbountyrepo/netfilter-exploit | 0 | 0| 
+| 20220323T22:50:45Z | Boilerplate for Selenium-based exploit automation | https://github.com/ApprenticeofEnder/Selenium-Oxide | 0 | 0| 
+| 20220323T22:46:34Z | Null | https://github.com/Jack7988/Silent-Excel-Exploit-2022 | 0 | 0| 
+| 20220323T20:59:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2524 | 306| 
+| 20220323T20:49:55Z | A technique to run binaries filelessly and stealthily on Linux by tricking dd into exploiting itself. | https://github.com/arget13/DDexec | 25 | 0| 
+| 20220323T20:10:57Z | Exploit the unguarded buffer to overwrite the return address in the stack pointer and print the flag. | https://github.com/kamue1a/bufferOverflowCTF | 0 | 0| 
+| 20220323T18:06:45Z | Dirtypipe check and exploit written in c | https://github.com/souzomain/dirtypipe | 0 | 0| 
+| 20220323T17:19:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 348 | 101| 
+| 20220323T17:01:41Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 93 | 17| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220323T21:58:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 445 | 86| 
+| 20220323T15:07:22Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 21 | 16| 
+| 20220323T13:49:02Z | Null | https://github.com/CarlosAllberto/KivyBackdoor | 0 | 0| 
 | 20220323T10:03:01Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 25 | 6| 
-| 20220323T03:17:44Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 444 | 86| 
 | 20220323T02:11:35Z | Soul Console: A simple backdoor console (3 options) to start pentesting and experimenting | https://github.com/no1638/soulconsole | 0 | 0| 
 | 20220322T21:58:42Z | 「🚪」The hidden hookless backdoor | https://github.com/MrEmpy/zoris | 1 | 0| 
 | 20220322T16:21:02Z | Null | https://github.com/PharaOhms/backdoor | 0 | 0| 
 | 20220322T00:58:50Z | Null | https://github.com/Gwinhen/PixelBackdoor | 1 | 0| 
 | 20220321T21:19:06Z | Null | https://github.com/Hattinger04/PythonBackdoor | 0 | 0| 
 | 20220321T20:26:05Z | get remote access to someone%s terminal and execute your commands there | https://github.com/theuithe0/backdoor | 0 | 0| 
-| 20220321T10:35:11Z | BACKDOOR WITH ONLY 2 LINES OF CODE (LINUX AND WINDOWS) | https://github.com/tmcyberagent/REVERSE_SHELL-CON-NCAT | 2 | 0| 
-| 20220321T10:27:57Z | Null | https://github.com/TakXDLOL/BackDoor.Lua | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220323T23:39:47Z | dictionaries for fuzzing with AFL++ | https://github.com/raincoats/afl-fuzz-dictionaries | 0 | 0| 
+| 20220323T22:56:12Z | Null | https://github.com/kyledeer-32/vba_fuzzymatching | 0 | 0| 
+| 20220323T21:37:31Z | A collection of fuzzy cluster validity indices in the R language. | https://github.com/fernandase/fuzzy-cluster-validity-indices | 1 | 0| 
+| 20220323T20:58:37Z | WinForms application for parsing html pages using HTML Agility Pack | https://github.com/y0nkers/fuzzy-fortnight | 0 | 0| 
+| 20220323T20:44:06Z | A Fuzzy Distance-based Ensemble of Deep Models for Cervical Cancer Detection accepted in Computer Methods and Programs in Biomedicine, Elsevier | https://github.com/rishavpramanik/CervicalFuzzyDistanceEnsemble | 0 | 0| 
+| 20220323T20:34:59Z | Null | https://github.com/themehskee/fuzzy-octo-garbanzo | 0 | 0| 
 | 20220323T11:50:32Z | Fuzzy Logic AI project made in school in 2019. Can%t find the documentation anymore | https://github.com/Pit14/fuzzy_logic_school_project_2019 | 0 | 0| 
 | 20220323T11:27:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2572 | 518| 
+| 20220323T11:23:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7205 | 1535| 
 | 20220323T11:21:56Z | Null | https://github.com/bennofs/oss-fuzz-repo-store | 0 | 0| 
-| 20220323T10:17:35Z | A sample project for OSS-FUZZ to test its functionalities (e.g. filing/closing issues). | https://github.com/Alan32Liu/github-scarecrow | 0 | 0| 
-| 20220323T09:36:18Z | Null | https://github.com/cysec-lab/verified-edr-fuzzing | 0 | 0| 
-| 20220323T09:31:29Z | Null | https://github.com/xfuzzable/dde-fuzz | 0 | 0| 
-| 20220323T09:14:09Z | Null | https://github.com/sachintembhurne/fuzzapi | 0 | 0| 
-| 20220323T08:05:03Z | Alphalog 更快、更安全。支持完全匿名 产品(fuzz.red) | https://github.com/AlphabugX/Alphalog | 54 | 9| 
-| 20220323T01:38:18Z | Null | https://github.com/amandaewerick/fuzzy-guide | 0 | 0| 
-| 20220323T01:04:35Z | Bringing Back My Memory | https://github.com/BlueJeanGamerGirl/fuzzy-octo-invention | 0 | 0| 
 
 
 
