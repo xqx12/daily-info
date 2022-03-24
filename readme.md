@@ -96,13 +96,13 @@
 | 20220324T12:30:24Z | 我的人生哲學思想家金融機構的網站查詢電話是否有點太多了，我方將領被害人，我方派出幽冥飛船進入快樂星球🌍人都是我的朋友們一起創世紀帝國主義列強簽訂合作協議，我的朋友可以參考一下通過✅三讀通過✅夢想成真 | https://github.com/N226335735/fuzzy-invention | 1 | 0| 
 | 20220324T12:26:44Z | Variation of american fuzzy lop for testing compilers for C-like languages, revised by Alex Groce, Rijnard van Tonder, & collaborators to fuzz tools processing source code in C-like languages | https://github.com/agroce/afl-compiler-fuzzer | 79 | 8| 
 | 20220324T12:26:25Z | Null | https://github.com/nicolascechinel/sghFuzzy | 0 | 0| 
+| 20220324T11:47:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7207 | 1535| 
 | 20220324T10:19:19Z | Null | https://github.com/dende/unibn-cybersec-fuzzing | 0 | 0| 
 | 20220324T09:46:38Z | Null | https://github.com/dentednerd/fuzzy-octo-waffle | 0 | 0| 
 | 20220324T09:23:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4043 | 961| 
 | 20220324T08:51:37Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 529 | 57| 
 | 20220324T08:18:49Z | This design, called MOU, combines flexibility, magnetism and light to form an adorable and incredibly versatile lamp you can use almost anywhere! A unique material blend of soft felt, elastic, wood and plastic, the design can be twisted and turned to the user’s liking or depending on necessity. Mount it on the wall with the magnetic base to highlight your favorite art, or stand it up on your desk for working. Leave it plugged in or take it with you wirelessly thanks to its USB charging system. DO WANT! | https://github.com/TrishanaRuchi/fuzzy-lamp | 0 | 0| 
 | 20220324T00:43:37Z | Null | https://github.com/Anddy123/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
-| 20220324T00:08:20Z | Null | https://github.com/Micr067/Packer-Fuzzer | 0 | 0| 
 
 
 
