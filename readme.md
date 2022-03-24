@@ -15,6 +15,8 @@
 | 20220324 | AMI UsbRt 代码执行漏洞(INTEL-SA-00057)分析 | http://binarly.io/posts/AMI_UsbRt_Repeatable_Failures_A_6_year_old_attack_vector_still_affecting_millions_of_enterprise_devices/index.html| 
 | 20220324 | Lapsus$ 组织通过员工账号窃取了微软 Azure DevOps 的项目源码 | https://threatpost.com/microsoft-lapsus-compromised-one-employees-account/179048/| 
 | 20220324 | 商业数字证书签发和使用情况简介 | https://blog.netlab.360.com/shu-zi-zheng-shu-zuo-wei-ji-chu-she-shi-de-shi-yong-qing-kuang-fen-xi/| 
+| 20220324 | 利用 gateway-api 攻击 kubernetes. | https://paper.seebug.org/1859/| 
+| 20220324 | 毒蛇，禁止滑动 ! 新的后门攻击法国实体. | https://paper.seebug.org/1852/| 
 
 
 # 安全维基 推荐
