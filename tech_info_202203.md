@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220324T00:43:37Z | Null | https://github.com/Anddy123/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
 | 20220324T00:08:20Z | Null | https://github.com/Micr067/Packer-Fuzzer | 0 | 0| 
 | 20220323T23:39:47Z | dictionaries for fuzzing with AFL++ | https://github.com/raincoats/afl-fuzz-dictionaries | 0 | 0| 
 | 20220323T22:56:12Z | Null | https://github.com/kyledeer-32/vba_fuzzymatching | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220323T20:34:59Z | Null | https://github.com/themehskee/fuzzy-octo-garbanzo | 0 | 0| 
 | 20220323T11:50:32Z | Fuzzy Logic AI project made in school in 2019. Can%t find the documentation anymore | https://github.com/Pit14/fuzzy_logic_school_project_2019 | 0 | 0| 
 | 20220323T11:27:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2572 | 518| 
-| 20220323T11:23:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7205 | 1535| 
 
 
 
