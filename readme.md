@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220324T12:06:55Z | A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments. | https://github.com/alexander-fernandes/CVE-2019-16278 | 0 | 0| 
 | 20220324T10:54:44Z | First flutter application. he integrate api github exploit, integrate drawer, integrate search and call must pages for gestion | https://github.com/dietrich-hub/first_flutter_app | 0 | 0| 
 | 20220324T10:26:26Z | Null | https://github.com/cyber-cafe-org/exploits | 0 | 0| 
 | 20220324T10:10:46Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 703 | 154| 
@@ -66,7 +67,6 @@
 | 20220324T08:17:56Z | wrote / modified some scripts to do shady shit on the internet | https://github.com/6lyxt/collection-of-exploits | 1 | 0| 
 | 20220324T07:28:05Z | Null | https://github.com/mirailovers/exploits | 0 | 0| 
 | 20220324T04:59:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10911 | 1903| 
-| 20220324T04:54:09Z | Deployement of Webmin version 1.984 which is vulnerable to authenticated remote code execution exploit. | https://github.com/cryst4lliz3/CVE-2022-0824 | 0 | 0| 
 
 
 # backdoor on Github 推荐
