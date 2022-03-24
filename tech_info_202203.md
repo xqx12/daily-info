@@ -95,11 +95,11 @@
 | 20220324T12:12:17Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 704 | 154| 
 | 20220324T10:54:44Z | First flutter application. he integrate api github exploit, integrate drawer, integrate search and call must pages for gestion | https://github.com/dietrich-hub/first_flutter_app | 0 | 0| 
 | 20220324T10:26:26Z | Null | https://github.com/cyber-cafe-org/exploits | 0 | 0| 
+| 20220324T10:20:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2529 | 307| 
 | 20220324T09:26:03Z | for mass exploiting | https://github.com/jm33-m0/mec | 480 | 154| 
 | 20220324T09:17:20Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 350 | 101| 
 | 20220324T08:46:18Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/crystal1017ch/anyaschukinc | 0 | 0| 
 | 20220324T08:17:56Z | wrote / modified some scripts to do shady shit on the internet | https://github.com/6lyxt/collection-of-exploits | 1 | 0| 
-| 20220324T07:28:05Z | Null | https://github.com/mirailovers/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
