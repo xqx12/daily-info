@@ -90,8 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220324T12:25:16Z | A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments. | https://github.com/alexander-fernandes/CVE-2019-16278 | 0 | 0| 
 | 20220324T12:12:17Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 704 | 154| 
-| 20220324T12:06:55Z | A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments. | https://github.com/alexander-fernandes/CVE-2019-16278 | 0 | 0| 
 | 20220324T10:54:44Z | First flutter application. he integrate api github exploit, integrate drawer, integrate search and call must pages for gestion | https://github.com/dietrich-hub/first_flutter_app | 0 | 0| 
 | 20220324T10:26:26Z | Null | https://github.com/cyber-cafe-org/exploits | 0 | 0| 
 | 20220324T09:26:03Z | for mass exploiting | https://github.com/jm33-m0/mec | 480 | 154| 
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220324T12:30:24Z | 我的人生哲學思想家金融機構的網站查詢電話是否有點太多了，我方將領被害人，我方派出幽冥飛船進入快樂星球🌍人都是我的朋友們一起創世紀帝國主義列強簽訂合作協議，我的朋友可以參考一下通過✅三讀通過✅夢想成真 | https://github.com/N226335735/fuzzy-invention | 1 | 0| 
 | 20220324T12:26:44Z | Variation of american fuzzy lop for testing compilers for C-like languages, revised by Alex Groce, Rijnard van Tonder, & collaborators to fuzz tools processing source code in C-like languages | https://github.com/agroce/afl-compiler-fuzzer | 79 | 8| 
 | 20220324T12:26:25Z | Null | https://github.com/nicolascechinel/sghFuzzy | 0 | 0| 
 | 20220324T10:19:19Z | Null | https://github.com/dende/unibn-cybersec-fuzzing | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220324T08:18:49Z | This design, called MOU, combines flexibility, magnetism and light to form an adorable and incredibly versatile lamp you can use almost anywhere! A unique material blend of soft felt, elastic, wood and plastic, the design can be twisted and turned to the user’s liking or depending on necessity. Mount it on the wall with the magnetic base to highlight your favorite art, or stand it up on your desk for working. Leave it plugged in or take it with you wirelessly thanks to its USB charging system. DO WANT! | https://github.com/TrishanaRuchi/fuzzy-lamp | 0 | 0| 
 | 20220324T00:43:37Z | Null | https://github.com/Anddy123/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
 | 20220324T00:08:20Z | Null | https://github.com/Micr067/Packer-Fuzzer | 0 | 0| 
-| 20220323T23:39:47Z | dictionaries for fuzzing with AFL++ | https://github.com/raincoats/afl-fuzz-dictionaries | 0 | 0| 
 
 
 
