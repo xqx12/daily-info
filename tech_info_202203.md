@@ -107,6 +107,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220324T09:14:45Z | Null | https://github.com/NewItLevel/backdoor | 0 | 0| 
 | 20220324T08:32:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 447 | 86| 
+| 20220324T08:25:42Z | Null | https://github.com/THUYimingLi/BackdoorBox | 29 | 10| 
 | 20220324T06:27:48Z | python botnet and backdoor | https://github.com/networkysh/buh | 0 | 0| 
 | 20220324T03:03:48Z | Null | https://github.com/SazumiVicky/backdoor.apk | 0 | 0| 
 | 20220323T15:07:22Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 21 | 16| 
@@ -114,7 +115,6 @@
 | 20220323T10:03:01Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 25 | 6| 
 | 20220323T02:11:35Z | Soul Console: A simple backdoor console (3 options) to start pentesting and experimenting | https://github.com/no1638/soulconsole | 0 | 0| 
 | 20220322T21:58:42Z | 「🚪」The hidden hookless backdoor | https://github.com/MrEmpy/zoris | 1 | 0| 
-| 20220322T16:21:02Z | Null | https://github.com/PharaOhms/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
