@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220324T12:26:25Z | Null | https://github.com/nicolascechinel/sghFuzzy | 0 | 0| 
 | 20220324T10:19:19Z | Null | https://github.com/dende/unibn-cybersec-fuzzing | 0 | 0| 
 | 20220324T09:46:38Z | Null | https://github.com/dentednerd/fuzzy-octo-waffle | 0 | 0| 
 | 20220324T09:23:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4043 | 961| 
@@ -154,7 +155,6 @@
 | 20220324T00:08:20Z | Null | https://github.com/Micr067/Packer-Fuzzer | 0 | 0| 
 | 20220323T23:39:47Z | dictionaries for fuzzing with AFL++ | https://github.com/raincoats/afl-fuzz-dictionaries | 0 | 0| 
 | 20220323T22:56:12Z | Null | https://github.com/kyledeer-32/vba_fuzzymatching | 0 | 0| 
-| 20220323T21:37:31Z | A collection of fuzzy cluster validity indices in the R language. | https://github.com/fernandase/fuzzy-cluster-validity-indices | 1 | 0| 
 
 
 
