@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220325T01:26:04Z | Null | https://github.com/Mo-ku/AD-Exploitation-Cheatsheet | 0 | 0| 
+| 20220325T01:28:16Z | Null | https://github.com/Mo-ku/AD-Exploitation-Cheatsheet | 0 | 0| 
 | 20220325T01:09:51Z | Null | https://github.com/mirailovers/exploits | 0 | 0| 
 | 20220325T00:18:08Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6937 | 1610| 
 | 20220324T23:54:39Z | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | 0 | 0| 
