@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220325T01:26:04Z | Null | https://github.com/Mo-ku/AD-Exploitation-Cheatsheet | 0 | 0| 
 | 20220325T01:09:51Z | Null | https://github.com/mirailovers/exploits | 0 | 0| 
 | 20220325T00:18:08Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6937 | 1610| 
 | 20220324T23:54:39Z | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220324T21:56:11Z | This project allows to retrieve information from websites, and to store it as exploitable data | https://github.com/Tanjoui/Python-Webscraper | 1 | 0| 
 | 20220324T21:40:58Z | Null | https://github.com/AgentInventor/exploiting-arson | 0 | 0| 
 | 20220324T21:21:25Z | Null | https://github.com/asaddasad/unito-exploit | 0 | 0| 
-| 20220324T20:28:18Z | Null | https://github.com/BENOSHITO/exploithosting.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
