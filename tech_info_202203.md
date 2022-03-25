@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220325T01:54:05Z | Null | https://github.com/SlyferToFC/ncat_backdoor_installer | 0 | 0| 
 | 20220324T23:59:27Z | Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux. | https://github.com/thisisnzed/Pandora | 29 | 13| 
 | 20220324T23:07:07Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
 | 20220324T19:40:30Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 72 | 10| 
@@ -114,7 +115,6 @@
 | 20220324T09:14:45Z | Null | https://github.com/NewItLevel/backdoor | 0 | 0| 
 | 20220324T08:32:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 447 | 86| 
 | 20220324T08:25:42Z | Null | https://github.com/THUYimingLi/BackdoorBox | 29 | 10| 
-| 20220324T06:27:48Z | python botnet and backdoor | https://github.com/networkysh/buh | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220325T01:56:29Z | Homework no 1 for the course Introducción a la Teoría de Conjuntos Difusos y Sistemas Inteligentes from University of Chile, Fall 2022 | https://github.com/ricardo462/T1-Fuzzy-Logic | 0 | 0| 
 | 20220324T23:51:15Z | A random program generator for fuzzing WGSL compilers | https://github.com/wgslsmith/wgslsmith | 1 | 0| 
 | 20220324T22:50:06Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 542 | 114| 
 | 20220324T22:27:07Z | a website for a imaginary news company, it was one of my first projects. | https://github.com/andrewdvdotjs/fuzzy-pancake-news | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220324T20:16:57Z | Null | https://github.com/rushikesh9/fuzzy-succotash | 0 | 0| 
 | 20220324T16:24:30Z | Rust version of fuzzy-binary-search  | https://github.com/DBBrowne/obtuse-code-challenge-fuzzy-binary-search | 0 | 0| 
 | 20220324T14:17:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7208 | 1534| 
-| 20220324T12:30:24Z | 我的人生哲學思想家金融機構的網站查詢電話是否有點太多了，我方將領被害人，我方派出幽冥飛船進入快樂星球🌍人都是我的朋友們一起創世紀帝國主義列強簽訂合作協議，我的朋友可以參考一下通過✅三讀通過✅夢想成真 | https://github.com/N226335735/fuzzy-invention | 1 | 0| 
 
 
 
