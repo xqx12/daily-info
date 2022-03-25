@@ -61,7 +61,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220324T23:54:39Z | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | 0 | 0| 
-| 20220324T23:36:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10917 | 1904| 
 | 20220324T22:46:00Z | To englobe, information coming from sensors over Arduino pass through data processing with the aim of predicting object nature (sharpness, stiffness or texture). The prediction operation exploits models already prepared to predict new data. In our project, data out of Arduino, which composed of 150 samples, proceed over I2C (figure 2) to meet the model reposed in Raspberry Pi card. At this juncture, the predicted information transmitted to the feedback device located in the amputee’s biceps by way of Bluetooth module. A unique combination of components forms the feedback device, including Arduino Nano, a Bluetooth module, a couple of coin type vibration motors and heating gadget that impersonate heat danger. Afterwards, the measured pressure on the fingertips was translated into vibrotactile feedback using vibration motors placed on the subject’s arm. However, thermistor captures temperature variation to warn prosthetic’s user by the means of a heating device. Based on the received sensory feedback and the elicited sensations, the amputee can identify the stiffness, sharpness, texture and warm danger. | https://github.com/Elyes-hb/Sensory-feedback | 0 | 0| 
 | 20220324T22:26:37Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1539 | 125| 
 | 20220324T21:56:11Z | This project allows to retrieve information from websites, and to store it as exploitable data | https://github.com/Tanjoui/Python-Webscraper | 1 | 0| 
@@ -70,6 +69,7 @@
 | 20220324T20:28:18Z | Null | https://github.com/BENOSHITO/exploithosting.github.io | 0 | 0| 
 | 20220324T20:18:20Z | Null | https://github.com/wEquals/exploit | 0 | 0| 
 | 20220324T20:15:35Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 32 | 4| 
+| 20220324T19:33:42Z | 0day exploit | https://github.com/danieldurnea/WordPress-Exploit-60-Joomla-Exploit-20-Other-Filemanager-Exploit-500-WordPress-Joomla-Oth | 0 | 0| 
 
 
 # backdoor on Github 推荐
