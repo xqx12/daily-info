@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220325T12:25:25Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 166 | 42| 
+| 20220325T12:25:25Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 166 | 43| 
 | 20220325T12:04:49Z | My collection of self-written exploits | https://github.com/tagnullde/Exploit-Development | 17 | 5| 
 | 20220325T12:03:42Z | Hamburger | https://github.com/StasonJatham/exploit.to | 0 | 0| 
 | 20220325T11:43:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1506 | 241| 
