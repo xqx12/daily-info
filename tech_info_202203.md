@@ -90,7 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220325T11:48:09Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 164 | 42| 
+| 20220325T12:10:00Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 165 | 42| 
+| 20220325T12:04:49Z | My collection of self-written exploits | https://github.com/tagnullde/Exploit-Development | 17 | 5| 
+| 20220325T12:03:42Z | Hamburger | https://github.com/StasonJatham/exploit.to | 0 | 0| 
 | 20220325T11:43:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1506 | 241| 
 | 20220325T10:37:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 352 | 101| 
 | 20220325T09:36:59Z | Codes for %NSGZero: Efficiently Learning Non-Exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search% | https://github.com/xuewanqi/NSGZero | 0 | 0| 
@@ -98,8 +100,6 @@
 | 20220325T08:34:32Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4128 | 1442| 
 | 20220325T07:57:24Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 5102 | 1460| 
 | 20220325T04:28:14Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 706 | 156| 
-| 20220325T01:28:48Z | Not my work, cloned from https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet for easy reference. | https://github.com/Mo-ku/AD-Exploitation-Cheatsheet | 0 | 0| 
-| 20220325T01:09:51Z | Null | https://github.com/mirailovers/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
