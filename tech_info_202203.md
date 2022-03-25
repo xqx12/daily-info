@@ -90,8 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220325T12:30:28Z | Full-fledged binary Exploit-dev  | https://github.com/0x34d/Exploit-dev | 0 | 0| 
+| 20220325T12:30:02Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 167 | 43| 
 | 20220325T12:29:18Z | Ha Ha Funny Developers Exploit huge amount of trolling | https://github.com/EpicCatto/Bcc-Security-Vulnerability | 0 | 0| 
-| 20220325T12:25:25Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 166 | 43| 
 | 20220325T12:04:49Z | My collection of self-written exploits | https://github.com/tagnullde/Exploit-Development | 17 | 5| 
 | 20220325T12:03:42Z | Hamburger | https://github.com/StasonJatham/exploit.to | 0 | 0| 
 | 20220325T11:43:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1506 | 241| 
@@ -99,7 +100,6 @@
 | 20220325T09:36:59Z | Codes for %NSGZero: Efficiently Learning Non-Exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search% | https://github.com/xuewanqi/NSGZero | 0 | 0| 
 | 20220325T08:54:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10921 | 1904| 
 | 20220325T08:34:32Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4128 | 1442| 
-| 20220325T07:57:24Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 5102 | 1460| 
 
 
 # backdoor on Github 推荐
