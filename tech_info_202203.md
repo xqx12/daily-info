@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220325T01:09:51Z | Null | https://github.com/mirailovers/exploits | 0 | 0| 
 | 20220325T00:18:08Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6937 | 1610| 
 | 20220324T23:54:39Z | Roblox Exploit | https://github.com/ConsumingChef/ConsumerHub | 0 | 0| 
 | 20220324T23:36:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10917 | 1904| 
@@ -99,7 +100,6 @@
 | 20220324T21:40:58Z | Null | https://github.com/AgentInventor/exploiting-arson | 0 | 0| 
 | 20220324T21:21:25Z | Null | https://github.com/asaddasad/unito-exploit | 0 | 0| 
 | 20220324T20:28:18Z | Null | https://github.com/BENOSHITO/exploithosting.github.io | 0 | 0| 
-| 20220324T20:18:20Z | Null | https://github.com/wEquals/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
