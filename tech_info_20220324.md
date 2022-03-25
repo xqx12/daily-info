@@ -67,10 +67,10 @@
 | 20220324T21:56:11Z | This project allows to retrieve information from websites, and to store it as exploitable data | https://github.com/Tanjoui/Python-Webscraper | 1 | 0| 
 | 20220324T21:40:58Z | Null | https://github.com/AgentInventor/exploiting-arson | 0 | 0| 
 | 20220324T21:21:25Z | Null | https://github.com/asaddasad/unito-exploit | 0 | 0| 
-| 20220324T21:10:31Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6937 | 1610| 
 | 20220324T20:28:18Z | Null | https://github.com/BENOSHITO/exploithosting.github.io | 0 | 0| 
 | 20220324T20:18:20Z | Null | https://github.com/wEquals/exploit | 0 | 0| 
 | 20220324T20:15:35Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 32 | 4| 
+| 20220324T19:33:42Z | 0day exploit | https://github.com/danieldurnea/WordPress-Exploit-60-Joomla-Exploit-20-Other-Filemanager-Exploit-500-WordPress-Joomla-Oth | 0 | 0| 
 
 
 # backdoor on Github 推荐
