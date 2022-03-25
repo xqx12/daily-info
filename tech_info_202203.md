@@ -17,6 +17,7 @@
 | 20220324 | 商业数字证书签发和使用情况简介 | https://blog.netlab.360.com/shu-zi-zheng-shu-zuo-wei-ji-chu-she-shi-de-shi-yong-qing-kuang-fen-xi/| 
 | 20220324 | 利用 gateway-api 攻击 kubernetes. | https://paper.seebug.org/1859/| 
 | 20220324 | 毒蛇，禁止滑动 ! 新的后门攻击法国实体. | https://paper.seebug.org/1852/| 
+| 20220324 | Storm Cloud 黑客卷起大风暴：恶意软件 GIMMICK 攻击 MacOS | http://paper.seebug.org/1854/| 
 | 20220322 | Browser-in-the-Browser 钓鱼攻击 | https://threatpost.com/browser-in-the-browser-attack-makes-phishing-nearly-invisible/179014/| 
 | 20220322 | LLVM 安全相关的资料收集 | https://github.com/gmh5225/awesome-llvm-security| 
 | 20220322 | Apache Teaclave - Apache 开源的通用安全计算平台 | https://github.com/apache/incubator-teaclave| 
@@ -25,7 +26,6 @@
 | 20220322 | Windows Kerberos 认证之 Unconstrained Delegation 研究 | http://pentestlab.blog/2022/03/21/unconstrained-delegation/| 
 | 20220322 | BlueHat IL 2022 会议的视频公开了 | https://www.youtube.com/watch?v=BVBuADTsiG4&list=PLnWGkkkDVeqiTAdYxmGJnAGpjSNRSKwKm&index=4| 
 | 20220322 | 3D GPU: 加速QEMU逃逸 | https://vul.360.net/archives/368| 
-| 20220321 | Headless Chrome 爬虫的检测和反检测对抗 | https://datadome.co/bot-detection/detecting-headless-chrome-puppeteer-extra-plugin-stealth/?utm_source=reddit| 
 
 
 # 安全维基 推荐
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220324T09:57:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5562 | 203| 
+| 20220324T23:31:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5564 | 203| 
 | 20220324T09:48:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1915 | 546| 
 | 20220324T07:58:18Z | Null | https://github.com/RagueI/klee | 0 | 0| 
 | 20220322T18:16:33Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220324T08:15:33Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 211 | 48| 
-| 20220322T14:35:24Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 37 | 3| 
+| 20220324T22:01:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 213 | 48| 
+| 20220324T14:37:10Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 38 | 3| 
 | 20220320T07:32:21Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 79 | 38| 
 | 20220319T09:17:18Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 13 | 2| 
 | 20220315T12:37:25Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 13 | 15| 
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220324T12:30:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10912 | 1903| 
-| 20220324T12:25:16Z | A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments. | https://github.com/alexander-fernandes/CVE-2019-16278 | 0 | 0| 
-| 20220324T12:12:17Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 704 | 154| 
-| 20220324T10:54:44Z | First flutter application. he integrate api github exploit, integrate drawer, integrate search and call must pages for gestion | https://github.com/dietrich-hub/first_flutter_app | 0 | 0| 
-| 20220324T10:26:26Z | Null | https://github.com/cyber-cafe-org/exploits | 0 | 0| 
-| 20220324T10:20:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2529 | 307| 
-| 20220324T09:26:03Z | for mass exploiting | https://github.com/jm33-m0/mec | 480 | 154| 
-| 20220324T09:17:20Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 350 | 101| 
-| 20220324T08:46:18Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/crystal1017ch/anyaschukinc | 0 | 0| 
-| 20220324T08:17:56Z | wrote / modified some scripts to do shady shit on the internet | https://github.com/6lyxt/collection-of-exploits | 1 | 0| 
+| 20220324T23:36:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10917 | 1904| 
+| 20220324T22:46:00Z | To englobe, information coming from sensors over Arduino pass through data processing with the aim of predicting object nature (sharpness, stiffness or texture). The prediction operation exploits models already prepared to predict new data. In our project, data out of Arduino, which composed of 150 samples, proceed over I2C (figure 2) to meet the model reposed in Raspberry Pi card. At this juncture, the predicted information transmitted to the feedback device located in the amputee’s biceps by way of Bluetooth module. A unique combination of components forms the feedback device, including Arduino Nano, a Bluetooth module, a couple of coin type vibration motors and heating gadget that impersonate heat danger. Afterwards, the measured pressure on the fingertips was translated into vibrotactile feedback using vibration motors placed on the subject’s arm. However, thermistor captures temperature variation to warn prosthetic’s user by the means of a heating device. Based on the received sensory feedback and the elicited sensations, the amputee can identify the stiffness, sharpness, texture and warm danger. | https://github.com/Elyes-hb/Sensory-feedback | 0 | 0| 
+| 20220324T21:56:11Z | This project allows to retrieve information from websites, and to store it as exploitable data | https://github.com/Tanjoui/Python-Webscraper | 1 | 0| 
+| 20220324T21:40:58Z | Null | https://github.com/AgentInventor/exploiting-arson | 0 | 0| 
+| 20220324T21:21:25Z | Null | https://github.com/asaddasad/unito-exploit | 0 | 0| 
+| 20220324T21:10:31Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6937 | 1610| 
+| 20220324T20:28:18Z | Null | https://github.com/BENOSHITO/exploithosting.github.io | 0 | 0| 
+| 20220324T20:18:20Z | Null | https://github.com/wEquals/exploit | 0 | 0| 
+| 20220324T20:15:35Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 32 | 4| 
+| 20220324T19:33:42Z | 0day exploit | https://github.com/danieldurnea/WordPress-Exploit-60-Joomla-Exploit-20-Other-Filemanager-Exploit-500-WordPress-Joomla-Oth | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220324T23:59:27Z | Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux. | https://github.com/thisisnzed/Pandora | 29 | 13| 
+| 20220324T23:07:07Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
+| 20220324T19:40:30Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 72 | 10| 
+| 20220324T17:49:15Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/PrestaDZ/vsftpd-2.3.4 | 0 | 0| 
+| 20220324T16:27:09Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 139 | 35| 
+| 20220324T12:39:50Z | Code and data of the ACL-IJCNLP 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 12 | 3| 
 | 20220324T09:14:45Z | Null | https://github.com/NewItLevel/backdoor | 0 | 0| 
 | 20220324T08:32:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 447 | 86| 
 | 20220324T08:25:42Z | Null | https://github.com/THUYimingLi/BackdoorBox | 29 | 10| 
 | 20220324T06:27:48Z | python botnet and backdoor | https://github.com/networkysh/buh | 0 | 0| 
-| 20220324T03:03:48Z | Null | https://github.com/SazumiVicky/backdoor.apk | 0 | 0| 
-| 20220323T15:07:22Z | Create a fully undetectable backdoor with simple steps. | https://github.com/3ct0s/fud-backdoor | 21 | 16| 
-| 20220323T13:49:02Z | Null | https://github.com/CarlosAllberto/KivyBackdoor | 0 | 0| 
-| 20220323T10:03:01Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 25 | 6| 
-| 20220323T02:11:35Z | Soul Console: A simple backdoor console (3 options) to start pentesting and experimenting | https://github.com/no1638/soulconsole | 0 | 0| 
-| 20220322T21:58:42Z | 「🚪」The hidden hookless backdoor | https://github.com/MrEmpy/zoris | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220324T23:51:15Z | A random program generator for fuzzing WGSL compilers | https://github.com/wgslsmith/wgslsmith | 1 | 0| 
+| 20220324T22:50:06Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 542 | 114| 
+| 20220324T22:27:07Z | a website for a imaginary news company, it was one of my first projects. | https://github.com/andrewdvdotjs/fuzzy-pancake-news | 0 | 0| 
+| 20220324T21:52:02Z | Dump of SIT215 PBL shit | https://github.com/Cnalhcal/FuzzyLogic | 0 | 0| 
+| 20220324T21:41:17Z | Eve market data site | https://github.com/fuzzysteve/FuzzMarket | 23 | 4| 
+| 20220324T20:20:10Z | Null | https://github.com/1901881/FSMvsFuzzyCar | 0 | 0| 
+| 20220324T20:16:57Z | Null | https://github.com/rushikesh9/fuzzy-succotash | 0 | 0| 
+| 20220324T16:24:30Z | Rust version of fuzzy-binary-search  | https://github.com/DBBrowne/obtuse-code-challenge-fuzzy-binary-search | 0 | 0| 
+| 20220324T14:17:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7208 | 1534| 
 | 20220324T12:30:24Z | 我的人生哲學思想家金融機構的網站查詢電話是否有點太多了，我方將領被害人，我方派出幽冥飛船進入快樂星球🌍人都是我的朋友們一起創世紀帝國主義列強簽訂合作協議，我的朋友可以參考一下通過✅三讀通過✅夢想成真 | https://github.com/N226335735/fuzzy-invention | 1 | 0| 
-| 20220324T12:26:44Z | Variation of american fuzzy lop for testing compilers for C-like languages, revised by Alex Groce, Rijnard van Tonder, & collaborators to fuzz tools processing source code in C-like languages | https://github.com/agroce/afl-compiler-fuzzer | 79 | 8| 
-| 20220324T12:26:25Z | Null | https://github.com/nicolascechinel/sghFuzzy | 0 | 0| 
-| 20220324T11:47:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7207 | 1535| 
-| 20220324T10:19:19Z | Null | https://github.com/dende/unibn-cybersec-fuzzing | 0 | 0| 
-| 20220324T09:46:38Z | Null | https://github.com/dentednerd/fuzzy-octo-waffle | 0 | 0| 
-| 20220324T09:23:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4043 | 961| 
-| 20220324T08:51:37Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 529 | 57| 
-| 20220324T08:18:49Z | This design, called MOU, combines flexibility, magnetism and light to form an adorable and incredibly versatile lamp you can use almost anywhere! A unique material blend of soft felt, elastic, wood and plastic, the design can be twisted and turned to the user’s liking or depending on necessity. Mount it on the wall with the magnetic base to highlight your favorite art, or stand it up on your desk for working. Leave it plugged in or take it with you wirelessly thanks to its USB charging system. DO WANT! | https://github.com/TrishanaRuchi/fuzzy-lamp | 0 | 0| 
-| 20220324T00:43:37Z | Null | https://github.com/Anddy123/half-baked-web-01-fuzzy-bunny-organizer | 0 | 0| 
 
 
 
