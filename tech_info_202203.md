@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220325T12:43:53Z | CVE-2022-22947 | poc for CVE-2022-22947 | https://github.com/Nathaniel1025/CVE-2022-22947 | | 
 | 20220325T10:29:30Z | CVE-2022-24934 |  CVE-2022-24934 | https://github.com/shakeman8/CVE-2022-24934 | | 
 | 20220325T08:27:46Z | CVE-2021-44529 | CVE-2021-44529 PoC | https://github.com/jkana/CVE-2021-44529 | | 
 | 20220325T05:13:14Z | CVE-2022-26629 | Null | https://github.com/sysenter-eip/CVE-2022-26629 | | 
@@ -55,7 +56,6 @@
 | 20220324T10:07:15Z | CVE-2020-3580 | Null | https://github.com/nxtexploit/CVE-2020-3580 | | 
 | 20220324T09:34:07Z | CVE-2021-40373 | CVE-2021-40373 - remote code execution | https://github.com/maikroservice/CVE-2021-40373 | | 
 | 20220324T09:25:14Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
-| 20220324T06:46:51Z | CVE-2020-8163 | This is a exploit code for CVE-202-8163 | https://github.com/TKLinux966/CVE-2020-8163 | | 
 
 
 # klee on Github 推荐

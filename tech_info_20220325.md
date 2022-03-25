@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220325T12:43:53Z | CVE-2022-22947 | poc for CVE-2022-22947 | https://github.com/Nathaniel1025/CVE-2022-22947 | | 
 | 20220325T10:29:30Z | CVE-2022-24934 |  CVE-2022-24934 | https://github.com/shakeman8/CVE-2022-24934 | | 
 | 20220325T08:27:46Z | CVE-2021-44529 | CVE-2021-44529 PoC | https://github.com/jkana/CVE-2021-44529 | | 
 | 20220325T05:13:14Z | CVE-2022-26629 | Null | https://github.com/sysenter-eip/CVE-2022-26629 | | 
