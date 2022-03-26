@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220326T01:51:53Z | Null | https://github.com/Bstbendy/fuzzy-tribble | 0 | 0| 
 | 20220326T00:17:49Z | Null | https://github.com/BillyDeeWilliams/fuzzysearch | 0 | 0| 
 | 20220325T23:37:24Z | Null | https://github.com/aayam-shrestha/fuzzy-spoon | 0 | 0| 
 | 20220325T21:46:49Z | Null | https://github.com/Randyready/fuzzy-system | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20220325T14:37:53Z | Basic Fuzzy Search | https://github.com/TomTruyen/FuzzySearchLaravel | 0 | 0| 
 | 20220325T14:28:16Z | Modified AFL fork for a modified Intriguer Hybrid Fuzzer | https://github.com/timschumi/intriguer-afl | 0 | 0| 
 | 20220325T11:33:29Z | Fuzzy Eyes Web | https://github.com/rogribas/fuzzyeyes | 0 | 0| 
-| 20220325T11:22:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4051 | 962| 
 
 
 
