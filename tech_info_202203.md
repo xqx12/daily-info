@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220326T01:51:53Z | Null | https://github.com/Bstbendy/fuzzy-tribble | 0 | 0| 
+| 20220326T01:52:41Z | Null | https://github.com/Bstbendy/fuzzy-tribble | 0 | 0| 
 | 20220326T00:17:49Z | Null | https://github.com/BillyDeeWilliams/fuzzysearch | 0 | 0| 
 | 20220325T23:37:24Z | Null | https://github.com/aayam-shrestha/fuzzy-spoon | 0 | 0| 
 | 20220325T21:46:49Z | Null | https://github.com/Randyready/fuzzy-system | 0 | 0| 
