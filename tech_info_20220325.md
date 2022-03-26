@@ -60,6 +60,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220325T23:50:00Z | Null | https://github.com/QUazyOT/BoomBoomExploit | 0 | 0| 
+| 20220325T22:47:41Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 80 | 21| 
 | 20220325T22:26:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10922 | 1905| 
 | 20220325T21:52:10Z | Fortnite Internal OrangeWare Source Code leaked Working With Exploits  | https://github.com/EthanRcs/Fortnite-OrangeWare-Source-Full | 0 | 0| 
 | 20220325T21:44:34Z | Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. | https://github.com/EthanRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20220325T20:42:46Z | Null | https://github.com/BENOSHITO/exploithosting.github.io | 0 | 0| 
 | 20220325T12:59:21Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 168 | 43| 
 | 20220325T12:30:28Z | Full-fledged binary Exploit-dev  | https://github.com/0x34d/Exploit-dev | 0 | 0| 
-| 20220325T12:29:18Z | Ha Ha Funny Developers Exploit huge amount of trolling | https://github.com/EpicCatto/Bcc-Security-Vulnerability | 0 | 0| 
 
 
 # backdoor on Github 推荐
