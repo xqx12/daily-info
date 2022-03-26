@@ -97,10 +97,10 @@
 | 20220326T11:52:43Z | CVE exploit searcher from GitHub with some deploy options | https://github.com/weto91/GitHub_Search_CVE | 0 | 0| 
 | 20220326T11:43:01Z | 命令行版向日葵RCE漏洞利用工具 / cmd version of sunlogin exploit tool | https://github.com/theLSA/sunlogin-exp-cmd | 4 | 0| 
 | 20220326T11:35:09Z | A clone of the succosim repository, customised for the development of the INSULAb active photon converter to be exploited at the STORM 2022 beamtest at DESY | https://github.com/mattiasoldani/succosim_22_desy_preshower | 0 | 0| 
+| 20220326T11:13:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2535 | 311| 
 | 20220326T09:52:01Z | GUI版向日葵RCE漏洞利用工具 / GUI version of sunlogin exploit tool | https://github.com/theLSA/sunlogin-exp-gui | 2 | 0| 
 | 20220326T09:37:14Z | Null | https://github.com/t13pm/exploit-db | 0 | 0| 
 | 20220326T09:04:28Z | Null | https://github.com/ExploiterWolfy/ExploiterWolfy.github.io | 0 | 0| 
-| 20220326T07:57:57Z | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | 2 | 0| 
 
 
 # backdoor on Github 推荐
