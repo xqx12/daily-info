@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220326T12:01:14Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6325 | 734| 
+| 20220326T12:53:23Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6327 | 734| 
 | 20220326T11:13:15Z | Null | https://github.com/izarwh/FuzzyLogic | 0 | 0| 
 | 20220326T10:39:48Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 11 | 5| 
 | 20220326T09:30:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 804 | 86| 
