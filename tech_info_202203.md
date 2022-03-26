@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220326T00:17:49Z | Null | https://github.com/BillyDeeWilliams/fuzzysearch | 0 | 0| 
 | 20220325T23:37:24Z | Null | https://github.com/aayam-shrestha/fuzzy-spoon | 0 | 0| 
 | 20220325T21:46:49Z | Null | https://github.com/Randyready/fuzzy-system | 0 | 0| 
 | 20220325T18:39:26Z | A Text Based Protocol Fuzzer  | https://github.com/blessingcharles/BuzzShock | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20220325T11:33:29Z | Fuzzy Eyes Web | https://github.com/rogribas/fuzzyeyes | 0 | 0| 
 | 20220325T11:22:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4051 | 962| 
 | 20220325T10:16:56Z | Unicorn: A Time-series Databases Fuzzer | https://github.com/Unicorn-2022/unicorn | 0 | 0| 
-| 20220325T10:04:00Z | A random program generator for fuzzing WGSL compilers | https://github.com/wgslsmith/wgslsmith | 1 | 0| 
 
 
 
