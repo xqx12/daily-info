@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220326 | 利用开源情报发现并解释恶意行为 | https://mp.weixin.qq.com/s/S2SvYs1YpqP6H535jwV2ow| 
 | 20220325 | 全球高级持续性威胁（APT）2021年度报告 | https://ti.qianxin.com/uploads/2022/03/25/68f214e06e1983b73b7d0f2e075a5fa8.pdf| 
 | 20220325 | Lapsus$组织攻击微软的手法以及几点启示 | https://mp.weixin.qq.com/s/AG-ITyHlwesxS2k-5BzgKg| 
 | 20220325 | 预测功能性漏洞利用 | https://mp.weixin.qq.com/s/8gobzeNpcBGBor7pdYNaKQ| 
@@ -40,47 +41,46 @@
 | 20220324 | 浅谈模糊测试基础技术——引导机制 | https://mp.weixin.qq.com/s/c79MJeNHG8tpcbkZqEnApw| 
 | 20220323 | Windows驱动签名经验贴 | https://yunshanwuyin.com/BlogDetail?Id=2rw2depz3jhghnskrsg9874p| 
 | 20220323 | 初探Shellcode免杀 | https://yunshanwuyin.com/BlogDetail?Id=thutgzhvtyyn4ezxzps6kcfu| 
-| 20220322 | SecWiki周刊（第420期) | https://www.sec-wiki.com/weekly/420| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220325T23:24:28Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
+| 20220326T10:43:22Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
+| 20220326T10:31:52Z | cve-2022-22947 | Null | https://github.com/Enokiy/cve-2022-22947-spring-cloud-gateway | | 
+| 20220326T06:10:44Z | CVE-2022-24934 |  CVE-2022-24934 | https://github.com/shakeman8/CVE-2022-24934 | | 
+| 20220326T06:09:21Z | CVE-2022-26629 | Null | https://github.com/sysenter-eip/CVE-2022-26629 | | 
+| 20220326T06:05:07Z | CVE-2022-26629 | Null | https://github.com/scopion/CVE-2022-26629 | | 
+| 20220326T02:31:56Z | CVE-2022-22947 | poc for CVE-2022-22947 | https://github.com/Nathaniel1025/CVE-2022-22947 | | 
 | 20220325T22:04:22Z | CVE-2022-0847 | Poc | https://github.com/tmoneypenny/CVE-2022-0847 | | 
 | 20220325T13:02:53Z | 未知编号 | Null | https://github.com/tzwlhack/CVE-2018-20250 | | 
-| 20220325T12:46:31Z | CVE-2022-22947 | poc for CVE-2022-22947 | https://github.com/Nathaniel1025/CVE-2022-22947 | | 
-| 20220325T10:29:30Z | CVE-2022-24934 |  CVE-2022-24934 | https://github.com/shakeman8/CVE-2022-24934 | | 
 | 20220325T08:27:46Z | CVE-2021-44529 | CVE-2021-44529 PoC | https://github.com/jkana/CVE-2021-44529 | | 
-| 20220325T05:13:14Z | CVE-2022-26629 | Null | https://github.com/sysenter-eip/CVE-2022-26629 | | 
 | 20220325T05:02:45Z | CVE-2022-25636 | CVE-2022-0185 analysis write up | https://github.com/chenaotian/CVE-2022-25636 | | 
-| 20220325T03:26:08Z | cve-2021-21300 | Null | https://github.com/Jiang59991/cve-2021-21300-plus | | 
-| 20220324T11:13:04Z | cve-2022-22947 | Null | https://github.com/Enokiy/cve-2022-22947-spring-cloud-gateway | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220325T23:54:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5581 | 205| 
+| 20220326T10:46:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5587 | 205| 
+| 20220326T02:49:14Z | Null | https://github.com/mishra-kunal1/Klee-Project | 0 | 0| 
 | 20220325T23:10:39Z | Config files for my GitHub profile. | https://github.com/Kleener22/Kleener22 | 0 | 0| 
 | 20220325T11:43:15Z | Null | https://github.com/CarlOsterberg/klee-calc-testsuite | 0 | 0| 
 | 20220325T11:36:17Z | Fork of Blinningjr/embedded-rust-debugger | https://github.com/CarlOsterberg/klee-calc | 0 | 0| 
-| 20220325T10:40:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1916 | 546| 
+| 20220325T10:40:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1916 | 547| 
 | 20220325T08:03:07Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 35 | 38| 
 | 20220324T07:58:18Z | Null | https://github.com/RagueI/klee | 0 | 0| 
 | 20220322T18:16:33Z | Dodoco doko? | https://github.com/RiceFT/klee | 0 | 0| 
 | 20220321T17:28:16Z | Null | https://github.com/adoumane/Kleene-Algebra | 0 | 0| 
-| 20220321T12:43:46Z | KLEE in the browser | https://github.com/klee/klee-web | 48 | 12| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220326T08:14:16Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 14 | 2| 
 | 20220325T16:48:35Z | Null | https://github.com/turbocanary/turbotest_n6sgdrbk_s2e4helo | 0 | 0| 
 | 20220324T22:01:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 213 | 48| 
 | 20220324T14:37:10Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 38 | 3| 
 | 20220320T07:32:21Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 79 | 38| 
-| 20220319T09:17:18Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 13 | 2| 
 | 20220315T12:37:25Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 13 | 15| 
 | 20220310T21:28:36Z | Null | https://github.com/andteki/s2ejsterkup | 0 | 0| 
 | 20220305T14:52:27Z | Null | https://github.com/software-testing-bootcamp/S2E3-process-automation-RPA-with-jenkins-and-test-automation-tools | 0 | 0| 
@@ -91,21 +91,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220326T11:52:43Z | CVE exploit searcher from GitHub with some deploy options | https://github.com/weto91/GitHub_Search_CVE | 0 | 0| 
+| 20220326T11:43:01Z | 命令行版向日葵RCE漏洞利用工具 / cmd version of sunlogin exploit tool | https://github.com/theLSA/sunlogin-exp-cmd | 4 | 0| 
+| 20220326T11:35:09Z | A clone of the succosim repository, customised for the development of the INSULAb active photon converter to be exploited at the STORM 2022 beamtest at DESY | https://github.com/mattiasoldani/succosim_22_desy_preshower | 0 | 0| 
+| 20220326T09:52:01Z | GUI版向日葵RCE漏洞利用工具 / GUI version of sunlogin exploit tool | https://github.com/theLSA/sunlogin-exp-gui | 2 | 0| 
+| 20220326T09:37:14Z | Null | https://github.com/t13pm/exploit-db | 0 | 0| 
+| 20220326T09:04:28Z | Null | https://github.com/ExploiterWolfy/ExploiterWolfy.github.io | 0 | 0| 
+| 20220326T07:57:57Z | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | 2 | 0| 
+| 20220326T03:52:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10923 | 1905| 
+| 20220326T00:12:42Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3168 | 688| 
 | 20220325T23:50:00Z | Null | https://github.com/QUazyOT/BoomBoomExploit | 0 | 0| 
-| 20220325T22:47:41Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 80 | 21| 
-| 20220325T22:26:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10922 | 1905| 
-| 20220325T21:52:10Z | Fortnite Internal OrangeWare Source Code leaked Working With Exploits  | https://github.com/EthanRcs/Fortnite-OrangeWare-Source-Full | 0 | 0| 
-| 20220325T21:44:34Z | Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. | https://github.com/EthanRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
-| 20220325T21:37:04Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 548 | 112| 
-| 20220325T21:23:21Z | its a course for do web exploits with python | https://github.com/ToradaGamil/natas-python | 0 | 0| 
-| 20220325T20:42:46Z | Null | https://github.com/BENOSHITO/exploithosting.github.io | 0 | 0| 
-| 20220325T12:59:21Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 168 | 43| 
-| 20220325T12:30:28Z | Full-fledged binary Exploit-dev  | https://github.com/0x34d/Exploit-dev | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220326T08:11:40Z | Null | https://github.com/sunbelbd/invisible_backdoor_attacks | 12 | 1| 
+| 20220326T06:59:41Z | Null | https://github.com/THUYimingLi/BackdoorBox | 30 | 10| 
+| 20220326T06:17:42Z | Files for my chips | https://github.com/llamacorn1921/backdoorfiles | 0 | 0| 
 | 20220325T19:30:53Z | shell backdoor | https://github.com/hilmanXcode/shell | 0 | 0| 
 | 20220325T17:43:21Z | Into backdoor with node and express! | https://github.com/dasgupta002/web-node-advanced | 1 | 0| 
 | 20220325T16:43:59Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 25 | 6| 
@@ -113,9 +116,6 @@
 | 20220325T09:33:07Z | Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 20 | 3| 
 | 20220325T07:27:49Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 76 | 18| 
 | 20220325T06:59:16Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/PrestaDZ/vsftpd-2.3.4 | 1 | 0| 
-| 20220325T06:30:25Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 448 | 86| 
-| 20220325T02:42:26Z | Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux. | https://github.com/thisisnzed/Pandora | 30 | 13| 
-| 20220325T01:54:05Z | Null | https://github.com/SlyferToFC/ncat_backdoor_installer | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -147,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220326T12:01:14Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6325 | 734| 
+| 20220326T11:13:15Z | Null | https://github.com/izarwh/FuzzyLogic | 0 | 0| 
+| 20220326T10:39:48Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 11 | 5| 
+| 20220326T09:30:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 804 | 86| 
+| 20220326T05:49:54Z | Null | https://github.com/aliyadenasa/fuzzy-telegram | 0 | 0| 
+| 20220326T05:36:08Z | Null | https://github.com/kqns91/go-fuzzing | 0 | 0| 
+| 20220326T05:24:40Z | Null | https://github.com/Var1213/fuzzy-octo-winner | 0 | 0| 
+| 20220326T04:56:34Z | A Text Based Protocol Fuzzer  | https://github.com/blessingcharles/BuzzShock | 0 | 0| 
 | 20220326T01:52:41Z | Null | https://github.com/Bstbendy/fuzzy-tribble | 0 | 0| 
 | 20220326T00:17:49Z | Null | https://github.com/BillyDeeWilliams/fuzzysearch | 0 | 0| 
-| 20220325T23:37:24Z | Null | https://github.com/aayam-shrestha/fuzzy-spoon | 0 | 0| 
-| 20220325T21:46:49Z | Null | https://github.com/Randyready/fuzzy-system | 0 | 0| 
-| 20220325T18:39:26Z | A Text Based Protocol Fuzzer  | https://github.com/blessingcharles/BuzzShock | 0 | 0| 
-| 20220325T18:26:43Z | Null | https://github.com/aliyadenasa/fuzzy-telegram | 0 | 0| 
-| 20220325T15:28:21Z | A modified version of the Intriguer Hybrid Fuzzer | https://github.com/timschumi/intriguer | 0 | 0| 
-| 20220325T14:37:53Z | Basic Fuzzy Search | https://github.com/TomTruyen/FuzzySearchLaravel | 0 | 0| 
-| 20220325T14:28:16Z | Modified AFL fork for a modified Intriguer Hybrid Fuzzer | https://github.com/timschumi/intriguer-afl | 0 | 0| 
-| 20220325T11:33:29Z | Fuzzy Eyes Web | https://github.com/rogribas/fuzzyeyes | 0 | 0| 
 
 
 
