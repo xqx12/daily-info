@@ -28,6 +28,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220325T23:24:28Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
+| 20220325T22:04:22Z | CVE-2022-0847 | Poc | https://github.com/tmoneypenny/CVE-2022-0847 | | 
+| 20220325T13:02:53Z | 未知编号 | Null | https://github.com/tzwlhack/CVE-2018-20250 | | 
 | 20220325T12:46:31Z | CVE-2022-22947 | poc for CVE-2022-22947 | https://github.com/Nathaniel1025/CVE-2022-22947 | | 
 | 20220325T10:29:30Z | CVE-2022-24934 |  CVE-2022-24934 | https://github.com/shakeman8/CVE-2022-24934 | | 
 | 20220325T08:27:46Z | CVE-2021-44529 | CVE-2021-44529 PoC | https://github.com/jkana/CVE-2021-44529 | | 
@@ -39,7 +42,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220325T11:44:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5578 | 204| 
+| 20220325T23:54:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5581 | 204| 
+| 20220325T23:10:39Z | Config files for my GitHub profile. | https://github.com/Kleener22/Kleener22 | 0 | 0| 
 | 20220325T11:43:15Z | Null | https://github.com/CarlOsterberg/klee-calc-testsuite | 0 | 0| 
 | 20220325T11:36:17Z | Fork of Blinningjr/embedded-rust-debugger | https://github.com/CarlOsterberg/klee-calc | 0 | 0| 
 | 20220325T10:40:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1916 | 546| 
@@ -54,16 +58,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220325T23:50:00Z | Null | https://github.com/QUazyOT/BoomBoomExploit | 0 | 0| 
+| 20220325T22:26:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10922 | 1905| 
+| 20220325T21:52:10Z | Fortnite Internal OrangeWare Source Code leaked Working With Exploits  | https://github.com/EthanRcs/Fortnite-OrangeWare-Source-Full | 0 | 0| 
+| 20220325T21:44:34Z | Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. | https://github.com/EthanRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
+| 20220325T21:37:04Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 548 | 112| 
+| 20220325T21:23:21Z | its a course for do web exploits with python | https://github.com/ToradaGamil/natas-python | 0 | 0| 
+| 20220325T20:42:46Z | Null | https://github.com/BENOSHITO/exploithosting.github.io | 0 | 0| 
 | 20220325T12:59:21Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 168 | 43| 
 | 20220325T12:30:28Z | Full-fledged binary Exploit-dev  | https://github.com/0x34d/Exploit-dev | 0 | 0| 
 | 20220325T12:29:18Z | Ha Ha Funny Developers Exploit huge amount of trolling | https://github.com/EpicCatto/Bcc-Security-Vulnerability | 0 | 0| 
-| 20220325T12:04:49Z | My collection of self-written exploits | https://github.com/tagnullde/Exploit-Development | 17 | 5| 
-| 20220325T12:03:42Z | Hamburger | https://github.com/StasonJatham/exploit.to | 0 | 0| 
-| 20220325T11:43:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1506 | 241| 
-| 20220325T10:37:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 352 | 101| 
-| 20220325T10:20:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2531 | 308| 
-| 20220325T09:36:59Z | Codes for %NSGZero: Efficiently Learning Non-Exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search% | https://github.com/xuewanqi/NSGZero | 0 | 0| 
-| 20220325T08:54:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10921 | 1904| 
 
 
 # backdoor on Github 推荐
@@ -80,6 +84,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220325T13:14:28Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 25 | 16| 
 | 20220325T10:40:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1916 | 546| 
 
 
@@ -91,14 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220325T23:37:24Z | Null | https://github.com/aayam-shrestha/fuzzy-spoon | 0 | 0| 
+| 20220325T21:46:49Z | Null | https://github.com/Randyready/fuzzy-system | 0 | 0| 
+| 20220325T18:39:26Z | A Text Based Protocol Fuzzer  | https://github.com/blessingcharles/BuzzShock | 0 | 0| 
+| 20220325T18:26:43Z | Null | https://github.com/aliyadenasa/fuzzy-telegram | 0 | 0| 
+| 20220325T14:37:53Z | Basic Fuzzy Search | https://github.com/TomTruyen/FuzzySearchLaravel | 0 | 0| 
+| 20220325T14:28:16Z | Modified AFL fork for a modified Intriguer Hybrid Fuzzer | https://github.com/timschumi/intriguer-afl | 0 | 0| 
 | 20220325T11:33:29Z | Fuzzy Eyes Web | https://github.com/rogribas/fuzzyeyes | 0 | 0| 
 | 20220325T11:22:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4051 | 962| 
 | 20220325T10:16:56Z | Unicorn: A Time-series Databases Fuzzer | https://github.com/Unicorn-2022/unicorn | 0 | 0| 
 | 20220325T10:04:00Z | A random program generator for fuzzing WGSL compilers | https://github.com/wgslsmith/wgslsmith | 1 | 0| 
-| 20220325T09:53:28Z | The twin-spool turbofan engine is an important component of almost every modern aircraft. Fault detection at an early stage can improve engine performance and health. The current research is based on the construction of an inference system for fault diagnosis in a generalized fuzzy environment. For such an inference system, finite-state deterministic intuitionistic fuzzy automata (FDIFA) are established. A semigroup of FDIFA and its algebraic properties including substructures and structure-preserving maps are studied. The FDIFA semigroups are used as variables for the inference system, and FDIFA semigroup homomorphisms are used to indicate the relation between variables. The newly established model is then applied to diagnose the possible fault and their nature in aircraft twin-spool turbofan engines by modelling the performance of the supercharger and air cooler. | https://github.com/waynethalle/fuzzy-octo-engine | 0 | 0| 
-| 20220325T08:35:36Z | Is there a Fortnite blurry or fuzzy graphics and textures fix? Fortnite Chapter 3 has finally kicked off, sooner than expected, and with the new island and new missions, there are also a few problems, — this includes some players having issues with the new Unreal Engine 5 graphics update. For some, the Fortnite Chapter 3 graphics look bad, with either blurry or fuzzy textures. Is there a fix for the Fortnite blurry and fuzzy graphics problem? | https://github.com/SrinivasanAhluwalia/fuzzy-fortnight | 0 | 0| 
-| 20220325T08:27:00Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1247 | 52| 
-| 20220325T01:56:29Z | Homework no 1 for the course Introducción a la Teoría de Conjuntos Difusos y Sistemas Inteligentes from University of Chile, Fall 2022 | https://github.com/ricardo462/T1-Fuzzy-Logic | 0 | 0| 
 
 
 
