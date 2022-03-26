@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220326T12:24:49Z | Testing of Web Exploitation | https://github.com/h2oco2PU/BeEF | 0 | 0| 
 | 20220326T12:07:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10924 | 1905| 
 | 20220326T11:52:43Z | CVE exploit searcher from GitHub with some deploy options | https://github.com/weto91/GitHub_Search_CVE | 0 | 0| 
 | 20220326T11:43:01Z | 命令行版向日葵RCE漏洞利用工具 / cmd version of sunlogin exploit tool | https://github.com/theLSA/sunlogin-exp-cmd | 4 | 0| 
@@ -100,7 +101,6 @@
 | 20220326T09:04:28Z | Null | https://github.com/ExploiterWolfy/ExploiterWolfy.github.io | 0 | 0| 
 | 20220326T07:57:57Z | Tools to exploit/bot/bug kaplash | https://github.com/SVEFinders/KaplashTools | 2 | 0| 
 | 20220326T00:12:42Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3168 | 688| 
-| 20220325T23:50:00Z | Null | https://github.com/QUazyOT/BoomBoomExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
