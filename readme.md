@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220327T12:54:31Z | Null | https://github.com/alanoliveira/fuzzymarks | 0 | 0| 
 | 20220327T12:49:16Z | Null | https://github.com/sid-mukkamala/NeuroFuzzyClassifier | 0 | 0| 
 | 20220327T12:06:47Z | Fuzzing Wordlist | https://github.com/princeroy15/Fuzzing | 0 | 0| 
 | 20220327T10:15:53Z | Try to find failing inputs for submissions on seeded problems | https://github.com/competitive-algorithms-data-structures/fuzzer | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20220327T08:26:47Z | 🎓 Лабораторные работы по предмету %Методы искусственного интеллекта (Нечёткая логика)% (3 курс) | https://github.com/Chocomiruku/fuzzy-logic-labworks | 0 | 0| 
 | 20220327T07:03:11Z | Null | https://github.com/huzai9527/fuzzbuilder_ex | 0 | 0| 
 | 20220327T01:45:46Z | The repository includes a modular implementation for Fuzzy K-Means based on numpy with sklearn like interface | https://github.com/ammarSherif/Fuzzy-K-Means | 0 | 0| 
-| 20220327T01:39:20Z | This is just for practice of github | https://github.com/RamsZone/fuzzy-octo-system | 0 | 0| 
 
 
 
