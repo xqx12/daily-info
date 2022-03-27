@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220326T23:53:37Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/tilakthimmappa/pyraider | 6 | 0| 
 | 20220326T23:31:43Z | Exploits in Simple Subscription Company to dump users and hashes from database. | https://github.com/Dir0x/Simple-Subscription-Website-Exploits | 0 | 0| 
 | 20220326T23:15:38Z | Null | https://github.com/Dir0x/Simple-Client-Management-System-Exploit | 0 | 0| 
 | 20220326T23:10:37Z | An advanced robox exploit client with multi-api support! | https://github.com/rhytxm/MeteorX | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220326T20:22:02Z | Exploit didático para explorar o vulnserver e ganhar reverse shell | https://github.com/caique-garbim/BufferOverflow_vulnserver | 0 | 0| 
 | 20220326T20:21:17Z | #krunker #cheat , this is my MJMODZZ Krunker exploit | https://github.com/MJMODZZ/MJMODZZ-Krunker | 0 | 0| 
 | 20220326T18:07:32Z | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | 12 | 6| 
-| 20220326T12:39:38Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6944 | 1611| 
 
 
 # backdoor on Github 推荐
