@@ -73,7 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220327T12:54:31Z | Null | https://github.com/alanoliveira/fuzzymarks | 0 | 0| 
+| 20220327T12:56:10Z | Null | https://github.com/alanoliveira/fuzzymarks | 0 | 0| 
 | 20220327T12:49:16Z | Null | https://github.com/sid-mukkamala/NeuroFuzzyClassifier | 0 | 0| 
 | 20220327T12:06:47Z | Fuzzing Wordlist | https://github.com/princeroy15/Fuzzing | 0 | 0| 
 | 20220327T10:15:53Z | Try to find failing inputs for submissions on seeded problems | https://github.com/competitive-algorithms-data-structures/fuzzer | 0 | 0| 
