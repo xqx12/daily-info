@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220327T12:36:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1544 | 244| 
 | 20220327T12:12:55Z | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | 106 | 31| 
-| 20220327T12:02:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1543 | 244| 
 | 20220327T11:40:12Z | Python tool for phishing and post exploitation of targets. | https://github.com/Kimi99/phisherman | 0 | 0| 
 | 20220327T11:26:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10923 | 1905| 
 | 20220327T11:18:14Z | A daedalus library for the game Gothic. Exploits the interpreter to allow arbitrary memory access and defines a lot of useful functions for interfacing with the engine. | https://github.com/Lehona/Ikarus | 8 | 6| 
@@ -106,10 +106,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220327T12:38:38Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
 | 20220327T00:24:16Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 27 | 6| 
 | 20220326T21:00:10Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 77 | 19| 
 | 20220326T15:08:28Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 74 | 10| 
-| 20220326T14:03:01Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
 | 20220326T13:04:18Z | Rxploit | https://github.com/JosephFrankFir/Rxploit | 5 | 0| 
 | 20220326T08:11:40Z | Null | https://github.com/sunbelbd/invisible_backdoor_attacks | 12 | 1| 
 | 20220326T06:59:41Z | Null | https://github.com/THUYimingLi/BackdoorBox | 30 | 10| 

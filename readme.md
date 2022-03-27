@@ -37,8 +37,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220327T12:36:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1544 | 244| 
 | 20220327T12:12:55Z | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | 106 | 31| 
-| 20220327T12:02:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1543 | 244| 
 | 20220327T11:40:12Z | Python tool for phishing and post exploitation of targets. | https://github.com/Kimi99/phisherman | 0 | 0| 
 | 20220327T11:26:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10923 | 1905| 
 | 20220327T11:18:14Z | A daedalus library for the game Gothic. Exploits the interpreter to allow arbitrary memory access and defines a lot of useful functions for interfacing with the engine. | https://github.com/Lehona/Ikarus | 8 | 6| 
@@ -52,6 +52,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220327T12:38:38Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
 | 20220327T00:24:16Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 27 | 6| 
 
 
