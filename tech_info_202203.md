@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220327T01:39:20Z | This is just for practice of github | https://github.com/RamsZone/fuzzy-octo-system | 0 | 0| 
 | 20220326T23:50:31Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 37789 | 19428| 
 | 20220326T23:19:09Z | A tool to extract tables from .docx files | https://github.com/LeonardoSirino/FuzzyTableExtractor | 2 | 0| 
 | 20220326T18:50:20Z | Null | https://github.com/benajmin/warm-and-fuzzies | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20220326T10:39:48Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 11 | 5| 
 | 20220326T09:30:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 804 | 86| 
 | 20220326T05:49:54Z | Null | https://github.com/aliyadenasa/fuzzy-telegram | 0 | 0| 
-| 20220326T05:36:08Z | Null | https://github.com/kqns91/go-fuzzing | 0 | 0| 
 
 
 
