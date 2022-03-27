@@ -75,6 +75,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220326T22:36:30Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 258 | 17| 
+| 20220326T22:31:41Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 205 | 14| 
+| 20220326T20:53:36Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 0 | 0| 
+| 20220326T16:42:22Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 514 | 88| 
+| 20220326T15:36:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 214 | 48| 
+| 20220326T13:34:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1917 | 547| 
 
 
 # big4 on Github 推荐
