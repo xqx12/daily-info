@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220327T12:57:07Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
+| 20220327T12:55:22Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
 | 20220327T12:51:19Z | cve-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/Throns1956/watchguard_cve-2022-26318 | | 
-| 20220327T12:50:52Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
 | 20220327T12:29:18Z | CVE-2022-24934 | Fake WPS Update Server PoC | https://github.com/MagicPiperSec/WPS-CVE-2022-24934 | | 
-| 20220327T10:38:13Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
 | 20220327T05:50:34Z | CVE-2021-44117 | Null | https://github.com/warmachine-57/CVE-2021-44117 | | 
 | 20220326T22:50:36Z | CVE-2022-21668 | Null | https://github.com/sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability | | 
 | 20220326T14:31:09Z | CVE-2022-22947 | poc for CVE-2022-22947 | https://github.com/Nathaniel1025/CVE-2022-22947 | | 
