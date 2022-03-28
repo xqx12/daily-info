@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220328T00:03:38Z | External Crossy Road trainer that uses code caves to instantly give you max score. | https://github.com/Nico-Posada/Crossy-Road-Hack-Code-Cave | 1 | 0| 
 | 20220327T23:38:54Z | CVE 2020-1034 exploit and presentation | https://github.com/GeorgyFirsov/CVE-2020-1034 | 0 | 0| 
 | 20220327T23:29:54Z | Solution for X Marks the Spot web exploitation challenge from picoCTF | https://github.com/noureldinelhelw/x_marks_the_spot | 0 | 0| 
 | 20220327T22:50:05Z | Exploit didático para explorar o Vulnserver e ganhar reverse shell | https://github.com/caique-garbim/BufferOverflow_vulnserver | 1 | 0| 
@@ -99,18 +100,17 @@
 | 20220327T21:01:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10923 | 1906| 
 | 20220327T20:57:52Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 8 | 3| 
 | 20220327T20:18:31Z | EDX Key Exploit | https://github.com/EDXexploit/Key | 0 | 0| 
-| 20220327T20:18:14Z | External Crossy Road trainer that uses code caves to instantly give you max score. | https://github.com/Nico-Posada/Crossy-Road-Hack-Code-Cave | 0 | 0| 
 | 20220327T19:55:10Z | HtrRYBo3Jw42WDbl9hwVx | https://github.com/EDXexploit/EDX-exploit-Key | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220328T00:03:06Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 78 | 19| 
 | 20220327T22:08:28Z | A backdoor finder. | https://github.com/Dumb-Utility/Unnamed-Backdoor-Finder | 0 | 0| 
 | 20220327T17:00:01Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 25 | 8| 
 | 20220327T12:38:38Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
 | 20220327T00:24:16Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 27 | 6| 
-| 20220326T21:00:10Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 77 | 19| 
 | 20220326T15:08:28Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 74 | 10| 
 | 20220326T13:04:18Z | Rxploit | https://github.com/JosephFrankFir/Rxploit | 5 | 0| 
 | 20220326T08:11:40Z | Null | https://github.com/sunbelbd/invisible_backdoor_attacks | 12 | 1| 

@@ -50,8 +50,8 @@
 | 20220327T21:01:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10923 | 1906| 
 | 20220327T20:57:52Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 8 | 3| 
 | 20220327T20:18:31Z | EDX Key Exploit | https://github.com/EDXexploit/Key | 0 | 0| 
-| 20220327T20:18:14Z | External Crossy Road trainer that uses code caves to instantly give you max score. | https://github.com/Nico-Posada/Crossy-Road-Hack-Code-Cave | 0 | 0| 
 | 20220327T19:55:10Z | HtrRYBo3Jw42WDbl9hwVx | https://github.com/EDXexploit/EDX-exploit-Key | 0 | 0| 
+| 20220327T19:50:15Z | Collection of various mipsel compiled binaries for embedded device exploitation | https://github.com/piffd0s/netcat_for_linksys | 0 | 0| 
 
 
 # backdoor on Github 推荐
