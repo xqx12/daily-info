@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220328T01:49:39Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 34 | 8| 
+| 20220328T01:58:34Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 35 | 8| 
 | 20220327T12:07:19Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 517 | 88| 
 | 20220327T09:49:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 207 | 15| 
 | 20220326T22:36:30Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 258 | 17| 
@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220328T01:57:45Z | Null | https://github.com/emadshanab/Content-Discovery-Web-Dir-Fuzzers-Collection | 0 | 0| 
 | 20220328T00:47:49Z | Null | https://github.com/emadshanab/Web-Fuzzer-Collection | 0 | 0| 
 | 20220327T23:48:54Z | Null | https://github.com/Akmal2159/robot-fuzzy-octo | 0 | 0| 
 | 20220327T21:23:50Z | Null | https://github.com/BASHIRMOHAMEDALIBU/fuzzy-garbanzo | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20220327T19:17:00Z | Null | https://github.com/Ninja99612/fuzzlist.xyz | 0 | 0| 
 | 20220327T12:56:10Z | Null | https://github.com/alanoliveira/fuzzymarks | 0 | 0| 
 | 20220327T12:49:16Z | Null | https://github.com/sid-mukkamala/NeuroFuzzyClassifier | 0 | 0| 
-| 20220327T12:06:47Z | Fuzzing Wordlist | https://github.com/princeroy15/Fuzzing | 0 | 0| 
 
 
 
