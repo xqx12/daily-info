@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220328T01:44:24Z | A WIP %Vulnerable by Design% kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/hua-qiqiz/ant4g0nistw | 0 | 0| 
 | 20220328T01:27:41Z | Exploit que será feito em python ao decorrer do curso de cybersecurity | https://github.com/KekDisk/kalimaa-exploit.py | 0 | 0| 
 | 20220328T00:03:38Z | External Crossy Road trainer that uses code caves to instantly give you max score. | https://github.com/Nico-Posada/Crossy-Road-Hack-Code-Cave | 1 | 0| 
 | 20220327T23:38:54Z | CVE 2020-1034 exploit and presentation | https://github.com/GeorgyFirsov/CVE-2020-1034 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220327T22:49:54Z | Exploit didático para explorar o Sync Breeze Enterprise v10.0.28 e ganhar reverse shell | https://github.com/caique-garbim/BufferOverflow_SyncBreeze_v10.0.28 | 1 | 0| 
 | 20220327T21:54:31Z | Rust language memory safe?  huh? | https://github.com/MaherAzzouzi/MemorySafeExploitation | 0 | 0| 
 | 20220327T21:01:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10923 | 1906| 
-| 20220327T20:57:52Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | 8 | 3| 
 
 
 # backdoor on Github 推荐
