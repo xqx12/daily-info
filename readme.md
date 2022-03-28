@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220328T12:00:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1584 | 249| 
+| 20220328T12:13:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1585 | 249| 
 | 20220328T11:54:16Z | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | 132 | 35| 
 | 20220328T11:52:43Z | Null | https://github.com/zuypt/Tianfucup19-Adobe-exploit | 1 | 0| 
 | 20220328T11:03:31Z | Exploit for CVE-2021_33751 used in PWN2OWN2021 by @synacktiv | https://github.com/1N1T1A/pwn2own2021_exploit | 0 | 0| 
@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220328T11:54:58Z | Null | https://github.com/Blackflame576/Backdoor | 0 | 0| 
+| 20220328T12:08:31Z | Null | https://github.com/Blackflame576/Backdoor | 0 | 0| 
 | 20220328T07:38:04Z | did a research on already found vulnerability in a CCTV to find more vulnerabilities and more mitigation methods | https://github.com/Prabhashaka/Wyze-V2-camera-backdoor-vulnerability | 0 | 0| 
 | 20220328T06:35:05Z | Null | https://github.com/THUYimingLi/BackdoorBox | 32 | 10| 
 | 20220328T03:07:59Z | Null | https://github.com/sam4488-arch-linux/backdoor-automatizer | 0 | 0| 
