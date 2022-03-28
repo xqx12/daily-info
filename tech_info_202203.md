@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220327T23:58:10Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
+| 20220328T00:09:10Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
 | 20220327T23:46:36Z | CVE-2021-27928 | Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928 | https://github.com/GatoGamer1155/CVE-2021-27928 | | 
 | 20220327T23:38:54Z | CVE-2020-1034 | CVE 2020-1034 exploit and presentation | https://github.com/GeorgyFirsov/CVE-2020-1034 | | 
 | 20220327T23:02:04Z | cve-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/Throns1956/watchguard_cve-2022-26318 | | 
