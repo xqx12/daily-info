@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220328T01:49:11Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
+| 20220328T01:51:42Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
 | 20220328T01:41:29Z | cve-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/Throns1956/watchguard_cve-2022-26318 | | 
 | 20220328T01:27:30Z | CVE-2022-21668 | Null | https://github.com/sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability | | 
 | 20220327T23:46:36Z | CVE-2021-27928 | Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928 | https://github.com/GatoGamer1155/CVE-2021-27928 | | 
@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220328T01:35:53Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 33 | 8| 
+| 20220328T01:49:39Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 34 | 8| 
 | 20220327T12:07:19Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 517 | 88| 
 | 20220327T09:49:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 207 | 15| 
 | 20220326T22:36:30Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 258 | 17| 
