@@ -16,6 +16,7 @@
 | 20220328 | 有研究员公开了 Linux 内核 watch_queue 越界写漏洞（CVE-2022-0995）Exploit | https://github.com/Bonfee/CVE-2022-0995| 
 | 20220328 | 编译器优化可能会引入安全问题，来自 Trail of Bits 的研究 | http://blog.trailofbits.com/2022/03/25/towards-practical-security-optimizations-for-binaries/| 
 | 20220328 | Chrome 浏览器紧急发布更新，修复被朝鲜 APT 组织使用的 0Day | https://sec.today/pulses/2d93e4ec-ade8-4753-a997-aeda2b297df6/| 
+| 20220328 | Chrome 浏览器紧急发布更新，修复被朝鲜 APT 组织使用的 0Day | https://threatpost.com/google-chrome-zero-day-bugs-exploited-weeks-ahead-of-patch/179103/| 
 | 20220325 | 如何在 Azure 寻找新的攻击面 | https://docs.google.com/presentation/d/1vVpNezQ1uVS3_PQ_beYH-cQR6qrvGcMP8MWV7LA-nKU/mobilepresent#slide=id.p| 
 | 20220325 | Linux Kernel 保护机制绕过 | https://mp.weixin.qq.com/s/gSTbXW6M72QYtVPoZswhyw| 
 | 20220325 | 安全基础设施安全评估时应该 Review 什么 | https://www.marcolancini.it/2022/blog-cloud-security-infrastructure-review/| 
@@ -25,7 +26,6 @@
 | 20220325 | 一个 Tiny Race Window 的 Linux 内核条件竞争漏洞实现利用的过程 | https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html| 
 | 20220325 | OFTP2 文件传输协议路径穿越漏洞分析 | http://insinuator.net/2022/03/a-tale-of-an-oftp2-vulnerability/| 
 | 20220325 | 有研究员发现本田思域汽车无钥匙系统存在漏洞，攻击者发射 RF 信号控制车门和启动发动机 | https://github.com/nonamecoder/CVE-2022-27254| 
-| 20220324 | Windows Defender Exploit Guard 的 EAF 防护特性的分析 | https://windows-internals.com/an-exercise-in-dynamic-analysis/| 
 
 
 # 安全维基 推荐
@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220328T11:57:53Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
+| 20220328T12:02:57Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
 | 20220328T11:47:01Z | cve-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/Throns1956/watchguard_cve-2022-26318 | | 
 | 20220328T11:03:00Z | CVE-2021-41773 | Null | https://github.com/puckiestyle/CVE-2021-41773 | | 
 | 20220328T10:53:38Z | cve-2022-26318 | Null | https://github.com/misterxid/watchguard_cve-2022-26318 | | 
@@ -121,21 +121,22 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220328T01:58:34Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 35 | 8| 
+| 20220328T11:57:52Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 63 | 10| 
+| 20220328T11:07:12Z | Symbolic Execution of SystemC TLM Peripheralst | https://github.com/agra-uni-bremen/SymSysC | 0 | 0| 
 | 20220327T12:07:19Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 517 | 88| 
 | 20220327T09:49:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 207 | 15| 
 | 20220326T22:36:30Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 258 | 17| 
 | 20220326T15:36:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 214 | 48| 
-| 20220326T13:34:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1917 | 547| 
+| 20220326T13:34:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1917 | 548| 
 | 20220325T13:14:28Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 25 | 16| 
 | 20220324T18:21:15Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 765 | 143| 
 | 20220324T14:37:10Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 38 | 3| 
-| 20220323T08:54:43Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220328T04:28:58Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 0 | 0| 
 | 20220325T18:57:30Z | NDSS 2020 - HYPER-CUBE: High-Dimensional Hypervisor Fuzzing | https://github.com/RUB-SysSec/Hypercube | 16 | 0| 
 | 20220325T15:42:32Z | ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper) | https://github.com/nsg-ethz/ditto | 3 | 2| 
 | 20220325T14:14:34Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 40 | 8| 

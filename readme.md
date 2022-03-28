@@ -16,6 +16,7 @@
 | 20220328 | 有研究员公开了 Linux 内核 watch_queue 越界写漏洞（CVE-2022-0995）Exploit | https://github.com/Bonfee/CVE-2022-0995| 
 | 20220328 | 编译器优化可能会引入安全问题，来自 Trail of Bits 的研究 | http://blog.trailofbits.com/2022/03/25/towards-practical-security-optimizations-for-binaries/| 
 | 20220328 | Chrome 浏览器紧急发布更新，修复被朝鲜 APT 组织使用的 0Day | https://sec.today/pulses/2d93e4ec-ade8-4753-a997-aeda2b297df6/| 
+| 20220328 | Chrome 浏览器紧急发布更新，修复被朝鲜 APT 组织使用的 0Day | https://threatpost.com/google-chrome-zero-day-bugs-exploited-weeks-ahead-of-patch/179103/| 
 
 
 # 安全维基 推荐
@@ -36,7 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220328T11:57:53Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
+| 20220328T12:02:57Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
 | 20220328T11:47:01Z | cve-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/Throns1956/watchguard_cve-2022-26318 | | 
 | 20220328T11:03:00Z | CVE-2021-41773 | Null | https://github.com/puckiestyle/CVE-2021-41773 | | 
 | 20220328T10:53:38Z | cve-2022-26318 | Null | https://github.com/misterxid/watchguard_cve-2022-26318 | | 
@@ -88,12 +89,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220328T01:58:34Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 35 | 8| 
+| 20220328T11:57:52Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 63 | 10| 
+| 20220328T11:07:12Z | Symbolic Execution of SystemC TLM Peripheralst | https://github.com/agra-uni-bremen/SymSysC | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220328T04:28:58Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 0 | 0| 
 
 
 # fuzz on Github 推荐
