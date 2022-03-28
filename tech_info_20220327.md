@@ -18,7 +18,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220327T23:46:36Z | CVE-2021-27928 | Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928 | https://github.com/GatoGamer1155/CVE-2021-27928 | | 
 | 20220327T23:38:54Z | CVE-2020-1034 | CVE 2020-1034 exploit and presentation | https://github.com/GeorgyFirsov/CVE-2020-1034 | | 
-| 20220327T23:02:04Z | cve-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/Throns1956/watchguard_cve-2022-26318 | | 
 | 20220327T20:57:52Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. | https://github.com/razz0r/CVE-2021-44228-Mass-RCE | | 
 | 20220327T20:10:30Z | CVE-2021-41773 | Null | https://github.com/N3w-elf/CVE-2021-41773- | | 
 | 20220327T12:57:07Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
