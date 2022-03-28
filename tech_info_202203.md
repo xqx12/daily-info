@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220328T00:47:49Z | Null | https://github.com/emadshanab/Web-Fuzzer-Collection | 0 | 0| 
 | 20220327T23:48:54Z | Null | https://github.com/Akmal2159/robot-fuzzy-octo | 0 | 0| 
 | 20220327T21:23:50Z | Null | https://github.com/BASHIRMOHAMEDALIBU/fuzzy-garbanzo | 0 | 0| 
 | 20220327T20:36:54Z | Fuzzing library similar to libfuzzer | https://github.com/landaire/fazi | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20220327T12:56:10Z | Null | https://github.com/alanoliveira/fuzzymarks | 0 | 0| 
 | 20220327T12:49:16Z | Null | https://github.com/sid-mukkamala/NeuroFuzzyClassifier | 0 | 0| 
 | 20220327T12:06:47Z | Fuzzing Wordlist | https://github.com/princeroy15/Fuzzing | 0 | 0| 
-| 20220327T10:15:53Z | Try to find failing inputs for submissions on seeded problems | https://github.com/competitive-algorithms-data-structures/fuzzer | 0 | 0| 
 
 
 
