@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220329T01:17:44Z | CVE-2022-27666 | Exploit for CVE-2022-27666 | https://github.com/plummm/CVE-2022-27666 | | 
+| 20220329T01:27:04Z | CVE-2022-27666 | Exploit for CVE-2022-27666 | https://github.com/plummm/CVE-2022-27666 | | 
 | 20220329T01:08:55Z | cve-2021-4034 | Null | https://github.com/jcatala/f_poc_cve-2021-4034 | | 
 | 20220329T01:00:33Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
 | 20220328T22:07:35Z | CVE-2021-25094 | Null | https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce | | 
@@ -121,10 +121,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T01:20:59Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 67 | 10| 
 | 20220329T00:31:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 767 | 144| 
 | 20220328T19:48:39Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 26 | 18| 
 | 20220328T18:01:55Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 39 | 3| 
-| 20220328T17:39:11Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 66 | 10| 
 | 20220328T12:20:44Z | Symbolic Execution of SystemC TLM Peripherals | https://github.com/agra-uni-bremen/SymSysC | 0 | 0| 
 | 20220327T12:07:19Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 517 | 89| 
 | 20220327T09:49:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 207 | 15| 
