@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T01:39:11Z | Hyper-V Fuzzer using hAFL2 | https://github.com/blackcon/HVFUZZ | 1 | 2| 
 | 20220329T00:58:46Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Fuzzer | 0 | 0| 
 | 20220329T00:25:08Z | Null | https://github.com/aj9749988/fuzzy-barnacle | 0 | 0| 
 | 20220328T23:22:50Z | Rust version of fuzzy-binary-search  | https://github.com/DBBrowne/obtuse-code-challenge-fuzzy-binary-search | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20220328T12:51:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4056 | 962| 
 | 20220328T11:22:01Z | Basic Fuzzy Search | https://github.com/TomTruyen/Fuzzyness | 0 | 0| 
 | 20220328T11:14:23Z | Null | https://github.com/M3m3M4n/modbus-fuzz-note | 0 | 0| 
-| 20220328T10:53:38Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1155 | 162| 
 
 
 
