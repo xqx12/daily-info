@@ -49,11 +49,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T12:33:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10928 | 1906| 
 | 20220329T12:23:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1599 | 253| 
 | 20220329T11:57:44Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/datastealer/Hacking-Tools-Pack | 1 | 0| 
 | 20220329T11:40:58Z | Le Lasserre est le nom de notre ferme située sur la commune de Bénesse-les-Dax à 8 kms de Dax. Les principales activités de notre exploitation familiale sont le gavage de canards, la production de maïs ainsi que le vignoble pour les Vignerons Landais. | https://github.com/Charline7/final-project-le-lasserre | 0 | 0| 
 | 20220329T11:35:03Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/datastealer/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220329T11:10:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10927 | 1906| 
 | 20220329T11:07:09Z | PyExploit settings page. | https://github.com/Submine-1106/Exploit_Settings | 0 | 0| 
 | 20220329T10:22:52Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 708 | 156| 
 | 20220329T10:09:33Z | Null | https://github.com/opertaor309/Your-Exploit | 0 | 0| 
@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T12:32:16Z | Null | https://github.com/wazir23/fuzzy-pancake | 0 | 0| 
 | 20220329T11:45:59Z | Propose the best and optimal material suited for the FDM process to manufacture a spur gear Using Fuzzy AHP and ELECTREE Method. | https://github.com/virtual-illusion/Fuzzy-AHP-and-ELECTREE | 1 | 0| 
 | 20220329T11:14:34Z | Node module containing an array of string matching algorithms written in rust, binded with Neon-bindings | https://github.com/rupert648/fuzzy-neon | 0 | 0| 
 | 20220329T09:44:42Z | Null | https://github.com/zzzzzba/fuzzy-palm-tree | 0 | 0| 
