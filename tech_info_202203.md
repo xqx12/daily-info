@@ -34,13 +34,13 @@
 | 20220329 | What Is the Uplink Port on a Switch? | /topic/87| 
 | 20220329 | 从主流安全开发框架看软件供应链安全保障的落地 | https://mp.weixin.qq.com/s/eu7PfSYdZhNc1kGZ3MKzMg| 
 | 20220329 | 如何通过开源组件实现一套山寨版的 BAB 方案 | https://zhuanlan.zhihu.com/p/489791169| 
+| 20220329 | Fvuln: 一款自动化工具 | https://github.com/d3ckx1/Fvuln| 
 | 20220328 | OpenCTI入门笔记（二）:存储设置&清理&修改图标和title | https://mp.weixin.qq.com/s/oh2AZ7XMuzDgTEVUV6aSsg| 
 | 20220328 | CodeCat：一款功能强大的静态代码分析工具 | https://mp.weixin.qq.com/s/wJrb4rgUUoplfjmhvTPRMA| 
 | 20220328 | 攻防对抗模拟工具CyberBattleSim的简单分析 | https://blog.csdn.net/momo_sleet/article/details/115793178| 
 | 20220328 | 如何学习这么多的安全文章（理论篇） | https://mp.weixin.qq.com/s/qA3U3qI0h7tuzggI7lvjAA| 
 | 20220328 | 护网相关知识整理 | https://www.notion.so/4f2d8f3ff5d2491b9fc5a3ea9f6ace8d| 
 | 20220328 | 数字货币在暗网中的使用初探 | https://mp.weixin.qq.com/s/-tk1cCaYgcfBnjuS0Pahjw| 
-| 20220328 | eCapture：无需CA证书抓https网络明文通讯 | https://mp.weixin.qq.com/s/DvTClH3JmncpkaEfnTQsRg| 
 
 
 # CVE Github 推荐

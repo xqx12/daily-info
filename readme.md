@@ -21,6 +21,7 @@
 | 20220329 | What Is the Uplink Port on a Switch? | /topic/87| 
 | 20220329 | 从主流安全开发框架看软件供应链安全保障的落地 | https://mp.weixin.qq.com/s/eu7PfSYdZhNc1kGZ3MKzMg| 
 | 20220329 | 如何通过开源组件实现一套山寨版的 BAB 方案 | https://zhuanlan.zhihu.com/p/489791169| 
+| 20220329 | Fvuln: 一款自动化工具 | https://github.com/d3ckx1/Fvuln| 
 
 
 # CVE Github 推荐
