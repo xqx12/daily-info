@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T00:40:21Z | Framework for rapid development and reusable of security tools | https://github.com/htrgouvea/spellbook | 58 | 12| 
 | 20220329T00:00:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10927 | 1906| 
 | 20220328T23:16:27Z | Null | https://github.com/Jack7988/Silent-Exploit-JPEG-2022 | 0 | 0| 
 | 20220328T23:07:35Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-0day | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220328T20:35:55Z | Exploit Dirty_Sock Tutorial para mi grupo t.me/Un0zandC3r0z | https://github.com/Samsepi0lito/tutorial-dirty_sock | 0 | 0| 
 | 20220328T18:06:03Z | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | 12 | 6| 
 | 20220328T14:19:34Z | Exploit test with Python.... | https://github.com/Submine-1106/Exploit_Main | 0 | 0| 
-| 20220328T12:19:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1586 | 249| 
 
 
 # backdoor on Github 推荐
@@ -121,10 +121,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T00:31:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 767 | 144| 
 | 20220328T19:48:39Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 26 | 18| 
 | 20220328T18:01:55Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 39 | 3| 
 | 20220328T17:39:11Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 66 | 10| 
-| 20220328T15:43:18Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 766 | 143| 
 | 20220328T12:20:44Z | Symbolic Execution of SystemC TLM Peripherals | https://github.com/agra-uni-bremen/SymSysC | 0 | 0| 
 | 20220327T12:07:19Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 517 | 89| 
 | 20220327T09:49:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 207 | 15| 
