@@ -91,7 +91,7 @@
 | 20220329T09:44:42Z | Null | https://github.com/zzzzzba/fuzzy-palm-tree | 0 | 0| 
 | 20220329T09:36:02Z | Fuzzy sets | https://github.com/mmasdeu/fuzzy | 0 | 0| 
 | 20220329T05:06:53Z | Null | https://github.com/MJ-SEO/py_fuzz | 0 | 0| 
-| 20220329T01:56:02Z | Hyper-V Fuzzer using hAFL2 | https://github.com/blackcon/HVFUZZ | 2 | 2| 
+| 20220329T03:57:07Z | Hyper-V Fuzzer using hAFL2 | https://github.com/blackcon/HVFUZZ | 2 | 2| 
 | 20220329T00:58:46Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Fuzzer | 0 | 0| 
 | 20220329T00:25:08Z | Null | https://github.com/aj9749988/fuzzy-barnacle | 0 | 0| 
 
