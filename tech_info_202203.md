@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T00:25:08Z | Null | https://github.com/aj9749988/fuzzy-barnacle | 0 | 0| 
 | 20220328T23:22:50Z | Rust version of fuzzy-binary-search  | https://github.com/DBBrowne/obtuse-code-challenge-fuzzy-binary-search | 0 | 0| 
 | 20220328T21:25:15Z | Null | https://github.com/TStantonJ/AI4SecFuzzer | 0 | 0| 
 | 20220328T21:24:42Z | FizzBuzz But Done Fabulously  | https://github.com/HenryDewsnap/BizzFuzz | 1 | 0| 
@@ -157,7 +158,6 @@
 | 20220328T11:14:23Z | Null | https://github.com/M3m3M4n/modbus-fuzz-note | 0 | 0| 
 | 20220328T10:53:38Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1155 | 162| 
 | 20220328T10:30:28Z |  Conventional trains, using steel wheels on a steel track, could never efficiently climb a track as steep as most funicular railways. Steel wheels are used to decrease rolling resistance, which improves the efficiency of trains on flat ground, but would hinder their ability to get traction going up steep slopes.     The Incline Railway, and funicular railways in general, solve this problem by pulling trains up steep grades with a cable. With this cable, the steel wheels don’t need to have traction, but can be used primarily to guide the train along the tracks. The funicular railway is made even more efficient by counterbalancing two train cars on the same track and using the weight of one to help pull the other up the mountain. The Incline has two cars that ride on the same single mile-long track. When the cars come close together, the track splits into two as a “passing loop” for both cars to pass one another. This single track, passing loop system, is used in funicular railways across the world! | https://github.com/eatlranytolberts/fuzzy-funicular | 0 | 0| 
-| 20220328T01:57:45Z | Null | https://github.com/emadshanab/Content-Discovery-Web-Dir-Fuzzers-Collection | 0 | 0| 
 
 
 
