@@ -40,7 +40,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220328T22:07:35Z | CVE-2021-25094 | Null | https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce | | 
-| 20220328T21:20:34Z | CVE-2022-27666 | Exploit for CVE-2022-27666 | https://github.com/plummm/CVE-2022-27666 | | 
 | 20220328T19:27:19Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
 | 20220328T17:10:24Z | CVE-2022-26269 | Suzuki connect app is used to get the car information like Fuel, Ignition status, Current location, Seat buckle status etc. In Ignis, Zeta variant car if the Fuel CAN messages and Seat buckle status is spoofed via OBD 2 port with the crafted value (e.g. zero percent fuel and Car seat is buckled ), then the same value is reflected on Suzuki connect app, which can mislead the user. | https://github.com/nsbogam/CVE-2022-26269 | | 
 | 20220328T13:57:10Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
@@ -49,6 +48,7 @@
 | 20220328T11:03:00Z | CVE-2021-41773 | Null | https://github.com/puckiestyle/CVE-2021-41773 | | 
 | 20220328T10:53:38Z | cve-2022-26318 | Null | https://github.com/misterxid/watchguard_cve-2022-26318 | | 
 | 20220328T08:20:31Z | 未知编号 | Check and report for cve_2022_23307 (log4shell) on your system. | https://github.com/buluma/ansible-role-cve_2022-23307 | | 
+| 20220328T07:41:53Z | CVE-2022-10086 | Null | https://github.com/Gaphuang/CVE-2022-10086-TEST- | | 
 
 
 # klee on Github 推荐
