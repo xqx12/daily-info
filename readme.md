@@ -49,7 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220329T12:40:34Z | Null | https://github.com/HubOSRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
+| 20220329T12:45:36Z | Null | https://github.com/HubOSRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20220329T12:33:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10928 | 1906| 
 | 20220329T12:23:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1599 | 253| 
 | 20220329T11:57:44Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/datastealer/Hacking-Tools-Pack | 1 | 0| 
