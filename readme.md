@@ -67,6 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T12:55:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 450 | 86| 
 | 20220329T09:58:56Z | Command line tool to create Discord remote access trojans | https://github.com/nohavenn/DiscoSh | 0 | 0| 
 | 20220329T09:27:37Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1545 | 700| 
 | 20220329T08:54:26Z | Null | https://github.com/phsk1d/Backdoor | 0 | 0| 
