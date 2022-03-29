@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220329T00:59:19Z | CVE-2022-27666 | Exploit for CVE-2022-27666 | https://github.com/plummm/CVE-2022-27666 | | 
 | 20220329T00:51:10Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
-| 20220329T00:36:35Z | CVE-2022-27666 | Exploit for CVE-2022-27666 | https://github.com/plummm/CVE-2022-27666 | | 
 | 20220328T22:07:35Z | CVE-2021-25094 | Null | https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce | | 
 | 20220328T19:27:19Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
 | 20220328T17:10:24Z | CVE-2022-26269 | Suzuki connect app is used to get the car information like Fuel, Ignition status, Current location, Seat buckle status etc. In Ignis, Zeta variant car if the Fuel CAN messages and Seat buckle status is spoofed via OBD 2 port with the crafted value (e.g. zero percent fuel and Car seat is buckled ), then the same value is reflected on Suzuki connect app, which can mislead the user. | https://github.com/nsbogam/CVE-2022-26269 | | 
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T00:58:46Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Fuzzer | 0 | 0| 
 | 20220329T00:25:08Z | Null | https://github.com/aj9749988/fuzzy-barnacle | 0 | 0| 
 | 20220328T23:22:50Z | Rust version of fuzzy-binary-search  | https://github.com/DBBrowne/obtuse-code-challenge-fuzzy-binary-search | 0 | 0| 
 | 20220328T21:25:15Z | Null | https://github.com/TStantonJ/AI4SecFuzzer | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20220328T11:22:01Z | Basic Fuzzy Search | https://github.com/TomTruyen/Fuzzyness | 0 | 0| 
 | 20220328T11:14:23Z | Null | https://github.com/M3m3M4n/modbus-fuzz-note | 0 | 0| 
 | 20220328T10:53:38Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1155 | 162| 
-| 20220328T10:30:28Z |  Conventional trains, using steel wheels on a steel track, could never efficiently climb a track as steep as most funicular railways. Steel wheels are used to decrease rolling resistance, which improves the efficiency of trains on flat ground, but would hinder their ability to get traction going up steep slopes.     The Incline Railway, and funicular railways in general, solve this problem by pulling trains up steep grades with a cable. With this cable, the steel wheels don’t need to have traction, but can be used primarily to guide the train along the tracks. The funicular railway is made even more efficient by counterbalancing two train cars on the same track and using the weight of one to help pull the other up the mountain. The Incline has two cars that ride on the same single mile-long track. When the cars come close together, the track splits into two as a “passing loop” for both cars to pass one another. This single track, passing loop system, is used in funicular railways across the world! | https://github.com/eatlranytolberts/fuzzy-funicular | 0 | 0| 
 
 
 
