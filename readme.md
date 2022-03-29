@@ -39,7 +39,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220328T22:52:56Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
 | 20220328T22:07:35Z | CVE-2021-25094 | Null | https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce | | 
 | 20220328T21:20:34Z | CVE-2022-27666 | Exploit for CVE-2022-27666 | https://github.com/plummm/CVE-2022-27666 | | 
 | 20220328T19:27:19Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
@@ -49,6 +48,7 @@
 | 20220328T12:51:29Z | cve-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/Throns1956/watchguard_cve-2022-26318 | | 
 | 20220328T11:03:00Z | CVE-2021-41773 | Null | https://github.com/puckiestyle/CVE-2021-41773 | | 
 | 20220328T10:53:38Z | cve-2022-26318 | Null | https://github.com/misterxid/watchguard_cve-2022-26318 | | 
+| 20220328T08:20:31Z | 未知编号 | Check and report for cve_2022_23307 (log4shell) on your system. | https://github.com/buluma/ansible-role-cve_2022-23307 | | 
 
 
 # klee on Github 推荐
