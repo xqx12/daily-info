@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220329 | What Is the Uplink Port on a Switch? | /topic/87| 
+| 20220329 | 从主流安全开发框架看软件供应链安全保障的落地 | https://mp.weixin.qq.com/s/eu7PfSYdZhNc1kGZ3MKzMg| 
 | 20220328 | OpenCTI入门笔记（二）:存储设置&清理&修改图标和title | https://mp.weixin.qq.com/s/oh2AZ7XMuzDgTEVUV6aSsg| 
 | 20220328 | CodeCat：一款功能强大的静态代码分析工具 | https://mp.weixin.qq.com/s/wJrb4rgUUoplfjmhvTPRMA| 
 | 20220328 | 攻防对抗模拟工具CyberBattleSim的简单分析 | https://blog.csdn.net/momo_sleet/article/details/115793178| 
@@ -40,14 +41,13 @@
 | 20220328 | 数字货币在暗网中的使用初探 | https://mp.weixin.qq.com/s/-tk1cCaYgcfBnjuS0Pahjw| 
 | 20220328 | eCapture：无需CA证书抓https网络明文通讯 | https://mp.weixin.qq.com/s/DvTClH3JmncpkaEfnTQsRg| 
 | 20220328 | 俄乌网络战争的启示 | https://mp.weixin.qq.com/s/f2jFoaq8Yagmy2JwpHNCgQ| 
-| 20220328 | 我们能从日本保障东京奥运会网络安全工作中学到什么？ | https://mp.weixin.qq.com/s/SP_mNczD_2yOf1oR3C1CDA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220329T12:50:09Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
 | 20220329T12:22:37Z | 未知编号 | Null | https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370 | | 
-| 20220329T11:52:17Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
 | 20220329T11:45:12Z | CVE-2020-29370 | Null | https://github.com/nanopathi/kERNEL_GIT_TORVALDS_AFP_CVE-2020-29370 | | 
 | 20220329T09:44:28Z | CVE-2020-1034 | CVE 2020-1034 exploit and presentation | https://github.com/GeorgyFirsov/CVE-2020-1034 | | 
 | 20220329T09:29:01Z | 未知编号 | Null | https://github.com/nanopathi/packages_apps_Nfc_cve-2020_02453 | | 

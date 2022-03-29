@@ -19,13 +19,14 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220329 | What Is the Uplink Port on a Switch? | /topic/87| 
+| 20220329 | 从主流安全开发框架看软件供应链安全保障的落地 | https://mp.weixin.qq.com/s/eu7PfSYdZhNc1kGZ3MKzMg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220329T12:50:09Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
 | 20220329T12:22:37Z | 未知编号 | Null | https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370 | | 
-| 20220329T11:52:17Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
 | 20220329T11:45:12Z | CVE-2020-29370 | Null | https://github.com/nanopathi/kERNEL_GIT_TORVALDS_AFP_CVE-2020-29370 | | 
 | 20220329T09:44:28Z | CVE-2020-1034 | CVE 2020-1034 exploit and presentation | https://github.com/GeorgyFirsov/CVE-2020-1034 | | 
 | 20220329T09:29:01Z | 未知编号 | Null | https://github.com/nanopathi/packages_apps_Nfc_cve-2020_02453 | | 
