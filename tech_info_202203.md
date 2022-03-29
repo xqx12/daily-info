@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220329T01:39:11Z | Hyper-V Fuzzer using hAFL2 | https://github.com/blackcon/HVFUZZ | 1 | 2| 
+| 20220329T01:56:02Z | Hyper-V Fuzzer using hAFL2 | https://github.com/blackcon/HVFUZZ | 2 | 2| 
 | 20220329T00:58:46Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Fuzzer | 0 | 0| 
 | 20220329T00:25:08Z | Null | https://github.com/aj9749988/fuzzy-barnacle | 0 | 0| 
 | 20220328T23:22:50Z | Rust version of fuzzy-binary-search  | https://github.com/DBBrowne/obtuse-code-challenge-fuzzy-binary-search | 0 | 0| 
