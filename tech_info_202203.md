@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220329 | Difftastic - 支持语法格式的 Diff 工具 | https://github.com/Wilfred/difftastic| 
+| 20220329 | NCC Group 对 C/C++ Double Fetch 漏洞的研究报告 | http://research.nccgroup.com/2022/03/28/whitepaper-double-fetch-vulnerabilities-in-c-and-c/| 
+| 20220329 | 渗透测试中的 Account 修改方法（Windows/域账户/AWS/Auzre） | https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1098/T1098.md| 
+| 20220329 | 在 Rails 找 Gadget 实现 Ruby Deserialization 漏洞的利用 | https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md| 
+| 20220329 | CVE-2022-27666: Exploit esp6 modules in Linux kernel | https://etenal.me/archives/1825| 
+| 20220329 | Your NAS is not your NAS，Synology NAS RCE 漏洞分析 | https://devco.re/blog/2022/03/28/your-NAS-is-not-your-NAS/| 
+| 20220329 | Firewall bypass with CARP in Packet Filter | https://medium.com/sensorfu/firewall-bypass-with-carp-in-packet-filter-c4ed70fb7dd7| 
 | 20220328 | Automated Bug Localization in JIT Compilers（Paper） | https://www2.cs.arizona.edu/~debray/Publications/vee21.pdf| 
 | 20220328 | CodeCat - 支持对用户输入 SINK 分析的静态代码分析工具 | https://github.com/CoolerVoid/codecat| 
 | 20220328 | NETGEAR 路由器命令注入漏洞(PSV-2022–0044)的发现过程 | https://flattsecurity.medium.com/finding-bugs-to-trigger-unauthenticated-command-injection-in-a-netgear-router-psv-2022-0044-2b394fb9edc| 
@@ -19,18 +26,12 @@
 | 20220328 | Chrome 浏览器紧急发布更新，修复被朝鲜 APT 组织使用的 0Day | https://threatpost.com/google-chrome-zero-day-bugs-exploited-weeks-ahead-of-patch/179103/| 
 | 20220328 | Attacking Active Directory: 0 to 0.9（译文，上篇） | https://tttang.com/archive/1509/| 
 | 20220328 | SpringCloudFunction漏洞分析 . | https://hosch3n.github.io/2022/03/26/SpringCloudFunction%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/| 
-| 20220325 | 如何在 Azure 寻找新的攻击面 | https://docs.google.com/presentation/d/1vVpNezQ1uVS3_PQ_beYH-cQR6qrvGcMP8MWV7LA-nKU/mobilepresent#slide=id.p| 
-| 20220325 | Linux Kernel 保护机制绕过 | https://mp.weixin.qq.com/s/gSTbXW6M72QYtVPoZswhyw| 
-| 20220325 | 安全基础设施安全评估时应该 Review 什么 | https://www.marcolancini.it/2022/blog-cloud-security-infrastructure-review/| 
-| 20220325 | Delegating Kerberos to bypass Kerberos delegation limitation | https://www.thehacker.recipes/ad/movement/kerberos/delegations#talk| 
-| 20220325 | Remote Code Execution on Western Digital PR4100 NAS (CVE-2022-23121) | http://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/| 
-| 20220325 | Heap Overflow in OpenBSDs slaacd via Router Advertisement | http://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html| 
-| 20220325 | 一个 Tiny Race Window 的 Linux 内核条件竞争漏洞实现利用的过程 | https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220329 | What Is the Uplink Port on a Switch? | /topic/87| 
 | 20220328 | OpenCTI入门笔记（二）:存储设置&清理&修改图标和title | https://mp.weixin.qq.com/s/oh2AZ7XMuzDgTEVUV6aSsg| 
 | 20220328 | CodeCat：一款功能强大的静态代码分析工具 | https://mp.weixin.qq.com/s/wJrb4rgUUoplfjmhvTPRMA| 
 | 20220328 | 攻防对抗模拟工具CyberBattleSim的简单分析 | https://blog.csdn.net/momo_sleet/article/details/115793178| 
@@ -40,22 +41,21 @@
 | 20220328 | eCapture：无需CA证书抓https网络明文通讯 | https://mp.weixin.qq.com/s/DvTClH3JmncpkaEfnTQsRg| 
 | 20220328 | 俄乌网络战争的启示 | https://mp.weixin.qq.com/s/f2jFoaq8Yagmy2JwpHNCgQ| 
 | 20220328 | 我们能从日本保障东京奥运会网络安全工作中学到什么？ | https://mp.weixin.qq.com/s/SP_mNczD_2yOf1oR3C1CDA| 
-| 20220328 | SecWiki周刊（第421期) | https://www.sec-wiki.com/weekly/421| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220329T01:54:28Z | CVE-2022-27666 | Exploit for CVE-2022-27666 | https://github.com/plummm/CVE-2022-27666 | | 
-| 20220329T01:43:50Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
-| 20220329T01:08:55Z | cve-2021-4034 | Null | https://github.com/jcatala/f_poc_cve-2021-4034 | | 
-| 20220329T01:00:33Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/Bonfee/CVE-2022-0995 | | 
-| 20220328T22:07:35Z | CVE-2021-25094 | Null | https://github.com/darkpills/CVE-2021-25094-tatsu-preauth-rce | | 
-| 20220328T19:27:19Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
-| 20220328T17:10:24Z | CVE-2022-26269 | Suzuki connect app is used to get the car information like Fuel, Ignition status, Current location, Seat buckle status etc. In Ignis, Zeta variant car if the Fuel CAN messages and Seat buckle status is spoofed via OBD 2 port with the crafted value (e.g. zero percent fuel and Car seat is buckled ), then the same value is reflected on Suzuki connect app, which can mislead the user. | https://github.com/nsbogam/CVE-2022-26269 | | 
-| 20220328T13:56:47Z | CVE-2022-24934 | Fake WPS Update Server PoC | https://github.com/MagicPiperSec/WPS-CVE-2022-24934 | | 
-| 20220328T12:51:29Z | cve-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/Throns1956/watchguard_cve-2022-26318 | | 
-| 20220328T11:03:00Z | CVE-2021-41773 | Null | https://github.com/puckiestyle/CVE-2021-41773 | | 
+| 20220329T11:55:26Z | 未知编号 | Null | https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370 | | 
+| 20220329T11:52:17Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
+| 20220329T11:45:12Z | CVE-2020-29370 | Null | https://github.com/nanopathi/kERNEL_GIT_TORVALDS_AFP_CVE-2020-29370 | | 
+| 20220329T09:44:28Z | CVE-2020-1034 | CVE 2020-1034 exploit and presentation | https://github.com/GeorgyFirsov/CVE-2020-1034 | | 
+| 20220329T09:29:01Z | 未知编号 | Null | https://github.com/nanopathi/packages_apps_Nfc_cve-2020_02453 | | 
+| 20220329T09:11:23Z | CVE-2020-0453 | Null | https://github.com/Trinadh465/Nfc-CVE-2020-0453 | | 
+| 20220329T08:11:52Z | CVE-2020-0453 | Null | https://github.com/nanopathi/Packages_apps_Nfc_CVE-2020-0453 | | 
+| 20220329T06:58:18Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
+| 20220329T06:22:50Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
+| 20220329T06:22:17Z | CVE-2020-0453 | Null | https://github.com/pazhanivel07/Nfc_CVE-2020-0453 | | 
 
 
 # klee on Github 推荐
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220329T00:40:21Z | Framework for rapid development and reusable of security tools | https://github.com/htrgouvea/spellbook | 58 | 12| 
-| 20220329T00:00:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10927 | 1906| 
-| 20220328T23:16:27Z | Null | https://github.com/Jack7988/Silent-Exploit-JPEG-2022 | 0 | 0| 
-| 20220328T23:07:35Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-0day | 0 | 0| 
-| 20220328T22:55:49Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 184 | 118| 
-| 20220328T22:33:15Z | Boilerplate for Selenium-based exploit automation | https://github.com/ApprenticeofEnder/Selenium-Oxide | 1 | 0| 
-| 20220328T20:43:47Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 77 | 11| 
-| 20220328T20:35:55Z | Exploit Dirty_Sock Tutorial para mi grupo t.me/Un0zandC3r0z | https://github.com/Samsepi0lito/tutorial-dirty_sock | 0 | 0| 
-| 20220328T18:06:03Z | A powerful and highly efficient network debugging tool for Roblox (and exploits) | https://github.com/NotDSF/HttpSpy | 12 | 6| 
-| 20220328T14:19:34Z | Exploit test with Python.... | https://github.com/Submine-1106/Exploit_Main | 0 | 0| 
+| 20220329T11:57:44Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/datastealer/Hacking-Tools-Pack | 1 | 0| 
+| 20220329T11:40:58Z | Le Lasserre est le nom de notre ferme située sur la commune de Bénesse-les-Dax à 8 kms de Dax. Les principales activités de notre exploitation familiale sont le gavage de canards, la production de maïs ainsi que le vignoble pour les Vignerons Landais. | https://github.com/Charline7/final-project-le-lasserre | 0 | 0| 
+| 20220329T11:35:03Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/datastealer/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220329T11:13:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1598 | 253| 
+| 20220329T11:10:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10927 | 1906| 
+| 20220329T11:07:09Z | PyExploit settings page. | https://github.com/Submine-1106/Exploit_Settings | 0 | 0| 
+| 20220329T10:22:52Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 708 | 156| 
+| 20220329T10:09:33Z | Null | https://github.com/opertaor309/Your-Exploit | 0 | 0| 
+| 20220329T10:04:59Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 34 | 4| 
+| 20220329T09:39:10Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 801 | 136| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220328T22:48:40Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1544 | 700| 
-| 20220328T20:43:47Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 77 | 11| 
+| 20220329T09:58:56Z | Command line tool to create Discord remote access trojans | https://github.com/nohavenn/DiscoSh | 0 | 0| 
+| 20220329T09:27:37Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1545 | 700| 
+| 20220329T08:54:26Z | Null | https://github.com/phsk1d/Backdoor | 0 | 0| 
+| 20220329T02:53:42Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 79 | 11| 
 | 20220328T18:31:12Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 29 | 6| 
 | 20220328T18:04:04Z | backdoor_v3 by jfam421 | https://github.com/jfam421/backdoor_v3 | 2 | 0| 
 | 20220328T15:19:04Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 140 | 37| 
 | 20220328T12:43:42Z | Null | https://github.com/THUYimingLi/BackdoorBox | 33 | 11| 
 | 20220328T12:08:31Z | Null | https://github.com/Blackflame576/Backdoor | 0 | 0| 
 | 20220328T07:38:04Z | did a research on already found vulnerability in a CCTV to find more vulnerabilities and more mitigation methods | https://github.com/Prabhashaka/Wyze-V2-camera-backdoor-vulnerability | 0 | 0| 
-| 20220328T03:07:59Z | Null | https://github.com/sam4488-arch-linux/backdoor-automatizer | 0 | 0| 
-| 20220328T00:03:06Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 78 | 19| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T11:45:59Z | Propose the best and optimal material suited for the FDM process to manufacture a spur gear Using Fuzzy AHP and ELECTREE Method. | https://github.com/virtual-illusion/Fuzzy-AHP-and-ELECTREE | 1 | 0| 
+| 20220329T11:14:34Z | Node module containing an array of string matching algorithms written in rust, binded with Neon-bindings | https://github.com/rupert648/fuzzy-neon | 0 | 0| 
+| 20220329T09:44:42Z | Null | https://github.com/zzzzzba/fuzzy-palm-tree | 0 | 0| 
+| 20220329T09:36:02Z | Fuzzy sets | https://github.com/mmasdeu/fuzzy | 0 | 0| 
+| 20220329T05:06:53Z | Null | https://github.com/MJ-SEO/py_fuzz | 0 | 0| 
 | 20220329T01:56:02Z | Hyper-V Fuzzer using hAFL2 | https://github.com/blackcon/HVFUZZ | 2 | 2| 
 | 20220329T00:58:46Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Fuzzer | 0 | 0| 
 | 20220329T00:25:08Z | Null | https://github.com/aj9749988/fuzzy-barnacle | 0 | 0| 
 | 20220328T23:22:50Z | Rust version of fuzzy-binary-search  | https://github.com/DBBrowne/obtuse-code-challenge-fuzzy-binary-search | 0 | 0| 
 | 20220328T21:25:15Z | Null | https://github.com/TStantonJ/AI4SecFuzzer | 0 | 0| 
-| 20220328T21:24:42Z | FizzBuzz But Done Fabulously  | https://github.com/HenryDewsnap/BizzFuzz | 1 | 0| 
-| 20220328T14:57:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7212 | 1538| 
-| 20220328T12:51:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4056 | 962| 
-| 20220328T11:22:01Z | Basic Fuzzy Search | https://github.com/TomTruyen/Fuzzyness | 0 | 0| 
-| 20220328T11:14:23Z | Null | https://github.com/M3m3M4n/modbus-fuzz-note | 0 | 0| 
 
 
 
