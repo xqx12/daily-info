@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220330T01:20:02Z | CVE-2021-4034 | golang implementation of CVE-2021-403 | https://github.com/hAV9sad/CVE-2021-4034 | | 
 | 20220330T00:53:32Z | CVE-2020-3187 | Null | https://github.com/T4t4ru/CVE-2020-3187 | | 
 | 20220330T00:51:53Z | CVE-2020-25613 | Null | https://github.com/metapox/CVE-2020-25613 | | 
 | 20220329T21:05:01Z | CVE-2021-2109 | Null | https://github.com/coco0x0a/CVE-2021-2109 | | 
@@ -55,7 +56,6 @@
 | 20220329T16:47:51Z | CVE-2022-22948 | Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter | https://github.com/PenteraIO/CVE-2022-22948 | | 
 | 20220329T15:29:59Z | CVE-2022-24934 | Null | https://github.com/tzwlhack/WPS-CVE-2022-24934 | | 
 | 20220329T14:45:28Z | CVE-2021-21017 | Null | https://github.com/tzwlhack/CVE-2021-21017 | | 
-| 20220329T14:34:01Z | CVE-2022-26500 | Veeam Unauth Remote Code Execution | https://github.com/sinsinology/CVE-2022-26500 | | 
 
 
 # klee on Github 推荐
@@ -98,9 +98,9 @@
 | 20220329T21:54:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10934 | 1906| 
 | 20220329T21:38:34Z | Set of scripts, to test and exploit the zerologon vulnerability (CVE-2020-1472).  | https://github.com/Nekoox/zerologon | 1 | 1| 
 | 20220329T20:32:28Z | Advanced Anti-Exploitation Library made in C# and C++ | https://github.com/AhmedMinegames/AntiHackingEngine | 0 | 0| 
+| 20220329T18:51:02Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6956 | 1615| 
 | 20220329T17:55:18Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 134 | 27| 
 | 20220329T17:46:13Z | Null | https://github.com/tushar7176/vulnerablity-exploiter | 0 | 0| 
-| 20220329T16:26:29Z | :no_entry: Console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | 5 | 1| 
 
 
 # backdoor on Github 推荐

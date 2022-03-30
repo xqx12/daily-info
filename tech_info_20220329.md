@@ -60,11 +60,11 @@
 | 20220329T21:54:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10934 | 1906| 
 | 20220329T21:38:34Z | Set of scripts, to test and exploit the zerologon vulnerability (CVE-2020-1472).  | https://github.com/Nekoox/zerologon | 1 | 1| 
 | 20220329T20:32:28Z | Advanced Anti-Exploitation Library made in C# and C++ | https://github.com/AhmedMinegames/AntiHackingEngine | 0 | 0| 
+| 20220329T18:51:02Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6956 | 1615| 
 | 20220329T17:55:18Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 134 | 27| 
 | 20220329T17:46:13Z | Null | https://github.com/tushar7176/vulnerablity-exploiter | 0 | 0| 
 | 20220329T16:26:29Z | :no_entry: Console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | 5 | 1| 
 | 20220329T15:49:18Z | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | 0 | 0| 
-| 20220329T14:37:49Z | Exploit test with Python.... | https://github.com/Submine-1106/Exploit_Main | 0 | 0| 
 
 
 # backdoor on Github 推荐
