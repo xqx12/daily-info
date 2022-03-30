@@ -91,12 +91,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T12:36:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1613 | 254| 
 | 20220330T12:29:05Z | https://umbrellas22.000webhostapp.com/main.html | https://github.com/ROOT44x/Exploit-Hub-Generator-By-j0nny | 0 | 0| 
 | 20220330T12:22:23Z | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | 2 | 1| 
 | 20220330T11:41:47Z | the personal proyect this exploit | https://github.com/yami1231/pangu2012 | 0 | 0| 
 | 20220330T11:37:32Z | This repository contains the code to get elevated reverse shell on C2 Server. Attackers after getting initial access try to escalate privileges and perform credential dumping techniques in order to move laterally within the network. I created this exploit which gives you elevated reverse shell on C2. You don%t need to escalate privileges you will got elevated shell.  | https://github.com/Offensive-Panda/Elevated_Reverse_Shell_DLL_Hijack | 0 | 0| 
 | 20220330T11:26:27Z | Exploit client for HegartyMaths. | https://github.com/isaacdevv/HegartyLaughs | 0 | 0| 
-| 20220330T11:11:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1612 | 254| 
 | 20220330T09:22:49Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 537 | 133| 
 | 20220330T09:07:13Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 322 | 59| 
 | 20220330T07:52:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10936 | 1906| 
