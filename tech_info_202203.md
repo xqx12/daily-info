@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T01:32:48Z | A contract that exploits a simple dice game for profit | https://github.com/bgibers/dice-game-exploit | 0 | 0| 
 | 20220330T00:31:48Z | BOTNET Archive Releases Such As [ Scanners , Botnets , Exploits , Methods ] | https://github.com/MerlynXS/Payload-Archive | 0 | 0| 
 | 20220330T00:29:46Z | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | 0 | 0| 
 | 20220329T23:41:56Z | Anacoder exploit | https://github.com/Rutroh87/anarcoder-exploit | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20220329T20:32:28Z | Advanced Anti-Exploitation Library made in C# and C++ | https://github.com/AhmedMinegames/AntiHackingEngine | 0 | 0| 
 | 20220329T18:51:02Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 6956 | 1615| 
 | 20220329T17:55:18Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 134 | 27| 
-| 20220329T17:46:13Z | Null | https://github.com/tushar7176/vulnerablity-exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
