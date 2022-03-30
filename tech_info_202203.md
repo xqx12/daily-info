@@ -99,8 +99,8 @@
 | 20220330T11:11:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1612 | 254| 
 | 20220330T09:22:49Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 537 | 133| 
 | 20220330T09:07:13Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 322 | 59| 
+| 20220330T07:52:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10936 | 1906| 
 | 20220330T02:59:51Z | picoCTF 2022 web exploitation solutions | https://github.com/FrodoMenezes/picoCTF2022-web-exploitation | 0 | 1| 
-| 20220330T01:32:48Z | A contract that exploits a simple dice game for profit | https://github.com/bgibers/dice-game-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
