@@ -32,13 +32,13 @@
 | 20220329T21:05:01Z | CVE-2021-2109 | Null | https://github.com/coco0x0a/CVE-2021-2109 | | 
 | 20220329T19:03:49Z | CVE-2021-44142 | Null | https://github.com/horizon3ai/CVE-2021-44142 | | 
 | 20220329T18:25:12Z | CVE-2021-44142 | Null | https://github.com/hrsman/Samba-CVE-2021-44142 | | 
-| 20220329T18:11:40Z | CVE-2020-3187 | Null | https://github.com/T4t4ru/CVE-2020-3187 | | 
 | 20220329T18:01:16Z | CVE-2022-22947 | Null | https://github.com/Vancomycin-g/CVE-2022-22947 | | 
 | 20220329T16:47:51Z | CVE-2022-22948 | Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter | https://github.com/PenteraIO/CVE-2022-22948 | | 
 | 20220329T15:29:59Z | CVE-2022-24934 | Null | https://github.com/tzwlhack/WPS-CVE-2022-24934 | | 
 | 20220329T14:45:28Z | CVE-2021-21017 | Null | https://github.com/tzwlhack/CVE-2021-21017 | | 
 | 20220329T14:34:01Z | CVE-2022-26500 | Veeam Unauth Remote Code Execution | https://github.com/sinsinology/CVE-2022-26500 | | 
 | 20220329T14:24:09Z | CVE-2020-29370 | Null | https://github.com/nanopathi/CVE-2020-29370_AFTERFIX | | 
+| 20220329T13:48:27Z | CVE-2020-029370 | Null | https://github.com/nanopathi/CVE-2020-029370_AFTPATCH | | 
 
 
 # klee on Github 推荐
