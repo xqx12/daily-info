@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220330T12:00:03Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
+| 20220330T12:22:23Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
 | 20220330T11:21:21Z | CVE-2020-10757 | Null | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757 | | 
 | 20220330T11:01:38Z | CVE-2020-8428 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428 | | 
 | 20220330T10:36:58Z | CVE-2022-23884 | Details,PoC and patches for CVE-2022-23884 | https://github.com/LuckyDogDog/CVE-2022-23884 | | 
@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220330T12:00:03Z | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | 1 | 0| 
+| 20220330T12:22:23Z | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | 2 | 1| 
 | 20220330T11:41:47Z | the personal proyect this exploit | https://github.com/yami1231/pangu2012 | 0 | 0| 
 | 20220330T11:37:32Z | This repository contains the code to get elevated reverse shell on C2 Server. Attackers after getting initial access try to escalate privileges and perform credential dumping techniques in order to move laterally within the network. I created this exploit which gives you elevated reverse shell on C2. You don%t need to escalate privileges you will got elevated shell.  | https://github.com/Offensive-Panda/Elevated_Reverse_Shell_DLL_Hijack | 0 | 0| 
 | 20220330T11:26:27Z | Exploit client for HegartyMaths. | https://github.com/isaacdevv/HegartyLaughs | 0 | 0| 
