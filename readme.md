@@ -16,6 +16,7 @@
 | 20220330 | Linux 内核 netfilter nf_tables 组件被发现两个漏洞 | http://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/| 
 | 20220330 | QuarksLab 对区块链 XCMv2 协议的安全审计报告 | http://blog.quarkslab.com/a-brief-overview-of-auditing-xcmv2.html| 
 | 20220330 | 利用 PSGumshoe 工具 Trace WMI 的行为 | https://sec.today/pulses/1646fcc9-cda9-4670-b2ce-2433389bae2f/| 
+| 20220330 | 利用 PSGumshoe 工具 Trace WMI 的行为 | http://www.darkoperator.com/blog/2022/3/27/tracking-wmi-activity-with-psgumshoe| 
 
 
 # 安全维基 推荐
@@ -80,6 +81,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T08:05:13Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 518 | 90| 
+| 20220330T07:21:01Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 77 | 12| 
 | 20220330T00:29:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 259 | 17| 
 
 

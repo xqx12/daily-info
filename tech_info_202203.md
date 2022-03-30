@@ -16,6 +16,7 @@
 | 20220330 | Linux 内核 netfilter nf_tables 组件被发现两个漏洞 | http://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/| 
 | 20220330 | QuarksLab 对区块链 XCMv2 协议的安全审计报告 | http://blog.quarkslab.com/a-brief-overview-of-auditing-xcmv2.html| 
 | 20220330 | 利用 PSGumshoe 工具 Trace WMI 的行为 | https://sec.today/pulses/1646fcc9-cda9-4670-b2ce-2433389bae2f/| 
+| 20220330 | 利用 PSGumshoe 工具 Trace WMI 的行为 | http://www.darkoperator.com/blog/2022/3/27/tracking-wmi-activity-with-psgumshoe| 
 | 20220329 | Difftastic - 支持语法格式的 Diff 工具 | https://github.com/Wilfred/difftastic| 
 | 20220329 | NCC Group 对 C/C++ Double Fetch 漏洞的研究报告 | http://research.nccgroup.com/2022/03/28/whitepaper-double-fetch-vulnerabilities-in-c-and-c/| 
 | 20220329 | 渗透测试中的 Account 修改方法（Windows/域账户/AWS/Auzre） | https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1098/T1098.md| 
@@ -25,7 +26,6 @@
 | 20220329 | Firewall bypass with CARP in Packet Filter | https://medium.com/sensorfu/firewall-bypass-with-carp-in-packet-filter-c4ed70fb7dd7| 
 | 20220329 | 通过afl-training学习afl | https://tttang.com/archive/1508/| 
 | 20220329 | 黑客利用钓鱼邮件来分发 IcedID 恶意软件. | https://paper.seebug.org/1866/| 
-| 20220328 | Automated Bug Localization in JIT Compilers（Paper） | https://www2.cs.arizona.edu/~debray/Publications/vee21.pdf| 
 
 
 # 安全维基 推荐
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T08:05:13Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 518 | 90| 
+| 20220330T07:21:01Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 77 | 12| 
 | 20220330T00:29:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 259 | 17| 
 | 20220329T23:48:56Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 28 | 18| 
-| 20220329T23:21:25Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 76 | 12| 
 | 20220329T22:00:41Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 13 | 5| 
 | 20220329T12:11:12Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 174 | 36| 
 | 20220329T01:57:17Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 20 | 5| 
 | 20220329T00:31:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 767 | 144| 
 | 20220328T18:01:55Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 39 | 3| 
 | 20220328T12:20:44Z | Symbolic Execution of SystemC TLM Peripherals | https://github.com/agra-uni-bremen/SymSysC | 0 | 0| 
-| 20220327T12:07:19Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 517 | 89| 
 
 
 # big4 on Github 推荐
