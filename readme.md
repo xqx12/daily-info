@@ -55,7 +55,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220329T23:54:21Z | BOTNET Archive Releases Such As [ Scanners , Botnets , Exploits , Methods ] | https://github.com/MerlynXS/Payload-Archive | 0 | 0| 
 | 20220329T23:47:03Z | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | 0 | 0| 
 | 20220329T23:41:56Z | Anacoder exploit | https://github.com/Rutroh87/anarcoder-exploit | 1 | 0| 
 | 20220329T23:31:29Z | All my Exploit Scripts | https://github.com/cynicamanee/ExploitScripts | 0 | 0| 
@@ -65,6 +64,7 @@
 | 20220329T17:46:13Z | Null | https://github.com/tushar7176/vulnerablity-exploiter | 0 | 0| 
 | 20220329T16:26:29Z | :no_entry: Console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | 5 | 1| 
 | 20220329T15:49:18Z | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | 0 | 0| 
+| 20220329T14:37:49Z | Exploit test with Python.... | https://github.com/Submine-1106/Exploit_Main | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -82,7 +82,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220329T12:13:39Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 69 | 11| 
+| 20220329T23:48:56Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 28 | 18| 
+| 20220329T23:21:25Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 76 | 12| 
+| 20220329T22:00:41Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 13 | 5| 
 | 20220329T12:11:12Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 174 | 36| 
 | 20220329T01:57:17Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 20 | 5| 
 | 20220329T00:31:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 767 | 144| 

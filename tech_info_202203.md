@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220329T23:54:21Z | BOTNET Archive Releases Such As [ Scanners , Botnets , Exploits , Methods ] | https://github.com/MerlynXS/Payload-Archive | 0 | 0| 
+| 20220330T00:03:02Z | BOTNET Archive Releases Such As [ Scanners , Botnets , Exploits , Methods ] | https://github.com/MerlynXS/Payload-Archive | 0 | 0| 
 | 20220329T23:47:03Z | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | 0 | 0| 
 | 20220329T23:41:56Z | Anacoder exploit | https://github.com/Rutroh87/anarcoder-exploit | 1 | 0| 
 | 20220329T23:31:29Z | All my Exploit Scripts | https://github.com/cynicamanee/ExploitScripts | 0 | 0| 
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220329T12:13:39Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 69 | 11| 
+| 20220329T23:48:56Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 28 | 18| 
+| 20220329T23:21:25Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 76 | 12| 
+| 20220329T22:00:41Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 13 | 5| 
 | 20220329T12:11:12Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 174 | 36| 
 | 20220329T01:57:17Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 20 | 5| 
 | 20220329T00:31:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 767 | 144| 
-| 20220328T19:48:39Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 26 | 18| 
 | 20220328T18:01:55Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 39 | 3| 
 | 20220328T12:20:44Z | Symbolic Execution of SystemC TLM Peripherals | https://github.com/agra-uni-bremen/SymSysC | 0 | 0| 
 | 20220327T12:07:19Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 517 | 89| 
 | 20220327T09:49:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 207 | 15| 
-| 20220326T22:36:30Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 258 | 17| 
 
 
 # big4 on Github 推荐
