@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220330T12:51:05Z | Controlling car using fuzzy logic | https://github.com/szymon0w/FuzzyCar | 0 | 0| 
+| 20220330T12:59:49Z | Controling car using fuzzy logic | https://github.com/szymon0w/FuzzyCar | 0 | 0| 
 | 20220330T09:38:30Z | Ultra-efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
 | 20220330T09:35:49Z | Null | https://github.com/Rhodes-sg/fuzzy-invention | 0 | 0| 
 | 20220330T09:32:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4062 | 963| 
