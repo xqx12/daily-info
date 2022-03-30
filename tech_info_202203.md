@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220330T00:30:23Z | BOTNET Archive Releases Such As [ Scanners , Botnets , Exploits , Methods ] | https://github.com/MerlynXS/Payload-Archive | 0 | 0| 
+| 20220330T00:31:48Z | BOTNET Archive Releases Such As [ Scanners , Botnets , Exploits , Methods ] | https://github.com/MerlynXS/Payload-Archive | 0 | 0| 
 | 20220330T00:29:46Z | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | 0 | 0| 
 | 20220329T23:41:56Z | Anacoder exploit | https://github.com/Rutroh87/anarcoder-exploit | 1 | 0| 
 | 20220329T23:31:29Z | All my Exploit Scripts | https://github.com/cynicamanee/ExploitScripts | 0 | 0| 
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T00:32:42Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 0 | 0| 
 | 20220329T23:45:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7218 | 1540| 
 | 20220329T22:19:26Z | ECE556 Project | https://github.com/blarson23/fuzzy-rotary-phone | 1 | 2| 
 | 20220329T21:12:14Z | Null | https://github.com/withallthesequestions/fuzzy-pancake-hangman | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20220329T11:45:59Z | Propose the best and optimal material suited for the FDM process to manufacture a spur gear Using Fuzzy AHP and ELECTREE Method. | https://github.com/virtual-illusion/Fuzzy-AHP-and-ELECTREE | 1 | 0| 
 | 20220329T11:14:34Z | Node module containing an array of string matching algorithms written in rust, binded with Neon-bindings | https://github.com/rupert648/fuzzy-neon | 0 | 0| 
 | 20220329T09:44:42Z | Null | https://github.com/zzzzzba/fuzzy-palm-tree | 0 | 0| 
-| 20220329T09:36:02Z | Fuzzy sets | https://github.com/mmasdeu/fuzzy | 0 | 0| 
 
 
 
