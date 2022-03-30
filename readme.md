@@ -82,8 +82,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T12:52:31Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 78 | 12| 
 | 20220330T08:05:13Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 518 | 90| 
-| 20220330T07:21:01Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 77 | 12| 
 | 20220330T00:29:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 259 | 17| 
 
 
@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T12:51:05Z | Controlling car using fuzzy logic | https://github.com/szymon0w/FuzzyCar | 0 | 0| 
 | 20220330T09:38:30Z | Ultra-efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
 | 20220330T09:35:49Z | Null | https://github.com/Rhodes-sg/fuzzy-invention | 0 | 0| 
 | 20220330T09:32:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4062 | 963| 

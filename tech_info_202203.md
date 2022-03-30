@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T12:52:31Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 78 | 12| 
 | 20220330T08:05:13Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 518 | 90| 
-| 20220330T07:21:01Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 77 | 12| 
 | 20220330T00:29:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 259 | 17| 
 | 20220329T23:48:56Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 28 | 18| 
 | 20220329T22:00:41Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 13 | 5| 
 | 20220329T12:11:12Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 174 | 36| 
 | 20220329T01:57:17Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 20 | 5| 
 | 20220329T00:31:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 767 | 144| 
+| 20220328T18:09:10Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 215 | 48| 
 | 20220328T18:01:55Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 39 | 3| 
-| 20220328T12:20:44Z | Symbolic Execution of SystemC TLM Peripherals | https://github.com/agra-uni-bremen/SymSysC | 0 | 0| 
 
 
 # big4 on Github 推荐
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T12:51:05Z | Controlling car using fuzzy logic | https://github.com/szymon0w/FuzzyCar | 0 | 0| 
 | 20220330T09:38:30Z | Ultra-efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
 | 20220330T09:35:49Z | Null | https://github.com/Rhodes-sg/fuzzy-invention | 0 | 0| 
 | 20220330T09:32:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4062 | 963| 
@@ -157,7 +158,6 @@
 | 20220330T01:01:42Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 127 | 6| 
 | 20220330T00:32:42Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 0 | 0| 
 | 20220330T00:01:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4712 | 487| 
-| 20220329T23:45:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7218 | 1540| 
 
 
 
