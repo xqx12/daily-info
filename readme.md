@@ -13,6 +13,8 @@
 | 20220329 | CVE-2022-27666: Exploit esp6 modules in Linux kernel | https://etenal.me/archives/1825| 
 | 20220329 | Your NAS is not your NAS，Synology NAS RCE 漏洞分析 | https://devco.re/blog/2022/03/28/your-NAS-is-not-your-NAS/| 
 | 20220329 | Firewall bypass with CARP in Packet Filter | https://medium.com/sensorfu/firewall-bypass-with-carp-in-packet-filter-c4ed70fb7dd7| 
+| 20220329 | 通过afl-training学习afl | https://tttang.com/archive/1508/| 
+| 20220329 | 黑客利用钓鱼邮件来分发 IcedID 恶意软件. | https://paper.seebug.org/1866/| 
 
 
 # 安全维基 推荐
@@ -27,21 +29,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220329T12:50:09Z | CVE-2022-23648 | POC for CVE-2022-23648 | https://github.com/raesene/CVE-2022-23648-POC | | 
-| 20220329T12:22:37Z | 未知编号 | Null | https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370 | | 
-| 20220329T11:45:12Z | CVE-2020-29370 | Null | https://github.com/nanopathi/kERNEL_GIT_TORVALDS_AFP_CVE-2020-29370 | | 
-| 20220329T09:44:28Z | CVE-2020-1034 | CVE 2020-1034 exploit and presentation | https://github.com/GeorgyFirsov/CVE-2020-1034 | | 
-| 20220329T09:29:01Z | 未知编号 | Null | https://github.com/nanopathi/packages_apps_Nfc_cve-2020_02453 | | 
-| 20220329T09:11:23Z | CVE-2020-0453 | Null | https://github.com/Trinadh465/Nfc-CVE-2020-0453 | | 
-| 20220329T08:11:52Z | CVE-2020-0453 | Null | https://github.com/nanopathi/Packages_apps_Nfc_CVE-2020-0453 | | 
-| 20220329T06:58:18Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt | https://github.com/drago-96/CVE-2022-0778 | | 
-| 20220329T06:22:50Z | CVE-2022-24990 | CVE-2022-24990信息泄露+RCE 一条龙 | https://github.com/lishang520/CVE-2022-24990 | | 
-| 20220329T06:22:17Z | CVE-2020-0453 | Null | https://github.com/pazhanivel07/Nfc_CVE-2020-0453 | | 
+| 20220329T21:05:01Z | CVE-2021-2109 | Null | https://github.com/coco0x0a/CVE-2021-2109 | | 
+| 20220329T19:03:49Z | CVE-2021-44142 | Null | https://github.com/horizon3ai/CVE-2021-44142 | | 
+| 20220329T18:25:12Z | CVE-2021-44142 | Null | https://github.com/hrsman/Samba-CVE-2021-44142 | | 
+| 20220329T18:11:40Z | CVE-2020-3187 | Null | https://github.com/T4t4ru/CVE-2020-3187 | | 
+| 20220329T18:01:16Z | CVE-2022-22947 | Null | https://github.com/Vancomycin-g/CVE-2022-22947 | | 
+| 20220329T16:47:51Z | CVE-2022-22948 | Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter | https://github.com/PenteraIO/CVE-2022-22948 | | 
+| 20220329T15:29:59Z | CVE-2022-24934 | Null | https://github.com/tzwlhack/WPS-CVE-2022-24934 | | 
+| 20220329T14:45:28Z | CVE-2021-21017 | Null | https://github.com/tzwlhack/CVE-2021-21017 | | 
+| 20220329T14:34:01Z | CVE-2022-26500 | Veeam Unauth Remote Code Execution | https://github.com/sinsinology/CVE-2022-26500 | | 
+| 20220329T14:24:09Z | CVE-2020-29370 | Null | https://github.com/nanopathi/CVE-2020-29370_AFTERFIX | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T18:52:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5621 | 208| 
 
 
 # s2e on Github 推荐
@@ -52,26 +55,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220329T12:45:36Z | Null | https://github.com/HubOSRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
-| 20220329T12:33:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10928 | 1906| 
-| 20220329T12:23:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1599 | 253| 
-| 20220329T11:57:44Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/datastealer/Hacking-Tools-Pack | 1 | 0| 
-| 20220329T11:40:58Z | Le Lasserre est le nom de notre ferme située sur la commune de Bénesse-les-Dax à 8 kms de Dax. Les principales activités de notre exploitation familiale sont le gavage de canards, la production de maïs ainsi que le vignoble pour les Vignerons Landais. | https://github.com/Charline7/final-project-le-lasserre | 0 | 0| 
-| 20220329T11:35:03Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/datastealer/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220329T11:07:09Z | PyExploit settings page. | https://github.com/Submine-1106/Exploit_Settings | 0 | 0| 
-| 20220329T10:45:32Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 310 | 55| 
-| 20220329T10:22:52Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 708 | 156| 
-| 20220329T10:09:33Z | Null | https://github.com/opertaor309/Your-Exploit | 0 | 0| 
+| 20220329T23:54:21Z | BOTNET Archive Releases Such As [ Scanners , Botnets , Exploits , Methods ] | https://github.com/MerlynXS/Payload-Archive | 0 | 0| 
+| 20220329T23:47:03Z | This is an anti exploit I use on my ROBLOX games. | https://github.com/CGray1234/Roblox-AntiExploit | 0 | 0| 
+| 20220329T23:41:56Z | Anacoder exploit | https://github.com/Rutroh87/anarcoder-exploit | 1 | 0| 
+| 20220329T23:31:29Z | All my Exploit Scripts | https://github.com/cynicamanee/ExploitScripts | 0 | 0| 
+| 20220329T21:38:34Z | Set of scripts, to test and exploit the zerologon vulnerability (CVE-2020-1472).  | https://github.com/Nekoox/zerologon | 1 | 1| 
+| 20220329T20:32:28Z | Advanced Anti-Exploitation Library made in C# and C++ | https://github.com/AhmedMinegames/AntiHackingEngine | 0 | 0| 
+| 20220329T17:55:18Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 134 | 27| 
+| 20220329T17:46:13Z | Null | https://github.com/tushar7176/vulnerablity-exploiter | 0 | 0| 
+| 20220329T16:26:29Z | :no_entry: Console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | 5 | 1| 
+| 20220329T15:49:18Z | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T21:38:23Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 80 | 11| 
+| 20220329T21:36:22Z | Backdoor htb  | https://github.com/jhonyhuezo92/Maquina-Backdoor-htb- | 0 | 0| 
+| 20220329T14:35:14Z | A Python RAT and backdoor client and server made by Cybercrime | https://github.com/1776686/Python-RAT-Backdoor | 0 | 0| 
 | 20220329T12:55:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 450 | 86| 
 | 20220329T09:58:56Z | Command line tool to create Discord remote access trojans | https://github.com/nohavenn/DiscoSh | 0 | 0| 
 | 20220329T09:27:37Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1545 | 700| 
 | 20220329T08:54:26Z | Null | https://github.com/phsk1d/Backdoor | 0 | 0| 
-| 20220329T02:53:42Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 79 | 11| 
 
 
 # symbolic execution on Github 推荐
@@ -92,15 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220329T23:45:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7218 | 1540| 
+| 20220329T22:19:26Z | ECE556 Project | https://github.com/blarson23/fuzzy-rotary-phone | 1 | 2| 
+| 20220329T21:12:14Z | Null | https://github.com/withallthesequestions/fuzzy-pancake-hangman | 0 | 0| 
+| 20220329T18:43:49Z | QML API to rapidfuzz-cpp | https://github.com/moqt/RapidFuzzForQml | 0 | 0| 
+| 20220329T16:23:16Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 126 | 5| 
 | 20220329T12:32:16Z | Null | https://github.com/wazir23/fuzzy-pancake | 0 | 0| 
 | 20220329T11:45:59Z | Propose the best and optimal material suited for the FDM process to manufacture a spur gear Using Fuzzy AHP and ELECTREE Method. | https://github.com/virtual-illusion/Fuzzy-AHP-and-ELECTREE | 1 | 0| 
 | 20220329T11:14:34Z | Node module containing an array of string matching algorithms written in rust, binded with Neon-bindings | https://github.com/rupert648/fuzzy-neon | 0 | 0| 
 | 20220329T09:44:42Z | Null | https://github.com/zzzzzba/fuzzy-palm-tree | 0 | 0| 
 | 20220329T09:36:02Z | Fuzzy sets | https://github.com/mmasdeu/fuzzy | 0 | 0| 
-| 20220329T05:06:53Z | Null | https://github.com/MJ-SEO/py_fuzz | 0 | 0| 
-| 20220329T03:57:07Z | Hyper-V Fuzzer using hAFL2 | https://github.com/blackcon/HVFUZZ | 2 | 2| 
-| 20220329T00:58:46Z | Python fuzzing script  | https://github.com/Mohammad-Sarker/Fuzzer | 0 | 0| 
-| 20220329T00:25:08Z | Null | https://github.com/aj9749988/fuzzy-barnacle | 0 | 0| 
 
 
 
