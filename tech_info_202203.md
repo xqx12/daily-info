@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T12:29:05Z | https://umbrellas22.000webhostapp.com/main.html | https://github.com/ROOT44x/Exploit-Hub-Generator-By-j0nny | 0 | 0| 
 | 20220330T12:22:23Z | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | 2 | 1| 
 | 20220330T11:41:47Z | the personal proyect this exploit | https://github.com/yami1231/pangu2012 | 0 | 0| 
 | 20220330T11:37:32Z | This repository contains the code to get elevated reverse shell on C2 Server. Attackers after getting initial access try to escalate privileges and perform credential dumping techniques in order to move laterally within the network. I created this exploit which gives you elevated reverse shell on C2. You don%t need to escalate privileges you will got elevated shell.  | https://github.com/Offensive-Panda/Elevated_Reverse_Shell_DLL_Hijack | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220330T09:07:13Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 322 | 59| 
 | 20220330T02:59:51Z | picoCTF 2022 web exploitation solutions | https://github.com/FrodoMenezes/picoCTF2022-web-exploitation | 0 | 1| 
 | 20220330T01:32:48Z | A contract that exploits a simple dice game for profit | https://github.com/bgibers/dice-game-exploit | 0 | 0| 
-| 20220330T00:37:47Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 803 | 136| 
 
 
 # backdoor on Github 推荐
