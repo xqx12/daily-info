@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220330T01:38:32Z | CVE-2021-4034 | golang implementation of CVE-2021-403 | https://github.com/hAV9sad/CVE-2021-4034 | | 
+| 20220330T01:53:22Z | CVE-2021-4034 | golang implementation of CVE-2021-4034 | https://github.com/hAV9sad/CVE-2021-4034 | | 
 | 20220330T01:37:02Z | CVE-2022-22948 | Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter | https://github.com/PenteraIO/CVE-2022-22948 | | 
 | 20220330T00:53:32Z | CVE-2020-3187 | Null | https://github.com/T4t4ru/CVE-2020-3187 | | 
 | 20220330T00:51:53Z | CVE-2020-25613 | Null | https://github.com/metapox/CVE-2020-25613 | | 
