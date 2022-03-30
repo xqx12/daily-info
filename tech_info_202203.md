@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220330T01:20:02Z | CVE-2021-4034 | golang implementation of CVE-2021-403 | https://github.com/hAV9sad/CVE-2021-4034 | | 
+| 20220330T01:38:32Z | CVE-2021-4034 | golang implementation of CVE-2021-403 | https://github.com/hAV9sad/CVE-2021-4034 | | 
+| 20220330T01:37:02Z | CVE-2022-22948 | Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter | https://github.com/PenteraIO/CVE-2022-22948 | | 
 | 20220330T00:53:32Z | CVE-2020-3187 | Null | https://github.com/T4t4ru/CVE-2020-3187 | | 
 | 20220330T00:51:53Z | CVE-2020-25613 | Null | https://github.com/metapox/CVE-2020-25613 | | 
 | 20220329T21:05:01Z | CVE-2021-2109 | Null | https://github.com/coco0x0a/CVE-2021-2109 | | 
 | 20220329T19:03:49Z | CVE-2021-44142 | Null | https://github.com/horizon3ai/CVE-2021-44142 | | 
 | 20220329T18:25:12Z | CVE-2021-44142 | Null | https://github.com/hrsman/Samba-CVE-2021-44142 | | 
 | 20220329T18:01:16Z | CVE-2022-22947 | Null | https://github.com/Vancomycin-g/CVE-2022-22947 | | 
-| 20220329T16:47:51Z | CVE-2022-22948 | Scanner for CVE-2022-22948 an Information Disclosure in VMWare vCenter | https://github.com/PenteraIO/CVE-2022-22948 | | 
 | 20220329T15:29:59Z | CVE-2022-24934 | Null | https://github.com/tzwlhack/WPS-CVE-2022-24934 | | 
 | 20220329T14:45:28Z | CVE-2021-21017 | Null | https://github.com/tzwlhack/CVE-2021-21017 | | 
 
@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220330T01:01:42Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 127 | 5| 
+| 20220330T01:01:42Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 127 | 6| 
 | 20220330T00:32:42Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 0 | 0| 
 | 20220330T00:01:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4712 | 487| 
 | 20220329T23:45:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7218 | 1540| 
