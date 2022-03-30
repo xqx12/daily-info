@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220330T12:31:58Z | CVE-2020-0391 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0391 | | 
 | 20220330T12:22:23Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
 | 20220330T11:21:21Z | CVE-2020-10757 | Null | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757 | | 
 | 20220330T11:01:38Z | CVE-2020-8428 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428 | | 
@@ -55,7 +56,6 @@
 | 20220330T09:40:51Z | CVE-2020-25705 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2020-25705 | | 
 | 20220330T07:57:43Z | CVE-2021-28480 | Null | https://github.com/Threonic/CVE-2021-28480 | | 
 | 20220330T07:19:00Z | CVE-2020-29368 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-29368 | | 
-| 20220330T06:48:54Z | CVE-2021-41652 | BatFlat CMS v1.3.6 - Improper Access Control | https://github.com/LeoBreaker1411/CVE-2021-41652 | | 
 
 
 # klee on Github 推荐
@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T12:33:29Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 0 | 0| 
 | 20220330T12:00:16Z | Tool to easily create Discord remote access trojans | https://github.com/cchash/DiscoSh | 0 | 0| 
 | 20220330T08:28:41Z | Androspy framework is a Backdoor Crypter & Creator with Automatic IP Poisener  | https://github.com/geoscrapper/androispy | 0 | 0| 
 | 20220330T08:04:23Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 83 | 11| 
@@ -115,7 +116,6 @@
 | 20220330T03:32:43Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 30 | 6| 
 | 20220330T02:53:51Z | Null | https://github.com/code-backdoor/code-backdoor | 0 | 0| 
 | 20220329T21:36:22Z | Backdoor htb  | https://github.com/jhonyhuezo92/Maquina-Backdoor-htb- | 0 | 0| 
-| 20220329T14:35:14Z | A Python RAT and backdoor client and server made by Cybercrime | https://github.com/1776686/Python-RAT-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
