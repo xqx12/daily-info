@@ -57,6 +57,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220329T23:41:56Z | Anacoder exploit | https://github.com/Rutroh87/anarcoder-exploit | 1 | 0| 
 | 20220329T23:31:29Z | All my Exploit Scripts | https://github.com/cynicamanee/ExploitScripts | 0 | 0| 
+| 20220329T21:54:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10934 | 1906| 
 | 20220329T21:38:34Z | Set of scripts, to test and exploit the zerologon vulnerability (CVE-2020-1472).  | https://github.com/Nekoox/zerologon | 1 | 1| 
 | 20220329T20:32:28Z | Advanced Anti-Exploitation Library made in C# and C++ | https://github.com/AhmedMinegames/AntiHackingEngine | 0 | 0| 
 | 20220329T17:55:18Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 134 | 27| 
@@ -64,7 +65,6 @@
 | 20220329T16:26:29Z | :no_entry: Console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service. | https://github.com/martinkubecka/OhMyDoS | 5 | 1| 
 | 20220329T15:49:18Z | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | 0 | 0| 
 | 20220329T14:37:49Z | Exploit test with Python.... | https://github.com/Submine-1106/Exploit_Main | 0 | 0| 
-| 20220329T14:26:54Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1158 | 269| 
 
 
 # backdoor on Github 推荐
