@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T12:57:27Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 35 | 38| 
 | 20220330T04:52:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5623 | 208| 
 | 20220328T22:23:11Z | KLEE taint for constant-time | https://github.com/hpacheco/klee-taint-ct | 0 | 0| 
 | 20220328T17:16:12Z | this is for rainy lake project | https://github.com/klee4297/klee4297.github.io | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220326T13:34:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1917 | 548| 
 | 20220326T02:49:14Z | Null | https://github.com/mishra-kunal1/Klee-Project | 0 | 0| 
 | 20220325T23:10:39Z | Config files for my GitHub profile. | https://github.com/Kleener22/Kleener22 | 0 | 0| 
-| 20220325T11:43:15Z | Null | https://github.com/CarlOsterberg/klee-calc-testsuite | 0 | 0| 
 
 
 # s2e on Github 推荐
