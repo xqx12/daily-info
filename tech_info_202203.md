@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220331T00:05:10Z | some research note for seeyon | https://github.com/SealPaPaPa/SeeyonExploitNote | 0 | 0| 
 | 20220330T23:28:49Z | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | 1 | 0| 
 | 20220330T23:08:40Z | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | 0 | 0| 
 | 20220330T22:43:08Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 19 | 9| 
@@ -100,7 +101,6 @@
 | 20220330T15:14:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 353 | 101| 
 | 20220330T12:36:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1613 | 254| 
 | 20220330T12:29:05Z | https://umbrellas22.000webhostapp.com/main.html | https://github.com/ROOT44x/Exploit-Hub-Generator-By-j0nny | 0 | 0| 
-| 20220330T12:22:23Z | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | 2 | 1| 
 
 
 # backdoor on Github 推荐
