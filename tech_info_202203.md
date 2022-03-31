@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220331T01:30:07Z | Null | https://github.com/StevenYosif/Silent-Excel-Exploit-Builder | 0 | 0| 
 | 20220331T01:29:35Z | Null | https://github.com/StevenYosif/SilentDocExploit-Builder | 0 | 0| 
 | 20220331T01:29:07Z | Null | https://github.com/StevenYosif/SilentDocExploit | 0 | 0| 
 | 20220331T01:28:18Z | Best Silent Exploits, Generate .xll,  .xls FUD Exploit | https://github.com/StevenYosif/Silent-Excel-Exploit-2022 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220330T23:08:40Z | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | 0 | 0| 
 | 20220330T22:43:08Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 19 | 9| 
 | 20220330T21:59:15Z | Null | https://github.com/LewisRBLX/exploits | 0 | 0| 
-| 20220330T21:58:55Z | can run any script. V7 | https://github.com/not1kay/config-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
