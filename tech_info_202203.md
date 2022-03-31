@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220331T00:05:10Z | some research note for seeyon | https://github.com/SealPaPaPa/SeeyonExploitNote | 0 | 0| 
+| 20220331T00:05:50Z | some research note for seeyon | https://github.com/SealPaPaPa/SeeyonExploitNote | 0 | 0| 
 | 20220330T23:28:49Z | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | 1 | 0| 
 | 20220330T23:08:40Z | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | 0 | 0| 
 | 20220330T22:43:08Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 19 | 9| 
