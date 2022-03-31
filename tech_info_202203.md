@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220331T01:29:35Z | Null | https://github.com/StevenYosif/SilentDocExploit-Builder | 0 | 0| 
+| 20220331T01:29:07Z | Null | https://github.com/StevenYosif/SilentDocExploit | 0 | 0| 
 | 20220331T01:28:18Z | Best Silent Exploits, Generate .xll,  .xls FUD Exploit | https://github.com/StevenYosif/Silent-Excel-Exploit-2022 | 0 | 0| 
 | 20220331T01:20:49Z | Best Silent Word/Doc Exploit 2022 | https://github.com/StevenYosif/Silent-Doc-Exploit-2022 | 0 | 0| 
 | 20220331T00:05:50Z | some research note for seeyon | https://github.com/SealPaPaPa/SeeyonExploitNote | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20220330T22:43:08Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 19 | 9| 
 | 20220330T21:59:15Z | Null | https://github.com/LewisRBLX/exploits | 0 | 0| 
 | 20220330T21:58:55Z | can run any script. V7 | https://github.com/not1kay/config-exploits | 0 | 0| 
-| 20220330T21:54:02Z | Lazy SPL to detect Spring4Shell exploitation | https://github.com/west-wind/Spring4Shell-Detection | 0 | 0| 
-| 20220330T15:14:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 353 | 101| 
 
 
 # backdoor on Github 推荐
