@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220331T01:10:27Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
+| 20220331T01:24:14Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
 | 20220331T00:24:45Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
 | 20220330T23:03:20Z | CVE-2022-22963 | Null | https://github.com/Kirill89/CVE-2022-22963-PoC | | 
 | 20220330T20:37:03Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220331T01:20:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5623 | 208| 
+| 20220331T01:23:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5624 | 208| 
 | 20220330T22:15:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 16 | 0| 
 | 20220330T12:57:27Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 35 | 38| 
 | 20220328T22:23:11Z | KLEE taint for constant-time | https://github.com/hpacheco/klee-taint-ct | 0 | 0| 
