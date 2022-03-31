@@ -44,7 +44,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220330T22:15:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 16 | 0| 
-| 20220330T16:12:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5622 | 208| 
 | 20220330T12:57:27Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 35 | 38| 
 
 
