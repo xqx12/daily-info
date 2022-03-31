@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220331T00:51:31Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
+| 20220331T01:10:27Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
 | 20220331T00:24:45Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
 | 20220330T23:03:20Z | CVE-2022-22963 | Null | https://github.com/Kirill89/CVE-2022-22963-PoC | | 
 | 20220330T20:37:03Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220331T01:06:30Z | Null | https://github.com/ElliottProductions/half-baked-fuzzybunny-feb | 0 | 0| 
 | 20220330T23:38:28Z | Null | https://github.com/willgundy/half-baked-fuzzy-bunny-organizer | 0 | 0| 
 | 20220330T21:05:27Z | Null | https://github.com/rileyjhoff/1.4b-fuzzy-bunny-organizer-supabase-half-baked | 0 | 0| 
 | 20220330T21:04:55Z | Supabase Fuzzy Bunny Halfbaked | https://github.com/belliott15/supabase-fuzzy-bunny-half-baked | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20220330T12:59:49Z | Controling car using fuzzy logic | https://github.com/szymon0w/FuzzyCar | 0 | 0| 
 | 20220330T09:38:30Z | Ultra-efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
 | 20220330T09:35:49Z | Null | https://github.com/Rhodes-sg/fuzzy-invention | 0 | 0| 
-| 20220330T09:32:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4062 | 963| 
 
 
 
