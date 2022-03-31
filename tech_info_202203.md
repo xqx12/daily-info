@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220331T00:03:48Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
+| 20220331T00:20:54Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
 | 20220331T00:03:46Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
 | 20220330T23:03:20Z | CVE-2022-22963 | Null | https://github.com/Kirill89/CVE-2022-22963-PoC | | 
 | 20220330T20:37:03Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
