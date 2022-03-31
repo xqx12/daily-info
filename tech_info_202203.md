@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220331T12:48:41Z | Exploit for Dirty-Pipe (CVE-2022-0847)  | https://github.com/Nekoox/dirty-pipe | 2 | 1| 
+| 20220331T12:49:56Z | Exploit for Dirty-Pipe (CVE-2022-0847)  | https://github.com/Nekoox/dirty-pipe | 2 | 1| 
 | 20220331T11:45:20Z | cause and exploit for D-Link DIR-890L 1.20 RCE | https://github.com/TyeYeah/DIR-890L-1.20-RCE | 0 | 0| 
 | 20220331T10:47:22Z | Null | https://github.com/zxzxz1/Exploit_Version.1.2.0 | 0 | 0| 
 | 20220331T10:22:11Z | Currently one writeup for the picoCTF 2022 noted Web exploitation challenge | https://github.com/dtreplin/ctf-writeups | 0 | 0| 
