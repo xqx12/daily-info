@@ -28,9 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220330T23:55:06Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
 | 20220330T23:03:20Z | CVE-2022-22963 | Null | https://github.com/Kirill89/CVE-2022-22963-PoC | | 
-| 20220330T21:17:41Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
 | 20220330T20:37:03Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
 | 20220330T17:46:13Z | CVE-2021-41773 | Null | https://github.com/spiderz0ne/CVE-2021-41773 | | 
 | 20220330T16:41:14Z | CVE-2022-22963 | Null | https://github.com/darryk10/CVE-2022-22963 | | 
@@ -38,6 +36,8 @@
 | 20220330T12:48:42Z | CVE-2020-0391 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0391 | | 
 | 20220330T12:43:02Z | CVE-2020-10757 | Null | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757 | | 
 | 20220330T11:01:38Z | CVE-2020-8428 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428 | | 
+| 20220330T10:36:58Z | CVE-2022-23884 | Details,PoC and patches for CVE-2022-23884 | https://github.com/LuckyDogDog/CVE-2022-23884 | | 
+| 20220330T09:44:25Z | CVE-2020-0242 | Null | https://github.com/pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243 | | 
 
 
 # klee on Github 推荐
