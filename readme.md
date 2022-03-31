@@ -17,6 +17,7 @@
 | 20220330 | QuarksLab 对区块链 XCMv2 协议的安全审计报告 | http://blog.quarkslab.com/a-brief-overview-of-auditing-xcmv2.html| 
 | 20220330 | 利用 PSGumshoe 工具 Trace WMI 的行为 | https://sec.today/pulses/1646fcc9-cda9-4670-b2ce-2433389bae2f/| 
 | 20220330 | 利用 PSGumshoe 工具 Trace WMI 的行为 | http://www.darkoperator.com/blog/2022/3/27/tracking-wmi-activity-with-psgumshoe| 
+| 20220330 | 【Rootkit 系列研究】序章：悬顶的达摩克利斯之剑 | https://paper.seebug.org/1867/| 
 
 
 # 安全维基 推荐
@@ -27,23 +28,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220330T23:55:06Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
+| 20220330T23:03:20Z | CVE-2022-22963 | Null | https://github.com/Kirill89/CVE-2022-22963-PoC | | 
+| 20220330T21:17:41Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
+| 20220330T20:37:03Z | CVE-2021-4034 | Pre-compiled builds for CVE-2021-4034 | https://github.com/c3c/CVE-2021-4034 | | 
+| 20220330T17:46:13Z | CVE-2021-41773 | Null | https://github.com/spiderz0ne/CVE-2021-41773 | | 
+| 20220330T16:41:14Z | CVE-2022-22963 | Null | https://github.com/darryk10/CVE-2022-22963 | | 
+| 20220330T14:43:46Z | CVE-2022-24693 | Null | https://github.com/lukejenkins/CVE-2022-24693 | | 
 | 20220330T12:48:42Z | CVE-2020-0391 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0391 | | 
 | 20220330T12:43:02Z | CVE-2020-10757 | Null | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757 | | 
-| 20220330T12:22:23Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
 | 20220330T11:01:38Z | CVE-2020-8428 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428 | | 
-| 20220330T10:36:58Z | CVE-2022-23884 | Details,PoC and patches for CVE-2022-23884 | https://github.com/LuckyDogDog/CVE-2022-23884 | | 
-| 20220330T09:45:46Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
-| 20220330T09:44:25Z | CVE-2020-0242 | Null | https://github.com/pazhanivel07/frameworks_av-CVE-2020-0242_CVE-2020-0243 | | 
-| 20220330T09:40:51Z | CVE-2020-25705 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2020-25705 | | 
-| 20220330T07:57:43Z | CVE-2021-28480 | Null | https://github.com/Threonic/CVE-2021-28480 | | 
-| 20220330T07:19:00Z | CVE-2020-29368 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-29368 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T22:15:42Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 16 | 0| 
+| 20220330T16:12:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5622 | 208| 
 | 20220330T12:57:27Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 35 | 38| 
-| 20220330T04:52:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5623 | 208| 
 
 
 # s2e on Github 推荐
@@ -54,30 +56,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T23:28:49Z | Cryptanalysis tool to write exploits. | https://github.com/gogo2464/cryptatools | 1 | 0| 
+| 20220330T23:08:40Z | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | 0 | 0| 
+| 20220330T22:43:08Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 19 | 9| 
+| 20220330T21:59:15Z | Null | https://github.com/LewisRBLX/exploits | 0 | 0| 
+| 20220330T21:58:55Z | can run any script. V7 | https://github.com/not1kay/config-exploits | 0 | 0| 
+| 20220330T21:54:02Z | Lazy SPL to detect Spring4Shell exploitation | https://github.com/west-wind/Spring4Shell-Detection | 0 | 0| 
+| 20220330T15:14:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 353 | 101| 
 | 20220330T12:36:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1613 | 254| 
 | 20220330T12:29:05Z | https://umbrellas22.000webhostapp.com/main.html | https://github.com/ROOT44x/Exploit-Hub-Generator-By-j0nny | 0 | 0| 
 | 20220330T12:22:23Z | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | 2 | 1| 
-| 20220330T12:07:03Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4146 | 1448| 
-| 20220330T11:41:47Z | the personal proyect this exploit | https://github.com/yami1231/pangu2012 | 0 | 0| 
-| 20220330T11:37:32Z | This repository contains the code to get elevated reverse shell on C2 Server. Attackers after getting initial access try to escalate privileges and perform credential dumping techniques in order to move laterally within the network. I created this exploit which gives you elevated reverse shell on C2. You don%t need to escalate privileges you will got elevated shell.  | https://github.com/Offensive-Panda/Elevated_Reverse_Shell_DLL_Hijack | 0 | 0| 
-| 20220330T11:26:27Z | Exploit client for HegartyMaths. | https://github.com/isaacdevv/HegartyLaughs | 0 | 0| 
-| 20220330T09:22:49Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 537 | 133| 
-| 20220330T09:07:13Z | Dirty Pipe root exploit for Android (Pixel 6) | https://github.com/polygraphene/DirtyPipe-Android | 322 | 59| 
-| 20220330T07:52:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10936 | 1906| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220330T12:33:29Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 0 | 0| 
-| 20220330T12:00:16Z | Tool to easily create Discord remote access trojans | https://github.com/cchash/DiscoSh | 0 | 0| 
+| 20220330T21:40:29Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 37 | 13| 
+| 20220330T21:35:53Z | playing for fun, again | https://github.com/rina-karnauch/backdoor-shark | 0 | 0| 
+| 20220330T17:03:37Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 1 | 0| 
+| 20220330T16:53:25Z | This script allows you to create a hidden admin account on your victim%s PC. | https://github.com/tuconnaisyouknow/BadUSB_adminAccountCreator | 0 | 0| 
+| 20220330T14:05:59Z | Tool to easily create fileless Discord remote access trojans | https://github.com/cchash/DiscoSh | 0 | 0| 
 | 20220330T08:28:41Z | Androspy framework is a Backdoor Crypter & Creator with Automatic IP Poisener  | https://github.com/geoscrapper/androispy | 0 | 0| 
 | 20220330T08:04:23Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 83 | 11| 
 | 20220330T07:45:53Z | Payloads for gmod (backdoors) LUA  | https://github.com/SeenKid/gmod_payloads | 1 | 0| 
 | 20220330T06:36:11Z | simple backdoor program for practise | https://github.com/Liz-Hardee/backdoor | 0 | 0| 
 | 20220330T06:29:38Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 25 | 8| 
-| 20220330T03:32:43Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 30 | 6| 
-| 20220330T02:53:51Z | Null | https://github.com/code-backdoor/code-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -96,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220330T23:38:28Z | Null | https://github.com/willgundy/half-baked-fuzzy-bunny-organizer | 0 | 0| 
+| 20220330T21:05:27Z | Null | https://github.com/rileyjhoff/1.4b-fuzzy-bunny-organizer-supabase-half-baked | 0 | 0| 
+| 20220330T21:04:55Z | Supabase Fuzzy Bunny Halfbaked | https://github.com/belliott15/supabase-fuzzy-bunny-half-baked | 0 | 0| 
+| 20220330T20:44:34Z | Config files for my GitHub profile. | https://github.com/FranklyFuzzy/FranklyFuzzy | 0 | 0| 
+| 20220330T15:58:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4712 | 486| 
+| 20220330T15:55:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7219 | 1540| 
 | 20220330T12:59:49Z | Controling car using fuzzy logic | https://github.com/szymon0w/FuzzyCar | 0 | 0| 
 | 20220330T09:38:30Z | Ultra-efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
 | 20220330T09:35:49Z | Null | https://github.com/Rhodes-sg/fuzzy-invention | 0 | 0| 
 | 20220330T09:32:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4062 | 963| 
-| 20220330T09:28:51Z | Solar Tracker using Fuzzy Logics | https://github.com/BiggusMaximus/solar-tracker-fuzzy-logic | 0 | 0| 
-| 20220330T07:15:58Z | Attempt at creating a simple script to detect if a website is XSS vulnerable or not.  | https://github.com/huang5587/XSS-fuzzer | 0 | 0| 
-| 20220330T07:02:46Z | Null | https://github.com/JCCCCC1214/fuzzy_autocar | 1 | 0| 
-| 20220330T01:01:42Z | The Python Fuzzer that the world deserves 🐍 | https://github.com/Rog3rSm1th/Frelatage | 127 | 6| 
-| 20220330T00:32:42Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 0 | 0| 
-| 20220330T00:01:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4712 | 487| 
 
 
 
