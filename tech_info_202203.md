@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220331T12:55:04Z | CVE-2022-22963 | Null | https://github.com/darryk10/CVE-2022-22963 | | 
 | 20220331T11:22:08Z | CVE-2022-22963 | Null | https://github.com/puckiestyle/CVE-2022-22963 | | 
 | 20220331T10:28:26Z | CVE-2020-0225 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0225 | | 
 | 20220331T10:15:22Z | CVE-2022-24934 | Null | https://github.com/webraybtl/CVE-2022-24934 | | 
@@ -55,7 +56,6 @@
 | 20220331T07:06:56Z | CVE-2020-0463 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0463 | | 
 | 20220331T06:45:44Z | CVE-2020-0226 | Null | https://github.com/Trinadh465/frameworks_native_CVE-2020-0226 | | 
 | 20220331T06:41:44Z | CVE-2020-0449 | Null | https://github.com/Satheesh575555/System_bt_AOSP10-r33_CVE-2020-0449 | | 
-| 20220331T01:54:45Z | CVE-2021-41773 | Null | https://github.com/DoTuan1/Reserch-CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220331T12:49:56Z | Exploit for Dirty-Pipe (CVE-2022-0847)  | https://github.com/Nekoox/dirty-pipe | 2 | 1| 
+| 20220331T12:51:54Z | Exploit for Dirty-Pipe (CVE-2022-0847)  | https://github.com/Nekoox/dirty-pipe | 2 | 1| 
 | 20220331T11:45:20Z | cause and exploit for D-Link DIR-890L 1.20 RCE | https://github.com/TyeYeah/DIR-890L-1.20-RCE | 0 | 0| 
 | 20220331T10:47:22Z | Null | https://github.com/zxzxz1/Exploit_Version.1.2.0 | 0 | 0| 
 | 20220331T10:22:11Z | Currently one writeup for the picoCTF 2022 noted Web exploitation challenge | https://github.com/dtreplin/ctf-writeups | 0 | 0| 
