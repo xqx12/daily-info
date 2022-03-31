@@ -105,12 +105,12 @@
 | 20220330T21:05:27Z | Null | https://github.com/rileyjhoff/1.4b-fuzzy-bunny-organizer-supabase-half-baked | 0 | 0| 
 | 20220330T21:04:55Z | Supabase Fuzzy Bunny Halfbaked | https://github.com/belliott15/supabase-fuzzy-bunny-half-baked | 0 | 0| 
 | 20220330T20:44:34Z | Config files for my GitHub profile. | https://github.com/FranklyFuzzy/FranklyFuzzy | 0 | 0| 
-| 20220330T15:58:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4712 | 486| 
 | 20220330T15:55:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7219 | 1540| 
 | 20220330T12:59:49Z | Controling car using fuzzy logic | https://github.com/szymon0w/FuzzyCar | 0 | 0| 
 | 20220330T09:38:30Z | Ultra-efficient tool for DNA patterns and traits searching using FM-Index. | https://github.com/FaazAbidi/Fuzzy-DNA-Search | 1 | 0| 
 | 20220330T09:35:49Z | Null | https://github.com/Rhodes-sg/fuzzy-invention | 0 | 0| 
 | 20220330T09:32:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4062 | 963| 
+| 20220330T09:28:51Z | Solar Tracker using Fuzzy Logics | https://github.com/BiggusMaximus/solar-tracker-fuzzy-logic | 0 | 0| 
 
 
 
