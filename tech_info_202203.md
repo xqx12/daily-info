@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220331T01:48:33Z | CVE-2021-41773 | Null | https://github.com/DoTuan1/Reserch-CVE-2021-41773 | | 
 | 20220331T01:34:38Z | CVE-2022-22963 | CVE-2022-22963 PoC  | https://github.com/dinosn/CVE-2022-22963 | | 
 | 20220331T01:34:21Z | CVE-2022-22963 | CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit | https://github.com/RanDengShiFu/CVE-2022-22963 | | 
 | 20220330T23:03:20Z | CVE-2022-22963 | Null | https://github.com/Kirill89/CVE-2022-22963-PoC | | 
@@ -55,7 +56,6 @@
 | 20220330T14:43:46Z | CVE-2022-24693 | Null | https://github.com/lukejenkins/CVE-2022-24693 | | 
 | 20220330T12:48:42Z | CVE-2020-0391 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0391 | | 
 | 20220330T12:43:02Z | CVE-2020-10757 | Null | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-10757 | | 
-| 20220330T11:01:38Z | CVE-2020-8428 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2020-8428 | | 
 
 
 # klee on Github 推荐
