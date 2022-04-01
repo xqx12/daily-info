@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220401T12:21:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10943 | 1911| 
-| 20220401T12:20:57Z | NOT EXPLOITS | https://github.com/MarkRGH/DeepwokenAutoGrind | 0 | 0| 
+| 20220401T12:26:59Z | Null | https://github.com/yealvarez/Windows-Exploits | 0 | 0| 
+| 20220401T12:25:59Z | NOT EXPLOITS | https://github.com/MarkRGH/DeepwokenAutoGrind | 1 | 0| 
+| 20220401T12:25:31Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 9 | 0| 
+| 20220401T12:24:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10944 | 1912| 
 | 20220401T12:15:21Z | exploit payloads | https://github.com/kdiddi/dirtypipe | 0 | 0| 
 | 20220401T12:03:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1648 | 257| 
-| 20220401T11:29:19Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 8 | 0| 
 | 20220401T09:28:32Z | General Array Translation and Exploitation | https://github.com/yrutschle/gate | 0 | 0| 
 | 20220401T09:26:36Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 712 | 156| 
 | 20220401T08:51:26Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3393 | 875| 
 | 20220401T08:43:14Z | Exploit  | https://github.com/playZG/Exploit- | 0 | 0| 
-| 20220401T08:12:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2563 | 313| 
 
 
 # backdoor on Github 推荐
