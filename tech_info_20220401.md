@@ -37,6 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220401T12:18:29Z | CVE-2022-22965 | CVE-2022-22965 Environment | https://github.com/Joe1sn/CVE-2022-22965 | | 
 | 20220401T11:50:49Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
 | 20220401T11:28:17Z | CVE-2021-0334 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334 | | 
 | 20220401T11:25:36Z | CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | | 
@@ -46,7 +47,6 @@
 | 20220401T10:37:11Z | CVE-2021-32399 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399 | | 
 | 20220401T10:32:22Z | CVE-2022-22965 | CVE-2022-22965 spring-core批量检测脚本 | https://github.com/chaosec2021/CVE-2022-22965-POC | | 
 | 20220401T10:24:47Z | CVE-2022-22947 | Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/talentsec/Spring-Cloud-Gateway-CVE-2022-22947 | | 
-| 20220401T10:19:44Z | CVE-2022-22965 | Null | https://github.com/helsecert/CVE-2022-22965 | | 
 
 
 # klee on Github 推荐
@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220401T12:18:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10941 | 1911| 
 | 20220401T12:15:21Z | exploit payloads | https://github.com/kdiddi/dirtypipe | 0 | 0| 
 | 20220401T12:03:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1648 | 257| 
 | 20220401T11:29:19Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 8 | 0| 
@@ -74,7 +75,6 @@
 | 20220401T08:43:14Z | Exploit  | https://github.com/playZG/Exploit- | 0 | 0| 
 | 20220401T08:12:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2563 | 313| 
 | 20220401T08:06:07Z | Lazy SPL to detect Spring4Shell exploitation | https://github.com/west-wind/Spring4Shell-Detection | 2 | 0| 
-| 20220401T08:00:56Z | This repository is used to record the process of a social animal who is exploited by unscrupulous capitalists try to save himself. | https://github.com/MingyiJi/FE-web-Learning-process | 0 | 0| 
 
 
 # backdoor on Github 推荐
