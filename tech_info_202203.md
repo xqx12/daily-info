@@ -50,12 +50,12 @@
 | 20220331T20:03:53Z | cve-2021-3864 | Test for cve-2021-3864 | https://github.com/walac/cve-2021-3864 | | 
 | 20220331T19:22:43Z | CVE-2022-22965 | CVE-2022-22965 poc including reverse-shell support | https://github.com/viniciuspereiras/CVE-2022-22965-poc | | 
 | 20220331T18:48:13Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
-| 20220331T17:11:05Z | CVE-2022-22965 | A Safer PoC for CVE-2022-22965 (Spring4Shell) | https://github.com/colincowie/Safer_PoC_CVE-2022-22965 | | 
 | 20220331T16:33:55Z | CVE-2022-24934 | Null | https://github.com/webraybtl/CVE-2022-24934 | | 
 | 20220331T15:38:46Z | CVE-2021-0472 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472 | | 
-| 20220331T14:55:46Z | CVE-2022-22965 | spring-core单个图形化利用工具，CVE-2022-22965及修复方案已出 | https://github.com/light-Life/CVE-2022-22965-GUItools | | 
-| 20220331T14:35:26Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
 | 20220331T12:55:04Z | CVE-2022-22963 | Null | https://github.com/darryk10/CVE-2022-22963 | | 
+| 20220331T11:22:08Z | CVE-2022-22963 | Null | https://github.com/puckiestyle/CVE-2022-22963 | | 
+| 20220331T10:28:26Z | CVE-2020-0225 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0225 | | 
+| 20220331T09:39:44Z | CVE-2021-0330 | Null | https://github.com/Satheesh575555/system_core_AOSP10_r33-CVE-2021-0330 | | 
 
 
 # klee on Github 推荐
