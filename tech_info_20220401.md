@@ -65,7 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220401T12:18:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10941 | 1911| 
+| 20220401T12:20:57Z | NOT EXPLOITS | https://github.com/MarkRGH/DeepwokenAutoGrind | 0 | 0| 
+| 20220401T12:19:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10942 | 1911| 
 | 20220401T12:15:21Z | exploit payloads | https://github.com/kdiddi/dirtypipe | 0 | 0| 
 | 20220401T12:03:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1648 | 257| 
 | 20220401T11:29:19Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 8 | 0| 
@@ -74,7 +75,6 @@
 | 20220401T08:51:26Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3393 | 875| 
 | 20220401T08:43:14Z | Exploit  | https://github.com/playZG/Exploit- | 0 | 0| 
 | 20220401T08:12:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2563 | 313| 
-| 20220401T08:06:07Z | Lazy SPL to detect Spring4Shell exploitation | https://github.com/west-wind/Spring4Shell-Detection | 2 | 0| 
 
 
 # backdoor on Github 推荐
