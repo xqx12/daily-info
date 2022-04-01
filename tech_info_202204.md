@@ -65,8 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220401T12:03:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1648 | 257| 
 | 20220401T11:29:19Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 8 | 0| 
-| 20220401T10:59:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1647 | 257| 
 | 20220401T09:28:32Z | General Array Translation and Exploitation | https://github.com/yrutschle/gate | 0 | 0| 
 | 20220401T09:26:36Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 712 | 156| 
 | 20220401T08:51:26Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3393 | 875| 
