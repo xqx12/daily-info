@@ -53,9 +53,9 @@
 | 20220331T17:11:05Z | CVE-2022-22965 | A Safer PoC for CVE-2022-22965 (Spring4Shell) | https://github.com/colincowie/Safer_PoC_CVE-2022-22965 | | 
 | 20220331T16:33:55Z | CVE-2022-24934 | Null | https://github.com/webraybtl/CVE-2022-24934 | | 
 | 20220331T15:38:46Z | CVE-2021-0472 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472 | | 
-| 20220331T15:15:24Z | CVE-2022-22965 | Null | https://github.com/Kirill89/CVE-2022-22965-PoC | | 
 | 20220331T14:55:46Z | CVE-2022-22965 | spring-core单个图形化利用工具，CVE-2022-22965及修复方案已出 | https://github.com/light-Life/CVE-2022-22965-GUItools | | 
 | 20220331T14:35:26Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
+| 20220331T12:55:04Z | CVE-2022-22963 | Null | https://github.com/darryk10/CVE-2022-22963 | | 
 
 
 # klee on Github 推荐
