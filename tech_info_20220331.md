@@ -25,24 +25,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220331T12:55:04Z | CVE-2022-22963 | Null | https://github.com/darryk10/CVE-2022-22963 | | 
-| 20220331T11:22:08Z | CVE-2022-22963 | Null | https://github.com/puckiestyle/CVE-2022-22963 | | 
-| 20220331T10:28:26Z | CVE-2020-0225 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0225 | | 
-| 20220331T10:15:22Z | CVE-2022-24934 | Null | https://github.com/webraybtl/CVE-2022-24934 | | 
-| 20220331T09:39:44Z | CVE-2021-0330 | Null | https://github.com/Satheesh575555/system_core_AOSP10_r33-CVE-2021-0330 | | 
-| 20220331T07:47:58Z | CVE-2020-0421 | Null | https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0421 | | 
-| 20220331T07:18:39Z | CVE-2022-22963 | Null | https://github.com/Kirill89/CVE-2022-22963-PoC | | 
-| 20220331T07:06:56Z | CVE-2020-0463 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0463 | | 
-| 20220331T06:45:44Z | CVE-2020-0226 | Null | https://github.com/Trinadh465/frameworks_native_CVE-2020-0226 | | 
-| 20220331T06:41:44Z | CVE-2020-0449 | Null | https://github.com/Satheesh575555/System_bt_AOSP10-r33_CVE-2020-0449 | | 
+| 20220331T21:20:59Z | CVE-2022-22965 | Spring Framework RCE (Quick pentest notes) | https://github.com/alt3kx/CVE-2022-22965_PoC | | 
+| 20220331T20:03:53Z | cve-2021-3864 | Test for cve-2021-3864 | https://github.com/walac/cve-2021-3864 | | 
+| 20220331T19:22:43Z | CVE-2022-22965 | CVE-2022-22965 poc including reverse-shell support | https://github.com/viniciuspereiras/CVE-2022-22965-poc | | 
+| 20220331T18:48:13Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
+| 20220331T17:11:05Z | CVE-2022-22965 | A Safer PoC for CVE-2022-22965 (Spring4Shell) | https://github.com/colincowie/Safer_PoC_CVE-2022-22965 | | 
+| 20220331T16:33:55Z | CVE-2022-24934 | Null | https://github.com/webraybtl/CVE-2022-24934 | | 
+| 20220331T15:38:46Z | CVE-2021-0472 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472 | | 
+| 20220331T15:15:24Z | CVE-2022-22965 | Null | https://github.com/Kirill89/CVE-2022-22965-PoC | | 
+| 20220331T14:55:46Z | CVE-2022-22965 | spring-core单个图形化利用工具，CVE-2022-22965及修复方案已出 | https://github.com/light-Life/CVE-2022-22965-GUItools | | 
+| 20220331T14:35:26Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220331T22:55:00Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 36 | 38| 
+| 20220331T20:11:12Z | Null | https://github.com/220328-Java-Full-Stack-AWS/Jack-Klees | 0 | 0| 
+| 20220331T17:26:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5632 | 208| 
+| 20220331T13:10:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1920 | 549| 
 | 20220331T12:16:53Z | Config files for my GitHub profile. | https://github.com/WonderKLee/WonderKLee | 0 | 0| 
-| 20220331T10:33:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5631 | 208| 
-| 20220331T04:37:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1919 | 549| 
 
 
 # s2e on Github 推荐
@@ -53,24 +55,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220331T23:42:52Z | ¿Que és esto?  Un Host alternativo para poder instalar, probar y ejecutar exploits en el navegador de internet PS4. | https://github.com/LeoMichel-10/PS4 | 0 | 0| 
+| 20220331T23:30:02Z | Null | https://github.com/RealLinen/Exploit | 0 | 0| 
+| 20220331T22:44:59Z | cURL configs for exploiting Spring4Shell  | https://github.com/queencitycyber/Spring4Shell-cURL | 0 | 0| 
+| 20220331T22:15:10Z | Companion materials for %Binary Software Exploitation by Example% presentation. | https://github.com/wunused/exploit-example-demo | 0 | 0| 
+| 20220331T21:43:28Z | Exploit a vulnerable Spring application with the Spring4Shell Exploit. | https://github.com/FourCoreLabs/spring4shell-exploit-poc | 0 | 0| 
 | 20220331T12:58:17Z | Exploit for Dirty-Pipe (CVE-2022-0847)  | https://github.com/Nekoox/dirty-pipe | 3 | 1| 
 | 20220331T11:45:20Z | cause and exploit for D-Link DIR-890L 1.20 RCE | https://github.com/TyeYeah/DIR-890L-1.20-RCE | 0 | 0| 
+| 20220331T11:19:49Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4465 | 622| 
 | 20220331T10:47:22Z | Null | https://github.com/zxzxz1/Exploit_Version.1.2.0 | 0 | 0| 
 | 20220331T10:22:11Z | Currently one writeup for the picoCTF 2022 noted Web exploitation challenge | https://github.com/dtreplin/ctf-writeups | 0 | 0| 
-| 20220331T10:11:41Z | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | 1 | 0| 
-| 20220331T09:35:03Z | My solutions for exploiting ethernaut contracts | https://github.com/curiosi-T/local-ethernauts-attacks | 0 | 0| 
-| 20220331T09:06:41Z | Null | https://github.com/persian64/ExploitDevJourney | 0 | 0| 
-| 20220331T08:56:12Z | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | 149 | 47| 
-| 20220331T08:27:23Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 808 | 137| 
-| 20220331T01:58:30Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 10 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220331T23:53:28Z | Представление модели соединения клиента и сервера и последующее использование бэкдора | https://github.com/weinenwollen/Backdoor_Protection | 0 | 0| 
+| 20220331T21:48:26Z | Null | https://github.com/Aapng-cmd/backdoor | 0 | 0| 
+| 20220331T20:49:31Z | PHPstudy_BackDoor | https://github.com/AlphabugX/PHPstudy_BackDoor | 1 | 2| 
+| 20220331T20:09:40Z | Null | https://github.com/theuithe0/backdoor.py | 0 | 0| 
+| 20220331T19:59:58Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 5 | 0| 
 | 20220331T10:05:25Z | Demonstration of a Code Injection attack to insert a backdoor into a malware detection model | https://github.com/icyyci/Backdoor-Malware-Detection-Model | 0 | 0| 
 | 20220331T06:40:49Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 62 | 28| 
-| 20220331T04:38:46Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 3 | 0| 
 | 20220331T03:15:27Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 31 | 6| 
 
 
@@ -91,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220331T23:44:18Z | Null | https://github.com/matonima/Classification-of-Segmented-Image-with-PCA-Simplified-Fuzzy-ARTMAP | 0 | 0| 
+| 20220331T22:48:19Z | Null | https://github.com/Ninja99612/fuzzlist.xyz | 0 | 0| 
+| 20220331T22:20:21Z | Docker image for fuzzing the Dungeon (zork) text based adventure game | https://github.com/realmadsci/zorkfuzzing | 0 | 0| 
+| 20220331T22:02:16Z | AI Lab 1: Fussy system | https://github.com/DuGuYifei/FuzzySystem_juggler | 0 | 0| 
+| 20220331T21:29:41Z | Null | https://github.com/TiagoFuzz/TiagoFuzz | 0 | 0| 
+| 20220331T20:50:13Z | A Coverage-Guided Fuzzer for Hardware Model Checkers | https://github.com/muchang/Hammer | 0 | 0| 
+| 20220331T19:58:33Z | Null | https://github.com/Orhanorn/Fuzzy-octo-fagot-a | 0 | 0| 
+| 20220331T11:58:57Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2506 | 160| 
 | 20220331T11:48:36Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1171 | 163| 
 | 20220331T11:28:33Z | This project is a tool for lecturers useful for upgrading student grades if need be based on their class atendance, contribution etc. | https://github.com/greyhands2/fuzzyGradebook | 0 | 0| 
-| 20220331T10:27:21Z | Null | https://github.com/aammlj2002/fuzzy-pancake | 0 | 0| 
-| 20220331T10:01:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4061 | 963| 
-| 20220331T09:23:27Z | Fuzz for loop server binary | https://github.com/01dwang/AFL_Persistent | 0 | 0| 
-| 20220331T09:21:52Z | Null | https://github.com/SaiTeja1224/fuzzy_search | 0 | 0| 
-| 20220331T09:14:28Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 537 | 59| 
-| 20220331T07:52:28Z | my first github page | https://github.com/unitymogapi/fuzzy-pets | 0 | 0| 
-| 20220331T07:19:55Z | Null | https://github.com/creator5112021/fuzzy-octo-memory | 0 | 0| 
-| 20220331T01:08:05Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4713 | 486| 
 
 
 
