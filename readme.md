@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220401T12:15:21Z | exploit payloads | https://github.com/kdiddi/dirtypipe | 0 | 0| 
 | 20220401T12:03:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1648 | 257| 
 | 20220401T11:29:19Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 8 | 0| 
 | 20220401T09:28:32Z | General Array Translation and Exploitation | https://github.com/yrutschle/gate | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20220401T08:12:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2563 | 313| 
 | 20220401T08:06:07Z | Lazy SPL to detect Spring4Shell exploitation | https://github.com/west-wind/Spring4Shell-Detection | 2 | 0| 
 | 20220401T08:00:56Z | This repository is used to record the process of a social animal who is exploited by unscrupulous capitalists try to save himself. | https://github.com/MingyiJi/FE-web-Learning-process | 0 | 0| 
-| 20220401T07:12:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 354 | 102| 
 
 
 # backdoor on Github 推荐
