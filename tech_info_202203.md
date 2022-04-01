@@ -46,7 +46,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220331T20:03:53Z | cve-2021-3864 | Test for cve-2021-3864 | https://github.com/walac/cve-2021-3864 | | 
 | 20220331T16:33:55Z | CVE-2022-24934 | Null | https://github.com/webraybtl/CVE-2022-24934 | | 
 | 20220331T15:38:46Z | CVE-2021-0472 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0472 | | 
 | 20220331T12:55:04Z | CVE-2022-22963 | Null | https://github.com/darryk10/CVE-2022-22963 | | 
@@ -56,6 +55,7 @@
 | 20220331T07:47:58Z | CVE-2020-0421 | Null | https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0421 | | 
 | 20220331T07:18:39Z | CVE-2022-22963 | Null | https://github.com/Kirill89/CVE-2022-22963-PoC | | 
 | 20220331T07:06:56Z | CVE-2020-0463 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0463 | | 
+| 20220331T06:45:44Z | CVE-2020-0226 | Null | https://github.com/Trinadh465/frameworks_native_CVE-2020-0226 | | 
 
 
 # klee on Github 推荐
