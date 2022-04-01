@@ -37,7 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220401T12:18:29Z | CVE-2022-22965 | CVE-2022-22965 Environment | https://github.com/Joe1sn/CVE-2022-22965 | | 
+| 20220401T12:26:58Z | CVE-2022-22965 | CVE-2022-22965 Environment | https://github.com/Joe1sn/CVE-2022-22965 | | 
 | 20220401T11:50:49Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
 | 20220401T11:28:17Z | CVE-2021-0334 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334 | | 
 | 20220401T11:25:36Z | CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | | 
