@@ -65,8 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220401T12:21:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10943 | 1911| 
 | 20220401T12:20:57Z | NOT EXPLOITS | https://github.com/MarkRGH/DeepwokenAutoGrind | 0 | 0| 
-| 20220401T12:19:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10942 | 1911| 
 | 20220401T12:15:21Z | exploit payloads | https://github.com/kdiddi/dirtypipe | 0 | 0| 
 | 20220401T12:03:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1648 | 257| 
 | 20220401T11:29:19Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 8 | 0| 
