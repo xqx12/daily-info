@@ -37,6 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220401T12:49:10Z | CVE-2022-22965 | Null | https://github.com/Kirill89/CVE-2022-22965-PoC | | 
 | 20220401T12:26:58Z | CVE-2022-22965 | CVE-2022-22965 Environment | https://github.com/Joe1sn/CVE-2022-22965 | | 
 | 20220401T11:50:49Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
 | 20220401T11:28:17Z | CVE-2021-0334 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334 | | 
@@ -46,7 +47,6 @@
 | 20220401T10:48:42Z | CVE-2022-22963 | POC for CVE-2022-22963 | https://github.com/AayushmanThapaMagar/CVE-2022-22963 | | 
 | 20220401T10:37:11Z | CVE-2021-32399 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399 | | 
 | 20220401T10:32:22Z | CVE-2022-22965 | CVE-2022-22965 spring-core批量检测脚本 | https://github.com/chaosec2021/CVE-2022-22965-POC | | 
-| 20220401T10:24:47Z | CVE-2022-22947 | Spring-Cloud-Gateway-CVE-2022-22947 | https://github.com/talentsec/Spring-Cloud-Gateway-CVE-2022-22947 | | 
 
 
 # klee on Github 推荐
