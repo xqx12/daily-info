@@ -37,6 +37,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220401T12:59:36Z | CVE-2022-22965 | 批量无损检测 | https://github.com/tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce | | 
+| 20220401T12:56:10Z | CVE-2022-22963 | Spring Cloud Function Vulnerable Application / CVE-2022-22963 | https://github.com/me2nuk/CVE-2022-22963 | | 
 | 20220401T12:49:10Z | CVE-2022-22965 | Null | https://github.com/Kirill89/CVE-2022-22965-PoC | | 
 | 20220401T12:26:58Z | CVE-2022-22965 | CVE-2022-22965 Environment | https://github.com/Joe1sn/CVE-2022-22965 | | 
 | 20220401T11:50:49Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
@@ -45,13 +47,12 @@
 | 20220401T11:11:14Z | CVE-2022-22965 | Null | https://github.com/lcarea/CVE-2022-22965 | | 
 | 20220401T11:08:51Z | CVE-2020-0245 | Null | https://github.com/Satheesh575555/frameworks_av_AOSP10_r33_CVE-2020-0245 | | 
 | 20220401T10:48:42Z | CVE-2022-22963 | POC for CVE-2022-22963 | https://github.com/AayushmanThapaMagar/CVE-2022-22963 | | 
-| 20220401T10:37:11Z | CVE-2021-32399 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399 | | 
-| 20220401T10:32:22Z | CVE-2022-22965 | CVE-2022-22965 spring-core批量检测脚本 | https://github.com/chaosec2021/CVE-2022-22965-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220401T12:56:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 17 | 0| 
 | 20220401T09:47:13Z | Null | https://github.com/paperplanefactory/kleecks-wp-theme | 0 | 0| 
 | 20220401T07:47:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5635 | 208| 
 | 20220401T04:40:16Z | Null | https://github.com/cheehieu/kleenex-shoes | 0 | 0| 
@@ -80,7 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220401T12:48:18Z | Null | https://github.com/didadidajiang/backdoor | 0 | 0| 
+| 20220401T12:54:35Z | Null | https://github.com/didadidajiang/backdoor | 0 | 0| 
 | 20220401T12:42:13Z | Null | https://github.com/backdoorbench/backdoorbench.github.io | 0 | 0| 
 | 20220401T08:48:03Z | Tool to easily create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 0| 
 | 20220401T08:44:24Z | Website Shell BackDoors ( collection of internet ) | https://github.com/1337r0j4n/webshells | 0 | 0| 
