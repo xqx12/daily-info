@@ -37,24 +37,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220401T12:59:36Z | CVE-2022-22965 | 批量无损检测 | https://github.com/tangxiaofeng7/CVE-2022-22965-Spring-CachedintrospectionResults-Rce | | 
-| 20220401T12:56:10Z | CVE-2022-22963 | Spring Cloud Function Vulnerable Application / CVE-2022-22963 | https://github.com/me2nuk/CVE-2022-22963 | | 
-| 20220401T12:49:10Z | CVE-2022-22965 | Null | https://github.com/Kirill89/CVE-2022-22965-PoC | | 
-| 20220401T12:26:58Z | CVE-2022-22965 | CVE-2022-22965 Environment | https://github.com/Joe1sn/CVE-2022-22965 | | 
-| 20220401T11:50:49Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
-| 20220401T11:28:17Z | CVE-2021-0334 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0334 | | 
-| 20220401T11:25:36Z | CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | | 
-| 20220401T11:11:14Z | CVE-2022-22965 | Null | https://github.com/lcarea/CVE-2022-22965 | | 
-| 20220401T11:08:51Z | CVE-2020-0245 | Null | https://github.com/Satheesh575555/frameworks_av_AOSP10_r33_CVE-2020-0245 | | 
-| 20220401T10:48:42Z | CVE-2022-22963 | POC for CVE-2022-22963 | https://github.com/AayushmanThapaMagar/CVE-2022-22963 | | 
+| 20220401T23:39:23Z | CVE-2022-28251 | Proof of Concept for CVE-2022-28251 | https://github.com/mubix/CVE-2022-28251-POC | | 
+| 20220401T22:20:17Z | CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | | 
+| 20220401T20:06:21Z | CVE-2022-22965 | CVE-2022-22965 poc including reverse-shell support | https://github.com/viniciuspereiras/CVE-2022-22965-poc | | 
+| 20220401T18:52:24Z | CVE-2022-22965 | Null | https://github.com/Kirill89/CVE-2022-22965-PoC | | 
+| 20220401T18:47:44Z | CVE-2021-37740 | PoC for DoS vulnerability CVE-2021-37740 in firmware v3.0.3 of SCN-IP100.03 and SCN-IP000.03 by MDT. The bug has been fixed in firmware v3.0.4. | https://github.com/robertguetzkow/CVE-2021-37740 | | 
+| 20220401T18:43:27Z | CVE-2022-22965 | Null | https://github.com/rwincey/spring4shell-CVE-2022-22965 | | 
+| 20220401T15:22:09Z | CVE-2022-28251 | Null | https://github.com/ZephrFish/CVE-2022-28251-POC | | 
+| 20220401T14:47:01Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
+| 20220401T14:29:57Z | CVE-2022-22963 | Spring Cloud Function Vulnerable Application / CVE-2022-22963 | https://github.com/me2nuk/CVE-2022-22963 | | 
+| 20220401T14:16:52Z | CVE-2021-0325 | Null | https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220401T19:54:17Z | Null | https://github.com/220328-Java-Full-Stack-AWS/Jack-Klees-P1 | 0 | 0| 
+| 20220401T16:31:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5637 | 208| 
 | 20220401T12:56:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 17 | 0| 
 | 20220401T09:47:13Z | Null | https://github.com/paperplanefactory/kleecks-wp-theme | 0 | 0| 
-| 20220401T07:47:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5635 | 208| 
 | 20220401T04:40:16Z | Null | https://github.com/cheehieu/kleenex-shoes | 0 | 0| 
 
 
@@ -95,7 +96,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220401T07:40:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 213 | 15| 
+| 20220401T16:45:37Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 214 | 15| 
 
 
 # big4 on Github 推荐
@@ -106,6 +107,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220401T20:35:15Z | Null | https://github.com/fuzzbear0001/fuzzlist.xyz | 0 | 0| 
+| 20220401T16:21:01Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 451 | 37| 
 | 20220401T10:49:53Z | fuzzy code at best | https://github.com/CtrlJames/fuzzy-code | 0 | 0| 
 | 20220401T09:01:42Z | Lets practice some fuzzy examples according to Wong%s Book, including Gradient Descend Algorithm, Recursive Least Square, ... | https://github.com/98210184/Awesome-Fuzzy-Systems | 1 | 0| 
 | 20220401T08:02:13Z | In holiday mode, in requisite plaid flannel pajamas, and a little fuzzy from last night’s Chenin Blanc, I did what countless others did on Boxing Day morning: I reached for a platter of avocado toast with one hand, and my iPhone with the other.  I love my avocado toast light on the loaf and heavy on the green gold with jumbo nuggets of tomato. I shave local farm grown garlic straight up from the cheese grater and adorn with salt, a liberal lemon squeeze, and a few drops of something spicy on top.  The news these days is all gloom and doom and we are sick to death of hearing about COVID, so more often than not, at breakfast I’m scrolling Instagram instead, hunting down either art or food porn and recipes.   I won’t likely change it up next hangover brunch, but if I decide to switch styles, Instagram overflows with #avocadotoast hits. Almost two million, to be precise. Options abound: the pumpernickel with warm egg yolks over guacamole looks particularly delicious. Why, just add orange juice to make it a complete breakfast! There are some with grilled mushrooms and black olives that would go down nice with a Bloody Caesar.  Most of us probably think of “avocado toast” as being a kind of millennial thing, a by-product of vegan cafes and global consciousness. But it was first mentioned in a newspaper- California, of course, way back in 1887.     | https://github.com/kingharlem1/fuzzy-octo-guacamole | 0 | 0| 
