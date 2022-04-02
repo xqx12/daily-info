@@ -87,7 +87,7 @@
 | 20220401T14:12:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 451 | 87| 
 | 20220401T12:54:35Z | Null | https://github.com/didadidajiang/backdoor | 0 | 0| 
 | 20220401T12:42:13Z | Null | https://github.com/backdoorbench/backdoorbench.github.io | 0 | 0| 
-| 20220401T08:48:03Z | Tool to easily create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 0| 
+| 20220401T08:48:03Z | Tool to easily create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 1| 
 | 20220401T08:44:24Z | Website Shell BackDoors ( collection of internet ) | https://github.com/1337r0j4n/webshells | 0 | 0| 
 | 20220401T07:46:33Z | Null | https://github.com/KuofengGao/AdvBackdoor | 0 | 0| 
 | 20220401T07:37:57Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 63 | 28| 
