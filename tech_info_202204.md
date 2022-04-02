@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T12:13:23Z | poSSh is a post-exploitation tools written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | 0 | 0| 
 | 20220402T10:51:45Z | Null | https://github.com/Masutayunikon/Codiad-exploit | 0 | 0| 
 | 20220402T10:15:54Z | How the reentrancy exploit works and how to protect the Solidity smart contract from it. | https://github.com/meniy/reentrancy-hack-solidity | 0 | 0| 
 | 20220402T09:27:23Z | idk | https://github.com/Qufity/qufity.github.io | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20220402T07:39:50Z | Website application for searching devices on the internet with vulnerability summarization and exploits demonstration. | https://github.com/larescze/seclab | 1 | 0| 
 | 20220402T07:33:11Z | ShellShock interactive-shell exploit | https://github.com/akr3ch/CVE-2014-6271 | 0 | 0| 
 | 20220402T04:00:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10947 | 1913| 
-| 20220402T00:24:02Z | Frequently used and tested exploits | https://github.com/vbrunschot/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
