@@ -37,7 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220401T23:39:23Z | CVE-2022-28251 | Proof of Concept for CVE-2022-28251 | https://github.com/mubix/CVE-2022-28251-POC | | 
+| 20220402T01:37:11Z | CVE-2022-28251 | Proof of Concept for CVE-2022-28251 | https://github.com/mubix/CVE-2022-28251-POC | | 
 | 20220401T22:20:17Z | CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | | 
 | 20220401T20:06:21Z | CVE-2022-22965 | CVE-2022-22965 poc including reverse-shell support | https://github.com/viniciuspereiras/CVE-2022-22965-poc | | 
 | 20220401T18:52:24Z | CVE-2022-22965 | Null | https://github.com/Kirill89/CVE-2022-22965-PoC | | 
