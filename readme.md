@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T12:54:51Z | Learning to fuzz test in go | https://github.com/zarif-al/fuzz-test | 0 | 0| 
 | 20220402T12:24:33Z | Null | https://github.com/sasunhai/fuzzy-tribble | 0 | 0| 
 | 20220402T11:46:14Z | Null | https://github.com/anusua2408/fuzzy-guide | 0 | 0| 
 | 20220402T11:26:18Z | Null | https://github.com/Meiram-sys/Fuzzy-logic | 0 | 0| 

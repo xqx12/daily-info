@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T12:54:51Z | Learning to fuzz test in go | https://github.com/zarif-al/fuzz-test | 0 | 0| 
 | 20220402T12:24:33Z | Null | https://github.com/sasunhai/fuzzy-tribble | 0 | 0| 
 | 20220402T11:46:14Z | Null | https://github.com/anusua2408/fuzzy-guide | 0 | 0| 
 | 20220402T11:26:18Z | Null | https://github.com/Meiram-sys/Fuzzy-logic | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20220402T00:49:49Z | Null | https://github.com/devinllu/FuzzTesting | 0 | 0| 
 | 20220401T20:35:15Z | Null | https://github.com/fuzzbear0001/fuzzlist.xyz | 0 | 0| 
 | 20220401T16:21:01Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 451 | 37| 
-| 20220401T10:49:53Z | fuzzy code at best | https://github.com/CtrlJames/fuzzy-code | 0 | 0| 
 
 
 
