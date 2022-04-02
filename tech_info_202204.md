@@ -108,6 +108,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T00:49:49Z | Null | https://github.com/devinllu/FuzzTesting | 0 | 0| 
 | 20220401T20:35:15Z | Null | https://github.com/fuzzbear0001/fuzzlist.xyz | 0 | 0| 
 | 20220401T16:21:01Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 451 | 37| 
 | 20220401T10:49:53Z | fuzzy code at best | https://github.com/CtrlJames/fuzzy-code | 0 | 0| 
@@ -117,7 +118,6 @@
 | 20220401T07:11:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4063 | 963| 
 | 20220401T06:50:39Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 48 | 15| 
 | 20220401T04:09:34Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 259 | 19| 
-| 20220401T03:05:56Z | Tugas AI Fuzzy Logic universitas dian nuswantoro | https://github.com/NRTechnology/fuzzypermintaan | 0 | 0| 
 
 
 
