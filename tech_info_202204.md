@@ -37,6 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220402T01:51:13Z | CVE-2022-22965 | spring-core单个图形化利用工具，CVE-2022-22965及修复方案已出 | https://github.com/light-Life/CVE-2022-22965-GUItools | | 
 | 20220402T01:37:11Z | CVE-2022-28251 | Proof of Concept for CVE-2022-28251 | https://github.com/mubix/CVE-2022-28251-POC | | 
 | 20220401T22:20:17Z | CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | | 
 | 20220401T20:06:21Z | CVE-2022-22965 | CVE-2022-22965 poc including reverse-shell support | https://github.com/viniciuspereiras/CVE-2022-22965-poc | | 
@@ -46,7 +47,6 @@
 | 20220401T15:22:09Z | CVE-2022-28251 | Null | https://github.com/ZephrFish/CVE-2022-28251-POC | | 
 | 20220401T14:47:01Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
 | 20220401T14:29:57Z | CVE-2022-22963 | Spring Cloud Function Vulnerable Application / CVE-2022-22963 | https://github.com/me2nuk/CVE-2022-22963 | | 
-| 20220401T14:16:52Z | CVE-2021-0325 | Null | https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325 | | 
 
 
 # klee on Github 推荐
