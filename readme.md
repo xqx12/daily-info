@@ -75,7 +75,7 @@
 | 20220401T20:21:07Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/Bugs-Framework | 0 | 0| 
 | 20220401T19:56:10Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 194 | 61| 
 | 20220401T19:03:42Z | Binary Exploitation Writeups | https://github.com/ElliotAlderson51/Exploit-Writeups | 0 | 0| 
-| 20220401T18:35:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10946 | 1912| 
+| 20220401T18:35:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10946 | 1913| 
 | 20220401T18:14:42Z | Null | https://github.com/JavaliMZ/Exploits-diversos | 0 | 0| 
 
 
