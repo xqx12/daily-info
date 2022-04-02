@@ -67,16 +67,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220401T12:26:59Z | Null | https://github.com/yealvarez/Windows-Exploits | 0 | 0| 
-| 20220401T12:25:59Z | NOT EXPLOITS | https://github.com/MarkRGH/DeepwokenAutoGrind | 1 | 0| 
-| 20220401T12:25:31Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 9 | 0| 
-| 20220401T12:24:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10944 | 1912| 
-| 20220401T12:15:21Z | exploit payloads | https://github.com/kdiddi/dirtypipe | 0 | 0| 
-| 20220401T12:03:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 1648 | 257| 
-| 20220401T09:28:32Z | General Array Translation and Exploitation | https://github.com/yrutschle/gate | 0 | 0| 
-| 20220401T09:26:36Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 712 | 156| 
-| 20220401T08:51:26Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3393 | 875| 
-| 20220401T08:43:14Z | Exploit  | https://github.com/playZG/Exploit- | 0 | 0| 
+| 20220401T22:12:40Z | A updated linora source with special exploits, always be updated to latest update | https://github.com/RealNotSimcraftlol/Fortnite-Bulletp-Internal-Cheat | 21 | 7| 
+| 20220401T22:02:07Z | Auto Find AlfaCgi + Exploit By 1877 Team | https://github.com/CodeBoy1877/AlfaCgi-1877 | 0 | 0| 
+| 20220401T21:15:48Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 75 | 28| 
+| 20220401T20:34:23Z | Proof of concept exploit for Python Security Consideration %logging: Logging configuration uses eval()% | https://github.com/raj3shp/python-logging.config-exploit | 0 | 0| 
+| 20220401T20:28:18Z | An easy way to abuse an old Discord exploit using spoilers. | https://github.com/SupremoSG/DiscordExploit | 0 | 0| 
+| 20220401T20:21:07Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/Bugs-Framework | 0 | 0| 
+| 20220401T19:56:10Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 194 | 61| 
+| 20220401T19:03:42Z | Binary Exploitation Writeups | https://github.com/ElliotAlderson51/Exploit-Writeups | 0 | 0| 
+| 20220401T18:35:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10946 | 1912| 
+| 20220401T18:14:42Z | Null | https://github.com/JavaliMZ/Exploits-diversos | 0 | 0| 
 
 
 # backdoor on Github 推荐
