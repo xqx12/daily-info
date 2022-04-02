@@ -82,6 +82,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220401T21:39:13Z | Null | https://github.com/NeoTRAN001/java_basic_backdoor | 0 | 0| 
+| 20220401T19:44:18Z | backdoor web shell | https://github.com/STR4N6ER/backdoor | 0 | 0| 
+| 20220401T14:12:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 451 | 87| 
 | 20220401T12:54:35Z | Null | https://github.com/didadidajiang/backdoor | 0 | 0| 
 | 20220401T12:42:13Z | Null | https://github.com/backdoorbench/backdoorbench.github.io | 0 | 0| 
 | 20220401T08:48:03Z | Tool to easily create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 0| 
@@ -89,8 +92,6 @@
 | 20220401T07:46:33Z | Null | https://github.com/KuofengGao/AdvBackdoor | 0 | 0| 
 | 20220401T07:37:57Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 63 | 28| 
 | 20220401T06:37:55Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 140 | 37| 
-| 20220401T02:14:41Z | a backdoor | https://github.com/qpzux/Backdoor | 0 | 0| 
-| 20220401T01:41:24Z | a backdoor | https://github.com/qpzux/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
