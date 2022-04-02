@@ -71,7 +71,7 @@
 | 20220401T22:02:07Z | Auto Find AlfaCgi + Exploit By 1877 Team | https://github.com/CodeBoy1877/AlfaCgi-1877 | 0 | 0| 
 | 20220401T21:15:48Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 75 | 28| 
 | 20220401T20:34:23Z | Proof of concept exploit for Python Security Consideration %logging: Logging configuration uses eval()% | https://github.com/raj3shp/python-logging.config-exploit | 0 | 0| 
-| 20220401T20:28:18Z | An easy way to abuse an old Discord exploit using spoilers. | https://github.com/SupremoSG/DiscordExploit | 0 | 0| 
+| 20220401T20:28:18Z | An easy way to abuse an old Discord exploit using spoilers. | https://github.com/SupremoSG/DiscordExploit | 0 | 1| 
 | 20220401T20:21:07Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/Bugs-Framework | 0 | 0| 
 | 20220401T19:56:10Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 194 | 61| 
 | 20220401T19:03:42Z | Binary Exploitation Writeups | https://github.com/ElliotAlderson51/Exploit-Writeups | 0 | 0| 
