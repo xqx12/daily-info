@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220402 | Rockwell PLC 被发现远程高危漏洞 | https://thehackernews.com/2022/04/critical-bugs-in-rockwell-plc-could.html| 
+| 20220402 | Linux 内核 netfilter 子系统 nf_tables CVE-2022-1015/CVE-2022-1016 漏洞分析 | https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/| 
+| 20220402 | On the Naturalness of Fuzzer-Generated Code | http://rohan.padhye.org/files/natfuzz-msr22.pdf| 
+| 20220402 | Microsoft Defender for Endpoint 的调试方法以及身份伪造漏洞分析 | https://medium.com/falconforce/debugging-the-undebuggable-and-finding-a-cve-in-microsoft-defender-for-endpoint-ce36f50bb31| 
+| 20220402 | Go 语言将应用新 Mitigation 防御供应链攻击 | https://go.dev/blog/supply-chain| 
+| 20220402 | PHP Supply Chain Attack on PEAR | https://blog.sonarsource.com/php-supply-chain-attack-on-pear/| 
+| 20220402 | 用于测试 SSH 中间人劫持的工具 | https://github.com/ssh-mitm/ssh-mitm/blob/master/README.md| 
+| 20220402 | Austin Pwn2Own 比赛利用 4 个漏洞实现 Cisco RV340 RCE 的细节 | https://blog.relyze.com/2022/04/pwning-cisco-rv340-with-4-bug-chain.html| 
+| 20220402 | 基于符号执行技术的二进制漏洞挖掘 | https://docs.google.com/presentation/d/1E3uE-4mYpenw0s40rtMbIdxj3fJgC79aHCeiIlJSY5Y/edit| 
 | 20220401 | 损失超 6.1 亿美元 —— Ronin Network 被黑分析 | https://mp.weixin.qq.com/s/0U58Chw970X2GWcj2fvLPg| 
 | 20220401 | 基于 Angr 的控制流反混淆 | http://research.openanalysis.net/angr/symbolic%20execution/deobfuscation/research/2022/03/26/angr_notes.html| 
 | 20220401 | Evernote 被发现 SSRF 漏洞 | http://blog.neolex.dev/13/| 
@@ -22,37 +31,37 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220402 | 加密数字货币合约交易的匿名性保护与对抗 | https://mp.weixin.qq.com/s/_QWBvf-zH_urvswRwpInaw| 
+| 20220402 | XNU虚拟内存安全往事 | https://mp.weixin.qq.com/s/Lj8c5PLzLGIfdBoDzairsQ| 
+| 20220402 | 安全快报 , 美国提出新法案，加强医疗保健和公共卫生部门网络... | https://mp.weixin.qq.com/s/2rTm5bRByYjreyxWcO4b7Q| 
+| 20220402 | 安全周报1 , 国际红十字会遭受网络攻击，万人数据信息惨遭泄露 | https://mp.weixin.qq.com/s/tSOChrrLqfwi2IA4akWgnQ| 
+| 20220402 | 安全快报 , 关键供应商被黑，丰田汽车无奈关停日本所有工厂 | https://mp.weixin.qq.com/s/XPBRhAuZzhiR1SwYWLGyHQ| 
+| 20220402 | 安全快报 , AvosLocker 勒索软件攻击关键基础设施目标 | https://mp.weixin.qq.com/s/FgQkHXADs69ZBh2FxMIy1Q| 
+| 20220402 | 招聘 , “懋”够劲，等你来！ | https://mp.weixin.qq.com/s/ULzx7t182jHlrITiHu45iQ| 
 | 20220401 | Chrome Zero-Day from North Korea | https://www.schneier.com/blog/archives/2022/03/chrome-zero-day-from-north-korea.html| 
 | 20220401 | 【Rootkit 系列研究】Windows 平台的高隐匿、高持久化威胁 | https://paper.seebug.org/1868/| 
 | 20220401 | 基于 OpenAFS 文件系统的反射攻击深度分析 | https://paper.seebug.org/1861/| 
-| 20220401 | 关于如何更好地呈现红蓝对抗价值的思考 | http://avfisher.win/archives/1307| 
-| 20220401 | 使用DNS Tunnel技术的Linux后门B1txor20正在通过Log4j漏洞传播 | https://blog.netlab.360.com/b1txor20-use-of-dns-tunneling_cn/| 
-| 20220401 | 商业数字证书签发和使用情况简介 | https://blog.netlab.360.com/shu-zi-zheng-shu-zuo-wei-ji-chu-she-shi-de-shi-yong-qing-kuang-fen-xi/| 
-| 20220401 | Spring Cloud Function SpEL表达式注入 | https://www.03sec.com/VulnerabilityAnalysis/spring-cloud-function-spel-code-injection.html| 
-| 20220401 | CodeQl 从0到0.1 | https://blog.szfszf.top/article/59/| 
-| 20220401 | codeql挖掘java二次反序列化 | https://firebasky.github.io/2022/03/22/Codeql-excavate-Java-quadratic-deserialization/| 
-| 20220401 | K8s安全入门学习扫盲贴 | https://tttang.com/archive/1465/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220402T01:51:13Z | CVE-2022-22965 | spring-core单个图形化利用工具，CVE-2022-22965及修复方案已出 | https://github.com/light-Life/CVE-2022-22965-GUItools | | 
-| 20220402T01:37:11Z | CVE-2022-28251 | Proof of Concept for CVE-2022-28251 | https://github.com/mubix/CVE-2022-28251-POC | | 
-| 20220401T22:20:17Z | CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | | 
-| 20220401T20:06:21Z | CVE-2022-22965 | CVE-2022-22965 poc including reverse-shell support | https://github.com/viniciuspereiras/CVE-2022-22965-poc | | 
-| 20220401T18:52:24Z | CVE-2022-22965 | Null | https://github.com/Kirill89/CVE-2022-22965-PoC | | 
-| 20220401T18:47:44Z | CVE-2021-37740 | PoC for DoS vulnerability CVE-2021-37740 in firmware v3.0.3 of SCN-IP100.03 and SCN-IP000.03 by MDT. The bug has been fixed in firmware v3.0.4. | https://github.com/robertguetzkow/CVE-2021-37740 | | 
-| 20220401T18:43:27Z | CVE-2022-22965 | Null | https://github.com/rwincey/spring4shell-CVE-2022-22965 | | 
-| 20220401T15:22:09Z | CVE-2022-28251 | Null | https://github.com/ZephrFish/CVE-2022-28251-POC | | 
-| 20220401T14:47:01Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
-| 20220401T14:29:57Z | CVE-2022-22963 | Spring Cloud Function Vulnerable Application / CVE-2022-22963 | https://github.com/me2nuk/CVE-2022-22963 | | 
+| 20220402T11:13:22Z | CVE-2022-22965 | CVE-2022-22965 POC | https://github.com/Wrin9/CVE-2022-22965 | | 
+| 20220402T11:10:20Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220402T10:36:36Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
+| 20220402T10:14:14Z | CVE-2022-22965 | CVE-2022-22965\Spring-Core-RCE堪比关于 Apache Log4j2核弹级别漏洞exp的rce一键利用 | https://github.com/wjl110/CVE-2022-22965_Spring_Core_RCE | | 
+| 20220402T06:42:38Z | CVE-2022-24181 | XSS via Host Header injection and Steal  Password Reset Token of another user | https://github.com/comrade99/CVE-2022-24181 | | 
+| 20220402T03:36:24Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
+| 20220402T02:09:46Z | CVE-2022-28251 | Proof of Concept for CVE-2022-28251 | https://github.com/mubix/CVE-2022-28251-POC | | 
+| 20220402T02:09:39Z | CVE-2022-22963 | Spring Cloud Function Vulnerable Application / CVE-2022-22963 | https://github.com/me2nuk/CVE-2022-22963 | | 
+| 20220402T02:08:46Z | CVE-2022-22965 | CVE-2022-22965 Environment | https://github.com/Joe1sn/CVE-2022-22965 | | 
+| 20220402T02:04:24Z | CVE-2022-22965 | Spring-0day/CVE-2022-22965 | https://github.com/nu0l/CVE-2022-22965 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220402T01:24:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5638 | 208| 
+| 20220402T11:11:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5649 | 208| 
 | 20220401T19:54:17Z | Null | https://github.com/220328-Java-Full-Stack-AWS/Jack-Klees-P1 | 0 | 0| 
 | 20220401T12:56:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 17 | 0| 
 | 20220401T09:47:13Z | Null | https://github.com/paperplanefactory/kleecks-wp-theme | 0 | 0| 
@@ -67,31 +76,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T10:51:45Z | Null | https://github.com/Masutayunikon/Codiad-exploit | 0 | 0| 
+| 20220402T10:15:54Z | How the reentrancy exploit works and how to protect the Solidity smart contract from it. | https://github.com/meniy/reentrancy-hack-solidity | 0 | 0| 
+| 20220402T09:27:23Z | idk | https://github.com/Qufity/qufity.github.io | 0 | 0| 
+| 20220402T08:40:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2565 | 313| 
+| 20220402T08:30:43Z | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | 6 | 1| 
+| 20220402T08:09:41Z | Exploits developed by me. | https://github.com/mikaelkall/exploits | 31 | 27| 
+| 20220402T07:39:50Z | Website application for searching devices on the internet with vulnerability summarization and exploits demonstration. | https://github.com/larescze/seclab | 1 | 0| 
+| 20220402T07:33:11Z | ShellShock interactive-shell exploit | https://github.com/akr3ch/CVE-2014-6271 | 0 | 0| 
+| 20220402T04:00:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10947 | 1913| 
 | 20220402T00:24:02Z | Frequently used and tested exploits | https://github.com/vbrunschot/Exploits | 0 | 0| 
-| 20220401T22:12:40Z | A updated linora source with special exploits, always be updated to latest update | https://github.com/RealNotSimcraftlol/Fortnite-Bulletp-Internal-Cheat | 21 | 7| 
-| 20220401T22:02:07Z | Auto Find AlfaCgi + Exploit By 1877 Team | https://github.com/CodeBoy1877/AlfaCgi-1877 | 0 | 0| 
-| 20220401T21:15:48Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 75 | 28| 
-| 20220401T20:34:23Z | Proof of concept exploit for Python Security Consideration %logging: Logging configuration uses eval()% | https://github.com/raj3shp/python-logging.config-exploit | 0 | 0| 
-| 20220401T20:28:18Z | An easy way to abuse an old Discord exploit using spoilers. | https://github.com/SupremoSG/DiscordExploit | 0 | 1| 
-| 20220401T20:21:07Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/Bugs-Framework | 0 | 0| 
-| 20220401T19:56:10Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 194 | 61| 
-| 20220401T19:03:42Z | Binary Exploitation Writeups | https://github.com/ElliotAlderson51/Exploit-Writeups | 0 | 0| 
-| 20220401T18:35:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10946 | 1913| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T10:38:22Z | Tool to easily create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 1| 
+| 20220402T03:31:30Z | Backdoor for Lee County | https://github.com/DevDodger/Lee-County-Backdoor | 0 | 0| 
+| 20220402T03:24:28Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 141 | 37| 
 | 20220401T21:39:13Z | Null | https://github.com/NeoTRAN001/java_basic_backdoor | 0 | 0| 
 | 20220401T19:44:18Z | backdoor web shell | https://github.com/STR4N6ER/backdoor | 0 | 0| 
 | 20220401T14:12:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 451 | 87| 
 | 20220401T12:54:35Z | Null | https://github.com/didadidajiang/backdoor | 0 | 0| 
 | 20220401T12:42:13Z | Null | https://github.com/backdoorbench/backdoorbench.github.io | 0 | 0| 
-| 20220401T08:48:03Z | Tool to easily create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 1| 
 | 20220401T08:44:24Z | Website Shell BackDoors ( collection of internet ) | https://github.com/1337r0j4n/webshells | 0 | 0| 
 | 20220401T07:46:33Z | Null | https://github.com/KuofengGao/AdvBackdoor | 0 | 0| 
-| 20220401T07:37:57Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 63 | 28| 
-| 20220401T06:37:55Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 140 | 37| 
 
 
 # symbolic execution on Github 推荐
@@ -108,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T11:46:14Z | Null | https://github.com/anusua2408/fuzzy-guide | 0 | 0| 
+| 20220402T11:26:18Z | Null | https://github.com/Meiram-sys/Fuzzy-logic | 0 | 0| 
+| 20220402T10:50:51Z | Null | https://github.com/jwnhy/ebpf_fuzz | 0 | 0| 
+| 20220402T10:40:50Z | Null | https://github.com/Dani36d/fuzzy-octo-fagot | 0 | 0| 
+| 20220402T09:44:53Z | fuzzer源码分析 | https://github.com/qq281113270/ot-fuzzer | 0 | 0| 
 | 20220402T00:49:49Z | Null | https://github.com/devinllu/FuzzTesting | 0 | 0| 
 | 20220401T20:35:15Z | Null | https://github.com/fuzzbear0001/fuzzlist.xyz | 0 | 0| 
 | 20220401T16:21:01Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 451 | 37| 
 | 20220401T10:49:53Z | fuzzy code at best | https://github.com/CtrlJames/fuzzy-code | 0 | 0| 
 | 20220401T09:01:42Z | Lets practice some fuzzy examples according to Wong%s Book, including Gradient Descend Algorithm, Recursive Least Square, ... | https://github.com/98210184/Awesome-Fuzzy-Systems | 1 | 0| 
-| 20220401T08:02:13Z | In holiday mode, in requisite plaid flannel pajamas, and a little fuzzy from last night’s Chenin Blanc, I did what countless others did on Boxing Day morning: I reached for a platter of avocado toast with one hand, and my iPhone with the other.  I love my avocado toast light on the loaf and heavy on the green gold with jumbo nuggets of tomato. I shave local farm grown garlic straight up from the cheese grater and adorn with salt, a liberal lemon squeeze, and a few drops of something spicy on top.  The news these days is all gloom and doom and we are sick to death of hearing about COVID, so more often than not, at breakfast I’m scrolling Instagram instead, hunting down either art or food porn and recipes.   I won’t likely change it up next hangover brunch, but if I decide to switch styles, Instagram overflows with #avocadotoast hits. Almost two million, to be precise. Options abound: the pumpernickel with warm egg yolks over guacamole looks particularly delicious. Why, just add orange juice to make it a complete breakfast! There are some with grilled mushrooms and black olives that would go down nice with a Bloody Caesar.  Most of us probably think of “avocado toast” as being a kind of millennial thing, a by-product of vegan cafes and global consciousness. But it was first mentioned in a newspaper- California, of course, way back in 1887.     | https://github.com/kingharlem1/fuzzy-octo-guacamole | 0 | 0| 
-| 20220401T07:32:23Z | Null | https://github.com/chameleon10712/Fuzzing | 0 | 0| 
-| 20220401T07:11:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4063 | 963| 
-| 20220401T06:50:39Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 48 | 15| 
-| 20220401T04:09:34Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 259 | 19| 
 
 
 
