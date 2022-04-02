@@ -58,7 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220402T12:19:08Z | poSSh is a post-exploitation tool written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | 0 | 0| 
+| 20220402T12:25:33Z | poSSh is a post-exploitation tool written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | 0 | 0| 
 | 20220402T10:51:45Z | Null | https://github.com/Masutayunikon/Codiad-exploit | 0 | 0| 
 | 20220402T10:15:54Z | How the reentrancy exploit works and how to protect the Solidity smart contract from it. | https://github.com/meniy/reentrancy-hack-solidity | 0 | 0| 
 | 20220402T09:27:23Z | idk | https://github.com/Qufity/qufity.github.io | 0 | 0| 
@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T12:24:33Z | Null | https://github.com/sasunhai/fuzzy-tribble | 0 | 0| 
 | 20220402T11:46:14Z | Null | https://github.com/anusua2408/fuzzy-guide | 0 | 0| 
 | 20220402T11:26:18Z | Null | https://github.com/Meiram-sys/Fuzzy-logic | 0 | 0| 
 | 20220402T10:50:51Z | Null | https://github.com/jwnhy/ebpf_fuzz | 0 | 0| 

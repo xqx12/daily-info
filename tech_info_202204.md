@@ -76,7 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220402T12:19:08Z | poSSh is a post-exploitation tool written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | 0 | 0| 
+| 20220402T12:25:33Z | poSSh is a post-exploitation tool written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | 0 | 0| 
 | 20220402T10:51:45Z | Null | https://github.com/Masutayunikon/Codiad-exploit | 0 | 0| 
 | 20220402T10:15:54Z | How the reentrancy exploit works and how to protect the Solidity smart contract from it. | https://github.com/meniy/reentrancy-hack-solidity | 0 | 0| 
 | 20220402T09:27:23Z | idk | https://github.com/Qufity/qufity.github.io | 0 | 0| 
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T12:24:33Z | Null | https://github.com/sasunhai/fuzzy-tribble | 0 | 0| 
 | 20220402T11:46:14Z | Null | https://github.com/anusua2408/fuzzy-guide | 0 | 0| 
 | 20220402T11:26:18Z | Null | https://github.com/Meiram-sys/Fuzzy-logic | 0 | 0| 
 | 20220402T10:50:51Z | Null | https://github.com/jwnhy/ebpf_fuzz | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20220401T20:35:15Z | Null | https://github.com/fuzzbear0001/fuzzlist.xyz | 0 | 0| 
 | 20220401T16:21:01Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 451 | 37| 
 | 20220401T10:49:53Z | fuzzy code at best | https://github.com/CtrlJames/fuzzy-code | 0 | 0| 
-| 20220401T09:01:42Z | Lets practice some fuzzy examples according to Wong%s Book, including Gradient Descend Algorithm, Recursive Least Square, ... | https://github.com/98210184/Awesome-Fuzzy-Systems | 1 | 0| 
 
 
 
