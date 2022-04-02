@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220402T00:15:25Z | Frequently used and tested exploits | https://github.com/vbrunschot/Exploits | 0 | 0| 
+| 20220402T00:24:02Z | Frequently used and tested exploits | https://github.com/vbrunschot/Exploits | 0 | 0| 
 | 20220401T22:12:40Z | A updated linora source with special exploits, always be updated to latest update | https://github.com/RealNotSimcraftlol/Fortnite-Bulletp-Internal-Cheat | 21 | 7| 
 | 20220401T22:02:07Z | Auto Find AlfaCgi + Exploit By 1877 Team | https://github.com/CodeBoy1877/AlfaCgi-1877 | 0 | 0| 
 | 20220401T21:15:48Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 75 | 28| 
