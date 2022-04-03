@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T12:36:56Z | The prices of new cars in the industry is fixed by the manufacturer with some  additional costs incurred by the Government in the form of taxes. So customers buying a new  car can be assured of the money they invest to be worthy. But due to the increased price of  new cars and the incapability of customers to buy new cars due to the lack of funds, used cars  sales are on a global increase. Predicting the prices of used cars is an interesting and much needed problem to be addressed. Customers can be widely exploited by fixing unrealistic  prices for the used cars and many falls into this trap. Therefore, rises an absolute necessity of  a used car price prediction system to effectively determine the worthiness of the car using a  variety of features. | https://github.com/abhijaiswal819/Car-Price-Predictor-ML | 0 | 0| 
 | 20220403T11:42:01Z | for Penetration Testing and Ethical Hacking | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
 | 20220403T11:23:54Z | Analyser et exploiter les données de votre SIGB avec python. Cours Bibliosuisse - 5 avril 2022 | https://github.com/Raphael-Rey/data_in_libraries | 0 | 0| 
 | 20220403T09:38:36Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 16 | 2| 
@@ -89,7 +90,6 @@
 | 20220403T04:55:56Z | We exploit NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), proof of  attendance (of events), for individuals in real life scenarios. | https://github.com/codesport/programmable-nfts | 0 | 0| 
 | 20220403T03:40:14Z | An automated and organized approach from recon to exploitation. | https://github.com/webmaster-exit-1/Exploit_Mapper | 0 | 0| 
 | 20220403T01:42:48Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 81 | 31| 
-| 20220403T00:38:44Z | Exploiting Explainable Metrics for Augmented SGD [CVPR2022] | https://github.com/mahdihosseini/RMSGD | 31 | 10| 
 
 
 # backdoor on Github 推荐
