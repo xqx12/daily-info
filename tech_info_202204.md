@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220403T00:58:08Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220403T01:08:08Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220403T00:08:36Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
 | 20220402T22:53:53Z | CVE-2022-1015 | Null | https://github.com/zanezhub/CVE-2022-1015-1016 | | 
 | 20220402T19:51:57Z | cve-2022-22965 | Null | https://github.com/mwojterski/cve-2022-22965 | | 
