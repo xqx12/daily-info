@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220402T22:53:53Z | CVE-2022-1015 | Null | https://github.com/zanezhub/CVE-2022-1015-1016 | | 
+| 20220402T22:48:48Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220402T19:51:57Z | cve-2022-22965 | Null | https://github.com/mwojterski/cve-2022-22965 | | 
+| 20220402T18:56:54Z | CVE-2022-23131 | CVE-2022-23131漏洞利用工具开箱即用。 | https://github.com/Kazaf6s/CVE-2022-23131 | | 
+| 20220402T17:46:46Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
+| 20220402T16:37:30Z | CVE-2022-22965 | spring-core单个图形化利用工具，CVE-2022-22965及修复方案已出 | https://github.com/light-Life/CVE-2022-22965-GUItools | | 
+| 20220402T16:12:56Z | CVE-2022-22536 | Null | https://github.com/asurti6783/SAP-memory-pipes-desynchronization-vulnerability-MPI-CVE-2022-22536 | | 
 | 20220402T12:28:13Z | CVE-2021-37740 | PoC for DoS vulnerability CVE-2021-37740 in firmware v3.0.3 of SCN-IP100.03 and SCN-IP000.03 by MDT. The bug has been fixed in firmware v3.0.4. | https://github.com/robertguetzkow/CVE-2021-37740 | | 
 | 20220402T11:13:22Z | CVE-2022-22965 | CVE-2022-22965 POC | https://github.com/Wrin9/CVE-2022-22965 | | 
-| 20220402T11:10:20Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
-| 20220402T10:36:36Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
 | 20220402T10:14:14Z | CVE-2022-22965 | CVE-2022-22965\Spring-Core-RCE堪比关于 Apache Log4j2核弹级别漏洞exp的rce一键利用 | https://github.com/wjl110/CVE-2022-22965_Spring_Core_RCE | | 
-| 20220402T06:42:38Z | CVE-2022-24181 | XSS via Host Header injection and Steal  Password Reset Token of another user | https://github.com/comrade99/CVE-2022-24181 | | 
-| 20220402T03:36:24Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
-| 20220402T02:09:46Z | CVE-2022-28251 | Proof of Concept for CVE-2022-28251 | https://github.com/mubix/CVE-2022-28251-POC | | 
-| 20220402T02:09:39Z | CVE-2022-22963 | Spring Cloud Function Vulnerable Application / CVE-2022-22963 | https://github.com/me2nuk/CVE-2022-22963 | | 
-| 20220402T02:08:46Z | CVE-2022-22965 | CVE-2022-22965 Environment | https://github.com/Joe1sn/CVE-2022-22965 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220402T12:38:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5650 | 208| 
+| 20220402T23:55:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5653 | 208| 
+| 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 0| 
 | 20220401T19:54:17Z | Null | https://github.com/220328-Java-Full-Stack-AWS/Jack-Klees-P1 | 0 | 0| 
 | 20220401T12:56:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 17 | 0| 
 | 20220401T09:47:13Z | Null | https://github.com/paperplanefactory/kleecks-wp-theme | 0 | 0| 
@@ -71,36 +72,38 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T21:47:27Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 3 | 2| 
+| 20220402T17:57:18Z | Null | https://github.com/software-testing-bootcamp/S2E4-API-Test-Karate-Gatling | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T23:33:54Z | Null | https://github.com/Eddi0x/Silent-Excel-Builder-XLS-and-XLL-Exploit | 0 | 0| 
+| 20220402T23:31:56Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-2022-FUD | 0 | 0| 
+| 20220402T21:44:09Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 80 | 31| 
+| 20220402T21:41:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10951 | 1913| 
+| 20220402T21:29:00Z | Config files for my GitHub profile. | https://github.com/TryingExploitsIg/TryingExploitsIg | 0 | 0| 
+| 20220402T19:37:46Z | This smart contract allows you to execute a flash loan exploit for the gainz. | https://github.com/BSC-PROFIT0/BSC-Flashloan-Exploit | 0 | 0| 
+| 20220402T16:24:34Z | Collection of scripts to exploit link and network layer protocols vulnerabilities. | https://github.com/Claudjos/agave | 0 | 0| 
+| 20220402T14:52:48Z | Reproduce Inverse Finance exploit using Foundry | https://github.com/pyk/inverse-exploit | 0 | 0| 
 | 20220402T12:50:05Z | Null | https://github.com/630r63k/browser-exploitation | 0 | 0| 
-| 20220402T12:48:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10948 | 1913| 
 | 20220402T12:40:25Z | poSSh is a post-exploitation tool written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | 1 | 0| 
-| 20220402T10:51:45Z | Null | https://github.com/Masutayunikon/Codiad-exploit | 0 | 0| 
-| 20220402T10:15:54Z | How the reentrancy exploit works and how to protect the Solidity smart contract from it. | https://github.com/meniy/reentrancy-hack-solidity | 0 | 0| 
-| 20220402T09:27:23Z | idk | https://github.com/Qufity/qufity.github.io | 0 | 0| 
-| 20220402T08:40:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2565 | 313| 
-| 20220402T08:30:43Z | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | 6 | 1| 
-| 20220402T08:09:41Z | Exploits developed by me. | https://github.com/mikaelkall/exploits | 31 | 27| 
-| 20220402T07:39:50Z | Website application for searching devices on the internet with vulnerability summarization and exploits demonstration. | https://github.com/larescze/seclab | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T21:07:21Z | The same backdoor but without the html and flask. | https://github.com/qpzux/Backdoor-no-website | 0 | 0| 
+| 20220402T18:23:39Z | Shitty mc backdoor plugin | https://github.com/Python-22/Qlutch | 1 | 2| 
+| 20220402T18:20:04Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 32 | 6| 
 | 20220402T10:38:22Z | Tool to easily create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 1| 
 | 20220402T03:31:30Z | Backdoor for Lee County | https://github.com/DevDodger/Lee-County-Backdoor | 0 | 0| 
 | 20220402T03:24:28Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 141 | 37| 
 | 20220401T21:39:13Z | Null | https://github.com/NeoTRAN001/java_basic_backdoor | 0 | 0| 
 | 20220401T19:44:18Z | backdoor web shell | https://github.com/STR4N6ER/backdoor | 0 | 0| 
+| 20220401T17:29:06Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 6 | 0| 
 | 20220401T14:12:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 451 | 87| 
-| 20220401T12:54:35Z | Null | https://github.com/didadidajiang/backdoor | 0 | 0| 
-| 20220401T12:42:13Z | Null | https://github.com/backdoorbench/backdoorbench.github.io | 0 | 0| 
-| 20220401T08:44:24Z | Website Shell BackDoors ( collection of internet ) | https://github.com/1337r0j4n/webshells | 0 | 0| 
-| 20220401T07:46:33Z | Null | https://github.com/KuofengGao/AdvBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -118,6 +121,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220402T22:50:12Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
+| 20220402T20:46:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7218 | 1541| 
+| 20220402T18:43:05Z | Implementasi logika fuzzy pada kematangan buah durian berdasarkan usia, berat, keliling buah , ukuran batang dan jarak duri | https://github.com/kicap1992/logika_fuzzy_pada_kematangan_durian | 0 | 0| 
 | 20220402T12:54:51Z | Learning to fuzz test in go | https://github.com/zarif-al/fuzz-test | 0 | 0| 
 | 20220402T12:24:33Z | Null | https://github.com/sasunhai/fuzzy-tribble | 0 | 0| 
 | 20220402T11:46:14Z | Null | https://github.com/anusua2408/fuzzy-guide | 0 | 0| 
@@ -125,9 +131,6 @@
 | 20220402T10:50:51Z | Null | https://github.com/jwnhy/ebpf_fuzz | 0 | 0| 
 | 20220402T10:40:50Z | Null | https://github.com/Dani36d/fuzzy-octo-fagot | 0 | 0| 
 | 20220402T09:44:53Z | fuzzer源码分析 | https://github.com/qq281113270/ot-fuzzer | 0 | 0| 
-| 20220402T00:49:49Z | Null | https://github.com/devinllu/FuzzTesting | 0 | 0| 
-| 20220401T20:35:15Z | Null | https://github.com/fuzzbear0001/fuzzlist.xyz | 0 | 0| 
-| 20220401T16:21:01Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 451 | 37| 
 
 
 
