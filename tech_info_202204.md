@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220403 | 从DARPA项目学习如何做安全研究 | https://mp.weixin.qq.com/s/BkOIosI50NRqzz8Vsbm1Hg| 
+| 20220403 | 欺骗Wappalyzer插件指纹识别 | https://blog.xlab.app/p/63a5b7e6/| 
 | 20220402 | 加密数字货币合约交易的匿名性保护与对抗 | https://mp.weixin.qq.com/s/_QWBvf-zH_urvswRwpInaw| 
 | 20220402 | XNU虚拟内存安全往事 | https://mp.weixin.qq.com/s/Lj8c5PLzLGIfdBoDzairsQ| 
 | 20220402 | 安全快报 , 美国提出新法案，加强医疗保健和公共卫生部门网络... | https://mp.weixin.qq.com/s/2rTm5bRByYjreyxWcO4b7Q| 
@@ -39,29 +41,27 @@
 | 20220402 | 安全快报 , AvosLocker 勒索软件攻击关键基础设施目标 | https://mp.weixin.qq.com/s/FgQkHXADs69ZBh2FxMIy1Q| 
 | 20220402 | 招聘 , “懋”够劲，等你来！ | https://mp.weixin.qq.com/s/ULzx7t182jHlrITiHu45iQ| 
 | 20220401 | Chrome Zero-Day from North Korea | https://www.schneier.com/blog/archives/2022/03/chrome-zero-day-from-north-korea.html| 
-| 20220401 | 【Rootkit 系列研究】Windows 平台的高隐匿、高持久化威胁 | https://paper.seebug.org/1868/| 
-| 20220401 | 基于 OpenAFS 文件系统的反射攻击深度分析 | https://paper.seebug.org/1861/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220403T01:41:15Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220403T09:37:07Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220403T08:32:52Z | CVE-2022-23131 | CVE-2022-23131漏洞利用工具开箱即用。 | https://github.com/Kazaf6s/CVE-2022-23131 | | 
+| 20220403T07:36:26Z | cve-2022-22963 | Spring Cloud Function SpEL - cve-2022-22963 | https://github.com/twseptian/cve-2022-22963 | | 
+| 20220403T07:36:17Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
+| 20220403T06:43:18Z | CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | | 
+| 20220403T03:22:30Z | CVE-2021-42171 | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/CVE-2021-42171 | | 
+| 20220403T03:13:00Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | | 
 | 20220403T00:08:36Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
 | 20220402T22:53:53Z | CVE-2022-1015 | Null | https://github.com/zanezhub/CVE-2022-1015-1016 | | 
 | 20220402T19:51:57Z | cve-2022-22965 | Null | https://github.com/mwojterski/cve-2022-22965 | | 
-| 20220402T18:56:54Z | CVE-2022-23131 | CVE-2022-23131漏洞利用工具开箱即用。 | https://github.com/Kazaf6s/CVE-2022-23131 | | 
-| 20220402T16:37:30Z | CVE-2022-22965 | spring-core单个图形化利用工具，CVE-2022-22965及修复方案已出 | https://github.com/light-Life/CVE-2022-22965-GUItools | | 
-| 20220402T16:12:56Z | CVE-2022-22536 | Null | https://github.com/asurti6783/SAP-memory-pipes-desynchronization-vulnerability-MPI-CVE-2022-22536 | | 
-| 20220402T12:28:13Z | CVE-2021-37740 | PoC for DoS vulnerability CVE-2021-37740 in firmware v3.0.3 of SCN-IP100.03 and SCN-IP000.03 by MDT. The bug has been fixed in firmware v3.0.4. | https://github.com/robertguetzkow/CVE-2021-37740 | | 
-| 20220402T11:13:22Z | CVE-2022-22965 | CVE-2022-22965 POC | https://github.com/Wrin9/CVE-2022-22965 | | 
-| 20220402T10:14:14Z | CVE-2022-22965 | CVE-2022-22965\Spring-Core-RCE堪比关于 Apache Log4j2核弹级别漏洞exp的rce一键利用 | https://github.com/wjl110/CVE-2022-22965_Spring_Core_RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220402T23:55:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5653 | 208| 
+| 20220403T10:33:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5655 | 209| 
 | 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 1| 
 | 20220401T19:54:17Z | Null | https://github.com/220328-Java-Full-Stack-AWS/Jack-Klees-P1 | 0 | 0| 
 | 20220401T12:56:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 17 | 0| 
@@ -72,6 +72,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T10:01:51Z | Null | https://github.com/s2eung1/s2eung1 | 0 | 0| 
 | 20220402T21:47:27Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 3 | 2| 
 | 20220402T17:57:18Z | Null | https://github.com/software-testing-bootcamp/S2E4-API-Test-Karate-Gatling | 0 | 0| 
 
@@ -79,31 +80,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T11:42:01Z | for Penetration Testing and Ethical Hacking | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
+| 20220403T11:23:54Z | Analyser et exploiter les données de votre SIGB avec python. Cours Bibliosuisse - 5 avril 2022 | https://github.com/Raphael-Rey/data_in_libraries | 0 | 0| 
+| 20220403T09:38:36Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 16 | 2| 
+| 20220403T09:23:18Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3183 | 689| 
+| 20220403T08:00:34Z | Null | https://github.com/zapstiko/Exploit | 0 | 0| 
+| 20220403T07:42:49Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 37 | 3| 
+| 20220403T04:55:56Z | We exploit NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), proof of  attendance (of events), for individuals in real life scenarios. | https://github.com/codesport/programmable-nfts | 0 | 0| 
+| 20220403T03:40:14Z | An automated and organized approach from recon to exploitation. | https://github.com/webmaster-exit-1/Exploit_Mapper | 0 | 0| 
 | 20220403T01:42:48Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 81 | 31| 
 | 20220403T00:38:44Z | Exploiting Explainable Metrics for Augmented SGD [CVPR2022] | https://github.com/mahdihosseini/RMSGD | 31 | 10| 
-| 20220403T00:10:23Z | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | 0 | 0| 
-| 20220402T23:33:54Z | Null | https://github.com/Eddi0x/Silent-Excel-Builder-XLS-and-XLL-Exploit | 0 | 0| 
-| 20220402T23:31:56Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-2022-FUD | 0 | 0| 
-| 20220402T21:41:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10951 | 1913| 
-| 20220402T21:29:00Z | Config files for my GitHub profile. | https://github.com/TryingExploitsIg/TryingExploitsIg | 0 | 0| 
-| 20220402T19:37:46Z | This smart contract allows you to execute a flash loan exploit for the gainz. | https://github.com/BSC-PROFIT0/BSC-Flashloan-Exploit | 0 | 0| 
-| 20220402T16:24:34Z | Collection of scripts to exploit link and network layer protocols vulnerabilities. | https://github.com/Claudjos/agave | 0 | 0| 
-| 20220402T15:09:00Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 35 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T09:09:54Z | Tool to create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 1| 
+| 20220403T06:59:04Z | Null | https://github.com/XiaoBudingdingmocha/backdoor | 0 | 0| 
 | 20220402T21:07:21Z | The same backdoor but without the html and flask. | https://github.com/qpzux/Backdoor-no-website | 0 | 0| 
 | 20220402T18:23:39Z | Shitty mc backdoor plugin | https://github.com/Python-22/Qlutch | 1 | 2| 
 | 20220402T18:20:04Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 32 | 6| 
-| 20220402T10:38:22Z | Tool to easily create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 1| 
 | 20220402T03:31:30Z | Backdoor for Lee County | https://github.com/DevDodger/Lee-County-Backdoor | 0 | 0| 
 | 20220402T03:24:28Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 141 | 37| 
 | 20220401T21:39:13Z | Null | https://github.com/NeoTRAN001/java_basic_backdoor | 0 | 0| 
 | 20220401T19:44:18Z | backdoor web shell | https://github.com/STR4N6ER/backdoor | 0 | 0| 
 | 20220401T17:29:06Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 6 | 0| 
-| 20220401T14:12:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 451 | 87| 
 
 
 # symbolic execution on Github 推荐
@@ -123,16 +124,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T11:26:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2608 | 524| 
+| 20220403T11:14:07Z | A fuzzing tool for the CodeHS assignment submit API. Created out of frustration for resubmitting completed assignments in a new class. | https://github.com/LivelyCarpet87/CodeHS-Assigment-Submit-Fuzzer | 0 | 0| 
+| 20220403T10:46:44Z | Null | https://github.com/leonardoalt/soldoku_fuzz | 2 | 0| 
+| 20220403T10:14:47Z | Null | https://github.com/KairosXBoT/FuzzyXE | 0 | 0| 
+| 20220403T07:05:01Z | Solar Tracker using Fuzzy Logics | https://github.com/BiggusMaximus/solar-tracker-fuzzy-logic | 0 | 0| 
+| 20220403T06:55:55Z | Null | https://github.com/StuartHsu/fuzzySearch | 0 | 0| 
+| 20220403T06:50:23Z | Null | https://github.com/MyLostCH4/Fuzzy_Control | 0 | 0| 
+| 20220403T06:39:01Z | Null | https://github.com/Akyl9/fuzzy-octo-engine | 0 | 0| 
 | 20220402T22:50:12Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
 | 20220402T20:46:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7218 | 1541| 
-| 20220402T18:43:05Z | Implementasi logika fuzzy pada kematangan buah durian berdasarkan usia, berat, keliling buah , ukuran batang dan jarak duri | https://github.com/kicap1992/logika_fuzzy_pada_kematangan_durian | 0 | 0| 
-| 20220402T12:54:51Z | Learning to fuzz test in go | https://github.com/zarif-al/fuzz-test | 0 | 0| 
-| 20220402T12:24:33Z | Null | https://github.com/sasunhai/fuzzy-tribble | 0 | 0| 
-| 20220402T11:46:14Z | Null | https://github.com/anusua2408/fuzzy-guide | 0 | 0| 
-| 20220402T11:26:18Z | Null | https://github.com/Meiram-sys/Fuzzy-logic | 0 | 0| 
-| 20220402T10:50:51Z | Null | https://github.com/jwnhy/ebpf_fuzz | 0 | 0| 
-| 20220402T10:40:50Z | Null | https://github.com/Dani36d/fuzzy-octo-fagot | 0 | 0| 
-| 20220402T09:44:53Z | fuzzer源码分析 | https://github.com/qq281113270/ot-fuzzer | 0 | 0| 
 
 
 
