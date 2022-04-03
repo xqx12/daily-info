@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220403T09:37:07Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220403T12:13:59Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220403T08:32:52Z | CVE-2022-23131 | CVE-2022-23131漏洞利用工具开箱即用。 | https://github.com/Kazaf6s/CVE-2022-23131 | | 
 | 20220403T07:36:26Z | cve-2022-22963 | Spring Cloud Function SpEL - cve-2022-22963 | https://github.com/twseptian/cve-2022-22963 | | 
 | 20220403T07:36:17Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
@@ -132,8 +132,8 @@
 | 20220403T06:55:55Z | Null | https://github.com/StuartHsu/fuzzySearch | 0 | 0| 
 | 20220403T06:50:23Z | Null | https://github.com/MyLostCH4/Fuzzy_Control | 0 | 0| 
 | 20220403T06:39:01Z | Null | https://github.com/Akyl9/fuzzy-octo-engine | 0 | 0| 
+| 20220403T03:19:58Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 49 | 15| 
 | 20220402T22:50:12Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
-| 20220402T20:46:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7218 | 1541| 
 
 
 
