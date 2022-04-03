@@ -87,7 +87,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220402T09:14:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 523 | 91| 
+| 20220402T19:53:34Z | We have to perform the verification of the partial or total correctness of two algorithms. | https://github.com/marc7666/Verification-of-Programs-with-Hoare-Logic-and-Symbolic-Execution | 0 | 0| 
+| 20220402T09:14:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 523 | 92| 
 
 
 # big4 on Github 推荐
