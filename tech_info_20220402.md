@@ -48,7 +48,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220402T23:55:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5653 | 208| 
-| 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 0| 
+| 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 1| 
 
 
 # s2e on Github 推荐

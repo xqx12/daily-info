@@ -62,7 +62,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220402T23:55:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5653 | 208| 
-| 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 0| 
+| 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 1| 
 | 20220401T19:54:17Z | Null | https://github.com/220328-Java-Full-Stack-AWS/Jack-Klees-P1 | 0 | 0| 
 | 20220401T12:56:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 17 | 0| 
 | 20220401T09:47:13Z | Null | https://github.com/paperplanefactory/kleecks-wp-theme | 0 | 0| 
