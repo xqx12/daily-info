@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T00:10:23Z | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | 0 | 0| 
 | 20220402T23:33:54Z | Null | https://github.com/Eddi0x/Silent-Excel-Builder-XLS-and-XLL-Exploit | 0 | 0| 
 | 20220402T23:31:56Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-2022-FUD | 0 | 0| 
 | 20220402T21:44:09Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 80 | 31| 
@@ -88,7 +89,6 @@
 | 20220402T16:24:34Z | Collection of scripts to exploit link and network layer protocols vulnerabilities. | https://github.com/Claudjos/agave | 0 | 0| 
 | 20220402T14:52:48Z | Reproduce Inverse Finance exploit using Foundry | https://github.com/pyk/inverse-exploit | 0 | 0| 
 | 20220402T12:50:05Z | Null | https://github.com/630r63k/browser-exploitation | 0 | 0| 
-| 20220402T12:40:25Z | poSSh is a post-exploitation tool written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | 1 | 0| 
 
 
 # backdoor on Github 推荐
