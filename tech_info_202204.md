@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220403T00:32:15Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220403T00:38:57Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220403T00:08:36Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
 | 20220402T22:53:53Z | CVE-2022-1015 | Null | https://github.com/zanezhub/CVE-2022-1015-1016 | | 
 | 20220402T19:51:57Z | cve-2022-22965 | Null | https://github.com/mwojterski/cve-2022-22965 | | 
@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T00:38:44Z | Exploiting Explainable Metrics for Augmented SGD [CVPR2022] | https://github.com/mahdihosseini/RMSGD | 31 | 10| 
 | 20220403T00:10:23Z | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | 0 | 0| 
 | 20220402T23:33:54Z | Null | https://github.com/Eddi0x/Silent-Excel-Builder-XLS-and-XLL-Exploit | 0 | 0| 
 | 20220402T23:31:56Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-2022-FUD | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20220402T19:37:46Z | This smart contract allows you to execute a flash loan exploit for the gainz. | https://github.com/BSC-PROFIT0/BSC-Flashloan-Exploit | 0 | 0| 
 | 20220402T16:24:34Z | Collection of scripts to exploit link and network layer protocols vulnerabilities. | https://github.com/Claudjos/agave | 0 | 0| 
 | 20220402T14:52:48Z | Reproduce Inverse Finance exploit using Foundry | https://github.com/pyk/inverse-exploit | 0 | 0| 
-| 20220402T12:50:05Z | Null | https://github.com/630r63k/browser-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
