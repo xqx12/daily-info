@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220403T01:37:22Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220403T01:41:15Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220403T00:08:36Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
 | 20220402T22:53:53Z | CVE-2022-1015 | Null | https://github.com/zanezhub/CVE-2022-1015-1016 | | 
 | 20220402T19:51:57Z | cve-2022-22965 | Null | https://github.com/mwojterski/cve-2022-22965 | | 
@@ -88,7 +88,7 @@
 | 20220402T21:29:00Z | Config files for my GitHub profile. | https://github.com/TryingExploitsIg/TryingExploitsIg | 0 | 0| 
 | 20220402T19:37:46Z | This smart contract allows you to execute a flash loan exploit for the gainz. | https://github.com/BSC-PROFIT0/BSC-Flashloan-Exploit | 0 | 0| 
 | 20220402T16:24:34Z | Collection of scripts to exploit link and network layer protocols vulnerabilities. | https://github.com/Claudjos/agave | 0 | 0| 
-| 20220402T14:52:48Z | Reproduce Inverse Finance exploit using Foundry | https://github.com/pyk/inverse-exploit | 0 | 0| 
+| 20220402T15:09:00Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 35 | 1| 
 
 
 # backdoor on Github 推荐

@@ -68,9 +68,9 @@
 | 20220402T21:29:00Z | Config files for my GitHub profile. | https://github.com/TryingExploitsIg/TryingExploitsIg | 0 | 0| 
 | 20220402T19:37:46Z | This smart contract allows you to execute a flash loan exploit for the gainz. | https://github.com/BSC-PROFIT0/BSC-Flashloan-Exploit | 0 | 0| 
 | 20220402T16:24:34Z | Collection of scripts to exploit link and network layer protocols vulnerabilities. | https://github.com/Claudjos/agave | 0 | 0| 
+| 20220402T15:09:00Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 35 | 1| 
 | 20220402T14:52:48Z | Reproduce Inverse Finance exploit using Foundry | https://github.com/pyk/inverse-exploit | 0 | 0| 
 | 20220402T12:50:05Z | Null | https://github.com/630r63k/browser-exploitation | 0 | 0| 
-| 20220402T12:40:25Z | poSSh is a post-exploitation tool written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | 1 | 0| 
 
 
 # backdoor on Github 推荐
