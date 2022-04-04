@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220404T01:17:34Z | CVE-2022-22965 | Spring Framework RCE via Data Binding on JDK 9+ / spring4shell / CVE-2022-22965 | https://github.com/me2nuk/CVE-2022-22965 | | 
 | 20220404T01:11:57Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220403T23:04:29Z | CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | | 
 | 20220403T16:17:42Z | CVE-2021-40438 | Apache forward request CVE | https://github.com/Kashkovsky/CVE-2021-40438 | | 
@@ -55,7 +56,6 @@
 | 20220403T07:36:26Z | cve-2022-22963 | Spring Cloud Function SpEL - cve-2022-22963 | https://github.com/twseptian/cve-2022-22963 | | 
 | 20220403T07:36:17Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
 | 20220403T03:22:30Z | CVE-2021-42171 | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/CVE-2021-42171 | | 
-| 20220403T03:13:00Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | | 
 
 
 # klee on Github 推荐
@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T01:18:31Z | Null | https://github.com/Rrooach/freeRTOS_fuzz | 0 | 0| 
 | 20220404T00:21:55Z | A QSG for Fuzz Betting and Authoring | https://github.com/Tyr314159/Fuzz-Quick-Start-Guide | 0 | 0| 
 | 20220404T00:08:55Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6466 | 743| 
 | 20220403T23:46:27Z | Null | https://github.com/MinhyukPark/FastaFuzz | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20220403T19:44:43Z | Null | https://github.com/withallthesequestions/fuzzy-pancake-hangman | 0 | 0| 
 | 20220403T19:17:52Z | Null | https://github.com/harish0775/fuzzy-carnival | 0 | 0| 
 | 20220403T17:44:06Z | Fuzzy trie implementation in Golang | https://github.com/keddad/fuzzytrie | 0 | 0| 
-| 20220403T15:55:57Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 334 | 58| 
 
 
 
