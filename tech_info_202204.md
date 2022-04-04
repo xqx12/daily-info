@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T12:58:14Z | Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite. | https://github.com/superMan7912002/bazad3 | 0 | 0| 
 | 20220404T12:53:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10957 | 1915| 
 | 20220404T12:43:35Z | This repository shows a way to get clipmyhorse livestreams without paying for a subscription. | https://github.com/mahalde/clipmyhorse-exploit | 0 | 0| 
 | 20220404T12:08:03Z | Less richly-featured than Bloodhound, Shihtzu is a lapdog for AD exploitation.  Shihtzu is intended to be a light-weight alternative to Bloodhound when stealth requirements prevent you from running full Bloodhound in an enterprise. | https://github.com/pangolinsec/shihtzu | 0 | 0| 
@@ -91,13 +92,12 @@
 | 20220404T06:44:32Z | Null | https://github.com/ScribblerCoder/Binary-Exploitation-Workshop | 0 | 0| 
 | 20220404T05:19:10Z | Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965)  | https://github.com/gpiechnik2/nmap-spring4shell | 0 | 0| 
 | 20220404T03:39:49Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 822 | 140| 
-| 20220404T02:52:05Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 26 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T12:53:57Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. | https://github.com/kris-nova/boopkit | 153 | 15| 
+| 20220404T12:59:31Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. | https://github.com/kris-nova/boopkit | 154 | 15| 
 | 20220404T05:31:46Z | Null | https://github.com/039710/Example-Backdoor | 0 | 0| 
 | 20220403T16:42:05Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 313 | 54| 
 | 20220403T16:07:21Z | Tool to create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 1 | 1| 
