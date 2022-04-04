@@ -82,11 +82,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T12:53:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10957 | 1915| 
 | 20220404T12:43:35Z | This repository shows a way to get clipmyhorse livestreams without paying for a subscription. | https://github.com/mahalde/clipmyhorse-exploit | 0 | 0| 
 | 20220404T12:08:03Z | Less richly-featured than Bloodhound, Shihtzu is a lapdog for AD exploitation.  Shihtzu is intended to be a light-weight alternative to Bloodhound when stealth requirements prevent you from running full Bloodhound in an enterprise. | https://github.com/pangolinsec/shihtzu | 0 | 0| 
 | 20220404T11:30:32Z | A PaperMC crash exploit / hack (fabric mod) | https://github.com/Coderx-Gamer/lectern-crash | 1 | 1| 
 | 20220404T10:35:15Z | for Penetration Testing and Ethical Hacking , Compatible Python 2.7 | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
-| 20220404T09:59:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10956 | 1915| 
 | 20220404T09:11:38Z | Null | https://github.com/cxkoda/ERC721MintExploits | 0 | 0| 
 | 20220404T06:44:32Z | Null | https://github.com/ScribblerCoder/Binary-Exploitation-Workshop | 0 | 0| 
 | 20220404T05:19:10Z | Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965)  | https://github.com/gpiechnik2/nmap-spring4shell | 0 | 0| 
