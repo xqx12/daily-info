@@ -85,13 +85,13 @@
 | 20220404T12:08:03Z | Less richly-featured than Bloodhound, Shihtzu is a lapdog for AD exploitation.  Shihtzu is intended to be a light-weight alternative to Bloodhound when stealth requirements prevent you from running full Bloodhound in an enterprise. | https://github.com/pangolinsec/shihtzu | 0 | 0| 
 | 20220404T11:30:32Z | A PaperMC crash exploit / hack (fabric mod) | https://github.com/Coderx-Gamer/lectern-crash | 1 | 1| 
 | 20220404T10:35:15Z | for Penetration Testing and Ethical Hacking , Compatible Python 2.7 | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
+| 20220404T09:59:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10956 | 1915| 
 | 20220404T09:11:38Z | Null | https://github.com/cxkoda/ERC721MintExploits | 0 | 0| 
 | 20220404T06:44:32Z | Null | https://github.com/ScribblerCoder/Binary-Exploitation-Workshop | 0 | 0| 
 | 20220404T05:19:10Z | Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965)  | https://github.com/gpiechnik2/nmap-spring4shell | 0 | 0| 
 | 20220404T03:39:49Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 822 | 140| 
 | 20220404T02:52:05Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 26 | 1| 
 | 20220404T00:33:56Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 40 | 1| 
-| 20220403T23:53:30Z | rconsoleerr(%Github is no longer supported. Instead, use loadstring(game:HttpGet(%hoontee.askusabouttaxes.com/raw%,true))()%) | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | 0 | 0| 
 
 
 # backdoor on Github 推荐
