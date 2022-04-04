@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T12:08:03Z | Less richly-featured than Bloodhound, Shihtzu is a lapdog for AD exploitation.  Shihtzu is intended to be a light-weight alternative to Bloodhound when stealth requirements prevent you from running full Bloodhound in an enterprise. | https://github.com/pangolinsec/shihtzu | 0 | 0| 
 | 20220404T11:30:32Z | A PaperMC crash exploit / hack (fabric mod) | https://github.com/Coderx-Gamer/lectern-crash | 1 | 1| 
 | 20220404T10:35:15Z | for Penetration Testing and Ethical Hacking , Compatible Python 2.7 | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
 | 20220404T09:11:38Z | Null | https://github.com/cxkoda/ERC721MintExploits | 0 | 0| 
@@ -91,13 +92,12 @@
 | 20220404T02:52:05Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 26 | 1| 
 | 20220404T00:33:56Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 40 | 1| 
 | 20220403T23:53:30Z | rconsoleerr(%Github is no longer supported. Instead, use loadstring(game:HttpGet(%hoontee.askusabouttaxes.com/raw%,true))()%) | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | 0 | 0| 
-| 20220403T23:01:15Z | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T12:07:24Z | Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/boopkit | 134 | 10| 
+| 20220404T12:09:06Z | Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/boopkit | 136 | 10| 
 | 20220404T05:31:46Z | Null | https://github.com/039710/Example-Backdoor | 0 | 0| 
 | 20220403T16:42:05Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 313 | 54| 
 | 20220403T16:07:21Z | Tool to create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 1 | 1| 

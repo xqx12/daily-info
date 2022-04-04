@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T12:08:03Z | Less richly-featured than Bloodhound, Shihtzu is a lapdog for AD exploitation.  Shihtzu is intended to be a light-weight alternative to Bloodhound when stealth requirements prevent you from running full Bloodhound in an enterprise. | https://github.com/pangolinsec/shihtzu | 0 | 0| 
 | 20220404T11:30:32Z | A PaperMC crash exploit / hack (fabric mod) | https://github.com/Coderx-Gamer/lectern-crash | 1 | 1| 
 | 20220404T10:35:15Z | for Penetration Testing and Ethical Hacking , Compatible Python 2.7 | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
 | 20220404T09:11:38Z | Null | https://github.com/cxkoda/ERC721MintExploits | 0 | 0| 
@@ -55,7 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T12:07:24Z | Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/boopkit | 134 | 10| 
+| 20220404T12:09:06Z | Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/boopkit | 136 | 10| 
 | 20220404T05:31:46Z | Null | https://github.com/039710/Example-Backdoor | 0 | 0| 
 
 
