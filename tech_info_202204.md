@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220404T12:25:10Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220404T12:53:10Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220404T10:42:29Z | CVE-2022-22965 | PowerShell port of CVE-2022-22965 vulnerability check by colincowie. | https://github.com/daniel0x00/Invoke-CVE-2022-22965-SafeCheck | | 
 | 20220404T08:48:19Z | CVE-2022-22965 | A Safer PoC for CVE-2022-22965 (Spring4Shell) | https://github.com/colincowie/Safer_PoC_CVE-2022-22965 | | 
 | 20220404T07:50:01Z | CVE-2021-0476 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0476 | | 
@@ -97,7 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T12:40:17Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. | https://github.com/kris-nova/boopkit | 151 | 15| 
+| 20220404T12:53:57Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. | https://github.com/kris-nova/boopkit | 153 | 15| 
 | 20220404T05:31:46Z | Null | https://github.com/039710/Example-Backdoor | 0 | 0| 
 | 20220403T16:42:05Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 313 | 54| 
 | 20220403T16:07:21Z | Tool to create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 1 | 1| 
@@ -127,7 +127,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T12:50:00Z | MATLAB code for the research paper titled %Self-Organizing Fuzzy Belief Inference System for Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Belief-Inference-System-for-Classification | 0 | 0| 
+| 20220404T12:53:35Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 541 | 60| 
+| 20220404T12:51:48Z | MATLAB code for the research paper titled %Self-Organizing Fuzzy Belief Inference System for Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Belief-Inference-System-for-Classification | 0 | 0| 
 | 20220404T11:23:33Z | fuzzer for graphQL | https://github.com/saifnoorprottoy/atulee | 0 | 0| 
 | 20220404T10:55:44Z | Null | https://github.com/williamyhhuang/FuzzySearch | 0 | 0| 
 | 20220404T07:11:02Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 96 | 12| 
@@ -136,7 +137,6 @@
 | 20220404T00:21:55Z | A QSG for Fuzz Betting and Authoring | https://github.com/Tyr314159/Fuzz-Quick-Start-Guide | 0 | 0| 
 | 20220404T00:08:55Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6466 | 743| 
 | 20220403T23:46:27Z | Null | https://github.com/MinhyukPark/FastaFuzz | 0 | 0| 
-| 20220403T23:45:35Z | Files on the MrFuzzy company | https://github.com/chrisaihe/MrFuzzy_SQL | 0 | 0| 
 
 
 
