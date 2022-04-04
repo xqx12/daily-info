@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220404 | SecWiki周刊（第422期) | https://www.sec-wiki.com/weekly/422| 
 | 20220403 | 从DARPA项目学习如何做安全研究 | https://mp.weixin.qq.com/s/BkOIosI50NRqzz8Vsbm1Hg| 
 | 20220403 | 欺骗Wappalyzer插件指纹识别 | https://blog.xlab.app/p/63a5b7e6/| 
 | 20220402 | 加密数字货币合约交易的匿名性保护与对抗 | https://mp.weixin.qq.com/s/_QWBvf-zH_urvswRwpInaw| 
@@ -40,7 +41,6 @@
 | 20220402 | 安全快报 , 关键供应商被黑，丰田汽车无奈关停日本所有工厂 | https://mp.weixin.qq.com/s/XPBRhAuZzhiR1SwYWLGyHQ| 
 | 20220402 | 安全快报 , AvosLocker 勒索软件攻击关键基础设施目标 | https://mp.weixin.qq.com/s/FgQkHXADs69ZBh2FxMIy1Q| 
 | 20220402 | 招聘 , “懋”够劲，等你来！ | https://mp.weixin.qq.com/s/ULzx7t182jHlrITiHu45iQ| 
-| 20220401 | Chrome Zero-Day from North Korea | https://www.schneier.com/blog/archives/2022/03/chrome-zero-day-from-north-korea.html| 
 
 
 # CVE Github 推荐
@@ -127,6 +127,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T11:23:33Z | fuzzer for graphQL | https://github.com/saifnoorprottoy/atulee | 0 | 0| 
+| 20220404T10:55:44Z | Null | https://github.com/williamyhhuang/FuzzySearch | 0 | 0| 
 | 20220404T01:39:29Z | Null | https://github.com/vitorsorato/fuzzy_logic | 0 | 0| 
 | 20220404T01:18:31Z | Null | https://github.com/Rrooach/freeRTOS_fuzz | 0 | 0| 
 | 20220404T00:21:55Z | A QSG for Fuzz Betting and Authoring | https://github.com/Tyr314159/Fuzz-Quick-Start-Guide | 0 | 0| 
@@ -135,8 +137,6 @@
 | 20220403T23:45:35Z | Files on the MrFuzzy company | https://github.com/chrisaihe/MrFuzzy_SQL | 0 | 0| 
 | 20220403T22:59:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4716 | 487| 
 | 20220403T21:00:23Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 370 | 15| 
-| 20220403T19:44:43Z | Null | https://github.com/withallthesequestions/fuzzy-pancake-hangman | 0 | 0| 
-| 20220403T19:17:52Z | Null | https://github.com/harish0775/fuzzy-carnival | 0 | 0| 
 
 
 

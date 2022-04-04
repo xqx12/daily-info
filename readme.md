@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220404 | SecWiki周刊（第422期) | https://www.sec-wiki.com/weekly/422| 
 
 
 # CVE Github 推荐
@@ -73,6 +74,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T11:23:33Z | fuzzer for graphQL | https://github.com/saifnoorprottoy/atulee | 0 | 0| 
+| 20220404T10:55:44Z | Null | https://github.com/williamyhhuang/FuzzySearch | 0 | 0| 
 | 20220404T01:39:29Z | Null | https://github.com/vitorsorato/fuzzy_logic | 0 | 0| 
 | 20220404T01:18:31Z | Null | https://github.com/Rrooach/freeRTOS_fuzz | 0 | 0| 
 | 20220404T00:21:55Z | A QSG for Fuzz Betting and Authoring | https://github.com/Tyr314159/Fuzz-Quick-Start-Guide | 0 | 0| 
