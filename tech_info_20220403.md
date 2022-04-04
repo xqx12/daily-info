@@ -90,13 +90,13 @@
 | 20220403T23:46:27Z | Null | https://github.com/MinhyukPark/FastaFuzz | 0 | 0| 
 | 20220403T23:45:35Z | Files on the MrFuzzy company | https://github.com/chrisaihe/MrFuzzy_SQL | 0 | 0| 
 | 20220403T21:00:23Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 370 | 15| 
-| 20220403T19:59:37Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6465 | 743| 
 | 20220403T19:44:43Z | Null | https://github.com/withallthesequestions/fuzzy-pancake-hangman | 0 | 0| 
 | 20220403T19:17:52Z | Null | https://github.com/harish0775/fuzzy-carnival | 0 | 0| 
 | 20220403T17:44:06Z | Fuzzy trie implementation in Golang | https://github.com/keddad/fuzzytrie | 0 | 0| 
 | 20220403T15:55:57Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 334 | 58| 
 | 20220403T11:40:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7220 | 1541| 
 | 20220403T11:26:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2608 | 524| 
+| 20220403T11:14:07Z | A fuzzing tool for the CodeHS assignment submit API. Created out of frustration for resubmitting completed assignments in a new class. | https://github.com/LivelyCarpet87/CodeHS-Assigment-Submit-Fuzzer | 0 | 0| 
 
 
 
