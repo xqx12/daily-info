@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T12:50:00Z | MATLAB code for the research paper titled %Self-Organizing Fuzzy Belief Inference System for Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Belief-Inference-System-for-Classification | 0 | 0| 
 | 20220404T11:23:33Z | fuzzer for graphQL | https://github.com/saifnoorprottoy/atulee | 0 | 0| 
 | 20220404T10:55:44Z | Null | https://github.com/williamyhhuang/FuzzySearch | 0 | 0| 
 | 20220404T07:11:02Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 96 | 12| 
