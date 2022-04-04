@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220404T11:48:27Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220404T10:42:29Z | CVE-2022-22965 | PowerShell port of CVE-2022-22965 vulnerability check by colincowie. | https://github.com/daniel0x00/Invoke-CVE-2022-22965-SafeCheck | | 
+| 20220404T08:48:19Z | CVE-2022-22965 | A Safer PoC for CVE-2022-22965 (Spring4Shell) | https://github.com/colincowie/Safer_PoC_CVE-2022-22965 | | 
+| 20220404T07:50:01Z | CVE-2021-0476 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0476 | | 
+| 20220404T06:49:18Z | CVE-2020-0471 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0471 | | 
+| 20220404T04:54:20Z | CVE-2020-0377 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0377 | | 
+| 20220404T04:47:45Z | CVE-2020-0413 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0413 | | 
 | 20220404T01:17:34Z | CVE-2022-22965 | Spring Framework RCE via Data Binding on JDK 9+ / spring4shell / CVE-2022-22965 | https://github.com/me2nuk/CVE-2022-22965 | | 
-| 20220404T01:11:57Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220403T23:04:29Z | CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | | 
 | 20220403T16:17:42Z | CVE-2021-40438 | Apache forward request CVE | https://github.com/Kashkovsky/CVE-2021-40438 | | 
-| 20220403T14:10:15Z | CVE-2022-0847 | Linux “Dirty Pipe” vulnerability gives unprivileged users root access | https://github.com/xnderLAN/CVE-2022-0847 | | 
-| 20220403T14:06:29Z | CVE-2021-3129 | Null | https://github.com/selectarget/laravel-CVE-2021-3129-EXP | | 
-| 20220403T08:32:52Z | CVE-2022-23131 | CVE-2022-23131漏洞利用工具开箱即用。 | https://github.com/Kazaf6s/CVE-2022-23131 | | 
-| 20220403T07:36:26Z | cve-2022-22963 | Spring Cloud Function SpEL - cve-2022-22963 | https://github.com/twseptian/cve-2022-22963 | | 
-| 20220403T07:36:17Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
-| 20220403T03:22:30Z | CVE-2021-42171 | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/CVE-2021-42171 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220403T12:18:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5654 | 209| 
+| 20220404T11:57:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5657 | 209| 
+| 20220404T10:03:24Z | Null | https://github.com/beardlessPaul/klee-v.2.1 | 0 | 0| 
 | 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 1| 
 | 20220401T19:54:17Z | Null | https://github.com/220328-Java-Full-Stack-AWS/Jack-Klees-P1 | 0 | 0| 
 | 20220401T12:56:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 17 | 0| 
@@ -81,23 +82,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T11:30:32Z | A PaperMC crash exploit / hack (fabric mod) | https://github.com/Coderx-Gamer/lectern-crash | 1 | 1| 
+| 20220404T10:35:15Z | for Penetration Testing and Ethical Hacking , Compatible Python 2.7 | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
+| 20220404T09:11:38Z | Null | https://github.com/cxkoda/ERC721MintExploits | 0 | 0| 
+| 20220404T06:44:32Z | Null | https://github.com/ScribblerCoder/Binary-Exploitation-Workshop | 0 | 0| 
+| 20220404T05:19:10Z | Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965)  | https://github.com/gpiechnik2/nmap-spring4shell | 0 | 0| 
+| 20220404T03:39:49Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 822 | 140| 
+| 20220404T02:52:05Z | CVE-2021-42287/CVE-2021-42278 exploits in powershell | https://github.com/XiaoliChan/Invoke-sAMSpoofing | 26 | 1| 
 | 20220404T00:33:56Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 40 | 1| 
 | 20220403T23:53:30Z | rconsoleerr(%Github is no longer supported. Instead, use loadstring(game:HttpGet(%hoontee.askusabouttaxes.com/raw%,true))()%) | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | 0 | 0| 
 | 20220403T23:01:15Z | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | 0 | 0| 
-| 20220403T22:50:48Z | The purpose of this project is to investigate the applicability of a tensor framework to global cross-asset-factor-country investing. Indeed, multiple assets (e.g., bonds, equities), across multiple factors (e.g., carry, momentum), across multiple countries are naturally represented as a tensor. The student could focus on developing a tensor factor model, exploiting multi-linear algebra to take into account cross-asset dependencies, not possible to achieve with the “flat view” linear algebra. | https://github.com/zxt18/Tensor-Decomposition-Applications-in-Factor-Investing | 0 | 0| 
-| 20220403T21:35:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10952 | 1913| 
-| 20220403T19:18:56Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 81 | 116| 
-| 20220403T15:50:45Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 38 | 3| 
-| 20220403T12:36:56Z | The prices of new cars in the industry is fixed by the manufacturer with some  additional costs incurred by the Government in the form of taxes. So customers buying a new  car can be assured of the money they invest to be worthy. But due to the increased price of  new cars and the incapability of customers to buy new cars due to the lack of funds, used cars  sales are on a global increase. Predicting the prices of used cars is an interesting and much needed problem to be addressed. Customers can be widely exploited by fixing unrealistic  prices for the used cars and many falls into this trap. Therefore, rises an absolute necessity of  a used car price prediction system to effectively determine the worthiness of the car using a  variety of features. | https://github.com/abhijaiswal819/Car-Price-Predictor-ML | 0 | 0| 
-| 20220403T11:42:01Z | for Penetration Testing and Ethical Hacking | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
-| 20220403T11:23:54Z | Analyser et exploiter les données de votre SIGB avec python. Cours Bibliosuisse - 5 avril 2022 | https://github.com/Raphael-Rey/data_in_libraries | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220403T23:47:40Z | Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/boopkit | 15 | 0| 
-| 20220403T16:42:05Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 313 | 55| 
+| 20220404T12:00:34Z | Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/boopkit | 129 | 10| 
+| 20220404T05:31:46Z | Null | https://github.com/039710/Example-Backdoor | 0 | 0| 
+| 20220403T16:42:05Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 313 | 54| 
 | 20220403T16:07:21Z | Tool to create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 1 | 1| 
 | 20220403T15:36:16Z | Backdoor injector for Bukkit/Spigot plugins. | https://github.com/HastG99/MinePatcher | 2 | 0| 
 | 20220403T12:20:17Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 6 | 0| 
@@ -105,7 +107,6 @@
 | 20220402T21:07:21Z | The same backdoor but without the html and flask. | https://github.com/qpzux/Backdoor-no-website | 0 | 0| 
 | 20220402T18:23:39Z | Shitty mc backdoor plugin | https://github.com/Python-22/Qlutch | 1 | 2| 
 | 20220402T18:20:04Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 32 | 6| 
-| 20220402T03:31:30Z | Backdoor for Lee County | https://github.com/DevDodger/Lee-County-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
