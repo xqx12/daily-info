@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220404T00:50:23Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220403T23:04:29Z | CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | | 
-| 20220403T21:36:52Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220403T16:17:42Z | CVE-2021-40438 | Apache forward request CVE | https://github.com/Kashkovsky/CVE-2021-40438 | | 
 | 20220403T14:10:15Z | CVE-2022-0847 | Linux “Dirty Pipe” vulnerability gives unprivileged users root access | https://github.com/xnderLAN/CVE-2022-0847 | | 
 | 20220403T14:06:29Z | CVE-2021-3129 | Null | https://github.com/selectarget/laravel-CVE-2021-3129-EXP | | 
