@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220403 | IETF 113线上会议资料。 | https://theinternetprotocolblog.wordpress.com/2022/03/30/ietf-113/| 
+| 20220403 | 潜藏在风平浪静中的波澜——APT-C-00海莲花组织攻击活动动态浅析 | https://mp.weixin.qq.com/s/tBQSbv55lJUipaPWFr1fKw| 
 | 20220402 | Rockwell PLC 被发现远程高危漏洞 | https://thehackernews.com/2022/04/critical-bugs-in-rockwell-plc-could.html| 
 | 20220402 | Linux 内核 netfilter 子系统 nf_tables CVE-2022-1015/CVE-2022-1016 漏洞分析 | https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/| 
 | 20220402 | On the Naturalness of Fuzzer-Generated Code | http://rohan.padhye.org/files/natfuzz-msr22.pdf| 
@@ -24,8 +26,6 @@
 | 20220401 | Project Zero 公开了 iOS FORCEDENTRY 利用链的沙箱逃逸部分的分析 | https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html| 
 | 20220401 | 多个 APT 组织趁着俄乌乱局的掩护发起针对其他目标的攻击 | http://research.checkpoint.com/2022/state-sponsored-attack-groups-capitalise-on-russia-ukraine-war-for-cyber-espionage/| 
 | 20220401 | 【Rootkit 系列研究】Windows 平台的高隐匿、高持久化威胁 | https://paper.seebug.org/1868/| 
-| 20220401 | XNU 虚拟内存安全往事 | https://sec.today/pulses/df3b2b53-cd2b-44af-b6fd-34e84b56781f/| 
-| 20220401 | XNU 虚拟内存安全往事 | https://mp.weixin.qq.com/s/Lj8c5PLzLGIfdBoDzairsQ| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220403T12:32:22Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220403T23:04:29Z | CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | | 
+| 20220403T21:36:52Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220403T16:17:42Z | CVE-2021-40438 | Apache forward request CVE | https://github.com/Kashkovsky/CVE-2021-40438 | | 
+| 20220403T14:10:15Z | CVE-2022-0847 | Linux “Dirty Pipe” vulnerability gives unprivileged users root access | https://github.com/xnderLAN/CVE-2022-0847 | | 
+| 20220403T14:06:29Z | CVE-2021-3129 | Null | https://github.com/selectarget/laravel-CVE-2021-3129-EXP | | 
 | 20220403T08:32:52Z | CVE-2022-23131 | CVE-2022-23131漏洞利用工具开箱即用。 | https://github.com/Kazaf6s/CVE-2022-23131 | | 
 | 20220403T07:36:26Z | cve-2022-22963 | Spring Cloud Function SpEL - cve-2022-22963 | https://github.com/twseptian/cve-2022-22963 | | 
 | 20220403T07:36:17Z | CVE-2022-22963 | A Proof-of-Concept (PoC) of the Spring Core RCE (Spring4Shell or CVE-2022-22963) in Bash (Linux). | https://github.com/exploitbin/CVE-2022-22963-Spring-Core-RCE | | 
-| 20220403T06:43:18Z | CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | | 
 | 20220403T03:22:30Z | CVE-2021-42171 | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/CVE-2021-42171 | | 
 | 20220403T03:13:00Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | | 
-| 20220403T00:08:36Z | CVE-2022-22965 | SpringFramework 远程代码执行漏洞CVE-2022-22965 | https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE | | 
-| 20220402T22:53:53Z | CVE-2022-1015 | Null | https://github.com/zanezhub/CVE-2022-1015-1016 | | 
-| 20220402T19:51:57Z | cve-2022-22965 | Null | https://github.com/mwojterski/cve-2022-22965 | | 
 
 
 # klee on Github 推荐
@@ -80,31 +80,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T23:53:30Z | rconsoleerr(%Github is no longer supported. Instead, use loadstring(game:HttpGet(%hoontee.askusabouttaxes.com/raw%,true))()%) | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | 0 | 0| 
+| 20220403T23:01:15Z | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | 0 | 0| 
+| 20220403T22:50:48Z | The purpose of this project is to investigate the applicability of a tensor framework to global cross-asset-factor-country investing. Indeed, multiple assets (e.g., bonds, equities), across multiple factors (e.g., carry, momentum), across multiple countries are naturally represented as a tensor. The student could focus on developing a tensor factor model, exploiting multi-linear algebra to take into account cross-asset dependencies, not possible to achieve with the “flat view” linear algebra. | https://github.com/zxt18/Tensor-Decomposition-Applications-in-Factor-Investing | 0 | 0| 
+| 20220403T21:35:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10952 | 1913| 
+| 20220403T19:18:56Z | iReady is awful. It%s the worst education tool anyone could ever use. This program is a i-Ready cheat or hack designed to skip through iReady lessons/quizzes/time requirements or whatever | https://github.com/cupiditys/iReady-Overload | 81 | 115| 
+| 20220403T15:50:45Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 38 | 3| 
 | 20220403T12:36:56Z | The prices of new cars in the industry is fixed by the manufacturer with some  additional costs incurred by the Government in the form of taxes. So customers buying a new  car can be assured of the money they invest to be worthy. But due to the increased price of  new cars and the incapability of customers to buy new cars due to the lack of funds, used cars  sales are on a global increase. Predicting the prices of used cars is an interesting and much needed problem to be addressed. Customers can be widely exploited by fixing unrealistic  prices for the used cars and many falls into this trap. Therefore, rises an absolute necessity of  a used car price prediction system to effectively determine the worthiness of the car using a  variety of features. | https://github.com/abhijaiswal819/Car-Price-Predictor-ML | 0 | 0| 
 | 20220403T11:42:01Z | for Penetration Testing and Ethical Hacking | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
 | 20220403T11:23:54Z | Analyser et exploiter les données de votre SIGB avec python. Cours Bibliosuisse - 5 avril 2022 | https://github.com/Raphael-Rey/data_in_libraries | 0 | 0| 
 | 20220403T09:38:36Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 16 | 2| 
-| 20220403T09:23:18Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3183 | 689| 
-| 20220403T08:00:34Z | Null | https://github.com/zapstiko/Exploit | 0 | 0| 
-| 20220403T07:42:49Z | http://ps4h3x.xyz/store | https://github.com/upal212/pkg-store | 37 | 3| 
-| 20220403T04:55:56Z | We exploit NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), proof of  attendance (of events), for individuals in real life scenarios. | https://github.com/codesport/programmable-nfts | 0 | 0| 
-| 20220403T03:40:14Z | An automated and organized approach from recon to exploitation. | https://github.com/webmaster-exit-1/Exploit_Mapper | 0 | 0| 
-| 20220403T01:42:48Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 81 | 31| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T23:47:40Z | Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/boopkit | 15 | 0| 
+| 20220403T16:42:05Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 313 | 55| 
+| 20220403T16:07:21Z | Tool to create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 1 | 1| 
+| 20220403T15:36:16Z | Backdoor injector for Bukkit/Spigot plugins. | https://github.com/HastG99/MinePatcher | 2 | 0| 
 | 20220403T12:20:17Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 6 | 0| 
-| 20220403T09:09:54Z | Tool to create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 0 | 1| 
 | 20220403T06:59:04Z | Null | https://github.com/XiaoBudingdingmocha/backdoor | 0 | 0| 
 | 20220402T21:07:21Z | The same backdoor but without the html and flask. | https://github.com/qpzux/Backdoor-no-website | 0 | 0| 
 | 20220402T18:23:39Z | Shitty mc backdoor plugin | https://github.com/Python-22/Qlutch | 1 | 2| 
 | 20220402T18:20:04Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 32 | 6| 
 | 20220402T03:31:30Z | Backdoor for Lee County | https://github.com/DevDodger/Lee-County-Backdoor | 0 | 0| 
-| 20220402T03:24:28Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 141 | 37| 
-| 20220401T21:39:13Z | Null | https://github.com/NeoTRAN001/java_basic_backdoor | 0 | 0| 
-| 20220401T19:44:18Z | backdoor web shell | https://github.com/STR4N6ER/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -124,16 +124,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220403T23:46:27Z | Null | https://github.com/MinhyukPark/FastaFuzz | 0 | 0| 
+| 20220403T23:45:35Z | Files on the MrFuzzy company | https://github.com/chrisaihe/MrFuzzy_SQL | 0 | 0| 
+| 20220403T21:00:23Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 370 | 15| 
+| 20220403T19:59:37Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6465 | 743| 
+| 20220403T19:44:43Z | Null | https://github.com/withallthesequestions/fuzzy-pancake-hangman | 0 | 0| 
+| 20220403T19:17:52Z | Null | https://github.com/harish0775/fuzzy-carnival | 0 | 0| 
+| 20220403T17:44:06Z | Fuzzy trie implementation in Golang | https://github.com/keddad/fuzzytrie | 0 | 0| 
+| 20220403T15:55:57Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 334 | 58| 
+| 20220403T11:40:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7220 | 1541| 
 | 20220403T11:26:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2608 | 524| 
-| 20220403T11:14:07Z | A fuzzing tool for the CodeHS assignment submit API. Created out of frustration for resubmitting completed assignments in a new class. | https://github.com/LivelyCarpet87/CodeHS-Assigment-Submit-Fuzzer | 0 | 0| 
-| 20220403T10:46:44Z | Null | https://github.com/leonardoalt/soldoku_fuzz | 2 | 0| 
-| 20220403T10:14:47Z | Null | https://github.com/KairosXBoT/FuzzyXE | 0 | 0| 
-| 20220403T07:05:01Z | Solar Tracker using Fuzzy Logics | https://github.com/BiggusMaximus/solar-tracker-fuzzy-logic | 0 | 0| 
-| 20220403T06:55:55Z | Null | https://github.com/StuartHsu/fuzzySearch | 0 | 0| 
-| 20220403T06:50:23Z | Null | https://github.com/MyLostCH4/Fuzzy_Control | 0 | 0| 
-| 20220403T06:39:01Z | Null | https://github.com/Akyl9/fuzzy-octo-engine | 0 | 0| 
-| 20220403T03:19:58Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 49 | 15| 
-| 20220402T22:50:12Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
 
 
 
