@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T01:39:29Z | Null | https://github.com/vitorsorato/fuzzy_logic | 0 | 0| 
 | 20220404T01:18:31Z | Null | https://github.com/Rrooach/freeRTOS_fuzz | 0 | 0| 
 | 20220404T00:21:55Z | A QSG for Fuzz Betting and Authoring | https://github.com/Tyr314159/Fuzz-Quick-Start-Guide | 0 | 0| 
 | 20220404T00:08:55Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6466 | 743| 
@@ -135,7 +136,6 @@
 | 20220403T21:00:23Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 370 | 15| 
 | 20220403T19:44:43Z | Null | https://github.com/withallthesequestions/fuzzy-pancake-hangman | 0 | 0| 
 | 20220403T19:17:52Z | Null | https://github.com/harish0775/fuzzy-carnival | 0 | 0| 
-| 20220403T17:44:06Z | Fuzzy trie implementation in Golang | https://github.com/keddad/fuzzytrie | 0 | 0| 
 
 
 
