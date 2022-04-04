@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T00:33:56Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 40 | 1| 
 | 20220403T23:53:30Z | rconsoleerr(%Github is no longer supported. Instead, use loadstring(game:HttpGet(%hoontee.askusabouttaxes.com/raw%,true))()%) | https://github.com/Sniperkaos/TraitorTownExploitModule-Private- | 0 | 0| 
 | 20220403T23:01:15Z | F3X is a blatant client for exploiting in bedwars. | https://github.com/F3XClientOfficial/F3XClient | 0 | 0| 
 | 20220403T22:50:48Z | The purpose of this project is to investigate the applicability of a tensor framework to global cross-asset-factor-country investing. Indeed, multiple assets (e.g., bonds, equities), across multiple factors (e.g., carry, momentum), across multiple countries are naturally represented as a tensor. The student could focus on developing a tensor factor model, exploiting multi-linear algebra to take into account cross-asset dependencies, not possible to achieve with the “flat view” linear algebra. | https://github.com/zxt18/Tensor-Decomposition-Applications-in-Factor-Investing | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20220403T12:36:56Z | The prices of new cars in the industry is fixed by the manufacturer with some  additional costs incurred by the Government in the form of taxes. So customers buying a new  car can be assured of the money they invest to be worthy. But due to the increased price of  new cars and the incapability of customers to buy new cars due to the lack of funds, used cars  sales are on a global increase. Predicting the prices of used cars is an interesting and much needed problem to be addressed. Customers can be widely exploited by fixing unrealistic  prices for the used cars and many falls into this trap. Therefore, rises an absolute necessity of  a used car price prediction system to effectively determine the worthiness of the car using a  variety of features. | https://github.com/abhijaiswal819/Car-Price-Predictor-ML | 0 | 0| 
 | 20220403T11:42:01Z | for Penetration Testing and Ethical Hacking | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
 | 20220403T11:23:54Z | Analyser et exploiter les données de votre SIGB avec python. Cours Bibliosuisse - 5 avril 2022 | https://github.com/Raphael-Rey/data_in_libraries | 0 | 0| 
-| 20220403T09:38:36Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 16 | 2| 
 
 
 # backdoor on Github 推荐
