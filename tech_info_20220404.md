@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220404T11:48:27Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
+| 20220404T12:25:10Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
 | 20220404T10:42:29Z | CVE-2022-22965 | PowerShell port of CVE-2022-22965 vulnerability check by colincowie. | https://github.com/daniel0x00/Invoke-CVE-2022-22965-SafeCheck | | 
 | 20220404T08:48:19Z | CVE-2022-22965 | A Safer PoC for CVE-2022-22965 (Spring4Shell) | https://github.com/colincowie/Safer_PoC_CVE-2022-22965 | | 
 | 20220404T07:50:01Z | CVE-2021-0476 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0476 | | 
@@ -56,7 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T12:23:25Z | Linux eBPF backdoor (TCP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/boopkit | 145 | 12| 
+| 20220404T12:26:43Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on already rooted machines. | https://github.com/kris-nova/boopkit | 146 | 12| 
 | 20220404T05:31:46Z | Null | https://github.com/039710/Example-Backdoor | 0 | 0| 
 
 
