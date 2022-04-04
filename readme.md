@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220404 | SecWiki周刊（第422期) | https://www.sec-wiki.com/weekly/422| 
+| 20220404 | CDN及特征隐匿Cobalt Strike | https://xz.aliyun.com/t/11099| 
 
 
 # CVE Github 推荐

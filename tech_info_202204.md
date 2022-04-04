@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220404 | SecWiki周刊（第422期) | https://www.sec-wiki.com/weekly/422| 
+| 20220404 | CDN及特征隐匿Cobalt Strike | https://xz.aliyun.com/t/11099| 
 | 20220403 | 从DARPA项目学习如何做安全研究 | https://mp.weixin.qq.com/s/BkOIosI50NRqzz8Vsbm1Hg| 
 | 20220403 | 欺骗Wappalyzer插件指纹识别 | https://blog.xlab.app/p/63a5b7e6/| 
 | 20220402 | 加密数字货币合约交易的匿名性保护与对抗 | https://mp.weixin.qq.com/s/_QWBvf-zH_urvswRwpInaw| 
@@ -40,7 +41,6 @@
 | 20220402 | 安全周报1 , 国际红十字会遭受网络攻击，万人数据信息惨遭泄露 | https://mp.weixin.qq.com/s/tSOChrrLqfwi2IA4akWgnQ| 
 | 20220402 | 安全快报 , 关键供应商被黑，丰田汽车无奈关停日本所有工厂 | https://mp.weixin.qq.com/s/XPBRhAuZzhiR1SwYWLGyHQ| 
 | 20220402 | 安全快报 , AvosLocker 勒索软件攻击关键基础设施目标 | https://mp.weixin.qq.com/s/FgQkHXADs69ZBh2FxMIy1Q| 
-| 20220402 | 招聘 , “懋”够劲，等你来！ | https://mp.weixin.qq.com/s/ULzx7t182jHlrITiHu45iQ| 
 
 
 # CVE Github 推荐
