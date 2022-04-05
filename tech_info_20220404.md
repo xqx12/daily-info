@@ -50,6 +50,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220404T23:16:11Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BugsFramework | 0 | 0| 
 | 20220404T23:15:59Z | CVE-2021-41773 , CVE-2021-42013 Exploit Tool (Apache/2.4.49-2.4.50) | https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit | 0 | 0| 
+| 20220404T22:48:13Z | Everything I needed to understand what was going on with %Spring4Shell% - translated source materials, exploit, links to demo apps, and more. | https://github.com/tweedge/springcore-0day-en | 90 | 32| 
 | 20220404T21:52:12Z | Mikrotek exploit to dump user credentials | https://github.com/Zebratic/MikroWorm | 1 | 0| 
 | 20220404T21:07:58Z | Roblox Exploit Multi Api wearedevs,easyexploit | https://github.com/ROOT44x/R4-V2-Roblox-Exploit | 0 | 0| 
 | 20220404T20:45:56Z | Repository to post exploits of Hackthebox | https://github.com/uiltonlopes/hackthebox | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20220404T20:04:21Z | Privescker - make life easier by dumping all your common Windows enum, privesc and post exploitation scripts and tools on to the box in one go. | https://github.com/atthacks/Privescker | 37 | 7| 
 | 20220404T19:45:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10959 | 1916| 
 | 20220404T12:58:14Z | Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite. | https://github.com/superMan7912002/bazad3 | 0 | 0| 
-| 20220404T12:43:35Z | This repository shows a way to get clipmyhorse livestreams without paying for a subscription. | https://github.com/mahalde/clipmyhorse-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
