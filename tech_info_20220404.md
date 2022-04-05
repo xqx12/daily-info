@@ -35,7 +35,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T20:38:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1926 | 550| 
 | 20220404T10:03:24Z | Null | https://github.com/beardlessPaul/klee-v.2.1 | 0 | 0| 
 
 
@@ -70,7 +69,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T20:38:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1926 | 550| 
 | 20220404T16:06:36Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 29 | 18| 
 | 20220404T15:09:38Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 83 | 14| 
 | 20220404T14:20:42Z | A symbolic execution engine for LLVM IR | https://github.com/insufficiently-caffeinated/caffeine | 16 | 5| 
