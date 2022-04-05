@@ -34,34 +34,35 @@
 | 20220404 | SecWiki周刊（第422期) | https://www.sec-wiki.com/weekly/422| 
 | 20220404 | CDN及特征隐匿Cobalt Strike | https://xz.aliyun.com/t/11099| 
 | 20220404 | 对于挖矿的检测以及防御方案 | https://xz.aliyun.com/t/11102| 
+| 20220404 | Generate all call graph for Java Code | https://github.com/Adrninistrator/java-all-call-graph| 
 | 20220403 | 从DARPA项目学习如何做安全研究 | https://mp.weixin.qq.com/s/BkOIosI50NRqzz8Vsbm1Hg| 
 | 20220403 | 欺骗Wappalyzer插件指纹识别 | https://blog.xlab.app/p/63a5b7e6/| 
 | 20220402 | 加密数字货币合约交易的匿名性保护与对抗 | https://mp.weixin.qq.com/s/_QWBvf-zH_urvswRwpInaw| 
 | 20220402 | XNU虚拟内存安全往事 | https://mp.weixin.qq.com/s/Lj8c5PLzLGIfdBoDzairsQ| 
 | 20220402 | 安全快报 , 美国提出新法案，加强医疗保健和公共卫生部门网络... | https://mp.weixin.qq.com/s/2rTm5bRByYjreyxWcO4b7Q| 
 | 20220402 | 安全周报1 , 国际红十字会遭受网络攻击，万人数据信息惨遭泄露 | https://mp.weixin.qq.com/s/tSOChrrLqfwi2IA4akWgnQ| 
-| 20220402 | 安全快报 , 关键供应商被黑，丰田汽车无奈关停日本所有工厂 | https://mp.weixin.qq.com/s/XPBRhAuZzhiR1SwYWLGyHQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220404T22:56:50Z | CVE-2022-22965 | A Safer PoC for CVE-2022-22965 (Spring4Shell) | https://github.com/colincowie/Safer_PoC_CVE-2022-22965 | | 
+| 20220404T21:33:51Z | CVE-2021-40438 | Apache forward request CVE | https://github.com/Kashkovsky/CVE-2021-40438 | | 
+| 20220404T21:09:58Z | CVE-2022-22965 | Another spring4shell (Spring core RCE)  POC | https://github.com/netcode/Spring4shell-CVE-2022-22965-POC | | 
+| 20220404T18:15:34Z | CVE-2022-22965 | CVE-2022-22965 (Spring4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2022-22965-PoC | | 
+| 20220404T18:09:36Z | cve-2022-0778 | Null | https://github.com/yywing/cve-2022-0778 | | 
+| 20220404T17:40:51Z | CVE-2022-22963 | Null | https://github.com/darryk10/CVE-2022-22963 | | 
+| 20220404T17:26:22Z | CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | | 
+| 20220404T16:57:03Z | cve-2022-22965 | Spring4Shell - CVE-2022-22965 | https://github.com/twseptian/cve-2022-22965 | | 
+| 20220404T14:34:52Z | CVE-2022-22965 | Spring Framework RCE via Data Binding on JDK 9+ / spring4shell / CVE-2022-22965 | https://github.com/me2nuk/CVE-2022-22965 | | 
 | 20220404T12:53:10Z | CVE-2022-1015 | Local privilege escalation PoC for Linux kernel CVE-2022-1015 | https://github.com/pqlx/CVE-2022-1015 | | 
-| 20220404T10:42:29Z | CVE-2022-22965 | PowerShell port of CVE-2022-22965 vulnerability check by colincowie. | https://github.com/daniel0x00/Invoke-CVE-2022-22965-SafeCheck | | 
-| 20220404T08:48:19Z | CVE-2022-22965 | A Safer PoC for CVE-2022-22965 (Spring4Shell) | https://github.com/colincowie/Safer_PoC_CVE-2022-22965 | | 
-| 20220404T07:50:01Z | CVE-2021-0476 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0476 | | 
-| 20220404T06:49:18Z | CVE-2020-0471 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2020-0471 | | 
-| 20220404T04:54:20Z | CVE-2020-0377 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0377 | | 
-| 20220404T04:47:45Z | CVE-2020-0413 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2020-0413 | | 
-| 20220404T01:17:34Z | CVE-2022-22965 | Spring Framework RCE via Data Binding on JDK 9+ / spring4shell / CVE-2022-22965 | https://github.com/me2nuk/CVE-2022-22965 | | 
-| 20220403T23:04:29Z | CVE-2022-22965 | Docker PoC for CVE-2022-22965 with Spring Boot version 2.6.5 | https://github.com/itsecurityco/CVE-2022-22965 | | 
-| 20220403T16:17:42Z | CVE-2021-40438 | Apache forward request CVE | https://github.com/Kashkovsky/CVE-2021-40438 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T12:41:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5658 | 209| 
+| 20220404T20:38:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1926 | 550| 
+| 20220404T15:43:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5662 | 209| 
 | 20220404T10:03:24Z | Null | https://github.com/beardlessPaul/klee-v.2.1 | 0 | 0| 
 | 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 1| 
 | 20220401T19:54:17Z | Null | https://github.com/220328-Java-Full-Stack-AWS/Jack-Klees-P1 | 0 | 0| 
@@ -82,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T23:16:11Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BugsFramework | 0 | 0| 
+| 20220404T23:15:59Z | CVE-2021-41773 , CVE-2021-42013 Exploit Tool (Apache/2.4.49-2.4.50) | https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit | 0 | 0| 
+| 20220404T21:52:12Z | Mikrotek exploit to dump user credentials | https://github.com/Zebratic/MikroWorm | 1 | 0| 
+| 20220404T21:07:58Z | Roblox Exploit Multi Api wearedevs,easyexploit | https://github.com/ROOT44x/R4-V2-Roblox-Exploit | 0 | 0| 
+| 20220404T20:45:56Z | Repository to post exploits of Hackthebox | https://github.com/uiltonlopes/hackthebox | 0 | 0| 
+| 20220404T20:32:39Z | Fixes the lectern crash/exploit on Paper. | https://github.com/hyperdefined/LecternCrashFix | 0 | 0| 
+| 20220404T20:04:21Z | Privescker - make life easier by dumping all your common Windows enum, privesc and post exploitation scripts and tools on to the box in one go. | https://github.com/atthacks/Privescker | 37 | 7| 
+| 20220404T19:45:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10959 | 1916| 
 | 20220404T12:58:14Z | Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite. | https://github.com/superMan7912002/bazad3 | 0 | 0| 
-| 20220404T12:53:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10957 | 1915| 
 | 20220404T12:43:35Z | This repository shows a way to get clipmyhorse livestreams without paying for a subscription. | https://github.com/mahalde/clipmyhorse-exploit | 0 | 0| 
-| 20220404T12:08:03Z | Less richly-featured than Bloodhound, Shihtzu is a lapdog for AD exploitation.  Shihtzu is intended to be a light-weight alternative to Bloodhound when stealth requirements prevent you from running full Bloodhound in an enterprise. | https://github.com/pangolinsec/shihtzu | 0 | 0| 
-| 20220404T11:30:32Z | A PaperMC crash exploit / hack (fabric mod) | https://github.com/Coderx-Gamer/lectern-crash | 1 | 1| 
-| 20220404T10:35:15Z | for Penetration Testing and Ethical Hacking , Compatible Python 2.7 | https://github.com/Jasut1n/exploitation-scripts | 0 | 0| 
-| 20220404T09:11:38Z | Null | https://github.com/cxkoda/ERC721MintExploits | 0 | 0| 
-| 20220404T06:44:32Z | Null | https://github.com/ScribblerCoder/Binary-Exploitation-Workshop | 0 | 0| 
-| 20220404T05:19:10Z | Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965)  | https://github.com/gpiechnik2/nmap-spring4shell | 0 | 0| 
-| 20220404T03:39:49Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 822 | 140| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220404T12:59:31Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. | https://github.com/kris-nova/boopkit | 154 | 15| 
+| 20220404T23:56:30Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 250 | 20| 
+| 20220404T15:37:56Z | This contains two python programmes | https://github.com/thepolkamonster/Backdoor | 0 | 0| 
 | 20220404T05:31:46Z | Null | https://github.com/039710/Example-Backdoor | 0 | 0| 
+| 20220404T03:30:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 452 | 87| 
 | 20220403T16:42:05Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 313 | 54| 
 | 20220403T16:07:21Z | Tool to create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 1 | 1| 
 | 20220403T15:36:16Z | Backdoor injector for Bukkit/Spigot plugins. | https://github.com/HastG99/MinePatcher | 2 | 0| 
 | 20220403T12:20:17Z | Linux eBPF backdoor (TCP/UDP) for spawning reverse shells. Less Honkin. More Tonkin.  | https://github.com/kris-nova/ENOHONK | 6 | 0| 
 | 20220403T06:59:04Z | Null | https://github.com/XiaoBudingdingmocha/backdoor | 0 | 0| 
 | 20220402T21:07:21Z | The same backdoor but without the html and flask. | https://github.com/qpzux/Backdoor-no-website | 0 | 0| 
-| 20220402T18:23:39Z | Shitty mc backdoor plugin | https://github.com/Python-22/Qlutch | 1 | 2| 
-| 20220402T18:20:04Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 32 | 6| 
 
 
 # symbolic execution on Github 推荐
@@ -127,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220404T23:09:48Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2510 | 159| 
+| 20220404T20:55:58Z | Null | https://github.com/enasibov/FuzzyGBR | 0 | 0| 
+| 20220404T19:47:00Z | Null | https://github.com/dflehel/FuzzyUni | 0 | 0| 
+| 20220404T16:09:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7221 | 1541| 
+| 20220404T13:46:31Z | A Fuzzy Distance-based Ensemble of Deep Models for Cervical Cancer Detection published in Computer Methods and Programs in Biomedicine, Elsevier | https://github.com/rishavpramanik/CervicalFuzzyDistanceEnsemble | 1 | 0| 
 | 20220404T12:53:35Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 541 | 60| 
 | 20220404T12:51:48Z | MATLAB code for the research paper titled %Self-Organizing Fuzzy Belief Inference System for Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Belief-Inference-System-for-Classification | 0 | 0| 
 | 20220404T11:23:33Z | fuzzer for graphQL | https://github.com/saifnoorprottoy/atulee | 0 | 0| 
 | 20220404T10:55:44Z | Null | https://github.com/williamyhhuang/FuzzySearch | 0 | 0| 
 | 20220404T07:11:02Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 96 | 12| 
-| 20220404T01:39:29Z | Null | https://github.com/vitorsorato/fuzzy_logic | 0 | 0| 
-| 20220404T01:18:31Z | Null | https://github.com/Rrooach/freeRTOS_fuzz | 0 | 0| 
-| 20220404T00:21:55Z | A QSG for Fuzz Betting and Authoring | https://github.com/Tyr314159/Fuzz-Quick-Start-Guide | 0 | 0| 
-| 20220404T00:08:55Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 6466 | 743| 
-| 20220403T23:46:27Z | Null | https://github.com/MinhyukPark/FastaFuzz | 0 | 0| 
 
 
 
