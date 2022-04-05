@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220405T11:40:18Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
+| 20220405T12:11:32Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
 | 20220405T11:33:14Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220405T11:26:16Z | CVE-2022-0185 | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | | 
 | 20220405T11:23:52Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
@@ -43,8 +43,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220405T12:11:32Z | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | 3 | 1| 
 | 20220405T11:57:51Z | An exploit primitive in linux kernel inspired by DirtyPipe | https://github.com/veritas501/pipe-primitive | 7 | 1| 
-| 20220405T11:40:18Z | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | 2 | 1| 
 | 20220405T11:26:16Z | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | 1 | 1| 
 | 20220405T11:23:52Z | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | 5 | 1| 
 | 20220405T10:35:08Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 26 | 5| 
@@ -58,7 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220405T11:51:48Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 300 | 27| 
+| 20220405T12:11:55Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 302 | 27| 
 | 20220405T08:22:16Z | Config files for my GitHub profile. | https://github.com/backdoorPhish/backdoorPhish | 0 | 0| 
 | 20220405T06:46:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 453 | 87| 
 
@@ -90,7 +90,7 @@
 | 20220405T11:02:56Z | Null | https://github.com/RiswanBasha/ComVeh-Fuzz-Testing-Tool | 0 | 0| 
 | 20220405T09:59:05Z | Null | https://github.com/dflehel/fuzzyuni | 0 | 0| 
 | 20220405T09:49:01Z | Null | https://github.com/nonamesec/restler-fuzzer | 0 | 0| 
-| 20220405T00:32:50Z | Null | https://github.com/dannfirefight322/fuzzy-invention | 0 | 0| 
+| 20220405T09:36:35Z | Null | https://github.com/SHIVANI0708/Fuzzy-College | 0 | 0| 
 
 
 
