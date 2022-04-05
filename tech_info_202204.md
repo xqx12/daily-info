@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220405T00:32:50Z | Null | https://github.com/dannfirefight322/fuzzy-invention | 0 | 0| 
 | 20220404T23:09:48Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2510 | 159| 
 | 20220404T20:55:58Z | Null | https://github.com/enasibov/FuzzyGBR | 0 | 0| 
 | 20220404T19:47:00Z | Null | https://github.com/dflehel/FuzzyUni | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20220404T12:51:48Z | MATLAB code for the research paper titled %Self-Organizing Fuzzy Belief Inference System for Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Belief-Inference-System-for-Classification | 0 | 0| 
 | 20220404T11:23:33Z | fuzzer for graphQL | https://github.com/saifnoorprottoy/atulee | 0 | 0| 
 | 20220404T10:55:44Z | Null | https://github.com/williamyhhuang/FuzzySearch | 0 | 0| 
-| 20220404T07:11:02Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 96 | 12| 
 
 
 
