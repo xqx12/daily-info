@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220405T12:59:06Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220405T12:11:32Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
-| 20220405T11:33:14Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220405T11:26:16Z | CVE-2022-0185 | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | | 
 | 20220405T11:23:52Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
 | 20220405T11:20:31Z | CVE-2022-22947 | CVE-2022-22947 reproduce | https://github.com/aesm1p/CVE-2022-22947-POC-Reproduce | | 
@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220405T12:58:02Z | Null | https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donn-es-Texte-Audio-Vid-o | 0 | 0| 
 | 20220405T12:11:32Z | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | 3 | 1| 
 | 20220405T11:57:51Z | An exploit primitive in linux kernel inspired by DirtyPipe | https://github.com/veritas501/pipe-primitive | 7 | 1| 
 | 20220405T11:26:16Z | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | 1 | 1| 
@@ -52,7 +53,6 @@
 | 20220405T10:16:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10963 | 1918| 
 | 20220405T09:36:16Z | Search through Microsoft Security Bulletins (MSSB%s) to find relevant vulnerabilities and exploits to use against Windows target machines. | https://github.com/glowbase/windows-exploit-search | 0 | 0| 
 | 20220405T09:00:47Z | Null | https://github.com/1337-L3V1ATH0N/OSCP-Win-Exploits | 0 | 0| 
-| 20220405T08:49:32Z | 黑客工具收集仓库，包含主流和非主流漏洞利用工具，subdomain、备案查询工具、CVE仓库、Hacking Tools、Exploits、免杀工具、weblogic漏洞利用工具、Red Team、Cobalt Strike、C免杀、bypassAV、内网渗透工具、漏洞利用、工具插件、burpsuite插件； | https://github.com/CnHack3r/Awesome-hacking-tools | 47 | 8| 
 
 
 # backdoor on Github 推荐
