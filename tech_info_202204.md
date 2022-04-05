@@ -92,7 +92,7 @@
 | 20220404T20:32:39Z | Fixes the lectern crash/exploit on Paper. | https://github.com/hyperdefined/LecternCrashFix | 0 | 0| 
 | 20220404T20:04:21Z | Privescker - make life easier by dumping all your common Windows enum, privesc and post exploitation scripts and tools on to the box in one go. | https://github.com/atthacks/Privescker | 37 | 7| 
 | 20220404T19:45:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10959 | 1916| 
-| 20220404T12:58:14Z | Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite. | https://github.com/superMan7912002/bazad3 | 0 | 0| 
+| 20220404T19:29:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2576 | 314| 
 
 
 # backdoor on Github 推荐
