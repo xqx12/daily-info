@@ -58,7 +58,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220405T01:57:58Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 266 | 22| 
+| 20220405T11:51:48Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 300 | 27| 
+| 20220405T08:22:16Z | Config files for my GitHub profile. | https://github.com/backdoorPhish/backdoorPhish | 0 | 0| 
+| 20220405T06:46:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 453 | 87| 
 
 
 # symbolic execution on Github 推荐
@@ -73,6 +75,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220405T05:38:58Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 2 | 0| 
 
 
 # fuzz on Github 推荐
