@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220406T01:43:39Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220406T01:39:34Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
 | 20220406T01:33:39Z | CVE-2022-0185 | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | | 
 | 20220406T01:33:38Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
-| 20220406T01:28:36Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220406T01:28:01Z | CVE-2022-22965 | PowerShell port of CVE-2022-22965 vulnerability check by colincowie. | https://github.com/daniel0x00/Invoke-CVE-2022-22965-SafeCheck | | 
 | 20220405T20:58:20Z | CVE-2022-22965 | A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding. The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e. the default, it is not vulnerable to the exploit. However, the nature of the vulnerability is more general, and there may be other ways to exploit it. | https://github.com/LudovicPatho/CVE-2022-22965_Spring4Shell | | 
 | 20220405T20:33:03Z | CVE-2022-0847 | Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well) | https://github.com/LudovicPatho/CVE-2022-0847_dirty-pipe | | 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220406T01:41:34Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 353 | 33| 
+| 20220406T01:43:05Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 354 | 33| 
 | 20220405T20:37:03Z | plugin designed for mc.newfag.ru that includes very bad-coded but strong backdoor | https://github.com/maywr/NewFagPlugin | 0 | 0| 
 | 20220405T20:22:58Z | backdoor thats sends info through a server to the attacker | https://github.com/3BixxPy/PythonBackdoor | 0 | 0| 
 | 20220405T18:55:51Z | This is the implementation for CVPR 2022 Oral paper %Better Trigger Inversion Optimization in Backdoor Scanning.% | https://github.com/Gwinhen/PixelBackdoor | 1 | 0| 
