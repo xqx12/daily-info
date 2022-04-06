@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220406T01:24:03Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220406T01:21:20Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
-| 20220406T00:16:20Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220405T20:58:20Z | CVE-2022-22965 | A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding. The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e. the default, it is not vulnerable to the exploit. However, the nature of the vulnerability is more general, and there may be other ways to exploit it. | https://github.com/LudovicPatho/CVE-2022-22965_Spring4Shell | | 
 | 20220405T20:33:03Z | CVE-2022-0847 | Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well) | https://github.com/LudovicPatho/CVE-2022-0847_dirty-pipe | | 
 | 20220405T15:59:01Z | CVE-2022-22965 | Spring Framework RCE Exploit | https://github.com/luoqianlin/CVE-2022-22965 | | 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220406T01:24:28Z | Prevents 1.14+ servers from crashing due to the Lectern exploit | https://github.com/Owen1212055/LecternCrashPreventer | 0 | 0| 
 | 20220406T00:45:20Z | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | 0 | 0| 
 | 20220405T23:59:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 35 | 4| 
 | 20220405T23:38:54Z | Null | https://github.com/ZaynSEanExploits/New-Exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20220405T22:11:25Z | Null | https://github.com/B1ner0ne/rewrite-exploits | 0 | 0| 
 | 20220405T21:46:43Z | SaR4 🚩 allows you to exploit the counter device with the easiest and most up-to-date methods. | https://github.com/Reptilian221/SaR4 | 1 | 0| 
 | 20220405T21:28:15Z | Search through Microsoft Security Bulletins (MSSB%s) to find relevant vulnerabilities and exploits to use against Windows target machines. | https://github.com/glowbase/windows-exploit-search | 0 | 0| 
-| 20220405T20:59:20Z | Material produced for my MA thesis in Digital Humanities at University of Pisa (Italy). The work consists on the research of an expressive methodology to represent and study personal mobility data, in particular exploiting the prefix tree architecture. One of the outputs produced is the python module treemob, containing all the tools implemented for the data representation and for the analysis. | https://github.com/sblbl/treemob | 1 | 0| 
 
 
 # backdoor on Github 推荐
