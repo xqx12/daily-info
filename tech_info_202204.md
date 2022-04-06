@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20220406 | MITRE ATT&CK 第四轮评估结果发布 | https://mp.weixin.qq.com/s/j6IuqWNXqon_hVLUH6blVA| 
 | 20220406 | What is DQ ODN? | /topic/88| 
+| 20220406 | 无人机MAVLINK协议安全剖析 | http://mp.weixin.qq.com/s/WEivJpxTBSVcmAa5QvvDxQ| 
 | 20220404 | SecWiki周刊（第422期) | https://www.sec-wiki.com/weekly/422| 
 | 20220404 | CDN及特征隐匿Cobalt Strike | https://xz.aliyun.com/t/11099| 
 | 20220404 | 对于挖矿的检测以及防御方案 | https://xz.aliyun.com/t/11102| 
@@ -40,7 +41,6 @@
 | 20220403 | 从DARPA项目学习如何做安全研究 | https://mp.weixin.qq.com/s/BkOIosI50NRqzz8Vsbm1Hg| 
 | 20220403 | 欺骗Wappalyzer插件指纹识别 | https://blog.xlab.app/p/63a5b7e6/| 
 | 20220402 | 加密数字货币合约交易的匿名性保护与对抗 | https://mp.weixin.qq.com/s/_QWBvf-zH_urvswRwpInaw| 
-| 20220402 | XNU虚拟内存安全往事 | https://mp.weixin.qq.com/s/Lj8c5PLzLGIfdBoDzairsQ| 
 
 
 # CVE Github 推荐
