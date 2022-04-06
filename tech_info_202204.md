@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220406T00:45:20Z | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | 0 | 0| 
 | 20220405T23:59:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 35 | 4| 
 | 20220405T23:38:54Z | Null | https://github.com/ZaynSEanExploits/New-Exploit | 0 | 0| 
 | 20220405T23:25:29Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1147 | 480| 
@@ -94,13 +95,12 @@
 | 20220405T21:46:43Z | SaR4 🚩 allows you to exploit the counter device with the easiest and most up-to-date methods. | https://github.com/Reptilian221/SaR4 | 1 | 0| 
 | 20220405T21:28:15Z | Search through Microsoft Security Bulletins (MSSB%s) to find relevant vulnerabilities and exploits to use against Windows target machines. | https://github.com/glowbase/windows-exploit-search | 0 | 0| 
 | 20220405T20:59:20Z | Material produced for my MA thesis in Digital Humanities at University of Pisa (Italy). The work consists on the research of an expressive methodology to represent and study personal mobility data, in particular exploiting the prefix tree architecture. One of the outputs produced is the python module treemob, containing all the tools implemented for the data representation and for the analysis. | https://github.com/sblbl/treemob | 1 | 0| 
-| 20220405T20:10:39Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220406T00:38:59Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 344 | 33| 
+| 20220406T00:45:36Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 345 | 33| 
 | 20220405T20:37:03Z | plugin designed for mc.newfag.ru that includes very bad-coded but strong backdoor | https://github.com/maywr/NewFagPlugin | 0 | 0| 
 | 20220405T20:22:58Z | backdoor thats sends info through a server to the attacker | https://github.com/3BixxPy/PythonBackdoor | 0 | 0| 
 | 20220405T18:55:51Z | This is the implementation for CVPR 2022 Oral paper %Better Trigger Inversion Optimization in Backdoor Scanning.% | https://github.com/Gwinhen/PixelBackdoor | 1 | 0| 
