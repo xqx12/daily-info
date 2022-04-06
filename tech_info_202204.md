@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220406T11:43:38Z | Null | https://github.com/bukseng/fuzzy-winner | 0 | 0| 
+| 20220406T11:31:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7225 | 1543| 
+| 20220406T08:58:20Z | Null | https://github.com/omkarkharade1128/fuzzy-octo-chainsaw | 0 | 0| 
+| 20220406T07:16:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2511 | 159| 
+| 20220406T06:41:34Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 379 | 16| 
 | 20220406T01:50:29Z | a pytorch implementation for fuzzyagents (submitted to ieee transactions on fuzzy systems) | https://github.com/LiJingchen1212/fuzzyagents | 0 | 0| 
 | 20220406T01:00:56Z | Null | https://github.com/ricardogayer/GoFuzzy | 0 | 0| 
 | 20220406T00:04:42Z | Final Project ECE536 Computer Vision UVIC | https://github.com/alejorico98/fuzzy-color-histogram-equalization | 0 | 0| 
 | 20220405T23:55:47Z | Metode Fuzzy Mamdani-Lina | https://github.com/upimariani/Metode-Fuzzy-Mamdani | 0 | 0| 
 | 20220405T22:38:37Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1553 | 171| 
-| 20220405T22:33:51Z | Null | https://github.com/dannfirefight322/fuzzy-invention | 0 | 0| 
-| 20220405T20:18:04Z | Experimental fuzzer for PHP libraries | https://github.com/nikic/PHP-Fuzzer | 304 | 11| 
-| 20220405T20:16:08Z | Null | https://github.com/connected-cjohnston/fuzzyWebDevSite | 0 | 0| 
-| 20220405T19:18:19Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 17 | 1| 
-| 20220405T15:11:47Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 378 | 16| 
 
 
 
