@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220406T12:55:20Z | Null | https://github.com/MaximilienLBa/LINFO2347-Projet-fuzzer | 0 | 0| 
 | 20220406T12:35:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2512 | 159| 
 | 20220406T11:43:38Z | Null | https://github.com/bukseng/fuzzy-winner | 0 | 0| 
 | 20220406T11:31:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7225 | 1543| 
@@ -144,7 +145,6 @@
 | 20220406T01:00:56Z | Null | https://github.com/ricardogayer/GoFuzzy | 0 | 0| 
 | 20220406T00:04:42Z | Final Project ECE536 Computer Vision UVIC | https://github.com/alejorico98/fuzzy-color-histogram-equalization | 0 | 0| 
 | 20220405T23:55:47Z | Metode Fuzzy Mamdani-Lina | https://github.com/upimariani/Metode-Fuzzy-Mamdani | 0 | 0| 
-| 20220405T22:38:37Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1553 | 171| 
 
 
 
