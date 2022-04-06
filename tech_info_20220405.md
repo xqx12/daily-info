@@ -21,11 +21,11 @@
 | 20220405T15:59:01Z | CVE-2022-22965 | Spring Framework RCE Exploit | https://github.com/luoqianlin/CVE-2022-22965 | | 
 | 20220405T15:46:27Z | CVE-2022-22965 | Exploit Of Spring4Shell! | https://github.com/robiul-awal/CVE-2022-22965 | | 
 | 20220405T15:14:50Z | CVE-2022-22965 | Spring4Shell is a critical RCE vulnerability in the Java Spring Framework and is one of three related vulnerabilities published on March 30 | https://github.com/xnderLAN/CVE-2022-22965 | | 
-| 20220405T13:44:14Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
 | 20220405T13:28:14Z | CVE-2022-22965 | CVE-2022-22965 (Spring4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2022-22965-PoC | | 
 | 20220405T11:26:16Z | CVE-2022-0185 | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | | 
 | 20220405T11:23:52Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
 | 20220405T11:20:31Z | CVE-2022-22947 | CVE-2022-22947 reproduce | https://github.com/aesm1p/CVE-2022-22947-POC-Reproduce | | 
+| 20220405T08:56:16Z | CVE-2022-22963 | Null | https://github.com/darryk10/CVE-2022-22963 | | 
 
 
 # klee on Github 推荐
