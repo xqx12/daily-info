@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220406 | 基于 AR 设备中肌电图传感器数据（EMG）的 Keylogging 侧信道攻击 | https://tuprints.ulb.tu-darmstadt.de/20660/1/myo_paper.pdf| 
+| 20220406 | Fuzzing Like A Caveman 6: Binary Only Snapshot Fuzzing Harness | https://h0mbre.github.io/Fuzzing-Like-A-Caveman-6/| 
+| 20220406 | Breaking SecureBoot With SMM | https://www.youtube.com/watch?v=ge_TnLfTv8I| 
+| 20220406 | 开源企业级 VPN - Pritunl 的 Client 被发现本地提权漏洞 | https://rhinosecuritylabs.com/penetration-testing/cve-2022-25372-local-privilege-escalation-in-pritunl-vpn-client/| 
+| 20220406 | Windows 的 KUSER_SHARED_DATA 结构体要支持 ASLR 了 | https://msrc-blog.microsoft.com/2022/04/05/randomizing-the-kuser_shared_data-structure-on-windows/| 
+| 20220406 | Performing and Preventing Attacks on Azure Cloud Environments through Azure DevOps | http://labs.f-secure.com/blog/performing-and-preventing-attacks-on-azure-cloud-environments-through-azure-devops/| 
+| 20220406 | Frida Internal - Part 1: 架构、Gum 与 V8 | http://evilpan.com/2022/04/05/frida-internal/| 
+| 20220406 | macOS SUHelper root 本地提权漏洞分析（CVE-2022-22639） | https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html| 
+| 20220406 | 利用 PE 文件中的特殊 Sections 向目标进程注入任意 shellcode | https://billdemirkapi.me/sharing-is-caring-abusing-shared-sections-for-code-injection/| 
 | 20220403 | IETF 113线上会议资料。 | https://theinternetprotocolblog.wordpress.com/2022/03/30/ietf-113/| 
 | 20220403 | 潜藏在风平浪静中的波澜——APT-C-00海莲花组织攻击活动动态浅析 | https://mp.weixin.qq.com/s/tBQSbv55lJUipaPWFr1fKw| 
 | 20220402 | Rockwell PLC 被发现远程高危漏洞 | https://thehackernews.com/2022/04/critical-bugs-in-rockwell-plc-could.html| 
@@ -17,20 +26,13 @@
 | 20220402 | 用于测试 SSH 中间人劫持的工具 | https://github.com/ssh-mitm/ssh-mitm/blob/master/README.md| 
 | 20220402 | Austin Pwn2Own 比赛利用 4 个漏洞实现 Cisco RV340 RCE 的细节 | https://blog.relyze.com/2022/04/pwning-cisco-rv340-with-4-bug-chain.html| 
 | 20220402 | 基于符号执行技术的二进制漏洞挖掘 | https://docs.google.com/presentation/d/1E3uE-4mYpenw0s40rtMbIdxj3fJgC79aHCeiIlJSY5Y/edit| 
-| 20220401 | 损失超 6.1 亿美元 —— Ronin Network 被黑分析 | https://mp.weixin.qq.com/s/0U58Chw970X2GWcj2fvLPg| 
-| 20220401 | 基于 Angr 的控制流反混淆 | http://research.openanalysis.net/angr/symbolic%20execution/deobfuscation/research/2022/03/26/angr_notes.html| 
-| 20220401 | Evernote 被发现 SSRF 漏洞 | http://blog.neolex.dev/13/| 
-| 20220401 | NETGEAR R6700v3 upnpd CVE-2022-27643 RCE 漏洞分析 | https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html| 
-| 20220401 | Spring 官方发表关于近期 RCE 漏洞的声明 | https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement| 
-| 20220401 | Apple 发布紧急补丁，修复两个已出现野外利用的漏洞 | https://support.apple.com/zh-cn/HT213220| 
-| 20220401 | Project Zero 公开了 iOS FORCEDENTRY 利用链的沙箱逃逸部分的分析 | https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html| 
-| 20220401 | 多个 APT 组织趁着俄乌乱局的掩护发起针对其他目标的攻击 | http://research.checkpoint.com/2022/state-sponsored-attack-groups-capitalise-on-russia-ukraine-war-for-cyber-espionage/| 
-| 20220401 | 【Rootkit 系列研究】Windows 平台的高隐匿、高持久化威胁 | https://paper.seebug.org/1868/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220406 | MITRE ATT&CK 第四轮评估结果发布 | https://mp.weixin.qq.com/s/j6IuqWNXqon_hVLUH6blVA| 
+| 20220406 | What is DQ ODN? | /topic/88| 
 | 20220404 | SecWiki周刊（第422期) | https://www.sec-wiki.com/weekly/422| 
 | 20220404 | CDN及特征隐匿Cobalt Strike | https://xz.aliyun.com/t/11099| 
 | 20220404 | 对于挖矿的检测以及防御方案 | https://xz.aliyun.com/t/11102| 
@@ -39,38 +41,36 @@
 | 20220403 | 欺骗Wappalyzer插件指纹识别 | https://blog.xlab.app/p/63a5b7e6/| 
 | 20220402 | 加密数字货币合约交易的匿名性保护与对抗 | https://mp.weixin.qq.com/s/_QWBvf-zH_urvswRwpInaw| 
 | 20220402 | XNU虚拟内存安全往事 | https://mp.weixin.qq.com/s/Lj8c5PLzLGIfdBoDzairsQ| 
-| 20220402 | 安全快报 , 美国提出新法案，加强医疗保健和公共卫生部门网络... | https://mp.weixin.qq.com/s/2rTm5bRByYjreyxWcO4b7Q| 
-| 20220402 | 安全周报1 , 国际红十字会遭受网络攻击，万人数据信息惨遭泄露 | https://mp.weixin.qq.com/s/tSOChrrLqfwi2IA4akWgnQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220406T01:43:39Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
-| 20220406T01:39:34Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
-| 20220406T01:33:39Z | CVE-2022-0185 | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | | 
-| 20220406T01:33:38Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
+| 20220406T11:49:37Z | CVE-2020-24186 | CVE-2020-24186的攻击脚本 | https://github.com/Sakura-501/CVE-2020-24186-exploit | | 
+| 20220406T11:17:23Z | CVE-2022-22639 | CVE-2022-22639: Get a Root Shell on macOS Monterey | https://github.com/jhftss/CVE-2022-22639 | | 
+| 20220406T09:44:05Z | CVE-2022-22947 | Spring-Cloud-Spel-RCE | https://github.com/Ha0Liu/CVE-2022-22947 | | 
+| 20220406T09:01:22Z | CVE-2022-0185 | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | | 
+| 20220406T09:01:22Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
+| 20220406T09:01:21Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
+| 20220406T06:38:06Z | CVE-2022-22965 | CVE-2022-22965 (Spring4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2022-22965-PoC | | 
+| 20220406T02:05:28Z | CVE-2022-22965 | A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding. The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e. the default, it is not vulnerable to the exploit. However, the nature of the vulnerability is more general, and there may be other ways to exploit it. | https://github.com/LudovicPatho/CVE-2022-22965_Spring4Shell | | 
 | 20220406T01:28:01Z | CVE-2022-22965 | PowerShell port of CVE-2022-22965 vulnerability check by colincowie. | https://github.com/daniel0x00/Invoke-CVE-2022-22965-SafeCheck | | 
-| 20220405T20:58:20Z | CVE-2022-22965 | A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding. The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e. the default, it is not vulnerable to the exploit. However, the nature of the vulnerability is more general, and there may be other ways to exploit it. | https://github.com/LudovicPatho/CVE-2022-22965_Spring4Shell | | 
 | 20220405T20:33:03Z | CVE-2022-0847 | Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well) | https://github.com/LudovicPatho/CVE-2022-0847_dirty-pipe | | 
-| 20220405T15:59:01Z | CVE-2022-22965 | Spring Framework RCE Exploit | https://github.com/luoqianlin/CVE-2022-22965 | | 
-| 20220405T15:46:27Z | CVE-2022-22965 | Exploit Of Spring4Shell! | https://github.com/robiul-awal/CVE-2022-22965 | | 
-| 20220405T15:14:50Z | CVE-2022-22965 | Spring4Shell is a critical RCE vulnerability in the Java Spring Framework and is one of three related vulnerabilities published on March 30 | https://github.com/xnderLAN/CVE-2022-22965 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220405T22:07:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1933 | 550| 
+| 20220406T11:37:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1936 | 550| 
+| 20220406T11:25:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5673 | 209| 
+| 20220406T11:10:00Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 18 | 1| 
+| 20220406T10:01:57Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 232 | 38| 
 | 20220405T21:46:09Z | Null | https://github.com/DeviRule/klee_test | 0 | 0| 
-| 20220405T17:21:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5670 | 209| 
-| 20220405T17:12:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 231 | 37| 
 | 20220405T14:00:58Z | Null | https://github.com/youfantan/KleeBot | 1 | 0| 
 | 20220405T12:45:37Z | Imagine you could pick up a fragment of code in a complex system written in C and test it in separation on your Linux workstation without the burden of including all necessary headers and knowing the right set of #defines, compilation flags and the target architecture. Imagine you could use that code in a modern fuzzer or symbolic execution engine for thorough, focused deep testing.  AoT makes it possible to select a function from C code base and generate an executable off-target test harness. The harness can then be tested on a Linux machine, e.g. with ASAN, AFL or KLEE. The generated off-target is a self-contained binary and includes all the necessary types and definitions. In a nutshell, AoT makes it possible to test pieces of complex systems software in a unit test-like manner. What it is and how does this work?  First, you select a function F you are interested to test. AoT uses Code Aware Services (CAS) infrastructure, namely code database and compilation database to automatically pull in a subtree of functions called by F (that is, functions that F calls, functions that they call, etc.). By default, AoT stops at the module boundary: the functions compiled into the same module as F are pulled in, all the others are left out. For the functions that are left out AoT generates function stubs which can later be filled by the user. Such generated program is called an off-target, because it runs off the original code execution environment (e.g. a smartphone).  AoT works well with the AFL fuzzer (https://lcamtuf.coredump.cx/afl/) and the KLEE symbolic execution engine (http://klee.github.io/). It automatically generates binaries and test setup for those tools, so that you can start fuzzing the off-target immediately.  AoT is an automated solution that currently works in the human-in-the-loop model. It means that AoT tries to automate as much as possible, but a human operator is needed to fine-tune the results - e.g. provide stubs implementation or correct the program state initialization.  Potential uses of AoT are:      get a recursive list of functions given an entry point (could be used to get selective coverage)     get a list of types necessary for a given piece of code     instrument code for inter-structure fuzzing (unsupported yet)     instrument code for fuzzing / symbolic execution and apply those techiques to complex systems code     speed up development for slowly building targets (e.g. AOSP build process)  For example, let%s imagine we would like to test a message parser in a mobile phone modem. Normally, for such testing we need to set up the physical infrastructure, for example a base station that sends messages over the air to the mobile phone. When the message is received by the phone, the parser code is invoked. If there is an error, we need to collect potential crash logs (if any) and restart testing. The whole process is difficult to set up and a single testing cycle takes quite long. With AoT things look differently. We select the message parsing function as our target. AoT automatically pulls in the necessary definitions and functions compiled into the same module and generates function stubs for the functions outside of the module. Moreover, AoT generates the program state initialization and the code necessary for starting security fuzzing. The generated off-target code is self contained - we can compile it on a Linux box and use all standard tools such as fuzzers, gdb, sanitizers to test the code. As a result, we end up with a much faster setup and test cycle: the off-target generation takes minutes and we can re-execute the code up to thousands of times per minute. We can also easily attach a debugger and quickly inspect what went wrong.  As a further example let%s take the last point and let%s imagine we are modifying an AOSP kernel driver. Without AoT, we need to invoke entire build process to check if our change is correct. Moreover, we would need to run the code in an Android emulator or on the phone and find a way to invoke the changed driver code (which sometimes is not trivial). With AoT we can extract the code of the changed function and compile it within minutes. We can further use all available x86_64 Linux toolchains (gdb, sanitizers, etc.) to test it. As a result, the development & testing cycle should be much shorter. | https://github.com/Samsung/auto_off_target | 1 | 0| 
 | 20220405T08:38:50Z | A concolic testing framework for RISC-V embedded software with support for SystemC peripherals | https://github.com/agra-uni-bremen/symex-vp | 6 | 1| 
 | 20220404T10:03:24Z | Null | https://github.com/beardlessPaul/klee-v.2.1 | 0 | 0| 
 | 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 1| 
-| 20220401T19:54:17Z | Null | https://github.com/220328-Java-Full-Stack-AWS/Jack-Klees-P1 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,22 +85,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220406T01:28:54Z | Prevents 1.14+ servers from freezing due to the Lectern exploit  | https://github.com/Owen1212055/LecternCrashPreventer | 0 | 0| 
-| 20220406T00:45:20Z | scripts i make for roblox exploiting | https://github.com/DontAltF4/RobloxScripts | 0 | 0| 
-| 20220405T23:59:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 35 | 4| 
-| 20220405T23:38:54Z | Null | https://github.com/ZaynSEanExploits/New-Exploit | 0 | 0| 
-| 20220405T23:25:29Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1147 | 480| 
-| 20220405T23:24:29Z | Fixes the lectern crash/exploit. | https://github.com/hyperdefined/LecternCrashFix | 2 | 2| 
-| 20220405T23:05:21Z | Run your payload on unlocked machines with open USB ports.  | https://github.com/ausaf-a/badusb | 0 | 0| 
-| 20220405T22:11:25Z | Null | https://github.com/B1ner0ne/rewrite-exploits | 0 | 0| 
-| 20220405T21:46:43Z | SaR4 🚩 allows you to exploit the counter device with the easiest and most up-to-date methods. | https://github.com/Reptilian221/SaR4 | 1 | 0| 
-| 20220405T21:28:15Z | Search through Microsoft Security Bulletins (MSSB%s) to find relevant vulnerabilities and exploits to use against Windows target machines. | https://github.com/glowbase/windows-exploit-search | 0 | 0| 
+| 20220406T11:52:56Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackerman0012/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220406T11:45:55Z | [AntiDDoS] My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | 0 | 0| 
+| 20220406T11:00:55Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
+| 20220406T10:48:12Z | 大型内网渗透扫描器&Cobalt Strike，Ladon9.1.4内置150个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/Netbios/LDAP/SmbHash/WmiHash/Winrm),远程执行命令(smbexec/wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 3073 | 720| 
+| 20220406T09:58:39Z | Ladon Network Penetration Scanner for PowerShell, vulnerability / exploit / detection / MS17010/SmbGhost,Brute-Force SMB/IPC/WMI/NBT/SSH/FTP/MSSQL/MYSQL/ORACLE/VNC | https://github.com/k8gege/PowerLadon | 86 | 41| 
+| 20220406T09:52:17Z | Ladon 911 for Cobalt Strike & Cracked Download,Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp | https://github.com/k8gege/Aggressor | 535 | 130| 
+| 20220406T09:39:31Z | Null | https://github.com/xzadra03/Exploits | 0 | 0| 
+| 20220406T09:17:26Z | Null | https://github.com/PLSysSec/swivel-btb-exploit | 0 | 0| 
+| 20220406T08:58:03Z | SaR4 🚩 allows you to exploit the counter device with the easiest and most up-to-date methods. | https://github.com/Reptilian221/SaR4 | 2 | 3| 
+| 20220406T08:19:29Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 720 | 156| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220406T01:43:05Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 354 | 33| 
+| 20220406T11:45:11Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 380 | 35| 
+| 20220406T11:35:15Z | personal usage | https://github.com/ThebestkillerTBK/BackdoorPlugin | 0 | 0| 
 | 20220405T20:37:03Z | plugin designed for mc.newfag.ru that includes very bad-coded but strong backdoor | https://github.com/maywr/NewFagPlugin | 0 | 0| 
 | 20220405T20:22:58Z | backdoor thats sends info through a server to the attacker | https://github.com/3BixxPy/PythonBackdoor | 0 | 0| 
 | 20220405T18:55:51Z | This is the implementation for CVPR 2022 Oral paper %Better Trigger Inversion Optimization in Backdoor Scanning.% | https://github.com/Gwinhen/PixelBackdoor | 1 | 0| 
@@ -109,7 +110,6 @@
 | 20220405T08:22:16Z | Config files for my GitHub profile. | https://github.com/backdoorPhish/backdoorPhish | 0 | 0| 
 | 20220405T06:46:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 453 | 87| 
 | 20220404T15:37:56Z | This contains two python programmes | https://github.com/thepolkamonster/Backdoor | 0 | 0| 
-| 20220404T05:31:46Z | Null | https://github.com/039710/Example-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
