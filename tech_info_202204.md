@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220406T12:21:43Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 33 | 6| 
 | 20220406T12:18:33Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 384 | 35| 
 | 20220406T11:35:15Z | personal usage | https://github.com/ThebestkillerTBK/BackdoorPlugin | 0 | 0| 
 | 20220405T20:37:03Z | plugin designed for mc.newfag.ru that includes very bad-coded but strong backdoor | https://github.com/maywr/NewFagPlugin | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20220405T12:26:04Z | Windows backdoor that will be registered and melted to the registry and embedded to the startup and is scanned to undetectable by 32 anti-virus :p  | https://github.com/NetM0nDevs/Winddows-Backdoor-B- | 0 | 0| 
 | 20220405T08:22:16Z | Config files for my GitHub profile. | https://github.com/backdoorPhish/backdoorPhish | 0 | 0| 
 | 20220405T06:46:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 453 | 87| 
-| 20220404T15:37:56Z | This contains two python programmes | https://github.com/thepolkamonster/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
