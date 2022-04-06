@@ -135,8 +135,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220406T00:04:42Z | Final Project ECE536 Computer Vision UVIC | https://github.com/alejorico98/fuzzy-color-histogram-equalization | 0 | 0| 
 | 20220405T23:55:47Z | Metode Fuzzy Mamdani-Lina | https://github.com/upimariani/Metode-Fuzzy-Mamdani | 0 | 0| 
-| 20220405T23:43:45Z | Final Project ECE536 Computer Vision UVIC | https://github.com/alejorico98/fuzzy-color-histogram-equalization | 0 | 0| 
 | 20220405T22:38:37Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1553 | 171| 
 | 20220405T22:33:51Z | Null | https://github.com/dannfirefight322/fuzzy-invention | 0 | 0| 
 | 20220405T20:18:04Z | Experimental fuzzer for PHP libraries | https://github.com/nikic/PHP-Fuzzer | 304 | 11| 
