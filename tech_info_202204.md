@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220405T12:58:02Z | Null | https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donn-es-Texte-Audio-Vid-o | 0 | 0| 
-| 20220405T12:11:32Z | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | 3 | 1| 
-| 20220405T11:57:51Z | An exploit primitive in linux kernel inspired by DirtyPipe | https://github.com/veritas501/pipe-primitive | 7 | 1| 
-| 20220405T11:26:16Z | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | 1 | 1| 
-| 20220405T11:23:52Z | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | 5 | 1| 
-| 20220405T10:54:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2576 | 315| 
-| 20220405T10:35:08Z | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | 26 | 5| 
-| 20220405T10:16:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10963 | 1918| 
-| 20220405T09:36:16Z | Search through Microsoft Security Bulletins (MSSB%s) to find relevant vulnerabilities and exploits to use against Windows target machines. | https://github.com/glowbase/windows-exploit-search | 0 | 0| 
-| 20220405T09:00:47Z | Null | https://github.com/1337-L3V1ATH0N/OSCP-Win-Exploits | 0 | 0| 
+| 20220405T23:59:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 35 | 4| 
+| 20220405T23:38:54Z | Null | https://github.com/ZaynSEanExploits/New-Exploit | 0 | 0| 
+| 20220405T23:25:29Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 1147 | 480| 
+| 20220405T23:24:29Z | Fixes the lectern crash/exploit. | https://github.com/hyperdefined/LecternCrashFix | 2 | 2| 
+| 20220405T23:05:21Z | Run your payload on unlocked machines with open USB ports.  | https://github.com/ausaf-a/badusb | 0 | 0| 
+| 20220405T22:11:25Z | Null | https://github.com/B1ner0ne/rewrite-exploits | 0 | 0| 
+| 20220405T21:46:43Z | SaR4 🚩 allows you to exploit the counter device with the easiest and most up-to-date methods. | https://github.com/Reptilian221/SaR4 | 1 | 0| 
+| 20220405T21:28:15Z | Search through Microsoft Security Bulletins (MSSB%s) to find relevant vulnerabilities and exploits to use against Windows target machines. | https://github.com/glowbase/windows-exploit-search | 0 | 0| 
+| 20220405T20:59:20Z | Material produced for my MA thesis in Digital Humanities at University of Pisa (Italy). The work consists on the research of an expressive methodology to represent and study personal mobility data, in particular exploiting the prefix tree architecture. One of the outputs produced is the python module treemob, containing all the tools implemented for the data representation and for the analysis. | https://github.com/sblbl/treemob | 1 | 0| 
+| 20220405T20:10:39Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
