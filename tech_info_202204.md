@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220406T12:29:41Z | CVE-2022-22639 | CVE-2022-22639: Get a Root Shell on macOS Monterey | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220406T11:49:37Z | CVE-2020-24186 | CVE-2020-24186的攻击脚本 | https://github.com/Sakura-501/CVE-2020-24186-exploit | | 
-| 20220406T11:17:23Z | CVE-2022-22639 | CVE-2022-22639: Get a Root Shell on macOS Monterey | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220406T09:44:05Z | CVE-2022-22947 | Spring-Cloud-Spel-RCE | https://github.com/Ha0Liu/CVE-2022-22947 | | 
 | 20220406T09:01:22Z | CVE-2022-0185 | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | | 
 | 20220406T09:01:22Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
