@@ -135,7 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220406T12:55:20Z | Null | https://github.com/MaximilienLBa/LINFO2347-Projet-fuzzer | 0 | 0| 
+| 20220406T12:56:45Z | Null | https://github.com/MaximilienLBa/LINFO2347-Projet-fuzzer | 0 | 0| 
 | 20220406T12:35:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2512 | 159| 
 | 20220406T11:43:38Z | Null | https://github.com/bukseng/fuzzy-winner | 0 | 0| 
 | 20220406T11:31:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7225 | 1543| 
