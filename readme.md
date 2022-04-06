@@ -57,6 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220406T12:13:31Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackermaniya/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220406T12:08:40Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackermaniya/Hacking-Tools-Pack | 0 | 0| 
 | 20220406T11:52:56Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackerman0012/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220406T11:45:55Z | [AntiDDoS] My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | 0 | 0| 
 | 20220406T11:00:55Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
@@ -65,8 +67,6 @@
 | 20220406T09:52:17Z | Ladon 911 for Cobalt Strike & Cracked Download,Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp | https://github.com/k8gege/Aggressor | 535 | 130| 
 | 20220406T09:39:31Z | Null | https://github.com/xzadra03/Exploits | 0 | 0| 
 | 20220406T09:17:26Z | Null | https://github.com/PLSysSec/swivel-btb-exploit | 0 | 0| 
-| 20220406T08:58:03Z | SaR4 🚩 allows you to exploit the counter device with the easiest and most up-to-date methods. | https://github.com/Reptilian221/SaR4 | 2 | 3| 
-| 20220406T08:19:29Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 720 | 156| 
 
 
 # backdoor on Github 推荐
