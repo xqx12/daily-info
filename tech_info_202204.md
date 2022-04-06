@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220405T23:49:28Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
+| 20220406T00:16:20Z | CVE-2022-22639 | Exploitation of CVE-2022-22639 | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220405T20:58:20Z | CVE-2022-22965 | A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding. The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e. the default, it is not vulnerable to the exploit. However, the nature of the vulnerability is more general, and there may be other ways to exploit it. | https://github.com/LudovicPatho/CVE-2022-22965_Spring4Shell | | 
 | 20220405T20:33:03Z | CVE-2022-0847 | Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well) | https://github.com/LudovicPatho/CVE-2022-0847_dirty-pipe | | 
 | 20220405T15:59:01Z | CVE-2022-22965 | Spring Framework RCE Exploit | https://github.com/luoqianlin/CVE-2022-22965 | | 
