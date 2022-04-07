@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220407T01:53:23Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220407T01:52:17Z | CVE-2022-26631 | CVE-2022-26631 - Automatic Question Paper Generator v1.0 SQLi | https://github.com/Cyb3rR3ap3r/CVE-2022-26631 | | 
-| 20220407T01:34:18Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220406T21:20:38Z | CVE-2022-28113 | Unauthenticated RCE exploit for Fantec MWiD25-DS | https://github.com/code-byter/CVE-2022-28113 | | 
 | 20220406T21:18:43Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
 | 20220406T20:12:07Z | cve-2022-22965 | Null | https://github.com/irgoncalves/irule-cve-2022-22965 | | 
