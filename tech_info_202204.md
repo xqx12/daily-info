@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220407T01:57:55Z | Simple application that automates the use of exploits for penetration testing | https://github.com/LandenSisk/AEL | 0 | 0| 
 | 20220407T00:48:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2583 | 316| 
 | 20220407T00:04:57Z | https://umbrellas22.000webhostapp.com/main.html  , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | 0 | 0| 
 | 20220406T21:59:07Z | list.txt /admin tester  | https://github.com/xaletr/Admin-List.txt-Exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20220406T20:07:15Z | Repository for CVE exploits | https://github.com/yuriisanin/cve-exploits | 0 | 0| 
 | 20220406T18:31:18Z | Null | https://github.com/guilletmax/firmware-exploit | 0 | 0| 
 | 20220406T12:37:36Z | GenStore is the first in-storage processing system designed for genome sequence analysis that greatly reduces both data movement and computational overheads of genome sequence analysis by exploiting low-cost and accurate in-storage filters.  Described in  the ASPLOS 2022 paper by Mansouri Ghiasi et al. at https://people.inf.ethz.ch/omutlu/pub/GenStore_asplos22-arxiv.pdf | https://github.com/CMU-SAFARI/GenStore | 0 | 0| 
-| 20220406T12:35:13Z | My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | 1 | 0| 
 
 
 # backdoor on Github 推荐
