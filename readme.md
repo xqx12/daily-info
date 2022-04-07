@@ -46,7 +46,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220406T11:37:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1936 | 550| 
-| 20220406T11:25:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5673 | 209| 
 | 20220406T11:10:00Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 18 | 1| 
 | 20220406T10:01:57Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 232 | 38| 
 
