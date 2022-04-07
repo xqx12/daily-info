@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220407T11:36:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7229 | 1543| 
 | 20220407T11:30:22Z | Null | https://github.com/Eson-Jia/fuzz-tutorial | 0 | 0| 
 | 20220407T10:48:04Z | A list of word lists that I use for fuzzing sometimes.  | https://github.com/cornerpirate/pentestingLists | 0 | 0| 
 | 20220407T10:11:55Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 380 | 16| 
