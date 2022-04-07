@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220407T01:34:18Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220406T21:20:38Z | CVE-2022-28113 | Unauthenticated RCE exploit for Fantec MWiD25-DS | https://github.com/code-byter/CVE-2022-28113 | | 
 | 20220406T21:18:43Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
 | 20220406T20:12:07Z | cve-2022-22965 | Null | https://github.com/irgoncalves/irule-cve-2022-22965 | | 
@@ -55,7 +56,6 @@
 | 20220406T14:54:12Z | cve-2021-41773 | Null | https://github.com/vuongnv3389-sec/cve-2021-41773 | | 
 | 20220406T12:29:41Z | CVE-2022-22639 | CVE-2022-22639: Get a Root Shell on macOS Monterey | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220406T11:49:37Z | CVE-2020-24186 | CVE-2020-24186的攻击脚本 | https://github.com/Sakura-501/CVE-2020-24186-exploit | | 
-| 20220406T09:44:05Z | CVE-2022-22947 | Spring-Cloud-Spel-RCE | https://github.com/Ha0Liu/CVE-2022-22947 | | 
 
 
 # klee on Github 推荐

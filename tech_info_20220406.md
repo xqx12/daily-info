@@ -100,10 +100,10 @@
 | 20220406T21:02:41Z | Null | https://github.com/Bentmwende/fuzzy-funicular | 0 | 0| 
 | 20220406T20:17:26Z | GitHub Action for Go fuzz testing | https://github.com/jidicula/go-fuzz-action | 0 | 0| 
 | 20220406T16:06:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7226 | 1544| 
+| 20220406T14:59:44Z | A differential testing tool for SPIRV compilers based on fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 1 | 1| 
 | 20220406T12:56:45Z | Null | https://github.com/MaximilienLBa/LINFO2347-Projet-fuzzer | 0 | 0| 
 | 20220406T12:35:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2512 | 159| 
 | 20220406T11:43:38Z | Null | https://github.com/bukseng/fuzzy-winner | 0 | 0| 
-| 20220406T11:33:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4072 | 968| 
 
 
 
