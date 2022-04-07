@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220407 | 元宇宙与国家数据安全：构建生态化治理体系的挑战与趋势 | https://mp.weixin.qq.com/s/9ZFhKumGOYfNU7Tv8zY59g| 
+| 20220407 | APT取证分析中的数据压缩 | https://mp.weixin.qq.com/s/8z8eYzPsLiWrQOsvByMnJw| 
 | 20220406 | MITRE ATT&CK 第四轮评估结果发布 | https://mp.weixin.qq.com/s/j6IuqWNXqon_hVLUH6blVA| 
 | 20220406 | What is DQ ODN? | /topic/88| 
 | 20220406 | 无人机MAVLINK协议安全剖析 | http://mp.weixin.qq.com/s/WEivJpxTBSVcmAa5QvvDxQ| 
@@ -40,7 +41,6 @@
 | 20220404 | CDN及特征隐匿Cobalt Strike | https://xz.aliyun.com/t/11099| 
 | 20220404 | 对于挖矿的检测以及防御方案 | https://xz.aliyun.com/t/11102| 
 | 20220404 | Generate all call graph for Java Code | https://github.com/Adrninistrator/java-all-call-graph| 
-| 20220403 | 从DARPA项目学习如何做安全研究 | https://mp.weixin.qq.com/s/BkOIosI50NRqzz8Vsbm1Hg| 
 
 
 # CVE Github 推荐

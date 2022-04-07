@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220407 | 元宇宙与国家数据安全：构建生态化治理体系的挑战与趋势 | https://mp.weixin.qq.com/s/9ZFhKumGOYfNU7Tv8zY59g| 
+| 20220407 | APT取证分析中的数据压缩 | https://mp.weixin.qq.com/s/8z8eYzPsLiWrQOsvByMnJw| 
 
 
 # CVE Github 推荐
