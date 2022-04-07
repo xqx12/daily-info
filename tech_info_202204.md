@@ -15,6 +15,7 @@
 | 20220406 | Frida Internal - Part 1: 架构、Gum 与 V8 | http://evilpan.com/2022/04/05/frida-internal/| 
 | 20220406 | macOS SUHelper root 本地提权漏洞分析（CVE-2022-22639） | https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html| 
 | 20220406 | 利用 PE 文件中的特殊 Sections 向目标进程注入任意 shellcode | https://billdemirkapi.me/sharing-is-caring-abusing-shared-sections-for-code-injection/| 
+| 20220406 | 源码层面梳理Java RMI交互流程 | https://tttang.com/archive/1530/| 
 | 20220403 | IETF 113线上会议资料。 | https://theinternetprotocolblog.wordpress.com/2022/03/30/ietf-113/| 
 | 20220403 | 潜藏在风平浪静中的波澜——APT-C-00海莲花组织攻击活动动态浅析 | https://mp.weixin.qq.com/s/tBQSbv55lJUipaPWFr1fKw| 
 | 20220402 | Rockwell PLC 被发现远程高危漏洞 | https://thehackernews.com/2022/04/critical-bugs-in-rockwell-plc-could.html| 
@@ -25,7 +26,6 @@
 | 20220402 | PHP Supply Chain Attack on PEAR | https://blog.sonarsource.com/php-supply-chain-attack-on-pear/| 
 | 20220402 | 用于测试 SSH 中间人劫持的工具 | https://github.com/ssh-mitm/ssh-mitm/blob/master/README.md| 
 | 20220402 | Austin Pwn2Own 比赛利用 4 个漏洞实现 Cisco RV340 RCE 的细节 | https://blog.relyze.com/2022/04/pwning-cisco-rv340-with-4-bug-chain.html| 
-| 20220402 | 基于符号执行技术的二进制漏洞挖掘 | https://docs.google.com/presentation/d/1E3uE-4mYpenw0s40rtMbIdxj3fJgC79aHCeiIlJSY5Y/edit| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220406T21:20:38Z | CVE-2022-28113 | Unauthenticated RCE exploit for Fantec MWiD25-DS | https://github.com/code-byter/CVE-2022-28113 | | 
+| 20220406T21:18:43Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
+| 20220406T20:12:07Z | cve-2022-22965 | Null | https://github.com/irgoncalves/irule-cve-2022-22965 | | 
+| 20220406T16:31:14Z | CVE-2022-23909 | Unquoted Service Path privilege escalation vulnerability in Sherpa Connector Service.  | https://github.com/netsectuna/CVE-2022-23909 | | 
+| 20220406T15:14:26Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
+| 20220406T15:05:47Z | CVE-2022-26631 | CVE-2022-26631 - Automatic Question Paper Generator v1.0 SQLi | https://github.com/Cyb3rR3ap3r/CVE-2022-26631 | | 
+| 20220406T14:54:12Z | cve-2021-41773 | Null | https://github.com/vuongnv3389-sec/cve-2021-41773 | | 
 | 20220406T12:29:41Z | CVE-2022-22639 | CVE-2022-22639: Get a Root Shell on macOS Monterey | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220406T11:49:37Z | CVE-2020-24186 | CVE-2020-24186的攻击脚本 | https://github.com/Sakura-501/CVE-2020-24186-exploit | | 
 | 20220406T09:44:05Z | CVE-2022-22947 | Spring-Cloud-Spel-RCE | https://github.com/Ha0Liu/CVE-2022-22947 | | 
-| 20220406T09:01:22Z | CVE-2022-0185 | CVE-2022-0185 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-0185-PipeVersion | | 
-| 20220406T09:01:22Z | CVE-2022-25636 | CVE-2022-25636 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2022-25636-PipeVersion | | 
-| 20220406T09:01:21Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
-| 20220406T06:38:06Z | CVE-2022-22965 | CVE-2022-22965 (Spring4Shell) Proof of Concept | https://github.com/sunnyvale-it/CVE-2022-22965-PoC | | 
-| 20220406T02:05:28Z | CVE-2022-22965 | A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable to remote code execution (RCE) via data binding. The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e. the default, it is not vulnerable to the exploit. However, the nature of the vulnerability is more general, and there may be other ways to exploit it. | https://github.com/LudovicPatho/CVE-2022-22965_Spring4Shell | | 
-| 20220406T01:28:01Z | CVE-2022-22965 | PowerShell port of CVE-2022-22965 vulnerability check by colincowie. | https://github.com/daniel0x00/Invoke-CVE-2022-22965-SafeCheck | | 
-| 20220405T20:33:03Z | CVE-2022-0847 | Hacked up Dirty Pipe (CVE-2022-0847) PoC that hijacks a SUID binary to spawn a root shell. (and attempts to restore the damaged binary as well) | https://github.com/LudovicPatho/CVE-2022-0847_dirty-pipe | | 
 
 
 # klee on Github 推荐
@@ -85,22 +85,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220406T21:59:07Z | list.txt /admin tester  | https://github.com/xaletr/Admin-List.txt-Exploit | 0 | 0| 
+| 20220406T21:20:38Z | Unauthenticated RCE exploit for Fantec MWiD25-DS | https://github.com/code-byter/CVE-2022-28113 | 0 | 0| 
+| 20220406T20:36:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10970 | 1920| 
+| 20220406T20:13:10Z | How to perform the `sudo less` exploit to gain root access in Linux terminal | https://github.com/Jbyford89/sudo-less-exploit | 0 | 0| 
+| 20220406T20:07:15Z | Repository for CVE exploits | https://github.com/yuriisanin/cve-exploits | 0 | 0| 
+| 20220406T18:31:18Z | Null | https://github.com/guilletmax/firmware-exploit | 0 | 0| 
 | 20220406T12:37:36Z | GenStore is the first in-storage processing system designed for genome sequence analysis that greatly reduces both data movement and computational overheads of genome sequence analysis by exploiting low-cost and accurate in-storage filters.  Described in  the ASPLOS 2022 paper by Mansouri Ghiasi et al. at https://people.inf.ethz.ch/omutlu/pub/GenStore_asplos22-arxiv.pdf | https://github.com/CMU-SAFARI/GenStore | 0 | 0| 
 | 20220406T12:35:13Z | My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | 1 | 0| 
 | 20220406T12:31:57Z | python3批量poc检测工具 | https://github.com/saucer-man/saucerframe | 323 | 83| 
 | 20220406T12:13:31Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackermaniya/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220406T12:08:40Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackermaniya/Hacking-Tools-Pack | 0 | 0| 
-| 20220406T11:52:56Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackerman0012/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220406T11:36:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10967 | 1919| 
-| 20220406T11:00:55Z | Null | https://github.com/ksecurity45/exploitme.github.io | 0 | 0| 
-| 20220406T10:48:12Z | 大型内网渗透扫描器&Cobalt Strike，Ladon9.1.4内置150个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/Netbios/LDAP/SmbHash/WmiHash/Winrm),远程执行命令(smbexec/wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 3073 | 720| 
-| 20220406T09:58:39Z | Ladon Network Penetration Scanner for PowerShell, vulnerability / exploit / detection / MS17010/SmbGhost,Brute-Force SMB/IPC/WMI/NBT/SSH/FTP/MSSQL/MYSQL/ORACLE/VNC | https://github.com/k8gege/PowerLadon | 86 | 41| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220406T12:50:55Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 387 | 35| 
+| 20220406T23:55:13Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 431 | 37| 
 | 20220406T12:21:43Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 33 | 6| 
 | 20220406T11:35:15Z | personal usage | https://github.com/ThebestkillerTBK/BackdoorPlugin | 0 | 0| 
 | 20220405T20:37:03Z | plugin designed for mc.newfag.ru that includes very bad-coded but strong backdoor | https://github.com/maywr/NewFagPlugin | 0 | 0| 
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220406T23:57:14Z | fuzzy logic in Python | https://github.com/MatthewNielsen27/fuzzy | 0 | 0| 
+| 20220406T22:55:09Z | Null | https://github.com/Kaine1145/fuzzy-octo-waddle | 0 | 0| 
+| 20220406T21:16:02Z | Null | https://github.com/brwhitsett/FuzzyWhatzies_frontend_REACT | 0 | 0| 
+| 20220406T21:14:20Z | Null | https://github.com/brwhitsett/FuzzyWhatzies_backendAPI | 0 | 0| 
+| 20220406T21:02:41Z | Null | https://github.com/Bentmwende/fuzzy-funicular | 0 | 0| 
+| 20220406T20:17:26Z | GitHub Action for Go fuzz testing | https://github.com/jidicula/go-fuzz-action | 0 | 0| 
+| 20220406T16:06:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7226 | 1544| 
 | 20220406T12:56:45Z | Null | https://github.com/MaximilienLBa/LINFO2347-Projet-fuzzer | 0 | 0| 
 | 20220406T12:35:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2512 | 159| 
 | 20220406T11:43:38Z | Null | https://github.com/bukseng/fuzzy-winner | 0 | 0| 
-| 20220406T11:31:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7225 | 1543| 
-| 20220406T08:58:20Z | Null | https://github.com/omkarkharade1128/fuzzy-octo-chainsaw | 0 | 0| 
-| 20220406T06:41:34Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 379 | 16| 
-| 20220406T01:50:29Z | a pytorch implementation for fuzzyagents (submitted to ieee transactions on fuzzy systems) | https://github.com/LiJingchen1212/fuzzyagents | 0 | 0| 
-| 20220406T01:00:56Z | Null | https://github.com/ricardogayer/GoFuzzy | 0 | 0| 
-| 20220406T00:04:42Z | Final Project ECE536 Computer Vision UVIC | https://github.com/alejorico98/fuzzy-color-histogram-equalization | 0 | 0| 
-| 20220405T23:55:47Z | Metode Fuzzy Mamdani-Lina | https://github.com/upimariani/Metode-Fuzzy-Mamdani | 0 | 0| 
 
 
 
