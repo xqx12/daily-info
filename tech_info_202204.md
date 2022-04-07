@@ -136,9 +136,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220407T01:12:34Z | fuzzy logic in Python | https://github.com/MatthewNielsen27/fuzzy | 0 | 0| 
 | 20220407T00:59:02Z | Project develop in angular with .NET | https://github.com/JulianMontu/fuzzy-invention | 0 | 0| 
 | 20220407T00:10:21Z | fuzz | https://github.com/LMS57/solar_fuzz | 0 | 0| 
-| 20220406T23:57:14Z | fuzzy logic in Python | https://github.com/MatthewNielsen27/fuzzy | 0 | 0| 
 | 20220406T22:55:09Z | Null | https://github.com/Kaine1145/fuzzy-octo-waddle | 0 | 0| 
 | 20220406T21:16:02Z | Null | https://github.com/brwhitsett/FuzzyWhatzies_frontend_REACT | 0 | 0| 
 | 20220406T21:14:20Z | Null | https://github.com/brwhitsett/FuzzyWhatzies_backendAPI | 0 | 0| 

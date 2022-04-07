@@ -95,7 +95,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220406T23:57:14Z | fuzzy logic in Python | https://github.com/MatthewNielsen27/fuzzy | 0 | 0| 
 | 20220406T22:55:09Z | Null | https://github.com/Kaine1145/fuzzy-octo-waddle | 0 | 0| 
 | 20220406T21:16:02Z | Null | https://github.com/brwhitsett/FuzzyWhatzies_frontend_REACT | 0 | 0| 
 | 20220406T21:14:20Z | Null | https://github.com/brwhitsett/FuzzyWhatzies_backendAPI | 0 | 0| 
@@ -105,6 +104,7 @@
 | 20220406T12:56:45Z | Null | https://github.com/MaximilienLBa/LINFO2347-Projet-fuzzer | 0 | 0| 
 | 20220406T12:35:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2512 | 159| 
 | 20220406T11:43:38Z | Null | https://github.com/bukseng/fuzzy-winner | 0 | 0| 
+| 20220406T11:33:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4072 | 968| 
 
 
 
