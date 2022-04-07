@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220407T01:27:48Z | Null | https://github.com/Noxizal/fuzzy-winner | 0 | 0| 
 | 20220407T01:12:34Z | fuzzy logic in Python | https://github.com/MatthewNielsen27/fuzzy | 0 | 0| 
 | 20220407T00:59:02Z | Project develop in angular with .NET | https://github.com/JulianMontu/fuzzy-invention | 0 | 0| 
 | 20220407T00:10:21Z | fuzz | https://github.com/LMS57/solar_fuzz | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20220406T21:02:41Z | Null | https://github.com/Bentmwende/fuzzy-funicular | 0 | 0| 
 | 20220406T20:17:26Z | GitHub Action for Go fuzz testing | https://github.com/jidicula/go-fuzz-action | 0 | 0| 
 | 20220406T16:06:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7226 | 1544| 
-| 20220406T12:56:45Z | Null | https://github.com/MaximilienLBa/LINFO2347-Projet-fuzzer | 0 | 0| 
 
 
 
