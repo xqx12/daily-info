@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220407T01:52:17Z | CVE-2022-26631 | CVE-2022-26631 - Automatic Question Paper Generator v1.0 SQLi | https://github.com/Cyb3rR3ap3r/CVE-2022-26631 | | 
 | 20220407T01:34:18Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220406T21:20:38Z | CVE-2022-28113 | Unauthenticated RCE exploit for Fantec MWiD25-DS | https://github.com/code-byter/CVE-2022-28113 | | 
 | 20220406T21:18:43Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
 | 20220406T20:12:07Z | cve-2022-22965 | Null | https://github.com/irgoncalves/irule-cve-2022-22965 | | 
 | 20220406T16:31:14Z | CVE-2022-23909 | Unquoted Service Path privilege escalation vulnerability in Sherpa Connector Service.  | https://github.com/netsectuna/CVE-2022-23909 | | 
 | 20220406T15:14:26Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
-| 20220406T15:05:47Z | CVE-2022-26631 | CVE-2022-26631 - Automatic Question Paper Generator v1.0 SQLi | https://github.com/Cyb3rR3ap3r/CVE-2022-26631 | | 
 | 20220406T14:54:12Z | cve-2021-41773 | Null | https://github.com/vuongnv3389-sec/cve-2021-41773 | | 
 | 20220406T12:29:41Z | CVE-2022-22639 | CVE-2022-22639: Get a Root Shell on macOS Monterey | https://github.com/jhftss/CVE-2022-22639 | | 
 | 20220406T11:49:37Z | CVE-2020-24186 | CVE-2020-24186的攻击脚本 | https://github.com/Sakura-501/CVE-2020-24186-exploit | | 
