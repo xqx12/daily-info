@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220407T00:04:57Z | https://umbrellas22.000webhostapp.com/main.html  , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | 0 | 0| 
 | 20220406T21:59:07Z | list.txt /admin tester  | https://github.com/xaletr/Admin-List.txt-Exploit | 0 | 0| 
 | 20220406T21:20:38Z | Unauthenticated RCE exploit for Fantec MWiD25-DS | https://github.com/code-byter/CVE-2022-28113 | 0 | 0| 
 | 20220406T20:36:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10970 | 1920| 
@@ -94,7 +95,6 @@
 | 20220406T12:37:36Z | GenStore is the first in-storage processing system designed for genome sequence analysis that greatly reduces both data movement and computational overheads of genome sequence analysis by exploiting low-cost and accurate in-storage filters.  Described in  the ASPLOS 2022 paper by Mansouri Ghiasi et al. at https://people.inf.ethz.ch/omutlu/pub/GenStore_asplos22-arxiv.pdf | https://github.com/CMU-SAFARI/GenStore | 0 | 0| 
 | 20220406T12:35:13Z | My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | 1 | 0| 
 | 20220406T12:31:57Z | python3批量poc检测工具 | https://github.com/saucer-man/saucerframe | 323 | 83| 
-| 20220406T12:13:31Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackermaniya/GH-Hacking-Tool-Kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
