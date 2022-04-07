@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220407T12:06:55Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackeroffice00/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220407T12:05:18Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackeroffice00/Hacking-Tools-Pack | 0 | 0| 
 | 20220407T11:37:34Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Guccifer00/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220407T11:35:04Z | A simplified and effective version of IPO (called SIPO) with the aim of simplifying the main IPO equations, creating a powerful trade-off between the concepts of exploitation and exploration, and modifying the complexity of their structural parameters. | https://github.com/ali-ece/A-Simplified-and-Efficient-Version-of-Inclined-Planes-system-Optimization-SIPO-Algorithm | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20220407T11:14:34Z | A `.git` folder disclosure exploit | https://github.com/lijiejie/GitHack | 2128 | 726| 
 | 20220407T10:39:48Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 724 | 156| 
 | 20220407T09:20:09Z | Thunderstorm detection exploiting MSG SEVIRI satellite observations | https://github.com/uhamann/coalition-2 | 0 | 0| 
-| 20220407T09:06:45Z | Exploits | https://github.com/jacs2501/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
