@@ -141,12 +141,12 @@
 | 20220407T11:30:22Z | Null | https://github.com/Eson-Jia/fuzz-tutorial | 0 | 0| 
 | 20220407T10:48:04Z | A list of word lists that I use for fuzzing sometimes.  | https://github.com/cornerpirate/pentestingLists | 0 | 0| 
 | 20220407T10:11:55Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 380 | 16| 
+| 20220407T03:05:17Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1415 | 253| 
 | 20220407T01:27:48Z | Null | https://github.com/Noxizal/fuzzy-winner | 0 | 0| 
 | 20220407T01:12:34Z | fuzzy logic in Python | https://github.com/MatthewNielsen27/fuzzy | 0 | 0| 
 | 20220407T00:59:02Z | Project develop in angular with .NET | https://github.com/JulianMontu/fuzzy-invention | 0 | 0| 
 | 20220407T00:10:21Z | fuzz | https://github.com/LMS57/solar_fuzz | 0 | 0| 
 | 20220406T22:55:09Z | Null | https://github.com/Kaine1145/fuzzy-octo-waddle | 0 | 0| 
-| 20220406T21:16:02Z | Null | https://github.com/brwhitsett/FuzzyWhatzies_frontend_REACT | 0 | 0| 
 
 
 
