@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220407 | 元宇宙与国家数据安全：构建生态化治理体系的挑战与趋势 | https://mp.weixin.qq.com/s/9ZFhKumGOYfNU7Tv8zY59g| 
 | 20220406 | MITRE ATT&CK 第四轮评估结果发布 | https://mp.weixin.qq.com/s/j6IuqWNXqon_hVLUH6blVA| 
 | 20220406 | What is DQ ODN? | /topic/88| 
 | 20220406 | 无人机MAVLINK协议安全剖析 | http://mp.weixin.qq.com/s/WEivJpxTBSVcmAa5QvvDxQ| 
@@ -40,13 +41,14 @@
 | 20220404 | 对于挖矿的检测以及防御方案 | https://xz.aliyun.com/t/11102| 
 | 20220404 | Generate all call graph for Java Code | https://github.com/Adrninistrator/java-all-call-graph| 
 | 20220403 | 从DARPA项目学习如何做安全研究 | https://mp.weixin.qq.com/s/BkOIosI50NRqzz8Vsbm1Hg| 
-| 20220403 | 欺骗Wappalyzer插件指纹识别 | https://blog.xlab.app/p/63a5b7e6/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220407T01:53:23Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
+| 20220407T11:55:14Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
+| 20220407T07:41:39Z | CVE-2020-14381 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2020-14381 | | 
+| 20220407T02:32:46Z | CVE-2022-22965 | CVE-2022-22965 pocsuite3 POC | https://github.com/wikiZ/springboot_CVE-2022-22965 | | 
 | 20220407T01:52:17Z | CVE-2022-26631 | CVE-2022-26631 - Automatic Question Paper Generator v1.0 SQLi | https://github.com/Cyb3rR3ap3r/CVE-2022-26631 | | 
 | 20220406T21:20:38Z | CVE-2022-28113 | Unauthenticated RCE exploit for Fantec MWiD25-DS | https://github.com/code-byter/CVE-2022-28113 | | 
 | 20220406T21:18:43Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
@@ -54,28 +56,27 @@
 | 20220406T16:31:14Z | CVE-2022-23909 | Unquoted Service Path privilege escalation vulnerability in Sherpa Connector Service.  | https://github.com/netsectuna/CVE-2022-23909 | | 
 | 20220406T15:14:26Z | CVE-2021-22555 | CVE-2021-22555 exploit rewritten with pipe primitive | https://github.com/veritas501/CVE-2021-22555-PipeVersion | | 
 | 20220406T14:54:12Z | cve-2021-41773 | Null | https://github.com/vuongnv3389-sec/cve-2021-41773 | | 
-| 20220406T12:29:41Z | CVE-2022-22639 | CVE-2022-22639: Get a Root Shell on macOS Monterey | https://github.com/jhftss/CVE-2022-22639 | | 
-| 20220406T11:49:37Z | CVE-2020-24186 | CVE-2020-24186的攻击脚本 | https://github.com/Sakura-501/CVE-2020-24186-exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220407T01:28:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5674 | 209| 
-| 20220406T11:37:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1936 | 550| 
+| 20220407T10:24:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5678 | 210| 
+| 20220407T10:16:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1938 | 550| 
+| 20220407T07:06:38Z | kleenway-client | https://github.com/hidemydreams/kleenway-client | 0 | 0| 
+| 20220407T05:04:07Z | Null | https://github.com/youfantan/KleeBot | 2 | 0| 
+| 20220407T03:41:44Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 17 | 9| 
 | 20220406T11:10:00Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 18 | 1| 
 | 20220406T10:01:57Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 232 | 38| 
 | 20220405T21:46:09Z | Null | https://github.com/DeviRule/klee_test | 0 | 0| 
-| 20220405T14:00:58Z | Null | https://github.com/youfantan/KleeBot | 1 | 0| 
 | 20220405T12:45:37Z | Imagine you could pick up a fragment of code in a complex system written in C and test it in separation on your Linux workstation without the burden of including all necessary headers and knowing the right set of #defines, compilation flags and the target architecture. Imagine you could use that code in a modern fuzzer or symbolic execution engine for thorough, focused deep testing.  AoT makes it possible to select a function from C code base and generate an executable off-target test harness. The harness can then be tested on a Linux machine, e.g. with ASAN, AFL or KLEE. The generated off-target is a self-contained binary and includes all the necessary types and definitions. In a nutshell, AoT makes it possible to test pieces of complex systems software in a unit test-like manner. What it is and how does this work?  First, you select a function F you are interested to test. AoT uses Code Aware Services (CAS) infrastructure, namely code database and compilation database to automatically pull in a subtree of functions called by F (that is, functions that F calls, functions that they call, etc.). By default, AoT stops at the module boundary: the functions compiled into the same module as F are pulled in, all the others are left out. For the functions that are left out AoT generates function stubs which can later be filled by the user. Such generated program is called an off-target, because it runs off the original code execution environment (e.g. a smartphone).  AoT works well with the AFL fuzzer (https://lcamtuf.coredump.cx/afl/) and the KLEE symbolic execution engine (http://klee.github.io/). It automatically generates binaries and test setup for those tools, so that you can start fuzzing the off-target immediately.  AoT is an automated solution that currently works in the human-in-the-loop model. It means that AoT tries to automate as much as possible, but a human operator is needed to fine-tune the results - e.g. provide stubs implementation or correct the program state initialization.  Potential uses of AoT are:      get a recursive list of functions given an entry point (could be used to get selective coverage)     get a list of types necessary for a given piece of code     instrument code for inter-structure fuzzing (unsupported yet)     instrument code for fuzzing / symbolic execution and apply those techiques to complex systems code     speed up development for slowly building targets (e.g. AOSP build process)  For example, let%s imagine we would like to test a message parser in a mobile phone modem. Normally, for such testing we need to set up the physical infrastructure, for example a base station that sends messages over the air to the mobile phone. When the message is received by the phone, the parser code is invoked. If there is an error, we need to collect potential crash logs (if any) and restart testing. The whole process is difficult to set up and a single testing cycle takes quite long. With AoT things look differently. We select the message parsing function as our target. AoT automatically pulls in the necessary definitions and functions compiled into the same module and generates function stubs for the functions outside of the module. Moreover, AoT generates the program state initialization and the code necessary for starting security fuzzing. The generated off-target code is self contained - we can compile it on a Linux box and use all standard tools such as fuzzers, gdb, sanitizers to test the code. As a result, we end up with a much faster setup and test cycle: the off-target generation takes minutes and we can re-execute the code up to thousands of times per minute. We can also easily attach a debugger and quickly inspect what went wrong.  As a further example let%s take the last point and let%s imagine we are modifying an AOSP kernel driver. Without AoT, we need to invoke entire build process to check if our change is correct. Moreover, we would need to run the code in an Android emulator or on the phone and find a way to invoke the changed driver code (which sometimes is not trivial). With AoT we can extract the code of the changed function and compile it within minutes. We can further use all available x86_64 Linux toolchains (gdb, sanitizers, etc.) to test it. As a result, the development & testing cycle should be much shorter. | https://github.com/Samsung/auto_off_target | 1 | 0| 
 | 20220405T08:38:50Z | A concolic testing framework for RISC-V embedded software with support for SystemC peripherals | https://github.com/agra-uni-bremen/symex-vp | 6 | 1| 
-| 20220404T10:03:24Z | Null | https://github.com/beardlessPaul/klee-v.2.1 | 0 | 0| 
-| 20220402T17:20:28Z | Null | https://github.com/mishra-kunal1/Klee-Project | 1 | 1| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220407T09:05:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 40 | 3| 
 | 20220403T15:27:07Z | Null | https://github.com/wqewqfdas/s2edsa | 0 | 0| 
 | 20220403T10:01:51Z | Null | https://github.com/s2eung1/s2eung1 | 0 | 0| 
 | 20220402T21:47:27Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 3 | 3| 
@@ -85,22 +86,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220407T01:57:55Z | Simple application that automates the use of exploits for penetration testing | https://github.com/LandenSisk/AEL | 0 | 0| 
-| 20220407T00:48:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2583 | 316| 
-| 20220407T00:04:57Z | https://umbrellas22.000webhostapp.com/main.html  , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | 0 | 0| 
-| 20220406T21:59:07Z | list.txt /admin tester  | https://github.com/xaletr/Admin-List.txt-Exploit | 0 | 0| 
-| 20220406T21:20:38Z | Unauthenticated RCE exploit for Fantec MWiD25-DS | https://github.com/code-byter/CVE-2022-28113 | 0 | 0| 
-| 20220406T20:36:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10970 | 1920| 
-| 20220406T20:13:10Z | How to perform the `sudo less` exploit to gain root access in Linux terminal | https://github.com/Jbyford89/sudo-less-exploit | 0 | 0| 
-| 20220406T20:07:15Z | Repository for CVE exploits | https://github.com/yuriisanin/cve-exploits | 0 | 0| 
-| 20220406T18:31:18Z | Null | https://github.com/guilletmax/firmware-exploit | 0 | 0| 
-| 20220406T12:37:36Z | GenStore is the first in-storage processing system designed for genome sequence analysis that greatly reduces both data movement and computational overheads of genome sequence analysis by exploiting low-cost and accurate in-storage filters.  Described in  the ASPLOS 2022 paper by Mansouri Ghiasi et al. at https://people.inf.ethz.ch/omutlu/pub/GenStore_asplos22-arxiv.pdf | https://github.com/CMU-SAFARI/GenStore | 0 | 0| 
+| 20220407T11:58:00Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackeroffice00/Hacking-Tools-Pack | 0 | 0| 
+| 20220407T11:37:34Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Guccifer00/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220407T11:35:04Z | A simplified and effective version of IPO (called SIPO) with the aim of simplifying the main IPO equations, creating a powerful trade-off between the concepts of exploitation and exploration, and modifying the complexity of their structural parameters. | https://github.com/ali-ece/A-Simplified-and-Efficient-Version-of-Inclined-Planes-system-Optimization-SIPO-Algorithm | 0 | 0| 
+| 20220407T11:34:21Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Guccifer00/Hacking-Tools-Pack | 0 | 0| 
+| 20220407T11:34:03Z | The Inclined Planes System Optimization (IPO) algorithm is recent algorithm that uses Newton’s second law to perform optimization. After conducting a thorough literature review, this paper proposes an improved version of IPO called IIPO. This improvement is achieved by changing exploratory and exploitative behavior of the standard IPO proportional to the progress of optimization (iteration). The IIPO is employed for optimizing IIR digital filter design, which is a challenging engineering problem. Adaptive IIR modeling as a multimodal optimization problem is designed and developed under system identification structure with an appropriate single-objective function in the frequency domain. Implementations are performed in both modeling cases with same and reduced orders, and under two identification forms with and without environmental additive noise. The results are reported along with various analyzes compared to a wide range of IPO variants. The statistical results on 100 independent trials show a success of more than 90% of cases, the proposed IIPO algorithm substantially outperforms other comparative algorithms in terms of accuracy of estimated coefficients, convergence, fitness, output responses, noise analysis, stability, and reliability.https://doi.org/10.1016/j.eswa.2022.117127 | https://github.com/ali-ece/Inclined-planes-system-optimization-theory-literature-review-and-state-of-the-art-versions-for-II | 1 | 0| 
+| 20220407T11:18:49Z | Java course assignment aiming to exploit threads. | https://github.com/dan-wi/santa-game | 0 | 0| 
+| 20220407T11:14:34Z | A `.git` folder disclosure exploit | https://github.com/lijiejie/GitHack | 2128 | 726| 
+| 20220407T10:39:48Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 724 | 156| 
+| 20220407T09:20:09Z | Thunderstorm detection exploiting MSG SEVIRI satellite observations | https://github.com/uhamann/coalition-2 | 0 | 0| 
+| 20220407T09:06:45Z | Exploits | https://github.com/jacs2501/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220407T01:48:51Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 441 | 38| 
+| 20220407T11:50:08Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 495 | 42| 
+| 20220407T09:01:38Z | Wordpress backdoor creation plugin | https://github.com/alexrod94/wordpress-security | 0 | 0| 
 | 20220406T12:21:43Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 33 | 6| 
 | 20220406T11:35:15Z | personal usage | https://github.com/ThebestkillerTBK/BackdoorPlugin | 0 | 0| 
 | 20220405T20:37:03Z | plugin designed for mc.newfag.ru that includes very bad-coded but strong backdoor | https://github.com/maywr/NewFagPlugin | 0 | 0| 
@@ -109,7 +111,6 @@
 | 20220405T14:54:12Z | Simple Backdoor written in C  | https://github.com/TsuNIIII/watchingEye-backdoor | 0 | 0| 
 | 20220405T12:26:04Z | Windows backdoor that will be registered and melted to the registry and embedded to the startup and is scanned to undetectable by 32 anti-virus :p  | https://github.com/NetM0nDevs/Winddows-Backdoor-B- | 0 | 0| 
 | 20220405T08:22:16Z | Config files for my GitHub profile. | https://github.com/backdoorPhish/backdoorPhish | 0 | 0| 
-| 20220405T06:46:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 453 | 87| 
 
 
 # symbolic execution on Github 推荐
