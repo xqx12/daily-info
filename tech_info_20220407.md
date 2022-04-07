@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220407T11:58:00Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackeroffice00/Hacking-Tools-Pack | 0 | 0| 
+| 20220407T12:01:51Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackeroffice00/Hacking-Tools-Pack | 0 | 0| 
 | 20220407T11:37:34Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Guccifer00/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220407T11:35:04Z | A simplified and effective version of IPO (called SIPO) with the aim of simplifying the main IPO equations, creating a powerful trade-off between the concepts of exploitation and exploration, and modifying the complexity of their structural parameters. | https://github.com/ali-ece/A-Simplified-and-Efficient-Version-of-Inclined-Planes-system-Optimization-SIPO-Algorithm | 0 | 0| 
 | 20220407T11:34:21Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Guccifer00/Hacking-Tools-Pack | 0 | 0| 
@@ -64,6 +64,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220407T11:11:15Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 173 | 36| 
+| 20220407T10:16:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1938 | 550| 
+| 20220407T09:05:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 40 | 3| 
+| 20220407T07:31:33Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 532 | 94| 
+| 20220407T07:28:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 216 | 15| 
+| 20220407T02:18:38Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 771 | 146| 
 | 20220407T01:34:04Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
 | 20220407T01:05:01Z | symbolic execution for x86 | https://github.com/ZicoChan2003/bniemczykc | 0 | 0| 
 
@@ -76,6 +82,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220407T11:30:22Z | Null | https://github.com/Eson-Jia/fuzz-tutorial | 0 | 0| 
+| 20220407T10:48:04Z | A list of word lists that I use for fuzzing sometimes.  | https://github.com/cornerpirate/pentestingLists | 0 | 0| 
+| 20220407T10:11:55Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 380 | 16| 
 | 20220407T01:27:48Z | Null | https://github.com/Noxizal/fuzzy-winner | 0 | 0| 
 | 20220407T01:12:34Z | fuzzy logic in Python | https://github.com/MatthewNielsen27/fuzzy | 0 | 0| 
 | 20220407T00:59:02Z | Project develop in angular with .NET | https://github.com/JulianMontu/fuzzy-invention | 0 | 0| 
