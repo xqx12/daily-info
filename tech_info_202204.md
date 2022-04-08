@@ -31,77 +31,80 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220408 | 通过覆盖Powershell cmdlet方式进行权限维持 | https://mp.weixin.qq.com/s?__biz=MzkxMTE5MjQ3NA==&mid=2247483781&idx=1&sn=721f1202f22953e2d80c0aaca0224a81&chksm=c11eb970f669306635bf759a8a846271bd864ed2522a23ebfcb078fecf925d440a84e82b7fb9#rd| 
+| 20220408 | 漂亮侧信道：从timeless attack到pipeline的放大攻击 | https://mp.weixin.qq.com/s/N6CWX9ZVnbyeYBIibwb0SA| 
+| 20220408 | MITRE ATT&CKcon 3.0 Presentations on SlideShare | https://www.slideshare.net/MITREATTACK/presentations| 
+| 20220408 | 安全快报 , 美国国土安全部负责人表示，海事部门缺乏网络安全 | https://mp.weixin.qq.com/s/_fvBdu_lJyQa7hAxeq_bGQ| 
 | 20220407 | 元宇宙与国家数据安全：构建生态化治理体系的挑战与趋势 | https://mp.weixin.qq.com/s/9ZFhKumGOYfNU7Tv8zY59g| 
 | 20220407 | APT取证分析中的数据压缩 | https://mp.weixin.qq.com/s/8z8eYzPsLiWrQOsvByMnJw| 
 | 20220406 | MITRE ATT&CK 第四轮评估结果发布 | https://mp.weixin.qq.com/s/j6IuqWNXqon_hVLUH6blVA| 
 | 20220406 | What is DQ ODN? | /topic/88| 
 | 20220406 | 无人机MAVLINK协议安全剖析 | http://mp.weixin.qq.com/s/WEivJpxTBSVcmAa5QvvDxQ| 
 | 20220406 | Netgear R8300栈溢出漏洞分析 | http://mp.weixin.qq.com/s/xxOwRRDg-n4_rXY8c50SdQ| 
-| 20220404 | SecWiki周刊（第422期) | https://www.sec-wiki.com/weekly/422| 
-| 20220404 | CDN及特征隐匿Cobalt Strike | https://xz.aliyun.com/t/11099| 
-| 20220404 | 对于挖矿的检测以及防御方案 | https://xz.aliyun.com/t/11102| 
-| 20220404 | Generate all call graph for Java Code | https://github.com/Adrninistrator/java-all-call-graph| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220408T00:54:21Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
+| 20220408T11:16:11Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
+| 20220408T10:25:33Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ (CVE-2022-22965 aka "Spring4Shell") | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
+| 20220408T06:58:26Z | CVE-2021-3129 | Add revert shell  | https://github.com/cuongtop4598/CVE-2021-3129-Script | | 
+| 20220408T06:08:55Z | CVE-2021-42013 | Null | https://github.com/Adash7/CVE-2021-42013 | | 
 | 20220407T18:55:43Z | CVE-2022-22965 | Null | https://github.com/Will-Beninger/CVE-2022-22965_SpringShell | | 
-| 20220407T15:45:50Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ (CVE-2022-22965 aka "Spring4Shell") | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
 | 20220407T14:13:29Z | CVE-2020-28653 | Null | https://github.com/mr-r3bot/ManageEngine-CVE-2020-28653 | | 
 | 20220407T13:20:16Z | CVE-2021-0520 | Null | https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0520 | | 
 | 20220407T07:41:39Z | CVE-2020-14381 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2020-14381 | | 
 | 20220407T02:32:46Z | CVE-2022-22965 | CVE-2022-22965 pocsuite3 POC | https://github.com/wikiZ/springboot_CVE-2022-22965 | | 
 | 20220407T01:52:17Z | CVE-2022-26631 | CVE-2022-26631 - Automatic Question Paper Generator v1.0 SQLi | https://github.com/Cyb3rR3ap3r/CVE-2022-26631 | | 
-| 20220406T21:20:38Z | CVE-2022-28113 | Unauthenticated RCE exploit for Fantec MWiD25-DS | https://github.com/code-byter/CVE-2022-28113 | | 
-| 20220406T20:12:07Z | cve-2022-22965 | Null | https://github.com/irgoncalves/irule-cve-2022-22965 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220408T01:54:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5683 | 210| 
+| 20220408T08:51:31Z | Klee%s toolbox for Genshin Impact  可莉的原神工具箱 | https://github.com/LittleNyima/klee-genshin-toolbox | 0 | 0| 
+| 20220408T08:17:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5686 | 212| 
+| 20220408T08:01:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1941 | 550| 
+| 20220408T05:37:19Z | Null | https://github.com/kleedw3/kleedw3.github.io | 0 | 0| 
 | 20220407T21:01:27Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 18 | 0| 
-| 20220407T13:24:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1939 | 550| 
 | 20220407T07:06:38Z | kleenway-client | https://github.com/hidemydreams/kleenway-client | 0 | 0| 
 | 20220407T05:04:07Z | Null | https://github.com/youfantan/KleeBot | 2 | 0| 
 | 20220407T03:41:44Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 17 | 9| 
 | 20220406T11:10:00Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 18 | 1| 
 | 20220406T10:01:57Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 232 | 38| 
-| 20220405T21:46:09Z | Null | https://github.com/DeviRule/klee_test | 0 | 0| 
-| 20220405T12:45:37Z | Imagine you could pick up a fragment of code in a complex system written in C and test it in separation on your Linux workstation without the burden of including all necessary headers and knowing the right set of #defines, compilation flags and the target architecture. Imagine you could use that code in a modern fuzzer or symbolic execution engine for thorough, focused deep testing.  AoT makes it possible to select a function from C code base and generate an executable off-target test harness. The harness can then be tested on a Linux machine, e.g. with ASAN, AFL or KLEE. The generated off-target is a self-contained binary and includes all the necessary types and definitions. In a nutshell, AoT makes it possible to test pieces of complex systems software in a unit test-like manner. What it is and how does this work?  First, you select a function F you are interested to test. AoT uses Code Aware Services (CAS) infrastructure, namely code database and compilation database to automatically pull in a subtree of functions called by F (that is, functions that F calls, functions that they call, etc.). By default, AoT stops at the module boundary: the functions compiled into the same module as F are pulled in, all the others are left out. For the functions that are left out AoT generates function stubs which can later be filled by the user. Such generated program is called an off-target, because it runs off the original code execution environment (e.g. a smartphone).  AoT works well with the AFL fuzzer (https://lcamtuf.coredump.cx/afl/) and the KLEE symbolic execution engine (http://klee.github.io/). It automatically generates binaries and test setup for those tools, so that you can start fuzzing the off-target immediately.  AoT is an automated solution that currently works in the human-in-the-loop model. It means that AoT tries to automate as much as possible, but a human operator is needed to fine-tune the results - e.g. provide stubs implementation or correct the program state initialization.  Potential uses of AoT are:      get a recursive list of functions given an entry point (could be used to get selective coverage)     get a list of types necessary for a given piece of code     instrument code for inter-structure fuzzing (unsupported yet)     instrument code for fuzzing / symbolic execution and apply those techiques to complex systems code     speed up development for slowly building targets (e.g. AOSP build process)  For example, let%s imagine we would like to test a message parser in a mobile phone modem. Normally, for such testing we need to set up the physical infrastructure, for example a base station that sends messages over the air to the mobile phone. When the message is received by the phone, the parser code is invoked. If there is an error, we need to collect potential crash logs (if any) and restart testing. The whole process is difficult to set up and a single testing cycle takes quite long. With AoT things look differently. We select the message parsing function as our target. AoT automatically pulls in the necessary definitions and functions compiled into the same module and generates function stubs for the functions outside of the module. Moreover, AoT generates the program state initialization and the code necessary for starting security fuzzing. The generated off-target code is self contained - we can compile it on a Linux box and use all standard tools such as fuzzers, gdb, sanitizers to test the code. As a result, we end up with a much faster setup and test cycle: the off-target generation takes minutes and we can re-execute the code up to thousands of times per minute. We can also easily attach a debugger and quickly inspect what went wrong.  As a further example let%s take the last point and let%s imagine we are modifying an AOSP kernel driver. Without AoT, we need to invoke entire build process to check if our change is correct. Moreover, we would need to run the code in an Android emulator or on the phone and find a way to invoke the changed driver code (which sometimes is not trivial). With AoT we can extract the code of the changed function and compile it within minutes. We can further use all available x86_64 Linux toolchains (gdb, sanitizers, etc.) to test it. As a result, the development & testing cycle should be much shorter. | https://github.com/Samsung/auto_off_target | 1 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220408T02:55:28Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 4 | 3| 
+| 20220408T02:55:18Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 16 | 2| 
 | 20220407T21:51:32Z | Null | https://github.com/software-testing-bootcamp/S2E4-API-Test-Karate-Gatling | 1 | 0| 
 | 20220407T21:28:35Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 41 | 3| 
 | 20220403T15:27:07Z | Null | https://github.com/wqewqfdas/s2edsa | 0 | 0| 
 | 20220403T10:01:51Z | Null | https://github.com/s2eung1/s2eung1 | 0 | 0| 
-| 20220402T21:47:27Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 3 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220408T01:14:55Z | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | 0 | 0| 
-| 20220407T22:37:28Z | here i post stuff you can use to exploit blookets | https://github.com/TotallyFreezy/Blooket-Exploits | 0 | 0| 
-| 20220407T22:09:31Z | Metarepo of scripts, API docs, and patched exploits for NitroType.com | https://github.com/Ray-Adams/NitroType-Archive | 7 | 10| 
-| 20220407T21:42:03Z | Source code of exploiting windows API for red teaming series | https://github.com/tbhaxor/WinAPI-RedBlue | 60 | 11| 
-| 20220407T21:09:36Z | Mega repo for exploit development. Contains individual exploits and libraries to assist during exploitation | https://github.com/jeffssh/exploits | 3 | 2| 
-| 20220407T18:55:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2586 | 316| 
-| 20220407T18:50:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10973 | 1924| 
-| 20220407T17:16:48Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | 9 | 6| 
-| 20220407T12:52:00Z | Exploiting adding images to github issues to permenetly host local images on the web. | https://github.com/0ev/github-issue-image-upload-exploitation | 0 | 0| 
-| 20220407T12:42:57Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Dankaminsk/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220408T11:47:02Z | Exploit scripts | https://github.com/sahad-mk/Exploits | 0 | 0| 
+| 20220408T11:36:18Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Marcus0012/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220408T11:29:54Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Marcus0012/Hacking-Tools-Pack | 0 | 0| 
+| 20220408T11:25:15Z | Exploitation de la TIC des compteurs Linky avec un Raspberry-Pi | https://github.com/Maximilian75/LinkyRPi | 0 | 0| 
+| 20220408T11:23:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 357 | 103| 
+| 20220408T11:16:34Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Infinity0012/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220408T11:16:34Z | This repo involves the keylogger file that contains the various features to exploit the victim%s privacy. This can only be run locally as ethical hacking is important | https://github.com/Siddharthsatyavolu/Advanced-Keylogger-for-Ethical-Hacking | 0 | 0| 
+| 20220408T11:13:47Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Infinity0012/Hacking-Tools-Pack | 0 | 0| 
+| 20220408T11:01:59Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Thenuggetgang/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220408T10:55:46Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Thenuggetgang/Hacking-Tools-Pack | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220408T01:51:18Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 544 | 47| 
+| 20220408T11:45:04Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 586 | 50| 
+| 20220408T11:23:30Z | A lockpick for Phicomm%s cryptographically secured backdoors. Works on all known models and firmware versions. | https://github.com/oblivia-simplex/backdoor-lockpick | 0 | 0| 
+| 20220408T05:18:19Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 1| 
 | 20220407T09:01:38Z | Wordpress backdoor creation plugin | https://github.com/alexrod94/wordpress-security | 0 | 0| 
 | 20220406T12:21:43Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 33 | 6| 
 | 20220406T11:35:15Z | personal usage | https://github.com/ThebestkillerTBK/BackdoorPlugin | 0 | 0| 
@@ -109,17 +112,15 @@
 | 20220405T20:22:58Z | backdoor thats sends info through a server to the attacker | https://github.com/3BixxPy/PythonBackdoor | 0 | 0| 
 | 20220405T18:55:51Z | This is the implementation for CVPR 2022 Oral paper %Better Trigger Inversion Optimization in Backdoor Scanning.% | https://github.com/Gwinhen/PixelBackdoor | 1 | 0| 
 | 20220405T14:54:12Z | Simple Backdoor written in C  | https://github.com/TsuNIIII/watchingEye-backdoor | 0 | 0| 
-| 20220405T12:26:04Z | Windows backdoor that will be registered and melted to the registry and embedded to the startup and is scanned to undetectable by 32 anti-virus :p  | https://github.com/NetM0nDevs/Winddows-Backdoor-B- | 0 | 0| 
-| 20220405T08:22:16Z | Config files for my GitHub profile. | https://github.com/backdoorPhish/backdoorPhish | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220408T08:01:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1941 | 550| 
 | 20220407T23:18:14Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 220 | 15| 
 | 20220407T21:28:35Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 41 | 3| 
 | 20220407T15:45:27Z | SIFT: Symbolic Execution with Selective Thread Scheduling | https://github.com/sysrel/SIFT | 0 | 0| 
-| 20220407T13:24:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1939 | 550| 
 | 20220407T11:11:15Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 173 | 36| 
 | 20220407T07:31:33Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 532 | 94| 
 | 20220407T02:18:38Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 771 | 146| 
@@ -137,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220408T10:36:11Z | Sistema de auxílio no diagnóstico de câncer de mama utilizando lógica nebulosa. | https://github.com/JanaideNogueira/CancerDeMamaFuzzy | 0 | 0| 
+| 20220408T09:46:51Z | pandas library | https://github.com/Hassan-Mallah/fuzzy-happiness | 1 | 0| 
 | 20220408T01:26:14Z | JIGSAW is a fuzzing-based path constraint solver. | https://github.com/R-Fuzz/jigsaw | 6 | 0| 
 | 20220408T01:20:48Z | A CUDA compiler fuzzer | https://github.com/gongbell/CUDAsmith | 5 | 4| 
 | 20220407T23:48:06Z | Social website built with django | https://github.com/tolu-c/fuzzy-rotary-phone | 0 | 0| 
 | 20220407T22:39:27Z | Null | https://github.com/Lterwa/fuzzy-memory | 0 | 0| 
+| 20220407T22:27:38Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1416 | 253| 
 | 20220407T22:07:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7231 | 1543| 
 | 20220407T20:15:18Z | Null | https://github.com/mohamedweka1/fuzzy-goggles | 0 | 0| 
 | 20220407T19:45:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2514 | 159| 
-| 20220407T14:24:56Z | Comparison of performance between a PID-tuned controller and a fuzzy controller for the development of rehabilitation exoskeletons | https://github.com/RezaSaadatyar/PID-and-Fuzzy-Logic-Controller-for-Rehabilitation | 0 | 0| 
-| 20220407T11:30:22Z | Null | https://github.com/Eson-Jia/fuzz-tutorial | 0 | 0| 
-| 20220407T10:48:04Z | A list of word lists that I use for fuzzing sometimes.  | https://github.com/cornerpirate/pentestingLists | 0 | 0| 
 
 
 
