@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220408T12:55:30Z | Exploit scripts | https://github.com/sahad-mk/Exploits | 0 | 0| 
 | 20220408T12:47:43Z | Technicolor router config decryption and injection exploit | https://github.com/antnks/technicolor-config-decrypt | 2 | 2| 
 | 20220408T12:29:23Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Mical00123/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220408T12:25:23Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Mical00123/Hacking-Tools-Pack | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20220408T12:16:00Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Randy00123/Hacking-Tools-Pack | 0 | 0| 
 | 20220408T12:13:46Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Randy00123/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220408T12:06:38Z | Null | https://github.com/SussyRocat/RocatExploit | 0 | 0| 
-| 20220408T11:47:02Z | Exploit scripts | https://github.com/sahad-mk/Exploits | 0 | 0| 
 | 20220408T11:36:18Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Marcus0012/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220408T11:29:54Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Marcus0012/Hacking-Tools-Pack | 0 | 0| 
 
@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220408T12:56:23Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 1| 
 | 20220408T12:47:32Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 591 | 51| 
 | 20220408T11:23:30Z | A lockpick for Phicomm%s cryptographically secured backdoors. Works on all known models and firmware versions. | https://github.com/oblivia-simplex/backdoor-lockpick | 0 | 0| 
 | 20220408T05:18:19Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 1| 
@@ -111,7 +112,6 @@
 | 20220405T20:37:03Z | plugin designed for mc.newfag.ru that includes very bad-coded but strong backdoor | https://github.com/maywr/NewFagPlugin | 0 | 0| 
 | 20220405T20:22:58Z | backdoor thats sends info through a server to the attacker | https://github.com/3BixxPy/PythonBackdoor | 0 | 0| 
 | 20220405T18:55:51Z | This is the implementation for CVPR 2022 Oral paper %Better Trigger Inversion Optimization in Backdoor Scanning.% | https://github.com/Gwinhen/PixelBackdoor | 1 | 0| 
-| 20220405T14:54:12Z | Simple Backdoor written in C  | https://github.com/TsuNIIII/watchingEye-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
