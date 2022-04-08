@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220408T00:06:02Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
+| 20220408T00:54:21Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220407T18:55:43Z | CVE-2022-22965 | Null | https://github.com/Will-Beninger/CVE-2022-22965_SpringShell | | 
 | 20220407T15:45:50Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ (CVE-2022-22965 aka "Spring4Shell") | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
 | 20220407T14:13:29Z | CVE-2020-28653 | Null | https://github.com/mr-r3bot/ManageEngine-CVE-2020-28653 | | 
