@@ -48,6 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220408T12:29:23Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Mical00123/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220408T12:25:23Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Mical00123/Hacking-Tools-Pack | 0 | 0| 
+| 20220408T12:17:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10978 | 1924| 
 | 20220408T12:16:00Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Randy00123/Hacking-Tools-Pack | 0 | 0| 
 | 20220408T12:13:46Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Randy00123/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220408T12:06:38Z | Null | https://github.com/SussyRocat/RocatExploit | 0 | 0| 
@@ -55,13 +56,12 @@
 | 20220408T11:36:18Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Marcus0012/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220408T11:29:54Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Marcus0012/Hacking-Tools-Pack | 0 | 0| 
 | 20220408T11:25:15Z | Exploitation de la TIC des compteurs Linky avec un Raspberry-Pi | https://github.com/Maximilian75/LinkyRPi | 0 | 0| 
-| 20220408T11:23:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 357 | 103| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220408T11:45:04Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 586 | 51| 
+| 20220408T12:35:17Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 587 | 51| 
 | 20220408T11:23:30Z | A lockpick for Phicomm%s cryptographically secured backdoors. Works on all known models and firmware versions. | https://github.com/oblivia-simplex/backdoor-lockpick | 0 | 0| 
 | 20220408T05:18:19Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 1| 
 
