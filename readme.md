@@ -83,6 +83,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220408T10:36:11Z | Sistema de auxílio no diagnóstico de câncer de mama utilizando lógica nebulosa. | https://github.com/JanaideNogueira/CancerDeMamaFuzzy | 0 | 0| 
 | 20220408T09:46:51Z | pandas library | https://github.com/Hassan-Mallah/fuzzy-happiness | 1 | 0| 
+| 20220408T06:34:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 817 | 87| 
 | 20220408T01:26:14Z | JIGSAW is a fuzzing-based path constraint solver. | https://github.com/R-Fuzz/jigsaw | 6 | 0| 
 | 20220408T01:20:48Z | A CUDA compiler fuzzer | https://github.com/gongbell/CUDAsmith | 5 | 4| 
 
