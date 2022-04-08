@@ -139,10 +139,10 @@
 | --- | --- | --- | --- | ---| 
 | 20220407T23:48:06Z | Social website built with django | https://github.com/tolu-c/fuzzy-rotary-phone | 0 | 0| 
 | 20220407T22:39:27Z | Null | https://github.com/Lterwa/fuzzy-memory | 0 | 0| 
+| 20220407T22:07:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7231 | 1543| 
 | 20220407T20:15:18Z | Null | https://github.com/mohamedweka1/fuzzy-goggles | 0 | 0| 
 | 20220407T19:45:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2514 | 159| 
 | 20220407T14:24:56Z | Comparison of performance between a PID-tuned controller and a fuzzy controller for the development of rehabilitation exoskeletons | https://github.com/RezaSaadatyar/PID-and-Fuzzy-Logic-Controller-for-Rehabilitation | 0 | 0| 
-| 20220407T11:36:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7229 | 1543| 
 | 20220407T11:30:22Z | Null | https://github.com/Eson-Jia/fuzz-tutorial | 0 | 0| 
 | 20220407T10:48:04Z | A list of word lists that I use for fuzzing sometimes.  | https://github.com/cornerpirate/pentestingLists | 0 | 0| 
 | 20220407T10:11:55Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 380 | 16| 
