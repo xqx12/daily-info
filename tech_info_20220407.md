@@ -50,10 +50,10 @@
 | --- | --- | --- | --- | ---| 
 | 20220407T22:37:28Z | here i post stuff you can use to exploit blookets | https://github.com/TotallyFreezy/Blooket-Exploits | 0 | 0| 
 | 20220407T22:09:31Z | Metarepo of scripts, API docs, and patched exploits for NitroType.com | https://github.com/Ray-Adams/NitroType-Archive | 7 | 10| 
-| 20220407T21:59:38Z | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | 0 | 0| 
 | 20220407T21:42:03Z | Source code of exploiting windows API for red teaming series | https://github.com/tbhaxor/WinAPI-RedBlue | 60 | 11| 
 | 20220407T21:09:36Z | Mega repo for exploit development. Contains individual exploits and libraries to assist during exploitation | https://github.com/jeffssh/exploits | 3 | 2| 
 | 20220407T18:50:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10973 | 1924| 
+| 20220407T17:16:48Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | 9 | 6| 
 | 20220407T12:52:00Z | Exploiting adding images to github issues to permenetly host local images on the web. | https://github.com/0ev/github-issue-image-upload-exploitation | 0 | 0| 
 | 20220407T12:42:57Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Dankaminsk/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220407T12:39:14Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Dankaminsk/Hacking-Tools-Pack | 0 | 0| 
