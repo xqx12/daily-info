@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220408T01:26:14Z | JIGSAW is a fuzzing-based path constraint solver. | https://github.com/R-Fuzz/jigsaw | 6 | 0| 
 | 20220408T01:20:48Z | A CUDA compiler fuzzer | https://github.com/gongbell/CUDAsmith | 5 | 4| 
 | 20220407T23:48:06Z | Social website built with django | https://github.com/tolu-c/fuzzy-rotary-phone | 0 | 0| 
 | 20220407T22:39:27Z | Null | https://github.com/Lterwa/fuzzy-memory | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20220407T14:24:56Z | Comparison of performance between a PID-tuned controller and a fuzzy controller for the development of rehabilitation exoskeletons | https://github.com/RezaSaadatyar/PID-and-Fuzzy-Logic-Controller-for-Rehabilitation | 0 | 0| 
 | 20220407T11:30:22Z | Null | https://github.com/Eson-Jia/fuzz-tutorial | 0 | 0| 
 | 20220407T10:48:04Z | A list of word lists that I use for fuzzing sometimes.  | https://github.com/cornerpirate/pentestingLists | 0 | 0| 
-| 20220407T10:11:55Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 380 | 16| 
 
 
 
