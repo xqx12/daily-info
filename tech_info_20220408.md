@@ -20,6 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220408T12:24:00Z | CVE-2022-22965 | Null | https://github.com/CalumHutton/CVE-2022-22965-PoC_Payara | | 
 | 20220408T11:16:11Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220408T10:25:33Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ (CVE-2022-22965 aka "Spring4Shell") | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
 | 20220408T06:58:26Z | CVE-2021-3129 | Add revert shell  | https://github.com/cuongtop4598/CVE-2021-3129-Script | | 
@@ -45,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220408T12:23:37Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Mical00123/Hacking-Tools-Pack | 0 | 0| 
 | 20220408T12:16:00Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Randy00123/Hacking-Tools-Pack | 0 | 0| 
 | 20220408T12:13:46Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Randy00123/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220408T12:06:38Z | Null | https://github.com/SussyRocat/RocatExploit | 0 | 0| 
@@ -54,13 +56,12 @@
 | 20220408T11:25:15Z | Exploitation de la TIC des compteurs Linky avec un Raspberry-Pi | https://github.com/Maximilian75/LinkyRPi | 0 | 0| 
 | 20220408T11:23:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 357 | 103| 
 | 20220408T11:16:34Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Infinity0012/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220408T11:16:34Z | This repo involves the keylogger file that contains the various features to exploit the victim%s privacy. This can only be run locally as ethical hacking is important | https://github.com/Siddharthsatyavolu/Advanced-Keylogger-for-Ethical-Hacking | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220408T11:45:04Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 586 | 50| 
+| 20220408T11:45:04Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 586 | 51| 
 | 20220408T11:23:30Z | A lockpick for Phicomm%s cryptographically secured backdoors. Works on all known models and firmware versions. | https://github.com/oblivia-simplex/backdoor-lockpick | 0 | 0| 
 | 20220408T05:18:19Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 1| 
 
