@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220409T12:07:20Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 729 | 157| 
 | 20220409T11:56:42Z | This is a demo for the Fantasm Finaace Exploit - https://ftmscan.com/address/0x47091e015b294b935babda2d28ad44e3ab07ae8d | https://github.com/JIAMING-LI/FantasmFinanceExploit | 0 | 0| 
 | 20220409T11:09:12Z | Création d’un script pour la création du schéma souhaité. Le script contient les instructions pour la création (et remplacement) d’un schéma, la création (et remplacement) des tables et les commandes d’insertion d’au moins 40 tuples (avec données réelles récupérées à partir du fichier excel). Définitions des clés primaires et des clés étrangères.  Dans un fichier SQL à part, les requêtes SQL pour extraire les données et calculer les dix statistiques à partir du schéma relationnel.  Ainsi que le MCD et Modèle relationnel. | https://github.com/nayren23/S2.04---Exploitation_d-une_base_de_donn-es | 0 | 0| 
 | 20220409T11:03:43Z | J-Link edu v10/v11 usb exploit utility | https://github.com/banxian/EDUReviver | 2 | 2| 
@@ -95,7 +96,6 @@
 | 20220409T10:17:05Z | By exploiting data from the sentinel2 satellite. Creation of a web page containing a dashboard using python. Integration of html code in python thanks to the dash framework. | https://github.com/leo56550/Dashboard_geovisualisation | 0 | 0| 
 | 20220409T10:09:20Z | PS4 EXPLOIT HOST FOR 9.0 by BATTLEGEARPH | https://github.com/battlegearPH/battlegearPH | 0 | 0| 
 | 20220409T10:04:43Z | Exploit scripts | https://github.com/sahad-mk/Exploits | 1 | 0| 
-| 20220409T09:31:30Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 728 | 157| 
 | 20220409T08:37:24Z | Contains binaries and exploit scripts for everything on my blog | https://github.com/ir0nstone/blog-binaries | 0 | 0| 
 
 
