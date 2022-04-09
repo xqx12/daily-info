@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220409T00:37:09Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
-| 20220408T21:19:39Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
+| 20220409T11:49:16Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
+| 20220409T10:44:27Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
+| 20220409T07:51:56Z | CVE-2022-22965 | Null | https://github.com/fransvanbuul/CVE-2022-22965-susceptibility | | 
+| 20220409T02:21:19Z | CVE-2021-3129 | Add revert shell  | https://github.com/cuongtop4598/CVE-2021-3129-Script | | 
+| 20220409T02:00:50Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220408T18:49:54Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ (CVE-2022-22965 aka "Spring4Shell") | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
 | 20220408T17:56:05Z | CVE-2021-4034 | POC for the priv esc exploit in PKEXEC [ CVE -2021-4034 ] ( needs fixing, not the best) Converted into go | https://github.com/ArkAngeL43/CVE-2021-4034 | | 
 | 20220408T17:47:41Z | CVE-2022-21907 | A DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | | 
 | 20220408T12:25:13Z | CVE-2022-22965 | Null | https://github.com/CalumHutton/CVE-2022-22965-PoC_Payara | | 
-| 20220408T06:58:26Z | CVE-2021-3129 | Add revert shell  | https://github.com/cuongtop4598/CVE-2021-3129-Script | | 
 | 20220408T06:08:55Z | CVE-2021-42013 | Null | https://github.com/Adash7/CVE-2021-42013 | | 
-| 20220407T18:55:43Z | CVE-2022-22965 | Null | https://github.com/Will-Beninger/CVE-2022-22965_SpringShell | | 
-| 20220407T14:13:29Z | CVE-2020-28653 | Null | https://github.com/mr-r3bot/ManageEngine-CVE-2020-28653 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220409T09:34:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5694 | 211| 
 | 20220409T01:24:16Z | Null | https://github.com/youfantan/KleeBot | 2 | 0| 
-| 20220408T23:50:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5691 | 212| 
 | 20220408T16:25:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1941 | 550| 
 | 20220408T12:53:09Z | Config files for my GitHub profile. | https://github.com/Kleechan/Kleechan | 0 | 0| 
 | 20220408T08:51:31Z | Klee%s toolbox for Genshin Impact  可莉的原神工具箱 | https://github.com/LittleNyima/klee-genshin-toolbox | 0 | 0| 
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220409T01:48:23Z | This is an old privileges escalation exploit for KAV(Kaspersky AntiVirus) 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | 0 | 0| 
-| 20220408T23:12:00Z | Exploiting all features and lab with nodejs | https://github.com/AguacateVelarde/exploit-nodejs | 0 | 0| 
-| 20220408T23:00:17Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 19 | 9| 
-| 20220408T22:17:04Z | Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems. | https://github.com/CERTCC/PoC-Exploits | 154 | 40| 
-| 20220408T22:16:58Z | Null | https://github.com/ramiKahmed/Exploits | 0 | 0| 
-| 20220408T21:46:02Z | roblox lua scripts made for exploiting | https://github.com/zekgt/lua | 0 | 0| 
-| 20220408T20:57:54Z | Silent PDF Exploit 2022, exe to pdf exploit, fud silent pdf exploit, fud exploit, fud pdf exploit. | https://github.com/Hardsploit/Silent-PDF-Exploit-2022 | 0 | 0| 
-| 20220408T20:51:35Z | All my upcoming Exploit scripts | https://github.com/cynicamanee/Scripts | 0 | 0| 
-| 20220408T20:20:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10982 | 1924| 
-| 20220408T19:58:27Z | Exploiting XSS with Javascript/JPEG Polyglot (by @medusa_0xf) | https://github.com/js-on/jpeg_polyglot_xss | 0 | 0| 
+| 20220409T11:56:42Z | This is a demo for the Fantasm Finaace Exploit - https://ftmscan.com/address/0x47091e015b294b935babda2d28ad44e3ab07ae8d | https://github.com/JIAMING-LI/FantasmFinanceExploit | 0 | 0| 
+| 20220409T11:09:12Z | Création d’un script pour la création du schéma souhaité. Le script contient les instructions pour la création (et remplacement) d’un schéma, la création (et remplacement) des tables et les commandes d’insertion d’au moins 40 tuples (avec données réelles récupérées à partir du fichier excel). Définitions des clés primaires et des clés étrangères.  Dans un fichier SQL à part, les requêtes SQL pour extraire les données et calculer les dix statistiques à partir du schéma relationnel.  Ainsi que le MCD et Modèle relationnel. | https://github.com/nayren23/S2.04---Exploitation_d-une_base_de_donn-es | 0 | 0| 
+| 20220409T11:03:43Z | J-Link edu v10/v11 usb exploit utility | https://github.com/banxian/EDUReviver | 2 | 2| 
+| 20220409T11:00:30Z | A paper i write for my college about return oriented programming exploits. | https://github.com/m-heim/ReturnOrientedProgrammingPaper | 0 | 0| 
+| 20220409T10:56:00Z | poSSh is a post-exploitation tool written in python. It uses the private key of target for persistence.(Alpha) | https://github.com/sc4rfurry/poSSh | 1 | 0| 
+| 20220409T10:17:05Z | By exploiting data from the sentinel2 satellite. Creation of a web page containing a dashboard using python. Integration of html code in python thanks to the dash framework. | https://github.com/leo56550/Dashboard_geovisualisation | 0 | 0| 
+| 20220409T10:09:20Z | PS4 EXPLOIT HOST FOR 9.0 by BATTLEGEARPH | https://github.com/battlegearPH/battlegearPH | 0 | 0| 
+| 20220409T10:04:43Z | Exploit scripts | https://github.com/sahad-mk/Exploits | 1 | 0| 
+| 20220409T09:31:30Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 728 | 157| 
+| 20220409T08:37:24Z | Contains binaries and exploit scripts for everything on my blog | https://github.com/ir0nstone/blog-binaries | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220409T01:44:57Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 630 | 54| 
-| 20220409T00:36:30Z | a backdoor for the sharkjack %powered% through discord webhooks | https://github.com/CosmodiumCS/SharkTato | 0 | 0| 
-| 20220408T20:59:32Z | Null | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 1 | 0| 
+| 20220409T12:00:35Z | Null | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 3 | 0| 
+| 20220409T11:31:54Z | Null | https://github.com/skoffas/ultrasonic_backdoor | 0 | 0| 
+| 20220409T10:46:39Z | a backdoor for the sharkjack %powered% through discord webhooks | https://github.com/CosmodiumCS/SharkTato | 1 | 0| 
+| 20220409T10:25:24Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 641 | 55| 
+| 20220409T09:47:09Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 1| 
 | 20220408T13:25:12Z | An open-scource toolkit for text backdoor attack and defense | https://github.com/cgq15/OpenBackdoor | 2 | 0| 
-| 20220408T12:56:23Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 1| 
 | 20220408T11:23:30Z | A lockpick for Phicomm%s cryptographically secured backdoors. Works on all known models and firmware versions. | https://github.com/oblivia-simplex/backdoor-lockpick | 0 | 0| 
+| 20220408T07:35:03Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 454 | 87| 
 | 20220408T05:18:19Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 1| 
 | 20220407T09:01:38Z | Wordpress backdoor creation plugin | https://github.com/alexrod94/wordpress-security | 0 | 0| 
-| 20220406T12:21:43Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 33 | 6| 
-| 20220406T11:35:15Z | personal usage | https://github.com/ThebestkillerTBK/BackdoorPlugin | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220409T11:51:28Z | Project to read smart meter and ppv panels and process the data | https://github.com/samone74/fuzzy-lamp | 0 | 0| 
+| 20220409T11:47:58Z | Metode Fuzzy Mamdani | https://github.com/upimariani/spk_fuzzy | 0 | 0| 
+| 20220409T10:30:19Z | Null | https://github.com/AnnemarieWittig/FuzzyAIExample | 0 | 0| 
+| 20220409T09:20:35Z | Null | https://github.com/vincentpdev/fuzzy-palm-tree | 0 | 0| 
+| 20220409T08:36:44Z | Null | https://github.com/apk-1234/fuzzy-train | 0 | 0| 
+| 20220409T07:53:52Z | This is an analysis of the company Maven Fuzzy Factory looking into its website%s trend, top traffic sources, and the website%s performance and conversion rates. | https://github.com/chrisaihe/MavenFuzzyFactory_Store_Analysis | 0 | 0| 
+| 20220409T07:42:40Z | complete spring from zero to advanced | https://github.com/satishkr1906/fuzzy-journey | 0 | 0| 
+| 20220409T07:31:48Z | Null | https://github.com/ArielXL/fuzzy-inference | 0 | 0| 
 | 20220409T00:53:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7234 | 1544| 
 | 20220409T00:53:15Z | Scanning directories of a given website | https://github.com/Vinnybrunn00/Fuzzing | 0 | 0| 
-| 20220409T00:49:31Z | Fuzzy logic system in python for the balance of a pendulum | https://github.com/WebisD/Fuzzy-Logic-System | 0 | 0| 
-| 20220408T23:55:06Z | Null | https://github.com/olamike2021/fuzzy-carnival | 0 | 0| 
-| 20220408T23:43:07Z | The following is Matlabs implementation which we were able to code and create fuzzy sets, variables and a working interface. Furthermore, it will include the code for generating the defuzzified form.  | https://github.com/KailasThonnithodi-2002/ACC-Fuzzy-MATLABs | 0 | 0| 
-| 20220408T21:05:02Z | Null | https://github.com/anippa/fuzzy-chainsaw | 0 | 0| 
-| 20220408T10:36:11Z | Sistema de auxílio no diagnóstico de câncer de mama utilizando lógica nebulosa. | https://github.com/JanaideNogueira/CancerDeMamaFuzzy | 0 | 0| 
-| 20220408T09:46:51Z | pandas library | https://github.com/Hassan-Mallah/fuzzy-happiness | 1 | 0| 
-| 20220408T06:34:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 817 | 87| 
-| 20220408T05:57:20Z | Proof-of-concept fuzzy search for WebSOC data | https://github.com/icssc/websoc-fuzzy-search | 0 | 0| 
 
 
 
