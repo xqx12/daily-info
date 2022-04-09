@@ -77,8 +77,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220408T18:26:42Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 267 | 18| 
+| 20220408T17:44:10Z | Symbolic Execution Engine for PHP | https://github.com/smba/oak | 2 | 2| 
+| 20220408T16:25:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1941 | 550| 
+| 20220408T16:18:24Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 42 | 3| 
 | 20220408T12:21:27Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 83 | 14| 
-| 20220408T08:01:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1941 | 550| 
 
 
 # big4 on Github 推荐
