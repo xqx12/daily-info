@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220409T00:49:31Z | Fuzzy logic system in python for the balance of a pendulum | https://github.com/WebisD/Fuzzy-Logic-System | 0 | 0| 
 | 20220408T23:55:06Z | Null | https://github.com/olamike2021/fuzzy-carnival | 0 | 0| 
 | 20220408T23:43:07Z | The following is Matlabs implementation which we were able to code and create fuzzy sets, variables and a working interface. Furthermore, it will include the code for generating the defuzzified form.  | https://github.com/KailasThonnithodi-2002/ACC-Fuzzy-MATLABs | 0 | 0| 
 | 20220408T21:46:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7233 | 1544| 
@@ -147,7 +148,6 @@
 | 20220408T06:34:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 817 | 87| 
 | 20220408T05:57:20Z | Proof-of-concept fuzzy search for WebSOC data | https://github.com/icssc/websoc-fuzzy-search | 0 | 0| 
 | 20220408T01:26:14Z | JIGSAW is a fuzzing-based path constraint solver. | https://github.com/R-Fuzz/jigsaw | 6 | 0| 
-| 20220408T01:20:48Z | A CUDA compiler fuzzer | https://github.com/gongbell/CUDAsmith | 5 | 4| 
 
 
 
