@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220409T12:52:17Z | Null | https://github.com/123543543/fuzzy-adventure | 0 | 0| 
 | 20220409T11:51:28Z | Project to read smart meter and ppv panels and process the data | https://github.com/samone74/fuzzy-lamp | 0 | 0| 
 | 20220409T11:47:58Z | Metode Fuzzy Mamdani | https://github.com/upimariani/spk_fuzzy | 0 | 0| 
 | 20220409T10:30:19Z | Null | https://github.com/AnnemarieWittig/FuzzyAIExample | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20220409T07:42:40Z | complete spring from zero to advanced | https://github.com/satishkr1906/fuzzy-journey | 0 | 0| 
 | 20220409T07:31:48Z | Null | https://github.com/ArielXL/fuzzy-inference | 0 | 0| 
 | 20220409T00:53:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7234 | 1544| 
-| 20220409T00:53:15Z | Scanning directories of a given website | https://github.com/Vinnybrunn00/Fuzzing | 0 | 0| 
 
 
 
