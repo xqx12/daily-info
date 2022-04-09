@@ -92,7 +92,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220408T23:55:06Z | Null | https://github.com/olamike2021/fuzzy-carnival | 0 | 0| 
 | 20220408T23:43:07Z | The following is Matlabs implementation which we were able to code and create fuzzy sets, variables and a working interface. Furthermore, it will include the code for generating the defuzzified form.  | https://github.com/KailasThonnithodi-2002/ACC-Fuzzy-MATLABs | 0 | 0| 
-| 20220408T21:46:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7233 | 1544| 
 | 20220408T21:05:02Z | Null | https://github.com/anippa/fuzzy-chainsaw | 0 | 0| 
 | 20220408T10:36:11Z | Sistema de auxílio no diagnóstico de câncer de mama utilizando lógica nebulosa. | https://github.com/JanaideNogueira/CancerDeMamaFuzzy | 0 | 0| 
 | 20220408T09:46:51Z | pandas library | https://github.com/Hassan-Mallah/fuzzy-happiness | 1 | 0| 
