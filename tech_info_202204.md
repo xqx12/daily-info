@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220409T01:47:29Z | This is an old privileges escalation exploit for KAV(Kaspersky AntiVirus) 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | 0 | 0| 
 | 20220408T23:12:00Z | Exploiting all features and lab with nodejs | https://github.com/AguacateVelarde/exploit-nodejs | 0 | 0| 
 | 20220408T23:00:17Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 19 | 9| 
 | 20220408T22:17:04Z | Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems. | https://github.com/CERTCC/PoC-Exploits | 154 | 40| 
@@ -96,7 +97,6 @@
 | 20220408T20:51:35Z | All my upcoming Exploit scripts | https://github.com/cynicamanee/Scripts | 0 | 0| 
 | 20220408T20:20:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10982 | 1924| 
 | 20220408T19:58:27Z | Exploiting XSS with Javascript/JPEG Polyglot (by @medusa_0xf) | https://github.com/js-on/jpeg_polyglot_xss | 0 | 0| 
-| 20220408T19:25:32Z | An unfinished ROBLOX exploit project. | https://github.com/Shade0122/ShadeE | 0 | 0| 
 
 
 # backdoor on Github 推荐
