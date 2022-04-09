@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220409T01:47:29Z | This is an old privileges escalation exploit for KAV(Kaspersky AntiVirus) 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | 0 | 0| 
+| 20220409T01:48:23Z | This is an old privileges escalation exploit for KAV(Kaspersky AntiVirus) 5.0.227, 5.0.228 and 5.0.335 for Windows 2000 | https://github.com/ti-bone/kav-privileges-escalation-exploit | 0 | 0| 
 | 20220408T23:12:00Z | Exploiting all features and lab with nodejs | https://github.com/AguacateVelarde/exploit-nodejs | 0 | 0| 
 | 20220408T23:00:17Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 19 | 9| 
 | 20220408T22:17:04Z | Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems. | https://github.com/CERTCC/PoC-Exploits | 154 | 40| 
