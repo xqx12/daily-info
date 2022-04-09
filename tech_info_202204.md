@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220409T01:24:16Z | Null | https://github.com/youfantan/KleeBot | 2 | 0| 
 | 20220408T23:50:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5691 | 212| 
 | 20220408T16:25:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1941 | 550| 
 | 20220408T12:53:09Z | Config files for my GitHub profile. | https://github.com/Kleechan/Kleechan | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20220408T05:37:19Z | Null | https://github.com/kleedw3/kleedw3.github.io | 0 | 0| 
 | 20220407T21:01:27Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 18 | 0| 
 | 20220407T07:06:38Z | kleenway-client | https://github.com/hidemydreams/kleenway-client | 0 | 0| 
-| 20220407T05:04:07Z | Null | https://github.com/youfantan/KleeBot | 2 | 0| 
 | 20220407T03:41:44Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 17 | 9| 
 | 20220406T11:10:00Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 18 | 1| 
 
