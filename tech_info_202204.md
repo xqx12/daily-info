@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220408T23:35:09Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
+| 20220409T00:37:09Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
 | 20220408T21:19:39Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220408T18:49:54Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ (CVE-2022-22965 aka "Spring4Shell") | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
 | 20220408T17:56:05Z | CVE-2021-4034 | POC for the priv esc exploit in PKEXEC [ CVE -2021-4034 ] ( needs fixing, not the best) Converted into go | https://github.com/ArkAngeL43/CVE-2021-4034 | | 
@@ -102,8 +102,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220409T00:36:30Z | a backdoor for the sharkjack %powered% through discord webhooks | https://github.com/CosmodiumCS/SharkTato | 0 | 0| 
 | 20220409T00:30:42Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 627 | 54| 
-| 20220409T00:28:46Z | a backdoor for the sharkjack %powered% through discord webhooks | https://github.com/CosmodiumCS/SharkTato | 0 | 0| 
 | 20220408T20:59:32Z | Null | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 1 | 0| 
 | 20220408T13:25:12Z | An open-scource toolkit for text backdoor attack and defense | https://github.com/cgq15/OpenBackdoor | 2 | 0| 
 | 20220408T12:56:23Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 1| 
