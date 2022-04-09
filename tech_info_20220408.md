@@ -52,6 +52,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220408T23:12:00Z | Exploiting all features and lab with nodejs | https://github.com/AguacateVelarde/exploit-nodejs | 0 | 0| 
+| 20220408T23:00:17Z | A simple Roblox exploit written in C++ | https://github.com/Fish-Sticks/headhunter | 19 | 9| 
 | 20220408T22:17:04Z | Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems. | https://github.com/CERTCC/PoC-Exploits | 154 | 40| 
 | 20220408T22:16:58Z | Null | https://github.com/ramiKahmed/Exploits | 0 | 0| 
 | 20220408T21:46:02Z | roblox lua scripts made for exploiting | https://github.com/zekgt/lua | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20220408T20:20:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10982 | 1924| 
 | 20220408T19:58:27Z | Exploiting XSS with Javascript/JPEG Polyglot (by @medusa_0xf) | https://github.com/js-on/jpeg_polyglot_xss | 0 | 0| 
 | 20220408T19:25:32Z | An unfinished ROBLOX exploit project. | https://github.com/Shade0122/ShadeE | 0 | 0| 
-| 20220408T19:23:38Z | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | 1 | 0| 
 
 
 # backdoor on Github 推荐
