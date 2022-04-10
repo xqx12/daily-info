@@ -17,7 +17,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220409T23:43:38Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
-| 20220409T20:40:10Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
 | 20220409T20:00:34Z | CVE-2022-22965 | Script to check for Spring4Shell vulnerability | https://github.com/jrgdiaz/Spring4Shell-CVE-2022-22965.py | | 
 | 20220409T18:27:52Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | | 
 | 20220409T07:51:56Z | CVE-2022-22965 | Null | https://github.com/fransvanbuul/CVE-2022-22965-susceptibility | | 
