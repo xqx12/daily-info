@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220410T00:30:14Z | Null | https://github.com/comradekgb/Fedora-Exploit | 0 | 0| 
 | 20220409T23:38:34Z | The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, STUN/TURN/UPnP/ICE, or spoofing required. | https://github.com/samyk/pwnat | 2302 | 411| 
 | 20220409T23:01:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10983 | 1923| 
 | 20220409T21:36:30Z | Exploit Development Journey | https://github.com/persian64/ExploitDevJourney | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220409T12:53:45Z | phpunit-shell , CVE_2017-9841 | https://github.com/0zvxr/CVE-2017-9841 | 0 | 0| 
 | 20220409T12:18:44Z | Null | https://github.com/Ant-Ghost/NetworkExploitScript | 0 | 0| 
 | 20220409T12:07:20Z | Linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 729 | 157| 
-| 20220409T11:56:42Z | This is a demo for the Fantasm Finaace Exploit - https://ftmscan.com/address/0x47091e015b294b935babda2d28ad44e3ab07ae8d | https://github.com/JIAMING-LI/FantasmFinanceExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
