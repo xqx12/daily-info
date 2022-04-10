@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220410T12:49:07Z | Firebase Authentication - Login, Signup, Reset Password | https://github.com/iloveteajay/fuzzy-eureka | 0 | 0| 
+| 20220410T12:59:07Z | Firebase Authentication - Login, Signup, Reset Password | https://github.com/iloveteajay/fuzzy-eureka | 0 | 0| 
 | 20220410T11:53:28Z | An experiment in fuzzy matching, using SQL, with CockroachDB | https://github.com/mgoddard/hot-fuzz | 0 | 0| 
 | 20220410T11:51:07Z | Null | https://github.com/Drlionardo/fuzzy-commitment | 0 | 0| 
 | 20220410T11:39:52Z | This is a clustering algorithm which uses Fuzzy logic. It%s been implemented by Java | https://github.com/mahdighiasi79/Fuzzy_Clustering | 0 | 0| 
