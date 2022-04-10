@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220410T00:32:35Z | Null | https://github.com/RodrigoArtigas/The-fuzzy | 0 | 0| 
 | 20220409T23:26:58Z | This is an analysis of the traffic sources, website performance and conversion rates of the Maven Fuzzy Factory eCommerce store. | https://github.com/chrisaihe/MavenFuzzyFactory_Website_Analysis | 0 | 0| 
 | 20220409T23:04:17Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 18 | 1| 
 | 20220409T22:40:03Z | Null | https://github.com/gamertomboyboss/fuzzy-octo-spoon | 0 | 0| 
@@ -148,7 +149,6 @@
 | 20220409T19:20:02Z | Null | https://github.com/jidicula/test-go-fuzz-action | 0 | 0| 
 | 20220409T13:00:27Z | Null | https://github.com/chihwancho/fuzzy-adventure | 0 | 0| 
 | 20220409T12:52:17Z | Null | https://github.com/123543543/fuzzy-adventure | 0 | 0| 
-| 20220409T11:51:28Z | Project to read smart meter and ppv panels and process the data | https://github.com/samone74/fuzzy-lamp | 0 | 0| 
 
 
 
