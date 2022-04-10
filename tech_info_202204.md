@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220410T12:47:56Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
 | 20220410T12:37:47Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220410T08:31:35Z | CVE-2021-0507 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0507 | | 
 | 20220410T06:32:47Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
-| 20220410T02:35:42Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
 | 20220409T20:00:34Z | CVE-2022-22965 | Script to check for Spring4Shell vulnerability | https://github.com/jrgdiaz/Spring4Shell-CVE-2022-22965.py | | 
 | 20220409T18:27:52Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | | 
 | 20220409T07:51:56Z | CVE-2022-22965 | Null | https://github.com/fransvanbuul/CVE-2022-22965-susceptibility | | 
@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220410T12:49:07Z | Firebase Authentication - Login, Signup, Reset Password | https://github.com/iloveteajay/fuzzy-eureka | 0 | 0| 
 | 20220410T11:53:28Z | An experiment in fuzzy matching, using SQL, with CockroachDB | https://github.com/mgoddard/hot-fuzz | 0 | 0| 
 | 20220410T11:51:07Z | Null | https://github.com/Drlionardo/fuzzy-commitment | 0 | 0| 
 | 20220410T11:39:52Z | This is a clustering algorithm which uses Fuzzy logic. It%s been implemented by Java | https://github.com/mahdighiasi79/Fuzzy_Clustering | 0 | 0| 
@@ -148,7 +149,6 @@
 | 20220410T08:59:11Z | Fuzz testing JavaScript parsers and suchlike programs. | https://github.com/lydell/eslump | 55 | 8| 
 | 20220410T06:51:46Z | Null | https://github.com/soykothosen/Neural-Networks-and-Fuzzy-Systems | 0 | 0| 
 | 20220410T00:41:11Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 381 | 16| 
-| 20220410T00:35:13Z | Null | https://github.com/RodrigoArtigas/The-fuzzy | 1 | 0| 
 
 
 
