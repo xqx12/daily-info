@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220410T00:41:11Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 381 | 16| 
 | 20220410T00:35:13Z | Null | https://github.com/RodrigoArtigas/The-fuzzy | 1 | 0| 
 | 20220409T23:26:58Z | This is an analysis of the traffic sources, website performance and conversion rates of the Maven Fuzzy Factory eCommerce store. | https://github.com/chrisaihe/MavenFuzzyFactory_Website_Analysis | 0 | 0| 
 | 20220409T23:04:17Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 18 | 1| 
@@ -148,7 +149,6 @@
 | 20220409T19:26:04Z | Null | https://github.com/kirollosonsi/Mongodb.Fuzzy.net | 0 | 0| 
 | 20220409T19:20:02Z | Null | https://github.com/jidicula/test-go-fuzz-action | 0 | 0| 
 | 20220409T13:00:27Z | Null | https://github.com/chihwancho/fuzzy-adventure | 0 | 0| 
-| 20220409T12:52:17Z | Null | https://github.com/123543543/fuzzy-adventure | 0 | 0| 
 
 
 
