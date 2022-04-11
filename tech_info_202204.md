@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220411 | Exploiting a User-After-Free on PHP to bypass disable_functions | http://adepts.of0x.cc/challenge01-php-uaf/| 
+| 20220411 | Analysis of CVE-2022-21882 Win32k Window Object Type Confusion Exploit | https://sec.today/pulses/de7959f7-723c-4956-9efa-c8e0b07f01a1/| 
+| 20220411 | 提取并修改 AirTag 的固件，定制自己的 AirTag | https://github.com/seemoo-lab/airtag/blob/main/woot22-paper.pdf| 
+| 20220411 | Frida Internal - Part 2: 核心组件 frida-core | http://evilpan.com/2022/04/09/frida-core/| 
+| 20220411 | CVE-2022-26381: Gone by others! Triggering a UAF in Firefox | http://www.thezdi.com/blog/2022/4/7/cve-2022-26381-gone-by-others-triggering-a-uaf-in-firefox| 
+| 20220411 | Project Zero 对 iOS ASN.1 Parser CVE-2021-30737 漏洞的分析 | https://googleprojectzero.blogspot.com/2022/04/cve-2021-30737-xerubs-2021-ios-asn1.html| 
+| 20220411 | Google 提出利用 Build 验证链的方式解决 Build 服务器被黑导致的供应链安全问题 | https://security.googleblog.com/2022/04/improving-software-supply-chain.html| 
+| 20220411 | QEMU QXL Integer overflow leads to Heap Overflow | https://starlabs.sg/advisories/21-4206/| 
+| 20220411 | Checkpoint 研究团队在 Google Play 市场发现一个伪装称反病毒 App 的 Android Stealer - Sharkbot | http://research.checkpoint.com/2022/google-is-on-guard-sharks-shall-not-pass/| 
+| 20220411 | Chrome Mojo 组件的沙箱逃逸漏洞分析 | https://sec.today/pulses/20c9446f-268d-4ce4-98af-7bd3d719b0c5/| 
 | 20220410 | 防火墙分析: 使用图形化的工具方法。 | http://diablohorn.com/2022/04/09/firewall-analysis-a-portable-graph-based-approach/| 
 | 20220407 | Linux下无文件Java agent探究 | https://tttang.com/archive/1525/| 
 | 20220406 | 基于 AR 设备中肌电图传感器数据（EMG）的 Keylogging 侧信道攻击 | https://tuprints.ulb.tu-darmstadt.de/20660/1/myo_paper.pdf| 
@@ -16,51 +26,44 @@
 | 20220406 | Performing and Preventing Attacks on Azure Cloud Environments through Azure DevOps | http://labs.f-secure.com/blog/performing-and-preventing-attacks-on-azure-cloud-environments-through-azure-devops/| 
 | 20220406 | Frida Internal - Part 1: 架构、Gum 与 V8 | http://evilpan.com/2022/04/05/frida-internal/| 
 | 20220406 | macOS SUHelper root 本地提权漏洞分析（CVE-2022-22639） | https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html| 
-| 20220406 | 利用 PE 文件中的特殊 Sections 向目标进程注入任意 shellcode | https://billdemirkapi.me/sharing-is-caring-abusing-shared-sections-for-code-injection/| 
-| 20220406 | 源码层面梳理Java RMI交互流程 | https://tttang.com/archive/1530/| 
-| 20220403 | IETF 113线上会议资料。 | https://theinternetprotocolblog.wordpress.com/2022/03/30/ietf-113/| 
-| 20220403 | 潜藏在风平浪静中的波澜——APT-C-00海莲花组织攻击活动动态浅析 | https://mp.weixin.qq.com/s/tBQSbv55lJUipaPWFr1fKw| 
-| 20220402 | Rockwell PLC 被发现远程高危漏洞 | https://thehackernews.com/2022/04/critical-bugs-in-rockwell-plc-could.html| 
-| 20220402 | Linux 内核 netfilter 子系统 nf_tables CVE-2022-1015/CVE-2022-1016 漏洞分析 | https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/| 
-| 20220402 | On the Naturalness of Fuzzer-Generated Code | http://rohan.padhye.org/files/natfuzz-msr22.pdf| 
-| 20220402 | Microsoft Defender for Endpoint 的调试方法以及身份伪造漏洞分析 | https://medium.com/falconforce/debugging-the-undebuggable-and-finding-a-cve-in-microsoft-defender-for-endpoint-ce36f50bb31| 
-| 20220402 | Go 语言将应用新 Mitigation 防御供应链攻击 | https://go.dev/blog/supply-chain| 
-| 20220402 | PHP Supply Chain Attack on PEAR | https://blog.sonarsource.com/php-supply-chain-attack-on-pear/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220411 | SecWiki周刊（第423期) | https://www.sec-wiki.com/weekly/423| 
+| 20220411 | CS-Notes | http://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95=| 
+| 20220411 | 智能家居平台中的缺陷API利用及其修复 | https://mp.weixin.qq.com/s/2D0hg3bL92q365UnRu6tgA| 
+| 20220411 | 利用通信协议反向监控 C&C 服务器 | https://mp.weixin.qq.com/s/pxU7aPrPzsNx8aAQdPZK4Q| 
 | 20220408 | 通过覆盖Powershell cmdlet方式进行权限维持 | https://mp.weixin.qq.com/s?__biz=MzkxMTE5MjQ3NA==&mid=2247483781&idx=1&sn=721f1202f22953e2d80c0aaca0224a81&chksm=c11eb970f669306635bf759a8a846271bd864ed2522a23ebfcb078fecf925d440a84e82b7fb9#rd| 
 | 20220408 | 漂亮侧信道：从timeless attack到pipeline的放大攻击 | https://mp.weixin.qq.com/s/N6CWX9ZVnbyeYBIibwb0SA| 
 | 20220408 | MITRE ATT&CKcon 3.0 Presentations on SlideShare | https://www.slideshare.net/MITREATTACK/presentations| 
 | 20220408 | 安全快报 , 美国国土安全部负责人表示，海事部门缺乏网络安全 | https://mp.weixin.qq.com/s/_fvBdu_lJyQa7hAxeq_bGQ| 
 | 20220407 | 元宇宙与国家数据安全：构建生态化治理体系的挑战与趋势 | https://mp.weixin.qq.com/s/9ZFhKumGOYfNU7Tv8zY59g| 
 | 20220407 | APT取证分析中的数据压缩 | https://mp.weixin.qq.com/s/8z8eYzPsLiWrQOsvByMnJw| 
-| 20220406 | MITRE ATT&CK 第四轮评估结果发布 | https://mp.weixin.qq.com/s/j6IuqWNXqon_hVLUH6blVA| 
-| 20220406 | What is DQ ODN? | /topic/88| 
-| 20220406 | 无人机MAVLINK协议安全剖析 | http://mp.weixin.qq.com/s/WEivJpxTBSVcmAa5QvvDxQ| 
-| 20220406 | Netgear R8300栈溢出漏洞分析 | http://mp.weixin.qq.com/s/xxOwRRDg-n4_rXY8c50SdQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220411T01:53:31Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
-| 20220410T22:00:40Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
+| 20220411T11:56:50Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
+| 20220411T11:53:25Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
+| 20220411T11:49:25Z | 未知编号 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE2021-45960 | | 
+| 20220411T10:38:39Z | CVE-2021-0314 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0314 | | 
+| 20220411T10:38:18Z | CVE-2020-0439 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0439 | | 
+| 20220411T09:51:32Z | CVE-2020-0138 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33-CVE-2020-0138 | | 
+| 20220411T09:05:29Z | CVE-2021-0391 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0391 | | 
 | 20220410T19:33:10Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220410T08:31:35Z | CVE-2021-0507 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0507 | | 
 | 20220409T20:00:34Z | CVE-2022-22965 | Script to check for Spring4Shell vulnerability | https://github.com/jrgdiaz/Spring4Shell-CVE-2022-22965.py | | 
-| 20220409T18:27:52Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | | 
-| 20220409T07:51:56Z | CVE-2022-22965 | Null | https://github.com/fransvanbuul/CVE-2022-22965-susceptibility | | 
-| 20220409T02:21:19Z | CVE-2021-3129 | Add revert shell  | https://github.com/cuongtop4598/CVE-2021-3129-Script | | 
-| 20220408T18:49:54Z | CVE-2022-22965 | Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ (CVE-2022-22965 aka "Spring4Shell") | https://github.com/GuayoyoCyber/CVE-2022-22965 | | 
-| 20220408T17:56:05Z | CVE-2021-4034 | POC for the priv esc exploit in PKEXEC [ CVE -2021-4034 ] ( needs fixing, not the best) Converted into go | https://github.com/ArkAngeL43/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T11:25:06Z | Null | https://github.com/CarlOsterberg/cortex-klee-test-lib | 0 | 0| 
+| 20220411T09:58:40Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
+| 20220411T05:53:04Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
 | 20220410T14:29:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1942 | 550| 
 | 20220410T06:33:45Z | Null | https://github.com/TeoPapa/KleeBot | 0 | 0| 
 | 20220410T06:24:31Z | A configurations repo. for the Pycharm plugin, a.k.a., Rainbow-fart. It reveals a config to substitute in-built audios with other files, e.g., Klee in Genshin Impact. | https://github.com/whatsmyname/rainbow-fart-voices-config | 0 | 0| 
@@ -68,9 +71,6 @@
 | 20220409T01:24:16Z | Null | https://github.com/youfantan/KleeBot | 2 | 0| 
 | 20220408T12:53:09Z | Config files for my GitHub profile. | https://github.com/Kleechan/Kleechan | 0 | 0| 
 | 20220408T08:51:31Z | Klee%s toolbox for Genshin Impact  可莉的原神工具箱 | https://github.com/LittleNyima/klee-genshin-toolbox | 0 | 0| 
-| 20220408T05:37:19Z | Null | https://github.com/kleedw3/kleedw3.github.io | 0 | 0| 
-| 20220407T21:01:27Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 18 | 0| 
-| 20220407T07:06:38Z | kleenway-client | https://github.com/hidemydreams/kleenway-client | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T11:58:59Z | A repository for learning various exploitation techniques. | https://github.com/kwon99/how2pwn | 0 | 0| 
+| 20220411T11:54:04Z | Nginx 18.1 04/09/22 zero-day repo | https://github.com/AgainstTheWest/NginxDay | 190 | 20| 
+| 20220411T11:47:50Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackerff01/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220411T11:38:59Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackerff01/Hacking-Tools-Pack | 0 | 0| 
+| 20220411T10:47:19Z | Null | https://github.com/razordeveloper/Silent-PDF-Exploit | 1 | 0| 
+| 20220411T09:34:36Z | C2Break database management exploit 04/11/2022 | https://github.com/AgainstTheWest/C2Break | 2 | 0| 
+| 20220411T08:59:21Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 370 | 71| 
+| 20220411T07:36:05Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/howingtiangmail2002/anyaschukinc | 0 | 0| 
 | 20220411T00:33:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10987 | 1922| 
 | 20220410T22:11:47Z | Sends Mass Api Requests Changing The Region In The Group VoiceChat Which Causes It To Time Out The VoiceChat | https://github.com/b6m/GroupVcExploit | 0 | 0| 
-| 20220410T19:49:31Z | Null | https://github.com/S1M0YZ/exploit | 0 | 0| 
-| 20220410T19:27:44Z | Many question answering systems over knowledge graphs rely on entity and relation linking components in order to connect the natural language input to the underlying knowledge graph. Traditionally, entity linking and relation linking have been performed either as dependent sequential tasks or as independent parallel tasks. In this paper, we propose a framework called EARL, which performs entity linking and relation linking as a joint task. EARL implements two different solution strategies for which we provide a comparative analysis in this paper: The first strategy is a formalisation of the joint entity and relation linking tasks as an instance of the Generalised Travelling Salesman Problem (GTSP). In order to be computationally feasible, we employ approximate GTSP solvers. The second strategy uses machine learning in order to exploit the connection density between nodes in the knowledge graph. It relies on three base features and re-ranking steps in order to predict entities and relations. We compare the strategies and evaluate them on a dataset with 5000 questions. Both strategies significantly outperform the current state-of-the-art approaches for entity and relation linking | https://github.com/Konesan/EARL | 0 | 0| 
-| 20220410T18:33:26Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 37 | 5| 
-| 20220410T18:20:22Z | Null | https://github.com/mare539/Exploit | 0 | 0| 
-| 20220410T18:10:53Z | Userland -> Kernel11 -> Arm9 otherapp for 3DS system versions 1.0 to <= 11.15 | https://github.com/TuxSH/universal-otherapp | 77 | 9| 
-| 20220410T18:08:47Z | Random stuff related to exploitation, reversing, etc | https://github.com/mike-hilton/binary-fun | 0 | 0| 
-| 20220410T15:33:17Z | Null | https://github.com/DjokusCoding/ExploitHub | 0 | 0| 
-| 20220410T13:05:48Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 83 | 23| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220411T01:33:16Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 669 | 58| 
+| 20220411T09:06:23Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 682 | 60| 
+| 20220411T08:14:53Z | Null | https://github.com/THUYimingLi/BackdoorBox | 35 | 10| 
+| 20220411T08:11:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 455 | 87| 
 | 20220410T22:34:40Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 10 | 4| 
 | 20220410T22:17:37Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 6 | 0| 
 | 20220410T22:05:28Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/persistance_backdoor | 0 | 0| 
 | 20220410T19:09:36Z | The most beautiful Tkinter APP, This is a Simple Tkinter based Chat-App built from scrach for my Students. | https://github.com/jugurtha114/Tkinter_Chat-App | 1 | 0| 
 | 20220410T16:43:16Z | AnyGen -  Any Generators Downloader , PayLoads, Reverse Shells, BackDoors, and more.. | https://github.com/Anlominus/AnyGen | 0 | 0| 
-| 20220410T16:35:30Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 1| 
+| 20220410T16:35:30Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 2| 
 | 20220410T14:26:20Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Rxploit | 5 | 0| 
-| 20220410T09:22:33Z | Null | https://github.com/teatime1337/Backdoor-Plugins | 0 | 0| 
-| 20220410T06:55:46Z | A s1mple PHP backdoor. | https://github.com/akibaso/BackDoorV1 | 2 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T10:49:47Z | Null | https://github.com/SopWu726/fuzzy-doodle | 0 | 0| 
+| 20220411T10:02:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 819 | 87| 
+| 20220411T09:19:56Z | Null | https://github.com/fmeum/FuzzTestDemo | 0 | 0| 
+| 20220411T07:54:26Z | Project repository of Fuzzy Cell Balancer. Implementing Li-Ion chemistry based active cell balancing. Current models are designed, simulated in MATLAB Simulink.  | https://github.com/NavadeepGaneshU/Fuzzy_CellBalancer | 0 | 0| 
+| 20220411T06:41:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7236 | 1546| 
+| 20220411T06:09:05Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1507 | 289| 
 | 20220411T01:52:06Z | Metode Fuzzy Mamdani | https://github.com/upimariani/spk_fuzzy | 0 | 1| 
 | 20220411T00:55:22Z | Hi  | https://github.com/Shaffatkhan/fuzzy | 0 | 0| 
 | 20220410T23:47:42Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 | 20220410T21:24:20Z | GitHub Action for Go 1.18 fuzz testing | https://github.com/jidicula/go-fuzz-action | 1 | 0| 
-| 20220410T20:24:07Z | Fuzzy Telegram | https://github.com/linkevin111/fuzzy-telegram | 0 | 0| 
-| 20220410T19:19:52Z | Fuzzing corpus and regressions for uWS | https://github.com/uNetworking/seed-corpus | 0 | 0| 
-| 20220410T19:17:58Z | fuzz.nl | https://github.com/enipo/enipo.github.io | 0 | 0| 
-| 20220410T17:19:04Z | Null | https://github.com/CatTiger2005/fuzzy-spoon | 0 | 0| 
-| 20220410T16:38:44Z | Remix Static. 3 try. | https://github.com/germarr/fuzzy-barnacle | 0 | 0| 
-| 20220410T12:59:07Z | Firebase Authentication - Login, Signup, Reset Password | https://github.com/iloveteajay/fuzzy-eureka | 0 | 0| 
 
 
 
