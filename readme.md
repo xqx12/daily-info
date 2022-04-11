@@ -45,11 +45,11 @@
 | 20220410T19:27:44Z | Many question answering systems over knowledge graphs rely on entity and relation linking components in order to connect the natural language input to the underlying knowledge graph. Traditionally, entity linking and relation linking have been performed either as dependent sequential tasks or as independent parallel tasks. In this paper, we propose a framework called EARL, which performs entity linking and relation linking as a joint task. EARL implements two different solution strategies for which we provide a comparative analysis in this paper: The first strategy is a formalisation of the joint entity and relation linking tasks as an instance of the Generalised Travelling Salesman Problem (GTSP). In order to be computationally feasible, we employ approximate GTSP solvers. The second strategy uses machine learning in order to exploit the connection density between nodes in the knowledge graph. It relies on three base features and re-ranking steps in order to predict entities and relations. We compare the strategies and evaluate them on a dataset with 5000 questions. Both strategies significantly outperform the current state-of-the-art approaches for entity and relation linking | https://github.com/Konesan/EARL | 0 | 0| 
 | 20220410T18:33:26Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 37 | 5| 
 | 20220410T18:20:22Z | Null | https://github.com/mare539/Exploit | 0 | 0| 
+| 20220410T18:10:53Z | Userland -> Kernel11 -> Arm9 otherapp for 3DS system versions 1.0 to <= 11.15 | https://github.com/TuxSH/universal-otherapp | 77 | 9| 
 | 20220410T18:08:47Z | Random stuff related to exploitation, reversing, etc | https://github.com/mike-hilton/binary-fun | 0 | 0| 
 | 20220410T15:33:17Z | Null | https://github.com/DjokusCoding/ExploitHub | 0 | 0| 
 | 20220410T12:55:33Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackmaria/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220410T12:38:51Z | Null | https://github.com/m0nusingh/exploits | 0 | 0| 
-| 20220410T12:33:45Z | Per-problem documentation for the picoCTF gym. We discourage cheating with this resource. | https://github.com/SarnaxLii/Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
