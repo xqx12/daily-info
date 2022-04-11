@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T12:44:32Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackage18/Hacking-Tools-Pack | 0 | 0| 
 | 20220411T12:32:19Z | Null | https://github.com/explo1t-tech/exploit-tech-1 | 0 | 0| 
 | 20220411T12:31:44Z | Null | https://github.com/razordeveloper/Silent-PDF-Exploit-2022 | 1 | 0| 
 | 20220411T12:15:14Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Shalehack/GH-Hacking-Tool-Kit | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20220411T11:54:04Z | Nginx 18.1 04/09/22 zero-day repo | https://github.com/AgainstTheWest/NginxDay | 190 | 20| 
 | 20220411T11:47:50Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackerff01/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220411T11:38:59Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackerff01/Hacking-Tools-Pack | 0 | 0| 
-| 20220411T10:47:19Z | Null | https://github.com/razordeveloper/Silent-PDF-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
