@@ -96,6 +96,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T12:58:52Z | Simple fuzzy search | https://github.com/wouter2203/fuzzy-search | 163 | 24| 
+| 20220411T12:58:45Z | Null | https://github.com/Miminlaili/fuzzy-adventure | 0 | 0| 
 | 20220411T12:21:20Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 64 | 9| 
 | 20220411T10:49:47Z | Null | https://github.com/SopWu726/fuzzy-doodle | 0 | 0| 
 | 20220411T10:02:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 819 | 87| 
@@ -104,7 +106,6 @@
 | 20220411T06:41:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7236 | 1546| 
 | 20220411T06:09:05Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1507 | 289| 
 | 20220411T01:52:06Z | Metode Fuzzy Mamdani | https://github.com/upimariani/spk_fuzzy | 0 | 1| 
-| 20220411T00:55:22Z | Hi  | https://github.com/Shaffatkhan/fuzzy | 0 | 0| 
 
 
 
