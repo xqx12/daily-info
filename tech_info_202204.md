@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220411T12:14:18Z | CVE-2021-0333 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0333 | | 
 | 20220411T12:06:54Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220411T11:53:25Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
 | 20220411T11:49:25Z | 未知编号 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE2021-45960 | | 
@@ -55,7 +56,6 @@
 | 20220411T09:05:29Z | CVE-2021-0391 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0391 | | 
 | 20220410T19:33:10Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220410T08:31:35Z | CVE-2021-0507 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0507 | | 
-| 20220409T20:00:34Z | CVE-2022-22965 | Script to check for Spring4Shell vulnerability | https://github.com/jrgdiaz/Spring4Shell-CVE-2022-22965.py | | 
 
 
 # klee on Github 推荐
