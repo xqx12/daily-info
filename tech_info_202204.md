@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220411T01:24:17Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
+| 20220411T01:53:31Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
 | 20220410T22:00:40Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220410T19:33:10Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220410T08:31:35Z | CVE-2021-0507 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0507 | | 
