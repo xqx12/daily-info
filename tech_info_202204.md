@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T12:30:36Z | Simple python backdoor program | https://github.com/orkhan-alibayli/Backdoor | 0 | 0| 
 | 20220411T12:27:48Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 683 | 61| 
 | 20220411T12:12:54Z | Fileless Discord remote access trojan | https://github.com/cchash/DiscoShell | 2 | 1| 
 | 20220411T08:14:53Z | Null | https://github.com/THUYimingLi/BackdoorBox | 35 | 10| 
@@ -112,7 +113,6 @@
 | 20220410T22:05:28Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/persistance_backdoor | 0 | 0| 
 | 20220410T19:09:36Z | The most beautiful Tkinter APP, This is a Simple Tkinter based Chat-App built from scrach for my Students. | https://github.com/jugurtha114/Tkinter_Chat-App | 1 | 0| 
 | 20220410T16:43:16Z | AnyGen -  Any Generators Downloader , PayLoads, Reverse Shells, BackDoors, and more.. | https://github.com/Anlominus/AnyGen | 0 | 0| 
-| 20220410T16:35:30Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 2| 
 
 
 # symbolic execution on Github 推荐
