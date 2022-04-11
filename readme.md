@@ -31,6 +31,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220411T12:32:13Z | CVE-2021-46143 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143 | | 
+| 20220411T12:31:47Z | CVE-2021-45960 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960 | | 
 | 20220411T12:29:44Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220411T12:29:22Z | 未知编号 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE2021-46143 | | 
 | 20220411T12:17:50Z | CVE-2021-0333 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0333 | | 
@@ -39,7 +41,6 @@
 | 20220411T10:38:39Z | CVE-2021-0314 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0314 | | 
 | 20220411T10:38:18Z | CVE-2020-0439 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0439 | | 
 | 20220411T09:51:32Z | CVE-2020-0138 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33-CVE-2020-0138 | | 
-| 20220411T09:05:29Z | CVE-2021-0391 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0391 | | 
 
 
 # klee on Github 推荐
