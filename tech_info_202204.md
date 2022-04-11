@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220411T12:57:15Z | CVE-2021-46143 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143 | | 
 | 20220411T12:34:12Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
-| 20220411T12:32:13Z | CVE-2021-46143 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143 | | 
 | 20220411T12:31:47Z | CVE-2021-45960 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960 | | 
 | 20220411T12:29:22Z | 未知编号 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE2021-46143 | | 
 | 20220411T12:17:50Z | CVE-2021-0333 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0333 | | 
