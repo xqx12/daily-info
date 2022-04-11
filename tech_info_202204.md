@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220410 | 防火墙分析: 使用图形化的工具方法。 | http://diablohorn.com/2022/04/09/firewall-analysis-a-portable-graph-based-approach/| 
 | 20220407 | Linux下无文件Java agent探究 | https://tttang.com/archive/1525/| 
 | 20220406 | 基于 AR 设备中肌电图传感器数据（EMG）的 Keylogging 侧信道攻击 | https://tuprints.ulb.tu-darmstadt.de/20660/1/myo_paper.pdf| 
 | 20220406 | Fuzzing Like A Caveman 6: Binary Only Snapshot Fuzzing Harness | https://h0mbre.github.io/Fuzzing-Like-A-Caveman-6/| 
@@ -25,7 +26,6 @@
 | 20220402 | Microsoft Defender for Endpoint 的调试方法以及身份伪造漏洞分析 | https://medium.com/falconforce/debugging-the-undebuggable-and-finding-a-cve-in-microsoft-defender-for-endpoint-ce36f50bb31| 
 | 20220402 | Go 语言将应用新 Mitigation 防御供应链攻击 | https://go.dev/blog/supply-chain| 
 | 20220402 | PHP Supply Chain Attack on PEAR | https://blog.sonarsource.com/php-supply-chain-attack-on-pear/| 
-| 20220402 | 用于测试 SSH 中间人劫持的工具 | https://github.com/ssh-mitm/ssh-mitm/blob/master/README.md| 
 
 
 # 安全维基 推荐
@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220410T12:51:14Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
-| 20220410T12:47:56Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
+| 20220410T22:00:40Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
+| 20220410T19:33:10Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
+| 20220410T16:39:35Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
 | 20220410T08:31:35Z | CVE-2021-0507 | Null | https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0507 | | 
-| 20220410T06:32:47Z | CVE-2022-22965 | Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive) | https://github.com/alt3kx/CVE-2022-22965 | | 
 | 20220409T20:00:34Z | CVE-2022-22965 | Script to check for Spring4Shell vulnerability | https://github.com/jrgdiaz/Spring4Shell-CVE-2022-22965.py | | 
 | 20220409T18:27:52Z | CVE-2021-36563 | Null | https://github.com/Edgarloyola/CVE-2021-36563 | | 
 | 20220409T07:51:56Z | CVE-2022-22965 | Null | https://github.com/fransvanbuul/CVE-2022-22965-susceptibility | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220410T08:43:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1941 | 550| 
+| 20220410T14:29:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1942 | 550| 
 | 20220410T06:33:45Z | Null | https://github.com/TeoPapa/KleeBot | 0 | 0| 
 | 20220410T06:24:31Z | A configurations repo. for the Pycharm plugin, a.k.a., Rainbow-fart. It reveals a config to substitute in-built audios with other files, e.g., Klee in Genshin Impact. | https://github.com/whatsmyname/rainbow-fart-voices-config | 0 | 0| 
 | 20220410T01:53:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5700 | 211| 
@@ -103,23 +103,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220410T10:49:31Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 656 | 56| 
-| 20220410T09:54:01Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Rxploit | 5 | 0| 
+| 20220410T23:16:42Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 667 | 58| 
+| 20220410T22:34:40Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 10 | 4| 
+| 20220410T22:17:37Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 6 | 0| 
+| 20220410T22:05:28Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/persistance_backdoor | 0 | 0| 
+| 20220410T19:09:36Z | The most beautiful Tkinter APP, This is a Simple Tkinter based Chat-App built from scrach for my Students. | https://github.com/jugurtha114/Tkinter_Chat-App | 1 | 0| 
+| 20220410T16:43:16Z | AnyGen -  Any Generators Downloader , PayLoads, Reverse Shells, BackDoors, and more.. | https://github.com/Anlominus/AnyGen | 0 | 0| 
+| 20220410T16:35:30Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 1| 
+| 20220410T14:26:20Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Rxploit | 5 | 0| 
 | 20220410T09:22:33Z | Null | https://github.com/teatime1337/Backdoor-Plugins | 0 | 0| 
-| 20220410T07:16:48Z | Null | https://github.com/ericwong0318/backdoor-university | 2 | 1| 
 | 20220410T06:55:46Z | A s1mple PHP backdoor. | https://github.com/akibaso/BackDoorV1 | 2 | 1| 
-| 20220409T21:51:38Z | Null | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 3 | 0| 
-| 20220409T11:31:54Z | Null | https://github.com/skoffas/ultrasonic_backdoor | 0 | 0| 
-| 20220409T11:31:44Z | Tool to create fileless Discord remote access trojans | https://github.com/cchash/DiscoShell | 2 | 1| 
-| 20220409T10:46:39Z | a backdoor for the sharkjack %powered% through discord webhooks | https://github.com/CosmodiumCS/SharkTato | 1 | 0| 
-| 20220409T09:47:09Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 1| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220410T08:43:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1941 | 550| 
-| 20220410T08:17:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2792 | 409| 
+| 20220410T22:54:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2793 | 409| 
+| 20220410T16:05:16Z | A proof of concept tool that demonstrates virtual machines, dynamic taint analysis, and symbolic execution. | https://github.com/Flashes100/sjcappellac | 0 | 0| 
+| 20220410T14:29:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1942 | 550| 
 | 20220409T18:31:11Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 216 | 52| 
 | 20220408T18:26:42Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 267 | 18| 
 | 20220408T17:44:10Z | Symbolic Execution Engine for PHP | https://github.com/smba/oak | 2 | 2| 
@@ -127,7 +128,6 @@
 | 20220408T12:21:27Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 83 | 14| 
 | 20220407T23:18:14Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 220 | 15| 
 | 20220407T15:45:27Z | SIFT: Symbolic Execution with Selective Thread Scheduling | https://github.com/sysrel/SIFT | 0 | 0| 
-| 20220407T11:11:15Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 173 | 36| 
 
 
 # big4 on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220410T23:47:42Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
+| 20220410T21:24:20Z | GitHub Action for Go 1.18 fuzz testing | https://github.com/jidicula/go-fuzz-action | 1 | 0| 
+| 20220410T20:24:07Z | Fuzzy Telegram | https://github.com/linkevin111/fuzzy-telegram | 0 | 0| 
+| 20220410T19:19:52Z | Fuzzing corpus and regressions for uWS | https://github.com/uNetworking/seed-corpus | 0 | 0| 
+| 20220410T19:17:58Z | fuzz.nl | https://github.com/enipo/enipo.github.io | 0 | 0| 
+| 20220410T17:19:04Z | Null | https://github.com/CatTiger2005/fuzzy-spoon | 0 | 0| 
+| 20220410T16:38:44Z | Remix Static. 3 try. | https://github.com/germarr/fuzzy-barnacle | 0 | 0| 
 | 20220410T12:59:07Z | Firebase Authentication - Login, Signup, Reset Password | https://github.com/iloveteajay/fuzzy-eureka | 0 | 0| 
 | 20220410T11:53:28Z | An experiment in fuzzy matching, using SQL, with CockroachDB | https://github.com/mgoddard/hot-fuzz | 0 | 0| 
 | 20220410T11:51:07Z | Null | https://github.com/Drlionardo/fuzzy-commitment | 0 | 0| 
-| 20220410T11:39:52Z | This is a clustering algorithm which uses Fuzzy logic. It%s been implemented by Java | https://github.com/mahdighiasi79/Fuzzy_Clustering | 0 | 0| 
-| 20220410T11:36:24Z | Vaf is a cross-platform very advanced (web) fuzzer written in nim | https://github.com/d4rckh/vaf | 193 | 23| 
-| 20220410T11:09:57Z | Site (mob-first) | https://github.com/YuliyaDM/fuzzy-octo-parakeet | 0 | 0| 
-| 20220410T09:56:28Z | Null | https://github.com/SenimanLapak/robot-fuzzy-octo | 1 | 0| 
-| 20220410T08:59:11Z | Fuzz testing JavaScript parsers and suchlike programs. | https://github.com/lydell/eslump | 55 | 8| 
-| 20220410T06:51:46Z | Null | https://github.com/soykothosen/Neural-Networks-and-Fuzzy-Systems | 0 | 0| 
-| 20220410T00:41:11Z | Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕 | https://github.com/MarvinJWendt/testza | 381 | 16| 
 
 
 
