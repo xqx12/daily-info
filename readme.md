@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T12:18:52Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog更快、更安全。 | https://github.com/AlphabugX/Alphalog | 64 | 9| 
 | 20220411T10:49:47Z | Null | https://github.com/SopWu726/fuzzy-doodle | 0 | 0| 
 | 20220411T10:02:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 819 | 87| 
 | 20220411T09:19:56Z | Null | https://github.com/fmeum/FuzzTestDemo | 0 | 0| 
