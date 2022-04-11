@@ -56,6 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T12:02:16Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Shalehack/Hacking-Tools-Pack | 0 | 0| 
+| 20220411T12:01:32Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1177 | 271| 
 | 20220411T11:58:59Z | A repository for learning various exploitation techniques. | https://github.com/kwon99/how2pwn | 0 | 0| 
 | 20220411T11:54:04Z | Nginx 18.1 04/09/22 zero-day repo | https://github.com/AgainstTheWest/NginxDay | 190 | 20| 
 | 20220411T11:47:50Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackerff01/GH-Hacking-Tool-Kit | 0 | 0| 
@@ -64,7 +66,6 @@
 | 20220411T09:34:36Z | C2Break database management exploit 04/11/2022 | https://github.com/AgainstTheWest/C2Break | 2 | 0| 
 | 20220411T08:59:21Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 370 | 71| 
 | 20220411T07:36:05Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/howingtiangmail2002/anyaschukinc | 0 | 0| 
-| 20220411T00:33:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10987 | 1922| 
 
 
 # backdoor on Github 推荐
