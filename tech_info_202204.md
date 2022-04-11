@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T01:52:06Z | Metode Fuzzy Mamdani | https://github.com/upimariani/spk_fuzzy | 0 | 1| 
 | 20220411T00:55:22Z | Hi  | https://github.com/Shaffatkhan/fuzzy | 0 | 0| 
 | 20220410T23:47:42Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 | 20220410T21:24:20Z | GitHub Action for Go 1.18 fuzz testing | https://github.com/jidicula/go-fuzz-action | 1 | 0| 
@@ -148,7 +149,6 @@
 | 20220410T17:19:04Z | Null | https://github.com/CatTiger2005/fuzzy-spoon | 0 | 0| 
 | 20220410T16:38:44Z | Remix Static. 3 try. | https://github.com/germarr/fuzzy-barnacle | 0 | 0| 
 | 20220410T12:59:07Z | Firebase Authentication - Login, Signup, Reset Password | https://github.com/iloveteajay/fuzzy-eureka | 0 | 0| 
-| 20220410T11:53:28Z | An experiment in fuzzy matching, using SQL, with CockroachDB | https://github.com/mgoddard/hot-fuzz | 0 | 0| 
 
 
 
