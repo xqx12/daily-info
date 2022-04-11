@@ -55,7 +55,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220410T23:16:42Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 667 | 58| 
 | 20220410T22:34:40Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 10 | 4| 
 | 20220410T22:17:37Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 6 | 0| 
 | 20220410T22:05:28Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/persistance_backdoor | 0 | 0| 
