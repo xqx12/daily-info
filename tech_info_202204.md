@@ -97,7 +97,7 @@
 | 20220410T18:10:53Z | Userland -> Kernel11 -> Arm9 otherapp for 3DS system versions 1.0 to <= 11.15 | https://github.com/TuxSH/universal-otherapp | 77 | 9| 
 | 20220410T18:08:47Z | Random stuff related to exploitation, reversing, etc | https://github.com/mike-hilton/binary-fun | 0 | 0| 
 | 20220410T15:33:17Z | Null | https://github.com/DjokusCoding/ExploitHub | 0 | 0| 
-| 20220410T12:55:33Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackmaria/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220410T13:05:48Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 83 | 23| 
 
 
 # backdoor on Github 推荐
