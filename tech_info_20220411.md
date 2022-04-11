@@ -16,6 +16,7 @@
 | 20220411 | QEMU QXL Integer overflow leads to Heap Overflow | https://starlabs.sg/advisories/21-4206/| 
 | 20220411 | Checkpoint 研究团队在 Google Play 市场发现一个伪装称反病毒 App 的 Android Stealer - Sharkbot | http://research.checkpoint.com/2022/google-is-on-guard-sharks-shall-not-pass/| 
 | 20220411 | Chrome Mojo 组件的沙箱逃逸漏洞分析 | https://sec.today/pulses/20c9446f-268d-4ce4-98af-7bd3d719b0c5/| 
+| 20220411 | Chrome Mojo 组件的沙箱逃逸漏洞分析 | https://mp.weixin.qq.com/s/tGwCwOQ8eAwm26fHXTCy5A| 
 
 
 # 安全维基 推荐
@@ -77,6 +78,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T04:24:03Z | Binary dynamic, static, and symbolic execution analysis tools for directed test generation | https://github.com/songge040701aliyunz/bitblaze-fuzzball | 0 | 0| 
 
 
 # big4 on Github 推荐

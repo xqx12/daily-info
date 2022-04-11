@@ -16,6 +16,7 @@
 | 20220411 | QEMU QXL Integer overflow leads to Heap Overflow | https://starlabs.sg/advisories/21-4206/| 
 | 20220411 | Checkpoint 研究团队在 Google Play 市场发现一个伪装称反病毒 App 的 Android Stealer - Sharkbot | http://research.checkpoint.com/2022/google-is-on-guard-sharks-shall-not-pass/| 
 | 20220411 | Chrome Mojo 组件的沙箱逃逸漏洞分析 | https://sec.today/pulses/20c9446f-268d-4ce4-98af-7bd3d719b0c5/| 
+| 20220411 | Chrome Mojo 组件的沙箱逃逸漏洞分析 | https://mp.weixin.qq.com/s/tGwCwOQ8eAwm26fHXTCy5A| 
 | 20220410 | 防火墙分析: 使用图形化的工具方法。 | http://diablohorn.com/2022/04/09/firewall-analysis-a-portable-graph-based-approach/| 
 | 20220407 | Linux下无文件Java agent探究 | https://tttang.com/archive/1525/| 
 | 20220406 | 基于 AR 设备中肌电图传感器数据（EMG）的 Keylogging 侧信道攻击 | https://tuprints.ulb.tu-darmstadt.de/20660/1/myo_paper.pdf| 
@@ -25,7 +26,6 @@
 | 20220406 | Windows 的 KUSER_SHARED_DATA 结构体要支持 ASLR 了 | https://msrc-blog.microsoft.com/2022/04/05/randomizing-the-kuser_shared_data-structure-on-windows/| 
 | 20220406 | Performing and Preventing Attacks on Azure Cloud Environments through Azure DevOps | http://labs.f-secure.com/blog/performing-and-preventing-attacks-on-azure-cloud-environments-through-azure-devops/| 
 | 20220406 | Frida Internal - Part 1: 架构、Gum 与 V8 | http://evilpan.com/2022/04/05/frida-internal/| 
-| 20220406 | macOS SUHelper root 本地提权漏洞分析（CVE-2022-22639） | https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html| 
 
 
 # 安全维基 推荐
@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T04:24:03Z | Binary dynamic, static, and symbolic execution analysis tools for directed test generation | https://github.com/songge040701aliyunz/bitblaze-fuzzball | 0 | 0| 
 | 20220410T22:54:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2793 | 409| 
 | 20220410T16:05:16Z | A proof of concept tool that demonstrates virtual machines, dynamic taint analysis, and symbolic execution. | https://github.com/Flashes100/sjcappellac | 0 | 0| 
 | 20220410T14:29:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1942 | 550| 
@@ -127,7 +128,6 @@
 | 20220408T16:18:24Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 42 | 3| 
 | 20220408T12:21:27Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 83 | 14| 
 | 20220407T23:18:14Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 220 | 15| 
-| 20220407T15:45:27Z | SIFT: Symbolic Execution with Selective Thread Scheduling | https://github.com/sysrel/SIFT | 0 | 0| 
 
 
 # big4 on Github 推荐
