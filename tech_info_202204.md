@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220412T01:02:13Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 | 20220411T23:52:00Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 20 | 2| 
 | 20220411T22:00:55Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2517 | 162| 
 | 20220411T21:31:53Z | my collection of cp77mods | https://github.com/rfuzzo/cp77fuzzymods | 0 | 0| 
@@ -148,7 +149,6 @@
 | 20220411T20:03:08Z | Fuzzy Tiling Activations in JAX for Haiku | https://github.com/evanatyourservice/fuzzy-tiling-activations-jax | 0 | 0| 
 | 20220411T12:58:52Z | Simple fuzzy search | https://github.com/wouter2203/fuzzy-search | 163 | 24| 
 | 20220411T12:58:45Z | Null | https://github.com/Miminlaili/fuzzy-adventure | 0 | 0| 
-| 20220411T12:21:20Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 64 | 9| 
 
 
 
