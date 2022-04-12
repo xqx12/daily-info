@@ -38,13 +38,13 @@
 | 20220411T23:50:00Z | CVE-2022-22954 | CVE-2022-22954 is a server-side template injection vulnerability in the VMware Workspace ONE Access and Identity Manager | https://github.com/Vulnmachines/VMWare_CVE-2022-22954 | | 
 | 20220411T23:48:28Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220411T23:47:28Z | CVE-2022-22954 | Null | https://github.com/aniqfakhrul/CVE-2022-22954 | | 
-| 20220411T23:17:40Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220411T14:18:10Z | CVE-2022-22822 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827 | | 
 | 20220411T12:57:15Z | CVE-2021-46143 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143 | | 
 | 20220411T12:31:47Z | CVE-2021-45960 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960 | | 
 | 20220411T12:29:22Z | 未知编号 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE2021-46143 | | 
 | 20220411T12:17:50Z | CVE-2021-0333 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0333 | | 
 | 20220411T11:53:25Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
+| 20220411T11:49:25Z | 未知编号 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE2021-45960 | | 
 
 
 # klee on Github 推荐
