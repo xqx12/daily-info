@@ -78,7 +78,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220411T22:36:52Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 689 | 61| 
 | 20220411T21:26:22Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 3 | 1| 
 | 20220411T12:31:26Z | Simple python backdoor program | https://github.com/orkhan-alibayli/Backdoor | 0 | 0| 
 | 20220411T12:12:54Z | Fileless Discord remote access trojan | https://github.com/cchash/DiscoShell | 2 | 1| 
