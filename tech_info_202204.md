@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220412T01:44:12Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220412T01:38:05Z | CVE-2022-22954 | Null | https://github.com/aniqfakhrul/CVE-2022-22954 | | 
-| 20220412T01:36:58Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220412T01:21:50Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220412T00:25:03Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
 | 20220411T23:50:00Z | CVE-2022-22954 | CVE-2022-22954 is a server-side template injection vulnerability in the VMware Workspace ONE Access and Identity Manager | https://github.com/Vulnmachines/VMWare_CVE-2022-22954 | | 
@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220412T01:42:19Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 16 | 0| 
+| 20220412T01:43:10Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 17 | 0| 
 | 20220412T01:40:10Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 696 | 61| 
 | 20220411T21:26:22Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 3 | 1| 
 | 20220411T12:31:26Z | Simple python backdoor program | https://github.com/orkhan-alibayli/Backdoor | 0 | 0| 
