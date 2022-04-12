@@ -144,11 +144,11 @@
 | 20220412T10:23:04Z | Null | https://github.com/Yonghero/vue-fuzzy | 0 | 0| 
 | 20220412T09:53:37Z | Null | https://github.com/nyx-fuzz/spec-fuzzer | 19 | 6| 
 | 20220412T08:44:17Z | PV system using hardware with algorithm design with Simulink, Simulink model deploy with hardware | https://github.com/amitgedam500/PV_System_Fuzzy_Logic | 0 | 0| 
+| 20220412T07:47:20Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 10 | 1| 
 | 20220412T01:02:13Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 | 20220411T23:52:00Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 20 | 2| 
 | 20220411T22:00:55Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2517 | 162| 
 | 20220411T21:31:53Z | my collection of cp77mods | https://github.com/rfuzzo/cp77fuzzymods | 0 | 0| 
-| 20220411T21:16:47Z | (WIP) synchronization job between a SQL db and Google Admin to migrate user data and keep in sync, uses a local db to reduce API hits to Google after first execution. [demonstration purposes only] | https://github.com/joshbodnar/fuzzy-palm-tree | 0 | 0| 
 
 
 

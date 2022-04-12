@@ -112,6 +112,7 @@
 | 20220412T10:23:04Z | Null | https://github.com/Yonghero/vue-fuzzy | 0 | 0| 
 | 20220412T09:53:37Z | Null | https://github.com/nyx-fuzz/spec-fuzzer | 19 | 6| 
 | 20220412T08:44:17Z | PV system using hardware with algorithm design with Simulink, Simulink model deploy with hardware | https://github.com/amitgedam500/PV_System_Fuzzy_Logic | 0 | 0| 
+| 20220412T07:47:20Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 10 | 1| 
 | 20220412T01:02:13Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 
 
