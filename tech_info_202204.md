@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220412T01:07:19Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 11 | 0| 
+| 20220412T01:11:19Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 14 | 0| 
 | 20220412T00:43:16Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 692 | 61| 
 | 20220411T21:26:22Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 3 | 1| 
 | 20220411T12:31:26Z | Simple python backdoor program | https://github.com/orkhan-alibayli/Backdoor | 0 | 0| 
@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220411T21:34:45Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 7 | 0| 
+| 20220412T01:10:12Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 8 | 0| 
 | 20220411T19:34:15Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 270 | 18| 
 | 20220411T12:29:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2794 | 409| 
 | 20220411T04:24:03Z | Binary dynamic, static, and symbolic execution analysis tools for directed test generation | https://github.com/songge040701aliyunz/bitblaze-fuzzball | 0 | 0| 

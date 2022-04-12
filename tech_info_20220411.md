@@ -88,7 +88,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220411T21:34:45Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 7 | 0| 
 | 20220411T19:34:15Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 270 | 18| 
 | 20220411T12:29:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2794 | 409| 
 | 20220411T04:24:03Z | Binary dynamic, static, and symbolic execution analysis tools for directed test generation | https://github.com/songge040701aliyunz/bitblaze-fuzzball | 0 | 0| 
