@@ -103,8 +103,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220412T01:50:00Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 18 | 0| 
 | 20220412T01:46:37Z | This repo contains the notebook of backdoor attack on textual dataset | https://github.com/MuhammadUsman94/AI_For_CyberSecurity | 0 | 0| 
-| 20220412T01:43:10Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 17 | 0| 
 | 20220412T01:40:10Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 696 | 61| 
 | 20220411T21:26:22Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 3 | 1| 
 | 20220411T12:31:26Z | Simple python backdoor program | https://github.com/orkhan-alibayli/Backdoor | 0 | 0| 
