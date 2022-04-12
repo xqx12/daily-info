@@ -107,11 +107,11 @@
 | 20220411T21:31:53Z | my collection of cp77mods | https://github.com/rfuzzo/cp77fuzzymods | 0 | 0| 
 | 20220411T21:16:47Z | (WIP) synchronization job between a SQL db and Google Admin to migrate user data and keep in sync, uses a local db to reduce API hits to Google after first execution. [demonstration purposes only] | https://github.com/joshbodnar/fuzzy-palm-tree | 0 | 0| 
 | 20220411T21:15:22Z | Null | https://github.com/VakhshooriEhsan/Fuzzy-system2020-Project-Covid-19-analysis | 0 | 0| 
+| 20220411T20:52:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7236 | 1546| 
 | 20220411T20:03:08Z | Fuzzy Tiling Activations in JAX for Haiku | https://github.com/evanatyourservice/fuzzy-tiling-activations-jax | 0 | 0| 
 | 20220411T12:58:52Z | Simple fuzzy search | https://github.com/wouter2203/fuzzy-search | 163 | 24| 
 | 20220411T12:58:45Z | Null | https://github.com/Miminlaili/fuzzy-adventure | 0 | 0| 
 | 20220411T12:21:20Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 64 | 9| 
-| 20220411T10:49:47Z | Null | https://github.com/SopWu726/fuzzy-doodle | 0 | 0| 
 
 
 
