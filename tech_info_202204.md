@@ -17,6 +17,8 @@
 | 20220411 | Checkpoint 研究团队在 Google Play 市场发现一个伪装称反病毒 App 的 Android Stealer - Sharkbot | http://research.checkpoint.com/2022/google-is-on-guard-sharks-shall-not-pass/| 
 | 20220411 | Chrome Mojo 组件的沙箱逃逸漏洞分析 | https://sec.today/pulses/20c9446f-268d-4ce4-98af-7bd3d719b0c5/| 
 | 20220411 | Chrome Mojo 组件的沙箱逃逸漏洞分析 | https://mp.weixin.qq.com/s/tGwCwOQ8eAwm26fHXTCy5A| 
+| 20220411 | Introduction to Exploit Development | https://samsclass.info/127/ED_2020.shtml| 
+| 20220411 | 技术社区在线会议视频：探讨Windows11的安全问题 | https://www.youtube.com/watch?v=xvzM1xRFfmY&feature=youtu.be| 
 | 20220410 | 防火墙分析: 使用图形化的工具方法。 | http://diablohorn.com/2022/04/09/firewall-analysis-a-portable-graph-based-approach/| 
 | 20220407 | Linux下无文件Java agent探究 | https://tttang.com/archive/1525/| 
 | 20220406 | 基于 AR 设备中肌电图传感器数据（EMG）的 Keylogging 侧信道攻击 | https://tuprints.ulb.tu-darmstadt.de/20660/1/myo_paper.pdf| 
@@ -24,8 +26,6 @@
 | 20220406 | Breaking SecureBoot With SMM | https://www.youtube.com/watch?v=ge_TnLfTv8I| 
 | 20220406 | 开源企业级 VPN - Pritunl 的 Client 被发现本地提权漏洞 | https://rhinosecuritylabs.com/penetration-testing/cve-2022-25372-local-privilege-escalation-in-pritunl-vpn-client/| 
 | 20220406 | Windows 的 KUSER_SHARED_DATA 结构体要支持 ASLR 了 | https://msrc-blog.microsoft.com/2022/04/05/randomizing-the-kuser_shared_data-structure-on-windows/| 
-| 20220406 | Performing and Preventing Attacks on Azure Cloud Environments through Azure DevOps | http://labs.f-secure.com/blog/performing-and-preventing-attacks-on-azure-cloud-environments-through-azure-devops/| 
-| 20220406 | Frida Internal - Part 1: 架构、Gum 与 V8 | http://evilpan.com/2022/04/05/frida-internal/| 
 
 
 # 安全维基 推荐
@@ -35,27 +35,27 @@
 | 20220411 | CS-Notes | http://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95=| 
 | 20220411 | 智能家居平台中的缺陷API利用及其修复 | https://mp.weixin.qq.com/s/2D0hg3bL92q365UnRu6tgA| 
 | 20220411 | 利用通信协议反向监控 C&C 服务器 | https://mp.weixin.qq.com/s/pxU7aPrPzsNx8aAQdPZK4Q| 
+| 20220411 | 以保护个人隐私为目的的软件程序及供应商列表 | https://www.ddosi.org/privacy-2/| 
+| 20220411 | 2022年保护数字安全和隐私的300多个技巧清单 | https://www.ddosi.org/privacy/| 
 | 20220408 | 通过覆盖Powershell cmdlet方式进行权限维持 | https://mp.weixin.qq.com/s?__biz=MzkxMTE5MjQ3NA==&mid=2247483781&idx=1&sn=721f1202f22953e2d80c0aaca0224a81&chksm=c11eb970f669306635bf759a8a846271bd864ed2522a23ebfcb078fecf925d440a84e82b7fb9#rd| 
 | 20220408 | 漂亮侧信道：从timeless attack到pipeline的放大攻击 | https://mp.weixin.qq.com/s/N6CWX9ZVnbyeYBIibwb0SA| 
 | 20220408 | MITRE ATT&CKcon 3.0 Presentations on SlideShare | https://www.slideshare.net/MITREATTACK/presentations| 
 | 20220408 | 安全快报 , 美国国土安全部负责人表示，海事部门缺乏网络安全 | https://mp.weixin.qq.com/s/_fvBdu_lJyQa7hAxeq_bGQ| 
-| 20220407 | 元宇宙与国家数据安全：构建生态化治理体系的挑战与趋势 | https://mp.weixin.qq.com/s/9ZFhKumGOYfNU7Tv8zY59g| 
-| 20220407 | APT取证分析中的数据压缩 | https://mp.weixin.qq.com/s/8z8eYzPsLiWrQOsvByMnJw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220411T23:50:00Z | CVE-2022-22954 | CVE-2022-22954 is a server-side template injection vulnerability in the VMware Workspace ONE Access and Identity Manager | https://github.com/Vulnmachines/VMWare_CVE-2022-22954 | | 
+| 20220411T23:48:28Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
+| 20220411T23:47:28Z | CVE-2022-22954 | Null | https://github.com/aniqfakhrul/CVE-2022-22954 | | 
+| 20220411T23:17:40Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
+| 20220411T14:18:10Z | CVE-2022-22822 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827 | | 
 | 20220411T12:57:15Z | CVE-2021-46143 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143 | | 
-| 20220411T12:34:12Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
 | 20220411T12:31:47Z | CVE-2021-45960 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-45960 | | 
 | 20220411T12:29:22Z | 未知编号 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE2021-46143 | | 
 | 20220411T12:17:50Z | CVE-2021-0333 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0333 | | 
 | 20220411T11:53:25Z | CVE-2022-28281 | PoC for CVE-2022-28281 a Mozilla Firefox Out of bounds write. | https://github.com/0vercl0k/CVE-2022-28281 | | 
-| 20220411T11:49:25Z | 未知编号 | Null | https://github.com/nanopathi/external_expat_AOSP10_r33_CVE2021-45960 | | 
-| 20220411T10:38:39Z | CVE-2021-0314 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0314 | | 
-| 20220411T10:38:18Z | CVE-2020-0439 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0439 | | 
-| 20220411T09:51:32Z | CVE-2020-0138 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33-CVE-2020-0138 | | 
 
 
 # klee on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220411T12:58:12Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Hackage18/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220411T12:55:38Z | Null | https://github.com/explo1t-tech/exploit-tech-2 | 0 | 0| 
-| 20220411T12:55:06Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Hackage18/Hacking-Tools-Pack | 0 | 0| 
-| 20220411T12:32:19Z | Null | https://github.com/explo1t-tech/exploit-tech-1 | 0 | 0| 
-| 20220411T12:31:44Z | Null | https://github.com/razordeveloper/Silent-PDF-Exploit-2022 | 1 | 0| 
-| 20220411T12:15:14Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Shalehack/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220411T12:09:55Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Shalehack/Hacking-Tools-Pack | 0 | 0| 
-| 20220411T12:01:32Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1177 | 271| 
-| 20220411T11:58:59Z | A repository for learning various exploitation techniques. | https://github.com/kwon99/how2pwn | 0 | 0| 
-| 20220411T11:54:04Z | Nginx 18.1 04/09/22 zero-day repo | https://github.com/AgainstTheWest/NginxDay | 190 | 20| 
+| 20220411T23:57:06Z | Some exploits for my ctf resolutions | https://github.com/Arthur-Juan/ctf-exploits | 0 | 0| 
+| 20220411T23:38:46Z | Null | https://github.com/guilletmax/firmware-exploit | 0 | 0| 
+| 20220411T23:29:37Z | Null | https://github.com/VisualGitub/CoolSploitExploit | 0 | 0| 
+| 20220411T22:14:06Z | break out of restraints | https://github.com/nevadex/exploits1 | 0 | 0| 
+| 20220411T22:02:52Z | Null | https://github.com/kartikeynick/BufferOverflowSEED_exploit | 0 | 0| 
+| 20220411T20:36:56Z | Danish Exploit Collection | https://github.com/H4xton/Exploit-Collection | 2 | 0| 
+| 20220411T19:53:47Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 38 | 5| 
+| 20220411T16:49:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10990 | 1923| 
+| 20220411T16:17:13Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BF | 0 | 0| 
+| 20220411T13:12:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 358 | 104| 
 
 
 # backdoor on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T23:52:00Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 20 | 2| 
+| 20220411T22:00:55Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2517 | 162| 
+| 20220411T21:31:53Z | my collection of cp77mods | https://github.com/rfuzzo/cp77fuzzymods | 0 | 0| 
+| 20220411T21:16:47Z | (WIP) synchronization job between a SQL db and Google Admin to migrate user data and keep in sync, uses a local db to reduce API hits to Google after first execution. [demonstration purposes only] | https://github.com/joshbodnar/fuzzy-palm-tree | 0 | 0| 
+| 20220411T21:15:22Z | Null | https://github.com/VakhshooriEhsan/Fuzzy-system2020-Project-Covid-19-analysis | 0 | 0| 
+| 20220411T20:03:08Z | Fuzzy Tiling Activations in JAX for Haiku | https://github.com/evanatyourservice/fuzzy-tiling-activations-jax | 0 | 0| 
 | 20220411T12:58:52Z | Simple fuzzy search | https://github.com/wouter2203/fuzzy-search | 163 | 24| 
 | 20220411T12:58:45Z | Null | https://github.com/Miminlaili/fuzzy-adventure | 0 | 0| 
 | 20220411T12:21:20Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 64 | 9| 
 | 20220411T10:49:47Z | Null | https://github.com/SopWu726/fuzzy-doodle | 0 | 0| 
-| 20220411T10:02:13Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 819 | 87| 
-| 20220411T09:19:56Z | Null | https://github.com/fmeum/FuzzTestDemo | 0 | 0| 
-| 20220411T07:54:26Z | Project repository of Fuzzy Cell Balancer. Implementing Li-Ion chemistry based active cell balancing. Current models are designed, simulated in MATLAB Simulink.  | https://github.com/NavadeepGaneshU/Fuzzy_CellBalancer | 0 | 0| 
-| 20220411T06:41:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7236 | 1546| 
-| 20220411T06:09:05Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1507 | 289| 
-| 20220411T01:52:06Z | Metode Fuzzy Mamdani | https://github.com/upimariani/spk_fuzzy | 0 | 1| 
 
 
 
