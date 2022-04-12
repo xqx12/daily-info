@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220411T12:38:23Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 684 | 61| 
+| 20220412T00:00:21Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 9 | 0| 
+| 20220411T22:36:52Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 689 | 61| 
+| 20220411T21:26:22Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 3 | 1| 
 | 20220411T12:31:26Z | Simple python backdoor program | https://github.com/orkhan-alibayli/Backdoor | 0 | 0| 
 | 20220411T12:12:54Z | Fileless Discord remote access trojan | https://github.com/cchash/DiscoShell | 2 | 1| 
 | 20220411T08:14:53Z | Null | https://github.com/THUYimingLi/BackdoorBox | 35 | 10| 
 | 20220411T08:11:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 455 | 87| 
 | 20220410T22:34:40Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 10 | 4| 
-| 20220410T22:17:37Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 6 | 0| 
 | 20220410T22:05:28Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/persistance_backdoor | 0 | 0| 
 | 20220410T19:09:36Z | The most beautiful Tkinter APP, This is a Simple Tkinter based Chat-App built from scrach for my Students. | https://github.com/jugurtha114/Tkinter_Chat-App | 1 | 0| 
-| 20220410T16:43:16Z | AnyGen -  Any Generators Downloader , PayLoads, Reverse Shells, BackDoors, and more.. | https://github.com/Anlominus/AnyGen | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T21:34:45Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 7 | 0| 
+| 20220411T19:34:15Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 270 | 18| 
 | 20220411T12:29:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2794 | 409| 
 | 20220411T04:24:03Z | Binary dynamic, static, and symbolic execution analysis tools for directed test generation | https://github.com/songge040701aliyunz/bitblaze-fuzzball | 0 | 0| 
 | 20220410T16:05:16Z | A proof of concept tool that demonstrates virtual machines, dynamic taint analysis, and symbolic execution. | https://github.com/Flashes100/sjcappellac | 0 | 0| 
 | 20220410T14:29:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1942 | 550| 
 | 20220409T18:31:11Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 216 | 52| 
-| 20220408T18:26:42Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 267 | 18| 
 | 20220408T17:44:10Z | Symbolic Execution Engine for PHP | https://github.com/smba/oak | 2 | 2| 
 | 20220408T16:18:24Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 42 | 3| 
 | 20220408T12:21:27Z | Slides and Material for %SymbolicExecutionDemystified% Presentation @ Insomni%Hack 2022 | https://github.com/JannisKirschner/SymbolicExecutionDemystified | 83 | 14| 
-| 20220407T23:18:14Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 220 | 15| 
 
 
 # big4 on Github 推荐

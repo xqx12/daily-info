@@ -78,7 +78,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220411T12:38:23Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 684 | 61| 
+| 20220411T22:36:52Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 689 | 61| 
+| 20220411T21:26:22Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 3 | 1| 
 | 20220411T12:31:26Z | Simple python backdoor program | https://github.com/orkhan-alibayli/Backdoor | 0 | 0| 
 | 20220411T12:12:54Z | Fileless Discord remote access trojan | https://github.com/cchash/DiscoShell | 2 | 1| 
 | 20220411T08:14:53Z | Null | https://github.com/THUYimingLi/BackdoorBox | 35 | 10| 
@@ -88,6 +89,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220411T21:34:45Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 7 | 0| 
+| 20220411T19:34:15Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 270 | 18| 
 | 20220411T12:29:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2794 | 409| 
 | 20220411T04:24:03Z | Binary dynamic, static, and symbolic execution analysis tools for directed test generation | https://github.com/songge040701aliyunz/bitblaze-fuzzball | 0 | 0| 
 
