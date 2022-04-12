@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220412T11:42:16Z | Null | https://github.com/HoboSTD/fuzzer | 0 | 0| 
+| 20220412T10:43:29Z | Playground repository to test various workflows with github actions | https://github.com/arisKoutsou/fuzzme | 0 | 0| 
+| 20220412T10:23:04Z | Null | https://github.com/Yonghero/vue-fuzzy | 0 | 0| 
+| 20220412T09:53:37Z | Null | https://github.com/nyx-fuzz/spec-fuzzer | 19 | 6| 
+| 20220412T08:44:17Z | PV system using hardware with algorithm design with Simulink, Simulink model deploy with hardware | https://github.com/amitgedam500/PV_System_Fuzzy_Logic | 0 | 0| 
 | 20220412T01:02:13Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 | 20220411T23:52:00Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 20 | 2| 
 | 20220411T22:00:55Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2517 | 162| 
 | 20220411T21:31:53Z | my collection of cp77mods | https://github.com/rfuzzo/cp77fuzzymods | 0 | 0| 
 | 20220411T21:16:47Z | (WIP) synchronization job between a SQL db and Google Admin to migrate user data and keep in sync, uses a local db to reduce API hits to Google after first execution. [demonstration purposes only] | https://github.com/joshbodnar/fuzzy-palm-tree | 0 | 0| 
-| 20220411T21:15:22Z | Null | https://github.com/VakhshooriEhsan/Fuzzy-system2020-Project-Covid-19-analysis | 0 | 0| 
-| 20220411T20:52:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7236 | 1547| 
-| 20220411T20:03:08Z | Fuzzy Tiling Activations in JAX for Haiku | https://github.com/evanatyourservice/fuzzy-tiling-activations-jax | 0 | 0| 
-| 20220411T12:58:52Z | Simple fuzzy search | https://github.com/wouter2203/fuzzy-search | 163 | 24| 
-| 20220411T12:58:45Z | Null | https://github.com/Miminlaili/fuzzy-adventure | 0 | 0| 
 
 
 

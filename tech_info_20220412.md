@@ -107,6 +107,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220412T11:42:16Z | Null | https://github.com/HoboSTD/fuzzer | 0 | 0| 
+| 20220412T10:43:29Z | Playground repository to test various workflows with github actions | https://github.com/arisKoutsou/fuzzme | 0 | 0| 
+| 20220412T10:23:04Z | Null | https://github.com/Yonghero/vue-fuzzy | 0 | 0| 
+| 20220412T09:53:37Z | Null | https://github.com/nyx-fuzz/spec-fuzzer | 19 | 6| 
+| 20220412T08:44:17Z | PV system using hardware with algorithm design with Simulink, Simulink model deploy with hardware | https://github.com/amitgedam500/PV_System_Fuzzy_Logic | 0 | 0| 
 | 20220412T01:02:13Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
 
 
