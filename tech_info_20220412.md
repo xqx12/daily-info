@@ -37,6 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220412T12:25:22Z | CVE-2020-0188 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188 | | 
 | 20220412T12:14:22Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
 | 20220412T12:06:58Z | CVE-2021-1732 | 对1909下windows版本的EXP进行分析，并对代码添加调试和注释 | https://github.com/ExploitCN/CVE-2021-1732-EXP- | | 
 | 20220412T11:47:28Z | CVE-2021-0688 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688 | | 
@@ -45,7 +46,6 @@
 | 20220412T10:56:21Z | CVE-2021-0600 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0600 | | 
 | 20220412T10:56:10Z | CVE-2022-1162 | Null | https://github.com/Greenwolf/CVE-2022-1162 | | 
 | 20220412T09:37:43Z | CVE-2022-22954 | CVE-2022-22954 Açığı test etme | https://github.com/MSeymenD/CVE-2022-22954-Testi | | 
-| 20220412T08:59:01Z | CVE-2020-0188 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188 | | 
 | 20220412T08:39:34Z | CVE-2022-22954 | Null | https://github.com/mumu2020629/-CVE-2022-22954-scanner | | 
 
 
@@ -107,6 +107,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220412T12:26:37Z | Not New to Github. I just lied.  | https://github.com/NandlalP/fuzzy-telegram | 0 | 0| 
 | 20220412T11:42:16Z | Null | https://github.com/HoboSTD/fuzzer | 0 | 0| 
 | 20220412T10:43:29Z | Playground repository to test various workflows with github actions | https://github.com/arisKoutsou/fuzzme | 0 | 0| 
 | 20220412T10:23:04Z | Null | https://github.com/Yonghero/vue-fuzzy | 0 | 0| 
