@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220412T00:26:37Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
+| 20220412T00:33:25Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220412T00:25:03Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
 | 20220411T23:50:00Z | CVE-2022-22954 | CVE-2022-22954 is a server-side template injection vulnerability in the VMware Workspace ONE Access and Identity Manager | https://github.com/Vulnmachines/VMWare_CVE-2022-22954 | | 
 | 20220411T23:48:28Z | CVE-2021-4034 | Proof of concept for pwnkit vulnerability | https://github.com/PwnFunction/CVE-2021-4034 | | 
