@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220412T00:30:37Z | Null | https://github.com/selmer512/x86exploit | 0 | 0| 
 | 20220411T23:57:06Z | Some exploits for my ctf resolutions | https://github.com/Arthur-Juan/ctf-exploits | 0 | 0| 
 | 20220411T23:38:46Z | Null | https://github.com/guilletmax/firmware-exploit | 0 | 0| 
 | 20220411T23:29:37Z | Null | https://github.com/VisualGitub/CoolSploitExploit | 0 | 0| 
@@ -97,13 +98,12 @@
 | 20220411T19:53:47Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 38 | 5| 
 | 20220411T16:49:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10990 | 1923| 
 | 20220411T16:17:13Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BF | 0 | 0| 
-| 20220411T13:12:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 358 | 104| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220412T00:04:43Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 690 | 61| 
+| 20220412T00:30:48Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 691 | 61| 
 | 20220412T00:00:21Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 9 | 0| 
 | 20220411T21:26:22Z | Smooth penetration, more control, better speed and performance. 💣 blackdoor | https://github.com/s3q/blackdoor | 3 | 1| 
 | 20220411T12:31:26Z | Simple python backdoor program | https://github.com/orkhan-alibayli/Backdoor | 0 | 0| 
