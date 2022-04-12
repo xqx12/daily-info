@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220412T01:58:32Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Rxploit | 6 | 1| 
 | 20220412T01:56:57Z | This is the official implementation of the paper: ` Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.% | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 19 | 0| 
 | 20220412T01:46:37Z | This repo contains the notebook of backdoor attack on textual dataset | https://github.com/MuhammadUsman94/AI_For_CyberSecurity | 0 | 0| 
 | 20220412T01:40:10Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 696 | 61| 
@@ -112,7 +113,6 @@
 | 20220411T08:14:53Z | Null | https://github.com/THUYimingLi/BackdoorBox | 35 | 10| 
 | 20220411T08:11:55Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 455 | 87| 
 | 20220410T22:34:40Z | Official Implementation of ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 10 | 4| 
-| 20220410T22:05:28Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/persistance_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
