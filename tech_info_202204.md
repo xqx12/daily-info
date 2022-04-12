@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220412T12:14:22Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
 | 20220412T12:06:58Z | CVE-2021-1732 | 对1909下windows版本的EXP进行分析，并对代码添加调试和注释 | https://github.com/ExploitCN/CVE-2021-1732-EXP- | | 
 | 20220412T11:47:28Z | CVE-2021-0688 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688 | | 
-| 20220412T11:34:31Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
 | 20220412T11:05:41Z | CVE-2021-0506 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0506 | | 
 | 20220412T11:00:56Z | CVE-2022-1175 | Null | https://github.com/Greenwolf/CVE-2022-1175 | | 
 | 20220412T10:56:21Z | CVE-2021-0600 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0600 | | 
