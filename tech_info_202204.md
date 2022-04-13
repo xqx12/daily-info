@@ -46,7 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220413T00:15:56Z | CVE-2022-22965 | exploitation script tryhackme  | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | | 
+| 20220413T00:19:07Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
+| 20220413T00:18:45Z | CVE-2022-22965 | exploitation script tryhackme  | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | | 
 | 20220412T22:29:14Z | CVE-2022-22954 | PoC for CVE-2022-22954 - VMware Workspace ONE Access Freemarker Server-Side Template Injection | https://github.com/DrorDvash/CVE-2022-22954_VMware_PoC | | 
 | 20220412T16:30:53Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
 | 20220412T14:25:59Z | CVE-2022-22954 | 提供批量扫描URL以及执行命令功能。Workspace ONE Access 模板注入漏洞，可执行任意代码 | https://github.com/jax7sec/CVE-2022-22954 | | 
@@ -55,7 +56,6 @@
 | 20220412T12:06:58Z | CVE-2021-1732 | 对1909下windows版本的EXP进行分析，并对代码添加调试和注释 | https://github.com/ExploitCN/CVE-2021-1732-EXP- | | 
 | 20220412T11:47:28Z | CVE-2021-0688 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688 | | 
 | 20220412T11:05:41Z | CVE-2021-0506 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0506 | | 
-| 20220412T11:00:56Z | CVE-2022-1175 | Null | https://github.com/Greenwolf/CVE-2022-1175 | | 
 
 
 # klee on Github 推荐
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220413T00:15:56Z | exploitation script tryhackme  | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | 0 | 0| 
+| 20220413T00:18:45Z | exploitation script tryhackme  | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | 0 | 0| 
 | 20220412T23:49:48Z | Null | https://github.com/nehemiasmercauunc/exploits-siscom | 0 | 0| 
 | 20220412T23:03:04Z | RCE exploit via prototype pollution vulnerability | https://github.com/samhaxr/Prototype-pollution-exploit-ctf | 0 | 0| 
 | 20220412T22:46:23Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example. This tool will check, exploit and restore password to original state | https://github.com/sho-luv/zerologon | 8 | 2| 
