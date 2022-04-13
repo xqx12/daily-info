@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220413T12:57:46Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
 | 20220413T12:41:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 550| 
 | 20220413T12:37:50Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 313 | 18| 
 | 20220413T07:49:12Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 773 | 147| 
@@ -127,7 +128,6 @@
 | 20220412T03:56:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 217 | 52| 
 | 20220411T04:24:03Z | Binary dynamic, static, and symbolic execution analysis tools for directed test generation | https://github.com/songge040701aliyunz/bitblaze-fuzzball | 0 | 0| 
 | 20220410T16:05:16Z | A proof of concept tool that demonstrates virtual machines, dynamic taint analysis, and symbolic execution. | https://github.com/Flashes100/sjcappellac | 0 | 0| 
-| 20220408T17:44:10Z | Symbolic Execution Engine for PHP | https://github.com/smba/oak | 2 | 2| 
 
 
 # big4 on Github 推荐
