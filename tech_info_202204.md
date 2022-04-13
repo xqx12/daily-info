@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220413T01:12:51Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3739 | 636| 
 | 20220413T00:21:46Z | Roblox exploit! (scanned as dangerous) | https://github.com/BroMemeGang/Exploit | 0 | 0| 
 | 20220413T00:18:45Z | exploitation script tryhackme  | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | 0 | 0| 
 | 20220412T23:49:48Z | Null | https://github.com/nehemiasmercauunc/exploits-siscom | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220412T20:30:44Z | R package for exploiting causal structure of phylogenetic trees | https://github.com/rdinnager/causaltrees | 0 | 0| 
 | 20220412T15:49:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10995 | 1924| 
 | 20220412T12:21:42Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 5 | 0| 
-| 20220412T11:57:33Z | This repository contains a set of rules samples that can be directly used with McAfee Endpoint Security, in the Exploit Prevention policy. | https://github.com/mcafee-enterprise/ExpertRules | 0 | 0| 
 
 
 # backdoor on Github 推荐
