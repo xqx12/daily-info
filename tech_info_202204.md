@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220413T00:21:46Z | Roblox exploit! (scanned as dangerous) | https://github.com/BroMemeGang/Exploit | 0 | 0| 
 | 20220413T00:18:45Z | exploitation script tryhackme  | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | 0 | 0| 
 | 20220412T23:49:48Z | Null | https://github.com/nehemiasmercauunc/exploits-siscom | 0 | 0| 
 | 20220412T23:03:04Z | RCE exploit via prototype pollution vulnerability | https://github.com/samhaxr/Prototype-pollution-exploit-ctf | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220412T15:49:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10995 | 1924| 
 | 20220412T12:21:42Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 5 | 0| 
 | 20220412T11:57:33Z | This repository contains a set of rules samples that can be directly used with McAfee Endpoint Security, in the Exploit Prevention policy. | https://github.com/mcafee-enterprise/ExpertRules | 0 | 0| 
-| 20220412T11:36:52Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Micalman01/GH-Hacking-Tool-Kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
