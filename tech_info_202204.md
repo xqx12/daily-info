@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220413T01:34:52Z | CVE-2022-22954 | PoC for CVE-2022-22954 - VMware Workspace ONE Access Freemarker Server-Side Template Injection | https://github.com/DrorDvash/CVE-2022-22954_VMware_PoC | | 
 | 20220413T00:19:07Z | cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | | 
 | 20220413T00:18:45Z | CVE-2022-22965 | exploitation script tryhackme  | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | | 
-| 20220412T22:29:14Z | CVE-2022-22954 | PoC for CVE-2022-22954 - VMware Workspace ONE Access Freemarker Server-Side Template Injection | https://github.com/DrorDvash/CVE-2022-22954_VMware_PoC | | 
 | 20220412T16:30:53Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
 | 20220412T14:25:59Z | CVE-2022-22954 | 提供批量扫描URL以及执行命令功能。Workspace ONE Access 模板注入漏洞，可执行任意代码 | https://github.com/jax7sec/CVE-2022-22954 | | 
 | 20220412T13:26:25Z | CVE-2021-41773 | Null | https://github.com/Chocapikk/CVE-2021-41773 | | 
