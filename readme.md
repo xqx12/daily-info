@@ -97,10 +97,8 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220412T23:35:15Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 273 | 18| 
-| 20220412T18:17:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2798 | 409| 
 | 20220412T16:21:41Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 10 | 0| 
 | 20220412T13:06:16Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 63 | 13| 
-| 20220412T08:55:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1943 | 550| 
 | 20220412T03:56:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 217 | 52| 
 
 
