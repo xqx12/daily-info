@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220413T12:51:46Z | CVE-2021-0316 | Null | https://github.com/Satheesh575555/system_bt_AOSP_10_r33_CVE-2021-0316 | | 
 | 20220413T12:05:43Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220413T11:48:16Z | CVE-2022-21907 | A REAL DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | | 
 | 20220413T09:38:19Z | CVE-2022-1175 | Null | https://github.com/Greenwolf/CVE-2022-1175 | | 
@@ -55,7 +56,6 @@
 | 20220413T07:42:19Z | CVE-2022-26809 | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | | 
 | 20220413T05:36:00Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
 | 20220413T05:05:05Z | CVE-2022-22954 | PoC for CVE-2022-22954 - VMware Workspace ONE Access Freemarker Server-Side Template Injection | https://github.com/DrorDvash/CVE-2022-22954_VMware_PoC | | 
-| 20220413T04:28:45Z | CVE-2022-22954 | VMware Workspace ONE Access远程代码执行漏洞 / Code By:Jun_sheng | https://github.com/Jun-5heng/CVE-2022-22954 | | 
 
 
 # klee on Github 推荐
