@@ -139,7 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220413T01:13:31Z | Definir o valor da Gorjeta em um restaurante com base na qualidade do serviço e da comida usando a lógica Fuzzy ou nebulosa | https://github.com/Jordy-Rodrigues/L-gica-Fuzzy | 1 | 0| 
+| 20220413T01:14:07Z | Definir o valor da Gorjeta em um restaurante com base na qualidade do serviço e da comida usando a lógica Fuzzy ou nebulosa | https://github.com/Jordy-Rodrigues/L-gica-Fuzzy | 1 | 0| 
 | 20220412T23:42:11Z | First Repo | https://github.com/erc2709/fuzzy-guacamole | 0 | 0| 
 | 20220412T23:10:42Z | Null | https://github.com/Aarongs79/fuzzy-potato | 0 | 0| 
 | 20220412T22:53:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7240 | 1548| 
