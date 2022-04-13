@@ -32,27 +32,29 @@
 | 20220412 | DecoyMini: 智能仿真与攻击诱捕工具 | https://github.com/decoymini/DecoyMini| 
 | 20220412 | 等保、分保、关保、密评四道防线守护网络信息安全 | https://mp.weixin.qq.com/s/zLBjiW9iLx83GjCNV07Utw| 
 | 20220412 | 关于开展“清朗·2022年算法综合治理”专项行动 | http://www.cac.gov.cn/2022-04/08/c_1651028524542025.htm| 
+| 20220412 | 区块链黑暗森林自救手册 | https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220412T12:56:29Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
+| 20220412T22:29:14Z | CVE-2022-22954 | PoC for CVE-2022-22954 - VMware Workspace ONE Access Freemarker Server-Side Template Injection | https://github.com/DrorDvash/CVE-2022-22954_VMware_PoC | | 
+| 20220412T16:30:53Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
+| 20220412T14:25:59Z | CVE-2022-22954 | 提供批量扫描URL以及执行命令功能。Workspace ONE Access 模板注入漏洞，可执行任意代码 | https://github.com/jax7sec/CVE-2022-22954 | | 
+| 20220412T13:26:25Z | CVE-2021-41773 | Null | https://github.com/Chocapikk/CVE-2021-41773 | | 
 | 20220412T12:28:05Z | CVE-2020-0188 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188 | | 
 | 20220412T12:06:58Z | CVE-2021-1732 | 对1909下windows版本的EXP进行分析，并对代码添加调试和注释 | https://github.com/ExploitCN/CVE-2021-1732-EXP- | | 
 | 20220412T11:47:28Z | CVE-2021-0688 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688 | | 
 | 20220412T11:05:41Z | CVE-2021-0506 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0506 | | 
 | 20220412T11:00:56Z | CVE-2022-1175 | Null | https://github.com/Greenwolf/CVE-2022-1175 | | 
 | 20220412T10:56:21Z | CVE-2021-0600 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0600 | | 
-| 20220412T10:56:10Z | CVE-2022-1162 | Null | https://github.com/Greenwolf/CVE-2022-1162 | | 
-| 20220412T09:37:43Z | CVE-2022-22954 | CVE-2022-22954 Açığı test etme | https://github.com/MSeymenD/CVE-2022-22954-Testi | | 
-| 20220412T08:39:34Z | CVE-2022-22954 | Null | https://github.com/mumu2020629/-CVE-2022-22954-scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220412T12:47:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5740 | 213| 
+| 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
+| 20220412T16:16:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5743 | 213| 
 | 20220412T08:55:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1943 | 550| 
 
 
@@ -80,14 +82,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220412T12:55:00Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 708 | 64| 
-| 20220412T12:42:40Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 31 | 0| 
+| 20220412T23:28:29Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 718 | 66| 
+| 20220412T21:26:28Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 21 | 5| 
+| 20220412T21:09:37Z | Null | https://github.com/11Tanmay/Reverse_Access_Backdoor | 0 | 0| 
+| 20220412T20:51:13Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 35 | 2| 
+| 20220412T15:32:21Z | Null | https://github.com/Indigo6415/backdoor | 0 | 0| 
+| 20220412T14:28:12Z | Python GUI tool for crawling and scanning given website. It scans for various vulnerabilities like XSS,backdoor possibility,LFI, cookies and their security, most famous SQLi (SQL injection) and many more. | https://github.com/Alphx-rgb/Vulnerability-Scanner | 0 | 0| 
+| 20220412T13:25:26Z | Null | https://github.com/ph-luffy/Backdoor | 3 | 5| 
 | 20220412T09:40:16Z | Null | https://github.com/THUYimingLi/BackdoorBox | 36 | 10| 
 | 20220412T07:14:08Z | proftpd_133c_backdoor exploit on ubuntu machine | https://github.com/Sirisha-gorle/Hack-into-Ubuntu-Machine | 0 | 0| 
 | 20220412T06:11:46Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1611 | 387| 
-| 20220412T02:36:33Z | Null | https://github.com/Aushio/linux_backdoor | 0 | 0| 
-| 20220412T01:58:32Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Rxploit | 6 | 1| 
-| 20220412T01:46:37Z | This repo contains the notebook of backdoor attack on textual dataset | https://github.com/MuhammadUsman94/AI_For_CyberSecurity | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
