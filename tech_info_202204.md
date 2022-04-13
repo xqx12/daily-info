@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220412T23:28:29Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 718 | 66| 
+| 20220413T00:07:14Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 719 | 66| 
 | 20220412T21:26:28Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 21 | 5| 
 | 20220412T21:09:37Z | Null | https://github.com/11Tanmay/Reverse_Access_Backdoor | 0 | 0| 
 | 20220412T20:51:13Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 35 | 2| 
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220412T23:42:11Z | First Repo | https://github.com/erc2709/fuzzy-guacamole | 0 | 0| 
+| 20220412T23:10:42Z | Null | https://github.com/Aarongs79/fuzzy-potato | 0 | 0| 
+| 20220412T22:53:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7240 | 1548| 
+| 20220412T22:14:00Z | Null | https://github.com/mmason930/fuzzy-match-csv | 0 | 0| 
+| 20220412T21:13:54Z | Null | https://github.com/FatherRSR/fuzzy-broccoli | 0 | 0| 
+| 20220412T20:35:41Z | Null | https://github.com/leobia2009/fuzzy-octo-goggles | 0 | 0| 
+| 20220412T20:21:57Z | Search a JSON document by path, content, and inferred content | https://github.com/jsonhero-io/fuzzy-json-search | 0 | 0| 
+| 20220412T19:00:16Z | Null | https://github.com/KetoIT/fuzzy-adventure | 0 | 0| 
 | 20220412T12:26:37Z | Not New to Github. I just lied.  | https://github.com/NandlalP/fuzzy-telegram | 0 | 0| 
 | 20220412T11:42:16Z | Null | https://github.com/HoboSTD/fuzzer | 0 | 0| 
-| 20220412T10:43:29Z | Playground repository to test various workflows with github actions | https://github.com/arisKoutsou/fuzzme | 0 | 0| 
-| 20220412T10:23:04Z | Null | https://github.com/Yonghero/vue-fuzzy | 0 | 0| 
-| 20220412T09:53:37Z | Null | https://github.com/nyx-fuzz/spec-fuzzer | 19 | 6| 
-| 20220412T08:44:17Z | PV system using hardware with algorithm design with Simulink, Simulink model deploy with hardware | https://github.com/amitgedam500/PV_System_Fuzzy_Logic | 0 | 0| 
-| 20220412T07:47:20Z | Fuzzy based segmentation of remotely sensed images using an Adaptive Neuro Fuzzy Inference System (ANFIS). | https://github.com/andmon97/FuzzyRemoteSensingSegmentation | 10 | 1| 
-| 20220412T01:02:13Z | Senior Project 4A | https://github.com/Devin118/FuzzyChess | 0 | 1| 
-| 20220411T23:52:00Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 20 | 2| 
-| 20220411T22:00:55Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2517 | 162| 
 
 
 
