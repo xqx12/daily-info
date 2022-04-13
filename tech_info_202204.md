@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220413T12:05:43Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220413T11:48:16Z | CVE-2022-21907 | A REAL DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | | 
-| 20220413T10:57:55Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220413T09:38:19Z | CVE-2022-1175 | Null | https://github.com/Greenwolf/CVE-2022-1175 | | 
 | 20220413T09:31:27Z | CVE-2022-24675 | Null | https://github.com/jfrog/jfrog-CVE-2022-24675 | | 
 | 20220413T09:20:45Z | CVE-2022-22954 | VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script with in modes. | https://github.com/tunelko/CVE-2022-22954-PoC | | 
