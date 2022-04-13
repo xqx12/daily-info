@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220413T00:15:56Z | CVE-2022-22965 | exploitation script tryhackme  | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | | 
 | 20220412T22:29:14Z | CVE-2022-22954 | PoC for CVE-2022-22954 - VMware Workspace ONE Access Freemarker Server-Side Template Injection | https://github.com/DrorDvash/CVE-2022-22954_VMware_PoC | | 
 | 20220412T16:30:53Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
 | 20220412T14:25:59Z | CVE-2022-22954 | 提供批量扫描URL以及执行命令功能。Workspace ONE Access 模板注入漏洞，可执行任意代码 | https://github.com/jax7sec/CVE-2022-22954 | | 
@@ -55,7 +56,6 @@
 | 20220412T11:47:28Z | CVE-2021-0688 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0688 | | 
 | 20220412T11:05:41Z | CVE-2021-0506 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0506 | | 
 | 20220412T11:00:56Z | CVE-2022-1175 | Null | https://github.com/Greenwolf/CVE-2022-1175 | | 
-| 20220412T10:56:21Z | CVE-2021-0600 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0600 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220413T00:15:56Z | exploitation script tryhackme  | https://github.com/Omaraitbenhaddi/-Spring4Shell-CVE-2022-22965- | 0 | 0| 
 | 20220412T23:49:48Z | Null | https://github.com/nehemiasmercauunc/exploits-siscom | 0 | 0| 
 | 20220412T23:03:04Z | RCE exploit via prototype pollution vulnerability | https://github.com/samhaxr/Prototype-pollution-exploit-ctf | 0 | 0| 
 | 20220412T22:46:23Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example. This tool will check, exploit and restore password to original state | https://github.com/sho-luv/zerologon | 8 | 2| 
@@ -97,7 +98,6 @@
 | 20220412T12:21:42Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 5 | 0| 
 | 20220412T11:57:33Z | This repository contains a set of rules samples that can be directly used with McAfee Endpoint Security, in the Exploit Prevention policy. | https://github.com/mcafee-enterprise/ExpertRules | 0 | 0| 
 | 20220412T11:36:52Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Micalman01/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220412T11:33:56Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Micalman01/Hacking-Tools-Pack | 0 | 0| 
 
 
 # backdoor on Github 推荐
