@@ -54,7 +54,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
-| 20220412T16:16:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5743 | 213| 
 | 20220412T08:55:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1943 | 550| 
 
 
