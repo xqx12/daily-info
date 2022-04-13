@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220413T01:13:31Z | Definir o valor da Gorjeta em um restaurante com base na qualidade do serviço e da comida usando a lógica Fuzzy ou nebulosa | https://github.com/Jordy-Rodrigues/L-gica-Fuzzy | 1 | 0| 
 | 20220412T23:42:11Z | First Repo | https://github.com/erc2709/fuzzy-guacamole | 0 | 0| 
 | 20220412T23:10:42Z | Null | https://github.com/Aarongs79/fuzzy-potato | 0 | 0| 
 | 20220412T22:53:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7240 | 1548| 
@@ -148,7 +149,6 @@
 | 20220412T20:21:57Z | Search a JSON document by path, content, and inferred content | https://github.com/jsonhero-io/fuzzy-json-search | 0 | 0| 
 | 20220412T19:00:16Z | Null | https://github.com/KetoIT/fuzzy-adventure | 0 | 0| 
 | 20220412T12:26:37Z | Not New to Github. I just lied.  | https://github.com/NandlalP/fuzzy-telegram | 0 | 0| 
-| 20220412T11:42:16Z | Null | https://github.com/HoboSTD/fuzzer | 0 | 0| 
 
 
 
