@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220413T01:45:22Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 36 | 2| 
+| 20220413T01:46:44Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 37 | 2| 
 | 20220413T01:35:39Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 721 | 66| 
 | 20220412T21:26:28Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 21 | 5| 
 | 20220412T21:09:37Z | Null | https://github.com/11Tanmay/Reverse_Access_Backdoor | 0 | 0| 
@@ -139,7 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220413T01:42:07Z | Null | https://github.com/vcaitite/fuzzy-systems-exercises | 0 | 0| 
+| 20220413T01:48:08Z | Null | https://github.com/vcaitite/fuzzy-systems-exercises | 0 | 0| 
 | 20220413T01:14:07Z | Definir o valor da Gorjeta em um restaurante com base na qualidade do serviço e da comida usando a lógica Fuzzy ou nebulosa | https://github.com/Jordy-Rodrigues/L-gica-Fuzzy | 1 | 0| 
 | 20220412T23:42:11Z | First Repo | https://github.com/erc2709/fuzzy-guacamole | 0 | 0| 
 | 20220412T23:10:42Z | Null | https://github.com/Aarongs79/fuzzy-potato | 0 | 0| 
