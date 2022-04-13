@@ -67,16 +67,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220412T23:49:48Z | Null | https://github.com/nehemiasmercauunc/exploits-siscom | 0 | 0| 
+| 20220412T23:03:04Z | RCE exploit via prototype pollution vulnerability | https://github.com/samhaxr/Prototype-pollution-exploit-ctf | 0 | 0| 
+| 20220412T22:46:23Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example. This tool will check, exploit and restore password to original state | https://github.com/sho-luv/zerologon | 8 | 2| 
+| 20220412T22:41:51Z | Null | https://github.com/sivakodali/x86Exploitation | 0 | 0| 
+| 20220412T20:30:44Z | R package for exploiting causal structure of phylogenetic trees | https://github.com/rdinnager/causaltrees | 0 | 0| 
+| 20220412T15:49:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 10995 | 1924| 
 | 20220412T12:21:42Z | Frontend for Sherlock V2 - a protocol for decentralized exploit protection. | https://github.com/sherlock-protocol/sherlock-v2-frontend | 5 | 0| 
 | 20220412T11:57:33Z | This repository contains a set of rules samples that can be directly used with McAfee Endpoint Security, in the Exploit Prevention policy. | https://github.com/mcafee-enterprise/ExpertRules | 0 | 0| 
 | 20220412T11:36:52Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Micalman01/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220412T11:33:56Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Micalman01/Hacking-Tools-Pack | 0 | 0| 
-| 20220412T11:26:54Z | Config files for my GitHub profile. | https://github.com/exploiting1337/exploiting1337 | 0 | 0| 
-| 20220412T11:23:59Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Rockmarry/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220412T11:21:13Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Rockmarry/Hacking-Tools-Pack | 0 | 0| 
-| 20220412T11:10:38Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Rickyhack01/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220412T11:07:50Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Rickyhack01/Hacking-Tools-Pack | 0 | 0| 
-| 20220412T10:57:40Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Whispers01/GH-Hacking-Tool-Kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -97,8 +97,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220412T10:47:15Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 9 | 0| 
-| 20220412T09:20:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2796 | 409| 
+| 20220412T23:35:15Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 273 | 18| 
+| 20220412T18:17:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2798 | 409| 
+| 20220412T16:21:41Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 10 | 0| 
+| 20220412T13:06:16Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 63 | 13| 
 | 20220412T08:55:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1943 | 550| 
 | 20220412T03:56:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 217 | 52| 
 
