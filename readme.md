@@ -72,7 +72,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220413T20:38:46Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 730 | 68| 
 | 20220413T16:03:32Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 40 | 2| 
 | 20220413T10:25:12Z | gabut yang bermakna :D | https://github.com/devrix123/super-simple-backdoor | 0 | 0| 
 | 20220413T09:07:20Z | Fileless Discord remote access trojan | https://github.com/cchash/DiscoShell | 2 | 3| 
@@ -98,7 +97,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220413T23:48:24Z | Very simple whatsapp fuzzer based on selenium writed on python 3 | https://github.com/TheQmaks/WAFuzzer | 0 | 0| 
 | 20220413T23:44:30Z | fuzzy-waffle | https://github.com/Faycalmyonikh/fuzzy-waffle | 0 | 0| 
 | 20220413T23:39:13Z | Null | https://github.com/Frankeo/fuzzy-search | 0 | 0| 
 | 20220413T23:01:54Z | Learning to write Fuzz tests for C functions | https://github.com/siv2r/fuzz-test-poc | 0 | 0| 
@@ -108,6 +106,7 @@
 | 20220413T16:09:07Z | Null | https://github.com/ForAllSecure/fuzzing-essentials-federal | 0 | 0| 
 | 20220413T12:43:27Z | Null | https://github.com/f-imp/FuzzyC-Means | 0 | 0| 
 | 20220413T09:21:46Z | Null | https://github.com/atharva812/fuzzy-happiness | 0 | 0| 
+| 20220413T08:53:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7242 | 1547| 
 
 
 
