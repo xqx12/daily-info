@@ -139,6 +139,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220414T00:20:14Z | a fuzzing framework to hyper-v. | https://github.com/dr0p1et/hv_fuzzer | 0 | 0| 
+| 20220414T00:19:06Z | a test case mutator based on generation for fuzzing. | https://github.com/dr0p1et/dmutator | 0 | 0| 
 | 20220413T23:48:24Z | Very simple whatsapp fuzzer based on selenium writed on python 3 | https://github.com/TheQmaks/WAFuzzer | 0 | 0| 
 | 20220413T23:44:30Z | fuzzy-waffle | https://github.com/Faycalmyonikh/fuzzy-waffle | 0 | 0| 
 | 20220413T23:39:13Z | Null | https://github.com/Frankeo/fuzzy-search | 0 | 0| 
@@ -147,8 +149,6 @@
 | 20220413T21:29:46Z | Firebase Authentication - Login, Signup, Reset Password | https://github.com/iloveteajay/fuzzy-eureka | 0 | 0| 
 | 20220413T19:17:22Z | Null | https://github.com/SalavatQaz/fuzzy | 0 | 0| 
 | 20220413T16:09:07Z | Null | https://github.com/ForAllSecure/fuzzing-essentials-federal | 0 | 0| 
-| 20220413T12:43:27Z | Null | https://github.com/f-imp/FuzzyC-Means | 0 | 0| 
-| 20220413T09:21:46Z | Null | https://github.com/atharva812/fuzzy-happiness | 0 | 0| 
 
 
 
