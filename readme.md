@@ -31,7 +31,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220413T23:24:12Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
-| 20220413T23:23:38Z | CVE-2022-21907 | A REAL DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | | 
 | 20220413T21:43:05Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220413T17:24:02Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本 | https://github.com/bewhale/CVE-2022-22954 | | 
 | 20220413T17:16:48Z | cve-2020-27955 | cve-2020-27955 | https://github.com/userxfan/cve-2020-27955 | | 
@@ -40,6 +39,7 @@
 | 20220413T12:54:24Z | CVE-2021-0316 | Null | https://github.com/Satheesh575555/system_bt_AOSP_10_r33_CVE-2021-0316 | | 
 | 20220413T09:38:19Z | CVE-2022-1175 | Null | https://github.com/Greenwolf/CVE-2022-1175 | | 
 | 20220413T09:31:27Z | CVE-2022-24675 | Null | https://github.com/jfrog/jfrog-CVE-2022-24675 | | 
+| 20220413T09:06:08Z | CVE-2022-0482 | Easy!Appointments < 1.4.3 - Unauthenticated PII (events) disclosure | https://github.com/Acceis/exploit-CVE-2022-0482 | | 
 
 
 # klee on Github 推荐
