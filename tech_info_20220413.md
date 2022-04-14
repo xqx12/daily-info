@@ -31,7 +31,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220413T23:24:12Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
-| 20220413T21:43:05Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220413T17:16:48Z | cve-2020-27955 | cve-2020-27955 | https://github.com/userxfan/cve-2020-27955 | | 
 | 20220413T16:37:35Z | CVE-2022-22954 | VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual.  | https://github.com/tunelko/CVE-2022-22954-PoC | | 
 | 20220413T14:47:06Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/0zvxr/CVE-2022-22965 | | 
@@ -40,6 +39,7 @@
 | 20220413T09:31:27Z | CVE-2022-24675 | Null | https://github.com/jfrog/jfrog-CVE-2022-24675 | | 
 | 20220413T09:06:08Z | CVE-2022-0482 | Easy!Appointments < 1.4.3 - Unauthenticated PII (events) disclosure | https://github.com/Acceis/exploit-CVE-2022-0482 | | 
 | 20220413T07:42:19Z | CVE-2022-26809 | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | | 
+| 20220413T05:36:00Z | CVE-2022-22954 | CVE-2022-22954-VMware-RCE批量检测POC | https://github.com/chaosec2021/CVE-2022-22954-VMware-RCE | | 
 
 
 # klee on Github 推荐
