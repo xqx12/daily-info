@@ -99,12 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220413T23:48:24Z | Very simple whatsapp fuzzer based on selenium writed on python 3 | https://github.com/TheQmaks/WAFuzzer | 0 | 0| 
+| 20220413T23:44:30Z | fuzzy-waffle | https://github.com/Faycalmyonikh/fuzzy-waffle | 0 | 0| 
+| 20220413T23:39:13Z | Null | https://github.com/Frankeo/fuzzy-search | 0 | 0| 
+| 20220413T23:01:54Z | Learning to write Fuzz tests for C functions | https://github.com/siv2r/fuzz-test-poc | 0 | 0| 
+| 20220413T22:24:53Z | Null | https://github.com/abc-inc/go-fuzzaldrin-plus | 0 | 0| 
+| 20220413T21:29:46Z | Firebase Authentication - Login, Signup, Reset Password | https://github.com/iloveteajay/fuzzy-eureka | 0 | 0| 
+| 20220413T19:17:22Z | Null | https://github.com/SalavatQaz/fuzzy | 0 | 0| 
+| 20220413T16:09:07Z | Null | https://github.com/ForAllSecure/fuzzing-essentials-federal | 0 | 0| 
 | 20220413T12:43:27Z | Null | https://github.com/f-imp/FuzzyC-Means | 0 | 0| 
 | 20220413T09:21:46Z | Null | https://github.com/atharva812/fuzzy-happiness | 0 | 0| 
-| 20220413T08:53:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7242 | 1547| 
-| 20220413T08:48:30Z | Null | https://github.com/sp2ip/git-fuzz | 0 | 0| 
-| 20220413T01:48:08Z | Null | https://github.com/vcaitite/fuzzy-systems-exercises | 0 | 0| 
-| 20220413T01:14:07Z | Definir o valor da Gorjeta em um restaurante com base na qualidade do serviço e da comida usando a lógica Fuzzy ou nebulosa | https://github.com/Jordy-Rodrigues/L-gica-Fuzzy | 1 | 0| 
 
 
 
