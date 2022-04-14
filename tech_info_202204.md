@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220414T01:12:14Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本 | https://github.com/bewhale/CVE-2022-22954 | | 
-| 20220414T01:01:01Z | CVE-2022-21907 | A REAL DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | | 
+| 20220414T01:15:36Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本 | https://github.com/bewhale/CVE-2022-22954 | | 
+| 20220414T01:14:56Z | CVE-2022-21907 | A REAL DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | | 
 | 20220413T23:24:12Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
 | 20220413T21:43:05Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220413T17:16:48Z | cve-2020-27955 | cve-2020-27955 | https://github.com/userxfan/cve-2020-27955 | | 
@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220414T01:11:57Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 322 | 18| 
+| 20220414T01:15:16Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 323 | 18| 
 | 20220413T20:05:01Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 734 | 157| 
 | 20220413T17:05:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 218 | 53| 
 | 20220413T12:57:46Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
