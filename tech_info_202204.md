@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220414T01:12:14Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本 | https://github.com/bewhale/CVE-2022-22954 | | 
 | 20220414T01:01:01Z | CVE-2022-21907 | A REAL DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | | 
 | 20220413T23:24:12Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
 | 20220413T21:43:05Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
-| 20220413T17:24:02Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本 | https://github.com/bewhale/CVE-2022-22954 | | 
 | 20220413T17:16:48Z | cve-2020-27955 | cve-2020-27955 | https://github.com/userxfan/cve-2020-27955 | | 
 | 20220413T16:37:35Z | CVE-2022-22954 | VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual.  | https://github.com/tunelko/CVE-2022-22954-PoC | | 
 | 20220413T14:47:06Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/0zvxr/CVE-2022-22965 | | 
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220414T01:13:48Z | Null | https://github.com/OnixZeny/Basic-Backdoor | 0 | 0| 
 | 20220414T00:52:45Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 732 | 68| 
 | 20220414T00:19:30Z | A quick, easy and modular tool for hacking offline Windows drives and bypassing login screens. Can do hashdumps, OSK-Backdoor, user enumeration and more.  | https://github.com/stoatsec/tofu | 1 | 0| 
 | 20220413T16:03:32Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 40 | 2| 
@@ -112,13 +113,12 @@
 | 20220412T21:09:37Z | Null | https://github.com/11Tanmay/Reverse_Access_Backdoor | 0 | 0| 
 | 20220412T15:32:21Z | Null | https://github.com/Indigo6415/backdoor | 0 | 0| 
 | 20220412T14:28:12Z | Python GUI tool for crawling and scanning given website. It scans for various vulnerabilities like XSS,backdoor possibility,LFI, cookies and their security, most famous SQLi (SQL injection) and many more. | https://github.com/Alphx-rgb/Vulnerability-Scanner | 0 | 0| 
-| 20220412T13:25:26Z | Null | https://github.com/ph-luffy/Backdoor | 3 | 5| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220413T23:23:16Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 321 | 18| 
+| 20220414T01:11:57Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 322 | 18| 
 | 20220413T20:05:01Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 734 | 157| 
 | 20220413T17:05:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 218 | 53| 
 | 20220413T12:57:46Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
