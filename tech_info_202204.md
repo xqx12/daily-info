@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220414T00:13:25Z | CVE-2022-21907 | A REAL DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | | 
+| 20220414T01:01:01Z | CVE-2022-21907 | A REAL DoS exploit for CVE-2022-21907 | https://github.com/polakow/CVE-2022-21907 | | 
 | 20220413T23:24:12Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
 | 20220413T21:43:05Z | CVE-2022-22954 | POC for VMWARE CVE-2022-22954 | https://github.com/sherlocksecurity/VMware-CVE-2022-22954 | | 
 | 20220413T17:24:02Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本 | https://github.com/bewhale/CVE-2022-22954 | | 
@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220414T00:44:27Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 731 | 68| 
+| 20220414T00:52:45Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 732 | 68| 
 | 20220414T00:19:30Z | A quick, easy and modular tool for hacking offline Windows drives and bypassing login screens. Can do hashdumps, OSK-Backdoor, user enumeration and more.  | https://github.com/stoatsec/tofu | 1 | 0| 
 | 20220413T16:03:32Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 40 | 2| 
 | 20220413T10:25:12Z | gabut yang bermakna :D | https://github.com/devrix123/super-simple-backdoor | 0 | 0| 
