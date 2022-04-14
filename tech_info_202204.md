@@ -103,11 +103,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220414T00:19:30Z | A quick, easy and modular tool for hacking offline Windows drives and bypassing login screens. Can do hashdumps, OSK-Backdoor, user enumeration and more.  | https://github.com/stoatsec/tofu | 1 | 0| 
 | 20220413T20:38:46Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 730 | 68| 
 | 20220413T16:03:32Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 40 | 2| 
 | 20220413T10:25:12Z | gabut yang bermakna :D | https://github.com/devrix123/super-simple-backdoor | 0 | 0| 
 | 20220413T09:07:20Z | Fileless Discord remote access trojan | https://github.com/cchash/DiscoShell | 2 | 3| 
-| 20220413T06:51:28Z | A quick, easy and modular tool for hacking offline Windows drives and bypassing login screens. Can do hashdumps, OSK-Backdoor, user enumeration and more.  | https://github.com/stoatsec/tofu | 0 | 0| 
 | 20220412T21:26:28Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 21 | 5| 
 | 20220412T21:09:37Z | Null | https://github.com/11Tanmay/Reverse_Access_Backdoor | 0 | 0| 
 | 20220412T15:32:21Z | Null | https://github.com/Indigo6415/backdoor | 0 | 0| 
