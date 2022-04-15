@@ -36,11 +36,11 @@
 | 20220414T23:45:16Z | CVE-2022-22954 | Proof of Concept for exploiting VMware CVE-2022-22954 | https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector | | 
 | 20220414T22:22:36Z | CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
 | 20220414T19:41:00Z | CVE-2022-26809 | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | | 
-| 20220414T19:39:45Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
 | 20220414T17:05:21Z | CVE-2022-24087 | Null | https://github.com/Neimar47574/CVE-2022-24087 | | 
 | 20220414T14:22:05Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本、文件写入 | https://github.com/bewhale/CVE-2022-22954 | | 
 | 20220414T14:02:41Z | CVE-2020-15368 | CVE-2020-15368, aka "How to exploit a vulnerable driver" | https://github.com/stong/CVE-2020-15368 | | 
 | 20220414T13:42:54Z | CVE-2021-41184 | Null | https://github.com/astyn9/Exploit-Medium-CVE-2021-41184 | | 
+| 20220414T12:43:51Z | CVE-2022-26809 | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | | 
 
 
 # klee on Github 推荐

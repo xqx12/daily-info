@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220415T00:49:28Z | CVE-2022-22954 | VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual.  | https://github.com/tunelko/CVE-2022-22954-PoC | | 
+| 20220415T00:46:40Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
 | 20220414T23:58:00Z | CVE-2022-26809 | Null | https://github.com/SeptS0/CVE-2022-26809-RCE | | 
 | 20220414T23:57:59Z | CVE-2021-3560 | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | | 
 | 20220414T23:45:16Z | CVE-2022-22954 | Proof of Concept for exploiting VMware CVE-2022-22954 | https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector | | 
 | 20220414T22:22:36Z | CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
 | 20220414T19:41:00Z | CVE-2022-26809 | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | | 
-| 20220414T19:39:45Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
 | 20220414T17:05:21Z | CVE-2022-24087 | Null | https://github.com/Neimar47574/CVE-2022-24087 | | 
 | 20220414T14:22:05Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本、文件写入 | https://github.com/bewhale/CVE-2022-22954 | | 
 | 20220414T14:02:41Z | CVE-2020-15368 | CVE-2020-15368, aka "How to exploit a vulnerable driver" | https://github.com/stong/CVE-2020-15368 | | 
-| 20220414T13:42:54Z | CVE-2021-41184 | Null | https://github.com/astyn9/Exploit-Medium-CVE-2021-41184 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220415T00:49:39Z | New! | https://github.com/NicPWNs/heartbleed-exploit | 0 | 0| 
+| 20220415T00:49:05Z | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/template-exploit | 0 | 0| 
 | 20220415T00:31:00Z | Attempt to find and exploit the vulnerabilities of Globitek | https://github.com/rrente43/Week-9-Project-Pentesting-Live-Targets | 0 | 0| 
 | 20220414T23:57:59Z | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | 5 | 0| 
 | 20220414T23:45:16Z | Proof of Concept for exploiting VMware CVE-2022-22954 | https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector | 0 | 0| 
@@ -96,8 +98,6 @@
 | 20220414T22:41:36Z | A guide for beginners on how to use pwntools to discover a buffer overflow vulnerability and quickly write an exploit for it. | https://github.com/m00tiny/dearqa-thm-pwntools-guide | 0 | 0| 
 | 20220414T22:22:36Z | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | 4 | 1| 
 | 20220414T21:58:25Z | Null | https://github.com/bennytrt/roblox-carmel-exploit | 0 | 0| 
-| 20220414T21:42:55Z | this is the roblox exploit trigon evo! | https://github.com/bennytrt/trigon-evo-roblox-exploit | 0 | 0| 
-| 20220414T21:37:41Z | RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX. | https://github.com/noperator/CVE-2019-18935 | 238 | 70| 
 
 
 # backdoor on Github 推荐
@@ -133,12 +133,14 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220406T15:56:31Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 3 | 0| 
+| 20220415T00:13:07Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 4 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220415T00:42:15Z | Null | https://github.com/0init/fuzz-web | 0 | 0| 
+| 20220415T00:41:18Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 2 | 1| 
 | 20220414T23:18:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2519 | 162| 
 | 20220414T23:18:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7242 | 1549| 
 | 20220414T22:35:27Z | Serial port fuzzer | https://github.com/JohnDMcMaster/sfuzz | 0 | 0| 
@@ -147,8 +149,6 @@
 | 20220414T19:33:44Z | Null | https://github.com/Muddl/fuzzyaitest | 0 | 0| 
 | 20220414T01:31:24Z | Make a directory fuzzing list from a gitub repo | https://github.com/grampae/gitfuzz | 0 | 0| 
 | 20220414T00:43:41Z | Very simple whatsapp fuzzer based on selenium writed on python 3 | https://github.com/TheQmaks/WAFuzzer | 0 | 0| 
-| 20220414T00:20:14Z | a fuzzing framework to hyper-v. | https://github.com/dr0p1et/hv_fuzzer | 0 | 0| 
-| 20220414T00:19:06Z | a test case mutator based on generation for fuzzing. | https://github.com/dr0p1et/dmutator | 0 | 0| 
 
 
 
