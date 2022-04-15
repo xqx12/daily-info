@@ -53,16 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T12:17:51Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2090 | 309| 
+| 20220415T12:36:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2091 | 309| 
 | 20220415T12:00:04Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 1 | 0| 
 | 20220415T11:36:42Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 5 | 0| 
 | 20220415T10:49:37Z | Roblox exploits made by me | https://github.com/GSstarGamer/Roblox-Exploits | 0 | 0| 
 | 20220415T10:28:47Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack01/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220415T10:25:12Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack01/Hacking-Tools-Pack | 0 | 0| 
+| 20220415T10:20:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11008 | 1926| 
 | 20220415T10:15:09Z | this is a demo to the Elephant money exploit happened on Apr-12-2022 | https://github.com/JIAMING-LI/ElephantMoneyExploit | 0 | 0| 
 | 20220415T09:40:39Z | Straightforward vulnerability management. Know when software you use is vulnerable, how it is being exploited, and how to detect an attack. | https://github.com/signalscorps/vulmatch-app | 0 | 0| 
 | 20220415T03:34:40Z | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | 18 | 2| 
-| 20220415T01:50:06Z | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | 8 | 1| 
 
 
 # backdoor on Github 推荐
