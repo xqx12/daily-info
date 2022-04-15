@@ -47,6 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220414T23:58:00Z | CVE-2022-26809 | Null | https://github.com/SeptS0/CVE-2022-26809-RCE | | 
+| 20220414T23:57:59Z | CVE-2021-3560 | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | | 
 | 20220414T23:45:16Z | CVE-2022-22954 | Proof of Concept for exploiting VMware CVE-2022-22954 | https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector | | 
 | 20220414T22:22:36Z | CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
 | 20220414T19:41:00Z | CVE-2022-26809 | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | | 
@@ -55,7 +56,6 @@
 | 20220414T14:22:05Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本、文件写入 | https://github.com/bewhale/CVE-2022-22954 | | 
 | 20220414T14:02:41Z | CVE-2020-15368 | CVE-2020-15368, aka "How to exploit a vulnerable driver" | https://github.com/stong/CVE-2020-15368 | | 
 | 20220414T13:42:54Z | CVE-2021-41184 | Null | https://github.com/astyn9/Exploit-Medium-CVE-2021-41184 | | 
-| 20220414T13:25:07Z | CVE-2022-22954 | VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual.  | https://github.com/tunelko/CVE-2022-22954-PoC | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220415T00:31:00Z | Attempt to find and exploit the vulnerabilities of Globitek | https://github.com/rrente43/Week-9-Project-Pentesting-Live-Targets | 0 | 0| 
+| 20220414T23:57:59Z | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | 5 | 0| 
 | 20220414T23:45:16Z | Proof of Concept for exploiting VMware CVE-2022-22954 | https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector | 0 | 0| 
 | 20220414T23:18:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11004 | 1926| 
 | 20220414T23:18:44Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5327 | 1012| 
@@ -96,8 +98,6 @@
 | 20220414T21:58:25Z | Null | https://github.com/bennytrt/roblox-carmel-exploit | 0 | 0| 
 | 20220414T21:42:55Z | this is the roblox exploit trigon evo! | https://github.com/bennytrt/trigon-evo-roblox-exploit | 0 | 0| 
 | 20220414T21:37:41Z | RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX. | https://github.com/noperator/CVE-2019-18935 | 238 | 70| 
-| 20220414T21:31:03Z | skidded exploit that aims at simplicity | https://github.com/gggggfdsd/dominik | 0 | 0| 
-| 20220414T20:41:56Z | Badboy.py is a fuzzing tool to exploit Buffer Overflows quickly and easily. It does both the fuzzing and the exploit injection part | https://github.com/b4keSn4ke/Badboy | 2 | 1| 
 
 
 # backdoor on Github 推荐
