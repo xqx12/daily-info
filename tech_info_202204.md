@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220415 | PYSA 勒索软件分析报告 | http://www.prodaft.com/m/reports/PYSA_TLPWHITE_3.0.pdf| 
+| 20220415 | Signal client for iOS 被发现 RTLO 注入 URL 欺骗问题 | https://sick.codes/sick-2022-42/| 
+| 20220415 | Diving Deeper into WatchGuard Pre-Auth RCE - CVE-2022-26318 | https://blog.assetnote.io/2022/04/13/watchguard-firebox-rce/| 
+| 20220415 | Exploiting Struts RCE on 2.5.26 | https://mc0wn.blogspot.com/2021/04/exploiting-struts-rce-on-2526.html| 
+| 20220415 | 钓鱼时 MS Office VSTO 文件可以被用于植入宏代码 | https://medium.com/@airlockdigital/make-phishing-great-again-vsto-office-files-are-the-new-macro-nightmare-e09fcadef010| 
+| 20220415 | 利用开源 Snort IDS 检测引擎的整数溢出漏洞（CVE-2022-20685）逃逸检测 | http://claroty.com/2022/04/14/blog-research-blinding-snort-breaking-the-modbus-ot-preprocessor/| 
+| 20220415 | Abusing Azure Hybrid Workers for Privilege Escalation | http://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/| 
+| 20220415 | sdkffi - C 头文件 parser，生成函数标准化原型数据的工具 | https://github.com/BehroozAbbassi/sdkffi| 
+| 20220415 | iOS vouchers 子系统野外被利用漏洞 CVE-2021-1782 的分析 | https://googleprojectzero.blogspot.com/2022/04/cve-2021-1782-ios-in-wild-vulnerability.html| 
 | 20220414 | LSPosed - 基于 OG Xposed 提供 ART 的框架 | https://github.com/LSPosed/LSPosed| 
 | 20220414 | 以 CTF 形式学习 CI/CD 安全的模拟环境 | https://github.com/cider-security-research/cicd-goat| 
 | 20220414 | 昨天微软修复的 Windows RPC 组件 3 个高危 RCE 漏洞的分析 | http://www.akamai.com/blog/security/critical-remote-code-execution-vulnerabilities-windows-rpc-runtime| 
@@ -17,20 +26,12 @@
 | 20220414 | 公有云 IP 重用的威胁和防御方法分析 Paper | https://arxiv.org/pdf/2204.05122.pdf| 
 | 20220414 | mssql 提权总结 | https://tttang.com/archive/1545/| 
 | 20220414 | CVE-2022-22954 VMware Workspace ONE Access SSTI RCE | https://xz.aliyun.com/t/11196| 
-| 20220414 | Bahamut组织近期攻击活动揭露 | https://mp.weixin.qq.com/s/YAAybJBAvxqrQWYDg31BBw| 
-| 20220413 | AMSI Bypass 的多种方法整理 | https://www.hackingarticles.in/a-detailed-guide-on-amsi-bypass/| 
-| 20220413 | Round Two: An Updated Universal Deserialisation Gadget for Ruby 2.x-3.x | http://devcraft.io/2022/04/04/universal-deserialisation-gadget-for-ruby-2-x-3-x.html| 
-| 20220413 | 由于 2FA 认证相关漏洞，NPM 软件包开发者存在 Account Takeover 威胁 | https://blog.aquasec.com/npm-supply-chain-attack| 
-| 20220413 | 区块链黑暗森林自救手册 | https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook| 
-| 20220413 | Understanding and Defending Against Reflective Code Loading on macOS | https://slyd0g.medium.com/understanding-and-defending-against-reflective-code-loading-on-macos-e2e83211e48f| 
-| 20220413 | Windows 版本 AWS VPN Client 被发现 SYSTEM 本地提权漏洞 | https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/| 
-| 20220413 | 微软发布 Windows 4 月份漏洞补丁，修复 128 个漏洞，其中 10 个高危 | https://threatpost.com/microsoft-zero-days-wormable-bugs/179273/| 
-| 20220413 | 卡巴斯基对 2021 年间谍监控软件现状的分析报告 | https://securelist.com/the-state-of-stalkerware-in-2021/106193/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220415 | APTMalInsight：基于系统调用信息和本体知识框架识别和认知APT... | https://mp.weixin.qq.com/s/GEwV3EiobUjI2XdX1q8Cuw| 
 | 20220414 | ATT&CK 变成安全“元宇宙”？ | https://mp.weixin.qq.com/s/1pJo_b979rqqKP9ldC13Vg| 
 | 20220414 | TP-Link-WDR-7660 安全研究之固件分析 | https://mp.weixin.qq.com/s/98YDkBrg0XZe32NLNnn5JQ| 
 | 20220414 | 知识图谱可视化技术的实践与探索 | https://mp.weixin.qq.com/s/64XoQ0JIjjuaUtTaL3BzdA| 
@@ -40,29 +41,28 @@
 | 20220412 | 美国网络安全意识教育举措概述 | https://mp.weixin.qq.com/s/Itjla5kxog3EjX6I3w3kKQ| 
 | 20220412 | DecoyMini: 智能仿真与攻击诱捕工具 | https://github.com/decoymini/DecoyMini| 
 | 20220412 | 等保、分保、关保、密评四道防线守护网络信息安全 | https://mp.weixin.qq.com/s/zLBjiW9iLx83GjCNV07Utw| 
-| 20220412 | 关于开展“清朗·2022年算法综合治理”专项行动 | http://www.cac.gov.cn/2022-04/08/c_1651028524542025.htm| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220415T01:50:06Z | CVE-2022-26809 | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | | 
-| 20220415T01:47:21Z | CVE-2021-3156 | Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | | 
-| 20220415T00:49:28Z | CVE-2022-22954 | VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual.  | https://github.com/tunelko/CVE-2022-22954-PoC | | 
-| 20220415T00:46:40Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
-| 20220414T23:58:00Z | CVE-2022-26809 | Null | https://github.com/SeptS0/CVE-2022-26809-RCE | | 
-| 20220414T23:57:59Z | CVE-2021-3560 | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | | 
-| 20220414T23:45:16Z | CVE-2022-22954 | Proof of Concept for exploiting VMware CVE-2022-22954 | https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector | | 
-| 20220414T22:22:36Z | CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
-| 20220414T19:41:00Z | CVE-2022-26809 | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | | 
-| 20220414T17:05:21Z | CVE-2022-24087 | Null | https://github.com/Neimar47574/CVE-2022-24087 | | 
+| 20220415T12:32:15Z | CVE-2021-31805 | S2-062 (CVE-2021-31805) / S2-061 / S2-059 RCE | https://github.com/Wrin9/CVE-2021-31805 | | 
+| 20220415T12:27:12Z | CVE-2022-26809 | Null | https://github.com/SeptS0/CVE-2022-26809-RCE | | 
+| 20220415T12:26:21Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP | https://github.com/genieyou/CVE-2022-26809-RCE | | 
+| 20220415T11:49:44Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP-POC | https://github.com/SeptS9119/CVE-2022-26809 | | 
+| 20220415T11:11:53Z | CVE-2021-31805 | Apache Struts2 S2-062远程代码执行漏洞(CVE-2021-31805) | https://github.com/Axx8/Struts2_S2-062_CVE-2021-31805 | | 
+| 20220415T09:14:45Z | CVE-2022-24934 | Null | https://github.com/MagicPiperSec/WPS-CVE-2022-24934 | | 
+| 20220415T09:14:33Z | CVE-2022-21971 | Null | https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE | | 
+| 20220415T09:11:54Z | CVE-2022-0847 | Null | https://github.com/tufanturhan/CVE-2022-0847-L-nux-PrivEsc | | 
+| 20220415T05:45:49Z | CVE-2021-0331 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0331 | | 
+| 20220415T04:15:35Z | CVE-2020-28653 | Null | https://github.com/mr-r3bot/ManageEngine-CVE-2020-28653 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220415T12:13:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5777 | 214| 
 | 20220414T23:18:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
-| 20220414T13:56:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5768 | 214| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
 | 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
 | 20220411T11:25:06Z | Null | https://github.com/CarlOsterberg/cortex-klee-test-lib | 0 | 0| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220414T14:34:54Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 43 | 3| 
+| 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
 | 20220413T17:05:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 218 | 53| 
 | 20220408T02:55:28Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 4 | 3| 
 | 20220408T02:55:18Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 16 | 2| 
@@ -88,22 +88,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T01:47:21Z | Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | 4 | 0| 
-| 20220415T00:51:44Z | new! | https://github.com/UNICORDev/new-exploit | 0 | 0| 
-| 20220415T00:49:39Z | New! | https://github.com/NicPWNs/heartbleed-exploit | 0 | 0| 
-| 20220415T00:49:05Z | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/template-exploit | 0 | 0| 
-| 20220415T00:31:00Z | Attempt to find and exploit the vulnerabilities of Globitek | https://github.com/rrente43/Week-9-Project-Pentesting-Live-Targets | 0 | 0| 
-| 20220414T23:57:59Z | Script en python sobre la vulnerabilidad CVE-2021-3560 | https://github.com/GatoGamer1155/CVE-2021-3560 | 5 | 0| 
-| 20220414T23:45:16Z | Proof of Concept for exploiting VMware CVE-2022-22954 | https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector | 0 | 0| 
-| 20220414T23:18:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11004 | 1926| 
-| 20220414T23:18:44Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5327 | 1012| 
-| 20220414T22:41:36Z | A guide for beginners on how to use pwntools to discover a buffer overflow vulnerability and quickly write an exploit for it. | https://github.com/m00tiny/dearqa-thm-pwntools-guide | 0 | 0| 
+| 20220415T12:36:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2091 | 309| 
+| 20220415T12:00:04Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 1 | 0| 
+| 20220415T11:36:42Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 5 | 0| 
+| 20220415T10:49:37Z | Roblox exploits made by me | https://github.com/GSstarGamer/Roblox-Exploits | 0 | 0| 
+| 20220415T10:28:47Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack01/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220415T10:25:12Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack01/Hacking-Tools-Pack | 0 | 0| 
+| 20220415T10:20:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11008 | 1926| 
+| 20220415T10:15:09Z | this is a demo to the Elephant money exploit happened on Apr-12-2022 | https://github.com/JIAMING-LI/ElephantMoneyExploit | 0 | 0| 
+| 20220415T09:40:39Z | Straightforward vulnerability management. Know when software you use is vulnerable, how it is being exploited, and how to detect an attack. | https://github.com/signalscorps/vulmatch-app | 0 | 0| 
+| 20220415T03:34:40Z | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | 18 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T01:45:35Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 743 | 70| 
+| 20220415T11:56:12Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 745 | 70| 
+| 20220415T08:06:40Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 14 | 2| 
 | 20220414T23:49:03Z | Null | https://github.com/LeighTrinity709/backdoor.py | 0 | 0| 
 | 20220414T19:32:49Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 42 | 2| 
 | 20220414T16:51:57Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 455 | 88| 
@@ -112,16 +113,15 @@
 | 20220414T11:11:21Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 255 | 63| 
 | 20220414T04:55:17Z | A simple python backdoor which is easy to use just enter the IP and port number in the code, in-built upload and download function, more features will be added soon | https://github.com/Mr-Akuma/Backdoorpython-v-1.0 | 2 | 1| 
 | 20220414T01:23:18Z | Null | https://github.com/OnixZeny/Basic-Backdoor | 0 | 0| 
-| 20220414T00:19:30Z | A quick, easy and modular tool for hacking offline Windows drives and bypassing login screens. Can do hashdumps, OSK-Backdoor, user enumeration and more.  | https://github.com/stoatsec/tofu | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220415T11:25:47Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 349 | 17| 
 | 20220414T23:18:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 772 | 147| 
 | 20220414T23:18:52Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 733 | 157| 
 | 20220414T23:18:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
-| 20220414T17:52:18Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 340 | 17| 
 | 20220413T17:05:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 218 | 53| 
 | 20220413T12:57:46Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
 | 20220413T04:12:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2800 | 409| 
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220415T12:31:24Z | Null | https://github.com/sprvn/fuzzing-labs | 0 | 0| 
+| 20220415T10:20:02Z | %Fuzzing Like A Caveman% series | https://github.com/ret2basic/Caveman | 0 | 0| 
+| 20220415T06:42:43Z | Wordlists for BugBounty-$$$$ | https://github.com/litt1eb0yy/fuzz-4-bounty | 0 | 1| 
+| 20220415T06:11:17Z | PBL1 for SIT-215 Fuzzy Car Project in Deakin University. | https://github.com/lst97/SIT-215-Fuzzy_Car_Project | 0 | 0| 
+| 20220415T05:58:48Z | The Effects of Blockchain Environment on Security Vulnerability Detection in Fuzzing Ethereum Smart Contracts: An Empirical Study | https://github.com/TechBeatle/EthereumControlledExperimentBlackBoxFuzzing | 0 | 0| 
+| 20220415T04:34:49Z | Null | https://github.com/akashnp1999/fuzzy-enigma | 0 | 0| 
+| 20220415T02:37:38Z | Policy-Guided Fuzzing for Robotic Vehicles | https://github.com/purseclab/PGFuzz | 11 | 1| 
 | 20220415T00:42:15Z | Null | https://github.com/0init/fuzz-web | 0 | 0| 
 | 20220415T00:41:18Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 2 | 1| 
 | 20220414T23:18:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2519 | 162| 
-| 20220414T23:18:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7242 | 1549| 
-| 20220414T22:35:27Z | Serial port fuzzer | https://github.com/JohnDMcMaster/sfuzz | 0 | 0| 
-| 20220414T20:41:56Z | Badboy.py is a fuzzing tool to exploit Buffer Overflows quickly and easily. It does both the fuzzing and the exploit injection part | https://github.com/b4keSn4ke/Badboy | 2 | 1| 
-| 20220414T20:06:47Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1285 | 55| 
-| 20220414T19:33:44Z | Null | https://github.com/Muddl/fuzzyaitest | 0 | 0| 
-| 20220414T01:31:24Z | Make a directory fuzzing list from a gitub repo | https://github.com/grampae/gitfuzz | 0 | 0| 
-| 20220414T00:43:41Z | Very simple whatsapp fuzzer based on selenium writed on python 3 | https://github.com/TheQmaks/WAFuzzer | 0 | 0| 
 
 
 
