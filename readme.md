@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220415T12:32:15Z | CVE-2021-31805 | S2-062 (CVE-2021-31805) / S2-061 / S2-059 RCE | https://github.com/Wrin9/CVE-2021-31805 | | 
+| 20220415T12:27:12Z | CVE-2022-26809 | Null | https://github.com/SeptS0/CVE-2022-26809-RCE | | 
+| 20220415T12:26:21Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP | https://github.com/genieyou/CVE-2022-26809-RCE | | 
 | 20220415T11:49:44Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP-POC | https://github.com/SeptS9119/CVE-2022-26809 | | 
 | 20220415T11:11:53Z | CVE-2021-31805 | Apache Struts2 S2-062远程代码执行漏洞(CVE-2021-31805) | https://github.com/Axx8/Struts2_S2-062_CVE-2021-31805 | | 
-| 20220415T11:04:44Z | CVE-2022-26809 | Null | https://github.com/SeptS0/CVE-2022-26809-RCE | | 
-| 20220415T10:32:04Z | CVE-2021-31805 | S2-062 (CVE-2021-31805) / S2-061 / S2-059 RCE | https://github.com/Wrin9/CVE-2021-31805 | | 
-| 20220415T10:31:21Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP | https://github.com/genieyou/CVE-2022-26809-RCE | | 
 | 20220415T09:14:45Z | CVE-2022-24934 | Null | https://github.com/MagicPiperSec/WPS-CVE-2022-24934 | | 
 | 20220415T09:14:33Z | CVE-2022-21971 | Null | https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE | | 
 | 20220415T09:11:54Z | CVE-2022-0847 | Null | https://github.com/tufanturhan/CVE-2022-0847-L-nux-PrivEsc | | 
@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220415T12:31:24Z | Null | https://github.com/sprvn/fuzzing-labs | 0 | 0| 
 | 20220415T10:20:02Z | %Fuzzing Like A Caveman% series | https://github.com/ret2basic/Caveman | 0 | 0| 
 | 20220415T06:42:43Z | Wordlists for BugBounty-$$$$ | https://github.com/litt1eb0yy/fuzz-4-bounty | 0 | 1| 
 | 20220415T06:11:17Z | PBL1 for SIT-215 Fuzzy Car Project in Deakin University. | https://github.com/lst97/SIT-215-Fuzzy_Car_Project | 0 | 0| 
