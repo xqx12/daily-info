@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220415T01:50:06Z | CVE-2022-26809 | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | | 
+| 20220415T01:47:21Z | CVE-2021-3156 | Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | | 
 | 20220415T00:49:28Z | CVE-2022-22954 | VMware Workspace ONE Access and Identity Manager RCE via SSTI - Test script for shodan, file or manual.  | https://github.com/tunelko/CVE-2022-22954-PoC | | 
 | 20220415T00:46:40Z | CVE-2022-26809 | CVE-2022-26809 PoC | https://github.com/f8al/CVE-2022-26809 | | 
 | 20220414T23:58:00Z | CVE-2022-26809 | Null | https://github.com/SeptS0/CVE-2022-26809-RCE | | 
@@ -54,8 +56,6 @@
 | 20220414T22:22:36Z | CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
 | 20220414T19:41:00Z | CVE-2022-26809 | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | | 
 | 20220414T17:05:21Z | CVE-2022-24087 | Null | https://github.com/Neimar47574/CVE-2022-24087 | | 
-| 20220414T14:22:05Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本、文件写入 | https://github.com/bewhale/CVE-2022-22954 | | 
-| 20220414T14:02:41Z | CVE-2020-15368 | CVE-2020-15368, aka "How to exploit a vulnerable driver" | https://github.com/stong/CVE-2020-15368 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220415T01:47:21Z | Script en python sobre la vulnerabilidad CVE-2021-3156 | https://github.com/GatoGamer1155/CVE-2021-3156 | 4 | 0| 
 | 20220415T00:51:44Z | new! | https://github.com/UNICORDev/new-exploit | 0 | 0| 
 | 20220415T00:49:39Z | New! | https://github.com/NicPWNs/heartbleed-exploit | 0 | 0| 
 | 20220415T00:49:05Z | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/template-exploit | 0 | 0| 
@@ -97,13 +98,12 @@
 | 20220414T23:18:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11004 | 1926| 
 | 20220414T23:18:44Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5327 | 1012| 
 | 20220414T22:41:36Z | A guide for beginners on how to use pwntools to discover a buffer overflow vulnerability and quickly write an exploit for it. | https://github.com/m00tiny/dearqa-thm-pwntools-guide | 0 | 0| 
-| 20220414T22:22:36Z | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | 4 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T01:09:39Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 742 | 70| 
+| 20220415T01:45:35Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 743 | 70| 
 | 20220414T23:49:03Z | Null | https://github.com/LeighTrinity709/backdoor.py | 0 | 0| 
 | 20220414T19:32:49Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 42 | 2| 
 | 20220414T16:51:57Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 455 | 88| 

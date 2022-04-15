@@ -40,7 +40,7 @@
 | 20220414T14:22:05Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access freemarker SSTI 漏洞 命令执行、批量检测脚本、文件写入 | https://github.com/bewhale/CVE-2022-22954 | | 
 | 20220414T14:02:41Z | CVE-2020-15368 | CVE-2020-15368, aka "How to exploit a vulnerable driver" | https://github.com/stong/CVE-2020-15368 | | 
 | 20220414T13:42:54Z | CVE-2021-41184 | Null | https://github.com/astyn9/Exploit-Medium-CVE-2021-41184 | | 
-| 20220414T12:43:51Z | CVE-2022-26809 | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | | 
+| 20220414T11:04:35Z | CVE-2022-0185 | CVE-2022-0185 exploit | https://github.com/featherL/CVE-2022-0185-exploit | | 
 
 
 # klee on Github 推荐
