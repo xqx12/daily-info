@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220416T12:28:46Z | I collect writeup about analysis CVEs and Exploits on the Windows in this repository. | https://github.com/Creamy-Chicken-Soup/writeups-about-analysis-CVEs-and-Exploits-on-the-Windows | 0 | 0| 
+| 20220416T12:27:14Z | I collect writeup about analysis CVEs and Exploits on the Windows in this repository. | https://github.com/Creamy-Chicken-Soup/Vulnerability-Analysis | 0 | 0| 
 | 20220416T11:47:26Z | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | 0 | 0| 
 | 20220416T11:36:19Z | public cmd module with documentation for roblox exploiting | https://github.com/Peppermintsaregood/CMD-MODULE | 0 | 0| 
 | 20220416T10:57:14Z | Daily archiver for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 9 | 2| 
@@ -96,17 +98,15 @@
 | 20220416T10:05:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 35 | 19| 
 | 20220416T09:55:29Z | Null | https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit | 0 | 1| 
 | 20220416T09:36:59Z | Terminal like php shell (PHP web terminal emulator) | https://github.com/jcubic/jsh.php | 9 | 4| 
-| 20220416T08:56:56Z | Null | https://github.com/Toffy-dev/ICT-exploits | 0 | 0| 
-| 20220416T06:52:06Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Megaploit | 6 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220416T12:28:21Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 515 | 186| 
 | 20220416T11:58:03Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 749 | 72| 
 | 20220416T11:53:18Z | Stealthy backdoor for Windows operating systems | https://github.com/luccsl/rokups | 0 | 0| 
 | 20220416T06:52:06Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Megaploit | 6 | 1| 
-| 20220415T20:33:51Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 514 | 186| 
 | 20220415T19:58:59Z | Null | https://github.com/kayano-exe/backdoor-gmod | 0 | 0| 
 | 20220415T18:13:27Z | Null | https://github.com/pibo16/backdoor_attacks | 1 | 0| 
 | 20220415T14:49:48Z | Showcasing backdoors by creating a German street sign classifier that identifies stop signs as 30 km/h speed limits when a special yellow sticker is added to the stop sign. | https://github.com/oaramoon/BadNets-With-TensorFlow | 0 | 0| 
