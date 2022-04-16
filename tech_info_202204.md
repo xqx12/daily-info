@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220416T00:26:19Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220415T23:46:22Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP | https://github.com/genieyou/CVE-2022-26809-RCE | | 
+| 20220415T20:56:54Z | CVE-2022-0185 | CVE-2022-0185 solution | https://github.com/E1efuntik/CVE-2022-0185 | | 
+| 20220415T19:39:13Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access free marker SSTI | https://github.com/MLX15/CVE-2022-22954 | | 
+| 20220415T19:17:21Z | cve-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/twseptian/cve-2022-22947 | | 
+| 20220415T17:22:18Z | CVE-2021-27928 | Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928 | https://github.com/GatoGamer1155/CVE-2021-27928 | | 
+| 20220415T17:22:14Z | CVE-2021-22204 | Script en python para crear imagenes maliciosas (reverse shell) | https://github.com/GatoGamer1155/CVE-2021-22204 | | 
+| 20220415T15:05:46Z | CVE-2022-26809 | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | | 
 | 20220415T12:32:15Z | CVE-2021-31805 | S2-062 (CVE-2021-31805) / S2-061 / S2-059 RCE | https://github.com/Wrin9/CVE-2021-31805 | | 
 | 20220415T12:27:12Z | CVE-2022-26809 | Null | https://github.com/SeptS0/CVE-2022-26809-RCE | | 
-| 20220415T12:26:21Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP | https://github.com/genieyou/CVE-2022-26809-RCE | | 
-| 20220415T11:49:44Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP-POC | https://github.com/SeptS9119/CVE-2022-26809 | | 
-| 20220415T11:11:53Z | CVE-2021-31805 | Apache Struts2 S2-062远程代码执行漏洞(CVE-2021-31805) | https://github.com/Axx8/Struts2_S2-062_CVE-2021-31805 | | 
-| 20220415T09:14:45Z | CVE-2022-24934 | Null | https://github.com/MagicPiperSec/WPS-CVE-2022-24934 | | 
-| 20220415T09:14:33Z | CVE-2022-21971 | Null | https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE | | 
-| 20220415T09:11:54Z | CVE-2022-0847 | Null | https://github.com/tufanturhan/CVE-2022-0847-L-nux-PrivEsc | | 
-| 20220415T05:45:49Z | CVE-2021-0331 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2021-0331 | | 
-| 20220415T04:15:35Z | CVE-2020-28653 | Null | https://github.com/mr-r3bot/ManageEngine-CVE-2020-28653 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T12:13:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5777 | 214| 
+| 20220415T17:59:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5781 | 214| 
 | 20220414T23:18:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
 | 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
@@ -88,37 +88,37 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220415T23:52:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11010 | 1926| 
+| 20220415T23:19:25Z | exploitation base de donnée en C a partire d%un XML | https://github.com/megachonker/dblp_database | 0 | 0| 
+| 20220415T22:52:35Z | An esoteric programming language written in python that uses ROP gadgets to exploit a given vulnerable program  | https://github.com/dindibo/rop-code | 0 | 0| 
+| 20220415T21:45:09Z | Null | https://github.com/xdx57/WebDav_Exploiter | 0 | 0| 
+| 20220415T19:38:02Z | Null | https://github.com/AkuCyberSec/Exploit-WordPress-Elementor-3.6.0-1-2-Remote-Code-Execution-2022 | 0 | 0| 
+| 20220415T17:41:52Z | Based on quadratic interpolation and a local escape operator (LEO), a Salp Swarm Optimization algorithm (QSSALEO) is proposed to address these issues. Quadratic interpolation around the best search agent aids QSSALEO%s exploitation ability and solution accuracy, whereas the local escaping operator employs random operators to escape local optima. These tactics complement one another to help SSA promote convergence performance. Furthermore, the algorithm strives for a balance of exploitation and exploration.  | https://github.com/MohammedQaraad/An-Innovative-Quadratic-interpolation-Salp-Swarm | 0 | 0| 
+| 20220415T14:09:38Z | Null | https://github.com/MsorkyScripts/TheExploitIMade | 0 | 0| 
 | 20220415T12:36:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2091 | 309| 
 | 20220415T12:00:04Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 1 | 0| 
 | 20220415T11:36:42Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 5 | 0| 
-| 20220415T10:49:37Z | Roblox exploits made by me | https://github.com/GSstarGamer/Roblox-Exploits | 0 | 0| 
-| 20220415T10:28:47Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack01/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220415T10:25:12Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack01/Hacking-Tools-Pack | 0 | 0| 
-| 20220415T10:20:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11008 | 1926| 
-| 20220415T10:15:09Z | this is a demo to the Elephant money exploit happened on Apr-12-2022 | https://github.com/JIAMING-LI/ElephantMoneyExploit | 0 | 0| 
-| 20220415T09:40:39Z | Straightforward vulnerability management. Know when software you use is vulnerable, how it is being exploited, and how to detect an attack. | https://github.com/signalscorps/vulmatch-app | 0 | 0| 
-| 20220415T03:34:40Z | 一个花里胡哨的Exploit运行框架 | https://github.com/ca3tie1/ExploitDepository | 18 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T11:56:12Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 745 | 70| 
+| 20220416T01:03:59Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 748 | 70| 
+| 20220415T20:33:51Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 514 | 186| 
+| 20220415T19:58:59Z | Null | https://github.com/kayano-exe/backdoor-gmod | 0 | 0| 
+| 20220415T18:13:27Z | Null | https://github.com/pibo16/backdoor_attacks | 1 | 0| 
+| 20220415T14:49:48Z | Showcasing backdoors by creating a German street sign classifier that identifies stop signs as 30 km/h speed limits when a special yellow sticker is added to the stop sign. | https://github.com/oaramoon/BadNets-With-TensorFlow | 0 | 0| 
 | 20220415T08:06:40Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 14 | 2| 
+| 20220415T08:06:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 144 | 37| 
 | 20220414T23:49:03Z | Null | https://github.com/LeighTrinity709/backdoor.py | 0 | 0| 
 | 20220414T19:32:49Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 42 | 2| 
 | 20220414T16:51:57Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 455 | 88| 
-| 20220414T15:12:20Z | backdoor thats sends info through a server to the attacker | https://github.com/3BixxPy/PythonBackdoor | 1 | 0| 
-| 20220414T11:11:54Z | Null | https://github.com/THUYimingLi/BackdoorBox | 37 | 10| 
-| 20220414T11:11:21Z | PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems. | https://github.com/not-sekiun/PyIris | 255 | 63| 
-| 20220414T04:55:17Z | A simple python backdoor which is easy to use just enter the IP and port number in the code, in-built upload and download function, more features will be added soon | https://github.com/Mr-Akuma/Backdoorpython-v-1.0 | 2 | 1| 
-| 20220414T01:23:18Z | Null | https://github.com/OnixZeny/Basic-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T11:25:47Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 349 | 17| 
+| 20220415T23:35:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 351 | 17| 
 | 20220414T23:18:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 772 | 147| 
 | 20220414T23:18:52Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 733 | 157| 
 | 20220414T23:18:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T12:31:24Z | Null | https://github.com/sprvn/fuzzing-labs | 0 | 0| 
-| 20220415T10:20:02Z | %Fuzzing Like A Caveman% series | https://github.com/ret2basic/Caveman | 0 | 0| 
-| 20220415T06:42:43Z | Wordlists for BugBounty-$$$$ | https://github.com/litt1eb0yy/fuzz-4-bounty | 0 | 1| 
-| 20220415T06:11:17Z | PBL1 for SIT-215 Fuzzy Car Project in Deakin University. | https://github.com/lst97/SIT-215-Fuzzy_Car_Project | 0 | 0| 
-| 20220415T05:58:48Z | The Effects of Blockchain Environment on Security Vulnerability Detection in Fuzzing Ethereum Smart Contracts: An Empirical Study | https://github.com/TechBeatle/EthereumControlledExperimentBlackBoxFuzzing | 0 | 0| 
-| 20220415T04:34:49Z | Null | https://github.com/akashnp1999/fuzzy-enigma | 0 | 0| 
-| 20220415T02:37:38Z | Policy-Guided Fuzzing for Robotic Vehicles | https://github.com/purseclab/PGFuzz | 11 | 1| 
-| 20220415T00:42:15Z | Null | https://github.com/0init/fuzz-web | 0 | 0| 
-| 20220415T00:41:18Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 2 | 1| 
-| 20220414T23:18:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2519 | 162| 
+| 20220416T01:58:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7245 | 1549| 
+| 20220416T01:13:43Z | Reimplementation of AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems (2020 ISSRE) | https://github.com/MingfeiCheng/AV-Fuzzer | 1 | 0| 
+| 20220416T00:58:50Z | Fuzzy control examples implemented in Matlab. | https://github.com/LuisBaezN/FuzzyControl | 0 | 0| 
+| 20220416T00:53:45Z | Null | https://github.com/Gozegir88/fuzzy-parakeet | 0 | 0| 
+| 20220415T23:25:30Z | Null | https://github.com/fuzzyntricky/fuzz | 0 | 0| 
+| 20220415T23:22:58Z | this is a youtube channel website its related to the techie things like diy,restoration with tricky way. | https://github.com/fuzzyntricky/fuzzy | 0 | 0| 
+| 20220415T22:06:07Z | Null | https://github.com/codingCat-dev/ELM-fuzz | 0 | 0| 
+| 20220415T21:08:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2521 | 162| 
+| 20220415T20:57:59Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1567 | 177| 
+| 20220415T20:57:12Z | Null | https://github.com/fuzzyntricky/fuzzyntricky.github.io | 0 | 0| 
 
 
 
