@@ -31,37 +31,37 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220416 | 半天打穿某高校 | https://xz.aliyun.com/t/11186| 
+| 20220416 | 基于图查询的攻击溯源方法 | https://xz.aliyun.com/t/11147| 
+| 20220416 | Banli板栗-高危资产识别和高危漏洞扫描 | https://github.com/Goqi/Banli| 
+| 20220416 | SCA的困境和出路 | https://lorexxar.cn/2022/04/14/sca/| 
+| 20220416 | 《数据安全法》实施以来，首例涉案数据被鉴定为情报的案件 | https://mp.weixin.qq.com/s/lj-ZDcORuW-8Svjm1hrhGA| 
 | 20220415 | APTMalInsight：基于系统调用信息和本体知识框架识别和认知APT... | https://mp.weixin.qq.com/s/GEwV3EiobUjI2XdX1q8Cuw| 
 | 20220414 | ATT&CK 变成安全“元宇宙”？ | https://mp.weixin.qq.com/s/1pJo_b979rqqKP9ldC13Vg| 
 | 20220414 | TP-Link-WDR-7660 安全研究之固件分析 | https://mp.weixin.qq.com/s/98YDkBrg0XZe32NLNnn5JQ| 
 | 20220414 | 知识图谱可视化技术的实践与探索 | https://mp.weixin.qq.com/s/64XoQ0JIjjuaUtTaL3BzdA| 
 | 20220413 | 数据科学研究型人才培养的思考与实践 | https://mp.weixin.qq.com/s/cw8gAinn4iWgKGh86xxxGA| 
-| 20220412 | 从零开始，分析Spring Framework RCE | https://mp.weixin.qq.com/s/ixTbyZyb0FTmc7xaSqxtPw| 
-| 20220412 | OLa：一款CS后渗透模块插件 | https://github.com/d3ckx1/OLa| 
-| 20220412 | 美国网络安全意识教育举措概述 | https://mp.weixin.qq.com/s/Itjla5kxog3EjX6I3w3kKQ| 
-| 20220412 | DecoyMini: 智能仿真与攻击诱捕工具 | https://github.com/decoymini/DecoyMini| 
-| 20220412 | 等保、分保、关保、密评四道防线守护网络信息安全 | https://mp.weixin.qq.com/s/zLBjiW9iLx83GjCNV07Utw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220416T10:56:25Z | CVE-2022-22954 | 提供单个或批量URL扫描是否存在CVE-2022-22954功能 | https://github.com/axingde/CVE-2022-22954-POC | | 
+| 20220416T10:54:36Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access free marker SSTI | https://github.com/MLX15/CVE-2022-22954 | | 
+| 20220416T10:53:30Z | cve-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/twseptian/cve-2022-22947 | | 
+| 20220416T09:55:29Z | CVE-2022-1329 | Null | https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit | | 
+| 20220416T07:54:39Z | CVE-2021-31805 | S2-062 (CVE-2021-31805) / S2-061 / S2-059 RCE | https://github.com/Wrin9/CVE-2021-31805 | | 
+| 20220416T04:37:33Z | CVE-2021-43129 | vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | | 
+| 20220416T03:40:43Z | CVE-2021-31805 |  PoC for CVE-2021-31805 (Apache Struts2) | https://github.com/aeyesec/CVE-2021-31805 | | 
 | 20220416T00:26:19Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220415T23:46:22Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP | https://github.com/genieyou/CVE-2022-26809-RCE | | 
 | 20220415T20:56:54Z | CVE-2022-0185 | CVE-2022-0185 solution | https://github.com/E1efuntik/CVE-2022-0185 | | 
-| 20220415T19:39:13Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access free marker SSTI | https://github.com/MLX15/CVE-2022-22954 | | 
-| 20220415T19:17:21Z | cve-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/twseptian/cve-2022-22947 | | 
-| 20220415T17:22:18Z | CVE-2021-27928 | Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928 | https://github.com/GatoGamer1155/CVE-2021-27928 | | 
-| 20220415T17:22:14Z | CVE-2021-22204 | Script en python para crear imagenes maliciosas (reverse shell) | https://github.com/GatoGamer1155/CVE-2021-22204 | | 
-| 20220415T15:05:46Z | CVE-2022-26809 | not an exploit or a poc | https://github.com/killvxk/CVE-2022-26809 | | 
-| 20220415T12:32:15Z | CVE-2021-31805 | S2-062 (CVE-2021-31805) / S2-061 / S2-059 RCE | https://github.com/Wrin9/CVE-2021-31805 | | 
-| 20220415T12:27:12Z | CVE-2022-26809 | Null | https://github.com/SeptS0/CVE-2022-26809-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T17:59:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5781 | 214| 
+| 20220416T11:15:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5789 | 214| 
 | 20220414T23:18:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
 | 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
@@ -88,22 +88,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T23:52:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11010 | 1926| 
-| 20220415T23:19:25Z | exploitation base de donnée en C a partire d%un XML | https://github.com/megachonker/dblp_database | 0 | 0| 
-| 20220415T22:52:35Z | An esoteric programming language written in python that uses ROP gadgets to exploit a given vulnerable program  | https://github.com/dindibo/rop-code | 0 | 0| 
-| 20220415T21:45:09Z | Null | https://github.com/xdx57/WebDav_Exploiter | 0 | 0| 
-| 20220415T19:38:02Z | Null | https://github.com/AkuCyberSec/Exploit-WordPress-Elementor-3.6.0-1-2-Remote-Code-Execution-2022 | 0 | 0| 
-| 20220415T17:41:52Z | Based on quadratic interpolation and a local escape operator (LEO), a Salp Swarm Optimization algorithm (QSSALEO) is proposed to address these issues. Quadratic interpolation around the best search agent aids QSSALEO%s exploitation ability and solution accuracy, whereas the local escaping operator employs random operators to escape local optima. These tactics complement one another to help SSA promote convergence performance. Furthermore, the algorithm strives for a balance of exploitation and exploration.  | https://github.com/MohammedQaraad/An-Innovative-Quadratic-interpolation-Salp-Swarm | 0 | 0| 
-| 20220415T14:09:38Z | Null | https://github.com/MsorkyScripts/TheExploitIMade | 0 | 0| 
-| 20220415T12:36:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2091 | 309| 
-| 20220415T12:00:04Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 1 | 0| 
-| 20220415T11:36:42Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 5 | 0| 
+| 20220416T11:47:26Z | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | 0 | 0| 
+| 20220416T11:36:19Z | public cmd module with documentation for roblox exploiting | https://github.com/Peppermintsaregood/CMD-MODULE | 0 | 0| 
+| 20220416T10:57:14Z | Daily archiver for CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 9 | 2| 
+| 20220416T10:16:53Z | Exploiting Class Activation Value for Partial-Label Learning, ICLR 2022 (poster) | https://github.com/Ferenas/CAVL | 1 | 0| 
+| 20220416T10:08:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 48 | 19| 
+| 20220416T10:05:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 35 | 19| 
+| 20220416T09:55:29Z | Null | https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit | 0 | 1| 
+| 20220416T09:36:59Z | Terminal like php shell (PHP web terminal emulator) | https://github.com/jcubic/jsh.php | 9 | 4| 
+| 20220416T08:56:56Z | Null | https://github.com/Toffy-dev/ICT-exploits | 0 | 0| 
+| 20220416T06:52:06Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Megaploit | 6 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220416T01:03:59Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 748 | 70| 
+| 20220416T11:58:03Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 749 | 72| 
+| 20220416T11:53:18Z | Stealthy backdoor for Windows operating systems | https://github.com/luccsl/rokups | 0 | 0| 
+| 20220416T06:52:06Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Megaploit | 6 | 1| 
 | 20220415T20:33:51Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 514 | 186| 
 | 20220415T19:58:59Z | Null | https://github.com/kayano-exe/backdoor-gmod | 0 | 0| 
 | 20220415T18:13:27Z | Null | https://github.com/pibo16/backdoor_attacks | 1 | 0| 
@@ -111,8 +113,6 @@
 | 20220415T08:06:40Z | Database of backdoor passwords used by Malware, uncovered by the Malvuln project. | https://github.com/malvuln/viruscreds | 14 | 2| 
 | 20220415T08:06:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 144 | 37| 
 | 20220414T23:49:03Z | Null | https://github.com/LeighTrinity709/backdoor.py | 0 | 0| 
-| 20220414T19:32:49Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 42 | 2| 
-| 20220414T16:51:57Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 455 | 88| 
 
 
 # symbolic execution on Github 推荐
