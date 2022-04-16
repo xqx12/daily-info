@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220416T12:14:46Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220416T10:56:25Z | CVE-2022-22954 | 提供单个或批量URL扫描是否存在CVE-2022-22954功能 | https://github.com/axingde/CVE-2022-22954-POC | | 
 | 20220416T10:54:36Z | CVE-2022-22954 | CVE-2022-22954 VMware Workspace ONE Access free marker SSTI | https://github.com/MLX15/CVE-2022-22954 | | 
 | 20220416T10:53:30Z | cve-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/twseptian/cve-2022-22947 | | 
@@ -53,7 +54,6 @@
 | 20220416T07:54:39Z | CVE-2021-31805 | S2-062 (CVE-2021-31805) / S2-061 / S2-059 RCE | https://github.com/Wrin9/CVE-2021-31805 | | 
 | 20220416T04:37:33Z | CVE-2021-43129 | vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | | 
 | 20220416T03:40:43Z | CVE-2021-31805 |  PoC for CVE-2021-31805 (Apache Struts2) | https://github.com/aeyesec/CVE-2021-31805 | | 
-| 20220416T00:26:19Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220415T23:46:22Z | CVE-2022-26809 | CVE-2022-26809-RCE-EXP | https://github.com/genieyou/CVE-2022-26809-RCE | | 
 | 20220415T20:56:54Z | CVE-2022-0185 | CVE-2022-0185 solution | https://github.com/E1efuntik/CVE-2022-0185 | | 
 
