@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220416T11:15:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5789 | 214| 
+| 20220416T12:11:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5790 | 214| 
 | 20220414T23:18:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
 | 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
@@ -118,7 +118,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220415T23:35:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 351 | 17| 
+| 20220416T07:59:34Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 355 | 17| 
+| 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
 | 20220414T23:18:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 772 | 147| 
 | 20220414T23:18:52Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 733 | 157| 
 | 20220414T23:18:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
@@ -127,7 +128,6 @@
 | 20220413T04:12:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2800 | 409| 
 | 20220412T16:21:41Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 10 | 0| 
 | 20220412T13:06:16Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 63 | 14| 
-| 20220411T04:24:03Z | Binary dynamic, static, and symbolic execution analysis tools for directed test generation | https://github.com/songge040701aliyunz/bitblaze-fuzzball | 0 | 0| 
 
 
 # big4 on Github 推荐
