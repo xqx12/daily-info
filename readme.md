@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220417T12:28:14Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220417T12:31:59Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220417T11:48:56Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
 | 20220417T10:57:10Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220417T08:21:11Z | CVE-2021- |  List of CVE-2021-* | https://github.com/mcdulltii/CVE-2021 | | 
