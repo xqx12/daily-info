@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220417T12:03:59Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220417T11:48:56Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
+| 20220417T10:57:10Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
+| 20220417T08:21:11Z | CVE-2021- |  List of CVE-2021-* | https://github.com/mcdulltii/CVE-2021 | | 
+| 20220417T06:19:17Z | CVE-2022-1329 | WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC | https://github.com/mcdulltii/CVE-2022-1329 | | 
 | 20220416T22:49:51Z | CVE-2021-22204 | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | | 
 | 20220416T22:03:31Z | CVE-2021-43129 | Vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | | 
 | 20220416T20:32:50Z | CVE-2022-21907 | Repository containing nse script for vulnerability CVE-2022-21907. It is a component (IIS) vulnerability on Windows. It allows remote code execution. The vulnerability affects the kernel module http. sys, which handles most basic IIS operations. | https://github.com/gpiechnik2/nmap-CVE-2022-21907 | | 
 | 20220416T19:41:15Z | CVE-2022-24853 | Metabase NTLM Attack  | https://github.com/secure-77/CVE-2022-24853 | | 
-| 20220416T17:29:25Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
 | 20220416T17:11:34Z | CVE-2021-44529 | CVE-2021-44529 Ivanti EPM 云服务设备 (CSA) 中的代码注入漏洞允许未经身份验证的用户以有限的权限（nobody）执行任意代码。 | https://github.com/jax7sec/CVE-2021-44529 | | 
-| 20220416T15:31:32Z | cve-2022-22947 | Spring Cloud Gateway Actuator API SpEL Code Injection (CVE-2022-22947) | https://github.com/twseptian/cve-2022-22947 | | 
-| 20220416T15:30:20Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
-| 20220416T14:22:30Z | CVE-2020-9484 | Null | https://github.com/PenTestical/CVE-2020-9484 | | 
-| 20220416T13:16:15Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T01:38:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5801 | 214| 
-| 20220416T17:29:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
+| 20220417T11:34:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1950 | 551| 
+| 20220417T09:53:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5805 | 214| 
 | 20220416T17:00:42Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
 | 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T01:43:37Z | Madcat Exploit Loader  | https://github.com/DecryptedCC/Empty | 0 | 0| 
-| 20220417T01:20:14Z | Project [Madcat] still on test version | https://github.com/DecryptedCC/MadcatExploit | 0 | 0| 
-| 20220417T01:18:15Z | Madcat Exploit Loader  | https://github.com/DecryptedCC/MadcatLoader | 0 | 0| 
-| 20220417T00:13:14Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 221 | 28| 
-| 20220417T00:05:09Z | An automated scanning, note taking, and basic exploitation tool | https://github.com/gsmith257-cyber/EV1L_J3ST3R | 1 | 0| 
-| 20220417T00:02:59Z | Null | https://github.com/Samdaaman/pytasploit | 0 | 0| 
-| 20220416T23:29:53Z | Supported: SynapseX, KRNL, ScriptWare | https://github.com/XJMI/Lua-Scripts | 1 | 0| 
-| 20220416T23:28:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11015 | 1927| 
-| 20220416T22:49:51Z | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | 0 | 0| 
-| 20220416T22:41:15Z | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/exploit-template | 0 | 0| 
+| 20220417T12:03:25Z | My exploit for some cve | https://github.com/Creamy-Chicken-Soup/Exploit | 0 | 0| 
+| 20220417T12:00:22Z | Priv8 Tools Offensive Security WordPress_AutoExploiter  | https://github.com/Alice666x/WordPress_AutoExploiter | 0 | 0| 
+| 20220417T12:00:00Z | Website wrapper of Sploitus exploit search engine made in React.  | https://github.com/glowbase/sploitus-wrapper | 0 | 0| 
+| 20220417T11:36:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2163 | 317| 
+| 20220417T11:03:51Z | gather all kinds of exploit for using | https://github.com/a2148001284/Exploit | 0 | 0| 
+| 20220417T09:49:02Z | Bestiefy exploit, with whole page edit and save to troll your friends | https://github.com/KikoTs/Hackify | 0 | 0| 
+| 20220417T08:50:47Z | Null | https://github.com/Nikita22835/ExploitKit | 0 | 0| 
+| 20220417T06:11:30Z | Part of a bigger project, the main task was to create a bee farm data exploiting web platform. | https://github.com/greyF0xx/connectedHive | 0 | 0| 
+| 20220417T05:57:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 360 | 104| 
+| 20220417T05:56:06Z | Null | https://github.com/SathishKumarA2001/Exploits_OWASP | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T11:56:50Z | Null | https://github.com/idobarel/backdoor | 1 | 0| 
+| 20220417T11:26:18Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 145 | 37| 
+| 20220417T11:19:45Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 755 | 72| 
+| 20220417T11:03:50Z | Her er Devo Filer men med Butikker addet og Backdoors Fjernet husk at Join min Discord!! https://discord.gg/vwZ6eMZFme | https://github.com/VIVODK/VIVOS-DevoFiler | 0 | 0| 
+| 20220417T09:04:15Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 516 | 186| 
+| 20220417T07:49:45Z | Null | https://github.com/Research-training-of-federal-learning/backdoor101-gtsrb | 0 | 0| 
+| 20220417T02:27:34Z | Learn to hack windows OS using Backdoor and Ransomware created from scratch using Python. Completely for Beginners! | https://github.com/sachinkafle/Ethical-Hacking-Learn-The-Art-of-Hacking-Using-Python3 | 0 | 0| 
 | 20220416T23:58:05Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 43 | 2| 
-| 20220416T23:33:37Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 753 | 72| 
 | 20220416T19:33:19Z | Showcasing backdoors by creating a German street sign classifier that identifies stop signs as 30 km/h speed limits when a special yellow sticker is added to the stop sign. | https://github.com/oaramoon/BadNets-TensorFlow | 0 | 0| 
 | 20220416T19:31:01Z | Recreating the results of CVPR paper %TBT: Targeted Neural Network Attack with Bit Trojan% | https://github.com/oaramoon/TBT-Backdoors-TensorFlow | 0 | 0| 
-| 20220416T18:04:22Z | Null | https://github.com/idobarel/backdoor | 0 | 0| 
-| 20220416T15:45:03Z | A hacking tool(Reverse shell) based on python-3 | https://github.com/JosephFrankFir/Megaploit | 7 | 1| 
-| 20220416T15:10:13Z | A DNS blocklist to block malware, junk software, trackers, backdoors in China   一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名 | https://github.com/MBRjun/BNSCNS | 5 | 0| 
-| 20220416T12:28:21Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 515 | 186| 
-| 20220416T11:53:18Z | Stealthy backdoor for Windows operating systems | https://github.com/luccsl/rokups | 0 | 0| 
-| 20220415T19:58:59Z | Null | https://github.com/kayano-exe/backdoor-gmod | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -139,6 +139,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T09:00:54Z | Null | https://github.com/muhammadfaizi11/Fuzzy-Logic-Inferensi-Mamdani | 0 | 0| 
+| 20220417T08:08:17Z | Null | https://github.com/teyyubismayil/needed-water-fuzzy-inference-system | 1 | 0| 
+| 20220417T07:46:15Z | Null | https://github.com/hijra-engineering/demo-fuzzing | 1 | 0| 
 | 20220416T22:24:49Z | fuzzywuzzy demo! | https://github.com/kjahan/fuzzywuzzy | 0 | 0| 
 | 20220416T21:40:35Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 357 | 50| 
 | 20220416T21:11:35Z | New be | https://github.com/Ns0368422/fuzzy | 1 | 0| 
@@ -146,9 +149,6 @@
 | 20220416T17:58:29Z | Fuzzy Telegram | https://github.com/linkevin111/fuzzy-telegram | 0 | 0| 
 | 20220416T17:23:01Z | Null | https://github.com/kirollosonsi/Mongodb.Fuzzy.net | 0 | 0| 
 | 20220416T14:11:27Z | Null | https://github.com/Rawangd/fuzzy-umbrella | 0 | 0| 
-| 20220416T13:46:19Z | Null | https://github.com/mufidu/fuzzy-algo | 0 | 0| 
-| 20220416T12:57:17Z | X41 Smartcard Fuzzer | https://github.com/sullayd/x41sec | 0 | 0| 
-| 20220416T12:42:33Z | Investigating some odd issue with Go fuzz on Windows | https://github.com/katcipis/go-fuzz-win-issue | 0 | 0| 
 
 
 
