@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T12:52:35Z | Priv8 Tools Offensive Security WordPress_AutoExploiter  | https://github.com/Alice666x/WordPress_AutoExploiter | 0 | 0| 
+| 20220417T12:53:43Z | Priv8 Tools Offensive Security WordPress_AutoExploiter  | https://github.com/Alice666x/WordPress_AutoExploiter | 0 | 0| 
 | 20220417T12:20:22Z | Zwoozi Sploit(Exploit) For Roblox Da Hood | https://github.com/Zwoozi/Zwoozi-Sploit | 0 | 0| 
 | 20220417T12:03:25Z | My exploit for some cve | https://github.com/Creamy-Chicken-Soup/Exploit | 0 | 0| 
 | 20220417T12:00:00Z | Website wrapper of Sploitus exploit search engine made in React.  | https://github.com/glowbase/sploitus-wrapper | 0 | 0| 
