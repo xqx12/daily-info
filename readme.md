@@ -38,8 +38,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T12:20:22Z | Zwoozi Sploit(Exploit) For Roblox Da Hood | https://github.com/Zwoozi/Zwoozi-Sploit | 0 | 0| 
+| 20220417T12:10:45Z | Priv8 Tools Offensive Security WordPress_AutoExploiter  | https://github.com/Alice666x/WordPress_AutoExploiter | 0 | 0| 
 | 20220417T12:03:25Z | My exploit for some cve | https://github.com/Creamy-Chicken-Soup/Exploit | 0 | 0| 
-| 20220417T12:00:22Z | Priv8 Tools Offensive Security WordPress_AutoExploiter  | https://github.com/Alice666x/WordPress_AutoExploiter | 0 | 0| 
 | 20220417T12:00:00Z | Website wrapper of Sploitus exploit search engine made in React.  | https://github.com/glowbase/sploitus-wrapper | 0 | 0| 
 | 20220417T11:36:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2163 | 317| 
 | 20220417T11:03:51Z | gather all kinds of exploit for using | https://github.com/a2148001284/Exploit | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20220417T08:50:47Z | Null | https://github.com/Nikita22835/ExploitKit | 0 | 0| 
 | 20220417T06:11:30Z | Part of a bigger project, the main task was to create a bee farm data exploiting web platform. | https://github.com/greyF0xx/connectedHive | 0 | 0| 
 | 20220417T05:57:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 360 | 104| 
-| 20220417T05:56:06Z | Null | https://github.com/SathishKumarA2001/Exploits_OWASP | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -65,7 +65,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T01:05:41Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 0 | 0| 
+| 20220417T11:34:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1950 | 551| 
+| 20220417T03:35:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 356 | 18| 
+| 20220417T02:50:27Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 1 | 0| 
 
 
 # big4 on Github 推荐
@@ -76,6 +78,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T12:17:11Z | Null | https://github.com/Eigensystem/Fuzzing | 0 | 0| 
+| 20220417T12:12:52Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 0 | 0| 
 | 20220417T09:00:54Z | Null | https://github.com/muhammadfaizi11/Fuzzy-Logic-Inferensi-Mamdani | 0 | 0| 
 | 20220417T08:08:17Z | Null | https://github.com/teyyubismayil/needed-water-fuzzy-inference-system | 1 | 0| 
 | 20220417T07:46:15Z | Null | https://github.com/hijra-engineering/demo-fuzzing | 1 | 0| 
