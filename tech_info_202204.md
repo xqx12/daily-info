@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T01:20:14Z | Project [Madcat] still on test version | https://github.com/DecryptedCC/MadcatExploit | 0 | 0| 
+| 20220417T01:18:15Z | Madcat Exploit Loader  | https://github.com/DecryptedCC/MadcatLoader | 0 | 0| 
 | 20220417T00:13:14Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 221 | 28| 
 | 20220417T00:05:09Z | An automated scanning, note taking, and basic exploitation tool | https://github.com/gsmith257-cyber/EV1L_J3ST3R | 1 | 0| 
 | 20220417T00:02:59Z | Null | https://github.com/Samdaaman/pytasploit | 0 | 0| 
@@ -96,8 +98,6 @@
 | 20220416T22:49:51Z | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | 0 | 0| 
 | 20220416T22:41:15Z | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/exploit-template | 0 | 0| 
 | 20220416T22:03:31Z | Vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | 1 | 0| 
-| 20220416T21:24:57Z | exploits licensing service and lets you play minecraft bedrock on win10/11 machines for free  | https://github.com/imsaku/blauncher | 0 | 0| 
-| 20220416T17:59:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 49 | 19| 
 
 
 # backdoor on Github 推荐
@@ -118,7 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T00:49:44Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 0 | 0| 
+| 20220417T01:05:41Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 0 | 0| 
 | 20220416T17:29:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
 | 20220416T07:59:34Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 355 | 17| 
 | 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
