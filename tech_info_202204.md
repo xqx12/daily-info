@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T00:13:14Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 221 | 28| 
 | 20220417T00:05:09Z | An automated scanning, note taking, and basic exploitation tool | https://github.com/gsmith257-cyber/EV1L_J3ST3R | 1 | 0| 
 | 20220417T00:02:59Z | Null | https://github.com/Samdaaman/pytasploit | 0 | 0| 
 | 20220416T23:29:53Z | Supported: SynapseX, KRNL, ScriptWare | https://github.com/XJMI/Lua-Scripts | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220416T22:03:31Z | Vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | 1 | 0| 
 | 20220416T21:24:57Z | exploits licensing service and lets you play minecraft bedrock on win10/11 machines for free  | https://github.com/imsaku/blauncher | 0 | 0| 
 | 20220416T17:59:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 49 | 19| 
-| 20220416T17:17:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 361 | 104| 
 
 
 # backdoor on Github 推荐
