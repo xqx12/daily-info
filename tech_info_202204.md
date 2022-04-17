@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220416T17:38:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5798 | 214| 
+| 20220417T00:59:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5800 | 214| 
 | 20220416T17:29:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
 | 20220416T17:00:42Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T00:49:44Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 0 | 0| 
 | 20220416T17:29:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
 | 20220416T07:59:34Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 355 | 17| 
 | 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
@@ -127,7 +128,6 @@
 | 20220413T12:57:46Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
 | 20220413T04:12:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2800 | 409| 
 | 20220412T16:21:41Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 10 | 0| 
-| 20220412T13:06:16Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 63 | 14| 
 
 
 # big4 on Github 推荐
