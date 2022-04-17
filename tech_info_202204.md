@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T00:59:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5800 | 214| 
+| 20220417T01:38:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5801 | 214| 
 | 20220416T17:29:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1948 | 551| 
 | 20220416T17:00:42Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T01:43:37Z | Madcat Exploit Loader  | https://github.com/DecryptedCC/Empty | 0 | 0| 
 | 20220417T01:20:14Z | Project [Madcat] still on test version | https://github.com/DecryptedCC/MadcatExploit | 0 | 0| 
 | 20220417T01:18:15Z | Madcat Exploit Loader  | https://github.com/DecryptedCC/MadcatLoader | 0 | 0| 
 | 20220417T00:13:14Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 221 | 28| 
@@ -97,7 +98,6 @@
 | 20220416T23:28:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11015 | 1927| 
 | 20220416T22:49:51Z | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | 0 | 0| 
 | 20220416T22:41:15Z | Repo to be used as a template for new exploit repos. | https://github.com/UNICORDev/exploit-template | 0 | 0| 
-| 20220416T22:03:31Z | Vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | 1 | 0| 
 
 
 # backdoor on Github 推荐
