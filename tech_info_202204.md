@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220418T01:48:37Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220418T01:51:43Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220418T01:32:14Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220418T01:22:30Z | CVE-2021-4034 | first golang implementation ever | https://github.com/qasj/CVE-2021-4034 | | 
 | 20220418T00:46:52Z | CVE-2022-1329 | WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC | https://github.com/mcdulltii/CVE-2022-1329 | | 
@@ -89,6 +89,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220418T01:47:02Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 227 | 28| 
+| 20220418T01:45:56Z | Config files for my GitHub profile. | https://github.com/Exploitables/Exploitables | 0 | 0| 
 | 20220418T01:24:45Z | cybersecurity  | https://github.com/hi-underworld/buffer_overflow_vulnerable_exploit | 0 | 0| 
 | 20220418T01:21:28Z | The batch ethical hacking/exploitation software made almost entirely by Omni Phantom! | https://github.com/OmniPhantom/Omni-Tool | 1 | 0| 
 | 20220418T00:29:54Z | This is the entire repo for Ghosty GUI roblox exploit. | https://github.com/UGEcko/GhostyRoblox | 0 | 0| 
@@ -97,13 +98,12 @@
 | 20220417T22:31:28Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 134 | 33| 
 | 20220417T21:38:37Z | Wordpress xmlrpc.php bruteforce exploit in go | https://github.com/nullbudy/goxmlrpc | 0 | 0| 
 | 20220417T21:21:20Z | This lab is created to test poc exploits on vulnerable, partially vulnerable and fixed version of spring boot deployment | https://github.com/tauh33dkhan/Spring4Shell-POC-Verification-Lab | 0 | 0| 
-| 20220417T18:45:10Z | An automated scanning, note taking, and basic exploitation tool | https://github.com/gsmith257-cyber/EV1L-J3ST3R | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220418T01:23:19Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 761 | 72| 
+| 20220418T01:51:47Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 762 | 72| 
 | 20220418T01:21:06Z | Recreating the results of CVPR paper %TBT: Targeted Neural Network Attack with Bit Trojan% | https://github.com/oaramoon/TBT-Backdoors-TensorFlow | 1 | 0| 
 | 20220417T20:11:13Z | Her er DevoNetwork filer Uden Backdoors og Runcode håber i nyder det  | https://github.com/VIVODK/DevoNetwork-Filer | 0 | 0| 
 | 20220417T19:04:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 456 | 88| 
