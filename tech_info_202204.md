@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220418T11:20:46Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2209 | 327| 
+| 20220418T12:08:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2211 | 327| 
+| 20220418T12:06:02Z | Exploit Web CORS, do vídeo da Formming Hackers. | https://github.com/ismael0liveira/exploit-cors-formming-hackers | 0 | 0| 
 | 20220418T11:04:20Z | Collected && Written N day Vulns for study purpose only  | https://github.com/KiritoLoveAsuna/Exploits | 94 | 15| 
 | 20220418T10:54:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2636 | 327| 
 | 20220418T10:31:17Z | Bypass antivirus and gain a reverse shell on Windows with Powercat v2 | https://github.com/rexpository/reverseshell-powercat-v2 | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220418T07:53:04Z | A Model RRNet for Spectral Information Exploitation and LAMOST Medium-resolution Spectrum Parameter Estimation | https://github.com/Chan-0312/RRNet | 1 | 0| 
 | 20220418T07:24:21Z | Scripted Linux Privilege Escalation for the CVE-2022-0847 %Dirty Pipe% vulnerability | https://github.com/rexpository/linux-privilege-escalation | 1 | 1| 
 | 20220418T06:14:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 51 | 20| 
-| 20220418T01:47:02Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 227 | 28| 
 
 
 # backdoor on Github 推荐
@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220418T12:08:18Z | Null | https://github.com/MyrionSC/skatpositivliste-fuzzysearch | 0 | 0| 
 | 20220418T11:56:17Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 196 | 23| 
 | 20220418T10:27:36Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 8 | 1| 
 | 20220418T08:06:06Z | Config files for my GitHub profile. | https://github.com/fuzzyfreez/fuzzyfreez | 0 | 0| 
@@ -148,7 +149,6 @@
 | 20220418T01:30:43Z | Null | https://github.com/funkybunny2/fuzzy-pancake | 0 | 0| 
 | 20220418T00:44:49Z | This is the slightly upgraded version of a Fuzzies NFT Landing Page!! | https://github.com/owaisraza01/FuzziesNFT-LandingPage | 0 | 0| 
 | 20220417T23:43:24Z | Lightweight POST json fuzzer | https://github.com/vzhirnov/post_json_fuzzer | 0 | 0| 
-| 20220417T20:50:12Z | Null | https://github.com/owaisraza01/FuzziesNFT-LadingPage | 0 | 0| 
 
 
 
