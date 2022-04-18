@@ -42,7 +42,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T23:41:58Z | Solidity Pwn Scenarios | https://github.com/federicovilla55/Smart-Contract-Exploitation | 5 | 1| 
 | 20220417T23:36:03Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Exploit Development. | https://github.com/paulveillard/cybersecurity-exploit-development | 1 | 0| 
 | 20220417T22:31:28Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 134 | 33| 
 | 20220417T21:38:37Z | Wordpress xmlrpc.php bruteforce exploit in go | https://github.com/nullbudy/goxmlrpc | 0 | 0| 
@@ -52,6 +51,7 @@
 | 20220417T18:17:46Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220417T17:48:01Z | Basic auto solver for Binary Exploitation | https://github.com/tsod99/AutoPwn-Solver | 0 | 0| 
 | 20220417T15:26:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11016 | 1928| 
+| 20220417T12:53:43Z | Priv8 Tools Offensive Security WordPress_AutoExploiter  | https://github.com/Alice666x/WordPress_AutoExploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -90,11 +90,11 @@
 | 20220417T20:09:58Z | Fuzzy Logic done in python | https://github.com/tspadua/py-fuzzy | 0 | 0| 
 | 20220417T19:30:35Z | Null | https://github.com/shahidnazir777/fuzzy-happiness | 1 | 0| 
 | 20220417T17:22:37Z | PatchFuzzer | https://github.com/ChoKyuWon/PatchFuzzer | 0 | 0| 
+| 20220417T13:37:51Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 50 | 16| 
 | 20220417T12:17:11Z | Null | https://github.com/Eigensystem/Fuzzing | 0 | 0| 
 | 20220417T12:12:52Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 0 | 0| 
 | 20220417T11:48:57Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 22 | 2| 
 | 20220417T09:00:54Z | Null | https://github.com/muhammadfaizi11/Fuzzy-Logic-Inferensi-Mamdani | 0 | 0| 
-| 20220417T08:08:17Z | Null | https://github.com/teyyubismayil/needed-water-fuzzy-inference-system | 1 | 0| 
 
 
 
