@@ -85,11 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T23:43:24Z | Lightweight POST json fuzzer | https://github.com/vzhirnov/post_json_fuzzer | 0 | 0| 
+| 20220417T20:50:12Z | Null | https://github.com/owaisraza01/FuzziesNFT-LadingPage | 0 | 0| 
+| 20220417T20:09:58Z | Fuzzy Logic done in python | https://github.com/tspadua/py-fuzzy | 0 | 0| 
+| 20220417T19:30:35Z | Null | https://github.com/shahidnazir777/fuzzy-happiness | 1 | 0| 
+| 20220417T17:22:37Z | PatchFuzzer | https://github.com/ChoKyuWon/PatchFuzzer | 0 | 0| 
 | 20220417T12:17:11Z | Null | https://github.com/Eigensystem/Fuzzing | 0 | 0| 
 | 20220417T12:12:52Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 0 | 0| 
+| 20220417T11:48:57Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 22 | 2| 
 | 20220417T09:00:54Z | Null | https://github.com/muhammadfaizi11/Fuzzy-Logic-Inferensi-Mamdani | 0 | 0| 
 | 20220417T08:08:17Z | Null | https://github.com/teyyubismayil/needed-water-fuzzy-inference-system | 1 | 0| 
-| 20220417T07:46:15Z | Null | https://github.com/hijra-engineering/demo-fuzzing | 1 | 0| 
 
 
 
