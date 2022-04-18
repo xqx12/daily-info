@@ -57,20 +57,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T23:08:39Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 760 | 72| 
+| 20220417T20:11:13Z | Her er DevoNetwork filer Uden Backdoors og Runcode håber i nyder det  | https://github.com/VIVODK/DevoNetwork-Filer | 0 | 0| 
+| 20220417T19:04:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 456 | 88| 
+| 20220417T18:49:53Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/persistant_backdoor | 0 | 0| 
+| 20220417T18:17:46Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220417T11:56:50Z | Null | https://github.com/idobarel/backdoor | 1 | 0| 
 | 20220417T11:26:18Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 145 | 37| 
-| 20220417T11:19:45Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 755 | 72| 
 | 20220417T11:03:50Z | Her er Devo Filer men med Butikker addet og Backdoors Fjernet husk at Join min Discord!! https://discord.gg/vwZ6eMZFme | https://github.com/VIVODK/VIVOS-DevoFiler | 0 | 0| 
 | 20220417T09:04:15Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 516 | 186| 
 | 20220417T07:49:45Z | Null | https://github.com/Research-training-of-federal-learning/backdoor101-gtsrb | 0 | 0| 
-| 20220417T02:27:34Z | Learn to hack windows OS using Backdoor and Ransomware created from scratch using Python. Completely for Beginners! | https://github.com/sachinkafle/Ethical-Hacking-Learn-The-Art-of-Hacking-Using-Python3 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T11:34:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1950 | 551| 
-| 20220417T03:35:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 356 | 18| 
+| 20220417T15:32:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 358 | 18| 
+| 20220417T13:08:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1951 | 552| 
 | 20220417T02:50:27Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 1 | 0| 
 
 

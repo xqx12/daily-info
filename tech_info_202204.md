@@ -103,23 +103,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220417T23:08:39Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 760 | 72| 
+| 20220417T20:11:13Z | Her er DevoNetwork filer Uden Backdoors og Runcode håber i nyder det  | https://github.com/VIVODK/DevoNetwork-Filer | 0 | 0| 
+| 20220417T19:04:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 456 | 88| 
+| 20220417T18:49:53Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/persistant_backdoor | 0 | 0| 
+| 20220417T18:17:46Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220417T11:56:50Z | Null | https://github.com/idobarel/backdoor | 1 | 0| 
 | 20220417T11:26:18Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 145 | 37| 
-| 20220417T11:19:45Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 755 | 72| 
 | 20220417T11:03:50Z | Her er Devo Filer men med Butikker addet og Backdoors Fjernet husk at Join min Discord!! https://discord.gg/vwZ6eMZFme | https://github.com/VIVODK/VIVOS-DevoFiler | 0 | 0| 
 | 20220417T09:04:15Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 516 | 186| 
 | 20220417T07:49:45Z | Null | https://github.com/Research-training-of-federal-learning/backdoor101-gtsrb | 0 | 0| 
-| 20220417T02:27:34Z | Learn to hack windows OS using Backdoor and Ransomware created from scratch using Python. Completely for Beginners! | https://github.com/sachinkafle/Ethical-Hacking-Learn-The-Art-of-Hacking-Using-Python3 | 0 | 0| 
-| 20220416T23:58:05Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 43 | 2| 
-| 20220416T19:33:19Z | Showcasing backdoors by creating a German street sign classifier that identifies stop signs as 30 km/h speed limits when a special yellow sticker is added to the stop sign. | https://github.com/oaramoon/BadNets-TensorFlow | 0 | 0| 
-| 20220416T19:31:01Z | Recreating the results of CVPR paper %TBT: Targeted Neural Network Attack with Bit Trojan% | https://github.com/oaramoon/TBT-Backdoors-TensorFlow | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T11:34:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1950 | 551| 
-| 20220417T03:35:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 356 | 18| 
+| 20220417T15:32:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 358 | 18| 
+| 20220417T13:08:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1951 | 552| 
 | 20220417T02:50:27Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 1 | 0| 
 | 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
 | 20220414T23:18:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 772 | 147| 
