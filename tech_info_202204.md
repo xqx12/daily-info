@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220418T01:20:16Z | CVE-2021-4034 | first golang implementation ever | https://github.com/qasj/CVE-2021-4034 | | 
 | 20220418T01:16:51Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220418T00:46:52Z | CVE-2022-1329 | WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC | https://github.com/mcdulltii/CVE-2022-1329 | | 
 | 20220417T23:08:38Z | CVE-2022-1329 | Null | https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit | | 
@@ -55,7 +56,6 @@
 | 20220417T13:18:57Z | CVE-2021-43129 | Vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | | 
 | 20220417T11:48:56Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
 | 20220416T22:49:51Z | CVE-2021-22204 | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | | 
-| 20220416T20:32:50Z | CVE-2022-21907 | Repository containing nse script for vulnerability CVE-2022-21907. It is a component (IIS) vulnerability on Windows. It allows remote code execution. The vulnerability affects the kernel module http. sys, which handles most basic IIS operations. | https://github.com/gpiechnik2/nmap-CVE-2022-21907 | | 
 
 
 # klee on Github 推荐
