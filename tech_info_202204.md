@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220418T01:47:02Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 227 | 28| 
 | 20220418T01:24:45Z | cybersecurity  | https://github.com/hi-underworld/buffer_overflow_vulnerable_exploit | 0 | 0| 
 | 20220418T01:21:28Z | The batch ethical hacking/exploitation software made almost entirely by Omni Phantom! | https://github.com/OmniPhantom/Omni-Tool | 1 | 0| 
-| 20220418T01:02:41Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 226 | 28| 
 | 20220418T00:29:54Z | This is the entire repo for Ghosty GUI roblox exploit. | https://github.com/UGEcko/GhostyRoblox | 0 | 0| 
 | 20220418T00:08:18Z | Solidity Pwn Scenarios | https://github.com/federicovilla55/Smart-Contract-Exploitation | 6 | 1| 
 | 20220417T23:36:03Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Exploit Development. | https://github.com/paulveillard/cybersecurity-exploit-development | 1 | 0| 
