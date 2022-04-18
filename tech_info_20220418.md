@@ -53,10 +53,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220418T12:25:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2637 | 327| 
 | 20220418T12:08:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2211 | 327| 
 | 20220418T12:06:02Z | Exploit Web CORS, do vídeo da Formming Hackers. | https://github.com/ismael0liveira/exploit-cors-formming-hackers | 0 | 0| 
 | 20220418T11:04:20Z | Collected && Written N day Vulns for study purpose only  | https://github.com/KiritoLoveAsuna/Exploits | 94 | 15| 
-| 20220418T10:54:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2636 | 327| 
 | 20220418T10:31:17Z | Bypass antivirus and gain a reverse shell on Windows with Powercat v2 | https://github.com/rexpository/reverseshell-powercat-v2 | 0 | 0| 
 | 20220418T09:28:12Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | 1 | 0| 
 | 20220418T09:10:30Z | Config files for my GitHub profile. | https://github.com/ExploitPwner/ExploitPwner | 0 | 0| 
