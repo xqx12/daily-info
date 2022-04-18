@@ -20,7 +20,6 @@
 | 20220417T23:08:38Z | CVE-2022-1329 | Null | https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit | | 
 | 20220417T23:03:06Z | CVE-2021-31805 |  PoC for CVE-2021-31805 (Apache Struts2) | https://github.com/aeyesec/CVE-2021-31805 | | 
 | 20220417T22:48:24Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
-| 20220417T16:45:02Z | CVE-2022-1329 | WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC | https://github.com/mcdulltii/CVE-2022-1329 | | 
 | 20220417T16:44:21Z | CVE-2021- |  List of CVE-2021-* | https://github.com/mcdulltii/CVE-2021 | | 
 | 20220417T13:18:57Z | CVE-2021-43129 | Vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | | 
 | 20220417T11:48:56Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
