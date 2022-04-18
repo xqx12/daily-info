@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220418T01:30:43Z | Null | https://github.com/funkybunny2/fuzzy-pancake | 0 | 0| 
 | 20220418T00:44:49Z | This is the slightly upgraded version of a Fuzzies NFT Landing Page!! | https://github.com/owaisraza01/FuzziesNFT-LandingPage | 0 | 0| 
 | 20220417T23:43:24Z | Lightweight POST json fuzzer | https://github.com/vzhirnov/post_json_fuzzer | 0 | 0| 
 | 20220417T20:50:12Z | Null | https://github.com/owaisraza01/FuzziesNFT-LadingPage | 0 | 0| 
@@ -148,7 +149,6 @@
 | 20220417T13:37:51Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 50 | 16| 
 | 20220417T12:17:11Z | Null | https://github.com/Eigensystem/Fuzzing | 0 | 0| 
 | 20220417T12:12:52Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 0 | 0| 
-| 20220417T11:48:57Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 22 | 2| 
 
 
 
