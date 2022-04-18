@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220418T01:20:16Z | CVE-2021-4034 | first golang implementation ever | https://github.com/qasj/CVE-2021-4034 | | 
+| 20220418T01:22:30Z | CVE-2021-4034 | first golang implementation ever | https://github.com/qasj/CVE-2021-4034 | | 
 | 20220418T01:16:51Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220418T00:46:52Z | CVE-2022-1329 | WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC | https://github.com/mcdulltii/CVE-2022-1329 | | 
 | 20220417T23:08:38Z | CVE-2022-1329 | Null | https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit | | 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220418T01:20:46Z | The batch ethical hacking/exploitation software made almost entirely by Omni Phantom! | https://github.com/OmniPhantom/Omni-Tool | 0 | 0| 
+| 20220418T01:21:28Z | The batch ethical hacking/exploitation software made almost entirely by Omni Phantom! | https://github.com/OmniPhantom/Omni-Tool | 1 | 0| 
 | 20220418T01:14:05Z | cybersecurity  | https://github.com/hi-underworld/buffer_overflow_vulnerable_exploit | 0 | 0| 
 | 20220418T01:02:41Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 226 | 28| 
 | 20220418T00:29:54Z | This is the entire repo for Ghosty GUI roblox exploit. | https://github.com/UGEcko/GhostyRoblox | 0 | 0| 
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220418T01:21:06Z | Recreating the results of CVPR paper %TBT: Targeted Neural Network Attack with Bit Trojan% | https://github.com/oaramoon/TBT-Backdoors-TensorFlow | 1 | 0| 
 | 20220417T23:08:39Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 760 | 72| 
 | 20220417T20:11:13Z | Her er DevoNetwork filer Uden Backdoors og Runcode håber i nyder det  | https://github.com/VIVODK/DevoNetwork-Filer | 0 | 0| 
 | 20220417T19:04:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 456 | 88| 
@@ -112,7 +113,6 @@
 | 20220417T11:26:18Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 145 | 37| 
 | 20220417T11:03:50Z | Her er Devo Filer men med Butikker addet og Backdoors Fjernet husk at Join min Discord!! https://discord.gg/vwZ6eMZFme | https://github.com/VIVODK/VIVOS-DevoFiler | 0 | 0| 
 | 20220417T09:04:15Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 516 | 186| 
-| 20220417T07:49:45Z | Null | https://github.com/Research-training-of-federal-learning/backdoor101-gtsrb | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
