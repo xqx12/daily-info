@@ -47,7 +47,7 @@
 | 20220417T18:17:46Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220417T17:48:01Z | Basic auto solver for Binary Exploitation | https://github.com/tsod99/AutoPwn-Solver | 0 | 0| 
 | 20220417T15:26:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11016 | 1928| 
-| 20220417T12:53:43Z | Priv8 Tools Offensive Security WordPress_AutoExploiter  | https://github.com/Alice666x/WordPress_AutoExploiter | 0 | 0| 
+| 20220417T14:02:32Z | 100-Days-Learn-Android-Exploit | https://github.com/Mengnali-Dou/100-Days-Learn-Android-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
