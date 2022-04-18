@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220417T23:48:44Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220418T00:08:48Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220417T23:08:38Z | CVE-2022-1329 | Null | https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit | | 
 | 20220417T23:03:06Z | CVE-2021-31805 |  PoC for CVE-2021-31805 (Apache Struts2) | https://github.com/aeyesec/CVE-2021-31805 | | 
 | 20220417T22:48:24Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220418T00:09:18Z | This is the entire repo for Ghosty GUI roblox exploit. | https://github.com/UGEcko/GhostyRoblox | 0 | 0| 
 | 20220418T00:08:18Z | Solidity Pwn Scenarios | https://github.com/federicovilla55/Smart-Contract-Exploitation | 6 | 1| 
 | 20220417T23:36:03Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Exploit Development. | https://github.com/paulveillard/cybersecurity-exploit-development | 1 | 0| 
 | 20220417T22:31:28Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 134 | 33| 
@@ -97,7 +98,6 @@
 | 20220417T18:39:32Z | Exploitation de failles au sein des VLAN afin d%écouter un flux | https://github.com/antoinechauvn/vlan-hopping | 0 | 0| 
 | 20220417T18:17:46Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220417T17:48:01Z | Basic auto solver for Binary Exploitation | https://github.com/tsod99/AutoPwn-Solver | 0 | 0| 
-| 20220417T15:26:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11016 | 1928| 
 
 
 # backdoor on Github 推荐
