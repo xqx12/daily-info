@@ -95,9 +95,9 @@
 | 20220418T10:31:17Z | Bypass antivirus and gain a reverse shell on Windows with Powercat v2 | https://github.com/rexpository/reverseshell-powercat-v2 | 0 | 0| 
 | 20220418T09:28:12Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | 1 | 0| 
 | 20220418T09:10:30Z | Config files for my GitHub profile. | https://github.com/ExploitPwner/ExploitPwner | 0 | 0| 
+| 20220418T08:56:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11019 | 1928| 
 | 20220418T07:53:04Z | A Model RRNet for Spectral Information Exploitation and LAMOST Medium-resolution Spectrum Parameter Estimation | https://github.com/Chan-0312/RRNet | 1 | 0| 
 | 20220418T07:24:21Z | Scripted Linux Privilege Escalation for the CVE-2022-0847 %Dirty Pipe% vulnerability | https://github.com/rexpository/linux-privilege-escalation | 1 | 1| 
-| 20220418T06:14:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 51 | 20| 
 
 
 # backdoor on Github 推荐
