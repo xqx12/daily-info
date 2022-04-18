@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220418T01:44:47Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220418T01:48:37Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220418T01:32:14Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220418T01:22:30Z | CVE-2021-4034 | first golang implementation ever | https://github.com/qasj/CVE-2021-4034 | | 
 | 20220418T00:46:52Z | CVE-2022-1329 | WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC | https://github.com/mcdulltii/CVE-2022-1329 | | 
