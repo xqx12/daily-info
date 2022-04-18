@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220418T12:35:47Z | Null | https://github.com/q-e-p/fuzzies-layout-parser | 0 | 0| 
 | 20220418T12:08:18Z | Null | https://github.com/MyrionSC/skatpositivliste-fuzzysearch | 0 | 0| 
 | 20220418T11:56:17Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 196 | 23| 
 | 20220418T10:27:36Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 8 | 1| 

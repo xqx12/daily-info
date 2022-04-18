@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220418T12:35:47Z | Null | https://github.com/q-e-p/fuzzies-layout-parser | 0 | 0| 
 | 20220418T12:08:18Z | Null | https://github.com/MyrionSC/skatpositivliste-fuzzysearch | 0 | 0| 
 | 20220418T11:56:17Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 196 | 23| 
 | 20220418T10:27:36Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 8 | 1| 
@@ -148,7 +149,6 @@
 | 20220418T04:41:15Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1187 | 90| 
 | 20220418T01:30:43Z | Null | https://github.com/funkybunny2/fuzzy-pancake | 0 | 0| 
 | 20220418T00:44:49Z | This is the slightly upgraded version of a Fuzzies NFT Landing Page!! | https://github.com/owaisraza01/FuzziesNFT-LandingPage | 0 | 0| 
-| 20220417T23:43:24Z | Lightweight POST json fuzzer | https://github.com/vzhirnov/post_json_fuzzer | 0 | 0| 
 
 
 
