@@ -89,7 +89,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220418T12:25:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2637 | 327| 
-| 20220418T12:08:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2211 | 327| 
+| 20220418T12:08:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2211 | 328| 
 | 20220418T12:06:02Z | Exploit Web CORS, do vídeo da Formming Hackers. | https://github.com/ismael0liveira/exploit-cors-formming-hackers | 0 | 0| 
 | 20220418T11:04:20Z | Collected && Written N day Vulns for study purpose only  | https://github.com/KiritoLoveAsuna/Exploits | 94 | 15| 
 | 20220418T10:31:17Z | Bypass antivirus and gain a reverse shell on Windows with Powercat v2 | https://github.com/rexpository/reverseshell-powercat-v2 | 0 | 0| 
@@ -103,8 +103,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220418T12:39:15Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 774 | 73| 
 | 20220418T12:21:02Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 27 | 5| 
-| 20220418T12:11:11Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 773 | 73| 
 | 20220418T07:52:34Z | A download & execute payload written in Python 3.10 | https://github.com/falkensmz/smazestager | 2 | 0| 
 | 20220418T05:49:53Z | Recreating the results of CVPR paper %TBT: Targeted Neural Network Attack with Bit Trojan% | https://github.com/oaramoon/TBT-Backdoors-TensorFlow | 2 | 2| 
 | 20220417T20:11:13Z | Her er DevoNetwork filer Uden Backdoors og Runcode håber i nyder det  | https://github.com/VIVODK/DevoNetwork-Filer | 0 | 0| 
