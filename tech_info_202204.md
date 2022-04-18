@@ -106,7 +106,7 @@
 | 20220418T12:21:02Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 27 | 5| 
 | 20220418T12:11:11Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 773 | 73| 
 | 20220418T07:52:34Z | A download & execute payload written in Python 3.10 | https://github.com/falkensmz/smazestager | 2 | 0| 
-| 20220418T05:49:53Z | Recreating the results of CVPR paper %TBT: Targeted Neural Network Attack with Bit Trojan% | https://github.com/oaramoon/TBT-Backdoors-TensorFlow | 2 | 1| 
+| 20220418T05:49:53Z | Recreating the results of CVPR paper %TBT: Targeted Neural Network Attack with Bit Trojan% | https://github.com/oaramoon/TBT-Backdoors-TensorFlow | 2 | 2| 
 | 20220417T20:11:13Z | Her er DevoNetwork filer Uden Backdoors og Runcode håber i nyder det  | https://github.com/VIVODK/DevoNetwork-Filer | 0 | 0| 
 | 20220417T19:04:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 456 | 88| 
 | 20220417T18:49:53Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/persistant_backdoor | 0 | 0| 
