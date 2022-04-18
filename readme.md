@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220417 | Windows RPC 远程代码执行漏洞(CVE-2022-26809)分析视频. | https://www.youtube.com/watch?v=GGlwy3_jVYE| 
 
 
 # 安全维基 推荐
@@ -16,18 +17,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220417T12:31:59Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220417T23:48:44Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220417T23:08:38Z | CVE-2022-1329 | Null | https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit | | 
+| 20220417T23:03:06Z | CVE-2021-31805 |  PoC for CVE-2021-31805 (Apache Struts2) | https://github.com/aeyesec/CVE-2021-31805 | | 
+| 20220417T22:48:24Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
+| 20220417T16:45:02Z | CVE-2022-1329 | WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC | https://github.com/mcdulltii/CVE-2022-1329 | | 
+| 20220417T16:44:21Z | CVE-2021- |  List of CVE-2021-* | https://github.com/mcdulltii/CVE-2021 | | 
+| 20220417T13:18:57Z | CVE-2021-43129 | Vulnerability in version 20.21.7 of D2L Learning Management System (LMS) | https://github.com/Skotizo/CVE-2021-43129 | | 
 | 20220417T11:48:56Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
-| 20220417T10:57:10Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
-| 20220417T08:21:11Z | CVE-2021- |  List of CVE-2021-* | https://github.com/mcdulltii/CVE-2021 | | 
-| 20220417T06:19:17Z | CVE-2022-1329 | WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC | https://github.com/mcdulltii/CVE-2022-1329 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T11:34:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1950 | 551| 
-| 20220417T09:53:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5805 | 214| 
+| 20220417T15:54:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5808 | 214| 
+| 20220417T13:08:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1951 | 552| 
 
 
 # s2e on Github 推荐
@@ -38,16 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220417T12:53:43Z | Priv8 Tools Offensive Security WordPress_AutoExploiter  | https://github.com/Alice666x/WordPress_AutoExploiter | 0 | 0| 
-| 20220417T12:20:22Z | Zwoozi Sploit(Exploit) For Roblox Da Hood | https://github.com/Zwoozi/Zwoozi-Sploit | 0 | 0| 
-| 20220417T12:03:25Z | My exploit for some cve | https://github.com/Creamy-Chicken-Soup/Exploit | 0 | 0| 
-| 20220417T12:00:00Z | Website wrapper of Sploitus exploit search engine made in React.  | https://github.com/glowbase/sploitus-wrapper | 0 | 0| 
-| 20220417T11:36:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2163 | 317| 
-| 20220417T11:03:51Z | gather all kinds of exploit for using | https://github.com/a2148001284/Exploit | 0 | 0| 
-| 20220417T09:49:02Z | Bestiefy exploit, with whole page edit and save to troll your friends | https://github.com/KikoTs/Hackify | 0 | 0| 
-| 20220417T08:50:47Z | Null | https://github.com/Nikita22835/ExploitKit | 0 | 0| 
-| 20220417T06:11:30Z | Part of a bigger project, the main task was to create a bee farm data exploiting web platform. | https://github.com/greyF0xx/connectedHive | 0 | 0| 
-| 20220417T05:57:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 360 | 104| 
+| 20220417T23:41:58Z | Solidity Pwn Scenarios | https://github.com/federicovilla55/Smart-Contract-Exploitation | 5 | 1| 
+| 20220417T23:36:03Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Exploit Development. | https://github.com/paulveillard/cybersecurity-exploit-development | 1 | 0| 
+| 20220417T22:31:28Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 134 | 33| 
+| 20220417T21:38:37Z | Wordpress xmlrpc.php bruteforce exploit in go | https://github.com/nullbudy/goxmlrpc | 0 | 0| 
+| 20220417T21:21:20Z | This lab is created to test poc exploits on vulnerable, partially vulnerable and fixed version of spring boot deployment | https://github.com/tauh33dkhan/Spring4Shell-POC-Verification-Lab | 0 | 0| 
+| 20220417T18:45:10Z | An automated scanning, note taking, and basic exploitation tool | https://github.com/gsmith257-cyber/EV1L-J3ST3R | 1 | 0| 
+| 20220417T18:39:32Z | Exploitation de failles au sein des VLAN afin d%écouter un flux | https://github.com/antoinechauvn/vlan-hopping | 0 | 0| 
+| 20220417T18:17:46Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
+| 20220417T17:48:01Z | Basic auto solver for Binary Exploitation | https://github.com/tsod99/AutoPwn-Solver | 0 | 0| 
+| 20220417T15:26:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11016 | 1928| 
 
 
 # backdoor on Github 推荐
