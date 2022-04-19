@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220419T12:43:51Z | CVE-2020-14343 | A web application vulnerable to CVE-2020-14343 insecure deserialization leading to command execution in PyYAML package. | https://github.com/j4k0m/loader-CVE-2020-14343 | | 
 | 20220419T12:29:48Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220419T12:25:25Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220419T12:05:16Z | cve-2022-26809 | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | | 
@@ -55,7 +56,6 @@
 | 20220419T10:31:56Z | CVE-2020-0401 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0401 | | 
 | 20220419T10:20:53Z | CVE-2022-26809 | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | | 
 | 20220419T09:39:26Z | CVE-2022-26809 | CVE-2022-26809 exploit | https://github.com/BugHunter010/CVE-2022-26809 | | 
-| 20220419T08:54:04Z | CVE-2022-29072 | Powershell to mitigate CVE-2022-29072 | https://github.com/tiktb8/CVE-2022-29072 | | 
 
 
 # klee on Github 推荐
