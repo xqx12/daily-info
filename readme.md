@@ -21,6 +21,8 @@
 | --- | --- | ---| 
 | 20220419 | Go template 遇上 yaml 反序列化 CVE-2022-21701 分析 | http://noahblog.360.cn/go-template-meets-yaml-cve-2022-21701/| 
 | 20220419 | 社区合作的威胁情报到底有没有用？ | https://mp.weixin.qq.com/s/sFeW_0cERDwzrukzta6I8Q| 
+| 20220419 | TP-Link-WDR-7660 安全研究之构造基于串口CMD的调试器 | https://mp.weixin.qq.com/s/MtNp8NbQs3S4jQpcDshGXw| 
+| 20220419 | 机器学习如何赋能二进制代码相似性分析 | https://mp.weixin.qq.com/s/3Fla1U2RGh603jH4BxfYEg| 
 
 
 # CVE Github 推荐
@@ -53,11 +55,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220419T12:32:52Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4215 | 1481| 
 | 20220419T12:15:38Z | Null | https://github.com/mathsslong/linux-exploit | 0 | 0| 
 | 20220419T12:05:16Z | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | 2 | 0| 
 | 20220419T10:23:26Z | This repo contains code used to identify bots by exploiting inconsistencies in the handling of PerformanceResourceTiming.nextHopProtocol.  | https://github.com/paulcalabro/same-origin-policy-bypass-poc | 0 | 0| 
 | 20220419T10:20:53Z | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | 6 | 1| 
-| 20220419T10:06:21Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4214 | 1481| 
 | 20220419T09:39:26Z | CVE-2022-26809 exploit | https://github.com/BugHunter010/CVE-2022-26809 | 1 | 0| 
 | 20220419T09:13:46Z | This repo contains code used to bypass HTTP proxies by exploiting the lack of restrictions to popular web services. | https://github.com/paulcalabro/proxy-bypass-pocs | 0 | 0| 
 | 20220419T06:20:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2639 | 326| 
