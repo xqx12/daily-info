@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220419T12:45:33Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220419T12:43:51Z | CVE-2020-14343 | A web application vulnerable to CVE-2020-14343 insecure deserialization leading to command execution in PyYAML package. | https://github.com/j4k0m/loader-CVE-2020-14343 | | 
 | 20220419T12:29:48Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
-| 20220419T12:25:25Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220419T12:05:16Z | cve-2022-26809 | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | | 
 | 20220419T11:39:05Z | CVE-2021-0589 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | | 
 | 20220419T11:11:26Z | CVE-2020-0394 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0394 | | 
