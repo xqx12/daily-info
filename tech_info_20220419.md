@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220419T12:19:11Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220419T12:15:17Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220419T12:05:16Z | cve-2022-26809 | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | | 
-| 20220419T12:05:07Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220419T11:39:05Z | CVE-2021-0589 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | | 
 | 20220419T11:11:26Z | CVE-2020-0394 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0394 | | 
 | 20220419T10:56:00Z | CVE-2020-27824 | Null | https://github.com/pazhanivel07/openjpeg-2.3.0_CVE-2020-27824 | | 
@@ -68,6 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220419T12:18:06Z | Null | https://github.com/24pubalucard/backdoorat | 0 | 0| 
 | 20220419T11:56:10Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 798 | 73| 
 | 20220419T11:33:06Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 29 | 5| 
 | 20220419T06:16:00Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 2 | 2| 
@@ -89,10 +90,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220419T12:17:06Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 208 | 26| 
 | 20220419T12:12:54Z | Null | https://github.com/khrome83/go-fuzzing-tutorial | 0 | 0| 
 | 20220419T11:51:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4087 | 971| 
 | 20220419T11:17:51Z | Null | https://github.com/DanDanCool/fuzzy | 0 | 0| 
-| 20220419T10:54:23Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 207 | 26| 
 | 20220419T09:19:33Z | A randomized program fuzzer for the Rust programming language | https://github.com/rustsmith/rustsmith | 1 | 0| 
 | 20220419T08:36:18Z | Null | https://github.com/tarunamaraneni/fuzzy-umbrella | 0 | 0| 
 | 20220419T08:30:34Z | Null | https://github.com/AdelAKA/FuzzyLogic-Robot-Controller | 1 | 1| 
