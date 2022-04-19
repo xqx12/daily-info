@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220419T11:54:19Z | cve-2022-26809 | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | | 
+| 20220419T12:02:55Z | cve-2022-26809 | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | | 
 | 20220419T11:51:30Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220419T11:45:28Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220419T11:39:05Z | CVE-2021-0589 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | | 
@@ -76,8 +76,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220419T05:27:47Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 364 | 18| 
 | 20220419T01:40:21Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 64 | 14| 
-| 20220419T01:28:05Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 362 | 18| 
 
 
 # big4 on Github 推荐
