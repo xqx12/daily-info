@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220419T01:15:47Z | Null | https://github.com/cxosmo/n-day_exploits | 0 | 0| 
 | 20220418T23:49:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11023 | 1928| 
 | 20220418T23:49:05Z | vuln scaner and exploit  | https://github.com/HellKnightsCrew/CVE-2022-26809 | 2 | 0| 
 | 20220418T23:46:40Z | not mines, didnt make, just put in the token and your good to go, also its a test token! | https://github.com/LilPenis404/Login-Exploit | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220418T21:17:18Z | Null | https://github.com/H4cknetDump/Exploit-GoldHen-V2 | 0 | 0| 
 | 20220418T20:53:58Z | A collection of CVE exploit scripts written in Python | https://github.com/cc3305/CVEAllTheThings | 0 | 0| 
 | 20220418T18:48:27Z | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | 0 | 1| 
-| 20220418T16:13:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2638 | 326| 
 
 
 # backdoor on Github 推荐
