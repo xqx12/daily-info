@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220419T01:00:48Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220419T01:00:08Z | CVE-2021-31805 | Apache Struts2 S2-062远程代码执行漏洞(CVE-2021-31805) , 反弹Shell | https://github.com/Axx8/Struts2_S2-062_CVE-2021-31805 | | 
-| 20220419T00:58:45Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220418T23:53:37Z | CVE-2022-29072 | Powershell to mitigate CVE-2022-29072 | https://github.com/tiktb8/CVE-2022-29072 | | 
 | 20220418T23:49:05Z | CVE-2022-26809 | vuln scaner and exploit  | https://github.com/HellKnightsCrew/CVE-2022-26809 | | 
 | 20220418T23:12:34Z | CVE-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/h3llk4t3/Watchguard-RCE-POC-CVE-2022-26318 | | 
