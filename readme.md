@@ -29,7 +29,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220418T23:53:37Z | CVE-2022-29072 | Powershell to mitigate CVE-2022-29072 | https://github.com/tiktb8/CVE-2022-29072 | | 
-| 20220418T23:49:05Z | CVE-2022-26809 | vuln scaner and exploit  | https://github.com/HellKnightsCrew/CVE-2022-26809 | | 
 | 20220418T23:12:34Z | CVE-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/h3llk4t3/Watchguard-RCE-POC-CVE-2022-26318 | | 
 | 20220418T23:02:30Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/sentinelblue/CVE-2022-29072 | | 
 | 20220418T22:33:03Z | CVE-2022-26809 | Null | https://github.com/hemazoher/CVE-2022-26809-RCE | | 
@@ -38,6 +37,7 @@
 | 20220418T16:28:59Z | CVE-2022-0778 | Null | https://github.com/jkakavas/CVE-2022-0778-POC | | 
 | 20220418T15:32:52Z | CVE-2020-0226 | Null | https://github.com/ShaikUsaf/frameworks_native_AOSP10_r33_ShaikUsaf-frameworks_native_AOSP10_r33_CVE-2020-0226 | | 
 | 20220418T11:48:23Z | CVE-2020-0219 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0219 | | 
+| 20220418T11:23:22Z | CVE-2021-0478 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2021-0478 | | 
 
 
 # klee on Github 推荐
