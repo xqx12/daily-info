@@ -37,7 +37,7 @@
 | 20220418T17:33:39Z | cve-2022-27772 | Null | https://github.com/puneetbehl/grails3-cve-2022-27772 | | 
 | 20220418T16:28:59Z | CVE-2022-0778 | Null | https://github.com/jkakavas/CVE-2022-0778-POC | | 
 | 20220418T15:32:52Z | CVE-2020-0226 | Null | https://github.com/ShaikUsaf/frameworks_native_AOSP10_r33_ShaikUsaf-frameworks_native_AOSP10_r33_CVE-2020-0226 | | 
-| 20220418T14:19:38Z | CVE-2021-31805 | Apache Struts2 S2-062远程代码执行漏洞(CVE-2021-31805) , 反弹Shell | https://github.com/Axx8/Struts2_S2-062_CVE-2021-31805 | | 
+| 20220418T11:48:23Z | CVE-2020-0219 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0219 | | 
 
 
 # klee on Github 推荐
