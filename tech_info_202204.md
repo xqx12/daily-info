@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220419T00:58:45Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220418T23:53:37Z | CVE-2022-29072 | Powershell to mitigate CVE-2022-29072 | https://github.com/tiktb8/CVE-2022-29072 | | 
 | 20220418T23:49:05Z | CVE-2022-26809 | vuln scaner and exploit  | https://github.com/HellKnightsCrew/CVE-2022-26809 | | 
 | 20220418T23:12:34Z | CVE-2022-26318 | Watchguard RCE POC CVE-2022-26318 | https://github.com/h3llk4t3/Watchguard-RCE-POC-CVE-2022-26318 | | 
@@ -54,7 +55,6 @@
 | 20220418T20:44:38Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
 | 20220418T17:33:39Z | cve-2022-27772 | Null | https://github.com/puneetbehl/grails3-cve-2022-27772 | | 
 | 20220418T16:28:59Z | CVE-2022-0778 | Null | https://github.com/jkakavas/CVE-2022-0778-POC | | 
-| 20220418T15:55:35Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 | 20220418T15:32:52Z | CVE-2020-0226 | Null | https://github.com/ShaikUsaf/frameworks_native_AOSP10_r33_ShaikUsaf-frameworks_native_AOSP10_r33_CVE-2020-0226 | | 
 
 
