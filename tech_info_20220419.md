@@ -53,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220419T11:54:19Z | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | 1 | 0| 
+| 20220419T12:12:23Z | Null | https://github.com/mathsslong/linux-exploit | 0 | 0| 
+| 20220419T12:05:16Z | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | 2 | 0| 
 | 20220419T10:23:26Z | This repo contains code used to identify bots by exploiting inconsistencies in the handling of PerformanceResourceTiming.nextHopProtocol.  | https://github.com/paulcalabro/same-origin-policy-bypass-poc | 0 | 0| 
 | 20220419T10:20:53Z | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | 6 | 1| 
 | 20220419T09:39:26Z | CVE-2022-26809 exploit | https://github.com/BugHunter010/CVE-2022-26809 | 1 | 0| 
@@ -88,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220419T12:12:54Z | Null | https://github.com/khrome83/go-fuzzing-tutorial | 0 | 0| 
 | 20220419T11:51:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4087 | 971| 
 | 20220419T11:17:51Z | Null | https://github.com/DanDanCool/fuzzy | 0 | 0| 
 | 20220419T10:54:23Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 207 | 26| 

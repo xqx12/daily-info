@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220419T11:54:19Z | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | 1 | 0| 
+| 20220419T12:12:23Z | Null | https://github.com/mathsslong/linux-exploit | 0 | 0| 
+| 20220419T12:05:16Z | cve-2022-26809  Remote Code Execution Exploit in the RPC Library  | https://github.com/XmasSnow1/cve-2022-26809 | 2 | 0| 
 | 20220419T10:23:26Z | This repo contains code used to identify bots by exploiting inconsistencies in the handling of PerformanceResourceTiming.nextHopProtocol.  | https://github.com/paulcalabro/same-origin-policy-bypass-poc | 0 | 0| 
 | 20220419T10:20:53Z | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | 6 | 1| 
 | 20220419T09:39:26Z | CVE-2022-26809 exploit | https://github.com/BugHunter010/CVE-2022-26809 | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220419T01:24:51Z | Null | https://github.com/Eddi0x/Full-Silent-PDF-Exploit | 0 | 0| 
 | 20220419T01:24:08Z | Null | https://github.com/cxosmo/n-day_exploits | 0 | 0| 
 | 20220419T01:22:07Z | Null | https://github.com/Eddi0x/Excel-Exploit-Silent-Macro | 0 | 0| 
-| 20220418T23:49:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11023 | 1928| 
 
 
 # backdoor on Github 推荐
@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220419T12:12:54Z | Null | https://github.com/khrome83/go-fuzzing-tutorial | 0 | 0| 
 | 20220419T11:51:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4087 | 971| 
 | 20220419T11:17:51Z | Null | https://github.com/DanDanCool/fuzzy | 0 | 0| 
 | 20220419T10:54:23Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 207 | 26| 
@@ -148,7 +149,6 @@
 | 20220418T23:52:39Z | Null | https://github.com/fuzzfactory0/fuzzfactory0.github.io | 0 | 0| 
 | 20220418T23:49:12Z | Aqui haremos fuzzing con todos los plugins existentes de wordpres a la pagina que tu desees con un script en python, no tendremos que descargar dicccionarios. | https://github.com/JuanSebastian07/Fuzzing | 0 | 0| 
 | 20220418T23:26:27Z | Null | https://github.com/fadhlyal/Tupro_Fuzzy | 0 | 0| 
-| 20220418T23:16:42Z | Experiments with Fuzzing Rust libraries | https://github.com/n0tty/Rust-Fuzzing | 0 | 0| 
 
 
 
