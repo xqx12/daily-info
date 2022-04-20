@@ -139,7 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220420T01:42:35Z | Null | https://github.com/fuzzyrobotics/fuzzysite | 0 | 0| 
+| 20220420T01:44:52Z | Null | https://github.com/fuzzyrobotics/fuzzysite | 0 | 0| 
 | 20220419T23:11:49Z | Learning about fuzzy-search | https://github.com/reynardo-tjhin/fuzzy-search | 0 | 0| 
 | 20220419T22:54:08Z | Application launcher for wlroots based Wayland compositors | https://github.com/pld-linux/fuzzel | 0 | 0| 
 | 20220419T21:37:06Z | Investigating some odd issue with Go fuzz on Windows | https://github.com/katcipis/go-fuzz-win-issue | 0 | 0| 
