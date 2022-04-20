@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220420T12:31:47Z | Null | https://github.com/joanbarrera/exploits | 0 | 0| 
 | 20220420T12:11:30Z | Weblogic漏洞利用图形化工具 支持注入内存马、一键上传webshell、命令执行 | https://github.com/sp4zcmd/WeblogicExploit-GUI | 3 | 0| 
 | 20220420T11:56:29Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4499 | 628| 
-| 20220420T11:29:27Z | Null | https://github.com/joanbarrera/exploits | 0 | 0| 
 | 20220420T10:47:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2641 | 325| 
 | 20220420T10:42:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 361 | 106| 
 | 20220420T10:17:00Z | Cyber security is the application of technologies, processes and controls to protect systems, networks, programs, devices and data from cyber attacks. It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks and technologies.https://billionwaves.com/ | https://github.com/chotuyadav022/billionwaves.com | 0 | 0| 
