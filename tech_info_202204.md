@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220420T01:50:55Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220420T01:29:12Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
-| 20220420T01:28:55Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220419T20:18:13Z | CVE-2022-26809 | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | | 
 | 20220419T19:14:52Z | CVE-2020-27301 | Null | https://github.com/khalednassar/CVE-2020-27301-hostapd | | 
 | 20220419T18:33:57Z | CVE-2022-26809 | CVE-2022-26809 exploit | https://github.com/BugHunter010/CVE-2022-26809 | | 
@@ -103,8 +103,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220420T01:46:05Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 804 | 74| 
 | 20220419T22:41:26Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/natural_backdoor | 0 | 0| 
-| 20220419T22:00:26Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 803 | 74| 
 | 20220419T18:14:20Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 30 | 5| 
 | 20220419T17:09:43Z | data Science practicals backdoor | https://github.com/Harshraj13/data-manjee-science | 0 | 0| 
 | 20220419T16:53:40Z | uploader+backend+backdoor | https://github.com/joblesshuman/625-proj | 0 | 0| 

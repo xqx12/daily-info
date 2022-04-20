@@ -76,7 +76,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220419T22:41:26Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/natural_backdoor | 0 | 0| 
-| 20220419T22:00:26Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 803 | 74| 
 | 20220419T18:14:20Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 30 | 5| 
 | 20220419T17:09:43Z | data Science practicals backdoor | https://github.com/Harshraj13/data-manjee-science | 0 | 0| 
 | 20220419T16:53:40Z | uploader+backend+backdoor | https://github.com/joblesshuman/625-proj | 0 | 0| 
