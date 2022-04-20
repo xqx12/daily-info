@@ -109,10 +109,10 @@
 | 20220419T20:56:09Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2522 | 164| 
 | 20220419T20:45:22Z | Null | https://github.com/AndomiXD/fuzzy-telegram | 0 | 0| 
 | 20220419T20:24:38Z | Null | https://github.com/zimaaletto/FuzzyAPI | 0 | 0| 
+| 20220419T13:29:50Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 51 | 16| 
 | 20220419T13:27:09Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2497 | 486| 
 | 20220419T12:17:06Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 208 | 26| 
 | 20220419T12:12:54Z | Null | https://github.com/khrome83/go-fuzzing-tutorial | 0 | 0| 
-| 20220419T11:51:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4087 | 971| 
 
 
 
