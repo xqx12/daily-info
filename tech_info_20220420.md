@@ -22,6 +22,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220420 | 浅谈攻防演练 | https://mp.weixin.qq.com/s/6qmpRL8-rjDGD8LBfvM_gA| 
 
 
 # CVE Github 推荐

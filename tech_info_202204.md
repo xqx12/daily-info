@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220420 | 浅谈攻防演练 | https://mp.weixin.qq.com/s/6qmpRL8-rjDGD8LBfvM_gA| 
 | 20220419 | Go template 遇上 yaml 反序列化 CVE-2022-21701 分析 | http://noahblog.360.cn/go-template-meets-yaml-cve-2022-21701/| 
 | 20220419 | 社区合作的威胁情报到底有没有用？ | https://mp.weixin.qq.com/s/sFeW_0cERDwzrukzta6I8Q| 
 | 20220419 | TP-Link-WDR-7660 安全研究之构造基于串口CMD的调试器 | https://mp.weixin.qq.com/s/MtNp8NbQs3S4jQpcDshGXw| 
@@ -40,7 +41,6 @@
 | 20220419 | “蜂巢”恶意代码攻击控制武器平台分析报告 | https://www.cverc.org.cn/head/zhaiyao/news20220419-hive.htm| 
 | 20220419 | 数字中国车联网赛题设计思路 | https://www.freebuf.com/articles/ics-articles/329242.html| 
 | 20220418 | SecWiki周刊（第424期) | https://www.sec-wiki.com/weekly/424| 
-| 20220416 | 半天打穿某高校 | https://xz.aliyun.com/t/11186| 
 
 
 # CVE Github 推荐
