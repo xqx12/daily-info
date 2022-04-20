@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220420T01:55:12Z | NLU 2022 Group 10 final project. We try to improve Pattern-Exploiting Training through multi-tasks training and data augmentation | https://github.com/amidadragon/improving-pet | 0 | 0| 
 | 20220420T00:34:15Z | Vulnerability in D2L Brightspace%s Learning Management System(LMS) | https://github.com/Skotizo/CVE-2021-43129 | 0 | 0| 
 | 20220419T22:51:02Z | Exploit | https://github.com/VisionsIntoRealityHolster/Shadow-Shifter | 0 | 0| 
 | 20220419T22:48:54Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 232 | 28| 
@@ -97,7 +98,6 @@
 | 20220419T21:23:16Z | Solidity Pwn Scenarios | https://github.com/federicovilla55/Smart-Contract-Exploitation | 20 | 1| 
 | 20220419T20:03:38Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8931 | 1502| 
 | 20220419T17:43:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2640 | 325| 
-| 20220419T16:46:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11021 | 1929| 
 
 
 # backdoor on Github 推荐
