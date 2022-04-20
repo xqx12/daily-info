@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220420T00:34:15Z | Vulnerability in D2L Brightspace%s Learning Management System(LMS) | https://github.com/Skotizo/CVE-2021-43129 | 0 | 0| 
 | 20220419T22:51:02Z | Exploit | https://github.com/VisionsIntoRealityHolster/Shadow-Shifter | 0 | 0| 
 | 20220419T22:48:54Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 232 | 28| 
 | 20220419T22:46:01Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 40 | 5| 
@@ -97,7 +98,6 @@
 | 20220419T20:03:38Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8931 | 1502| 
 | 20220419T17:43:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2640 | 326| 
 | 20220419T16:46:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11021 | 1929| 
-| 20220419T12:32:52Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4215 | 1481| 
 
 
 # backdoor on Github 推荐
