@@ -90,7 +90,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220419T05:27:47Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 364 | 18| 
+| 20220419T19:44:49Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 365 | 18| 
+| 20220419T18:26:44Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 0 | 0| 
 | 20220419T01:40:21Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 64 | 14| 
 
 

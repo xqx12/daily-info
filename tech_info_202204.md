@@ -118,7 +118,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220419T05:27:47Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 364 | 18| 
+| 20220419T19:44:49Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 365 | 18| 
+| 20220419T18:26:44Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 0 | 0| 
 | 20220419T01:40:21Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 64 | 14| 
 | 20220418T19:06:09Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 734 | 157| 
 | 20220418T12:56:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1952 | 552| 
@@ -127,7 +128,6 @@
 | 20220417T02:50:27Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 1 | 0| 
 | 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
 | 20220413T17:05:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 218 | 53| 
-| 20220413T12:57:46Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
 
 
 # big4 on Github 推荐
