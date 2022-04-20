@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220420T12:10:58Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220420T12:03:35Z | CVE-2021-0433 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0433 | | 
-| 20220420T11:57:43Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220420T11:48:13Z | CVE-2022-21449 | CVE-2022-21449 Vulnerability tester | https://github.com/jmiettinen/CVE-2022-21449-vuln-test | | 
 | 20220420T10:26:38Z | CVE-2022-26809 | Remote Code Execution Exploit in the RPC Library | https://github.com/websecnl/CVE-2022-26809 | | 
 | 20220420T10:23:07Z | CVE-2022-21449 | Null | https://github.com/jfrog/jfrog-CVE-2022-21449 | | 
