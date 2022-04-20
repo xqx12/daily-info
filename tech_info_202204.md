@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220420T12:26:24Z | CVE-2021-36981 | Null | https://github.com/0xBrAinsTorM/CVE-2021-36981 | | 
 | 20220420T12:18:45Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220420T12:15:48Z | CVE-2021-0433 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0433 | | 
 | 20220420T11:48:13Z | CVE-2022-21449 | CVE-2022-21449 Vulnerability tester | https://github.com/jmiettinen/CVE-2022-21449-vuln-test | | 
@@ -55,7 +56,6 @@
 | 20220420T06:24:47Z | CVE-2020-0380 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2020-0380 | | 
 | 20220420T06:19:10Z | CVE-2022-1329 | Null | https://github.com/Grazee/CVE-2022-1329-WordPress-Elementor-RCE | | 
 | 20220420T05:45:29Z | CVE-2022-1329 | Null | https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit | | 
-| 20220420T01:29:12Z | CVE-2022-26809 | Null | https://github.com/XmasSnow/CVE-2022-26809-RCE | | 
 
 
 # klee on Github 推荐
