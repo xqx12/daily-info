@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220421T01:41:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2644 | 325| 
 | 20220421T01:37:57Z | UI Library for Roblox Exploit Script Hubs | https://github.com/E240-h/UI-Library | 0 | 0| 
 | 20220421T00:42:43Z | Null | https://github.com/Wangsafz/Exploit-Karnel | 0 | 0| 
 | 20220420T23:43:40Z | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | 0 | 0| 
 | 20220420T23:24:12Z | This Is An Exploit Called Felix. And Made In A Day, Cool Right! | https://github.com/LucianBonk/Felix-Roblox-Exploit | 0 | 0| 
 | 20220420T23:20:15Z | This Is A Roblox Exploit I Made In A Day | https://github.com/LucianBonk/Roblox-Exploit | 0 | 0| 
-| 20220420T22:53:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2643 | 325| 
 | 20220420T22:07:19Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 5 | 1| 
 | 20220420T21:53:12Z | Null | https://github.com/ExploitXOfficiall/ExploitXOfficiall | 0 | 0| 
 | 20220420T21:49:29Z | Null | https://github.com/ExploitXOfficiall/ExploitXOfficiall.github.io | 0 | 0| 
