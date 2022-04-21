@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220421T00:35:37Z | Null | https://github.com/Wangsafz/Exploit-Karnel | 0 | 0| 
+| 20220421T00:42:43Z | Null | https://github.com/Wangsafz/Exploit-Karnel | 0 | 0| 
 | 20220420T23:43:40Z | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | 0 | 0| 
 | 20220420T23:24:12Z | This Is An Exploit Called Felix. And Made In A Day, Cool Right! | https://github.com/LucianBonk/Felix-Roblox-Exploit | 0 | 0| 
 | 20220420T23:20:15Z | This Is A Roblox Exploit I Made In A Day | https://github.com/LucianBonk/Roblox-Exploit | 0 | 0| 
