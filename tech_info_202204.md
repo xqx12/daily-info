@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220421T00:44:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 458 | 89| 
 | 20220420T23:56:41Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 802 | 74| 
 | 20220420T19:56:18Z | Null | https://github.com/sidahmedzeus/backdoors | 0 | 0| 
 | 20220420T17:51:54Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 6 | 3| 
@@ -112,7 +113,6 @@
 | 20220419T16:53:40Z | uploader+backend+backdoor | https://github.com/joblesshuman/625-proj | 0 | 0| 
 | 20220419T13:42:21Z | Online Metasploit Backdoor service using Bootstrap+NodeJS (ExpressJS) | https://github.com/krishnaprasadh/Online-MSF-Backdoor | 0 | 0| 
 | 20220419T12:26:01Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 46 | 2| 
-| 20220419T12:23:42Z | Null | https://github.com/24pubalucard/backdoorat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
