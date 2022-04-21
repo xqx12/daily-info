@@ -31,9 +31,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220421T12:32:31Z | 未知编号 | Null | https://github.com/Trinadh465/frameworks_base_AOSP_r33_CVE_2021-0334 | | 
 | 20220421T12:25:36Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
 | 20220421T12:25:24Z | CVE-2021-3972 | just poc | https://github.com/killvxk/CVE-2021-3972 | | 
-| 20220421T12:22:55Z | 未知编号 | Null | https://github.com/Trinadh465/frameworks_base_AOSP_r33_CVE_2021-0334 | | 
 | 20220421T12:08:57Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778 in P12 format | https://github.com/0xUhaw/CVE-2022-0778 | | 
 | 20220421T11:39:06Z | CVE-2020-0409 | Null | https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0409 | | 
 | 20220421T11:01:48Z | cve-2022-29464 | Null | https://github.com/tufanturhan/wso2-rce-cve-2022-29464 | | 
