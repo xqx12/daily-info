@@ -16,6 +16,7 @@
 | 20220421 | 科恩实验室开源二进制文件自动化静态漏洞检测工具 BinAbsInspector | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
 | 20220421 | Java 代码审计资源以及 Java 安全开发方向的资料 | https://github.com/HackJava/HackJava| 
 | 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | https://sec.today/pulses/0f282671-07a3-4a47-a913-120906e91ef4/| 
+| 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | http://blog.trailofbits.com/2022/04/20/amarna-static-analysis-for-cairo-programs/| 
 | 20220420 | Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 2) （译文） | https://tttang.com/archive/1557/| 
 | 20220420 | How We Fuzzed Microsoft Defender for IoT and Found Multiple Vulnerabilities | https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/| 
 | 20220420 | Persisting XSS With IFrame Traps | https://www.trustedsec.com/blog/persisting-xss-with-iframe-traps/| 
@@ -25,7 +26,6 @@
 | 20220420 | Issue 2256: bluez: malicious USB devices can steal Bluetooth link keys over HCI using fake BD_ADDR, plus bluetoothd double-free | https://bugs.chromium.org/p/project-zero/issues/detail?id=2256| 
 | 20220420 | Issue 2274: Linux: watch_queue filter OOB write (and other bugs) | https://bugs.chromium.org/p/project-zero/issues/detail?id=2274| 
 | 20220420 | Fortinet 分享用模拟执行的方式对抗恶意软件中的 Anti-RE 的实现 | https://www.fortinet.com/blog/threat-research/Using-emulation-against-anti-reverse-engineering-techniques| 
-| 20220420 | Project Zero 对 2021 年野外漏洞利用情况的总结分析 | https://sec.today/pulses/aa4d77cb-802a-43c8-a016-d76daecb6847/| 
 
 
 # 安全维基 推荐
@@ -118,16 +118,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220421T06:51:16Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 735 | 157| 
+| 20220421T05:41:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1181 | 52| 
 | 20220420T23:04:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1954 | 552| 
 | 20220420T22:59:27Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 4 | 1| 
 | 20220419T19:44:49Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 365 | 18| 
 | 20220419T08:21:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 221 | 54| 
 | 20220419T01:40:21Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 64 | 14| 
-| 20220418T19:06:09Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 734 | 157| 
 | 20220418T08:02:16Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 773 | 147| 
 | 20220418T04:34:32Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 30 | 18| 
 | 20220417T02:50:27Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 1 | 0| 
-| 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
 
 
 # big4 on Github 推荐

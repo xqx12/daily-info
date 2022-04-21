@@ -16,6 +16,7 @@
 | 20220421 | 科恩实验室开源二进制文件自动化静态漏洞检测工具 BinAbsInspector | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
 | 20220421 | Java 代码审计资源以及 Java 安全开发方向的资料 | https://github.com/HackJava/HackJava| 
 | 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | https://sec.today/pulses/0f282671-07a3-4a47-a913-120906e91ef4/| 
+| 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | http://blog.trailofbits.com/2022/04/20/amarna-static-analysis-for-cairo-programs/| 
 
 
 # 安全维基 推荐
@@ -81,6 +82,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220421T06:51:16Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 735 | 157| 
+| 20220421T05:41:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1181 | 52| 
 
 
 # big4 on Github 推荐
