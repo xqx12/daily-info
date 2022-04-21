@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220421T12:04:16Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 13 | 4| 
+| 20220421T12:43:27Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 14 | 4| 
 | 20220421T10:31:51Z | backdoor php dengan boostrap v4 | https://github.com/rimbadirgantara/backdoor-shell-php-v1.0 | 0 | 0| 
 | 20220421T08:56:57Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 810 | 75| 
 | 20220421T02:12:49Z | Recreating the results of paper titled as %Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks% | https://github.com/oaramoon/NeuralCleanse-TensorFlow | 1 | 0| 
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220421T12:53:16Z | Null | https://github.com/henokwel/fuzzy-potato_test | 0 | 0| 
 | 20220421T12:45:09Z | word list for Directory Fuzzing. | https://github.com/Mr6MJT/FuzZ | 1 | 0| 
 | 20220421T12:34:00Z | Fuzzing support for chrony | https://github.com/mlichvar/chrony-fuzz | 0 | 0| 
 | 20220421T12:04:20Z | Null | https://github.com/Irenie0109/Fuzzy-Logic-Car-Control-example- | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220421T09:01:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7257 | 1550| 
 | 20220421T08:41:00Z | what%s problem | https://github.com/jhon-cloud/fuzzy-guide | 0 | 0| 
 | 20220421T07:52:59Z | Null | https://github.com/SamarBaghdadi/FuzzBuzz | 0 | 0| 
-| 20220421T05:30:27Z | Null | https://github.com/fuzzykitto/fuzzykitto | 0 | 0| 
 
 
 
