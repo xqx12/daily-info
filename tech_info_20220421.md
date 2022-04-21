@@ -61,12 +61,12 @@
 | 20220421T12:07:54Z | If you have a LFT vuln you can use this script to scan PIDs and maybe find a vulnerable process to exploit further. | https://github.com/Robing00/PID-Scanner-via-LFI | 0 | 0| 
 | 20220421T10:26:41Z | ExpressJS backed application to exploit a home-made digital library blockchain  | https://github.com/queezzy/BIB-BLOCK-APP | 0 | 0| 
 | 20220421T09:39:16Z | This repository contains the source code for the article %Towards Feature Selection for Ranking and Classification Exploiting Quantum Annealers% published at SIGIR 2022. | https://github.com/qcpolimi/SIGIR22_QuantumFeatureSelection | 0 | 0| 
+| 20220421T09:31:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11030 | 1929| 
 | 20220421T09:06:10Z | Download the repo. Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies. | https://github.com/FredRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20220421T09:03:08Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 383 | 74| 
 | 20220421T08:56:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2648 | 325| 
 | 20220421T08:11:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 41 | 5| 
 | 20220421T06:43:27Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 854 | 148| 
-| 20220421T06:01:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 364 | 108| 
 
 
 # backdoor on Github 推荐
