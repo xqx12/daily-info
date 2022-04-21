@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220421T01:46:41Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220421T00:19:56Z | CVE-2022-21449 | Null | https://github.com/jfrog/jfrog-CVE-2022-21449 | | 
-| 20220420T23:43:40Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220420T20:58:23Z | CVE-2022-26809 | This repository contains a PoC for  remote code execution CVE-2022-26809 | https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE | | 
 | 20220420T20:33:16Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
 | 20220420T20:10:14Z | CVE-2020-36109 | CVE-2020-36109  PoC causing DoS | https://github.com/sunn1day/CVE-2020-36109-POC | | 
@@ -88,10 +88,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220421T01:46:41Z | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | 1 | 0| 
 | 20220421T01:41:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2644 | 325| 
 | 20220421T01:37:57Z | UI Library for Roblox Exploit Script Hubs | https://github.com/E240-h/UI-Library | 0 | 0| 
 | 20220421T00:42:43Z | Null | https://github.com/Wangsafz/Exploit-Karnel | 0 | 0| 
-| 20220420T23:43:40Z | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | 0 | 0| 
 | 20220420T23:24:12Z | This Is An Exploit Called Felix. And Made In A Day, Cool Right! | https://github.com/LucianBonk/Felix-Roblox-Exploit | 0 | 0| 
 | 20220420T23:20:15Z | This Is A Roblox Exploit I Made In A Day | https://github.com/LucianBonk/Roblox-Exploit | 0 | 0| 
 | 20220420T22:07:19Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 5 | 1| 

@@ -28,7 +28,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220420T23:43:40Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220420T20:58:23Z | CVE-2022-26809 | This repository contains a PoC for  remote code execution CVE-2022-26809 | https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE | | 
 | 20220420T20:33:16Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
 | 20220420T20:10:14Z | CVE-2020-36109 | CVE-2020-36109  PoC causing DoS | https://github.com/sunn1day/CVE-2020-36109-POC | | 
@@ -38,6 +37,7 @@
 | 20220420T12:31:06Z | CVE-2021-36981 | Null | https://github.com/0xBrAinsTorM/CVE-2021-36981 | | 
 | 20220420T12:18:45Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220420T12:15:48Z | CVE-2021-0433 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0433 | | 
+| 20220420T11:48:13Z | CVE-2022-21449 | CVE-2022-21449 Vulnerability tester | https://github.com/jmiettinen/CVE-2022-21449-vuln-test | | 
 
 
 # klee on Github 推荐
@@ -56,7 +56,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220420T23:43:40Z | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | 0 | 0| 
 | 20220420T23:24:12Z | This Is An Exploit Called Felix. And Made In A Day, Cool Right! | https://github.com/LucianBonk/Felix-Roblox-Exploit | 0 | 0| 
 | 20220420T23:20:15Z | This Is A Roblox Exploit I Made In A Day | https://github.com/LucianBonk/Roblox-Exploit | 0 | 0| 
 | 20220420T22:07:19Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 5 | 1| 
@@ -66,6 +65,7 @@
 | 20220420T17:09:57Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8935 | 1502| 
 | 20220420T15:56:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 53 | 21| 
 | 20220420T14:54:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 362 | 107| 
+| 20220420T12:31:47Z | Null | https://github.com/joanbarrera/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
