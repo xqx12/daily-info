@@ -29,7 +29,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220420T23:43:40Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | | 
-| 20220420T21:43:29Z | CVE-2022-21449 | Null | https://github.com/jfrog/jfrog-CVE-2022-21449 | | 
 | 20220420T20:58:23Z | CVE-2022-26809 | This repository contains a PoC for  remote code execution CVE-2022-26809 | https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE | | 
 | 20220420T20:33:16Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
 | 20220420T20:10:14Z | CVE-2020-36109 | CVE-2020-36109  PoC causing DoS | https://github.com/sunn1day/CVE-2020-36109-POC | | 
@@ -38,6 +37,7 @@
 | 20220420T12:32:50Z | CVE-2021-0510 | Null | https://github.com/pazhanivel07/hardware_interfaces-A10_r33_CVE-2021-0510 | | 
 | 20220420T12:31:06Z | CVE-2021-36981 | Null | https://github.com/0xBrAinsTorM/CVE-2021-36981 | | 
 | 20220420T12:18:45Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220420T12:15:48Z | CVE-2021-0433 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0433 | | 
 
 
 # klee on Github 推荐

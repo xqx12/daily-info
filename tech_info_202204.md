@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220421T00:19:56Z | CVE-2022-21449 | Null | https://github.com/jfrog/jfrog-CVE-2022-21449 | | 
 | 20220420T23:43:40Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | | 
-| 20220420T21:43:29Z | CVE-2022-21449 | Null | https://github.com/jfrog/jfrog-CVE-2022-21449 | | 
 | 20220420T20:58:23Z | CVE-2022-26809 | This repository contains a PoC for  remote code execution CVE-2022-26809 | https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE | | 
 | 20220420T20:33:16Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
 | 20220420T20:10:14Z | CVE-2020-36109 | CVE-2020-36109  PoC causing DoS | https://github.com/sunn1day/CVE-2020-36109-POC | | 
