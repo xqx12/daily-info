@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220419T16:51:38Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 17 | 2| 
+| 20220420T13:10:14Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 17 | 2| 
 | 20220419T08:21:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 221 | 54| 
 | 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
 | 20220408T02:55:28Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 4 | 3| 
@@ -91,13 +91,13 @@
 | 20220420T23:43:40Z | WSO2 RCE (CVE-2022-29464) exploit. | https://github.com/hakivvi/CVE-2022-29464 | 0 | 0| 
 | 20220420T23:24:12Z | This Is An Exploit Called Felix. And Made In A Day, Cool Right! | https://github.com/LucianBonk/Felix-Roblox-Exploit | 0 | 0| 
 | 20220420T23:20:15Z | This Is A Roblox Exploit I Made In A Day | https://github.com/LucianBonk/Roblox-Exploit | 0 | 0| 
+| 20220420T22:53:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2643 | 325| 
 | 20220420T22:07:19Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 5 | 1| 
 | 20220420T21:53:12Z | Null | https://github.com/ExploitXOfficiall/ExploitXOfficiall | 0 | 0| 
 | 20220420T21:49:29Z | Null | https://github.com/ExploitXOfficiall/ExploitXOfficiall.github.io | 0 | 0| 
 | 20220420T20:13:45Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Roonyhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220420T17:09:57Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 8935 | 1502| 
 | 20220420T15:56:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 53 | 21| 
-| 20220420T14:54:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 362 | 107| 
 
 
 # backdoor on Github 推荐
