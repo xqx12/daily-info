@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220421T12:34:00Z | Fuzzing support for chrony | https://github.com/mlichvar/chrony-fuzz | 0 | 0| 
 | 20220421T12:04:20Z | Null | https://github.com/Irenie0109/Fuzzy-Logic-Car-Control-example- | 0 | 0| 
 | 20220421T11:29:44Z | Null | https://github.com/rafaelfalcao/fuzzy-guacamole | 0 | 0| 
 | 20220421T09:59:58Z | EMS provided by the paper %EMS: History-Driven Mutation for Coverage-based Fuzzing% | https://github.com/puppet-meteor/EMS | 1 | 0| 
@@ -104,7 +105,6 @@
 | 20220421T07:52:59Z | Null | https://github.com/SamarBaghdadi/FuzzBuzz | 0 | 0| 
 | 20220421T05:30:27Z | Null | https://github.com/fuzzykitto/fuzzykitto | 0 | 0| 
 | 20220421T01:31:41Z | GraphFuzz is an experimental framework for building structure-aware, library API fuzzers. | https://github.com/hgarrereyn/GraphFuzz | 0 | 0| 
-| 20220421T00:34:27Z | 实现《游戏开发中的人工智能》模糊逻辑章节的相关代码 | https://github.com/pavtlly/FuzzyLogic | 0 | 0| 
 
 
 
