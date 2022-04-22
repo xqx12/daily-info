@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220422T12:05:52Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 106 | 25| 
+| 20220422T12:17:55Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 107 | 25| 
 | 20220422T11:55:00Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 74 | 23| 
 | 20220422T11:48:53Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 0 | 0| 
 | 20220422T11:23:29Z | 一个漏洞利用工具仓库 | https://github.com/Threekiii/Awesome-Exploit | 12 | 2| 
