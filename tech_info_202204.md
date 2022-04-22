@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220422T01:22:27Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220422T01:22:18Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
-| 20220422T01:11:15Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220421T21:25:32Z | CVE-2022-24497 | A Zeek detector for CVE-2022-24497. | https://github.com/corelight/CVE-2022-24497 | | 
 | 20220421T18:54:27Z | CVE-2021-0519 | Null | https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0519 | | 
 | 20220421T15:49:23Z | CVE-2022-0265 | Null | https://github.com/achuna33/CVE-2022-0265 | | 
