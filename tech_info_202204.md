@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220422T01:40:36Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220422T01:28:12Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
-| 20220422T01:28:02Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220421T21:25:32Z | CVE-2022-24497 | A Zeek detector for CVE-2022-24497. | https://github.com/corelight/CVE-2022-24497 | | 
 | 20220421T18:54:27Z | CVE-2021-0519 | Null | https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0519 | | 
 | 20220421T15:49:23Z | CVE-2022-0265 | Null | https://github.com/achuna33/CVE-2022-0265 | | 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220422T01:28:02Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 67 | 22| 
+| 20220422T01:40:36Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 69 | 22| 
 | 20220422T00:46:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 373 | 111| 
 | 20220421T23:12:11Z | su metodo de inyeccion se efectua al subir el archivo xml a un sitio web | https://github.com/OnixZeny/xml-injection-Xeric-exploit | 0 | 0| 
 | 20220421T22:58:43Z | Repositório dedicado a informações gerais. Com um foco especial a resolução de bugs e exploits públicos dentro do servidor. | https://github.com/ZombieRage/public | 0 | 0| 
