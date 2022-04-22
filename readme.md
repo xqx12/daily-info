@@ -80,7 +80,6 @@
 | 20220421T23:55:32Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 31 | 5| 
 | 20220421T21:26:30Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 809 | 76| 
 | 20220421T19:53:43Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 1 | 0| 
-| 20220421T18:54:20Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 18 | 4| 
 | 20220421T16:32:45Z | backdoor teknologi php dan boostrap | https://github.com/rimbadirgantara/php-backdor | 0 | 0| 
 | 20220421T10:31:51Z | backdoor php dengan boostrap v4 | https://github.com/rimbadirgantara/backdoor-shell-php-v1.0 | 0 | 0| 
 | 20220421T02:12:49Z | Recreating the results of paper titled as %Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks% | https://github.com/oaramoon/NeuralCleanse-TensorFlow | 1 | 0| 

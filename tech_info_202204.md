@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220422T00:33:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 372 | 109| 
+| 20220422T00:46:16Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 373 | 109| 
 | 20220421T23:53:03Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 63 | 22| 
 | 20220421T23:12:11Z | su metodo de inyeccion se efectua al subir el archivo xml a un sitio web | https://github.com/OnixZeny/xml-injection-Xeric-exploit | 0 | 0| 
 | 20220421T22:58:43Z | Repositório dedicado a informações gerais. Com um foco especial a resolução de bugs e exploits públicos dentro do servidor. | https://github.com/ZombieRage/public | 0 | 0| 
@@ -103,10 +103,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T00:44:06Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 19 | 4| 
 | 20220421T23:55:32Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 31 | 5| 
 | 20220421T21:26:30Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 809 | 76| 
 | 20220421T19:53:43Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 1 | 0| 
-| 20220421T18:54:20Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 18 | 4| 
 | 20220421T16:32:45Z | backdoor teknologi php dan boostrap | https://github.com/rimbadirgantara/php-backdor | 0 | 0| 
 | 20220421T10:31:51Z | backdoor php dengan boostrap v4 | https://github.com/rimbadirgantara/backdoor-shell-php-v1.0 | 0 | 0| 
 | 20220421T02:12:49Z | Recreating the results of paper titled as %Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks% | https://github.com/oaramoon/NeuralCleanse-TensorFlow | 1 | 0| 
