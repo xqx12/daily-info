@@ -119,10 +119,10 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220421T23:45:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1955 | 553| 
+| 20220421T19:15:32Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 371 | 18| 
 | 20220421T06:51:16Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 735 | 157| 
 | 20220421T05:41:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1181 | 52| 
 | 20220420T22:59:27Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 4 | 1| 
-| 20220419T19:44:49Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 365 | 18| 
 | 20220419T17:15:32Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 11 | 0| 
 | 20220419T08:21:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 221 | 54| 
 | 20220419T01:40:21Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 64 | 14| 
