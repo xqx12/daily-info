@@ -51,7 +51,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220421T23:54:21Z | klee docker container  | https://github.com/sambacha/klee-container | 0 | 0| 
 | 20220421T23:45:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1955 | 553| 
-| 20220421T15:21:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5859 | 214| 
 
 
 # s2e on Github 推荐
@@ -91,7 +90,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220421T23:45:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1955 | 553| 
 | 20220421T19:15:32Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 371 | 18| 
-| 20220421T06:51:16Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 735 | 157| 
 | 20220421T05:41:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1181 | 52| 
 
 
