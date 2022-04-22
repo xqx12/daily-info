@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220422T11:37:26Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
+| 20220422T12:00:42Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220422T11:02:28Z | CVE-2022-26809 | Python | https://github.com/jones199023/CVE-2022-26809 | | 
 | 20220422T10:47:23Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220422T10:31:10Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464)  | https://github.com/h3v0x/CVE-2022-29464 | | 
@@ -65,13 +65,18 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T10:02:09Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 1 | 0| 
+| 20220422T08:46:39Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 811 | 77| 
+| 20220422T03:43:29Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 20 | 4| 
 | 20220422T01:17:05Z | Recreating the results of the paper titled as %STRIP: A Defence Against Trojan Attacks on Deep Neural Networks% | https://github.com/oaramoon/STRIP-Backdoor-TensorFlow | 1 | 0| 
-| 20220422T00:44:06Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 19 | 4| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T09:19:53Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 775 | 147| 
+| 20220422T09:17:05Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 5 | 1| 
+| 20220422T03:07:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1956 | 553| 
 | 20220422T01:34:07Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 736 | 157| 
 
 

@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220422T11:37:26Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
+| 20220422T12:00:42Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220422T11:02:28Z | CVE-2022-26809 | Python | https://github.com/jones199023/CVE-2022-26809 | | 
 | 20220422T10:47:23Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220422T10:31:10Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464)  | https://github.com/h3v0x/CVE-2022-29464 | | 
@@ -103,30 +103,30 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T10:02:09Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 1 | 0| 
+| 20220422T08:46:39Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 811 | 77| 
+| 20220422T03:43:29Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 20 | 4| 
 | 20220422T01:17:05Z | Recreating the results of the paper titled as %STRIP: A Defence Against Trojan Attacks on Deep Neural Networks% | https://github.com/oaramoon/STRIP-Backdoor-TensorFlow | 1 | 0| 
-| 20220422T00:44:06Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 19 | 4| 
 | 20220421T23:55:32Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 31 | 5| 
-| 20220421T21:26:30Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 809 | 76| 
 | 20220421T19:53:43Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 1 | 0| 
 | 20220421T16:32:45Z | backdoor teknologi php dan boostrap | https://github.com/rimbadirgantara/php-backdor | 0 | 0| 
 | 20220421T10:31:51Z | backdoor php dengan boostrap v4 | https://github.com/rimbadirgantara/backdoor-shell-php-v1.0 | 0 | 0| 
 | 20220421T02:12:49Z | Recreating the results of paper titled as %Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks% | https://github.com/oaramoon/NeuralCleanse-TensorFlow | 1 | 0| 
 | 20220421T00:44:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 458 | 89| 
-| 20220420T19:56:18Z | Null | https://github.com/sidahmedzeus/backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T09:19:53Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 775 | 147| 
+| 20220422T09:17:05Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 5 | 1| 
+| 20220422T03:07:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1956 | 553| 
 | 20220422T01:34:07Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 736 | 157| 
-| 20220421T23:45:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1955 | 553| 
 | 20220421T19:15:32Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 371 | 18| 
 | 20220421T05:41:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1181 | 52| 
-| 20220420T22:59:27Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 4 | 1| 
 | 20220419T17:15:32Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 11 | 0| 
 | 20220419T08:21:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 221 | 54| 
 | 20220419T01:40:21Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 64 | 14| 
-| 20220418T08:02:16Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 773 | 147| 
 | 20220418T04:34:32Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 30 | 18| 
 
 
