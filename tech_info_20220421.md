@@ -34,7 +34,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220421T23:53:03Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220421T21:25:32Z | CVE-2022-24497 | A Zeek detector for CVE-2022-24497. | https://github.com/corelight/CVE-2022-24497 | | 
 | 20220421T18:54:27Z | CVE-2021-0519 | Null | https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0519 | | 
 | 20220421T15:49:23Z | CVE-2022-0265 | Null | https://github.com/achuna33/CVE-2022-0265 | | 
@@ -44,6 +43,7 @@
 | 20220421T12:08:57Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778 in P12 format | https://github.com/0xUhaw/CVE-2022-0778 | | 
 | 20220421T11:39:06Z | CVE-2020-0409 | Null | https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0409 | | 
 | 20220421T11:01:48Z | cve-2022-29464 | Null | https://github.com/tufanturhan/wso2-rce-cve-2022-29464 | | 
+| 20220421T10:44:14Z | CVE-2021-0437 | Null | https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0437 | | 
 
 
 # klee on Github 推荐
@@ -62,7 +62,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220421T23:53:03Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 63 | 22| 
 | 20220421T23:12:11Z | su metodo de inyeccion se efectua al subir el archivo xml a un sitio web | https://github.com/OnixZeny/xml-injection-Xeric-exploit | 0 | 0| 
 | 20220421T22:58:43Z | Repositório dedicado a informações gerais. Com um foco especial a resolução de bugs e exploits públicos dentro do servidor. | https://github.com/ZombieRage/public | 0 | 0| 
 | 20220421T22:05:34Z | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | 1 | 0| 
@@ -72,6 +71,7 @@
 | 20220421T19:52:44Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Mahihack001/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220421T19:51:04Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Mahihack001/Hacking-Tools-Pack | 0 | 0| 
 | 20220421T19:23:34Z | Null | https://github.com/RoryRees/Magento_Auto_Exploiter_Priv | 0 | 0| 
+| 20220421T15:27:09Z | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | 1 | 1| 
 
 
 # backdoor on Github 推荐
