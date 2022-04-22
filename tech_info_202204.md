@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220422T12:00:42Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
+| 20220422T12:05:52Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220422T11:02:28Z | CVE-2022-26809 | Python | https://github.com/jones199023/CVE-2022-26809 | | 
 | 20220422T10:47:23Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220422T10:31:10Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464)  | https://github.com/h3v0x/CVE-2022-29464 | | 
