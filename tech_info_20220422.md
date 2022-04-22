@@ -93,13 +93,13 @@
 | 20220422T12:42:48Z | Null | https://github.com/Lin-13/fuzzy-sniffle | 0 | 0| 
 | 20220422T12:37:18Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-plugin-fuzzy-search | 0 | 0| 
 | 20220422T12:28:14Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-fuzzy-search | 0 | 0| 
+| 20220422T12:17:14Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 308 | 24| 
 | 20220422T12:12:51Z | X41 Smartcard Fuzzer | https://github.com/994419582qq0/x41secy | 0 | 0| 
 | 20220422T12:04:48Z | Tests for University%s works WebPages | https://github.com/ScaraByte00/fuzzy-doodle | 0 | 0| 
 | 20220422T11:30:39Z | Null | https://github.com/topcue/metamorphic-fuzz-testing | 0 | 0| 
 | 20220422T11:04:55Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 224 | 32| 
 | 20220422T09:51:20Z | Null | https://github.com/sardine1/Fuzzy-2.0 | 0 | 0| 
 | 20220422T09:15:29Z | A simple Fuzzpedaleffect | https://github.com/AdorableKillerKitten/FuzzPedal | 0 | 0| 
-| 20220422T08:22:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7263 | 1552| 
 
 
 
