@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T12:54:44Z | Customised worldlist for web directories, username, password, API etc Fuzzing | https://github.com/prakashzhaa/FuzzWorld | 0 | 0| 
 | 20220422T12:42:48Z | Null | https://github.com/Lin-13/fuzzy-sniffle | 0 | 0| 
 | 20220422T12:37:18Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-plugin-fuzzy-search | 0 | 0| 
 | 20220422T12:28:14Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-fuzzy-search | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220422T11:30:39Z | Null | https://github.com/topcue/metamorphic-fuzz-testing | 0 | 0| 
 | 20220422T11:04:55Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 224 | 32| 
 | 20220422T09:51:20Z | Null | https://github.com/sardine1/Fuzzy-2.0 | 0 | 0| 
-| 20220422T09:15:29Z | A simple Fuzzpedaleffect | https://github.com/AdorableKillerKitten/FuzzPedal | 0 | 0| 
 
 
 
