@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220422 | 前两天推送的 “Psychic Signatures” TLS 漏洞的 PoC | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC| 
+| 20220422 | SCodeScanner - 在源码中扫描漏洞的工具，目前支持 PHP 语言 | https://github.com/agrawalsmart7/scodescanner| 
+| 20220422 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464| 
+| 20220422 | 滥用 KernelCallbackTable 实现远程进程代码注入 | http://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection.html| 
+| 20220422 | 硬件研究相关的工具整理 | https://github.com/aolofsson/awesome-hardware-tools| 
+| 20220422 | GraphFuzz: Library API Fuzzing with Lifetime-aware Dataflow Graphs | http://github.com/hgarrereyn/GraphFuzz| 
+| 20220422 | F-Secure Labs 研究如何如何伪造新冠病毒家庭自检设备 Cue Health 的结果 | http://labs.f-secure.com/blog/faking-another-positive-covid-test/| 
+| 20220422 | Pwn2Own Miami for 2022 比赛的结果 | https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results| 
+| 20220422 | Active Directory 域环境的权限维持 | https://0xstarlight.github.io/posts/Active-Directory-Domain-Persistence/| 
 | 20220421 | 反编译工具 jadx 更新 1.3.5 版本 | https://github.com/skylot/jadx/releases/tag/v1.3.5| 
 | 20220421 | Linux 内核 TIPC 远程漏洞的利用（CVE-2022-0435） | http://blog.immunityinc.com/p/writing-a-linux-kernel-remote-in-2022/| 
 | 20220421 | Java 的数字签名算法（DSA）实现被发现 CVE-2022-21449 漏洞 | http://neilmadden.blog/2022/04/19/psychic-signatures-in-java/| 
@@ -17,20 +26,12 @@
 | 20220421 | Java 代码审计资源以及 Java 安全开发方向的资料 | https://github.com/HackJava/HackJava| 
 | 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | https://sec.today/pulses/0f282671-07a3-4a47-a913-120906e91ef4/| 
 | 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | http://blog.trailofbits.com/2022/04/20/amarna-static-analysis-for-cairo-programs/| 
-| 20220421 | Postgresql 渗透总结 | http://tttang.com/archive/1547/| 
-| 20220421 | 解决哥斯拉内存马 pagecontext 的问题 | https://paper.seebug.org/1885/| 
-| 20220421 | Fedora 系统开发团队将考虑弃用旧版 BIOS支持。 | http://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/| 
-| 20220420 | Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 2) （译文） | https://tttang.com/archive/1557/| 
-| 20220420 | How We Fuzzed Microsoft Defender for IoT and Found Multiple Vulnerabilities | https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/| 
-| 20220420 | Persisting XSS With IFrame Traps | https://www.trustedsec.com/blog/persisting-xss-with-iframe-traps/| 
-| 20220420 | Cross-Language Attacks - 多语言构建的应用在漏洞利用缓解方面可能会引入新的问题 | https://www.ndss-symposium.org/wp-content/uploads/2022-78-paper.pdf| 
-| 20220420 | 据 ESET Blog，联想笔记本被发现固件级漏洞，管理员权限的攻击者可以植入固件级恶意代码 | https://www.welivesecurity.com/2022/04/19/when-secure-isnt-secure-uefi-vulnerabilities-lenovo-consumer-laptops/| 
-| 20220420 | 为 Burp 提供对 HTTP Transport Encoding 自定义编码解析的支持 | http://www.pentagrid.ch/en/blog/teaching_burp_a_new_http_transport_encoding/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220422 | TheRoadOfSO: 学习安全运营的记录 | https://github.com/satan1a/TheRoadOfSO/| 
 | 20220421 | 利用神经网络挖掘共同特征发现未知的APT | https://mp.weixin.qq.com/s/ip_pq1UuPXJWqho0hWQ-EQ| 
 | 20220421 | BinAbsInspector：二进制文件自动化静态漏洞检测工具 | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
 | 20220421 | 一窥世界上延迟最低的网络 | https://mp.weixin.qq.com/s/e66VHLkTQRrPXp0P-moOkw| 
@@ -40,30 +41,29 @@
 | 20220419 | 社区合作的威胁情报到底有没有用？ | https://mp.weixin.qq.com/s/sFeW_0cERDwzrukzta6I8Q| 
 | 20220419 | TP-Link-WDR-7660 安全研究之构造基于串口CMD的调试器 | https://mp.weixin.qq.com/s/MtNp8NbQs3S4jQpcDshGXw| 
 | 20220419 | 机器学习如何赋能二进制代码相似性分析 | https://mp.weixin.qq.com/s/3Fla1U2RGh603jH4BxfYEg| 
-| 20220419 | 网络犯罪形态的碎片化与刑事治理的体系化 | https://mp.weixin.qq.com/s/v6WJxNxU5aQCaZhkmif4zw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220422T01:57:11Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
-| 20220422T01:46:00Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
-| 20220421T21:25:32Z | CVE-2022-24497 | A Zeek detector for CVE-2022-24497. | https://github.com/corelight/CVE-2022-24497 | | 
-| 20220421T18:54:27Z | CVE-2021-0519 | Null | https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0519 | | 
-| 20220421T15:49:23Z | CVE-2022-0265 | Null | https://github.com/achuna33/CVE-2022-0265 | | 
-| 20220421T15:46:22Z | CVE-2021-3972 | just poc | https://github.com/killvxk/CVE-2021-3972 | | 
-| 20220421T15:00:29Z | CVE-2022-29464 | Pre-auth RCE bug  CVE-2022-29464 | https://github.com/mr-r3bot/WSO2-CVE-2022-29464 | | 
-| 20220421T12:32:31Z | 未知编号 | Null | https://github.com/Trinadh465/frameworks_base_AOSP_r33_CVE_2021-0334 | | 
-| 20220421T12:08:57Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778 in P12 format | https://github.com/0xUhaw/CVE-2022-0778 | | 
-| 20220421T11:39:06Z | CVE-2020-0409 | Null | https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0409 | | 
+| 20220422T11:37:26Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
+| 20220422T11:02:28Z | CVE-2022-26809 | Python | https://github.com/jones199023/CVE-2022-26809 | | 
+| 20220422T10:47:23Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220422T10:31:10Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464)  | https://github.com/h3v0x/CVE-2022-29464 | | 
+| 20220422T10:28:24Z | CVE-2022-25943 | CVE-2022-25943 | https://github.com/webraybtl/CVE-2022-25943 | | 
+| 20220422T10:27:10Z | CVE-2020-0188 | Null | https://github.com/ShaikUsaf/ShaikUsaf-packages_apps_settings_AOSP10_r33_CVE-2020-0188 | | 
+| 20220422T10:05:57Z | CVE-2021-0481 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481 | | 
+| 20220422T09:52:40Z | CVE-2021-0683 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708 | | 
+| 20220422T08:33:47Z | CVE-2021-36460 | Null | https://github.com/martinfrancois/CVE-2021-36460 | | 
+| 20220422T08:19:40Z | CVE-2022-26809 | Null | https://github.com/CberryAIRDROP/CVE-2022-26809-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220422T01:33:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5860 | 214| 
+| 20220422T09:35:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5866 | 216| 
+| 20220422T03:07:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1956 | 553| 
 | 20220421T23:54:21Z | klee docker container  | https://github.com/sambacha/klee-container | 0 | 0| 
-| 20220421T23:45:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1955 | 553| 
 | 20220420T09:11:03Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 164 | 29| 
 | 20220416T17:00:42Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220422T01:57:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 377 | 111| 
-| 20220422T01:57:11Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 70 | 22| 
+| 20220422T12:00:42Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 105 | 25| 
+| 20220422T11:55:00Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 74 | 23| 
+| 20220422T11:48:53Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 0 | 0| 
+| 20220422T11:23:29Z | 一个漏洞利用工具仓库 | https://github.com/Threekiii/Awesome-Exploit | 12 | 2| 
+| 20220422T09:20:59Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 385 | 114| 
+| 20220422T08:34:56Z | This is an da hood aimlock Made by me This is for Exploiters It works on every Executor Expect jjsploit | https://github.com/ArceusXDEV/DahoodAIMLOCKS | 0 | 0| 
+| 20220422T04:08:35Z | Null | https://github.com/bhagvatgiri/Exploiting-Stack-Based-Buffer-Overflow-on-FreeFloat-FTP-Server | 0 | 0| 
 | 20220421T23:12:11Z | su metodo de inyeccion se efectua al subir el archivo xml a un sitio web | https://github.com/OnixZeny/xml-injection-Xeric-exploit | 0 | 0| 
 | 20220421T22:58:43Z | Repositório dedicado a informações gerais. Com um foco especial a resolução de bugs e exploits públicos dentro do servidor. | https://github.com/ZombieRage/public | 0 | 0| 
 | 20220421T22:05:34Z | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | 1 | 0| 
-| 20220421T20:02:34Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Maxihack001/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220421T20:00:44Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Maxihack001/Hacking-Tools-Pack | 0 | 0| 
-| 20220421T19:53:43Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 1 | 0| 
-| 20220421T19:52:44Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Mahihack001/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220421T19:51:04Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Mahihack001/Hacking-Tools-Pack | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T11:30:39Z | Null | https://github.com/topcue/metamorphic-fuzz-testing | 0 | 0| 
+| 20220422T11:04:55Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 224 | 32| 
+| 20220422T09:51:20Z | Null | https://github.com/sardine1/Fuzzy-2.0 | 0 | 0| 
+| 20220422T09:15:29Z | A simple Fuzzpedaleffect | https://github.com/AdorableKillerKitten/FuzzPedal | 0 | 0| 
+| 20220422T08:22:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7263 | 1552| 
+| 20220422T07:28:58Z | Further control  | https://github.com/bradford80USA/fuzzy-carnival | 1 | 0| 
 | 20220422T01:46:28Z | GraphFuzz is an experimental framework for building structure-aware, library API fuzzers. | https://github.com/hgarrereyn/GraphFuzz | 21 | 1| 
 | 20220422T01:10:54Z | Null | https://github.com/julianarhk/fuzzy-guacamole | 0 | 0| 
 | 20220422T00:26:15Z | Final project for CS 6204, Systems Security Seminar | https://github.com/0xHarrington/Fuzzing-Project | 0 | 0| 
 | 20220422T00:01:51Z | Null | https://github.com/VitcSS/Fuzzy_Systems | 0 | 0| 
-| 20220421T22:32:59Z | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/T-Reqs-HTTP-Fuzzer | 166 | 21| 
-| 20220421T21:16:14Z | This is the slightly upgraded version of a Fuzzies NFT Landing Page!! | https://github.com/owaisraza01/FuzziesNFT-LandingPage | 0 | 0| 
-| 20220421T20:18:00Z | Suite of web browser fuzzing tools aimed at optimising code coverage. Test case generation from a built-in Context-Free Grammar, mutation fuzzing from a corpus of scraped web pages, DOM fuzzing and more. | https://github.com/TartarusLabs/tsukumogami | 4 | 0| 
-| 20220421T20:12:34Z | Cross-platform test harness that assists the user in searching for vulnerabilities in web browsers, specifically by fuzzing their font parsing functionality. | https://github.com/TartarusLabs/fontharness | 1 | 0| 
-| 20220421T19:19:44Z | Null | https://github.com/AxelFuzzi/tienda_hardware_fuzziaxel | 0 | 0| 
-| 20220421T18:57:25Z | Null | https://github.com/guidovranken/flac-fuzzers | 2 | 2| 
 
 
 
