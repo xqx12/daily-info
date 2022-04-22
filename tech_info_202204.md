@@ -93,11 +93,11 @@
 | 20220422T11:48:53Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 0 | 0| 
 | 20220422T11:23:29Z | 一个漏洞利用工具仓库 | https://github.com/Threekiii/Awesome-Exploit | 12 | 2| 
 | 20220422T09:20:59Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 385 | 114| 
+| 20220422T09:06:05Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Raz0r/semgrep-smart-contracts | 147 | 12| 
 | 20220422T08:34:56Z | This is an da hood aimlock Made by me This is for Exploiters It works on every Executor Expect jjsploit | https://github.com/ArceusXDEV/DahoodAIMLOCKS | 0 | 0| 
 | 20220422T04:08:35Z | Null | https://github.com/bhagvatgiri/Exploiting-Stack-Based-Buffer-Overflow-on-FreeFloat-FTP-Server | 0 | 0| 
 | 20220421T23:12:11Z | su metodo de inyeccion se efectua al subir el archivo xml a un sitio web | https://github.com/OnixZeny/xml-injection-Xeric-exploit | 0 | 0| 
 | 20220421T22:58:43Z | Repositório dedicado a informações gerais. Com um foco especial a resolução de bugs e exploits públicos dentro do servidor. | https://github.com/ZombieRage/public | 0 | 0| 
-| 20220421T22:05:34Z | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T12:28:14Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-fuzzy-search | 0 | 0| 
 | 20220422T12:12:51Z | X41 Smartcard Fuzzer | https://github.com/994419582qq0/x41secy | 0 | 0| 
 | 20220422T12:04:48Z | Tests for University%s works WebPages | https://github.com/ScaraByte00/fuzzy-doodle | 0 | 0| 
 | 20220422T11:30:39Z | Null | https://github.com/topcue/metamorphic-fuzz-testing | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220422T08:22:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7263 | 1552| 
 | 20220422T07:28:58Z | Further control  | https://github.com/bradford80USA/fuzzy-carnival | 1 | 0| 
 | 20220422T01:46:28Z | GraphFuzz is an experimental framework for building structure-aware, library API fuzzers. | https://github.com/hgarrereyn/GraphFuzz | 21 | 1| 
-| 20220422T01:10:54Z | Null | https://github.com/julianarhk/fuzzy-guacamole | 0 | 0| 
 
 
 
