@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T12:42:48Z | Null | https://github.com/Lin-13/fuzzy-sniffle | 0 | 0| 
 | 20220422T12:37:18Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-plugin-fuzzy-search | 0 | 0| 
 | 20220422T12:28:14Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-fuzzy-search | 0 | 0| 
 | 20220422T12:12:51Z | X41 Smartcard Fuzzer | https://github.com/994419582qq0/x41secy | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220422T09:51:20Z | Null | https://github.com/sardine1/Fuzzy-2.0 | 0 | 0| 
 | 20220422T09:15:29Z | A simple Fuzzpedaleffect | https://github.com/AdorableKillerKitten/FuzzPedal | 0 | 0| 
 | 20220422T08:22:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7263 | 1552| 
-| 20220422T07:28:58Z | Further control  | https://github.com/bradford80USA/fuzzy-carnival | 1 | 0| 
 
 
 
