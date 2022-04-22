@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T01:09:11Z | Recreating the results of the paper titled as %STRIP: A Defence Against Trojan Attacks on Deep Neural Networks% | https://github.com/oaramoon/STRIP-Backdoor-TensorFlow | 0 | 0| 
 | 20220422T00:44:06Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 19 | 4| 
 | 20220421T23:55:32Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 31 | 5| 
 | 20220421T21:26:30Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 809 | 76| 
@@ -112,7 +113,6 @@
 | 20220421T02:12:49Z | Recreating the results of paper titled as %Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks% | https://github.com/oaramoon/NeuralCleanse-TensorFlow | 1 | 0| 
 | 20220421T00:44:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 458 | 89| 
 | 20220420T19:56:18Z | Null | https://github.com/sidahmedzeus/backdoors | 0 | 0| 
-| 20220419T22:41:26Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/natural_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
