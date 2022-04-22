@@ -17,6 +17,9 @@
 | 20220421 | Java 代码审计资源以及 Java 安全开发方向的资料 | https://github.com/HackJava/HackJava| 
 | 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | https://sec.today/pulses/0f282671-07a3-4a47-a913-120906e91ef4/| 
 | 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | http://blog.trailofbits.com/2022/04/20/amarna-static-analysis-for-cairo-programs/| 
+| 20220421 | Postgresql 渗透总结 | http://tttang.com/archive/1547/| 
+| 20220421 | 解决哥斯拉内存马 pagecontext 的问题 | https://paper.seebug.org/1885/| 
+| 20220421 | Fedora 系统开发团队将考虑弃用旧版 BIOS支持。 | http://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/| 
 
 
 # 安全维基 推荐
@@ -31,22 +34,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220421T12:44:40Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
+| 20220421T23:53:03Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
+| 20220421T23:48:27Z | CVE-2022-21449 | CVE-2022-21449 Proof of Concept demonstrating its usage with a vulnerable client and a malicious TLS server | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC | | 
+| 20220421T21:25:32Z | CVE-2022-24497 | A Zeek detector for CVE-2022-24497. | https://github.com/corelight/CVE-2022-24497 | | 
+| 20220421T18:54:27Z | CVE-2021-0519 | Null | https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0519 | | 
+| 20220421T15:49:23Z | CVE-2022-0265 | Null | https://github.com/achuna33/CVE-2022-0265 | | 
+| 20220421T15:46:22Z | CVE-2021-3972 | just poc | https://github.com/killvxk/CVE-2021-3972 | | 
+| 20220421T15:00:29Z | CVE-2022-29464 | Pre-auth RCE bug  CVE-2022-29464 | https://github.com/mr-r3bot/WSO2-CVE-2022-29464 | | 
 | 20220421T12:32:31Z | 未知编号 | Null | https://github.com/Trinadh465/frameworks_base_AOSP_r33_CVE_2021-0334 | | 
-| 20220421T12:25:24Z | CVE-2021-3972 | just poc | https://github.com/killvxk/CVE-2021-3972 | | 
 | 20220421T12:08:57Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778 in P12 format | https://github.com/0xUhaw/CVE-2022-0778 | | 
 | 20220421T11:39:06Z | CVE-2020-0409 | Null | https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0409 | | 
-| 20220421T11:01:48Z | cve-2022-29464 | Null | https://github.com/tufanturhan/wso2-rce-cve-2022-29464 | | 
-| 20220421T10:44:14Z | CVE-2021-0437 | Null | https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0437 | | 
-| 20220421T10:18:51Z | CVE-2022-22965 | Null | https://github.com/c4mx/CVE-2022-22965_PoC | | 
-| 20220421T09:44:14Z | CVE-2020-0160 | Null | https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0160 | | 
-| 20220421T09:33:34Z | CVE-2021-4034 | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec in Python | https://github.com/rvizx/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220421T10:59:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5859 | 214| 
+| 20220421T23:54:21Z | klee docker container  | https://github.com/sambacha/klee-container | 0 | 0| 
+| 20220421T23:45:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1955 | 553| 
+| 20220421T15:21:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5859 | 214| 
 
 
 # s2e on Github 推荐
@@ -57,24 +62,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220421T12:41:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 365 | 108| 
-| 20220421T12:23:33Z | Null | https://github.com/RyanKadri/log4j-exploit-poc | 0 | 0| 
-| 20220421T12:07:54Z | If you have a LFT vuln you can use this script to scan PIDs and maybe find a vulnerable process to exploit further. | https://github.com/Robing00/PID-Scanner-via-LFI | 0 | 0| 
-| 20220421T10:26:41Z | ExpressJS backed application to exploit a home-made digital library blockchain  | https://github.com/queezzy/BIB-BLOCK-APP | 0 | 0| 
-| 20220421T09:39:16Z | This repository contains the source code for the article %Towards Feature Selection for Ranking and Classification Exploiting Quantum Annealers% published at SIGIR 2022. | https://github.com/qcpolimi/SIGIR22_QuantumFeatureSelection | 0 | 0| 
-| 20220421T09:31:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11030 | 1929| 
-| 20220421T09:10:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 36 | 20| 
-| 20220421T09:06:10Z | Download the repo. Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies. | https://github.com/FredRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
-| 20220421T09:03:08Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 383 | 74| 
-| 20220421T08:56:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2648 | 325| 
+| 20220421T23:53:03Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 63 | 22| 
+| 20220421T23:12:11Z | su metodo de inyeccion se efectua al subir el archivo xml a un sitio web | https://github.com/OnixZeny/xml-injection-Xeric-exploit | 0 | 0| 
+| 20220421T22:58:43Z | Repositório dedicado a informações gerais. Com um foco especial a resolução de bugs e exploits públicos dentro do servidor. | https://github.com/ZombieRage/public | 0 | 0| 
+| 20220421T22:05:34Z | Vulnerabilities, Exploits, POCs, Source Code, Disclosures | https://github.com/Curt-Lucas/Vulnerable | 1 | 0| 
+| 20220421T20:02:34Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Maxihack001/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220421T20:00:44Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Maxihack001/Hacking-Tools-Pack | 0 | 0| 
+| 20220421T19:53:43Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 1 | 0| 
+| 20220421T19:52:44Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Mahihack001/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220421T19:51:04Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Mahihack001/Hacking-Tools-Pack | 0 | 0| 
+| 20220421T19:23:34Z | Null | https://github.com/RoryRees/Magento_Auto_Exploiter_Priv | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220421T12:43:27Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 14 | 4| 
+| 20220421T23:55:32Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 31 | 5| 
+| 20220421T21:26:30Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 809 | 76| 
+| 20220421T19:53:43Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 1 | 0| 
+| 20220421T18:54:20Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 18 | 4| 
+| 20220421T16:32:45Z | backdoor teknologi php dan boostrap | https://github.com/rimbadirgantara/php-backdor | 0 | 0| 
 | 20220421T10:31:51Z | backdoor php dengan boostrap v4 | https://github.com/rimbadirgantara/backdoor-shell-php-v1.0 | 0 | 0| 
-| 20220421T08:56:57Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 810 | 75| 
 | 20220421T02:12:49Z | Recreating the results of paper titled as %Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks% | https://github.com/oaramoon/NeuralCleanse-TensorFlow | 1 | 0| 
 | 20220421T00:44:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 458 | 89| 
 
@@ -95,16 +103,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220421T12:53:16Z | Null | https://github.com/henokwel/fuzzy-potato_test | 0 | 0| 
-| 20220421T12:45:09Z | word list for Directory Fuzzing. | https://github.com/Mr6MJT/FuzZ | 1 | 0| 
-| 20220421T12:34:00Z | Fuzzing support for chrony | https://github.com/mlichvar/chrony-fuzz | 0 | 0| 
-| 20220421T12:04:20Z | Null | https://github.com/Irenie0109/Fuzzy-Logic-Car-Control-example- | 0 | 0| 
-| 20220421T11:29:44Z | Null | https://github.com/rafaelfalcao/fuzzy-guacamole | 0 | 0| 
-| 20220421T09:59:58Z | EMS provided by the paper %EMS: History-Driven Mutation for Coverage-based Fuzzing% | https://github.com/puppet-meteor/EMS | 1 | 0| 
-| 20220421T09:02:53Z | Null | https://github.com/daffaferdiansyah/Tupro-2-Fuzzy | 0 | 0| 
-| 20220421T09:01:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7257 | 1550| 
-| 20220421T08:41:00Z | what%s problem | https://github.com/jhon-cloud/fuzzy-guide | 0 | 0| 
-| 20220421T07:52:59Z | Null | https://github.com/SamarBaghdadi/FuzzBuzz | 0 | 0| 
+| 20220421T23:20:58Z | GraphFuzz is an experimental framework for building structure-aware, library API fuzzers. | https://github.com/hgarrereyn/GraphFuzz | 15 | 1| 
+| 20220421T22:32:59Z | T-Reqs: A grammar-based HTTP Fuzzer | https://github.com/bahruzjabiyev/T-Reqs-HTTP-Fuzzer | 166 | 21| 
+| 20220421T21:16:14Z | This is the slightly upgraded version of a Fuzzies NFT Landing Page!! | https://github.com/owaisraza01/FuzziesNFT-LandingPage | 0 | 0| 
+| 20220421T20:18:00Z | Suite of web browser fuzzing tools aimed at optimising code coverage. Test case generation from a built-in Context-Free Grammar, mutation fuzzing from a corpus of scraped web pages, DOM fuzzing and more. | https://github.com/TartarusLabs/tsukumogami | 4 | 0| 
+| 20220421T20:12:34Z | Cross-platform test harness that assists the user in searching for vulnerabilities in web browsers, specifically by fuzzing their font parsing functionality. | https://github.com/TartarusLabs/fontharness | 1 | 0| 
+| 20220421T19:19:44Z | Null | https://github.com/AxelFuzzi/tienda_hardware_fuzziaxel | 0 | 0| 
+| 20220421T18:57:25Z | Null | https://github.com/guidovranken/flac-fuzzers | 2 | 2| 
+| 20220421T18:50:51Z | Null | https://github.com/nirsarkar/fuzzdb | 0 | 0| 
+| 20220421T17:54:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2523 | 164| 
+| 20220421T17:41:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7260 | 1552| 
 
 
 
