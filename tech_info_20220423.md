@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T12:16:07Z | My own implementation of the process herpaderping evasion technique | https://github.com/Nikj-Fr/Process-Herpaderping | 3 | 1| 
 | 20220423T12:02:19Z | Null | https://github.com/General-Iroh-16/Exploitation_Challenges | 0 | 0| 
 | 20220423T10:33:08Z | Simple plugin made for TimBW HCF to fix pearling noclip exploit. (WIP) | https://github.com/timbw-xyz/PearlFix | 1 | 0| 
 | 20220423T10:17:28Z | 🎯  Windows 平台提权漏洞大合集，长期收集各种提权漏洞利用工具。 | https://github.com/lyshark/Windows-exploits | 491 | 208| 
@@ -53,7 +54,6 @@
 | 20220423T08:24:45Z | Null | https://github.com/Tokumura1995/KernelExploitLearning01 | 0 | 0| 
 | 20220423T07:45:27Z | Exploit blind SQL injection to extract password hashes of users. Credit - TCM Academy Python 101 For Hackers | https://github.com/ben-christian/automated-sql-injection | 0 | 0| 
 | 20220423T02:01:42Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 102 | 21| 
-| 20220423T01:37:25Z | https://umbrellas22.000webhostapp.com/Script-generator , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -76,6 +76,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T03:11:57Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 4 | 0| 
 
 
 # fuzz on Github 推荐
