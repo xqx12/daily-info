@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220423T00:53:55Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 76 | 8| 
+| 20220423T00:59:01Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 77 | 8| 
 | 20220423T00:24:34Z | Create a payload and hack the phone | https://github.com/sadamshr3be/exploit-alsharabi | 0 | 0| 
 | 20220422T22:39:13Z | z | https://github.com/TrapzFX-RBXScripts/exploits | 0 | 0| 
 | 20220422T21:57:09Z | An open-source post-exploitation framework, researchers and developers. | https://github.com/AeX03/eLys | 1 | 0| 
