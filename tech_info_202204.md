@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220422T12:17:55Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
+| 20220422T23:20:52Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
+| 20220422T22:33:52Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
+| 20220422T22:14:57Z | CVE-2022-29464 | Null | https://github.com/0xAgun/CVE-2022-29464 | | 
+| 20220422T21:51:23Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220422T14:19:16Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778 in P12 and PEM format | https://github.com/0xUhaw/CVE-2022-0778 | | 
 | 20220422T11:02:28Z | CVE-2022-26809 | Python | https://github.com/jones199023/CVE-2022-26809 | | 
-| 20220422T10:47:23Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220422T10:31:10Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464)  | https://github.com/h3v0x/CVE-2022-29464 | | 
 | 20220422T10:28:24Z | CVE-2022-25943 | CVE-2022-25943 | https://github.com/webraybtl/CVE-2022-25943 | | 
 | 20220422T10:27:10Z | CVE-2020-0188 | Null | https://github.com/ShaikUsaf/ShaikUsaf-packages_apps_settings_AOSP10_r33_CVE-2020-0188 | | 
 | 20220422T10:05:57Z | CVE-2021-0481 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481 | | 
-| 20220422T09:52:40Z | CVE-2021-0683 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708 | | 
-| 20220422T08:33:47Z | CVE-2021-36460 | Null | https://github.com/martinfrancois/CVE-2021-36460 | | 
-| 20220422T08:19:40Z | CVE-2022-26809 | Null | https://github.com/CberryAIRDROP/CVE-2022-26809-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220422T09:35:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5866 | 216| 
+| 20220422T22:12:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5870 | 216| 
 | 20220422T03:07:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1956 | 553| 
 | 20220421T23:54:21Z | klee docker container  | https://github.com/sambacha/klee-container | 0 | 0| 
 | 20220420T09:11:03Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 164 | 29| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220422T12:57:34Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Raz0r/semgrep-smart-contracts | 148 | 12| 
-| 20220422T12:50:20Z | 一个漏洞利用工具仓库 | https://github.com/Threekiii/Awesome-Exploit | 14 | 3| 
-| 20220422T12:17:55Z | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | 107 | 25| 
-| 20220422T11:55:00Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 74 | 23| 
-| 20220422T11:48:53Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 0 | 0| 
-| 20220422T10:18:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11031 | 1929| 
-| 20220422T09:20:59Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 385 | 114| 
-| 20220422T08:34:56Z | This is an da hood aimlock Made by me This is for Exploiters It works on every Executor Expect jjsploit | https://github.com/ArceusXDEV/DahoodAIMLOCKS | 0 | 0| 
-| 20220422T04:08:35Z | Null | https://github.com/bhagvatgiri/Exploiting-Stack-Based-Buffer-Overflow-on-FreeFloat-FTP-Server | 0 | 0| 
-| 20220421T23:12:11Z | su metodo de inyeccion se efectua al subir el archivo xml a un sitio web | https://github.com/OnixZeny/xml-injection-Xeric-exploit | 0 | 0| 
+| 20220422T22:39:13Z | z | https://github.com/TrapzFX-RBXScripts/exploits | 0 | 0| 
+| 20220422T21:57:09Z | An open-source post-exploitation framework, researchers and developers. | https://github.com/AeX03/eLys | 1 | 0| 
+| 20220422T21:32:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11034 | 1928| 
+| 20220422T19:43:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4506 | 630| 
+| 20220422T19:19:09Z | Web Redirects for using the Geogebra Exploit. | https://github.com/NephyAtSchool/NullReadmeforChromebook | 0 | 0| 
+| 20220422T19:14:36Z | A python script/generator, for generating and exploiting Microsoft vulnerability | https://github.com/BRAINIAC22/CVE-2017-0199 | 0 | 0| 
+| 20220422T19:11:37Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Maxmanhack/Hacking-Tools-Pack | 0 | 0| 
+| 20220422T18:39:44Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 75 | 8| 
+| 20220422T16:22:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 388 | 114| 
+| 20220422T16:07:08Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 74 | 7| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T20:43:16Z | Null | https://github.com/BRAINIAC22/MetasploitGUI---backdoor | 0 | 0| 
+| 20220422T19:24:15Z | A batch script coupled with VBscript that first of all disables windows defender and other security threats, and downloads and install payload (malware/backdoor) | https://github.com/BRAINIAC22/Disable-Windows-Defender | 0 | 0| 
 | 20220422T10:02:09Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 1 | 0| 
 | 20220422T08:46:39Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 811 | 77| 
-| 20220422T03:43:29Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 20 | 4| 
+| 20220422T03:43:29Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 20 | 5| 
 | 20220422T01:17:05Z | Recreating the results of the paper titled as %STRIP: A Defence Against Trojan Attacks on Deep Neural Networks% | https://github.com/oaramoon/STRIP-Backdoor-TensorFlow | 1 | 0| 
 | 20220421T23:55:32Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 31 | 5| 
 | 20220421T19:53:43Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 1 | 0| 
 | 20220421T16:32:45Z | backdoor teknologi php dan boostrap | https://github.com/rimbadirgantara/php-backdor | 0 | 0| 
 | 20220421T10:31:51Z | backdoor php dengan boostrap v4 | https://github.com/rimbadirgantara/backdoor-shell-php-v1.0 | 0 | 0| 
-| 20220421T02:12:49Z | Recreating the results of paper titled as %Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks% | https://github.com/oaramoon/NeuralCleanse-TensorFlow | 1 | 0| 
-| 20220421T00:44:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 458 | 89| 
 
 
 # symbolic execution on Github 推荐
@@ -140,6 +140,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220422T23:56:39Z | Null | https://github.com/GuiltyAdonis/fuzzy-goggles | 0 | 0| 
+| 20220422T21:15:05Z | Match Addresses that MIGHT/probably are the same or entered wrong | https://github.com/ben16stuart/FuzzyAddresses | 0 | 0| 
+| 20220422T21:15:02Z | Null | https://github.com/guidovranken/python-library-fuzzers | 3 | 4| 
 | 20220422T12:54:44Z | Customised worldlist for web directories, username, password, API etc Fuzzing | https://github.com/prakashzhaa/FuzzWorld | 0 | 0| 
 | 20220422T12:42:48Z | Null | https://github.com/Lin-13/fuzzy-sniffle | 0 | 0| 
 | 20220422T12:37:18Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-plugin-fuzzy-search | 0 | 0| 
@@ -147,9 +150,6 @@
 | 20220422T12:17:14Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 308 | 24| 
 | 20220422T12:12:51Z | X41 Smartcard Fuzzer | https://github.com/994419582qq0/x41secy | 0 | 0| 
 | 20220422T12:04:48Z | Tests for University%s works WebPages | https://github.com/ScaraByte00/fuzzy-doodle | 0 | 0| 
-| 20220422T11:30:39Z | Null | https://github.com/topcue/metamorphic-fuzz-testing | 0 | 0| 
-| 20220422T11:04:55Z | Vaf is a cross-platform very advanced and fast web fuzzer written in nim | https://github.com/d4rckh/vaf | 224 | 32| 
-| 20220422T09:51:20Z | Null | https://github.com/sardine1/Fuzzy-2.0 | 0 | 0| 
 
 
 
