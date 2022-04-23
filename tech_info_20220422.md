@@ -60,9 +60,9 @@
 | 20220422T19:19:09Z | Web Redirects for using the Geogebra Exploit. | https://github.com/NephyAtSchool/NullReadmeforChromebook | 0 | 0| 
 | 20220422T19:14:36Z | A python script/generator, for generating and exploiting Microsoft vulnerability | https://github.com/BRAINIAC22/CVE-2017-0199 | 0 | 0| 
 | 20220422T19:11:37Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Maxmanhack/Hacking-Tools-Pack | 0 | 0| 
-| 20220422T18:39:44Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 75 | 8| 
 | 20220422T16:22:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 388 | 114| 
 | 20220422T16:07:08Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 74 | 7| 
+| 20220422T12:57:34Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Raz0r/semgrep-smart-contracts | 148 | 12| 
 
 
 # backdoor on Github 推荐
