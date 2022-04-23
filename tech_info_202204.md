@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220423T12:43:31Z | CVE-2021-0318 | Null | https://github.com/nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | | 
 | 20220423T12:30:21Z | CVE-2021-3279 | Null | https://github.com/rafaelchriss/CVE-2021-3279 | | 
 | 20220423T12:00:53Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220423T10:37:54Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
@@ -55,7 +56,6 @@
 | 20220423T07:23:26Z | CVE-2020-0137 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0137 | | 
 | 20220423T07:00:03Z | CVE-2020-14356 | Null | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-14356 | | 
 | 20220423T06:23:48Z | CVE-2021-0513 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0513 | | 
-| 20220423T05:03:49Z | CVE-2021-0337 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0337 | | 
 
 
 # klee on Github 推荐
