@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T00:24:34Z | Create a payload and hack the phone | https://github.com/sadamshr3be/exploit-alsharabi | 0 | 0| 
 | 20220422T22:39:13Z | z | https://github.com/TrapzFX-RBXScripts/exploits | 0 | 0| 
 | 20220422T21:57:09Z | An open-source post-exploitation framework, researchers and developers. | https://github.com/AeX03/eLys | 1 | 0| 
 | 20220422T21:32:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11034 | 1928| 
@@ -97,7 +98,6 @@
 | 20220422T19:11:37Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Maxmanhack/Hacking-Tools-Pack | 0 | 0| 
 | 20220422T18:39:44Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 75 | 8| 
 | 20220422T16:22:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 388 | 114| 
-| 20220422T16:07:08Z | A collection of resources to study Solana smart contract security, auditing, and exploits. | https://github.com/0xsanny/solsec | 74 | 7| 
 
 
 # backdoor on Github 推荐
