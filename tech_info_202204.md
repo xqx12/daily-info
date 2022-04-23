@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T01:15:51Z | Null | https://github.com/chrishowitt123/Fuzzy-GY-nums | 0 | 0| 
 | 20220423T00:54:03Z | Null | https://github.com/ack20a/fuzzy-octo-barnacle | 0 | 0| 
 | 20220423T00:31:39Z | Null | https://github.com/Parkar017/fuzzy-octo-parakeet | 0 | 0| 
 | 20220423T00:22:09Z | Config files for my GitHub profile. | https://github.com/fuzzyweapon/fuzzyweapon | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220422T12:54:44Z | Customised worldlist for web directories, username, password, API etc Fuzzing | https://github.com/prakashzhaa/FuzzWorld | 0 | 0| 
 | 20220422T12:42:48Z | Null | https://github.com/Lin-13/fuzzy-sniffle | 0 | 0| 
 | 20220422T12:37:18Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-plugin-fuzzy-search | 0 | 0| 
-| 20220422T12:28:14Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-fuzzy-search | 0 | 0| 
 
 
 
