@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220423T01:20:39Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
+| 20220423T01:37:27Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220423T00:21:07Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220422T22:33:52Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
 | 20220422T22:14:57Z | CVE-2022-29464 | Null | https://github.com/0xAgun/CVE-2022-29464 | | 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T01:37:25Z | https://umbrellas22.000webhostapp.com/Script-generator , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | 0 | 0| 
 | 20220423T01:23:04Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 78 | 8| 
 | 20220423T00:24:34Z | Create a payload and hack the phone | https://github.com/sadamshr3be/exploit-alsharabi | 0 | 0| 
 | 20220422T22:39:13Z | z | https://github.com/TrapzFX-RBXScripts/exploits | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220422T19:19:09Z | Web Redirects for using the Geogebra Exploit. | https://github.com/NephyAtSchool/NullReadmeforChromebook | 0 | 0| 
 | 20220422T19:14:36Z | A python script/generator, for generating and exploiting Microsoft vulnerability | https://github.com/BRAINIAC22/CVE-2017-0199 | 0 | 0| 
 | 20220422T19:11:37Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Maxmanhack/Hacking-Tools-Pack | 0 | 0| 
-| 20220422T16:22:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 388 | 114| 
 
 
 # backdoor on Github 推荐
