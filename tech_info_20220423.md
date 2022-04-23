@@ -44,10 +44,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T12:50:15Z | 🎯  Windows 平台提权漏洞大合集，长期收集各种提权漏洞利用工具。 | https://github.com/lyshark/Windows-exploits | 492 | 208| 
 | 20220423T12:16:07Z | My own implementation of the process herpaderping evasion technique | https://github.com/Nikj-Fr/Process-Herpaderping | 3 | 1| 
 | 20220423T12:02:19Z | Null | https://github.com/General-Iroh-16/Exploitation_Challenges | 0 | 0| 
 | 20220423T10:33:08Z | Simple plugin made for TimBW HCF to fix pearling noclip exploit. (WIP) | https://github.com/timbw-xyz/PearlFix | 1 | 0| 
-| 20220423T10:17:28Z | 🎯  Windows 平台提权漏洞大合集，长期收集各种提权漏洞利用工具。 | https://github.com/lyshark/Windows-exploits | 491 | 208| 
 | 20220423T10:15:04Z | my scripts for Roblox games / Roblox exploits | https://github.com/cyxv/robloxscripts | 0 | 0| 
 | 20220423T09:52:38Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | 0 | 0| 
 | 20220423T09:11:37Z | Abstract In the latest years, the prediction of gene expression levels has been crucial due to its potential applications in the clinics. In this context, Xpresso and others methods based on Convolutional Neural Networks and Transformers were firstly proposed to this aim. However, all these methods embed data with a standard one-hot encoding algorithm, resulting in impressively sparse matrices. In addition, post-transcriptional regulation processes, which are of uttermost importance in the gene expression process, are not considered in the model. Therefore, this paper presents Transformer DeepLncLoc, a novel method to predict the abundance of the mRNA (i.e., gene expression levels) by processing gene promoter sequences, managing the problem as a regression task. The model exploits a transformer-based architecture, introducing the DeepLncLoc method to perform the data embedding. Since DeepLncloc is based on word2vec algorithm, it avoids the sparse matrices problem. In addition, post-traanscriptional information related to mRNA stability and transcription factors is included in the model, leading to significantly improved performances compared to the state-of-the-art works. Transformer DeepLncLoc reached 0.76 of R2 evaluation metric compared to 0.74 of Xpresso. Keywords: gene expression; prediction; dna; transformers | https://github.com/geneexpressionpolito/Transformers-for-gene-expression-prediction-from-raw-dna-sequences | 0 | 0| 
@@ -82,7 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220423T12:47:22Z | Null | https://github.com/imFaizanAhmed/FuzzWuzzy_pyspark_dataframe | 0 | 0| 
+| 20220423T12:47:49Z | Null | https://github.com/imFaizanAhmed/FuzzWuzzy_pyspark_dataframe | 0 | 0| 
 | 20220423T11:54:28Z | Null | https://github.com/IhorMruchko/FuzzySet | 0 | 0| 
 | 20220423T06:23:21Z | Instaa get | https://github.com/Atesby/Fuzzy-dollop-a | 0 | 0| 
 | 20220423T02:39:24Z | Fuzzy String Matching - Levenshtein Algorithm - Filtering Profanity in Bahasa | https://github.com/dwirifki10/Fuzzy_Filtering_Profanity | 0 | 0| 
