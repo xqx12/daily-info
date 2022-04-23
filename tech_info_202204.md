@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220423T01:37:27Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
-| 20220423T00:21:07Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
-| 20220422T22:33:52Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
-| 20220422T22:14:57Z | CVE-2022-29464 | Null | https://github.com/0xAgun/CVE-2022-29464 | | 
-| 20220422T14:19:16Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778 in P12 and PEM format | https://github.com/0xUhaw/CVE-2022-0778 | | 
-| 20220422T11:02:28Z | CVE-2022-26809 | Python | https://github.com/jones199023/CVE-2022-26809 | | 
-| 20220422T10:31:10Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464)  | https://github.com/h3v0x/CVE-2022-29464 | | 
-| 20220422T10:28:24Z | CVE-2022-25943 | CVE-2022-25943 | https://github.com/webraybtl/CVE-2022-25943 | | 
-| 20220422T10:27:10Z | CVE-2020-0188 | Null | https://github.com/ShaikUsaf/ShaikUsaf-packages_apps_settings_AOSP10_r33_CVE-2020-0188 | | 
-| 20220422T10:05:57Z | CVE-2021-0481 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481 | | 
+| 20220423T12:00:53Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
+| 20220423T10:37:54Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
+| 20220423T10:29:35Z | CVE-2021-0306 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317 | | 
+| 20220423T09:43:07Z | CVE-2020-0401 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0401 | | 
+| 20220423T09:34:20Z | CVE-2022-22965 | Null | https://github.com/mariomamo/CVE-2022-22965 | | 
+| 20220423T07:23:26Z | CVE-2020-0137 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0137 | | 
+| 20220423T07:00:03Z | CVE-2020-14356 | Null | https://github.com/ShaikUsaf/linux-4.19.72_CVE-2020-14356 | | 
+| 20220423T06:23:48Z | CVE-2021-0513 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0513 | | 
+| 20220423T05:03:49Z | CVE-2021-0337 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-0337 | | 
+| 20220423T05:03:29Z | CVE-2021-0705 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0705 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220422T22:12:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5870 | 216| 
+| 20220423T11:56:22Z | Online shop on django | https://github.com/LeonardoBigShot/kleenka | 0 | 0| 
+| 20220423T10:17:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5873 | 215| 
 | 20220422T03:07:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1956 | 553| 
 | 20220421T23:54:21Z | klee docker container  | https://github.com/sambacha/klee-container | 0 | 0| 
 | 20220420T09:11:03Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 164 | 29| 
@@ -70,14 +71,13 @@
 | 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
 | 20220411T11:25:06Z | Null | https://github.com/CarlOsterberg/cortex-klee-test-lib | 0 | 0| 
 | 20220411T09:58:40Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
-| 20220411T05:53:04Z | Null | https://github.com/klee669/klee669.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T10:55:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 | 20220420T13:10:14Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 17 | 2| 
-| 20220419T08:21:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 221 | 54| 
 | 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
 | 20220408T02:55:28Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 4 | 3| 
 | 20220407T21:51:32Z | Null | https://github.com/software-testing-bootcamp/S2E4-API-Test-Karate-Gatling | 1 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T10:33:08Z | Simple plugin made for TimBW HCF to fix pearling noclip exploit. (WIP) | https://github.com/timbw-xyz/PearlFix | 1 | 0| 
+| 20220423T10:17:28Z | 🎯  Windows 平台提权漏洞大合集，长期收集各种提权漏洞利用工具。 | https://github.com/lyshark/Windows-exploits | 491 | 208| 
+| 20220423T10:15:04Z | my scripts for Roblox games / Roblox exploits | https://github.com/cyxv/robloxscripts | 0 | 0| 
+| 20220423T09:52:38Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | 0 | 0| 
+| 20220423T09:11:37Z | Abstract In the latest years, the prediction of gene expression levels has been crucial due to its potential applications in the clinics. In this context, Xpresso and others methods based on Convolutional Neural Networks and Transformers were firstly proposed to this aim. However, all these methods embed data with a standard one-hot encoding algorithm, resulting in impressively sparse matrices. In addition, post-transcriptional regulation processes, which are of uttermost importance in the gene expression process, are not considered in the model. Therefore, this paper presents Transformer DeepLncLoc, a novel method to predict the abundance of the mRNA (i.e., gene expression levels) by processing gene promoter sequences, managing the problem as a regression task. The model exploits a transformer-based architecture, introducing the DeepLncLoc method to perform the data embedding. Since DeepLncloc is based on word2vec algorithm, it avoids the sparse matrices problem. In addition, post-traanscriptional information related to mRNA stability and transcription factors is included in the model, leading to significantly improved performances compared to the state-of-the-art works. Transformer DeepLncLoc reached 0.76 of R2 evaluation metric compared to 0.74 of Xpresso. Keywords: gene expression; prediction; dna; transformers | https://github.com/geneexpressionpolito/Transformers-for-gene-expression-prediction-from-raw-dna-sequences | 0 | 0| 
+| 20220423T08:24:45Z | Null | https://github.com/Tokumura1995/KernelExploitLearning01 | 0 | 0| 
+| 20220423T07:45:27Z | Exploit blind SQL injection to extract password hashes of users. Credit - TCM Academy Python 101 For Hackers | https://github.com/ben-christian/automated-sql-injection | 0 | 0| 
+| 20220423T02:01:42Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 102 | 21| 
 | 20220423T01:37:25Z | https://umbrellas22.000webhostapp.com/Script-generator , whit this you can easily create script hub for your roblox script , open/close menu with right ctrl | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | 0 | 0| 
 | 20220423T01:23:04Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 78 | 8| 
-| 20220423T00:24:34Z | Create a payload and hack the phone | https://github.com/sadamshr3be/exploit-alsharabi | 0 | 0| 
-| 20220422T22:39:13Z | z | https://github.com/TrapzFX-RBXScripts/exploits | 0 | 0| 
-| 20220422T21:57:09Z | An open-source post-exploitation framework, researchers and developers. | https://github.com/AeX03/eLys | 1 | 0| 
-| 20220422T21:32:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11034 | 1928| 
-| 20220422T19:43:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4506 | 630| 
-| 20220422T19:19:09Z | Web Redirects for using the Geogebra Exploit. | https://github.com/NephyAtSchool/NullReadmeforChromebook | 0 | 0| 
-| 20220422T19:14:36Z | A python script/generator, for generating and exploiting Microsoft vulnerability | https://github.com/BRAINIAC22/CVE-2017-0199 | 0 | 0| 
-| 20220422T19:11:37Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Maxmanhack/Hacking-Tools-Pack | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T11:31:05Z | Null | https://github.com/Spr1n9T1me/FunnyBackdoor | 1 | 0| 
+| 20220423T08:55:42Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 21 | 5| 
+| 20220423T08:42:53Z | Null | https://github.com/bleedcloudVIII/stupid_backdoor | 0 | 0| 
+| 20220423T02:22:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 459 | 89| 
 | 20220422T20:43:16Z | Null | https://github.com/BRAINIAC22/MetasploitGUI---backdoor | 0 | 0| 
 | 20220422T19:24:15Z | A batch script coupled with VBscript that first of all disables windows defender and other security threats, and downloads and install payload (malware/backdoor) | https://github.com/BRAINIAC22/Disable-Windows-Defender | 0 | 0| 
+| 20220422T13:01:32Z | Null | https://github.com/THUYimingLi/BackdoorBox | 38 | 10| 
 | 20220422T10:02:09Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 1 | 0| 
 | 20220422T08:46:39Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 811 | 77| 
-| 20220422T03:43:29Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 20 | 5| 
 | 20220422T01:17:05Z | Recreating the results of the paper titled as %STRIP: A Defence Against Trojan Attacks on Deep Neural Networks% | https://github.com/oaramoon/STRIP-Backdoor-TensorFlow | 1 | 0| 
-| 20220421T23:55:32Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 31 | 5| 
-| 20220421T19:53:43Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 1 | 0| 
-| 20220421T16:32:45Z | backdoor teknologi php dan boostrap | https://github.com/rimbadirgantara/php-backdor | 0 | 0| 
-| 20220421T10:31:51Z | backdoor php dengan boostrap v4 | https://github.com/rimbadirgantara/backdoor-shell-php-v1.0 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
