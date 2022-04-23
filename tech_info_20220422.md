@@ -80,7 +80,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220422T21:00:42Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 50 | 1| 
-| 20220422T19:44:32Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 8 | 1| 
 | 20220422T09:19:53Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 775 | 147| 
 | 20220422T03:07:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1956 | 553| 
 | 20220422T01:34:07Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 736 | 157| 
