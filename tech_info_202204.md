@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T00:31:39Z | Null | https://github.com/Parkar017/fuzzy-octo-parakeet | 0 | 0| 
 | 20220423T00:22:09Z | Config files for my GitHub profile. | https://github.com/fuzzyweapon/fuzzyweapon | 0 | 0| 
 | 20220422T23:56:39Z | Null | https://github.com/GuiltyAdonis/fuzzy-goggles | 0 | 0| 
 | 20220422T21:15:05Z | Match Addresses that MIGHT/probably are the same or entered wrong | https://github.com/ben16stuart/FuzzyAddresses | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220422T12:37:18Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-plugin-fuzzy-search | 0 | 0| 
 | 20220422T12:28:14Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-fuzzy-search | 0 | 0| 
 | 20220422T12:17:14Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 308 | 24| 
-| 20220422T12:12:51Z | X41 Smartcard Fuzzer | https://github.com/994419582qq0/x41secy | 0 | 0| 
 
 
 
