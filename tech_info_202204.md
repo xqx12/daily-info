@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T11:56:12Z | Null | https://github.com/imFaizanAhmed/FuzzWuzzy_pyspark_dataframe | 0 | 0| 
+| 20220423T11:54:28Z | Null | https://github.com/IhorMruchko/FuzzySet | 0 | 0| 
+| 20220423T06:23:21Z | Instaa get | https://github.com/Atesby/Fuzzy-dollop-a | 0 | 0| 
+| 20220423T02:39:24Z | Fuzzy String Matching - Levenshtein Algorithm - Filtering Profanity in Bahasa | https://github.com/dwirifki10/Fuzzy_Filtering_Profanity | 0 | 0| 
+| 20220423T02:23:21Z | Null | https://github.com/VitcSS/Fuzzy_Systems | 0 | 0| 
 | 20220423T01:17:08Z | Null | https://github.com/chrishowitt123/Fuzzy-GY-nums | 0 | 0| 
 | 20220423T00:54:03Z | Null | https://github.com/ack20a/fuzzy-octo-barnacle | 0 | 0| 
 | 20220423T00:31:39Z | Null | https://github.com/Parkar017/fuzzy-octo-parakeet | 0 | 0| 
 | 20220423T00:22:09Z | Config files for my GitHub profile. | https://github.com/fuzzyweapon/fuzzyweapon | 0 | 0| 
 | 20220422T23:56:39Z | Null | https://github.com/GuiltyAdonis/fuzzy-goggles | 0 | 0| 
-| 20220422T21:15:05Z | Match Addresses that MIGHT/probably are the same or entered wrong | https://github.com/ben16stuart/FuzzyAddresses | 0 | 0| 
-| 20220422T21:15:02Z | Null | https://github.com/guidovranken/python-library-fuzzers | 3 | 4| 
-| 20220422T12:54:44Z | Customised worldlist for web directories, username, password, API etc Fuzzing | https://github.com/prakashzhaa/FuzzWorld | 0 | 0| 
-| 20220422T12:42:48Z | Null | https://github.com/Lin-13/fuzzy-sniffle | 0 | 0| 
-| 20220422T12:37:18Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-plugin-fuzzy-search | 0 | 0| 
 
 
 
