@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220423T12:43:31Z | CVE-2021-0318 | Null | https://github.com/nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | | 
+| 20220423T12:48:06Z | CVE-2021-0318 | Null | https://github.com/nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | | 
 | 20220423T12:30:21Z | CVE-2021-3279 | Null | https://github.com/rafaelchriss/CVE-2021-3279 | | 
 | 20220423T12:00:53Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220423T10:37:54Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
