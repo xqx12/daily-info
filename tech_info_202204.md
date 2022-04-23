@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220423T00:21:07Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220422T23:20:52Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220422T22:33:52Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
 | 20220422T22:14:57Z | CVE-2022-29464 | Null | https://github.com/0xAgun/CVE-2022-29464 | | 
-| 20220422T21:51:23Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220422T14:19:16Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778 in P12 and PEM format | https://github.com/0xUhaw/CVE-2022-0778 | | 
 | 20220422T11:02:28Z | CVE-2022-26809 | Python | https://github.com/jones199023/CVE-2022-26809 | | 
 | 20220422T10:31:10Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464)  | https://github.com/h3v0x/CVE-2022-29464 | | 
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T00:22:09Z | Config files for my GitHub profile. | https://github.com/fuzzyweapon/fuzzyweapon | 0 | 0| 
 | 20220422T23:56:39Z | Null | https://github.com/GuiltyAdonis/fuzzy-goggles | 0 | 0| 
 | 20220422T21:15:05Z | Match Addresses that MIGHT/probably are the same or entered wrong | https://github.com/ben16stuart/FuzzyAddresses | 0 | 0| 
 | 20220422T21:15:02Z | Null | https://github.com/guidovranken/python-library-fuzzers | 3 | 4| 
@@ -149,7 +150,6 @@
 | 20220422T12:28:14Z | plugin for Strapi headless cms which registers a fuzzy search | https://github.com/DomDew/strapi-fuzzy-search | 0 | 0| 
 | 20220422T12:17:14Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 308 | 24| 
 | 20220422T12:12:51Z | X41 Smartcard Fuzzer | https://github.com/994419582qq0/x41secy | 0 | 0| 
-| 20220422T12:04:48Z | Tests for University%s works WebPages | https://github.com/ScaraByte00/fuzzy-doodle | 0 | 0| 
 
 
 

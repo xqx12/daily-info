@@ -29,13 +29,13 @@
 | 20220422T23:20:52Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220422T22:33:52Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
 | 20220422T22:14:57Z | CVE-2022-29464 | Null | https://github.com/0xAgun/CVE-2022-29464 | | 
-| 20220422T21:51:23Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220422T14:19:16Z | CVE-2022-0778 | Proof of concept for CVE-2022-0778 in P12 and PEM format | https://github.com/0xUhaw/CVE-2022-0778 | | 
 | 20220422T11:02:28Z | CVE-2022-26809 | Python | https://github.com/jones199023/CVE-2022-26809 | | 
 | 20220422T10:31:10Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464)  | https://github.com/h3v0x/CVE-2022-29464 | | 
 | 20220422T10:28:24Z | CVE-2022-25943 | CVE-2022-25943 | https://github.com/webraybtl/CVE-2022-25943 | | 
 | 20220422T10:27:10Z | CVE-2020-0188 | Null | https://github.com/ShaikUsaf/ShaikUsaf-packages_apps_settings_AOSP10_r33_CVE-2020-0188 | | 
 | 20220422T10:05:57Z | CVE-2021-0481 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2021-0481 | | 
+| 20220422T09:52:40Z | CVE-2021-0683 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708 | | 
 
 
 # klee on Github 推荐
