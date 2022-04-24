@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220424T01:30:02Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | | 
 | 20220423T17:54:43Z | CVE-2022-25636 | Null | https://github.com/B0nfee/CVE-2022-25636 | | 
 | 20220423T17:54:35Z | CVE-2022-21882 | Null | https://github.com/B0nfee/CVE-2022-21882 | | 
 | 20220423T17:48:55Z | CVE-2022-0995 | Null | https://github.com/B0nfee/CVE-2022-0995 | | 
@@ -55,7 +56,6 @@
 | 20220423T12:30:21Z | CVE-2021-3279 | Null | https://github.com/rafaelchriss/CVE-2021-3279 | | 
 | 20220423T12:00:53Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
 | 20220423T10:37:54Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
-| 20220423T10:29:35Z | CVE-2021-0306 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T01:30:02Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | 1 | 0| 
 | 20220424T01:25:08Z | Null | https://github.com/ex4722/kernel_exploitation | 0 | 0| 
 | 20220424T00:43:47Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Samhacker001/Hacking-Tools-Pack | 1 | 0| 
 | 20220424T00:05:32Z | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | 2 | 2| 
@@ -97,7 +98,6 @@
 | 20220423T19:25:28Z | Just a UI for roblox exploit | https://github.com/BloxyExploits/Roblox-UI | 0 | 0| 
 | 20220423T18:56:48Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Samhacker001/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220423T18:45:46Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack001/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220423T18:43:31Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack001/Hacking-Tools-Pack | 0 | 0| 
 
 
 # backdoor on Github 推荐
