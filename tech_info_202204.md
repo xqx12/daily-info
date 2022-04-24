@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T01:49:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2653 | 325| 
 | 20220424T01:47:01Z | Send automatic shares to your favourites tiktok videos! | https://github.com/netgian/TikTok-Shares | 0 | 0| 
 | 20220424T01:34:15Z | Null | https://github.com/lwcask/gpon-exploit | 0 | 0| 
 | 20220424T01:30:02Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220423T23:05:15Z | Create a payload and hack the phone | https://github.com/sadamshr3be/exploit-alsharabi | 0 | 0| 
 | 20220423T22:38:56Z | 🕳️ Proof of Concept exploits and their descriptions for various products | https://github.com/moehw/poc_exploits | 10 | 1| 
 | 20220423T21:26:42Z | roblox exploit scripts | https://github.com/ZStrikeGit/roblox-scripts | 0 | 0| 
-| 20220423T19:25:28Z | Just a UI for roblox exploit | https://github.com/BloxyExploits/Roblox-UI | 0 | 0| 
 
 
 # backdoor on Github 推荐
