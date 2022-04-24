@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T01:47:01Z | Send automatic shares to your favourites tiktok videos! | https://github.com/netgian/TikTok-Shares | 0 | 0| 
 | 20220424T01:34:15Z | Null | https://github.com/lwcask/gpon-exploit | 0 | 0| 
 | 20220424T01:30:02Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | 1 | 0| 
 | 20220424T01:25:08Z | Null | https://github.com/ex4722/kernel_exploitation | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220423T22:38:56Z | 🕳️ Proof of Concept exploits and their descriptions for various products | https://github.com/moehw/poc_exploits | 10 | 1| 
 | 20220423T21:26:42Z | roblox exploit scripts | https://github.com/ZStrikeGit/roblox-scripts | 0 | 0| 
 | 20220423T19:25:28Z | Just a UI for roblox exploit | https://github.com/BloxyExploits/Roblox-UI | 0 | 0| 
-| 20220423T18:56:48Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Samhacker001/GH-Hacking-Tool-Kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
