@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220424T12:53:57Z | Null | https://github.com/Smail0x/WebMin-1.920-Exploit-RCE | 0 | 0| 
+| 20220424T12:54:52Z | Null | https://github.com/Smail0x/WebMin-1.920-Exploit-RCE | 0 | 0| 
 | 20220424T11:57:32Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 875 | 149| 
 | 20220424T11:24:18Z | Holds what scripts I use for playing games. Exploits, Codes and Etc. | https://github.com/kyaclassynine/ROBLOX-Scripts | 1 | 0| 
 | 20220424T11:23:31Z | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | 0 | 0| 
