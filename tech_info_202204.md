@@ -144,12 +144,12 @@
 | 20220424T10:35:36Z | Null | https://github.com/GitShanks14/Fuzzy-control-inverted-pendulum | 0 | 0| 
 | 20220424T10:35:17Z | Null | https://github.com/Ranjanku/fuzzy-octo-journey | 0 | 0| 
 | 20220424T09:10:18Z | Null | https://github.com/mimicria/fuzzdicts | 0 | 0| 
+| 20220424T05:20:53Z | A Coverage-Guided Fuzzer for Hardware Model Checkers | https://github.com/muchang/Hammer | 2 | 0| 
 | 20220423T23:54:07Z | Null | https://github.com/AgentSaxyCow/fuzzy-journey | 0 | 1| 
 | 20220423T22:44:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 362 | 51| 
 | 20220423T20:58:31Z | Null | https://github.com/David65123/Fuzzy-Yecz | 0 | 0| 
 | 20220423T17:12:00Z | cd whatsapp-phishing | https://github.com/Mass4641/fuzzy-octo-garbanzo | 1 | 0| 
 | 20220423T12:47:49Z | Null | https://github.com/imFaizanAhmed/FuzzWuzzy_pyspark_dataframe | 0 | 0| 
-| 20220423T11:54:28Z | Null | https://github.com/IhorMruchko/FuzzySet | 0 | 0| 
 
 
 
