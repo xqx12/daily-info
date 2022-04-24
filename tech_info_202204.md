@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220424 | 内网渗透 -- NTLM 反射分析及土豆家族 | http://tttang.com/archive/1560/| 
 | 20220422 | 前两天推送的 “Psychic Signatures” TLS 漏洞的 PoC | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC| 
 | 20220422 | SCodeScanner - 在源码中扫描漏洞的工具，目前支持 PHP 语言 | https://github.com/agrawalsmart7/scodescanner| 
 | 20220422 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464| 
@@ -25,12 +26,12 @@
 | 20220421 | 科恩实验室开源二进制文件自动化静态漏洞检测工具 BinAbsInspector | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
 | 20220421 | Java 代码审计资源以及 Java 安全开发方向的资料 | https://github.com/HackJava/HackJava| 
 | 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | https://sec.today/pulses/0f282671-07a3-4a47-a913-120906e91ef4/| 
-| 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | http://blog.trailofbits.com/2022/04/20/amarna-static-analysis-for-cairo-programs/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220424 | 《VirusTotal 2021 年度恶意软件趋势报告》 | https://mp.weixin.qq.com/s/CaFik7K2vqAh7ycpoiEHDA| 
 | 20220422 | TheRoadOfSO: 学习安全运营的记录 | https://github.com/satan1a/TheRoadOfSO/| 
 | 20220421 | 利用神经网络挖掘共同特征发现未知的APT | https://mp.weixin.qq.com/s/ip_pq1UuPXJWqho0hWQ-EQ| 
 | 20220421 | BinAbsInspector：二进制文件自动化静态漏洞检测工具 | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
@@ -40,29 +41,29 @@
 | 20220419 | Go template 遇上 yaml 反序列化 CVE-2022-21701 分析 | http://noahblog.360.cn/go-template-meets-yaml-cve-2022-21701/| 
 | 20220419 | 社区合作的威胁情报到底有没有用？ | https://mp.weixin.qq.com/s/sFeW_0cERDwzrukzta6I8Q| 
 | 20220419 | TP-Link-WDR-7660 安全研究之构造基于串口CMD的调试器 | https://mp.weixin.qq.com/s/MtNp8NbQs3S4jQpcDshGXw| 
-| 20220419 | 机器学习如何赋能二进制代码相似性分析 | https://mp.weixin.qq.com/s/3Fla1U2RGh603jH4BxfYEg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220424T11:23:31Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
+| 20220424T10:33:47Z | CVE-2022-29548 | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | | 
+| 20220424T08:14:07Z | CVE-2022-21449 | Null | https://github.com/jfrog/jfrog-CVE-2022-21449 | | 
+| 20220424T05:56:01Z | CVE-2021-42697 | Proof of concept exploit for CVE-2021-42697: Akka HTTP 10.1.x before 10.1.15 and 10.2.x before 10.2.7 can encounter stack exhaustion while parsing HTTP headers, which allows a remote attacker to conduct a Denial of Service attack by sending a User-Agent header with deeply nested comments. | https://github.com/cxosmo/CVE-2021-42697 | | 
+| 20220424T04:03:48Z | CVE-2021-20038 | CVE-2021-20038 multithreaded Mass Scanner and Exploiter tool. SonicWall SMA-100 Unauth RCE Exploit | https://github.com/ExploitPwner/CVE-2021-20038-Mass-RCE | | 
 | 20220424T01:30:02Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | | 
 | 20220423T17:54:43Z | CVE-2022-25636 | Null | https://github.com/B0nfee/CVE-2022-25636 | | 
 | 20220423T17:54:35Z | CVE-2022-21882 | Null | https://github.com/B0nfee/CVE-2022-21882 | | 
 | 20220423T17:48:55Z | CVE-2022-0995 | Null | https://github.com/B0nfee/CVE-2022-0995 | | 
 | 20220423T16:05:36Z | CVE-2022-26809 | Null | https://github.com/roger109/CVE-2022-26809-RCE-POC | | 
-| 20220423T16:01:44Z | CVE-2022-26809 | CVE-2022-26809-RCE | https://github.com/oppongjohn/CVE-2022-26809-RCE | | 
-| 20220423T12:48:06Z | CVE-2021-0318 | Null | https://github.com/nanopathi/frameworks_native_AOSP10_r33_CVE-2021-0318 | | 
-| 20220423T12:30:21Z | CVE-2021-3279 | Null | https://github.com/rafaelchriss/CVE-2021-3279 | | 
-| 20220423T12:00:53Z | CVE-2022-29072 | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. | https://github.com/kagancapar/CVE-2022-29072 | | 
-| 20220423T10:37:54Z | CVE-2022-29464 |  Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE. | https://github.com/gpiechnik2/nmap-CVE-2022-29464 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T11:37:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5881 | 215| 
+| 20220424T06:28:54Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 637 | 35| 
 | 20220423T20:31:45Z | Github profile | https://github.com/klee1611/klee1611 | 0 | 0| 
-| 20220423T17:15:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5876 | 215| 
 | 20220423T11:56:22Z | Online shop on django | https://github.com/LeonardoBigShot/kleenka | 0 | 0| 
 | 20220422T03:07:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1956 | 553| 
 | 20220421T23:54:21Z | klee docker container  | https://github.com/sambacha/klee-container | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220416T17:00:42Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
 | 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
-| 20220411T11:25:06Z | Null | https://github.com/CarlOsterberg/cortex-klee-test-lib | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220424T01:49:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2653 | 325| 
-| 20220424T01:47:01Z | Send automatic shares to your favourites tiktok videos! | https://github.com/netgian/TikTok-Shares | 0 | 0| 
-| 20220424T01:34:15Z | Null | https://github.com/lwcask/gpon-exploit | 0 | 0| 
-| 20220424T01:30:02Z | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | 1 | 0| 
-| 20220424T01:25:08Z | Null | https://github.com/ex4722/kernel_exploitation | 0 | 0| 
-| 20220424T00:43:47Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Samhacker001/Hacking-Tools-Pack | 1 | 0| 
-| 20220424T00:05:32Z | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | 2 | 2| 
-| 20220423T23:05:15Z | Create a payload and hack the phone | https://github.com/sadamshr3be/exploit-alsharabi | 0 | 0| 
-| 20220423T22:38:56Z | 🕳️ Proof of Concept exploits and their descriptions for various products | https://github.com/moehw/poc_exploits | 10 | 1| 
-| 20220423T21:26:42Z | roblox exploit scripts | https://github.com/ZStrikeGit/roblox-scripts | 0 | 0| 
+| 20220424T11:57:32Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 875 | 149| 
+| 20220424T11:24:18Z | Holds what scripts I use for playing games. Exploits, Codes and Etc. | https://github.com/kyaclassynine/ROBLOX-Scripts | 1 | 0| 
+| 20220424T11:23:31Z | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | 0 | 0| 
+| 20220424T11:12:09Z | exploit related scripts | https://github.com/GabrasticYT/Roblox | 0 | 0| 
+| 20220424T09:37:39Z | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | 14 | 3| 
+| 20220424T09:33:12Z | Cloud computing is currently considered the most cost-effective platform for offering business and consumer IT services over the Internet. However, it is prone to new vulnerabilities. A new type of attack, called an economic denial of sustainability (EDoS) attack, exploits the pay-per-use model to scale up the resource usage over time to the extent that the cloud user has to pay for the unexpected usage charge. In this project, we proposed a two-phase deep learning-based detection system to detect EDoS attack. The first phase called the prediod detector will detect where there is an attack in a period of 5s and then trigger the second phase detector if there is an attack in that 5-second period. The second detector called the flow detector will detect abnormal flows in the abnormal period detected by the first detector. | https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System | 0 | 0| 
+| 20220424T09:08:18Z | Codes for paper SyntaxSpan: exploiting syntax information for span-based Aspect Sentiment Triplet Extraction. | https://github.com/XuMayi/SyntaxSpan | 0 | 0| 
+| 20220424T08:38:11Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 43 | 7| 
+| 20220424T05:56:17Z | Warning Although the hacking community in general are pretty chill nice people there are a lot of bad actors on discord who sell fake things to try and scam people interested in hacking. People will sell things like fake %One Click% exploits for 50 dollars. Don%t fall victim to these please. I came up with the project idea after seeing tons of fake %One Click Image Loggers% being sold. Unless someone can prove me wrong pretty sure this is the closest we%ll get to a image logger on discord | https://github.com/H0QLCoder/Discord-Image-logger-mutil-tool | 0 | 0| 
+| 20220424T02:45:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 390 | 114| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T11:58:12Z | This repository consists of a Backdoor program and a listener which would help a host execute commands remotely on the victim System  | https://github.com/Ad1tya-Pandey/Backdoor-and-Listener | 0 | 0| 
+| 20220424T08:00:00Z | C# BackdoorLNK tool | https://github.com/s1lvershad0w/BackdoorLNK | 0 | 0| 
+| 20220424T05:38:05Z | Null | https://github.com/backdoorsecurity/backdoorsecurity.github.io | 0 | 1| 
+| 20220424T02:41:24Z | Null | https://github.com/THUYimingLi/BackdoorBox | 39 | 11| 
 | 20220423T20:16:59Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 22 | 5| 
 | 20220423T19:38:41Z | Null | https://github.com/cashtwizzy/cipher-backdoor | 0 | 0| 
 | 20220423T13:39:40Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 4 | 0| 
 | 20220423T11:31:05Z | Null | https://github.com/Spr1n9T1me/FunnyBackdoor | 1 | 0| 
 | 20220423T08:42:53Z | Null | https://github.com/bleedcloudVIII/stupid_backdoor | 0 | 0| 
 | 20220423T02:22:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 459 | 89| 
-| 20220422T20:43:16Z | Null | https://github.com/BRAINIAC22/MetasploitGUI---backdoor | 0 | 0| 
-| 20220422T19:24:15Z | A batch script coupled with VBscript that first of all disables windows defender and other security threats, and downloads and install payload (malware/backdoor) | https://github.com/BRAINIAC22/Disable-Windows-Defender | 0 | 0| 
-| 20220422T13:01:32Z | Null | https://github.com/THUYimingLi/BackdoorBox | 38 | 10| 
-| 20220422T10:02:09Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T11:31:22Z | Null | https://github.com/2022-SKHU-AI/FuzzyAi | 0 | 0| 
+| 20220424T10:35:36Z | Null | https://github.com/GitShanks14/Fuzzy-control-inverted-pendulum | 0 | 0| 
+| 20220424T10:35:17Z | Null | https://github.com/Ranjanku/fuzzy-octo-journey | 0 | 0| 
+| 20220424T09:10:18Z | Null | https://github.com/mimicria/fuzzdicts | 0 | 0| 
 | 20220423T23:54:07Z | Null | https://github.com/AgentSaxyCow/fuzzy-journey | 0 | 1| 
+| 20220423T22:44:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 362 | 51| 
 | 20220423T20:58:31Z | Null | https://github.com/David65123/Fuzzy-Yecz | 0 | 0| 
 | 20220423T17:12:00Z | cd whatsapp-phishing | https://github.com/Mass4641/fuzzy-octo-garbanzo | 1 | 0| 
 | 20220423T12:47:49Z | Null | https://github.com/imFaizanAhmed/FuzzWuzzy_pyspark_dataframe | 0 | 0| 
 | 20220423T11:54:28Z | Null | https://github.com/IhorMruchko/FuzzySet | 0 | 0| 
-| 20220423T06:23:21Z | Instaa get | https://github.com/Atesby/Fuzzy-dollop-a | 0 | 0| 
-| 20220423T03:40:09Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1286 | 228| 
-| 20220423T02:39:24Z | Fuzzy String Matching - Levenshtein Algorithm - Filtering Profanity in Bahasa | https://github.com/dwirifki10/Fuzzy_Filtering_Profanity | 0 | 0| 
-| 20220423T02:23:21Z | Null | https://github.com/VitcSS/Fuzzy_Systems | 0 | 0| 
-| 20220423T02:20:52Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1297 | 55| 
 
 
 
