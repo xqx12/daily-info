@@ -88,13 +88,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T00:43:47Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Samhacker001/Hacking-Tools-Pack | 1 | 0| 
 | 20220424T00:05:32Z | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | 2 | 2| 
 | 20220423T23:05:15Z | Create a payload and hack the phone | https://github.com/sadamshr3be/exploit-alsharabi | 0 | 0| 
 | 20220423T22:38:56Z | 🕳️ Proof of Concept exploits and their descriptions for various products | https://github.com/moehw/poc_exploits | 10 | 1| 
 | 20220423T21:26:42Z | roblox exploit scripts | https://github.com/ZStrikeGit/roblox-scripts | 0 | 0| 
 | 20220423T19:25:28Z | Just a UI for roblox exploit | https://github.com/BloxyExploits/Roblox-UI | 0 | 0| 
 | 20220423T18:56:48Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Samhacker001/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220423T18:54:36Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Samhacker001/Hacking-Tools-Pack | 0 | 0| 
 | 20220423T18:45:46Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack001/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220423T18:43:31Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Sailhack001/Hacking-Tools-Pack | 0 | 0| 
 | 20220423T17:43:00Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 103 | 21| 
