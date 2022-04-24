@@ -85,7 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220423T23:54:07Z | Null | https://github.com/AgentSaxyCow/fuzzy-journey | 0 | 0| 
+| 20220423T23:54:07Z | Null | https://github.com/AgentSaxyCow/fuzzy-journey | 0 | 1| 
 | 20220423T20:58:31Z | Null | https://github.com/David65123/Fuzzy-Yecz | 0 | 0| 
 | 20220423T17:12:00Z | cd whatsapp-phishing | https://github.com/Mass4641/fuzzy-octo-garbanzo | 1 | 0| 
 | 20220423T12:47:49Z | Null | https://github.com/imFaizanAhmed/FuzzWuzzy_pyspark_dataframe | 0 | 0| 
