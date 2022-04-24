@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T12:53:57Z | Null | https://github.com/Smail0x/WebMin-1.920-Exploit-RCE | 0 | 0| 
 | 20220424T11:57:32Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 875 | 149| 
 | 20220424T11:24:18Z | Holds what scripts I use for playing games. Exploits, Codes and Etc. | https://github.com/kyaclassynine/ROBLOX-Scripts | 1 | 0| 
 | 20220424T11:23:31Z | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20220424T09:08:18Z | Codes for paper SyntaxSpan: exploiting syntax information for span-based Aspect Sentiment Triplet Extraction. | https://github.com/XuMayi/SyntaxSpan | 0 | 0| 
 | 20220424T08:38:11Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 43 | 7| 
 | 20220424T05:56:17Z | Warning Although the hacking community in general are pretty chill nice people there are a lot of bad actors on discord who sell fake things to try and scam people interested in hacking. People will sell things like fake %One Click% exploits for 50 dollars. Don%t fall victim to these please. I came up with the project idea after seeing tons of fake %One Click Image Loggers% being sold. Unless someone can prove me wrong pretty sure this is the closest we%ll get to a image logger on discord | https://github.com/H0QLCoder/Discord-Image-logger-mutil-tool | 0 | 0| 
-| 20220424T02:45:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 390 | 114| 
 
 
 # backdoor on Github 推荐
