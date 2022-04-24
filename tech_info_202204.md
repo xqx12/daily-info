@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220423T23:54:07Z | Null | https://github.com/AgentSaxyCow/fuzzy-journey | 0 | 0| 
+| 20220423T20:58:31Z | Null | https://github.com/David65123/Fuzzy-Yecz | 0 | 0| 
+| 20220423T17:12:00Z | cd whatsapp-phishing | https://github.com/Mass4641/fuzzy-octo-garbanzo | 1 | 0| 
 | 20220423T12:47:49Z | Null | https://github.com/imFaizanAhmed/FuzzWuzzy_pyspark_dataframe | 0 | 0| 
 | 20220423T11:54:28Z | Null | https://github.com/IhorMruchko/FuzzySet | 0 | 0| 
 | 20220423T06:23:21Z | Instaa get | https://github.com/Atesby/Fuzzy-dollop-a | 0 | 0| 
+| 20220423T03:40:09Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1286 | 228| 
 | 20220423T02:39:24Z | Fuzzy String Matching - Levenshtein Algorithm - Filtering Profanity in Bahasa | https://github.com/dwirifki10/Fuzzy_Filtering_Profanity | 0 | 0| 
 | 20220423T02:23:21Z | Null | https://github.com/VitcSS/Fuzzy_Systems | 0 | 0| 
-| 20220423T01:17:08Z | Null | https://github.com/chrishowitt123/Fuzzy-GY-nums | 0 | 0| 
-| 20220423T00:54:03Z | Null | https://github.com/ack20a/fuzzy-octo-barnacle | 0 | 0| 
-| 20220423T00:31:39Z | Null | https://github.com/Parkar017/fuzzy-octo-parakeet | 0 | 0| 
-| 20220423T00:22:09Z | Config files for my GitHub profile. | https://github.com/fuzzyweapon/fuzzyweapon | 0 | 0| 
-| 20220422T23:56:39Z | Null | https://github.com/GuiltyAdonis/fuzzy-goggles | 0 | 0| 
+| 20220423T02:20:52Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1297 | 55| 
 
 
 
