@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220425T12:25:44Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
+| 20220425T12:57:10Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
 | 20220425T11:39:08Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
 | 20220425T09:26:09Z | CVE-2022-28346 | SQL injection in QuerySet.annotate(), aggregate(), and extra() | https://github.com/YouGina/CVE-2022-28346 | | 
 | 20220425T08:03:35Z | CVE-2021-0586 | Null | https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586 | | 
