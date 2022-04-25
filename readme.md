@@ -56,6 +56,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T11:55:14Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 55 | 4| 
+| 20220425T10:44:26Z | A tool for generating payloads that exploit unsafe Java object deserialization copying and modifying from ysoserial. | https://github.com/p0josec/DeserializeTool | 0 | 0| 
+| 20220425T09:52:03Z | Overview of a project of role-playing as both red and blue team,  exploiting a vulnerable capstone, and then utilizing an ELK stack to monitor the attack, culminating in a presentation for security recommendations. | https://github.com/JTaylor-Code/redvsblue | 0 | 0| 
+| 20220425T09:49:16Z | Null | https://github.com/nalauder/SSL-TLS-Exploitation-Framework | 0 | 0| 
+| 20220425T08:49:27Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 324 | 61| 
+| 20220425T08:01:20Z | Bully is a new implementation of the WPS brute force attack, written in C. It is conceptually identical to other programs, in that it exploits the (now well known) design flaw in the WPS specification. It has several advantages over the original reaver code. These include fewer dependencies, improved memory and cpu performance, correct handling of endianness, and a more robust set of options. It runs on Linux, and was specifically developed to run on embedded Linux systems (OpenWrt, etc) regardless of architecture. | https://github.com/LeonDante-ctrl/Bullymate | 0 | 0| 
+| 20220425T02:58:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 392 | 114| 
 | 20220425T01:50:41Z | Implementação do projeto final 2. cognoscere do latim, conhecer, e minacia, do latim, ameaça. Ferramenta que tem como objetivo medir o nível de interesse de threat actors em fóruns da deep/dark web que estejam a procura de exploits.  | https://github.com/SubaruSama/COGNOS | 1 | 0| 
 | 20220425T00:28:06Z | A Roblox Exploit! | https://github.com/umbriii/BatHub | 0 | 0| 
 
@@ -71,8 +78,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T11:01:49Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 51 | 1| 
+| 20220425T09:39:30Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 35 | 3| 
+| 20220425T09:35:55Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1184 | 52| 
+| 20220425T07:52:16Z | Symbolic Execution Engine in Rust | https://github.com/norlen/x0001e | 0 | 0| 
 | 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 553| 
-| 20220425T01:11:28Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 20 | 2| 
 
 
 # big4 on Github 推荐

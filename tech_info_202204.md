@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T11:55:14Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 55 | 4| 
+| 20220425T10:44:26Z | A tool for generating payloads that exploit unsafe Java object deserialization copying and modifying from ysoserial. | https://github.com/p0josec/DeserializeTool | 0 | 0| 
+| 20220425T09:52:03Z | Overview of a project of role-playing as both red and blue team,  exploiting a vulnerable capstone, and then utilizing an ELK stack to monitor the attack, culminating in a presentation for security recommendations. | https://github.com/JTaylor-Code/redvsblue | 0 | 0| 
+| 20220425T09:49:16Z | Null | https://github.com/nalauder/SSL-TLS-Exploitation-Framework | 0 | 0| 
+| 20220425T08:49:27Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 324 | 61| 
+| 20220425T08:01:20Z | Bully is a new implementation of the WPS brute force attack, written in C. It is conceptually identical to other programs, in that it exploits the (now well known) design flaw in the WPS specification. It has several advantages over the original reaver code. These include fewer dependencies, improved memory and cpu performance, correct handling of endianness, and a more robust set of options. It runs on Linux, and was specifically developed to run on embedded Linux systems (OpenWrt, etc) regardless of architecture. | https://github.com/LeonDante-ctrl/Bullymate | 0 | 0| 
+| 20220425T02:58:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 392 | 114| 
 | 20220425T01:50:41Z | Implementação do projeto final 2. cognoscere do latim, conhecer, e minacia, do latim, ameaça. Ferramenta que tem como objetivo medir o nível de interesse de threat actors em fóruns da deep/dark web que estejam a procura de exploits.  | https://github.com/SubaruSama/COGNOS | 1 | 0| 
 | 20220425T00:28:06Z | A Roblox Exploit! | https://github.com/umbriii/BatHub | 0 | 0| 
 | 20220424T22:44:18Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 943 | 266| 
-| 20220424T21:25:52Z | Vulnerability research & exploit development | https://github.com/7248510/Research | 0 | 0| 
-| 20220424T21:09:16Z | Protect your server against IP forwarding exploits, as well as blocking unknown BungeeCord and/or Velocity proxies. | https://github.com/ComuGamersES/sentey | 1 | 0| 
-| 20220424T19:09:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 391 | 114| 
-| 20220424T18:25:00Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 251 | 30| 
-| 20220424T17:15:59Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 3 | 1| 
-| 20220424T15:05:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11041 | 1928| 
-| 20220424T12:54:52Z | Null | https://github.com/Smail0x/WebMin-1.920-Exploit-RCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T11:01:49Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 51 | 1| 
+| 20220425T09:39:30Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 35 | 3| 
+| 20220425T09:35:55Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1184 | 52| 
+| 20220425T07:52:16Z | Symbolic Execution Engine in Rust | https://github.com/norlen/x0001e | 0 | 0| 
 | 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 553| 
-| 20220425T01:11:28Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 20 | 2| 
 | 20220424T10:46:38Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 737 | 157| 
 | 20220423T10:55:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
-| 20220423T09:34:50Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1182 | 52| 
-| 20220422T21:00:42Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 50 | 1| 
 | 20220422T09:19:53Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 775 | 147| 
 | 20220421T19:15:32Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 371 | 18| 
 | 20220419T17:15:32Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 11 | 0| 
-| 20220419T01:40:21Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 64 | 14| 
 
 
 # big4 on Github 推荐
