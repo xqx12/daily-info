@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220425T01:02:31Z | CVE-2021-44142 | Null | https://github.com/gudyrmik/CVE-2021-44142 | | 
 | 20220424T23:07:26Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
 | 20220424T22:41:21Z | CVE-2022-29464 | Null | https://github.com/k4u5h41/CVE-2022-29464 | | 
 | 20220424T15:19:33Z | CVE-2021-4034 | My research about  CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | | 
@@ -55,7 +56,6 @@
 | 20220424T05:56:01Z | CVE-2021-42697 | Proof of concept exploit for CVE-2021-42697: Akka HTTP 10.1.x before 10.1.15 and 10.2.x before 10.2.7 can encounter stack exhaustion while parsing HTTP headers, which allows a remote attacker to conduct a Denial of Service attack by sending a User-Agent header with deeply nested comments. | https://github.com/cxosmo/CVE-2021-42697 | | 
 | 20220424T04:03:48Z | CVE-2021-20038 | CVE-2021-20038 multithreaded Mass Scanner and Exploiter tool. SonicWall SMA-100 Unauth RCE Exploit | https://github.com/ExploitPwner/CVE-2021-20038-Mass-RCE | | 
 | 20220424T01:30:02Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | | 
-| 20220423T17:54:43Z | CVE-2022-25636 | Null | https://github.com/B0nfee/CVE-2022-25636 | | 
 
 
 # klee on Github 推荐
