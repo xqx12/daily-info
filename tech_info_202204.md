@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T16:41:23Z | Projet final BTS Charles Jully 2022 | https://github.com/Harold0Finch/Projet-2022-S2ELT | 1 | 0| 
 | 20220423T10:55:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 | 20220420T13:10:14Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 17 | 2| 
 | 20220415T05:19:46Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
@@ -88,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T22:44:18Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 943 | 266| 
+| 20220424T21:25:52Z | Vulnerability research & exploit development | https://github.com/7248510/Research | 0 | 0| 
+| 20220424T21:09:16Z | Protect your server against IP forwarding exploits, as well as blocking unknown BungeeCord and/or Velocity proxies. | https://github.com/ComuGamersES/sentey | 1 | 0| 
+| 20220424T19:09:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 391 | 114| 
+| 20220424T18:25:00Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 251 | 30| 
+| 20220424T17:15:59Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 3 | 1| 
+| 20220424T15:05:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11041 | 1928| 
 | 20220424T12:54:52Z | Null | https://github.com/Smail0x/WebMin-1.920-Exploit-RCE | 0 | 0| 
 | 20220424T11:57:32Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 875 | 149| 
 | 20220424T11:24:18Z | Holds what scripts I use for playing games. Exploits, Codes and Etc. | https://github.com/kyaclassynine/ROBLOX-Scripts | 1 | 0| 
-| 20220424T11:23:31Z | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | 0 | 0| 
-| 20220424T11:12:09Z | exploit related scripts | https://github.com/GabrasticYT/Roblox | 0 | 0| 
-| 20220424T09:37:39Z | Vulnerabilities in some blockchain projects and there exploits | https://github.com/Dig2/chain-exploit | 14 | 3| 
-| 20220424T09:33:12Z | Cloud computing is currently considered the most cost-effective platform for offering business and consumer IT services over the Internet. However, it is prone to new vulnerabilities. A new type of attack, called an economic denial of sustainability (EDoS) attack, exploits the pay-per-use model to scale up the resource usage over time to the extent that the cloud user has to pay for the unexpected usage charge. In this project, we proposed a two-phase deep learning-based detection system to detect EDoS attack. The first phase called the prediod detector will detect where there is an attack in a period of 5s and then trigger the second phase detector if there is an attack in that 5-second period. The second detector called the flow detector will detect abnormal flows in the abnormal period detected by the first detector. | https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System | 0 | 0| 
-| 20220424T09:08:18Z | Codes for paper SyntaxSpan: exploiting syntax information for span-based Aspect Sentiment Triplet Extraction. | https://github.com/XuMayi/SyntaxSpan | 0 | 0| 
-| 20220424T08:38:11Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 43 | 7| 
-| 20220424T05:56:17Z | Warning Although the hacking community in general are pretty chill nice people there are a lot of bad actors on discord who sell fake things to try and scam people interested in hacking. People will sell things like fake %One Click% exploits for 50 dollars. Don%t fall victim to these please. I came up with the project idea after seeing tons of fake %One Click Image Loggers% being sold. Unless someone can prove me wrong pretty sure this is the closest we%ll get to a image logger on discord | https://github.com/H0QLCoder/Discord-Image-logger-mutil-tool | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -140,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T23:21:43Z | Null | https://github.com/yjiu99/FuzzyLogic | 1 | 1| 
+| 20220424T23:12:47Z | Null | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
+| 20220424T22:59:16Z | Null | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
+| 20220424T22:18:50Z | Null | https://github.com/HazemBZ/pdf_fuzz_web | 0 | 0| 
+| 20220424T18:30:57Z | Null | https://github.com/chrishowitt123/Fuzzy-GY-nums | 0 | 0| 
+| 20220424T17:42:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1580 | 178| 
+| 20220424T15:33:07Z | Fuzzy model-generating embeddings for Description Logic | https://github.com/bio-ontology-research-group/FuzzE | 0 | 0| 
+| 20220424T14:17:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2524 | 164| 
 | 20220424T11:31:22Z | Null | https://github.com/2022-SKHU-AI/FuzzyAi | 0 | 0| 
 | 20220424T10:35:36Z | Null | https://github.com/GitShanks14/Fuzzy-control-inverted-pendulum | 0 | 0| 
-| 20220424T10:35:17Z | Null | https://github.com/Ranjanku/fuzzy-octo-journey | 0 | 0| 
-| 20220424T09:10:18Z | Null | https://github.com/mimicria/fuzzdicts | 0 | 0| 
-| 20220424T05:20:53Z | A Coverage-Guided Fuzzer for Hardware Model Checkers | https://github.com/muchang/Hammer | 2 | 0| 
-| 20220423T23:54:07Z | Null | https://github.com/AgentSaxyCow/fuzzy-journey | 0 | 1| 
-| 20220423T22:44:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 362 | 51| 
-| 20220423T20:58:31Z | Null | https://github.com/David65123/Fuzzy-Yecz | 0 | 0| 
-| 20220423T17:12:00Z | cd whatsapp-phishing | https://github.com/Mass4641/fuzzy-octo-garbanzo | 1 | 0| 
-| 20220423T12:47:49Z | Null | https://github.com/imFaizanAhmed/FuzzWuzzy_pyspark_dataframe | 0 | 0| 
 
 
 
