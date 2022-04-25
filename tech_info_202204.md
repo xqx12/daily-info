@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T00:44:16Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2525 | 164| 
 | 20220424T23:21:43Z | Null | https://github.com/yjiu99/FuzzyLogic | 1 | 1| 
 | 20220424T23:12:47Z | Null | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
 | 20220424T22:59:16Z | Null | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
@@ -149,7 +150,6 @@
 | 20220424T18:30:57Z | Null | https://github.com/chrishowitt123/Fuzzy-GY-nums | 0 | 0| 
 | 20220424T17:42:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1580 | 178| 
 | 20220424T15:33:07Z | Fuzzy model-generating embeddings for Description Logic | https://github.com/bio-ontology-research-group/FuzzE | 0 | 0| 
-| 20220424T14:17:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2524 | 164| 
 | 20220424T11:31:22Z | Null | https://github.com/2022-SKHU-AI/FuzzyAi | 0 | 0| 
 | 20220424T10:35:36Z | Null | https://github.com/GitShanks14/Fuzzy-control-inverted-pendulum | 0 | 0| 
 
