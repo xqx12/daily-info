@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T01:50:41Z | Implementação do projeto final 2. cognoscere do latim, conhecer, e minacia, do latim, ameaça. Ferramenta que tem como objetivo medir o nível de interesse de threat actors em fóruns da deep/dark web que estejam a procura de exploits.  | https://github.com/SubaruSama/COGNOS | 1 | 0| 
 | 20220425T00:28:06Z | A Roblox Exploit! | https://github.com/umbriii/BatHub | 0 | 0| 
 | 20220424T22:44:18Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 943 | 266| 
 | 20220424T21:25:52Z | Vulnerability research & exploit development | https://github.com/7248510/Research | 0 | 0| 
@@ -98,12 +99,12 @@
 | 20220424T17:15:59Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 3 | 1| 
 | 20220424T15:05:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11041 | 1928| 
 | 20220424T12:54:52Z | Null | https://github.com/Smail0x/WebMin-1.920-Exploit-RCE | 0 | 0| 
-| 20220424T11:57:32Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 875 | 149| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T01:48:45Z | Null | https://github.com/0xPrx/linux-pam-backdoor | 0 | 0| 
 | 20220424T23:59:39Z | A backdoor program created as a final project for a course using Python with a covert channel feature, ability to use Linux commands remotely on the victim computer, exfiltrate files. | https://github.com/owntrolf/CovertBackdoor | 0 | 0| 
 | 20220424T23:37:44Z | Null | https://github.com/HashCipher/WifiBackdoor | 0 | 0| 
 | 20220424T21:46:59Z | Official Implementation of ICLR paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 11 | 4| 
@@ -113,7 +114,6 @@
 | 20220424T11:58:12Z | This repository consists of a Backdoor program and a listener which would help a host execute commands remotely on the victim System  | https://github.com/Ad1tya-Pandey/Backdoor-and-Listener | 0 | 0| 
 | 20220424T08:00:00Z | C# BackdoorLNK tool | https://github.com/s1lvershad0w/BackdoorLNK | 0 | 0| 
 | 20220424T05:38:05Z | Null | https://github.com/backdoorsecurity/backdoorsecurity.github.io | 0 | 1| 
-| 20220424T02:41:24Z | Null | https://github.com/THUYimingLi/BackdoorBox | 39 | 11| 
 
 
 # symbolic execution on Github 推荐
