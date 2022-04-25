@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220425T00:49:37Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 19 | 2| 
+| 20220425T01:11:28Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 20 | 2| 
 | 20220424T10:46:38Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 737 | 157| 
 | 20220423T10:55:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 | 20220423T09:34:50Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1182 | 52| 
