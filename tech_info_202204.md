@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220425 | 基于 eBPF 技术实现的 Linux EDR | https://github.com/sourque/louis| 
+| 20220425 | 基于 Ghidra PCode 的符号执行引擎 | https://github.com/borzacchiello/naaz| 
+| 20220425 | OffensiveCon22 会议的视频公开了 | https://www.youtube.com/watch?v=7Ysy6iA2sqA&list=PLYvhPWR_XYJnPvrhXE4RYvwZhV26nYTIp| 
+| 20220425 | 从 iOS Backup 中提取 WhatsApp 的消息 | http://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/| 
+| 20220425 | magic-trace - 基于 Intel PT 的进程 Trace 工具 | https://github.com/janestreet/magic-trace| 
+| 20220425 | DATAFlow - Data Flow Guided Fuzzer | https://www.ndss-symposium.org/wp-content/uploads/fuzzing2022_23001_paper.pdf| 
+| 20220425 | 利用 QEMU 模拟 Netgear R7000 路由器 UPnP Daemon 程序，辅助漏洞挖掘 | https://blog.grimm-co.com/2022/04/no-hardware-no-problem-emulation-and.html| 
+| 20220425 | revng - 将 ELF 二进制文件翻译成 LLVM IR 的工具 | https://github.com/revng/revng| 
 | 20220424 | 内网渗透 -- NTLM 反射分析及土豆家族 | http://tttang.com/archive/1560/| 
 | 20220424 | The More You Know, The More You Know You Don’t Know——回顾 2021 年在野利用的 0day 漏洞分析报告. | https://paper.seebug.org/1886/| 
 | 20220422 | 前两天推送的 “Psychic Signatures” TLS 漏洞的 PoC | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC| 
@@ -18,19 +26,13 @@
 | 20220422 | Pwn2Own Miami for 2022 比赛的结果 | https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results| 
 | 20220422 | Active Directory 域环境的权限维持 | https://0xstarlight.github.io/posts/Active-Directory-Domain-Persistence/| 
 | 20220421 | 反编译工具 jadx 更新 1.3.5 版本 | https://github.com/skylot/jadx/releases/tag/v1.3.5| 
-| 20220421 | Linux 内核 TIPC 远程漏洞的利用（CVE-2022-0435） | http://blog.immunityinc.com/p/writing-a-linux-kernel-remote-in-2022/| 
-| 20220421 | Java 的数字签名算法（DSA）实现被发现 CVE-2022-21449 漏洞 | http://neilmadden.blog/2022/04/19/psychic-signatures-in-java/| 
-| 20220421 | SSRF Attack Examples and Mitigations | https://goteleport.com/blog/ssrf-attacks/| 
-| 20220421 | iOS 9.x 越狱工具 p0laris 开源 | https://github.com/p0larisdev/app| 
-| 20220421 | Apache Hadoop 在处理 tar 解压文件时存在任意文件写漏洞 | https://securitylab.github.com/advisories/GHSL-2022-012_Apache_Hadoop/| 
-| 20220421 | Jailbreaking the AppleTV 3 | http://tihmstar.net/slides/atv3-jb.pdf| 
-| 20220421 | 科恩实验室开源二进制文件自动化静态漏洞检测工具 BinAbsInspector | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
-| 20220421 | Java 代码审计资源以及 Java 安全开发方向的资料 | https://github.com/HackJava/HackJava| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220425 | 软件成分安全分析（SCA）能力的建设与演进 | https://mp.weixin.qq.com/s/2tu27ZLzd3kEyk5lrXeytQ| 
+| 20220425 | SecWiki周刊（第425期) | https://www.sec-wiki.com/weekly/425| 
 | 20220424 | 《VirusTotal 2021 年度恶意软件趋势报告》 | https://mp.weixin.qq.com/s/CaFik7K2vqAh7ycpoiEHDA| 
 | 20220424 | 2021 年 0day 漏洞利用分析 | https://www.solidot.org/story?sid=71343| 
 | 20220424 | 企业安全之浅谈红蓝对抗--下 | https://mp.weixin.qq.com/s/FkesyPjxVloPaKxabddpEw| 
@@ -39,30 +41,29 @@
 | 20220421 | 利用神经网络挖掘共同特征发现未知的APT | https://mp.weixin.qq.com/s/ip_pq1UuPXJWqho0hWQ-EQ| 
 | 20220421 | BinAbsInspector：二进制文件自动化静态漏洞检测工具 | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
 | 20220421 | 一窥世界上延迟最低的网络 | https://mp.weixin.qq.com/s/e66VHLkTQRrPXp0P-moOkw| 
-| 20220421 | WMI后门技术的攻击与检测 | https://mp.weixin.qq.com/s/l8OBAvYORhqxM5SlKBDIyw| 
-| 20220420 | 浅谈攻防演练 | https://mp.weixin.qq.com/s/6qmpRL8-rjDGD8LBfvM_gA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220425T01:56:09Z | CVE-2022-29548 | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | | 
-| 20220425T01:02:31Z | CVE-2021-44142 | Null | https://github.com/gudyrmik/CVE-2021-44142 | | 
-| 20220424T23:07:26Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
-| 20220424T22:41:21Z | CVE-2022-29464 | Null | https://github.com/k4u5h41/CVE-2022-29464 | | 
-| 20220424T15:19:33Z | CVE-2021-4034 | My research about  CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | | 
-| 20220424T13:02:44Z | CVE-2022-21449 | Null | https://github.com/jfrog/jfrog-CVE-2022-21449 | | 
-| 20220424T11:23:31Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
-| 20220424T05:56:01Z | CVE-2021-42697 | Proof of concept exploit for CVE-2021-42697: Akka HTTP 10.1.x before 10.1.15 and 10.2.x before 10.2.7 can encounter stack exhaustion while parsing HTTP headers, which allows a remote attacker to conduct a Denial of Service attack by sending a User-Agent header with deeply nested comments. | https://github.com/cxosmo/CVE-2021-42697 | | 
-| 20220424T04:03:48Z | CVE-2021-20038 | CVE-2021-20038 multithreaded Mass Scanner and Exploiter tool. SonicWall SMA-100 Unauth RCE Exploit | https://github.com/ExploitPwner/CVE-2021-20038-Mass-RCE | | 
-| 20220424T01:30:02Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | | 
+| 20220425T11:46:31Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
+| 20220425T11:39:08Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
+| 20220425T09:26:09Z | CVE-2022-28346 | SQL injection in QuerySet.annotate(), aggregate(), and extra() | https://github.com/YouGina/CVE-2022-28346 | | 
+| 20220425T08:03:35Z | CVE-2021-0586 | Null | https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586 | | 
+| 20220425T07:24:10Z | CVE-2021-0339 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0339 | | 
+| 20220425T06:48:27Z | cve-2021-32849 | cve-2021-32849(gerapy命令执行) | https://github.com/lowkey0808/cve-2021-32849 | | 
+| 20220425T06:29:23Z | CVE-2020-0227 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0227 | | 
+| 20220425T05:22:56Z | CVE-2021-0954 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0954 | | 
+| 20220425T02:50:00Z | CVE-2021-35042 | A basic analysis about CVE-2021-35942. SQL injection in Django. | https://github.com/WynSon/CVE-2021-35042 | | 
+| 20220425T02:31:32Z | CVE-2022-24990 | CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation | https://github.com/0xf4n9x/CVE-2022-24990 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T11:33:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5892 | 216| 
+| 20220425T10:10:43Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 3 | 0| 
 | 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 553| 
-| 20220424T23:49:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5884 | 215| 
 | 20220424T06:28:54Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 637 | 35| 
 | 20220423T20:31:45Z | Github profile | https://github.com/klee1611/klee1611 | 0 | 0| 
 | 20220423T11:56:22Z | Online shop on django | https://github.com/LeonardoBigShot/kleenka | 0 | 0| 
@@ -70,12 +71,13 @@
 | 20220420T09:11:03Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 164 | 29| 
 | 20220416T17:00:42Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20220414T07:20:00Z | Null | https://github.com/FahmidaAfrin/ccai-klee | 0 | 0| 
-| 20220412T18:43:27Z | A little Klee themed minesweeper game I cooked up in like 3 days for a school project. Might be buggy, idk. | https://github.com/runlinaway/IM1003MyHorribleProj | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T08:35:49Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 13 | 8| 
+| 20220425T06:29:18Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 3 | 0| 
 | 20220424T16:41:23Z | Projet final BTS Charles Jully 2022 | https://github.com/Harold0Finch/Projet-2022-S2ELT | 1 | 0| 
 | 20220423T10:55:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 | 20220420T13:10:14Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 17 | 2| 
@@ -142,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T12:03:36Z | Null | https://github.com/ieatcode/fuzzy-giggle | 0 | 0| 
+| 20220425T08:21:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4093 | 975| 
+| 20220425T08:16:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7271 | 1551| 
+| 20220425T02:13:53Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1188 | 90| 
 | 20220425T01:45:11Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 562 | 118| 
 | 20220425T01:08:06Z | Null | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
 | 20220425T00:44:16Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2525 | 164| 
 | 20220424T23:21:43Z | Null | https://github.com/yjiu99/FuzzyLogic | 1 | 1| 
 | 20220424T22:59:16Z | Null | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
 | 20220424T22:18:50Z | Null | https://github.com/HazemBZ/pdf_fuzz_web | 0 | 0| 
-| 20220424T18:30:57Z | Null | https://github.com/chrishowitt123/Fuzzy-GY-nums | 0 | 0| 
-| 20220424T17:42:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1580 | 178| 
-| 20220424T15:33:07Z | Fuzzy model-generating embeddings for Description Logic | https://github.com/bio-ontology-research-group/FuzzE | 0 | 0| 
-| 20220424T11:31:22Z | Null | https://github.com/2022-SKHU-AI/FuzzyAi | 0 | 0| 
 
 
 
