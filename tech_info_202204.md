@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220425T11:46:31Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
+| 20220425T12:25:44Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
 | 20220425T11:39:08Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
 | 20220425T09:26:09Z | CVE-2022-28346 | SQL injection in QuerySet.annotate(), aggregate(), and extra() | https://github.com/YouGina/CVE-2022-28346 | | 
 | 20220425T08:03:35Z | CVE-2021-0586 | Null | https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T12:06:09Z | Download the repo. Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies. | https://github.com/FredRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 3 | 0| 
 | 20220425T11:55:14Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 55 | 4| 
 | 20220425T10:44:26Z | A tool for generating payloads that exploit unsafe Java object deserialization copying and modifying from ysoserial. | https://github.com/p0josec/DeserializeTool | 0 | 0| 
 | 20220425T09:52:03Z | Overview of a project of role-playing as both red and blue team,  exploiting a vulnerable capstone, and then utilizing an ELK stack to monitor the attack, culminating in a presentation for security recommendations. | https://github.com/JTaylor-Code/redvsblue | 0 | 0| 
@@ -100,12 +101,12 @@
 | 20220425T02:58:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 392 | 114| 
 | 20220425T01:50:41Z | Implementação do projeto final 2. cognoscere do latim, conhecer, e minacia, do latim, ameaça. Ferramenta que tem como objetivo medir o nível de interesse de threat actors em fóruns da deep/dark web que estejam a procura de exploits.  | https://github.com/SubaruSama/COGNOS | 1 | 0| 
 | 20220425T00:28:06Z | A Roblox Exploit! | https://github.com/umbriii/BatHub | 0 | 0| 
-| 20220424T22:44:18Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 943 | 266| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T12:25:21Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 24 | 8| 
 | 20220425T12:10:42Z | CactiveNetwork%s Hypixel API/Wrapper | https://github.com/caykey/hypixel-nick-tracker | 2 | 0| 
 | 20220425T03:53:20Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 814 | 78| 
 | 20220425T01:48:45Z | Null | https://github.com/0xPrx/linux-pam-backdoor | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20220424T23:37:44Z | Null | https://github.com/HashCipher/WifiBackdoor | 0 | 0| 
 | 20220424T21:46:59Z | Official Implementation of ICLR paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 11 | 4| 
 | 20220424T20:40:19Z | Null | https://github.com/River2056/backdoor_tools | 0 | 0| 
-| 20220424T13:08:10Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 23 | 8| 
 | 20220424T11:58:12Z | This repository consists of a Backdoor program and a listener which would help a host execute commands remotely on the victim System  | https://github.com/Ad1tya-Pandey/Backdoor-and-Listener | 0 | 0| 
 | 20220424T08:00:00Z | C# BackdoorLNK tool | https://github.com/s1lvershad0w/BackdoorLNK | 0 | 0| 
 

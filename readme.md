@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220425T11:46:31Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
+| 20220425T12:25:44Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
 | 20220425T11:39:08Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
 | 20220425T09:26:09Z | CVE-2022-28346 | SQL injection in QuerySet.annotate(), aggregate(), and extra() | https://github.com/YouGina/CVE-2022-28346 | | 
 | 20220425T08:03:35Z | CVE-2021-0586 | Null | https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586 | | 
@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T12:06:09Z | Download the repo. Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies. | https://github.com/FredRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 3 | 0| 
 | 20220425T11:55:14Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 55 | 4| 
 | 20220425T10:44:26Z | A tool for generating payloads that exploit unsafe Java object deserialization copying and modifying from ysoserial. | https://github.com/p0josec/DeserializeTool | 0 | 0| 
 | 20220425T09:52:03Z | Overview of a project of role-playing as both red and blue team,  exploiting a vulnerable capstone, and then utilizing an ELK stack to monitor the attack, culminating in a presentation for security recommendations. | https://github.com/JTaylor-Code/redvsblue | 0 | 0| 
@@ -70,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T12:25:21Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 24 | 8| 
 | 20220425T12:10:42Z | CactiveNetwork%s Hypixel API/Wrapper | https://github.com/caykey/hypixel-nick-tracker | 2 | 0| 
 | 20220425T03:53:20Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 814 | 78| 
 | 20220425T01:48:45Z | Null | https://github.com/0xPrx/linux-pam-backdoor | 0 | 0| 
