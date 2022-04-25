@@ -146,7 +146,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220425T12:03:36Z | Null | https://github.com/ieatcode/fuzzy-giggle | 0 | 0| 
 | 20220425T08:21:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4093 | 975| 
-| 20220425T08:16:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7271 | 1551| 
+| 20220425T08:16:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7271 | 1552| 
 | 20220425T02:13:53Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1188 | 90| 
 | 20220425T01:45:11Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 562 | 118| 
 | 20220425T01:08:06Z | Null | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
