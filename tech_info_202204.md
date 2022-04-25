@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T12:27:28Z | Contains a grammar file to generate SQLite syntax | https://github.com/theber/fuzzing_grammer | 0 | 0| 
 | 20220425T12:03:36Z | Null | https://github.com/ieatcode/fuzzy-giggle | 0 | 0| 
 | 20220425T08:21:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4093 | 975| 
 | 20220425T08:16:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7271 | 1552| 
@@ -153,7 +154,6 @@
 | 20220425T00:44:16Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2525 | 164| 
 | 20220424T23:21:43Z | Null | https://github.com/yjiu99/FuzzyLogic | 1 | 1| 
 | 20220424T22:59:16Z | Null | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
-| 20220424T22:18:50Z | Null | https://github.com/HazemBZ/pdf_fuzz_web | 0 | 0| 
 
 
 
