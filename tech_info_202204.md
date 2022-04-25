@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220424 | 内网渗透 -- NTLM 反射分析及土豆家族 | http://tttang.com/archive/1560/| 
+| 20220424 | The More You Know, The More You Know You Don’t Know——回顾 2021 年在野利用的 0day 漏洞分析报告. | https://paper.seebug.org/1886/| 
 | 20220422 | 前两天推送的 “Psychic Signatures” TLS 漏洞的 PoC | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC| 
 | 20220422 | SCodeScanner - 在源码中扫描漏洞的工具，目前支持 PHP 语言 | https://github.com/agrawalsmart7/scodescanner| 
 | 20220422 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464| 
@@ -25,43 +26,42 @@
 | 20220421 | Jailbreaking the AppleTV 3 | http://tihmstar.net/slides/atv3-jb.pdf| 
 | 20220421 | 科恩实验室开源二进制文件自动化静态漏洞检测工具 BinAbsInspector | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
 | 20220421 | Java 代码审计资源以及 Java 安全开发方向的资料 | https://github.com/HackJava/HackJava| 
-| 20220421 | Amarna - Trail of Bits 开源了一款针对 Cairo 编程语言的静态代码分析工具 | https://sec.today/pulses/0f282671-07a3-4a47-a913-120906e91ef4/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220424 | 《VirusTotal 2021 年度恶意软件趋势报告》 | https://mp.weixin.qq.com/s/CaFik7K2vqAh7ycpoiEHDA| 
+| 20220424 | 2021 年 0day 漏洞利用分析 | https://www.solidot.org/story?sid=71343| 
+| 20220424 | 企业安全之浅谈红蓝对抗--下 | https://mp.weixin.qq.com/s/FkesyPjxVloPaKxabddpEw| 
+| 20220424 | 企业安全之浅谈红蓝对抗--上 | https://mp.weixin.qq.com/s/Ht_rJkzBO4HecjxCM-EYYg| 
 | 20220422 | TheRoadOfSO: 学习安全运营的记录 | https://github.com/satan1a/TheRoadOfSO/| 
 | 20220421 | 利用神经网络挖掘共同特征发现未知的APT | https://mp.weixin.qq.com/s/ip_pq1UuPXJWqho0hWQ-EQ| 
 | 20220421 | BinAbsInspector：二进制文件自动化静态漏洞检测工具 | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
 | 20220421 | 一窥世界上延迟最低的网络 | https://mp.weixin.qq.com/s/e66VHLkTQRrPXp0P-moOkw| 
 | 20220421 | WMI后门技术的攻击与检测 | https://mp.weixin.qq.com/s/l8OBAvYORhqxM5SlKBDIyw| 
 | 20220420 | 浅谈攻防演练 | https://mp.weixin.qq.com/s/6qmpRL8-rjDGD8LBfvM_gA| 
-| 20220419 | Go template 遇上 yaml 反序列化 CVE-2022-21701 分析 | http://noahblog.360.cn/go-template-meets-yaml-cve-2022-21701/| 
-| 20220419 | 社区合作的威胁情报到底有没有用？ | https://mp.weixin.qq.com/s/sFeW_0cERDwzrukzta6I8Q| 
-| 20220419 | TP-Link-WDR-7660 安全研究之构造基于串口CMD的调试器 | https://mp.weixin.qq.com/s/MtNp8NbQs3S4jQpcDshGXw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220424T23:07:26Z | CVE-2022-21907 | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | | 
+| 20220424T22:41:21Z | CVE-2022-29464 | Null | https://github.com/k4u5h41/CVE-2022-29464 | | 
+| 20220424T15:19:33Z | CVE-2021-4034 | My research about  CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | | 
+| 20220424T13:02:44Z | CVE-2022-21449 | Null | https://github.com/jfrog/jfrog-CVE-2022-21449 | | 
 | 20220424T11:23:31Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
 | 20220424T10:33:47Z | CVE-2022-29548 | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | | 
-| 20220424T08:14:07Z | CVE-2022-21449 | Null | https://github.com/jfrog/jfrog-CVE-2022-21449 | | 
 | 20220424T05:56:01Z | CVE-2021-42697 | Proof of concept exploit for CVE-2021-42697: Akka HTTP 10.1.x before 10.1.15 and 10.2.x before 10.2.7 can encounter stack exhaustion while parsing HTTP headers, which allows a remote attacker to conduct a Denial of Service attack by sending a User-Agent header with deeply nested comments. | https://github.com/cxosmo/CVE-2021-42697 | | 
 | 20220424T04:03:48Z | CVE-2021-20038 | CVE-2021-20038 multithreaded Mass Scanner and Exploiter tool. SonicWall SMA-100 Unauth RCE Exploit | https://github.com/ExploitPwner/CVE-2021-20038-Mass-RCE | | 
 | 20220424T01:30:02Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2021-44228-Mass-RCE-Log4j | | 
 | 20220423T17:54:43Z | CVE-2022-25636 | Null | https://github.com/B0nfee/CVE-2022-25636 | | 
-| 20220423T17:54:35Z | CVE-2022-21882 | Null | https://github.com/B0nfee/CVE-2022-21882 | | 
-| 20220423T17:48:55Z | CVE-2022-0995 | Null | https://github.com/B0nfee/CVE-2022-0995 | | 
-| 20220423T16:05:36Z | CVE-2022-26809 | Null | https://github.com/roger109/CVE-2022-26809-RCE-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220424T11:37:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5881 | 215| 
+| 20220424T23:49:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5884 | 215| 
 | 20220424T06:28:54Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 637 | 35| 
 | 20220423T20:31:45Z | Github profile | https://github.com/klee1611/klee1611 | 0 | 0| 
 | 20220423T11:56:22Z | Online shop on django | https://github.com/LeonardoBigShot/kleenka | 0 | 0| 
