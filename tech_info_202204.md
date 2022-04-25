@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T12:44:21Z | Null | https://github.com/NTDXYG/ExploitGen | 0 | 0| 
 | 20220425T12:06:09Z | Download the repo. Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies. | https://github.com/FredRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 3 | 0| 
 | 20220425T11:55:14Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 55 | 4| 
 | 20220425T10:44:26Z | A tool for generating payloads that exploit unsafe Java object deserialization copying and modifying from ysoserial. | https://github.com/p0josec/DeserializeTool | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220425T08:01:20Z | Bully is a new implementation of the WPS brute force attack, written in C. It is conceptually identical to other programs, in that it exploits the (now well known) design flaw in the WPS specification. It has several advantages over the original reaver code. These include fewer dependencies, improved memory and cpu performance, correct handling of endianness, and a more robust set of options. It runs on Linux, and was specifically developed to run on embedded Linux systems (OpenWrt, etc) regardless of architecture. | https://github.com/LeonDante-ctrl/Bullymate | 0 | 0| 
 | 20220425T07:00:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11042 | 1928| 
 | 20220425T02:58:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 392 | 114| 
-| 20220425T01:50:41Z | Implementação do projeto final 2. cognoscere do latim, conhecer, e minacia, do latim, ameaça. Ferramenta que tem como objetivo medir o nível de interesse de threat actors em fóruns da deep/dark web que estejam a procura de exploits.  | https://github.com/SubaruSama/COGNOS | 1 | 0| 
 
 
 # backdoor on Github 推荐
