@@ -92,7 +92,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220424T23:21:43Z | Null | https://github.com/yjiu99/FuzzyLogic | 1 | 1| 
-| 20220424T23:12:47Z | Null | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
 | 20220424T22:59:16Z | Null | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
 | 20220424T22:18:50Z | Null | https://github.com/HazemBZ/pdf_fuzz_web | 0 | 0| 
 | 20220424T18:30:57Z | Null | https://github.com/chrishowitt123/Fuzzy-GY-nums | 0 | 0| 
@@ -101,6 +100,7 @@
 | 20220424T11:31:22Z | Null | https://github.com/2022-SKHU-AI/FuzzyAi | 0 | 0| 
 | 20220424T10:35:36Z | Null | https://github.com/GitShanks14/Fuzzy-control-inverted-pendulum | 0 | 0| 
 | 20220424T10:35:17Z | Null | https://github.com/Ranjanku/fuzzy-octo-journey | 0 | 0| 
+| 20220424T09:10:18Z | Null | https://github.com/mimicria/fuzzdicts | 0 | 0| 
 
 
 

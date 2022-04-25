@@ -142,9 +142,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T01:08:06Z | Null | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
 | 20220425T00:44:16Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2525 | 164| 
 | 20220424T23:21:43Z | Null | https://github.com/yjiu99/FuzzyLogic | 1 | 1| 
-| 20220424T23:12:47Z | Null | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
 | 20220424T22:59:16Z | Null | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
 | 20220424T22:18:50Z | Null | https://github.com/HazemBZ/pdf_fuzz_web | 0 | 0| 
 | 20220424T18:30:57Z | Null | https://github.com/chrishowitt123/Fuzzy-GY-nums | 0 | 0| 
