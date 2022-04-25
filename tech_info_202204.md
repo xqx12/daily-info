@@ -134,6 +134,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220424T23:47:24Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 41 | 8| 
 | 20220423T03:11:57Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 4 | 0| 
 | 20220421T00:37:22Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 2 | 0| 
 
