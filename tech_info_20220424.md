@@ -79,7 +79,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220424T18:41:14Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 18 | 2| 
 | 20220424T10:46:38Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 737 | 157| 
 
 
