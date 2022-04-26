@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220425T23:19:56Z | Exploit for LPE in ZoneAlarm Antivirus/Firewall | https://github.com/Wh04m1001/ZoneAlarmLPE | 1 | 1| 
+| 20220426T00:13:44Z | Exploit for LPE in ZoneAlarm Antivirus/Firewall | https://github.com/Wh04m1001/ZoneAlarmLPE | 2 | 1| 
 | 20220425T23:14:50Z | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | 0 | 0| 
 | 20220425T22:20:30Z | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | 0 | 0| 
 | 20220425T22:02:18Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 138 | 71| 
