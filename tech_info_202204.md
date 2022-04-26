@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220426T12:46:33Z | CVE-2021-0315 | Null | https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315 | | 
 | 20220426T12:12:00Z | CVE-2021-3347 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347 | | 
 | 20220426T12:10:24Z | CVE-2022-26809 | This repository contains a PoC for  remote code execution CVE-2022-26809 | https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE | | 
 | 20220426T11:26:18Z | CVE-2022-8899 | dingdingtest | https://github.com/w1023913214/CVE-2022-8899 | | 
@@ -55,7 +56,6 @@
 | 20220426T08:34:37Z | CVE-2022-15213 | Null | https://github.com/w1023913214/CVE-2022-15213 | | 
 | 20220426T08:33:33Z | cve-2022-29464 | Null | https://github.com/lowkey0808/cve-2022-29464 | | 
 | 20220426T07:53:01Z | CVE-2021-36394 | Null | https://github.com/lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle | | 
-| 20220426T06:43:32Z | CVE-2021-32157 | Make it possible to build a vulnerable webmin virtual environment as a container using docker | https://github.com/dnr6419/CVE-2021-32157 | | 
 
 
 # klee on Github 推荐
@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T12:47:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11046 | 1930| 
 | 20220426T12:13:07Z | Modified public exploits found on the internet - always included source in the comments | https://github.com/c0d36x2/modified_exploits | 0 | 0| 
 | 20220426T11:18:46Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2445 | 358| 
-| 20220426T10:34:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11047 | 1930| 
 | 20220426T10:21:05Z | A Python program that provides analysis of stocks to attempt to exploit their daily volatility to make large, short term returns. | https://github.com/JoshuaTate/Stocks-Bot | 1 | 0| 
 | 20220426T10:11:55Z | Exploitation and information gathering tools | https://github.com/littlepwnie/pentesting | 0 | 0| 
 | 20220426T09:25:19Z | pivotool in ethical hacking, as expected, is a simple tool written in bash that could help you in the post exploitation phase to pivot to other systems. | https://github.com/artuyero/pivotool | 0 | 0| 
