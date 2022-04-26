@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220426T01:49:11Z | CVE-2021-32157 | Make it possible to build a vulnerable webmin virtual environment as a container using docker | https://github.com/dnr6419/CVE-2021-32157 | | 
 | 20220426T01:45:25Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
 | 20220426T01:41:30Z | CVE-2021-43857 | CVE-2021-43857(gerapy命令执行) | https://github.com/lowkey0808/CVE-2021-43857 | | 
 | 20220425T19:17:25Z | CVE-2020-15823 | JetBrains YouTrack before 2020.2.8873 is vulnerable to SSRF in the Workflow component. | https://github.com/XmasSnowREAL/CVE-2020-15823 | | 
@@ -55,7 +56,6 @@
 | 20220425T13:04:33Z | CVE-2022-29598 | The RRS v500 application is vulnerable to a reflected Cross-Site Scripting (XSS) vulnerability.  | https://github.com/TheGetch/CVE-2022-29598 | | 
 | 20220425T13:04:24Z | CVE-2022-29597 | The RRS v500 application is vulnerable to a Local File Inclusion (LFI) vulnerability. | https://github.com/TheGetch/CVE-2022-29597 | | 
 | 20220425T11:39:08Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
-| 20220425T09:26:09Z | CVE-2022-28346 | SQL injection in QuerySet.annotate(), aggregate(), and extra() | https://github.com/YouGina/CVE-2022-28346 | | 
 
 
 # klee on Github 推荐
@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220426T01:43:49Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 28 | 8| 
+| 20220426T01:50:51Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 29 | 8| 
 | 20220425T21:26:17Z | I am not responsible for anything done with this.. No local caching Transfers via Discord webhook Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex) No external Python modules required [todo] Cross-platform support  How to use Create a webhook on your Discord server. I recommend creating a new server. Change the %WEBHOOK_URL% variable value to your Discord webhook URL in token-grabber.py (obfuscate the code or install it as a backdoor in an other script.) Send the script to your victim and make them run it. | https://github.com/Vertoxx/irisMultitool | 1 | 0| 
 | 20220425T20:46:15Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 37 | 8| 
 | 20220425T15:00:21Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 11 | 5| 
