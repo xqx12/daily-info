@@ -44,7 +44,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220425T16:39:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5899 | 216| 
 | 20220425T14:25:52Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 638 | 35| 
 | 20220425T10:10:43Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 3 | 0| 
 | 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 554| 

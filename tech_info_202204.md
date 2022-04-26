@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220425T16:39:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5899 | 216| 
+| 20220426T01:05:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5900 | 216| 
 | 20220425T14:25:52Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 638 | 35| 
 | 20220425T10:10:43Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 3 | 0| 
 | 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 554| 
@@ -91,6 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T01:13:04Z | Website wrapper of Sploitus exploit search engine made in React.  | https://github.com/glowbase/sploitus-wrapper | 0 | 0| 
+| 20220426T01:11:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 393 | 114| 
+| 20220426T01:05:16Z | This project implements the local differential privacy (LDP) mechanism in the federated learning (FL) process. We find that the differential privacy can be exploited to conduct data/model poisoning attacks in FL process, which in turn can degrade the FL model performance. Sub-optimal model can be generated due to this DP-exploited attacks. This project also shows the evaluation of our DP-exploited attack and proves that the attack is stealthy. It has been done through the computational cost analysis of the process in terms of CPU and RAM usage for three different scenarios: (a) No DP (b) DP included but no attack (b) DP-exploited attack | https://github.com/TamjidHossain/CS791_DPFL_Project | 0 | 0| 
 | 20220426T00:13:44Z | Exploit for LPE in ZoneAlarm Antivirus/Firewall | https://github.com/Wh04m1001/ZoneAlarmLPE | 2 | 1| 
 | 20220425T23:14:50Z | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | 0 | 0| 
 | 20220425T22:20:30Z | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | 0 | 0| 
@@ -98,15 +101,12 @@
 | 20220425T21:21:34Z | A good exploit for ROBLOX that has support for multiple experiences and many features. | https://github.com/PixelDevelops/Lutron | 0 | 0| 
 | 20220425T20:51:13Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 253 | 31| 
 | 20220425T20:18:38Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Samnhack0/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220425T19:27:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11044 | 1930| 
-| 20220425T12:44:21Z | Null | https://github.com/NTDXYG/ExploitGen | 0 | 0| 
-| 20220425T12:06:09Z | Download the repo. Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies. | https://github.com/FredRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220426T00:31:55Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 26 | 8| 
+| 20220426T01:12:39Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 27 | 8| 
 | 20220425T21:26:17Z | I am not responsible for anything done with this.. No local caching Transfers via Discord webhook Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex) No external Python modules required [todo] Cross-platform support  How to use Create a webhook on your Discord server. I recommend creating a new server. Change the %WEBHOOK_URL% variable value to your Discord webhook URL in token-grabber.py (obfuscate the code or install it as a backdoor in an other script.) Send the script to your victim and make them run it. | https://github.com/Vertoxx/irisMultitool | 1 | 0| 
 | 20220425T20:46:15Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 37 | 8| 
 | 20220425T15:00:21Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 11 | 5| 
