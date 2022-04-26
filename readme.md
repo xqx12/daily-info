@@ -33,8 +33,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220426T12:12:00Z | CVE-2021-3347 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347 | | 
 | 20220426T12:10:24Z | CVE-2022-26809 | This repository contains a PoC for  remote code execution CVE-2022-26809 | https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE | | 
-| 20220426T11:32:34Z | CVE-2021-3347 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347 | | 
 | 20220426T11:26:18Z | CVE-2022-8899 | dingdingtest | https://github.com/w1023913214/CVE-2022-8899 | | 
 | 20220426T11:21:43Z | CVE-2021-39704 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704 | | 
 | 20220426T11:02:43Z | CVE-2021-0315 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315 | | 
