@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220426T01:38:06Z | CVE-2021-43857 | CVE-2021-43857(gerapy命令执行) | https://github.com/lowkey0808/CVE-2021-43857 | | 
 | 20220425T19:17:25Z | CVE-2020-15823 | JetBrains YouTrack before 2020.2.8873 is vulnerable to SSRF in the Workflow component. | https://github.com/XmasSnowREAL/CVE-2020-15823 | | 
 | 20220425T18:53:05Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
 | 20220425T18:50:27Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit.  | https://github.com/XmasSnowREAL/CVE-2021-42292 | | 
@@ -55,7 +56,6 @@
 | 20220425T13:04:24Z | CVE-2022-29597 | The RRS v500 application is vulnerable to a Local File Inclusion (LFI) vulnerability. | https://github.com/TheGetch/CVE-2022-29597 | | 
 | 20220425T11:39:08Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
 | 20220425T09:26:09Z | CVE-2022-28346 | SQL injection in QuerySet.annotate(), aggregate(), and extra() | https://github.com/YouGina/CVE-2022-28346 | | 
-| 20220425T08:03:35Z | CVE-2021-0586 | Null | https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586 | | 
 
 
 # klee on Github 推荐
