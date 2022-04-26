@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220426 | 一份非常详细的渗透测试资料 | https://github.com/xiaoy-sec/Pentest_Note| 
+| 20220426 | KrbRelayUp - 不开启 LDAP signing 的条件下实现域环境提权 | https://github.com/Dec0ne/KrbRelayUp| 
+| 20220426 | apple-codesign - 有研究员实现了一套在非 Apple 系统上运行的 Apple 代码签名工具 | http://gregoryszorc.com/blog/2022/04/25/expanding-apple-ecosystem-access-with-open-source,-multi-platform-code-signing/| 
+| 20220426 | ZoneAlarm 反病毒软件目录权限设置不当，可以被用于 SYSTEM 提权 | https://github.com/Wh04m1001/ZoneAlarmLPE| 
+| 20220426 | Old School, New Story--Escape from Hyper-V by Path Traversal，来自 VictorV 在 ZeroCon 2022 会议的演讲 | https://github.com/474172261/slides/blob/main/Old%20School%2C%20New%20Story--Escape%20from%20Hyper-V%20by%20Path%20Traversal.pdf| 
+| 20220426 | Windows CLFS 驱动 CVE-2022-24521 漏洞的分析和利用 | https://www.pixiepointsecurity.com/blog/nday-cve-2022-24521.html| 
+| 20220426 | Everscale 区块链的 Web 版本钱包 Ever Surf 被发现可以通过 XSS 漏洞窃取密钥 | http://research.checkpoint.com/2022/check-point-research-detects-vulnerability-in-the-everscale-blockchain-wallet-preventing-cryptocurrency-theft/| 
 | 20220425 | 基于 eBPF 技术实现的 Linux EDR | https://github.com/sourque/louis| 
 | 20220425 | 基于 Ghidra PCode 的符号执行引擎 | https://github.com/borzacchiello/naaz| 
 | 20220425 | OffensiveCon22 会议的视频公开了 | https://www.youtube.com/watch?v=7Ysy6iA2sqA&list=PLYvhPWR_XYJnPvrhXE4RYvwZhV26nYTIp| 
@@ -19,52 +26,45 @@
 | 20220425 | x64dbg 调试系统断点教程视频. | https://www.youtube.com/watch?v=vdyyg72tc2w&feature=youtu.be| 
 | 20220424 | 内网渗透 -- NTLM 反射分析及土豆家族 | http://tttang.com/archive/1560/| 
 | 20220424 | The More You Know, The More You Know You Don’t Know——回顾 2021 年在野利用的 0day 漏洞分析报告. | https://paper.seebug.org/1886/| 
-| 20220422 | 前两天推送的 “Psychic Signatures” TLS 漏洞的 PoC | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC| 
-| 20220422 | SCodeScanner - 在源码中扫描漏洞的工具，目前支持 PHP 语言 | https://github.com/agrawalsmart7/scodescanner| 
-| 20220422 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464| 
-| 20220422 | 滥用 KernelCallbackTable 实现远程进程代码注入 | http://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection.html| 
-| 20220422 | 硬件研究相关的工具整理 | https://github.com/aolofsson/awesome-hardware-tools| 
-| 20220422 | GraphFuzz: Library API Fuzzing with Lifetime-aware Dataflow Graphs | http://github.com/hgarrereyn/GraphFuzz| 
-| 20220422 | F-Secure Labs 研究如何如何伪造新冠病毒家庭自检设备 Cue Health 的结果 | http://labs.f-secure.com/blog/faking-another-positive-covid-test/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20220425 | 软件成分安全分析（SCA）能力的建设与演进 | https://mp.weixin.qq.com/s/2tu27ZLzd3kEyk5lrXeytQ| 
-| 20220425 | SecWiki周刊（第425期) | https://www.sec-wiki.com/weekly/425| 
-| 20220424 | 《VirusTotal 2021 年度恶意软件趋势报告》 | https://mp.weixin.qq.com/s/CaFik7K2vqAh7ycpoiEHDA| 
-| 20220424 | 2021 年 0day 漏洞利用分析 | https://www.solidot.org/story?sid=71343| 
-| 20220424 | 企业安全之浅谈红蓝对抗--下 | https://mp.weixin.qq.com/s/FkesyPjxVloPaKxabddpEw| 
-| 20220424 | 企业安全之浅谈红蓝对抗--上 | https://mp.weixin.qq.com/s/Ht_rJkzBO4HecjxCM-EYYg| 
-| 20220422 | TheRoadOfSO: 学习安全运营的记录 | https://github.com/satan1a/TheRoadOfSO/| 
-| 20220421 | 利用神经网络挖掘共同特征发现未知的APT | https://mp.weixin.qq.com/s/ip_pq1UuPXJWqho0hWQ-EQ| 
-| 20220421 | BinAbsInspector：二进制文件自动化静态漏洞检测工具 | https://keenlab.tencent.com/zh/2022/04/20/2022-BinAbsInspector-public-release/| 
-| 20220421 | 一窥世界上延迟最低的网络 | https://mp.weixin.qq.com/s/e66VHLkTQRrPXp0P-moOkw| 
+| 20220426 | 如何还原前端代码 | https://mp.weixin.qq.com/s/ccW8I6ZHBaVWN5ZlDC1ucA| 
+| 20220426 | 如何下载YouTube 1080P高清视频 | https://mp.weixin.qq.com/s/-LyVnvLkZhUm3Efc9gvzfg| 
+| 20220426 | JetBrains全家桶最新激活2022篇 | https://mp.weixin.qq.com/s/UpQ2f_F0fhT_k-6EJasNWg| 
+| 20220426 | 截图自动添加水印 | https://mp.weixin.qq.com/s/66a9RbekhD5OoxjP4lk6Og| 
+| 20220426 | xray联动crawlergo自动化扫描爬坑记 | https://mp.weixin.qq.com/s/aJ7UvZmACNSEF1zCrntxow| 
+| 20220426 | 利用远程进程分叉转存Lsass凭据 | https://mp.weixin.qq.com/s/67SghGobegFUC2td3az5qQ| 
+| 20220426 | 记一次护网漏洞发现到域控全过程 | https://mp.weixin.qq.com/s/_b43Pj6rszcKvZhrVlsS7g| 
+| 20220426 | 宝塔下的BC实战渗透 | https://mp.weixin.qq.com/s/7SDaCPjJ6gZwpFi37ASGEg| 
+| 20220426 | 记一次Discuz X3.4后台getshell | https://mp.weixin.qq.com/s/KngycYJ7nnirHkNXAlMVKw| 
+| 20220426 | 一分钟免杀cobaltstrike | https://mp.weixin.qq.com/s/zXlxtrVc5iBNL9n1iWGDtQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220426T01:58:27Z | CVE-2021-32157 | Make it possible to build a vulnerable webmin virtual environment as a container using docker | https://github.com/dnr6419/CVE-2021-32157 | | 
-| 20220426T01:52:21Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
-| 20220426T01:52:19Z | CVE-2021-43857 | CVE-2021-43857(gerapy命令执行) | https://github.com/lowkey0808/CVE-2021-43857 | | 
-| 20220425T19:17:25Z | CVE-2020-15823 | JetBrains YouTrack before 2020.2.8873 is vulnerable to SSRF in the Workflow component. | https://github.com/XmasSnowREAL/CVE-2020-15823 | | 
-| 20220425T18:53:05Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
-| 20220425T18:50:27Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit.  | https://github.com/XmasSnowREAL/CVE-2021-42292 | | 
-| 20220425T15:20:09Z | CVE-2021-35042 | A basic analysis about CVE-2021-35942. SQL injection in Django. | https://github.com/WynSon/CVE-2021-35042 | | 
-| 20220425T13:04:33Z | CVE-2022-29598 | The RRS v500 application is vulnerable to a reflected Cross-Site Scripting (XSS) vulnerability.  | https://github.com/TheGetch/CVE-2022-29598 | | 
-| 20220425T13:04:24Z | CVE-2022-29597 | The RRS v500 application is vulnerable to a Local File Inclusion (LFI) vulnerability. | https://github.com/TheGetch/CVE-2022-29597 | | 
-| 20220425T11:39:08Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
+| 20220426T11:32:34Z | CVE-2021-3347 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347 | | 
+| 20220426T11:26:18Z | CVE-2022-8899 | dingdingtest | https://github.com/w1023913214/CVE-2022-8899 | | 
+| 20220426T11:21:43Z | CVE-2021-39704 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704 | | 
+| 20220426T11:02:43Z | CVE-2021-0315 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315 | | 
+| 20220426T08:51:17Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
+| 20220426T08:34:37Z | CVE-2022-15213 | Null | https://github.com/w1023913214/CVE-2022-15213 | | 
+| 20220426T08:33:33Z | cve-2022-29464 | Null | https://github.com/lowkey0808/cve-2022-29464 | | 
+| 20220426T07:53:01Z | CVE-2021-36394 | Null | https://github.com/lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle | | 
+| 20220426T06:43:32Z | CVE-2021-32157 | Make it possible to build a vulnerable webmin virtual environment as a container using docker | https://github.com/dnr6419/CVE-2021-32157 | | 
+| 20220426T06:40:08Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220426T01:54:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5902 | 216| 
-| 20220425T14:25:52Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 638 | 35| 
+| 20220426T11:17:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5912 | 216| 
+| 20220426T09:04:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1958 | 554| 
+| 20220426T09:00:03Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 638 | 35| 
 | 20220425T10:10:43Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 3 | 0| 
-| 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 554| 
 | 20220423T20:31:45Z | Github profile | https://github.com/klee1611/klee1611 | 0 | 0| 
 | 20220423T11:56:22Z | Online shop on django | https://github.com/LeonardoBigShot/kleenka | 0 | 0| 
 | 20220421T23:54:21Z | klee docker container  | https://github.com/sambacha/klee-container | 0 | 0| 
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220426T01:08:17Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 38 | 3| 
+| 20220426T09:45:14Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 46 | 3| 
+| 20220426T09:04:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1958 | 554| 
+| 20220426T04:49:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2824 | 412| 
 | 20220425T18:58:37Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 65 | 14| 
 | 20220425T17:00:53Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 224 | 15| 
 | 20220425T15:59:10Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 379 | 19| 
 | 20220425T13:13:19Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 52 | 1| 
 | 20220425T09:35:55Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1184 | 52| 
 | 20220425T07:52:16Z | Symbolic Execution Engine in Rust | https://github.com/norlen/x0001e | 0 | 0| 
-| 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 554| 
 | 20220424T10:46:38Z | Driller: augmenting AFL with symbolic execution! | https://github.com/shellphish/driller | 737 | 157| 
-| 20220423T10:55:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 
 
 # big4 on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T11:42:07Z | Null | https://github.com/Kucheto/fuzzy-chainsaw | 0 | 0| 
+| 20220426T10:48:17Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 455 | 85| 
+| 20220426T10:39:16Z | Fork only. Please do not send pull requests. | https://github.com/telematixsw/libFuzzer | 0 | 0| 
 | 20220426T01:52:15Z | Artificial Intelligence | https://github.com/rezzaaag/Fuzzy | 0 | 0| 
+| 20220426T01:45:53Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 112 | 25| 
 | 20220425T21:53:17Z | Just some logs of a test run of the ExperimentRunner.py. See the repository format_fuzzer_experiments for more info | https://github.com/florian-university/fuzzbench-oss-fuzz-integration-logs | 0 | 0| 
 | 20220425T19:58:35Z | Null | https://github.com/nans1208/Hardware_fuzzing_of_picorv32 | 0 | 0| 
 | 20220425T18:20:21Z | Null | https://github.com/guidovranken/fuzzing-headers | 12 | 3| 
 | 20220425T17:45:14Z | fuzzy c means classifier designed to be used in online settings. | https://github.com/CallThemHunter/fuzzycmeans | 0 | 0| 
 | 20220425T14:58:03Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 150 | 23| 
-| 20220425T14:42:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7272 | 1553| 
-| 20220425T13:59:02Z | Simple symbolic reasoner which support fuzzy unification in Python | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
-| 20220425T12:40:55Z | Contains a grammar file to generate SQLite syntax | https://github.com/theber/fuzzing_grammar | 0 | 0| 
-| 20220425T12:27:28Z | Contains a grammar file to generate SQLite syntax | https://github.com/theber/fuzzing_grammer | 0 | 0| 
 
 
 
