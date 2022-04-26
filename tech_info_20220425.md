@@ -90,6 +90,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220425T18:58:37Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 65 | 14| 
+| 20220425T17:00:53Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 224 | 15| 
 | 20220425T15:59:10Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 379 | 19| 
 | 20220425T14:49:48Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 37 | 3| 
 | 20220425T13:13:19Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 52 | 1| 
