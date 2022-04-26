@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220426T01:52:21Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
+| 20220426T01:52:19Z | CVE-2021-43857 | CVE-2021-43857(gerapy命令执行) | https://github.com/lowkey0808/CVE-2021-43857 | | 
 | 20220426T01:49:11Z | CVE-2021-32157 | Make it possible to build a vulnerable webmin virtual environment as a container using docker | https://github.com/dnr6419/CVE-2021-32157 | | 
-| 20220426T01:45:25Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
-| 20220426T01:41:30Z | CVE-2021-43857 | CVE-2021-43857(gerapy命令执行) | https://github.com/lowkey0808/CVE-2021-43857 | | 
 | 20220425T19:17:25Z | CVE-2020-15823 | JetBrains YouTrack before 2020.2.8873 is vulnerable to SSRF in the Workflow component. | https://github.com/XmasSnowREAL/CVE-2020-15823 | | 
 | 20220425T18:53:05Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
 | 20220425T18:50:27Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit.  | https://github.com/XmasSnowREAL/CVE-2021-42292 | | 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T01:52:15Z | Artificial Intelligence | https://github.com/rezzaaag/Fuzzy | 0 | 0| 
 | 20220425T21:53:17Z | Just some logs of a test run of the ExperimentRunner.py. See the repository format_fuzzer_experiments for more info | https://github.com/florian-university/fuzzbench-oss-fuzz-integration-logs | 0 | 0| 
 | 20220425T19:58:35Z | Null | https://github.com/nans1208/Hardware_fuzzing_of_picorv32 | 0 | 0| 
 | 20220425T18:20:21Z | Null | https://github.com/guidovranken/fuzzing-headers | 12 | 3| 
@@ -155,7 +156,6 @@
 | 20220425T13:59:02Z | Simple symbolic reasoner which support fuzzy unification in Python | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
 | 20220425T12:40:55Z | Contains a grammar file to generate SQLite syntax | https://github.com/theber/fuzzing_grammar | 0 | 0| 
 | 20220425T12:27:28Z | Contains a grammar file to generate SQLite syntax | https://github.com/theber/fuzzing_grammer | 0 | 0| 
-| 20220425T12:03:36Z | Null | https://github.com/ieatcode/fuzzy-giggle | 0 | 0| 
 
 
 
