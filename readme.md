@@ -78,7 +78,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220425T21:26:17Z | I am not responsible for anything done with this.. No local caching Transfers via Discord webhook Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex) No external Python modules required [todo] Cross-platform support  How to use Create a webhook on your Discord server. I recommend creating a new server. Change the %WEBHOOK_URL% variable value to your Discord webhook URL in token-grabber.py (obfuscate the code or install it as a backdoor in an other script.) Send the script to your victim and make them run it. | https://github.com/Vertoxx/irisMultitool | 1 | 0| 
 | 20220425T20:46:15Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 37 | 8| 
-| 20220425T18:08:49Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 25 | 8| 
 | 20220425T15:00:21Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 11 | 5| 
 | 20220425T14:06:12Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 815 | 78| 
 | 20220425T13:13:44Z | Null | https://github.com/trinhngocminh/backdoor | 0 | 0| 
