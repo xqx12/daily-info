@@ -14,6 +14,9 @@
 | 20220425 | DATAFlow - Data Flow Guided Fuzzer | https://www.ndss-symposium.org/wp-content/uploads/fuzzing2022_23001_paper.pdf| 
 | 20220425 | 利用 QEMU 模拟 Netgear R7000 路由器 UPnP Daemon 程序，辅助漏洞挖掘 | https://blog.grimm-co.com/2022/04/no-hardware-no-problem-emulation-and.html| 
 | 20220425 | revng - 将 ELF 二进制文件翻译成 LLVM IR 的工具 | https://github.com/revng/revng| 
+| 20220425 | CodeQL能找到log4shell(CVE-2021-44228)漏洞吗？ | https://tttang.com/archive/1570/| 
+| 20220425 | 国内云安全资源汇总. | https://github.com/teamssix/awesome-cloud-security| 
+| 20220425 | x64dbg 调试系统断点教程视频. | https://www.youtube.com/watch?v=vdyyg72tc2w&feature=youtu.be| 
 | 20220424 | 内网渗透 -- NTLM 反射分析及土豆家族 | http://tttang.com/archive/1560/| 
 | 20220424 | The More You Know, The More You Know You Don’t Know——回顾 2021 年在野利用的 0day 漏洞分析报告. | https://paper.seebug.org/1886/| 
 | 20220422 | 前两天推送的 “Psychic Signatures” TLS 漏洞的 PoC | https://github.com/khalednassar/CVE-2022-21449-TLS-PoC| 
@@ -23,9 +26,6 @@
 | 20220422 | 硬件研究相关的工具整理 | https://github.com/aolofsson/awesome-hardware-tools| 
 | 20220422 | GraphFuzz: Library API Fuzzing with Lifetime-aware Dataflow Graphs | http://github.com/hgarrereyn/GraphFuzz| 
 | 20220422 | F-Secure Labs 研究如何如何伪造新冠病毒家庭自检设备 Cue Health 的结果 | http://labs.f-secure.com/blog/faking-another-positive-covid-test/| 
-| 20220422 | Pwn2Own Miami for 2022 比赛的结果 | https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results| 
-| 20220422 | Active Directory 域环境的权限维持 | https://0xstarlight.github.io/posts/Active-Directory-Domain-Persistence/| 
-| 20220421 | 反编译工具 jadx 更新 1.3.5 版本 | https://github.com/skylot/jadx/releases/tag/v1.3.5| 
 
 
 # 安全维基 推荐
@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220425T12:57:10Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
+| 20220425T19:17:25Z | CVE-2020-15823 | JetBrains YouTrack before 2020.2.8873 is vulnerable to SSRF in the Workflow component. | https://github.com/XmasSnowREAL/CVE-2020-15823 | | 
+| 20220425T18:53:05Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
+| 20220425T18:50:27Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit.  | https://github.com/XmasSnowREAL/CVE-2021-42292 | | 
+| 20220425T16:33:10Z | CVE-2022-2333 | SXF VPN RCE | https://github.com/shirouQwQ/CVE-2022-2333 | | 
+| 20220425T15:20:09Z | CVE-2021-35042 | A basic analysis about CVE-2021-35942. SQL injection in Django. | https://github.com/WynSon/CVE-2021-35042 | | 
+| 20220425T13:04:33Z | CVE-2022-29598 | The RRS v500 application is vulnerable to a reflected Cross-Site Scripting (XSS) vulnerability.  | https://github.com/TheGetch/CVE-2022-29598 | | 
+| 20220425T13:04:24Z | CVE-2022-29597 | The RRS v500 application is vulnerable to a Local File Inclusion (LFI) vulnerability. | https://github.com/TheGetch/CVE-2022-29597 | | 
 | 20220425T11:39:08Z | CVE-2022-21449 | Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients | https://github.com/thack1/CVE-2022-21449 | | 
 | 20220425T09:26:09Z | CVE-2022-28346 | SQL injection in QuerySet.annotate(), aggregate(), and extra() | https://github.com/YouGina/CVE-2022-28346 | | 
 | 20220425T08:03:35Z | CVE-2021-0586 | Null | https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586 | | 
-| 20220425T07:24:10Z | CVE-2021-0339 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0339 | | 
-| 20220425T06:48:27Z | cve-2021-32849 | cve-2021-32849(gerapy命令执行) | https://github.com/lowkey0808/cve-2021-32849 | | 
-| 20220425T06:29:23Z | CVE-2020-0227 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0227 | | 
-| 20220425T05:22:56Z | CVE-2021-0954 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0954 | | 
-| 20220425T02:50:00Z | CVE-2021-35042 | A basic analysis about CVE-2021-35942. SQL injection in Django. | https://github.com/WynSon/CVE-2021-35042 | | 
-| 20220425T02:31:32Z | CVE-2022-24990 | CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation | https://github.com/0xf4n9x/CVE-2022-24990 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220425T11:33:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5892 | 216| 
+| 20220425T16:39:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5899 | 216| 
+| 20220425T14:25:52Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 638 | 35| 
 | 20220425T10:10:43Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 3 | 0| 
-| 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 553| 
-| 20220424T06:28:54Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 637 | 35| 
+| 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 554| 
 | 20220423T20:31:45Z | Github profile | https://github.com/klee1611/klee1611 | 0 | 0| 
 | 20220423T11:56:22Z | Online shop on django | https://github.com/LeonardoBigShot/kleenka | 0 | 0| 
 | 20220421T23:54:21Z | klee docker container  | https://github.com/sambacha/klee-container | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T23:33:52Z | Null | https://github.com/emoreta/S2Emoreta | 0 | 0| 
 | 20220425T08:35:49Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 13 | 8| 
 | 20220425T06:29:18Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 3 | 0| 
 | 20220424T16:41:23Z | Projet final BTS Charles Jully 2022 | https://github.com/Harold0Finch/Projet-2022-S2ELT | 1 | 0| 
@@ -85,7 +86,6 @@
 | 20220408T02:55:28Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 4 | 3| 
 | 20220407T21:51:32Z | Null | https://github.com/software-testing-bootcamp/S2E4-API-Test-Karate-Gatling | 1 | 0| 
 | 20220403T15:27:07Z | Null | https://github.com/wqewqfdas/s2edsa | 0 | 0| 
-| 20220403T10:01:51Z | Null | https://github.com/s2eung1/s2eung1 | 0 | 0| 
 
 
 # exploit on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T21:53:17Z | Just some logs of a test run of the ExperimentRunner.py. See the repository format_fuzzer_experiments for more info | https://github.com/florian-university/fuzzbench-oss-fuzz-integration-logs | 0 | 0| 
+| 20220425T19:58:35Z | Null | https://github.com/nans1208/Hardware_fuzzing_of_picorv32 | 0 | 0| 
+| 20220425T18:20:21Z | Null | https://github.com/guidovranken/fuzzing-headers | 12 | 3| 
+| 20220425T17:45:14Z | fuzzy c means classifier designed to be used in online settings. | https://github.com/CallThemHunter/fuzzycmeans | 0 | 0| 
+| 20220425T14:58:03Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 150 | 23| 
+| 20220425T14:42:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7272 | 1553| 
+| 20220425T13:59:02Z | Simple symbolic reasoner which support fuzzy unification in Python | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
 | 20220425T12:40:55Z | Contains a grammar file to generate SQLite syntax | https://github.com/theber/fuzzing_grammar | 0 | 0| 
 | 20220425T12:27:28Z | Contains a grammar file to generate SQLite syntax | https://github.com/theber/fuzzing_grammer | 0 | 0| 
 | 20220425T12:03:36Z | Null | https://github.com/ieatcode/fuzzy-giggle | 0 | 0| 
-| 20220425T08:21:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4093 | 975| 
-| 20220425T08:16:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7271 | 1552| 
-| 20220425T02:13:53Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1188 | 90| 
-| 20220425T01:45:11Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 562 | 118| 
-| 20220425T01:08:06Z | Null | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
-| 20220425T00:44:16Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2525 | 164| 
-| 20220424T23:21:43Z | Null | https://github.com/yjiu99/FuzzyLogic | 1 | 1| 
 
 
 
