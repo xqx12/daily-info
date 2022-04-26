@@ -63,6 +63,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220426T12:13:07Z | Modified public exploits found on the internet - always included source in the comments | https://github.com/c0d36x2/modified_exploits | 0 | 0| 
 | 20220426T11:18:46Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2445 | 358| 
+| 20220426T10:34:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11047 | 1930| 
 | 20220426T10:21:05Z | A Python program that provides analysis of stocks to attempt to exploit their daily volatility to make large, short term returns. | https://github.com/JoshuaTate/Stocks-Bot | 1 | 0| 
 | 20220426T10:11:55Z | Exploitation and information gathering tools | https://github.com/littlepwnie/pentesting | 0 | 0| 
 | 20220426T09:25:19Z | pivotool in ethical hacking, as expected, is a simple tool written in bash that could help you in the post exploitation phase to pivot to other systems. | https://github.com/artuyero/pivotool | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220426T09:02:30Z | Python script exploting an old vulnerability for a website containing personal data | https://github.com/Catalin-Zaharia/Brute-Force-Exploit | 0 | 0| 
 | 20220426T01:13:04Z | Website wrapper of Sploitus exploit search engine made in React.  | https://github.com/glowbase/sploitus-wrapper | 0 | 0| 
 | 20220426T01:11:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 393 | 113| 
-| 20220426T01:05:16Z | This project implements the local differential privacy (LDP) mechanism in the federated learning (FL) process. We find that the differential privacy can be exploited to conduct data/model poisoning attacks in FL process, which in turn can degrade the FL model performance. Sub-optimal model can be generated due to this DP-exploited attacks. This project also shows the evaluation of our DP-exploited attack and proves that the attack is stealthy. It has been done through the computational cost analysis of the process in terms of CPU and RAM usage for three different scenarios: (a) No DP (b) DP included but no attack (b) DP-exploited attack | https://github.com/TamjidHossain/CS791_DPFL_Project | 0 | 0| 
 
 
 # backdoor on Github 推荐
