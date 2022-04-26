@@ -61,40 +61,49 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T23:19:56Z | Exploit for LPE in ZoneAlarm Antivirus/Firewall | https://github.com/Wh04m1001/ZoneAlarmLPE | 1 | 1| 
+| 20220425T23:14:50Z | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | 0 | 0| 
+| 20220425T22:20:30Z | Attack simulation involving rce & kernel lpe exploits and malware + rootkit to exfil data | https://github.com/seal9055/cyber_attack_simulation | 0 | 0| 
+| 20220425T22:02:18Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 138 | 71| 
+| 20220425T21:21:34Z | A good exploit for ROBLOX that has support for multiple experiences and many features. | https://github.com/PixelDevelops/Lutron | 0 | 0| 
+| 20220425T20:51:13Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 253 | 31| 
+| 20220425T20:18:38Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Samnhack0/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220425T19:27:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11044 | 1930| 
 | 20220425T12:44:21Z | Null | https://github.com/NTDXYG/ExploitGen | 0 | 0| 
 | 20220425T12:06:09Z | Download the repo. Using Visual Studio 2019 open the solution and retarget to your Windows SDK, then rebuild. If any issues arise, ensure you meet the correct dependencies. | https://github.com/FredRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 3 | 0| 
-| 20220425T11:55:14Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 55 | 4| 
-| 20220425T10:44:26Z | A tool for generating payloads that exploit unsafe Java object deserialization copying and modifying from ysoserial. | https://github.com/p0josec/DeserializeTool | 0 | 0| 
-| 20220425T09:52:03Z | Overview of a project of role-playing as both red and blue team,  exploiting a vulnerable capstone, and then utilizing an ELK stack to monitor the attack, culminating in a presentation for security recommendations. | https://github.com/JTaylor-Code/redvsblue | 0 | 0| 
-| 20220425T09:49:16Z | Null | https://github.com/nalauder/SSL-TLS-Exploitation-Framework | 0 | 0| 
-| 20220425T08:49:27Z | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user  | https://github.com/Ridter/noPac | 324 | 61| 
-| 20220425T08:01:20Z | Bully is a new implementation of the WPS brute force attack, written in C. It is conceptually identical to other programs, in that it exploits the (now well known) design flaw in the WPS specification. It has several advantages over the original reaver code. These include fewer dependencies, improved memory and cpu performance, correct handling of endianness, and a more robust set of options. It runs on Linux, and was specifically developed to run on embedded Linux systems (OpenWrt, etc) regardless of architecture. | https://github.com/LeonDante-ctrl/Bullymate | 0 | 0| 
-| 20220425T07:00:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11042 | 1928| 
-| 20220425T02:58:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 392 | 114| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220425T12:25:21Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 24 | 8| 
+| 20220425T21:26:17Z | I am not responsible for anything done with this.. No local caching Transfers via Discord webhook Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex) No external Python modules required [todo] Cross-platform support  How to use Create a webhook on your Discord server. I recommend creating a new server. Change the %WEBHOOK_URL% variable value to your Discord webhook URL in token-grabber.py (obfuscate the code or install it as a backdoor in an other script.) Send the script to your victim and make them run it. | https://github.com/Vertoxx/irisMultitool | 1 | 0| 
+| 20220425T20:46:15Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 37 | 8| 
+| 20220425T18:08:49Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 25 | 8| 
+| 20220425T15:00:21Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 11 | 5| 
+| 20220425T14:06:12Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 815 | 78| 
+| 20220425T13:13:44Z | Null | https://github.com/trinhngocminh/backdoor | 0 | 0| 
 | 20220425T12:10:42Z | CactiveNetwork%s Hypixel API/Wrapper | https://github.com/caykey/hypixel-nick-tracker | 2 | 0| 
-| 20220425T03:53:20Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 814 | 78| 
+| 20220425T10:33:18Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 10 | 0| 
 | 20220425T01:48:45Z | Null | https://github.com/0xPrx/linux-pam-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220425T12:43:06Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 36 | 3| 
-| 20220425T11:01:49Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 51 | 1| 
+| 20220425T18:58:37Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 65 | 14| 
+| 20220425T15:59:10Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 379 | 19| 
+| 20220425T14:49:48Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 37 | 3| 
+| 20220425T13:13:19Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 52 | 1| 
 | 20220425T09:35:55Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1184 | 52| 
 | 20220425T07:52:16Z | Symbolic Execution Engine in Rust | https://github.com/norlen/x0001e | 0 | 0| 
-| 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 553| 
+| 20220425T01:33:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1957 | 554| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220425T21:01:02Z | ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper) | https://github.com/nsg-ethz/ditto | 4 | 2| 
+| 20220425T19:01:33Z | Optical Side-Channel Attack and Noise Generation Algorithms for my NDSS 2022 Paper | https://github.com/liangsizhuang/OSCA-NGA | 0 | 0| 
 
 
 # fuzz on Github 推荐
