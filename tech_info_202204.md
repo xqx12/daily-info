@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T12:09:15Z | Modified public exploits found on the internet - always included source in the comments | https://github.com/c0d36x2/modified_exploits | 0 | 0| 
 | 20220426T11:18:46Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2445 | 358| 
 | 20220426T10:21:05Z | A Python program that provides analysis of stocks to attempt to exploit their daily volatility to make large, short term returns. | https://github.com/JoshuaTate/Stocks-Bot | 1 | 0| 
 | 20220426T10:11:55Z | Exploitation and information gathering tools | https://github.com/littlepwnie/pentesting | 0 | 0| 
@@ -100,22 +101,21 @@
 | 20220426T01:13:04Z | Website wrapper of Sploitus exploit search engine made in React.  | https://github.com/glowbase/sploitus-wrapper | 0 | 0| 
 | 20220426T01:11:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 393 | 113| 
 | 20220426T01:05:16Z | This project implements the local differential privacy (LDP) mechanism in the federated learning (FL) process. We find that the differential privacy can be exploited to conduct data/model poisoning attacks in FL process, which in turn can degrade the FL model performance. Sub-optimal model can be generated due to this DP-exploited attacks. This project also shows the evaluation of our DP-exploited attack and proves that the attack is stealthy. It has been done through the computational cost analysis of the process in terms of CPU and RAM usage for three different scenarios: (a) No DP (b) DP included but no attack (b) DP-exploited attack | https://github.com/TamjidHossain/CS791_DPFL_Project | 0 | 0| 
-| 20220426T00:13:44Z | Exploit for LPE in ZoneAlarm Antivirus/Firewall | https://github.com/Wh04m1001/ZoneAlarmLPE | 2 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220426T01:52:09Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 30 | 8| 
+| 20220426T11:42:46Z | Null | https://github.com/THUYimingLi/BackdoorBox | 41 | 12| 
+| 20220426T09:01:09Z | Resurrecting Trust in Facial Recognition: Mitigating Backdoor Attacks in Face Recognition to Prevent Potential Privacy Breaches | https://github.com/chamikara1986/BA-BAM | 0 | 0| 
+| 20220426T06:12:28Z | Null | https://github.com/Ekko-zn/IJCAI2022-Backdoor | 0 | 0| 
+| 20220426T03:45:01Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 31 | 8| 
 | 20220425T21:26:17Z | I am not responsible for anything done with this.. No local caching Transfers via Discord webhook Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex) No external Python modules required [todo] Cross-platform support  How to use Create a webhook on your Discord server. I recommend creating a new server. Change the %WEBHOOK_URL% variable value to your Discord webhook URL in token-grabber.py (obfuscate the code or install it as a backdoor in an other script.) Send the script to your victim and make them run it. | https://github.com/Vertoxx/irisMultitool | 1 | 0| 
 | 20220425T20:46:15Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 37 | 8| 
 | 20220425T15:00:21Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 11 | 5| 
 | 20220425T14:06:12Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 815 | 78| 
 | 20220425T13:13:44Z | Null | https://github.com/trinhngocminh/backdoor | 0 | 0| 
 | 20220425T12:10:42Z | CactiveNetwork%s Hypixel API/Wrapper | https://github.com/caykey/hypixel-nick-tracker | 2 | 0| 
-| 20220425T10:33:18Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 10 | 0| 
-| 20220425T01:48:45Z | Null | https://github.com/0xPrx/linux-pam-backdoor | 0 | 0| 
-| 20220424T23:59:39Z | A backdoor program created as a final project for a course using Python with a covert channel feature, ability to use Linux commands remotely on the victim computer, exfiltrate files. | https://github.com/owntrolf/CovertBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
