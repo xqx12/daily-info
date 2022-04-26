@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220426T01:38:06Z | CVE-2021-43857 | CVE-2021-43857(gerapy命令执行) | https://github.com/lowkey0808/CVE-2021-43857 | | 
+| 20220426T01:41:30Z | CVE-2021-43857 | CVE-2021-43857(gerapy命令执行) | https://github.com/lowkey0808/CVE-2021-43857 | | 
 | 20220425T19:17:25Z | CVE-2020-15823 | JetBrains YouTrack before 2020.2.8873 is vulnerable to SSRF in the Workflow component. | https://github.com/XmasSnowREAL/CVE-2020-15823 | | 
 | 20220425T18:53:05Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
 | 20220425T18:50:27Z | CVE-2021-42292 | A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit.  | https://github.com/XmasSnowREAL/CVE-2021-42292 | | 
