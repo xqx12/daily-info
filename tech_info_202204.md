@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T12:18:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7273 | 1553| 
 | 20220426T11:42:07Z | Null | https://github.com/Kucheto/fuzzy-chainsaw | 0 | 0| 
 | 20220426T10:48:17Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 455 | 85| 
 | 20220426T10:39:16Z | Fork only. Please do not send pull requests. | https://github.com/telematixsw/libFuzzer | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20220425T19:58:35Z | Null | https://github.com/nans1208/Hardware_fuzzing_of_picorv32 | 0 | 0| 
 | 20220425T18:20:21Z | Null | https://github.com/guidovranken/fuzzing-headers | 12 | 3| 
 | 20220425T17:45:14Z | fuzzy c means classifier designed to be used in online settings. | https://github.com/CallThemHunter/fuzzycmeans | 0 | 0| 
-| 20220425T14:58:03Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 150 | 23| 
 
 
 
