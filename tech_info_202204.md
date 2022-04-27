@@ -98,9 +98,9 @@
 | 20220427T09:44:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 394 | 114| 
 | 20220427T09:35:25Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 81 | 9| 
 | 20220427T09:13:59Z | Exploit PDF is a vulnerability that allows remote attackers to execute arbitrary code. ... You can easily convert your .exe files to PDF using our Python Builder. The builder we provide is FUD and it works silently. That means the user only needs to interact with the infected PDF file. | https://github.com/razordeveloper/Silent-PDF-Exploit-2022 | 0 | 0| 
+| 20220427T07:40:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11048 | 1932| 
 | 20220427T02:28:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 54 | 21| 
 | 20220427T01:14:10Z | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | 0 | 0| 
-| 20220427T00:54:56Z | Proyecto Final de Algoritmos Maliciosos (ICS202) | https://github.com/Jack1310/Trojan-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
