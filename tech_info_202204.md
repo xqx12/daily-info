@@ -152,7 +152,7 @@
 | 20220427T11:52:52Z | Code samples for learning fuzzing in Go | https://github.com/jjngx/fuzzing | 0 | 0| 
 | 20220427T11:29:54Z | Rstudio integration demonstration | https://github.com/laurajanegraham/fuzzy-octo-robot | 0 | 0| 
 | 20220427T10:59:18Z | Null | https://github.com/MrKK003/Default-analysis-using-fuzzy-sets | 0 | 0| 
-| 20220427T10:55:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7275 | 1555| 
+| 20220427T10:55:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7275 | 1556| 
 | 20220427T09:57:29Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 461 | 86| 
 | 20220427T08:14:07Z | Null | https://github.com/Lavanya-battula/fuzzy-umbrella | 0 | 0| 
 | 20220427T01:54:08Z | A way to generate filter flags for ffuf from a previous fuzz + more to come! | https://github.com/mikedesu/parse_ffuf | 0 | 0| 
