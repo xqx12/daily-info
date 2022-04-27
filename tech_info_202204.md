@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220427 | 2022 未知之境 腾讯网络安全T-Star高校挑战赛 WriteUp | http://tttang.com/archive/1577/| 
+| 20220427 | Adobe Acrobat 的浏览器扩展被发现存在破坏同源策略（SOP）的漏洞 | http://palant.info/2022/04/19/adobe-acrobat-hollowing-out-same-origin-policy/| 
+| 20220427 | 云安全渗透测试方向的资料 | https://github.com/TROUBLE-1/Cloud-Pentesting| 
+| 20220427 | ZeroCon 会议议题 “A Journey Of Hunting macOS kernel” | https://github.com/star-sg/Presentations/blob/main/Zer0Con%202022/A%20Journey%20Of%20Hunting%20macOS%20kernel.pptx| 
+| 20220427 | Introduction to VirtualBox security research | http://blog.doyensec.com//2022/04/26/vbox-fuzzing.html| 
+| 20220427 | Quarkslab 建立源码 Commit 级别的漏洞数据库，管理 Android 的历史漏洞信息 | http://blog.quarkslab.com/commit-level-vulnerability-dataset.html| 
+| 20220427 | 需要有一种新的漏洞管理方案，替代 CVE 实现在云安全场景中的漏洞管理 | https://threatpost.com/cve-cloud-bug-system/179394/| 
+| 20220427 | go-fuzz 优化实践 | http://blog.trailofbits.com/2022/04/26/improving-the-state-of-go-fuzz/| 
+| 20220427 | Stairwell 安全团队对朝鲜 APT37 组织近期利用 Goldbackdoor 发起攻击的分析报告 | https://threatpost.com/hackers-target-journalists-goldbackdoor/179389/| 
 | 20220426 | 一份非常详细的渗透测试资料 | https://github.com/xiaoy-sec/Pentest_Note| 
 | 20220426 | KrbRelayUp - 不开启 LDAP signing 的条件下实现域环境提权 | https://github.com/Dec0ne/KrbRelayUp| 
 | 20220426 | apple-codesign - 有研究员实现了一套在非 Apple 系统上运行的 Apple 代码签名工具 | http://gregoryszorc.com/blog/2022/04/25/expanding-apple-ecosystem-access-with-open-source,-multi-platform-code-signing/| 
@@ -17,56 +26,47 @@
 | 20220425 | 基于 eBPF 技术实现的 Linux EDR | https://github.com/sourque/louis| 
 | 20220425 | 基于 Ghidra PCode 的符号执行引擎 | https://github.com/borzacchiello/naaz| 
 | 20220425 | OffensiveCon22 会议的视频公开了 | https://www.youtube.com/watch?v=7Ysy6iA2sqA&list=PLYvhPWR_XYJnPvrhXE4RYvwZhV26nYTIp| 
-| 20220425 | 从 iOS Backup 中提取 WhatsApp 的消息 | http://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/| 
-| 20220425 | magic-trace - 基于 Intel PT 的进程 Trace 工具 | https://github.com/janestreet/magic-trace| 
-| 20220425 | DATAFlow - Data Flow Guided Fuzzer | https://www.ndss-symposium.org/wp-content/uploads/fuzzing2022_23001_paper.pdf| 
-| 20220425 | 利用 QEMU 模拟 Netgear R7000 路由器 UPnP Daemon 程序，辅助漏洞挖掘 | https://blog.grimm-co.com/2022/04/no-hardware-no-problem-emulation-and.html| 
-| 20220425 | revng - 将 ELF 二进制文件翻译成 LLVM IR 的工具 | https://github.com/revng/revng| 
-| 20220425 | CodeQL能找到log4shell(CVE-2021-44228)漏洞吗？ | https://tttang.com/archive/1570/| 
-| 20220425 | 国内云安全资源汇总. | https://github.com/teamssix/awesome-cloud-security| 
-| 20220425 | x64dbg 调试系统断点教程视频. | https://www.youtube.com/watch?v=vdyyg72tc2w&feature=youtu.be| 
-| 20220424 | 内网渗透 -- NTLM 反射分析及土豆家族 | http://tttang.com/archive/1560/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220427 | CodeQL进阶知识（Java） | https://mp.weixin.qq.com/s/ZCl9kaMsZLqc74VzErHCGw| 
+| 20220427 | 从源代码的控制流图中学习特性以定位缺陷 | https://mp.weixin.qq.com/s/jzQy2KmCiLmJ_RHaPVc4ew| 
+| 20220427 | A blueprint for evading industry leading endpoint protecti... | https://vanmieghem.io/blueprint-for-evading-edr-in-2022/| 
+| 20220427 | 国资委：将网络安全纳入央企负责人经营业绩考核 | http://www.sasac.gov.cn/n2588035/n2588320/n2588335/c10652592/content.html| 
 | 20220426 | 如何还原前端代码 | https://mp.weixin.qq.com/s/ccW8I6ZHBaVWN5ZlDC1ucA| 
 | 20220426 | 如何下载YouTube 1080P高清视频 | https://mp.weixin.qq.com/s/-LyVnvLkZhUm3Efc9gvzfg| 
 | 20220426 | JetBrains全家桶最新激活2022篇 | https://mp.weixin.qq.com/s/UpQ2f_F0fhT_k-6EJasNWg| 
 | 20220426 | 截图自动添加水印 | https://mp.weixin.qq.com/s/66a9RbekhD5OoxjP4lk6Og| 
 | 20220426 | xray联动crawlergo自动化扫描爬坑记 | https://mp.weixin.qq.com/s/aJ7UvZmACNSEF1zCrntxow| 
 | 20220426 | 利用远程进程分叉转存Lsass凭据 | https://mp.weixin.qq.com/s/67SghGobegFUC2td3az5qQ| 
-| 20220426 | 记一次护网漏洞发现到域控全过程 | https://mp.weixin.qq.com/s/_b43Pj6rszcKvZhrVlsS7g| 
-| 20220426 | 宝塔下的BC实战渗透 | https://mp.weixin.qq.com/s/7SDaCPjJ6gZwpFi37ASGEg| 
-| 20220426 | 记一次Discuz X3.4后台getshell | https://mp.weixin.qq.com/s/KngycYJ7nnirHkNXAlMVKw| 
-| 20220426 | 一分钟免杀cobaltstrike | https://mp.weixin.qq.com/s/zXlxtrVc5iBNL9n1iWGDtQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220427T11:50:52Z | CVE-2022-23990 | Null | https://github.com/Nivaskumark/expat_A10_r33_2_2_6_CVE-2022-23990 | | 
+| 20220427T09:24:57Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
+| 20220427T08:13:27Z | CVE-2022-22965 | Null | https://github.com/khidottrivi/CVE-2022-22965 | | 
+| 20220427T05:22:34Z | CVE-2021-0315 | Null | https://github.com/nanopathi/frameworks_base1_CVE-2021-0315 | | 
+| 20220427T05:01:01Z | CVE-2020-0394 | Null | https://github.com/pazhanivel07/Settings_10-r33_CVE-2020-0394_02 | | 
+| 20220427T04:46:29Z | CVE-2020-0394 | Null | https://github.com/pazhanivel07/Settings_10-r33_CVE-2020-0394 | | 
+| 20220427T04:40:51Z | CVE-2021-0394 | Null | https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0394 | | 
 | 20220427T01:52:33Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
 | 20220426T15:02:31Z | CVE-2021-0326 | Null | https://github.com/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326 | | 
 | 20220426T14:50:52Z | CVE-2022-28346 | Django QuerySet.annotate(), aggregate(), extra() SQL 注入 | https://github.com/DeEpinGh0st/CVE-2022-28346 | | 
-| 20220426T14:47:27Z | CVE-2021-4034 | CVE-2021-4034 PoC | https://github.com/0x4ndy/CVE-2021-4034-PoC | | 
-| 20220426T14:34:35Z | CVE-2021-0326 | Null | https://github.com/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326 | | 
-| 20220426T14:29:01Z | CVE-2021-0326 | Null | https://github.com/nanopathi/wpa_supplicant_8_CVE-2021-0326. | | 
-| 20220426T13:06:56Z | CVE-2021-39692 | Null | https://github.com/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692 | | 
-| 20220426T12:57:33Z | CVE-2021-0315 | Null | https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315 | | 
-| 20220426T12:12:00Z | CVE-2021-3347 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347 | | 
-| 20220426T12:10:24Z | CVE-2022-26809 | This repository contains a PoC for  remote code execution CVE-2022-26809 | https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220426T18:17:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5917 | 216| 
-| 20220426T14:57:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1958 | 554| 
+| 20220427T11:40:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5923 | 216| 
+| 20220427T05:16:10Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 639 | 35| 
+| 20220427T05:12:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1959 | 554| 
 | 20220426T14:05:40Z | A website for everything Klee related! Work in progress... | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
 | 20220426T13:57:59Z | The repository hosting the content found in the Klee Mains Website. | https://github.com/KleeMains/Klee | 0 | 0| 
 | 20220426T13:23:24Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 29| 
-| 20220426T09:00:03Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 638 | 35| 
 | 20220425T10:10:43Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 3 | 0| 
 | 20220423T20:31:45Z | Github profile | https://github.com/klee1611/klee1611 | 0 | 0| 
 | 20220423T11:56:22Z | Online shop on django | https://github.com/LeonardoBigShot/kleenka | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220427T11:40:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2473 | 364| 
+| 20220427T11:03:04Z | To improve the reproductivity | https://github.com/sonersec/Exploiting-On-chip-Voltage-Regulators-for-Leakage-Reduction-in-Hardware-Masking | 0 | 0| 
+| 20220427T09:44:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 394 | 114| 
+| 20220427T09:35:25Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 81 | 9| 
+| 20220427T09:13:59Z | Exploit PDF is a vulnerability that allows remote attackers to execute arbitrary code. ... You can easily convert your .exe files to PDF using our Python Builder. The builder we provide is FUD and it works silently. That means the user only needs to interact with the infected PDF file. | https://github.com/razordeveloper/Silent-PDF-Exploit-2022 | 0 | 0| 
+| 20220427T02:28:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 54 | 21| 
 | 20220427T01:14:10Z | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | 0 | 0| 
 | 20220427T00:54:56Z | Proyecto Final de Algoritmos Maliciosos (ICS202) | https://github.com/Jack1310/Trojan-Exploit | 0 | 0| 
 | 20220427T00:37:49Z | Null | https://github.com/UserKiyotaka/exploit2 | 0 | 0| 
 | 20220426T20:58:30Z | Null | https://github.com/Jduran-wpi/ShoppingForExploitsCTF | 0 | 0| 
-| 20220426T19:34:24Z | Null | https://github.com/aminesayagh/Rendu-Systeme-Exploitation-C | 0 | 0| 
-| 20220426T18:48:11Z | Null | https://github.com/JustYose/Deepwoken-exploit-3 | 0 | 0| 
-| 20220426T16:01:29Z | Exploits for various roblox games | https://github.com/TheFunnyMan120/Roblox-Exploit-Script-Hubs | 0 | 0| 
-| 20220426T15:19:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11048 | 1930| 
-| 20220426T15:00:35Z | Kscan是一款纯go开发的轻量级的资产发现工具，可针对指定IP段、资产清单、存活网段自动化进行端口扫描以及TCP指纹识别和Banner抓取，在不发送更多的数据包的情况下尽可能的获取端口更多信息。并且能够针对扫描结果进行自动化暴力破解，且是go平台首款开源的RDP暴力破解工具。 | https://github.com/lcvvvv/kscan | 884 | 153| 
-| 20220426T14:31:32Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 259 | 32| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220427T09:22:33Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 3 | 0| 
+| 20220427T04:23:34Z | Null | https://github.com/Ekko-zn/IJCAI2022-Backdoor | 0 | 0| 
+| 20220427T03:18:56Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 33 | 8| 
 | 20220426T21:52:06Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 35 | 7| 
-| 20220426T16:24:17Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 32 | 8| 
 | 20220426T11:42:46Z | Null | https://github.com/THUYimingLi/BackdoorBox | 41 | 12| 
+| 20220426T11:14:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 460 | 89| 
 | 20220426T09:01:09Z | Resurrecting Trust in Facial Recognition: Mitigating Backdoor Attacks in Face Recognition to Prevent Potential Privacy Breaches | https://github.com/chamikara1986/BA-BAM | 0 | 0| 
-| 20220426T06:12:28Z | Null | https://github.com/Ekko-zn/IJCAI2022-Backdoor | 0 | 0| 
 | 20220425T21:26:17Z | I am not responsible for anything done with this.. No local caching Transfers via Discord webhook Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex) No external Python modules required [todo] Cross-platform support  How to use Create a webhook on your Discord server. I recommend creating a new server. Change the %WEBHOOK_URL% variable value to your Discord webhook URL in token-grabber.py (obfuscate the code or install it as a backdoor in an other script.) Send the script to your victim and make them run it. | https://github.com/Vertoxx/irisMultitool | 1 | 0| 
 | 20220425T20:46:15Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 37 | 8| 
-| 20220425T15:00:21Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 11 | 5| 
-| 20220425T14:06:12Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 815 | 78| 
-| 20220425T13:13:44Z | Null | https://github.com/trinhngocminh/backdoor | 0 | 0| 
+| 20220425T15:00:49Z | ICCV 2021, We find most existing triggers of backdoor attacks in deep learning contain severe artifacts in the frequency domain. This Repo. explores how we can use these artifacts to develop stronger backdoor defenses and attacks. | https://github.com/YiZeng623/frequency-backdoor | 18 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220427T11:52:58Z | Null | https://github.com/Tanuka-Mondal/Fuzzy | 0 | 0| 
+| 20220427T11:52:52Z | Code samples for learning fuzzing in Go | https://github.com/jjngx/fuzzing | 0 | 0| 
+| 20220427T11:29:54Z | Rstudio integration demonstration | https://github.com/laurajanegraham/fuzzy-octo-robot | 0 | 0| 
+| 20220427T10:59:18Z | Null | https://github.com/MrKK003/Default-analysis-using-fuzzy-sets | 0 | 0| 
+| 20220427T10:55:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7275 | 1555| 
+| 20220427T09:57:29Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 461 | 86| 
+| 20220427T08:14:07Z | Null | https://github.com/Lavanya-battula/fuzzy-umbrella | 0 | 0| 
 | 20220427T01:54:08Z | A way to generate filter flags for ffuf from a previous fuzz + more to come! | https://github.com/mikedesu/parse_ffuf | 0 | 0| 
 | 20220427T01:39:43Z | Null | https://github.com/IgorUA19/Fuzzy_Logic_Ball_and_Pipe | 0 | 0| 
 | 20220427T00:27:50Z | Null | https://github.com/AntoCobRamos2003/fuzzy-funicular.github.io | 0 | 0| 
-| 20220426T22:58:28Z | Simple symbolic reasoner which supports fuzzy unification in Python | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
-| 20220426T22:20:14Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 9 | 1| 
-| 20220426T21:52:29Z | Null | https://github.com/gregoryme/fuzzy | 0 | 0| 
-| 20220426T21:42:02Z | D-Bus fuzzer | https://github.com/matusmarhefka/dfuzzer | 22 | 9| 
-| 20220426T21:35:23Z | A work in progress for our capstone project. Working to create an interactive learning module to learn what fuzzing is and how to fuzz your first target. | https://github.com/alex-maleno/Fuzzing-Module | 1 | 0| 
-| 20220426T20:17:20Z | Null | https://github.com/FuzzyStak0/FuzzySocks | 0 | 0| 
-| 20220426T20:09:40Z | Companion to the %Introduction to VirtualBox security research% Blog Post | https://github.com/doyensec/vbox-fuzz | 0 | 0| 
 
 
 
