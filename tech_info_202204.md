@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220426T16:16:31Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
+| 20220427T00:04:36Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
 | 20220426T15:02:31Z | CVE-2021-0326 | Null | https://github.com/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326 | | 
 | 20220426T14:50:52Z | CVE-2022-28346 | Django QuerySet.annotate(), aggregate(), extra() SQL 注入 | https://github.com/DeEpinGh0st/CVE-2022-28346 | | 
 | 20220426T14:47:27Z | CVE-2021-4034 | CVE-2021-4034 PoC | https://github.com/0x4ndy/CVE-2021-4034-PoC | | 
@@ -148,16 +148,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T22:58:28Z | Simple symbolic reasoner which supports fuzzy unification in Python | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
+| 20220426T22:20:14Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 9 | 1| 
+| 20220426T21:52:29Z | Null | https://github.com/gregoryme/fuzzy | 0 | 0| 
+| 20220426T21:42:02Z | D-Bus fuzzer | https://github.com/matusmarhefka/dfuzzer | 22 | 9| 
+| 20220426T21:35:23Z | A work in progress for our capstone project. Working to create an interactive learning module to learn what fuzzing is and how to fuzz your first target. | https://github.com/alex-maleno/Fuzzing-Module | 1 | 0| 
+| 20220426T20:17:20Z | Null | https://github.com/FuzzyStak0/FuzzySocks | 0 | 0| 
+| 20220426T20:09:40Z | Companion to the %Introduction to VirtualBox security research% Blog Post | https://github.com/doyensec/vbox-fuzz | 0 | 0| 
+| 20220426T14:00:05Z | Fuzzy model-generating embeddings for Description Logic | https://github.com/bio-ontology-research-group/FuzzyDL | 0 | 0| 
 | 20220426T12:50:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7274 | 1553| 
 | 20220426T12:44:20Z | Null | https://github.com/distortia/fuzzy_gherkin | 0 | 0| 
-| 20220426T11:42:07Z | Null | https://github.com/Kucheto/fuzzy-chainsaw | 0 | 0| 
-| 20220426T10:48:17Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 455 | 85| 
-| 20220426T10:39:16Z | Fork only. Please do not send pull requests. | https://github.com/telematixsw/libFuzzer | 0 | 0| 
-| 20220426T02:10:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2526 | 164| 
-| 20220426T01:52:15Z | Artificial Intelligence | https://github.com/rezzaaag/Fuzzy | 0 | 0| 
-| 20220426T01:45:53Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 112 | 25| 
-| 20220425T21:53:17Z | Just some logs of a test run of the ExperimentRunner.py. See the repository format_fuzzer_experiments for more info | https://github.com/florian-university/fuzzbench-oss-fuzz-integration-logs | 0 | 0| 
-| 20220425T19:58:35Z | Null | https://github.com/nans1208/Hardware_fuzzing_of_picorv32 | 0 | 0| 
 
 
 
