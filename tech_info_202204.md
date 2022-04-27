@@ -148,7 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220427T00:26:48Z | Null | https://github.com/AntoCobRamos2003/fuzzy-funicular.github.io | 0 | 0| 
+| 20220427T00:27:50Z | Null | https://github.com/AntoCobRamos2003/fuzzy-funicular.github.io | 0 | 0| 
 | 20220426T22:58:28Z | Simple symbolic reasoner which supports fuzzy unification in Python | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
 | 20220426T22:20:14Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 9 | 1| 
 | 20220426T21:52:29Z | Null | https://github.com/gregoryme/fuzzy | 0 | 0| 
