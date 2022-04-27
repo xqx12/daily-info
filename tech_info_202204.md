@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220427T00:58:47Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
+| 20220427T01:18:07Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
 | 20220426T15:02:31Z | CVE-2021-0326 | Null | https://github.com/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326 | | 
 | 20220426T14:50:52Z | CVE-2022-28346 | Django QuerySet.annotate(), aggregate(), extra() SQL 注入 | https://github.com/DeEpinGh0st/CVE-2022-28346 | | 
 | 20220426T14:47:27Z | CVE-2021-4034 | CVE-2021-4034 PoC | https://github.com/0x4ndy/CVE-2021-4034-PoC | | 
