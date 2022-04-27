@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220427T12:16:39Z | Discordia is program created for pentesters to exploit Discord Bot Tokens. | https://github.com/EnderLuca41/discordia-exploiter | 0 | 0| 
 | 20220427T12:03:28Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2474 | 364| 
 | 20220427T11:03:04Z | To improve the reproductivity | https://github.com/sonersec/Exploiting-On-chip-Voltage-Regulators-for-Leakage-Reduction-in-Hardware-Masking | 0 | 0| 
 | 20220427T09:44:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 394 | 114| 
@@ -100,7 +101,6 @@
 | 20220427T01:14:10Z | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | 0 | 0| 
 | 20220427T00:54:56Z | Proyecto Final de Algoritmos Maliciosos (ICS202) | https://github.com/Jack1310/Trojan-Exploit | 0 | 0| 
 | 20220427T00:37:49Z | Null | https://github.com/UserKiyotaka/exploit2 | 0 | 0| 
-| 20220426T20:58:30Z | Null | https://github.com/Jduran-wpi/ShoppingForExploitsCTF | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220427T12:18:05Z | Null | https://github.com/SusanOsasona/fuzzy-guide | 0 | 0| 
 | 20220427T11:52:58Z | Null | https://github.com/Tanuka-Mondal/Fuzzy | 0 | 0| 
 | 20220427T11:52:52Z | Code samples for learning fuzzing in Go | https://github.com/jjngx/fuzzing | 0 | 0| 
 | 20220427T11:29:54Z | Rstudio integration demonstration | https://github.com/laurajanegraham/fuzzy-octo-robot | 0 | 0| 
@@ -155,9 +156,8 @@
 | 20220427T10:55:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7275 | 1556| 
 | 20220427T09:57:29Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 461 | 86| 
 | 20220427T08:14:07Z | Null | https://github.com/Lavanya-battula/fuzzy-umbrella | 0 | 0| 
+| 20220427T07:16:00Z | MS-Fuzz data | https://github.com/sharedata21/MS-Fuzz | 0 | 0| 
 | 20220427T01:54:08Z | A way to generate filter flags for ffuf from a previous fuzz + more to come! | https://github.com/mikedesu/parse_ffuf | 0 | 0| 
-| 20220427T01:39:43Z | Null | https://github.com/IgorUA19/Fuzzy_Logic_Ball_and_Pipe | 0 | 0| 
-| 20220427T00:27:50Z | Null | https://github.com/AntoCobRamos2003/fuzzy-funicular.github.io | 0 | 0| 
 
 
 
