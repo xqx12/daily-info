@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220427T12:08:18Z | CVE-2021-0589 | Null | https://github.com/Nivaskumark/A10_system_bt_CVE-2021-0589 | | 
 | 20220427T11:50:52Z | CVE-2022-23990 | Null | https://github.com/Nivaskumark/expat_A10_r33_2_2_6_CVE-2022-23990 | | 
 | 20220427T09:24:57Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220427T08:13:27Z | CVE-2022-22965 | Null | https://github.com/khidottrivi/CVE-2022-22965 | | 
@@ -55,7 +56,6 @@
 | 20220427T04:40:51Z | CVE-2021-0394 | Null | https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0394 | | 
 | 20220427T01:52:33Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
 | 20220426T15:02:31Z | CVE-2021-0326 | Null | https://github.com/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326 | | 
-| 20220426T14:50:52Z | CVE-2022-28346 | Django QuerySet.annotate(), aggregate(), extra() SQL 注入 | https://github.com/DeEpinGh0st/CVE-2022-28346 | | 
 
 
 # klee on Github 推荐
