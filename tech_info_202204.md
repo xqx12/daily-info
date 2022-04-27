@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220427T00:57:25Z | Null | https://github.com/IgorUA19/Fuzzy_Logic_Ball_and_Pipe | 0 | 0| 
 | 20220427T00:27:50Z | Null | https://github.com/AntoCobRamos2003/fuzzy-funicular.github.io | 0 | 0| 
 | 20220426T22:58:28Z | Simple symbolic reasoner which supports fuzzy unification in Python | https://github.com/chanind/fuzzy-reasoner | 1 | 0| 
 | 20220426T22:20:14Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 9 | 1| 
@@ -157,7 +158,6 @@
 | 20220426T20:17:20Z | Null | https://github.com/FuzzyStak0/FuzzySocks | 0 | 0| 
 | 20220426T20:09:40Z | Companion to the %Introduction to VirtualBox security research% Blog Post | https://github.com/doyensec/vbox-fuzz | 0 | 0| 
 | 20220426T14:00:05Z | Fuzzy model-generating embeddings for Description Logic | https://github.com/bio-ontology-research-group/FuzzyDL | 0 | 0| 
-| 20220426T12:50:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7274 | 1553| 
 
 
 
