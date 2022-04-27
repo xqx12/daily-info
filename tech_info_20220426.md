@@ -13,6 +13,7 @@
 | 20220426 | Old School, New Story--Escape from Hyper-V by Path Traversal，来自 VictorV 在 ZeroCon 2022 会议的演讲 | https://github.com/474172261/slides/blob/main/Old%20School%2C%20New%20Story--Escape%20from%20Hyper-V%20by%20Path%20Traversal.pdf| 
 | 20220426 | Windows CLFS 驱动 CVE-2022-24521 漏洞的分析和利用 | https://www.pixiepointsecurity.com/blog/nday-cve-2022-24521.html| 
 | 20220426 | Everscale 区块链的 Web 版本钱包 Ever Surf 被发现可以通过 XSS 漏洞窃取密钥 | http://research.checkpoint.com/2022/check-point-research-detects-vulnerability-in-the-everscale-blockchain-wallet-preventing-cryptocurrency-theft/| 
+| 20220426 | 滥用具备RWX-S权限且有签名的dll进行无感知的shellcode注入 | https://tttang.com/archive/1565/| 
 
 
 # 安全维基 推荐
@@ -33,53 +34,58 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220426T16:16:31Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
+| 20220426T15:02:31Z | CVE-2021-0326 | Null | https://github.com/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326 | | 
+| 20220426T14:50:52Z | CVE-2022-28346 | Django QuerySet.annotate(), aggregate(), extra() SQL 注入 | https://github.com/DeEpinGh0st/CVE-2022-28346 | | 
+| 20220426T14:47:27Z | CVE-2021-4034 | CVE-2021-4034 PoC | https://github.com/0x4ndy/CVE-2021-4034-PoC | | 
+| 20220426T14:34:35Z | CVE-2021-0326 | Null | https://github.com/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326 | | 
+| 20220426T14:29:01Z | CVE-2021-0326 | Null | https://github.com/nanopathi/wpa_supplicant_8_CVE-2021-0326. | | 
+| 20220426T13:06:56Z | CVE-2021-39692 | Null | https://github.com/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692 | | 
 | 20220426T12:57:33Z | CVE-2021-0315 | Null | https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315 | | 
 | 20220426T12:12:00Z | CVE-2021-3347 | Null | https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347 | | 
 | 20220426T12:10:24Z | CVE-2022-26809 | This repository contains a PoC for  remote code execution CVE-2022-26809 | https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE | | 
-| 20220426T11:26:18Z | CVE-2022-8899 | dingdingtest | https://github.com/w1023913214/CVE-2022-8899 | | 
-| 20220426T11:21:43Z | CVE-2021-39704 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704 | | 
-| 20220426T11:02:43Z | CVE-2021-0315 | Null | https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315 | | 
-| 20220426T08:51:17Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
-| 20220426T08:34:37Z | CVE-2022-15213 | Null | https://github.com/w1023913214/CVE-2022-15213 | | 
-| 20220426T08:33:33Z | cve-2022-29464 | Null | https://github.com/lowkey0808/cve-2022-29464 | | 
-| 20220426T07:53:01Z | CVE-2021-36394 | Null | https://github.com/lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220426T11:17:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5912 | 216| 
-| 20220426T09:04:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1958 | 554| 
+| 20220426T18:17:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5917 | 216| 
+| 20220426T14:57:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1958 | 554| 
+| 20220426T14:05:40Z | A website for everything Klee related! Work in progress... | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
+| 20220426T13:57:59Z | The repository hosting the content found in the Klee Mains Website. | https://github.com/KleeMains/Klee | 0 | 0| 
+| 20220426T13:23:24Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 29| 
 | 20220426T09:00:03Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 638 | 35| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T13:21:10Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 221 | 54| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T23:33:55Z | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | 0 | 0| 
+| 20220426T20:58:30Z | Null | https://github.com/Jduran-wpi/ShoppingForExploitsCTF | 0 | 0| 
+| 20220426T19:34:24Z | Null | https://github.com/aminesayagh/Rendu-Systeme-Exploitation-C | 0 | 0| 
+| 20220426T15:19:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11048 | 1930| 
+| 20220426T14:31:32Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 259 | 32| 
 | 20220426T12:56:39Z | What is Ethical Hacking? The act of hacking is defined as the process of finding a set of vulnerabilities in a target system and systematically exploiting them. Ethical Hacking as a discipline discerns itself from hacking by adding a vital element to the process – ‘consent’. The addition of ‘consent’ to this process serves two objectives –  The process becomes a legal activity  Since the ethical hacker takes permission before hacking into a system, it is legally made sure that he has no malicious intent. This is normally performed by making the ethical hacker sign contracts that legally bind him to work towards the improvement of the security of the company.  Types of Ethical Hackers White Hat Hackers: Here, we look for bugs and ethically report them to the organization. We are authorized as a user to test for bugs in a website or network and report them to them. White hat hackers generally get all the needed information about the application or network to test for, from the organization itself. They use their skills to test it before the website goes live or is attacked by malicious hackers.  Black Hat Hackers: Here, the organization doesn’t allow the user to test it. They unethically enter inside the website and steal data from the admin panel or manipulate the data. They only focus on themselves and the advantages they will get from personal data for personal financial gain. They can cause major damage to the company by altering the functions which leads to the loss of the company to a much higher extent. This can even lead you to extreme consequences.  Grey Hat Hackers: They sometimes have access to the data and violate the law. But never have the same intention as Black hat hackers, they often operate for the common good. The main difference is that they exploit vulnerability publicly whereas white hat hackers do it privately for the company.  Ethical Hacker Roles Ethical hackers have various roles in the organization they work for. Because ethical hacking is adopted by public and private organizations alike, goals may end up being diverse, but they can be boiled down to a few key points –  Protect the privacy of the organization the ethical hacker is working for  Immaculately report any sort of discrepancy in the system to the corresponding division with the responsibility of mending the vulnerability  Update hardware and software vendors regarding any sort of vulnerabilities found in their product, that is being used to orchestrate business    Some of the essential skills all ethical hackers need include:  Proficiency in database handling, networking, and operating systems.  Working knowledge of Python and other programming languages.  Ability to use social engineering to launch phishing campaigns or other types of attacks.  Hijacking web servers and applications.  Bypassing and cracking wireless encryption.  Exploit buffer overflow vulnerabilities.  SQL injections.  Password cracking.  Sniffing networks.  Scanning open and closed ports using tools like Nessus and NMAP.  Examining patch releases.  Evading intrusion detection and intrusion prevention systems.  Ethical Hacking: Where to Start As with most professions, many paths can lead you to become an ethical hacker. But knowing your destination is not enough, as your current knowledge of and proficiency in cybersecurity are just as important.  Suppose you already work in IT or have a background in information security. In that case, you might just need to freshen up your skills and knowledge of the most up-to-date cybersecurity techniques and methodologies. Since you already know the fundamentals, it might be enough for you to take a certification-prep class and sit for the EC-Council Certified Ethical Hacker (CEH) exam, which is the industry standard for professionals starting in ethical hacking.  By studying the course materials for the CEH exam, you’ll learn the latest hacking tools, techniques, and methodologies used by actual hackers to infiltrate an organization lawfully. Still, to pass the exam, you’ll also need a working knowledge of programming languages, servers, and networking.  However, if you don’t have a tech background, don’t be discouraged. You can still pursue an ethical hacking career, though it might take a bit of extra groundwork. First, you’ll need to build a solid foundation across network security, Microsoft and Linux security, the basics of Python programming, and many other essential cybersecurity subjects.  WsCubeTech offers an Online Ethical Hacking Course that can help you gain the job-ready skills you need to get started in the exciting field of cybersecurity and advance into an ethical hacking career. | https://github.com/WsCubeTechTrainings/Ethical-Hacking | 0 | 0| 
-| 20220426T12:47:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11046 | 1930| 
 | 20220426T12:13:07Z | Modified public exploits found on the internet - always included source in the comments | https://github.com/c0d36x2/modified_exploits | 0 | 0| 
 | 20220426T11:18:46Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2445 | 358| 
 | 20220426T10:21:05Z | A Python program that provides analysis of stocks to attempt to exploit their daily volatility to make large, short term returns. | https://github.com/JoshuaTate/Stocks-Bot | 1 | 0| 
 | 20220426T10:11:55Z | Exploitation and information gathering tools | https://github.com/littlepwnie/pentesting | 0 | 0| 
-| 20220426T09:25:19Z | pivotool in ethical hacking, as expected, is a simple tool written in bash that could help you in the post exploitation phase to pivot to other systems. | https://github.com/artuyero/pivotool | 0 | 0| 
-| 20220426T09:23:30Z | Goodgame Gangster Exploiting using the Force Disconnect | https://github.com/DefaultO/Geldwaesche | 0 | 0| 
-| 20220426T09:02:30Z | Python script exploting an old vulnerability for a website containing personal data | https://github.com/Catalin-Zaharia/Brute-Force-Exploit | 0 | 0| 
-| 20220426T01:13:04Z | Website wrapper of Sploitus exploit search engine made in React.  | https://github.com/glowbase/sploitus-wrapper | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220426T21:52:06Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 35 | 7| 
+| 20220426T16:24:17Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 32 | 8| 
 | 20220426T11:42:46Z | Null | https://github.com/THUYimingLi/BackdoorBox | 41 | 12| 
 | 20220426T09:01:09Z | Resurrecting Trust in Facial Recognition: Mitigating Backdoor Attacks in Face Recognition to Prevent Potential Privacy Breaches | https://github.com/chamikara1986/BA-BAM | 0 | 0| 
 | 20220426T06:12:28Z | Null | https://github.com/Ekko-zn/IJCAI2022-Backdoor | 0 | 0| 
-| 20220426T03:45:01Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 31 | 8| 
 
 
 # symbolic execution on Github 推荐
