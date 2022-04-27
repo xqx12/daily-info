@@ -56,8 +56,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220427T12:21:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2475 | 364| 
+| 20220427T12:21:44Z | Null | https://github.com/jw2488/Exploit-Desktop-Systems-Vulnerabilities---Group-6 | 0 | 0| 
 | 20220427T12:16:39Z | Discordia is program created for pentesters to exploit Discord Bot Tokens. | https://github.com/EnderLuca41/discordia-exploiter | 0 | 0| 
-| 20220427T12:03:28Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2474 | 364| 
 | 20220427T11:03:04Z | To improve the reproductivity | https://github.com/sonersec/Exploiting-On-chip-Voltage-Regulators-for-Leakage-Reduction-in-Hardware-Masking | 0 | 0| 
 | 20220427T09:44:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 394 | 114| 
 | 20220427T09:35:25Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 81 | 9| 
@@ -65,7 +66,6 @@
 | 20220427T02:28:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 54 | 21| 
 | 20220427T01:14:10Z | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | 0 | 0| 
 | 20220427T00:54:56Z | Proyecto Final de Algoritmos Maliciosos (ICS202) | https://github.com/Jack1310/Trojan-Exploit | 0 | 0| 
-| 20220427T00:37:49Z | Null | https://github.com/UserKiyotaka/exploit2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
