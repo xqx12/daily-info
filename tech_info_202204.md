@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220427T12:47:16Z | A quick attempt at fixing an exploit(?) with the load_itempreset command | https://github.com/rowedahelicon/TF2---Loadout-Respawn-Fix | 0 | 0| 
 | 20220427T12:38:17Z | This site has a lot of security breaches to exploit. Do not install on production environments! | https://github.com/wesleyit/python_safesite | 9 | 4| 
 | 20220427T12:21:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2475 | 364| 
 | 20220427T12:21:44Z | Null | https://github.com/jw2488/Exploit-Desktop-Systems-Vulnerabilities---Group-6 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220427T09:35:25Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 81 | 9| 
 | 20220427T09:13:59Z | Exploit PDF is a vulnerability that allows remote attackers to execute arbitrary code. ... You can easily convert your .exe files to PDF using our Python Builder. The builder we provide is FUD and it works silently. That means the user only needs to interact with the infected PDF file. | https://github.com/razordeveloper/Silent-PDF-Exploit-2022 | 0 | 0| 
 | 20220427T07:40:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11048 | 1932| 
-| 20220427T02:28:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 54 | 21| 
 
 
 # backdoor on Github 推荐
