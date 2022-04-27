@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220427T12:30:02Z | Null | https://github.com/olyzza/fuzzy-happiness | 0 | 0| 
 | 20220427T12:18:05Z | Null | https://github.com/SusanOsasona/fuzzy-guide | 0 | 0| 
 | 20220427T11:52:58Z | Null | https://github.com/Tanuka-Mondal/Fuzzy | 0 | 0| 
 | 20220427T11:52:52Z | Code samples for learning fuzzing in Go | https://github.com/jjngx/fuzzing | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220427T09:57:29Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 461 | 86| 
 | 20220427T08:14:07Z | Null | https://github.com/Lavanya-battula/fuzzy-umbrella | 0 | 0| 
 | 20220427T07:16:00Z | MS-Fuzz data | https://github.com/sharedata21/MS-Fuzz | 0 | 0| 
-| 20220427T01:54:08Z | A way to generate filter flags for ffuf from a previous fuzz + more to come! | https://github.com/mikedesu/parse_ffuf | 0 | 0| 
 
 
 
