@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220427T11:40:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2473 | 364| 
+| 20220427T12:03:28Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2474 | 364| 
 | 20220427T11:03:04Z | To improve the reproductivity | https://github.com/sonersec/Exploiting-On-chip-Voltage-Regulators-for-Leakage-Reduction-in-Hardware-Masking | 0 | 0| 
 | 20220427T09:44:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 394 | 114| 
 | 20220427T09:35:25Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 81 | 9| 
