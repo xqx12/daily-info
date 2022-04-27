@@ -66,7 +66,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220426T23:33:55Z | A script hub for roblox exploiters. | https://github.com/FrameWorkRBLX/FrameWorkScriptHub | 0 | 0| 
 | 20220426T20:58:30Z | Null | https://github.com/Jduran-wpi/ShoppingForExploitsCTF | 0 | 0| 
 | 20220426T19:34:24Z | Null | https://github.com/aminesayagh/Rendu-Systeme-Exploitation-C | 0 | 0| 
 | 20220426T16:01:29Z | Exploits for various roblox games | https://github.com/TheFunnyMan120/Roblox-Exploit-Script-Hubs | 0 | 0| 
@@ -76,6 +75,7 @@
 | 20220426T12:13:07Z | Modified public exploits found on the internet - always included source in the comments | https://github.com/c0d36x2/modified_exploits | 0 | 0| 
 | 20220426T11:18:46Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2445 | 358| 
 | 20220426T10:21:05Z | A Python program that provides analysis of stocks to attempt to exploit their daily volatility to make large, short term returns. | https://github.com/JoshuaTate/Stocks-Bot | 1 | 0| 
+| 20220426T10:11:55Z | Exploitation and information gathering tools | https://github.com/littlepwnie/pentesting | 0 | 0| 
 
 
 # backdoor on Github 推荐
