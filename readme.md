@@ -17,6 +17,11 @@
 | 20220427 | Stairwell 安全团队对朝鲜 APT37 组织近期利用 Goldbackdoor 发起攻击的分析报告 | https://threatpost.com/hackers-target-journalists-goldbackdoor/179389/| 
 | 20220427 | 浏览器调试之网络抓包 | https://www.youtube.com/watch?v=ACvjQNl01MA| 
 | 20220427 | Paper Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel，利用符号执行技术，在 Linux 代码仓库中扫描增量代码检测变量未初始化漏洞 | https://github.com/seclab-ucr/IncreLux| 
+| 20220427 | Encrypting our way to SSRF in VMWare Workspace One UEM (CVE-2021-22054) | https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/| 
+| 20220427 | 在内核 eBPF 层面基于机器学习实现 Flow-based IDS | https://arxiv.org/abs/2102.09980| 
+| 20220427 | 利用开源工具分析 Azure AD 环境的攻击面 | http://o365blog.com/talks/ICEIS2022_slides.pdf| 
+| 20220427 | 有研究员公开了一个利用 CVE-2021-30937 漏洞实现 iOS 15.0 - 15.1.1 内核读写的 Exploit | http://github.com/potmdehex/multicast_bytecopy| 
+| 20220427 | Bypass EDR 基于内存分配事件监控的威胁检测 | https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection| 
 
 
 # 安全维基 推荐

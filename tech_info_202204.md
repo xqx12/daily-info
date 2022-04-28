@@ -17,15 +17,15 @@
 | 20220427 | Stairwell 安全团队对朝鲜 APT37 组织近期利用 Goldbackdoor 发起攻击的分析报告 | https://threatpost.com/hackers-target-journalists-goldbackdoor/179389/| 
 | 20220427 | 浏览器调试之网络抓包 | https://www.youtube.com/watch?v=ACvjQNl01MA| 
 | 20220427 | Paper Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel，利用符号执行技术，在 Linux 代码仓库中扫描增量代码检测变量未初始化漏洞 | https://github.com/seclab-ucr/IncreLux| 
+| 20220427 | Encrypting our way to SSRF in VMWare Workspace One UEM (CVE-2021-22054) | https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/| 
+| 20220427 | 在内核 eBPF 层面基于机器学习实现 Flow-based IDS | https://arxiv.org/abs/2102.09980| 
+| 20220427 | 利用开源工具分析 Azure AD 环境的攻击面 | http://o365blog.com/talks/ICEIS2022_slides.pdf| 
+| 20220427 | 有研究员公开了一个利用 CVE-2021-30937 漏洞实现 iOS 15.0 - 15.1.1 内核读写的 Exploit | http://github.com/potmdehex/multicast_bytecopy| 
+| 20220427 | Bypass EDR 基于内存分配事件监控的威胁检测 | https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection| 
 | 20220426 | 一份非常详细的渗透测试资料 | https://github.com/xiaoy-sec/Pentest_Note| 
 | 20220426 | KrbRelayUp - 不开启 LDAP signing 的条件下实现域环境提权 | https://github.com/Dec0ne/KrbRelayUp| 
 | 20220426 | apple-codesign - 有研究员实现了一套在非 Apple 系统上运行的 Apple 代码签名工具 | http://gregoryszorc.com/blog/2022/04/25/expanding-apple-ecosystem-access-with-open-source,-multi-platform-code-signing/| 
 | 20220426 | ZoneAlarm 反病毒软件目录权限设置不当，可以被用于 SYSTEM 提权 | https://github.com/Wh04m1001/ZoneAlarmLPE| 
-| 20220426 | Old School, New Story--Escape from Hyper-V by Path Traversal，来自 VictorV 在 ZeroCon 2022 会议的演讲 | https://github.com/474172261/slides/blob/main/Old%20School%2C%20New%20Story--Escape%20from%20Hyper-V%20by%20Path%20Traversal.pdf| 
-| 20220426 | Windows CLFS 驱动 CVE-2022-24521 漏洞的分析和利用 | https://www.pixiepointsecurity.com/blog/nday-cve-2022-24521.html| 
-| 20220426 | Everscale 区块链的 Web 版本钱包 Ever Surf 被发现可以通过 XSS 漏洞窃取密钥 | http://research.checkpoint.com/2022/check-point-research-detects-vulnerability-in-the-everscale-blockchain-wallet-preventing-cryptocurrency-theft/| 
-| 20220426 | 滥用具备RWX-S权限且有签名的dll进行无感知的shellcode注入 | https://tttang.com/archive/1565/| 
-| 20220425 | 基于 eBPF 技术实现的 Linux EDR | https://github.com/sourque/louis| 
 
 
 # 安全维基 推荐
