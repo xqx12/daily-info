@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220428T12:23:55Z | shit i made while fucking around with gobyl | https://github.com/app-renticeship/shit-simple-roblox-anti-exploit | 0 | 0| 
 | 20220428T11:50:02Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/DEX1O/IIlegalStack | 0 | 0| 
 | 20220428T11:29:17Z | Script that write/updates Device Local Name of BLE devices like smart watches & others. | https://github.com/souravbaghz/ble-name-exploitor | 1 | 0| 
 | 20220428T10:40:13Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Raz0r/semgrep-smart-contracts | 181 | 14| 
@@ -100,7 +101,6 @@
 | 20220428T06:50:42Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1192 | 272| 
 | 20220428T01:50:36Z | This is my first GitHub repository, trying to exploit my capabilities. Insha Allah | https://github.com/farsana-fr/LearnFR | 0 | 0| 
 | 20220428T00:33:01Z | General Purpouse Telegram Bot. Can act as a RAT, a Ransomware, a post exploitation tool, or just as a core to your custom bot. | https://github.com/StringManolo/nbmxbsf | 1 | 0| 
-| 20220428T00:03:20Z | Null | https://github.com/talha/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220428T12:25:14Z | Null | https://github.com/ray10506/DC-fuzzy-c-means | 0 | 0| 
 | 20220428T11:24:07Z | Null | https://github.com/creator5112021/fuzzy-barnacle | 0 | 0| 
 | 20220428T10:35:02Z | Null | https://github.com/farahresatan/fuzzy-broccoli | 0 | 0| 
 | 20220428T08:56:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7276 | 1556| 
@@ -157,7 +158,6 @@
 | 20220428T07:32:06Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 462 | 87| 
 | 20220428T02:54:21Z | Companion repository for Go fuzzing tutorials | https://github.com/fuzzbuzz/go-fuzzing-tutorial | 2 | 0| 
 | 20220427T22:44:10Z | 2.0 of dnh auto fuzzer with greatly reduced scale | https://github.com/nickcopi/dnhautofuzz2.0 | 0 | 0| 
-| 20220427T22:29:34Z | Null | https://github.com/Revan-tech/fuzzy-octo-waddle | 0 | 0| 
 
 
 
