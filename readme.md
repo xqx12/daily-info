@@ -15,6 +15,8 @@
 | 20220427 | 需要有一种新的漏洞管理方案，替代 CVE 实现在云安全场景中的漏洞管理 | https://threatpost.com/cve-cloud-bug-system/179394/| 
 | 20220427 | go-fuzz 优化实践 | http://blog.trailofbits.com/2022/04/26/improving-the-state-of-go-fuzz/| 
 | 20220427 | Stairwell 安全团队对朝鲜 APT37 组织近期利用 Goldbackdoor 发起攻击的分析报告 | https://threatpost.com/hackers-target-journalists-goldbackdoor/179389/| 
+| 20220427 | 浏览器调试之网络抓包 | https://www.youtube.com/watch?v=ACvjQNl01MA| 
+| 20220427 | Paper Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel，利用符号执行技术，在 Linux 代码仓库中扫描增量代码检测变量未初始化漏洞 | https://github.com/seclab-ucr/IncreLux| 
 
 
 # 安全维基 推荐

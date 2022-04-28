@@ -15,6 +15,8 @@
 | 20220427 | 需要有一种新的漏洞管理方案，替代 CVE 实现在云安全场景中的漏洞管理 | https://threatpost.com/cve-cloud-bug-system/179394/| 
 | 20220427 | go-fuzz 优化实践 | http://blog.trailofbits.com/2022/04/26/improving-the-state-of-go-fuzz/| 
 | 20220427 | Stairwell 安全团队对朝鲜 APT37 组织近期利用 Goldbackdoor 发起攻击的分析报告 | https://threatpost.com/hackers-target-journalists-goldbackdoor/179389/| 
+| 20220427 | 浏览器调试之网络抓包 | https://www.youtube.com/watch?v=ACvjQNl01MA| 
+| 20220427 | Paper Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel，利用符号执行技术，在 Linux 代码仓库中扫描增量代码检测变量未初始化漏洞 | https://github.com/seclab-ucr/IncreLux| 
 | 20220426 | 一份非常详细的渗透测试资料 | https://github.com/xiaoy-sec/Pentest_Note| 
 | 20220426 | KrbRelayUp - 不开启 LDAP signing 的条件下实现域环境提权 | https://github.com/Dec0ne/KrbRelayUp| 
 | 20220426 | apple-codesign - 有研究员实现了一套在非 Apple 系统上运行的 Apple 代码签名工具 | http://gregoryszorc.com/blog/2022/04/25/expanding-apple-ecosystem-access-with-open-source,-multi-platform-code-signing/| 
@@ -24,8 +26,6 @@
 | 20220426 | Everscale 区块链的 Web 版本钱包 Ever Surf 被发现可以通过 XSS 漏洞窃取密钥 | http://research.checkpoint.com/2022/check-point-research-detects-vulnerability-in-the-everscale-blockchain-wallet-preventing-cryptocurrency-theft/| 
 | 20220426 | 滥用具备RWX-S权限且有签名的dll进行无感知的shellcode注入 | https://tttang.com/archive/1565/| 
 | 20220425 | 基于 eBPF 技术实现的 Linux EDR | https://github.com/sourque/louis| 
-| 20220425 | 基于 Ghidra PCode 的符号执行引擎 | https://github.com/borzacchiello/naaz| 
-| 20220425 | OffensiveCon22 会议的视频公开了 | https://www.youtube.com/watch?v=7Ysy6iA2sqA&list=PLYvhPWR_XYJnPvrhXE4RYvwZhV26nYTIp| 
 
 
 # 安全维基 推荐
