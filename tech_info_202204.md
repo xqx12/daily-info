@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220428T12:49:51Z | RoseWare - Free Nokey Roblox LV7 Exploit | https://github.com/DeveloperTaein/RoseWare | 0 | 0| 
 | 20220428T12:39:10Z | Exploit of a wordpress LFI vulnerability via Brute Force of /proc | https://github.com/pingpwn/wordpress-lfi | 0 | 0| 
 | 20220428T12:23:55Z | shit i made while fucking around with gobyl | https://github.com/app-renticeship/shit-simple-roblox-anti-exploit | 0 | 0| 
 | 20220428T11:50:02Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/DEX1O/IIlegalStack | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220428T09:47:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11047 | 1933| 
 | 20220428T09:21:41Z | A Bank Truck script with difficulty levels for better payouts and unique items, there are a lot of checks within the script to ensure that the script can not be exploited/abused. The script is very customizable and the Ai is pretty intelligent for GTA standards. | https://github.com/Omega248/qb-banktruck | 0 | 0| 
 | 20220428T09:15:31Z | This is the repo of the %Exploration and Exploitation in Learning Systems% course given at the Technion by Ron Meir. | https://github.com/TKratter/ee048843 | 0 | 0| 
-| 20220428T06:50:42Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1192 | 272| 
 
 
 # backdoor on Github 推荐
