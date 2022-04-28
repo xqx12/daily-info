@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220428T01:17:35Z | This is my first GitHub repository, trying to exploit my capabilities. Insha Allah | https://github.com/farsana-fr/LearnFR | 0 | 0| 
+| 20220428T01:50:36Z | This is my first GitHub repository, trying to exploit my capabilities. Insha Allah | https://github.com/farsana-fr/LearnFR | 0 | 0| 
 | 20220428T00:33:01Z | General Purpouse Telegram Bot. Can act as a RAT, a Ransomware, a post exploitation tool, or just as a core to your custom bot. | https://github.com/StringManolo/nbmxbsf | 1 | 0| 
 | 20220428T00:03:20Z | Null | https://github.com/talha/exploits | 0 | 0| 
 | 20220427T23:41:03Z | My little exploition collection, ;). | https://github.com/0x98a/Exploit-Collection | 0 | 0| 
