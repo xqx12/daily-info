@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220428T01:54:59Z | CVE-2022-22965 | Null | https://github.com/mariomamo/CVE-2022-22965 | | 
 | 20220427T20:43:08Z | CVE-2021-40444 | Null | https://github.com/QwertyStack/CVE-2021-40444_PoC | | 
 | 20220427T16:44:31Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 | 20220427T12:15:31Z | CVE-2021-0589 | Null | https://github.com/Nivaskumark/A10_system_bt_CVE-2021-0589 | | 
@@ -55,7 +56,6 @@
 | 20220427T05:01:01Z | CVE-2020-0394 | Null | https://github.com/pazhanivel07/Settings_10-r33_CVE-2020-0394_02 | | 
 | 20220427T04:46:29Z | CVE-2020-0394 | Null | https://github.com/pazhanivel07/Settings_10-r33_CVE-2020-0394 | | 
 | 20220427T04:40:51Z | CVE-2021-0394 | Null | https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0394 | | 
-| 20220427T01:52:33Z | cve-2022-22947 | CVE-2022-22947 注入Godzilla内存马 | https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell | | 
 
 
 # klee on Github 推荐
