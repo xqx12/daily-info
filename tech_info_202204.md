@@ -153,11 +153,11 @@
 | 20220428T08:56:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7276 | 1556| 
 | 20220428T08:39:41Z | Null | https://github.com/sixplusgroup/fuzz4microservice | 1 | 0| 
 | 20220428T08:09:58Z | my first repository on Github | https://github.com/2001will/fuzzy_memory | 0 | 0| 
+| 20220428T07:48:47Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 52 | 16| 
 | 20220428T07:32:06Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 462 | 87| 
 | 20220428T02:54:21Z | Companion repository for Go fuzzing tutorials | https://github.com/fuzzbuzz/go-fuzzing-tutorial | 2 | 0| 
 | 20220427T22:44:10Z | 2.0 of dnh auto fuzzer with greatly reduced scale | https://github.com/nickcopi/dnhautofuzz2.0 | 0 | 0| 
 | 20220427T22:29:34Z | Null | https://github.com/Revan-tech/fuzzy-octo-waddle | 0 | 0| 
-| 20220427T19:40:39Z | Null | https://github.com/Frankeo/fuzzy-search | 0 | 0| 
 
 
 
