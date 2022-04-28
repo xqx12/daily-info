@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220428T12:51:01Z | CVE-2022-24449 | Solar Appscreener XXE | https://github.com/jet-pentest/CVE-2022-24449 | | 
 | 20220428T12:10:49Z | CVE-2021-39706 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706 | | 
 | 20220428T10:27:50Z | CVE-2020-0452 | Null | https://github.com/ShaikUsaf/external_libexif_AOSP10_CVE-2020-0452 | | 
 | 20220428T10:22:31Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
@@ -55,7 +56,6 @@
 | 20220428T07:44:05Z | CVE-2021-45485 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2021-45485 | | 
 | 20220428T06:21:20Z | CVE-2022-23990 | Null | https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-23990 | | 
 | 20220428T02:14:10Z | CVE-2021-40444 | Null | https://github.com/RedLeavesChilde/CVE-2021-40444 | | 
-| 20220428T01:54:59Z | CVE-2022-22965 | Null | https://github.com/mariomamo/CVE-2022-22965 | | 
 
 
 # klee on Github 推荐
@@ -106,9 +106,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220428T12:50:08Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 38 | 8| 
 | 20220428T10:16:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 461 | 89| 
 | 20220428T08:33:28Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 0 | 0| 
-| 20220428T08:04:39Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 37 | 8| 
 | 20220428T00:16:05Z | Null | https://github.com/xjusthaxor/psatir-shell-backdoor | 1 | 0| 
 | 20220428T00:10:02Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 4 | 0| 
 | 20220427T21:55:50Z | Null | https://github.com/N3w-elf/auto_create_backdoor | 0 | 0| 
