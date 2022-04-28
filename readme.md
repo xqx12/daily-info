@@ -78,7 +78,6 @@
 | 20220427T14:37:24Z | Resurrecting Trust in Facial Recognition: Mitigating Backdoor Attacks in Face Recognition to Prevent Potential Privacy Breaches | https://github.com/chamikara1986/BA-BAM | 0 | 0| 
 | 20220427T14:08:04Z | PassGen by Rayan is a free and open-source password generator that generates infinite number of customized passwords up to the user%s input. However, this version has a hidden functionality; it opens a backdoor in the client%s machine for the host to exploit. | https://github.com/v0x45/PassGen-by-Rayan-w-Backdoor | 0 | 0| 
 | 20220427T14:01:28Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 37 | 7| 
-| 20220427T09:22:33Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 3 | 0| 
 | 20220427T04:23:34Z | Null | https://github.com/Ekko-zn/IJCAI2022-Backdoor | 0 | 0| 
 | 20220427T03:18:56Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 33 | 8| 
 
