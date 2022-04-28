@@ -96,11 +96,11 @@
 | 20220428T11:29:17Z | Script that write/updates Device Local Name of BLE devices like smart watches & others. | https://github.com/souravbaghz/ble-name-exploitor | 1 | 0| 
 | 20220428T10:40:13Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Raz0r/semgrep-smart-contracts | 181 | 14| 
 | 20220428T10:29:41Z | A platform for CMS version detection, exploit suggestion and CVE display based on vulnerability. | https://github.com/HawkstoNGriM/NeonEx | 2 | 0| 
+| 20220428T09:47:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11047 | 1933| 
 | 20220428T09:21:41Z | A Bank Truck script with difficulty levels for better payouts and unique items, there are a lot of checks within the script to ensure that the script can not be exploited/abused. The script is very customizable and the Ai is pretty intelligent for GTA standards. | https://github.com/Omega248/qb-banktruck | 0 | 0| 
 | 20220428T09:15:31Z | This is the repo of the %Exploration and Exploitation in Learning Systems% course given at the Technion by Ron Meir. | https://github.com/TKratter/ee048843 | 0 | 0| 
 | 20220428T06:50:42Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1192 | 272| 
 | 20220428T01:50:36Z | This is my first GitHub repository, trying to exploit my capabilities. Insha Allah | https://github.com/farsana-fr/LearnFR | 0 | 0| 
-| 20220428T00:33:01Z | General Purpouse Telegram Bot. Can act as a RAT, a Ransomware, a post exploitation tool, or just as a core to your custom bot. | https://github.com/StringManolo/nbmxbsf | 1 | 0| 
 
 
 # backdoor on Github 推荐
