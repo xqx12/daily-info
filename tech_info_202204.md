@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220428T01:17:35Z | This is my first GitHub repository, trying to exploit my capabilities. Insha Allah | https://github.com/farsana-fr/LearnFR | 0 | 0| 
 | 20220428T00:33:01Z | General Purpouse Telegram Bot. Can act as a RAT, a Ransomware, a post exploitation tool, or just as a core to your custom bot. | https://github.com/StringManolo/nbmxbsf | 1 | 0| 
 | 20220428T00:03:20Z | Null | https://github.com/talha/exploits | 0 | 0| 
 | 20220427T23:41:03Z | My little exploition collection, ;). | https://github.com/0x98a/Exploit-Collection | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220427T19:00:35Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 5 | 1| 
 | 20220427T13:44:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 395 | 115| 
 | 20220427T12:47:16Z | A quick attempt at fixing an exploit(?) with the load_itempreset command | https://github.com/rowedahelicon/TF2---Loadout-Respawn-Fix | 0 | 0| 
-| 20220427T12:38:17Z | This site has a lot of security breaches to exploit. Do not install on production environments! | https://github.com/wesleyit/python_safesite | 9 | 4| 
 
 
 # backdoor on Github 推荐
