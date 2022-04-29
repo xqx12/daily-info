@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T00:22:13Z | Proyecto de Logica Difusa con Python y librería customizada e importada para evaluación de un sistema automático de una impresora | https://github.com/NickyGon/VoltImpresoraFuzzyLogic | 0 | 0| 
 | 20220428T22:44:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2529 | 164| 
 | 20220428T22:44:20Z | this repository used for every fuzzy logic code or application used in Matlab software environment   | https://github.com/zaidhasso/fuzzy-in-matlab | 0 | 0| 
 | 20220428T20:03:24Z | Classifier of HCV from blood values using fuzzy methods | https://github.com/sates298/HCV-fuzzy-classifier | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220428T16:20:09Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 102 | 11| 
 | 20220428T14:46:14Z | GraphFuzz is an experimental framework for building structure-aware, library API fuzzers. | https://github.com/hgarrereyn/GraphFuzz | 144 | 12| 
 | 20220428T12:41:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7277 | 1556| 
-| 20220428T12:25:14Z | Null | https://github.com/ray10506/DC-fuzzy-c-means | 0 | 0| 
 
 
 
