@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T12:01:39Z | Digispark | https://github.com/VoltoxderEchte/Backdoor | 0 | 0| 
 | 20220429T11:09:43Z | uploader+backend+backdoor | https://github.com/joblesshuman/625-proj | 0 | 0| 
 | 20220429T05:04:06Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 2 | 0| 
 | 20220429T04:32:56Z | A backdoor generator for windows and linux | https://github.com/Krushergod/Deadshot | 0 | 0| 
@@ -115,15 +116,14 @@
 | 20220428T12:50:08Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 38 | 8| 
 | 20220428T10:16:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 461 | 89| 
 | 20220428T00:16:05Z | Null | https://github.com/xjusthaxor/psatir-shell-backdoor | 1 | 0| 
-| 20220428T00:10:02Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220429T01:51:20Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 54 | 3| 
+| 20220429T05:12:39Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 55 | 3| 
+| 20220429T03:21:55Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 383 | 19| 
 | 20220429T00:51:41Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 687 | 73| 
-| 20220428T19:48:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 382 | 19| 
 | 20220428T09:57:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2828 | 411| 
 | 20220428T02:41:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1959 | 554| 
 | 20220426T14:15:31Z | We have to perform the verification of the partial correctness of two algorithms proposing the an invariant formula for both algorithms (both algorithms have while loops, that%s the reason because we%ve to propose an invariant) | https://github.com/marc7666/Verification-of-Programs-with-Hoare-Logic-and-Symbolic-Execution | 0 | 0| 
