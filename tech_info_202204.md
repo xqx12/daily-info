@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220429T12:36:35Z | CVE-2021-0963 | Null | https://github.com/Trinadh465/packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963 | | 
+| 20220429T12:38:34Z | CVE-2021-0963 | Null | https://github.com/Trinadh465/packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963 | | 
 | 20220429T11:20:57Z | CVE-2021-23841 | Null | https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841 | | 
 | 20220429T11:10:13Z | CVE-2021-0326 | Null | https://github.com/ShaikUsaf/external_wpa_supplicant_8_AOSP10_r33CVE-2021-0326 | | 
 | 20220429T10:32:03Z | CVE-2020-0240 | Null | https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240 | | 
