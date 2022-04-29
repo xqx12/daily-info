@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T00:51:17Z | My way of dealing with exploit bots that attack our WWW servers. | https://github.com/codelyfe/bot-feeder-www | 0 | 0| 
 | 20220429T00:20:14Z | exploits n stuff | https://github.com/CompanionCubeGD/schoolsucks | 1 | 0| 
 | 20220428T22:32:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2674 | 326| 
 | 20220428T21:38:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11050 | 1935| 
@@ -100,7 +101,6 @@
 | 20220428T18:37:16Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Saihack0/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220428T18:13:14Z | Null | https://github.com/aminesayagh/devoirSystemeExploitation | 2 | 0| 
 | 20220428T17:27:00Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 8 | 4| 
-| 20220428T13:46:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 55 | 21| 
 
 
 # backdoor on Github 推荐
@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T00:51:41Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 687 | 73| 
 | 20220428T19:48:58Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 382 | 19| 
 | 20220428T15:57:11Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 53 | 3| 
 | 20220428T09:57:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2828 | 411| 
@@ -130,7 +131,6 @@
 | 20220426T13:21:10Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 221 | 54| 
 | 20220425T18:58:37Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 65 | 14| 
 | 20220425T17:00:53Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 224 | 15| 
-| 20220425T13:13:19Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 52 | 1| 
 
 
 # big4 on Github 推荐
