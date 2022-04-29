@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220429T01:38:43Z | CVE-2021-22204 | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | | 
 | 20220429T00:10:50Z | CVE-2021-44228 | Loops through all Log4j files and remediates CVE-2021-44228 | https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation | | 
 | 20220429T00:00:12Z | CVE-2022-21728 | Null | https://github.com/mwina/CVE-2022-21728-test | | 
 | 20220428T17:00:09Z | CVE-2021-4034 | My research about  CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | | 
@@ -55,7 +56,6 @@
 | 20220428T12:15:48Z | CVE-2022-22965 | Null | https://github.com/mariomamo/CVE-2022-22965 | | 
 | 20220428T12:10:49Z | CVE-2021-39706 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706 | | 
 | 20220428T10:27:50Z | CVE-2020-0452 | Null | https://github.com/ShaikUsaf/external_libexif_AOSP10_CVE-2020-0452 | | 
-| 20220428T10:22:31Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T01:38:43Z | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | 2 | 0| 
 | 20220429T00:59:33Z | Open source ROBLOX exploit DLL that uses LuaU (WIP) | https://github.com/clxyify/Catmoon | 1 | 0| 
 | 20220429T00:51:17Z | My way of dealing with exploit bots that attack our WWW servers. | https://github.com/codelyfe/bot-feeder-www | 0 | 0| 
 | 20220429T00:20:14Z | exploits n stuff | https://github.com/CompanionCubeGD/schoolsucks | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20220428T18:46:34Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Nauhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220428T18:45:12Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Nauhack/Hacking-Tools-Pack | 0 | 0| 
 | 20220428T18:37:16Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Saihack0/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220428T18:13:14Z | Null | https://github.com/aminesayagh/devoirSystemeExploitation | 2 | 0| 
 
 
 # backdoor on Github 推荐
