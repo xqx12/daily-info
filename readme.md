@@ -68,7 +68,6 @@
 | 20220428T16:16:25Z | backdoor develop | https://github.com/m3iz/b4ckd00r | 0 | 0| 
 | 20220428T12:50:08Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 38 | 8| 
 | 20220428T10:16:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 461 | 89| 
-| 20220428T08:33:28Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 0 | 0| 
 | 20220428T00:16:05Z | Null | https://github.com/xjusthaxor/psatir-shell-backdoor | 1 | 0| 
 | 20220428T00:10:02Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 4 | 0| 
 

@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T01:49:21Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 20 | 1| 
 | 20220429T01:45:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5944 | 218| 
 | 20220428T14:24:58Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 640 | 35| 
 | 20220428T10:44:32Z | Tool for approximating number of cycles cortex m4 takes for klee generated testcases | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220428T02:41:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1959 | 554| 
 | 20220426T13:23:24Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 29| 
 | 20220425T10:10:43Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 3 | 0| 
-| 20220424T06:33:10Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 19 | 1| 
 
 
 # s2e on Github 推荐
@@ -106,10 +106,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T01:50:02Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 1 | 0| 
 | 20220428T16:16:25Z | backdoor develop | https://github.com/m3iz/b4ckd00r | 0 | 0| 
 | 20220428T12:50:08Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 38 | 8| 
 | 20220428T10:16:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 461 | 89| 
-| 20220428T08:33:28Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 0 | 0| 
 | 20220428T00:16:05Z | Null | https://github.com/xjusthaxor/psatir-shell-backdoor | 1 | 0| 
 | 20220428T00:10:02Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 4 | 0| 
 | 20220427T21:55:50Z | Null | https://github.com/N3w-elf/auto_create_backdoor | 0 | 0| 
