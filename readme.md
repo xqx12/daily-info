@@ -55,8 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T12:44:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2524 | 369| 
 | 20220429T12:15:40Z | Exploit to bypass invisible recaptcha only with HTTP requests. | https://github.com/blaannk/Recaptcha-Invisible-Bypass | 5 | 2| 
-| 20220429T12:10:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2523 | 369| 
 | 20220429T11:23:52Z | React project to exploit all possibilities of react-router-dom making a beautiful dashboard. | https://github.com/jeseduardopi/tp-frontend-backoffice | 0 | 0| 
 | 20220429T11:21:52Z | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | 217 | 60| 
 | 20220429T11:00:35Z | Null | https://github.com/chrivand/action-kenna-cve-exploits-js | 0 | 0| 
