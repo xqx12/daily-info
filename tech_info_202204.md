@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T00:20:14Z | exploits n stuff | https://github.com/CompanionCubeGD/schoolsucks | 1 | 0| 
 | 20220428T22:32:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2674 | 326| 
 | 20220428T21:38:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11050 | 1935| 
 | 20220428T21:03:21Z | Projekt je zameraný na osvojenie si základov softwarových zraniteľností a ich exploitácie. | https://github.com/dmnkSabota/Exploiting | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220428T18:13:14Z | Null | https://github.com/aminesayagh/devoirSystemeExploitation | 2 | 0| 
 | 20220428T17:27:00Z | In a nutshell, EinsteinDB is a persistent indexing scheme based off of LSH-KVX that exploits the distinct merits of hash index and B+-Tree index to support range scan and avoids long NVM writes for maintaining consistency; thus improving on LSH’s performance guarantees for skewed data and adopts ordered-write consistency to ensure crash consistency, while retaining the same storage and query overhead.  | https://github.com/YosiSF/EinsteinDB | 8 | 4| 
 | 20220428T13:46:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 55 | 21| 
-| 20220428T12:49:51Z | RoseWare - Free Nokey Roblox LV7 Exploit | https://github.com/DeveloperTaein/RoseWare | 0 | 0| 
 
 
 # backdoor on Github 推荐
