@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T01:53:04Z | D-Bus fuzzer | https://github.com/matusmarhefka/dfuzzer | 23 | 9| 
 | 20220429T01:47:00Z | Null | https://github.com/Claybin/fuzzy-disco | 0 | 0| 
 | 20220429T00:22:13Z | Proyecto de Logica Difusa con Python y librería customizada e importada para evaluación de un sistema automático de una impresora | https://github.com/NickyGon/VoltImpresoraFuzzyLogic | 0 | 0| 
 | 20220428T22:44:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2529 | 164| 
@@ -158,7 +159,6 @@
 | 20220428T19:13:33Z | test | https://github.com/anikait-makkar-tribes/fuzzy-dollop | 0 | 0| 
 | 20220428T18:35:31Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 178 | 25| 
 | 20220428T17:41:26Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 11 | 0| 
-| 20220428T16:20:09Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 102 | 11| 
 
 
 
