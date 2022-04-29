@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T12:49:42Z | This repository includes a reinforcement learning framework for end-to-end type integrated thermal updraft localization and exploitation. | https://github.com/ifrunistuttgart/RL_Integrated-Updraft-Exploitation | 0 | 0| 
 | 20220429T12:44:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2524 | 369| 
 | 20220429T12:15:40Z | Exploit to bypass invisible recaptcha only with HTTP requests. | https://github.com/blaannk/Recaptcha-Invisible-Bypass | 5 | 2| 
 | 20220429T11:23:52Z | React project to exploit all possibilities of react-router-dom making a beautiful dashboard. | https://github.com/jeseduardopi/tp-frontend-backoffice | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20220429T10:44:48Z | Null | https://github.com/zane00/Binary-Exploitation | 0 | 0| 
 | 20220429T10:35:10Z | Software for recording and analyzing inputs during game session (rhythmanalysis) | https://github.com/GamesRythmAnalysis/RnGameDataExploitation | 5 | 0| 
 | 20220429T09:16:51Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1194 | 273| 
-| 20220429T09:05:53Z | A collection of exploits, documents and code I have used for CTFs | https://github.com/WMDA/ctf | 0 | 0| 
 
 
 # backdoor on Github 推荐
