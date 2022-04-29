@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220429T12:36:35Z | CVE-2021-0963 | Null | https://github.com/Trinadh465/packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963 | | 
 | 20220429T11:20:57Z | CVE-2021-23841 | Null | https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841 | | 
 | 20220429T11:10:13Z | CVE-2021-0326 | Null | https://github.com/ShaikUsaf/external_wpa_supplicant_8_AOSP10_r33CVE-2021-0326 | | 
 | 20220429T10:32:03Z | CVE-2020-0240 | Null | https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240 | | 
@@ -55,7 +56,6 @@
 | 20220429T08:24:17Z | CVE-2022-29464 | CVE-2022-29464 POC exploit | https://github.com/superzerosec/CVE-2022-29464 | | 
 | 20220429T07:11:51Z | CVE-2021-0393 | Null | https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393 | | 
 | 20220429T06:37:39Z | CVE-2020-0155 | Null | https://github.com/Trinadh465/hardware_nxp_nfc_AOSP10_r33_CVE-2020-0155 | | 
-| 20220429T06:32:35Z | CVE-2021-0313 | Null | https://github.com/Satheesh575555/frameworks_minikin_AOSP10_r33_CVE-2021-0313 | | 
 
 
 # klee on Github 推荐
