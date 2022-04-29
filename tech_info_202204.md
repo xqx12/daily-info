@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T12:15:40Z | Exploit to bypass invisible recaptcha only with HTTP requests. | https://github.com/blaannk/Recaptcha-Invisible-Bypass | 5 | 2| 
 | 20220429T12:10:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2523 | 369| 
 | 20220429T11:23:52Z | React project to exploit all possibilities of react-router-dom making a beautiful dashboard. | https://github.com/jeseduardopi/tp-frontend-backoffice | 0 | 0| 
 | 20220429T11:21:52Z | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | 217 | 60| 
@@ -100,7 +101,6 @@
 | 20220429T10:35:10Z | Software for recording and analyzing inputs during game session (rhythmanalysis) | https://github.com/GamesRythmAnalysis/RnGameDataExploitation | 5 | 0| 
 | 20220429T09:16:51Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1194 | 273| 
 | 20220429T09:05:53Z | A collection of exploits, documents and code I have used for CTFs | https://github.com/WMDA/ctf | 0 | 0| 
-| 20220429T01:38:43Z | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | 2 | 0| 
 
 
 # backdoor on Github 推荐
