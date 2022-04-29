@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220429 | 微软对 Linux D-Bus IPC 机制 Nimbuspwn 本地 root 提权漏洞的分析 | https://www.microsoft.com/security/blog/2022/04/26/microsoft-finds-new-elevation-of-privilege-linux-vulnerability-nimbuspwn/| 
+| 20220429 | FindFunc - 根据汇编指令、Bytes 特征在 IDA Pro 中搜索函数的插件 | https://github.com/FelixBer/FindFunc| 
+| 20220429 | 一些 Google Hacking Dorking Tricks | https://blog.blockmagnates.com/how-to-master-google-hacking-dorking-bd9b6e3d28fa?gi=a6d75777608e| 
+| 20220429 | Bypassing LDAP Channel Binding with StartTLS | https://offsec.almond.consulting/bypassing-ldap-channel-binding-with-starttls.html| 
+| 20220429 | npm 添加 maintainer 没有通知机制，结合 Masquerading 可能诱导开发者出现 “Package Planting” 问题 | https://blog.aquasec.com/npm-package-planting| 
+| 20220429 | 组策略配置 Folder Redirection 实现中的信息泄露、提权漏洞分析（CVE-2021-26887） | http://decoder.cloud/2022/04/27/group-policy-folder-redirection-cve-2021-26887/| 
+| 20220429 | OpenSSF 发起 Package Analysis project 项目，用于从 PyPI、NPM 等包管理器中发现恶意软件 | http://openssf.org/blog/2022/04/28/introducing-package-analysis-scanning-open-source-packages-for-malicious-behavior/| 
+| 20220429 | GitHub 发表安全公告，有攻击者窃取 GitHub 颁发给第三方的 OAuth，从 GitHub 上下载了很多私有 Repo 的数据 | http://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/| 
+| 20220429 | Wiz 研究团队在 Azure 云 PostgreSQL 产品中发现跨账户的越权数据库访问漏洞 | https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/| 
 | 20220428 | Cysource 团队利用 exiftool 漏洞实现 VirusTotal 服务器的 RCE | https://www.cysrc.com/blog/virus-total-blog/| 
 | 20220428 | 浅谈hook攻防 | http://tttang.com/archive/1558/| 
 | 20220427 | 2022 未知之境 腾讯网络安全T-Star高校挑战赛 WriteUp | http://tttang.com/archive/1577/| 
@@ -17,15 +26,6 @@
 | 20220427 | 需要有一种新的漏洞管理方案，替代 CVE 实现在云安全场景中的漏洞管理 | https://threatpost.com/cve-cloud-bug-system/179394/| 
 | 20220427 | go-fuzz 优化实践 | http://blog.trailofbits.com/2022/04/26/improving-the-state-of-go-fuzz/| 
 | 20220427 | Stairwell 安全团队对朝鲜 APT37 组织近期利用 Goldbackdoor 发起攻击的分析报告 | https://threatpost.com/hackers-target-journalists-goldbackdoor/179389/| 
-| 20220427 | 浏览器调试之网络抓包 | https://www.youtube.com/watch?v=ACvjQNl01MA| 
-| 20220427 | Paper Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel，利用符号执行技术，在 Linux 代码仓库中扫描增量代码检测变量未初始化漏洞 | https://github.com/seclab-ucr/IncreLux| 
-| 20220427 | Encrypting our way to SSRF in VMWare Workspace One UEM (CVE-2021-22054) | https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/| 
-| 20220427 | 在内核 eBPF 层面基于机器学习实现 Flow-based IDS | https://arxiv.org/abs/2102.09980| 
-| 20220427 | 利用开源工具分析 Azure AD 环境的攻击面 | http://o365blog.com/talks/ICEIS2022_slides.pdf| 
-| 20220427 | 有研究员公开了一个利用 CVE-2021-30937 漏洞实现 iOS 15.0 - 15.1.1 内核读写的 Exploit | http://github.com/potmdehex/multicast_bytecopy| 
-| 20220427 | Bypass EDR 基于内存分配事件监控的威胁检测 | https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection| 
-| 20220426 | 一份非常详细的渗透测试资料 | https://github.com/xiaoy-sec/Pentest_Note| 
-| 20220426 | KrbRelayUp - 不开启 LDAP signing 的条件下实现域环境提权 | https://github.com/Dec0ne/KrbRelayUp| 
 
 
 # 安全维基 推荐
@@ -46,28 +46,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220429T01:38:43Z | CVE-2021-22204 | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | | 
-| 20220429T00:10:50Z | CVE-2021-44228 | Loops through all Log4j files and remediates CVE-2021-44228 | https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation | | 
-| 20220429T00:00:12Z | CVE-2022-21728 | Null | https://github.com/mwina/CVE-2022-21728-test | | 
-| 20220428T17:00:09Z | CVE-2021-4034 | My research about  CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | | 
-| 20220428T13:16:53Z | CVE-2020-0453 | Null | https://github.com/Trinadh465/packages_apps_Nfc_AOSP10_r33_CVE-2020-0453 | | 
-| 20220428T13:11:23Z | CVE-2021-24507 | Astra Pro Addon < 3.5.2 - Unauthenticated SQL Injection - CVE-2021-24507 | https://github.com/RandomRobbieBF/CVE-2021-24507 | | 
-| 20220428T12:51:01Z | CVE-2022-24449 | Solar Appscreener XXE | https://github.com/jet-pentest/CVE-2022-24449 | | 
-| 20220428T12:15:48Z | CVE-2022-22965 | Null | https://github.com/mariomamo/CVE-2022-22965 | | 
-| 20220428T12:10:49Z | CVE-2021-39706 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706 | | 
-| 20220428T10:27:50Z | CVE-2020-0452 | Null | https://github.com/ShaikUsaf/external_libexif_AOSP10_CVE-2020-0452 | | 
+| 20220429T11:20:57Z | CVE-2021-23841 | Null | https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841 | | 
+| 20220429T11:10:13Z | CVE-2021-0326 | Null | https://github.com/ShaikUsaf/external_wpa_supplicant_8_AOSP10_r33CVE-2021-0326 | | 
+| 20220429T10:32:03Z | CVE-2020-0240 | Null | https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240 | | 
+| 20220429T10:03:38Z | CVE-2022-22965 | Null | https://github.com/Enokiy/spring-RCE-CVE-2022-22965 | | 
+| 20220429T10:02:33Z | CVE-2021-44228 | Loops through all Log4j files and remediates CVE-2021-44228 | https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation | | 
+| 20220429T08:44:44Z | CVE-2021-25837 | Null | https://github.com/iczc/Ethermint-CVE-2021-25837 | | 
+| 20220429T08:24:17Z | CVE-2022-29464 | CVE-2022-29464 POC exploit | https://github.com/superzerosec/CVE-2022-29464 | | 
+| 20220429T07:11:51Z | CVE-2021-0393 | Null | https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393 | | 
+| 20220429T06:37:39Z | CVE-2020-0155 | Null | https://github.com/Trinadh465/hardware_nxp_nfc_AOSP10_r33_CVE-2020-0155 | | 
+| 20220429T06:32:35Z | CVE-2021-0313 | Null | https://github.com/Satheesh575555/frameworks_minikin_AOSP10_r33_CVE-2021-0313 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T11:42:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5948 | 219| 
+| 20220429T10:44:03Z | A repository that hosts the content of the Klee Mains Website as text files that will be formatted on runtime. | https://github.com/KleeMains/Klee | 0 | 0| 
+| 20220429T10:41:19Z | A repository containing static files that serve custom docs for the Klee Mains Website on runtime to GitHub Pages. | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
+| 20220429T09:12:45Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 646 | 35| 
 | 20220429T01:49:21Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 20 | 1| 
-| 20220429T01:45:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5944 | 218| 
-| 20220428T14:24:58Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 640 | 35| 
 | 20220428T10:44:32Z | Tool for approximating number of cycles cortex m4 takes for klee generated testcases | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
 | 20220428T05:00:57Z | Config files for my GitHub profile. | https://github.com/KleeSmith/KleeSmith | 0 | 0| 
-| 20220428T04:54:37Z | The repository hosting the content found in the Klee Mains Website. | https://github.com/KleeMains/Klee | 0 | 0| 
-| 20220428T04:43:53Z | A website for everything Klee related! Work in progress... | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
 | 20220428T02:41:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1959 | 554| 
 | 20220426T13:23:24Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 29| 
 | 20220425T10:10:43Z | External audio preamp board for the RP2A03 | https://github.com/Gumball2415/squeeki-kleen-Audio-FC | 3 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T11:28:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2522 | 369| 
+| 20220429T11:23:52Z | React project to exploit all possibilities of react-router-dom making a beautiful dashboard. | https://github.com/jeseduardopi/tp-frontend-backoffice | 0 | 0| 
+| 20220429T11:21:52Z | 脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。 | https://github.com/codeyso/CodeTest | 217 | 60| 
+| 20220429T11:00:35Z | Null | https://github.com/chrivand/action-kenna-cve-exploits-js | 0 | 0| 
+| 20220429T10:58:37Z | FaceNiff latest  Droidsheep APK zAnti APK DroidJack dSploit APK SpyMax v2  Spynote v6.4. dendroid Andro RAT Hackode  SSHDroid  DroidSheep Guard  ZAnti  APK Inspector  WiFi Kill  AhMyth  cSploit  dSploit  DroidSQLi  DroidBox  SSLStrip  Omnirat  USBCleaver  SpyMax  ARPSpoof  Sploitgen  Goingphishing  Nethunter  Lazysqlmap  Auto Forward – Hacking Version  Highster Mobile   PhoneSpector   DDI Utilities  Orbot  Haven: Keep Watch  Decrypto  Whats Web Scan  WA Toolkit  DriveDroid  PixelKnot: Hidden Messages Masud Rana RAT - Android FUD RAT Androidqf Android-PIN-Bruteforce Rafel-Rat Arbitrium-RAT HosTaGe Ghost Framework apkinspector EvilOperator Android Hacker%s Handbook Hacking-Android-Srinivasa-Rao-Kotipalli-Mohammad-A.-Imran Android Tips, Tricks, Apps & Hacks (vol. 9)  50 Android Hacks  D1T1 - Riley Hassell - Exploiting Androids for Fun and Profit EVOLUTION OF ANDROID EXPLOITS FROM A STATIC ANALYSIS TOOLS PERSPECTIVE Own your Android! Yet Another Universal Root whatscan | https://github.com/tzun4mi/android-hack-pack | 0 | 0| 
+| 20220429T10:44:48Z | Null | https://github.com/zane00/Binary-Exploitation | 0 | 0| 
+| 20220429T10:35:10Z | Software for recording and analyzing inputs during game session (rhythmanalysis) | https://github.com/GamesRythmAnalysis/RnGameDataExploitation | 5 | 0| 
+| 20220429T09:16:51Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1194 | 273| 
+| 20220429T09:05:53Z | A collection of exploits, documents and code I have used for CTFs | https://github.com/WMDA/ctf | 0 | 0| 
 | 20220429T01:38:43Z | Exploit for CVE-2021-22204. | https://github.com/UNICORDev/exploit-CVE-2021-22204 | 2 | 0| 
-| 20220429T00:59:33Z | Open source ROBLOX exploit DLL that uses LuaU (WIP) | https://github.com/clxyify/Catmoon | 1 | 0| 
-| 20220429T00:51:17Z | My way of dealing with exploit bots that attack our WWW servers. | https://github.com/codelyfe/bot-feeder-www | 0 | 0| 
-| 20220429T00:20:14Z | exploits n stuff | https://github.com/CompanionCubeGD/schoolsucks | 1 | 0| 
-| 20220428T22:32:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2674 | 326| 
-| 20220428T21:38:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11050 | 1935| 
-| 20220428T21:03:21Z | Projekt je zameraný na osvojenie si základov softwarových zraniteľností a ich exploitácie. | https://github.com/dmnkSabota/Exploiting | 0 | 0| 
-| 20220428T18:46:34Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Nauhack/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220428T18:45:12Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Nauhack/Hacking-Tools-Pack | 0 | 0| 
-| 20220428T18:37:16Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Saihack0/GH-Hacking-Tool-Kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220429T01:50:02Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 1 | 0| 
+| 20220429T11:09:43Z | uploader+backend+backdoor | https://github.com/joblesshuman/625-proj | 0 | 0| 
+| 20220429T05:04:06Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 2 | 0| 
+| 20220429T04:32:56Z | A backdoor generator for windows and linux | https://github.com/Krushergod/Deadshot | 0 | 0| 
+| 20220429T04:32:25Z | Null | https://github.com/THUYimingLi/BackdoorBox | 43 | 12| 
+| 20220429T04:32:01Z | Protect your GMod server against backdoors. | https://github.com/Xalalau/backdoor-shield | 6 | 0| 
 | 20220428T16:16:25Z | backdoor develop | https://github.com/m3iz/b4ckd00r | 0 | 0| 
 | 20220428T12:50:08Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 38 | 8| 
 | 20220428T10:16:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 461 | 89| 
 | 20220428T00:16:05Z | Null | https://github.com/xjusthaxor/psatir-shell-backdoor | 1 | 0| 
 | 20220428T00:10:02Z | Data-Efficient Backdoor Attacks | https://github.com/xpf/Data-Efficient-Backdoor-Attacks | 4 | 0| 
-| 20220427T21:55:50Z | Null | https://github.com/N3w-elf/auto_create_backdoor | 0 | 0| 
-| 20220427T21:01:13Z | Null | https://github.com/hackintoanetwork/Backdoor | 0 | 0| 
-| 20220427T19:57:28Z | Null | https://github.com/mgalde/MagicBackdoor | 0 | 0| 
-| 20220427T17:49:55Z | Null | https://github.com/spentera/Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220429T11:11:59Z | A plugin for Strapi Headless CMS that provides the ability to add a weighted fuzzy search to any content type. | https://github.com/DomDew/strapi-plugin-fuzzy-search | 1 | 0| 
+| 20220429T09:23:52Z | Tugas Pemrograman 2 - Pengenalan Kecerdasan Buatan | https://github.com/Hilmantm/fuzzy-logic | 0 | 0| 
+| 20220429T09:16:52Z | Null | https://github.com/pranav5454/fuzzy-octo-bassoon | 0 | 0| 
+| 20220429T08:27:01Z | Power | https://github.com/vibhumeh/fuzzy-octo-enigma | 0 | 0| 
+| 20220429T07:36:17Z | Null | https://github.com/e82eric/all_buffers_fuzzy_find | 0 | 0| 
+| 20220429T05:59:25Z | Null | https://github.com/Erkan73/fuzzy-enigma | 0 | 0| 
+| 20220429T05:38:44Z | Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 | https://github.com/gh0stkey/Web-Fuzzing-Box | 1302 | 276| 
 | 20220429T01:53:04Z | D-Bus fuzzer | https://github.com/matusmarhefka/dfuzzer | 23 | 9| 
 | 20220429T01:47:00Z | Null | https://github.com/Claybin/fuzzy-disco | 0 | 0| 
 | 20220429T00:22:13Z | Proyecto de Logica Difusa con Python y librería customizada e importada para evaluación de un sistema automático de una impresora | https://github.com/NickyGon/VoltImpresoraFuzzyLogic | 0 | 0| 
-| 20220428T22:44:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2529 | 164| 
-| 20220428T22:44:20Z | this repository used for every fuzzy logic code or application used in Matlab software environment   | https://github.com/zaidhasso/fuzzy-in-matlab | 0 | 0| 
-| 20220428T20:03:24Z | Classifier of HCV from blood values using fuzzy methods | https://github.com/sates298/HCV-fuzzy-classifier | 0 | 0| 
-| 20220428T19:17:16Z | Config files for my GitHub profile. | https://github.com/PeachyFuzzy/PeachyFuzzy | 0 | 0| 
-| 20220428T19:13:33Z | test | https://github.com/anikait-makkar-tribes/fuzzy-dollop | 0 | 0| 
-| 20220428T18:35:31Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 178 | 25| 
-| 20220428T17:41:26Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 11 | 0| 
 
 
 
