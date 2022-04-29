@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220429T00:10:50Z | CVE-2021-44228 | Loops through all Log4j files and remediates CVE-2021-44228 | https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation | | 
 | 20220429T00:00:12Z | CVE-2022-21728 | Null | https://github.com/mwina/CVE-2022-21728-test | | 
 | 20220428T17:00:09Z | CVE-2021-4034 | My research about  CVE-2021-4034 | https://github.com/antoinenguyen-09/CVE-2021-4034 | | 
 | 20220428T13:16:53Z | CVE-2020-0453 | Null | https://github.com/Trinadh465/packages_apps_Nfc_AOSP10_r33_CVE-2020-0453 | | 
@@ -55,7 +56,6 @@
 | 20220428T12:10:49Z | CVE-2021-39706 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706 | | 
 | 20220428T10:27:50Z | CVE-2020-0452 | Null | https://github.com/ShaikUsaf/external_libexif_AOSP10_CVE-2020-0452 | | 
 | 20220428T10:22:31Z | CVE-2022-29464 | WSO2 RCE (CVE-2022-29464) exploit and writeup. | https://github.com/hakivvi/CVE-2022-29464 | | 
-| 20220428T10:16:42Z | CVE-2021-33034 | Null | https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2021-33034 | | 
 
 
 # klee on Github 推荐
