@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T12:26:02Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 71 | 9| 
 | 20220430T11:44:30Z | Crane Controller Using Fuzzy Logic | https://github.com/jeceeobrero/fuzzylogic-crane | 0 | 0| 
 | 20220430T10:35:22Z | Null | https://github.com/yacinebbt/FuzzFinder | 0 | 0| 
 | 20220430T10:11:05Z | MRS_Fuzzing_Work | https://github.com/GeleiDeng/RAID_2021_MRS_Fuzzing | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220430T06:49:20Z | Null | https://github.com/Sharonlb981/fuzzy-broccoli | 1 | 0| 
 | 20220430T05:44:35Z | Null | https://github.com/cdn-free/fuzzy-octo-broccoli | 0 | 0| 
 | 20220430T01:07:32Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/zhaoths/intel | 0 | 0| 
-| 20220429T22:58:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4099 | 976| 
 
 
 
