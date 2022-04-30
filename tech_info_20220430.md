@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220430T12:23:08Z | Null | https://github.com/cixkd/FacebookExploit | 0 | 0| 
+| 20220430T12:24:12Z | Null | https://github.com/cixkd/FacebookExploit | 0 | 0| 
 | 20220430T12:03:14Z | Codium Algorithm - DOC/Word Exploit Builder , Bypass Windows Defender - Office Exploits 2022 | https://github.com/CodiumTeamm/Codium-Algorithm---DOC-Word-Exploit-Builder-Bypass-Windows-Defender---Office-Exploits-2022 | 0 | 0| 
 | 20220430T12:01:53Z | Codium Algorithm - PDF Exploit Builder , Bypass Windows Defender - Chrome/AcrobatReader FUD | https://github.com/CodiumTeamm/Codium-Algorithm---PDF-Exploit-Builder-Bypass-Windows-Defender---Chrome-AcrobatReader-FUD | 0 | 0| 
 | 20220430T11:11:49Z | Null | https://github.com/apidotmy/Mass-Exploit3r | 0 | 0| 
