@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220430 | 有趣的MISC | https://www.freebuf.com/articles/web/331504.html| 
 | 20220428 | 链上追踪：洗币手法科普之波场 TRON | https://mp.weixin.qq.com/s/xuK94UW1ZNcxwE12qJLutA| 
 | 20220427 | CodeQL进阶知识（Java） | https://mp.weixin.qq.com/s/ZCl9kaMsZLqc74VzErHCGw| 
 | 20220427 | 从源代码的控制流图中学习特性以定位缺陷 | https://mp.weixin.qq.com/s/jzQy2KmCiLmJ_RHaPVc4ew| 
@@ -40,7 +41,6 @@
 | 20220426 | 如何下载YouTube 1080P高清视频 | https://mp.weixin.qq.com/s/-LyVnvLkZhUm3Efc9gvzfg| 
 | 20220426 | JetBrains全家桶最新激活2022篇 | https://mp.weixin.qq.com/s/UpQ2f_F0fhT_k-6EJasNWg| 
 | 20220426 | 截图自动添加水印 | https://mp.weixin.qq.com/s/66a9RbekhD5OoxjP4lk6Og| 
-| 20220426 | xray联动crawlergo自动化扫描爬坑记 | https://mp.weixin.qq.com/s/aJ7UvZmACNSEF1zCrntxow| 
 
 
 # CVE Github 推荐

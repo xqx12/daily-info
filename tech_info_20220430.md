@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220430 | 有趣的MISC | https://www.freebuf.com/articles/web/331504.html| 
 
 
 # CVE Github 推荐
