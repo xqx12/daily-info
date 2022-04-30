@@ -42,6 +42,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T12:03:14Z | Codium Algorithm - DOC/Word Exploit Builder , Bypass Windows Defender - Office Exploits 2022 | https://github.com/CodiumTeamm/Codium-Algorithm---DOC-Word-Exploit-Builder-Bypass-Windows-Defender---Office-Exploits-2022 | 0 | 0| 
+| 20220430T12:01:53Z | Codium Algorithm - PDF Exploit Builder , Bypass Windows Defender - Chrome/AcrobatReader FUD | https://github.com/CodiumTeamm/Codium-Algorithm---PDF-Exploit-Builder-Bypass-Windows-Defender---Chrome-AcrobatReader-FUD | 0 | 0| 
 | 20220430T11:11:49Z | Null | https://github.com/apidotmy/Mass-Exploit3r | 0 | 0| 
 | 20220430T09:45:24Z | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | 0 | 0| 
 | 20220430T08:52:18Z | x86-x64 arch windows shellcodes.  | https://github.com/0xhuesca/x86-x64-Windows-Shellcodes | 0 | 0| 
@@ -50,12 +52,12 @@
 | 20220430T08:05:31Z | Fortnite Internal C++ Hack Esp aimbot Exploits | https://github.com/CaspianRcs/Fortnite-OrangeWare-Source-Full | 3 | 0| 
 | 20220430T01:37:06Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 103 | 22| 
 | 20220430T01:27:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11061 | 1936| 
-| 20220430T00:10:57Z | random exploits i found on gmod | https://github.com/lokachop/random_gm_exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T12:01:39Z | Null | https://github.com/yenil140/IndicaBackdoorScanner | 0 | 0| 
 | 20220430T10:52:41Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 52 | 10| 
 | 20220430T10:11:21Z | Implementation of all the state-of-the-art backdoor attack methods | https://github.com/GuanZihan/Backdoor_Attacks | 0 | 0| 
 | 20220430T09:12:50Z | Backdoor detection in Federated learning with similarity measurement | https://github.com/lsw3130104597/Backdoor_detection | 0 | 0| 
@@ -66,6 +68,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T11:56:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1961 | 554| 
+| 20220430T09:19:54Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1183 | 52| 
+| 20220430T08:18:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2829 | 412| 
 
 
 # big4 on Github 推荐

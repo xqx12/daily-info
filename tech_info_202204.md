@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T12:03:14Z | Codium Algorithm - DOC/Word Exploit Builder , Bypass Windows Defender - Office Exploits 2022 | https://github.com/CodiumTeamm/Codium-Algorithm---DOC-Word-Exploit-Builder-Bypass-Windows-Defender---Office-Exploits-2022 | 0 | 0| 
+| 20220430T12:01:53Z | Codium Algorithm - PDF Exploit Builder , Bypass Windows Defender - Chrome/AcrobatReader FUD | https://github.com/CodiumTeamm/Codium-Algorithm---PDF-Exploit-Builder-Bypass-Windows-Defender---Chrome-AcrobatReader-FUD | 0 | 0| 
 | 20220430T11:11:49Z | Null | https://github.com/apidotmy/Mass-Exploit3r | 0 | 0| 
 | 20220430T09:45:24Z | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | 0 | 0| 
 | 20220430T08:52:18Z | x86-x64 arch windows shellcodes.  | https://github.com/0xhuesca/x86-x64-Windows-Shellcodes | 0 | 0| 
@@ -99,13 +101,12 @@
 | 20220430T08:05:31Z | Fortnite Internal C++ Hack Esp aimbot Exploits | https://github.com/CaspianRcs/Fortnite-OrangeWare-Source-Full | 3 | 0| 
 | 20220430T01:37:06Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 103 | 22| 
 | 20220430T01:27:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11061 | 1936| 
-| 20220430T00:10:57Z | random exploits i found on gmod | https://github.com/lokachop/random_gm_exploits | 0 | 0| 
-| 20220429T22:53:54Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1113 | 395| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T12:01:39Z | Null | https://github.com/yenil140/IndicaBackdoorScanner | 0 | 0| 
 | 20220430T10:52:41Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 52 | 10| 
 | 20220430T10:11:21Z | Implementation of all the state-of-the-art backdoor attack methods | https://github.com/GuanZihan/Backdoor_Attacks | 0 | 0| 
 | 20220430T09:12:50Z | Backdoor detection in Federated learning with similarity measurement | https://github.com/lsw3130104597/Backdoor_detection | 0 | 0| 
@@ -115,22 +116,21 @@
 | 20220429T19:38:48Z | Null | https://github.com/Zan1456/FiveM-Backdoor-Chiper-Stop | 0 | 0| 
 | 20220429T12:12:13Z | Null | https://github.com/THUYimingLi/BackdoorBox | 44 | 12| 
 | 20220429T12:01:39Z | Digispark | https://github.com/VoltoxderEchte/Backdoor | 0 | 0| 
-| 20220429T11:09:43Z | uploader+backend+backdoor | https://github.com/joblesshuman/625-proj | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T11:56:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1961 | 554| 
+| 20220430T09:19:54Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1183 | 52| 
+| 20220430T08:18:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2829 | 412| 
 | 20220429T15:40:20Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 386 | 19| 
 | 20220429T05:12:39Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 55 | 3| 
 | 20220429T00:51:41Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 687 | 73| 
-| 20220428T09:57:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2828 | 411| 
-| 20220428T02:41:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1959 | 554| 
 | 20220426T14:15:31Z | We have to perform the verification of the partial correctness of two algorithms proposing the an invariant formula for both algorithms (both algorithms have while loops, that%s the reason because we%ve to propose an invariant) | https://github.com/marc7666/Verification-of-Programs-with-Hoare-Logic-and-Symbolic-Execution | 0 | 0| 
 | 20220426T14:07:33Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 0 | 0| 
 | 20220426T13:21:10Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 221 | 54| 
 | 20220425T18:58:37Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 65 | 14| 
-| 20220425T17:00:53Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 224 | 15| 
 
 
 # big4 on Github 推荐
