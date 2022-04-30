@@ -43,7 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220430T12:44:44Z | Null | https://github.com/cixkd/USB-Exploit | 0 | 0| 
+| 20220430T12:49:41Z | Null | https://github.com/cixkd/USB-Exploit | 0 | 0| 
 | 20220430T12:33:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11076 | 1939| 
 | 20220430T12:24:12Z | Null | https://github.com/cixkd/FacebookExploit | 0 | 0| 
 | 20220430T12:03:14Z | Codium Algorithm - DOC/Word Exploit Builder , Bypass Windows Defender - Office Exploits 2022 | https://github.com/CodiumTeamm/Codium-Algorithm---DOC-Word-Exploit-Builder-Bypass-Windows-Defender---Office-Exploits-2022 | 0 | 0| 
