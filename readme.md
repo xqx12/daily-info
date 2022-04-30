@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T12:33:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11076 | 1939| 
 | 20220430T12:24:12Z | Null | https://github.com/cixkd/FacebookExploit | 0 | 0| 
 | 20220430T12:03:14Z | Codium Algorithm - DOC/Word Exploit Builder , Bypass Windows Defender - Office Exploits 2022 | https://github.com/CodiumTeamm/Codium-Algorithm---DOC-Word-Exploit-Builder-Bypass-Windows-Defender---Office-Exploits-2022 | 0 | 0| 
 | 20220430T12:01:53Z | Codium Algorithm - PDF Exploit Builder , Bypass Windows Defender - Chrome/AcrobatReader FUD | https://github.com/CodiumTeamm/Codium-Algorithm---PDF-Exploit-Builder-Bypass-Windows-Defender---Chrome-AcrobatReader-FUD | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20220430T08:36:26Z | This repository is dedicated to the vulnserver app exploitation. Each folder contain two files, the final exploit PoC.py and the fuzzing command file. | https://github.com/0xhuesca/vulnserver-app-exploitation | 0 | 0| 
 | 20220430T08:05:33Z | Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can | https://github.com/CaspianRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 3 | 0| 
 | 20220430T08:05:31Z | Fortnite Internal C++ Hack Esp aimbot Exploits | https://github.com/CaspianRcs/Fortnite-OrangeWare-Source-Full | 3 | 0| 
-| 20220430T01:37:06Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 103 | 22| 
 
 
 # backdoor on Github 推荐
