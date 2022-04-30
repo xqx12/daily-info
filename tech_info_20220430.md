@@ -82,7 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220430T12:41:31Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 74 | 9| 
+| 20220430T12:57:10Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 75 | 9| 
 | 20220430T11:44:30Z | Crane Controller Using Fuzzy Logic | https://github.com/jeceeobrero/fuzzylogic-crane | 0 | 0| 
 | 20220430T10:35:22Z | Null | https://github.com/yacinebbt/FuzzFinder | 0 | 0| 
 | 20220430T10:11:05Z | MRS_Fuzzing_Work | https://github.com/GeleiDeng/RAID_2021_MRS_Fuzzing | 0 | 0| 
