@@ -32,6 +32,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220430 | 有趣的MISC | https://www.freebuf.com/articles/web/331504.html| 
+| 20220430 | 回顾 2021 年在野利用的 0day 漏洞 | https://paper.seebug.org/1886/| 
+| 20220430 | Smarty 模板注入与沙箱逃逸 | https://www.anquanke.com/post/id/272393| 
 | 20220428 | 链上追踪：洗币手法科普之波场 TRON | https://mp.weixin.qq.com/s/xuK94UW1ZNcxwE12qJLutA| 
 | 20220427 | CodeQL进阶知识（Java） | https://mp.weixin.qq.com/s/ZCl9kaMsZLqc74VzErHCGw| 
 | 20220427 | 从源代码的控制流图中学习特性以定位缺陷 | https://mp.weixin.qq.com/s/jzQy2KmCiLmJ_RHaPVc4ew| 
@@ -39,13 +41,14 @@
 | 20220427 | 国资委：将网络安全纳入央企负责人经营业绩考核 | http://www.sasac.gov.cn/n2588035/n2588320/n2588335/c10652592/content.html| 
 | 20220426 | 如何还原前端代码 | https://mp.weixin.qq.com/s/ccW8I6ZHBaVWN5ZlDC1ucA| 
 | 20220426 | 如何下载YouTube 1080P高清视频 | https://mp.weixin.qq.com/s/-LyVnvLkZhUm3Efc9gvzfg| 
-| 20220426 | JetBrains全家桶最新激活2022篇 | https://mp.weixin.qq.com/s/UpQ2f_F0fhT_k-6EJasNWg| 
-| 20220426 | 截图自动添加水印 | https://mp.weixin.qq.com/s/66a9RbekhD5OoxjP4lk6Og| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220430T22:24:38Z | CVE-2022-1077 | TEM FLEX-1080/FLEX-1085 1.6.0 log log.cgi Information Disclosure | https://github.com/MrEmpy/CVE-2022-1077 | | 
+| 20220430T16:37:31Z | CVE-2022-29464 | CVE-2022-29464 POC exploit | https://github.com/superzerosec/CVE-2022-29464 | | 
+| 20220430T15:58:17Z | CVE-2022-26809 | This repository contains a PoC for remote code execution CVE-2022-26809 | https://github.com/ZyxelTeam/CVE-2022-26809-RCE | | 
 | 20220430T10:39:27Z | CVE-2022-28508 | CVE-2022-28508 | https://github.com/YavuzSahbaz/CVE-2022-28508 | | 
 | 20220430T09:08:40Z | CVE-2022-29464 | CVE-2022-29464 | https://github.com/UUFR/CVE-2022-29464 | | 
 | 20220430T06:39:07Z | CVE-2020-0381 | Null | https://github.com/Trinadh465/external_sonivox_AOSP10_r33_CVE-2020-0381 | | 
@@ -53,24 +56,21 @@
 | 20220430T05:57:05Z | CVE-2021-0511 | Null | https://github.com/Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511 | | 
 | 20220430T03:42:14Z | CVE-2021-22924 | Null | https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924 | | 
 | 20220430T02:01:09Z | CVE-2022-28099 | SQL injection for Poultry Farm Management System 1.0 | https://github.com/IbrahimEkimIsik/CVE-2022-28099 | | 
-| 20220429T12:38:34Z | CVE-2021-0963 | Null | https://github.com/Trinadh465/packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963 | | 
-| 20220429T11:20:57Z | CVE-2021-23841 | Null | https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841 | | 
-| 20220429T11:10:13Z | CVE-2021-0326 | Null | https://github.com/ShaikUsaf/external_wpa_supplicant_8_AOSP10_r33CVE-2021-0326 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T22:28:08Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 649 | 35| 
+| 20220430T18:26:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5955 | 219| 
+| 20220430T15:00:48Z | Online shop on django | https://github.com/LeonardoBigShot/kleenka | 0 | 0| 
 | 20220430T11:56:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1961 | 554| 
-| 20220430T10:41:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5953 | 219| 
-| 20220430T06:47:09Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 647 | 35| 
 | 20220429T21:26:04Z | This is Team A ( Terrell Crawford, Stan Savelev, Leonel Barrientos, Jarod Heng, Jack Klees, George Bakhoum) | https://github.com/220328-Java-Full-Stack-AWS/Team-A-P2 | 0 | 0| 
 | 20220429T14:10:27Z | A repository containing static files that serve custom docs for the Klee Mains Website on runtime to GitHub Pages. | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
 | 20220429T10:44:03Z | A repository that hosts the content of the Klee Mains Website as text files that will be formatted on runtime. | https://github.com/KleeMains/Klee | 0 | 0| 
 | 20220429T01:49:21Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 20 | 1| 
 | 20220428T10:44:32Z | Tool for approximating number of cycles cortex m4 takes for klee generated testcases | https://github.com/CarlOsterberg/cortex-klee-tools | 0 | 0| 
 | 20220428T05:00:57Z | Config files for my GitHub profile. | https://github.com/KleeSmith/KleeSmith | 0 | 0| 
-| 20220426T13:23:24Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 163 | 29| 
 
 
 # s2e on Github 推荐
@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T23:16:26Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 59 | 11| 
+| 20220430T15:36:40Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
 | 20220430T12:01:39Z | Null | https://github.com/yenil140/IndicaBackdoorScanner | 0 | 0| 
-| 20220430T10:52:41Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 52 | 10| 
 | 20220430T10:11:21Z | Implementation of all the state-of-the-art backdoor attack methods | https://github.com/GuanZihan/Backdoor_Attacks | 0 | 0| 
 | 20220430T09:12:50Z | Backdoor detection in Federated learning with similarity measurement | https://github.com/lsw3130104597/Backdoor_detection | 0 | 0| 
 | 20220430T07:16:41Z | A backdoor generator for windows and linux | https://github.com/Krushergod/Deadshot | 1 | 0| 
+| 20220430T06:16:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 463 | 89| 
 | 20220430T03:01:19Z | Null | https://github.com/ganondori/Backdoor | 0 | 0| 
 | 20220429T19:51:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1584 | 712| 
 | 20220429T19:38:48Z | Null | https://github.com/Zan1456/FiveM-Backdoor-Chiper-Stop | 0 | 0| 
-| 20220429T12:12:13Z | Null | https://github.com/THUYimingLi/BackdoorBox | 44 | 12| 
-| 20220429T12:01:39Z | Digispark | https://github.com/VoltoxderEchte/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T23:21:57Z | Null | https://github.com/sendiagustian/fuzzy-sugeno-kelayakan-makanan | 0 | 0| 
+| 20220430T21:12:04Z | A randomized program fuzzer for the Rust programming language | https://github.com/rustsmith/rustsmith | 3 | 1| 
+| 20220430T18:47:31Z | Null | https://github.com/stromsvag/fuzzy-parakeet | 0 | 0| 
+| 20220430T18:20:19Z | Null | https://github.com/rafaelBauer/riscv-fuzzing | 0 | 0| 
+| 20220430T18:12:02Z | A simple utility to manage multiple fuzzers | https://github.com/Lol3rrr/cfuzz | 0 | 0| 
+| 20220430T17:19:18Z | musl-libc with modifications as a fuzz target | https://github.com/novafacing/libmusl | 0 | 0| 
 | 20220430T12:57:10Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 75 | 9| 
 | 20220430T11:44:30Z | Crane Controller Using Fuzzy Logic | https://github.com/jeceeobrero/fuzzylogic-crane | 0 | 0| 
 | 20220430T10:35:22Z | Null | https://github.com/yacinebbt/FuzzFinder | 0 | 0| 
 | 20220430T10:11:05Z | MRS_Fuzzing_Work | https://github.com/GeleiDeng/RAID_2021_MRS_Fuzzing | 0 | 0| 
-| 20220430T09:56:59Z | Null | https://github.com/Uzuark/fuzzy-lamp | 0 | 0| 
-| 20220430T09:31:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7289 | 1557| 
-| 20220430T08:36:26Z | This repository is dedicated to the vulnserver app exploitation. Each folder contain two files, the final exploit PoC.py and the fuzzing command file. | https://github.com/0xhuesca/vulnserver-app-exploitation | 0 | 0| 
-| 20220430T06:49:20Z | Null | https://github.com/Sharonlb981/fuzzy-broccoli | 1 | 0| 
-| 20220430T05:44:35Z | Null | https://github.com/cdn-free/fuzzy-octo-broccoli | 0 | 0| 
-| 20220430T01:07:32Z | Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL | https://github.com/zhaoths/intel | 0 | 0| 
 
 
 
