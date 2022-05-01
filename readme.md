@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T23:59:15Z | Null | https://github.com/PleasantExploit/PleasantExploit.github.io | 0 | 0| 
+| 20220430T23:43:29Z | Null | https://github.com/OsweRRR/exploit-ZTE-ZXHN-H108N | 0 | 0| 
+| 20220430T23:18:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11081 | 1940| 
+| 20220430T21:13:44Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 140 | 35| 
+| 20220430T20:24:12Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 177 | 32| 
+| 20220430T19:27:43Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Similhack/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220430T18:44:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2681 | 327| 
 | 20220430T12:49:41Z | Null | https://github.com/cixkd/USB-Exploit | 0 | 0| 
-| 20220430T12:33:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11076 | 1939| 
 | 20220430T12:24:12Z | Null | https://github.com/cixkd/FacebookExploit | 0 | 0| 
 | 20220430T12:03:14Z | Codium Algorithm - DOC/Word Exploit Builder , Bypass Windows Defender - Office Exploits 2022 | https://github.com/CodiumTeamm/Codium-Algorithm---DOC-Word-Exploit-Builder-Bypass-Windows-Defender---Office-Exploits-2022 | 0 | 0| 
-| 20220430T12:01:53Z | Codium Algorithm - PDF Exploit Builder , Bypass Windows Defender - Chrome/AcrobatReader FUD | https://github.com/CodiumTeamm/Codium-Algorithm---PDF-Exploit-Builder-Bypass-Windows-Defender---Chrome-AcrobatReader-FUD | 0 | 0| 
-| 20220430T11:11:49Z | Null | https://github.com/apidotmy/Mass-Exploit3r | 0 | 0| 
-| 20220430T09:45:24Z | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | 0 | 0| 
-| 20220430T08:52:18Z | x86-x64 arch windows shellcodes.  | https://github.com/0xhuesca/x86-x64-Windows-Shellcodes | 0 | 0| 
-| 20220430T08:36:26Z | This repository is dedicated to the vulnserver app exploitation. Each folder contain two files, the final exploit PoC.py and the fuzzing command file. | https://github.com/0xhuesca/vulnserver-app-exploitation | 0 | 0| 
-| 20220430T08:05:33Z | Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can | https://github.com/CaspianRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 3 | 0| 
 
 
 # backdoor on Github 推荐
@@ -77,9 +77,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220430T23:05:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2831 | 412| 
+| 20220430T19:06:18Z | Null | https://github.com/SamKouteili/symbolic-execution-engine | 0 | 0| 
 | 20220430T11:56:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1961 | 554| 
 | 20220430T09:19:54Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1183 | 52| 
-| 20220430T08:18:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2829 | 412| 
 
 
 # big4 on Github 推荐
