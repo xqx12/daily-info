@@ -51,6 +51,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220501T12:25:21Z | A python application designed to backdoor USB devices | https://github.com/cixkd/USB-Exploit | 0 | 0| 
 | 20220501T09:31:51Z | Aliasing Backdoor Demos | https://github.com/CassiniHuy/AliasingBackdoor | 0 | 0| 
 | 20220501T08:56:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 464 | 89| 
 | 20220501T05:45:20Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 61 | 11| 
