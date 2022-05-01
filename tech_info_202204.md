@@ -122,7 +122,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220430T23:05:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2831 | 412| 
-| 20220430T19:06:18Z | Null | https://github.com/SamKouteili/symbolic-execution-engine | 0 | 0| 
 | 20220430T11:56:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1961 | 554| 
 | 20220430T09:19:54Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1183 | 52| 
 | 20220429T15:40:20Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 386 | 19| 
@@ -131,6 +130,7 @@
 | 20220426T14:15:31Z | We have to perform the verification of the partial correctness of two algorithms proposing the an invariant formula for both algorithms (both algorithms have while loops, that%s the reason because we%ve to propose an invariant) | https://github.com/marc7666/Verification-of-Programs-with-Hoare-Logic-and-Symbolic-Execution | 0 | 0| 
 | 20220426T14:07:33Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 0 | 0| 
 | 20220426T13:21:10Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 221 | 54| 
+| 20220425T18:58:37Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 65 | 14| 
 
 
 # big4 on Github 推荐
