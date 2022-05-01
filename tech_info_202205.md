@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220501T12:55:19Z | Null | https://github.com/matazanyar057/fuzzy-bassoon | 0 | 0| 
 | 20220501T12:25:44Z | Fuzzer and generator for string and regex problems in SMT-LIB 2.x format. | https://github.com/ameenmohamed8/dblotsky6 | 0 | 0| 
 | 20220501T11:58:15Z | Null | https://github.com/Shubhendu1Ghosh/fuzzy-dollop | 0 | 0| 
 | 20220501T11:39:04Z | perbandingan algoritma Bisecting K-Means dan Fuzzy C-Means | https://github.com/shintaddw/Bisecting-K-Means-vs-Fuzzy-C-Means | 0 | 0| 
