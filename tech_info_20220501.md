@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220501T12:34:01Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11121 | 1941| 
 | 20220501T11:56:34Z | to help with project | https://github.com/amenadiane/template-exploits | 0 | 0| 
 | 20220501T11:27:16Z | An exploiting module for spotify | https://github.com/pix3i/MScriptify | 0 | 0| 
 | 20220501T11:14:34Z | Null | https://github.com/wh0Nsq/ExploitLeakedHandles | 2 | 0| 
@@ -45,7 +46,6 @@
 | 20220501T10:14:18Z | Null | https://github.com/JIAMING-LI/BeanstalkProtocolExploit | 0 | 0| 
 | 20220501T09:47:57Z | Exploit for CVE-2021-36934 | https://github.com/chron1k/oxide_hive | 3 | 0| 
 | 20220501T08:12:27Z | Public Exploit For Roblox | https://github.com/ItzWoozy/Krnl-Roblox-Exploit | 0 | 0| 
-| 20220501T01:52:54Z | Null | https://github.com/BinaryDex/DexHubWeb | 0 | 1| 
 
 
 # backdoor on Github 推荐
