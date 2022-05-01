@@ -64,7 +64,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220430T23:16:26Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 59 | 11| 
 | 20220430T15:36:40Z | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | 0 | 0| 
 | 20220430T12:01:39Z | Null | https://github.com/yenil140/IndicaBackdoorScanner | 0 | 0| 
 | 20220430T10:11:21Z | Implementation of all the state-of-the-art backdoor attack methods | https://github.com/GuanZihan/Backdoor_Attacks | 0 | 0| 
