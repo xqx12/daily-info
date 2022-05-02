@@ -39,9 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220502T12:46:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11362 | 1946| 
 | 20220502T12:35:28Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BF | 0 | 0| 
 | 20220502T12:27:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 397 | 115| 
-| 20220502T11:25:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11361 | 1946| 
 | 20220502T11:10:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2576 | 375| 
 | 20220502T09:25:44Z | Compiler exploits and exploitable non-obvious source code back doors. | https://github.com/chrisssssssss1/K27 | 0 | 0| 
 | 20220502T08:48:17Z | Proof of concept %block withholding attack% on a vanity address generation pay-per-share pool. No known vulnerable po… | https://github.com/keanyuans/exploitagencyp | 0 | 0| 
