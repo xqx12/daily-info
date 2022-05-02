@@ -43,16 +43,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220501T13:14:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11131 | 1941| 
+| 20220501T23:42:43Z | SportPaper fork which aims to be fast, fix exploits and bugs, improve API, and provide better configuration for server administrators | https://github.com/TitanVale/Titanium | 0 | 0| 
+| 20220501T23:41:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2681 | 327| 
+| 20220501T23:08:51Z | A root RCE exploit for Altice UB1322 Gateway | https://github.com/aemmitt-ns/ub1322root | 0 | 0| 
+| 20220501T23:06:24Z | Null | https://github.com/CJMustard1452/CJ-Exploit | 0 | 0| 
+| 20220501T19:59:31Z | Null | https://github.com/Zetolac/FortniteExternalExploits | 0 | 0| 
+| 20220501T19:43:20Z | PynX Roblox Exploit | https://github.com/rhytxm/PynX-Exploit- | 0 | 0| 
+| 20220501T18:42:00Z | A log4j exploit that scans the target filesystem and steals files of interest | https://github.com/TDalton52/590J-Capstone | 0 | 0| 
+| 20220501T18:34:34Z | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | 3 | 0| 
 | 20220501T11:56:34Z | to help with project | https://github.com/amenadiane/template-exploits | 0 | 0| 
 | 20220501T11:27:16Z | An exploiting module for spotify | https://github.com/pix3i/MScriptify | 0 | 0| 
-| 20220501T11:14:34Z | Null | https://github.com/wh0Nsq/ExploitLeakedHandles | 2 | 0| 
-| 20220501T10:33:34Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1 | 1| 
-| 20220501T10:31:34Z | My roblox exploit | https://github.com/NoftN/Asakura-Z | 0 | 0| 
-| 20220501T10:20:44Z | Null | https://github.com/pentestblogin/sql-validation-htb-exploit | 0 | 0| 
-| 20220501T10:14:18Z | Null | https://github.com/JIAMING-LI/BeanstalkProtocolExploit | 0 | 0| 
-| 20220501T09:47:57Z | Exploit for CVE-2021-36934 | https://github.com/chron1k/oxide_hive | 3 | 0| 
-| 20220501T08:12:27Z | Public Exploit For Roblox | https://github.com/ItzWoozy/Krnl-Roblox-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
