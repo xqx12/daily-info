@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220502T00:50:09Z | Null | https://github.com/cdn-free/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20220502T00:28:22Z | fuzz testing jpg2bmp application | https://github.com/rparekh01/fuzz-testing | 0 | 0| 
 | 20220502T00:21:44Z | Null | https://github.com/carolina-velaz/fuzzy-waffle | 0 | 0| 
 | 20220501T23:57:46Z | a fuzzing framwork of hyper-v based on lis and code-coverage. | https://github.com/dr0p1et/hv_fuzzer | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220501T20:43:42Z | Final project for CS 6204, Systems Security Seminar | https://github.com/0xHarrington/Fuzzing-Project | 0 | 0| 
 | 20220501T12:55:19Z | Null | https://github.com/matazanyar057/fuzzy-bassoon | 0 | 0| 
 | 20220501T12:25:44Z | Fuzzer and generator for string and regex problems in SMT-LIB 2.x format. | https://github.com/ameenmohamed8/dblotsky6 | 0 | 0| 
-| 20220501T12:21:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7290 | 1559| 
 
 
 
