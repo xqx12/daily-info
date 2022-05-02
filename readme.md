@@ -16,15 +16,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220501T21:58:31Z | cve-2022-22948 | Resolving the CVE-2022-22948 vulnerability | https://github.com/kaanymz/cve-2022-22948-vcenter | | 
+| 20220501T19:32:13Z | CVE-2022-29464 | CVE-2022-29464 | https://github.com/UUFR/CVE-2022-29464 | | 
+| 20220501T17:16:35Z | CVE-2022-28508 | CVE-2022-28508 | https://github.com/YavuzSahbaz/CVE-2022-28508 | | 
+| 20220501T15:52:42Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | | 
+| 20220501T15:22:17Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | | 
+| 20220501T13:21:04Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
 | 20220501T01:12:47Z | CVE-2021-22204 | Exploit for CVE-2021-22204 (ExifTool) | https://github.com/UNICORDev/exploit-CVE-2021-22204 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220501T14:14:53Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 651 | 36| 
 | 20220501T13:14:06Z | Config files for my GitHub profile. | https://github.com/kleeena/kleeena | 0 | 0| 
 | 20220501T09:32:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5958 | 218| 
-| 20220501T06:48:59Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 650 | 36| 
 | 20220501T03:12:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1962 | 554| 
 
 
@@ -52,10 +58,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220501T23:18:24Z | Simple Socket Listener For Backdoor with Python2 | https://github.com/TasarrufluFare/Simple_Socket_Listener_For_Backdoor | 0 | 0| 
+| 20220501T23:13:08Z | Simple Backdoor Code | https://github.com/TasarrufluFare/Simple_Backdoor | 0 | 0| 
+| 20220501T23:06:58Z | Null | https://github.com/THUYimingLi/BackdoorBox | 45 | 12| 
+| 20220501T20:22:53Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 64 | 12| 
 | 20220501T12:25:21Z | A python application designed to backdoor USB devices | https://github.com/cixkd/USB-Exploit | 0 | 0| 
 | 20220501T09:31:51Z | Aliasing Backdoor Demos | https://github.com/CassiniHuy/AliasingBackdoor | 0 | 0| 
 | 20220501T08:56:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 464 | 89| 
-| 20220501T05:45:20Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 61 | 11| 
 | 20220501T04:32:46Z | Null | https://github.com/HongshengHu/membership-inference-via-backdooring | 0 | 0| 
 | 20220501T00:17:32Z | Null | https://github.com/lpc17/iotBackdoor | 0 | 0| 
 
