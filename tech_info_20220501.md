@@ -49,10 +49,10 @@
 | 20220501T23:06:24Z | Null | https://github.com/CJMustard1452/CJ-Exploit | 0 | 0| 
 | 20220501T19:59:31Z | Null | https://github.com/Zetolac/FortniteExternalExploits | 0 | 0| 
 | 20220501T19:43:20Z | PynX Roblox Exploit | https://github.com/rhytxm/PynX-Exploit- | 0 | 0| 
+| 20220501T19:28:17Z | Null | https://github.com/Societal-Menace/RobloxExploits | 0 | 0| 
 | 20220501T18:42:00Z | A log4j exploit that scans the target filesystem and steals files of interest | https://github.com/TDalton52/590J-Capstone | 0 | 0| 
 | 20220501T18:34:34Z | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | 3 | 0| 
 | 20220501T11:56:34Z | to help with project | https://github.com/amenadiane/template-exploits | 0 | 0| 
-| 20220501T11:27:16Z | An exploiting module for spotify | https://github.com/pix3i/MScriptify | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -61,7 +61,6 @@
 | 20220501T23:18:24Z | Simple Socket Listener For Backdoor with Python2 | https://github.com/TasarrufluFare/Simple_Socket_Listener_For_Backdoor | 0 | 0| 
 | 20220501T23:13:08Z | Simple Backdoor Code | https://github.com/TasarrufluFare/Simple_Backdoor | 0 | 0| 
 | 20220501T23:06:58Z | Null | https://github.com/THUYimingLi/BackdoorBox | 45 | 12| 
-| 20220501T20:22:53Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 64 | 12| 
 | 20220501T12:25:21Z | A python application designed to backdoor USB devices | https://github.com/cixkd/USB-Exploit | 0 | 0| 
 | 20220501T09:31:51Z | Aliasing Backdoor Demos | https://github.com/CassiniHuy/AliasingBackdoor | 0 | 0| 
 | 20220501T08:56:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 464 | 89| 
