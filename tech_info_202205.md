@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220502T12:23:43Z | Clustering using Fuzzy Logic  | https://github.com/anand-w/Fuzzy_C-means-FCM | 0 | 0| 
 | 20220502T11:59:12Z | Clustering using Fuzzy Logic  | https://github.com/anand-w/Fuzzy_C-means-FCM- | 0 | 0| 
 | 20220502T11:05:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7290 | 1559| 
 | 20220502T09:49:10Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1257 | 173| 
@@ -105,7 +106,6 @@
 | 20220502T03:49:54Z | 在openpcdet的框架下加入fuzzy-nms | https://github.com/Jasen-zhao/Fuzzy-NMS-OpenPCDet-ING-2022-3 | 0 | 0| 
 | 20220502T02:06:49Z | Null | https://github.com/sixplusgroup/fuzz4microservice | 1 | 0| 
 | 20220502T00:50:09Z | Null | https://github.com/cdn-free/fuzzy-octo-rotary-phone | 0 | 0| 
-| 20220502T00:28:22Z | fuzz testing jpg2bmp application | https://github.com/rparekh01/fuzz-testing | 0 | 0| 
 
 
 
