@@ -81,21 +81,22 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220501T15:02:30Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220501T23:57:46Z | a fuzzing framwork of hyper-v based on lis and code-coverage. | https://github.com/dr0p1et/hv_fuzzer | 0 | 0| 
+| 20220501T22:44:40Z | Null | https://github.com/hosamation/Programming-Foundations-Fuzzy-Logic | 0 | 0| 
+| 20220501T22:05:23Z | A differential testing tool targeting SPIRV based on structured fuzzing techniques | https://github.com/rayanht/SPIRVSmith | 11 | 1| 
+| 20220501T21:34:24Z | Null | https://github.com/wata00913/ExcelFuzzySearcher | 0 | 0| 
+| 20220501T20:43:42Z | Final project for CS 6204, Systems Security Seminar | https://github.com/0xHarrington/Fuzzing-Project | 0 | 0| 
 | 20220501T12:55:19Z | Null | https://github.com/matazanyar057/fuzzy-bassoon | 0 | 0| 
 | 20220501T12:25:44Z | Fuzzer and generator for string and regex problems in SMT-LIB 2.x format. | https://github.com/ameenmohamed8/dblotsky6 | 0 | 0| 
+| 20220501T12:21:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7290 | 1559| 
 | 20220501T11:58:15Z | Null | https://github.com/Shubhendu1Ghosh/fuzzy-dollop | 0 | 0| 
 | 20220501T11:39:04Z | perbandingan algoritma Bisecting K-Means dan Fuzzy C-Means | https://github.com/shintaddw/Bisecting-K-Means-vs-Fuzzy-C-Means | 0 | 0| 
-| 20220501T11:35:45Z | Null | https://github.com/Cat-catcat/fuzzy | 0 | 0| 
-| 20220501T11:08:01Z | My python 3.9 fuzzy logic lib. | https://github.com/SniffSpoof/Python_FuzzyLogic | 0 | 0| 
-| 20220501T11:01:38Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy-rotary-phone | 1 | 0| 
-| 20220501T04:15:33Z | 在openpcdet的框架下加入fuzzy-nms | https://github.com/Jasen-zhao/Fuzzy-NMS-OpenPCDet-ING-2022-3 | 0 | 0| 
-| 20220501T00:26:28Z | Simple HTML list of To Do tasks made with vanilla javascript | https://github.com/banzaman/fuzzy-parakeet.todo.github.io | 0 | 0| 
-| 20220501T00:26:13Z | Simple HTML list of To Do tasks made with vanilla javascript | https://github.com/banzaman/fuzzy-parakeet.todo | 0 | 0| 
 
 
 
