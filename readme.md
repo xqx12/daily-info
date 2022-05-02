@@ -60,6 +60,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220502T09:48:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2834 | 411| 
+| 20220502T08:55:39Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 56 | 3| 
+| 20220502T03:15:30Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1184 | 52| 
 
 
 # big4 on Github 推荐
