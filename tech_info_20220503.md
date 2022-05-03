@@ -54,8 +54,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220503T12:21:13Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 70 | 12| 
 | 20220503T12:04:05Z | Null | https://github.com/THUYimingLi/BackdoorBox | 46 | 12| 
-| 20220503T10:00:11Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 69 | 12| 
 | 20220503T08:10:48Z | Backdoor written in Python3 for study and learning | https://github.com/pepelibiston/Python-Backdoor | 0 | 0| 
 | 20220503T06:04:54Z | Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code ! | https://github.com/cryptoscem/nft-drainer-with-fake-mint | 0 | 0| 
 | 20220503T00:56:06Z | a python reverse backdoor with compatible python listener | https://github.com/Chris1871/Reverse-Backdoor-Shell | 0 | 0| 
@@ -77,6 +77,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220503T12:23:50Z | Null | https://github.com/HazemBZ/PDF_Fuzz | 0 | 0| 
+| 20220503T12:22:48Z | Null | https://github.com/ShreyasTheOne/FuzzFramework | 0 | 0| 
 | 20220503T11:04:26Z | Code for the paper %An Effective Dimension– and Correlation-based Fuzzy C-Means Method for Imputing Incomplete Data% | https://github.com/ray10506/DC-fuzzy-cmeans | 0 | 0| 
 | 20220503T10:24:20Z | An NLP-based fuzzing assistance tool | https://github.com/CarpetFuzz/CarpetFuzz | 0 | 0| 
 | 20220503T10:22:11Z | Null | https://github.com/kingznqueenz/fuzzy-octo-spoon | 1 | 0| 
