@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220503T01:11:56Z | CVE-2022-24707 | PoC of CVE-2022-24707 | https://github.com/Altelus1/CVE-2022-24707 | | 
 | 20220502T18:38:54Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
 | 20220502T16:53:26Z | CVE-2021-44228 | Null | https://github.com/Willian-2-0-0-1/Log4j-Exploit-CVE-2021-44228 | | 
 | 20220502T07:14:13Z | CVE-2022- | TOTOLINK A800R/A810R/A830R/A950RG/A3000RU/A3100R setUpgradeFW FileName command injection | https://github.com/ExploitPwner/Totolink-CVE-2022-Exploits | | 
@@ -27,7 +28,6 @@
 | 20220501T17:16:35Z | CVE-2022-28508 | CVE-2022-28508 | https://github.com/YavuzSahbaz/CVE-2022-28508 | | 
 | 20220501T15:52:42Z | 未知编号 | Null | https://github.com/haerin7427/CVE_2020_1938 | | 
 | 20220501T15:22:17Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | | 
-| 20220501T01:12:47Z | CVE-2021-22204 | Exploit for CVE-2021-22204 (ExifTool) | https://github.com/UNICORDev/exploit-CVE-2021-22204 | | 
 
 
 # klee on Github 推荐
