@@ -66,6 +66,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220503T00:46:19Z | a python reverse backdoor with compatible python listener | https://github.com/Chris1871/Reverse-Backdoor-Shell | 0 | 0| 
 | 20220502T22:34:40Z | Null | https://github.com/EssEnemiGz/EssBackdoor | 0 | 0| 
 | 20220502T21:50:36Z | Simple Backdoor (Able To Run With Python3) | https://github.com/TasarrufluFare/Simple_Backdoor_Python3 | 0 | 0| 
 | 20220502T21:49:24Z | Socket Listener For Backdor (Able To Run With Py3) | https://github.com/TasarrufluFare/Socket_Listener_For_Backdoor_Python3 | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20220501T23:18:24Z | Simple Socket Listener For Backdoor with Python2 | https://github.com/TasarrufluFare/Simple_Socket_Listener_For_Backdoor | 0 | 0| 
 | 20220501T23:13:08Z | Simple Backdoor Code | https://github.com/TasarrufluFare/Simple_Backdoor | 0 | 0| 
 | 20220501T23:06:58Z | Null | https://github.com/THUYimingLi/BackdoorBox | 45 | 12| 
-| 20220501T12:25:21Z | A python application designed to backdoor USB devices | https://github.com/cixkd/USB-Exploit | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
