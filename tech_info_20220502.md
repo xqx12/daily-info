@@ -45,13 +45,13 @@
 | 20220502T23:20:04Z | Null | https://github.com/abdulsamijay/Rari-Capital-Exploit-POC | 0 | 0| 
 | 20220502T20:37:27Z | a roblox exploits that is still underdevelopment  | https://github.com/god12l/Exploits-executor | 0 | 0| 
 | 20220502T19:47:01Z | for lunar exploit auto updates | https://github.com/hahaseila/lunar-exploit-database | 0 | 0| 
+| 20220502T19:06:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2683 | 327| 
 | 20220502T18:06:00Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 450 | 21| 
 | 20220502T12:55:15Z | Null | https://github.com/zshorvath/edr_exploit_test | 0 | 0| 
 | 20220502T12:48:14Z | Exploit Prediction Scoring System (EPSS) | https://github.com/FIRSTdotorg/epss | 0 | 0| 
 | 20220502T12:35:28Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BF | 0 | 0| 
 | 20220502T12:27:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 397 | 115| 
 | 20220502T11:10:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2576 | 375| 
-| 20220502T10:15:40Z | My research into taking advantage of ExFreePool primitives. | https://github.com/Exploitables/ExFreePool-Vulnerability | 3 | 1| 
 
 
 # backdoor on Github 推荐
