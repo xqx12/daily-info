@@ -70,7 +70,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220502T23:13:28Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1183 | 52| 
 | 20220502T15:16:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1963 | 554| 
-| 20220502T09:48:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2834 | 411| 
 | 20220502T08:55:39Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 56 | 3| 
 
 
