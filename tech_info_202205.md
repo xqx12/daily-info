@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220503T12:38:12Z | Google Chrome Use After Free | https://github.com/forrest-orr/WizardOpium | 3 | 0| 
+| 20220503T12:40:54Z | Google Chrome Use After Free | https://github.com/forrest-orr/WizardOpium | 4 | 1| 
 | 20220503T12:26:09Z | A tool for people who don%t trust services to be able to check a password without a buffer overflow exploit. | https://github.com/Moosfet/bouncer | 0 | 0| 
 | 20220503T12:04:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11406 | 1951| 
 | 20220503T11:53:46Z | With the determination of fully exploiting the show, I went back through the display rooms, and discovered these naughty adaptations to the wall labels and doodle figures sporting around humble corners. One has to look closely to notice the black little doodle men swinging under the letter ‘A’ in Marcel Dzama’s name or the men pulling apart the bottom parts of ‘p’ and ‘e’ in the word ‘transparent’ in a paragraph introducing the works by Aya Takano. | https://github.com/simonisett/courtauldian | 0 | 0| 
