@@ -51,8 +51,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220503T00:56:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11388 | 1950| 
 | 20220503T00:49:20Z | Ahahaa | https://github.com/Exploited94/Exploited | 0 | 0| 
-| 20220503T00:27:03Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11387 | 1950| 
 | 20220502T23:20:04Z | Null | https://github.com/abdulsamijay/Rari-Capital-Exploit-POC | 0 | 0| 
 | 20220502T20:37:27Z | a roblox exploits that is still underdevelopment  | https://github.com/god12l/Exploits-executor | 0 | 0| 
 | 20220502T19:47:01Z | for lunar exploit auto updates | https://github.com/hahaseila/lunar-exploit-database | 0 | 0| 
@@ -66,7 +66,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220503T00:46:19Z | a python reverse backdoor with compatible python listener | https://github.com/Chris1871/Reverse-Backdoor-Shell | 0 | 0| 
+| 20220503T00:56:06Z | a python reverse backdoor with compatible python listener | https://github.com/Chris1871/Reverse-Backdoor-Shell | 0 | 0| 
 | 20220502T22:34:40Z | Null | https://github.com/EssEnemiGz/EssBackdoor | 0 | 0| 
 | 20220502T21:50:36Z | Simple Backdoor (Able To Run With Python3) | https://github.com/TasarrufluFare/Simple_Backdoor_Python3 | 0 | 0| 
 | 20220502T21:49:24Z | Socket Listener For Backdor (Able To Run With Py3) | https://github.com/TasarrufluFare/Socket_Listener_For_Backdoor_Python3 | 0 | 0| 
