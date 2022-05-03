@@ -26,7 +26,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220503T11:13:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5969 | 218| 
+| 20220503T12:38:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5970 | 218| 
 | 20220503T08:47:32Z | Repo de stockage de la documentation de Klee-contrib | https://github.com/klee-contrib/.github | 0 | 0| 
 
 
@@ -39,8 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220503T12:38:12Z | Google Chrome Use After Free | https://github.com/forrest-orr/WizardOpium | 3 | 0| 
 | 20220503T12:26:09Z | A tool for people who don%t trust services to be able to check a password without a buffer overflow exploit. | https://github.com/Moosfet/bouncer | 0 | 0| 
-| 20220503T12:11:13Z | Google Chrome Use After Free | https://github.com/forrest-orr/WizardOpium | 2 | 0| 
+| 20220503T12:04:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11406 | 1951| 
 | 20220503T11:53:46Z | With the determination of fully exploiting the show, I went back through the display rooms, and discovered these naughty adaptations to the wall labels and doodle figures sporting around humble corners. One has to look closely to notice the black little doodle men swinging under the letter ‘A’ in Marcel Dzama’s name or the men pulling apart the bottom parts of ‘p’ and ‘e’ in the word ‘transparent’ in a paragraph introducing the works by Aya Takano. | https://github.com/simonisett/courtauldian | 0 | 0| 
 | 20220503T11:49:01Z | Exploitation d%une API TMDB  | https://github.com/Etienne-Devillers/tmdb2 | 0 | 0| 
 | 20220503T11:28:04Z | Null | https://github.com/BredzioCode/exploitfiverr | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20220503T06:41:48Z | Null | https://github.com/dthibau/jbpm-exploit | 0 | 0| 
 | 20220503T05:49:42Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 46 | 3| 
 | 20220503T01:51:07Z | Null | https://github.com/codingcore1/-SILENT-PDF-EXPLOIT-CLEAN- | 0 | 0| 
-| 20220503T00:56:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11388 | 1950| 
 
 
 # backdoor on Github 推荐
