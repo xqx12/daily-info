@@ -88,12 +88,12 @@
 | 20220502T23:31:50Z | Null | https://github.com/nerveharp/contact-store-fuzzy | 0 | 0| 
 | 20220502T23:08:49Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 347 | 61| 
 | 20220502T23:03:00Z | Null | https://github.com/NikoT22/fuzzy-spork | 0 | 0| 
-| 20220502T22:53:08Z | Null | https://github.com/familyfriendlymikey/fuzzyhome | 0 | 0| 
 | 20220502T22:26:33Z | a fuzzy waddle muddle wacky tacky | https://github.com/SaschaY/fuzzy-waddle | 0 | 0| 
 | 20220502T22:03:08Z | Null | https://github.com/FuzzballCoding/fuzzballcoding.github.io | 0 | 0| 
 | 20220502T21:12:58Z | Null | https://github.com/AxelFuzzi/tienda-hardware-tercera-entrega-fuzzi | 0 | 0| 
 | 20220502T20:40:29Z | Null | https://github.com/tigeryst/strings-fuzz | 0 | 0| 
 | 20220502T20:00:52Z | Sistema fuzzy arduino creato per il parziale di Intelligenza Artificiale | https://github.com/bighands2304/Fuzzy-esonero-IA | 0 | 0| 
+| 20220502T18:13:06Z | A model-based API Fuzzer for SMT Solvers. | https://github.com/murxla/murxla | 3 | 0| 
 
 
 
