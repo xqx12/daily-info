@@ -39,9 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220503T12:11:13Z | Google Chrome Use After Free | https://github.com/forrest-orr/WizardOpium | 2 | 0| 
 | 20220503T11:53:46Z | With the determination of fully exploiting the show, I went back through the display rooms, and discovered these naughty adaptations to the wall labels and doodle figures sporting around humble corners. One has to look closely to notice the black little doodle men swinging under the letter ‘A’ in Marcel Dzama’s name or the men pulling apart the bottom parts of ‘p’ and ‘e’ in the word ‘transparent’ in a paragraph introducing the works by Aya Takano. | https://github.com/simonisett/courtauldian | 0 | 0| 
 | 20220503T11:49:01Z | Exploitation d%une API TMDB  | https://github.com/Etienne-Devillers/tmdb2 | 0 | 0| 
-| 20220503T11:36:51Z | Google Chrome Use After Free | https://github.com/forrest-orr/WizardOpium | 1 | 0| 
 | 20220503T11:28:04Z | Null | https://github.com/BredzioCode/exploitfiverr | 0 | 0| 
 | 20220503T11:24:41Z | A tool for people who don%t trust services to be able to check a password without a buffer overflow exploit. | https://github.com/Moosfet/bouncer | 0 | 0| 
 | 20220503T07:28:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2684 | 327| 
