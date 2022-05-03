@@ -18,6 +18,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220502T18:38:54Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
+| 20220502T16:53:26Z | CVE-2021-44228 | Null | https://github.com/Willian-2-0-0-1/Log4j-Exploit-CVE-2021-44228 | | 
 | 20220502T07:14:13Z | CVE-2022- | TOTOLINK A800R/A810R/A830R/A950RG/A3000RU/A3100R setUpgradeFW FileName command injection | https://github.com/ExploitPwner/Totolink-CVE-2022-Exploits | | 
 | 20220502T06:42:03Z | CVE-2021-20038 | CVE-2021-20038 multithreaded Mass Scanner and Exploiter tool. SonicWall SMA-100 Unauth RCE Exploit | https://github.com/ExploitPwner/CVE-2021-20038-Mass-RCE-SonicWall | | 
 
@@ -25,38 +27,43 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220502T17:32:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5964 | 218| 
+| 20220502T15:16:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1963 | 554| 
 | 20220502T07:14:14Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 653 | 36| 
-| 20220502T06:14:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 5961 | 218| 
 | 20220502T04:30:33Z | Evaluate the similarities and differences in your objects | https://github.com/saturnflyer/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220502T21:17:55Z | Null | https://github.com/Buttermint69/S2EF | 0 | 0| 
 | 20220502T07:59:22Z | 🐚 CRAX++: Modular exploit generator using concolic execution | https://github.com/SQLab/CRAXplusplus | 45 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220502T23:30:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11386 | 1950| 
+| 20220502T23:20:04Z | Null | https://github.com/abdulsamijay/Rari-Capital-Exploit-POC | 0 | 0| 
+| 20220502T20:37:27Z | a roblox exploits that is still underdevelopment  | https://github.com/god12l/Exploits-executor | 0 | 0| 
+| 20220502T19:47:01Z | for lunar exploit auto updates | https://github.com/hahaseila/lunar-exploit-database | 0 | 0| 
+| 20220502T18:06:00Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 450 | 21| 
 | 20220502T12:55:15Z | Null | https://github.com/zshorvath/edr_exploit_test | 0 | 0| 
 | 20220502T12:48:14Z | Exploit Prediction Scoring System (EPSS) | https://github.com/FIRSTdotorg/epss | 0 | 0| 
-| 20220502T12:46:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11362 | 1946| 
 | 20220502T12:35:28Z | We are classifying software bugs and weaknesses to allow precise descriptions of vulnerabilities that exploit them. | https://github.com/ibojanova/BF | 0 | 0| 
 | 20220502T12:27:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 397 | 115| 
 | 20220502T11:10:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2576 | 375| 
-| 20220502T09:25:44Z | Compiler exploits and exploitable non-obvious source code back doors. | https://github.com/chrisssssssss1/K27 | 0 | 0| 
-| 20220502T08:48:17Z | Proof of concept %block withholding attack% on a vanity address generation pay-per-share pool. No known vulnerable po… | https://github.com/keanyuans/exploitagencyp | 0 | 0| 
-| 20220502T08:35:44Z | This is the repo of the %Exploration and Exploitation in Learning Systems% course given at the Technion by Ron Meir. | https://github.com/TKratter/ee048843 | 0 | 0| 
-| 20220502T01:32:40Z | Cipher is a paid cheat client that attacks servers on fivem by sharing / injecting mallicious code into servers to provide a backdoor for cheaters to remote access servers. It accomplishes this by using exploits found in outdated scripts and also sometimes found packaged in leaked paid resources being distributed online. The Cipher cheat features a web panel which allows downloading, editing, uploading and executing remotely anything the hacker wants since they effectively have remote access to the server provided the server is infected. This github repo was made to provide support for servers which are being attacked by this backdoor and provide steps to removing it. We hope that CFX takes action to ensure that this kind of back door is prevented / stopped. Language translations were generated by DeepL. If you are a customer of Cipher, we suggest getting a refund and removing any traces of it as you are putting yourself at the greatest risk. | https://github.com/K3YOMI/FiveM-Cipher-Documentation | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220502T04:00:27Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 66 | 12| 
+| 20220502T22:34:40Z | Null | https://github.com/EssEnemiGz/EssBackdoor | 0 | 0| 
+| 20220502T21:50:36Z | Simple Backdoor (Able To Run With Python3) | https://github.com/TasarrufluFare/Simple_Backdoor_Python3 | 0 | 0| 
+| 20220502T21:49:24Z | Socket Listener For Backdor (Able To Run With Py3) | https://github.com/TasarrufluFare/Socket_Listener_For_Backdoor_Python3 | 0 | 0| 
+| 20220502T21:30:32Z | Windows Persistance Backdoor (Over administrative shares) | https://github.com/enseitankado/natural_backdoor | 1 | 0| 
+| 20220502T20:56:52Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 68 | 12| 
 | 20220502T01:32:40Z | Cipher is a paid cheat client that attacks servers on fivem by sharing / injecting mallicious code into servers to provide a backdoor for cheaters to remote access servers. It accomplishes this by using exploits found in outdated scripts and also sometimes found packaged in leaked paid resources being distributed online. The Cipher cheat features a web panel which allows downloading, editing, uploading and executing remotely anything the hacker wants since they effectively have remote access to the server provided the server is infected. This github repo was made to provide support for servers which are being attacked by this backdoor and provide steps to removing it. We hope that CFX takes action to ensure that this kind of back door is prevented / stopped. Language translations were generated by DeepL. If you are a customer of Cipher, we suggest getting a refund and removing any traces of it as you are putting yourself at the greatest risk. | https://github.com/K3YOMI/FiveM-Cipher-Documentation | 2 | 0| 
-| 20220502T01:02:08Z | Null | https://github.com/EssEnemiGz/EssBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -75,16 +82,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220502T12:50:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7290 | 1559| 
-| 20220502T12:25:02Z | Null | https://github.com/SagarVeerkar/fuzzy-octo-guacamole | 0 | 0| 
-| 20220502T12:23:43Z | Clustering using Fuzzy Logic  | https://github.com/anand-w/Fuzzy_C-means-FCM | 0 | 0| 
-| 20220502T11:59:12Z | Clustering using Fuzzy Logic  | https://github.com/anand-w/Fuzzy_C-means-FCM- | 0 | 0| 
-| 20220502T09:49:10Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1257 | 173| 
-| 20220502T09:24:34Z | Null | https://github.com/zria37/fuzzy_mamdani | 0 | 0| 
-| 20220502T09:05:35Z | Null | https://github.com/dderosa-ddr/fuzzy-funicular | 0 | 0| 
-| 20220502T08:46:08Z | Null | https://github.com/cristina-ticala/Fuzzy_image_edge_detection_ACO | 0 | 0| 
-| 20220502T03:49:54Z | 在openpcdet的框架下加入fuzzy-nms | https://github.com/Jasen-zhao/Fuzzy-NMS-OpenPCDet-ING-2022-3 | 0 | 0| 
-| 20220502T02:06:49Z | Null | https://github.com/sixplusgroup/fuzz4microservice | 1 | 0| 
+| 20220502T23:56:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7290 | 1560| 
+| 20220502T23:31:50Z | Null | https://github.com/nerveharp/contact-store-fuzzy | 0 | 0| 
+| 20220502T23:08:49Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 347 | 61| 
+| 20220502T23:03:00Z | Null | https://github.com/NikoT22/fuzzy-spork | 0 | 0| 
+| 20220502T22:53:08Z | Null | https://github.com/familyfriendlymikey/fuzzyhome | 0 | 0| 
+| 20220502T22:26:33Z | a fuzzy waddle muddle wacky tacky | https://github.com/SaschaY/fuzzy-waddle | 0 | 0| 
+| 20220502T22:03:08Z | Null | https://github.com/FuzzballCoding/fuzzballcoding.github.io | 0 | 0| 
+| 20220502T21:12:58Z | Null | https://github.com/AxelFuzzi/tienda-hardware-tercera-entrega-fuzzi | 0 | 0| 
+| 20220502T20:40:29Z | Null | https://github.com/tigeryst/strings-fuzz | 0 | 0| 
+| 20220502T20:00:52Z | Sistema fuzzy arduino creato per il parziale di Intelligenza Artificiale | https://github.com/bighands2304/Fuzzy-esonero-IA | 0 | 0| 
 
 
 
