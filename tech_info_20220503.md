@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220503T12:38:06Z | Null | https://github.com/OsarumwensePeace/tribute-fuzzlogin | 0 | 0| 
 | 20220503T12:23:50Z | Null | https://github.com/HazemBZ/PDF_Fuzz | 0 | 0| 
 | 20220503T12:22:48Z | Null | https://github.com/ShreyasTheOne/FuzzFramework | 0 | 0| 
 | 20220503T11:04:26Z | Code for the paper %An Effective Dimension– and Correlation-based Fuzzy C-Means Method for Imputing Incomplete Data% | https://github.com/ray10506/DC-fuzzy-cmeans | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20220503T09:04:43Z | A MATLAB program that allows one to use fuzzy clustering to infer clusters from raw datasets | https://github.com/Vaitrix/Fuzzy-Clustering | 0 | 0| 
 | 20220503T08:53:06Z | Guru05 dump | https://github.com/Ehiz05/fuzzy-sunnyp | 0 | 0| 
 | 20220503T01:02:07Z | Python library to compute a fuzzy time difference. | https://github.com/hXtreme/fuzzy_delta_time | 0 | 0| 
-| 20220503T00:29:47Z | Null | https://github.com/theonmd/fuzzy-search | 0 | 0| 
 
 
 
