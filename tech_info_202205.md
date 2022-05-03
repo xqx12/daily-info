@@ -112,7 +112,7 @@
 | 20220503T09:21:20Z | A new-tab page hosted on github pages that lets you fuzzy find links and quickly navigate to the top result. | https://github.com/familyfriendlymikey/fuzzyhome | 2 | 0| 
 | 20220503T09:04:43Z | A MATLAB program that allows one to use fuzzy clustering to infer clusters from raw datasets | https://github.com/Vaitrix/Fuzzy-Clustering | 0 | 0| 
 | 20220503T08:53:06Z | Guru05 dump | https://github.com/Ehiz05/fuzzy-sunnyp | 0 | 0| 
-| 20220503T01:02:07Z | Python library to compute a fuzzy time difference. | https://github.com/hXtreme/fuzzy_delta_time | 0 | 0| 
+| 20220503T04:22:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4105 | 978| 
 
 
 
