@@ -74,7 +74,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220503T15:16:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2836 | 411| 
 | 20220503T15:10:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1964 | 554| 
 | 20220503T13:45:28Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 46 | 3| 
 
