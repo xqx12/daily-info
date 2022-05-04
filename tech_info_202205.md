@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220504T12:28:50Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 175 | 18| 
 | 20220504T12:14:18Z | Some of my created fuzzy systems in master degree | https://github.com/enrocha0312/Sistemas_Fuzzy | 0 | 0| 
 | 20220504T10:54:16Z | Genetic algorithm to solve flexible job shop scheduling with fuzzy processing time | https://github.com/Aihong-Sun/Fuzzy_processing_time_FJSP | 0 | 0| 
 | 20220504T10:53:53Z | Null | https://github.com/zain-rehan/fuzzy-telegram | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20220504T08:46:38Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 15 | 1| 
 | 20220504T08:40:43Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 106 | 11| 
 | 20220504T08:31:46Z | vulnerable apps for fuzz testing | https://github.com/gardatech/fuzzme | 0 | 0| 
-| 20220504T06:15:56Z | Learning how to use Jazzer to perform fuzzing tests with the Log4j Library | https://github.com/Superachi/FuzzyLogic | 0 | 0| 
 
 
 
