@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220504T00:47:06Z | A cross platform, rust implementation for the Tegra X1 bootROM exploit  | https://github.com/budde25/switcheroo | 0 | 0| 
 | 20220503T23:46:28Z | Nonlinear Marine Predator Algorithm (NMPA) NMPA an influential attempt to identify and alleviate some of the issues with the recently proposed optimization technique called the Marine Predator Algorithm (MPA). With a visual investigation of its exploratory and exploitative behavior, it is observed that the transition of search from being global to local can be further improved. As an extremely cost-effective method, a set of nonlinear functions is used to change the search patterns of the MPA algorithm. The proposed algorithm is called Nonlinear Marin Predator Algorithm (NMPA) is tested on a set of benchmark functions. A comprehensive comparative study shows the superiority of the proposed method compared to the original MPA and even other recent meta-heuristics. The paper also considers solving a real-world case study around power allocation in non-orthogonal multiple access (NOMA) and visible light communications (VLC) for Beyond 5G (B5G) networks to showcase the applicability of the NMPA algorithm. NMPA algorithm shows its superiority in solving a wide range of benchmark functions as well as obtaining fair power allocation for multiple users in NOMA-VLC-B5G systems compared with the state-of-the-art algorithms.  In case you can%t access the paper, please email me on ali.sadiq@wlv.ac.uk or alisafa09@gmail.com and I will get back to you soon. | https://github.com/alisafaa12/nmpa | 0 | 0| 
 | 20220503T23:41:43Z | Repositorio totalmente funcional y con funciones realmente asombrosas y nuevas que están relacionadas con @MadKaos  | https://github.com/MadKaosExploits/Exploits-utiles | 0 | 0| 
 | 20220503T23:18:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11417 | 1952| 
@@ -67,7 +68,6 @@
 | 20220503T21:47:31Z | PoC + vulnerability details for CVE-2022-25262 / JetBrains Hub single-click SAML response takeover | https://github.com/yuriisanin/CVE-2022-25262 | 0 | 0| 
 | 20220503T21:21:31Z | Evaluation of Python packages for security vulnerabilities and exploitation | https://github.com/pawodyk/SV4PP | 0 | 0| 
 | 20220503T12:56:43Z | Google Chrome Use After Free | https://github.com/forrest-orr/WizardOpium | 6 | 1| 
-| 20220503T12:26:09Z | A tool for people who don%t trust services to be able to check a password without a buffer overflow exploit. | https://github.com/Moosfet/bouncer | 0 | 0| 
 
 
 # backdoor on Github 推荐
