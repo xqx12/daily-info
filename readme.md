@@ -38,11 +38,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220504T12:54:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11428 | 1953| 
 | 20220504T12:40:46Z | Config files for my GitHub profile. | https://github.com/exploitation-io/exploitation-io | 0 | 0| 
 | 20220504T11:45:23Z | Set of my own useful Tools, Scripts, Vulnerabilities, Exploits and Reports | https://github.com/danielcunn123/Security | 0 | 0| 
 | 20220504T11:16:49Z | Avon%s Script hub that consist of Lua scripts solely made for Roblox exploiting. | https://github.com/avonrisk/Avon-s-scripts | 0 | 0| 
 | 20220504T10:44:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2686 | 328| 
-| 20220504T10:08:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11427 | 1953| 
 | 20220504T09:38:17Z | This repository Contain Tools Of Exploiter Dev | https://github.com/dkb4rb/Exploit_Dev | 1 | 0| 
 | 20220504T08:21:11Z | IoT 固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 709 | 102| 
 | 20220504T07:50:14Z | My writeup for analysis some Exploit and CVE in windows platform | https://github.com/Creamy-Chicken-Soup/My-Writeup | 0 | 0| 
