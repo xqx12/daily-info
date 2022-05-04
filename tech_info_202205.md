@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220504T12:14:18Z | Some of my created fuzzy systems in master degree | https://github.com/enrocha0312/Sistemas_Fuzzy | 0 | 0| 
 | 20220504T10:54:16Z | Genetic algorithm to solve flexible job shop scheduling with fuzzy processing time | https://github.com/Aihong-Sun/Fuzzy_processing_time_FJSP | 0 | 0| 
 | 20220504T10:53:53Z | Null | https://github.com/zain-rehan/fuzzy-telegram | 0 | 0| 
 | 20220504T10:41:28Z | Null | https://github.com/slawa2000/fuzzy-train | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20220504T08:40:43Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 106 | 11| 
 | 20220504T06:15:56Z | Learning how to use Jazzer to perform fuzzing tests with the Log4j Library | https://github.com/Superachi/FuzzyLogic | 0 | 0| 
 | 20220504T04:18:42Z | Code for the paper %A New and Effective Dimension– and Grey Theory Correlation-based Fuzzy C-Means Method for Imputing Incomplete Data% | https://github.com/ray10506/DGC-fuzzy-cmeans | 0 | 0| 
-| 20220504T01:44:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7288 | 1564| 
 
 
 
