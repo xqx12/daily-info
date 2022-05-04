@@ -88,7 +88,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220503T23:43:14Z | A collection of games I wrote in high school when Java Applets were a thing. | https://github.com/RazziaJA/Fuzzdragon | 0 | 0| 
 | 20220503T21:40:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7288 | 1564| 
 | 20220503T21:34:34Z | A fuzzer setup to fuzz libc functions. | https://github.com/novafacing/libc-fuzzer | 5 | 0| 
 | 20220503T19:05:34Z | Config files for my GitHub profile. | https://github.com/Fuzzyspoon/Fuzzyspoon | 0 | 0| 
@@ -98,6 +97,7 @@
 | 20220503T12:23:50Z | Null | https://github.com/HazemBZ/PDF_Fuzz | 0 | 0| 
 | 20220503T12:22:48Z | Null | https://github.com/ShreyasTheOne/FuzzFramework | 0 | 0| 
 | 20220503T11:04:26Z | Code for the paper %An Effective Dimension– and Correlation-based Fuzzy C-Means Method for Imputing Incomplete Data% | https://github.com/ray10506/DC-fuzzy-cmeans | 0 | 0| 
+| 20220503T10:24:20Z | An NLP-based fuzzing assistance tool | https://github.com/CarpetFuzz/CarpetFuzz | 0 | 0| 
 
 
 
