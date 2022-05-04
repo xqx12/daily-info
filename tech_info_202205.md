@@ -119,8 +119,8 @@
 | 20220504T10:15:40Z | Calamari and Pearl Couscous in a Spicy Tomato Sauce is quick and easy comfort food at it’s best. Tender calamari, creamy, slightly chewy pearl couscous in a rich, flavourful tomato sauce. Think risotto without the time and effort!  I’ve used calamari, but feel free to substitute shrimp, clams or mussels in the dish. All are great alternatives.  Tomato passata, onion, garlic, a little white wine infused with saffron come together in a simple sauce made fragrant and spicy with the addition of cayenne, paprika, turmeric and cumin.  While the sauce cooks, the pearl couscous is toasted a minute or two in some olive oil, then simmered until soft and tender. The cooked couscous is stirred into the sauce, where it absorbs all the delicious flavours from the spices.  The calamari are briefly sautéed calamari, then added to the sauce at the last minute. A good handful of fresh basil completes the dish.  Serve with a drizzle of olive oil and a few fresh basil leaves on top. | https://github.com/ShashankDeep1/fuzzy-octo-couscous | 0 | 0| 
 | 20220504T08:46:38Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 15 | 1| 
 | 20220504T08:40:43Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 106 | 11| 
+| 20220504T08:31:46Z | vulnerable apps for fuzz testing | https://github.com/gardatech/fuzzme | 0 | 0| 
 | 20220504T06:15:56Z | Learning how to use Jazzer to perform fuzzing tests with the Log4j Library | https://github.com/Superachi/FuzzyLogic | 0 | 0| 
-| 20220504T04:18:42Z | Code for the paper %A New and Effective Dimension– and Grey Theory Correlation-based Fuzzy C-Means Method for Imputing Incomplete Data% | https://github.com/ray10506/DGC-fuzzy-cmeans | 0 | 0| 
 
 
 
