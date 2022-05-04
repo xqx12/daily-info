@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220504T12:40:46Z | Config files for my GitHub profile. | https://github.com/exploitation-io/exploitation-io | 0 | 0| 
 | 20220504T11:45:23Z | Set of my own useful Tools, Scripts, Vulnerabilities, Exploits and Reports | https://github.com/danielcunn123/Security | 0 | 0| 
 | 20220504T11:16:49Z | Avon%s Script hub that consist of Lua scripts solely made for Roblox exploiting. | https://github.com/avonrisk/Avon-s-scripts | 0 | 0| 
 | 20220504T10:44:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2686 | 328| 
