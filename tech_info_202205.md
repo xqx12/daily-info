@@ -108,6 +108,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220504T00:44:34Z | Null | https://github.com/killerwest23/-fuzzy-couscous | 0 | 0| 
 | 20220504T00:19:13Z | A fuzzy logic algorithm will be used to classify a dataset between different labels. | https://github.com/PabloCaceresRamos/Fuzzy-classification | 0 | 0| 
 | 20220504T00:16:02Z | A collection of games I wrote in high school when Java Applets were a thing. | https://github.com/RazziaJA/Fuzzdragon | 0 | 0| 
 | 20220504T00:01:23Z | Null | https://github.com/PabloCaceresRamos/fuzzy-logic-delta_ail | 0 | 0| 
@@ -117,7 +118,6 @@
 | 20220503T19:03:00Z | Null | https://github.com/argha-dot/migration_patterns_fuzzy | 0 | 0| 
 | 20220503T14:53:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2531 | 164| 
 | 20220503T12:38:06Z | Null | https://github.com/OsarumwensePeace/tribute-fuzzlogin | 0 | 0| 
-| 20220503T12:23:50Z | Null | https://github.com/HazemBZ/PDF_Fuzz | 0 | 0| 
 
 
 
