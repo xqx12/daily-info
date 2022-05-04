@@ -77,7 +77,7 @@
 | 20220503T12:21:13Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 70 | 12| 
 | 20220503T12:04:05Z | Null | https://github.com/THUYimingLi/BackdoorBox | 46 | 12| 
 | 20220503T08:10:48Z | Backdoor written in Python3 for study and learning | https://github.com/pepelibiston/Python-Backdoor | 0 | 0| 
-| 20220503T06:04:54Z | Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code ! | https://github.com/cryptoscem/nft-drainer-with-fake-mint | 0 | 0| 
+| 20220503T06:04:54Z | Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code ! | https://github.com/cryptoscem/nft-drainer-with-fake-mint | 0 | 1| 
 | 20220503T00:56:06Z | a python reverse backdoor with compatible python listener | https://github.com/Chris1871/Reverse-Backdoor-Shell | 0 | 0| 
 | 20220502T22:34:40Z | Null | https://github.com/EssEnemiGz/EssBackdoor | 0 | 0| 
 | 20220502T21:50:36Z | Simple Backdoor (Able To Run With Python3) | https://github.com/TasarrufluFare/Simple_Backdoor_Python3 | 0 | 0| 
