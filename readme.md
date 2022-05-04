@@ -59,9 +59,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220504T01:42:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2837 | 411| 
+| 20220504T11:24:43Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 58 | 3| 
+| 20220504T11:24:19Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 47 | 3| 
+| 20220504T11:21:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2839 | 411| 
+| 20220504T05:55:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 | 20220504T01:42:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 390 | 19| 
-| 20220504T00:49:31Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 57 | 3| 
 
 
 # big4 on Github 推荐
