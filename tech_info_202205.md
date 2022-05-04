@@ -108,7 +108,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220504T00:16:15Z | A fuzzy logic algorithm will be used to classify a dataset between different labels. | https://github.com/PabloCaceresRamos/Fuzzy-classification | 0 | 0| 
+| 20220504T00:19:13Z | A fuzzy logic algorithm will be used to classify a dataset between different labels. | https://github.com/PabloCaceresRamos/Fuzzy-classification | 0 | 0| 
 | 20220504T00:16:02Z | A collection of games I wrote in high school when Java Applets were a thing. | https://github.com/RazziaJA/Fuzzdragon | 0 | 0| 
 | 20220504T00:01:23Z | Null | https://github.com/PabloCaceresRamos/fuzzy-logic-delta_ail | 0 | 0| 
 | 20220503T21:40:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7288 | 1564| 
