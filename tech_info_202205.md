@@ -118,9 +118,9 @@
 | 20220504T21:49:55Z | Null | https://github.com/BartekCK/Fuzzy-searches | 0 | 0| 
 | 20220504T21:29:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7289 | 1566| 
 | 20220504T20:26:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2532 | 164| 
+| 20220504T18:43:19Z | python data analysis | https://github.com/tfran95/fuzzy-succotash | 0 | 0| 
 | 20220504T18:15:39Z | **ReconSIDE** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.  ReconSIDE uses lot of techniques (passive, bruteforce, permutations, certificate transparency, source code scraping, analytics, DNS records...) for subdomain enumeration which helps you getting the maximum and the most interesting subdomains so that you be ahead of the competition.  It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers, and much more. Along with these, it performs OSINT techniques, directory fuzzing, dorking, ports scanning, screenshots, nuclei scan on your target.  So, what are you waiting for Go! Go! Go! :boom: | https://github.com/blackcode666/reconSIDE | 0 | 0| 
 | 20220504T18:00:20Z | Null | https://github.com/Krl1/Fuzzy_clustering | 0 | 0| 
-| 20220504T12:28:50Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 175 | 18| 
 
 
 
