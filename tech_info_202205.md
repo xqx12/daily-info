@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T00:11:49Z | Small web app for cataloging side projects | https://github.com/fuzzylimes/fuzzy-project-catalog | 0 | 0| 
 | 20220504T23:53:29Z | Rust project for differential fuzz testing of Bridge-sol. | https://github.com/themeliolabs/bridge-differential-tests | 0 | 0| 
 | 20220504T23:08:09Z | Null | https://github.com/Vaaaa28/fuzzy-carnival | 0 | 0| 
 | 20220504T22:37:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 827 | 92| 
@@ -120,7 +121,6 @@
 | 20220504T18:15:39Z | **ReconSIDE** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.  ReconSIDE uses lot of techniques (passive, bruteforce, permutations, certificate transparency, source code scraping, analytics, DNS records...) for subdomain enumeration which helps you getting the maximum and the most interesting subdomains so that you be ahead of the competition.  It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers, and much more. Along with these, it performs OSINT techniques, directory fuzzing, dorking, ports scanning, screenshots, nuclei scan on your target.  So, what are you waiting for Go! Go! Go! :boom: | https://github.com/blackcode666/reconSIDE | 0 | 0| 
 | 20220504T18:00:20Z | Null | https://github.com/Krl1/Fuzzy_clustering | 0 | 0| 
 | 20220504T12:28:50Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 175 | 18| 
-| 20220504T12:14:18Z | Some of my created fuzzy systems in master degree | https://github.com/enrocha0312/Sistemas_Fuzzy | 0 | 0| 
 
 
 
