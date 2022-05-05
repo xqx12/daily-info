@@ -53,6 +53,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220504T23:03:51Z | Null | https://github.com/GarikSmith-Manchip/AttackerBackdoor | 0 | 0| 
+| 20220504T21:11:25Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 71 | 14| 
+| 20220504T16:43:55Z | LKM Linux Rootkit | https://github.com/carloslack/KoviD | 18 | 4| 
+| 20220504T16:18:11Z | Null | https://github.com/sstan001/two-apps-one-backdoor | 0 | 0| 
+| 20220504T14:38:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 467 | 89| 
+| 20220504T13:44:12Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 35 | 9| 
 | 20220504T09:21:46Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 86 | 21| 
 | 20220504T09:11:14Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 528 | 190| 
 | 20220504T08:48:54Z | Null | https://github.com/Ergos1/cyber-sql-backdoor | 0 | 0| 
@@ -61,8 +67,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220504T14:50:41Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 47 | 3| 
 | 20220504T11:24:43Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 58 | 3| 
-| 20220504T11:24:19Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 47 | 3| 
 | 20220504T11:21:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2839 | 411| 
 | 20220504T05:55:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 | 20220504T01:42:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 390 | 19| 
