@@ -79,10 +79,10 @@
 | 20220505T12:07:56Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 193 | 37| 
 | 20220505T11:00:41Z | Exploit LAPS to Translate Programming Languages  | https://github.com/pvs-hd-tea/LapsTrans | 0 | 0| 
 | 20220505T10:59:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2690 | 328| 
+| 20220505T08:44:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11436 | 1954| 
 | 20220505T07:56:39Z | Run the run.cmd file and wait for it to install packages - follow instructions in cmd. Very simple script that exploits a bug. | https://github.com/AlexanderBuckland/facebook-message-all-script | 0 | 0| 
 | 20220505T07:47:36Z | ThunderMine cracked: A %tool% that apparently exploits wallets and %drains% the bitcoins to your wallet, which is a complete scam | https://github.com/Spuckwaffel/ThunderMine-cracked | 0 | 0| 
 | 20220505T03:25:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 398 | 116| 
-| 20220505T00:46:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11432 | 1954| 
 | 20220505T00:34:03Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2906 | 532| 
 | 20220505T00:25:09Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN_ | 0 | 0| 
 | 20220505T00:16:58Z | A hack that uses an exploit in the RokuOS media library. | https://github.com/Sasytoremember/mediahaxx | 0 | 0| 
