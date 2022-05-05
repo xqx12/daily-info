@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T12:59:21Z | publicCodes | https://github.com/iwalkthecircle/fuzziestWhale | 0 | 0| 
 | 20220505T11:21:24Z | my first repositotory; my first demo | https://github.com/irulanCorrino/fuzzy-sinking-chair-of-vincent--Demo | 0 | 0| 
 | 20220505T11:09:22Z | Demonstration of Fuzzy Logic and Genetic Algorithm on IRIS Dataset using Stream Lit | https://github.com/Arnav-Ladkat/FuzzyLogic-GeneticAlgorithm | 0 | 0| 
 | 20220505T10:10:50Z | Scripts from Transmitting Science course  April 26-27 2022 | https://github.com/gghill/Fuzzy-Logic-SDMs | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20220505T08:20:32Z | Membership functions, fuzzy time series, fuzzy time series, time series forecasting, Song model. Charts. Django. | https://github.com/pvl-mr/fuzzy_logic | 0 | 0| 
 | 20220505T01:40:13Z | **ReconSIDE** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.  ReconSIDE uses lot of techniques (passive, bruteforce, permutations, certificate transparency, source code scraping, analytics, DNS records...) for subdomain enumeration which helps you getting the maximum and the most interesting subdomains so that you be ahead of the competition.  It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers, and much more. Along with these, it performs OSINT techniques, directory fuzzing, dorking, ports scanning, screenshots, nuclei scan on your target.  So, what are you waiting for Go! Go! Go! :boom: | https://github.com/blackcode666/reconSIDE | 0 | 0| 
 | 20220505T01:04:32Z | Efficiently Fuzzing Rust Programs | https://github.com/system-pclub/RFuzz | 0 | 0| 
-| 20220505T00:23:04Z | Rust project for differential fuzz testing of Bridge-sol. | https://github.com/themeliolabs/bridge-differential-tests | 0 | 0| 
 
 
 
