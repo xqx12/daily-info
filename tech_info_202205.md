@@ -16,6 +16,7 @@
 | 20220505 | Unpacking PyInstaller 编译后的可执行文件，还原 Python 源码 | https://www.fortinet.com/blog/threat-research/unpacking-python-executables-windows-linux| 
 | 20220505 | 从点线面体局势角度看代码审计 | http://evilpan.com/2022/05/01/code-audit-thoughts/| 
 | 20220505 | 利用 EPSS（漏洞被利用可能性指标）作为补充，结合 CVSS 评分体系整体评估漏洞的威胁程度 | https://sec.today/pulses/7e8ddeb1-4510-4e4e-bd56-2956d38c5ad7/| 
+| 20220505 | 利用 EPSS（漏洞被利用可能性指标）作为补充，结合 CVSS 评分体系整体评估漏洞的威胁程度 | https://www.fortinet.com/blog/threat-research/predict-threats-and-secure-networks-with-epss| 
 | 20220503 | OffensiveCon22会议演讲视频-两位安全研究员对2022年JavaScript 引擎安全威胁研究分析。 | https://www.youtube.com/watch?v=FK2-1FAbbXA| 
 | 20220503 | Pentesting Azure: RECON Techniques | http://securitycafe.ro/2022/04/29/pentesting-azure-recon-techniques/| 
 | 20220503 | 哥斯拉&冰蝎源码分析 | https://github.com/safe6Sec/ShellManageTool| 
@@ -103,11 +104,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T07:37:23Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 393 | 19| 
+| 20220505T03:35:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 225 | 15| 
 | 20220504T14:50:41Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 47 | 3| 
 | 20220504T11:24:43Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 58 | 3| 
 | 20220504T11:21:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2839 | 411| 
 | 20220504T05:55:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
-| 20220504T01:42:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 390 | 19| 
 | 20220503T15:10:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1964 | 555| 
 | 20220502T23:13:28Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1183 | 52| 
 | 20220501T01:28:16Z | Null | https://github.com/SamKouteili/symbolic-execution-engine | 0 | 0| 
@@ -116,6 +118,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T03:55:57Z | Cloned from 2020 Paper from NDSS | https://github.com/RajatSethi2001/FUSE | 0 | 0| 
 | 20220503T08:08:02Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 5 | 1| 
 | 20220502T23:34:22Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 1 | 0| 
 | 20220501T15:02:30Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 1 | 0| 

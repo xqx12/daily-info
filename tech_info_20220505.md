@@ -16,6 +16,7 @@
 | 20220505 | Unpacking PyInstaller 编译后的可执行文件，还原 Python 源码 | https://www.fortinet.com/blog/threat-research/unpacking-python-executables-windows-linux| 
 | 20220505 | 从点线面体局势角度看代码审计 | http://evilpan.com/2022/05/01/code-audit-thoughts/| 
 | 20220505 | 利用 EPSS（漏洞被利用可能性指标）作为补充，结合 CVSS 评分体系整体评估漏洞的威胁程度 | https://sec.today/pulses/7e8ddeb1-4510-4e4e-bd56-2956d38c5ad7/| 
+| 20220505 | 利用 EPSS（漏洞被利用可能性指标）作为补充，结合 CVSS 评分体系整体评估漏洞的威胁程度 | https://www.fortinet.com/blog/threat-research/predict-threats-and-secure-networks-with-epss| 
 
 
 # 安全维基 推荐
@@ -79,11 +80,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T07:37:23Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 393 | 19| 
+| 20220505T03:35:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 225 | 15| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T03:55:57Z | Cloned from 2020 Paper from NDSS | https://github.com/RajatSethi2001/FUSE | 0 | 0| 
 
 
 # fuzz on Github 推荐
