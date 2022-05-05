@@ -111,10 +111,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T00:23:04Z | Rust project for differential fuzz testing of Bridge-sol. | https://github.com/themeliolabs/bridge-differential-tests | 0 | 0| 
+| 20220505T00:19:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 828 | 92| 
 | 20220505T00:11:49Z | Small web app for cataloging side projects | https://github.com/fuzzylimes/fuzzy-project-catalog | 0 | 0| 
-| 20220504T23:53:29Z | Rust project for differential fuzz testing of Bridge-sol. | https://github.com/themeliolabs/bridge-differential-tests | 0 | 0| 
 | 20220504T23:08:09Z | Null | https://github.com/Vaaaa28/fuzzy-carnival | 0 | 0| 
-| 20220504T22:37:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 827 | 92| 
 | 20220504T21:49:55Z | Null | https://github.com/BartekCK/Fuzzy-searches | 0 | 0| 
 | 20220504T21:29:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7289 | 1566| 
 | 20220504T20:26:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2532 | 164| 

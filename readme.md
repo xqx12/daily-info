@@ -82,9 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220504T23:53:29Z | Rust project for differential fuzz testing of Bridge-sol. | https://github.com/themeliolabs/bridge-differential-tests | 0 | 0| 
 | 20220504T23:08:09Z | Null | https://github.com/Vaaaa28/fuzzy-carnival | 0 | 0| 
-| 20220504T22:37:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 827 | 92| 
 | 20220504T21:49:55Z | Null | https://github.com/BartekCK/Fuzzy-searches | 0 | 0| 
 | 20220504T21:29:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7289 | 1566| 
 | 20220504T20:26:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2532 | 164| 
@@ -92,6 +90,8 @@
 | 20220504T18:00:20Z | Null | https://github.com/Krl1/Fuzzy_clustering | 0 | 0| 
 | 20220504T12:28:50Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 175 | 18| 
 | 20220504T12:14:18Z | Some of my created fuzzy systems in master degree | https://github.com/enrocha0312/Sistemas_Fuzzy | 0 | 0| 
+| 20220504T10:54:16Z | Genetic algorithm to solve flexible job shop scheduling with fuzzy processing time | https://github.com/Aihong-Sun/Fuzzy_processing_time_FJSP | 0 | 0| 
+| 20220504T10:53:53Z | Null | https://github.com/zain-rehan/fuzzy-telegram | 0 | 0| 
 
 
 
