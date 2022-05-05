@@ -42,11 +42,11 @@
 | 20220505T10:35:35Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 | 20220505T10:15:15Z | CVE-2022-22954 | CVE-2022-22954 analyst | https://github.com/nguyenv1nK/CVE-2022-22954 | | 
 | 20220505T09:33:08Z | CVE-2020-0188 | Null | https://github.com/Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188 | | 
+| 20220505T09:18:01Z | CVE-2021-36981 | Null | https://github.com/0xBrAinsTorM/CVE-2021-36981 | | 
 | 20220505T09:03:29Z | CVE-2022-1444 | Null | https://github.com/KrungSalad/POC-CVE-2022-1444 | | 
 | 20220505T07:23:56Z | CVE-2022-26809 | final exploit! | https://github.com/crypt0r00t/CVE-2022-26809 | | 
 | 20220505T07:03:06Z | CVE-2022-25262 | PoC + vulnerability details for CVE-2022-25262 / JetBrains Hub single-click SAML response takeover | https://github.com/yuriisanin/CVE-2022-25262 | | 
 | 20220505T07:01:32Z | CVE-2022-24707 | PoC of CVE-2022-24707 | https://github.com/Altelus1/CVE-2022-24707 | | 
-| 20220505T06:19:01Z | CVE-2021-25837 | Null | https://github.com/iczc/Ethermint-CVE-2021-25837 | | 
 
 
 # klee on Github 推荐
