@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T00:34:03Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2906 | 532| 
 | 20220505T00:25:09Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN_ | 0 | 0| 
 | 20220505T00:16:58Z | A hack that uses an exploit in the RokuOS media library. | https://github.com/Sasytoremember/mediahaxx | 0 | 0| 
 | 20220504T23:06:33Z | libc_database python wrapper for exploit automation | https://github.com/Neetx/pylibcdb | 5 | 1| 
@@ -69,7 +70,6 @@
 | 20220504T20:57:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11431 | 1954| 
 | 20220504T20:27:39Z | Roblox Exploit | https://github.com/BadPixelArtist/PixelHub | 0 | 0| 
 | 20220504T17:58:06Z | Lumberjack: An Active Directory vulnerability identification, exploitation, & reporting tool  | https://github.com/TG-Coder101/Lumberjack | 0 | 0| 
-| 20220504T14:50:41Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 47 | 3| 
 
 
 # backdoor on Github 推荐
