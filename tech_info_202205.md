@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T01:40:13Z | **ReconSIDE** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.  ReconSIDE uses lot of techniques (passive, bruteforce, permutations, certificate transparency, source code scraping, analytics, DNS records...) for subdomain enumeration which helps you getting the maximum and the most interesting subdomains so that you be ahead of the competition.  It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers, and much more. Along with these, it performs OSINT techniques, directory fuzzing, dorking, ports scanning, screenshots, nuclei scan on your target.  So, what are you waiting for Go! Go! Go! :boom: | https://github.com/blackcode666/reconSIDE | 0 | 0| 
 | 20220505T01:04:32Z | Efficiently Fuzzing Rust Programs | https://github.com/system-pclub/RFuzz | 0 | 0| 
 | 20220505T00:23:04Z | Rust project for differential fuzz testing of Bridge-sol. | https://github.com/themeliolabs/bridge-differential-tests | 0 | 0| 
 | 20220505T00:19:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 828 | 92| 
@@ -121,7 +122,6 @@
 | 20220504T21:29:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7289 | 1566| 
 | 20220504T20:26:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2532 | 164| 
 | 20220504T18:43:19Z | python data analysis | https://github.com/tfran95/fuzzy-succotash | 0 | 0| 
-| 20220504T18:15:39Z | **ReconSIDE** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.  ReconSIDE uses lot of techniques (passive, bruteforce, permutations, certificate transparency, source code scraping, analytics, DNS records...) for subdomain enumeration which helps you getting the maximum and the most interesting subdomains so that you be ahead of the competition.  It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers, and much more. Along with these, it performs OSINT techniques, directory fuzzing, dorking, ports scanning, screenshots, nuclei scan on your target.  So, what are you waiting for Go! Go! Go! :boom: | https://github.com/blackcode666/reconSIDE | 0 | 0| 
 
 
 
