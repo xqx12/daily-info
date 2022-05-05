@@ -27,6 +27,7 @@
 | --- | --- | ---| 
 | 20220505 | Botconf 2022 议题速递 | https://mp.weixin.qq.com/s/G6EFRXY0DB9j-jzINuXLPQ| 
 | 20220505 | 利用代码知识图谱实现Bug定位 | https://mp.weixin.qq.com/s/i4lHXM2NW9zNMkLn4B0eyQ| 
+| 20220505 | 云安全基线 | https://uxss.net/2022/04/04/%E4%BA%91%E5%AE%89%E5%85%A8%E5%9F%BA%E7%BA%BF/| 
 | 20220503 | 如何写科研论文？ | https://xpqiu.github.io/slides/%E5%A6%82%E4%BD%95%E5%86%99%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87202203.pdf| 
 | 20220502 | SecWiki周刊（第426期) | https://www.sec-wiki.com/weekly/426| 
 | 20220502 | Python Cookbook 第三版 中文版 | https://github.com/yidao620c/python3-cookbook| 

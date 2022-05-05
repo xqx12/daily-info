@@ -24,6 +24,7 @@
 | --- | --- | ---| 
 | 20220505 | Botconf 2022 议题速递 | https://mp.weixin.qq.com/s/G6EFRXY0DB9j-jzINuXLPQ| 
 | 20220505 | 利用代码知识图谱实现Bug定位 | https://mp.weixin.qq.com/s/i4lHXM2NW9zNMkLn4B0eyQ| 
+| 20220505 | 云安全基线 | https://uxss.net/2022/04/04/%E4%BA%91%E5%AE%89%E5%85%A8%E5%9F%BA%E7%BA%BF/| 
 
 
 # CVE Github 推荐
