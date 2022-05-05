@@ -76,9 +76,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T12:07:56Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 193 | 37| 
 | 20220505T11:00:41Z | Exploit LAPS to Translate Programming Languages  | https://github.com/pvs-hd-tea/LapsTrans | 0 | 0| 
 | 20220505T10:59:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2690 | 328| 
-| 20220505T10:18:52Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 192 | 37| 
 | 20220505T07:56:39Z | Run the run.cmd file and wait for it to install packages - follow instructions in cmd. Very simple script that exploits a bug. | https://github.com/AlexanderBuckland/facebook-message-all-script | 0 | 0| 
 | 20220505T07:47:36Z | ThunderMine cracked: A %tool% that apparently exploits wallets and %drains% the bitcoins to your wallet, which is a complete scam | https://github.com/Spuckwaffel/ThunderMine-cracked | 0 | 0| 
 | 20220505T03:25:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 398 | 116| 
@@ -106,10 +106,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T12:06:51Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 59 | 3| 
 | 20220505T07:37:23Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 393 | 19| 
 | 20220505T03:35:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 225 | 15| 
 | 20220504T14:50:41Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 47 | 3| 
-| 20220504T11:24:43Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 58 | 3| 
 | 20220504T11:21:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2839 | 411| 
 | 20220504T05:55:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 | 20220503T15:10:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1964 | 555| 
