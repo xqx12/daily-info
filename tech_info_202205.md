@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220505T00:46:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11432 | 1954| 
 | 20220505T00:34:03Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 2906 | 532| 
 | 20220505T00:25:09Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN_ | 0 | 0| 
 | 20220505T00:16:58Z | A hack that uses an exploit in the RokuOS media library. | https://github.com/Sasytoremember/mediahaxx | 0 | 0| 
@@ -67,7 +68,6 @@
 | 20220504T22:25:57Z | Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. Smooth auto-aim, you can alter the code to assign your own keybind for this. Default is Mouse4 Anti-detection methods - multiple methods used making this virtually untraceable, even while being spectated. Easy silent-injection method - Manual mapping of the cheat into game memory. Undetectable. No need to disable PatchGuard! Unlike most major paid cheat providers, this cheat uses an advanced hooking mechanism to achieve it%s goal. | https://github.com/RiverRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 1 | 0| 
 | 20220504T22:20:31Z | My collection of discord embed exploits | https://github.com/nomrsavage/Discord-Media-Exploits | 1 | 1| 
 | 20220504T22:11:45Z | Bit 32/64 bit Error Message Select Injector Fake Mesaje Binder (%Run Once Run Startup%) Loader Mode Notification Single Instance Anti WM Anti Submission Execution Delay Advanced Runtime Exclusion Windows Defender Memory Bombing Anti File Delete Change Timestamp | https://github.com/PeytonRcs/Data-Encoder-Crypter-Encoded-Aes-Hidden-Startup | 1 | 0| 
-| 20220504T20:57:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11431 | 1954| 
 | 20220504T20:27:39Z | Roblox Exploit | https://github.com/BadPixelArtist/PixelHub | 0 | 0| 
 | 20220504T17:58:06Z | Lumberjack: An Active Directory vulnerability identification, exploitation, & reporting tool  | https://github.com/TG-Coder101/Lumberjack | 0 | 0| 
 
