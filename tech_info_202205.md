@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T12:55:00Z | Null | https://github.com/touros91/kleecks | 0 | 0| 
 | 20220506T12:09:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6008 | 220| 
 | 20220506T03:30:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1964 | 555| 
 | 20220506T01:21:38Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 239 | 39| 
@@ -70,7 +71,6 @@
 | 20220503T14:21:40Z | This is Team A ( Terrell Crawford, Stan Savelev, Leonel Barrientos, Jarod Heng, Jack Klees, George Bakhoum) | https://github.com/220328-Java-Full-Stack-AWS/Team-A-P2 | 0 | 0| 
 | 20220503T08:47:32Z | Repo de stockage de la documentation de Klee-contrib | https://github.com/klee-contrib/.github | 0 | 0| 
 | 20220502T07:14:14Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 653 | 36| 
-| 20220502T04:30:33Z | Evaluate the similarities and differences in your objects | https://github.com/saturnflyer/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
