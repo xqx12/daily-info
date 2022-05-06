@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T01:04:31Z | Senior Project Chess AI Variant  | https://github.com/rheanes/FuzzyChess | 0 | 0| 
 | 20220506T00:43:20Z | Null | https://github.com/lucassouzamatos/fuzzy-control-air-conditioning | 0 | 0| 
 | 20220506T00:42:33Z | Null | https://github.com/xavishacodes/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220506T00:14:53Z | Null | https://github.com/Sherin-Sneha/Neuro-Fuzzy-Inference-System | 0 | 0| 
@@ -143,7 +144,6 @@
 | 20220505T21:16:08Z | Projet Framework | https://github.com/Craftmusic-Git/FuzzyLogic | 0 | 0| 
 | 20220505T19:46:11Z | Null | https://github.com/CeausuAndrei/FuzzyLogic-Company | 0 | 0| 
 | 20220505T19:41:33Z | Null | https://github.com/princy-Joshna-mary/Neuro-Fuzzy-Inference-system | 0 | 0| 
-| 20220505T18:10:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7291 | 1567| 
 
 
 
