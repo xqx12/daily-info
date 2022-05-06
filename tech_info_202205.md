@@ -81,13 +81,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T00:25:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11437 | 1954| 
 | 20220505T22:59:31Z | Exploiting testing | https://github.com/Codeta12/test | 0 | 0| 
 | 20220505T21:55:25Z | This github page is dedicated to the best Tetrys (chrome extention, link in README) | https://github.com/dec3ptions/tetrys_exploits | 0 | 0| 
 | 20220505T20:10:01Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Vkmailhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220505T20:02:25Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Vkmailhack/Hacking-Tools-Pack | 0 | 0| 
 | 20220505T19:47:42Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Gsamhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220505T15:49:04Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 554 | 112| 
-| 20220505T15:11:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11436 | 1954| 
 | 20220505T12:07:56Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 193 | 37| 
 | 20220505T11:00:41Z | Exploit LAPS to Translate Programming Languages  | https://github.com/pvs-hd-tea/LapsTrans | 0 | 0| 
 | 20220505T10:59:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2690 | 328| 
