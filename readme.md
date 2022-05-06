@@ -74,7 +74,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220506T00:50:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1965 | 555| 
+| 20220506T10:47:19Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 58 | 3| 
+| 20220506T09:02:02Z | 🐚 CRAX++: Modular exploit generator using symbolic execution | https://github.com/SQLab/CRAXplusplus | 47 | 3| 
+| 20220506T06:15:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2843 | 411| 
+| 20220506T05:59:21Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 394 | 19| 
+| 20220506T03:30:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1964 | 555| 
+| 20220506T03:08:07Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 31 | 19| 
 
 
 # big4 on Github 推荐
