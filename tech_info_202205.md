@@ -56,9 +56,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T01:11:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6002 | 220| 
 | 20220506T00:50:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1965 | 555| 
 | 20220505T16:32:58Z | Null | https://github.com/AsmaaHailane/klee | 0 | 0| 
-| 20220505T15:08:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6001 | 220| 
 | 20220505T01:01:17Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 21 | 1| 
 | 20220504T10:53:20Z | Null | https://github.com/XXjd893tufsh/kleesb234 | 0 | 0| 
 | 20220503T14:21:40Z | This is Team A ( Terrell Crawford, Stan Savelev, Leonel Barrientos, Jarod Heng, Jack Klees, George Bakhoum) | https://github.com/220328-Java-Full-Stack-AWS/Team-A-P2 | 0 | 0| 
@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T01:04:06Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-- | 0 | 0| 
 | 20220506T00:25:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11437 | 1954| 
 | 20220505T22:59:31Z | Exploiting testing | https://github.com/Codeta12/test | 0 | 0| 
 | 20220505T21:55:25Z | This github page is dedicated to the best Tetrys (chrome extention, link in README) | https://github.com/dec3ptions/tetrys_exploits | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20220505T15:49:04Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 554 | 112| 
 | 20220505T12:07:56Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 193 | 37| 
 | 20220505T11:00:41Z | Exploit LAPS to Translate Programming Languages  | https://github.com/pvs-hd-tea/LapsTrans | 0 | 0| 
-| 20220505T10:59:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2690 | 328| 
 
 
 # backdoor on Github 推荐
@@ -134,7 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220506T01:10:20Z | Null | https://github.com/btruong117/FuzzyChess | 0 | 0| 
+| 20220506T01:11:22Z | Clone of Senior Project of Rob Eanes​ , Steven Crowther, Tyler Gustat, Andrew McFarland, Brian Truong | https://github.com/btruong117/FuzzyChess | 0 | 0| 
 | 20220506T01:06:09Z | Senior Project Chess AI Variant  | https://github.com/rheanes/FuzzyChess | 1 | 0| 
 | 20220506T00:43:20Z | Null | https://github.com/lucassouzamatos/fuzzy-control-air-conditioning | 0 | 0| 
 | 20220506T00:42:33Z | Null | https://github.com/xavishacodes/Neuro-Fuzzy-Inference-System | 0 | 0| 
