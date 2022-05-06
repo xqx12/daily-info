@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T00:03:11Z | Fuzzy Braking System | https://github.com/JPereira1330/Fuzzy---Braking-System | 0 | 0| 
 | 20220505T23:53:22Z | Null | https://github.com/DinishibaS/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220505T23:46:22Z | Car Brake System - Fuzzy | https://github.com/JPereira1330/Fuzzy-car-brake-system | 0 | 0| 
 | 20220505T23:32:14Z | Null | https://github.com/lucassouzamatos/fuzzy-control-air-conditioning | 0 | 0| 
@@ -143,7 +144,6 @@
 | 20220505T18:10:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7291 | 1567| 
 | 20220505T12:59:21Z | publicCodes | https://github.com/iwalkthecircle/fuzziestWhale | 0 | 0| 
 | 20220505T11:21:24Z | my first repositotory; my first demo | https://github.com/irulanCorrino/fuzzy-sinking-chair-of-vincent--Demo | 0 | 0| 
-| 20220505T11:09:22Z | Demonstration of Fuzzy Logic and Genetic Algorithm on IRIS Dataset using Stream Lit | https://github.com/Arnav-Ladkat/FuzzyLogic-GeneticAlgorithm | 0 | 0| 
 
 
 
