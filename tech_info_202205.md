@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T00:42:33Z | Null | https://github.com/xavishacodes/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220506T00:14:53Z | Null | https://github.com/Sherin-Sneha/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220506T00:06:05Z | Fuzzy Braking System | https://github.com/JPereira1330/Fuzzy---Braking-System | 1 | 0| 
 | 20220505T23:53:22Z | Null | https://github.com/DinishibaS/Neuro-Fuzzy-Inference-System | 0 | 0| 
@@ -143,7 +144,6 @@
 | 20220505T19:46:11Z | Null | https://github.com/CeausuAndrei/FuzzyLogic-Company | 0 | 0| 
 | 20220505T19:41:33Z | Null | https://github.com/princy-Joshna-mary/Neuro-Fuzzy-Inference-system | 0 | 0| 
 | 20220505T18:10:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7291 | 1567| 
-| 20220505T12:59:21Z | publicCodes | https://github.com/iwalkthecircle/fuzziestWhale | 0 | 0| 
 
 
 
