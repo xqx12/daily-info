@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T00:34:01Z | Null | https://github.com/avoidjayson/backdoor | 0 | 0| 
 | 20220505T23:57:08Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 75 | 18| 
 | 20220505T22:46:55Z | a Linux backdoor. This backdoor will allow a user to remote control, execute a command, and receive the command result.  | https://github.com/Xinghuawei/Linux-Backdoor-final-version | 0 | 0| 
 | 20220505T22:36:10Z | Null | https://github.com/cashtwizzy/cipher-backdoor | 1 | 0| 
@@ -105,7 +106,6 @@
 | 20220505T13:00:06Z | Code for paper %FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis% | https://github.com/HazardFY/FIBA | 3 | 0| 
 | 20220505T06:34:50Z | Personal | https://github.com/stephengia/HIS-backdoor | 0 | 0| 
 | 20220505T06:22:10Z | Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code ! | https://github.com/bumroom/nft-drainer-with-fake-mint | 0 | 1| 
-| 20220505T03:38:02Z | Null | https://github.com/amicsoniu/Python_Backdoor_with_Covert_Channel | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
