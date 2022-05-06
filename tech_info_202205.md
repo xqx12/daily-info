@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220506T12:48:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2666 | 387| 
+| 20220506T12:53:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2667 | 387| 
 | 20220506T12:10:02Z | hello my name is Najplays I am new to GitHub. Exploits I have : Synaspe x, Script ware | https://github.com/Najplays/najplays | 0 | 0| 
 | 20220506T11:43:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11439 | 1954| 
 | 20220506T10:53:06Z | Null | https://github.com/babytaco666/exploitframework2 | 0 | 0| 
