@@ -41,7 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220505T17:37:14Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
+| 20220506T01:34:57Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
 | 20220505T15:30:40Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-POC | | 
 | 20220505T15:08:15Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 | 20220505T14:46:04Z | CVE-2020-12696 | Stored Cross Site Scripting - Iframe Plugin - WordPress  | https://github.com/g-rubert/CVE-2020-12696 | | 

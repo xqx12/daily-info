@@ -35,7 +35,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220505T17:37:14Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
 | 20220505T15:30:40Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-POC | | 
 | 20220505T15:08:15Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 | 20220505T14:46:04Z | CVE-2020-12696 | Stored Cross Site Scripting - Iframe Plugin - WordPress  | https://github.com/g-rubert/CVE-2020-12696 | | 
@@ -45,6 +44,7 @@
 | 20220505T10:15:15Z | CVE-2022-22954 | CVE-2022-22954 analyst | https://github.com/nguyenv1nK/CVE-2022-22954 | | 
 | 20220505T09:33:08Z | CVE-2020-0188 | Null | https://github.com/Nivaskumark/packages_apps_settings_A10_r33_CVE-2020-0188 | | 
 | 20220505T09:18:01Z | CVE-2021-36981 | Null | https://github.com/0xBrAinsTorM/CVE-2021-36981 | | 
+| 20220505T09:03:29Z | CVE-2022-1444 | Null | https://github.com/KrungSalad/POC-CVE-2022-1444 | | 
 
 
 # klee on Github 推荐
