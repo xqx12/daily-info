@@ -70,8 +70,8 @@
 | 20220505T19:43:31Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Gsamhack/Hacking-Tools-Pack | 0 | 0| 
 | 20220505T19:31:58Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Samjihack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220505T15:49:04Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 554 | 112| 
+| 20220505T14:38:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2691 | 328| 
 | 20220505T12:07:56Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 193 | 37| 
-| 20220505T11:00:41Z | Exploit LAPS to Translate Programming Languages  | https://github.com/pvs-hd-tea/LapsTrans | 0 | 0| 
 
 
 # backdoor on Github 推荐
