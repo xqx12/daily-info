@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220506T12:08:36Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | | 
 | 20220506T11:37:42Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 | 20220506T10:42:34Z | CVE-2022-1040 | may the poc with you | https://github.com/killvxk/CVE-2022-1040 | | 
 | 20220506T09:15:33Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
 | 20220506T09:10:39Z | CVE-2022-1388 | This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services. There is no data plane exposure; this is a control plane issue only. | https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed | | 
-| 20220506T09:10:17Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | | 
 | 20220506T05:22:20Z | CVE-2022-25236 | Null | https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236 | | 
 | 20220505T15:30:40Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-POC | | 
 | 20220505T14:46:04Z | CVE-2020-12696 | Stored Cross Site Scripting - Iframe Plugin - WordPress  | https://github.com/g-rubert/CVE-2020-12696 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220506T11:28:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6007 | 220| 
+| 20220506T12:09:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6008 | 220| 
 | 20220506T03:30:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1964 | 555| 
 | 20220506T01:21:38Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 239 | 39| 
 | 20220505T16:32:58Z | Null | https://github.com/AsmaaHailane/klee | 0 | 0| 
