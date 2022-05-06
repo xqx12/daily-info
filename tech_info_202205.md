@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T12:02:41Z | A project to practice and polish my dev skills | https://github.com/dezmond/fuzzy-disco | 0 | 0| 
 | 20220506T11:30:59Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 555 | 65| 
 | 20220506T11:09:58Z | With coffee now so expensive, I need to cut back. This picture of a furry cup, saucer and spoon has proven helpful. When I imagine this fuzzy utensil in my mouth, or my lips puckered on the rim of this furry cup, a shiver runs through me and I don’t want coffee nearly as much. If you print a copy of this picture and place it beside your coffee maker, it just might help you, too.       Then we can exchange ideas on what to do about the headaches. | https://github.com/RadheshyamHeena/fuzzy-spoon | 0 | 0| 
 | 20220506T10:58:14Z | Trabalho 01 primeira questão da Disciplina de Inteligência Computacional. | https://github.com/Flavia27/logicaFuzzy | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220506T04:53:49Z | Null | https://github.com/yatooimh/StrawFuzzer | 0 | 0| 
 | 20220506T04:53:34Z | Null | https://github.com/SamHobbsOrg/WarmFuzzies | 0 | 0| 
 | 20220506T01:11:22Z | Clone of Senior Project of Rob Eanes​ , Steven Crowther, Tyler Gustat, Andrew McFarland, Brian Truong | https://github.com/btruong117/FuzzyChess | 0 | 0| 
-| 20220506T01:06:09Z | Senior Project Chess AI Variant  | https://github.com/rheanes/FuzzyChess | 1 | 0| 
 
 
 
