@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T12:10:02Z | hello my name is Najplays I am new to GitHub. Exploits I have : Synaspe x, Script ware | https://github.com/Najplays/najplays | 0 | 0| 
 | 20220506T10:53:06Z | Null | https://github.com/babytaco666/exploitframework2 | 0 | 0| 
 | 20220506T10:52:08Z | Null | https://github.com/babytaco666/exploitframework | 0 | 0| 
 | 20220506T09:49:02Z | 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 127 | 12| 
@@ -95,7 +96,6 @@
 | 20220506T06:25:30Z | A system for identifying and exploiting weaknesses in Big Data systems | https://github.com/idanwasserman/Final_Project | 0 | 0| 
 | 20220506T03:03:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2692 | 329| 
 | 20220506T01:04:06Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-- | 0 | 0| 
-| 20220506T00:25:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11437 | 1954| 
 
 
 # backdoor on Github 推荐
