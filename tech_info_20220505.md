@@ -96,7 +96,7 @@
 | 20220505T23:35:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2842 | 411| 
 | 20220505T12:06:51Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 59 | 3| 
 | 20220505T07:37:23Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 393 | 19| 
-| 20220505T03:35:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 225 | 16| 
+| 20220505T03:35:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 225 | 15| 
 
 
 # big4 on Github 推荐
