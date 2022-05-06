@@ -110,7 +110,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220505T23:53:22Z | Null | https://github.com/DinishibaS/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220505T23:46:22Z | Car Brake System - Fuzzy | https://github.com/JPereira1330/Fuzzy-car-brake-system | 0 | 0| 
-| 20220505T23:32:14Z | Null | https://github.com/lucassouzamatos/fuzzy-control-air-conditioning | 0 | 0| 
 | 20220505T21:16:08Z | Projet Framework | https://github.com/Craftmusic-Git/FuzzyLogic | 0 | 0| 
 | 20220505T19:46:11Z | Null | https://github.com/CeausuAndrei/FuzzyLogic-Company | 0 | 0| 
 | 20220505T19:41:33Z | Null | https://github.com/princy-Joshna-mary/Neuro-Fuzzy-Inference-system | 0 | 0| 
@@ -118,6 +117,7 @@
 | 20220505T12:59:21Z | publicCodes | https://github.com/iwalkthecircle/fuzziestWhale | 0 | 0| 
 | 20220505T11:21:24Z | my first repositotory; my first demo | https://github.com/irulanCorrino/fuzzy-sinking-chair-of-vincent--Demo | 0 | 0| 
 | 20220505T11:09:22Z | Demonstration of Fuzzy Logic and Genetic Algorithm on IRIS Dataset using Stream Lit | https://github.com/Arnav-Ladkat/FuzzyLogic-GeneticAlgorithm | 0 | 0| 
+| 20220505T10:10:50Z | Scripts from Transmitting Science course  April 26-27 2022 | https://github.com/gghill/Fuzzy-Logic-SDMs | 0 | 0| 
 
 
 
