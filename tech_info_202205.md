@@ -134,7 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220506T00:10:05Z | Null | https://github.com/Sherin-Sneha/Neuro-Fuzzy-Inference-System | 0 | 0| 
+| 20220506T00:14:53Z | Null | https://github.com/Sherin-Sneha/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220506T00:06:05Z | Fuzzy Braking System | https://github.com/JPereira1330/Fuzzy---Braking-System | 1 | 0| 
 | 20220505T23:53:22Z | Null | https://github.com/DinishibaS/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220505T23:46:22Z | Car Brake System - Fuzzy | https://github.com/JPereira1330/Fuzzy-car-brake-system | 0 | 0| 
