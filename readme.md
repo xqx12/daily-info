@@ -50,7 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220506T12:12:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2665 | 387| 
+| 20220506T12:48:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2666 | 387| 
 | 20220506T12:10:02Z | hello my name is Najplays I am new to GitHub. Exploits I have : Synaspe x, Script ware | https://github.com/Najplays/najplays | 0 | 0| 
 | 20220506T11:43:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11439 | 1954| 
 | 20220506T10:53:06Z | Null | https://github.com/babytaco666/exploitframework2 | 0 | 0| 
@@ -65,6 +65,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T12:40:12Z | Injector for MineCraft plugins (You can inject some backdoors to it) | https://github.com/theFoutryFPS/MCPlugInject | 0 | 0| 
 | 20220506T10:17:15Z | This is an implementation demo of the IJCAI 2022 paper [Eliminating Backdoor Triggers for Deep Neural Networks Using  Attention Relation Graph Distillation](https://arxiv.org/abs/2204.09975) in PyTorch. | https://github.com/BililiCode/ARGD | 5 | 0| 
 | 20220506T09:55:47Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 680 | 182| 
 | 20220506T04:02:46Z | Null | https://github.com/cashtwizzy/cipher-backdoor | 1 | 0| 

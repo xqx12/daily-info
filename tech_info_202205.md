@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220506T12:12:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2665 | 387| 
+| 20220506T12:48:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2666 | 387| 
 | 20220506T12:10:02Z | hello my name is Najplays I am new to GitHub. Exploits I have : Synaspe x, Script ware | https://github.com/Najplays/najplays | 0 | 0| 
 | 20220506T11:43:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11439 | 1954| 
 | 20220506T10:53:06Z | Null | https://github.com/babytaco666/exploitframework2 | 0 | 0| 
@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T12:40:12Z | Injector for MineCraft plugins (You can inject some backdoors to it) | https://github.com/theFoutryFPS/MCPlugInject | 0 | 0| 
 | 20220506T10:17:15Z | This is an implementation demo of the IJCAI 2022 paper [Eliminating Backdoor Triggers for Deep Neural Networks Using  Attention Relation Graph Distillation](https://arxiv.org/abs/2204.09975) in PyTorch. | https://github.com/BililiCode/ARGD | 5 | 0| 
 | 20220506T09:55:47Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 680 | 182| 
 | 20220506T04:02:46Z | Null | https://github.com/cashtwizzy/cipher-backdoor | 1 | 0| 
@@ -110,7 +111,6 @@
 | 20220505T22:15:40Z | a Linux backdoor. This backdoor will allow a user to remote control, execute a command, and receive the command result. | https://github.com/Xinghuawei/8505-Linux-Backdoor | 0 | 0| 
 | 20220505T14:38:04Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 468 | 89| 
 | 20220505T13:01:05Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 36 | 9| 
-| 20220505T13:00:06Z | Code for paper %FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis% | https://github.com/HazardFY/FIBA | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
