@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220506T01:10:20Z | Null | https://github.com/btruong117/FuzzyChess | 0 | 0| 
 | 20220506T01:06:09Z | Senior Project Chess AI Variant  | https://github.com/rheanes/FuzzyChess | 1 | 0| 
 | 20220506T00:43:20Z | Null | https://github.com/lucassouzamatos/fuzzy-control-air-conditioning | 0 | 0| 
 | 20220506T00:42:33Z | Null | https://github.com/xavishacodes/Neuro-Fuzzy-Inference-System | 0 | 0| 
@@ -143,7 +144,6 @@
 | 20220505T23:46:22Z | Car Brake System - Fuzzy | https://github.com/JPereira1330/Fuzzy-car-brake-system | 0 | 0| 
 | 20220505T21:16:08Z | Projet Framework | https://github.com/Craftmusic-Git/FuzzyLogic | 0 | 0| 
 | 20220505T19:46:11Z | Null | https://github.com/CeausuAndrei/FuzzyLogic-Company | 0 | 0| 
-| 20220505T19:41:33Z | Null | https://github.com/princy-Joshna-mary/Neuro-Fuzzy-Inference-system | 0 | 0| 
 
 
 
