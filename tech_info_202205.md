@@ -96,7 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220506T00:34:01Z | Null | https://github.com/avoidjayson/backdoor | 0 | 0| 
+| 20220506T00:38:03Z | Null | https://github.com/avoidjayson/backdoor | 0 | 0| 
 | 20220505T23:57:08Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 75 | 18| 
 | 20220505T22:46:55Z | a Linux backdoor. This backdoor will allow a user to remote control, execute a command, and receive the command result.  | https://github.com/Xinghuawei/Linux-Backdoor-final-version | 0 | 0| 
 | 20220505T22:36:10Z | Null | https://github.com/cashtwizzy/cipher-backdoor | 1 | 0| 
