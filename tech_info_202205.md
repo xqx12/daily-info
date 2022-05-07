@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220507T01:56:23Z | Null | https://github.com/codingcore1/SILENT-XLS-EXPLOIT-CLEAN- | 0 | 0| 
 | 20220507T01:29:07Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN | 0 | 0| 
 | 20220507T01:14:52Z | SILENT-PDF-EXPLOIT-CLEAN  | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-0 | 0 | 0| 
 | 20220507T00:13:33Z | A tool for identifying and exploiting vulnerable Viewstate implementations in ASP.NET  | https://github.com/isclayton/viewstalker | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220506T20:31:18Z | Hackthebox, Tryhackme and popular vulnerabilities% exploit demos | https://github.com/jtvsdeo/popular-exploit-demos | 0 | 0| 
 | 20220506T19:36:56Z | Null | https://github.com/PhasmaClient/Phasma-Exploit | 0 | 0| 
 | 20220506T19:19:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2695 | 329| 
-| 20220506T17:09:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11441 | 1955| 
 
 
 # backdoor on Github 推荐
@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220507T01:56:28Z | simple fuzz functionality for python | https://github.com/dsal3389/sfuzzie | 0 | 0| 
 | 20220507T00:52:46Z | fuzzing with libFuzzer，inlude openssl heartbleed (CVE-2014-0160) | https://github.com/GardeniaWhite/fuzzing | 0 | 0| 
 | 20220506T23:29:25Z | Null | https://github.com/josephden16/fuzzy-octo-enigma | 0 | 0| 
 | 20220506T22:01:57Z | Fuzzy Logic SciKit (Toolkit for SciPy) | https://github.com/scikit-fuzzy/scikit-fuzzy | 600 | 235| 
@@ -149,7 +150,6 @@
 | 20220506T11:09:58Z | With coffee now so expensive, I need to cut back. This picture of a furry cup, saucer and spoon has proven helpful. When I imagine this fuzzy utensil in my mouth, or my lips puckered on the rim of this furry cup, a shiver runs through me and I don’t want coffee nearly as much. If you print a copy of this picture and place it beside your coffee maker, it just might help you, too.       Then we can exchange ideas on what to do about the headaches. | https://github.com/RadheshyamHeena/fuzzy-spoon | 0 | 0| 
 | 20220506T10:58:14Z | Trabalho 01 primeira questão da Disciplina de Inteligência Computacional. | https://github.com/Flavia27/logicaFuzzy | 0 | 0| 
 | 20220506T09:16:31Z | Invariant Generation via Fuzzing. Achar tool for generating Almost Correct Invariants | https://github.com/lahiri-phdworks/Achar-Tool | 0 | 0| 
-| 20220506T07:41:34Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 781 | 160| 
 
 
 
