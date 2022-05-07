@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220507T12:17:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2694 | 389| 
 | 20220507T12:13:56Z | stupid polytoria exploit i did because i am funny | https://github.com/TheAwesome98-Real/shove-exploit | 0 | 0| 
 | 20220507T12:09:46Z | Null | https://github.com/yuvaly0/exploits | 23 | 10| 
 | 20220507T11:42:40Z | SambaCry exploit (CVE-2017-7494)  | https://github.com/eulercode/exploit-CVE-2017-7494 | 0 | 0| 
-| 20220507T10:52:57Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2693 | 389| 
 | 20220507T10:30:10Z | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/SeanJian09180/exploitagencyu | 0 | 0| 
 | 20220507T08:54:07Z | Null | https://github.com/Ruulian/exploit | 0 | 0| 
 | 20220507T08:05:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2697 | 330| 
