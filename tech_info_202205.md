@@ -92,10 +92,10 @@
 | 20220507T12:09:46Z | Null | https://github.com/yuvaly0/exploits | 23 | 10| 
 | 20220507T11:42:40Z | SambaCry exploit (CVE-2017-7494)  | https://github.com/eulercode/exploit-CVE-2017-7494 | 0 | 0| 
 | 20220507T10:30:10Z | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/SeanJian09180/exploitagencyu | 0 | 0| 
+| 20220507T09:37:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11442 | 1956| 
 | 20220507T08:54:07Z | Null | https://github.com/Ruulian/exploit | 0 | 0| 
 | 20220507T08:05:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2697 | 330| 
 | 20220507T07:40:22Z | A collection of Discord hacks & exploits that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 1 | 0| 
-| 20220507T07:36:41Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 91 | 54| 
 
 
 # backdoor on Github 推荐
