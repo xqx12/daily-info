@@ -106,7 +106,7 @@
 | 20220507T03:33:25Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 33 | 4| 
 | 20220507T02:52:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 469 | 89| 
 | 20220506T22:21:56Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 529 | 190| 
-| 20220506T16:44:17Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 43 | 5| 
+| 20220506T16:44:17Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 43 | 4| 
 | 20220506T12:40:12Z | Injector for MineCraft plugins (You can inject some backdoors to it) | https://github.com/theFoutryFPS/MCPlugInject | 0 | 0| 
 | 20220506T09:55:47Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 680 | 182| 
 | 20220506T04:02:46Z | Null | https://github.com/cashtwizzy/cipher-backdoor | 1 | 0| 
