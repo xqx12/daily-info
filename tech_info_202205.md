@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220507T00:49:13Z | CVE-2022-29464 | 1 | https://github.com/axin2019/CVE-2022-29464 | | 
 | 20220507T00:44:18Z | CVE-2022-1040 | may the poc with you | https://github.com/killvxk/CVE-2022-1040 | | 
 | 20220507T00:38:37Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
 | 20220507T00:24:47Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
@@ -55,7 +56,6 @@
 | 20220506T17:08:43Z | CVE-2022-21984 | Null | https://github.com/u201424348/CVE-2022-21984 | | 
 | 20220506T16:48:53Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | | 
 | 20220506T05:22:20Z | CVE-2022-25236 | Null | https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236 | | 
-| 20220505T14:46:04Z | CVE-2020-12696 | Stored Cross Site Scripting - Iframe Plugin - WordPress  | https://github.com/g-rubert/CVE-2020-12696 | | 
 
 
 # klee on Github 推荐
