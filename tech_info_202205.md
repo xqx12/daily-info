@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220507T01:29:07Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN | 0 | 0| 
 | 20220507T01:14:52Z | SILENT-PDF-EXPLOIT-CLEAN  | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-0 | 0 | 0| 
 | 20220507T00:13:33Z | A tool for identifying and exploiting vulnerable Viewstate implementations in ASP.NET  | https://github.com/isclayton/viewstalker | 0 | 0| 
 | 20220507T00:00:29Z | Roblox cheat GUI optimized for mobile exploiting (Arceus X) | https://github.com/ttvaweex/Mobilius-X | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220506T19:36:56Z | Null | https://github.com/PhasmaClient/Phasma-Exploit | 0 | 0| 
 | 20220506T19:19:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2695 | 329| 
 | 20220506T17:09:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11441 | 1955| 
-| 20220506T12:53:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2667 | 387| 
 
 
 # backdoor on Github 推荐
