@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220507T00:52:46Z | fuzzing with libFuzzer，inlude openssl heartbleed (CVE-2014-0160) | https://github.com/GardeniaWhite/fuzzing | 0 | 0| 
 | 20220506T23:29:25Z | Null | https://github.com/josephden16/fuzzy-octo-enigma | 0 | 0| 
 | 20220506T22:01:57Z | Fuzzy Logic SciKit (Toolkit for SciPy) | https://github.com/scikit-fuzzy/scikit-fuzzy | 600 | 235| 
 | 20220506T20:14:43Z | Fast fuzzy regex matcher: specify max edit distance to find approximate matches | https://github.com/Genivia/FuzzyMatcher | 18 | 4| 
@@ -149,7 +150,6 @@
 | 20220506T10:58:14Z | Trabalho 01 primeira questão da Disciplina de Inteligência Computacional. | https://github.com/Flavia27/logicaFuzzy | 0 | 0| 
 | 20220506T09:16:31Z | Invariant Generation via Fuzzing. Achar tool for generating Almost Correct Invariants | https://github.com/lahiri-phdworks/Achar-Tool | 0 | 0| 
 | 20220506T07:41:34Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 781 | 160| 
-| 20220506T07:40:47Z | JIGSAW is a fuzzing-based path constraint solver. | https://github.com/R-Fuzz/jigsaw | 29 | 1| 
 
 
 
