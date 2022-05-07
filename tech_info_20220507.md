@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220507T12:37:01Z | CVE-2022-1388 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2022-1388-scanner | | 
 | 20220507T11:43:01Z | CVE-2022-25075 | CVE-2022-25075 totolink command injection vulnerability | https://github.com/kuznyJan1972/CVE-2022-25075-RCE | | 
 | 20220507T09:47:56Z | cve-2020-3452 | Just proof of concept for Cisco CVE-2020-3452. Using external or internal file base. | https://github.com/iveresk/cve-2020-3452 | | 
 | 20220507T09:33:10Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | | 
@@ -27,7 +28,6 @@
 | 20220507T07:15:55Z | CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | | 
 | 20220507T05:58:36Z | CVE-2022-29464 | cve-2022-29464 EXP | https://github.com/LinJacck/CVE-2022-29464 | | 
 | 20220507T05:52:20Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-POC | | 
-| 20220507T02:58:11Z | CVE-2022-1040 | may the poc with you | https://github.com/killvxk/CVE-2022-1040 | | 
 
 
 # klee on Github 推荐
