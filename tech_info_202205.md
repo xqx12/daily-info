@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220507T12:50:03Z | PHsploit is a pytohn based windows exploitation framework.It comes with various kinds of features.It creates 100% undetectable python based .exe files with the help of pyinstaller. | https://github.com/Darkhaxxor005/PHsploit | 0 | 0| 
 | 20220507T12:38:31Z | Null | https://github.com/MabelRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20220507T12:32:48Z | An evolutionary algorithm that learns to break physics (in Minecraft) and fly indefinetly without the need of rockets. 🚀 | https://github.com/MarkasAis/auto-elytra-evolution | 0 | 0| 
 | 20220507T12:17:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2694 | 389| 
@@ -95,7 +96,6 @@
 | 20220507T10:30:10Z | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/SeanJian09180/exploitagencyu | 0 | 0| 
 | 20220507T09:37:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11442 | 1956| 
 | 20220507T08:54:07Z | Null | https://github.com/Ruulian/exploit | 0 | 0| 
-| 20220507T08:05:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2697 | 330| 
 
 
 # backdoor on Github 推荐
