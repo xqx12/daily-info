@@ -26,7 +26,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220506T23:13:47Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
 | 20220506T18:00:41Z | CVE-2022-1388 | This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services. There is no data plane exposure; this is a control plane issue only. | https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed | | 
 | 20220506T17:54:03Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
 | 20220506T17:29:27Z | CVE-2022-1040 | may the poc with you | https://github.com/killvxk/CVE-2022-1040 | | 
