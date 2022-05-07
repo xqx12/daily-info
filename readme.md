@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220507T12:09:46Z | Null | https://github.com/yuvaly0/exploits | 23 | 10| 
 | 20220507T11:42:40Z | SambaCry exploit (CVE-2017-7494)  | https://github.com/eulercode/exploit-CVE-2017-7494 | 0 | 0| 
 | 20220507T10:52:57Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2693 | 389| 
 | 20220507T10:30:10Z | Vanitygen PLUS! Generate vanity address for 100+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEA… | https://github.com/SeanJian09180/exploitagencyu | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20220507T07:36:41Z | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | 91 | 54| 
 | 20220507T06:54:17Z | FFMPEG heap overflow exploit CVE-2016-10190 | https://github.com/muzalam/FFMPEG-exploit | 0 | 0| 
 | 20220507T01:56:23Z | Null | https://github.com/codingcore1/SILENT-XLS-EXPLOIT-CLEAN- | 0 | 0| 
-| 20220507T01:29:07Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN | 0 | 0| 
 
 
 # backdoor on Github 推荐
