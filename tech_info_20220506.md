@@ -33,7 +33,6 @@
 | 20220506T17:21:12Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-POC | | 
 | 20220506T17:08:43Z | CVE-2022-21984 | Null | https://github.com/u201424348/CVE-2022-21984 | | 
 | 20220506T16:48:53Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | | 
-| 20220506T11:37:42Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 | 20220506T05:22:20Z | CVE-2022-25236 | Null | https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236 | | 
 
 
