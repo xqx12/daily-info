@@ -33,7 +33,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220507T11:36:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6022 | 220| 
+| 20220507T12:37:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6023 | 220| 
 | 20220507T11:16:29Z | Learn to Create responsive Personal Webdesign Using HTML CSS & JavaScript with Bedimcode | https://github.com/MildKanwala/Ansel-Klee-Portfolio | 0 | 0| 
 | 20220507T01:50:48Z | Null | https://github.com/youfantan/KleeBot | 4 | 0| 
 
@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220507T12:38:31Z | Null | https://github.com/MabelRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20220507T12:32:48Z | An evolutionary algorithm that learns to break physics (in Minecraft) and fly indefinetly without the need of rockets. 🚀 | https://github.com/MarkasAis/auto-elytra-evolution | 0 | 0| 
 | 20220507T12:17:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2694 | 389| 
 | 20220507T12:13:56Z | stupid polytoria exploit i did because i am funny | https://github.com/TheAwesome98-Real/shove-exploit | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20220507T09:37:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11442 | 1956| 
 | 20220507T08:54:07Z | Null | https://github.com/Ruulian/exploit | 0 | 0| 
 | 20220507T08:05:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2697 | 330| 
-| 20220507T07:40:22Z | A collection of Discord hacks & exploits that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 1 | 0| 
 
 
 # backdoor on Github 推荐
