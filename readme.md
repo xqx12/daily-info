@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T12:42:24Z | Null | https://github.com/Preethi-R25/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220508T12:15:52Z | website with good ui for the fuzzy algorithm  | https://github.com/RoninS28/FuzzyCruiseControllerWebsite | 0 | 0| 
 | 20220508T11:51:02Z | Null | https://github.com/roshie/neuro-fuzzy-inference-system | 0 | 0| 
 | 20220508T11:03:28Z | Others | https://github.com/Tygross12/fuzzy-guacamole | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20220508T08:31:59Z | Null | https://github.com/WangTimmy/fuzzy-octo-umbrella | 0 | 0| 
 | 20220508T07:58:15Z | 主题修改于https://github.com/TMaize/tmaize-blog | https://github.com/fuzz7j/fuzz7j.github.io | 0 | 0| 
 | 20220508T01:50:59Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
-| 20220508T01:22:27Z | fuzzy-couscous | https://github.com/Plenituz/fuzzy-couscous | 0 | 0| 
 
 
 
