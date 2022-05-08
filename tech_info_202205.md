@@ -140,7 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220508T01:43:17Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
+| 20220508T01:50:59Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
 | 20220508T01:22:27Z | fuzzy-couscous | https://github.com/Plenituz/fuzzy-couscous | 0 | 0| 
 | 20220508T01:02:15Z | Null | https://github.com/TessalonicaPutryAvrylya/Fuzzy-String-Data-Matching | 0 | 0| 
 | 20220508T00:58:47Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 0 | 0| 
