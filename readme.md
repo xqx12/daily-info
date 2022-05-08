@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T12:57:59Z | Null | https://github.com/GraySkuLL404/Backdoors | 0 | 0| 
 | 20220508T11:51:57Z | 科研训练使用 | https://github.com/chang-geng-d/backdoor101-gtsrb | 0 | 0| 
 | 20220508T05:02:58Z | Null | https://github.com/THUYimingLi/BackdoorBox | 47 | 13| 
 | 20220508T00:33:16Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 42 | 9| 

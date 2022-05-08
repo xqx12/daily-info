@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T12:57:59Z | Null | https://github.com/GraySkuLL404/Backdoors | 0 | 0| 
 | 20220508T11:51:57Z | 科研训练使用 | https://github.com/chang-geng-d/backdoor101-gtsrb | 0 | 0| 
 | 20220508T05:02:58Z | Null | https://github.com/THUYimingLi/BackdoorBox | 47 | 13| 
 | 20220508T00:33:16Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 42 | 9| 
@@ -110,7 +111,6 @@
 | 20220507T03:33:25Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 33 | 4| 
 | 20220507T02:52:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 469 | 89| 
 | 20220506T16:44:17Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 43 | 4| 
-| 20220506T12:40:12Z | Injector for MineCraft plugins (You can inject some backdoors to it) | https://github.com/theFoutryFPS/MCPlugInject | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
