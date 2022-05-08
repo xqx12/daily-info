@@ -56,9 +56,9 @@
 | 20220507T21:09:12Z | Exploiting smart contract vulnerabilities from https://www.damnvulnerabledefi.xyz/ as part of Computer Forensics college course. | https://github.com/mislavivanda/RF_DamnVulnerableDeFi | 0 | 0| 
 | 20220507T19:17:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11443 | 1956| 
 | 20220507T18:53:51Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 142 | 74| 
+| 20220507T13:31:35Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 258 | 49| 
 | 20220507T12:50:03Z | PHsploit is a pytohn based windows exploitation framework.It comes with various kinds of features.It creates 100% undetectable python based .exe files with the help of pyinstaller. | https://github.com/Darkhaxxor005/PHsploit | 0 | 0| 
 | 20220507T12:38:31Z | Null | https://github.com/MabelRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
-| 20220507T12:32:48Z | An evolutionary algorithm that learns to break physics (in Minecraft) and fly indefinetly without the need of rockets. 🚀 | https://github.com/MarkasAis/auto-elytra-evolution | 0 | 0| 
 
 
 # backdoor on Github 推荐
