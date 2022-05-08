@@ -39,8 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T12:52:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11445 | 1957| 
 | 20220508T12:15:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2724 | 391| 
-| 20220508T10:06:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11444 | 1957| 
 | 20220508T09:23:17Z | PHsploit is a pytohn based windows exploitation framework.It comes with various kinds of features.It creates 100% undetectable python based .exe files with the help of pyinstaller. | https://github.com/Darkhaxxor005/PHsploit | 2 | 0| 
 | 20220508T09:02:39Z | SambaCry exploit (CVE-2017-7494)  | https://github.com/eulercode/exploit-CVE-2017-7494 | 0 | 0| 
 | 20220508T08:36:58Z | exploit gui template for roblox. can be used for script hubs and much more, | https://github.com/gtaharo/Roblox-UI-Template | 0 | 0| 
