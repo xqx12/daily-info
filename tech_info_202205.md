@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T00:38:34Z | Decompiled exploit DLL sources. | https://github.com/clxyify/Decompiled-Sources | 0 | 0| 
 | 20220507T21:33:55Z | Get Mines Of Dalarnia Hacks, Bots, Cheats and Exploits here | https://github.com/x3838203739203739203834203832/minesofdalarnia | 0 | 0| 
 | 20220507T21:28:04Z | Null | https://github.com/vqfx/exploiter | 0 | 0| 
 | 20220507T21:26:34Z | Free multi exploit tool for roblox | https://github.com/IamJamieX/Organic-Rx | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220507T18:53:51Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 142 | 74| 
 | 20220507T12:50:03Z | PHsploit is a pytohn based windows exploitation framework.It comes with various kinds of features.It creates 100% undetectable python based .exe files with the help of pyinstaller. | https://github.com/Darkhaxxor005/PHsploit | 0 | 0| 
 | 20220507T12:38:31Z | Null | https://github.com/MabelRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
-| 20220507T12:32:48Z | An evolutionary algorithm that learns to break physics (in Minecraft) and fly indefinetly without the need of rockets. 🚀 | https://github.com/MarkasAis/auto-elytra-evolution | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,10 +116,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T00:36:12Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 398 | 19| 
 | 20220507T23:31:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2847 | 412| 
 | 20220507T18:22:19Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 2 | 0| 
 | 20220507T15:54:34Z | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
-| 20220507T12:56:13Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 397 | 19| 
 | 20220506T10:47:19Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 58 | 3| 
 | 20220506T03:30:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1964 | 555| 
 | 20220506T03:08:07Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 31 | 19| 
