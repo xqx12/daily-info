@@ -140,8 +140,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T00:58:47Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 0 | 0| 
 | 20220508T00:56:20Z | Null | https://github.com/TessalonicaPutryAvrylya/Fuzzy-String-Data-Matching | 0 | 0| 
-| 20220508T00:47:34Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 0 | 0| 
 | 20220507T23:17:37Z | Estudo de caso do curso superior de Ciência de Dados(Unopar) utilizando o algoritmo de Fuzzy Logic (lógica nebulosa) como solução para a situação problema | https://github.com/muriloWeber/fuzzyLogicCase | 0 | 0| 
 | 20220507T22:28:54Z | Null | https://github.com/elocan/fuzzy_string_matching | 0 | 0| 
 | 20220507T22:07:04Z | This is in progress fuzzy application for android written in kotlin | https://github.com/DusanTodorovic5/FuzzyApp | 1 | 0| 
