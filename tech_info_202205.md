@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220508T11:09:03Z | CVE-2022-1388 | This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services. There is no data plane exposure; this is a control plane issue only. | https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed | | 
+| 20220508T09:28:49Z | CVE-2022-1388 | Null | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker | | 
+| 20220508T08:58:52Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
+| 20220508T07:37:33Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
+| 20220508T07:07:08Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-RCE | | 
+| 20220508T04:30:05Z | CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | | 
 | 20220507T21:57:15Z | CVE-2022-27434 | UNIT4 TETA Mobile Edition 29HF13 was discovered to contain a SQL injection vulnerability via the ProfileName parameter in the errorReporting page. | https://github.com/LongWayHomie/CVE-2022-27434 | | 
-| 20220507T19:24:54Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
-| 20220507T18:05:30Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-RCE | | 
 | 20220507T17:22:20Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | | 
 | 20220507T16:46:52Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-POC | | 
 | 20220507T14:26:19Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
-| 20220507T13:01:03Z | CVE-2022-1388 | This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services. There is no data plane exposure; this is a control plane issue only. | https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed | | 
-| 20220507T12:37:01Z | CVE-2022-1388 | A vulnerability scanner that detects CVE-2021-21980 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2022-1388-scanner | | 
-| 20220507T11:43:01Z | CVE-2022-25075 | CVE-2022-25075 totolink command injection vulnerability | https://github.com/kuznyJan1972/CVE-2022-25075-RCE | | 
-| 20220507T09:47:56Z | cve-2020-3452 | Just proof of concept for Cisco CVE-2020-3452. Using external or internal file base. | https://github.com/iveresk/cve-2020-3452 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220507T23:20:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6027 | 221| 
-| 20220507T11:16:29Z | Learn to Create responsive Personal Webdesign Using HTML CSS & JavaScript with Bedimcode | https://github.com/MildKanwala/Ansel-Klee-Portfolio | 0 | 0| 
+| 20220508T11:45:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6031 | 221| 
+| 20220508T08:20:45Z | Learn to Create responsive Personal Webdesign Using HTML CSS & JavaScript with Bedimcode | https://github.com/MildKanwala/Ansel-Klee-Portfolio | 0 | 0| 
 | 20220507T01:50:48Z | Null | https://github.com/youfantan/KleeBot | 4 | 0| 
 | 20220506T19:19:24Z | Config files for my GitHub profile. | https://github.com/kleekkkkk/kleekkkkk | 0 | 0| 
 | 20220506T12:55:00Z | Null | https://github.com/touros91/kleecks | 0 | 0| 
@@ -86,21 +86,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T11:13:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2723 | 391| 
+| 20220508T09:23:17Z | PHsploit is a pytohn based windows exploitation framework.It comes with various kinds of features.It creates 100% undetectable python based .exe files with the help of pyinstaller. | https://github.com/Darkhaxxor005/PHsploit | 2 | 0| 
+| 20220508T09:02:39Z | SambaCry exploit (CVE-2017-7494)  | https://github.com/eulercode/exploit-CVE-2017-7494 | 0 | 0| 
+| 20220508T08:36:58Z | exploit gui template for roblox. can be used for script hubs and much more, | https://github.com/gtaharo/Roblox-UI-Template | 0 | 0| 
+| 20220508T08:11:14Z | Null | https://github.com/ruchirasvmm/log4j-exploit-demo | 0 | 0| 
+| 20220508T06:17:56Z | Null | https://github.com/bissakov/exploit-example | 0 | 0| 
+| 20220508T05:55:11Z | Android Exploit is an advanced version of rat/payload/botnet and can hack an android device in less than 1 minute and can control multiple devices at once. Can hack the latest security android os 12 api (31). minimum sdk (24). It can bypass most of the antivirus available on the internet. Made possible by DaTechies | https://github.com/datechies/Exploit | 2 | 0| 
+| 20220508T03:51:28Z | Help Lua Roblox Exploiter write script | https://github.com/aRealLuaCoder/aRealLuaCoder.github.io | 0 | 0| 
+| 20220508T01:00:44Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 268 | 31| 
 | 20220508T00:38:34Z | Decompiled exploit DLL sources. | https://github.com/clxyify/Decompiled-Sources | 0 | 0| 
-| 20220507T21:37:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2699 | 331| 
-| 20220507T21:33:55Z | Get Mines Of Dalarnia Hacks, Bots, Cheats and Exploits here | https://github.com/x3838203739203739203834203832/minesofdalarnia | 0 | 0| 
-| 20220507T21:28:04Z | Null | https://github.com/vqfx/exploiter | 0 | 0| 
-| 20220507T21:26:34Z | Free multi exploit tool for roblox | https://github.com/IamJamieX/Organic-Rx | 0 | 0| 
-| 20220507T21:21:42Z | A GUI version of axi0mX%s ipwndfu exploit suite | https://github.com/alyxferrari/checkm8gui | 62 | 21| 
-| 20220507T21:09:12Z | Exploiting smart contract vulnerabilities from https://www.damnvulnerabledefi.xyz/ as part of Computer Forensics college course. | https://github.com/mislavivanda/RF_DamnVulnerableDeFi | 0 | 0| 
-| 20220507T19:17:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11443 | 1956| 
-| 20220507T18:53:51Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 142 | 74| 
-| 20220507T13:31:35Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 258 | 49| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T11:51:57Z | 科研训练使用 | https://github.com/chang-geng-d/backdoor101-gtsrb | 0 | 0| 
+| 20220508T05:02:58Z | Null | https://github.com/THUYimingLi/BackdoorBox | 47 | 13| 
 | 20220508T00:33:16Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 42 | 9| 
 | 20220507T20:38:07Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 530 | 190| 
 | 20220507T14:58:17Z | python reverses-shell backdoor with added functionality: | https://github.com/Llama254/reverse-shell | 0 | 0| 
@@ -109,8 +111,6 @@
 | 20220507T02:52:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 469 | 89| 
 | 20220506T16:44:17Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 43 | 4| 
 | 20220506T12:40:12Z | Injector for MineCraft plugins (You can inject some backdoors to it) | https://github.com/theFoutryFPS/MCPlugInject | 0 | 0| 
-| 20220506T09:55:47Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 680 | 182| 
-| 20220506T04:02:46Z | Null | https://github.com/cashtwizzy/cipher-backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T11:51:02Z | Null | https://github.com/roshie/neuro-fuzzy-inference-system | 0 | 0| 
+| 20220508T11:03:28Z | Others | https://github.com/Tygross12/fuzzy-guacamole | 0 | 0| 
+| 20220508T10:02:48Z | Recent developments in bioinspired technologies combined with the advance of intelligent and soft materials have allowed soft robots to replicate the behavior of different animal species. These devices can perform complicated tasks such as reaching or adapting in constrained and unstructured environments. This article proposes a methodology to develop a soft robot called “JellyRobcib” inspired in morphology and behavior by jellyfish, using shape-memory alloy springs as actuators (as bio-muscles). Such actuators can move the jellyfish both vertically and laterally by applying closed-loop fuzzy and visual controls. Additionally, Computer-Assisted Designs and Computational Fluid Dynamics simulations have been carried out to validate the soft robot model. The results show that the robot movements are very close to the morphological behavior of a real jellyfish regarding the curves of displacements, speeds and accelerations, after performing several experiments for autonomous movement: vertical ascent, lateral movements and trajectory tracking, obtaining an accuracy of ±1479 cm and repeatability of 0.944 for lateral movements for fuzzy visual control. Furthermore, thermal measurements were taken throughout a given path, allowing the generation of temperature gradients within the underwater environment for monitoring purposes. | https://github.com/SureshShweta/fuzzy-octo-memory | 0 | 0| 
+| 20220508T09:47:29Z | ssh packet sniffer to detect fuzzing attacks | https://github.com/DavidOP1/SSHSniffer | 0 | 0| 
+| 20220508T08:38:35Z | 为fuzzy-nms生成模糊分类的代码 | https://github.com/Jasen-zhao/Fuzzy-class | 0 | 0| 
+| 20220508T08:31:59Z | Null | https://github.com/WangTimmy/fuzzy-octo-umbrella | 0 | 0| 
+| 20220508T07:58:15Z | 主题修改于https://github.com/TMaize/tmaize-blog | https://github.com/fuzz7j/fuzz7j.github.io | 0 | 0| 
 | 20220508T01:50:59Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
 | 20220508T01:22:27Z | fuzzy-couscous | https://github.com/Plenituz/fuzzy-couscous | 0 | 0| 
 | 20220508T01:02:15Z | Null | https://github.com/TessalonicaPutryAvrylya/Fuzzy-String-Data-Matching | 0 | 0| 
-| 20220508T00:58:47Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 0 | 0| 
-| 20220507T23:17:37Z | Estudo de caso do curso superior de Ciência de Dados(Unopar) utilizando o algoritmo de Fuzzy Logic (lógica nebulosa) como solução para a situação problema | https://github.com/muriloWeber/fuzzyLogicCase | 0 | 0| 
-| 20220507T22:28:54Z | Null | https://github.com/elocan/fuzzy_string_matching | 0 | 0| 
-| 20220507T22:07:04Z | This is in progress fuzzy application for android written in kotlin | https://github.com/DusanTodorovic5/FuzzyApp | 1 | 0| 
-| 20220507T21:54:03Z | Null | https://github.com/adititibarewal26/final_fuzzy_aa | 0 | 0| 
-| 20220507T20:45:28Z | GB Emulator in Java | https://github.com/Fuzzyzilla/FuzzGB | 0 | 0| 
-| 20220507T20:25:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2536 | 165| 
 
 
 
