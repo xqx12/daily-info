@@ -87,6 +87,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220508T12:15:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2724 | 391| 
+| 20220508T10:06:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11444 | 1957| 
 | 20220508T09:23:17Z | PHsploit is a pytohn based windows exploitation framework.It comes with various kinds of features.It creates 100% undetectable python based .exe files with the help of pyinstaller. | https://github.com/Darkhaxxor005/PHsploit | 2 | 0| 
 | 20220508T09:02:39Z | SambaCry exploit (CVE-2017-7494)  | https://github.com/eulercode/exploit-CVE-2017-7494 | 0 | 0| 
 | 20220508T08:36:58Z | exploit gui template for roblox. can be used for script hubs and much more, | https://github.com/gtaharo/Roblox-UI-Template | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220508T05:55:11Z | Android Exploit is an advanced version of rat/payload/botnet and can hack an android device in less than 1 minute and can control multiple devices at once. Can hack the latest security android os 12 api (31). minimum sdk (24). It can bypass most of the antivirus available on the internet. Made possible by DaTechies | https://github.com/datechies/Exploit | 2 | 0| 
 | 20220508T03:51:28Z | Help Lua Roblox Exploiter write script | https://github.com/aRealLuaCoder/aRealLuaCoder.github.io | 0 | 0| 
 | 20220508T01:00:44Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 268 | 31| 
-| 20220508T00:38:34Z | Decompiled exploit DLL sources. | https://github.com/clxyify/Decompiled-Sources | 0 | 0| 
 
 
 # backdoor on Github 推荐
