@@ -87,6 +87,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220508T00:38:34Z | Decompiled exploit DLL sources. | https://github.com/clxyify/Decompiled-Sources | 0 | 0| 
+| 20220507T21:37:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2699 | 331| 
 | 20220507T21:33:55Z | Get Mines Of Dalarnia Hacks, Bots, Cheats and Exploits here | https://github.com/x3838203739203739203834203832/minesofdalarnia | 0 | 0| 
 | 20220507T21:28:04Z | Null | https://github.com/vqfx/exploiter | 0 | 0| 
 | 20220507T21:26:34Z | Free multi exploit tool for roblox | https://github.com/IamJamieX/Organic-Rx | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220507T19:17:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11443 | 1956| 
 | 20220507T18:53:51Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 142 | 74| 
 | 20220507T13:31:35Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 258 | 49| 
-| 20220507T12:50:03Z | PHsploit is a pytohn based windows exploitation framework.It comes with various kinds of features.It creates 100% undetectable python based .exe files with the help of pyinstaller. | https://github.com/Darkhaxxor005/PHsploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
