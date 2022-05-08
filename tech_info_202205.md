@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T12:15:52Z | website with good ui for the fuzzy algorithm  | https://github.com/RoninS28/FuzzyCruiseControllerWebsite | 0 | 0| 
 | 20220508T11:51:02Z | Null | https://github.com/roshie/neuro-fuzzy-inference-system | 0 | 0| 
 | 20220508T11:03:28Z | Others | https://github.com/Tygross12/fuzzy-guacamole | 0 | 0| 
 | 20220508T10:02:48Z | Recent developments in bioinspired technologies combined with the advance of intelligent and soft materials have allowed soft robots to replicate the behavior of different animal species. These devices can perform complicated tasks such as reaching or adapting in constrained and unstructured environments. This article proposes a methodology to develop a soft robot called “JellyRobcib” inspired in morphology and behavior by jellyfish, using shape-memory alloy springs as actuators (as bio-muscles). Such actuators can move the jellyfish both vertically and laterally by applying closed-loop fuzzy and visual controls. Additionally, Computer-Assisted Designs and Computational Fluid Dynamics simulations have been carried out to validate the soft robot model. The results show that the robot movements are very close to the morphological behavior of a real jellyfish regarding the curves of displacements, speeds and accelerations, after performing several experiments for autonomous movement: vertical ascent, lateral movements and trajectory tracking, obtaining an accuracy of ±1479 cm and repeatability of 0.944 for lateral movements for fuzzy visual control. Furthermore, thermal measurements were taken throughout a given path, allowing the generation of temperature gradients within the underwater environment for monitoring purposes. | https://github.com/SureshShweta/fuzzy-octo-memory | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220508T07:58:15Z | 主题修改于https://github.com/TMaize/tmaize-blog | https://github.com/fuzz7j/fuzz7j.github.io | 0 | 0| 
 | 20220508T01:50:59Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
 | 20220508T01:22:27Z | fuzzy-couscous | https://github.com/Plenituz/fuzzy-couscous | 0 | 0| 
-| 20220508T01:02:15Z | Null | https://github.com/TessalonicaPutryAvrylya/Fuzzy-String-Data-Matching | 0 | 0| 
 
 
 
