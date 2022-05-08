@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T00:47:34Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 0 | 0| 
 | 20220507T23:17:37Z | Estudo de caso do curso superior de Ciência de Dados(Unopar) utilizando o algoritmo de Fuzzy Logic (lógica nebulosa) como solução para a situação problema | https://github.com/muriloWeber/fuzzyLogicCase | 0 | 0| 
 | 20220507T22:28:54Z | Null | https://github.com/elocan/fuzzy_string_matching | 0 | 0| 
 | 20220507T22:07:04Z | This is in progress fuzzy application for android written in kotlin | https://github.com/DusanTodorovic5/FuzzyApp | 1 | 0| 
@@ -149,7 +150,6 @@
 | 20220507T17:49:44Z | A set of wordlists useful for bug bounty and fuzzing for vulnerabilties recon. | https://github.com/Ayoub-2/Fuzz-Wordlists | 0 | 0| 
 | 20220507T17:00:55Z | Null | https://github.com/SeekerSonal/fuzzy-groot | 0 | 0| 
 | 20220507T15:01:05Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 9 | 4| 
-| 20220507T11:06:00Z | Null | https://github.com/Mjn2318/fuzzy-doodle | 0 | 0| 
 
 
 
