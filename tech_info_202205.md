@@ -117,7 +117,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220508T12:42:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2849 | 413| 
-| 20220508T10:29:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 399 | 19| 
+| 20220508T10:29:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 399 | 18| 
 | 20220508T03:25:45Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 32 | 19| 
 | 20220507T18:22:19Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 2 | 0| 
 | 20220507T15:54:34Z | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
