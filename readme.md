@@ -75,8 +75,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220507T10:31:05Z | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | 47 | 3| 
-| 20220507T06:59:44Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 396 | 19| 
+| 20220507T23:31:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2847 | 412| 
+| 20220507T18:22:19Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 2 | 0| 
+| 20220507T15:54:34Z | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
+| 20220507T12:56:13Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 397 | 19| 
 
 
 # big4 on Github 推荐
