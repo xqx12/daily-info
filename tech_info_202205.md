@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:06:09Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
 | 20220509T12:03:45Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP RCE 批量检测 | https://github.com/bytecaps/CVE-2022-1388-EXP | | 
 | 20220509T12:00:13Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220509T11:58:37Z | CVE-2022-1388 | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | | 
@@ -55,7 +56,6 @@
 | 20220509T11:36:04Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220509T11:34:11Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
 | 20220509T10:46:19Z | CVE-2022-1388 | CVE-2022-1388 F5 Big IP unauth remote code execution | https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388 | | 
-| 20220509T09:09:57Z | CVE-2022-28346 | Django QuerySet.annotate(), aggregate(), extra() SQL 注入 | https://github.com/DeEpinGh0st/CVE-2022-28346 | | 
 
 
 # klee on Github 推荐
