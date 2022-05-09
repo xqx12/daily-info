@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T01:22:07Z | Null | https://github.com/purseclab/fuzzusb | 0 | 0| 
 | 20220509T01:10:07Z | One implementation of the fuzzy decision tree algorithm in “Fuzzy Decision Trees by Fuzzy ID3 Algorithm and Its Application to Diagnosis Systems” | https://github.com/kliang5/FuzzyDecisionTree | 0 | 0| 
 | 20220509T00:01:07Z | Automation of http://automationpractice.com/index.php | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
 | 20220508T23:49:01Z | Null | https://github.com/irfanafi9813/TuPro2-Fuzzy | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20220508T22:35:19Z | Coursera test repository | https://github.com/dave-16/fuzzy-octo-memory | 0 | 0| 
 | 20220508T21:26:21Z | The fastest driver IOCTL fuzzer ever written. | https://github.com/Exploitables/IOCTL-Explosion | 3 | 0| 
 | 20220508T18:55:51Z | Null | https://github.com/PedroVicente98/FuzzyProject | 0 | 0| 
-| 20220508T12:42:24Z | Null | https://github.com/Preethi-R25/Neuro-Fuzzy-Inference-System | 0 | 0| 
 
 
 
