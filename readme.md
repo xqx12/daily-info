@@ -57,10 +57,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:14:07Z | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | 1 | 0| 
 | 20220509T12:00:48Z | A tool to sort CVEs by their severity, number of exploits, and date. Good for organizing information during a pen test. Written by my friend Joseph and myself. | https://github.com/beardingwithbryan/cve-lookup | 0 | 0| 
 | 20220509T11:58:37Z | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | 0 | 0| 
 | 20220509T11:36:04Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 1 | 1| 
-| 20220509T11:34:11Z | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | 0 | 0| 
 | 20220509T11:11:51Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 393 | 78| 
 | 20220509T09:20:06Z | Application of transfer learning to exceed the regional limitations and exploit the potential of microbial-based cross-regional diagnosis of diseases.   | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | 0 | 0| 
 | 20220509T06:36:45Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 200 | 38| 
