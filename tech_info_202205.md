@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220509T12:19:51Z | Automatically generated test cases for fuzzing script engine | https://github.com/HyperDbg/machine-generated-scripts | 1 | 0| 
+| 20220509T12:22:59Z | Automatically generated test cases for fuzzing script engine | https://github.com/HyperDbg/machine-generated-scripts | 2 | 0| 
 | 20220509T12:06:48Z | Paper: Multi‑objective optimization of MOSFETs channel widths and supply voltage in the proposed dual edge‑triggered static D flip‑flop with minimum average power and delay by using fuzzy non‑dominated sorting genetic algorithm‑II | https://github.com/FarshidKeivanian/FuzzyNSGA-II | 0 | 0| 
 | 20220509T11:27:22Z | Null | https://github.com/JBBS7/Neuro-Fuzzy-Inference-System-Implementation | 0 | 0| 
 | 20220509T09:48:26Z | Controling drone (4 rotors) with fuzzy logic and ESP32 microcontroller | https://github.com/tilben97/Drone_Control_Fuzzy | 0 | 0| 
