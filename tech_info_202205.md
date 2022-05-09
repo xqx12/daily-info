@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220509 | GCP IAM 提权相关的资料整理 | https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation| 
+| 20220509 | Detecting Hypervisor-assisted Hooking | https://www.reddit.com/r/ReverseEngineering/comments/uh9vy9/detecting_hypervisorassisted_hooking/| 
+| 20220509 | linux 系统 systemd 组件 Nimbuspwn 本地提权漏洞分析（CVE-2022-29800） | https://fourcore.io/blogs/nimbuspwn-linux-vulnerabilities-allows-root-access-cve-2022-29799-and-cve-2022-29800| 
+| 20220509 | Hacking a Bank by Finding a 0day in DotCMS | https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/| 
+| 20220509 | Raspberry Robin - 利用 USB 并借助 Windows Installer 感染并传播的蠕虫 | http://redcanary.com/blog/raspberry-robin/| 
+| 20220509 | Jira Seraph 认证绕过漏洞分析（CVE-2022-0540） | https://blog.viettelcybersecurity.com/cve-2022-0540-authentication-bypass-in-seraph/| 
+| 20220509 | 恶意软件滥用 Avast 反病毒软件驱动的缺陷绕过检测 | https://www.aon.com/cyber-solutions/aon_cyber_labs/yours-truly-signed-av-driver-weaponizing-an-antivirus-driver/| 
+| 20220509 | 利用 vx-underground 恶意软件库的样本 Fuzz ClamAV | http://mmmds.pl/clamav/| 
+| 20220509 | SIMulation - 对基于蜂窝网络的一键登录（One-Tap Authentication）方案的研究报告 | http://sjtu.lijuanru.com/publications/dsn22-s.pdf| 
 | 20220506 | Windows Defender for Endpoint 版本的数据采集范围、防护机制研究 | https://github.com/olafhartong/Presentations/blob/master/Lifting-the-veil-a-look-at-MDE-under-the-hood.pdf| 
 | 20220506 | Avos Locker 勒索软件的分析报告 | https://securityscorecard.com/resources/a-deep-dive-into-avos-locker-ransomware| 
 | 20220506 | 恶意软件滥用微软签名的 Mavinject.exe 实现进程代码注入 | https://fourcore.io/blogs/mavinject-curious-process-injection| 
@@ -17,20 +26,14 @@
 | 20220505 | 利用 Fileless 类型的恶意软件攻击文件系统只读的容器 | https://sysdig.com/blog/containers-read-only-fileless-malware/| 
 | 20220505 | uClibc 库的 DNS 实现存在漏洞，影响 IoT 设备 | http://www.nozominetworks.com/blog/nozomi-networks-discovers-unpatched-DNS-bug-in-popular-c-standard-library-putting-iot-at-risk/| 
 | 20220505 | Ret2dl_resolve x64: Exploiting Dynamic Linking Procedure In x64 ELF Binaries | http://syst3mfailure.io/ret2dl_resolve| 
-| 20220505 | iBoot Firebloom 的内存指针防护时如何实现的 | https://saaramar.github.io/iBoot_firebloom/| 
-| 20220505 | Masscan 端口扫描时如何实现的 | http://rushter.com/blog/how-masscan-works/| 
-| 20220505 | JIGSAW: Fuzzing Path Constraints（Paper） | https://chengyusong.github.io/fuzzing/2022/05/03/jigsaw.html| 
-| 20220505 | 研究 Windows 在注册表存储 scheduled tasks 的细节，以及如何避免触发 ETW 的日志监控 | http://labs.f-secure.com/blog/scheduled-task-tampering/| 
-| 20220505 | Unpacking PyInstaller 编译后的可执行文件，还原 Python 源码 | https://www.fortinet.com/blog/threat-research/unpacking-python-executables-windows-linux| 
-| 20220505 | 从点线面体局势角度看代码审计 | http://evilpan.com/2022/05/01/code-audit-thoughts/| 
-| 20220505 | 利用 EPSS（漏洞被利用可能性指标）作为补充，结合 CVSS 评分体系整体评估漏洞的威胁程度 | https://sec.today/pulses/7e8ddeb1-4510-4e4e-bd56-2956d38c5ad7/| 
-| 20220505 | 利用 EPSS（漏洞被利用可能性指标）作为补充，结合 CVSS 评分体系整体评估漏洞的威胁程度 | https://www.fortinet.com/blog/threat-research/predict-threats-and-secure-networks-with-epss| 
-| 20220505 | 从 PWN2OWN CVE-2022-27666 看内核页风水 | https://paper.seebug.org/1889/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220509 | 【D3FEND】网络安全对策知识图谱框架解读 | https://mp.weixin.qq.com/s/ziHX1gQYo89sWz248yLgAQ| 
+| 20220509 | SecWiki周刊（第427期) | https://www.sec-wiki.com/weekly/427| 
+| 20220509 | 从500到账户接管 | https://www.sec-in.com/article/1692| 
 | 20220508 | 智能电表安全之通讯分析 | https://mp.weixin.qq.com/s/3GVK_Xm_H93PyRKu35ttoQ| 
 | 20220508 | OffensiveNotion: Notion as a platform for offensive operat... | https://github.com/mttaggart/OffensiveNotion| 
 | 20220507 | 初探Java安全之JavaAgent | https://www.sec-in.com/article/1690| 
@@ -38,24 +41,21 @@
 | 20220507 | 使用 Sonarr 搭建自动化追番系统 | https://reorx.com/blog/track-and-download-shows-automatically-with-sonarr/| 
 | 20220507 | flybirds: 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案 | https://github.com/ctripcorp/flybirds| 
 | 20220506 | 自定义跳转函数的通用unhook方法 | https://www.sec-in.com/article/1704| 
-| 20220506 | 域控被突破的几种途径 | https://mp.weixin.qq.com/s/nKvAD4ixmbZcxzkxCTxAfQ| 
-| 20220505 | Botconf 2022 议题速递 | https://mp.weixin.qq.com/s/G6EFRXY0DB9j-jzINuXLPQ| 
-| 20220505 | 利用代码知识图谱实现Bug定位 | https://mp.weixin.qq.com/s/i4lHXM2NW9zNMkLn4B0eyQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220508T23:36:07Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
-| 20220508T20:57:29Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
-| 20220508T20:57:02Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-RCE | | 
-| 20220508T15:23:49Z | CVE-2022-24734 | Null | https://github.com/Altelus1/CVE-2022-24734 | | 
-| 20220508T15:00:29Z | CVE-2022-26809 | CVE-2022-26809   ,  is a  remote code execution vulnerablity in rpc runtime and affects a wide versions of windows  | https://github.com/seciurdt/CVE-2022-26809-POC | | 
-| 20220508T14:59:33Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | | 
-| 20220508T14:41:43Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
-| 20220508T11:09:03Z | CVE-2022-1388 | This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services. There is no data plane exposure; this is a control plane issue only. | https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed | | 
-| 20220508T09:28:49Z | CVE-2022-1388 | Null | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker | | 
-| 20220508T04:30:05Z | CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | | 
+| 20220509T12:00:13Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
+| 20220509T11:58:37Z | CVE-2022-1388 | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | | 
+| 20220509T11:51:50Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
+| 20220509T11:46:27Z | CVE-2022-1388 | batch scan CVE-2022-1388 | https://github.com/yukar1z0e/CVE-2022-1388 | | 
+| 20220509T11:44:29Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP RCE 批量检测 | https://github.com/bytecaps/CVE-2022-1388-EXP | | 
+| 20220509T11:43:38Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE | | 
+| 20220509T11:36:04Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
+| 20220509T11:34:11Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
+| 20220509T10:46:19Z | CVE-2022-1388 | CVE-2022-1388 F5 Big IP unauth remote code execution | https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388 | | 
+| 20220509T09:09:57Z | CVE-2022-28346 | Django QuerySet.annotate(), aggregate(), extra() SQL 注入 | https://github.com/DeEpinGh0st/CVE-2022-28346 | | 
 
 
 # klee on Github 推荐
@@ -76,7 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220507T15:54:34Z | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
+| 20220509T08:50:07Z | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
+| 20220509T06:42:38Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 18 | 2| 
 | 20220504T05:55:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 | 20220503T22:03:30Z | S2E website (s2e.systems) | https://github.com/S2E2/s2e2.github.io | 0 | 0| 
 | 20220502T21:17:55Z | Null | https://github.com/Buttermint69/S2EF | 0 | 0| 
@@ -86,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:00:48Z | A tool to sort CVEs by their severity, number of exploits, and date. Good for organizing information during a pen test. Written by my friend Joseph and myself. | https://github.com/beardingwithbryan/cve-lookup | 0 | 0| 
+| 20220509T11:58:37Z | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | 0 | 0| 
+| 20220509T11:36:04Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 1 | 0| 
+| 20220509T11:34:11Z | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | 0 | 0| 
+| 20220509T11:11:51Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 393 | 78| 
+| 20220509T09:20:06Z | Application of transfer learning to exceed the regional limitations and exploit the potential of microbial-based cross-regional diagnosis of diseases.   | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | 0 | 0| 
+| 20220509T06:36:45Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 200 | 38| 
+| 20220509T03:40:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2745 | 394| 
 | 20220509T01:52:17Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1002 | 164| 
 | 20220509T00:50:32Z | A simple module to spoof and hook instances and values in roblox | https://github.com/0zBug/HookingService | 0 | 0| 
-| 20220509T00:47:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2701 | 331| 
-| 20220509T00:17:00Z | Null | https://github.com/codingcore1/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 0 | 0| 
-| 20220509T00:15:22Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-2 | 0 | 0| 
-| 20220509T00:13:45Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-4 | 0 | 0| 
-| 20220509T00:04:48Z | Exploits a design flaw in the FAA%s airmen database to discover a pilot%s date of birth (and possibly certificate number) via brute forcing. Uses Selenium and WebDriver. | https://github.com/zylai/faa-airmen-database-birthday | 1 | 0| 
-| 20220508T22:30:29Z | terrible roblox scripts | https://github.com/XJMI/Skidded-Scripts | 1 | 0| 
-| 20220508T21:50:02Z | My notes about network services exploitation | https://github.com/pedrogg0/network_services_exploitation | 0 | 0| 
-| 20220508T21:42:04Z | I originally discovered this vulnerability sometime during the summer of 2021. However, I never made a proper exploit for it. | https://github.com/Exploitables/AMD-uProf-0day-LPE | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T11:31:27Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 9| 
+| 20220509T09:44:10Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 975 | 142| 
+| 20220509T09:18:22Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 471 | 89| 
+| 20220509T05:42:35Z | Null | https://github.com/OsweRRR/backdoor-amxx | 0 | 0| 
+| 20220509T04:50:46Z | Kurzer Vortrag für die Berufsschule | https://github.com/jamieahelmke/Vortrag-Exploits-Backdoors | 0 | 0| 
+| 20220509T04:04:34Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 38 | 7| 
+| 20220509T03:56:16Z | bypass upload shell + mailer script priv8 | https://github.com/k0wk/backdoor | 0 | 0| 
 | 20220508T22:03:07Z | Sebia started to sell source and i decided to leak GTPS3 source. You don%t need to pay this source while im leaking. Beware at using because source have a lot of Sebia%s backdoor. | https://github.com/rickyeet/GTPS3-LATEST-SOURCE | 0 | 0| 
 | 20220508T21:58:01Z | InfoSec Covert Backdoor Assignment | https://github.com/MikolajOlejnik/CovertBackdoor | 0 | 0| 
-| 20220508T21:25:38Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 974 | 142| 
 | 20220508T14:27:29Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 43 | 4| 
-| 20220508T12:58:57Z | Null | https://github.com/GraySkuLL404/Backdoors | 0 | 0| 
-| 20220508T11:51:57Z | 科研训练使用 | https://github.com/chang-geng-d/backdoor101-gtsrb | 0 | 0| 
-| 20220508T05:02:58Z | Null | https://github.com/THUYimingLi/BackdoorBox | 47 | 13| 
-| 20220508T00:33:16Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 42 | 9| 
-| 20220507T20:38:07Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 530 | 190| 
-| 20220507T14:58:17Z | python reverses-shell backdoor with added functionality: | https://github.com/Llama254/reverse-shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T11:58:09Z | Automatically generated test cases for fuzzing script engine | https://github.com/HyperDbg/machine-generated-scripts | 0 | 0| 
+| 20220509T11:52:59Z | Paper: Multi‑objective optimization of MOSFETs channel widths and supply voltage in the proposed dual edge‑triggered static D flip‑flop with minimum average power and delay by using fuzzy non‑dominated sorting genetic algorithm‑II | https://github.com/FarshidKeivanian/FuzzyNSGA-II | 0 | 0| 
+| 20220509T11:27:22Z | Null | https://github.com/JBBS7/Neuro-Fuzzy-Inference-System-Implementation | 0 | 0| 
+| 20220509T09:48:26Z | Controling drone (4 rotors) with fuzzy logic and ESP32 microcontroller | https://github.com/tilben97/Drone_Control_Fuzzy | 0 | 0| 
+| 20220509T09:30:54Z | Place for Arduino projects | https://github.com/rubtoa/fuzzy-parakeet | 0 | 0| 
+| 20220509T08:42:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7299 | 1571| 
 | 20220509T01:22:07Z | Null | https://github.com/purseclab/fuzzusb | 0 | 0| 
 | 20220509T01:10:07Z | One implementation of the fuzzy decision tree algorithm in “Fuzzy Decision Trees by Fuzzy ID3 Algorithm and Its Application to Diagnosis Systems” | https://github.com/kliang5/FuzzyDecisionTree | 0 | 0| 
 | 20220509T00:01:07Z | Automation of http://automationpractice.com/index.php | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
 | 20220508T23:49:01Z | Null | https://github.com/irfanafi9813/TuPro2-Fuzzy | 0 | 0| 
-| 20220508T23:33:13Z | Null | https://github.com/jb4411/secure_software-fuzzer_project-jb4411 | 0 | 0| 
-| 20220508T23:19:27Z | Null | https://github.com/0tavioX/logicaFuzzyTrabalhoCopia | 0 | 0| 
-| 20220508T23:14:30Z | Config files for my GitHub profile. | https://github.com/fuzzywuzzyfuzzywuzzy/fuzzywuzzyfuzzywuzzy | 0 | 0| 
-| 20220508T22:35:19Z | Coursera test repository | https://github.com/dave-16/fuzzy-octo-memory | 0 | 0| 
-| 20220508T21:26:21Z | The fastest driver IOCTL fuzzer ever written. | https://github.com/Exploitables/IOCTL-Explosion | 3 | 0| 
-| 20220508T18:55:51Z | Null | https://github.com/PedroVicente98/FuzzyProject | 0 | 0| 
 
 
 
