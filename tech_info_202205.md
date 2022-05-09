@@ -86,11 +86,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T00:38:53Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 997 | 164| 
 | 20220509T00:17:00Z | Null | https://github.com/codingcore1/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 0 | 0| 
 | 20220509T00:15:22Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-2 | 0 | 0| 
 | 20220509T00:13:45Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-4 | 0 | 0| 
 | 20220509T00:04:48Z | Exploits a design flaw in the FAA%s airmen database to discover a pilot%s date of birth (and possibly certificate number) via brute forcing. Uses Selenium and WebDriver. | https://github.com/zylai/faa-airmen-database-birthday | 1 | 0| 
-| 20220508T23:53:28Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 996 | 164| 
 | 20220508T22:30:29Z | terrible roblox scripts | https://github.com/XJMI/Skidded-Scripts | 1 | 0| 
 | 20220508T21:50:02Z | My notes about network services exploitation | https://github.com/pedrogg0/network_services_exploitation | 0 | 0| 
 | 20220508T21:42:04Z | I originally discovered this vulnerability sometime during the summer of 2021. However, I never made a proper exploit for it. | https://github.com/Exploitables/AMD-uProf-0day-LPE | 0 | 0| 
