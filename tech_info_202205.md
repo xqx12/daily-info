@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T00:50:32Z | A simple module to spoof and hook instances and values in roblox | https://github.com/0zBug/HookingService | 0 | 0| 
 | 20220509T00:38:53Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 997 | 164| 
 | 20220509T00:17:00Z | Null | https://github.com/codingcore1/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 0 | 0| 
 | 20220509T00:15:22Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-2 | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220508T21:50:02Z | My notes about network services exploitation | https://github.com/pedrogg0/network_services_exploitation | 0 | 0| 
 | 20220508T21:42:04Z | I originally discovered this vulnerability sometime during the summer of 2021. However, I never made a proper exploit for it. | https://github.com/Exploitables/AMD-uProf-0day-LPE | 0 | 0| 
 | 20220508T19:54:42Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Failhack/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220508T19:52:51Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Failhack/Hacking-Tools-Pack | 0 | 0| 
 
 
 # backdoor on Github 推荐
