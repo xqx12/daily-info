@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:18:32Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE | | 
 | 20220509T12:18:17Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP RCE 批量检测 | https://github.com/bytecaps/CVE-2022-1388-EXP | | 
 | 20220509T12:17:39Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
 | 20220509T12:16:29Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
@@ -55,7 +56,6 @@
 | 20220509T12:00:13Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220509T11:58:37Z | CVE-2022-1388 | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | | 
 | 20220509T11:46:27Z | CVE-2022-1388 | batch scan CVE-2022-1388 | https://github.com/yukar1z0e/CVE-2022-1388 | | 
-| 20220509T11:43:38Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE | | 
 
 
 # klee on Github 推荐
@@ -87,13 +87,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:20:18Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 201 | 38| 
 | 20220509T12:16:29Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 2 | 1| 
 | 20220509T12:14:07Z | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | 1 | 0| 
 | 20220509T12:00:48Z | A tool to sort CVEs by their severity, number of exploits, and date. Good for organizing information during a pen test. Written by my friend Joseph and myself. | https://github.com/beardingwithbryan/cve-lookup | 0 | 0| 
 | 20220509T11:58:37Z | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | 0 | 0| 
 | 20220509T11:11:51Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 393 | 78| 
 | 20220509T09:20:06Z | Application of transfer learning to exceed the regional limitations and exploit the potential of microbial-based cross-regional diagnosis of diseases.   | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | 0 | 0| 
-| 20220509T06:36:45Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 200 | 38| 
 | 20220509T03:40:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2745 | 394| 
 | 20220509T01:52:17Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1002 | 164| 
 | 20220509T00:50:32Z | A simple module to spoof and hook instances and values in roblox | https://github.com/0zBug/HookingService | 0 | 0| 
@@ -141,8 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:19:51Z | Automatically generated test cases for fuzzing script engine | https://github.com/HyperDbg/machine-generated-scripts | 1 | 0| 
 | 20220509T12:06:48Z | Paper: Multi‑objective optimization of MOSFETs channel widths and supply voltage in the proposed dual edge‑triggered static D flip‑flop with minimum average power and delay by using fuzzy non‑dominated sorting genetic algorithm‑II | https://github.com/FarshidKeivanian/FuzzyNSGA-II | 0 | 0| 
-| 20220509T11:58:09Z | Automatically generated test cases for fuzzing script engine | https://github.com/HyperDbg/machine-generated-scripts | 0 | 0| 
 | 20220509T11:27:22Z | Null | https://github.com/JBBS7/Neuro-Fuzzy-Inference-System-Implementation | 0 | 0| 
 | 20220509T09:48:26Z | Controling drone (4 rotors) with fuzzy logic and ESP32 microcontroller | https://github.com/tilben97/Drone_Control_Fuzzy | 0 | 0| 
 | 20220509T09:30:54Z | Place for Arduino projects | https://github.com/rubtoa/fuzzy-parakeet | 0 | 0| 
