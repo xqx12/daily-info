@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T00:04:48Z | Exploits a design flaw in the FAA%s airmen database to discover a pilot%s date of birth (and possibly certificate number) via brute forcing. Uses Selenium and WebDriver. | https://github.com/zylai/faa-airmen-database-birthday | 1 | 0| 
 | 20220508T22:30:29Z | terrible roblox scripts | https://github.com/XJMI/Skidded-Scripts | 1 | 0| 
 | 20220508T21:50:02Z | My notes about network services exploitation | https://github.com/pedrogg0/network_services_exploitation | 0 | 0| 
 | 20220508T21:42:04Z | I originally discovered this vulnerability sometime during the summer of 2021. However, I never made a proper exploit for it. | https://github.com/Exploitables/AMD-uProf-0day-LPE | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220508T17:17:13Z | Null | https://github.com/nillmao/iExploit-Website | 0 | 0| 
 | 20220508T12:52:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11445 | 1957| 
 | 20220508T12:15:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2724 | 391| 
-| 20220508T09:23:17Z | PHsploit is a pytohn based windows exploitation framework.It comes with various kinds of features.It creates 100% undetectable python based .exe files with the help of pyinstaller. | https://github.com/Darkhaxxor005/PHsploit | 2 | 0| 
 
 
 # backdoor on Github 推荐
