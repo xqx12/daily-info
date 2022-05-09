@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T00:17:00Z | Null | https://github.com/codingcore1/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 0 | 0| 
 | 20220509T00:15:22Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-2 | 0 | 0| 
 | 20220509T00:13:45Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-4 | 0 | 0| 
 | 20220509T00:04:48Z | Exploits a design flaw in the FAA%s airmen database to discover a pilot%s date of birth (and possibly certificate number) via brute forcing. Uses Selenium and WebDriver. | https://github.com/zylai/faa-airmen-database-birthday | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20220508T19:54:42Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Failhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220508T19:52:51Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Failhack/Hacking-Tools-Pack | 0 | 0| 
 | 20220508T18:38:25Z | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | 0 | 0| 
-| 20220508T17:17:13Z | Null | https://github.com/nillmao/iExploit-Website | 0 | 0| 
 
 
 # backdoor on Github 推荐
