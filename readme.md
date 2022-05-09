@@ -23,6 +23,8 @@
 | 20220508T20:57:02Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-RCE | | 
 | 20220508T15:23:49Z | CVE-2022-24734 | Null | https://github.com/Altelus1/CVE-2022-24734 | | 
 | 20220508T15:00:29Z | CVE-2022-26809 | CVE-2022-26809   ,  is a  remote code execution vulnerablity in rpc runtime and affects a wide versions of windows  | https://github.com/seciurdt/CVE-2022-26809-POC | | 
+| 20220508T14:59:33Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | | 
+| 20220508T14:41:43Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 | 20220508T11:09:03Z | CVE-2022-1388 | This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services. There is no data plane exposure; this is a control plane issue only. | https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed | | 
 | 20220508T09:28:49Z | CVE-2022-1388 | Null | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker | | 
 | 20220508T04:30:05Z | CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | | 
