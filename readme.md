@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:16:29Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220509T12:14:07Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
 | 20220509T12:10:25Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 | 20220509T12:10:17Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP RCE 批量检测 | https://github.com/bytecaps/CVE-2022-1388-EXP | | 
@@ -37,7 +38,6 @@
 | 20220509T11:58:37Z | CVE-2022-1388 | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | | 
 | 20220509T11:46:27Z | CVE-2022-1388 | batch scan CVE-2022-1388 | https://github.com/yukar1z0e/CVE-2022-1388 | | 
 | 20220509T11:43:38Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE | | 
-| 20220509T11:36:04Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 
 
 # klee on Github 推荐
@@ -57,10 +57,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:16:29Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 2 | 1| 
 | 20220509T12:14:07Z | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | 1 | 0| 
 | 20220509T12:00:48Z | A tool to sort CVEs by their severity, number of exploits, and date. Good for organizing information during a pen test. Written by my friend Joseph and myself. | https://github.com/beardingwithbryan/cve-lookup | 0 | 0| 
 | 20220509T11:58:37Z | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | 0 | 0| 
-| 20220509T11:36:04Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 1 | 1| 
 | 20220509T11:11:51Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 393 | 78| 
 | 20220509T09:20:06Z | Application of transfer learning to exceed the regional limitations and exploit the potential of microbial-based cross-regional diagnosis of diseases.   | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | 0 | 0| 
 | 20220509T06:36:45Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 200 | 38| 
