@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220509T01:32:22Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 999 | 164| 
+| 20220509T01:40:27Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1000 | 164| 
 | 20220509T00:50:32Z | A simple module to spoof and hook instances and values in roblox | https://github.com/0zBug/HookingService | 0 | 0| 
 | 20220509T00:17:00Z | Null | https://github.com/codingcore1/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 0 | 0| 
 | 20220509T00:15:22Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-2 | 0 | 0| 
