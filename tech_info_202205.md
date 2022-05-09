@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:29:58Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220509T12:25:35Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 | 20220509T12:25:08Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
 | 20220509T12:18:32Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE | | 
@@ -53,7 +54,6 @@
 | 20220509T12:16:29Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220509T12:14:07Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
 | 20220509T12:07:51Z | CVE-2022-26133 | Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本 | https://github.com/Pear1y/CVE-2022-26133 | | 
-| 20220509T12:00:13Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220509T11:58:37Z | CVE-2022-1388 | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | | 
 | 20220509T11:46:27Z | CVE-2022-1388 | batch scan CVE-2022-1388 | https://github.com/yukar1z0e/CVE-2022-1388 | | 
 
@@ -102,9 +102,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:29:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 472 | 89| 
 | 20220509T11:31:27Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 9| 
 | 20220509T09:44:10Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 975 | 142| 
-| 20220509T09:18:22Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 471 | 89| 
 | 20220509T05:42:35Z | Null | https://github.com/OsweRRR/backdoor-amxx | 0 | 0| 
 | 20220509T04:50:46Z | Kurzer Vortrag für die Berufsschule | https://github.com/jamieahelmke/Vortrag-Exploits-Backdoors | 0 | 0| 
 | 20220509T04:04:34Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 38 | 7| 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:28:32Z | Null | https://github.com/chameleon10712/Fuzzing | 0 | 0| 
 | 20220509T12:22:59Z | Automatically generated test cases for fuzzing script engine | https://github.com/HyperDbg/machine-generated-scripts | 2 | 0| 
 | 20220509T12:06:48Z | Paper: Multi‑objective optimization of MOSFETs channel widths and supply voltage in the proposed dual edge‑triggered static D flip‑flop with minimum average power and delay by using fuzzy non‑dominated sorting genetic algorithm‑II | https://github.com/FarshidKeivanian/FuzzyNSGA-II | 0 | 0| 
 | 20220509T11:27:22Z | Null | https://github.com/JBBS7/Neuro-Fuzzy-Inference-System-Implementation | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220509T01:22:07Z | Null | https://github.com/purseclab/fuzzusb | 0 | 0| 
 | 20220509T01:10:07Z | One implementation of the fuzzy decision tree algorithm in “Fuzzy Decision Trees by Fuzzy ID3 Algorithm and Its Application to Diagnosis Systems” | https://github.com/kliang5/FuzzyDecisionTree | 0 | 0| 
 | 20220509T00:01:07Z | Automation of http://automationpractice.com/index.php | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
-| 20220508T23:49:01Z | Null | https://github.com/irfanafi9813/TuPro2-Fuzzy | 0 | 0| 
 
 
 
