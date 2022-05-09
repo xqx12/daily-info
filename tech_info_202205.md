@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220508 | 智能电表安全之通讯分析 | https://mp.weixin.qq.com/s/3GVK_Xm_H93PyRKu35ttoQ| 
+| 20220508 | OffensiveNotion: Notion as a platform for offensive operat... | https://github.com/mttaggart/OffensiveNotion| 
 | 20220507 | 初探Java安全之JavaAgent | https://www.sec-in.com/article/1690| 
 | 20220507 | supplier: 主流供应商的一些攻击性漏洞汇总 | https://github.com/ThestaRY7/supplier| 
 | 20220507 | 使用 Sonarr 搭建自动化追番系统 | https://reorx.com/blog/track-and-download-shows-automatically-with-sonarr/| 
@@ -39,29 +41,27 @@
 | 20220506 | 域控被突破的几种途径 | https://mp.weixin.qq.com/s/nKvAD4ixmbZcxzkxCTxAfQ| 
 | 20220505 | Botconf 2022 议题速递 | https://mp.weixin.qq.com/s/G6EFRXY0DB9j-jzINuXLPQ| 
 | 20220505 | 利用代码知识图谱实现Bug定位 | https://mp.weixin.qq.com/s/i4lHXM2NW9zNMkLn4B0eyQ| 
-| 20220505 | 云安全基线 | https://uxss.net/2022/04/04/%E4%BA%91%E5%AE%89%E5%85%A8%E5%9F%BA%E7%BA%BF/| 
-| 20220505 | UEBA(用户和实体行为分析)可以用来做什么（十大场景） | https://uxss.net/2022/03/15/UEBA(%E7%94%A8%E6%88%B7%E5%92%8C%E5%AE%9E%E4%BD%93%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90)%E5%8F%AF%E4%BB%A5%E7%94%A8%E6%9D%A5%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%88%E5%8D%81%E5%A4%A7%E5%9C%BA%E6%99%AF%EF%BC%89/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220508T23:36:07Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
+| 20220508T20:57:29Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
+| 20220508T20:57:02Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-RCE | | 
+| 20220508T15:23:49Z | CVE-2022-24734 | Null | https://github.com/Altelus1/CVE-2022-24734 | | 
+| 20220508T15:00:29Z | CVE-2022-26809 | CVE-2022-26809   ,  is a  remote code execution vulnerablity in rpc runtime and affects a wide versions of windows  | https://github.com/seciurdt/CVE-2022-26809-POC | | 
 | 20220508T11:09:03Z | CVE-2022-1388 | This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services. There is no data plane exposure; this is a control plane issue only. | https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed | | 
 | 20220508T09:28:49Z | CVE-2022-1388 | Null | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker | | 
-| 20220508T08:58:52Z | CVE-2022-1388 | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2022-1388 (F5) | https://github.com/jheeree/CVE-2022-1388-checker | | 
-| 20220508T07:37:33Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
-| 20220508T07:07:08Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-RCE | | 
 | 20220508T04:30:05Z | CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | | 
 | 20220507T21:57:15Z | CVE-2022-27434 | UNIT4 TETA Mobile Edition 29HF13 was discovered to contain a SQL injection vulnerability via the ProfileName parameter in the errorReporting page. | https://github.com/LongWayHomie/CVE-2022-27434 | | 
 | 20220507T17:22:20Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-sophos-rce | | 
-| 20220507T16:46:52Z | CVE-2022-1388 | BIG-IP iCONTROL REST AUTH BYPASS RCE POC CVE-2022-1388 | https://github.com/TomArni680/CVE-2022-1388-POC | | 
-| 20220507T14:26:19Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220508T12:30:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6032 | 221| 
+| 20220508T20:22:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6038 | 221| 
 | 20220508T08:20:45Z | Learn to Create responsive Personal Webdesign Using HTML CSS & JavaScript with Bedimcode | https://github.com/MildKanwala/Ansel-Klee-Portfolio | 0 | 0| 
 | 20220507T01:50:48Z | Null | https://github.com/youfantan/KleeBot | 4 | 0| 
 | 20220506T19:19:24Z | Config files for my GitHub profile. | https://github.com/kleekkkkk/kleekkkkk | 0 | 0| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220508T22:30:29Z | terrible roblox scripts | https://github.com/XJMI/Skidded-Scripts | 1 | 0| 
+| 20220508T21:50:02Z | My notes about network services exploitation | https://github.com/pedrogg0/network_services_exploitation | 0 | 0| 
+| 20220508T21:42:04Z | I originally discovered this vulnerability sometime during the summer of 2021. However, I never made a proper exploit for it. | https://github.com/Exploitables/AMD-uProf-0day-LPE | 0 | 0| 
+| 20220508T19:54:42Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores. Around 𝟏,𝟓𝟔𝟎 tools, that you can use for Hacking. | https://github.com/Failhack/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220508T19:52:51Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Failhack/Hacking-Tools-Pack | 0 | 0| 
+| 20220508T18:38:25Z | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | 0 | 0| 
+| 20220508T17:17:13Z | Null | https://github.com/nillmao/iExploit-Website | 0 | 0| 
 | 20220508T12:52:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11445 | 1957| 
 | 20220508T12:15:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2724 | 391| 
 | 20220508T09:23:17Z | PHsploit is a pytohn based windows exploitation framework.It comes with various kinds of features.It creates 100% undetectable python based .exe files with the help of pyinstaller. | https://github.com/Darkhaxxor005/PHsploit | 2 | 0| 
-| 20220508T09:02:39Z | SambaCry exploit (CVE-2017-7494)  | https://github.com/eulercode/exploit-CVE-2017-7494 | 0 | 0| 
-| 20220508T08:36:58Z | exploit gui template for roblox. can be used for script hubs and much more, | https://github.com/gtaharo/Roblox-UI-Template | 0 | 0| 
-| 20220508T08:11:14Z | Null | https://github.com/ruchirasvmm/log4j-exploit-demo | 0 | 0| 
-| 20220508T06:17:56Z | Null | https://github.com/bissakov/exploit-example | 0 | 0| 
-| 20220508T05:55:11Z | Android Exploit is an advanced version of rat/payload/botnet and can hack an android device in less than 1 minute and can control multiple devices at once. Can hack the latest security android os 12 api (31). minimum sdk (24). It can bypass most of the antivirus available on the internet. Made possible by DaTechies | https://github.com/datechies/Exploit | 2 | 0| 
-| 20220508T03:51:28Z | Help Lua Roblox Exploiter write script | https://github.com/aRealLuaCoder/aRealLuaCoder.github.io | 0 | 0| 
-| 20220508T01:00:44Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 268 | 31| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220508T12:57:59Z | Null | https://github.com/GraySkuLL404/Backdoors | 0 | 0| 
+| 20220508T22:03:07Z | Sebia started to sell source and i decided to leak GTPS3 source. You don%t need to pay this source while im leaking. Beware at using because source have a lot of Sebia%s backdoor. | https://github.com/rickyeet/GTPS3-LATEST-SOURCE | 0 | 0| 
+| 20220508T21:58:01Z | InfoSec Covert Backdoor Assignment | https://github.com/MikolajOlejnik/CovertBackdoor | 0 | 0| 
+| 20220508T21:25:38Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 974 | 142| 
+| 20220508T14:27:29Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 43 | 4| 
+| 20220508T12:58:57Z | Null | https://github.com/GraySkuLL404/Backdoors | 0 | 0| 
 | 20220508T11:51:57Z | 科研训练使用 | https://github.com/chang-geng-d/backdoor101-gtsrb | 0 | 0| 
 | 20220508T05:02:58Z | Null | https://github.com/THUYimingLi/BackdoorBox | 47 | 13| 
 | 20220508T00:33:16Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 42 | 9| 
 | 20220507T20:38:07Z | Cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 530 | 190| 
 | 20220507T14:58:17Z | python reverses-shell backdoor with added functionality: | https://github.com/Llama254/reverse-shell | 0 | 0| 
-| 20220507T05:37:14Z | This is an implementation demo of the IJCAI 2022 paper [Eliminating Backdoor Triggers for Deep Neural Networks Using  Attention Relation Graph Distillation](https://arxiv.org/abs/2204.09975) in PyTorch. | https://github.com/BililiCode/ARGD | 5 | 0| 
-| 20220507T03:33:25Z | Anti-Backdoor learning (NeurIPS 2021) | https://github.com/bboylyg/ABL | 33 | 4| 
-| 20220507T02:52:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 469 | 89| 
-| 20220506T16:44:17Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 43 | 4| 
 
 
 # symbolic execution on Github 推荐
@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T00:01:07Z | Automation of http://automationpractice.com/index.php | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
+| 20220508T23:49:01Z | Null | https://github.com/irfanafi9813/TuPro2-Fuzzy | 0 | 0| 
+| 20220508T23:33:13Z | Null | https://github.com/jb4411/secure_software-fuzzer_project-jb4411 | 0 | 0| 
+| 20220508T23:19:27Z | Null | https://github.com/0tavioX/logicaFuzzyTrabalhoCopia | 0 | 0| 
+| 20220508T23:14:30Z | Config files for my GitHub profile. | https://github.com/fuzzywuzzyfuzzywuzzy/fuzzywuzzyfuzzywuzzy | 0 | 0| 
+| 20220508T22:35:19Z | Coursera test repository | https://github.com/dave-16/fuzzy-octo-memory | 0 | 0| 
+| 20220508T21:26:21Z | The fastest driver IOCTL fuzzer ever written. | https://github.com/Exploitables/IOCTL-Explosion | 3 | 0| 
+| 20220508T18:55:51Z | Null | https://github.com/PedroVicente98/FuzzyProject | 0 | 0| 
 | 20220508T12:42:24Z | Null | https://github.com/Preethi-R25/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220508T12:15:52Z | website with good ui for the fuzzy algorithm  | https://github.com/RoninS28/FuzzyCruiseControllerWebsite | 0 | 0| 
-| 20220508T11:51:02Z | Null | https://github.com/roshie/neuro-fuzzy-inference-system | 0 | 0| 
-| 20220508T11:03:28Z | Others | https://github.com/Tygross12/fuzzy-guacamole | 0 | 0| 
-| 20220508T10:02:48Z | Recent developments in bioinspired technologies combined with the advance of intelligent and soft materials have allowed soft robots to replicate the behavior of different animal species. These devices can perform complicated tasks such as reaching or adapting in constrained and unstructured environments. This article proposes a methodology to develop a soft robot called “JellyRobcib” inspired in morphology and behavior by jellyfish, using shape-memory alloy springs as actuators (as bio-muscles). Such actuators can move the jellyfish both vertically and laterally by applying closed-loop fuzzy and visual controls. Additionally, Computer-Assisted Designs and Computational Fluid Dynamics simulations have been carried out to validate the soft robot model. The results show that the robot movements are very close to the morphological behavior of a real jellyfish regarding the curves of displacements, speeds and accelerations, after performing several experiments for autonomous movement: vertical ascent, lateral movements and trajectory tracking, obtaining an accuracy of ±1479 cm and repeatability of 0.944 for lateral movements for fuzzy visual control. Furthermore, thermal measurements were taken throughout a given path, allowing the generation of temperature gradients within the underwater environment for monitoring purposes. | https://github.com/SureshShweta/fuzzy-octo-memory | 0 | 0| 
-| 20220508T09:47:29Z | ssh packet sniffer to detect fuzzing attacks | https://github.com/DavidOP1/SSHSniffer | 0 | 0| 
-| 20220508T08:38:35Z | 为fuzzy-nms生成模糊分类的代码 | https://github.com/Jasen-zhao/Fuzzy-class | 0 | 0| 
-| 20220508T08:31:59Z | Null | https://github.com/WangTimmy/fuzzy-octo-umbrella | 0 | 0| 
-| 20220508T07:58:15Z | 主题修改于https://github.com/TMaize/tmaize-blog | https://github.com/fuzz7j/fuzz7j.github.io | 0 | 0| 
-| 20220508T01:50:59Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
 
 
 
