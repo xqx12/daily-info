@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T00:15:22Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-2 | 0 | 0| 
+| 20220509T00:13:45Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-4 | 0 | 0| 
 | 20220509T00:04:48Z | Exploits a design flaw in the FAA%s airmen database to discover a pilot%s date of birth (and possibly certificate number) via brute forcing. Uses Selenium and WebDriver. | https://github.com/zylai/faa-airmen-database-birthday | 1 | 0| 
 | 20220508T22:30:29Z | terrible roblox scripts | https://github.com/XJMI/Skidded-Scripts | 1 | 0| 
 | 20220508T21:50:02Z | My notes about network services exploitation | https://github.com/pedrogg0/network_services_exploitation | 0 | 0| 
@@ -94,8 +96,6 @@
 | 20220508T19:52:51Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Failhack/Hacking-Tools-Pack | 0 | 0| 
 | 20220508T18:38:25Z | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | 0 | 0| 
 | 20220508T17:17:13Z | Null | https://github.com/nillmao/iExploit-Website | 0 | 0| 
-| 20220508T12:52:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11445 | 1957| 
-| 20220508T12:15:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2724 | 391| 
 
 
 # backdoor on Github 推荐
