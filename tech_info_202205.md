@@ -116,7 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220509T00:03:03Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 1 | 0| 
+| 20220509T00:03:03Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 2 | 0| 
 | 20220508T23:25:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2851 | 413| 
 | 20220508T13:21:31Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 400 | 18| 
 | 20220508T03:25:45Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 32 | 19| 
