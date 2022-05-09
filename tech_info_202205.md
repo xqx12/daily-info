@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T12:44:18Z | Null | https://github.com/hidayattaufiqur/Tugas-Pengantar-Fuzzy-Logic_07 | 0 | 0| 
 | 20220509T12:28:32Z | Null | https://github.com/chameleon10712/Fuzzing | 0 | 0| 
 | 20220509T12:22:59Z | Automatically generated test cases for fuzzing script engine | https://github.com/HyperDbg/machine-generated-scripts | 2 | 0| 
 | 20220509T12:06:48Z | Paper: Multi‑objective optimization of MOSFETs channel widths and supply voltage in the proposed dual edge‑triggered static D flip‑flop with minimum average power and delay by using fuzzy non‑dominated sorting genetic algorithm‑II | https://github.com/FarshidKeivanian/FuzzyNSGA-II | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220509T08:42:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7299 | 1571| 
 | 20220509T01:22:07Z | Null | https://github.com/purseclab/fuzzusb | 0 | 0| 
 | 20220509T01:10:07Z | One implementation of the fuzzy decision tree algorithm in “Fuzzy Decision Trees by Fuzzy ID3 Algorithm and Its Application to Diagnosis Systems” | https://github.com/kliang5/FuzzyDecisionTree | 0 | 0| 
-| 20220509T00:01:07Z | Automation of http://automationpractice.com/index.php | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
 
 
 
