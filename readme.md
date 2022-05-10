@@ -72,7 +72,7 @@
 | 20220509T19:44:16Z | Curated exploits mapped by LEM | https://github.com/redteam-project/exploit-curation | 6 | 3| 
 | 20220509T19:43:36Z | Linux Exploit Mapper correlates CVEs local to a Linux system with known exploits | https://github.com/redteam-project/lem | 46 | 8| 
 | 20220509T17:25:47Z | Null | https://github.com/skidofficial/fortnite-exploits | 0 | 0| 
-| 20220509T15:06:24Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 459 | 21| 
+| 20220509T16:25:44Z | A cross platform, rust implementation for the Tegra X1 bootROM exploit  | https://github.com/budde25/switcheroo | 6 | 0| 
 
 
 # backdoor on Github 推荐
