@@ -15,6 +15,9 @@
 | 20220509 | 恶意软件滥用 Avast 反病毒软件驱动的缺陷绕过检测 | https://www.aon.com/cyber-solutions/aon_cyber_labs/yours-truly-signed-av-driver-weaponizing-an-antivirus-driver/| 
 | 20220509 | 利用 vx-underground 恶意软件库的样本 Fuzz ClamAV | http://mmmds.pl/clamav/| 
 | 20220509 | SIMulation - 对基于蜂窝网络的一键登录（One-Tap Authentication）方案的研究报告 | http://sjtu.lijuanru.com/publications/dsn22-s.pdf| 
+| 20220509 | Musl 程序分析和调试环境配置 && 部分源码分析 | https://tttang.com/archive/1582/| 
+| 20220509 | JBoss EAP/as <= 6.* RCE 及 rpc 回显 | https://paper.seebug.org/1891/| 
+| 20220509 | 获取域控权限的几种思路总结 | https://github.com/JDArmy/GetDomainAdmin| 
 | 20220506 | Windows Defender for Endpoint 版本的数据采集范围、防护机制研究 | https://github.com/olafhartong/Presentations/blob/master/Lifting-the-veil-a-look-at-MDE-under-the-hood.pdf| 
 | 20220506 | Avos Locker 勒索软件的分析报告 | https://securityscorecard.com/resources/a-deep-dive-into-avos-locker-ransomware| 
 | 20220506 | 恶意软件滥用微软签名的 Mavinject.exe 实现进程代码注入 | https://fourcore.io/blogs/mavinject-curious-process-injection| 
@@ -23,9 +26,6 @@
 | 20220506 | 滥用 S21 手机 Galaxy App Store 应用漏洞实现任意安装应用 | http://labs.f-secure.com/advisories/samsung-galaxy-any-app-can-install-any-app/| 
 | 20220506 | 利用 Samsung Galaxy S21 设备 Flow App 的漏洞访问外部存储设备 | http://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/| 
 | 20220506 | F5 BIG-IP 系统修复高危 RCE 漏洞 | https://threatpost.com/f5-critical-bugbig-ip-systems/179514/| 
-| 20220505 | 利用 Fileless 类型的恶意软件攻击文件系统只读的容器 | https://sysdig.com/blog/containers-read-only-fileless-malware/| 
-| 20220505 | uClibc 库的 DNS 实现存在漏洞，影响 IoT 设备 | http://www.nozominetworks.com/blog/nozomi-networks-discovers-unpatched-DNS-bug-in-popular-c-standard-library-putting-iot-at-risk/| 
-| 20220505 | Ret2dl_resolve x64: Exploiting Dynamic Linking Procedure In x64 ELF Binaries | http://syst3mfailure.io/ret2dl_resolve| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220509T12:46:08Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP RCE 批量检测 | https://github.com/bytecaps/CVE-2022-1388-EXP | | 
-| 20220509T12:45:58Z | CVE-2022-0492 | Null | https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492 | | 
-| 20220509T12:44:40Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
-| 20220509T12:43:46Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE | | 
-| 20220509T12:32:35Z | CVE-2022-26133 | Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本 | https://github.com/Pear1y/CVE-2022-26133 | | 
-| 20220509T12:29:58Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
-| 20220509T12:25:35Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
-| 20220509T12:16:29Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
-| 20220509T12:14:07Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
-| 20220509T11:58:37Z | CVE-2022-1388 | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | | 
+| 20220509T23:58:31Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
+| 20220509T23:11:55Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
+| 20220509T20:33:28Z | CVE-2022-28986 | A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28986 | | 
+| 20220509T20:26:32Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
+| 20220509T20:10:30Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/ExploitPwner/CVE-2022-26809-RCE-POC | | 
+| 20220509T19:34:21Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
+| 20220509T18:31:17Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST RCE | https://github.com/Al1ex/CVE-2022-1388 | | 
+| 20220509T17:34:39Z | CVE-2022-1388 | Null | https://github.com/trhacknon/CVE-2022-1388-RCE-checker | | 
+| 20220509T16:57:14Z | CVE-2022-28601 | A Two-Factor Authentication (2FA) bypass vulnerability in "Simple 2FA  Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28601 | | 
+| 20220509T16:57:06Z | CVE-2022-1040 | CVE-2022-1040 is an authentication bypass and rce in user portal and webadmin of sophos firewall | https://github.com/Seatwe/CVE-2022-1040-rce | | 
 
 
 # klee on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220509T12:20:18Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 201 | 38| 
-| 20220509T12:16:29Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 2 | 1| 
-| 20220509T12:14:07Z | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | 1 | 0| 
-| 20220509T12:00:48Z | A tool to sort CVEs by their severity, number of exploits, and date. Good for organizing information during a pen test. Written by my friend Joseph and myself. | https://github.com/beardingwithbryan/cve-lookup | 0 | 0| 
-| 20220509T11:58:37Z | Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388 | https://github.com/crowsec-edtech/CVE-2022-1388 | 0 | 0| 
-| 20220509T11:11:51Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 393 | 78| 
-| 20220509T09:20:06Z | Application of transfer learning to exceed the regional limitations and exploit the potential of microbial-based cross-regional diagnosis of diseases.   | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | 0 | 0| 
-| 20220509T03:40:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2745 | 394| 
-| 20220509T01:52:17Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1002 | 164| 
-| 20220509T00:50:32Z | A simple module to spoof and hook instances and values in roblox | https://github.com/0zBug/HookingService | 0 | 0| 
+| 20220509T23:11:55Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 24 | 3| 
+| 20220509T22:49:52Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2334 | 376| 
+| 20220509T22:48:52Z | JS scripts for windbg that i%ll made for exploit development purpose | https://github.com/tin-z/windbg-exploit-helper-scripts | 1 | 0| 
+| 20220509T21:23:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2705 | 331| 
+| 20220509T20:25:20Z | Null | https://github.com/simarisu78/exploit_exercise | 0 | 0| 
+| 20220509T19:52:12Z | reverse engineering / binary exploitation stuff | https://github.com/louisdeck/shampoosk | 0 | 0| 
+| 20220509T19:44:16Z | Curated exploits mapped by LEM | https://github.com/redteam-project/exploit-curation | 6 | 3| 
+| 20220509T19:43:36Z | Linux Exploit Mapper correlates CVEs local to a Linux system with known exploits | https://github.com/redteam-project/lem | 46 | 8| 
+| 20220509T17:25:47Z | Null | https://github.com/skidofficial/fortnite-exploits | 0 | 0| 
+| 20220509T16:13:25Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1051 | 168| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220509T22:47:19Z | Null | https://github.com/miladBann/backdoor-attack | 0 | 0| 
+| 20220509T16:23:13Z | Null | https://github.com/Khabibulix/BackdoorPY | 0 | 0| 
+| 20220509T14:35:59Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 81 | 19| 
 | 20220509T12:29:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 472 | 89| 
 | 20220509T11:31:27Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 9| 
-| 20220509T09:44:10Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 975 | 142| 
+| 20220509T09:44:10Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 975 | 143| 
 | 20220509T05:42:35Z | Null | https://github.com/OsweRRR/backdoor-amxx | 0 | 0| 
 | 20220509T04:50:46Z | Kurzer Vortrag für die Berufsschule | https://github.com/jamieahelmke/Vortrag-Exploits-Backdoors | 0 | 0| 
 | 20220509T04:04:34Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 38 | 7| 
 | 20220509T03:56:16Z | bypass upload shell + mailer script priv8 | https://github.com/k0wk/backdoor | 0 | 0| 
-| 20220508T22:03:07Z | Sebia started to sell source and i decided to leak GTPS3 source. You don%t need to pay this source while im leaking. Beware at using because source have a lot of Sebia%s backdoor. | https://github.com/rickyeet/GTPS3-LATEST-SOURCE | 0 | 0| 
-| 20220508T21:58:01Z | InfoSec Covert Backdoor Assignment | https://github.com/MikolajOlejnik/CovertBackdoor | 0 | 0| 
-| 20220508T14:27:29Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 43 | 4| 
 
 
 # symbolic execution on Github 推荐
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220509T12:44:18Z | Null | https://github.com/hidayattaufiqur/Tugas-Pengantar-Fuzzy-Logic_07 | 0 | 0| 
-| 20220509T12:28:32Z | Null | https://github.com/chameleon10712/Fuzzing | 0 | 0| 
-| 20220509T12:22:59Z | Automatically generated test cases for fuzzing script engine | https://github.com/HyperDbg/machine-generated-scripts | 2 | 0| 
-| 20220509T12:06:48Z | Paper: Multi‑objective optimization of MOSFETs channel widths and supply voltage in the proposed dual edge‑triggered static D flip‑flop with minimum average power and delay by using fuzzy non‑dominated sorting genetic algorithm‑II | https://github.com/FarshidKeivanian/FuzzyNSGA-II | 0 | 0| 
-| 20220509T11:27:22Z | Null | https://github.com/JBBS7/Neuro-Fuzzy-Inference-System-Implementation | 0 | 0| 
-| 20220509T09:48:26Z | Controling drone (4 rotors) with fuzzy logic and ESP32 microcontroller | https://github.com/tilben97/Drone_Control_Fuzzy | 0 | 0| 
-| 20220509T09:30:54Z | Place for Arduino projects | https://github.com/rubtoa/fuzzy-parakeet | 0 | 0| 
-| 20220509T08:42:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7299 | 1571| 
-| 20220509T01:22:07Z | Null | https://github.com/purseclab/fuzzusb | 0 | 0| 
-| 20220509T01:10:07Z | One implementation of the fuzzy decision tree algorithm in “Fuzzy Decision Trees by Fuzzy ID3 Algorithm and Its Application to Diagnosis Systems” | https://github.com/kliang5/FuzzyDecisionTree | 0 | 0| 
+| 20220509T23:38:29Z | This is a directory fuzzing tool I made to help get better a python | https://github.com/MikeyPPPPPPPP/Fuzzy | 0 | 0| 
+| 20220509T23:09:44Z | Null | https://github.com/marwanmoustafa/Fuzzy-logic | 0 | 0| 
+| 20220509T22:55:35Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1603 | 182| 
+| 20220509T22:42:44Z | Trying to match string with fuzzy logic | https://github.com/Halivious/Fuzzy-String-Matching | 0 | 0| 
+| 20220509T22:26:02Z | fuzzy-football repository | https://github.com/JoseMoreno21/fuzzy-football | 0 | 0| 
+| 20220509T22:10:13Z | echidna + forge fuzzing container env | https://github.com/sambacha/echidna-forge-container | 0 | 0| 
+| 20220509T22:05:47Z | Config files for my GitHub profile. | https://github.com/Fuzzito/Fuzzito | 0 | 0| 
+| 20220509T20:17:26Z | Create and fuzzy search bag-of-words generated from handwritten transcriptions | https://github.com/Cook4986/Fuzzy-BoW | 0 | 0| 
+| 20220509T20:16:34Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 366 | 53| 
+| 20220509T13:47:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7300 | 1572| 
 
 
 
