@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220510T12:28:31Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
+| 20220510T12:39:21Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220510T12:06:02Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220510T12:04:12Z | CVE-2022-26133 | Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本 | https://github.com/Pear1y/CVE-2022-26133 | | 
 | 20220510T11:07:50Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T12:37:52Z | 🙄 Modern token grabber 🙄 | https://github.com/LiquiIo/Liquid-Token-Grabber | 0 | 0| 
 | 20220510T12:23:04Z | This is the code repository for the paper %Exploiting Robust Memory Features for Unsupervised Reidentification%. | https://github.com/ljwwwiop/unsupervised_reid | 0 | 0| 
 | 20220510T12:15:12Z | Zoo of exploits used in my practise | https://github.com/iveresk/cve-mikrotik-cisco-zoo | 0 | 0| 
 | 20220510T12:03:17Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 158 | 16| 
@@ -61,7 +62,6 @@
 | 20220510T09:50:36Z | Null | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker-and-POC-Exploit | 3 | 2| 
 | 20220510T09:39:14Z | CVE-2007-2447 | https://github.com/Nosferatuvjr/Samba-Usermap-exploit | 0 | 0| 
 | 20220510T08:31:03Z | Simple shell script for the exploit | https://github.com/iveresk/cve-2022-1388-1veresk | 0 | 0| 
-| 20220510T07:51:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11455 | 1961| 
 
 
 # backdoor on Github 推荐
@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T12:38:19Z | This is an attempt to implement neuro-fuzzy system on keras | https://github.com/kenoma/KerasFuzzy | 15 | 5| 
 | 20220510T10:53:52Z | Null | https://github.com/chenshtynmetz/Fuzzing_detecte | 0 | 0| 
 | 20220510T10:28:35Z | A library of fuzzy rough machine learning algorithms | https://github.com/oulenz/fuzzy-rough-learn | 9 | 2| 
 | 20220510T10:27:15Z | Null | https://github.com/dvirBiton1/fuzzing | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220510T01:58:01Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 4146 | 766| 
 | 20220510T01:24:40Z | A firefox extension built to detect attacks and privacy violations on any website | https://github.com/AntonioFuziy/t-fuzzer | 0 | 0| 
 | 20220510T01:18:48Z | Trabalho 01 primeira questão da Disciplina de Inteligência Computacional. | https://github.com/Flavia27/logicaFuzzy | 0 | 0| 
-| 20220510T00:29:51Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 0 | 0| 
 
 
 
