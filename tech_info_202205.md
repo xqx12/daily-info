@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T00:06:09Z | Null | https://github.com/ConnorMcdavid97/fuzzy-octo-adventure | 0 | 0| 
 | 20220509T23:38:29Z | This is a directory fuzzing tool I made to help get better a python | https://github.com/MikeyPPPPPPPP/Fuzzy | 0 | 0| 
 | 20220509T23:09:44Z | Null | https://github.com/marwanmoustafa/Fuzzy-logic | 0 | 0| 
 | 20220509T22:55:35Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1603 | 182| 
@@ -150,7 +151,6 @@
 | 20220509T22:05:47Z | Config files for my GitHub profile. | https://github.com/Fuzzito/Fuzzito | 0 | 0| 
 | 20220509T20:17:26Z | Create and fuzzy search bag-of-words generated from handwritten transcriptions | https://github.com/Cook4986/Fuzzy-BoW | 0 | 0| 
 | 20220509T20:16:34Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 366 | 53| 
-| 20220509T13:47:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7300 | 1572| 
 
 
 
