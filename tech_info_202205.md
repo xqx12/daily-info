@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220510T12:42:55Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220510T12:40:23Z | CVE-2022-1388 | Null | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker-and-POC-Exploit | | 
-| 20220510T12:39:21Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220510T12:06:02Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220510T12:04:12Z | CVE-2022-26133 | Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本 | https://github.com/Pear1y/CVE-2022-26133 | | 
 | 20220510T11:07:50Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
