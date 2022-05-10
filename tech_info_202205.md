@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T01:28:51Z | FUD Your .exe files ( botnet, rat, stealer, keylogger, silent miner, formgrabber etc  Bypass all antiviruses including runtime and scantime detections.  Bypass Gmail, yahoo, hotmail attachment security check, small file size. fast execution  works better with silent infection. doc exploit, pdf exploit, silent or macro exploits  LIVE CRYPT TEST AVAILABLE. WE CAN CRYPT YOUR FILE AND TEST FOR PROOF.  Price: $200. Payment via BTC or PM. Contact Telegram: @fudeasycrypt  we attend to serious customers only. don%t contact to waste the time. be ready. | https://github.com/streettools/FUD-CRYPTER-2022 | 0 | 0| 
 | 20220510T01:03:28Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1055 | 169| 
 | 20220510T01:01:00Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-0 | 0 | 0| 
 | 20220510T00:59:29Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-3 | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220509T23:25:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11456 | 1960| 
 | 20220509T23:11:55Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 24 | 5| 
 | 20220509T22:48:52Z | JS scripts for windbg that i%ll made for exploit development purpose | https://github.com/tin-z/windbg-exploit-helper-scripts | 1 | 0| 
-| 20220509T20:25:20Z | Null | https://github.com/simarisu78/exploit_exercise | 0 | 0| 
 
 
 # backdoor on Github 推荐
