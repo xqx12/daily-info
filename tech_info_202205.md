@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220510T01:33:57Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220510T01:26:51Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
-| 20220510T01:22:38Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220510T01:14:49Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST RCE | https://github.com/Al1ex/CVE-2022-1388 | | 
 | 20220510T00:38:13Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
 | 20220509T23:11:55Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T01:34:06Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1056 | 169| 
 | 20220510T01:28:51Z | FUD Your .exe files ( botnet, rat, stealer, keylogger, silent miner, formgrabber etc  Bypass all antiviruses including runtime and scantime detections.  Bypass Gmail, yahoo, hotmail attachment security check, small file size. fast execution  works better with silent infection. doc exploit, pdf exploit, silent or macro exploits  LIVE CRYPT TEST AVAILABLE. WE CAN CRYPT YOUR FILE AND TEST FOR PROOF.  Price: $200. Payment via BTC or PM. Contact Telegram: @fudeasycrypt  we attend to serious customers only. don%t contact to waste the time. be ready. | https://github.com/streettools/FUD-CRYPTER-2022 | 0 | 0| 
-| 20220510T01:03:28Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1055 | 169| 
 | 20220510T01:01:00Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-0 | 0 | 0| 
 | 20220510T00:59:29Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-3 | 0 | 0| 
 | 20220510T00:57:28Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0 | 0 | 0| 
