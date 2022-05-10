@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220510T00:13:17Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
+| 20220510T00:38:13Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
 | 20220509T23:58:31Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220509T23:11:55Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220509T20:33:28Z | CVE-2022-28986 | A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28986 | | 
@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T00:09:51Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 877 | 88| 
 | 20220509T22:47:19Z | Null | https://github.com/miladBann/backdoor-attack | 0 | 0| 
 | 20220509T16:23:13Z | Null | https://github.com/Khabibulix/BackdoorPY | 0 | 0| 
 | 20220509T14:35:59Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 81 | 19| 
@@ -111,7 +112,6 @@
 | 20220509T05:42:35Z | Null | https://github.com/OsweRRR/backdoor-amxx | 0 | 0| 
 | 20220509T04:50:46Z | Kurzer Vortrag für die Berufsschule | https://github.com/jamieahelmke/Vortrag-Exploits-Backdoors | 0 | 0| 
 | 20220509T04:04:34Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 38 | 7| 
-| 20220509T03:56:16Z | bypass upload shell + mailer script priv8 | https://github.com/k0wk/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
