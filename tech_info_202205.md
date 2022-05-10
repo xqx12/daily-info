@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T01:58:01Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 4146 | 766| 
 | 20220510T01:24:40Z | A firefox extension built to detect attacks and privacy violations on any website | https://github.com/AntonioFuziy/t-fuzzer | 0 | 0| 
 | 20220510T01:18:48Z | Trabalho 01 primeira questão da Disciplina de Inteligência Computacional. | https://github.com/Flavia27/logicaFuzzy | 0 | 0| 
 | 20220510T00:29:51Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220509T22:55:35Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1603 | 182| 
 | 20220509T22:42:44Z | Trying to match string with fuzzy logic | https://github.com/Halivious/Fuzzy-String-Matching | 0 | 0| 
 | 20220509T22:26:02Z | fuzzy-football repository | https://github.com/JoseMoreno21/fuzzy-football | 0 | 0| 
-| 20220509T22:10:13Z | echidna + forge fuzzing container env | https://github.com/sambacha/echidna-forge-container | 0 | 0| 
 
 
 
