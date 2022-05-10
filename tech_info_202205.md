@@ -104,7 +104,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220510T12:29:58Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 897 | 91| 
 | 20220510T11:25:25Z | A (toy) Windows & Linux pwn library to play with modern C++. | https://github.com/hugsy/pwn-- | 65 | 5| 
-| 20220510T05:32:53Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 82 | 19| 
+| 20220510T05:32:53Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 82 | 20| 
 | 20220510T05:31:30Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 112 | 28| 
 | 20220510T01:52:20Z | bypass upload shell + mailer script priv8 | https://github.com/k0wk/backdoor | 0 | 0| 
 | 20220510T01:36:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 473 | 89| 
