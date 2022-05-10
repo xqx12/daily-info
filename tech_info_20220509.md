@@ -31,7 +31,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220509T23:58:31Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220509T23:11:55Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220509T20:33:28Z | CVE-2022-28986 | A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28986 | | 
 | 20220509T20:10:30Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/ExploitPwner/CVE-2022-26809-RCE-POC | | 
@@ -41,6 +40,7 @@
 | 20220509T16:57:14Z | CVE-2022-28601 | A Two-Factor Authentication (2FA) bypass vulnerability in "Simple 2FA  Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28601 | | 
 | 20220509T16:57:06Z | CVE-2022-1040 | CVE-2022-1040 is an authentication bypass and rce in user portal and webadmin of sophos firewall | https://github.com/Seatwe/CVE-2022-1040-rce | | 
 | 20220509T16:22:23Z | CVE-2022-1388 | CVE-2022-1388 POC exploit | https://github.com/superzerosec/CVE-2022-1388 | | 
+| 20220509T16:10:58Z | CVE-2022-1388 | CVE-2022-1388 | https://github.com/saucer-man/CVE-2022-1388 | | 
 
 
 # klee on Github 推荐
