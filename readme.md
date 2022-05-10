@@ -61,7 +61,7 @@
 | 20220510T09:50:36Z | Null | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker-and-POC-Exploit | 3 | 2| 
 | 20220510T09:39:14Z | CVE-2007-2447 | https://github.com/Nosferatuvjr/Samba-Usermap-exploit | 0 | 0| 
 | 20220510T08:31:03Z | Simple shell script for the exploit | https://github.com/iveresk/cve-2022-1388-1veresk | 0 | 0| 
-| 20220510T07:42:27Z | Null | https://github.com/volkandindar/exploit | 0 | 0| 
+| 20220510T07:51:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11455 | 1961| 
 
 
 # backdoor on Github 推荐
