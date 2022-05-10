@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T12:23:04Z | This is the code repository for the paper %Exploiting Robust Memory Features for Unsupervised Reidentification%. | https://github.com/ljwwwiop/unsupervised_reid | 0 | 0| 
 | 20220510T12:15:12Z | Zoo of exploits used in my practise | https://github.com/iveresk/cve-mikrotik-cisco-zoo | 0 | 0| 
 | 20220510T12:03:17Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 158 | 16| 
 | 20220510T10:47:51Z | Exceeding the regional limitations: Application of transfer learning to exploit the potential of microbial-based cross-regional diagnosis of diseases  | https://github.com/HUST-NingKang-Lab/EXPERT-Disease-GGMP | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220510T09:39:14Z | CVE-2007-2447 | https://github.com/Nosferatuvjr/Samba-Usermap-exploit | 0 | 0| 
 | 20220510T08:31:03Z | Simple shell script for the exploit | https://github.com/iveresk/cve-2022-1388-1veresk | 0 | 0| 
 | 20220510T07:42:27Z | Null | https://github.com/volkandindar/exploit | 0 | 0| 
-| 20220510T06:54:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2751 | 395| 
 
 
 # backdoor on Github 推荐
