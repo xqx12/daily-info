@@ -80,7 +80,6 @@
 | 20220509T22:47:19Z | Null | https://github.com/miladBann/backdoor-attack | 0 | 0| 
 | 20220509T16:23:13Z | Null | https://github.com/Khabibulix/BackdoorPY | 0 | 0| 
 | 20220509T14:35:59Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 81 | 19| 
-| 20220509T12:29:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 472 | 89| 
 | 20220509T11:31:27Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 9| 
 | 20220509T09:44:10Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 975 | 143| 
 | 20220509T05:42:35Z | Null | https://github.com/OsweRRR/backdoor-amxx | 0 | 0| 

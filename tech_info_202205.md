@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220510T01:33:57Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
+| 20220510T01:35:23Z | CVE-2022-1388 | POC for CVE-2022-1388 | https://github.com/horizon3ai/CVE-2022-1388 | | 
 | 20220510T01:26:51Z | CVE-2022-1388 | K23605346: BIG-IP iControl REST vulnerability CVE-2022-1388 | https://github.com/numanturle/CVE-2022-1388 | | 
 | 20220510T01:14:49Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST RCE | https://github.com/Al1ex/CVE-2022-1388 | | 
 | 20220510T00:38:13Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
@@ -102,11 +102,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T01:36:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 473 | 89| 
 | 20220510T01:33:20Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 881 | 88| 
 | 20220509T22:47:19Z | Null | https://github.com/miladBann/backdoor-attack | 0 | 0| 
 | 20220509T16:23:13Z | Null | https://github.com/Khabibulix/BackdoorPY | 0 | 0| 
 | 20220509T14:35:59Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 81 | 19| 
-| 20220509T12:29:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 472 | 89| 
 | 20220509T11:31:27Z | Fileless Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 9| 
 | 20220509T09:44:10Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 975 | 143| 
 | 20220509T05:42:35Z | Null | https://github.com/OsweRRR/backdoor-amxx | 0 | 0| 
