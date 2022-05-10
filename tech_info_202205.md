@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T00:57:28Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0 | 0 | 0| 
 | 20220510T00:45:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2706 | 331| 
 | 20220510T00:33:06Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2336 | 376| 
 | 20220510T00:31:19Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1052 | 168| 
@@ -96,7 +97,6 @@
 | 20220509T20:25:20Z | Null | https://github.com/simarisu78/exploit_exercise | 0 | 0| 
 | 20220509T19:52:12Z | reverse engineering / binary exploitation stuff | https://github.com/louisdeck/shampoosk | 0 | 0| 
 | 20220509T19:44:16Z | Curated exploits mapped by LEM | https://github.com/redteam-project/exploit-curation | 6 | 3| 
-| 20220509T19:43:36Z | Linux Exploit Mapper correlates CVEs local to a Linux system with known exploits | https://github.com/redteam-project/lem | 46 | 8| 
 
 
 # backdoor on Github 推荐
