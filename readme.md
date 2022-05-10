@@ -50,7 +50,6 @@
 | 20220509T17:37:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1962 | 554| 
 | 20220509T17:10:12Z | Null | https://github.com/sarthakshah8117/kleenex | 0 | 0| 
 | 20220509T16:54:50Z | Null | https://github.com/sarthakshah8117/sarthak_Kleenex_beer | 0 | 0| 
-| 20220509T14:23:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6052 | 221| 
 
 
 # s2e on Github 推荐
