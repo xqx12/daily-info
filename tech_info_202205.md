@@ -88,6 +88,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220510T00:27:10Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2335 | 376| 
+| 20220509T23:25:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11456 | 1960| 
 | 20220509T23:11:55Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 24 | 3| 
 | 20220509T22:48:52Z | JS scripts for windbg that i%ll made for exploit development purpose | https://github.com/tin-z/windbg-exploit-helper-scripts | 1 | 0| 
 | 20220509T21:23:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2705 | 331| 
@@ -96,7 +97,6 @@
 | 20220509T19:44:16Z | Curated exploits mapped by LEM | https://github.com/redteam-project/exploit-curation | 6 | 3| 
 | 20220509T19:43:36Z | Linux Exploit Mapper correlates CVEs local to a Linux system with known exploits | https://github.com/redteam-project/lem | 46 | 8| 
 | 20220509T17:25:47Z | Null | https://github.com/skidofficial/fortnite-exploits | 0 | 0| 
-| 20220509T16:13:25Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1051 | 168| 
 
 
 # backdoor on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220510T00:29:51Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 0 | 0| 
 | 20220510T00:15:46Z | Null | https://github.com/marwanmoustafa/Fuzzy-logic | 1 | 0| 
 | 20220510T00:06:09Z | Null | https://github.com/ConnorMcdavid97/fuzzy-octo-adventure | 0 | 0| 
 | 20220509T23:38:29Z | This is a directory fuzzing tool I made to help get better a python | https://github.com/MikeyPPPPPPPP/Fuzzy | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220509T22:10:13Z | echidna + forge fuzzing container env | https://github.com/sambacha/echidna-forge-container | 0 | 0| 
 | 20220509T22:05:47Z | Config files for my GitHub profile. | https://github.com/Fuzzito/Fuzzito | 0 | 0| 
 | 20220509T20:17:26Z | Create and fuzzy search bag-of-words generated from handwritten transcriptions | https://github.com/Cook4986/Fuzzy-BoW | 0 | 0| 
-| 20220509T20:16:34Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 366 | 53| 
 
 
 
