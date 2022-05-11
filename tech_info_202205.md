@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T01:30:51Z | EXEMPLO FUZZY   | https://github.com/Jordy-Rodrigues/Scikit---Fuzzy | 0 | 0| 
 | 20220510T21:53:46Z | Implementation of fuzzy system and its application to game evaluation problem | https://github.com/TuquiSierra/fuzzy | 0 | 0| 
 | 20220510T19:59:27Z | Seminar paper for the uni-module Offensive Security | https://github.com/mauriceKalevra/Fuzzing-methods | 0 | 0| 
 | 20220510T18:45:51Z | Null | https://github.com/Sindhu95R/grammar-fuzzer | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20220510T10:28:35Z | A library of fuzzy rough machine learning algorithms | https://github.com/oulenz/fuzzy-rough-learn | 9 | 2| 
 | 20220510T10:27:15Z | Null | https://github.com/dvirBiton1/fuzzing | 0 | 0| 
 | 20220510T10:18:38Z | Null | https://github.com/dvirBiton1/fuzzing2 | 0 | 0| 
-| 20220510T08:50:56Z | Log4j2 RCE scan tool | https://github.com/handbye/Log4j2Fuzz | 0 | 0| 
 
 
 
