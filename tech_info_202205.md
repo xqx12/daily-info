@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220511T01:22:33Z | CVE-2022-1388 | On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated  | https://github.com/ExploitPwner/CVE-2022-1388 | | 
 | 20220511T00:51:15Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
-| 20220511T00:15:07Z | CVE-2022-1388 | On F5 BIG-IP 16.1.x versions prior to 16.1.2.2, 15.1.x versions prior to 15.1.5.1, 14.1.x versions prior to 14.1.4.6, 13.1.x versions prior to 13.1.5, and all 12.1.x and 11.6.x versions, undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated  | https://github.com/ExploitPwner/CVE-2022-1388 | | 
 | 20220510T21:54:21Z | CVE-2022-30292 | Null | https://github.com/sprushed/CVE-2022-30292 | | 
 | 20220510T20:50:02Z | CVE-2022-1388 | Null | https://github.com/0xAgun/CVE-2022-1388 | | 
 | 20220510T17:53:58Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T01:22:33Z | On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated  | https://github.com/ExploitPwner/CVE-2022-1388 | 0 | 0| 
 | 20220511T01:18:27Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-5 | 0 | 0| 
 | 20220511T01:17:33Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-4 | 0 | 0| 
 | 20220511T01:16:25Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3 | 0 | 0| 
@@ -96,17 +97,16 @@
 | 20220510T22:44:22Z | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | 0 | 0| 
 | 20220510T20:58:59Z | AGL proof-of-concept exploit | https://github.com/JG3233/AGL | 0 | 0| 
 | 20220510T20:53:16Z | Null | https://github.com/siek1/PortSwigger-Academy-Exploits | 0 | 0| 
-| 20220510T19:58:58Z | G3nius-Tools framework is a powerfully user-friendly to Server, Client, Network, Signal exploitation tool. We%ve online support and updates. | https://github.com/witblack/G3nius-Tools-framework | 3 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T01:21:55Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 904 | 91| 
 | 20220510T23:56:15Z | An adversarial killchain walkthrough focusing on malware development | https://github.com/bakarilevy/TheKillchain | 7 | 1| 
 | 20220510T20:06:23Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 114 | 28| 
 | 20220510T17:38:31Z | Anti backdoors (cipher) for your server | https://github.com/Iziteka/anti-cipher-and-backdoors | 0 | 0| 
 | 20220510T16:57:02Z | A (toy) Windows & Linux pwn library to play with modern C++. | https://github.com/hugsy/pwn-- | 67 | 5| 
-| 20220510T16:51:14Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 903 | 91| 
 | 20220510T14:19:09Z | Fake NFT Drainer template scam | https://github.com/captaingreem/Lets-talk | 0 | 2| 
 | 20220510T05:32:53Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 82 | 21| 
 | 20220510T01:52:20Z | bypass upload shell + mailer script priv8 | https://github.com/k0wk/backdoor | 0 | 0| 
