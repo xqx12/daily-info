@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T12:52:25Z | Null | https://github.com/xemlai/fuzzy-octo-carnival | 0 | 0| 
 | 20220511T12:50:28Z | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/591471019qqt/AbsoZed | 0 | 0| 
 | 20220511T12:49:11Z | Null | https://github.com/CadaverZero/Fuzzy-Bonus-Income | 0 | 0| 
 | 20220511T12:41:49Z | Demonstration for I | https://github.com/thisisSsozi/fuzzy-invention | 0 | 0| 
@@ -101,7 +102,6 @@
 | 20220511T10:38:35Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 240 | 41| 
 | 20220511T10:07:08Z | Null | https://github.com/MarkandaMeher/Fuzzy-Logic-Control-of-Wind-Energy-System | 0 | 0| 
 | 20220511T09:33:41Z | Null | https://github.com/AnonymousCrashFuzz/CrashFuzz | 0 | 0| 
-| 20220511T09:16:13Z | SensitiveFileFuzzer | https://github.com/begininvoke/SensitiveFuzzer | 0 | 0| 
 
 
 
