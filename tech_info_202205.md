@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T01:18:27Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-5 | 0 | 0| 
 | 20220511T01:17:33Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-4 | 0 | 0| 
 | 20220511T01:16:25Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3 | 0 | 0| 
 | 20220511T00:42:49Z | Null | https://github.com/Hack8228OFFICAL/exploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220510T20:58:59Z | AGL proof-of-concept exploit | https://github.com/JG3233/AGL | 0 | 0| 
 | 20220510T20:53:16Z | Null | https://github.com/siek1/PortSwigger-Academy-Exploits | 0 | 0| 
 | 20220510T19:58:58Z | G3nius-Tools framework is a powerfully user-friendly to Server, Client, Network, Signal exploitation tool. We%ve online support and updates. | https://github.com/witblack/G3nius-Tools-framework | 3 | 1| 
-| 20220510T13:20:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2711 | 333| 
 
 
 # backdoor on Github 推荐
