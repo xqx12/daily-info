@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T00:42:49Z | Null | https://github.com/Hack8228OFFICAL/exploit | 0 | 0| 
 | 20220510T23:41:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11459 | 1962| 
 | 20220510T23:08:31Z | Null | https://github.com/octa/exploits | 0 | 0| 
 | 20220510T22:44:22Z | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220510T13:20:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2711 | 333| 
 | 20220510T12:40:23Z | Null | https://github.com/blind-intruder/CVE-2022-1388-RCE-checker-and-POC-Exploit | 4 | 2| 
 | 20220510T12:37:52Z | 🙄 Modern token grabber 🙄 | https://github.com/LiquiIo/Liquid-Token-Grabber | 0 | 0| 
-| 20220510T12:23:04Z | This is the code repository for the paper %Exploiting Robust Memory Features for Unsupervised Reidentification%. | https://github.com/ljwwwiop/unsupervised_reid | 0 | 0| 
 
 
 # backdoor on Github 推荐
