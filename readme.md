@@ -92,7 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220511T12:48:15Z | Null | https://github.com/CadaverZero/Fuzzy-Bonus-Income | 0 | 0| 
+| 20220511T12:49:11Z | Null | https://github.com/CadaverZero/Fuzzy-Bonus-Income | 0 | 0| 
 | 20220511T12:41:49Z | Demonstration for I | https://github.com/thisisSsozi/fuzzy-invention | 0 | 0| 
 | 20220511T11:50:36Z | The MATLAB code for the research paper titled %Self-Organizing Fuzzy Inference Ensemble System for Big Streaming Data Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Inference-Ensemble-System | 0 | 0| 
 | 20220511T10:59:53Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1945 | 482| 
