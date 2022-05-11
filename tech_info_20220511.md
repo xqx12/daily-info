@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T12:50:28Z | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/591471019qqt/AbsoZed | 0 | 0| 
 | 20220511T12:40:16Z | An Idor exploitation tool that can work with many different databases and also outputs as a file. | https://github.com/thirstypeng/idorPuller | 0 | 0| 
 | 20220511T12:34:18Z | An Roblox Executor Extremely Op Sploit I Would Say Its Level 7-6 Have Fun The Key Doesn%t Change Everyday So Yeah Have Fun E. | https://github.com/Unknown56406516401563456/Laugh-Exploit | 0 | 0| 
 | 20220511T12:32:59Z | An Idor exploitation tool that can work with many different databases and also outputs as a file. | https://github.com/thirstypeng/IdorPuller | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20220511T10:59:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 108 | 24| 
 | 20220511T10:26:46Z | Setup for binary exploitation in docker using pwntools | https://github.com/Ultimator14/pwn-docker | 0 | 0| 
 | 20220511T09:48:48Z | A proof-of-concept of a Web application vulnerable to XSS, but applying different levels of Content-Security-Policy applied to prevent its exploitation. For educational purposes only! | https://github.com/Bone008/csp-demo | 0 | 0| 
-| 20220511T08:10:00Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1213 | 276| 
 
 
 # backdoor on Github 推荐
@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T12:50:28Z | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/591471019qqt/AbsoZed | 0 | 0| 
 | 20220511T12:49:11Z | Null | https://github.com/CadaverZero/Fuzzy-Bonus-Income | 0 | 0| 
 | 20220511T12:41:49Z | Demonstration for I | https://github.com/thisisSsozi/fuzzy-invention | 0 | 0| 
 | 20220511T11:50:36Z | The MATLAB code for the research paper titled %Self-Organizing Fuzzy Inference Ensemble System for Big Streaming Data Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Inference-Ensemble-System | 0 | 0| 
@@ -101,7 +102,6 @@
 | 20220511T10:07:08Z | Null | https://github.com/MarkandaMeher/Fuzzy-Logic-Control-of-Wind-Energy-System | 0 | 0| 
 | 20220511T09:33:41Z | Null | https://github.com/AnonymousCrashFuzz/CrashFuzz | 0 | 0| 
 | 20220511T09:16:13Z | SensitiveFileFuzzer | https://github.com/begininvoke/SensitiveFuzzer | 0 | 0| 
-| 20220511T08:57:54Z | Null | https://github.com/LUBAAAN/fuzzy-octo-carnival | 0 | 0| 
 
 
 
