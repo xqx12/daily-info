@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T12:51:33Z | Andrei | https://github.com/Pikexx/Ejay-Exploit | 0 | 0| 
 | 20220511T12:50:28Z | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/591471019qqt/AbsoZed | 0 | 0| 
 | 20220511T12:40:16Z | An Idor exploitation tool that can work with many different databases and also outputs as a file. | https://github.com/thirstypeng/idorPuller | 0 | 0| 
 | 20220511T12:34:18Z | An Roblox Executor Extremely Op Sploit I Would Say Its Level 7-6 Have Fun The Key Doesn%t Change Everyday So Yeah Have Fun E. | https://github.com/Unknown56406516401563456/Laugh-Exploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220511T11:43:38Z | A set of libraries and accompanying tools for post-exploitation, written in Golang. | https://github.com/ofasgard/postex-tools | 10 | 1| 
 | 20220511T10:59:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 108 | 24| 
 | 20220511T10:26:46Z | Setup for binary exploitation in docker using pwntools | https://github.com/Ultimator14/pwn-docker | 0 | 0| 
-| 20220511T09:48:48Z | A proof-of-concept of a Web application vulnerable to XSS, but applying different levels of Content-Security-Policy applied to prevent its exploitation. For educational purposes only! | https://github.com/Bone008/csp-demo | 0 | 0| 
 
 
 # backdoor on Github 推荐
