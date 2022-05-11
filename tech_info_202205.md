@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T12:24:10Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 9| 
 | 20220511T12:15:18Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 912 | 94| 
 | 20220511T11:46:18Z | an undetectable SSH backdoor, as described in http://resources.infosecinstitute.com/creating-undetectable-custom-ssh-… | https://github.com/jordenrs/grassmeight | 0 | 0| 
 | 20220511T07:39:02Z | Automatically create user email (SMTP / WEBMAIL) on webshell | https://github.com/biulove0x/CreateEmail-SMTP-WEBMAIL | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20220511T05:17:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 474 | 89| 
 | 20220511T03:20:58Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 115 | 28| 
 | 20220511T02:57:55Z | List of all the fake nft eth drainers on github with double wallet backdoor | https://github.com/DrainsGang/NFT-ETH-DRAINER | 0 | 0| 
-| 20220510T23:56:15Z | An adversarial killchain walkthrough focusing on malware development | https://github.com/bakarilevy/TheKillchain | 7 | 1| 
 
 
 # symbolic execution on Github 推荐
