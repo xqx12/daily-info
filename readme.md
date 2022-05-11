@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T12:41:49Z | Demonstration for I | https://github.com/thisisSsozi/fuzzy-invention | 0 | 0| 
 | 20220511T11:50:36Z | The MATLAB code for the research paper titled %Self-Organizing Fuzzy Inference Ensemble System for Big Streaming Data Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Inference-Ensemble-System | 0 | 0| 
 | 20220511T10:59:53Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1945 | 482| 
 | 20220511T10:57:48Z | Null | https://github.com/Meiji108/fuzzy-meme | 0 | 0| 
@@ -101,7 +102,6 @@
 | 20220511T09:16:13Z | SensitiveFileFuzzer | https://github.com/begininvoke/SensitiveFuzzer | 0 | 0| 
 | 20220511T08:57:54Z | Null | https://github.com/LUBAAAN/fuzzy-octo-carnival | 0 | 0| 
 | 20220511T08:54:50Z | Register a weighted fuzzy search endpoint for Strapi Headless CMS you can add your content types to in no time | https://github.com/DomDew/strapi-plugin-fuzzy-search | 1 | 1| 
-| 20220511T01:30:51Z | EXEMPLO FUZZY   | https://github.com/Jordy-Rodrigues/Scikit---Fuzzy | 0 | 0| 
 
 
 
