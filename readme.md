@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T12:26:40Z | Null | https://github.com/WalkerRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20220511T12:03:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 400 | 118| 
 | 20220511T11:43:38Z | A set of libraries and accompanying tools for post-exploitation, written in Golang. | https://github.com/ofasgard/postex-tools | 10 | 1| 
 | 20220511T10:59:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 108 | 24| 
@@ -60,13 +61,12 @@
 | 20220511T01:22:33Z | On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated  | https://github.com/ExploitPwner/CVE-2022-1388 | 0 | 0| 
 | 20220511T01:18:27Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-5 | 0 | 0| 
 | 20220511T01:17:33Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-4 | 0 | 0| 
-| 20220511T01:16:25Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220511T12:24:10Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 9| 
+| 20220511T12:24:10Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 10| 
 | 20220511T12:15:18Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 912 | 94| 
 | 20220511T11:46:18Z | an undetectable SSH backdoor, as described in http://resources.infosecinstitute.com/creating-undetectable-custom-ssh-… | https://github.com/jordenrs/grassmeight | 0 | 0| 
 | 20220511T07:39:02Z | Automatically create user email (SMTP / WEBMAIL) on webshell | https://github.com/biulove0x/CreateEmail-SMTP-WEBMAIL | 0 | 0| 
