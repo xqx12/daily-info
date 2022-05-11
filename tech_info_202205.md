@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220511T00:51:15Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220511T00:15:07Z | CVE-2022-1388 | On F5 BIG-IP 16.1.x versions prior to 16.1.2.2, 15.1.x versions prior to 15.1.5.1, 14.1.x versions prior to 14.1.4.6, 13.1.x versions prior to 13.1.5, and all 12.1.x and 11.6.x versions, undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated  | https://github.com/ExploitPwner/CVE-2022-1388 | | 
 | 20220510T21:54:21Z | CVE-2022-30292 | Null | https://github.com/sprushed/CVE-2022-30292 | | 
-| 20220510T21:38:44Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220510T20:50:02Z | CVE-2022-1388 | Null | https://github.com/0xAgun/CVE-2022-1388 | | 
 | 20220510T17:53:58Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
 | 20220510T17:52:31Z | cve-2022-28944 | Null | https://github.com/gerr-re/cve-2022-28944 | | 

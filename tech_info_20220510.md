@@ -26,7 +26,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220510T21:54:21Z | CVE-2022-30292 | Null | https://github.com/sprushed/CVE-2022-30292 | | 
-| 20220510T21:38:44Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220510T20:50:02Z | CVE-2022-1388 | Null | https://github.com/0xAgun/CVE-2022-1388 | | 
 | 20220510T17:53:58Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
 | 20220510T17:52:31Z | cve-2022-28944 | Null | https://github.com/gerr-re/cve-2022-28944 | | 
@@ -35,6 +34,7 @@
 | 20220510T15:37:45Z | CVE-2022-1388 | A Test API for testing the POC against CVE-2022-1388 | https://github.com/bandit92/CVE2022-1388_TestAPI | | 
 | 20220510T15:18:16Z | CVE-2022-1388 | Test and Exploit Scripts for CVE 2022-1388 (F5 Big-IP) | https://github.com/thatonesecguy/CVE-2022-1388-Exploit | | 
 | 20220510T14:46:02Z | CVE-2022-24086 | CVE-2022-24086 and CVE-2022-24087 are an rce in adobe commerce and magento | https://github.com/TomArni680/CVE-2022-24086-rce | | 
+| 20220510T14:38:43Z | CVE-2022-29554 | [Reserved For CVE-2022-29554] | https://github.com/ComparedArray/printix-CVE-2022-29554 | | 
 
 
 # klee on Github 推荐
