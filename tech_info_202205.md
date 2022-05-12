@@ -94,9 +94,9 @@
 | 20220511T21:55:03Z | Kernel exploits and writeups | https://github.com/meowmeowxw/kernel-exploits | 15 | 2| 
 | 20220511T20:47:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 401 | 118| 
 | 20220511T20:27:59Z | This repository consists of the python exploit for CVE-2022-1388 (F5%s BIG-IP Authentication Bypass to RCE)  | https://github.com/omnigodz/CVE-2022-1388 | 0 | 0| 
+| 20220511T20:14:18Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7144 | 1660| 
 | 20220511T19:11:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2714 | 333| 
 | 20220511T18:12:03Z | Null | https://github.com/Pa4ok/SerializeExploitMod | 0 | 0| 
-| 20220511T12:51:33Z | Andrei | https://github.com/Pikexx/Ejay-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
