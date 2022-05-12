@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220512T01:25:54Z | CVE-2022-28078 | Home Owners Collection Management System 1.0 - Reflected XSS | https://github.com/bigzooooz/CVE-2022-28078 | | 
 | 20220511T22:00:15Z | CVE-2022-1388 | Null | https://github.com/pauloink/CVE-2022-1388 | | 
 | 20220511T20:41:34Z | CVE-2022-26809 | CVE-2022-26809   ,  is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows  | https://github.com/seciurdt/CVE-2022-26809-RCE | | 
 | 20220511T20:20:30Z | CVE-2022-1388 | Null | https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner | | 
@@ -55,15 +56,14 @@
 | 20220511T11:50:23Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220511T11:36:37Z | CVE-2022-26133 | Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本 | https://github.com/Pear1y/CVE-2022-26133 | | 
 | 20220511T09:48:07Z | CVE-2022-25315 | Null | https://github.com/ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25315 | | 
-| 20220511T09:22:08Z | CVE-2022-25314 | Null | https://github.com/ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25314 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220512T01:29:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1964 | 555| 
 | 20220511T09:59:52Z | Max patches | https://github.com/robenkleene/roben-kleene-max | 1 | 0| 
 | 20220510T16:48:20Z | Config files for my GitHub profile. | https://github.com/kleeds430/kleeds430 | 0 | 0| 
-| 20220510T11:36:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1963 | 555| 
 | 20220510T09:10:46Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 242 | 40| 
 | 20220510T02:46:19Z | Config files for my GitHub profile. | https://github.com/kleeisthebest/kleeisthebest | 0 | 0| 
 | 20220510T01:06:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6053 | 221| 
