@@ -149,10 +149,10 @@
 | 20220511T21:33:49Z | An NLP-based fuzzing assistance tool | https://github.com/CarpetFuzz/CarpetFuzz | 0 | 0| 
 | 20220511T21:04:55Z | Null | https://github.com/besimgurbuz/go-fuzz | 0 | 0| 
 | 20220511T18:52:41Z | Null | https://github.com/Midelee/fuzzy-parakeet | 0 | 0| 
+| 20220511T16:43:32Z | Null | https://github.com/raflidev/TuPro-Fuzzy | 0 | 0| 
 | 20220511T12:52:25Z | Null | https://github.com/xemlai/fuzzy-octo-carnival | 0 | 0| 
 | 20220511T12:50:28Z | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/591471019qqt/AbsoZed | 0 | 0| 
 | 20220511T12:49:11Z | Null | https://github.com/CadaverZero/Fuzzy-Bonus-Income | 0 | 0| 
-| 20220511T12:41:49Z | Demonstration for I | https://github.com/thisisSsozi/fuzzy-invention | 0 | 0| 
 
 
 
