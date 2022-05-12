@@ -76,7 +76,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220511T18:22:46Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 530 | 190| 
 | 20220511T17:30:02Z | a simple python backdoor binding 2 port (1024 , client, (listener)) | https://github.com/Clem7777/backdoor | 0 | 0| 
-| 20220511T14:34:08Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 916 | 94| 
 | 20220511T12:24:10Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 10| 
 | 20220511T11:46:18Z | an undetectable SSH backdoor, as described in http://resources.infosecinstitute.com/creating-undetectable-custom-ssh-… | https://github.com/jordenrs/grassmeight | 0 | 0| 
 | 20220511T07:39:02Z | Automatically create user email (SMTP / WEBMAIL) on webshell | https://github.com/biulove0x/CreateEmail-SMTP-WEBMAIL | 0 | 0| 
@@ -84,6 +83,7 @@
 | 20220511T06:41:06Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 49 | 16| 
 | 20220511T05:18:15Z | Null | https://github.com/r3bb1t/Backdoor-finder-beta | 0 | 0| 
 | 20220511T05:17:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 474 | 89| 
+| 20220511T03:20:58Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 115 | 28| 
 
 
 # symbolic execution on Github 推荐
