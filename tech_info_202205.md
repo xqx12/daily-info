@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220512T01:53:08Z | Null | https://github.com/KeranaAngelova/fuzzy-octo-engine | 0 | 0| 
 | 20220511T23:42:15Z | Null | https://github.com/MinzhengZhang/FuzzyAutocomplete | 0 | 0| 
 | 20220511T22:47:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7306 | 1576| 
 | 20220511T22:09:26Z | Basic fuzzing input mutator. | https://github.com/00xc/cmutator | 3 | 0| 
@@ -152,7 +153,6 @@
 | 20220511T16:43:32Z | Null | https://github.com/raflidev/TuPro-Fuzzy | 0 | 0| 
 | 20220511T12:52:25Z | Null | https://github.com/xemlai/fuzzy-octo-carnival | 0 | 0| 
 | 20220511T12:50:28Z | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/591471019qqt/AbsoZed | 0 | 0| 
-| 20220511T12:49:11Z | Null | https://github.com/CadaverZero/Fuzzy-Bonus-Income | 0 | 0| 
 
 
 
