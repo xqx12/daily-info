@@ -32,30 +32,30 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220511 | 顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越 | https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ| 
+| 20220511 | 元学习——让机器学习学会学习 | https://mp.weixin.qq.com/s/fMZWI-pvjVnKcvC7RO6lHA| 
+| 20220511 | 企业安全建设：资产管理面面观 | https://mp.weixin.qq.com/s/23fekORQNpmj82Oh1ttixg| 
+| 20220511 | 新型eBPF后门boopkit的原理分析与演示 | https://www.cnxct.com/ebpf-rootkit-how-boopkit-works/| 
+| 20220511 | F5 BIG-IP 未授权 RCE（CVE-2022-1388）分析 | https://paper.seebug.org/1893/| 
+| 20220511 | Commit Level Vulnerability Dataset | https://blog.quarkslab.com/commit-level-vulnerability-dataset.html| 
+| 20220511 | 卫星互联网发展与信息安全趋势 | https://mp.weixin.qq.com/s/qsrZ8RJl_wE_aN0t4-mhog| 
 | 20220510 | MYSQL8.0特性—无select注入 | https://www.sec-in.com/article/1715| 
 | 20220509 | 【D3FEND】网络安全对策知识图谱框架解读 | https://mp.weixin.qq.com/s/ziHX1gQYo89sWz248yLgAQ| 
 | 20220509 | SecWiki周刊（第427期) | https://www.sec-wiki.com/weekly/427| 
-| 20220509 | 从500到账户接管 | https://www.sec-in.com/article/1692| 
-| 20220508 | 智能电表安全之通讯分析 | https://mp.weixin.qq.com/s/3GVK_Xm_H93PyRKu35ttoQ| 
-| 20220508 | OffensiveNotion: Notion as a platform for offensive operat... | https://github.com/mttaggart/OffensiveNotion| 
-| 20220507 | 初探Java安全之JavaAgent | https://www.sec-in.com/article/1690| 
-| 20220507 | supplier: 主流供应商的一些攻击性漏洞汇总 | https://github.com/ThestaRY7/supplier| 
-| 20220507 | 使用 Sonarr 搭建自动化追番系统 | https://reorx.com/blog/track-and-download-shows-automatically-with-sonarr/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220511T22:00:15Z | CVE-2022-1388 | Null | https://github.com/pauloink/CVE-2022-1388 | | 
+| 20220511T20:41:34Z | CVE-2022-26809 | CVE-2022-26809   ,  is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows  | https://github.com/seciurdt/CVE-2022-26809-RCE | | 
+| 20220511T20:20:30Z | CVE-2022-1388 | Null | https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner | | 
+| 20220511T20:15:52Z | CVE-2022-1388 | CVE-2022-1388 | https://github.com/mr-vill4in/CVE-2022-1388 | | 
+| 20220511T19:34:58Z | CVE-2022-1388 | CVE-2022-1388 Scanner | https://github.com/EvilLizard666/CVE-2022-1388 | | 
+| 20220511T15:02:07Z | cve-2022-1388 | big-ip icontrol rest auth bypass RCE MASS with huge list of ip dumped | https://github.com/kuznyJan1972/cve-2022-1388-mass | | 
 | 20220511T11:50:23Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220511T11:36:37Z | CVE-2022-26133 | Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本 | https://github.com/Pear1y/CVE-2022-26133 | | 
 | 20220511T09:48:07Z | CVE-2022-25315 | Null | https://github.com/ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25315 | | 
 | 20220511T09:22:08Z | CVE-2022-25314 | Null | https://github.com/ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25314 | | 
-| 20220511T08:01:30Z | CVE-2022-25313 | Null | https://github.com/ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25313 | | 
-| 20220511T07:11:18Z | CVE-2020-25213 | WordPress的文件管理器插件（wp-file-manager）6.9版本之前存在安全漏洞，该漏洞允许远程攻击者上传和执行任意PHP代码。 | https://github.com/adminsec5247/CVE-2020-25213-wordpress-wp-file-manager-fileupload | | 
-| 20220511T06:28:28Z | CVE-2022-28078 | Home Owners Collection Management System 1.0 - Reflected XSS | https://github.com/bigzooooz/CVE-2022-28078 | | 
-| 20220511T06:23:46Z | CVE-2022-28077 | Home Owners Collection Management System 1.0 - Reflected XSS | https://github.com/bigzooooz/CVE-2022-28077 | | 
-| 20220511T01:22:33Z | CVE-2022-1388 | On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated  | https://github.com/ExploitPwner/CVE-2022-1388 | | 
-| 20220510T21:54:21Z | CVE-2022-30292 | Null | https://github.com/sprushed/CVE-2022-30292 | | 
 
 
 # klee on Github 推荐
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T14:21:24Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 223 | 54| 
 | 20220509T08:50:07Z | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
 | 20220509T06:42:38Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 18 | 2| 
-| 20220504T05:55:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 222 | 54| 
 | 20220503T22:03:30Z | S2E website (s2e.systems) | https://github.com/S2E2/s2e2.github.io | 0 | 0| 
 | 20220502T21:17:55Z | Null | https://github.com/Buttermint69/S2EF | 0 | 0| 
 | 20220501T10:29:25Z | Null | https://github.com/Wilco-LoadingTests/Anythink-Market-s2es6 | 0 | 0| 
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T23:41:01Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11465 | 1965| 
+| 20220511T23:16:11Z | Null | https://github.com/kn32/python-buffered-reader-exploit | 0 | 0| 
+| 20220511T21:55:03Z | Kernel exploits and writeups | https://github.com/meowmeowxw/kernel-exploits | 15 | 2| 
+| 20220511T20:47:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 401 | 118| 
+| 20220511T20:27:59Z | This repository consists of the python exploit for CVE-2022-1388 (F5%s BIG-IP Authentication Bypass to RCE)  | https://github.com/omnigodz/CVE-2022-1388 | 0 | 0| 
+| 20220511T19:11:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2714 | 333| 
+| 20220511T18:12:03Z | Null | https://github.com/Pa4ok/SerializeExploitMod | 0 | 0| 
 | 20220511T12:51:33Z | Andrei | https://github.com/Pikexx/Ejay-Exploit | 0 | 0| 
 | 20220511T12:50:28Z | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/591471019qqt/AbsoZed | 0 | 0| 
 | 20220511T12:40:16Z | An Idor exploitation tool that can work with many different databases and also outputs as a file. | https://github.com/thirstypeng/idorPuller | 0 | 0| 
-| 20220511T12:34:18Z | An Roblox Executor Extremely Op Sploit I Would Say Its Level 7-6 Have Fun The Key Doesn%t Change Everyday So Yeah Have Fun E. | https://github.com/Unknown56406516401563456/Laugh-Exploit | 0 | 0| 
-| 20220511T12:32:59Z | An Idor exploitation tool that can work with many different databases and also outputs as a file. | https://github.com/thirstypeng/IdorPuller | 0 | 0| 
-| 20220511T12:28:37Z | Null | https://github.com/WalkerRcs/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
-| 20220511T12:03:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 400 | 118| 
-| 20220511T11:43:38Z | A set of libraries and accompanying tools for post-exploitation, written in Golang. | https://github.com/ofasgard/postex-tools | 10 | 1| 
-| 20220511T10:59:21Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 108 | 24| 
-| 20220511T10:26:46Z | Setup for binary exploitation in docker using pwntools | https://github.com/Ultimator14/pwn-docker | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T18:22:46Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 530 | 190| 
+| 20220511T17:30:02Z | a simple python backdoor binding 2 port (1024 , client, (listener)) | https://github.com/Clem7777/backdoor | 0 | 0| 
+| 20220511T14:34:08Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 916 | 94| 
 | 20220511T12:24:10Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 10| 
-| 20220511T12:15:18Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 912 | 94| 
 | 20220511T11:46:18Z | an undetectable SSH backdoor, as described in http://resources.infosecinstitute.com/creating-undetectable-custom-ssh-… | https://github.com/jordenrs/grassmeight | 0 | 0| 
 | 20220511T07:39:02Z | Automatically create user email (SMTP / WEBMAIL) on webshell | https://github.com/biulove0x/CreateEmail-SMTP-WEBMAIL | 0 | 0| 
 | 20220511T06:47:13Z | Sebia started selling so i deobfuscated his exe and removed backdoor and server error thingie. enjoy to use! dont pay to sebia! | https://github.com/TheLeakerMan/gtps3 | 0 | 0| 
 | 20220511T06:41:06Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 49 | 16| 
 | 20220511T05:18:15Z | Null | https://github.com/r3bb1t/Backdoor-finder-beta | 0 | 0| 
 | 20220511T05:17:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 474 | 89| 
-| 20220511T03:20:58Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 115 | 28| 
-| 20220511T02:57:55Z | List of all the fake nft eth drainers on github with double wallet backdoor | https://github.com/DrainsGang/NFT-ETH-DRAINER | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220511T23:42:15Z | Null | https://github.com/MinzhengZhang/FuzzyAutocomplete | 0 | 0| 
+| 20220511T22:47:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7306 | 1576| 
+| 20220511T22:09:26Z | Basic fuzzing input mutator. | https://github.com/00xc/cmutator | 3 | 0| 
+| 20220511T21:33:49Z | An NLP-based fuzzing assistance tool | https://github.com/CarpetFuzz/CarpetFuzz | 0 | 0| 
+| 20220511T21:04:55Z | Null | https://github.com/besimgurbuz/go-fuzz | 0 | 0| 
+| 20220511T18:52:41Z | Null | https://github.com/Midelee/fuzzy-parakeet | 0 | 0| 
 | 20220511T12:52:25Z | Null | https://github.com/xemlai/fuzzy-octo-carnival | 0 | 0| 
 | 20220511T12:50:28Z | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/591471019qqt/AbsoZed | 0 | 0| 
 | 20220511T12:49:11Z | Null | https://github.com/CadaverZero/Fuzzy-Bonus-Income | 0 | 0| 
 | 20220511T12:41:49Z | Demonstration for I | https://github.com/thisisSsozi/fuzzy-invention | 0 | 0| 
-| 20220511T11:50:36Z | The MATLAB code for the research paper titled %Self-Organizing Fuzzy Inference Ensemble System for Big Streaming Data Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Inference-Ensemble-System | 0 | 0| 
-| 20220511T10:59:53Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1945 | 482| 
-| 20220511T10:57:48Z | Null | https://github.com/Meiji108/fuzzy-meme | 0 | 0| 
-| 20220511T10:38:35Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 240 | 41| 
-| 20220511T10:07:08Z | Null | https://github.com/MarkandaMeher/Fuzzy-Logic-Control-of-Wind-Energy-System | 0 | 0| 
-| 20220511T09:33:41Z | Null | https://github.com/AnonymousCrashFuzz/CrashFuzz | 0 | 0| 
 
 
 
