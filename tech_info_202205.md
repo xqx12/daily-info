@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220512T00:31:45Z | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | 0 | 0| 
 | 20220511T23:41:01Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11465 | 1965| 
 | 20220511T23:16:11Z | Null | https://github.com/kn32/python-buffered-reader-exploit | 0 | 0| 
 | 20220511T21:55:03Z | Kernel exploits and writeups | https://github.com/meowmeowxw/kernel-exploits | 15 | 2| 
@@ -96,7 +97,6 @@
 | 20220511T18:12:03Z | Null | https://github.com/Pa4ok/SerializeExploitMod | 0 | 0| 
 | 20220511T12:51:33Z | Andrei | https://github.com/Pikexx/Ejay-Exploit | 0 | 0| 
 | 20220511T12:50:28Z | Modular Buffer Overflow Fuzzer and Exploitation Tool | https://github.com/591471019qqt/AbsoZed | 0 | 0| 
-| 20220511T12:40:16Z | An Idor exploitation tool that can work with many different databases and also outputs as a file. | https://github.com/thirstypeng/idorPuller | 0 | 0| 
 
 
 # backdoor on Github 推荐
