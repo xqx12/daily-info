@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T12:44:34Z | Null | https://github.com/yuivbfb/fuzzy-goggles | 0 | 0| 
 | 20220513T12:24:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4124 | 982| 
 | 20220513T12:21:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7309 | 1577| 
 | 20220513T11:52:12Z | para usar o canva  | https://github.com/thigo19/fuzzy-br-colis | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20220513T10:31:23Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 0 | 0| 
 | 20220513T09:40:43Z | Null | https://github.com/Anirban0053/Glaucoma-detection-using-fuzzy-c-means | 0 | 0| 
 | 20220513T01:57:43Z | A hypervisor or virtual machine monitor (VMM) fuzzer. | https://github.com/lojzes6/rcvalle | 0 | 0| 
-| 20220513T01:35:00Z | Null | https://github.com/shadeed-winner/fuzzy-tribble | 0 | 0| 
 
 
 
