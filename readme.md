@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220513T12:58:43Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本 | https://github.com/shuai06/CVE-2022-30525 | | 
 | 20220513T12:45:52Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
 | 20220513T12:40:05Z | CVE-2022-1051 | WPQA < 5.2 - Subscriber+ Stored Cross-Site Scripting via Profile fields | https://github.com/V35HR4J/CVE-2022-1051 | | 
 | 20220513T11:40:56Z | CVE-2021-44228 | Log4Shell Proof-Of-Concept derived from https://github.com/kozmer/log4j-shell-poc | https://github.com/Phineas09/CVE-2021-44228 | | 
@@ -26,7 +27,6 @@
 | 20220513T08:43:43Z | CVE-2022-1388 | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | | 
 | 20220513T08:16:41Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
 | 20220513T06:43:45Z | CVE-2022-1388 | Nuclei Template for CVE-2022-1388 | https://github.com/SecTheBit/CVE-2022-1388 | | 
-| 20220513T03:18:44Z | CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | | 
 
 
 # klee on Github 推荐
