@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220513T12:03:28Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
+| 20220513T12:07:53Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
 | 20220513T11:40:56Z | CVE-2021-44228 | Log4Shell Proof-Of-Concept derived from https://github.com/kozmer/log4j-shell-poc | https://github.com/Phineas09/CVE-2021-44228 | | 
 | 20220513T11:17:57Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
 | 20220513T10:20:19Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
@@ -75,6 +75,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T11:52:12Z | para usar o canva  | https://github.com/thigo19/fuzzy-br-colis | 0 | 0| 
+| 20220513T11:46:59Z | Null | https://github.com/raflidev/TuPro-Fuzzy | 0 | 0| 
+| 20220513T11:26:46Z | Null | https://github.com/santhosh-antony-raj/Neuro-fuzzy-inference-system | 0 | 0| 
+| 20220513T10:42:07Z | Null | https://github.com/mauls313/Tupro2_Fuzzy | 0 | 0| 
+| 20220513T10:31:23Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 0 | 0| 
+| 20220513T09:40:43Z | Null | https://github.com/Anirban0053/Glaucoma-detection-using-fuzzy-c-means | 0 | 0| 
+| 20220513T08:09:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4125 | 982| 
 | 20220513T01:57:43Z | A hypervisor or virtual machine monitor (VMM) fuzzer. | https://github.com/lojzes6/rcvalle | 0 | 0| 
 | 20220513T01:35:00Z | Null | https://github.com/shadeed-winner/fuzzy-tribble | 0 | 0| 
 
