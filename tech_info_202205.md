@@ -89,6 +89,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220513T11:56:55Z | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | 0 | 0| 
+| 20220513T11:48:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11469 | 1966| 
 | 20220513T11:46:54Z | Null | https://github.com/timkanbur/Log4j_Exploit_Paper | 0 | 0| 
 | 20220513T11:37:09Z | This tool can be used to identify ROS1 based robotic systems and exploit the vulnerable ROS master and the publish/subscribe mechanism. | https://github.com/pietermiske/ROSexploiter | 0 | 0| 
 | 20220513T10:38:19Z | Null | https://github.com/blind-intruder/Exploit-CVE | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220513T03:50:39Z | Our ROBLOX exploit UI. | https://github.com/MagnaRoblox/MagnaUI | 0 | 0| 
 | 20220513T03:43:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 402 | 118| 
 | 20220512T23:52:56Z | Null | https://github.com/dew1567/Roblox-ScriptExploit-Example | 0 | 0| 
-| 20220512T23:29:50Z | A POC for IBM Datapower Authenticated Redis RCE Exploit abusing the Test Message Function (CVE-2020-5014) | https://github.com/copethomas/datapower-redis-rce-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
