@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T01:56:40Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 531 | 190| 
 | 20220512T23:48:42Z | if you are not nadza, don%t download this, is a backdoor and we are testing it | https://github.com/lizardwine/volks | 0 | 0| 
 | 20220512T17:47:51Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 46 | 5| 
 | 20220512T16:55:11Z | Null | https://github.com/MuhammadUsman94/Textual_Backdoor_Attack | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20220512T06:00:12Z | Null | https://github.com/spentera/Backdoors | 0 | 0| 
 | 20220512T04:14:16Z | Null | https://github.com/creepey/backdoor_experiment | 0 | 0| 
 | 20220512T03:01:29Z | Code and data of the ACL-IJCNLP 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 15 | 5| 
-| 20220512T02:57:47Z | e | https://github.com/IRFMonkey/backdoor.exe | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T01:57:43Z | A hypervisor or virtual machine monitor (VMM) fuzzer. | https://github.com/lojzes6/rcvalle | 0 | 0| 
 | 20220513T01:35:00Z | Null | https://github.com/shadeed-winner/fuzzy-tribble | 0 | 0| 
 | 20220512T23:44:42Z | VBA Functions/Subs for performing fuzzy matching in Excel Workbooks. | https://github.com/kyledeer-32/vba_fuzzymatching | 0 | 0| 
 | 20220512T23:40:30Z | Null | https://github.com/filipeclegnani/FuzzySI | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20220512T01:53:08Z | Null | https://github.com/KeranaAngelova/fuzzy-octo-engine | 0 | 0| 
 | 20220511T23:42:15Z | Null | https://github.com/MinzhengZhang/FuzzyAutocomplete | 0 | 0| 
 | 20220511T22:09:26Z | Basic fuzzing input mutator. | https://github.com/00xc/cmutator | 3 | 0| 
-| 20220511T21:33:49Z | An NLP-based fuzzing assistance tool | https://github.com/CarpetFuzz/CarpetFuzz | 0 | 0| 
 
 
 
