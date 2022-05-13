@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220513 | 从ATT&CK V11版发布看ATT&CK的更新历程 | https://mp.weixin.qq.com/s/vm13xmTzLYrqLrMRlndAZA| 
 | 20220512 | CVE-2021-31209 分析学习 | https://www.sec-in.com/article/1710| 
 | 20220511 | 顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越 | https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ| 
 | 20220511 | 元学习——让机器学习学会学习 | https://mp.weixin.qq.com/s/fMZWI-pvjVnKcvC7RO6lHA| 
@@ -40,27 +41,27 @@
 | 20220511 | Commit Level Vulnerability Dataset | https://blog.quarkslab.com/commit-level-vulnerability-dataset.html| 
 | 20220511 | 卫星互联网发展与信息安全趋势 | https://mp.weixin.qq.com/s/qsrZ8RJl_wE_aN0t4-mhog| 
 | 20220510 | MYSQL8.0特性—无select注入 | https://www.sec-in.com/article/1715| 
-| 20220509 | 【D3FEND】网络安全对策知识图谱框架解读 | https://mp.weixin.qq.com/s/ziHX1gQYo89sWz248yLgAQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220513T00:29:15Z | CVE-2022-1388 | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | | 
-| 20220512T21:21:55Z | CVE-2022-23121 | NETATALK-AFP-PROTO RCE :, This CVE-2022-23121 allows remote malicious users to execute arbitrary code on affected installations of Netatalk. Authentication is not required to exploit this vulnerability. The specific flaw exists within the parse_entries function. The issue results from the lack of proper error handling when parsing AppleDouble entries. An attacker can leverage this vulnerability to execute code in the context of root. | https://github.com/kuznyJan1972/CVE-2022-23121-RCE | | 
-| 20220512T17:28:58Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
-| 20220512T16:30:25Z | CVE-2022-26923 | Walkthrough on the exploitation of CVE-2022-26923, a vulnerability in AD Certificate Services | https://github.com/r1skkam/TryHackMe-CVE-2022-26923 | | 
-| 20220512T14:53:15Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
-| 20220512T13:18:47Z | CVE-2022-23253 | CVE-2022-23253 PoC | https://github.com/nettitude/CVE-2022-23253-PoC | | 
-| 20220512T12:17:11Z | CVE-2022-1388 | Nuclei Template for CVE-2022-1388 | https://github.com/SecTheBit/CVE-2022-1388 | | 
-| 20220512T11:10:36Z | CVE-2022-25315 | Null | https://github.com/Nivaskumark/external_expat_v2.1.0_CVE-2022-25315 | | 
-| 20220512T10:28:56Z | CVE-2022-1388 | Null | https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner | | 
-| 20220512T07:54:53Z | CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | | 
+| 20220513T12:03:28Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
+| 20220513T11:40:56Z | CVE-2021-44228 | Log4Shell Proof-Of-Concept derived from https://github.com/kozmer/log4j-shell-poc | https://github.com/Phineas09/CVE-2021-44228 | | 
+| 20220513T11:17:57Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
+| 20220513T10:20:19Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
+| 20220513T08:58:16Z | CVE-2020-0618 | Melissa | https://github.com/itstarsec/CVE-2020-0618 | | 
+| 20220513T08:43:43Z | CVE-2022-1388 | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | | 
+| 20220513T08:16:41Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
+| 20220513T07:03:58Z | CVE-2022-1051 | WPQA < 5.2 - Subscriber+ Stored Cross-Site Scripting via Profile fields | https://github.com/V35HR4J/CVE-2022-1051 | | 
+| 20220513T06:43:45Z | CVE-2022-1388 | Nuclei Template for CVE-2022-1388 | https://github.com/SecTheBit/CVE-2022-1388 | | 
+| 20220513T03:18:44Z | CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T07:12:50Z | KLEE in the browser | https://github.com/klee/klee-web | 48 | 12| 
 | 20220512T23:23:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1966 | 555| 
 | 20220512T19:52:08Z | Null | https://github.com/jove-decompiler/klee | 0 | 0| 
 | 20220512T16:23:05Z | This is Team A ( Terrell Crawford, Stan Savelev, Leonel Barrientos, Jarod Heng, Jack Klees, George Bakhoum) | https://github.com/220328-Java-Full-Stack-AWS/Team-A-P2 | 0 | 0| 
@@ -70,12 +71,12 @@
 | 20220510T16:48:20Z | Config files for my GitHub profile. | https://github.com/kleeds430/kleeds430 | 0 | 0| 
 | 20220510T09:10:46Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 242 | 40| 
 | 20220510T02:46:19Z | Config files for my GitHub profile. | https://github.com/kleeisthebest/kleeisthebest | 0 | 0| 
-| 20220510T01:06:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6053 | 221| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T11:34:09Z | New version of OCELOT (including new script to run it) | https://github.com/Hector-Mauricio-Castaneda-Cortes/S2E_FEL_dev_gen | 0 | 0| 
 | 20220511T14:21:24Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 223 | 54| 
 | 20220509T08:50:07Z | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
 | 20220509T06:42:38Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 18 | 2| 
@@ -87,21 +88,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T11:56:55Z | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | 0 | 0| 
+| 20220513T11:46:54Z | Null | https://github.com/timkanbur/Log4j_Exploit_Paper | 0 | 0| 
+| 20220513T11:37:09Z | This tool can be used to identify ROS1 based robotic systems and exploit the vulnerable ROS master and the publish/subscribe mechanism. | https://github.com/pietermiske/ROSexploiter | 0 | 0| 
+| 20220513T10:38:19Z | Null | https://github.com/blind-intruder/Exploit-CVE | 0 | 0| 
+| 20220513T10:02:49Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Imposerya/Memenite-External-Fortnite-Updated-Source-Leak | 0 | 0| 
+| 20220513T08:24:05Z | 해킹 공부, writeups, exploits | https://github.com/fxrcha/writeups | 0 | 0| 
+| 20220513T03:50:39Z | Our ROBLOX exploit UI. | https://github.com/MagnaRoblox/MagnaUI | 0 | 0| 
+| 20220513T03:43:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 402 | 118| 
 | 20220512T23:52:56Z | Null | https://github.com/dew1567/Roblox-ScriptExploit-Example | 0 | 0| 
 | 20220512T23:29:50Z | A POC for IBM Datapower Authenticated Redis RCE Exploit abusing the Test Message Function (CVE-2020-5014) | https://github.com/copethomas/datapower-redis-rce-exploit | 0 | 0| 
-| 20220512T23:16:49Z | Simple roblox exploit made using the WeAreDevsAPI (roblox has terrible security, by far one of the worst out of all games). | https://github.com/DevT02/CounuxeExploit-UI | 1 | 0| 
-| 20220512T22:38:02Z | Null | https://github.com/spiritofthegael/ExploitDB-Project | 0 | 0| 
-| 20220512T22:19:19Z | A deliberately vulnerable Rails 6 app to exploit using unmarshalling payloads. | https://github.com/Xync/bankmarshall | 0 | 0| 
-| 20220512T21:49:03Z | Roblox-TS typings for popular Roblox %scripting engines% | https://github.com/richie0866/exploit-types | 1 | 2| 
-| 20220512T20:43:45Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1215 | 276| 
-| 20220512T18:45:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11468 | 1966| 
-| 20220512T16:39:20Z | Hackthebox, Tryhackme and popular vulnerabilities% exploit demos | https://github.com/jtvsdeo/popular-exploit-demos | 0 | 0| 
-| 20220512T16:00:00Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 203 | 38| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T03:00:07Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 925 | 96| 
 | 20220513T01:56:40Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 531 | 190| 
 | 20220512T23:48:42Z | if you are not nadza, don%t download this, is a backdoor and we are testing it | https://github.com/lizardwine/volks | 0 | 0| 
 | 20220512T17:47:51Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 46 | 5| 
@@ -111,13 +113,12 @@
 | 20220512T08:28:23Z | Sebia started selling so i deobfuscated his exe and removed backdoor and server error thingie. enjoy to use! dont pay to sebia! | https://github.com/TheLeakerMan/gtps3 | 1 | 0| 
 | 20220512T06:00:12Z | Null | https://github.com/spentera/Backdoors | 0 | 0| 
 | 20220512T04:14:16Z | Null | https://github.com/creepey/backdoor_experiment | 0 | 0| 
-| 20220512T03:01:29Z | Code and data of the ACL-IJCNLP 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 15 | 5| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220512T23:23:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1966 | 555| 
+| 20220513T08:37:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1967 | 555| 
 | 20220512T07:38:18Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2854 | 413| 
 | 20220511T14:21:24Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 223 | 54| 
 | 20220510T07:58:26Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 403 | 18| 
