@@ -66,6 +66,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T12:53:00Z | The second assignment for the Symbolic Execution seminar, which consists in building a concolic fuzzer. | https://github.com/CISPA-SE-Seminar/Assignment-2 | 0 | 0| 
 | 20220513T12:19:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2853 | 413| 
 | 20220513T08:37:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1967 | 555| 
 
