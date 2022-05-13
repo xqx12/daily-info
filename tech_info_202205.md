@@ -22,10 +22,10 @@
 | 20220512 | iPhone Setup for Reversing and Debugging | https://naehrdine.blogspot.com/2022/05/iphone-setup-for-reversing-and-debugging.html| 
 | 20220512 | Microsoft Sharepoint Post-Auth 反序列化 RCE 漏洞（CVE-2022-29108）分析 | https://starlabs.sg/blog/2022/05/new-wine-in-old-bottle-microsoft-sharepoint-post-auth-deserialization-rce-cve-2022-29108/| 
 | 20220512 | MalSCCM - 滥用本地或远程 Windows SCCM 服务器，向被管理的机器部署恶意软件 | http://labs.nettitude.com/blog/introducing-malsccm/| 
+| 20220512 | Playwright - 微软开源的控制浏览器实现自动化的框架 | https://github.com/microsoft/playwright| 
+| 20220512 | 将 Windows EventID 映射到 MITRE [email protected] 攻击矩阵的工具 | https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack| 
 | 20220511 | Zyxel USG 网关固件的提取及密码验证策略分析 | https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/| 
 | 20220511 | Cisco Expressway 网关被发现多个漏洞 | https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/| 
-| 20220511 | Windows 系统的预创建账户分析 | https://www.trustedsec.com/blog/diving-into-pre-created-computer-accounts/| 
-| 20220511 | 组合多种 Web 攻击（包括点击劫持、CSS 注入、Drag-Drop XSS 等）扩大攻击效果 | https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa| 
 
 
 # 安全维基 推荐

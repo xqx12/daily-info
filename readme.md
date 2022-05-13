@@ -22,6 +22,8 @@
 | 20220512 | iPhone Setup for Reversing and Debugging | https://naehrdine.blogspot.com/2022/05/iphone-setup-for-reversing-and-debugging.html| 
 | 20220512 | Microsoft Sharepoint Post-Auth 反序列化 RCE 漏洞（CVE-2022-29108）分析 | https://starlabs.sg/blog/2022/05/new-wine-in-old-bottle-microsoft-sharepoint-post-auth-deserialization-rce-cve-2022-29108/| 
 | 20220512 | MalSCCM - 滥用本地或远程 Windows SCCM 服务器，向被管理的机器部署恶意软件 | http://labs.nettitude.com/blog/introducing-malsccm/| 
+| 20220512 | Playwright - 微软开源的控制浏览器实现自动化的框架 | https://github.com/microsoft/playwright| 
+| 20220512 | 将 Windows EventID 映射到 MITRE [email protected] 攻击矩阵的工具 | https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack| 
 
 
 # 安全维基 推荐
