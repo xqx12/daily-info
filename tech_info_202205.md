@@ -145,7 +145,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220514T01:02:53Z | Null | https://github.com/zhaoxiaoyunok/materials_fuzzing | 0 | 0| 
+| 20220514T01:45:43Z | Adaptive fuzzy neural network MATLAB code | https://github.com/huihuangchen20309921/Adaptive-fuzzy-neural-network-MATLAB-code | 0 | 0| 
+| 20220514T01:43:45Z | Null | https://github.com/zhaoxiaoyunok/materials_fuzzing | 0 | 0| 
+| 20220514T01:38:38Z | Tugas Pemrograman 02 - Reasoning (Pengantar Kecerdasan Buatan) | https://github.com/berlianm/Fuzzy-Logic | 0 | 0| 
 | 20220514T00:38:16Z | Null | https://github.com/farhantk/tubesFuzzy | 0 | 0| 
 | 20220513T22:32:07Z | Projeto de um semáforo utilizando uma API para coleta de dados reais do cruzamento e fazendo a tomada de decisão por lógica Fuzzy | https://github.com/mpparolini/Semaforo-GIS-Fuzzy | 0 | 0| 
 | 20220513T22:00:18Z | Breakpoint-Assisted Rough Fuzzer | https://github.com/maride/barf | 0 | 0| 
@@ -153,8 +155,6 @@
 | 20220513T18:32:54Z | Null | https://github.com/frtl/fuzzy-sniffle | 0 | 0| 
 | 20220513T18:00:51Z | Example of fuzz tests | https://github.com/RomanOrlovDev/go-fuzz-tests | 0 | 0| 
 | 20220513T17:29:56Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
-| 20220513T12:57:18Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 1 | 0| 
-| 20220513T12:44:34Z | Null | https://github.com/yuivbfb/fuzzy-goggles | 0 | 0| 
 
 
 
