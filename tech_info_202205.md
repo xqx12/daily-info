@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T12:09:48Z | roblox exploiting script hub | https://github.com/tomvere/MaxHub | 0 | 0| 
 | 20220514T11:09:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2734 | 336| 
 | 20220514T10:51:23Z | A crasher with java script | https://github.com/Ghalbeyou/Crash-With-JS | 0 | 0| 
 | 20220514T10:37:29Z | vdk is a set of utilities used to help with exploitation of a vulnerable driver. | https://github.com/archercreat/vdk | 2 | 1| 
@@ -97,7 +98,6 @@
 | 20220514T03:23:47Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Imposerya/Memenite-External-Fortnite-Updated-Source-Leak | 0 | 1| 
 | 20220514T01:42:00Z | Null | https://github.com/Jack7988/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper | 0 | 0| 
 | 20220514T01:41:25Z | Null | https://github.com/Jack7988/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper- | 0 | 0| 
-| 20220514T01:40:30Z | Null | https://github.com/Eddi0x/PDF-EXPLOIT-FULLY-SILENT-PRIVATE | 0 | 0| 
 
 
 # backdoor on Github 推荐
