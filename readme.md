@@ -47,7 +47,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220513T22:02:09Z | Bypass for an organization restricting a user to set wallpapers on their own Chrome OS systems. Found May 3rd, Disclosed to public 5/13/22 | https://github.com/ItzSwirlz/ChromeOSWallpaperExploit | 0 | 0| 
 | 20220513T21:54:10Z | Exploits created based on FuzzySecurity%s Windows Exploit Development tutorials. | https://github.com/mmore21/b33f_exploits | 0 | 0| 
-| 20220513T21:48:41Z | vdk is a set of utilities used to help with exploitation of a vulnurable driver. | https://github.com/archercreat/vdk | 0 | 1| 
 | 20220513T21:37:06Z | A test of the beEF (Browser Exploitation Framework) Project | https://github.com/unamed-project/beEF-test | 0 | 0| 
 | 20220513T21:19:22Z | A roblox cheat called %Green X% | https://github.com/GreenAccount/GreenExploit | 0 | 0| 
 | 20220513T20:57:48Z | Null | https://github.com/KAKU1234567/Exploit | 0 | 0| 
@@ -55,6 +54,7 @@
 | 20220513T20:41:13Z | hack tools | https://github.com/hacktoolspack/hack-tools | 706 | 463| 
 | 20220513T11:56:55Z | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | 0 | 0| 
 | 20220513T11:48:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11469 | 1967| 
+| 20220513T11:46:54Z | Null | https://github.com/timkanbur/Log4j_Exploit_Paper | 0 | 0| 
 
 
 # backdoor on Github 推荐
