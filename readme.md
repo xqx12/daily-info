@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220513T22:06:53Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
-| 20220513T20:51:51Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本 | https://github.com/shuai06/CVE-2022-30525 | | 
 | 20220513T20:46:48Z | CVE-2022-1388 | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | | 
 | 20220513T19:31:15Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
 | 20220513T18:23:37Z | CVE-2022-30525 | Zyxel 防火墙未经身份验证的远程命令注入 | https://github.com/savior-only/CVE-2022-30525 | | 
@@ -27,6 +26,7 @@
 | 20220513T12:40:05Z | CVE-2022-1051 | WPQA < 5.2 - Subscriber+ Stored Cross-Site Scripting via Profile fields | https://github.com/V35HR4J/CVE-2022-1051 | | 
 | 20220513T11:40:56Z | CVE-2021-44228 | Log4Shell Proof-Of-Concept derived from https://github.com/kozmer/log4j-shell-poc | https://github.com/Phineas09/CVE-2021-44228 | | 
 | 20220513T11:17:57Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
+| 20220513T08:58:16Z | CVE-2020-0618 | Melissa | https://github.com/itstarsec/CVE-2020-0618 | | 
 
 
 # klee on Github 推荐
