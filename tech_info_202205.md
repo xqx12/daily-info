@@ -118,6 +118,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T00:38:10Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 0 | 0| 
 | 20220513T21:39:20Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2852 | 413| 
 | 20220513T17:31:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 407 | 19| 
 | 20220513T12:53:00Z | The second assignment for the Symbolic Execution seminar, which consists in building a concolic fuzzer. | https://github.com/CISPA-SE-Seminar/Assignment-2 | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20220509T00:03:03Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 2 | 0| 
 | 20220508T03:25:45Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 32 | 19| 
 | 20220506T10:47:19Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 58 | 3| 
-| 20220505T08:43:37Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 361 | 18| 
 
 
 # big4 on Github 推荐
