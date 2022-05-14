@@ -87,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T22:32:07Z | Projeto de um semáforo utilizando uma API para coleta de dados reais do cruzamento e fazendo a tomada de decisão por lógica Fuzzy | https://github.com/mpparolini/Semaforo-GIS-Fuzzy | 0 | 0| 
+| 20220513T22:00:18Z | Breakpoint-Assisted Rough Fuzzer | https://github.com/maride/barf | 0 | 0| 
+| 20220513T19:33:08Z | Contains two examples of tipping problem, illustrating fuzzy logic principles using a Mamdani fuzzy inference system.  | https://github.com/PramodyaPathirana/fuzzy-logic | 0 | 0| 
+| 20220513T18:32:54Z | Null | https://github.com/frtl/fuzzy-sniffle | 0 | 0| 
+| 20220513T18:00:51Z | Example of fuzz tests | https://github.com/RomanOrlovDev/go-fuzz-tests | 0 | 0| 
+| 20220513T17:29:56Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
 | 20220513T12:57:18Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 1 | 0| 
 | 20220513T12:44:34Z | Null | https://github.com/yuivbfb/fuzzy-goggles | 0 | 0| 
 | 20220513T12:24:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4124 | 982| 
 | 20220513T12:21:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7309 | 1577| 
-| 20220513T11:52:12Z | para usar o canva  | https://github.com/thigo19/fuzzy-br-colis | 0 | 0| 
-| 20220513T11:46:59Z | Null | https://github.com/raflidev/TuPro-Fuzzy | 0 | 0| 
-| 20220513T11:26:46Z | Null | https://github.com/santhosh-antony-raj/Neuro-fuzzy-inference-system | 0 | 0| 
-| 20220513T10:42:07Z | Null | https://github.com/mauls313/Tupro2_Fuzzy | 0 | 0| 
-| 20220513T09:40:43Z | Null | https://github.com/Anirban0053/Glaucoma-detection-using-fuzzy-c-means | 0 | 0| 
-| 20220513T01:57:43Z | A hypervisor or virtual machine monitor (VMM) fuzzer. | https://github.com/lojzes6/rcvalle | 0 | 0| 
 
 
 
