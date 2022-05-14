@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220514T12:09:48Z | roblox exploiting script hub | https://github.com/tomvere/MaxHub | 0 | 0| 
+| 20220514T12:19:57Z | roblox exploiting script hub | https://github.com/tomvere/MaxHub | 0 | 0| 
 | 20220514T11:09:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2734 | 336| 
 | 20220514T10:51:23Z | A crasher with java script | https://github.com/Ghalbeyou/Crash-With-JS | 0 | 0| 
 | 20220514T10:37:29Z | vdk is a set of utilities used to help with exploitation of a vulnerable driver. | https://github.com/archercreat/vdk | 2 | 1| 
