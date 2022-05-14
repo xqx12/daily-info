@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220514 | CVE-2022-21907 http协议远程代码执行漏洞分析总结 | http://noahblog.360.cn/cve-2022-21907-httpxie-yi-yuan-cheng-dai-ma-zhi-xing-lou-dong-fen-xi-zong-jie/| 
+| 20220514 | CVE-2021-34535 RDP客户端漏洞分析 | http://noahblog.360.cn/cve-2021-34535-rdpke-hu-duan-lou-dong-fen-xi/| 
+| 20220514 | 前端JS攻防对抗 | https://mp.weixin.qq.com/s/QbfUkU0Fj7Bjk--21H2UQA| 
 | 20220513 | 从ATT&CK V11版发布看ATT&CK的更新历程 | https://mp.weixin.qq.com/s/vm13xmTzLYrqLrMRlndAZA| 
 | 20220512 | CVE-2021-31209 分析学习 | https://www.sec-in.com/article/1710| 
 | 20220511 | 顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越 | https://mp.weixin.qq.com/s/J0atxc05c3xFd_bXxejQpQ| 
@@ -38,24 +41,21 @@
 | 20220511 | 企业安全建设：资产管理面面观 | https://mp.weixin.qq.com/s/23fekORQNpmj82Oh1ttixg| 
 | 20220511 | 新型eBPF后门boopkit的原理分析与演示 | https://www.cnxct.com/ebpf-rootkit-how-boopkit-works/| 
 | 20220511 | F5 BIG-IP 未授权 RCE（CVE-2022-1388）分析 | https://paper.seebug.org/1893/| 
-| 20220511 | Commit Level Vulnerability Dataset | https://blog.quarkslab.com/commit-level-vulnerability-dataset.html| 
-| 20220511 | 卫星互联网发展与信息安全趋势 | https://mp.weixin.qq.com/s/qsrZ8RJl_wE_aN0t4-mhog| 
-| 20220510 | MYSQL8.0特性—无select注入 | https://www.sec-in.com/article/1715| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220514T01:35:00Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
-| 20220514T01:06:18Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
-| 20220514T00:23:48Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本 | https://github.com/shuai06/CVE-2022-30525 | | 
+| 20220514T11:00:12Z | CVE-2022-29383 | Null | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | | 
+| 20220514T09:42:09Z | CVE-2022-26923 | In essence, the vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
+| 20220514T09:23:16Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
+| 20220514T08:53:30Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本 | https://github.com/shuai06/CVE-2022-30525 | | 
+| 20220514T08:09:39Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
+| 20220514T07:34:10Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
+| 20220514T06:31:46Z | CVE-2022-29383 | Null | https://github.com/cxaqhq/netgear-to-CVE-2022-29383 | | 
+| 20220514T06:20:35Z | CVE-2022-30489 | Null | https://github.com/badboycxcc/XSS-CVE-2022-30489 | | 
+| 20220514T04:12:23Z | CVE-2022-26927 | A proof-of-concept font with a write-up attached. | https://github.com/Exploitables/CVE-2022-26927 | | 
 | 20220513T20:46:48Z | CVE-2022-1388 | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | | 
-| 20220513T19:31:15Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
-| 20220513T18:23:37Z | CVE-2022-30525 | Zyxel 防火墙未经身份验证的远程命令注入 | https://github.com/savior-only/CVE-2022-30525 | | 
-| 20220513T15:52:58Z | CVE-2022-1388 | F5 BIG-IP iControl REST身份验证绕过漏洞 | https://github.com/Henry4E36/CVE-2022-1388 | | 
-| 20220513T12:40:05Z | CVE-2022-1051 | WPQA < 5.2 - Subscriber+ Stored Cross-Site Scripting via Profile fields | https://github.com/V35HR4J/CVE-2022-1051 | | 
-| 20220513T11:40:56Z | CVE-2021-44228 | Log4Shell Proof-Of-Concept derived from https://github.com/kozmer/log4j-shell-poc | https://github.com/Phineas09/CVE-2021-44228 | | 
-| 20220513T11:17:57Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
 
 
 # klee on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T11:09:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2734 | 336| 
+| 20220514T10:51:23Z | A crasher with java script | https://github.com/Ghalbeyou/Crash-With-JS | 0 | 0| 
+| 20220514T10:37:29Z | vdk is a set of utilities used to help with exploitation of a vulnerable driver. | https://github.com/archercreat/vdk | 2 | 1| 
+| 20220514T10:24:35Z | RobloxのExploit | https://github.com/NASEMAKI/OuO-Exploit | 0 | 0| 
+| 20220514T10:10:50Z | Windows Usermode Exploitation | https://github.com/sizet0x80/Usermode-Exploit-Development | 1 | 0| 
+| 20220514T09:35:57Z | Walkthrough - Reverse engineer a Windows executable, find a buffer overflow and exploit it on a Linux machine. | https://github.com/chaurasiyag/Brainpan-1 | 0 | 0| 
+| 20220514T03:23:47Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Imposerya/Memenite-External-Fortnite-Updated-Source-Leak | 0 | 1| 
 | 20220514T01:42:00Z | Null | https://github.com/Jack7988/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper | 0 | 0| 
 | 20220514T01:41:25Z | Null | https://github.com/Jack7988/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper- | 0 | 0| 
 | 20220514T01:40:30Z | Null | https://github.com/Eddi0x/PDF-EXPLOIT-FULLY-SILENT-PRIVATE | 0 | 0| 
-| 20220514T01:38:17Z | Null | https://github.com/Eddi0x/Office-Excel-Exploit-Fully-Silent | 0 | 0| 
-| 20220514T01:37:12Z | Null | https://github.com/Eddi0x/JPEG-Exploit-Last-Update | 0 | 0| 
-| 20220514T01:36:18Z | Null | https://github.com/Eddi0x/SILENT-WORD-EXPLOIT-FUD | 0 | 0| 
-| 20220514T01:23:35Z | vdk is a set of utilities used to help with exploitation of a vulnurable driver. | https://github.com/archercreat/vdk | 1 | 1| 
-| 20220514T00:23:31Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-7 | 0 | 0| 
-| 20220514T00:22:02Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-8 | 0 | 0| 
-| 20220514T00:20:36Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220514T01:41:44Z | Null | https://github.com/SCLBD/BackdoorBench | 1 | 0| 
+| 20220514T11:31:16Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 84 | 23| 
+| 20220514T10:12:51Z | Simple to complex backdoor codes | https://github.com/ringwormGO-organization/doorfact | 1 | 0| 
+| 20220514T09:01:12Z | Null | https://github.com/THUYimingLi/BackdoorBox | 66 | 15| 
+| 20220514T08:10:07Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 933 | 98| 
+| 20220514T07:18:19Z | Null | https://github.com/SCLBD/BackdoorBench | 3 | 0| 
+| 20220514T06:59:57Z | A python backdoor. | https://github.com/asherbuechel/Python-Backdoor | 0 | 0| 
 | 20220513T18:33:13Z | Null | https://github.com/MuhammadUsman94/Textual_Backdoor_Attack | 0 | 0| 
 | 20220513T14:34:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 477 | 89| 
-| 20220513T14:29:47Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 931 | 98| 
 | 20220513T01:56:40Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 531 | 190| 
 | 20220512T23:48:42Z | if you are not nadza, don%t download this, is a backdoor and we are testing it | https://github.com/lizardwine/volks | 0 | 0| 
-| 20220512T17:47:51Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 46 | 5| 
-| 20220512T13:33:28Z | Protect your GMod server against backdoors. | https://github.com/Xalalau/backdoor-shield | 7 | 0| 
-| 20220512T08:28:23Z | Sebia started selling so i deobfuscated his exe and removed backdoor and server error thingie. enjoy to use! dont pay to sebia! | https://github.com/TheLeakerMan/gtps3 | 1 | 0| 
-| 20220512T06:00:12Z | Null | https://github.com/spentera/Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T09:09:38Z | University task for making car driving ai using fuzzy logic | https://github.com/caisilus/fuzzy_logic | 0 | 0| 
+| 20220514T09:05:22Z | Null | https://github.com/p0dalirius/http-fuzzing-scripts | 0 | 0| 
+| 20220514T07:44:53Z | Null | https://github.com/rismaamaliyah/Fuzzy-Logic | 0 | 0| 
+| 20220514T06:49:33Z | Tugas pemrograman Fuzzy Logic  | https://github.com/fadliz/Fuzzy-Programming | 0 | 0| 
 | 20220514T01:45:43Z | Adaptive fuzzy neural network MATLAB code | https://github.com/huihuangchen20309921/Adaptive-fuzzy-neural-network-MATLAB-code | 0 | 0| 
 | 20220514T01:43:45Z | Null | https://github.com/zhaoxiaoyunok/materials_fuzzing | 0 | 0| 
 | 20220514T01:38:38Z | Tugas Pemrograman 02 - Reasoning (Pengantar Kecerdasan Buatan) | https://github.com/berlianm/Fuzzy-Logic | 0 | 0| 
 | 20220514T00:38:16Z | Null | https://github.com/farhantk/tubesFuzzy | 0 | 0| 
 | 20220513T22:32:07Z | Projeto de um semáforo utilizando uma API para coleta de dados reais do cruzamento e fazendo a tomada de decisão por lógica Fuzzy | https://github.com/mpparolini/Semaforo-GIS-Fuzzy | 0 | 0| 
 | 20220513T22:00:18Z | Breakpoint-Assisted Rough Fuzzer | https://github.com/maride/barf | 0 | 0| 
-| 20220513T19:33:08Z | Contains two examples of tipping problem, illustrating fuzzy logic principles using a Mamdani fuzzy inference system.  | https://github.com/PramodyaPathirana/fuzzy-logic | 0 | 0| 
-| 20220513T18:32:54Z | Null | https://github.com/frtl/fuzzy-sniffle | 0 | 0| 
-| 20220513T18:00:51Z | Example of fuzz tests | https://github.com/RomanOrlovDev/go-fuzz-tests | 0 | 0| 
-| 20220513T17:29:56Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
 
 
 
