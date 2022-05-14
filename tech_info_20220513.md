@@ -63,7 +63,6 @@
 | 20220513T18:33:13Z | Null | https://github.com/MuhammadUsman94/Textual_Backdoor_Attack | 0 | 0| 
 | 20220513T14:34:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 477 | 89| 
 | 20220513T14:29:47Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 931 | 98| 
-| 20220513T14:06:54Z | Null | https://github.com/SCLBD/BackdoorBench | 0 | 0| 
 | 20220513T01:56:40Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 531 | 190| 
 
 

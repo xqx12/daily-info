@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220514T01:35:00Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
 | 20220514T01:06:18Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
 | 20220514T00:23:48Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本 | https://github.com/shuai06/CVE-2022-30525 | | 
 | 20220513T20:46:48Z | CVE-2022-1388 | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | | 
 | 20220513T19:31:15Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
 | 20220513T18:23:37Z | CVE-2022-30525 | Zyxel 防火墙未经身份验证的远程命令注入 | https://github.com/savior-only/CVE-2022-30525 | | 
 | 20220513T15:52:58Z | CVE-2022-1388 | F5 BIG-IP iControl REST身份验证绕过漏洞 | https://github.com/Henry4E36/CVE-2022-1388 | | 
-| 20220513T14:10:16Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
 | 20220513T12:40:05Z | CVE-2022-1051 | WPQA < 5.2 - Subscriber+ Stored Cross-Site Scripting via Profile fields | https://github.com/V35HR4J/CVE-2022-1051 | | 
 | 20220513T11:40:56Z | CVE-2021-44228 | Log4Shell Proof-Of-Concept derived from https://github.com/kozmer/log4j-shell-poc | https://github.com/Phineas09/CVE-2021-44228 | | 
 | 20220513T11:17:57Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
@@ -88,25 +88,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T01:42:00Z | Null | https://github.com/Jack7988/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper | 0 | 0| 
+| 20220514T01:41:25Z | Null | https://github.com/Jack7988/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper- | 0 | 0| 
+| 20220514T01:40:30Z | Null | https://github.com/Eddi0x/PDF-EXPLOIT-FULLY-SILENT-PRIVATE | 0 | 0| 
+| 20220514T01:38:17Z | Null | https://github.com/Eddi0x/Office-Excel-Exploit-Fully-Silent | 0 | 0| 
+| 20220514T01:37:12Z | Null | https://github.com/Eddi0x/JPEG-Exploit-Last-Update | 0 | 0| 
+| 20220514T01:36:18Z | Null | https://github.com/Eddi0x/SILENT-WORD-EXPLOIT-FUD | 0 | 0| 
 | 20220514T01:23:35Z | vdk is a set of utilities used to help with exploitation of a vulnurable driver. | https://github.com/archercreat/vdk | 1 | 1| 
 | 20220514T00:23:31Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-7 | 0 | 0| 
 | 20220514T00:22:02Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-8 | 0 | 0| 
 | 20220514T00:20:36Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | 0 | 0| 
-| 20220513T22:02:09Z | Bypass for an organization restricting a user to set wallpapers on their own Chrome OS systems. Found May 3rd, Disclosed to public 5/13/22 | https://github.com/ItzSwirlz/ChromeOSWallpaperExploit | 0 | 0| 
-| 20220513T21:54:10Z | Exploits created based on FuzzySecurity%s Windows Exploit Development tutorials. | https://github.com/mmore21/b33f_exploits | 0 | 0| 
-| 20220513T21:37:06Z | A test of the beEF (Browser Exploitation Framework) Project | https://github.com/unamed-project/beEF-test | 0 | 0| 
-| 20220513T21:19:22Z | A roblox cheat called %Green X% | https://github.com/GreenAccount/GreenExploit | 0 | 0| 
-| 20220513T20:57:48Z | Null | https://github.com/KAKU1234567/Exploit | 0 | 0| 
-| 20220513T20:46:48Z | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | 5 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T01:41:44Z | Null | https://github.com/SCLBD/BackdoorBench | 1 | 0| 
 | 20220513T18:33:13Z | Null | https://github.com/MuhammadUsman94/Textual_Backdoor_Attack | 0 | 0| 
 | 20220513T14:34:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 477 | 89| 
 | 20220513T14:29:47Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 931 | 98| 
-| 20220513T14:06:54Z | Null | https://github.com/SCLBD/BackdoorBench | 0 | 0| 
 | 20220513T01:56:40Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 531 | 190| 
 | 20220512T23:48:42Z | if you are not nadza, don%t download this, is a backdoor and we are testing it | https://github.com/lizardwine/volks | 0 | 0| 
 | 20220512T17:47:51Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 46 | 5| 
