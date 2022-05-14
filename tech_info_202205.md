@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220513T12:58:43Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本 | https://github.com/shuai06/CVE-2022-30525 | | 
-| 20220513T12:45:52Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
+| 20220513T22:06:53Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
+| 20220513T20:51:51Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本 | https://github.com/shuai06/CVE-2022-30525 | | 
+| 20220513T20:46:48Z | CVE-2022-1388 | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | | 
+| 20220513T19:31:15Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
+| 20220513T18:23:37Z | CVE-2022-30525 | Zyxel 防火墙未经身份验证的远程命令注入 | https://github.com/savior-only/CVE-2022-30525 | | 
+| 20220513T15:52:58Z | CVE-2022-1388 | F5 BIG-IP iControl REST身份验证绕过漏洞 | https://github.com/Henry4E36/CVE-2022-1388 | | 
+| 20220513T14:10:16Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
 | 20220513T12:40:05Z | CVE-2022-1051 | WPQA < 5.2 - Subscriber+ Stored Cross-Site Scripting via Profile fields | https://github.com/V35HR4J/CVE-2022-1051 | | 
 | 20220513T11:40:56Z | CVE-2021-44228 | Log4Shell Proof-Of-Concept derived from https://github.com/kozmer/log4j-shell-poc | https://github.com/Phineas09/CVE-2021-44228 | | 
 | 20220513T11:17:57Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
-| 20220513T10:20:19Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
-| 20220513T08:58:16Z | CVE-2020-0618 | Melissa | https://github.com/itstarsec/CVE-2020-0618 | | 
-| 20220513T08:43:43Z | CVE-2022-1388 | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | | 
-| 20220513T08:16:41Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
-| 20220513T06:43:45Z | CVE-2022-1388 | Nuclei Template for CVE-2022-1388 | https://github.com/SecTheBit/CVE-2022-1388 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T20:05:45Z | This is Team A (Terrell Crawford, Stan Savelev, Leonel Barrientos, Jarod Heng, Jack Klees, George Bakhoum) | https://github.com/220328-Java-Full-Stack-AWS/Team-A-P2 | 0 | 0| 
 | 20220513T12:23:38Z | Null | https://github.com/peterbaile/klee-mo | 0 | 0| 
 | 20220513T07:12:50Z | KLEE in the browser | https://github.com/klee/klee-web | 48 | 12| 
 | 20220512T23:23:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1966 | 555| 
 | 20220512T19:52:08Z | Null | https://github.com/jove-decompiler/klee | 0 | 0| 
-| 20220512T16:23:05Z | This is Team A ( Terrell Crawford, Stan Savelev, Leonel Barrientos, Jarod Heng, Jack Klees, George Bakhoum) | https://github.com/220328-Java-Full-Stack-AWS/Team-A-P2 | 0 | 0| 
 | 20220512T12:00:19Z | Null | https://github.com/gergimentr/myKleeChecker | 0 | 0| 
 | 20220512T07:58:12Z | Gallows Songs and In the Land of Punctuation by Christian Morgenstern The German writer Christian Morgenstern (1871-1914) wrote haunting, pensive poetry in the vein of nonsense rhymes of Lewis Carroll, Edward Lear, and Mervyn Peake. His immense popularity in German-speaking countries has not waned to this day, but he was long considered untranslatable here. Today he can be found in several different English editions.   For a quick introduction, pick up the short picture book In the Land of Punctuation. A witty story of commas and periods going to war against semicolons, it is ostensibly aimed at younger readers, but adults will not fail to discern sinister political overtones in the plot. A longer collection of poems, Songs from the Gallows, is overall less gruesome (its name notwithstanding) and wildly inventive. You will meet creatures walking on their noses, the mysterious moonsheep, a cold that catches people, a lamp that darkens the daylight, an architect who has built a house out of empty spaces, and many other delirious creations. And if you happen to stumble upon an illustrated vintage copy, you will see that Morgenstern’s poems inspired, among others, H. A. Rey (famous as the creator of Curious George) and—drumroll, please—Paul Klee. | https://github.com/EliasIssac/didactic-giggle | 0 | 0| 
 | 20220511T09:59:52Z | Max patches | https://github.com/robenkleene/roben-kleene-max | 1 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220513T22:02:09Z | Bypass for an organization restricting a user to set wallpapers on their own Chrome OS systems. Found May 3rd, Disclosed to public 5/13/22 | https://github.com/ItzSwirlz/ChromeOSWallpaperExploit | 0 | 0| 
+| 20220513T21:54:10Z | Exploits created based on FuzzySecurity%s Windows Exploit Development tutorials. | https://github.com/mmore21/b33f_exploits | 0 | 0| 
+| 20220513T21:48:41Z | vdk is a set of utilities used to help with exploitation of a vulnurable driver. | https://github.com/archercreat/vdk | 0 | 1| 
+| 20220513T21:37:06Z | A test of the beEF (Browser Exploitation Framework) Project | https://github.com/unamed-project/beEF-test | 0 | 0| 
+| 20220513T21:19:22Z | A roblox cheat called %Green X% | https://github.com/GreenAccount/GreenExploit | 0 | 0| 
+| 20220513T20:57:48Z | Null | https://github.com/KAKU1234567/Exploit | 0 | 0| 
+| 20220513T20:46:48Z | F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB | https://github.com/Zeyad-Azima/CVE-2022-1388 | 5 | 3| 
+| 20220513T20:41:13Z | hack tools | https://github.com/hacktoolspack/hack-tools | 706 | 463| 
 | 20220513T11:56:55Z | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | 0 | 0| 
-| 20220513T11:48:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11469 | 1966| 
-| 20220513T11:46:54Z | Null | https://github.com/timkanbur/Log4j_Exploit_Paper | 0 | 0| 
-| 20220513T11:37:09Z | This tool can be used to identify ROS1 based robotic systems and exploit the vulnerable ROS master and the publish/subscribe mechanism. | https://github.com/pietermiske/ROSexploiter | 0 | 0| 
-| 20220513T10:38:19Z | Null | https://github.com/blind-intruder/Exploit-CVE | 0 | 0| 
-| 20220513T10:02:49Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Imposerya/Memenite-External-Fortnite-Updated-Source-Leak | 0 | 0| 
-| 20220513T08:24:05Z | 해킹 공부, writeups, exploits | https://github.com/fxrcha/writeups | 0 | 0| 
-| 20220513T03:50:39Z | Our ROBLOX exploit UI. | https://github.com/MagnaRoblox/MagnaUI | 0 | 0| 
-| 20220513T03:43:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 402 | 118| 
-| 20220512T23:52:56Z | Null | https://github.com/dew1567/Roblox-ScriptExploit-Example | 0 | 0| 
+| 20220513T11:48:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11469 | 1967| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220513T12:38:31Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 926 | 96| 
+| 20220513T18:33:13Z | Null | https://github.com/MuhammadUsman94/Textual_Backdoor_Attack | 0 | 0| 
+| 20220513T14:34:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 477 | 89| 
+| 20220513T14:29:47Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 931 | 98| 
+| 20220513T14:06:54Z | Null | https://github.com/SCLBD/BackdoorBench | 0 | 0| 
 | 20220513T01:56:40Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 531 | 190| 
 | 20220512T23:48:42Z | if you are not nadza, don%t download this, is a backdoor and we are testing it | https://github.com/lizardwine/volks | 0 | 0| 
 | 20220512T17:47:51Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 46 | 5| 
-| 20220512T16:55:11Z | Null | https://github.com/MuhammadUsman94/Textual_Backdoor_Attack | 0 | 0| 
 | 20220512T13:33:28Z | Protect your GMod server against backdoors. | https://github.com/Xalalau/backdoor-shield | 7 | 0| 
-| 20220512T09:12:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 476 | 89| 
 | 20220512T08:28:23Z | Sebia started selling so i deobfuscated his exe and removed backdoor and server error thingie. enjoy to use! dont pay to sebia! | https://github.com/TheLeakerMan/gtps3 | 1 | 0| 
 | 20220512T06:00:12Z | Null | https://github.com/spentera/Backdoors | 0 | 0| 
-| 20220512T04:14:16Z | Null | https://github.com/creepey/backdoor_experiment | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
