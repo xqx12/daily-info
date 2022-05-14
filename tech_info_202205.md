@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220514T12:05:12Z | Null | https://github.com/p0dalirius/http-fuzzing-scripts | 0 | 0| 
+| 20220514T12:06:25Z | A collection of http fuzzing python scripts to fuzz HTTP servers for bugs. | https://github.com/p0dalirius/http-fuzzing-scripts | 0 | 0| 
 | 20220514T09:09:38Z | University task for making car driving ai using fuzzy logic | https://github.com/caisilus/fuzzy_logic | 0 | 0| 
 | 20220514T07:44:53Z | Null | https://github.com/rismaamaliyah/Fuzzy-Logic | 0 | 0| 
 | 20220514T06:49:33Z | Tugas pemrograman Fuzzy Logic  | https://github.com/fadliz/Fuzzy-Programming | 0 | 0| 
