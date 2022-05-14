@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T12:40:16Z | Null | https://github.com/hidayattaufiqur/Tugas-Pengantar-Fuzzy-Logic_07 | 0 | 0| 
 | 20220514T12:06:25Z | A collection of http fuzzing python scripts to fuzz HTTP servers for bugs. | https://github.com/p0dalirius/http-fuzzing-scripts | 0 | 0| 
 | 20220514T09:09:38Z | University task for making car driving ai using fuzzy logic | https://github.com/caisilus/fuzzy_logic | 0 | 0| 
 | 20220514T07:44:53Z | Null | https://github.com/rismaamaliyah/Fuzzy-Logic | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220514T01:38:38Z | Tugas Pemrograman 02 - Reasoning (Pengantar Kecerdasan Buatan) | https://github.com/berlianm/Fuzzy-Logic | 0 | 0| 
 | 20220514T00:38:16Z | Null | https://github.com/farhantk/tubesFuzzy | 0 | 0| 
 | 20220513T22:32:07Z | Projeto de um semáforo utilizando uma API para coleta de dados reais do cruzamento e fazendo a tomada de decisão por lógica Fuzzy | https://github.com/mpparolini/Semaforo-GIS-Fuzzy | 0 | 0| 
-| 20220513T22:00:18Z | Breakpoint-Assisted Rough Fuzzer | https://github.com/maride/barf | 0 | 0| 
 
 
 
