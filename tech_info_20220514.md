@@ -51,9 +51,9 @@
 | 20220514T10:24:35Z | RobloxのExploit | https://github.com/NASEMAKI/OuO-Exploit | 0 | 0| 
 | 20220514T10:10:50Z | Windows Usermode Exploitation | https://github.com/sizet0x80/Usermode-Exploit-Development | 1 | 0| 
 | 20220514T09:35:57Z | Walkthrough - Reverse engineer a Windows executable, find a buffer overflow and exploit it on a Linux machine. | https://github.com/chaurasiyag/Brainpan-1 | 0 | 0| 
+| 20220514T08:52:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11470 | 1967| 
 | 20220514T03:23:47Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Imposerya/Memenite-External-Fortnite-Updated-Source-Leak | 0 | 1| 
 | 20220514T01:42:00Z | Null | https://github.com/Jack7988/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper | 0 | 0| 
-| 20220514T01:41:25Z | Null | https://github.com/Jack7988/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper- | 0 | 0| 
 
 
 # backdoor on Github 推荐
