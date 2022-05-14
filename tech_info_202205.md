@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T01:23:35Z | vdk is a set of utilities used to help with exploitation of a vulnurable driver. | https://github.com/archercreat/vdk | 1 | 1| 
 | 20220514T00:23:31Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-7 | 0 | 0| 
 | 20220514T00:22:02Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-8 | 0 | 0| 
 | 20220514T00:20:36Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | 0 | 0| 
 | 20220513T22:02:09Z | Bypass for an organization restricting a user to set wallpapers on their own Chrome OS systems. Found May 3rd, Disclosed to public 5/13/22 | https://github.com/ItzSwirlz/ChromeOSWallpaperExploit | 0 | 0| 
 | 20220513T21:54:10Z | Exploits created based on FuzzySecurity%s Windows Exploit Development tutorials. | https://github.com/mmore21/b33f_exploits | 0 | 0| 
-| 20220513T21:48:41Z | vdk is a set of utilities used to help with exploitation of a vulnurable driver. | https://github.com/archercreat/vdk | 0 | 1| 
 | 20220513T21:37:06Z | A test of the beEF (Browser Exploitation Framework) Project | https://github.com/unamed-project/beEF-test | 0 | 0| 
 | 20220513T21:19:22Z | A roblox cheat called %Green X% | https://github.com/GreenAccount/GreenExploit | 0 | 0| 
 | 20220513T20:57:48Z | Null | https://github.com/KAKU1234567/Exploit | 0 | 0| 
