@@ -21,12 +21,12 @@
 | 20220513T19:31:15Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime | https://github.com/XmasSnowREAL/CVE-2022-26809-RCE | | 
 | 20220513T18:23:37Z | CVE-2022-30525 | Zyxel 防火墙未经身份验证的远程命令注入 | https://github.com/savior-only/CVE-2022-30525 | | 
 | 20220513T15:52:58Z | CVE-2022-1388 | F5 BIG-IP iControl REST身份验证绕过漏洞 | https://github.com/Henry4E36/CVE-2022-1388 | | 
-| 20220513T14:10:16Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
 | 20220513T12:40:05Z | CVE-2022-1051 | WPQA < 5.2 - Subscriber+ Stored Cross-Site Scripting via Profile fields | https://github.com/V35HR4J/CVE-2022-1051 | | 
 | 20220513T11:40:56Z | CVE-2021-44228 | Log4Shell Proof-Of-Concept derived from https://github.com/kozmer/log4j-shell-poc | https://github.com/Phineas09/CVE-2021-44228 | | 
 | 20220513T11:17:57Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE | https://github.com/0xf4n9x/CVE-2022-1388 | | 
 | 20220513T08:58:16Z | CVE-2020-0618 | Melissa | https://github.com/itstarsec/CVE-2020-0618 | | 
 | 20220513T08:16:41Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
+| 20220513T06:43:45Z | CVE-2022-1388 | Nuclei Template for CVE-2022-1388 | https://github.com/SecTheBit/CVE-2022-1388 | | 
 
 
 # klee on Github 推荐
