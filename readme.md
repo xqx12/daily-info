@@ -22,6 +22,7 @@
 | 20220515T09:24:13Z | CVE-2022-29383 | Null | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | | 
 | 20220515T09:18:46Z | cve-2022-1388 | Improved POC for CVE-2022-1388 that affects multiple F5 products. | https://github.com/iveresk/cve-2022-1388-iveresk-command-shell | | 
 | 20220515T07:33:08Z | CVE-2022-1388 | An Improved Proof of Concept for CVE-2022-1388 w/ an Interactive Shell | https://github.com/PsychoSec2/CVE-2022-1388-POC | | 
+| 20220515T07:08:58Z | cve-2021-38314 | cve-2021-38314 - Unauthenticated Sensitive Information Disclosure | https://github.com/twseptian/cve-2021-38314 | | 
 | 20220515T06:24:15Z | CVE-2022-30525 | Zyxel Firewall Remote Command Injection Vulnerability (CVE-2022-30525) Batch Detection Script | https://github.com/M4fiaB0y/CVE-2022-30525 | | 
 | 20220515T02:31:08Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | | 
 
@@ -79,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T12:37:17Z | Null | https://github.com/israelgabrielson/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220515T12:02:48Z | Null | https://github.com/faridaarum/Tugas-Fuzzy-logic | 0 | 0| 
 | 20220515T10:01:35Z | Null | https://github.com/yannis94/go_fuzz_with_me | 0 | 0| 
 | 20220515T10:00:30Z | Null | https://github.com/AlphonseNivetha/NeuroFuzzyInference | 0 | 0| 
@@ -88,7 +90,6 @@
 | 20220515T06:27:02Z | Null | https://github.com/Arthur-12/fuzzy-pancake | 0 | 0| 
 | 20220515T04:37:35Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 16 | 1| 
 | 20220515T01:51:26Z | Null | https://github.com/HarvianKhusnan/Tugas-Fuzzy-logic | 0 | 0| 
-| 20220515T00:09:24Z | K-Means and Fuzzy C-Means Clustering | https://github.com/KeatonSpiller/K-Means-and-Fuzzy-C-Means-Clustering | 0 | 0| 
 
 
 
