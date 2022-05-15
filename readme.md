@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T12:26:25Z | Mobile Exploitation using Frida | https://github.com/hyunsukn/mobile_exploit | 0 | 0| 
 | 20220515T09:55:31Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 5 | 1| 
 | 20220515T07:38:15Z | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | 0 | 0| 
 | 20220515T07:07:16Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 109 | 24| 
@@ -50,7 +51,6 @@
 | 20220515T01:30:13Z | Null | https://github.com/rumputliar/Active-Directory-Exploitation-Cheat-Sheet | 0 | 0| 
 | 20220515T01:28:38Z | Null | https://github.com/SkidderKix/Scrooge-Exploit- | 0 | 0| 
 | 20220515T01:14:16Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | 0 | 0| 
-| 20220515T01:13:29Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | 0 | 0| 
 
 
 # backdoor on Github 推荐
