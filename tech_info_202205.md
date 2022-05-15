@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220515T01:44:15Z | A simple bash script for Web Cache Deception exploitation. | https://github.com/akr3ch/WebCacheDeception | 0 | 0| 
+| 20220515T01:45:46Z | A simple bash script for Web Cache Deception exploitation. | https://github.com/akr3ch/WebCacheDeception | 0 | 0| 
 | 20220515T01:30:13Z | Null | https://github.com/rumputliar/Active-Directory-Exploitation-Cheat-Sheet | 0 | 0| 
 | 20220515T01:28:38Z | Null | https://github.com/SkidderKix/Scrooge-Exploit- | 0 | 0| 
 | 20220515T01:14:16Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | 0 | 0| 
