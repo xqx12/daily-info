@@ -19,10 +19,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220514T20:55:19Z | CVE-2022-26923 | The vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
+| 20220514T19:43:43Z | CVE-2022-1388 | An improved Proof of Concept for CVE-2022-1388 w/ Interactive Shell.        No reverse tcp required! | https://github.com/PsychoSec2/CVE-2022-1388-POC | | 
+| 20220514T16:52:09Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
+| 20220514T13:09:12Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本 | https://github.com/shuai06/CVE-2022-30525 | | 
 | 20220514T11:00:12Z | CVE-2022-29383 | Null | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | | 
-| 20220514T09:42:09Z | CVE-2022-26923 | In essence, the vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
-| 20220514T09:23:16Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
-| 20220514T08:53:30Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本 | https://github.com/shuai06/CVE-2022-30525 | | 
 | 20220514T08:09:39Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
 | 20220514T07:34:10Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
 | 20220514T06:31:46Z | CVE-2022-29383 | Null | https://github.com/cxaqhq/netgear-to-CVE-2022-29383 | | 
@@ -44,26 +45,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T23:57:40Z | ♦️Remote HVNC♦️ ✅HVNC Clone Profile ✅Hidden Desktop ✅Hidden Browsers ✅Hidden Chrome ✅Hidden Firefox ✅Hidden Edge ✅Hidden Brave ✅Hidden Explorer ✅Support WebGL ♦️Remote System♦️ ✅System Information ✅File Manager ✅Start Up Manager ✅Task Manager ✅Remote Shell ✅TCP Connection ✅Reverse Proxy ✅Registry Editor ✅UAC Exploit ✅Disable WD ✅Format All Drivers ✅Kill All AV ✅Net Frameworks ✅Execution Policy Editor ✅USB Spread ✅Killer Reg ♦️Stub Features♦️ ✅Change client name ✅Enable install ✅Usb spread ✅Anti kill ✅Disable windows defender ✅Hide file ✅Hide folder ✅Enable start up/persistence ✅Change startup registry name ✅Mutex ✅IP/DNS/No ip ✅Encrypted connection ✅Change reconnect time ✅Change assembly clone/random ✅Change icon ✅Enable keylogger ✅Hide keylogger folder ✅Change log directory name | https://github.com/netflixfurimmer/Venom-Hvnc-Control-2022 | 1 | 0| 
+| 20220514T23:56:49Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 2 | 0| 
+| 20220514T23:39:54Z | ♦️Remote HVNC♦️ ✅HVNC Clone Profile ✅Hidden Desktop ✅Hidden Browsers ✅Hidden Chrome ✅Hidden Firefox ✅Hidden Edge ✅Hidden Brave ✅Hidden Explorer ✅Support WebGL ♦️Remote System♦️ ✅System Information ✅File Manager ✅Start Up Manager ✅Task Manager ✅Remote Shell ✅TCP Connection ✅Reverse Proxy ✅Registry Editor ✅UAC Exploit ✅Disable WD ✅Format All Drivers ✅Kill All AV ✅Net Frameworks ✅Execution Policy Editor ✅USB Spread ✅Killer Reg ♦️Stub Features♦️ ✅Change client name ✅Enable install ✅Usb spread ✅Anti kill ✅Disable windows defender ✅Hide file ✅Hide folder ✅Enable start up/persistence ✅Change startup registry name ✅Mutex ✅IP/DNS/No ip ✅Encrypted connection ✅Change reconnect time ✅Change assembly clone/random ✅Change icon ✅Enable keylogger ✅Hide keylogger folder ✅Change log directory name | https://github.com/netflixfurimmer/Venom-RAT-HVNC-2022-By-ZFX_HACRYPT | 0 | 0| 
+| 20220514T21:38:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11473 | 1967| 
+| 20220514T19:59:50Z | Zero-day exploit and malware protection | https://github.com/R46narok/Apollo | 0 | 0| 
+| 20220514T19:51:01Z | Working on a Rust exploit framework!  | https://github.com/frostb1ten/RustSploit | 1 | 0| 
+| 20220514T15:30:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2734 | 336| 
 | 20220514T12:45:47Z | It is a java application(desktop-based) deals with the Corporate Medicare Management. This project is very helpful to both Medicare staff as well as to the public.The main objective to implement the project E-Health Care Management System is to minimize the work and at the same time increase the speed of the work done. The growing quality demand in the health care sector  makes it necessary to exploit the whole potential of stored data efficiently.Language:Java(swing).IDE:Apache Netbeans.Database:SQL(J connector).) | https://github.com/Mubeen-Zaki/E-Health-Care-Management-System | 0 | 0| 
 | 20220514T12:19:57Z | roblox exploiting script hub | https://github.com/tomvere/MaxHub | 0 | 0| 
-| 20220514T11:09:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2734 | 336| 
 | 20220514T10:51:23Z | A crasher with java script | https://github.com/Ghalbeyou/Crash-With-JS | 0 | 0| 
-| 20220514T10:37:29Z | vdk is a set of utilities used to help with exploitation of a vulnerable driver. | https://github.com/archercreat/vdk | 2 | 1| 
-| 20220514T10:24:35Z | RobloxのExploit | https://github.com/NASEMAKI/OuO-Exploit | 0 | 0| 
-| 20220514T10:10:50Z | Windows Usermode Exploitation | https://github.com/sizet0x80/Usermode-Exploit-Development | 1 | 0| 
-| 20220514T09:35:57Z | Walkthrough - Reverse engineer a Windows executable, find a buffer overflow and exploit it on a Linux machine. | https://github.com/chaurasiyag/Brainpan-1 | 0 | 0| 
-| 20220514T08:52:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11470 | 1967| 
-| 20220514T03:23:47Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Imposerya/Memenite-External-Fortnite-Updated-Source-Leak | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220514T11:31:16Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 84 | 23| 
-| 20220514T10:12:51Z | Simple to complex backdoor codes | https://github.com/ringwormGO-organization/doorfact | 1 | 0| 
-| 20220514T09:01:12Z | Null | https://github.com/THUYimingLi/BackdoorBox | 66 | 15| 
-| 20220514T08:10:07Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 933 | 98| 
-| 20220514T07:18:19Z | Null | https://github.com/SCLBD/BackdoorBench | 3 | 0| 
+| 20220514T20:42:20Z | BackDoor to control php WebSites, hiphp is controlle by sending commands, files and codes to the site using http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this backdoor is password protected. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
+| 20220514T18:30:27Z | Bonjour, | https://github.com/Hemingway-77/Python_Backdoor | 0 | 0| 
+| 20220514T18:03:08Z | Null | https://github.com/THUYimingLi/BackdoorBox | 67 | 16| 
+| 20220514T17:06:26Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 935 | 98| 
+| 20220514T15:45:19Z | Simple to complex backdoor codes | https://github.com/ringwormGO-organization/doorfact | 2 | 1| 
+| 20220514T15:45:10Z | Null | https://github.com/SCLBD/BackdoorBench | 5 | 0| 
+| 20220514T11:31:16Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 84 | 24| 
 | 20220514T06:59:57Z | A python backdoor. | https://github.com/asherbuechel/Python-Backdoor | 0 | 0| 
 
 
@@ -86,15 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220514T22:21:49Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 10 | 4| 
+| 20220514T20:09:16Z | Null | https://github.com/eliseghanem/fuzzy-distance-follower | 0 | 0| 
+| 20220514T19:37:17Z | control of object position using an air pump implementing fuzzy logic control | https://github.com/KhaledM19/Fuzzy-Air-Pump-Control | 0 | 0| 
+| 20220514T19:23:55Z | Null | https://github.com/ammaraskar/IntFuzz | 0 | 0| 
+| 20220514T18:01:19Z | JS Test Automation | https://github.com/kerryparker/fuzzy-js | 0 | 0| 
 | 20220514T12:40:16Z | Null | https://github.com/hidayattaufiqur/Tugas-Pengantar-Fuzzy-Logic_07 | 0 | 0| 
 | 20220514T12:06:25Z | A collection of http fuzzing python scripts to fuzz HTTP servers for bugs. | https://github.com/p0dalirius/http-fuzzing-scripts | 0 | 0| 
 | 20220514T09:09:38Z | University task for making car driving ai using fuzzy logic | https://github.com/caisilus/fuzzy_logic | 0 | 0| 
 | 20220514T07:44:53Z | Null | https://github.com/rismaamaliyah/Fuzzy-Logic | 0 | 0| 
 | 20220514T06:49:33Z | Tugas pemrograman Fuzzy Logic  | https://github.com/fadliz/Fuzzy-Programming | 0 | 0| 
-| 20220514T01:45:43Z | Adaptive fuzzy neural network MATLAB code | https://github.com/huihuangchen20309921/Adaptive-fuzzy-neural-network-MATLAB-code | 0 | 0| 
-| 20220514T01:43:45Z | Null | https://github.com/zhaoxiaoyunok/materials_fuzzing | 0 | 0| 
-| 20220514T01:38:38Z | Tugas Pemrograman 02 - Reasoning (Pengantar Kecerdasan Buatan) | https://github.com/berlianm/Fuzzy-Logic | 0 | 0| 
-| 20220514T00:38:16Z | Null | https://github.com/farhantk/tubesFuzzy | 0 | 0| 
 
 
 
