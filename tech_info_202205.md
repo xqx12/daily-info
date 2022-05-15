@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T00:07:26Z | K-Means and Fuzzy C-Means Clustering | https://github.com/KeatonSpiller/K-Means-and-Fuzzy-C-Means-Clustering | 0 | 0| 
 | 20220514T22:21:49Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 10 | 4| 
 | 20220514T20:09:16Z | Null | https://github.com/eliseghanem/fuzzy-distance-follower | 0 | 0| 
 | 20220514T19:37:17Z | control of object position using an air pump implementing fuzzy logic control | https://github.com/KhaledM19/Fuzzy-Air-Pump-Control | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220514T12:06:25Z | A collection of http fuzzing python scripts to fuzz HTTP servers for bugs. | https://github.com/p0dalirius/http-fuzzing-scripts | 0 | 0| 
 | 20220514T09:09:38Z | University task for making car driving ai using fuzzy logic | https://github.com/caisilus/fuzzy_logic | 0 | 0| 
 | 20220514T07:44:53Z | Null | https://github.com/rismaamaliyah/Fuzzy-Logic | 0 | 0| 
-| 20220514T06:49:33Z | Tugas pemrograman Fuzzy Logic  | https://github.com/fadliz/Fuzzy-Programming | 0 | 0| 
 
 
 
