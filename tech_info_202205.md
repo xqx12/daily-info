@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T01:14:16Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | 0 | 0| 
+| 20220515T01:13:29Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | 0 | 0| 
 | 20220515T01:12:36Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-a | 0 | 0| 
 | 20220515T00:33:01Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 271 | 13| 
 | 20220514T23:57:40Z | ♦️Remote HVNC♦️ ✅HVNC Clone Profile ✅Hidden Desktop ✅Hidden Browsers ✅Hidden Chrome ✅Hidden Firefox ✅Hidden Edge ✅Hidden Brave ✅Hidden Explorer ✅Support WebGL ♦️Remote System♦️ ✅System Information ✅File Manager ✅Start Up Manager ✅Task Manager ✅Remote Shell ✅TCP Connection ✅Reverse Proxy ✅Registry Editor ✅UAC Exploit ✅Disable WD ✅Format All Drivers ✅Kill All AV ✅Net Frameworks ✅Execution Policy Editor ✅USB Spread ✅Killer Reg ♦️Stub Features♦️ ✅Change client name ✅Enable install ✅Usb spread ✅Anti kill ✅Disable windows defender ✅Hide file ✅Hide folder ✅Enable start up/persistence ✅Change startup registry name ✅Mutex ✅IP/DNS/No ip ✅Encrypted connection ✅Change reconnect time ✅Change assembly clone/random ✅Change icon ✅Enable keylogger ✅Hide keylogger folder ✅Change log directory name | https://github.com/netflixfurimmer/Venom-Hvnc-Control-2022 | 1 | 0| 
@@ -96,8 +98,6 @@
 | 20220514T21:38:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11473 | 1967| 
 | 20220514T19:59:50Z | Zero-day exploit and malware protection | https://github.com/R46narok/Apollo | 0 | 0| 
 | 20220514T19:51:01Z | Working on a Rust exploit framework!  | https://github.com/frostb1ten/RustSploit | 1 | 0| 
-| 20220514T15:30:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2734 | 336| 
-| 20220514T12:45:47Z | It is a java application(desktop-based) deals with the Corporate Medicare Management. This project is very helpful to both Medicare staff as well as to the public.The main objective to implement the project E-Health Care Management System is to minimize the work and at the same time increase the speed of the work done. The growing quality demand in the health care sector  makes it necessary to exploit the whole potential of stored data efficiently.Language:Java(swing).IDE:Apache Netbeans.Database:SQL(J connector).) | https://github.com/Mubeen-Zaki/E-Health-Care-Management-System | 0 | 0| 
 
 
 # backdoor on Github 推荐
