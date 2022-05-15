@@ -146,7 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220515T12:37:17Z | Null | https://github.com/israelgabrielson/Neuro-Fuzzy-Inference-System | 0 | 0| 
+| 20220515T12:42:42Z | Null | https://github.com/faridaarum/fuzzy-logic | 0 | 0| 
+| 20220515T12:41:53Z | Null | https://github.com/israelgabrielson/Neuro-Fuzzy-Inference-System | 0 | 0| 
 | 20220515T12:02:48Z | Null | https://github.com/faridaarum/Tugas-Fuzzy-logic | 0 | 0| 
 | 20220515T10:01:35Z | Null | https://github.com/yannis94/go_fuzz_with_me | 0 | 0| 
 | 20220515T10:00:30Z | Null | https://github.com/AlphonseNivetha/NeuroFuzzyInference | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220515T08:50:18Z | Null | https://github.com/andreasharon/Neuro-Fuzzy-Inference | 0 | 0| 
 | 20220515T06:27:02Z | Null | https://github.com/Arthur-12/fuzzy-pancake | 0 | 0| 
 | 20220515T04:37:35Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 16 | 1| 
-| 20220515T01:51:26Z | Null | https://github.com/HarvianKhusnan/Tugas-Fuzzy-logic | 0 | 0| 
 
 
 
