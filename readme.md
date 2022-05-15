@@ -65,7 +65,6 @@
 | 20220514T18:03:08Z | Null | https://github.com/THUYimingLi/BackdoorBox | 67 | 16| 
 | 20220514T17:06:26Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 935 | 98| 
 | 20220514T15:45:19Z | Simple to complex backdoor codes | https://github.com/ringwormGO-organization/doorfact | 2 | 1| 
-| 20220514T15:45:10Z | Null | https://github.com/SCLBD/BackdoorBench | 5 | 0| 
 | 20220514T11:31:16Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 84 | 24| 
 | 20220514T06:59:57Z | A python backdoor. | https://github.com/asherbuechel/Python-Backdoor | 0 | 0| 
 
