@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T01:28:38Z | Null | https://github.com/SkidderKix/Scrooge-Exploit- | 0 | 0| 
 | 20220515T01:14:16Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | 0 | 0| 
 | 20220515T01:13:29Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-a | 0 | 0| 
 | 20220515T01:12:36Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-a | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220514T23:39:54Z | ♦️Remote HVNC♦️ ✅HVNC Clone Profile ✅Hidden Desktop ✅Hidden Browsers ✅Hidden Chrome ✅Hidden Firefox ✅Hidden Edge ✅Hidden Brave ✅Hidden Explorer ✅Support WebGL ♦️Remote System♦️ ✅System Information ✅File Manager ✅Start Up Manager ✅Task Manager ✅Remote Shell ✅TCP Connection ✅Reverse Proxy ✅Registry Editor ✅UAC Exploit ✅Disable WD ✅Format All Drivers ✅Kill All AV ✅Net Frameworks ✅Execution Policy Editor ✅USB Spread ✅Killer Reg ♦️Stub Features♦️ ✅Change client name ✅Enable install ✅Usb spread ✅Anti kill ✅Disable windows defender ✅Hide file ✅Hide folder ✅Enable start up/persistence ✅Change startup registry name ✅Mutex ✅IP/DNS/No ip ✅Encrypted connection ✅Change reconnect time ✅Change assembly clone/random ✅Change icon ✅Enable keylogger ✅Hide keylogger folder ✅Change log directory name | https://github.com/netflixfurimmer/Venom-RAT-HVNC-2022-By-ZFX_HACRYPT | 0 | 0| 
 | 20220514T21:38:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11473 | 1967| 
 | 20220514T19:59:50Z | Zero-day exploit and malware protection | https://github.com/R46narok/Apollo | 0 | 0| 
-| 20220514T19:51:01Z | Working on a Rust exploit framework!  | https://github.com/frostb1ten/RustSploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
