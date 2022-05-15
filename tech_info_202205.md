@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220515T00:24:19Z | CVE-2022-28346 | An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the passed **kwargs. | https://github.com/ahsentekdemir/CVE-2022-28346 | | 
 | 20220514T20:55:19Z | CVE-2022-26923 | The vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
 | 20220514T19:43:43Z | CVE-2022-1388 | An improved Proof of Concept for CVE-2022-1388 w/ Interactive Shell.        No reverse tcp required! | https://github.com/PsychoSec2/CVE-2022-1388-POC | | 
 | 20220514T16:52:09Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
@@ -55,7 +56,6 @@
 | 20220514T07:34:10Z | CVE-2022-1388 | Tool for CVE-2022-1388  | https://github.com/justakazh/CVE-2022-1388 | | 
 | 20220514T06:31:46Z | CVE-2022-29383 | Null | https://github.com/cxaqhq/netgear-to-CVE-2022-29383 | | 
 | 20220514T06:20:35Z | CVE-2022-30489 | Null | https://github.com/badboycxcc/XSS-CVE-2022-30489 | | 
-| 20220514T04:12:23Z | CVE-2022-26927 | A proof-of-concept font with a write-up attached. | https://github.com/Exploitables/CVE-2022-26927 | | 
 
 
 # klee on Github 推荐
