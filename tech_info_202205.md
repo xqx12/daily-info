@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220515T00:24:19Z | CVE-2022-28346 | An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the passed **kwargs. | https://github.com/ahsentekdemir/CVE-2022-28346 | | 
+| 20220515T00:28:24Z | CVE-2022-28346 | An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the passed **kwargs. | https://github.com/ahsentekdemir/CVE-2022-28346 | | 
 | 20220514T20:55:19Z | CVE-2022-26923 | The vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
 | 20220514T19:43:43Z | CVE-2022-1388 | An improved Proof of Concept for CVE-2022-1388 w/ Interactive Shell.        No reverse tcp required! | https://github.com/PsychoSec2/CVE-2022-1388-POC | | 
 | 20220514T16:52:09Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
