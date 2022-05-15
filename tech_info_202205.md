@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T12:02:48Z | Null | https://github.com/faridaarum/Tugas-Fuzzy-logic | 0 | 0| 
 | 20220515T10:01:35Z | Null | https://github.com/yannis94/go_fuzz_with_me | 0 | 0| 
 | 20220515T10:00:30Z | Null | https://github.com/AlphonseNivetha/NeuroFuzzyInference | 0 | 0| 
 | 20220515T09:45:04Z | Null | https://github.com/taniyalex/Neuro-Fuzzy-Inference | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220515T04:37:35Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 16 | 1| 
 | 20220515T01:51:26Z | Null | https://github.com/HarvianKhusnan/Tugas-Fuzzy-logic | 0 | 0| 
 | 20220515T00:09:24Z | K-Means and Fuzzy C-Means Clustering | https://github.com/KeatonSpiller/K-Means-and-Fuzzy-C-Means-Clustering | 0 | 0| 
-| 20220514T22:21:49Z | An open-source software package for fuzzing autonomous driving systems in high-fidelity simulators | https://github.com/AIasd/ADFuzz | 10 | 4| 
 
 
 

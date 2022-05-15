@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T12:02:48Z | Null | https://github.com/faridaarum/Tugas-Fuzzy-logic | 0 | 0| 
 | 20220515T10:01:35Z | Null | https://github.com/yannis94/go_fuzz_with_me | 0 | 0| 
 | 20220515T10:00:30Z | Null | https://github.com/AlphonseNivetha/NeuroFuzzyInference | 0 | 0| 
 | 20220515T09:45:04Z | Null | https://github.com/taniyalex/Neuro-Fuzzy-Inference | 0 | 0| 
