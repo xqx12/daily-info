@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T12:27:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2881 | 415| 
 | 20220516T12:23:16Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 139 | 8| 
 | 20220516T12:19:43Z | Null | https://github.com/7h3f0x/exploits | 1 | 0| 
 | 20220516T11:30:30Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
@@ -65,7 +66,6 @@
 | 20220516T08:47:28Z | Exploit examples and showcases | https://github.com/ziwei-yang/sol_playground | 1 | 0| 
 | 20220516T07:29:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2741 | 337| 
 | 20220516T01:08:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-b | 0 | 0| 
-| 20220516T01:07:05Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | 0 | 0| 
 
 
 # backdoor on Github 推荐
