@@ -104,7 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T01:19:52Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 10| 
+| 20220516T01:20:14Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 43 | 10| 
 | 20220515T18:18:35Z | Final project for NJiT DFIR class showcasing a CTF using three seperate VMs. SIFT , Victim VM and diagnostic VM. Wireshark was used for PCAP investigation. SIFT used for zeek and malware investigation. Finding backdoor using autoruns. Inspecting regedit for added %$% users. Download and use mimikatz to extract NTFS hash of the $hidden user. The $hidden user used the same password for an encrypted file which was the CTF picture. | https://github.com/xSugarsports/NJiT-DFIR-Project | 0 | 0| 
 | 20220515T17:39:48Z | A standalone FiveM script to prevent the backdoor called %Cipher% | https://github.com/hoaxFacts/fg-antiCipher | 3 | 0| 
 | 20220515T17:27:34Z | Null | https://github.com/c1b3r-p3d1a/reverse_tcp_server-backdoor | 0 | 0| 
