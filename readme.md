@@ -56,8 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T12:22:23Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 137 | 7| 
 | 20220516T12:19:43Z | Null | https://github.com/7h3f0x/exploits | 1 | 0| 
-| 20220516T12:05:41Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 136 | 7| 
 | 20220516T11:30:30Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220516T10:14:11Z | Null | https://github.com/Crashim03/Exploiting_Adventures | 0 | 0| 
 | 20220516T09:32:55Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 195 | 21| 
