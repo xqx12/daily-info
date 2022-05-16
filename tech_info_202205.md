@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220516T01:44:14Z | CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | | 
 | 20220516T01:38:14Z | CVE-2022-29383 | Null | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | | 
 | 20220515T19:24:06Z | CVE-2022-24734 | MyBB 1.8.29 - Remote Code Execution | https://github.com/lavclash75/mybb-CVE-2022-24734 | | 
 | 20220515T17:23:45Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | | 
@@ -55,7 +56,6 @@
 | 20220515T09:18:46Z | cve-2022-1388 | Improved POC for CVE-2022-1388 that affects multiple F5 products. | https://github.com/iveresk/cve-2022-1388-iveresk-command-shell | | 
 | 20220515T07:33:08Z | CVE-2022-1388 | An Improved Proof of Concept for CVE-2022-1388 w/ an Interactive Shell | https://github.com/PsychoSec2/CVE-2022-1388-POC | | 
 | 20220515T07:08:58Z | cve-2021-38314 | cve-2021-38314 - Unauthenticated Sensitive Information Disclosure | https://github.com/twseptian/cve-2021-38314 | | 
-| 20220515T06:24:15Z | CVE-2022-30525 | Zyxel Firewall Remote Command Injection Vulnerability (CVE-2022-30525) Batch Detection Script | https://github.com/M4fiaB0y/CVE-2022-30525 | | 
 
 
 # klee on Github 推荐
@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T01:40:40Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 42 | 3| 
+| 20220516T01:42:24Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 43 | 3| 
 | 20220516T01:08:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-b | 0 | 0| 
 | 20220516T01:07:05Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | 0 | 0| 
 | 20220516T01:05:51Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-b | 0 | 0| 
