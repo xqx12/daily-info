@@ -56,8 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T12:43:56Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 142 | 8| 
 | 20220516T12:39:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2883 | 415| 
-| 20220516T12:39:28Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 141 | 8| 
 | 20220516T12:19:43Z | Null | https://github.com/7h3f0x/exploits | 1 | 0| 
 | 20220516T11:46:55Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 51 | 10| 
 | 20220516T11:30:30Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
