@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T01:11:37Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 40 | 3| 
+| 20220516T01:29:11Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 41 | 3| 
 | 20220516T01:08:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-b | 0 | 0| 
 | 20220516T01:07:05Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | 0 | 0| 
 | 20220516T01:05:51Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-b | 0 | 0| 
