@@ -103,10 +103,10 @@
 | 20220516T09:15:03Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
 | 20220516T09:10:30Z | Null | https://github.com/Maheshwaraan/fuzzy-memory | 0 | 0| 
 | 20220516T08:43:28Z | Null | https://github.com/andercarrera/Graded-lab-Fuzzing-101-with-AFL | 0 | 0| 
+| 20220516T05:02:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1302 | 178| 
 | 20220516T03:52:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2708 | 548| 
 | 20220516T01:55:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 370 | 54| 
 | 20220516T01:20:24Z | Null | https://github.com/RICSecLab/fuzzuf-ci | 0 | 0| 
-| 20220516T01:09:15Z | mirror google-fuzzer-test-suite freetype2  | https://github.com/zhaoxiaoyunok/freetype2 | 0 | 0| 
 
 
 
