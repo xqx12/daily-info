@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T11:57:40Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 133 | 7| 
+| 20220516T12:03:01Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 134 | 7| 
 | 20220516T11:30:30Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220516T10:14:11Z | Null | https://github.com/Crashim03/Exploiting_Adventures | 0 | 0| 
 | 20220516T09:32:55Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 195 | 21| 
@@ -96,9 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T11:08:23Z | Null | https://github.com/mezermize/fuzzyman | 0 | 0| 
+| 20220516T09:26:43Z | Fuzzy System for a flight weather alert system | https://github.com/AlohaGodfrey/Fuzzy-Flight-System | 0 | 0| 
+| 20220516T09:19:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7323 | 1580| 
+| 20220516T09:15:03Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
+| 20220516T09:10:30Z | Null | https://github.com/Maheshwaraan/fuzzy-memory | 0 | 0| 
+| 20220516T08:43:28Z | Null | https://github.com/andercarrera/Graded-lab-Fuzzing-101-with-AFL | 0 | 0| 
+| 20220516T03:52:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2708 | 548| 
+| 20220516T01:55:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 370 | 54| 
 | 20220516T01:20:24Z | Null | https://github.com/RICSecLab/fuzzuf-ci | 0 | 0| 
 | 20220516T01:09:15Z | mirror google-fuzzer-test-suite freetype2  | https://github.com/zhaoxiaoyunok/freetype2 | 0 | 0| 
-| 20220516T00:53:30Z | Null | https://github.com/blsports59/Fuzzy_Farmer_Project | 0 | 0| 
 
 
 
