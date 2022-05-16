@@ -28,6 +28,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220516T11:57:42Z | cve-2021-21972 | Null | https://github.com/user16-et/cve-2021-21972_PoC | | 
+| 20220516T11:46:55Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220516T09:15:43Z | CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | | 
 | 20220516T08:33:04Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | | 
 | 20220516T08:31:45Z | CVE-2021-21315 | CVE-2021-21315-ENV | https://github.com/H3rmesk1t/CVE-2021-21315-ENV | | 
@@ -36,7 +37,6 @@
 | 20220516T02:56:28Z | CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) | https://github.com/UNICORDev/exploit-CVE-2021-3560 | | 
 | 20220516T01:49:44Z | CVE-2022-1388 | Null | https://github.com/Wrin9/CVE-2022-1388 | | 
 | 20220516T01:44:14Z | CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | | 
-| 20220516T01:38:14Z | CVE-2022-29383 | Null | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | | 
 
 
 # klee on Github 推荐
@@ -56,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T12:39:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2883 | 415| 
 | 20220516T12:39:28Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 141 | 8| 
-| 20220516T12:35:59Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2882 | 415| 
 | 20220516T12:19:43Z | Null | https://github.com/7h3f0x/exploits | 1 | 0| 
+| 20220516T11:46:55Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 51 | 10| 
 | 20220516T11:30:30Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220516T11:13:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11477 | 1966| 
 | 20220516T10:14:11Z | Null | https://github.com/Crashim03/Exploiting_Adventures | 0 | 0| 
 | 20220516T09:32:55Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 195 | 21| 
 | 20220516T09:15:43Z | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | 0 | 0| 
 | 20220516T08:47:28Z | Exploit examples and showcases | https://github.com/ziwei-yang/sol_playground | 1 | 0| 
-| 20220516T07:29:46Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2741 | 337| 
 
 
 # backdoor on Github 推荐
@@ -97,13 +97,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T12:40:40Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1303 | 178| 
 | 20220516T12:08:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7324 | 1580| 
 | 20220516T11:08:23Z | Null | https://github.com/mezermize/fuzzyman | 0 | 0| 
 | 20220516T09:26:43Z | Fuzzy System for a flight weather alert system | https://github.com/AlohaGodfrey/Fuzzy-Flight-System | 0 | 0| 
 | 20220516T09:15:03Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
 | 20220516T09:10:30Z | Null | https://github.com/Maheshwaraan/fuzzy-memory | 0 | 0| 
 | 20220516T08:43:28Z | Null | https://github.com/andercarrera/Graded-lab-Fuzzing-101-with-AFL | 0 | 0| 
-| 20220516T05:02:17Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1302 | 178| 
 | 20220516T03:52:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2708 | 548| 
 | 20220516T01:55:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 370 | 54| 
 | 20220516T01:20:24Z | Null | https://github.com/RICSecLab/fuzzuf-ci | 0 | 0| 
