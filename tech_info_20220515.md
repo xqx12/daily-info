@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220515T20:34:20Z | CVE-2022-29383 | Null | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | | 
 | 20220515T19:24:06Z | CVE-2022-24734 | MyBB 1.8.29 - Remote Code Execution | https://github.com/lavclash75/mybb-CVE-2022-24734 | | 
 | 20220515T17:23:45Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | | 
 | 20220515T17:22:06Z | CVE-2022-26923 | The vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
