@@ -76,6 +76,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T19:53:37Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 413 | 20| 
+| 20220515T19:49:58Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 362 | 18| 
+| 20220515T19:43:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2852 | 413| 
+| 20220515T16:00:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 224 | 54| 
+| 20220515T13:02:23Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 12 | 0| 
 | 20220515T05:09:30Z | A C# analyzer which performs symbolic execution on users% code | https://github.com/twoltjer/SymbolicExecutionAnalyzer | 0 | 0| 
 
 
