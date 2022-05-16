@@ -89,7 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T12:45:32Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Hgjhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220516T12:43:56Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 142 | 8| 
+| 20220516T12:40:38Z | A crasher with java script | https://github.com/Ghalbeyou/Crash-With-JS | 0 | 0| 
 | 20220516T12:39:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2883 | 415| 
 | 20220516T12:19:43Z | Null | https://github.com/7h3f0x/exploits | 1 | 0| 
 | 20220516T11:46:55Z | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | 51 | 10| 
@@ -97,8 +99,6 @@
 | 20220516T11:13:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11477 | 1966| 
 | 20220516T10:14:11Z | Null | https://github.com/Crashim03/Exploiting_Adventures | 0 | 0| 
 | 20220516T09:32:55Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 195 | 21| 
-| 20220516T09:15:43Z | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | 0 | 0| 
-| 20220516T08:47:28Z | Exploit examples and showcases | https://github.com/ziwei-yang/sol_playground | 1 | 0| 
 
 
 # backdoor on Github 推荐
