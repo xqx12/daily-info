@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T12:03:01Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 134 | 7| 
+| 20220516T12:03:55Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 135 | 7| 
 | 20220516T11:30:30Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220516T10:14:11Z | Null | https://github.com/Crashim03/Exploiting_Adventures | 0 | 0| 
 | 20220516T09:32:55Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 195 | 21| 
@@ -134,12 +134,12 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T07:26:58Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 2 | 0| 
 | 20220513T11:41:32Z | ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper) | https://github.com/nsg-ethz/ditto | 7 | 2| 
 | 20220513T03:46:55Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 6 | 1| 
 | 20220511T03:28:08Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 6 | 2| 
 | 20220510T20:59:59Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 6 | 0| 
 | 20220505T03:55:57Z | Cloned from 2020 Paper from NDSS | https://github.com/RajatSethi2001/FUSE | 0 | 0| 
-| 20220502T23:34:22Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 1 | 0| 
 | 20220501T15:02:30Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 1 | 0| 
 
 

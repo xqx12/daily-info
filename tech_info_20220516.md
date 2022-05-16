@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T12:03:01Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 134 | 7| 
+| 20220516T12:03:55Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 135 | 7| 
 | 20220516T11:30:30Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220516T10:14:11Z | Null | https://github.com/Crashim03/Exploiting_Adventures | 0 | 0| 
 | 20220516T09:32:55Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 195 | 21| 
@@ -91,6 +91,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T07:26:58Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 2 | 0| 
 
 
 # fuzz on Github 推荐
