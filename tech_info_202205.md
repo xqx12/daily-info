@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220516T01:49:44Z | CVE-2022-1388 | Null | https://github.com/Wrin9/CVE-2022-1388 | | 
 | 20220516T01:44:14Z | CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | | 
 | 20220516T01:38:14Z | CVE-2022-29383 | Null | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | | 
 | 20220515T19:24:06Z | CVE-2022-24734 | MyBB 1.8.29 - Remote Code Execution | https://github.com/lavclash75/mybb-CVE-2022-24734 | | 
@@ -55,13 +56,12 @@
 | 20220515T11:55:13Z | CVE-2022-28346 | An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the passed **kwargs. | https://github.com/ahsentekdemir/CVE-2022-28346 | | 
 | 20220515T09:18:46Z | cve-2022-1388 | Improved POC for CVE-2022-1388 that affects multiple F5 products. | https://github.com/iveresk/cve-2022-1388-iveresk-command-shell | | 
 | 20220515T07:33:08Z | CVE-2022-1388 | An Improved Proof of Concept for CVE-2022-1388 w/ an Interactive Shell | https://github.com/PsychoSec2/CVE-2022-1388-POC | | 
-| 20220515T07:08:58Z | cve-2021-38314 | cve-2021-38314 - Unauthenticated Sensitive Information Disclosure | https://github.com/twseptian/cve-2021-38314 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220515T14:55:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6130 | 223| 
+| 20220516T01:48:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6131 | 224| 
 | 20220514T00:45:31Z | This is Team A (Terrell Crawford, Stan Savelev, Leonel Barrientos, Jarod Heng, Jack Klees, George Bakhoum) | https://github.com/220328-Java-Full-Stack-AWS/Team-A-P2 | 0 | 0| 
 | 20220513T12:23:38Z | Null | https://github.com/peterbaile/klee-mo | 0 | 0| 
 | 20220513T07:12:50Z | KLEE in the browser | https://github.com/klee/klee-web | 48 | 12| 
