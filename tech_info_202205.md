@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T01:11:37Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 40 | 3| 
+| 20220516T01:08:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-b | 0 | 0| 
+| 20220516T01:07:05Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | 0 | 0| 
 | 20220516T01:05:51Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-b | 0 | 0| 
-| 20220516T01:04:10Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 38 | 3| 
 | 20220515T23:41:06Z | A webshell application and interactive shell for pentesting Apache Tomcat servers. | https://github.com/p0dalirius/Tomcat-application-webshell | 1 | 2| 
 | 20220515T23:39:53Z | Dépot github pour le projet de Programmation de Système d%exploitation de Maxime Bouet et Sébastien Bois | https://github.com/Swixiz/Programmation-Syst-me-d-exploitation | 0 | 0| 
 | 20220515T20:59:28Z | reportes de máquinas realizadas  | https://github.com/cristhianmt/tryhackme | 0 | 0| 
 | 20220515T20:47:10Z |  Tags (Ignore) exploit,word exploit,0day word exploit,silent word exploit,doc exploit,silent exploit,2017 word exploit,word exploit 2018,word exploit 2016,stone word exploit,fud exploit,word,word exploit download,word macros exploit,microsoft word exploit,buy silent word exploit,silent office exploit,silent word exploit 2018,stone silent word exploit,silent office exploit builder,exploits,macro exploit,definition of the word exploit exploit,word exploit,pdf exploit 2022,roblox exploit,0day word exploit,word exploit download,fud exploit,roblox hack exploit 2022,free roblox exploit 2022,roblox exploit download,roblox exploit mod 2022,fud exploits,macro exploit,silent exploit,roblox exploits,2021 exploit,word,fm20 exploit,exploit fm20,ms exploit,fm exploit,working doc exploit,doc exploit,pdf exploit,free exploit,.doc exploit,docx exploit,shortcut exploit wps,exploit,exploit wifi,wps lock,wps & wpa2 security explained in hindi,wps setup pin,wps pin,download wpa wps,wps hack,hack wps,wps crack,wps office,wps script,wps testar,wps hacking,hacking wps,free wpa wps,cracking wps,wps wifi hack,wps slaughter,wpa wps tester,wps wpa testar,how to hack wifi without wps,how to hack wps enabled wifi,anti-exploit,how to hack wifi with wps wpa tester in 2021  wps,wps office,wps wpa tester android 9.0 how to use,wps wpa tester android 9.0 without root,wps wpa tester android 9.0 kaise use kare,new version 2022 wps wpa tester,wps office premium unlocked,wps wpa tester android 9.0 error,wps app,wps wpa tester android 9.0 not working,wps wpa tester not working android pie,wps wpa tester problem,wps tester not working,wps crack,wps wpa tester android 9.0,wps wpa tester not working hindi,wps wifi hack 2021 | https://github.com/netflixfurimmer/PDF-DOC-WORD-EXPLOITE-2022 | 0 | 0| 
 | 20220515T20:25:54Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 144 | 34| 
 | 20220515T20:10:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2739 | 337| 
-| 20220515T19:40:02Z | Writeups and exploits of CTF challenges I%ve successfully pwned | https://github.com/DragonTechRoyale/CTF-Writeups | 0 | 0| 
-| 20220515T19:22:56Z | A level 7 keyless Lua executor for Roblox. Free, forever!  | https://github.com/NeobloxExecutor/neoblox | 1 | 0| 
 
 
 # backdoor on Github 推荐
