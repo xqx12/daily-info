@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T01:20:24Z | Null | https://github.com/RICSecLab/fuzzuf-ci | 0 | 0| 
 | 20220516T01:09:15Z | mirror google-fuzzer-test-suite freetype2  | https://github.com/zhaoxiaoyunok/freetype2 | 0 | 0| 
 | 20220516T00:53:30Z | Null | https://github.com/blsports59/Fuzzy_Farmer_Project | 0 | 0| 
 | 20220515T23:45:14Z | Null | https://github.com/skirt-owner/fuzzy-pancake | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220515T22:56:55Z | Fuzzy_funicular es para todo aquel q tenga problemas en su casas y no los puede solucionar | https://github.com/Diosmor/fuzzy-funicular | 0 | 0| 
 | 20220515T21:23:47Z | Fuzzing neural language models | https://github.com/sinablk/nlpfuzzer | 0 | 0| 
 | 20220515T18:42:57Z | Null | https://github.com/veroni-d20/neuro-fuzzy-system-implementation | 0 | 0| 
-| 20220515T17:53:34Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 1 | 0| 
 
 
 
