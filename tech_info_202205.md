@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220515 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本. | https://github.com/shuai06/CVE-2022-30525| 
 | 20220512 | NVIDIA 开源了 Linux 系统 GPU 的内核驱动 | https://github.com/NVIDIA/open-gpu-kernel-modules| 
 | 20220512 | 谷歌 I/O 2022年开发者大会演讲视频. | https://www.youtube.com/watch?v=nP-nMZpLM1A&feature=youtu.be| 
 | 20220512 | Windows RPC Runtime 整数溢出漏洞分析（CVE-2022-22019） | http://www.akamai.com/blog/security/rpc-runtime-patch-tuesday-take-two| 
@@ -25,7 +26,6 @@
 | 20220512 | Playwright - 微软开源的控制浏览器实现自动化的框架 | https://github.com/microsoft/playwright| 
 | 20220512 | 将 Windows EventID 映射到 MITRE [email protected] 攻击矩阵的工具 | https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack| 
 | 20220511 | Zyxel USG 网关固件的提取及密码验证策略分析 | https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/| 
-| 20220511 | Cisco Expressway 网关被发现多个漏洞 | https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220515T20:34:20Z | CVE-2022-29383 | Null | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | | 
+| 20220515T19:24:06Z | CVE-2022-24734 | MyBB 1.8.29 - Remote Code Execution | https://github.com/lavclash75/mybb-CVE-2022-24734 | | 
+| 20220515T17:23:45Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | | 
+| 20220515T17:22:06Z | CVE-2022-26923 | The vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
+| 20220515T13:34:44Z | CVE-2022-29464 | A bots loader for CVE-2022-29464 with multithreading | https://github.com/Inplex-sys/CVE-2022-29464-loader | | 
 | 20220515T11:55:13Z | CVE-2022-28346 | An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the passed **kwargs. | https://github.com/ahsentekdemir/CVE-2022-28346 | | 
-| 20220515T10:25:00Z | CVE-2022-26923 | The vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
-| 20220515T09:47:05Z | CVE-2022-29464 | A bots loader for CVE-2022-29464 with multithreading | https://github.com/Inplex-sys/CVE-2022-29464-loader | | 
-| 20220515T09:24:13Z | CVE-2022-29383 | Null | https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383 | | 
 | 20220515T09:18:46Z | cve-2022-1388 | Improved POC for CVE-2022-1388 that affects multiple F5 products. | https://github.com/iveresk/cve-2022-1388-iveresk-command-shell | | 
 | 20220515T07:33:08Z | CVE-2022-1388 | An Improved Proof of Concept for CVE-2022-1388 w/ an Interactive Shell | https://github.com/PsychoSec2/CVE-2022-1388-POC | | 
 | 20220515T07:08:58Z | cve-2021-38314 | cve-2021-38314 - Unauthenticated Sensitive Information Disclosure | https://github.com/twseptian/cve-2021-38314 | | 
 | 20220515T06:24:15Z | CVE-2022-30525 | Zyxel Firewall Remote Command Injection Vulnerability (CVE-2022-30525) Batch Detection Script | https://github.com/M4fiaB0y/CVE-2022-30525 | | 
-| 20220515T02:31:08Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | | 
-| 20220514T16:52:09Z | CVE-2022-30525 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525） | https://github.com/Henry4E36/CVE-2022-30525 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220515T11:41:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6126 | 223| 
+| 20220515T14:55:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6130 | 223| 
 | 20220514T00:45:31Z | This is Team A (Terrell Crawford, Stan Savelev, Leonel Barrientos, Jarod Heng, Jack Klees, George Bakhoum) | https://github.com/220328-Java-Full-Stack-AWS/Team-A-P2 | 0 | 0| 
 | 20220513T12:23:38Z | Null | https://github.com/peterbaile/klee-mo | 0 | 0| 
 | 20220513T07:12:50Z | KLEE in the browser | https://github.com/klee/klee-web | 48 | 12| 
@@ -76,10 +76,10 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T16:51:48Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, and more! | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
+| 20220515T16:00:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 224 | 54| 
 | 20220515T10:50:35Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 80 | 38| 
 | 20220513T11:34:09Z | New version of OCELOT (including new script to run it) | https://github.com/Hector-Mauricio-Castaneda-Cortes/S2E_FEL_dev_gen | 0 | 0| 
-| 20220511T14:21:24Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 223 | 54| 
-| 20220509T08:50:07Z | CRAX++: Modular exploit generator using (dynamic) symbolic execution | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
 | 20220509T06:42:38Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 18 | 2| 
 | 20220503T22:03:30Z | S2E website (s2e.systems) | https://github.com/S2E2/s2e2.github.io | 0 | 0| 
 | 20220502T21:17:55Z | Null | https://github.com/Buttermint69/S2EF | 0 | 0| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220515T12:26:25Z | Mobile Exploitation using Frida | https://github.com/hyunsukn/mobile_exploit | 0 | 0| 
-| 20220515T09:55:31Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 5 | 1| 
-| 20220515T07:38:15Z | Intermittent Deep Neural Network exploiting NORM Framework | https://github.com/Acefrrag/I-DNN | 0 | 0| 
-| 20220515T07:07:16Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 109 | 24| 
-| 20220515T07:01:31Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3250 | 693| 
-| 20220515T04:09:23Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 193 | 21| 
-| 20220515T01:45:46Z | A simple bash script for Web Cache Deception exploitation. | https://github.com/akr3ch/WebCacheDeception | 0 | 0| 
-| 20220515T01:30:13Z | Null | https://github.com/rumputliar/Active-Directory-Exploitation-Cheat-Sheet | 0 | 0| 
-| 20220515T01:28:38Z | Null | https://github.com/SkidderKix/Scrooge-Exploit- | 0 | 0| 
-| 20220515T01:14:16Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | 0 | 0| 
+| 20220515T23:41:06Z | A webshell application and interactive shell for pentesting Apache Tomcat servers. | https://github.com/p0dalirius/Tomcat-application-webshell | 1 | 1| 
+| 20220515T23:39:53Z | Dépot github pour le projet de Programmation de Système d%exploitation de Maxime Bouet et Sébastien Bois | https://github.com/Swixiz/Programmation-Syst-me-d-exploitation | 0 | 0| 
+| 20220515T23:33:22Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 29 | 3| 
+| 20220515T20:59:28Z | reportes de máquinas realizadas  | https://github.com/cristhianmt/tryhackme | 0 | 0| 
+| 20220515T20:47:10Z |  Tags (Ignore) exploit,word exploit,0day word exploit,silent word exploit,doc exploit,silent exploit,2017 word exploit,word exploit 2018,word exploit 2016,stone word exploit,fud exploit,word,word exploit download,word macros exploit,microsoft word exploit,buy silent word exploit,silent office exploit,silent word exploit 2018,stone silent word exploit,silent office exploit builder,exploits,macro exploit,definition of the word exploit exploit,word exploit,pdf exploit 2022,roblox exploit,0day word exploit,word exploit download,fud exploit,roblox hack exploit 2022,free roblox exploit 2022,roblox exploit download,roblox exploit mod 2022,fud exploits,macro exploit,silent exploit,roblox exploits,2021 exploit,word,fm20 exploit,exploit fm20,ms exploit,fm exploit,working doc exploit,doc exploit,pdf exploit,free exploit,.doc exploit,docx exploit,shortcut exploit wps,exploit,exploit wifi,wps lock,wps & wpa2 security explained in hindi,wps setup pin,wps pin,download wpa wps,wps hack,hack wps,wps crack,wps office,wps script,wps testar,wps hacking,hacking wps,free wpa wps,cracking wps,wps wifi hack,wps slaughter,wpa wps tester,wps wpa testar,how to hack wifi without wps,how to hack wps enabled wifi,anti-exploit,how to hack wifi with wps wpa tester in 2021  wps,wps office,wps wpa tester android 9.0 how to use,wps wpa tester android 9.0 without root,wps wpa tester android 9.0 kaise use kare,new version 2022 wps wpa tester,wps office premium unlocked,wps wpa tester android 9.0 error,wps app,wps wpa tester android 9.0 not working,wps wpa tester not working android pie,wps wpa tester problem,wps tester not working,wps crack,wps wpa tester android 9.0,wps wpa tester not working hindi,wps wifi hack 2021 | https://github.com/netflixfurimmer/PDF-DOC-WORD-EXPLOITE-2022 | 0 | 0| 
+| 20220515T20:25:54Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 144 | 34| 
+| 20220515T20:10:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2739 | 337| 
+| 20220515T19:40:02Z | Writeups and exploits of CTF challenges I%ve successfully pwned | https://github.com/DragonTechRoyale/CTF-Writeups | 0 | 0| 
+| 20220515T19:22:56Z | A level 7 keyless Lua executor for Roblox. Free, forever!  | https://github.com/NeobloxExecutor/neoblox | 1 | 0| 
+| 20220515T19:11:54Z | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | 3 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220515T18:18:35Z | Final project for NJiT DFIR class showcasing a CTF using three seperate VMs. SIFT , Victim VM and diagnostic VM. Wireshark was used for PCAP investigation. SIFT used for zeek and malware investigation. Finding backdoor using autoruns. Inspecting regedit for added %$% users. Download and use mimikatz to extract NTFS hash of the $hidden user. The $hidden user used the same password for an encrypted file which was the CTF picture. | https://github.com/xSugarsports/NJiT-DFIR-Project | 0 | 0| 
+| 20220515T17:39:48Z | A standalone FiveM script to prevent the backdoor called %Cipher% | https://github.com/hoaxFacts/fg-antiCipher | 3 | 0| 
+| 20220515T17:27:34Z | Null | https://github.com/c1b3r-p3d1a/reverse_tcp_server-backdoor | 0 | 0| 
+| 20220515T14:23:50Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 939 | 98| 
+| 20220515T13:05:23Z | Null | https://github.com/THUYimingLi/BackdoorBox | 69 | 16| 
 | 20220515T12:20:32Z | Simple to complex backdoor codes | https://github.com/ringwormGO-organization/doorfact | 2 | 1| 
 | 20220515T12:00:18Z | Null | https://github.com/SCLBD/BackdoorBench | 7 | 0| 
 | 20220515T09:08:10Z | Tool untuk membantu eksploitasi shell di linux target seperti membuat user backdoor dengan akses root, mendapatkan user dan password linux dari memory server dan menghapus jejak dari target server | https://github.com/kurniawandata/xcodeshellexploitation | 5 | 2| 
 | 20220515T09:06:52Z | Script backdoor upload untuk disisipkan pada file php yang ada di website target  | https://github.com/kurniawandata/xcodebackdoorupload | 1 | 2| 
-| 20220515T08:39:22Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 937 | 98| 
-| 20220515T03:58:31Z | Null | https://github.com/THUYimingLi/BackdoorBox | 68 | 16| 
 | 20220515T03:34:17Z | Null | https://github.com/RyanKetful/Backdoor | 0 | 0| 
-| 20220514T20:42:20Z | BackDoor to control php WebSites, hiphp is controlle by sending commands, files and codes to the site using http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this backdoor is password protected. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
-| 20220514T18:30:27Z | Bonjour, | https://github.com/Hemingway-77/Python_Backdoor | 0 | 0| 
-| 20220514T11:31:16Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 84 | 24| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220515T12:42:42Z | Null | https://github.com/faridaarum/fuzzy-logic | 0 | 0| 
-| 20220515T12:41:53Z | Null | https://github.com/israelgabrielson/Neuro-Fuzzy-Inference-System | 0 | 0| 
-| 20220515T12:02:48Z | Null | https://github.com/faridaarum/Tugas-Fuzzy-logic | 0 | 0| 
-| 20220515T10:01:35Z | Null | https://github.com/yannis94/go_fuzz_with_me | 0 | 0| 
-| 20220515T10:00:30Z | Null | https://github.com/AlphonseNivetha/NeuroFuzzyInference | 0 | 0| 
-| 20220515T09:45:04Z | Null | https://github.com/taniyalex/Neuro-Fuzzy-Inference | 0 | 0| 
-| 20220515T09:12:51Z | format any text with appropriate indents | https://github.com/xnslong/fmt-fuzzy | 0 | 0| 
-| 20220515T08:50:18Z | Null | https://github.com/andreasharon/Neuro-Fuzzy-Inference | 0 | 0| 
-| 20220515T06:27:02Z | Null | https://github.com/Arthur-12/fuzzy-pancake | 0 | 0| 
-| 20220515T04:37:35Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 16 | 1| 
+| 20220515T23:45:14Z | Null | https://github.com/skirt-owner/fuzzy-pancake | 0 | 0| 
+| 20220515T23:24:37Z | Null | https://github.com/bastosismael/FuzzyTimeSeries | 0 | 0| 
+| 20220515T23:22:37Z | This repository contains some data files I used to learn fuzzy merging in Python. | https://github.com/IanHo2019/Python-Fuzzy-Merging | 0 | 0| 
+| 20220515T23:17:49Z | Null | https://github.com/The-M-V/DirFuzz | 1 | 0| 
+| 20220515T22:56:55Z | Fuzzy_funicular es para todo aquel q tenga problemas en su casas y no los puede solucionar | https://github.com/Diosmor/fuzzy-funicular | 0 | 0| 
+| 20220515T21:23:47Z | Fuzzing neural language models | https://github.com/sinablk/nlpfuzzer | 0 | 0| 
+| 20220515T18:42:57Z | Null | https://github.com/veroni-d20/neuro-fuzzy-system-implementation | 0 | 0| 
+| 20220515T17:53:34Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 1 | 0| 
+| 20220515T15:44:46Z | This is a blog for MSc Thesis paper - Intelligent Code Generation/ Mutation to aid fuzzing of JavaScript engines | https://github.com/DeamonSpawn/amenezes.github.io | 0 | 0| 
+| 20220515T14:19:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 833 | 94| 
 
 
 
