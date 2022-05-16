@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T12:48:21Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 143 | 9| 
+| 20220516T12:52:34Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 145 | 9| 
 | 20220516T12:48:12Z | Trojan Rat Builder(348), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Hgjhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220516T12:40:38Z | A crasher with java script | https://github.com/Ghalbeyou/Crash-With-JS | 0 | 0| 
 | 20220516T12:39:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2883 | 415| 
