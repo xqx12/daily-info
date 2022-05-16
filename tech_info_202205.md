@@ -48,6 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220516T11:57:42Z | cve-2021-21972 | Null | https://github.com/user16-et/cve-2021-21972_PoC | | 
 | 20220516T11:46:55Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
+| 20220516T11:08:46Z | CVE-2022-26923 | The vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
 | 20220516T09:15:43Z | CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | | 
 | 20220516T08:33:04Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | | 
 | 20220516T08:31:45Z | CVE-2021-21315 | CVE-2021-21315-ENV | https://github.com/H3rmesk1t/CVE-2021-21315-ENV | | 
@@ -55,7 +56,6 @@
 | 20220516T03:49:46Z | CVE-2022-1388 | An Improved Proof of Concept for CVE-2022-1388 w/ an Interactive Shell | https://github.com/PsychoSec2/CVE-2022-1388-POC | | 
 | 20220516T02:56:28Z | CVE-2021-3560 | Exploit for CVE-2021-3560 (Polkit) | https://github.com/UNICORDev/exploit-CVE-2021-3560 | | 
 | 20220516T01:49:44Z | CVE-2022-1388 | Null | https://github.com/Wrin9/CVE-2022-1388 | | 
-| 20220516T01:44:14Z | CVE-2021-43287 | CVE-2021-43287_GoCD_fileread_POC_EXP | https://github.com/Wrin9/CVE-2021-43287 | | 
 
 
 # klee on Github 推荐
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T12:52:37Z | Null | https://github.com/syedafazilathjahaa/FuzzGoat_AFL | 0 | 0| 
 | 20220516T12:40:40Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1303 | 178| 
 | 20220516T12:08:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7324 | 1580| 
 | 20220516T11:08:23Z | Null | https://github.com/mezermize/fuzzyman | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220516T08:43:28Z | Null | https://github.com/andercarrera/Graded-lab-Fuzzing-101-with-AFL | 0 | 0| 
 | 20220516T03:52:35Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2708 | 548| 
 | 20220516T01:55:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 370 | 54| 
-| 20220516T01:20:24Z | Null | https://github.com/RICSecLab/fuzzuf-ci | 0 | 0| 
 
 
 
