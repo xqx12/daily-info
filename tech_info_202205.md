@@ -89,7 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T01:02:20Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 37 | 3| 
+| 20220516T01:05:51Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-b | 0 | 0| 
+| 20220516T01:04:10Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 38 | 3| 
 | 20220515T23:41:06Z | A webshell application and interactive shell for pentesting Apache Tomcat servers. | https://github.com/p0dalirius/Tomcat-application-webshell | 1 | 2| 
 | 20220515T23:39:53Z | Dépot github pour le projet de Programmation de Système d%exploitation de Maxime Bouet et Sébastien Bois | https://github.com/Swixiz/Programmation-Syst-me-d-exploitation | 0 | 0| 
 | 20220515T20:59:28Z | reportes de máquinas realizadas  | https://github.com/cristhianmt/tryhackme | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220515T20:10:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2739 | 337| 
 | 20220515T19:40:02Z | Writeups and exploits of CTF challenges I%ve successfully pwned | https://github.com/DragonTechRoyale/CTF-Writeups | 0 | 0| 
 | 20220515T19:22:56Z | A level 7 keyless Lua executor for Roblox. Free, forever!  | https://github.com/NeobloxExecutor/neoblox | 1 | 0| 
-| 20220515T19:11:54Z | A level 7 keyless Lua executor for Roblox. Free, forever! | https://github.com/Plextora/neoblox | 3 | 2| 
 
 
 # backdoor on Github 推荐
