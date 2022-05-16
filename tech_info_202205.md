@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T00:43:23Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 33 | 3| 
+| 20220516T00:50:15Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 34 | 3| 
 | 20220515T23:41:06Z | A webshell application and interactive shell for pentesting Apache Tomcat servers. | https://github.com/p0dalirius/Tomcat-application-webshell | 1 | 2| 
 | 20220515T23:39:53Z | Dépot github pour le projet de Programmation de Système d%exploitation de Maxime Bouet et Sébastien Bois | https://github.com/Swixiz/Programmation-Syst-me-d-exploitation | 0 | 0| 
 | 20220515T20:59:28Z | reportes de máquinas realizadas  | https://github.com/cristhianmt/tryhackme | 0 | 0| 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T00:53:30Z | Null | https://github.com/blsports59/Fuzzy_Farmer_Project | 0 | 0| 
 | 20220515T23:45:14Z | Null | https://github.com/skirt-owner/fuzzy-pancake | 0 | 0| 
 | 20220515T23:24:37Z | Null | https://github.com/bastosismael/FuzzyTimeSeries | 0 | 0| 
 | 20220515T23:22:37Z | This repository contains some data files I used to learn fuzzy merging in Python. | https://github.com/IanHo2019/Python-Fuzzy-Merging | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220515T18:42:57Z | Null | https://github.com/veroni-d20/neuro-fuzzy-system-implementation | 0 | 0| 
 | 20220515T17:53:34Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/Jovens-Gafanhotos/fuzzy-spoon | 1 | 0| 
 | 20220515T15:44:46Z | This is a blog for MSc Thesis paper - Intelligent Code Generation/ Mutation to aid fuzzing of JavaScript engines | https://github.com/DeamonSpawn/amenezes.github.io | 0 | 0| 
-| 20220515T14:19:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 833 | 94| 
 
 
 
