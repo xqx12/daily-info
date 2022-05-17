@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220517T00:40:50Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 3 | 0| 
 | 20220517T00:23:41Z | Домашнее задание №2 по крусу эксплуатация РКТ | https://github.com/StudLabs/exploit_RST | 0 | 0| 
-| 20220517T00:20:17Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 2 | 0| 
 | 20220516T23:40:24Z | The NASA Protocol Exploits Employee Handbook | https://github.com/NASAProtocolExploits/handbook | 0 | 0| 
 | 20220516T23:27:26Z | a poptropica exploit | https://github.com/saa938/Beat-em-all | 0 | 0| 
 | 20220516T23:27:25Z | another poptropica exploit  | https://github.com/saa938/Card-Collector | 0 | 0| 
