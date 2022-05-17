@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220517 | macOS 平台 UpdateAgent 恶意样本的分析 | https://www.jamf.com/blog/updateagent-adapts-again/| 
+| 20220517 | SpiritSwap 发布公告，有攻击者社工 GoDaddy 员工修改域名配置导致 SpiritSwap DNS 被劫持 | https://spiritswap.medium.com/post-mortem-on-this-weekends-dns-event-cb61c11f5c2f| 
+| 20220517 | HP ProBook G4 650 笔记本固件被发现 SMM Callout 提权漏洞 | https://nstarke.github.io/uefi/smm/2022/05/10/smm-callout-in-hp-products.html| 
+| 20220517 | Backdooring of Real Time Automotive OS Devices，来自 BlackHat Asia 会议 | https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Delarea-Backdooring-of-real-time-automotive-os-devices.pdf| 
+| 20220517 | Apple 发布 iOS 15.5 和 macOS 12.4 安全更新 | https://support.apple.com/zh-cn/HT213258| 
+| 20220517 | 利用 BLE Reply 攻击 Bypass 手机解锁特斯拉汽车的距离限制 | http://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/| 
+| 20220517 | 信捷 PLC 编程工具被发现工程文件解析导致的代码执行漏洞 | http://claroty.com/2022/05/11/blog-research-from-project-file-to-code-execution-exploiting-vulnerabilities-in-xinje-plc-program-tool/| 
+| 20220517 | Malcolm - 网络流量分析工具 | https://github.com/idaholab/Malcolm| 
+| 20220517 | Tetragon - 基于内核层 eBPF 实现的运行时进程防护工具 | http://isovalent.com/blog/post/2022-05-16-tetragon| 
 | 20220516 | Android 的 RCE 攻击面以及动态二进制 Fuzzing，来自 BlackHat Asia 会议 | https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-He-The-Hidden-RCE-Surfaces-That-Control-The-Droids.pdf| 
 | 20220516 | Bypass CFG in Chrome | https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Zhang-Bypass-CFG-In-Chrome.pdf| 
 | 20220516 | iBoot Firebloom 逆向 Part 2 | https://saaramar.github.io/iBoot_firebloom_type_desc/| 
@@ -17,20 +26,12 @@
 | 20220516 | Exploiting RBCD Using a Normal User Account | https://www.tiraniddo.dev/2022/05/exploiting-rbcd-using-normal-user.html| 
 | 20220515 | Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本. | https://github.com/shuai06/CVE-2022-30525| 
 | 20220512 | NVIDIA 开源了 Linux 系统 GPU 的内核驱动 | https://github.com/NVIDIA/open-gpu-kernel-modules| 
-| 20220512 | 谷歌 I/O 2022年开发者大会演讲视频. | https://www.youtube.com/watch?v=nP-nMZpLM1A&feature=youtu.be| 
-| 20220512 | Windows RPC Runtime 整数溢出漏洞分析（CVE-2022-22019） | http://www.akamai.com/blog/security/rpc-runtime-patch-tuesday-take-two| 
-| 20220512 | Windows Server VPN 远程内核 UAF 漏洞分析（CVE-2022-21972） | http://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/| 
-| 20220512 | 索尼 PlayStation 远程内核堆溢出漏洞（CVE-2022-29867） | https://hackerone.com/reports/1350653| 
-| 20220512 | GitHub 有研究员公开了 Atlassian Bitbucket Data Center 反序列化漏洞(CVE-2022-26133) 的批量验证工具 | https://github.com/Pear1y/CVE-2022-26133| 
-| 20220512 | Fortinet 对伊朗 APT34 近期攻击样本的分析 | https://www.fortinet.com/blog/threat-research/please-confirm-you-received-our-apt| 
-| 20220512 | Google 在 I/O 2022 会议上分享的 Android 13 版本在安全和隐私方面的改进 | https://security.googleblog.com/2022/05/io-2022-android-13-security-and-privacy.html| 
-| 20220512 | 利用差分 Fuzzing 的方法 Fuzz Solana rBPF | http://secret.club/2022/05/11/fuzzing-solana.html| 
-| 20220512 | 近期有钓鱼攻击者利用邮箱和浏览器对 URL 解析的差异实现钓鱼 | https://threatpost.com/novel-phishing-trick-uses-weird-links-to-bypass-spam-filters/179587/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220517 | 情报的三大核心、四大要素、一个关键问题 | https://zhuanlan.zhihu.com/p/515570133| 
 | 20220516 | MySQL安全配置基线 | https://www.sec-in.com/article/1687| 
 | 20220516 | 部分终端安全防护软件的 DNSAML 服务存在缺陷 | https://mp.weixin.qq.com/s/EscMgvdA5u97eZHImhvqMA| 
 | 20220516 | 网络安全创业从0到1-演讲实录 | https://mp.weixin.qq.com/s/0uTkCQHtCySO9ydEjUMU8g| 
@@ -40,28 +41,27 @@
 | 20220516 | （译）SLSA如何落地 | https://zhuanlan.zhihu.com/p/515363693| 
 | 20220514 | CVE-2022-21907 http协议远程代码执行漏洞分析总结 | http://noahblog.360.cn/cve-2022-21907-httpxie-yi-yuan-cheng-dai-ma-zhi-xing-lou-dong-fen-xi-zong-jie/| 
 | 20220514 | CVE-2021-34535 RDP客户端漏洞分析 | http://noahblog.360.cn/cve-2021-34535-rdpke-hu-duan-lou-dong-fen-xi/| 
-| 20220514 | 前端JS攻防对抗 | https://mp.weixin.qq.com/s/QbfUkU0Fj7Bjk--21H2UQA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220517T11:55:09Z | CVE-2022-24611 | Details regarding the Z-Wave S0-No-More attack | https://github.com/ITSecLab-HSEL/CVE-2022-24611 | | 
+| 20220517T11:38:31Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
+| 20220517T10:51:39Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/aancw/CVE-2022-1388-rs | | 
+| 20220517T03:10:49Z | CVE-2022-1598 |  The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks | https://github.com/V35HR4J/CVE-2022-1598 | | 
 | 20220517T00:06:57Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
-| 20220516T22:32:28Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220516T17:56:03Z | cve-2022-21907 | Multithread Golang application | https://github.com/iveresk/cve-2022-21907 | | 
 | 20220516T16:15:52Z | CVE-2022-30006 | [Reserved for CVE-2022-30006] | https://github.com/ComparedArray/printix-CVE-2022-30006 | | 
-| 20220516T15:33:48Z | CVE-2022-1598 |  The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks | https://github.com/V35HR4J/CVE-2022-1598 | | 
 | 20220516T15:31:28Z | CVE-2022-22947 | Spring Cloud Gateway Actuator API SpEL表达式注入命令执行（CVE-2022-22947） 注入哥斯拉内存马 | https://github.com/0730Nophone/CVE-2022-22947- | | 
 | 20220516T13:28:51Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
 | 20220516T11:57:42Z | cve-2021-21972 | Null | https://github.com/user16-et/cve-2021-21972_PoC | | 
-| 20220516T11:08:46Z | CVE-2022-26923 | The vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
-| 20220516T09:15:43Z | CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220517T01:36:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6143 | 225| 
+| 20220517T10:58:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6153 | 225| 
 | 20220516T13:56:38Z | Inexpensive cutter for Mobile Outfitters | https://github.com/AllenDatagraph/Kleenex-Cutter | 0 | 0| 
 | 20220516T09:57:15Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 243 | 40| 
 | 20220516T06:21:02Z | Null | https://github.com/JiuTang22/Klee | 0 | 0| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220515T16:51:48Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, and more! | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
+| 20220517T03:31:01Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 48 | 3| 
 | 20220515T16:00:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 224 | 54| 
 | 20220515T10:50:35Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 80 | 38| 
 | 20220513T11:34:09Z | New version of OCELOT (including new script to run it) | https://github.com/Hector-Mauricio-Castaneda-Cortes/S2E_FEL_dev_gen | 0 | 0| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220517T01:54:10Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 9 | 4| 
-| 20220517T01:42:54Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 464 | 49| 
-| 20220517T01:21:16Z | Research on new Heap Exploitation Techniques | https://github.com/Milo-D/ptmalloc2-research | 0 | 0| 
-| 20220517T00:23:41Z | Домашнее задание №2 по крусу эксплуатация РКТ | https://github.com/StudLabs/exploit_RST | 0 | 0| 
-| 20220516T23:40:24Z | The NASA Protocol Exploits Employee Handbook | https://github.com/NASAProtocolExploits/handbook | 0 | 0| 
-| 20220516T23:40:24Z | The NASA Protocol Exploits Employee Handbook | https://github.com/NASA-Protocol-Exploits/handbook | 0 | 0| 
-| 20220516T23:27:26Z | a poptropica exploit | https://github.com/saa938/Beat-em-all | 0 | 0| 
-| 20220516T23:27:25Z | another poptropica exploit  | https://github.com/saa938/Card-Collector | 0 | 0| 
-| 20220516T22:46:49Z | Venom-Hvnc-Control-2022 ♦️Remote HVNC♦️ ✅HVNC Clone Profile ✅Hidden Desktop ✅Hidden Browsers ✅Hidden Chrome ✅Hidden Firefox ✅Hidden Edge ✅Hidden Brave ✅Hidden Explorer ✅Support WebGL ♦️Remote System♦️ ✅System Information ✅File Manager ✅Start Up Manager ✅Task Manager ✅Remote Shell ✅TCP Connection ✅Reverse Proxy ✅Registry Editor ✅UAC Exploit ✅Disable WD ✅Format All Drivers ✅Kill All AV ✅Net Frameworks ✅Execution Policy Editor ✅USB Spread ✅Killer Reg ♦️Stub Features♦️ ✅Change client name ✅Enable install ✅Usb spread ✅Anti kill ✅Disable windows defender ✅Hide file ✅Hide folder ✅Enable start up/persistence ✅Change startup registry name ✅Mutex ✅IP/DNS/No ip ✅Encrypted connection ✅Change reconnect time ✅Change assembly clone/random ✅Change icon ✅Enable keylogger ✅Hide keylogger folder ✅Change log directory name | https://github.com/netflixfurimmer/Venom-Hvnc-Control | 0 | 0| 
-| 20220516T22:38:53Z | Loud DDOS Panel Slamming 20 gig dstat      Tags  ddos attack, ddos attack explained, ddos panel, ddos attack roblox, ddosing, ddos tool, ddos apex legends, ddos roblox, ddos attack live, ddos attack tutorial, ddos attack kali linux, ddos attack website free, a ddos attack, ddosing a scammer, ddos a website, ddosing a ddoser, ddosing a minecraft server, doxing school, ddos a ip, ddos a router, ddos botnet, ddos booter, ddos bots tf2, ddos by daylight, ddos bot, ddos blizzard, ddos bot discord, ddos bluetooth, ddos crypto, ddos cloudflare, ddos coin, ddos csgo, ddos call of duty, ddos cod, ddos computerphile, ddos clash royale, c ddos script, reaper.c ddos, white c ddos, ddos c%est quoi, ddos discord, ddos dbd, ddos dead by daylight, ddos discord server, ddos download, ddos detection, ddos discord bot, ddos destiny 2, ddos explained, ddos em biet anh dang nghi gi, ddos error, ddos event, ddos exploit, ddos er, ddos eli5, ddos ethereum, attacco dos e ddos, o%que e ddos, ddos free, ddos fivem server, ddos fortnite, ddos from iphone, ddos facebook, ddos fortnite server, ddos fivem, ddos free tool, ddos ghost data, ddos gta 5, ddos gta, ddos gaming, ddos game servers, ddos glaive, ddos gta online, ddos github, ddos hack, ddos how to, ddos hacking song, ddos hacker, ddos hypixel, ddos hping3, ddos home router, ddos hammer, ddos in effect, ddos i_o, ddos internet attack, ddos ip address, ddos in kali linux, ddos is back, ddos in python, ddos in valorant, i does, i doesn%t matter, i does what i wish to, i doesn%t matter the rock, i does try to make you happy, i doesn%t, i does do it like a boss machel montano, i doesn%t matter how old i am, ddos jail, ddos jedag jedug, ddos jokes, ddos juniper, ddos jak zrobić, jensen ddos, jinn ddos, javascript ddos attack, ddos kali linux, ddos king, ddos kali, ddos karma, ddos kali linux 2021, ddos kali linux github, ddos kahoot, ddos kellogg%s, ddos live, ddos league of legends, ddos ltg, ddos linux, ddos loic, ddos lucid, ddos link, ddos live attack, ddos mitigation, ddos meaning, ddos minecraft server, ddos mitigation techniques, ddos meme, ddos music, ddos multi tool, ddos methods, fivem ddos, ddos nasıl atılır, ddos net, ddos nedir, ddos news, ddos neighbors wifi, ddos network attack, ddos nfl mateja, ddos nasıl atılır discord, ddos overwatch, ddos on xbox, ddos on phone, ddos osrs, ddos overwatch ps4, ddos on kali, ddos on ps4, ddos on android, i_o ddos, o que é ddos ataque, o que e ddos, ddos protection, ddos panel free, ddos panel source, ddos python, ddos panel source code, ddos ps4, ddos protection by cloudflare, ddos questions, ddos quick guide, ddos que es, mac quayle ddos hacking song, comment ddos quelqu%un, ddos quelqu%un sur discord, ddos roblox server, ddos rainbow six siege, ddos roblox attack 2021, ddos ripper, ddos roblox script, ddos rocket league, ddos rust, ddos script, ddos school, ddos song, ddos script python, ddos software, ddos scammer, ddos school wifi, ddos someone, ddos tutorial, ddos titanfall 2, ddos tf2, ddos tool python, ddos tool free, ddos termux, ddos tool download, ddos using kali, ddos using python, ddos using ip, ddos using termux, ddos using cmd, ddos urban, ddos udp flood, ddos using a ldap reflection attack, how do u ddos someone, ddos vs dos, ddos valorant, ddos voip, ddos vs vpn, ddos vs dox, ddos vps, ddos vpn, ddos virus, gta v dos, ddos websites free, ddos website, ddos with kali, ddos with python, ddos warzone, ddos wifi, ddos with cmd, ddos wifi router, ddos w notatniku, jak ddosowac w minecraft, jak ddosowac w cmd, ddos w cmd, ddos xbox, ddos xbox 2021, ddos xbox one, ddos xbox live, ddos xbox gamertag, ddos xbox booter, ddos xbox party, xqc ddos, project x ddos, ddos x jedag jedug, ddos yiyen yayıncı, ddos yourself, ddos youtube, ddos yesterday, ddos yourself test, ddos your own network, ddos you, ddos your friends, dos y dos, ataque dos y ddos, ddos zoom meeting, ddos zoom, ddos zombie, ddos zombie nets, ddos zombie attack, ddos vent, ddos in effect xenoblade, ddos attack on zoom meeting, jak z ddosować kogos, ddos 127.0.0.1, ddos 101, ddos windows 10, ddos cs 1.6 server, titanfall 1 ddos, ddos tool windows 10, cách ddos 1 trang web, ddos cs 1.6, ddos 2021, ddos 2016, ddos 2019, 2b2t ddos, tf2 ddos 2021, dbd ddos 2021, ddos attack 2021, titanfall 2 ddos, titanfall 2 ddos update, titanfall 2 ddos attack, destiny 2 ddos, titanfall 2 ddos is back, slavehack 2 ddos, titanfall 2 ddos dlc, titanfall 2 ddos lore, ddos 33, teamspeak 3 ddos attack, teamspeak 3 ddos, ddos 403, ddos layer 4, ddos playstation 4, ddos gtps 4, ddos left 4 dead 2, layer 4 ddos script, | https://github.com/netflixfurimmer/Multi_Panel | 1 | 0| 
+| 20220517T11:51:57Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 28 | 14| 
+| 20220517T11:24:41Z | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | 0 | 0| 
+| 20220517T11:07:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 403 | 118| 
+| 20220517T10:55:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2749 | 338| 
+| 20220517T09:23:05Z | Exploitation d’une base de données | https://github.com/felixmielcarek/sae-2.04 | 3 | 0| 
+| 20220517T09:14:25Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2906 | 416| 
+| 20220517T08:03:58Z | This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎 | https://github.com/alvin-tosh/Cybersec101 | 1 | 1| 
+| 20220517T07:35:17Z | Null | https://github.com/m-kutnik/burgerking-exploit | 0 | 0| 
+| 20220517T05:38:17Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 758 | 162| 
+| 20220517T03:24:54Z | CVE-2022-1388 | https://github.com/getdrive/F5-BIG-IP-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220517T01:58:56Z | I am releasing this due to stress and the Horrible owner that NightmareZ is. | https://github.com/somesadkidontop/SenationBackdoor-2.0.0 | 2 | 0| 
-| 20220517T00:38:59Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 942 | 98| 
+| 20220517T11:57:29Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 943 | 99| 
+| 20220517T11:53:00Z | Null | https://github.com/byteyok/Macro-Word-BackDoor | 0 | 0| 
+| 20220517T11:45:06Z | Simple to complex backdoor codes | https://github.com/ringwormGO-organization/doorfact | 3 | 2| 
+| 20220517T10:04:16Z | I am releasing this due to stress and the Horrible owner that NightmareZ is. | https://github.com/somesadkidontop/SenationBackdoor-2.0.0 | 5 | 1| 
+| 20220517T09:42:56Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 41 | 7| 
+| 20220517T04:22:11Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 17 | 5| 
 | 20220516T15:33:10Z | Null | https://github.com/Richard-Tang/JarBackdoor2CS | 6 | 0| 
 | 20220516T15:05:28Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 45 | 10| 
 | 20220516T11:30:30Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
 | 20220516T07:08:30Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 0 | 0| 
-| 20220516T06:41:37Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 532 | 189| 
-| 20220516T06:01:42Z | Coyote is a standalone C# post-exploitation implant for maintaining access to compromised Windows infrastructure during red team engagements. | https://github.com/TartarusLabs/Coyote | 12 | 0| 
-| 20220516T05:21:57Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 17 | 4| 
-| 20220516T03:33:29Z | semantic backdoor | https://github.com/sunbing7/sbd | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220517T10:53:17Z | Learning HTML and CSS and Git | https://github.com/apprehensive-pleco/fuzzy-carnival | 0 | 0| 
+| 20220517T09:48:30Z | Null | https://github.com/ahmedkm2000/fuzzyAHP-fuzzyTopsis-frontend | 0 | 0| 
+| 20220517T09:24:34Z | Neuron assign | https://github.com/ajay-2958/fuzzy-octo-memory | 0 | 0| 
+| 20220517T07:45:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 833 | 95| 
+| 20220517T07:06:52Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1306 | 178| 
+| 20220517T05:24:46Z | Fuzzes bianry files that take input from std_out | https://github.com/jiyo4476/BinaryFuzzer | 0 | 0| 
 | 20220517T01:01:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7325 | 1580| 
 | 20220517T01:00:45Z | Null | https://github.com/brunomourapaz/FuzzyNetClass | 0 | 0| 
 | 20220516T22:31:04Z | Null | https://github.com/arbitraryrw/json-fuzzer | 0 | 0| 
 | 20220516T20:54:22Z | Null | https://github.com/tmsp-cg/fuzzy-octo-parakeet | 0 | 0| 
-| 20220516T20:09:05Z | Null | https://github.com/Aszaychik/firstFuzzyPython | 0 | 0| 
-| 20220516T16:04:34Z | A generic seed scheduler for fuzzers(LibFuzzer and AFL) and concolic execution engine(qsym). | https://github.com/Dongdongshe/K-Scheduler | 54 | 7| 
-| 20220516T12:56:36Z | Null | https://github.com/syedafazilathjahaa/FuzzGoat_AFL | 0 | 0| 
-| 20220516T12:40:40Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1303 | 178| 
-| 20220516T11:08:23Z | Null | https://github.com/mezermize/fuzzyman | 0 | 0| 
-| 20220516T09:26:43Z | Fuzzy System for a flight weather alert system | https://github.com/AlohaGodfrey/Fuzzy-Flight-System | 0 | 0| 
 
 
 
