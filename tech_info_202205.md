@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T23:45:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6143 | 225| 
+| 20220517T01:06:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6144 | 225| 
 | 20220516T13:56:38Z | Inexpensive cutter for Mobile Outfitters | https://github.com/AllenDatagraph/Kleenex-Cutter | 0 | 0| 
 | 20220516T09:57:15Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 243 | 40| 
 | 20220516T06:21:02Z | Null | https://github.com/JiuTang22/Klee | 0 | 0| 
@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220517T00:40:50Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 3 | 1| 
+| 20220517T01:07:37Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 4 | 1| 
 | 20220517T00:23:41Z | Домашнее задание №2 по крусу эксплуатация РКТ | https://github.com/StudLabs/exploit_RST | 0 | 0| 
 | 20220516T23:40:24Z | The NASA Protocol Exploits Employee Handbook | https://github.com/NASAProtocolExploits/handbook | 0 | 0| 
 | 20220516T23:27:26Z | a poptropica exploit | https://github.com/saa938/Beat-em-all | 0 | 0| 
