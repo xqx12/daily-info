@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220517T00:23:41Z | Домашнее задание №2 по крусу эксплуатация РКТ | https://github.com/StudLabs/exploit_RST | 0 | 0| 
 | 20220517T00:20:17Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 2 | 0| 
 | 20220516T23:40:24Z | The NASA Protocol Exploits Employee Handbook | https://github.com/NASAProtocolExploits/handbook | 0 | 0| 
 | 20220516T23:27:26Z | a poptropica exploit | https://github.com/saa938/Beat-em-all | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220516T22:18:10Z | This tool is meant for cyber  security | https://github.com/babucarr32/EasyExploit | 0 | 0| 
 | 20220516T21:11:21Z | Some simple php tools to use as I explore exploitation | https://github.com/M0NWY/PHP-Tools | 0 | 0| 
 | 20220516T20:57:45Z | This repository contains the programs I wrote while studying the book: Hacking - The Art of Exploitation 3rd Edition and to understand (by implementing) the internal structure of operating systems. | https://github.com/akaAbdullahMateen/system-interals | 0 | 0| 
-| 20220516T14:51:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11479 | 1967| 
 
 
 # backdoor on Github 推荐
