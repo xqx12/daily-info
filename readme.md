@@ -78,7 +78,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T23:39:26Z | I am releasing this due to stress and the Horrible owner that NightmareZ is. | https://github.com/somesadkidontop/SenationBackdoor-2.0.0 | 0 | 0| 
 | 20220516T15:33:10Z | Null | https://github.com/Richard-Tang/JarBackdoor2CS | 6 | 0| 
 | 20220516T15:05:28Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 45 | 10| 
 | 20220516T11:30:30Z | Simple python script to exploit VsFTPd 2.3.4 Backdoor Command Execution (CVE-2011-2523) | https://github.com/Prestaa/vsftpd-2.3.4 | 1 | 0| 
@@ -93,12 +92,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T20:41:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2853 | 414| 
 | 20220516T09:57:17Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 33 | 19| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220516T15:21:57Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 7 | 1| 
 | 20220516T07:26:58Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 2 | 0| 
 
 
