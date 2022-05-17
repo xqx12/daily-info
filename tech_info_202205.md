@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220517T00:06:57Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
 | 20220516T22:32:28Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
 | 20220516T17:56:03Z | cve-2022-21907 | Multithread Golang application | https://github.com/iveresk/cve-2022-21907 | | 
 | 20220516T16:15:52Z | CVE-2022-30006 | [Reserved for CVE-2022-30006] | https://github.com/ComparedArray/printix-CVE-2022-30006 | | 
@@ -55,7 +56,6 @@
 | 20220516T11:57:42Z | cve-2021-21972 | Null | https://github.com/user16-et/cve-2021-21972_PoC | | 
 | 20220516T11:08:46Z | CVE-2022-26923 | The vulnerability allowed a low-privileged user to escalate privileges to domain administrator in a default Active Directory environment with the Active Directory Certificate Services (AD CS) server role installed. | https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services | | 
 | 20220516T09:15:43Z | CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | | 
-| 20220516T08:33:04Z | CVE-2022-1388 | PoC for CVE-2022-1388_F5_BIG-IP | https://github.com/sherlocksecurity/CVE-2022-1388-Exploit-POC | | 
 
 
 # klee on Github 推荐
