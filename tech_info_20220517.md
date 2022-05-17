@@ -48,7 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220517T11:51:57Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 28 | 14| 
+| 20220517T12:17:08Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/DiscordDataGrabber | 7 | 1| 
+| 20220517T12:14:52Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 29 | 14| 
 | 20220517T11:24:41Z | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | 0 | 0| 
 | 20220517T11:07:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 403 | 118| 
 | 20220517T10:55:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2749 | 338| 
@@ -57,12 +58,12 @@
 | 20220517T08:03:58Z | This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎 | https://github.com/alvin-tosh/Cybersec101 | 1 | 1| 
 | 20220517T07:35:17Z | Null | https://github.com/m-kutnik/burgerking-exploit | 0 | 0| 
 | 20220517T05:38:17Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 758 | 162| 
-| 20220517T03:24:54Z | CVE-2022-1388 | https://github.com/getdrive/F5-BIG-IP-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220517T12:15:05Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 44 | 10| 
 | 20220517T11:57:29Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 943 | 99| 
 | 20220517T11:53:00Z | Null | https://github.com/byteyok/Macro-Word-BackDoor | 0 | 0| 
 | 20220517T11:45:06Z | Simple to complex backdoor codes | https://github.com/ringwormGO-organization/doorfact | 3 | 2| 
