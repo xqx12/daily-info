@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220517T01:00:45Z | Null | https://github.com/brunomourapaz/FuzzyNetClass | 0 | 0| 
 | 20220516T22:31:04Z | Null | https://github.com/arbitraryrw/json-fuzzer | 0 | 0| 
 | 20220516T20:54:22Z | Null | https://github.com/tmsp-cg/fuzzy-octo-parakeet | 0 | 0| 
 | 20220516T20:09:05Z | Null | https://github.com/Aszaychik/firstFuzzyPython | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220516T12:08:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7324 | 1580| 
 | 20220516T11:08:23Z | Null | https://github.com/mezermize/fuzzyman | 0 | 0| 
 | 20220516T09:26:43Z | Fuzzy System for a flight weather alert system | https://github.com/AlohaGodfrey/Fuzzy-Flight-System | 0 | 0| 
-| 20220516T09:15:03Z | Null | https://github.com/JOpFuzzer/JOpFuzzer | 0 | 0| 
 
 
 
