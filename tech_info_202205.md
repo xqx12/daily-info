@@ -90,7 +90,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220517T12:17:08Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/DiscordDataGrabber | 7 | 1| 
-| 20220517T12:14:52Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 29 | 14| 
+| 20220517T12:14:52Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 29 | 15| 
 | 20220517T11:24:41Z | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | 0 | 0| 
 | 20220517T11:07:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 403 | 118| 
 | 20220517T10:55:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2749 | 338| 
