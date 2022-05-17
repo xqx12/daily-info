@@ -63,7 +63,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220516T23:49:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 0 | 0| 
 | 20220516T23:40:24Z | The NASA Protocol Exploits Employee Handbook | https://github.com/NASAProtocolExploits/handbook | 0 | 0| 
 | 20220516T23:27:26Z | a poptropica exploit | https://github.com/saa938/Beat-em-all | 0 | 0| 
 | 20220516T23:27:25Z | another poptropica exploit  | https://github.com/saa938/Card-Collector | 0 | 0| 
@@ -73,6 +72,7 @@
 | 20220516T21:11:21Z | Some simple php tools to use as I explore exploitation | https://github.com/M0NWY/PHP-Tools | 0 | 0| 
 | 20220516T20:57:45Z | This repository contains the programs I wrote while studying the book: Hacking - The Art of Exploitation 3rd Edition and to understand (by implementing) the internal structure of operating systems. | https://github.com/akaAbdullahMateen/system-interals | 0 | 0| 
 | 20220516T14:51:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11479 | 1967| 
+| 20220516T12:56:20Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 147 | 9| 
 
 
 # backdoor on Github 推荐
