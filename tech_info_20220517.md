@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220517T12:32:57Z | Awesome Splunk SPL hunt queries that can be used to detect the latest vulnerability exploitation attempts & subsequent compromise | https://github.com/west-wind/Threat-Hunting-With-Splunk | 1 | 0| 
 | 20220517T12:17:08Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/DiscordDataGrabber | 7 | 1| 
 | 20220517T12:14:52Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 29 | 16| 
 | 20220517T11:24:41Z | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20220517T09:14:25Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2906 | 416| 
 | 20220517T08:03:58Z | This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎 | https://github.com/alvin-tosh/Cybersec101 | 1 | 1| 
 | 20220517T07:35:17Z | Null | https://github.com/m-kutnik/burgerking-exploit | 0 | 0| 
-| 20220517T05:38:17Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 758 | 162| 
 
 
 # backdoor on Github 推荐
