@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220518T01:31:46Z | CVE-2022-24611 | Details regarding the Z-Wave S0-No-More attack | https://github.com/ITSecLab-HSEL/CVE-2022-24611 | | 
 | 20220517T23:42:12Z | CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | | 
 | 20220517T19:46:36Z | cve-2022-26809 | Detects attempts and successful exploitation of CVE-2022-26809 | https://github.com/corelight/cve-2022-26809 | | 
 | 20220517T19:45:53Z | CVE-2022-1597 |  The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks | https://github.com/V35HR4J/CVE-2022-1597 | | 
@@ -55,7 +56,6 @@
 | 20220517T15:51:19Z | CVE-2022-1388 | On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated  | https://github.com/ExploitPwner/CVE-2022-1388-BIG-IP-Mass-Exploit | | 
 | 20220517T15:23:12Z | CVE-2021-41946 | Null | https://github.com/afaq1337/CVE-2021-41946 | | 
 | 20220517T13:59:09Z | CVE-2021-40822 | Null | https://github.com/phor3nsic/CVE-2021-40822 | | 
-| 20220517T11:55:09Z | CVE-2022-24611 | Details regarding the Z-Wave S0-No-More attack | https://github.com/ITSecLab-HSEL/CVE-2022-24611 | | 
 
 
 # klee on Github 推荐
