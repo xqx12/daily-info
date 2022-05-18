@@ -44,7 +44,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220517T21:30:41Z | Config files for my GitHub profile. | https://github.com/kleeuy/kleeuy | 0 | 0| 
-| 20220517T19:08:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6157 | 225| 
 
 
 # s2e on Github 推荐
