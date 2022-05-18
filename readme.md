@@ -103,8 +103,8 @@
 | 20220517T12:35:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1306 | 178| 
 | 20220517T12:18:45Z | Null | https://github.com/Ariel2400/Fuzzer | 0 | 0| 
 | 20220517T12:05:18Z | Null | https://github.com/RajatWhiz/fuzzy-adventure | 0 | 0| 
+| 20220517T11:54:49Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1204 | 92| 
 | 20220517T10:53:17Z | Learning HTML and CSS and Git | https://github.com/apprehensive-pleco/fuzzy-carnival | 0 | 0| 
-| 20220517T09:48:30Z | Null | https://github.com/ahmedkm2000/fuzzyAHP-fuzzyTopsis-frontend | 0 | 0| 
 
 
 
