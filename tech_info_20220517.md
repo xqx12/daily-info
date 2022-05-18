@@ -70,7 +70,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220517T22:27:22Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 955 | 100| 
 | 20220517T20:53:49Z | I am releasing this due to stress and the Horrible owner that NightmareZ is. | https://github.com/somesadkidontop/SenationBackdoor-2.0.0 | 6 | 1| 
 | 20220517T15:37:21Z | Null | https://github.com/c1b3r-p3d1a/reverse_tcp_server-backdoor | 0 | 0| 
 | 20220517T12:15:05Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 44 | 10| 
