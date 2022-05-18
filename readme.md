@@ -71,11 +71,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220517T22:27:22Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 955 | 100| 
+| 20220517T20:53:49Z | I am releasing this due to stress and the Horrible owner that NightmareZ is. | https://github.com/somesadkidontop/SenationBackdoor-2.0.0 | 6 | 1| 
+| 20220517T15:37:21Z | Null | https://github.com/c1b3r-p3d1a/reverse_tcp_server-backdoor | 0 | 0| 
 | 20220517T12:15:05Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 44 | 10| 
-| 20220517T11:57:29Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 943 | 99| 
 | 20220517T11:53:00Z | Null | https://github.com/byteyok/Macro-Word-BackDoor | 0 | 0| 
 | 20220517T11:45:06Z | Simple to complex backdoor codes | https://github.com/ringwormGO-organization/doorfact | 3 | 2| 
-| 20220517T10:04:16Z | I am releasing this due to stress and the Horrible owner that NightmareZ is. | https://github.com/somesadkidontop/SenationBackdoor-2.0.0 | 5 | 1| 
 | 20220517T09:42:56Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 41 | 7| 
 | 20220517T04:22:11Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 17 | 5| 
 
@@ -96,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220517T21:50:16Z | Null | https://github.com/evelyntorress/fuzzy-engine | 0 | 0| 
+| 20220517T21:05:41Z | Null | https://github.com/ALPO9/Fuzzy-System | 1 | 0| 
+| 20220517T20:54:38Z | Null | https://github.com/amirg00/Fuzzing-Detector | 0 | 0| 
+| 20220517T20:33:09Z | The effect of the different and related factors, such as temperature and pressure, on the percentage of carbon dioxide in a specific fizzy drink was determined via using fuzzy methods | https://github.com/cbnesn/Determining-the-Percentage-of-Carbondioxide-in-a-Specific-Fizzy-Drink-with-Fuzzy-Logic | 0 | 0| 
+| 20220517T19:25:21Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 180 | 25| 
 | 20220517T12:35:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1306 | 178| 
 | 20220517T12:18:45Z | Null | https://github.com/Ariel2400/Fuzzer | 0 | 0| 
 | 20220517T12:05:18Z | Null | https://github.com/RajatWhiz/fuzzy-adventure | 0 | 0| 
 | 20220517T10:53:17Z | Learning HTML and CSS and Git | https://github.com/apprehensive-pleco/fuzzy-carnival | 0 | 0| 
 | 20220517T09:48:30Z | Null | https://github.com/ahmedkm2000/fuzzyAHP-fuzzyTopsis-frontend | 0 | 0| 
-| 20220517T09:24:34Z | Neuron assign | https://github.com/ajay-2958/fuzzy-octo-memory | 0 | 0| 
-| 20220517T07:45:49Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 833 | 95| 
-| 20220517T05:24:46Z | Fuzzes bianry files that take input from std_out | https://github.com/jiyo4476/BinaryFuzzer | 0 | 0| 
-| 20220517T01:01:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7325 | 1580| 
-| 20220517T01:00:45Z | Null | https://github.com/brunomourapaz/FuzzyNetClass | 0 | 0| 
 
 
 
