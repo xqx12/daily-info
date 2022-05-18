@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220518T00:19:20Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 0 | 0| 
+| 20220518T00:18:24Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | 0 | 0| 
 | 20220517T23:42:12Z | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | 0 | 0| 
 | 20220517T22:20:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 44 | 8| 
 | 20220517T22:14:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11485 | 1966| 
@@ -97,8 +99,6 @@
 | 20220517T21:22:04Z | Advanced Anti-Exploitation Library made in C# and C++ that protects Froxen Messenger. | https://github.com/FroxenProject/FroxenAntiHackingEngine | 0 | 0| 
 | 20220517T20:29:40Z | Null | https://github.com/dr-raypc/Exploits | 0 | 0| 
 | 20220517T18:37:04Z | roblox exploiting monorepo | https://github.com/trollarproducts/roblox-exploiting | 0 | 0| 
-| 20220517T12:46:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 30 | 16| 
-| 20220517T12:32:57Z | Awesome Splunk SPL hunt queries that can be used to detect the latest vulnerability exploitation attempts & subsequent compromise | https://github.com/west-wind/Threat-Hunting-With-Splunk | 1 | 0| 
 
 
 # backdoor on Github 推荐
