@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220518T00:20:28Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | 0 | 0| 
 | 20220518T00:19:20Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 0 | 0| 
 | 20220518T00:18:24Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | 0 | 0| 
 | 20220517T23:42:12Z | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220517T21:49:55Z | Mhy Exp  (exploit signed driver) | https://github.com/HadesW/mhy_exp | 0 | 0| 
 | 20220517T21:22:04Z | Advanced Anti-Exploitation Library made in C# and C++ that protects Froxen Messenger. | https://github.com/FroxenProject/FroxenAntiHackingEngine | 0 | 0| 
 | 20220517T20:29:40Z | Null | https://github.com/dr-raypc/Exploits | 0 | 0| 
-| 20220517T18:37:04Z | roblox exploiting monorepo | https://github.com/trollarproducts/roblox-exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
