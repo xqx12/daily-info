@@ -60,12 +60,12 @@
 | 20220517T22:20:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 44 | 8| 
 | 20220517T22:14:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11485 | 1966| 
 | 20220517T21:58:41Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5375 | 1015| 
-| 20220517T21:49:55Z | Mhy Exp  (exploit signed driver) | https://github.com/HadesW/mhy_exp | 0 | 0| 
 | 20220517T21:22:04Z | Advanced Anti-Exploitation Library made in C# and C++ that protects Froxen Messenger. | https://github.com/FroxenProject/FroxenAntiHackingEngine | 0 | 0| 
 | 20220517T20:29:40Z | Null | https://github.com/dr-raypc/Exploits | 0 | 0| 
 | 20220517T18:37:04Z | roblox exploiting monorepo | https://github.com/trollarproducts/roblox-exploiting | 0 | 0| 
 | 20220517T12:46:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 30 | 16| 
 | 20220517T12:32:57Z | Awesome Splunk SPL hunt queries that can be used to detect the latest vulnerability exploitation attempts & subsequent compromise | https://github.com/west-wind/Threat-Hunting-With-Splunk | 1 | 0| 
+| 20220517T12:17:08Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/DiscordDataGrabber | 7 | 1| 
 
 
 # backdoor on Github 推荐
