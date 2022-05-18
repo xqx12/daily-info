@@ -15,6 +15,8 @@
 | 20220517 | 信捷 PLC 编程工具被发现工程文件解析导致的代码执行漏洞 | http://claroty.com/2022/05/11/blog-research-from-project-file-to-code-execution-exploiting-vulnerabilities-in-xinje-plc-program-tool/| 
 | 20220517 | Malcolm - 网络流量分析工具 | https://github.com/idaholab/Malcolm| 
 | 20220517 | Tetragon - 基于内核层 eBPF 实现的运行时进程防护工具 | http://isovalent.com/blog/post/2022-05-16-tetragon| 
+| 20220517 | HOW DO YOU ACTUALLY FIND BUGS?（译文） | https://tttang.com/archive/1597/| 
+| 20220517 | Rari Capital 攻击事件的分析和复现 | http://paper.seebug.org/1903/| 
 
 
 # 安全维基 推荐
@@ -26,17 +28,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220517T23:42:12Z | CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | | 
+| 20220517T19:46:36Z | cve-2022-26809 | Detects attempts and successful exploitation of CVE-2022-26809 | https://github.com/corelight/cve-2022-26809 | | 
+| 20220517T19:45:53Z | CVE-2022-1597 |  The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks | https://github.com/V35HR4J/CVE-2022-1597 | | 
+| 20220517T16:16:28Z | CVE-2022-30525 | Zyxel multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2022-30525-Zyxel-Mass-Exploiter | | 
+| 20220517T15:54:57Z | CVE-2022- | TOTOLINK A800R/A810R/A830R/A950RG/A3000RU/A3100R setUpgradeFW FileName command injection | https://github.com/ExploitPwner/Totolink-CVE-2022-Exploits | | 
+| 20220517T15:53:25Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/ExploitPwner/CVE-2022-26809-RCE-POC | | 
+| 20220517T15:51:19Z | CVE-2022-1388 | On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated  | https://github.com/ExploitPwner/CVE-2022-1388-BIG-IP-Mass-Exploit | | 
+| 20220517T15:23:12Z | CVE-2021-41946 | Null | https://github.com/afaq1337/CVE-2021-41946 | | 
+| 20220517T13:59:09Z | CVE-2021-40822 | Null | https://github.com/phor3nsic/CVE-2021-40822 | | 
 | 20220517T11:55:09Z | CVE-2022-24611 | Details regarding the Z-Wave S0-No-More attack | https://github.com/ITSecLab-HSEL/CVE-2022-24611 | | 
-| 20220517T11:38:31Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
-| 20220517T10:51:39Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/aancw/CVE-2022-1388-rs | | 
-| 20220517T03:10:49Z | CVE-2022-1598 |  The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks | https://github.com/V35HR4J/CVE-2022-1598 | | 
-| 20220517T00:06:57Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220517T10:58:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6153 | 225| 
+| 20220517T21:30:41Z | Config files for my GitHub profile. | https://github.com/kleeuy/kleeuy | 0 | 0| 
+| 20220517T19:08:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6157 | 225| 
 
 
 # s2e on Github 推荐
@@ -48,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220517T23:42:12Z | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | 0 | 0| 
+| 20220517T22:20:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 44 | 8| 
+| 20220517T22:14:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11485 | 1966| 
+| 20220517T21:58:41Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5375 | 1015| 
+| 20220517T21:49:55Z | Mhy Exp  (exploit signed driver) | https://github.com/HadesW/mhy_exp | 0 | 0| 
+| 20220517T21:22:04Z | Advanced Anti-Exploitation Library made in C# and C++ that protects Froxen Messenger. | https://github.com/FroxenProject/FroxenAntiHackingEngine | 0 | 0| 
+| 20220517T20:29:40Z | Null | https://github.com/dr-raypc/Exploits | 0 | 0| 
+| 20220517T18:37:04Z | roblox exploiting monorepo | https://github.com/trollarproducts/roblox-exploiting | 0 | 0| 
+| 20220517T12:46:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 30 | 16| 
 | 20220517T12:32:57Z | Awesome Splunk SPL hunt queries that can be used to detect the latest vulnerability exploitation attempts & subsequent compromise | https://github.com/west-wind/Threat-Hunting-With-Splunk | 1 | 0| 
-| 20220517T12:17:08Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/DiscordDataGrabber | 7 | 1| 
-| 20220517T12:14:52Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 29 | 16| 
-| 20220517T11:24:41Z | Vunlerability and crisis managment (arbitrary code exploit) | https://github.com/hugohouri/ace1 | 0 | 0| 
-| 20220517T11:07:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 403 | 118| 
-| 20220517T10:55:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2749 | 338| 
-| 20220517T09:23:05Z | Exploitation d’une base de données | https://github.com/felixmielcarek/sae-2.04 | 3 | 0| 
-| 20220517T09:14:25Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2906 | 416| 
-| 20220517T08:03:58Z | This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎 | https://github.com/alvin-tosh/Cybersec101 | 1 | 1| 
-| 20220517T07:35:17Z | Null | https://github.com/m-kutnik/burgerking-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
