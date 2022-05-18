@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220518 | Bareflank Hypervisor - 一款轻量级的 Hypervisor SDK，用于快速在 64 位机器上快速构建 hypervisor | https://github.com/Bareflank/hypervisor| 
+| 20220518 | Hunting and Exploiting Recursive MMIO Flaws in QEMU/KVM，来自 BlackHat Asia 会议 | https://i.blackhat.com/Asia-22/Thursday-Materials/AS-22-Qiuhao-Recursive-MMIO-final.pdf| 
+| 20220518 | Phishpedia - 利用深度学习的方案识别钓鱼 Web 页面 | https://github.com/lindsey98/Phishpedia| 
+| 20220518 | 如何写一个简单的 Linux Rootkit | https://0x00sec.org/t/writing-a-simple-rootkit-for-linux/29034| 
+| 20220518 | Hacking Swagger-UI - from XSS to account takeovers | https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/| 
+| 20220518 | Stealing Google Drive OAuth tokens from Dropbox | http://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/| 
+| 20220518 | rellic-xref - Rellic 是个将 LLVM Module 反编译为 C 代码的工具，rellic-xref 为 Rellic 提供了交互式使用的能力 | http://blog.trailofbits.com/2022/05/17/interactive-decompilation-with-rellic-xref/| 
 | 20220517 | macOS 平台 UpdateAgent 恶意样本的分析 | https://www.jamf.com/blog/updateagent-adapts-again/| 
 | 20220517 | SpiritSwap 发布公告，有攻击者社工 GoDaddy 员工修改域名配置导致 SpiritSwap DNS 被劫持 | https://spiritswap.medium.com/post-mortem-on-this-weekends-dns-event-cb61c11f5c2f| 
 | 20220517 | HP ProBook G4 650 笔记本固件被发现 SMM Callout 提权漏洞 | https://nstarke.github.io/uefi/smm/2022/05/10/smm-callout-in-hp-products.html| 
@@ -19,49 +26,42 @@
 | 20220517 | Rari Capital 攻击事件的分析和复现 | http://paper.seebug.org/1903/| 
 | 20220516 | Android 的 RCE 攻击面以及动态二进制 Fuzzing，来自 BlackHat Asia 会议 | https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-He-The-Hidden-RCE-Surfaces-That-Control-The-Droids.pdf| 
 | 20220516 | Bypass CFG in Chrome | https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Zhang-Bypass-CFG-In-Chrome.pdf| 
-| 20220516 | iBoot Firebloom 逆向 Part 2 | https://saaramar.github.io/iBoot_firebloom_type_desc/| 
-| 20220516 | 为保证 iPhone 关机之后可用 NFC、Find My 而实现的低电量模式引入的攻击面研究（Paper） | https://arxiv.org/abs/2205.06114| 
-| 20220516 | HackSys Extreme Vulnerable Driver 3 - Stack Overflow + SMEP Bypass | http://linxz.tech/post/hevd/2022-05-14-hevd3-stackbufferoverflow/| 
-| 20220516 | 有研究员发现一个 Open 10 年的 Python 段错误 issue 可以被成功利用实现代码执行，影响所有 Python 3 版本 | http://pwn.win/2022/05/11/python-buffered-reader.html| 
-| 20220516 | 攻击者禁用驱动签名方法以及 Windows 如何基于虚拟化（VBS）和 Hypervisor（HVCI）实现防护 | http://blog.xpnsec.com/gcioptions-in-a-virtualized-world/| 
-| 20220516 | 深入浅出 SSL/TLS 协议 | http://evilpan.com/2022/05/15/tls-basics/| 
-| 20220516 | Exploiting RBCD Using a Normal User Account | https://www.tiraniddo.dev/2022/05/exploiting-rbcd-using-normal-user.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220518 | SSTI漏洞基础解析 | https://www.sec-in.com/article/1678| 
+| 20220518 | 微信小程序反编译 | https://mp.weixin.qq.com/s/OQWU0wSAUhaM6QaaT6-CXA| 
+| 20220518 | 一种基于Graph Kernel的API使用示例选择方法 | https://mp.weixin.qq.com/s/ys9JsRIb1OSXEKMcCaoDpw| 
+| 20220518 | 来自五眼联盟的全球最佳网络安全指导意见 | https://mp.weixin.qq.com/s/wANFsfKQ8HxxSMPMSOHxiA| 
+| 20220518 | 快速上手云原生安全平台 NeuVector | https://mp.weixin.qq.com/s/aXSA_opN-rV68rnrPO73PA| 
+| 20220518 | Cobalt Strike 分析：CS元数据编码和解码 | https://mp.weixin.qq.com/s/lXpYU9VhZd4nw2YjeUK4rQ| 
+| 20220518 | 2021年十大网络安全漏洞&“Lazarus”组织介绍 | https://mp.weixin.qq.com/s/dzvqIXoXdSd5BLJNb6kW3w| 
 | 20220517 | 情报的三大核心、四大要素、一个关键问题 | https://zhuanlan.zhihu.com/p/515570133| 
 | 20220516 | MySQL安全配置基线 | https://www.sec-in.com/article/1687| 
 | 20220516 | 部分终端安全防护软件的 DNSAML 服务存在缺陷 | https://mp.weixin.qq.com/s/EscMgvdA5u97eZHImhvqMA| 
-| 20220516 | 网络安全创业从0到1-演讲实录 | https://mp.weixin.qq.com/s/0uTkCQHtCySO9ydEjUMU8g| 
-| 20220516 | 透过俄乌冲突谈对“网络无国界”的再认识 | https://mp.weixin.qq.com/s/sLNVFiJPQOnoytnomubjyQ| 
-| 20220516 | 从网空测绘看俄乌战争态势--及对我们的启示 | https://mp.weixin.qq.com/s/HLvydDDhTfxK-xWsGEuCpA| 
-| 20220516 | SecWiki周刊（第428期) | https://www.sec-wiki.com/weekly/428| 
-| 20220516 | （译）SLSA如何落地 | https://zhuanlan.zhihu.com/p/515363693| 
-| 20220514 | CVE-2022-21907 http协议远程代码执行漏洞分析总结 | http://noahblog.360.cn/cve-2022-21907-httpxie-yi-yuan-cheng-dai-ma-zhi-xing-lou-dong-fen-xi-zong-jie/| 
-| 20220514 | CVE-2021-34535 RDP客户端漏洞分析 | http://noahblog.360.cn/cve-2021-34535-rdpke-hu-duan-lou-dong-fen-xi/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220518T10:13:23Z | 未知编号 | Null | https://github.com/litios/cve_2021_3572-old-pip | | 
+| 20220518T09:18:36Z | CVE-2021-46417 | Franklin Fueling Systems Colibri Controller Module - Local File Inclusion | https://github.com/Henry4E36/CVE-2021-46417 | | 
+| 20220518T09:16:27Z | CVE-2022-24734 | MyBB 1.8.29 - Remote Code Execution | https://github.com/lavclash75/mybb-CVE-2022-24734 | | 
+| 20220518T08:46:17Z | CVE-2022-1388 | Null | https://github.com/vesperp/CVE-2022-1388-F5-BIG-IP | | 
+| 20220518T02:04:00Z | CVE-2020-4464 | Null | https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450 | | 
 | 20220518T01:40:32Z | cve-2022-26809 | Detects attempts and successful exploitation of CVE-2022-26809 | https://github.com/corelight/cve-2022-26809 | | 
 | 20220518T01:31:46Z | CVE-2022-24611 | Details regarding the Z-Wave S0-No-More attack | https://github.com/ITSecLab-HSEL/CVE-2022-24611 | | 
 | 20220517T23:42:12Z | CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | | 
 | 20220517T19:45:53Z | CVE-2022-1597 |  The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks | https://github.com/V35HR4J/CVE-2022-1597 | | 
 | 20220517T16:16:28Z | CVE-2022-30525 | Zyxel multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2022-30525-Zyxel-Mass-Exploiter | | 
-| 20220517T15:54:57Z | CVE-2022- | TOTOLINK A800R/A810R/A830R/A950RG/A3000RU/A3100R setUpgradeFW FileName command injection | https://github.com/ExploitPwner/Totolink-CVE-2022-Exploits | | 
-| 20220517T15:53:25Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/ExploitPwner/CVE-2022-26809-RCE-POC | | 
-| 20220517T15:51:19Z | CVE-2022-1388 | On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated  | https://github.com/ExploitPwner/CVE-2022-1388-BIG-IP-Mass-Exploit | | 
-| 20220517T15:23:12Z | CVE-2021-41946 | Null | https://github.com/afaq1337/CVE-2021-41946 | | 
-| 20220517T13:59:09Z | CVE-2021-40822 | Null | https://github.com/phor3nsic/CVE-2021-40822 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220518T01:33:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6157 | 225| 
+| 20220518T10:05:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6162 | 225| 
 | 20220517T21:30:41Z | Config files for my GitHub profile. | https://github.com/kleeuy/kleeuy | 0 | 0| 
 | 20220516T13:56:38Z | Inexpensive cutter for Mobile Outfitters | https://github.com/AllenDatagraph/Kleenex-Cutter | 0 | 0| 
 | 20220516T09:57:15Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 243 | 40| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220518T11:52:24Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 302 | 59| 
+| 20220518T11:24:20Z | Config files for my GitHub profile. | https://github.com/learn-exploits/learn-exploits | 1 | 0| 
+| 20220518T10:51:23Z | The Repository contains documents that explains the explotation of CVE-2016-5195 | https://github.com/malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195 | 0 | 0| 
+| 20220518T10:21:40Z | This is a repository made by the author to improve his skill in python exploitation | https://github.com/twseptian/python-exploit-scripts | 1 | 0| 
+| 20220518T10:15:08Z | A Http Easy Dos Attack Tool | https://github.com/Ghalbeyou/Http-Dos-Attack-Tool | 0 | 0| 
+| 20220518T09:20:38Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 201 | 22| 
+| 20220518T09:17:30Z | 🥼 Exploit contract | https://github.com/Astro2020-lovely/Exploit-contract | 1 | 0| 
+| 20220518T08:34:48Z | 🚀 Roblox exploit scripts Dashboard. | https://github.com/jareer12/BloxSafe | 1 | 0| 
+| 20220518T08:27:27Z | A tool for embedding XXE/XML exploits into different filetypes | https://github.com/s2onqi/BuffaloWillz | 0 | 0| 
 | 20220518T01:48:23Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/tilakthimmappa/pyraider | 15 | 0| 
-| 20220518T01:08:14Z | Mhy Exp  (exploit signed driver) | https://github.com/HadesW/mhy_exp | 1 | 0| 
-| 20220518T00:20:28Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | 0 | 0| 
-| 20220518T00:19:20Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 0 | 0| 
-| 20220518T00:18:24Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-c | 0 | 0| 
-| 20220517T23:42:12Z | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | 0 | 0| 
-| 20220517T22:20:04Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 44 | 8| 
-| 20220517T22:14:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11485 | 1966| 
-| 20220517T21:58:41Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5375 | 1015| 
-| 20220517T21:22:04Z | Advanced Anti-Exploitation Library made in C# and C++ that protects Froxen Messenger. | https://github.com/FroxenProject/FroxenAntiHackingEngine | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220518T01:35:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 478 | 90| 
-| 20220518T01:34:18Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 956 | 100| 
+| 20220518T11:31:27Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 957 | 101| 
+| 20220518T09:41:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 479 | 90| 
+| 20220518T07:42:06Z | Pytorch implementation of Backdoor Attack against Speaker Verification | https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification | 11 | 9| 
+| 20220518T06:22:02Z | une backdoor en python/javascript  | https://github.com/nqkoz/backdoor | 2 | 1| 
 | 20220517T20:53:49Z | I am releasing this due to stress and the Horrible owner that NightmareZ is. | https://github.com/somesadkidontop/SenationBackdoor-2.0.0 | 6 | 1| 
 | 20220517T15:37:21Z | Null | https://github.com/c1b3r-p3d1a/reverse_tcp_server-backdoor | 0 | 0| 
 | 20220517T12:15:05Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 44 | 10| 
 | 20220517T11:53:00Z | Null | https://github.com/byteyok/Macro-Word-BackDoor | 0 | 0| 
 | 20220517T11:45:06Z | Simple to complex backdoor codes | https://github.com/ringwormGO-organization/doorfact | 3 | 2| 
 | 20220517T09:42:56Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 41 | 7| 
-| 20220517T04:22:11Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 17 | 5| 
-| 20220516T15:33:10Z | Null | https://github.com/Richard-Tang/JarBackdoor2CS | 6 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220518T10:44:36Z | Self-driving rover that follows a car (with specific license plate number) and maintains a constant distance between the later using fuzzy control | https://github.com/daniazzam/Fuzzy_Controlled_Rover | 0 | 0| 
+| 20220518T09:20:38Z | Null | https://github.com/dm4sec/ANE_Fuzzer | 0 | 0| 
+| 20220518T08:35:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4740 | 491| 
+| 20220518T08:20:45Z | Class Assignment  | https://github.com/Kingswin/CI-Neuro-Fuzzy | 0 | 0| 
+| 20220518T07:53:08Z | to be updated | https://github.com/haramel/l2fuzz | 0 | 0| 
+| 20220518T07:09:48Z | Learning HTML and CSS and Git | https://github.com/apprehensive-pleco/fuzzy-carnival | 0 | 0| 
 | 20220518T01:17:39Z | Null | https://github.com/evelyntorress/fuzzy-engine | 0 | 0| 
 | 20220518T00:50:27Z | Null | https://github.com/rawanshareef/FuzzingSSH | 0 | 0| 
 | 20220517T21:05:41Z | Null | https://github.com/ALPO9/Fuzzy-System | 1 | 0| 
 | 20220517T20:54:38Z | Null | https://github.com/amirg00/Fuzzing-Detector | 0 | 0| 
-| 20220517T20:33:09Z | The effect of the different and related factors, such as temperature and pressure, on the percentage of carbon dioxide in a specific fizzy drink was determined via using fuzzy methods | https://github.com/cbnesn/Determining-the-Percentage-of-Carbondioxide-in-a-Specific-Fizzy-Drink-with-Fuzzy-Logic | 0 | 0| 
-| 20220517T19:25:21Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 180 | 25| 
-| 20220517T17:12:06Z | Null | https://github.com/rawanshareef/Fuzzing | 0 | 0| 
-| 20220517T14:24:05Z | golang fuzzing example. | https://github.com/Ricardio609/go_fuzzing | 0 | 0| 
-| 20220517T12:35:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1306 | 178| 
-| 20220517T12:18:45Z | Null | https://github.com/Ariel2400/Fuzzer | 0 | 0| 
 
 
 
