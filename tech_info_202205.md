@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220518T12:10:11Z | CVE-2022-30525 | zyxel firewall unauthenticated rce mass multi threaded exploit | https://github.com/kuznyJan1972/CVE-2022-30525-mass | | 
 | 20220518T10:13:23Z | 未知编号 | Null | https://github.com/litios/cve_2021_3572-old-pip | | 
 | 20220518T09:18:36Z | CVE-2021-46417 | Franklin Fueling Systems Colibri Controller Module - Local File Inclusion | https://github.com/Henry4E36/CVE-2021-46417 | | 
 | 20220518T09:16:27Z | CVE-2022-24734 | MyBB 1.8.29 - Remote Code Execution | https://github.com/lavclash75/mybb-CVE-2022-24734 | | 
@@ -55,7 +56,6 @@
 | 20220518T01:31:46Z | CVE-2022-24611 | Details regarding the Z-Wave S0-No-More attack | https://github.com/ITSecLab-HSEL/CVE-2022-24611 | | 
 | 20220517T23:42:12Z | CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | | 
 | 20220517T19:45:53Z | CVE-2022-1597 |  The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks | https://github.com/V35HR4J/CVE-2022-1597 | | 
-| 20220517T16:16:28Z | CVE-2022-30525 | Zyxel multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2022-30525-Zyxel-Mass-Exploiter | | 
 
 
 # klee on Github 推荐
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220518T11:52:24Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 302 | 59| 
+| 20220518T12:10:11Z | zyxel firewall unauthenticated rce mass multi threaded exploit | https://github.com/kuznyJan1972/CVE-2022-30525-mass | 0 | 0| 
+| 20220518T12:09:29Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 303 | 59| 
 | 20220518T11:24:20Z | Config files for my GitHub profile. | https://github.com/learn-exploits/learn-exploits | 1 | 0| 
 | 20220518T10:51:23Z | The Repository contains documents that explains the explotation of CVE-2016-5195 | https://github.com/malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195 | 0 | 0| 
+| 20220518T10:32:55Z | A C++ library to use the TcpGecko exploit on your wiiu. | https://github.com/hide-wow/Gecko-cpp | 1 | 0| 
 | 20220518T10:21:40Z | This is a repository made by the author to improve his skill in python exploitation | https://github.com/twseptian/python-exploit-scripts | 1 | 0| 
 | 20220518T10:15:08Z | A Http Easy Dos Attack Tool | https://github.com/Ghalbeyou/Http-Dos-Attack-Tool | 0 | 0| 
 | 20220518T09:20:38Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 201 | 22| 
 | 20220518T09:17:30Z | 🥼 Exploit contract | https://github.com/Astro2020-lovely/Exploit-contract | 1 | 0| 
 | 20220518T08:34:48Z | 🚀 Roblox exploit scripts Dashboard. | https://github.com/jareer12/BloxSafe | 1 | 0| 
-| 20220518T08:27:27Z | A tool for embedding XXE/XML exploits into different filetypes | https://github.com/s2onqi/BuffaloWillz | 0 | 0| 
-| 20220518T01:48:23Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/tilakthimmappa/pyraider | 15 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,9 +119,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220517T20:07:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2857 | 415| 
+| 20220518T09:10:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2856 | 414| 
+| 20220518T07:47:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1971 | 556| 
 | 20220517T17:27:55Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 415 | 20| 
-| 20220517T10:52:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1972 | 556| 
 | 20220516T09:57:17Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 33 | 19| 
 | 20220515T19:49:58Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 362 | 18| 
 | 20220515T16:00:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 224 | 54| 
