@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220518T00:50:27Z | Null | https://github.com/rawanshareef/FuzzingSSH | 0 | 0| 
 | 20220517T21:50:16Z | Null | https://github.com/evelyntorress/fuzzy-engine | 0 | 0| 
 | 20220517T21:05:41Z | Null | https://github.com/ALPO9/Fuzzy-System | 1 | 0| 
 | 20220517T20:54:38Z | Null | https://github.com/amirg00/Fuzzing-Detector | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220517T12:35:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1306 | 178| 
 | 20220517T12:18:45Z | Null | https://github.com/Ariel2400/Fuzzer | 0 | 0| 
 | 20220517T12:05:18Z | Null | https://github.com/RajatWhiz/fuzzy-adventure | 0 | 0| 
-| 20220517T10:53:17Z | Learning HTML and CSS and Git | https://github.com/apprehensive-pleco/fuzzy-carnival | 0 | 0| 
 
 
 
