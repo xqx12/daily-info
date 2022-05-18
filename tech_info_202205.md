@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220518T01:48:23Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/tilakthimmappa/pyraider | 15 | 0| 
 | 20220518T01:08:14Z | Mhy Exp  (exploit signed driver) | https://github.com/HadesW/mhy_exp | 1 | 0| 
 | 20220518T00:20:28Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-c | 0 | 0| 
 | 20220518T00:19:20Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220517T22:14:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11485 | 1966| 
 | 20220517T21:58:41Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 5375 | 1015| 
 | 20220517T21:22:04Z | Advanced Anti-Exploitation Library made in C# and C++ that protects Froxen Messenger. | https://github.com/FroxenProject/FroxenAntiHackingEngine | 0 | 0| 
-| 20220517T20:29:40Z | Null | https://github.com/dr-raypc/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
