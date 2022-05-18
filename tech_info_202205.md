@@ -146,8 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220518T01:17:39Z | Null | https://github.com/evelyntorress/fuzzy-engine | 0 | 0| 
 | 20220518T00:50:27Z | Null | https://github.com/rawanshareef/FuzzingSSH | 0 | 0| 
-| 20220517T21:50:16Z | Null | https://github.com/evelyntorress/fuzzy-engine | 0 | 0| 
 | 20220517T21:05:41Z | Null | https://github.com/ALPO9/Fuzzy-System | 1 | 0| 
 | 20220517T20:54:38Z | Null | https://github.com/amirg00/Fuzzing-Detector | 0 | 0| 
 | 20220517T20:33:09Z | The effect of the different and related factors, such as temperature and pressure, on the percentage of carbon dioxide in a specific fizzy drink was determined via using fuzzy methods | https://github.com/cbnesn/Determining-the-Percentage-of-Carbondioxide-in-a-Specific-Fizzy-Drink-with-Fuzzy-Logic | 0 | 0| 
