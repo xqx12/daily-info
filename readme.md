@@ -29,7 +29,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220517T23:42:12Z | CVE-2022-30525 | CVE-2022-30525 POC exploit | https://github.com/superzerosec/CVE-2022-30525 | | 
-| 20220517T19:46:36Z | cve-2022-26809 | Detects attempts and successful exploitation of CVE-2022-26809 | https://github.com/corelight/cve-2022-26809 | | 
 | 20220517T19:45:53Z | CVE-2022-1597 |  The plugin, used as a companion for the Discy and Himer themes, does not sanitise and escape a parameter on its reset password form which makes it possible to perform Reflected Cross-Site Scripting attacks | https://github.com/V35HR4J/CVE-2022-1597 | | 
 | 20220517T16:16:28Z | CVE-2022-30525 | Zyxel multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/ExploitPwner/CVE-2022-30525-Zyxel-Mass-Exploiter | | 
 | 20220517T15:54:57Z | CVE-2022- | TOTOLINK A800R/A810R/A830R/A950RG/A3000RU/A3100R setUpgradeFW FileName command injection | https://github.com/ExploitPwner/Totolink-CVE-2022-Exploits | | 
@@ -38,6 +37,7 @@
 | 20220517T15:23:12Z | CVE-2021-41946 | Null | https://github.com/afaq1337/CVE-2021-41946 | | 
 | 20220517T13:59:09Z | CVE-2021-40822 | Null | https://github.com/phor3nsic/CVE-2021-40822 | | 
 | 20220517T11:38:31Z | CVE-2022-1388 | F5 BIG-IP RCE exploitation (CVE-2022-1388) | https://github.com/alt3kx/CVE-2022-1388_PoC | | 
+| 20220517T10:51:39Z | CVE-2022-1388 | CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust | https://github.com/aancw/CVE-2022-1388-rs | | 
 
 
 # klee on Github 推荐
