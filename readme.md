@@ -13,6 +13,7 @@
 | 20220518 | Hacking Swagger-UI - from XSS to account takeovers | https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/| 
 | 20220518 | Stealing Google Drive OAuth tokens from Dropbox | http://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/| 
 | 20220518 | rellic-xref - Rellic 是个将 LLVM Module 反编译为 C 代码的工具，rellic-xref 为 Rellic 提供了交互式使用的能力 | http://blog.trailofbits.com/2022/05/17/interactive-decompilation-with-rellic-xref/| 
+| 20220518 | windows环境下的自保护探究 | http://tttang.com/archive/1584/| 
 
 
 # 安全维基 推荐
@@ -30,46 +31,52 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220518T12:10:11Z | CVE-2022-30525 | zyxel firewall unauthenticated rce mass multi threaded exploit | https://github.com/kuznyJan1972/CVE-2022-30525-mass | | 
+| 20220518T23:28:06Z | CVE-2022-30489 | Null | https://github.com/trhacknon/XSS-CVE-2022-30489 | | 
+| 20220518T17:18:59Z | CVE-2022-23131 | Null | https://github.com/trhacknon/CVE-2022-23131 | | 
+| 20220518T16:33:42Z | CVE-2022-30780 | CVE-2022-30780 - lighttpd remote denial of service | https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service | | 
+| 20220518T15:57:19Z | CVE-2022-30525 | Null | https://github.com/trhacknon/CVE-2022-30525-Reverse-Shell | | 
+| 20220518T15:25:25Z | CVE-2022-30525 | Simple python script to exploit CVE-2022-30525 (FIXED): Zyxel Firewall Unauthenticated Remote Command Injection | https://github.com/Chocapikk/CVE-2022-30525-Reverse-Shell | | 
+| 20220518T14:40:02Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
+| 20220518T13:34:07Z | CVE-2021-1732 | Analysis, POC and Explanation of CVE-2021-1732 | https://github.com/reccoon-dev/CVE-2021-1732 | | 
+| 20220518T12:30:14Z | CVE-2021-44228 | CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each. | https://github.com/kuznyJan1972/CVE-2021-44228-mass | | 
+| 20220518T12:21:33Z | CVE-2022-30525 | zyxel firewall unauthenticated rce mass multi threaded exploit | https://github.com/kuznyJan1972/CVE-2022-30525-mass | | 
 | 20220518T10:13:23Z | 未知编号 | Null | https://github.com/litios/cve_2021_3572-old-pip | | 
-| 20220518T09:18:36Z | CVE-2021-46417 | Franklin Fueling Systems Colibri Controller Module - Local File Inclusion | https://github.com/Henry4E36/CVE-2021-46417 | | 
-| 20220518T09:16:27Z | CVE-2022-24734 | MyBB 1.8.29 - Remote Code Execution | https://github.com/lavclash75/mybb-CVE-2022-24734 | | 
-| 20220518T08:46:17Z | CVE-2022-1388 | Null | https://github.com/vesperp/CVE-2022-1388-F5-BIG-IP | | 
-| 20220518T02:04:00Z | CVE-2020-4464 | Null | https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450 | | 
-| 20220518T01:40:32Z | cve-2022-26809 | Detects attempts and successful exploitation of CVE-2022-26809 | https://github.com/corelight/cve-2022-26809 | | 
-| 20220518T01:31:46Z | CVE-2022-24611 | Details regarding the Z-Wave S0-No-More attack | https://github.com/ITSecLab-HSEL/CVE-2022-24611 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220518T10:05:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6162 | 225| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220518T15:45:21Z | Null | https://github.com/software-testing-bootcamp/S2E5-nodejs-webdriverio | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220518T12:10:11Z | zyxel firewall unauthenticated rce mass multi threaded exploit | https://github.com/kuznyJan1972/CVE-2022-30525-mass | 0 | 0| 
+| 20220518T22:08:53Z | Write your own exploit for $CASH | https://github.com/PwnedNoMore/cashio-exploit-workshop | 0 | 1| 
+| 20220518T21:50:48Z | A Fortnite Exploit for the newest Version. Private Server INGAME working Skins | https://github.com/dondrive/fortnitecheat | 0 | 0| 
+| 20220518T19:59:43Z | A repository for demonstration purposes of the various vulnerabilities and exploits developed by Authentura | https://github.com/Authentura/demos | 1 | 0| 
+| 20220518T18:59:48Z | Some of my windows kernel exploits for learning purposes | https://github.com/xct/windows-kernel-exploits | 0 | 1| 
+| 20220518T12:30:14Z | CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each. | https://github.com/kuznyJan1972/CVE-2021-44228-mass | 0 | 0| 
+| 20220518T12:21:33Z | zyxel firewall unauthenticated rce mass multi threaded exploit | https://github.com/kuznyJan1972/CVE-2022-30525-mass | 0 | 0| 
 | 20220518T12:09:29Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 303 | 59| 
 | 20220518T11:24:20Z | Config files for my GitHub profile. | https://github.com/learn-exploits/learn-exploits | 1 | 0| 
 | 20220518T10:51:23Z | The Repository contains documents that explains the explotation of CVE-2016-5195 | https://github.com/malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195 | 0 | 0| 
 | 20220518T10:32:55Z | A C++ library to use the TcpGecko exploit on your wiiu. | https://github.com/hide-wow/Gecko-cpp | 1 | 0| 
-| 20220518T10:21:40Z | This is a repository made by the author to improve his skill in python exploitation | https://github.com/twseptian/python-exploit-scripts | 1 | 0| 
-| 20220518T10:15:08Z | A Http Easy Dos Attack Tool | https://github.com/Ghalbeyou/Http-Dos-Attack-Tool | 0 | 0| 
-| 20220518T09:20:38Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 201 | 22| 
-| 20220518T09:17:30Z | 🥼 Exploit contract | https://github.com/Astro2020-lovely/Exploit-contract | 1 | 0| 
-| 20220518T08:34:48Z | 🚀 Roblox exploit scripts Dashboard. | https://github.com/jareer12/BloxSafe | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220518T11:31:27Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 957 | 101| 
+| 20220518T21:35:09Z | Config files for my GitHub profile. | https://github.com/xx-backdoor-xx/xx-backdoor-xx | 0 | 0| 
+| 20220518T20:07:27Z | Gonna destroy them !!!!!!!!!! | https://github.com/Und3rc0ver-h4xx0r-fr0m-the-m4tr1x/Backdoor-python-polymorph | 0 | 0| 
+| 20220518T19:19:58Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 962 | 101| 
+| 20220518T15:46:35Z | Code samples to go along with the blog post on how to create an LD_PRELOAD backdoor hooking accept() | https://github.com/ProfessionallyEvil/LD_PRELOAD-accept-backdoor | 0 | 0| 
+| 20220518T15:30:08Z | I am releasing this due to stress and the Horrible owner that NightmareZ is. | https://github.com/somesadkidontop/SenationBackdoor-2.0.0 | 7 | 2| 
 | 20220518T09:41:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 479 | 90| 
 | 20220518T07:42:06Z | Pytorch implementation of Backdoor Attack against Speaker Verification | https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification | 11 | 9| 
 | 20220518T06:22:02Z | une backdoor en python/javascript  | https://github.com/nqkoz/backdoor | 2 | 1| 
@@ -78,7 +85,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220518T09:10:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2856 | 414| 
+| 20220518T12:22:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2857 | 414| 
 | 20220518T07:47:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1971 | 556| 
 
 
@@ -90,14 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220518T23:55:32Z | Null | https://github.com/ShiniaD683/Neuro-Fuzzy_Inference-System | 0 | 0| 
+| 20220518T23:40:44Z | Null | https://github.com/ShiniaD683/Nuero-Fuzzy-Inference-System | 0 | 0| 
+| 20220518T22:10:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7378 | 1586| 
+| 20220518T21:32:32Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2543 | 168| 
+| 20220518T20:05:35Z | Null | https://github.com/njajalgawe/fuzzy-octo-adventure | 0 | 0| 
+| 20220518T19:22:47Z | Null | https://github.com/Diegoberamendi/Habitat_Suitability_Index_Fuzzy_logic-Basement | 0 | 0| 
+| 20220518T18:58:17Z | Psychotrope is an awsome tool which is made with python 2 that is switching your manual recon (Discovering, scanning, fuzzing and full recon methodology and more ...) into an automated one, which makes your bug hunting and your life much easier.  Psychotrope is being developed by Capitos Kamal | https://github.com/kamalkarlos/PSYCHOTROPE | 0 | 0| 
+| 20220518T18:07:03Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1966 | 34| 
+| 20220518T13:54:11Z | Protocol-aware fuzzing library for both mutation and generation fuzzing | https://github.com/gggal/talasum | 0 | 0| 
 | 20220518T10:44:36Z | Self-driving rover that follows a car (with specific license plate number) and maintains a constant distance between the later using fuzzy control | https://github.com/daniazzam/Fuzzy_Controlled_Rover | 0 | 0| 
-| 20220518T09:20:38Z | Null | https://github.com/dm4sec/ANE_Fuzzer | 0 | 0| 
-| 20220518T08:35:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4740 | 491| 
-| 20220518T08:20:45Z | Class Assignment  | https://github.com/Kingswin/CI-Neuro-Fuzzy | 0 | 0| 
-| 20220518T07:53:08Z | to be updated | https://github.com/haramel/l2fuzz | 0 | 0| 
-| 20220518T07:09:48Z | Learning HTML and CSS and Git | https://github.com/apprehensive-pleco/fuzzy-carnival | 0 | 0| 
-| 20220518T01:17:39Z | Null | https://github.com/evelyntorress/fuzzy-engine | 0 | 0| 
-| 20220518T00:50:27Z | Null | https://github.com/rawanshareef/FuzzingSSH | 0 | 0| 
 
 
 
