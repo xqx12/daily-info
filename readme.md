@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220520T12:34:04Z | LadonGO 4.0 Pentest Scanner framework  全平台Go开源内网渗透扫描器框架,Windows/Linux/Mac内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。 | https://github.com/k8gege/LadonGo | 893 | 197| 
 | 20220520T11:56:13Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2992 | 424| 
 | 20220520T10:43:20Z | Null | https://github.com/datechies/Exploit | 3 | 1| 
 | 20220520T09:48:24Z | CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each. | https://github.com/TomArni680/CVE-2021-44228-RCE | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20220520T08:18:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 405 | 118| 
 | 20220520T08:07:25Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 314 | 64| 
 | 20220520T07:34:24Z | Demo for Exploiting CORS Misconfiguration using XSS   | https://github.com/bugbaba/cors-missconfig-Exploitation-Demo | 12 | 4| 
-| 20220520T06:56:44Z | Exploiting the AsrDrv104 driver | https://github.com/reigenatk/vuln-driver | 0 | 0| 
 
 
 # backdoor on Github 推荐
