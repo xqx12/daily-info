@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220520T12:01:53Z | Null | https://github.com/begininvoke/SensitiveFileFuzzer | 0 | 0| 
 | 20220520T11:28:36Z | Null | https://github.com/alvimaulana/Fuzzy-Tsukamoto-menentukan-kelulusan-Kelulusan-siswa | 0 | 0| 
 | 20220520T10:07:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7406 | 1590| 
 | 20220520T09:44:49Z | Fuzzy Logic progect for university practice 2022. | https://github.com/imareru/FuzzyLogic | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20220520T06:46:26Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 21 | 1| 
 | 20220520T06:10:59Z | Fuzzy logic app | https://github.com/Eive1Me/FuzzyLogic | 0 | 0| 
 | 20220520T01:45:00Z | Null | https://github.com/Hansa-Network/arweave-jest-fuzzing | 0 | 0| 
-| 20220520T01:30:54Z | Null | https://github.com/sjmluo/fuzzbench | 0 | 0| 
 
 
 
