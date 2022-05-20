@@ -86,7 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220520T12:08:00Z | Null | https://github.com/begininvoke/SensitiveFileFuzzer | 0 | 0| 
+| 20220520T12:54:57Z | A tool for fuzzing files on the website | https://github.com/begininvoke/SensitiveFileFuzzer | 0 | 0| 
 | 20220520T11:28:36Z | Null | https://github.com/alvimaulana/Fuzzy-Tsukamoto-menentukan-kelulusan-Kelulusan-siswa | 0 | 0| 
 | 20220520T10:07:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7406 | 1590| 
 | 20220520T09:44:49Z | Fuzzy Logic progect for university practice 2022. | https://github.com/imareru/FuzzyLogic | 0 | 0| 
