@@ -120,6 +120,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220520T12:36:49Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 60 | 3| 
 | 20220520T10:34:22Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 869 | 117| 
 | 20220520T07:49:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2862 | 414| 
 | 20220519T21:21:56Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 2 | 0| 
@@ -129,7 +130,6 @@
 | 20220518T21:24:13Z | Symbolic Execution Engine for simple imperative programs | https://github.com/SamKouteili/symbolic-execution-engine | 0 | 0| 
 | 20220518T12:57:30Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 34 | 19| 
 | 20220515T16:00:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 224 | 54| 
-| 20220515T13:02:23Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 12 | 0| 
 
 
 # big4 on Github 推荐
