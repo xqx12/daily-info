@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220520T12:21:20Z | CVE-2022-26717 | Null | https://github.com/theori-io/CVE-2022-26717-Safari-WebGL-Exploit | | 
 | 20220520T10:49:00Z | CVE-2022-31245 | CVE-2022-31245: RCE and domain admin privilege escalation for Mailcow | https://github.com/ly1g3/Mailcow-CVE-2022-31245 | | 
 | 20220520T10:31:34Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
 | 20220520T10:07:05Z | CVE-2022-24706 | Apache CouchDB 3.2.1 - Remote Code Execution (RCE) | https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit | | 
 | 20220520T09:48:24Z | CVE-2021-44228 | CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each. | https://github.com/TomArni680/CVE-2021-44228-RCE | | 
-| 20220520T07:12:24Z | CVE-2022-26717 | Null | https://github.com/theori-io/CVE-2022-26717-Safari-WebGL-Exploit | | 
 | 20220520T06:41:39Z | CVE-2021-0302 | Null | https://github.com/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302 | | 
 | 20220520T01:08:28Z | CVE-2022-24086 | Verifed Proof of Concept on CVE-2022-24086 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC | | 
 | 20220520T00:29:39Z | CVE-2022-22965 | CVE-2022-22965 Spring4Shell research & PoC | https://github.com/cxzero/CVE-2022-22965-spring4shell | | 
