@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T00:10:46Z | A fuzzing platform for Zigbee protocol implementations | https://github.com/zigbeeprotocol/Z-Fuzzer | 0 | 0| 
 | 20220520T23:59:17Z | A fuzzing platform for Zigbee protocol implementations | https://github.com/zigbeeprotocol/z-fuzzer | 0 | 0| 
 | 20220520T20:58:48Z | Null | https://github.com/LeandroFSimeao/fuzzy-sniffle | 0 | 0| 
 | 20220520T20:29:54Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 398 | 90| 
@@ -158,7 +159,6 @@
 | 20220520T10:07:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7406 | 1590| 
 | 20220520T09:44:49Z | Fuzzy Logic progect for university practice 2022. | https://github.com/imareru/FuzzyLogic | 0 | 0| 
 | 20220520T09:01:15Z | Null | https://github.com/Allen728/NCU_Fuzzy | 0 | 0| 
-| 20220520T08:10:15Z | Tugas Pemrograman 02 - Reasoning (Pengantar Kecerdasan Buatan) | https://github.com/berlianm/Fuzzy-Logic | 0 | 0| 
 
 
 
