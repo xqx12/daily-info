@@ -98,13 +98,13 @@
 | 20220520T23:59:17Z | A fuzzing platform for Zigbee protocol implementations | https://github.com/zigbeeprotocol/z-fuzzer | 0 | 0| 
 | 20220520T20:58:48Z | Null | https://github.com/LeandroFSimeao/fuzzy-sniffle | 0 | 0| 
 | 20220520T20:29:54Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 398 | 90| 
-| 20220520T13:20:27Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 968 | 77| 
 | 20220520T12:54:57Z | A tool for fuzzing files on the website | https://github.com/begininvoke/SensitiveFileFuzzer | 0 | 0| 
 | 20220520T11:28:36Z | Null | https://github.com/alvimaulana/Fuzzy-Tsukamoto-menentukan-kelulusan-Kelulusan-siswa | 0 | 0| 
 | 20220520T10:07:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7406 | 1590| 
 | 20220520T09:44:49Z | Fuzzy Logic progect for university practice 2022. | https://github.com/imareru/FuzzyLogic | 0 | 0| 
 | 20220520T09:01:15Z | Null | https://github.com/Allen728/NCU_Fuzzy | 0 | 0| 
 | 20220520T08:10:15Z | Tugas Pemrograman 02 - Reasoning (Pengantar Kecerdasan Buatan) | https://github.com/berlianm/Fuzzy-Logic | 0 | 0| 
+| 20220520T07:40:41Z | white-box fuzzing RPC-based APIs | https://github.com/anonymous-authorxyz/fuzzing-rpc | 0 | 0| 
 
 
 
