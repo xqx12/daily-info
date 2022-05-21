@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T12:51:10Z | Null | https://github.com/thoriqakhdn/FuzzyLogic | 0 | 0| 
 | 20220521T12:35:08Z | Null | https://github.com/luthfi55/fuzzyFile | 0 | 0| 
 | 20220521T11:41:19Z | List of common words to fuzz directories, files or parameters | https://github.com/estebancano-dev/commonwords | 0 | 0| 
 | 20220521T11:35:53Z | my django girls repo | https://github.com/DragonVMen/fuzzy-bassoon | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20220521T09:09:18Z | Nggak tau | https://github.com/malesnyangoding/fuzzy-chainsaw | 0 | 0| 
 | 20220521T08:57:32Z | Null | https://github.com/Yulianas24/Fuzzy-Database | 0 | 0| 
 | 20220521T06:00:29Z | Use Jazzer to perform fuzzy testing of Apache Commons Imaging | https://github.com/centic9/imaging-fuzz | 0 | 0| 
-| 20220521T05:38:58Z | PatchFuzzer | https://github.com/ChoKyuWon/PatchFuzzer | 1 | 2| 
 
 
 
