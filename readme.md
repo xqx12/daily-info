@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220521T12:21:49Z | CVE-2021-3899 | race condition in apport lead to Local Privilege Escalation on Ubuntu | https://github.com/liumuqing/CVE-2021-3899_PoC | | 
 | 20220521T11:58:36Z | CVE-2022-29009 | Null | https://github.com/sudoninja-noob/CVE-2022-29009 | | 
 | 20220521T11:58:26Z | CVE-2022-29008 | Null | https://github.com/sudoninja-noob/CVE-2022-29008 | | 
 | 20220521T11:57:04Z | CVE-2022-29007 | Null | https://github.com/sudoninja-noob/CVE-2022-29007 | | 
@@ -25,7 +26,6 @@
 | 20220521T11:49:38Z | CVE-2022-29004 | Null | https://github.com/sudoninja-noob/CVE-2022-29004 | | 
 | 20220521T11:48:57Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
 | 20220521T07:05:39Z | cve-2021-4034 | cve-2021-4034 for single commcand | https://github.com/wudicainiao/cve-2021-4034 | | 
-| 20220521T06:46:11Z | CVE-2022-31245 | CVE-2022-31245: RCE and domain admin privilege escalation for Mailcow | https://github.com/ly1g3/Mailcow-CVE-2022-31245 | | 
 
 
 # klee on Github 推荐
