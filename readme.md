@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T12:17:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11503 | 1968| 
 | 20220521T12:08:53Z | This course is about an introduction to the theory and practice of data structuring techniques. Topics include internal data representation, abstract data types (ADT), stacks, queues, list structures, recursive data structures, trees, regraphs and networks. Concept of object orientation as a data abstraction technique will be introduced.  Course Objectives: The objectives of this course are to  introduce the basic data structures for storage and retrieval of ordered or unordered data using arrays, linked lists, binary trees, heaps, graphs and hash tables. introduce the concept of problem domain analysis and exploit the domain features to improve data structures efficiency. develop the concept of asymptotic analysis using Big-O techniques to compare different algorithmic solutions. | https://github.com/SarhanOsmanBhuiya/CSE-225-DATA-STRUCTURES-AND-ALGORITHMS | 0 | 0| 
 | 20220521T11:32:45Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 5 | 1| 
 | 20220521T10:41:40Z | I know there are exploits in here, but because some people use this to scam others. I am releasing it. Yilmaz is the scammer. here the complete package. | https://github.com/YoungsterDEV/circinuslayout-braincms-main | 1 | 0| 
@@ -53,7 +54,6 @@
 | 20220521T09:12:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2767 | 347| 
 | 20220521T07:56:03Z | Silent exploit builder private. coded | https://github.com/Keril2/Silent-Exploit---DOC---XLS | 0 | 0| 
 | 20220521T07:45:46Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 396 | 26| 
-| 20220521T06:04:29Z | The most 31337 low-level All-in-one shellcode exploitation framework you will ever need. | https://github.com/9xN/sh311.v | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T12:35:08Z | Null | https://github.com/luthfi55/fuzzyFile | 0 | 0| 
 | 20220521T11:41:19Z | List of common words to fuzz directories, files or parameters | https://github.com/estebancano-dev/commonwords | 0 | 0| 
 | 20220521T11:35:53Z | my django girls repo | https://github.com/DragonVMen/fuzzy-bassoon | 0 | 0| 
 | 20220521T10:39:06Z | Javascript  | https://github.com/Jlemy29/fuzzy-bassoon | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20220521T08:57:32Z | Null | https://github.com/Yulianas24/Fuzzy-Database | 0 | 0| 
 | 20220521T06:00:29Z | Use Jazzer to perform fuzzy testing of Apache Commons Imaging | https://github.com/centic9/imaging-fuzz | 0 | 0| 
 | 20220521T05:38:58Z | PatchFuzzer | https://github.com/ChoKyuWon/PatchFuzzer | 1 | 2| 
-| 20220521T05:27:36Z | Null | https://github.com/clincoln8/rohd-fuzzing | 0 | 0| 
 
 
 
