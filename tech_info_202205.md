@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220520T23:56:50Z | Null | https://github.com/Luc-us/Klee-Community | 0 | 0| 
+| 20220521T00:03:37Z | Null | https://github.com/Luc-us/Klee-Community | 0 | 0| 
 | 20220520T22:34:55Z | Demo page | https://github.com/kleere/kleere.github.io | 0 | 0| 
 | 20220520T21:24:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6176 | 226| 
 | 20220520T11:01:20Z | A static website built by Klee Mains for everything Klee related! | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T00:04:28Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-z | 0 | 0| 
 | 20220520T23:07:24Z | Null | https://github.com/JuanTecedor/HackingTheArtOfExploitation | 0 | 0| 
 | 20220520T22:44:31Z | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | 0 | 0| 
 | 20220520T22:44:21Z | Set of my own useful Tools, Scripts, Vulnerabilities, Exploits and Reports | https://github.com/danielcunn123/Security | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220520T20:45:18Z | Advanced network vulnerability scanner that enables you to analyse, manage and exploit network-connected devices. | https://github.com/EntySec/Penxos | 0 | 1| 
 | 20220520T20:25:57Z | Null | https://github.com/GameOfMacro/Exploit | 0 | 0| 
 | 20220520T18:35:50Z | Script que automatiza la busqueda de Exploits para distribuciones Linux. | https://github.com/elvinv11/buscoExploit | 0 | 0| 
-| 20220520T13:36:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2767 | 347| 
 
 
 # backdoor on Github 推荐
