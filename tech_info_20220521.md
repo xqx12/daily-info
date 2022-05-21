@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T12:08:53Z | This course is about an introduction to the theory and practice of data structuring techniques. Topics include internal data representation, abstract data types (ADT), stacks, queues, list structures, recursive data structures, trees, regraphs and networks. Concept of object orientation as a data abstraction technique will be introduced.  Course Objectives: The objectives of this course are to  introduce the basic data structures for storage and retrieval of ordered or unordered data using arrays, linked lists, binary trees, heaps, graphs and hash tables. introduce the concept of problem domain analysis and exploit the domain features to improve data structures efficiency. develop the concept of asymptotic analysis using Big-O techniques to compare different algorithmic solutions. | https://github.com/SarhanOsmanBhuiya/CSE-225-DATA-STRUCTURES-AND-ALGORITHMS | 0 | 0| 
 | 20220521T11:32:45Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 5 | 1| 
 | 20220521T10:41:40Z | I know there are exploits in here, but because some people use this to scam others. I am releasing it. Yilmaz is the scammer. here the complete package. | https://github.com/YoungsterDEV/circinuslayout-braincms-main | 1 | 0| 
 | 20220521T10:38:42Z | The Metasploit Framework is a Ruby-based, modular penetration testing platform that enables you to write, test, and execute exploit code. The Metasploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks, execute attacks, and evade detection | https://github.com/mrkarthick-cool/metasploit_tool | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20220521T07:56:03Z | Silent exploit builder private. coded | https://github.com/Keril2/Silent-Exploit---DOC---XLS | 0 | 0| 
 | 20220521T07:45:46Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 396 | 26| 
 | 20220521T06:04:29Z | The most 31337 low-level All-in-one shellcode exploitation framework you will ever need. | https://github.com/9xN/sh311.v | 0 | 0| 
-| 20220521T00:06:14Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-z | 0 | 0| 
 
 
 # backdoor on Github 推荐
