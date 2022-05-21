@@ -26,6 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220520T20:46:52Z | CVE-2022-26717 | Null | https://github.com/trhacknon/CVE-2022-26717-Safari-WebGL-Exploit | | 
+| 20220520T20:30:39Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
+| 20220520T18:50:01Z | CVE-2022-26809 | CVE-2022-26809 , is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows | https://github.com/seciurdt/CVE-2022-26809-MASS | | 
 | 20220520T12:21:20Z | CVE-2022-26717 | Null | https://github.com/theori-io/CVE-2022-26717-Safari-WebGL-Exploit | | 
 | 20220520T10:49:00Z | CVE-2022-31245 | CVE-2022-31245: RCE and domain admin privilege escalation for Mailcow | https://github.com/ly1g3/Mailcow-CVE-2022-31245 | | 
 | 20220520T10:31:34Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
@@ -33,13 +36,14 @@
 | 20220520T09:48:24Z | CVE-2021-44228 | CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each. | https://github.com/TomArni680/CVE-2021-44228-RCE | | 
 | 20220520T06:41:39Z | CVE-2021-0302 | Null | https://github.com/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302 | | 
 | 20220520T01:08:28Z | CVE-2022-24086 | Verifed Proof of Concept on CVE-2022-24086 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC | | 
-| 20220520T00:29:39Z | CVE-2022-22965 | CVE-2022-22965 Spring4Shell research & PoC | https://github.com/cxzero/CVE-2022-22965-spring4shell | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220520T12:58:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6175 | 226| 
+| 20220520T23:56:50Z | Null | https://github.com/Luc-us/Klee-Community | 0 | 0| 
+| 20220520T22:34:55Z | Demo page | https://github.com/kleere/kleere.github.io | 0 | 0| 
+| 20220520T21:24:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6176 | 226| 
 | 20220520T11:01:20Z | A static website built by Klee Mains for everything Klee related! | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
 | 20220520T05:33:54Z | Config files for my GitHub profile. | https://github.com/Kleew/Kleew | 0 | 0| 
 
@@ -47,27 +51,32 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220520T16:01:39Z | Null | https://github.com/S2eTo/S2eTo | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220520T12:52:20Z | LadonGO 4.0 Pentest Scanner framework  全平台Go开源内网渗透扫描器框架,Windows/Linux/Mac内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。 | https://github.com/k8gege/LadonGo | 894 | 197| 
-| 20220520T12:51:01Z | Improved rms exploit script. | https://github.com/AlperenY-cs/rms_hunt | 0 | 0| 
-| 20220520T12:43:07Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 315 | 64| 
-| 20220520T11:56:13Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 2992 | 424| 
-| 20220520T10:43:20Z | Null | https://github.com/datechies/Exploit | 3 | 1| 
-| 20220520T09:48:24Z | CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each. | https://github.com/TomArni680/CVE-2021-44228-RCE | 0 | 0| 
-| 20220520T09:44:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2765 | 347| 
-| 20220520T08:53:02Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 206 | 22| 
-| 20220520T08:27:57Z | Null | https://github.com/HflixDev/Flox-s-Admin-Hub-roblox-exploit | 0 | 0| 
-| 20220520T08:18:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 405 | 118| 
+| 20220520T23:07:24Z | Null | https://github.com/JuanTecedor/HackingTheArtOfExploitation | 0 | 0| 
+| 20220520T22:44:31Z | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | 0 | 0| 
+| 20220520T22:44:21Z | Set of my own useful Tools, Scripts, Vulnerabilities, Exploits and Reports | https://github.com/danielcunn123/Security | 0 | 0| 
+| 20220520T21:54:35Z | Post-Exploitation Toolkit for Splunk 🐒 | https://github.com/sk4la/splunk-pekit | 1 | 0| 
+| 20220520T21:10:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11499 | 1968| 
+| 20220520T20:46:52Z | Null | https://github.com/trhacknon/CVE-2022-26717-Safari-WebGL-Exploit | 0 | 0| 
+| 20220520T20:45:18Z | Advanced network vulnerability scanner that enables you to analyse, manage and exploit network-connected devices. | https://github.com/EntySec/Penxos | 0 | 1| 
+| 20220520T20:25:57Z | Null | https://github.com/GameOfMacro/Exploit | 0 | 0| 
+| 20220520T18:35:50Z | Script que automatiza la busqueda de Exploits para distribuciones Linux. | https://github.com/elvinv11/buscoExploit | 0 | 0| 
+| 20220520T13:36:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2767 | 347| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220520T04:10:38Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 481 | 91| 
+| 20220520T22:30:45Z |  BackDoor sur Android  Une porte dérobée est un défaut dans un algorithme qui y est délibérément intégré par le développeur et qui permet un accès non autorisé aux données ou un contrôle à distance du système d%exploitation et de l%ordinateur dans son ensemble.  L%objectif principal d%une porte dérobée est d%accéder discrètement et rapidement à des données, dans la plupart des cas cryptées et protégées. Par exemple, une porte dérobée peut être intégrée à l%algorithme de cryptage pour l%écoute électronique ultérieure d%un canal sécurisé par un attaquant. | https://github.com/Elise12/Portederob- | 0 | 0| 
+| 20220520T17:25:56Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 483 | 91| 
+| 20220520T15:51:46Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 129 | 36| 
+| 20220520T15:40:28Z | An addon designed to catch backdoors hidden in code | https://github.com/tyguy550/BackDoorFinder | 2 | 0| 
+| 20220520T13:57:16Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 51 | 7| 
 
 
 # symbolic execution on Github 推荐
@@ -86,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220520T23:59:17Z | A fuzzing platform for Zigbee protocol implementations | https://github.com/zigbeeprotocol/z-fuzzer | 0 | 0| 
+| 20220520T20:58:48Z | Null | https://github.com/LeandroFSimeao/fuzzy-sniffle | 0 | 0| 
+| 20220520T20:29:54Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 398 | 90| 
+| 20220520T13:20:27Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 968 | 77| 
 | 20220520T12:54:57Z | A tool for fuzzing files on the website | https://github.com/begininvoke/SensitiveFileFuzzer | 0 | 0| 
 | 20220520T11:28:36Z | Null | https://github.com/alvimaulana/Fuzzy-Tsukamoto-menentukan-kelulusan-Kelulusan-siswa | 0 | 0| 
 | 20220520T10:07:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7406 | 1590| 
 | 20220520T09:44:49Z | Fuzzy Logic progect for university practice 2022. | https://github.com/imareru/FuzzyLogic | 0 | 0| 
 | 20220520T09:01:15Z | Null | https://github.com/Allen728/NCU_Fuzzy | 0 | 0| 
 | 20220520T08:10:15Z | Tugas Pemrograman 02 - Reasoning (Pengantar Kecerdasan Buatan) | https://github.com/berlianm/Fuzzy-Logic | 0 | 0| 
-| 20220520T07:40:41Z | white-box fuzzing RPC-based APIs | https://github.com/anonymous-authorxyz/fuzzing-rpc | 0 | 0| 
-| 20220520T06:46:26Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 21 | 1| 
-| 20220520T06:10:59Z | Fuzzy logic app | https://github.com/Eive1Me/FuzzyLogic | 0 | 0| 
-| 20220520T01:45:00Z | Null | https://github.com/Hansa-Network/arweave-jest-fuzzing | 0 | 0| 
 
 
 
