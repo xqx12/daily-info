@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220521T12:37:17Z | CVE-2022-24706 | Apache CouchDB 3.2.1 - Remote Code Execution (RCE) | https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit | | 
 | 20220521T12:21:49Z | CVE-2021-3899 | race condition in apport lead to Local Privilege Escalation on Ubuntu | https://github.com/liumuqing/CVE-2021-3899_PoC | | 
 | 20220521T11:58:36Z | CVE-2022-29009 | Null | https://github.com/sudoninja-noob/CVE-2022-29009 | | 
 | 20220521T11:58:26Z | CVE-2022-29008 | Null | https://github.com/sudoninja-noob/CVE-2022-29008 | | 
@@ -25,7 +26,6 @@
 | 20220521T11:53:35Z | CVE-2022-29005 | Null | https://github.com/sudoninja-noob/CVE-2022-29005 | | 
 | 20220521T11:49:38Z | CVE-2022-29004 | Null | https://github.com/sudoninja-noob/CVE-2022-29004 | | 
 | 20220521T11:48:57Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
-| 20220521T07:05:39Z | cve-2021-4034 | cve-2021-4034 for single commcand | https://github.com/wudicainiao/cve-2021-4034 | | 
 
 
 # klee on Github 推荐
