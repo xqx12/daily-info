@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220521T01:52:34Z | CVE-2021-3899 | race condition in apport lead to Local Privilege Escalation on Ubuntu | https://github.com/liumuqing/CVE-2021-3899_PoC | | 
-| 20220520T20:46:52Z | CVE-2022-26717 | Null | https://github.com/trhacknon/CVE-2022-26717-Safari-WebGL-Exploit | | 
-| 20220520T20:30:39Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
-| 20220520T18:50:01Z | CVE-2022-26809 | CVE-2022-26809 , is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows | https://github.com/seciurdt/CVE-2022-26809-MASS | | 
-| 20220520T12:21:20Z | CVE-2022-26717 | Null | https://github.com/theori-io/CVE-2022-26717-Safari-WebGL-Exploit | | 
-| 20220520T10:49:00Z | CVE-2022-31245 | CVE-2022-31245: RCE and domain admin privilege escalation for Mailcow | https://github.com/ly1g3/Mailcow-CVE-2022-31245 | | 
-| 20220520T10:31:34Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
-| 20220520T10:07:05Z | CVE-2022-24706 | Apache CouchDB 3.2.1 - Remote Code Execution (RCE) | https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit | | 
-| 20220520T09:48:24Z | CVE-2021-44228 | CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each. | https://github.com/TomArni680/CVE-2021-44228-RCE | | 
-| 20220520T06:41:39Z | CVE-2021-0302 | Null | https://github.com/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302 | | 
+| 20220521T11:58:36Z | CVE-2022-29009 | Null | https://github.com/sudoninja-noob/CVE-2022-29009 | | 
+| 20220521T11:58:26Z | CVE-2022-29008 | Null | https://github.com/sudoninja-noob/CVE-2022-29008 | | 
+| 20220521T11:57:04Z | CVE-2022-29007 | Null | https://github.com/sudoninja-noob/CVE-2022-29007 | | 
+| 20220521T11:55:36Z | CVE-2022-29006 | Null | https://github.com/sudoninja-noob/CVE-2022-29006 | | 
+| 20220521T11:55:15Z | CVE-2022-26318 | Null | https://github.com/BabyTeam1024/CVE-2022-26318 | | 
+| 20220521T11:53:35Z | CVE-2022-29005 | Null | https://github.com/sudoninja-noob/CVE-2022-29005 | | 
+| 20220521T11:49:38Z | CVE-2022-29004 | Null | https://github.com/sudoninja-noob/CVE-2022-29004 | | 
+| 20220521T11:48:57Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
+| 20220521T07:05:39Z | cve-2021-4034 | cve-2021-4034 for single commcand | https://github.com/wudicainiao/cve-2021-4034 | | 
+| 20220521T06:46:11Z | CVE-2022-31245 | CVE-2022-31245: RCE and domain admin privilege escalation for Mailcow | https://github.com/ly1g3/Mailcow-CVE-2022-31245 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T10:35:21Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
+| 20220521T09:30:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6182 | 225| 
 | 20220521T00:03:37Z | Null | https://github.com/Luc-us/Klee-Community | 0 | 0| 
 | 20220520T22:34:55Z | Demo page | https://github.com/kleere/kleere.github.io | 0 | 0| 
-| 20220520T21:24:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6176 | 226| 
 | 20220520T11:01:20Z | A static website built by Klee Mains for everything Klee related! | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
 | 20220520T05:33:54Z | Config files for my GitHub profile. | https://github.com/Kleew/Kleew | 0 | 0| 
 | 20220517T21:30:41Z | Config files for my GitHub profile. | https://github.com/kleeuy/kleeuy | 0 | 0| 
 | 20220516T13:56:38Z | Inexpensive cutter for Mobile Outfitters | https://github.com/AllenDatagraph/Kleenex-Cutter | 0 | 0| 
 | 20220516T09:57:15Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 243 | 41| 
 | 20220516T06:21:02Z | Null | https://github.com/JiuTang22/Klee | 0 | 0| 
-| 20220516T04:05:50Z | Null | https://github.com/Ghener/klee.gif | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -91,26 +91,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T11:32:45Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 5 | 1| 
+| 20220521T10:41:40Z | I know there are exploits in here, but because some people use this to scam others. I am releasing it. Yilmaz is the scammer. here the complete package. | https://github.com/YoungsterDEV/circinuslayout-braincms-main | 1 | 0| 
+| 20220521T10:38:42Z | The Metasploit Framework is a Ruby-based, modular penetration testing platform that enables you to write, test, and execute exploit code. The Metasploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks, execute attacks, and evade detection | https://github.com/mrkarthick-cool/metasploit_tool | 0 | 0| 
+| 20220521T10:13:49Z | 🚀 BloxSafe backend code. | https://github.com/BloxSafe/Backend | 5 | 2| 
+| 20220521T09:41:18Z | Sample microservice project development for purpose of exploiting Spring,Boor,React and Microservices | https://github.com/yorane007/NYEStore | 0 | 0| 
+| 20220521T09:12:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2767 | 347| 
+| 20220521T07:56:03Z | Silent exploit builder private. coded | https://github.com/Keril2/Silent-Exploit---DOC---XLS | 0 | 0| 
+| 20220521T07:45:46Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 396 | 26| 
+| 20220521T06:04:29Z | The most 31337 low-level All-in-one shellcode exploitation framework you will ever need. | https://github.com/9xN/sh311.v | 0 | 0| 
 | 20220521T00:06:14Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-z | 0 | 0| 
-| 20220521T00:05:19Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | 0 | 0| 
-| 20220521T00:04:28Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-z | 0 | 0| 
-| 20220520T23:07:24Z | Null | https://github.com/JuanTecedor/HackingTheArtOfExploitation | 0 | 0| 
-| 20220520T22:44:31Z | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | 0 | 0| 
-| 20220520T22:44:21Z | Set of my own useful Tools, Scripts, Vulnerabilities, Exploits and Reports | https://github.com/danielcunn123/Security | 0 | 0| 
-| 20220520T21:54:35Z | Post-Exploitation Toolkit for Splunk 🐒 | https://github.com/sk4la/splunk-pekit | 1 | 0| 
-| 20220520T21:10:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11499 | 1968| 
-| 20220520T20:46:52Z | Null | https://github.com/trhacknon/CVE-2022-26717-Safari-WebGL-Exploit | 0 | 0| 
-| 20220520T20:45:18Z | Advanced network vulnerability scanner that enables you to analyse, manage and exploit network-connected devices. | https://github.com/EntySec/Penxos | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T06:47:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 487 | 91| 
+| 20220521T02:05:02Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 52 | 7| 
 | 20220520T22:30:45Z |  BackDoor sur Android  Une porte dérobée est un défaut dans un algorithme qui y est délibérément intégré par le développeur et qui permet un accès non autorisé aux données ou un contrôle à distance du système d%exploitation et de l%ordinateur dans son ensemble.  L%objectif principal d%une porte dérobée est d%accéder discrètement et rapidement à des données, dans la plupart des cas cryptées et protégées. Par exemple, une porte dérobée peut être intégrée à l%algorithme de cryptage pour l%écoute électronique ultérieure d%un canal sécurisé par un attaquant. | https://github.com/Elise12/Portederob- | 0 | 0| 
-| 20220520T17:25:56Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 483 | 91| 
 | 20220520T15:51:46Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 129 | 36| 
 | 20220520T15:40:28Z | An addon designed to catch backdoors hidden in code | https://github.com/tyguy550/BackDoorFinder | 2 | 0| 
-| 20220520T13:57:16Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 51 | 7| 
 | 20220519T16:06:48Z | X-raying Models with A Matrix to Reveal Backdoor Attacks for Federated Learning.  | https://github.com/BESTICSP/XMAM | 3 | 0| 
 | 20220519T13:39:26Z | phpStudy后门检测工具 | https://github.com/Assassins-white/phpStudy_BackDoor | 0 | 0| 
 | 20220519T08:55:18Z | cross-platform C2 framework in python 2 | https://github.com/7h3w4lk3r/pyback | 33 | 15| 
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220521T01:48:11Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 967 | 77| 
-| 20220521T00:30:08Z | A fuzzing platform for Zigbee protocol implementations | https://github.com/zigbeeprotocol/Z-Fuzzer | 0 | 0| 
-| 20220520T23:59:17Z | A fuzzing platform for Zigbee protocol implementations | https://github.com/zigbeeprotocol/z-fuzzer | 0 | 0| 
-| 20220520T20:58:48Z | Null | https://github.com/LeandroFSimeao/fuzzy-sniffle | 0 | 0| 
-| 20220520T20:29:54Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 398 | 90| 
-| 20220520T12:54:57Z | A tool for fuzzing files on the website | https://github.com/begininvoke/SensitiveFileFuzzer | 0 | 0| 
-| 20220520T11:28:36Z | Null | https://github.com/alvimaulana/Fuzzy-Tsukamoto-menentukan-kelulusan-Kelulusan-siswa | 0 | 0| 
-| 20220520T10:07:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7406 | 1590| 
-| 20220520T09:44:49Z | Fuzzy Logic progect for university practice 2022. | https://github.com/imareru/FuzzyLogic | 0 | 0| 
-| 20220520T09:01:15Z | Null | https://github.com/Allen728/NCU_Fuzzy | 0 | 0| 
+| 20220521T11:41:19Z | List of common words to fuzz directories, files or parameters | https://github.com/estebancano-dev/commonwords | 0 | 0| 
+| 20220521T11:35:53Z | my django girls repo | https://github.com/DragonVMen/fuzzy-bassoon | 0 | 0| 
+| 20220521T10:39:06Z | Javascript  | https://github.com/Jlemy29/fuzzy-bassoon | 0 | 0| 
+| 20220521T10:38:38Z | the fuzzing of firmware | https://github.com/szh2022/startFuzzing | 0 | 0| 
+| 20220521T10:11:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7410 | 1590| 
+| 20220521T09:09:18Z | Nggak tau | https://github.com/malesnyangoding/fuzzy-chainsaw | 0 | 0| 
+| 20220521T08:57:32Z | Null | https://github.com/Yulianas24/Fuzzy-Database | 0 | 0| 
+| 20220521T06:00:29Z | Use Jazzer to perform fuzzy testing of Apache Commons Imaging | https://github.com/centic9/imaging-fuzz | 0 | 0| 
+| 20220521T05:38:58Z | PatchFuzzer | https://github.com/ChoKyuWon/PatchFuzzer | 1 | 2| 
+| 20220521T05:27:36Z | Null | https://github.com/clincoln8/rohd-fuzzing | 0 | 0| 
 
 
 
