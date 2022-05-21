@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T00:05:19Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | 0 | 0| 
 | 20220521T00:04:28Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-z | 0 | 0| 
 | 20220520T23:07:24Z | Null | https://github.com/JuanTecedor/HackingTheArtOfExploitation | 0 | 0| 
 | 20220520T22:44:31Z | Recréation de papiers scientifiques - Exploiting Food Choices Biases for Healthier Recipe Recommendation | https://github.com/almehdiKrisni/Projet_RI | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220520T20:46:52Z | Null | https://github.com/trhacknon/CVE-2022-26717-Safari-WebGL-Exploit | 0 | 0| 
 | 20220520T20:45:18Z | Advanced network vulnerability scanner that enables you to analyse, manage and exploit network-connected devices. | https://github.com/EntySec/Penxos | 0 | 1| 
 | 20220520T20:25:57Z | Null | https://github.com/GameOfMacro/Exploit | 0 | 0| 
-| 20220520T18:35:50Z | Script que automatiza la busqueda de Exploits para distribuciones Linux. | https://github.com/elvinv11/buscoExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
