@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220521T01:13:11Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 70 | 14| 
 | 20220520T13:13:26Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 416 | 20| 
 | 20220520T12:36:49Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 60 | 3| 
 | 20220520T10:34:22Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 869 | 117| 
@@ -130,7 +131,6 @@
 | 20220518T21:32:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1972 | 560| 
 | 20220518T21:24:13Z | Symbolic Execution Engine for simple imperative programs | https://github.com/SamKouteili/symbolic-execution-engine | 0 | 0| 
 | 20220518T12:57:30Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 34 | 19| 
-| 20220515T16:00:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 224 | 54| 
 
 
 # big4 on Github 推荐
