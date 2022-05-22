@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220522T00:57:25Z | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | 1 | 0| 
+| 20220522T01:07:56Z | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | 1 | 0| 
 | 20220522T00:15:30Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | 0 | 0| 
 | 20220522T00:14:06Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | 0 | 0| 
 | 20220522T00:13:09Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-n | 0 | 0| 
