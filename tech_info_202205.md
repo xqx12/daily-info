@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220522T00:57:25Z | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | 1 | 0| 
 | 20220522T00:15:30Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | 0 | 0| 
 | 20220522T00:14:06Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | 0 | 0| 
 | 20220522T00:13:09Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-n | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220521T20:59:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2774 | 348| 
 | 20220521T20:58:04Z | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | 2 | 0| 
 | 20220521T20:37:05Z | A showcase of FileIO exploit in Arma Reforger (Enfusion Engine) | https://github.com/jstrojil/enforce-script-fileio-exploit | 0 | 0| 
-| 20220521T19:49:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11506 | 1970| 
 
 
 # backdoor on Github 推荐
