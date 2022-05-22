@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220521T07:55:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2865 | 414| 
+| 20220521T21:28:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2867 | 414| 
 | 20220521T01:13:11Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 70 | 14| 
 | 20220520T13:13:26Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 416 | 20| 
 | 20220520T12:36:49Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 60 | 3| 
