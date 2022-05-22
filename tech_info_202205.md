@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220522T01:14:54Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 274 | 14| 
 | 20220522T01:07:56Z | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | 1 | 0| 
 | 20220522T00:15:30Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | 0 | 0| 
 | 20220522T00:14:06Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220521T21:15:03Z | Inspect site for JS bundles and versions to scan for exploits | https://github.com/nick-brady/bughunter | 0 | 0| 
 | 20220521T20:59:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2774 | 348| 
 | 20220521T20:58:04Z | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | 2 | 0| 
-| 20220521T20:37:05Z | A showcase of FileIO exploit in Arma Reforger (Enfusion Engine) | https://github.com/jstrojil/enforce-script-fileio-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
