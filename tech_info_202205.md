@@ -31,38 +31,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220522 | 应急能力提升3：内网横向移动攻击模拟（上） | https://mp.weixin.qq.com/s/gy8fp455ZgE-8aHwBDPl5A| 
+| 20220522 | 应急能力提升2：挖矿权限维持攻击模拟 | https://mp.weixin.qq.com/s/6m22kKwHc5rvjod-uWX2wA| 
+| 20220522 | 应急能力提升1：实战应急困境与突破 | https://mp.weixin.qq.com/s/ZlknGb791XbuxWSLTJZwWA| 
+| 20220522 | 如何学习那么多的安全文章（实践篇） | https://mp.weixin.qq.com/s/GpGBrb4vm6JvYp0-mrvFIA| 
 | 20220520 | PE文件结构解析1 | https://www.sec-in.com/article/1614| 
 | 20220519 | Wobfuscator：将部分JavaScript恶意代码转换为WebAssembly以逃... | https://mp.weixin.qq.com/s/n7sc5Q20cScgvt7BNpAiEA| 
 | 20220519 | 基础架构安全弹性技术指南草案（固件安全篇） | https://zhuanlan.zhihu.com/p/515998950| 
 | 20220519 | SHELLPUB 河马在线查杀新版发布 | https://mp.weixin.qq.com/s/b44XcSoyTgYNprL6wKHh-Q| 
 | 20220518 | SSTI漏洞基础解析 | https://www.sec-in.com/article/1678| 
 | 20220518 | 微信小程序反编译 | https://mp.weixin.qq.com/s/OQWU0wSAUhaM6QaaT6-CXA| 
-| 20220518 | 一种基于Graph Kernel的API使用示例选择方法 | https://mp.weixin.qq.com/s/ys9JsRIb1OSXEKMcCaoDpw| 
-| 20220518 | 来自五眼联盟的全球最佳网络安全指导意见 | https://mp.weixin.qq.com/s/wANFsfKQ8HxxSMPMSOHxiA| 
-| 20220518 | 快速上手云原生安全平台 NeuVector | https://mp.weixin.qq.com/s/aXSA_opN-rV68rnrPO73PA| 
-| 20220518 | Cobalt Strike 分析：CS元数据编码和解码 | https://mp.weixin.qq.com/s/lXpYU9VhZd4nw2YjeUK4rQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220522T12:55:04Z | CVE-2021-43503 | Case for CVE-2021-43503 | https://github.com/kang8/CVE-2021-43503 | | 
+| 20220522T12:38:56Z | CVE-2022-26809 | Null | https://github.com/yuanLink/CVE-2022-26809 | | 
+| 20220522T12:25:14Z | CVE-2022-1040 | cve-2022-1040 is an auth bypass and remote code execution in webmin portal of sophos firewall | https://github.com/cve-hunter/CVE-2022-1040-RCE | | 
+| 20220522T12:09:19Z | CVE-2022-1388 | Big-Ip auth bypass and rce | https://github.com/seciurdt/CVE-2022-1388-mass | | 
+| 20220522T12:08:25Z | CVE-2022-1388 | Big-Ip auth bypass and rce | https://github.com/seciurdt/CVE-2022-1388 | | 
+| 20220522T08:40:53Z | CVE-2020-7961 | Null | https://github.com/pashayogi/CVE-2020-7961-Mass | | 
+| 20220522T02:20:53Z | cve-2021-4034 | cve-2021-4034 for single commcand | https://github.com/wudicainiao/cve-2021-4034 | | 
 | 20220521T22:10:27Z | CVE-2022-22963 | Null | https://github.com/trhacknon/CVE-2022-22963 | | 
 | 20220521T20:58:04Z | CVE-2020-5844 | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | | 
 | 20220521T19:10:10Z | CVE-2022-22916 | CVE-2022-22916,O2OA RCE 远程命令执行 | https://github.com/aodsec/CVE-2022-22916 | | 
-| 20220521T13:47:06Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
-| 20220521T12:37:17Z | CVE-2022-24706 | Apache CouchDB 3.2.1 - Remote Code Execution (RCE) | https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit | | 
-| 20220521T12:21:49Z | CVE-2021-3899 | race condition in apport lead to Local Privilege Escalation on Ubuntu | https://github.com/liumuqing/CVE-2021-3899_PoC | | 
-| 20220521T11:58:36Z | CVE-2022-29009 | Null | https://github.com/sudoninja-noob/CVE-2022-29009 | | 
-| 20220521T11:58:26Z | CVE-2022-29008 | Null | https://github.com/sudoninja-noob/CVE-2022-29008 | | 
-| 20220521T11:57:04Z | CVE-2022-29007 | Null | https://github.com/sudoninja-noob/CVE-2022-29007 | | 
-| 20220521T11:55:36Z | CVE-2022-29006 | Null | https://github.com/sudoninja-noob/CVE-2022-29006 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220522T10:40:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6185 | 225| 
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
-| 20220521T16:41:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6182 | 225| 
 | 20220521T15:32:40Z | Null | https://github.com/kleenpulse/kleenpulse.github.io | 0 | 0| 
 | 20220521T14:53:34Z | Config files for my GitHub profile. | https://github.com/kleenpulse/kleenpulse | 0 | 0| 
 | 20220521T00:03:37Z | Null | https://github.com/Luc-us/Klee-Community | 0 | 0| 
@@ -91,21 +91,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220522T12:13:25Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 12 | 3| 
+| 20220522T11:17:19Z | Null | https://github.com/perezEl/Android-Permission-Vulnerability-Exploiter | 0 | 0| 
+| 20220522T10:23:11Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 111 | 25| 
+| 20220522T09:37:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2777 | 348| 
+| 20220522T08:58:50Z | Protect your Spigot server against common IP forwarding exploits, as well as blocking unknown BungeeCord and Velocity proxies. | https://github.com/ComuGamersES/sentey | 10 | 0| 
+| 20220522T08:38:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11508 | 1971| 
+| 20220522T07:55:39Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 402 | 28| 
+| 20220522T06:24:48Z | Exploits for various roblox games | https://github.com/TheFunnyMan120/ExaHub | 1 | 1| 
 | 20220522T01:42:40Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 275 | 14| 
 | 20220522T01:07:56Z | A bootanim replacement that allows running full devkit shadowboots on a test kit using exploitable recovery version 11775.3 | https://github.com/RGLoader/FakeAnim | 1 | 0| 
-| 20220522T00:15:30Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-n | 0 | 0| 
-| 20220522T00:14:06Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-n | 0 | 0| 
-| 20220522T00:13:09Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-n | 0 | 0| 
-| 20220521T22:46:48Z | new exploit that will have it own custom dll. | https://github.com/god12l/Universal | 0 | 0| 
-| 20220521T21:53:31Z | Null | https://github.com/mu-ramadan/screen-v4.5.0-local-root-exploit | 0 | 0| 
-| 20220521T21:15:03Z | Inspect site for JS bundles and versions to scan for exploits | https://github.com/nick-brady/bughunter | 0 | 0| 
-| 20220521T20:59:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2774 | 348| 
-| 20220521T20:58:04Z | Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution | https://github.com/UNICORDev/exploit-CVE-2020-5844 | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220522T08:59:42Z | Backdoor Computing  Attack( Awareness Project) | https://github.com/mdqjelani/Backdoor-Computing-Attack-Final-Year-Project- | 0 | 0| 
+| 20220522T05:33:34Z |  Os Shell Remote Command Execution (GUI) ,Tool for executing backdoor on remote server | https://github.com/security007/Os-Shell | 0 | 0| 
 | 20220522T01:02:20Z | Null | https://github.com/Anonymous123CODE/RL_BackdoorDetection | 0 | 0| 
 | 20220522T00:37:59Z | Null | https://github.com/Anonymous123CODE/RL_Backdoordetection | 0 | 0| 
 | 20220521T20:00:35Z | Null | https://github.com/Jace-Mix/Backdoors-For-Neural-Networks | 0 | 0| 
@@ -114,18 +116,16 @@
 | 20220521T02:05:02Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 52 | 7| 
 | 20220520T22:30:45Z |  BackDoor sur Android  Une porte dérobée est un défaut dans un algorithme qui y est délibérément intégré par le développeur et qui permet un accès non autorisé aux données ou un contrôle à distance du système d%exploitation et de l%ordinateur dans son ensemble.  L%objectif principal d%une porte dérobée est d%accéder discrètement et rapidement à des données, dans la plupart des cas cryptées et protégées. Par exemple, une porte dérobée peut être intégrée à l%algorithme de cryptage pour l%écoute électronique ultérieure d%un canal sécurisé par un attaquant. | https://github.com/Elise12/Portederob- | 0 | 0| 
 | 20220520T15:51:46Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 129 | 36| 
-| 20220520T15:40:28Z | An addon designed to catch backdoors hidden in code | https://github.com/tyguy550/BackDoorFinder | 2 | 0| 
-| 20220519T16:06:48Z | X-raying Models with A Matrix to Reveal Backdoor Attacks for Federated Learning.  | https://github.com/BESTICSP/XMAM | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220522T07:00:55Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 870 | 117| 
 | 20220521T21:28:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2867 | 414| 
 | 20220521T01:13:11Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 70 | 14| 
 | 20220520T13:13:26Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 416 | 20| 
 | 20220520T12:36:49Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 60 | 3| 
-| 20220520T10:34:22Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 869 | 117| 
 | 20220519T21:21:56Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 2 | 0| 
 | 20220518T21:58:48Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 363 | 18| 
 | 20220518T21:32:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1972 | 560| 
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220522T12:22:44Z | Null | https://github.com/artantica/fuzzy_bvp_labeler | 0 | 0| 
+| 20220522T10:08:55Z | A readme file for profile. | https://github.com/FuzzyNat26/FuzzyNat26 | 0 | 0| 
+| 20220522T09:30:13Z | Null | https://github.com/Akash-Shakthivel/Neuro-Fuzzy-interence | 0 | 0| 
+| 20220522T08:27:51Z | Null | https://github.com/Mrtao233/fuzzy-bassoon | 0 | 0| 
+| 20220522T07:01:47Z | Null | https://github.com/Nicholas-Kipkoech/fuzzy-engine | 0 | 0| 
+| 20220522T01:17:05Z | Fuzzy matching for `company-mode% | https://github.com/jcs-elpa/company-fuzzy | 85 | 7| 
 | 20220521T20:22:15Z | Just trying out git stuff for a mini git project | https://github.com/owseaman/fuzzy-sniffle | 0 | 0| 
 | 20220521T19:30:49Z | This program does fuzzy matching on two datasets to match data that is not quite matched. It is useful for data, such as address, that are not quite the same, but similar  | https://github.com/DavidMLouis/fuzzy_matching_on_address | 0 | 0| 
 | 20220521T18:33:12Z | Null | https://github.com/restuarachman/fuzzy-logic | 0 | 0| 
 | 20220521T18:29:47Z | Null | https://github.com/vipinkumar-99/Robust-rank-correlation-coefficients-on-the-basis-of-fuzzy-orderings | 0 | 0| 
-| 20220521T18:26:09Z | 提出用 | https://github.com/sogaryou/fuzzbuzz- | 0 | 0| 
-| 20220521T18:23:56Z | Null | https://github.com/sogaryou/fuzzbuzz | 0 | 0| 
-| 20220521T17:33:58Z | A small package that extends fuzzing in jest for Arweave projects. | https://github.com/Hansa-Network/arweave-jest-fuzzing | 0 | 0| 
-| 20220521T16:27:37Z | A fuzzy extractor written in C, based on a Python implementation by C. Yagemann. | https://github.com/LDrack/c-fuzzy-extractor | 0 | 0| 
-| 20220521T12:51:10Z | Null | https://github.com/thoriqakhdn/FuzzyLogic | 0 | 0| 
-| 20220521T12:35:08Z | Null | https://github.com/luthfi55/fuzzyFile | 0 | 0| 
 
 
 
