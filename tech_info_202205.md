@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220522T00:37:59Z | Null | https://github.com/Anonymous123CODE/RL_Backdoordetection | 0 | 0| 
 | 20220521T20:00:35Z | Null | https://github.com/Jace-Mix/Backdoors-For-Neural-Networks | 0 | 0| 
 | 20220521T14:51:10Z | Null | https://github.com/F1vExQ/BackDoor | 0 | 0| 
 | 20220521T06:47:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 487 | 91| 
@@ -115,7 +116,6 @@
 | 20220520T15:40:28Z | An addon designed to catch backdoors hidden in code | https://github.com/tyguy550/BackDoorFinder | 2 | 0| 
 | 20220519T16:06:48Z | X-raying Models with A Matrix to Reveal Backdoor Attacks for Federated Learning.  | https://github.com/BESTICSP/XMAM | 3 | 0| 
 | 20220519T13:39:26Z | phpStudy后门检测工具 | https://github.com/Assassins-white/phpStudy_BackDoor | 0 | 0| 
-| 20220519T08:55:18Z | cross-platform C2 framework in python 2 | https://github.com/7h3w4lk3r/pyback | 33 | 15| 
 
 
 # symbolic execution on Github 推荐
