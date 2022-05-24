@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220524T12:33:53Z | Detecting Backdoors in ur Server Scripts, like Cipher | https://github.com/PlantBronze/Anti-Backdoor | 0 | 0| 
 | 20220524T08:46:04Z | DO you use DashactylManager? How do you know its safe... How do you know there is no backdoor... Do you trust a random bot with full access to your panel and clientarea? | https://github.com/acktarcodes/Dashactyl-DiscordUTILS | 0 | 0| 
 | 20220524T05:38:40Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 489 | 92| 
 | 20220524T03:32:20Z | backdoor | https://github.com/skymavis86/back | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20220523T07:18:08Z | Null | https://github.com/THUYimingLi/BackdoorBox | 71 | 18| 
 | 20220523T07:06:45Z | Chat group/Backdoor/Keylogger | https://github.com/AmraneZ/First-Project-v1.0 | 0 | 0| 
 | 20220522T20:34:56Z | Null | https://github.com/Anonymous123CODE/RL_BackdoorDetection | 0 | 0| 
-| 20220522T14:30:12Z | Null | https://github.com/IIMARKY123/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
