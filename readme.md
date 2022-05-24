@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220524T12:56:53Z | fuzzy-carnival | https://github.com/FurongYe/fuzzy-carnival | 0 | 0| 
 | 20220524T12:50:33Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 3 | 0| 
 | 20220524T12:48:35Z | Null | https://github.com/srg-imperial/SnapFuzz-artefact | 1 | 0| 
 | 20220524T12:13:03Z | StateAFL: A Greybox Fuzzer for Stateful Network Servers | https://github.com/stateafl/stateafl | 95 | 15| 
@@ -96,7 +97,6 @@
 | 20220524T07:05:30Z | a test case mutator based on generation for fuzzing. | https://github.com/dr0p1et/dmutator | 0 | 0| 
 | 20220524T06:57:00Z | Null | https://github.com/kowells/123200090-123200096_Fuzzy | 0 | 0| 
 | 20220524T06:35:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4140 | 984| 
-| 20220524T00:32:52Z | Null | https://github.com/jenna-graham/fuzzy-bunny-hb | 0 | 0| 
 
 
 
