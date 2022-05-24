@@ -48,6 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220524T12:46:15Z | Swift playground to learn basics of buffer overflow vulnerability with simple ARM64 emulator to build an exploit and to learn ARM64 assembly language  | https://github.com/bpluta/Pwnground | 0 | 0| 
+| 20220524T12:44:57Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 0 | 0| 
 | 20220524T11:33:23Z | Services, Checkers and Exploits from saarCTF 2022. https://ctf.saarland | https://github.com/saarsec/saarctf-2022 | 4 | 0| 
 | 20220524T11:31:43Z | PixelBot is a combination of an addon and a python program that exploits WoW API in order to automate characters and play the game alone (when you need 5 or 25 people). | https://github.com/Serenalyw/PixelBot | 0 | 0| 
 | 20220524T09:46:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3024 | 432| 
@@ -56,8 +58,6 @@
 | 20220524T06:49:45Z | HME a hybrid memory emulator for studying the performance and energy characteristics of upcoming NVM technologies. HME exploits features available in commodity NUMA architectures to emulate two kinds of memories: fast, local DRAM, and slower, remote NVM on other NUMA nodes. HME can emulates a wide range of NVM latencies and bandwidth by injecting different memory access delay on the remote NUMA nodes. To facilitate programmers and researchers in evaluating the impact of NVM on the application performance, a high-level programming interface is also provided to allocate memory from NVM or DRAM nodes. | https://github.com/CGCL-codes/HME | 40 | 12| 
 | 20220524T06:27:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 409 | 118| 
 | 20220524T03:24:36Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 49 | 8| 
-| 20220524T01:36:58Z | A cleaned up version of 43999.py since it was borked on Exploit-DB - ported to py3. | https://github.com/pry0cc/uniview-password-disclosure | 1 | 0| 
-| 20220524T01:23:43Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 0 | 0| 
 
 
 # backdoor on Github 推荐
