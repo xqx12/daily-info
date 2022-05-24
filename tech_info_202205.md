@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220524T12:46:15Z | Swift playground to learn basics of buffer overflow vulnerability with simple ARM64 emulator to build an exploit and to learn ARM64 assembly language  | https://github.com/bpluta/Pwnground | 0 | 0| 
-| 20220524T12:44:57Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 0 | 0| 
+| 20220524T12:50:52Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 0 | 0| 
+| 20220524T12:48:59Z | Swift playground to learn basics of buffer overflow vulnerability with simple ARM64 emulator to build an exploit and to learn ARM64 assembly language  | https://github.com/bpluta/Pwnground | 0 | 0| 
 | 20220524T11:33:23Z | Services, Checkers and Exploits from saarCTF 2022. https://ctf.saarland | https://github.com/saarsec/saarctf-2022 | 4 | 0| 
 | 20220524T11:31:43Z | PixelBot is a combination of an addon and a python program that exploits WoW API in order to automate characters and play the game alone (when you need 5 or 25 people). | https://github.com/Serenalyw/PixelBot | 0 | 0| 
 | 20220524T09:46:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3024 | 432| 
@@ -149,8 +149,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220524T12:50:33Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 3 | 0| 
+| 20220524T12:48:35Z | Null | https://github.com/srg-imperial/SnapFuzz-artefact | 1 | 0| 
 | 20220524T12:13:03Z | StateAFL: A Greybox Fuzzer for Stateful Network Servers | https://github.com/stateafl/stateafl | 95 | 15| 
-| 20220524T11:08:57Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 2 | 0| 
 | 20220524T10:49:05Z | Language Based Security Project focusing on differential fuzzing | https://github.com/casperes1996/DiffFuzzProject | 0 | 0| 
 | 20220524T10:10:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7436 | 1594| 
 | 20220524T07:22:49Z | Instance from <A genetic algorithm for flexible job shop scheduling with fuzzy processing time> | https://github.com/Aihong-Sun/Fuzzy_time_FJSP_Instance | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220524T06:57:00Z | Null | https://github.com/kowells/123200090-123200096_Fuzzy | 0 | 0| 
 | 20220524T06:35:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4140 | 984| 
 | 20220524T00:32:52Z | Null | https://github.com/jenna-graham/fuzzy-bunny-hb | 0 | 0| 
-| 20220524T00:20:13Z | Null | https://github.com/mariahschock/Fuzzy-Bunny | 0 | 0| 
 
 
 
