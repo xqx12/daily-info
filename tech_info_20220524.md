@@ -86,7 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220524T11:43:08Z | StateAFL: A Greybox Fuzzer for Stateful Network Servers | https://github.com/stateafl/stateafl | 94 | 15| 
+| 20220524T12:13:03Z | StateAFL: A Greybox Fuzzer for Stateful Network Servers | https://github.com/stateafl/stateafl | 95 | 15| 
 | 20220524T11:08:57Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 2 | 0| 
 | 20220524T10:49:05Z | Language Based Security Project focusing on differential fuzzing | https://github.com/casperes1996/DiffFuzzProject | 0 | 0| 
 | 20220524T10:10:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7436 | 1594| 
