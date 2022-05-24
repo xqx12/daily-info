@@ -48,8 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220524T12:46:15Z | Swift playground to learn basics of buffer overflow vulnerability with simple ARM64 emulator to build an exploit and to learn ARM64 assembly language  | https://github.com/bpluta/Pwnground | 0 | 0| 
-| 20220524T12:44:57Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 0 | 0| 
+| 20220524T12:50:52Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 0 | 0| 
+| 20220524T12:48:59Z | Swift playground to learn basics of buffer overflow vulnerability with simple ARM64 emulator to build an exploit and to learn ARM64 assembly language  | https://github.com/bpluta/Pwnground | 0 | 0| 
 | 20220524T11:33:23Z | Services, Checkers and Exploits from saarCTF 2022. https://ctf.saarland | https://github.com/saarsec/saarctf-2022 | 4 | 0| 
 | 20220524T11:31:43Z | PixelBot is a combination of an addon and a python program that exploits WoW API in order to automate characters and play the game alone (when you need 5 or 25 people). | https://github.com/Serenalyw/PixelBot | 0 | 0| 
 | 20220524T09:46:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3024 | 432| 
