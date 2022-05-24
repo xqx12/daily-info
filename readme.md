@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220524T12:15:01Z | CVE-2022-30778 | Case for CVE-2022-30778 | https://github.com/kang8/CVE-2022-30778 | | 
 | 20220524T10:15:32Z | CVE-2022-0185 | CVE-2022-0185 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
-| 20220524T09:58:46Z | CVE-2022-30778 | Case for CVE-2022-30778 | https://github.com/kang8/CVE-2022-30778 | | 
 | 20220524T09:50:45Z | CVE-2022-1292 | CVE-2022-1292 | https://github.com/li8u99/CVE-2022-1292 | | 
 | 20220524T08:49:01Z | CVE-2020-26233 | Null | https://github.com/whr819987540/test_CVE-2020-26233 | | 
 | 20220524T07:30:03Z | CVE-2022-25235 | Null | https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25235 | | 
