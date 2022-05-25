@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220525T12:26:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6237 | 226| 
+| 20220525T12:32:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6239 | 226| 
 
 
 # s2e on Github 推荐
@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220525T12:33:45Z | MASS: Modality-collaborative semi-supervised segmentation by exploiting cross-modal consistency from unpaired CT and MRI images | https://github.com/xy123chen/MASS | 0 | 0| 
 | 20220525T11:38:02Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 98 | 25| 
 | 20220525T11:16:07Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 334 | 70| 
 | 20220525T11:10:10Z | Easily view exploits for Roblox and exploit faster. | https://github.com/iiAdmiistatedii/Exploits | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20220525T01:06:23Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220525T01:05:27Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220525T00:27:54Z | Adds Back Various Exploits From Classic Daggerfall That Were Fixed In Unity. | https://github.com/magicono43/DFU-Mod_Classic-Exploits | 0 | 0| 
-| 20220525T00:27:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2788 | 351| 
 
 
 # backdoor on Github 推荐
