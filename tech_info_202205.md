@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220525 | Windows 内核 Component Filter Mitigation 的实现机制研究 | https://big5-sec.github.io/posts/component-filter-mitigation/| 
+| 20220525 | 研究员 Alexander Popov 对 Fuchsia 操作系统的安全研究 | https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html| 
+| 20220525 | 近期开源的 Tetragon 工具基于 eBPF 提供内核层面的漏洞攻击检测能力，grsecurity 研究员实际测试并发现 Tetragon 存在一些缺陷 | https://grsecurity.net/tetragone_a_lesson_in_security_fundamentals| 
+| 20220525 | Linux DirtyPipe 漏洞在 Android 平台的利用 | https://docs.google.com/presentation/d/1Tq00gy1GtiK0OvNYOy_kCz0er9ZECBXGoy5Lfy5MD3M/mobilepresent#slide=id.p| 
+| 20220525 | Windows WDM 驱动漏洞挖掘 | https://www.cyberark.com/resources/threat-research-blog/finding-bugs-in-windows-drivers-part-1-wdm| 
+| 20220525 | 为 Ghidra 增加对一种新的 ISA 指令架构的支持 | https://trenchant.io/expanding-the-dragon-adding-an-isa-to-ghidra/| 
+| 20220525 | 从安全的角度研究 Windows ALPC 的内幕 | http://csandker.io/2022/05/24/Offensive-Windows-IPC-3-ALPC.html| 
+| 20220525 | Zoom XMPP 协议处理 RCE 漏洞分析，漏洞触发不需要用户参与，来自 Project Zero | https://bugs.chromium.org/p/project-zero/issues/detail?id=2254| 
+| 20220525 | Quarkslab 对即时通讯软件端到端加密机制的分析 | http://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-1.html| 
 | 20220524 | 近期 Web skimming 攻击中的一些代码混淆技术 | https://www.microsoft.com/security/blog/2022/05/23/beneath-the-surface-uncovering-the-shift-in-web-skimming/| 
 | 20220524 | Fastjson 1.2.80 及以下版本存在绕过默认 autoType 关闭的限制，实现远程代码执行 | http://github.com/alibaba/fastjson/wiki/security_update_20220523| 
 | 20220524 | 在开启虚拟化保护 VBS、HVCI、内核 CFG 的环境下实现漏洞利用 | https://connormcgarr.github.io/hvci/| 
@@ -17,20 +26,12 @@
 | 20220524 | 面向 Red Team 的 Rust 版 Windows 内核驱动 | https://github.com/memN0ps/eagle-rs/| 
 | 20220524 | Exploiting a Use-After-Free for code execution in every version of Python 3[译文] | https://tttang.com/archive/1601/| 
 | 20220523 | 从零开始的 Kubernetes 攻防 | https://github.com/neargle/my-re0-k8s-security| 
-| 20220523 | A new way to bypass `__wakeup()` and build POP chain | http://paper.seebug.org/1905/| 
-| 20220523 | 俄罗斯 Wizard Spider APT 组织分析 | https://github.com/blackorbird/APT_REPORT/blob/master/Wizard%20Spider/WizardSpider_TLPWHITE_v.1.4.pdf| 
-| 20220523 | PS4 设备虚拟现实外设硬件逆向分析、漏洞挖掘 | http://fail0verflow.com/blog/2022/ps4-psvr/| 
-| 20220523 | Ghidra decompiler internals 以及如何基于 P-Code 实现自动化分析 | http://research.nccgroup.com/2022/05/20/earlyremoval-in-the-conservatory-with-the-wrench/| 
-| 20220523 | App 数据文件泄露常见漏洞类型以及对应的攻击方式 | https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/| 
-| 20220523 | When eBPF meets TLS，来自 CanSecWest 会议 | https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf| 
-| 20220523 | Safari WebKit WebGL CVE-2022-26717 UAF 漏洞分析 | http://blog.theori.io/research/Exploiting-Safari-ANGLE-Component/| 
-| 20220523 | 终端应用安全之网络流量分析 | http://evilpan.com/2022/05/22/network-analysis/| 
-| 20220523 | Lotus 1-2-3 For Linux | https://lock.cmpxchg8b.com/linux123.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220525 | SHADEWATCHER: 基于系统审计记录和推荐概念的网络威胁分析 | https://mp.weixin.qq.com/s/-BMnRtAAdBn8U5N3PTKz9Q| 
 | 20220524 | 针对域名历史信誉的潜在滥用 | https://mp.weixin.qq.com/s/1I5HEesRI1G2IlK9rWHmlQ| 
 | 20220524 | 基于XDR的网络安全体系思考与实践 | https://mp.weixin.qq.com/s/7xbUzxhrd8TXqPJo1tAizQ| 
 | 20220524 | SecWiki周刊（第429期) | https://www.sec-wiki.com/weekly/429| 
@@ -40,28 +41,27 @@
 | 20220522 | 应急能力提升3：内网横向移动攻击模拟（上） | https://mp.weixin.qq.com/s/gy8fp455ZgE-8aHwBDPl5A| 
 | 20220522 | 应急能力提升2：挖矿权限维持攻击模拟 | https://mp.weixin.qq.com/s/6m22kKwHc5rvjod-uWX2wA| 
 | 20220522 | 应急能力提升1：实战应急困境与突破 | https://mp.weixin.qq.com/s/ZlknGb791XbuxWSLTJZwWA| 
-| 20220522 | 如何学习那么多的安全文章（实践篇） | https://mp.weixin.qq.com/s/GpGBrb4vm6JvYp0-mrvFIA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220525T01:57:07Z | CVE-2022-23046 | Tinker Script for CVE-2022-23046 | https://github.com/bernauers/CVE-2022-23046 | | 
-| 20220525T01:56:32Z | CVE-2021-44228 | Null | https://github.com/yuuki1967/CVE-2021-44228-Apache-Log4j-Rce | | 
-| 20220525T01:30:37Z | CVE-2020-29597 | Csrf file upload insecure | https://github.com/trhacknon/CVE-2020-29597 | | 
-| 20220525T01:26:41Z | CVE-2022-0185 | CVE-2022-0185 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
-| 20220525T00:38:30Z | CVE-2021-4034 | Script en python sobre la vulnerabilidad CVE-2021-4034 | https://github.com/GatoGamer1155/CVE-2021-4034 | | 
-| 20220525T00:37:29Z | CVE-2021-22204 | Script en python para crear imagenes maliciosas (reverse shell) | https://github.com/GatoGamer1155/CVE-2021-22204 | | 
-| 20220525T00:09:20Z | CVE-2021-27330 | Triconsole 3.75 - Reflected XSS | https://github.com/trhacknon/CVE-2021-27330 | | 
-| 20220524T16:45:48Z | CVE-2021-46422 | SDT-CW3B1 1.1.0 - OS Command Injection | https://github.com/nobodyatall648/CVE-2021-46422 | | 
-| 20220524T16:41:10Z | CVE-2022-30778 | Case for CVE-2022-30778 | https://github.com/kang8/CVE-2022-30778 | | 
-| 20220524T16:36:03Z | CVE-2020-25213 | Null | https://github.com/b1ackros337/CVE-2020-25213 | | 
+| 20220525T11:47:09Z | CVE-2022-1292 | CVE-2022-1292 | https://github.com/li8u99/CVE-2022-1292 | | 
+| 20220525T10:50:30Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
+| 20220525T10:04:58Z | CVE-2020-0188 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0188_CVE-0219 | | 
+| 20220525T10:00:53Z | CVE-2020-0219 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188_old-one | | 
+| 20220525T09:52:46Z | CVE-2020-0219 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2020-0219_CVE-2020-0188_old | | 
+| 20220525T09:09:09Z | CVE-2021-45960 | Null | https://github.com/Trinadh465/external_lib_AOSP10_r33_CVE-2021-45960_CVE-2021-46143- | | 
+| 20220525T07:07:01Z | CVE-2022-1292 | Null | https://github.com/trhacknon/CVE-2022-1292 | | 
+| 20220525T06:57:38Z | CVE-2021-0308 | Null | https://github.com/Trinadh465/platform_external_gptfdisk_AOSP10_r33_CVE-2021-0308 | | 
+| 20220525T06:11:20Z | CVE-2022-29221 | CVE-2022-29221 Proof of Concept Code | https://github.com/sbani/CVE-2022-29221-PoC | | 
+| 20220525T02:23:07Z | CVE-2022-0185 | CVE-2022-0185 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220524T21:13:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6200 | 225| 
+| 20220525T11:55:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6232 | 225| 
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
 | 20220521T15:32:40Z | Null | https://github.com/kleenpulse/kleenpulse.github.io | 0 | 0| 
 | 20220521T14:53:34Z | Config files for my GitHub profile. | https://github.com/kleenpulse/kleenpulse | 0 | 0| 
@@ -106,23 +106,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220525T01:43:16Z | 404 Backdoor, allows you to execute commands remotely. | https://github.com/ElusiveSquad/Backdoor-RCE | 0 | 0| 
+| 20220525T11:56:46Z | A pretty simple backdoor Trojan program | https://github.com/DeanCash/BackdoorTrojan | 0 | 0| 
+| 20220525T06:37:52Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 154 | 42| 
+| 20220525T06:09:36Z | Database of backdoor | https://github.com/jklop-inferno/jklop | 0 | 0| 
+| 20220525T06:03:47Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 17 | 5| 
+| 20220525T02:08:45Z | 404 Backdoor, allows you to execute commands remotely. | https://github.com/ElusiveSquad/Backdoor-RCE | 1 | 0| 
 | 20220524T20:09:20Z | Null | https://github.com/wsqwsq/Towards-a-Defense-against-Backdoor-Attacks-in-Continual-Federated-Learning | 0 | 0| 
 | 20220524T16:22:00Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 688 | 185| 
 | 20220524T14:49:39Z | Detecting Backdoors in ur Server Scripts, like Cipher | https://github.com/PlantBronze/Anti-Backdoor | 1 | 0| 
 | 20220524T13:22:26Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 490 | 92| 
 | 20220524T08:46:04Z | DO you use DashactylManager? How do you know its safe... How do you know there is no backdoor... Do you trust a random bot with full access to your panel and clientarea? | https://github.com/acktarcodes/Dashactyl-DiscordUTILS | 0 | 0| 
-| 20220524T03:32:20Z | backdoor | https://github.com/skymavis86/back | 0 | 0| 
-| 20220523T12:16:23Z | Null | https://github.com/omayer1728/backdoor-hack | 0 | 0| 
-| 20220523T07:22:30Z | PyBack - Backdoor in Python - Reverse TCP | https://github.com/Omikrone/PyBack | 4 | 0| 
-| 20220523T07:18:08Z | Null | https://github.com/THUYimingLi/BackdoorBox | 71 | 18| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220525T02:55:27Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 876 | 117| 
 | 20220524T19:06:19Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 38| 
-| 20220524T13:30:40Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 875 | 117| 
 | 20220524T12:30:25Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 426 | 21| 
 | 20220524T09:40:05Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 64 | 3| 
 | 20220524T08:09:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2874 | 415| 
@@ -130,7 +130,7 @@
 | 20220521T01:13:11Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 70 | 14| 
 | 20220519T21:21:56Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 2 | 0| 
 | 20220518T21:58:48Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 363 | 18| 
-| 20220518T21:32:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1972 | 561| 
+| 20220518T21:32:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1972 | 562| 
 
 
 # big4 on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220525T11:45:39Z | Demonstration of Fuzzy-Portable using React Native | https://github.com/gasech/Fuzzy-Native | 0 | 0| 
+| 20220525T10:27:40Z | Null | https://github.com/Levatein/web_fuzz_with_radamsa | 0 | 0| 
+| 20220525T09:10:25Z | Deliverables for Lab DD2460 | https://github.com/granhall/Memory-Safety-and-Fuzzing | 0 | 0| 
+| 20220525T09:09:03Z | Null | https://github.com/MrinskiyAndrey/FuzzyLogic | 0 | 0| 
+| 20220525T09:02:24Z | Fuzzy search by keeping the UI layer as abstract as possible. | https://github.com/briosheje/react-fusejs-fuzzy-search | 0 | 0| 
+| 20220525T05:14:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7437 | 1594| 
+| 20220524T17:03:04Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2547 | 168| 
+| 20220524T15:20:12Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 28 | 11| 
+| 20220524T13:46:27Z | Null | https://github.com/choar816/meow-meow-fuzzyface | 0 | 0| 
 | 20220524T12:56:53Z | fuzzy-carnival | https://github.com/FurongYe/fuzzy-carnival | 0 | 0| 
-| 20220524T12:50:33Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 3 | 0| 
-| 20220524T12:48:35Z | Null | https://github.com/srg-imperial/SnapFuzz-artefact | 1 | 0| 
-| 20220524T12:13:03Z | StateAFL: A Greybox Fuzzer for Stateful Network Servers | https://github.com/stateafl/stateafl | 95 | 15| 
-| 20220524T10:49:05Z | Language Based Security Project focusing on differential fuzzing | https://github.com/casperes1996/DiffFuzzProject | 0 | 0| 
-| 20220524T10:10:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7436 | 1594| 
-| 20220524T07:22:49Z | Instance from <A genetic algorithm for flexible job shop scheduling with fuzzy processing time> | https://github.com/Aihong-Sun/Fuzzy_time_FJSP_Instance | 0 | 0| 
-| 20220524T07:05:30Z | a test case mutator based on generation for fuzzing. | https://github.com/dr0p1et/dmutator | 0 | 0| 
-| 20220524T06:57:00Z | Null | https://github.com/kowells/123200090-123200096_Fuzzy | 0 | 0| 
-| 20220524T06:35:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4140 | 984| 
 
 
 
