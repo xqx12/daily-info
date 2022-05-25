@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220525T12:32:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6239 | 226| 
+| 20220525T12:40:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6242 | 226| 
 
 
 # s2e on Github 推荐
@@ -53,6 +53,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220525T12:33:45Z | MASS: Modality-collaborative semi-supervised segmentation by exploiting cross-modal consistency from unpaired CT and MRI images | https://github.com/xy123chen/MASS | 0 | 0| 
+| 20220525T12:33:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11531 | 1973| 
 | 20220525T11:38:02Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 98 | 25| 
 | 20220525T11:16:07Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 334 | 70| 
 | 20220525T11:10:10Z | Easily view exploits for Roblox and exploit faster. | https://github.com/iiAdmiistatedii/Exploits | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20220525T01:07:08Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220525T01:06:23Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220525T01:05:27Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v | 0 | 0| 
-| 20220525T00:27:54Z | Adds Back Various Exploits From Classic Daggerfall That Were Fixed In Unity. | https://github.com/magicono43/DFU-Mod_Classic-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220525T12:40:05Z | fuzzy-carnival | https://github.com/FurongYe/fuzzy-carnival | 0 | 0| 
 | 20220525T11:45:39Z | Demonstration of Fuzzy-Portable using React Native | https://github.com/gasech/Fuzzy-Native | 0 | 0| 
 | 20220525T10:27:40Z | Null | https://github.com/Levatein/web_fuzz_with_radamsa | 0 | 0| 
 | 20220525T09:10:25Z | Deliverables for Lab DD2460 | https://github.com/granhall/Memory-Safety-and-Fuzzing | 0 | 0| 
