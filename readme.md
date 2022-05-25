@@ -15,29 +15,35 @@
 | 20220524 | 上海交大 GOSSIP 研究组对 IEEE S&P 2022 会议的云端报道 | https://mp.weixin.qq.com/s/yRKjJHaxYnZgxr6gMjem4Q| 
 | 20220524 | Google TAG 团队 2021 年监测到的一些 Android 0Day 漏洞 | https://blog.google/threat-analysis-group/protecting-android-users-from-0-day-attacks/| 
 | 20220524 | 面向 Red Team 的 Rust 版 Windows 内核驱动 | https://github.com/memN0ps/eagle-rs/| 
+| 20220524 | Exploiting a Use-After-Free for code execution in every version of Python 3[译文] | https://tttang.com/archive/1601/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220524 | 针对域名历史信誉的潜在滥用 | https://mp.weixin.qq.com/s/1I5HEesRI1G2IlK9rWHmlQ| 
+| 20220524 | 基于XDR的网络安全体系思考与实践 | https://mp.weixin.qq.com/s/7xbUzxhrd8TXqPJo1tAizQ| 
+| 20220524 | SecWiki周刊（第429期) | https://www.sec-wiki.com/weekly/429| 
+| 20220524 | 基于嵌入的知识图谱实体对齐的基准研究 | https://mp.weixin.qq.com/s/u4bcXK2He2OZcx_4dzW4aA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220524T12:15:01Z | CVE-2022-30778 | Case for CVE-2022-30778 | https://github.com/kang8/CVE-2022-30778 | | 
+| 20220524T16:45:48Z | CVE-2021-46422 | SDT-CW3B1 1.1.0 - OS Command Injection | https://github.com/nobodyatall648/CVE-2021-46422 | | 
+| 20220524T16:41:10Z | CVE-2022-30778 | Case for CVE-2022-30778 | https://github.com/kang8/CVE-2022-30778 | | 
+| 20220524T16:36:03Z | CVE-2020-25213 | Null | https://github.com/b1ackros337/CVE-2020-25213 | | 
+| 20220524T13:23:56Z | cve-2022-30525 | Initial POC for the CVE-2022-30525 | https://github.com/iveresk/cve-2022-30525 | | 
 | 20220524T10:15:32Z | CVE-2022-0185 | CVE-2022-0185 POC and Docker and Analysis write up | https://github.com/chenaotian/CVE-2022-0185 | | 
 | 20220524T09:50:45Z | CVE-2022-1292 | CVE-2022-1292 | https://github.com/li8u99/CVE-2022-1292 | | 
 | 20220524T08:49:01Z | CVE-2020-26233 | Null | https://github.com/whr819987540/test_CVE-2020-26233 | | 
 | 20220524T07:30:03Z | CVE-2022-25235 | Null | https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25235 | | 
-| 20220524T05:45:18Z | cve-2022-30525 | Initial POC for the CVE-2022-30525 | https://github.com/iveresk/cve-2022-30525 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220524T08:43:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6199 | 225| 
+| 20220524T21:13:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6200 | 225| 
 
 
 # s2e on Github 推荐
@@ -48,24 +54,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220524T23:40:45Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-2022-UPDATED | 0 | 0| 
+| 20220524T23:39:04Z | Null | https://github.com/Jack7988/XLL-Excel-Exploit-Bypass-Windows-Defender | 0 | 0| 
+| 20220524T23:37:06Z | Pumper, Binder, Anti-Memory, Anti ESET Exploit, Randomizer, 3 Type Of Obfuscations | https://github.com/CodiumAlgorithm/Codium-Algorithm-Best-Crypter-Protector-2022 | 1 | 0| 
+| 20220524T22:02:14Z | Experiments and evaluation for the paper %DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency%, RTSS 2020. (artifacts evaluation passed) | https://github.com/automaticdai/research-dag-scheduling-analysis | 5 | 0| 
+| 20220524T21:46:46Z | A repository for demonstration purposes of the various vulnerabilities and exploits developed by Authentura | https://github.com/Authentura/demos | 1 | 0| 
+| 20220524T21:44:49Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 114 | 27| 
+| 20220524T21:14:36Z | We%ve been developing high-quality, undetected games hacks for years. We update all of our gameplay hacks continuously, including Fortnite Battle cheats, to stay undetected and keep our online gamers protected against various anti-cheat software and tools. Here are some reasons why you should use our hacks:  Modern, quality hacks developed by professional developers A variety of game hacks and cheats with outstanding features 24/7 customer support Protection against anti-cheat software Completely secure and undetected Continuous patches and updates Kernel level bypasses for complete and long-term security Aimbot:      Weapon Selection     Memory Aim     On Key (On/Off)     Silent Aim (P Silent)     Aim Bones (Head) (Neck) (Body) (Closest)     No Recoil     Knocked Players     Backtrack     Visibles Check     Smooth (1-10)     FOV (1-100)  Visuals:      On Key (On/Off)     Player Names     Player Distance     Itmes     Health Bar (Constant) (Normal)     Health Text     Bounding Box (3D) (2D) | https://github.com/TorexRcs/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 1 | 0| 
+| 20220524T20:32:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11525 | 1974| 
 | 20220524T12:50:52Z | A few JavaScript exploits that can be embedded in websites.  | https://github.com/THECRAZEDPOTATTO/HTML-JavaScript-exploits | 0 | 0| 
 | 20220524T12:48:59Z | Swift playground to learn basics of buffer overflow vulnerability with simple ARM64 emulator to build an exploit and to learn ARM64 assembly language  | https://github.com/bpluta/Pwnground | 0 | 0| 
-| 20220524T11:33:23Z | Services, Checkers and Exploits from saarCTF 2022. https://ctf.saarland | https://github.com/saarsec/saarctf-2022 | 4 | 0| 
-| 20220524T11:31:43Z | PixelBot is a combination of an addon and a python program that exploits WoW API in order to automate characters and play the game alone (when you need 5 or 25 people). | https://github.com/Serenalyw/PixelBot | 0 | 0| 
-| 20220524T09:46:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3024 | 432| 
-| 20220524T09:18:13Z | Privilege Escalation Scan Tool and Guide how to hardening and exploit the vulnerability | https://github.com/HighEscalation/PEScanTool | 1 | 0| 
-| 20220524T08:40:43Z | Miscellaneous exploit scripts | https://github.com/0x0FB0/MiscSploits | 15 | 5| 
-| 20220524T06:49:45Z | HME a hybrid memory emulator for studying the performance and energy characteristics of upcoming NVM technologies. HME exploits features available in commodity NUMA architectures to emulate two kinds of memories: fast, local DRAM, and slower, remote NVM on other NUMA nodes. HME can emulates a wide range of NVM latencies and bandwidth by injecting different memory access delay on the remote NUMA nodes. To facilitate programmers and researchers in evaluating the impact of NVM on the application performance, a high-level programming interface is also provided to allocate memory from NVM or DRAM nodes. | https://github.com/CGCL-codes/HME | 40 | 12| 
-| 20220524T06:27:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 409 | 118| 
-| 20220524T03:24:36Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 49 | 8| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220524T12:37:18Z | Detecting Backdoors in ur Server Scripts, like Cipher | https://github.com/PlantBronze/Anti-Backdoor | 0 | 0| 
+| 20220524T20:09:20Z | Null | https://github.com/wsqwsq/Towards-a-Defense-against-Backdoor-Attacks-in-Continual-Federated-Learning | 0 | 0| 
+| 20220524T16:22:00Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 688 | 185| 
+| 20220524T14:49:39Z | Detecting Backdoors in ur Server Scripts, like Cipher | https://github.com/PlantBronze/Anti-Backdoor | 1 | 0| 
+| 20220524T13:22:26Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 490 | 92| 
 | 20220524T08:46:04Z | DO you use DashactylManager? How do you know its safe... How do you know there is no backdoor... Do you trust a random bot with full access to your panel and clientarea? | https://github.com/acktarcodes/Dashactyl-DiscordUTILS | 0 | 0| 
-| 20220524T05:38:40Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 489 | 92| 
 | 20220524T03:32:20Z | backdoor | https://github.com/skymavis86/back | 0 | 0| 
 
 
