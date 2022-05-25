@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220525T11:38:02Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 98 | 25| 
+| 20220525T11:16:07Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 334 | 70| 
+| 20220525T11:10:10Z | Easily view exploits for Roblox and exploit faster. | https://github.com/iiAdmiistatedii/Exploits | 0 | 0| 
+| 20220525T10:27:13Z | Python parser for getting recent exploited vulnerabilities | https://github.com/TheLastCSM/ParserCVE | 0 | 0| 
 | 20220525T01:28:16Z | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | 3 | 1| 
 | 20220525T01:07:08Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220525T01:06:23Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220525T01:05:27Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220525T00:27:54Z | Adds Back Various Exploits From Classic Daggerfall That Were Fixed In Unity. | https://github.com/magicono43/DFU-Mod_Classic-Exploits | 0 | 0| 
-| 20220525T00:27:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2788 | 350| 
-| 20220524T23:40:45Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit-2022-UPDATED | 0 | 0| 
-| 20220524T23:39:04Z | Null | https://github.com/Jack7988/XLL-Excel-Exploit-Bypass-Windows-Defender | 0 | 0| 
-| 20220524T23:37:06Z | Pumper, Binder, Anti-Memory, Anti ESET Exploit, Randomizer, 3 Type Of Obfuscations | https://github.com/CodiumAlgorithm/Codium-Algorithm-Best-Crypter-Protector-2022 | 1 | 0| 
-| 20220524T22:02:14Z | Experiments and evaluation for the paper %DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency%, RTSS 2020. (artifacts evaluation passed) | https://github.com/automaticdai/research-dag-scheduling-analysis | 5 | 0| 
+| 20220525T00:27:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2788 | 351| 
 
 
 # backdoor on Github 推荐
