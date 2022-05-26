@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220526T01:52:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6397 | 228| 
+| 20220526T01:58:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6401 | 228| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
 | 20220521T15:32:40Z | Null | https://github.com/kleenpulse/kleenpulse.github.io | 0 | 0| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T01:50:19Z | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | 3 | 1| 
 | 20220526T00:56:32Z | A series of fuzzer or exploitations papers | https://github.com/ExploitsFuzzer/Papers | 0 | 0| 
 | 20220526T00:27:56Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 0 | 0| 
 | 20220526T00:26:57Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-y | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220525T22:01:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11535 | 1974| 
 | 20220525T19:11:37Z | Try to implement  Semantic-Based K-Means Clustering for Microblogs Exploiting Folksonomy paper by Jee-Uk Heu | https://github.com/amirzand2002/Semantic-Based-K-Means | 2 | 0| 
 | 20220525T13:08:04Z | Null | https://github.com/kizza2/NightExploit | 0 | 0| 
-| 20220525T12:33:45Z | MASS: Modality-collaborative semi-supervised segmentation by exploiting cross-modal consistency from unpaired CT and MRI images | https://github.com/xy123chen/MASS | 0 | 0| 
 
 
 # backdoor on Github 推荐
