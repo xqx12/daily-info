@@ -62,6 +62,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T12:50:16Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1645 | 393| 
 | 20220526T11:23:06Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 52 | 8| 
 | 20220526T08:26:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 493 | 92| 
 | 20220526T08:23:45Z | A Backdoor in python | https://github.com/Malwareman007/malwareman_backdoor | 0 | 0| 
