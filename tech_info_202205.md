@@ -97,15 +97,16 @@
 | 20220526T10:30:15Z | automates exploits using ROP chains, using ntdll-scraper | https://github.com/OrShazam/ChainEngine | 8 | 4| 
 | 20220526T10:04:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2792 | 352| 
 | 20220526T09:48:49Z | Open source OSINT library/tool. | https://github.com/oncrack/FiveM-Exploitation-Library | 0 | 0| 
+| 20220526T09:12:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11535 | 1974| 
 | 20220526T05:23:00Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 423 | 33| 
 | 20220526T01:59:10Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 337 | 70| 
 | 20220526T01:50:19Z | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | 3 | 1| 
-| 20220526T00:56:32Z | A series of fuzzer or exploitations papers | https://github.com/ExploitsFuzzer/Papers | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T11:23:06Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 52 | 8| 
 | 20220526T08:26:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 493 | 92| 
 | 20220526T08:23:45Z | A Backdoor in python | https://github.com/Malwareman007/malwareman_backdoor | 0 | 0| 
 | 20220526T06:39:06Z | Simple to complex bind shell(, written in different languages). | https://github.com/ringwormGO-organization/doorfact | 3 | 2| 
@@ -115,7 +116,6 @@
 | 20220525T06:37:52Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 154 | 42| 
 | 20220525T06:09:36Z | Database of backdoor | https://github.com/jklop-inferno/jklop | 0 | 0| 
 | 20220525T06:03:47Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 17 | 5| 
-| 20220525T02:08:45Z | 404 Backdoor, allows you to execute commands remotely. | https://github.com/ElusiveSquad/Backdoor-RCE | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -155,10 +155,10 @@
 | 20220526T10:50:13Z | Null | https://github.com/kelvynlukito/Fuzzy-Logic | 0 | 0| 
 | 20220526T09:50:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1342 | 181| 
 | 20220526T09:11:22Z | Null | https://github.com/satakaerina/fuzzy-octo-pancake | 0 | 0| 
+| 20220526T08:54:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2551 | 168| 
 | 20220526T08:29:09Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 582 | 124| 
 | 20220526T06:49:17Z | Null | https://github.com/Ankitahazra-1906/Fuzzy | 0 | 0| 
 | 20220526T06:29:55Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 55 | 11| 
-| 20220526T06:13:32Z | test simple fuzzy matching app | https://github.com/lukearcher/cloud9-fuzzy | 0 | 0| 
 
 
 
