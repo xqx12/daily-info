@@ -66,6 +66,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T07:16:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2875 | 416| 
 | 20220526T00:23:40Z | Symbolic Execution Engine and Verification Condition Generator for While-Language and SMTlib | https://github.com/wadoon/mini-symex | 1 | 0| 
 
 
