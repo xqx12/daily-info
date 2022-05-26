@@ -25,10 +25,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220526T12:05:04Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220526T11:39:25Z | CVE-2022-22965 | Null | https://github.com/gog1071/Spring4Shell-CVE-2022-22965 | | 
 | 20220526T11:32:20Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
 | 20220526T11:05:03Z | CVE-2022-29221 | CVE-2022-29221 Proof of Concept Code | https://github.com/sbani/CVE-2022-29221-PoC | | 
-| 20220526T10:35:32Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220526T08:31:05Z | CVE-2021-3156 | sudo提权漏洞CVE-2021-3156复现代码 | https://github.com/q77190858/CVE-2021-3156 | | 
 
 
@@ -47,12 +47,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T12:05:04Z | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | 30 | 2| 
+| 20220526T12:04:56Z | fortnite cheats, ratio | https://github.com/ac-1337/Gloomy.cc-more-exploits | 0 | 0| 
+| 20220526T11:02:07Z | • Developed a Deep Learning-based Covid-19 Time Series Prediction. • Used Deep Learning and Statistical approaches to capture the patterns and trends of varying events related to infectious diseases. • Implemented ARIMA,HWAAS Models for exploiting linear dependencies in observations and time series forecasting for univariable data. • Explored RNN, LSTM Neural Network to find temporal correlations in time series prediction. | https://github.com/Manish7053/Deep-Learning-based-Covid-19-Time-Series-Prediction. | 0 | 0| 
+| 20220526T10:30:15Z | automates exploits using ROP chains, using ntdll-scraper | https://github.com/OrShazam/ChainEngine | 8 | 4| 
+| 20220526T10:04:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2792 | 352| 
+| 20220526T09:48:49Z | Open source OSINT library/tool. | https://github.com/oncrack/FiveM-Exploitation-Library | 0 | 0| 
+| 20220526T05:23:00Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 423 | 33| 
+| 20220526T01:59:10Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 337 | 70| 
 | 20220526T01:50:19Z | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | 3 | 1| 
 | 20220526T00:56:32Z | A series of fuzzer or exploitations papers | https://github.com/ExploitsFuzzer/Papers | 0 | 0| 
-| 20220526T00:27:56Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 0 | 0| 
-| 20220526T00:26:57Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-y | 0 | 0| 
-| 20220526T00:26:10Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-y | 0 | 0| 
-| 20220526T00:10:53Z | N9 | https://github.com/IxvIIxvI/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
