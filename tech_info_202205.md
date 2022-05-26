@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220526T00:14:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6354 | 228| 
+| 20220526T00:29:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6357 | 228| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
 | 20220521T15:32:40Z | Null | https://github.com/kleenpulse/kleenpulse.github.io | 0 | 0| 
@@ -91,6 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T00:27:56Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 0 | 0| 
+| 20220526T00:26:57Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-y | 0 | 0| 
+| 20220526T00:26:10Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-y | 0 | 0| 
 | 20220526T00:10:53Z | N9 | https://github.com/IxvIIxvI/Exploit | 0 | 0| 
 | 20220525T22:30:34Z | A repository containing websites I%m making for my school project %Examining, exploiting and explaining common web appliaction vulnerabilities% | https://github.com/Z4rkos/Web_Vulnerabilities_School_Project | 0 | 0| 
 | 20220525T22:01:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11535 | 1974| 
@@ -98,9 +101,6 @@
 | 20220525T13:08:04Z | Null | https://github.com/kizza2/NightExploit | 0 | 0| 
 | 20220525T12:33:45Z | MASS: Modality-collaborative semi-supervised segmentation by exploiting cross-modal consistency from unpaired CT and MRI images | https://github.com/xy123chen/MASS | 0 | 0| 
 | 20220525T11:38:02Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 98 | 25| 
-| 20220525T11:16:07Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 334 | 70| 
-| 20220525T11:10:10Z | Easily view exploits for Roblox and exploit faster. | https://github.com/iiAdmiistatedii/Exploits | 0 | 0| 
-| 20220525T10:27:13Z | Python parser for getting recent exploited vulnerabilities | https://github.com/TheLastCSM/ParserCVE | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T00:23:40Z | Symbolic Execution Engine and Verification Condition Generator for While-Language and SMTlib | https://github.com/wadoon/mini-symex | 1 | 0| 
 | 20220525T19:04:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1973 | 563| 
 | 20220525T16:06:58Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 36 | 21| 
 | 20220525T02:55:27Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 876 | 117| 
@@ -130,7 +131,6 @@
 | 20220524T08:09:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2874 | 416| 
 | 20220521T01:13:11Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 70 | 14| 
 | 20220519T21:21:56Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 2 | 0| 
-| 20220518T21:58:48Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 363 | 18| 
 
 
 # big4 on Github 推荐
