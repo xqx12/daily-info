@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220526T00:45:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6362 | 228| 
+| 20220526T01:06:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6374 | 228| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
 | 20220521T15:32:40Z | Null | https://github.com/kleenpulse/kleenpulse.github.io | 0 | 0| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T00:56:32Z | A series of fuzzer or exploitations papers | https://github.com/ExploitsFuzzer/Papers | 0 | 0| 
 | 20220526T00:27:56Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 0 | 0| 
 | 20220526T00:26:57Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-y | 0 | 0| 
 | 20220526T00:26:10Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-y | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220525T19:11:37Z | Try to implement  Semantic-Based K-Means Clustering for Microblogs Exploiting Folksonomy paper by Jee-Uk Heu | https://github.com/amirzand2002/Semantic-Based-K-Means | 2 | 0| 
 | 20220525T13:08:04Z | Null | https://github.com/kizza2/NightExploit | 0 | 0| 
 | 20220525T12:33:45Z | MASS: Modality-collaborative semi-supervised segmentation by exploiting cross-modal consistency from unpaired CT and MRI images | https://github.com/xy123chen/MASS | 0 | 0| 
-| 20220525T11:38:02Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 98 | 25| 
 
 
 # backdoor on Github 推荐
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T00:56:32Z | A series of fuzzer or exploitations papers | https://github.com/ExploitsFuzzer/Papers | 0 | 0| 
 | 20220525T23:50:34Z | A randomized program fuzzer for the Rust programming language | https://github.com/rustsmith/rustsmith | 7 | 1| 
 | 20220525T23:12:02Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1615 | 183| 
 | 20220525T22:36:21Z | LoRaWAN Sammlung | https://github.com/BenKnust/LoRaWAN_fuzzy-doodle | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220525T19:11:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7438 | 1594| 
 | 20220525T19:05:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2550 | 168| 
 | 20220525T12:40:05Z | fuzzy-carnival | https://github.com/FurongYe/fuzzy-carnival | 0 | 0| 
-| 20220525T11:45:39Z | Demonstration of Fuzzy-Portable using React Native | https://github.com/gasech/Fuzzy-Native | 0 | 0| 
 
 
 
