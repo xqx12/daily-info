@@ -153,12 +153,12 @@
 | 20220526T11:20:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7445 | 1595| 
 | 20220526T11:17:58Z | Null | https://github.com/HarvianKhusnan/Tugas-Fuzzy-logic | 0 | 0| 
 | 20220526T10:50:13Z | Null | https://github.com/kelvynlukito/Fuzzy-Logic | 0 | 0| 
+| 20220526T09:50:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1342 | 181| 
 | 20220526T09:11:22Z | Null | https://github.com/satakaerina/fuzzy-octo-pancake | 0 | 0| 
 | 20220526T08:29:09Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 582 | 124| 
 | 20220526T06:49:17Z | Null | https://github.com/Ankitahazra-1906/Fuzzy | 0 | 0| 
 | 20220526T06:29:55Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 55 | 11| 
 | 20220526T06:13:32Z | test simple fuzzy matching app | https://github.com/lukearcher/cloud9-fuzzy | 0 | 0| 
-| 20220526T05:09:58Z | Null | https://github.com/adinsx/fuzzy-sniffle | 0 | 0| 
 
 
 
