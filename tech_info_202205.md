@@ -91,6 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220527T00:44:13Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-m | 0 | 0| 
+| 20220527T00:43:24Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-m | 0 | 0| 
+| 20220527T00:42:15Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | 0 | 0| 
 | 20220527T00:15:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2795 | 352| 
 | 20220526T22:52:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11536 | 1975| 
 | 20220526T22:10:19Z | https://root44.000webhostapp.com/Roblox-Exploit | https://github.com/ROOT44x/Lua-executor-s-for-Roblox.- | 0 | 0| 
@@ -98,9 +101,6 @@
 | 20220526T20:46:01Z | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | 2 | 0| 
 | 20220526T20:17:27Z | Null | https://github.com/tochnonement/requestfile_exploit_fix | 0 | 0| 
 | 20220526T19:06:21Z | .json and .yaml files used to exploit CVE-2018-25031 | https://github.com/afine-com/CVE-2018-25031 | 0 | 0| 
-| 20220526T18:06:06Z | Config files for my GitHub profile. | https://github.com/exploitenomah/exploitenomah | 1 | 0| 
-| 20220526T12:05:04Z | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | 30 | 2| 
-| 20220526T12:04:56Z | fortnite cheats, ratio | https://github.com/ac-1337/Gloomy.cc-more-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
