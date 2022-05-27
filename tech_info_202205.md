@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T22:52:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11536 | 1975| 
+| 20220526T22:10:19Z | https://root44.000webhostapp.com/Roblox-Exploit | https://github.com/ROOT44x/Lua-executor-s-for-Roblox.- | 0 | 0| 
+| 20220526T21:42:10Z | Null | https://github.com/uac-ctf/workshop-binary-exploitation | 0 | 0| 
+| 20220526T21:11:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2794 | 352| 
+| 20220526T20:46:01Z | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | 2 | 0| 
+| 20220526T20:17:27Z | Null | https://github.com/tochnonement/requestfile_exploit_fix | 0 | 0| 
+| 20220526T19:06:21Z | .json and .yaml files used to exploit CVE-2018-25031 | https://github.com/afine-com/CVE-2018-25031 | 0 | 0| 
+| 20220526T18:06:06Z | Config files for my GitHub profile. | https://github.com/exploitenomah/exploitenomah | 1 | 0| 
 | 20220526T12:05:04Z | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | 30 | 2| 
 | 20220526T12:04:56Z | fortnite cheats, ratio | https://github.com/ac-1337/Gloomy.cc-more-exploits | 0 | 0| 
-| 20220526T11:02:07Z | • Developed a Deep Learning-based Covid-19 Time Series Prediction. • Used Deep Learning and Statistical approaches to capture the patterns and trends of varying events related to infectious diseases. • Implemented ARIMA,HWAAS Models for exploiting linear dependencies in observations and time series forecasting for univariable data. • Explored RNN, LSTM Neural Network to find temporal correlations in time series prediction. | https://github.com/Manish7053/Deep-Learning-based-Covid-19-Time-Series-Prediction. | 0 | 0| 
-| 20220526T10:30:15Z | automates exploits using ROP chains, using ntdll-scraper | https://github.com/OrShazam/ChainEngine | 8 | 4| 
-| 20220526T10:04:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2792 | 352| 
-| 20220526T09:48:49Z | Open source OSINT library/tool. | https://github.com/oncrack/FiveM-Exploitation-Library | 0 | 0| 
-| 20220526T09:12:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11535 | 1974| 
-| 20220526T05:23:00Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 423 | 33| 
-| 20220526T01:59:10Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 337 | 70| 
-| 20220526T01:50:19Z | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | 3 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T20:55:23Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
+| 20220526T19:33:55Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 1 | 0| 
+| 20220526T19:33:47Z | Code Repository for the Paper --- Circumventing Backdoor Defenses That Are Based on Latent Separability | https://github.com/Unispac/Circumventing-Backdoor-Defenses | 1 | 0| 
+| 20220526T15:00:18Z | A Backdoor in python | https://github.com/Malwareman007/malwareman_backdoor | 1 | 0| 
+| 20220526T13:54:38Z | LKM Linux Rootkit | https://github.com/carloslack/KoviD | 40 | 6| 
 | 20220526T12:50:16Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1645 | 393| 
 | 20220526T11:23:06Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 52 | 8| 
 | 20220526T08:26:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 493 | 92| 
-| 20220526T08:23:45Z | A Backdoor in python | https://github.com/Malwareman007/malwareman_backdoor | 0 | 0| 
 | 20220526T06:39:06Z | Simple to complex bind shell(, written in different languages). | https://github.com/ringwormGO-organization/doorfact | 3 | 2| 
 | 20220525T18:22:10Z | Its backdoor very simple | https://github.com/DevFrxst/Simple-backdoor | 0 | 0| 
-| 20220525T15:57:57Z | Null | https://github.com/ayoder243/backdoor | 0 | 0| 
-| 20220525T11:56:46Z | A pretty simple backdoor Trojan program | https://github.com/DeanCash/BackdoorTrojan | 0 | 0| 
-| 20220525T06:37:52Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 154 | 42| 
-| 20220525T06:09:36Z | Database of backdoor | https://github.com/jklop-inferno/jklop | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220526T23:45:54Z | Implementation of two fuzzy clustering algorithms | https://github.com/aymanKH9991/fuzzy_clustering | 0 | 0| 
+| 20220526T22:00:21Z | Implementation for a paper in Image processing with fuzzy logic approch | https://github.com/aymanKH9991/Gray-Image-Enhancment-Fuzzy-Logic | 0 | 0| 
+| 20220526T21:58:35Z | free library for clustering and neuro-fuzzy systems | https://github.com/ksiminski/neuro-fuzzy-library | 4 | 2| 
+| 20220526T21:26:53Z | First fuzzer attempt | https://github.com/AndrewFromTN/fuzzer | 0 | 0| 
+| 20220526T21:21:22Z | You can find plagiarism in the texts and codes.  | https://github.com/httufi123/Find-Plagiarism-with-Fuzzy-Logic-Algorithm | 1 | 0| 
+| 20220526T21:08:58Z | Null | https://github.com/Rigby-David/Practice-fuzzybunny | 0 | 0| 
+| 20220526T21:03:19Z | Code used for the article, %Preventing a series of unfortunate events: using qualitative models to improve conservation%. | https://github.com/teejclark/Fuzzy_Interaction_Webs | 0 | 0| 
 | 20220526T11:40:25Z | Null | https://github.com/BogChamp/fuzzing | 0 | 0| 
 | 20220526T11:20:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7445 | 1595| 
 | 20220526T11:17:58Z | Null | https://github.com/HarvianKhusnan/Tugas-Fuzzy-logic | 0 | 0| 
-| 20220526T10:50:13Z | Null | https://github.com/kelvynlukito/Fuzzy-Logic | 0 | 0| 
-| 20220526T09:50:43Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1342 | 181| 
-| 20220526T09:11:22Z | Null | https://github.com/satakaerina/fuzzy-octo-pancake | 0 | 0| 
-| 20220526T08:54:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2551 | 168| 
-| 20220526T08:29:09Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 582 | 124| 
-| 20220526T06:49:17Z | Null | https://github.com/Ankitahazra-1906/Fuzzy | 0 | 0| 
-| 20220526T06:29:55Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 55 | 11| 
 
 
 
