@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220527T00:21:53Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220527T01:16:26Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
 | 20220526T22:02:56Z | CVE-2022-29464 | Null | https://github.com/trhacknon/CVE-2022-29464-mass | | 
 | 20220526T20:46:01Z | CVE-2022-29464 | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | | 
 | 20220526T18:59:14Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
@@ -149,7 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220527T01:11:33Z | Implementation of  a Decision Support System (DSS) for the selection of a basketball team. | https://github.com/ricardo462/T2-FuzzyLogic | 0 | 0| 
+| 20220527T01:13:31Z | Implementation of  a Decision Support System (DSS) for the selection of a basketball team. Project made for  course El-7038 ntroducción a la Teoría de Conjuntos Difusos y Sistemas Inteligentes, Universidad de Chile, Fall 2022 | https://github.com/ricardo462/T2-FuzzyLogic | 0 | 0| 
 | 20220526T23:45:54Z | Implementation of two fuzzy clustering algorithms | https://github.com/aymanKH9991/fuzzy_clustering | 0 | 0| 
 | 20220526T22:34:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7448 | 1595| 
 | 20220526T22:00:21Z | Implementation for a paper in Image processing with fuzzy logic approch | https://github.com/aymanKH9991/Gray-Image-Enhancment-Fuzzy-Logic | 0 | 0| 
