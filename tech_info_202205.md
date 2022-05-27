@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220527T01:16:58Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
-| 20220527T01:16:26Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220527T01:25:45Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220527T01:22:08Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220526T22:02:56Z | CVE-2022-29464 | Null | https://github.com/trhacknon/CVE-2022-29464-mass | | 
 | 20220526T20:46:01Z | CVE-2022-29464 | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | | 
 | 20220526T18:59:14Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
