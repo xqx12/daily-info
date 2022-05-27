@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220527T00:54:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6550 | 232| 
+| 20220527T01:01:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6551 | 232| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220527T00:57:21Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to a remote code execution (RCE). | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
 | 20220527T00:44:13Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-m | 0 | 0| 
 | 20220527T00:43:24Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-m | 0 | 0| 
 | 20220527T00:42:15Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220526T21:42:10Z | Null | https://github.com/uac-ctf/workshop-binary-exploitation | 0 | 0| 
 | 20220526T20:46:01Z | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | 2 | 0| 
 | 20220526T20:17:27Z | Null | https://github.com/tochnonement/requestfile_exploit_fix | 0 | 0| 
-| 20220526T19:06:21Z | .json and .yaml files used to exploit CVE-2018-25031 | https://github.com/afine-com/CVE-2018-25031 | 0 | 0| 
 
 
 # backdoor on Github 推荐
