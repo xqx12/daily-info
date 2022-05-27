@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220526T23:57:14Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220527T00:21:53Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
 | 20220526T22:02:56Z | CVE-2022-29464 | Null | https://github.com/trhacknon/CVE-2022-29464-mass | | 
 | 20220526T20:46:01Z | CVE-2022-29464 | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | | 
 | 20220526T18:59:14Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220527T00:17:59Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 0 | 0| 
+| 20220527T00:20:38Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 0 | 0| 
 | 20220526T20:55:23Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20220526T19:33:55Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 1 | 0| 
 | 20220526T19:33:47Z | Code Repository for the Paper --- Circumventing Backdoor Defenses That Are Based on Latent Separability | https://github.com/Unispac/Circumventing-Backdoor-Defenses | 1 | 0| 
@@ -150,6 +150,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220526T23:45:54Z | Implementation of two fuzzy clustering algorithms | https://github.com/aymanKH9991/fuzzy_clustering | 0 | 0| 
+| 20220526T22:34:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7448 | 1595| 
 | 20220526T22:00:21Z | Implementation for a paper in Image processing with fuzzy logic approch | https://github.com/aymanKH9991/Gray-Image-Enhancment-Fuzzy-Logic | 0 | 0| 
 | 20220526T21:58:35Z | free library for clustering and neuro-fuzzy systems | https://github.com/ksiminski/neuro-fuzzy-library | 4 | 2| 
 | 20220526T21:26:53Z | First fuzzer attempt | https://github.com/AndrewFromTN/fuzzer | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20220526T21:08:58Z | Null | https://github.com/Rigby-David/Practice-fuzzybunny | 0 | 0| 
 | 20220526T21:03:19Z | Code used for the article, %Preventing a series of unfortunate events: using qualitative models to improve conservation%. | https://github.com/teejclark/Fuzzy_Interaction_Webs | 0 | 0| 
 | 20220526T11:40:25Z | Null | https://github.com/BogChamp/fuzzing | 0 | 0| 
-| 20220526T11:20:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7445 | 1595| 
 | 20220526T11:17:58Z | Null | https://github.com/HarvianKhusnan/Tugas-Fuzzy-logic | 0 | 0| 
 
 
