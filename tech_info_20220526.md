@@ -93,7 +93,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220526T23:45:54Z | Implementation of two fuzzy clustering algorithms | https://github.com/aymanKH9991/fuzzy_clustering | 0 | 0| 
-| 20220526T22:34:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7448 | 1595| 
 | 20220526T22:00:21Z | Implementation for a paper in Image processing with fuzzy logic approch | https://github.com/aymanKH9991/Gray-Image-Enhancment-Fuzzy-Logic | 0 | 0| 
 | 20220526T21:58:35Z | free library for clustering and neuro-fuzzy systems | https://github.com/ksiminski/neuro-fuzzy-library | 4 | 2| 
 | 20220526T21:26:53Z | First fuzzer attempt | https://github.com/AndrewFromTN/fuzzer | 0 | 0| 
@@ -102,6 +101,7 @@
 | 20220526T21:03:19Z | Code used for the article, %Preventing a series of unfortunate events: using qualitative models to improve conservation%. | https://github.com/teejclark/Fuzzy_Interaction_Webs | 0 | 0| 
 | 20220526T11:40:25Z | Null | https://github.com/BogChamp/fuzzing | 0 | 0| 
 | 20220526T11:17:58Z | Null | https://github.com/HarvianKhusnan/Tugas-Fuzzy-logic | 0 | 0| 
+| 20220526T10:50:13Z | Null | https://github.com/kelvynlukito/Fuzzy-Logic | 0 | 0| 
 
 
 
