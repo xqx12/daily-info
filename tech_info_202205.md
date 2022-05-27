@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220526T23:39:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6547 | 232| 
+| 20220527T00:13:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6548 | 232| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
@@ -91,10 +91,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220527T00:15:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2795 | 352| 
 | 20220526T22:52:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11536 | 1975| 
 | 20220526T22:10:19Z | https://root44.000webhostapp.com/Roblox-Exploit | https://github.com/ROOT44x/Lua-executor-s-for-Roblox.- | 0 | 0| 
 | 20220526T21:42:10Z | Null | https://github.com/uac-ctf/workshop-binary-exploitation | 0 | 0| 
-| 20220526T21:11:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2794 | 352| 
 | 20220526T20:46:01Z | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | 2 | 0| 
 | 20220526T20:17:27Z | Null | https://github.com/tochnonement/requestfile_exploit_fix | 0 | 0| 
 | 20220526T19:06:21Z | .json and .yaml files used to exploit CVE-2018-25031 | https://github.com/afine-com/CVE-2018-25031 | 0 | 0| 

@@ -42,7 +42,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220526T23:39:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6547 | 232| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 
 
@@ -58,13 +57,13 @@
 | 20220526T22:52:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11536 | 1975| 
 | 20220526T22:10:19Z | https://root44.000webhostapp.com/Roblox-Exploit | https://github.com/ROOT44x/Lua-executor-s-for-Roblox.- | 0 | 0| 
 | 20220526T21:42:10Z | Null | https://github.com/uac-ctf/workshop-binary-exploitation | 0 | 0| 
-| 20220526T21:11:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2794 | 352| 
 | 20220526T20:46:01Z | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | 2 | 0| 
 | 20220526T20:17:27Z | Null | https://github.com/tochnonement/requestfile_exploit_fix | 0 | 0| 
 | 20220526T19:06:21Z | .json and .yaml files used to exploit CVE-2018-25031 | https://github.com/afine-com/CVE-2018-25031 | 0 | 0| 
 | 20220526T18:06:06Z | Config files for my GitHub profile. | https://github.com/exploitenomah/exploitenomah | 1 | 0| 
 | 20220526T12:05:04Z | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | 30 | 2| 
 | 20220526T12:04:56Z | fortnite cheats, ratio | https://github.com/ac-1337/Gloomy.cc-more-exploits | 0 | 0| 
+| 20220526T11:02:07Z | • Developed a Deep Learning-based Covid-19 Time Series Prediction. • Used Deep Learning and Statistical approaches to capture the patterns and trends of varying events related to infectious diseases. • Implemented ARIMA,HWAAS Models for exploiting linear dependencies in observations and time series forecasting for univariable data. • Explored RNN, LSTM Neural Network to find temporal correlations in time series prediction. | https://github.com/Manish7053/Deep-Learning-based-Covid-19-Time-Series-Prediction. | 0 | 0| 
 
 
 # backdoor on Github 推荐
