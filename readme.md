@@ -31,7 +31,6 @@
 | 20220526T22:02:56Z | CVE-2022-29464 | Null | https://github.com/trhacknon/CVE-2022-29464-mass | | 
 | 20220526T20:46:01Z | CVE-2022-29464 | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | | 
 | 20220526T18:59:14Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
-| 20220526T18:51:08Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220526T11:39:25Z | CVE-2022-22965 | Null | https://github.com/gog1071/Spring4Shell-CVE-2022-22965 | | 
 | 20220526T11:05:03Z | CVE-2022-29221 | CVE-2022-29221 Proof of Concept Code | https://github.com/sbani/CVE-2022-29221-PoC | | 
 | 20220526T08:31:05Z | CVE-2021-3156 | sudo提权漏洞CVE-2021-3156复现代码 | https://github.com/q77190858/CVE-2021-3156 | | 

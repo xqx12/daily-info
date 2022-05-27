@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220527T01:16:58Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220527T01:16:26Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
 | 20220526T22:02:56Z | CVE-2022-29464 | Null | https://github.com/trhacknon/CVE-2022-29464-mass | | 
 | 20220526T20:46:01Z | CVE-2022-29464 | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | | 
 | 20220526T18:59:14Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
-| 20220526T18:51:08Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220526T11:39:25Z | CVE-2022-22965 | Null | https://github.com/gog1071/Spring4Shell-CVE-2022-22965 | | 
 | 20220526T11:05:03Z | CVE-2022-29221 | CVE-2022-29221 Proof of Concept Code | https://github.com/sbani/CVE-2022-29221-PoC | | 
 | 20220526T08:31:05Z | CVE-2021-3156 | sudo提权漏洞CVE-2021-3156复现代码 | https://github.com/q77190858/CVE-2021-3156 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220527T01:14:57Z | CVE-2019–9193 - PostgreSQL 9.3-12.3 Authenticated Remote Code Execution | https://github.com/b4keSn4ke/CVE-2019-9193 | 3 | 3| 
 | 20220527T00:57:21Z | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to a remote code execution (RCE). | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | 0 | 0| 
 | 20220527T00:44:13Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-m | 0 | 0| 
 | 20220527T00:43:24Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-m | 0 | 0| 
@@ -100,12 +101,12 @@
 | 20220526T22:10:19Z | https://root44.000webhostapp.com/Roblox-Exploit | https://github.com/ROOT44x/Lua-executor-s-for-Roblox.- | 0 | 0| 
 | 20220526T21:42:10Z | Null | https://github.com/uac-ctf/workshop-binary-exploitation | 0 | 0| 
 | 20220526T20:46:01Z | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | 2 | 0| 
-| 20220526T20:17:27Z | Null | https://github.com/tochnonement/requestfile_exploit_fix | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220527T01:16:55Z | Utility for creating backdoors in Bukkit plugins | https://github.com/Rikonardo/Bukloit | 25 | 3| 
 | 20220527T00:20:38Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 0 | 0| 
 | 20220526T20:55:23Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
 | 20220526T19:33:55Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 1 | 0| 
@@ -115,7 +116,6 @@
 | 20220526T12:50:16Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1645 | 393| 
 | 20220526T11:23:06Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 52 | 8| 
 | 20220526T08:26:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 493 | 92| 
-| 20220526T06:39:06Z | Simple to complex bind shell(, written in different languages). | https://github.com/ringwormGO-organization/doorfact | 3 | 2| 
 
 
 # symbolic execution on Github 推荐
