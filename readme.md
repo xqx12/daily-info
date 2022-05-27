@@ -15,6 +15,9 @@
 | 20220526 | 固件供应链安全及其已知漏洞的检测 | https://github.com/binarly-io/Research_Publications/tree/main/BHASIA_2022| 
 | 20220526 | IEEE Workshop 部分议题的 Slides 公开了 | http://www.ieee-security.org/TC/SP2022/WOOT22/index.html| 
 | 20220526 | macOS ESF Framework 在攻击检测方面的实践 | https://cedowens.medium.com/taking-esf-for-a-nother-spin-6e1e6acd1b74| 
+| 20220526 | CVE-2022-30781：一条普通的 Git 命令导致的 Gitea RCE | https://tttang.com/archive/1607/| 
+| 20220526 | CVE-2022-30781：一条普通的 Git 命令导致的 Gitea RCE | http://tttang.com/archive/1607/| 
+| 20220526 | Linux.Nasty: Assembly x64 ELF virus | https://www.reddit.com/r/ReverseEngineering/comments/uv946w/linuxnasty_assembly_x64_elf_virus/| 
 
 
 # 安全维基 推荐
@@ -25,23 +28,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220526T12:05:04Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
+| 20220526T23:57:14Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220526T22:02:56Z | CVE-2022-29464 | Null | https://github.com/trhacknon/CVE-2022-29464-mass | | 
+| 20220526T20:46:01Z | CVE-2022-29464 | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | | 
+| 20220526T18:59:14Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
+| 20220526T18:51:08Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220526T11:39:25Z | CVE-2022-22965 | Null | https://github.com/gog1071/Spring4Shell-CVE-2022-22965 | | 
-| 20220526T11:32:20Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
 | 20220526T11:05:03Z | CVE-2022-29221 | CVE-2022-29221 Proof of Concept Code | https://github.com/sbani/CVE-2022-29221-PoC | | 
 | 20220526T08:31:05Z | CVE-2021-3156 | sudo提权漏洞CVE-2021-3156复现代码 | https://github.com/q77190858/CVE-2021-3156 | | 
+| 20220526T01:41:29Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220526T12:46:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6509 | 231| 
+| 20220526T23:39:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6547 | 232| 
+| 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220526T02:04:16Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 49 | 5| 
+| 20220526T13:27:09Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 50 | 5| 
 
 
 # exploit on Github 推荐

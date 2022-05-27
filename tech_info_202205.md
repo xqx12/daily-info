@@ -15,6 +15,9 @@
 | 20220526 | 固件供应链安全及其已知漏洞的检测 | https://github.com/binarly-io/Research_Publications/tree/main/BHASIA_2022| 
 | 20220526 | IEEE Workshop 部分议题的 Slides 公开了 | http://www.ieee-security.org/TC/SP2022/WOOT22/index.html| 
 | 20220526 | macOS ESF Framework 在攻击检测方面的实践 | https://cedowens.medium.com/taking-esf-for-a-nother-spin-6e1e6acd1b74| 
+| 20220526 | CVE-2022-30781：一条普通的 Git 命令导致的 Gitea RCE | https://tttang.com/archive/1607/| 
+| 20220526 | CVE-2022-30781：一条普通的 Git 命令导致的 Gitea RCE | http://tttang.com/archive/1607/| 
+| 20220526 | Linux.Nasty: Assembly x64 ELF virus | https://www.reddit.com/r/ReverseEngineering/comments/uv946w/linuxnasty_assembly_x64_elf_virus/| 
 | 20220525 | Windows 内核 Component Filter Mitigation 的实现机制研究 | https://big5-sec.github.io/posts/component-filter-mitigation/| 
 | 20220525 | 研究员 Alexander Popov 对 Fuchsia 操作系统的安全研究 | https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html| 
 | 20220525 | 近期开源的 Tetragon 工具基于 eBPF 提供内核层面的漏洞攻击检测能力，grsecurity 研究员实际测试并发现 Tetragon 存在一些缺陷 | https://grsecurity.net/tetragone_a_lesson_in_security_fundamentals| 
@@ -23,9 +26,6 @@
 | 20220525 | 为 Ghidra 增加对一种新的 ISA 指令架构的支持 | https://trenchant.io/expanding-the-dragon-adding-an-isa-to-ghidra/| 
 | 20220525 | 从安全的角度研究 Windows ALPC 的内幕 | http://csandker.io/2022/05/24/Offensive-Windows-IPC-3-ALPC.html| 
 | 20220525 | Zoom XMPP 协议处理 RCE 漏洞分析，漏洞触发不需要用户参与，来自 Project Zero | https://bugs.chromium.org/p/project-zero/issues/detail?id=2254| 
-| 20220525 | Quarkslab 对即时通讯软件端到端加密机制的分析 | http://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-1.html| 
-| 20220525 | Fastjson 反序列化分析 | https://tttang.com/archive/1579/| 
-| 20220524 | 近期 Web skimming 攻击中的一些代码混淆技术 | https://www.microsoft.com/security/blog/2022/05/23/beneath-the-surface-uncovering-the-shift-in-web-skimming/| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220526T12:05:04Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
+| 20220526T23:57:14Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220526T22:02:56Z | CVE-2022-29464 | Null | https://github.com/trhacknon/CVE-2022-29464-mass | | 
+| 20220526T20:46:01Z | CVE-2022-29464 | Python script to exploit CVE-2022-29464 (mass mode) | https://github.com/Chocapikk/CVE-2022-29464 | | 
+| 20220526T18:59:14Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
+| 20220526T18:51:08Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220526T11:39:25Z | CVE-2022-22965 | Null | https://github.com/gog1071/Spring4Shell-CVE-2022-22965 | | 
-| 20220526T11:32:20Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
 | 20220526T11:05:03Z | CVE-2022-29221 | CVE-2022-29221 Proof of Concept Code | https://github.com/sbani/CVE-2022-29221-PoC | | 
 | 20220526T08:31:05Z | CVE-2021-3156 | sudo提权漏洞CVE-2021-3156复现代码 | https://github.com/q77190858/CVE-2021-3156 | | 
+| 20220526T01:41:29Z | CVE-2022-1388 | Exploit and Check Script for CVE 2022-1388 | https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit | | 
 | 20220525T17:30:40Z | CVE-2022-29337 | C-DATA FD702XW-X-R430 v2.1.13_X001 was discovered to contain a command injection vulnerability via the va_cmd parameter in formlanipv6. This vulnerability allows attackers to execute arbitrary commands via a crafted HTTP request. | https://github.com/exploitwritter/CVE-2022-29337 | | 
-| 20220525T16:46:09Z | CVE-2022-30513 | School Dormitory Management System 1.0 - Reflected XSS | https://github.com/bigzooooz/CVE-2022-30513 | | 
-| 20220525T16:42:25Z | CVE-2022-30514 | School Dormitory Management System 1.0 - Reflected XSS | https://github.com/bigzooooz/CVE-2022-30514 | | 
-| 20220525T16:35:06Z | CVE-2022-30511 | School Dormitory Management System 1.0 - Unauthenticated SQL Injection | https://github.com/bigzooooz/CVE-2022-30511 | | 
-| 20220525T16:32:18Z | CVE-2022-30510 | School Dormitory Management System 1.0 - Unauthenticated SQL Injection | https://github.com/bigzooooz/CVE-2022-30510 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220526T12:46:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6509 | 231| 
+| 20220526T23:39:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6547 | 232| 
+| 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
 | 20220521T15:32:40Z | Null | https://github.com/kleenpulse/kleenpulse.github.io | 0 | 0| 
@@ -70,13 +71,12 @@
 | 20220520T22:34:55Z | Demo page | https://github.com/kleere/kleere.github.io | 0 | 0| 
 | 20220520T11:01:20Z | A static website built by Klee Mains for everything Klee related! | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
 | 20220520T05:33:54Z | Config files for my GitHub profile. | https://github.com/Kleew/Kleew | 0 | 0| 
-| 20220517T21:30:41Z | Config files for my GitHub profile. | https://github.com/kleeuy/kleeuy | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220526T02:04:16Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 49 | 5| 
+| 20220526T13:27:09Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 50 | 5| 
 | 20220523T23:54:43Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 13 | 15| 
 | 20220523T08:14:38Z | Null | https://github.com/Lynda-Starkus/APP_S2EE_13 | 0 | 0| 
 | 20220520T16:01:39Z | Null | https://github.com/S2eTo/S2eTo | 0 | 0| 
