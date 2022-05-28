@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220528T11:46:45Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220528T10:50:10Z | CVE-2022-21661 | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | | 
+| 20220528T07:47:47Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
+| 20220528T07:22:02Z | CVE-2022-30525 | Null | https://github.com/west9b/CVE-2022-30525 | | 
+| 20220528T05:54:03Z | CVE-2022-23121 | Null | https://github.com/kuznyJan1972/CVE-2022-23121-MASS-RCE | | 
 | 20220528T01:49:29Z | CVE-2022-1609 | CVE-2022-1609 WordPress Weblizar后门 | https://github.com/savior-only/CVE-2022-1609 | | 
-| 20220528T01:24:56Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
 | 20220527T22:14:45Z | CVE-2022-28346 | Null | https://github.com/pthlong9991/CVE-2022-28346 | | 
 | 20220527T18:43:52Z | CVE-2021-4034 | 统信UOS 桌面操作系统，存在CVE-2021-4034漏洞（Linux Polkit本地权限提升漏洞）。 | https://github.com/xcanwin/CVE-2021-4034-UniontechOS | | 
-| 20220527T17:40:02Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220527T17:33:02Z | CVE-2022-23121 | NETATALK-AFP-PROTO RCE :, This CVE-2022-23121 allows remote malicious users to execute arbitrary code on affected installations of Netatalk. Authentication is not required to exploit this vulnerability. The specific flaw exists within the parse_entries function. The issue results from the lack of proper error handling when parsing AppleDouble entries. An attacker can leverage this vulnerability to execute code in the context of root. | https://github.com/kuznyJan1972/CVE-2022-23121-MASS | | 
 | 20220527T10:08:55Z | 未知编号 | Null | https://github.com/pthlong9991/CVE202228346 | | 
-| 20220527T09:48:06Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
-| 20220527T06:52:45Z | cve-2021-21972 | Null | https://github.com/user16-et/cve-2021-21972_PoC | | 
-| 20220526T22:02:56Z | CVE-2022-29464 | Null | https://github.com/trhacknon/CVE-2022-29464-mass | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T01:36:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6606 | 235| 
+| 20220528T11:55:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6612 | 236| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T01:52:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2806 | 353| 
+| 20220528T10:50:10Z | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | 0 | 0| 
+| 20220528T09:00:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2809 | 353| 
+| 20220528T08:16:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 119 | 41| 
+| 20220528T05:23:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 410 | 119| 
+| 20220528T03:58:41Z | Null | https://github.com/trhacknon/AnonStress-Stored-XSS-Exploit | 0 | 0| 
+| 20220528T03:30:52Z | Attack tool to test the security of your server, or your Anti Cheat | https://github.com/Pac0D/SA-MP-Exploit-1900---2022 | 1 | 0| 
 | 20220528T00:45:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11539 | 1974| 
 | 20220528T00:45:09Z | Library for Roblox Exploiting meant to make Instance Creation easier! | https://github.com/RobloxArchiver/G.E.C.K | 0 | 0| 
 | 20220528T00:40:30Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
 | 20220528T00:39:46Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-l | 0 | 0| 
-| 20220528T00:38:50Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 0 | 0| 
-| 20220527T23:54:46Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1239 | 195| 
-| 20220527T23:28:27Z | A forge mod hacked client with JavaScript integration. Why just exploit Vanilla, when you can exploit mods too! | https://github.com/Furry/CeriumMC | 0 | 0| 
-| 20220527T23:28:26Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | 0 | 0| 
-| 20220527T22:39:28Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 49 | 8| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220528T07:38:19Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 126 | 32| 
+| 20220528T07:05:36Z | Null | https://github.com/trung24012001/backdoor_cmd | 0 | 0| 
+| 20220528T05:46:29Z | uso: | https://github.com/OnixZeny/TEAM-ZERO-BACKDOOR | 0 | 0| 
+| 20220528T05:42:07Z | uso: | https://github.com/OnixZeny/TEAM-ZERO-BACKDOOR-PROFESIONAL | 0 | 0| 
 | 20220528T01:57:08Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1647 | 393| 
-| 20220527T22:17:17Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 126 | 32| 
 | 20220527T19:52:02Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 1 | 0| 
 | 20220527T17:42:43Z | Wordpress capable PHP backdoors | https://github.com/oldkingcone/WP-Backdoors | 0 | 0| 
 | 20220527T03:51:53Z | Code Repository for the Paper --- Circumventing Backdoor Defenses That Are Based on Latent Separability | https://github.com/Unispac/Circumventing-Backdoor-Defenses | 2 | 0| 
 | 20220527T03:51:52Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 2 | 0| 
-| 20220527T01:38:47Z | Null | https://github.com/trung24012001/backdoor_cmd | 0 | 0| 
 | 20220527T01:24:27Z | Utility for creating backdoors in Bukkit plugins | https://github.com/Rikonardo/Bukloit | 25 | 3| 
-| 20220526T20:55:23Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 0 | 0| 
-| 20220526T15:00:18Z | A Backdoor in python | https://github.com/Malwareman007/malwareman_backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220528T12:00:59Z | UAS KECERDASAN BUATAN_FUZZY SUGENO_RIAN RIYONO_191011401756 | https://github.com/rianriyono/Rian-Riyono_FuzzySugeno | 0 | 0| 
+| 20220528T11:57:34Z | Null | https://github.com/mniepokoj/MIO_FuzzyLogic_Project | 0 | 1| 
+| 20220528T11:25:19Z | Null | https://github.com/Sendyramadhanpratama/UTS_fuzzy_sugeno | 0 | 0| 
+| 20220528T11:14:09Z | def down(x, xmin, xmax):     return (xmax- x) / (xmax - xmin)  def up(x, xmin, xmax):     return (x - xmin) / (xmax - xmin)  class Permintaan():     minimum = 2100     maximum = 3500      def turun(self, x):         if x >= self.maximum:             return 0         elif x <= self.minimum:             return 1         else:             return down(x, self.minimum, self.maximum)      def naik(self, x):         if x >= self.maximum:             return 1         elif x <= self.minimum:             return 0         else:             return up(x, self.minimum, self.maximum)  class Persediaan():     minimum = 100     medium = 300     maximum = 500      def sedikit(self, x):         if x >= self.medium:             return 0         elif x <= self.minimum:             return 1         else:             return down(x, self.minimum, self.medium)          def cukup(self, x):         if self.minimum < x < self.medium:             return up(x, self.minimum, self.medium)         elif self.medium < x < self.maximum:             return down(x, self.medium, self.maximum)         elif x == self.medium:             return 1         else:             return 0      def banyak(self, x):         if x >= self.maximum:             return 1         elif x <= self.medium:             return 0         else:             return up(x, self.medium, self.maximum)  class Produksi():     minimum = 1000     maximum = 5000          def kurang(self, α):         return self.maximum - α * (self.maximum-self.minimum)      def tambah(self, α):         return α *(self.maximum - self.minimum) + self.minimum      # 2 permintaan 3 persediaan     def inferensi(self, jumlah_permintaan, jumlah_persediaan):         pmt = Permintaan()         psd = Persediaan()         result = []         # [R1] JIKA Permintaan TURUN, dan Persediaan BANYAK,          #     MAKA Produksi Barang BERKURANG.         α1 = min(pmt.turun(jumlah_permintaan), psd.banyak(jumlah_persediaan))         z1 = self.kurang(α1)         result.append((α1, z1))         # [R2] JIKA Permintaan TURUN, dan Persediaan SEDIKIT,          #     MAKA Produksi Barang BERKURANG.         α2 = min(pmt.turun(jumlah_permintaan), psd.sedikit(jumlah_persediaan))         z2 = self.kurang(α2)         result.append((α2, z2))         # [R3] JIKA Permintaan NAIK, dan Persediaan BANYAK,          #     MAKA Produksi Barang BERTAMBAH.         α3 = min(pmt.naik(jumlah_permintaan), psd.banyak(jumlah_persediaan))         z3 = self.tambah(α3)         result.append((α3, z3))         # [R4] JIKA Permintaan NAIK, dan Persediaan SEDIKIT,         #     MAKA Produksi Barang BERTAMBAH.         α4 = min(pmt.naik(jumlah_permintaan), psd.sedikit(jumlah_persediaan))         z4 = self.tambah(α4)         result.append((α4, z4))          # [R5] JIKA Permintaan NAIK, dan Persediaan CUKUP,         #     MAKA Produksi Barang BERKURANG.         α5 = min(pmt.naik(jumlah_permintaan), psd.cukup(jumlah_persediaan))         z5 = self.kurang(α5)         result.append((α5, z5))          # [R6] JIKA Permintaan NAIK, dan Persediaan CUKUP,         #     MAKA Produksi Barang BERKURANG.         α6 = min(pmt.turun(jumlah_permintaan), psd.cukup(jumlah_persediaan))         z6 = self.tambah(α6)         result.append((α6, z6))          return result          def defuzifikasi(self, jumlah_permintaan, jumlah_persediaan):         inferensi_values = self.inferensi(jumlah_permintaan, jumlah_persediaan)         return sum([(value[0]* value[1]) for value in inferensi_values]) / sum([value[0] for value in inferensi_values]) | https://github.com/iidsaiduddin27/fuzzy2 | 0 | 0| 
+| 20220528T11:10:57Z | Library management system | https://github.com/iyinusa/library-fuzzy | 0 | 0| 
+| 20220528T11:05:29Z | def down(x, xmin, xmax):     return (xmax- x) / (xmax - xmin)  def up(x, xmin, xmax):     return (x - xmin) / (xmax - xmin)  class Permintaan():     minimum = 2100     maximum = 3500      def turun(self, x):         if x >= self.maximum:             return 0         elif x <= self.minimum:             return 1         else:             return down(x, self.minimum, self.maximum)      def naik(self, x):         if x >= self.maximum:             return 1         elif x <= self.minimum:             return 0         else:             return up(x, self.minimum, self.maximum)  class Persediaan():     minimum = 100     maximum = 250      def sedikit(self, x):         if x >= self.maximum:             return 0         elif x <= self.minimum:             return 1         else:             return down(x, self.minimum, self.maximum)      def banyak(self, x):         if x >= self.maximum:             return 1         elif x <= self.minimum:             return 0         else:             return up(x, self.minimum, self.maximum)  class Produksi():     minimum = 1000     maximum = 5000          def kurang(self, α):         return self.maximum - α * (self.maximum-self.minimum)      def tambah(self, α):         return α *(self.maximum - self.minimum) + self.minimum      # 2 permintaan 2 persediaan     def inferensi(self, jumlah_permintaan, jumlah_persediaan):         pmt = Permintaan()         psd = Persediaan()         result = []         # [R1] JIKA Permintaan TURUN, dan Persediaan BANYAK,          #     MAKA Produksi Barang BERKURANG.         α1 = min(pmt.turun(jumlah_permintaan), psd.banyak(jumlah_persediaan))         z1 = self.kurang(α1)         result.append((α1, z1))         # [R2] JIKA Permintaan TURUN, dan Persediaan SEDIKIT,          #     MAKA Produksi Barang BERKURANG.         α2 = min(pmt.turun(jumlah_permintaan), psd.sedikit(jumlah_persediaan))         z2 = self.kurang(α2)         result.append((α2, z2))         # [R3] JIKA Permintaan NAIK, dan Persediaan BANYAK,          #     MAKA Produksi Barang BERTAMBAH.         α3 = min(pmt.naik(jumlah_permintaan), psd.banyak(jumlah_persediaan))         z3 = self.tambah(α3)         result.append((α3, z3))         # [R4] JIKA Permintaan NAIK, dan Persediaan SEDIKIT,         #     MAKA Produksi Barang BERTAMBAH.         α4 = min(pmt.naik(jumlah_permintaan), psd.sedikit(jumlah_persediaan))         z4 = self.tambah(α4)         result.append((α4, z4))         return result          def defuzifikasi(self, jumlah_permintaan, jumlah_persediaan):         inferensi_values = self.inferensi(jumlah_permintaan, jumlah_persediaan)         return sum([(value[0]* value[1]) for value in inferensi_values]) / sum([value[0] for value in inferensi_values]) # Permintaan = 3200 & Persediaan 140   # https://www.slideshare.net/ZaenalKhayat/contoh-peyelesaian-logika-fuzzy | https://github.com/iidsaiduddin27/fuzzy | 0 | 0| 
+| 20220528T09:48:46Z | Null | https://github.com/mhsmtg/fuzzy-succotash | 0 | 0| 
+| 20220528T07:18:12Z | Null | https://github.com/A-Sutisna/UAS_Ahmad-Sutisna_Fuzzy_Sugeno | 0 | 0| 
 | 20220528T01:22:55Z | Null | https://github.com/Dika-fahrozy/Fuzzy-sugeno | 0 | 0| 
 | 20220528T00:37:50Z | Null | https://github.com/12cbQLTFMXRnSzktFkuoG3eHoMeFtpTu3S/fuzzy-giggle | 0 | 0| 
-| 20220527T22:01:41Z | Merh-Select – no fuzz Vanilla JS dropdown select | https://github.com/merhmerh/merh-select | 0 | 0| 
-| 20220527T21:27:36Z | Null | https://github.com/tterbTestOrg2/fuzzy-fortnight | 0 | 0| 
-| 20220527T20:37:13Z | Null | https://github.com/aidenwang9867/go_fuzzer_test | 0 | 0| 
-| 20220527T20:07:02Z | A simple simulation to a DC motor and an implementation to a Fuzzy PID Controller and compare it to a Class PID Controller. | https://github.com/allonios/fuzzy-pid | 0 | 0| 
-| 20220527T19:28:37Z | Null | https://github.com/yunungmuk/fuzzy-guide | 0 | 0| 
-| 20220527T18:43:02Z | Null | https://github.com/1Sayed1/Fuzzy-algorithm-from-scratch | 0 | 0| 
-| 20220527T18:37:59Z | Null | https://github.com/1Sayed1/Fuzzy-Logic | 0 | 0| 
-| 20220527T11:56:18Z | Null | https://github.com/nfajar/Fuzzy | 0 | 0| 
 
 
 
