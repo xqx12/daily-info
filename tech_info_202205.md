@@ -91,12 +91,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220528T01:52:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2806 | 353| 
 | 20220528T00:45:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11539 | 1974| 
 | 20220528T00:45:09Z | Library for Roblox Exploiting meant to make Instance Creation easier! | https://github.com/RobloxArchiver/G.E.C.K | 0 | 0| 
 | 20220528T00:40:30Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
 | 20220528T00:39:46Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-l | 0 | 0| 
 | 20220528T00:38:50Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 0 | 0| 
-| 20220528T00:14:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2805 | 353| 
 | 20220527T23:54:46Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1239 | 195| 
 | 20220527T23:28:27Z | A forge mod hacked client with JavaScript integration. Why just exploit Vanilla, when you can exploit mods too! | https://github.com/Furry/CeriumMC | 0 | 0| 
 | 20220527T23:28:26Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | 0 | 0| 
@@ -106,10 +106,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220528T01:57:08Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1647 | 393| 
 | 20220527T22:17:17Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 126 | 32| 
 | 20220527T19:52:02Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 1 | 0| 
 | 20220527T17:42:43Z | Wordpress capable PHP backdoors | https://github.com/oldkingcone/WP-Backdoors | 0 | 0| 
-| 20220527T17:14:56Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1647 | 393| 
 | 20220527T03:51:53Z | Code Repository for the Paper --- Circumventing Backdoor Defenses That Are Based on Latent Separability | https://github.com/Unispac/Circumventing-Backdoor-Defenses | 2 | 0| 
 | 20220527T03:51:52Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 2 | 0| 
 | 20220527T01:38:47Z | Null | https://github.com/trung24012001/backdoor_cmd | 0 | 0| 
@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220528T01:22:55Z | Null | https://github.com/Dika-fahrozy/Fuzzy-sugeno | 0 | 0| 
 | 20220528T00:37:50Z | Null | https://github.com/12cbQLTFMXRnSzktFkuoG3eHoMeFtpTu3S/fuzzy-giggle | 0 | 0| 
 | 20220527T22:01:41Z | Merh-Select – no fuzz Vanilla JS dropdown select | https://github.com/merhmerh/merh-select | 0 | 0| 
 | 20220527T21:27:36Z | Null | https://github.com/tterbTestOrg2/fuzzy-fortnight | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220527T18:43:02Z | Null | https://github.com/1Sayed1/Fuzzy-algorithm-from-scratch | 0 | 0| 
 | 20220527T18:37:59Z | Null | https://github.com/1Sayed1/Fuzzy-Logic | 0 | 0| 
 | 20220527T11:56:18Z | Null | https://github.com/nfajar/Fuzzy | 0 | 0| 
-| 20220527T09:14:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4158 | 987| 
 
 
 
