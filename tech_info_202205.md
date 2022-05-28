@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220528T00:48:28Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220528T01:24:56Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
 | 20220527T22:14:45Z | CVE-2022-28346 | Null | https://github.com/pthlong9991/CVE-2022-28346 | | 
 | 20220527T18:43:52Z | CVE-2021-4034 | 统信UOS 桌面操作系统，存在CVE-2021-4034漏洞（Linux Polkit本地权限提升漏洞）。 | https://github.com/xcanwin/CVE-2021-4034-UniontechOS | | 
 | 20220527T17:40:02Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
