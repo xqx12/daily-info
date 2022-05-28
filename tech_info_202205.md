@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220528T12:46:19Z | CVE-2022-1388 | Null | https://github.com/trhacknon/CVE-2022-1388-PocExp | | 
+| 20220528T12:43:29Z | CVE-2022-1388 | Null | https://github.com/trhacknon/Exploit-F5-CVE-2022-1388 | | 
+| 20220528T12:41:07Z | CVE-2022-1388 | Null | https://github.com/trhacknon/F5-CVE-2022-1388-Exploit | | 
 | 20220528T12:36:10Z | CVE-2022-1388 | Null | https://github.com/trhacknon/CVE-2022-1388 | | 
 | 20220528T11:46:45Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
 | 20220528T10:50:10Z | CVE-2022-21661 | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | | 
@@ -53,9 +56,6 @@
 | 20220528T07:22:02Z | CVE-2022-30525 | Null | https://github.com/west9b/CVE-2022-30525 | | 
 | 20220528T05:54:03Z | CVE-2022-23121 | Null | https://github.com/kuznyJan1972/CVE-2022-23121-MASS-RCE | | 
 | 20220528T01:49:29Z | CVE-2022-1609 | CVE-2022-1609 WordPress Weblizar后门 | https://github.com/savior-only/CVE-2022-1609 | | 
-| 20220527T22:14:45Z | CVE-2022-28346 | Null | https://github.com/pthlong9991/CVE-2022-28346 | | 
-| 20220527T18:43:52Z | CVE-2021-4034 | 统信UOS 桌面操作系统，存在CVE-2021-4034漏洞（Linux Polkit本地权限提升漏洞）。 | https://github.com/xcanwin/CVE-2021-4034-UniontechOS | | 
-| 20220527T17:33:02Z | CVE-2022-23121 | NETATALK-AFP-PROTO RCE :, This CVE-2022-23121 allows remote malicious users to execute arbitrary code on affected installations of Netatalk. Authentication is not required to exploit this vulnerability. The specific flaw exists within the parse_entries function. The issue results from the lack of proper error handling when parsing AppleDouble entries. An attacker can leverage this vulnerability to execute code in the context of root. | https://github.com/kuznyJan1972/CVE-2022-23121-MASS | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220528T12:43:29Z | Null | https://github.com/trhacknon/Exploit-F5-CVE-2022-1388 | 0 | 0| 
+| 20220528T12:41:07Z | Null | https://github.com/trhacknon/F5-CVE-2022-1388-Exploit | 0 | 0| 
 | 20220528T12:11:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2810 | 353| 
 | 20220528T12:09:58Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 120 | 41| 
 | 20220528T10:50:10Z | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20220528T03:58:41Z | Null | https://github.com/trhacknon/AnonStress-Stored-XSS-Exploit | 0 | 0| 
 | 20220528T03:30:52Z | Attack tool to test the security of your server, or your Anti Cheat | https://github.com/Pac0D/SA-MP-Exploit-1900---2022 | 1 | 0| 
 | 20220528T00:45:09Z | Library for Roblox Exploiting meant to make Instance Creation easier! | https://github.com/RobloxArchiver/G.E.C.K | 0 | 0| 
-| 20220528T00:40:30Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
-| 20220528T00:39:46Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-l | 0 | 0| 
 
 
 # backdoor on Github 推荐
