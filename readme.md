@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220527T23:41:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11538 | 1973| 
+| 20220527T23:41:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11538 | 1974| 
 | 20220527T23:28:27Z | A forge mod hacked client with JavaScript integration. Why just exploit Vanilla, when you can exploit mods too! | https://github.com/Furry/CeriumMC | 0 | 0| 
 | 20220527T23:28:26Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | 0 | 0| 
 | 20220527T22:39:28Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 49 | 8| 
