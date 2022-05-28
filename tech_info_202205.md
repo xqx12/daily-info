@@ -149,6 +149,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220528T00:37:50Z | Null | https://github.com/12cbQLTFMXRnSzktFkuoG3eHoMeFtpTu3S/fuzzy-giggle | 0 | 0| 
 | 20220527T22:01:41Z | Merh-Select – no fuzz Vanilla JS dropdown select | https://github.com/merhmerh/merh-select | 0 | 0| 
 | 20220527T21:27:36Z | Null | https://github.com/tterbTestOrg2/fuzzy-fortnight | 0 | 0| 
 | 20220527T20:37:13Z | Null | https://github.com/aidenwang9867/go_fuzzer_test | 0 | 0| 
@@ -158,7 +159,6 @@
 | 20220527T18:37:59Z | Null | https://github.com/1Sayed1/Fuzzy-Logic | 0 | 0| 
 | 20220527T11:56:18Z | Null | https://github.com/nfajar/Fuzzy | 0 | 0| 
 | 20220527T09:14:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4158 | 987| 
-| 20220527T08:35:16Z | A repository for developing a shopify theme | https://github.com/Eastynfromeast/fuzzy-taco-debut | 1 | 0| 
 
 
 
