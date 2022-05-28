@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220527T23:44:33Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220528T00:48:28Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
 | 20220527T22:14:45Z | CVE-2022-28346 | Null | https://github.com/pthlong9991/CVE-2022-28346 | | 
 | 20220527T18:43:52Z | CVE-2021-4034 | 统信UOS 桌面操作系统，存在CVE-2021-4034漏洞（Linux Polkit本地权限提升漏洞）。 | https://github.com/xcanwin/CVE-2021-4034-UniontechOS | | 
 | 20220527T17:40:02Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220528T00:45:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11539 | 1974| 
+| 20220528T00:45:09Z | Library for Roblox Exploiting meant to make Instance Creation easier! | https://github.com/RobloxArchiver/G.E.C.K | 0 | 0| 
+| 20220528T00:40:30Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
+| 20220528T00:39:46Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-l | 0 | 0| 
+| 20220528T00:38:50Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 0 | 0| 
 | 20220528T00:14:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2805 | 353| 
-| 20220527T23:41:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11538 | 1973| 
 | 20220527T23:28:27Z | A forge mod hacked client with JavaScript integration. Why just exploit Vanilla, when you can exploit mods too! | https://github.com/Furry/CeriumMC | 0 | 0| 
 | 20220527T23:28:26Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | 0 | 0| 
 | 20220527T22:39:28Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 49 | 8| 
 | 20220527T20:51:44Z | Development of a Secured Cloud-based Drive application Exploiting Web Technologies is sofiyullah abdullah final year project in partial fulfilment of the requirement for the award of Higher National Diploma Computer Engineering  submitted to department of  computer engineering , school of enginneering, Federal Polytechnic Ede, Osun State. Nigeria.  | https://github.com/Precioussoul/HBS-DRIVE | 0 | 0| 
-| 20220527T19:16:59Z | Exploit for Pentester Labs | https://github.com/Cypheer/exploit_CVE-2018-6574 | 0 | 0| 
-| 20220527T13:40:20Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 285 | 15| 
-| 20220527T13:35:31Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 213 | 820| 
-| 20220527T12:42:49Z | Null | https://github.com/uac-ctf/workshop-binary-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
