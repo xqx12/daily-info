@@ -97,10 +97,10 @@
 | 20220528T00:39:46Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-l | 0 | 0| 
 | 20220528T00:38:50Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 0 | 0| 
 | 20220528T00:14:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2805 | 353| 
+| 20220527T23:54:46Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1239 | 195| 
 | 20220527T23:28:27Z | A forge mod hacked client with JavaScript integration. Why just exploit Vanilla, when you can exploit mods too! | https://github.com/Furry/CeriumMC | 0 | 0| 
 | 20220527T23:28:26Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | 0 | 0| 
 | 20220527T22:39:28Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 49 | 8| 
-| 20220527T20:51:44Z | Development of a Secured Cloud-based Drive application Exploiting Web Technologies is sofiyullah abdullah final year project in partial fulfilment of the requirement for the award of Higher National Diploma Computer Engineering  submitted to department of  computer engineering , school of enginneering, Federal Polytechnic Ede, Osun State. Nigeria.  | https://github.com/Precioussoul/HBS-DRIVE | 0 | 0| 
 
 
 # backdoor on Github 推荐

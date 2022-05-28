@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220527T23:54:46Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1239 | 195| 
 | 20220527T23:28:27Z | A forge mod hacked client with JavaScript integration. Why just exploit Vanilla, when you can exploit mods too! | https://github.com/Furry/CeriumMC | 0 | 0| 
 | 20220527T23:28:26Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | 0 | 0| 
 | 20220527T22:39:28Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 49 | 8| 
@@ -63,7 +64,6 @@
 | 20220527T13:35:31Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 213 | 820| 
 | 20220527T12:42:49Z | Null | https://github.com/uac-ctf/workshop-binary-exploitation | 0 | 0| 
 | 20220527T12:15:29Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 99 | 8| 
-| 20220527T11:00:01Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 340 | 71| 
 
 
 # backdoor on Github 推荐
