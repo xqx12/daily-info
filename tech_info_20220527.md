@@ -23,22 +23,27 @@
 | 20220527 | IEEE S&P 2022 云端报道（4） | https://mp.weixin.qq.com/s/AODkKorJLCfv4HXkl1pzxw| 
 | 20220527 | MANDIANT 网络威胁情报分析人员核心能力框架 | https://mp.weixin.qq.com/s/4ErBfydEa1DY7OAiLgeknA| 
 | 20220527 | IEEE S&amp;P 2022 云端报道（4） | /news/30374| 
+| 20220527 | Ghostrings is a collection of Ghidra scripts for recoverin... | https://github.com/nccgroup/ghostrings| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220527T12:20:10Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220527T23:44:33Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
+| 20220527T22:14:45Z | CVE-2022-28346 | Null | https://github.com/pthlong9991/CVE-2022-28346 | | 
+| 20220527T18:43:52Z | CVE-2021-4034 | 统信UOS 桌面操作系统，存在CVE-2021-4034漏洞（Linux Polkit本地权限提升漏洞）。 | https://github.com/xcanwin/CVE-2021-4034-UniontechOS | | 
+| 20220527T17:40:02Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
+| 20220527T17:33:02Z | CVE-2022-23121 | NETATALK-AFP-PROTO RCE :, This CVE-2022-23121 allows remote malicious users to execute arbitrary code on affected installations of Netatalk. Authentication is not required to exploit this vulnerability. The specific flaw exists within the parse_entries function. The issue results from the lack of proper error handling when parsing AppleDouble entries. An attacker can leverage this vulnerability to execute code in the context of root. | https://github.com/kuznyJan1972/CVE-2022-23121-MASS | | 
+| 20220527T13:15:38Z | CVE-2022-1609 | CVE-2022-1609 WordPress Weblizar后门 | https://github.com/savior-only/CVE-2022-1609 | | 
 | 20220527T10:08:55Z | 未知编号 | Null | https://github.com/pthlong9991/CVE202228346 | | 
 | 20220527T09:48:06Z | CVE-2022-0540 | Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540） | https://github.com/Pear1y/CVE-2022-0540-Preauth-RCE | | 
-| 20220527T09:41:22Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 | 20220527T06:52:45Z | cve-2021-21972 | Null | https://github.com/user16-et/cve-2021-21972_PoC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220527T12:55:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6592 | 234| 
+| 20220527T23:46:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6604 | 235| 
 
 
 # s2e on Github 推荐
@@ -50,28 +55,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220527T23:41:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11538 | 1973| 
+| 20220527T23:28:27Z | A forge mod hacked client with JavaScript integration. Why just exploit Vanilla, when you can exploit mods too! | https://github.com/Furry/CeriumMC | 0 | 0| 
+| 20220527T23:28:26Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/eng-cmp-prj--network-security | 0 | 0| 
+| 20220527T22:39:28Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 49 | 8| 
+| 20220527T20:51:44Z | Development of a Secured Cloud-based Drive application Exploiting Web Technologies is sofiyullah abdullah final year project in partial fulfilment of the requirement for the award of Higher National Diploma Computer Engineering  submitted to department of  computer engineering , school of enginneering, Federal Polytechnic Ede, Osun State. Nigeria.  | https://github.com/Precioussoul/HBS-DRIVE | 0 | 0| 
+| 20220527T19:16:59Z | Exploit for Pentester Labs | https://github.com/Cypheer/exploit_CVE-2018-6574 | 0 | 0| 
+| 20220527T13:40:20Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 285 | 15| 
+| 20220527T13:35:31Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 213 | 820| 
 | 20220527T12:42:49Z | Null | https://github.com/uac-ctf/workshop-binary-exploitation | 0 | 0| 
-| 20220527T12:20:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11537 | 1975| 
 | 20220527T12:15:29Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 99 | 8| 
-| 20220527T11:00:01Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 340 | 71| 
-| 20220527T10:53:25Z | HackSysExtremeVulnerableDriver exploits for latest Windows 10 version | https://github.com/vportal/HEVD | 0 | 0| 
-| 20220527T10:28:55Z | Exploiting the benefits of graphQL, using the build-in client/simple html page to display data. Query language for API%s (linked with ODM and MongoDB). | https://github.com/8ber/GraphQL | 0 | 0| 
-| 20220527T10:24:41Z | A PoC / methodology to exploit CVE-2017-6516 | https://github.com/Rubytox/CVE-2017-6516-mcsiwrapper- | 0 | 0| 
-| 20220527T09:56:51Z | Null | https://github.com/kiflayferuz/ThemeApp-Android-Permission-Vulnerability-Exploit | 0 | 0| 
-| 20220527T09:18:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2797 | 352| 
-| 20220527T08:08:06Z | exploit for T3 rce （CVE 2015-4852 \CVE 2016-0638 \CVE 2016-3510） | https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220527T08:17:43Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 125 | 32| 
+| 20220527T22:17:17Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 126 | 32| 
+| 20220527T19:52:02Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 1 | 0| 
+| 20220527T17:42:43Z | Wordpress capable PHP backdoors | https://github.com/oldkingcone/WP-Backdoors | 0 | 0| 
+| 20220527T17:14:56Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1647 | 393| 
 | 20220527T03:51:53Z | Code Repository for the Paper --- Circumventing Backdoor Defenses That Are Based on Latent Separability | https://github.com/Unispac/Circumventing-Backdoor-Defenses | 2 | 0| 
 | 20220527T03:51:52Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 2 | 0| 
 | 20220527T01:38:47Z | Null | https://github.com/trung24012001/backdoor_cmd | 0 | 0| 
-| 20220527T01:27:35Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1646 | 393| 
 | 20220527T01:24:27Z | Utility for creating backdoors in Bukkit plugins | https://github.com/Rikonardo/Bukloit | 25 | 3| 
-| 20220527T00:20:38Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -89,13 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220527T22:01:41Z | Merh-Select – no fuzz Vanilla JS dropdown select | https://github.com/merhmerh/merh-select | 0 | 0| 
+| 20220527T21:27:36Z | Null | https://github.com/tterbTestOrg2/fuzzy-fortnight | 0 | 0| 
+| 20220527T20:37:13Z | Null | https://github.com/aidenwang9867/go_fuzzer_test | 0 | 0| 
+| 20220527T20:07:02Z | A simple simulation to a DC motor and an implementation to a Fuzzy PID Controller and compare it to a Class PID Controller. | https://github.com/allonios/fuzzy-pid | 0 | 0| 
+| 20220527T19:28:37Z | Null | https://github.com/yunungmuk/fuzzy-guide | 0 | 0| 
+| 20220527T18:43:02Z | Null | https://github.com/1Sayed1/Fuzzy-algorithm-from-scratch | 0 | 0| 
+| 20220527T18:37:59Z | Null | https://github.com/1Sayed1/Fuzzy-Logic | 0 | 0| 
 | 20220527T11:56:18Z | Null | https://github.com/nfajar/Fuzzy | 0 | 0| 
 | 20220527T09:14:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4158 | 987| 
 | 20220527T08:35:16Z | A repository for developing a shopify theme | https://github.com/Eastynfromeast/fuzzy-taco-debut | 1 | 0| 
-| 20220527T07:31:50Z | Null | https://github.com/asann3/the-fuzzing-book | 0 | 0| 
-| 20220527T01:56:27Z | Selcuk University 2009 Homework Fuzzy Logic Grading System with Gauss Dist.  | https://github.com/ucoruh/fuzzy-logic-gauss-dist-grading-system-csharp-gui | 0 | 0| 
-| 20220527T01:45:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7449 | 1595| 
-| 20220527T01:13:31Z | Implementation of  a Decision Support System (DSS) for the selection of a basketball team. Project made for  course El-7038 ntroducción a la Teoría de Conjuntos Difusos y Sistemas Inteligentes, Universidad de Chile, Fall 2022 | https://github.com/ricardo462/T2-FuzzyLogic | 0 | 0| 
 
 
 
