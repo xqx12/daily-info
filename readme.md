@@ -24,7 +24,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220529T10:48:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6628 | 237| 
+| 20220529T12:21:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6629 | 237| 
 | 20220529T08:08:32Z | Null | https://github.com/Kleekool/kleekool | 0 | 0| 
 
 
@@ -68,6 +68,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T09:38:29Z | Null | https://github.com/gjwodnd240/fuzzy-sniffle | 0 | 0| 
+| 20220529T09:00:10Z | practice on kaggle projects | https://github.com/Orchideous-77/fuzzy-enigma | 0 | 0| 
+| 20220529T07:17:17Z | Null | https://github.com/fbsmc01/fuzzy-lamp | 0 | 0| 
+| 20220529T07:16:38Z | Null | https://github.com/Pixxxxta/FuzziKurs | 0 | 0| 
+| 20220529T05:40:53Z | Null | https://github.com/fuzzyvo/fuzzyvo.github.io | 0 | 0| 
+| 20220529T04:55:23Z | Null | https://github.com/diannamarjorie/fuzzy-garbanzo | 0 | 0| 
+| 20220529T04:04:57Z | Null | https://github.com/good-soul/fuzzy-octo-guacamole | 1 | 0| 
 
 
 
