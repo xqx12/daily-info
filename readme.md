@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220529T10:27:57Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
+| 20220529T12:32:49Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
 | 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/bigbigban1/CVE-2022-22947-exp | | 
 | 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/Wrong-pixel/CVE-2022-22947-exp | | 
 
@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T12:16:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 129 | 41| 
 | 20220529T12:10:00Z | Exploits and glitches for AdventureQuest 3D | https://github.com/hydronator/AQ3DExploits | 0 | 0| 
 | 20220529T11:47:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2818 | 355| 
 | 20220529T11:29:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3052 | 446| 
