@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/bigbigban1/CVE-2022-22947-exp | | 
 | 20220528T21:21:16Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
 | 20220528T19:11:42Z | CVE-2022-21661 | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | | 
 | 20220528T14:23:21Z | CVE-2022-30525 | CVE-2022-30525 POC&EXP | https://github.com/west9b/CVE-2022-30525 | | 
@@ -55,13 +56,12 @@
 | 20220528T12:41:07Z | CVE-2022-1388 | Null | https://github.com/trhacknon/F5-CVE-2022-1388-Exploit | | 
 | 20220528T12:36:10Z | CVE-2022-1388 | Null | https://github.com/trhacknon/CVE-2022-1388 | | 
 | 20220528T11:46:45Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
-| 20220528T07:47:47Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T23:10:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6616 | 237| 
+| 20220529T01:35:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6619 | 237| 
 | 20220528T13:44:12Z | A discord bot for random thing | https://github.com/ongsalt/kleechan | 0 | 0| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T01:24:58Z | Null | https://github.com/BinaryDex/DexHubWeb | 0 | 1| 
 | 20220528T23:42:42Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220528T23:41:39Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220528T23:40:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220528T23:39:57Z | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | 59 | 42| 
 | 20220528T21:57:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2816 | 355| 
 | 20220528T20:52:02Z | A WIP modification for Minecraft packet manipulation and exploits. | https://github.com/Iritium/BadMC | 0 | 0| 
+| 20220528T20:43:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 42 | 21| 
 | 20220528T20:43:51Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 116 | 27| 
 | 20220528T20:05:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11545 | 1975| 
-| 20220528T18:27:17Z | Exploiting buffer overflow vulnerability on FreeFloat FTP server | https://github.com/Tufalpha1/Buffer-Overflow | 0 | 0| 
-| 20220528T18:00:29Z | wow | https://github.com/hmm1x/exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T03:39:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2882 | 416| 
+| 20220528T20:22:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2886 | 416| 
+| 20220528T13:41:16Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 65 | 3| 
+| 20220528T13:37:46Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 427 | 21| 
 | 20220526T16:41:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1974 | 564| 
 | 20220526T00:23:40Z | Symbolic Execution Engine and Verification Condition Generator for While-Language and SMTlib | https://github.com/wadoon/mini-symex | 1 | 0| 
 | 20220525T16:06:58Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 36 | 22| 
 | 20220525T02:55:27Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 876 | 117| 
 | 20220524T19:06:19Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 38| 
-| 20220524T12:30:25Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 426 | 21| 
-| 20220524T09:40:05Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 64 | 3| 
+| 20220522T17:22:31Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 544 | 94| 
 | 20220521T01:13:11Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 70 | 14| 
-| 20220519T21:21:56Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 2 | 0| 
 
 
 # big4 on Github 推荐
