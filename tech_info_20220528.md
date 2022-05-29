@@ -31,7 +31,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T23:10:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6616 | 237| 
 | 20220528T13:44:12Z | A discord bot for random thing | https://github.com/ongsalt/kleechan | 0 | 0| 
 
 
@@ -49,10 +48,10 @@
 | 20220528T23:39:57Z | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | 59 | 42| 
 | 20220528T21:57:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2816 | 355| 
 | 20220528T20:52:02Z | A WIP modification for Minecraft packet manipulation and exploits. | https://github.com/Iritium/BadMC | 0 | 0| 
+| 20220528T20:43:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 42 | 21| 
 | 20220528T20:43:51Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 116 | 27| 
 | 20220528T20:05:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11545 | 1975| 
 | 20220528T18:27:17Z | Exploiting buffer overflow vulnerability on FreeFloat FTP server | https://github.com/Tufalpha1/Buffer-Overflow | 0 | 0| 
-| 20220528T18:17:39Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 286 | 16| 
 
 
 # backdoor on Github 推荐
