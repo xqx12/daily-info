@@ -16,22 +16,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220528T21:21:16Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
+| 20220528T19:11:42Z | CVE-2022-21661 | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | | 
+| 20220528T14:23:21Z | CVE-2022-30525 | CVE-2022-30525 POC&EXP | https://github.com/west9b/CVE-2022-30525 | | 
+| 20220528T14:12:20Z | CVE-2022-26809 | Mass RCE VIA CVE-2022-6809 AND THE METASPLOIT MODULE | https://github.com/ChrisopherJohanso/CVE-2022-26809-RCE | | 
 | 20220528T12:46:19Z | CVE-2022-1388 | Null | https://github.com/trhacknon/CVE-2022-1388-PocExp | | 
 | 20220528T12:43:29Z | CVE-2022-1388 | Null | https://github.com/trhacknon/Exploit-F5-CVE-2022-1388 | | 
 | 20220528T12:41:07Z | CVE-2022-1388 | Null | https://github.com/trhacknon/F5-CVE-2022-1388-Exploit | | 
 | 20220528T12:36:10Z | CVE-2022-1388 | Null | https://github.com/trhacknon/CVE-2022-1388 | | 
 | 20220528T11:46:45Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
-| 20220528T10:50:10Z | CVE-2022-21661 | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | | 
 | 20220528T07:47:47Z | CVE-2022-30781 | 🍵 Gitea repository migration remote command execution exploit. | https://github.com/wuhan005/CVE-2022-30781 | | 
-| 20220528T07:22:02Z | CVE-2022-30525 | Null | https://github.com/west9b/CVE-2022-30525 | | 
-| 20220528T05:54:03Z | CVE-2022-23121 | Null | https://github.com/kuznyJan1972/CVE-2022-23121-MASS-RCE | | 
-| 20220528T01:49:29Z | CVE-2022-1609 | CVE-2022-1609 WordPress Weblizar后门 | https://github.com/savior-only/CVE-2022-1609 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T11:55:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6612 | 236| 
+| 20220528T23:10:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6616 | 237| 
+| 20220528T13:44:12Z | A discord bot for random thing | https://github.com/ongsalt/kleechan | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -42,22 +43,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T12:43:29Z | Null | https://github.com/trhacknon/Exploit-F5-CVE-2022-1388 | 0 | 0| 
-| 20220528T12:41:07Z | Null | https://github.com/trhacknon/F5-CVE-2022-1388-Exploit | 0 | 0| 
-| 20220528T12:11:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2810 | 353| 
-| 20220528T12:09:58Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 120 | 41| 
-| 20220528T10:50:10Z | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | 0 | 0| 
-| 20220528T09:11:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11542 | 1975| 
-| 20220528T05:23:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 410 | 119| 
-| 20220528T03:58:41Z | Null | https://github.com/trhacknon/AnonStress-Stored-XSS-Exploit | 0 | 0| 
-| 20220528T03:30:52Z | Attack tool to test the security of your server, or your Anti Cheat | https://github.com/Pac0D/SA-MP-Exploit-1900---2022 | 1 | 0| 
-| 20220528T00:45:09Z | Library for Roblox Exploiting meant to make Instance Creation easier! | https://github.com/RobloxArchiver/G.E.C.K | 0 | 0| 
+| 20220528T23:42:42Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 0 | 0| 
+| 20220528T23:41:39Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-p | 0 | 0| 
+| 20220528T23:40:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-p | 0 | 0| 
+| 20220528T23:39:57Z | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | 59 | 42| 
+| 20220528T21:57:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2816 | 355| 
+| 20220528T20:52:02Z | A WIP modification for Minecraft packet manipulation and exploits. | https://github.com/Iritium/BadMC | 0 | 0| 
+| 20220528T20:43:51Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 116 | 27| 
+| 20220528T20:05:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11545 | 1975| 
+| 20220528T18:27:17Z | Exploiting buffer overflow vulnerability on FreeFloat FTP server | https://github.com/Tufalpha1/Buffer-Overflow | 0 | 0| 
+| 20220528T18:00:29Z | wow | https://github.com/hmm1x/exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T07:38:19Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 126 | 32| 
+| 20220528T22:08:23Z | Null | https://github.com/Lagpixell/Backdoor | 0 | 0| 
+| 20220528T15:33:42Z | Wordpress capable PHP backdoors | https://github.com/oldkingcone/WP-Backdoors | 0 | 0| 
+| 20220528T14:50:02Z | Database of backdoor | https://github.com/jklop-inferno/isomer | 0 | 0| 
+| 20220528T07:38:19Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 126 | 33| 
 | 20220528T07:05:36Z | Null | https://github.com/trung24012001/backdoor_cmd | 0 | 0| 
 | 20220528T05:46:29Z | uso: | https://github.com/OnixZeny/TEAM-ZERO-BACKDOOR | 0 | 0| 
 | 20220528T05:42:07Z | uso: | https://github.com/OnixZeny/TEAM-ZERO-BACKDOOR-PROFESIONAL | 0 | 0| 
