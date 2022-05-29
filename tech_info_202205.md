@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220529T10:27:57Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
+| 20220529T12:32:49Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
 | 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/bigbigban1/CVE-2022-22947-exp | | 
 | 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/Wrong-pixel/CVE-2022-22947-exp | | 
 | 20220528T19:11:42Z | CVE-2022-21661 | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220529T10:48:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6628 | 237| 
+| 20220529T12:21:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6629 | 237| 
 | 20220529T08:08:32Z | Null | https://github.com/Kleekool/kleekool | 0 | 0| 
 | 20220528T13:44:12Z | A discord bot for random thing | https://github.com/ongsalt/kleechan | 0 | 0| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T12:33:09Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1241 | 195| 
+| 20220529T12:16:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 129 | 41| 
 | 20220529T12:10:00Z | Exploits and glitches for AdventureQuest 3D | https://github.com/hydronator/AQ3DExploits | 0 | 0| 
 | 20220529T11:47:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2818 | 355| 
 | 20220529T11:29:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3052 | 446| 
 | 20220529T11:12:49Z | Tools/scripts For OSED / Reverse engineering / Binary exploitation | https://github.com/sebastian93921/OSED-Code-Snippets | 0 | 0| 
+| 20220529T10:55:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11547 | 1975| 
 | 20220529T10:51:34Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 102 | 25| 
 | 20220529T09:58:58Z | Scripts, exploits and assets to hack %Heist% challenge by HTB. | https://github.com/kagasirat/htb-heist | 0 | 0| 
-| 20220529T02:45:44Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1240 | 195| 
 | 20220529T01:24:58Z | Null | https://github.com/BinaryDex/DexHubWeb | 0 | 1| 
-| 20220528T23:42:42Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 0 | 0| 
-| 20220528T23:41:39Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-p | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T11:34:25Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 66 | 3| 
+| 20220529T06:18:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 545 | 94| 
+| 20220529T05:37:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 225 | 54| 
 | 20220528T20:22:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2886 | 416| 
-| 20220528T13:41:16Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 65 | 3| 
-| 20220528T13:37:46Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 427 | 21| 
+| 20220528T13:37:46Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 427 | 22| 
 | 20220526T16:41:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1974 | 564| 
 | 20220526T00:23:40Z | Symbolic Execution Engine and Verification Condition Generator for While-Language and SMTlib | https://github.com/wadoon/mini-symex | 1 | 0| 
 | 20220525T16:06:58Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 36 | 22| 
 | 20220525T02:55:27Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 876 | 117| 
 | 20220524T19:06:19Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 38| 
-| 20220522T17:22:31Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 544 | 94| 
-| 20220521T01:13:11Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 70 | 14| 
 
 
 # big4 on Github 推荐
@@ -149,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T09:38:29Z | Null | https://github.com/gjwodnd240/fuzzy-sniffle | 0 | 0| 
+| 20220529T09:00:10Z | practice on kaggle projects | https://github.com/Orchideous-77/fuzzy-enigma | 0 | 0| 
+| 20220529T07:17:17Z | Null | https://github.com/fbsmc01/fuzzy-lamp | 0 | 0| 
+| 20220529T07:16:38Z | Null | https://github.com/Pixxxxta/FuzziKurs | 0 | 0| 
+| 20220529T05:40:53Z | Null | https://github.com/fuzzyvo/fuzzyvo.github.io | 0 | 0| 
+| 20220529T04:55:23Z | Null | https://github.com/diannamarjorie/fuzzy-garbanzo | 0 | 0| 
+| 20220529T04:04:57Z | Null | https://github.com/good-soul/fuzzy-octo-guacamole | 1 | 0| 
 | 20220528T12:38:50Z | Null | https://github.com/rianriyono/UAS_Kecerdasan_Buatan_Fuzzy_Sugeno | 0 | 0| 
 | 20220528T12:02:11Z | Null | https://github.com/maddnty/fuzzy-spork | 0 | 0| 
 | 20220528T12:00:59Z | UAS KECERDASAN BUATAN_FUZZY SUGENO_RIAN RIYONO_191011401756 | https://github.com/rianriyono/Rian-Riyono_FuzzySugeno | 0 | 0| 
-| 20220528T11:57:34Z | Null | https://github.com/mniepokoj/MIO_FuzzyLogic_Project | 0 | 1| 
-| 20220528T11:25:19Z | Null | https://github.com/Sendyramadhanpratama/UTS_fuzzy_sugeno | 0 | 0| 
-| 20220528T11:14:09Z | def down(x, xmin, xmax):     return (xmax- x) / (xmax - xmin)  def up(x, xmin, xmax):     return (x - xmin) / (xmax - xmin)  class Permintaan():     minimum = 2100     maximum = 3500      def turun(self, x):         if x >= self.maximum:             return 0         elif x <= self.minimum:             return 1         else:             return down(x, self.minimum, self.maximum)      def naik(self, x):         if x >= self.maximum:             return 1         elif x <= self.minimum:             return 0         else:             return up(x, self.minimum, self.maximum)  class Persediaan():     minimum = 100     medium = 300     maximum = 500      def sedikit(self, x):         if x >= self.medium:             return 0         elif x <= self.minimum:             return 1         else:             return down(x, self.minimum, self.medium)          def cukup(self, x):         if self.minimum < x < self.medium:             return up(x, self.minimum, self.medium)         elif self.medium < x < self.maximum:             return down(x, self.medium, self.maximum)         elif x == self.medium:             return 1         else:             return 0      def banyak(self, x):         if x >= self.maximum:             return 1         elif x <= self.medium:             return 0         else:             return up(x, self.medium, self.maximum)  class Produksi():     minimum = 1000     maximum = 5000          def kurang(self, α):         return self.maximum - α * (self.maximum-self.minimum)      def tambah(self, α):         return α *(self.maximum - self.minimum) + self.minimum      # 2 permintaan 3 persediaan     def inferensi(self, jumlah_permintaan, jumlah_persediaan):         pmt = Permintaan()         psd = Persediaan()         result = []         # [R1] JIKA Permintaan TURUN, dan Persediaan BANYAK,          #     MAKA Produksi Barang BERKURANG.         α1 = min(pmt.turun(jumlah_permintaan), psd.banyak(jumlah_persediaan))         z1 = self.kurang(α1)         result.append((α1, z1))         # [R2] JIKA Permintaan TURUN, dan Persediaan SEDIKIT,          #     MAKA Produksi Barang BERKURANG.         α2 = min(pmt.turun(jumlah_permintaan), psd.sedikit(jumlah_persediaan))         z2 = self.kurang(α2)         result.append((α2, z2))         # [R3] JIKA Permintaan NAIK, dan Persediaan BANYAK,          #     MAKA Produksi Barang BERTAMBAH.         α3 = min(pmt.naik(jumlah_permintaan), psd.banyak(jumlah_persediaan))         z3 = self.tambah(α3)         result.append((α3, z3))         # [R4] JIKA Permintaan NAIK, dan Persediaan SEDIKIT,         #     MAKA Produksi Barang BERTAMBAH.         α4 = min(pmt.naik(jumlah_permintaan), psd.sedikit(jumlah_persediaan))         z4 = self.tambah(α4)         result.append((α4, z4))          # [R5] JIKA Permintaan NAIK, dan Persediaan CUKUP,         #     MAKA Produksi Barang BERKURANG.         α5 = min(pmt.naik(jumlah_permintaan), psd.cukup(jumlah_persediaan))         z5 = self.kurang(α5)         result.append((α5, z5))          # [R6] JIKA Permintaan NAIK, dan Persediaan CUKUP,         #     MAKA Produksi Barang BERKURANG.         α6 = min(pmt.turun(jumlah_permintaan), psd.cukup(jumlah_persediaan))         z6 = self.tambah(α6)         result.append((α6, z6))          return result          def defuzifikasi(self, jumlah_permintaan, jumlah_persediaan):         inferensi_values = self.inferensi(jumlah_permintaan, jumlah_persediaan)         return sum([(value[0]* value[1]) for value in inferensi_values]) / sum([value[0] for value in inferensi_values]) | https://github.com/iidsaiduddin27/fuzzy2 | 0 | 0| 
-| 20220528T11:10:57Z | Library management system | https://github.com/iyinusa/library-fuzzy | 0 | 0| 
-| 20220528T11:05:29Z | def down(x, xmin, xmax):     return (xmax- x) / (xmax - xmin)  def up(x, xmin, xmax):     return (x - xmin) / (xmax - xmin)  class Permintaan():     minimum = 2100     maximum = 3500      def turun(self, x):         if x >= self.maximum:             return 0         elif x <= self.minimum:             return 1         else:             return down(x, self.minimum, self.maximum)      def naik(self, x):         if x >= self.maximum:             return 1         elif x <= self.minimum:             return 0         else:             return up(x, self.minimum, self.maximum)  class Persediaan():     minimum = 100     maximum = 250      def sedikit(self, x):         if x >= self.maximum:             return 0         elif x <= self.minimum:             return 1         else:             return down(x, self.minimum, self.maximum)      def banyak(self, x):         if x >= self.maximum:             return 1         elif x <= self.minimum:             return 0         else:             return up(x, self.minimum, self.maximum)  class Produksi():     minimum = 1000     maximum = 5000          def kurang(self, α):         return self.maximum - α * (self.maximum-self.minimum)      def tambah(self, α):         return α *(self.maximum - self.minimum) + self.minimum      # 2 permintaan 2 persediaan     def inferensi(self, jumlah_permintaan, jumlah_persediaan):         pmt = Permintaan()         psd = Persediaan()         result = []         # [R1] JIKA Permintaan TURUN, dan Persediaan BANYAK,          #     MAKA Produksi Barang BERKURANG.         α1 = min(pmt.turun(jumlah_permintaan), psd.banyak(jumlah_persediaan))         z1 = self.kurang(α1)         result.append((α1, z1))         # [R2] JIKA Permintaan TURUN, dan Persediaan SEDIKIT,          #     MAKA Produksi Barang BERKURANG.         α2 = min(pmt.turun(jumlah_permintaan), psd.sedikit(jumlah_persediaan))         z2 = self.kurang(α2)         result.append((α2, z2))         # [R3] JIKA Permintaan NAIK, dan Persediaan BANYAK,          #     MAKA Produksi Barang BERTAMBAH.         α3 = min(pmt.naik(jumlah_permintaan), psd.banyak(jumlah_persediaan))         z3 = self.tambah(α3)         result.append((α3, z3))         # [R4] JIKA Permintaan NAIK, dan Persediaan SEDIKIT,         #     MAKA Produksi Barang BERTAMBAH.         α4 = min(pmt.naik(jumlah_permintaan), psd.sedikit(jumlah_persediaan))         z4 = self.tambah(α4)         result.append((α4, z4))         return result          def defuzifikasi(self, jumlah_permintaan, jumlah_persediaan):         inferensi_values = self.inferensi(jumlah_permintaan, jumlah_persediaan)         return sum([(value[0]* value[1]) for value in inferensi_values]) / sum([value[0] for value in inferensi_values]) # Permintaan = 3200 & Persediaan 140   # https://www.slideshare.net/ZaenalKhayat/contoh-peyelesaian-logika-fuzzy | https://github.com/iidsaiduddin27/fuzzy | 0 | 0| 
-| 20220528T09:48:46Z | Null | https://github.com/mhsmtg/fuzzy-succotash | 0 | 0| 
-| 20220528T07:18:12Z | Null | https://github.com/A-Sutisna/UAS_Ahmad-Sutisna_Fuzzy_Sugeno | 0 | 0| 
 
 
 
