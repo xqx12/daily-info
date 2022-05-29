@@ -52,7 +52,7 @@
 | 20220528T20:43:51Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 116 | 27| 
 | 20220528T20:05:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11545 | 1975| 
 | 20220528T18:27:17Z | Exploiting buffer overflow vulnerability on FreeFloat FTP server | https://github.com/Tufalpha1/Buffer-Overflow | 0 | 0| 
-| 20220528T18:00:29Z | wow | https://github.com/hmm1x/exploiting | 0 | 0| 
+| 20220528T18:17:39Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 286 | 16| 
 
 
 # backdoor on Github 推荐
@@ -71,7 +71,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T03:39:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2882 | 416| 
+| 20220528T20:22:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2886 | 416| 
+| 20220528T13:41:16Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 65 | 3| 
+| 20220528T13:37:46Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 427 | 21| 
 
 
 # big4 on Github 推荐
