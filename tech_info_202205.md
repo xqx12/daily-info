@@ -47,6 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/bigbigban1/CVE-2022-22947-exp | | 
+| 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/Wrong-pixel/CVE-2022-22947-exp | | 
 | 20220528T21:21:16Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
 | 20220528T19:11:42Z | CVE-2022-21661 | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | | 
 | 20220528T14:23:21Z | CVE-2022-30525 | CVE-2022-30525 POC&EXP | https://github.com/west9b/CVE-2022-30525 | | 
@@ -55,13 +56,12 @@
 | 20220528T12:43:29Z | CVE-2022-1388 | Null | https://github.com/trhacknon/Exploit-F5-CVE-2022-1388 | | 
 | 20220528T12:41:07Z | CVE-2022-1388 | Null | https://github.com/trhacknon/F5-CVE-2022-1388-Exploit | | 
 | 20220528T12:36:10Z | CVE-2022-1388 | Null | https://github.com/trhacknon/CVE-2022-1388 | | 
-| 20220528T11:46:45Z | CVE-2022-22972 | Null | https://github.com/horizon3ai/CVE-2022-22972 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220529T01:35:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6619 | 237| 
+| 20220529T01:45:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6620 | 237| 
 | 20220528T13:44:12Z | A discord bot for random thing | https://github.com/ongsalt/kleechan | 0 | 0| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
