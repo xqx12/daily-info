@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220529T10:27:57Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
 | 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/bigbigban1/CVE-2022-22947-exp | | 
 | 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/Wrong-pixel/CVE-2022-22947-exp | | 
-| 20220528T21:21:16Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
 | 20220528T19:11:42Z | CVE-2022-21661 | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | | 
 | 20220528T14:23:21Z | CVE-2022-30525 | CVE-2022-30525 POC&EXP | https://github.com/west9b/CVE-2022-30525 | | 
 | 20220528T14:12:20Z | CVE-2022-26809 | Mass RCE VIA CVE-2022-6809 AND THE METASPLOIT MODULE | https://github.com/ChrisopherJohanso/CVE-2022-26809-RCE | | 
@@ -61,7 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220529T01:45:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6620 | 237| 
+| 20220529T10:48:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6628 | 237| 
+| 20220529T08:08:32Z | Null | https://github.com/Kleekool/kleekool | 0 | 0| 
 | 20220528T13:44:12Z | A discord bot for random thing | https://github.com/ongsalt/kleechan | 0 | 0| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 | 20220525T19:19:39Z | Null | https://github.com/kleefx/repoKleefx1 | 0 | 0| 
@@ -70,18 +71,17 @@
 | 20220521T14:53:34Z | Config files for my GitHub profile. | https://github.com/kleenpulse/kleenpulse | 0 | 0| 
 | 20220521T00:03:37Z | Null | https://github.com/Luc-us/Klee-Community | 0 | 0| 
 | 20220520T22:34:55Z | Demo page | https://github.com/kleere/kleere.github.io | 0 | 0| 
-| 20220520T11:01:20Z | A static website built by Klee Mains for everything Klee related! | https://github.com/KleeMains/kleemains.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T05:37:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 225 | 54| 
 | 20220527T06:56:57Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 51 | 5| 
 | 20220523T23:54:43Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 13 | 15| 
 | 20220523T08:14:38Z | Null | https://github.com/Lynda-Starkus/APP_S2EE_13 | 0 | 0| 
 | 20220520T16:01:39Z | Null | https://github.com/S2eTo/S2eTo | 0 | 0| 
 | 20220519T17:39:39Z | Null | https://github.com/software-testing-bootcamp/S2E5-nodejs-webdriverio | 1 | 0| 
-| 20220515T16:00:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 224 | 54| 
 | 20220515T10:50:35Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 80 | 38| 
 | 20220513T11:34:09Z | New version of OCELOT (including new script to run it) | https://github.com/Hector-Mauricio-Castaneda-Cortes/S2E_FEL_dev_gen | 0 | 0| 
 | 20220509T06:42:38Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 18 | 2| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T12:10:00Z | Exploits and glitches for AdventureQuest 3D | https://github.com/hydronator/AQ3DExploits | 0 | 0| 
+| 20220529T11:47:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2818 | 355| 
+| 20220529T11:29:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3052 | 446| 
+| 20220529T11:12:49Z | Tools/scripts For OSED / Reverse engineering / Binary exploitation | https://github.com/sebastian93921/OSED-Code-Snippets | 0 | 0| 
+| 20220529T10:51:34Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 102 | 25| 
+| 20220529T09:58:58Z | Scripts, exploits and assets to hack %Heist% challenge by HTB. | https://github.com/kagasirat/htb-heist | 0 | 0| 
+| 20220529T02:45:44Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1240 | 195| 
 | 20220529T01:24:58Z | Null | https://github.com/BinaryDex/DexHubWeb | 0 | 1| 
 | 20220528T23:42:42Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220528T23:41:39Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-p | 0 | 0| 
-| 20220528T23:40:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-p | 0 | 0| 
-| 20220528T23:39:57Z | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Logger | 59 | 42| 
-| 20220528T21:57:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2816 | 355| 
-| 20220528T20:52:02Z | A WIP modification for Minecraft packet manipulation and exploits. | https://github.com/Iritium/BadMC | 0 | 0| 
-| 20220528T20:43:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 42 | 21| 
-| 20220528T20:43:51Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 116 | 27| 
-| 20220528T20:05:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11545 | 1975| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220528T22:08:23Z | Null | https://github.com/Lagpixell/Backdoor | 0 | 0| 
+| 20220529T11:10:02Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 127 | 33| 
+| 20220529T10:25:48Z | Null | https://github.com/Lagpixell/Backdoor | 0 | 0| 
+| 20220529T03:01:08Z | Simple windows rpc server for research purposes only | https://github.com/morph3/Windows-RPC-Backdoor | 0 | 0| 
 | 20220528T15:33:42Z | Wordpress capable PHP backdoors | https://github.com/oldkingcone/WP-Backdoors | 0 | 0| 
 | 20220528T14:50:02Z | Database of backdoor | https://github.com/jklop-inferno/isomer | 0 | 0| 
-| 20220528T07:38:19Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 126 | 33| 
 | 20220528T07:05:36Z | Null | https://github.com/trung24012001/backdoor_cmd | 0 | 0| 
 | 20220528T05:46:29Z | uso: | https://github.com/OnixZeny/TEAM-ZERO-BACKDOOR | 0 | 0| 
 | 20220528T05:42:07Z | uso: | https://github.com/OnixZeny/TEAM-ZERO-BACKDOOR-PROFESIONAL | 0 | 0| 
 | 20220528T01:57:08Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1647 | 393| 
 | 20220527T19:52:02Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 1 | 0| 
-| 20220527T03:51:53Z | Code Repository for the Paper --- Circumventing Backdoor Defenses That Are Based on Latent Separability | https://github.com/Unispac/Circumventing-Backdoor-Defenses | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
