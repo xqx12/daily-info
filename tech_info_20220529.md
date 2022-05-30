@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T23:50:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3053 | 447| 
 | 20220529T23:38:54Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7252 | 1683| 
 | 20220529T23:28:55Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 191 | 38| 
 | 20220529T21:47:27Z | Null | https://github.com/waawaa/Exploiting-TIPS | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20220529T12:33:09Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1241 | 195| 
 | 20220529T12:16:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 129 | 41| 
 | 20220529T12:10:00Z | Exploits and glitches for AdventureQuest 3D | https://github.com/hydronator/AQ3DExploits | 0 | 0| 
-| 20220529T11:47:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2818 | 355| 
 
 
 # backdoor on Github 推荐
