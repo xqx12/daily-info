@@ -58,7 +58,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220529T23:50:35Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 7 | 1| 
-| 20220529T23:39:06Z | Simple windows rpc server for research purposes only | https://github.com/morph3/Windows-RPC-Backdoor | 5 | 0| 
 | 20220529T22:13:11Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 494 | 92| 
 | 20220529T21:53:07Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 537 | 192| 
 | 20220529T17:26:04Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 137 | 37| 
@@ -87,13 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220529T23:32:53Z | Web Scraper Project | https://github.com/OrrDell005/fuzzy-octo-disco | 0 | 0| 
+| 20220529T21:16:49Z | Null | https://github.com/yopiangga/logika-fuzzy | 0 | 0| 
+| 20220529T20:43:17Z | 🌪️ Application fuzzer | https://github.com/samhocevar/zzuf | 378 | 79| 
+| 20220529T20:07:13Z | Null | https://github.com/mniepokoj/MIO_FuzzyLogic_Project | 0 | 1| 
+| 20220529T19:39:30Z | 🎲 Utilities for fuzzing | https://github.com/garbles/fuzz-utils | 4 | 0| 
+| 20220529T16:24:58Z | Null | https://github.com/cwhd/fuzzy-cognitive-horizon-scanning | 0 | 0| 
+| 20220529T13:20:25Z | Null | https://github.com/choar816/meow-meow-fuzzyface | 0 | 0| 
+| 20220529T10:55:46Z | Generates permutations of JSON structures to test for common parsing errors. This is an educational example to demonstrate practically applying the depth-first-search algorithm in a security context. | https://github.com/arbitraryrw/templated-json-fuzzer | 2 | 0| 
 | 20220529T09:38:29Z | Null | https://github.com/gjwodnd240/fuzzy-sniffle | 0 | 0| 
 | 20220529T09:00:10Z | practice on kaggle projects | https://github.com/Orchideous-77/fuzzy-enigma | 0 | 0| 
-| 20220529T07:17:17Z | Null | https://github.com/fbsmc01/fuzzy-lamp | 0 | 0| 
-| 20220529T07:16:38Z | Null | https://github.com/Pixxxxta/FuzziKurs | 0 | 0| 
-| 20220529T05:40:53Z | Null | https://github.com/fuzzyvo/fuzzyvo.github.io | 0 | 0| 
-| 20220529T04:55:23Z | Null | https://github.com/diannamarjorie/fuzzy-garbanzo | 0 | 0| 
-| 20220529T04:04:57Z | Null | https://github.com/good-soul/fuzzy-octo-guacamole | 1 | 0| 
 
 
 
