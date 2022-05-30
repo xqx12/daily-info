@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220530T01:10:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6639 | 237| 
+| 20220530T01:29:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6640 | 237| 
 | 20220529T08:08:32Z | Null | https://github.com/Kleekool/kleekool | 0 | 0| 
 | 20220528T13:44:12Z | A discord bot for random thing | https://github.com/ongsalt/kleechan | 0 | 0| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
@@ -94,19 +94,19 @@
 | 20220530T00:32:40Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-x | 0 | 0| 
 | 20220530T00:31:45Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-x | 0 | 0| 
 | 20220530T00:30:53Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-x | 0 | 0| 
+| 20220529T23:50:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3053 | 447| 
 | 20220529T23:38:54Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7252 | 1683| 
 | 20220529T23:28:55Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 191 | 38| 
 | 20220529T21:47:27Z | Null | https://github.com/waawaa/Exploiting-TIPS | 0 | 0| 
 | 20220529T21:34:13Z | A collection of kernel exploits written by me. | https://github.com/LinxzSec/kernel-exploits | 0 | 0| 
 | 20220529T20:41:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11548 | 1975| 
 | 20220529T20:39:04Z | Public website/blog for my web development/game development exploits. | https://github.com/DrSlowpokePhd/drslowpokephd.github.io | 0 | 0| 
-| 20220529T12:33:09Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1241 | 195| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220530T01:20:21Z | Simple windows rpc server for research purposes only | https://github.com/morph3/Windows-RPC-Backdoor | 7 | 0| 
+| 20220530T01:20:21Z | Simple windows rpc server for research purposes only | https://github.com/morph3/Windows-RPC-Backdoor | 7 | 1| 
 | 20220530T01:12:29Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 0 | 0| 
 | 20220529T23:50:35Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 7 | 1| 
 | 20220529T22:13:11Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 494 | 92| 
