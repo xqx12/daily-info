@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220530 | 微软为 Python 实现的 Debug Adapter Protocol，用于 IDE 调试 Python 代码 | https://github.com/microsoft/debugpy| 
+| 20220530 | Stormspotter - 用图方式直观展示 Azure Active Directory 对象的工具 | https://github.com/Azure/Stormspotter| 
+| 20220530 | GhostTouch - 针对电容式触屏设备的无接触攻击 | http://www.usenix.org/system/files/sec22summer_wang-kai.pdf| 
+| 20220530 | Windows ALPC Internals 分析 | http://csandker.io/2022/05/29/Debugging-And-Reversing-ALPC.html| 
+| 20220530 | mempeek - Linux 运行进程内存扫描命令行工具 | https://github.com/gamozolabs/mempeek| 
+| 20220530 | PolicyKit CVE-2021-3560 Linux 提权漏洞的利用 | http://noahblog.360.cn/a-new-exploit-method-for-cve-2021-3560-policykit-linux-privilege-escalation-en/| 
+| 20220530 | Stored XSS in Notes (with CSP bypass for gitlab.com) | https://hackerone.com/reports/1481207| 
+| 20220530 | 卡巴斯基对工控行业 ISaGRAF Framework 的安全分析 | http://ics-cert.kaspersky.com/publications/reports/2022/05/23/isapwn-research-on-the-security-of-isagraf-runtime/| 
+| 20220530 | mce Systems 开发的一个 Framework 存在高危漏洞，多款 Android 手机的预装系统 App 存在此漏洞 | https://www.microsoft.com/security/blog/2022/05/27/android-apps-with-millions-of-downloads-exposed-to-high-severity-vulnerabilities/| 
+| 20220530 | 公有云漏洞相关的资料整理 | https://sec.today/pulses/3cdc274d-72d9-4b39-9a31-4a21e3c60e98/| 
+| 20220530 | 公有云漏洞相关的资料整理 | https://github.com/hashishrajan/cloud-security-vulnerabilities| 
 | 20220527 | pyright - 微软开源的 Python 代码静态 type checker | https://github.com/Microsoft/pyright| 
 | 20220527 | 利用 Falco 监控 TOR 的网络连接 | https://sysdig.com/blog/detect-tor-network-connection-falco/| 
 | 20220527 | 基于虚拟机，模拟执行 TP-Link Archer C7 路由器内核 NetUSB 模块 | https://blog.security.sea.com/posts/netusb-emulation/| 
@@ -15,53 +26,44 @@
 | 20220527 | VMware 认证 Bypass CVE-2022-22972 漏洞的分析 | http://www.horizon3.ai/vmware-authentication-bypass-vulnerability-cve-2022-22972-technical-deep-dive/| 
 | 20220527 | 一款从 /proc/mem 提取进程内存快照导入 IDA 分析的插件 | https://github.com/gamozolabs/proc_mem_ida_loader| 
 | 20220527 | Google 用内存扫描技术提高 Chrome C++ 代码运行时的安全性 | https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html| 
-| 20220526 | 上海交大 GOSSIP 研究团队对 IEEE S&P 2022 的云端报道（3） | https://mp.weixin.qq.com/s/B0dNIY1gkLUP_klJheAuQg| 
-| 20220526 | APT34 组织用 DNS 隧道技术进行隐蔽通信的实现细节 | https://blog.malwarebytes.com/threat-intelligence/2022/05/how-the-saitama-backdoor-uses-dns-tunnelling/| 
-| 20220526 | Pwn2Own Austin 2021 攻击佳能网络打印机所用漏洞的细节 | https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr.html| 
-| 20220526 | 这篇 Blog 作者分享自己安全审计 Starface Comfortphoning 产品的过程 | https://frycos.github.io/vulns4free/2022/05/24/security-code-audit-fails.html| 
-| 20220526 | Python 包 pymafka 以 typosquatting 方式伪装 pykafka 攻击 macOS 用户 | https://www.sentinelone.com/labs/use-of-obfuscated-beacons-in-pymafka-supply-chain-attack-signals-a-new-trend-in-macos-attack-ttps/| 
-| 20220526 | Hacking Web3 | https://infosecwriteups.com/hacking-web3-introduction-and-how-to-start-88ae2c51f3ec?gi=d1f12b106716| 
-| 20220526 | 固件供应链安全及其已知漏洞的检测 | https://github.com/binarly-io/Research_Publications/tree/main/BHASIA_2022| 
-| 20220526 | IEEE Workshop 部分议题的 Slides 公开了 | http://www.ieee-security.org/TC/SP2022/WOOT22/index.html| 
-| 20220526 | macOS ESF Framework 在攻击检测方面的实践 | https://cedowens.medium.com/taking-esf-for-a-nother-spin-6e1e6acd1b74| 
-| 20220526 | CVE-2022-30781：一条普通的 Git 命令导致的 Gitea RCE | https://tttang.com/archive/1607/| 
-| 20220526 | CVE-2022-30781：一条普通的 Git 命令导致的 Gitea RCE | http://tttang.com/archive/1607/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220530 | 诈骗知名门户的黑产团伙溯源分析 | https://mp.weixin.qq.com/s/uEiJIFzCqVuFsPzONu7v_A| 
+| 20220530 | 搜狐中招钓鱼邮件诈骗的技术和基础设施分析 | https://mp.weixin.qq.com/s/qGbwJJ5oGn4tdnFadq0c8g| 
+| 20220530 | RSAC 2022 – 创新沙盒观感 (1) | https://mp.weixin.qq.com/s/WRG25tuSEuGMHAZ6vfFjVg| 
+| 20220530 | PE文件结构解析3 | https://www.sec-in.com/article/1657| 
+| 20220530 | Artillery: JAVA 插件化漏洞扫描器 | https://github.com/Weik1/Artillery| 
+| 20220530 | 恶意npm包的自动化挖掘方法 | https://mp.weixin.qq.com/s/VZ83yYVphJHOarhaexhy7A| 
 | 20220527 | IEEE S&P 2022 云端报道（4） | https://mp.weixin.qq.com/s/AODkKorJLCfv4HXkl1pzxw| 
 | 20220527 | MANDIANT 网络威胁情报分析人员核心能力框架 | https://mp.weixin.qq.com/s/4ErBfydEa1DY7OAiLgeknA| 
 | 20220527 | IEEE S&amp;P 2022 云端报道（4） | /news/30374| 
 | 20220527 | Ghostrings is a collection of Ghidra scripts for recoverin... | https://github.com/nccgroup/ghostrings| 
-| 20220525 | SHADEWATCHER: 基于系统审计记录和推荐概念的网络威胁分析 | https://mp.weixin.qq.com/s/-BMnRtAAdBn8U5N3PTKz9Q| 
-| 20220525 | HTB-467-Noter | https://mp.weixin.qq.com/s?__biz=MzIzNDc4NzMxOQ==&mid=2247483660&idx=1&sn=2c882883f2e757207d57c1e36b1ed8c1&chksm=e8f05994df87d082d7ce2f944de5b91d6f3bb0f8613f325b824e9a3eaa71c9b2bdfb2f43c8dc#rd| 
-| 20220525 | Gmail对附件的限制 | https://mp.weixin.qq.com/s/z30VMqz1dOAmAazOSegvuQ| 
-| 20220525 | IEEE S&P 2022 云端报道（3） | https://mp.weixin.qq.com/s/B0dNIY1gkLUP_klJheAuQg| 
-| 20220525 | IEEE S&P 2022 云端报道（2） | https://mp.weixin.qq.com/s/5GE3s18ZPiYCeIu6ajSedw| 
-| 20220525 | IEEE S&P 2022 云端报道（1） | https://mp.weixin.qq.com/s/yRKjJHaxYnZgxr6gMjem4Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220530T11:22:52Z | 未知编号 | Null | https://github.com/SecurityBoi/TEST-CVE-05-2022-0438 | | 
+| 20220530T10:54:19Z | CVE-2022-1598 | WPQA < 5.5 - Unauthenticated Private Message Disclosure | https://github.com/V35HR4J/CVE-2022-1598 | | 
+| 20220530T08:42:59Z | CVE-2021-0589 | Null | https://github.com/Trinadh465/System_bt_AOSP10_r33_CVE-2021-0589 | | 
+| 20220530T07:40:38Z | CVE-2022-24086 | CVE-2022-24086 and CVE-2022-24087 are an rce in adobe commerce and magento | https://github.com/TomArni680/CVE-2022-24086-MASS-RCE | | 
+| 20220530T01:52:13Z | CVE-2021-24160 | Exploit CVE-2021-24160 | https://github.com/hnthuan1998/Exploit-CVE-2021-24160 | | 
+| 20220530T01:46:50Z | CVE-2021-24160 | Null | https://github.com/hnthuan1998/CVE-2021-24160 | | 
 | 20220530T01:01:11Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
-| 20220529T18:08:03Z | 未知编号 | Null | https://github.com/SecurityBoi/TEST-CVE-05-2022-0438 | | 
 | 20220529T15:29:44Z | CVE-2022-1388 | exploit is already public | https://github.com/TomArni680/CVE-2022-1388-RCE | | 
 | 20220529T15:00:38Z | CVE-2022-26809 | CVE-2022-26809 , is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows | https://github.com/seciurdt/CVE-2022-26809-MASS-RCE | | 
 | 20220529T14:57:08Z | CVE-2022-26809 | CVE-2022-26809   ,  is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows  | https://github.com/seciurdt/CVE-2022-26809-RCE | | 
-| 20220529T14:38:48Z | CVE-2022-30525 | CVE-2022-30525 Zyxel 防火墙命令注入漏洞 POC&EXPC  | https://github.com/west9b/CVE-2022-30525 | | 
-| 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/bigbigban1/CVE-2022-22947-exp | | 
-| 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/Wrong-pixel/CVE-2022-22947-exp | | 
-| 20220528T19:11:42Z | CVE-2022-21661 | Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661 | | 
-| 20220528T14:12:20Z | CVE-2022-26809 | Mass RCE VIA CVE-2022-6809 AND THE METASPLOIT MODULE | https://github.com/ChrisopherJohanso/CVE-2022-26809-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220530T01:29:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6640 | 237| 
+| 20220530T12:49:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6651 | 237| 
+| 20220530T09:39:00Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 39 | 7| 
+| 20220530T08:35:13Z | проект до 3 июня | https://github.com/zeldron381/KLEEKER.io | 0 | 0| 
 | 20220529T08:08:32Z | Null | https://github.com/Kleekool/kleekool | 0 | 0| 
 | 20220528T13:44:12Z | A discord bot for random thing | https://github.com/ongsalt/kleechan | 0 | 0| 
 | 20220526T21:06:25Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
@@ -69,13 +71,12 @@
 | 20220521T20:09:40Z | A discord bot | https://github.com/syukurm/klee-bot | 0 | 0| 
 | 20220521T15:32:40Z | Null | https://github.com/kleenpulse/kleenpulse.github.io | 0 | 0| 
 | 20220521T14:53:34Z | Config files for my GitHub profile. | https://github.com/kleenpulse/kleenpulse | 0 | 0| 
-| 20220521T00:03:37Z | Null | https://github.com/Luc-us/Klee-Community | 0 | 0| 
-| 20220520T22:34:55Z | Demo page | https://github.com/kleere/kleere.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220530T06:58:17Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 18 | 2| 
 | 20220529T05:37:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 225 | 54| 
 | 20220527T06:56:57Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 51 | 5| 
 | 20220523T23:54:43Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 13 | 15| 
@@ -84,53 +85,52 @@
 | 20220519T17:39:39Z | Null | https://github.com/software-testing-bootcamp/S2E5-nodejs-webdriverio | 1 | 0| 
 | 20220515T10:50:35Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 80 | 38| 
 | 20220513T11:34:09Z | New version of OCELOT (including new script to run it) | https://github.com/Hector-Mauricio-Castaneda-Cortes/S2E_FEL_dev_gen | 0 | 0| 
-| 20220509T06:42:38Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 18 | 2| 
 | 20220503T22:03:30Z | S2E website (s2e.systems) | https://github.com/S2E2/s2e2.github.io | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220530T00:32:40Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-x | 0 | 0| 
-| 20220530T00:31:45Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-x | 0 | 0| 
-| 20220530T00:30:53Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-x | 0 | 0| 
-| 20220529T23:50:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3053 | 447| 
-| 20220529T23:38:54Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7252 | 1683| 
-| 20220529T23:28:55Z | RomBuster is a router exploitation tool that allows to disclosure network router admin password. | https://github.com/EntySec/RomBuster | 191 | 38| 
-| 20220529T21:47:27Z | Null | https://github.com/waawaa/Exploiting-TIPS | 0 | 0| 
-| 20220529T21:34:13Z | A collection of kernel exploits written by me. | https://github.com/LinxzSec/kernel-exploits | 0 | 0| 
-| 20220529T20:41:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11548 | 1975| 
-| 20220529T20:39:04Z | Public website/blog for my web development/game development exploits. | https://github.com/DrSlowpokePhd/drslowpokephd.github.io | 0 | 0| 
+| 20220530T12:55:49Z | Exploitation d%une methode d%apprentissage automatique pour l%excision des nuages sur les images satelitaires | https://github.com/Vecteurk/STGAN | 0 | 0| 
+| 20220530T12:47:55Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 388 | 76| 
+| 20220530T12:44:05Z | Master Thesis | https://github.com/FlavioLorenzi/Continual-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 1 | 0| 
+| 20220530T12:39:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2853 | 357| 
+| 20220530T12:07:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11550 | 1977| 
+| 20220530T09:46:21Z | This repository contains several applications, demonstrating the Meltdown bug. | https://github.com/IAIK/meltdown | 3964 | 531| 
+| 20220530T09:43:57Z | Prynt Stealer Reborn Is A Advanced Malware The Silently Steals All Information From A Victims Computer  After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Prynt Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size to any specific size such as kb mb gb. Along with Prynt Stealer Reborn you will get Prynt Crypter And File Spoofer The File Spoofer will spoof the extention to also help trick the victim into opening the file. For Example you can spoof the file into a pdf or jpeg easily by typing this into the spoofer. filenameexe.jpg or filenameexe.pdf. Also Available Upon Request Is Built In Crypto Malware so anytime they send or recive Crypto the funds will come to you instead of intended person.  Features Of Prynt Stealer Reborn Functions -Autofill -Cookies -Passwords -Bookmarks -History -Credit Cards  -Steals System INFO -Install Application -Running Application -Screenshot -Product Key -Sets And Grabs Clipboard  -Steals System Hardware info -Ip info and geoip location -System based bssid location -Wifi Saved Password -Webcam Screenshot -Useragent  -Steals Information From Mail Clients  -Steals Information On FTP Clients -FileZilla -Total Commander  -Steals Messanger Application -Telegram Account ( Hijack Account ) -Discord  -Steals Vpn -Nord VPN -OpenVPN -Proton VPN  -Steals Crypto Wallets -Metamask -Armory -Atomic Wallet -Bitcoin Core -Byte-coin -Dash Core -Doge-Coin -Electrum -Ethereum -Exodus -Jaxx -Litecoin Core -Monero -Zcash  Updated Browser List  Browsers: . Chrome . Opera . Yandex . Brave Browser . Edge . Comodo . CoolNovo . SRWare . Iron . Torch . Iridium . 7Star . Amigo . Cent . Chedot . CocCoc . Elements . Epic Privacy . Kometa . Orbitum . Sputnik . uCozMedia . Vivaldi . Sleipnir 6 . itrio . Coowon . Liebao . QIP Surf  Clipper: now the stealer has a built-in function to replace the crypto address when sending the victim BTC,ETH,LTC,BNB,USD$,XMR,TRX,Solana  We are not responsible for any illegal use | https://github.com/grotespelerrr/Prynt-Stealer-Source | 0 | 0| 
+| 20220530T09:09:30Z | Diabetes is a metabolic disorder that impairs an individual’s body to process blood glucose, known as blood sugar. Inadequate supervision of diabetes causes stroke, hypertension, and cardiovascular diseases. By exploiting the advantages of the advancement in modern sensor technology, IoT, and machine learning techniques, I have proposed an approach for the classification, early-stage identification, and prediction of diabetes in this Report. The primary objective of this study is twofold. First, to classify diabetes into predefined categories, Second, for the predictive analysis of diabetes . I have employed three widely used classifiers, i.e., LDA, QDA,KNN and logistic regression.  | https://github.com/samridhisehgal97/Classfication-algorithm-using-R | 1 | 0| 
+| 20220530T08:34:36Z | Durant ce projet, nous avons travaillé dans la contexte Maison des Ligues. Il s%agit d%une ligue de Karaté qui nous confie la réalisation d’un projet consistant à la gestion des licences et à l’organisation des compétitions avec exploitation des résultats. | https://github.com/swingamel/Karate | 0 | 0| 
+| 20220530T08:01:56Z | Exploit Office ms msdt | https://github.com/piedacoulisse2/Office_ms_msdt | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220530T01:20:21Z | Simple windows rpc server for research purposes only | https://github.com/morph3/Windows-RPC-Backdoor | 7 | 1| 
+| 20220530T12:13:06Z | Simple windows rpc server for research purposes only | https://github.com/morph3/Windows-RPC-Backdoor | 19 | 4| 
+| 20220530T10:31:32Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 2 | 0| 
+| 20220530T08:22:19Z | Novel improved textual backdoor defense method through Maksed Language Model (MLM) Scoring | https://github.com/jcroh0508/MSDT | 0 | 0| 
+| 20220530T08:09:33Z | We will release the source code of Reverse Backdoor Distillation-RBD soon. | https://github.com/zemingyao/RBD | 0 | 0| 
 | 20220530T01:12:29Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 0 | 0| 
 | 20220529T23:50:35Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 7 | 1| 
 | 20220529T22:13:11Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 494 | 92| 
 | 20220529T21:53:07Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 537 | 192| 
-| 20220529T17:26:04Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 137 | 37| 
+| 20220529T17:26:04Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 137 | 38| 
 | 20220529T15:26:50Z | Fake NFT Drainer template scam subject | https://github.com/captaingreem/Lets-talk | 0 | 3| 
-| 20220529T14:01:02Z | A simple backdoor written in PHP | https://github.com/Prestaa/backdoor_php | 0 | 0| 
-| 20220529T13:01:10Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 18 | 5| 
-| 20220529T11:10:02Z | ADB For Hackers (: | https://github.com/jxroot/adbwebkit | 127 | 33| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220530T11:21:22Z | Challenges for Symbolic Execution Workshop @ REcon | https://github.com/JannisKirschner/REcon-Workshop-Public | 1 | 1| 
+| 20220530T07:42:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2887 | 416| 
+| 20220530T02:55:55Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 428 | 22| 
 | 20220529T15:29:49Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 37 | 22| 
 | 20220529T14:48:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 546 | 94| 
 | 20220529T14:03:14Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 71 | 14| 
 | 20220529T11:34:25Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 66 | 3| 
 | 20220529T05:37:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 225 | 54| 
-| 20220528T20:22:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2886 | 416| 
-| 20220528T13:37:46Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 427 | 22| 
 | 20220526T16:41:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1974 | 564| 
 | 20220526T00:23:40Z | Symbolic Execution Engine and Verification Condition Generator for While-Language and SMTlib | https://github.com/wadoon/mini-symex | 1 | 0| 
-| 20220525T02:55:27Z | A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools. | https://github.com/ksluckow/awesome-symbolic-execution | 876 | 117| 
 
 
 # big4 on Github 推荐
@@ -149,6 +149,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220530T10:27:12Z | Null | https://github.com/hannah-bishop/FuzzBussCSharp | 0 | 0| 
+| 20220530T09:52:10Z | Benchmarking Continuous Fuzzing | https://github.com/kloostert/CICDFuzzBench | 0 | 0| 
 | 20220529T23:32:53Z | Web Scraper Project | https://github.com/OrrDell005/fuzzy-octo-disco | 0 | 0| 
 | 20220529T21:16:49Z | Null | https://github.com/yopiangga/logika-fuzzy | 0 | 0| 
 | 20220529T20:43:17Z | 🌪️ Application fuzzer | https://github.com/samhocevar/zzuf | 378 | 79| 
@@ -157,8 +159,6 @@
 | 20220529T19:25:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7463 | 1595| 
 | 20220529T16:24:58Z | Null | https://github.com/cwhd/fuzzy-cognitive-horizon-scanning | 0 | 0| 
 | 20220529T13:20:25Z | Null | https://github.com/choar816/meow-meow-fuzzyface | 0 | 0| 
-| 20220529T10:55:46Z | Generates permutations of JSON structures to test for common parsing errors. This is an educational example to demonstrate practically applying the depth-first-search algorithm in a security context. | https://github.com/arbitraryrw/templated-json-fuzzer | 2 | 0| 
-| 20220529T09:38:29Z | Null | https://github.com/gjwodnd240/fuzzy-sniffle | 0 | 0| 
 
 
 
