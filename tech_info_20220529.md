@@ -21,7 +21,6 @@
 | 20220529T15:00:38Z | CVE-2022-26809 | CVE-2022-26809 , is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows | https://github.com/seciurdt/CVE-2022-26809-MASS-RCE | | 
 | 20220529T14:57:08Z | CVE-2022-26809 | CVE-2022-26809   ,  is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows  | https://github.com/seciurdt/CVE-2022-26809-RCE | | 
 | 20220529T14:38:48Z | CVE-2022-30525 | CVE-2022-30525 Zyxel 防火墙命令注入漏洞 POC&EXPC  | https://github.com/west9b/CVE-2022-30525 | | 
-| 20220529T12:32:49Z | CVE-2022-22972 | vmware authentication bypass | https://github.com/Dghpi9/CVE-2022-22972 | | 
 | 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/bigbigban1/CVE-2022-22947-exp | | 
 | 20220529T01:08:13Z | CVE-2022-22947 | Null | https://github.com/Wrong-pixel/CVE-2022-22947-exp | | 
 
@@ -29,7 +28,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220529T23:05:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6636 | 237| 
 | 20220529T08:08:32Z | Null | https://github.com/Kleekool/kleekool | 0 | 0| 
 
 
@@ -92,11 +90,11 @@
 | 20220529T20:43:17Z | 🌪️ Application fuzzer | https://github.com/samhocevar/zzuf | 378 | 79| 
 | 20220529T20:07:13Z | Null | https://github.com/mniepokoj/MIO_FuzzyLogic_Project | 0 | 1| 
 | 20220529T19:39:30Z | 🎲 Utilities for fuzzing | https://github.com/garbles/fuzz-utils | 4 | 0| 
+| 20220529T19:25:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7463 | 1595| 
 | 20220529T16:24:58Z | Null | https://github.com/cwhd/fuzzy-cognitive-horizon-scanning | 0 | 0| 
 | 20220529T13:20:25Z | Null | https://github.com/choar816/meow-meow-fuzzyface | 0 | 0| 
 | 20220529T10:55:46Z | Generates permutations of JSON structures to test for common parsing errors. This is an educational example to demonstrate practically applying the depth-first-search algorithm in a security context. | https://github.com/arbitraryrw/templated-json-fuzzer | 2 | 0| 
 | 20220529T09:38:29Z | Null | https://github.com/gjwodnd240/fuzzy-sniffle | 0 | 0| 
-| 20220529T09:00:10Z | practice on kaggle projects | https://github.com/Orchideous-77/fuzzy-enigma | 0 | 0| 
 
 
 
