@@ -52,10 +52,10 @@
 | 20220531T21:54:58Z | CVE-2022-30190 | Null | https://github.com/trhacknon/CVE-2022-30190 | | 
 | 20220531T20:38:06Z | CVE-2022-1192 | <h1> Node </h1> | https://github.com/Mouhamedtec/CVE-2022-1192 | | 
 | 20220531T20:24:44Z | 未知编号 | Null | https://github.com/mghostz/CVE202230190 | | 
-| 20220531T19:29:29Z | CVE-2022-30190 | A remote code execution vulnerability exists when MSDT is called using the URL protocol from a calling application such as Word. An attacker who successfully exploits this vulnerability can run arbitrary code with the privileges of the calling application. The attacker can then install programs, view, change, or delete data, or create new accounts in the context allowed by the user’s rights. | https://github.com/sentinelblue/CVE-2022-30190 | | 
 | 20220531T18:45:34Z | CVE-2022-30190 | Null | https://github.com/aymankhder/MSDT_CVE-2022-30190-follina- | | 
 | 20220531T16:11:14Z | CVE-2022-30190 | Picking up processes that have triggered ASR related to CVE-2022-30190 | https://github.com/DOV3Y/CVE-2022-30190-ASR-Senintel-Process-Pickup | | 
 | 20220531T15:01:16Z | cve-2022-30190 | Aka Follina = benign POC. | https://github.com/rickhenderson/cve-2022-30190 | | 
+| 20220531T12:38:16Z | 未知编号 | Null | https://github.com/anniehelkekpl92/CVE-2022 | | 
 
 
 # klee on Github 推荐
@@ -136,7 +136,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220529T14:35:28Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 4 | 0| 
+| 20220531T10:05:06Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 3 | 0| 
+| 20220531T03:14:27Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 5 | 0| 
 | 20220519T11:00:49Z | ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper) | https://github.com/nsg-ethz/ditto | 8 | 2| 
 | 20220518T22:20:26Z | the new nDSSH | https://github.com/lampaBiurkowa/nDSSH2 | 0 | 0| 
 | 20220516T15:21:57Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 7 | 1| 
@@ -149,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220531T21:50:39Z | Python3 port of the abandoned API fuzzing tool Astra | https://github.com/GoVanguard/AstraGlide | 0 | 0| 
+| 20220531T20:42:18Z | Codigo de Fuzzy modificado con funcionamiento MCE  | https://github.com/Luixy0/Codigo-Modif.-CCO-FUZZY | 0 | 0| 
+| 20220531T20:21:29Z | Null | https://github.com/alejandro-gallom/fuzzylogic | 0 | 0| 
+| 20220531T19:16:41Z | short SQL exercises | https://github.com/WKamptner/MavenFuzzy_Course | 0 | 0| 
+| 20220531T17:58:23Z | Null | https://github.com/Vishchunova/fuzzy-octo-tribble | 0 | 0| 
+| 20220531T17:11:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7470 | 1598| 
 | 20220530T10:27:12Z | Null | https://github.com/hannah-bishop/FuzzBussCSharp | 0 | 0| 
 | 20220530T09:52:10Z | Benchmarking Continuous Fuzzing | https://github.com/kloostert/CICDFuzzBench | 0 | 0| 
 | 20220529T23:32:53Z | Web Scraper Project | https://github.com/OrrDell005/fuzzy-octo-disco | 0 | 0| 
 | 20220529T21:16:49Z | Null | https://github.com/yopiangga/logika-fuzzy | 0 | 0| 
-| 20220529T20:43:17Z | 🌪️ Application fuzzer | https://github.com/samhocevar/zzuf | 378 | 79| 
-| 20220529T20:07:13Z | Null | https://github.com/mniepokoj/MIO_FuzzyLogic_Project | 0 | 1| 
-| 20220529T19:39:30Z | 🎲 Utilities for fuzzing | https://github.com/garbles/fuzz-utils | 4 | 0| 
-| 20220529T19:25:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7463 | 1595| 
-| 20220529T16:24:58Z | Null | https://github.com/cwhd/fuzzy-cognitive-horizon-scanning | 0 | 0| 
-| 20220529T13:20:25Z | Null | https://github.com/choar816/meow-meow-fuzzyface | 0 | 0| 
 
 
 
