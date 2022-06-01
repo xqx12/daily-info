@@ -45,7 +45,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220601T10:59:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6682 | 239| 
+| 20220601T12:13:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6683 | 239| 
 
 
 # s2e on Github 推荐
@@ -71,13 +71,20 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220601T01:56:59Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 538 | 192| 
-| 20220601T00:47:36Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 141 | 38| 
+| 20220601T09:48:38Z | Null | https://github.com/accessmodifier364/LeuxBackdoor | 2 | 0| 
+| 20220601T06:42:04Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 142 | 38| 
+| 20220601T04:29:48Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 539 | 192| 
+| 20220601T03:25:27Z | Tol | https://github.com/KCKV/PHP-Backdoor | 0 | 0| 
+| 20220601T02:30:04Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 498 | 92| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220601T10:28:29Z | Symbolic Execution Engine for simple imperative programs | https://github.com/SamKouteili/Symbolic-Execution-Engine | 0 | 0| 
+| 20220601T08:36:57Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 15 | 3| 
+| 20220601T07:33:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 548 | 95| 
+| 20220601T02:07:53Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 72 | 14| 
 
 
 # big4 on Github 推荐
