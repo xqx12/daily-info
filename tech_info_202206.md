@@ -38,8 +38,8 @@
 | 20220601T09:52:27Z | CVE-2022-30190 | A remote code execution vulnerability exists when MSDT is called using the URL protocol from a calling application such as Word. An attacker who successfully exploits this vulnerability can run arbitrary code with the privileges of the calling application. The attacker can then install programs, view, change, or delete data, or create new accounts in the context allowed by the user’s rights. | https://github.com/sentinelblue/CVE-2022-30190 | | 
 | 20220601T09:39:02Z | CVE-2022-30190 | CVE-2022-30190 Zero click rce Mass Exploitation Tool with Multi threading capabilities | https://github.com/Kesinger57/CVE-2022-30190-mass | | 
 | 20220601T09:26:32Z | CVE-2022-30190 | Null | https://github.com/Icare1337/CVE-2022-30190 | | 
+| 20220601T09:10:37Z | CVE-2022-30190 | Null | https://github.com/trhacknon/CVE-2022-30190 | | 
 | 20220601T08:33:16Z | cve-2022-27438 | Null | https://github.com/gerr-re/cve-2022-27438 | | 
-| 20220601T07:09:18Z | CVE-2021-30956 | Phone number notification bug | https://github.com/fordsham/CVE-2021-30956 | | 
 
 
 # klee on Github 推荐
