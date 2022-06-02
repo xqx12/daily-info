@@ -99,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220601T12:14:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7471 | 1598| 
-| 20220601T11:47:48Z | Null | https://github.com/clemedon/fuzzy-memory | 0 | 0| 
-| 20220601T11:18:48Z | Null | https://github.com/saahirp/fuzzy-octo-system | 0 | 0| 
-| 20220601T11:17:58Z | Lavoro di tesi riguardante una rete neural basata su logica fuzzy | https://github.com/dominicofthebears/Neuro_fuzzy_neural_network | 0 | 0| 
-| 20220601T10:35:16Z | Null | https://github.com/sgalek/Fuzzy-Speed-Control | 0 | 0| 
-| 20220601T10:13:57Z | Null | https://github.com/Ricardio609/fuzzbench-port | 0 | 0| 
-| 20220601T09:35:44Z | Null | https://github.com/daniellos57/fuzzy-spork | 0 | 0| 
-| 20220601T09:04:27Z | Null | https://github.com/NickHastings/fuzzel | 0 | 0| 
-| 20220601T08:34:14Z | Null | https://github.com/NickHastings/fuzzel-debian | 0 | 0| 
-| 20220601T08:08:22Z | Library to communicate with Jaeles server for fuzzing http servers | https://github.com/phvietan/jaeles-integration | 0 | 0| 
+| 20220601T23:48:35Z | Null | https://github.com/noncetaxa/fuzzy-giggle | 0 | 0| 
+| 20220601T23:07:01Z | Based off TCM%s Buffer Overflow Tutorial Fuzzer | https://github.com/ihavenomouthan/python-fuzzer | 0 | 0| 
+| 20220601T22:48:49Z | Null | https://github.com/trieck/FuzzFace | 0 | 0| 
+| 20220601T21:40:51Z | [20343002-Aisya Wulandari] UAS Praktikum Artificial Intelligence - Fuzzy Logic - Program Logika Fuzzy Menentukan nilai akhir mahasiswa | https://github.com/Aisyawldr/Fuzzy_Logic | 0 | 0| 
+| 20220601T20:06:27Z | A simple fuzzer built in python for testing functions.  | https://github.com/ericspring08/PFuzzy | 1 | 0| 
+| 20220601T19:05:03Z | Null | https://github.com/cbvreis/fuzzy_search | 0 | 0| 
+| 20220601T18:41:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7472 | 1598| 
+| 20220601T17:32:38Z | Null | https://github.com/sarahwylie/fuzzy-fiesta | 0 | 0| 
+| 20220601T17:04:32Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2553 | 169| 
+| 20220601T16:51:06Z | Null | https://github.com/savasarda/Fuzzy_Logic_Image_Processing | 0 | 0| 
 
 
 
