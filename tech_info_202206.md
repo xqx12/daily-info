@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220602T00:37:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11566 | 1978| 
 | 20220601T23:52:36Z | This script was developed aiming to exploit a SQLi vulnerability in the ColdVVars CTF from TryHackMe, but can work in different environments, maybe. | https://github.com/behiNdyk1/SQL-Auth-Bypass | 0 | 0| 
 | 20220601T23:50:54Z | Python script to exploit CVE-2022-22954 and then exploit CVE-2022-22960 | https://github.com/Chocapikk/CVE-2022-22954 | 5 | 1| 
 | 20220601T23:10:47Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 6 | 0| 
@@ -64,7 +65,6 @@
 | 20220601T21:51:43Z | This repository hosts the official code related to %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. | https://github.com/guglielmocamporese/relvit | 0 | 0| 
 | 20220601T21:00:18Z | Exploit to trigger RCE for CVE-2018-16763 on FuelCMS <= 1.4.1 and interactive shell.  | https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE | 1 | 0| 
 | 20220601T20:53:41Z | Config files for my GitHub profile. | https://github.com/exploit-nato/exploit-nato | 1 | 0| 
-| 20220601T20:16:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11565 | 1978| 
 | 20220601T17:37:22Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 509 | 52| 
 | 20220601T16:21:41Z | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | 406 | 67| 
 

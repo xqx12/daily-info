@@ -63,9 +63,9 @@
 | 20220601T21:51:43Z | This repository hosts the official code related to %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. | https://github.com/guglielmocamporese/relvit | 0 | 0| 
 | 20220601T21:00:18Z | Exploit to trigger RCE for CVE-2018-16763 on FuelCMS <= 1.4.1 and interactive shell.  | https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE | 1 | 0| 
 | 20220601T20:53:41Z | Config files for my GitHub profile. | https://github.com/exploit-nato/exploit-nato | 1 | 0| 
-| 20220601T20:16:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11565 | 1978| 
 | 20220601T17:37:22Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 509 | 52| 
 | 20220601T16:21:41Z | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | 406 | 67| 
+| 20220601T11:52:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2961 | 361| 
 
 
 # backdoor on Github 推荐
