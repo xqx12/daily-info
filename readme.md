@@ -80,6 +80,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220602T11:05:32Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
+| 20220602T04:27:39Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 16 | 3| 
 
 
 # big4 on Github 推荐
