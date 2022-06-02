@@ -90,6 +90,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220602T11:58:00Z | A GUI that uses Fuzzy String Matching techniques to match data across different CSV files, by name and unique user ID  | https://github.com/ongyongen/fuzzy-match | 0 | 0| 
+| 20220602T11:47:19Z | Tugas Akhir Praktikum AI, Raudhatul Jannah 20343048 | https://github.com/raudhatulj/prakai-fuzzy | 0 | 0| 
+| 20220602T11:13:33Z | fuzzylogic -  experimental library | https://github.com/sebs/es6-fuzz | 40 | 7| 
+| 20220602T09:48:14Z | Null | https://github.com/gkford/fuzzy-bassoon | 0 | 0| 
+| 20220602T09:30:33Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 511 | 102| 
+| 20220602T08:54:50Z | Null | https://github.com/hamedzare1397/Fuzzy | 0 | 0| 
+| 20220602T08:07:35Z | [20343002-Aisya Wulandari] UAS Praktikum Artificial Intelligence - Fuzzy Logic - Program Logika Fuzzy Menentukan nilai akhir mahasiswa | https://github.com/Aisyawldr/Fuzzy_Logic | 0 | 0| 
+| 20220602T07:32:30Z | Config files for my GitHub profile. | https://github.com/Fuzzdabuzz/Fuzzdabuzz | 0 | 0| 
 
 
 
