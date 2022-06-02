@@ -30,22 +30,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220601T11:42:47Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
-| 20220601T11:10:47Z | CVE-2022-30190 | Null | https://github.com/JMousqueton/PoC-CVE-2022-30190 | | 
-| 20220601T10:23:45Z | cve-2022-30190 | CVE-2022-30190 remediation via removal of ms-msdt from Windows registry | https://github.com/PaddlingCode/cve-2022-30190 | | 
-| 20220601T10:13:16Z | CVE-2022-30190 | Null | https://github.com/hscorpion/CVE-2022-30190 | | 
-| 20220601T09:59:50Z | CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | | 
-| 20220601T09:52:27Z | CVE-2022-30190 | A remote code execution vulnerability exists when MSDT is called using the URL protocol from a calling application such as Word. An attacker who successfully exploits this vulnerability can run arbitrary code with the privileges of the calling application. The attacker can then install programs, view, change, or delete data, or create new accounts in the context allowed by the user’s rights. | https://github.com/sentinelblue/CVE-2022-30190 | | 
-| 20220601T09:39:02Z | CVE-2022-30190 | CVE-2022-30190 Zero click rce Mass Exploitation Tool with Multi threading capabilities | https://github.com/Kesinger57/CVE-2022-30190-mass | | 
-| 20220601T09:26:32Z | CVE-2022-30190 | Null | https://github.com/Icare1337/CVE-2022-30190 | | 
-| 20220601T09:10:37Z | CVE-2022-30190 | Null | https://github.com/trhacknon/CVE-2022-30190 | | 
-| 20220601T08:33:16Z | cve-2022-27438 | Null | https://github.com/gerr-re/cve-2022-27438 | | 
+| 20220601T23:50:54Z | CVE-2022-22954 | Python script to exploit CVE-2022-22954 and then exploit CVE-2022-22960 | https://github.com/Chocapikk/CVE-2022-22954 | | 
+| 20220601T23:30:29Z | CVE-2022-30190 | MS-MSDT Follina CVE-2022-30190 PoC document generator | https://github.com/sudoaza/CVE-2022-30190 | | 
+| 20220601T23:07:26Z | CVE-2022-30190 | Proof of Concept zu MSDT-Follina - CVE-2022-30190. ÜBERPRÜFUNG DER WIRKSAMKEIT VON MICROSOFT DEFNEDER IN DER JEWEILS AKTUELLSTEN WINDOWS 10 VERSION. | https://github.com/ImproveCybersecurityJaro/2022_PoC-MSDT-Follina-CVE-2022-30190 | | 
+| 20220601T22:57:29Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
+| 20220601T22:41:09Z | CVE-2022-22954 | Null | https://github.com/trhacknon/CVE-2022-22954-PoC | | 
+| 20220601T22:37:03Z | CVE-2022-30190 | An NSIS script that helps deploy and roll back the mitigation registry patch for CVE-2022-30190 as recommended by Microsoft | https://github.com/rouben/CVE-2022-30190-NSIS | | 
+| 20220601T21:36:47Z | CVE-2022-30190 | CVE-2022-30190 or "Follina" 0day proof of concept | https://github.com/rayorole/CVE-2022-30190 | | 
+| 20220601T19:11:13Z | CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | | 
+| 20220601T16:13:04Z | CVE-2022-30190 | Null | https://github.com/Vaisakhkm2625/MSDT-0-Day-CVE-2022-30190-Poc | | 
+| 20220601T15:00:56Z | CVE-2022-30190 | Null | https://github.com/mitespsoc/CVE-2022-30190-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220601T12:33:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6684 | 239| 
+| 20220601T18:25:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6689 | 239| 
 
 
 # s2e on Github 推荐
@@ -56,34 +56,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220601T11:52:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2961 | 361| 
-| 20220601T11:42:47Z | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | 0 | 0| 
-| 20220601T11:38:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3071 | 450| 
-| 20220601T11:36:48Z | Null | https://github.com/Jack7988/XLL-Excel-Exploit-Dropper | 1 | 0| 
-| 20220601T11:35:54Z | Null | https://github.com/Meeow103/XLL-Excel-Exploit-FUD | 2 | 0| 
-| 20220601T11:28:42Z | Code release for Graph Backup: Data Efficient Backup Exploiting Markovian Transitions  https://arxiv.org/abs/2205.15824 | https://github.com/ZhengyaoJiang/graphbackup | 0 | 0| 
-| 20220601T11:27:41Z | Implemented efficient memory allocator than malloc. It exploits object caching mechanism to reduce the time required for object initialization. Technologies used: C++ | https://github.com/Tuspatil/Slab-Allocator | 0 | 0| 
-| 20220601T11:23:00Z | Null | https://github.com/Jack7988/Silent-PDF-Exploit- | 0 | 0| 
-| 20220601T11:10:30Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 507 | 51| 
-| 20220601T10:42:46Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/purple-mermaid-app-jkopriva-appstudio-remain-exploit | 0 | 0| 
+| 20220601T23:52:36Z | This script was developed aiming to exploit a SQLi vulnerability in the ColdVVars CTF from TryHackMe, but can work in different environments, maybe. | https://github.com/behiNdyk1/SQL-Auth-Bypass | 0 | 0| 
+| 20220601T23:50:54Z | Python script to exploit CVE-2022-22954 and then exploit CVE-2022-22960 | https://github.com/Chocapikk/CVE-2022-22954 | 5 | 1| 
+| 20220601T23:10:47Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 6 | 0| 
+| 20220601T22:57:29Z | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | 647 | 145| 
+| 20220601T21:51:43Z | This repository hosts the official code related to %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. | https://github.com/guglielmocamporese/relvit | 0 | 0| 
+| 20220601T21:00:18Z | Exploit to trigger RCE for CVE-2018-16763 on FuelCMS <= 1.4.1 and interactive shell.  | https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE | 1 | 0| 
+| 20220601T20:53:41Z | Config files for my GitHub profile. | https://github.com/exploit-nato/exploit-nato | 1 | 0| 
+| 20220601T20:16:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11565 | 1978| 
+| 20220601T17:37:22Z |  Awesome list of techniques to achieve Remote Code Execution on various apps!  | https://github.com/p0dalirius/Awesome-RCE-techniques | 509 | 52| 
+| 20220601T16:21:41Z | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | 406 | 67| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220601T09:48:38Z | Null | https://github.com/accessmodifier364/LeuxBackdoor | 2 | 0| 
-| 20220601T06:42:04Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 142 | 38| 
+| 20220601T20:31:19Z | Tol | https://github.com/KCKV/PHP-Backdoor | 0 | 0| 
+| 20220601T19:29:54Z | Null | https://github.com/accessmodifier364/LeuxBackdoor | 8 | 3| 
+| 20220601T19:01:08Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 144 | 39| 
+| 20220601T18:53:54Z | NO BACKDOOR - A fake mint page for solana, drains all solana from phantom & eth wallets. | https://github.com/nftscem/best-solana-drainer | 0 | 0| 
+| 20220601T17:59:35Z | Best SOLANA Drainer, Without any backdoor! | https://github.com/cryptoscem/solana-drainer | 0 | 0| 
+| 20220601T13:32:47Z | Null | https://github.com/0folding/backdoor | 0 | 0| 
 | 20220601T04:29:48Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 539 | 192| 
-| 20220601T03:25:27Z | Tol | https://github.com/KCKV/PHP-Backdoor | 0 | 0| 
 | 20220601T02:30:04Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 498 | 92| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220601T21:43:13Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 549 | 95| 
+| 20220601T21:40:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2890 | 417| 
 | 20220601T10:28:29Z | Symbolic Execution Engine for simple imperative programs | https://github.com/SamKouteili/Symbolic-Execution-Engine | 0 | 0| 
 | 20220601T08:36:57Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 15 | 3| 
-| 20220601T07:33:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 548 | 95| 
 | 20220601T02:07:53Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 72 | 14| 
 
 
