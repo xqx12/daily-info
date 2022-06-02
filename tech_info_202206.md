@@ -33,6 +33,7 @@
 | 20220602 | FirmSec-物联网固件中的第三方组件安全性研究 | https://mp.weixin.qq.com/s/s7JwCRrzvF5kFc8aNvQ5xg| 
 | 20220602 | CobaltStrike WebServer特征分析 | https://mp.weixin.qq.com/s/hNFVTRINKbBiOQiOf0WTMA| 
 | 20220602 | Fuzzm: 针对WebAssembly内存错误的模糊测试 | https://zhuanlan.zhihu.com/p/523207785| 
+| 20220602 | 兰德深度报告-美国商业太空能力与市场概述 | https://mp.weixin.qq.com/s/7aC8RHMil--jTRms9jMU1A| 
 | 20220601 | 蓝牙协议对汽车安全的影响研究报告 | https://hexhive.epfl.ch/publications/files/22WOOT.pdf| 
 | 20220601 | SCA的困境和出路 | https://mp.weixin.qq.com/s/pV-3IXKBKDJbDiBxmOpEOA| 
 | 20220601 | 图神经网络及认知推理总结和普及 | https://blog.csdn.net/Eastmount/article/details/125016409| 
@@ -43,6 +44,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220602T12:58:24Z | 未知编号 | Null | https://github.com/gyaansastra/CVE2022-30190 | | 
+| 20220602T12:37:20Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
 | 20220602T11:30:41Z | CVE-2022-22978 | CVE-2022-22978 Spring-Security bypass Demo | https://github.com/DeEpinGh0st/CVE-2022-22978 | | 
 | 20220602T10:46:20Z | CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | | 
 | 20220602T10:35:46Z | CVE-2022-22954 | Python script to exploit CVE-2022-22954 and then exploit CVE-2022-22960 | https://github.com/Chocapikk/CVE-2022-22954 | | 
@@ -51,8 +54,6 @@
 | 20220602T07:03:36Z | CVE-2022-30190 | Null | https://github.com/ITMarcin2211/CVE-2022-30190 | | 
 | 20220602T04:35:45Z | CVE-2022-30190 | An NSIS script that helps deploy and roll back the mitigation registry patch for CVE-2022-30190 as recommended by Microsoft | https://github.com/rouben/CVE-2022-30190-NSIS | | 
 | 20220602T03:07:52Z | CVE-2021-35064 | Null | https://github.com/trhacknon/CVE-2021-35064 | | 
-| 20220602T02:22:36Z | CVE-2021-35064 | Python script to exploit CVE-2021-35064 and CVE-2021-36356 | https://github.com/Chocapikk/CVE-2021-35064 | | 
-| 20220602T01:44:19Z | CVE-2022-22954 | Null | https://github.com/trhacknon/CVE-2022-22954 | | 
 
 
 # klee on Github 推荐
@@ -70,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220602T12:43:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 427 | 121| 
 | 20220602T11:52:01Z | The project is about exploiting the heavily parallelized architecture of a GPU, using the Nvidia CUDA library, in order to calculate the autocorrelation function of a given set of data | https://github.com/Lapo9/AutocorrelationCUDA | 0 | 0| 
 | 20220602T11:46:50Z | An exploit for CVE-2018-6574 | https://github.com/tjcim/cve-2018-6574 | 0 | 0| 
 | 20220602T11:46:34Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-165417035-jkopriva-appstudio-own-exploit | 0 | 0| 
-| 20220602T11:44:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 425 | 121| 
 | 20220602T09:22:07Z | Exploiting large pre-trained models for low-resource neural machine translation | https://github.com/transducens/tune-n-distill | 0 | 0| 
 | 20220602T09:11:25Z | Handy CSRF exploits based on the HTTP request. | https://github.com/AmirhosseinBidokhti/csrf-exploits | 0 | 0| 
 | 20220602T09:08:54Z | Null | https://github.com/zerrip/KudetaExploit | 0 | 0| 
 | 20220602T08:51:04Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4343 | 1531| 
+| 20220602T08:01:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11569 | 1978| 
 | 20220602T07:24:09Z | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/ErrorNoInternet/FollinaScanner | 1 | 0| 
-| 20220602T01:56:19Z | Documenting recent threats with mitigations/fixes/patch notes for the Windows SysAdmin. These threats may include bugs/exploits/0Day%s/CVE%s. | https://github.com/lz-eng/infosec-windows | 0 | 0| 
 
 
 # backdoor on Github 推荐
