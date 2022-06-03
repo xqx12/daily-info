@@ -82,6 +82,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T10:33:35Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 582 | 68| 
+| 20220603T10:23:41Z | Null | https://github.com/Sasainakoto/fuzz | 0 | 0| 
+| 20220603T10:10:15Z | Null | https://github.com/MahabubRahaman/-CSE-4872-Fuzzy-Logic-and-Neural-Network | 0 | 0| 
+| 20220603T10:01:24Z | Null | https://github.com/saba-ramezani/fuzzy_inverse_pendulum | 0 | 0| 
+| 20220603T09:54:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7477 | 1598| 
 | 20220603T00:46:33Z | Null | https://github.com/Madison-Davis/Personal-AI-FuzzyLogic-AutomaticBreaking | 0 | 0| 
 | 20220603T00:46:07Z | Null | https://github.com/Madison-Davis/Personal-AI-FuzzyLogic-ACEfficiencySystem | 0 | 0| 
 | 20220603T00:14:38Z | Null | https://github.com/PranavS777/fuzzy-dollop | 0 | 0| 

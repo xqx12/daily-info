@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T10:33:35Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 582 | 68| 
+| 20220603T10:23:41Z | Null | https://github.com/Sasainakoto/fuzz | 0 | 0| 
+| 20220603T10:10:15Z | Null | https://github.com/MahabubRahaman/-CSE-4872-Fuzzy-Logic-and-Neural-Network | 0 | 0| 
+| 20220603T10:01:24Z | Null | https://github.com/saba-ramezani/fuzzy_inverse_pendulum | 0 | 0| 
+| 20220603T09:54:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7477 | 1598| 
 | 20220603T00:46:33Z | Null | https://github.com/Madison-Davis/Personal-AI-FuzzyLogic-AutomaticBreaking | 0 | 0| 
 | 20220603T00:46:07Z | Null | https://github.com/Madison-Davis/Personal-AI-FuzzyLogic-ACEfficiencySystem | 0 | 0| 
 | 20220603T00:14:38Z | Null | https://github.com/PranavS777/fuzzy-dollop | 0 | 0| 
 | 20220602T21:11:20Z | Free trade%s here.  | https://github.com/Taylors-of-Fife/fuzzy-octo-palm-tree | 0 | 0| 
 | 20220602T20:23:30Z | Null | https://github.com/SoheylaMirshahi/FuzzyMultipleTimeseriesAnalysis | 0 | 0| 
-| 20220602T18:09:21Z | Null | https://github.com/gn1708/Gusti-Nanda---Fuzzy-Logic | 0 | 0| 
-| 20220602T11:58:00Z | A GUI that uses Fuzzy String Matching techniques to match data across different CSV files, by name and unique user ID  | https://github.com/ongyongen/fuzzy-match | 0 | 0| 
-| 20220602T11:47:19Z | Tugas Akhir Praktikum AI, Raudhatul Jannah 20343048 | https://github.com/raudhatulj/prakai-fuzzy | 0 | 0| 
-| 20220602T11:13:33Z | fuzzylogic -  experimental library | https://github.com/sebs/es6-fuzz | 40 | 7| 
-| 20220602T09:48:14Z | Null | https://github.com/gkford/fuzzy-bassoon | 0 | 0| 
 
 
 
