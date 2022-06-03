@@ -87,6 +87,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T12:49:28Z | backdoor collection for tomcat. | https://github.com/manesec/JSPWebShellCollection | 0 | 0| 
 | 20220603T11:11:23Z | Tool to create backdoors | https://github.com/KobaWare/Deepsploit | 2 | 0| 
 | 20220603T08:58:39Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 55 | 8| 
 | 20220603T06:09:16Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 540 | 192| 
@@ -96,7 +97,6 @@
 | 20220603T01:56:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1651 | 395| 
 | 20220603T00:44:18Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 73 | 29| 
 | 20220602T23:55:30Z | Null | https://github.com/mainsw/github-backdoor | 0 | 0| 
-| 20220602T20:52:51Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 145 | 39| 
 
 
 # symbolic execution on Github 推荐

@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T12:49:28Z | backdoor collection for tomcat. | https://github.com/manesec/JSPWebShellCollection | 0 | 0| 
 | 20220603T11:11:23Z | Tool to create backdoors | https://github.com/KobaWare/Deepsploit | 2 | 0| 
 | 20220603T08:58:39Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 55 | 8| 
 | 20220603T06:09:16Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 540 | 192| 
