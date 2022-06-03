@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220603T12:53:14Z | 未知编号 | Null | https://github.com/e4r23fd/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220603T10:44:39Z | CVE-2022-26134 | Information and scripts for the confluence CVE-2022-26134 | https://github.com/offlinehoster/CVE-2022-26134 | | 
 | 20220603T10:38:51Z | CVE-2022-26134 | CVE-2022-26134  vuln domains | https://github.com/s0rtega/CVE-2022-26134_vuln | | 
 | 20220603T09:30:51Z | CVE-2022-26134 | 0-DAY: Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134). | https://github.com/CyberDonkyx0/CVE-2022-26134 | | 
@@ -26,7 +27,6 @@
 | 20220603T06:55:13Z | cve-2022-30190 | Powershell script to mitigate cve-2022-30190 | https://github.com/hilt86/cve-2022-30190-mitigate | | 
 | 20220603T06:24:34Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
 | 20220603T05:53:04Z | CVE-2022-30190 | This is to patch CVE-2022-30190. Use at your own risk.  | https://github.com/droidrzrlover/CVE-2022-30190 | | 
-| 20220603T05:52:38Z | CVE-2022-0997 | Fidelis Network and Deception - Insecure File Permissions Privilege Escalation | https://github.com/henryreed/CVE-2022-0997 | | 
 
 
 # klee on Github 推荐
