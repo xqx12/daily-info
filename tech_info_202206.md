@@ -87,6 +87,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T00:44:18Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 73 | 29| 
 | 20220602T23:55:30Z | Null | https://github.com/mainsw/github-backdoor | 0 | 0| 
 | 20220602T20:52:51Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 145 | 39| 
 | 20220602T19:36:33Z | A Simple Backdoor | https://github.com/T0k1To/IaidoProject | 8 | 1| 
@@ -96,7 +97,6 @@
 | 20220602T15:22:49Z | Best SOLANA Drainer, Without any backdoor! | https://github.com/cryptoscem/solana-drainer | 0 | 0| 
 | 20220602T09:13:46Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 15 | 8| 
 | 20220602T07:57:41Z | backdoor key to kafka topics | https://github.com/dixel/kafkus | 19 | 4| 
-| 20220601T20:31:19Z | Tol | https://github.com/KCKV/PHP-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,6 +121,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T00:46:33Z | Null | https://github.com/Madison-Davis/Personal-AI-FuzzyLogic-AutomaticBreaking | 0 | 0| 
+| 20220603T00:46:07Z | Null | https://github.com/Madison-Davis/Personal-AI-FuzzyLogic-ACEfficiencySystem | 0 | 0| 
 | 20220603T00:14:38Z | Null | https://github.com/PranavS777/fuzzy-dollop | 0 | 0| 
 | 20220602T21:11:20Z | Free trade%s here.  | https://github.com/Taylors-of-Fife/fuzzy-octo-palm-tree | 0 | 0| 
 | 20220602T20:23:30Z | Null | https://github.com/SoheylaMirshahi/FuzzyMultipleTimeseriesAnalysis | 0 | 0| 
@@ -129,8 +131,6 @@
 | 20220602T11:47:19Z | Tugas Akhir Praktikum AI, Raudhatul Jannah 20343048 | https://github.com/raudhatulj/prakai-fuzzy | 0 | 0| 
 | 20220602T11:13:33Z | fuzzylogic -  experimental library | https://github.com/sebs/es6-fuzz | 40 | 7| 
 | 20220602T09:48:14Z | Null | https://github.com/gkford/fuzzy-bassoon | 0 | 0| 
-| 20220602T09:30:33Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 511 | 102| 
-| 20220602T08:54:50Z | Null | https://github.com/hamedzare1397/Fuzzy | 0 | 0| 
 
 
 
