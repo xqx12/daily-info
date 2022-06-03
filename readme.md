@@ -45,6 +45,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220603T12:28:39Z | Foraging video game to measure explore/exploit tradeoff. | https://github.com/charlotteVDD/neuroForest | 0 | 0| 
 | 20220603T12:24:22Z | This WebApp is an example tutorial. It exploits the AJAX technology in JavaScript through the use of the fetch function the API of the OpenWeatherMap REST services are called which returns data in JSON format that is printed on the web page. IMPORTANT: you must have your personal secret AppID Key, otherwise the WebApp doesn%t work. After registering on the site https://openweathermap.org, you will receive your personal secret key which you will need to paste into the JavaScript code. If your PC is connected to the internet, by typing the name of a location in the search bar, other useful information will be shown in addition to the temperature perceived in that location. | https://github.com/birg81/WhatzWeater | 0 | 0| 
+| 20220603T12:19:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11573 | 1980| 
 | 20220603T12:14:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2978 | 361| 
 | 20220603T11:08:20Z | Null | https://github.com/e4r23fd/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
 | 20220603T09:18:39Z | VMware Workspace ONE Access and Identity Manager RCE via SSTI. CVE-2022-22954 - PoC SSTI * exploit+payload+shodan (ну набором) | https://github.com/badboy-sft/CVE-2022-22954 | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20220603T06:54:06Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 27 | 1| 
 | 20220603T04:37:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 56 | 22| 
 | 20220603T01:33:21Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 27 | 8| 
-| 20220603T01:02:09Z | Python exploit for CVE-2011-2523 | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
 
 
 # backdoor on Github 推荐
