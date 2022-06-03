@@ -87,6 +87,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T01:13:15Z | testing a backdoor written in python | https://github.com/Trincazul/server-upd | 0 | 0| 
 | 20220603T00:44:18Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 73 | 29| 
 | 20220602T23:55:30Z | Null | https://github.com/mainsw/github-backdoor | 0 | 0| 
 | 20220602T20:52:51Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 145 | 39| 
@@ -96,7 +97,6 @@
 | 20220602T15:40:44Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1650 | 395| 
 | 20220602T15:22:49Z | Best SOLANA Drainer, Without any backdoor! | https://github.com/cryptoscem/solana-drainer | 0 | 0| 
 | 20220602T09:13:46Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 15 | 8| 
-| 20220602T07:57:41Z | backdoor key to kafka topics | https://github.com/dixel/kafkus | 19 | 4| 
 
 
 # symbolic execution on Github 推荐
