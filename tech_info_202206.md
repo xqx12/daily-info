@@ -29,6 +29,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220603 | Confluence漏洞攻击的WebShell已公开 | https://mp.weixin.qq.com/s/I0XOcfJF9vMlT7YuwnANHA| 
 | 20220602 | 重新定义SOAR | https://mp.weixin.qq.com/s/aiaCgFRjGifPhPfZ4_lrkQ| 
 | 20220602 | FirmSec-物联网固件中的第三方组件安全性研究 | https://mp.weixin.qq.com/s/s7JwCRrzvF5kFc8aNvQ5xg| 
 | 20220602 | CobaltStrike WebServer特征分析 | https://mp.weixin.qq.com/s/hNFVTRINKbBiOQiOf0WTMA| 
@@ -38,28 +39,27 @@
 | 20220601 | SCA的困境和出路 | https://mp.weixin.qq.com/s/pV-3IXKBKDJbDiBxmOpEOA| 
 | 20220601 | 图神经网络及认知推理总结和普及 | https://blog.csdn.net/Eastmount/article/details/125016409| 
 | 20220601 | SSL 指纹识别和绕过 | https://ares-x.com/2021/04/18/SSL-%E6%8C%87%E7%BA%B9%E8%AF%86%E5%88%AB%E5%92%8C%E7%BB%95%E8%BF%87/| 
-| 20220601 | APICraft: 为闭源的SDK库生成模糊的驱动程序 | https://mp.weixin.qq.com/s/rekrBOCzY9eldsoVgXzaEg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220603T01:44:05Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
-| 20220603T00:07:06Z | CVE-2022-30190 | Null | https://github.com/gyaansastra/CVE-2022-30190 | | 
-| 20220602T23:59:15Z | CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | | 
-| 20220602T17:31:11Z | CVE-2022-30190 | CVE-2022-30190 Zero click rce Mass Exploitation Tool with Multi threading capabilities | https://github.com/Kesinger57/CVE-2022-30190-mass-rce | | 
-| 20220602T16:56:58Z | CVE-2022-30190 | Simple Follina poc exploit | https://github.com/WesyHub/CVE-2022-30190---Follina---Poc-Exploit | | 
-| 20220602T16:14:13Z | CVE-2022-30910 | Null | https://github.com/arozx/CVE-2022-30910 | | 
-| 20220602T15:21:55Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
-| 20220602T14:34:24Z | CVE-2022-30190 | Microsoft Sentinel analytic rule and hunting queries in ASIM for activity of MSDT and CVE-2022-30190. | https://github.com/sentinelblue/CVE-2022-30190 | | 
-| 20220602T14:02:45Z | CVE-2022-30190 | The CVE-2022-30190-follina Workarounds Patch | https://github.com/suegdu/CVE-2022-30190-Follina-Patch | | 
-| 20220602T13:45:27Z | CVE-2022-30190 | Null | https://github.com/swaiist/CVE-2022-30190-Fix | | 
+| 20220603T10:44:39Z | CVE-2022-26134 | Information and scripts for the confluence CVE-2022-26134 | https://github.com/offlinehoster/CVE-2022-26134 | | 
+| 20220603T10:38:51Z | CVE-2022-26134 | CVE-2022-26134  vuln domains | https://github.com/s0rtega/CVE-2022-26134_vuln | | 
+| 20220603T09:30:51Z | CVE-2022-26134 | 0-DAY: Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134). | https://github.com/CyberDonkyx0/CVE-2022-26134 | | 
+| 20220603T09:18:39Z | CVE-2022-22954 | VMware Workspace ONE Access and Identity Manager RCE via SSTI. CVE-2022-22954 - PoC SSTI * exploit+payload+shodan (ну набором) | https://github.com/badboy-sft/CVE-2022-22954 | | 
+| 20220603T08:52:08Z | CVE-2022-22954 | Null | https://github.com/orwagodfather/CVE-2022-22954 | | 
+| 20220603T08:00:59Z | CVE-2022-30190 | Follina POC by John Hammond | https://github.com/SrikeshMaharaj/CVE-2022-30190 | | 
+| 20220603T06:55:13Z | cve-2022-30190 | Powershell script to mitigate cve-2022-30190 | https://github.com/hilt86/cve-2022-30190-mitigate | | 
+| 20220603T06:24:34Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
+| 20220603T05:53:04Z | CVE-2022-30190 | This is to patch CVE-2022-30190. Use at your own risk.  | https://github.com/droidrzrlover/CVE-2022-30190 | | 
+| 20220603T05:52:38Z | CVE-2022-0997 | Fidelis Network and Deception - Insecure File Permissions Privilege Escalation | https://github.com/henryreed/CVE-2022-0997 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220603T00:59:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6708 | 240| 
+| 20220603T11:55:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6717 | 241| 
 | 20220602T14:41:31Z | Null | https://github.com/ErickLauren12/LearningWithKlee | 0 | 0| 
 | 20220602T01:54:58Z | Null | https://github.com/Lucas544875/Kleenes-recursion-theorem | 0 | 0| 
 
@@ -72,38 +72,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T11:57:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2977 | 361| 
+| 20220603T11:50:24Z | Foraging video game to measure explore/exploit tradeoff. | https://github.com/charlotteVDD/neuroForest | 0 | 0| 
+| 20220603T11:08:20Z | Null | https://github.com/e4r23fd/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
+| 20220603T09:18:39Z | VMware Workspace ONE Access and Identity Manager RCE via SSTI. CVE-2022-22954 - PoC SSTI * exploit+payload+shodan (ну набором) | https://github.com/badboy-sft/CVE-2022-22954 | 0 | 0| 
+| 20220603T09:03:17Z | Exploits PS3, PS4 & PS5 | https://github.com/TheWizWikii/TheWizWikii.github.io | 59 | 16| 
+| 20220603T06:54:06Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 27 | 1| 
+| 20220603T04:37:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 56 | 22| 
 | 20220603T01:33:21Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 27 | 8| 
 | 20220603T01:02:09Z | Python exploit for CVE-2011-2523 | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
 | 20220603T00:47:38Z | Null | https://github.com/codingcore1/-SILENT-DOC-EXPLOIT-CLEAN-h | 0 | 0| 
-| 20220603T00:46:29Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-h | 0 | 0| 
-| 20220603T00:45:43Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | 0 | 0| 
-| 20220602T23:04:43Z | A small server-side glua script that trying prevent spray crash exploits from using, without replacing a default spraying system | https://github.com/klen-list/sprayplus | 0 | 0| 
-| 20220602T21:53:05Z | Null | https://github.com/trhacknon/exploit-CVE-2014-6271 | 0 | 0| 
-| 20220602T21:42:48Z | Null | https://github.com/DarlezSec/RMS-v1.0-Exploit | 0 | 0| 
-| 20220602T21:28:33Z | Vulnerable functions and exploitation files | https://github.com/Djkusik/serverless_persistency_poc | 0 | 0| 
-| 20220602T20:38:30Z | This repository hosts the official code related to %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. arxiv:2206.00481, 2022. | https://github.com/guglielmocamporese/relvit | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220603T01:13:15Z | testing a backdoor written in python | https://github.com/Trincazul/server-upd | 0 | 0| 
+| 20220603T11:11:23Z | Tool to create backdoors | https://github.com/KobaWare/Deepsploit | 2 | 0| 
+| 20220603T08:58:39Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 55 | 8| 
+| 20220603T06:09:16Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 540 | 192| 
+| 20220603T05:12:50Z | A Simple Backdoor | https://github.com/T0k1To/IaidoProject | 9 | 1| 
+| 20220603T03:16:56Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 0 | 0| 
+| 20220603T02:04:28Z | Testing a backdoor written in python and C | https://github.com/Trincazul/server-upd | 0 | 0| 
+| 20220603T01:56:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1651 | 395| 
 | 20220603T00:44:18Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 73 | 29| 
 | 20220602T23:55:30Z | Null | https://github.com/mainsw/github-backdoor | 0 | 0| 
 | 20220602T20:52:51Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 145 | 39| 
-| 20220602T19:36:33Z | A Simple Backdoor | https://github.com/T0k1To/IaidoProject | 8 | 1| 
-| 20220602T18:45:55Z | Null | https://github.com/accessmodifier364/LeuxBackdoor | 9 | 3| 
-| 20220602T16:40:11Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 541 | 192| 
-| 20220602T15:40:44Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1650 | 395| 
-| 20220602T15:22:49Z | Best SOLANA Drainer, Without any backdoor! | https://github.com/cryptoscem/solana-drainer | 0 | 0| 
-| 20220602T09:13:46Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 15 | 8| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T05:13:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2895 | 417| 
 | 20220602T17:50:16Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 13 | 0| 
-| 20220602T17:26:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2893 | 417| 
 | 20220602T16:10:34Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 3 | 0| 
 | 20220602T11:05:32Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
 | 20220602T04:27:39Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 16 | 3| 
