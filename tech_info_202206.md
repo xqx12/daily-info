@@ -44,6 +44,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220603T12:56:08Z | CVE-2022-22965 | Null | https://github.com/Expl0desploit/CVE-2022-22965 | | 
 | 20220603T12:54:08Z | CVE-2022-26134 | mass exploitation tool for atlassian 0day rce | https://github.com/TomArni680/CVE-2022-26134-RCE | | 
 | 20220603T12:53:14Z | 未知编号 | Null | https://github.com/e4r23fd/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220603T10:44:39Z | CVE-2022-26134 | Information and scripts for the confluence CVE-2022-26134 | https://github.com/offlinehoster/CVE-2022-26134 | | 
@@ -53,7 +54,6 @@
 | 20220603T08:52:08Z | CVE-2022-22954 | Null | https://github.com/orwagodfather/CVE-2022-22954 | | 
 | 20220603T08:00:59Z | CVE-2022-30190 | Follina POC by John Hammond | https://github.com/SrikeshMaharaj/CVE-2022-30190 | | 
 | 20220603T06:55:13Z | cve-2022-30190 | Powershell script to mitigate cve-2022-30190 | https://github.com/hilt86/cve-2022-30190-mitigate | | 
-| 20220603T06:24:34Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
 
 
 # klee on Github 推荐
