@@ -31,7 +31,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220602T23:59:15Z | CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | | 
-| 20220602T18:55:52Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
 | 20220602T17:31:11Z | CVE-2022-30190 | CVE-2022-30190 Zero click rce Mass Exploitation Tool with Multi threading capabilities | https://github.com/Kesinger57/CVE-2022-30190-mass-rce | | 
 | 20220602T16:56:58Z | CVE-2022-30190 | Simple Follina poc exploit | https://github.com/WesyHub/CVE-2022-30190---Follina---Poc-Exploit | | 
 | 20220602T16:14:13Z | CVE-2022-30910 | Null | https://github.com/arozx/CVE-2022-30910 | | 
@@ -40,12 +39,12 @@
 | 20220602T14:02:45Z | CVE-2022-30190 | The CVE-2022-30190-follina Workarounds Patch | https://github.com/suegdu/CVE-2022-30190-Follina-Patch | | 
 | 20220602T13:45:27Z | CVE-2022-30190 | Null | https://github.com/swaiist/CVE-2022-30190-Fix | | 
 | 20220602T13:25:14Z | CVE-2020-13935 | Null | https://github.com/aabbcc19191/CVE-2020-13935 | | 
+| 20220602T12:58:24Z | 未知编号 | Null | https://github.com/gyaansastra/CVE2022-30190 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220602T21:01:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6707 | 240| 
 | 20220602T14:41:31Z | Null | https://github.com/ErickLauren12/LearningWithKlee | 0 | 0| 
 | 20220602T01:54:58Z | Null | https://github.com/Lucas544875/Kleenes-recursion-theorem | 0 | 0| 
 

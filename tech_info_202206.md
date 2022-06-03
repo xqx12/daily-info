@@ -44,9 +44,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220603T00:55:23Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
 | 20220603T00:07:06Z | CVE-2022-30190 | Null | https://github.com/gyaansastra/CVE-2022-30190 | | 
 | 20220602T23:59:15Z | CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | | 
-| 20220602T18:55:52Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
 | 20220602T17:31:11Z | CVE-2022-30190 | CVE-2022-30190 Zero click rce Mass Exploitation Tool with Multi threading capabilities | https://github.com/Kesinger57/CVE-2022-30190-mass-rce | | 
 | 20220602T16:56:58Z | CVE-2022-30190 | Simple Follina poc exploit | https://github.com/WesyHub/CVE-2022-30190---Follina---Poc-Exploit | | 
 | 20220602T16:14:13Z | CVE-2022-30910 | Null | https://github.com/arozx/CVE-2022-30910 | | 
@@ -59,7 +59,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220602T21:01:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6707 | 240| 
+| 20220603T00:59:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6708 | 240| 
 | 20220602T14:41:31Z | Null | https://github.com/ErickLauren12/LearningWithKlee | 0 | 0| 
 | 20220602T01:54:58Z | Null | https://github.com/Lucas544875/Kleenes-recursion-theorem | 0 | 0| 
 
@@ -72,16 +72,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220603T00:17:18Z | Python exploit for CVE-2011-2523 | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
+| 20220603T01:02:09Z | Python exploit for CVE-2011-2523 | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
+| 20220603T00:47:38Z | Null | https://github.com/codingcore1/-SILENT-DOC-EXPLOIT-CLEAN-h | 0 | 0| 
+| 20220603T00:46:29Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-h | 0 | 0| 
+| 20220603T00:45:43Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | 0 | 0| 
 | 20220602T23:04:43Z | A small server-side glua script that trying prevent spray crash exploits from using, without replacing a default spraying system | https://github.com/klen-list/sprayplus | 0 | 0| 
 | 20220602T21:53:05Z | Null | https://github.com/trhacknon/exploit-CVE-2014-6271 | 0 | 0| 
 | 20220602T21:42:48Z | Null | https://github.com/DarlezSec/RMS-v1.0-Exploit | 0 | 0| 
 | 20220602T21:28:33Z | Vulnerable functions and exploitation files | https://github.com/Djkusik/serverless_persistency_poc | 0 | 0| 
 | 20220602T20:38:30Z | This repository hosts the official code related to %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. arxiv:2206.00481, 2022. | https://github.com/guglielmocamporese/relvit | 2 | 0| 
 | 20220602T20:33:42Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 26 | 8| 
-| 20220602T19:39:10Z | my iOS applications for iOS 15.1 | https://github.com/eblair2/Ios15_exploits_POC | 0 | 0| 
-| 20220602T18:55:57Z | will be adding any exploits that I find and update them. if i see any of these exploits in a paid cheat i will rape you | https://github.com/plu1337/fortnite-exploits | 1 | 0| 
-| 20220602T18:29:33Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 219 | 863| 
 
 
 # backdoor on Github 推荐
