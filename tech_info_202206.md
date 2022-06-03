@@ -44,7 +44,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220603T00:55:23Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
+| 20220603T01:44:05Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
 | 20220603T00:07:06Z | CVE-2022-30190 | Null | https://github.com/gyaansastra/CVE-2022-30190 | | 
 | 20220602T23:59:15Z | CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | | 
 | 20220602T17:31:11Z | CVE-2022-30190 | CVE-2022-30190 Zero click rce Mass Exploitation Tool with Multi threading capabilities | https://github.com/Kesinger57/CVE-2022-30190-mass-rce | | 
