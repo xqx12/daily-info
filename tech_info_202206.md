@@ -44,22 +44,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220602T12:58:24Z | 未知编号 | Null | https://github.com/gyaansastra/CVE2022-30190 | | 
-| 20220602T12:37:20Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
-| 20220602T11:30:41Z | CVE-2022-22978 | CVE-2022-22978 Spring-Security bypass Demo | https://github.com/DeEpinGh0st/CVE-2022-22978 | | 
-| 20220602T10:46:20Z | CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | | 
-| 20220602T10:35:46Z | CVE-2022-22954 | Python script to exploit CVE-2022-22954 and then exploit CVE-2022-22960 | https://github.com/Chocapikk/CVE-2022-22954 | | 
-| 20220602T07:46:58Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
-| 20220602T07:36:37Z | CVE-2022-24644 | Bai cuoi ky CVE-2022-24644 | https://github.com/ThanhThuy2908/ATHDH_CVE_2022_24644 | | 
-| 20220602T07:03:36Z | CVE-2022-30190 | Null | https://github.com/ITMarcin2211/CVE-2022-30190 | | 
-| 20220602T04:35:45Z | CVE-2022-30190 | An NSIS script that helps deploy and roll back the mitigation registry patch for CVE-2022-30190 as recommended by Microsoft | https://github.com/rouben/CVE-2022-30190-NSIS | | 
-| 20220602T03:07:52Z | CVE-2021-35064 | Null | https://github.com/trhacknon/CVE-2021-35064 | | 
+| 20220603T00:07:06Z | CVE-2022-30190 | Null | https://github.com/gyaansastra/CVE-2022-30190 | | 
+| 20220602T23:59:15Z | CVE-2022-30190 | This Repository Talks about the Follina MSDT from Defender Perspective | https://github.com/archanchoudhury/MSDT_CVE-2022-30190 | | 
+| 20220602T18:55:52Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
+| 20220602T17:31:11Z | CVE-2022-30190 | CVE-2022-30190 Zero click rce Mass Exploitation Tool with Multi threading capabilities | https://github.com/Kesinger57/CVE-2022-30190-mass-rce | | 
+| 20220602T16:56:58Z | CVE-2022-30190 | Simple Follina poc exploit | https://github.com/WesyHub/CVE-2022-30190---Follina---Poc-Exploit | | 
+| 20220602T16:14:13Z | CVE-2022-30910 | Null | https://github.com/arozx/CVE-2022-30910 | | 
+| 20220602T15:21:55Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
+| 20220602T14:34:24Z | CVE-2022-30190 | Microsoft Sentinel analytic rule and hunting queries in ASIM for activity of MSDT and CVE-2022-30190. | https://github.com/sentinelblue/CVE-2022-30190 | | 
+| 20220602T14:02:45Z | CVE-2022-30190 | The CVE-2022-30190-follina Workarounds Patch | https://github.com/suegdu/CVE-2022-30190-Follina-Patch | | 
+| 20220602T13:45:27Z | CVE-2022-30190 | Null | https://github.com/swaiist/CVE-2022-30190-Fix | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220602T11:14:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6698 | 240| 
+| 20220602T21:01:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6707 | 240| 
+| 20220602T14:41:31Z | Null | https://github.com/ErickLauren12/LearningWithKlee | 0 | 0| 
 | 20220602T01:54:58Z | Null | https://github.com/Lucas544875/Kleenes-recursion-theorem | 0 | 0| 
 
 
@@ -71,40 +72,42 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220602T12:43:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 427 | 121| 
-| 20220602T11:52:01Z | The project is about exploiting the heavily parallelized architecture of a GPU, using the Nvidia CUDA library, in order to calculate the autocorrelation function of a given set of data | https://github.com/Lapo9/AutocorrelationCUDA | 0 | 0| 
-| 20220602T11:46:50Z | An exploit for CVE-2018-6574 | https://github.com/tjcim/cve-2018-6574 | 0 | 0| 
-| 20220602T11:46:34Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-165417035-jkopriva-appstudio-own-exploit | 0 | 0| 
-| 20220602T09:22:07Z | Exploiting large pre-trained models for low-resource neural machine translation | https://github.com/transducens/tune-n-distill | 0 | 0| 
-| 20220602T09:11:25Z | Handy CSRF exploits based on the HTTP request. | https://github.com/AmirhosseinBidokhti/csrf-exploits | 0 | 0| 
-| 20220602T09:08:54Z | Null | https://github.com/zerrip/KudetaExploit | 0 | 0| 
-| 20220602T08:51:04Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4343 | 1531| 
-| 20220602T08:01:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11569 | 1978| 
-| 20220602T07:24:09Z | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/ErrorNoInternet/FollinaScanner | 1 | 0| 
+| 20220603T00:17:18Z | Python exploit for CVE-2011-2523 | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
+| 20220602T23:04:43Z | A small server-side glua script that trying prevent spray crash exploits from using, without replacing a default spraying system | https://github.com/klen-list/sprayplus | 0 | 0| 
+| 20220602T21:53:05Z | Null | https://github.com/trhacknon/exploit-CVE-2014-6271 | 0 | 0| 
+| 20220602T21:42:48Z | Null | https://github.com/DarlezSec/RMS-v1.0-Exploit | 0 | 0| 
+| 20220602T21:28:33Z | Vulnerable functions and exploitation files | https://github.com/Djkusik/serverless_persistency_poc | 0 | 0| 
+| 20220602T20:38:30Z | This repository hosts the official code related to %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. arxiv:2206.00481, 2022. | https://github.com/guglielmocamporese/relvit | 2 | 0| 
+| 20220602T20:33:42Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 26 | 8| 
+| 20220602T19:39:10Z | my iOS applications for iOS 15.1 | https://github.com/eblair2/Ios15_exploits_POC | 0 | 0| 
+| 20220602T18:55:57Z | will be adding any exploits that I find and update them. if i see any of these exploits in a paid cheat i will rape you | https://github.com/plu1337/fortnite-exploits | 1 | 0| 
+| 20220602T18:29:33Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 219 | 863| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220602T23:55:30Z | Null | https://github.com/mainsw/github-backdoor | 0 | 0| 
+| 20220602T20:52:51Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 145 | 39| 
+| 20220602T19:36:33Z | A Simple Backdoor | https://github.com/T0k1To/IaidoProject | 8 | 1| 
+| 20220602T18:45:55Z | Null | https://github.com/accessmodifier364/LeuxBackdoor | 9 | 3| 
+| 20220602T16:40:11Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 541 | 192| 
+| 20220602T15:40:44Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1650 | 395| 
+| 20220602T15:22:49Z | Best SOLANA Drainer, Without any backdoor! | https://github.com/cryptoscem/solana-drainer | 0 | 0| 
 | 20220602T09:13:46Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 15 | 8| 
 | 20220602T07:57:41Z | backdoor key to kafka topics | https://github.com/dixel/kafkus | 19 | 4| 
-| 20220602T05:30:26Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 540 | 192| 
-| 20220602T03:03:35Z | A Simple Backdoor | https://github.com/T0k1To/IaidoProject | 4 | 1| 
 | 20220601T20:31:19Z | Tol | https://github.com/KCKV/PHP-Backdoor | 0 | 0| 
-| 20220601T19:29:54Z | Null | https://github.com/accessmodifier364/LeuxBackdoor | 8 | 3| 
-| 20220601T19:01:08Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 144 | 39| 
-| 20220601T18:53:54Z | NO BACKDOOR - A fake mint page for solana, drains all solana from phantom & eth wallets. | https://github.com/nftscem/best-solana-drainer | 0 | 0| 
-| 20220601T17:59:35Z | Best SOLANA Drainer, Without any backdoor! | https://github.com/cryptoscem/solana-drainer | 0 | 0| 
-| 20220601T13:32:47Z | Null | https://github.com/0folding/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220602T17:50:16Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 13 | 0| 
+| 20220602T17:26:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2893 | 417| 
+| 20220602T16:10:34Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 3 | 0| 
 | 20220602T11:05:32Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
 | 20220602T04:27:39Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 16 | 3| 
 | 20220601T21:43:13Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 549 | 95| 
-| 20220601T21:40:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2890 | 417| 
 | 20220601T10:28:29Z | Symbolic Execution Engine for simple imperative programs | https://github.com/SamKouteili/Symbolic-Execution-Engine | 0 | 0| 
 | 20220601T02:07:53Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 72 | 14| 
 
@@ -118,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T00:14:38Z | Null | https://github.com/PranavS777/fuzzy-dollop | 0 | 0| 
+| 20220602T21:11:20Z | Free trade%s here.  | https://github.com/Taylors-of-Fife/fuzzy-octo-palm-tree | 0 | 0| 
+| 20220602T20:23:30Z | Null | https://github.com/SoheylaMirshahi/FuzzyMultipleTimeseriesAnalysis | 0 | 0| 
+| 20220602T18:09:21Z | Null | https://github.com/gn1708/Gusti-Nanda---Fuzzy-Logic | 0 | 0| 
 | 20220602T11:58:00Z | A GUI that uses Fuzzy String Matching techniques to match data across different CSV files, by name and unique user ID  | https://github.com/ongyongen/fuzzy-match | 0 | 0| 
 | 20220602T11:47:19Z | Tugas Akhir Praktikum AI, Raudhatul Jannah 20343048 | https://github.com/raudhatulj/prakai-fuzzy | 0 | 0| 
 | 20220602T11:13:33Z | fuzzylogic -  experimental library | https://github.com/sebs/es6-fuzz | 40 | 7| 
 | 20220602T09:48:14Z | Null | https://github.com/gkford/fuzzy-bassoon | 0 | 0| 
 | 20220602T09:30:33Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 511 | 102| 
 | 20220602T08:54:50Z | Null | https://github.com/hamedzare1397/Fuzzy | 0 | 0| 
-| 20220602T08:07:35Z | [20343002-Aisya Wulandari] UAS Praktikum Artificial Intelligence - Fuzzy Logic - Program Logika Fuzzy Menentukan nilai akhir mahasiswa | https://github.com/Aisyawldr/Fuzzy_Logic | 0 | 0| 
-| 20220602T07:32:30Z | Config files for my GitHub profile. | https://github.com/Fuzzdabuzz/Fuzzdabuzz | 0 | 0| 
-| 20220601T23:48:35Z | Null | https://github.com/noncetaxa/fuzzy-giggle | 0 | 0| 
-| 20220601T23:07:01Z | Based off TCM%s Buffer Overflow Tutorial Fuzzer | https://github.com/ihavenomouthan/python-fuzzer | 0 | 0| 
 
 
 
