@@ -72,7 +72,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220603T11:57:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2977 | 361| 
+| 20220603T12:14:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2978 | 361| 
 | 20220603T11:50:24Z | Foraging video game to measure explore/exploit tradeoff. | https://github.com/charlotteVDD/neuroForest | 0 | 0| 
 | 20220603T11:08:20Z | Null | https://github.com/e4r23fd/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
 | 20220603T09:18:39Z | VMware Workspace ONE Access and Identity Manager RCE via SSTI. CVE-2022-22954 - PoC SSTI * exploit+payload+shodan (ну набором) | https://github.com/badboy-sft/CVE-2022-22954 | 0 | 0| 
