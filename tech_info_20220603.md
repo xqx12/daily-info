@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T12:21:46Z | This WebApp is an example tutorial. It exploits the AJAX technology in JavaScript through the use of the fetch function the API of the OpenWeatherMap REST services are called which returns data in JSON format that is printed on the web page. IMPORTANT: you must have your personal secret AppID Key, otherwise the WebApp doesn%t work. After registering on the site https://openweathermap.org, you will receive your personal secret key which you will need to paste into the JavaScript code. If your PC is connected to the internet, by typing the name of a location in the search bar, other useful information will be shown in addition to the temperature perceived in that location. | https://github.com/birg81/WhatzWeater | 0 | 0| 
 | 20220603T12:14:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2978 | 361| 
 | 20220603T11:50:24Z | Foraging video game to measure explore/exploit tradeoff. | https://github.com/charlotteVDD/neuroForest | 0 | 0| 
 | 20220603T11:08:20Z | Null | https://github.com/e4r23fd/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20220603T04:37:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 56 | 22| 
 | 20220603T01:33:21Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 27 | 8| 
 | 20220603T01:02:09Z | Python exploit for CVE-2011-2523 | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
-| 20220603T00:47:38Z | Null | https://github.com/codingcore1/-SILENT-DOC-EXPLOIT-CLEAN-h | 0 | 0| 
 
 
 # backdoor on Github 推荐
