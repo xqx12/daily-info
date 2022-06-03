@@ -72,6 +72,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T01:33:21Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 27 | 8| 
 | 20220603T01:02:09Z | Python exploit for CVE-2011-2523 | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
 | 20220603T00:47:38Z | Null | https://github.com/codingcore1/-SILENT-DOC-EXPLOIT-CLEAN-h | 0 | 0| 
 | 20220603T00:46:29Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-h | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20220602T21:42:48Z | Null | https://github.com/DarlezSec/RMS-v1.0-Exploit | 0 | 0| 
 | 20220602T21:28:33Z | Vulnerable functions and exploitation files | https://github.com/Djkusik/serverless_persistency_poc | 0 | 0| 
 | 20220602T20:38:30Z | This repository hosts the official code related to %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. arxiv:2206.00481, 2022. | https://github.com/guglielmocamporese/relvit | 2 | 0| 
-| 20220602T20:33:42Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 26 | 8| 
 
 
 # backdoor on Github 推荐

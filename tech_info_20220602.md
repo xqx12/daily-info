@@ -62,11 +62,11 @@
 | 20220602T21:42:48Z | Null | https://github.com/DarlezSec/RMS-v1.0-Exploit | 0 | 0| 
 | 20220602T21:28:33Z | Vulnerable functions and exploitation files | https://github.com/Djkusik/serverless_persistency_poc | 0 | 0| 
 | 20220602T20:38:30Z | This repository hosts the official code related to %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. arxiv:2206.00481, 2022. | https://github.com/guglielmocamporese/relvit | 2 | 0| 
-| 20220602T20:33:42Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 26 | 8| 
 | 20220602T19:39:10Z | my iOS applications for iOS 15.1 | https://github.com/eblair2/Ios15_exploits_POC | 0 | 0| 
 | 20220602T18:55:57Z | will be adding any exploits that I find and update them. if i see any of these exploits in a paid cheat i will rape you | https://github.com/plu1337/fortnite-exploits | 1 | 0| 
 | 20220602T18:29:33Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 219 | 863| 
 | 20220602T14:10:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11570 | 1978| 
+| 20220602T13:05:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2972 | 361| 
 
 
 # backdoor on Github 推荐
