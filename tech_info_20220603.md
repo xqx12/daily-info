@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220603T23:39:41Z | CVE-2022-26134 | Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220603T22:19:07Z | CVE-2022-26134 | CVE-2022-26134 - Confluence Pre-Auth RCE , OGNL injection | https://github.com/crowsec-edtech/CVE-2022-26134 | | 
 | 20220603T22:04:42Z | CVE-2022-26133 | Null | https://github.com/Trhackno/CVE-2022-26133 | | 
 | 20220603T19:13:09Z | CVE-2020-29597 | Null | https://github.com/Trhackno/CVE-2020-29597 | | 
@@ -27,6 +26,7 @@
 | 20220603T16:11:44Z | CVE-2022-26134 | Information and scripts for the confluence CVE-2022-26134 | https://github.com/offlinehoster/CVE-2022-26134 | | 
 | 20220603T16:06:38Z | CVE-2022-26134 | This repository contains Yara rule and the method that a security investigator may want to use for CVE-2022-26134 threat hunting on their Linux confluence servers. | https://github.com/th3b3ginn3r/CVE-2022-26134-Exploit-Detection-on-Linux | | 
 | 20220603T15:21:04Z | CVE-2022-30910 | Null | https://github.com/arozx/CVE-2022-30910 | | 
+| 20220603T14:19:17Z | CVE-2021-22054 | Generate SSRF payloads | https://github.com/MKSx/CVE-2021-22054 | | 
 
 
 # klee on Github 推荐
