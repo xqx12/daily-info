@@ -44,7 +44,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220604T11:58:09Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
+| 20220604T12:08:29Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220604T11:57:48Z | CVE-2021-3129 | CVE-2021-3129 | https://github.com/914525753/Laravel-CVE-2021-3129 | | 
 | 20220604T11:48:03Z | Cve-2022- | Null | https://github.com/e4r23fd/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220604T11:40:34Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
