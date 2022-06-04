@@ -126,13 +126,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220604T12:56:13Z | Functional Fuzzy Sets (FSet + Serapeum + Fiveam) | https://github.com/CirrusClouds/fuzzy | 0 | 0| 
 | 20220604T12:48:05Z | Null | https://github.com/Vansita2311/fuzzy-giggle | 0 | 0| 
 | 20220604T09:12:31Z | 各种漏洞的Fuzzing 会一直补充........ | https://github.com/L1we7enee/Dict | 0 | 0| 
 | 20220604T09:11:20Z | A template script for fuzzing Discord%s XSS filter. | https://github.com/kaeori/fuzzcord | 0 | 0| 
 | 20220604T07:22:31Z | Null | https://github.com/RitikaGarg-tech/fuzzy-guide | 0 | 0| 
 | 20220604T02:09:36Z | A quick ERC-20 tutorial with testing, fuzzing and more. | https://github.com/tesla809/erc-20-tutorial | 1 | 0| 
 | 20220603T23:40:23Z | Null | https://github.com/Debbie916/fuzzy-chainsaw | 0 | 0| 
-| 20220603T21:27:30Z | Functional Fuzzy Sets (Serapeum + Fiveam) | https://github.com/CirrusClouds/fuzzy | 0 | 0| 
 | 20220603T20:54:08Z | Null | https://github.com/bilazdev/fuzzy-image-enhancment | 0 | 0| 
 | 20220603T20:45:59Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 380 | 57| 
 | 20220603T20:26:39Z | Small but effective wordlist for brute-forcing and discovering hidden things. | https://github.com/tamimhasan404/Wordlist404 | 50 | 18| 
