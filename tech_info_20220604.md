@@ -13,6 +13,9 @@
 | --- | --- | ---| 
 | 20220604 | Tomcat CVE-2022-29885 | https://4ra1n.love/post/5zNrXSlvJ/| 
 | 20220604 | MITRE ATT&CK实践入门 | https://y1ng.org/2022/05/22/MITRE%20ATT&CK%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8/| 
+| 20220604 | ATT&CK矩阵的攻与防 | https://xz.aliyun.com/t/11347| 
+| 20220604 | bandit工具分析 | https://xz.aliyun.com/t/11341| 
+| 20220604 | 基于框架漏洞的代码审计实战 | https://xz.aliyun.com/t/11360| 
 
 
 # CVE Github 推荐

@@ -31,14 +31,14 @@
 | --- | --- | ---| 
 | 20220604 | Tomcat CVE-2022-29885 | https://4ra1n.love/post/5zNrXSlvJ/| 
 | 20220604 | MITRE ATT&CK实践入门 | https://y1ng.org/2022/05/22/MITRE%20ATT&CK%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8/| 
+| 20220604 | ATT&CK矩阵的攻与防 | https://xz.aliyun.com/t/11347| 
+| 20220604 | bandit工具分析 | https://xz.aliyun.com/t/11341| 
+| 20220604 | 基于框架漏洞的代码审计实战 | https://xz.aliyun.com/t/11360| 
 | 20220603 | Confluence漏洞攻击的WebShell已公开 | https://mp.weixin.qq.com/s/I0XOcfJF9vMlT7YuwnANHA| 
 | 20220602 | 重新定义SOAR | https://mp.weixin.qq.com/s/aiaCgFRjGifPhPfZ4_lrkQ| 
 | 20220602 | FirmSec-物联网固件中的第三方组件安全性研究 | https://mp.weixin.qq.com/s/s7JwCRrzvF5kFc8aNvQ5xg| 
 | 20220602 | CobaltStrike WebServer特征分析 | https://mp.weixin.qq.com/s/hNFVTRINKbBiOQiOf0WTMA| 
 | 20220602 | Fuzzm: 针对WebAssembly内存错误的模糊测试 | https://zhuanlan.zhihu.com/p/523207785| 
-| 20220602 | 兰德深度报告-美国商业太空能力与市场概述 | https://mp.weixin.qq.com/s/7aC8RHMil--jTRms9jMU1A| 
-| 20220601 | 蓝牙协议对汽车安全的影响研究报告 | https://hexhive.epfl.ch/publications/files/22WOOT.pdf| 
-| 20220601 | SCA的困境和出路 | https://mp.weixin.qq.com/s/pV-3IXKBKDJbDiBxmOpEOA| 
 
 
 # CVE Github 推荐
