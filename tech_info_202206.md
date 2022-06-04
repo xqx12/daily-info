@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220604T12:44:01Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 28 | 1| 
 | 20220604T12:30:06Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 225 | 28| 
 | 20220604T12:28:44Z | Patch for the Follina zero day exploit. | https://github.com/hereticerik/follina-patch | 0 | 0| 
 | 20220604T12:22:06Z | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20220604T11:22:55Z | This is a simple open source python script used for exploiting any android smartphones with a stable session by taking advantage of adb (USB debugging mode on). | https://github.com/utrax/phone | 0 | 0| 
 | 20220604T10:01:50Z | CBD is clearing the market on purpose. Also, this item is no special case. Most CBD recipes contain just around 100mg of CBD. In any case, this one has 10x that sum! Along these lines, when you use WholeLeaf CBD Oil, you%ll get alleviation from your distress in no time flat! At last, you can give back torment the boot, quiet your hustling psyche, and nod off the moment your head hits the cushion. CBD has various advantages for both the body and brain. Presently, you can exploit it with an exceptionally thought equation that retains rapidly to get you enough alleviation. Visit WholeLeaf CBD Oil (Gummies) USA Official Website, Know More Details & Order At Offer Cost. https://freetrailhealth.com/wholeleaf-cbd-oil-usa-united-states/ https://healthnsupplements.com/wholeleaf-cbd-oil-gummies-usa/ https://techplanet.today/post/wholeleaf-cbd-oil-gummies-reviews-price-for-sale-in-the-usa https://public.flourish.studio/story/1551272/ | https://github.com/wholeleaf74/wholeleaf74 | 0 | 0| 
 | 20220604T08:27:22Z | Null | https://github.com/nathanealm/PrintNightmare-Exploit | 0 | 0| 
-| 20220604T05:22:34Z | This repository contains Yara rule and the method that a security investigator may want to use for CVE-2022-26134 threat hunting on their Linux confluence servers. | https://github.com/th3b3ginn3r/CVE-2022-26134-Exploit-Detection | 0 | 0| 
 
 
 # backdoor on Github 推荐
