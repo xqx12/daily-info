@@ -16,6 +16,7 @@
 | 20220604 | ATT&CK矩阵的攻与防 | https://xz.aliyun.com/t/11347| 
 | 20220604 | bandit工具分析 | https://xz.aliyun.com/t/11341| 
 | 20220604 | 基于框架漏洞的代码审计实战 | https://xz.aliyun.com/t/11360| 
+| 20220604 | Awesome-Redteam: 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam| 
 
 
 # CVE Github 推荐

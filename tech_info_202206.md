@@ -34,11 +34,11 @@
 | 20220604 | ATT&CK矩阵的攻与防 | https://xz.aliyun.com/t/11347| 
 | 20220604 | bandit工具分析 | https://xz.aliyun.com/t/11341| 
 | 20220604 | 基于框架漏洞的代码审计实战 | https://xz.aliyun.com/t/11360| 
+| 20220604 | Awesome-Redteam: 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam| 
 | 20220603 | Confluence漏洞攻击的WebShell已公开 | https://mp.weixin.qq.com/s/I0XOcfJF9vMlT7YuwnANHA| 
 | 20220602 | 重新定义SOAR | https://mp.weixin.qq.com/s/aiaCgFRjGifPhPfZ4_lrkQ| 
 | 20220602 | FirmSec-物联网固件中的第三方组件安全性研究 | https://mp.weixin.qq.com/s/s7JwCRrzvF5kFc8aNvQ5xg| 
 | 20220602 | CobaltStrike WebServer特征分析 | https://mp.weixin.qq.com/s/hNFVTRINKbBiOQiOf0WTMA| 
-| 20220602 | Fuzzm: 针对WebAssembly内存错误的模糊测试 | https://zhuanlan.zhihu.com/p/523207785| 
 
 
 # CVE Github 推荐
