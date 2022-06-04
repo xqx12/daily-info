@@ -87,7 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220604T12:45:51Z | Null | https://github.com/Vansita2311/fuzzy-giggle | 0 | 0| 
+| 20220604T12:48:05Z | Null | https://github.com/Vansita2311/fuzzy-giggle | 0 | 0| 
 | 20220604T09:12:31Z | 各种漏洞的Fuzzing 会一直补充........ | https://github.com/L1we7enee/Dict | 0 | 0| 
 | 20220604T09:11:20Z | A template script for fuzzing Discord%s XSS filter. | https://github.com/kaeori/fuzzcord | 0 | 0| 
 | 20220604T07:22:31Z | Null | https://github.com/RitikaGarg-tech/fuzzy-guide | 0 | 0| 
