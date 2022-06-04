@@ -52,7 +52,7 @@
 | 20220603T20:01:15Z | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | 1 | 0| 
 | 20220603T19:55:06Z | Tools, shellcode and exploits I have created, shared with the community | https://github.com/Br0k3nS3c/H4ck_Th3_Pl4n3t | 0 | 0| 
 | 20220603T15:43:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
-| 20220603T14:09:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11574 | 1980| 
+| 20220603T12:28:39Z | Foraging video game to measure explore/exploit tradeoff. | https://github.com/charlotteVDD/neuroForest | 0 | 0| 
 
 
 # backdoor on Github 推荐
