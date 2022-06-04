@@ -23,16 +23,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220604T12:51:28Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
+| 20220604T13:12:48Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
+| 20220604T13:08:36Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
+| 20220604T13:06:10Z | CVE-2022-26134 | Null | https://github.com/Sakura-nee/CVE-2022-26134 | | 
 | 20220604T12:22:06Z | CVE-2022-26134 | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | | 
-| 20220604T12:16:27Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220604T11:57:48Z | CVE-2021-3129 | CVE-2021-3129 | https://github.com/914525753/Laravel-CVE-2021-3129 | | 
 | 20220604T11:48:03Z | Cve-2022- | Null | https://github.com/e4r23fd/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220604T11:32:36Z | CVE-2022-26133 | CVE-2022-26133 Exploit  | https://github.com/0xAbbarhSF/CVE-2022-26133 | | 
 | 20220604T11:25:46Z | CVE-2022-26134 | CVE-2022-26134 - Confluence Pre-Auth RCE , OGNL injection | https://github.com/crowsec-edtech/CVE-2022-26134 | | 
 | 20220604T11:01:28Z | CVE-2022-26134 | （CVE-2022-26134）an unauthenticated and remote OGNL injection vulnerability resulting in code execution in the context of the Confluence server | https://github.com/Brucetg/CVE-2022-26134 | | 
 | 20220604T09:19:52Z | CVE-2022-26134 | Null | https://github.com/kyxiaxiang/CVE-2022-26134 | | 
-| 20220604T05:22:34Z | CVE-2022-26134 | This repository contains Yara rule and the method that a security investigator may want to use for CVE-2022-26134 threat hunting on their Linux confluence servers. | https://github.com/th3b3ginn3r/CVE-2022-26134-Exploit-Detection | | 
 
 
 # klee on Github 推荐
@@ -88,8 +88,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220604T13:14:59Z | Null | https://github.com/Vansita2311/fuzzy-giggle | 0 | 0| 
+| 20220604T13:11:45Z | Null | https://github.com/MisterTeddy001/fuzzywuzzy | 0 | 0| 
+| 20220604T13:10:59Z | Null | https://github.com/janursa/fuzzyABM | 1 | 1| 
 | 20220604T12:56:13Z | Functional Fuzzy Sets (FSet + Serapeum + Fiveam) | https://github.com/CirrusClouds/fuzzy | 0 | 0| 
-| 20220604T12:48:05Z | Null | https://github.com/Vansita2311/fuzzy-giggle | 0 | 0| 
 | 20220604T09:12:31Z | 各种漏洞的Fuzzing 会一直补充........ | https://github.com/L1we7enee/Dict | 0 | 0| 
 | 20220604T09:11:20Z | A template script for fuzzing Discord%s XSS filter. | https://github.com/kaeori/fuzzcord | 0 | 0| 
 | 20220604T07:22:31Z | Null | https://github.com/RitikaGarg-tech/fuzzy-guide | 0 | 0| 
