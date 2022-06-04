@@ -44,6 +44,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220604T12:22:06Z | CVE-2022-26134 | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | | 
 | 20220604T12:16:27Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220604T12:08:29Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220604T11:57:48Z | CVE-2021-3129 | CVE-2021-3129 | https://github.com/914525753/Laravel-CVE-2021-3129 | | 
@@ -51,7 +52,6 @@
 | 20220604T11:32:36Z | CVE-2022-26133 | CVE-2022-26133 Exploit  | https://github.com/0xAbbarhSF/CVE-2022-26133 | | 
 | 20220604T11:25:46Z | CVE-2022-26134 | CVE-2022-26134 - Confluence Pre-Auth RCE , OGNL injection | https://github.com/crowsec-edtech/CVE-2022-26134 | | 
 | 20220604T11:01:28Z | CVE-2022-26134 | （CVE-2022-26134）an unauthenticated and remote OGNL injection vulnerability resulting in code execution in the context of the Confluence server | https://github.com/Brucetg/CVE-2022-26134 | | 
-| 20220604T10:55:00Z | CVE-2022-26134 | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | | 
 | 20220604T09:19:52Z | CVE-2022-26134 | Null | https://github.com/kyxiaxiang/CVE-2022-26134 | | 
 | 20220604T05:22:34Z | CVE-2022-26134 | This repository contains Yara rule and the method that a security investigator may want to use for CVE-2022-26134 threat hunting on their Linux confluence servers. | https://github.com/th3b3ginn3r/CVE-2022-26134-Exploit-Detection | | 
 
@@ -74,11 +74,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220604T12:22:06Z | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | 0 | 0| 
 | 20220604T11:48:03Z | Null | https://github.com/e4r23fd/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
 | 20220604T11:32:36Z | CVE-2022-26133 Exploit  | https://github.com/0xAbbarhSF/CVE-2022-26133 | 0 | 0| 
 | 20220604T11:25:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 431 | 123| 
 | 20220604T11:22:55Z | This is a simple open source python script used for exploiting any android smartphones with a stable session by taking advantage of adb (USB debugging mode on). | https://github.com/utrax/phone | 0 | 0| 
-| 20220604T10:55:00Z | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | 0 | 0| 
 | 20220604T10:36:18Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 224 | 28| 
 | 20220604T10:01:50Z | CBD is clearing the market on purpose. Also, this item is no special case. Most CBD recipes contain just around 100mg of CBD. In any case, this one has 10x that sum! Along these lines, when you use WholeLeaf CBD Oil, you%ll get alleviation from your distress in no time flat! At last, you can give back torment the boot, quiet your hustling psyche, and nod off the moment your head hits the cushion. CBD has various advantages for both the body and brain. Presently, you can exploit it with an exceptionally thought equation that retains rapidly to get you enough alleviation. Visit WholeLeaf CBD Oil (Gummies) USA Official Website, Know More Details & Order At Offer Cost. https://freetrailhealth.com/wholeleaf-cbd-oil-usa-united-states/ https://healthnsupplements.com/wholeleaf-cbd-oil-gummies-usa/ https://techplanet.today/post/wholeleaf-cbd-oil-gummies-reviews-price-for-sale-in-the-usa https://public.flourish.studio/story/1551272/ | https://github.com/wholeleaf74/wholeleaf74 | 0 | 0| 
 | 20220604T08:27:22Z | Null | https://github.com/nathanealm/PrintNightmare-Exploit | 0 | 0| 
