@@ -35,16 +35,16 @@
 | 20220604 | bandit工具分析 | https://xz.aliyun.com/t/11341| 
 | 20220604 | 基于框架漏洞的代码审计实战 | https://xz.aliyun.com/t/11360| 
 | 20220604 | Awesome-Redteam: 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam| 
+| 20220604 | 端口扫描技术实现分析 | https://www.anquanke.com/post/id/272878| 
 | 20220603 | Confluence漏洞攻击的WebShell已公开 | https://mp.weixin.qq.com/s/I0XOcfJF9vMlT7YuwnANHA| 
 | 20220602 | 重新定义SOAR | https://mp.weixin.qq.com/s/aiaCgFRjGifPhPfZ4_lrkQ| 
 | 20220602 | FirmSec-物联网固件中的第三方组件安全性研究 | https://mp.weixin.qq.com/s/s7JwCRrzvF5kFc8aNvQ5xg| 
-| 20220602 | CobaltStrike WebServer特征分析 | https://mp.weixin.qq.com/s/hNFVTRINKbBiOQiOf0WTMA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220604T12:33:54Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
+| 20220604T12:49:46Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220604T12:22:06Z | CVE-2022-26134 | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | | 
 | 20220604T12:16:27Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220604T11:57:48Z | CVE-2021-3129 | CVE-2021-3129 | https://github.com/914525753/Laravel-CVE-2021-3129 | | 
@@ -74,8 +74,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220604T12:50:09Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 226 | 28| 
 | 20220604T12:44:01Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 28 | 1| 
-| 20220604T12:30:06Z | 🚀 一款为了学习go而诞生的漏洞利用工具 | https://github.com/SummerSec/SpringExploit | 225 | 28| 
 | 20220604T12:28:44Z | Patch for the Follina zero day exploit. | https://github.com/hereticerik/follina-patch | 0 | 0| 
 | 20220604T12:22:06Z | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | 0 | 0| 
 | 20220604T11:48:03Z | Null | https://github.com/e4r23fd/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
