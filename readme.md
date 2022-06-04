@@ -60,7 +60,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220603T22:51:42Z | simple backdoor | https://github.com/RobertoLFRA/backdoor | 0 | 0| 
 | 20220603T21:24:04Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1652 | 395| 
-| 20220603T20:44:54Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 147 | 40| 
 | 20220603T18:29:31Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 1 | 0| 
 | 20220603T16:02:30Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1622 | 726| 
 | 20220603T15:43:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
@@ -68,6 +67,7 @@
 | 20220603T12:49:28Z | backdoor collection for tomcat. | https://github.com/manesec/JSPWebShellCollection | 0 | 0| 
 | 20220603T11:11:23Z | Tool to create backdoors | https://github.com/KobaWare/Deepsploit | 2 | 0| 
 | 20220603T08:58:39Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 55 | 8| 
+| 20220603T06:09:16Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 540 | 192| 
 
 
 # symbolic execution on Github 推荐
