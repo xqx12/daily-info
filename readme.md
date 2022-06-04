@@ -17,22 +17,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220603T12:56:08Z | CVE-2022-22965 | Null | https://github.com/Expl0desploit/CVE-2022-22965 | | 
-| 20220603T12:54:08Z | CVE-2022-26134 | mass exploitation tool for atlassian 0day rce | https://github.com/TomArni680/CVE-2022-26134-RCE | | 
-| 20220603T12:53:14Z | 未知编号 | Null | https://github.com/e4r23fd/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20220603T10:44:39Z | CVE-2022-26134 | Information and scripts for the confluence CVE-2022-26134 | https://github.com/offlinehoster/CVE-2022-26134 | | 
-| 20220603T10:38:51Z | CVE-2022-26134 | CVE-2022-26134  vuln domains | https://github.com/s0rtega/CVE-2022-26134_vuln | | 
-| 20220603T09:30:51Z | CVE-2022-26134 | 0-DAY: Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134). | https://github.com/CyberDonkyx0/CVE-2022-26134 | | 
-| 20220603T09:18:39Z | CVE-2022-22954 | VMware Workspace ONE Access and Identity Manager RCE via SSTI. CVE-2022-22954 - PoC SSTI * exploit+payload+shodan (ну набором) | https://github.com/badboy-sft/CVE-2022-22954 | | 
-| 20220603T08:52:08Z | CVE-2022-22954 | Null | https://github.com/orwagodfather/CVE-2022-22954 | | 
-| 20220603T08:00:59Z | CVE-2022-30190 | Follina POC by John Hammond | https://github.com/SrikeshMaharaj/CVE-2022-30190 | | 
-| 20220603T06:55:13Z | cve-2022-30190 | Powershell script to mitigate cve-2022-30190 | https://github.com/hilt86/cve-2022-30190-mitigate | | 
+| 20220603T23:39:41Z | CVE-2022-26134 | Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
+| 20220603T22:19:07Z | CVE-2022-26134 | CVE-2022-26134 - Confluence Pre-Auth RCE , OGNL injection | https://github.com/crowsec-edtech/CVE-2022-26134 | | 
+| 20220603T22:04:42Z | CVE-2022-26133 | Null | https://github.com/Trhackno/CVE-2022-26133 | | 
+| 20220603T19:13:09Z | CVE-2020-29597 | Null | https://github.com/Trhackno/CVE-2020-29597 | | 
+| 20220603T18:37:52Z | CVE-2022-26134 | CVE-2022-26134 ATLASIAN CONFULENCE UNAUTHETICATED RCE | https://github.com/oturu/CVE-2022-26134-POC | | 
+| 20220603T18:29:33Z | CVE-2022-22965 | Spring exploit (LIMITED COPIES) | https://github.com/Expl0desploit/CVE-2022-22965 | | 
+| 20220603T17:03:44Z | CVE-2021-4034 | Null | https://github.com/TanmoyG1800/CVE-2021-4034 | | 
+| 20220603T16:11:44Z | CVE-2022-26134 | Information and scripts for the confluence CVE-2022-26134 | https://github.com/offlinehoster/CVE-2022-26134 | | 
+| 20220603T16:06:38Z | CVE-2022-26134 | This repository contains Yara rule and the method that a security investigator may want to use for CVE-2022-26134 threat hunting on their Linux confluence servers. | https://github.com/th3b3ginn3r/CVE-2022-26134-Exploit-Detection-on-Linux | | 
+| 20220603T15:21:04Z | CVE-2022-30910 | Null | https://github.com/arozx/CVE-2022-30910 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220603T12:17:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6718 | 241| 
+| 20220603T18:02:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6725 | 241| 
+| 20220603T14:44:33Z | Repo for KLEE soils project: incubation/respiration data, soil C/N data, associated analyses | https://github.com/elizabethforbes/KLEEsoils_project | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -43,30 +44,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220603T12:28:39Z | Foraging video game to measure explore/exploit tradeoff. | https://github.com/charlotteVDD/neuroForest | 0 | 0| 
-| 20220603T12:24:22Z | This WebApp is an example tutorial. It exploits the AJAX technology in JavaScript through the use of the fetch function the API of the OpenWeatherMap REST services are called which returns data in JSON format that is printed on the web page. IMPORTANT: you must have your personal secret AppID Key, otherwise the WebApp doesn%t work. After registering on the site https://openweathermap.org, you will receive your personal secret key which you will need to paste into the JavaScript code. If your PC is connected to the internet, by typing the name of a location in the search bar, other useful information will be shown in addition to the temperature perceived in that location. | https://github.com/birg81/WhatzWeater | 0 | 0| 
-| 20220603T12:19:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11573 | 1980| 
-| 20220603T12:14:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2978 | 361| 
-| 20220603T11:08:20Z | Null | https://github.com/e4r23fd/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
-| 20220603T09:18:39Z | VMware Workspace ONE Access and Identity Manager RCE via SSTI. CVE-2022-22954 - PoC SSTI * exploit+payload+shodan (ну набором) | https://github.com/badboy-sft/CVE-2022-22954 | 0 | 0| 
-| 20220603T09:03:17Z | Exploits PS3, PS4 & PS5 | https://github.com/TheWizWikii/TheWizWikii.github.io | 59 | 16| 
-| 20220603T06:54:06Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 27 | 1| 
-| 20220603T04:37:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 56 | 22| 
-| 20220603T01:33:21Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroDiscord | 27 | 8| 
+| 20220603T23:47:10Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN8 | 0 | 0| 
+| 20220603T23:46:08Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN8 | 0 | 0| 
+| 20220603T23:45:19Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN8 | 0 | 0| 
+| 20220603T23:28:12Z | poptropica exploits | https://github.com/saa938/poptropica-exploits | 0 | 0| 
+| 20220603T22:09:32Z | Example of a trick exploiting generators to implement recursion that does not rely on hw call stack | https://github.com/MarkusSecundus/StacklessRecursionTrickExample | 0 | 0| 
+| 20220603T21:44:42Z | A ps3 exploit delivery system for rockbox firmware. | https://github.com/shuffle2/rockbox_psgroove | 8 | 3| 
+| 20220603T20:01:15Z | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | 1 | 0| 
+| 20220603T19:55:06Z | Tools, shellcode and exploits I have created, shared with the community | https://github.com/Br0k3nS3c/H4ck_Th3_Pl4n3t | 0 | 0| 
+| 20220603T15:43:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
+| 20220603T14:09:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11574 | 1980| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T22:51:42Z | simple backdoor | https://github.com/RobertoLFRA/backdoor | 0 | 0| 
+| 20220603T21:24:04Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1652 | 395| 
+| 20220603T20:44:54Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 147 | 40| 
+| 20220603T18:29:31Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 1 | 0| 
+| 20220603T16:02:30Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1622 | 726| 
+| 20220603T15:43:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
+| 20220603T15:42:40Z | Simple backdoor written in PHP | https://github.com/NullBrunk/PhpBindShell | 0 | 0| 
 | 20220603T12:49:28Z | backdoor collection for tomcat. | https://github.com/manesec/JSPWebShellCollection | 0 | 0| 
 | 20220603T11:11:23Z | Tool to create backdoors | https://github.com/KobaWare/Deepsploit | 2 | 0| 
 | 20220603T08:58:39Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 55 | 8| 
-| 20220603T06:09:16Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 540 | 192| 
-| 20220603T05:12:50Z | A Simple Backdoor | https://github.com/T0k1To/IaidoProject | 9 | 1| 
-| 20220603T03:16:56Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 0 | 0| 
-| 20220603T02:04:28Z | Testing a backdoor written in python and C | https://github.com/Trincazul/server-upd | 0 | 0| 
-| 20220603T01:56:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1651 | 395| 
-| 20220603T00:44:18Z | pybotnet -   A Python Library for building Botnet , Trojan or BackDoor for windows and linux with Telegram control panel  | https://github.com/onionj/pybotnet | 73 | 29| 
 
 
 # symbolic execution on Github 推荐
@@ -83,14 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220603T23:56:12Z | A quick ERC-20 tutorial with testing, fuzzing and more. | https://github.com/tesla809/erc-20-tutorial | 1 | 0| 
+| 20220603T23:40:23Z | Null | https://github.com/Debbie916/fuzzy-chainsaw | 0 | 0| 
+| 20220603T21:27:30Z | Functional Fuzzy Sets (Serapeum + Fiveam) | https://github.com/CirrusClouds/fuzzy | 0 | 0| 
+| 20220603T20:54:08Z | Null | https://github.com/bilazdev/fuzzy-image-enhancment | 0 | 0| 
+| 20220603T20:45:59Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 380 | 57| 
+| 20220603T19:19:18Z | Python Fuzzy Logic | https://github.com/boleang/fuzzynilaiakhir | 0 | 0| 
+| 20220603T17:22:28Z | Null | https://github.com/ballensans/fuzzy-octo-lamp | 0 | 0| 
+| 20220603T13:03:36Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 510 | 49| 
 | 20220603T10:33:35Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 582 | 68| 
 | 20220603T10:23:41Z | Null | https://github.com/Sasainakoto/fuzz | 0 | 0| 
-| 20220603T10:10:15Z | Null | https://github.com/MahabubRahaman/-CSE-4872-Fuzzy-Logic-and-Neural-Network | 0 | 0| 
-| 20220603T10:01:24Z | Null | https://github.com/saba-ramezani/fuzzy_inverse_pendulum | 0 | 0| 
-| 20220603T09:54:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7477 | 1598| 
-| 20220603T00:46:33Z | Null | https://github.com/Madison-Davis/Personal-AI-FuzzyLogic-AutomaticBreaking | 0 | 0| 
-| 20220603T00:46:07Z | Null | https://github.com/Madison-Davis/Personal-AI-FuzzyLogic-ACEfficiencySystem | 0 | 0| 
-| 20220603T00:14:38Z | Null | https://github.com/PranavS777/fuzzy-dollop | 0 | 0| 
 
 
 
