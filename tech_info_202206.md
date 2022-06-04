@@ -29,6 +29,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220604 | Tomcat CVE-2022-29885 | https://4ra1n.love/post/5zNrXSlvJ/| 
 | 20220603 | Confluence漏洞攻击的WebShell已公开 | https://mp.weixin.qq.com/s/I0XOcfJF9vMlT7YuwnANHA| 
 | 20220602 | 重新定义SOAR | https://mp.weixin.qq.com/s/aiaCgFRjGifPhPfZ4_lrkQ| 
 | 20220602 | FirmSec-物联网固件中的第三方组件安全性研究 | https://mp.weixin.qq.com/s/s7JwCRrzvF5kFc8aNvQ5xg| 
@@ -38,16 +39,15 @@
 | 20220601 | 蓝牙协议对汽车安全的影响研究报告 | https://hexhive.epfl.ch/publications/files/22WOOT.pdf| 
 | 20220601 | SCA的困境和出路 | https://mp.weixin.qq.com/s/pV-3IXKBKDJbDiBxmOpEOA| 
 | 20220601 | 图神经网络及认知推理总结和普及 | https://blog.csdn.net/Eastmount/article/details/125016409| 
-| 20220601 | SSL 指纹识别和绕过 | https://ares-x.com/2021/04/18/SSL-%E6%8C%87%E7%BA%B9%E8%AF%86%E5%88%AB%E5%92%8C%E7%BB%95%E8%BF%87/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220604T12:16:27Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220604T12:08:29Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220604T11:57:48Z | CVE-2021-3129 | CVE-2021-3129 | https://github.com/914525753/Laravel-CVE-2021-3129 | | 
 | 20220604T11:48:03Z | Cve-2022- | Null | https://github.com/e4r23fd/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20220604T11:40:34Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220604T11:32:36Z | CVE-2022-26133 | CVE-2022-26133 Exploit  | https://github.com/0xAbbarhSF/CVE-2022-26133 | | 
 | 20220604T11:25:46Z | CVE-2022-26134 | CVE-2022-26134 - Confluence Pre-Auth RCE , OGNL injection | https://github.com/crowsec-edtech/CVE-2022-26134 | | 
 | 20220604T11:01:28Z | CVE-2022-26134 | （CVE-2022-26134）an unauthenticated and remote OGNL injection vulnerability resulting in code execution in the context of the Confluence server | https://github.com/Brucetg/CVE-2022-26134 | | 
