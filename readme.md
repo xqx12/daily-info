@@ -93,11 +93,11 @@
 | 20220603T21:27:30Z | Functional Fuzzy Sets (Serapeum + Fiveam) | https://github.com/CirrusClouds/fuzzy | 0 | 0| 
 | 20220603T20:54:08Z | Null | https://github.com/bilazdev/fuzzy-image-enhancment | 0 | 0| 
 | 20220603T20:45:59Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 380 | 57| 
+| 20220603T20:26:39Z | Small but effective wordlist for brute-forcing and discovering hidden things. | https://github.com/tamimhasan404/Wordlist404 | 50 | 18| 
 | 20220603T19:19:18Z | Python Fuzzy Logic | https://github.com/boleang/fuzzynilaiakhir | 0 | 0| 
 | 20220603T17:22:28Z | Null | https://github.com/ballensans/fuzzy-octo-lamp | 0 | 0| 
 | 20220603T13:03:36Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 510 | 49| 
 | 20220603T10:33:35Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 582 | 68| 
-| 20220603T10:23:41Z | Null | https://github.com/Sasainakoto/fuzz | 0 | 0| 
 
 
 
