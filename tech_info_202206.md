@@ -73,6 +73,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220604T01:17:55Z | Writeups for Binary Exploitation challenges | https://github.com/yassine-chihi/CTF-Writeups | 0 | 0| 
 | 20220603T23:47:10Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN8 | 0 | 0| 
 | 20220603T23:46:08Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN8 | 0 | 0| 
 | 20220603T23:45:19Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN8 | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20220603T20:01:15Z | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | 1 | 0| 
 | 20220603T19:55:06Z | Tools, shellcode and exploits I have created, shared with the community | https://github.com/Br0k3nS3c/H4ck_Th3_Pl4n3t | 0 | 0| 
 | 20220603T15:43:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 0 | 0| 
-| 20220603T14:09:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11574 | 1980| 
 
 
 # backdoor on Github 推荐
