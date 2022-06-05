@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T01:22:39Z | Null | https://github.com/Fuzzyzilla/fuzz_gb | 0 | 0| 
 | 20220605T00:19:51Z | Fuzzy Potato theme for Hugo that displays individual comics as posts. | https://github.com/lauramosher/fuzzy-potato | 0 | 0| 
 | 20220605T00:03:31Z | Null | https://github.com/Bubuyson/Neural_network-and-fuzzy_PID-controllers | 0 | 0| 
 | 20220604T23:54:02Z | Null | https://github.com/tankist141091/fuzzy-giggle | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20220604T13:14:59Z | Null | https://github.com/Vansita2311/fuzzy-giggle | 0 | 0| 
 | 20220604T13:11:45Z | Null | https://github.com/MisterTeddy001/fuzzywuzzy | 0 | 0| 
 | 20220604T13:10:59Z | Null | https://github.com/janursa/fuzzyABM | 1 | 1| 
-| 20220604T12:56:13Z | Functional Fuzzy Sets (FSet + Serapeum + Fiveam) | https://github.com/CirrusClouds/fuzzy | 0 | 0| 
 
 
 
