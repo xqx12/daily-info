@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220605T12:36:43Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
+| 20220605T13:02:08Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220605T12:23:34Z | CVE-2022-26134 | Null | https://github.com/Vulnmachines/Confluence-CVE-2022-26134 | | 
 | 20220605T11:30:34Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220605T09:29:34Z | CVE-2022-26134 | Null | https://github.com/kyxiaxiang/CVE-2022-26134 | | 
@@ -28,7 +28,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220605T11:55:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6748 | 241| 
+| 20220605T12:58:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6749 | 241| 
 
 
 # s2e on Github 推荐
