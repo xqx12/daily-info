@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T10:13:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11579 | 1980| 
 | 20220605T09:36:43Z | Null | https://github.com/CosminSch/Cosm1n-Exploit | 0 | 0| 
 | 20220605T09:11:17Z | An advanced Pokétwo based exploit used for farming credits. | https://github.com/MaxMady/PokeShame | 0 | 0| 
 | 20220605T08:14:04Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | 18 | 6| 
@@ -83,7 +84,6 @@
 | 20220605T00:08:20Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220605T00:07:30Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220604T23:24:34Z | Public Exploits For Roblox | https://github.com/DuxV2/Roblox-Exploits | 0 | 0| 
-| 20220604T23:17:27Z | Null | https://github.com/StyxWebsiteBuild/Jupiter-Exploits-Backup | 0 | 0| 
 
 
 # backdoor on Github 推荐

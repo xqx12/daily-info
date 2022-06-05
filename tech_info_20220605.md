@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T10:13:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11579 | 1980| 
 | 20220605T09:36:43Z | Null | https://github.com/CosminSch/Cosm1n-Exploit | 0 | 0| 
 | 20220605T09:11:17Z | An advanced Pokétwo based exploit used for farming credits. | https://github.com/MaxMady/PokeShame | 0 | 0| 
 | 20220605T08:14:04Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | 18 | 6| 
