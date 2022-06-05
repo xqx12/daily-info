@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220605T12:36:43Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220605T12:23:34Z | CVE-2022-26134 | Null | https://github.com/Vulnmachines/Confluence-CVE-2022-26134 | | 
-| 20220605T11:49:40Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220605T11:30:34Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220605T09:29:34Z | CVE-2022-26134 | Null | https://github.com/kyxiaxiang/CVE-2022-26134 | | 
 | 20220605T08:54:30Z | CVE-2022-30190 | Null | https://github.com/tej7gandhi/CVE-2022-30190-Zero-Click-Zero-Day-in-msdt | | 
@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T12:43:32Z | Backdoor using java | https://github.com/Gaurav-J1/JavaBackdoor | 0 | 0| 
 | 20220605T11:05:04Z | Anotherrrr backdoor in python | https://github.com/Thehacker-arch/another_backdoor_python | 0 | 0| 
 | 20220605T11:02:42Z | A basic backdoor made in C. I am still learning C :) | https://github.com/Thehacker-arch/another_backdoor_C | 2 | 0| 
 | 20220605T10:22:15Z | Null | https://github.com/lehive8/Gel4y-Mini-Shell-Backdoor | 0 | 0| 
@@ -75,8 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T12:41:13Z | Rust Parser for static analysis + Pyo3 Bindgen + Fuzzing harnesses gen + Wheel Builder | https://github.com/zommiommy/moeche | 1 | 0| 
 | 20220605T11:58:30Z | A protoc plugin for `gofuzz` that generates fuzzing functions. | https://github.com/srikrsna/goprotofuzz | 0 | 0| 
-| 20220605T09:25:35Z | Rust Parser for static analysis + Pyo3 Bindgen + Fuzzing harnesses gen + Wheel Builder | https://github.com/zommiommy/moeche | 0 | 0| 
 | 20220605T07:23:09Z | 主题修改于https://github.com/TMaize/tmaize-blog | https://github.com/fuzz7j/fuzz7j.github.io | 0 | 0| 
 | 20220605T05:41:13Z | Null | https://github.com/pipperv/project_2_fuzzy | 0 | 0| 
 | 20220605T05:24:39Z | Solving Striver Sde Sheet in 60 Days Challenge | https://github.com/teesha809/fuzzy-sniffle | 0 | 0| 
