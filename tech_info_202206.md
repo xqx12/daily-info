@@ -74,6 +74,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T00:08:20Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-9 | 0 | 0| 
+| 20220605T00:07:30Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220604T23:24:34Z | Public Exploits For Roblox | https://github.com/DuxV2/Roblox-Exploits | 0 | 0| 
 | 20220604T23:17:27Z | Null | https://github.com/StyxWebsiteBuild/Jupiter-Exploits-Backup | 0 | 0| 
 | 20220604T22:50:09Z | Null | https://github.com/IVORYexec/The-W-Exploit | 0 | 0| 
@@ -82,8 +84,6 @@
 | 20220604T17:30:37Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 232 | 26| 
 | 20220604T15:48:47Z | MSDT %Follina% exploit **patched** | https://github.com/arozx/CVE-2022-30910 | 0 | 0| 
 | 20220604T14:57:49Z | Android Post Exploitation Framework in Python | https://github.com/xXP3RPL3Xx/ShellFish | 1 | 0| 
-| 20220604T13:27:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11576 | 1980| 
-| 20220604T12:58:48Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 120 | 28| 
 
 
 # backdoor on Github 推荐
