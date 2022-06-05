@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T12:57:17Z | Python3 exploit for OSVDB-69562  | https://github.com/NullBrunk/OSVDB-69562 | 0 | 0| 
 | 20220605T10:13:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11579 | 1980| 
 | 20220605T09:36:43Z | Null | https://github.com/CosminSch/Cosm1n-Exploit | 0 | 0| 
 | 20220605T09:11:17Z | An advanced Pokétwo based exploit used for farming credits. | https://github.com/MaxMady/PokeShame | 0 | 0| 
