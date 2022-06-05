@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T00:03:31Z | Null | https://github.com/Bubuyson/Neural_network-and-fuzzy_PID-controllers | 0 | 0| 
 | 20220604T23:54:02Z | Null | https://github.com/tankist141091/fuzzy-giggle | 0 | 0| 
 | 20220604T21:31:08Z | High performance fuzzing using riscv to x86 binary translations and modern fuzzing techniques | https://github.com/seal9055/sfuzz | 32 | 3| 
 | 20220604T17:07:16Z | Tugas Fuzzy Workshop AI | https://github.com/alvianavs/fuzzy_workshop_ai | 0 | 1| 
@@ -135,7 +136,6 @@
 | 20220604T13:10:59Z | Null | https://github.com/janursa/fuzzyABM | 1 | 1| 
 | 20220604T12:56:13Z | Functional Fuzzy Sets (FSet + Serapeum + Fiveam) | https://github.com/CirrusClouds/fuzzy | 0 | 0| 
 | 20220604T09:12:31Z | 各种漏洞的Fuzzing 会一直补充........ | https://github.com/L1we7enee/Dict | 0 | 0| 
-| 20220604T09:11:20Z | A template script for fuzzing Discord%s XSS filter. | https://github.com/kaeori/fuzzcord | 0 | 0| 
 
 
 
