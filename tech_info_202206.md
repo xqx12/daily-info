@@ -44,6 +44,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220605T12:23:34Z | CVE-2022-26134 | Null | https://github.com/Vulnmachines/Confluence-CVE-2022-26134 | | 
 | 20220605T11:49:40Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220605T11:30:34Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220605T09:29:34Z | CVE-2022-26134 | Null | https://github.com/kyxiaxiang/CVE-2022-26134 | | 
@@ -53,7 +54,6 @@
 | 20220604T21:22:37Z | CVE-2021-25076 | Wordpress Plugin WP User Frontend < 3.5.26 - SQL-Injection (Authenticated) | https://github.com/0xAbbarhSF/CVE-2021-25076 | | 
 | 20220604T21:10:11Z | CVE-2020-29607 | A file upload restriction bypass vulnerability in Pluck CMS before 4.7.13 allows an admin privileged user to gain access in the host through the "manage files" functionality, which may result in remote code execution. | https://github.com/0xAbbarhSF/CVE-2020-29607 | | 
 | 20220604T21:02:05Z | CVE-2022-24124 | Dump SQL database version on host running Casdoor < 1.13.1 | https://github.com/0xAbbarhSF/CVE-2022-24124 | | 
-| 20220604T17:46:33Z | CVE-2022-29464 | CVE-2022-29464 PoC for WSO2 products | https://github.com/jimidk/Better-CVE-2022-29464 | | 
 
 
 # klee on Github 推荐
