@@ -80,6 +80,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220604T20:13:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 551 | 95| 
 | 20220604T09:12:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2896 | 418| 
 | 20220604T04:39:22Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 430 | 22| 
 
