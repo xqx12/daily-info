@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T00:09:15Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220605T00:08:20Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220605T00:07:30Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220604T23:24:34Z | Public Exploits For Roblox | https://github.com/DuxV2/Roblox-Exploits | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20220604T18:16:41Z | This repo contains various python scripts I wrote while exploiting 32 bit Windows systems using stack based buffer overflow techniques. | https://github.com/dsneddon00/Win32BufferOverflowExploitationTools | 0 | 0| 
 | 20220604T17:30:37Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 232 | 26| 
 | 20220604T15:48:47Z | MSDT %Follina% exploit **patched** | https://github.com/arozx/CVE-2022-30910 | 0 | 0| 
-| 20220604T14:57:49Z | Android Post Exploitation Framework in Python | https://github.com/xXP3RPL3Xx/ShellFish | 1 | 0| 
 
 
 # backdoor on Github 推荐
