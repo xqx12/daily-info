@@ -44,7 +44,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220604T23:29:43Z | CVE-2022-30190 | Null | https://github.com/DerZiad/CVE-2022-30190 | | 
+| 20220605T00:28:06Z | CVE-2022-30190 | Null | https://github.com/DerZiad/CVE-2022-30190 | | 
 | 20220604T23:27:44Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220604T21:22:37Z | CVE-2021-25076 | Wordpress Plugin WP User Frontend < 3.5.26 - SQL-Injection (Authenticated) | https://github.com/0xAbbarhSF/CVE-2021-25076 | | 
 | 20220604T21:10:11Z | CVE-2020-29607 | A file upload restriction bypass vulnerability in Pluck CMS before 4.7.13 allows an admin privileged user to gain access in the host through the "manage files" functionality, which may result in remote code execution. | https://github.com/0xAbbarhSF/CVE-2020-29607 | | 
