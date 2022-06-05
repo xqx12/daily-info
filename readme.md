@@ -29,10 +29,10 @@
 | 20220604T21:02:05Z | CVE-2022-24124 | Dump SQL database version on host running Casdoor < 1.13.1 | https://github.com/0xAbbarhSF/CVE-2022-24124 | | 
 | 20220604T17:46:33Z | CVE-2022-29464 | CVE-2022-29464 PoC for WSO2 products | https://github.com/jimidk/Better-CVE-2022-29464 | | 
 | 20220604T17:07:22Z | CVE-2022-22978 | PoC of CVE-2022-22978 vulnerability in Spring Security framework | https://github.com/ducluongtran9121/CVE-2022-22978-PoC | | 
-| 20220604T16:38:25Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220604T15:48:47Z | CVE-2022-30910 | MSDT "Follina" exploit **patched** | https://github.com/arozx/CVE-2022-30910 | | 
 | 20220604T13:06:10Z | CVE-2022-26134 | Null | https://github.com/Sakura-nee/CVE-2022-26134 | | 
 | 20220604T12:22:06Z | CVE-2022-26134 | Confluence Server and Data Center - CVE-2022-26134 - Critical severity unauthenticated remote code execution vulnerability PoC | https://github.com/shamo0/CVE-2022-26134 | | 
+| 20220604T11:57:48Z | CVE-2021-3129 | CVE-2021-3129 | https://github.com/914525753/Laravel-CVE-2021-3129 | | 
 
 
 # klee on Github 推荐
