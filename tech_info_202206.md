@@ -44,22 +44,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220605T01:44:07Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
-| 20220605T00:40:42Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
+| 20220605T11:49:40Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
+| 20220605T11:30:34Z | CVE-2022-26134 | Confluence OGNL expression injected RCE(CVE-2022-26134) poc and exp | https://github.com/SNCKER/CVE-2022-26134 | | 
+| 20220605T09:29:34Z | CVE-2022-26134 | Null | https://github.com/kyxiaxiang/CVE-2022-26134 | | 
+| 20220605T08:54:30Z | CVE-2022-30190 | Null | https://github.com/tej7gandhi/CVE-2022-30190-Zero-Click-Zero-Day-in-msdt | | 
+| 20220605T03:48:21Z | 未知编号 | cve2022-26134 | https://github.com/0x14dli/cve2022-26134exp | | 
 | 20220605T00:28:06Z | CVE-2022-30190 | Null | https://github.com/DerZiad/CVE-2022-30190 | | 
 | 20220604T21:22:37Z | CVE-2021-25076 | Wordpress Plugin WP User Frontend < 3.5.26 - SQL-Injection (Authenticated) | https://github.com/0xAbbarhSF/CVE-2021-25076 | | 
 | 20220604T21:10:11Z | CVE-2020-29607 | A file upload restriction bypass vulnerability in Pluck CMS before 4.7.13 allows an admin privileged user to gain access in the host through the "manage files" functionality, which may result in remote code execution. | https://github.com/0xAbbarhSF/CVE-2020-29607 | | 
 | 20220604T21:02:05Z | CVE-2022-24124 | Dump SQL database version on host running Casdoor < 1.13.1 | https://github.com/0xAbbarhSF/CVE-2022-24124 | | 
 | 20220604T17:46:33Z | CVE-2022-29464 | CVE-2022-29464 PoC for WSO2 products | https://github.com/jimidk/Better-CVE-2022-29464 | | 
-| 20220604T17:07:22Z | CVE-2022-22978 | PoC of CVE-2022-22978 vulnerability in Spring Security framework | https://github.com/ducluongtran9121/CVE-2022-22978-PoC | | 
-| 20220604T15:48:47Z | CVE-2022-30910 | MSDT "Follina" exploit **patched** | https://github.com/arozx/CVE-2022-30910 | | 
-| 20220604T13:06:10Z | CVE-2022-26134 | Null | https://github.com/Sakura-nee/CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220604T22:41:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6741 | 241| 
+| 20220605T11:55:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6748 | 241| 
 | 20220604T08:49:34Z | Null | https://github.com/phamnhutduynguyen/klee | 0 | 0| 
 | 20220603T14:44:33Z | Repo for KLEE soils project: incubation/respiration data, soil C/N data, associated analyses | https://github.com/elizabethforbes/KLEEsoils_project | 0 | 0| 
 | 20220602T14:41:31Z | Null | https://github.com/ErickLauren12/LearningWithKlee | 0 | 0| 
@@ -74,31 +74,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T09:36:43Z | Null | https://github.com/CosminSch/Cosm1n-Exploit | 0 | 0| 
+| 20220605T09:11:17Z | An advanced Pokétwo based exploit used for farming credits. | https://github.com/MaxMady/PokeShame | 0 | 0| 
+| 20220605T08:14:04Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | 18 | 6| 
+| 20220605T04:13:45Z | Cyber security project | https://github.com/pritish-004/APT-GET-Vulnerability-exploit | 0 | 0| 
+| 20220605T03:42:53Z | Auto Raptor with Python  (Raptor See also: http://www.0xdeadbeef.info/exploits/raptor_udf.c ) | https://github.com/deen666/Auto-Raptor | 0 | 0| 
 | 20220605T00:09:15Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220605T00:08:20Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220605T00:07:30Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220604T23:24:34Z | Public Exploits For Roblox | https://github.com/DuxV2/Roblox-Exploits | 0 | 0| 
 | 20220604T23:17:27Z | Null | https://github.com/StyxWebsiteBuild/Jupiter-Exploits-Backup | 0 | 0| 
-| 20220604T22:50:09Z | Null | https://github.com/IVORYexec/The-W-Exploit | 0 | 0| 
-| 20220604T18:33:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9099 | 1511| 
-| 20220604T18:16:41Z | This repo contains various python scripts I wrote while exploiting 32 bit Windows systems using stack based buffer overflow techniques. | https://github.com/dsneddon00/Win32BufferOverflowExploitationTools | 0 | 0| 
-| 20220604T17:30:37Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 232 | 26| 
-| 20220604T15:48:47Z | MSDT %Follina% exploit **patched** | https://github.com/arozx/CVE-2022-30910 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T11:05:04Z | Anotherrrr backdoor in python | https://github.com/Thehacker-arch/another_backdoor_python | 0 | 0| 
+| 20220605T11:02:42Z | A basic backdoor made in C. I am still learning C :) | https://github.com/Thehacker-arch/another_backdoor_C | 2 | 0| 
+| 20220605T10:22:15Z | Null | https://github.com/lehive8/Gel4y-Mini-Shell-Backdoor | 0 | 0| 
+| 20220605T05:02:43Z | Null | https://github.com/ryukzgans/shell-backdoor | 0 | 0| 
+| 20220605T04:18:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 501 | 93| 
 | 20220604T22:23:11Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 63 | 10| 
 | 20220604T21:39:28Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1654 | 395| 
 | 20220604T20:05:25Z | 8888 Backdoor is a simple FiveM Backdoor | https://github.com/zImSkillz/8888-Backdoor-FiveM | 0 | 0| 
 | 20220604T19:01:23Z | This repository contains the code of backdoor which can be used to exploit victim%s machine ,we can download /upload /execute commands on victims machine from our machine . | https://github.com/zedxpace/backdoor_in_python | 1 | 0| 
 | 20220604T17:14:50Z | Simple backdoor written in PHP | https://github.com/NullBrunk/PhpBindShell | 0 | 0| 
-| 20220604T16:59:42Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 1 | 0| 
-| 20220604T13:16:45Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 153 | 41| 
-| 20220604T13:16:30Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1624 | 726| 
-| 20220604T11:32:11Z | Null | https://github.com/timberh789/BackdoorBitsAdmin | 0 | 0| 
-| 20220604T06:32:13Z | war backdoor collection for tomcat. | https://github.com/manesec/JSPWebShellCollection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220605T11:58:30Z | A protoc plugin for `gofuzz` that generates fuzzing functions. | https://github.com/srikrsna/goprotofuzz | 0 | 0| 
+| 20220605T09:25:35Z | Rust Parser for static analysis + Pyo3 Bindgen + Fuzzing harnesses gen + Wheel Builder | https://github.com/zommiommy/moeche | 0 | 0| 
+| 20220605T07:23:09Z | 主题修改于https://github.com/TMaize/tmaize-blog | https://github.com/fuzz7j/fuzz7j.github.io | 0 | 0| 
+| 20220605T05:41:13Z | Null | https://github.com/pipperv/project_2_fuzzy | 0 | 0| 
+| 20220605T05:24:39Z | Solving Striver Sde Sheet in 60 Days Challenge | https://github.com/teesha809/fuzzy-sniffle | 0 | 0| 
+| 20220605T04:59:54Z | IaC challenges  | https://github.com/ajejoseph22/fuzzy-octo-succotash | 0 | 0| 
+| 20220605T04:49:43Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
 | 20220605T01:22:39Z | Null | https://github.com/Fuzzyzilla/fuzz_gb | 0 | 0| 
 | 20220605T00:19:51Z | Fuzzy Potato theme for Hugo that displays individual comics as posts. | https://github.com/lauramosher/fuzzy-potato | 0 | 0| 
 | 20220605T00:03:31Z | Null | https://github.com/Bubuyson/Neural_network-and-fuzzy_PID-controllers | 0 | 0| 
-| 20220604T23:54:02Z | Null | https://github.com/tankist141091/fuzzy-giggle | 0 | 0| 
-| 20220604T21:31:08Z | High performance fuzzing using riscv to x86 binary translations and modern fuzzing techniques | https://github.com/seal9055/sfuzz | 32 | 3| 
-| 20220604T17:07:16Z | Tugas Fuzzy Workshop AI | https://github.com/alvianavs/fuzzy_workshop_ai | 0 | 1| 
-| 20220604T13:20:36Z | Null | https://github.com/bouncing-unicorn/fuzzy-wuzzy | 0 | 0| 
-| 20220604T13:14:59Z | Null | https://github.com/Vansita2311/fuzzy-giggle | 0 | 0| 
-| 20220604T13:11:45Z | Null | https://github.com/MisterTeddy001/fuzzywuzzy | 0 | 0| 
-| 20220604T13:10:59Z | Null | https://github.com/janursa/fuzzyABM | 1 | 1| 
 
 
 
