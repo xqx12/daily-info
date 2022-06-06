@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220606T00:55:35Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-- | 0 | 0| 
 | 20220606T00:54:34Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220606T00:52:56Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-- | 0 | 0| 
 | 20220606T00:28:00Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | 19 | 6| 
@@ -85,18 +86,17 @@
 | 20220605T17:41:43Z | A React App with Car API ,it facilitates the storage of information about repairs and exploitation your car | https://github.com/MateuszChmiest/YourServiceBook | 0 | 0| 
 | 20220605T17:30:28Z | Follina exploit | https://github.com/AngeLM046/Follina | 0 | 0| 
 | 20220605T16:24:17Z | Vulnerable Software to practice exploitation and secure coding practises | https://github.com/raging-loon/vulnerable-software | 0 | 0| 
-| 20220605T15:22:32Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 31 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220606T00:56:09Z | A basic backdoor made in C. I am still learning C :) | https://github.com/Thehacker-arch/another_backdoor_C | 3 | 0| 
 | 20220605T23:55:59Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 19 | 5| 
 | 20220605T16:52:32Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 155 | 42| 
 | 20220605T15:10:10Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 43 | 8| 
 | 20220605T12:45:15Z | Backdoor using java | https://github.com/Gaurav-J1/JavaBackdoor | 0 | 0| 
 | 20220605T11:05:04Z | Anotherrrr backdoor in python | https://github.com/Thehacker-arch/another_backdoor_python | 0 | 0| 
-| 20220605T11:02:42Z | A basic backdoor made in C. I am still learning C :) | https://github.com/Thehacker-arch/another_backdoor_C | 2 | 0| 
 | 20220605T10:22:15Z | Null | https://github.com/lehive8/Gel4y-Mini-Shell-Backdoor | 0 | 0| 
 | 20220605T05:02:43Z | Null | https://github.com/ryukzgans/shell-backdoor | 0 | 0| 
 | 20220605T04:18:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 501 | 93| 

@@ -65,7 +65,6 @@
 | 20220605T15:10:10Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 43 | 8| 
 | 20220605T12:45:15Z | Backdoor using java | https://github.com/Gaurav-J1/JavaBackdoor | 0 | 0| 
 | 20220605T11:05:04Z | Anotherrrr backdoor in python | https://github.com/Thehacker-arch/another_backdoor_python | 0 | 0| 
-| 20220605T11:02:42Z | A basic backdoor made in C. I am still learning C :) | https://github.com/Thehacker-arch/another_backdoor_C | 2 | 0| 
 | 20220605T10:22:15Z | Null | https://github.com/lehive8/Gel4y-Mini-Shell-Backdoor | 0 | 0| 
 | 20220605T05:02:43Z | Null | https://github.com/ryukzgans/shell-backdoor | 0 | 0| 
 | 20220605T04:18:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 501 | 93| 
