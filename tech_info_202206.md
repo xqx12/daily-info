@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220606T12:13:41Z | CVE-2021-0589 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | | 
 | 20220606T12:03:46Z | CVE-2022-30190 | The CVE-2022-30190-follina Workarounds Patch | https://github.com/suegdu/CVE-2022-30190-Follina-Patch | | 
 | 20220606T11:50:10Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220606T10:55:26Z | CVE-2022-30190 | Null | https://github.com/JMousqueton/PoC-CVE-2022-30190 | | 
@@ -55,7 +56,6 @@
 | 20220606T01:29:57Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/1rm/Confluence-CVE-2022-26134 | | 
 | 20220606T00:15:04Z | CVE-2021-35064 | Null | https://github.com/Trhackno/CVE-2021-35064 | | 
 | 20220605T22:17:32Z | CVE-2022-24713 | Proof of Concept/Test for CVE-2022-24713 on Ubuntu | https://github.com/ItzSwirlz/CVE-2022-24713-POC | | 
-| 20220605T20:38:15Z | CVE-2022-26134 | Null | https://github.com/abhishekmorla/CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
