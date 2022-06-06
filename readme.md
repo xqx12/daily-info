@@ -24,9 +24,9 @@
 | 20220605T18:58:15Z | CVE-2022-26134 | Null | https://github.com/0xAgun/CVE-2022-26134 | | 
 | 20220605T18:05:40Z | 未知编号 | Null | https://github.com/rodnt/CVE_2022_26134-detect | | 
 | 20220605T17:10:09Z | CVE-2020-24186 | Null | https://github.com/diurs/CVE-2020-24186-wordpress-wpDiscuz | | 
-| 20220605T13:56:20Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/1rm/Confluence-CVE-2022-26134 | | 
 | 20220605T13:55:38Z | CVE-2022-30190 | Null | https://github.com/ItsNee/Folina-CVE-2022-30190-POC | | 
 | 20220605T13:44:25Z | CVE-2022-26134 | Atlassian confluence poc | https://github.com/axingde/CVE-2022-26134 | | 
+| 20220605T12:23:34Z | CVE-2022-26134 | Null | https://github.com/Vulnmachines/Confluence-CVE-2022-26134 | | 
 
 
 # klee on Github 推荐

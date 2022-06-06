@@ -44,6 +44,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220606T01:29:57Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/1rm/Confluence-CVE-2022-26134 | | 
 | 20220606T01:12:31Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220606T00:15:04Z | CVE-2021-35064 | Null | https://github.com/Trhackno/CVE-2021-35064 | | 
 | 20220605T22:17:32Z | CVE-2022-24713 | Proof of Concept/Test for CVE-2022-24713 on Ubuntu | https://github.com/ItzSwirlz/CVE-2022-24713-POC | | 
@@ -53,7 +54,6 @@
 | 20220605T18:58:15Z | CVE-2022-26134 | Null | https://github.com/0xAgun/CVE-2022-26134 | | 
 | 20220605T18:05:40Z | 未知编号 | Null | https://github.com/rodnt/CVE_2022_26134-detect | | 
 | 20220605T17:10:09Z | CVE-2020-24186 | Null | https://github.com/diurs/CVE-2020-24186-wordpress-wpDiscuz | | 
-| 20220605T13:56:20Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/1rm/Confluence-CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
