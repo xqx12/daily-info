@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220606T12:54:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7295 | 1696| 
 | 20220606T11:50:42Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 806 | 128| 
 | 20220606T11:45:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11582 | 1981| 
 | 20220606T11:22:55Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 51 | 8| 
@@ -87,7 +88,6 @@
 | 20220606T09:39:07Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 148 | 31| 
 | 20220606T09:02:20Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | 24 | 7| 
 | 20220606T08:33:38Z | funny roblox exploit hub [WIP] | https://github.com/WifiRouterYT/RouterHub | 0 | 0| 
-| 20220606T07:14:56Z | Apk to exploit sieve vulnerability | https://github.com/abualialfatih23/ScanMyApps_v1.0 | 0 | 0| 
 
 
 # backdoor on Github 推荐
