@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220606T12:28:07Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220606T12:15:33Z | CVE-2021-0589 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | | 
 | 20220606T12:03:46Z | CVE-2022-30190 | The CVE-2022-30190-follina Workarounds Patch | https://github.com/suegdu/CVE-2022-30190-Follina-Patch | | 
-| 20220606T11:50:10Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220606T10:55:26Z | CVE-2022-30190 | Null | https://github.com/JMousqueton/PoC-CVE-2022-30190 | | 
 | 20220606T10:13:41Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
 | 20220606T07:42:08Z | CVE-2022-29622 | Challenge for you all to prove that CVE-2022–29622 is not false | https://github.com/keymandll/CVE-2022-29622 | | 
