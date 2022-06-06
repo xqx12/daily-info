@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220606T01:53:46Z | Null | https://github.com/TjayK/Exploit | 0 | 0| 
 | 20220606T00:55:35Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-- | 0 | 0| 
 | 20220606T00:54:34Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220606T00:52:56Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-- | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20220605T20:26:08Z | Null | https://github.com/Erquer/Log4J-exploit | 0 | 0| 
 | 20220605T17:41:43Z | A React App with Car API ,it facilitates the storage of information about repairs and exploitation your car | https://github.com/MateuszChmiest/YourServiceBook | 0 | 0| 
 | 20220605T17:30:28Z | Follina exploit | https://github.com/AngeLM046/Follina | 0 | 0| 
-| 20220605T16:24:17Z | Vulnerable Software to practice exploitation and secure coding practises | https://github.com/raging-loon/vulnerable-software | 0 | 0| 
 
 
 # backdoor on Github 推荐
