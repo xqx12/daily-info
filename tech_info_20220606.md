@@ -52,6 +52,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220606T11:50:42Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 806 | 128| 
+| 20220606T11:45:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11582 | 1981| 
 | 20220606T11:22:55Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 51 | 8| 
 | 20220606T11:21:10Z | ProNet is a signal manager that facilitates the connections between the Client and Server in Roblox. It allows you to create connections between the client and the server without having to manually create and manage remote events/remote functions, instead you can connect the client and the server by using case-sensitive named signals.  On top of this ProNet also allows you to add custom options to the connections to help you dealing with exploiters such as request limits on the signals and base64 encryption on both ways. | https://github.com/prooheckcp/ProNet | 0 | 0| 
 | 20220606T10:14:52Z |  Exploit in Rails Development Mode. With some knowledge of a target application it is possible for an attacker to guess the automatically generated development mode secret token. This secret token can be used in combination with other Rails internals to escalate to a remote code execution exploit. | https://github.com/PenTestical/CVE-2019-5420 | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20220606T09:02:20Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | 24 | 7| 
 | 20220606T08:33:38Z | funny roblox exploit hub [WIP] | https://github.com/WifiRouterYT/RouterHub | 0 | 0| 
 | 20220606T07:14:56Z | Apk to exploit sieve vulnerability | https://github.com/abualialfatih23/ScanMyApps_v1.0 | 0 | 0| 
-| 20220606T06:58:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 436 | 125| 
 
 
 # backdoor on Github 推荐
