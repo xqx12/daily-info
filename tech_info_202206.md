@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220606T00:52:56Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-- | 0 | 0| 
 | 20220606T00:28:00Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | 19 | 6| 
 | 20220605T22:46:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11581 | 1981| 
 | 20220605T21:01:07Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 49 | 8| 
@@ -85,7 +86,6 @@
 | 20220605T16:24:17Z | Vulnerable Software to practice exploitation and secure coding practises | https://github.com/raging-loon/vulnerable-software | 0 | 0| 
 | 20220605T15:22:32Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 31 | 1| 
 | 20220605T13:56:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 434 | 124| 
-| 20220605T12:57:17Z | Python3 exploit for OSVDB-69562  | https://github.com/NullBrunk/OSVDB-69562 | 0 | 0| 
 
 
 # backdoor on Github 推荐
