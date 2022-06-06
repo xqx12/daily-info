@@ -38,7 +38,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220606T06:58:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6757 | 241| 
+| 20220606T12:01:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6758 | 241| 
 
 
 # s2e on Github 推荐
@@ -73,7 +73,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220606T00:04:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2899 | 418| 
+| 20220606T10:32:45Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 552 | 95| 
+| 20220606T09:08:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2900 | 419| 
+| 20220606T03:24:12Z | Ethereum Virtual Machine (EVM) Bytecode or Solidity Smart Contract static analysis tool based on symbolic execution | https://github.com/nveloso/conkas | 32 | 6| 
 
 
 # big4 on Github 推荐
