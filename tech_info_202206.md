@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220606T23:56:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6763 | 242| 
+| 20220607T01:22:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6764 | 242| 
 | 20220606T19:32:42Z | Null | https://github.com/JUSTINCYBONIX23/kleerun | 0 | 0| 
 | 20220606T14:11:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1977 | 564| 
 | 20220605T14:19:12Z | Null | https://github.com/Klee2707/Klee | 0 | 0| 
@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220607T01:22:45Z | Collection of Exploits/Scripts I%ve written for HTB boxes. | https://github.com/The-Sleepyhead/HackTheBox | 0 | 0| 
 | 20220607T00:37:38Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-q | 0 | 0| 
 | 20220607T00:36:37Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-q | 0 | 0| 
 | 20220607T00:35:46Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-q | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20220606T21:54:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2993 | 362| 
 | 20220606T21:34:31Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 52 | 8| 
 | 20220606T19:51:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11583 | 1982| 
-| 20220606T19:34:45Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 3 | 0| 
 
 
 # backdoor on Github 推荐
