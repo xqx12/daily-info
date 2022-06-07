@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220607T12:02:52Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220607T11:55:37Z | CVE-2022-26134 | Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE)  | https://github.com/hab1b0x/CVE-2022-26134 | | 
 | 20220607T11:32:03Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
 | 20220607T11:23:43Z | CVE-2021-41773 | CVE-2021-41773 , Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks  | https://github.com/hab1b0x/CVE-2021-41773 | | 
-| 20220607T11:20:32Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220607T11:18:31Z | CVE-2022-26134 | Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection    | https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE | | 
 | 20220607T11:10:54Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220607T10:37:15Z | CVE-2022-26134 | CVE-2022-26134 Confluence OGNL Injection POC | https://github.com/alcaparra/CVE-2022-26134 | | 
@@ -79,7 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220607T11:54:51Z | Codes used in %Exploiting the mediating role of the metabolome to unravel transcript-to-phenotype associations% (bioRxiv 2022) | https://github.com/eleporcu/Gene_Metab_Pheno | 0 | 0| 
+| 20220607T12:01:24Z | Codes used in %Exploiting the mediating role of the metabolome to unravel transcript-to-phenotype associations% (Auwerx et al, bioRxiv 2022) | https://github.com/eleporcu/Gene_Metab_Pheno | 0 | 0| 
 | 20220607T11:41:34Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 5 | 0| 
 | 20220607T11:18:31Z | Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection    | https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE | 0 | 0| 
 | 20220607T11:02:27Z | GitOps Repository | https://github.com/psturc-org/build-suite-test-application-udoz-appstudio-e2e-test-exploit-relax | 0 | 0| 
@@ -109,14 +109,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220607T10:43:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2901 | 419| 
+| 20220607T09:13:21Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 4 | 0| 
 | 20220606T17:16:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 432 | 22| 
 | 20220606T14:11:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1977 | 564| 
 | 20220606T10:32:45Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 552 | 95| 
-| 20220606T09:08:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2900 | 419| 
 | 20220606T03:24:12Z | Ethereum Virtual Machine (EVM) Bytecode or Solidity Smart Contract static analysis tool based on symbolic execution | https://github.com/nveloso/conkas | 32 | 6| 
 | 20220603T20:31:13Z | Challenges for Symbolic Execution Workshop @ REcon | https://github.com/JannisKirschner/REcon-Workshop-Public | 3 | 1| 
 | 20220602T17:50:16Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 13 | 0| 
-| 20220602T16:10:34Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 3 | 0| 
 | 20220602T11:05:32Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
 | 20220602T04:27:39Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 16 | 3| 
 
