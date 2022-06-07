@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220607T00:43:46Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 111 | 14| 
 | 20220607T00:15:09Z | In this repository you can find a raw Fuzzy controller applied to a steam turbine, the input variables are temperature and pressure and the output variable is a displacement corresponding to a fuel injector actuator.  The input and output membership functions were established previously at the problem declaration so the controller can define the functions and use three types of inference functions to the fuzzification and defuzzification of the variables. | https://github.com/dandrue/FuzzyController | 0 | 0| 
 | 20220606T23:23:18Z | Null | https://github.com/evvok/fuzzy-telegram | 0 | 0| 
 | 20220606T21:28:15Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1621 | 185| 
@@ -141,7 +142,6 @@
 | 20220606T07:44:45Z | code | https://github.com/JOU-UIP/A-recurrent-neural-network-based-fuzzy-sliding-mode-control-for-4-DOF-ROV-movements | 0 | 0| 
 | 20220606T07:11:32Z | This is my personal the fuzzingbook studying record | https://github.com/YT-SUN97/fuzzingbook-studying-record | 0 | 0| 
 | 20220606T07:06:14Z | projekt za praksu | https://github.com/elizabetabeta/FuzzyPaws2 | 0 | 0| 
-| 20220606T06:56:15Z | Null | https://github.com/DMiC-Lab-HFUT/Fuzzy-Bayesian-knowledge-tracing | 0 | 0| 
 
 
 
