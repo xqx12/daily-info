@@ -99,11 +99,11 @@
 | 20220607T03:55:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 158 | 42| 
 | 20220606T17:32:59Z | [CVPR 2022] %Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free% by Tianlong Chen*, Zhenyu Zhang*, Yihua Zhang*, Shiyu Chang, Sijia Liu, and Zhangyang Wang | https://github.com/VITA-Group/Backdoor-LTH | 11 | 0| 
 | 20220606T14:52:36Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 156 | 42| 
+| 20220606T12:28:24Z | Null | https://github.com/THUYimingLi/BackdoorBox | 73 | 18| 
 | 20220606T10:22:18Z | Lyxos AntiBackdoor is a AntiBackdoor Script for FiveM. | https://github.com/zImSkillz/Lyxos-AntiBackdoor-FiveM | 0 | 0| 
 | 20220606T06:46:41Z | Backdoor malware for windows platform | https://github.com/Romulo-Moraes/Portal | 0 | 0| 
 | 20220606T05:21:58Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1625 | 727| 
 | 20220606T00:56:09Z | A basic backdoor made in C. I am still learning C :) | https://github.com/Thehacker-arch/another_backdoor_C | 3 | 0| 
-| 20220605T23:55:59Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 19 | 5| 
 
 
 # symbolic execution on Github 推荐
