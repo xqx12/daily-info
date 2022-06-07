@@ -15,6 +15,8 @@
 | 20220606 | Windows 版本 Bitdefender IPC 本地提权漏洞的分析 | https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream| 
 | 20220606 | Checkpoint 对紫光展锐 (UNISOC)基带芯片的安全研究 | http://research.checkpoint.com/2022/vulnerability-within-the-unisoc-baseband/| 
 | 20220606 | Fortinet 对 Office MSDT 漏洞及实际攻击样本的分析 | https://www.fortinet.com/blog/threat-research/analysis-of-follina-zero-day| 
+| 20220606 | Follina Microsoft Office RCE with MS-MSDT Protoco | http://paper.seebug.org/1911/| 
+| 20220606 | 域内特权提升 - 将 Certifried 与 KrbRelay 结合利用 | https://tttang.com/archive/1605/| 
 
 
 # 安全维基 推荐
@@ -26,21 +28,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220606T12:47:48Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
+| 20220606T23:47:32Z | CVE-2022-30190 | Null | https://github.com/JMousqueton/PoC-CVE-2022-30190 | | 
+| 20220606T18:06:21Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
+| 20220606T17:16:24Z | CVE-2022-26134 | Null | https://github.com/PsykoDev/CVE-2022-26134 | | 
+| 20220606T16:59:02Z | CVE-2022-30190 | Null | https://github.com/hscorpion/CVE-2022-30190 | | 
+| 20220606T15:59:14Z | CVE-2022-26134 | Null | https://github.com/abhishekmorla/CVE-2022-26134 | | 
+| 20220606T14:00:37Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape | https://github.com/greenhandatsjtu/CVE-2022-0847 | | 
 | 20220606T12:15:33Z | CVE-2021-0589 | Null | https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589 | | 
 | 20220606T12:03:46Z | CVE-2022-30190 | The CVE-2022-30190-follina Workarounds Patch | https://github.com/suegdu/CVE-2022-30190-Follina-Patch | | 
-| 20220606T10:55:26Z | CVE-2022-30190 | Null | https://github.com/JMousqueton/PoC-CVE-2022-30190 | | 
 | 20220606T10:13:41Z | CVE-2022-30190 | CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。 | https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed | | 
 | 20220606T07:42:08Z | CVE-2022-29622 | Challenge for you all to prove that CVE-2022–29622 is not false | https://github.com/keymandll/CVE-2022-29622 | | 
-| 20220606T02:45:13Z | CVE-2022-26134 | Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134) | https://github.com/h3v0x/CVE-2022-26134 | | 
-| 20220606T01:29:57Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/1rm/Confluence-CVE-2022-26134 | | 
-| 20220606T00:15:04Z | CVE-2021-35064 | Null | https://github.com/Trhackno/CVE-2021-35064 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220606T12:01:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6758 | 241| 
+| 20220606T23:56:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6763 | 242| 
+| 20220606T19:32:42Z | Null | https://github.com/JUSTINCYBONIX23/kleerun | 0 | 0| 
+| 20220606T14:11:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1977 | 564| 
 
 
 # s2e on Github 推荐
@@ -51,24 +56,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220606T23:49:40Z | Null | https://github.com/gh0stfaceee/binary-exploitation | 0 | 0| 
+| 20220606T23:40:38Z | A totally non-buggy and exploit free bridge between your Hypixel Guild chat and a Discord server | https://github.com/Overcast-Gaming/AlyBot | 0 | 0| 
+| 20220606T22:01:36Z | Null | https://github.com/TheREBLEX/version-exploit | 0 | 0| 
+| 20220606T21:54:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 2993 | 362| 
+| 20220606T21:34:31Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 52 | 8| 
+| 20220606T19:51:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11583 | 1982| 
+| 20220606T19:34:45Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 3 | 0| 
+| 20220606T19:25:52Z | Triage the content of this pcap and find the exploits. | https://github.com/KentonMcDaniel/TriageExample3 | 0 | 0| 
 | 20220606T12:54:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7295 | 1696| 
 | 20220606T11:50:42Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 806 | 128| 
-| 20220606T11:45:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11582 | 1981| 
-| 20220606T11:22:55Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 51 | 8| 
-| 20220606T11:21:10Z | ProNet is a signal manager that facilitates the connections between the Client and Server in Roblox. It allows you to create connections between the client and the server without having to manually create and manage remote events/remote functions, instead you can connect the client and the server by using case-sensitive named signals.  On top of this ProNet also allows you to add custom options to the connections to help you dealing with exploiters such as request limits on the signals and base64 encryption on both ways. | https://github.com/prooheckcp/ProNet | 0 | 0| 
-| 20220606T10:14:52Z |  Exploit in Rails Development Mode. With some knowledge of a target application it is possible for an attacker to guess the automatically generated development mode secret token. This secret token can be used in combination with other Rails internals to escalate to a remote code execution exploit. | https://github.com/PenTestical/CVE-2019-5420 | 0 | 0| 
-| 20220606T09:44:18Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 722 | 105| 
-| 20220606T09:39:07Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 148 | 31| 
-| 20220606T09:02:20Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134。 | https://github.com/W01fh4cker/Serein | 24 | 7| 
-| 20220606T08:33:38Z | funny roblox exploit hub [WIP] | https://github.com/WifiRouterYT/RouterHub | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220606T12:46:38Z | LKM Linux Rootkit | https://github.com/carloslack/KoviD | 45 | 9| 
+| 20220606T23:25:41Z | CaliforniaRP sans backdoor et sans trigger. | https://github.com/PotDeCannabis/californiarp | 0 | 0| 
+| 20220606T21:44:16Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 47 | 9| 
+| 20220606T17:32:59Z | [CVPR 2022] %Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free% by Tianlong Chen*, Zhenyu Zhang*, Yihua Zhang*, Shiyu Chang, Sijia Liu, and Zhangyang Wang | https://github.com/VITA-Group/Backdoor-LTH | 11 | 0| 
+| 20220606T14:52:36Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 156 | 42| 
 | 20220606T10:22:18Z | Lyxos AntiBackdoor is a AntiBackdoor Script for FiveM. | https://github.com/zImSkillz/Lyxos-AntiBackdoor-FiveM | 0 | 0| 
 | 20220606T06:46:41Z | Backdoor malware for windows platform | https://github.com/Romulo-Moraes/Portal | 0 | 0| 
+| 20220606T05:21:58Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1625 | 726| 
 | 20220606T00:56:09Z | A basic backdoor made in C. I am still learning C :) | https://github.com/Thehacker-arch/another_backdoor_C | 3 | 0| 
 
 
@@ -88,13 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220606T23:23:18Z | Null | https://github.com/evvok/fuzzy-telegram | 0 | 0| 
+| 20220606T21:28:15Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1621 | 185| 
+| 20220606T14:09:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7484 | 1600| 
+| 20220606T08:53:44Z | Register a weighted fuzzy search endpoint for Strapi Headless CMS you can add your content types to in no time | https://github.com/DomDew/strapi-plugin-fuzzy-search | 6 | 3| 
 | 20220606T07:57:40Z | Null | https://github.com/miapupu/fuzzy-invention | 0 | 0| 
 | 20220606T07:44:45Z | code | https://github.com/JOU-UIP/A-recurrent-neural-network-based-fuzzy-sliding-mode-control-for-4-DOF-ROV-movements | 0 | 0| 
 | 20220606T07:11:32Z | This is my personal the fuzzingbook studying record | https://github.com/YT-SUN97/fuzzingbook-studying-record | 0 | 0| 
 | 20220606T07:06:14Z | projekt za praksu | https://github.com/elizabetabeta/FuzzyPaws2 | 0 | 0| 
 | 20220606T06:56:15Z | Null | https://github.com/DMiC-Lab-HFUT/Fuzzy-Bayesian-knowledge-tracing | 0 | 0| 
 | 20220606T06:15:20Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1349 | 59| 
-| 20220606T02:40:44Z | Null | https://github.com/RayHong88866/AndroidFridaFuzzer | 0 | 0| 
 
 
 
