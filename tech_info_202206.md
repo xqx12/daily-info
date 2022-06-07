@@ -79,6 +79,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220607T00:37:38Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-q | 0 | 0| 
+| 20220607T00:36:37Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-q | 0 | 0| 
+| 20220607T00:35:46Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-q | 0 | 0| 
 | 20220606T23:49:40Z | Null | https://github.com/gh0stfaceee/binary-exploitation | 0 | 0| 
 | 20220606T23:40:38Z | A totally non-buggy and exploit free bridge between your Hypixel Guild chat and a Discord server | https://github.com/Overcast-Gaming/AlyBot | 0 | 0| 
 | 20220606T22:01:36Z | Null | https://github.com/TheREBLEX/version-exploit | 0 | 0| 
@@ -86,9 +89,6 @@
 | 20220606T21:34:31Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 52 | 8| 
 | 20220606T19:51:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11583 | 1982| 
 | 20220606T19:34:45Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 3 | 0| 
-| 20220606T19:25:52Z | Triage the content of this pcap and find the exploits. | https://github.com/KentonMcDaniel/TriageExample3 | 0 | 0| 
-| 20220606T12:54:14Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7295 | 1696| 
-| 20220606T11:50:42Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 806 | 128| 
 
 
 # backdoor on Github 推荐
