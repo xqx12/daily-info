@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220607T12:22:53Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
+| 20220607T12:27:42Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220607T11:55:37Z | CVE-2022-26134 | Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE)  | https://github.com/hab1b0x/CVE-2022-26134 | | 
 | 20220607T11:32:03Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
 | 20220607T11:23:43Z | CVE-2021-41773 | CVE-2021-41773 , Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks  | https://github.com/hab1b0x/CVE-2021-41773 | | 
@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220607T12:26:39Z | Folosind datele publice referitoare la incidente de securitate -- preluate, de exemplu, de la Web Application Exploits -- sa se realizeze un sistem capabil sa trimita alerte in timp-real despre noile vulnerabilitati software pentru o clasa de aplicatii (e.g., CMS, framework, modul, biblioteca etc.). Suplimentar, aplicatia va oferi pe baza unui API respectand paradigma REST diverse solutii -- precum sfaturi, rapoarte tehnice, ghiduri de programare defensiva, articole si altele -- vizand prevenirea si/sau eradicarea acestor incidente de securitate. Informatiile oferite vor fi disponibile in formate ca HTML, JSON si Atom. Bonus: recurgerea la un model si implementare publish/subscribe. | https://github.com/ionut270/CodeBt | 0 | 0| 
 | 20220607T12:01:24Z | Codes used in %Exploiting the mediating role of the metabolome to unravel transcript-to-phenotype associations% (Auwerx et al, bioRxiv 2022) | https://github.com/eleporcu/Gene_Metab_Pheno | 0 | 0| 
 | 20220607T11:41:34Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 5 | 0| 
 | 20220607T11:18:31Z | Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection    | https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20220607T09:47:56Z | Reference of code has been taken from https://github.com/JohnHammond/msdt-follina/blob/main/follina.py. I have given the explanation of the code and made the code a bit simplified. | https://github.com/AnshVaid4/FollinaTest | 0 | 0| 
 | 20220607T07:48:55Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1268 | 198| 
 | 20220607T07:45:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3122 | 461| 
-| 20220607T05:39:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 437 | 125| 
 
 
 # backdoor on Github 推荐
