@@ -79,9 +79,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220607T12:32:11Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 6 | 0| 
 | 20220607T12:26:39Z | Folosind datele publice referitoare la incidente de securitate -- preluate, de exemplu, de la Web Application Exploits -- sa se realizeze un sistem capabil sa trimita alerte in timp-real despre noile vulnerabilitati software pentru o clasa de aplicatii (e.g., CMS, framework, modul, biblioteca etc.). Suplimentar, aplicatia va oferi pe baza unui API respectand paradigma REST diverse solutii -- precum sfaturi, rapoarte tehnice, ghiduri de programare defensiva, articole si altele -- vizand prevenirea si/sau eradicarea acestor incidente de securitate. Informatiile oferite vor fi disponibile in formate ca HTML, JSON si Atom. Bonus: recurgerea la un model si implementare publish/subscribe. | https://github.com/ionut270/CodeBt | 0 | 0| 
 | 20220607T12:01:24Z | Codes used in %Exploiting the mediating role of the metabolome to unravel transcript-to-phenotype associations% (Auwerx et al, bioRxiv 2022) | https://github.com/eleporcu/Gene_Metab_Pheno | 0 | 0| 
-| 20220607T11:41:34Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 5 | 0| 
 | 20220607T11:18:31Z | Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection    | https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE | 0 | 0| 
 | 20220607T11:02:27Z | GitOps Repository | https://github.com/psturc-org/build-suite-test-application-udoz-appstudio-e2e-test-exploit-relax | 0 | 0| 
 | 20220607T11:01:13Z | MR beast best exploiting roblox hub | https://github.com/Lisso-lab/mrbeast-hub | 0 | 0| 
