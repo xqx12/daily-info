@@ -79,7 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220607T01:22:45Z | Collection of Exploits/Scripts I%ve written for HTB boxes. | https://github.com/The-Sleepyhead/HackTheBox | 0 | 0| 
+| 20220607T01:31:20Z | Collection of Exploits/Scripts I%ve written for HTB boxes. | https://github.com/The-Sleepyhead/HackTheBox | 0 | 0| 
 | 20220607T00:37:38Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-q | 0 | 0| 
 | 20220607T00:36:37Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-q | 0 | 0| 
 | 20220607T00:35:46Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-q | 0 | 0| 
@@ -94,7 +94,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220607T00:53:48Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 48 | 9| 
+| 20220607T01:31:15Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 47 | 9| 
 | 20220606T23:25:41Z | CaliforniaRP sans backdoor et sans trigger. | https://github.com/PotDeCannabis/californiarp | 0 | 0| 
 | 20220606T17:32:59Z | [CVPR 2022] %Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free% by Tianlong Chen*, Zhenyu Zhang*, Yihua Zhang*, Shiyu Chang, Sijia Liu, and Zhangyang Wang | https://github.com/VITA-Group/Backdoor-LTH | 11 | 0| 
 | 20220606T14:52:36Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 156 | 42| 
