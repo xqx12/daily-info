@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220607T00:54:42Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220606T23:47:32Z | CVE-2022-30190 | Null | https://github.com/JMousqueton/PoC-CVE-2022-30190 | | 
-| 20220606T18:06:21Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 | 20220606T17:16:24Z | CVE-2022-26134 | Null | https://github.com/PsykoDev/CVE-2022-26134 | | 
 | 20220606T16:59:02Z | CVE-2022-30190 | Null | https://github.com/hscorpion/CVE-2022-30190 | | 
 | 20220606T15:59:14Z | CVE-2022-26134 | Null | https://github.com/abhishekmorla/CVE-2022-26134 | | 
@@ -94,8 +94,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220607T00:53:48Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 48 | 9| 
 | 20220606T23:25:41Z | CaliforniaRP sans backdoor et sans trigger. | https://github.com/PotDeCannabis/californiarp | 0 | 0| 
-| 20220606T21:44:16Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 47 | 9| 
 | 20220606T17:32:59Z | [CVPR 2022] %Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free% by Tianlong Chen*, Zhenyu Zhang*, Yihua Zhang*, Shiyu Chang, Sijia Liu, and Zhangyang Wang | https://github.com/VITA-Group/Backdoor-LTH | 11 | 0| 
 | 20220606T14:52:36Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 156 | 42| 
 | 20220606T10:22:18Z | Lyxos AntiBackdoor is a AntiBackdoor Script for FiveM. | https://github.com/zImSkillz/Lyxos-AntiBackdoor-FiveM | 0 | 0| 
