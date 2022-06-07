@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220607T12:07:00Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
+| 20220607T12:22:53Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220607T11:55:37Z | CVE-2022-26134 | Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE)  | https://github.com/hab1b0x/CVE-2022-26134 | | 
 | 20220607T11:32:03Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
 | 20220607T11:23:43Z | CVE-2021-41773 | CVE-2021-41773 , Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks  | https://github.com/hab1b0x/CVE-2021-41773 | | 
