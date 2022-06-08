@@ -56,6 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220608T12:47:08Z | An ROBLOX Exploit | https://github.com/OfficialMemeHub/MemeHub | 0 | 0| 
+| 20220608T12:41:48Z | Development of a Secured Cloud-based Drive application Exploiting Web Technologies is sofiyullah abdullah final year project in partial fulfilment of the requirement for the award of Higher National Diploma Computer Engineering  submitted to department of  computer engineering , school of enginneering, Federal Polytechnic Ede, Osun State. Nigeria.  | https://github.com/Precioussoul/HBS-DRIVE | 1 | 0| 
 | 20220608T11:35:17Z | Thanks the Cruz and Samuel Tulach.  | https://github.com/Oliver-Dahlen/EFI-runtime-exploit-csgo | 0 | 0| 
 | 20220608T11:25:54Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4358 | 1533| 
 | 20220608T11:20:01Z | Remote exploiting tool | https://github.com/Virinas-code/remote-exploit | 0 | 0| 
@@ -64,8 +66,6 @@
 | 20220608T09:20:23Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 32 | 8| 
 | 20220608T09:19:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 438 | 125| 
 | 20220608T09:02:44Z | As demonstrated earlier in the buffer overflow example, Program crash can be very advantageous to a hacker.This exploit’s source code will be explained in depth later, but in general, it’s just generating a command string that will execute the note_search program with a command-line argument between single quotes. It uses string functions to do this: strlen() to get the current length of the string (to position the buffer pointer) and strcat() to concatenate the closing single quote to the end. Finally, the system function is used to execute the command string. The buffer that is generated between the single quotes is the real meat of the exploit. The rest is just a delivery method for this poison pill of data. Watch what a controlled crash can do in stack_based buffer overflow approach | https://github.com/PatrickOjiambo/exploit_notesearch.c | 0 | 0| 
-| 20220608T08:36:44Z | A Python 3 exploit. | https://github.com/Diicorp95/polyexemplar.py | 2 | 0| 
-| 20220608T08:11:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3010 | 365| 
 
 
 # backdoor on Github 推荐
