@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220608T01:56:29Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
+| 20220608T01:57:17Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220608T01:15:45Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
 | 20220608T01:09:28Z | CVE-2021-44228 | Proof of concept of the Log4Shell vulnerability (CVE-2021-44228) | https://github.com/jaehnri/CVE-2021-44228 | | 
 | 20220608T00:00:29Z | CVE-2022-30075 | PoC exploit for Tp-Link AX50 (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
@@ -95,6 +95,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220608T01:58:41Z | backdoor python rat | https://github.com/Vixeniscrazy/pythonRAT-main | 0 | 0| 
 | 20220608T01:52:33Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 159 | 42| 
 | 20220608T01:44:12Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 49 | 10| 
 | 20220607T21:52:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1627 | 727| 
@@ -104,7 +105,6 @@
 | 20220607T09:04:16Z | CaliforniaRP sans backdoor et sans trigger. | https://github.com/PotDeCannabis/californiarp | 1 | 0| 
 | 20220606T17:32:59Z | [CVPR 2022] %Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free% by Tianlong Chen*, Zhenyu Zhang*, Yihua Zhang*, Shiyu Chang, Sijia Liu, and Zhangyang Wang | https://github.com/VITA-Group/Backdoor-LTH | 11 | 0| 
 | 20220606T12:28:24Z | Null | https://github.com/THUYimingLi/BackdoorBox | 73 | 18| 
-| 20220606T10:22:18Z | Lyxos AntiBackdoor is a AntiBackdoor Script for FiveM. | https://github.com/zImSkillz/Lyxos-AntiBackdoor-FiveM | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
