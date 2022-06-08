@@ -79,7 +79,6 @@
 | 20220607T18:27:55Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 157 | 42| 
 | 20220607T18:01:59Z | A simple backdoor/reverse_shell program built w/ Socket | https://github.com/Abthon/Pydoor | 0 | 0| 
 | 20220607T16:28:06Z | [Virus] [Backdoors] Metamorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/D34TH | 0 | 0| 
-| 20220607T10:06:11Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 48 | 10| 
 | 20220607T09:04:16Z | CaliforniaRP sans backdoor et sans trigger. | https://github.com/PotDeCannabis/californiarp | 1 | 0| 
 | 20220607T03:55:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 158 | 42| 
 
