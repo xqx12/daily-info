@@ -36,7 +36,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220607T22:41:05Z | CVE-2022-26134 | Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE)  | https://github.com/hab1b0x/CVE-2022-26134 | | 
 | 20220607T22:36:32Z | CVE-2021-41773 | CVE-2021-41773 , Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks  | https://github.com/hab1b0x/CVE-2021-41773 | | 
-| 20220607T21:51:01Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
 | 20220607T21:11:53Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
 | 20220607T20:12:14Z | CVE-2022-26134 | Null | https://github.com/PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134 | | 
 | 20220607T17:16:40Z | CVE-2022-30190 | Microsoft Support Diagnostic Tool (CVE-2022-30190) | https://github.com/joshuavanderpoll/CVE-2022-30190 | | 
@@ -44,6 +43,7 @@
 | 20220607T16:42:36Z | CVE-2022-26134 | Null | https://github.com/Y000o/Confluence-CVE-2022-26134 | | 
 | 20220607T14:43:06Z | CVE-2022-26134 | Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection    | https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE | | 
 | 20220607T14:41:51Z | CVE-2022-26134 | Atlassian Confluence 远程代码执行漏洞（CVE-2022-26134） | https://github.com/li8u99/CVE-2022-26134 | | 
+| 20220607T12:59:15Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
 
 
 # klee on Github 推荐

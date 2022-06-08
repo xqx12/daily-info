@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220608T00:12:49Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
+| 20220608T00:27:16Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
+| 20220608T00:25:36Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220608T00:00:29Z | CVE-2022-30075 | PoC exploit for Tp-Link AX50 (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220607T22:41:05Z | CVE-2022-26134 | Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE)  | https://github.com/hab1b0x/CVE-2022-26134 | | 
 | 20220607T22:36:32Z | CVE-2021-41773 | CVE-2021-41773 , Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks  | https://github.com/hab1b0x/CVE-2021-41773 | | 
-| 20220607T21:51:01Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
 | 20220607T21:11:53Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
 | 20220607T20:12:14Z | CVE-2022-26134 | Null | https://github.com/PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134 | | 
 | 20220607T17:16:40Z | CVE-2022-30190 | Microsoft Support Diagnostic Tool (CVE-2022-30190) | https://github.com/joshuavanderpoll/CVE-2022-30190 | | 
