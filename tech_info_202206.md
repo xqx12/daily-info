@@ -14,6 +14,7 @@
 | 20220607 | Exploiting the Wii Us USB Descriptor parsing | https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html| 
 | 20220607 | CVE-2022-26134 Confluence OGNL RCE 漏洞深入分析和高版本绕过沙箱实现命令回显 | https://mp.weixin.qq.com/s/nCMtSD7QH8ai6fpurJBXTg| 
 | 20220607 | AntimalwareBlight - 滥用 Windows Early Launch Antimalware (ELAM) 的防护功能 | http://github.com/mattifestation/AntimalwareBlight| 
+| 20220607 | Boot drive encryption security on Windows | http://threedots.ovh/blog/2022/06/boot-drive-encryption-security-on-windows/| 
 | 20220606 | 2022, BSides Munich: Fuzzing USB with Raw Gadget | https://docs.google.com/presentation/d/1sArf2cN5tAOaovlaL3KBPNDjYOk8P6tRrzfkclsbO_c/edit?usp=sharing| 
 | 20220606 | Confluence 被曝未授权 RCE 漏洞 | https://www.rapid7.com/blog/post/2022/06/02/active-exploitation-of-confluence-cve-2022-26134/| 
 | 20220606 | ttddbg - 为 IDA 提供 Time Travel 调试能力的插件 | https://github.com/airbus-cert/ttddbg| 
@@ -25,7 +26,6 @@
 | 20220606 | Fortinet 对 Office MSDT 漏洞及实际攻击样本的分析 | https://www.fortinet.com/blog/threat-research/analysis-of-follina-zero-day| 
 | 20220606 | Follina Microsoft Office RCE with MS-MSDT Protoco | http://paper.seebug.org/1911/| 
 | 20220606 | 域内特权提升 - 将 Certifried 与 KrbRelay 结合利用 | https://tttang.com/archive/1605/| 
-| 20220602 | Spoofing Microsoft 365 Like It’s 1995 | https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/| 
 
 
 # 安全维基 推荐
@@ -38,30 +38,30 @@
 | 20220607 | 云上典型挖矿团伙浮沉 | https://mp.weixin.qq.com/s/pw9iMxU8wM7SGEReUsRNhQ| 
 | 20220607 | 星链的军事化应用 | https://mp.weixin.qq.com/s/NQA3UvzDB0wnKY-0mJCB0g| 
 | 20220607 | OT环境下IoT安全的破局探索 | /news/30408| 
+| 20220607 | 工业控制系统安全综述 | https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20211154#1| 
+| 20220607 | ​C-V2X安全研究 | https://mp.weixin.qq.com/s/ExecszAuGDXPa1ySysZ5xg| 
 | 20220606 | CVE-2022-30190漏洞的学习一 | https://mp.weixin.qq.com/s/wzdXRnYM0-5iN3tcZZnUWA| 
-| 20220605 | 在计算机领域的科研中，最初的创新点从何而来？ | https://www.zhihu.com/question/534444001| 
-| 20220604 | Tomcat CVE-2022-29885 | https://4ra1n.love/post/5zNrXSlvJ/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220607T12:59:15Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/Nwqda/CVE-2022-26134 | | 
-| 20220607T12:56:16Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
-| 20220607T12:49:35Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
-| 20220607T11:55:37Z | CVE-2022-26134 | Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE)  | https://github.com/hab1b0x/CVE-2022-26134 | | 
-| 20220607T11:23:43Z | CVE-2021-41773 | CVE-2021-41773 , Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks  | https://github.com/hab1b0x/CVE-2021-41773 | | 
-| 20220607T11:18:31Z | CVE-2022-26134 | Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection    | https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE | | 
-| 20220607T10:37:15Z | CVE-2022-26134 | CVE-2022-26134 Confluence OGNL Injection POC | https://github.com/alcaparra/CVE-2022-26134 | | 
-| 20220607T10:12:50Z | CVE-2022-30190 | Microsoft Support Diagnostic Tool (CVE-2022-30190) | https://github.com/joshuavanderpoll/CVE-2022-30190 | | 
-| 20220607T09:25:17Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape | https://github.com/greenhandatsjtu/CVE-2022-0847 | | 
-| 20220607T09:23:48Z | CVE-2022-26134 | Atlassian Confluence 远程代码执行漏洞（CVE-2022-26134） | https://github.com/li8u99/CVE-2022-26134 | | 
+| 20220608T00:00:29Z | CVE-2022-30075 | PoC exploit for Tp-Link AX50 (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
+| 20220607T22:41:05Z | CVE-2022-26134 | Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE)  | https://github.com/hab1b0x/CVE-2022-26134 | | 
+| 20220607T22:36:32Z | CVE-2021-41773 | CVE-2021-41773 , Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks  | https://github.com/hab1b0x/CVE-2021-41773 | | 
+| 20220607T21:51:01Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
+| 20220607T21:11:53Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
+| 20220607T20:12:14Z | CVE-2022-26134 | Null | https://github.com/PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134 | | 
+| 20220607T17:16:40Z | CVE-2022-30190 | Microsoft Support Diagnostic Tool (CVE-2022-30190) | https://github.com/joshuavanderpoll/CVE-2022-30190 | | 
+| 20220607T17:16:16Z | CVE-2020-0796 | CVE-2020-0796 explanation and researching vulnerability for term porject CENG325 | https://github.com/arzuozkan/CVE-2020-0796 | | 
+| 20220607T16:42:36Z | CVE-2022-26134 | Null | https://github.com/Y000o/Confluence-CVE-2022-26134 | | 
+| 20220607T16:24:02Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220607T09:50:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6768 | 242| 
+| 20220607T15:24:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6770 | 242| 
 | 20220606T19:32:42Z | Null | https://github.com/JUSTINCYBONIX23/kleerun | 0 | 0| 
 | 20220606T14:11:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1977 | 564| 
 | 20220605T14:19:12Z | Null | https://github.com/Klee2707/Klee | 0 | 0| 
@@ -74,6 +74,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220607T15:29:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 226 | 54| 
 
 
 # exploit on Github 推荐
@@ -94,16 +95,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220607T21:52:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1627 | 727| 
+| 20220607T18:27:55Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 157 | 42| 
+| 20220607T18:01:59Z | A simple backdoor/reverse_shell program built w/ Socket | https://github.com/Abthon/Pydoor | 0 | 0| 
+| 20220607T16:28:06Z | [Virus] [Backdoors] Metamorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/D34TH | 0 | 0| 
 | 20220607T10:06:11Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 48 | 10| 
 | 20220607T09:04:16Z | CaliforniaRP sans backdoor et sans trigger. | https://github.com/PotDeCannabis/californiarp | 1 | 0| 
 | 20220607T03:55:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 158 | 42| 
 | 20220606T17:32:59Z | [CVPR 2022] %Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free% by Tianlong Chen*, Zhenyu Zhang*, Yihua Zhang*, Shiyu Chang, Sijia Liu, and Zhangyang Wang | https://github.com/VITA-Group/Backdoor-LTH | 11 | 0| 
-| 20220606T14:52:36Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 156 | 42| 
 | 20220606T12:28:24Z | Null | https://github.com/THUYimingLi/BackdoorBox | 73 | 18| 
 | 20220606T10:22:18Z | Lyxos AntiBackdoor is a AntiBackdoor Script for FiveM. | https://github.com/zImSkillz/Lyxos-AntiBackdoor-FiveM | 0 | 0| 
-| 20220606T06:46:41Z | Backdoor malware for windows platform | https://github.com/Romulo-Moraes/Portal | 0 | 0| 
-| 20220606T05:21:58Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1625 | 727| 
-| 20220606T00:56:09Z | A basic backdoor made in C. I am still learning C :) | https://github.com/Thehacker-arch/another_backdoor_C | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
