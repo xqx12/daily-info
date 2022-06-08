@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220608T00:01:39Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220608T00:00:29Z | CVE-2022-30075 | PoC exploit for Tp-Link AX50 (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220607T22:41:05Z | CVE-2022-26134 | Atlassian Confluence- Unauthenticated OGNL injection vulnerability (RCE)  | https://github.com/hab1b0x/CVE-2022-26134 | | 
 | 20220607T22:36:32Z | CVE-2021-41773 | CVE-2021-41773 , Apache HTTP Server 2.4.49 is vulnerable to Path Traversal and Remote Code execution attacks  | https://github.com/hab1b0x/CVE-2021-41773 | | 
@@ -55,7 +56,6 @@
 | 20220607T17:16:40Z | CVE-2022-30190 | Microsoft Support Diagnostic Tool (CVE-2022-30190) | https://github.com/joshuavanderpoll/CVE-2022-30190 | | 
 | 20220607T17:16:16Z | CVE-2020-0796 | CVE-2020-0796 explanation and researching vulnerability for term porject CENG325 | https://github.com/arzuozkan/CVE-2020-0796 | | 
 | 20220607T16:42:36Z | CVE-2022-26134 | Null | https://github.com/Y000o/Confluence-CVE-2022-26134 | | 
-| 20220607T16:24:02Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 
 
 # klee on Github 推荐
@@ -80,16 +80,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220607T12:32:11Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 6 | 0| 
-| 20220607T12:26:39Z | Folosind datele publice referitoare la incidente de securitate -- preluate, de exemplu, de la Web Application Exploits -- sa se realizeze un sistem capabil sa trimita alerte in timp-real despre noile vulnerabilitati software pentru o clasa de aplicatii (e.g., CMS, framework, modul, biblioteca etc.). Suplimentar, aplicatia va oferi pe baza unui API respectand paradigma REST diverse solutii -- precum sfaturi, rapoarte tehnice, ghiduri de programare defensiva, articole si altele -- vizand prevenirea si/sau eradicarea acestor incidente de securitate. Informatiile oferite vor fi disponibile in formate ca HTML, JSON si Atom. Bonus: recurgerea la un model si implementare publish/subscribe. | https://github.com/ionut270/CodeBt | 0 | 0| 
-| 20220607T12:01:24Z | Codes used in %Exploiting the mediating role of the metabolome to unravel transcript-to-phenotype associations% (Auwerx et al, bioRxiv 2022) | https://github.com/eleporcu/Gene_Metab_Pheno | 0 | 0| 
-| 20220607T11:18:31Z | Exploit for CVE-2022-26134: Confluence Pre-Auth Remote Code Execution via OGNL Injection    | https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE | 0 | 0| 
-| 20220607T11:02:27Z | GitOps Repository | https://github.com/psturc-org/build-suite-test-application-udoz-appstudio-e2e-test-exploit-relax | 0 | 0| 
-| 20220607T11:01:13Z | MR beast best exploiting roblox hub | https://github.com/Lisso-lab/mrbeast-hub | 0 | 0| 
-| 20220607T09:59:32Z | A proof-of-concept of a Web application vulnerable to XSS, but applying different levels of Content-Security-Policy applied to prevent its exploitation. For educational purposes only! | https://github.com/Bone008/csp-demo | 0 | 1| 
-| 20220607T09:47:56Z | Reference of code has been taken from https://github.com/JohnHammond/msdt-follina/blob/main/follina.py. I have given the explanation of the code and made the code a bit simplified. | https://github.com/AnshVaid4/FollinaTest | 0 | 0| 
-| 20220607T07:48:55Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1268 | 198| 
-| 20220607T07:45:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3122 | 461| 
+| 20220608T00:00:29Z | PoC exploit for Tp-Link AX50 (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | 1 | 0| 
+| 20220607T23:54:04Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-. | 0 | 0| 
+| 20220607T23:53:04Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-. | 0 | 0| 
+| 20220607T23:51:54Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-. | 0 | 0| 
+| 20220607T23:46:04Z | detects and displays what common exploits have been installed | https://github.com/topitbopit/exploit-detector | 0 | 0| 
+| 20220607T23:02:48Z | Server to host/activate Follina payloads & generator of malicious Word documents exploiting the MS-MSDT protocol. (CVE-2022-30190) | https://github.com/dsibilio/follina-spring | 0 | 0| 
+| 20220607T22:34:54Z | Null | https://github.com/engineer213134/Web_Exploits- | 0 | 0| 
+| 20220607T21:00:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11582 | 1982| 
+| 20220607T18:11:01Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 8 | 0| 
+| 20220607T13:44:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 57 | 22| 
 
 
 # backdoor on Github 推荐
@@ -112,7 +112,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220607T10:43:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2901 | 419| 
 | 20220607T09:13:21Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 4 | 0| 
-| 20220606T17:16:14Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 432 | 22| 
+| 20220607T07:42:51Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 433 | 22| 
 | 20220606T14:11:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1977 | 564| 
 | 20220606T10:32:45Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 552 | 95| 
 | 20220606T03:24:12Z | Ethereum Virtual Machine (EVM) Bytecode or Solidity Smart Contract static analysis tool based on symbolic execution | https://github.com/nveloso/conkas | 32 | 6| 
