@@ -57,6 +57,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220608T11:35:17Z | Thanks the Cruz and Samuel Tulach.  | https://github.com/Oliver-Dahlen/EFI-runtime-exploit-csgo | 0 | 0| 
+| 20220608T11:25:54Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4358 | 1533| 
 | 20220608T11:20:01Z | Remote exploiting tool | https://github.com/Virinas-code/remote-exploit | 0 | 0| 
 | 20220608T11:20:00Z | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/OSVDB-69562 | 0 | 0| 
 | 20220608T10:50:00Z | Null | https://github.com/Julicraft44/Word-Zero_Day_Exploit_tests | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20220608T09:02:44Z | As demonstrated earlier in the buffer overflow example, Program crash can be very advantageous to a hacker.This exploit’s source code will be explained in depth later, but in general, it’s just generating a command string that will execute the note_search program with a command-line argument between single quotes. It uses string functions to do this: strlen() to get the current length of the string (to position the buffer pointer) and strcat() to concatenate the closing single quote to the end. Finally, the system function is used to execute the command string. The buffer that is generated between the single quotes is the real meat of the exploit. The rest is just a delivery method for this poison pill of data. Watch what a controlled crash can do in stack_based buffer overflow approach | https://github.com/PatrickOjiambo/exploit_notesearch.c | 0 | 0| 
 | 20220608T08:36:44Z | A Python 3 exploit. | https://github.com/Diicorp95/polyexemplar.py | 2 | 0| 
 | 20220608T08:11:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3010 | 365| 
-| 20220608T01:44:07Z | A collection of Revolt hacks, exploits & tools that is completely made using NodeJS. | https://github.com/OTAKKATO/ZeroRevolt | 0 | 0| 
 
 
 # backdoor on Github 推荐
