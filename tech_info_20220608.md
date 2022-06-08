@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220608T12:54:11Z | 퍼지 인공지능을 이용하여 당화혈색소와 탄수화물 섭취량에 따른 인슐린 투여량을 계산해준다  | https://github.com/ghrltjdtprbs/InsulinDose_Fuzzylogic | 0 | 0| 
 | 20220608T12:44:47Z | Null | https://github.com/Bylly123/fuzzy-octo-meme | 0 | 0| 
 | 20220608T12:19:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7489 | 1600| 
 | 20220608T12:03:05Z | Null | https://github.com/LedgerHQ/fuzzers-corpus | 0 | 0| 
