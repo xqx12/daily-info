@@ -112,6 +112,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220608T05:27:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 553 | 95| 
 | 20220608T02:10:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2902 | 419| 
+| 20220607T15:29:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 226 | 54| 
 | 20220607T09:13:21Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 4 | 0| 
 | 20220607T07:42:51Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 433 | 22| 
 | 20220606T14:11:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1977 | 564| 
@@ -119,7 +120,6 @@
 | 20220603T20:31:13Z | Challenges for Symbolic Execution Workshop @ REcon | https://github.com/JannisKirschner/REcon-Workshop-Public | 3 | 1| 
 | 20220602T17:50:16Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 13 | 0| 
 | 20220602T11:05:32Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
-| 20220602T04:27:39Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 16 | 3| 
 
 
 # big4 on Github 推荐
