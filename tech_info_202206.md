@@ -95,6 +95,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220608T12:25:19Z | Pytorch implementation of backdoor unlearning. | https://github.com/fmy266/Pytorch-Backdoor-Unlearning | 3 | 0| 
 | 20220608T11:20:00Z | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/OSVDB-69562 | 0 | 0| 
 | 20220608T08:38:22Z | A tool that can be used while working on the aws-auth ConfigMap within an EKS cluster in the event that there is a possibility of having access revoked | https://github.com/nutellinoit/eks-aws-auth-backdoor | 0 | 0| 
 | 20220608T05:49:25Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 2 | 1| 
@@ -104,7 +105,6 @@
 | 20220607T21:52:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1627 | 727| 
 | 20220607T18:27:55Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 157 | 42| 
 | 20220607T18:01:59Z | A simple backdoor/reverse_shell program built w/ Socket | https://github.com/Abthon/Pydoor | 0 | 0| 
-| 20220607T16:28:06Z | [Virus] [Backdoors] Metamorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/D34TH | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
