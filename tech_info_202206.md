@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220608T01:09:28Z | CVE-2021-44228 | Proof of concept of the Log4Shell vulnerability (CVE-2021-44228) | https://github.com/jaehnri/CVE-2021-44228 | | 
 | 20220608T01:05:24Z | CVE-2022-23222 | CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation | https://github.com/tr3ee/CVE-2022-23222 | | 
 | 20220608T01:04:56Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220608T00:00:29Z | CVE-2022-30075 | PoC exploit for Tp-Link AX50 (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
@@ -55,7 +56,6 @@
 | 20220607T20:12:14Z | CVE-2022-26134 | Null | https://github.com/PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134 | | 
 | 20220607T17:16:40Z | CVE-2022-30190 | Microsoft Support Diagnostic Tool (CVE-2022-30190) | https://github.com/joshuavanderpoll/CVE-2022-30190 | | 
 | 20220607T17:16:16Z | CVE-2020-0796 | CVE-2020-0796 explanation and researching vulnerability for term porject CENG325 | https://github.com/arzuozkan/CVE-2020-0796 | | 
-| 20220607T16:42:36Z | CVE-2022-26134 | Null | https://github.com/Y000o/Confluence-CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
