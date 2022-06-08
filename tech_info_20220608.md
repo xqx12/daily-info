@@ -71,9 +71,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220608T12:27:56Z | A tool that can be used while working on the aws-auth ConfigMap within an EKS cluster in the event that there is a possibility of having access revoked | https://github.com/nutellinoit/eks-aws-auth-backdoor | 0 | 0| 
 | 20220608T12:25:19Z | Pytorch implementation of backdoor unlearning. | https://github.com/fmy266/Pytorch-Backdoor-Unlearning | 3 | 0| 
 | 20220608T11:20:00Z | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/OSVDB-69562 | 0 | 0| 
-| 20220608T08:38:22Z | A tool that can be used while working on the aws-auth ConfigMap within an EKS cluster in the event that there is a possibility of having access revoked | https://github.com/nutellinoit/eks-aws-auth-backdoor | 0 | 0| 
 | 20220608T05:49:25Z | Python-based Backdoor. | https://github.com/Senc3951/Backdoor | 2 | 1| 
 | 20220608T02:00:30Z | backdoor python rat | https://github.com/Vixeniscrazy/pythonRAT-main | 1 | 0| 
 | 20220608T01:52:33Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 159 | 42| 
