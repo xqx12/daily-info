@@ -95,13 +95,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220608T01:52:33Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 159 | 42| 
 | 20220608T01:44:12Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 49 | 10| 
 | 20220607T21:52:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1627 | 727| 
 | 20220607T18:27:55Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 157 | 42| 
 | 20220607T18:01:59Z | A simple backdoor/reverse_shell program built w/ Socket | https://github.com/Abthon/Pydoor | 0 | 0| 
 | 20220607T16:28:06Z | [Virus] [Backdoors] Metamorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/D34TH | 0 | 0| 
 | 20220607T09:04:16Z | CaliforniaRP sans backdoor et sans trigger. | https://github.com/PotDeCannabis/californiarp | 1 | 0| 
-| 20220607T03:55:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 158 | 42| 
 | 20220606T17:32:59Z | [CVPR 2022] %Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free% by Tianlong Chen*, Zhenyu Zhang*, Yihua Zhang*, Shiyu Chang, Sijia Liu, and Zhangyang Wang | https://github.com/VITA-Group/Backdoor-LTH | 11 | 0| 
 | 20220606T12:28:24Z | Null | https://github.com/THUYimingLi/BackdoorBox | 73 | 18| 
 | 20220606T10:22:18Z | Lyxos AntiBackdoor is a AntiBackdoor Script for FiveM. | https://github.com/zImSkillz/Lyxos-AntiBackdoor-FiveM | 0 | 0| 

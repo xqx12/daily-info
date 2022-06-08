@@ -80,7 +80,6 @@
 | 20220607T18:01:59Z | A simple backdoor/reverse_shell program built w/ Socket | https://github.com/Abthon/Pydoor | 0 | 0| 
 | 20220607T16:28:06Z | [Virus] [Backdoors] Metamorphic self-replicating tagging virus with anti debugging features | https://github.com/SaltyMilk/D34TH | 0 | 0| 
 | 20220607T09:04:16Z | CaliforniaRP sans backdoor et sans trigger. | https://github.com/PotDeCannabis/californiarp | 1 | 0| 
-| 20220607T03:55:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 158 | 42| 
 
 
 # symbolic execution on Github 推荐
