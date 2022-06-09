@@ -38,10 +38,10 @@
 | 20220608T14:29:37Z | CVE-2022-30190 | Null | https://github.com/sentrium-security/Follina-Workaround-CVE-2022-30190 | | 
 | 20220608T12:48:10Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220608T11:28:19Z | CVE-2022-1609 | Null | https://github.com/Trhackno/CVE-2022-1609 | | 
-| 20220608T09:55:06Z | CVE-2022-22947 | Spring Cloud Gateway 远程代码执行漏洞 Spring_Cloud_Gateway_RCE_POC-CVE-2022-22947 | https://github.com/YDH777/CVE-2022-22947-POC | | 
 | 20220608T09:41:45Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
 | 20220608T09:20:13Z | CVE-2022-26134 | Null | https://github.com/Y000o/Confluence-CVE-2022-26134 | | 
 | 20220608T08:29:19Z | CVE-2020-0796 | Null | https://github.com/motherfucker12138/CVE-2020-0796_SMBGhost | | 
+| 20220608T07:56:43Z | CVE-2022-26134 | Null | https://github.com/hou5/CVE-2022-26134 | | 
 
 
 # klee on Github 推荐

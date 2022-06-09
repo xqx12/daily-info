@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220609T01:35:01Z | CVE-2022-22947 | 批量检测Spring Cloud Gateway 远程代码执行漏洞 Spring_Cloud_Gateway_RCE_POC-CVE-2022-22947 | https://github.com/YDH777/CVE-2022-22947-POC | | 
 | 20220609T00:54:13Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220608T20:01:26Z | CVE-2021-4034 | Exploit modificado para el tito Eu | https://github.com/CronoX1/CVE-2021-4034 | | 
 | 20220608T17:46:48Z | CVE-2022-26809 | writeup and poc for cve-2022-26809 | https://github.com/scoobydoobi/CVE-2022-26809-RCE-POC | | 
@@ -53,7 +54,6 @@
 | 20220608T14:29:37Z | CVE-2022-30190 | Null | https://github.com/sentrium-security/Follina-Workaround-CVE-2022-30190 | | 
 | 20220608T12:48:10Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 | 20220608T11:28:19Z | CVE-2022-1609 | Null | https://github.com/Trhackno/CVE-2022-1609 | | 
-| 20220608T09:55:06Z | CVE-2022-22947 | Spring Cloud Gateway 远程代码执行漏洞 Spring_Cloud_Gateway_RCE_POC-CVE-2022-22947 | https://github.com/YDH777/CVE-2022-22947-POC | | 
 | 20220608T09:41:45Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
 | 20220608T09:20:13Z | CVE-2022-26134 | Null | https://github.com/Y000o/Confluence-CVE-2022-26134 | | 
 
