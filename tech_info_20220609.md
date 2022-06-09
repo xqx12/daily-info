@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220609T12:24:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-appstudio-e2e-test-go-exploit | 0 | 0| 
 | 20220609T12:12:02Z | POC for some of the famous hacks | https://github.com/pratraut/exploit-practice | 0 | 0| 
 | 20220609T12:03:55Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 72 | 5| 
 | 20220609T11:51:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3020 | 367| 
@@ -61,7 +62,6 @@
 | 20220609T08:56:12Z | Null | https://github.com/RcsFormenos/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20220609T08:14:51Z | Zero-shot unsupervised image-to-image translation via exploiting semantic attributes. Image and Vision Computing, 2022. | https://github.com/cyq373/ZUNIT | 8 | 1| 
 | 20220609T07:23:45Z | This app is an advanced XSS panel, this is used for session grabbing with XSS exploit and <img src=%grabber_url%> | https://github.com/Inplex-sys/cookies-sniffer | 13 | 1| 
-| 20220609T05:32:24Z | N/A | https://github.com/GreenBoy657/Infecti0nExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
