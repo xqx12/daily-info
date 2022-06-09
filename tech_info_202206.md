@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220609T12:06:24Z | cve-2020-27955 | cve-2020-27955 | https://github.com/userxfan/cve-2020-27955 | | 
 | 20220609T12:05:23Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220609T09:04:24Z | CVE-2022-22947 | 批量检测Spring Cloud Gateway 远程代码执行漏洞 Spring_Cloud_Gateway_RCE_POC-CVE-2022-22947 | https://github.com/stayfoolish777/CVE-2022-22947-POC | | 
 | 20220609T08:02:12Z | CVE-2022-26134 | Null | https://github.com/hou5/CVE-2022-26134 | | 
@@ -55,7 +56,6 @@
 | 20220608T17:46:48Z | CVE-2022-26809 | writeup and poc for cve-2022-26809 | https://github.com/scoobydoobi/CVE-2022-26809-RCE-POC | | 
 | 20220608T16:27:20Z | CVE-2022-28132 | Null | https://github.com/alpernae/CVE-2022-28132 | | 
 | 20220608T14:29:37Z | CVE-2022-30190 | Null | https://github.com/sentrium-security/Follina-Workaround-CVE-2022-30190 | | 
-| 20220608T12:48:10Z | CVE-2022-26134 | Null | https://github.com/BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL | | 
 
 
 # klee on Github 推荐
@@ -127,9 +127,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220609T04:05:16Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 7 | 1| 
 | 20220606T17:03:28Z | Null | https://github.com/NDsVPN/NDsScript | 0 | 0| 
 | 20220604T03:02:22Z | test pf ndss | https://github.com/JordonNes/ndsstest | 0 | 0| 
-| 20220602T04:08:22Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 6 | 1| 
 
 
 # fuzz on Github 推荐
