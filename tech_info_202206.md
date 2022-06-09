@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220609T12:02:57Z | A fuzzing framework on Windows for my graduation project. | https://github.com/g3un/fdzz | 0 | 0| 
 | 20220609T10:52:05Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 248 | 41| 
 | 20220609T10:20:50Z | Нечёткая логика - Оценка вероятности выдачи кредитной карты | https://github.com/denis3079/fuzzy_logic | 0 | 0| 
 | 20220609T09:43:01Z | Fuzzer For Penetration Testing | https://github.com/fafsnords/FuzzTester | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20220609T03:41:33Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2522 | 489| 
 | 20220609T01:11:12Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2760 | 571| 
 | 20220608T23:19:01Z | Null | https://github.com/Nicolas6377/fuzzy-engine | 0 | 0| 
-| 20220608T23:09:05Z | Null | https://github.com/echeung17/fuzzy-robot | 0 | 0| 
 
 
 
