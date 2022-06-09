@@ -133,16 +133,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220609T01:11:12Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2760 | 571| 
 | 20220608T23:19:01Z | Null | https://github.com/Nicolas6377/fuzzy-engine | 0 | 0| 
 | 20220608T23:09:05Z | Null | https://github.com/echeung17/fuzzy-robot | 0 | 0| 
 | 20220608T22:43:22Z | Null | https://github.com/piotrekgkwinkler/fuzzy-guide | 1 | 0| 
-| 20220608T21:30:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7488 | 1603| 
+| 20220608T21:30:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7488 | 1604| 
 | 20220608T20:45:15Z | fuzzy inference system implementation on scnchronous machine dataset with java and jFuzzyLogic | https://github.com/guventuncay/synchronous-machine-fuzzy-inference-system | 0 | 0| 
 | 20220608T19:50:23Z | my first repositotory; my first demo | https://github.com/irulanCorrino/fuzzy-sinking-chair-of-vincent--Demo | 0 | 0| 
 | 20220608T12:54:11Z | 퍼지 인공지능을 이용하여 당화혈색소와 탄수화물 섭취량에 따른 인슐린 투여량을 계산해준다  | https://github.com/ghrltjdtprbs/InsulinDose_Fuzzylogic | 0 | 0| 
 | 20220608T12:44:47Z | Null | https://github.com/Bylly123/fuzzy-octo-meme | 0 | 0| 
 | 20220608T12:03:05Z | Null | https://github.com/LedgerHQ/fuzzers-corpus | 0 | 0| 
-| 20220608T10:34:04Z | RULES FROM NUMERIC DATA | https://github.com/ml-kl-23/FuzzyRulesFromData | 0 | 0| 
 
 
 
