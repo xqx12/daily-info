@@ -80,6 +80,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220609T01:05:49Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.. | 0 | 0| 
+| 20220609T01:04:52Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.. | 0 | 0| 
 | 20220609T00:42:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11589 | 1986| 
 | 20220608T23:57:27Z | Open-Source exploit for roblox (Lua Executor, also, pls note that code on repository will never be updated, only releases will have the updated version.) | https://github.com/Obesto/CryT | 0 | 0| 
 | 20220608T23:30:59Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9115 | 1512| 
@@ -88,8 +90,6 @@
 | 20220608T19:40:41Z | Null | https://github.com/ErenRip/EXPLOIT-Arama | 0 | 0| 
 | 20220608T18:57:30Z | Sha Hub Exploit | https://github.com/ShaFrmFTO/Sha-Hub | 0 | 0| 
 | 20220608T17:06:22Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 53 | 8| 
-| 20220608T17:04:49Z | Basic scripts for Synapse X, Script-Ware & similar exploits. | https://github.com/shawnjbragdon-0/utilities | 0 | 0| 
-| 20220608T12:57:21Z | Pwnbolt is a lightweight brwoser exploit tool to inject JS | https://github.com/SysKeyyy/Pwnbolt | 0 | 0| 
 
 
 # backdoor on Github 推荐
