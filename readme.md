@@ -54,14 +54,14 @@
 | --- | --- | --- | --- | ---| 
 | 20220609T12:32:10Z | POC for some of the famous hacks | https://github.com/pratraut/exploit-practice | 0 | 0| 
 | 20220609T12:24:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-appstudio-e2e-test-go-exploit | 0 | 0| 
+| 20220609T12:12:37Z | Automated privilege escalation of the world%s most popular Docker images. | https://github.com/trickest/containers | 18 | 0| 
 | 20220609T12:03:55Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 72 | 5| 
 | 20220609T11:51:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3020 | 367| 
 | 20220609T11:12:55Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 54 | 8| 
+| 20220609T10:28:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11592 | 1986| 
 | 20220609T09:58:55Z | Descargas de juarra | https://github.com/academiatorralba/exploit | 0 | 0| 
 | 20220609T09:43:03Z | Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190) | https://github.com/Hrishikesh7665/Follina_Exploiter_CLI | 0 | 0| 
 | 20220609T08:56:12Z | Null | https://github.com/RcsFormenos/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
-| 20220609T08:14:51Z | Zero-shot unsupervised image-to-image translation via exploiting semantic attributes. Image and Vision Computing, 2022. | https://github.com/cyq373/ZUNIT | 8 | 1| 
-| 20220609T07:23:45Z | This app is an advanced XSS panel, this is used for session grabbing with XSS exploit and <img src=%grabber_url%> | https://github.com/Inplex-sys/cookies-sniffer | 13 | 1| 
 
 
 # backdoor on Github 推荐
