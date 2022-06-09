@@ -82,8 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220609T12:32:10Z | POC for some of the famous hacks | https://github.com/pratraut/exploit-practice | 0 | 0| 
 | 20220609T12:24:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-appstudio-e2e-test-go-exploit | 0 | 0| 
-| 20220609T12:12:02Z | POC for some of the famous hacks | https://github.com/pratraut/exploit-practice | 0 | 0| 
 | 20220609T12:03:55Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 72 | 5| 
 | 20220609T11:51:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3020 | 367| 
 | 20220609T11:12:55Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 54 | 8| 
