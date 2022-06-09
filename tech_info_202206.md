@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220609T11:47:13Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
+| 20220609T12:05:23Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220609T09:04:24Z | CVE-2022-22947 | 批量检测Spring Cloud Gateway 远程代码执行漏洞 Spring_Cloud_Gateway_RCE_POC-CVE-2022-22947 | https://github.com/stayfoolish777/CVE-2022-22947-POC | | 
 | 20220609T08:02:12Z | CVE-2022-26134 | Null | https://github.com/hou5/CVE-2022-26134 | | 
 | 20220609T05:05:41Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/cai-niao98/CVE-2022-26134 | | 
@@ -82,9 +82,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220609T12:03:55Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 72 | 5| 
 | 20220609T11:51:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3020 | 367| 
 | 20220609T11:12:55Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 54 | 8| 
-| 20220609T11:06:45Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 71 | 5| 
 | 20220609T09:58:55Z | Descargas de juarra | https://github.com/academiatorralba/exploit | 0 | 0| 
 | 20220609T09:43:03Z | Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190) | https://github.com/Hrishikesh7665/Follina_Exploiter_CLI | 0 | 0| 
 | 20220609T08:56:12Z | Null | https://github.com/RcsFormenos/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
@@ -112,16 +112,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220608T15:57:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2904 | 419| 
-| 20220608T05:27:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 553 | 95| 
+| 20220609T09:38:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2905 | 419| 
+| 20220609T08:41:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1979 | 564| 
+| 20220609T05:29:51Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 1 | 1| 
+| 20220609T03:42:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 552 | 95| 
 | 20220607T15:29:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 226 | 54| 
 | 20220607T09:13:21Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 4 | 0| 
 | 20220607T07:42:51Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 433 | 22| 
-| 20220606T14:11:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1977 | 564| 
 | 20220606T03:24:12Z | Ethereum Virtual Machine (EVM) Bytecode or Solidity Smart Contract static analysis tool based on symbolic execution | https://github.com/nveloso/conkas | 32 | 6| 
 | 20220603T20:31:13Z | Challenges for Symbolic Execution Workshop @ REcon | https://github.com/JannisKirschner/REcon-Workshop-Public | 3 | 1| 
 | 20220602T17:50:16Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 13 | 0| 
-| 20220602T11:05:32Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
 
 
 # big4 on Github 推荐
