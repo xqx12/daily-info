@@ -32,7 +32,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220608T21:02:23Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220608T20:01:26Z | CVE-2021-4034 | Exploit modificado para el tito Eu | https://github.com/CronoX1/CVE-2021-4034 | | 
 | 20220608T17:46:48Z | CVE-2022-26809 | writeup and poc for cve-2022-26809 | https://github.com/scoobydoobi/CVE-2022-26809-RCE-POC | | 
 | 20220608T16:27:20Z | CVE-2022-28132 | Null | https://github.com/alpernae/CVE-2022-28132 | | 
@@ -42,6 +41,7 @@
 | 20220608T09:55:06Z | CVE-2022-22947 | Spring Cloud Gateway 远程代码执行漏洞 Spring_Cloud_Gateway_RCE_POC-CVE-2022-22947 | https://github.com/YDH777/CVE-2022-22947-POC | | 
 | 20220608T09:41:45Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
 | 20220608T09:20:13Z | CVE-2022-26134 | Null | https://github.com/Y000o/Confluence-CVE-2022-26134 | | 
+| 20220608T08:29:19Z | CVE-2020-0796 | Null | https://github.com/motherfucker12138/CVE-2020-0796_SMBGhost | | 
 
 
 # klee on Github 推荐

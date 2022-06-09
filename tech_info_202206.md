@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220608T21:02:23Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
+| 20220609T00:54:13Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220608T20:01:26Z | CVE-2021-4034 | Exploit modificado para el tito Eu | https://github.com/CronoX1/CVE-2021-4034 | | 
 | 20220608T17:46:48Z | CVE-2022-26809 | writeup and poc for cve-2022-26809 | https://github.com/scoobydoobi/CVE-2022-26809-RCE-POC | | 
 | 20220608T16:27:20Z | CVE-2022-28132 | Null | https://github.com/alpernae/CVE-2022-28132 | | 
