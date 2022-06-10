@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220610T00:12:32Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/leokok10/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220609T23:23:11Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/krxbl/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220609T23:21:01Z | Cve-2022- | f you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file. | https://github.com/krxbl/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220609T23:13:39Z | CVE-2022-30190 | Null | https://github.com/DerZiad/CVE-2022-30190 | | 
@@ -55,7 +56,6 @@
 | 20220609T14:45:00Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/0xSojalSec/-CVE-2022-1609 | | 
 | 20220609T13:50:03Z | CVE-2020-11898 | Null | https://github.com/SamuelGaudemer/POC_CVE-2020-11898 | | 
 | 20220609T12:06:24Z | cve-2020-27955 | cve-2020-27955 | https://github.com/userxfan/cve-2020-27955 | | 
-| 20220609T12:05:23Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 
 
 # klee on Github 推荐
