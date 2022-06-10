@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220610T00:46:58Z | CVE-2021-40438 | check CVE-2021-40438 | https://github.com/gassara-kys/CVE-2021-40438 | | 
 | 20220610T00:25:47Z | CVE-2022-30190 | Mitigation for CVE-2022-30190 | https://github.com/k508/CVE-2022-30190 | | 
 | 20220610T00:12:32Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/leokok10/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220609T23:23:11Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/krxbl/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
@@ -55,7 +56,6 @@
 | 20220609T17:34:46Z | CVE-2022-23808 | Null | https://github.com/Trhackno/CVE-2022-23808 | | 
 | 20220609T17:00:57Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
 | 20220609T14:45:00Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/0xSojalSec/-CVE-2022-1609 | | 
-| 20220609T13:50:03Z | CVE-2020-11898 | Null | https://github.com/SamuelGaudemer/POC_CVE-2020-11898 | | 
 
 
 # klee on Github 推荐
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220610T00:47:15Z | Null | https://github.com/thrsouza/exposed-exploit | 0 | 0| 
 | 20220610T00:42:11Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-... | 0 | 0| 
 | 20220610T00:41:04Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-... | 0 | 0| 
 | 20220610T00:39:16Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-... | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20220610T00:00:03Z | Microsoft Windows HTA (HTML Application) - Remote Code Execution Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there%s no macro support) -Startup -base64 encode | https://github.com/kolak63/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
 | 20220609T23:21:01Z | f you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file. | https://github.com/krxbl/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
 | 20220609T23:01:30Z | WebGL Support  Hidden Desktop  Copy/Paste internal  Encrypted Connection  File Manager Internal  C#/C+ + (Native) Crypter Compatibility  IPV4/ DNS Support  WD Exclusion No Popups  Quality Support  Browser Profile Cloner  Process Suspension  File Manager Support Download/Upload/Create/Delete/Explore/Execute  Reverse Connection  Hidden Persistence / Startup  Random Mutex  2FA Recovery Bypass  Reflective Stub Injection  Stub is RunPE Compatible  Process Suspension  Download / Execute (Powershell)  Windows Defender Exclusion (No Popups)  Encrypted Connection  Kill browsers individually or all  Binder  Steal Remote Clipboard  Lightweight TCP Server  UAC Exploit (No Popups)  Browser Profile Cloner S/ C/ P/ H  CMD/Powershell Prompt  Small Stub ~130kb  Quality Adjustment/ Image Resize of hVNC  Obfuscated Stub  Compressed Image Support for faster Interaction  Random Mutex for single instances  Supported Browsers & Mail Applications  Mass disconnect  Online / Offline Logger | https://github.com/xAnonymousOneX/Pandora-Hvnc-Hidden-Browser-Real-Vnc-Working-Chromium-Edge-Opera-Gx | 0 | 0| 
-| 20220609T22:54:49Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/34dsfsdf4/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
