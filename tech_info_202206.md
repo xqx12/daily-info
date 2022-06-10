@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220610T12:23:08Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
 | 20220610T12:05:12Z | CVE-2022-20005 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005 | | 
 | 20220610T11:45:52Z | CVE-2022-30910 | MSDT "Follina" exploit **detected** by windows defender | https://github.com/arozx/CVE-2022-30910 | | 
 | 20220610T11:35:34Z | CVE-2022-1966 | Null | https://github.com/google-mirror/CVE-2022-1966 | | 
@@ -55,7 +56,6 @@
 | 20220610T08:32:28Z | CVE-2021-44582 | Null | https://github.com/warmachine-57/CVE-2021-44582 | | 
 | 20220610T06:13:52Z | CVE-2022-23642 | PoC for Sourcegraph Gitserver < 3.37.0 RCE | https://github.com/Altelus1/CVE-2022-23642 | | 
 | 20220610T05:00:31Z | CVE-2022-31402 | CVE-2022-31402 | https://github.com/YavuzSahbaz/CVE-2022-31402 | | 
-| 20220610T04:33:05Z | CVE-2022-20007 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007 | | 
 
 
 # klee on Github 推荐
