@@ -110,12 +110,12 @@
 | 20220609T22:18:04Z | Null | https://github.com/runato36/fuzz | 0 | 0| 
 | 20220609T20:41:29Z | using a fuzzy logic controller and use of sequecnce current finding the type of fault occered in transmission line | https://github.com/saikumar-web/transmission-line-fault-type-classification-using-fuzzy-controller | 0 | 0| 
 | 20220609T20:38:10Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 113 | 14| 
+| 20220609T15:55:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7491 | 1606| 
 | 20220609T15:37:09Z | A quick ERC-20 tutorial with testing, fuzzing and more. | https://github.com/tesla809/erc-20-tutorial | 3 | 4| 
 | 20220609T15:09:27Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1003 | 197| 
 | 20220609T12:29:49Z | A fuzzing framework on Windows for my graduation project. | https://github.com/g3un/fdzz | 0 | 0| 
 | 20220609T10:52:05Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 248 | 41| 
 | 20220609T10:20:50Z | Нечёткая логика - Оценка вероятности выдачи кредитной карты | https://github.com/denis3079/fuzzy_logic | 0 | 0| 
-| 20220609T09:43:01Z | Fuzzer For Penetration Testing | https://github.com/fafsnords/FuzzTester | 0 | 0| 
 
 
 
