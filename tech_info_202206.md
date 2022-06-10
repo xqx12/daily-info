@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220610 | PAcT - Android 应用隐私访问行为检测和分类（Paper） | https://storage.googleapis.com/pub-tools-public-publication-data/pdf/7884664b22fae3c4daaacb598454bf9088574f4c.pdf| 
+| 20220610 | 一份开源安全项目清单，以帮助甲方安全从业人员构建企业安全能力 | https://github.com/Bypass007/Safety-Project-Collection| 
+| 20220610 | EMUX Firmware Emulation Framework | https://github.com/therealsaumil/emux| 
+| 20220610 | Fuzz Introspector - 优化 Fuzzing Coverage Blockers 识别的工具 | http://openssf.org/blog/2022/06/09/introducing-fuzz-introspector-an-openssf-tool-to-improve-fuzzing-coverage/| 
+| 20220610 | Linux eBPF CVE-2022-23222 提权漏洞 Exploit | https://github.com/tr3ee/CVE-2022-23222| 
+| 20220610 | Trivy - 在容器镜像、文件系统、Git Repo 中扫描漏洞的工具 | https://github.com/aquasecurity/trivy| 
+| 20220610 | 利用实时分布式 OLAP 数据库 Apache Pinot 的 SQL 注入漏洞实现 RCE | http://blog.doyensec.com/2022/06/09/apache-pinot-sqli-rce.html| 
+| 20220610 | Symbiote - 利用 LD_PRELOAD 注入全系统进程的恶意软件，可以完全隐藏自身 | http://www.intezer.com/blog/research/new-linux-threat-symbiote/| 
 | 20220609 | TPMEavesEmu - 通过模拟的方法辅助测试 TPM 实现安全的工具 | https://github.com/quarkslab/tpmee| 
 | 20220609 | Detecting DNS Tunneling using Spark Structured Streaming | https://infosecwriteups.com/detecting-dns-tunneling-using-spark-structured-streaming-c7e2b6af0349?gi=6f1c3fe913ef| 
 | 20220609 | 在 Chromium 浏览器的内存 Dump 中提取输入的明文密码 | https://www.cyberark.com/resources/threat-research-blog/extracting-clear-text-credentials-directly-from-chromium-s-memory| 
@@ -18,19 +26,12 @@
 | 20220608 | High Performance Coverage-guided Greybox Fuzzer with Custom JIT Engine | http://seal9055.com/blog/?p=sfuzz&d=fuzzing| 
 | 20220608 | Windows 近期修复的 afd.sys 内核任意地址读漏洞的利用 | https://starlabs.sg/blog/2022/06/trying-to-exploit-a-windows-kernel-arbitrary-read-vulnerability/| 
 | 20220608 | Firmware key extraction by gaining EL3 | http://blog.xilokar.info/firmware-key-extraction-by-gaining-el3.html| 
-| 20220608 | iOS 系统最新软硬件防护机制研究 | http://www.sstic.org/2022/presentation/an_apple_a_day/| 
-| 20220608 | Android SafetyNet 以及底层虚拟机 DroidGuard 的实现机制和防护原理 | http://www.sstic.org/2022/presentation/droidguard_a_deep_dive_into_safetynet/| 
-| 20220608 | 基于 WTS API 搭建 AFL Fuzz 环境，Fuzz Windows RDP Client | http://www.sstic.org/2022/presentation/fuzzing_microsofts_rdp_client_using_virtual_channels/| 
-| 20220608 | Ghost in the Wireless - Intel Wi-Fi 芯片的安全研究 | http://www.sstic.org/2022/presentation/intel_wifi/| 
-| 20220608 | usbsas - 从不受信任的 USB 存储设备读取数据的工具 | https://github.com/cea-sec/usbsas| 
-| 20220608 | ESET 对基于多层虚拟机实现的恶意软件 Loader - Wslink 的分析 | https://github.com/eset/wslink-vm-analyzer/blob/master/slides/WslinkVMREcon.pdf| 
-| 20220608 | Kernel Recipes 2022线上会议演讲视频 | https://www.youtube.com/watch?t=17119&v=v--rVT4RsCE&feature=youtu.be| 
-| 20220608 | SpringBoot Actuator之 logging.config grovvy rce分析及内存马注入 | https://tttang.com/archive/1620/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220610 | 针对解释性语言包管理器的供应链攻击研究 | https://mp.weixin.qq.com/s/d0yGhb6PFnHzg7U_nrBgAg| 
 | 20220609 | 微软数据安全防护之Know Your Data | https://mp.weixin.qq.com/s/Hkro91XoY4SdjFZNGcFAvg| 
 | 20220609 | 对数据安全的一些思考 | https://mp.weixin.qq.com/s/enP8MU7eBWaAbjb954JOMQ| 
 | 20220609 | 我所理解的安全运营 | https://mp.weixin.qq.com/s?__biz=Mzg5NzY5NjM5Mg==&mid=2247484056&idx=1&sn=751c997279e7693e201d2cab6429244e&chksm=c06c957ff71b1c692b03fa78ff90cf504229cd5f3d1e36d23decc1799f35237c2f007ca51800&token=71555406&lang=zh_CN#rd| 
@@ -40,28 +41,28 @@
 | 20220608 | SQL脚本自动化审核工具（MYSQL） | https://mp.weixin.qq.com/s/In-MdryQSdqFSA2fqdFHvg| 
 | 20220608 | 2022云原生安全技术峰会议题Slide | https://github.com/brant-ruan/slides-and-papers/| 
 | 20220608 | 2022云原生安全技术峰会议题Slide | /news/30412| 
-| 20220607 | SecWiki周刊（第431期) | https://www.sec-wiki.com/weekly/431| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220610T00:56:36Z | CVE-2021-40438 | check CVE-2021-40438 | https://github.com/gassara-kys/CVE-2021-40438 | | 
-| 20220610T00:25:47Z | CVE-2022-30190 | Mitigation for CVE-2022-30190 | https://github.com/k508/CVE-2022-30190 | | 
-| 20220610T00:12:32Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/leokok10/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20220609T23:23:11Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/krxbl/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20220609T23:21:01Z | Cve-2022- | f you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file. | https://github.com/krxbl/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20220609T23:13:39Z | CVE-2022-30190 | Null | https://github.com/DerZiad/CVE-2022-30190 | | 
-| 20220609T22:54:49Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/34dsfsdf4/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20220609T17:34:46Z | CVE-2022-23808 | Null | https://github.com/Trhackno/CVE-2022-23808 | | 
-| 20220609T17:00:57Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
-| 20220609T14:45:00Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/0xSojalSec/-CVE-2022-1609 | | 
+| 20220610T11:56:59Z | CVE-2022-20005 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005 | | 
+| 20220610T11:45:52Z | CVE-2022-30910 | MSDT "Follina" exploit **detected** by windows defender | https://github.com/arozx/CVE-2022-30910 | | 
+| 20220610T11:35:34Z | CVE-2022-1966 | Null | https://github.com/google-mirror/CVE-2022-1966 | | 
+| 20220610T11:11:53Z | CVE-2022-30075 | NEW EXPLOIT FOR TP LINK | https://github.com/SAJIDAMINE/CVE-2022-30075 | | 
+| 20220610T09:52:22Z | CVE-2022-26134 | [CVE-2022-26134] Confluence Pre-Auth Object-Graph Navigation Language (OGNL) Injection | https://github.com/murataydemir/CVE-2022-26134 | | 
+| 20220610T09:07:45Z | CVE-2022-26134 | CVE-2022-26134, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. This is CVE-2022-26134 expoitation script | https://github.com/sunny-kathuria/exploit_CVE-2022-26134 | | 
+| 20220610T08:32:28Z | CVE-2021-44582 | Null | https://github.com/warmachine-57/CVE-2021-44582 | | 
+| 20220610T06:13:52Z | CVE-2022-23642 | PoC for Sourcegraph Gitserver < 3.37.0 RCE | https://github.com/Altelus1/CVE-2022-23642 | | 
+| 20220610T05:00:31Z | CVE-2022-31402 | CVE-2022-31402 | https://github.com/YavuzSahbaz/CVE-2022-31402 | | 
+| 20220610T04:33:05Z | CVE-2022-20007 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220609T16:50:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6812 | 244| 
+| 20220610T11:22:53Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 43 | 7| 
+| 20220610T08:04:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6819 | 244| 
 | 20220609T13:23:39Z | Null | https://github.com/Namianya/kleen | 0 | 0| 
 | 20220609T09:58:51Z | Github profile | https://github.com/ChanAndKlee/ChanAndKlee | 0 | 0| 
 | 20220609T08:41:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1979 | 564| 
@@ -70,13 +71,12 @@
 | 20220605T14:19:12Z | Null | https://github.com/Klee2707/Klee | 0 | 0| 
 | 20220604T08:49:34Z | Null | https://github.com/phamnhutduynguyen/klee | 0 | 0| 
 | 20220603T14:44:33Z | Repo for KLEE soils project: incubation/respiration data, soil C/N data, associated analyses | https://github.com/elizabethforbes/KLEEsoils_project | 0 | 0| 
-| 20220602T14:41:31Z | Null | https://github.com/ErickLauren12/LearningWithKlee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220609T13:22:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 228 | 54| 
+| 20220609T13:22:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 228 | 55| 
 
 
 # exploit on Github 推荐
@@ -112,16 +112,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220610T10:03:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1982 | 564| 
+| 20220610T08:45:19Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 2 | 1| 
+| 20220610T08:26:43Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 244 | 15| 
 | 20220609T22:00:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2906 | 419| 
-| 20220609T15:15:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1980 | 564| 
 | 20220609T15:08:27Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
-| 20220609T05:29:51Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 1 | 1| 
 | 20220609T03:42:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 552 | 95| 
 | 20220607T15:29:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 226 | 54| 
 | 20220607T09:13:21Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 4 | 0| 
 | 20220607T07:42:51Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 433 | 22| 
 | 20220606T03:24:12Z | Ethereum Virtual Machine (EVM) Bytecode or Solidity Smart Contract static analysis tool based on symbolic execution | https://github.com/nveloso/conkas | 32 | 6| 
-| 20220603T20:31:13Z | Challenges for Symbolic Execution Workshop @ REcon | https://github.com/JannisKirschner/REcon-Workshop-Public | 3 | 1| 
 
 
 # big4 on Github 推荐
