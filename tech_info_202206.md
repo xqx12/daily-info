@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220610T11:56:59Z | CVE-2022-20005 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005 | | 
+| 20220610T12:05:12Z | CVE-2022-20005 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005 | | 
 | 20220610T11:45:52Z | CVE-2022-30910 | MSDT "Follina" exploit **detected** by windows defender | https://github.com/arozx/CVE-2022-30910 | | 
 | 20220610T11:35:34Z | CVE-2022-1966 | Null | https://github.com/google-mirror/CVE-2022-1966 | | 
 | 20220610T11:11:53Z | CVE-2022-30075 | NEW EXPLOIT FOR TP LINK | https://github.com/SAJIDAMINE/CVE-2022-30075 | | 
