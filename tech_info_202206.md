@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220610T12:12:03Z | Null | https://github.com/Processus-Thief/Exploitation-Buffer-Overflow-Windows-32-bits- | 0 | 0| 
 | 20220610T12:06:03Z | topics : web exploitation | https://github.com/CTF-Games/Game-number-1 | 0 | 0| 
 | 20220610T11:59:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3021 | 366| 
 | 20220610T11:45:52Z | MSDT %Follina% exploit **detected** by windows defender | https://github.com/arozx/CVE-2022-30910 | 0 | 1| 
@@ -91,7 +92,6 @@
 | 20220610T10:06:35Z | A buffer overflow example program and exploit script. | https://github.com/moylty/buffer-overflow-example | 0 | 0| 
 | 20220610T09:48:12Z | A framework for MSA that exploits unimodal annotations generated via ULGM | https://github.com/skystarhyw/SUGRM | 0 | 0| 
 | 20220610T09:42:06Z | Prevention against ECC exploits | https://github.com/78761/SSD-ECC-checker | 0 | 0| 
-| 20220610T09:07:45Z | CVE-2022-26134, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. This is CVE-2022-26134 expoitation script | https://github.com/sunny-kathuria/exploit_CVE-2022-26134 | 0 | 0| 
 
 
 # backdoor on Github 推荐
