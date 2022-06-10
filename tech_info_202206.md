@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220610T12:30:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11597 | 1987| 
 | 20220610T12:12:58Z | Null | https://github.com/Pierrrrrre/Installer-et-configurer-un-systeme-d-exploitation-et-des-outils-de-developpement | 0 | 0| 
 | 20220610T12:12:03Z | Null | https://github.com/Processus-Thief/Exploitation-Buffer-Overflow-Windows-32-bits- | 0 | 0| 
 | 20220610T12:06:03Z | topics : web exploitation | https://github.com/CTF-Games/Game-number-1 | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20220610T11:09:51Z | Null | https://github.com/x8g/Discord-GC-VC-Exploit | 0 | 0| 
 | 20220610T10:49:38Z | Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190) | https://github.com/Hrishikesh7665/Follina_Exploiter_CLI | 2 | 1| 
 | 20220610T10:06:35Z | A buffer overflow example program and exploit script. | https://github.com/moylty/buffer-overflow-example | 0 | 0| 
-| 20220610T09:48:12Z | A framework for MSA that exploits unimodal annotations generated via ULGM | https://github.com/skystarhyw/SUGRM | 0 | 0| 
 
 
 # backdoor on Github 推荐
