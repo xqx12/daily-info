@@ -97,7 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220610T11:56:26Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 1 | 0| 
+| 20220610T12:18:17Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 2 | 0| 
 | 20220610T09:20:10Z | A Pytroch Implementation of Some Backdoor Attack Algorithms, Including BadNets and ISSBA. | https://github.com/xandery-geek/BackdoorAttacks | 1 | 0| 
 | 20220610T04:59:43Z | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/0xSojalSec/-CVE-2022-1609 | 1 | 0| 
 | 20220609T21:09:14Z | Persistant trojan coded in python | https://github.com/BigMafr4h/TrojanBackdoor | 0 | 0| 
