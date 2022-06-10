@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220610T01:35:18Z | Null | https://github.com/elginakin/fuzzywuzzyR1R2 | 0 | 0| 
+| 20220610T01:22:11Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 114 | 14| 
 | 20220610T00:52:32Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1004 | 197| 
 | 20220609T23:24:46Z | Null | https://github.com/Dabike85/logica_fuzzy | 0 | 0| 
 | 20220609T22:18:04Z | Null | https://github.com/runato36/fuzz | 0 | 0| 
 | 20220609T20:41:29Z | using a fuzzy logic controller and use of sequecnce current finding the type of fault occered in transmission line | https://github.com/saikumar-web/transmission-line-fault-type-classification-using-fuzzy-controller | 0 | 0| 
-| 20220609T20:38:10Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 113 | 14| 
 | 20220609T15:55:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7491 | 1606| 
 | 20220609T15:37:09Z | A quick ERC-20 tutorial with testing, fuzzing and more. | https://github.com/tesla809/erc-20-tutorial | 3 | 4| 
 | 20220609T12:29:49Z | A fuzzing framework on Windows for my graduation project. | https://github.com/g3un/fdzz | 0 | 0| 
 | 20220609T10:52:05Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 248 | 41| 
-| 20220609T10:20:50Z | Нечёткая логика - Оценка вероятности выдачи кредитной карты | https://github.com/denis3079/fuzzy_logic | 0 | 0| 
 
 
 

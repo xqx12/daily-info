@@ -68,7 +68,7 @@
 | 20220609T22:52:17Z | Clone Profile  Hidden Desktop  Hidden Browsers  Hidden Chrome  Hidden Chromodo  Hidden SlimJet  Hidden Sputnik  Hidden Awast Browser  Hidden UC Browser  Hidden Atom Browser  Hidden Opera Neon  Hidden Firefox  Hidden Edge  Hidden Brave  Hidden Palemoon  Hidden Waterfox  Hidden Opera  Hidden 360 browser  Hidden Comodo Dragon  Hidden Internet Explorer  Hidden Explorer  Hidden Powershell  Hidden CMD  Hidden Outlook  Hidden Thunderbird  Hidden Foxmail  Hidden Password Recovery HVNC/HVNC browsers  HRDP/HRDP browsers/Wallets  Reverse Proxy  UAC Exploit for Windows 11/10  UAC Exploit for Windows 7  Remote Desktop  Remote Cam  Remote Microphone  Remote Regedit  Remote Console  Silent Execute  File Manager (download,zip,unzip)  Disable Windows Defender  Execute on connection Tasks  Recovery All Chrome based Browsers  Recovery for All Firefox based Browsers  Recovery & Send Logs To Discord  Startup/Schedule task Persistence  Miner  Watch Dog  TaskMgr Dog  Spam Tools  Hrdp Browers  Hrdp Chrome  Hrdp Firefox  Hrdp Opera  Hrdp Brave  Hrdp Wallets  ArmoryQt  Coinomi  Atomic  Exodus  Electrum  Jaxx S-500 G2 Builder !  Change Assembly  Change Exe Icon  Change Exe Name  Change Filename  File Path  Group Clients  Mutex  Multi Ports Supported  Anti Debug System  Kill Taskmgr  Blue Screen Error  Watch Dog  Uac Exploit on Execution  TaskMgr Dog  Export as Shell Code  Crypter Merged  Run PE  Obfuscate | https://github.com/34dsfsdf4/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware | 0 | 0| 
 | 20220609T22:47:50Z | exploit doc | https://github.com/hogmt/exploit-doc | 0 | 0| 
 | 20220609T22:34:35Z | Weapon Selection Memory Aim On Key (On/Off) Silent Aim (P Silent) Aim Bones (Head) (Neck) (Body) (Closest) No Recoil Knocked Players Backtrack Visibles Check Smooth (1-10) FOV (1-100) Visuals:  On Key (On/Off) Player Names Player Distance Itmes Health Bar (Constant) (Normal) Health Text Bounding Box (3D) (2D) Outlines (Above) (Below) (Crosshair) Color Mates Color Picker | https://github.com/download4you/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
-| 20220609T22:28:47Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 225 | 900| 
+| 20220609T22:28:47Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 225 | 901| 
 | 20220609T22:07:44Z | A React App with Car API ,it facilitates the storage of information about repairs and exploitation your car | https://github.com/MateuszChmiest/YourServiceBook | 0 | 0| 
 
 
@@ -109,13 +109,13 @@
 | 20220609T23:24:46Z | Null | https://github.com/Dabike85/logica_fuzzy | 0 | 0| 
 | 20220609T22:18:04Z | Null | https://github.com/runato36/fuzz | 0 | 0| 
 | 20220609T20:41:29Z | using a fuzzy logic controller and use of sequecnce current finding the type of fault occered in transmission line | https://github.com/saikumar-web/transmission-line-fault-type-classification-using-fuzzy-controller | 0 | 0| 
-| 20220609T20:38:10Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 113 | 14| 
 | 20220609T15:55:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7491 | 1606| 
 | 20220609T15:37:09Z | A quick ERC-20 tutorial with testing, fuzzing and more. | https://github.com/tesla809/erc-20-tutorial | 3 | 4| 
 | 20220609T12:29:49Z | A fuzzing framework on Windows for my graduation project. | https://github.com/g3un/fdzz | 0 | 0| 
 | 20220609T10:52:05Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 248 | 41| 
 | 20220609T10:20:50Z | Нечёткая логика - Оценка вероятности выдачи кредитной карты | https://github.com/denis3079/fuzzy_logic | 0 | 0| 
 | 20220609T09:43:01Z | Fuzzer For Penetration Testing | https://github.com/fafsnords/FuzzTester | 0 | 0| 
+| 20220609T09:00:20Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 357 | 62| 
 
 
 
