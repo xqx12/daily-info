@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220610T11:59:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3021 | 366| 
+| 20220610T11:45:52Z | MSDT %Follina% exploit **detected** by windows defender | https://github.com/arozx/CVE-2022-30910 | 0 | 1| 
+| 20220610T11:11:53Z | NEW EXPLOIT FOR TP LINK | https://github.com/SAJIDAMINE/CVE-2022-30075 | 0 | 0| 
+| 20220610T11:09:51Z | Null | https://github.com/x8g/Discord-GC-VC-Exploit | 0 | 0| 
+| 20220610T10:49:38Z | Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190) | https://github.com/Hrishikesh7665/Follina_Exploiter_CLI | 2 | 1| 
+| 20220610T10:06:35Z | A buffer overflow example program and exploit script. | https://github.com/moylty/buffer-overflow-example | 0 | 0| 
+| 20220610T09:48:12Z | A framework for MSA that exploits unimodal annotations generated via ULGM | https://github.com/skystarhyw/SUGRM | 0 | 0| 
+| 20220610T09:42:06Z | Prevention against ECC exploits | https://github.com/78761/SSD-ECC-checker | 0 | 0| 
+| 20220610T09:07:45Z | CVE-2022-26134, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. This is CVE-2022-26134 expoitation script | https://github.com/sunny-kathuria/exploit_CVE-2022-26134 | 0 | 0| 
 | 20220610T00:47:15Z | Null | https://github.com/thrsouza/exposed-exploit | 0 | 0| 
-| 20220610T00:42:11Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-... | 0 | 0| 
-| 20220610T00:41:04Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-... | 0 | 0| 
-| 20220610T00:39:16Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-... | 0 | 0| 
-| 20220610T00:10:37Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. The next step is to host the malicious content that the attacker wishes to “share”. One option is for the attacker to host the malicious content on their own server. However, it’s rather difficult directing users to a new page, so an exposed legal website may also host it. Or even a legal website could be distributing the attackers’ content through a third party service without knowing it. When the client loads the content, the attacker will analyze the trace of the client in order to craft the code to URL Infection Exploit weak spots especially to that client. Finally, the attacker exploits the needful weak spots to launch the drive-by download attack. | https://github.com/leokok10/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
-| 20220610T00:02:57Z | Pumper, Binder, Anti-Memory, Anti ESET Exploit, Randomizer, 3 Type Of Obfuscations | https://github.com/CodiumAlgorithm/Codium-Algorithm-Best-Crypter-Protector-2022 | 2 | 0| 
-| 20220610T00:02:45Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. | https://github.com/kolak63/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
-| 20220610T00:00:03Z | Microsoft Windows HTA (HTML Application) - Remote Code Execution Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there%s no macro support) -Startup -base64 encode | https://github.com/kolak63/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
-| 20220609T23:21:01Z | f you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file. | https://github.com/krxbl/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
-| 20220609T23:01:30Z | WebGL Support  Hidden Desktop  Copy/Paste internal  Encrypted Connection  File Manager Internal  C#/C+ + (Native) Crypter Compatibility  IPV4/ DNS Support  WD Exclusion No Popups  Quality Support  Browser Profile Cloner  Process Suspension  File Manager Support Download/Upload/Create/Delete/Explore/Execute  Reverse Connection  Hidden Persistence / Startup  Random Mutex  2FA Recovery Bypass  Reflective Stub Injection  Stub is RunPE Compatible  Process Suspension  Download / Execute (Powershell)  Windows Defender Exclusion (No Popups)  Encrypted Connection  Kill browsers individually or all  Binder  Steal Remote Clipboard  Lightweight TCP Server  UAC Exploit (No Popups)  Browser Profile Cloner S/ C/ P/ H  CMD/Powershell Prompt  Small Stub ~130kb  Quality Adjustment/ Image Resize of hVNC  Obfuscated Stub  Compressed Image Support for faster Interaction  Random Mutex for single instances  Supported Browsers & Mail Applications  Mass disconnect  Online / Offline Logger | https://github.com/xAnonymousOneX/Pandora-Hvnc-Hidden-Browser-Real-Vnc-Working-Chromium-Edge-Opera-Gx | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220610T11:56:26Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 1 | 0| 
+| 20220610T09:20:10Z | A Pytroch Implementation of Some Backdoor Attack Algorithms, Including BadNets and ISSBA. | https://github.com/xandery-geek/BackdoorAttacks | 1 | 0| 
+| 20220610T04:59:43Z | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/0xSojalSec/-CVE-2022-1609 | 1 | 0| 
 | 20220609T21:09:14Z | Persistant trojan coded in python | https://github.com/BigMafr4h/TrojanBackdoor | 0 | 0| 
 | 20220609T18:31:21Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1658 | 396| 
 | 20220609T16:34:50Z | A Reverse Backdoor listener written in python | https://github.com/Springerstine/Listener | 0 | 0| 
 | 20220609T16:31:08Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/0xSojalSec/-CVE-2011-2523 | 0 | 0| 
 | 20220609T16:28:31Z | Null | https://github.com/thunlp/OpenBackdoor | 0 | 0| 
+| 20220609T16:27:08Z | An open-scource toolkit for text backdoor attack and defense | https://github.com/cgq15/OpenBackdoor | 2 | 1| 
 | 20220609T16:21:28Z | Simple backdoor | https://github.com/0xSojalSec/-PHPShell | 0 | 0| 
-| 20220609T14:45:00Z | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/0xSojalSec/-CVE-2022-1609 | 0 | 0| 
-| 20220609T13:21:44Z | Null | https://github.com/vqiz/backdoor | 0 | 0| 
-| 20220609T11:10:08Z | A tool that can be used while working on the aws-auth ConfigMap within an EKS cluster in the event that there is a possibility of having access revoked | https://github.com/nutellinoit/eks-aws-auth-backdoor | 1 | 0| 
-| 20220609T09:30:15Z | A Pytroch Implementation of Some Backdoor Attack Algorithms, Including BadNets and ISSBA. | https://github.com/xandery-geek/BackdoorAttacks | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
