@@ -82,6 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220610T00:02:57Z | Pumper, Binder, Anti-Memory, Anti ESET Exploit, Randomizer, 3 Type Of Obfuscations | https://github.com/CodiumAlgorithm/Codium-Algorithm-Best-Crypter-Protector-2022 | 2 | 0| 
+| 20220610T00:02:45Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. | https://github.com/kolak63/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20220610T00:00:03Z | Microsoft Windows HTA (HTML Application) - Remote Code Execution Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there%s no macro support) -Startup -base64 encode | https://github.com/kolak63/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
 | 20220609T23:21:01Z | f you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file. | https://github.com/krxbl/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
 | 20220609T23:01:30Z | WebGL Support  Hidden Desktop  Copy/Paste internal  Encrypted Connection  File Manager Internal  C#/C+ + (Native) Crypter Compatibility  IPV4/ DNS Support  WD Exclusion No Popups  Quality Support  Browser Profile Cloner  Process Suspension  File Manager Support Download/Upload/Create/Delete/Explore/Execute  Reverse Connection  Hidden Persistence / Startup  Random Mutex  2FA Recovery Bypass  Reflective Stub Injection  Stub is RunPE Compatible  Process Suspension  Download / Execute (Powershell)  Windows Defender Exclusion (No Popups)  Encrypted Connection  Kill browsers individually or all  Binder  Steal Remote Clipboard  Lightweight TCP Server  UAC Exploit (No Popups)  Browser Profile Cloner S/ C/ P/ H  CMD/Powershell Prompt  Small Stub ~130kb  Quality Adjustment/ Image Resize of hVNC  Obfuscated Stub  Compressed Image Support for faster Interaction  Random Mutex for single instances  Supported Browsers & Mail Applications  Mass disconnect  Online / Offline Logger | https://github.com/xAnonymousOneX/Pandora-Hvnc-Hidden-Browser-Real-Vnc-Working-Chromium-Edge-Opera-Gx | 0 | 0| 
@@ -90,30 +92,29 @@
 | 20220609T22:53:01Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. The next step is to host the malicious content that the attacker wishes to “share”. One option is for the attacker to host the malicious content on their own server. However, it’s rather difficult directing users to a new page, so an exposed legal website may also host it. Or even a legal website could be distributing the attackers’ content through a third party service without knowing it. When the client loads the content, the attacker will analyze the trace of the client in order to craft the code to URL Infection Exploit weak spots especially to that client. Finally, the attacker exploits the needful weak spots to launch the drive-by download attack. | https://github.com/34dsfsdf4/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20220609T22:52:17Z | Clone Profile  Hidden Desktop  Hidden Browsers  Hidden Chrome  Hidden Chromodo  Hidden SlimJet  Hidden Sputnik  Hidden Awast Browser  Hidden UC Browser  Hidden Atom Browser  Hidden Opera Neon  Hidden Firefox  Hidden Edge  Hidden Brave  Hidden Palemoon  Hidden Waterfox  Hidden Opera  Hidden 360 browser  Hidden Comodo Dragon  Hidden Internet Explorer  Hidden Explorer  Hidden Powershell  Hidden CMD  Hidden Outlook  Hidden Thunderbird  Hidden Foxmail  Hidden Password Recovery HVNC/HVNC browsers  HRDP/HRDP browsers/Wallets  Reverse Proxy  UAC Exploit for Windows 11/10  UAC Exploit for Windows 7  Remote Desktop  Remote Cam  Remote Microphone  Remote Regedit  Remote Console  Silent Execute  File Manager (download,zip,unzip)  Disable Windows Defender  Execute on connection Tasks  Recovery All Chrome based Browsers  Recovery for All Firefox based Browsers  Recovery & Send Logs To Discord  Startup/Schedule task Persistence  Miner  Watch Dog  TaskMgr Dog  Spam Tools  Hrdp Browers  Hrdp Chrome  Hrdp Firefox  Hrdp Opera  Hrdp Brave  Hrdp Wallets  ArmoryQt  Coinomi  Atomic  Exodus  Electrum  Jaxx S-500 G2 Builder !  Change Assembly  Change Exe Icon  Change Exe Name  Change Filename  File Path  Group Clients  Mutex  Multi Ports Supported  Anti Debug System  Kill Taskmgr  Blue Screen Error  Watch Dog  Uac Exploit on Execution  TaskMgr Dog  Export as Shell Code  Crypter Merged  Run PE  Obfuscate | https://github.com/34dsfsdf4/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware | 0 | 0| 
 | 20220609T22:47:50Z | exploit doc | https://github.com/hogmt/exploit-doc | 0 | 0| 
-| 20220609T22:34:35Z | Weapon Selection Memory Aim On Key (On/Off) Silent Aim (P Silent) Aim Bones (Head) (Neck) (Body) (Closest) No Recoil Knocked Players Backtrack Visibles Check Smooth (1-10) FOV (1-100) Visuals:  On Key (On/Off) Player Names Player Distance Itmes Health Bar (Constant) (Normal) Health Text Bounding Box (3D) (2D) Outlines (Above) (Below) (Crosshair) Color Mates Color Picker | https://github.com/download4you/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
-| 20220609T22:28:47Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 225 | 899| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220609T21:09:14Z | Persistant trojan coded in python | https://github.com/BigMafr4h/TrojanBackdoor | 0 | 0| 
+| 20220609T18:31:21Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1658 | 396| 
+| 20220609T16:34:50Z | A Reverse Backdoor listener written in python | https://github.com/Springerstine/Listener | 0 | 0| 
+| 20220609T16:31:08Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/0xSojalSec/-CVE-2011-2523 | 0 | 0| 
+| 20220609T16:28:31Z | Null | https://github.com/thunlp/OpenBackdoor | 0 | 0| 
+| 20220609T16:21:28Z | Simple backdoor | https://github.com/0xSojalSec/-PHPShell | 0 | 0| 
+| 20220609T14:45:00Z | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/0xSojalSec/-CVE-2022-1609 | 0 | 0| 
+| 20220609T13:21:44Z | Null | https://github.com/vqiz/backdoor | 0 | 0| 
 | 20220609T11:10:08Z | A tool that can be used while working on the aws-auth ConfigMap within an EKS cluster in the event that there is a possibility of having access revoked | https://github.com/nutellinoit/eks-aws-auth-backdoor | 1 | 0| 
 | 20220609T09:30:15Z | A Pytroch Implementation of Some Backdoor Attack Algorithms, Including BadNets and ISSBA. | https://github.com/xandery-geek/BackdoorAttacks | 0 | 0| 
-| 20220609T05:57:04Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 20 | 5| 
-| 20220609T03:03:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1629 | 727| 
-| 20220608T19:14:17Z | last resort primitive backdoor | https://github.com/gch1p/lrpb | 0 | 0| 
-| 20220608T17:08:26Z | Powerful No Backdoor Script, Drains all NFTs in Single Approval | https://github.com/cryptoscemdev/ApproveAll-NFT-Drainer | 0 | 0| 
-| 20220608T16:49:33Z | no backdoor - NFT + ETH drainer  | https://github.com/cryptoscemdev/nft-drainer | 0 | 0| 
-| 20220608T15:01:48Z | A simple backdoor/reverse_shell program built w/ Socket | https://github.com/Abthon/Pydoor | 2 | 0| 
-| 20220608T12:25:19Z | Pytorch implementation of backdoor unlearning. | https://github.com/fmy266/Pytorch-Backdoor-Unlearning | 3 | 0| 
-| 20220608T11:20:00Z | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/OSVDB-69562 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220609T09:38:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2905 | 419| 
-| 20220609T08:41:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1979 | 564| 
+| 20220609T22:00:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2906 | 419| 
+| 20220609T15:15:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1980 | 564| 
+| 20220609T15:08:27Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
 | 20220609T05:29:51Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 1 | 1| 
 | 20220609T03:42:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 552 | 95| 
 | 20220607T15:29:04Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 226 | 54| 
@@ -121,7 +122,6 @@
 | 20220607T07:42:51Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 433 | 22| 
 | 20220606T03:24:12Z | Ethereum Virtual Machine (EVM) Bytecode or Solidity Smart Contract static analysis tool based on symbolic execution | https://github.com/nveloso/conkas | 32 | 6| 
 | 20220603T20:31:13Z | Challenges for Symbolic Execution Workshop @ REcon | https://github.com/JannisKirschner/REcon-Workshop-Public | 3 | 1| 
-| 20220602T17:50:16Z | Woke is a static analyzer and symbolic execution engine for Solidity | https://github.com/Ackee-Blockchain/woke | 13 | 0| 
 
 
 # big4 on Github 推荐

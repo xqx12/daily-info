@@ -75,17 +75,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220609T21:09:14Z | Persistant trojan coded in python | https://github.com/BigMafr4h/TrojanBackdoor | 0 | 0| 
+| 20220609T18:31:21Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1658 | 396| 
+| 20220609T16:34:50Z | A Reverse Backdoor listener written in python | https://github.com/Springerstine/Listener | 0 | 0| 
+| 20220609T16:31:08Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/0xSojalSec/-CVE-2011-2523 | 0 | 0| 
+| 20220609T16:28:31Z | Null | https://github.com/thunlp/OpenBackdoor | 0 | 0| 
+| 20220609T16:21:28Z | Simple backdoor | https://github.com/0xSojalSec/-PHPShell | 0 | 0| 
+| 20220609T14:45:00Z | Bash poc for CVE-2022-1609 WordPress Weblizar Backdoor | https://github.com/0xSojalSec/-CVE-2022-1609 | 0 | 0| 
+| 20220609T13:21:44Z | Null | https://github.com/vqiz/backdoor | 0 | 0| 
 | 20220609T11:10:08Z | A tool that can be used while working on the aws-auth ConfigMap within an EKS cluster in the event that there is a possibility of having access revoked | https://github.com/nutellinoit/eks-aws-auth-backdoor | 1 | 0| 
 | 20220609T09:30:15Z | A Pytroch Implementation of Some Backdoor Attack Algorithms, Including BadNets and ISSBA. | https://github.com/xandery-geek/BackdoorAttacks | 0 | 0| 
-| 20220609T05:57:04Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 20 | 5| 
-| 20220609T03:03:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1629 | 727| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220609T09:38:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2905 | 419| 
-| 20220609T08:41:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1979 | 564| 
+| 20220609T22:00:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2906 | 419| 
+| 20220609T15:15:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1980 | 564| 
+| 20220609T15:08:27Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
 | 20220609T05:29:51Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 1 | 1| 
 | 20220609T03:42:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 552 | 95| 
 
