@@ -54,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220610T22:04:43Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 226 | 910| 
+| 20220610T22:04:43Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 226 | 911| 
 | 20220610T22:04:39Z | Privilege escalation exercices on a system image | https://github.com/kema-dev/snow-crash | 0 | 0| 
 | 20220610T21:43:52Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 57 | 8| 
 | 20220610T20:46:22Z | Evade Windows 10 Defender Using The Newest Exploit | https://github.com/xemulat/Windows-Defender-Evador | 1 | 0| 

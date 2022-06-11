@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220611T01:23:07Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-.0 | 0 | 0| 
+| 20220611T01:22:03Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.0 | 0 | 0| 
+| 20220611T01:19:59Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0 | 0 | 0| 
+| 20220611T01:13:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11601 | 1987| 
 | 20220611T00:22:09Z |  A complex Roblox script executor that includes a script list, API loaded script hub, console debugging, Lua & LuaC injection. | https://github.com/HNT8/WeAreDevs-Exploit | 0 | 0| 
-| 20220611T00:20:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11600 | 1987| 
-| 20220610T22:04:43Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 226 | 910| 
+| 20220610T22:04:43Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 226 | 911| 
 | 20220610T22:04:39Z | Privilege escalation exercices on a system image | https://github.com/kema-dev/snow-crash | 0 | 0| 
 | 20220610T21:43:52Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 57 | 8| 
 | 20220610T20:46:22Z | Evade Windows 10 Defender Using The Newest Exploit | https://github.com/xemulat/Windows-Defender-Evador | 1 | 0| 
 | 20220610T19:50:37Z | Null | https://github.com/kkpsiren/Bug_Exploiters | 0 | 0| 
-| 20220610T19:27:54Z | PDF Exploit | https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-2022---PDF-Exploits | 1 | 0| 
-| 20220610T19:21:32Z | Perform Exploitary Data Analysis on dataset %Global Terrorism% | https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism | 0 | 0| 
-| 20220610T16:06:47Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 9 | 1| 
 
 
 # backdoor on Github 推荐
