@@ -91,7 +91,7 @@
 | 20220610T22:04:39Z | Privilege escalation exercices on a system image | https://github.com/kema-dev/snow-crash | 0 | 0| 
 | 20220610T21:43:52Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 57 | 8| 
 | 20220610T20:46:22Z | Evade Windows 10 Defender Using The Newest Exploit | https://github.com/xemulat/Windows-Defender-Evador | 1 | 0| 
-| 20220610T19:50:37Z | Null | https://github.com/kkpsiren/Bug_Exploiters | 0 | 0| 
+| 20220610T20:16:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3022 | 367| 
 
 
 # backdoor on Github 推荐
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220611T01:57:06Z | Projeto de Sistemas Ebarcados - C213 | https://github.com/flaviobergamini/C213-Fuzzy-MQTT | 0 | 0| 
+| 20220610T22:57:06Z | Python fuzzing | https://github.com/stestagg/pyfuzz | 0 | 0| 
+| 20220610T22:15:16Z | Fuzzy MCDM (Bulanık ÇKKV) Uygulaması (Bulanık DEMATEL ve Bulanık TOPSIS) | https://github.com/alperekener/Fuzzy-MCDM | 0 | 0| 
+| 20220610T21:20:50Z | Null | https://github.com/ethomson/fuzzy-octo-enigma | 0 | 0| 
+| 20220610T20:13:07Z | An interactive module to help you learn how to fuzz your first target | https://github.com/alex-maleno/Fuzzing-Module | 1 | 0| 
+| 20220610T19:59:33Z | Null | https://github.com/Viasat/gRPC-Fuzzer | 0 | 0| 
 | 20220610T01:35:18Z | Null | https://github.com/elginakin/fuzzywuzzyR1R2 | 0 | 0| 
 | 20220610T01:22:11Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 114 | 14| 
 | 20220610T00:52:32Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1004 | 197| 
 | 20220609T23:24:46Z | Null | https://github.com/Dabike85/logica_fuzzy | 0 | 0| 
-| 20220609T22:18:04Z | Null | https://github.com/runato36/fuzz | 0 | 0| 
-| 20220609T20:41:29Z | using a fuzzy logic controller and use of sequecnce current finding the type of fault occered in transmission line | https://github.com/saikumar-web/transmission-line-fault-type-classification-using-fuzzy-controller | 0 | 0| 
-| 20220609T15:55:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7491 | 1606| 
-| 20220609T15:37:09Z | A quick ERC-20 tutorial with testing, fuzzing and more. | https://github.com/tesla809/erc-20-tutorial | 3 | 4| 
-| 20220609T12:29:49Z | A fuzzing framework on Windows for my graduation project. | https://github.com/g3un/fdzz | 0 | 0| 
-| 20220609T10:52:05Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of REST APIs. | https://github.com/EMResearch/EvoMaster | 248 | 41| 
 
 
 

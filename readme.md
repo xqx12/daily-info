@@ -58,12 +58,12 @@
 | 20220610T22:04:39Z | Privilege escalation exercices on a system image | https://github.com/kema-dev/snow-crash | 0 | 0| 
 | 20220610T21:43:52Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 57 | 8| 
 | 20220610T20:46:22Z | Evade Windows 10 Defender Using The Newest Exploit | https://github.com/xemulat/Windows-Defender-Evador | 1 | 0| 
+| 20220610T20:16:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3022 | 367| 
 | 20220610T19:50:37Z | Null | https://github.com/kkpsiren/Bug_Exploiters | 0 | 0| 
 | 20220610T19:27:54Z | PDF Exploit | https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-2022---PDF-Exploits | 1 | 0| 
 | 20220610T19:21:32Z | Perform Exploitary Data Analysis on dataset %Global Terrorism% | https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism | 0 | 0| 
 | 20220610T16:06:47Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 9 | 1| 
 | 20220610T13:24:34Z | Null | https://github.com/waawaa/Exploiting-TIPS | 0 | 0| 
-| 20220610T12:48:18Z | The Next-Gen Roblox Exploit Hub | https://github.com/BinaryDex/DexHub | 6 | 3| 
 
 
 # backdoor on Github 推荐
@@ -99,6 +99,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220610T22:57:06Z | Python fuzzing | https://github.com/stestagg/pyfuzz | 0 | 0| 
+| 20220610T22:15:16Z | Fuzzy MCDM (Bulanık ÇKKV) Uygulaması (Bulanık DEMATEL ve Bulanık TOPSIS) | https://github.com/alperekener/Fuzzy-MCDM | 0 | 0| 
+| 20220610T21:20:50Z | Null | https://github.com/ethomson/fuzzy-octo-enigma | 0 | 0| 
+| 20220610T20:13:07Z | An interactive module to help you learn how to fuzz your first target | https://github.com/alex-maleno/Fuzzing-Module | 1 | 0| 
+| 20220610T19:59:33Z | Null | https://github.com/Viasat/gRPC-Fuzzer | 0 | 0| 
 | 20220610T01:35:18Z | Null | https://github.com/elginakin/fuzzywuzzyR1R2 | 0 | 0| 
 | 20220610T01:22:11Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 114 | 14| 
 | 20220610T00:52:32Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1004 | 197| 
