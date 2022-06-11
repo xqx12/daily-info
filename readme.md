@@ -71,6 +71,15 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220611T11:06:37Z | Evaluating the Influence of Compiler Flags on Fuzzing | https://github.com/abertschi/influence_compiler_flags_on_fuzzing | 0 | 0| 
+| 20220611T10:12:06Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 138 | 17| 
+| 20220611T10:11:15Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 384 | 57| 
+| 20220611T07:49:53Z | Null | https://github.com/dlslambot/fuzzy-octo-fiesta | 0 | 0| 
+| 20220611T07:24:11Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 174 | 12| 
+| 20220611T05:02:23Z | Null | https://github.com/b2204yo/fuzzBuzz.py | 0 | 0| 
+| 20220611T04:48:18Z | システムプログラミング特論第2回 | https://github.com/b2204yo/fuzzBuzz2 | 0 | 0| 
+| 20220611T04:48:15Z | Null | https://github.com/complexityOfDharma/FuzzyDeonticReasoning | 0 | 0| 
+| 20220611T04:29:22Z | Null | https://github.com/b2204yo/fuzzBuzz | 0 | 0| 
 | 20220611T01:57:06Z | Projeto de Sistemas Ebarcados - C213 | https://github.com/flaviobergamini/C213-Fuzzy-MQTT | 0 | 0| 
 
 
