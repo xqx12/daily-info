@@ -27,7 +27,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220610T19:05:48Z | CVE-2022-30190 | Null | https://github.com/DerZiad/CVE-2022-30190 | | 
-| 20220610T16:48:58Z | CVE-2022-23642 | PoC for Sourcegraph Gitserver < 3.37.0 RCE | https://github.com/Altelus1/CVE-2022-23642 | | 
 | 20220610T16:29:07Z | CVE-2022-30190 | this is my simple article about CVE 2022-30190 (Follina) analysis. I use the lab from Letsdefend. | https://github.com/Abdibimantara/CVE-2022-30190-Analysis-With-LetsDefends-Lab | | 
 | 20220610T12:23:08Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
 | 20220610T12:05:12Z | CVE-2022-20005 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005 | | 
@@ -36,6 +35,7 @@
 | 20220610T11:11:53Z | CVE-2022-30075 | NEW EXPLOIT FOR TP LINK | https://github.com/SAJIDAMINE/CVE-2022-30075 | | 
 | 20220610T09:52:22Z | CVE-2022-26134 | [CVE-2022-26134] Confluence Pre-Auth Object-Graph Navigation Language (OGNL) Injection | https://github.com/murataydemir/CVE-2022-26134 | | 
 | 20220610T09:07:45Z | CVE-2022-26134 | CVE-2022-26134, an OGNL injection vulnerability exists that would allow an unauthenticated attacker to execute arbitrary code on a Confluence Server or Data Center instance. This is CVE-2022-26134 expoitation script | https://github.com/sunny-kathuria/exploit_CVE-2022-26134 | | 
+| 20220610T08:32:28Z | CVE-2021-44582 | Null | https://github.com/warmachine-57/CVE-2021-44582 | | 
 
 
 # klee on Github 推荐

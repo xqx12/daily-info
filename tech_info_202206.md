@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220611T01:36:06Z | CVE-2022-23642 | PoC for Sourcegraph Gitserver < 3.37.0 RCE (CVE-2022-23642) | https://github.com/Altelus1/CVE-2022-23642 | | 
 | 20220610T19:05:48Z | CVE-2022-30190 | Null | https://github.com/DerZiad/CVE-2022-30190 | | 
-| 20220610T16:48:58Z | CVE-2022-23642 | PoC for Sourcegraph Gitserver < 3.37.0 RCE | https://github.com/Altelus1/CVE-2022-23642 | | 
 | 20220610T16:29:07Z | CVE-2022-30190 | this is my simple article about CVE 2022-30190 (Follina) analysis. I use the lab from Letsdefend. | https://github.com/Abdibimantara/CVE-2022-30190-Analysis-With-LetsDefends-Lab | | 
 | 20220610T12:23:08Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
 | 20220610T12:05:12Z | CVE-2022-20005 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005 | | 
