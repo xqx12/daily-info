@@ -35,7 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220611T12:19:32Z | HUinjection is a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and more. #SQLi #RCE #LFI #burp-extensions  | https://github.com/ericpd/HUinjection | 0 | 0| 
+| 20220611T12:22:22Z | HUinjection is a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and more. | https://github.com/ericpd/HUinjection | 0 | 0| 
 | 20220611T11:56:08Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 144 | 24| 
 | 20220611T11:24:02Z | 42 , Privilege escalation exercices on a system image | https://github.com/kema-dev/snow-crash | 0 | 0| 
 | 20220611T11:05:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3025 | 369| 
