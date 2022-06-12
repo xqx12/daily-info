@@ -82,6 +82,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T00:30:36Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..0 | 0 | 0| 
+| 20220612T00:29:52Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-..0 | 0 | 0| 
+| 20220612T00:29:03Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-..0 | 0 | 0| 
 | 20220611T23:41:40Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 157 | 47| 
 | 20220611T21:02:08Z | Exploit  | https://github.com/Keril2/Silent-Exploit-Source | 1 | 0| 
 | 20220611T21:02:06Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 13 | 3| 
@@ -89,9 +92,6 @@
 | 20220611T20:39:00Z | Quick start your  C++ exploits | https://github.com/hugsy/template-pwn | 0 | 0| 
 | 20220611T19:26:33Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 91 | 8| 
 | 20220611T19:07:07Z | Null | https://github.com/trixx4rrr/Exploit-Dexus-key | 0 | 0| 
-| 20220611T18:59:52Z | script exploit web | https://github.com/ry4wzbe/script.github.io | 0 | 0| 
-| 20220611T18:58:44Z | dockerized version of https://github.com/Al-Azif/ps4-exploit-host/releases | https://github.com/phixion/psx-docker | 0 | 0| 
-| 20220611T17:23:08Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 58 | 9| 
 
 
 # backdoor on Github 推荐
