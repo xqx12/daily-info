@@ -82,10 +82,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T12:05:18Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3028 | 369| 
 | 20220612T11:58:38Z | Null | https://github.com/DKMtomy/exploit | 0 | 0| 
 | 20220612T11:04:52Z | use exploit | https://github.com/WIZARD00007/PasswordGenerator | 0 | 0| 
 | 20220612T11:01:36Z | Exploiting Structures in Weight Matrices for Efficient Real-Time Drone Control with Neural Networks | https://github.com/MatthiasKi/drone_structures | 0 | 0| 
-| 20220612T09:58:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3027 | 369| 
 | 20220612T09:47:30Z | A vulnerable website to experiment with common web exploits | https://github.com/ADHFMZ7/ADHFMZ7.github.io | 0 | 0| 
 | 20220612T09:26:03Z | Null | https://github.com/t-rekttt/yoosee-exploit | 0 | 0| 
 | 20220612T09:02:53Z | Null | https://github.com/wickywanka/Follina_exploit | 0 | 0| 
