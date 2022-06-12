@@ -84,6 +84,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220612T12:34:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3031 | 369| 
 | 20220612T12:26:41Z | Get weszek hub for roblox the best exploits for arceus x and pc | https://github.com/weszek/weszek-hub | 0 | 0| 
+| 20220612T11:58:48Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 408 | 73| 
 | 20220612T11:58:38Z | Null | https://github.com/DKMtomy/exploit | 0 | 0| 
 | 20220612T11:04:52Z | use exploit | https://github.com/WIZARD00007/PasswordGenerator | 0 | 0| 
 | 20220612T11:01:36Z | Exploiting Structures in Weight Matrices for Efficient Real-Time Drone Control with Neural Networks | https://github.com/MatthiasKi/drone_structures | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20220612T09:26:03Z | Null | https://github.com/t-rekttt/yoosee-exploit | 0 | 0| 
 | 20220612T09:02:53Z | Null | https://github.com/wickywanka/Follina_exploit | 0 | 0| 
 | 20220612T07:04:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11603 | 1988| 
-| 20220612T01:52:21Z | Null | https://github.com/allandiegoasilva/exploit-late-htb | 0 | 0| 
 
 
 # backdoor on Github 推荐
