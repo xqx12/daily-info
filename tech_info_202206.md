@@ -135,7 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220612T01:17:55Z | A page noting fuzzing papers I%ve read | https://github.com/bladchan/FuzzPaperNotes | 0 | 0| 
+| 20220612T01:33:25Z | Null | https://github.com/bladchan/FuzzPaperNotes | 0 | 0| 
 | 20220612T01:01:32Z | Null | https://github.com/theidriselijah/fuzzy-spoon | 0 | 0| 
 | 20220611T23:46:11Z | Só testando o git | https://github.com/brufreitas/fuzzy-memory | 0 | 0| 
 | 20220611T19:56:21Z | A de-socketing library for fuzzing. | https://github.com/fkie-cad/libdesock | 101 | 8| 
