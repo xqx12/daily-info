@@ -45,8 +45,8 @@
 | 20220612T09:47:30Z | A vulnerable website to experiment with common web exploits | https://github.com/ADHFMZ7/ADHFMZ7.github.io | 0 | 0| 
 | 20220612T09:26:03Z | Null | https://github.com/t-rekttt/yoosee-exploit | 0 | 0| 
 | 20220612T09:02:53Z | Null | https://github.com/wickywanka/Follina_exploit | 0 | 0| 
+| 20220612T07:04:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11603 | 1988| 
 | 20220612T01:52:21Z | Null | https://github.com/allandiegoasilva/exploit-late-htb | 0 | 0| 
-| 20220612T01:45:22Z | Follina Exploit | https://github.com/SoftOrangeTech/follina-reverse-engineering | 0 | 0| 
 
 
 # backdoor on Github 推荐
