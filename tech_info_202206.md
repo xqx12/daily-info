@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220612T09:07:12Z | CVE-2022-30190 | proof of concept to CVE-2022-30190 (follina) | https://github.com/AmitNiz/follina_cve_2022-30190 | | 
+| 20220612T08:25:31Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809] | https://github.com/scoobydoobi/CVE-2022-26809-RCE | | 
 | 20220611T19:03:43Z | CVE-2022-24806 | CVE-2022-24806 and CVE-2022-24807 are an unauthenticated RCE vulnerability in magento and adobe commerce | https://github.com/oturu/CVE-2022-24806-MASS-RCE | | 
 | 20220611T17:36:01Z | CVE-2021-35576 | CVE-2021-35576 | https://github.com/emad-almousa/CVE-2021-35576 | | 
-| 20220611T15:47:49Z | CVE-2022-30190 | proof of concept to CVE-2022-30190 (follina) | https://github.com/AmitNiz/follina_cve_2022-30190 | | 
-| 20220611T13:22:45Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809] | https://github.com/scoobydoobi/CVE-2022-26809-RCE | | 
 | 20220611T07:05:07Z | CVE-2022-30075 | Null | https://github.com/trhacknon/CVE-2022-30075 | | 
 | 20220611T01:36:06Z | CVE-2022-23642 | PoC for Sourcegraph Gitserver < 3.37.0 RCE (CVE-2022-23642) | https://github.com/Altelus1/CVE-2022-23642 | | 
 | 20220610T19:05:48Z | CVE-2022-30190 | Null | https://github.com/DerZiad/CVE-2022-30190 | | 
@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T11:09:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6858 | 246| 
+| 20220612T09:59:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1982 | 565| 
+| 20220612T05:33:28Z | learning experience | https://github.com/kleeper123/kleeper | 0 | 0| 
 | 20220612T01:52:13Z | Null | https://github.com/RobbieEdwards/kleerun | 0 | 0| 
-| 20220612T01:50:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6842 | 245| 
-| 20220611T14:28:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1981 | 565| 
 | 20220610T13:20:52Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 45 | 7| 
 | 20220609T13:23:39Z | Null | https://github.com/Namianya/kleen | 0 | 0| 
 | 20220609T09:58:51Z | Github profile | https://github.com/ChanAndKlee/ChanAndKlee | 0 | 0| 
 | 20220609T06:05:13Z | Null | https://github.com/victorybringer/klee | 0 | 0| 
 | 20220606T19:32:42Z | Null | https://github.com/JUSTINCYBONIX23/kleerun | 0 | 0| 
 | 20220605T14:19:12Z | Null | https://github.com/Klee2707/Klee | 0 | 0| 
-| 20220604T08:49:34Z | Null | https://github.com/phamnhutduynguyen/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T11:58:38Z | Null | https://github.com/DKMtomy/exploit | 0 | 0| 
+| 20220612T11:04:52Z | use exploit | https://github.com/WIZARD00007/PasswordGenerator | 0 | 0| 
+| 20220612T11:01:36Z | Exploiting Structures in Weight Matrices for Efficient Real-Time Drone Control with Neural Networks | https://github.com/MatthiasKi/drone_structures | 0 | 0| 
+| 20220612T09:58:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3027 | 369| 
+| 20220612T09:47:30Z | A vulnerable website to experiment with common web exploits | https://github.com/ADHFMZ7/ADHFMZ7.github.io | 0 | 0| 
+| 20220612T09:26:03Z | Null | https://github.com/t-rekttt/yoosee-exploit | 0 | 0| 
+| 20220612T09:02:53Z | Null | https://github.com/wickywanka/Follina_exploit | 0 | 0| 
 | 20220612T01:52:21Z | Null | https://github.com/allandiegoasilva/exploit-late-htb | 0 | 0| 
 | 20220612T01:45:22Z | Follina Exploit | https://github.com/SoftOrangeTech/follina-reverse-engineering | 0 | 0| 
 | 20220612T01:01:53Z | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | 10 | 0| 
-| 20220612T00:30:36Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..0 | 0 | 0| 
-| 20220612T00:29:52Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-..0 | 0 | 0| 
-| 20220612T00:29:03Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-..0 | 0 | 0| 
-| 20220611T23:41:40Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 157 | 47| 
-| 20220611T21:02:08Z | Exploit  | https://github.com/Keril2/Silent-Exploit-Source | 1 | 0| 
-| 20220611T21:02:06Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 13 | 3| 
-| 20220611T20:42:42Z | Null | https://github.com/kkpsiren/Bug_Exploiters | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T10:22:00Z | Null | https://github.com/wolk4n/w-backdoor | 0 | 0| 
+| 20220612T10:15:38Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 55 | 18| 
+| 20220612T03:10:13Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 159 | 42| 
+| 20220612T02:43:03Z | Advanced backdoor framework with the ability to use AI to generate commands from text | https://github.com/diegomardian/Shellshock | 1 | 0| 
+| 20220612T02:26:36Z | Remote access backdoor | https://github.com/wzack850/RABD-Rabbid- | 0 | 0| 
 | 20220611T20:58:17Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 50 | 10| 
-| 20220611T20:14:44Z | Null | https://github.com/SabrinaMonoSoraka/backdoor-apk | 2 | 0| 
+| 20220611T20:14:44Z | Null | https://github.com/SabrinaMonoSoraka/backdoor-apk | 2 | 1| 
 | 20220611T16:56:37Z | Null | https://github.com/YCC-324/frequency_backdoor | 0 | 0| 
 | 20220611T16:08:45Z | Null | https://github.com/skyepodium/hangulfilter-backdoor | 0 | 0| 
 | 20220611T13:50:42Z | a membership based website built with django with all format of resources ( article, image, video) | https://github.com/kodjofr/alexendria-backdoor | 0 | 0| 
-| 20220611T13:39:12Z | Null | https://github.com/Springerstine/reverse_backdoor | 0 | 0| 
-| 20220611T11:23:56Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 54 | 18| 
-| 20220611T09:12:09Z | Backdoors | https://github.com/Anlominus/Backdoors | 0 | 0| 
-| 20220611T07:57:39Z | backdoor yang lebih advanced | https://github.com/devrix123/Cucuk | 1 | 0| 
-| 20220611T07:26:41Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 6 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T11:18:26Z | 一款利用Fofa进行子域收集、Xray漏洞Fuzz、Server酱即时通知提醒的互联网暴露面资产自动化快速打点工具 | https://github.com/savior-only/Ten-Thousand-Buddhas | 1 | 0| 
+| 20220612T07:17:22Z | Null | https://github.com/xihajun/fuzzy-octo-sniffle | 0 | 0| 
+| 20220612T07:11:48Z | Implementation of selected Fuzzy Sets  | https://github.com/jwieckowski/fuzzy-sets | 0 | 0| 
+| 20220612T05:42:11Z | Null | https://github.com/adamshand/fuzzle-finder | 0 | 0| 
 | 20220612T01:59:14Z | Poster made for a research conference. I decided to research fuzzing or fuzz testing.  | https://github.com/JoshUrbach/Fuzzing | 0 | 0| 
 | 20220612T01:48:11Z | A repository to record the notes of papers I%ve read | https://github.com/bladchan/FuzzPaperNotes | 0 | 0| 
 | 20220612T01:01:32Z | Null | https://github.com/theidriselijah/fuzzy-spoon | 0 | 0| 
 | 20220611T23:46:11Z | Só testando o git | https://github.com/brufreitas/fuzzy-memory | 0 | 0| 
 | 20220611T19:56:21Z | A de-socketing library for fuzzing. | https://github.com/fkie-cad/libdesock | 101 | 8| 
 | 20220611T19:45:04Z | Null | https://github.com/thaR00t/fuzzer | 1 | 0| 
-| 20220611T18:11:38Z | Grammar Fuzzer (gfuzzer): Fully Automated Test Generation, Execution, and Evaluation Tool | https://github.com/yavuzkoroglu/gfuzzer-release | 3 | 0| 
-| 20220611T17:19:57Z | Fuzzy logic steering control of autonomous vehicles inside roundabouts | https://github.com/BernardTockmaji/Fuzzy_logic_steering_control_of_autonomous_vehicles_inside_roundabouts | 0 | 0| 
-| 20220611T17:14:56Z | Using Fuzzy Logic Algorithm | https://github.com/BernardTockmaji/Fuzzy-Logic-Image-Enhancement | 0 | 0| 
-| 20220611T12:57:34Z | repo coba coba | https://github.com/Kanayatmd/fuzzy-funicular | 0 | 0| 
 
 
 
