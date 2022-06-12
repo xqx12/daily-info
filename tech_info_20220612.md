@@ -37,8 +37,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T12:34:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3031 | 369| 
 | 20220612T12:26:41Z | Get weszek hub for roblox the best exploits for arceus x and pc | https://github.com/weszek/weszek-hub | 0 | 0| 
-| 20220612T12:13:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3030 | 369| 
 | 20220612T11:58:38Z | Null | https://github.com/DKMtomy/exploit | 0 | 0| 
 | 20220612T11:04:52Z | use exploit | https://github.com/WIZARD00007/PasswordGenerator | 0 | 0| 
 | 20220612T11:01:36Z | Exploiting Structures in Weight Matrices for Efficient Real-Time Drone Control with Neural Networks | https://github.com/MatthiasKi/drone_structures | 0 | 0| 
