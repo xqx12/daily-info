@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T01:45:22Z | Follina Exploit | https://github.com/SoftOrangeTech/follina-reverse-engineering | 0 | 0| 
 | 20220612T01:01:53Z | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | 10 | 0| 
 | 20220612T00:30:36Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..0 | 0 | 0| 
 | 20220612T00:29:52Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-..0 | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20220611T21:02:06Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 13 | 3| 
 | 20220611T20:42:42Z | Null | https://github.com/kkpsiren/Bug_Exploiters | 0 | 0| 
 | 20220611T20:39:00Z | Quick start your  C++ exploits | https://github.com/hugsy/template-pwn | 0 | 0| 
-| 20220611T19:26:33Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 91 | 8| 
 
 
 # backdoor on Github 推荐
