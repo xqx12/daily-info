@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T12:26:41Z | Get weszek hub for roblox the best exploits for arceus x and pc | https://github.com/weszek/weszek-hub | 0 | 0| 
 | 20220612T12:13:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3030 | 369| 
 | 20220612T11:58:38Z | Null | https://github.com/DKMtomy/exploit | 0 | 0| 
 | 20220612T11:04:52Z | use exploit | https://github.com/WIZARD00007/PasswordGenerator | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20220612T09:02:53Z | Null | https://github.com/wickywanka/Follina_exploit | 0 | 0| 
 | 20220612T01:52:21Z | Null | https://github.com/allandiegoasilva/exploit-late-htb | 0 | 0| 
 | 20220612T01:45:22Z | Follina Exploit | https://github.com/SoftOrangeTech/follina-reverse-engineering | 0 | 0| 
-| 20220612T01:01:53Z | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | 10 | 0| 
 
 
 # backdoor on Github 推荐
