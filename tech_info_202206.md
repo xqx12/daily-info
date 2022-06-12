@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T00:18:00Z | Null | https://github.com/theidriselijah/fuzzy-spoon | 0 | 0| 
 | 20220611T23:46:11Z | Só testando o git | https://github.com/brufreitas/fuzzy-memory | 0 | 0| 
 | 20220611T19:56:21Z | A de-socketing library for fuzzing. | https://github.com/fkie-cad/libdesock | 101 | 8| 
 | 20220611T19:45:04Z | Null | https://github.com/thaR00t/fuzzer | 1 | 0| 
@@ -144,7 +145,6 @@
 | 20220611T12:57:34Z | repo coba coba | https://github.com/Kanayatmd/fuzzy-funicular | 0 | 0| 
 | 20220611T11:06:37Z | Evaluating the Influence of Compiler Flags on Fuzzing | https://github.com/abertschi/influence_compiler_flags_on_fuzzing | 0 | 0| 
 | 20220611T10:12:06Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 138 | 17| 
-| 20220611T10:11:15Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 384 | 57| 
 
 
 
