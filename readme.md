@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T12:47:45Z | A Simple PHP Script to Inject a custom made exploit into a server | https://github.com/PranavSatav/Exploit-Injector | 0 | 0| 
 | 20220612T12:34:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3031 | 369| 
 | 20220612T12:26:41Z | Get weszek hub for roblox the best exploits for arceus x and pc | https://github.com/weszek/weszek-hub | 0 | 0| 
 | 20220612T11:58:48Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 408 | 73| 
@@ -46,7 +47,6 @@
 | 20220612T09:47:30Z | A vulnerable website to experiment with common web exploits | https://github.com/ADHFMZ7/ADHFMZ7.github.io | 0 | 0| 
 | 20220612T09:26:03Z | Null | https://github.com/t-rekttt/yoosee-exploit | 0 | 0| 
 | 20220612T09:02:53Z | Null | https://github.com/wickywanka/Follina_exploit | 0 | 0| 
-| 20220612T07:04:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11603 | 1988| 
 
 
 # backdoor on Github 推荐
