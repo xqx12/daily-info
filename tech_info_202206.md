@@ -135,7 +135,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220612T01:33:25Z | Null | https://github.com/bladchan/FuzzPaperNotes | 0 | 0| 
+| 20220612T01:59:14Z | Poster made for a research conference. I decided to research fuzzing or fuzz testing.  | https://github.com/JoshUrbach/Fuzzing | 0 | 0| 
+| 20220612T01:48:11Z | A repository to record the notes of papers I%ve read | https://github.com/bladchan/FuzzPaperNotes | 0 | 0| 
 | 20220612T01:01:32Z | Null | https://github.com/theidriselijah/fuzzy-spoon | 0 | 0| 
 | 20220611T23:46:11Z | Só testando o git | https://github.com/brufreitas/fuzzy-memory | 0 | 0| 
 | 20220611T19:56:21Z | A de-socketing library for fuzzing. | https://github.com/fkie-cad/libdesock | 101 | 8| 
@@ -144,7 +145,6 @@
 | 20220611T17:19:57Z | Fuzzy logic steering control of autonomous vehicles inside roundabouts | https://github.com/BernardTockmaji/Fuzzy_logic_steering_control_of_autonomous_vehicles_inside_roundabouts | 0 | 0| 
 | 20220611T17:14:56Z | Using Fuzzy Logic Algorithm | https://github.com/BernardTockmaji/Fuzzy-Logic-Image-Enhancement | 0 | 0| 
 | 20220611T12:57:34Z | repo coba coba | https://github.com/Kanayatmd/fuzzy-funicular | 0 | 0| 
-| 20220611T11:06:37Z | Evaluating the Influence of Compiler Flags on Fuzzing | https://github.com/abertschi/influence_compiler_flags_on_fuzzing | 0 | 0| 
 
 
 
