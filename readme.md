@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220612T12:05:18Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3028 | 369| 
+| 20220612T12:08:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3029 | 369| 
 | 20220612T11:58:38Z | Null | https://github.com/DKMtomy/exploit | 0 | 0| 
 | 20220612T11:04:52Z | use exploit | https://github.com/WIZARD00007/PasswordGenerator | 0 | 0| 
 | 20220612T11:01:36Z | Exploiting Structures in Weight Matrices for Efficient Real-Time Drone Control with Neural Networks | https://github.com/MatthiasKi/drone_structures | 0 | 0| 
