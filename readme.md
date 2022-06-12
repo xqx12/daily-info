@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220612T12:47:45Z | A Simple PHP Script to Inject a custom made exploit into a server | https://github.com/PranavSatav/Exploit-Injector | 0 | 0| 
+| 20220612T12:53:22Z | A Simple PHP Script to Inject a custom made exploit into a server | https://github.com/PranavSatav/Exploit-Injector | 0 | 0| 
 | 20220612T12:34:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3031 | 369| 
 | 20220612T12:26:41Z | Get weszek hub for roblox the best exploits for arceus x and pc | https://github.com/weszek/weszek-hub | 0 | 0| 
 | 20220612T11:58:48Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 408 | 73| 
