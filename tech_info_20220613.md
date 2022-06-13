@@ -88,6 +88,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220613T11:54:26Z | Null | https://github.com/Rodrigo41555557/ExercicioLogicaFuzzyColab | 0 | 0| 
+| 20220613T11:31:03Z | Fuzzing plattform for medical protocols | https://github.com/RUB-NDS/medfuzz | 0 | 0| 
+| 20220613T11:19:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4182 | 996| 
+| 20220613T10:20:03Z | library fungsi keanggotaan fuzzy | https://github.com/tuanAbdul/fuzzyBro | 0 | 0| 
+| 20220613T09:15:28Z | Bulanık ahp yöntemi kullanılarak hesap | https://github.com/SeyfiMucevher/FuzzyAHP12 | 0 | 0| 
+| 20220613T08:50:10Z | Null | https://github.com/ybxm1/myClusterFuzz | 2 | 0| 
+| 20220613T08:38:50Z | Null | https://github.com/lockround/fuzzy-broccoli-codespaces | 0 | 0| 
+| 20220613T01:27:10Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 147 | 18| 
 | 20220613T00:53:06Z | Null | https://github.com/tanya-grek-v2/fuzzy-logic | 0 | 0| 
 
 
