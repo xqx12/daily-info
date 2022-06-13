@@ -141,10 +141,10 @@
 | 20220612T21:04:51Z | Null | https://github.com/pecenvilem/fuzzy | 0 | 0| 
 | 20220612T20:19:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7493 | 1608| 
 | 20220612T19:35:52Z | Helper functions to easily search for Excel-Cells by value, color, formatting or else ✨ | https://github.com/JonasHablitzel/fuzzpyxl | 0 | 0| 
+| 20220612T18:30:48Z | Um simples web fuzzer feito em python. | https://github.com/accessmaker/FUzzPy | 1 | 0| 
 | 20220612T17:16:49Z | High performance fuzzing using riscv to x86 binary translations and modern fuzzing techniques | https://github.com/seal9055/sfuzz | 82 | 5| 
 | 20220612T11:18:26Z | 一款利用Fofa进行子域收集、Xray漏洞Fuzz、Server酱即时通知提醒的互联网暴露面资产自动化快速打点工具 | https://github.com/savior-only/Ten-Thousand-Buddhas | 1 | 0| 
 | 20220612T07:17:22Z | Null | https://github.com/xihajun/fuzzy-octo-sniffle | 0 | 0| 
-| 20220612T07:11:48Z | Implementation of selected Fuzzy Sets  | https://github.com/jwieckowski/fuzzy-sets | 0 | 0| 
 
 
 
