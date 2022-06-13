@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220613T12:15:34Z | Null | https://github.com/Cold5nap/FuzzySystem | 0 | 0| 
 | 20220613T12:13:54Z | Fuzzy C Means source code | https://github.com/berkemaydemir/Fuzzy-C-Means | 0 | 0| 
 | 20220613T11:54:26Z | Null | https://github.com/Rodrigo41555557/ExercicioLogicaFuzzyColab | 0 | 0| 
 | 20220613T11:31:03Z | Fuzzing plattform for medical protocols | https://github.com/RUB-NDS/medfuzz | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220613T08:50:10Z | Null | https://github.com/ybxm1/myClusterFuzz | 2 | 0| 
 | 20220613T08:38:50Z | Null | https://github.com/lockround/fuzzy-broccoli-codespaces | 0 | 0| 
 | 20220613T01:27:10Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 147 | 18| 
-| 20220613T00:53:06Z | Null | https://github.com/tanya-grek-v2/fuzzy-logic | 0 | 0| 
 
 
 
