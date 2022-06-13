@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220613T00:53:06Z | Null | https://github.com/tanya-grek-v2/fuzzy-logic | 0 | 0| 
 | 20220612T21:29:01Z | Null | https://github.com/sdkv2/fuzzy-eureka.github.io | 0 | 0| 
 | 20220612T21:26:39Z | a fullstack todoapp build with react  , aws coginto and aws appsync. | https://github.com/evergreenx/fuzzy-doodle | 0 | 0| 
 | 20220612T21:10:08Z | Null | https://github.com/alexander-nech/Fuzzy-Logic-Food-Recommender | 0 | 0| 
@@ -144,7 +145,6 @@
 | 20220612T18:30:48Z | Um simples web fuzzer feito em python. | https://github.com/accessmaker/FUzzPy | 1 | 0| 
 | 20220612T17:16:49Z | High performance fuzzing using riscv to x86 binary translations and modern fuzzing techniques | https://github.com/seal9055/sfuzz | 82 | 5| 
 | 20220612T11:18:26Z | 一款利用Fofa进行子域收集、Xray漏洞Fuzz、Server酱即时通知提醒的互联网暴露面资产自动化快速打点工具 | https://github.com/savior-only/Ten-Thousand-Buddhas | 1 | 0| 
-| 20220612T07:17:22Z | Null | https://github.com/xihajun/fuzzy-octo-sniffle | 0 | 0| 
 
 
 
