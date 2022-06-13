@@ -82,6 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220613T00:03:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-.0. | 0 | 0| 
+| 20220613T00:02:48Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.0. | 0 | 0| 
 | 20220613T00:01:55Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0. | 0 | 0| 
 | 20220612T22:11:57Z | Proof-of-concept exploit for WinRing0. | https://github.com/Exploitables/WinRing0-poc | 1 | 0| 
 | 20220612T19:54:34Z | Null | https://github.com/StyxWebsiteBuild/Jupiter-Exploits-WPF-UI | 0 | 0| 
@@ -90,8 +92,6 @@
 | 20220612T16:12:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11605 | 1988| 
 | 20220612T14:24:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 439 | 126| 
 | 20220612T12:53:22Z | A Simple PHP Script to Inject a custom made exploit into a server | https://github.com/PranavSatav/Exploit-Injector | 0 | 0| 
-| 20220612T12:34:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3031 | 369| 
-| 20220612T12:26:41Z | Get weszek hub for roblox the best exploits for arceus x and pc | https://github.com/weszek/weszek-hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -135,16 +135,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220612T21:29:01Z | Null | https://github.com/sdkv2/fuzzy-eureka.github.io | 0 | 0| 
+| 20220612T21:26:39Z | a fullstack todoapp build with react  , aws coginto and aws appsync. | https://github.com/evergreenx/fuzzy-doodle | 0 | 0| 
+| 20220612T21:10:08Z | Null | https://github.com/alexander-nech/Fuzzy-Logic-Food-Recommender | 0 | 0| 
+| 20220612T21:04:51Z | Null | https://github.com/pecenvilem/fuzzy | 0 | 0| 
+| 20220612T20:19:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7493 | 1608| 
+| 20220612T19:35:52Z | Helper functions to easily search for Excel-Cells by value, color, formatting or else ✨ | https://github.com/JonasHablitzel/fuzzpyxl | 0 | 0| 
+| 20220612T17:16:49Z | High performance fuzzing using riscv to x86 binary translations and modern fuzzing techniques | https://github.com/seal9055/sfuzz | 82 | 5| 
 | 20220612T11:18:26Z | 一款利用Fofa进行子域收集、Xray漏洞Fuzz、Server酱即时通知提醒的互联网暴露面资产自动化快速打点工具 | https://github.com/savior-only/Ten-Thousand-Buddhas | 1 | 0| 
 | 20220612T07:17:22Z | Null | https://github.com/xihajun/fuzzy-octo-sniffle | 0 | 0| 
 | 20220612T07:11:48Z | Implementation of selected Fuzzy Sets  | https://github.com/jwieckowski/fuzzy-sets | 0 | 0| 
-| 20220612T05:42:11Z | Null | https://github.com/adamshand/fuzzle-finder | 0 | 0| 
-| 20220612T01:59:14Z | Poster made for a research conference. I decided to research fuzzing or fuzz testing.  | https://github.com/JoshUrbach/Fuzzing | 0 | 0| 
-| 20220612T01:48:11Z | A repository to record the notes of papers I%ve read | https://github.com/bladchan/FuzzPaperNotes | 0 | 0| 
-| 20220612T01:01:32Z | Null | https://github.com/theidriselijah/fuzzy-spoon | 0 | 0| 
-| 20220611T23:46:11Z | Só testando o git | https://github.com/brufreitas/fuzzy-memory | 0 | 0| 
-| 20220611T19:56:21Z | A de-socketing library for fuzzing. | https://github.com/fkie-cad/libdesock | 101 | 8| 
-| 20220611T19:45:04Z | Null | https://github.com/thaR00t/fuzzer | 1 | 0| 
 
 
 
