@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220613T01:28:18Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOIT0DAYCVE202230190 | 0 | 0| 
+| 20220613T01:39:18Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOIT0DAYCVE202230190 | 0 | 0| 
 | 20220613T00:39:31Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 14 | 3| 
 | 20220613T00:03:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-.0. | 0 | 0| 
 | 20220613T00:02:48Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.0. | 0 | 0| 
