@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220613T12:41:24Z | EvryThing related to algorithms | https://github.com/kameronmazuda/Exploiting-algorithms | 0 | 0| 
 | 20220613T12:00:18Z | Docker container with exploitation technique examples, used in my master thesis | https://github.com/Neetx/exploitation_docker | 6 | 0| 
 | 20220613T11:55:20Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 907 | 150| 
 | 20220613T11:31:54Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-demo-application-albarbaro-exploit-benefit | 0 | 0| 
+| 20220613T11:13:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11607 | 1988| 
 | 20220613T10:39:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3034 | 370| 
 | 20220613T09:39:59Z | Proof of Concept Exploit for PrimeFaces 5.x EL Injection (CVE-2017-1000486) | https://github.com/mogwailabs/CVE-2017-1000486 | 6 | 1| 
 | 20220613T09:34:46Z | Prevents yourself from feeling exploited | https://github.com/mindtastic/stagefright | 0 | 0| 
 | 20220613T08:16:47Z | An android image kernel used for testing/running exploit   | https://github.com/Tozman99/android-testing-kernel- | 0 | 0| 
 | 20220613T08:08:24Z | 4.9 Kernel Exploit for CVE-2020-27786 | https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit | 0 | 0| 
-| 20220613T06:40:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 438 | 126| 
-| 20220613T01:41:46Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOIT0DAYCVE202230190 | 1 | 0| 
 
 
 # backdoor on Github 推荐
