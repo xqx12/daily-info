@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220613T00:39:31Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 14 | 3| 
 | 20220613T00:03:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-.0. | 0 | 0| 
 | 20220613T00:02:48Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.0. | 0 | 0| 
 | 20220613T00:01:55Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0. | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20220612T18:04:29Z | A brief summary of recent Linux privilege escalation exploit.  | https://github.com/MCANMCAN/TheDirtyPipeExploit | 0 | 0| 
 | 20220612T16:12:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11605 | 1988| 
 | 20220612T14:24:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 439 | 126| 
-| 20220612T12:53:22Z | A Simple PHP Script to Inject a custom made exploit into a server | https://github.com/PranavSatav/Exploit-Injector | 0 | 0| 
 
 
 # backdoor on Github 推荐
