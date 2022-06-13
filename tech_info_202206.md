@@ -91,7 +91,7 @@
 | 20220612T19:54:34Z | Null | https://github.com/StyxWebsiteBuild/Jupiter-Exploits-WPF-UI | 0 | 0| 
 | 20220612T19:47:00Z | Buffer Overflow Exploit for Sync Breeze.  | https://github.com/MrG3tty/Sync-Breeze-Remote-Exploit | 0 | 0| 
 | 20220612T18:04:29Z | A brief summary of recent Linux privilege escalation exploit.  | https://github.com/MCANMCAN/TheDirtyPipeExploit | 0 | 0| 
-| 20220612T16:12:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11605 | 1988| 
+| 20220612T17:46:57Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 186 | 83| 
 
 
 # backdoor on Github 推荐
