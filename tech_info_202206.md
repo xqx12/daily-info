@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220613T01:39:18Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOIT0DAYCVE202230190 | 0 | 0| 
+| 20220613T01:41:46Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOIT0DAYCVE202230190 | 1 | 0| 
 | 20220613T00:39:31Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 14 | 3| 
 | 20220613T00:03:32Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-.0. | 0 | 0| 
 | 20220613T00:02:48Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.0. | 0 | 0| 
@@ -90,8 +90,8 @@
 | 20220612T22:11:57Z | Proof-of-concept exploit for WinRing0. | https://github.com/Exploitables/WinRing0-poc | 1 | 0| 
 | 20220612T19:54:34Z | Null | https://github.com/StyxWebsiteBuild/Jupiter-Exploits-WPF-UI | 0 | 0| 
 | 20220612T19:47:00Z | Buffer Overflow Exploit for Sync Breeze.  | https://github.com/MrG3tty/Sync-Breeze-Remote-Exploit | 0 | 0| 
+| 20220612T19:03:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3032 | 369| 
 | 20220612T18:04:29Z | A brief summary of recent Linux privilege escalation exploit.  | https://github.com/MCANMCAN/TheDirtyPipeExploit | 0 | 0| 
-| 20220612T17:46:57Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 186 | 83| 
 
 
 # backdoor on Github 推荐
