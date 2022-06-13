@@ -136,7 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220613T12:38:27Z | Null | https://github.com/Cold5nap/FuzzySystem | 0 | 0| 
+| 20220613T12:41:50Z | Null | https://github.com/Cold5nap/FuzzySystem | 0 | 0| 
 | 20220613T12:33:54Z | Get Data and Fuzz Your App | https://github.com/Aif4thah/CShidori | 1 | 0| 
 | 20220613T12:13:54Z | Fuzzy C Means source code | https://github.com/berkemaydemir/Fuzzy-C-Means | 0 | 0| 
 | 20220613T11:54:26Z | Null | https://github.com/Rodrigo41555557/ExercicioLogicaFuzzyColab | 0 | 0| 
