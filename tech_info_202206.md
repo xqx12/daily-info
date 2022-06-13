@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220613T00:01:55Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.0. | 0 | 0| 
 | 20220612T22:11:57Z | Proof-of-concept exploit for WinRing0. | https://github.com/Exploitables/WinRing0-poc | 1 | 0| 
 | 20220612T19:54:34Z | Null | https://github.com/StyxWebsiteBuild/Jupiter-Exploits-WPF-UI | 0 | 0| 
 | 20220612T19:47:00Z | Buffer Overflow Exploit for Sync Breeze.  | https://github.com/MrG3tty/Sync-Breeze-Remote-Exploit | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20220612T12:53:22Z | A Simple PHP Script to Inject a custom made exploit into a server | https://github.com/PranavSatav/Exploit-Injector | 0 | 0| 
 | 20220612T12:34:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3031 | 369| 
 | 20220612T12:26:41Z | Get weszek hub for roblox the best exploits for arceus x and pc | https://github.com/weszek/weszek-hub | 0 | 0| 
-| 20220612T11:58:48Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 408 | 73| 
 
 
 # backdoor on Github 推荐
