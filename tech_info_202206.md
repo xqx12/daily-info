@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220614 | System Informer - 一款开源的 Windows 资源监控和软件调试工具 | https://github.com/winsiderss/systeminformer| 
+| 20220614 | 微软对 BlackCat 勒索软件的分析 | https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/| 
+| 20220614 | 微软 Synapse Analytics 平台被发现提权漏洞 | https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291| 
+| 20220614 | SON web tokens (JWTs) 使用过程中的设计和实现漏洞 | https://portswigger.net/web-security/jwt| 
+| 20220614 | Issue 2280: Chrome: Incomplete fix for CVE-2022-1096 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2280| 
+| 20220614 | curl 7.83.0 的 Cookie/Authorization 过程被发现 3 个逻辑漏洞 | https://haxatron.gitbook.io/vulnerability-research/vr2| 
+| 20220614 | Apple macOS Ventura 新版本系统安全相关的变化 | https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/| 
+| 20220614 | 对攻击 Web3 钱包 iOS 用户的 SeaFlower 藏海花后门 App 的分析 | http://objective-see.org/blog/blog_0x6F.html| 
 | 20220613 | 聊下最近的 CVE-2022-30190 | http://paper.seebug.org/1915/| 
 | 20220613 | PiRogue - 一款开源的手机取证和流量分析套件 | http://pts-project.org/| 
 | 20220613 | Instagram 任意用户缩略图修改漏洞 | https://medium.com/@root.n33r4j/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853| 
@@ -18,19 +26,13 @@
 | 20220613 | 一加工程模式指令逆向 | http://radioactive.blog/2022/06/02/oneplus_engineermode_code_all_in_one/| 
 | 20220610 | PAcT - Android 应用隐私访问行为检测和分类（Paper） | https://storage.googleapis.com/pub-tools-public-publication-data/pdf/7884664b22fae3c4daaacb598454bf9088574f4c.pdf| 
 | 20220610 | 一份开源安全项目清单，以帮助甲方安全从业人员构建企业安全能力 | https://github.com/Bypass007/Safety-Project-Collection| 
-| 20220610 | EMUX Firmware Emulation Framework | https://github.com/therealsaumil/emux| 
-| 20220610 | Fuzz Introspector - 优化 Fuzzing Coverage Blockers 识别的工具 | http://openssf.org/blog/2022/06/09/introducing-fuzz-introspector-an-openssf-tool-to-improve-fuzzing-coverage/| 
-| 20220610 | Linux eBPF CVE-2022-23222 提权漏洞 Exploit | https://github.com/tr3ee/CVE-2022-23222| 
-| 20220610 | Trivy - 在容器镜像、文件系统、Git Repo 中扫描漏洞的工具 | https://github.com/aquasecurity/trivy| 
-| 20220610 | 利用实时分布式 OLAP 数据库 Apache Pinot 的 SQL 注入漏洞实现 RCE | http://blog.doyensec.com/2022/06/09/apache-pinot-sqli-rce.html| 
-| 20220610 | Symbiote - 利用 LD_PRELOAD 注入全系统进程的恶意软件，可以完全隐藏自身 | http://www.intezer.com/blog/research/new-linux-threat-symbiote/| 
-| 20220610 | 鲨鱼的狂欢 — APT-C-55 Kimsuky组织近期BabyShark组件披露 | https://mp.weixin.qq.com/s/ZV8AOTd7YGUgCTTTZtTktQ| 
-| 20220609 | TPMEavesEmu - 通过模拟的方法辅助测试 TPM 实现安全的工具 | https://github.com/quarkslab/tpmee| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220614 | Cloud I Hack into Google Cloud | https://mp.weixin.qq.com/s/qXYkarSVVTpYLx9zwt0UjA| 
+| 20220614 | Shodan 与 Censys 扫描一瞥 | https://mp.weixin.qq.com/s/b6lzQ4F8AwELGw4JZGR_vw| 
 | 20220613 | SecWiki周刊（第432期) | https://www.sec-wiki.com/weekly/432| 
 | 20220611 | 通过NPM生态系统中的依赖树揭开脆弱性传播及其演化的神秘面纱 | https://mp.weixin.qq.com/s/iNHFh6FBfcFtHndtgU9ZJw| 
 | 20220610 | 针对解释性语言包管理器的供应链攻击研究 | https://mp.weixin.qq.com/s/d0yGhb6PFnHzg7U_nrBgAg| 
@@ -39,38 +41,36 @@
 | 20220609 | 我所理解的安全运营 | https://mp.weixin.qq.com/s?__biz=Mzg5NzY5NjM5Mg==&mid=2247484056&idx=1&sn=751c997279e7693e201d2cab6429244e&chksm=c06c957ff71b1c692b03fa78ff90cf504229cd5f3d1e36d23decc1799f35237c2f007ca51800&token=71555406&lang=zh_CN#rd| 
 | 20220609 | 从RSAC 2022创新沙盒看网安技术创新趋势 | https://mp.weixin.qq.com/s/3HXPUP-SoH95zxyWOflwyQ| 
 | 20220608 | 浅谈设备指纹技术和应用 | https://mp.weixin.qq.com/s/XAGQl8rk4E-JFJYefIHqKg| 
-| 20220608 | 溯源反制案例分享（二） | https://mp.weixin.qq.com/s/JXfNCIzZznn1UVXhYDzRIA| 
-| 20220608 | SQL脚本自动化审核工具（MYSQL） | https://mp.weixin.qq.com/s/In-MdryQSdqFSA2fqdFHvg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220614T01:55:38Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
+| 20220614T09:27:37Z | CVE-2022-30190 | Null | https://github.com/ernestak/Sigma-Rule-for-CVE-2022-30190 | | 
+| 20220614T09:19:03Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/greenhandatsjtu/CVE-2022-0847 | | 
+| 20220614T08:34:11Z | CVE-2022-24706 | I wrote a blog post about Apache CouchDB CVE-2022-24706 RCE Exploits | https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post- | | 
+| 20220614T08:29:40Z | CVE-2022-30190 | Null | https://github.com/ernestak/CVE-2022-30190 | | 
+| 20220614T06:16:01Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
 | 20220614T00:52:44Z | CVE-2022-1972 | Null | https://github.com/randorisec/CVE-2022-1972-infoleak-PoC | | 
 | 20220613T23:43:19Z | CVE-2021-40650 | Null | https://github.com/l00neyhacker/CVE-2021-40650 | | 
 | 20220613T23:33:20Z | CVE-2021-40649 | Null | https://github.com/l00neyhacker/CVE-2021-40649 | | 
 | 20220613T21:36:40Z | CVE-2022-30190 | Python file scanner created in 2021 scanning for known and potential vulns | https://github.com/XxToxicScriptxX/CVE-2022-30190 | | 
 | 20220613T21:23:53Z | CVE-2022-30525 | CVE-2022-30525 POC | https://github.com/ProngedFork/CVE-2022-30525 | | 
-| 20220613T19:55:12Z | CVE-2022-31301 | Haraj Script 3.7 - Post Ads Authenticated Stored XSS | https://github.com/bigzooooz/CVE-2022-31301 | | 
-| 20220613T19:43:33Z | CVE-2022-31300 | Haraj Script 3.7 - DM Section Authenticated Stored XSS | https://github.com/bigzooooz/CVE-2022-31300 | | 
-| 20220613T19:38:47Z | CVE-2022-31294 | Online Discussion Forum Site 1.0 - Account Takeover | https://github.com/bigzooooz/CVE-2022-31294 | | 
-| 20220613T19:38:21Z | CVE-2022-31295 | Online Discussion Forum Site 1.0 - IDOR / Delete any post | https://github.com/bigzooooz/CVE-2022-31295 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220614T01:54:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6883 | 246| 
+| 20220614T11:59:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6896 | 246| 
+| 20220614T05:27:18Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/AnonyGiit/FastKLEE | 0 | 0| 
+| 20220614T04:55:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1984 | 566| 
 | 20220613T17:22:14Z | Null | https://github.com/RobbieEdwards/github_klee | 0 | 0| 
-| 20220613T17:00:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1983 | 566| 
 | 20220613T16:11:50Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
 | 20220613T15:28:17Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 46 | 7| 
 | 20220613T00:57:46Z | Null | https://github.com/Namianya/kleen | 0 | 0| 
 | 20220612T14:24:26Z | Null | https://github.com/mojyack/klee | 0 | 0| 
 | 20220612T05:33:28Z | learning experience | https://github.com/kleeper123/kleeper | 0 | 0| 
 | 20220612T01:52:13Z | Null | https://github.com/RobbieEdwards/kleerun | 0 | 0| 
-| 20220609T09:58:51Z | Github profile | https://github.com/ChanAndKlee/ChanAndKlee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T12:00:49Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 4 | 0| 
+| 20220614T11:51:30Z | A compilation of common exploits, vulnerabilities, etc. that I could find | https://github.com/headquarter8302/exploits | 0 | 0| 
+| 20220614T11:40:28Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Lexsolena/uwu | 0 | 1| 
+| 20220614T10:20:01Z | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | 49 | 8| 
+| 20220614T09:56:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 439 | 126| 
+| 20220614T09:04:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3042 | 369| 
+| 20220614T08:34:11Z | I wrote a blog post about Apache CouchDB CVE-2022-24706 RCE Exploits | https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post- | 0 | 0| 
+| 20220614T05:25:09Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 420 | 76| 
+| 20220614T04:36:30Z | Public Repository for Exploit Central Development | https://github.com/rkdavies/ExploitCentral | 1 | 0| 
 | 20220614T01:23:14Z | Post-exploitation tools wrapper | https://github.com/Karmaz95/crimson_lisp | 1 | 0| 
-| 20220614T01:01:53Z | An Obsidian-powered wiki chronicling the exploits of a party of adventurers as they play The Lost Mine of Phandelver | https://github.com/nathangathright/loreweaving | 0 | 0| 
-| 20220614T00:40:08Z | RBLXWILD open any case for free | https://github.com/Odsku/RBLXWILD-DailyCaseExploit | 1 | 0| 
-| 20220614T00:04:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3040 | 370| 
-| 20220614T00:01:16Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0 | 0 | 0| 
-| 20220614T00:00:28Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN.0 | 0 | 0| 
-| 20220613T23:59:37Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN.0 | 0 | 0| 
-| 20220613T23:21:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11610 | 1988| 
-| 20220613T22:06:37Z | Exploit for the Wii U%s USB Host Stack | https://github.com/GaryOderNichts/udpih | 61 | 1| 
-| 20220613T22:04:24Z | A website that serves as a hub for exploits and glitches in video games. No longer do you need to spend hours looking at 10 year old youtube videos, now you can browse tested, detailed methods in one easy place | https://github.com/ProfMonkey07/gamesplotionary | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -136,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T09:14:46Z | Bulanık ahp yöntemi kullanılarak hesap | https://github.com/SeyfiMucevher/FuzzyAHP12 | 0 | 0| 
+| 20220614T08:12:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 851 | 99| 
+| 20220614T07:50:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7496 | 1609| 
+| 20220614T07:21:41Z | Automatic fuzz targets generation for Golang packages | https://github.com/catenacyber/ngolo-fuzzing | 5 | 1| 
 | 20220614T01:39:46Z | Null | https://github.com/ardaku/fuzzy-search | 0 | 0| 
 | 20220614T01:14:42Z | Minecraft Modpack thing | https://github.com/DwightDaddy/fuzzy-goggles | 0 | 0| 
 | 20220614T00:48:06Z | My repository on GitHub. | https://github.com/Urgirlempress/fuzzy-enigma | 1 | 0| 
 | 20220614T00:44:32Z | Null | https://github.com/stasl0217/FuzzQE-code | 0 | 0| 
 | 20220614T00:02:32Z | Null | https://github.com/mmdiyul/fuzz-py | 0 | 0| 
 | 20220613T21:39:52Z | Write fuzzing tests for use within Jest | https://github.com/68kHeart/jest-fuzzer | 0 | 0| 
-| 20220613T20:50:10Z | Some fuzzing lists for web penetration testing | https://github.com/jbcu1/Web_Lists | 0 | 0| 
-| 20220613T20:22:05Z | Null | https://github.com/Viasat/gRPC-Fuzzer | 0 | 0| 
-| 20220613T16:33:06Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 148 | 18| 
-| 20220613T16:19:48Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2561 | 169| 
 
 
 
