@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220614T00:52:44Z | CVE-2022-1972 | Null | https://github.com/randorisec/CVE-2022-1972-infoleak-PoC | | 
 | 20220613T23:43:19Z | CVE-2021-40650 | Null | https://github.com/l00neyhacker/CVE-2021-40650 | | 
 | 20220613T23:33:20Z | CVE-2021-40649 | Null | https://github.com/l00neyhacker/CVE-2021-40649 | | 
 | 20220613T23:02:46Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
@@ -55,7 +56,6 @@
 | 20220613T19:43:33Z | CVE-2022-31300 | Haraj Script 3.7 - DM Section Authenticated Stored XSS | https://github.com/bigzooooz/CVE-2022-31300 | | 
 | 20220613T19:38:47Z | CVE-2022-31294 | Online Discussion Forum Site 1.0 - Account Takeover | https://github.com/bigzooooz/CVE-2022-31294 | | 
 | 20220613T19:38:21Z | CVE-2022-31295 | Online Discussion Forum Site 1.0 - IDOR / Delete any post | https://github.com/bigzooooz/CVE-2022-31295 | | 
-| 20220613T19:37:55Z | CVE-2022-31296 | Online Discussion Forum Site 1.0 - Blind SQL Injection | https://github.com/bigzooooz/CVE-2022-31296 | | 
 
 
 # klee on Github 推荐
