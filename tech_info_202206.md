@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T01:14:42Z | Minecraft Modpack thing | https://github.com/DwightDaddy/fuzzy-goggles | 0 | 0| 
 | 20220614T00:48:06Z | My repository on GitHub. | https://github.com/Urgirlempress/fuzzy-enigma | 1 | 0| 
 | 20220614T00:44:32Z | Null | https://github.com/stasl0217/FuzzQE-code | 0 | 0| 
 | 20220614T00:02:32Z | Null | https://github.com/mmdiyul/fuzz-py | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20220613T16:33:06Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 148 | 18| 
 | 20220613T16:19:48Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2561 | 169| 
 | 20220613T12:41:50Z | Null | https://github.com/Cold5nap/FuzzySystem | 0 | 0| 
-| 20220613T12:33:54Z | Get Data and Fuzz Your App | https://github.com/Aif4thah/CShidori | 1 | 0| 
 
 
 
