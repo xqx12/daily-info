@@ -86,13 +86,13 @@
 | 20220614T01:23:14Z | Post-exploitation tools wrapper | https://github.com/Karmaz95/crimson_lisp | 1 | 0| 
 | 20220614T01:01:53Z | An Obsidian-powered wiki chronicling the exploits of a party of adventurers as they play The Lost Mine of Phandelver | https://github.com/nathangathright/loreweaving | 0 | 0| 
 | 20220614T00:40:08Z | RBLXWILD open any case for free | https://github.com/Odsku/RBLXWILD-DailyCaseExploit | 1 | 0| 
+| 20220614T00:04:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3040 | 370| 
 | 20220614T00:01:16Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0 | 0 | 0| 
 | 20220614T00:00:28Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN.0 | 0 | 0| 
 | 20220613T23:59:37Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN.0 | 0 | 0| 
 | 20220613T23:21:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11610 | 1988| 
 | 20220613T22:06:37Z | Exploit for the Wii U%s USB Host Stack | https://github.com/GaryOderNichts/udpih | 61 | 1| 
 | 20220613T22:04:24Z | A website that serves as a hub for exploits and glitches in video games. No longer do you need to spend hours looking at 10 year old youtube videos, now you can browse tested, detailed methods in one easy place | https://github.com/ProfMonkey07/gamesplotionary | 0 | 0| 
-| 20220613T21:41:02Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4630 | 593| 
 
 
 # backdoor on Github 推荐

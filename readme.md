@@ -67,7 +67,7 @@
 | 20220613T20:05:29Z | Null | https://github.com/Mitrakarimiyekta/exploit | 0 | 0| 
 | 20220613T19:37:21Z | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | 6 | 2| 
 | 20220613T12:51:15Z | Null | https://github.com/gokceuludogan/exploiting_PLMs_for_targeted_drug_design | 0 | 0| 
-| 20220613T12:48:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3035 | 370| 
+| 20220613T12:41:24Z | EvryThing related to algorithms | https://github.com/kameronmazuda/Exploiting-algorithms | 0 | 0| 
 
 
 # backdoor on Github 推荐
