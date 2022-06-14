@@ -73,7 +73,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220613T19:25:13Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 5 | 0| 
 | 20220613T15:18:06Z | Null | https://github.com/KassemKallas/BackdoorAttack-ICIP2019 | 0 | 0| 
 | 20220613T14:04:09Z | Velt: Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20220613T10:15:33Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 504 | 93| 
