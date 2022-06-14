@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T12:24:31Z | FuzzyCMeans Algoritmasi | https://github.com/kaankalttakiran/FuzzyCMeans | 0 | 0| 
 | 20220614T12:17:13Z | Null | https://github.com/Crescentm/fuzzer-back | 0 | 0| 
 | 20220614T12:11:52Z | Null | https://github.com/Crescentm/fuzzer_server | 1 | 0| 
 | 20220614T12:06:20Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 149 | 18| 
@@ -99,7 +100,6 @@
 | 20220614T07:21:41Z | Automatic fuzz targets generation for Golang packages | https://github.com/catenacyber/ngolo-fuzzing | 5 | 1| 
 | 20220614T05:14:10Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2527 | 490| 
 | 20220614T01:39:46Z | Null | https://github.com/ardaku/fuzzy-search | 0 | 0| 
-| 20220614T01:14:42Z | Minecraft Modpack thing | https://github.com/DwightDaddy/fuzzy-goggles | 0 | 0| 
 
 
 
