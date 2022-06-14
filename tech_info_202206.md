@@ -98,6 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T01:00:20Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 21 | 5| 
 | 20220614T00:57:19Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 6 | 0| 
 | 20220613T15:18:06Z | Null | https://github.com/KassemKallas/BackdoorAttack-ICIP2019 | 0 | 0| 
 | 20220613T14:04:09Z | Velt: Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20220612T17:15:30Z | Advanced backdoor framework with the ability to use AI to generate commands from text | https://github.com/diegomardian/Shellshock | 2 | 0| 
 | 20220612T16:46:48Z | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/ProFTPD-RCE | 0 | 0| 
 | 20220612T15:06:40Z | PLEASE DO NOT USE ON YOUR POWERSHELL. This is just for my own usage, copy-pasting this into your powershell will lead your PC to be infected with a backdoor, DON%T DO THAT | https://github.com/just-a-hacker/backdoor-payload | 0 | 0| 
-| 20220612T13:00:47Z | Null | https://github.com/timberh789/elvis-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
