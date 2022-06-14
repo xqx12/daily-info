@@ -15,6 +15,7 @@
 | 20220613 | 利用 CVE-2022-0185 攻击 Ubuntu，逃逸 Google KCTF 容器沙盒 | https://www.willsroot.io/2022/01/cve-2022-0185.html| 
 | 20220613 | Confluence Preauth RCE isSafeExpression 检查绕过漏洞的分析（CVE-2022-26134） | https://mr-r3bot.github.io/research/2022/06/06/Confluence-Preauth-RCE-2022.html| 
 | 20220613 | Playing for K(H)eaps - Linux 内核堆利用技术的稳定性研究（Paper） | http://www.usenix.org/system/files/sec22fall_zeng.pdf| 
+| 20220613 | 一加工程模式指令逆向 | http://radioactive.blog/2022/06/02/oneplus_engineermode_code_all_in_one/| 
 | 20220610 | PAcT - Android 应用隐私访问行为检测和分类（Paper） | https://storage.googleapis.com/pub-tools-public-publication-data/pdf/7884664b22fae3c4daaacb598454bf9088574f4c.pdf| 
 | 20220610 | 一份开源安全项目清单，以帮助甲方安全从业人员构建企业安全能力 | https://github.com/Bypass007/Safety-Project-Collection| 
 | 20220610 | EMUX Firmware Emulation Framework | https://github.com/therealsaumil/emux| 
@@ -25,12 +26,12 @@
 | 20220610 | Symbiote - 利用 LD_PRELOAD 注入全系统进程的恶意软件，可以完全隐藏自身 | http://www.intezer.com/blog/research/new-linux-threat-symbiote/| 
 | 20220610 | 鲨鱼的狂欢 — APT-C-55 Kimsuky组织近期BabyShark组件披露 | https://mp.weixin.qq.com/s/ZV8AOTd7YGUgCTTTZtTktQ| 
 | 20220609 | TPMEavesEmu - 通过模拟的方法辅助测试 TPM 实现安全的工具 | https://github.com/quarkslab/tpmee| 
-| 20220609 | Detecting DNS Tunneling using Spark Structured Streaming | https://infosecwriteups.com/detecting-dns-tunneling-using-spark-structured-streaming-c7e2b6af0349?gi=6f1c3fe913ef| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220613 | SecWiki周刊（第432期) | https://www.sec-wiki.com/weekly/432| 
 | 20220611 | 通过NPM生态系统中的依赖树揭开脆弱性传播及其演化的神秘面纱 | https://mp.weixin.qq.com/s/iNHFh6FBfcFtHndtgU9ZJw| 
 | 20220610 | 针对解释性语言包管理器的供应链攻击研究 | https://mp.weixin.qq.com/s/d0yGhb6PFnHzg7U_nrBgAg| 
 | 20220609 | 微软数据安全防护之Know Your Data | https://mp.weixin.qq.com/s/Hkro91XoY4SdjFZNGcFAvg| 
@@ -40,37 +41,36 @@
 | 20220608 | 浅谈设备指纹技术和应用 | https://mp.weixin.qq.com/s/XAGQl8rk4E-JFJYefIHqKg| 
 | 20220608 | 溯源反制案例分享（二） | https://mp.weixin.qq.com/s/JXfNCIzZznn1UVXhYDzRIA| 
 | 20220608 | SQL脚本自动化审核工具（MYSQL） | https://mp.weixin.qq.com/s/In-MdryQSdqFSA2fqdFHvg| 
-| 20220608 | 2022云原生安全技术峰会议题Slide | https://github.com/brant-ruan/slides-and-papers/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220613T11:50:54Z | CVE-2021-38540 | Missing Authentication on Critical component CVE-2021-38540 | https://github.com/Captain-v-hook/PoC-for-CVE-2021-38540- | | 
-| 20220613T08:16:16Z | CVE-2022-24806 | CVE-2022-24806 and CVE-2022-24807 are an unauthenticated RCE vulnerability in magento and adobe commerce | https://github.com/oturu/CVE-2022-24806-MASS-RCE | | 
-| 20220613T08:08:24Z | CVE-2020-27786 | 4.9 Kernel Exploit for CVE-2020-27786 | https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit | | 
-| 20220613T07:46:41Z | CVE-2022-26134 | CVE-2022-26134 - Confluence Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
-| 20220613T07:42:03Z | CVE-2022-30190 | proof of concept to CVE-2022-30190 (follina) | https://github.com/AmitNiz/follina_cve_2022-30190 | | 
-| 20220613T04:52:49Z | CVE-2022-30190 | An Unofficial Patch Follina CVE-2022-30190 (patch)  by micrisoft Guidelines. for more details goto : https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/  | https://github.com/SonicWave21/Follina-CVE-2022-30190-Unofficial-patch | | 
-| 20220613T02:40:47Z | CVE-2021-3156 | Null | https://github.com/trhacknon/CVE-2021-3156 | | 
-| 20220612T22:09:30Z | CVE-2022-26134 | Null | https://github.com/trhacknon/CVE-2022-26134-bis | | 
-| 20220612T20:24:48Z | CVE-2022-26134 | Null | https://github.com/trhacknon/CVE-2022-26134 | | 
-| 20220612T20:18:00Z | CVE-2022-22718 | Null | https://github.com/ahmetfurkans/CVE-2022-22718 | | 
+| 20220613T23:43:19Z | CVE-2021-40650 | Null | https://github.com/l00neyhacker/CVE-2021-40650 | | 
+| 20220613T23:33:20Z | CVE-2021-40649 | Null | https://github.com/l00neyhacker/CVE-2021-40649 | | 
+| 20220613T23:02:46Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
+| 20220613T21:36:40Z | CVE-2022-30190 | Python file scanner created in 2021 scanning for known and potential vulns | https://github.com/XxToxicScriptxX/CVE-2022-30190 | | 
+| 20220613T21:23:53Z | CVE-2022-30525 | CVE-2022-30525 POC | https://github.com/ProngedFork/CVE-2022-30525 | | 
+| 20220613T19:55:12Z | CVE-2022-31301 | Haraj Script 3.7 - Post Ads Authenticated Stored XSS | https://github.com/bigzooooz/CVE-2022-31301 | | 
+| 20220613T19:43:33Z | CVE-2022-31300 | Haraj Script 3.7 - DM Section Authenticated Stored XSS | https://github.com/bigzooooz/CVE-2022-31300 | | 
+| 20220613T19:38:47Z | CVE-2022-31294 | Online Discussion Forum Site 1.0 - Account Takeover | https://github.com/bigzooooz/CVE-2022-31294 | | 
+| 20220613T19:38:21Z | CVE-2022-31295 | Online Discussion Forum Site 1.0 - IDOR / Delete any post | https://github.com/bigzooooz/CVE-2022-31295 | | 
+| 20220613T19:37:55Z | CVE-2022-31296 | Online Discussion Forum Site 1.0 - Blind SQL Injection | https://github.com/bigzooooz/CVE-2022-31296 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220613T11:08:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6875 | 246| 
-| 20220613T05:49:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1983 | 566| 
+| 20220613T18:14:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6878 | 246| 
+| 20220613T17:22:14Z | Null | https://github.com/RobbieEdwards/github_klee | 0 | 0| 
+| 20220613T17:00:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1983 | 566| 
+| 20220613T16:11:50Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
+| 20220613T15:28:17Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 46 | 7| 
 | 20220613T00:57:46Z | Null | https://github.com/Namianya/kleen | 0 | 0| 
 | 20220612T14:24:26Z | Null | https://github.com/mojyack/klee | 0 | 0| 
 | 20220612T05:33:28Z | learning experience | https://github.com/kleeper123/kleeper | 0 | 0| 
 | 20220612T01:52:13Z | Null | https://github.com/RobbieEdwards/kleerun | 0 | 0| 
-| 20220610T13:20:52Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 45 | 7| 
 | 20220609T09:58:51Z | Github profile | https://github.com/ChanAndKlee/ChanAndKlee | 0 | 0| 
-| 20220609T06:05:13Z | Null | https://github.com/victorybringer/klee | 0 | 0| 
-| 20220606T19:32:42Z | Null | https://github.com/JUSTINCYBONIX23/kleerun | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -98,6 +98,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220613T19:25:13Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 5 | 0| 
+| 20220613T15:18:06Z | Null | https://github.com/KassemKallas/BackdoorAttack-ICIP2019 | 0 | 0| 
+| 20220613T14:04:09Z | Velt: Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20220613T10:15:33Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 504 | 93| 
 | 20220613T09:39:41Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 57 | 19| 
 | 20220613T04:54:44Z | Remote access backdoor | https://github.com/wzack850/RABD-Rabbid- | 0 | 0| 
@@ -105,9 +108,6 @@
 | 20220612T16:46:48Z | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/ProFTPD-RCE | 0 | 0| 
 | 20220612T15:06:40Z | PLEASE DO NOT USE ON YOUR POWERSHELL. This is just for my own usage, copy-pasting this into your powershell will lead your PC to be infected with a backdoor, DON%T DO THAT | https://github.com/just-a-hacker/backdoor-payload | 0 | 0| 
 | 20220612T13:00:47Z | Null | https://github.com/timberh789/elvis-backdoor | 0 | 0| 
-| 20220612T10:22:00Z | Null | https://github.com/wolk4n/w-backdoor | 0 | 0| 
-| 20220612T03:10:13Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 159 | 42| 
-| 20220611T20:58:17Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 50 | 10| 
 
 
 # symbolic execution on Github 推荐
