@@ -65,14 +65,21 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220614T01:00:20Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 21 | 5| 
+| 20220614T06:40:04Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 22 | 5| 
+| 20220614T03:54:28Z | Null | https://github.com/martinmaiolo/my_backdoor | 0 | 0| 
 | 20220614T00:57:19Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 6 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220614T00:35:24Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 6 | 1| 
+| 20220614T11:26:25Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 8 | 1| 
+| 20220614T07:12:24Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 38| 
+| 20220614T05:27:18Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/AnonyGiit/FastKLEE | 0 | 0| 
+| 20220614T04:55:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1984 | 566| 
+| 20220614T03:26:09Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 605 | 102| 
+| 20220614T03:03:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2913 | 419| 
+| 20220614T02:00:48Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 248 | 16| 
 
 
 # big4 on Github 推荐

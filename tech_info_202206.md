@@ -98,7 +98,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220614T01:00:20Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 21 | 5| 
+| 20220614T06:40:04Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 22 | 5| 
+| 20220614T03:54:28Z | Null | https://github.com/martinmaiolo/my_backdoor | 0 | 0| 
 | 20220614T00:57:19Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 6 | 0| 
 | 20220613T15:18:06Z | Null | https://github.com/KassemKallas/BackdoorAttack-ICIP2019 | 0 | 0| 
 | 20220613T14:04:09Z | Velt: Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
@@ -107,22 +108,21 @@
 | 20220613T04:54:44Z | Remote access backdoor | https://github.com/wzack850/RABD-Rabbid- | 0 | 0| 
 | 20220612T17:15:30Z | Advanced backdoor framework with the ability to use AI to generate commands from text | https://github.com/diegomardian/Shellshock | 2 | 0| 
 | 20220612T16:46:48Z | Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution) | https://github.com/NullBrunk/ProFTPD-RCE | 0 | 0| 
-| 20220612T15:06:40Z | PLEASE DO NOT USE ON YOUR POWERSHELL. This is just for my own usage, copy-pasting this into your powershell will lead your PC to be infected with a backdoor, DON%T DO THAT | https://github.com/just-a-hacker/backdoor-payload | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220614T00:35:24Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 6 | 1| 
-| 20220613T20:16:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2911 | 419| 
+| 20220614T11:26:25Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 8 | 1| 
+| 20220614T07:12:24Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 38| 
+| 20220614T05:27:18Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/AnonyGiit/FastKLEE | 0 | 0| 
+| 20220614T04:55:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1984 | 566| 
+| 20220614T03:26:09Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 605 | 102| 
+| 20220614T03:03:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2913 | 419| 
+| 20220614T02:00:48Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 248 | 16| 
 | 20220613T17:52:57Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 435 | 25| 
-| 20220613T17:00:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1983 | 566| 
-| 20220613T15:45:45Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 604 | 102| 
 | 20220613T15:45:25Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 27 | 14| 
 | 20220613T15:45:00Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
-| 20220613T07:34:03Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 249 | 16| 
-| 20220611T14:12:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 555 | 95| 
-| 20220610T21:02:48Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 38| 
 
 
 # big4 on Github 推荐
