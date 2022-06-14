@@ -53,13 +53,13 @@
 | 20220614T12:00:49Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 4 | 0| 
 | 20220614T11:51:30Z | A compilation of common exploits, vulnerabilities, etc. that I could find | https://github.com/headquarter8302/exploits | 0 | 0| 
 | 20220614T11:40:28Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Lexsolena/uwu | 0 | 1| 
+| 20220614T10:28:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11611 | 1988| 
 | 20220614T10:25:16Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4372 | 1541| 
 | 20220614T10:20:01Z | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | 49 | 8| 
 | 20220614T09:56:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 439 | 126| 
 | 20220614T09:04:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3042 | 369| 
 | 20220614T08:34:11Z | I wrote a blog post about Apache CouchDB CVE-2022-24706 RCE Exploits | https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post- | 0 | 0| 
 | 20220614T06:30:06Z | Active Directory Post Exploitation | https://github.com/k4sth4/Golden-Ticket-Attack | 0 | 0| 
-| 20220614T05:25:09Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 420 | 76| 
 
 
 # backdoor on Github 推荐
