@@ -136,8 +136,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T12:25:31Z | Null | https://github.com/Crescentm/fuzzer-back | 0 | 0| 
 | 20220614T12:24:31Z | FuzzyCMeans Algoritmasi | https://github.com/kaankalttakiran/FuzzyCMeans | 0 | 0| 
-| 20220614T12:17:13Z | Null | https://github.com/Crescentm/fuzzer-back | 0 | 0| 
 | 20220614T12:11:52Z | Null | https://github.com/Crescentm/fuzzer_server | 1 | 0| 
 | 20220614T12:06:20Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 149 | 18| 
 | 20220614T09:14:46Z | Bulanık ahp yöntemi kullanılarak hesap | https://github.com/SeyfiMucevher/FuzzyAHP12 | 0 | 0| 
