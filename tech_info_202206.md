@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220614T01:55:38Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
 | 20220614T00:52:44Z | CVE-2022-1972 | Null | https://github.com/randorisec/CVE-2022-1972-infoleak-PoC | | 
 | 20220613T23:43:19Z | CVE-2021-40650 | Null | https://github.com/l00neyhacker/CVE-2021-40650 | | 
 | 20220613T23:33:20Z | CVE-2021-40649 | Null | https://github.com/l00neyhacker/CVE-2021-40649 | | 
-| 20220613T23:02:46Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
 | 20220613T21:36:40Z | CVE-2022-30190 | Python file scanner created in 2021 scanning for known and potential vulns | https://github.com/XxToxicScriptxX/CVE-2022-30190 | | 
 | 20220613T21:23:53Z | CVE-2022-30525 | CVE-2022-30525 POC | https://github.com/ProngedFork/CVE-2022-30525 | | 
 | 20220613T19:55:12Z | CVE-2022-31301 | Haraj Script 3.7 - Post Ads Authenticated Stored XSS | https://github.com/bigzooooz/CVE-2022-31301 | | 

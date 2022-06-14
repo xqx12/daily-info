@@ -29,7 +29,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220613T23:43:19Z | CVE-2021-40650 | Null | https://github.com/l00neyhacker/CVE-2021-40650 | | 
 | 20220613T23:33:20Z | CVE-2021-40649 | Null | https://github.com/l00neyhacker/CVE-2021-40649 | | 
-| 20220613T23:02:46Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
 | 20220613T21:36:40Z | CVE-2022-30190 | Python file scanner created in 2021 scanning for known and potential vulns | https://github.com/XxToxicScriptxX/CVE-2022-30190 | | 
 | 20220613T21:23:53Z | CVE-2022-30525 | CVE-2022-30525 POC | https://github.com/ProngedFork/CVE-2022-30525 | | 
 | 20220613T19:55:12Z | CVE-2022-31301 | Haraj Script 3.7 - Post Ads Authenticated Stored XSS | https://github.com/bigzooooz/CVE-2022-31301 | | 
@@ -37,6 +36,7 @@
 | 20220613T19:38:47Z | CVE-2022-31294 | Online Discussion Forum Site 1.0 - Account Takeover | https://github.com/bigzooooz/CVE-2022-31294 | | 
 | 20220613T19:38:21Z | CVE-2022-31295 | Online Discussion Forum Site 1.0 - IDOR / Delete any post | https://github.com/bigzooooz/CVE-2022-31295 | | 
 | 20220613T19:37:55Z | CVE-2022-31296 | Online Discussion Forum Site 1.0 - Blind SQL Injection | https://github.com/bigzooooz/CVE-2022-31296 | | 
+| 20220613T19:37:32Z | CVE-2022-31297 | Haraj Script 3.7 - Reflected XSS | https://github.com/bigzooooz/CVE-2022-31297 | | 
 
 
 # klee on Github 推荐
