@@ -140,12 +140,12 @@
 | 20220614T08:12:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 851 | 99| 
 | 20220614T07:50:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7496 | 1609| 
 | 20220614T07:21:41Z | Automatic fuzz targets generation for Golang packages | https://github.com/catenacyber/ngolo-fuzzing | 5 | 1| 
+| 20220614T05:14:10Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2527 | 490| 
 | 20220614T01:39:46Z | Null | https://github.com/ardaku/fuzzy-search | 0 | 0| 
 | 20220614T01:14:42Z | Minecraft Modpack thing | https://github.com/DwightDaddy/fuzzy-goggles | 0 | 0| 
 | 20220614T00:48:06Z | My repository on GitHub. | https://github.com/Urgirlempress/fuzzy-enigma | 1 | 0| 
 | 20220614T00:44:32Z | Null | https://github.com/stasl0217/FuzzQE-code | 0 | 0| 
 | 20220614T00:02:32Z | Null | https://github.com/mmdiyul/fuzz-py | 0 | 0| 
-| 20220613T21:39:52Z | Write fuzzing tests for use within Jest | https://github.com/68kHeart/jest-fuzzer | 0 | 0| 
 
 
 
