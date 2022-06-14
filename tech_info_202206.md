@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220614T00:05:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6879 | 246| 
+| 20220614T01:23:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6880 | 246| 
 | 20220613T17:22:14Z | Null | https://github.com/RobbieEdwards/github_klee | 0 | 0| 
 | 20220613T17:00:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1983 | 566| 
 | 20220613T16:11:50Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T01:23:14Z | Post-exploitation tools wrapper | https://github.com/Karmaz95/crimson_lisp | 1 | 0| 
 | 20220614T01:01:53Z | An Obsidian-powered wiki chronicling the exploits of a party of adventurers as they play The Lost Mine of Phandelver | https://github.com/nathangathright/loreweaving | 0 | 0| 
 | 20220614T00:40:08Z | RBLXWILD open any case for free | https://github.com/Odsku/RBLXWILD-DailyCaseExploit | 1 | 0| 
 | 20220614T00:01:16Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0 | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220613T22:06:37Z | Exploit for the Wii U%s USB Host Stack | https://github.com/GaryOderNichts/udpih | 61 | 1| 
 | 20220613T22:04:24Z | A website that serves as a hub for exploits and glitches in video games. No longer do you need to spend hours looking at 10 year old youtube videos, now you can browse tested, detailed methods in one easy place | https://github.com/ProfMonkey07/gamesplotionary | 0 | 0| 
 | 20220613T21:41:02Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4630 | 593| 
-| 20220613T21:40:37Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 0 | 0| 
 
 
 # backdoor on Github 推荐

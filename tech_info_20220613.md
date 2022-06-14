@@ -64,10 +64,10 @@
 | 20220613T22:04:24Z | A website that serves as a hub for exploits and glitches in video games. No longer do you need to spend hours looking at 10 year old youtube videos, now you can browse tested, detailed methods in one easy place | https://github.com/ProfMonkey07/gamesplotionary | 0 | 0| 
 | 20220613T21:41:02Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4630 | 593| 
 | 20220613T21:40:37Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 0 | 0| 
-| 20220613T20:39:20Z | Post-exploitation tools wrapper | https://github.com/Karmaz95/crimson_lisp | 0 | 0| 
 | 20220613T20:05:29Z | Null | https://github.com/Mitrakarimiyekta/exploit | 0 | 0| 
 | 20220613T19:37:21Z | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | 6 | 2| 
 | 20220613T12:51:15Z | Null | https://github.com/gokceuludogan/exploiting_PLMs_for_targeted_drug_design | 0 | 0| 
+| 20220613T12:48:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3035 | 370| 
 
 
 # backdoor on Github 推荐
