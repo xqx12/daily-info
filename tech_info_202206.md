@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220614T12:53:36Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809]  CVE-2022-26809 Vulnerabillity in cre windows componen(RPC) with a high cvss score of 9.8 | https://github.com/scoobydoobi/CVE-2022-26809-POC-RCE | | 
 | 20220614T09:27:37Z | CVE-2022-30190 | Null | https://github.com/ernestak/Sigma-Rule-for-CVE-2022-30190 | | 
 | 20220614T09:19:03Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/greenhandatsjtu/CVE-2022-0847 | | 
 | 20220614T08:34:11Z | CVE-2022-24706 | I wrote a blog post about Apache CouchDB CVE-2022-24706 RCE Exploits | https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post- | | 
@@ -55,7 +56,6 @@
 | 20220613T23:43:19Z | CVE-2021-40650 | Null | https://github.com/l00neyhacker/CVE-2021-40650 | | 
 | 20220613T23:33:20Z | CVE-2021-40649 | Null | https://github.com/l00neyhacker/CVE-2021-40649 | | 
 | 20220613T21:36:40Z | CVE-2022-30190 | Python file scanner created in 2021 scanning for known and potential vulns | https://github.com/XxToxicScriptxX/CVE-2022-30190 | | 
-| 20220613T21:23:53Z | CVE-2022-30525 | CVE-2022-30525 POC | https://github.com/ProngedFork/CVE-2022-30525 | | 
 
 
 # klee on Github 推荐
@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T12:53:26Z | Former Multi - Ring to Kernel To UserMode Transitional Shellcode For Remote Kernel Exploits | https://github.com/SecIdiot/TransitionalPeriod | 1 | 1| 
 | 20220614T12:50:25Z | A compilation of common exploits, vulnerabilities, etc. that I could find | https://github.com/headquarter8302/exploits | 0 | 0| 
-| 20220614T12:39:22Z | Former Multi - Ring to Kernel To UserMode Transitional Shellcode For Remote Kernel Exploits | https://github.com/SecIdiot/TransitionalPeriod | 0 | 1| 
 | 20220614T12:00:49Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 4 | 0| 
 | 20220614T11:40:28Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Lexsolena/uwu | 0 | 1| 
 | 20220614T10:28:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11611 | 1988| 
