@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T00:40:08Z | RBLXWILD open any case for free | https://github.com/Odsku/RBLXWILD-DailyCaseExploit | 1 | 0| 
 | 20220614T00:01:16Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.0 | 0 | 0| 
 | 20220614T00:00:28Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN.0 | 0 | 0| 
 | 20220613T23:59:37Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN.0 | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220613T21:41:02Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4630 | 593| 
 | 20220613T21:40:37Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 0 | 0| 
 | 20220613T20:39:20Z | Post-exploitation tools wrapper | https://github.com/Karmaz95/crimson_lisp | 0 | 0| 
-| 20220613T19:37:21Z | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | 6 | 2| 
 
 
 # backdoor on Github 推荐
@@ -136,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T00:48:06Z | My repository on GitHub. | https://github.com/Urgirlempress/fuzzy-enigma | 1 | 0| 
+| 20220614T00:44:32Z | Null | https://github.com/stasl0217/FuzzQE-code | 0 | 0| 
+| 20220614T00:02:32Z | Null | https://github.com/mmdiyul/fuzz-py | 0 | 0| 
+| 20220613T21:39:52Z | Write fuzzing tests for use within Jest | https://github.com/68kHeart/jest-fuzzer | 0 | 0| 
+| 20220613T20:50:10Z | Some fuzzing lists for web penetration testing | https://github.com/jbcu1/Web_Lists | 0 | 0| 
+| 20220613T20:22:05Z | Null | https://github.com/Viasat/gRPC-Fuzzer | 0 | 0| 
+| 20220613T16:33:06Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 148 | 18| 
+| 20220613T16:19:48Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2561 | 169| 
 | 20220613T12:41:50Z | Null | https://github.com/Cold5nap/FuzzySystem | 0 | 0| 
 | 20220613T12:33:54Z | Get Data and Fuzz Your App | https://github.com/Aif4thah/CShidori | 1 | 0| 
-| 20220613T12:13:54Z | Fuzzy C Means source code | https://github.com/berkemaydemir/Fuzzy-C-Means | 0 | 0| 
-| 20220613T11:54:26Z | Null | https://github.com/Rodrigo41555557/ExercicioLogicaFuzzyColab | 0 | 0| 
-| 20220613T11:31:03Z | Fuzzing plattform for medical protocols | https://github.com/RUB-NDS/medfuzz | 0 | 0| 
-| 20220613T11:19:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4182 | 996| 
-| 20220613T10:20:03Z | library fungsi keanggotaan fuzzy | https://github.com/tuanAbdul/fuzzyBro | 0 | 0| 
-| 20220613T09:15:28Z | Bulanık ahp yöntemi kullanılarak hesap | https://github.com/SeyfiMucevher/FuzzyAHP12 | 0 | 0| 
-| 20220613T08:50:10Z | Null | https://github.com/ybxm1/myClusterFuzz | 2 | 0| 
-| 20220613T08:38:50Z | Null | https://github.com/lockround/fuzzy-broccoli-codespaces | 0 | 0| 
 
 
 
