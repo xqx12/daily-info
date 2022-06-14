@@ -90,6 +90,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T12:11:52Z | Null | https://github.com/Crescentm/fuzzer_server | 1 | 0| 
+| 20220614T12:06:20Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 149 | 18| 
 | 20220614T09:14:46Z | Bulanık ahp yöntemi kullanılarak hesap | https://github.com/SeyfiMucevher/FuzzyAHP12 | 0 | 0| 
 | 20220614T08:12:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 851 | 99| 
 | 20220614T07:50:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7496 | 1609| 
@@ -98,8 +100,6 @@
 | 20220614T01:39:46Z | Null | https://github.com/ardaku/fuzzy-search | 0 | 0| 
 | 20220614T01:14:42Z | Minecraft Modpack thing | https://github.com/DwightDaddy/fuzzy-goggles | 0 | 0| 
 | 20220614T00:48:06Z | My repository on GitHub. | https://github.com/Urgirlempress/fuzzy-enigma | 1 | 0| 
-| 20220614T00:44:32Z | Null | https://github.com/stasl0217/FuzzQE-code | 0 | 0| 
-| 20220614T00:02:32Z | Null | https://github.com/mmdiyul/fuzz-py | 0 | 0| 
 
 
 
