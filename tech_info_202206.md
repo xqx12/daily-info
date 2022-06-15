@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220615T00:41:13Z | Turning CISA%s exploited vulnerabilities catalog into a feed with Cloudflare Workers | https://github.com/danielunderwood/exploited-vulns-feed | 0 | 0| 
+| 20220615T00:42:12Z | Turning CISA%s exploited vulnerabilities catalog into a feed with Cloudflare Workers | https://github.com/danielunderwood/exploited-vulns-feed | 0 | 0| 
 | 20220614T23:17:09Z | Exploit Network and Webapp vulnerabilities using python | https://github.com/B1ner0ne/Vulns-PoC-python | 0 | 0| 
 | 20220614T23:07:09Z | i only want to talk with wattpad staff, because i doesn`t want to hurt that page. | https://github.com/Leaaanj/WATTPAD-EXPLOIT | 0 | 0| 
 | 20220614T21:26:18Z | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | 1 | 0| 
