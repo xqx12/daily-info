@@ -83,7 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220615T01:18:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11613 | 1988| 
 | 20220615T00:42:12Z | Turning CISA%s exploited vulnerabilities catalog into a feed with Cloudflare Workers | https://github.com/danielunderwood/exploited-vulns-feed | 0 | 0| 
+| 20220614T23:18:11Z | A cross platform, rust implementation for the Tegra X1 bootROM exploit  | https://github.com/budde25/switcheroo | 7 | 0| 
 | 20220614T23:17:09Z | Exploit Network and Webapp vulnerabilities using python | https://github.com/B1ner0ne/Vulns-PoC-python | 0 | 0| 
 | 20220614T23:07:09Z | i only want to talk with wattpad staff, because i doesn`t want to hurt that page. | https://github.com/Leaaanj/WATTPAD-EXPLOIT | 0 | 0| 
 | 20220614T21:26:18Z | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | 1 | 0| 
@@ -91,8 +93,6 @@
 | 20220614T20:00:46Z | Null | https://github.com/Vuduka/Arc-Exploit | 0 | 0| 
 | 20220614T19:37:22Z | Scripts, exploits and assets to hack %Emdee five for life% challenge by HTB. | https://github.com/kagasirat/htb-md54life | 0 | 0| 
 | 20220614T19:23:10Z | Null | https://github.com/XomaDev/exploit | 0 | 0| 
-| 20220614T16:25:24Z | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | 10 | 2| 
-| 20220614T16:08:14Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 188 | 84| 
 
 
 # backdoor on Github 推荐
