@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220615T01:49:25Z | Null | https://github.com/brianburwell11/fuzzy-journey | 0 | 0| 
 | 20220614T23:56:48Z | Null | https://github.com/Martogramer/fuzzy-journey | 1 | 0| 
 | 20220614T22:29:47Z | test da voodoo | https://github.com/techHeal/fuzzy-lamp | 0 | 0| 
 | 20220614T20:41:11Z | Coveraged-based fuzzer for finding DBMS logical bugs | https://github.com/PSU-Security-Universe/sqlright | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20220614T12:24:31Z | FuzzyCMeans Algoritmasi | https://github.com/kaankalttakiran/FuzzyCMeans | 0 | 0| 
 | 20220614T12:11:52Z | Null | https://github.com/Crescentm/fuzzer_server | 1 | 0| 
 | 20220614T12:06:20Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 149 | 18| 
-| 20220614T09:14:46Z | Bulanık ahp yöntemi kullanılarak hesap | https://github.com/SeyfiMucevher/FuzzyAHP12 | 0 | 0| 
 
 
 
