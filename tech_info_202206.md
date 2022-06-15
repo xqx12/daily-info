@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220614T23:31:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 566| 
+| 20220615T00:59:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 566| 
 | 20220614T22:46:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6903 | 246| 
 | 20220614T05:27:18Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/AnonyGiit/FastKLEE | 0 | 0| 
 | 20220613T17:22:14Z | Null | https://github.com/RobbieEdwards/github_klee | 0 | 0| 
@@ -92,7 +92,7 @@
 | 20220614T19:37:22Z | Scripts, exploits and assets to hack %Emdee five for life% challenge by HTB. | https://github.com/kagasirat/htb-md54life | 0 | 0| 
 | 20220614T19:23:10Z | Null | https://github.com/XomaDev/exploit | 0 | 0| 
 | 20220614T16:25:24Z | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | 10 | 2| 
-| 20220614T15:44:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11612 | 1988| 
+| 20220614T16:08:14Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 188 | 84| 
 
 
 # backdoor on Github 推荐
@@ -113,7 +113,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220614T23:31:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 566| 
+| 20220615T00:59:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 566| 
 | 20220614T20:00:17Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2914 | 419| 
 | 20220614T16:58:18Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 9 | 2| 
 | 20220614T16:04:25Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 606 | 102| 
