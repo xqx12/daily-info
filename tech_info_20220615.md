@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220615T12:34:20Z | CVE-2022-22972 | IOC List | https://github.com/bengisugun/CVE-2022-22972- | | 
 | 20220615T12:33:13Z | CVE-2022-22972 | IOC List | https://github.com/bengisugun/CVE-2022-22972 | | 
 | 20220615T10:35:00Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
 | 20220615T10:21:00Z | CVE-2022-30190 | These are two Python scripts compiled to easily and quickly apply temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix | | 
