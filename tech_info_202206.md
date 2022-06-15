@@ -98,7 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220615T00:14:17Z | PoC for config-based git backdoor | https://github.com/dayt0n/evilgit | 1 | 0| 
+| 20220615T01:22:13Z | PoC for config-based git backdoor | https://github.com/dayt0n/evilgit | 2 | 0| 
 | 20220614T16:43:39Z | Null | https://github.com/Andrew011002/Backdoor | 0 | 0| 
 | 20220614T14:38:02Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1663 | 396| 
 | 20220614T06:40:04Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 22 | 5| 
