@@ -81,6 +81,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220615T12:10:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2917 | 419| 
+| 20220615T11:25:52Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 558 | 96| 
 | 20220615T02:41:28Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 10 | 2| 
 | 20220615T00:59:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 566| 
 
