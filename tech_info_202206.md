@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220615T00:41:13Z | Turning CISA%s exploited vulnerabilities catalog into a feed with Cloudflare Workers | https://github.com/danielunderwood/exploited-vulns-feed | 0 | 0| 
 | 20220614T23:17:09Z | Exploit Network and Webapp vulnerabilities using python | https://github.com/B1ner0ne/Vulns-PoC-python | 0 | 0| 
 | 20220614T23:07:09Z | i only want to talk with wattpad staff, because i doesn`t want to hurt that page. | https://github.com/Leaaanj/WATTPAD-EXPLOIT | 0 | 0| 
 | 20220614T21:26:18Z | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20220614T19:23:10Z | Null | https://github.com/XomaDev/exploit | 0 | 0| 
 | 20220614T16:25:24Z | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | 10 | 2| 
 | 20220614T15:44:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11612 | 1988| 
-| 20220614T12:53:26Z | Former Multi - Ring to Kernel To UserMode Transitional Shellcode For Remote Kernel Exploits | https://github.com/SecIdiot/TransitionalPeriod | 1 | 1| 
 
 
 # backdoor on Github 推荐
