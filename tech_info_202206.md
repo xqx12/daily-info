@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220615T01:33:09Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-.1 | 0 | 0| 
 | 20220615T01:32:17Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.1 | 0 | 0| 
 | 20220615T01:31:05Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1 | 0 | 0| 
 | 20220615T01:18:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11613 | 1988| 
@@ -92,7 +93,6 @@
 | 20220614T23:07:09Z | i only want to talk with wattpad staff, because i doesn`t want to hurt that page. | https://github.com/Leaaanj/WATTPAD-EXPLOIT | 0 | 0| 
 | 20220614T21:26:18Z | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | 1 | 0| 
 | 20220614T21:24:16Z | A simple data saver for exploit. | https://github.com/V4yX/dataStore4Exploits | 0 | 0| 
-| 20220614T20:00:46Z | Null | https://github.com/Vuduka/Arc-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
