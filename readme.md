@@ -53,6 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220615T12:35:30Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 425 | 76| 
+| 20220615T12:32:31Z | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | 1 | 0| 
 | 20220615T12:15:11Z | Lua Scripts for roblox exploiting | https://github.com/XoceanXH/RBLX | 0 | 0| 
 | 20220615T11:40:24Z | Using open Adb ports we can exploit a devive | https://github.com/On4Jane/dadi32q | 0 | 0| 
 | 20220615T11:31:11Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Aniihack/GH-Hacking-Tool-Kit | 0 | 0| 
@@ -61,8 +63,6 @@
 | 20220615T11:29:16Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Aniihack/Hacking-Tools-Pack | 0 | 0| 
 | 20220615T11:19:47Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Amdhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220615T11:16:26Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Amdhack/Hacking-Tools-Pack | 0 | 0| 
-| 20220615T11:04:29Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/lmmhack/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220615T11:02:25Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/lmmhack/Hacking-Tools-Pack | 0 | 0| 
 
 
 # backdoor on Github 推荐
