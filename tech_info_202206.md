@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220615T01:41:55Z | the exploit-db exploits I used and may have converted | https://github.com/mynameisORIG/edb-used | 0 | 0| 
+| 20220615T01:50:30Z | the exploit-db exploits I used and may have converted | https://github.com/mynameisORIG/edb-used | 0 | 0| 
 | 20220615T01:33:09Z | Null | https://github.com/codingcore1/SILENT-DOC-EXPLOIT-CLEAN-.1 | 0 | 0| 
 | 20220615T01:32:17Z | Null | https://github.com/codingcore1/SILENT-PDF-EXPLOIT-CLEAN-.1 | 0 | 0| 
 | 20220615T01:31:05Z | Null | https://github.com/codingcore1/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1 | 0 | 0| 
