@@ -113,7 +113,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220615T06:04:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2916 | 419| 
+| 20220615T12:10:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2917 | 419| 
 | 20220615T02:41:28Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 10 | 2| 
 | 20220615T00:59:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 566| 
 | 20220614T16:04:25Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 606 | 102| 
