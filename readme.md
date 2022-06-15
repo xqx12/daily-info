@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220615T12:57:11Z | Null | https://github.com/TrunqKj3n/KaguyaExploit | 0 | 0| 
+| 20220615T12:59:04Z | Null | https://github.com/TrunqKj3n/KaguyaExploit | 0 | 0| 
 | 20220615T12:35:30Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 425 | 76| 
 | 20220615T12:32:31Z | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | 1 | 0| 
 | 20220615T12:15:11Z | Lua Scripts for roblox exploiting | https://github.com/XoceanXH/RBLX | 0 | 0| 
