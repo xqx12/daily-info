@@ -14,6 +14,7 @@
 | 20220614 | curl 7.83.0 的 Cookie/Authorization 过程被发现 3 个逻辑漏洞 | https://haxatron.gitbook.io/vulnerability-research/vr2| 
 | 20220614 | Apple macOS Ventura 新版本系统安全相关的变化 | https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/| 
 | 20220614 | 对攻击 Web3 钱包 iOS 用户的 SeaFlower 藏海花后门 App 的分析 | http://objective-see.org/blog/blog_0x6F.html| 
+| 20220614 | 2021 年的路由器安全报告总结 | https://securelist.com/router-security-2021/106711/?reseller=usa_regular-sm_acq_ona_smm__onl_b2c_twi_post_sm-team______&utm_source=twitter&utm_medium=social&utm_campaign=us_regular-sm_en0177&utm_content=sm-post&utm_term=us_twitter_organic_177bnl1zdlynfec| 
 
 
 # 安全维基 推荐
@@ -26,9 +27,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220614T22:09:31Z | CVE-2022-22620 | CVE-2022-22620: Use-after-free in Safari | https://github.com/kmeps4/CVE-2022-22620 | | 
+| 20220614T20:36:22Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/greenhandatsjtu/CVE-2022-0847 | | 
+| 20220614T13:22:08Z | CVE-2022-30190 | An Unofficial Patch Follina CVE-2022-30190 (patch)  by micrisoft Guidelines. | https://github.com/SonicWave21/Follina-CVE-2022-30190-Unofficial-patch | | 
 | 20220614T12:53:36Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809]  CVE-2022-26809 Vulnerabillity in cre windows componen(RPC) with a high cvss score of 9.8 | https://github.com/scoobydoobi/CVE-2022-26809-POC-RCE | | 
 | 20220614T09:27:37Z | CVE-2022-30190 | Null | https://github.com/ernestak/Sigma-Rule-for-CVE-2022-30190 | | 
-| 20220614T09:19:03Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/greenhandatsjtu/CVE-2022-0847 | | 
 | 20220614T08:34:11Z | CVE-2022-24706 | I wrote a blog post about Apache CouchDB CVE-2022-24706 RCE Exploits | https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post- | | 
 | 20220614T08:29:40Z | CVE-2022-30190 | Null | https://github.com/ernestak/CVE-2022-30190 | | 
 | 20220614T06:16:01Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
@@ -38,9 +41,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220614T12:23:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6898 | 246| 
+| 20220614T23:31:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 566| 
+| 20220614T22:46:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6903 | 246| 
 | 20220614T05:27:18Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/AnonyGiit/FastKLEE | 0 | 0| 
-| 20220614T04:55:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1984 | 566| 
 
 
 # s2e on Github 推荐
@@ -51,21 +54,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T23:17:09Z | Exploit Network and Webapp vulnerabilities using python | https://github.com/B1ner0ne/Vulns-PoC-python | 0 | 0| 
+| 20220614T23:07:09Z | i only want to talk with wattpad staff, because i doesn`t want to hurt that page. | https://github.com/Leaaanj/WATTPAD-EXPLOIT | 0 | 0| 
+| 20220614T21:26:18Z | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | 1 | 0| 
+| 20220614T21:24:16Z | A simple data saver for exploit. | https://github.com/V4yX/dataStore4Exploits | 0 | 0| 
+| 20220614T20:00:46Z | Null | https://github.com/Vuduka/Arc-Exploit | 0 | 0| 
+| 20220614T19:37:22Z | Scripts, exploits and assets to hack %Emdee five for life% challenge by HTB. | https://github.com/kagasirat/htb-md54life | 0 | 0| 
+| 20220614T19:23:10Z | Null | https://github.com/XomaDev/exploit | 0 | 0| 
+| 20220614T16:25:24Z | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | 10 | 2| 
+| 20220614T15:44:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11612 | 1988| 
 | 20220614T12:53:26Z | Former Multi - Ring to Kernel To UserMode Transitional Shellcode For Remote Kernel Exploits | https://github.com/SecIdiot/TransitionalPeriod | 1 | 1| 
-| 20220614T12:50:25Z | A compilation of common exploits, vulnerabilities, etc. that I could find | https://github.com/headquarter8302/exploits | 0 | 0| 
-| 20220614T12:00:49Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 4 | 0| 
-| 20220614T11:40:28Z | The best known Free External Fortnite cheat in 2020 Memenite. Memenite developers just returned to fortnite cheating community and relased a new and free undetected cheat. But the server got nuked and developers quited again... Luckly the source of Memenite got leaked on some servers. Here it is first time on Github With the original Fully Undetected Drivers And the Epic Exploits, Menu. Also i updated the source. | https://github.com/Lexsolena/uwu | 0 | 1| 
-| 20220614T10:28:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11611 | 1988| 
-| 20220614T10:25:16Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4372 | 1541| 
-| 20220614T10:20:01Z | Experimental Go language CSGO exploit. | https://github.com/jamesmoriarty/gohack | 49 | 8| 
-| 20220614T09:56:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 439 | 126| 
-| 20220614T09:04:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3042 | 369| 
-| 20220614T08:34:11Z | I wrote a blog post about Apache CouchDB CVE-2022-24706 RCE Exploits | https://github.com/ahmetsabrimert/Apache-CouchDB-CVE-2022-24706-RCE-Exploits-Blog-post- | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T23:52:10Z | PoC for config-based git backdoor | https://github.com/dayt0n/evilgit | 0 | 0| 
+| 20220614T16:43:39Z | Null | https://github.com/Andrew011002/Backdoor | 0 | 0| 
+| 20220614T14:38:02Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1663 | 396| 
 | 20220614T06:40:04Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 22 | 5| 
 | 20220614T03:54:28Z | Null | https://github.com/martinmaiolo/my_backdoor | 0 | 0| 
 | 20220614T00:57:19Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 6 | 0| 
@@ -91,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220614T23:56:48Z | Null | https://github.com/Martogramer/fuzzy-journey | 1 | 0| 
+| 20220614T22:29:47Z | test da voodoo | https://github.com/techHeal/fuzzy-lamp | 0 | 0| 
+| 20220614T20:41:11Z | Coveraged-based fuzzer for finding DBMS logical bugs | https://github.com/PSU-Security-Universe/sqlright | 0 | 0| 
+| 20220614T15:00:50Z | A randomized program fuzzer for the Rust programming language | https://github.com/rustsmith/rustsmith | 9 | 2| 
+| 20220614T13:32:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7497 | 1610| 
 | 20220614T12:25:31Z | Null | https://github.com/Crescentm/fuzzer-back | 0 | 0| 
 | 20220614T12:24:31Z | FuzzyCMeans Algoritmasi | https://github.com/kaankalttakiran/FuzzyCMeans | 0 | 0| 
 | 20220614T12:11:52Z | Null | https://github.com/Crescentm/fuzzer_server | 1 | 0| 
 | 20220614T12:06:20Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 149 | 18| 
 | 20220614T09:14:46Z | Bulanık ahp yöntemi kullanılarak hesap | https://github.com/SeyfiMucevher/FuzzyAHP12 | 0 | 0| 
-| 20220614T08:12:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 851 | 99| 
-| 20220614T07:50:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7496 | 1609| 
-| 20220614T07:21:41Z | Automatic fuzz targets generation for Golang packages | https://github.com/catenacyber/ngolo-fuzzing | 5 | 1| 
-| 20220614T05:14:10Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2527 | 490| 
-| 20220614T01:39:46Z | Null | https://github.com/ardaku/fuzzy-search | 0 | 0| 
 
 
 
