@@ -61,8 +61,8 @@
 | 20220614T20:00:46Z | Null | https://github.com/Vuduka/Arc-Exploit | 0 | 0| 
 | 20220614T19:37:22Z | Scripts, exploits and assets to hack %Emdee five for life% challenge by HTB. | https://github.com/kagasirat/htb-md54life | 0 | 0| 
 | 20220614T19:23:10Z | Null | https://github.com/XomaDev/exploit | 0 | 0| 
+| 20220614T18:40:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3045 | 369| 
 | 20220614T16:25:24Z | A collection of HackSys Extreme Vulnerable Driver exploits. | https://github.com/Exploitables/HEVD-Exploits | 10 | 2| 
-| 20220614T16:08:14Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 188 | 84| 
 
 
 # backdoor on Github 推荐
