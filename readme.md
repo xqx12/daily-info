@@ -27,6 +27,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220615T22:49:21Z | CVE-2022-30190 | follina zero day vulnerability to help Microsoft to mitigate the attack | https://github.com/Cerebrovinny/follina-CVE-2022-30190 | | 
+| 20220615T20:35:47Z | CVE-2022-30709 |  Reflected XSS on /link.cgi/ in Latest Webmin (1.994) | https://github.com/bl4ckmenace/CVE-2022-30709 | | 
+| 20220615T16:12:01Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
 | 20220615T12:34:20Z | CVE-2022-22972 | IOC List | https://github.com/bengisugun/CVE-2022-22972- | | 
 | 20220615T12:33:13Z | CVE-2022-22972 | IOC List | https://github.com/bengisugun/CVE-2022-22972 | | 
 | 20220615T10:35:00Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
@@ -34,15 +37,16 @@
 | 20220615T10:20:20Z | CVE-2022-30190 | These are the source codes of the Python scripts to apply the temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code | | 
 | 20220615T09:15:12Z | CVE-2022-30190 | Null | https://github.com/notherealhazard/follina-CVE-2022-30190 | | 
 | 20220615T07:04:12Z | CVE-2022-26134 | [CVE-2022-26134] Confluence Pre-Auth Object-Graph Navigation Language (OGNL) Injection | https://github.com/murataydemir/CVE-2022-26134 | | 
-| 20220615T02:48:54Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220615T12:39:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6912 | 247| 
+| 20220615T19:15:10Z | Null | https://github.com/Sam1845/test_SAMY_GaKLEEN | 0 | 0| 
+| 20220615T15:05:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6913 | 247| 
+| 20220615T14:49:20Z | Null | https://github.com/RobbieEdwards/klee_github | 0 | 0| 
 | 20220615T11:25:43Z | The base for a github action that creates notion documentation based on markdown files in your repo | https://github.com/Minoro-Ltd/kleene_ai.doctor | 0 | 0| 
-| 20220615T00:59:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 566| 
+| 20220615T00:59:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 565| 
 
 
 # s2e on Github 推荐
@@ -53,28 +57,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220615T12:59:04Z | Null | https://github.com/TrunqKj3n/KaguyaExploit | 0 | 0| 
-| 20220615T12:35:30Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 425 | 76| 
+| 20220615T23:58:17Z | Exploit Sami FTP Server pada command LIST dengan bypass DEP secara manual untuk menambah user di windows | https://github.com/kurniawandata/Exploit-Sami-bypass-DEP | 0 | 0| 
+| 20220615T22:06:22Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 589 | 141| 
+| 20220615T21:41:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 427 | 76| 
+| 20220615T20:52:46Z | Silent DOC Exploit Builder | https://github.com/razordeveloper/Silent-DOC-Exploit | 0 | 1| 
+| 20220615T20:52:16Z | Microsoft vulnerability for CVE 2019-1205 in 2022. | https://github.com/razordeveloper/CVE-2019-1205 | 0 | 0| 
+| 20220615T19:00:26Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
+| 20220615T15:46:08Z | Repo containing verbose appendices, scripts and commands related to the master thesis called %Windows Server forensics and incident response for the ProxyShell Exploit% | https://github.com/Dolgardur/MasterThesis | 0 | 0| 
+| 20220615T13:29:15Z | Exploit Roblox Using WeAreDevs Api | https://github.com/TrunqKj3n/KaguyaExploit | 0 | 0| 
 | 20220615T12:32:31Z | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | 1 | 0| 
 | 20220615T12:15:11Z | Lua Scripts for roblox exploiting | https://github.com/XoceanXH/RBLX | 0 | 0| 
-| 20220615T11:40:24Z | Using open Adb ports we can exploit a devive | https://github.com/On4Jane/dadi32q | 0 | 0| 
-| 20220615T11:31:11Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Aniihack/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220615T11:29:50Z | A project to replay the optimism-wintermute exploit | https://github.com/lelerukjaymoh/optimism-wintermute-exploit | 0 | 1| 
-| 20220615T11:29:45Z | This scripts is already in dev. | https://github.com/WizardGuyScripts/RobloxExploitScript | 0 | 0| 
-| 20220615T11:29:16Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Aniihack/Hacking-Tools-Pack | 0 | 0| 
-| 20220615T11:19:47Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Amdhack/GH-Hacking-Tool-Kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220615T12:38:51Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1665 | 396| 
+| 20220615T22:58:13Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1665 | 396| 
+| 20220615T22:48:30Z | Null | https://github.com/variable0x/clientServerBackdoor | 0 | 0| 
+| 20220615T22:19:56Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
+| 20220615T19:59:18Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 57 | 12| 
+| 20220615T18:40:46Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 57 | 20| 
+| 20220615T13:55:55Z | Null | https://github.com/th3090/BackdoorProject | 0 | 0| 
 | 20220615T11:18:29Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 7 | 0| 
 | 20220615T11:03:14Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 507 | 93| 
-| 20220615T05:41:47Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 58 | 19| 
 | 20220615T03:13:17Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 0 | 0| 
 | 20220615T01:22:13Z | PoC for config-based git backdoor | https://github.com/dayt0n/evilgit | 2 | 0| 
-| 20220615T00:30:24Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 58 | 12| 
 
 
 # symbolic execution on Github 推荐
