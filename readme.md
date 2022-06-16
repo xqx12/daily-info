@@ -15,6 +15,7 @@
 | 20220616 | Running Shellcode Through Windows Callbacks | http://marcoramilli.com/2022/06/15/running-shellcode-through-windows-callbacks/| 
 | 20220616 | Syslogk - 基于 Adore-Ng 的 Linux 内核 rootkit | https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/| 
 | 20220616 | Windows 文件系统 Junction 重定向攻击缓解措施分析 | https://unit42.paloaltonetworks.com/junctions-windows-redirection-trust-mitigation/| 
+| 20220616 | WMI攻守之道 | https://tttang.com/archive/1624/| 
 
 
 # 安全维基 推荐
@@ -25,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220616T12:50:54Z | CVE-2022-30910 | MSDT "Follina" exploit **patched** | https://github.com/arozx/CVE-2022-30910 | | 
 | 20220616T08:52:28Z | CVE-2022-28986 | A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28986 | | 
 | 20220616T08:25:26Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220616T02:07:01Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
@@ -46,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T12:50:54Z | MSDT %Follina% exploit **patched** | https://github.com/arozx/CVE-2022-30910 | 0 | 1| 
 | 20220616T12:46:47Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4382 | 1543| 
 | 20220616T12:19:00Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Mannhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220616T12:17:09Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Mannhack/Hacking-Tools-Pack | 0 | 0| 
@@ -55,7 +58,6 @@
 | 20220616T11:33:11Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Pmnnhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220616T11:31:23Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Pmnnhack/Hacking-Tools-Pac | 0 | 0| 
 | 20220616T11:28:34Z | Vault Exploit Defense | https://github.com/hardenedvault/ved | 0 | 0| 
-| 20220616T11:21:24Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Omnhack/GH-Hacking-Tool-Kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -84,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T12:53:28Z | Fuzzy Mamdani reasoning for medical diagnosis | https://github.com/pk94/fuzzy_logic | 0 | 0| 
 | 20220616T12:36:29Z | Null | https://github.com/scngizoglu/fuzzy-logic-examples-in-matlab | 0 | 0| 
 | 20220616T12:17:21Z | Null | https://github.com/scngizoglu/Fuzzy-logic-example-with-5-different-examples-in-matlab | 0 | 0| 
 | 20220616T12:16:27Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 247 | 41| 
@@ -93,7 +96,6 @@
 | 20220616T11:25:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7502 | 1612| 
 | 20220616T10:06:48Z | http methods fuzzer | https://github.com/medbsq/methBypass | 0 | 0| 
 | 20220616T08:34:30Z | Saryn: Fuzzing with Taint Inference | https://github.com/tl455047/Saryn | 8 | 0| 
-| 20220616T08:31:47Z | Surku is a general-purpose mutation-based fuzzer. | https://github.com/attekett/Surku | 78 | 15| 
 
 
 
