@@ -136,7 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220616T12:07:41Z | Detection of COVID-19 Infection from Routine Blood Exams with Machine Learning: a Feasibility Study | https://github.com/elahesalari/Detect-COVID-19-with-fuzzy-systems- | 0 | 0| 
+| 20220616T12:08:57Z | Detection of COVID-19 Infection from Routine Blood Exams with Machine Learning: a Feasibility Study | https://github.com/elahesalari/Detect-COVID-19-with-fuzzy-systems- | 0 | 0| 
 | 20220616T11:39:40Z | Web Dev experimental project | https://github.com/fr3lancer17/fuzzy-engine | 0 | 0| 
 | 20220616T11:36:20Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1052 | 203| 
 | 20220616T11:25:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7502 | 1612| 
