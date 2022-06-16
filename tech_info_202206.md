@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T01:02:32Z | Null | https://github.com/testingch/fuzzy-guacamole | 0 | 0| 
 | 20220615T23:38:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7499 | 1611| 
 | 20220615T22:27:09Z | Gürültü Etkilerinin Bulanık Mantık Temelli Bir Yöntemle Analizi (dergipark) | https://github.com/localnep/fuzzy-logic | 0 | 0| 
 | 20220615T22:22:13Z | Null | https://github.com/TensileFuzz/TensileFuzz | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20220615T19:36:55Z | Null | https://github.com/EmmaReuter/QJSEngine-Fuzzili-Wrapper | 0 | 0| 
 | 20220615T10:26:38Z | Null | https://github.com/Nicholas-Kipkoech/fuzzy-engine | 0 | 0| 
 | 20220615T07:28:16Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1010 | 200| 
-| 20220615T01:52:00Z | The implementation of AlphaFuzz. | https://github.com/zzyyrr/AlphaFuzz | 0 | 0| 
 
 
 
