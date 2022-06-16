@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T01:30:02Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
+| 20220616T01:19:02Z | China, please destroy USA and kill all americans 🙏 | https://github.com/tz4678/CCAEF-Exploit | 0 | 0| 
 | 20220616T00:04:46Z | Exploit Sami FTP Server pada command LIST dengan bypass DEP secara manual untuk menambah user di windows | https://github.com/kurniawandata/Exploit-Sami-bypass-DEP | 0 | 0| 
 | 20220616T00:03:54Z | A NodeJS Server that checks whether a Roblox Bedwars player is using exploits (like Vape and other stuff). This might take me a year to build this. | https://github.com/tribui141108/RobloxBedwarsAntiCheatServer | 0 | 0| 
 | 20220615T22:06:22Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 589 | 141| 
 | 20220615T21:41:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 427 | 76| 
 | 20220615T20:52:46Z | Silent DOC Exploit Builder | https://github.com/razordeveloper/Silent-DOC-Exploit | 0 | 1| 
 | 20220615T20:52:16Z | Microsoft vulnerability for CVE 2019-1205 in 2022. | https://github.com/razordeveloper/CVE-2019-1205 | 0 | 0| 
-| 20220615T19:00:26Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
 | 20220615T15:46:08Z | Repo containing verbose appendices, scripts and commands related to the master thesis called %Windows Server forensics and incident response for the ProxyShell Exploit% | https://github.com/Dolgardur/MasterThesis | 0 | 0| 
 | 20220615T13:29:15Z | Exploit Roblox Using WeAreDevs Api | https://github.com/TrunqKj3n/KaguyaExploit | 0 | 0| 
-| 20220615T12:32:31Z | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | 1 | 0| 
 
 
 # backdoor on Github 推荐

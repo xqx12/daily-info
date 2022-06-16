@@ -60,12 +60,12 @@
 | 20220615T21:41:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 427 | 76| 
 | 20220615T20:52:46Z | Silent DOC Exploit Builder | https://github.com/razordeveloper/Silent-DOC-Exploit | 0 | 1| 
 | 20220615T20:52:16Z | Microsoft vulnerability for CVE 2019-1205 in 2022. | https://github.com/razordeveloper/CVE-2019-1205 | 0 | 0| 
-| 20220615T19:00:26Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
 | 20220615T15:46:08Z | Repo containing verbose appendices, scripts and commands related to the master thesis called %Windows Server forensics and incident response for the ProxyShell Exploit% | https://github.com/Dolgardur/MasterThesis | 0 | 0| 
 | 20220615T13:29:15Z | Exploit Roblox Using WeAreDevs Api | https://github.com/TrunqKj3n/KaguyaExploit | 0 | 0| 
 | 20220615T12:32:31Z | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | 1 | 0| 
 | 20220615T12:15:11Z | Lua Scripts for roblox exploiting | https://github.com/XoceanXH/RBLX | 0 | 0| 
 | 20220615T11:40:24Z | Using open Adb ports we can exploit a devive | https://github.com/On4Jane/dadi32q | 0 | 0| 
+| 20220615T11:31:11Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Aniihack/GH-Hacking-Tool-Kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
