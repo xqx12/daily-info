@@ -98,6 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T12:28:41Z | Although VOTR Shell is unsuccessful in terms of color and design, it is very good at invisibility on the server, it can be an unnoticed backdoor on many servers, you can do a lot of work with the basic shell tools in it. | https://github.com/H3llSh3ll/VOTR | 0 | 0| 
 | 20220616T12:19:13Z | Null | https://github.com/SCLBD/BackdoorBench | 16 | 0| 
 | 20220616T10:12:38Z | Null | https://github.com/goutham7r/backdoors-for-code | 0 | 0| 
 | 20220616T06:41:28Z | python reverses-shell backdoor with added functionality: | https://github.com/Llama254/reverse-shell | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20220615T22:19:56Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
 | 20220615T19:59:18Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 57 | 12| 
 | 20220615T18:40:46Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 57 | 20| 
-| 20220615T13:55:55Z | Null | https://github.com/th3090/BackdoorProject | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
