@@ -43,7 +43,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220615T19:15:10Z | Null | https://github.com/Sam1845/test_SAMY_GaKLEEN | 0 | 0| 
-| 20220615T15:05:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6913 | 247| 
 | 20220615T14:49:20Z | Null | https://github.com/RobbieEdwards/klee_github | 0 | 0| 
 | 20220615T11:25:43Z | The base for a github action that creates notion documentation based on markdown files in your repo | https://github.com/Minoro-Ltd/kleene_ai.doctor | 0 | 0| 
 | 20220615T00:59:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 565| 
