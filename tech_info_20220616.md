@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T12:16:26Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Mannhack/Hacking-Tools-Pack | 0 | 0| 
 | 20220616T11:48:59Z | A Golang Post-Exploitation Framework | https://github.com/F-r-o-i-d/GoExF | 0 | 0| 
 | 20220616T11:44:34Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Bamhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220616T11:42:55Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Bamhack/Hacking-Tools-Pack | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20220616T11:21:24Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Omnhack/GH-Hacking-Tool-Kit | 0 | 0| 
 | 20220616T11:19:34Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Omnhack/Hacking-Tools-Pack | 0 | 0| 
 | 20220616T11:10:53Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Dmmhack/GH-Hacking-Tool-Kit | 0 | 0| 
-| 20220616T11:08:51Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Dmmhack/Hacking-Tools-Pack | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -81,6 +81,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T12:17:21Z | Null | https://github.com/scngizoglu/Fuzzy-logic-example-with-5-different-examples-in-matlab | 0 | 0| 
+| 20220616T12:16:27Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 247 | 41| 
 | 20220616T12:08:57Z | Detection of COVID-19 Infection from Routine Blood Exams with Machine Learning: a Feasibility Study | https://github.com/elahesalari/Detect-COVID-19-with-fuzzy-systems- | 0 | 0| 
 | 20220616T11:39:40Z | Web Dev experimental project | https://github.com/fr3lancer17/fuzzy-engine | 0 | 0| 
 | 20220616T11:36:20Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1052 | 203| 
@@ -89,8 +91,6 @@
 | 20220616T08:34:30Z | Saryn: Fuzzing with Taint Inference | https://github.com/tl455047/Saryn | 8 | 0| 
 | 20220616T08:31:47Z | Surku is a general-purpose mutation-based fuzzer. | https://github.com/attekett/Surku | 78 | 15| 
 | 20220616T07:51:44Z | A python module for computing fuzzy matrices , 一个用于计算模糊矩阵的Python模块 | https://github.com/VincentSHI1230/fuzzymatrix | 0 | 0| 
-| 20220616T03:14:29Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 165 | 25| 
-| 20220616T01:02:32Z | Null | https://github.com/testingch/fuzzy-guacamole | 0 | 0| 
 
 
 
