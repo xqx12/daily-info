@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220616 | 在企业 EDR 环境中模拟 Phineas Phisher 发起的对 Hacking Team 的攻击 | https://www.sentinelone.com/blog/research-paper-emulating-phineas-phisher-attacks-in-modern-edr-environments/| 
+| 20220616 | TPM Sniffing Attacks Against Non-Bitlocker Targets | https://www.secura.com/blog/tpm-sniffing-attacks-against-non-bitlocker-targets| 
+| 20220616 | Pwn2Own 2021 Canon ImageCLASS MF644Cdw 打印机攻击的 writeup | https://doar-e.github.io/blog/2022/06/11/pwn2own-2021-canon-imageclass-mf644cdw-writeup/| 
+| 20220616 | Jailbreaking MikroTik RouterOS | http://margin.re/blog/pulling-mikrotik-into-the-limelight.aspx| 
+| 20220616 | Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu | http://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html| 
+| 20220616 | 研究员 nedwill 通过 Fuzzing 的方法挖掘的 XNU 条件竞争漏洞 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2277| 
+| 20220616 | Running Shellcode Through Windows Callbacks | http://marcoramilli.com/2022/06/15/running-shellcode-through-windows-callbacks/| 
+| 20220616 | Syslogk - 基于 Adore-Ng 的 Linux 内核 rootkit | https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/| 
+| 20220616 | Windows 文件系统 Junction 重定向攻击缓解措施分析 | https://unit42.paloaltonetworks.com/junctions-windows-redirection-trust-mitigation/| 
 | 20220615 | Protocol State Fuzzing of TLS Implementations | http://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-de-ruiter.pdf| 
 | 20220615 | Bypassing CSP with dangling iframes | https://portswigger.net/research/bypassing-csp-with-dangling-iframes| 
 | 20220615 | HyperDbg 调试器背后的一些设计理念 | http://rayanfam.com/topics/hyperdbg-one-thousand-and-one-nights/| 
@@ -17,15 +26,6 @@
 | 20220614 | System Informer - 一款开源的 Windows 资源监控和软件调试工具 | https://github.com/winsiderss/systeminformer| 
 | 20220614 | 微软对 BlackCat 勒索软件的分析 | https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/| 
 | 20220614 | 微软 Synapse Analytics 平台被发现提权漏洞 | https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291| 
-| 20220614 | SON web tokens (JWTs) 使用过程中的设计和实现漏洞 | https://portswigger.net/web-security/jwt| 
-| 20220614 | Issue 2280: Chrome: Incomplete fix for CVE-2022-1096 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2280| 
-| 20220614 | curl 7.83.0 的 Cookie/Authorization 过程被发现 3 个逻辑漏洞 | https://haxatron.gitbook.io/vulnerability-research/vr2| 
-| 20220614 | Apple macOS Ventura 新版本系统安全相关的变化 | https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/| 
-| 20220614 | 对攻击 Web3 钱包 iOS 用户的 SeaFlower 藏海花后门 App 的分析 | http://objective-see.org/blog/blog_0x6F.html| 
-| 20220614 | 2021 年的路由器安全报告总结 | https://securelist.com/router-security-2021/106711/?reseller=usa_regular-sm_acq_ona_smm__onl_b2c_twi_post_sm-team______&utm_source=twitter&utm_medium=social&utm_campaign=us_regular-sm_en0177&utm_content=sm-post&utm_term=us_twitter_organic_177bnl1zdlynfec| 
-| 20220613 | 聊下最近的 CVE-2022-30190 | http://paper.seebug.org/1915/| 
-| 20220613 | PiRogue - 一款开源的手机取证和流量分析套件 | http://pts-project.org/| 
-| 20220613 | Instagram 任意用户缩略图修改漏洞 | https://medium.com/@root.n33r4j/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853| 
 
 
 # 安全维基 推荐
@@ -46,29 +46,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220616T08:52:28Z | CVE-2022-28986 | A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28986 | | 
+| 20220616T02:07:01Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
 | 20220616T00:04:19Z | CVE-2022-30190 | follina zero day vulnerability to help Microsoft to mitigate the attack | https://github.com/Cerebrovinny/follina-CVE-2022-30190 | | 
 | 20220615T20:35:47Z | CVE-2022-30709 |  Reflected XSS on /link.cgi/ in Latest Webmin (1.994) | https://github.com/bl4ckmenace/CVE-2022-30709 | | 
-| 20220615T16:12:01Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
 | 20220615T12:34:20Z | CVE-2022-22972 | IOC List | https://github.com/bengisugun/CVE-2022-22972- | | 
 | 20220615T12:33:13Z | CVE-2022-22972 | IOC List | https://github.com/bengisugun/CVE-2022-22972 | | 
 | 20220615T10:35:00Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
 | 20220615T10:21:00Z | CVE-2022-30190 | These are two Python scripts compiled to easily and quickly apply temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix | | 
 | 20220615T10:20:20Z | CVE-2022-30190 | These are the source codes of the Python scripts to apply the temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code | | 
 | 20220615T09:15:12Z | CVE-2022-30190 | Null | https://github.com/notherealhazard/follina-CVE-2022-30190 | | 
-| 20220615T07:04:12Z | CVE-2022-26134 | [CVE-2022-26134] Confluence Pre-Auth Object-Graph Navigation Language (OGNL) Injection | https://github.com/murataydemir/CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220616T01:31:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6915 | 247| 
+| 20220616T10:40:15Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
+| 20220616T10:04:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6918 | 247| 
 | 20220615T19:15:10Z | Null | https://github.com/Sam1845/test_SAMY_GaKLEEN | 0 | 0| 
 | 20220615T14:49:20Z | Null | https://github.com/RobbieEdwards/klee_github | 0 | 0| 
 | 20220615T11:25:43Z | The base for a github action that creates notion documentation based on markdown files in your repo | https://github.com/Minoro-Ltd/kleene_ai.doctor | 0 | 0| 
 | 20220615T00:59:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 565| 
 | 20220614T05:27:18Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/AnonyGiit/FastKLEE | 0 | 0| 
 | 20220613T17:22:14Z | Null | https://github.com/RobbieEdwards/github_klee | 0 | 0| 
-| 20220613T16:11:50Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
 | 20220613T15:28:17Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 46 | 7| 
 | 20220613T00:57:46Z | Null | https://github.com/Namianya/kleen | 0 | 0| 
 
@@ -83,21 +83,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220616T01:58:20Z | Null | https://github.com/exindo/EXPLOIT-S | 0 | 0| 
-| 20220616T01:30:02Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
-| 20220616T01:19:02Z | China, please destroy USA and kill all americans 🙏 | https://github.com/tz4678/CCAEF-Exploit | 0 | 0| 
-| 20220616T01:00:57Z | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | 4 | 1| 
-| 20220616T00:04:46Z | Exploit Sami FTP Server pada command LIST dengan bypass DEP secara manual untuk menambah user di windows | https://github.com/kurniawandata/Exploit-Sami-bypass-DEP | 0 | 0| 
-| 20220616T00:03:54Z | A NodeJS Server that checks whether a Roblox Bedwars player is using exploits (like Vape and other stuff). This might take me a year to build this. | https://github.com/tribui141108/RobloxBedwarsAntiCheatServer | 0 | 0| 
-| 20220615T22:06:22Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 589 | 141| 
-| 20220615T21:41:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 427 | 76| 
-| 20220615T20:52:46Z | Silent DOC Exploit Builder | https://github.com/razordeveloper/Silent-DOC-Exploit | 0 | 1| 
-| 20220615T20:52:16Z | Microsoft vulnerability for CVE 2019-1205 in 2022. | https://github.com/razordeveloper/CVE-2019-1205 | 0 | 0| 
+| 20220616T11:48:59Z | A Golang Post-Exploitation Framework | https://github.com/F-r-o-i-d/GoExF | 0 | 0| 
+| 20220616T11:44:34Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Bamhack/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220616T11:42:55Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Bamhack/Hacking-Tools-Pack | 0 | 0| 
+| 20220616T11:33:11Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Pmnnhack/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220616T11:31:23Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Pmnnhack/Hacking-Tools-Pac | 0 | 0| 
+| 20220616T11:28:34Z | Vault Exploit Defense | https://github.com/hardenedvault/ved | 0 | 0| 
+| 20220616T11:21:24Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Omnhack/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220616T11:19:34Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Omnhack/Hacking-Tools-Pack | 0 | 0| 
+| 20220616T11:10:53Z | Trojan Rat Builder(355), Ransomware Builder(17), Crypter(110), Miner(9), Worm(8), Botnet(49), Virus Builder(62), Binder(35), Exploit(42), Keylogger & Stealer(40), Proxy Tool(30), Spoofer(12),Fake program & Sample Virus(64), GSM Box(), CEH Pack(34) & Many Mores.More than 𝟏,𝟔𝟓𝟐 tools and 𝟏𝟎 thousands files, that you can use for Hacking. | https://github.com/Dmmhack/GH-Hacking-Tool-Kit | 0 | 0| 
+| 20220616T11:08:51Z | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking. | https://github.com/Dmmhack/Hacking-Tools-Pack | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T10:12:38Z | Null | https://github.com/goutham7r/backdoors-for-code | 0 | 0| 
+| 20220616T06:41:28Z | python reverses-shell backdoor with added functionality: | https://github.com/Llama254/reverse-shell | 0 | 0| 
+| 20220616T02:37:16Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 508 | 93| 
 | 20220615T22:58:13Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1665 | 396| 
 | 20220615T22:48:30Z | Null | https://github.com/variable0x/clientServerBackdoor | 0 | 0| 
 | 20220615T22:19:56Z | PHP Backdoor is a web-based application that allows to execute terminal commands on a server directly from a browser. | https://github.com/psyll/PHP-Backdoor | 1 | 0| 
@@ -105,9 +108,6 @@
 | 20220615T18:40:46Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 57 | 20| 
 | 20220615T13:55:55Z | Null | https://github.com/th3090/BackdoorProject | 0 | 0| 
 | 20220615T11:18:29Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 7 | 0| 
-| 20220615T11:03:14Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 507 | 93| 
-| 20220615T03:13:17Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 0 | 0| 
-| 20220615T01:22:13Z | PoC for config-based git backdoor | https://github.com/dayt0n/evilgit | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -136,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T11:39:40Z | Web Dev experimental project | https://github.com/fr3lancer17/fuzzy-engine | 0 | 0| 
+| 20220616T11:36:20Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1052 | 203| 
+| 20220616T11:25:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7502 | 1612| 
+| 20220616T10:06:48Z | http methods fuzzer | https://github.com/medbsq/methBypass | 0 | 0| 
+| 20220616T08:34:30Z | Saryn: Fuzzing with Taint Inference | https://github.com/tl455047/Saryn | 8 | 0| 
+| 20220616T08:31:47Z | Surku is a general-purpose mutation-based fuzzer. | https://github.com/attekett/Surku | 78 | 15| 
+| 20220616T07:51:44Z | A python module for computing fuzzy matrices , 一个用于计算模糊矩阵的Python模块 | https://github.com/VincentSHI1230/fuzzymatrix | 0 | 0| 
+| 20220616T03:14:29Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 165 | 25| 
 | 20220616T01:02:32Z | Null | https://github.com/testingch/fuzzy-guacamole | 0 | 0| 
-| 20220615T23:38:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7499 | 1611| 
-| 20220615T22:27:09Z | Gürültü Etkilerinin Bulanık Mantık Temelli Bir Yöntemle Analizi (dergipark) | https://github.com/localnep/fuzzy-logic | 0 | 0| 
-| 20220615T22:22:13Z | Null | https://github.com/TensileFuzz/TensileFuzz | 0 | 0| 
-| 20220615T21:18:45Z | fuzzy-logic like bulk solvent mask generator | https://github.com/bl831/fuzzymask | 0 | 0| 
-| 20220615T20:57:00Z | Rust Parser for static analysis + Pyo3 Bindgen + Fuzzing harnesses gen + Wheel Builder | https://github.com/zommiommy/moeche | 1 | 0| 
-| 20220615T19:57:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2561 | 169| 
-| 20220615T19:36:55Z | Null | https://github.com/EmmaReuter/QJSEngine-Fuzzili-Wrapper | 0 | 0| 
-| 20220615T10:26:38Z | Null | https://github.com/Nicholas-Kipkoech/fuzzy-engine | 0 | 0| 
-| 20220615T07:28:16Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1010 | 200| 
+| 20220615T23:27:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 851 | 100| 
 
 
 
