@@ -47,6 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220616T08:52:28Z | CVE-2022-28986 | A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28986 | | 
+| 20220616T08:25:26Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220616T02:07:01Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
 | 20220616T00:04:19Z | CVE-2022-30190 | follina zero day vulnerability to help Microsoft to mitigate the attack | https://github.com/Cerebrovinny/follina-CVE-2022-30190 | | 
 | 20220615T20:35:47Z | CVE-2022-30709 |  Reflected XSS on /link.cgi/ in Latest Webmin (1.994) | https://github.com/bl4ckmenace/CVE-2022-30709 | | 
@@ -55,7 +56,6 @@
 | 20220615T10:35:00Z | CVE-2022-20004 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004 | | 
 | 20220615T10:21:00Z | CVE-2022-30190 | These are two Python scripts compiled to easily and quickly apply temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix | | 
 | 20220615T10:20:20Z | CVE-2022-30190 | These are the source codes of the Python scripts to apply the temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code | | 
-| 20220615T09:15:12Z | CVE-2022-30190 | Null | https://github.com/notherealhazard/follina-CVE-2022-30190 | | 
 
 
 # klee on Github 推荐

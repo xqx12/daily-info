@@ -26,6 +26,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220616T08:52:28Z | CVE-2022-28986 | A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28986 | | 
+| 20220616T08:25:26Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220616T02:07:01Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
 | 20220616T00:04:19Z | CVE-2022-30190 | follina zero day vulnerability to help Microsoft to mitigate the attack | https://github.com/Cerebrovinny/follina-CVE-2022-30190 | | 
 
