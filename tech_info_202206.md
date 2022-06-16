@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T12:07:41Z | Detection of COVID-19 Infection from Routine Blood Exams with Machine Learning: a Feasibility Study | https://github.com/elahesalari/Detect-COVID-19-with-fuzzy-systems- | 0 | 0| 
 | 20220616T11:39:40Z | Web Dev experimental project | https://github.com/fr3lancer17/fuzzy-engine | 0 | 0| 
 | 20220616T11:36:20Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1052 | 203| 
 | 20220616T11:25:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7502 | 1612| 
@@ -145,7 +146,6 @@
 | 20220616T07:51:44Z | A python module for computing fuzzy matrices , 一个用于计算模糊矩阵的Python模块 | https://github.com/VincentSHI1230/fuzzymatrix | 0 | 0| 
 | 20220616T03:14:29Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 165 | 25| 
 | 20220616T01:02:32Z | Null | https://github.com/testingch/fuzzy-guacamole | 0 | 0| 
-| 20220615T23:27:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 851 | 100| 
 
 
 
