@@ -101,12 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220615T23:38:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7499 | 1611| 
+| 20220615T22:27:09Z | Gürültü Etkilerinin Bulanık Mantık Temelli Bir Yöntemle Analizi (dergipark) | https://github.com/localnep/fuzzy-logic | 0 | 0| 
+| 20220615T22:22:13Z | Null | https://github.com/TensileFuzz/TensileFuzz | 0 | 0| 
+| 20220615T21:18:45Z | fuzzy-logic like bulk solvent mask generator | https://github.com/bl831/fuzzymask | 0 | 0| 
+| 20220615T20:57:00Z | Rust Parser for static analysis + Pyo3 Bindgen + Fuzzing harnesses gen + Wheel Builder | https://github.com/zommiommy/moeche | 1 | 0| 
+| 20220615T19:57:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2561 | 169| 
+| 20220615T19:36:55Z | Null | https://github.com/EmmaReuter/QJSEngine-Fuzzili-Wrapper | 0 | 0| 
 | 20220615T10:26:38Z | Null | https://github.com/Nicholas-Kipkoech/fuzzy-engine | 0 | 0| 
-| 20220615T09:47:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7498 | 1610| 
 | 20220615T07:28:16Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1010 | 200| 
 | 20220615T01:52:00Z | The implementation of AlphaFuzz. | https://github.com/zzyyrr/AlphaFuzz | 0 | 0| 
-| 20220615T01:51:19Z | Null | https://github.com/zzyyrr/AlphaFuzzplusplus | 0 | 0| 
-| 20220615T01:50:42Z | Null | https://github.com/brianburwell11/fuzzy-journey | 0 | 0| 
 
 
 
