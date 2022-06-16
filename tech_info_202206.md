@@ -85,6 +85,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220616T01:30:02Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
 | 20220616T01:19:02Z | China, please destroy USA and kill all americans 🙏 | https://github.com/tz4678/CCAEF-Exploit | 0 | 0| 
+| 20220616T01:00:57Z | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | 4 | 1| 
 | 20220616T00:04:46Z | Exploit Sami FTP Server pada command LIST dengan bypass DEP secara manual untuk menambah user di windows | https://github.com/kurniawandata/Exploit-Sami-bypass-DEP | 0 | 0| 
 | 20220616T00:03:54Z | A NodeJS Server that checks whether a Roblox Bedwars player is using exploits (like Vape and other stuff). This might take me a year to build this. | https://github.com/tribui141108/RobloxBedwarsAntiCheatServer | 0 | 0| 
 | 20220615T22:06:22Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 589 | 141| 
@@ -92,7 +93,6 @@
 | 20220615T20:52:46Z | Silent DOC Exploit Builder | https://github.com/razordeveloper/Silent-DOC-Exploit | 0 | 1| 
 | 20220615T20:52:16Z | Microsoft vulnerability for CVE 2019-1205 in 2022. | https://github.com/razordeveloper/CVE-2019-1205 | 0 | 0| 
 | 20220615T19:59:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3049 | 369| 
-| 20220615T15:46:08Z | Repo containing verbose appendices, scripts and commands related to the master thesis called %Windows Server forensics and incident response for the ProxyShell Exploit% | https://github.com/Dolgardur/MasterThesis | 0 | 0| 
 
 
 # backdoor on Github 推荐
