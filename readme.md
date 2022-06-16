@@ -27,7 +27,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220615T22:49:21Z | CVE-2022-30190 | follina zero day vulnerability to help Microsoft to mitigate the attack | https://github.com/Cerebrovinny/follina-CVE-2022-30190 | | 
 | 20220615T20:35:47Z | CVE-2022-30709 |  Reflected XSS on /link.cgi/ in Latest Webmin (1.994) | https://github.com/bl4ckmenace/CVE-2022-30709 | | 
 | 20220615T16:12:01Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
 | 20220615T12:34:20Z | CVE-2022-22972 | IOC List | https://github.com/bengisugun/CVE-2022-22972- | | 
@@ -37,6 +36,7 @@
 | 20220615T10:20:20Z | CVE-2022-30190 | These are the source codes of the Python scripts to apply the temporary protection against the CVE-2022-30190 vulnerability (Follina) | https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code | | 
 | 20220615T09:15:12Z | CVE-2022-30190 | Null | https://github.com/notherealhazard/follina-CVE-2022-30190 | | 
 | 20220615T07:04:12Z | CVE-2022-26134 | [CVE-2022-26134] Confluence Pre-Auth Object-Graph Navigation Language (OGNL) Injection | https://github.com/murataydemir/CVE-2022-26134 | | 
+| 20220615T02:48:54Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape | | 
 
 
 # klee on Github 推荐
@@ -57,7 +57,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220615T23:58:17Z | Exploit Sami FTP Server pada command LIST dengan bypass DEP secara manual untuk menambah user di windows | https://github.com/kurniawandata/Exploit-Sami-bypass-DEP | 0 | 0| 
 | 20220615T22:06:22Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 589 | 141| 
 | 20220615T21:41:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 427 | 76| 
 | 20220615T20:52:46Z | Silent DOC Exploit Builder | https://github.com/razordeveloper/Silent-DOC-Exploit | 0 | 1| 
@@ -67,6 +66,7 @@
 | 20220615T13:29:15Z | Exploit Roblox Using WeAreDevs Api | https://github.com/TrunqKj3n/KaguyaExploit | 0 | 0| 
 | 20220615T12:32:31Z | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | 1 | 0| 
 | 20220615T12:15:11Z | Lua Scripts for roblox exploiting | https://github.com/XoceanXH/RBLX | 0 | 0| 
+| 20220615T11:40:24Z | Using open Adb ports we can exploit a devive | https://github.com/On4Jane/dadi32q | 0 | 0| 
 
 
 # backdoor on Github 推荐
