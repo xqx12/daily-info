@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220616T01:25:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6914 | 247| 
+| 20220616T01:31:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6915 | 247| 
 | 20220615T19:15:10Z | Null | https://github.com/Sam1845/test_SAMY_GaKLEEN | 0 | 0| 
 | 20220615T14:49:20Z | Null | https://github.com/RobbieEdwards/klee_github | 0 | 0| 
 | 20220615T11:25:43Z | The base for a github action that creates notion documentation based on markdown files in your repo | https://github.com/Minoro-Ltd/kleene_ai.doctor | 0 | 0| 
