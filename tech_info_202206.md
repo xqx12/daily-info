@@ -91,8 +91,8 @@
 | 20220615T21:41:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 427 | 76| 
 | 20220615T20:52:46Z | Silent DOC Exploit Builder | https://github.com/razordeveloper/Silent-DOC-Exploit | 0 | 1| 
 | 20220615T20:52:16Z | Microsoft vulnerability for CVE 2019-1205 in 2022. | https://github.com/razordeveloper/CVE-2019-1205 | 0 | 0| 
+| 20220615T19:59:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3049 | 369| 
 | 20220615T15:46:08Z | Repo containing verbose appendices, scripts and commands related to the master thesis called %Windows Server forensics and incident response for the ProxyShell Exploit% | https://github.com/Dolgardur/MasterThesis | 0 | 0| 
-| 20220615T13:29:15Z | Exploit Roblox Using WeAreDevs Api | https://github.com/TrunqKj3n/KaguyaExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
