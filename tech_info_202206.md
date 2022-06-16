@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T01:58:20Z | Null | https://github.com/exindo/EXPLOIT-S | 0 | 0| 
 | 20220616T01:30:02Z | Null | https://github.com/Exploit-py/Exploit-py | 0 | 0| 
 | 20220616T01:19:02Z | China, please destroy USA and kill all americans 🙏 | https://github.com/tz4678/CCAEF-Exploit | 0 | 0| 
 | 20220616T01:00:57Z | Stumble Guys Exploit With GoLang | https://github.com/iSholvedNV/StumbleExploitGo | 4 | 1| 
@@ -92,7 +93,6 @@
 | 20220615T21:41:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 427 | 76| 
 | 20220615T20:52:46Z | Silent DOC Exploit Builder | https://github.com/razordeveloper/Silent-DOC-Exploit | 0 | 1| 
 | 20220615T20:52:16Z | Microsoft vulnerability for CVE 2019-1205 in 2022. | https://github.com/razordeveloper/CVE-2019-1205 | 0 | 0| 
-| 20220615T19:59:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3049 | 369| 
 
 
 # backdoor on Github 推荐
