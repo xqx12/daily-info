@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T12:36:29Z | Null | https://github.com/scngizoglu/fuzzy-logic-examples-in-matlab | 0 | 0| 
 | 20220616T12:17:21Z | Null | https://github.com/scngizoglu/Fuzzy-logic-example-with-5-different-examples-in-matlab | 0 | 0| 
 | 20220616T12:16:27Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 247 | 41| 
 | 20220616T12:08:57Z | Detection of COVID-19 Infection from Routine Blood Exams with Machine Learning: a Feasibility Study | https://github.com/elahesalari/Detect-COVID-19-with-fuzzy-systems- | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20220616T10:06:48Z | http methods fuzzer | https://github.com/medbsq/methBypass | 0 | 0| 
 | 20220616T08:34:30Z | Saryn: Fuzzing with Taint Inference | https://github.com/tl455047/Saryn | 8 | 0| 
 | 20220616T08:31:47Z | Surku is a general-purpose mutation-based fuzzer. | https://github.com/attekett/Surku | 78 | 15| 
-| 20220616T07:51:44Z | A python module for computing fuzzy matrices , 一个用于计算模糊矩阵的Python模块 | https://github.com/VincentSHI1230/fuzzymatrix | 0 | 0| 
 
 
 
