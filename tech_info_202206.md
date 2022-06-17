@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220617T12:07:17Z | Null | https://github.com/Databazator/fuzzy-octo-giggle | 0 | 0| 
 | 20220617T12:04:43Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 248 | 41| 
 | 20220617T11:52:02Z | Huiswerk cursus webdesign | https://github.com/susanmiedema/fuzzy-journey | 0 | 0| 
 | 20220617T10:57:59Z | لايوجد | https://github.com/Eraa852/Fuzzy-spork | 0 | 0| 
@@ -145,7 +146,6 @@
 | 20220617T06:32:17Z | Null | https://github.com/weixian-zhang/Fuzzie | 0 | 0| 
 | 20220617T01:59:39Z | Null | https://github.com/Lawsonrc22/fuzzy-guacamole | 0 | 0| 
 | 20220616T23:28:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2564 | 169| 
-| 20220616T22:33:58Z | Null | https://github.com/tik65536/2022FuzzyLogic | 0 | 0| 
 
 
 
