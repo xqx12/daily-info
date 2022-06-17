@@ -136,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220616T23:28:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2564 | 169| 
+| 20220616T22:33:58Z | Null | https://github.com/tik65536/2022FuzzyLogic | 0 | 0| 
+| 20220616T22:29:51Z | NeDB adapter for fuzzy search, api compatible with the MongoDB version | https://github.com/rayfoss/feathers-nedb-fuzzy-search | 8 | 5| 
+| 20220616T19:52:31Z | Null | https://github.com/pkarakal/fuzzy-controller | 0 | 0| 
+| 20220616T19:39:43Z | Programme pour le fuzzing | https://github.com/Jephteman/wfuzz_links | 1 | 0| 
 | 20220616T12:57:42Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1053 | 203| 
 | 20220616T12:53:28Z | Fuzzy Mamdani reasoning for medical diagnosis | https://github.com/pk94/fuzzy_logic | 0 | 0| 
 | 20220616T12:36:29Z | Null | https://github.com/scngizoglu/fuzzy-logic-examples-in-matlab | 0 | 0| 
 | 20220616T12:17:21Z | Null | https://github.com/scngizoglu/Fuzzy-logic-example-with-5-different-examples-in-matlab | 0 | 0| 
 | 20220616T12:16:27Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 247 | 41| 
-| 20220616T12:08:57Z | Detection of COVID-19 Infection from Routine Blood Exams with Machine Learning: a Feasibility Study | https://github.com/elahesalari/Detect-COVID-19-with-fuzzy-systems- | 0 | 0| 
-| 20220616T11:39:40Z | Web Dev experimental project | https://github.com/fr3lancer17/fuzzy-engine | 0 | 0| 
-| 20220616T11:25:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7502 | 1612| 
-| 20220616T10:06:48Z | http methods fuzzer | https://github.com/medbsq/methBypass | 0 | 0| 
-| 20220616T08:34:30Z | Saryn: Fuzzing with Taint Inference | https://github.com/tl455047/Saryn | 8 | 0| 
 
 
 
