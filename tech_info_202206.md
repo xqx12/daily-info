@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220617T12:04:38Z | unauthorized RcE exploit for webnin  < 1.920 | https://github.com/psw01/CVE-2019-15107_webminRCE | 0 | 0| 
 | 20220617T11:57:46Z | A Golang Post-Exploitation Framework | https://github.com/F-r-o-i-d/GoExF | 2 | 0| 
 | 20220617T07:35:42Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 712 | 96| 
 | 20220617T07:17:24Z | get 200 crown in 5 min | https://github.com/RexxaASP/StumbleExploit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220617T03:58:10Z | exploit/script/program | https://github.com/Tulea-Sanchez/hack | 0 | 0| 
 | 20220617T01:36:02Z | LFI to RCE | https://github.com/iiSiLvEr/Exploiting-PHP_SESSION_UPLOAD_PRO-GRESS | 1 | 1| 
 | 20220617T01:22:27Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 89 | 40| 
-| 20220617T01:04:54Z | Turning CISA%s exploited vulnerabilities catalog into a feed with Cloudflare Workers | https://github.com/danielunderwood/exploited-vulns-feed | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -136,7 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220617T12:04:42Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 247 | 41| 
+| 20220617T12:04:43Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 248 | 41| 
 | 20220617T11:52:02Z | Huiswerk cursus webdesign | https://github.com/susanmiedema/fuzzy-journey | 0 | 0| 
 | 20220617T10:57:59Z | لايوجد | https://github.com/Eraa852/Fuzzy-spork | 0 | 0| 
 | 20220617T10:45:04Z | Репозиторий под семинар 3 | https://github.com/VorobyovR/fuzzy-octo-train | 0 | 0| 
