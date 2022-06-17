@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220617 | DriftingCloud: Zero-Day Sophos Firewall Exploitation and an Insidious Breach | https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/| 
+| 20220617 | Flutter Apps 的逆向 | https://www.guardsquare.com/blog/current-state-and-future-of-reversing-flutter-apps| 
+| 20220617 | RDP 命名管道权限设置不当漏洞分析（CVE-2022-24533） | https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability| 
+| 20220617 | 利用 Qualcomm GPU 驱动的 UAF 漏洞实现 Samsung Z flip 3 root 提权、禁用 SELinux | http://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/| 
+| 20220617 | VED - Linux 内核威胁检测和防御系统 | https://github.com/hardenedvault/ved| 
+| 20220617 | iOS 16 版本 IOSurface 攻击面缓解的一些变化 | https://saaramar.github.io/ios16_restricted_iouserclients/| 
+| 20220617 | iOS 平台 ARM64 ROP 利用链 | https://www.inversecos.com/2022/06/guide-to-reversing-and-exploiting-ios.html| 
+| 20220617 | 利用 FreeBSD Wi-Fi 协议栈的堆溢出漏洞实现 RCE（CVE-2022-23088） | https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack| 
+| 20220617 | 端到端加密通信 App 如何实现群聊消息的安全，来自 QuarksLab | http://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-2.html| 
 | 20220616 | 在企业 EDR 环境中模拟 Phineas Phisher 发起的对 Hacking Team 的攻击 | https://www.sentinelone.com/blog/research-paper-emulating-phineas-phisher-attacks-in-modern-edr-environments/| 
 | 20220616 | TPM Sniffing Attacks Against Non-Bitlocker Targets | https://www.secura.com/blog/tpm-sniffing-attacks-against-non-bitlocker-targets| 
 | 20220616 | Pwn2Own 2021 Canon ImageCLASS MF644Cdw 打印机攻击的 writeup | https://doar-e.github.io/blog/2022/06/11/pwn2own-2021-canon-imageclass-mf644cdw-writeup/| 
@@ -17,15 +26,6 @@
 | 20220616 | Windows 文件系统 Junction 重定向攻击缓解措施分析 | https://unit42.paloaltonetworks.com/junctions-windows-redirection-trust-mitigation/| 
 | 20220616 | WMI攻守之道 | https://tttang.com/archive/1624/| 
 | 20220615 | Protocol State Fuzzing of TLS Implementations | http://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-de-ruiter.pdf| 
-| 20220615 | Bypassing CSP with dangling iframes | https://portswigger.net/research/bypassing-csp-with-dangling-iframes| 
-| 20220615 | HyperDbg 调试器背后的一些设计理念 | http://rayanfam.com/topics/hyperdbg-one-thousand-and-one-nights/| 
-| 20220615 | Fastjson Auto Type Bypass RCE 漏洞分析（CVE-2022-25845） | https://jfrog.com/blog/cve-2022-25845-analyzing-the-fastjson-auto-type-bypass-rce-vulnerability/| 
-| 20220615 | Windows RPC 研究工具调研 | https://clearbluejar.github.io/posts/surveying-windows-rpc-discovery-tools/| 
-| 20220615 | Hertzbleed - x86 处理器动态主频的侧信道攻击，攻击成功甚至可以远程泄露加密密钥 | http://www.hertzbleed.com/| 
-| 20220615 | Safari 2013 年漏洞修复后由于项目代码重构 2016 年出现变种，该漏洞变种（CVE-2022-22620）今年被发现野外利用 | https://googleprojectzero.blogspot.com/2022/06/an-autopsy-on-zombie-in-wild-0-day.html| 
-| 20220615 | 基于软件资产清单（SBOM）在 Kubernetes 项目中检测漏洞 | https://security.googleblog.com/2022/06/sbom-in-action-finding-vulnerabilities.html| 
-| 20220614 | System Informer - 一款开源的 Windows 资源监控和软件调试工具 | https://github.com/winsiderss/systeminformer| 
-| 20220614 | 微软对 BlackCat 勒索软件的分析 | https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220617T01:50:29Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | | 
+| 20220617T10:05:37Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | | 
+| 20220617T07:29:36Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape | | 
+| 20220617T07:27:14Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System | https://github.com/oturu/Cve-2022-30136-RCE | | 
+| 20220617T06:36:37Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
+| 20220617T05:41:52Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
 | 20220616T22:03:55Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/VortexRadiation/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220616T22:03:33Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/VortexRadiation/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220616T21:51:36Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/rorganic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20220616T21:37:59Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System | https://github.com/oturu/Cve-2022-30136-RCE | | 
-| 20220616T13:17:23Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 | 20220616T12:50:54Z | CVE-2022-30910 | MSDT "Follina" exploit **patched** | https://github.com/arozx/CVE-2022-30910 | | 
 | 20220616T08:52:28Z | CVE-2022-28986 | A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28986 | | 
-| 20220616T02:07:01Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
-| 20220616T00:04:19Z | CVE-2022-30190 | follina zero day vulnerability to help Microsoft to mitigate the attack | https://github.com/Cerebrovinny/follina-CVE-2022-30190 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220617T01:50:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6929 | 247| 
+| 20220617T09:56:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6941 | 247| 
+| 20220617T07:55:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1989 | 567| 
+| 20220617T02:39:10Z | Null | https://github.com/sandaarpq/klee | 0 | 0| 
 | 20220616T10:40:15Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
 | 20220615T19:15:10Z | Null | https://github.com/Sam1845/test_SAMY_GaKLEEN | 0 | 0| 
 | 20220615T14:49:20Z | Null | https://github.com/RobbieEdwards/klee_github | 0 | 0| 
 | 20220615T11:25:43Z | The base for a github action that creates notion documentation based on markdown files in your repo | https://github.com/Minoro-Ltd/kleene_ai.doctor | 0 | 0| 
-| 20220615T00:59:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1986 | 565| 
 | 20220614T05:27:18Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/AnonyGiit/FastKLEE | 0 | 0| 
 | 20220613T17:22:14Z | Null | https://github.com/RobbieEdwards/github_klee | 0 | 0| 
 | 20220613T15:28:17Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 46 | 7| 
-| 20220613T00:57:46Z | Null | https://github.com/Namianya/kleen | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220617T11:57:46Z | A Golang Post-Exploitation Framework | https://github.com/F-r-o-i-d/GoExF | 2 | 0| 
+| 20220617T07:35:42Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 712 | 96| 
+| 20220617T07:17:24Z | get 200 crown in 5 min | https://github.com/RexxaASP/StumbleExploit | 0 | 0| 
+| 20220617T05:29:31Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3309 | 700| 
+| 20220617T05:26:53Z | Recode resource ishovel | https://github.com/mp622/stumble-exploit | 0 | 0| 
+| 20220617T04:16:32Z | stumble crown exploit | https://github.com/Chevozz/exploit | 0 | 0| 
+| 20220617T03:58:10Z | exploit/script/program | https://github.com/Tulea-Sanchez/hack | 0 | 0| 
 | 20220617T01:36:02Z | LFI to RCE | https://github.com/iiSiLvEr/Exploiting-PHP_SESSION_UPLOAD_PRO-GRESS | 1 | 1| 
 | 20220617T01:22:27Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 89 | 40| 
 | 20220617T01:04:54Z | Turning CISA%s exploited vulnerabilities catalog into a feed with Cloudflare Workers | https://github.com/danielunderwood/exploited-vulns-feed | 0 | 0| 
-| 20220617T00:00:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11618 | 1992| 
-| 20220616T22:15:06Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/Dexie619/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
-| 20220616T22:14:08Z | WebGL Support - Hidden Desktop - Copy/Paste internal - Encrypted Connection - File Manager Internal - C#/C+ + (Native) Crypter Compatibility - IPV4/ DNS Support - WD Exclusion No Popups - Quality Support - Browser Profile Cloner - Process Suspension - File Manager Support Download/Upload/Create/Delete/Explore/Execute - Reverse Connection - Hidden Persistence / Startup - Random Mutex - 2FA Recovery Bypass - Reflective Stub Injection - Stub is RunPE Compatible - Process Suspension - Download / Execute (Powershell) - Windows Defender Exclusion (No Popups) - Encrypted Connection - Kill browsers individually or all - Binder - Steal Remote Clipboard - Lightweight TCP Server - UAC Exploit (No Popups) - Browser Profile Cloner S/ C/ P/ H - CMD/Powershell Prompt - Small Stub ~130kb - Quality Adjustment/ Image Resize of hVNC - Obfuscated Stub - Compressed Image Support for faster Interaction - Random Mutex for single instances - Supported Browsers & Mail Applications - Mass disconnect - online / Offline Logger | https://github.com/Dexie619/Pandora-Hvnc-Hidden-Browser-Real-Vnc-Working-Chromium-Edge-Opera-Gx | 0 | 0| 
-| 20220616T22:06:42Z | What and how does kids in Minecraft Community use their %exploits% to griefing our shits  | https://github.com/hungnguyennaz/what-do-the-kids-use | 1 | 0| 
-| 20220616T22:03:33Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/VortexRadiation/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
-| 20220616T22:03:01Z | ulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silent PDF Exploit There are multiple Exploit PDF in Silent PDF Exploit, a package commonly used by web services to process Exploit PDF File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted PDF. The exploit for this vulnerability is being used in the wild. Why Are You Disclosing A Exploit PDF We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software. | https://github.com/VortexRadiation/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve-main | 0 | 0| 
-| 20220616T22:02:25Z | WebGL Support - Hidden Desktop - Copy/Paste internal - Encrypted Connection - File Manager Internal - C#/C+ + (Native) Crypter Compatibility - IPV4/ DNS Support - WD Exclusion No Popups - Quality Support - Browser Profile Cloner - Process Suspension - File Manager Support Download/Upload/Create/Delete/Explore/Execute - Reverse Connection - Hidden Persistence / Startup - Random Mutex - 2FA Recovery Bypass - Reflective Stub Injection - Stub is RunPE Compatible - Process Suspension - Download / Execute (Powershell) - Windows Defender Exclusion (No Popups) - Encrypted Connection - Kill browsers individually or all - Binder - Steal Remote Clipboard - Lightweight TCP Server - UAC Exploit (No Popups) - Browser Profile Cloner S/ C/ P/ H - CMD/Powershell Prompt - Small Stub ~130kb - Quality Adjustment/ Image Resize of hVNC - Obfuscated Stub - Compressed Image Support for faster Interaction - Random Mutex for single instances - Supported Browsers & Mail Applications - Mass disconnect - online / Offline Logger reverse proxy | https://github.com/VortexRadiation/S-500-G2-Rat-Hvnc-Hiden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220617T10:55:54Z | Null | https://github.com/Pro95coderBackdoors/https-github.com-Pro95coderBackdoors-DcRat-cracked-with-encrypter-FUD-2022 | 0 | 0| 
+| 20220617T08:26:33Z | a backdoor detection tool for Ethereum ERC token contract | https://github.com/EthereumContractBackdoor/PiedPiperBackdoor | 0 | 0| 
+| 20220617T08:10:38Z | Null | https://github.com/Lund321/backdoor | 0 | 0| 
+| 20220617T02:52:47Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 130 | 30| 
 | 20220617T01:44:08Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 2 | 0| 
 | 20220616T22:00:26Z | Null | https://github.com/khoadoan106/backdoor_attacks | 5 | 0| 
 | 20220616T21:04:55Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 540 | 193| 
 | 20220616T20:19:46Z | Null | https://github.com/UCDvision/backdoor_transformer | 0 | 0| 
 | 20220616T17:20:53Z | #Just a proyect trying to develope a persistent backdoor with a mix of privilage scalation on android devices | https://github.com/fpedrazav02/android_h | 0 | 0| 
 | 20220616T17:11:33Z | FREE NFT + ETHEREUM DRAINER, NO BACKDOOR CODE! | https://github.com/cryptoscemdev/ethereum-nft-drainer | 0 | 0| 
-| 20220616T12:28:41Z | Although VOTR Shell is unsuccessful in terms of color and design, it is very good at invisibility on the server, it can be an unnoticed backdoor on many servers, you can do a lot of work with the basic shell tools in it. | https://github.com/H3llSh3ll/VOTR | 0 | 0| 
-| 20220616T12:19:13Z | Null | https://github.com/SCLBD/BackdoorBench | 16 | 0| 
-| 20220616T10:12:38Z | Null | https://github.com/goutham7r/backdoors-for-code | 0 | 0| 
-| 20220616T06:41:28Z | python reverses-shell backdoor with added functionality: | https://github.com/Llama254/reverse-shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -136,16 +136,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220617T11:52:02Z | Huiswerk cursus webdesign | https://github.com/susanmiedema/fuzzy-journey | 0 | 0| 
+| 20220617T10:57:59Z | لايوجد | https://github.com/Eraa852/Fuzzy-spork | 0 | 0| 
+| 20220617T10:45:04Z | Репозиторий под семинар 3 | https://github.com/VorobyovR/fuzzy-octo-train | 0 | 0| 
+| 20220617T09:14:46Z | Null | https://github.com/lanlinjnc/IntelligentControl_work1_FuzzyControl | 0 | 0| 
+| 20220617T07:22:45Z | Consumes a RESTful meme api to display memes. Clean Architecture guidelines followed | https://github.com/Harmaton/fuzzy-spoon-meme-app- | 0 | 0| 
+| 20220617T06:32:17Z | Null | https://github.com/weixian-zhang/Fuzzie | 0 | 0| 
 | 20220617T01:59:39Z | Null | https://github.com/Lawsonrc22/fuzzy-guacamole | 0 | 0| 
 | 20220616T23:28:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2564 | 169| 
 | 20220616T22:33:58Z | Null | https://github.com/tik65536/2022FuzzyLogic | 0 | 0| 
 | 20220616T22:29:51Z | NeDB adapter for fuzzy search, api compatible with the MongoDB version | https://github.com/rayfoss/feathers-nedb-fuzzy-search | 8 | 5| 
-| 20220616T19:52:31Z | Null | https://github.com/pkarakal/fuzzy-controller | 0 | 0| 
-| 20220616T19:39:43Z | Programme pour le fuzzing | https://github.com/Jephteman/wfuzz_links | 1 | 0| 
-| 20220616T12:57:42Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1053 | 203| 
-| 20220616T12:53:28Z | Fuzzy Mamdani reasoning for medical diagnosis | https://github.com/pk94/fuzzy_logic | 0 | 0| 
-| 20220616T12:36:29Z | Null | https://github.com/scngizoglu/fuzzy-logic-examples-in-matlab | 0 | 0| 
-| 20220616T12:17:21Z | Null | https://github.com/scngizoglu/Fuzzy-logic-example-with-5-different-examples-in-matlab | 0 | 0| 
 
 
 
