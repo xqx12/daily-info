@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220617T01:42:55Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | | 
 | 20220616T22:03:55Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/VortexRadiation/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220616T22:03:33Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/VortexRadiation/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220616T21:51:36Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/rorganic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
@@ -55,7 +56,6 @@
 | 20220616T08:52:28Z | CVE-2022-28986 | A Insecure direct object references (IDOR) vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor | https://github.com/FlaviuPopescu/CVE-2022-28986 | | 
 | 20220616T02:07:01Z | CVE-2022-30023 | Null | https://github.com/Haniwa0x01/CVE-2022-30023 | | 
 | 20220616T00:04:19Z | CVE-2022-30190 | follina zero day vulnerability to help Microsoft to mitigate the attack | https://github.com/Cerebrovinny/follina-CVE-2022-30190 | | 
-| 20220615T20:35:47Z | CVE-2022-30709 |  Reflected XSS on /link.cgi/ in Latest Webmin (1.994) | https://github.com/bl4ckmenace/CVE-2022-30709 | | 
 
 
 # klee on Github 推荐
