@@ -50,6 +50,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220617T12:24:21Z | unauthorized RcE exploit for webnin  < 1.920 | https://github.com/psw01/CVE-2019-15107_webminRCE | 0 | 0| 
 | 20220617T11:57:46Z | A Golang Post-Exploitation Framework | https://github.com/F-r-o-i-d/GoExF | 2 | 0| 
+| 20220617T10:00:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11619 | 1992| 
 | 20220617T07:35:42Z | A helpful Java Deserialization exploit framework. | https://github.com/wh1t3p1g/ysomap | 712 | 96| 
 | 20220617T07:17:24Z | get 200 crown in 5 min | https://github.com/RexxaASP/StumbleExploit | 0 | 0| 
 | 20220617T05:29:31Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3309 | 700| 
@@ -57,7 +58,6 @@
 | 20220617T04:16:32Z | stumble crown exploit | https://github.com/Chevozz/exploit | 0 | 0| 
 | 20220617T03:58:10Z | exploit/script/program | https://github.com/Tulea-Sanchez/hack | 0 | 0| 
 | 20220617T01:36:02Z | LFI to RCE | https://github.com/iiSiLvEr/Exploiting-PHP_SESSION_UPLOAD_PRO-GRESS | 1 | 1| 
-| 20220617T01:22:27Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 89 | 40| 
 
 
 # backdoor on Github 推荐
