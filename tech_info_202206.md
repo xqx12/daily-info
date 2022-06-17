@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220617T01:59:39Z | Null | https://github.com/Lawsonrc22/fuzzy-guacamole | 0 | 0| 
 | 20220616T23:28:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2564 | 169| 
 | 20220616T22:33:58Z | Null | https://github.com/tik65536/2022FuzzyLogic | 0 | 0| 
 | 20220616T22:29:51Z | NeDB adapter for fuzzy search, api compatible with the MongoDB version | https://github.com/rayfoss/feathers-nedb-fuzzy-search | 8 | 5| 
@@ -145,7 +146,6 @@
 | 20220616T12:53:28Z | Fuzzy Mamdani reasoning for medical diagnosis | https://github.com/pk94/fuzzy_logic | 0 | 0| 
 | 20220616T12:36:29Z | Null | https://github.com/scngizoglu/fuzzy-logic-examples-in-matlab | 0 | 0| 
 | 20220616T12:17:21Z | Null | https://github.com/scngizoglu/Fuzzy-logic-example-with-5-different-examples-in-matlab | 0 | 0| 
-| 20220616T12:16:27Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 247 | 41| 
 
 
 
