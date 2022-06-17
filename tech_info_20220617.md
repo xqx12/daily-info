@@ -73,6 +73,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220617T12:23:46Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 608 | 104| 
 | 20220617T10:32:54Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 246 | 17| 
 | 20220617T09:10:23Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 11 | 2| 
 | 20220617T09:08:30Z | Symbolic Execution plugin for IDA | https://github.com/sandin/seida | 0 | 0| 
