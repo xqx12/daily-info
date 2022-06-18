@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220617T23:54:03Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | | 
+| 20220618T01:32:23Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | | 
 | 20220617T23:39:34Z | CVE-2022-23342 | Null | https://github.com/InitRoot/CVE-2022-23342 | | 
 | 20220617T21:11:38Z | CVE-2022-26809 | metasploit module for CVE-2022-26809 windows rpc rce via smb 445  | https://github.com/Ziggy78/CVE-2022-26809-POC | | 
 | 20220617T16:53:32Z | CVE-2021-43229 | CVE-2021-43229 Walkthrough | https://github.com/Citizen13X/CVE-2021-43229 | | 
