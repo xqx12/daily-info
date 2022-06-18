@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220618T12:45:35Z | A collection of PLDT hacks, exploits & tools that is completely made using NodeJS. | https://github.com/I2rys/ZeroPLDT | 0 | 0| 
 | 20220618T12:22:31Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 440 | 85| 
 | 20220618T11:47:55Z | Null | https://github.com/rayan776/predict_cve_exploited | 0 | 0| 
 | 20220618T11:27:11Z | This will be an educational series piecing together knowledge I have acquired to make program exploitation much more concrete.  | https://github.com/WRaezer/ProgramExploitationFundamentals | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220618T04:26:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11622 | 1995| 
 | 20220618T03:18:54Z | A collection of HackSys Extreme Vulnerable Driver exploits. Previous repository was deleted to forcefully remove commits containing sensitive information. Sorry! | https://github.com/Exploitables/HEVD-Exploits | 2 | 2| 
 | 20220618T01:24:42Z | Exploit para alterar as credenciais da rede Wi-Fi do roteador Askey RTA9927W-D112 sem estar autenticado. | https://github.com/caique-garbim/AskeySploit-RTA9927W-D112 | 0 | 0| 
-| 20220618T01:17:05Z | Multiple game hacks to use so the game become easier to play! | https://github.com/Gl1xzzy/blooket-hack | 3 | 0| 
 
 
 # backdoor on Github 推荐
