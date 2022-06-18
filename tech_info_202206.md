@@ -83,9 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220618T12:22:31Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 440 | 85| 
 | 20220618T11:47:55Z | Null | https://github.com/rayan776/predict_cve_exploited | 0 | 0| 
 | 20220618T11:27:11Z | This will be an educational series piecing together knowledge I have acquired to make program exploitation much more concrete.  | https://github.com/WRaezer/ProgramExploitationFundamentals | 0 | 0| 
-| 20220618T11:09:19Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 439 | 85| 
 | 20220618T10:30:24Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 82 | 12| 
 | 20220618T09:25:03Z | The network is and will always be the sexiest areana for a hacker. An attacker can do almost anything wit the simple network access, such as scan for hosts, inject packets . sniff data, remotely exploit host, and much more. | https://github.com/AdvocateM/Network-Basics | 0 | 0| 
 | 20220618T08:06:04Z | Exploitation Using JP | https://github.com/kwewrf/Juicy-Potato | 0 | 0| 
