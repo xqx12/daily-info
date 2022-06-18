@@ -44,7 +44,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220617T19:17:24Z | Config files for my GitHub profile. | https://github.com/Klee12345678/Klee12345678 | 0 | 0| 
-| 20220617T18:37:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6947 | 247| 
 | 20220617T13:56:58Z | Null | https://github.com/mojyack/klee | 0 | 0| 
 | 20220617T07:55:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1989 | 568| 
 | 20220617T02:39:10Z | Null | https://github.com/sandaarpq/klee | 0 | 0| 
