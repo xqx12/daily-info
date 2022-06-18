@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220618T01:17:05Z | Multiple game hacks to use so the game become easier to play! | https://github.com/Gl1xzzy/blooket-hack | 3 | 0| 
 | 20220618T00:54:36Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 2 | 0| 
 | 20220618T00:17:09Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 25 | 2| 
 | 20220617T23:50:45Z | Project 2. This project documents each step taken as both teams, whereas Red Team I attacked a vulnerable VM, ultimately gaining root access. As Blue Team, I used Kibana to review logs to extract hard data and visualizations, ultimately interpreting log data to suggest mitigation measures for each exploit successfully performed. | https://github.com/jalicdan95/Red-Vs.-Blue-Team | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220617T21:30:45Z | Windows Post-Exploitation tools wrapper | https://github.com/Karmaz95/crimson_wisp | 1 | 0| 
 | 20220617T21:24:29Z | This GitHub repository is filled with Roblox cheat scripts and I%m here to share them with the world. | https://github.com/VexHazity/Roblox-Exploits | 1 | 0| 
 | 20220617T14:54:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 59 | 9| 
-| 20220617T14:10:50Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 223 | 946| 
 
 
 # backdoor on Github 推荐
