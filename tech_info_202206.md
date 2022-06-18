@@ -83,9 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220618T00:17:09Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 25 | 2| 
 | 20220617T23:50:45Z | Project 2. This project documents each step taken as both teams, whereas Red Team I attacked a vulnerable VM, ultimately gaining root access. As Blue Team, I used Kibana to review logs to extract hard data and visualizations, ultimately interpreting log data to suggest mitigation measures for each exploit successfully performed. | https://github.com/jalicdan95/Red-Vs.-Blue-Team | 0 | 0| 
 | 20220617T23:34:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11621 | 1993| 
-| 20220617T23:32:46Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 24 | 2| 
 | 20220617T22:09:09Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 1 | 0| 
 | 20220617T21:34:41Z | Null | https://github.com/kiks7/moodle_ssrf_exploits | 1 | 0| 
 | 20220617T21:32:58Z | Rusty Joomla RCE Exploit | https://github.com/kiks7/rusty_joomla_rce | 65 | 20| 
