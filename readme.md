@@ -47,10 +47,10 @@
 | 20220618T10:30:24Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 82 | 12| 
 | 20220618T09:25:03Z | The network is and will always be the sexiest areana for a hacker. An attacker can do almost anything wit the simple network access, such as scan for hosts, inject packets . sniff data, remotely exploit host, and much more. | https://github.com/AdvocateM/Network-Basics | 0 | 0| 
 | 20220618T08:06:04Z | Exploitation Using JP | https://github.com/kwewrf/Juicy-Potato | 0 | 0| 
+| 20220618T04:26:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11622 | 1995| 
 | 20220618T03:18:54Z | A collection of HackSys Extreme Vulnerable Driver exploits. Previous repository was deleted to forcefully remove commits containing sensitive information. Sorry! | https://github.com/Exploitables/HEVD-Exploits | 2 | 2| 
 | 20220618T01:24:42Z | Exploit para alterar as credenciais da rede Wi-Fi do roteador Askey RTA9927W-D112 sem estar autenticado. | https://github.com/caique-garbim/AskeySploit-RTA9927W-D112 | 0 | 0| 
 | 20220618T01:17:05Z | Multiple game hacks to use so the game become easier to play! | https://github.com/Gl1xzzy/blooket-hack | 3 | 0| 
-| 20220618T00:54:36Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 2 | 0| 
 
 
 # backdoor on Github 推荐
