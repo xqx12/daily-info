@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220618T12:38:01Z | VST Fuzzpedal | https://github.com/Passifi/FuzzPedal | 0 | 0| 
 | 20220618T10:32:56Z | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target%s server and by means of advanced Google searches (Google Dorking). | https://github.com/m3n0sd0n4ld/GooFuzz | 1 | 0| 
 | 20220618T10:24:55Z | Null | https://github.com/Dhanushdhaari/fuzzy-barnacle | 0 | 0| 
 | 20220618T08:56:15Z | Null | https://github.com/aralacikalin/Fuzzy-Sentiment-Analysis | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20220618T05:08:52Z | Tugas Pemrograman AI 2 Fuzzy Logic | https://github.com/azmirizkifar20/Tugas-Pemrograman-AI-2-Fuzzy-Logic | 0 | 0| 
 | 20220618T03:07:36Z | Null | https://github.com/tanishqjasoria/tx-fuzzer | 0 | 0| 
 | 20220617T23:19:01Z | A simple python web fuzzer | https://github.com/mind2hex/webFuzzer | 0 | 0| 
-| 20220617T20:58:07Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 0 | 0| 
 
 
 

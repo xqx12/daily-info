@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220618T12:38:01Z | VST Fuzzpedal | https://github.com/Passifi/FuzzPedal | 0 | 0| 
 | 20220618T10:32:56Z | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target%s server and by means of advanced Google searches (Google Dorking). | https://github.com/m3n0sd0n4ld/GooFuzz | 1 | 0| 
 | 20220618T10:24:55Z | Null | https://github.com/Dhanushdhaari/fuzzy-barnacle | 0 | 0| 
 | 20220618T08:56:15Z | Null | https://github.com/aralacikalin/Fuzzy-Sentiment-Analysis | 0 | 0| 
