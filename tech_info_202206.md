@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220618T01:23:22Z | Exploit para alterar as credenciais da rede Wi-Fi do roteador Askey RTA9927W-D112 sem estar autenticado. | https://github.com/caique-garbim/AskeySploit-RTA9927W-D112 | 0 | 0| 
+| 20220618T01:24:42Z | Exploit para alterar as credenciais da rede Wi-Fi do roteador Askey RTA9927W-D112 sem estar autenticado. | https://github.com/caique-garbim/AskeySploit-RTA9927W-D112 | 0 | 0| 
 | 20220618T01:17:05Z | Multiple game hacks to use so the game become easier to play! | https://github.com/Gl1xzzy/blooket-hack | 3 | 0| 
 | 20220618T00:54:36Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 2 | 0| 
 | 20220618T00:17:09Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 25 | 2| 
@@ -113,6 +113,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220618T01:25:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 39| 
 | 20220618T00:08:08Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2921 | 418| 
 | 20220617T22:38:54Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 440 | 25| 
 | 20220617T22:38:50Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 68 | 3| 
@@ -122,7 +123,6 @@
 | 20220617T09:08:30Z | Symbolic Execution plugin for IDA | https://github.com/sandin/seida | 0 | 0| 
 | 20220617T07:55:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1989 | 568| 
 | 20220616T20:15:48Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 205 | 54| 
-| 20220615T11:25:52Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 558 | 96| 
 
 
 # big4 on Github 推荐
