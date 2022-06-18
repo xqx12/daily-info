@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220618T01:53:37Z | 未知编号 | Null | https://github.com/xCodeBossS/CodeBoss-CVE-2022 | | 
 | 20220618T01:34:23Z | CVE-2022-26134 | Null | https://github.com/aleafyb/CVE-2022-26134 | | 
 | 20220618T01:32:23Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | | 
 | 20220617T23:39:34Z | CVE-2022-23342 | Null | https://github.com/InitRoot/CVE-2022-23342 | | 
@@ -55,7 +56,6 @@
 | 20220617T11:08:47Z | CVE-2020-27786 | 4.9 Kernel Exploit for CVE-2020-27786 | https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit | | 
 | 20220617T07:29:36Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape | | 
 | 20220617T07:27:14Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System | https://github.com/oturu/Cve-2022-30136-RCE | | 
-| 20220617T06:36:37Z | CVE-2022-30075 | Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075) | https://github.com/aaronsvk/CVE-2022-30075 | | 
 
 
 # klee on Github 推荐
