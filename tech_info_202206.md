@@ -92,7 +92,7 @@
 | 20220617T21:30:45Z | Windows Post-Exploitation tools wrapper | https://github.com/Karmaz95/crimson_wisp | 1 | 0| 
 | 20220617T21:24:29Z | This GitHub repository is filled with Roblox cheat scripts and I%m here to share them with the world. | https://github.com/VexHazity/Roblox-Exploits | 1 | 0| 
 | 20220617T14:54:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 59 | 9| 
-| 20220617T12:40:39Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9136 | 1516| 
+| 20220617T14:10:50Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 223 | 946| 
 
 
 # backdoor on Github 推荐
