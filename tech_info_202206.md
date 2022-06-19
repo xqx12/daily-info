@@ -92,7 +92,7 @@
 | 20220619T11:01:46Z | JNDI-Injection-Exploit | https://github.com/zeddee-spam/JNDI-Injection-Exploit | 0 | 0| 
 | 20220619T10:48:04Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 224 | 952| 
 | 20220619T09:23:12Z | Command Based Handler. | https://github.com/codeReleaser/cmd-based-Exploit | 0 | 0| 
-| 20220619T08:38:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4391 | 1549| 
+| 20220619T08:38:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4391 | 1550| 
 
 
 # backdoor on Github 推荐
