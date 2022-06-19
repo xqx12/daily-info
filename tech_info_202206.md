@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220619T12:57:11Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 70 | 8| 
 | 20220619T12:30:03Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 32 | 5| 
-| 20220619T12:22:40Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 69 | 8| 
 | 20220619T12:21:28Z | Config files for my GitHub profile. | https://github.com/TechExploiter/TechExploiter | 0 | 0| 
 | 20220619T12:10:10Z | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | 0 | 0| 
 | 20220619T12:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 445 | 90| 
