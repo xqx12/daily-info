@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20220619 | 对安全网闸产品初探 | https://www.coco413.com/archives/129/| 
 | 20220619 | 我的知识管理方式 | https://www.coco413.com/archives/134/| 
+| 20220619 | 一篇论文如何摧毁比特币的匿名性 | https://www.solidot.org/story?sid=71791| 
 
 
 # CVE Github 推荐

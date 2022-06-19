@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20220619 | 对安全网闸产品初探 | https://www.coco413.com/archives/129/| 
 | 20220619 | 我的知识管理方式 | https://www.coco413.com/archives/134/| 
+| 20220619 | 一篇论文如何摧毁比特币的匿名性 | https://www.solidot.org/story?sid=71791| 
 | 20220617 | VED (Vault Exploit Defense): 开源实现 | https://hardenedvault.net/zh-cn/blog/2022-06-16-ved-community-version/| 
 | 20220617 | 我和SRC的故事 | https://mp.weixin.qq.com/s/rE-UxUzd_6uv4xcp77V3qQ| 
 | 20220617 | “暗象”组织：潜藏十年的网络攻击 | https://mp.weixin.qq.com/s/mC5D8kFaQA-cIcw2rlTgeA| 
@@ -40,7 +41,6 @@
 | 20220616 | Google对于云安全未来的发展方向（CISO 云安全转型指南白皮书... | https://zhuanlan.zhihu.com/p/529772138| 
 | 20220616 | CyberBattleSim（内网自动化渗透）研究分析 | https://mp.weixin.qq.com/s/1XHJbGgK5kUtiiEtLlaY6w| 
 | 20220616 | 一文读懂事件知识图谱 | https://mp.weixin.qq.com/s/W3oewKOH2IXzDFXRCY4W6Q| 
-| 20220616 | 信息安全BP的能力模型 | https://mp.weixin.qq.com/s/qZ_uu58R418BltFaeVcWww| 
 
 
 # CVE Github 推荐
