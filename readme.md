@@ -44,7 +44,7 @@
 | 20220619T12:21:28Z | Config files for my GitHub profile. | https://github.com/TechExploiter/TechExploiter | 0 | 0| 
 | 20220619T12:10:10Z | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | 0 | 0| 
 | 20220619T12:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 445 | 90| 
-| 20220619T11:30:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11628 | 1998| 
+| 20220619T11:30:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11628 | 1999| 
 | 20220619T11:01:46Z | JNDI-Injection-Exploit | https://github.com/zeddee-spam/JNDI-Injection-Exploit | 0 | 0| 
 | 20220619T10:48:04Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 224 | 952| 
 | 20220619T09:23:12Z | Command Based Handler. | https://github.com/codeReleaser/cmd-based-Exploit | 0 | 0| 
