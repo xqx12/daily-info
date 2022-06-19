@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220618T22:38:15Z | CVE-2022-26809 | PoC for CVE-2022-26809, analisys and considerations are shown in the github.io. | https://github.com/s1ckb017/PoC-CVE-2022-26809 | | 
 | 20220618T21:16:31Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | | 
 | 20220618T15:13:33Z | CVE-2020-7473 | Citrix Sharefile vulnerability check and fast research details | https://github.com/DimitriNL/CTX-CVE-2020-7473 | | 
 | 20220618T14:49:53Z | CVE-2022-21661 | Null | https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main | | 
