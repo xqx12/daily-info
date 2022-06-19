@@ -44,7 +44,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220618T22:17:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11625 | 1996| 
-| 20220618T22:02:34Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 291 | 16| 
+| 20220618T22:02:34Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 291 | 17| 
 | 20220618T21:18:49Z | HomeLab Setup with a Firewall, SIEM Solution, Exploitable machines and Attacker. | https://github.com/shahnitav/HomeLab-Setup | 0 | 0| 
 | 20220618T20:04:56Z | Some exploits of vulnerabilities I have exploited during my CTF. | https://github.com/Cat-Man123/fucksploit | 0 | 0| 
 | 20220618T19:42:48Z | A simulation of the infamous DAO hack from 2016 | https://github.com/ssteiger/the-dao-hack-simulation | 0 | 0| 
