@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220619T12:10:10Z | CVE-2022-30190 | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | | 
 | 20220619T11:48:32Z | CVE-2022-26809 | PoC for CVE-2022-26809, analisys and considerations are shown in the github.io. | https://github.com/s1ckb017/PoC-CVE-2022-26809 | | 
 | 20220619T09:01:24Z | CVE-2021-40903 | CVE-2021-40903 | https://github.com/vulnz/CVE-2021-40903 | | 
 | 20220619T04:46:59Z | CVE-2022-22588 | Null | https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588 | | 
@@ -55,7 +56,6 @@
 | 20220618T10:48:39Z | CVE-2022-23342 | Null | https://github.com/InitRoot/CVE-2022-23342 | | 
 | 20220618T09:42:18Z | CVE-2022-26134 | [CVE-2022-26134]Confluence OGNL expression injected RCE with sandbox bypass. | https://github.com/SNCKER/CVE-2022-26134 | | 
 | 20220618T05:37:37Z | CVE-2022-26809 | metasploit module for CVE-2022-26809 windows rpc rce via smb 445  | https://github.com/Ziggy78/CVE-2022-26809-POC | | 
-| 20220618T05:30:50Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System | https://github.com/oturu/Cve-2022-30136-RCE | | 
 
 
 # klee on Github 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220619T12:10:10Z | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | 0 | 0| 
 | 20220619T12:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 445 | 89| 
 | 20220619T12:01:25Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 31 | 4| 
 | 20220619T11:43:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 68 | 8| 
@@ -92,7 +93,6 @@
 | 20220619T08:38:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4391 | 1549| 
 | 20220619T02:57:50Z | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | 0 | 0| 
 | 20220619T01:46:07Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 312 | 31| 
-| 20220619T00:22:10Z | Null | https://github.com/LucidOfficial/Linux-exploit-suggestor | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220619T12:10:24Z | Executable programs of GitLab%s protocol fuzzing framework(CE) | https://github.com/xiaoxin2016/Peach-Pro-Release | 0 | 0| 
 | 20220619T12:06:47Z | AVR-C code for ATMEGA328p and Grove LCD for following pnp fuzz voltages | https://github.com/tuomokup/FuzzGroveLCD | 0 | 0| 
 | 20220619T12:01:36Z | Check the Collabrator | https://github.com/supun983/fuzzy-goggles | 0 | 1| 
 | 20220619T11:36:49Z | Null | https://github.com/adamaratski/FuzzyLogic | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20220619T08:56:24Z | Keep Thai words for searching | https://github.com/kokodile/fuzzy-waffle | 0 | 0| 
 | 20220619T03:59:02Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 154 | 20| 
 | 20220618T23:16:45Z | A template for writing fuzz tests using brownie% in-built hypothesis methods. This produces way more powerful tests than usual! | https://github.com/franfran20/fuzz_test_brownie | 0 | 0| 
-| 20220618T20:42:10Z | Null | https://github.com/CryptoSupportIssues/fuzzy-potato | 0 | 0| 
 
 
 
