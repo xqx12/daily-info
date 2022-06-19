@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220619T00:22:10Z | Null | https://github.com/LucidOfficial/Linux-exploit-suggestor | 0 | 0| 
 | 20220618T22:17:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11625 | 1996| 
 | 20220618T22:02:34Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 291 | 16| 
 | 20220618T21:18:49Z | HomeLab Setup with a Firewall, SIEM Solution, Exploitable machines and Attacker. | https://github.com/shahnitav/HomeLab-Setup | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220618T18:36:05Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 311 | 30| 
 | 20220618T16:59:45Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4633 | 595| 
 | 20220618T15:59:27Z | Daily archiver & triage issue creator for new releases of CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 13 | 5| 
-| 20220618T12:45:35Z | A collection of PLDT hacks, exploits & tools that is completely made using NodeJS. | https://github.com/I2rys/ZeroPLDT | 0 | 0| 
 
 
 # backdoor on Github 推荐
