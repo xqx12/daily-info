@@ -83,13 +83,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220619T12:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 445 | 89| 
+| 20220619T12:01:25Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 31 | 4| 
 | 20220619T11:43:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 68 | 8| 
-| 20220619T11:30:47Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 30 | 4| 
 | 20220619T11:01:46Z | JNDI-Injection-Exploit | https://github.com/zeddee-spam/JNDI-Injection-Exploit | 0 | 0| 
 | 20220619T10:48:04Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 224 | 952| 
 | 20220619T09:23:12Z | Command Based Handler. | https://github.com/codeReleaser/cmd-based-Exploit | 0 | 0| 
 | 20220619T08:38:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4391 | 1549| 
-| 20220619T07:01:50Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 444 | 89| 
 | 20220619T02:57:50Z | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | 0 | 0| 
 | 20220619T01:46:07Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 312 | 31| 
 | 20220619T00:22:10Z | Null | https://github.com/LucidOfficial/Linux-exploit-suggestor | 0 | 0| 
@@ -113,12 +113,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220618T21:56:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2924 | 418| 
+| 20220619T11:03:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2924 | 418| 
 | 20220618T17:11:46Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 609 | 104| 
 | 20220618T07:36:53Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
 | 20220618T04:56:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1989 | 568| 
 | 20220618T01:25:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 39| 
-| 20220617T22:38:54Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 440 | 25| 
+| 20220617T22:38:54Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 440 | 26| 
 | 20220617T22:38:50Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 68 | 3| 
 | 20220617T10:32:54Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 246 | 17| 
 | 20220617T09:10:23Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 11 | 2| 

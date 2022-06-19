@@ -37,13 +37,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220619T12:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 445 | 89| 
+| 20220619T12:01:25Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 31 | 4| 
 | 20220619T11:43:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 68 | 8| 
-| 20220619T11:30:47Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 30 | 4| 
 | 20220619T11:01:46Z | JNDI-Injection-Exploit | https://github.com/zeddee-spam/JNDI-Injection-Exploit | 0 | 0| 
 | 20220619T10:48:04Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 224 | 952| 
 | 20220619T09:23:12Z | Command Based Handler. | https://github.com/codeReleaser/cmd-based-Exploit | 0 | 0| 
 | 20220619T08:38:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4391 | 1549| 
-| 20220619T07:01:50Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 444 | 89| 
 | 20220619T02:57:50Z | cb pull down | https://github.com/daedalus1215/cb-gnarly-exploit | 0 | 0| 
 | 20220619T01:46:07Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 312 | 31| 
 | 20220619T00:22:10Z | Null | https://github.com/LucidOfficial/Linux-exploit-suggestor | 0 | 0| 
@@ -59,6 +59,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220619T11:03:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2924 | 418| 
 
 
 # big4 on Github 推荐
