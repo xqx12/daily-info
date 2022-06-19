@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220619T01:46:07Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 312 | 31| 
 | 20220619T00:22:10Z | Null | https://github.com/LucidOfficial/Linux-exploit-suggestor | 0 | 0| 
 | 20220618T22:17:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11625 | 1996| 
 | 20220618T22:02:34Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 291 | 17| 
@@ -90,7 +91,6 @@
 | 20220618T20:04:56Z | Some exploits of vulnerabilities I have exploited during my CTF. | https://github.com/Cat-Man123/fucksploit | 0 | 0| 
 | 20220618T19:42:48Z | A simulation of the infamous DAO hack from 2016 | https://github.com/ssteiger/the-dao-hack-simulation | 0 | 0| 
 | 20220618T19:02:35Z | not my terrain exploit(idk owner). nothing complicated. enter seed and biome ID. all findable via google. | https://github.com/javanulled/terrainexploit | 0 | 0| 
-| 20220618T18:36:05Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 311 | 31| 
 | 20220618T16:59:45Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4633 | 595| 
 | 20220618T15:59:27Z | Daily archiver & triage issue creator for new releases of CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 13 | 5| 
 

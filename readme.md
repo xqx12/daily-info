@@ -48,10 +48,10 @@
 | 20220618T20:04:56Z | Some exploits of vulnerabilities I have exploited during my CTF. | https://github.com/Cat-Man123/fucksploit | 0 | 0| 
 | 20220618T19:42:48Z | A simulation of the infamous DAO hack from 2016 | https://github.com/ssteiger/the-dao-hack-simulation | 0 | 0| 
 | 20220618T19:02:35Z | not my terrain exploit(idk owner). nothing complicated. enter seed and biome ID. all findable via google. | https://github.com/javanulled/terrainexploit | 0 | 0| 
-| 20220618T18:36:05Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 311 | 31| 
 | 20220618T16:59:45Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4633 | 595| 
 | 20220618T15:59:27Z | Daily archiver & triage issue creator for new releases of CISA%s Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | 13 | 5| 
 | 20220618T12:45:35Z | A collection of PLDT hacks, exploits & tools that is completely made using NodeJS. | https://github.com/I2rys/ZeroPLDT | 0 | 0| 
+| 20220618T12:22:31Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 440 | 85| 
 
 
 # backdoor on Github 推荐
