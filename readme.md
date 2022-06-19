@@ -40,7 +40,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220619T12:10:10Z | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | 0 | 0| 
-| 20220619T12:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 445 | 89| 
+| 20220619T12:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 445 | 90| 
 | 20220619T12:01:25Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 31 | 4| 
 | 20220619T11:43:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 68 | 8| 
 | 20220619T11:01:46Z | JNDI-Injection-Exploit | https://github.com/zeddee-spam/JNDI-Injection-Exploit | 0 | 0| 
