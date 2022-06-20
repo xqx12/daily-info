@@ -98,24 +98,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220620T11:37:37Z | I made this for a school project | https://github.com/RHBvanErp/Backdoor | 0 | 0| 
+| 20220620T11:35:22Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
+| 20220620T11:02:32Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 348 | 125| 
+| 20220620T07:43:01Z | R4::Webshell | https://github.com/Cvar1984/R4 | 0 | 0| 
+| 20220620T06:41:43Z | Mr.Hacker, Is a modern cracking tool, equipt with many tools that can be used to perform various attacks. Mr.Hack3r is written in Go, all contributors are welcome to contribute to this project. | https://github.com/muhammadqazi/Mr.Hack3r | 1 | 0| 
 | 20220619T22:58:46Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 23 | 5| 
-| 20220619T22:49:35Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 347 | 124| 
 | 20220619T21:55:19Z | we have some more information regardign  to php back doors  | https://github.com/imran-niaz/PHP-Backdoors | 0 | 0| 
-| 20220619T09:46:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 509 | 94| 
+| 20220619T20:03:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 510 | 94| 
 | 20220618T21:42:39Z | Null | https://github.com/Arif-Helmsys/Assassin | 2 | 0| 
-| 20220618T18:27:29Z | Mr.Hacker, Is a modern cracking tool, equipt with many tools that can be used to perform various attacks. Mr.Hack3r is written in Go, all contributors are welcome to contribute to this project. | https://github.com/muhammadqazi/Mr.Hack3r | 0 | 0| 
 | 20220618T17:34:47Z | Webadmin.php, which is Filemanager released 15 years ago, is still being used, its biggest feature is that it is not detected as a backdoor on linux servers and becomes impossible to find if you hide it well. It%s not a shell, it%s known as a Filemanager. | https://github.com/H3llSh3ll/WebAdmin | 1 | 0| 
-| 20220618T16:28:58Z | a simple backdoor made in php from scratch | https://github.com/CoreDa1337/Backdoor-php | 1 | 0| 
-| 20220618T06:01:29Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 131 | 30| 
-| 20220617T18:55:44Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220620T12:10:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2927 | 418| 
 | 20220620T09:33:45Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 443 | 26| 
 | 20220620T08:43:55Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 247 | 17| 
-| 20220620T08:13:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2926 | 418| 
 | 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
 | 20220620T06:36:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1990 | 568| 
 | 20220618T17:11:46Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 609 | 104| 
