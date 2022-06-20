@@ -69,6 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220620T12:05:42Z | Null | https://github.com/iscuderi/unemployment-fuzzy-numbers | 0 | 0| 
 | 20220620T10:21:41Z | Thesis Project (S1) | https://github.com/devancakra/Control-Monitoring-pH-Aquaponics-BotIoTBased-FuzzyType2 | 1 | 0| 
 | 20220620T10:00:27Z | A simple multi-process web fuzzer written in Python. | https://github.com/Ice1187/simple-web-fuzzer | 0 | 0| 
 | 20220620T09:39:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4195 | 999| 

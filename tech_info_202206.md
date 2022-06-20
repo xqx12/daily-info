@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220620T12:05:42Z | Null | https://github.com/iscuderi/unemployment-fuzzy-numbers | 0 | 0| 
 | 20220620T10:21:41Z | Thesis Project (S1) | https://github.com/devancakra/Control-Monitoring-pH-Aquaponics-BotIoTBased-FuzzyType2 | 1 | 0| 
 | 20220620T10:00:27Z | A simple multi-process web fuzzer written in Python. | https://github.com/Ice1187/simple-web-fuzzer | 0 | 0| 
 | 20220620T09:39:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4195 | 999| 
@@ -146,7 +147,6 @@
 | 20220620T06:21:06Z | 색 추천 기법을 접목한 아마추어 작가의 C2C 아트 플랫폼 | https://github.com/tpqls0327/Fuzzing_Art | 0 | 0| 
 | 20220620T03:39:44Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 535 | 110| 
 | 20220619T23:57:26Z | Null | https://github.com/JesseFuzz/JesseFuzz | 0 | 0| 
-| 20220619T22:19:43Z | init; basic | https://github.com/ultros/fuzzer | 0 | 0| 
 
 
 
