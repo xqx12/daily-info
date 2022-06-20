@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220620T12:25:57Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 75 | 7| 
+| 20220620T12:25:53Z | Config files for my GitHub profile. | https://github.com/HachiExploit/HachiExploit | 0 | 0| 
 | 20220620T12:01:19Z |  A collection of proof-of-concept exploit scripts written by the team at RNPG for various CVEs.  | https://github.com/RNPG/CVEs | 0 | 0| 
 | 20220620T11:41:51Z | Golang implementation of CVE-2019-17662 TinyVNC Arbitrary File Read leading to Authentication Bypass Exploit | https://github.com/Tamagaft/CVE-2019-17662 | 0 | 0| 
 | 20220620T10:57:52Z | a simple stack based buffer over flow exploit.  exploits a vulnerability in a Windows application MiniShare 1.4.1.  which is an older version of the MiniShare application   | https://github.com/plast1k/mini_share | 0 | 0| 
 | 20220620T10:38:13Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 63 | 13| 
-| 20220620T10:25:14Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 74 | 6| 
 | 20220620T08:15:52Z | A free constantly updated scripthub in JSON for your exploit! | https://github.com/AlexDevlpr/Basic-JSON-ScriptHub | 0 | 0| 
 | 20220620T05:43:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3177 | 488| 
 | 20220620T05:12:18Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 447 | 91| 
 | 20220620T00:42:35Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 85 | 8| 
-| 20220620T00:32:16Z | This is an example exploit for a roblox script executor that I am making. I am someone that works on creating exploits and script executors by myself. If you gave me support for these projects that I%m doing I will really appreciate it. Thank you! | https://github.com/m00oo/Example-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
