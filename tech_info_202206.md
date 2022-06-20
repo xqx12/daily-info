@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220620T12:40:26Z | Null | https://github.com/DeratonTrix/Exploit | 0 | 0| 
 | 20220620T12:25:57Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 75 | 7| 
 | 20220620T12:25:53Z | Config files for my GitHub profile. | https://github.com/HachiExploit/HachiExploit | 0 | 0| 
 | 20220620T12:01:19Z |  A collection of proof-of-concept exploit scripts written by the team at RNPG for various CVEs.  | https://github.com/RNPG/CVEs | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220620T08:15:52Z | A free constantly updated scripthub in JSON for your exploit! | https://github.com/AlexDevlpr/Basic-JSON-ScriptHub | 0 | 0| 
 | 20220620T07:39:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11628 | 1999| 
 | 20220620T05:43:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3177 | 488| 
-| 20220620T05:12:18Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 447 | 91| 
 
 
 # backdoor on Github 推荐
