@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220620T12:20:14Z | CVE-2022-22620 | CVE-2022-22620: Use-after-free in Safari | https://github.com/kmeps4/CVE-2022-22620 | | 
 | 20220620T11:53:10Z | CVE-2022-26809 | PoC for CVE-2022-26809, analisys and considerations are shown in the github.io. | https://github.com/s1ckb017/PoC-CVE-2022-26809 | | 
 | 20220620T05:22:57Z | CVE-2022-26134 | 「💥」CVE-2022-26134 - Confluence Pre-Auth RCE | https://github.com/AmoloHT/CVE-2022-26134 | | 
 | 20220619T22:32:40Z | CVE-2022-29464 | A bots loader for CVE-2022-29464 with multithreading | https://github.com/Inplex-sys/CVE-2022-29464-loader | | 
@@ -55,7 +56,6 @@
 | 20220619T09:01:24Z | CVE-2021-40903 | CVE-2021-40903 | https://github.com/vulnz/CVE-2021-40903 | | 
 | 20220619T04:46:59Z | CVE-2022-22588 | Null | https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588 | | 
 | 20220618T21:16:31Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | | 
-| 20220618T15:13:33Z | CVE-2020-7473 | Citrix Sharefile vulnerability check and fast research details | https://github.com/DimitriNL/CTX-CVE-2020-7473 | | 
 
 
 # klee on Github 推荐
