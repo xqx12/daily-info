@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220620T00:32:16Z | This is an example exploit for a roblox script executor that I am making. I am someone that works on creating exploits and script executors by myself. If you gave me support for these projects that I%m doing I will really appreciate it. Thank you! | https://github.com/m00oo/Example-Exploit | 0 | 0| 
 | 20220619T23:39:17Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 84 | 8| 
 | 20220619T22:55:27Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 56 | 6| 
 | 20220619T22:47:08Z | Brainpan exploit | https://github.com/MohamedAEzzat/brainpan | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220619T20:14:42Z | Prevents the Force Avatar Change exploit from affecting you. | https://github.com/Bluscream/AvatarPedestalFix | 1 | 0| 
 | 20220619T17:47:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11629 | 1999| 
 | 20220619T17:30:30Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 103 | 19| 
-| 20220619T17:10:32Z | Compiled Capcom driver exploit works on Windows system with SeLoadDriverPrivilege enabled. | https://github.com/musheebat/Compiled-capcom-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
