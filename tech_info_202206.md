@@ -90,9 +90,9 @@
 | 20220620T10:57:52Z | a simple stack based buffer over flow exploit.  exploits a vulnerability in a Windows application MiniShare 1.4.1.  which is an older version of the MiniShare application   | https://github.com/plast1k/mini_share | 0 | 0| 
 | 20220620T10:38:13Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 63 | 13| 
 | 20220620T08:15:52Z | A free constantly updated scripthub in JSON for your exploit! | https://github.com/AlexDevlpr/Basic-JSON-ScriptHub | 0 | 0| 
+| 20220620T07:39:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11628 | 1999| 
 | 20220620T05:43:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3177 | 488| 
 | 20220620T05:12:18Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 447 | 91| 
-| 20220620T00:42:35Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 85 | 8| 
 
 
 # backdoor on Github 推荐
