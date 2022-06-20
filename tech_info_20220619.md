@@ -49,22 +49,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220619T12:57:11Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 70 | 8| 
-| 20220619T12:30:03Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 32 | 5| 
-| 20220619T12:21:28Z | Config files for my GitHub profile. | https://github.com/TechExploiter/TechExploiter | 0 | 0| 
-| 20220619T12:10:10Z | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | 0 | 0| 
-| 20220619T12:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 445 | 90| 
-| 20220619T11:30:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11628 | 2000| 
-| 20220619T11:01:46Z | JNDI-Injection-Exploit | https://github.com/zeddee-spam/JNDI-Injection-Exploit | 0 | 0| 
-| 20220619T10:48:04Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 224 | 952| 
-| 20220619T09:23:12Z | Command Based Handler. | https://github.com/codeReleaser/cmd-based-Exploit | 0 | 0| 
-| 20220619T08:38:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4391 | 1550| 
+| 20220619T23:39:17Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 84 | 8| 
+| 20220619T22:55:27Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 56 | 6| 
+| 20220619T22:47:08Z | Brainpan exploit | https://github.com/MohamedAEzzat/brainpan | 0 | 0| 
+| 20220619T22:32:59Z | Null | https://github.com/Anatik572/trust_bw_exploit | 4 | 0| 
+| 20220619T22:32:38Z | The lua script will able to you to skip the zeros-methlab minigames | https://github.com/Inplex-sys/zeros-methlab-minigame-exploit | 2 | 0| 
+| 20220619T22:32:38Z | This app is an advanced XSS panel, this is used for session grabbing with XSS exploit and <img src=%grabber_url%> | https://github.com/Inplex-sys/cookies-sniffer | 14 | 1| 
+| 20220619T20:14:42Z | Prevents the Force Avatar Change exploit from affecting you. | https://github.com/Bluscream/AvatarPedestalFix | 1 | 0| 
+| 20220619T17:47:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11629 | 1999| 
+| 20220619T17:30:30Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 103 | 19| 
+| 20220619T17:10:32Z | Compiled Capcom driver exploit works on Windows system with SeLoadDriverPrivilege enabled. | https://github.com/musheebat/Compiled-capcom-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220619T12:00:10Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 346 | 124| 
+| 20220619T22:58:46Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 23 | 5| 
+| 20220619T22:49:35Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 347 | 124| 
+| 20220619T21:55:19Z | we have some more information regardign  to php back doors  | https://github.com/imran-niaz/PHP-Backdoors | 0 | 0| 
 | 20220619T09:46:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 509 | 94| 
 
 
