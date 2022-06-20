@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220619 | MIT Technology Review’s Future Compute Conference 2022 | http://msft.it/6013bcXB7| 
+| 20220619 | MIT Technology Review’s Future Compute Conference 2022 | https://www.microsoft.com/en-us/research/video/mit-technology-reviews-future-compute-conference-2022/| 
 | 20220617 | DriftingCloud: Zero-Day Sophos Firewall Exploitation and an Insidious Breach | https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/| 
 | 20220617 | Flutter Apps 的逆向 | https://www.guardsquare.com/blog/current-state-and-future-of-reversing-flutter-apps| 
 | 20220617 | RDP 命名管道权限设置不当漏洞分析（CVE-2022-24533） | https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability| 
@@ -24,8 +26,6 @@
 | 20220616 | Running Shellcode Through Windows Callbacks | http://marcoramilli.com/2022/06/15/running-shellcode-through-windows-callbacks/| 
 | 20220616 | Syslogk - 基于 Adore-Ng 的 Linux 内核 rootkit | https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/| 
 | 20220616 | Windows 文件系统 Junction 重定向攻击缓解措施分析 | https://unit42.paloaltonetworks.com/junctions-windows-redirection-trust-mitigation/| 
-| 20220616 | WMI攻守之道 | https://tttang.com/archive/1624/| 
-| 20220615 | Protocol State Fuzzing of TLS Implementations | http://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-de-ruiter.pdf| 
 
 
 # 安全维基 推荐
@@ -34,34 +34,34 @@
 | 20220619 | 对安全网闸产品初探 | https://www.coco413.com/archives/129/| 
 | 20220619 | 我的知识管理方式 | https://www.coco413.com/archives/134/| 
 | 20220619 | 一篇论文如何摧毁比特币的匿名性 | https://www.solidot.org/story?sid=71791| 
+| 20220619 | 静态分析及代码审计自动化相关资料收集 | https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit| 
+| 20220619 | Pwn思维导图 | https://www.povcfe.site/pwn/pwn.pdf| 
+| 20220619 | CodeQL 数据库创建原理分析 | https://paper.seebug.org/1921/| 
+| 20220619 | 我的前端学习路线 | https://limboy.me/posts/frontend-learning/| 
 | 20220617 | VED (Vault Exploit Defense): 开源实现 | https://hardenedvault.net/zh-cn/blog/2022-06-16-ved-community-version/| 
 | 20220617 | 我和SRC的故事 | https://mp.weixin.qq.com/s/rE-UxUzd_6uv4xcp77V3qQ| 
 | 20220617 | “暗象”组织：潜藏十年的网络攻击 | https://mp.weixin.qq.com/s/mC5D8kFaQA-cIcw2rlTgeA| 
-| 20220616 | CobaltStrike 流量分析与入侵检测 | https://mp.weixin.qq.com/s/CjsqWrm70HVEnolZrRD8oA| 
-| 20220616 | Google对于云安全未来的发展方向（CISO 云安全转型指南白皮书... | https://zhuanlan.zhihu.com/p/529772138| 
-| 20220616 | CyberBattleSim（内网自动化渗透）研究分析 | https://mp.weixin.qq.com/s/1XHJbGgK5kUtiiEtLlaY6w| 
-| 20220616 | 一文读懂事件知识图谱 | https://mp.weixin.qq.com/s/W3oewKOH2IXzDFXRCY4W6Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220619T12:53:55Z | CVE-2022-26809 | PoC for CVE-2022-26809, analisys and considerations are shown in the github.io. | https://github.com/s1ckb017/PoC-CVE-2022-26809 | | 
+| 20220619T22:32:40Z | CVE-2022-29464 | A bots loader for CVE-2022-29464 with multithreading | https://github.com/Inplex-sys/CVE-2022-29464-loader | | 
+| 20220619T20:35:36Z | CVE-2022-26809 | PoC for CVE-2022-26809, analisys and considerations are shown in the github.io. | https://github.com/s1ckb017/PoC-CVE-2022-26809 | | 
+| 20220619T15:12:03Z | CVE-2022-21661 | Null | https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main | | 
+| 20220619T14:15:20Z | CVE-2022-26134 | 「💥」CVE-2022-26134 - Confluence Pre-Auth RCE | https://github.com/AmoloHT/CVE-2022-26134 | | 
 | 20220619T12:13:41Z | CVE-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System | https://github.com/zir0x00/CVE-2022-30136-MASS-RCE | | 
 | 20220619T12:10:10Z | CVE-2022-30190 | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | | 
 | 20220619T09:01:24Z | CVE-2021-40903 | CVE-2021-40903 | https://github.com/vulnz/CVE-2021-40903 | | 
 | 20220619T04:46:59Z | CVE-2022-22588 | Null | https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588 | | 
 | 20220618T21:16:31Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/omair2084/CVE-2022-26937 | | 
 | 20220618T15:13:33Z | CVE-2020-7473 | Citrix Sharefile vulnerability check and fast research details | https://github.com/DimitriNL/CTX-CVE-2020-7473 | | 
-| 20220618T14:49:53Z | CVE-2022-21661 | Null | https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main | | 
-| 20220618T10:48:39Z | CVE-2022-23342 | Null | https://github.com/InitRoot/CVE-2022-23342 | | 
-| 20220618T09:42:18Z | CVE-2022-26134 | [CVE-2022-26134]Confluence OGNL expression injected RCE with sandbox bypass. | https://github.com/SNCKER/CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220619T12:19:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6962 | 247| 
+| 20220619T17:12:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6968 | 247| 
 | 20220618T07:36:53Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
 | 20220618T04:56:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1989 | 568| 
 | 20220617T19:17:24Z | Config files for my GitHub profile. | https://github.com/Klee12345678/Klee12345678 | 0 | 0| 
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220619T23:57:26Z | Null | https://github.com/JesseFuzz/JesseFuzz | 0 | 0| 
+| 20220619T22:19:43Z | init; basic | https://github.com/ultros/fuzzer | 0 | 0| 
+| 20220619T22:06:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7513 | 1614| 
+| 20220619T21:51:14Z | Null | https://github.com/ririmi56/fuzzy-octo-couscous | 0 | 0| 
+| 20220619T21:21:35Z | Null | https://github.com/JConnrO/fuzzy-garbanzo | 0 | 0| 
+| 20220619T21:00:22Z | an autocomplete movie search DB built with nodejs, express and mongodb | https://github.com/frazie/fuzzy-movie-search | 0 | 0| 
+| 20220619T18:46:58Z | Фазер параметров JSON для web запросов | https://github.com/kzzanuda/fuzzerDataJson | 0 | 0| 
+| 20220619T18:44:52Z | demo repo | https://github.com/tinykishore/fuzzy-octo-robot | 0 | 0| 
 | 20220619T12:10:24Z | Executable programs of GitLab%s protocol fuzzing framework(CE) | https://github.com/xiaoxin2016/Peach-Pro-Release | 0 | 0| 
 | 20220619T12:06:47Z | AVR-C code for ATMEGA328p and Grove LCD for following pnp fuzz voltages | https://github.com/tuomokup/FuzzGroveLCD | 0 | 0| 
-| 20220619T12:01:36Z | Check the Collabrator | https://github.com/supun983/fuzzy-goggles | 0 | 1| 
-| 20220619T11:36:49Z | Null | https://github.com/adamaratski/FuzzyLogic | 0 | 0| 
-| 20220619T10:55:21Z | Thesis Project (S1) | https://github.com/devancakra/Control-Monitoring-pH-Aquaponics-BotIoTBased-FuzzyType2 | 1 | 0| 
-| 20220619T10:00:24Z | Null | https://github.com/KhhhER/FuzzySet-Interface | 0 | 0| 
-| 20220619T09:36:24Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1381 | 241| 
-| 20220619T08:56:24Z | Keep Thai words for searching | https://github.com/kokodile/fuzzy-waffle | 0 | 0| 
-| 20220619T03:59:02Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 154 | 20| 
-| 20220618T23:16:45Z | A template for writing fuzz tests using brownie% in-built hypothesis methods. This produces way more powerful tests than usual! | https://github.com/franfran20/fuzz_test_brownie | 0 | 0| 
 
 
 
