@@ -49,7 +49,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220619T23:39:17Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 84 | 8| 
 | 20220619T22:47:08Z | Brainpan exploit | https://github.com/MohamedAEzzat/brainpan | 0 | 0| 
 | 20220619T22:32:59Z | Null | https://github.com/Anatik572/trust_bw_exploit | 4 | 0| 
 | 20220619T22:32:38Z | The lua script will able to you to skip the zeros-methlab minigames | https://github.com/Inplex-sys/zeros-methlab-minigame-exploit | 2 | 0| 
@@ -59,6 +58,7 @@
 | 20220619T17:30:30Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 103 | 19| 
 | 20220619T17:10:32Z | Compiled Capcom driver exploit works on Windows system with SeLoadDriverPrivilege enabled. | https://github.com/musheebat/Compiled-capcom-exploit | 0 | 0| 
 | 20220619T16:43:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4636 | 596| 
+| 20220619T12:21:28Z | Config files for my GitHub profile. | https://github.com/TechExploiter/TechExploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐

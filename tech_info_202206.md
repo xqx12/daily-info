@@ -83,9 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220620T00:42:35Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 85 | 8| 
 | 20220620T00:40:02Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 57 | 6| 
 | 20220620T00:32:16Z | This is an example exploit for a roblox script executor that I am making. I am someone that works on creating exploits and script executors by myself. If you gave me support for these projects that I%m doing I will really appreciate it. Thank you! | https://github.com/m00oo/Example-Exploit | 0 | 0| 
-| 20220619T23:39:17Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 84 | 8| 
 | 20220619T22:47:08Z | Brainpan exploit | https://github.com/MohamedAEzzat/brainpan | 0 | 0| 
 | 20220619T22:32:59Z | Null | https://github.com/Anatik572/trust_bw_exploit | 4 | 0| 
 | 20220619T22:32:38Z | The lua script will able to you to skip the zeros-methlab minigames | https://github.com/Inplex-sys/zeros-methlab-minigame-exploit | 2 | 0| 
