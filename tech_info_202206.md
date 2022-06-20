@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220620 | Unbricking SHIELD TV (2015) with a Bootrom Exploit | http://yifan.lu/2022/06/17/unbricking-shield-tv-2015-with-a-bootrom-exploit/| 
+| 20220620 | 扩展 syzkaller Fuzzer，挖掘 Linux 内核的远程 RCE 漏洞 | http://xairy.io/articles/syzkaller-external-network| 
+| 20220620 | CreuSAT - Rust 写的 SAT solver | https://github.com/sarsko/CreuSAT| 
+| 20220620 | FUZZORIGIN - 利用 Origin Fuzzing 的方案挖掘浏览器里的 UXSS 漏洞 | https://lifeasageek.github.io/papers/sunwoo-fuzzorigin.pdf| 
+| 20220620 | Windows NFS CVE-2022-26937 PoC | https://github.com/omair2084/CVE-2022-26937| 
+| 20220620 | 探寻 Tomcat 文件上传流量层面绕 waf 新姿势 | https://y4tacker.github.io/2022/06/19/year/2022/6/%E6%8E%A2%E5%AF%BBTomcat%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%B5%81%E9%87%8F%E5%B1%82%E9%9D%A2%E7%BB%95waf%E6%96%B0%E5%A7%BF%E5%8A%BF/| 
+| 20220620 | 从补丁对比开始分析 Windows RPC RCE 漏洞（CVE-2022-26809） | https://s1ckb017.github.io/2022/06/17/CVE-2022-26809-Server-Side-vulnerable-point-reachability.html| 
+| 20220620 | 滥用 Tyk 的 API 网关提供的 API 路由转发能力隐藏恶意 C2 流量 | https://shells.systems/oh-my-api-abusing-tyk-cloud-api-management-service-to-hide-your-malicious-c2-traffic/| 
 | 20220619 | MIT Technology Review’s Future Compute Conference 2022 | http://msft.it/6013bcXB7| 
 | 20220619 | MIT Technology Review’s Future Compute Conference 2022 | https://www.microsoft.com/en-us/research/video/mit-technology-reviews-future-compute-conference-2022/| 
 | 20220617 | DriftingCloud: Zero-Day Sophos Firewall Exploitation and an Insidious Breach | https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/| 
@@ -18,19 +26,12 @@
 | 20220617 | 利用 FreeBSD Wi-Fi 协议栈的堆溢出漏洞实现 RCE（CVE-2022-23088） | https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack| 
 | 20220617 | 端到端加密通信 App 如何实现群聊消息的安全，来自 QuarksLab | http://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-2.html| 
 | 20220616 | 在企业 EDR 环境中模拟 Phineas Phisher 发起的对 Hacking Team 的攻击 | https://www.sentinelone.com/blog/research-paper-emulating-phineas-phisher-attacks-in-modern-edr-environments/| 
-| 20220616 | TPM Sniffing Attacks Against Non-Bitlocker Targets | https://www.secura.com/blog/tpm-sniffing-attacks-against-non-bitlocker-targets| 
-| 20220616 | Pwn2Own 2021 Canon ImageCLASS MF644Cdw 打印机攻击的 writeup | https://doar-e.github.io/blog/2022/06/11/pwn2own-2021-canon-imageclass-mf644cdw-writeup/| 
-| 20220616 | Jailbreaking MikroTik RouterOS | http://margin.re/blog/pulling-mikrotik-into-the-limelight.aspx| 
-| 20220616 | Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu | http://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html| 
-| 20220616 | 研究员 nedwill 通过 Fuzzing 的方法挖掘的 XNU 条件竞争漏洞 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2277| 
-| 20220616 | Running Shellcode Through Windows Callbacks | http://marcoramilli.com/2022/06/15/running-shellcode-through-windows-callbacks/| 
-| 20220616 | Syslogk - 基于 Adore-Ng 的 Linux 内核 rootkit | https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/| 
-| 20220616 | Windows 文件系统 Junction 重定向攻击缓解措施分析 | https://unit42.paloaltonetworks.com/junctions-windows-redirection-trust-mitigation/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220620 | SecWiki周刊（第433期) | https://www.sec-wiki.com/weekly/433| 
 | 20220619 | 对安全网闸产品初探 | https://www.coco413.com/archives/129/| 
 | 20220619 | 我的知识管理方式 | https://www.coco413.com/archives/134/| 
 | 20220619 | 一篇论文如何摧毁比特币的匿名性 | https://www.solidot.org/story?sid=71791| 
@@ -40,16 +41,15 @@
 | 20220619 | 我的前端学习路线 | https://limboy.me/posts/frontend-learning/| 
 | 20220617 | VED (Vault Exploit Defense): 开源实现 | https://hardenedvault.net/zh-cn/blog/2022-06-16-ved-community-version/| 
 | 20220617 | 我和SRC的故事 | https://mp.weixin.qq.com/s/rE-UxUzd_6uv4xcp77V3qQ| 
-| 20220617 | “暗象”组织：潜藏十年的网络攻击 | https://mp.weixin.qq.com/s/mC5D8kFaQA-cIcw2rlTgeA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220620T11:53:10Z | CVE-2022-26809 | PoC for CVE-2022-26809, analisys and considerations are shown in the github.io. | https://github.com/s1ckb017/PoC-CVE-2022-26809 | | 
+| 20220620T05:22:57Z | CVE-2022-26134 | 「💥」CVE-2022-26134 - Confluence Pre-Auth RCE | https://github.com/AmoloHT/CVE-2022-26134 | | 
 | 20220619T22:32:40Z | CVE-2022-29464 | A bots loader for CVE-2022-29464 with multithreading | https://github.com/Inplex-sys/CVE-2022-29464-loader | | 
-| 20220619T20:35:36Z | CVE-2022-26809 | PoC for CVE-2022-26809, analisys and considerations are shown in the github.io. | https://github.com/s1ckb017/PoC-CVE-2022-26809 | | 
 | 20220619T15:12:03Z | CVE-2022-21661 | Null | https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main | | 
-| 20220619T14:15:20Z | CVE-2022-26134 | 「💥」CVE-2022-26134 - Confluence Pre-Auth RCE | https://github.com/AmoloHT/CVE-2022-26134 | | 
 | 20220619T12:13:41Z | CVE-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System | https://github.com/zir0x00/CVE-2022-30136-MASS-RCE | | 
 | 20220619T12:10:10Z | CVE-2022-30190 | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | | 
 | 20220619T09:01:24Z | CVE-2021-40903 | CVE-2021-40903 | https://github.com/vulnz/CVE-2021-40903 | | 
@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220619T17:12:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6968 | 247| 
-| 20220618T07:36:53Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
-| 20220618T04:56:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1989 | 568| 
+| 20220620T11:46:32Z | Null | https://github.com/oudongkun/klee-rpc-framework | 0 | 0| 
+| 20220620T11:38:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6977 | 247| 
+| 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
+| 20220620T06:36:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1990 | 568| 
 | 20220617T19:17:24Z | Config files for my GitHub profile. | https://github.com/Klee12345678/Klee12345678 | 0 | 0| 
 | 20220617T13:56:58Z | Null | https://github.com/mojyack/klee | 0 | 0| 
 | 20220617T02:39:10Z | Null | https://github.com/sandaarpq/klee | 0 | 0| 
 | 20220616T10:40:15Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
 | 20220615T19:15:10Z | Null | https://github.com/Sam1845/test_SAMY_GaKLEEN | 0 | 0| 
 | 20220615T14:49:20Z | Null | https://github.com/RobbieEdwards/klee_github | 0 | 0| 
-| 20220615T11:25:43Z | The base for a github action that creates notion documentation based on markdown files in your repo | https://github.com/Minoro-Ltd/kleene_ai.doctor | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220620T10:21:41Z | Thesis Project (S1) | https://github.com/devancakra/Control-Monitoring-pH-Aquaponics-BotIoTBased-FuzzyType2 | 1 | 0| 
+| 20220620T10:00:27Z | A simple multi-process web fuzzer written in Python. | https://github.com/Ice1187/simple-web-fuzzer | 0 | 0| 
+| 20220620T09:39:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4195 | 999| 
+| 20220620T09:32:09Z | A simple grammar based js fuzzer I%m building | https://github.com/AndroidParanoi/jsfuzzer | 1 | 0| 
+| 20220620T08:30:22Z | Null | https://github.com/TSecret-GitHub/fuzzy-pancake | 0 | 0| 
+| 20220620T07:47:29Z | Collection of Fuzzing examples | https://github.com/universalamateur/FuzzThisExamples | 0 | 0| 
+| 20220620T06:21:06Z | 색 추천 기법을 접목한 아마추어 작가의 C2C 아트 플랫폼 | https://github.com/tpqls0327/Fuzzing_Art | 0 | 0| 
+| 20220620T03:39:44Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 535 | 110| 
 | 20220619T23:57:26Z | Null | https://github.com/JesseFuzz/JesseFuzz | 0 | 0| 
 | 20220619T22:19:43Z | init; basic | https://github.com/ultros/fuzzer | 0 | 0| 
-| 20220619T22:06:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7513 | 1614| 
-| 20220619T21:51:14Z | Null | https://github.com/ririmi56/fuzzy-octo-couscous | 0 | 0| 
-| 20220619T21:21:35Z | Null | https://github.com/JConnrO/fuzzy-garbanzo | 0 | 0| 
-| 20220619T21:00:22Z | an autocomplete movie search DB built with nodejs, express and mongodb | https://github.com/frazie/fuzzy-movie-search | 0 | 0| 
-| 20220619T18:46:58Z | Фазер параметров JSON для web запросов | https://github.com/kzzanuda/fuzzerDataJson | 0 | 0| 
-| 20220619T18:44:52Z | demo repo | https://github.com/tinykishore/fuzzy-octo-robot | 0 | 0| 
-| 20220619T12:10:24Z | Executable programs of GitLab%s protocol fuzzing framework(CE) | https://github.com/xiaoxin2016/Peach-Pro-Release | 0 | 0| 
-| 20220619T12:06:47Z | AVR-C code for ATMEGA328p and Grove LCD for following pnp fuzz voltages | https://github.com/tuomokup/FuzzGroveLCD | 0 | 0| 
 
 
 
