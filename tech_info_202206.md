@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220621T01:12:54Z | Null | https://github.com/ceodevforce/fuzzy-octo-tribble | 0 | 0| 
 | 20220621T01:02:47Z | Number theory and encryption tinkering  | https://github.com/JudahSan/fuzzy-enigma-encryption | 0 | 0| 
 | 20220620T23:29:09Z | Code for fuzzy cmeans with opencv | https://github.com/titopuertolara/opencvFuzzyCmeans | 0 | 0| 
 | 20220620T20:31:54Z | Evaluating performances of popular similarity hashing (fuzzy hashing) algorithms | https://github.com/cresmoon/FuzzyHashEvaluation | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20220620T17:05:06Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 155 | 20| 
 | 20220620T15:25:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7518 | 1613| 
 | 20220620T14:19:45Z | A simple multi-process web fuzzer written in Python. | https://github.com/Ice1187/simple-web-fuzzer | 1 | 0| 
-| 20220620T12:07:15Z | Null | https://github.com/iscuderi/unemployment-fuzzy-numbers | 0 | 0| 
 
 
 
