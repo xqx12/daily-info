@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220621T12:00:53Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 94 | 9| 
+| 20220621T11:22:29Z | Similar to Petitpotam, the netdfs service is enabled in Windows Server and AD environments, and the abused RPC method allows privileged processes to access malicious pipes for exploitation | https://github.com/crisprss/magicNetdefs | 1 | 0| 
+| 20220621T10:52:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3183 | 490| 
+| 20220621T08:30:26Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 71 | 13| 
+| 20220621T08:29:31Z | Null | https://github.com/ChainZoom-Security/fortress-protocol-exploit | 0 | 0| 
+| 20220621T07:21:54Z | Bruteforcing password using LDAP wildcard injection. | https://github.com/RootDev4/LDAP-authentication-exploit | 0 | 0| 
+| 20220621T07:11:48Z | For those who want to get an idea of what EXP-301 is about. This is NOT the official course. | https://github.com/Exploitables/Open-Exploitation-1 | 4 | 0| 
+| 20220621T05:04:15Z | My solution and exploits for pwnable.tw challenges | https://github.com/kamalinux/pwnable.tw | 0 | 0| 
 | 20220620T23:54:13Z | A attempt at reimplementing the nocom exploit (Military grade block game radar) for 1.12.2 paper servers. | https://github.com/10maurycy10/opennocom | 0 | 0| 
 | 20220620T23:19:03Z | Null | https://github.com/Koffy1234/CalderaExploit | 0 | 0| 
-| 20220620T22:24:20Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 80 | 8| 
-| 20220620T22:15:16Z | Lab and Final Reports for Computer Networks and Security class | https://github.com/ahmet-ceng/Computer_Networks_and_Security_Reports | 0 | 0| 
-| 20220620T22:12:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11628 | 2001| 
-| 20220620T21:51:21Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 60 | 9| 
-| 20220620T21:44:07Z | Null | https://github.com/pynchmeister/solidity-exploits | 1 | 0| 
-| 20220620T18:26:30Z | Windows Post-Exploitation tools wrapper | https://github.com/Karmaz95/crimson_wisp | 2 | 1| 
-| 20220620T16:13:01Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers | https://github.com/hugsy/gef | 4637 | 596| 
-| 20220620T15:41:21Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 7 | 2| 
 
 
 # backdoor on Github 推荐
@@ -114,16 +114,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 0| 
+| 20220621T10:07:27Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 28 | 14| 
+| 20220621T08:24:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 248 | 17| 
+| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 1| 
 | 20220620T18:32:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2928 | 419| 
 | 20220620T17:43:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 567| 
 | 20220620T13:15:48Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
 | 20220620T09:33:45Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 443 | 26| 
-| 20220620T08:43:55Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 247 | 17| 
-| 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 1| 
+| 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
 | 20220618T17:11:46Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 609 | 104| 
 | 20220618T01:25:23Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 39| 
-| 20220617T09:10:23Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 11 | 2| 
 
 
 # big4 on Github 推荐

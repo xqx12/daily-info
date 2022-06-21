@@ -50,6 +50,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220621T12:00:53Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 94 | 9| 
+| 20220621T11:22:29Z | Similar to Petitpotam, the netdfs service is enabled in Windows Server and AD environments, and the abused RPC method allows privileged processes to access malicious pipes for exploitation | https://github.com/crisprss/magicNetdefs | 1 | 0| 
+| 20220621T10:52:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3183 | 490| 
+| 20220621T08:30:26Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 71 | 13| 
+| 20220621T08:29:31Z | Null | https://github.com/ChainZoom-Security/fortress-protocol-exploit | 0 | 0| 
+| 20220621T07:21:54Z | Bruteforcing password using LDAP wildcard injection. | https://github.com/RootDev4/LDAP-authentication-exploit | 0 | 0| 
+| 20220621T07:11:48Z | For those who want to get an idea of what EXP-301 is about. This is NOT the official course. | https://github.com/Exploitables/Open-Exploitation-1 | 4 | 0| 
+| 20220621T05:04:15Z | My solution and exploits for pwnable.tw challenges | https://github.com/kamalinux/pwnable.tw | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -60,7 +68,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 0| 
+| 20220621T10:07:27Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 28 | 14| 
+| 20220621T08:24:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 248 | 17| 
+| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 1| 
 
 
 # big4 on Github 推荐
