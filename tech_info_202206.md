@@ -85,7 +85,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220621T12:07:48Z | Similar to Petitpotam, the netdfs service is enabled in Windows Server and AD environments, and the abused RPC method allows privileged processes to access malicious pipes for exploitation | https://github.com/crisprss/magicNetdefs | 2 | 0| 
-| 20220621T12:00:53Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 94 | 9| 
+| 20220621T12:00:53Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 94 | 10| 
 | 20220621T10:52:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3183 | 490| 
 | 20220621T08:30:26Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 71 | 13| 
 | 20220621T08:29:31Z | Null | https://github.com/ChainZoom-Security/fortress-protocol-exploit | 0 | 0| 
