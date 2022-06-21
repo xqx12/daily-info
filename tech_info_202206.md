@@ -87,7 +87,7 @@
 | 20220620T23:19:03Z | Null | https://github.com/Koffy1234/CalderaExploit | 0 | 0| 
 | 20220620T22:24:20Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 80 | 8| 
 | 20220620T22:15:16Z | Lab and Final Reports for Computer Networks and Security class | https://github.com/ahmet-ceng/Computer_Networks_and_Security_Reports | 0 | 0| 
-| 20220620T22:12:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11628 | 2000| 
+| 20220620T22:12:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11628 | 2001| 
 | 20220620T21:51:21Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 60 | 9| 
 | 20220620T21:44:07Z | Null | https://github.com/pynchmeister/solidity-exploits | 1 | 0| 
 | 20220620T18:26:30Z | Windows Post-Exploitation tools wrapper | https://github.com/Karmaz95/crimson_wisp | 2 | 1| 
@@ -137,7 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220621T00:21:43Z | Number theory and encryption tinkering  | https://github.com/JudahSan/fuzzy-enigma-encryption | 0 | 0| 
+| 20220621T01:02:47Z | Number theory and encryption tinkering  | https://github.com/JudahSan/fuzzy-enigma-encryption | 0 | 0| 
 | 20220620T23:29:09Z | Code for fuzzy cmeans with opencv | https://github.com/titopuertolara/opencvFuzzyCmeans | 0 | 0| 
 | 20220620T20:31:54Z | Evaluating performances of popular similarity hashing (fuzzy hashing) algorithms | https://github.com/cresmoon/FuzzyHashEvaluation | 0 | 0| 
 | 20220620T20:16:08Z | A simple grammar based js fuzzer I%m building | https://github.com/AndroidParanoi/jsfuzzer | 1 | 0| 
