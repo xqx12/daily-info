@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220621T00:13:26Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/i6c/CVE-2022-26937 | | 
 | 20220620T21:25:37Z | CVE-2022-26809 | PoC for CVE-2022-26809, analisys and considerations are shown in the github.io. | https://github.com/s1ckb017/PoC-CVE-2022-26809 | | 
 | 20220620T19:25:41Z | CVE-2021-46422 | Telesquare SDT-CW3B1 1.1.0 - OS Command Injection | https://github.com/Chocapikk/CVE-2021-46422 | | 
 | 20220620T12:20:14Z | CVE-2022-22620 | CVE-2022-22620: Use-after-free in Safari | https://github.com/kmeps4/CVE-2022-22620 | | 
@@ -55,7 +56,6 @@
 | 20220619T12:13:41Z | CVE-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System | https://github.com/zir0x00/CVE-2022-30136-MASS-RCE | | 
 | 20220619T12:10:10Z | CVE-2022-30190 | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | | 
 | 20220619T09:01:24Z | CVE-2021-40903 | CVE-2021-40903 | https://github.com/vulnz/CVE-2021-40903 | | 
-| 20220619T04:46:59Z | CVE-2022-22588 | Null | https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588 | | 
 
 
 # klee on Github 推荐
