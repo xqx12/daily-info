@@ -36,7 +36,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220620T17:43:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 567| 
-| 20220620T15:48:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6979 | 247| 
 | 20220620T11:46:32Z | Null | https://github.com/oudongkun/klee-rpc-framework | 0 | 0| 
 | 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 1| 
 
