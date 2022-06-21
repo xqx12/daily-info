@@ -37,7 +37,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220621T12:16:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6988 | 247| 
+| 20220621T12:38:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6989 | 247| 
 | 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 1| 
 
 
@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220621T12:39:24Z | Null | https://github.com/Altelus1/browser_exploitation_notes | 0 | 0| 
 | 20220621T12:07:48Z | Similar to Petitpotam, the netdfs service is enabled in Windows Server and AD environments, and the abused RPC method allows privileged processes to access malicious pipes for exploitation | https://github.com/crisprss/magicNetdefs | 2 | 0| 
 | 20220621T12:00:53Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 94 | 10| 
 | 20220621T10:52:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3183 | 490| 
@@ -59,7 +60,6 @@
 | 20220621T07:21:54Z | Bruteforcing password using LDAP wildcard injection. | https://github.com/RootDev4/LDAP-authentication-exploit | 0 | 0| 
 | 20220621T07:11:48Z | For those who want to get an idea of what EXP-301 is about. This is NOT the official course. | https://github.com/Exploitables/Open-Exploitation-1 | 4 | 0| 
 | 20220621T05:04:15Z | My solution and exploits for pwnable.tw challenges | https://github.com/kamalinux/pwnable.tw | 0 | 0| 
-| 20220621T02:10:57Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 1908 | 424| 
 
 
 # backdoor on Github 推荐
