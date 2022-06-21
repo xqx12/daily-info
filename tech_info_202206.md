@@ -93,7 +93,7 @@
 | 20220621T08:29:31Z | Null | https://github.com/ChainZoom-Security/fortress-protocol-exploit | 0 | 0| 
 | 20220621T07:21:54Z | Bruteforcing password using LDAP wildcard injection. | https://github.com/RootDev4/LDAP-authentication-exploit | 0 | 0| 
 | 20220621T07:11:48Z | For those who want to get an idea of what EXP-301 is about. This is NOT the official course. | https://github.com/Exploitables/Open-Exploitation-1 | 4 | 0| 
-| 20220621T05:04:15Z | My solution and exploits for pwnable.tw challenges | https://github.com/kamalinux/pwnable.tw | 0 | 0| 
+| 20220621T05:40:49Z | :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | https://github.com/liamg/traitor | 5224 | 358| 
 
 
 # backdoor on Github 推荐
