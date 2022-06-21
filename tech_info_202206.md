@@ -87,13 +87,13 @@
 | 20220621T12:07:48Z | Similar to Petitpotam, the netdfs service is enabled in Windows Server and AD environments, and the abused RPC method allows privileged processes to access malicious pipes for exploitation | https://github.com/crisprss/magicNetdefs | 2 | 0| 
 | 20220621T12:00:53Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 94 | 10| 
 | 20220621T10:52:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3183 | 490| 
+| 20220621T08:41:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11629 | 2001| 
 | 20220621T08:30:26Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 71 | 13| 
 | 20220621T08:29:31Z | Null | https://github.com/ChainZoom-Security/fortress-protocol-exploit | 0 | 0| 
 | 20220621T07:21:54Z | Bruteforcing password using LDAP wildcard injection. | https://github.com/RootDev4/LDAP-authentication-exploit | 0 | 0| 
 | 20220621T07:11:48Z | For those who want to get an idea of what EXP-301 is about. This is NOT the official course. | https://github.com/Exploitables/Open-Exploitation-1 | 4 | 0| 
 | 20220621T05:04:15Z | My solution and exploits for pwnable.tw challenges | https://github.com/kamalinux/pwnable.tw | 0 | 0| 
 | 20220620T23:54:13Z | A attempt at reimplementing the nocom exploit (Military grade block game radar) for 1.12.2 paper servers. | https://github.com/10maurycy10/opennocom | 0 | 0| 
-| 20220620T23:19:03Z | Null | https://github.com/Koffy1234/CalderaExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
