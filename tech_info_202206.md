@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220621 | 利用 Branch History Injection 技术绕过 CPU Spectre-v2 的缓解措施 | http://cfp.recon.cx/media/2022/submissions/VCAHEN/resources/A_Dirty_Little_History_-_REcon_slides_XVQ6JDW.pdf| 
+| 20220621 | 利用蓝牙中间人 MitM 攻击特斯拉无钥匙系统，来自 Recon | http://cfp.recon.cx/media/2022/submissions/NMXBUN/resources/20220604_tempa_presentation_recon22_public_luZ5fqg.pdf| 
+| 20220621 | Natalie 在 Recon 会议关于 Zoom Zero-click Exploit 的演讲 | http://cfp.recon.cx/media/2022/submissions/EZMZK9/resources/Zooming_in_on_Zero-click_Exploits_sEyTKsZ.pdf| 
+| 20220621 | Emotet 在不断进化，以应对微软 Office 对宏代码安全的强化 | https://www.welivesecurity.com/2022/06/16/how-emotet-is-changing-tactics-microsoft-tightening-office-macro-security/| 
+| 20220621 | 检测内存中的隐蔽代码执行行为，目前支持通过在内存中扫描 NtContinue 检测 Ekko | https://github.com/joe-desimone/patriot| 
+| 20220621 | BSidesSF 2022 CTF Write-ups | https://itsc0rg1.medium.com/bsidessf-2022-ctf-challenge-write-ups-cd75ebb7b7ea| 
+| 20220621 | 有研究员总结的利用 Semgrep 在知名 Java 框架中检测安全问题的规则 | http://github.com/elttam/semgrep-rules| 
+| 20220621 | Hacking Jacuzzi 智能浴缸的管理网络 | https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/| 
 | 20220620 | Unbricking SHIELD TV (2015) with a Bootrom Exploit | http://yifan.lu/2022/06/17/unbricking-shield-tv-2015-with-a-bootrom-exploit/| 
 | 20220620 | 扩展 syzkaller Fuzzer，挖掘 Linux 内核的远程 RCE 漏洞 | http://xairy.io/articles/syzkaller-external-network| 
 | 20220620 | CreuSAT - Rust 写的 SAT solver | https://github.com/sarsko/CreuSAT| 
@@ -18,14 +26,6 @@
 | 20220620 | “暗象”组织：潜藏十年的网络攻击 | https://mp-weixin-qq-com.translate.goog/s/mC5D8kFaQA-cIcw2rlTgeA?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en| 
 | 20220619 | MIT Technology Review’s Future Compute Conference 2022 | http://msft.it/6013bcXB7| 
 | 20220619 | MIT Technology Review’s Future Compute Conference 2022 | https://www.microsoft.com/en-us/research/video/mit-technology-reviews-future-compute-conference-2022/| 
-| 20220617 | DriftingCloud: Zero-Day Sophos Firewall Exploitation and an Insidious Breach | https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/| 
-| 20220617 | Flutter Apps 的逆向 | https://www.guardsquare.com/blog/current-state-and-future-of-reversing-flutter-apps| 
-| 20220617 | RDP 命名管道权限设置不当漏洞分析（CVE-2022-24533） | https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability| 
-| 20220617 | 利用 Qualcomm GPU 驱动的 UAF 漏洞实现 Samsung Z flip 3 root 提权、禁用 SELinux | http://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/| 
-| 20220617 | VED - Linux 内核威胁检测和防御系统 | https://github.com/hardenedvault/ved| 
-| 20220617 | iOS 16 版本 IOSurface 攻击面缓解的一些变化 | https://saaramar.github.io/ios16_restricted_iouserclients/| 
-| 20220617 | iOS 平台 ARM64 ROP 利用链 | https://www.inversecos.com/2022/06/guide-to-reversing-and-exploiting-ios.html| 
-| 20220617 | 利用 FreeBSD Wi-Fi 协议栈的堆溢出漏洞实现 RCE（CVE-2022-23088） | https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack| 
 
 
 # 安全维基 推荐
@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220621T11:59:11Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/kh4sh3i/CVE-2022-26134 | | 
+| 20220621T11:51:37Z | CVE-2022-26134 | 「💥」CVE-2022-26134 - Confluence Pre-Auth RCE | https://github.com/AmoloHT/CVE-2022-26134 | | 
+| 20220621T11:48:32Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
+| 20220621T10:36:43Z | CVE-2020-3580 | Null | https://github.com/nxtexploit/CVE-2020-3580 | | 
+| 20220621T07:37:49Z | cve-2021-22005 | cve-2021-22005vcenter任意文件上传漏洞，可直接上传冰蝎 | https://github.com/InventorMAO/cve-2021-22005 | | 
+| 20220621T06:35:15Z | CVE-2021-46422 | Telesquare SDT-CW3B1 1.1.0 - OS Command Injection | https://github.com/Chocapikk/CVE-2021-46422 | | 
 | 20220621T01:14:55Z | CVE-2022-26809 | PoC for CVE-2022-26809, analisys and considerations are shown in the github.io. | https://github.com/s1ckb017/PoC-CVE-2022-26809 | | 
 | 20220621T00:13:26Z | CVE-2022-26937 | Windows Network File System Crash PoC | https://github.com/i6c/CVE-2022-26937 | | 
-| 20220620T19:25:41Z | CVE-2021-46422 | Telesquare SDT-CW3B1 1.1.0 - OS Command Injection | https://github.com/Chocapikk/CVE-2021-46422 | | 
 | 20220620T12:20:14Z | CVE-2022-22620 | CVE-2022-22620: Use-after-free in Safari | https://github.com/kmeps4/CVE-2022-22620 | | 
-| 20220620T05:22:57Z | CVE-2022-26134 | 「💥」CVE-2022-26134 - Confluence Pre-Auth RCE | https://github.com/AmoloHT/CVE-2022-26134 | | 
 | 20220619T22:32:40Z | CVE-2022-29464 | A bots loader for CVE-2022-29464 with multithreading | https://github.com/Inplex-sys/CVE-2022-29464-loader | | 
-| 20220619T15:12:03Z | CVE-2022-21661 | Null | https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main | | 
-| 20220619T12:13:41Z | CVE-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System | https://github.com/zir0x00/CVE-2022-30136-MASS-RCE | | 
-| 20220619T12:10:10Z | CVE-2022-30190 | MSDT 0-Day Mass Exploitation Tool | https://github.com/zir0x00/CVE-2022-30190-MASS-RCE | | 
-| 20220619T09:01:24Z | CVE-2021-40903 | CVE-2021-40903 | https://github.com/vulnz/CVE-2021-40903 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 0| 
-| 20220621T00:57:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6980 | 247| 
+| 20220621T11:00:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6987 | 247| 
+| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 1| 
 | 20220620T17:43:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 567| 
 | 20220620T11:46:32Z | Null | https://github.com/oudongkun/klee-rpc-framework | 0 | 0| 
-| 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 1| 
+| 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
 | 20220617T19:17:24Z | Config files for my GitHub profile. | https://github.com/Klee12345678/Klee12345678 | 0 | 0| 
 | 20220617T13:56:58Z | Null | https://github.com/mojyack/klee | 0 | 0| 
 | 20220617T02:39:10Z | Null | https://github.com/sandaarpq/klee | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220621T11:56:55Z | Null | https://github.com/LasseBuchAspIT/s2Eksamen | 0 | 0| 
 | 20220620T18:32:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 230 | 56| 
 | 20220613T03:26:30Z | Null | https://github.com/Marvin-Aguirre/S2Examen | 0 | 0| 
 
@@ -137,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220621T11:51:59Z | Null | https://github.com/xxFREESHROUDxx/fuzzy-fiesta | 0 | 0| 
+| 20220621T10:10:21Z | Null | https://github.com/skrevolve/fuzzy-winner | 0 | 0| 
+| 20220621T09:39:32Z | Null | https://github.com/accexs/fuzzy-guide | 0 | 0| 
+| 20220621T09:34:50Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1407 | 185| 
+| 20220621T09:25:44Z | A simple grammar based js fuzzer I%m building | https://github.com/AndroidParanoi/jsfuzzer | 2 | 0| 
+| 20220621T09:09:37Z | haohaoxuexi | https://github.com/245314676/fuzzy-guacamole | 0 | 0| 
+| 20220621T08:45:46Z | Fuzzy Index for Python, written in Rust. Works like error-tolerant dict, keyed by a human input. | https://github.com/blaa/fuzzdex | 0 | 0| 
 | 20220621T01:12:54Z | Null | https://github.com/ceodevforce/fuzzy-octo-tribble | 0 | 0| 
 | 20220621T01:02:47Z | Number theory and encryption tinkering  | https://github.com/JudahSan/fuzzy-enigma-encryption | 0 | 0| 
 | 20220620T23:29:09Z | Code for fuzzy cmeans with opencv | https://github.com/titopuertolara/opencvFuzzyCmeans | 0 | 0| 
-| 20220620T20:31:54Z | Evaluating performances of popular similarity hashing (fuzzy hashing) algorithms | https://github.com/cresmoon/FuzzyHashEvaluation | 0 | 0| 
-| 20220620T20:16:08Z | A simple grammar based js fuzzer I%m building | https://github.com/AndroidParanoi/jsfuzzer | 1 | 0| 
-| 20220620T19:52:51Z | Generate a wordlist to fuzz amounts or any other numerical values. | https://github.com/ivan-sincek/amounts | 3 | 1| 
-| 20220620T19:34:11Z | Null | https://github.com/RubaDub417/fuzzy-train | 0 | 0| 
-| 20220620T17:05:06Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 155 | 20| 
-| 20220620T15:25:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7518 | 1613| 
-| 20220620T14:19:45Z | A simple multi-process web fuzzer written in Python. | https://github.com/Ice1187/simple-web-fuzzer | 1 | 0| 
 
 
 
