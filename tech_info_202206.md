@@ -87,13 +87,13 @@
 | 20220622T12:23:19Z | Null | https://github.com/cyrheel/exploit-sample | 0 | 0| 
 | 20220622T11:56:26Z | This repo using to store some interesting bugs or errors of website | https://github.com/Trumpiter-max/Web-exploit-adventure | 0 | 0| 
 | 20220622T10:59:14Z | Lightweight lua level 7 executor made by Eclipse!#6582 | https://github.com/EclipsesDev/EclipseWare | 1 | 0| 
+| 20220622T10:57:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11633 | 2001| 
 | 20220622T10:13:53Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 338 | 38| 
 | 20220622T09:58:54Z | Development of a Secured Cloud-based Drive application Exploiting Web Technologies is sofiyullah abdullah final year project in partial fulfilment of the requirement for the award of Higher National Diploma Computer Engineering submitted to department of computer engineering , school of enginneering, Federal Polytechnic Ede, Osun State. Nigeria. - DEPARTMENT COPY | https://github.com/Precioussoul/abs-drive | 0 | 0| 
 | 20220622T09:13:42Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 454 | 97| 
 | 20220622T08:08:42Z | This OverBufferFlow Exploit Crashes Telegram and Discord Apps. | https://github.com/OMG-Escape/Application-Over-Buffer-Flow | 0 | 0| 
 | 20220622T07:49:48Z | Null | https://github.com/trevormalesike/wyze-cam-exploit | 0 | 0| 
 | 20220622T07:29:26Z | my exploit db | https://github.com/asderfree/exploit | 0 | 0| 
-| 20220622T07:23:33Z | This is publicly available exploit code for exploiting vulnerabilities in the Java Spring Framework affecting ETAS Products | https://github.com/Kunaljh/MS-Cybersecurity-Engage | 0 | 0| 
 
 
 # backdoor on Github 推荐
