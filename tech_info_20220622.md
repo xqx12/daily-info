@@ -25,9 +25,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220622T12:31:24Z | CVE-2022-9673 | CVE-2022-9673 | https://github.com/CVE-2099-2222/CVE-2022-9673 | | 
 | 20220622T12:21:58Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
 | 20220622T10:32:23Z | cve-2022-22980 | CVE-2022-22980 exp demp可作为扫描器靶场 | https://github.com/jweny/cve-2022-22980-exp | | 
-| 20220622T10:13:12Z | CVE-2022-9673 | CVE-2022-9673 | https://github.com/CVE-2099-2222/CVE-2022-9673 | | 
 | 20220622T07:10:53Z | CVE-2020-8512 | IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting | https://github.com/trhacknon/CVE-2020-8512 | | 
 | 20220622T06:59:37Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/kh4sh3i/CVE-2022-26134 | | 
 | 20220622T03:54:03Z | CVE-2020-17519 | Null | https://github.com/trhacknon/CVE-2020-17519 | | 
