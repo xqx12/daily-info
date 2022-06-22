@@ -62,8 +62,8 @@
 | 20220621T20:54:58Z | Null | https://github.com/xptea/Exploit12223213 | 0 | 0| 
 | 20220621T20:14:05Z | Official GitHub repository of UnnamedHub ! | https://github.com/Dumb-Utility/UnnamedHub | 0 | 0| 
 | 20220621T19:19:35Z | Aimbot Exploit Memory  | https://github.com/Eclipsemos/FPS-game-reverse-programming | 0 | 1| 
+| 20220621T16:51:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3184 | 492| 
 | 20220621T15:31:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11631 | 2001| 
-| 20220621T12:58:48Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 1909 | 424| 
 
 
 # backdoor on Github 推荐
