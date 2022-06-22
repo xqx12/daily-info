@@ -114,9 +114,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T12:39:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2932 | 419| 
 | 20220622T11:08:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 610 | 104| 
 | 20220622T09:39:56Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 4 | 0| 
-| 20220622T08:01:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2931 | 419| 
 | 20220622T04:34:54Z | DSE with LLVM and Z3 that automatically generates inputs to efficiently explore different program paths for C programs. | https://github.com/malathy-nagalakshmi/Dynamic-Symbolic-Execution | 0 | 0| 
 | 20220621T16:05:17Z | A system for exploring different symbolic execution memory model designs | https://github.com/GaloisInc/memory-model-test-harness | 0 | 0| 
 | 20220621T14:54:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 568| 
@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T12:45:04Z | fuzzuli is a fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 0 | 0| 
 | 20220622T12:38:48Z | WinAFL harness for fuzzing ETL files on windows | https://github.com/Microsvuln/etl-winafl-harness | 0 | 0| 
 | 20220622T12:29:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7522 | 1613| 
 | 20220622T12:28:58Z | Null | https://github.com/Shubhamdhakad111/fuzzy-octo-dollop | 0 | 0| 
@@ -148,7 +149,6 @@
 | 20220622T10:46:42Z | . | https://github.com/egueler/tls-fuzzer-artifacts | 0 | 0| 
 | 20220622T10:16:59Z | Null | https://github.com/Scarecrow777/Fuzzy-Clustering-methods-for-Categorical-Data-Derived-from-k-Modes | 0 | 0| 
 | 20220622T09:55:05Z | Fuzzer for Amplification Vulnerabilities (USENIX %22, Krupp et al) | https://github.com/cispa/ampfuzz | 0 | 0| 
-| 20220622T09:42:04Z | Just Learning React Redux in depth | https://github.com/xxFREESHROUDxx/fuzzy-fiesta | 0 | 0| 
 
 
 
