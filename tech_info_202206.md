@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T00:42:06Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN | 0 | 0| 
 | 20220622T00:41:14Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 0 | 0| 
 | 20220622T00:39:22Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN | 0 | 0| 
 | 20220621T23:59:40Z | Reproduce Predictive Models of Fire via Deep learning Exploiting Colorific Variation (ICAIIC2019) with Pytorch | https://github.com/jiseongHAN/Predictive-Models-of-Fire-via-Deep-learning-Exploiting-Colorific-Variation | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20220621T20:56:43Z | scratch exploit | https://github.com/nostopgmaming17/scratchSploit | 0 | 0| 
 | 20220621T20:54:58Z | Null | https://github.com/xptea/Exploit12223213 | 0 | 0| 
 | 20220621T20:14:05Z | Official GitHub repository of UnnamedHub ! | https://github.com/Dumb-Utility/UnnamedHub | 0 | 0| 
-| 20220621T19:19:35Z | Aimbot Exploit Memory  | https://github.com/Eclipsemos/FPS-game-reverse-programming | 0 | 1| 
 
 
 # backdoor on Github 推荐
