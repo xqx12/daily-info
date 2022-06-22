@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220622T00:31:58Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
+| 20220622T01:38:35Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
 | 20220621T15:34:26Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/kh4sh3i/CVE-2022-26134 | | 
 | 20220621T13:35:55Z | CVE-2022-111111 | CVE-2022-111111测试 | https://github.com/thelostworldFree/CVE-2022-111111 | | 
 | 20220621T11:51:37Z | CVE-2022-26134 | 「💥」CVE-2022-26134 - Confluence Pre-Auth RCE | https://github.com/AmoloHT/CVE-2022-26134 | | 
