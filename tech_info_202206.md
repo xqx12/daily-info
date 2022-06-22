@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T12:23:19Z | Null | https://github.com/cyrheel/exploit-sample | 0 | 0| 
 | 20220622T11:56:26Z | This repo using to store some interesting bugs or errors of website | https://github.com/Trumpiter-max/Web-exploit-adventure | 0 | 0| 
 | 20220622T10:59:14Z | Lightweight lua level 7 executor made by Eclipse!#6582 | https://github.com/EclipsesDev/EclipseWare | 1 | 0| 
 | 20220622T10:13:53Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 338 | 38| 
@@ -93,7 +94,6 @@
 | 20220622T07:49:48Z | Null | https://github.com/trevormalesike/wyze-cam-exploit | 0 | 0| 
 | 20220622T07:29:26Z | my exploit db | https://github.com/asderfree/exploit | 0 | 0| 
 | 20220622T07:23:33Z | This is publicly available exploit code for exploiting vulnerabilities in the Java Spring Framework affecting ETAS Products | https://github.com/Kunaljh/MS-Cybersecurity-Engage | 0 | 0| 
-| 20220622T02:15:25Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 226 | 964| 
 
 
 # backdoor on Github 推荐
