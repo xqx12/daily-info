@@ -79,7 +79,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220621T20:54:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2929 | 419| 
 | 20220621T16:05:17Z | A system for exploring different symbolic execution memory model designs | https://github.com/GaloisInc/memory-model-test-harness | 0 | 0| 
 | 20220621T14:54:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 567| 
 | 20220621T10:07:27Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 28 | 14| 
