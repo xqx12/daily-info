@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T12:12:45Z | Null | https://github.com/Gogom82/fuzzy-octo-lamp | 0 | 0| 
 | 20220622T11:42:19Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1408 | 185| 
 | 20220622T11:05:59Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 323 | 25| 
 | 20220622T10:46:42Z | . | https://github.com/egueler/tls-fuzzer-artifacts | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20220622T09:08:55Z | A generic FIle format Fuzzer that aims to cover most of the file formats | https://github.com/bikashdash/FileFormatFu | 0 | 0| 
 | 20220622T09:05:56Z | Здравствуйте, это курсовой проект по визуализации системы нечеткой логики. | https://github.com/Cold5nap/VisualFuzzyControlLanguage | 0 | 0| 
 | 20220622T06:23:39Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1372 | 61| 
-| 20220622T01:35:37Z | Null | https://github.com/zhishen33/Speech-Emotion-Recognition-with-Channel-Shuffle-Multi-scale-Block-and-Fuzzy-Integral-Fusion | 0 | 0| 
 
 
 
