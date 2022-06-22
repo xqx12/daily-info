@@ -42,7 +42,7 @@
 | 20220621T16:40:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 6995 | 247| 
 | 20220621T15:23:31Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
 | 20220621T14:54:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 567| 
-| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 1| 
+| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 2| 
 
 
 # s2e on Github 推荐
