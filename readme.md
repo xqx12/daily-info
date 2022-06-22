@@ -20,6 +20,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220622 | 测量哈萨克斯坦对 HTTPS 的大规模拦截 | https://mp.weixin.qq.com/s/FkRsfS0EQ9ouncoZFbWUSQ| 
+| 20220622 | MITRE 供应链安全可信系统技术框架（SoT™） | https://mp.weixin.qq.com/s/b9GgiUJ4-UTv_YaP79aTPw| 
 
 
 # CVE Github 推荐

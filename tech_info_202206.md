@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220622 | 测量哈萨克斯坦对 HTTPS 的大规模拦截 | https://mp.weixin.qq.com/s/FkRsfS0EQ9ouncoZFbWUSQ| 
+| 20220622 | MITRE 供应链安全可信系统技术框架（SoT™） | https://mp.weixin.qq.com/s/b9GgiUJ4-UTv_YaP79aTPw| 
 | 20220620 | SecWiki周刊（第433期) | https://www.sec-wiki.com/weekly/433| 
 | 20220619 | 对安全网闸产品初探 | https://www.coco413.com/archives/129/| 
 | 20220619 | 我的知识管理方式 | https://www.coco413.com/archives/134/| 
@@ -40,7 +41,6 @@
 | 20220619 | Pwn思维导图 | https://www.povcfe.site/pwn/pwn.pdf| 
 | 20220619 | CodeQL 数据库创建原理分析 | https://paper.seebug.org/1921/| 
 | 20220619 | 我的前端学习路线 | https://limboy.me/posts/frontend-learning/| 
-| 20220617 | VED (Vault Exploit Defense): 开源实现 | https://hardenedvault.net/zh-cn/blog/2022-06-16-ved-community-version/| 
 
 
 # CVE Github 推荐
