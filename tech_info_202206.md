@@ -84,11 +84,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T12:49:38Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 339 | 38| 
 | 20220622T12:23:19Z | Null | https://github.com/cyrheel/exploit-sample | 0 | 0| 
 | 20220622T11:56:26Z | This repo using to store some interesting bugs or errors of website | https://github.com/Trumpiter-max/Web-exploit-adventure | 0 | 0| 
 | 20220622T10:59:14Z | Lightweight lua level 7 executor made by Eclipse!#6582 | https://github.com/EclipsesDev/EclipseWare | 1 | 0| 
 | 20220622T10:57:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11633 | 2001| 
-| 20220622T10:13:53Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 338 | 38| 
 | 20220622T09:58:54Z | Development of a Secured Cloud-based Drive application Exploiting Web Technologies is sofiyullah abdullah final year project in partial fulfilment of the requirement for the award of Higher National Diploma Computer Engineering submitted to department of computer engineering , school of enginneering, Federal Polytechnic Ede, Osun State. Nigeria. - DEPARTMENT COPY | https://github.com/Precioussoul/abs-drive | 0 | 0| 
 | 20220622T09:13:42Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 454 | 97| 
 | 20220622T08:08:42Z | This OverBufferFlow Exploit Crashes Telegram and Discord Apps. | https://github.com/OMG-Escape/Application-Over-Buffer-Flow | 0 | 0| 
@@ -114,6 +114,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T12:48:30Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 444 | 26| 
 | 20220622T12:39:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2932 | 419| 
 | 20220622T11:08:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 610 | 104| 
 | 20220622T09:39:56Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 4 | 0| 
@@ -123,7 +124,6 @@
 | 20220621T10:07:27Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 28 | 14| 
 | 20220621T08:24:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 248 | 17| 
 | 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 2| 
-| 20220620T13:15:48Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
 
 
 # big4 on Github 推荐
