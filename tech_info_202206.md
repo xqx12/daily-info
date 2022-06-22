@@ -114,6 +114,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T11:08:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 610 | 104| 
 | 20220622T09:39:56Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 4 | 0| 
 | 20220622T08:01:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2931 | 419| 
 | 20220622T04:34:54Z | DSE with LLVM and Z3 that automatically generates inputs to efficiently explore different program paths for C programs. | https://github.com/malathy-nagalakshmi/Dynamic-Symbolic-Execution | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20220621T08:24:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 248 | 17| 
 | 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 2| 
 | 20220620T13:15:48Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
-| 20220620T09:33:45Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 443 | 26| 
 
 
 # big4 on Github 推荐

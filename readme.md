@@ -70,6 +70,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T11:08:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 610 | 104| 
 | 20220622T09:39:56Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 4 | 0| 
 | 20220622T08:01:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2931 | 419| 
 | 20220622T04:34:54Z | DSE with LLVM and Z3 that automatically generates inputs to efficiently explore different program paths for C programs. | https://github.com/malathy-nagalakshmi/Dynamic-Symbolic-Execution | 0 | 0| 
