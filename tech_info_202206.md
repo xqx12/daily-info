@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T01:55:38Z | A quick attempt at fixing an exploit(?) with the load_itempreset command | https://github.com/rowedahelicon/Loadout-Respawn-Fix | 0 | 0| 
 | 20220622T01:28:21Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 74 | 14| 
 | 20220622T01:16:32Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 15 | 4| 
 | 20220622T00:42:06Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20220621T23:21:17Z | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | 0 | 0| 
 | 20220621T23:06:04Z | Null | https://github.com/xptea/WebVareExploit | 0 | 0| 
 | 20220621T23:01:44Z | A discord webhook API for Synapse X | https://github.com/exrocean/Exploit-Webhook-API | 0 | 0| 
-| 20220621T20:56:43Z | scratch exploit | https://github.com/nostopgmaming17/scratchSploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
