@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T01:35:37Z | Null | https://github.com/zhishen33/Speech-Emotion-Recognition-with-Channel-Shuffle-Multi-scale-Block-and-Fuzzy-Integral-Fusion | 0 | 0| 
 | 20220621T20:46:20Z | FuzzBuzz puzzle game | https://github.com/fghazaleh/fuzz-buzz | 1 | 0| 
 | 20220621T19:46:00Z | Null | https://github.com/dudusaw/fuzzy-succotash | 0 | 0| 
 | 20220621T18:49:33Z | Nosy Neighbor - autonomous fuzzing for Go projects | https://github.com/infosecual/nosy-v2-example | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20220621T14:18:43Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 388 | 58| 
 | 20220621T11:51:59Z | Null | https://github.com/xxFREESHROUDxx/fuzzy-fiesta | 0 | 0| 
 | 20220621T10:10:21Z | Null | https://github.com/skrevolve/fuzzy-winner | 0 | 0| 
-| 20220621T09:39:32Z | Null | https://github.com/accexs/fuzzy-guide | 0 | 0| 
 
 
 
