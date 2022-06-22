@@ -114,16 +114,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220622T01:52:16Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2930 | 419| 
+| 20220622T09:39:56Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 4 | 0| 
+| 20220622T08:01:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2931 | 419| 
+| 20220622T04:34:54Z | DSE with LLVM and Z3 that automatically generates inputs to efficiently explore different program paths for C programs. | https://github.com/malathy-nagalakshmi/Dynamic-Symbolic-Execution | 0 | 0| 
 | 20220621T16:05:17Z | A system for exploring different symbolic execution memory model designs | https://github.com/GaloisInc/memory-model-test-harness | 0 | 0| 
-| 20220621T14:54:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 567| 
+| 20220621T14:54:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 568| 
 | 20220621T10:07:27Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 28 | 14| 
 | 20220621T08:24:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 248 | 17| 
 | 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 2| 
 | 20220620T13:15:48Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 67 | 3| 
 | 20220620T09:33:45Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 443 | 26| 
-| 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
-| 20220618T17:11:46Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 609 | 104| 
 
 
 # big4 on Github 推荐
