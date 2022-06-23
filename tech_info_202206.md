@@ -89,11 +89,11 @@
 | 20220623T12:25:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.1 | 0 | 0| 
 | 20220623T12:24:27Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.1 | 0 | 0| 
 | 20220623T11:12:21Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 119 | 19| 
+| 20220623T10:19:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11636 | 2002| 
 | 20220623T09:50:38Z | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | 1 | 0| 
 | 20220623T09:25:01Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 108 | 10| 
 | 20220623T09:22:53Z | Null | https://github.com/waawaa/Exploiting-TIPS | 0 | 0| 
 | 20220623T09:05:08Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 114 | 26| 
-| 20220623T08:38:17Z | Tool to create payload for exploiting zipslip vulnerability | https://github.com/killeroo7/zipslip-007 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -139,7 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220623T12:34:31Z | Null | https://github.com/Kermayde/Fuzzy-logic-code | 0 | 0| 
+| 20220623T12:36:21Z | Null | https://github.com/Kermayde/Fuzzy-logic-code | 0 | 0| 
 | 20220623T12:12:07Z | Null | https://github.com/RadwaMahmoud94/Fuzzy-toolbox | 0 | 0| 
 | 20220623T11:58:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7524 | 1613| 
 | 20220623T11:39:55Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 7 | 0| 
