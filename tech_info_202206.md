@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220623T12:29:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-afse-appstudio-e2e-test-exploit-plan | 0 | 0| 
+| 20220623T12:26:09Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.1 | 0 | 0| 
+| 20220623T12:25:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.1 | 0 | 0| 
+| 20220623T12:24:27Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.1 | 0 | 0| 
 | 20220623T11:12:21Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 119 | 19| 
 | 20220623T09:50:38Z | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | 1 | 0| 
 | 20220623T09:25:01Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 108 | 10| 
 | 20220623T09:22:53Z | Null | https://github.com/waawaa/Exploiting-TIPS | 0 | 0| 
 | 20220623T09:05:08Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 114 | 26| 
 | 20220623T08:38:17Z | Tool to create payload for exploiting zipslip vulnerability | https://github.com/killeroo7/zipslip-007 | 0 | 0| 
-| 20220623T07:39:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3193 | 494| 
-| 20220623T06:50:48Z | 异步漏洞利用框架 | https://github.com/Amzza0x00/Zerooo-Exploitation-Framework | 22 | 5| 
-| 20220623T02:28:28Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 227 | 969| 
-| 20220623T01:47:05Z | Helpful utility for converting shellcode strings to c formated for use in exploits.  | https://github.com/HackerIndustrial-Tooling/ShellcodeConverter | 0 | 0| 
 
 
 # backdoor on Github 推荐
