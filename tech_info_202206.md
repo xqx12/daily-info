@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220623T00:20:53Z | Corruption: Bedrock Edition without private exploits included | https://github.com/unresolvedsymbol/corruption-bedrock-oss | 0 | 0| 
 | 20220622T23:30:13Z | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | 1 | 0| 
 | 20220622T23:20:10Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | 0 | 0| 
 | 20220622T23:19:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 441 | 126| 
@@ -93,7 +94,6 @@
 | 20220622T15:13:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11634 | 2001| 
 | 20220622T12:49:38Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 339 | 38| 
 | 20220622T12:23:19Z | Null | https://github.com/cyrheel/exploit-sample | 0 | 0| 
-| 20220622T11:56:26Z | This repo using to store some interesting bugs or errors of website | https://github.com/Trumpiter-max/Web-exploit-adventure | 0 | 0| 
 
 
 # backdoor on Github 推荐
