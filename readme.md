@@ -61,6 +61,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220623T10:10:42Z | Script para encontrar procesos activos en la máquina backdoor de hack the box, usando Local File Inclusion | https://github.com/S3K0NDZ/ProcFinder-Backdoor-machine-HTB | 0 | 0| 
+| 20220623T06:47:04Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 511 | 94| 
 | 20220623T01:54:51Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 4 | 0| 
 | 20220623T01:21:50Z | BITRAT \ BIT RAT Best RAT Tool Hacking BAckdoor Cracked Source Src Code By DEPLAYED LOL | https://github.com/DeplayBack/BITRAT-Source-Code | 0 | 0| 
 
@@ -68,7 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220623T01:28:53Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 8 | 0| 
+| 20220623T11:59:08Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2932 | 419| 
+| 20220623T11:54:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 568| 
+| 20220623T11:41:08Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 10 | 0| 
 
 
 # big4 on Github 推荐

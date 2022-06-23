@@ -99,24 +99,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220623T10:10:42Z | Script para encontrar procesos activos en la máquina backdoor de hack the box, usando Local File Inclusion | https://github.com/S3K0NDZ/ProcFinder-Backdoor-machine-HTB | 0 | 0| 
+| 20220623T06:47:04Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 511 | 94| 
 | 20220623T01:54:51Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 4 | 0| 
 | 20220623T01:21:50Z | BITRAT \ BIT RAT Best RAT Tool Hacking BAckdoor Cracked Source Src Code By DEPLAYED LOL | https://github.com/DeplayBack/BITRAT-Source-Code | 0 | 0| 
 | 20220622T23:23:19Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 32 | 4| 
 | 20220622T20:37:08Z | Null | https://github.com/SCLBD/BackdoorBench | 19 | 0| 
 | 20220622T20:19:59Z | Backdoored Minecraft plugin, can run commands thro command prompt/terminal on server hosted PC. Can give full TeamViewer access to host PC. | https://github.com/judzdevv/BackdoorSupreme | 0 | 0| 
 | 20220622T17:20:43Z | Null | https://github.com/THUYimingLi/BackdoorBox | 75 | 19| 
-| 20220622T17:19:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 510 | 94| 
 | 20220622T16:42:36Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (toy lib, don%t use in prod) | https://github.com/hugsy/pwn-- | 71 | 5| 
 | 20220622T16:29:53Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 60 | 13| 
-| 20220622T03:20:07Z | A simple python backdoor with socket programming | https://github.com/Wayne-arul/python-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220623T01:28:53Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 8 | 0| 
-| 20220622T22:45:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2933 | 419| 
-| 20220622T18:13:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1992 | 568| 
+| 20220623T11:59:08Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2932 | 419| 
+| 20220623T11:54:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 568| 
+| 20220623T11:41:08Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 10 | 0| 
 | 20220622T17:32:25Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 249 | 17| 
 | 20220622T12:48:30Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 444 | 26| 
 | 20220622T11:08:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 610 | 104| 
