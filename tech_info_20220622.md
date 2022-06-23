@@ -104,6 +104,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220622T23:04:59Z | Model-based fuzzing for dotnet core, based on FuzzDB attacks. Especially good for fuzzing HTTP-based services! | https://github.com/queen-of-code/DotnetModelFuzzing | 19 | 1| 
 | 20220622T22:49:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7522 | 1613| 
+| 20220622T22:44:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2564 | 169| 
 | 20220622T20:08:17Z | Null | https://github.com/vitorsorato/ia_fuzzy_picsimlab | 0 | 0| 
 | 20220622T17:51:52Z | Fuzzy logic based control system that allowed a Rosbot to perform two behaviors automatically: right-edge following and obstacle avoidance. | https://github.com/abundis28/Fuzzy_Logic_Rosbot | 0 | 0| 
 | 20220622T17:25:08Z | 存一些自己用的fuzz字典 | https://github.com/Moe7ilin/fuzz_directory | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20220622T12:38:48Z | WinAFL harness for fuzzing ETL files on windows | https://github.com/Microsvuln/etl-winafl-harness | 0 | 0| 
 | 20220622T12:28:58Z | Null | https://github.com/Shubhamdhakad111/fuzzy-octo-dollop | 0 | 0| 
 | 20220622T12:12:45Z | Null | https://github.com/Gogom82/fuzzy-octo-lamp | 0 | 0| 
-| 20220622T11:42:19Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1408 | 185| 
 
 
 
