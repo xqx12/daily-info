@@ -30,7 +30,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220622T23:30:13Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
 | 20220622T16:00:11Z | cve-2022-22980 | CVE-2022-22980 exp demp可作为扫描器靶场 | https://github.com/jweny/cve-2022-22980-exp | | 
 | 20220622T12:31:24Z | CVE-2022-9673 | CVE-2022-9673 | https://github.com/CVE-2099-2222/CVE-2022-9673 | | 
 | 20220622T07:10:53Z | CVE-2020-8512 | IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting | https://github.com/trhacknon/CVE-2020-8512 | | 
@@ -54,7 +53,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220622T23:30:13Z | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | 1 | 0| 
 | 20220622T23:20:10Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | 0 | 0| 
 | 20220622T23:19:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 441 | 126| 
 | 20220622T22:41:32Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7518 | 1869| 
@@ -64,6 +62,7 @@
 | 20220622T12:49:38Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 339 | 38| 
 | 20220622T12:23:19Z | Null | https://github.com/cyrheel/exploit-sample | 0 | 0| 
 | 20220622T11:56:26Z | This repo using to store some interesting bugs or errors of website | https://github.com/Trumpiter-max/Web-exploit-adventure | 0 | 0| 
+| 20220622T10:59:14Z | Lightweight lua level 7 executor made by Eclipse!#6582 | https://github.com/EclipsesDev/EclipseWare | 1 | 0| 
 
 
 # backdoor on Github 推荐
