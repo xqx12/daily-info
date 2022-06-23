@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220623T01:54:51Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 4 | 0| 
 | 20220623T01:21:50Z | BITRAT \ BIT RAT Best RAT Tool Hacking BAckdoor Cracked Source Src Code By DEPLAYED LOL | https://github.com/DeplayBack/BITRAT-Source-Code | 0 | 0| 
 | 20220622T23:23:19Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 32 | 4| 
 | 20220622T20:37:08Z | Null | https://github.com/SCLBD/BackdoorBench | 19 | 0| 
@@ -107,7 +108,6 @@
 | 20220622T17:19:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 510 | 94| 
 | 20220622T16:42:36Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (toy lib, don%t use in prod) | https://github.com/hugsy/pwn-- | 71 | 5| 
 | 20220622T16:29:53Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 60 | 13| 
-| 20220622T15:18:44Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 3 | 0| 
 | 20220622T03:20:07Z | A simple python backdoor with socket programming | https://github.com/Wayne-arul/python-backdoor | 0 | 0| 
 
 

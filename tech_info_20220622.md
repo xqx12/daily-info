@@ -75,7 +75,6 @@
 | 20220622T17:19:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 510 | 94| 
 | 20220622T16:42:36Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (toy lib, don%t use in prod) | https://github.com/hugsy/pwn-- | 71 | 5| 
 | 20220622T16:29:53Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 60 | 13| 
-| 20220622T15:18:44Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 3 | 0| 
 | 20220622T03:20:07Z | A simple python backdoor with socket programming | https://github.com/Wayne-arul/python-backdoor | 0 | 0| 
 | 20220622T02:21:34Z | Null | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 1 | 0| 
 
