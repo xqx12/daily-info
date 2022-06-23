@@ -84,11 +84,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220623T12:39:30Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 120 | 19| 
 | 20220623T12:29:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-afse-appstudio-e2e-test-exploit-plan | 0 | 0| 
 | 20220623T12:26:09Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.1 | 0 | 0| 
 | 20220623T12:25:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.1 | 0 | 0| 
 | 20220623T12:24:27Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.1 | 0 | 0| 
-| 20220623T11:12:21Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 119 | 19| 
 | 20220623T10:19:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11636 | 2002| 
 | 20220623T09:50:38Z | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | 1 | 0| 
 | 20220623T09:25:01Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 108 | 10| 
