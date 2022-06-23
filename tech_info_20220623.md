@@ -83,7 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220623T12:11:18Z | Null | https://github.com/RadwaMahmoud94/Fuzzy-toolbox | 0 | 0| 
+| 20220623T12:12:07Z | Null | https://github.com/RadwaMahmoud94/Fuzzy-toolbox | 0 | 0| 
 | 20220623T11:58:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7524 | 1613| 
 | 20220623T11:39:55Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 7 | 0| 
 | 20220623T11:34:05Z | Null | https://github.com/wechu07/fuzzy-printer | 0 | 0| 
