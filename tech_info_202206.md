@@ -100,6 +100,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220623T10:10:42Z | Script para encontrar procesos activos en la máquina backdoor de hack the box, usando Local File Inclusion | https://github.com/S3K0NDZ/ProcFinder-Backdoor-machine-HTB | 0 | 0| 
+| 20220623T09:58:10Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 100 | 27| 
 | 20220623T06:47:04Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 511 | 94| 
 | 20220623T01:54:51Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 4 | 0| 
 | 20220623T01:21:50Z | BITRAT \ BIT RAT Best RAT Tool Hacking BAckdoor Cracked Source Src Code By DEPLAYED LOL | https://github.com/DeplayBack/BITRAT-Source-Code | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20220622T20:19:59Z | Backdoored Minecraft plugin, can run commands thro command prompt/terminal on server hosted PC. Can give full TeamViewer access to host PC. | https://github.com/judzdevv/BackdoorSupreme | 0 | 0| 
 | 20220622T17:20:43Z | Null | https://github.com/THUYimingLi/BackdoorBox | 75 | 19| 
 | 20220622T16:42:36Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (toy lib, don%t use in prod) | https://github.com/hugsy/pwn-- | 71 | 5| 
-| 20220622T16:29:53Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 60 | 13| 
 
 
 # symbolic execution on Github 推荐
