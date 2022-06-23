@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220623T01:44:44Z | This is the repo for some assembly programms that I have written to learn reverse engineering and binary exploitation. | https://github.com/alirazamumtaz/assembly-programming | 0 | 0| 
 | 20220623T01:37:45Z | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | 1 | 0| 
 | 20220623T01:32:57Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 18 | 6| 
 | 20220623T01:14:46Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.. | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20220623T00:20:53Z | Corruption: Bedrock Edition without private exploits included | https://github.com/unresolvedsymbol/corruption-bedrock-oss | 0 | 0| 
 | 20220622T23:20:10Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | 0 | 0| 
 | 20220622T23:19:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 441 | 126| 
-| 20220622T22:41:32Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7518 | 1869| 
 
 
 # backdoor on Github 推荐
