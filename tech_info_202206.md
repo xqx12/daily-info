@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220623 | 高通 kgsl 驱动 UAF 漏洞的分析（CVE-2022-22057） | https://securitylab.github.com/advisories/GHSL-2022-037_msm_kernel/| 
+| 20220623 | 区块链安全攻击、漏洞事件的分析和重现 | https://github.com/Rivaill/CryptoVulhub| 
+| 20220623 | Proofpoint 发布 2022 社会工程学趋势和关键事件安全研究报告 | https://www.proofpoint.com/us/blog/threat-insight/how-threat-actors-hijack-attention-2022-social-engineering-report| 
+| 20220623 | 常见 CMS/LMS Web 框架的 RCE 技术整理 | https://github.com/p0dalirius/Awesome-RCE-techniques| 
+| 20220623 | 智能合约安全相关的资料整理 | https://github.com/saeidshirazi/Awesome-Smart-Contract-Security| 
+| 20220623 | 提取 Windows Defender 的白名单路径规则，绕过检测 | http://adamsvoboda.net/extracting-asr-rules/| 
+| 20220623 | Inside JavaScript Engines, Part 1: Parsing | https://medium.com/@yanguly/inside-javascript-engines-part-1-parsing-c519d75833d7| 
+| 20220623 | Project Zero 近期爆出 webkit 漏洞的 ”考古“过程分析 | http://paper.seebug.org/1926/| 
+| 20220623 | Windows CLFS 文件系统的漏洞 Fuzzing 和利用 | https://mp.weixin.qq.com/s/RkgSyKtLmwCFFQHY429Lkg| 
 | 20220622 | Trailofbits 对区块链的去中心化机制和现状的安全研究 | http://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/| 
 | 20220622 | floss - mandiant 开源的用于从恶意软件中提取反混淆字符串的工具 | https://github.com/mandiant/flare-floss| 
 | 20220622 | 卡巴斯基对 APT ToddyCat 的分析 | https://securelist.com/toddycat/106799/| 
@@ -17,15 +26,6 @@
 | 20220621 | 利用 Branch History Injection 技术绕过 CPU Spectre-v2 的缓解措施 | http://cfp.recon.cx/media/2022/submissions/VCAHEN/resources/A_Dirty_Little_History_-_REcon_slides_XVQ6JDW.pdf| 
 | 20220621 | 利用蓝牙中间人 MitM 攻击特斯拉无钥匙系统，来自 Recon | http://cfp.recon.cx/media/2022/submissions/NMXBUN/resources/20220604_tempa_presentation_recon22_public_luZ5fqg.pdf| 
 | 20220621 | Natalie 在 Recon 会议关于 Zoom Zero-click Exploit 的演讲 | http://cfp.recon.cx/media/2022/submissions/EZMZK9/resources/Zooming_in_on_Zero-click_Exploits_sEyTKsZ.pdf| 
-| 20220621 | Emotet 在不断进化，以应对微软 Office 对宏代码安全的强化 | https://www.welivesecurity.com/2022/06/16/how-emotet-is-changing-tactics-microsoft-tightening-office-macro-security/| 
-| 20220621 | 检测内存中的隐蔽代码执行行为，目前支持通过在内存中扫描 NtContinue 检测 Ekko | https://github.com/joe-desimone/patriot| 
-| 20220621 | BSidesSF 2022 CTF Write-ups | https://itsc0rg1.medium.com/bsidessf-2022-ctf-challenge-write-ups-cd75ebb7b7ea| 
-| 20220621 | 有研究员总结的利用 Semgrep 在知名 Java 框架中检测安全问题的规则 | http://github.com/elttam/semgrep-rules| 
-| 20220621 | Hacking Jacuzzi 智能浴缸的管理网络 | https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/| 
-| 20220621 | CVE-2022-27925 Zimbra Collaboration 存在路径穿越漏洞最终导致RCE | http://paper.seebug.org/1924/| 
-| 20220620 | Unbricking SHIELD TV (2015) with a Bootrom Exploit | http://yifan.lu/2022/06/17/unbricking-shield-tv-2015-with-a-bootrom-exploit/| 
-| 20220620 | 扩展 syzkaller Fuzzer，挖掘 Linux 内核的远程 RCE 漏洞 | http://xairy.io/articles/syzkaller-external-network| 
-| 20220620 | CreuSAT - Rust 写的 SAT solver | https://github.com/sarsko/CreuSAT| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220623T10:57:12Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
+| 20220623T09:50:38Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | | 
+| 20220623T09:04:07Z | cve-2022-22980 | CVE-2022-22980 exp demo可作为扫描器靶场 | https://github.com/jweny/cve-2022-22980-exp | | 
 | 20220623T01:37:45Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
-| 20220623T00:38:38Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
-| 20220622T16:00:11Z | cve-2022-22980 | CVE-2022-22980 exp demp可作为扫描器靶场 | https://github.com/jweny/cve-2022-22980-exp | | 
 | 20220622T12:31:24Z | CVE-2022-9673 | CVE-2022-9673 | https://github.com/CVE-2099-2222/CVE-2022-9673 | | 
 | 20220622T07:10:53Z | CVE-2020-8512 | IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting | https://github.com/trhacknon/CVE-2020-8512 | | 
 | 20220622T06:59:37Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/kh4sh3i/CVE-2022-26134 | | 
 | 20220622T03:54:03Z | CVE-2020-17519 | Null | https://github.com/trhacknon/CVE-2020-17519 | | 
 | 20220621T13:35:55Z | CVE-2022-111111 | CVE-2022-111111测试 | https://github.com/thelostworldFree/CVE-2022-111111 | | 
 | 20220621T11:51:37Z | CVE-2022-26134 | 「💥」CVE-2022-26134 - Confluence Pre-Auth RCE | https://github.com/AmoloHT/CVE-2022-26134 | | 
-| 20220621T10:36:43Z | CVE-2020-3580 | Null | https://github.com/nxtexploit/CVE-2020-3580 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220622T18:13:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1992 | 568| 
+| 20220623T11:54:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 568| 
+| 20220623T07:22:04Z | Null | https://github.com/segre5458/KleeNotifier | 0 | 0| 
 | 20220622T11:49:10Z | Upload and comment paintings by Paul Klee. | https://github.com/YuliaGrineva/ImageBoard | 0 | 0| 
 | 20220622T11:35:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7005 | 248| 
 | 20220621T19:21:43Z | Source universe for: kleebaum | https://github.com/r-universe/kleebaum | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220620T11:46:32Z | Null | https://github.com/oudongkun/klee-rpc-framework | 0 | 0| 
 | 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
 | 20220617T19:17:24Z | Config files for my GitHub profile. | https://github.com/Klee12345678/Klee12345678 | 0 | 0| 
-| 20220617T13:56:58Z | Null | https://github.com/mojyack/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220623T11:12:21Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 119 | 19| 
+| 20220623T09:50:38Z | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | 1 | 0| 
+| 20220623T09:25:01Z | A POST-XSS exploitation tool. | https://github.com/t3l3machus/toxssin | 108 | 10| 
+| 20220623T09:22:53Z | Null | https://github.com/waawaa/Exploiting-TIPS | 0 | 0| 
+| 20220623T09:05:08Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 114 | 26| 
+| 20220623T08:38:17Z | Tool to create payload for exploiting zipslip vulnerability | https://github.com/killeroo7/zipslip-007 | 0 | 0| 
+| 20220623T07:39:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3193 | 494| 
+| 20220623T06:50:48Z | 异步漏洞利用框架 | https://github.com/Amzza0x00/Zerooo-Exploitation-Framework | 22 | 5| 
+| 20220623T02:28:28Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 227 | 969| 
 | 20220623T01:47:05Z | Helpful utility for converting shellcode strings to c formated for use in exploits.  | https://github.com/HackerIndustrial-Tooling/ShellcodeConverter | 0 | 0| 
-| 20220623T01:44:44Z | This is the repo for some assembly programms that I have written to learn reverse engineering and binary exploitation. | https://github.com/alirazamumtaz/assembly-programming | 0 | 0| 
-| 20220623T01:37:45Z | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | 1 | 0| 
-| 20220623T01:32:57Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 18 | 6| 
-| 20220623T01:14:46Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.. | 0 | 0| 
-| 20220623T01:13:48Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.. | 0 | 0| 
-| 20220623T01:12:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.. | 0 | 0| 
-| 20220623T00:40:54Z | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | 1 | 1| 
-| 20220623T00:20:53Z | Corruption: Bedrock Edition without private exploits included | https://github.com/unresolvedsymbol/corruption-bedrock-oss | 0 | 0| 
-| 20220622T23:20:10Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220623T00:49:44Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1372 | 61| 
-| 20220622T23:04:59Z | Model-based fuzzing for dotnet core, based on FuzzDB attacks. Especially good for fuzzing HTTP-based services! | https://github.com/queen-of-code/DotnetModelFuzzing | 19 | 1| 
-| 20220622T22:49:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7522 | 1613| 
-| 20220622T22:44:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2564 | 169| 
-| 20220622T20:08:17Z | Null | https://github.com/vitorsorato/ia_fuzzy_picsimlab | 0 | 0| 
-| 20220622T17:51:52Z | Fuzzy logic based control system that allowed a Rosbot to perform two behaviors automatically: right-edge following and obstacle avoidance. | https://github.com/abundis28/Fuzzy_Logic_Rosbot | 0 | 0| 
-| 20220622T17:25:08Z | 存一些自己用的fuzz字典 | https://github.com/Moe7ilin/fuzz_directory | 0 | 0| 
-| 20220622T12:45:04Z | fuzzuli is a fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 0 | 0| 
-| 20220622T12:38:48Z | WinAFL harness for fuzzing ETL files on windows | https://github.com/Microsvuln/etl-winafl-harness | 0 | 0| 
-| 20220622T12:28:58Z | Null | https://github.com/Shubhamdhakad111/fuzzy-octo-dollop | 0 | 0| 
+| 20220623T11:58:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7524 | 1613| 
+| 20220623T11:39:55Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 7 | 0| 
+| 20220623T11:34:05Z | Null | https://github.com/wechu07/fuzzy-printer | 0 | 0| 
+| 20220623T10:48:42Z | Null | https://github.com/cloudquery/cq-provider-fuzz | 0 | 0| 
+| 20220623T10:33:03Z | Null | https://github.com/edoardodepiccoli/fuzzy-waddle | 0 | 0| 
+| 20220623T10:15:04Z | TUBES | https://github.com/iqmlcaiera15/fuzzy-octo-lamp | 0 | 1| 
+| 20220623T09:16:31Z | Null | https://github.com/erateran/fuzzy-giggle | 0 | 0| 
+| 20220623T07:40:44Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1374 | 61| 
+| 20220623T07:40:21Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1967 | 485| 
+| 20220622T23:47:32Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 126 | 31| 
 
 
 
