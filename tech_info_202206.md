@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220623T12:39:30Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 120 | 19| 
+| 20220623T12:47:52Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 121 | 19| 
 | 20220623T12:29:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-afse-appstudio-e2e-test-exploit-plan | 0 | 0| 
 | 20220623T12:26:09Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.1 | 0 | 0| 
 | 20220623T12:25:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.1 | 0 | 0| 
