@@ -87,13 +87,13 @@
 | 20220623T01:14:46Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.. | 0 | 0| 
 | 20220623T01:13:48Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.. | 0 | 0| 
 | 20220623T01:12:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.. | 0 | 0| 
+| 20220623T00:46:18Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 17 | 6| 
 | 20220623T00:40:54Z | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | 1 | 1| 
 | 20220623T00:20:53Z | Corruption: Bedrock Edition without private exploits included | https://github.com/unresolvedsymbol/corruption-bedrock-oss | 0 | 0| 
 | 20220622T23:30:13Z | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | 1 | 0| 
 | 20220622T23:20:10Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | 0 | 0| 
 | 20220622T23:19:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 441 | 126| 
 | 20220622T22:41:32Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7518 | 1869| 
-| 20220622T21:51:27Z | Protects a lot of ESX exploit. Coming soon. | https://github.com/Blitoka33/FiveM-ESX-Protector | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,8 +114,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220623T01:28:53Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 8 | 0| 
 | 20220622T22:45:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2933 | 419| 
-| 20220622T22:29:48Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 7 | 0| 
 | 20220622T18:13:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1992 | 568| 
 | 20220622T17:32:25Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 249 | 17| 
 | 20220622T12:48:30Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 444 | 26| 
