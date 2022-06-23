@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220623T00:12:13Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
+| 20220623T00:38:38Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
 | 20220622T23:30:13Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
 | 20220622T16:00:11Z | cve-2022-22980 | CVE-2022-22980 exp demp可作为扫描器靶场 | https://github.com/jweny/cve-2022-22980-exp | | 
 | 20220622T12:31:24Z | CVE-2022-9673 | CVE-2022-9673 | https://github.com/CVE-2099-2222/CVE-2022-9673 | | 
