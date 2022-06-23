@@ -70,7 +70,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220622T23:23:19Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 32 | 4| 
-| 20220622T21:06:08Z | BITRAT \ BIT RAT Best RAT Tool Hacking BAckdoor Cracked Source Src Code By DEPLAYED LOL | https://github.com/DeplayBack/BITRAT-Source-Code | 0 | 0| 
 | 20220622T20:37:08Z | Null | https://github.com/SCLBD/BackdoorBench | 19 | 0| 
 | 20220622T20:19:59Z | Backdoored Minecraft plugin, can run commands thro command prompt/terminal on server hosted PC. Can give full TeamViewer access to host PC. | https://github.com/judzdevv/BackdoorSupreme | 0 | 0| 
 | 20220622T17:20:43Z | Null | https://github.com/THUYimingLi/BackdoorBox | 75 | 19| 
@@ -79,6 +78,7 @@
 | 20220622T16:29:53Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 60 | 13| 
 | 20220622T15:18:44Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 3 | 0| 
 | 20220622T03:20:07Z | A simple python backdoor with socket programming | https://github.com/Wayne-arul/python-backdoor | 0 | 0| 
+| 20220622T02:21:34Z | Null | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
