@@ -33,39 +33,39 @@
 | --- | --- | ---| 
 | 20220622 | 测量哈萨克斯坦对 HTTPS 的大规模拦截 | https://mp.weixin.qq.com/s/FkRsfS0EQ9ouncoZFbWUSQ| 
 | 20220622 | MITRE 供应链安全可信系统技术框架（SoT™） | https://mp.weixin.qq.com/s/b9GgiUJ4-UTv_YaP79aTPw| 
+| 20220622 | ysuserial：Java 反序列化漏洞利用工具 | https://mp.weixin.qq.com/s/05LOjys8XJhUxg8qKYuWtg| 
+| 20220622 | 当 XM 12 遇到 eBPF | https://mp.weixin.qq.com/s/h_ixxr1WZ8VqYt-zMrwSDA| 
+| 20220622 | 2022车联网数据安全监管研究报告 | https://mp.weixin.qq.com/s/CaWLiMWO_fhbLWt3DVMXbA| 
+| 20220622 | 电信网络诈骗黑灰产生态概览：基础设施 | https://mp.weixin.qq.com/s/N7ChFTCsDzfgQkL6J0ALow| 
 | 20220620 | SecWiki周刊（第433期) | https://www.sec-wiki.com/weekly/433| 
 | 20220619 | 对安全网闸产品初探 | https://www.coco413.com/archives/129/| 
 | 20220619 | 我的知识管理方式 | https://www.coco413.com/archives/134/| 
 | 20220619 | 一篇论文如何摧毁比特币的匿名性 | https://www.solidot.org/story?sid=71791| 
-| 20220619 | 静态分析及代码审计自动化相关资料收集 | https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit| 
-| 20220619 | Pwn思维导图 | https://www.povcfe.site/pwn/pwn.pdf| 
-| 20220619 | CodeQL 数据库创建原理分析 | https://paper.seebug.org/1921/| 
-| 20220619 | 我的前端学习路线 | https://limboy.me/posts/frontend-learning/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220622T23:30:13Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
+| 20220622T16:00:11Z | cve-2022-22980 | CVE-2022-22980 exp demp可作为扫描器靶场 | https://github.com/jweny/cve-2022-22980-exp | | 
 | 20220622T12:31:24Z | CVE-2022-9673 | CVE-2022-9673 | https://github.com/CVE-2099-2222/CVE-2022-9673 | | 
 | 20220622T12:21:58Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
-| 20220622T10:32:23Z | cve-2022-22980 | CVE-2022-22980 exp demp可作为扫描器靶场 | https://github.com/jweny/cve-2022-22980-exp | | 
 | 20220622T07:10:53Z | CVE-2020-8512 | IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting | https://github.com/trhacknon/CVE-2020-8512 | | 
 | 20220622T06:59:37Z | CVE-2022-26134 | [PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE) | https://github.com/kh4sh3i/CVE-2022-26134 | | 
 | 20220622T03:54:03Z | CVE-2020-17519 | Null | https://github.com/trhacknon/CVE-2020-17519 | | 
 | 20220621T13:35:55Z | CVE-2022-111111 | CVE-2022-111111测试 | https://github.com/thelostworldFree/CVE-2022-111111 | | 
 | 20220621T11:51:37Z | CVE-2022-26134 | 「💥」CVE-2022-26134 - Confluence Pre-Auth RCE | https://github.com/AmoloHT/CVE-2022-26134 | | 
 | 20220621T10:36:43Z | CVE-2020-3580 | Null | https://github.com/nxtexploit/CVE-2020-3580 | | 
-| 20220621T07:37:49Z | cve-2021-22005 | cve-2021-22005vcenter任意文件上传漏洞，可直接上传冰蝎 | https://github.com/InventorMAO/cve-2021-22005 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T18:13:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1992 | 568| 
 | 20220622T11:49:10Z | Upload and comment paintings by Paul Klee. | https://github.com/YuliaGrineva/ImageBoard | 0 | 0| 
 | 20220622T11:35:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7005 | 248| 
 | 20220621T19:21:43Z | Source universe for: kleebaum | https://github.com/r-universe/kleebaum | 0 | 0| 
 | 20220621T15:23:31Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
-| 20220621T14:54:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 568| 
 | 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 2| 
 | 20220620T11:46:32Z | Null | https://github.com/oudongkun/klee-rpc-framework | 0 | 0| 
 | 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T23:30:13Z | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | 1 | 0| 
+| 20220622T23:20:10Z | Contains information about network security and how to discover and exploit security flaws in, but not limited to, web and mobile applications. | https://github.com/MichaelSodeke/tmp--education-repo | 0 | 0| 
+| 20220622T23:19:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 441 | 126| 
+| 20220622T22:41:32Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7518 | 1869| 
+| 20220622T21:51:27Z | Protects a lot of ESX exploit. Coming soon. | https://github.com/Blitoka33/FiveM-ESX-Protector | 0 | 0| 
+| 20220622T21:45:15Z | Null | https://github.com/stickman-dev/exploit-hub | 0 | 0| 
+| 20220622T15:13:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11634 | 2001| 
 | 20220622T12:49:38Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 339 | 38| 
 | 20220622T12:23:19Z | Null | https://github.com/cyrheel/exploit-sample | 0 | 0| 
 | 20220622T11:56:26Z | This repo using to store some interesting bugs or errors of website | https://github.com/Trumpiter-max/Web-exploit-adventure | 0 | 0| 
-| 20220622T10:59:14Z | Lightweight lua level 7 executor made by Eclipse!#6582 | https://github.com/EclipsesDev/EclipseWare | 1 | 0| 
-| 20220622T10:57:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11633 | 2001| 
-| 20220622T09:58:54Z | Development of a Secured Cloud-based Drive application Exploiting Web Technologies is sofiyullah abdullah final year project in partial fulfilment of the requirement for the award of Higher National Diploma Computer Engineering submitted to department of computer engineering , school of enginneering, Federal Polytechnic Ede, Osun State. Nigeria. - DEPARTMENT COPY | https://github.com/Precioussoul/abs-drive | 0 | 0| 
-| 20220622T09:13:42Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 454 | 97| 
-| 20220622T08:08:42Z | This OverBufferFlow Exploit Crashes Telegram and Discord Apps. | https://github.com/OMG-Escape/Application-Over-Buffer-Flow | 0 | 0| 
-| 20220622T07:49:48Z | Null | https://github.com/trevormalesike/wyze-cam-exploit | 0 | 0| 
-| 20220622T07:29:26Z | my exploit db | https://github.com/asderfree/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T23:23:19Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 32 | 4| 
+| 20220622T21:06:08Z | BITRAT \ BIT RAT Best RAT Tool Hacking BAckdoor Cracked Source Src Code By DEPLAYED LOL | https://github.com/DeplayBack/BITRAT-Source-Code | 0 | 0| 
+| 20220622T20:37:08Z | Null | https://github.com/SCLBD/BackdoorBench | 19 | 0| 
+| 20220622T20:19:59Z | Backdoored Minecraft plugin, can run commands thro command prompt/terminal on server hosted PC. Can give full TeamViewer access to host PC. | https://github.com/judzdevv/BackdoorSupreme | 0 | 0| 
+| 20220622T17:20:43Z | Null | https://github.com/THUYimingLi/BackdoorBox | 75 | 19| 
+| 20220622T17:19:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 510 | 94| 
+| 20220622T16:42:36Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (toy lib, don%t use in prod) | https://github.com/hugsy/pwn-- | 71 | 5| 
+| 20220622T16:29:53Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 60 | 13| 
+| 20220622T15:18:44Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 3 | 0| 
 | 20220622T03:20:07Z | A simple python backdoor with socket programming | https://github.com/Wayne-arul/python-backdoor | 0 | 0| 
-| 20220622T02:21:34Z | Null | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 1 | 0| 
-| 20220621T21:22:35Z | Null | https://github.com/EKakar/BackDoor-Listener | 0 | 0| 
-| 20220621T18:38:21Z | Skrypt bash do pozostawiania backdoorów na niektórych dystrybucjach linuxa. | https://github.com/suprenoctome/backdoor.sh | 0 | 0| 
-| 20220621T17:57:00Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 509 | 94| 
-| 20220621T16:43:44Z | Null | https://github.com/mahzaraz/Backdoor | 0 | 0| 
-| 20220621T14:38:06Z | Null | https://github.com/THUYimingLi/BackdoorBox | 74 | 19| 
-| 20220621T02:28:40Z | Null | https://github.com/SCLBD/BackdoorBench | 18 | 0| 
-| 20220620T21:51:51Z | Null | https://github.com/TimaMatviiv/backdoor | 0 | 0| 
-| 20220620T20:57:31Z | Null | https://github.com/BackdoorVr/backdoorvr.github.io | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220622T23:04:59Z | Model-based fuzzing for dotnet core, based on FuzzDB attacks. Especially good for fuzzing HTTP-based services! | https://github.com/queen-of-code/DotnetModelFuzzing | 19 | 1| 
+| 20220622T20:08:17Z | Null | https://github.com/vitorsorato/ia_fuzzy_picsimlab | 0 | 0| 
+| 20220622T17:51:52Z | Fuzzy logic based control system that allowed a Rosbot to perform two behaviors automatically: right-edge following and obstacle avoidance. | https://github.com/abundis28/Fuzzy_Logic_Rosbot | 0 | 0| 
+| 20220622T17:25:08Z | 存一些自己用的fuzz字典 | https://github.com/Moe7ilin/fuzz_directory | 0 | 0| 
 | 20220622T12:45:04Z | fuzzuli is a fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 0 | 0| 
 | 20220622T12:38:48Z | WinAFL harness for fuzzing ETL files on windows | https://github.com/Microsvuln/etl-winafl-harness | 0 | 0| 
 | 20220622T12:29:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7522 | 1613| 
 | 20220622T12:28:58Z | Null | https://github.com/Shubhamdhakad111/fuzzy-octo-dollop | 0 | 0| 
 | 20220622T12:12:45Z | Null | https://github.com/Gogom82/fuzzy-octo-lamp | 0 | 0| 
 | 20220622T11:42:19Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1408 | 185| 
-| 20220622T11:05:59Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 323 | 25| 
-| 20220622T10:46:42Z | . | https://github.com/egueler/tls-fuzzer-artifacts | 0 | 0| 
-| 20220622T10:16:59Z | Null | https://github.com/Scarecrow777/Fuzzy-Clustering-methods-for-Categorical-Data-Derived-from-k-Modes | 0 | 0| 
-| 20220622T09:55:05Z | Fuzzer for Amplification Vulnerabilities (USENIX %22, Krupp et al) | https://github.com/cispa/ampfuzz | 0 | 0| 
 
 
 
