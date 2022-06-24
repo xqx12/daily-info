@@ -149,8 +149,8 @@
 | 20220624T08:20:32Z | Null | https://github.com/jyotidabass/Fuzzy-c-means-clustering-tongue | 1 | 0| 
 | 20220624T07:24:44Z | Null | https://github.com/FuzziesNFT/FuzziesNFT.github.io | 0 | 0| 
 | 20220624T06:42:10Z | Null | https://github.com/Databazator/fuzzy-octo-giggle | 0 | 0| 
+| 20220624T05:17:42Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 127 | 31| 
 | 20220624T02:44:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4206 | 1003| 
-| 20220624T00:19:42Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 164 | 20| 
 
 
 
