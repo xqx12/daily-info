@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T12:31:31Z | Cross-site Scripting - Learn how to detect and exploit XSS vulnerabilities, giving you control of other visitor%s browsers. | https://github.com/r1skkam/TryHackMe-Cross-site-Scripting | 0 | 0| 
 | 20220624T12:27:20Z | Software Transactional Memory that uses a Multi-versioned scheme, while exploiting some of the unique features of the architecure of GPUs | https://github.com/DMRNunes/csmv-gpu-stm | 0 | 0| 
 | 20220624T12:15:19Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | 0 | 0| 
 | 20220624T12:14:28Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN- | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20220624T11:21:04Z | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | 1 | 0| 
 | 20220624T11:06:12Z | Null | https://github.com/trewisscotch/SLIENT-DOC | 1 | 0| 
 | 20220624T10:45:58Z | Null | https://github.com/trewisscotch/JPG-PNG-EXPLOIT | 1 | 0| 
-| 20220624T10:38:11Z | Login Verification Bypass Exploit C++,C,C# | https://github.com/trewisscotch/Exodus-Stealer | 1 | 0| 
 
 
 # backdoor on Github 推荐
