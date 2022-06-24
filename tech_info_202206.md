@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T00:25:03Z | Very Lightweight Backdoor and Keylogger Utility. | https://github.com/defopticon/C-Backdoor | 0 | 0| 
 | 20220623T23:50:45Z | Null | https://github.com/mahzaraz/Backdoor | 0 | 0| 
 | 20220623T22:16:55Z | Backdoor made with python, django, sqlite (WIP) | https://github.com/ArmenG888/PyBD | 1 | 0| 
 | 20220623T16:53:07Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 512 | 94| 
@@ -108,7 +109,6 @@
 | 20220623T01:21:50Z | BITRAT \ BIT RAT Best RAT Tool Hacking BAckdoor Cracked Source Src Code By DEPLAYED LOL | https://github.com/DeplayBack/BITRAT-Source-Code | 0 | 0| 
 | 20220622T23:23:19Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 32 | 4| 
 | 20220622T20:37:08Z | Null | https://github.com/SCLBD/BackdoorBench | 19 | 0| 
-| 20220622T20:19:59Z | Backdoored Minecraft plugin, can run commands thro command prompt/terminal on server hosted PC. Can give full TeamViewer access to host PC. | https://github.com/judzdevv/BackdoorSupreme | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
