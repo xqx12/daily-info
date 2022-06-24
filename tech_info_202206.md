@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T01:20:40Z | M2I is a simple but effective joint motion prediction framework through marginal and conditional predictions by exploiting the factorized relations between interacting agents. | https://github.com/Tsinghua-MARS-Lab/M2I | 59 | 5| 
 | 20220624T01:04:36Z | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | 1 | 0| 
 | 20220623T23:50:35Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN1 | 0 | 0| 
 | 20220623T23:49:45Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN1 | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20220623T21:53:18Z | Null | https://github.com/stickman-dev/exploit-hub | 0 | 0| 
 | 20220623T20:42:34Z | Exploits for HEVD driver | https://github.com/Daniel0xcc/hevdSolutions | 0 | 0| 
 | 20220623T19:08:47Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
-| 20220623T14:50:06Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 122 | 28| 
 
 
 # backdoor on Github 推荐
