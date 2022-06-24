@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220624T01:02:41Z | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | 0 | 0| 
+| 20220624T01:04:36Z | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | 1 | 0| 
 | 20220623T23:50:35Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN1 | 0 | 0| 
 | 20220623T23:49:45Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN1 | 0 | 0| 
 | 20220623T23:48:46Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1 | 0 | 0| 
