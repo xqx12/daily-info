@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220624T00:58:37Z | CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | | 
 | 20220623T19:28:41Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
 | 20220623T18:38:47Z | CVE-2022-23222 | Null | https://github.com/PenteraIO/CVE-2022-23222-POC | | 
 | 20220623T15:08:09Z | CVE-2021-39409 | Admin account registration in Online Student Rate System | https://github.com/StefanDorresteijn/CVE-2021-39409 | | 
@@ -55,7 +56,6 @@
 | 20220623T09:50:38Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | | 
 | 20220623T01:37:45Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
 | 20220622T12:31:24Z | CVE-2022-9673 | CVE-2022-9673 | https://github.com/CVE-2099-2222/CVE-2022-9673 | | 
-| 20220622T07:10:53Z | CVE-2020-8512 | IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting | https://github.com/trhacknon/CVE-2020-8512 | | 
 
 
 # klee on Github 推荐
