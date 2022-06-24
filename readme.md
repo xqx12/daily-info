@@ -93,7 +93,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220623T22:59:36Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
-| 20220623T22:43:55Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 163 | 20| 
 | 20220623T22:39:24Z | PHP library that Implements the Fuzzy Comprehensive Evaluation method to assist you in the conclusion of qualitative assessment. | https://github.com/sensasi-delight/fuzzy-ce-php | 0 | 0| 
 | 20220623T21:10:50Z | Null | https://github.com/matthew0072-design/fuzzy-octo-spoon | 0 | 0| 
 | 20220623T19:55:25Z | Testing library fuzzywuzzy to clean data | https://github.com/lincolnsotto/library_fuzzywuzzy | 0 | 0| 
@@ -102,6 +101,7 @@
 | 20220623T12:36:21Z | Null | https://github.com/Kermayde/Fuzzy-logic-code | 0 | 0| 
 | 20220623T12:12:07Z | Null | https://github.com/RadwaMahmoud94/Fuzzy-toolbox | 0 | 0| 
 | 20220623T11:58:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7524 | 1613| 
+| 20220623T11:39:55Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 7 | 0| 
 
 
 

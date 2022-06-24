@@ -139,8 +139,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T00:19:42Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 164 | 20| 
 | 20220623T22:59:36Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
-| 20220623T22:43:55Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 163 | 20| 
 | 20220623T22:39:24Z | PHP library that Implements the Fuzzy Comprehensive Evaluation method to assist you in the conclusion of qualitative assessment. | https://github.com/sensasi-delight/fuzzy-ce-php | 0 | 0| 
 | 20220623T21:10:50Z | Null | https://github.com/matthew0072-design/fuzzy-octo-spoon | 0 | 0| 
 | 20220623T19:55:25Z | Testing library fuzzywuzzy to clean data | https://github.com/lincolnsotto/library_fuzzywuzzy | 0 | 0| 
