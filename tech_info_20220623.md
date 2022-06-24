@@ -97,11 +97,11 @@
 | 20220623T21:10:50Z | Null | https://github.com/matthew0072-design/fuzzy-octo-spoon | 0 | 0| 
 | 20220623T19:55:25Z | Testing library fuzzywuzzy to clean data | https://github.com/lincolnsotto/library_fuzzywuzzy | 0 | 0| 
 | 20220623T19:18:24Z | Null | https://github.com/jeffkaufman/fuzzy_highlighter | 0 | 0| 
+| 20220623T18:26:58Z | The project is a Foundry Workshop conducted by https://twitter.com/spearbitDAO on how to use Foundry to write test cases and fuzzzing the smart contracts. | https://github.com/zzzuhaibmohd/foundry_test_flash_loan | 0 | 0| 
 | 20220623T18:22:33Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 20 | 13| 
 | 20220623T12:36:21Z | Null | https://github.com/Kermayde/Fuzzy-logic-code | 0 | 0| 
 | 20220623T12:12:07Z | Null | https://github.com/RadwaMahmoud94/Fuzzy-toolbox | 0 | 0| 
 | 20220623T11:58:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7524 | 1613| 
-| 20220623T11:39:55Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 7 | 0| 
 
 
 
