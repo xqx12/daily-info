@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T12:27:20Z | Software Transactional Memory that uses a Multi-versioned scheme, while exploiting some of the unique features of the architecure of GPUs | https://github.com/DMRNunes/csmv-gpu-stm | 0 | 0| 
 | 20220624T12:15:19Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | 0 | 0| 
 | 20220624T12:14:28Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN- | 0 | 0| 
 | 20220624T12:13:37Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN- | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220624T11:06:12Z | Null | https://github.com/trewisscotch/SLIENT-DOC | 1 | 0| 
 | 20220624T10:45:58Z | Null | https://github.com/trewisscotch/JPG-PNG-EXPLOIT | 1 | 0| 
 | 20220624T10:38:11Z | Login Verification Bypass Exploit C++,C,C# | https://github.com/trewisscotch/Exodus-Stealer | 1 | 0| 
-| 20220624T08:42:07Z | Star Client is a free to use utility client available to all. The client does not contain any cheats or exploits and can be used freely. | https://github.com/StarClientDev/Star-Client | 0 | 0| 
 
 
 # backdoor on Github 推荐
