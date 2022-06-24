@@ -55,13 +55,13 @@
 | 20220623T23:50:35Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN1 | 0 | 0| 
 | 20220623T23:49:45Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN1 | 0 | 0| 
 | 20220623T23:48:46Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1 | 0 | 0| 
+| 20220623T22:56:24Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 228 | 972| 
 | 20220623T22:01:20Z | Corruption: Bedrock Edition without private exploits included | https://github.com/unresolvedsymbol/corruption-bedrock-oss | 4 | 0| 
 | 20220623T21:53:18Z | Null | https://github.com/stickman-dev/exploit-hub | 0 | 0| 
 | 20220623T20:42:34Z | Exploits for HEVD driver | https://github.com/Daniel0xcc/hevdSolutions | 0 | 0| 
 | 20220623T19:08:47Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20220623T14:50:06Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 122 | 28| 
 | 20220623T12:47:52Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 121 | 19| 
-| 20220623T12:29:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-afse-appstudio-e2e-test-exploit-plan | 0 | 0| 
 
 
 # backdoor on Github 推荐
