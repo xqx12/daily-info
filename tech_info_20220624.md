@@ -54,6 +54,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T12:15:19Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | 0 | 0| 
+| 20220624T12:14:28Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN- | 0 | 0| 
+| 20220624T12:13:37Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN- | 0 | 0| 
 | 20220624T11:31:21Z | Null | https://github.com/trewisscotch/HTA-EXPLOIT | 1 | 0| 
 | 20220624T11:22:46Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 63 | 15| 
 | 20220624T11:21:04Z | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | 1 | 0| 
@@ -61,9 +64,6 @@
 | 20220624T10:45:58Z | Null | https://github.com/trewisscotch/JPG-PNG-EXPLOIT | 1 | 0| 
 | 20220624T10:38:11Z | Login Verification Bypass Exploit C++,C,C# | https://github.com/trewisscotch/Exodus-Stealer | 1 | 0| 
 | 20220624T08:42:07Z | Star Client is a free to use utility client available to all. The client does not contain any cheats or exploits and can be used freely. | https://github.com/StarClientDev/Star-Client | 0 | 0| 
-| 20220624T07:58:02Z | Null | https://github.com/Piplureez/Exploits | 0 | 0| 
-| 20220624T07:10:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3198 | 497| 
-| 20220624T01:20:40Z | M2I is a simple but effective joint motion prediction framework through marginal and conditional predictions by exploiting the factorized relations between interacting agents. | https://github.com/Tsinghua-MARS-Lab/M2I | 59 | 5| 
 
 
 # backdoor on Github 推荐
