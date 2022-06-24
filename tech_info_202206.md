@@ -122,8 +122,8 @@
 | 20220622T11:08:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 610 | 104| 
 | 20220622T04:34:54Z | DSE with LLVM and Z3 that automatically generates inputs to efficiently explore different program paths for C programs. | https://github.com/malathy-nagalakshmi/Dynamic-Symbolic-Execution | 0 | 0| 
 | 20220621T16:05:17Z | A system for exploring different symbolic execution memory model designs | https://github.com/GaloisInc/memory-model-test-harness | 0 | 0| 
+| 20220621T12:20:47Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 71 | 15| 
 | 20220621T10:07:27Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 28 | 14| 
-| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 2| 
 
 
 # big4 on Github 推荐
