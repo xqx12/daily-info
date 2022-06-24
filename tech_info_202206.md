@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220624T01:02:41Z | CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | | 
+| 20220624T01:04:36Z | CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | | 
 | 20220623T19:28:41Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
 | 20220623T18:38:47Z | CVE-2022-23222 | Null | https://github.com/PenteraIO/CVE-2022-23222-POC | | 
 | 20220623T15:08:09Z | CVE-2021-39409 | Admin account registration in Online Student Rate System | https://github.com/StefanDorresteijn/CVE-2021-39409 | | 
