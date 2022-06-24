@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T00:58:37Z | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | 0 | 0| 
 | 20220623T23:50:35Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN1 | 0 | 0| 
 | 20220623T23:49:45Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN1 | 0 | 0| 
 | 20220623T23:48:46Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1 | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20220623T20:42:34Z | Exploits for HEVD driver | https://github.com/Daniel0xcc/hevdSolutions | 0 | 0| 
 | 20220623T19:08:47Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20220623T14:50:06Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 122 | 28| 
-| 20220623T12:47:52Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 121 | 19| 
 
 
 # backdoor on Github 推荐
