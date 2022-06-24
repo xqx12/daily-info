@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220624 | Sigma - 用于 SIEM 系统通用地描述事件日志的开放格式 | https://github.com/SigmaHQ/sigma| 
+| 20220624 | Embedding Payloads and Bypassing Controls in Microsoft InfoPath | https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/| 
+| 20220624 | Attacking the Performance of Machine Learning Systems | http://www.schneier.com/blog/archives/2022/06/attacking-the-performance-of-machine-learning-systems.html| 
+| 20220624 | Hayabusa - 基于 Windows Event Log 的快速取证 Timeline 分析工具 | https://github.com/Yamato-Security/hayabusa| 
+| 20220624 | Evil Never Sleeps，iPhone 关机后仍然在运行的恶意代码（Paper） | https://arxiv.org/pdf/2205.06114.pdf| 
+| 20220624 | interruptor - 对 Frida Stalker 封装，提供更加易用的 Hook 库 | https://github.com/FrenchYeti/interruptor| 
+| 20220624 | 利用 RTF 文档嵌入 Follina CVE-2022-30190 Exploit | https://cymulate.com/blog/cve-2022-30190-2/| 
+| 20220624 | Project Zero 对 iOS CVE-2021-30983 野外利用样本及漏洞利用过程的分析 | https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html| 
 | 20220623 | 高通 kgsl 驱动 UAF 漏洞的分析（CVE-2022-22057） | https://securitylab.github.com/advisories/GHSL-2022-037_msm_kernel/| 
 | 20220623 | 区块链安全攻击、漏洞事件的分析和重现 | https://github.com/Rivaill/CryptoVulhub| 
 | 20220623 | Proofpoint 发布 2022 社会工程学趋势和关键事件安全研究报告 | https://www.proofpoint.com/us/blog/threat-insight/how-threat-actors-hijack-attention-2022-social-engineering-report| 
@@ -18,51 +26,44 @@
 | 20220623 | CVE-2022-23222漏洞及利用分析 | http://tttang.com/archive/1628/| 
 | 20220622 | Trailofbits 对区块链的去中心化机制和现状的安全研究 | http://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/| 
 | 20220622 | floss - mandiant 开源的用于从恶意软件中提取反混淆字符串的工具 | https://github.com/mandiant/flare-floss| 
-| 20220622 | 卡巴斯基对 APT ToddyCat 的分析 | https://securelist.com/toddycat/106799/| 
-| 20220622 | 利用云环境运行时安全开源工具 Falco 检测容器 Capabilities 逃逸行为 | https://sysdig.com/blog/container-escape-capabilities-falco-detection/| 
-| 20220622 | 探寻 Java 文件上传流量层面 waf 绕过姿势系列二 | https://y4tacker.github.io/2022/06/21/year/2022/6/%E6%8E%A2%E5%AF%BBJava%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%B5%81%E9%87%8F%E5%B1%82%E9%9D%A2waf%E7%BB%95%E8%BF%87%E5%A7%BF%E5%8A%BF%E7%B3%BB%E5%88%97%E4%BA%8C/#%E5%8F%98%E5%BD%A2%E4%B9%8B%E5%8F%8C%E5%86%99filename-%E4%B8%8Efilename| 
-| 20220622 | Area41 2022 会议关于 ATM 机黑盒攻击的一个演讲 | https://github.com/fboldewin/Subverting-ProBase-security-for-fun-and-profit---A-sophisticated-ATM-blackboxing-case| 
-| 20220622 | Golang 1.19 版本在 Fuzzing 支持方面的一些改进 | https://www.code-intelligence.com/blog/fuzzing-golang-1.19| 
-| 20220622 | MS Teams 通信协议分析及消息劫持 | https://blacklabsdev.medium.com/intercepting-ms-team-communication-and-how-to-pipe-it-to-elasticsearch-ebbf51d09f4c| 
-| 20220621 | 利用 Branch History Injection 技术绕过 CPU Spectre-v2 的缓解措施 | http://cfp.recon.cx/media/2022/submissions/VCAHEN/resources/A_Dirty_Little_History_-_REcon_slides_XVQ6JDW.pdf| 
-| 20220621 | 利用蓝牙中间人 MitM 攻击特斯拉无钥匙系统，来自 Recon | http://cfp.recon.cx/media/2022/submissions/NMXBUN/resources/20220604_tempa_presentation_recon22_public_luZ5fqg.pdf| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220624 | 安全团队的演进及个人定位思考 | https://mp.weixin.qq.com/s/lLawi2Dv_d3xPR2Rds9U3g| 
+| 20220624 | 网络空间战场环境测绘初探 | https://mp.weixin.qq.com/s/pPiDstfxIgCwPmjiX4_-5Q| 
+| 20220624 | 复盘卫星大战 Hack-A-Sat 2 天基攻防竞赛 | https://mp.weixin.qq.com/s/GvXa8X1o83HCJkMIvTcK8A| 
+| 20220624 | 复盘卫星大战 Hack-A-Sat 1 天基攻防竞赛 | https://mp.weixin.qq.com/s/HWLVfByhpnmIaRYugWfQ6Q| 
 | 20220622 | 测量哈萨克斯坦对 HTTPS 的大规模拦截 | https://mp.weixin.qq.com/s/FkRsfS0EQ9ouncoZFbWUSQ| 
 | 20220622 | MITRE 供应链安全可信系统技术框架（SoT™） | https://mp.weixin.qq.com/s/b9GgiUJ4-UTv_YaP79aTPw| 
 | 20220622 | ysuserial：Java 反序列化漏洞利用工具 | https://mp.weixin.qq.com/s/05LOjys8XJhUxg8qKYuWtg| 
 | 20220622 | 当 XM 12 遇到 eBPF | https://mp.weixin.qq.com/s/h_ixxr1WZ8VqYt-zMrwSDA| 
 | 20220622 | 2022车联网数据安全监管研究报告 | https://mp.weixin.qq.com/s/CaWLiMWO_fhbLWt3DVMXbA| 
 | 20220622 | 电信网络诈骗黑灰产生态概览：基础设施 | https://mp.weixin.qq.com/s/N7ChFTCsDzfgQkL6J0ALow| 
-| 20220620 | SecWiki周刊（第433期) | https://www.sec-wiki.com/weekly/433| 
-| 20220619 | 对安全网闸产品初探 | https://www.coco413.com/archives/129/| 
-| 20220619 | 我的知识管理方式 | https://www.coco413.com/archives/134/| 
-| 20220619 | 一篇论文如何摧毁比特币的匿名性 | https://www.solidot.org/story?sid=71791| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220624T12:00:19Z | CVE-2021-3156 | CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit) | https://github.com/arvindshima/CVE-2021-3156 | | 
+| 20220624T11:21:04Z | CVE-2022-26134 | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | | 
+| 20220624T07:09:56Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | | 
+| 20220624T06:13:21Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
+| 20220624T02:22:22Z | CVE-2020-3580 | Cisco ASA XSS CVE-2020-3580 | https://github.com/cruxN3T/CVE-2020-3580 | | 
+| 20220624T02:03:42Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
 | 20220624T01:04:36Z | CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | | 
-| 20220623T19:28:41Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
 | 20220623T18:38:47Z | CVE-2022-23222 | Null | https://github.com/PenteraIO/CVE-2022-23222-POC | | 
 | 20220623T15:08:09Z | CVE-2021-39409 | Admin account registration in Online Student Rate System | https://github.com/StefanDorresteijn/CVE-2021-39409 | | 
 | 20220623T15:06:29Z | CVE-2021-39408 | XSS vulnerability in Online Student Rate System1.0 | https://github.com/StefanDorresteijn/CVE-2021-39408 | | 
-| 20220623T14:34:35Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
-| 20220623T13:30:04Z | cve-2022-22980 | CVE-2022-22980 exp demo可作为扫描器靶场 | https://github.com/jweny/cve-2022-22980-exp | | 
-| 20220623T09:50:38Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | | 
-| 20220623T01:37:45Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
-| 20220622T12:31:24Z | CVE-2022-9673 | CVE-2022-9673 | https://github.com/CVE-2099-2222/CVE-2022-9673 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T06:50:05Z | Anya mousecape;阿尼亚mousecape;Klee可莉mousecape;Kal%tsit凯尔希mousecape... | https://github.com/Uyukisan/mousecape-Anya | 0 | 0| 
+| 20220624T03:07:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1992 | 567| 
 | 20220623T23:00:31Z | Null | https://github.com/jpdesuasido/unity-kleeadventures | 0 | 0| 
-| 20220623T11:54:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1991 | 568| 
 | 20220623T07:22:04Z | Null | https://github.com/segre5458/KleeNotifier | 0 | 0| 
 | 20220622T11:49:10Z | Upload and comment paintings by Paul Klee. | https://github.com/YuliaGrineva/ImageBoard | 0 | 0| 
 | 20220622T11:35:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7005 | 248| 
@@ -70,12 +71,13 @@
 | 20220621T15:23:31Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
 | 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 2| 
 | 20220620T11:46:32Z | Null | https://github.com/oudongkun/klee-rpc-framework | 0 | 0| 
-| 20220620T07:11:29Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T09:51:31Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 19 | 3| 
+| 20220624T09:50:25Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 5 | 3| 
 | 20220621T11:56:55Z | Null | https://github.com/LasseBuchAspIT/s2Eksamen | 0 | 0| 
 | 20220620T18:32:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 230 | 56| 
 | 20220613T03:26:30Z | Null | https://github.com/Marvin-Aguirre/S2Examen | 0 | 0| 
@@ -84,22 +86,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T11:31:21Z | Null | https://github.com/trewisscotch/HTA-EXPLOIT | 1 | 0| 
+| 20220624T11:22:46Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 63 | 15| 
+| 20220624T11:21:04Z | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | 1 | 0| 
+| 20220624T11:06:12Z | Null | https://github.com/trewisscotch/SLIENT-DOC | 1 | 0| 
+| 20220624T10:45:58Z | Null | https://github.com/trewisscotch/JPG-PNG-EXPLOIT | 1 | 0| 
+| 20220624T10:38:11Z | Login Verification Bypass Exploit C++,C,C# | https://github.com/trewisscotch/Exodus-Stealer | 1 | 0| 
+| 20220624T08:42:07Z | Star Client is a free to use utility client available to all. The client does not contain any cheats or exploits and can be used freely. | https://github.com/StarClientDev/Star-Client | 0 | 0| 
+| 20220624T07:58:02Z | Null | https://github.com/Piplureez/Exploits | 0 | 0| 
+| 20220624T07:10:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3198 | 497| 
 | 20220624T01:20:40Z | M2I is a simple but effective joint motion prediction framework through marginal and conditional predictions by exploiting the factorized relations between interacting agents. | https://github.com/Tsinghua-MARS-Lab/M2I | 59 | 5| 
-| 20220624T01:04:36Z | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | 1 | 0| 
-| 20220623T23:50:35Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN1 | 0 | 0| 
-| 20220623T23:49:45Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN1 | 0 | 0| 
-| 20220623T23:48:46Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1 | 0 | 0| 
-| 20220623T22:56:24Z | Multiple game hacks to use so the game become easier to play! | https://github.com/glixxzzy/blooket-hack | 228 | 972| 
-| 20220623T22:01:20Z | Corruption: Bedrock Edition without private exploits included | https://github.com/unresolvedsymbol/corruption-bedrock-oss | 4 | 0| 
-| 20220623T21:53:18Z | Null | https://github.com/stickman-dev/exploit-hub | 0 | 0| 
-| 20220623T20:42:34Z | Exploits for HEVD driver | https://github.com/Daniel0xcc/hevdSolutions | 0 | 0| 
-| 20220623T19:08:47Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220624T01:48:38Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 513 | 94| 
+| 20220624T11:18:34Z | BEST SOLANA DRAINER NO BACKDOOR CODE | https://github.com/0x32Moons/Best-Solana-Drainer | 0 | 0| 
+| 20220624T09:00:05Z | Null | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 2 | 0| 
+| 20220624T01:48:38Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 513 | 95| 
 | 20220624T00:53:46Z | Very Lightweight Backdoor and Keylogger Utility. | https://github.com/defopticon/C-Backdoor | 0 | 0| 
 | 20220623T23:50:45Z | Null | https://github.com/mahzaraz/Backdoor | 0 | 0| 
 | 20220623T22:16:55Z | Backdoor made with python, django, sqlite (WIP) | https://github.com/ArmenG888/PyBD | 1 | 0| 
@@ -107,8 +111,6 @@
 | 20220623T09:58:10Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 100 | 27| 
 | 20220623T01:54:51Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 4 | 0| 
 | 20220623T01:21:50Z | BITRAT \ BIT RAT Best RAT Tool Hacking BAckdoor Cracked Source Src Code By DEPLAYED LOL | https://github.com/DeplayBack/BITRAT-Source-Code | 0 | 0| 
-| 20220622T23:23:19Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 32 | 4| 
-| 20220622T20:37:08Z | Null | https://github.com/SCLBD/BackdoorBench | 19 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -139,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T11:36:54Z | Null | https://github.com/mikedotJS/fuzzy-succotash | 0 | 0| 
+| 20220624T11:27:43Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 17 | 1| 
+| 20220624T11:09:01Z | C++ Static Library for File Searching | https://github.com/general-hubwalker/fuzzy-waffle | 0 | 0| 
+| 20220624T09:54:32Z | Null | https://github.com/josefineschaefer/fuzzy-garbanzo | 0 | 0| 
+| 20220624T08:20:32Z | Null | https://github.com/jyotidabass/Fuzzy-c-means-clustering-tongue | 1 | 0| 
+| 20220624T07:24:44Z | Null | https://github.com/FuzziesNFT/FuzziesNFT.github.io | 0 | 0| 
+| 20220624T06:42:10Z | Null | https://github.com/Databazator/fuzzy-octo-giggle | 0 | 0| 
+| 20220624T02:44:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4206 | 1003| 
 | 20220624T00:19:42Z | Fuzz Introspector | https://github.com/ossf/fuzz-introspector | 164 | 20| 
 | 20220623T22:59:36Z | How can i to be real hacker? | https://github.com/5angjun/my_fuzzing_practice | 0 | 0| 
-| 20220623T22:39:24Z | PHP library that Implements the Fuzzy Comprehensive Evaluation method to assist you in the conclusion of qualitative assessment. | https://github.com/sensasi-delight/fuzzy-ce-php | 0 | 0| 
-| 20220623T21:10:50Z | Null | https://github.com/matthew0072-design/fuzzy-octo-spoon | 0 | 0| 
-| 20220623T19:55:25Z | Testing library fuzzywuzzy to clean data | https://github.com/lincolnsotto/library_fuzzywuzzy | 0 | 0| 
-| 20220623T19:18:24Z | Null | https://github.com/jeffkaufman/fuzzy_highlighter | 0 | 0| 
-| 20220623T18:26:58Z | The project is a Foundry Workshop conducted by https://twitter.com/spearbitDAO on how to use Foundry to write test cases and fuzzzing the smart contracts. | https://github.com/zzzuhaibmohd/foundry_test_flash_loan | 0 | 0| 
-| 20220623T18:22:33Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 20 | 13| 
-| 20220623T12:36:21Z | Null | https://github.com/Kermayde/Fuzzy-logic-code | 0 | 0| 
-| 20220623T12:12:07Z | Null | https://github.com/RadwaMahmoud94/Fuzzy-toolbox | 0 | 0| 
 
 
 
