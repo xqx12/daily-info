@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T12:01:27Z | Remote Code Execution vulnerability in EdgeDB remote compiler pool server feature | https://github.com/ehtec/edgedb-exploit | 0 | 0| 
 | 20220625T11:33:10Z | Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551. | https://github.com/tijme/kernel-mii | 0 | 1| 
 | 20220625T10:45:22Z | picoCTF 2022 Buffer Overflow 1 Binary Exploitation | https://github.com/Sagar075/picoCTF_bufferoverflow1 | 1 | 0| 
 | 20220625T09:53:52Z | Appunti dedicati allo studio della Sicurezza Informatica | https://github.com/LorenzoVaccher01/cybersecurity | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220625T01:54:00Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 182 | 22| 
 | 20220625T01:52:29Z | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | 0 | 0| 
 | 20220625T00:12:10Z | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Atlas-Wizard101 | 0 | 0| 
-| 20220624T23:59:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11641 | 2005| 
 
 
 # backdoor on Github 推荐
@@ -117,10 +117,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220624T16:07:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2935 | 419| 
+| 20220625T11:53:32Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2937 | 419| 
+| 20220625T03:47:00Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 444 | 26| 
 | 20220624T10:40:30Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 21 | 5| 
 | 20220624T08:37:19Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 250 | 17| 
-| 20220624T07:35:35Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 445 | 26| 
 | 20220624T03:07:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1992 | 567| 
 | 20220623T11:41:08Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 10 | 0| 
 | 20220622T11:08:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 610 | 104| 
