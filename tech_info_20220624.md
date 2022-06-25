@@ -56,7 +56,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220624T23:59:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11641 | 2005| 
-| 20220624T23:51:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 180 | 22| 
 | 20220624T23:41:03Z | exploit scripts | https://github.com/DL25555/Project-Pokemon-Scripts | 0 | 0| 
 | 20220624T23:40:13Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.- | 0 | 0| 
 | 20220624T23:39:08Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.- | 0 | 0| 
@@ -65,6 +64,7 @@
 | 20220624T22:16:52Z | Finding arbitrage opportunities in foreign exchange rates by finding negative weight cycles. | https://github.com/JeromeHadorn/Forex-Exploit | 1 | 4| 
 | 20220624T20:42:56Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 0| 
 | 20220624T19:43:39Z | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | 12 | 1| 
+| 20220624T12:38:35Z | Null | https://github.com/trewisscotch/HTA-EXPLOIT | 2 | 0| 
 
 
 # backdoor on Github 推荐
