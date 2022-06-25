@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220625T00:10:34Z | Stopping a tank in front of an obstacle with fuzzy logic. | https://github.com/klima7/Fuzzy-tank | 0 | 0| 
+| 20220625T00:29:39Z | Stopping a tank in front of an obstacle with fuzzy logic. | https://github.com/klima7/Fuzzy-tank | 0 | 0| 
 | 20220624T23:57:49Z | Estimating required throwing speed with fuzzy logic. | https://github.com/klima7/Fuzzy-throw | 0 | 0| 
 | 20220624T23:41:23Z | Perpendicular and parallel car parking with fuzzy logic and Coppelia Sim. | https://github.com/klima7/Fuzzy-Park | 0 | 0| 
 | 20220624T22:26:48Z | Null | https://github.com/anicolellis/NumericalStabilityFuzzing | 0 | 0| 
