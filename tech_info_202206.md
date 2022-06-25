@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T01:54:00Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 182 | 22| 
 | 20220625T01:52:29Z | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | 0 | 0| 
-| 20220625T00:37:53Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 181 | 22| 
 | 20220625T00:12:10Z | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Atlas-Wizard101 | 0 | 0| 
 | 20220624T23:59:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11641 | 2005| 
 | 20220624T23:41:03Z | exploit scripts | https://github.com/DL25555/Project-Pokemon-Scripts | 0 | 0| 
