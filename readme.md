@@ -62,9 +62,9 @@
 | 20220624T23:39:08Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.- | 0 | 0| 
 | 20220624T23:38:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.- | 0 | 0| 
 | 20220624T23:35:12Z | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | 0 | 0| 
-| 20220624T22:56:13Z | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Atlas-Wizard101 | 0 | 0| 
 | 20220624T22:16:52Z | Finding arbitrage opportunities in foreign exchange rates by finding negative weight cycles. | https://github.com/JeromeHadorn/Forex-Exploit | 1 | 4| 
 | 20220624T20:42:56Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 0| 
+| 20220624T19:43:39Z | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | 12 | 1| 
 
 
 # backdoor on Github 推荐
