@@ -28,8 +28,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220624T13:25:39Z | CVE-2021-34527 | Null | https://github.com/cyb3rpeace/CVE-2021-34527 | | 
+| 20220624T13:05:03Z | CVE-2022-26134 | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | | 
 | 20220624T12:00:19Z | CVE-2021-3156 | CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit) | https://github.com/arvindshima/CVE-2021-3156 | | 
-| 20220624T11:21:04Z | CVE-2022-26134 | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | | 
 | 20220624T07:09:56Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | | 
 | 20220624T06:13:21Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
 | 20220624T02:22:22Z | CVE-2020-3580 | Cisco ASA XSS CVE-2020-3580 | https://github.com/cruxN3T/CVE-2020-3580 | | 
@@ -54,21 +55,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220624T12:38:35Z | Null | https://github.com/trewisscotch/HTA-EXPLOIT | 2 | 0| 
-| 20220624T12:31:31Z | Cross-site Scripting - Learn how to detect and exploit XSS vulnerabilities, giving you control of other visitor%s browsers. | https://github.com/r1skkam/TryHackMe-Cross-site-Scripting | 0 | 0| 
-| 20220624T12:27:20Z | Software Transactional Memory that uses a Multi-versioned scheme, while exploiting some of the unique features of the architecure of GPUs | https://github.com/DMRNunes/csmv-gpu-stm | 0 | 0| 
-| 20220624T12:15:19Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | 0 | 0| 
-| 20220624T12:14:28Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN- | 0 | 0| 
-| 20220624T12:13:37Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN- | 0 | 0| 
-| 20220624T11:22:46Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 63 | 15| 
-| 20220624T11:21:04Z | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | 1 | 0| 
-| 20220624T11:06:12Z | Null | https://github.com/trewisscotch/SLIENT-DOC | 1 | 0| 
-| 20220624T10:45:58Z | Null | https://github.com/trewisscotch/JPG-PNG-EXPLOIT | 1 | 0| 
+| 20220624T23:59:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11641 | 2005| 
+| 20220624T23:51:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 180 | 22| 
+| 20220624T23:41:03Z | exploit scripts | https://github.com/DL25555/Project-Pokemon-Scripts | 0 | 0| 
+| 20220624T23:40:13Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.- | 0 | 0| 
+| 20220624T23:39:08Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.- | 0 | 0| 
+| 20220624T23:38:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.- | 0 | 0| 
+| 20220624T23:35:12Z | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | 0 | 0| 
+| 20220624T22:56:13Z | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Atlas-Wizard101 | 0 | 0| 
+| 20220624T22:16:52Z | Finding arbitrage opportunities in foreign exchange rates by finding negative weight cycles. | https://github.com/JeromeHadorn/Forex-Exploit | 1 | 4| 
+| 20220624T20:42:56Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220624T21:22:11Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
+| 20220624T16:53:29Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 33 | 4| 
 | 20220624T11:18:34Z | BEST SOLANA DRAINER NO BACKDOOR CODE | https://github.com/0x32Moons/Best-Solana-Drainer | 0 | 0| 
 | 20220624T09:00:05Z | Null | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 2 | 0| 
 | 20220624T01:48:38Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 513 | 95| 
@@ -93,16 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220624T12:58:21Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4206 | 1003| 
-| 20220624T12:13:05Z | A cryptographic Rust fuzzer | https://github.com/david-pellissier/cryptofuzzr | 0 | 0| 
-| 20220624T11:36:54Z | Null | https://github.com/mikedotJS/fuzzy-succotash | 0 | 0| 
-| 20220624T11:27:43Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 17 | 1| 
-| 20220624T11:09:01Z | C++ Static Library for File Searching | https://github.com/general-hubwalker/fuzzy-waffle | 0 | 0| 
-| 20220624T09:54:32Z | Null | https://github.com/josefineschaefer/fuzzy-garbanzo | 0 | 0| 
-| 20220624T08:20:32Z | Null | https://github.com/jyotidabass/Fuzzy-c-means-clustering-tongue | 1 | 0| 
-| 20220624T07:24:44Z | Null | https://github.com/FuzziesNFT/FuzziesNFT.github.io | 0 | 0| 
-| 20220624T06:42:10Z | Null | https://github.com/Databazator/fuzzy-octo-giggle | 0 | 0| 
-| 20220624T05:17:42Z | Fuzzware%s main repository. Start here to install. | https://github.com/fuzzware-fuzzer/fuzzware | 127 | 31| 
+| 20220624T23:41:23Z | Perpendicular and parallel car parking with fuzzy logic and Coppelia Sim. | https://github.com/klima7/Fuzzy-Park | 0 | 0| 
+| 20220624T22:26:48Z | Null | https://github.com/anicolellis/NumericalStabilityFuzzing | 0 | 0| 
+| 20220624T22:25:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 39761 | 20278| 
+| 20220624T21:54:58Z | Basic URL Fuzzer | https://github.com/ultros/fuzzer | 0 | 0| 
+| 20220624T21:24:13Z | Null | https://github.com/iamyigitarslan/Predict_Diabetes_FuzzyLogic | 0 | 0| 
+| 20220624T21:03:15Z | Poor mans fuzzy finder in dlang. If you want the real deal go to https://github.com/junegunn/fzf. | https://github.com/gizmomogwai/fuzzed | 0 | 0| 
+| 20220624T21:01:21Z | This project contains efforts made to complete an assignment issued during the zuri internship | https://github.com/Ddilibe/fuzzy-disco | 0 | 0| 
+| 20220624T20:45:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7533 | 1613| 
+| 20220624T18:38:39Z | Null | https://github.com/lucky99ethan/fuzzy-octo-potato | 0 | 0| 
+| 20220624T18:25:15Z | Source Code for our paper titled: Fuzz-ClustNet: Coupled Fuzzy Clustering and Deep Neural Networks for Arrhythmia Detection from ECG Signals | https://github.com/Abhishekmallik/Fuzz-ClustNet | 0 | 0| 
 
 
 
