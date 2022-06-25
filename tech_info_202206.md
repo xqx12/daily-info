@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T01:52:29Z | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | 0 | 0| 
 | 20220625T00:37:53Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 181 | 22| 
 | 20220625T00:12:10Z | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Atlas-Wizard101 | 0 | 0| 
 | 20220624T23:59:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11641 | 2005| 
@@ -93,7 +94,6 @@
 | 20220624T23:40:13Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.- | 0 | 0| 
 | 20220624T23:39:08Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.- | 0 | 0| 
 | 20220624T23:38:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.- | 0 | 0| 
-| 20220624T23:35:12Z | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | 0 | 0| 
 | 20220624T22:16:52Z | Finding arbitrage opportunities in foreign exchange rates by finding negative weight cycles. | https://github.com/JeromeHadorn/Forex-Exploit | 1 | 4| 
 | 20220624T20:42:56Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 0| 
 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T01:21:36Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/Montycarlo/jwtfuzz | 1 | 0| 
 | 20220625T01:17:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 39762 | 20279| 
 | 20220625T00:29:39Z | Stopping a tank in front of an obstacle with fuzzy logic. | https://github.com/klima7/Fuzzy-tank | 0 | 0| 
 | 20220624T23:57:49Z | Estimating required throwing speed with fuzzy logic. | https://github.com/klima7/Fuzzy-throw | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220624T21:24:13Z | Null | https://github.com/iamyigitarslan/Predict_Diabetes_FuzzyLogic | 0 | 0| 
 | 20220624T21:03:15Z | Poor mans fuzzy finder in dlang. If you want the real deal go to https://github.com/junegunn/fzf. | https://github.com/gizmomogwai/fuzzed | 0 | 0| 
 | 20220624T21:01:21Z | This project contains efforts made to complete an assignment issued during the zuri internship | https://github.com/Ddilibe/fuzzy-disco | 0 | 0| 
-| 20220624T20:45:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7533 | 1613| 
 
 
 
