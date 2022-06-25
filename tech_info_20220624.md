@@ -63,8 +63,8 @@
 | 20220624T23:35:12Z | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | 0 | 0| 
 | 20220624T22:16:52Z | Finding arbitrage opportunities in foreign exchange rates by finding negative weight cycles. | https://github.com/JeromeHadorn/Forex-Exploit | 1 | 4| 
 | 20220624T20:42:56Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 0| 
+| 20220624T20:30:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 42 | 21| 
 | 20220624T19:43:39Z | Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses. | https://github.com/ComuGamersES/sentey | 12 | 1| 
-| 20220624T12:38:35Z | Null | https://github.com/trewisscotch/HTA-EXPLOIT | 2 | 0| 
 
 
 # backdoor on Github 推荐
