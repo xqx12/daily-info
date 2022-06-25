@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220625T07:29:19Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/Cve-2022-30136-RCE | | 
+| 20220625T06:26:36Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
+| 20220625T05:56:51Z | CVE-2022-34305 | Null | https://github.com/zeroc00I/CVE-2022-34305 | | 
 | 20220624T13:25:39Z | CVE-2021-34527 | Null | https://github.com/cyb3rpeace/CVE-2021-34527 | | 
 | 20220624T13:05:03Z | CVE-2022-26134 | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | | 
 | 20220624T12:00:19Z | CVE-2021-3156 | CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit) | https://github.com/arvindshima/CVE-2021-3156 | | 
@@ -53,14 +56,12 @@
 | 20220624T06:13:21Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
 | 20220624T02:22:22Z | CVE-2020-3580 | Cisco ASA XSS CVE-2020-3580 | https://github.com/cruxN3T/CVE-2020-3580 | | 
 | 20220624T02:03:42Z | CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | | 
-| 20220624T01:04:36Z | CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | | 
-| 20220623T18:38:47Z | CVE-2022-23222 | Null | https://github.com/PenteraIO/CVE-2022-23222-POC | | 
-| 20220623T15:08:09Z | CVE-2021-39409 | Admin account registration in Online Student Rate System | https://github.com/StefanDorresteijn/CVE-2021-39409 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T09:49:35Z | Config files for my GitHub profile. | https://github.com/klee1001/klee1001 | 0 | 0| 
 | 20220625T01:26:59Z | Personal Portfolio Website | https://github.com/collinkleest/kleest.io | 0 | 0| 
 | 20220624T06:50:05Z | Anya mousecape;阿尼亚mousecape;Klee可莉mousecape;Kal%tsit凯尔希mousecape... | https://github.com/Uyukisan/mousecape-Anya | 0 | 0| 
 | 20220624T03:07:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1992 | 567| 
@@ -70,12 +71,12 @@
 | 20220622T11:35:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7005 | 248| 
 | 20220621T19:21:43Z | Source universe for: kleebaum | https://github.com/r-universe/kleebaum | 0 | 0| 
 | 20220621T15:23:31Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 0 | 0| 
-| 20220621T01:47:14Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl-sstf/dd-klee | 0 | 2| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T03:46:59Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 50 | 5| 
 | 20220624T09:51:31Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 19 | 3| 
 | 20220624T09:50:25Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 5 | 3| 
 | 20220621T11:56:55Z | Null | https://github.com/LasseBuchAspIT/s2Eksamen | 0 | 0| 
@@ -86,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T11:33:10Z | Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551. | https://github.com/tijme/kernel-mii | 0 | 1| 
+| 20220625T10:45:22Z | picoCTF 2022 Buffer Overflow 1 Binary Exploitation | https://github.com/Sagar075/picoCTF_bufferoverflow1 | 1 | 0| 
+| 20220625T09:53:52Z | Appunti dedicati allo studio della Sicurezza Informatica | https://github.com/LorenzoVaccher01/cybersecurity | 0 | 0| 
+| 20220625T09:10:08Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 1 | 0| 
+| 20220625T05:38:54Z | Open-Source exploit for roblox (Lua Executor) | https://github.com/DevXternal/CryT | 0 | 0| 
+| 20220625T04:47:45Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 85 | 13| 
 | 20220625T01:54:00Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 182 | 22| 
 | 20220625T01:52:29Z | An offensive security tool which automates an engagement as far as possible, including scanning, enumeration, and exploitation. | https://github.com/xts-sec/leviathan | 0 | 0| 
 | 20220625T00:12:10Z | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Atlas-Wizard101 | 0 | 0| 
 | 20220624T23:59:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11641 | 2005| 
-| 20220624T23:41:03Z | exploit scripts | https://github.com/DL25555/Project-Pokemon-Scripts | 0 | 0| 
-| 20220624T23:40:13Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.- | 0 | 0| 
-| 20220624T23:39:08Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.- | 0 | 0| 
-| 20220624T23:38:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.- | 0 | 0| 
-| 20220624T22:16:52Z | Finding arbitrage opportunities in foreign exchange rates by finding negative weight cycles. | https://github.com/JeromeHadorn/Forex-Exploit | 1 | 4| 
-| 20220624T20:42:56Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T11:28:22Z | 🔐 PHP / ASP - Shell Backdoor List 🔐 | https://github.com/GalaxyXploiter/shell-Backdor | 1 | 0| 
+| 20220625T08:18:54Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 101 | 27| 
+| 20220625T04:44:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1670 | 396| 
+| 20220625T03:44:40Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 512 | 95| 
+| 20220625T02:55:01Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 24 | 5| 
+| 20220625T02:41:29Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 74 | 29| 
 | 20220624T21:22:11Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
 | 20220624T16:53:29Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 33 | 4| 
 | 20220624T11:18:34Z | BEST SOLANA DRAINER NO BACKDOOR CODE | https://github.com/0x32Moons/Best-Solana-Drainer | 0 | 0| 
 | 20220624T09:00:05Z | Null | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 2 | 0| 
-| 20220624T01:48:38Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 513 | 95| 
-| 20220624T00:53:46Z | Very Lightweight Backdoor and Keylogger Utility. | https://github.com/defopticon/C-Backdoor | 0 | 0| 
-| 20220623T23:50:45Z | Null | https://github.com/mahzaraz/Backdoor | 0 | 0| 
-| 20220623T22:16:55Z | Backdoor made with python, django, sqlite (WIP) | https://github.com/ArmenG888/PyBD | 1 | 0| 
-| 20220623T10:10:42Z | Script para encontrar procesos activos en la máquina backdoor de hack the box, usando Local File Inclusion | https://github.com/S3K0NDZ/ProcFinder-Backdoor-machine-HTB | 0 | 0| 
-| 20220623T09:58:10Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 100 | 27| 
 
 
 # symbolic execution on Github 推荐
@@ -141,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220625T01:21:36Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/Montycarlo/jwtfuzz | 1 | 0| 
+| 20220625T11:57:17Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 27 | 2| 
+| 20220625T10:06:51Z | Sistem Pengambil Keputusan pada P.T. Askha Jaya Bandar Lampung | https://github.com/Ajulll22/Fuzzy-Ahp-CodeIgniter4 | 0 | 0| 
+| 20220625T08:10:17Z | Null | https://github.com/cdbcwy7/fuzzy-umbrella | 0 | 0| 
+| 20220625T07:59:15Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/Montycarlo/jwtfuzz | 1 | 0| 
+| 20220625T04:32:17Z | Null | https://github.com/l0s/fernet-fuzz-java | 0 | 0| 
 | 20220625T01:17:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 39762 | 20279| 
 | 20220625T00:29:39Z | Stopping a tank in front of an obstacle with fuzzy logic. | https://github.com/klima7/Fuzzy-tank | 0 | 0| 
 | 20220624T23:57:49Z | Estimating required throwing speed with fuzzy logic. | https://github.com/klima7/Fuzzy-throw | 0 | 0| 
 | 20220624T23:41:23Z | Perpendicular and parallel car parking with fuzzy logic and Coppelia Sim. | https://github.com/klima7/Fuzzy-Park | 0 | 0| 
 | 20220624T22:26:48Z | Null | https://github.com/anicolellis/NumericalStabilityFuzzing | 0 | 0| 
-| 20220624T21:54:58Z | Basic URL Fuzzer | https://github.com/ultros/fuzzer | 0 | 0| 
-| 20220624T21:24:13Z | Null | https://github.com/iamyigitarslan/Predict_Diabetes_FuzzyLogic | 0 | 0| 
-| 20220624T21:03:15Z | Poor mans fuzzy finder in dlang. If you want the real deal go to https://github.com/junegunn/fzf. | https://github.com/gizmomogwai/fuzzed | 0 | 0| 
-| 20220624T21:01:21Z | This project contains efforts made to complete an assignment issued during the zuri internship | https://github.com/Ddilibe/fuzzy-disco | 0 | 0| 
 
 
 
