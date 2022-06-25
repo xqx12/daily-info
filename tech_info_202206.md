@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T00:10:34Z | Stopping a tank in front of an obstacle with fuzzy logic. | https://github.com/klima7/Fuzzy-tank | 0 | 0| 
 | 20220624T23:57:49Z | Estimating required throwing speed with fuzzy logic. | https://github.com/klima7/Fuzzy-throw | 0 | 0| 
 | 20220624T23:41:23Z | Perpendicular and parallel car parking with fuzzy logic and Coppelia Sim. | https://github.com/klima7/Fuzzy-Park | 0 | 0| 
 | 20220624T22:26:48Z | Null | https://github.com/anicolellis/NumericalStabilityFuzzing | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220624T21:03:15Z | Poor mans fuzzy finder in dlang. If you want the real deal go to https://github.com/junegunn/fzf. | https://github.com/gizmomogwai/fuzzed | 0 | 0| 
 | 20220624T21:01:21Z | This project contains efforts made to complete an assignment issued during the zuri internship | https://github.com/Ddilibe/fuzzy-disco | 0 | 0| 
 | 20220624T20:45:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7533 | 1613| 
-| 20220624T18:38:39Z | Null | https://github.com/lucky99ethan/fuzzy-octo-potato | 0 | 0| 
 
 
 
