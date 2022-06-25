@@ -141,11 +141,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T01:17:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 39762 | 20279| 
 | 20220625T00:29:39Z | Stopping a tank in front of an obstacle with fuzzy logic. | https://github.com/klima7/Fuzzy-tank | 0 | 0| 
 | 20220624T23:57:49Z | Estimating required throwing speed with fuzzy logic. | https://github.com/klima7/Fuzzy-throw | 0 | 0| 
 | 20220624T23:41:23Z | Perpendicular and parallel car parking with fuzzy logic and Coppelia Sim. | https://github.com/klima7/Fuzzy-Park | 0 | 0| 
 | 20220624T22:26:48Z | Null | https://github.com/anicolellis/NumericalStabilityFuzzing | 0 | 0| 
-| 20220624T22:25:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 39761 | 20278| 
 | 20220624T21:54:58Z | Basic URL Fuzzer | https://github.com/ultros/fuzzer | 0 | 0| 
 | 20220624T21:24:13Z | Null | https://github.com/iamyigitarslan/Predict_Diabetes_FuzzyLogic | 0 | 0| 
 | 20220624T21:03:15Z | Poor mans fuzzy finder in dlang. If you want the real deal go to https://github.com/junegunn/fzf. | https://github.com/gizmomogwai/fuzzed | 0 | 0| 
