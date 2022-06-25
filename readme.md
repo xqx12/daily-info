@@ -52,6 +52,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T12:34:51Z | MimeDoor (FUD Java based back CLI backdoor) & Jynx (FUD Java based GUI Rat) | https://github.com/whiterabb17/MD-Jynx | 0 | 0| 
 | 20220625T11:28:22Z | 🔐 PHP / ASP - Shell Backdoor List 🔐 | https://github.com/GalaxyXploiter/shell-Backdor | 1 | 0| 
 | 20220625T08:18:54Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 101 | 27| 
 | 20220625T04:44:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1670 | 396| 

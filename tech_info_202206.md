@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T12:34:51Z | MimeDoor (FUD Java based back CLI backdoor) & Jynx (FUD Java based GUI Rat) | https://github.com/whiterabb17/MD-Jynx | 0 | 0| 
 | 20220625T11:28:22Z | 🔐 PHP / ASP - Shell Backdoor List 🔐 | https://github.com/GalaxyXploiter/shell-Backdor | 1 | 0| 
 | 20220625T08:18:54Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 101 | 27| 
 | 20220625T04:44:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1670 | 396| 
@@ -111,7 +112,6 @@
 | 20220624T21:22:11Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
 | 20220624T16:53:29Z | Official implementation of the paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 33 | 4| 
 | 20220624T11:18:34Z | BEST SOLANA DRAINER NO BACKDOOR CODE | https://github.com/0x32Moons/Best-Solana-Drainer | 0 | 0| 
-| 20220624T09:00:05Z | Null | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
