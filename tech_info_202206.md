@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220625T12:01:27Z | Remote Code Execution vulnerability in EdgeDB remote compiler pool server feature | https://github.com/ehtec/edgedb-exploit | 0 | 0| 
+| 20220625T12:04:06Z | Remote Code Execution vulnerability in EdgeDB remote compiler pool server feature | https://github.com/ehtec/edgedb-exploit | 0 | 0| 
 | 20220625T11:33:10Z | Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551. | https://github.com/tijme/kernel-mii | 0 | 1| 
 | 20220625T10:45:22Z | picoCTF 2022 Buffer Overflow 1 Binary Exploitation | https://github.com/Sagar075/picoCTF_bufferoverflow1 | 1 | 0| 
 | 20220625T09:53:52Z | Appunti dedicati allo studio della Sicurezza Informatica | https://github.com/LorenzoVaccher01/cybersecurity | 0 | 0| 
