@@ -89,6 +89,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220626T12:32:57Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 75 | 5| 
 | 20220626T11:35:38Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 25 | 9| 
+| 20220626T10:34:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11645 | 2007| 
 | 20220626T09:09:40Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3317 | 701| 
 | 20220626T08:25:43Z | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | 6 | 2| 
 | 20220626T07:44:28Z | 0day Exploit | https://github.com/flux10n/0day | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20220626T04:35:48Z | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | 0 | 0| 
 | 20220626T00:55:42Z | Code that I had created during my schooling in 2018, this is all Data Security exploits and SciVis stuff | https://github.com/EdisonMielke/School-2022 | 0 | 0| 
 | 20220626T00:22:03Z | Exploit all the things | https://github.com/r3naissance/eatt | 0 | 0| 
-| 20220626T00:12:26Z | Null | https://github.com/r3naissance/exploit_all_the_things | 0 | 0| 
 
 
 # backdoor on Github 推荐
