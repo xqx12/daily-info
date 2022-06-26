@@ -151,7 +151,7 @@
 | 20220625T13:18:10Z | A web fuzzer written in Rust (WIP) | https://github.com/DaCurse/fuzzr | 0 | 0| 
 | 20220625T08:10:17Z | Null | https://github.com/cdbcwy7/fuzzy-umbrella | 0 | 0| 
 | 20220625T07:59:15Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/Montycarlo/jwtfuzz | 1 | 0| 
-| 20220625T04:32:17Z | Null | https://github.com/l0s/fernet-fuzz-java | 0 | 0| 
+| 20220625T07:59:15Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/ropwareJB/jwtfuzz | 1 | 0| 
 
 
 
