@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220626T01:33:11Z | fuzzy search example | https://github.com/mikewii/fuzzy-search | 0 | 0| 
+| 20220626T01:34:34Z | fuzzy search example | https://github.com/mikewii/fuzzy-search | 0 | 0| 
 | 20220625T23:56:29Z | x86 processor fuzzer! | https://github.com/N3xusProject/x86-fuzz | 0 | 0| 
 | 20220625T17:45:22Z | fuzzing payload list | https://github.com/matitanium/Fuzz | 0 | 0| 
 | 20220625T17:32:11Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 30 | 3| 
