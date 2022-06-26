@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T12:35:26Z | Null | https://github.com/realcorpo/fuzzy-winner | 0 | 0| 
 | 20220626T11:56:14Z | Modeling of volatility of publicly traded financial instruments using fuzzy logic theory | https://github.com/Northern125/fuzzy-volatility-modeling | 0 | 0| 
 | 20220626T11:41:09Z | go1.18で追加されたFuzzingを試すリポジトリ | https://github.com/Hirochon/go-fuzzing | 0 | 0| 
 | 20220626T10:25:19Z | Null | https://github.com/mubaroka/fuzzy-enigma | 0 | 0| 

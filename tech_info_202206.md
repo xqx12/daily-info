@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T12:35:26Z | Null | https://github.com/realcorpo/fuzzy-winner | 0 | 0| 
 | 20220626T11:56:14Z | Modeling of volatility of publicly traded financial instruments using fuzzy logic theory | https://github.com/Northern125/fuzzy-volatility-modeling | 0 | 0| 
 | 20220626T11:41:09Z | go1.18で追加されたFuzzingを試すリポジトリ | https://github.com/Hirochon/go-fuzzing | 0 | 0| 
 | 20220626T10:25:19Z | Null | https://github.com/mubaroka/fuzzy-enigma | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20220626T05:00:05Z | Fruit dataset explores the colours for a mask segmentation | https://github.com/Jpaku93/Kmeans-and-FuzzyC-Image-Segmenting | 0 | 0| 
 | 20220626T01:34:34Z | fuzzy search example | https://github.com/mikewii/fuzzy-search | 0 | 0| 
 | 20220625T23:56:29Z | x86 processor fuzzer! | https://github.com/N3xusProject/x86-fuzz | 0 | 0| 
-| 20220625T17:45:22Z | fuzzing payload list | https://github.com/matitanium/Fuzz | 0 | 0| 
 
 
 
