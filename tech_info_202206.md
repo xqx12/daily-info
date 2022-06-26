@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T00:55:42Z | Code that I had created during my schooling in 2018, this is all Data Security exploits and SciVis stuff | https://github.com/EdisonMielke/School-2022 | 0 | 0| 
 | 20220626T00:22:03Z | Exploit all the things | https://github.com/r3naissance/eatt | 0 | 0| 
 | 20220626T00:12:26Z | Null | https://github.com/r3naissance/exploit_all_the_things | 0 | 0| 
 | 20220625T23:54:28Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--. | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220625T23:38:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11644 | 2007| 
 | 20220625T23:20:23Z | House of Gods Heap Exploitation Technique - Second Revision | https://github.com/Milo-D/house-of-gods | 0 | 0| 
 | 20220625T22:47:28Z | Some libraries I made for developers so they can write scripts between the %Big Three% Exploits easier, requires less time on there side, and provides lots of debug information | https://github.com/0x580x540x43/Exploit-Conversion | 0 | 0| 
-| 20220625T22:27:25Z | Prevents chest crash exploit | https://github.com/ozoromo/AntiChestCrash | 0 | 0| 
 
 
 # backdoor on Github 推荐
