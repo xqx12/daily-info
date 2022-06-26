@@ -16,14 +16,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220625T22:07:06Z | CVE-2022-34305 | Null | https://github.com/zeroc00I/CVE-2022-34305 | | 
+| 20220625T16:34:20Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
+| 20220625T16:28:05Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | | 
 | 20220625T07:29:19Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/Cve-2022-30136-RCE | | 
-| 20220625T06:26:36Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
-| 20220625T05:56:51Z | CVE-2022-34305 | Null | https://github.com/zeroc00I/CVE-2022-34305 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T22:16:45Z | minimal ui kit | https://github.com/cybot1711/kleen-ui | 0 | 0| 
 | 20220625T09:49:35Z | Config files for my GitHub profile. | https://github.com/klee1001/klee1001 | 0 | 0| 
 | 20220625T01:26:59Z | Personal Portfolio Website | https://github.com/collinkleest/kleest.io | 0 | 0| 
 
@@ -31,29 +33,32 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220625T16:48:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 18 | 3| 
 | 20220625T03:46:59Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 50 | 5| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220625T12:30:46Z | ServerHumanoid is a project aimed to mitigate character exploits in Roblox. | https://github.com/PhoenixWhitefire/rbx_fe_humanoid | 0 | 0| 
-| 20220625T12:15:11Z | Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551. | https://github.com/tijme/kernel-mii | 1 | 1| 
-| 20220625T12:04:06Z | Remote Code Execution vulnerability in EdgeDB remote compiler pool server feature | https://github.com/ehtec/edgedb-exploit | 0 | 0| 
-| 20220625T10:45:22Z | picoCTF 2022 Buffer Overflow 1 Binary Exploitation | https://github.com/Sagar075/picoCTF_bufferoverflow1 | 1 | 0| 
-| 20220625T09:53:52Z | Appunti dedicati allo studio della Sicurezza Informatica | https://github.com/LorenzoVaccher01/cybersecurity | 0 | 0| 
-| 20220625T09:10:08Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 1 | 0| 
-| 20220625T05:40:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11642 | 2005| 
-| 20220625T05:38:54Z | Open-Source exploit for roblox (Lua Executor) | https://github.com/DevXternal/CryT | 0 | 0| 
-| 20220625T04:47:45Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 85 | 13| 
-| 20220625T01:54:00Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 182 | 22| 
+| 20220625T23:54:28Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--. | 0 | 0| 
+| 20220625T23:54:07Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 777 | 81| 
+| 20220625T23:52:44Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--. | 0 | 0| 
+| 20220625T23:51:46Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--. | 0 | 0| 
+| 20220625T23:38:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11644 | 2007| 
+| 20220625T23:20:23Z | House of Gods Heap Exploitation Technique - Second Revision | https://github.com/Milo-D/house-of-gods | 0 | 0| 
+| 20220625T22:47:28Z | Some libraries I made for developers so they can write scripts between the %Big Three% Exploits easier, requires less time on there side, and provides lots of debug information | https://github.com/0x580x540x43/Exploit-Conversion | 0 | 0| 
+| 20220625T22:27:25Z | Prevents chest crash exploit | https://github.com/ozoromo/AntiChestCrash | 0 | 0| 
+| 20220625T22:10:53Z | I have not include the CVE exploit  | https://github.com/BarcodeHydric/Cheatarmy-linear-release | 0 | 0| 
+| 20220625T22:04:26Z | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Deimos-Wizard101 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220625T12:34:51Z | MimeDoor (FUD Java based back CLI backdoor) & Jynx (FUD Java based GUI Rat) | https://github.com/whiterabb17/MD-Jynx | 0 | 0| 
-| 20220625T11:28:22Z | 🔐 PHP / ASP - Shell Backdoor List 🔐 | https://github.com/GalaxyXploiter/shell-Backdor | 1 | 0| 
+| 20220625T21:54:27Z | Null | https://github.com/officialtubers93/sploitx-backdoor | 0 | 0| 
+| 20220625T15:41:55Z | WARNING MALWARE uma demonstração de exemplo de um aplicativo android com shell reverso implementado  | https://github.com/mednic/backdoor-android | 0 | 0| 
+| 20220625T13:30:35Z | 🔐 PHP / ASP - Shell Backdoor List 🔐 | https://github.com/GalaxyXploiter/shell-Backdor | 2 | 1| 
+| 20220625T13:08:21Z | MimeDoor (FUD Java based back CLI backdoor) & Jynx (FUD Java based GUI Rat) | https://github.com/whiterabb17/MD-Jynx | 1 | 0| 
 | 20220625T08:18:54Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 101 | 27| 
 | 20220625T04:44:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1670 | 396| 
 | 20220625T03:44:40Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 512 | 95| 
@@ -76,13 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220625T11:57:17Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 27 | 2| 
-| 20220625T10:06:51Z | Sistem Pengambil Keputusan pada P.T. Askha Jaya Bandar Lampung | https://github.com/Ajulll22/Fuzzy-Ahp-CodeIgniter4 | 0 | 0| 
+| 20220625T23:56:29Z | x86 processor fuzzer! | https://github.com/N3xusProject/x86-fuzz | 0 | 0| 
+| 20220625T17:45:22Z | fuzzing payload list | https://github.com/matitanium/Fuzz | 0 | 0| 
+| 20220625T17:32:11Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 30 | 3| 
+| 20220625T15:04:49Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2532 | 492| 
+| 20220625T14:39:43Z | Sistem Pengambil Keputusan pada P.T. Askha Jaya Bandar Lampung | https://github.com/Ajulll22/Fuzzy-Ahp-CodeIgniter4 | 0 | 0| 
+| 20220625T13:18:10Z | A web fuzzer written in Rust (WIP) | https://github.com/DaCurse/fuzzr | 0 | 0| 
 | 20220625T08:10:17Z | Null | https://github.com/cdbcwy7/fuzzy-umbrella | 0 | 0| 
 | 20220625T07:59:15Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/Montycarlo/jwtfuzz | 1 | 0| 
 | 20220625T04:32:17Z | Null | https://github.com/l0s/fernet-fuzz-java | 0 | 0| 
 | 20220625T01:17:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 39762 | 20279| 
-| 20220625T00:29:39Z | Stopping a tank in front of an obstacle with fuzzy logic. | https://github.com/klima7/Fuzzy-tank | 0 | 0| 
 
 
 
