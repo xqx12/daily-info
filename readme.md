@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220626T12:49:17Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 79 | 6| 
+| 20220626T12:51:17Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 80 | 6| 
 | 20220626T11:35:38Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 25 | 9| 
 | 20220626T10:34:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11645 | 2007| 
 | 20220626T09:09:40Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3317 | 701| 
