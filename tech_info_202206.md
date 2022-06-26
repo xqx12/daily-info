@@ -31,31 +31,31 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220626 | QingTing: 安全工具编排平台 | https://github.com/StarCrossPortal/QingTing| 
+| 20220626 | 美国爱因斯坦计划跟踪与解读（2022v1版） | https://mp.weixin.qq.com/s/qjC_dCOdFRIfYot8OUfJHA| 
+| 20220626 | 基于持续学习方法的命名实体识别 | https://mp.weixin.qq.com/s/uF1X7auEpYqXpsrSbhhG6A| 
+| 20220626 | 太空网络安全风险及攻防演练 | https://mp.weixin.qq.com/s/s2mx6dGfcj9q0lgGXUCzcg| 
 | 20220624 | 安全团队的演进及个人定位思考 | https://mp.weixin.qq.com/s/lLawi2Dv_d3xPR2Rds9U3g| 
 | 20220624 | 网络空间战场环境测绘初探 | https://mp.weixin.qq.com/s/pPiDstfxIgCwPmjiX4_-5Q| 
 | 20220624 | 复盘卫星大战 Hack-A-Sat 2 天基攻防竞赛 | https://mp.weixin.qq.com/s/GvXa8X1o83HCJkMIvTcK8A| 
 | 20220624 | 复盘卫星大战 Hack-A-Sat 1 天基攻防竞赛 | https://mp.weixin.qq.com/s/HWLVfByhpnmIaRYugWfQ6Q| 
 | 20220622 | 测量哈萨克斯坦对 HTTPS 的大规模拦截 | https://mp.weixin.qq.com/s/FkRsfS0EQ9ouncoZFbWUSQ| 
 | 20220622 | MITRE 供应链安全可信系统技术框架（SoT™） | https://mp.weixin.qq.com/s/b9GgiUJ4-UTv_YaP79aTPw| 
-| 20220622 | ysuserial：Java 反序列化漏洞利用工具 | https://mp.weixin.qq.com/s/05LOjys8XJhUxg8qKYuWtg| 
-| 20220622 | 当 XM 12 遇到 eBPF | https://mp.weixin.qq.com/s/h_ixxr1WZ8VqYt-zMrwSDA| 
-| 20220622 | 2022车联网数据安全监管研究报告 | https://mp.weixin.qq.com/s/CaWLiMWO_fhbLWt3DVMXbA| 
-| 20220622 | 电信网络诈骗黑灰产生态概览：基础设施 | https://mp.weixin.qq.com/s/N7ChFTCsDzfgQkL6J0ALow| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220626T08:25:43Z | CVE-2022-29548 | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | | 
+| 20220626T06:42:27Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/Cve-2022-30136-RCE | | 
+| 20220626T03:24:36Z | CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | | 
+| 20220626T02:08:51Z | CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | | 
 | 20220625T22:07:06Z | CVE-2022-34305 | Null | https://github.com/zeroc00I/CVE-2022-34305 | | 
 | 20220625T16:34:20Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
 | 20220625T16:28:05Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | | 
-| 20220625T07:29:19Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/Cve-2022-30136-RCE | | 
 | 20220624T13:25:39Z | CVE-2021-34527 | Null | https://github.com/cyb3rpeace/CVE-2021-34527 | | 
 | 20220624T13:05:03Z | CVE-2022-26134 | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | | 
 | 20220624T12:00:19Z | CVE-2021-3156 | CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit) | https://github.com/arvindshima/CVE-2021-3156 | | 
-| 20220624T07:09:56Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/lele8/CVE-2020-1472 | | 
-| 20220624T06:13:21Z | CVE-2022-22980 | Poc of CVE-2022-22980 | https://github.com/trganda/CVE-2022-22980 | | 
-| 20220624T02:22:22Z | CVE-2020-3580 | Cisco ASA XSS CVE-2020-3580 | https://github.com/cruxN3T/CVE-2020-3580 | | 
 
 
 # klee on Github 推荐
@@ -87,21 +87,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T11:56:39Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 65 | 4| 
+| 20220626T11:35:38Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 25 | 9| 
+| 20220626T09:09:40Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3317 | 701| 
+| 20220626T08:25:43Z | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | 6 | 2| 
+| 20220626T07:44:28Z | 0day Exploit | https://github.com/flux10n/0day | 1 | 0| 
+| 20220626T05:26:07Z | My personal and unique wiki for hacking the router firmware used by (Many Swedish ISPS)FG500 delivered from Inteno Group | https://github.com/wuseman/Inteno_FG500-NetAtOnce | 2 | 0| 
+| 20220626T04:35:48Z | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | 0 | 0| 
 | 20220626T00:55:42Z | Code that I had created during my schooling in 2018, this is all Data Security exploits and SciVis stuff | https://github.com/EdisonMielke/School-2022 | 0 | 0| 
 | 20220626T00:22:03Z | Exploit all the things | https://github.com/r3naissance/eatt | 0 | 0| 
 | 20220626T00:12:26Z | Null | https://github.com/r3naissance/exploit_all_the_things | 0 | 0| 
-| 20220625T23:54:28Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--. | 0 | 0| 
-| 20220625T23:54:07Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 777 | 81| 
-| 20220625T23:52:44Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--. | 0 | 0| 
-| 20220625T23:51:46Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--. | 0 | 0| 
-| 20220625T23:38:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11644 | 2007| 
-| 20220625T23:20:23Z | House of Gods Heap Exploitation Technique - Second Revision | https://github.com/Milo-D/house-of-gods | 0 | 0| 
-| 20220625T22:47:28Z | Some libraries I made for developers so they can write scripts between the %Big Three% Exploits easier, requires less time on there side, and provides lots of debug information | https://github.com/0x580x540x43/Exploit-Conversion | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T09:14:12Z | Null | https://github.com/Seaocn/Link-Backdoor | 0 | 0| 
 | 20220626T01:07:51Z | windows and linux | https://github.com/fuzzerx/Backdoors | 0 | 0| 
 | 20220625T21:54:27Z | Null | https://github.com/officialtubers93/sploitx-backdoor | 0 | 0| 
 | 20220625T15:41:55Z | WARNING MALWARE uma demonstração de exemplo de um aplicativo android com shell reverso implementado  | https://github.com/mednic/backdoor-android | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20220625T04:44:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1670 | 396| 
 | 20220625T03:44:40Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 512 | 95| 
 | 20220625T02:55:01Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 24 | 5| 
-| 20220625T02:41:29Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 74 | 29| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T11:56:14Z | Modeling of volatility of publicly traded financial instruments using fuzzy logic theory | https://github.com/Northern125/fuzzy-volatility-modeling | 0 | 0| 
+| 20220626T11:41:09Z | go1.18で追加されたFuzzingを試すリポジトリ | https://github.com/Hirochon/go-fuzzing | 0 | 0| 
+| 20220626T10:25:19Z | Null | https://github.com/mubaroka/fuzzy-enigma | 0 | 0| 
+| 20220626T10:22:17Z | 0617 | https://github.com/dhufv/fuzzy-train | 0 | 0| 
+| 20220626T10:08:28Z | Null | https://github.com/ardaxz99/Vaccinating-People-Against-COVID-19-with-Fuzzy-Control | 0 | 0| 
+| 20220626T09:34:19Z | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target%s server and by means of advanced Google searches (Google Dorking). | https://github.com/m3n0sd0n4ld/GooFuzz | 65 | 7| 
+| 20220626T05:00:05Z | Fruit dataset explores the colours for a mask segmentation | https://github.com/Jpaku93/Kmeans-and-FuzzyC-Image-Segmenting | 0 | 0| 
 | 20220626T01:34:34Z | fuzzy search example | https://github.com/mikewii/fuzzy-search | 0 | 0| 
 | 20220625T23:56:29Z | x86 processor fuzzer! | https://github.com/N3xusProject/x86-fuzz | 0 | 0| 
 | 20220625T17:45:22Z | fuzzing payload list | https://github.com/matitanium/Fuzz | 0 | 0| 
-| 20220625T17:32:11Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 30 | 3| 
-| 20220625T15:04:49Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2532 | 492| 
-| 20220625T14:39:43Z | Sistem Pengambil Keputusan pada P.T. Askha Jaya Bandar Lampung | https://github.com/Ajulll22/Fuzzy-Ahp-CodeIgniter4 | 0 | 0| 
-| 20220625T13:18:10Z | A web fuzzer written in Rust (WIP) | https://github.com/DaCurse/fuzzr | 0 | 0| 
-| 20220625T08:10:17Z | Null | https://github.com/cdbcwy7/fuzzy-umbrella | 0 | 0| 
-| 20220625T07:59:15Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/Montycarlo/jwtfuzz | 1 | 0| 
-| 20220625T07:59:15Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/ropwareJB/jwtfuzz | 1 | 0| 
 
 
 
