@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T01:07:51Z | windows and linux | https://github.com/fuzzerx/Backdoors | 0 | 0| 
 | 20220625T21:54:27Z | Null | https://github.com/officialtubers93/sploitx-backdoor | 0 | 0| 
 | 20220625T15:41:55Z | WARNING MALWARE uma demonstração de exemplo de um aplicativo android com shell reverso implementado  | https://github.com/mednic/backdoor-android | 0 | 0| 
 | 20220625T13:30:35Z | 🔐 PHP / ASP - Shell Backdoor List 🔐 | https://github.com/GalaxyXploiter/shell-Backdor | 2 | 1| 
@@ -111,7 +112,6 @@
 | 20220625T03:44:40Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 512 | 95| 
 | 20220625T02:55:01Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 24 | 5| 
 | 20220625T02:41:29Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 74 | 29| 
-| 20220624T21:22:11Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
