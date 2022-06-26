@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T00:13:58Z | Exploit all the things | https://github.com/r3naissance/eatt | 0 | 0| 
 | 20220626T00:12:26Z | Null | https://github.com/r3naissance/exploit_all_the_things | 0 | 0| 
 | 20220625T23:54:28Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--. | 0 | 0| 
 | 20220625T23:54:07Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 777 | 81| 
@@ -96,7 +97,6 @@
 | 20220625T23:20:23Z | House of Gods Heap Exploitation Technique - Second Revision | https://github.com/Milo-D/house-of-gods | 0 | 0| 
 | 20220625T22:47:28Z | Some libraries I made for developers so they can write scripts between the %Big Three% Exploits easier, requires less time on there side, and provides lots of debug information | https://github.com/0x580x540x43/Exploit-Conversion | 0 | 0| 
 | 20220625T22:27:25Z | Prevents chest crash exploit | https://github.com/ozoromo/AntiChestCrash | 0 | 0| 
-| 20220625T22:10:53Z | I have not include the CVE exploit  | https://github.com/BarcodeHydric/Cheatarmy-linear-release | 0 | 0| 
 
 
 # backdoor on Github 推荐
