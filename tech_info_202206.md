@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T01:33:11Z | fuzzy search example | https://github.com/mikewii/fuzzy-search | 0 | 0| 
 | 20220625T23:56:29Z | x86 processor fuzzer! | https://github.com/N3xusProject/x86-fuzz | 0 | 0| 
 | 20220625T17:45:22Z | fuzzing payload list | https://github.com/matitanium/Fuzz | 0 | 0| 
 | 20220625T17:32:11Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 30 | 3| 
@@ -151,7 +152,6 @@
 | 20220625T08:10:17Z | Null | https://github.com/cdbcwy7/fuzzy-umbrella | 0 | 0| 
 | 20220625T07:59:15Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/Montycarlo/jwtfuzz | 1 | 0| 
 | 20220625T04:32:17Z | Null | https://github.com/l0s/fernet-fuzz-java | 0 | 0| 
-| 20220625T01:17:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 39762 | 20279| 
 
 
 
