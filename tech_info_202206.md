@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220626T00:13:58Z | Exploit all the things | https://github.com/r3naissance/eatt | 0 | 0| 
+| 20220626T00:22:03Z | Exploit all the things | https://github.com/r3naissance/eatt | 0 | 0| 
 | 20220626T00:12:26Z | Null | https://github.com/r3naissance/exploit_all_the_things | 0 | 0| 
 | 20220625T23:54:28Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--. | 0 | 0| 
 | 20220625T23:54:07Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 777 | 81| 
