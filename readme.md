@@ -61,6 +61,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T05:51:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2939 | 419| 
+| 20220626T03:16:02Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 445 | 26| 
 
 
 # big4 on Github 推荐
