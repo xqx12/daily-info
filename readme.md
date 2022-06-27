@@ -85,7 +85,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220626T23:00:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7534 | 1612| 
 | 20220626T19:40:07Z | Null | https://github.com/JJbroUnited/Fuzzy | 0 | 0| 
 | 20220626T19:11:34Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 170 | 20| 
 | 20220626T18:59:23Z | Null | https://github.com/Krl1/Fuzzy_clustering | 0 | 0| 
@@ -95,6 +94,7 @@
 | 20220626T11:41:09Z | go1.18で追加されたFuzzingを試すリポジトリ | https://github.com/Hirochon/go-fuzzing | 0 | 0| 
 | 20220626T11:24:08Z | A fuzzy distance-based ensemble of deep models for cervical cancer detection published in Computer Methods and Programs in Biomedicine, Elsevier | https://github.com/rishavpramanik/CervicalFuzzyDistanceEnsemble | 5 | 0| 
 | 20220626T10:25:19Z | Null | https://github.com/mubaroka/fuzzy-enigma | 0 | 0| 
+| 20220626T10:22:17Z | 0617 | https://github.com/dhufv/fuzzy-train | 0 | 0| 
 
 
 
