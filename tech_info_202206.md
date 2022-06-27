@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220626 | [RFC] A DataFlow Analysis Framework | http://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340| 
 | 20220624 | Sigma - 用于 SIEM 系统通用地描述事件日志的开放格式 | https://github.com/SigmaHQ/sigma| 
 | 20220624 | Embedding Payloads and Bypassing Controls in Microsoft InfoPath | https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/| 
 | 20220624 | Attacking the Performance of Machine Learning Systems | http://www.schneier.com/blog/archives/2022/06/attacking-the-performance-of-machine-learning-systems.html| 
@@ -25,7 +26,6 @@
 | 20220623 | Windows CLFS 文件系统的漏洞 Fuzzing 和利用 | https://mp.weixin.qq.com/s/RkgSyKtLmwCFFQHY429Lkg| 
 | 20220623 | CVE-2022-23222漏洞及利用分析 | http://tttang.com/archive/1628/| 
 | 20220622 | Trailofbits 对区块链的去中心化机制和现状的安全研究 | http://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/| 
-| 20220622 | floss - mandiant 开源的用于从恶意软件中提取反混淆字符串的工具 | https://github.com/mandiant/flare-floss| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220626T20:57:01Z | CVE-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/CVE-2022-30136-POC | | 
+| 20220626T17:24:04Z | CVE-2021-38314 | Python exploit for CVE-2021-38314 | https://github.com/c0ff33b34n/CVE-2021-38314 | | 
+| 20220626T13:14:14Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
+| 20220626T13:09:41Z | CVE-2021-25003 | WPCargo < 6.9.0 - Unauthenticated RCE | https://github.com/biulove0x/CVE-2021-25003 | | 
 | 20220626T08:25:43Z | CVE-2022-29548 | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | | 
 | 20220626T06:42:27Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/Cve-2022-30136-RCE | | 
 | 20220626T03:24:36Z | CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | | 
 | 20220626T02:08:51Z | CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | | 
 | 20220625T22:07:06Z | CVE-2022-34305 | Null | https://github.com/zeroc00I/CVE-2022-34305 | | 
 | 20220625T16:34:20Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
-| 20220625T16:28:05Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | | 
-| 20220624T13:25:39Z | CVE-2021-34527 | Null | https://github.com/cyb3rpeace/CVE-2021-34527 | | 
-| 20220624T13:05:03Z | CVE-2022-26134 | Atlassian Confluence OGNL Injection Remote Code Execution (RCE) Vulnerability (CVE-2022-26134) | https://github.com/ColdFusionX/CVE-2022-26134 | | 
-| 20220624T12:00:19Z | CVE-2021-3156 | CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit) | https://github.com/arvindshima/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220626T12:58:24Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 82 | 6| 
-| 20220626T11:35:38Z | K8博客 | https://github.com/k8gege/k8gege.github.io | 25 | 9| 
-| 20220626T10:34:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11645 | 2007| 
-| 20220626T09:09:40Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3317 | 701| 
-| 20220626T08:25:43Z | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | 6 | 2| 
-| 20220626T07:44:28Z | 0day Exploit | https://github.com/flux10n/0day | 1 | 0| 
-| 20220626T05:26:07Z | My personal and unique wiki for hacking the router firmware used by (Many Swedish ISPS)FG500 delivered from Inteno Group | https://github.com/wuseman/Inteno_FG500-NetAtOnce | 2 | 0| 
-| 20220626T04:35:48Z | Binary Exploitation writeup, practices and scripts... | https://github.com/l1j9m4-0n1/Pwnable | 0 | 0| 
-| 20220626T00:55:42Z | Code that I had created during my schooling in 2018, this is all Data Security exploits and SciVis stuff | https://github.com/EdisonMielke/School-2022 | 0 | 0| 
-| 20220626T00:22:03Z | Exploit all the things | https://github.com/r3naissance/eatt | 0 | 0| 
+| 20220626T21:15:54Z | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | 2 | 1| 
+| 20220626T21:00:39Z | A brief summary of how to exploit Shodan%s OSINT technology. | https://github.com/marcospaulo28/Shodancommands | 0 | 0| 
+| 20220626T20:31:20Z | Null | https://github.com/squizzyv9/My-Exploit | 0 | 0| 
+| 20220626T20:21:06Z | IOT Forensics Thesis regarding Automation of Android apps exploiting UI Testing tools in order to collect huge data sets to analyze Wi-Fi traffic between android apps and IOT devices associated to them. Finally ML techniques are applied to estimate human behaviours with respect to interactions with the IOT devicessdfa | https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | 0 | 0| 
+| 20220626T19:48:37Z | Null | https://github.com/EPFramework/Exploit-Prediction-Framework | 0 | 0| 
+| 20220626T19:32:34Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 1| 
+| 20220626T19:26:13Z | A script written for the popular seterra website. | https://github.com/NotDusan/geography-site-exploit | 0 | 0| 
+| 20220626T19:18:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11645 | 2005| 
+| 20220626T18:16:26Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 0 | 0| 
+| 20220626T17:26:35Z | PS4 Exploit Host. For firmware 6.72, more coming soon! | https://github.com/azharcq/azharcq.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T23:59:39Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 25 | 5| 
+| 20220626T21:59:43Z | Backdoor giving the user access to system commands on system , connected via same router network | https://github.com/rajat1201rm/Backdoor | 0 | 0| 
+| 20220626T20:24:03Z | WARNING MALWARE uma demonstração de exemplo de um aplicativo android com shell reverso implementado  | https://github.com/mednic/backdoor-android | 1 | 0| 
+| 20220626T16:39:32Z | Null | https://github.com/ouldevloper/Cpp-Backdoor | 0 | 0| 
+| 20220626T13:33:16Z | Null | https://github.com/bojieli/compiler-backdoor | 0 | 0| 
 | 20220626T09:14:12Z | Null | https://github.com/Seaocn/Link-Backdoor | 0 | 0| 
 | 20220626T01:07:51Z | windows and linux | https://github.com/fuzzerx/Backdoors | 0 | 0| 
 | 20220625T21:54:27Z | Null | https://github.com/officialtubers93/sploitx-backdoor | 0 | 0| 
-| 20220625T15:41:55Z | WARNING MALWARE uma demonstração de exemplo de um aplicativo android com shell reverso implementado  | https://github.com/mednic/backdoor-android | 0 | 0| 
 | 20220625T13:30:35Z | 🔐 PHP / ASP - Shell Backdoor List 🔐 | https://github.com/GalaxyXploiter/shell-Backdor | 2 | 1| 
 | 20220625T13:08:21Z | MimeDoor (FUD Java based back CLI backdoor) & Jynx (FUD Java based GUI Rat) | https://github.com/whiterabb17/MD-Jynx | 1 | 0| 
-| 20220625T08:18:54Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 101 | 27| 
-| 20220625T04:44:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1670 | 396| 
-| 20220625T03:44:40Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 512 | 95| 
-| 20220625T02:55:01Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 24 | 5| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220626T23:00:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7534 | 1612| 
+| 20220626T19:40:07Z | Null | https://github.com/JJbroUnited/Fuzzy | 0 | 0| 
+| 20220626T19:11:34Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 170 | 20| 
+| 20220626T18:59:23Z | Null | https://github.com/Krl1/Fuzzy_clustering | 0 | 0| 
+| 20220626T17:15:44Z | Fuzz Pedal | https://github.com/DomMcsweeney/Devil-Fuzz | 0 | 0| 
 | 20220626T12:35:26Z | Null | https://github.com/realcorpo/fuzzy-winner | 0 | 0| 
 | 20220626T11:56:14Z | Modeling of volatility of publicly traded financial instruments using fuzzy logic theory | https://github.com/Northern125/fuzzy-volatility-modeling | 0 | 0| 
 | 20220626T11:41:09Z | go1.18で追加されたFuzzingを試すリポジトリ | https://github.com/Hirochon/go-fuzzing | 0 | 0| 
+| 20220626T11:24:08Z | A fuzzy distance-based ensemble of deep models for cervical cancer detection published in Computer Methods and Programs in Biomedicine, Elsevier | https://github.com/rishavpramanik/CervicalFuzzyDistanceEnsemble | 5 | 0| 
 | 20220626T10:25:19Z | Null | https://github.com/mubaroka/fuzzy-enigma | 0 | 0| 
-| 20220626T10:22:17Z | 0617 | https://github.com/dhufv/fuzzy-train | 0 | 0| 
-| 20220626T10:08:28Z | Null | https://github.com/ardaxz99/Vaccinating-People-Against-COVID-19-with-Fuzzy-Control | 0 | 0| 
-| 20220626T09:34:19Z | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target%s server and by means of advanced Google searches (Google Dorking). | https://github.com/m3n0sd0n4ld/GooFuzz | 65 | 7| 
-| 20220626T05:00:05Z | Fruit dataset explores the colours for a mask segmentation | https://github.com/Jpaku93/Kmeans-and-FuzzyC-Image-Segmenting | 0 | 0| 
-| 20220626T01:34:34Z | fuzzy search example | https://github.com/mikewii/fuzzy-search | 0 | 0| 
-| 20220625T23:56:29Z | x86 processor fuzzer! | https://github.com/N3xusProject/x86-fuzz | 0 | 0| 
 
 
 
