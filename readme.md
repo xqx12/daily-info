@@ -46,7 +46,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220626T21:15:54Z | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | 2 | 1| 
 | 20220626T21:00:39Z | A brief summary of how to exploit Shodan%s OSINT technology. | https://github.com/marcospaulo28/Shodancommands | 0 | 0| 
-| 20220626T20:31:20Z | Null | https://github.com/squizzyv9/My-Exploit | 0 | 0| 
 | 20220626T20:21:06Z | IOT Forensics Thesis regarding Automation of Android apps exploiting UI Testing tools in order to collect huge data sets to analyze Wi-Fi traffic between android apps and IOT devices associated to them. Finally ML techniques are applied to estimate human behaviours with respect to interactions with the IOT devicessdfa | https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | 0 | 0| 
 | 20220626T19:48:37Z | Null | https://github.com/EPFramework/Exploit-Prediction-Framework | 0 | 0| 
 | 20220626T19:32:34Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 1| 
@@ -54,6 +53,7 @@
 | 20220626T19:18:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11645 | 2005| 
 | 20220626T18:16:26Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 0 | 0| 
 | 20220626T17:26:35Z | PS4 Exploit Host. For firmware 6.72, more coming soon! | https://github.com/azharcq/azharcq.github.io | 0 | 0| 
+| 20220626T15:15:54Z | PixelBot is a combination of an addon and a python program that exploits WoW API in order to automate characters and play the game alone (when you need 5 or 25 people). | https://github.com/Serenalyw/PixelBot | 1 | 2| 
 
 
 # backdoor on Github 推荐
