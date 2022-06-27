@@ -51,9 +51,9 @@
 | 20220626T19:32:34Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 1| 
 | 20220626T19:26:13Z | A script written for the popular seterra website. | https://github.com/NotDusan/geography-site-exploit | 0 | 0| 
 | 20220626T19:18:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11645 | 2005| 
-| 20220626T18:16:26Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 0 | 0| 
 | 20220626T17:26:35Z | PS4 Exploit Host. For firmware 6.72, more coming soon! | https://github.com/azharcq/azharcq.github.io | 0 | 0| 
 | 20220626T15:15:54Z | PixelBot is a combination of an addon and a python program that exploits WoW API in order to automate characters and play the game alone (when you need 5 or 25 people). | https://github.com/Serenalyw/PixelBot | 1 | 2| 
+| 20220626T12:58:24Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 82 | 6| 
 
 
 # backdoor on Github 推荐

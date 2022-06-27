@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T01:15:12Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 1 | 1| 
 | 20220627T01:06:16Z | Null | https://github.com/squizzyv9/My-Exploit | 1 | 0| 
 | 20220627T01:06:01Z | 0day Exploit | https://github.com/flux10n/0day | 2 | 0| 
 | 20220627T00:32:42Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN0 | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220626T21:00:39Z | A brief summary of how to exploit Shodan%s OSINT technology. | https://github.com/marcospaulo28/Shodancommands | 0 | 0| 
 | 20220626T20:21:06Z | IOT Forensics Thesis regarding Automation of Android apps exploiting UI Testing tools in order to collect huge data sets to analyze Wi-Fi traffic between android apps and IOT devices associated to them. Finally ML techniques are applied to estimate human behaviours with respect to interactions with the IOT devicessdfa | https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing | 0 | 0| 
 | 20220626T19:48:37Z | Null | https://github.com/EPFramework/Exploit-Prediction-Framework | 0 | 0| 
-| 20220626T19:32:34Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 1| 
 
 
 # backdoor on Github 推荐
