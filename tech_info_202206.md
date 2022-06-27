@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220627T12:21:52Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 463 | 25| 
+| 20220627T12:21:52Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 463 | 26| 
 | 20220627T12:03:17Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 3 | 2| 
 | 20220627T11:58:12Z | Auto installs useful programs and scripts for recon, enumeration and exploitation for Kali that aren%t included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | 1 | 0| 
 | 20220627T09:45:53Z | Null | https://github.com/josslalou/Vulnerabilities_exploit_project | 0 | 0| 
@@ -151,8 +151,8 @@
 | 20220627T08:10:23Z | Null | https://github.com/Alyanetwork/Fuzzy-pancake-e | 0 | 0| 
 | 20220627T01:08:56Z | Fullstackopen course CI/DI part | https://github.com/Anttko/fuzzy-pancake | 0 | 0| 
 | 20220627T00:59:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7535 | 1612| 
+| 20220626T23:04:55Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4771 | 493| 
 | 20220626T19:40:07Z | Null | https://github.com/JJbroUnited/Fuzzy | 0 | 0| 
-| 20220626T19:11:34Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 170 | 20| 
 
 
 
