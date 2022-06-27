@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220627T01:23:18Z | CVE-2021-25003 | WPCargo < 6.9.0 - Unauthenticated RCE | https://github.com/biulove0x/CVE-2021-25003 | | 
 | 20220626T20:57:01Z | CVE-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/CVE-2022-30136-POC | | 
 | 20220626T17:24:04Z | CVE-2021-38314 | Python exploit for CVE-2021-38314 | https://github.com/c0ff33b34n/CVE-2021-38314 | | 
 | 20220626T13:14:14Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
-| 20220626T13:09:41Z | CVE-2021-25003 | WPCargo < 6.9.0 - Unauthenticated RCE | https://github.com/biulove0x/CVE-2021-25003 | | 
 | 20220626T08:25:43Z | CVE-2022-29548 | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | | 
 | 20220626T06:42:27Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/Cve-2022-30136-RCE | | 
 | 20220626T03:24:36Z | CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | | 
