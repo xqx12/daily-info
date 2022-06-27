@@ -87,6 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T00:32:42Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN0 | 0 | 0| 
+| 20220627T00:31:56Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN0 | 0 | 0| 
+| 20220627T00:31:08Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN0 | 0 | 0| 
 | 20220626T21:15:54Z | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | 2 | 1| 
 | 20220626T21:00:39Z | A brief summary of how to exploit Shodan%s OSINT technology. | https://github.com/marcospaulo28/Shodancommands | 0 | 0| 
 | 20220626T20:31:20Z | Null | https://github.com/squizzyv9/My-Exploit | 0 | 0| 
@@ -94,9 +97,6 @@
 | 20220626T19:48:37Z | Null | https://github.com/EPFramework/Exploit-Prediction-Framework | 0 | 0| 
 | 20220626T19:32:34Z | exploit for Wii U browser. | https://github.com/utendo/utendo-wiiu-exploit | 0 | 1| 
 | 20220626T19:26:13Z | A script written for the popular seterra website. | https://github.com/NotDusan/geography-site-exploit | 0 | 0| 
-| 20220626T19:18:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11645 | 2005| 
-| 20220626T18:16:26Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 0 | 0| 
-| 20220626T17:26:35Z | PS4 Exploit Host. For firmware 6.72, more coming soon! | https://github.com/azharcq/azharcq.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
