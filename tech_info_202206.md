@@ -88,10 +88,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T12:44:28Z | AutoKali automatically installs useful programs and scripts for recon, enumeration and exploitation for Kali that aren%t included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | 1 | 0| 
 | 20220627T12:39:14Z | This repository shows how to exploit the vulnerability SMBGhost in a Windows 10 Machine for executing a remote code execution and opening a shell  | https://github.com/MouadBouharoun/CVE-SMBGhost-Windows-10 | 0 | 0| 
 | 20220627T12:32:49Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 466 | 26| 
 | 20220627T12:03:17Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 3 | 2| 
-| 20220627T11:58:12Z | Auto installs useful programs and scripts for recon, enumeration and exploitation for Kali that aren%t included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | 1 | 0| 
 | 20220627T11:24:36Z | [TMM 2022] Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation | https://github.com/Vegetebird/StridedTransformer-Pose3D | 151 | 17| 
 | 20220627T09:45:53Z | Null | https://github.com/josslalou/Vulnerabilities_exploit_project | 0 | 0| 
 | 20220627T09:42:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3216 | 502| 
