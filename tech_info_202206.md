@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220626T23:59:39Z | A curated list of trustworthy deep learning papers. | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 25 | 5| 
+| 20220627T06:57:43Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 75 | 29| 
+| 20220627T05:03:24Z | Null | https://github.com/xuantien177/ttcs_backdoor_cmd_controller | 0 | 0| 
+| 20220627T04:45:17Z | Lucifer is a RAT (Remote Administrator Trojan) Generator for Windows/Linux systems written in Python. | https://github.com/Malwareman007/Lucifer | 4 | 1| 
+| 20220627T03:27:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 25 | 5| 
 | 20220626T21:59:43Z | Backdoor giving the user access to system commands on system , connected via same router network | https://github.com/rajat1201rm/Backdoor | 0 | 0| 
 | 20220626T20:24:03Z | WARNING MALWARE uma demonstração de exemplo de um aplicativo android com shell reverso implementado  | https://github.com/mednic/backdoor-android | 1 | 0| 
 | 20220626T16:39:32Z | Null | https://github.com/ouldevloper/Cpp-Backdoor | 0 | 0| 
 | 20220626T13:33:16Z | Null | https://github.com/bojieli/compiler-backdoor | 0 | 0| 
 | 20220626T09:14:12Z | Null | https://github.com/Seaocn/Link-Backdoor | 0 | 0| 
 | 20220626T01:07:51Z | windows and linux | https://github.com/fuzzerx/Backdoors | 0 | 0| 
-| 20220625T21:54:27Z | Null | https://github.com/officialtubers93/sploitx-backdoor | 0 | 0| 
-| 20220625T13:30:35Z | 🔐 PHP / ASP - Shell Backdoor List 🔐 | https://github.com/GalaxyXploiter/shell-Backdor | 2 | 1| 
-| 20220625T13:08:21Z | MimeDoor (FUD Java based back CLI backdoor) & Jynx (FUD Java based GUI Rat) | https://github.com/whiterabb17/MD-Jynx | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T11:42:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 447 | 26| 
+| 20220627T04:47:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 232 | 56| 
+| 20220627T03:58:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2942 | 419| 
+| 20220627T01:57:01Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 68 | 3| 
 | 20220626T18:41:25Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 38 | 23| 
-| 20220626T18:29:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2941 | 419| 
-| 20220626T16:43:50Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 446 | 26| 
 | 20220624T10:40:30Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 21 | 5| 
 | 20220624T08:37:19Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 250 | 17| 
 | 20220624T03:07:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1992 | 567| 
 | 20220623T11:41:08Z | A simple symbolic execution engine, imitating the angr. | https://github.com/bluesadi/mini_angr | 10 | 0| 
 | 20220622T11:08:16Z | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. | https://github.com/JonathanSalwan/VMProtect-devirtualization | 610 | 104| 
-| 20220622T04:34:54Z | DSE with LLVM and Z3 that automatically generates inputs to efficiently explore different program paths for C programs. | https://github.com/malathy-nagalakshmi/Dynamic-Symbolic-Execution | 0 | 0| 
-| 20220621T16:05:17Z | A system for exploring different symbolic execution memory model designs | https://github.com/GaloisInc/memory-model-test-harness | 0 | 0| 
 
 
 # big4 on Github 推荐

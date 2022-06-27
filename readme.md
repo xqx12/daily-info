@@ -64,11 +64,19 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T06:57:43Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 75 | 29| 
+| 20220627T05:03:24Z | Null | https://github.com/xuantien177/ttcs_backdoor_cmd_controller | 0 | 0| 
+| 20220627T04:45:17Z | Lucifer is a RAT (Remote Administrator Trojan) Generator for Windows/Linux systems written in Python. | https://github.com/Malwareman007/Lucifer | 4 | 1| 
+| 20220627T03:27:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 25 | 5| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T11:42:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 447 | 26| 
+| 20220627T04:47:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 232 | 56| 
+| 20220627T03:58:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2942 | 419| 
+| 20220627T01:57:01Z | Symbolic Execution Engine based on Ghidra%s PCode | https://github.com/borzacchiello/naaz | 68 | 3| 
 
 
 # big4 on Github 推荐
