@@ -88,10 +88,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T12:50:02Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 469 | 26| 
 | 20220627T12:47:31Z | AutoKali automatically installs useful programs and scripts for recon, enumeration and exploitation for Kali Linux that aren%t included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | 1 | 0| 
 | 20220627T12:47:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN_ | 0 | 0| 
 | 20220627T12:46:30Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN_ | 0 | 0| 
-| 20220627T12:46:19Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 468 | 26| 
 | 20220627T12:46:07Z | This repository shows how to exploit the vulnerability SMBGhost in a Windows 10 Machine for executing a remote code execution and opening a shell  | https://github.com/MouadBouharoun/CVE-SMBGhost-Windows-10 | 0 | 0| 
 | 20220627T12:45:42Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-_ | 0 | 0| 
 | 20220627T12:03:17Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 3 | 2| 
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T12:50:18Z | Null | https://github.com/Eddahkarambu/Fuzzyengine | 0 | 0| 
 | 20220627T12:29:06Z | Null | https://github.com/jasae/fuzzy-dollop | 0 | 0| 
 | 20220627T11:30:33Z | Null | https://github.com/19hotani/fuzzy-guacamole | 0 | 0| 
 | 20220627T09:28:18Z | Null | https://github.com/pysf/fuzzy-adventure | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220627T08:10:23Z | Null | https://github.com/Alyanetwork/Fuzzy-pancake-e | 0 | 0| 
 | 20220627T01:08:56Z | Fullstackopen course CI/DI part | https://github.com/Anttko/fuzzy-pancake | 0 | 0| 
 | 20220627T00:59:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7535 | 1612| 
-| 20220626T23:04:55Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4771 | 493| 
 
 
 
