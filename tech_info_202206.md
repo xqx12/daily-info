@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220628T01:13:54Z | Null | https://github.com/casrl/DeepSteal-exploit | 2 | 0| 
+| 20220628T01:13:54Z | Null | https://github.com/casrl/DeepSteal-exploit | 2 | 1| 
 | 20220628T00:30:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220628T00:29:28Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220628T00:28:39Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--- | 0 | 0| 
