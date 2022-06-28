@@ -15,6 +15,7 @@
 | 20220627 | 利用 NtObjectManager 探测运行时 RPC Server 信息 | https://www.tiraniddo.dev/2022/06/finding-running-rpc-server-information.html| 
 | 20220627 | Mangle - 修改 PE、DLL 文件字符串等特征逃避 EDR 检测 | https://github.com/optiv/Mangle| 
 | 20220627 | fuzzuli - 根据字典在 Web 服务中扫描备份文件的工具 | https://www.reddit.com/r/netsec/comments/viteij/fuzzuli_is_a_fuzzing_tool_that_aims_to_find/| 
+| 20220627 | CobaltStrike Beacon生成原理分析 | http://tttang.com/archive/1631/| 
 | 20220626 | [RFC] A DataFlow Analysis Framework | http://discourse.llvm.org/t/rfc-a-dataflow-analysis-framework/63340| 
 | 20220624 | Sigma - 用于 SIEM 系统通用地描述事件日志的开放格式 | https://github.com/SigmaHQ/sigma| 
 | 20220624 | Embedding Payloads and Bypassing Controls in Microsoft InfoPath | https://spaceraccoon.dev/embedding-payloads-bypassing-controls-microsoft-infopath/| 
@@ -25,7 +26,6 @@
 | 20220624 | 利用 RTF 文档嵌入 Follina CVE-2022-30190 Exploit | https://cymulate.com/blog/cve-2022-30190-2/| 
 | 20220624 | Project Zero 对 iOS CVE-2021-30983 野外利用样本及漏洞利用过程的分析 | https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html| 
 | 20220623 | 高通 kgsl 驱动 UAF 漏洞的分析（CVE-2022-22057） | https://securitylab.github.com/advisories/GHSL-2022-037_msm_kernel/| 
-| 20220623 | 区块链安全攻击、漏洞事件的分析和重现 | https://github.com/Rivaill/CryptoVulhub| 
 
 
 # 安全维基 推荐
@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220627T15:42:37Z | CVE-2023-3625 | 免杀，红队，蓝队，防守 | https://github.com/huihuo123/CVE-2023-3625 | | 
+| 20220627T15:39:52Z | 未知编号 | 免杀，攻击，钓鱼，蓝队，木马 | https://github.com/huihuo123/CVE2022-0111- | | 
+| 20220627T15:30:18Z | CVE-2023-4112 | 蓝队，红队，测试 | https://github.com/Kvi74/CVE-2023-4112 | | 
+| 20220627T15:19:20Z | 未知编号 | 免杀，木马，攻击，防守 | https://github.com/huihuo123/CVE20222- | | 
+| 20220627T14:54:56Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | | 
+| 20220627T14:46:20Z | 未知编号 | Null | https://github.com/huihuo123/cve2022-0001- | | 
+| 20220627T13:22:32Z | CVE-2021-25003 | WPCargo < 6.9.0 - Unauthenticated RCE | https://github.com/biulove0x/CVE-2021-25003 | | 
+| 20220627T13:20:27Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
 | 20220627T10:23:00Z | CVE-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/CVE-2022-30136-POC | | 
-| 20220627T01:23:18Z | CVE-2021-25003 | WPCargo < 6.9.0 - Unauthenticated RCE | https://github.com/biulove0x/CVE-2021-25003 | | 
 | 20220626T17:24:04Z | CVE-2021-38314 | Python exploit for CVE-2021-38314 | https://github.com/c0ff33b34n/CVE-2021-38314 | | 
-| 20220626T13:14:14Z | CVE-2022-0441 | WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation | https://github.com/biulove0x/CVE-2022-0441 | | 
-| 20220626T08:25:43Z | CVE-2022-29548 | Proof of concept exploit for CVE-2022-29548: A reflected XSS issue exists in the Management Console of several WSO2 products. This affects API Manager 2.2.0, 2.5.0, 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; API Manager Analytics 2.2.0, 2.5.0, and 2.6.0; API Microgateway 2.2.0; Data Analytics Server 3.2.0; Enterprise Integrator 6.2.0, 6.3.0, 6.4.0, 6.5.0, and 6.6.0; IS as Key Manager 5.5.0, 5.6.0, 5.7.0, 5.9.0, and 5.10.0; Identity Server 5.5.0, 5.6.0, 5.7.0, 5.9.0, 5.10.0, and 5.11.0; Identity Server Analytics 5.5.0 and 5.6.0; and WSO2 Micro Integrator 1.0.0. | https://github.com/cxosmo/CVE-2022-29548 | | 
-| 20220626T06:42:27Z | Cve-2022-30136 | CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System  | https://github.com/oturu/Cve-2022-30136-RCE | | 
-| 20220626T03:24:36Z | CVE-2022-26809 | CVE-2022-26809 exp | https://github.com/Calvitz/CVE-2022-26809 | | 
-| 20220626T02:08:51Z | CVE-2022-1388 | Mass-Exploit-CVE-2022-1388 | https://github.com/electr0lulz/Mass-CVE-2022-1388 | | 
-| 20220625T22:07:06Z | CVE-2022-34305 | Null | https://github.com/zeroc00I/CVE-2022-34305 | | 
-| 20220625T16:34:20Z | CVE-2022-29464 | Mass Exploit for CVE 2022-29464 on Carbon | https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T14:55:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1993 | 567| 
 | 20220625T22:16:45Z | minimal ui kit | https://github.com/cybot1711/kleen-ui | 0 | 0| 
 | 20220625T09:49:35Z | Config files for my GitHub profile. | https://github.com/klee1001/klee1001 | 0 | 0| 
 | 20220625T01:26:59Z | Personal Portfolio Website | https://github.com/collinkleest/kleest.io | 0 | 0| 
 | 20220624T06:50:05Z | Anya mousecape;阿尼亚mousecape;Klee可莉mousecape;Kal%tsit凯尔希mousecape... | https://github.com/Uyukisan/mousecape-Anya | 0 | 0| 
-| 20220624T03:07:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1992 | 567| 
 | 20220623T23:00:31Z | Null | https://github.com/jpdesuasido/unity-kleeadventures | 0 | 0| 
 | 20220623T07:22:04Z | Null | https://github.com/segre5458/KleeNotifier | 0 | 0| 
 | 20220622T11:49:10Z | Upload and comment paintings by Paul Klee. | https://github.com/YuliaGrineva/ImageBoard | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220627T12:57:33Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 471 | 26| 
-| 20220627T12:47:31Z | AutoKali automatically installs useful programs and scripts for recon, enumeration and exploitation for Kali Linux that aren%t included by default, as well as essential programs for any Kali user. | https://github.com/vaarg/AutoKali | 1 | 0| 
-| 20220627T12:47:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN_ | 0 | 0| 
-| 20220627T12:46:30Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN_ | 0 | 0| 
-| 20220627T12:46:07Z | This repository shows how to exploit the vulnerability SMBGhost in a Windows 10 Machine for executing a remote code execution and opening a shell  | https://github.com/MouadBouharoun/CVE-SMBGhost-Windows-10 | 0 | 0| 
-| 20220627T12:45:42Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-_ | 0 | 0| 
-| 20220627T12:03:17Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 3 | 2| 
-| 20220627T11:24:36Z | [TMM 2022] Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation | https://github.com/Vegetebird/StridedTransformer-Pose3D | 151 | 17| 
-| 20220627T09:45:53Z | Null | https://github.com/josslalou/Vulnerabilities_exploit_project | 0 | 0| 
-| 20220627T09:42:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3216 | 502| 
+| 20220627T23:44:03Z | Exploit writeups I%ve authored | https://github.com/MikeM64/Exploit-Writeups | 10 | 1| 
+| 20220627T22:12:34Z | Leaked by Avian, shitty exploit. | https://github.com/AviansAlt/terror-leak | 0 | 0| 
+| 20220627T22:07:23Z | Teensy portion of the PS3 lv0ldr hardware exploit | https://github.com/MikeM64/ps3-lv0ldr-teensy | 5 | 0| 
+| 20220627T21:57:03Z | Maian Cart 3.8 preauth RCE exploit | https://github.com/DreyAnd/maian-cart-rce | 7 | 2| 
+| 20220627T20:38:29Z | Null | https://github.com/nikosChalk/exploitation-training | 0 | 1| 
+| 20220627T20:25:01Z | Null | https://github.com/casrl/DeepSteal-exploit | 0 | 0| 
+| 20220627T19:44:05Z | Null | https://github.com/TobyG74/StumbleGuys-Exploit | 1 | 0| 
+| 20220627T19:43:11Z | Download the new murder mystery 2 duping exploit! easy to use and is currently undetected by the trash Roblox anti-cheat System! | https://github.com/prexurre/MM2-Dupe-V-1.01 | 0 | 0| 
+| 20220627T19:09:28Z | Null | https://github.com/Calvindd2f/exploits | 0 | 0| 
+| 20220627T17:32:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3090 | 375| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T20:37:09Z | Apllication for creating backdoors | https://github.com/mamicam/BackdoorApp | 0 | 0| 
+| 20220627T17:03:58Z | Lucifer is a RAT (Remote Administrator Trojan) Generator for Windows/Linux systems written in Python. | https://github.com/Malwareman007/Lucifer | 5 | 1| 
+| 20220627T15:44:22Z | VSFTPD v2.3.4 Backdoor Command Execution With Nodejs | https://github.com/Abidirettim/vsftpd_2.3.4_exploit | 0 | 0| 
+| 20220627T15:28:25Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 1 | 0| 
+| 20220627T15:05:24Z | Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer | https://github.com/canertol/rowhammer-backdoor | 0 | 0| 
 | 20220627T06:57:43Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 75 | 29| 
 | 20220627T05:03:24Z | Null | https://github.com/xuantien177/ttcs_backdoor_cmd_controller | 0 | 0| 
-| 20220627T04:45:17Z | Lucifer is a RAT (Remote Administrator Trojan) Generator for Windows/Linux systems written in Python. | https://github.com/Malwareman007/Lucifer | 4 | 1| 
 | 20220627T03:27:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 25 | 5| 
 | 20220626T21:59:43Z | Backdoor giving the user access to system commands on system , connected via same router network | https://github.com/rajat1201rm/Backdoor | 0 | 0| 
 | 20220626T20:24:03Z | WARNING MALWARE uma demonstração de exemplo de um aplicativo android com shell reverso implementado  | https://github.com/mednic/backdoor-android | 1 | 0| 
-| 20220626T16:39:32Z | Null | https://github.com/ouldevloper/Cpp-Backdoor | 0 | 0| 
-| 20220626T13:33:16Z | Null | https://github.com/bojieli/compiler-backdoor | 0 | 0| 
-| 20220626T09:14:12Z | Null | https://github.com/Seaocn/Link-Backdoor | 0 | 0| 
-| 20220626T01:07:51Z | windows and linux | https://github.com/fuzzerx/Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220627T21:11:08Z | D-Bus fuzzer | https://github.com/dbus-fuzzer/dfuzzer | 23 | 9| 
+| 20220627T20:49:08Z | Null | https://github.com/AnastasiaSharafutdinova99/fuzzyLogicProject | 0 | 0| 
+| 20220627T18:41:03Z | 1024 Birds to your fuzzer | https://github.com/Aif4thah/CShidori | 4 | 0| 
+| 20220627T18:16:48Z | Null | https://github.com/ouldevloper/Python-Fuzzer | 0 | 0| 
+| 20220627T17:32:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7536 | 1614| 
+| 20220627T17:14:06Z | Null | https://github.com/bkerly/mAB-Fuzzy-Match | 0 | 0| 
 | 20220627T12:50:18Z | Null | https://github.com/Eddahkarambu/Fuzzyengine | 0 | 0| 
 | 20220627T12:29:06Z | Null | https://github.com/jasae/fuzzy-dollop | 0 | 0| 
 | 20220627T11:30:33Z | Null | https://github.com/19hotani/fuzzy-guacamole | 0 | 0| 
 | 20220627T09:28:18Z | Null | https://github.com/pysf/fuzzy-adventure | 0 | 0| 
-| 20220627T08:56:29Z | Null | https://github.com/mattcoffey/fuzzy-feefo | 0 | 0| 
-| 20220627T08:24:30Z | Sebuah proyek sistem pendukung keputusan berbasis web dengan metode Fuzzy | https://github.com/hudtakim/spk-web-based-fuzzy | 1 | 0| 
-| 20220627T08:24:04Z | Null | https://github.com/mimicria/fuzz_scripts | 0 | 0| 
-| 20220627T08:10:23Z | Null | https://github.com/Alyanetwork/Fuzzy-pancake-e | 0 | 0| 
-| 20220627T01:08:56Z | Fullstackopen course CI/DI part | https://github.com/Anttko/fuzzy-pancake | 0 | 0| 
-| 20220627T00:59:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7535 | 1612| 
 
 
 
