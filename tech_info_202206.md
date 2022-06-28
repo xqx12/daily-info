@@ -88,10 +88,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220628T01:27:08Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | 1 | 0| 
 | 20220628T01:25:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3092 | 375| 
 | 20220628T01:13:54Z | Null | https://github.com/casrl/DeepSteal-exploit | 2 | 1| 
 | 20220628T00:30:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--- | 0 | 0| 
-| 20220628T00:29:28Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220628T00:28:39Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220627T23:44:03Z | Exploit writeups I%ve authored | https://github.com/MikeM64/Exploit-Writeups | 10 | 1| 
 | 20220627T22:12:34Z | Leaked by Avian, shitty exploit. | https://github.com/AviansAlt/terror-leak | 0 | 0| 
