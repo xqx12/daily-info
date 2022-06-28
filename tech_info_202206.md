@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220628T00:30:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220628T00:29:28Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220628T00:28:39Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220628T00:24:46Z | Null | https://github.com/casrl/DeepSteal-exploit | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220627T21:57:03Z | Maian Cart 3.8 preauth RCE exploit | https://github.com/DreyAnd/maian-cart-rce | 7 | 2| 
 | 20220627T20:38:29Z | Null | https://github.com/nikosChalk/exploitation-training | 0 | 1| 
 | 20220627T19:44:05Z | Null | https://github.com/TobyG74/StumbleGuys-Exploit | 1 | 0| 
-| 20220627T19:43:11Z | Download the new murder mystery 2 duping exploit! easy to use and is currently undetected by the trash Roblox anti-cheat System! | https://github.com/prexurre/MM2-Dupe-V-1.01 | 0 | 0| 
 
 
 # backdoor on Github 推荐
