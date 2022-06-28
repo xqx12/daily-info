@@ -66,8 +66,8 @@
 | 20220627T19:44:05Z | Null | https://github.com/TobyG74/StumbleGuys-Exploit | 1 | 0| 
 | 20220627T19:43:11Z | Download the new murder mystery 2 duping exploit! easy to use and is currently undetected by the trash Roblox anti-cheat System! | https://github.com/prexurre/MM2-Dupe-V-1.01 | 0 | 0| 
 | 20220627T19:09:28Z | Null | https://github.com/Calvindd2f/exploits | 0 | 0| 
-| 20220627T17:32:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3090 | 375| 
 | 20220627T14:15:34Z | Public Exploits For Roblox | https://github.com/DuxV2/Arsenal | 0 | 0| 
+| 20220627T12:57:33Z | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 471 | 26| 
 
 
 # backdoor on Github 推荐

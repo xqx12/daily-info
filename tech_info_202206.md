@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220628T01:18:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3091 | 375| 
 | 20220628T01:13:54Z | Null | https://github.com/casrl/DeepSteal-exploit | 2 | 1| 
 | 20220628T00:30:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220628T00:29:28Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220627T22:07:23Z | Teensy portion of the PS3 lv0ldr hardware exploit | https://github.com/MikeM64/ps3-lv0ldr-teensy | 5 | 0| 
 | 20220627T21:57:03Z | Maian Cart 3.8 preauth RCE exploit | https://github.com/DreyAnd/maian-cart-rce | 7 | 2| 
 | 20220627T20:38:29Z | Null | https://github.com/nikosChalk/exploitation-training | 0 | 1| 
-| 20220627T19:44:05Z | Null | https://github.com/TobyG74/StumbleGuys-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
