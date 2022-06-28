@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220628T00:29:28Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN--- | 0 | 0| 
+| 20220628T00:28:39Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--- | 0 | 0| 
 | 20220628T00:24:46Z | Null | https://github.com/casrl/DeepSteal-exploit | 1 | 0| 
 | 20220627T23:44:03Z | Exploit writeups I%ve authored | https://github.com/MikeM64/Exploit-Writeups | 10 | 1| 
 | 20220627T22:12:34Z | Leaked by Avian, shitty exploit. | https://github.com/AviansAlt/terror-leak | 0 | 0| 
@@ -96,8 +98,6 @@
 | 20220627T20:38:29Z | Null | https://github.com/nikosChalk/exploitation-training | 0 | 1| 
 | 20220627T19:44:05Z | Null | https://github.com/TobyG74/StumbleGuys-Exploit | 1 | 0| 
 | 20220627T19:43:11Z | Download the new murder mystery 2 duping exploit! easy to use and is currently undetected by the trash Roblox anti-cheat System! | https://github.com/prexurre/MM2-Dupe-V-1.01 | 0 | 0| 
-| 20220627T19:09:28Z | Null | https://github.com/Calvindd2f/exploits | 0 | 0| 
-| 20220627T17:32:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3090 | 375| 
 
 
 # backdoor on Github 推荐
