@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220630T12:28:53Z | FE JET PACK SCRIPT ROBLOX EXPLOITERS | https://github.com/PrototypeRBLX/FE-JetPack-Script | 0 | 0| 
 | 20220630T12:22:05Z | This is Satirhz Exploit V2, if u want to see Satirhz Exploit V1 u can visit https://github.com/ERRRRRRRLAN/SatirExploit | https://github.com/ERRRRRRRLAN/Satirhz-V2 | 0 | 0| 
 | 20220630T12:20:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3103 | 377| 
 | 20220630T12:08:33Z | This is an Satirhz Exploit Made by Alby#2112 A.K.A Me, this is my first roblox exploit. My exploit have 2 API (WeAreDevs and EasyExploit) | https://github.com/ERRRRRRRLAN/SatirExploit | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220630T11:17:16Z | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | 5 | 2| 
 | 20220630T11:06:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 64 | 9| 
 | 20220630T10:34:35Z | Exploitaion Scripts | https://github.com/1xR1FAT/My-Exploitaion-Scripts | 0 | 0| 
-| 20220630T06:29:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 444 | 126| 
 
 
 # backdoor on Github 推荐
