@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220630T12:08:33Z | This is an Satirhz Exploit Made by Alby#2112 A.K.A Me, this is my first roblox exploit. My exploit have 2 API (WeAreDevs and EasyExploit) | https://github.com/ERRRRRRRLAN/SatirExploit | 0 | 0| 
+| 20220630T12:06:12Z | Code examples and snippets for hacking tutorial based on the book: Hacking - The Art of Exploitation | https://github.com/Yuhala/hacking-tuto | 0 | 0| 
 | 20220630T11:33:27Z | Exploiting large pre-trained models for low-resource neural machine translation | https://github.com/transducens/tune-n-distill | 0 | 0| 
 | 20220630T11:17:16Z | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | 5 | 2| 
 | 20220630T11:06:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 64 | 9| 
@@ -96,8 +98,6 @@
 | 20220630T06:29:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 444 | 126| 
 | 20220629T10:25:56Z | Inter-slice mobility in 5G networks allows mobility of user sessions from one network slice to another. A novel targeted attack against network slices of 5G networks by exploiting the user equipment-initiated inter-slice mobility will be mentioned here. We name this attack as distributed slice mobility (DSM) attack. The performance and economic damage caused by the DSM attack is higher than the denial-of-service and Yo-Yo attacks. We will deep learning model to detect this kind of attack efficiently | https://github.com/harrychien1311/Distributed-Slice-mobility-attack-detection | 0 | 0| 
 | 20220629T09:40:30Z | Cours et exercices sur les principes, la programmation et la virtualisation des systèmes d%exploitation | https://github.com/kyweez/SMB-101_SystemesExploitation | 0 | 0| 
-| 20220629T09:37:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3238 | 512| 
-| 20220629T06:05:57Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 123 | 28| 
 
 
 # backdoor on Github 推荐
@@ -152,8 +152,8 @@
 | 20220630T10:07:20Z | URLS  | https://github.com/Dus27/fuzzy-spork | 0 | 0| 
 | 20220630T09:25:29Z | Null | https://github.com/Skullcrusher2099/fuzzy-palm-tree | 0 | 0| 
 | 20220630T08:42:57Z | Mine | https://github.com/Influ151515/fuzzy-octo-computing-machine | 1 | 0| 
-| 20220630T06:47:43Z | A curated list of Grammar based fuzzing research papers, codes, tutorials | https://github.com/Microsvuln/Awesome-Grammar-Fuzzing | 50 | 1| 
-| 20220627T21:11:08Z | D-Bus fuzzer | https://github.com/dbus-fuzzer/dfuzzer | 23 | 9| 
+| 20220630T07:51:25Z | 针对小型应用服务搜索场景的工具包（也可部署为独立服务） | https://github.com/kc910521/MiniSearch | 5 | 0| 
+| 20220630T07:41:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7546 | 1618| 
 
 
 
