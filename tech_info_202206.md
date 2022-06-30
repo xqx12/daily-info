@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220630T12:53:05Z | Wargame Exploit Codes | https://github.com/realsung/Wargame | 0 | 0| 
 | 20220630T12:48:18Z | This is Satirhz exploit V2, if u want to use v1 u can visit https://github.com/ERRRRRRRLAN/SatirExploit | https://github.com/ERRRRRRRLAN/Satir-V2 | 0 | 0| 
 | 20220630T12:38:09Z | Code examples and snippets for hacking tutorial based on the book: Hacking - The Art of Exploitation | https://github.com/Yuhala/hacking-tuto | 0 | 0| 
 | 20220630T12:30:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11660 | 2006| 
@@ -97,7 +98,6 @@
 | 20220630T12:08:33Z | This is an Satirhz Exploit Made by Alby#2112 A.K.A Me, this is my first roblox exploit. My exploit have 2 API (WeAreDevs and EasyExploit) | https://github.com/ERRRRRRRLAN/SatirExploit | 0 | 0| 
 | 20220630T12:03:58Z | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | 19 | 5| 
 | 20220630T11:33:27Z | Exploiting large pre-trained models for low-resource neural machine translation | https://github.com/transducens/tune-n-distill | 0 | 0| 
-| 20220630T11:17:16Z | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | 5 | 2| 
 
 
 # backdoor on Github 推荐
