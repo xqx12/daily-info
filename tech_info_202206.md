@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220630T12:22:05Z | This is Satirhz Exploit V2, if u want to see Satirhz Exploit V1 u can visit https://github.com/ERRRRRRRLAN/SatirExploit | https://github.com/ERRRRRRRLAN/Satirhz-V2 | 0 | 0| 
 | 20220630T12:20:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3103 | 377| 
-| 20220630T12:15:04Z | This is Satirhz Exploit V2, if u want to see Satirhz Exploit V1 u can visit https://github.com/ERRRRRRRLAN/SatirExploit | https://github.com/ERRRRRRRLAN/Satirhz-V2 | 0 | 0| 
 | 20220630T12:08:33Z | This is an Satirhz Exploit Made by Alby#2112 A.K.A Me, this is my first roblox exploit. My exploit have 2 API (WeAreDevs and EasyExploit) | https://github.com/ERRRRRRRLAN/SatirExploit | 0 | 0| 
 | 20220630T12:06:12Z | Code examples and snippets for hacking tutorial based on the book: Hacking - The Art of Exploitation | https://github.com/Yuhala/hacking-tuto | 0 | 0| 
 | 20220630T12:03:58Z | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | 19 | 5| 
