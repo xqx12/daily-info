@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220630T12:45:21Z | This is Satirhz exploit V2, if u want to use v1 u can visit https://github.com/ERRRRRRRLAN/SatirExploit | https://github.com/ERRRRRRRLAN/Satir-V2 | 0 | 0| 
+| 20220630T12:48:18Z | This is Satirhz exploit V2, if u want to use v1 u can visit https://github.com/ERRRRRRRLAN/SatirExploit | https://github.com/ERRRRRRRLAN/Satir-V2 | 0 | 0| 
 | 20220630T12:38:09Z | Code examples and snippets for hacking tutorial based on the book: Hacking - The Art of Exploitation | https://github.com/Yuhala/hacking-tuto | 0 | 0| 
 | 20220630T12:30:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11660 | 2006| 
 | 20220630T12:28:53Z | FE JET PACK SCRIPT ROBLOX EXPLOITERS | https://github.com/PrototypeRBLX/FE-JetPack-Script | 0 | 0| 
