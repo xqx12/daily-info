@@ -24,6 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220630T12:57:29Z | CVE-2022-28117 | Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated) | https://github.com/cheshireca7/CVE-2022-28117 | | 
 | 20220630T12:00:48Z | CVE-2022-32532 | Apache Shiro CVE-2022-32532 | https://github.com/4ra1n/CVE-2022-32532 | | 
 | 20220630T11:17:16Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
 | 20220630T10:47:14Z | CVE-2021-42237 | Null | https://github.com/vesperp/CVE-2021-42237-SiteCore-XP | | 
@@ -33,7 +34,6 @@
 | 20220630T06:31:09Z | CVE-2020-26413 | GitLab-Graphql-CVE-2020-26413 POC | https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413 | | 
 | 20220630T06:04:46Z | CVE-2022-1903 | ARMember < 3.4.8 - Unauthenticated Admin Account Takeover | https://github.com/biulove0x/CVE-2022-1903 | | 
 | 20220630T05:35:59Z | CVE-2022-30190 | CVE-2022-30190 powerpoint version | https://github.com/Gra3s/CVE-2022-30190-Follina-PowerPoint-Version | | 
-| 20220630T02:19:17Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/flux10n/CVE-2022-0847-DirtyPipe-Exploits | | 
 
 
 # klee on Github 推荐
