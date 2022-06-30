@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220630T12:15:04Z | This is Satirhz Exploit V2, if u want to see Satirhz Exploit V1 u can visit https://github.com/ERRRRRRRLAN/SatirExploit | https://github.com/ERRRRRRRLAN/Satirhz-V2 | 0 | 0| 
 | 20220630T12:08:33Z | This is an Satirhz Exploit Made by Alby#2112 A.K.A Me, this is my first roblox exploit. My exploit have 2 API (WeAreDevs and EasyExploit) | https://github.com/ERRRRRRRLAN/SatirExploit | 0 | 0| 
 | 20220630T12:06:12Z | Code examples and snippets for hacking tutorial based on the book: Hacking - The Art of Exploitation | https://github.com/Yuhala/hacking-tuto | 0 | 0| 
 | 20220630T12:03:58Z | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | 19 | 5| 
@@ -97,7 +98,6 @@
 | 20220630T10:34:35Z | Exploitaion Scripts | https://github.com/1xR1FAT/My-Exploitaion-Scripts | 0 | 0| 
 | 20220630T10:34:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3102 | 377| 
 | 20220630T06:29:15Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 444 | 126| 
-| 20220629T10:25:56Z | Inter-slice mobility in 5G networks allows mobility of user sessions from one network slice to another. A novel targeted attack against network slices of 5G networks by exploiting the user equipment-initiated inter-slice mobility will be mentioned here. We name this attack as distributed slice mobility (DSM) attack. The performance and economic damage caused by the DSM attack is higher than the denial-of-service and Yo-Yo attacks. We will deep learning model to detect this kind of attack efficiently | https://github.com/harrychien1311/Distributed-Slice-mobility-attack-detection | 0 | 0| 
 
 
 # backdoor on Github 推荐
