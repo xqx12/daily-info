@@ -14,6 +14,9 @@
 | 20220630 | MD5 的 Hash 碰撞以及对应的碰撞攻击方法 | https://github.com/corkami/collisions| 
 | 20220630 | Zoho ManageEngine ADAudit Plus unauth RCE 漏洞分析（CVE-2022-28219） | http://www.horizon3.ai/red-team-blog-cve-2022-28219/| 
 | 20220630 | Pwn2Own 2021 比赛利用 macOS Intel 图形驱动的漏洞实现 Safari 沙箱逃逸的细节 | http://blog.ret2.io/2022/06/29/pwn2own-2021-safari-sandbox-intel-graphics-exploit/| 
+| 20220630 | 2022年开源操作系统训练营 | https://learningos.github.io/rust-based-os-comp2022/| 
+| 20220630 | MYExploit: OAExploit一款基于产品的一键扫描工具。 | https://github.com/achuna33/MYExploit| 
+| 20220630 | XCTF-ACTF 部分区块链题目 | https://tttang.com/archive/1637/| 
 
 
 # 安全维基 推荐
@@ -24,16 +27,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220630T23:46:19Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
+| 20220630T23:45:05Z | CVE-2022-32532 | Apache Shiro CVE-2022-32532 | https://github.com/4ra1n/CVE-2022-32532 | | 
+| 20220630T21:36:33Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/AZMagic/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20220630T21:35:50Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20220630T21:33:09Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/AZMagic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
+| 20220630T20:48:15Z | CVE-2021-23017 | 0.6.18 - 1.20.0 Nginx Memory Overwrite Vulnerability PoC | https://github.com/M507/CVE-2021-23017-PoC | | 
+| 20220630T16:30:00Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
+| 20220630T13:41:25Z | CVE-2022-0847 | Null | https://github.com/Asbatel/CBDS_CVE-2022-0847_POC | | 
 | 20220630T12:57:29Z | CVE-2022-28117 | Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated) | https://github.com/cheshireca7/CVE-2022-28117 | | 
-| 20220630T12:00:48Z | CVE-2022-32532 | Apache Shiro CVE-2022-32532 | https://github.com/4ra1n/CVE-2022-32532 | | 
-| 20220630T11:17:16Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
 | 20220630T10:47:14Z | CVE-2021-42237 | Null | https://github.com/vesperp/CVE-2021-42237-SiteCore-XP | | 
-| 20220630T09:48:06Z | CVE-2022-22980 | [CVE-2022-22980] Spring Data MongoDB SpEL Expression injection | https://github.com/murataydemir/CVE-2022-22980 | | 
-| 20220630T08:45:28Z | 未知编号 | PoC for Android Projects | https://github.com/Humilton/CVE202X | | 
-| 20220630T07:04:57Z | CVE-2021-23017 | 0.6.18 - 1.20.0 Nginx Memory Overwrite Vulnerability PoC | https://github.com/M507/CVE-2021-23017-PoC | | 
-| 20220630T06:31:09Z | CVE-2020-26413 | GitLab-Graphql-CVE-2020-26413 POC | https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413 | | 
-| 20220630T06:04:46Z | CVE-2022-1903 | ARMember < 3.4.8 - Unauthenticated Admin Account Takeover | https://github.com/biulove0x/CVE-2022-1903 | | 
-| 20220630T05:35:59Z | CVE-2022-30190 | CVE-2022-30190 powerpoint version | https://github.com/Gra3s/CVE-2022-30190-Follina-PowerPoint-Version | | 
 
 
 # klee on Github 推荐
@@ -53,21 +56,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220630T12:53:05Z | Wargame Exploit Codes | https://github.com/realsung/Wargame | 0 | 0| 
-| 20220630T12:48:18Z | This is Satirhz exploit V2, if u want to use v1 u can visit https://github.com/ERRRRRRRLAN/SatirExploit | https://github.com/ERRRRRRRLAN/Satir-V2 | 0 | 0| 
-| 20220630T12:38:09Z | Code examples and snippets for hacking tutorial based on the book: Hacking - The Art of Exploitation | https://github.com/Yuhala/hacking-tuto | 0 | 0| 
-| 20220630T12:30:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11660 | 2006| 
-| 20220630T12:28:53Z | FE JET PACK SCRIPT ROBLOX EXPLOITERS | https://github.com/PrototypeRBLX/FE-JetPack-Script | 0 | 0| 
-| 20220630T12:22:05Z | This is Satirhz Exploit V2, if u want to see Satirhz Exploit V1 u can visit https://github.com/ERRRRRRRLAN/SatirExploit | https://github.com/ERRRRRRRLAN/Satirhz-V2 | 0 | 0| 
-| 20220630T12:20:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3103 | 377| 
-| 20220630T12:08:33Z | This is an Satirhz Exploit Made by Alby#2112 A.K.A Me, this is my first roblox exploit. My exploit have 2 API (WeAreDevs and EasyExploit) | https://github.com/ERRRRRRRLAN/SatirExploit | 0 | 0| 
-| 20220630T12:03:58Z | Collection of Exploits(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | 19 | 5| 
-| 20220630T11:33:27Z | Exploiting large pre-trained models for low-resource neural machine translation | https://github.com/transducens/tune-n-distill | 0 | 0| 
+| 20220630T22:30:36Z | Modern, quality hacks developed by professional developers A variety of game hacks and cheats with outstanding features 24/7 customer support Protection against anti-cheat software Completely secure and undetected Continuous patches and updates Kernel level bypasses for complete and long-term security Weapon Selection Memory Aim On Key (On/Off) Silent Aim (P Silent) Aim Bones (Head) (Neck) (Body) (Closest) No Recoil Knocked Players Backtrack Visibles Check Smooth (1-10) FOV (1-100) | https://github.com/darck890/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
+| 20220630T22:13:57Z | Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there%s no macro support) -Startup -base64 encode | https://github.com/themarkin/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
+| 20220630T21:35:50Z | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
+| 20220630T21:35:25Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. | https://github.com/AZMagic/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
+| 20220630T21:35:01Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/AZMagic/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
+| 20220630T21:33:09Z | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/AZMagic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
+| 20220630T20:56:03Z | Download the new murder mystery 2 duping exploit! easy to use and is currently undetected by the trash Roblox anti-cheat System! | https://github.com/prexurre/MM2-Dupe-V-1.01 | 0 | 1| 
+| 20220630T20:41:58Z | PDF Exploit | https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-2022---PDF-Exploits | 2 | 0| 
+| 20220630T17:30:03Z | Simple script that I made to exploit the blind SQL injection module during the burpsuite academy  | https://github.com/Burly0/Burpsuite-certificate-python-Script | 1 | 0| 
+| 20220630T15:40:37Z | A lightweight protection from IP-forward bypass exploit for your network. | https://github.com/dejvokep/safe-net | 3 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220630T21:45:00Z | Null | https://github.com/dsutt13/Backdoor | 0 | 0| 
+| 20220630T17:47:25Z | this py script will generate vbs dropper to run the dart shell in the background | https://github.com/youhacker55/Dirty-Hack | 0 | 0| 
+| 20220630T16:36:52Z | Benign Wireshark or Trojan: Analysis of a disguise Python Backdoor (Journal Paper) | https://github.com/S-mahmud-tomal/Python-Backdoor-Source-Codes | 0 | 0| 
+| 20220630T16:21:13Z | ZoFinder is a tool used for searching for backdoors in a website using the most common backdoor paths after checking the website%s CMS for more precise and effective search. | https://github.com/AzizBenKhlil/ZoFinder | 0 | 0| 
 | 20220630T06:42:56Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 76 | 29| 
 | 20220630T06:14:53Z | Minecraft plugin backdoor injector | https://github.com/VoxelHax/OpenBukloit | 4 | 0| 
 | 20220630T03:19:42Z | Linkedin clone | https://github.com/riezkynfajri/backdoor | 0 | 0| 
@@ -90,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220630T23:15:08Z | Null | https://github.com/hito-kotaro/fuzzy-parakeet | 0 | 0| 
+| 20220630T22:56:51Z | CrackQL is a GraphQL password brute-force and fuzzing utility. | https://github.com/nicholasaleks/CrackQL | 0 | 0| 
+| 20220630T22:27:14Z | Null | https://github.com/Zama505/-fuzzy-robot | 0 | 0| 
+| 20220630T22:20:20Z | ant4g0nist%s blog | https://github.com/ant4g0nist/fuzzing.science | 4 | 1| 
+| 20220630T21:04:06Z | Fuzzy block breaking game | https://github.com/lefterise/Fuzzy | 0 | 0| 
+| 20220630T20:45:21Z | Null | https://github.com/LorenzoZaccagnini/foundry-smart-contract-fuzzing-test | 0 | 0| 
+| 20220630T20:26:34Z | So in this learning project i%ve created simple car prototype with stepper motor as aktuator and fuzzy for this robot | https://github.com/adhiiimf/Car-Stepper-Robot-Fuzzy | 0 | 0| 
+| 20220630T20:26:05Z | Sample independent project | https://github.com/moringawonder/fuzzy-waddle | 0 | 0| 
 | 20220630T11:28:46Z | Null | https://github.com/Judith-TechLab/fuzzy-octo-robot | 0 | 0| 
 | 20220630T11:23:24Z | Null | https://github.com/Morra1/fuzzy-carnival | 0 | 0| 
-| 20220630T11:03:13Z | Null | https://github.com/MrinskiyAndrey/FuzzyLogicProject | 0 | 0| 
-| 20220630T10:34:15Z | Null | https://github.com/SarahRahimian/Fuzzy-T-norm-and-S-norm-Methods | 0 | 0| 
-| 20220630T10:32:03Z | Null | https://github.com/ChyunKim/fuzzy-guide | 0 | 0| 
-| 20220630T10:07:20Z | URLS  | https://github.com/Dus27/fuzzy-spork | 0 | 0| 
-| 20220630T09:25:29Z | Null | https://github.com/Skullcrusher2099/fuzzy-palm-tree | 0 | 0| 
-| 20220630T08:42:57Z | Mine | https://github.com/Influ151515/fuzzy-octo-computing-machine | 1 | 0| 
-| 20220630T07:51:25Z | 针对小型应用服务搜索场景的工具包（也可部署为独立服务） | https://github.com/kc910521/MiniSearch | 5 | 0| 
-| 20220630T07:41:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7546 | 1618| 
 
 
 
