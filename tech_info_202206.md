@@ -47,7 +47,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220630T23:46:19Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
-| 20220630T23:45:05Z | CVE-2022-32532 | Apache Shiro CVE-2022-32532 | https://github.com/4ra1n/CVE-2022-32532 | | 
 | 20220630T21:36:33Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/AZMagic/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220630T21:35:50Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220630T21:33:09Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/AZMagic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
@@ -56,6 +55,7 @@
 | 20220630T13:41:25Z | CVE-2022-0847 | Null | https://github.com/Asbatel/CBDS_CVE-2022-0847_POC | | 
 | 20220630T12:57:29Z | CVE-2022-28117 | Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated) | https://github.com/cheshireca7/CVE-2022-28117 | | 
 | 20220630T10:47:14Z | CVE-2021-42237 | Null | https://github.com/vesperp/CVE-2021-42237-SiteCore-XP | | 
+| 20220630T09:48:06Z | CVE-2022-22980 | [CVE-2022-22980] Spring Data MongoDB SpEL Expression injection | https://github.com/murataydemir/CVE-2022-22980 | | 
 
 
 # klee on Github 推荐
