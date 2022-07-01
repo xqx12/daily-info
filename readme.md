@@ -105,8 +105,8 @@
 | 20220630T20:45:21Z | Null | https://github.com/LorenzoZaccagnini/foundry-smart-contract-fuzzing-test | 0 | 0| 
 | 20220630T20:26:34Z | So in this learning project i%ve created simple car prototype with stepper motor as aktuator and fuzzy for this robot | https://github.com/adhiiimf/Car-Stepper-Robot-Fuzzy | 0 | 0| 
 | 20220630T20:26:05Z | Sample independent project | https://github.com/moringawonder/fuzzy-waddle | 0 | 0| 
+| 20220630T16:39:06Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 174 | 21| 
 | 20220630T11:28:46Z | Null | https://github.com/Judith-TechLab/fuzzy-octo-robot | 0 | 0| 
-| 20220630T11:23:24Z | Null | https://github.com/Morra1/fuzzy-carnival | 0 | 0| 
 
 
 
