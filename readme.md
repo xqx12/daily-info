@@ -29,7 +29,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220630T23:46:19Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
 | 20220630T21:36:33Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/AZMagic/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20220630T21:35:50Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220630T21:33:09Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/AZMagic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220630T20:48:15Z | CVE-2021-23017 | 0.6.18 - 1.20.0 Nginx Memory Overwrite Vulnerability PoC | https://github.com/M507/CVE-2021-23017-PoC | | 
 | 20220630T16:30:00Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
@@ -37,6 +36,7 @@
 | 20220630T12:57:29Z | CVE-2022-28117 | Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated) | https://github.com/cheshireca7/CVE-2022-28117 | | 
 | 20220630T10:47:14Z | CVE-2021-42237 | Null | https://github.com/vesperp/CVE-2021-42237-SiteCore-XP | | 
 | 20220630T09:48:06Z | CVE-2022-22980 | [CVE-2022-22980] Spring Data MongoDB SpEL Expression injection | https://github.com/murataydemir/CVE-2022-22980 | | 
+| 20220630T08:45:28Z | 未知编号 | PoC for Android Projects | https://github.com/Humilton/CVE202X | | 
 
 
 # klee on Github 推荐
@@ -44,7 +44,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220630T09:02:43Z | Null | https://github.com/Martinsngene/kleekit | 0 | 0| 
 | 20220630T08:53:31Z | Null | https://github.com/Kleekit/kleekitltd | 0 | 0| 
-| 20220630T07:59:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1996 | 568| 
 | 20220630T03:13:10Z | Config files for my GitHub profile. | https://github.com/klee2016/klee2016 | 0 | 0| 
 
 
@@ -86,7 +85,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220630T23:39:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2956 | 419| 
 | 20220630T09:01:43Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 197 | 24| 
-| 20220630T07:59:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1996 | 568| 
 
 
 # big4 on Github 推荐
@@ -105,8 +103,8 @@
 | 20220630T20:45:21Z | Null | https://github.com/LorenzoZaccagnini/foundry-smart-contract-fuzzing-test | 0 | 0| 
 | 20220630T20:26:34Z | So in this learning project i%ve created simple car prototype with stepper motor as aktuator and fuzzy for this robot | https://github.com/adhiiimf/Car-Stepper-Robot-Fuzzy | 0 | 0| 
 | 20220630T20:26:05Z | Sample independent project | https://github.com/moringawonder/fuzzy-waddle | 0 | 0| 
+| 20220630T17:04:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7548 | 1618| 
 | 20220630T16:39:06Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 174 | 21| 
-| 20220630T11:28:46Z | Null | https://github.com/Judith-TechLab/fuzzy-octo-robot | 0 | 0| 
 
 
 
