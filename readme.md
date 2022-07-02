@@ -29,7 +29,6 @@
 | 20220701T09:58:35Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
 | 20220701T09:02:10Z | CVE-2022-29885 | Apache Tomcat DoS (CVE-2022-29885) Exploit | https://github.com/iveresk/CVE-2022-29885 | | 
 | 20220701T08:28:12Z | CVE-2021-23017 | PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017 | https://github.com/M507/CVE-2021-23017-PoC | | 
-| 20220701T08:00:22Z | CVE-2022-32532 | Apache Shiro CVE-2022-32532 | https://github.com/4ra1n/CVE-2022-32532 | | 
 | 20220701T01:39:38Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 
 
