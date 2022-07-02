@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220702T12:19:21Z | CVE-2021-21300 | Null | https://github.com/macilin/CVE-2021-21300 | | 
 | 20220702T07:58:01Z | CVE-2022-2185 | CVE-2022-2185 poc | https://github.com/safe3s/CVE-2022-2185-poc | | 
 | 20220702T05:58:13Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
 | 20220702T05:28:37Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 

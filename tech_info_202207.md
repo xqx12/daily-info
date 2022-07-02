@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220702T12:19:21Z | CVE-2021-21300 | Null | https://github.com/macilin/CVE-2021-21300 | | 
 | 20220702T07:58:01Z | CVE-2022-2185 | CVE-2022-2185 poc | https://github.com/safe3s/CVE-2022-2185-poc | | 
 | 20220702T05:58:13Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
 | 20220702T05:28:37Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
@@ -37,7 +38,6 @@
 | 20220701T13:25:04Z | CVE-2022-20130 | Null | https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130 | | 
 | 20220701T09:02:10Z | CVE-2022-29885 | Apache Tomcat DoS (CVE-2022-29885) Exploit | https://github.com/iveresk/CVE-2022-29885 | | 
 | 20220701T08:28:12Z | CVE-2021-23017 | PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017 | https://github.com/M507/CVE-2021-23017-PoC | | 
-| 20220701T01:39:38Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 
 
 # klee on Github 推荐
