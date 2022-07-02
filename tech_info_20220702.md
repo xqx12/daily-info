@@ -42,8 +42,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220702T12:42:16Z | discord text exploit tricks | https://github.com/HeySkidee/Discord-Text-Exploit | 0 | 0| 
 | 20220702T12:02:15Z | Null | https://github.com/hack-parthsharma/Ofbiz-Exploit | 2 | 0| 
-| 20220702T11:16:42Z | Null | https://github.com/HeySkidee/Discord-Text-Exploit | 0 | 0| 
 | 20220702T10:38:34Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 741 | 31| 
 | 20220702T09:36:42Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3334 | 702| 
 | 20220702T09:27:44Z | In this repository, I try to perform a mainnet fork and then simulate popular smart contract exploits on various DEFI Protocols using Hardhat Framework. | https://github.com/zzzuhaibmohd/defiHacks_via_Hardhat | 0 | 0| 
