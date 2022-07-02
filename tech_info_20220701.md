@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220701T21:55:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11668 | 2007| 
 | 20220701T21:44:57Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
 | 20220701T21:30:31Z | Exploit Host For 900 FW to Host GoldHEN Beta Releases | https://github.com/kmeps4/900b | 0 | 0| 
 | 20220701T20:41:01Z | Test to see if your Exchange server has been exploited using the session manager vulnerability | https://github.com/geekonamotorcycle/Test-SessionManager | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20220701T19:12:07Z | Exploit code for LEGIT challenge in Misc category | https://github.com/will2robot/googlectf2022-Misc-LEGIT | 0 | 0| 
 | 20220701T18:19:52Z | PoC for exploiting CVE-2022-1388 on BIG IP F5 | https://github.com/Luchoane/CVE-2022-1388_refresh | 0 | 0| 
 | 20220701T12:51:20Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 63 | 4| 
-| 20220701T12:46:03Z | Cloud backup of exploitation scripts for recycling. | https://github.com/gister9000/python-exploit-skeletons | 0 | 0| 
 
 
 # backdoor on Github 推荐

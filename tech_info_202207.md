@@ -48,16 +48,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220702T00:55:36Z | A central webpage for trying out code and tracking all of my learning exploits | https://github.com/Apex-Incarna/the-learning-project | 0 | 0| 
 | 20220702T00:43:47Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..1 | 0 | 0| 
 | 20220702T00:43:00Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..1 | 0 | 0| 
 | 20220702T00:41:56Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..1 | 0 | 0| 
+| 20220701T21:55:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11668 | 2007| 
 | 20220701T21:44:57Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
 | 20220701T21:30:31Z | Exploit Host For 900 FW to Host GoldHEN Beta Releases | https://github.com/kmeps4/900b | 0 | 0| 
 | 20220701T20:41:01Z | Test to see if your Exchange server has been exploited using the session manager vulnerability | https://github.com/geekonamotorcycle/Test-SessionManager | 0 | 0| 
 | 20220701T20:18:26Z | https://mega.nz/folder/4XMVmb6b#0c5YYZPisjP5QeRS99EvLA External Fortnite Cheat written mostly in C++.  Status: Updated to latest patch, BattleEye only!  Cheat Features:  Aimbot  Mouse Aimbot Skip Knocked Players Bone Target Smoothness Max Distance Visuals  3D Bounding Box Corner Box Basic Box Snaplines Skeletons Distance Current Eqipped Weapon (Ammo Count, Reloading Check) Platform (in progress) Max Distance Misc  Draw Crosshair Draw Circle FOV Aimbot FOV Value World  Loots Utils Vehicles Chests Ammo Boxes Max Distance Exploits  No Bloom Spinbot Boat Fly Boat Speed Multiplier Boat Speed FOV Changer | https://github.com/cxpside/AIMBOT-SKIN-CHANGER-by-cxpside | 0 | 0| 
 | 20220701T20:17:18Z | https://mega.nz/folder/4XMVmb6b#0c5YYZPisjP5QeRS99EvLAExternal Fortnite Cheat written mostly in C++.  Status: Updated to latest patch, BattleEye only!  Cheat Features:  Aimbot  Mouse Aimbot Skip Knocked Players Bone Target Smoothness Max Distance Visuals  3D Bounding Box Corner Box Basic Box Snaplines Skeletons Distance Current Eqipped Weapon (Ammo Count, Reloading Check) Platform (in progress) Max Distance Misc  Draw Crosshair Draw Circle FOV Aimbot FOV Value World  Loots Utils Vehicles Chests Ammo Boxes Max Distance Exploits  No Bloom Spinbot Boat Fly Boat Speed Multiplier Boat Speed FOV Changer | https://github.com/cxpside/AIMBOT-BY-CXPSIDE- | 0 | 0| 
-| 20220701T20:04:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 65 | 9| 
-| 20220701T19:12:07Z | Exploit code for LEGIT challenge in Misc category | https://github.com/will2robot/googlectf2022-Misc-LEGIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
