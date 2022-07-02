@@ -84,7 +84,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220701T08:53:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2960 | 419| 
+| 20220702T03:34:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2961 | 419| 
 | 20220701T03:39:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1998 | 568| 
 | 20220701T01:24:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 233 | 57| 
 
