@@ -41,7 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220702T11:59:11Z | Null | https://github.com/hack-parthsharma/Ofbiz-Exploit | 1 | 0| 
+| 20220702T12:02:15Z | Null | https://github.com/hack-parthsharma/Ofbiz-Exploit | 2 | 0| 
 | 20220702T11:16:42Z | Null | https://github.com/HeySkidee/Discord-Text-Exploit | 0 | 0| 
 | 20220702T10:38:34Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 741 | 31| 
 | 20220702T09:36:42Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3334 | 702| 
@@ -56,6 +56,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220702T07:44:38Z | Backdoors and Breaches | https://github.com/Gravim3tr1c/BackBreach | 0 | 0| 
+| 20220702T03:40:34Z | Null | https://github.com/7enpaii/BackDoorX | 0 | 0| 
+| 20220702T02:25:15Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 75 | 29| 
 
 
 # symbolic execution on Github 推荐
