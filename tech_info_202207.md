@@ -65,7 +65,7 @@
 | 20220702T08:38:16Z | Null | https://github.com/WanShannn/Exploit-vsftpd | 0 | 0| 
 | 20220702T08:33:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3109 | 378| 
 | 20220702T08:29:01Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7402 | 1727| 
-| 20220702T01:44:35Z | Is a exploit for %Roblox% | https://github.com/DragonOFFC/JJSploit | 0 | 0| 
+| 20220702T06:25:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11671 | 2010| 
 
 
 # backdoor on Github 推荐
