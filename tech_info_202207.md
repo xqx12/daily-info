@@ -18,16 +18,23 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220702 | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 | https://github.com/zan8in/afrog| 
+| 20220702 | BlueHound-一款自研主机威胁狩猎工具 | https://github.com/10000Tigers/BlueHound| 
+| 20220702 | 记一次Jira的搭建和相关利用 | https://xz.aliyun.com/t/11491| 
+| 20220702 | 浅谈Shiro CVE-2022-32532 | https://4ra1n.love/post/bHi_S3YrB/| 
+| 20220702 | JARM指纹随机化技术实现 | http://noahblog.360.cn/jarmzhi-wen-sui-ji-hua-ji-zhu-shi-xian/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220702T07:58:01Z | CVE-2022-2185 | CVE-2022-2185 poc | https://github.com/safe3s/CVE-2022-2185-poc | | 
+| 20220702T05:58:13Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
+| 20220702T05:28:37Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
 | 20220702T01:36:06Z | CVE-2022-32532 | Apache Shiro CVE-2022-32532 | https://github.com/4ra1n/CVE-2022-32532 | | 
 | 20220701T18:19:52Z | CVE-2022-1388 | PoC for exploiting CVE-2022-1388 on BIG IP F5 | https://github.com/Luchoane/CVE-2022-1388_refresh | | 
 | 20220701T15:06:54Z | CVE-2021-44158 | ASUS router exploit | https://github.com/Expl0desploit/CVE-2021-44158 | | 
 | 20220701T13:25:04Z | CVE-2022-20130 | Null | https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130 | | 
-| 20220701T09:58:35Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
 | 20220701T09:02:10Z | CVE-2022-29885 | Apache Tomcat DoS (CVE-2022-29885) Exploit | https://github.com/iveresk/CVE-2022-29885 | | 
 | 20220701T08:28:12Z | CVE-2021-23017 | PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017 | https://github.com/M507/CVE-2021-23017-PoC | | 
 | 20220701T01:39:38Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
@@ -36,6 +43,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220702T06:21:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7085 | 249| 
 | 20220701T03:39:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1998 | 568| 
 
 
@@ -48,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220702T11:59:11Z | Null | https://github.com/hack-parthsharma/Ofbiz-Exploit | 1 | 0| 
+| 20220702T11:16:42Z | Null | https://github.com/HeySkidee/Discord-Text-Exploit | 0 | 0| 
+| 20220702T10:38:34Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 741 | 31| 
+| 20220702T09:36:42Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3334 | 702| 
+| 20220702T09:27:44Z | In this repository, I try to perform a mainnet fork and then simulate popular smart contract exploits on various DEFI Protocols using Hardhat Framework. | https://github.com/zzzuhaibmohd/defiHacks_via_Hardhat | 0 | 0| 
+| 20220702T08:41:15Z | The great Microsoft exchange hack: A penetration tester’s guide (exchange penetration testing) | https://github.com/kh4sh3i/exchange-penetration-testing | 0 | 0| 
+| 20220702T08:38:16Z | Null | https://github.com/WanShannn/Exploit-vsftpd | 0 | 0| 
+| 20220702T08:33:06Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3109 | 378| 
+| 20220702T08:29:01Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7402 | 1727| 
 | 20220702T01:44:35Z | Is a exploit for %Roblox% | https://github.com/DragonOFFC/JJSploit | 0 | 0| 
-| 20220702T01:30:30Z | Repo of C# and PowerShell Scripts for windows priv esc exploitation and enumeration | https://github.com/iampbot/WindowsExploitsToRunAShareOn | 0 | 0| 
-| 20220702T01:11:25Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 10 | 5| 
-| 20220702T01:10:22Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 81 | 5| 
-| 20220702T00:55:36Z | A central webpage for trying out code and tracking all of my learning exploits | https://github.com/Apex-Incarna/the-learning-project | 0 | 0| 
-| 20220702T00:43:47Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..1 | 0 | 0| 
-| 20220702T00:43:00Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..1 | 0 | 0| 
-| 20220702T00:41:56Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..1 | 0 | 0| 
-| 20220701T21:55:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11668 | 2009| 
-| 20220701T21:44:57Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -85,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220702T10:45:24Z | A minimal vue component library | https://github.com/Fuzzyma/fuzzy-ui | 0 | 0| 
+| 20220702T10:33:56Z | Null | https://github.com/kopkorp/fuzzy-guacamole | 0 | 0| 
+| 20220702T10:14:12Z | Null | https://github.com/Sehun0819/fuzz-rescript-parser | 0 | 0| 
+| 20220702T09:09:05Z | Null | https://github.com/georgesmith9914/fuzzy-sniffle | 0 | 0| 
+| 20220702T08:41:54Z | GSA-Fuzz | https://github.com/lmm-1997/GSAFuzz | 1 | 0| 
+| 20220702T08:33:22Z | Null | https://github.com/kamalrajanb/fuzzy-spork | 0 | 0| 
+| 20220702T08:17:35Z | Code | https://github.com/Tolekids/fuzz | 0 | 0| 
 | 20220701T23:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7551 | 1620| 
 | 20220701T22:30:15Z | Null | https://github.com/Hasanaoun/Fuzzy_sniffle | 0 | 0| 
 | 20220701T22:10:56Z | Null | https://github.com/HarshiVSP/fuzzy-carnival | 0 | 0| 
-| 20220701T18:41:11Z | fuzzy matching application for spreadsheets | https://github.com/leztien/FuzzyMagic | 1 | 0| 
-| 20220701T17:34:58Z | Null | https://github.com/Moinulilm10/CSE_4871_Neural_Network_Fuzzy | 0 | 0| 
-| 20220701T17:06:10Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 1 | 0| 
-| 20220701T17:05:11Z | Custom bootloader & os that will eventually launch a hypervisor for full system snapshot based fuzzing | https://github.com/seal9055/vfuzz | 2 | 1| 
-| 20220701T15:56:53Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 358 | 62| 
-| 20220701T15:27:49Z | Web fuzzing tool written in C | https://github.com/darosan2003/cfuzzer | 0 | 0| 
-| 20220701T15:03:06Z | Null | https://github.com/MahabubRahaman/-CSE-4872-Fuzzy-Logic-and-Neural-Network | 0 | 0| 
 
 
 
