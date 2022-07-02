@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220702T01:30:30Z | Repo of C# and PowerShell Scripts for windows priv esc exploitation and enumeration | https://github.com/iampbot/WindowsExploitsToRunAShareOn | 0 | 0| 
 | 20220702T01:11:25Z | Gran Turismo 7 v1.17 - Extra Menus Exploit | https://github.com/mistakenchicken/gt7-extramenus | 10 | 5| 
 | 20220702T01:10:22Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 81 | 5| 
 | 20220702T00:55:36Z | A central webpage for trying out code and tracking all of my learning exploits | https://github.com/Apex-Incarna/the-learning-project | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20220701T21:55:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11668 | 2009| 
 | 20220701T21:44:57Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
 | 20220701T21:30:31Z | Exploit Host For 900 FW to Host GoldHEN Beta Releases | https://github.com/kmeps4/900b | 0 | 0| 
-| 20220701T20:41:01Z | Test to see if your Exchange server has been exploited using the session manager vulnerability | https://github.com/geekonamotorcycle/Test-SessionManager | 0 | 0| 
 
 
 # backdoor on Github 推荐
