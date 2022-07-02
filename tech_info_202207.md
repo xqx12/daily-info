@@ -23,6 +23,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220701T18:19:52Z | CVE-2022-1388 | PoC for exploiting CVE-2022-1388 on BIG IP F5 | https://github.com/Luchoane/CVE-2022-1388_refresh | | 
+| 20220701T15:06:54Z | CVE-2021-44158 | ASUS router exploit | https://github.com/Expl0desploit/CVE-2021-44158 | | 
+| 20220701T13:25:04Z | CVE-2022-20130 | Null | https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130 | | 
 | 20220701T09:58:35Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
 | 20220701T09:02:10Z | CVE-2022-29885 | Apache Tomcat DoS (CVE-2022-29885) Exploit | https://github.com/iveresk/CVE-2022-29885 | | 
 | 20220701T08:28:12Z | CVE-2021-23017 | PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017 | https://github.com/M507/CVE-2021-23017-PoC | | 
@@ -45,21 +48,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220701T21:44:57Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
+| 20220701T21:30:31Z | Exploit Host For 900 FW to Host GoldHEN Beta Releases | https://github.com/kmeps4/900b | 0 | 0| 
+| 20220701T20:41:01Z | Test to see if your Exchange server has been exploited using the session manager vulnerability | https://github.com/geekonamotorcycle/Test-SessionManager | 0 | 0| 
+| 20220701T20:18:26Z | https://mega.nz/folder/4XMVmb6b#0c5YYZPisjP5QeRS99EvLA External Fortnite Cheat written mostly in C++.  Status: Updated to latest patch, BattleEye only!  Cheat Features:  Aimbot  Mouse Aimbot Skip Knocked Players Bone Target Smoothness Max Distance Visuals  3D Bounding Box Corner Box Basic Box Snaplines Skeletons Distance Current Eqipped Weapon (Ammo Count, Reloading Check) Platform (in progress) Max Distance Misc  Draw Crosshair Draw Circle FOV Aimbot FOV Value World  Loots Utils Vehicles Chests Ammo Boxes Max Distance Exploits  No Bloom Spinbot Boat Fly Boat Speed Multiplier Boat Speed FOV Changer | https://github.com/cxpside/AIMBOT-SKIN-CHANGER-by-cxpside | 0 | 0| 
+| 20220701T20:17:18Z | https://mega.nz/folder/4XMVmb6b#0c5YYZPisjP5QeRS99EvLAExternal Fortnite Cheat written mostly in C++.  Status: Updated to latest patch, BattleEye only!  Cheat Features:  Aimbot  Mouse Aimbot Skip Knocked Players Bone Target Smoothness Max Distance Visuals  3D Bounding Box Corner Box Basic Box Snaplines Skeletons Distance Current Eqipped Weapon (Ammo Count, Reloading Check) Platform (in progress) Max Distance Misc  Draw Crosshair Draw Circle FOV Aimbot FOV Value World  Loots Utils Vehicles Chests Ammo Boxes Max Distance Exploits  No Bloom Spinbot Boat Fly Boat Speed Multiplier Boat Speed FOV Changer | https://github.com/cxpside/AIMBOT-BY-CXPSIDE- | 0 | 0| 
+| 20220701T20:04:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 65 | 9| 
+| 20220701T19:12:07Z | Exploit code for LEGIT challenge in Misc category | https://github.com/will2robot/googlectf2022-Misc-LEGIT | 0 | 0| 
+| 20220701T18:19:52Z | PoC for exploiting CVE-2022-1388 on BIG IP F5 | https://github.com/Luchoane/CVE-2022-1388_refresh | 0 | 0| 
 | 20220701T12:51:20Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 63 | 4| 
 | 20220701T12:46:03Z | Cloud backup of exploitation scripts for recycling. | https://github.com/gister9000/python-exploit-skeletons | 0 | 0| 
-| 20220701T12:36:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3253 | 519| 
-| 20220701T12:03:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3107 | 378| 
-| 20220701T10:46:47Z | Red team scripts :D | https://github.com/hatedpw/Exploitation | 0 | 0| 
-| 20220701T09:02:10Z | Apache Tomcat DoS (CVE-2022-29885) Exploit | https://github.com/iveresk/CVE-2022-29885 | 0 | 0| 
-| 20220701T08:17:52Z | skid fr fr | https://github.com/Thickasa/roblox-exploit | 1 | 0| 
-| 20220701T07:49:47Z | Simple 5060 port exploit that calls to a receiver device with pre-setuped phrase | https://github.com/iveresk/voip-caller | 0 | 0| 
-| 20220701T06:54:17Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 445 | 127| 
-| 20220701T06:13:17Z | 3DS Userland Exploit for System Settings | https://github.com/zoogie/Bannerbomb3 | 86 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220701T20:16:46Z | Null | https://github.com/sukaneka/the-backdoor-factory | 0 | 0| 
+| 20220701T16:46:28Z | NO BACKDOOR SCRIPT -BEST SCRIPT | https://github.com/cryptoscemdev/Crypto-Nft-Drainer | 0 | 0| 
 | 20220701T08:28:05Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 77 | 14| 
 | 20220701T07:09:47Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 514 | 97| 
 
@@ -80,9 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220701T12:58:33Z | Null | https://github.com/Artem-wa-g/fuzzy-disco | 0 | 0| 
-| 20220701T11:20:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7550 | 1618| 
-| 20220701T08:54:23Z | In this project, our goal is to design a fuzzy expert system to diagnose a person with heart disease | https://github.com/ReyhaneBagheri/Implementation-of-fuzzy-expert-system | 0 | 0| 
+| 20220701T23:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7551 | 1619| 
+| 20220701T22:30:15Z | Null | https://github.com/Hasanaoun/Fuzzy_sniffle | 0 | 0| 
+| 20220701T22:10:56Z | Null | https://github.com/HarshiVSP/fuzzy-carnival | 0 | 0| 
+| 20220701T18:41:11Z | fuzzy matching application for spreadsheets | https://github.com/leztien/FuzzyMagic | 1 | 0| 
+| 20220701T17:34:58Z | Null | https://github.com/Moinulilm10/CSE_4871_Neural_Network_Fuzzy | 0 | 0| 
+| 20220701T17:06:10Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 1 | 0| 
+| 20220701T17:05:11Z | Custom bootloader & os that will eventually launch a hypervisor for full system snapshot based fuzzing | https://github.com/seal9055/vfuzz | 2 | 1| 
+| 20220701T15:56:53Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 358 | 62| 
+| 20220701T15:27:49Z | Web fuzzing tool written in C | https://github.com/darosan2003/cfuzzer | 0 | 0| 
+| 20220701T15:03:06Z | Null | https://github.com/MahabubRahaman/-CSE-4872-Fuzzy-Logic-and-Neural-Network | 0 | 0| 
 
 
 
