@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220702T12:56:38Z | Null | https://github.com/alegremrvn/fuzzy-telegram | 0 | 0| 
 | 20220702T12:40:50Z | Null | https://github.com/kicap1992/fuzzy_app | 0 | 0| 
 | 20220702T10:45:24Z | A minimal vue component library | https://github.com/Fuzzyma/fuzzy-ui | 0 | 0| 
 | 20220702T10:33:56Z | Null | https://github.com/kopkorp/fuzzy-guacamole | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20220702T08:33:22Z | Null | https://github.com/kamalrajanb/fuzzy-spork | 0 | 0| 
 | 20220702T08:17:35Z | Code | https://github.com/Tolekids/fuzz | 0 | 0| 
 | 20220701T23:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7551 | 1620| 
-| 20220701T22:30:15Z | Null | https://github.com/Hasanaoun/Fuzzy_sniffle | 0 | 0| 
 
 
 
