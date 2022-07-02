@@ -85,7 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220701T23:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7551 | 1619| 
+| 20220701T23:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7551 | 1620| 
 | 20220701T22:30:15Z | Null | https://github.com/Hasanaoun/Fuzzy_sniffle | 0 | 0| 
 | 20220701T22:10:56Z | Null | https://github.com/HarshiVSP/fuzzy-carnival | 0 | 0| 
 | 20220701T18:41:11Z | fuzzy matching application for spreadsheets | https://github.com/leztien/FuzzyMagic | 1 | 0| 
