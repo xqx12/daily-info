@@ -57,7 +57,7 @@
 | 20220701T20:04:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 65 | 9| 
 | 20220701T19:12:07Z | Exploit code for LEGIT challenge in Misc category | https://github.com/will2robot/googlectf2022-Misc-LEGIT | 0 | 0| 
 | 20220701T18:19:52Z | PoC for exploiting CVE-2022-1388 on BIG IP F5 | https://github.com/Luchoane/CVE-2022-1388_refresh | 0 | 0| 
-| 20220701T12:51:20Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 63 | 4| 
+| 20220701T12:46:03Z | Cloud backup of exploitation scripts for recycling. | https://github.com/gister9000/python-exploit-skeletons | 0 | 0| 
 
 
 # backdoor on Github 推荐
