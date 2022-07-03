@@ -56,13 +56,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T12:20:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3111 | 380| 
 | 20220703T11:42:54Z | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | 6 | 1| 
 | 20220703T11:32:35Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4449 | 1573| 
 | 20220703T11:26:35Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 113 | 19| 
 | 20220703T10:26:30Z | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | 4 | 0| 
 | 20220703T10:21:52Z | contains exploits that are found publicly and then updated for specific systems or scenarios | https://github.com/kashif-23/modified-public-exploits | 0 | 0| 
 | 20220703T09:16:24Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 66 | 9| 
-| 20220703T08:36:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3110 | 380| 
 | 20220703T08:07:48Z | acs refil exploit | https://github.com/loglizzy/acs_ref | 0 | 0| 
 | 20220703T08:01:52Z | yo | https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter | 0 | 0| 
 | 20220703T07:58:46Z | scan windows 7 vulnerability and expolit it | https://github.com/shenolihashara/Windows7-exploitation | 0 | 0| 
