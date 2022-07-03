@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T01:12:44Z | Null | https://github.com/Meeow103/SILENT-PDF-Exploit-EXE-TO-PDF | 0 | 0| 
 | 20220703T01:10:45Z | Null | https://github.com/Meeow103/XLL-Excel-Exploit | 0 | 0| 
 | 20220703T01:10:25Z | Labs, exploits, gambiarras e experiência | https://github.com/paulomartinsdesena/BackDev | 0 | 0| 
 | 20220703T01:08:03Z | Null | https://github.com/Meeow103/Silent-DOCX-Exploit-2022 | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20220702T22:37:49Z | 42 project: rainfall ctf about binary exploitation | https://github.com/Taiwing/rainfall | 0 | 0| 
 | 20220702T22:20:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11673 | 2012| 
 | 20220702T22:09:10Z | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | 1 | 0| 
-| 20220702T21:58:10Z | Null | https://github.com/crematesite/DoorExploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
