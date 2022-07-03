@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T01:08:03Z | Null | https://github.com/Meeow103/Silent-DOCX-Exploit-2022 | 0 | 0| 
 | 20220702T23:54:22Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.3 | 0 | 0| 
 | 20220702T23:53:40Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.3 | 0 | 0| 
 | 20220702T23:52:50Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.3 | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20220702T21:58:10Z | Null | https://github.com/crematesite/DoorExploiter | 0 | 0| 
 | 20220702T20:59:47Z | Nerv0us r4bbit - Post Exploitation Windows Enumeration Tool | https://github.com/34zY/Nerv0usR4bbit | 3 | 1| 
 | 20220702T20:56:35Z | The best hack for times tables rock-stars ever. | https://github.com/rxzyx/TTRockstars-Hacks | 1 | 0| 
-| 20220702T20:41:47Z | The best Duolingo hack ever. | https://github.com/rxzyx/Duolingo-Hacks | 1 | 0| 
 
 
 # backdoor on Github 推荐
