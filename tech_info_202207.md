@@ -56,6 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T01:10:45Z | Null | https://github.com/Meeow103/XLL-Excel-Exploit | 0 | 0| 
+| 20220703T01:10:25Z | Labs, exploits, gambiarras e experiência | https://github.com/paulomartinsdesena/BackDev | 0 | 0| 
 | 20220703T01:08:03Z | Null | https://github.com/Meeow103/Silent-DOCX-Exploit-2022 | 0 | 0| 
 | 20220702T23:54:22Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.3 | 0 | 0| 
 | 20220702T23:53:40Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.3 | 0 | 0| 
@@ -64,8 +66,6 @@
 | 20220702T22:20:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11673 | 2012| 
 | 20220702T22:09:10Z | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | 1 | 0| 
 | 20220702T21:58:10Z | Null | https://github.com/crematesite/DoorExploiter | 0 | 0| 
-| 20220702T20:59:47Z | Nerv0us r4bbit - Post Exploitation Windows Enumeration Tool | https://github.com/34zY/Nerv0usR4bbit | 3 | 1| 
-| 20220702T20:56:35Z | The best hack for times tables rock-stars ever. | https://github.com/rxzyx/TTRockstars-Hacks | 1 | 0| 
 
 
 # backdoor on Github 推荐
