@@ -51,6 +51,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T12:02:53Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 2 | 0| 
 | 20220703T10:03:42Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth modules. | https://github.com/h3xduck/TripleCross | 2 | 0| 
 | 20220703T06:39:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 515 | 98| 
 | 20220703T05:57:17Z | Null | https://github.com/TGodexe/backdoor.exe | 0 | 0| 
@@ -62,6 +63,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T11:53:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2964 | 419| 
 
 
 # big4 on Github 推荐

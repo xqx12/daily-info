@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T12:02:53Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 2 | 0| 
 | 20220703T10:03:42Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth modules. | https://github.com/h3xduck/TripleCross | 2 | 0| 
 | 20220703T06:39:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 515 | 98| 
 | 20220703T05:57:17Z | Null | https://github.com/TGodexe/backdoor.exe | 0 | 0| 
@@ -80,13 +81,12 @@
 | 20220702T22:49:29Z | Null | https://github.com/PiterIvano1/Backdoor | 0 | 0| 
 | 20220702T17:27:44Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 81 | 15| 
 | 20220702T14:56:50Z | Building a backdoor and a C2 server  | https://github.com/sivadathdev/C2-Server---Backdoor | 0 | 0| 
-| 20220702T07:44:38Z | Backdoors and Breaches | https://github.com/Gravim3tr1c/BackBreach | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220702T20:23:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2962 | 419| 
+| 20220703T11:53:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2964 | 419| 
 | 20220702T15:39:42Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 700 | 76| 
 | 20220701T03:39:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1998 | 568| 
 | 20220701T01:24:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 233 | 57| 
