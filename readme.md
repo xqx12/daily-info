@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T12:13:25Z | Toolbox for Type-2 fuzzy clustering using similarity measures in python. | https://github.com/ZouariMariam/Type-2-Fuzzy-clustering-toolbox-in-python | 0 | 0| 
 | 20220703T11:26:32Z | This was a Summer project! A capable Metin2 bot without code injection/mem fuzzing! | https://github.com/bearkillerPT/metinCV | 0 | 0| 
 | 20220703T10:57:43Z | COMP6447 fuzzer | https://github.com/sixohtoo/fuzzer | 0 | 0| 
 | 20220703T09:41:53Z | Null | https://github.com/HockChong/Maven-Fuzzy-Factory | 0 | 0| 
