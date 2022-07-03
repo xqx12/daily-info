@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T00:12:19Z | Null | https://github.com/chrysthianprudencio/fuzzy-parakeet | 0 | 0| 
 | 20220702T21:39:27Z | Null | https://github.com/FuzzyGrim/FuzzyGrim | 0 | 0| 
 | 20220702T21:08:09Z | A basic fuzzer written in Rust | https://github.com/mihaimaganu17/objdump-rust-fuzzer | 0 | 0| 
 | 20220702T21:06:12Z | A basic fuzzer for objdump utility | https://github.com/mihaimaganu17/objdump-fuzzer | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20220702T12:56:38Z | Null | https://github.com/alegremrvn/fuzzy-telegram | 0 | 0| 
 | 20220702T10:45:24Z | A minimal vue component library | https://github.com/Fuzzyma/fuzzy-ui | 0 | 0| 
 | 20220702T10:33:56Z | Null | https://github.com/kopkorp/fuzzy-guacamole | 0 | 0| 
-| 20220702T10:14:12Z | Null | https://github.com/Sehun0819/fuzz-rescript-parser | 0 | 0| 
 
 
 
