@@ -56,11 +56,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T01:28:52Z | Labs, exploits, gambiarras e experiência | https://github.com/paulomartinsdesena/BackDev | 0 | 0| 
 | 20220703T01:16:55Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit | https://github.com/0x414141414/JPEG-EXPLOIT-2022 | 0 | 0| 
 | 20220703T01:13:40Z | Null | https://github.com/Meeow103/XLL-Excel-Exploit | 1 | 0| 
 | 20220703T01:13:40Z | Null | https://github.com/Meeow103/Silent-DOCX-Exploit-2022 | 1 | 0| 
 | 20220703T01:13:39Z | Null | https://github.com/Meeow103/SILENT-PDF-Exploit-EXE-TO-PDF | 1 | 0| 
-| 20220703T01:10:25Z | Labs, exploits, gambiarras e experiência | https://github.com/paulomartinsdesena/BackDev | 0 | 0| 
 | 20220702T23:54:22Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.3 | 0 | 0| 
 | 20220702T23:53:40Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.3 | 0 | 0| 
 | 20220702T23:52:50Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.3 | 0 | 0| 
