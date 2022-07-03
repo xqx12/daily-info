@@ -28,22 +28,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220702T22:09:10Z | CVE-2022-24342 | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | | 
-| 20220702T19:40:53Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
+| 20220703T11:42:54Z | CVE-2022-24342 | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | | 
+| 20220703T09:41:55Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
+| 20220703T09:27:31Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
+| 20220703T07:28:20Z | CVE-2022-28117 | Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated) | https://github.com/cheshireca7/CVE-2022-28117 | | 
 | 20220702T12:19:21Z | CVE-2021-21300 | Null | https://github.com/macilin/CVE-2021-21300 | | 
 | 20220702T07:58:01Z | CVE-2022-2185 | CVE-2022-2185 poc | https://github.com/safe3s/CVE-2022-2185-poc | | 
-| 20220702T05:58:13Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
 | 20220702T01:36:06Z | CVE-2022-32532 | Apache Shiro CVE-2022-32532 | https://github.com/4ra1n/CVE-2022-32532 | | 
 | 20220701T18:19:52Z | CVE-2022-1388 | PoC for exploiting CVE-2022-1388 on BIG IP F5 | https://github.com/Luchoane/CVE-2022-1388_refresh | | 
 | 20220701T15:06:54Z | CVE-2021-44158 | ASUS router exploit | https://github.com/Expl0desploit/CVE-2021-44158 | | 
 | 20220701T13:25:04Z | CVE-2022-20130 | Null | https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130 | | 
-| 20220701T09:02:10Z | CVE-2022-29885 | Apache Tomcat DoS (CVE-2022-29885) Exploit | https://github.com/iveresk/CVE-2022-29885 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220703T01:43:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7087 | 249| 
+| 20220703T02:56:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7088 | 249| 
 | 20220701T03:39:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1998 | 568| 
 
 
@@ -56,31 +56,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220703T01:28:52Z | Labs, exploits, gambiarras e experiência | https://github.com/paulomartinsdesena/BackDev | 0 | 0| 
-| 20220703T01:16:55Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit | https://github.com/0x414141414/JPEG-EXPLOIT-2022 | 0 | 0| 
-| 20220703T01:13:40Z | Null | https://github.com/Meeow103/XLL-Excel-Exploit | 1 | 0| 
-| 20220703T01:13:40Z | Null | https://github.com/Meeow103/Silent-DOCX-Exploit-2022 | 1 | 0| 
-| 20220703T01:13:39Z | Null | https://github.com/Meeow103/SILENT-PDF-Exploit-EXE-TO-PDF | 1 | 0| 
-| 20220702T23:54:22Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.3 | 0 | 0| 
-| 20220702T23:53:40Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.3 | 0 | 0| 
-| 20220702T23:52:50Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.3 | 0 | 0| 
-| 20220702T22:37:49Z | 42 project: rainfall ctf about binary exploitation | https://github.com/Taiwing/rainfall | 0 | 0| 
-| 20220702T22:20:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11673 | 2012| 
+| 20220703T11:42:54Z | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | 6 | 1| 
+| 20220703T11:26:35Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 113 | 19| 
+| 20220703T10:26:30Z | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | 4 | 0| 
+| 20220703T10:21:52Z | contains exploits that are found publicly and then updated for specific systems or scenarios | https://github.com/kashif-23/modified-public-exploits | 0 | 0| 
+| 20220703T09:16:24Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 66 | 9| 
+| 20220703T08:36:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3110 | 380| 
+| 20220703T08:07:48Z | acs refil exploit | https://github.com/loglizzy/acs_ref | 0 | 0| 
+| 20220703T08:01:52Z | yo | https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter | 0 | 0| 
+| 20220703T07:58:46Z | scan windows 7 vulnerability and expolit it | https://github.com/shenolihashara/Windows7-exploitation | 0 | 0| 
+| 20220703T07:42:57Z | ICPP 2022, %Exploiting Parallelism of Disk Failure Recovery via Partial Stripe Repair for an Erasure-Coded High-Density Storage Server% | https://github.com/YuchongHu/hdpsr | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T10:03:42Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth modules. | https://github.com/h3xduck/TripleCross | 2 | 0| 
+| 20220703T06:39:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 515 | 98| 
+| 20220703T05:57:17Z | Null | https://github.com/TGodexe/backdoor.exe | 0 | 0| 
+| 20220703T05:54:37Z | Null | https://github.com/TGodexe/Backdoor | 0 | 0| 
+| 20220703T04:22:59Z | Null | https://github.com/hhhhiephhh/backdoor | 0 | 0| 
+| 20220703T03:08:12Z | Null | https://github.com/pwninx/wp-backdoor-plugin | 0 | 0| 
 | 20220702T22:49:29Z | Null | https://github.com/PiterIvano1/Backdoor | 0 | 0| 
+| 20220702T17:27:44Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 81 | 15| 
 | 20220702T14:56:50Z | Building a backdoor and a C2 server  | https://github.com/sivadathdev/C2-Server---Backdoor | 0 | 0| 
-| 20220702T14:39:25Z | Null | https://github.com/hhhhiephhh/backdoor | 0 | 0| 
 | 20220702T07:44:38Z | Backdoors and Breaches | https://github.com/Gravim3tr1c/BackBreach | 0 | 0| 
-| 20220702T03:40:34Z | Null | https://github.com/7enpaii/BackDoorX | 0 | 0| 
-| 20220702T02:25:15Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 75 | 29| 
-| 20220701T20:16:46Z | Null | https://github.com/sukaneka/the-backdoor-factory | 0 | 0| 
-| 20220701T16:46:28Z | NO BACKDOOR SCRIPT -BEST SCRIPT | https://github.com/cryptoscemdev/Crypto-Nft-Drainer | 0 | 0| 
-| 20220701T08:45:32Z | The code of AAAI-21 paper titled %Defending against Backdoors in Federated Learning with Robust Learning Rate%. | https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate | 5 | 9| 
-| 20220701T08:28:05Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 77 | 14| 
 
 
 # symbolic execution on Github 推荐
@@ -100,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220703T11:26:32Z | This was a Summer project! A capable Metin2 bot without code injection/mem fuzzing! | https://github.com/bearkillerPT/metinCV | 0 | 0| 
+| 20220703T10:57:43Z | COMP6447 fuzzer | https://github.com/sixohtoo/fuzzer | 0 | 0| 
+| 20220703T09:41:53Z | Null | https://github.com/HockChong/Maven-Fuzzy-Factory | 0 | 0| 
+| 20220703T08:34:40Z | Tool for marking and identifying documents based on fuzzy hashing for tracking by a DLP-system. | https://github.com/aaaaaaaalesha/fuzzy_docmarking_checker | 0 | 0| 
 | 20220703T00:20:18Z | {   %jsonrpc%: %2.0%,   %result%: {     %txID%: %2W5JuFENitZKTpJsy9igBpTcEeBKxBHHGAUkgsSUnkjVVGQ9i8%   },   %id%: 1 } | https://github.com/The11sun/fuzzy-sniffle | 0 | 0| 
 | 20220703T00:12:19Z | Null | https://github.com/chrysthianprudencio/fuzzy-parakeet | 0 | 0| 
 | 20220702T21:39:27Z | Null | https://github.com/FuzzyGrim/FuzzyGrim | 0 | 0| 
 | 20220702T21:08:09Z | A basic fuzzer written in Rust | https://github.com/mihaimaganu17/objdump-rust-fuzzer | 0 | 0| 
 | 20220702T21:06:12Z | A basic fuzzer for objdump utility | https://github.com/mihaimaganu17/objdump-fuzzer | 0 | 0| 
 | 20220702T18:32:28Z | 💰 Contrato de loteria, aonde você compra um ticket e participa do sorteio, testes em fuzz com o Foundry. | https://github.com/guilhermeboaventurarodrigues/lottery-fuzz-foundry | 0 | 1| 
-| 20220702T14:59:55Z | Null | https://github.com/vichrvit/fuzzy-inference | 0 | 0| 
-| 20220702T13:12:45Z | Null | https://github.com/kicap1992/fuzzy_app | 0 | 0| 
-| 20220702T12:56:38Z | Null | https://github.com/alegremrvn/fuzzy-telegram | 0 | 0| 
-| 20220702T10:45:24Z | A minimal vue component library | https://github.com/Fuzzyma/fuzzy-ui | 0 | 0| 
 
 
 
