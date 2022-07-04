@@ -57,6 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T00:36:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN...0 | 0 | 0| 
+| 20220704T00:35:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN...0 | 0 | 0| 
 | 20220704T00:26:33Z | Null | https://github.com/GucciMp4/Stumble-Exploit | 0 | 0| 
 | 20220703T23:30:47Z | ROBUX FARM V2 IS FINALLY OUT. Please make sure you have your antivirus turned off temporarily. (Real time scanning) Since this is a Roblox exploit, it gets falsely flagged as a virus due to the fact that it is an exploit. There are no real viruses in my exploit, so there is nothing to worry about.  | https://github.com/qxerey/Robux-Farm-v2 | 0 | 0| 
 | 20220703T23:24:12Z | ReceptionDirections | https://github.com/ExploitedWebsite/ExploitedWebsite.github.io | 0 | 0| 
@@ -65,8 +67,6 @@
 | 20220703T20:29:15Z | Exploit for Antipublic.one | https://github.com/antoinechauvn/antipublic-myrz-bypass | 0 | 0| 
 | 20220703T19:44:57Z | Repository for %Exploiting smart contract vulnerabilities% bachelor thesis at School of Electrical Engineering, University of Belgrade. Paper (in Serbian) with 5 examples of vulnerable smart contracts and exploitation of them. | https://github.com/NZT48/exploiting-smart-contract-vulnerabilities | 0 | 0| 
 | 20220703T12:20:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3111 | 380| 
-| 20220703T11:42:54Z | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | 6 | 1| 
-| 20220703T11:32:35Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4449 | 1573| 
 
 
 # backdoor on Github 推荐
@@ -106,9 +106,9 @@
 | 20220703T20:55:10Z | Approximate string matching in Java | https://github.com/kretkowl/fuzzyt | 0 | 0| 
 | 20220703T19:47:12Z | un1fuzz website | https://github.com/un1fuzz/un1fuzz.github.io | 1 | 0| 
 | 20220703T19:15:09Z | Null | https://github.com/wendeman/fuzzy.github.io | 0 | 0| 
+| 20220703T19:02:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7554 | 1620| 
 | 20220703T18:41:54Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 53 | 17| 
 | 20220703T12:13:25Z | Toolbox for Type-2 fuzzy clustering using similarity measures in python. | https://github.com/ZouariMariam/Type-2-Fuzzy-clustering-toolbox-in-python | 0 | 0| 
-| 20220703T11:30:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7553 | 1620| 
 | 20220703T11:26:32Z | This was a Summer project! A capable Metin2 bot without code injection/mem fuzzing! | https://github.com/bearkillerPT/metinCV | 0 | 0| 
 | 20220703T10:57:43Z | COMP6447 fuzzer | https://github.com/sixohtoo/fuzzer | 0 | 0| 
 
