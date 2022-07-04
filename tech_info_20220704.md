@@ -25,8 +25,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220704T12:22:56Z | CVE-2022-20142 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142 | | 
 | 20220704T12:16:34Z | CVE-2022-24342 | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | | 
-| 20220704T12:16:05Z | CVE-2022-20142 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142 | | 
 | 20220704T10:21:19Z | CVE-2022-30594 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594 | | 
 | 20220704T10:06:32Z | CVE-2022-2185 | CVE-2022-2185 poc | https://github.com/safe3s/CVE-2022-2185-poc | | 
 | 20220704T09:27:55Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-RCE | | 
