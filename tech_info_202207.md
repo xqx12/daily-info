@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T00:26:33Z | Null | https://github.com/GucciMp4/Stumble-Exploit | 0 | 0| 
 | 20220703T23:30:47Z | ROBUX FARM V2 IS FINALLY OUT. Please make sure you have your antivirus turned off temporarily. (Real time scanning) Since this is a Roblox exploit, it gets falsely flagged as a virus due to the fact that it is an exploit. There are no real viruses in my exploit, so there is nothing to worry about.  | https://github.com/qxerey/Robux-Farm-v2 | 0 | 0| 
 | 20220703T23:24:12Z | ReceptionDirections | https://github.com/ExploitedWebsite/ExploitedWebsite.github.io | 0 | 0| 
 | 20220703T22:33:02Z | Null | https://github.com/porousspore3484/RobloxExploit | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20220703T12:20:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3111 | 380| 
 | 20220703T11:42:54Z | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | 6 | 1| 
 | 20220703T11:32:35Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4449 | 1573| 
-| 20220703T11:26:35Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 113 | 19| 
 
 
 # backdoor on Github 推荐
