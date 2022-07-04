@@ -39,7 +39,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220704T08:32:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7101 | 248| 
+| 20220704T12:44:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7102 | 248| 
 
 
 # s2e on Github 推荐
@@ -50,8 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T12:39:48Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 235 | 13| 
 | 20220704T12:30:59Z | An automated exploit to the xdebug 2.5.5 RCE vulnerability | https://github.com/D3Ext/XDEBUG-Exploit | 1 | 0| 
-| 20220704T12:28:23Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 234 | 13| 
 | 20220704T12:24:19Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 883 | 89| 
 | 20220704T11:57:36Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 927 | 156| 
 | 20220704T11:33:18Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/purple-mermaid-app-sbudhwar-1-gather-exploit | 0 | 0| 
