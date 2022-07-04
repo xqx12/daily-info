@@ -28,9 +28,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220704T01:21:45Z | CVE-2022-24342 | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | | 
+| 20220704T01:44:19Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
+| 20220704T01:39:13Z | CVE-2022-24342 | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | | 
 | 20220703T09:41:55Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
-| 20220703T09:27:31Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
 | 20220703T07:28:20Z | CVE-2022-28117 | Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated) | https://github.com/cheshireca7/CVE-2022-28117 | | 
 | 20220702T12:19:21Z | CVE-2021-21300 | Null | https://github.com/macilin/CVE-2021-21300 | | 
 | 20220702T07:58:01Z | CVE-2022-2185 | CVE-2022-2185 poc | https://github.com/safe3s/CVE-2022-2185-poc | | 
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T01:34:58Z | An exploit protection plugin for the game minecraft. | https://github.com/NikV2/CoffeeProtect | 0 | 0| 
 | 20220704T00:38:15Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN...0 | 0 | 0| 
 | 20220704T00:36:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN...0 | 0 | 0| 
 | 20220704T00:35:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN...0 | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20220703T22:33:02Z | Null | https://github.com/porousspore3484/RobloxExploit | 0 | 0| 
 | 20220703T20:54:38Z | Exploitation shell for exploiting LFI, RFI, and command injection vulnerabilities | https://github.com/unix-ninja/shellfire | 108 | 33| 
 | 20220703T20:29:15Z | Exploit for Antipublic.one | https://github.com/antoinechauvn/antipublic-myrz-bypass | 0 | 0| 
-| 20220703T19:44:57Z | Repository for %Exploiting smart contract vulnerabilities% bachelor thesis at School of Electrical Engineering, University of Belgrade. Paper (in Serbian) with 5 examples of vulnerable smart contracts and exploitation of them. | https://github.com/NZT48/exploiting-smart-contract-vulnerabilities | 0 | 0| 
 
 
 # backdoor on Github 推荐
