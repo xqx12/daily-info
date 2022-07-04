@@ -49,11 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T11:57:36Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 927 | 156| 
+| 20220704T11:33:18Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/purple-mermaid-app-sbudhwar-1-gather-exploit | 0 | 0| 
+| 20220704T11:15:13Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 1345 | 295| 
+| 20220704T11:12:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 446 | 128| 
+| 20220704T11:09:22Z | Proof of concept for the discord qr code %exploit% | https://github.com/nemtudom345/discord-qr-poc | 1 | 0| 
+| 20220704T11:06:24Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 882 | 89| 
+| 20220704T10:52:52Z | NVidia Tegra 2/3 Warmboot exploit | https://github.com/BotchedRPR/TegraWarmboot | 0 | 0| 
+| 20220704T10:10:47Z | CORS Vulnerabilities Exploitation | https://github.com/albertsjohnson/LittleCORS | 0 | 0| 
+| 20220704T09:38:01Z | A dank memer exploit | https://github.com/MaxMady/Drunk-Farmer | 0 | 0| 
 | 20220704T01:34:58Z | An exploit protection plugin for the game minecraft. | https://github.com/NikV2/CoffeeProtect | 0 | 0| 
-| 20220704T00:38:15Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN...0 | 0 | 0| 
-| 20220704T00:36:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN...0 | 0 | 0| 
-| 20220704T00:35:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN...0 | 0 | 0| 
-| 20220704T00:26:33Z | Null | https://github.com/GucciMp4/Stumble-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -77,6 +82,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T09:22:07Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 8 | 0| 
 
 
 # fuzz on Github 推荐
