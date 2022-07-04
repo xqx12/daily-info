@@ -101,6 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T00:44:32Z | Null | https://github.com/toyiban/fuzzy-enigma | 0 | 0| 
 | 20220703T22:23:24Z | Blazingly fast search and editing of note files in your terminal. Built with FZF. | https://github.com/Magnushhoie/FuzzyNotes | 0 | 0| 
 | 20220703T21:00:44Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 2 | 0| 
 | 20220703T20:55:10Z | Approximate string matching in Java | https://github.com/kretkowl/fuzzyt | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20220703T18:41:54Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 53 | 17| 
 | 20220703T12:13:25Z | Toolbox for Type-2 fuzzy clustering using similarity measures in python. | https://github.com/ZouariMariam/Type-2-Fuzzy-clustering-toolbox-in-python | 0 | 0| 
 | 20220703T11:26:32Z | This was a Summer project! A capable Metin2 bot without code injection/mem fuzzing! | https://github.com/bearkillerPT/metinCV | 0 | 0| 
-| 20220703T10:57:43Z | COMP6447 fuzzer | https://github.com/sixohtoo/fuzzer | 0 | 0| 
 
 
 
