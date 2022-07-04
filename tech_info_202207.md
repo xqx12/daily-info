@@ -106,11 +106,11 @@
 | 20220703T20:55:10Z | Approximate string matching in Java | https://github.com/kretkowl/fuzzyt | 0 | 0| 
 | 20220703T19:47:12Z | un1fuzz website | https://github.com/un1fuzz/un1fuzz.github.io | 1 | 0| 
 | 20220703T19:15:09Z | Null | https://github.com/wendeman/fuzzy.github.io | 0 | 0| 
+| 20220703T18:41:54Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 53 | 17| 
 | 20220703T12:13:25Z | Toolbox for Type-2 fuzzy clustering using similarity measures in python. | https://github.com/ZouariMariam/Type-2-Fuzzy-clustering-toolbox-in-python | 0 | 0| 
 | 20220703T11:30:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7553 | 1620| 
 | 20220703T11:26:32Z | This was a Summer project! A capable Metin2 bot without code injection/mem fuzzing! | https://github.com/bearkillerPT/metinCV | 0 | 0| 
 | 20220703T10:57:43Z | COMP6447 fuzzer | https://github.com/sixohtoo/fuzzer | 0 | 0| 
-| 20220703T09:41:53Z | Null | https://github.com/HockChong/Maven-Fuzzy-Factory | 0 | 0| 
 
 
 
