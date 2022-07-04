@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220704 | Android 银行恶意软件 Flubot 的进化 | http://blog.fox-it.com/2022/06/29/flubot-the-evolution-of-a-notorious-android-banking-malware/| 
+| 20220704 | 构建一个静态源码安全分析工具（SAST） | https://engineering.razorpay.com/building-a-sast-program-at-razorpays-scale-719887fe0aec?gi=bef5311a7f8e| 
+| 20220704 | 对超过 11 万条 Cobalt Strike Beacon payloads 数据的分析 | https://www.archcloudlabs.com/projects/bulk-cs-analysis/| 
+| 20220704 | netgear orbi unauth 命令注入漏洞的分析和利用（CVE-2020-27861） | https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html| 
+| 20220704 | 扫描网络上暴露的 Kubernetes clusters | https://raesene.github.io/blog/2022/07/03/lets-talk-about-kubernetes-on-the-internet/| 
+| 20220704 | spiderSilk 团队通过扫描发现，48% 的 BIND9 DNS 服务依然没有修复 CVE-2021-25220 漏洞 | https://spidersilk.com/news/Its-Been-Zero-Days-Since-BIND9-Crashed| 
+| 20220704 | Windows AMSI Bypass 技术研究 | https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Korkos-AMSI-and-Bypass.pdf| 
+| 20220704 | Revisiting Pegasus on iOS 9，NSO Group 的 Pegasus iOS 利用链的分析 | http://shadowfile.inode.link/blog/2022/07/revisiting-pegasus-on-ios9/| 
+| 20220704 | PolyFile - Trail of Bits 开源的文件格式识别工具，保护对混合、内嵌文件格式的识别 | http://blog.trailofbits.com/2022/07/01/libmagic-the-blathering/| 
 | 20220701 | Chromium V8 Inline cache 类型混淆 RCE 漏洞分析（CVE-2022-1134） | http://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/| 
 | 20220701 | eBPF for Security Observability | http://speakerdeck.com/lizrice/ebpf-for-security-observability| 
 | 20220701 | HDiff - 半自动检测 HTTP 请求处理过程中中间服务器处理不一致导致的 Semantic Gap Attack（Paper） | http://shenkaiwen.com/publication/2022-hdiff/| 
@@ -28,23 +37,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220704T10:21:19Z | CVE-2022-30594 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594 | | 
+| 20220704T10:06:32Z | CVE-2022-2185 | CVE-2022-2185 poc | https://github.com/safe3s/CVE-2022-2185-poc | | 
+| 20220704T09:27:55Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-RCE | | 
+| 20220704T08:36:58Z | CVE-2022-24342 | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | | 
+| 20220704T07:08:22Z | CVE-2022-1388 | CVE-2022-1388, bypassing iControl REST authentication | https://github.com/jbharucha05/CVE-2022-1388 | | 
+| 20220704T06:42:34Z | CVE-2022-30929 | CVE-2022-30929 POC | https://github.com/AgainstTheLight/CVE-2022-30929 | | 
+| 20220704T02:06:27Z | CVE-2022-24706 | CVE-2022-24706 POC exploit | https://github.com/superzerosec/CVE-2022-24706 | | 
 | 20220704T01:44:19Z | CVE-2022-29885 | Apache Tomcat CVE-2022-29885 | https://github.com/4ra1n/CVE-2022-29885 | | 
-| 20220704T01:39:13Z | CVE-2022-24342 | PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication | https://github.com/yuriisanin/CVE-2022-24342 | | 
 | 20220703T09:41:55Z | CVE-2022-22965 | spring4shell , CVE-2022-22965 | https://github.com/p1ckzi/CVE-2022-22965 | | 
 | 20220703T07:28:20Z | CVE-2022-28117 | Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated) | https://github.com/cheshireca7/CVE-2022-28117 | | 
-| 20220702T12:19:21Z | CVE-2021-21300 | Null | https://github.com/macilin/CVE-2021-21300 | | 
-| 20220702T07:58:01Z | CVE-2022-2185 | CVE-2022-2185 poc | https://github.com/safe3s/CVE-2022-2185-poc | | 
-| 20220702T01:36:06Z | CVE-2022-32532 | Apache Shiro CVE-2022-32532 | https://github.com/4ra1n/CVE-2022-32532 | | 
-| 20220701T18:19:52Z | CVE-2022-1388 | PoC for exploiting CVE-2022-1388 on BIG IP F5 | https://github.com/Luchoane/CVE-2022-1388_refresh | | 
-| 20220701T15:06:54Z | CVE-2021-44158 | ASUS router exploit | https://github.com/Expl0desploit/CVE-2021-44158 | | 
-| 20220701T13:25:04Z | CVE-2022-20130 | Null | https://github.com/Satheesh575555/external_aac_AOSP10_r33_CVE-2022-20130 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T08:32:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7101 | 248| 
 | 20220703T14:55:26Z | bot | https://github.com/AnjoyLi/klee | 0 | 0| 
-| 20220703T14:39:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7092 | 248| 
 | 20220701T03:39:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1998 | 568| 
 
 
@@ -72,23 +81,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T10:50:40Z | KIZAGAN is a python computer backdoor and it can take camera pictures,screenshot,getting microphone sounds... etc. | https://github.com/st4inl3s5/kizagan | 1 | 0| 
+| 20220704T09:43:27Z | Null | https://github.com/pwninx/wp-backdoor-plugin | 1 | 0| 
+| 20220704T09:17:48Z | NEW UNPATCHED SOLANA DRAINER WITH ZERO BACKDOOR | https://github.com/cryptoscemdev/NFT-Solana-Drainer | 0 | 0| 
+| 20220704T07:31:40Z | Null | https://github.com/FlyingBackdoor/FlyingBackdoor | 0 | 0| 
+| 20220704T05:02:52Z | insert an hikvision camera IP and check for backdoor vuln SCRIPT BY NO1SE! | https://github.com/no1se2/HikNo1se | 0 | 0| 
+| 20220704T04:41:24Z | Implementation of An Invisible Black-box Backdoor Attack through Frequency Domain | https://github.com/SoftWiser-group/FTrojan | 0 | 0| 
 | 20220703T22:51:20Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 83 | 15| 
 | 20220703T14:56:30Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. | https://github.com/h3xduck/TripleCross | 2 | 0| 
-| 20220703T14:55:16Z | KIZAGAN is a python computer backdoor and it can take camera pictures,screenshot,getting microphone sounds... etc. | https://github.com/st4inl3s5/kizagan | 0 | 0| 
 | 20220703T12:02:53Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 2 | 0| 
 | 20220703T06:39:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 515 | 98| 
-| 20220703T05:57:17Z | Null | https://github.com/TGodexe/backdoor.exe | 0 | 0| 
-| 20220703T05:54:37Z | Null | https://github.com/TGodexe/Backdoor | 0 | 0| 
-| 20220703T04:22:59Z | Null | https://github.com/hhhhiephhh/backdoor | 0 | 0| 
-| 20220703T03:08:12Z | Null | https://github.com/pwninx/wp-backdoor-plugin | 0 | 0| 
-| 20220702T22:49:29Z | Null | https://github.com/PiterIvano1/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220703T11:53:23Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2964 | 419| 
-| 20220702T15:39:42Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 700 | 76| 
+| 20220704T06:15:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2963 | 419| 
+| 20220704T03:38:51Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 700 | 76| 
 | 20220701T03:39:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1998 | 568| 
 | 20220701T01:24:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 233 | 57| 
 
@@ -101,6 +110,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T10:35:52Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 5 | 1| 
+| 20220704T07:38:31Z | xyz | https://github.com/AHMED-JAWAD786/fuzzy-umbrella | 0 | 0| 
+| 20220704T04:47:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4220 | 1006| 
 | 20220704T00:44:32Z | Null | https://github.com/toyiban/fuzzy-enigma | 0 | 0| 
 | 20220703T22:23:24Z | Blazingly fast search and editing of note files in your terminal. Built with FZF. | https://github.com/Magnushhoie/FuzzyNotes | 0 | 0| 
 | 20220703T21:00:44Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 2 | 0| 
@@ -108,9 +120,6 @@
 | 20220703T19:47:12Z | un1fuzz website | https://github.com/un1fuzz/un1fuzz.github.io | 1 | 0| 
 | 20220703T19:15:09Z | Null | https://github.com/wendeman/fuzzy.github.io | 0 | 0| 
 | 20220703T19:02:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7554 | 1620| 
-| 20220703T18:41:54Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 53 | 17| 
-| 20220703T12:13:25Z | Toolbox for Type-2 fuzzy clustering using similarity measures in python. | https://github.com/ZouariMariam/Type-2-Fuzzy-clustering-toolbox-in-python | 0 | 0| 
-| 20220703T11:26:32Z | This was a Summer project! A capable Metin2 bot without code injection/mem fuzzing! | https://github.com/bearkillerPT/metinCV | 0 | 0| 
 
 
 
