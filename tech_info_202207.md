@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220704T00:38:15Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN...0 | 0 | 0| 
 | 20220704T00:36:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN...0 | 0 | 0| 
 | 20220704T00:35:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN...0 | 0 | 0| 
 | 20220704T00:26:33Z | Null | https://github.com/GucciMp4/Stumble-Exploit | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20220703T20:54:38Z | Exploitation shell for exploiting LFI, RFI, and command injection vulnerabilities | https://github.com/unix-ninja/shellfire | 108 | 33| 
 | 20220703T20:29:15Z | Exploit for Antipublic.one | https://github.com/antoinechauvn/antipublic-myrz-bypass | 0 | 0| 
 | 20220703T19:44:57Z | Repository for %Exploiting smart contract vulnerabilities% bachelor thesis at School of Electrical Engineering, University of Belgrade. Paper (in Serbian) with 5 examples of vulnerable smart contracts and exploitation of them. | https://github.com/NZT48/exploiting-smart-contract-vulnerabilities | 0 | 0| 
-| 20220703T12:20:21Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3111 | 380| 
 
 
 # backdoor on Github 推荐
