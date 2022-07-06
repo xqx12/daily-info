@@ -48,7 +48,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220705T20:05:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7111 | 248| 
-| 20220705T17:35:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2001 | 570| 
 | 20220705T16:00:55Z | bot | https://github.com/AnjoyLi/klee | 0 | 0| 
 | 20220705T10:48:12Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 1 | 1| 
 
@@ -63,22 +62,21 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220705T23:46:54Z | Null | https://github.com/kmpotter2/ExploitingArbitrage | 0 | 0| 
-| 20220705T23:20:48Z | Exploit code for Jira Mobile Rest Plugin SSRF (CVE-2022-26135) | https://github.com/assetnote/jira-mobile-ssrf-exploit | 3 | 0| 
 | 20220705T23:06:33Z | Binary exploitation work and training. | https://github.com/craineland/binary_exploitation | 0 | 0| 
 | 20220705T22:27:45Z | A open source fortnite cheat that exploits the color in fortnite gradients | https://github.com/FortniteDevexotic/Exotic | 2 | 0| 
 | 20220705T20:52:40Z | An automated exploit to the xdebug 2.5.5 RCE vulnerability | https://github.com/llraudseppll/xdebug-2.5.5- | 0 | 0| 
 | 20220705T19:56:24Z | Instagram Passwordless Login And Password Reset Bug in The Wild | https://github.com/cybersecurityresearcher/instagram-zero-click-exploit | 0 | 0| 
-| 20220705T19:39:42Z | Post exploitation technique to turn arbitrary kernel write / increment into full read/write primitive on Windows 11 22H2 | https://github.com/yardenshafir/IoRingReadWritePrimitive | 9 | 3| 
 | 20220705T19:03:58Z | Unauthenticated Remote Code Execution for rpc.py server | https://github.com/ehtec/rpcpy-exploit | 0 | 0| 
 | 20220705T18:58:53Z | Roblox-TS Base for exploits; mostly just extracted from Orca | https://github.com/YieldingExploiter/RobloxTS-Base | 0 | 0| 
 | 20220705T18:16:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 447 | 128| 
+| 20220705T14:44:06Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1085 | 183| 
+| 20220705T13:28:47Z | 一个漏洞利用工具仓库 | https://github.com/Threekiii/Awesome-Exploit | 125 | 31| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220705T23:36:20Z | KIZAGAN is a python computer backdoor and it can take camera pictures,screenshot,getting microphone sounds... etc. | https://github.com/st4inl3s5/kizagan | 1 | 0| 
-| 20220705T23:17:51Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. | https://github.com/h3xduck/TripleCross | 502 | 46| 
 | 20220705T18:41:33Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 107 | 30| 
 | 20220705T06:11:37Z | backdoor | https://github.com/ibrahimhaxor/web-shell | 0 | 0| 
 | 20220705T04:40:02Z | The focal point of this document is to describe the backdoor risks and inadequate authentication exploits performed done by reverse-engineering the software/firmware preinstalled in Wi-Fi routers. | https://github.com/DularaAnushka/Reverse-Engineering-and-Pwning-the-Router-Firmware-by-Exploiting-XSS-or-Weak-Authentication | 0 | 0| 
@@ -89,21 +87,24 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220705T09:38:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2965 | 419| 
-| 20220705T08:48:25Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 235 | 57| 
+| 20220705T17:09:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2966 | 419| 
+| 20220705T13:23:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 236 | 57| 
 | 20220705T07:48:06Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 449 | 26| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220705T07:55:12Z | ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper) | https://github.com/nsg-ethz/ditto | 9 | 2| 
+| 20220705T14:28:28Z | ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper) | https://github.com/nsg-ethz/ditto | 10 | 2| 
 | 20220705T07:07:41Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 7 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220705T22:44:10Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 432 | 59| 
+| 20220705T20:34:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2567 | 170| 
+| 20220705T14:54:17Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 18 | 1| 
 
 
 
