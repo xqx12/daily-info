@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220707 | 利用污点分析技术在 .NET 汇编层面检测漏洞 | https://github.com/mandiant/route-sixty-sink| 
+| 20220707 | Fuzz Windows 的 HEIF 图片处理库 | https://www.mandiant.com/resources/fuzzing-image-parsing-windows-part-four| 
+| 20220707 | Apple 计划秋季在 iOS、iPadOS、macOS 推出 Lockdown 模式，开启后极大收紧攻击面，对抗 APT 恶意攻击 | https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/| 
+| 20220707 | 基于 lief 实现的代码混淆工具 | http://www.romainthomas.fr/publication/22-pst-the-poor-mans-obfuscator/| 
+| 20220707 | 基于 RPC 和 DCOM 的渗透测试横向渗透 | https://github.com/RiccardoAncarani/talks/blob/master/F-Secure/unorthodox-lateral-movement.pdf| 
+| 20220707 | Account hijacking using dirty dancing in sign-in OAuth-flows | https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/| 
+| 20220707 | pamspy - 利用 eBPF 技术 dump Linux 认证凭据 | https://github.com/citronneur/pamspy| 
+| 20220707 | IoT 设备固件组件的动态分析方案 | https://securelist.com/dynamic-analysis-of-firmware-components-in-iot-devices/106901/| 
 | 20220706 | 一款开源的 24 通道软硬件逻辑分析仪 | https://github.com/gusmanb/logicanalyzer| 
 | 20220706 | GOAD - Active Directory 渗透测试实验环境 | https://github.com/Orange-Cyberdefense/GOAD| 
 | 20220706 | WarCon 2022 – Modern Initial Access and Evasion Tactics | http://mgeeky.tech/warcon-2022-modern-initial-access-and-evasion-tactics/| 
@@ -18,14 +26,6 @@
 | 20220706 | 用 Time-travel Testing 的方法测试 Android App，覆盖更多的状态 | https://sec.today/pulses/5abd785a-19b9-44e1-8177-4984f2f33e62/| 
 | 20220706 | 用 Time-travel Testing 的方法测试 Android App，覆盖更多的状态 | https://zhendong2050.github.io/res/time-travel-testing-21-01-2020.pdf| 
 | 20220706 | 一种全新的内存马 | https://veo.pub/2022/memshell/| 
-| 20220705 | Windows Defender Remote Credential Guard (RCG) 被发现存在 Authentication Relay 攻击漏洞 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2268| 
-| 20220705 | TripleCross - 基于 Linux eBPF 写的一款 rootkit | https://github.com/h3xduck/TripleCross| 
-| 20220705 | Linux 漏洞利用本地提权技术之修改 modprobe_path | http://sam4k.com/like-techniques-modprobe_path/| 
-| 20220705 | HyperDbg 调试器的内核调试版 kHyperDbg 的设计文档 | http://research.hyperdbg.org/debugger/kernel-debugger-design.html| 
-| 20220705 | 研究员 zhuowei 对于 Linus Henze 发现的 CoreTrust 和 DriverKit 漏洞的补丁对比分析 | http://worthdoingbadly.com/coretrust/| 
-| 20220705 | 过去 10 年汽车方向的漏洞整理分析 | http://schmiedecker.net/talks/2022-06-30_Troopers22.pdf| 
-| 20220705 | 分析 Microsoft Defender for Endpoint 的 Audit Settings | https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x02-audit-settings-and-telemetry-1d0af3ebfb27| 
-| 20220705 | Google 公开了 2022 CTF 比赛的赛题 | https://github.com/google/google-ctf/tree/master/2022| 
 
 
 # 安全维基 推荐
@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220707T12:19:42Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
+| 20220707T11:11:24Z | CVE-2022-26135 |  CVE-2022-26135  | https://github.com/safe3s/CVE-2022-26135 | | 
+| 20220707T05:44:21Z | CVE-2020-0136 | Null | https://github.com/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136 | | 
+| 20220707T05:27:40Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
 | 20220707T01:42:44Z | CVE-2021-27850 | CVE-2021-27850 ysoserial | https://github.com/novysodope/CVE-2021-27850 | | 
 | 20220706T23:37:24Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/lucasallan/CVE-2020-8163 | | 
 | 20220706T17:29:04Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220706T12:34:20Z | cve-2022-31749 | Simple PoC-checker for CVE-2022-31749 by 1vere$k | https://github.com/iveresk/cve-2022-31749 | | 
-| 20220706T09:04:40Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
 | 20220706T07:45:01Z | CVE-2022-20133 | Null | https://github.com/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-20133 | | 
 | 20220706T06:55:45Z | CVE-2022-20138 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138 | | 
-| 20220706T06:42:55Z | cve-2022-26134 | Null | https://github.com/f4yd4-s3c/cve-2022-26134 | | 
-| 20220706T06:23:28Z | cve-2022-28219 | Null | https://github.com/rbowes-r7/manageengine-auditad-cve-2022-28219 | | 
-| 20220706T06:10:30Z | CVE-2022-28117 | Navigate CMS <= 2.9.4 - Server-Side Request Forgery (Authenticated) | https://github.com/cheshireca7/CVE-2022-28117 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220707T01:37:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7118 | 248| 
+| 20220707T09:51:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7126 | 249| 
+| 20220707T09:21:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2004 | 570| 
 | 20220706T17:04:38Z | bot | https://github.com/AnjoyLi/klee | 0 | 0| 
-| 20220706T14:34:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2003 | 570| 
 | 20220706T13:00:45Z | Null | https://github.com/kleenex1/kleenex1.github.io | 1 | 0| 
 | 20220706T08:37:33Z | Null | https://github.com/kleenex1/kleenex1 | 0 | 0| 
 | 20220705T10:48:12Z | A Klee damage calculator. | https://github.com/ESL313/kleecalculator | 1 | 1| 
@@ -72,22 +72,22 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220706T21:42:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 237 | 57| 
+| 20220706T21:42:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 237 | 58| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220707T12:21:21Z | Exploitation de l%api https://pokeapi.co/ afin de trouver vos pokémon préférés ainsi que des informations sur eux. | https://github.com/brayancapet/pokedex | 0 | 0| 
+| 20220707T12:02:24Z | Null | https://github.com/M00nHeeSung/exploit | 0 | 0| 
+| 20220707T10:55:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3301 | 529| 
+| 20220707T08:12:20Z | Null | https://github.com/p1ckzi/p1ckzi | 0 | 0| 
+| 20220707T06:55:31Z | Null | https://github.com/berusssv5/exploit-botnet-x86 | 0 | 0| 
+| 20220707T05:19:12Z | Text detection and recognition from images could have numerous functional  applications for document analysis, such as assistance for visually impaired people;  recognition of vehicle license plates; evaluation of articles containing tables, street  signs, maps, and diagrams; keyword-based image exploration; document retrieval;  recognition of parts within industrial automation; content-based extraction; object  recognition; address block location; and text-based video indexing. This research  exploited the advantages of artificial intelligence (AI) to detect and recognize text from  natural images. Machine learning and deep learning were used to accomplish this task. | https://github.com/MilindSultane/Text-Extraction-from-Image | 0 | 0| 
 | 20220707T01:46:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11692 | 2021| 
 | 20220707T01:45:39Z | This Tools Is Very Power Full..It Can Exploit And Auto Upload THe Shell | https://github.com/yunoCE/Auto-Exploit-And-Up-Shell | 0 | 0| 
 | 20220707T01:33:39Z | Retos de Captura la bandera (CTF) resueltos. | https://github.com/R3LI4NT/ctf-retos | 0 | 0| 
 | 20220707T01:05:17Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.5 | 0 | 0| 
-| 20220707T01:04:34Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.5 | 0 | 0| 
-| 20220707T01:03:30Z | Exploiting Bell Networks | https://github.com/l3d43r/Bell_sploit | 0 | 0| 
-| 20220707T01:03:27Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.5 | 0 | 0| 
-| 20220707T00:03:58Z | Null | https://github.com/ouldevloper/x86-Linux-Binary-Exploitation | 0 | 0| 
-| 20220706T23:58:05Z | Null | https://github.com/ouldevloper/Linux-32bit-Binary-Exploitation | 0 | 0| 
-| 20220706T23:33:51Z | Repo with all my exploits | https://github.com/Hopeless0001/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
