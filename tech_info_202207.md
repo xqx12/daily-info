@@ -14,6 +14,7 @@
 | 20220707 | Account hijacking using dirty dancing in sign-in OAuth-flows | https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/| 
 | 20220707 | pamspy - 利用 eBPF 技术 dump Linux 认证凭据 | https://github.com/citronneur/pamspy| 
 | 20220707 | IoT 设备固件组件的动态分析方案 | https://securelist.com/dynamic-analysis-of-firmware-components-in-iot-devices/106901/| 
+| 20220707 | 2022虎符_vdq(rust_cve)详解 | https://tttang.com/archive/1585/| 
 | 20220706 | 一款开源的 24 通道软硬件逻辑分析仪 | https://github.com/gusmanb/logicanalyzer| 
 | 20220706 | GOAD - Active Directory 渗透测试实验环境 | https://github.com/Orange-Cyberdefense/GOAD| 
 | 20220706 | WarCon 2022 – Modern Initial Access and Evasion Tactics | http://mgeeky.tech/warcon-2022-modern-initial-access-and-evasion-tactics/| 
@@ -25,7 +26,6 @@
 | 20220706 | Issue 2271: Windows: Kerberos Redirected Logon Buffer EoP | https://bugs.chromium.org/p/project-zero/issues/detail?id=2271| 
 | 20220706 | 用 Time-travel Testing 的方法测试 Android App，覆盖更多的状态 | https://sec.today/pulses/5abd785a-19b9-44e1-8177-4984f2f33e62/| 
 | 20220706 | 用 Time-travel Testing 的方法测试 Android App，覆盖更多的状态 | https://zhendong2050.github.io/res/time-travel-testing-21-01-2020.pdf| 
-| 20220706 | 一种全新的内存马 | https://veo.pub/2022/memshell/| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220708T01:58:47Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
+| 20220708T01:53:03Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
+| 20220708T00:16:18Z | CVE-2022-29593 | Null | https://github.com/9lyph/CVE-2022-29593 | | 
+| 20220707T19:20:03Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20220707T19:20:03Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/AZMagic/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20220707T19:19:57Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/AZMagic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
+| 20220707T15:35:43Z | CVE-2022-31854 | CodoForum v5.1 - File Upload Bypass to RCE (Authenticated) exploit code | https://github.com/Vikaran101/CVE-2022-31854 | | 
+| 20220707T14:52:23Z | CVE-2020-5902 | BIGIP CVE-2020-5902 Exploit POC and automation scanning vulnerability | https://github.com/z3n70/CVE-2020-5902 | | 
+| 20220707T14:52:08Z | CVE-2021-3156 | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | | 
 | 20220707T12:43:24Z | CVE-2022-26135 |  CVE-2022-26135  | https://github.com/safe3s/CVE-2022-26135 | | 
-| 20220707T12:19:42Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
-| 20220707T05:44:21Z | CVE-2020-0136 | Null | https://github.com/Satheesh575555/libhwbinder_AOSP10_r33_CVE-2020-0136 | | 
-| 20220707T05:27:40Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
-| 20220707T01:42:44Z | CVE-2021-27850 | CVE-2021-27850 ysoserial | https://github.com/novysodope/CVE-2021-27850 | | 
-| 20220706T23:37:24Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/lucasallan/CVE-2020-8163 | | 
-| 20220706T17:29:04Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
-| 20220706T12:34:20Z | cve-2022-31749 | Simple PoC-checker for CVE-2022-31749 by 1vere$k | https://github.com/iveresk/cve-2022-31749 | | 
-| 20220706T07:45:01Z | CVE-2022-20133 | Null | https://github.com/nidhi7598/packages_apps_Bluetooth_AOSP_10_r33_CVE-2022-20133 | | 
-| 20220706T06:55:45Z | CVE-2022-20138 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220707T09:51:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7126 | 249| 
-| 20220707T09:21:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2004 | 571| 
+| 20220707T16:31:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2005 | 571| 
+| 20220707T16:14:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7127 | 250| 
+| 20220707T15:05:17Z | Null | https://github.com/kleelab/kleelab.github.io | 1 | 0| 
 | 20220706T17:04:38Z | bot | https://github.com/AnjoyLi/klee | 0 | 0| 
 | 20220706T13:00:45Z | Null | https://github.com/kleenex1/kleenex1.github.io | 1 | 0| 
 | 20220706T08:37:33Z | Null | https://github.com/kleenex1/kleenex1 | 0 | 0| 
@@ -78,39 +79,39 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220707T13:17:54Z | CSRF exploit for exploiting sites with cross site request forgery [CSRF] </🪲> | https://github.com/C4ssif3r/CSRF-exploit | 0 | 0| 
-| 20220707T12:43:57Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..3 | 0 | 0| 
-| 20220707T12:43:15Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..3 | 0 | 0| 
-| 20220707T12:42:23Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..3 | 0 | 0| 
-| 20220707T12:21:21Z | Exploitation de l%api https://pokeapi.co/ afin de trouver vos pokémon préférés ainsi que des informations sur eux. | https://github.com/brayancapet/pokedex | 0 | 0| 
-| 20220707T12:07:47Z | A tool to find and exploit servers vulnerable to Shellshock | https://github.com/nccgroup/shocker | 312 | 93| 
-| 20220707T12:02:24Z | Null | https://github.com/M00nHeeSung/exploit | 0 | 0| 
-| 20220707T11:29:53Z | 漏洞批量验证框架 | https://github.com/bigblackhat/oFx | 398 | 88| 
-| 20220707T10:55:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3301 | 529| 
-| 20220707T08:12:20Z | Null | https://github.com/p1ckzi/p1ckzi | 0 | 0| 
+| 20220708T01:03:15Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.2. | 0 | 0| 
+| 20220708T01:02:20Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.2. | 0 | 0| 
+| 20220708T01:01:12Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.2. | 0 | 0| 
+| 20220707T21:28:17Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 984 | 87| 
+| 20220707T21:12:08Z | 6 Practical Tasks. Task 1: Reconnaissance phase. Task 2: Scanning & Enumeration phase. Task 3, 4 & 5: OWASP web exploitation challenges. Task 6: Maintaining Access phase. | https://github.com/John-Ghaly88/Ethical_Hacking_and_Penetration_Testing | 0 | 0| 
+| 20220707T21:11:35Z | Collection of my exploits used to solve challenges in CTFs and not. | https://github.com/R1D3R175/my-scripts | 0 | 0| 
+| 20220707T19:55:41Z | HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures. | https://github.com/EntySec/HatVenom | 90 | 25| 
+| 20220707T19:52:07Z | This is a python script that exploits wget when being set with a SUID bit, and overwrites the root password. | https://github.com/CopernicusPY/wget-root | 0 | 0| 
+| 20220707T19:29:44Z | This is a exploit, which can boost your speed. To change your speed, you will have to change your .speed value. To actually get the speed boost you would need to press the letter %G% on your keyboard.  | https://github.com/alixjaffar/Roblox-Speed-Hack | 0 | 0| 
+| 20220707T19:20:03Z | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 9 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220707T13:14:54Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. | https://github.com/h3xduck/TripleCross | 669 | 62| 
+| 20220708T01:34:25Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. | https://github.com/h3xduck/TripleCross | 704 | 65| 
+| 20220707T21:16:40Z | This is a rudimatary backdoor code in python, messy but working | https://github.com/DarkIshin/Backdoor | 0 | 0| 
+| 20220707T19:55:17Z | 🔒 Generate FUD backdoor with a AES Crypter 🔒 | https://github.com/tr1xongithub/fud-backdoor | 0 | 0| 
+| 20220707T18:14:25Z | Null | https://github.com/Andrew011002/Backdoor | 0 | 0| 
+| 20220707T14:30:09Z | CVE-2022-0847 SUID Shell Backdoor | https://github.com/notl0cal/dpipe | 0 | 0| 
 | 20220707T09:27:44Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 60 | 20| 
 | 20220707T09:19:59Z | A backdoor for minecraft server. | https://github.com/PreferMC/SuperBackdoor | 2 | 0| 
 | 20220707T09:04:30Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 517 | 99| 
+| 20220707T07:16:43Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1659 | 738| 
 | 20220707T03:19:16Z | Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs. | https://github.com/wuseman/wloader | 136 | 31| 
-| 20220706T19:14:56Z | scammed buy azura @ xiety.xyz | https://github.com/cu-m/nginx-1.18.0-backdoor | 0 | 0| 
-| 20220706T18:29:25Z | BEST NO BACKDOOR ALL CRYPTO AND NFT DRAINER SCRIPT | https://github.com/cryptoscemdev/Best-Crypto-NFT-Drainer | 0 | 0| 
-| 20220706T17:02:07Z | Null | https://github.com/EKakar/BackDoor-Listener | 0 | 0| 
-| 20220706T16:37:10Z | Null | https://github.com/UCDvision/backdoor_transformer | 4 | 0| 
-| 20220706T13:46:53Z | Test your understanding of the backdoor path criterion | https://github.com/CBDRH/shinyPaths | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220707T23:10:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2975 | 421| 
+| 20220707T16:31:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2005 | 571| 
 | 20220707T10:53:55Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 452 | 26| 
-| 20220707T09:57:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2971 | 421| 
-| 20220707T09:21:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2004 | 570| 
 | 20220706T21:42:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 237 | 58| 
 | 20220706T09:02:30Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 699 | 76| 
 
