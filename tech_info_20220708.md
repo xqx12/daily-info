@@ -29,6 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220708T12:22:00Z | CVE-2022-26134 | Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE) | https://github.com/nxtexploit/CVE-2022-26134 | | 
 | 20220708T12:14:49Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220708T11:27:02Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220708T11:20:00Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/AZMagic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
@@ -38,7 +39,6 @@
 | 20220708T08:31:59Z | CVE-2022-31854 | CodoForum v5.1 - File Upload Bypass to RCE (Authenticated) exploit code | https://github.com/Vikaran101/CVE-2022-31854 | | 
 | 20220708T06:00:51Z | CVE-2022-34963 | OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the News Feed module. | https://github.com/bypazs/CVE-2022-34963 | | 
 | 20220708T04:52:16Z | CVE-2022-34962 | OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Group Timeline module. | https://github.com/bypazs/CVE-2022-34962 | | 
-| 20220708T04:29:35Z | CVE-2022-34961 | OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Users Timeline module. | https://github.com/bypazs/CVE-2022-34961 | | 
 
 
 # klee on Github 推荐
@@ -99,7 +99,7 @@
 | 20220708T10:36:11Z | Fuzzy logic implemented in pytorch | https://github.com/VanessB/FuzzyTorch | 0 | 0| 
 | 20220708T10:21:06Z | Null | https://github.com/icipe-official/fuzzy-based-modelling-approach-to-predict-the-spatio-temporal-performance | 0 | 0| 
 | 20220708T10:15:58Z | Null | https://github.com/te70/fuzzy-octo-potato | 0 | 0| 
-| 20220708T06:55:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7568 | 1624| 
+| 20220708T06:55:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7568 | 1625| 
 
 
 
