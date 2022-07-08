@@ -89,7 +89,7 @@
 | 20220708T09:31:30Z | Exploited Keyless krnl WORKS! | https://github.com/Lazzexaa/KRNL_KEYLESS | 0 | 0| 
 | 20220708T09:12:31Z | Make a Voice Encryptor and decryptor in GUI, that should encrypt the signal voice exploiting signal properties like time flipping, shifting, scaling etc. and that should be reversible so that original voice can be recovered later. (you can take image or voice as input, image as input first convert it to 1D) | https://github.com/anfama15/SNS_CEA | 0 | 0| 
 | 20220708T07:45:17Z | [WIP] PoCs zoo for the Grandstream device. | https://github.com/iveresk/grandstream_exploit_zoo | 0 | 0| 
-| 20220708T04:28:28Z | Null | https://github.com/henceutbeey/EXPLOITWP | 0 | 0| 
+| 20220708T07:02:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3129 | 382| 
 
 
 # backdoor on Github 推荐
