@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220708T12:34:47Z | A Roblox Exploit By TTommy. | https://github.com/TTommyGTs/Roblox-Exploit | 0 | 0| 
 | 20220708T11:53:00Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 988 | 87| 
 | 20220708T11:46:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3318 | 533| 
 | 20220708T11:27:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 450 | 127| 
@@ -66,7 +67,6 @@
 | 20220708T09:12:31Z | Make a Voice Encryptor and decryptor in GUI, that should encrypt the signal voice exploiting signal properties like time flipping, shifting, scaling etc. and that should be reversible so that original voice can be recovered later. (you can take image or voice as input, image as input first convert it to 1D) | https://github.com/anfama15/SNS_CEA | 0 | 0| 
 | 20220708T07:45:17Z | [WIP] PoCs zoo for the Grandstream device. | https://github.com/iveresk/grandstream_exploit_zoo | 0 | 0| 
 | 20220708T04:28:28Z | Null | https://github.com/henceutbeey/EXPLOITWP | 0 | 0| 
-| 20220708T01:03:15Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.2. | 0 | 0| 
 
 
 # backdoor on Github 推荐
