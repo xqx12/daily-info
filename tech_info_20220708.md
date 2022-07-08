@@ -29,8 +29,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220708T12:24:21Z | CVE-2022-26134 | confluence rce | https://github.com/coskper-papa/CVE-2022-26134 | | 
+| 20220708T12:24:19Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220708T12:22:00Z | CVE-2022-26134 | Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE) | https://github.com/nxtexploit/CVE-2022-26134 | | 
-| 20220708T12:14:49Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220708T11:27:02Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220708T11:20:00Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/AZMagic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220708T11:20:00Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
@@ -38,7 +39,6 @@
 | 20220708T09:57:52Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
 | 20220708T08:31:59Z | CVE-2022-31854 | CodoForum v5.1 - File Upload Bypass to RCE (Authenticated) exploit code | https://github.com/Vikaran101/CVE-2022-31854 | | 
 | 20220708T06:00:51Z | CVE-2022-34963 | OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the News Feed module. | https://github.com/bypazs/CVE-2022-34963 | | 
-| 20220708T04:52:16Z | CVE-2022-34962 | OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Group Timeline module. | https://github.com/bypazs/CVE-2022-34962 | | 
 
 
 # klee on Github 推荐
@@ -82,9 +82,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220708T12:25:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2977 | 421| 
 | 20220708T10:35:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2006 | 571| 
 | 20220708T10:32:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 455 | 26| 
-| 20220708T01:16:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2976 | 421| 
 
 
 # big4 on Github 推荐
