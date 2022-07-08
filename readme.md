@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220708T12:24:21Z | CVE-2022-26134 | confluence rce | https://github.com/coskper-papa/CVE-2022-26134 | | 
+| 20220708T12:26:00Z | CVE-2022-26134 | confluence rce | https://github.com/coskper-papa/CVE-2022-26134 | | 
 | 20220708T12:24:19Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220708T12:22:00Z | CVE-2022-26134 | Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE) | https://github.com/nxtexploit/CVE-2022-26134 | | 
 | 20220708T11:27:02Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
