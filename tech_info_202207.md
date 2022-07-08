@@ -134,10 +134,10 @@
 | 20220708T10:21:06Z | Null | https://github.com/icipe-official/fuzzy-based-modelling-approach-to-predict-the-spatio-temporal-performance | 0 | 0| 
 | 20220708T10:15:58Z | Null | https://github.com/te70/fuzzy-octo-potato | 0 | 0| 
 | 20220708T06:55:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7568 | 1625| 
+| 20220707T20:16:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4224 | 1006| 
 | 20220707T16:30:57Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 126 | 11| 
 | 20220707T14:52:08Z | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | 2 | 0| 
 | 20220707T12:50:19Z | A containerised version of ffuf (Fuzz Faster U Fool). | https://github.com/marcel-last/ffuf-docker | 0 | 0| 
-| 20220707T11:48:19Z | SUSE Rancher KB website alternative | https://github.com/zaggash/rancherkb-fuzz | 0 | 0| 
 
 
 
