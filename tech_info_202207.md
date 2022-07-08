@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220708T12:43:18Z | Repositório com algorítimo de logica Fuzzy desenvolvido em Python simples | https://github.com/PedroHenry-Santos/Logica_Fuzzy | 0 | 0| 
 | 20220708T11:44:17Z | StarkNet smart contract fuzzer | https://github.com/crytic/tayt | 3 | 0| 
 | 20220708T10:36:11Z | Fuzzy logic implemented in pytorch | https://github.com/VanessB/FuzzyTorch | 0 | 0| 
 | 20220708T10:21:06Z | Null | https://github.com/icipe-official/fuzzy-based-modelling-approach-to-predict-the-spatio-temporal-performance | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20220707T14:52:08Z | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | 2 | 0| 
 | 20220707T12:50:19Z | A containerised version of ffuf (Fuzz Faster U Fool). | https://github.com/marcel-last/ffuf-docker | 0 | 0| 
 | 20220707T11:48:19Z | SUSE Rancher KB website alternative | https://github.com/zaggash/rancherkb-fuzz | 0 | 0| 
-| 20220707T11:02:21Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 44 | 4| 
 
 
 
