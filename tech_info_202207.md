@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T00:46:54Z | Back to binary exploitation | https://github.com/ChocoCrypt/Back2Bin | 0 | 0| 
 | 20220708T23:54:44Z | Null | https://github.com/PyroScriptss/exploits | 0 | 0| 
 | 20220708T21:27:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 990 | 87| 
 | 20220708T20:42:49Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20220708T18:32:02Z | Null | https://github.com/steamsg02/Exploit_Reports | 0 | 0| 
 | 20220708T18:17:40Z | Exploited a File Upload flaw to perform an RCE and used Metasploit to execute a privilege escalation. | https://github.com/Meowmycks/Boot2RootCTF_OSCP-Cute | 0 | 0| 
 | 20220708T12:52:08Z | A Roblox Exploit By TTommy. | https://github.com/TTommyGTs/Roblox-Exploit | 0 | 0| 
-| 20220708T11:46:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3318 | 533| 
 
 
 # backdoor on Github 推荐
