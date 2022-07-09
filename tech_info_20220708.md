@@ -29,7 +29,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220708T22:46:29Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220708T20:04:30Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
 | 20220708T16:49:41Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220708T16:27:07Z | CVE-2022-26134 | confluence rce | https://github.com/coskper-papa/CVE-2022-26134 | | 
@@ -39,6 +38,7 @@
 | 20220708T11:20:00Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/AZMagic/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220708T08:31:59Z | CVE-2022-31854 | CodoForum v5.1 - File Upload Bypass to RCE (Authenticated) exploit code | https://github.com/Vikaran101/CVE-2022-31854 | | 
 | 20220708T06:00:51Z | CVE-2022-34963 | OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the News Feed module. | https://github.com/bypazs/CVE-2022-34963 | | 
+| 20220708T04:52:16Z | CVE-2022-34962 | OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Group Timeline module. | https://github.com/bypazs/CVE-2022-34962 | | 
 
 
 # klee on Github 推荐

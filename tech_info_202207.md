@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220708T22:46:29Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
+| 20220709T00:32:43Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220708T20:04:30Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
 | 20220708T16:49:41Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220708T16:27:07Z | CVE-2022-26134 | confluence rce | https://github.com/coskper-papa/CVE-2022-26134 | | 
