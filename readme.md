@@ -74,19 +74,25 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220708T12:08:05Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1661 | 738| 
+| 20220708T22:33:57Z | 🔒 Generate FUD backdoor with a AES Crypter 🔒 | https://github.com/tr1xongithub/fud-backdoor | 0 | 0| 
+| 20220708T19:50:14Z | Under Dev. Backdoor Vulnerability Detection by Feeding Hard-coded Credentials to Bidirectional Encoder Representations from Transformers. | https://github.com/biringaChi/VulBERT | 0 | 0| 
+| 20220708T19:47:05Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 16 | 5| 
+| 20220708T19:23:59Z | BEST PUBLIC FREE SOURCE CODE, NO BACKDOOR | https://github.com/0x32Moons/Crypto-NFT-Drainer | 0 | 0| 
+| 20220708T19:04:26Z | C++ Py embeded undetected backdoor. | https://github.com/hide-wow/Undetected-Backdoor | 0 | 0| 
+| 20220708T18:21:56Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1661 | 739| 
+| 20220708T13:39:33Z | Null | https://github.com/Diddman/IIS-Exchange-Backdoor | 0 | 0| 
+| 20220708T13:32:39Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 28 | 6| 
 | 20220708T05:31:29Z | CVE-2022-0847 SUID Shell Backdoor | https://github.com/notl0cal/dpipe | 1 | 0| 
 | 20220708T03:53:53Z | That is a .NET API that simulate a saturation oxygen sensor. By backdoor commands it is possible change the direction of the change of saturation oxygen values once that a thread constantelly is changing the mentioned value. | https://github.com/ckrique/ApiSensor | 0 | 0| 
-| 20220708T02:38:30Z | Generador de Reverse Shell para distintos lenguajes de programación y sistemas operativos. | https://github.com/mrx04programmer/RS-Generator | 0 | 0| 
-| 20220708T01:34:25Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. | https://github.com/h3xduck/TripleCross | 704 | 65| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220708T12:25:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2977 | 421| 
+| 20220708T16:58:26Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 456 | 26| 
+| 20220708T16:56:15Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 700 | 76| 
+| 20220708T16:54:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2978 | 421| 
 | 20220708T10:35:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2006 | 571| 
-| 20220708T10:32:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 455 | 26| 
 
 
 # big4 on Github 推荐
