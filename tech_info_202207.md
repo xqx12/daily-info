@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T01:19:14Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 991 | 87| 
 | 20220709T01:06:05Z | scripthub | https://github.com/ihategithub1234/exploitxhub | 0 | 0| 
 | 20220709T00:59:19Z | Back to binary exploitation | https://github.com/ChocoCrypt/Back2Bin | 0 | 0| 
 | 20220709T00:55:57Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 3448 | 902| 
@@ -89,7 +90,6 @@
 | 20220709T00:50:05Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..2. | 0 | 0| 
 | 20220709T00:49:18Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..2. | 0 | 0| 
 | 20220708T23:54:44Z | Null | https://github.com/PyroScriptss/exploits | 0 | 0| 
-| 20220708T21:27:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 990 | 87| 
 | 20220708T20:42:49Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
 | 20220708T20:29:50Z | PS4 6.72 Exploits | https://github.com/VGSSL/vgssl.github.io | 0 | 0| 
 

@@ -59,7 +59,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220708T23:54:44Z | Null | https://github.com/PyroScriptss/exploits | 0 | 0| 
-| 20220708T21:27:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 990 | 87| 
 | 20220708T20:42:49Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
 | 20220708T20:29:50Z | PS4 6.72 Exploits | https://github.com/VGSSL/vgssl.github.io | 0 | 0| 
 | 20220708T19:33:07Z | Null | https://github.com/AnonGreyHat/DarkExploit- | 1 | 0| 
@@ -68,6 +67,7 @@
 | 20220708T18:17:40Z | Exploited a File Upload flaw to perform an RCE and used Metasploit to execute a privilege escalation. | https://github.com/Meowmycks/Boot2RootCTF_OSCP-Cute | 0 | 0| 
 | 20220708T12:52:08Z | A Roblox Exploit By TTommy. | https://github.com/TTommyGTs/Roblox-Exploit | 0 | 0| 
 | 20220708T11:46:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3318 | 533| 
+| 20220708T11:27:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 450 | 127| 
 
 
 # backdoor on Github 推荐
