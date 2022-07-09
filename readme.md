@@ -42,11 +42,11 @@
 | 20220709T11:26:01Z | 🦠🔬 Forta agent that detects the deployment of smart contracts containing an exploit function | https://github.com/kovart/forta-attack-simulation | 0 | 0| 
 | 20220709T11:16:39Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 526 | 123| 
 | 20220709T11:11:54Z | 6 Practical Tasks. Task 1: Reconnaissance phase. Task 2: Scanning & Enumeration phase. Task 3, 4 & 5: OWASP web exploitation challenges. Task 6: Maintaining Access phase. | https://github.com/karimSalem25/Ethical_Hacking_and_Penetration_Testing | 0 | 0| 
+| 20220709T10:54:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11700 | 2020| 
 | 20220709T10:38:38Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Service-Enumeration | 0 | 0| 
 | 20220709T09:29:28Z | A script for freecam on ROBLOX exploits | https://github.com/0kuto0fficial/Freecam_RBLX | 0 | 0| 
 | 20220709T01:19:14Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 991 | 87| 
 | 20220709T01:06:05Z | scripthub | https://github.com/ihategithub1234/exploitxhub | 0 | 0| 
-| 20220709T00:59:19Z | Back to binary exploitation | https://github.com/ChocoCrypt/Back2Bin | 0 | 0| 
 
 
 # backdoor on Github 推荐
