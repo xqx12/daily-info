@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T00:50:48Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..2. | 0 | 0| 
 | 20220709T00:50:05Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..2. | 0 | 0| 
 | 20220709T00:49:18Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..2. | 0 | 0| 
 | 20220709T00:46:54Z | Back to binary exploitation | https://github.com/ChocoCrypt/Back2Bin | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20220708T20:29:50Z | PS4 6.72 Exploits | https://github.com/VGSSL/vgssl.github.io | 0 | 0| 
 | 20220708T19:33:07Z | Null | https://github.com/AnonGreyHat/DarkExploit- | 1 | 0| 
 | 20220708T18:59:30Z | [WIP] PoCs zoo for the Grandstream device. | https://github.com/iveresk/grandstream_exploit_zoo | 0 | 0| 
-| 20220708T18:32:02Z | Null | https://github.com/steamsg02/Exploit_Reports | 0 | 0| 
 
 
 # backdoor on Github 推荐
