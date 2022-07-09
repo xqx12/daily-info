@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T01:25:27Z | HTTP/2 grammar fuzzer with a harness for nginx. Developed using libprotobuf-mutator | https://github.com/DanielWood/h2-lpm | 0 | 0| 
 | 20220708T23:26:53Z | Fuzzy searching strings in typescript | https://github.com/JGynther/fuzzy | 0 | 0| 
 | 20220708T20:51:54Z | Null | https://github.com/MizzouINDFUL/DeepFuzzyFusion | 0 | 0| 
 | 20220708T19:18:17Z | A WASM version for fuzzy extractor | https://github.com/ian7yang/FuzzyExtractor | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20220708T12:43:18Z | Repositório com algorítimo de logica Fuzzy desenvolvido em Python simples | https://github.com/PedroHenry-Santos/Logica_Fuzzy | 0 | 0| 
 | 20220708T11:44:17Z | StarkNet smart contract fuzzer | https://github.com/crytic/tayt | 3 | 0| 
 | 20220708T10:36:11Z | Fuzzy logic implemented in pytorch | https://github.com/VanessB/FuzzyTorch | 0 | 0| 
-| 20220708T10:21:06Z | Null | https://github.com/icipe-official/fuzzy-based-modelling-approach-to-predict-the-spatio-temporal-performance | 0 | 0| 
 
 
 
