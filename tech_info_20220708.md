@@ -44,7 +44,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220708T23:57:40Z | Null | https://github.com/theblackpanther00/JayKleezie-Website | 0 | 0| 
 | 20220708T10:35:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2006 | 571| 
 | 20220708T07:50:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7130 | 250| 
 
