@@ -46,24 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220709T00:32:43Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
+| 20220709T12:01:20Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
+| 20220709T08:05:57Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
+| 20220709T05:35:11Z | CVE-2022- | Null | https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E | | 
 | 20220708T20:04:30Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
-| 20220708T16:49:41Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220708T16:27:07Z | CVE-2022-26134 | confluence rce | https://github.com/coskper-papa/CVE-2022-26134 | | 
 | 20220708T12:22:00Z | CVE-2022-26134 | Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE) | https://github.com/nxtexploit/CVE-2022-26134 | | 
 | 20220708T11:20:00Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/AZMagic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220708T11:20:00Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220708T11:20:00Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/AZMagic/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220708T08:31:59Z | CVE-2022-31854 | CodoForum v5.1 - File Upload Bypass to RCE (Authenticated) exploit code | https://github.com/Vikaran101/CVE-2022-31854 | | 
-| 20220708T06:00:51Z | CVE-2022-34963 | OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the News Feed module. | https://github.com/bypazs/CVE-2022-34963 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T11:56:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7134 | 250| 
+| 20220709T09:31:50Z | Null | https://github.com/KhoaLee/KleeVSCodeSettings | 0 | 0| 
 | 20220709T00:04:24Z | Null | https://github.com/theblackpanther00/JayKleezie-Website | 0 | 0| 
-| 20220708T10:35:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2006 | 571| 
-| 20220708T07:50:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7130 | 250| 
+| 20220708T10:35:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2006 | 570| 
 | 20220707T15:05:17Z | Null | https://github.com/kleelab/kleelab.github.io | 1 | 0| 
 | 20220706T17:04:38Z | bot | https://github.com/AnjoyLi/klee | 0 | 0| 
 | 20220706T13:00:45Z | Null | https://github.com/kleenex1/kleenex1.github.io | 1 | 0| 
@@ -82,21 +83,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T11:43:46Z | PS4 6.72 Exploits | https://github.com/VGSSL/vgssl.github.io | 0 | 0| 
+| 20220709T11:26:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3335 | 533| 
+| 20220709T11:26:01Z | 🦠🔬 Forta agent that detects the deployment of smart contracts containing an exploit function | https://github.com/kovart/forta-attack-simulation | 0 | 0| 
+| 20220709T11:16:39Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 526 | 123| 
+| 20220709T11:11:54Z | 6 Practical Tasks. Task 1: Reconnaissance phase. Task 2: Scanning & Enumeration phase. Task 3, 4 & 5: OWASP web exploitation challenges. Task 6: Maintaining Access phase. | https://github.com/karimSalem25/Ethical_Hacking_and_Penetration_Testing | 0 | 0| 
+| 20220709T10:38:38Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Service-Enumeration | 0 | 0| 
+| 20220709T09:29:28Z | A script for freecam on ROBLOX exploits | https://github.com/0kuto0fficial/Freecam_RBLX | 0 | 0| 
 | 20220709T01:19:14Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 991 | 87| 
 | 20220709T01:06:05Z | scripthub | https://github.com/ihategithub1234/exploitxhub | 0 | 0| 
 | 20220709T00:59:19Z | Back to binary exploitation | https://github.com/ChocoCrypt/Back2Bin | 0 | 0| 
-| 20220709T00:55:57Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 3448 | 902| 
-| 20220709T00:50:48Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..2. | 0 | 0| 
-| 20220709T00:50:05Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..2. | 0 | 0| 
-| 20220709T00:49:18Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..2. | 0 | 0| 
-| 20220708T23:54:44Z | Null | https://github.com/PyroScriptss/exploits | 0 | 0| 
-| 20220708T20:42:49Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
-| 20220708T20:29:50Z | PS4 6.72 Exploits | https://github.com/VGSSL/vgssl.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T11:32:39Z | KIZAGAN is a python computer backdoor and it can take camera pictures,screenshot,getting microphone sounds... etc. | https://github.com/st4inl3s5/kizagan | 5 | 0| 
+| 20220709T06:46:18Z | List Shell Gua | https://github.com/yon3zu/myshell-list | 1 | 0| 
+| 20220709T05:12:40Z | Null | https://github.com/MadExploits/Backdoor | 0 | 0| 
 | 20220709T00:25:10Z | Null | https://github.com/merlinepedra/shell-backdoor-list | 0 | 0| 
 | 20220709T00:25:02Z | Null | https://github.com/merlinepedra25/shell-backdoor-list | 0 | 0| 
 | 20220708T22:33:57Z | 🔒 Generate FUD backdoor with a AES Crypter 🔒 | https://github.com/tr1xongithub/fud-backdoor | 0 | 0| 
@@ -104,9 +108,6 @@
 | 20220708T19:47:05Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 16 | 5| 
 | 20220708T19:23:59Z | BEST PUBLIC FREE SOURCE CODE, NO BACKDOOR | https://github.com/0x32Moons/Crypto-NFT-Drainer | 0 | 0| 
 | 20220708T19:04:26Z | C++ Py embeded undetected backdoor. | https://github.com/hide-wow/Undetected-Backdoor | 0 | 0| 
-| 20220708T18:21:56Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1661 | 739| 
-| 20220708T13:39:33Z | Null | https://github.com/Diddman/IIS-Exchange-Backdoor | 0 | 0| 
-| 20220708T13:32:39Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 28 | 6| 
 
 
 # symbolic execution on Github 推荐
@@ -130,6 +131,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T10:03:48Z | Null | https://github.com/Sanjaythebeast78/fuzzy-disco | 0 | 0| 
+| 20220709T09:28:15Z | A react fuzzy search input | https://github.com/ColinRosati/fuzzy-search-input | 0 | 0| 
+| 20220709T02:18:23Z | Kasus yang diambil adalah persaingan 2 produk yaitu MSGlow dan Scarlet | https://github.com/michstg/fuzzification-defuzzification-gametheory-python | 0 | 0| 
 | 20220709T01:25:27Z | HTTP/2 grammar fuzzer with a harness for nginx. Developed using libprotobuf-mutator | https://github.com/DanielWood/h2-lpm | 0 | 0| 
 | 20220708T23:26:53Z | Fuzzy searching strings in typescript | https://github.com/JGynther/fuzzy | 0 | 0| 
 | 20220708T20:51:54Z | Null | https://github.com/MizzouINDFUL/DeepFuzzyFusion | 0 | 0| 
@@ -137,9 +141,6 @@
 | 20220708T19:04:03Z | Sex work worker | https://github.com/Slammed69/fuzzy-octo-chainsaw | 0 | 0| 
 | 20220708T18:34:52Z | echidna + forge fuzzing container env | https://github.com/sambacha/echidna-forge-container | 4 | 0| 
 | 20220708T15:38:32Z | CrackQL is a GraphQL password brute-force and fuzzing utility. | https://github.com/nicholasaleks/CrackQL | 35 | 1| 
-| 20220708T12:43:18Z | Repositório com algorítimo de logica Fuzzy desenvolvido em Python simples | https://github.com/PedroHenry-Santos/Logica_Fuzzy | 0 | 0| 
-| 20220708T11:44:17Z | StarkNet smart contract fuzzer | https://github.com/crytic/tayt | 3 | 0| 
-| 20220708T10:36:11Z | Fuzzy logic implemented in pytorch | https://github.com/VanessB/FuzzyTorch | 0 | 0| 
 
 
 
