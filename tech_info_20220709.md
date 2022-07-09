@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T12:49:56Z | Corpus for fuzzing Egress Eddie | https://github.com/capnspacehook/egress-eddie-corpus | 0 | 0| 
 | 20220709T10:03:48Z | Null | https://github.com/Sanjaythebeast78/fuzzy-disco | 0 | 0| 
 | 20220709T09:28:15Z | A react fuzzy search input | https://github.com/ColinRosati/fuzzy-search-input | 0 | 0| 
 | 20220709T02:18:23Z | Kasus yang diambil adalah persaingan 2 produk yaitu MSGlow dan Scarlet | https://github.com/michstg/fuzzification-defuzzification-gametheory-python | 0 | 0| 

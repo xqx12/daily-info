@@ -131,6 +131,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T12:49:56Z | Corpus for fuzzing Egress Eddie | https://github.com/capnspacehook/egress-eddie-corpus | 0 | 0| 
 | 20220709T10:03:48Z | Null | https://github.com/Sanjaythebeast78/fuzzy-disco | 0 | 0| 
 | 20220709T09:28:15Z | A react fuzzy search input | https://github.com/ColinRosati/fuzzy-search-input | 0 | 0| 
 | 20220709T02:18:23Z | Kasus yang diambil adalah persaingan 2 produk yaitu MSGlow dan Scarlet | https://github.com/michstg/fuzzification-defuzzification-gametheory-python | 0 | 0| 
@@ -140,7 +141,6 @@
 | 20220708T19:18:17Z | A WASM version for fuzzy extractor | https://github.com/ian7yang/FuzzyExtractor | 0 | 0| 
 | 20220708T19:04:03Z | Sex work worker | https://github.com/Slammed69/fuzzy-octo-chainsaw | 0 | 0| 
 | 20220708T18:34:52Z | echidna + forge fuzzing container env | https://github.com/sambacha/echidna-forge-container | 4 | 0| 
-| 20220708T15:38:32Z | CrackQL is a GraphQL password brute-force and fuzzing utility. | https://github.com/nicholasaleks/CrackQL | 35 | 1| 
 
 
 
