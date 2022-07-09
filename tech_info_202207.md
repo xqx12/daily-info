@@ -97,6 +97,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220709T00:25:10Z | Null | https://github.com/merlinepedra/shell-backdoor-list | 0 | 0| 
+| 20220709T00:25:02Z | Null | https://github.com/merlinepedra25/shell-backdoor-list | 0 | 0| 
 | 20220708T22:33:57Z | 🔒 Generate FUD backdoor with a AES Crypter 🔒 | https://github.com/tr1xongithub/fud-backdoor | 0 | 0| 
 | 20220708T19:50:14Z | Under Dev. Backdoor Vulnerability Detection by Feeding Hard-coded Credentials to Bidirectional Encoder Representations from Transformers. | https://github.com/biringaChi/VulBERT | 0 | 0| 
 | 20220708T19:47:05Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 16 | 5| 
@@ -105,8 +107,6 @@
 | 20220708T18:21:56Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1661 | 739| 
 | 20220708T13:39:33Z | Null | https://github.com/Diddman/IIS-Exchange-Backdoor | 0 | 0| 
 | 20220708T13:32:39Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 28 | 6| 
-| 20220708T05:31:29Z | CVE-2022-0847 SUID Shell Backdoor | https://github.com/notl0cal/dpipe | 1 | 0| 
-| 20220708T03:53:53Z | That is a .NET API that simulate a saturation oxygen sensor. By backdoor commands it is possible change the direction of the change of saturation oxygen values once that a thread constantelly is changing the mentioned value. | https://github.com/ckrique/ApiSensor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
