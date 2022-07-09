@@ -29,14 +29,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220708T12:50:24Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
-| 20220708T12:28:22Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
-| 20220708T12:26:00Z | CVE-2022-26134 | confluence rce | https://github.com/coskper-papa/CVE-2022-26134 | | 
+| 20220708T22:46:29Z | CVE-2022-34265 | Null | https://github.com/aeyesec/CVE-2022-34265 | | 
+| 20220708T20:04:30Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
+| 20220708T16:49:41Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
+| 20220708T16:27:07Z | CVE-2022-26134 | confluence rce | https://github.com/coskper-papa/CVE-2022-26134 | | 
 | 20220708T12:22:00Z | CVE-2022-26134 | Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE) | https://github.com/nxtexploit/CVE-2022-26134 | | 
 | 20220708T11:20:00Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/AZMagic/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220708T11:20:00Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220708T11:20:00Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/AZMagic/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20220708T09:57:52Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
 | 20220708T08:31:59Z | CVE-2022-31854 | CodoForum v5.1 - File Upload Bypass to RCE (Authenticated) exploit code | https://github.com/Vikaran101/CVE-2022-31854 | | 
 | 20220708T06:00:51Z | CVE-2022-34963 | OpenTeknik LLC OSSN OPEN SOURCE SOCIAL NETWORK v6.3 LTS was discovered to contain a stored cross-site scripting (XSS) vulnerability via the News Feed module. | https://github.com/bypazs/CVE-2022-34963 | | 
 
@@ -44,6 +44,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220708T23:57:40Z | Null | https://github.com/theblackpanther00/JayKleezie-Website | 0 | 0| 
 | 20220708T10:35:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2006 | 571| 
 | 20220708T07:50:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7130 | 250| 
 
@@ -51,22 +52,23 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220708T17:34:56Z | Null | https://github.com/s2eung1/s2eung1 | 0 | 0| 
 | 20220708T07:00:37Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 19 | 3| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220708T23:54:44Z | Null | https://github.com/PyroScriptss/exploits | 0 | 0| 
+| 20220708T21:27:48Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 990 | 87| 
+| 20220708T20:42:49Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
+| 20220708T20:29:50Z | PS4 6.72 Exploits | https://github.com/VGSSL/vgssl.github.io | 0 | 0| 
+| 20220708T19:33:07Z | Null | https://github.com/AnonGreyHat/DarkExploit- | 1 | 0| 
+| 20220708T18:59:30Z | [WIP] PoCs zoo for the Grandstream device. | https://github.com/iveresk/grandstream_exploit_zoo | 0 | 0| 
+| 20220708T18:32:02Z | Null | https://github.com/steamsg02/Exploit_Reports | 0 | 0| 
+| 20220708T18:17:40Z | Exploited a File Upload flaw to perform an RCE and used Metasploit to execute a privilege escalation. | https://github.com/Meowmycks/Boot2RootCTF_OSCP-Cute | 0 | 0| 
 | 20220708T12:52:08Z | A Roblox Exploit By TTommy. | https://github.com/TTommyGTs/Roblox-Exploit | 0 | 0| 
-| 20220708T11:53:00Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 988 | 87| 
 | 20220708T11:46:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3318 | 533| 
-| 20220708T11:27:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 450 | 127| 
-| 20220708T11:11:29Z | # Relay-Attack-Unit-for-cars-with-keyless-systems Many new cars now have keyless entry systems, or can have them added as an upgrade. This allows the driver to open and start the car without using a button or turning a key so long as the fob is nearby.  Thieves are exploiting this, using relay attack technology to hack into every car with keyless%s computer, meaning they don’t even need a key-fob to start the vehicle and can drive it away in a matter of seconds.A relay attack usually involves two people working together. One stands by the targeted vehicle, while the other stands near the house with a device that can pick up a signal from the key fob.The device then relays the key fob’s signal directly to the car, allowing the thieves to get in and drive away immediately. The price of 1 unit is 1,000 euros. Here%s a video of how it works : https://www.youtube.com/watch?v=dAaG7Rs5zKw | https://github.com/nonamee71/Relay-attack-for-keyless-cars | 0 | 0| 
-| 20220708T10:00:13Z | Roblox Hub for my exploit idk | https://github.com/timof121/roblox-hub | 0 | 0| 
-| 20220708T09:31:30Z | Exploited Keyless krnl WORKS! | https://github.com/Lazzexaa/KRNL_KEYLESS | 0 | 0| 
-| 20220708T09:12:31Z | Make a Voice Encryptor and decryptor in GUI, that should encrypt the signal voice exploiting signal properties like time flipping, shifting, scaling etc. and that should be reversible so that original voice can be recovered later. (you can take image or voice as input, image as input first convert it to 1D) | https://github.com/anfama15/SNS_CEA | 0 | 0| 
-| 20220708T07:45:17Z | [WIP] PoCs zoo for the Grandstream device. | https://github.com/iveresk/grandstream_exploit_zoo | 0 | 0| 
-| 20220708T07:02:34Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3129 | 382| 
 
 
 # backdoor on Github 推荐
@@ -95,12 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220708T23:26:53Z | Fuzzy searching strings in typescript | https://github.com/JGynther/fuzzy | 0 | 0| 
+| 20220708T20:51:54Z | Null | https://github.com/MizzouINDFUL/DeepFuzzyFusion | 0 | 0| 
+| 20220708T19:18:17Z | A WASM version for fuzzy extractor | https://github.com/ian7yang/FuzzyExtractor | 0 | 0| 
+| 20220708T19:04:03Z | Sex work worker | https://github.com/Slammed69/fuzzy-octo-chainsaw | 0 | 0| 
+| 20220708T18:34:52Z | echidna + forge fuzzing container env | https://github.com/sambacha/echidna-forge-container | 4 | 0| 
+| 20220708T15:38:32Z | CrackQL is a GraphQL password brute-force and fuzzing utility. | https://github.com/nicholasaleks/CrackQL | 35 | 1| 
 | 20220708T12:43:18Z | Repositório com algorítimo de logica Fuzzy desenvolvido em Python simples | https://github.com/PedroHenry-Santos/Logica_Fuzzy | 0 | 0| 
 | 20220708T11:44:17Z | StarkNet smart contract fuzzer | https://github.com/crytic/tayt | 3 | 0| 
 | 20220708T10:36:11Z | Fuzzy logic implemented in pytorch | https://github.com/VanessB/FuzzyTorch | 0 | 0| 
 | 20220708T10:21:06Z | Null | https://github.com/icipe-official/fuzzy-based-modelling-approach-to-predict-the-spatio-temporal-performance | 0 | 0| 
-| 20220708T10:15:58Z | Null | https://github.com/te70/fuzzy-octo-potato | 0 | 0| 
-| 20220708T06:55:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7568 | 1625| 
 
 
 
