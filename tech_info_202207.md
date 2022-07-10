@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220710T01:40:58Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.2 | 0 | 0| 
 | 20220710T01:40:11Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.2 | 0 | 0| 
 | 20220710T01:06:28Z | Null | https://github.com/chevyjra/R-Exploit | 0 | 0| 
 | 20220709T22:23:23Z | Fastjson exploit | https://github.com/Expl0desploit/CVE-2022-25845 | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20220709T18:55:21Z | Graveyard of past Web3 exploits | https://github.com/razzor-codes/Web3-Graveyard | 0 | 0| 
 | 20220709T17:32:04Z | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | 8 | 1| 
 | 20220709T16:30:28Z | Python exploit for ConvertMyVideo room from TryHackMe | https://github.com/behiNdyk1/convertmyvideo-exploit | 0 | 0| 
-| 20220709T15:51:30Z | Codes associated with the book - %Hacking - the art of exploitation | https://github.com/Divyesh-Kanagavel/hack_art | 0 | 0| 
 
 
 # backdoor on Github 推荐
