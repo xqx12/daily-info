@@ -83,6 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220710T12:06:33Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..0.. | 0 | 0| 
+| 20220710T12:05:27Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..0.. | 0 | 0| 
 | 20220710T12:04:17Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..0.. | 0 | 0| 
 | 20220710T11:53:17Z | borpheus is a multi cyber-security tool (scanning, payload building, exploiting). | https://github.com/ASMRoyal/borpheus | 0 | 0| 
 | 20220710T11:44:14Z | A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/iam-debojyoti/port_scanner | 0 | 0| 
@@ -91,8 +93,6 @@
 | 20220710T11:23:38Z | Null | https://github.com/0x414141414/XLL-Excel-Exploit | 0 | 0| 
 | 20220710T09:22:22Z | Documentation on how to exploit android, unity games 🐱‍💻 | https://github.com/gepthecoder/game-hacking | 0 | 0| 
 | 20220710T08:56:17Z | 🦠🔬 Forta agent that detect deployment of smart contracts containing an exploit function | https://github.com/kovart/forta-attack-simulation | 0 | 0| 
-| 20220710T08:51:09Z | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | 3 | 0| 
-| 20220710T01:43:41Z | Null | https://github.com/thepedroalves/Rejetto-HFS-2.3-RCE-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
