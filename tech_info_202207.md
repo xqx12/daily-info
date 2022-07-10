@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220709T23:18:02Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
+| 20220710T00:13:58Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220709T22:23:23Z | CVE-2022-25845 | Fastjson exploit | https://github.com/Expl0desploit/CVE-2022-25845 | | 
 | 20220709T20:47:57Z | CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/RafaelOrtizRC/CVE-2022-23222 | | 
 | 20220709T20:12:15Z | CVE-2022-30006 | [Reserved for CVE-2022-30006] | https://github.com/ComparedArray/printix-CVE-2022-30006 | | 
