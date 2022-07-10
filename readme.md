@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220710T12:04:17Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..0.. | 0 | 0| 
 | 20220710T11:53:17Z | borpheus is a multi cyber-security tool (scanning, payload building, exploiting). | https://github.com/ASMRoyal/borpheus | 0 | 0| 
 | 20220710T11:44:14Z | A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/iam-debojyoti/port_scanner | 0 | 0| 
 | 20220710T11:27:54Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 409 | 31| 
@@ -47,7 +48,6 @@
 | 20220710T08:56:17Z | 🦠🔬 Forta agent that detect deployment of smart contracts containing an exploit function | https://github.com/kovart/forta-attack-simulation | 0 | 0| 
 | 20220710T08:51:09Z | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | 3 | 0| 
 | 20220710T01:43:41Z | Null | https://github.com/thepedroalves/Rejetto-HFS-2.3-RCE-Exploit | 0 | 0| 
-| 20220710T01:42:05Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
