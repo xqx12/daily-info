@@ -67,7 +67,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220709T03:17:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2979 | 421| 
+| 20220709T15:24:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2980 | 422| 
+| 20220709T13:49:16Z | Symbolic Execution Playground, Z3 mostly | https://github.com/rojaster/symex | 0 | 0| 
 | 20220709T02:30:17Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 700 | 76| 
 
 
