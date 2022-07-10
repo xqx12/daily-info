@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220710T01:04:32Z | Null | https://github.com/chevyjra/R-Exploit | 0 | 0| 
+| 20220710T01:06:28Z | Null | https://github.com/chevyjra/R-Exploit | 0 | 0| 
 | 20220709T22:23:23Z | Fastjson exploit | https://github.com/Expl0desploit/CVE-2022-25845 | 1 | 0| 
 | 20220709T20:50:00Z | An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments. | https://github.com/aress31/raadef | 0 | 0| 
 | 20220709T20:13:20Z | A %Mishandling of Input to API% or %Exposed Dangerous Method or Function% vulnerability in PrintixService.exe, in Kofax Printix%s %Printix Secure Cloud Print Management%, Version 1.3.1156.0 and below allows a Local Or Remote attacker the ability to attack any enterprise installation running in KioskMode by exploiting the local PrintixProxy class to invoke an error with localhost/e/?error=INVALID_CREDENTIAL&errorMessage={kioskModeValue}. When an attacker combines this with CVE-2022-29552, the attacker may change the ProgramDir registry value to invoke any program named unis000.exe. | https://github.com/ComparedArray/printix-CVE-2022-29554 | 1 | 0| 
