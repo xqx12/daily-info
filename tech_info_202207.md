@@ -83,6 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220710T01:43:41Z | Null | https://github.com/thepedroalves/Rejetto-HFS-2.3-RCE-Exploit | 0 | 0| 
+| 20220710T01:42:05Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.2 | 0 | 0| 
 | 20220710T01:40:58Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.2 | 0 | 0| 
 | 20220710T01:40:11Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.2 | 0 | 0| 
 | 20220710T01:06:28Z | Null | https://github.com/chevyjra/R-Exploit | 0 | 0| 
@@ -91,8 +93,6 @@
 | 20220709T20:13:20Z | A %Mishandling of Input to API% or %Exposed Dangerous Method or Function% vulnerability in PrintixService.exe, in Kofax Printix%s %Printix Secure Cloud Print Management%, Version 1.3.1156.0 and below allows a Local Or Remote attacker the ability to attack any enterprise installation running in KioskMode by exploiting the local PrintixProxy class to invoke an error with localhost/e/?error=INVALID_CREDENTIAL&errorMessage={kioskModeValue}. When an attacker combines this with CVE-2022-29552, the attacker may change the ProgramDir registry value to invoke any program named unis000.exe. | https://github.com/ComparedArray/printix-CVE-2022-29554 | 1 | 0| 
 | 20220709T19:14:42Z | Exploit Page For Ps4 9.00 | https://github.com/mrdogeYt/mrdogeYt.github.io | 0 | 0| 
 | 20220709T18:55:21Z | Graveyard of past Web3 exploits | https://github.com/razzor-codes/Web3-Graveyard | 0 | 0| 
-| 20220709T17:32:04Z | A Paper fork that aim for the Performance and Exploits Fixing | https://github.com/hungnguyennaz/NeonPaper | 8 | 1| 
-| 20220709T16:30:28Z | Python exploit for ConvertMyVideo room from TryHackMe | https://github.com/behiNdyk1/convertmyvideo-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
