@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220710T00:15:26Z | Null | https://github.com/hito-kotaro/fuzzy-parakeet | 0 | 0| 
 | 20220709T22:38:58Z | Null | https://github.com/emmonks/FuzzyNetClass | 0 | 0| 
 | 20220709T21:40:41Z | Beginner cheat sheet for the Arch Linux terminal | https://github.com/cloucs/fuzzy-memory | 0 | 0| 
 | 20220709T21:35:28Z | Fuzz testing for jest | https://github.com/jeffersonmourak/jest-fuzz | 23 | 3| 
@@ -141,7 +142,6 @@
 | 20220709T15:35:44Z | 高精准指纹识别、15532+漏洞扫描、fuzz，打点、bugbounty神器，集成vscan、subfinder（子域名爆破）、naabu(集成nmap，端口扫描、服务识别)、httpx(web扫描)、nuclei(漏洞扫描)、kscan 11种弱口令检测... | https://github.com/hktalent/scan4all | 173 | 30| 
 | 20220709T15:26:22Z | Null | https://github.com/mayank4322/fuzzy-carnival | 0 | 0| 
 | 20220709T13:20:25Z | Null | https://github.com/martinmladenov/fuzzer | 0 | 0| 
-| 20220709T12:49:56Z | Corpus for fuzzing Egress Eddie | https://github.com/capnspacehook/egress-eddie-corpus | 0 | 0| 
 
 
 
