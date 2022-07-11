@@ -83,6 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220711T12:15:30Z | Null | https://github.com/vivienhaese/fuzzy-enigma | 0 | 0| 
+| 20220711T12:14:30Z | Null | https://github.com/ruslanbyku/AutoFuzz | 0 | 0| 
 | 20220711T11:23:09Z | Null | https://github.com/nyonkeu/FuzzyDiagnosis | 0 | 0| 
 | 20220711T11:22:57Z | Null | https://github.com/nkmungila/fuzzbuzz | 0 | 0| 
 | 20220711T10:53:23Z | Fuzzing with the generated argument and environment variable | https://github.com/a4865g/Cheng-fuzz | 1 | 0| 
@@ -91,8 +93,6 @@
 | 20220711T08:57:47Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1472 | 187| 
 | 20220711T08:47:37Z | Null | https://github.com/Ronald-Bn/fuzzy-octo-happiness | 0 | 0| 
 | 20220711T06:57:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7577 | 1625| 
-| 20220711T01:29:35Z | SQL Fuzz Testing Utilities | https://github.com/andygrove/sqlfuzz | 7 | 2| 
-| 20220711T01:23:17Z | 高精准指纹识别、15532+漏洞扫描、fuzz，打点、bugbounty神器，集成vscan、subfinder（子域名爆破）、naabu(集成nmap，端口扫描、服务识别)、httpx(web扫描)、nuclei(漏洞扫描)、kscan 11种弱口令检测... | https://github.com/hktalent/scan4all | 178 | 31| 
 
 
 
