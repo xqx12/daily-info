@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220711T01:40:13Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220711T00:55:19Z | CVE-2022-33980 | Null | https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
-| 20220710T18:28:29Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220710T17:08:06Z | CVE-2021-25094 | Tatsu Plugin ZIP File add_custom_font unrestricted upload | https://github.com/xdx57/CVE-2021-25094 | | 
 | 20220710T15:13:33Z | CVE-2021-31805 | S2-061/S2-062 Struts2 远程命令执行漏洞 POC&EXP | https://github.com/z92g/CVE-2021-31805 | | 
 | 20220710T13:55:44Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220711T01:07:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7139 | 250| 
+| 20220711T01:07:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7139 | 251| 
 | 20220710T06:45:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2007 | 570| 
 | 20220709T09:31:50Z | Null | https://github.com/KhoaLee/KleeVSCodeSettings | 0 | 0| 
 | 20220709T00:04:24Z | Null | https://github.com/theblackpanther00/JayKleezie-Website | 0 | 0| 
