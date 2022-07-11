@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220710T18:29:14Z | CVE-2022-33980 | Null | https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
+| 20220710T18:28:29Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
+| 20220710T17:08:06Z | CVE-2021-25094 | Tatsu Plugin ZIP File add_custom_font unrestricted upload | https://github.com/xdx57/CVE-2021-25094 | | 
+| 20220710T15:13:33Z | CVE-2021-31805 | S2-061/S2-062 Struts2 远程命令执行漏洞 POC&EXP | https://github.com/z92g/CVE-2021-31805 | | 
+| 20220710T13:55:44Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220710T12:44:14Z | CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request. | https://github.com/Exploitables/CVE-2021-27965 | | 
-| 20220710T11:14:11Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
-| 20220710T10:39:07Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220710T08:51:09Z | CVE-2021-3156 | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | | 
 | 20220710T08:45:53Z | CVE-2022-25845 | Fastjson exploit | https://github.com/Expl0desploit/CVE-2022-25845 | | 
 | 20220709T20:47:57Z | CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/RafaelOrtizRC/CVE-2022-23222 | | 
 | 20220709T20:12:15Z | CVE-2022-30006 | [Reserved for CVE-2022-30006] | https://github.com/ComparedArray/printix-CVE-2022-30006 | | 
-| 20220709T13:27:09Z | CVE-2020-25213 | Null | https://github.com/b1ackros337/CVE-2020-25213 | | 
-| 20220709T05:35:11Z | CVE-2022- | Null | https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E | | 
-| 20220708T20:04:30Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC | https://github.com/z92g/CVE-2022-0543 | | 
 
 
 # klee on Github 推荐
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220710T21:51:59Z | Null | https://github.com/cryptomaniac1xx/Pancakeswap-Flashloan-Exploit | 1 | 0| 
+| 20220710T21:40:58Z | YBA Exploit using xHeptc%s UI. This is my first attempt, so sorry for any inconveniences. | https://github.com/NARWHALZ04/YBA | 0 | 0| 
+| 20220710T20:17:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11701 | 2019| 
+| 20220710T19:23:57Z | Null | https://github.com/0xStyWbwDev/typehub-exploiting | 0 | 0| 
+| 20220710T18:52:24Z | Borpheus Is A Multi Cyber-Security Tool (Scanning, Payload Building, Exploiting). | https://github.com/ASMRoyal/borpheus | 0 | 0| 
+| 20220710T17:18:20Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 160 | 32| 
+| 20220710T13:28:26Z | Exploite TypeHUB | https://github.com/AdliXSec/TypeHUB | 1 | 0| 
 | 20220710T12:37:37Z | List SQL Vulnerable auto Mass + Exploit | https://github.com/dan4xploit/VulnerableSQL | 1 | 0| 
 | 20220710T12:28:44Z | A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/iam-debojyoti/port_scanner | 0 | 0| 
 | 20220710T12:06:33Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..0.. | 0 | 0| 
-| 20220710T12:05:27Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..0.. | 0 | 0| 
-| 20220710T12:04:17Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN..0.. | 0 | 0| 
-| 20220710T11:53:17Z | borpheus is a multi cyber-security tool (scanning, payload building, exploiting). | https://github.com/ASMRoyal/borpheus | 0 | 0| 
-| 20220710T11:27:54Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 409 | 31| 
-| 20220710T11:26:10Z | Null | https://github.com/0x414141414/PDF-EXPLOIT-FULLY-SILENT-PRIVATE | 0 | 0| 
-| 20220710T11:23:38Z | Null | https://github.com/0x414141414/XLL-Excel-Exploit | 0 | 0| 
-| 20220710T09:22:22Z | Documentation on how to exploit android, unity games 🐱‍💻 | https://github.com/gepthecoder/game-hacking | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220710T21:30:48Z | KIZAGAN is a python computer backdoor and it can take camera pictures,screenshot,getting microphone sounds... etc. | https://github.com/st4inl3s5/kizagan | 11 | 0| 
+| 20220710T16:16:31Z | Null | https://github.com/xXxCLOTIxXx/BackDoor-Telegram | 0 | 0| 
+| 20220710T13:54:08Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 16 | 5| 
 | 20220710T10:36:54Z | Null | https://github.com/merlinepedra25/shell-backdoor-list | 1 | 0| 
 | 20220710T08:35:24Z | Creating a malware backdoor using reverse engineering by making python codes. | https://github.com/FreakyCoder0/Reverse-engennering-a-malware-backdoor | 0 | 0| 
 | 20220710T05:47:21Z | this is for the ACM MM paper---Backdoor Attack on Crowd Counting | https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting | 0 | 0| 
 | 20220710T03:36:28Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 61 | 13| 
 | 20220710T02:41:12Z | Null | https://github.com/THUYimingLi/BackdoorBox | 79 | 20| 
-| 20220709T23:17:59Z | KIZAGAN is a python computer backdoor and it can take camera pictures,screenshot,getting microphone sounds... etc. | https://github.com/st4inl3s5/kizagan | 8 | 0| 
 | 20220709T15:58:49Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1661 | 739| 
 | 20220709T06:46:18Z | List Shell Gua | https://github.com/yon3zu/myshell-list | 1 | 0| 
-| 20220709T05:12:40Z | Null | https://github.com/MadExploits/Backdoor | 0 | 0| 
-| 20220709T00:25:10Z | Null | https://github.com/merlinepedra/shell-backdoor-list | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -132,16 +132,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220710T23:50:36Z | SQL Fuzz Testing Utilities | https://github.com/andygrove/sqlfuzz | 5 | 0| 
+| 20220710T17:23:17Z | Null | https://github.com/IshaanKarnik/fuzzy_logic_mppt_simulink | 0 | 0| 
+| 20220710T14:17:32Z | Null | https://github.com/Iqracat12/fuzzy-octo-umbrella | 0 | 0| 
+| 20220710T14:03:30Z | Null | https://github.com/BiswajeetRay7/My-Fuzzing | 0 | 1| 
+| 20220710T13:10:11Z | Null | https://github.com/kelvinzs/fuzzy-disco | 0 | 0| 
 | 20220710T12:32:25Z | Null | https://github.com/nicholasob7/fuzz-nut-chart | 0 | 0| 
 | 20220710T11:20:23Z | Применение нечеткой логики для оценки вероятности выдачи кредитной карты  | https://github.com/denis3079/Fuzzy_Logic | 0 | 0| 
 | 20220710T10:09:49Z | Implementation of a simple heart disease diagnosis system using fuzzy expert system | https://github.com/maedemir/Fuzzy-Expert-System-for-Heart-Disease-Diagnosis | 0 | 0| 
 | 20220710T09:52:32Z | 高精准指纹识别、15532+漏洞扫描、fuzz，打点、bugbounty神器，集成vscan、subfinder（子域名爆破）、naabu(集成nmap，端口扫描、服务识别)、httpx(web扫描)、nuclei(漏洞扫描)、kscan 11种弱口令检测... | https://github.com/hktalent/scan4all | 175 | 30| 
 | 20220710T08:51:09Z | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | 3 | 0| 
-| 20220710T05:29:50Z | Null | https://github.com/Bankyt48/fuzzy-waffle | 0 | 0| 
-| 20220710T01:35:12Z | Null | https://github.com/pheen/fuzzy_ruby_vscode_client | 0 | 0| 
-| 20220710T01:33:40Z | Null | https://github.com/pheen/fuzzy_ruby_server | 0 | 0| 
-| 20220710T00:15:26Z | Null | https://github.com/hito-kotaro/fuzzy-parakeet | 0 | 0| 
-| 20220709T22:38:58Z | Null | https://github.com/emmonks/FuzzyNetClass | 0 | 0| 
 
 
 
