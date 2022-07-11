@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220711T12:22:16Z | Null | https://github.com/ravana69/fuzzy-vhs-dream-clouds-pixi | 0 | 0| 
 | 20220711T12:15:30Z | Null | https://github.com/vivienhaese/fuzzy-enigma | 0 | 0| 
 | 20220711T12:14:30Z | Null | https://github.com/ruslanbyku/AutoFuzz | 0 | 0| 
 | 20220711T11:23:09Z | Null | https://github.com/nyonkeu/FuzzyDiagnosis | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220711T09:12:16Z | Tutorial practice for CRUD operation based in node & mongodb. | https://github.com/harry-sketch/fuzzy-guacamole-CRUD-with-node-mongodb | 0 | 0| 
 | 20220711T08:57:47Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1472 | 187| 
 | 20220711T08:47:37Z | Null | https://github.com/Ronald-Bn/fuzzy-octo-happiness | 0 | 0| 
-| 20220711T06:57:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7577 | 1625| 
 
 
 
