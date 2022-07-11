@@ -83,6 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220711T01:32:24Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1 | 0 | 0| 
+| 20220711T01:31:37Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.1 | 0 | 0| 
 | 20220711T00:55:35Z | Null | https://github.com/0xStyWbwDev/typehub-exploiting | 1 | 0| 
 | 20220711T00:23:41Z | Crappy fake enviorment for testing. NOT FOR ROBLOX.  | https://github.com/RobloxArchiver/exploitenviorment | 0 | 0| 
 | 20220710T21:51:59Z | Null | https://github.com/cryptomaniac1xx/Pancakeswap-Flashloan-Exploit | 1 | 0| 
@@ -91,8 +93,6 @@
 | 20220710T18:52:24Z | Borpheus Is A Multi Cyber-Security Tool (Scanning, Payload Building, Exploiting). | https://github.com/ASMRoyal/borpheus | 0 | 0| 
 | 20220710T17:18:20Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 160 | 32| 
 | 20220710T15:50:03Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 155 | 77| 
-| 20220710T13:51:46Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 24 | 9| 
-| 20220710T13:28:26Z | Exploite TypeHUB | https://github.com/AdliXSec/TypeHUB | 1 | 0| 
 
 
 # backdoor on Github 推荐
