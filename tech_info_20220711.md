@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220711T12:06:41Z | The Wordpress RCE Exploit written by K.I.M | https://github.com/kimteawan2411/2019-8942-rce | 0 | 0| 
 | 20220711T11:16:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3368 | 538| 
 | 20220711T10:46:43Z | TypeHUB Exploiter | https://github.com/AdliXSec/TypeHUB | 1 | 0| 
 | 20220711T10:15:27Z | Remote Administrator Tool [ RAT For Android ] No Port Forwarding | https://github.com/TeamDarkAnon/xhunter | 2 | 0| 
@@ -57,7 +58,6 @@
 | 20220711T09:19:34Z | My notes on exploiting musl-libc%s new heap allocator | https://github.com/DanielWood/mallocng-exploitation | 0 | 0| 
 | 20220711T08:58:17Z | Tracks the executor and username of anyone who executes this to a discord webhook, Can be very usefull | https://github.com/Samhith89492/exploit-detector | 0 | 0| 
 | 20220711T08:36:16Z | Null | https://github.com/kutumin/exploits | 0 | 0| 
-| 20220711T07:49:41Z | Null | https://github.com/l1k3beef/JmxExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
