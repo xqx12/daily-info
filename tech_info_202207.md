@@ -50,12 +50,12 @@
 | 20220711T12:08:16Z | CVE-2022-34265 | PoC verification of Django vulnerability (CVE-2022-34265) | https://github.com/NopFault/CVE-2022-34265 | | 
 | 20220711T06:59:21Z | CVE-2022-31138 | Mailcow CVE-2022-31138 | https://github.com/ly1g3/Mailcow-CVE-2022-31138 | | 
 | 20220711T01:59:15Z | CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/RafaelOrtizRC/CVE-2022-23222 | | 
+| 20220711T01:59:15Z | CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/FridayOrtiz/CVE-2022-23222 | | 
 | 20220711T01:40:17Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220711T00:55:19Z | CVE-2022-33980 | Null | https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220710T17:08:06Z | CVE-2021-25094 | Tatsu Plugin ZIP File add_custom_font unrestricted upload | https://github.com/xdx57/CVE-2021-25094 | | 
 | 20220710T15:13:33Z | CVE-2021-31805 | S2-061/S2-062 Struts2 远程命令执行漏洞 POC&EXP | https://github.com/z92g/CVE-2021-31805 | | 
 | 20220710T12:44:14Z | CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request. | https://github.com/Exploitables/CVE-2021-27965 | | 
-| 20220710T08:51:09Z | CVE-2021-3156 | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
