@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220711 | 攻击者如何复用合法软件的 VPN、代理、本地隧道，以及防御者的检测方案 | https://www.mandiant.com/resources/burrowing-your-way-into-vpns| 
+| 20220711 | 用 Ghidra 分析工具逆向 Qt/C++ 编写的应用 | http://ktln2.org/reversing-c%2B%2B-qt-applications-using-ghidra/| 
+| 20220711 | 可以强制 Windows 通过 RPC 认证攻击者控制的机器的一些协议和方法 | https://github.com/p0dalirius/windows-coerced-authentication-methods| 
+| 20220711 | KubeEye - 为 Kubernetes 设计的巡检工具，用于发现 Kubernetes 资源（使用 OPA ）、集群组件、集群节点（使用Node-Problem-Detector）等配置是否符合最佳实践 | https://github.com/kubesphere/kubeeye| 
+| 20220711 | 飛斯妥工控产品 CECC-X-M1 被发现多个命令注入漏洞 | http://onekey.com/blog/advisory-festo-cecc-x-m1-command-injection-vulnerabilities/| 
+| 20220711 | 利用暴露的 Prometheus 监控系统访问 Kubernetes cluster | https://sysdig.com/blog/exposed-prometheus-exploit-kubernetes-kubeconeu/| 
+| 20220711 | Inside JavaScript Engines 系列文章之代码生成与优化 | https://medium.com/@yanguly/inside-javascript-engines-part-2-code-generation-and-basic-optimizations-952bed02db62| 
+| 20220711 | CVE-2022-26377: Apache HTTPd AJP Request Smuggling | http://noahblog.360.cn/apache-httpd-ajp-request-smuggling/| 
+| 20220711 | Windows 配置管理服务 SCCM 服务背后的实现机制 | http://blog.xpnsec.com/unobfuscating-network-access-accounts/| 
 | 20220708 | 整合 Ghidra 的反编译功能和 Semgrep 的代码扫描能力，实现二进制漏洞的自动化挖掘 | https://security.humanativaspa.it/automating-binary-vulnerability-discovery-with-ghidra-and-semgrep/| 
 | 20220708 | 本田汽车的无钥匙进入系统被发现 “Rolling Pwn Attack”，滚动码机制存在缺陷，可以远程控制车辆 | https://rollingpwn.github.io/rolling-pwn/| 
 | 20220708 | Google CTF 2022 Sandbox Escape 题的 writeup | https://n132.github.io/2022/07/04/S2.html| 
@@ -17,15 +26,6 @@
 | 20220707 | 利用污点分析技术在 .NET 汇编层面检测漏洞 | https://github.com/mandiant/route-sixty-sink| 
 | 20220707 | Fuzz Windows 的 HEIF 图片处理库 | https://www.mandiant.com/resources/fuzzing-image-parsing-windows-part-four| 
 | 20220707 | Apple 计划秋季在 iOS、iPadOS、macOS 推出 Lockdown 模式，开启后极大收紧攻击面，对抗 APT 恶意攻击 | https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/| 
-| 20220707 | 基于 lief 实现的代码混淆工具 | http://www.romainthomas.fr/publication/22-pst-the-poor-mans-obfuscator/| 
-| 20220707 | 基于 RPC 和 DCOM 的渗透测试横向渗透 | https://github.com/RiccardoAncarani/talks/blob/master/F-Secure/unorthodox-lateral-movement.pdf| 
-| 20220707 | Account hijacking using dirty dancing in sign-in OAuth-flows | https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/| 
-| 20220707 | pamspy - 利用 eBPF 技术 dump Linux 认证凭据 | https://github.com/citronneur/pamspy| 
-| 20220707 | IoT 设备固件组件的动态分析方案 | https://securelist.com/dynamic-analysis-of-firmware-components-in-iot-devices/106901/| 
-| 20220707 | 2022虎符_vdq(rust_cve)详解 | https://tttang.com/archive/1585/| 
-| 20220706 | 一款开源的 24 通道软硬件逻辑分析仪 | https://github.com/gusmanb/logicanalyzer| 
-| 20220706 | GOAD - Active Directory 渗透测试实验环境 | https://github.com/Orange-Cyberdefense/GOAD| 
-| 20220706 | WarCon 2022 – Modern Initial Access and Evasion Tactics | http://mgeeky.tech/warcon-2022-modern-initial-access-and-evasion-tactics/| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220711T11:59:55Z | CVE-2022-34265 | oC verification of Django vulnerability (CVE-2022-34265) | https://github.com/NopFault/CVE-2022-34265 | | 
+| 20220711T06:59:21Z | CVE-2022-31138 | Mailcow CVE-2022-31138 | https://github.com/ly1g3/Mailcow-CVE-2022-31138 | | 
+| 20220711T03:48:04Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
+| 20220711T01:59:15Z | CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/RafaelOrtizRC/CVE-2022-23222 | | 
 | 20220711T01:40:17Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220711T00:55:19Z | CVE-2022-33980 | Null | https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220710T17:08:06Z | CVE-2021-25094 | Tatsu Plugin ZIP File add_custom_font unrestricted upload | https://github.com/xdx57/CVE-2021-25094 | | 
 | 20220710T15:13:33Z | CVE-2021-31805 | S2-061/S2-062 Struts2 远程命令执行漏洞 POC&EXP | https://github.com/z92g/CVE-2021-31805 | | 
-| 20220710T13:55:44Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220710T12:44:14Z | CVE-2021-27965 | The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request. | https://github.com/Exploitables/CVE-2021-27965 | | 
 | 20220710T08:51:09Z | CVE-2021-3156 | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | | 
-| 20220710T08:45:53Z | CVE-2022-25845 | Fastjson exploit | https://github.com/Expl0desploit/CVE-2022-25845 | | 
-| 20220709T20:47:57Z | CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/RafaelOrtizRC/CVE-2022-23222 | | 
-| 20220709T20:12:15Z | CVE-2022-30006 | [Reserved for CVE-2022-30006] | https://github.com/ComparedArray/printix-CVE-2022-30006 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220711T01:07:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7139 | 251| 
-| 20220710T06:45:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2007 | 570| 
+| 20220711T11:29:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2008 | 570| 
+| 20220711T10:49:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7145 | 251| 
 | 20220709T09:31:50Z | Null | https://github.com/KhoaLee/KleeVSCodeSettings | 0 | 0| 
 | 20220709T00:04:24Z | Null | https://github.com/theblackpanther00/JayKleezie-Website | 0 | 0| 
 | 20220707T15:05:17Z | Null | https://github.com/kleelab/kleelab.github.io | 1 | 0| 
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220711T01:45:22Z | Crappy fake enviorment for testing. NOT FOR ROBLOX.  | https://github.com/RobloxArchiver/exploitenviorment | 1 | 0| 
-| 20220711T01:33:23Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.1 | 0 | 0| 
-| 20220711T01:32:24Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1 | 0 | 0| 
-| 20220711T01:31:37Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.1 | 0 | 0| 
-| 20220711T00:55:35Z | Null | https://github.com/0xStyWbwDev/typehub-exploiting | 1 | 0| 
-| 20220710T21:51:59Z | Null | https://github.com/cryptomaniac1xx/Pancakeswap-Flashloan-Exploit | 1 | 0| 
-| 20220710T21:40:58Z | YBA Exploit using xHeptc%s UI. This is my first attempt, so sorry for any inconveniences. | https://github.com/NARWHALZ04/YBA | 0 | 0| 
-| 20220710T20:17:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11701 | 2019| 
-| 20220710T18:52:24Z | Borpheus Is A Multi Cyber-Security Tool (Scanning, Payload Building, Exploiting). | https://github.com/ASMRoyal/borpheus | 0 | 0| 
-| 20220710T17:18:20Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 160 | 32| 
+| 20220711T11:16:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3368 | 538| 
+| 20220711T10:46:43Z | TypeHUB Exploiter | https://github.com/AdliXSec/TypeHUB | 1 | 0| 
+| 20220711T10:15:27Z | Remote Administrator Tool [ RAT For Android ] No Port Forwarding | https://github.com/TeamDarkAnon/xhunter | 2 | 0| 
+| 20220711T09:58:02Z | ShellShock exploit | https://github.com/mPenTests/ShellShocker | 0 | 0| 
+| 20220711T09:33:35Z | Null | https://github.com/n1ght-k1ng/Binary-Exploitation | 0 | 0| 
+| 20220711T09:22:09Z | The Shinigami Exploit Kit | https://github.com/insurrection-act/the-sek | 0 | 0| 
+| 20220711T09:19:34Z | My notes on exploiting musl-libc%s new heap allocator | https://github.com/DanielWood/mallocng-exploitation | 0 | 0| 
+| 20220711T08:58:17Z | Tracks the executor and username of anyone who executes this to a discord webhook, Can be very usefull | https://github.com/Samhith89492/exploit-detector | 0 | 0| 
+| 20220711T08:36:16Z | Null | https://github.com/kutumin/exploits | 0 | 0| 
+| 20220711T07:49:41Z | Null | https://github.com/l1k3beef/JmxExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220711T06:32:12Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 518 | 100| 
+| 20220711T06:05:44Z | Null | https://github.com/THUYimingLi/BackdoorBox | 80 | 20| 
 | 20220711T00:25:24Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 44 | 15| 
 | 20220710T21:30:48Z | KIZAGAN is a python computer backdoor and it can take camera pictures,screenshot,getting microphone sounds... etc. | https://github.com/st4inl3s5/kizagan | 11 | 0| 
 | 20220710T16:16:31Z | Null | https://github.com/xXxCLOTIxXx/BackDoor-Telegram | 0 | 0| 
-| 20220710T13:54:08Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 16 | 5| 
+| 20220710T13:54:08Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 16 | 6| 
 | 20220710T10:36:54Z | Null | https://github.com/merlinepedra25/shell-backdoor-list | 1 | 0| 
 | 20220710T08:35:24Z | Creating a malware backdoor using reverse engineering by making python codes. | https://github.com/FreakyCoder0/Reverse-engennering-a-malware-backdoor | 0 | 0| 
 | 20220710T05:47:21Z | this is for the ACM MM paper---Backdoor Attack on Crowd Counting | https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting | 0 | 0| 
-| 20220710T03:36:28Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 61 | 13| 
-| 20220710T02:41:12Z | Null | https://github.com/THUYimingLi/BackdoorBox | 79 | 20| 
-| 20220709T15:58:49Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1661 | 739| 
+| 20220710T03:36:28Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 61 | 14| 
 
 
 # symbolic execution on Github 推荐
@@ -132,16 +132,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220711T11:23:09Z | Null | https://github.com/nyonkeu/FuzzyDiagnosis | 0 | 0| 
+| 20220711T11:22:57Z | Null | https://github.com/nkmungila/fuzzbuzz | 0 | 0| 
+| 20220711T10:53:23Z | Fuzzing with the generated argument and environment variable | https://github.com/a4865g/Cheng-fuzz | 1 | 0| 
+| 20220711T10:32:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4227 | 1006| 
+| 20220711T09:12:16Z | Tutorial practice for CRUD operation based in node & mongodb. | https://github.com/harry-sketch/fuzzy-guacamole-CRUD-with-node-mongodb | 0 | 0| 
+| 20220711T08:57:47Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 1472 | 187| 
+| 20220711T08:47:37Z | Null | https://github.com/Ronald-Bn/fuzzy-octo-happiness | 0 | 0| 
+| 20220711T06:57:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7577 | 1625| 
 | 20220711T01:29:35Z | SQL Fuzz Testing Utilities | https://github.com/andygrove/sqlfuzz | 7 | 2| 
 | 20220711T01:23:17Z | 高精准指纹识别、15532+漏洞扫描、fuzz，打点、bugbounty神器，集成vscan、subfinder（子域名爆破）、naabu(集成nmap，端口扫描、服务识别)、httpx(web扫描)、nuclei(漏洞扫描)、kscan 11种弱口令检测... | https://github.com/hktalent/scan4all | 178 | 31| 
-| 20220711T01:02:21Z | Easy to use and understand. Written in Python.  | https://github.com/owardlaw/URL_Fuzzer_Pentesting | 0 | 0| 
-| 20220711T00:38:40Z | Null | https://github.com/Donda0618/fuzzy-barn | 0 | 0| 
-| 20220710T17:23:17Z | Null | https://github.com/IshaanKarnik/fuzzy_logic_mppt_simulink | 0 | 0| 
-| 20220710T14:17:32Z | Null | https://github.com/Iqracat12/fuzzy-octo-umbrella | 0 | 0| 
-| 20220710T14:03:30Z | Null | https://github.com/BiswajeetRay7/My-Fuzzing | 0 | 1| 
-| 20220710T13:10:11Z | Null | https://github.com/kelvinzs/fuzzy-disco | 0 | 0| 
-| 20220710T12:32:25Z | Null | https://github.com/nicholasob7/fuzz-nut-chart | 0 | 0| 
-| 20220710T11:20:23Z | Применение нечеткой логики для оценки вероятности выдачи кредитной карты  | https://github.com/denis3079/Fuzzy_Logic | 0 | 0| 
 
 
 
