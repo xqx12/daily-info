@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220710T18:29:14Z | CVE-2022-33980 | Null | https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220710T18:28:29Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220710T17:08:06Z | CVE-2021-25094 | Tatsu Plugin ZIP File add_custom_font unrestricted upload | https://github.com/xdx57/CVE-2021-25094 | | 
 | 20220710T15:13:33Z | CVE-2021-31805 | S2-061/S2-062 Struts2 远程命令执行漏洞 POC&EXP | https://github.com/z92g/CVE-2021-31805 | | 
@@ -44,13 +43,13 @@
 | 20220710T21:51:59Z | Null | https://github.com/cryptomaniac1xx/Pancakeswap-Flashloan-Exploit | 1 | 0| 
 | 20220710T21:40:58Z | YBA Exploit using xHeptc%s UI. This is my first attempt, so sorry for any inconveniences. | https://github.com/NARWHALZ04/YBA | 0 | 0| 
 | 20220710T20:17:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11701 | 2019| 
-| 20220710T19:23:57Z | Null | https://github.com/0xStyWbwDev/typehub-exploiting | 0 | 0| 
 | 20220710T18:52:24Z | Borpheus Is A Multi Cyber-Security Tool (Scanning, Payload Building, Exploiting). | https://github.com/ASMRoyal/borpheus | 0 | 0| 
 | 20220710T17:18:20Z | CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server. | https://github.com/zidansec/CloudPeler | 160 | 32| 
 | 20220710T13:28:26Z | Exploite TypeHUB | https://github.com/AdliXSec/TypeHUB | 1 | 0| 
 | 20220710T12:37:37Z | List SQL Vulnerable auto Mass + Exploit | https://github.com/dan4xploit/VulnerableSQL | 1 | 0| 
 | 20220710T12:28:44Z | A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/iam-debojyoti/port_scanner | 0 | 0| 
 | 20220710T12:06:33Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN..0.. | 0 | 0| 
+| 20220710T12:05:27Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN..0.. | 0 | 0| 
 
 
 # backdoor on Github 推荐
