@@ -25,9 +25,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220711T12:10:28Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220711T12:08:16Z | CVE-2022-34265 | PoC verification of Django vulnerability (CVE-2022-34265) | https://github.com/NopFault/CVE-2022-34265 | | 
 | 20220711T06:59:21Z | CVE-2022-31138 | Mailcow CVE-2022-31138 | https://github.com/ly1g3/Mailcow-CVE-2022-31138 | | 
-| 20220711T03:48:04Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220711T01:59:15Z | CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/RafaelOrtizRC/CVE-2022-23222 | | 
 | 20220711T01:40:17Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
 | 20220711T00:55:19Z | CVE-2022-33980 | Null | https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
