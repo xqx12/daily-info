@@ -82,13 +82,13 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220710T17:23:17Z | Null | https://github.com/IshaanKarnik/fuzzy_logic_mppt_simulink | 0 | 0| 
+| 20220710T15:40:31Z | 高精准指纹识别、15532+漏洞扫描、fuzz，打点、bugbounty神器，集成vscan、subfinder（子域名爆破）、naabu(集成nmap，端口扫描、服务识别)、httpx(web扫描)、nuclei(漏洞扫描)、kscan 11种弱口令检测... | https://github.com/hktalent/scan4all | 177 | 31| 
 | 20220710T14:17:32Z | Null | https://github.com/Iqracat12/fuzzy-octo-umbrella | 0 | 0| 
 | 20220710T14:03:30Z | Null | https://github.com/BiswajeetRay7/My-Fuzzing | 0 | 1| 
 | 20220710T13:10:11Z | Null | https://github.com/kelvinzs/fuzzy-disco | 0 | 0| 
 | 20220710T12:32:25Z | Null | https://github.com/nicholasob7/fuzz-nut-chart | 0 | 0| 
 | 20220710T11:20:23Z | Применение нечеткой логики для оценки вероятности выдачи кредитной карты  | https://github.com/denis3079/Fuzzy_Logic | 0 | 0| 
 | 20220710T10:09:49Z | Implementation of a simple heart disease diagnosis system using fuzzy expert system | https://github.com/maedemir/Fuzzy-Expert-System-for-Heart-Disease-Diagnosis | 0 | 0| 
-| 20220710T09:52:32Z | 高精准指纹识别、15532+漏洞扫描、fuzz，打点、bugbounty神器，集成vscan、subfinder（子域名爆破）、naabu(集成nmap，端口扫描、服务识别)、httpx(web扫描)、nuclei(漏洞扫描)、kscan 11种弱口令检测... | https://github.com/hktalent/scan4all | 175 | 30| 
 | 20220710T08:51:09Z | Visualization, Fuzzing, Exploit and Patch of Baron Samedit Vulnerability | https://github.com/FrancescoMarchiori/CVE-2021-3156 | 3 | 0| 
 | 20220710T05:29:50Z | Null | https://github.com/Bankyt48/fuzzy-waffle | 0 | 0| 
 
