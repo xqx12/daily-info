@@ -49,7 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220711T12:10:32Z | This tool generates gopher link for exploiting SSRF and gaining RCE in various servers | https://github.com/tarunkant/Gopherus | 1981 | 303| 
+| 20220711T12:49:17Z | This tool generates gopher link for exploiting SSRF and gaining RCE in various servers | https://github.com/tarunkant/Gopherus | 1982 | 303| 
 | 20220711T12:06:41Z | The Wordpress RCE Exploit written by K.I.M | https://github.com/kimteawan2411/2019-8942-rce | 0 | 0| 
 | 20220711T11:16:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3368 | 538| 
 | 20220711T10:46:43Z | TypeHUB Exploiter | https://github.com/AdliXSec/TypeHUB | 1 | 0| 
