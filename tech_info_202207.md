@@ -98,6 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220711T00:25:24Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 44 | 15| 
 | 20220710T21:30:48Z | KIZAGAN is a python computer backdoor and it can take camera pictures,screenshot,getting microphone sounds... etc. | https://github.com/st4inl3s5/kizagan | 11 | 0| 
 | 20220710T16:16:31Z | Null | https://github.com/xXxCLOTIxXx/BackDoor-Telegram | 0 | 0| 
 | 20220710T13:54:08Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 16 | 5| 
@@ -107,7 +108,6 @@
 | 20220710T03:36:28Z | Discord remote access trojan | https://github.com/ch2sh/DiscoShell | 61 | 13| 
 | 20220710T02:41:12Z | Null | https://github.com/THUYimingLi/BackdoorBox | 79 | 20| 
 | 20220709T15:58:49Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1661 | 739| 
-| 20220709T06:46:18Z | List Shell Gua | https://github.com/yon3zu/myshell-list | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
