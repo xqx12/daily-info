@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220711T01:02:21Z | Easy to use and understand. Written in Python.  | https://github.com/owardlaw/URL_Fuzzer_Pentesting | 0 | 0| 
 | 20220711T00:38:40Z | Null | https://github.com/Donda0618/fuzzy-barn | 0 | 0| 
 | 20220711T00:33:53Z | SQL Fuzz Testing Utilities | https://github.com/andygrove/sqlfuzz | 6 | 2| 
 | 20220710T17:23:17Z | Null | https://github.com/IshaanKarnik/fuzzy_logic_mppt_simulink | 0 | 0| 
@@ -141,7 +142,6 @@
 | 20220710T13:10:11Z | Null | https://github.com/kelvinzs/fuzzy-disco | 0 | 0| 
 | 20220710T12:32:25Z | Null | https://github.com/nicholasob7/fuzz-nut-chart | 0 | 0| 
 | 20220710T11:20:23Z | Применение нечеткой логики для оценки вероятности выдачи кредитной карты  | https://github.com/denis3079/Fuzzy_Logic | 0 | 0| 
-| 20220710T10:09:49Z | Implementation of a simple heart disease diagnosis system using fuzzy expert system | https://github.com/maedemir/Fuzzy-Expert-System-for-Heart-Disease-Diagnosis | 0 | 0| 
 
 
 
