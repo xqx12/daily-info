@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220712 | RITA - 基于流量分析检测 C&C 通信的情报分析框架 | https://github.com/activecm/rita| 
+| 20220712 | BokuLoader - Cobalt Strike 反射式 Loader | https://github.com/xforcered/BokuLoader| 
+| 20220712 | Code Virtualizer 逆向工程浅析 | https://mp.weixin.qq.com/s/JgvrP0v_4Qmgh09cEcyaQw| 
+| 20220712 | 基于开源 OctopusWAF 搭建 WAF | https://antonio-cooler.gitbook.io/coolervoid-tavern/| 
+| 20220712 | hijagger - 分析 NPM 维护开发者的信息，检测可以通过域名抢注实现劫持的 Package | https://github.com/firefart/hijagger| 
+| 20220712 | Maelstrom: EDR Kernel Callbacks, Hooks, and Call Stacks | http://pre.empt.dev/posts/maelstrom-edr-kernel-callbacks-hooks-and-callstacks/| 
+| 20220712 | Exploiting Authentication in AWS IAM Authenticator for Kubernetes | https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator| 
+| 20220712 | 利用 Chainsaw 等工具对 Windows 注册表进行取证分析 | https://socfortress.medium.com/windows-registry-forensic-analysis-using-chainsaw-wazuh-agent-and-sigma-rules-40dbceba7201| 
 | 20220711 | 攻击者如何复用合法软件的 VPN、代理、本地隧道，以及防御者的检测方案 | https://www.mandiant.com/resources/burrowing-your-way-into-vpns| 
 | 20220711 | 用 Ghidra 分析工具逆向 Qt/C++ 编写的应用 | http://ktln2.org/reversing-c%2B%2B-qt-applications-using-ghidra/| 
 | 20220711 | 可以强制 Windows 通过 RPC 认证攻击者控制的机器的一些协议和方法 | https://github.com/p0dalirius/windows-coerced-authentication-methods| 
@@ -18,44 +26,36 @@
 | 20220711 | RCE 宝典！ | http://paper.seebug.org/1928/| 
 | 20220708 | 整合 Ghidra 的反编译功能和 Semgrep 的代码扫描能力，实现二进制漏洞的自动化挖掘 | https://security.humanativaspa.it/automating-binary-vulnerability-discovery-with-ghidra-and-semgrep/| 
 | 20220708 | 本田汽车的无钥匙进入系统被发现 “Rolling Pwn Attack”，滚动码机制存在缺陷，可以远程控制车辆 | https://rollingpwn.github.io/rolling-pwn/| 
-| 20220708 | Google CTF 2022 Sandbox Escape 题的 writeup | https://n132.github.io/2022/07/04/S2.html| 
-| 20220708 | Koh - 通过 “Internal Monologue Attack” 窃取 Windows 认证凭据的工具 | https://github.com/GhostPack/Koh| 
-| 20220708 | 全新勒索软件 HavanaCrypt 伪造成 Google 更新套件，借助微软的 Web 托管服务伪装 C&C 服务器 | http://research.trendmicro.com/3AvsM4A| 
-| 20220708 | Black Basta 勒索软件将 PrintNightmare 漏洞 Exploit 集成进自己的攻击套件 | http://research.trendmicro.com/3OA8H10| 
-| 20220708 | 针对机器学习系统的安全攻击实战 | http://research.nccgroup.com/2022/07/06/whitepaper-practical-attacks-on-machine-learning-systems/| 
-| 20220708 | Froxlor Server 服务器管理面板被发现 root 命令执行漏洞 | http://ssd-disclosure.com/ssd-advisory-froxlor-server-management-panel-file-upload-filter-bypass-and-rce/| 
-| 20220707 | 利用污点分析技术在 .NET 汇编层面检测漏洞 | https://github.com/mandiant/route-sixty-sink| 
-| 20220707 | Fuzz Windows 的 HEIF 图片处理库 | https://www.mandiant.com/resources/fuzzing-image-parsing-windows-part-four| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220712 | 入侵模拟攻击演练平台建设 | https://www.kdocs.cn/l/clY8TCR4xSEf| 
+| 20220712 | 开源安全：挑战、解决方案和机遇 | https://mp.weixin.qq.com/s/YryG2EXFFod0D3fdIwILtA| 
+| 20220712 | 从CICD漏洞靶场中学习持续集成安全 | https://mp.weixin.qq.com/s/7Wf42aLHyA2hc05sF6zLQw| 
+| 20220712 | Bad Packet 测量在野 IoT 僵尸网络活动 | https://mp.weixin.qq.com/s/SxiUFJyWhl3BAe5u5yKytg| 
+| 20220712 | SecWiki周刊（第436期) | https://www.sec-wiki.com/weekly/436| 
 | 20220708 | 全国攻防演习的防守体系建设 | https://mp.weixin.qq.com/s/LjRArIoMVo0d1AKVBp4Irg| 
 | 20220708 | 一种全新的内存马 | https://veo.pub/2022/memshell/| 
 | 20220708 | 自建可信钓鱼邮件服务器 | https://mp.weixin.qq.com/s/HJGyD-0TH5PxomP9xQK2WQ| 
 | 20220708 | 在软件工程领域，搞科研的这十年！ | https://mp.weixin.qq.com/s/mCJ2EJ_hzQOsrIVAhXiqpw| 
 | 20220708 | 数据出境安全评估办法 | https://mp.weixin.qq.com/s/yy-jYDXf7Fwu_VmRC6WjfA| 
-| 20220706 | Tetragon -- 基于 eBPF 的安全可观测性 & 运行时增强 | https://icloudnative.io/posts/tetragon/| 
-| 20220706 | 陆海空天一体化信息网络发展研究 | https://mp.weixin.qq.com/s/rr-t9NScVRzqVV7bzCp9Hg| 
-| 20220706 | 卫星“黑客”详解“卫星通信的安全缺陷” | https://mp.weixin.qq.com/s/TY0HXcUto5b2lNDX8pK9Yg| 
-| 20220706 | 基于图注意网络的跨安全数据库实体关系预测 | https://mp.weixin.qq.com/s/v4F4UEaKeq8N2-hCuPRtcw| 
-| 20220706 | 云主机AK/SK泄露利用 | https://www.anquanke.com/post/id/275261| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220712T08:40:46Z | CVE-2022-22947 | Null | https://github.com/kmahyyg/CVE-2022-22947 | | 
+| 20220712T05:55:39Z | CVE-2022-31138 | Mailcow CVE-2022-31138 | https://github.com/ly1g3/Mailcow-CVE-2022-31138 | | 
+| 20220712T05:50:48Z | CVE-2022-35416 | H3C_SSL_VPN_XSS(Reflected XSS) CVE-2022-35416 | https://github.com/safe3s/CVE-2022-35416 | | 
 | 20220712T01:30:32Z | CVE-2021-4034 | PoC of CVE-2021-4034 written in GoLang | https://github.com/1izardd/CVE-2021-4034 | | 
+| 20220712T01:30:32Z | CVE-2021-4034 | PoC of CVE-2021-4034 written in GoLang | https://github.com/42lizard/CVE-2021-4034 | | 
 | 20220711T23:07:12Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220711T12:08:16Z | CVE-2022-34265 | PoC verification of Django vulnerability (CVE-2022-34265) | https://github.com/NopFault/CVE-2022-34265 | | 
-| 20220711T06:59:21Z | CVE-2022-31138 | Mailcow CVE-2022-31138 | https://github.com/ly1g3/Mailcow-CVE-2022-31138 | | 
 | 20220711T01:59:15Z | CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/RafaelOrtizRC/CVE-2022-23222 | | 
 | 20220711T01:59:15Z | CVE-2022-23222 | CVE-2022-23222, managed with Rust. | https://github.com/FridayOrtiz/CVE-2022-23222 | | 
 | 20220711T01:40:17Z | CVE-2022-33980 | CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞 | https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
-| 20220711T00:55:19Z | CVE-2022-33980 | Null | https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE | | 
-| 20220710T17:08:06Z | CVE-2021-25094 | Tatsu Plugin ZIP File add_custom_font unrestricted upload | https://github.com/xdx57/CVE-2021-25094 | | 
-| 20220710T15:13:33Z | CVE-2021-31805 | S2-061/S2-062 Struts2 远程命令执行漏洞 POC&EXP | https://github.com/z92g/CVE-2021-31805 | | 
 
 
 # klee on Github 推荐
@@ -75,6 +75,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220712T05:30:56Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 14 | 9| 
 | 20220711T15:51:50Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 52 | 5| 
 | 20220708T17:34:56Z | Null | https://github.com/s2eung1/s2eung1 | 0 | 0| 
 | 20220708T07:00:37Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 19 | 3| 
@@ -84,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220712T11:59:49Z | Null | https://github.com/Lubnan-Skech/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
+| 20220712T11:28:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 453 | 128| 
+| 20220712T08:35:14Z | 字节跳动东北大学定向培养班作业 | https://github.com/Mamba-art/Ios-exploitation | 0 | 0| 
+| 20220712T06:53:57Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 942 | 157| 
+| 20220712T06:16:28Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1107 | 184| 
+| 20220712T04:13:48Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 209 | 41| 
+| 20220712T02:30:56Z | Anyone who want to learn buffer overflow | https://github.com/yufanphombolimbu/exploitdevelopment | 0 | 0| 
+| 20220712T01:15:44Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3137 | 383| 
 | 20220712T00:52:09Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.3 | 0 | 0| 
 | 20220712T00:51:21Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.3 | 0 | 0| 
-| 20220712T00:50:12Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.3 | 0 | 0| 
-| 20220712T00:01:01Z | Windows Defender Remover exploit Unistall Kill Windows 10,8,7,11 | https://github.com/PlasmaCheat/Windows-Defender-Remover-exploit-Unistall-Kill | 0 | 0| 
-| 20220711T22:36:59Z | Exploitation d%API pour intéragir et traiter veracode | https://github.com/sskiizenss/veracodeAPI | 0 | 0| 
-| 20220711T20:37:15Z | pro | https://github.com/PinguHz/Mining_Clicker_Sim_Exploit | 0 | 0| 
-| 20220711T19:39:08Z | Project to identify and exploit surebets in the sports betting market | https://github.com/matthewlkaplan/surebets | 1 | 0| 
-| 20220711T19:03:28Z | expriment | https://github.com/hackerronii14/exploit-ps4-9.00 | 0 | 0| 
-| 20220711T12:49:17Z | This tool generates gopher link for exploiting SSRF and gaining RCE in various servers | https://github.com/tarunkant/Gopherus | 1982 | 303| 
-| 20220711T12:06:41Z | The Wordpress RCE Exploit written by K.I.M | https://github.com/kimteawan2411/2019-8942-rce | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220712T01:50:20Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. | https://github.com/h3xduck/TripleCross | 898 | 85| 
+| 20220712T11:30:12Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. | https://github.com/h3xduck/TripleCross | 918 | 86| 
+| 20220712T10:22:42Z | Purifier: Plug-and-play Backdoor Mitigation for Pre-trained Models Via Anomaly Activation Suppression | https://github.com/JinYulin-debug/Purifier | 0 | 0| 
+| 20220712T09:55:01Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 520 | 100| 
+| 20220712T06:51:27Z | ICML 2022 code for %Neurotoxin: Durable Backdoors in Federated Learning% https://arxiv.org/abs/2206.10341  | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 6 | 1| 
+| 20220712T03:15:53Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 45 | 15| 
+| 20220712T02:26:15Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 86 | 16| 
+| 20220712T02:17:52Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 30 | 7| 
 | 20220711T20:40:14Z | Deep Just-in-Time Backdoor Vulnerability Detection by Feeding Hard-coded Credentials to Bidirectional Encoder Representations from Transformers. | https://github.com/biringaChi/VulBERT | 0 | 0| 
-| 20220711T13:17:59Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 519 | 100| 
 | 20220711T13:00:43Z | FL | https://github.com/bangdabezt/BackdoorFL | 0 | 0| 
 | 20220711T06:05:44Z | Null | https://github.com/THUYimingLi/BackdoorBox | 80 | 20| 
-| 20220711T00:25:24Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 44 | 15| 
-| 20220710T22:40:09Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/youhacker55/jarbou3 | 85 | 16| 
-| 20220710T21:30:48Z | KIZAGAN is a python computer backdoor and it can take camera pictures,screenshot,getting microphone sounds... etc. | https://github.com/st4inl3s5/kizagan | 11 | 0| 
-| 20220710T16:16:31Z | Null | https://github.com/xXxCLOTIxXx/BackDoor-Telegram | 0 | 0| 
-| 20220710T13:54:08Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 16 | 6| 
 
 
 # symbolic execution on Github 推荐
