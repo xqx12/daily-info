@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220712T00:01:01Z | Windows Defender Remover exploit Unistall Kill Windows 10,8,7,11 | https://github.com/PlasmaCheat/Windows-Defender-Remover-exploit-Unistall-Kill | 0 | 0| 
 | 20220711T22:36:59Z | Exploitation d%API pour intéragir et traiter veracode | https://github.com/sskiizenss/veracodeAPI | 0 | 0| 
 | 20220711T20:37:15Z | pro | https://github.com/PinguHz/Mining_Clicker_Sim_Exploit | 0 | 0| 
 | 20220711T19:39:08Z | Project to identify and exploit surebets in the sports betting market | https://github.com/matthewlkaplan/surebets | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20220711T11:16:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3368 | 538| 
 | 20220711T10:46:43Z | TypeHUB Exploiter | https://github.com/AdliXSec/TypeHUB | 1 | 0| 
 | 20220711T10:15:27Z | Remote Administrator Tool [ RAT For Android ] No Port Forwarding | https://github.com/TeamDarkAnon/xhunter | 2 | 0| 
-| 20220711T09:58:02Z | ShellShock exploit | https://github.com/mPenTests/ShellShocker | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,10 +114,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220711T14:48:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 458 | 26| 
+| 20220711T14:10:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2982 | 423| 
 | 20220711T11:29:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2008 | 570| 
 | 20220711T06:37:50Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 701 | 76| 
-| 20220710T16:21:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 457 | 26| 
-| 20220710T07:29:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2981 | 423| 
 | 20220709T13:49:16Z | Symbolic Execution Playground, Z3 mostly | https://github.com/rojaster/symex | 0 | 0| 
 | 20220706T21:42:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 237 | 58| 
 | 20220705T09:36:37Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 29 | 17| 
