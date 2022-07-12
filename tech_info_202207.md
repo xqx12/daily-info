@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220712T01:59:32Z | 高精准指纹识别、15532+漏洞扫描、fuzz，打点、bugbounty神器，集成vscan、subfinder（子域名爆破）、naabu(集成nmap，端口扫描、服务识别)、httpx(web扫描)、nuclei(漏洞扫描)、kscan 11种弱口令检测... | https://github.com/hktalent/scan4all | 183 | 33| 
 | 20220711T23:09:47Z | Null | https://github.com/localhosts-A/fuzzy-invention | 0 | 0| 
 | 20220711T22:42:35Z | Null | https://github.com/merlinepedra25/FUZZ-TXT | 0 | 0| 
 | 20220711T22:41:54Z | Null | https://github.com/merlinepedra/FUZZ-TXT | 0 | 0| 
@@ -143,7 +144,6 @@
 | 20220711T22:31:27Z | Null | https://github.com/merlinepedra/FUZZDB | 0 | 0| 
 | 20220711T21:49:10Z | Null | https://github.com/dinahezrae/fuzzy-octo-happiness | 0 | 0| 
 | 20220711T21:28:00Z | Implemented Z-MARCOS an MCDM method into fuzzy sets to get exact rankings of choices.  | https://github.com/HimanshuKhatarkar/Z-MARCOS_Fuzzy | 0 | 0| 
-| 20220711T20:37:27Z | a quick demo to showcase how to create a new project on github , clone down the project to a local machine and create a deployment for the project on the student server  | https://github.com/deschenie/fuzzy-octo-doodle | 0 | 0| 
 
 
 
