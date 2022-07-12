@@ -99,7 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220712T01:40:24Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. | https://github.com/h3xduck/TripleCross | 896 | 85| 
+| 20220712T01:45:45Z | A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. | https://github.com/h3xduck/TripleCross | 897 | 85| 
 | 20220711T20:40:14Z | Deep Just-in-Time Backdoor Vulnerability Detection by Feeding Hard-coded Credentials to Bidirectional Encoder Representations from Transformers. | https://github.com/biringaChi/VulBERT | 0 | 0| 
 | 20220711T13:17:59Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 519 | 100| 
 | 20220711T13:00:43Z | FL | https://github.com/bangdabezt/BackdoorFL | 0 | 0| 
