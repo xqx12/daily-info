@@ -84,6 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220712T00:52:09Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.3 | 0 | 0| 
+| 20220712T00:51:21Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.3 | 0 | 0| 
+| 20220712T00:50:12Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.3 | 0 | 0| 
 | 20220712T00:01:01Z | Windows Defender Remover exploit Unistall Kill Windows 10,8,7,11 | https://github.com/PlasmaCheat/Windows-Defender-Remover-exploit-Unistall-Kill | 0 | 0| 
 | 20220711T22:36:59Z | Exploitation d%API pour intéragir et traiter veracode | https://github.com/sskiizenss/veracodeAPI | 0 | 0| 
 | 20220711T20:37:15Z | pro | https://github.com/PinguHz/Mining_Clicker_Sim_Exploit | 0 | 0| 
@@ -91,9 +94,6 @@
 | 20220711T19:03:28Z | expriment | https://github.com/hackerronii14/exploit-ps4-9.00 | 0 | 0| 
 | 20220711T12:49:17Z | This tool generates gopher link for exploiting SSRF and gaining RCE in various servers | https://github.com/tarunkant/Gopherus | 1982 | 303| 
 | 20220711T12:06:41Z | The Wordpress RCE Exploit written by K.I.M | https://github.com/kimteawan2411/2019-8942-rce | 0 | 0| 
-| 20220711T11:16:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3368 | 538| 
-| 20220711T10:46:43Z | TypeHUB Exploiter | https://github.com/AdliXSec/TypeHUB | 1 | 0| 
-| 20220711T10:15:27Z | Remote Administrator Tool [ RAT For Android ] No Port Forwarding | https://github.com/TeamDarkAnon/xhunter | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,8 +114,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220712T00:34:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2983 | 423| 
 | 20220711T14:48:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 458 | 26| 
-| 20220711T14:10:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2982 | 423| 
 | 20220711T11:29:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2008 | 570| 
 | 20220711T06:37:50Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 701 | 76| 
 | 20220709T13:49:16Z | Symbolic Execution Playground, Z3 mostly | https://github.com/rojaster/symex | 0 | 0| 
