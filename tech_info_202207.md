@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220713T12:23:39Z | Null | https://github.com/lupusmalus/fuzzypickles | 0 | 0| 
-| 20220713T11:04:58Z | An academic project for my uni - not ment for production use | https://github.com/ahbanavi/blockchain-fuzzy-voting | 0 | 0| 
-| 20220713T10:10:06Z | This is a blog for MSc Thesis paper - Intelligent Code Generation/ Mutation to aid fuzzing of JavaScript engines | https://github.com/DeamonSpawn/amenezes.github.io | 0 | 0| 
-| 20220713T09:40:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4231 | 1007| 
-| 20220713T09:29:04Z | Project for fuzzy logic on AIRI | https://github.com/Vitaliy1234/fuzzy_project | 0 | 0| 
-| 20220713T08:25:14Z | Null | https://github.com/TheWisePigeon/fuzzy-sniffle | 0 | 0| 
-| 20220713T07:03:26Z | Fuzzy理論の実装 | https://github.com/Enchan1207/Fuzzy | 0 | 0| 
-| 20220712T20:44:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7582 | 1627| 
-| 20220712T19:38:10Z | Null | https://github.com/Kontosoros/FUZZY_PROJECT | 0 | 1| 
-| 20220712T14:15:26Z | Just trying out CI/CD stuff with github actions | https://github.com/Idadelveloper/fuzzy-enigma | 0 | 0| 
+| 20220716T11:05:18Z | Null | https://github.com/sneh2909/Fuzzy-c-means-on-iris-dataset | 0 | 0| 
+| 20220716T08:51:19Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 1241 | 283| 
+| 20220716T07:39:50Z | Null | https://github.com/Fahimkibs/fuzzy-train | 0 | 0| 
+| 20220716T07:28:10Z | Null | https://github.com/emrenterasan/fuzzy | 0 | 0| 
+| 20220716T07:20:15Z | Tool for marking and identifying documents based on fuzzy hashing for tracking by a DLP-system. | https://github.com/aaaaaaaalesha/fuzzy_docmarking_tool | 0 | 0| 
+| 20220716T06:19:08Z | Fuzzy | https://github.com/Marlinelastname/fuzzy-goggles | 0 | 0| 
+| 20220715T10:25:27Z | Null | https://github.com/NipunAgarwal16/Designing-and-Simulating-a-Fuzzy-based-control-of-Mini-Drone | 0 | 0| 
+| 20220715T09:29:03Z | Null | https://github.com/XelaSnad/fuzzer | 0 | 0| 
+| 20220715T05:20:50Z | COMP6447 fuzzer | https://github.com/sixohtoo/fuzzer | 1 | 0| 
+| 20220714T13:09:42Z | Web fuzzing tool written in Rust | https://github.com/darosan2003/rfuzzer | 0 | 0| 
 
 
 

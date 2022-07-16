@@ -72,6 +72,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220716T11:05:18Z | Null | https://github.com/sneh2909/Fuzzy-c-means-on-iris-dataset | 0 | 0| 
+| 20220716T08:51:19Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 1241 | 283| 
+| 20220716T07:39:50Z | Null | https://github.com/Fahimkibs/fuzzy-train | 0 | 0| 
+| 20220716T07:28:10Z | Null | https://github.com/emrenterasan/fuzzy | 0 | 0| 
+| 20220716T07:20:15Z | Tool for marking and identifying documents based on fuzzy hashing for tracking by a DLP-system. | https://github.com/aaaaaaaalesha/fuzzy_docmarking_tool | 0 | 0| 
+| 20220716T06:19:08Z | Fuzzy | https://github.com/Marlinelastname/fuzzy-goggles | 0 | 0| 
 
 
 
