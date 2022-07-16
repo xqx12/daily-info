@@ -90,6 +90,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220716T12:23:01Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2676 | 164| 
+| 20220716T12:21:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11717 | 2023| 
 | 20220716T09:41:15Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 664 | 167| 
 | 20220716T08:53:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4720 | 652| 
 | 20220716T08:46:33Z | hack android throgh pdf | https://github.com/pdfexploit/android-pdf-exploit | 2 | 0| 
@@ -98,7 +99,6 @@
 | 20220716T07:27:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3150 | 384| 
 | 20220716T04:17:06Z | Tormux project | https://github.com/tormux-project/tormux-project | 0 | 0| 
 | 20220716T04:04:34Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 787 | 169| 
-| 20220716T03:05:39Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 477 | 56| 
 
 
 # backdoor on Github 推荐
