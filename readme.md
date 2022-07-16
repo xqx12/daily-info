@@ -39,7 +39,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220716T12:23:01Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2676 | 164| 
 | 20220716T12:21:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11717 | 2023| 
-| 20220716T09:41:15Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 664 | 167| 
+| 20220716T09:41:15Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 664 | 168| 
 | 20220716T08:53:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4720 | 652| 
 | 20220716T08:46:33Z | hack android throgh pdf | https://github.com/pdfexploit/android-pdf-exploit | 2 | 0| 
 | 20220716T08:44:16Z | Null | https://github.com/OopsZero234/XeraX-Exploit | 0 | 0| 
