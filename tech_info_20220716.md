@@ -45,8 +45,8 @@
 | 20220716T07:29:13Z | Exploit DigitalOcean API through the console | https://github.com/manikos/beauty-ocean | 2 | 1| 
 | 20220716T07:27:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3150 | 384| 
 | 20220716T04:17:06Z | Tormux project | https://github.com/tormux-project/tormux-project | 0 | 0| 
+| 20220716T04:04:34Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 787 | 169| 
 | 20220716T03:05:39Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 477 | 56| 
-| 20220716T01:50:22Z | cve-2022-29455 elementor wordpress plugin xss exploit | https://github.com/alyrezo/cve-2022-29455 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -62,6 +62,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220716T10:55:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2993 | 423| 
 
 
 # big4 on Github 推荐

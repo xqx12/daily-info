@@ -97,8 +97,8 @@
 | 20220716T07:29:13Z | Exploit DigitalOcean API through the console | https://github.com/manikos/beauty-ocean | 2 | 1| 
 | 20220716T07:27:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3150 | 384| 
 | 20220716T04:17:06Z | Tormux project | https://github.com/tormux-project/tormux-project | 0 | 0| 
+| 20220716T04:04:34Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 787 | 169| 
 | 20220716T03:05:39Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 477 | 56| 
-| 20220716T01:50:22Z | cve-2022-29455 elementor wordpress plugin xss exploit | https://github.com/alyrezo/cve-2022-29455 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,16 +119,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220715T19:47:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2992 | 423| 
+| 20220716T10:55:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2993 | 423| 
 | 20220715T18:51:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 239 | 58| 
 | 20220715T17:46:58Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 704 | 76| 
 | 20220715T09:09:34Z | Fault Localization in Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis | https://github.com/javitroya/sbfl-symbolic-execution-mt | 0 | 0| 
 | 20220714T20:25:47Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 17 | 4| 
-| 20220714T15:27:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2011 | 571| 
+| 20220714T15:27:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2011 | 572| 
 | 20220714T06:41:57Z | Multi-solver dynamic symbolic execution for JavaScript | https://github.com/ArathaJS/aratha | 5 | 3| 
 | 20220713T12:47:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 459 | 26| 
 | 20220709T13:49:16Z | Symbolic Execution Playground, Z3 mostly | https://github.com/rojaster/symex | 0 | 0| 
-| 20220705T09:36:37Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 29 | 18| 
+| 20220708T15:58:20Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 249 | 17| 
 
 
 # big4 on Github 推荐
