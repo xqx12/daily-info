@@ -16,9 +16,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220716T23:06:17Z | CVE-2022-32119 | CVE-2022-32119 - Arox-Unrestricted-File-Upload | https://github.com/JC175/CVE-2022-32119 | | 
+| 20220716T21:43:48Z | CVE-2022-30507 | PoC for CVE-2022–30507 | https://github.com/yosef0x01/CVE-2022-30507 | | 
 | 20220716T10:59:46Z | CVE-2022-31897 | Zoo Management System 1.0 - Reflected Cross-Site-Scripting (XSS) | https://github.com/AngeloPioAmirante/CVE-2022-31897 | | 
 | 20220716T10:44:52Z | CVE-2022-33075 | Zoo Management System 1.0 - Stored Cross-Site-Scripting (XSS) | https://github.com/AngeloPioAmirante/CVE-2022-33075 | | 
-| 20220716T05:41:19Z | CVE-2022-32119 | CVE-2022-32119 - Arox-Unrestricted-File-Upload | https://github.com/JC175/CVE-2022-32119 | | 
 | 20220716T02:57:20Z | CVE-2022-22978 | CVE-2022-22978 POC Project | https://github.com/aeifkz/CVE-2022-22978 | | 
 | 20220716T01:50:22Z | cve-2022-29455 | cve-2022-29455 elementor wordpress plugin xss exploit | https://github.com/alyrezo/cve-2022-29455 | | 
 
@@ -26,6 +27,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220716T13:38:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2012 | 572| 
 
 
 # s2e on Github 推荐
@@ -37,16 +39,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220716T23:53:42Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 13 | 3| 
+| 20220716T21:09:31Z | Null | https://github.com/yoschigamer/anime-api-exploit | 0 | 0| 
+| 20220716T21:02:25Z | Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | https://github.com/dididox99/SilentExploitPDF | 1 | 0| 
+| 20220716T20:59:42Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 0 | 0| 
+| 20220716T20:20:20Z | The best hacks for Pixel Strike 3D (PS3D) you can find. | https://github.com/rxzyx/PS3D-Ultimate-Client | 1 | 0| 
+| 20220716T19:28:32Z | The most sought after application in roblox exploiting history, Synapse v3. | https://github.com/P-DennyGamingYT/Synapse-Beta | 0 | 0| 
+| 20220716T13:52:56Z | This is an Aerocode base platform to exploit Aero activities with open source tools. | https://github.com/appollosputnik/aerodynamicCodeBase | 0 | 0| 
 | 20220716T12:56:45Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 663 | 168| 
 | 20220716T12:23:01Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2676 | 164| 
 | 20220716T12:21:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11717 | 2023| 
-| 20220716T08:53:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4720 | 652| 
-| 20220716T08:46:33Z | hack android throgh pdf | https://github.com/pdfexploit/android-pdf-exploit | 2 | 0| 
-| 20220716T08:44:16Z | Null | https://github.com/OopsZero234/XeraX-Exploit | 0 | 0| 
-| 20220716T07:29:13Z | Exploit DigitalOcean API through the console | https://github.com/manikos/beauty-ocean | 2 | 1| 
-| 20220716T07:27:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3150 | 384| 
-| 20220716T04:17:06Z | Tormux project | https://github.com/tormux-project/tormux-project | 0 | 0| 
-| 20220716T04:04:34Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 787 | 169| 
 
 
 # backdoor on Github 推荐
@@ -73,12 +75,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220716T23:06:54Z | Config files for my GitHub profile. | https://github.com/ConwayFuzz/ConwayFuzz | 0 | 0| 
+| 20220716T22:21:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7592 | 1629| 
+| 20220716T20:05:25Z | Null | https://github.com/KaDe1011/Fuzzy-Spork | 0 | 0| 
+| 20220716T18:48:08Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy | 1 | 0| 
+| 20220716T17:54:35Z | Null | https://github.com/pkarakal/tsk-fuzzy-model | 0 | 0| 
+| 20220716T17:47:00Z | Null | https://github.com/homebuss/fuzzy-giggle | 0 | 0| 
 | 20220716T11:05:18Z | Null | https://github.com/sneh2909/Fuzzy-c-means-on-iris-dataset | 0 | 0| 
 | 20220716T08:51:19Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 1241 | 283| 
 | 20220716T07:39:50Z | Null | https://github.com/Fahimkibs/fuzzy-train | 0 | 0| 
 | 20220716T07:28:10Z | Null | https://github.com/emrenterasan/fuzzy | 0 | 0| 
-| 20220716T07:20:15Z | Tool for marking and identifying documents based on fuzzy hashing for tracking by a DLP-system. | https://github.com/aaaaaaaalesha/fuzzy_docmarking_tool | 0 | 0| 
-| 20220716T06:19:08Z | Fuzzy | https://github.com/Marlinelastname/fuzzy-goggles | 0 | 0| 
 
 
 
