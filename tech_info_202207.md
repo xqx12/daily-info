@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220717T00:24:58Z | An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments. | https://github.com/aress31/raadef | 0 | 0| 
+| 20220717T00:25:53Z | An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments. | https://github.com/aress31/raadef | 0 | 0| 
 | 20220716T23:53:42Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 13 | 3| 
 | 20220716T21:09:31Z | Null | https://github.com/yoschigamer/anime-api-exploit | 0 | 0| 
 | 20220716T21:02:25Z | Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | https://github.com/dididox99/SilentExploitPDF | 1 | 0| 
