@@ -72,13 +72,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220717T12:19:41Z | Null | https://github.com/William1617/fuzzy_control | 0 | 0| 
 | 20220717T11:28:52Z | Null | https://github.com/HwjahsbdjgjdjhV5hdhfbdxh/fuzzy-octo-guide | 0 | 0| 
 | 20220717T09:53:55Z | Similar phrase clustering based on fuzzy-match. | https://github.com/SClovesgtx/phrases-fuzzy-clusters | 0 | 0| 
 | 20220717T09:51:46Z | Fuzzy Filtering Profanity | https://github.com/dwirifki10/Fuzzy-Filtering-Profanity | 0 | 0| 
 | 20220717T09:31:08Z | Componentrs for fuzzysort lib: Plain Custom Elements, Stimulus, Catalyst, ... | https://github.com/blynx/fuzzysort-element | 0 | 0| 
 | 20220717T09:19:57Z | Vulnerabilities scan；15000+POC漏洞扫描；18种应用密码爆破；7000+web指纹；146种协议90000+规则port扫描；fuzz、打点、bugbounty神器... | https://github.com/hktalent/scan4all | 216 | 41| 
 | 20220717T09:17:53Z | Config files for my GitHub profile. | https://github.com/SilverFuzz/SilverFuzz | 0 | 0| 
-| 20220717T07:47:35Z | Null | https://github.com/William1617/fuzzy_control | 0 | 0| 
 | 20220717T04:54:47Z | 个人收集常用的fuzz payload | https://github.com/loulan-ling/payload | 0 | 0| 
 
 
