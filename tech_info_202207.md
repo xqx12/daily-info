@@ -89,6 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220717T00:44:53Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.. | 0 | 0| 
+| 20220717T00:44:09Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.. | 0 | 0| 
+| 20220717T00:43:15Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.. | 0 | 0| 
 | 20220717T00:25:53Z | An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments. | https://github.com/aress31/raadef | 0 | 0| 
 | 20220716T23:53:42Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 13 | 3| 
 | 20220716T21:09:31Z | Null | https://github.com/yoschigamer/anime-api-exploit | 0 | 0| 
@@ -96,9 +99,6 @@
 | 20220716T20:59:42Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 0 | 0| 
 | 20220716T20:20:20Z | The best hacks for Pixel Strike 3D (PS3D) you can find. | https://github.com/rxzyx/PS3D-Ultimate-Client | 1 | 0| 
 | 20220716T19:28:32Z | The most sought after application in roblox exploiting history, Synapse v3. | https://github.com/P-DennyGamingYT/Synapse-Beta | 0 | 0| 
-| 20220716T13:52:56Z | This is an Aerocode base platform to exploit Aero activities with open source tools. | https://github.com/appollosputnik/aerodynamicCodeBase | 0 | 0| 
-| 20220716T12:56:45Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 663 | 168| 
-| 20220716T12:23:01Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2676 | 164| 
 
 
 # backdoor on Github 推荐
