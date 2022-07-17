@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220717T11:33:13Z | CVE-2022-24500 | CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability | https://github.com/Daro1967/CVE-2022-24500-RCE | | 
+| 20220717T08:29:42Z | 未知编号 | Null | https://github.com/5xxxxx-Y/cve-2022 | | 
 | 20220716T23:06:17Z | CVE-2022-32119 | CVE-2022-32119 - Arox-Unrestricted-File-Upload | https://github.com/JC175/CVE-2022-32119 | | 
 | 20220716T21:43:48Z | CVE-2022-30507 | PoC for CVE-2022–30507 | https://github.com/yosef0x01/CVE-2022-30507 | | 
 | 20220716T10:59:46Z | CVE-2022-31897 | Zoo Management System 1.0 - Reflected Cross-Site-Scripting (XSS) | https://github.com/AngeloPioAmirante/CVE-2022-31897 | | 
@@ -54,8 +56,6 @@
 | 20220716T01:50:22Z | cve-2022-29455 | cve-2022-29455 elementor wordpress plugin xss exploit | https://github.com/alyrezo/cve-2022-29455 | | 
 | 20220715T20:58:48Z | cve-2021-4034 | Null | https://github.com/n0v4mx/cve-2021-4034 | | 
 | 20220715T10:20:42Z | cve-2022-26134 | Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server. | https://github.com/iveresk/cve-2022-26134 | | 
-| 20220715T08:10:33Z | CVE-2022-0848 | Null | https://github.com/logm1lo/CVE-2022-0848-RCE | | 
-| 20220715T05:51:43Z | CVE-2022-29593 | Null | https://github.com/9lyph/CVE-2022-29593 | | 
 
 
 # klee on Github 推荐
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220717T01:45:19Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 0 | 0| 
-| 20220717T00:54:58Z | Results of fulfilling both red team and blue team roles.  | https://github.com/Travis-Dominguez/Monitor_and_Exploit_a_Server | 0 | 0| 
-| 20220717T00:44:53Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.. | 0 | 0| 
-| 20220717T00:44:09Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.. | 0 | 0| 
-| 20220717T00:43:15Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.. | 0 | 0| 
-| 20220717T00:25:53Z | An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments. | https://github.com/aress31/raadef | 0 | 0| 
-| 20220716T23:53:42Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 13 | 3| 
-| 20220716T21:09:31Z | Null | https://github.com/yoschigamer/anime-api-exploit | 0 | 0| 
-| 20220716T21:02:25Z | Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | https://github.com/dididox99/SilentExploitPDF | 1 | 0| 
-| 20220716T20:20:20Z | The best hacks for Pixel Strike 3D (PS3D) you can find. | https://github.com/rxzyx/PS3D-Ultimate-Client | 1 | 0| 
+| 20220717T11:33:36Z | A collection of custom-written Roblox scripts. Studio scripts are used to make games and Exploit scripts are used for executors such as Evon or Synapse X. | https://github.com/ErcuHolder/Scripts | 0 | 0| 
+| 20220717T11:30:38Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.- | 0 | 0| 
+| 20220717T11:29:44Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.- | 0 | 0| 
+| 20220717T11:28:27Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.- | 0 | 0| 
+| 20220717T11:18:36Z | Null | https://github.com/0x414141414/EXCEL-EXPLOIT-BUILDER | 0 | 0| 
+| 20220717T11:17:59Z | Null | https://github.com/0x414141414/PDF-EXPLOIT-BUILDER | 0 | 0| 
+| 20220717T11:17:09Z | Null | https://github.com/0x414141414/Silent-JPG-Exploit-0day | 0 | 0| 
+| 20220717T10:45:48Z | Windows Binary Exploitation Writeups | https://github.com/ElliotAlderson51/Exploit-Writeups | 1 | 0| 
+| 20220717T10:41:50Z | perlu tutor dm ig @aldesraakce | https://github.com/hondacombi123/exploit-crown-by-stvnsdraa | 0 | 0| 
+| 20220717T09:52:56Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 257 | 51| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220717T11:07:29Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 37 | 16| 
+| 20220717T10:37:20Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 340 | 42| 
+| 20220717T08:14:33Z | Greenhat is a general backdoor. Has some added functionalities that can be used to prank the victims too. | https://github.com/metaladmiral/Greenhat | 0 | 0| 
+| 20220717T02:45:23Z | Deep Just-in-Time Backdoor Vulnerability Detection by Feeding Hard-coded Credentials to Bidirectional Encoder Representations from Transformers. | https://github.com/biringaChi/VulBERT | 0 | 0| 
 | 20220716T06:27:26Z | Null | https://github.com/LimeRicky84/e-commerce-backdoor | 0 | 0| 
 | 20220716T05:36:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1679 | 742| 
 | 20220716T01:30:26Z | basic lua backdoor | https://github.com/THECRAZEDPOTATTO/Roblox-Lua-backdoor | 0 | 0| 
 | 20220716T01:29:13Z | lua backdor | https://github.com/THECRAZEDPOTATTO/backdoor | 0 | 0| 
 | 20220716T01:24:11Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 523 | 103| 
 | 20220716T00:54:31Z | Backdoor.exe | https://github.com/Boblogger27/backdoor.exe-v6 | 0 | 0| 
-| 20220715T15:57:21Z | ✅ BEST CRYPTO + NFT DRAINER ⭐ NO BACKDOOR | https://github.com/nftdrainerscript/nft-drainer | 2 | 0| 
-| 20220715T15:57:20Z | ❤️ NO BACKDOOR CRYPTO + NFT DRAINER ✅ FREE DOWNLOAD | https://github.com/nftdrainerscript/eth-nft-drainer | 2 | 0| 
-| 20220715T15:56:57Z | 💯 DOWNLOAD 100% NO BACKDOOR SCRIPT FOR FREE ✅ | https://github.com/0x32Moons/best-nft-drainer | 2 | 0| 
-| 20220715T15:56:24Z | FREE NFT + ETHEREUM DRAINER, NO BACKDOOR CODE! | https://github.com/cryptoscemdev/ethereum-nft-drainer | 5 | 6| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220717T11:28:52Z | Null | https://github.com/HwjahsbdjgjdjhV5hdhfbdxh/fuzzy-octo-guide | 0 | 0| 
+| 20220717T09:53:55Z | Similar phrase clustering based on fuzzy-match. | https://github.com/SClovesgtx/phrases-fuzzy-clusters | 0 | 0| 
+| 20220717T09:51:46Z | Fuzzy Filtering Profanity | https://github.com/dwirifki10/Fuzzy-Filtering-Profanity | 0 | 0| 
+| 20220717T09:31:08Z | Componentrs for fuzzysort lib: Plain Custom Elements, Stimulus, Catalyst, ... | https://github.com/blynx/fuzzysort-element | 0 | 0| 
+| 20220717T09:19:57Z | Vulnerabilities scan；15000+POC漏洞扫描；18种应用密码爆破；7000+web指纹；146种协议90000+规则port扫描；fuzz、打点、bugbounty神器... | https://github.com/hktalent/scan4all | 216 | 41| 
+| 20220717T09:17:53Z | Config files for my GitHub profile. | https://github.com/SilverFuzz/SilverFuzz | 0 | 0| 
+| 20220717T07:47:35Z | Null | https://github.com/William1617/fuzzy_control | 0 | 0| 
+| 20220717T04:54:47Z | 个人收集常用的fuzz payload | https://github.com/loulan-ling/payload | 0 | 0| 
 | 20220716T23:06:54Z | Config files for my GitHub profile. | https://github.com/ConwayFuzz/ConwayFuzz | 0 | 0| 
 | 20220716T22:21:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7592 | 1629| 
-| 20220716T20:05:25Z | Null | https://github.com/KaDe1011/Fuzzy-Spork | 0 | 0| 
-| 20220716T18:48:08Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy | 1 | 0| 
-| 20220716T17:54:35Z | Null | https://github.com/pkarakal/tsk-fuzzy-model | 0 | 0| 
-| 20220716T17:47:00Z | Null | https://github.com/homebuss/fuzzy-giggle | 0 | 0| 
-| 20220716T11:05:18Z | Null | https://github.com/sneh2909/Fuzzy-c-means-on-iris-dataset | 0 | 0| 
-| 20220716T08:51:19Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 1241 | 283| 
-| 20220716T07:39:50Z | Null | https://github.com/Fahimkibs/fuzzy-train | 0 | 0| 
-| 20220716T07:28:10Z | Null | https://github.com/emrenterasan/fuzzy | 0 | 0| 
 
 
 
