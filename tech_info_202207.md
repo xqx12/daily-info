@@ -90,6 +90,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220717T01:45:19Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 0 | 0| 
+| 20220717T00:54:58Z | Results of fulfilling both red team and blue team roles.  | https://github.com/Travis-Dominguez/Monitor_and_Exploit_a_Server | 0 | 0| 
 | 20220717T00:44:53Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.. | 0 | 0| 
 | 20220717T00:44:09Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.. | 0 | 0| 
 | 20220717T00:43:15Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.. | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220716T21:09:31Z | Null | https://github.com/yoschigamer/anime-api-exploit | 0 | 0| 
 | 20220716T21:02:25Z | Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | https://github.com/dididox99/SilentExploitPDF | 1 | 0| 
 | 20220716T20:20:20Z | The best hacks for Pixel Strike 3D (PS3D) you can find. | https://github.com/rxzyx/PS3D-Ultimate-Client | 1 | 0| 
-| 20220716T19:28:32Z | The most sought after application in roblox exploiting history, Synapse v3. | https://github.com/P-DennyGamingYT/Synapse-Beta | 0 | 0| 
 
 
 # backdoor on Github 推荐
