@@ -67,7 +67,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220716T23:41:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2994 | 423| 
 | 20220716T18:45:56Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 705 | 76| 
-| 20220716T14:32:24Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 250 | 17| 
 | 20220716T13:38:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2012 | 572| 
 
 
