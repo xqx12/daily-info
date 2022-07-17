@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220717 | 应急能力提升5：应急响应报告点评 | https://mp.weixin.qq.com/s/KR7Z6ryigj9b0YeVBQBi5A| 
+| 20220717 | 应急能力提升4:实战应急响应经验 | https://mp.weixin.qq.com/s/mw30nX-frPRlbvshYmGP-Q| 
+| 20220717 | 应急能力提升6：应急响应专题总结会 | https://mp.weixin.qq.com/s/gOwy7UdeYLLmGXxvcQESZw| 
 
 
 # CVE Github 推荐

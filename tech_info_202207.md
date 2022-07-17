@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220717 | 应急能力提升5：应急响应报告点评 | https://mp.weixin.qq.com/s/KR7Z6ryigj9b0YeVBQBi5A| 
+| 20220717 | 应急能力提升4:实战应急响应经验 | https://mp.weixin.qq.com/s/mw30nX-frPRlbvshYmGP-Q| 
+| 20220717 | 应急能力提升6：应急响应专题总结会 | https://mp.weixin.qq.com/s/gOwy7UdeYLLmGXxvcQESZw| 
 | 20220715 | 攻防演练之域控加固篇 | https://mp.weixin.qq.com/s/4-o7HzMn4Hsh2wZpyZYJAQ| 
 | 20220715 | 攻防演练之域控检测篇 | https://mp.weixin.qq.com/s/676IFhrygqVK6RRvgNEhbQ| 
 | 20220715 | 火山引擎CWPP(Elkeid) 真实对抗案例分享 | https://mp.weixin.qq.com/s/7aSoETGZvrXnQq66cujrUA| 
@@ -38,9 +41,6 @@
 | 20220713 | 云沙箱流量识别技术剖析 | http://noahblog.360.cn/yun-sha-xiang-liu-liang-shi-bie-ji-zhu-pou-xi/| 
 | 20220713 | 基于开源工具实现软件成分分析SCA | https://xz.aliyun.com/t/11492| 
 | 20220713 | Kscan: 一款纯go开发的全方位扫描器 | https://github.com/lcvvvv/kscan/| 
-| 20220713 | 疑似PurpleFox多手段持续实施攻击活动 | https://mp.weixin.qq.com/s/Fca_oOiL8oLiEUXGaErWjQ| 
-| 20220713 | 了解C4ISR，漂亮国在信息化作战还是要借鉴 | https://mp.weixin.qq.com/s/yoX5bBLWclitGvZl0n2EAw| 
-| 20220712 | 入侵模拟攻击演练平台建设 | https://www.kdocs.cn/l/clY8TCR4xSEf| 
 
 
 # CVE Github 推荐
