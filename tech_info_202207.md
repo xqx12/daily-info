@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220717T00:11:43Z | An extensible Rust-based exploitation framework designed to audit/attack AzureAD environments. | https://github.com/aress31/raadef | 0 | 0| 
 | 20220716T23:53:42Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 13 | 3| 
 | 20220716T21:09:31Z | Null | https://github.com/yoschigamer/anime-api-exploit | 0 | 0| 
 | 20220716T21:02:25Z | Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | https://github.com/dididox99/SilentExploitPDF | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20220716T13:52:56Z | This is an Aerocode base platform to exploit Aero activities with open source tools. | https://github.com/appollosputnik/aerodynamicCodeBase | 0 | 0| 
 | 20220716T12:56:45Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 663 | 168| 
 | 20220716T12:23:01Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2676 | 164| 
-| 20220716T12:21:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11717 | 2023| 
 
 
 # backdoor on Github 推荐
