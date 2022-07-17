@@ -55,6 +55,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220716T06:27:26Z | Null | https://github.com/LimeRicky84/e-commerce-backdoor | 0 | 0| 
+| 20220716T05:36:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1679 | 742| 
 | 20220716T01:30:26Z | basic lua backdoor | https://github.com/THECRAZEDPOTATTO/Roblox-Lua-backdoor | 0 | 0| 
 | 20220716T01:29:13Z | lua backdor | https://github.com/THECRAZEDPOTATTO/backdoor | 0 | 0| 
 | 20220716T01:24:11Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 523 | 103| 
@@ -64,7 +65,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220716T10:55:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2993 | 423| 
+| 20220716T23:41:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2994 | 423| 
+| 20220716T18:45:56Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 705 | 76| 
+| 20220716T14:32:24Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 250 | 17| 
+| 20220716T13:38:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2012 | 572| 
 
 
 # big4 on Github 推荐
