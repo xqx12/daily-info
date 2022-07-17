@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220717T12:20:33Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
 | 20220717T11:33:13Z | CVE-2022-24500 | CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability | https://github.com/Daro1967/CVE-2022-24500-RCE | | 
 | 20220717T08:29:42Z | 未知编号 | Null | https://github.com/5xxxxx-Y/cve-2022 | | 
 

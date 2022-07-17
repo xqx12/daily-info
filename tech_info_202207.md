@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220717T12:20:33Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
 | 20220717T11:33:13Z | CVE-2022-24500 | CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability | https://github.com/Daro1967/CVE-2022-24500-RCE | | 
 | 20220717T08:29:42Z | 未知编号 | Null | https://github.com/5xxxxx-Y/cve-2022 | | 
 | 20220716T23:06:17Z | CVE-2022-32119 | CVE-2022-32119 - Arox-Unrestricted-File-Upload | https://github.com/JC175/CVE-2022-32119 | | 
@@ -55,7 +56,6 @@
 | 20220716T02:57:20Z | CVE-2022-22978 | CVE-2022-22978 POC Project | https://github.com/aeifkz/CVE-2022-22978 | | 
 | 20220716T01:50:22Z | cve-2022-29455 | cve-2022-29455 elementor wordpress plugin xss exploit | https://github.com/alyrezo/cve-2022-29455 | | 
 | 20220715T20:58:48Z | cve-2021-4034 | Null | https://github.com/n0v4mx/cve-2021-4034 | | 
-| 20220715T10:20:42Z | cve-2022-26134 | Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server. | https://github.com/iveresk/cve-2022-26134 | | 
 
 
 # klee on Github 推荐
