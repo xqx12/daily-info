@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220718T00:39:18Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.-- | 0 | 0| 
+| 20220718T00:38:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.-- | 0 | 0| 
 | 20220718T00:36:08Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-- | 0 | 0| 
 | 20220718T00:29:16Z | Quick fix to prevent remote code execution exploit in BlazBlue: Central Fiction | https://github.com/ThingsNStuffYouKnow/BBCF-Fix | 0 | 0| 
 | 20220717T23:44:27Z | Null | https://github.com/VitorrDevX/RobloxExploit | 0 | 0| 
@@ -97,8 +99,6 @@
 | 20220717T22:31:14Z | Private Exploit | https://github.com/iamtryingtofindname/Kratos | 0 | 0| 
 | 20220717T19:40:24Z | a gui api for roblox / roblox exploits | https://github.com/monke-lol/gui-api | 0 | 0| 
 | 20220717T18:03:15Z | nDay exploit for CVE-2021-27239 | https://github.com/WizardsOfTheInternet/CVE-2021-27239 | 0 | 0| 
-| 20220717T12:08:16Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 258 | 52| 
-| 20220717T11:33:36Z | A collection of custom-written Roblox scripts. Studio scripts are used to make games and Exploit scripts are used for executors such as Evon or Synapse X. | https://github.com/ErcuHolder/Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
