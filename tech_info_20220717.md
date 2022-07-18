@@ -20,7 +20,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220717T22:49:53Z | CVE-2022-32119 | CVE-2022-32119 - Arox-Unrestricted-File-Upload | https://github.com/JC175/CVE-2022-32119 | | 
 | 20220717T19:20:51Z | CVE-2022-32119 | Null | https://github.com/trhacknon/CVE-2022-32119 | | 
 | 20220717T18:03:15Z | CVE-2021-27239 | nDay exploit for CVE-2021-27239 | https://github.com/WizardsOfTheInternet/CVE-2021-27239 | | 
 | 20220717T13:51:18Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
