@@ -24,7 +24,6 @@
 | 20220717T19:20:51Z | CVE-2022-32119 | Null | https://github.com/trhacknon/CVE-2022-32119 | | 
 | 20220717T18:03:15Z | CVE-2021-27239 | nDay exploit for CVE-2021-27239 | https://github.com/WizardsOfTheInternet/CVE-2021-27239 | | 
 | 20220717T13:51:18Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
-| 20220717T11:33:13Z | CVE-2022-24500 | CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability | https://github.com/Daro1967/CVE-2022-24500-RCE | | 
 | 20220717T08:29:42Z | 未知编号 | Null | https://github.com/5xxxxx-Y/cve-2022 | | 
 
 
