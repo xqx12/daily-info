@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220718T01:10:36Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 682 | 174| 
 | 20220718T01:02:57Z | What you%ll learn Learn Fundamental AWS Serverless Services for Web Development Build REST APIs & GraphQL APIs with AWS Serverless Services Apply the Principle of Least Privilege for in Serverless Architectures Use Infrastructure As Code to Provision Cloud Resources Implement Access Controls to Serverless APIs Deploy Serverless Applications on Multiple Environments (Dev/Test/Staging/Prod) Build a Continuous Delivery Pipeline with AWS CodePipeline Write Acceptance Tests for Serverless Backends Secure Serverless Web APIs against Common Web Exploits Learn to Tackle Real-world Challenges with Serverless Architectures | https://github.com/efuraimuJS/Udemy---Building-REST-APIs-with-Serverless-Framework-on-AWS | 0 | 0| 
 | 20220718T00:39:18Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.-- | 0 | 0| 
 | 20220718T00:38:22Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.-- | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220717T23:21:38Z | Please, exploit me! | https://github.com/Silva97/exploit-me | 4 | 0| 
 | 20220717T23:19:30Z | A free and open-source exploit tool, auto farmer, and bot for Wizard101. | https://github.com/Slackaduts/Deimos-Wizard101 | 1 | 0| 
 | 20220717T22:31:14Z | Private Exploit | https://github.com/iamtryingtofindname/Kratos | 0 | 0| 
-| 20220717T19:40:24Z | a gui api for roblox / roblox exploits | https://github.com/monke-lol/gui-api | 0 | 0| 
 
 
 # backdoor on Github 推荐
