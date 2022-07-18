@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220718T01:38:16Z | Leux Backdoor Latest Version Clean Obfuscated Jar | https://github.com/DrippedBones/CLEAN-Leux-Backdoor-0.9.8-OBF | 0 | 0| 
 | 20220717T12:31:48Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 342 | 43| 
 | 20220717T11:07:29Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 37 | 16| 
 | 20220717T08:14:33Z | Greenhat is a general backdoor. Has some added functionalities that can be used to prank the victims too. | https://github.com/metaladmiral/Greenhat | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20220716T01:30:26Z | basic lua backdoor | https://github.com/THECRAZEDPOTATTO/Roblox-Lua-backdoor | 0 | 0| 
 | 20220716T01:29:13Z | lua backdor | https://github.com/THECRAZEDPOTATTO/backdoor | 0 | 0| 
 | 20220716T01:24:11Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 523 | 103| 
-| 20220716T00:54:31Z | Backdoor.exe | https://github.com/Boblogger27/backdoor.exe-v6 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -142,7 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220717T23:55:36Z | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target%s server and by means of advanced Google searches (Google Dorking). | https://github.com/m3n0sd0n4ld/GooFuzz | 418 | 55| 
+| 20220718T01:40:58Z | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target%s server and by means of advanced Google searches (Google Dorking). | https://github.com/m3n0sd0n4ld/GooFuzz | 419 | 55| 
 | 20220717T21:51:38Z | Playing around with Official Fuzzing Tutorial | https://github.com/tzaffi/go-fuzzing-tutorial | 0 | 0| 
 | 20220717T21:50:04Z | Null | https://github.com/XileonXL/TFG-sanitizers-and-fuzzing | 0 | 0| 
 | 20220717T21:01:50Z | Null | https://github.com/Alfalmi/fuzzy_search_file | 0 | 0| 

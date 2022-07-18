@@ -78,7 +78,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220717T23:55:36Z | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target%s server and by means of advanced Google searches (Google Dorking). | https://github.com/m3n0sd0n4ld/GooFuzz | 418 | 55| 
 | 20220717T21:51:38Z | Playing around with Official Fuzzing Tutorial | https://github.com/tzaffi/go-fuzzing-tutorial | 0 | 0| 
 | 20220717T21:50:04Z | Null | https://github.com/XileonXL/TFG-sanitizers-and-fuzzing | 0 | 0| 
 | 20220717T21:01:50Z | Null | https://github.com/Alfalmi/fuzzy_search_file | 0 | 0| 
@@ -88,6 +87,7 @@
 | 20220717T17:47:01Z | A fuzzy python program that uses fuzzywuzzy and pandas to compares selected strings in two different dataframes (imported as csv) about their similarity (if no exact match possible) and prints the results #TheLevenshteinDistance #fuzzywuzzy #pandas | https://github.com/stefguler/Fuzzy-String-Matching | 0 | 0| 
 | 20220717T17:25:58Z | Juego con los pencos del erasmus | https://github.com/Chon33/fuzzy-potato | 0 | 0| 
 | 20220717T17:21:56Z | Similar phrases clustering based on fuzzy-match. | https://github.com/SClovesgtx/phrases-fuzzy-clusters | 0 | 0| 
+| 20220717T12:19:41Z | Null | https://github.com/William1617/fuzzy_control | 0 | 0| 
 
 
 
