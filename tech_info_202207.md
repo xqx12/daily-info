@@ -134,8 +134,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220718T06:50:06Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 8 | 2| 
 | 20220705T14:28:28Z | ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper) | https://github.com/nsg-ethz/ditto | 10 | 2| 
-| 20220705T07:07:41Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 7 | 2| 
 | 20220704T09:22:07Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 8 | 0| 
 
 
@@ -148,10 +148,10 @@
 | 20220718T21:38:38Z | Null | https://github.com/Nephedee/fuzzy-tribble | 0 | 0| 
 | 20220718T20:43:03Z | Introdução ao HTML | https://github.com/laurasoares30/fuzzy-meme | 0 | 0| 
 | 20220718T18:48:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 862 | 103| 
+| 20220718T16:17:40Z | Vulnerabilities Scan；15000+PoC漏洞扫描；19种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 269 | 48| 
 | 20220718T13:48:14Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1656 | 187| 
 | 20220718T12:47:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7595 | 1631| 
 | 20220718T01:43:07Z | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target%s server and by means of advanced Google searches (Google Dorking). | https://github.com/m3n0sd0n4ld/GooFuzz | 420 | 55| 
-| 20220717T21:51:38Z | Playing around with Official Fuzzing Tutorial | https://github.com/tzaffi/go-fuzzing-tutorial | 0 | 0| 
 
 
 
