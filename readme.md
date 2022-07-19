@@ -22,7 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220719T11:51:57Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
+| 20220719T12:02:51Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220719T10:29:32Z | cve-2022-30333 | Null | https://github.com/rbowes-r7/unrar-cve-2022-30333-poc | | 
 | 20220719T07:41:39Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/cybersecurityresearcher/CVE-2022-26809-RCE-POC | | 
 | 20220719T07:16:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j | | 
@@ -38,6 +38,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T08:00:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 240 | 58| 
+| 20220719T07:48:57Z | Null | https://github.com/S2eongjin/S2eongjin.github.io | 0 | 0| 
+| 20220719T06:45:56Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 56 | 6| 
 
 
 # exploit on Github 推荐
@@ -67,6 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T09:13:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
+| 20220719T08:00:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 240 | 58| 
+| 20220719T06:44:02Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 706 | 76| 
 
 
 # big4 on Github 推荐
