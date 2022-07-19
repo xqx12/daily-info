@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T00:18:13Z | What you%ll learn Learn Fundamental AWS Serverless Services for Web Development Build REST APIs & GraphQL APIs with AWS Serverless Services Apply the Principle of Least Privilege for in Serverless Architectures Use Infrastructure As Code to Provision Cloud Resources Implement Access Controls to Serverless APIs Deploy Serverless Applications on Multiple Environments (Dev/Test/Staging/Prod) Build a Continuous Delivery Pipeline with AWS CodePipeline Write Acceptance Tests for Serverless Backends Secure Serverless Web APIs against Common Web Exploits Learn to Tackle Real-world Challenges with Serverless Architectures | https://github.com/efuraimuJS/Udemy---Building-REST-APIs-with-Serverless-Framework-on-AWS | 1 | 0| 
 | 20220719T00:06:55Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1043 | 92| 
 | 20220719T00:04:39Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 5 | 1| 
 | 20220718T21:50:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 691 | 179| 
@@ -98,7 +99,6 @@
 | 20220718T15:12:59Z | Please, exploit me! | https://github.com/Silva97/exploit-me | 9 | 0| 
 | 20220718T14:18:02Z | Web Security Scanner & Exploitation | https://github.com/gotr00t0day/Gsec | 2 | 0| 
 | 20220718T12:53:26Z | We exploit the provincial variability of COVID-19 cases registered in Italy to select the territorial predictors of the pandemic. Absent an established theoretical diffusion model, we apply machine learning to isolate, among 77 potential predictors, those that minimize the out-of-sample prediction error. We first estimate the model considering cumulative cases registered before the containment measures displayed their effects (i.e. at the peak of the epidemic in March 2020), then cases registered between the peak date and when containment measures were relaxed in early June | https://github.com/Dubeyrock/project--1- | 0 | 0| 
-| 20220718T12:52:03Z | Humanity has decided to exploit the resources contained in asteroids. In order to do this, the settlers have to build a space station in the asteroid belt. The resources to build a space station would be too expensive to transport there, so the settlers have to mine them from the asteroids.  Players of the game control the settlers. Settlers wander in the asteroid belt with single person spaceships looking for resources. | https://github.com/bunny401/Asteroid-Mining-Game | 0 | 0| 
 
 
 # backdoor on Github 推荐
