@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T01:02:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-. | 0 | 0| 
+| 20220719T01:01:25Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.-. | 0 | 0| 
 | 20220719T01:00:38Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.-. | 0 | 0| 
 | 20220719T00:18:13Z | What you%ll learn Learn Fundamental AWS Serverless Services for Web Development Build REST APIs & GraphQL APIs with AWS Serverless Services Apply the Principle of Least Privilege for in Serverless Architectures Use Infrastructure As Code to Provision Cloud Resources Implement Access Controls to Serverless APIs Deploy Serverless Applications on Multiple Environments (Dev/Test/Staging/Prod) Build a Continuous Delivery Pipeline with AWS CodePipeline Write Acceptance Tests for Serverless Backends Secure Serverless Web APIs against Common Web Exploits Learn to Tackle Real-world Challenges with Serverless Architectures | https://github.com/efuraimuJS/Udemy---Building-REST-APIs-with-Serverless-Framework-on-AWS | 1 | 0| 
 | 20220719T00:06:55Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1043 | 92| 
@@ -97,8 +99,6 @@
 | 20220718T21:36:38Z | A global patch for multiple ways to crash servers including exploits and other methods. Adding more features soon! | https://github.com/summiner/ServerPatches | 0 | 0| 
 | 20220718T21:12:12Z | The multi-armed bandit problem provides a fundamental concept for reinforcement learning.  The problem setting is that there are multiple actions that can be taken and the distribution of rewards given the action are unknown.  In this case, uncertainty is at its extreme but we must find the most optimal action to take over the long-run.  The problem constitutes a trade-off between exploration and exploitation when making decisions under uncertainty.  The goal of the project was aimed at programming an agent to find the most optimal action by making decisions based on exploration and exploitation probabilities and ultimately find the best strategy for a basket of test-bed multi-armed bandit problems.   | https://github.com/laz-ai/reinforcement-learning | 0 | 0| 
 | 20220718T20:23:17Z | Exploits , MIRAI AND SCANNERS , Layer4 Methods , Layer7 Methods , UDP METHODS , TCP METHODS , BRUTERS , VULN , LISTS | https://github.com/DANO-AMP/DDOS-project | 15 | 15| 
-| 20220718T15:12:59Z | Please, exploit me! | https://github.com/Silva97/exploit-me | 9 | 0| 
-| 20220718T14:18:02Z | Web Security Scanner & Exploitation | https://github.com/gotr00t0day/Gsec | 2 | 0| 
 
 
 # backdoor on Github 推荐
