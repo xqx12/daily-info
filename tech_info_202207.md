@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T00:52:47Z | Null | https://github.com/RTgamerr/Backdoor | 0 | 0| 
 | 20220718T22:12:11Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1681 | 742| 
 | 20220718T20:35:21Z | Backdoor Vulnerability Detection by Feeding Hard-coded Credentials to Bidirectional Encoder Representations from Transformers. | https://github.com/biringaChi/VulBERT | 0 | 0| 
 | 20220718T13:03:00Z | The best Undercover Remote Access Trojans creator | https://github.com/UsboKirishima/WestCoast | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20220718T01:38:16Z | Leux Backdoor Latest Version Clean Obfuscated Jar | https://github.com/DrippedBones/CLEAN-Leux-Backdoor-0.9.8-OBF | 0 | 0| 
 | 20220717T12:31:48Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 342 | 43| 
 | 20220717T11:07:29Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 37 | 16| 
-| 20220717T08:14:33Z | Greenhat is a general backdoor. Has some added functionalities that can be used to prank the victims too. | https://github.com/metaladmiral/Greenhat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
