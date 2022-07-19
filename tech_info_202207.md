@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T01:29:08Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 29 | 13| 
 | 20220719T01:02:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-. | 0 | 0| 
 | 20220719T01:01:25Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.-. | 0 | 0| 
 | 20220719T01:00:38Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.-. | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220718T21:50:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 691 | 179| 
 | 20220718T21:36:38Z | A global patch for multiple ways to crash servers including exploits and other methods. Adding more features soon! | https://github.com/summiner/ServerPatches | 0 | 0| 
 | 20220718T21:12:12Z | The multi-armed bandit problem provides a fundamental concept for reinforcement learning.  The problem setting is that there are multiple actions that can be taken and the distribution of rewards given the action are unknown.  In this case, uncertainty is at its extreme but we must find the most optimal action to take over the long-run.  The problem constitutes a trade-off between exploration and exploitation when making decisions under uncertainty.  The goal of the project was aimed at programming an agent to find the most optimal action by making decisions based on exploration and exploitation probabilities and ultimately find the best strategy for a basket of test-bed multi-armed bandit problems.   | https://github.com/laz-ai/reinforcement-learning | 0 | 0| 
-| 20220718T20:23:17Z | Exploits , MIRAI AND SCANNERS , Layer4 Methods , Layer7 Methods , UDP METHODS , TCP METHODS , BRUTERS , VULN , LISTS | https://github.com/DANO-AMP/DDOS-project | 15 | 15| 
 
 
 # backdoor on Github 推荐
