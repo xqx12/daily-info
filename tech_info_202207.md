@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220719T12:27:04Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 387 | 76| 
+| 20220719T12:32:05Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 388 | 76| 
 | 20220719T11:51:02Z | Null | https://github.com/HackVerseHV/HackVerse-Exploit | 0 | 0| 
 | 20220719T11:24:47Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 653 | 52| 
 | 20220719T11:09:40Z | Some tricks using in CTFs event | https://github.com/Trumpiter-max/Tricks-in-web-exploit | 0 | 0| 
