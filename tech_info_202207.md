@@ -119,10 +119,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T12:24:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3000 | 425| 
 | 20220719T09:13:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
 | 20220719T08:00:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 240 | 58| 
 | 20220719T06:44:02Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 706 | 76| 
-| 20220718T16:21:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2999 | 425| 
 | 20220718T12:56:11Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 256 | 18| 
 | 20220718T06:31:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2013 | 572| 
 | 20220715T09:09:34Z | Fault Localization in Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis | https://github.com/javitroya/sbfl-symbolic-execution-mt | 0 | 0| 
