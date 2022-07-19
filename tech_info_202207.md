@@ -142,8 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220719T00:57:24Z | Null | https://github.com/noah35becker/fuzzy-enigma | 0 | 0| 
-| 20220719T00:53:58Z | Vulnerabilities Scan；15000+PoC漏洞扫描；19种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 270 | 48| 
+| 20220719T01:22:27Z | Vulnerabilities Scan；15000+PoC漏洞扫描；19种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 271 | 48| 
+| 20220719T01:18:57Z | Null | https://github.com/noah35becker/fuzzy-enigma | 0 | 0| 
 | 20220719T00:06:03Z | Null | https://github.com/Nephedee/fuzzy-octo-guide | 0 | 0| 
 | 20220719T00:03:36Z | First coding project ever!!! | https://github.com/A-Altemara/Fuzzypaws-Basic-Website | 0 | 0| 
 | 20220718T22:59:10Z | Null | https://github.com/leonidk/fuzzy-metaballs | 0 | 0| 
