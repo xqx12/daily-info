@@ -119,6 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T12:44:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 41| 
 | 20220719T12:24:35Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3000 | 425| 
 | 20220719T09:13:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
 | 20220719T08:00:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 240 | 58| 
@@ -128,7 +129,6 @@
 | 20220715T09:09:34Z | Fault Localization in Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis | https://github.com/javitroya/sbfl-symbolic-execution-mt | 0 | 0| 
 | 20220714T20:25:47Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 17 | 4| 
 | 20220714T06:41:57Z | Multi-solver dynamic symbolic execution for JavaScript | https://github.com/ArathaJS/aratha | 5 | 3| 
-| 20220709T13:49:16Z | Symbolic Execution Playground, Z3 mostly | https://github.com/rojaster/symex | 0 | 0| 
 
 
 # big4 on Github 推荐
