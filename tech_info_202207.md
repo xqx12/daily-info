@@ -90,7 +90,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220719T00:06:55Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1043 | 92| 
-| 20220719T00:04:39Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 5 | 0| 
+| 20220719T00:04:39Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 5 | 1| 
 | 20220718T21:50:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 691 | 179| 
 | 20220718T21:36:38Z | A global patch for multiple ways to crash servers including exploits and other methods. Adding more features soon! | https://github.com/summiner/ServerPatches | 0 | 0| 
 | 20220718T21:12:12Z | The multi-armed bandit problem provides a fundamental concept for reinforcement learning.  The problem setting is that there are multiple actions that can be taken and the distribution of rewards given the action are unknown.  In this case, uncertainty is at its extreme but we must find the most optimal action to take over the long-run.  The problem constitutes a trade-off between exploration and exploitation when making decisions under uncertainty.  The goal of the project was aimed at programming an agent to find the most optimal action by making decisions based on exploration and exploitation probabilities and ultimately find the best strategy for a basket of test-bed multi-armed bandit problems.   | https://github.com/laz-ai/reinforcement-learning | 0 | 0| 
@@ -119,10 +119,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220718T11:44:09Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 255 | 18| 
-| 20220718T08:34:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2996 | 424| 
+| 20220718T16:21:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 2999 | 424| 
+| 20220718T14:57:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
+| 20220718T12:56:11Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 256 | 18| 
 | 20220718T06:31:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2013 | 572| 
-| 20220717T20:43:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
 | 20220716T18:45:56Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 705 | 76| 
 | 20220715T18:51:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 239 | 58| 
 | 20220715T09:09:34Z | Fault Localization in Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis | https://github.com/javitroya/sbfl-symbolic-execution-mt | 0 | 0| 
