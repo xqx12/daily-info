@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T01:53:43Z | Null | https://github.com/r4yX/exploits | 0 | 0| 
 | 20220719T01:29:08Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 29 | 13| 
 | 20220719T01:02:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-. | 0 | 0| 
 | 20220719T01:01:25Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.-. | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220719T00:04:39Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 5 | 1| 
 | 20220718T21:50:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 691 | 179| 
 | 20220718T21:36:38Z | A global patch for multiple ways to crash servers including exploits and other methods. Adding more features soon! | https://github.com/summiner/ServerPatches | 0 | 0| 
-| 20220718T21:12:12Z | The multi-armed bandit problem provides a fundamental concept for reinforcement learning.  The problem setting is that there are multiple actions that can be taken and the distribution of rewards given the action are unknown.  In this case, uncertainty is at its extreme but we must find the most optimal action to take over the long-run.  The problem constitutes a trade-off between exploration and exploitation when making decisions under uncertainty.  The goal of the project was aimed at programming an agent to find the most optimal action by making decisions based on exploration and exploitation probabilities and ultimately find the best strategy for a basket of test-bed multi-armed bandit problems.   | https://github.com/laz-ai/reinforcement-learning | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -142,8 +142,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T01:48:02Z | Vulnerabilities Scan；15000+PoC漏洞扫描；19种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 272 | 48| 
 | 20220719T01:27:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7596 | 1631| 
-| 20220719T01:22:27Z | Vulnerabilities Scan；15000+PoC漏洞扫描；19种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 271 | 48| 
 | 20220719T01:18:57Z | Null | https://github.com/noah35becker/fuzzy-enigma | 0 | 0| 
 | 20220719T00:06:03Z | Null | https://github.com/Nephedee/fuzzy-octo-guide | 0 | 0| 
 | 20220719T00:03:36Z | First coding project ever!!! | https://github.com/A-Altemara/Fuzzypaws-Basic-Website | 0 | 0| 
@@ -151,7 +151,7 @@
 | 20220718T21:38:38Z | Null | https://github.com/Nephedee/fuzzy-tribble | 0 | 0| 
 | 20220718T20:43:03Z | Introdução ao HTML | https://github.com/laurasoares30/fuzzy-meme | 0 | 0| 
 | 20220718T18:48:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 862 | 103| 
-| 20220718T13:48:14Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1656 | 187| 
+| 20220718T16:54:04Z | Null | https://github.com/cacaview/fuzzy-journey | 0 | 0| 
 
 
 
