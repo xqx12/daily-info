@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220719T01:53:43Z | Null | https://github.com/r4yX/exploits | 0 | 0| 
+| 20220719T01:56:19Z | Null | https://github.com/r4yX/exploits | 0 | 0| 
 | 20220719T01:29:08Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 29 | 13| 
 | 20220719T01:02:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-. | 0 | 0| 
 | 20220719T01:01:25Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.-. | 0 | 0| 
@@ -142,6 +142,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T02:00:21Z | Null | https://github.com/ejackson1228/fuzzy-broccoli | 0 | 0| 
 | 20220719T01:48:02Z | Vulnerabilities Scan；15000+PoC漏洞扫描；19种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 272 | 48| 
 | 20220719T01:27:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7596 | 1631| 
 | 20220719T01:18:57Z | Null | https://github.com/noah35becker/fuzzy-enigma | 0 | 0| 
@@ -151,7 +152,6 @@
 | 20220718T21:38:38Z | Null | https://github.com/Nephedee/fuzzy-tribble | 0 | 0| 
 | 20220718T20:43:03Z | Introdução ao HTML | https://github.com/laurasoares30/fuzzy-meme | 0 | 0| 
 | 20220718T18:48:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 862 | 103| 
-| 20220718T16:54:04Z | Null | https://github.com/cacaview/fuzzy-journey | 0 | 0| 
 
 
 
