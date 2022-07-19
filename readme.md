@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T12:53:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3189 | 387| 
 | 20220719T12:51:08Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 389 | 76| 
 | 20220719T11:51:02Z | Null | https://github.com/HackVerseHV/HackVerse-Exploit | 0 | 0| 
 | 20220719T11:24:47Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 653 | 52| 
@@ -55,7 +56,6 @@
 | 20220719T09:53:47Z | Popular Roblox Exploit | https://github.com/krnl-exploit/krnl-exploit.github.io | 0 | 0| 
 | 20220719T09:38:12Z | ECCV 2022 paper %Efficient One-stage Video Object Detection by Exploiting Temporal Consistency% | https://github.com/guanxiongsun/EOVOD | 0 | 0| 
 | 20220719T06:33:48Z | Scenes and use loads of vulnerabilities | https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library | 1 | 0| 
-| 20220719T06:02:00Z | 🦠🔬 Forta agent that detect deployment of smart contracts containing an exploit function | https://github.com/kovart/forta-attack-simulation | 14 | 1| 
 
 
 # backdoor on Github 推荐
@@ -85,7 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220719T12:41:29Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 309 | 59| 
+| 20220719T12:57:18Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 310 | 59| 
 | 20220719T12:20:31Z | Null | https://github.com/lightlessdays/fuzzy-doodle | 0 | 0| 
 | 20220719T11:29:20Z | Null | https://github.com/MohdZakir123/Fuzzy-Mango | 0 | 0| 
 | 20220719T10:27:33Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 174 | 26| 
