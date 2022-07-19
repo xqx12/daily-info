@@ -31,38 +31,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220719 | 如何从 0 到 1 打造国防领域的产品 | https://mp.weixin.qq.com/s/droA3PllKFf_CSlEE4L-hQ| 
+| 20220719 | 2022 软件供应链安全技术白皮书 | http://blog.nsfocus.net/wp-content/uploads/2022/07/NSFOCUS.pdf| 
+| 20220719 | 我认为网络安全工具的未来：开篇 | https://mp.weixin.qq.com/s/imLgat7aQA-8NQoH-mxpYw| 
+| 20220719 | linux权限维持 | https://www.anquanke.com/post/id/276174| 
+| 20220719 | 反-反蜜罐：以三个反蜜罐插件的缺陷为例 | https://drivertom.blogspot.com/2022/07/blog-post.html| 
+| 20220719 | 基于追踪标记的WAF设计思路 | https://www.freebuf.com/articles/web/338814.html| 
 | 20220718 | SecWiki周刊（第437期) | https://www.sec-wiki.com/weekly/437| 
 | 20220717 | 应急能力提升5：应急响应报告点评 | https://mp.weixin.qq.com/s/KR7Z6ryigj9b0YeVBQBi5A| 
 | 20220717 | 应急能力提升4:实战应急响应经验 | https://mp.weixin.qq.com/s/mw30nX-frPRlbvshYmGP-Q| 
 | 20220717 | 应急能力提升6：应急响应专题总结会 | https://mp.weixin.qq.com/s/gOwy7UdeYLLmGXxvcQESZw| 
-| 20220715 | 攻防演练之域控加固篇 | https://mp.weixin.qq.com/s/4-o7HzMn4Hsh2wZpyZYJAQ| 
-| 20220715 | 攻防演练之域控检测篇 | https://mp.weixin.qq.com/s/676IFhrygqVK6RRvgNEhbQ| 
-| 20220715 | 火山引擎CWPP(Elkeid) 真实对抗案例分享 | https://mp.weixin.qq.com/s/7aSoETGZvrXnQq66cujrUA| 
-| 20220715 | 软件供应链安全风险分析研究 | https://mp.weixin.qq.com/s/54z2GzyblD3PTfu7mZjm7Q| 
-| 20220713 | 云沙箱流量识别技术剖析 | http://noahblog.360.cn/yun-sha-xiang-liu-liang-shi-bie-ji-zhu-pou-xi/| 
-| 20220713 | 基于开源工具实现软件成分分析SCA | https://xz.aliyun.com/t/11492| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220719T11:51:57Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
+| 20220719T10:29:32Z | cve-2022-30333 | Null | https://github.com/rbowes-r7/unrar-cve-2022-30333-poc | | 
+| 20220719T07:41:39Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/cybersecurityresearcher/CVE-2022-26809-RCE-POC | | 
+| 20220719T07:16:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j | | 
+| 20220719T05:58:13Z | CVE-2022-35899 | Unquoted Service Path Asus GameSdk | https://github.com/AngeloPioAmirante/CVE-2022-35899 | | 
 | 20220718T20:33:10Z | CVE-2021-44228 | Remote Code Execution attacks are one of the most frequent methods employed by cybercriminals to compromise susceptible computers. In the previous year, a serious zero-day vulnerability was identified in Log4j, a java program used by developers for debugging and application modification loggings. This is also a significant vulnerability that affects the so-called Ghidra reverse engineering tool. | https://github.com/tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228 | | 
 | 20220718T20:32:54Z | CVE-2022-23614 | PoC for CVE-2022-23614 (Twig sort filter code execution/sandbox bypass) | https://github.com/davwwwx/CVE-2022-23614 | | 
 | 20220718T17:52:47Z | CVE-2022-24086 | Verifed Proof of Concept on CVE-2022-24086 RCE | https://github.com/Cory65/CVE-2022-24086-POC | | 
-| 20220718T16:31:25Z | cve-2022-30333 | Null | https://github.com/rbowes-r7/unrar-cve-2022-30333-poc | | 
-| 20220718T16:28:57Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220718T13:11:03Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
 | 20220718T11:38:43Z | CVE-2022-20138 | Null | https://github.com/ShaikUsaf/ShaikUsaf-frameworks_base_AOSP10_r33_CVE-2022-20138 | | 
-| 20220718T11:20:13Z | CVE-2021-20138 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138 | | 
-| 20220718T08:37:07Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/flux10n/CVE-2022-0847-DirtyPipe-Exploits | | 
-| 20220718T08:21:24Z | CVE-2022-22029 | Null | https://github.com/mchoudhary15/CVE-2022-22029-NFS-Server- | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T07:34:07Z | Null | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-backend | 0 | 0| 
 | 20220718T09:51:01Z | 최원익, 김영수, 오창훈 | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-frontend | 0 | 0| 
-| 20220718T07:06:29Z | Null | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-backend | 0 | 0| 
 | 20220718T06:31:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2013 | 572| 
 | 20220715T12:40:45Z | Null | https://github.com/kleenex1/kleenex1.github.io | 0 | 0| 
 | 20220715T11:07:04Z | Null | https://github.com/Ruri963/klee-website | 0 | 0| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220719T01:56:19Z | Null | https://github.com/r4yX/exploits | 0 | 0| 
-| 20220719T01:29:08Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 29 | 13| 
-| 20220719T01:02:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-. | 0 | 0| 
-| 20220719T01:01:25Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.-. | 0 | 0| 
-| 20220719T01:00:38Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.-. | 0 | 0| 
-| 20220719T00:18:13Z | What you%ll learn Learn Fundamental AWS Serverless Services for Web Development Build REST APIs & GraphQL APIs with AWS Serverless Services Apply the Principle of Least Privilege for in Serverless Architectures Use Infrastructure As Code to Provision Cloud Resources Implement Access Controls to Serverless APIs Deploy Serverless Applications on Multiple Environments (Dev/Test/Staging/Prod) Build a Continuous Delivery Pipeline with AWS CodePipeline Write Acceptance Tests for Serverless Backends Secure Serverless Web APIs against Common Web Exploits Learn to Tackle Real-world Challenges with Serverless Architectures | https://github.com/efuraimuJS/Udemy---Building-REST-APIs-with-Serverless-Framework-on-AWS | 1 | 0| 
-| 20220719T00:06:55Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1043 | 92| 
-| 20220719T00:04:39Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 5 | 1| 
-| 20220718T21:50:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 691 | 179| 
-| 20220718T21:36:38Z | A global patch for multiple ways to crash servers including exploits and other methods. Adding more features soon! | https://github.com/summiner/ServerPatches | 0 | 0| 
+| 20220719T11:51:02Z | Null | https://github.com/HackVerseHV/HackVerse-Exploit | 0 | 0| 
+| 20220719T11:35:01Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 384 | 76| 
+| 20220719T11:24:47Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 653 | 52| 
+| 20220719T11:09:40Z | Some tricks using in CTFs event | https://github.com/Trumpiter-max/Tricks-in-web-exploit | 0 | 0| 
+| 20220719T10:13:37Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 487 | 58| 
+| 20220719T10:06:30Z | Please, exploit me! | https://github.com/Silva97/exploit-me | 11 | 0| 
+| 20220719T09:53:47Z | Popular Roblox Exploit | https://github.com/krnl-exploit/krnl-exploit.github.io | 0 | 0| 
+| 20220719T09:38:12Z | ECCV 2022 paper %Efficient One-stage Video Object Detection by Exploiting Temporal Consistency% | https://github.com/guanxiongsun/EOVOD | 0 | 0| 
+| 20220719T06:33:48Z | Scenes and use loads of vulnerabilities | https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library | 1 | 0| 
+| 20220719T06:02:00Z | 🦠🔬 Forta agent that detect deployment of smart contracts containing an exploit function | https://github.com/kovart/forta-attack-simulation | 14 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T10:12:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1683 | 742| 
+| 20220719T05:42:00Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 523 | 103| 
+| 20220719T03:17:59Z | Null | https://github.com/kirula0626/Backdoor-Command-Execution-Vulnerability-Project | 0 | 0| 
 | 20220719T00:52:47Z | Null | https://github.com/RTgamerr/Backdoor | 0 | 0| 
-| 20220718T22:12:11Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1681 | 742| 
 | 20220718T20:35:21Z | Backdoor Vulnerability Detection by Feeding Hard-coded Credentials to Bidirectional Encoder Representations from Transformers. | https://github.com/biringaChi/VulBERT | 0 | 0| 
 | 20220718T13:03:00Z | The best Undercover Remote Access Trojans creator | https://github.com/UsboKirishima/WestCoast | 0 | 0| 
 | 20220718T11:16:25Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 2 | 0| 
 | 20220718T09:12:20Z | Null | https://github.com/xjc18510640680/BackdoorTools | 0 | 0| 
 | 20220718T03:42:23Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 82 | 26| 
 | 20220718T01:38:16Z | Leux Backdoor Latest Version Clean Obfuscated Jar | https://github.com/DrippedBones/CLEAN-Leux-Backdoor-0.9.8-OBF | 0 | 0| 
-| 20220717T12:31:48Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 342 | 43| 
-| 20220717T11:07:29Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 37 | 16| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T11:41:02Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 301 | 58| 
+| 20220719T11:29:20Z | Null | https://github.com/MohdZakir123/Fuzzy-Mango | 0 | 0| 
+| 20220719T10:27:33Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 174 | 26| 
+| 20220719T10:05:33Z | Tool for marking and identifying documents based on fuzzy hashing for tracking by a DLP-system. | https://github.com/aaaaaaaalesha/fuzzy_docmarking_tool | 0 | 0| 
+| 20220719T09:47:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7600 | 1632| 
+| 20220719T09:27:10Z | Null | https://github.com/CATSHAKE04/fuzzy-guacamole | 0 | 0| 
+| 20220719T07:30:41Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1405 | 63| 
 | 20220719T02:00:21Z | Null | https://github.com/ejackson1228/fuzzy-broccoli | 0 | 0| 
-| 20220719T01:48:02Z | Vulnerabilities Scan；15000+PoC漏洞扫描；19种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 272 | 48| 
-| 20220719T01:27:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7596 | 1631| 
 | 20220719T01:18:57Z | Null | https://github.com/noah35becker/fuzzy-enigma | 0 | 0| 
 | 20220719T00:06:03Z | Null | https://github.com/Nephedee/fuzzy-octo-guide | 0 | 0| 
-| 20220719T00:03:36Z | First coding project ever!!! | https://github.com/A-Altemara/Fuzzypaws-Basic-Website | 0 | 0| 
-| 20220718T22:59:10Z | Null | https://github.com/leonidk/fuzzy-metaballs | 0 | 0| 
-| 20220718T21:38:38Z | Null | https://github.com/Nephedee/fuzzy-tribble | 0 | 0| 
-| 20220718T20:43:03Z | Introdução ao HTML | https://github.com/laurasoares30/fuzzy-meme | 0 | 0| 
-| 20220718T18:48:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 862 | 103| 
 
 
 
