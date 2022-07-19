@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T00:57:24Z | Null | https://github.com/noah35becker/fuzzy-enigma | 0 | 0| 
+| 20220719T00:53:58Z | Vulnerabilities Scan；15000+PoC漏洞扫描；19种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 270 | 48| 
 | 20220719T00:06:03Z | Null | https://github.com/Nephedee/fuzzy-octo-guide | 0 | 0| 
 | 20220719T00:03:36Z | First coding project ever!!! | https://github.com/A-Altemara/Fuzzypaws-Basic-Website | 0 | 0| 
 | 20220718T22:59:10Z | Null | https://github.com/leonidk/fuzzy-metaballs | 0 | 0| 
 | 20220718T21:38:38Z | Null | https://github.com/Nephedee/fuzzy-tribble | 0 | 0| 
 | 20220718T20:43:03Z | Introdução ao HTML | https://github.com/laurasoares30/fuzzy-meme | 0 | 0| 
 | 20220718T18:48:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 862 | 103| 
-| 20220718T16:17:40Z | Vulnerabilities Scan；15000+PoC漏洞扫描；19种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 269 | 48| 
 | 20220718T13:48:14Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1656 | 187| 
 | 20220718T12:47:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7595 | 1631| 
-| 20220718T01:43:07Z | GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target%s server and by means of advanced Google searches (Google Dorking). | https://github.com/m3n0sd0n4ld/GooFuzz | 420 | 55| 
 
 
 
