@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220720T02:02:55Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220720T01:19:58Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
-| 20220720T00:12:16Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220719T23:41:47Z | CVE-2022-33891 | PoC for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 | 20220719T19:02:24Z | CVE-2022-23614 | PoC for CVE-2022-23614 (Twig sort filter code execution/sandbox bypass) | https://github.com/davwwwx/CVE-2022-23614 | | 
 | 20220719T14:00:51Z | 未知编号 | Null | https://github.com/abhyanandsharma311099/cve2021-41073 | | 
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220720T01:57:15Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 340 | 66| 
+| 20220720T02:08:07Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 343 | 66| 
 | 20220720T00:35:21Z | Null | https://github.com/prettytotoro/fuzzySearch | 0 | 0| 
 | 20220719T22:33:00Z | Null | https://github.com/leonidk/fuzzy-metaballs | 0 | 0| 
 | 20220719T22:08:06Z | Null | https://github.com/SashMashedpotatoesquashed-padhi/fuzzy-octo-sniffle135 | 0 | 0| 
