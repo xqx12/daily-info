@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220720 | ESET 研究员发现未知攻击组织利用云存储作为 C&C 信道窃取 macOS 用户的隐私数据 | https://www.welivesecurity.com/2022/07/19/i-see-what-you-did-there-look-cloudmensis-macos-spyware/| 
+| 20220720 | OPC UA .NET Standard Trusted Application Check Bypass | http://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/| 
+| 20220720 | Android 11 以上设备开始支持更安全的 DNS-over-HTTP/3 协议 | https://security.googleblog.com/2022/07/dns-over-http3-in-android.html| 
+| 20220720 | Avalanche 企业移动设备管理产品多个漏洞的分析和利用 | http://www.thezdi.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche| 
+| 20220720 | Sophos XG 认证绕过漏洞分析（CVE-2022-1040） | https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/| 
+| 20220720 | Threat Hunting 的过程 | https://kostas-ts.medium.com/threat-hunting-series-the-threat-hunting-process-f76583f2475b| 
+| 20220720 | GeckoSpy - 有攻击者利用 Pegasus 间谍软件渗透泰国部分群体人士 | https://citizenlab.ca/2022/07/geckospy-pegasus-spyware-used-against-thailands-pro-democracy-movement/| 
+| 20220720 | AWS EC2 Auto Scaling 弹性伸缩服务提权漏洞分析 | https://notdodo.medium.com/aws-ec2-auto-scaling-privilege-escalation-d518f8e7f91b| 
+| 20220720 | Intel Atom CPU 微码（Microcode）更新和解密相关的研究 | https://github.com/chip-red-pill/MicrocodeDecryptor| 
+| 20220720 | 能够实现后渗透阶段 Windows 权限维持的技术收集 | https://sec.today/pulses/bfaa968a-3016-4e44-b14c-7af7f8d41cd9/| 
+| 20220720 | Azure Storage SDK Client 加密被发现存在 Padding Oracle 漏洞（CVE-2022-30187） | https://sec.today/pulses/96fde1e4-7b57-4210-8889-de460bc859b3/| 
 | 20220719 | APT-C-26（Lazarus）组织伪造电商组件攻击活动分析报告 | https://mp.weixin.qq.com/s/USitU4jAg9y2XkQxbwcAPQ| 
 | 20220719 | 简单理解 V8 Turbofan | http://paper.seebug.org/1936/| 
 | 20220718 | PyArmor - Python 脚本代码混淆工具 | https://github.com/dashingsoft/pyarmor| 
@@ -15,56 +26,45 @@
 | 20220718 | 恶意软件检测接口 AMSI 实现机制分析 | https://aidenpearce369.github.io/offsec/AMSI-Memory-Bypass/| 
 | 20220718 | Build your first LLVM Obfuscator | https://polarply.medium.com/build-your-first-llvm-obfuscator-80d16583392b| 
 | 20220718 | James Forshaw 对 Active Directory 访问控制实现机制的分析 | https://www.tiraniddo.dev/2022/07/access-checking-active-directory.html| 
-| 20220718 | JARM 指纹混淆随机化技术实现 | http://paper.seebug.org/1934/| 
-| 20220718 | websocket 新型内存马的应急响应 | http://paper.seebug.org/1935/| 
-| 20220717 | The Birth Of A Windows Process (Part 2) | https://fourcore.io/blogs/how-a-windows-process-is-created-part-2| 
-| 20220715 | Become Load balancer，Owner of Your Network，来自 TROOPERS22 会议 | https://github.com/n0x08/ConferenceTalks/blob/master/BecomeLoadbalancer_TR22.pdf| 
-| 20220715 | SecretFlow - 在隐私保护基础上的数据分析和机器学习框架 | https://github.com/secretflow/secretflow| 
-| 20220715 | 利用反射式 XSS 漏洞从 Tableau Server 数据分析平台泄露敏感信息 | https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/| 
-| 20220715 | Inductive Ignition 工控方案 pre-authenticated RCE Exploit，这个漏洞被用于参加 Pwn2Own Miami 2022 比赛 | https://github.com/sourceincite/randy| 
-| 20220715 | Exploiting Arbitrary Object Instantiations in PHP without Custom Classes | https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/| 
-| 20220715 | Issue 2278: Windows: LSA Service LsapGetClientInfo Impersonation Level Check EoP | https://bugs.chromium.org/p/project-zero/issues/detail?id=2278| 
-| 20220715 | JSON Web Tokens 与 Azure Key Vaults 研究 | https://www.huntandhackett.com/blog/researching-access-tokens-for-fun-and-knowledge| 
-| 20220715 | IDA Pro 调试 Windows 内核的辅助脚本 | https://github.com/therealdreg/ida_bochs_windows| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220720 | 对全网上一些JSONP蜜罐探索与识别 | https://mp.weixin.qq.com/s/C0F1ywUcQ6MhgNZZIXlFbA| 
+| 20220720 | 一次曲折的代码审计+渗透+绕过WAF+提权实战 | https://mp.weixin.qq.com/s/hRwYtDZ-dqqznhS3LdSxUA| 
+| 20220720 | Web3发展前瞻研究报告 | https://mp.weixin.qq.com/s/NdrE-lmTsIZC8XRKEAZjNw| 
+| 20220720 | 样本相似分析新尝试：通过音频实现 | https://mp.weixin.qq.com/s/Ree7tIPbgu0h8PATDETDoA| 
+| 20220720 | 《物联网终端安全入门与实践之了解物联网终端》下 | https://mp.weixin.qq.com/s/ZeRDEXBpkdtO6KgBQbTKWg| 
+| 20220720 | 物联网终端安全入门与实践之玩转物联网固件（中） | https://mp.weixin.qq.com/s/p4ImDz6LfFk2hW_gQrnA2w| 
+| 20220720 | 《物联网终端安全入门与实践之玩转物联网固件》上 | https://mp.weixin.qq.com/s/qXmx7NOnOh7mxHr16BkioA| 
+| 20220720 | 物联网终端安全入门与实践之了解物联网终端 （上篇） | https://mp.weixin.qq.com/s/wOVTF99uKimmzzbnjy4tuw| 
+| 20220720 | 关于X信数据库的解密以及取证 | https://mp.weixin.qq.com/s/5ZdAiMlsCZJyEijgZ3VFyA| 
 | 20220719 | 如何从 0 到 1 打造国防领域的产品 | https://mp.weixin.qq.com/s/droA3PllKFf_CSlEE4L-hQ| 
-| 20220719 | 2022 软件供应链安全技术白皮书 | http://blog.nsfocus.net/wp-content/uploads/2022/07/NSFOCUS.pdf| 
-| 20220719 | 我认为网络安全工具的未来：开篇 | https://mp.weixin.qq.com/s/imLgat7aQA-8NQoH-mxpYw| 
-| 20220719 | linux权限维持 | https://www.anquanke.com/post/id/276174| 
-| 20220719 | 反-反蜜罐：以三个反蜜罐插件的缺陷为例 | https://drivertom.blogspot.com/2022/07/blog-post.html| 
-| 20220719 | 基于追踪标记的WAF设计思路 | https://www.freebuf.com/articles/web/338814.html| 
-| 20220719 | websocket新型内存马的应急响应 | https://mp.weixin.qq.com/s/T3UfA1plrlG-e9lgfB4whg| 
-| 20220719 | 从知网被查看网络安全审查 | https://mp.weixin.qq.com/s/T63Clvf90JNbTqW_E96B-A| 
-| 20220718 | SecWiki周刊（第437期) | https://www.sec-wiki.com/weekly/437| 
-| 20220717 | 应急能力提升5：应急响应报告点评 | https://mp.weixin.qq.com/s/KR7Z6ryigj9b0YeVBQBi5A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220720T02:02:55Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
-| 20220720T01:19:58Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
-| 20220719T23:41:47Z | CVE-2022-33891 | PoC for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
+| 20220720T11:57:21Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
+| 20220720T11:23:07Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
+| 20220720T10:17:11Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
+| 20220720T08:02:45Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
+| 20220720T05:26:37Z | cve-2022-30333 | Null | https://github.com/rbowes-r7/unrar-cve-2022-30333-poc | | 
+| 20220720T05:15:24Z | CVE-2022-33891 | PoC for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
+| 20220720T04:11:58Z | CVE-2020-0188 | Null | https://github.com/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33 | | 
 | 20220719T19:02:24Z | CVE-2022-23614 | PoC for CVE-2022-23614 (Twig sort filter code execution/sandbox bypass) | https://github.com/davwwwx/CVE-2022-23614 | | 
 | 20220719T14:00:51Z | 未知编号 | Null | https://github.com/abhyanandsharma311099/cve2021-41073 | | 
-| 20220719T10:29:32Z | cve-2022-30333 | Null | https://github.com/rbowes-r7/unrar-cve-2022-30333-poc | | 
 | 20220719T07:41:39Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/cybersecurityresearcher/CVE-2022-26809-RCE-POC | | 
-| 20220719T07:16:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j | | 
-| 20220719T05:58:13Z | CVE-2022-35899 | Unquoted Service Path Asus GameSdk | https://github.com/AngeloPioAmirante/CVE-2022-35899 | | 
-| 20220718T20:33:10Z | CVE-2021-44228 | Remote Code Execution attacks are one of the most frequent methods employed by cybercriminals to compromise susceptible computers. In the previous year, a serious zero-day vulnerability was identified in Log4j, a java program used by developers for debugging and application modification loggings. This is also a significant vulnerability that affects the so-called Ghidra reverse engineering tool. | https://github.com/tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220719T17:07:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7217 | 253| 
+| 20220720T11:31:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2015 | 572| 
+| 20220720T09:54:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7221 | 253| 
 | 20220719T07:34:07Z | Null | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-backend | 0 | 0| 
 | 20220718T09:51:01Z | 최원익, 김영수, 오창훈 | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-frontend | 0 | 0| 
-| 20220718T06:31:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2013 | 572| 
 | 20220715T12:40:45Z | Null | https://github.com/kleenex1/kleenex1.github.io | 0 | 0| 
 | 20220715T11:07:04Z | Null | https://github.com/Ruri963/klee-website | 0 | 0| 
 | 20220714T07:17:46Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 26 | 1| 
