@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T12:12:24Z | Exploting Stepford since 2022 | https://github.com/YieldingExploiter/StepfordExploitableRailway | 0 | 0| 
 | 20220720T12:04:34Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 433 | 79| 
 | 20220720T11:25:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3457 | 540| 
 | 20220720T10:57:18Z | Repo with information about scooter/car service Fiqsy, it%s api calls and exploits | https://github.com/skajuks/Fiqsy | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20220720T09:06:38Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 503 | 59| 
 | 20220720T09:04:25Z | A collection of papers exploiting the seminal transformer module in deep learning era. | https://github.com/moeinheidari/Awesome-Transformer | 5 | 1| 
 | 20220720T08:37:13Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2717 | 167| 
-| 20220720T06:42:11Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 511 | 30| 
 
 
 # backdoor on Github 推荐
