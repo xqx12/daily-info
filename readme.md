@@ -99,6 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T12:07:48Z | Metode Fuzzy Mamdani | https://github.com/upimariani/spk_fuzzy | 0 | 1| 
 | 20220720T11:56:47Z | Null | https://github.com/roypalnadi/fuzzy-tsukomoto | 0 | 0| 
 | 20220720T11:21:51Z | Null | https://github.com/muhamu/fuzzballindonesia | 0 | 0| 
 | 20220720T09:21:59Z | Null | https://github.com/wetcheekclap/fuzzy-bussy | 0 | 0| 
