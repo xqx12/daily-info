@@ -17,6 +17,8 @@
 | 20220720 | Intel Atom CPU 微码（Microcode）更新和解密相关的研究 | https://github.com/chip-red-pill/MicrocodeDecryptor| 
 | 20220720 | 能够实现后渗透阶段 Windows 权限维持的技术收集 | https://sec.today/pulses/bfaa968a-3016-4e44-b14c-7af7f8d41cd9/| 
 | 20220720 | Azure Storage SDK Client 加密被发现存在 Padding Oracle 漏洞（CVE-2022-30187） | https://sec.today/pulses/96fde1e4-7b57-4210-8889-de460bc859b3/| 
+| 20220720 | 能够实现后渗透阶段 Windows 权限维持的技术收集 | https://persistence-info.github.io/| 
+| 20220720 | Azure Storage SDK Client 加密被发现存在 Padding Oracle 漏洞（CVE-2022-30187） | https://msrc-blog.microsoft.com/2022/07/18/mitigation-for-azure-storage-sdk-client-side-encryption-padding-oracle-vulnerability/| 
 | 20220719 | APT-C-26（Lazarus）组织伪造电商组件攻击活动分析报告 | https://mp.weixin.qq.com/s/USitU4jAg9y2XkQxbwcAPQ| 
 | 20220719 | 简单理解 V8 Turbofan | http://paper.seebug.org/1936/| 
 | 20220718 | PyArmor - Python 脚本代码混淆工具 | https://github.com/dashingsoft/pyarmor| 
@@ -24,8 +26,6 @@
 | 20220718 | 以 OVAA App 为例研究 Android 平台第三方 App 漏洞的利用 | https://medium.com/@as3ng/exploiting-android-vulnerabilities-with-malicious-third-party-apps-featuring-oversecured-apk-adea3241ce49| 
 | 20220718 | ptmalloc cheatsheet | http://evilpan.com/2022/07/17/ptmalloc-notes/| 
 | 20220718 | 恶意软件检测接口 AMSI 实现机制分析 | https://aidenpearce369.github.io/offsec/AMSI-Memory-Bypass/| 
-| 20220718 | Build your first LLVM Obfuscator | https://polarply.medium.com/build-your-first-llvm-obfuscator-80d16583392b| 
-| 20220718 | James Forshaw 对 Active Directory 访问控制实现机制的分析 | https://www.tiraniddo.dev/2022/07/access-checking-active-directory.html| 
 
 
 # 安全维基 推荐
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220720T01:26:37Z | MOSSE INSTITUTE CERTIFIED VULNERABILITY RESEARCHER AND EXPLOITATION DEVELOPMENT COURSE | https://github.com/0xTriboulet/MVRE | 0 | 0| 
-| 20220720T01:17:51Z | Null | https://github.com/zebulaunn/LucifyExploit | 0 | 0| 
-| 20220720T01:13:50Z | Exploiting Transformer in Reinforcement Learning for Interpretable Temporal Logic Motion Planning (Under-review) | https://github.com/Charlie0257/TL2 | 0 | 0| 
-| 20220720T00:32:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4725 | 654| 
-| 20220720T00:27:33Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.1- | 0 | 0| 
-| 20220720T00:26:40Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1- | 0 | 0| 
-| 20220720T00:25:44Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.1- | 0 | 0| 
-| 20220719T23:41:45Z | iakzs.github.io/TheHub | https://github.com/iakzs/TheHub | 1 | 0| 
-| 20220719T22:40:22Z | CTF solutions, cybersecurity related things, exploits and codes | https://github.com/yigitsarioglu/cybersecs | 0 | 0| 
-| 20220719T22:06:17Z | this is a coordinate exploit in pughack | https://github.com/Pugman2b/Coordexploit-2b2t | 0 | 0| 
+| 20220720T11:25:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3457 | 540| 
+| 20220720T10:57:18Z | Repo with information about scooter/car service Fiqsy, it%s api calls and exploits | https://github.com/skajuks/Fiqsy | 0 | 0| 
+| 20220720T10:46:06Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 432 | 79| 
+| 20220720T10:43:54Z | Why you should choose this course ? Ethical hacking is a training program that assists beginners in their first steps into the cyber security domain. By enrolling in this course, you will learn the fundamentals of hacking, penetration testing, network security, web application security, cloud computing, auditing, and other topics. Who should Join this course ? In the dawn of technologically-advanced solutions, organizations face the challenge and responsibility to efficiently secure their systems and ensure the absence of any vulnerabilities as a precaution to the risks that come along with them. This issue can be best abated by the hiring of an ethical hacker; a professionally trained individual who follows official and legal protocols to investigate an organization’s network and system by performing attacks on it and scrutinizing for any vulnerabilities that can be exploited and may cause harm to the organization’s assets.  | https://github.com/boniyeamincse/ETHICAL-HACKING | 0 | 0| 
+| 20220720T10:37:28Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1232 | 259| 
+| 20220720T10:31:40Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1830 | 277| 
+| 20220720T09:06:38Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 503 | 59| 
+| 20220720T09:04:25Z | A collection of papers exploiting the seminal transformer module in deep learning era. | https://github.com/moeinheidari/Awesome-Transformer | 5 | 1| 
+| 20220720T08:37:13Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2717 | 167| 
+| 20220720T06:38:54Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 29 | 8| 
 
 
 # backdoor on Github 推荐
@@ -119,13 +119,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T11:31:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2015 | 572| 
 | 20220719T17:33:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3002 | 425| 
 | 20220719T12:44:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 41| 
 | 20220719T09:13:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
 | 20220719T08:00:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 240 | 58| 
 | 20220719T06:44:02Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 706 | 76| 
 | 20220718T12:56:11Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 256 | 18| 
-| 20220718T06:31:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2013 | 572| 
 | 20220715T09:09:34Z | Fault Localization in Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis | https://github.com/javitroya/sbfl-symbolic-execution-mt | 0 | 0| 
 | 20220714T20:25:47Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 17 | 4| 
 | 20220714T06:41:57Z | Multi-solver dynamic symbolic execution for JavaScript | https://github.com/ArathaJS/aratha | 5 | 3| 
