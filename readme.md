@@ -33,6 +33,7 @@
 | 20220720 | 《物联网终端安全入门与实践之玩转物联网固件》上 | https://mp.weixin.qq.com/s/qXmx7NOnOh7mxHr16BkioA| 
 | 20220720 | 物联网终端安全入门与实践之了解物联网终端 （上篇） | https://mp.weixin.qq.com/s/wOVTF99uKimmzzbnjy4tuw| 
 | 20220720 | 关于X信数据库的解密以及取证 | https://mp.weixin.qq.com/s/5ZdAiMlsCZJyEijgZ3VFyA| 
+| 20220720 | 关于安全情报能力和应用的一些思考 | https://mp.weixin.qq.com/s/aHwhGY3YJX1EXUFvFzBLGg| 
 
 
 # CVE Github 推荐
