@@ -101,13 +101,13 @@
 | 20220719T22:33:00Z | Null | https://github.com/leonidk/fuzzy-metaballs | 0 | 0| 
 | 20220719T22:08:06Z | Null | https://github.com/SashMashedpotatoesquashed-padhi/fuzzy-octo-sniffle135 | 0 | 0| 
 | 20220719T21:30:37Z | Null | https://github.com/AxelFuzzi/ProyectoFinalJavascriptFuzzi | 0 | 0| 
+| 20220719T20:34:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7600 | 1635| 
 | 20220719T19:30:31Z | Null | https://github.com/krutosanka/fuzzy-computing-machine | 0 | 0| 
 | 20220719T17:51:12Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1659 | 187| 
 | 20220719T12:20:31Z | Null | https://github.com/lightlessdays/fuzzy-doodle | 0 | 0| 
 | 20220719T11:29:20Z | Null | https://github.com/MohdZakir123/Fuzzy-Mango | 0 | 0| 
 | 20220719T10:27:33Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 174 | 26| 
 | 20220719T10:05:33Z | Tool for marking and identifying documents based on fuzzy hashing for tracking by a DLP-system. | https://github.com/aaaaaaaalesha/fuzzy_docmarking_tool | 0 | 0| 
-| 20220719T09:47:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7600 | 1632| 
 
 
 
