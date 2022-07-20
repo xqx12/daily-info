@@ -143,8 +143,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T00:54:27Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 335 | 62| 
 | 20220720T00:35:21Z | Null | https://github.com/prettytotoro/fuzzySearch | 0 | 0| 
-| 20220719T23:43:59Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 334 | 62| 
 | 20220719T22:33:00Z | Null | https://github.com/leonidk/fuzzy-metaballs | 0 | 0| 
 | 20220719T22:08:06Z | Null | https://github.com/SashMashedpotatoesquashed-padhi/fuzzy-octo-sniffle135 | 0 | 0| 
 | 20220719T21:30:37Z | Null | https://github.com/AxelFuzzi/ProyectoFinalJavascriptFuzzi | 0 | 0| 
