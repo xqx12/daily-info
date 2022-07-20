@@ -38,7 +38,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220720T11:57:21Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
+| 20220720T12:03:18Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220720T11:23:07Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220720T10:17:11Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
 | 20220720T08:02:45Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
@@ -77,6 +77,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T09:51:45Z | This is a backdoor tool, it%s going to being written in C.  | https://github.com/BoazTene/Van-Damme | 0 | 0| 
+| 20220720T09:48:54Z | Null | https://github.com/mr-abhi0/backdoor | 0 | 0| 
+| 20220720T07:07:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 36 | 7| 
+| 20220720T06:35:29Z | Null | https://github.com/TwoIceFIsh/Py-Backdoor | 0 | 0| 
+| 20220720T03:58:43Z | Null | https://github.com/Allen-piexl/CatchBackdoor | 0 | 0| 
+| 20220720T03:36:28Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 108 | 28| 
 
 
 # symbolic execution on Github 推荐
