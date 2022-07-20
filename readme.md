@@ -27,7 +27,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220719T23:41:47Z | CVE-2022-33891 | PoC for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
-| 20220719T21:32:46Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220719T19:02:24Z | CVE-2022-23614 | PoC for CVE-2022-23614 (Twig sort filter code execution/sandbox bypass) | https://github.com/davwwwx/CVE-2022-23614 | | 
 | 20220719T14:00:51Z | 未知编号 | Null | https://github.com/abhyanandsharma311099/cve2021-41073 | | 
 | 20220719T10:29:32Z | cve-2022-30333 | Null | https://github.com/rbowes-r7/unrar-cve-2022-30333-poc | | 
