@@ -63,10 +63,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T13:01:59Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 435 | 79| 
 | 20220720T12:48:44Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.-- | 0 | 0| 
 | 20220720T12:47:54Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.-- | 0 | 0| 
 | 20220720T12:47:05Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.-- | 0 | 0| 
-| 20220720T12:13:18Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 434 | 79| 
 | 20220720T12:12:24Z | Exploting Stepford since 2022 | https://github.com/YieldingExploiter/StepfordExploitableRailway | 0 | 0| 
 | 20220720T11:25:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3457 | 540| 
 | 20220720T10:57:18Z | Repo with information about scooter/car service Fiqsy, it%s api calls and exploits | https://github.com/skajuks/Fiqsy | 0 | 0| 
