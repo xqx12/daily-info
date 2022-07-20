@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220720T00:12:16Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220719T23:41:47Z | CVE-2022-33891 | PoC for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
-| 20220719T22:32:19Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220719T21:32:46Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220719T19:02:24Z | CVE-2022-23614 | PoC for CVE-2022-23614 (Twig sort filter code execution/sandbox bypass) | https://github.com/davwwwx/CVE-2022-23614 | | 
 | 20220719T14:00:51Z | 未知编号 | Null | https://github.com/abhyanandsharma311099/cve2021-41073 | | 
@@ -143,12 +143,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T23:43:59Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 334 | 62| 
 | 20220719T22:33:00Z | Null | https://github.com/leonidk/fuzzy-metaballs | 0 | 0| 
 | 20220719T22:08:06Z | Null | https://github.com/SashMashedpotatoesquashed-padhi/fuzzy-octo-sniffle135 | 0 | 0| 
 | 20220719T21:30:37Z | Null | https://github.com/AxelFuzzi/ProyectoFinalJavascriptFuzzi | 0 | 0| 
 | 20220719T19:30:31Z | Null | https://github.com/krutosanka/fuzzy-computing-machine | 0 | 0| 
 | 20220719T17:51:12Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1659 | 187| 
-| 20220719T12:59:34Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 311 | 59| 
 | 20220719T12:20:31Z | Null | https://github.com/lightlessdays/fuzzy-doodle | 0 | 0| 
 | 20220719T11:29:20Z | Null | https://github.com/MohdZakir123/Fuzzy-Mango | 0 | 0| 
 | 20220719T10:27:33Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 174 | 26| 
