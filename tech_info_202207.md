@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T12:48:44Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.-- | 0 | 0| 
 | 20220720T12:47:54Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.-- | 0 | 0| 
 | 20220720T12:47:05Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.-- | 0 | 0| 
 | 20220720T12:13:18Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 434 | 79| 
@@ -98,7 +99,6 @@
 | 20220720T10:43:54Z | Why you should choose this course ? Ethical hacking is a training program that assists beginners in their first steps into the cyber security domain. By enrolling in this course, you will learn the fundamentals of hacking, penetration testing, network security, web application security, cloud computing, auditing, and other topics. Who should Join this course ? In the dawn of technologically-advanced solutions, organizations face the challenge and responsibility to efficiently secure their systems and ensure the absence of any vulnerabilities as a precaution to the risks that come along with them. This issue can be best abated by the hiring of an ethical hacker; a professionally trained individual who follows official and legal protocols to investigate an organization’s network and system by performing attacks on it and scrutinizing for any vulnerabilities that can be exploited and may cause harm to the organization’s assets.  | https://github.com/boniyeamincse/ETHICAL-HACKING | 0 | 0| 
 | 20220720T10:37:28Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1232 | 259| 
 | 20220720T10:31:40Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1830 | 277| 
-| 20220720T09:06:38Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 503 | 59| 
 
 
 # backdoor on Github 推荐
