@@ -55,7 +55,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220719T23:41:45Z | iakzs.github.io/TheHub | https://github.com/iakzs/TheHub | 1 | 0| 
-| 20220719T23:07:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4724 | 654| 
 | 20220719T22:40:22Z | CTF solutions, cybersecurity related things, exploits and codes | https://github.com/yigitsarioglu/cybersecs | 0 | 0| 
 | 20220719T22:06:17Z | this is a coordinate exploit in pughack | https://github.com/Pugman2b/Coordexploit-2b2t | 0 | 0| 
 | 20220719T20:47:56Z | Null | https://github.com/OopsZero234/XeraX-Exploit | 0 | 0| 
@@ -64,6 +63,7 @@
 | 20220719T19:54:32Z | Exploits for various CVEs | https://github.com/gkarchemsky/exploits | 0 | 0| 
 | 20220719T19:45:26Z | MOSSE INSTITUTE CERTIFIED VULNERABILITY RESEARCHER AND EXPLOITATION DEVELOPMENT COURSE | https://github.com/0xTriboulet/MVRE | 0 | 0| 
 | 20220719T13:49:31Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 26 | 6| 
+| 20220719T13:11:09Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 69 | 10| 
 
 
 # backdoor on Github 推荐
