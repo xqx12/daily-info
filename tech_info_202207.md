@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T11:56:47Z | Null | https://github.com/roypalnadi/fuzzy-tsukomoto | 0 | 0| 
+| 20220720T11:21:51Z | Null | https://github.com/muhamu/fuzzballindonesia | 0 | 0| 
+| 20220720T09:21:59Z | Null | https://github.com/wetcheekclap/fuzzy-bussy | 0 | 0| 
+| 20220720T09:10:27Z | Tutorials and Algorithms related to the Fuzzy Logic | https://github.com/Thanveerahmd/Fuzzy-Logic | 0 | 0| 
+| 20220720T08:35:08Z | Null | https://github.com/fuboat/utils-for-fuzz | 0 | 0| 
 | 20220720T02:08:07Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 343 | 66| 
 | 20220720T00:35:21Z | Null | https://github.com/prettytotoro/fuzzySearch | 0 | 0| 
 | 20220719T22:33:00Z | Null | https://github.com/leonidk/fuzzy-metaballs | 0 | 0| 
 | 20220719T22:08:06Z | Null | https://github.com/SashMashedpotatoesquashed-padhi/fuzzy-octo-sniffle135 | 0 | 0| 
 | 20220719T21:30:37Z | Null | https://github.com/AxelFuzzi/ProyectoFinalJavascriptFuzzi | 0 | 0| 
-| 20220719T20:34:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7600 | 1635| 
-| 20220719T19:30:31Z | Null | https://github.com/krutosanka/fuzzy-computing-machine | 0 | 0| 
-| 20220719T17:51:12Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1659 | 187| 
-| 20220719T12:20:31Z | Null | https://github.com/lightlessdays/fuzzy-doodle | 0 | 0| 
-| 20220719T11:29:20Z | Null | https://github.com/MohdZakir123/Fuzzy-Mango | 0 | 0| 
 
 
 

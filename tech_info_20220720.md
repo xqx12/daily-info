@@ -99,6 +99,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T11:56:47Z | Null | https://github.com/roypalnadi/fuzzy-tsukomoto | 0 | 0| 
+| 20220720T11:21:51Z | Null | https://github.com/muhamu/fuzzballindonesia | 0 | 0| 
+| 20220720T09:21:59Z | Null | https://github.com/wetcheekclap/fuzzy-bussy | 0 | 0| 
+| 20220720T09:10:27Z | Tutorials and Algorithms related to the Fuzzy Logic | https://github.com/Thanveerahmd/Fuzzy-Logic | 0 | 0| 
+| 20220720T08:35:08Z | Null | https://github.com/fuboat/utils-for-fuzz | 0 | 0| 
 | 20220720T02:08:07Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 343 | 66| 
 | 20220720T00:35:21Z | Null | https://github.com/prettytotoro/fuzzySearch | 0 | 0| 
 
