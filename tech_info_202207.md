@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T12:47:05Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.-- | 0 | 0| 
 | 20220720T12:13:18Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 434 | 79| 
 | 20220720T12:12:24Z | Exploting Stepford since 2022 | https://github.com/YieldingExploiter/StepfordExploitableRailway | 0 | 0| 
 | 20220720T11:25:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3457 | 540| 
@@ -98,7 +99,6 @@
 | 20220720T10:31:40Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1830 | 277| 
 | 20220720T09:06:38Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 503 | 59| 
 | 20220720T09:04:25Z | A collection of papers exploiting the seminal transformer module in deep learning era. | https://github.com/moeinheidari/Awesome-Transformer | 5 | 1| 
-| 20220720T09:04:12Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3919 | 665| 
 
 
 # backdoor on Github 推荐
