@@ -60,9 +60,9 @@
 | 20220719T20:13:23Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1050 | 93| 
 | 20220719T19:57:13Z | 🌊 ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER | https://github.com/0xTracey/Crypto-NFT-Drainer | 7 | 5| 
 | 20220719T19:54:32Z | Exploits for various CVEs | https://github.com/gkarchemsky/exploits | 0 | 0| 
-| 20220719T19:45:26Z | MOSSE INSTITUTE CERTIFIED VULNERABILITY RESEARCHER AND EXPLOITATION DEVELOPMENT COURSE | https://github.com/0xTriboulet/MVRE | 0 | 0| 
 | 20220719T13:49:31Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 26 | 6| 
 | 20220719T13:11:09Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 69 | 10| 
+| 20220719T12:53:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3189 | 387| 
 
 
 # backdoor on Github 推荐

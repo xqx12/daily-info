@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T01:26:37Z | MOSSE INSTITUTE CERTIFIED VULNERABILITY RESEARCHER AND EXPLOITATION DEVELOPMENT COURSE | https://github.com/0xTriboulet/MVRE | 0 | 0| 
 | 20220720T01:17:51Z | Null | https://github.com/zebulaunn/LucifyExploit | 0 | 0| 
 | 20220720T01:13:50Z | Exploiting Transformer in Reinforcement Learning for Interpretable Temporal Logic Motion Planning (Under-review) | https://github.com/Charlie0257/TL2 | 0 | 0| 
 | 20220720T00:32:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4725 | 654| 
@@ -98,7 +99,6 @@
 | 20220719T23:41:45Z | iakzs.github.io/TheHub | https://github.com/iakzs/TheHub | 1 | 0| 
 | 20220719T22:40:22Z | CTF solutions, cybersecurity related things, exploits and codes | https://github.com/yigitsarioglu/cybersecs | 0 | 0| 
 | 20220719T22:06:17Z | this is a coordinate exploit in pughack | https://github.com/Pugman2b/Coordexploit-2b2t | 0 | 0| 
-| 20220719T20:47:56Z | Null | https://github.com/OopsZero234/XeraX-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
