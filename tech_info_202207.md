@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T00:27:33Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.1- | 0 | 0| 
 | 20220720T00:26:40Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-.1- | 0 | 0| 
 | 20220720T00:25:44Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-.1- | 0 | 0| 
 | 20220719T23:41:45Z | iakzs.github.io/TheHub | https://github.com/iakzs/TheHub | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20220719T20:47:56Z | Null | https://github.com/OopsZero234/XeraX-Exploit | 0 | 0| 
 | 20220719T20:13:23Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1050 | 93| 
 | 20220719T19:57:13Z | 🌊 ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER | https://github.com/0xTracey/Crypto-NFT-Drainer | 7 | 5| 
-| 20220719T19:54:32Z | Exploits for various CVEs | https://github.com/gkarchemsky/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
