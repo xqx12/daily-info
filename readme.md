@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220719 | APT-C-26（Lazarus）组织伪造电商组件攻击活动分析报告 | https://mp.weixin.qq.com/s/USitU4jAg9y2XkQxbwcAPQ| 
+| 20220719 | 简单理解 V8 Turbofan | http://paper.seebug.org/1936/| 
 
 
 # 安全维基 推荐
@@ -17,12 +19,18 @@
 | 20220719 | linux权限维持 | https://www.anquanke.com/post/id/276174| 
 | 20220719 | 反-反蜜罐：以三个反蜜罐插件的缺陷为例 | https://drivertom.blogspot.com/2022/07/blog-post.html| 
 | 20220719 | 基于追踪标记的WAF设计思路 | https://www.freebuf.com/articles/web/338814.html| 
+| 20220719 | websocket新型内存马的应急响应 | https://mp.weixin.qq.com/s/T3UfA1plrlG-e9lgfB4whg| 
+| 20220719 | 从知网被查看网络安全审查 | https://mp.weixin.qq.com/s/T63Clvf90JNbTqW_E96B-A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220719T12:50:46Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
+| 20220719T23:41:47Z | CVE-2022-33891 | PoC for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
+| 20220719T22:32:19Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
+| 20220719T21:32:46Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
+| 20220719T19:02:24Z | CVE-2022-23614 | PoC for CVE-2022-23614 (Twig sort filter code execution/sandbox bypass) | https://github.com/davwwwx/CVE-2022-23614 | | 
+| 20220719T14:00:51Z | 未知编号 | Null | https://github.com/abhyanandsharma311099/cve2021-41073 | | 
 | 20220719T10:29:32Z | cve-2022-30333 | Null | https://github.com/rbowes-r7/unrar-cve-2022-30333-poc | | 
 | 20220719T07:41:39Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/cybersecurityresearcher/CVE-2022-26809-RCE-POC | | 
 | 20220719T07:16:24Z | CVE-2021-44228 | CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  | https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j | | 
@@ -32,6 +40,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T17:07:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7217 | 253| 
 | 20220719T07:34:07Z | Null | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-backend | 0 | 0| 
 
 
@@ -46,21 +55,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220719T12:53:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3189 | 387| 
-| 20220719T12:51:08Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 389 | 76| 
-| 20220719T11:51:02Z | Null | https://github.com/HackVerseHV/HackVerse-Exploit | 0 | 0| 
-| 20220719T11:24:47Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 653 | 52| 
-| 20220719T11:09:40Z | Some tricks using in CTFs event | https://github.com/Trumpiter-max/Tricks-in-web-exploit | 0 | 0| 
-| 20220719T10:13:37Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 487 | 58| 
-| 20220719T10:06:30Z | Please, exploit me! | https://github.com/Silva97/exploit-me | 11 | 0| 
-| 20220719T09:53:47Z | Popular Roblox Exploit | https://github.com/krnl-exploit/krnl-exploit.github.io | 0 | 0| 
-| 20220719T09:38:12Z | ECCV 2022 paper %Efficient One-stage Video Object Detection by Exploiting Temporal Consistency% | https://github.com/guanxiongsun/EOVOD | 0 | 0| 
-| 20220719T06:33:48Z | Scenes and use loads of vulnerabilities | https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library | 1 | 0| 
+| 20220719T23:41:45Z | iakzs.github.io/TheHub | https://github.com/iakzs/TheHub | 1 | 0| 
+| 20220719T23:07:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4724 | 654| 
+| 20220719T22:40:22Z | CTF solutions, cybersecurity related things, exploits and codes | https://github.com/yigitsarioglu/cybersecs | 0 | 0| 
+| 20220719T22:06:17Z | this is a coordinate exploit in pughack | https://github.com/Pugman2b/Coordexploit-2b2t | 0 | 0| 
+| 20220719T20:47:56Z | Null | https://github.com/OopsZero234/XeraX-Exploit | 0 | 0| 
+| 20220719T20:13:23Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1050 | 93| 
+| 20220719T19:57:13Z | 🌊 ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER | https://github.com/0xTracey/Crypto-NFT-Drainer | 7 | 5| 
+| 20220719T19:54:32Z | Exploits for various CVEs | https://github.com/gkarchemsky/exploits | 0 | 0| 
+| 20220719T19:45:26Z | MOSSE INSTITUTE CERTIFIED VULNERABILITY RESEARCHER AND EXPLOITATION DEVELOPMENT COURSE | https://github.com/0xTriboulet/MVRE | 0 | 0| 
+| 20220719T13:49:31Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 26 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T22:51:15Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 4 | 1| 
+| 20220719T17:37:33Z | Just a basic backdoor | https://github.com/AinaTahina/Mini-Backdoor | 0 | 0| 
+| 20220719T14:56:05Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 83 | 26| 
+| 20220719T14:35:59Z | Null | https://github.com/SCLBD/BackdoorBench | 36 | 1| 
+| 20220719T12:59:17Z | The best Undercover Remote Access Trojans creator | https://github.com/UsboKirishima/WestCoast | 1 | 0| 
 | 20220719T10:12:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 1683 | 742| 
 | 20220719T05:42:00Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 523 | 103| 
 | 20220719T03:17:59Z | Null | https://github.com/kirula0626/Backdoor-Command-Execution-Vulnerability-Project | 0 | 0| 
@@ -85,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220719T22:33:00Z | Null | https://github.com/leonidk/fuzzy-metaballs | 0 | 0| 
+| 20220719T22:08:06Z | Null | https://github.com/SashMashedpotatoesquashed-padhi/fuzzy-octo-sniffle135 | 0 | 0| 
+| 20220719T21:30:37Z | Null | https://github.com/AxelFuzzi/ProyectoFinalJavascriptFuzzi | 0 | 0| 
+| 20220719T19:30:31Z | Null | https://github.com/krutosanka/fuzzy-computing-machine | 0 | 0| 
+| 20220719T17:51:12Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1659 | 187| 
 | 20220719T12:59:34Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 311 | 59| 
 | 20220719T12:20:31Z | Null | https://github.com/lightlessdays/fuzzy-doodle | 0 | 0| 
 | 20220719T11:29:20Z | Null | https://github.com/MohdZakir123/Fuzzy-Mango | 0 | 0| 
 | 20220719T10:27:33Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 174 | 26| 
 | 20220719T10:05:33Z | Tool for marking and identifying documents based on fuzzy hashing for tracking by a DLP-system. | https://github.com/aaaaaaaalesha/fuzzy_docmarking_tool | 0 | 0| 
-| 20220719T09:47:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7600 | 1632| 
-| 20220719T09:27:10Z | Null | https://github.com/CATSHAKE04/fuzzy-guacamole | 0 | 0| 
-| 20220719T07:30:41Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1405 | 63| 
-| 20220719T02:00:21Z | Null | https://github.com/ejackson1228/fuzzy-broccoli | 0 | 0| 
-| 20220719T01:18:57Z | Null | https://github.com/noah35becker/fuzzy-enigma | 0 | 0| 
 
 
 
