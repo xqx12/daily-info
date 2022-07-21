@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220721T12:43:03Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220721T12:39:38Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
-| 20220721T12:38:30Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220721T12:10:17Z | cve-2022-26134 | Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server. | https://github.com/iveresk/cve-2022-26134 | | 
 | 20220721T12:07:01Z | CVE-2022-33891 | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 | 20220721T12:03:50Z | CVE-2020-0137 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137 | | 
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T12:41:36Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3363 | 706| 
 | 20220721T12:09:39Z | Refining Relative Camera Poses Exploiting Object Detections | https://github.com/IIT-PAVIS/PoserNet | 10 | 0| 
 | 20220721T11:58:50Z | IDA Pro plugin to examine the glibc heap, focused on exploit development | https://github.com/danigargu/heap-viewer | 657 | 82| 
 | 20220721T11:40:11Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 728 | 187| 
@@ -63,7 +64,6 @@
 | 20220721T10:34:16Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 30 | 10| 
 | 20220721T10:26:39Z | DLL for print exploit (roblox) | https://github.com/ego-code/PRINT-EXPLOIT | 0 | 0| 
 | 20220721T09:48:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3190 | 389| 
-| 20220721T09:40:17Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3362 | 706| 
 | 20220721T09:35:13Z | ass | https://github.com/SoftawreLeaker/Exploit-Slient-Doc-Pdf | 0 | 0| 
 
 
