@@ -65,7 +65,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220720T22:57:38Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
-| 20220720T22:24:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 717 | 183| 
 | 20220720T21:11:30Z | The Hight Speed MSF Console For Metasploit Framework To Exploit CVE 2015-2523  | https://github.com/krdsploit/MSFu-Extentions- | 0 | 0| 
 | 20220720T20:51:50Z | USE ACCORDING TO FEDERAL, STATE, AND LOCAL LAWS. DOESN%T PROVIDE LIVE RECON OR EXPLOITATION. | https://github.com/cyberparzival0/That-Receiver-Tho | 0 | 0| 
 | 20220720T20:35:40Z | Self Dedicated Cybersecurity Project to explore topics within Cybersecurity such as: Ethical Hacking, Social Engineering, and writing exploits. For educational and research purposes only | https://github.com/Jxred-Z/Key-Logger | 0 | 0| 
@@ -74,6 +73,7 @@
 | 20220720T13:01:59Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 435 | 79| 
 | 20220720T12:48:44Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.-- | 0 | 0| 
 | 20220720T12:47:54Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.-- | 0 | 0| 
+| 20220720T12:47:05Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.-- | 0 | 0| 
 
 
 # backdoor on Github 推荐
