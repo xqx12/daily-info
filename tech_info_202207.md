@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220721T12:39:38Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T12:38:30Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
-| 20220721T12:37:19Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T12:10:17Z | cve-2022-26134 | Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server. | https://github.com/iveresk/cve-2022-26134 | | 
 | 20220721T12:07:01Z | CVE-2022-33891 | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 | 20220721T12:03:50Z | CVE-2020-0137 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137 | | 
@@ -119,9 +119,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T12:38:41Z | Optik is a set of tools based on symbolic execution that provide assistance during smart-contract audits | https://github.com/trailofbits/optik | 2 | 0| 
 | 20220721T10:53:11Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 12 | 2| 
 | 20220721T08:21:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2017 | 572| 
-| 20220721T08:10:14Z | Optik is a set of tools based on symbolic execution that provide assistance during smart-contract audits | https://github.com/trailofbits/optik | 1 | 0| 
 | 20220721T07:56:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 255 | 18| 
 | 20220721T07:55:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 461 | 26| 
 | 20220721T07:40:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3005 | 426| 
