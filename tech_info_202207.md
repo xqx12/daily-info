@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T01:09:40Z | Es un backdoor simple, un cliente y un servidor. El servidor establece contacto con cliente, con el fin de robar información | https://github.com/HappyVenus/SimpleHack | 0 | 0| 
 | 20220720T23:54:41Z | Simple py backdoor(for privilege escalation) | https://github.com/TwoIceFIsh/Py-Backdoor | 0 | 0| 
 | 20220720T13:21:44Z | Null | https://github.com/mrp4trick/wann787-shell-backdoor | 0 | 0| 
 | 20220720T09:51:45Z | This is a backdoor tool, it%s going to being written in C.  | https://github.com/BoazTene/Van-Damme | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20220720T04:28:13Z | ICML 2022 code for %Neurotoxin: Durable Backdoors in Federated Learning% https://arxiv.org/abs/2206.10341  | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 8 | 1| 
 | 20220720T03:58:43Z | Null | https://github.com/Allen-piexl/CatchBackdoor | 0 | 0| 
 | 20220720T03:36:28Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 108 | 28| 
-| 20220719T22:51:15Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 4 | 1| 
 
 
 # symbolic execution on Github 推荐
