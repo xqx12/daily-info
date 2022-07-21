@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220721T01:36:12Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-..- | 0 | 0| 
-| 20220721T01:35:23Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..- | 0 | 0| 
-| 20220721T01:34:33Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-..- | 0 | 0| 
-| 20220721T01:13:26Z | php < python, but anyways, here is how to run PHP in python exploiting an api ; ) | https://github.com/xtekky/PHP-Python | 0 | 0| 
-| 20220721T01:12:12Z | php < python, but anyways, here is how to run PHP in python exploiting an api ; ) | https://github.com/xtekky/PHP-Pythong | 0 | 0| 
-| 20220721T00:57:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 718 | 183| 
-| 20220721T00:35:56Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1832 | 277| 
-| 20220720T22:57:38Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
-| 20220720T21:11:30Z | The Hight Speed MSF Console For Metasploit Framework To Exploit CVE 2015-2523  | https://github.com/krdsploit/MSFu-Extentions- | 0 | 0| 
-| 20220720T20:51:50Z | USE ACCORDING TO FEDERAL, STATE, AND LOCAL LAWS. DOESN%T PROVIDE LIVE RECON OR EXPLOITATION. | https://github.com/cyberparzival0/That-Receiver-Tho | 0 | 0| 
+| 20220721T11:58:50Z | IDA Pro plugin to examine the glibc heap, focused on exploit development | https://github.com/danigargu/heap-viewer | 657 | 82| 
+| 20220721T11:55:19Z | Refining Relative Camera Poses Exploiting Object Detections | https://github.com/IIT-PAVIS/PoserNet | 9 | 0| 
+| 20220721T11:40:11Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 728 | 187| 
+| 20220721T11:36:24Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 674 | 55| 
+| 20220721T11:04:10Z | JavaScript Prototype Pollution Attack demo against a NodeJS Express server using Lodash | https://github.com/dubniczky/Prototype-Pollution | 0 | 0| 
+| 20220721T10:34:16Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 30 | 10| 
+| 20220721T10:26:39Z | DLL for print exploit (roblox) | https://github.com/ego-code/PRINT-EXPLOIT | 0 | 0| 
+| 20220721T09:40:17Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3362 | 706| 
+| 20220721T09:35:13Z | ass | https://github.com/SoftawreLeaker/Exploit-Slient-Doc-Pdf | 0 | 0| 
+| 20220721T09:27:33Z | Null | https://github.com/tareqrezq/CVE-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,16 +119,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220720T23:54:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3003 | 425| 
+| 20220721T10:53:11Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 12 | 2| 
+| 20220721T08:21:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2017 | 572| 
+| 20220721T08:10:14Z | Optik is a set of tools based on symbolic execution that provide assistance during smart-contract audits | https://github.com/trailofbits/optik | 1 | 0| 
+| 20220721T07:56:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 255 | 18| 
+| 20220721T07:55:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 461 | 26| 
+| 20220721T07:40:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3005 | 426| 
+| 20220721T06:29:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 241 | 58| 
 | 20220720T17:25:30Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 40 | 23| 
-| 20220720T13:41:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2017 | 572| 
 | 20220719T12:44:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 41| 
-| 20220719T09:13:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
-| 20220719T08:00:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 240 | 58| 
 | 20220719T06:44:02Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 706 | 76| 
-| 20220718T12:56:11Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 256 | 18| 
-| 20220715T09:09:34Z | Fault Localization in Model Transformations by Combining Symbolic Execution and Spectrum-Based Analysis | https://github.com/javitroya/sbfl-symbolic-execution-mt | 0 | 0| 
-| 20220714T20:25:47Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 17 | 4| 
 
 
 # big4 on Github 推荐
