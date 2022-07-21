@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220721T01:56:32Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T01:34:30Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
-| 20220721T01:21:01Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220720T23:58:32Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
 | 20220720T23:55:03Z | cve-2022-33891 | Null | https://github.com/AkbarTrilaksana/cve-2022-33891 | | 
 | 20220720T15:18:02Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220721T01:56:19Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 441 | 86| 
+| 20220721T01:57:05Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 442 | 86| 
 | 20220721T01:47:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4240 | 1012| 
 | 20220720T23:48:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 873 | 103| 
 | 20220720T22:55:38Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 45 | 17| 
