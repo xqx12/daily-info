@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T01:47:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4240 | 1012| 
 | 20220721T01:46:41Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 440 | 86| 
 | 20220720T23:48:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 873 | 103| 
 | 20220720T22:55:38Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 45 | 17| 
@@ -153,7 +154,6 @@
 | 20220720T19:28:15Z | A group assignment for Dengue Diagnosis System | https://github.com/ngmelanie/uni_Fuzzy_System_project | 0 | 0| 
 | 20220720T19:26:40Z | Null | https://github.com/compch/fuzzy-enigma | 0 | 0| 
 | 20220720T18:41:41Z | Null | https://github.com/bocilmi/fuzzy-enigma | 0 | 0| 
-| 20220720T18:29:36Z | A fuzzy finding UI for Rust CLI applications  | https://github.com/jamescoleuk/fuzzy_finder | 0 | 0| 
 
 
 
