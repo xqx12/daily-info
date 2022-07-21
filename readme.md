@@ -42,7 +42,6 @@
 | 20220720T23:58:32Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
 | 20220720T23:55:03Z | cve-2022-33891 | Null | https://github.com/AkbarTrilaksana/cve-2022-33891 | | 
 | 20220720T23:38:18Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
-| 20220720T21:17:58Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220720T15:18:02Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220720T14:51:11Z | CVE-2022-33891 | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 | 20220720T10:17:11Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
@@ -94,7 +93,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220720T12:29:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2016 | 572| 
+| 20220720T23:54:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3003 | 425| 
+| 20220720T17:25:30Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 40 | 23| 
+| 20220720T13:41:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2017 | 572| 
 
 
 # big4 on Github 推荐
