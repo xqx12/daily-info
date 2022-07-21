@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T00:35:56Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1832 | 277| 
 | 20220720T22:57:38Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
 | 20220720T22:24:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 717 | 183| 
 | 20220720T21:11:30Z | The Hight Speed MSF Console For Metasploit Framework To Exploit CVE 2015-2523  | https://github.com/krdsploit/MSFu-Extentions- | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220720T13:12:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 463 | 131| 
 | 20220720T13:01:59Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 435 | 79| 
 | 20220720T12:48:44Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.-- | 0 | 0| 
-| 20220720T12:47:54Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.-- | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T00:30:57Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 426 | 83| 
 | 20220720T23:48:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 873 | 103| 
 | 20220720T22:55:38Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 45 | 17| 
 | 20220720T21:35:25Z | An API fuzzing tool, that takes in a swagger.json to generate a testing strategy. | https://github.com/ikornaselur/fuzzy | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20220720T19:26:40Z | Null | https://github.com/compch/fuzzy-enigma | 0 | 0| 
 | 20220720T18:41:41Z | Null | https://github.com/bocilmi/fuzzy-enigma | 0 | 0| 
 | 20220720T18:29:36Z | A fuzzy finding UI for Rust CLI applications  | https://github.com/jamescoleuk/fuzzy_finder | 0 | 0| 
-| 20220720T17:06:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7603 | 1636| 
 
 
 
