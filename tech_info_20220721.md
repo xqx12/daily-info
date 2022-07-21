@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220721T11:57:43Z | CVE-2020-0137 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137 | | 
+| 20220721T12:03:50Z | CVE-2020-0137 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137 | | 
 | 20220721T11:47:09Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T10:37:49Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220721T09:49:23Z | CVE-2022-30190 | Detection and Remediation of  the Follina MSDT Vulnerability (CVE-2022-30190) | https://github.com/EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190- | | 
