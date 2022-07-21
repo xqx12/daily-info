@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220721T12:52:26Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 576 | 102| 
+| 20220721T12:58:18Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 577 | 102| 
+| 20220721T12:58:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4781 | 494| 
+| 20220721T12:56:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7607 | 1636| 
 | 20220721T12:08:28Z | Null | https://github.com/NaeemAsghar48/FuzzySearch | 0 | 0| 
 | 20220721T12:00:41Z | Null | https://github.com/smnyota/Fuzzy-Personality-Quiz | 0 | 0| 
 | 20220721T11:57:38Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1151 | 226| 
-| 20220721T11:22:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7606 | 1636| 
 | 20220721T11:16:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4243 | 1015| 
 | 20220721T10:17:41Z | Null | https://github.com/dmitrylala/fuzzer_build | 0 | 0| 
 | 20220721T09:48:18Z | Tugas pemrograman Fuzzy Logic  | https://github.com/fadliz/Fuzzy-Programming | 0 | 0| 
 | 20220721T06:01:34Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 11 | 8| 
-| 20220721T05:07:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4780 | 494| 
 
 
 
