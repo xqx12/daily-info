@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220721T12:47:18Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
+| 20220721T12:53:10Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
 | 20220721T12:46:30Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T12:43:03Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220721T12:10:17Z | cve-2022-26134 | Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server. | https://github.com/iveresk/cve-2022-26134 | | 
@@ -99,7 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220721T12:36:29Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 575 | 102| 
+| 20220721T12:52:26Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 576 | 102| 
 | 20220721T12:08:28Z | Null | https://github.com/NaeemAsghar48/FuzzySearch | 0 | 0| 
 | 20220721T12:00:41Z | Null | https://github.com/smnyota/Fuzzy-Personality-Quiz | 0 | 0| 
 | 20220721T11:57:38Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1151 | 226| 
