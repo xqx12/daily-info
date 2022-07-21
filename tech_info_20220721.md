@@ -15,6 +15,7 @@
 | 20220721 | Linux 内核 nftables 子系统研究与漏洞分析 | https://mp.weixin.qq.com/s/ILyBUq--PK01TvNF8Vh9KQ| 
 | 20220721 | 在 AWS 云场景中的 SSRF 漏洞的利用 | https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf| 
 | 20220721 | Apple 发布 macOS Monterey 12.5 和 iOS 15.6，本次更新修复了大量漏洞，其中包括玄武实验室研究员报告的多个漏洞 | https://support.apple.com/zh-cn/HT213345| 
+| 20220721 | Tomcat WebSocket内存马原理浅析 | https://tttang.com/archive/1673/| 
 
 
 # 安全维基 推荐

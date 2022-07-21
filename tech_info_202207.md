@@ -15,6 +15,7 @@
 | 20220721 | Linux 内核 nftables 子系统研究与漏洞分析 | https://mp.weixin.qq.com/s/ILyBUq--PK01TvNF8Vh9KQ| 
 | 20220721 | 在 AWS 云场景中的 SSRF 漏洞的利用 | https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf| 
 | 20220721 | Apple 发布 macOS Monterey 12.5 和 iOS 15.6，本次更新修复了大量漏洞，其中包括玄武实验室研究员报告的多个漏洞 | https://support.apple.com/zh-cn/HT213345| 
+| 20220721 | Tomcat WebSocket内存马原理浅析 | https://tttang.com/archive/1673/| 
 | 20220720 | ESET 研究员发现未知攻击组织利用云存储作为 C&C 信道窃取 macOS 用户的隐私数据 | https://www.welivesecurity.com/2022/07/19/i-see-what-you-did-there-look-cloudmensis-macos-spyware/| 
 | 20220720 | OPC UA .NET Standard Trusted Application Check Bypass | http://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/| 
 | 20220720 | Android 11 以上设备开始支持更安全的 DNS-over-HTTP/3 协议 | https://security.googleblog.com/2022/07/dns-over-http3-in-android.html| 
@@ -25,7 +26,6 @@
 | 20220720 | AWS EC2 Auto Scaling 弹性伸缩服务提权漏洞分析 | https://notdodo.medium.com/aws-ec2-auto-scaling-privilege-escalation-d518f8e7f91b| 
 | 20220720 | Intel Atom CPU 微码（Microcode）更新和解密相关的研究 | https://github.com/chip-red-pill/MicrocodeDecryptor| 
 | 20220720 | 能够实现后渗透阶段 Windows 权限维持的技术收集 | https://sec.today/pulses/bfaa968a-3016-4e44-b14c-7af7f8d41cd9/| 
-| 20220720 | Azure Storage SDK Client 加密被发现存在 Padding Oracle 漏洞（CVE-2022-30187） | https://sec.today/pulses/96fde1e4-7b57-4210-8889-de460bc859b3/| 
 
 
 # 安全维基 推荐
