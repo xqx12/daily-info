@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220720T23:21:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7224 | 253| 
+| 20220721T01:12:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7225 | 253| 
 | 20220720T13:41:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2017 | 572| 
 | 20220719T07:34:07Z | Null | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-backend | 0 | 0| 
 | 20220718T09:51:01Z | 최원익, 김영수, 오창훈 | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-frontend | 0 | 0| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T01:13:26Z | php < python, but anyways, here is how to run PHP in python exploiting an api ; ) | https://github.com/xtekky/PHP-Python | 0 | 0| 
 | 20220721T01:12:12Z | php < python, but anyways, here is how to run PHP in python exploiting an api ; ) | https://github.com/xtekky/PHP-Pythong | 0 | 0| 
 | 20220721T00:57:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 718 | 183| 
 | 20220721T00:35:56Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1832 | 277| 
@@ -98,13 +99,12 @@
 | 20220720T20:35:40Z | Self Dedicated Cybersecurity Project to explore topics within Cybersecurity such as: Ethical Hacking, Social Engineering, and writing exploits. For educational and research purposes only | https://github.com/Jxred-Z/Key-Logger | 0 | 0| 
 | 20220720T14:51:11Z | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | 4 | 1| 
 | 20220720T13:12:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 463 | 131| 
-| 20220720T13:01:59Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 435 | 79| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220721T01:09:40Z | Es un backdoor simple, un cliente y un servidor. El servidor establece contacto con cliente, con el fin de robar información | https://github.com/HappyVenus/SimpleHack | 0 | 0| 
+| 20220721T01:12:23Z | Es un backdoor simple, un cliente y un servidor. El servidor establece contacto con cliente, con el fin de robar información | https://github.com/HappyVenus/SimpleHack | 0 | 0| 
 | 20220720T23:54:41Z | Simple py backdoor(for privilege escalation) | https://github.com/TwoIceFIsh/Py-Backdoor | 0 | 0| 
 | 20220720T13:21:44Z | Null | https://github.com/mrp4trick/wann787-shell-backdoor | 0 | 0| 
 | 20220720T09:51:45Z | This is a backdoor tool, it%s going to being written in C.  | https://github.com/BoazTene/Van-Damme | 0 | 0| 
