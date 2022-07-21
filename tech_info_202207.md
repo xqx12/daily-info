@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T01:10:31Z | php < python, but anyways, here is how to run PHP in python exploiting an api ; ) | https://github.com/xtekky/PHP-Pythong | 0 | 0| 
 | 20220721T00:57:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 718 | 183| 
 | 20220721T00:35:56Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1832 | 277| 
 | 20220720T22:57:38Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220720T14:51:11Z | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | 4 | 1| 
 | 20220720T13:12:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 463 | 131| 
 | 20220720T13:01:59Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 435 | 79| 
-| 20220720T12:48:44Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.-- | 0 | 0| 
 
 
 # backdoor on Github 推荐
