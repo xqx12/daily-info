@@ -125,7 +125,7 @@
 | 20220721T07:56:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 255 | 18| 
 | 20220721T07:55:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 461 | 26| 
 | 20220721T07:40:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3005 | 426| 
-| 20220721T06:29:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 241 | 58| 
+| 20220721T06:29:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 241 | 59| 
 | 20220720T17:25:30Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 40 | 23| 
 | 20220719T12:44:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 41| 
 | 20220719T06:44:02Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 706 | 76| 
