@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220721T01:34:30Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220721T01:21:01Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220720T23:58:32Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
 | 20220720T23:55:03Z | cve-2022-33891 | Null | https://github.com/AkbarTrilaksana/cve-2022-33891 | | 
-| 20220720T23:38:18Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220720T15:18:02Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220720T14:51:11Z | CVE-2022-33891 | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 | 20220720T10:17:11Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
