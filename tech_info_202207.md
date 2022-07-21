@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220721T01:10:31Z | php < python, but anyways, here is how to run PHP in python exploiting an api ; ) | https://github.com/xtekky/PHP-Pythong | 0 | 0| 
+| 20220721T01:12:12Z | php < python, but anyways, here is how to run PHP in python exploiting an api ; ) | https://github.com/xtekky/PHP-Pythong | 0 | 0| 
 | 20220721T00:57:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 718 | 183| 
 | 20220721T00:35:56Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1832 | 277| 
 | 20220720T22:57:38Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
