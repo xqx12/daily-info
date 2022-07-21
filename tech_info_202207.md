@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220721T12:07:01Z | CVE-2022-33891 | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 | 20220721T12:03:50Z | CVE-2020-0137 | Null | https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137 | | 
 | 20220721T11:47:09Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T10:37:49Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220721T09:49:23Z | CVE-2022-30190 | Detection and Remediation of  the Follina MSDT Vulnerability (CVE-2022-30190) | https://github.com/EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190- | | 
 | 20220721T09:36:48Z | CVE-2022-26138 | Atlassian Questions Hardcoded Password (CVE-2022-26138) | https://github.com/alcaparra/CVE-2022-26138 | | 
 | 20220721T09:35:44Z | CVE-2022-1292 | CVE-2022-1292 OpenSSL c_rehash Vulnerability - POC | https://github.com/alcaparra/CVE-2022-1292 | | 
-| 20220721T09:09:24Z | CVE-2022-33891 | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 | 20220721T09:05:01Z | cve-2022-26134 | Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server. | https://github.com/iveresk/cve-2022-26134 | | 
 | 20220721T08:42:50Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220721T06:45:40Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
@@ -96,9 +96,9 @@
 | 20220721T11:04:10Z | JavaScript Prototype Pollution Attack demo against a NodeJS Express server using Lodash | https://github.com/dubniczky/Prototype-Pollution | 0 | 0| 
 | 20220721T10:34:16Z | Android Penetration Tool [RAT for Android ] | https://github.com/anirudhmalik/xhunter | 30 | 10| 
 | 20220721T10:26:39Z | DLL for print exploit (roblox) | https://github.com/ego-code/PRINT-EXPLOIT | 0 | 0| 
+| 20220721T09:48:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3190 | 389| 
 | 20220721T09:40:17Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3362 | 706| 
 | 20220721T09:35:13Z | ass | https://github.com/SoftawreLeaker/Exploit-Slient-Doc-Pdf | 0 | 0| 
-| 20220721T09:27:33Z | Null | https://github.com/tareqrezq/CVE-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
