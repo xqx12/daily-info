@@ -77,7 +77,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220721T12:05:12Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 57 | 6| 
-| 20220721T06:29:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 241 | 58| 
+| 20220721T06:29:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 241 | 59| 
 | 20220719T07:48:57Z | Null | https://github.com/S2eongjin/S2eongjin.github.io | 0 | 0| 
 | 20220716T06:07:09Z | S2E user side repository for Formation Flying study | https://github.com/ut-issl/s2e-ff | 2 | 0| 
 | 20220715T02:13:41Z | Null | https://github.com/S2eongjin/https-s2eongjin.github.io- | 0 | 0| 
@@ -144,9 +144,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T12:26:22Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 574 | 102| 
 | 20220721T12:08:28Z | Null | https://github.com/NaeemAsghar48/FuzzySearch | 0 | 0| 
 | 20220721T12:00:41Z | Null | https://github.com/smnyota/Fuzzy-Personality-Quiz | 0 | 0| 
-| 20220721T11:57:50Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 573 | 102| 
 | 20220721T11:57:38Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1151 | 226| 
 | 20220721T11:22:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7606 | 1636| 
 | 20220721T11:16:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4243 | 1015| 
