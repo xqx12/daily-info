@@ -39,20 +39,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220720T12:16:04Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
-| 20220720T12:03:18Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
+| 20220720T23:58:32Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
+| 20220720T23:55:03Z | cve-2022-33891 | Null | https://github.com/AkbarTrilaksana/cve-2022-33891 | | 
+| 20220720T23:38:18Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
+| 20220720T21:17:58Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
+| 20220720T15:18:02Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
+| 20220720T14:51:11Z | CVE-2022-33891 | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 | 20220720T10:17:11Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
-| 20220720T08:02:45Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220720T05:26:37Z | cve-2022-30333 | Null | https://github.com/rbowes-r7/unrar-cve-2022-30333-poc | | 
-| 20220720T05:15:24Z | CVE-2022-33891 | PoC for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 | 20220720T04:11:58Z | CVE-2020-0188 | Null | https://github.com/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220720T12:58:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7222 | 253| 
-| 20220720T12:29:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2016 | 572| 
+| 20220720T23:21:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7224 | 253| 
+| 20220720T13:41:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2017 | 572| 
 
 
 # s2e on Github 推荐
@@ -63,25 +65,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T22:57:38Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
+| 20220720T22:24:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 717 | 183| 
+| 20220720T21:11:30Z | The Hight Speed MSF Console For Metasploit Framework To Exploit CVE 2015-2523  | https://github.com/krdsploit/MSFu-Extentions- | 0 | 0| 
+| 20220720T20:51:50Z | USE ACCORDING TO FEDERAL, STATE, AND LOCAL LAWS. DOESN%T PROVIDE LIVE RECON OR EXPLOITATION. | https://github.com/cyberparzival0/That-Receiver-Tho | 0 | 0| 
+| 20220720T20:35:40Z | Self Dedicated Cybersecurity Project to explore topics within Cybersecurity such as: Ethical Hacking, Social Engineering, and writing exploits. For educational and research purposes only | https://github.com/Jxred-Z/Key-Logger | 0 | 0| 
+| 20220720T14:51:11Z | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | 4 | 1| 
+| 20220720T13:12:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 463 | 131| 
 | 20220720T13:01:59Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 435 | 79| 
 | 20220720T12:48:44Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.-- | 0 | 0| 
 | 20220720T12:47:54Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.-- | 0 | 0| 
-| 20220720T12:47:05Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.-- | 0 | 0| 
-| 20220720T12:12:24Z | Exploting Stepford since 2022 | https://github.com/YieldingExploiter/StepfordExploitableRailway | 0 | 0| 
-| 20220720T11:25:45Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3457 | 540| 
-| 20220720T10:57:18Z | Repo with information about scooter/car service Fiqsy, it%s api calls and exploits | https://github.com/skajuks/Fiqsy | 0 | 0| 
-| 20220720T10:43:54Z | Why you should choose this course ? Ethical hacking is a training program that assists beginners in their first steps into the cyber security domain. By enrolling in this course, you will learn the fundamentals of hacking, penetration testing, network security, web application security, cloud computing, auditing, and other topics. Who should Join this course ? In the dawn of technologically-advanced solutions, organizations face the challenge and responsibility to efficiently secure their systems and ensure the absence of any vulnerabilities as a precaution to the risks that come along with them. This issue can be best abated by the hiring of an ethical hacker; a professionally trained individual who follows official and legal protocols to investigate an organization’s network and system by performing attacks on it and scrutinizing for any vulnerabilities that can be exploited and may cause harm to the organization’s assets.  | https://github.com/boniyeamincse/ETHICAL-HACKING | 0 | 0| 
-| 20220720T10:37:28Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 1232 | 259| 
-| 20220720T10:31:40Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 1830 | 277| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220720T23:54:41Z | Simple py backdoor(for privilege escalation) | https://github.com/TwoIceFIsh/Py-Backdoor | 0 | 0| 
+| 20220720T13:21:44Z | Null | https://github.com/mrp4trick/wann787-shell-backdoor | 0 | 0| 
 | 20220720T09:51:45Z | This is a backdoor tool, it%s going to being written in C.  | https://github.com/BoazTene/Van-Damme | 0 | 0| 
 | 20220720T09:48:54Z | Null | https://github.com/mr-abhi0/backdoor | 0 | 0| 
 | 20220720T07:07:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 36 | 7| 
-| 20220720T06:35:29Z | Null | https://github.com/TwoIceFIsh/Py-Backdoor | 0 | 0| 
+| 20220720T04:54:07Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/kris-nova/boopkit | 1100 | 113| 
+| 20220720T04:28:13Z | ICML 2022 code for %Neurotoxin: Durable Backdoors in Federated Learning% https://arxiv.org/abs/2206.10341  | https://github.com/jhcknzzm/Federated-Learning-Backdoor | 8 | 1| 
 | 20220720T03:58:43Z | Null | https://github.com/Allen-piexl/CatchBackdoor | 0 | 0| 
 | 20220720T03:36:28Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 108 | 28| 
 
@@ -100,15 +105,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220720T12:07:48Z | Metode Fuzzy Mamdani | https://github.com/upimariani/spk_fuzzy | 0 | 1| 
-| 20220720T11:56:47Z | Null | https://github.com/roypalnadi/fuzzy-tsukomoto | 0 | 0| 
-| 20220720T11:21:51Z | Null | https://github.com/muhamu/fuzzballindonesia | 0 | 0| 
-| 20220720T09:21:59Z | Null | https://github.com/wetcheekclap/fuzzy-bussy | 0 | 0| 
-| 20220720T09:10:27Z | Tutorials and Algorithms related to the Fuzzy Logic | https://github.com/Thanveerahmd/Fuzzy-Logic | 0 | 0| 
-| 20220720T08:35:08Z | Null | https://github.com/fuboat/utils-for-fuzz | 0 | 0| 
-| 20220720T07:10:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4239 | 1012| 
-| 20220720T02:08:07Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 343 | 66| 
-| 20220720T00:35:21Z | Null | https://github.com/prettytotoro/fuzzySearch | 0 | 0| 
+| 20220720T23:48:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 873 | 103| 
+| 20220720T22:55:38Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 45 | 17| 
+| 20220720T21:35:25Z | An API fuzzing tool, that takes in a swagger.json to generate a testing strategy. | https://github.com/ikornaselur/fuzzy | 0 | 0| 
+| 20220720T21:24:24Z | Tool for generating source code based on ANTLR grammars. | https://github.com/l-Luna/AntlrFuzzer | 0 | 0| 
+| 20220720T20:18:54Z | Fuzz a language by mixing up only few words. | https://github.com/sthagen/afasi | 1 | 0| 
+| 20220720T19:28:15Z | A group assignment for Dengue Diagnosis System | https://github.com/ngmelanie/uni_Fuzzy_System_project | 0 | 0| 
+| 20220720T19:26:40Z | Null | https://github.com/compch/fuzzy-enigma | 0 | 0| 
+| 20220720T18:41:41Z | Null | https://github.com/bocilmi/fuzzy-enigma | 0 | 0| 
+| 20220720T18:29:36Z | A fuzzy finding UI for Rust CLI applications  | https://github.com/jamescoleuk/fuzzy_finder | 0 | 0| 
+| 20220720T17:06:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7603 | 1636| 
 
 
 
