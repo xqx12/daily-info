@@ -55,8 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T12:09:39Z | Refining Relative Camera Poses Exploiting Object Detections | https://github.com/IIT-PAVIS/PoserNet | 10 | 0| 
 | 20220721T11:58:50Z | IDA Pro plugin to examine the glibc heap, focused on exploit development | https://github.com/danigargu/heap-viewer | 657 | 82| 
-| 20220721T11:55:19Z | Refining Relative Camera Poses Exploiting Object Detections | https://github.com/IIT-PAVIS/PoserNet | 9 | 0| 
 | 20220721T11:40:11Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 728 | 187| 
 | 20220721T11:36:24Z | 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 674 | 55| 
 | 20220721T11:04:10Z | JavaScript Prototype Pollution Attack demo against a NodeJS Express server using Lodash | https://github.com/dubniczky/Prototype-Pollution | 0 | 0| 
@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T12:08:28Z | Null | https://github.com/NaeemAsghar48/FuzzySearch | 0 | 0| 
 | 20220721T12:00:41Z | Null | https://github.com/smnyota/Fuzzy-Personality-Quiz | 0 | 0| 
 | 20220721T11:57:50Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 573 | 102| 
 | 20220721T11:57:38Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1151 | 226| 
