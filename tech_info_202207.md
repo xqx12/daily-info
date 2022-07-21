@@ -89,6 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T01:36:12Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-..- | 0 | 0| 
+| 20220721T01:35:23Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..- | 0 | 0| 
+| 20220721T01:34:33Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-..- | 0 | 0| 
 | 20220721T01:13:26Z | php < python, but anyways, here is how to run PHP in python exploiting an api ; ) | https://github.com/xtekky/PHP-Python | 0 | 0| 
 | 20220721T01:12:12Z | php < python, but anyways, here is how to run PHP in python exploiting an api ; ) | https://github.com/xtekky/PHP-Pythong | 0 | 0| 
 | 20220721T00:57:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 718 | 183| 
@@ -96,9 +99,6 @@
 | 20220720T22:57:38Z | This repo contains the solutions for Ethernaut solidity hacking & exploit problems | https://github.com/Aymen1001/Ethernaut-solutions-brownie | 0 | 0| 
 | 20220720T21:11:30Z | The Hight Speed MSF Console For Metasploit Framework To Exploit CVE 2015-2523  | https://github.com/krdsploit/MSFu-Extentions- | 0 | 0| 
 | 20220720T20:51:50Z | USE ACCORDING TO FEDERAL, STATE, AND LOCAL LAWS. DOESN%T PROVIDE LIVE RECON OR EXPLOITATION. | https://github.com/cyberparzival0/That-Receiver-Tho | 0 | 0| 
-| 20220720T20:35:40Z | Self Dedicated Cybersecurity Project to explore topics within Cybersecurity such as: Ethical Hacking, Social Engineering, and writing exploits. For educational and research purposes only | https://github.com/Jxred-Z/Key-Logger | 0 | 0| 
-| 20220720T14:51:11Z | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | 4 | 1| 
-| 20220720T13:12:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 463 | 131| 
 
 
 # backdoor on Github 推荐
