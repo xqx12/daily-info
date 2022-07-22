@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220722T01:14:39Z | CVE-2022-30333 | Null | https://github.com/J0hnbX/CVE-2022-30333 | | 
 | 20220722T01:08:32Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220722T01:05:48Z | CVE-2022-34918 | Null | https://github.com/trhacknon/CVE-2022-34918-LPE-PoC | | 
 | 20220722T00:57:25Z | CVE-2022-26138 | Atlassian Questions Hardcoded Password (CVE-2022-26138) | https://github.com/alcaparra/CVE-2022-26138 | | 
@@ -55,7 +56,6 @@
 | 20220721T17:32:15Z | CVE-2022-26809 | THE FINAL POC FOR CVE-2022-26809 TO ACHIEVE RCE | https://github.com/ToomArni65/CVE-2022-26809-POC | | 
 | 20220721T17:12:05Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
 | 20220721T14:56:08Z | cve-2022-26134 | Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server. | https://github.com/iveresk/cve-2022-26134 | | 
-| 20220721T14:49:46Z | 未知编号 | Null | https://github.com/rahul-masal/ubuntu22.04-cve2022 | | 
 
 
 # klee on Github 推荐
@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220722T01:01:29Z | Vulnerabilities Scan: 15000+PoC vulnerability scanning; 20 kinds of application password blasting; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 609 | 109| 
+| 20220722T01:15:52Z | Vulnerabilities Scan: 15000+PoC vulnerability scanning; 20 kinds of application password blasting; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 610 | 109| 
 | 20220722T00:44:23Z | Udemy MrFuzzyBear ecommerce project | https://github.com/stormsusername/MrFuzzyProject | 0 | 0| 
 | 20220721T23:31:39Z | a toy program for fuzzing | https://github.com/Rewzilla/crashy | 1 | 0| 
 | 20220721T22:53:24Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 4 | 0| 
