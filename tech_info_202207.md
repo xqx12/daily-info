@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220722T12:22:31Z | The Best AntiExploit And AntiLag | https://github.com/LegendOfDebug/AntiExploitMC | 0 | 0| 
 | 20220722T11:30:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3193 | 389| 
 | 20220722T11:04:40Z | I mainly write blogs related to pwn / Binary exploitation and what I learned stuff. | https://github.com/yu1hpa/blog | 0 | 0| 
 | 20220722T10:10:45Z | Using buffer overflows to exploit vulnerable C programs. | https://github.com/hwixley/CS-Coursework3 | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220722T07:35:53Z | calculator for performing matrix operations that exploits the (expected) sparseness of its matrix operands | https://github.com/thekangster/sparse | 0 | 0| 
 | 20220722T05:35:24Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3368 | 706| 
 | 20220722T05:23:52Z | A curated list of open-source projects that help exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 167 | 26| 
-| 20220722T01:53:08Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 732 | 188| 
 
 
 # backdoor on Github 推荐
