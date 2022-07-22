@@ -27,7 +27,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220721T23:59:12Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T22:48:55Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220721T22:42:10Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220721T22:06:33Z | CVE-2022-34918 | Null | https://github.com/trhacknon/CVE-2022-34918-LPE-PoC | | 
@@ -37,6 +36,7 @@
 | 20220721T14:56:08Z | cve-2022-26134 | Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server. | https://github.com/iveresk/cve-2022-26134 | | 
 | 20220721T14:49:46Z | 未知编号 | Null | https://github.com/rahul-masal/ubuntu22.04-cve2022 | | 
 | 20220721T13:05:25Z | CVE-2022-26138 | Atlassian Questions Hardcoded Password (CVE-2022-26138) | https://github.com/alcaparra/CVE-2022-26138 | | 
+| 20220721T12:07:01Z | CVE-2022-33891 | Apache Spark Command Injection PoC Exploit for CVE-2022-33891 | https://github.com/west-wind/CVE-2022-33891 | | 
 
 
 # klee on Github 推荐
