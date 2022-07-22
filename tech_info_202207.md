@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220722T00:37:23Z | This is a known method for preforming Remote Code Execution for MW2 on the latest update (Patch 1.4.647.0) | https://github.com/TheOnlyLordVirus/Mw2-RCE-Exploit-Builder | 0 | 0| 
+| 20220722T00:39:14Z | This is a known method for preforming Remote Code Execution for MW2 on the latest update (Patch 1.4.647.0) | https://github.com/TheOnlyLordVirus/Mw2-RCE-Exploit-Builder | 0 | 0| 
 | 20220722T00:05:41Z | some shit stuff that i make for boblox. | https://github.com/DevXternal/Exploit | 0 | 0| 
 | 20220721T23:52:07Z | Este projeto demonstra na prática um ataque de reentrada. | https://github.com/yudikubota/exemplo_ataque_reentrada | 0 | 0| 
 | 20220721T21:38:25Z | GHUB Mouse exploit Python | https://github.com/Oliver-Dahlen/GHUB-Mouse-exploit-Python | 0 | 0| 
