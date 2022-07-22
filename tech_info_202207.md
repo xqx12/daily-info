@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220722T01:03:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN---.. | 0 | 0| 
 | 20220722T00:39:14Z | This is a known method for preforming Remote Code Execution for MW2 on the latest update (Patch 1.4.647.0) | https://github.com/TheOnlyLordVirus/Mw2-RCE-Exploit-Builder | 0 | 0| 
 | 20220722T00:05:41Z | some shit stuff that i make for boblox. | https://github.com/DevXternal/Exploit | 0 | 0| 
 | 20220721T23:52:07Z | Este projeto demonstra na prática um ataque de reentrada. | https://github.com/yudikubota/exemplo_ataque_reentrada | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220721T19:58:43Z | Null | https://github.com/reducing-exploitability/reducing-exploitability.github.io | 0 | 0| 
 | 20220721T19:27:15Z | Null | https://github.com/HarshalBhole/Binary-exploitation | 0 | 0| 
 | 20220721T15:26:06Z | Exploiter get data wiped | https://github.com/RoseGoldIsntGay/Rosemoc | 0 | 0| 
-| 20220721T12:41:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7460 | 1737| 
 
 
 # backdoor on Github 推荐
