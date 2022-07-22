@@ -55,7 +55,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220721T23:52:07Z | Este projeto demonstra na prática um ataque de reentrada. | https://github.com/yudikubota/exemplo_ataque_reentrada | 0 | 0| 
 | 20220721T21:38:25Z | GHUB Mouse exploit Python | https://github.com/Oliver-Dahlen/GHUB-Mouse-exploit-Python | 0 | 0| 
 | 20220721T21:09:25Z | Android Penetration Tool [ RAT for Android ] | https://github.com/anirudhmalik/xhunter | 31 | 10| 
 | 20220721T20:14:22Z | POC exploit for CVE-2021-21972 | https://github.com/pettyhacks/vSphereyeeter | 1 | 0| 
@@ -65,6 +64,7 @@
 | 20220721T12:41:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7460 | 1738| 
 | 20220721T12:41:36Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3363 | 706| 
 | 20220721T12:09:39Z | Refining Relative Camera Poses Exploiting Object Detections | https://github.com/IIT-PAVIS/PoserNet | 10 | 0| 
+| 20220721T12:05:12Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 57 | 6| 
 
 
 # backdoor on Github 推荐
