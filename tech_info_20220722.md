@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220722T12:27:12Z | Refining Relative Camera Poses Exploiting Object Detections | https://github.com/IIT-PAVIS/PoserNet | 17 | 0| 
 | 20220722T12:22:31Z | The Best AntiExploit And AntiLag | https://github.com/LegendOfDebug/AntiExploitMC | 0 | 0| 
 | 20220722T11:30:29Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3193 | 389| 
 | 20220722T11:04:40Z | I mainly write blogs related to pwn / Binary exploitation and what I learned stuff. | https://github.com/yu1hpa/blog | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20220722T07:44:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3464 | 541| 
 | 20220722T07:35:53Z | calculator for performing matrix operations that exploits the (expected) sparseness of its matrix operands | https://github.com/thekangster/sparse | 0 | 0| 
 | 20220722T05:35:24Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3368 | 706| 
-| 20220722T05:23:52Z | A curated list of open-source projects that help exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 167 | 26| 
 
 
 # backdoor on Github 推荐
@@ -96,7 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220722T12:12:08Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 677 | 116| 
+| 20220722T12:20:43Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 678 | 116| 
 | 20220722T11:49:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7613 | 1637| 
 | 20220722T10:29:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4247 | 1015| 
 | 20220722T10:08:59Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2872 | 592| 
