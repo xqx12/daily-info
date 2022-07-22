@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T23:59:44Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 609 | 109| 
 | 20220721T23:31:39Z | a toy program for fuzzing | https://github.com/Rewzilla/crashy | 1 | 0| 
 | 20220721T22:53:24Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 4 | 0| 
 | 20220721T22:36:51Z | Null | https://github.com/sudapronsirima632-gmail-com/fuzzy-eureka | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20220721T18:23:21Z | Null | https://github.com/aykutbeke/Learning-with-type-2-fuzzy-activation-functions-to-improve-the-performance-of-deep-neural-networks | 1 | 0| 
 | 20220721T17:29:48Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 181 | 21| 
 | 20220721T16:05:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2572 | 172| 
-| 20220721T12:58:18Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 577 | 102| 
 
 
 

@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220722T00:10:51Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
+| 20220722T00:20:17Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T22:48:55Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220721T22:42:10Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220721T22:06:33Z | CVE-2022-34918 | Null | https://github.com/trhacknon/CVE-2022-34918-LPE-PoC | | 
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T23:59:44Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 609 | 109| 
 | 20220721T23:31:39Z | a toy program for fuzzing | https://github.com/Rewzilla/crashy | 1 | 0| 
 | 20220721T22:53:24Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 4 | 0| 
 | 20220721T22:36:51Z | Null | https://github.com/sudapronsirima632-gmail-com/fuzzy-eureka | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20220721T18:23:21Z | Null | https://github.com/aykutbeke/Learning-with-type-2-fuzzy-activation-functions-to-improve-the-performance-of-deep-neural-networks | 1 | 0| 
 | 20220721T17:29:48Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 181 | 21| 
 | 20220721T16:05:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2572 | 172| 
-| 20220721T12:58:18Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 577 | 102| 
 
 
 
