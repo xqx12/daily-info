@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220722T00:05:41Z | some shit stuff that i make for boblox. | https://github.com/DevXternal/Exploit | 0 | 0| 
 | 20220721T23:52:07Z | Este projeto demonstra na prática um ataque de reentrada. | https://github.com/yudikubota/exemplo_ataque_reentrada | 0 | 0| 
 | 20220721T21:38:25Z | GHUB Mouse exploit Python | https://github.com/Oliver-Dahlen/GHUB-Mouse-exploit-Python | 0 | 0| 
 | 20220721T21:09:25Z | Android Penetration Tool [ RAT for Android ] | https://github.com/anirudhmalik/xhunter | 31 | 10| 
@@ -96,9 +97,8 @@
 | 20220721T19:58:43Z | Null | https://github.com/reducing-exploitability/reducing-exploitability.github.io | 0 | 0| 
 | 20220721T19:27:15Z | Null | https://github.com/HarshalBhole/Binary-exploitation | 0 | 0| 
 | 20220721T15:26:06Z | Exploiter get data wiped | https://github.com/RoseGoldIsntGay/Rosemoc | 0 | 0| 
+| 20220721T12:41:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7460 | 1737| 
 | 20220721T12:41:36Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3363 | 706| 
-| 20220721T12:09:39Z | Refining Relative Camera Poses Exploiting Object Detections | https://github.com/IIT-PAVIS/PoserNet | 10 | 0| 
-| 20220721T12:05:12Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 57 | 6| 
 
 
 # backdoor on Github 推荐
@@ -119,6 +119,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220721T22:53:24Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 4 | 0| 
+| 20220721T16:41:50Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 12 | 2| 
 | 20220721T12:38:41Z | Optik is a set of tools based on symbolic execution that provide assistance during smart-contract audits | https://github.com/trailofbits/optik | 2 | 0| 
 | 20220721T10:53:11Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 12 | 2| 
 | 20220721T08:21:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2017 | 572| 
@@ -127,8 +129,6 @@
 | 20220721T07:40:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3005 | 426| 
 | 20220721T06:29:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 241 | 59| 
 | 20220720T17:25:30Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 40 | 23| 
-| 20220719T12:44:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 41| 
-| 20220719T06:44:02Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 706 | 76| 
 
 
 # big4 on Github 推荐
