@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220722T00:57:25Z | CVE-2022-26138 | Atlassian Questions Hardcoded Password (CVE-2022-26138) | https://github.com/alcaparra/CVE-2022-26138 | | 
 | 20220722T00:51:03Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220722T00:33:24Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T22:42:10Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
@@ -55,7 +56,6 @@
 | 20220721T17:12:05Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
 | 20220721T14:56:08Z | cve-2022-26134 | Just simple PoC for the Atlassian Jira exploit. Provides code execution for unauthorised user on a server. | https://github.com/iveresk/cve-2022-26134 | | 
 | 20220721T14:49:46Z | 未知编号 | Null | https://github.com/rahul-masal/ubuntu22.04-cve2022 | | 
-| 20220721T13:05:25Z | CVE-2022-26138 | Atlassian Questions Hardcoded Password (CVE-2022-26138) | https://github.com/alcaparra/CVE-2022-26138 | | 
 
 
 # klee on Github 推荐
