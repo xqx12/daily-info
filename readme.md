@@ -62,7 +62,7 @@
 | 20220721T19:58:43Z | Null | https://github.com/reducing-exploitability/reducing-exploitability.github.io | 0 | 0| 
 | 20220721T19:27:15Z | Null | https://github.com/HarshalBhole/Binary-exploitation | 0 | 0| 
 | 20220721T15:26:06Z | Exploiter get data wiped | https://github.com/RoseGoldIsntGay/Rosemoc | 0 | 0| 
-| 20220721T12:41:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7460 | 1737| 
+| 20220721T12:41:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7460 | 1738| 
 | 20220721T12:41:36Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3363 | 706| 
 | 20220721T12:09:39Z | Refining Relative Camera Poses Exploiting Object Detections | https://github.com/IIT-PAVIS/PoserNet | 10 | 0| 
 
