@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220722T12:46:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7234 | 253| 
+| 20220722T12:57:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7235 | 253| 
 | 20220722T12:21:34Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 739 | 37| 
 | 20220722T07:23:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2018 | 572| 
 | 20220719T07:34:07Z | Null | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-backend | 0 | 0| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220722T12:57:59Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 743 | 189| 
 | 20220722T12:43:35Z | Null | https://github.com/TobyG74/StumbleGuys-Exploit | 6 | 5| 
 | 20220722T12:31:34Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 508 | 59| 
 | 20220722T12:27:12Z | Refining Relative Camera Poses Exploiting Object Detections | https://github.com/IIT-PAVIS/PoserNet | 17 | 0| 
@@ -98,7 +99,6 @@
 | 20220722T10:10:45Z | Using buffer overflows to exploit vulnerable C programs. | https://github.com/hwixley/CS-Coursework3 | 0 | 0| 
 | 20220722T09:57:56Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 683 | 56| 
 | 20220722T08:14:28Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 7288 | 1927| 
-| 20220722T07:44:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3464 | 541| 
 
 
 # backdoor on Github 推荐
