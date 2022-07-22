@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220722T00:44:23Z | Udemy MrFuzzyBear ecommerce project | https://github.com/stormsusername/MrFuzzyProject | 0 | 0| 
 | 20220722T00:30:06Z | Vulnerabilities Scan; 15000+PoC vulnerability scanning; 20 kinds of application password blasting; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW management, BugBounty artifact... | https://github.com/hktalent/scan4all | 609 | 109| 
 | 20220721T23:31:39Z | a toy program for fuzzing | https://github.com/Rewzilla/crashy | 1 | 0| 
 | 20220721T22:53:24Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 4 | 0| 
@@ -153,7 +154,6 @@
 | 20220721T19:45:24Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 929 | 70| 
 | 20220721T18:23:21Z | Null | https://github.com/aykutbeke/Learning-with-type-2-fuzzy-activation-functions-to-improve-the-performance-of-deep-neural-networks | 1 | 0| 
 | 20220721T17:29:48Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 181 | 21| 
-| 20220721T16:05:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2572 | 172| 
 
 
 
