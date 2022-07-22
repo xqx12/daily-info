@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220722T01:53:59Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
+| 20220722T01:56:22Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220722T01:25:15Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220722T01:14:39Z | CVE-2022-30333 | Null | https://github.com/J0hnbX/CVE-2022-30333 | | 
 | 20220722T01:05:48Z | CVE-2022-34918 | Null | https://github.com/trhacknon/CVE-2022-34918-LPE-PoC | | 
