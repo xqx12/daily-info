@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220722T01:05:48Z | CVE-2022-34918 | Null | https://github.com/trhacknon/CVE-2022-34918-LPE-PoC | | 
+| 20220722T01:03:54Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220722T00:57:25Z | CVE-2022-26138 | Atlassian Questions Hardcoded Password (CVE-2022-26138) | https://github.com/alcaparra/CVE-2022-26138 | | 
-| 20220722T00:51:03Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220722T00:33:24Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220721T22:42:10Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
-| 20220721T22:06:33Z | CVE-2022-34918 | Null | https://github.com/trhacknon/CVE-2022-34918-LPE-PoC | | 
 | 20220721T18:29:48Z | cve-2022-33891 | cve-2022-33891-poc | https://github.com/W01fh4cker/cve-2022-33891 | | 
 | 20220721T17:32:15Z | CVE-2022-26809 | THE FINAL POC FOR CVE-2022-26809 TO ACHIEVE RCE | https://github.com/ToomArni65/CVE-2022-26809-POC | | 
 | 20220721T17:12:05Z | CVE-2021-22205 | CVE-2021-22205 检测脚本,支持getshell和命令执行 | https://github.com/keven1z/CVE-2021-22205 | | 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220722T01:04:51Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN---.. | 0 | 0| 
 | 20220722T01:03:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN---.. | 0 | 0| 
 | 20220722T00:39:14Z | This is a known method for preforming Remote Code Execution for MW2 on the latest update (Patch 1.4.647.0) | https://github.com/TheOnlyLordVirus/Mw2-RCE-Exploit-Builder | 0 | 0| 
 | 20220722T00:05:41Z | some shit stuff that i make for boblox. | https://github.com/DevXternal/Exploit | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220721T20:14:22Z | POC exploit for CVE-2021-21972 | https://github.com/pettyhacks/vSphereyeeter | 1 | 0| 
 | 20220721T19:58:43Z | Null | https://github.com/reducing-exploitability/reducing-exploitability.github.io | 0 | 0| 
 | 20220721T19:27:15Z | Null | https://github.com/HarshalBhole/Binary-exploitation | 0 | 0| 
-| 20220721T15:26:06Z | Exploiter get data wiped | https://github.com/RoseGoldIsntGay/Rosemoc | 0 | 0| 
 
 
 # backdoor on Github 推荐
