@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220722T01:41:33Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
+| 20220722T01:53:59Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220722T01:25:15Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220722T01:14:39Z | CVE-2022-30333 | Null | https://github.com/J0hnbX/CVE-2022-30333 | | 
 | 20220722T01:05:48Z | CVE-2022-34918 | Null | https://github.com/trhacknon/CVE-2022-34918-LPE-PoC | | 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220722T01:53:08Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 732 | 188| 
 | 20220722T01:39:10Z | Demonstração de um ataque de reentrada em solidity. | https://github.com/yudikubota/exemplo_ataque_reentrada | 0 | 0| 
 | 20220722T01:05:59Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN---.. | 0 | 0| 
 | 20220722T01:04:51Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN---.. | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220721T21:38:25Z | GHUB Mouse exploit Python | https://github.com/Oliver-Dahlen/GHUB-Mouse-exploit-Python | 0 | 0| 
 | 20220721T21:09:25Z | Android Penetration Tool [ RAT for Android ] | https://github.com/anirudhmalik/xhunter | 31 | 10| 
 | 20220721T20:14:22Z | POC exploit for CVE-2021-21972 | https://github.com/pettyhacks/vSphereyeeter | 1 | 0| 
-| 20220721T19:58:43Z | Null | https://github.com/reducing-exploitability/reducing-exploitability.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
