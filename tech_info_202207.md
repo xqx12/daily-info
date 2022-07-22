@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220721T23:59:44Z | Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器... | https://github.com/hktalent/scan4all | 609 | 109| 
+| 20220722T00:30:06Z | Vulnerabilities Scan; 15000+PoC vulnerability scanning; 20 kinds of application password blasting; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW management, BugBounty artifact... | https://github.com/hktalent/scan4all | 609 | 109| 
 | 20220721T23:31:39Z | a toy program for fuzzing | https://github.com/Rewzilla/crashy | 1 | 0| 
 | 20220721T22:53:24Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 4 | 0| 
 | 20220721T22:36:51Z | Null | https://github.com/sudapronsirima632-gmail-com/fuzzy-eureka | 0 | 0| 
