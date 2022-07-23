@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220723T00:14:18Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--.0 | 0 | 0| 
+| 20220723T00:13:31Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-0 | 0 | 0| 
 | 20220722T23:44:32Z | Null | https://github.com/Rtxryhan/ExploitCheckthrow | 0 | 0| 
 | 20220722T21:47:38Z | exploit | https://github.com/Tqrtled/exploit | 0 | 0| 
 | 20220722T21:33:44Z | The New Exploit there no available on metasploit framework ! | https://github.com/krdsploit/CVE-2002-2420 | 0 | 0| 
@@ -97,8 +99,6 @@
 | 20220722T19:03:25Z | 🔥 Arbimz is a python tool developed to exploit CVE-2019-9670 | https://github.com/oppsec/arbimz | 5 | 0| 
 | 20220722T16:51:21Z | MOSSE INSTITUTE CERTIFIED VULNERABILITY RESEARCHER AND EXPLOITATION DEVELOPMENT COURSE | https://github.com/0xTriboulet/MVRE | 0 | 0| 
 | 20220722T13:49:36Z | Roblox scripts for exploiting | https://github.com/QWE3TYYT/RobloxScripts | 0 | 0| 
-| 20220722T12:57:59Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 743 | 189| 
-| 20220722T12:43:35Z | Null | https://github.com/TobyG74/StumbleGuys-Exploit | 6 | 5| 
 
 
 # backdoor on Github 推荐
@@ -154,7 +154,7 @@
 | 20220722T21:48:17Z | Null | https://github.com/YouCertAuth/FuzzyExtractorWasm | 0 | 0| 
 | 20220722T20:00:21Z | Null | https://github.com/SallehKhalid/Human-like-Flexible-Queries-of-Relational-Databases-Fuzzy-based-Approach | 0 | 0| 
 | 20220722T12:51:52Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 680 | 116| 
-| 20220722T11:49:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7613 | 1637| 
+| 20220722T11:49:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7613 | 1638| 
 
 
 

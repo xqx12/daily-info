@@ -110,7 +110,7 @@
 | 20220722T21:48:17Z | Null | https://github.com/YouCertAuth/FuzzyExtractorWasm | 0 | 0| 
 | 20220722T20:00:21Z | Null | https://github.com/SallehKhalid/Human-like-Flexible-Queries-of-Relational-Databases-Fuzzy-based-Approach | 0 | 0| 
 | 20220722T12:51:52Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 680 | 116| 
-| 20220722T11:49:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7613 | 1637| 
+| 20220722T11:49:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7613 | 1638| 
 
 
 
