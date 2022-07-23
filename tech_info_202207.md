@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220723T00:50:57Z | Null | https://github.com/0x414141414/Word-Exploit-2022-0day | 0 | 0| 
 | 20220723T00:49:50Z | Null | https://github.com/0x414141414/Silent-XLL-DROPPER-EXPLOIT | 0 | 0| 
 | 20220723T00:49:03Z | Null | https://github.com/0x414141414/SILENT-JPG-EXPLOIT-CLEAN | 0 | 0| 
 | 20220723T00:47:07Z | Null | https://github.com/Meeow103/Silent-Excel-Exploit---EXE-to-XLS-Builder | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220723T00:15:13Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--.0 | 0 | 0| 
 | 20220723T00:14:18Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--.0 | 0 | 0| 
 | 20220723T00:13:31Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-0 | 0 | 0| 
-| 20220722T23:44:32Z | Null | https://github.com/Rtxryhan/ExploitCheckthrow | 0 | 0| 
 
 
 # backdoor on Github 推荐
