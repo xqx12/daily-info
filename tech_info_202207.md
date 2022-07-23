@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220723T00:52:05Z | Null | https://github.com/0x414141414/PDF-EXPLOIT | 0 | 0| 
 | 20220723T00:50:57Z | Null | https://github.com/0x414141414/Word-Exploit-2022-0day | 0 | 0| 
 | 20220723T00:49:50Z | Null | https://github.com/0x414141414/Silent-XLL-DROPPER-EXPLOIT | 0 | 0| 
 | 20220723T00:49:03Z | Null | https://github.com/0x414141414/SILENT-JPG-EXPLOIT-CLEAN | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220723T00:23:59Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1655 | 545| 
 | 20220723T00:15:13Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN--.0 | 0 | 0| 
 | 20220723T00:14:18Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN--.0 | 0 | 0| 
-| 20220723T00:13:31Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-.-0 | 0 | 0| 
 
 
 # backdoor on Github 推荐
