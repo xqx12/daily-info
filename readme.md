@@ -73,8 +73,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220723T12:08:11Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 840 | 127| 
 | 20220723T11:36:49Z | Null | https://github.com/ukrytyaaa/fuzzy-computing-machine | 0 | 0| 
-| 20220723T11:27:35Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 839 | 127| 
 | 20220723T11:24:35Z | SUT-generator for fuzzing experiments | https://github.com/fuzzbian/dungeon_master | 0 | 0| 
 | 20220723T11:17:10Z | Config files for my GitHub profile. | https://github.com/fuzzbian/fuzzbian | 0 | 0| 
 | 20220723T10:49:11Z | Command Fuzzer for Crashed challenge  | https://github.com/juba0x00/Command-Fuzzer | 0 | 0| 
