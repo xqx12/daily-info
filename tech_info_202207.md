@@ -98,7 +98,7 @@
 | 20220723T08:56:24Z | EXPLOIT FOR CVE IDRAC 8 2021 | https://github.com/krdsploit/DELL-IDRAC-8-EXPLOIT | 0 | 0| 
 | 20220723T08:12:40Z | Some tricks using in CTFs event | https://github.com/Trumpiter-max/Tricks-in-web-exploit | 2 | 0| 
 | 20220723T03:31:05Z | A curated list of open-source projects that help exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 169 | 27| 
-| 20220723T01:37:45Z | Penetration Tester all CVE Exploitation tool | https://github.com/imhunterand/PenetrationTesterRE | 0 | 0| 
+| 20220723T03:15:20Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 686 | 56| 
 
 
 # backdoor on Github 推荐
