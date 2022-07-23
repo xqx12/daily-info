@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220723T01:30:37Z | Penetration Tester all CVE Exploitation tool | https://github.com/imhunterand/PenetrationTesterRE | 0 | 0| 
+| 20220723T01:37:45Z | Penetration Tester all CVE Exploitation tool | https://github.com/imhunterand/PenetrationTesterRE | 0 | 0| 
 | 20220723T01:27:04Z | TPAEG:Tcache Poisoning Automatic Exploit Generation | https://github.com/matr1x2022/TPAEG | 0 | 0| 
 | 20220723T00:59:23Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1656 | 545| 
 | 20220723T00:52:05Z | Null | https://github.com/0x414141414/PDF-EXPLOIT | 0 | 0| 
