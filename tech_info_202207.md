@@ -119,7 +119,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220722T22:09:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3010 | 426| 
+| 20220723T05:20:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3011 | 426| 
+| 20220723T03:40:19Z | Null | https://github.com/rollrat/babel-symbolic-execution | 0 | 0| 
 | 20220722T16:15:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2019 | 572| 
 | 20220721T22:53:24Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 4 | 0| 
 | 20220721T16:41:50Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 12 | 2| 
@@ -128,7 +129,6 @@
 | 20220721T07:56:31Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 255 | 18| 
 | 20220721T07:55:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 461 | 26| 
 | 20220721T06:29:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 241 | 59| 
-| 20220720T17:25:30Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 40 | 23| 
 
 
 # big4 on Github 推荐
