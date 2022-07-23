@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220723T12:33:21Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.-.- | 0 | 0| 
 | 20220723T12:32:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN.-.- | 0 | 0| 
 | 20220723T12:31:15Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN.-.- | 0 | 0| 
 | 20220723T11:40:13Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 510 | 61| 
@@ -98,7 +99,6 @@
 | 20220723T08:12:40Z | Some tricks using in CTFs event | https://github.com/Trumpiter-max/Tricks-in-web-exploit | 2 | 0| 
 | 20220723T03:31:05Z | A curated list of open-source projects that help exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 169 | 27| 
 | 20220723T01:37:45Z | Penetration Tester all CVE Exploitation tool | https://github.com/imhunterand/PenetrationTesterRE | 0 | 0| 
-| 20220723T01:27:04Z | TPAEG:Tcache Poisoning Automatic Exploit Generation | https://github.com/matr1x2022/TPAEG | 0 | 0| 
 
 
 # backdoor on Github 推荐
