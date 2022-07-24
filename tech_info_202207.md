@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220724T00:23:44Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN6 | 0 | 0| 
 | 20220723T23:50:56Z | Ping. Ping. Ping. | https://github.com/cawfree/opensea-submarine | 4 | 0| 
 | 20220723T23:19:25Z | hacking? i have no idea how to do that, just me trying to find exploits using whatever i can | https://github.com/iluvpy/hax | 0 | 0| 
 | 20220723T22:18:49Z | my exploit | https://github.com/ssssssssad/SkySploit | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220723T19:39:56Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 38 | 5| 
 | 20220723T19:37:30Z | keyless executer for free turn of realtime scan its not a virus i use my own executer too | https://github.com/jeltehehe/Bleu-Exploit | 0 | 0| 
 | 20220723T15:16:22Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1080 | 95| 
-| 20220723T12:33:21Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN.-.- | 0 | 0| 
 
 
 # backdoor on Github 推荐
