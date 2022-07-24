@@ -70,6 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220723T22:40:59Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 14 | 2| 
+| 20220723T16:43:03Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 5 | 0| 
+| 20220723T13:56:01Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 256 | 18| 
 | 20220723T05:20:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3011 | 426| 
 | 20220723T03:40:19Z | Null | https://github.com/rollrat/babel-symbolic-execution | 0 | 0| 
 
