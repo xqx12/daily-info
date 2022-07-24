@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220724T12:32:48Z | Config files for my GitHub profile. | https://github.com/ExploitCN/ExploitCN | 0 | 0| 
 | 20220724T11:54:47Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 765 | 201| 
 | 20220724T11:37:35Z | *arr stack reverse shell exploit | https://github.com/jac/exploitarr | 0 | 0| 
 | 20220724T10:09:11Z | 타교육생 공격 및 방어 | https://github.com/liz0904/Exploit_Users | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220724T07:58:23Z | Void-Ware an exceptional Exploit | https://github.com/Zywuss/Void-WareC | 0 | 0| 
 | 20220724T07:45:50Z | Exploitation tool for [Slider Revolution Shell Upload] | https://github.com/imhunterand/SRShell | 0 | 0| 
 | 20220724T07:45:09Z | Null | https://github.com/0xfoysal/Bolt-CMS-Version-3.7.1-RCE-Exploit | 0 | 0| 
-| 20220724T06:06:59Z | The emergency button (conditional on input: y/n) gives immediate priority to the Uber rider and changes their location to the nearest hospital to avoid exploitation. | https://github.com/venebris/Uber-Hackathon | 0 | 0| 
 
 
 # backdoor on Github 推荐
