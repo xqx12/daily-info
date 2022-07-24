@@ -90,6 +90,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220724T00:42:02Z | Hello, this github is made for new roblox exploit scripters, here I will upload alot of free scripts I make, for people to be able to learn from all of them! | https://github.com/OdshDays/The-Mint-Scripts | 0 | 0| 
+| 20220724T00:41:06Z | statically linked post-exploitation tools for linux | https://github.com/jm33-m0/static-bins | 5 | 5| 
 | 20220724T00:25:35Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN6 | 0 | 0| 
 | 20220724T00:24:43Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN6 | 0 | 0| 
 | 20220724T00:23:44Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN6 | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220723T22:18:49Z | my exploit | https://github.com/ssssssssad/SkySploit | 0 | 0| 
 | 20220723T22:07:49Z | A free and open-source exploit tool, auto farmer, and quester for Wizard101. | https://github.com/Slackaduts/Deimos-Wizard101 | 2 | 2| 
 | 20220723T20:53:12Z | A repository for the organisation and storage of shellcode, exploits, and tools I have created. | https://github.com/D4rkByt3s/H4ck_Th3_Pl4n3t | 0 | 0| 
-| 20220723T19:47:30Z | Studying protostar (and go) | https://github.com/dfelinto/protostar-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
