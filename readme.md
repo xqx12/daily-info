@@ -38,8 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220724T12:41:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 766 | 201| 
 | 20220724T12:32:48Z | Config files for my GitHub profile. | https://github.com/ExploitCN/ExploitCN | 0 | 0| 
-| 20220724T11:54:47Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 765 | 201| 
 | 20220724T11:37:35Z | *arr stack reverse shell exploit | https://github.com/jac/exploitarr | 0 | 0| 
 | 20220724T10:09:11Z | 타교육생 공격 및 방어 | https://github.com/liz0904/Exploit_Users | 0 | 0| 
 | 20220724T09:18:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3470 | 543| 
