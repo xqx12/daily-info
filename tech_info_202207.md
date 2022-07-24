@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220724T01:00:54Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 852 | 128| 
 | 20220723T23:53:35Z | Fuzzing tool project | https://github.com/Gurguii/-Work-in-Progress- | 1 | 0| 
 | 20220723T23:00:18Z |  Sistema Fuzzy embarcado em uma máquina de lavar roupa capaz de controlar corretamente a temperatura da agua e tempo do ciclo. | https://github.com/rebekahveiga/Sistema-Fuzzy-M-quina-de-Lavar | 0 | 0| 
 | 20220723T22:26:22Z | Null | https://github.com/juzzie1/fuzzy-journey | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220723T19:35:19Z | Null | https://github.com/olivebeto56/fuzzy_logic_AG | 0 | 0| 
 | 20220723T16:37:15Z | Null | https://github.com/MacielMachado/fuzzy | 0 | 0| 
 | 20220723T14:56:51Z | Developing a Fuzzy C Means model to implement on the given datasets  | https://github.com/Stuti-Agarwal/machineLearningFuzzyCMeans | 0 | 0| 
-| 20220723T12:08:11Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 840 | 127| 
 
 
 

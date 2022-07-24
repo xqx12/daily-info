@@ -92,7 +92,7 @@
 | 20220723T19:35:19Z | Null | https://github.com/olivebeto56/fuzzy_logic_AG | 0 | 0| 
 | 20220723T16:37:15Z | Null | https://github.com/MacielMachado/fuzzy | 0 | 0| 
 | 20220723T14:56:51Z | Developing a Fuzzy C Means model to implement on the given datasets  | https://github.com/Stuti-Agarwal/machineLearningFuzzyCMeans | 0 | 0| 
-| 20220723T12:08:11Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 840 | 127| 
+| 20220723T11:36:49Z | Null | https://github.com/ukrytyaaa/fuzzy-computing-machine | 0 | 0| 
 
 
 
