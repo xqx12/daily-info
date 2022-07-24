@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220724T00:25:35Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN6 | 0 | 0| 
+| 20220724T00:24:43Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN6 | 0 | 0| 
 | 20220724T00:23:44Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN6 | 0 | 0| 
 | 20220723T23:50:56Z | Ping. Ping. Ping. | https://github.com/cawfree/opensea-submarine | 4 | 0| 
 | 20220723T23:19:25Z | hacking? i have no idea how to do that, just me trying to find exploits using whatever i can | https://github.com/iluvpy/hax | 0 | 0| 
@@ -97,8 +99,6 @@
 | 20220723T20:53:12Z | A repository for the organisation and storage of shellcode, exploits, and tools I have created. | https://github.com/D4rkByt3s/H4ck_Th3_Pl4n3t | 0 | 0| 
 | 20220723T19:47:30Z | Studying protostar (and go) | https://github.com/dfelinto/protostar-exploits | 0 | 0| 
 | 20220723T19:39:56Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 38 | 5| 
-| 20220723T19:37:30Z | keyless executer for free turn of realtime scan its not a virus i use my own executer too | https://github.com/jeltehehe/Bleu-Exploit | 0 | 0| 
-| 20220723T15:16:22Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1080 | 95| 
 
 
 # backdoor on Github 推荐
