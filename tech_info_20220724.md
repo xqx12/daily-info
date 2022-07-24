@@ -79,6 +79,7 @@
 | 20220724T07:04:39Z | What%s the fuzz all about in graph ql. | https://github.com/elbancud/el-graph-kiyo | 0 | 0| 
 | 20220724T07:04:20Z | Null | https://github.com/adasarpan404/fuzzy-fiesta | 1 | 0| 
 | 20220724T06:02:00Z | Null | https://github.com/dalakatt/fuzzy-bassoon | 1 | 0| 
+| 20220724T05:18:25Z | Null | https://github.com/flyingfoxe/fuzzy-octo-bassoon | 0 | 0| 
 | 20220724T01:04:06Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 853 | 128| 
 
 
