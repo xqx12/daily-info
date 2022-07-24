@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220724T12:57:06Z | Trying and experimenting with fuzzy logic libraries | https://github.com/JonaOliv/FuzzyLogicExperiment | 0 | 0| 
 | 20220724T11:48:04Z | https://en.wikipedia.org/wiki/Approximate_string_matching | https://github.com/lemon-mint/fuzzy-search-study | 0 | 0| 
 | 20220724T10:22:08Z | optional | https://github.com/Mohamed-Hamou/fuzzy-fiesta | 1 | 0| 
 | 20220724T09:57:34Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy | 1 | 0| 
@@ -154,7 +155,6 @@
 | 20220724T07:04:20Z | Null | https://github.com/adasarpan404/fuzzy-fiesta | 1 | 0| 
 | 20220724T06:02:00Z | Null | https://github.com/dalakatt/fuzzy-bassoon | 1 | 0| 
 | 20220724T05:18:25Z | Null | https://github.com/flyingfoxe/fuzzy-octo-bassoon | 0 | 0| 
-| 20220724T01:04:06Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 853 | 128| 
 
 
 
