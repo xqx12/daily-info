@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220724T00:40:10Z | Hello, this github is made for new roblox exploit scripters, here I will upload alot of free scripts I make, for people to be able to learn from all of them! | https://github.com/OdshDays/The-Mint-Scripts | 0 | 0| 
+| 20220724T00:42:02Z | Hello, this github is made for new roblox exploit scripters, here I will upload alot of free scripts I make, for people to be able to learn from all of them! | https://github.com/OdshDays/The-Mint-Scripts | 0 | 0| 
 | 20220724T00:25:35Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN6 | 0 | 0| 
 | 20220724T00:24:43Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN6 | 0 | 0| 
 | 20220724T00:23:44Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN6 | 0 | 0| 
