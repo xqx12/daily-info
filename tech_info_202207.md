@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220724T00:16:32Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220723T23:27:20Z | CVE-2022-30507 | PoC for CVE-2022–30507 | https://github.com/yosef0x01/CVE-2022-30507 | | 
-| 20220723T21:56:27Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220723T17:10:58Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC&EXP | https://github.com/z92g/CVE-2022-0543 | | 
 | 20220723T14:56:45Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220723T14:47:06Z | CVE-2022-26134 | 远程攻击者在Confluence未经身份验证的情况下，可构造OGNL表达式进行注入，实现在Confluence Server或Data Center上执行任意代码,在现有脚本上修改了poc，方便getshell。 | https://github.com/keven1z/CVE-2022-26134 | | 
