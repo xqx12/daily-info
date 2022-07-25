@@ -47,11 +47,11 @@
 | 20220724T20:27:24Z | Null | https://github.com/Eliza-Bujor/NetworkVulnerabilityExploitation | 0 | 0| 
 | 20220724T18:48:16Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/TitaniumMC | 8 | 1| 
 | 20220724T14:03:28Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2556 | 401| 
-| 20220724T12:41:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 766 | 201| 
 | 20220724T12:32:48Z | Config files for my GitHub profile. | https://github.com/ExploitCN/ExploitCN | 0 | 0| 
 | 20220724T11:37:35Z | *arr stack reverse shell exploit | https://github.com/jac/exploitarr | 0 | 0| 
 | 20220724T10:09:11Z | 타교육생 공격 및 방어 | https://github.com/liz0904/Exploit_Users | 0 | 0| 
 | 20220724T09:18:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3470 | 543| 
+| 20220724T08:04:49Z | Libsafe - Safety Check Bypass Vulnerability (Proof of Concept Exploit & Time Randomization to Thwart It) | https://github.com/tagatac/libsafe-CVE-2005-1125 | 3 | 0| 
 
 
 # backdoor on Github 推荐
