@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T12:37:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7618 | 1641| 
 | 20220725T12:08:41Z | Null | https://github.com/N3W2CODE/fuzzy-fortnight | 0 | 0| 
 | 20220725T11:47:34Z | Null | https://github.com/yartha-r/FuzzyTrust-ONESim | 0 | 0| 
 | 20220725T11:41:28Z | Project which is part of my exchange program at the University of Stuttgart. Fuzzing is a technique to automatically test software with semi-random input, and the goal of the project is to analyze and compare the performance of different fuzzers (tools that execute fuzzing). | https://github.com/FelipeGirardi/FuzzingProject | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220725T09:00:00Z | Null | https://github.com/tsrigo/fuzzy_math_homework | 0 | 0| 
 | 20220725T08:36:54Z | Null | https://github.com/ProLupin/fuzzy-waddle | 0 | 0| 
 | 20220725T03:49:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 900 | 104| 
-| 20220725T02:39:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4253 | 1018| 
 
 
 
