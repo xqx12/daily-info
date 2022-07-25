@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T00:38:03Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN8 | 0 | 0| 
+| 20220725T00:37:08Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN8 | 0 | 0| 
 | 20220725T00:21:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 464 | 131| 
 | 20220725T00:16:52Z | A fork of thc-ssl-dos that supports all SSL/TLS implementations, UDP protocol (using DTLS) and both renegotiation and reconnect attacks. It also includes a docker lab to test the exploit. | https://github.com/cyberaz0r/thc-ssl-dos_mod | 0 | 0| 
 | 20220725T00:00:51Z | Android Penetration Tool [ RAT for Android ] | https://github.com/anirudhmalik/xhunter | 37 | 11| 
@@ -97,8 +99,6 @@
 | 20220724T20:27:24Z | Null | https://github.com/Eliza-Bujor/NetworkVulnerabilityExploitation | 0 | 0| 
 | 20220724T18:48:16Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/TitaniumMC | 8 | 1| 
 | 20220724T14:03:28Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2556 | 401| 
-| 20220724T12:41:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 766 | 201| 
-| 20220724T12:32:48Z | Config files for my GitHub profile. | https://github.com/ExploitCN/ExploitCN | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -145,6 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T00:38:01Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 878 | 130| 
 | 20220725T00:28:25Z | Fuzzy Lookup for Google Sheets | https://github.com/bencmbrook/fuzzy-lookup | 0 | 0| 
 | 20220724T23:34:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7617 | 1640| 
 | 20220724T22:56:41Z | Null | https://github.com/YouCertAuth/FuzzyExtractorWasm | 0 | 0| 
@@ -154,7 +155,6 @@
 | 20220724T16:16:57Z | Google Sheets plugin | https://github.com/bencmbrook/fuzzymatch | 0 | 0| 
 | 20220724T13:14:59Z | Async (fuzz) server that handles incoming connections and forwards payloads to all connected clients | https://github.com/0xricksanchez/fuzz_server_stub | 0 | 0| 
 | 20220724T12:57:06Z | Trying and experimenting with fuzzy logic libraries | https://github.com/JonaOliv/FuzzyLogicExperiment | 0 | 0| 
-| 20220724T11:48:04Z | https://en.wikipedia.org/wiki/Approximate_string_matching | https://github.com/lemon-mint/fuzzy-search-study | 0 | 0| 
 
 
 
