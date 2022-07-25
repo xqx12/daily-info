@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220725T12:36:30Z | CVE-2021-22911 | Null | https://github.com/Walker-00/CVE-2021-22911 | | 
 | 20220725T11:57:50Z | CVE-2021-0520 | Null | https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520 | | 
 | 20220725T11:53:59Z | CVE-2021-0520 | Null | https://github.com/ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520 | | 
 | 20220725T10:59:23Z | CVE-2022-26134 | 远程攻击者在Confluence未经身份验证的情况下，可构造OGNL表达式进行注入，实现在Confluence Server或Data Center上执行任意代码,在现有脚本上修改了poc，方便getshell。 | https://github.com/keven1z/CVE-2022-26134 | | 
@@ -55,7 +56,6 @@
 | 20220725T06:15:05Z | CVE-2022-34918 | Null | https://github.com/linulinu/CVE-2022-34918 | | 
 | 20220725T05:42:41Z | CVE-2022-0543 | CVE-2022-0543_RCE,Redis Lua沙盒绕过 命令执行 | https://github.com/aodsec/CVE-2022-0543 | | 
 | 20220725T01:45:56Z | CVE-2022-26138 | Null | https://github.com/1mxml/CVE-2022-26138 | | 
-| 20220724T21:02:40Z | CVE-2022-30507 | PoC for CVE-2022–30507 | https://github.com/yosef0x01/CVE-2022-30507 | | 
 
 
 # klee on Github 推荐
