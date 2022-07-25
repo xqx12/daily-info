@@ -32,7 +32,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220724T14:18:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7251 | 253| 
 | 20220724T09:58:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2020 | 572| 
-| 20220724T00:43:01Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 2 | 0| 
 
 
 # s2e on Github 推荐
