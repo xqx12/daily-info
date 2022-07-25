@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T00:48:10Z | Crypter that’s FUD also works as a binder and macros office exploit. One of the best crypters on the market  | https://github.com/Purecoder666/purecrypter | 0 | 0| 
 | 20220725T00:38:52Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN8 | 0 | 0| 
 | 20220725T00:38:03Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN8 | 0 | 0| 
 | 20220725T00:37:08Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN8 | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220724T21:52:21Z | Null | https://github.com/mu71l473d/linux-exploits | 0 | 0| 
 | 20220724T21:03:00Z | Hello, this github is made for new roblox exploit scripters, here I will upload alot of free scripts I make, for people to be able to learn from all of them! | https://github.com/OdshDays/The-Mint-Scripts | 3 | 0| 
 | 20220724T20:27:24Z | Null | https://github.com/Eliza-Bujor/NetworkVulnerabilityExploitation | 0 | 0| 
-| 20220724T18:48:16Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/TitaniumMC | 8 | 1| 
 
 
 # backdoor on Github 推荐
