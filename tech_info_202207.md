@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220725T01:52:38Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 889 | 135| 
+| 20220725T01:55:09Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 890 | 135| 
 | 20220725T01:33:16Z | Null | https://github.com/109598065/On-Generating-REST-API-Fuzzing-Inputs-Using-Classification-Methods | 0 | 0| 
 | 20220725T01:04:02Z | Learning how fuzzers work. | https://github.com/burntfuzz/improvised-fuzzer | 0 | 0| 
 | 20220725T00:28:25Z | Fuzzy Lookup for Google Sheets | https://github.com/bencmbrook/fuzzy-lookup | 0 | 0| 
