@@ -45,10 +45,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T12:21:36Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 792 | 205| 
 | 20220725T12:17:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3480 | 543| 
 | 20220725T11:58:34Z | IDA Pro plugin to examine the glibc heap, focused on exploit development | https://github.com/danigargu/heap-viewer | 664 | 83| 
 | 20220725T11:00:33Z |  Bangladesh is a country of youths. These youth are so involved with their virtual life. They share all their emotions of love and hate, aggression and violence over these social media platforms. These youngsters regularly find themselves in a violent virtual space that has negatively influenced their daily real life. We are trying to understand young people’s attitudes and behaviour over social media platforms and attempts to explain the social media as an uncontrolled and violent platform for the youths.  Social media stages have been utilized for information and news gathering, and they are very profitable in numerous applications. However, they lead to the spreading of rumors and fake news. Numerous endeavors have been taken to detect and expose rumors on social media by analyzing their substance and social context using machine learning procedures. This paper gives a diagram of the later studies in the rumor location field. It gives a comprehensive list of datasets utilized for rumor detection, and audits the imperative studies based on what sorts of data they exploit and the approaches they take. And more critically, we moreover show several new headings for future research. | https://github.com/sazolborman/Fake_News_Detection | 1 | 0| 
-| 20220725T10:51:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 791 | 204| 
 | 20220725T10:48:01Z | I wanted to write up an exploit, so I wrote up my own for Capcom. | https://github.com/Exploitables/CapRoot | 1 | 0| 
 | 20220725T10:33:41Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 2 | 1| 
 | 20220725T10:25:44Z | A roblox exploit. | https://github.com/ExploitHackers/torsploit | 0 | 0| 
