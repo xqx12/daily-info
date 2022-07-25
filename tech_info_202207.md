@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220725T01:45:56Z | CVE-2022-26138 | Null | https://github.com/1mxml/CVE-2022-26138 | | 
 | 20220724T21:02:40Z | CVE-2022-30507 | PoC for CVE-2022–30507 | https://github.com/yosef0x01/CVE-2022-30507 | | 
 | 20220724T16:49:13Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
 | 20220724T15:41:30Z | cve-2022-33891 | Apache Spark RCE | https://github.com/llraudseppll/cve-2022-33891 | | 
@@ -55,7 +56,6 @@
 | 20220724T07:18:04Z | CVE-2022-32114 | An unrestricted file upload vulnerability in the Add New Assets function of Strapi v4.1.12 allows attackers to execute arbitrary code via a crafted file. | https://github.com/bypazs/CVE-2022-32114 | | 
 | 20220724T00:16:32Z | CVE-2022-32832 | Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6 | https://github.com/Muirey03/CVE-2022-32832 | | 
 | 20220723T17:10:58Z | CVE-2022-0543 | Redis 沙盒逃逸（CVE-2022-0543）POC&EXP | https://github.com/z92g/CVE-2022-0543 | | 
-| 20220723T06:10:14Z | CVE-2022-26138 | Atlassian Questions Hardcoded Password (CVE-2022-26138) | https://github.com/alcaparra/CVE-2022-26138 | | 
 
 
 # klee on Github 推荐
@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220725T01:34:59Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 887 | 134| 
+| 20220725T01:44:21Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 888 | 134| 
 | 20220725T01:33:16Z | Null | https://github.com/109598065/On-Generating-REST-API-Fuzzing-Inputs-Using-Classification-Methods | 0 | 0| 
 | 20220725T01:04:02Z | Learning how fuzzers work. | https://github.com/burntfuzz/improvised-fuzzer | 0 | 0| 
 | 20220725T00:28:25Z | Fuzzy Lookup for Google Sheets | https://github.com/bencmbrook/fuzzy-lookup | 0 | 0| 
