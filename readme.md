@@ -69,6 +69,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T11:48:10Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 6 | 0| 
+| 20220725T10:02:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3016 | 426| 
 
 
 # big4 on Github 推荐
@@ -86,9 +88,9 @@
 | 20220725T09:01:33Z | Null | https://github.com/DudiAM19/fuzzy-chainsaw | 0 | 0| 
 | 20220725T09:00:00Z | Null | https://github.com/tsrigo/fuzzy_math_homework | 0 | 0| 
 | 20220725T08:36:54Z | Null | https://github.com/ProLupin/fuzzy-waddle | 0 | 0| 
+| 20220725T03:49:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 900 | 104| 
 | 20220725T02:39:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4253 | 1018| 
 | 20220725T02:32:15Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 46 | 17| 
-| 20220725T02:30:52Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 62 | 5| 
 
 
 

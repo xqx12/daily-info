@@ -119,10 +119,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220724T16:51:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3014 | 426| 
+| 20220725T11:48:10Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 6 | 0| 
+| 20220725T10:02:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3016 | 426| 
 | 20220724T09:58:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2020 | 572| 
 | 20220723T22:40:59Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 14 | 2| 
-| 20220723T16:43:03Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 5 | 0| 
 | 20220723T13:56:01Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 256 | 18| 
 | 20220723T03:40:19Z | Null | https://github.com/rollrat/babel-symbolic-execution | 0 | 0| 
 | 20220721T12:38:41Z | Optik is a set of tools based on symbolic execution that provide assistance during smart-contract audits | https://github.com/trailofbits/optik | 2 | 0| 
@@ -152,9 +152,9 @@
 | 20220725T09:01:33Z | Null | https://github.com/DudiAM19/fuzzy-chainsaw | 0 | 0| 
 | 20220725T09:00:00Z | Null | https://github.com/tsrigo/fuzzy_math_homework | 0 | 0| 
 | 20220725T08:36:54Z | Null | https://github.com/ProLupin/fuzzy-waddle | 0 | 0| 
+| 20220725T03:49:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 900 | 104| 
 | 20220725T02:39:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4253 | 1018| 
 | 20220725T02:32:15Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 46 | 17| 
-| 20220725T02:30:52Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 62 | 5| 
 
 
 
