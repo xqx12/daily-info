@@ -43,7 +43,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220724T23:38:45Z | A fork of thc-ssl-dos that supports all SSL/TLS implementations, UDP protocol (using DTLS) and both renegotiation and reconnect attacks. It also includes a docker lab to test the exploit. | https://github.com/cyberaz0r/thc-ssl-dos_mod | 0 | 0| 
 | 20220724T21:52:21Z | Null | https://github.com/mu71l473d/linux-exploits | 0 | 0| 
 | 20220724T21:03:00Z | Hello, this github is made for new roblox exploit scripters, here I will upload alot of free scripts I make, for people to be able to learn from all of them! | https://github.com/OdshDays/The-Mint-Scripts | 3 | 0| 
 | 20220724T20:27:24Z | Null | https://github.com/Eliza-Bujor/NetworkVulnerabilityExploitation | 0 | 0| 
@@ -53,6 +52,7 @@
 | 20220724T12:32:48Z | Config files for my GitHub profile. | https://github.com/ExploitCN/ExploitCN | 0 | 0| 
 | 20220724T11:37:35Z | *arr stack reverse shell exploit | https://github.com/jac/exploitarr | 0 | 0| 
 | 20220724T10:09:11Z | 타교육생 공격 및 방어 | https://github.com/liz0904/Exploit_Users | 0 | 0| 
+| 20220724T09:18:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3470 | 543| 
 
 
 # backdoor on Github 推荐
