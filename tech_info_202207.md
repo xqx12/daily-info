@@ -89,11 +89,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T00:00:51Z | Android Penetration Tool [ RAT for Android ] | https://github.com/anirudhmalik/xhunter | 37 | 11| 
 | 20220724T23:38:45Z | A fork of thc-ssl-dos that supports all SSL/TLS implementations, UDP protocol (using DTLS) and both renegotiation and reconnect attacks. It also includes a docker lab to test the exploit. | https://github.com/cyberaz0r/thc-ssl-dos_mod | 0 | 0| 
 | 20220724T21:52:21Z | Null | https://github.com/mu71l473d/linux-exploits | 0 | 0| 
 | 20220724T21:03:00Z | Hello, this github is made for new roblox exploit scripters, here I will upload alot of free scripts I make, for people to be able to learn from all of them! | https://github.com/OdshDays/The-Mint-Scripts | 3 | 0| 
 | 20220724T20:27:24Z | Null | https://github.com/Eliza-Bujor/NetworkVulnerabilityExploitation | 0 | 0| 
-| 20220724T19:14:19Z | Android Penetration Tool [ RAT for Android ] | https://github.com/anirudhmalik/xhunter | 36 | 11| 
 | 20220724T18:48:16Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/TitaniumMC | 8 | 1| 
 | 20220724T14:03:28Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2556 | 401| 
 | 20220724T12:41:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 766 | 201| 
