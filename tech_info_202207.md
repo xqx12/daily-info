@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T01:25:48Z | Defense Against Exploit-Based Denial-of-Service Attacks on Web Servers | https://github.com/STEELISI/LEADER | 0 | 0| 
 | 20220725T00:48:10Z | Crypter that’s FUD also works as a binder and macros office exploit. One of the best crypters on the market  | https://github.com/Purecoder666/purecrypter | 0 | 0| 
 | 20220725T00:38:52Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN8 | 0 | 0| 
 | 20220725T00:38:03Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN8 | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220725T00:00:51Z | Android Penetration Tool [ RAT for Android ] | https://github.com/anirudhmalik/xhunter | 37 | 11| 
 | 20220724T21:52:21Z | Null | https://github.com/mu71l473d/linux-exploits | 0 | 0| 
 | 20220724T21:03:00Z | Hello, this github is made for new roblox exploit scripters, here I will upload alot of free scripts I make, for people to be able to learn from all of them! | https://github.com/OdshDays/The-Mint-Scripts | 3 | 0| 
-| 20220724T20:27:24Z | Null | https://github.com/Eliza-Bujor/NetworkVulnerabilityExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220725T01:26:49Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 884 | 133| 
+| 20220725T01:28:12Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 885 | 133| 
 | 20220725T01:04:02Z | Learning how fuzzers work. | https://github.com/burntfuzz/improvised-fuzzer | 0 | 0| 
 | 20220725T00:28:25Z | Fuzzy Lookup for Google Sheets | https://github.com/bencmbrook/fuzzy-lookup | 0 | 0| 
 | 20220724T23:34:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7617 | 1640| 
