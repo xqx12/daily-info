@@ -119,7 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220724T12:33:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3013 | 426| 
+| 20220724T16:51:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3014 | 426| 
 | 20220724T09:58:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2020 | 572| 
 | 20220723T22:40:59Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 14 | 2| 
 | 20220723T16:43:03Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 5 | 0| 
