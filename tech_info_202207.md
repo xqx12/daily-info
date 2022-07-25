@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T00:38:52Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN8 | 0 | 0| 
 | 20220725T00:38:03Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN8 | 0 | 0| 
 | 20220725T00:37:08Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN8 | 0 | 0| 
 | 20220725T00:21:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 464 | 131| 
@@ -98,7 +99,6 @@
 | 20220724T21:03:00Z | Hello, this github is made for new roblox exploit scripters, here I will upload alot of free scripts I make, for people to be able to learn from all of them! | https://github.com/OdshDays/The-Mint-Scripts | 3 | 0| 
 | 20220724T20:27:24Z | Null | https://github.com/Eliza-Bujor/NetworkVulnerabilityExploitation | 0 | 0| 
 | 20220724T18:48:16Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitanVale/TitaniumMC | 8 | 1| 
-| 20220724T14:03:28Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2556 | 401| 
 
 
 # backdoor on Github 推荐
