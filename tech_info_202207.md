@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220725T01:47:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 779 | 201| 
+| 20220725T01:56:38Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 780 | 201| 
 | 20220725T01:25:48Z | Defense Against Exploit-Based Denial-of-Service Attacks on Web Servers | https://github.com/STEELISI/LEADER | 0 | 0| 
 | 20220725T00:48:10Z | Crypter that’s FUD also works as a binder and macros office exploit. One of the best crypters on the market  | https://github.com/Purecoder666/purecrypter | 0 | 0| 
 | 20220725T00:38:52Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN8 | 0 | 0| 
