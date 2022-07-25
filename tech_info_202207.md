@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220725T12:37:15Z | CVE-2021-0520 | Null | https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520 | | 
 | 20220725T12:36:30Z | CVE-2021-22911 | Null | https://github.com/Walker-00/CVE-2021-22911 | | 
-| 20220725T11:57:50Z | CVE-2021-0520 | Null | https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520 | | 
 | 20220725T11:53:59Z | CVE-2021-0520 | Null | https://github.com/ShaikUsaf/frameworks_av_AOSP10_r33_CVE-2021-0520 | | 
 | 20220725T10:59:23Z | CVE-2022-26134 | 远程攻击者在Confluence未经身份验证的情况下，可构造OGNL表达式进行注入，实现在Confluence Server或Data Center上执行任意代码,在现有脚本上修改了poc，方便getshell。 | https://github.com/keven1z/CVE-2022-26134 | | 
 | 20220725T09:30:27Z | CVE-2022-26138 | Unauthenticated RCE via CVE-2022-26138 confluence | https://github.com/Daro1967/CVE-2022-26138-RCE | | 
