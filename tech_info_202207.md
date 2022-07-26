@@ -145,7 +145,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220726T00:35:46Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 944 | 142| 
+| 20220726T01:16:53Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 945 | 142| 
 | 20220725T23:00:58Z | How would one fuzz font featuers? | https://github.com/madig/fontfuzz | 1 | 0| 
 | 20220725T22:48:26Z | Demonstrate how Mayhem for API uncovers non-trivial endpoints with Coverage Guided Fuzzing | https://github.com/ForAllSecure/mapi-coverage-example | 0 | 0| 
 | 20220725T22:46:13Z | Null | https://github.com/emma-sutherland/warm-fuzzies | 0 | 0| 
