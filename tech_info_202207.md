@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220726T00:42:54Z | Null | https://github.com/RRTropical/Prssure-Wash-Simulator-Exploit | 0 | 0| 
 | 20220726T00:18:49Z | Null | https://github.com/mixx688/router_exploit | 0 | 0| 
 | 20220725T23:55:54Z | Please, exploit me! | https://github.com/Silva97/exploit-me | 15 | 1| 
 | 20220725T22:10:49Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 969 | 202| 
@@ -98,7 +99,6 @@
 | 20220725T19:17:50Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1087 | 95| 
 | 20220725T17:47:07Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2559 | 402| 
 | 20220725T16:51:41Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 38 | 13| 
-| 20220725T15:25:14Z | Solutions and exploits of CTF challenges I%ve successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | 0 | 0| 
 
 
 # backdoor on Github 推荐
