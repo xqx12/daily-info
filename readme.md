@@ -76,8 +76,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220725T20:42:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3017 | 427| 
+| 20220725T18:41:44Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 15 | 2| 
 | 20220725T11:48:10Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 6 | 0| 
-| 20220725T10:02:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3016 | 426| 
 
 
 # big4 on Github 推荐
