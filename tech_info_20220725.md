@@ -22,7 +22,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220725T22:54:33Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
-| 20220725T15:29:07Z | CVE-2022-34918 | Null | https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC | | 
 | 20220725T15:22:00Z | CVE-2022-31245 | CVE-2022-31245: RCE and domain admin privilege escalation for Mailcow | https://github.com/ly1g3/Mailcow-CVE-2022-31245 | | 
 | 20220725T13:39:32Z | CVE-2022-35131 | Joplin CVE-2022-35131, RCE | https://github.com/ly1g3/Joplin-CVE-2022-35131 | | 
 | 20220725T12:37:15Z | CVE-2021-0520 | Null | https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520 | | 
@@ -31,6 +30,7 @@
 | 20220725T10:59:23Z | CVE-2022-26134 | 远程攻击者在Confluence未经身份验证的情况下，可构造OGNL表达式进行注入，实现在Confluence Server或Data Center上执行任意代码,在现有脚本上修改了poc，方便getshell。 | https://github.com/keven1z/CVE-2022-26134 | | 
 | 20220725T09:30:27Z | CVE-2022-26138 | Unauthenticated RCE via CVE-2022-26138 confluence | https://github.com/Daro1967/CVE-2022-26138-RCE | | 
 | 20220725T09:01:36Z | CVE-2022-26809 | Null | https://github.com/Ziggy78/CVE-2022-26809-RCE-POC | | 
+| 20220725T06:15:05Z | CVE-2022-34918 | Null | https://github.com/linulinu/CVE-2022-34918 | | 
 
 
 # klee on Github 推荐

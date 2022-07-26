@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220726T01:51:26Z | CVE-2022-34918 | Null | https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC | | 
 | 20220725T22:54:33Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
-| 20220725T15:29:07Z | CVE-2022-34918 | Null | https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC | | 
 | 20220725T15:22:00Z | CVE-2022-31245 | CVE-2022-31245: RCE and domain admin privilege escalation for Mailcow | https://github.com/ly1g3/Mailcow-CVE-2022-31245 | | 
 | 20220725T13:39:32Z | CVE-2022-35131 | Joplin CVE-2022-35131, RCE | https://github.com/ly1g3/Joplin-CVE-2022-35131 | | 
 | 20220725T12:37:15Z | CVE-2021-0520 | Null | https://github.com/nidhi7598/frameworks_av_AOSP_10_r33_CVE-2021-0520 | | 
