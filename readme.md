@@ -65,6 +65,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220726T12:37:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 795 | 157| 
 | 20220726T11:02:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2023 | 573| 
 | 20220726T10:45:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3016 | 427| 
 | 20220726T05:42:02Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 257 | 18| 

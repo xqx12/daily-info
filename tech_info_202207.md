@@ -119,6 +119,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220726T12:37:52Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 795 | 157| 
 | 20220726T11:02:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2023 | 573| 
 | 20220726T10:45:44Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3016 | 427| 
 | 20220726T05:42:02Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 257 | 18| 
@@ -128,7 +129,6 @@
 | 20220721T12:38:41Z | Optik is a set of tools based on symbolic execution that provide assistance during smart-contract audits | https://github.com/trailofbits/optik | 2 | 0| 
 | 20220721T10:53:11Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 12 | 2| 
 | 20220721T07:55:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 461 | 26| 
-| 20220721T06:29:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 241 | 59| 
 
 
 # big4 on Github 推荐
