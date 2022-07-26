@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220726T12:23:10Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-9 | 0 | 0| 
+| 20220726T12:22:30Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220726T12:21:40Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220726T12:18:33Z | Binary Exploitation 42.fr Project | https://github.com/nickaroot/override | 0 | 0| 
 | 20220726T12:11:27Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2985 | 460| 
@@ -97,8 +99,6 @@
 | 20220726T11:06:18Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 294 | 34| 
 | 20220726T10:39:09Z | authenticated remote code execution via shell upload. | https://github.com/p1ckzi/nanocmshell | 0 | 0| 
 | 20220726T10:31:22Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 0 | 0| 
-| 20220726T10:24:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3488 | 543| 
-| 20220726T09:55:37Z | A write up for select challenges from a Cybersecurity final project. Challenges include web exploits, cryptography, pentesting, reverse engineering and forensics. | https://github.com/michsarg/CaptureTheFlagWriteup | 0 | 0| 
 
 
 # backdoor on Github 推荐
