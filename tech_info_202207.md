@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220727T01:18:39Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | | 
 | 20220727T01:05:11Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20220726T22:35:26Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220726T13:36:18Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
@@ -55,7 +56,6 @@
 | 20220726T09:59:30Z | CVE-2022-1388 | CVE-2022-1388 F5 Big IP unauth remote code execution | https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388 | | 
 | 20220726T05:57:46Z | CVE-2022-31181 | Module for PrestaShop 1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
 | 20220726T05:26:14Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
-| 20220726T05:25:55Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | | 
 
 
 # klee on Github 推荐
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T01:18:39Z | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | 37 | 8| 
 | 20220727T00:31:53Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220727T00:31:03Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220727T00:30:04Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-p | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220726T21:33:28Z | Exploit sheet for BFOs PDF Gen. | https://github.com/Insecurities/Big-Face-Exploit | 0 | 0| 
 | 20220726T21:30:04Z | Null | https://github.com/RRTropical/FIXED-Mining-Clicker-Simulator-Exploit | 0 | 0| 
 | 20220726T21:04:45Z | Null | https://github.com/RRTropical/Mining-Clicker-Simulator-Exploit | 0 | 0| 
-| 20220726T20:44:25Z | This Linux Virtual Machine is designed with several vulnerabilities that includes ports obfuscation configurations , architecture based on real scenarios , altered/hindered shells, privilege escalations, Remote Exploitation, misconfiguration of Kernel/OS, SSH entry point, samba shares, steganography etc. are also defined in a complete Linux environment. | https://github.com/notnue/Virtual-Vulnerable-Linux-Machine-for-Penetration-Testing-and-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
