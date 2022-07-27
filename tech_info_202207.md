@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220727 | DeepJIT：用于实时缺陷预测的端到端深度学习框架 | https://mp.weixin.qq.com/s/d3ANaov0XbHdvd4iC7s_Xw| 
+| 20220727 | 基于AST变化嵌入的实时缺陷预测 | https://mp.weixin.qq.com/s/TRS6wUo0_dtfnEvS3tYuQw| 
 | 20220725 | 缓冲区溢出漏洞那些事：C -gets函数 | https://www.sec-in.com/article/1606| 
 | 20220725 | SecWiki周刊（第438期) | https://www.sec-wiki.com/weekly/438| 
 | 20220725 | PDGraph：针对不安全项目依赖的大规模实证研究 | https://mp.weixin.qq.com/s/6EiqeaabiSzMFXJXL4Avpw| 
@@ -39,14 +41,13 @@
 | 20220724 | afrog 发布 Release 1.3.6 漫天星辰 | https://github.com/zan8in/afrog/releases/tag/v1.3.6| 
 | 20220722 | CVE-2019-0808 | https://www.sec-in.com/article/1616| 
 | 20220722 | 如何通过GPS追踪器关闭汽车引擎 | https://www.wolai.com/callisto-auto/6wKbkRsHs9iJ4Wqm7ptT38| 
-| 20220722 | 可视化全链路日志追踪 | https://mp.weixin.qq.com/s/Er4-X8q5MKZZUgAUHyeLwA| 
-| 20220722 | 代码表征预训练语言模型学习指南：原理、分析和代码 | https://mp.weixin.qq.com/s/kQ3ARDM06mKnYdzEwuzVLg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220727T01:24:33Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
+| 20220727T06:58:05Z | CVE-2022-31181 | Module for PrestaShop 1.6.1.X/1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
+| 20220727T02:19:36Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220727T01:18:39Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | | 
 | 20220727T01:05:11Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20220726T22:35:26Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
@@ -54,23 +55,22 @@
 | 20220726T11:36:39Z | CVE-2022-1292 | Null | https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292 | | 
 | 20220726T10:45:47Z | CVE-2022-2466 | Null | https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL | | 
 | 20220726T09:59:30Z | CVE-2022-1388 | CVE-2022-1388 F5 Big IP unauth remote code execution | https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388 | | 
-| 20220726T05:57:46Z | CVE-2022-31181 | Module for PrestaShop 1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
 | 20220726T05:26:14Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T11:55:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7272 | 255| 
+| 20220727T11:52:07Z | Fuzzing tutorial with easy to learn labs. | https://github.com/yuawn/Fuzzing | 31 | 3| 
+| 20220727T10:31:08Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
+| 20220727T07:20:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2026 | 573| 
 | 20220726T22:54:22Z | Null | https://github.com/klee16/klee16 | 0 | 0| 
-| 20220726T15:09:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2024 | 573| 
-| 20220726T14:53:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7264 | 255| 
 | 20220725T01:02:40Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 3 | 0| 
 | 20220722T12:21:34Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 739 | 37| 
 | 20220719T07:34:07Z | Null | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-backend | 0 | 0| 
 | 20220718T09:51:01Z | 최원익, 김영수, 오창훈 | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-frontend | 0 | 0| 
 | 20220715T12:40:45Z | Null | https://github.com/kleenex1/kleenex1.github.io | 0 | 0| 
-| 20220715T11:07:04Z | Null | https://github.com/Ruri963/klee-website | 0 | 0| 
-| 20220714T07:17:46Z | This font is based on the font Klee One by Fontworks, and the font LXGW WenKai by LXGW for adding Simplified and Traditional Chinese character glyphs. The pinyin characters are added by ToneOZ.com using the open source tool Mengshen, with the IVS heteronyms font concept from the Bopomofo IVS by But Ko. | https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai | 26 | 1| 
 
 
 # s2e on Github 推荐
@@ -104,16 +104,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T10:23:27Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 39 | 7| 
+| 20220727T09:42:01Z | Instruction guide on a debian vm install. (vmplayer)  I will make this Intentionally insecure to practice backdoor%ing and penetration testing | https://github.com/loneicewolf/debian_vm_install | 0 | 0| 
+| 20220727T09:20:18Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 529 | 105| 
+| 20220727T07:13:27Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 61 | 13| 
+| 20220727T06:46:24Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 18 | 17| 
 | 20220727T00:07:19Z | Null | https://github.com/Nanboy-Ronan/Backdoor-FedGAN | 0 | 0| 
 | 20220726T21:49:31Z | Null | https://github.com/amicsoniu/Python_Backdoor_with_Covert_Channel | 1 | 0| 
 | 20220726T20:36:41Z | This is the official implementation code of paper [%Backdoor Attacks on Crowd Counting%](https://arxiv.org/abs/2207.05641) accepted by ACM MM 2022. | https://github.com/protagolabs/BackdoorAttacksonCrowdCounting | 0 | 0| 
 | 20220726T14:28:40Z | Golang后门程序 及 管理系统 | https://github.com/go-well/spider | 1 | 0| 
 | 20220726T13:10:07Z | Um backdoor em python | https://github.com/marcio404/Backdoor.py | 0 | 0| 
-| 20220726T11:08:34Z | The project that makes it possible to take over minecraft servers anonymously! | https://github.com/KingDevCode/VirusV5-Web | 0 | 0| 
-| 20220726T06:51:18Z | Python Remote Administrations Tools for Windows | https://github.com/reztdev/pyRAT | 1 | 2| 
-| 20220726T03:03:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 527 | 104| 
-| 20220725T19:11:50Z | Source code for paper %CS2D: A novel Framework for Backdoor Learning%.  | https://github.com/jeremyxianx/CS2D | 0 | 0| 
-| 20220725T14:36:42Z | Golang后门程序 及 管理系统 | https://github.com/zgwit/spider | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220727T01:47:26Z | Sistema de controle de estacionamento baseado em metodologia Fuzzy. | https://github.com/marcosgprado/park-assist-carina1-fuzzy | 0 | 0| 
-| 20220727T01:38:48Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 998 | 147| 
-| 20220727T01:24:39Z | Null | https://github.com/knrbokhari/social-media-app-fuzzy-lamp | 0 | 0| 
-| 20220727T00:55:29Z | Null | https://github.com/eagraf/fuzzpython | 0 | 0| 
-| 20220727T00:06:31Z | Null | https://github.com/flavio-mota/sin260-fuzzy | 0 | 0| 
-| 20220726T21:11:38Z | Find parts of long text or data, allowing for some changes/typos. | https://github.com/taleinat/fuzzysearch | 214 | 18| 
-| 20220726T20:18:21Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1242 | 95| 
-| 20220726T19:38:34Z | Null | https://github.com/leonidk/fuzzy-metaballs | 4 | 0| 
-| 20220726T18:45:46Z | react app | https://github.com/banzaman/fuzzy-barnacle | 0 | 0| 
-| 20220726T18:15:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4255 | 1020| 
+| 20220727T11:42:10Z | Simple 1. Example Fuzzing Project to test CI Fuzz | https://github.com/skisssbb/cifuzz_example1 | 0 | 0| 
+| 20220727T11:39:00Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 25 | 2| 
+| 20220727T11:31:24Z | Null | https://github.com/vargen/fuzz-unit-c-demo | 0 | 0| 
+| 20220727T11:27:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7626 | 1642| 
+| 20220727T10:55:30Z | Null | https://github.com/codecss1/fuzzy-barnacle | 0 | 0| 
+| 20220727T10:50:13Z | fuzz bench | https://github.com/kimiwanano/fuzz_bench_candidate | 0 | 0| 
+| 20220727T10:43:14Z | Null | https://github.com/soongxian/Sugeno-Fuzzy-Integral-Based-CNN-Ensemble | 0 | 0| 
+| 20220727T10:02:29Z | Null | https://github.com/lil-larsi/SecCodeFuzzers | 0 | 0| 
+| 20220727T09:19:30Z | Framework to conduct a comparative study of various Fuzzy AHP Algorithms | https://github.com/ahmedfaran/Fuzzy-AHP-Comparison | 0 | 0| 
+| 20220727T02:43:04Z | Null | https://github.com/knrbokhari/social-media-app-fuzzy-lamp | 0 | 0| 
 
 
 
