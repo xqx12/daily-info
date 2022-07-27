@@ -86,14 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220726T21:11:38Z | Find parts of long text or data, allowing for some changes/typos. | https://github.com/taleinat/fuzzysearch | 214 | 18| 
+| 20220726T20:18:21Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1242 | 95| 
+| 20220726T19:38:34Z | Null | https://github.com/leonidk/fuzzy-metaballs | 4 | 0| 
+| 20220726T18:45:46Z | react app | https://github.com/banzaman/fuzzy-barnacle | 0 | 0| 
+| 20220726T18:15:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4255 | 1020| 
+| 20220726T18:15:09Z | Null | https://github.com/juangago1999/fuzzy-octo-lamp | 0 | 0| 
+| 20220726T17:41:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7622 | 1642| 
+| 20220726T15:11:49Z | Null | https://github.com/JonoCX/fuzzy-labs-tech-challenge | 0 | 0| 
+| 20220726T14:29:44Z | Null | https://github.com/mar7ipon2/fuzzy_sets | 0 | 0| 
 | 20220726T12:51:50Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 980 | 145| 
-| 20220726T11:44:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2571 | 172| 
-| 20220726T09:53:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7620 | 1642| 
-| 20220726T09:32:04Z | MS-Fuzz data | https://github.com/sharedata21/HTFuzz | 0 | 0| 
-| 20220726T09:21:55Z | Study notes about %The Fuzzing Book% | https://github.com/0xyd/fuzzfuzz | 0 | 0| 
-| 20220726T08:55:44Z | Null | https://github.com/sameerk007/fuzzymatch_webapp | 0 | 0| 
-| 20220726T08:45:46Z | A fuzzing framework for blockchain consensus protocols | https://github.com/ConsensusFuzz/LOKI | 0 | 0| 
-| 20220726T08:30:58Z | DOM fuzzer | https://github.com/mevid93/domzzer | 2 | 0| 
 
 
 
