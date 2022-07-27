@@ -146,9 +146,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T01:04:36Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 995 | 147| 
 | 20220727T00:55:29Z | Null | https://github.com/eagraf/fuzzpython | 0 | 0| 
 | 20220727T00:06:31Z | Null | https://github.com/flavio-mota/sin260-fuzzy | 0 | 0| 
-| 20220727T00:04:05Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 994 | 147| 
 | 20220726T21:11:38Z | Find parts of long text or data, allowing for some changes/typos. | https://github.com/taleinat/fuzzysearch | 214 | 18| 
 | 20220726T20:18:21Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1242 | 95| 
 | 20220726T19:38:34Z | Null | https://github.com/leonidk/fuzzy-metaballs | 4 | 0| 
