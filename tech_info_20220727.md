@@ -27,8 +27,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T12:01:38Z | Fuzzing tutorial with easy to learn labs. | https://github.com/yuawn/Fuzzing | 32 | 3| 
 | 20220727T11:55:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7272 | 255| 
-| 20220727T11:52:07Z | Fuzzing tutorial with easy to learn labs. | https://github.com/yuawn/Fuzzing | 31 | 3| 
 | 20220727T10:31:08Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
 | 20220727T07:20:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2026 | 573| 
 
@@ -41,12 +41,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220727T01:38:43Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 40 | 13| 
-| 20220727T01:18:39Z | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | 37 | 8| 
-| 20220727T00:31:53Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 0 | 0| 
-| 20220727T00:31:03Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-p | 0 | 0| 
-| 20220727T00:30:04Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-p | 0 | 0| 
-| 20220727T00:24:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-appstudio-e2e-test-control-exploit | 0 | 0| 
+| 20220727T11:58:33Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2802 | 173| 
+| 20220727T10:53:20Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 812 | 212| 
+| 20220727T10:49:06Z | A template-based lowerer for RDF repositories exploiting Apache Velocity. | https://github.com/cefriel/rdf-lowerer | 1 | 0| 
+| 20220727T10:35:05Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 972 | 202| 
+| 20220727T09:54:44Z | University group project - Native JS website exploiting IDB, MongoDB, Socket.IO using NodeJs. | https://github.com/bobbyjameswilliams/Secret-Agent-PWA | 0 | 0| 
+| 20220727T08:50:43Z | Inter-slice mobility in 5G networks allows mobility of user sessions from one network slice to another. A novel targeted attack against network slices of 5G networks by exploiting the user equipment-initiated inter-slice mobility will be mentioned here. We name this attack as distributed slice mobility (DSM) attack. The performance and economic damage caused by the DSM attack is higher than the denial-of-service and Yo-Yo attacks. We will deep learning model to detect this kind of attack efficiently | https://github.com/harrychien1311/Distributed-Slice-mobility-attack-detection | 0 | 0| 
+| 20220727T08:17:45Z | Fei Protocol Flashloan Vulnerability Exploit Exercise | https://github.com/redpack-kr/fei-protocol-flashloan-vuln | 0 | 0| 
+| 20220727T08:15:41Z | (LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | 318 | 72| 
+| 20220727T07:49:21Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 70 | 10| 
+| 20220727T07:16:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 466 | 133| 
 
 
 # backdoor on Github 推荐
@@ -63,7 +67,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220727T01:15:08Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3018 | 427| 
+| 20220727T10:41:37Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 798 | 157| 
+| 20220727T08:33:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3020 | 427| 
+| 20220727T07:20:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2026 | 573| 
+| 20220727T07:12:47Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 258 | 18| 
 
 
 # big4 on Github 推荐
