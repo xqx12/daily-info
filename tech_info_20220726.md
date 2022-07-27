@@ -95,7 +95,7 @@
 | 20220726T17:41:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7622 | 1642| 
 | 20220726T15:11:49Z | Null | https://github.com/JonoCX/fuzzy-labs-tech-challenge | 0 | 0| 
 | 20220726T14:29:44Z | Null | https://github.com/mar7ipon2/fuzzy_sets | 0 | 0| 
-| 20220726T12:51:50Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 980 | 145| 
+| 20220726T11:44:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2571 | 172| 
 
 
 
