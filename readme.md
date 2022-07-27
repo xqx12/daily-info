@@ -50,10 +50,10 @@
 | 20220726T21:30:04Z | Null | https://github.com/RRTropical/FIXED-Mining-Clicker-Simulator-Exploit | 0 | 0| 
 | 20220726T21:04:45Z | Null | https://github.com/RRTropical/Mining-Clicker-Simulator-Exploit | 0 | 0| 
 | 20220726T20:44:25Z | This Linux Virtual Machine is designed with several vulnerabilities that includes ports obfuscation configurations , architecture based on real scenarios , altered/hindered shells, privilege escalations, Remote Exploitation, misconfiguration of Kernel/OS, SSH entry point, samba shares, steganography etc. are also defined in a complete Linux environment. | https://github.com/notnue/Virtual-Vulnerable-Linux-Machine-for-Penetration-Testing-and-Exploitation | 0 | 0| 
+| 20220726T19:19:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 44 | 22| 
+| 20220726T14:30:29Z | Some tricks using in CTFs event | https://github.com/Trumpiter-max/Tricks-in-web-exploit | 2 | 0| 
 | 20220726T13:58:17Z | 🌊 ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER | https://github.com/0xTracey/Crypto-NFT-Drainer | 9 | 8| 
 | 20220726T12:23:10Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-9 | 0 | 0| 
-| 20220726T12:22:30Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-9 | 0 | 0| 
-| 20220726T12:21:40Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | 0 | 0| 
 
 
 # backdoor on Github 推荐
