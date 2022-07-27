@@ -16,6 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220726T22:35:26Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
+| 20220726T13:36:18Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
 | 20220726T11:36:39Z | CVE-2022-1292 | Null | https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292 | | 
 | 20220726T11:01:23Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220726T10:45:47Z | CVE-2022-2466 | Null | https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL | | 
@@ -24,14 +26,14 @@
 | 20220726T05:26:14Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
 | 20220726T05:25:55Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | | 
 | 20220726T05:25:08Z | cve-2021-22214 | Gitlab SSRF | https://github.com/Vulnmachines/gitlab-cve-2021-22214 | | 
-| 20220726T01:51:26Z | CVE-2022-34918 | Null | https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220726T11:54:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7264 | 255| 
-| 20220726T11:02:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2023 | 573| 
+| 20220726T22:54:22Z | Null | https://github.com/klee16/klee16 | 0 | 0| 
+| 20220726T15:09:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2024 | 573| 
+| 20220726T14:53:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7264 | 255| 
 
 
 # s2e on Github 推荐
@@ -42,21 +44,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220726T23:56:35Z | Fei Protocol Flashloan Vulnerability Exploit Exercise | https://github.com/redpack-kr/fei-protocol-flashloan-vuln | 0 | 0| 
+| 20220726T23:26:30Z | Null | https://github.com/NomanProdhan/protostar-exploits | 0 | 0| 
+| 20220726T21:33:28Z | Exploit sheet for BFOs PDF Gen. | https://github.com/Insecurities/Big-Face-Exploit | 0 | 0| 
+| 20220726T21:30:04Z | Null | https://github.com/RRTropical/FIXED-Mining-Clicker-Simulator-Exploit | 0 | 0| 
+| 20220726T21:04:45Z | Null | https://github.com/RRTropical/Mining-Clicker-Simulator-Exploit | 0 | 0| 
+| 20220726T20:44:25Z | This Linux Virtual Machine is designed with several vulnerabilities that includes ports obfuscation configurations , architecture based on real scenarios , altered/hindered shells, privilege escalations, Remote Exploitation, misconfiguration of Kernel/OS, SSH entry point, samba shares, steganography etc. are also defined in a complete Linux environment. | https://github.com/notnue/Virtual-Vulnerable-Linux-Machine-for-Penetration-Testing-and-Exploitation | 0 | 0| 
+| 20220726T13:58:17Z | 🌊 ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER | https://github.com/0xTracey/Crypto-NFT-Drainer | 9 | 8| 
 | 20220726T12:23:10Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220726T12:22:30Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220726T12:21:40Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | 0 | 0| 
-| 20220726T12:18:33Z | Binary Exploitation 42.fr Project | https://github.com/nickaroot/override | 0 | 0| 
-| 20220726T12:11:27Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2985 | 460| 
-| 20220726T11:35:45Z | Tool to find CVEs, Exploits and Vulnerable Targets. | https://github.com/msd0pe-1/cve-maker | 134 | 25| 
-| 20220726T11:33:29Z | Fei Protocol Flashloan Vulnerability Exploit Exercise | https://github.com/redpack-kr/fei-protocol-flashloan-vuln | 0 | 0| 
-| 20220726T11:06:18Z | Semgrep rules for smart contracts based on DeFi exploits | https://github.com/Decurity/semgrep-smart-contracts | 294 | 34| 
-| 20220726T10:39:09Z | authenticated remote code execution via shell upload. | https://github.com/p1ckzi/nanocmshell | 0 | 0| 
-| 20220726T10:31:22Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220726T21:49:31Z | Null | https://github.com/amicsoniu/Python_Backdoor_with_Covert_Channel | 1 | 0| 
+| 20220726T20:36:41Z | This is the official implementation code of paper [%Backdoor Attacks on Crowd Counting%](https://arxiv.org/abs/2207.05641) accepted by ACM MM 2022. | https://github.com/protagolabs/BackdoorAttacksonCrowdCounting | 0 | 0| 
+| 20220726T14:28:40Z | Golang后门程序 及 管理系统 | https://github.com/go-well/spider | 1 | 0| 
+| 20220726T13:10:07Z | Um backdoor em python | https://github.com/marcio404/Backdoor.py | 0 | 0| 
 | 20220726T11:08:34Z | The project that makes it possible to take over minecraft servers anonymously! | https://github.com/KingDevCode/VirusV5-Web | 0 | 0| 
 | 20220726T06:51:18Z | Python Remote Administrations Tools for Windows | https://github.com/reztdev/pyRAT | 1 | 2| 
 | 20220726T03:03:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 527 | 104| 
