@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T00:55:02Z | Null | https://github.com/eagraf/fuzzpython | 0 | 0| 
 | 20220727T00:06:31Z | Null | https://github.com/flavio-mota/sin260-fuzzy | 0 | 0| 
 | 20220727T00:04:05Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 994 | 147| 
 | 20220726T21:11:38Z | Find parts of long text or data, allowing for some changes/typos. | https://github.com/taleinat/fuzzysearch | 214 | 18| 
@@ -155,7 +156,6 @@
 | 20220726T18:15:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4255 | 1020| 
 | 20220726T18:15:09Z | Null | https://github.com/juangago1999/fuzzy-octo-lamp | 0 | 0| 
 | 20220726T17:41:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7622 | 1642| 
-| 20220726T15:11:49Z | Null | https://github.com/JonoCX/fuzzy-labs-tech-challenge | 0 | 0| 
 
 
 
