@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T01:38:43Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 40 | 13| 
 | 20220727T01:18:39Z | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | 37 | 8| 
 | 20220727T00:31:53Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220727T00:31:03Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-p | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220726T23:26:30Z | Null | https://github.com/NomanProdhan/protostar-exploits | 0 | 0| 
 | 20220726T21:33:28Z | Exploit sheet for BFOs PDF Gen. | https://github.com/Insecurities/Big-Face-Exploit | 0 | 0| 
 | 20220726T21:30:04Z | Null | https://github.com/RRTropical/FIXED-Mining-Clicker-Simulator-Exploit | 0 | 0| 
-| 20220726T21:04:45Z | Null | https://github.com/RRTropical/Mining-Clicker-Simulator-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
