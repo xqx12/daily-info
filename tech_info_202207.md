@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T00:31:53Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220727T00:31:03Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220727T00:30:04Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-p | 0 | 0| 
 | 20220727T00:24:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-appstudio-e2e-test-control-exploit | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220726T21:30:04Z | Null | https://github.com/RRTropical/FIXED-Mining-Clicker-Simulator-Exploit | 0 | 0| 
 | 20220726T21:04:45Z | Null | https://github.com/RRTropical/Mining-Clicker-Simulator-Exploit | 0 | 0| 
 | 20220726T20:44:25Z | This Linux Virtual Machine is designed with several vulnerabilities that includes ports obfuscation configurations , architecture based on real scenarios , altered/hindered shells, privilege escalations, Remote Exploitation, misconfiguration of Kernel/OS, SSH entry point, samba shares, steganography etc. are also defined in a complete Linux environment. | https://github.com/notnue/Virtual-Vulnerable-Linux-Machine-for-Penetration-Testing-and-Exploitation | 0 | 0| 
-| 20220726T13:58:17Z | 🌊 ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER | https://github.com/0xTracey/Crypto-NFT-Drainer | 9 | 8| 
 
 
 # backdoor on Github 推荐
