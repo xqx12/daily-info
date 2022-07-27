@@ -58,6 +58,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220727T10:23:27Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 39 | 7| 
+| 20220727T10:22:47Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 87 | 27| 
 | 20220727T09:42:01Z | Instruction guide on a debian vm install. (vmplayer)  I will make this Intentionally insecure to practice backdoor%ing and penetration testing | https://github.com/loneicewolf/debian_vm_install | 0 | 0| 
 | 20220727T09:20:18Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 529 | 105| 
 | 20220727T07:13:27Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 61 | 13| 

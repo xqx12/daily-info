@@ -105,6 +105,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220727T10:23:27Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 39 | 7| 
+| 20220727T10:22:47Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 87 | 27| 
 | 20220727T09:42:01Z | Instruction guide on a debian vm install. (vmplayer)  I will make this Intentionally insecure to practice backdoor%ing and penetration testing | https://github.com/loneicewolf/debian_vm_install | 0 | 0| 
 | 20220727T09:20:18Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 529 | 105| 
 | 20220727T07:13:27Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 61 | 13| 
@@ -113,7 +114,6 @@
 | 20220726T21:49:31Z | Null | https://github.com/amicsoniu/Python_Backdoor_with_Covert_Channel | 1 | 0| 
 | 20220726T20:36:41Z | This is the official implementation code of paper [%Backdoor Attacks on Crowd Counting%](https://arxiv.org/abs/2207.05641) accepted by ACM MM 2022. | https://github.com/protagolabs/BackdoorAttacksonCrowdCounting | 0 | 0| 
 | 20220726T14:28:40Z | Golang后门程序 及 管理系统 | https://github.com/go-well/spider | 1 | 0| 
-| 20220726T13:10:07Z | Um backdoor em python | https://github.com/marcio404/Backdoor.py | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
