@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T00:24:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-appstudio-e2e-test-control-exploit | 0 | 0| 
 | 20220726T23:56:35Z | Fei Protocol Flashloan Vulnerability Exploit Exercise | https://github.com/redpack-kr/fei-protocol-flashloan-vuln | 0 | 0| 
 | 20220726T23:26:30Z | Null | https://github.com/NomanProdhan/protostar-exploits | 0 | 0| 
 | 20220726T21:33:28Z | Exploit sheet for BFOs PDF Gen. | https://github.com/Insecurities/Big-Face-Exploit | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220726T13:58:17Z | 🌊 ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER | https://github.com/0xTracey/Crypto-NFT-Drainer | 9 | 8| 
 | 20220726T12:23:10Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-9 | 0 | 0| 
 | 20220726T12:22:30Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-9 | 0 | 0| 
-| 20220726T12:21:40Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-9 | 0 | 0| 
 
 
 # backdoor on Github 推荐
