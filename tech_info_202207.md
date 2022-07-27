@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T01:35:22Z | Sistema de controle de estacionamento baseado em metodologia Fuzzy. | https://github.com/marcosgprado/park-assist-carina1-fuzzy | 0 | 0| 
 | 20220727T01:24:39Z | Null | https://github.com/knrbokhari/social-media-app-fuzzy-lamp | 0 | 0| 
 | 20220727T01:11:36Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 997 | 147| 
 | 20220727T00:55:29Z | Null | https://github.com/eagraf/fuzzpython | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20220726T19:38:34Z | Null | https://github.com/leonidk/fuzzy-metaballs | 4 | 0| 
 | 20220726T18:45:46Z | react app | https://github.com/banzaman/fuzzy-barnacle | 0 | 0| 
 | 20220726T18:15:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4255 | 1020| 
-| 20220726T18:15:09Z | Null | https://github.com/juangago1999/fuzzy-octo-lamp | 0 | 0| 
 
 
 
