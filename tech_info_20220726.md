@@ -19,13 +19,13 @@
 | 20220726T22:35:26Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220726T13:36:18Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
 | 20220726T11:36:39Z | CVE-2022-1292 | Null | https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292 | | 
-| 20220726T11:01:23Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220726T10:45:47Z | CVE-2022-2466 | Null | https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL | | 
 | 20220726T09:59:30Z | CVE-2022-1388 | CVE-2022-1388 F5 Big IP unauth remote code execution | https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388 | | 
 | 20220726T05:57:46Z | CVE-2022-31181 | Module for PrestaShop 1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
 | 20220726T05:26:14Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
 | 20220726T05:25:55Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | | 
 | 20220726T05:25:08Z | cve-2021-22214 | Gitlab SSRF | https://github.com/Vulnmachines/gitlab-cve-2021-22214 | | 
+| 20220726T01:51:26Z | CVE-2022-34918 | Null | https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC | | 
 
 
 # klee on Github 推荐

@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220727T01:24:33Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220727T01:18:39Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | | 
 | 20220727T01:05:11Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20220726T22:35:26Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220726T13:36:18Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
 | 20220726T11:36:39Z | CVE-2022-1292 | Null | https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292 | | 
-| 20220726T11:01:23Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220726T10:45:47Z | CVE-2022-2466 | Null | https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL | | 
 | 20220726T09:59:30Z | CVE-2022-1388 | CVE-2022-1388 F5 Big IP unauth remote code execution | https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388 | | 
 | 20220726T05:57:46Z | CVE-2022-31181 | Module for PrestaShop 1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220727T01:22:20Z | Null | https://github.com/knrbokhari/social-media-app-fuzzy-lamp | 0 | 0| 
+| 20220727T01:24:39Z | Null | https://github.com/knrbokhari/social-media-app-fuzzy-lamp | 0 | 0| 
 | 20220727T01:11:36Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 997 | 147| 
 | 20220727T00:55:29Z | Null | https://github.com/eagraf/fuzzpython | 0 | 0| 
 | 20220727T00:06:31Z | Null | https://github.com/flavio-mota/sin260-fuzzy | 0 | 0| 
