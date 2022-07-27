@@ -89,8 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T12:11:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3494 | 545| 
 | 20220727T11:58:33Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2802 | 173| 
-| 20220727T10:53:20Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 812 | 212| 
+| 20220727T10:53:20Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 812 | 213| 
 | 20220727T10:49:06Z | A template-based lowerer for RDF repositories exploiting Apache Velocity. | https://github.com/cefriel/rdf-lowerer | 1 | 0| 
 | 20220727T10:35:05Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 972 | 202| 
 | 20220727T09:54:44Z | University group project - Native JS website exploiting IDB, MongoDB, Socket.IO using NodeJs. | https://github.com/bobbyjameswilliams/Secret-Agent-PWA | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220727T08:17:45Z | Fei Protocol Flashloan Vulnerability Exploit Exercise | https://github.com/redpack-kr/fei-protocol-flashloan-vuln | 0 | 0| 
 | 20220727T08:15:41Z | (LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | 318 | 72| 
 | 20220727T07:49:21Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 70 | 10| 
-| 20220727T07:16:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 466 | 133| 
 
 
 # backdoor on Github 推荐
