@@ -155,7 +155,7 @@
 | 20220727T10:43:14Z | Null | https://github.com/soongxian/Sugeno-Fuzzy-Integral-Based-CNN-Ensemble | 0 | 0| 
 | 20220727T10:02:29Z | Null | https://github.com/lil-larsi/SecCodeFuzzers | 0 | 0| 
 | 20220727T09:19:30Z | Framework to conduct a comparative study of various Fuzzy AHP Algorithms | https://github.com/ahmedfaran/Fuzzy-AHP-Comparison | 0 | 0| 
-| 20220727T07:12:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 901 | 105| 
+| 20220727T08:50:30Z | Project which is part of my exchange program at the University of Stuttgart. Fuzzing is a technique to automatically test software with semi-random input, and the goal of the project is to analyze and compare the performance of different fuzzers (tools that execute fuzzing). | https://github.com/FelipeGirardi/FuzzingProject | 0 | 0| 
 
 
 
