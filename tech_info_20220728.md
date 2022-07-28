@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220728T12:29:03Z | University Project where a vulnerable GraphQL Webservice was set up to be attacked(DOS and IDOR vulns).  | https://github.com/Que-sar/VulnerableGraphQL-Setup-Exploitation- | 0 | 0| 
 | 20220728T11:47:23Z | Systemes d’Exploitation 2 TP 1 : Manipulation des processus sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-1-Manipulation-des-processus-sous-UNIX | 0 | 0| 
 | 20220728T11:44:08Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 1344 | 122| 
 | 20220728T11:01:17Z | Demos and documentation of fonts exploiting the COLRv1 spec in monochrome | https://github.com/Lorp/COLRv1-monochrome | 0 | 0| 
@@ -52,17 +53,16 @@
 | 20220728T10:06:04Z | Exploit for the MCH2022 CTF badge challenge (%Hack Me If You Can%) | https://github.com/wallabythree/mch2022-hack-me-if-you-can | 0 | 0| 
 | 20220728T09:59:43Z | A list of school tips/tricks, tools and exploits | https://github.com/EpicAnonymousProHacker/School-Exploits | 0 | 0| 
 | 20220728T09:24:11Z | Apache 2.4.49-50 Remote Code Execution Exploit | https://github.com/theykillmeslowly/CVE-2021-42013 | 0 | 0| 
-| 20220728T09:16:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 468 | 133| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220728T12:29:09Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 533 | 106| 
 | 20220728T11:18:09Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 42 | 7| 
 | 20220728T10:13:26Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 119 | 32| 
 | 20220728T08:03:18Z | Null | https://github.com/Seaocn/Dyn-Backdoor | 0 | 0| 
 | 20220728T07:40:34Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 62 | 14| 
-| 20220728T07:39:58Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 532 | 106| 
 | 20220728T07:10:59Z | A workspace syncer | https://github.com/cosmo-developer/backdoor | 0 | 0| 
 | 20220728T01:46:36Z | Null | https://github.com/adamorsantos/aulatads_backdoor | 0 | 0| 
 | 20220728T01:37:09Z | Null | https://github.com/adreaisbad/TukeBackdoor | 0 | 0| 
