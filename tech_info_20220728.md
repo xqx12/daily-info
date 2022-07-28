@@ -28,9 +28,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220728T12:28:39Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 50 | 3| 
 | 20220728T12:23:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7384 | 258| 
 | 20220728T12:18:10Z | fork for kleenexp | https://github.com/guyshonshon/kleenexp | 0 | 0| 
-| 20220728T11:17:56Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 49 | 3| 
 | 20220728T08:18:10Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
 | 20220728T04:26:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2029 | 573| 
 
