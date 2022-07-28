@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220728 | 记一次授权非域环境下的大型内网横向渗透 | https://xz.aliyun.com/t/11579| 
+| 20220728 | FIRST 2022 议题速递 | https://mp.weixin.qq.com/s/N-uR2IA_HNxhbkddYL7DxQ| 
 | 20220727 | DeepJIT：用于实时缺陷预测的端到端深度学习框架 | https://mp.weixin.qq.com/s/d3ANaov0XbHdvd4iC7s_Xw| 
 | 20220727 | 基于AST变化嵌入的实时缺陷预测 | https://mp.weixin.qq.com/s/TRS6wUo0_dtfnEvS3tYuQw| 
 | 20220725 | 缓冲区溢出漏洞那些事：C -gets函数 | https://www.sec-in.com/article/1606| 
@@ -39,38 +41,36 @@
 | 20220725 | NeuVector----功能丰富且强大的容器安全开源软件 | https://mp.weixin.qq.com/s/vJsH8GATbiC7-nnu58SDWw| 
 | 20220725 | 实时缺陷预测工具调研 | https://mp.weixin.qq.com/s/OkHvy5PV5bq6hVzqxoJx5g| 
 | 20220724 | afrog 发布 Release 1.3.6 漫天星辰 | https://github.com/zan8in/afrog/releases/tag/v1.3.6| 
-| 20220722 | CVE-2019-0808 | https://www.sec-in.com/article/1616| 
-| 20220722 | 如何通过GPS追踪器关闭汽车引擎 | https://www.wolai.com/callisto-auto/6wKbkRsHs9iJ4Wqm7ptT38| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220728T01:54:52Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220728T11:57:59Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220728T11:50:57Z | CVE-2022-36946 | Null | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
+| 20220728T09:48:21Z | CVE-2022-26138 | Atlassian Confluence Server and Data Center: CVE-2022-26138 | https://github.com/Vulnmachines/Confluence-Question-CVE-2022-26138- | | 
+| 20220728T09:24:11Z | CVE-2021-42013 | Apache 2.4.49-50 Remote Code Execution Exploit | https://github.com/theykillmeslowly/CVE-2021-42013 | | 
+| 20220728T07:07:11Z | CVE-2022-36408 | Module for PrestaShop 1.6.1.X/1.7.X to fix CVE-2022-36408 / CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_36408 | | 
 | 20220727T23:40:24Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220727T06:58:05Z | CVE-2022-31181 | Module for PrestaShop 1.6.1.X/1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
 | 20220727T01:18:39Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | | 
 | 20220727T01:05:11Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
 | 20220726T22:35:26Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
-| 20220726T13:36:18Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
-| 20220726T11:36:39Z | CVE-2022-1292 | Null | https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292 | | 
-| 20220726T10:45:47Z | CVE-2022-2466 | Null | https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL | | 
-| 20220726T09:59:30Z | CVE-2022-1388 | CVE-2022-1388 F5 Big IP unauth remote code execution | https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220728T01:56:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7297 | 256| 
-| 20220727T19:36:35Z | Fuzzing tutorial with easy to learn labs 🚀 AFL++ / Binary Instrumentation / harness / LLVM Pass ... | https://github.com/yuawn/Fuzzing | 38 | 3| 
-| 20220727T19:16:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2028 | 573| 
+| 20220728T11:51:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7383 | 258| 
+| 20220728T11:50:01Z | fork for kleenexp | https://github.com/guyshonshon/kleenexp | 0 | 0| 
+| 20220728T11:17:56Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 49 | 3| 
+| 20220728T08:18:10Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
+| 20220728T04:26:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2029 | 573| 
 | 20220727T12:28:11Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 19 | 1| 
-| 20220727T10:31:08Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
 | 20220726T22:54:22Z | Null | https://github.com/klee16/klee16 | 0 | 0| 
 | 20220725T01:02:40Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 3 | 0| 
 | 20220722T12:21:34Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 739 | 37| 
 | 20220719T07:34:07Z | Null | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-backend | 0 | 0| 
-| 20220718T09:51:01Z | 최원익, 김영수, 오창훈 | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-frontend | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220728T01:55:53Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 277 | 39| 
-| 20220727T23:50:56Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-..1 | 0 | 0| 
-| 20220727T23:49:30Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-..1 | 0 | 0| 
-| 20220727T23:48:07Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..1 | 0 | 0| 
-| 20220727T23:21:28Z | Null | https://github.com/danielgamer9799/Roblox-Exploits | 0 | 0| 
-| 20220727T22:10:37Z | An Network exploit to intercept packets. Running on your LocalHost | https://github.com/R00tkitSecurity/HadesNetwork-Exploit | 0 | 0| 
-| 20220727T20:55:06Z | QNAP N-Day (Probably not CVE-2020-2509) | https://github.com/jbaines-r7/overkill | 1 | 0| 
-| 20220727T17:19:20Z | Exploits | https://github.com/b8ff/Exploits | 0 | 0| 
-| 20220727T12:11:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3494 | 545| 
-| 20220727T11:58:33Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2802 | 173| 
+| 20220728T11:47:23Z | Systemes d’Exploitation 2 TP 1 : Manipulation des processus sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-1-Manipulation-des-processus-sous-UNIX | 0 | 0| 
+| 20220728T11:44:08Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 1344 | 122| 
+| 20220728T11:01:17Z | Demos and documentation of fonts exploiting the COLRv1 spec in monochrome | https://github.com/Lorp/COLRv1-monochrome | 0 | 0| 
+| 20220728T10:31:16Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 544 | 97| 
+| 20220728T10:21:53Z | Log4Shell exploit script, fully written in python | https://github.com/Ultimator14/log4shell-python | 0 | 0| 
+| 20220728T10:07:52Z | Exploits | https://github.com/b8ff/Exploits | 0 | 0| 
+| 20220728T10:06:04Z | Exploit for the MCH2022 CTF badge challenge (%Hack Me If You Can%) | https://github.com/wallabythree/mch2022-hack-me-if-you-can | 0 | 0| 
+| 20220728T09:59:43Z | A list of school tips/tricks, tools and exploits | https://github.com/EpicAnonymousProHacker/School-Exploits | 0 | 0| 
+| 20220728T09:24:11Z | Apache 2.4.49-50 Remote Code Execution Exploit | https://github.com/theykillmeslowly/CVE-2021-42013 | 0 | 0| 
+| 20220728T09:16:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 468 | 133| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220728T11:18:09Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 42 | 7| 
+| 20220728T10:13:26Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 119 | 32| 
+| 20220728T08:03:18Z | Null | https://github.com/Seaocn/Dyn-Backdoor | 0 | 0| 
+| 20220728T07:40:34Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 62 | 14| 
+| 20220728T07:39:58Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 532 | 106| 
+| 20220728T07:10:59Z | A workspace syncer | https://github.com/cosmo-developer/backdoor | 0 | 0| 
 | 20220728T01:46:36Z | Null | https://github.com/adamorsantos/aulatads_backdoor | 0 | 0| 
 | 20220728T01:37:09Z | Null | https://github.com/adreaisbad/TukeBackdoor | 0 | 0| 
-| 20220728T01:17:39Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 530 | 105| 
-| 20220727T22:32:20Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 61 | 13| 
-| 20220727T22:31:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 40 | 7| 
 | 20220727T20:13:16Z | Null | https://github.com/DuxV2/Blox.Land_BackDoor | 0 | 0| 
 | 20220727T19:46:45Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 88 | 27| 
-| 20220727T17:53:03Z | ***FOR EDUCATIONAL PURPOSES ONLY*** | https://github.com/Raj-Hazarika/PythonBackdoor | 0 | 0| 
-| 20220727T16:11:09Z | upload and download files remotely using a backdoor | https://github.com/cz-amal/backdoor | 0 | 0| 
-| 20220727T15:17:11Z | Backdoor made with python, django, sqlite (WIP) | https://github.com/ArmenG888/PyBD | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -147,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220728T01:02:22Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1024 | 150| 
+| 20220728T11:44:04Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 284 | 21| 
+| 20220728T11:17:56Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 49 | 3| 
+| 20220728T10:41:12Z | Null | https://github.com/1TreeForest/HTTP-Fuzzing-Intership | 0 | 0| 
+| 20220728T09:46:38Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 17 | 10| 
+| 20220728T09:21:09Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1038 | 150| 
+| 20220728T09:09:59Z | Null | https://github.com/danbidan/Fuzzy-Theory-and-Appliation | 0 | 0| 
+| 20220728T07:52:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7627 | 1644| 
+| 20220728T07:13:56Z | Null | https://github.com/Ramdambo/fuzzy-potato | 0 | 0| 
 | 20220728T00:54:58Z | Null | https://github.com/conorkenn/fuzzy-goggles | 0 | 0| 
 | 20220727T23:59:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 902 | 105| 
-| 20220727T23:59:06Z | Trigger search based Trojan detection for computer vision models | https://github.com/frkl/trojai-fuzzing-vision | 0 | 0| 
-| 20220727T21:38:35Z | Event-driven Takagi-Sugeno Fuzzy Inference System implementation for Node-RED | https://github.com/iqhome/node-red-contrib-fuzzy | 0 | 0| 
-| 20220727T21:07:39Z | Null | https://github.com/happy123guy/fuzzy-bassoon | 0 | 0| 
-| 20220727T19:12:45Z | Fuzzzapp - web app for musicians / next.js | https://github.com/BartYan/FUZZZAPP | 0 | 0| 
-| 20220727T14:47:38Z | Null | https://github.com/JulianMaschine/FuzzFramework_SecCoding_HS_Esslingen | 0 | 0| 
-| 20220727T13:47:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2572 | 172| 
-| 20220727T12:55:56Z | Null | https://github.com/Martinviv/fuzzing_pcap_approach | 0 | 0| 
 
 
 
