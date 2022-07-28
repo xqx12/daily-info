@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220728T01:41:25Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220728T01:47:11Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220727T23:40:24Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220727T06:58:05Z | CVE-2022-31181 | Module for PrestaShop 1.6.1.X/1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
 | 20220727T01:18:39Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | | 
@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220728T01:46:36Z | Null | https://github.com/adamorsantos/aulatads_backdoor | 0 | 0| 
 | 20220728T01:37:09Z | Null | https://github.com/adreaisbad/TukeBackdoor | 0 | 0| 
 | 20220728T01:17:39Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 530 | 105| 
 | 20220727T22:32:20Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 61 | 13| 
@@ -114,7 +115,6 @@
 | 20220727T17:53:03Z | ***FOR EDUCATIONAL PURPOSES ONLY*** | https://github.com/Raj-Hazarika/PythonBackdoor | 0 | 0| 
 | 20220727T16:11:09Z | upload and download files remotely using a backdoor | https://github.com/cz-amal/backdoor | 0 | 0| 
 | 20220727T15:17:11Z | Backdoor made with python, django, sqlite (WIP) | https://github.com/ArmenG888/PyBD | 1 | 0| 
-| 20220727T09:42:01Z | Instruction guide on a debian vm install. (vmplayer)  I will make this Intentionally insecure to practice backdoor%ing and penetration testing | https://github.com/loneicewolf/debian_vm_install | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
