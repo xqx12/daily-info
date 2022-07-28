@@ -46,7 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220727T12:09:39Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
+| 20220727T23:53:13Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220727T23:40:24Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220727T06:58:05Z | CVE-2022-31181 | Module for PrestaShop 1.6.1.X/1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
 | 20220727T01:18:39Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | | 
 | 20220727T01:05:11Z | CVE-2021-44228 | Apache Log4j 远程代码执行 | https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce | | 
@@ -55,7 +56,6 @@
 | 20220726T11:36:39Z | CVE-2022-1292 | Null | https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292 | | 
 | 20220726T10:45:47Z | CVE-2022-2466 | Null | https://github.com/yuxblank/CVE-2022-2466---Request-Context-not-terminated-with-GraphQL | | 
 | 20220726T09:59:30Z | CVE-2022-1388 | CVE-2022-1388 F5 Big IP unauth remote code execution | https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388 | | 
-| 20220726T05:26:14Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
 
 
 # klee on Github 推荐
@@ -76,8 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T13:34:49Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 58 | 7| 
+| 20220727T13:19:26Z | Repository del progetto di test automatici per il partner UCI | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_UCI | 0 | 0| 
 | 20220725T05:33:38Z | S2E user side repository for Formation Flying study | https://github.com/ut-issl/s2e-ff | 2 | 0| 
-| 20220721T12:05:12Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 57 | 7| 
 | 20220721T06:29:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 241 | 59| 
 | 20220719T07:48:57Z | Null | https://github.com/S2eongjin/S2eongjin.github.io | 0 | 0| 
 | 20220715T02:13:41Z | Null | https://github.com/S2eongjin/https-s2eongjin.github.io- | 0 | 0| 
@@ -104,31 +105,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220727T10:23:27Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 39 | 7| 
-| 20220727T10:22:47Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 87 | 27| 
+| 20220727T22:32:20Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 61 | 13| 
+| 20220727T22:31:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 40 | 7| 
+| 20220727T20:13:16Z | Null | https://github.com/DuxV2/Blox.Land_BackDoor | 0 | 0| 
+| 20220727T19:46:45Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 88 | 27| 
+| 20220727T17:53:03Z | ***FOR EDUCATIONAL PURPOSES ONLY*** | https://github.com/Raj-Hazarika/PythonBackdoor | 0 | 0| 
+| 20220727T16:11:09Z | upload and download files remotely using a backdoor | https://github.com/cz-amal/backdoor | 0 | 0| 
+| 20220727T15:17:11Z | Backdoor made with python, django, sqlite (WIP) | https://github.com/ArmenG888/PyBD | 1 | 0| 
 | 20220727T09:42:01Z | Instruction guide on a debian vm install. (vmplayer)  I will make this Intentionally insecure to practice backdoor%ing and penetration testing | https://github.com/loneicewolf/debian_vm_install | 0 | 0| 
 | 20220727T09:20:18Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 529 | 105| 
-| 20220727T07:13:27Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 61 | 13| 
 | 20220727T06:46:24Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 18 | 17| 
-| 20220727T00:07:19Z | Null | https://github.com/Nanboy-Ronan/Backdoor-FedGAN | 0 | 0| 
-| 20220726T21:49:31Z | Null | https://github.com/amicsoniu/Python_Backdoor_with_Covert_Channel | 1 | 0| 
-| 20220726T20:36:41Z | This is the official implementation code of paper [%Backdoor Attacks on Crowd Counting%](https://arxiv.org/abs/2207.05641) accepted by ACM MM 2022. | https://github.com/protagolabs/BackdoorAttacksonCrowdCounting | 0 | 0| 
-| 20220726T14:28:40Z | Golang后门程序 及 管理系统 | https://github.com/go-well/spider | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220727T12:31:49Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3021 | 427| 
+| 20220727T23:11:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3025 | 427| 
+| 20220727T21:52:13Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/__archived__Medjai | 15 | 2| 
+| 20220727T19:16:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2028 | 573| 
 | 20220727T10:41:37Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 798 | 157| 
-| 20220727T07:20:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2026 | 573| 
 | 20220727T07:12:47Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 258 | 18| 
 | 20220725T18:41:44Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 15 | 2| 
 | 20220725T11:48:10Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 6 | 0| 
 | 20220723T03:40:19Z | Null | https://github.com/rollrat/babel-symbolic-execution | 0 | 0| 
 | 20220721T12:38:41Z | Optik is a set of tools based on symbolic execution that provide assistance during smart-contract audits | https://github.com/trailofbits/optik | 2 | 0| 
 | 20220721T10:53:11Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Papyrus | 12 | 2| 
-| 20220721T07:55:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 461 | 26| 
 
 
 # big4 on Github 推荐
@@ -146,16 +147,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T23:59:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 902 | 105| 
+| 20220727T23:59:06Z | Trigger search based Trojan detection for computer vision models | https://github.com/frkl/trojai-fuzzing-vision | 0 | 0| 
+| 20220727T21:38:35Z | Event-driven Takagi-Sugeno Fuzzy Inference System implementation for Node-RED | https://github.com/iqhome/node-red-contrib-fuzzy | 0 | 0| 
+| 20220727T21:07:39Z | Null | https://github.com/happy123guy/fuzzy-bassoon | 0 | 0| 
+| 20220727T19:12:45Z | Fuzzzapp - web app for musicians / next.js | https://github.com/BartYan/FUZZZAPP | 0 | 0| 
+| 20220727T14:47:38Z | Null | https://github.com/JulianMaschine/FuzzFramework_SecCoding_HS_Esslingen | 0 | 0| 
+| 20220727T13:47:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2572 | 172| 
 | 20220727T12:55:56Z | Null | https://github.com/Martinviv/fuzzing_pcap_approach | 0 | 0| 
 | 20220727T11:42:10Z | Simple 1. Example Fuzzing Project to test CI Fuzz | https://github.com/skisssbb/cifuzz_example1 | 0 | 0| 
 | 20220727T11:39:00Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 25 | 2| 
-| 20220727T11:31:24Z | Null | https://github.com/vargen/fuzz-unit-c-demo | 0 | 0| 
-| 20220727T11:27:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7626 | 1642| 
-| 20220727T10:55:30Z | Null | https://github.com/codecss1/fuzzy-barnacle | 0 | 0| 
-| 20220727T10:50:13Z | fuzz bench | https://github.com/kimiwanano/fuzz_bench_candidate | 0 | 0| 
-| 20220727T10:43:14Z | Null | https://github.com/soongxian/Sugeno-Fuzzy-Integral-Based-CNN-Ensemble | 0 | 0| 
-| 20220727T10:02:29Z | Null | https://github.com/lil-larsi/SecCodeFuzzers | 0 | 0| 
-| 20220727T09:19:30Z | Framework to conduct a comparative study of various Fuzzy AHP Algorithms | https://github.com/ahmedfaran/Fuzzy-AHP-Comparison | 0 | 0| 
 
 
 
