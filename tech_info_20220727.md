@@ -95,11 +95,11 @@
 | 20220727T21:38:35Z | Event-driven Takagi-Sugeno Fuzzy Inference System implementation for Node-RED | https://github.com/iqhome/node-red-contrib-fuzzy | 0 | 0| 
 | 20220727T21:07:39Z | Null | https://github.com/happy123guy/fuzzy-bassoon | 0 | 0| 
 | 20220727T19:12:45Z | Fuzzzapp - web app for musicians / next.js | https://github.com/BartYan/FUZZZAPP | 0 | 0| 
+| 20220727T16:18:34Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1023 | 149| 
 | 20220727T14:47:38Z | Null | https://github.com/JulianMaschine/FuzzFramework_SecCoding_HS_Esslingen | 0 | 0| 
 | 20220727T13:47:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2572 | 172| 
 | 20220727T12:55:56Z | Null | https://github.com/Martinviv/fuzzing_pcap_approach | 0 | 0| 
 | 20220727T11:42:10Z | Simple 1. Example Fuzzing Project to test CI Fuzz | https://github.com/skisssbb/cifuzz_example1 | 0 | 0| 
-| 20220727T11:39:00Z | FUTAG (FUzzing Target Automated Generator) -- автоматический генератор целей для фаззинга | https://github.com/ispras/Futag | 25 | 2| 
 
 
 
