@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220728T12:39:39Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220728T12:55:44Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220728T11:50:57Z | CVE-2022-36946 | Null | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220728T09:48:21Z | CVE-2022-26138 | Atlassian Confluence Server and Data Center: CVE-2022-26138 | https://github.com/Vulnmachines/Confluence-Question-CVE-2022-26138- | | 
 | 20220728T09:24:11Z | CVE-2021-42013 | Apache 2.4.49-50 Remote Code Execution Exploit | https://github.com/theykillmeslowly/CVE-2021-42013 | | 
