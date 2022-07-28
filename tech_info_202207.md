@@ -61,11 +61,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T19:36:35Z | Fuzzing tutorial with easy to learn labs 🚀 AFL++ / Binary Instrumentation / harness / LLVM Pass ... | https://github.com/yuawn/Fuzzing | 38 | 3| 
+| 20220727T19:16:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2028 | 573| 
+| 20220727T16:33:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7274 | 255| 
 | 20220727T12:28:11Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 19 | 1| 
-| 20220727T12:11:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7273 | 255| 
-| 20220727T12:01:38Z | Fuzzing tutorial with easy to learn labs. | https://github.com/yuawn/Fuzzing | 32 | 3| 
 | 20220727T10:31:08Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
-| 20220727T07:20:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2026 | 573| 
 | 20220726T22:54:22Z | Null | https://github.com/klee16/klee16 | 0 | 0| 
 | 20220725T01:02:40Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 3 | 0| 
 | 20220722T12:21:34Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 739 | 37| 
@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220727T23:50:56Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-..1 | 0 | 0| 
+| 20220727T23:49:30Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-..1 | 0 | 0| 
+| 20220727T23:48:07Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..1 | 0 | 0| 
+| 20220727T23:21:28Z | Null | https://github.com/danielgamer9799/Roblox-Exploits | 0 | 0| 
+| 20220727T22:10:37Z | An Network exploit to intercept packets. Running on your LocalHost | https://github.com/R00tkitSecurity/HadesNetwork-Exploit | 0 | 0| 
+| 20220727T20:55:06Z | QNAP N-Day (Probably not CVE-2020-2509) | https://github.com/jbaines-r7/overkill | 1 | 0| 
+| 20220727T17:19:20Z | Exploits | https://github.com/b8ff/Exploits | 0 | 0| 
 | 20220727T12:11:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3494 | 545| 
 | 20220727T11:58:33Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2802 | 173| 
 | 20220727T10:53:20Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 812 | 213| 
-| 20220727T10:49:06Z | A template-based lowerer for RDF repositories exploiting Apache Velocity. | https://github.com/cefriel/rdf-lowerer | 1 | 0| 
-| 20220727T10:35:05Z | 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers% mind | https://github.com/WangYihang/GitHacker | 972 | 202| 
-| 20220727T09:54:44Z | University group project - Native JS website exploiting IDB, MongoDB, Socket.IO using NodeJs. | https://github.com/bobbyjameswilliams/Secret-Agent-PWA | 0 | 0| 
-| 20220727T08:50:43Z | Inter-slice mobility in 5G networks allows mobility of user sessions from one network slice to another. A novel targeted attack against network slices of 5G networks by exploiting the user equipment-initiated inter-slice mobility will be mentioned here. We name this attack as distributed slice mobility (DSM) attack. The performance and economic damage caused by the DSM attack is higher than the denial-of-service and Yo-Yo attacks. We will deep learning model to detect this kind of attack efficiently | https://github.com/harrychien1311/Distributed-Slice-mobility-attack-detection | 0 | 0| 
-| 20220727T08:17:45Z | Fei Protocol Flashloan Vulnerability Exploit Exercise | https://github.com/redpack-kr/fei-protocol-flashloan-vuln | 0 | 0| 
-| 20220727T08:15:41Z | (LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | 318 | 72| 
-| 20220727T07:49:21Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 70 | 10| 
 
 
 # backdoor on Github 推荐
