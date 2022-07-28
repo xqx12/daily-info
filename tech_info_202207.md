@@ -147,6 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220728T00:54:58Z | Null | https://github.com/conorkenn/fuzzy-goggles | 0 | 0| 
 | 20220727T23:59:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 902 | 105| 
 | 20220727T23:59:06Z | Trigger search based Trojan detection for computer vision models | https://github.com/frkl/trojai-fuzzing-vision | 0 | 0| 
 | 20220727T21:38:35Z | Event-driven Takagi-Sugeno Fuzzy Inference System implementation for Node-RED | https://github.com/iqhome/node-red-contrib-fuzzy | 0 | 0| 
@@ -156,7 +157,6 @@
 | 20220727T14:47:38Z | Null | https://github.com/JulianMaschine/FuzzFramework_SecCoding_HS_Esslingen | 0 | 0| 
 | 20220727T13:47:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2572 | 172| 
 | 20220727T12:55:56Z | Null | https://github.com/Martinviv/fuzzing_pcap_approach | 0 | 0| 
-| 20220727T11:42:10Z | Simple 1. Example Fuzzing Project to test CI Fuzz | https://github.com/skisssbb/cifuzz_example1 | 0 | 0| 
 
 
 
