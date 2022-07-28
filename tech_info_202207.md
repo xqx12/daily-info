@@ -147,7 +147,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220728T12:45:59Z | Null | https://github.com/1TreeForest/HTTP-Fuzzing-Intership | 0 | 0| 
+| 20220728T12:54:27Z | Null | https://github.com/1TreeForest/HTTP-Fuzzing-Intership | 0 | 0| 
 | 20220728T11:44:04Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 284 | 21| 
 | 20220728T11:17:56Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 49 | 3| 
 | 20220728T09:46:38Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 17 | 10| 
