@@ -66,8 +66,8 @@
 | 20220727T16:11:09Z | upload and download files remotely using a backdoor | https://github.com/cz-amal/backdoor | 0 | 0| 
 | 20220727T15:17:11Z | Backdoor made with python, django, sqlite (WIP) | https://github.com/ArmenG888/PyBD | 1 | 0| 
 | 20220727T09:42:01Z | Instruction guide on a debian vm install. (vmplayer)  I will make this Intentionally insecure to practice backdoor%ing and penetration testing | https://github.com/loneicewolf/debian_vm_install | 0 | 0| 
-| 20220727T09:20:18Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 529 | 105| 
 | 20220727T06:46:24Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 18 | 17| 
+| 20220727T00:07:19Z | Null | https://github.com/Nanboy-Ronan/Backdoor-FedGAN | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
