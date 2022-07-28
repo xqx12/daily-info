@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220728T01:51:29Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220728T01:54:52Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220727T23:40:24Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220727T06:58:05Z | CVE-2022-31181 | Module for PrestaShop 1.6.1.X/1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
 | 20220727T01:18:39Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220728T01:53:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7296 | 256| 
+| 20220728T01:56:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7297 | 256| 
 | 20220727T19:36:35Z | Fuzzing tutorial with easy to learn labs 🚀 AFL++ / Binary Instrumentation / harness / LLVM Pass ... | https://github.com/yuawn/Fuzzing | 38 | 3| 
 | 20220727T19:16:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2028 | 573| 
 | 20220727T12:28:11Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 19 | 1| 
@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220728T00:53:04Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 276 | 39| 
+| 20220728T01:55:53Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 277 | 39| 
 | 20220727T23:50:56Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-..1 | 0 | 0| 
 | 20220727T23:49:30Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-..1 | 0 | 0| 
 | 20220727T23:48:07Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..1 | 0 | 0| 
