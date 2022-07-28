@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220728T00:53:04Z | A C2 post-exploitation framework | https://github.com/enkomio/AlanFramework | 276 | 39| 
 | 20220727T23:50:56Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-..1 | 0 | 0| 
 | 20220727T23:49:30Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-..1 | 0 | 0| 
 | 20220727T23:48:07Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-..1 | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20220727T17:19:20Z | Exploits | https://github.com/b8ff/Exploits | 0 | 0| 
 | 20220727T12:11:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3494 | 545| 
 | 20220727T11:58:33Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2802 | 173| 
-| 20220727T10:53:20Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 812 | 213| 
 
 
 # backdoor on Github 推荐
