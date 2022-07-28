@@ -63,7 +63,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220727T19:36:35Z | Fuzzing tutorial with easy to learn labs 🚀 AFL++ / Binary Instrumentation / harness / LLVM Pass ... | https://github.com/yuawn/Fuzzing | 38 | 3| 
 | 20220727T19:16:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2028 | 573| 
-| 20220727T16:33:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7274 | 255| 
+| 20220727T16:33:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7274 | 256| 
 | 20220727T12:28:11Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 19 | 1| 
 | 20220727T10:31:08Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
 | 20220726T22:54:22Z | Null | https://github.com/klee16/klee16 | 0 | 0| 
