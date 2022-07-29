@@ -121,14 +121,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220728T19:16:57Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
 | 20220728T07:31:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
 | 20220728T04:26:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2029 | 573| 
-| 20220727T23:11:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3025 | 427| 
+| 20220727T23:11:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3025 | 428| 
 | 20220727T21:52:13Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/__archived__Medjai | 15 | 2| 
 | 20220727T10:41:37Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 798 | 157| 
 | 20220727T07:12:47Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 258 | 18| 
 | 20220725T18:41:44Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 15 | 2| 
-| 20220725T11:48:10Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 6 | 0| 
 | 20220723T03:40:19Z | Null | https://github.com/rollrat/babel-symbolic-execution | 0 | 0| 
 | 20220721T12:38:41Z | Optik is a set of tools based on symbolic execution that provide assistance during smart-contract audits | https://github.com/trailofbits/optik | 2 | 0| 
 
