@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220728T22:54:54Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1045 | 150| 
 | 20220728T22:07:20Z | Null | https://github.com/AnthonySado/fuzzy-octo-tribble | 0 | 0| 
 | 20220728T21:37:25Z | more like brain overflow - an attempt to fuzz data_handler::read_file | https://github.com/echel0nn/brainflow-fuzz | 0 | 0| 
 | 20220728T21:30:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 905 | 105| 
@@ -98,7 +99,6 @@
 | 20220728T12:54:27Z | Null | https://github.com/1TreeForest/HTTP-Fuzzing-Intership | 0 | 0| 
 | 20220728T11:44:04Z | Fuzzing Unification Framework | https://github.com/fuzzuf/fuzzuf | 284 | 21| 
 | 20220728T11:17:56Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 49 | 3| 
-| 20220728T10:02:55Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1418 | 63| 
 
 
 
