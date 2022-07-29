@@ -31,38 +31,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220729 | EMBA - The firmware security analyzer | https://github.com/e-m-b-a/emba| 
+| 20220729 | VulnLab: Web Application Vulnerabilities Lab | https://github.com/Yavuzlar/VulnLab| 
+| 20220729 | Vajra - Your Weapon To Cloud | https://github.com/TROUBLE-1/Vajra| 
+| 20220729 | APT trends report Q2 2022 | https://securelist.com/apt-trends-report-q2-2022/106995/| 
+| 20220729 | [HTB] October Writeup | https://www.jgeek.cn/article/104.html| 
 | 20220728 | 记一次授权非域环境下的大型内网横向渗透 | https://xz.aliyun.com/t/11579| 
 | 20220728 | FIRST 2022 议题速递 | https://mp.weixin.qq.com/s/N-uR2IA_HNxhbkddYL7DxQ| 
 | 20220727 | DeepJIT：用于实时缺陷预测的端到端深度学习框架 | https://mp.weixin.qq.com/s/d3ANaov0XbHdvd4iC7s_Xw| 
 | 20220727 | 基于AST变化嵌入的实时缺陷预测 | https://mp.weixin.qq.com/s/TRS6wUo0_dtfnEvS3tYuQw| 
 | 20220725 | 缓冲区溢出漏洞那些事：C -gets函数 | https://www.sec-in.com/article/1606| 
-| 20220725 | SecWiki周刊（第438期) | https://www.sec-wiki.com/weekly/438| 
-| 20220725 | PDGraph：针对不安全项目依赖的大规模实证研究 | https://mp.weixin.qq.com/s/6EiqeaabiSzMFXJXL4Avpw| 
-| 20220725 | NeuVector----功能丰富且强大的容器安全开源软件 | https://mp.weixin.qq.com/s/vJsH8GATbiC7-nnu58SDWw| 
-| 20220725 | 实时缺陷预测工具调研 | https://mp.weixin.qq.com/s/OkHvy5PV5bq6hVzqxoJx5g| 
-| 20220724 | afrog 发布 Release 1.3.6 漫天星辰 | https://github.com/zan8in/afrog/releases/tag/v1.3.6| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220729T01:57:34Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
-| 20220729T01:40:27Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
+| 20220729T11:16:34Z | CVE-2022-2185 | wo ee cve-2022-2185 gitlab authenticated rce | https://github.com/ESUAdmin/CVE-2022-2185 | | 
+| 20220729T11:09:48Z | CVE-2022-1119 | WordPress Simple File List FileRead POC | https://github.com/z92g/CVE-2022-1119 | | 
+| 20220729T11:09:24Z | CVE-2022-29593 | Null | https://github.com/9lyph/CVE-2022-29593 | | 
+| 20220729T10:54:16Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220729T10:39:03Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
+| 20220729T08:01:22Z | CVE-2021-26084 | Remote Code Execution on Confluence Servers : CVE-2021-26084 | https://github.com/Vulnmachines/Confluence_CVE-2021-26084 | | 
+| 20220729T06:02:26Z | CVE-2022-26138 | Atlassian Confluence Server and Data Center: CVE-2022-26138 | https://github.com/Vulnmachines/Confluence-Question-CVE-2022-26138- | | 
+| 20220729T04:51:07Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
+| 20220729T03:25:34Z | CVE-2022-26138 | Atlassian Questions Hardcoded Password (CVE-2022-26138) | https://github.com/alcaparra/CVE-2022-26138 | | 
 | 20220728T23:22:26Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
-| 20220728T19:43:23Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
-| 20220728T15:28:40Z | CVE-2022-26138 | Atlassian Confluence Server and Data Center: CVE-2022-26138 | https://github.com/Vulnmachines/Confluence-Question-CVE-2022-26138- | | 
-| 20220728T09:24:11Z | CVE-2021-42013 | Apache 2.4.49-50 Remote Code Execution Exploit | https://github.com/theykillmeslowly/CVE-2021-42013 | | 
-| 20220728T07:07:11Z | CVE-2022-36408 | Module for PrestaShop 1.6.1.X/1.7.X to fix CVE-2022-36408 / CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_36408 | | 
-| 20220727T23:40:24Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
-| 20220727T06:58:05Z | CVE-2022-31181 | Module for PrestaShop 1.6.1.X/1.7.X to fix CVE-2022-31181 vulnerability (Chain SQL Injection) | https://github.com/drkbcn/lblfixer_cve_2022_31181 | | 
-| 20220727T01:18:39Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220729T01:57:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7415 | 258| 
-| 20220728T22:40:47Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 52 | 3| 
+| 20220729T11:16:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7450 | 258| 
+| 20220729T09:15:33Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 159 | 50| 
+| 20220729T08:56:36Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 61 | 4| 
 | 20220728T12:18:10Z | fork for kleenexp | https://github.com/guyshonshon/kleenexp | 0 | 0| 
 | 20220728T08:18:10Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
 | 20220728T04:26:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2029 | 573| 
@@ -70,7 +71,6 @@
 | 20220726T22:54:22Z | Null | https://github.com/klee16/klee16 | 0 | 0| 
 | 20220725T01:02:40Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 3 | 0| 
 | 20220722T12:21:34Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 739 | 37| 
-| 20220719T07:34:07Z | Null | https://github.com/wecode-bootcamp-korea/35-1st-kleenex-backend | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -136,6 +136,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T05:07:35Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 9 | 0| 
 | 20220728T20:11:58Z | Null | https://github.com/ndss2021/ndss2021.github.io | 0 | 0| 
 | 20220728T19:45:32Z | Null | https://github.com/briankon116/ndss2021.how | 0 | 0| 
 | 20220728T02:37:16Z | ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper) | https://github.com/nsg-ethz/ditto | 11 | 2| 
@@ -144,7 +145,6 @@
 | 20220720T22:50:37Z | Anonymized artifact  - A New Spectral Similarity for Scalable Program Clone Search | https://github.com/sppunderreview/ndss-spp | 0 | 0| 
 | 20220719T15:53:18Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 69 | 26| 
 | 20220718T06:50:06Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 8 | 2| 
-| 20220704T09:22:07Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 8 | 0| 
 
 
 # fuzz on Github 推荐
