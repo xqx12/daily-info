@@ -48,16 +48,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220729T01:19:09Z | hack android device remotly | https://github.com/blackhathackersgroup/hacking-rat | 0 | 0| 
-| 20220729T01:03:31Z | hack android by sending a pdf file | https://github.com/androidhackingrats/android-hvnc | 0 | 0| 
-| 20220729T00:22:07Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-l | 1 | 0| 
-| 20220729T00:20:39Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
-| 20220729T00:19:47Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 0 | 0| 
+| 20220729T11:55:04Z | Pizza Client Supporter is a Hypixel Skyblock Mod for Macros, Exploits & More | https://github.com/payload1337/PizzaClient-Supporter | 1 | 0| 
+| 20220729T11:45:59Z | PS$ Exploit | https://github.com/laradvance/laradvanve.github.io | 0 | 0| 
+| 20220729T11:40:12Z | Null | https://github.com/ameetsaahu/Kernel-exploitation | 1 | 0| 
+| 20220729T11:28:51Z | University Project where a vulnerable GraphQL Webservice was set up to be attacked(DOS and IDOR vulns).  | https://github.com/Que-sar/VulnerableGraphQL-Setup-Exploitation- | 0 | 0| 
+| 20220729T10:35:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3510 | 546| 
+| 20220729T10:34:31Z | ✅ a very simple roblox executor for lua scripts (roblox executor, roblox exploit, roblox cheat, roblox mods) using WeAreDevsAPI ✅ | https://github.com/MJMODZZ/Roblox-Executor | 1 | 0| 
+| 20220729T10:29:53Z |  Systemes d’Exploitation 2 TP 2 Communication inter-processus sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-2-Communication-inter-processus-sous-UNIX | 0 | 0| 
+| 20220729T10:24:18Z | exe-to-doc-exploits | https://github.com/MotGSSS/exe-to-doc-exploits | 2 | 0| 
+| 20220729T09:13:54Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 714 | 62| 
+| 20220729T08:25:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4750 | 655| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T12:01:00Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 120 | 32| 
+| 20220729T11:32:29Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 63 | 14| 
+| 20220729T06:00:09Z | Null | https://github.com/barryliu0818/PC-darts-Backdoor | 0 | 0| 
+| 20220729T03:57:03Z | Null | https://github.com/barryliu0818/Backdoor-Darts | 0 | 0| 
+| 20220729T02:29:52Z | Null | https://github.com/SCLBD/BackdoorBench | 37 | 1| 
 
 
 # symbolic execution on Github 推荐
