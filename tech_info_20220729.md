@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220729T12:42:08Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
 | 20220729T12:24:00Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220729T11:16:34Z | CVE-2022-2185 | wo ee cve-2022-2185 gitlab authenticated rce | https://github.com/ESUAdmin/CVE-2022-2185 | | 
 | 20220729T11:09:48Z | CVE-2022-1119 | WordPress Simple File List FileRead POC | https://github.com/z92g/CVE-2022-1119 | | 
@@ -28,7 +29,6 @@
 | 20220729T10:39:03Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
 | 20220729T08:01:22Z | CVE-2021-26084 | Remote Code Execution on Confluence Servers : CVE-2021-26084 | https://github.com/Vulnmachines/Confluence_CVE-2021-26084 | | 
 | 20220729T06:02:26Z | CVE-2022-26138 | Atlassian Confluence Server and Data Center: CVE-2022-26138 | https://github.com/Vulnmachines/Confluence-Question-CVE-2022-26138- | | 
-| 20220729T04:51:07Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
 | 20220729T03:25:34Z | CVE-2022-26138 | Atlassian Questions Hardcoded Password (CVE-2022-26138) | https://github.com/alcaparra/CVE-2022-26138 | | 
 
 
