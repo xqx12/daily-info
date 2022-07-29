@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T12:13:20Z | A simple GoLang microservice to query and get data from Exploit-DB. | https://github.com/vishnusomank/GoXploitDB | 0 | 0| 
 | 20220729T11:55:04Z | Pizza Client Supporter is a Hypixel Skyblock Mod for Macros, Exploits & More | https://github.com/payload1337/PizzaClient-Supporter | 1 | 0| 
 | 20220729T11:45:59Z | PS$ Exploit | https://github.com/laradvance/laradvanve.github.io | 0 | 0| 
 | 20220729T11:40:12Z | Null | https://github.com/ameetsaahu/Kernel-exploitation | 1 | 0| 
@@ -57,7 +58,6 @@
 | 20220729T10:29:53Z |  Systemes d’Exploitation 2 TP 2 Communication inter-processus sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-2-Communication-inter-processus-sous-UNIX | 0 | 0| 
 | 20220729T10:24:18Z | exe-to-doc-exploits | https://github.com/MotGSSS/exe-to-doc-exploits | 2 | 0| 
 | 20220729T09:13:54Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 714 | 62| 
-| 20220729T08:25:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4750 | 655| 
 
 
 # backdoor on Github 推荐
