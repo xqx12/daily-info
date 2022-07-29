@@ -84,10 +84,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T12:28:46Z | my fuzzingbook studies  | https://github.com/desimetallica/fuzzingStudies | 1 | 0| 
 | 20220729T11:45:16Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/catsuc/fuzzy-spoon | 3 | 0| 
 | 20220729T11:08:36Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1053 | 150| 
 | 20220729T10:47:38Z | Null | https://github.com/Palakbhatt/Fuzzy-match-algorithm | 0 | 0| 
-| 20220729T10:24:01Z | my fuzzingbook studies  | https://github.com/desimetallica/fuzzingStudies | 0 | 0| 
 | 20220729T10:12:52Z | test | https://github.com/DiorAbjalilov/fuzzy-giggle | 0 | 0| 
 | 20220729T09:22:06Z | Null | https://github.com/StanislavCucuruzac/fuzzy-telegram | 0 | 0| 
 | 20220729T09:09:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4259 | 1019| 
