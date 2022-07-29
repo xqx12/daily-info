@@ -53,9 +53,9 @@
 | 20220728T19:36:52Z |  pOOBs4 PS4 exploit for v9.0 + automatic GoldHEN | https://github.com/mc-17/pspack-flask | 47 | 21| 
 | 20220728T18:35:16Z | Exploits | https://github.com/b8ff/Exploits | 0 | 0| 
 | 20220728T18:32:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 469 | 133| 
+| 20220728T13:39:53Z | Null | https://github.com/0x414141414/Silent-JPG-PNG-FUD-exploit | 0 | 0| 
+| 20220728T13:36:18Z | Null | https://github.com/0x414141414/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper- | 0 | 0| 
 | 20220728T12:36:31Z | PDF Exploit | https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-2022---PDF-Exploits | 10 | 2| 
-| 20220728T12:29:03Z | University Project where a vulnerable GraphQL Webservice was set up to be attacked(DOS and IDOR vulns).  | https://github.com/Que-sar/VulnerableGraphQL-Setup-Exploitation- | 0 | 0| 
-| 20220728T11:47:23Z | Systemes d’Exploitation 2 TP 1 : Manipulation des processus sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-1-Manipulation-des-processus-sous-UNIX | 0 | 0| 
 
 
 # backdoor on Github 推荐
