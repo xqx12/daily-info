@@ -158,8 +158,8 @@
 | 20220729T09:22:06Z | Null | https://github.com/StanislavCucuruzac/fuzzy-telegram | 0 | 0| 
 | 20220729T09:09:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4259 | 1019| 
 | 20220729T08:47:19Z | Null | https://github.com/sanMS21/SugiyamaMayu_fuzz | 0 | 0| 
+| 20220729T03:09:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7629 | 1645| 
 | 20220729T01:21:52Z | crunch-go is go runner for crunch wordlist generator. just builds and runs the binary with given args. https://pkg.go.dev/github.com/umutbasal/crunch-go | https://github.com/umutbasal/crunch-go | 0 | 0| 
-| 20220729T00:02:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7627 | 1644| 
 
 
 
