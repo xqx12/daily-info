@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220729T01:51:27Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220729T01:57:34Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220729T01:40:27Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
 | 20220728T23:22:26Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
 | 20220728T19:43:23Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220729T01:54:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7414 | 258| 
+| 20220729T01:57:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7415 | 258| 
 | 20220728T22:40:47Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 52 | 3| 
 | 20220728T12:18:10Z | fork for kleenexp | https://github.com/guyshonshon/kleenexp | 0 | 0| 
 | 20220728T08:18:10Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
