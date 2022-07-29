@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T12:45:20Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1419 | 63| 
 | 20220729T12:40:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4260 | 1019| 
 | 20220729T12:28:46Z | my fuzzingbook studies  | https://github.com/desimetallica/fuzzingStudies | 1 | 0| 
 | 20220729T11:45:16Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/catsuc/fuzzy-spoon | 3 | 0| 
@@ -94,7 +95,6 @@
 | 20220729T09:22:06Z | Null | https://github.com/StanislavCucuruzac/fuzzy-telegram | 0 | 0| 
 | 20220729T08:47:19Z | Null | https://github.com/sanMS21/SugiyamaMayu_fuzz | 0 | 0| 
 | 20220729T03:09:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7629 | 1645| 
-| 20220729T01:21:52Z | crunch-go is go runner for crunch wordlist generator. just builds and runs the binary with given args. https://pkg.go.dev/github.com/umutbasal/crunch-go | https://github.com/umutbasal/crunch-go | 0 | 0| 
 
 
 
