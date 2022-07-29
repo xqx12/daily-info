@@ -57,7 +57,7 @@
 | 20220729T10:35:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3510 | 546| 
 | 20220729T10:34:31Z | ✅ a very simple roblox executor for lua scripts (roblox executor, roblox exploit, roblox cheat, roblox mods) using WeAreDevsAPI ✅ | https://github.com/MJMODZZ/Roblox-Executor | 1 | 0| 
 | 20220729T10:29:53Z |  Systemes d’Exploitation 2 TP 2 Communication inter-processus sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-2-Communication-inter-processus-sous-UNIX | 0 | 0| 
-| 20220729T10:24:18Z | exe-to-doc-exploits | https://github.com/MotGSSS/exe-to-doc-exploits | 2 | 0| 
+| 20220729T10:24:34Z | Null | https://github.com/MotGSSS/PDF-DOC-XLS-EXPLOIT | 2 | 0| 
 
 
 # backdoor on Github 推荐
