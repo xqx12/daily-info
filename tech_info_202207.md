@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220729T00:48:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7410 | 258| 
+| 20220729T01:04:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7411 | 258| 
 | 20220728T22:40:47Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 52 | 3| 
 | 20220728T12:18:10Z | fork for kleenexp | https://github.com/guyshonshon/kleenexp | 0 | 0| 
 | 20220728T08:18:10Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T01:03:31Z | hack android by sending a pdf file | https://github.com/androidhackingrats/android-hvnc | 0 | 0| 
 | 20220729T00:22:07Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20220729T00:20:39Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
 | 20220729T00:19:47Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220728T19:47:14Z | A Core Used In Hispanarky.es, This plugin is designed to patch the different exploits that exist and make the process of creating anarchic servers easier, I hope you like it | https://github.com/MrRafter/HispanarkyCore | 0 | 0| 
 | 20220728T19:36:52Z |  pOOBs4 PS4 exploit for v9.0 + automatic GoldHEN | https://github.com/mc-17/pspack-flask | 47 | 21| 
 | 20220728T18:35:16Z | Exploits | https://github.com/b8ff/Exploits | 0 | 0| 
-| 20220728T18:32:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 469 | 133| 
 
 
 # backdoor on Github 推荐
