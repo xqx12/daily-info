@@ -19,7 +19,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220728T23:22:26Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
-| 20220728T23:21:18Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
 | 20220728T19:43:23Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220728T15:28:40Z | CVE-2022-26138 | Atlassian Confluence Server and Data Center: CVE-2022-26138 | https://github.com/Vulnmachines/Confluence-Question-CVE-2022-26138- | | 
 | 20220728T09:24:11Z | CVE-2021-42013 | Apache 2.4.49-50 Remote Code Execution Exploit | https://github.com/theykillmeslowly/CVE-2021-42013 | | 
