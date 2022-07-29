@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T12:38:29Z | Ez exploit nya dek yahahaha hayukkk | https://github.com/BornToBePopular/Stumbles | 0 | 0| 
 | 20220729T12:13:20Z | A simple GoLang microservice to query and get data from Exploit-DB. | https://github.com/vishnusomank/GoXploitDB | 0 | 0| 
 | 20220729T11:55:04Z | Pizza Client Supporter is a Hypixel Skyblock Mod for Macros, Exploits & More | https://github.com/payload1337/PizzaClient-Supporter | 1 | 0| 
 | 20220729T11:45:59Z | PS$ Exploit | https://github.com/laradvance/laradvanve.github.io | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20220729T10:34:31Z | ✅ a very simple roblox executor for lua scripts (roblox executor, roblox exploit, roblox cheat, roblox mods) using WeAreDevsAPI ✅ | https://github.com/MJMODZZ/Roblox-Executor | 1 | 0| 
 | 20220729T10:29:53Z |  Systemes d’Exploitation 2 TP 2 Communication inter-processus sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-2-Communication-inter-processus-sous-UNIX | 0 | 0| 
 | 20220729T10:24:18Z | exe-to-doc-exploits | https://github.com/MotGSSS/exe-to-doc-exploits | 2 | 0| 
-| 20220729T09:13:54Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 714 | 62| 
 
 
 # backdoor on Github 推荐
@@ -85,13 +85,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T12:40:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4260 | 1019| 
 | 20220729T12:28:46Z | my fuzzingbook studies  | https://github.com/desimetallica/fuzzingStudies | 1 | 0| 
 | 20220729T11:45:16Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/catsuc/fuzzy-spoon | 3 | 0| 
 | 20220729T11:08:36Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1053 | 150| 
 | 20220729T10:47:38Z | Null | https://github.com/Palakbhatt/Fuzzy-match-algorithm | 0 | 0| 
 | 20220729T10:12:52Z | test | https://github.com/DiorAbjalilov/fuzzy-giggle | 0 | 0| 
 | 20220729T09:22:06Z | Null | https://github.com/StanislavCucuruzac/fuzzy-telegram | 0 | 0| 
-| 20220729T09:09:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4259 | 1019| 
 | 20220729T08:47:19Z | Null | https://github.com/sanMS21/SugiyamaMayu_fuzz | 0 | 0| 
 | 20220729T03:09:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7629 | 1645| 
 | 20220729T01:21:52Z | crunch-go is go runner for crunch wordlist generator. just builds and runs the binary with given args. https://pkg.go.dev/github.com/umutbasal/crunch-go | https://github.com/umutbasal/crunch-go | 0 | 0| 
