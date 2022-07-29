@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220729T01:45:15Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220729T01:51:19Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220729T01:40:27Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
 | 20220728T23:22:26Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
 | 20220728T19:43:23Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
@@ -158,8 +158,8 @@
 | 20220728T21:30:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 905 | 105| 
 | 20220728T20:25:39Z | Null | https://github.com/Sid-ah/fuzzy-garbanzo | 0 | 0| 
 | 20220728T19:54:47Z | Null | https://github.com/bhushan/fuzzy-search-html-js | 0 | 0| 
+| 20220728T18:36:49Z | Framework for Automating Fuzzable Target Discovery with Static Analysis | https://github.com/ex0dus-0x/fuzzable | 10 | 3| 
 | 20220728T18:03:57Z | Artifact for the ASE22 paper: So Many Fuzzers, So Little Time. | https://github.com/assist-project/so-many-fuzzers-artifact | 0 | 0| 
-| 20220728T12:54:27Z | Null | https://github.com/1TreeForest/HTTP-Fuzzing-Intership | 0 | 0| 
 
 
 
