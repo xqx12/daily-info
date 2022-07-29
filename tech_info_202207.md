@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T00:20:39Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
+| 20220729T00:19:47Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 0 | 0| 
 | 20220728T23:40:40Z | Codium Algorithm Protector ^ Crypter | https://github.com/CodiumAlgorithm/Codium-AntiMemoryScan-For-Native-Files-Improve-Runtime | 1 | 0| 
 | 20220728T23:04:39Z | Open-Source exploit for roblox (Lua Executor) | https://github.com/DevXternal/CryT | 0 | 0| 
 | 20220728T21:58:33Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1614 | 126| 
@@ -99,8 +101,6 @@
 | 20220728T18:35:16Z | Exploits | https://github.com/b8ff/Exploits | 0 | 0| 
 | 20220728T18:32:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 469 | 133| 
 | 20220728T13:39:53Z | Null | https://github.com/0x414141414/Silent-JPG-PNG-FUD-exploit | 0 | 0| 
-| 20220728T13:36:18Z | Null | https://github.com/0x414141414/FUD-XLL-Excel-Exploit-Builder-Silent-Office-Dropper- | 0 | 0| 
-| 20220728T12:36:31Z | PDF Exploit | https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-2022---PDF-Exploits | 10 | 2| 
 
 
 # backdoor on Github 推荐
