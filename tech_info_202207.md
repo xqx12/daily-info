@@ -150,16 +150,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T11:45:16Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/catsuc/fuzzy-spoon | 3 | 0| 
+| 20220729T11:08:36Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1053 | 150| 
+| 20220729T10:47:38Z | Null | https://github.com/Palakbhatt/Fuzzy-match-algorithm | 0 | 0| 
+| 20220729T10:24:01Z | my fuzzingbook studies  | https://github.com/desimetallica/fuzzingStudies | 0 | 0| 
+| 20220729T10:12:52Z | test | https://github.com/DiorAbjalilov/fuzzy-giggle | 0 | 0| 
+| 20220729T09:22:06Z | Null | https://github.com/StanislavCucuruzac/fuzzy-telegram | 0 | 0| 
+| 20220729T09:09:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4259 | 1019| 
+| 20220729T08:47:19Z | Null | https://github.com/sanMS21/SugiyamaMayu_fuzz | 0 | 0| 
 | 20220729T01:21:52Z | crunch-go is go runner for crunch wordlist generator. just builds and runs the binary with given args. https://pkg.go.dev/github.com/umutbasal/crunch-go | https://github.com/umutbasal/crunch-go | 0 | 0| 
 | 20220729T00:02:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7627 | 1644| 
-| 20220728T22:54:54Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1045 | 150| 
-| 20220728T22:07:20Z | Null | https://github.com/AnthonySado/fuzzy-octo-tribble | 0 | 0| 
-| 20220728T21:37:25Z | more like brain overflow - an attempt to fuzz data_handler::read_file | https://github.com/echel0nn/brainflow-fuzz | 0 | 0| 
-| 20220728T21:30:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 905 | 105| 
-| 20220728T20:25:39Z | Null | https://github.com/Sid-ah/fuzzy-garbanzo | 0 | 0| 
-| 20220728T19:54:47Z | Null | https://github.com/bhushan/fuzzy-search-html-js | 0 | 0| 
-| 20220728T18:36:49Z | Framework for Automating Fuzzable Target Discovery with Static Analysis | https://github.com/ex0dus-0x/fuzzable | 10 | 3| 
-| 20220728T18:03:57Z | Artifact for the ASE22 paper: So Many Fuzzers, So Little Time. | https://github.com/assist-project/so-many-fuzzers-artifact | 0 | 0| 
 
 
 
