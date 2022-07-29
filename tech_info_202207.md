@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220729T01:10:47Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220729T01:21:56Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220728T23:22:26Z | CVE-2022-30333 | Zimbra unrar vulnerability. Now there are already POC available, it is safe to release our POC. | https://github.com/aslitsecurity/Zimbra-CVE-2022-30333 | | 
 | 20220728T23:21:18Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
 | 20220728T19:43:23Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220729T01:19:09Z | hack android device remotly | https://github.com/blackhathackersgroup/hacking-rat | 0 | 0| 
 | 20220729T01:03:31Z | hack android by sending a pdf file | https://github.com/androidhackingrats/android-hvnc | 0 | 0| 
 | 20220729T00:22:07Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20220729T00:20:39Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220728T21:58:33Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1614 | 126| 
 | 20220728T19:47:14Z | A Core Used In Hispanarky.es, This plugin is designed to patch the different exploits that exist and make the process of creating anarchic servers easier, I hope you like it | https://github.com/MrRafter/HispanarkyCore | 0 | 0| 
 | 20220728T19:36:52Z |  pOOBs4 PS4 exploit for v9.0 + automatic GoldHEN | https://github.com/mc-17/pspack-flask | 47 | 21| 
-| 20220728T18:35:16Z | Exploits | https://github.com/b8ff/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -150,7 +150,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220729T01:03:31Z | https://pkg.go.dev/github.com/umutbasal/crunch-go | https://github.com/umutbasal/crunch-go | 0 | 0| 
+| 20220729T01:21:52Z | crunch-go is go runner for crunch wordlist generator. just builds and runs the binary with given args. https://pkg.go.dev/github.com/umutbasal/crunch-go | https://github.com/umutbasal/crunch-go | 0 | 0| 
 | 20220729T00:02:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7627 | 1644| 
 | 20220728T22:54:54Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1045 | 150| 
 | 20220728T22:07:20Z | Null | https://github.com/AnthonySado/fuzzy-octo-tribble | 0 | 0| 
