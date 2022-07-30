@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220730T12:45:15Z | Null | https://github.com/gxxlhuk/fuzzy-vibranium | 0 | 0| 
 | 20220730T12:40:13Z | Null | https://github.com/florcabral/ros2_fuzz | 0 | 0| 
 | 20220730T12:32:23Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1175 | 161| 
 | 20220730T12:29:00Z | Null | https://github.com/Azzazin099/Keanggotaan-Fuzzy | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20220730T06:54:08Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 293 | 33| 
 | 20220730T05:07:48Z | Null | https://github.com/menderita190/fuzzy-lamp | 0 | 0| 
 | 20220730T03:40:33Z | Null | https://github.com/SatinCake/fuzzy-octo-garbanzo | 0 | 0| 
-| 20220729T19:12:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2892 | 592| 
 
 
 
