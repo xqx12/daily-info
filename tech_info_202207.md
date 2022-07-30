@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220729T23:20:29Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220730T01:19:29Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220729T22:37:56Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220729T16:33:26Z | CVE-2022-21449 | Null | https://github.com/Skipper7718/CVE-2022-21449-showcase | | 
 | 20220729T13:12:59Z | cve-2021- | Null | https://github.com/fazaroot/cve-2021-pwnkit | | 

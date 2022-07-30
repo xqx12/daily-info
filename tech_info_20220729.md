@@ -21,7 +21,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220729T23:20:29Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220729T22:37:56Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220729T16:33:26Z | CVE-2022-21449 | Null | https://github.com/Skipper7718/CVE-2022-21449-showcase | | 
 | 20220729T13:12:59Z | cve-2021- | Null | https://github.com/fazaroot/cve-2021-pwnkit | | 
@@ -31,6 +30,7 @@
 | 20220729T11:09:24Z | CVE-2022-29593 | Null | https://github.com/9lyph/CVE-2022-29593 | | 
 | 20220729T10:39:03Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
 | 20220729T08:01:22Z | CVE-2021-26084 | Remote Code Execution on Confluence Servers : CVE-2021-26084 | https://github.com/Vulnmachines/Confluence_CVE-2021-26084 | | 
+| 20220729T06:02:26Z | CVE-2022-26138 | Atlassian Confluence Server and Data Center: CVE-2022-26138 | https://github.com/Vulnmachines/Confluence-Question-CVE-2022-26138- | | 
 
 
 # klee on Github 推荐
