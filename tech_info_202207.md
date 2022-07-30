@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220730T01:19:29Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
-| 20220729T22:37:56Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
+| 20220730T11:52:48Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220730T11:45:58Z | CVE-2021-41349 | Microsoft Exchange Server Spoofing Vulnerability Exploit! | https://github.com/0xrobiul/CVE-2021-41349 | | 
+| 20220730T10:22:09Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
+| 20220730T10:09:51Z | CVE-2022-2185 | wo ee cve-2022-2185 gitlab authenticated rce | https://github.com/ESUAdmin/CVE-2022-2185 | | 
+| 20220730T09:15:09Z | CVE-2022-29593 | Null | https://github.com/9lyph/CVE-2022-29593 | | 
+| 20220730T08:07:50Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
+| 20220730T08:02:46Z | CVE-2022-26138 | Confluence Hardcoded Password POC | https://github.com/z92g/CVE-2022-26138 | | 
+| 20220730T06:31:50Z | CVE-2021-26084 | Remote Code Execution on Confluence Servers : CVE-2021-26084 | https://github.com/Vulnmachines/Confluence_CVE-2021-26084 | | 
 | 20220729T16:33:26Z | CVE-2022-21449 | Null | https://github.com/Skipper7718/CVE-2022-21449-showcase | | 
 | 20220729T13:12:59Z | cve-2021- | Null | https://github.com/fazaroot/cve-2021-pwnkit | | 
-| 20220729T12:42:08Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
-| 20220729T11:16:34Z | CVE-2022-2185 | wo ee cve-2022-2185 gitlab authenticated rce | https://github.com/ESUAdmin/CVE-2022-2185 | | 
-| 20220729T11:09:48Z | CVE-2022-1119 | WordPress Simple File List FileRead POC | https://github.com/z92g/CVE-2022-1119 | | 
-| 20220729T11:09:24Z | CVE-2022-29593 | Null | https://github.com/9lyph/CVE-2022-29593 | | 
-| 20220729T10:39:03Z | CVE-2022-30190 | Just another PoC for the new MSDT-Exploit | https://github.com/drgreenthumb93/CVE-2022-30190-follina | | 
-| 20220729T08:01:22Z | CVE-2021-26084 | Remote Code Execution on Confluence Servers : CVE-2021-26084 | https://github.com/Vulnmachines/Confluence_CVE-2021-26084 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220730T00:47:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7462 | 258| 
+| 20220730T11:23:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7475 | 259| 
 | 20220729T09:15:33Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 159 | 50| 
 | 20220729T08:56:36Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 61 | 4| 
 | 20220728T12:18:10Z | fork for kleenexp | https://github.com/guyshonshon/kleenexp | 0 | 0| 
 | 20220728T08:18:10Z | A cleaning service built to help you live your best life, while we handle the dirty work. | https://github.com/kapbyte/kleen | 0 | 0| 
-| 20220728T04:26:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2029 | 573| 
+| 20220728T04:26:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2029 | 575| 
 | 20220727T12:28:11Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 19 | 1| 
 | 20220726T22:54:22Z | Null | https://github.com/klee16/klee16 | 0 | 0| 
 | 20220725T01:02:40Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 3 | 0| 
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220730T07:14:05Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 61 | 7| 
 | 20220730T01:44:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 242 | 59| 
 | 20220728T18:06:05Z | Calumet S2EBPR pilot study | https://github.com/mckfarm/calumet_s2ebpr | 0 | 0| 
-| 20220727T13:34:49Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 58 | 7| 
 | 20220727T13:19:26Z | Repository del progetto di test automatici per il partner UCI | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_UCI | 0 | 0| 
 | 20220725T05:33:38Z | S2E user side repository for Formation Flying study | https://github.com/ut-issl/s2e-ff | 2 | 0| 
 | 20220719T07:48:57Z | Null | https://github.com/S2eongjin/S2eongjin.github.io | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220730T01:40:23Z | Roblox Scripthub Generator | https://github.com/ROOT44x/Roblox-Exploit-Hub-Generator-By-j0nny | 0 | 0| 
-| 20220730T00:36:41Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v | 0 | 0| 
-| 20220730T00:35:09Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-v | 0 | 0| 
-| 20220730T00:33:38Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-v | 0 | 0| 
-| 20220730T00:23:19Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1659 | 545| 
-| 20220729T23:38:18Z | Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems | https://github.com/ChrisTheCoolHut/Zeratool | 884 | 121| 
-| 20220729T20:36:56Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 841 | 218| 
-| 20220729T20:02:29Z | Flask app to demonstrate methods of exploiting h5 ML models (using scenery models) | https://github.com/B-D-I/ML_Exploit_Image_App | 0 | 0| 
-| 20220729T18:26:22Z | Null | https://github.com/fg-netzwerksicherheit/esp32-exploitation | 0 | 0| 
-| 20220729T14:04:46Z | This repo contains my Bachelor Degree project. It consists in a AI which exploits A* Algorithm to generate AleaGame levels and RBFS to solve them. | https://github.com/jackperlo/bachelor-thesis | 0 | 1| 
+| 20220730T11:53:33Z | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | 4 | 0| 
+| 20220730T11:53:28Z | Source code for the DLL for my Roblox Exploit called %MainDab%, skidded off Axon. | https://github.com/MainDabRblx/MainDabApiSrc | 0 | 0| 
+| 20220730T11:52:23Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 844 | 220| 
+| 20220730T11:50:44Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4778 | 600| 
+| 20220730T11:45:58Z | Microsoft Exchange Server Spoofing Vulnerability Exploit! | https://github.com/0xrobiul/CVE-2021-41349 | 0 | 0| 
+| 20220730T11:45:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3512 | 546| 
+| 20220730T11:31:58Z | exploit  nginx<=1.21.5 | https://github.com/fengziHK/exploitnginx1.21.5 | 0 | 1| 
+| 20220730T10:42:21Z | Python tool to list all cves from the affected cpe and, in addition, plubic related exploits available on exploitdb.com | https://github.com/sydisnumb/CEST | 0 | 0| 
+| 20220730T10:24:28Z | Systemes d’Exploitation 2 TP 3  Communication inter-processus sous UNIX Les signaux | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-3-Communication-inter-processus-sous-UNIX-Les-signaux | 0 | 0| 
+| 20220730T10:24:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3224 | 390| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220730T08:52:13Z | Basic Backdoor Client and Server | https://github.com/Newt93/Backdoor | 0 | 0| 
+| 20220730T08:25:15Z | ; ( | https://github.com/melamaze/Backdoor-identification | 0 | 0| 
+| 20220730T08:20:41Z | Null | https://github.com/AuxGrep/unix_backdoor-socket | 0 | 0| 
+| 20220730T04:18:15Z | Null | https://github.com/Tzfast/Windows-Backdoor | 0 | 0| 
+| 20220730T04:02:06Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 63 | 15| 
 | 20220730T01:45:24Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 44 | 7| 
 | 20220729T19:37:13Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 19 | 17| 
-| 20220729T16:20:11Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 62 | 14| 
 | 20220729T12:01:00Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 120 | 33| 
 | 20220729T06:00:09Z | Null | https://github.com/barryliu0818/PC-darts-Backdoor | 0 | 0| 
 | 20220729T03:57:03Z | Null | https://github.com/barryliu0818/Backdoor-Darts | 0 | 0| 
-| 20220729T02:29:52Z | Null | https://github.com/SCLBD/BackdoorBench | 37 | 1| 
-| 20220728T21:10:04Z | Répertoire (directory) pour des virus, RAT, malwares, ransomwares, spybots, etc... | https://github.com/2e0/BackdoorDir | 0 | 0| 
-| 20220728T12:29:09Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 533 | 106| 
-| 20220728T08:03:18Z | Null | https://github.com/Seaocn/Dyn-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220729T23:16:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7630 | 1647| 
-| 20220729T21:02:24Z | Coveraged-based fuzzer for finding DBMS logical bugs | https://github.com/PSU-Security-Universe/sqlright | 0 | 0| 
+| 20220730T11:44:07Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1167 | 160| 
+| 20220730T11:33:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7633 | 1648| 
+| 20220730T09:25:08Z | Coveraged-based fuzzer for finding DBMS logical bugs | https://github.com/PSU-Security-Universe/sqlright | 1 | 0| 
+| 20220730T06:54:08Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 293 | 33| 
+| 20220730T05:07:48Z | Null | https://github.com/menderita190/fuzzy-lamp | 0 | 0| 
+| 20220730T03:40:33Z | Null | https://github.com/SatinCake/fuzzy-octo-garbanzo | 0 | 0| 
 | 20220729T19:12:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2892 | 592| 
 | 20220729T17:50:39Z | Null | https://github.com/gman-hub/fuzzy-sniffle | 0 | 0| 
 | 20220729T17:48:12Z | Assignments of Neural Network and Fuzzy Logic | https://github.com/Muskan33/Neural_network_and_Fuzzy_Logic | 0 | 0| 
 | 20220729T14:50:39Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1420 | 63| 
-| 20220729T12:40:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4260 | 1019| 
-| 20220729T12:28:46Z | my fuzzingbook studies  | https://github.com/desimetallica/fuzzingStudies | 1 | 0| 
-| 20220729T11:45:16Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/catsuc/fuzzy-spoon | 3 | 0| 
-| 20220729T11:08:36Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1053 | 150| 
 
 
 
