@@ -81,9 +81,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220730T12:51:49Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1176 | 161| 
 | 20220730T12:45:15Z | Null | https://github.com/gxxlhuk/fuzzy-vibranium | 0 | 0| 
 | 20220730T12:40:13Z | Null | https://github.com/florcabral/ros2_fuzz | 0 | 0| 
-| 20220730T12:32:23Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1175 | 161| 
 | 20220730T12:29:00Z | Null | https://github.com/Azzazin099/Keanggotaan-Fuzzy | 0 | 0| 
 | 20220730T12:17:03Z | Null | https://github.com/Azzazin099/Fuzzy_Biosistem | 0 | 0| 
 | 20220730T11:33:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7633 | 1648| 
