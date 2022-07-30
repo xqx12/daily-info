@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220730T00:36:41Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220730T00:35:09Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220730T00:33:38Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-v | 0 | 0| 
 | 20220730T00:23:19Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1659 | 545| 
@@ -100,7 +101,6 @@
 | 20220729T18:26:22Z | Null | https://github.com/fg-netzwerksicherheit/esp32-exploitation | 0 | 0| 
 | 20220729T14:04:46Z | This repo contains my Bachelor Degree project. It consists in a AI which exploits A* Algorithm to generate AleaGame levels and RBFS to solve them. | https://github.com/jackperlo/bachelor-thesis | 0 | 1| 
 | 20220729T13:43:41Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 71 | 10| 
-| 20220729T13:08:11Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 3 | 0| 
 
 
 # backdoor on Github 推荐
