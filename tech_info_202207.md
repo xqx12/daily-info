@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220730T01:45:24Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 44 | 7| 
 | 20220729T19:37:13Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 19 | 17| 
 | 20220729T16:20:11Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 62 | 14| 
 | 20220729T12:01:00Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 120 | 33| 
@@ -113,7 +114,6 @@
 | 20220729T03:57:03Z | Null | https://github.com/barryliu0818/Backdoor-Darts | 0 | 0| 
 | 20220729T02:29:52Z | Null | https://github.com/SCLBD/BackdoorBench | 37 | 1| 
 | 20220728T21:10:04Z | Répertoire (directory) pour des virus, RAT, malwares, ransomwares, spybots, etc... | https://github.com/2e0/BackdoorDir | 0 | 0| 
-| 20220728T13:05:39Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 43 | 7| 
 | 20220728T12:29:09Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 533 | 106| 
 | 20220728T08:03:18Z | Null | https://github.com/Seaocn/Dyn-Backdoor | 0 | 0| 
 
