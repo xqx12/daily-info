@@ -74,7 +74,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220729T20:36:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3026 | 428| 
 | 20220729T15:40:18Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/__archived__Medjai | 16 | 2| 
 
 

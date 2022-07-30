@@ -121,7 +121,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220729T20:36:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3026 | 428| 
+| 20220730T01:46:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3027 | 428| 
+| 20220730T01:44:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 242 | 59| 
 | 20220729T15:40:18Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/__archived__Medjai | 16 | 2| 
 | 20220728T19:16:57Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
 | 20220728T07:31:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
@@ -130,7 +131,6 @@
 | 20220727T07:12:47Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 258 | 18| 
 | 20220725T18:41:44Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 15 | 2| 
 | 20220723T03:40:19Z | Null | https://github.com/rollrat/babel-symbolic-execution | 0 | 0| 
-| 20220721T12:38:41Z | Optik is a set of tools based on symbolic execution that provide assistance during smart-contract audits | https://github.com/trailofbits/optik | 2 | 0| 
 
 
 # big4 on Github 推荐
