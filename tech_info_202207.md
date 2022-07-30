@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220730T11:52:48Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220730T12:00:30Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220730T11:45:58Z | CVE-2021-41349 | Microsoft Exchange Server Spoofing Vulnerability Exploit! | https://github.com/0xrobiul/CVE-2021-41349 | | 
 | 20220730T10:22:09Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220730T10:09:51Z | CVE-2022-2185 | wo ee cve-2022-2185 gitlab authenticated rce | https://github.com/ESUAdmin/CVE-2022-2185 | | 
@@ -121,16 +121,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220730T09:53:42Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 41 | 23| 
 | 20220730T01:46:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3027 | 428| 
 | 20220730T01:44:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 242 | 59| 
 | 20220729T15:40:18Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/__archived__Medjai | 16 | 2| 
 | 20220728T19:16:57Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
 | 20220728T07:31:24Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 462 | 26| 
-| 20220728T04:26:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2029 | 573| 
+| 20220728T04:26:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2029 | 575| 
 | 20220727T10:41:37Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 798 | 157| 
 | 20220727T07:12:47Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 258 | 18| 
 | 20220725T18:41:44Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/Medjai | 15 | 2| 
-| 20220723T03:40:19Z | Null | https://github.com/rollrat/babel-symbolic-execution | 0 | 0| 
 
 
 # big4 on Github 推荐
