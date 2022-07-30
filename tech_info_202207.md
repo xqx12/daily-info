@@ -151,8 +151,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220730T12:12:40Z | Null | https://github.com/Azzazin099/Fuzzy_Biosistem | 0 | 0| 
-| 20220730T12:12:00Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1172 | 160| 
+| 20220730T12:17:03Z | Null | https://github.com/Azzazin099/Fuzzy_Biosistem | 0 | 0| 
+| 20220730T12:13:53Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1173 | 160| 
 | 20220730T11:33:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7633 | 1648| 
 | 20220730T09:25:08Z | Coveraged-based fuzzer for finding DBMS logical bugs | https://github.com/PSU-Security-Universe/sqlright | 1 | 0| 
 | 20220730T06:54:08Z | DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。 | https://github.com/AlphabugX/Alphalog | 293 | 33| 
