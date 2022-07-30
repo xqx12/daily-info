@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220730T00:23:19Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1659 | 545| 
 | 20220729T23:38:18Z | Automatic Exploit Generation (AEG) and remote flag capture for exploitable CTF problems | https://github.com/ChrisTheCoolHut/Zeratool | 884 | 121| 
 | 20220729T20:36:56Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 841 | 218| 
 | 20220729T20:02:29Z | Flask app to demonstrate methods of exploiting h5 ML models (using scenery models) | https://github.com/B-D-I/ML_Exploit_Image_App | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220729T13:08:11Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 3 | 0| 
 | 20220729T13:07:56Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 3 | 0| 
 | 20220729T12:58:30Z | Null | https://github.com/waawaa/exploit_uaf | 0 | 0| 
-| 20220729T12:38:29Z | Ez exploit nya dek yahahaha hayukkk | https://github.com/BornToBePopular/Stumbles | 0 | 0| 
 
 
 # backdoor on Github 推荐
