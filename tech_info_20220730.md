@@ -74,7 +74,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220730T09:53:42Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 41 | 23| 
-| 20220730T01:46:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3027 | 428| 
 | 20220730T01:44:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 242 | 59| 
 
 

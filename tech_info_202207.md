@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T01:49:59Z | KubeTaK - Kube Attack. Exploit your K8s cluster and workloads running in it. PenTest K8s. Inspired by the concept of kubesploit by CyberArk and StackHawk. | https://github.com/kube-tarian/kubetak | 0 | 0| 
+| 20220731T01:52:12Z | KubeTaK - Kube Attack. Exploit your K8s cluster and workloads running in it. PenTest K8s. Inspired by the concept of kubesploit by CyberArk and StackHawk. | https://github.com/kube-tarian/kubetak | 0 | 0| 
 | 20220731T01:19:31Z | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 2 | 0| 
 | 20220731T01:19:04Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 847 | 222| 
 | 20220731T01:00:23Z | Null | https://github.com/codingcore2/-SILENT-DOC-EXPLOIT-CLEAN | 0 | 0| 
@@ -121,8 +121,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T01:46:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3028 | 428| 
 | 20220730T09:53:42Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 41 | 23| 
-| 20220730T01:46:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3027 | 428| 
 | 20220730T01:44:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 242 | 59| 
 | 20220729T15:40:18Z | A Symbolic Execution Tool for Cairo | https://github.com/chyanju/__archived__Medjai | 16 | 2| 
 | 20220728T19:16:57Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
