@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T01:00:23Z | Null | https://github.com/codingcore2/-SILENT-DOC-EXPLOIT-CLEAN | 0 | 0| 
+| 20220731T00:59:21Z | Null | https://github.com/codingcore2/-SILENT-PDF-EXPLOIT-CLEAN | 0 | 0| 
 | 20220731T00:57:56Z | Null | https://github.com/codingcore2/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 0 | 0| 
 | 20220730T23:44:38Z | Null | https://github.com/InclusiveMe/Exploit | 0 | 0| 
 | 20220730T23:29:51Z | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 1 | 0| 
@@ -99,14 +101,12 @@
 | 20220730T21:39:37Z | https://umbrellas22.000webhostapp.com/Roblox-Stuff | https://github.com/ROOT44x/Lua-executor-s-for-Roblox.- | 0 | 0| 
 | 20220730T21:05:17Z | Exotic Fortnite Free Cheat is a free features like Aimbot, Visuals / ESP, Exploits / Mods and many other for you to explore. If you are having problems to finding a good undetected free Fortnite cheats and hacks, you are at the right place. From Aimbot to ESP, Rapid Fire to No Weapon Spread, it has every kind of feature you are looking for.  exotic fortnite free cheat  Just turn on Aimbot and some visual features like ESP and enjoy camping your enemies and dominating everyone in the lobby. And if that is not enough for you, go into the Mods tab and turn on mods like No Spread Hack, Rapid Fire Hack, Vehicle Fly and many more features that make playing Fortnite a thousand times more fun!  If you are looking for a more detailed overview of the features, scroll down below where you can find a full list of the features this cheat has. How to Use Exotic Fortnite Free Cheat      Make sure ur anti virus or windows defender is off !     Make sure ur faceit / vanguard anti cheat is off !     Make sure u are not in game !     After u did all steps above drag drv.sys into kdmapper.exe     Open Fortnite and run svchost.exe IN LOBBY !     Enjoy! Crukko01 | https://github.com/crukko01/Exotic-Fortnite-Free-Cheat-SoftAim-Fortnite-Hack-2022 | 0 | 1| 
 | 20220730T16:01:53Z | This is a python script that exploits wget when being set with a SUID bit, and overwrites the root password. | https://github.com/CopernicusPY/wget-root | 6 | 0| 
-| 20220730T11:53:33Z | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | 4 | 0| 
-| 20220730T11:53:28Z | Source code for the DLL for my Roblox Exploit called %MainDab%, skidded off Axon. | https://github.com/MainDabRblx/MainDabApiSrc | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T00:55:47Z | Simple backdoor script | https://github.com/Callumgm/Backdoor | 0 | 0| 
+| 20220731T01:00:41Z | Simple backdoor script, add this to your project to make it run in system32 folder on execution! | https://github.com/Callumgm/Backdoor | 0 | 0| 
 | 20220731T00:51:51Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/pencuricode/shell-backdoor | 1 | 2| 
 | 20220730T21:07:44Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 262 | 85| 
 | 20220730T19:16:58Z | This repository contains experiments for Masters Thesis of Computer Science on AGH University of Science. Topic of thesis was Attacks on image-processing neural networks. Backdoor patch attack was carried out on three neural networks trained with use of transfer learning. Attacks were launched with use of static and adaptive adversarial patches created with targeted deepfool algorithm.  | https://github.com/oreganko/Attacks-On-Image-Processing-Neural-Networks | 0 | 0| 
