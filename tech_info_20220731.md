@@ -82,7 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T12:07:18Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1344 | 180| 
+| 20220731T12:12:02Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1345 | 180| 
 | 20220731T11:30:09Z | wordpress api fuzzer | https://github.com/ksw9722/wp-api-fuzz | 0 | 0| 
 | 20220731T10:09:47Z | Null | https://github.com/pavijayasundara/Dengue-Fuzzy-Logic | 0 | 0| 
 | 20220731T09:43:15Z | Null | https://github.com/vigoux/tree-sitter-fuzz-action | 2 | 0| 
