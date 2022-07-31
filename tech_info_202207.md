@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T01:49:59Z | KubeTaK - Kube Attack. Exploit your K8s cluster and workloads running in it. PenTest K8s. Inspired by the concept of kubesploit by CyberArk and StackHawk. | https://github.com/kube-tarian/kubetak | 0 | 0| 
 | 20220731T01:19:31Z | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 2 | 0| 
 | 20220731T01:19:04Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 847 | 222| 
 | 20220731T01:00:23Z | Null | https://github.com/codingcore2/-SILENT-DOC-EXPLOIT-CLEAN | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220730T22:05:46Z | -kill roblox-, -hower opacity- ,- top most-, -mutiple roblox- ,-auto inject- | https://github.com/ROOT44x/R4-V2-Roblox-Exploit | 0 | 0| 
 | 20220730T21:48:21Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 72 | 10| 
 | 20220730T21:39:37Z | https://umbrellas22.000webhostapp.com/Roblox-Stuff | https://github.com/ROOT44x/Lua-executor-s-for-Roblox.- | 0 | 0| 
-| 20220730T21:05:17Z | Exotic Fortnite Free Cheat is a free features like Aimbot, Visuals / ESP, Exploits / Mods and many other for you to explore. If you are having problems to finding a good undetected free Fortnite cheats and hacks, you are at the right place. From Aimbot to ESP, Rapid Fire to No Weapon Spread, it has every kind of feature you are looking for.  exotic fortnite free cheat  Just turn on Aimbot and some visual features like ESP and enjoy camping your enemies and dominating everyone in the lobby. And if that is not enough for you, go into the Mods tab and turn on mods like No Spread Hack, Rapid Fire Hack, Vehicle Fly and many more features that make playing Fortnite a thousand times more fun!  If you are looking for a more detailed overview of the features, scroll down below where you can find a full list of the features this cheat has. How to Use Exotic Fortnite Free Cheat      Make sure ur anti virus or windows defender is off !     Make sure ur faceit / vanguard anti cheat is off !     Make sure u are not in game !     After u did all steps above drag drv.sys into kdmapper.exe     Open Fortnite and run svchost.exe IN LOBBY !     Enjoy! Crukko01 | https://github.com/crukko01/Exotic-Fortnite-Free-Cheat-SoftAim-Fortnite-Hack-2022 | 0 | 1| 
 
 
 # backdoor on Github 推荐
