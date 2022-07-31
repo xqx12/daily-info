@@ -33,7 +33,6 @@
 | 20220730T19:36:24Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 740 | 37| 
 | 20220730T17:06:13Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 4 | 0| 
 | 20220730T17:02:03Z | Null | https://github.com/kapbyte/kleen-backend | 0 | 0| 
-| 20220730T16:40:40Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 62 | 4| 
 
 
 # s2e on Github 推荐
