@@ -44,7 +44,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220730T23:44:38Z | Null | https://github.com/InclusiveMe/Exploit | 0 | 0| 
-| 20220730T23:29:51Z | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 1 | 0| 
 | 20220730T22:05:46Z | -kill roblox-, -hower opacity- ,- top most-, -mutiple roblox- ,-auto inject- | https://github.com/ROOT44x/R4-V2-Roblox-Exploit | 0 | 0| 
 | 20220730T21:48:21Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 72 | 10| 
 | 20220730T21:39:37Z | https://umbrellas22.000webhostapp.com/Roblox-Stuff | https://github.com/ROOT44x/Lua-executor-s-for-Roblox.- | 0 | 0| 
@@ -52,7 +51,8 @@
 | 20220730T16:01:53Z | This is a python script that exploits wget when being set with a SUID bit, and overwrites the root password. | https://github.com/CopernicusPY/wget-root | 6 | 0| 
 | 20220730T11:53:33Z | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | 4 | 0| 
 | 20220730T11:53:28Z | Source code for the DLL for my Roblox Exploit called %MainDab%, skidded off Axon. | https://github.com/MainDabRblx/MainDabApiSrc | 0 | 0| 
-| 20220730T11:52:23Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 844 | 220| 
+| 20220730T11:50:44Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4778 | 600| 
+| 20220730T11:45:58Z | Microsoft Exchange Server Spoofing Vulnerability Exploit! | https://github.com/0xrobiul/CVE-2021-41349 | 0 | 0| 
 
 
 # backdoor on Github 推荐
