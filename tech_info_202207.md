@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T00:57:56Z | Null | https://github.com/codingcore2/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 0 | 0| 
 | 20220730T23:44:38Z | Null | https://github.com/InclusiveMe/Exploit | 0 | 0| 
 | 20220730T23:29:51Z | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 1 | 0| 
 | 20220730T22:05:46Z | -kill roblox-, -hower opacity- ,- top most-, -mutiple roblox- ,-auto inject- | https://github.com/ROOT44x/R4-V2-Roblox-Exploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220730T16:01:53Z | This is a python script that exploits wget when being set with a SUID bit, and overwrites the root password. | https://github.com/CopernicusPY/wget-root | 6 | 0| 
 | 20220730T11:53:33Z | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | 4 | 0| 
 | 20220730T11:53:28Z | Source code for the DLL for my Roblox Exploit called %MainDab%, skidded off Axon. | https://github.com/MainDabRblx/MainDabApiSrc | 0 | 0| 
-| 20220730T11:52:23Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 844 | 220| 
 
 
 # backdoor on Github 推荐
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T00:58:17Z | At home | https://github.com/Vaneskumar/fuzzy-invention | 0 | 0| 
 | 20220731T00:53:53Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1273 | 174| 
 | 20220730T22:11:56Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1026 | 81| 
 | 20220730T21:55:23Z | Null | https://github.com/ardaku/fuzzy-search | 2 | 0| 
@@ -160,7 +161,6 @@
 | 20220730T20:58:49Z | Null | https://github.com/Fats403/mind-fuzz-records-app | 0 | 0| 
 | 20220730T20:56:31Z | Null | https://github.com/sharingan473/fuzzy-chainsaw | 0 | 0| 
 | 20220730T20:40:12Z | Part 1 of Vanilla JS Game Dev by Franks Laboratory | https://github.com/velleity92/fuzzy-spork | 0 | 0| 
-| 20220730T12:45:15Z | Null | https://github.com/gxxlhuk/fuzzy-vibranium | 0 | 0| 
 
 
 
