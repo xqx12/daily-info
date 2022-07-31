@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T12:39:17Z | BlestSploit Framework With Verified And Published Modules, Exploits, Payloads, By Blest Boyz Team! | https://github.com/G00Dway/BlestSploit | 1 | 0| 
 | 20220731T12:32:39Z | PoC exploit for CVE-2017-1000251 (modified) | https://github.com/istanescu/CVE-2017-1000251_Exploit | 0 | 0| 
 | 20220731T11:21:22Z | Systemes d’Exploitation 2 TP 4 Synchronisation & Exclusion Mutuelle Sémaphores & Threads Sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-4-Synchronisation-Exclusion-Mutuelle-S-maphores-Threads-Sous-UNIX | 0 | 0| 
 | 20220731T10:29:44Z | KernelStrike is 0-Day exploit with remote code execution working on all 4+ kernels, with BPF | https://github.com/Expl0desploit/0DAY-KernelStrike | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20220731T03:48:52Z | Log4j扫描工具 | https://github.com/Avienma/Log4jScaner | 0 | 0| 
 | 20220731T01:52:12Z | KubeTaK - Kube Attack. Exploit your K8s cluster and workloads running in it. PenTest K8s. Inspired by the concept of kubesploit by CyberArk and StackHawk. | https://github.com/kube-tarian/kubetak | 0 | 0| 
 | 20220731T01:19:31Z | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 2 | 0| 
-| 20220731T01:19:04Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 847 | 222| 
 
 
 # backdoor on Github 推荐
