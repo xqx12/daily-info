@@ -69,12 +69,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T01:46:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3028 | 428| 
+| 20220731T07:22:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3031 | 428| 
+| 20220731T02:43:13Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 806 | 157| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T07:38:52Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 9 | 2| 
 
 
 # fuzz on Github 推荐
