@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220731T00:55:14Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220731T00:40:34Z | CVE-2022-2185 | wo ee cve-2022-2185 gitlab authenticated rce | https://github.com/ESUAdmin/CVE-2022-2185 | | 
 | 20220730T23:29:51Z | CVE-2022-33891 | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | | 
-| 20220730T22:41:18Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
 | 20220730T14:47:23Z | CVE-2022-29593 | Null | https://github.com/9lyph/CVE-2022-29593 | | 
 | 20220730T12:54:06Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220730T11:45:58Z | CVE-2021-41349 | Microsoft Exchange Server Spoofing Vulnerability Exploit! | https://github.com/0xrobiul/CVE-2021-41349 | | 
@@ -106,6 +106,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T00:55:47Z | Simple backdoor script | https://github.com/Callumgm/Backdoor | 0 | 0| 
+| 20220731T00:51:51Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/pencuricode/shell-backdoor | 1 | 2| 
 | 20220730T21:07:44Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 262 | 85| 
 | 20220730T19:16:58Z | This repository contains experiments for Masters Thesis of Computer Science on AGH University of Science. Topic of thesis was Attacks on image-processing neural networks. Backdoor patch attack was carried out on three neural networks trained with use of transfer learning. Attacks were launched with use of static and adaptive adversarial patches created with targeted deepfool algorithm.  | https://github.com/oreganko/Attacks-On-Image-Processing-Neural-Networks | 0 | 0| 
 | 20220730T15:31:46Z | The ultimate python backdoor | https://github.com/JoaoAJMatos/HyperDoor | 0 | 0| 
@@ -114,8 +116,6 @@
 | 20220730T08:52:13Z | Basic Backdoor Client and Server | https://github.com/Newt93/Backdoor | 0 | 0| 
 | 20220730T08:25:15Z | ; ( | https://github.com/melamaze/Backdoor-identification | 0 | 0| 
 | 20220730T08:20:41Z | Null | https://github.com/AuxGrep/unix_backdoor-socket | 0 | 0| 
-| 20220730T04:18:15Z | Null | https://github.com/Tzfast/Windows-Backdoor | 0 | 0| 
-| 20220730T01:45:24Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 44 | 7| 
 
 
 # symbolic execution on Github 推荐
