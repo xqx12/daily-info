@@ -151,7 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T00:48:28Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1272 | 174| 
+| 20220731T00:53:53Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1273 | 174| 
 | 20220730T22:11:56Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1026 | 81| 
 | 20220730T21:55:23Z | Null | https://github.com/ardaku/fuzzy-search | 2 | 0| 
 | 20220730T21:30:09Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured in Blackhat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 10 | 3| 
