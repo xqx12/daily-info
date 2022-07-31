@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T12:57:30Z | Trying and experimenting with fuzzy logic libraries | https://github.com/JonaOliv/FuzzyLogicExperiment | 0 | 0| 
 | 20220731T12:50:31Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1353 | 181| 
 | 20220731T11:30:09Z | wordpress api fuzzer | https://github.com/ksw9722/wp-api-fuzz | 0 | 0| 
 | 20220731T10:09:47Z | Null | https://github.com/pavijayasundara/Dengue-Fuzzy-Logic | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20220731T02:45:21Z | Null | https://github.com/Yhcrown/fuzzing-crashes | 0 | 0| 
 | 20220731T00:58:17Z | At home | https://github.com/Vaneskumar/fuzzy-invention | 0 | 0| 
 | 20220730T23:32:48Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 737 | 88| 
-| 20220730T22:11:56Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1026 | 81| 
 
 
 
