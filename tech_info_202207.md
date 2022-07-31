@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220731 | 安全知识图谱技术概述 | https://mp.weixin.qq.com/s/22hnLdKtamtLyuGKrEWH1w| 
+| 20220731 | Malware Analysis Tools 2022 | https://hackersonlineclub.com/malware-analysis/| 
 | 20220729 | EMBA - The firmware security analyzer | https://github.com/e-m-b-a/emba| 
 | 20220729 | VulnLab: Web Application Vulnerabilities Lab | https://github.com/Yavuzlar/VulnLab| 
 | 20220729 | Vajra - Your Weapon To Cloud | https://github.com/TROUBLE-1/Vajra| 
@@ -39,30 +41,28 @@
 | 20220728 | 记一次授权非域环境下的大型内网横向渗透 | https://xz.aliyun.com/t/11579| 
 | 20220728 | FIRST 2022 议题速递 | https://mp.weixin.qq.com/s/N-uR2IA_HNxhbkddYL7DxQ| 
 | 20220727 | DeepJIT：用于实时缺陷预测的端到端深度学习框架 | https://mp.weixin.qq.com/s/d3ANaov0XbHdvd4iC7s_Xw| 
-| 20220727 | 基于AST变化嵌入的实时缺陷预测 | https://mp.weixin.qq.com/s/TRS6wUo0_dtfnEvS3tYuQw| 
-| 20220725 | 缓冲区溢出漏洞那些事：C -gets函数 | https://www.sec-in.com/article/1606| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220731T01:55:39Z | CVE-2022-2185 | wo ee cve-2022-2185 gitlab authenticated rce | https://github.com/ESUAdmin/CVE-2022-2185 | | 
-| 20220731T01:19:31Z | CVE-2022-33891 | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | | 
-| 20220731T01:10:50Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220731T11:53:06Z | CVE-2022-21661 | CVE-2022-21661 exp for Elementor custom skin. | https://github.com/QWERTYisme/CVE-2022-21661 | | 
+| 20220731T11:39:38Z | CVE-2022-2185 | wo ee cve-2022-2185 gitlab authenticated rce | https://github.com/ESUAdmin/CVE-2022-2185 | | 
+| 20220731T11:23:16Z | CVE-2022-33891 | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | | 
+| 20220731T11:07:41Z | CVE-2022-26138 | Confluence Hardcoded Password POC | https://github.com/z92g/CVE-2022-26138 | | 
+| 20220731T09:36:37Z | CVE-2022-26809 | 警惕 一种针对红队的新型溯源手段! | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp | | 
+| 20220731T08:22:25Z | CVE-2022-22965 | Exploit for SpringShell. | https://github.com/iyamrotrix/CVE-2022-22965 | | 
 | 20220730T14:47:23Z | CVE-2022-29593 | Null | https://github.com/9lyph/CVE-2022-29593 | | 
 | 20220730T12:54:06Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220730T11:45:58Z | CVE-2021-41349 | Microsoft Exchange Server Spoofing Vulnerability Exploit! | https://github.com/0xrobiul/CVE-2021-41349 | | 
 | 20220730T10:22:09Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
-| 20220730T08:07:50Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
-| 20220730T08:02:46Z | CVE-2022-26138 | Confluence Hardcoded Password POC | https://github.com/z92g/CVE-2022-26138 | | 
-| 20220730T06:31:50Z | CVE-2021-26084 | Remote Code Execution on Confluence Servers : CVE-2021-26084 | https://github.com/Vulnmachines/Confluence_CVE-2021-26084 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T11:13:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7497 | 259| 
 | 20220731T00:41:34Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 63 | 4| 
-| 20220731T00:17:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7486 | 259| 
 | 20220730T19:36:24Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 740 | 37| 
 | 20220730T17:06:13Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 4 | 0| 
 | 20220730T17:02:03Z | Null | https://github.com/kapbyte/kleen-backend | 0 | 0| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220730T07:14:05Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 61 | 7| 
+| 20220731T11:07:57Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 62 | 7| 
 | 20220730T01:44:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 242 | 59| 
 | 20220728T18:06:05Z | Calumet S2EBPR pilot study | https://github.com/mckfarm/calumet_s2ebpr | 0 | 0| 
 | 20220727T13:19:26Z | Repository del progetto di test automatici per il partner UCI | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_UCI | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T11:21:22Z | Systemes d’Exploitation 2 TP 4 Synchronisation & Exclusion Mutuelle Sémaphores & Threads Sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-4-Synchronisation-Exclusion-Mutuelle-S-maphores-Threads-Sous-UNIX | 0 | 0| 
+| 20220731T10:29:44Z | KernelStrike is 0-Day exploit with remote code execution working on all 4+ kernels, with BPF | https://github.com/Expl0desploit/0DAY-KernelStrike | 0 | 0| 
+| 20220731T08:43:36Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7498 | 1751| 
+| 20220731T08:22:25Z | Exploit for SpringShell. | https://github.com/iyamrotrix/CVE-2022-22965 | 0 | 0| 
+| 20220731T06:23:29Z | Cryptography library built for exploiting cryptosystems. | https://github.com/mmore21/mcrypt | 0 | 0| 
+| 20220731T03:48:52Z | Log4j扫描工具 | https://github.com/Avienma/Log4jScaner | 0 | 0| 
 | 20220731T01:52:12Z | KubeTaK - Kube Attack. Exploit your K8s cluster and workloads running in it. PenTest K8s. Inspired by the concept of kubesploit by CyberArk and StackHawk. | https://github.com/kube-tarian/kubetak | 0 | 0| 
 | 20220731T01:19:31Z | 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 2 | 0| 
 | 20220731T01:19:04Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 847 | 222| 
 | 20220731T01:00:23Z | Null | https://github.com/codingcore2/-SILENT-DOC-EXPLOIT-CLEAN | 0 | 0| 
-| 20220731T00:59:21Z | Null | https://github.com/codingcore2/-SILENT-PDF-EXPLOIT-CLEAN | 0 | 0| 
-| 20220731T00:57:56Z | Null | https://github.com/codingcore2/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 0 | 0| 
-| 20220730T23:44:38Z | Null | https://github.com/InclusiveMe/Exploit | 0 | 0| 
-| 20220730T22:05:46Z | -kill roblox-, -hower opacity- ,- top most-, -mutiple roblox- ,-auto inject- | https://github.com/ROOT44x/R4-V2-Roblox-Exploit | 0 | 0| 
-| 20220730T21:48:21Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 72 | 10| 
-| 20220730T21:39:37Z | https://umbrellas22.000webhostapp.com/Roblox-Stuff | https://github.com/ROOT44x/Lua-executor-s-for-Roblox.- | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220731T11:20:54Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 4 | 0| 
+| 20220731T10:47:10Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 29 | 8| 
+| 20220731T10:08:51Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1064 | 399| 
+| 20220731T03:20:45Z | FREE ETH Stealer without backdoor 100% safe NFT Stealer / USDT Stealer / Drainer Template / ETH Drainer / NFT Drainer / USDT Drainer(No Backdoor). I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐ the repo. | https://github.com/WalletsDrainer/FREE-ETH-NFT-drainer-No-Backdoor- | 3 | 1| 
+| 20220731T02:21:13Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 20 | 17| 
 | 20220731T01:00:41Z | Simple backdoor script, add this to your project to make it run in system32 folder on execution! | https://github.com/Callumgm/Backdoor | 0 | 0| 
 | 20220731T00:51:51Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/pencuricode/shell-backdoor | 1 | 2| 
 | 20220730T21:07:44Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 262 | 85| 
 | 20220730T19:16:58Z | This repository contains experiments for Masters Thesis of Computer Science on AGH University of Science. Topic of thesis was Attacks on image-processing neural networks. Backdoor patch attack was carried out on three neural networks trained with use of transfer learning. Attacks were launched with use of static and adaptive adversarial patches created with targeted deepfool algorithm.  | https://github.com/oreganko/Attacks-On-Image-Processing-Neural-Networks | 0 | 0| 
 | 20220730T15:31:46Z | The ultimate python backdoor | https://github.com/JoaoAJMatos/HyperDoor | 0 | 0| 
-| 20220730T15:25:49Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 64 | 15| 
-| 20220730T13:54:20Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1061 | 399| 
-| 20220730T08:52:13Z | Basic Backdoor Client and Server | https://github.com/Newt93/Backdoor | 0 | 0| 
-| 20220730T08:25:15Z | ; ( | https://github.com/melamaze/Backdoor-identification | 0 | 0| 
-| 20220730T08:20:41Z | Null | https://github.com/AuxGrep/unix_backdoor-socket | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T01:53:40Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1280 | 176| 
+| 20220731T12:01:19Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1343 | 180| 
+| 20220731T11:30:09Z | wordpress api fuzzer | https://github.com/ksw9722/wp-api-fuzz | 0 | 0| 
+| 20220731T10:09:47Z | Null | https://github.com/pavijayasundara/Dengue-Fuzzy-Logic | 0 | 0| 
+| 20220731T09:43:15Z | Null | https://github.com/vigoux/tree-sitter-fuzz-action | 2 | 0| 
+| 20220731T06:21:18Z | Null | https://github.com/ardaku/fuzzy-search | 3 | 0| 
+| 20220731T04:33:06Z | Null | https://github.com/irvandenata/fuzzy-rekom-laptop | 0 | 0| 
+| 20220731T02:45:21Z | Null | https://github.com/Yhcrown/fuzzing-crashes | 0 | 0| 
 | 20220731T00:58:17Z | At home | https://github.com/Vaneskumar/fuzzy-invention | 0 | 0| 
+| 20220730T23:32:48Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 737 | 88| 
 | 20220730T22:11:56Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1026 | 81| 
-| 20220730T21:55:23Z | Null | https://github.com/ardaku/fuzzy-search | 2 | 0| 
-| 20220730T21:30:09Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured in Blackhat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 10 | 3| 
-| 20220730T21:15:27Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/catsuc/fuzzy-spoon | 3 | 0| 
-| 20220730T21:10:31Z | Null | https://github.com/gabsant123/fuzzy-giggle | 0 | 0| 
-| 20220730T20:58:49Z | Null | https://github.com/Fats403/mind-fuzz-records-app | 0 | 0| 
-| 20220730T20:56:31Z | Null | https://github.com/sharingan473/fuzzy-chainsaw | 0 | 0| 
-| 20220730T20:40:12Z | Part 1 of Vanilla JS Game Dev by Franks Laboratory | https://github.com/velleity92/fuzzy-spork | 0 | 0| 
 
 
 
