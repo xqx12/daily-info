@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T12:17:41Z | PoC exploit for CVE-2017-1000251 (modified) | https://github.com/istanescu/CVE-2017-1000251_Exploit | 0 | 0| 
+| 20220731T12:32:39Z | PoC exploit for CVE-2017-1000251 (modified) | https://github.com/istanescu/CVE-2017-1000251_Exploit | 0 | 0| 
 | 20220731T11:21:22Z | Systemes d’Exploitation 2 TP 4 Synchronisation & Exclusion Mutuelle Sémaphores & Threads Sous UNIX | https://github.com/the6wheels/Systemes-d-Exploitation-2-TP-4-Synchronisation-Exclusion-Mutuelle-S-maphores-Threads-Sous-UNIX | 0 | 0| 
 | 20220731T10:29:44Z | KernelStrike is 0-Day exploit with remote code execution working on all 4+ kernels, with BPF | https://github.com/Expl0desploit/0DAY-KernelStrike | 0 | 0| 
 | 20220731T08:43:36Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7498 | 1751| 
@@ -82,7 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T12:26:17Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1349 | 181| 
+| 20220731T12:36:12Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1350 | 181| 
 | 20220731T11:30:09Z | wordpress api fuzzer | https://github.com/ksw9722/wp-api-fuzz | 0 | 0| 
 | 20220731T10:09:47Z | Null | https://github.com/pavijayasundara/Dengue-Fuzzy-Logic | 0 | 0| 
 | 20220731T09:43:15Z | Null | https://github.com/vigoux/tree-sitter-fuzz-action | 2 | 0| 
