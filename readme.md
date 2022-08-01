@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220801T12:43:03Z | Exploit miss configured mmpublish instances from %mmcafe.com.br% | https://github.com/rodnt/mmpublish-scanner | 1 | 0| 
 | 20220801T12:23:54Z | Exploits | https://github.com/hearsecurity/Exploits | 0 | 0| 
 | 20220801T12:10:48Z | shitty exploit | https://github.com/S2YM00N/SafeMc-AntiCrash | 0 | 0| 
 | 20220801T12:09:36Z | Este projeto foi realizado para as disciplinas de Banco de Dados e Programação Orientada a Objetos. Explorando conhecimentos sobre SQL e Java. Conhecimentos adicionais: Exploit SQL, PenTest, Html, Apache local. | https://github.com/MathCarv/Projeto-SQL-Injection-BD-PO | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20220801T11:19:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3229 | 392| 
 | 20220801T10:42:49Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2842 | 178| 
 | 20220801T09:52:32Z | In Progress | https://github.com/coding610/KEL-Kinda-Exploited-Libary- | 0 | 0| 
-| 20220801T09:28:30Z | Webline CMS vulnerable to CSRF, File Upload, File Write and  still using old version filemanager | https://github.com/EagleTube/WeblineExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
