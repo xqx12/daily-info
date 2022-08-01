@@ -107,7 +107,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220731T20:55:02Z | The project that makes it possible to take over minecraft servers anonymously! | https://github.com/KingDevCode/VirusV5-Web | 0 | 0| 
-| 20220731T20:22:59Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1067 | 400| 
 | 20220731T18:16:06Z | protect your payment from scammer client%s  | https://github.com/MuntasirArafat/wordpress-backdoor-for-protect-money | 0 | 0| 
 | 20220731T17:20:20Z | Generator and listener of backdoors in python scripts for any device | https://github.com/mrx04programmer/RatsAwesome | 0 | 0| 
 | 20220731T11:20:54Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 4 | 0| 
@@ -116,6 +115,7 @@
 | 20220731T02:21:13Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 20 | 17| 
 | 20220731T01:00:41Z | Simple backdoor script, add this to your project to make it run in system32 folder on execution! | https://github.com/Callumgm/Backdoor | 0 | 0| 
 | 20220731T00:51:51Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/pencuricode/shell-backdoor | 1 | 2| 
+| 20220730T21:07:44Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 262 | 85| 
 
 
 # symbolic execution on Github 推荐
