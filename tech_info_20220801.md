@@ -83,7 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220801T12:31:44Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1763 | 205| 
+| 20220801T12:35:05Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1764 | 205| 
 | 20220801T12:21:11Z | Null | https://github.com/123ethan/fuzzy-octo-lamp | 0 | 0| 
 | 20220801T11:48:21Z | Null | https://github.com/humble-barnacle001/fuzzy-garbanzo | 0 | 0| 
 | 20220801T11:20:24Z | Реализация нечетких когнитивных карт на C# | https://github.com/DubZero/FuzzyCognitiveMap | 2 | 2| 
