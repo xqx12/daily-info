@@ -42,6 +42,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220801T08:00:06Z | Repository del progetto di test automatici per il partner BPB | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB | 0 | 0| 
 
 
 # exploit on Github 推荐
@@ -82,7 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220801T12:09:19Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1751 | 205| 
+| 20220801T12:11:17Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1753 | 205| 
 | 20220801T11:48:21Z | Null | https://github.com/humble-barnacle001/fuzzy-garbanzo | 0 | 0| 
 | 20220801T11:20:24Z | Реализация нечетких когнитивных карт на C# | https://github.com/DubZero/FuzzyCognitiveMap | 2 | 2| 
 | 20220801T10:44:14Z | Implementation of health-care system with Fuzzy Expert System. | https://github.com/sepehrtvk/fuzzy-healthcare-system | 0 | 0| 
