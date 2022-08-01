@@ -83,7 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220801T12:15:05Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1757 | 205| 
+| 20220801T12:21:11Z | Null | https://github.com/123ethan/fuzzy-octo-lamp | 0 | 0| 
+| 20220801T12:19:15Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1759 | 205| 
 | 20220801T11:48:21Z | Null | https://github.com/humble-barnacle001/fuzzy-garbanzo | 0 | 0| 
 | 20220801T11:20:24Z | Реализация нечетких когнитивных карт на C# | https://github.com/DubZero/FuzzyCognitiveMap | 2 | 2| 
 | 20220801T10:44:14Z | Implementation of health-care system with Fuzzy Expert System. | https://github.com/sepehrtvk/fuzzy-healthcare-system | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220801T09:11:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7636 | 1648| 
 | 20220801T04:32:22Z | A directory Fuzzing Tool For Web Application With Some Common Switches | https://github.com/MrRahimX01/dfuzz | 0 | 0| 
 | 20220801T01:18:32Z | Web Security Dictionary | https://github.com/3had0w/Fuzzing-Dicts | 679 | 283| 
-| 20220801T00:00:45Z | Canadian Furious Beaver is a tool for monitoring IRP handler in Windows drivers, and facilitating the process of analyzing, replaying and fuzzing Windows drivers for vulnerabilities | https://github.com/hugsy/CFB | 229 | 57| 
 
 
 
