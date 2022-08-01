@@ -92,11 +92,11 @@
 | 20220731T16:37:04Z | This repo contains normal gcode files used to fuzz gcode parser hence all the files are relatively small | https://github.com/toombaumarkt/gcode-fuzzing-testcases | 0 | 0| 
 | 20220731T16:14:46Z | Ball and Beam system controlled with fuzzy controller. | https://github.com/Arslanmeh17/Ball_and_Beam_Fuzzy_Control_System | 0 | 0| 
 | 20220731T15:01:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7635 | 1648| 
+| 20220731T14:20:18Z | Null | https://github.com/gayatok/fuzzy-octo-fortnight | 0 | 0| 
+| 20220731T14:06:33Z | Null | https://github.com/kuromichanXD/fuzzy-octo-parakeet | 0 | 0| 
+| 20220731T13:11:04Z | A functional use of the thefuzz(fuzzywuzzy) library. Using Levenshtein distance in Python | https://github.com/JonaOliv/Fuzzy-Logic-Solutions | 0 | 0| 
 | 20220731T12:57:30Z | Trying and experimenting with fuzzy logic libraries | https://github.com/JonaOliv/FuzzyLogicExperiment | 0 | 0| 
 | 20220731T11:30:09Z | wordpress api fuzzer | https://github.com/ksw9722/wp-api-fuzz | 0 | 0| 
-| 20220731T10:09:47Z | Null | https://github.com/pavijayasundara/Dengue-Fuzzy-Logic | 0 | 0| 
-| 20220731T09:43:15Z | Null | https://github.com/vigoux/tree-sitter-fuzz-action | 2 | 0| 
-| 20220731T06:21:18Z | Null | https://github.com/ardaku/fuzzy-search | 3 | 0| 
 
 
 
