@@ -48,6 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220801T12:10:48Z | shitty exploit | https://github.com/S2YM00N/SafeMc-AntiCrash | 0 | 0| 
+| 20220801T12:09:36Z | Este projeto foi realizado para as disciplinas de Banco de Dados e Programação Orientada a Objetos. Explorando conhecimentos sobre SQL e Java. Conhecimentos adicionais: Exploit SQL, PenTest, Html, Apache local. | https://github.com/MathCarv/Projeto-SQL-Injection-BD-PO | 0 | 0| 
 | 20220801T11:59:02Z | shitty exploit | https://github.com/S2YM00N/SpigotExploit | 0 | 0| 
 | 20220801T11:59:01Z | Exploring Vulnerabilities and Exploits | https://github.com/SoldMap/Solana-CTF | 0 | 0| 
 | 20220801T11:54:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3552 | 550| 
@@ -56,8 +58,6 @@
 | 20220801T09:52:32Z | In Progress | https://github.com/coding610/KEL-Kinda-Exploited-Libary- | 0 | 0| 
 | 20220801T09:28:30Z | Webline CMS vulnerable to CSRF, File Upload, File Write and  still using old version filemanager | https://github.com/EagleTube/WeblineExploit | 0 | 0| 
 | 20220801T08:10:38Z | Quatrain(Question Answering for Patch Correctness Evaluation), a supervised learning approach that exploits a deep NLP model to classify the relatedness of a bug report with a patch description. of a bug report with a patch description. | https://github.com/Trustworthy-Software/Quatrain | 0 | 0| 
-| 20220801T05:55:40Z | This is a python script that exploits wget when being set with a SUID bit, and overwrites the root password. | https://github.com/CopernicusPY/wget-root | 19 | 0| 
-| 20220801T01:30:46Z | Binary Exploitation 42.fr Project | https://github.com/nickaroot/override | 0 | 0| 
 
 
 # backdoor on Github 推荐
