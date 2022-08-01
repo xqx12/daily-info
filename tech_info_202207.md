@@ -151,7 +151,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T23:54:17Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1506 | 185| 
 | 20220731T22:25:54Z | Notebook e arquivos de dados do artigo %Aplicação da Lógica Fuzzy na Detecção de Fraude de ICMS% | https://github.com/rribas/artigo_fuzzy_icms | 0 | 0| 
 | 20220731T16:46:48Z | Null | https://github.com/PrinceCharming000/go-fuzzing | 0 | 0| 
 | 20220731T16:37:04Z | This repo contains normal gcode files used to fuzz gcode parser hence all the files are relatively small | https://github.com/toombaumarkt/gcode-fuzzing-testcases | 0 | 0| 
@@ -161,6 +160,7 @@
 | 20220731T11:30:09Z | wordpress api fuzzer | https://github.com/ksw9722/wp-api-fuzz | 0 | 0| 
 | 20220731T10:09:47Z | Null | https://github.com/pavijayasundara/Dengue-Fuzzy-Logic | 0 | 0| 
 | 20220731T09:43:15Z | Null | https://github.com/vigoux/tree-sitter-fuzz-action | 2 | 0| 
+| 20220731T06:21:18Z | Null | https://github.com/ardaku/fuzzy-search | 3 | 0| 
 
 
 
