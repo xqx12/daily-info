@@ -121,7 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220731T07:22:57Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3031 | 428| 
+| 20220731T16:28:05Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3032 | 428| 
 | 20220731T02:43:13Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 806 | 157| 
 | 20220730T09:53:42Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 41 | 23| 
 | 20220730T01:44:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 242 | 59| 
