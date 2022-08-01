@@ -21,7 +21,6 @@
 | 20220731T20:08:52Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220731T14:57:26Z | CVE-2022-22965 | Exploit for SpringShell. | https://github.com/iyamrotrix/CVE-2022-22965 | | 
 | 20220731T13:11:08Z | CVE-2022-21661 | WordPress WP_Query SQL Injection POC | https://github.com/z92g/CVE-2022-21661 | | 
-| 20220731T12:59:00Z | CVE-2022-21661 | CVE-2022-21661 exp for Elementor custom skin. | https://github.com/QWERTYisme/CVE-2022-21661 | | 
 | 20220731T11:07:41Z | CVE-2022-26138 | Confluence Hardcoded Password POC | https://github.com/z92g/CVE-2022-26138 | | 
 
 
