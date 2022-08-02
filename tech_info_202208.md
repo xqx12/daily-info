@@ -65,6 +65,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220802T12:12:39Z | Null | https://github.com/Tianyue818/backdoor_attack_ag | 0 | 0| 
 | 20220802T09:08:16Z | Invisible Backdoor Attack with Sample-Specific Triggers | https://github.com/yuezunli/ISSBA | 33 | 16| 
 | 20220802T02:20:50Z | A simple implementation of a backdoor with nodejs - without libraries | https://github.com/pedr0aroucha/simple-backdoor-with-nodejs | 0 | 0| 
 | 20220802T01:01:46Z | This is the reimplementation code of paper [%Backdoor Attacks on Crowd Counting%](https://arxiv.org/abs/2207.05641) accepted by ACM MM 2022. | https://github.com/protagolabs/BackdoorAttacksonCrowdCounting | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20220801T19:32:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 45 | 8| 
 | 20220801T10:59:16Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the hiphp_hole_code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 4 | 0| 
 | 20220801T08:46:22Z | A BackDoor writed in python | https://github.com/Creeper215ITA/PYD00R | 1 | 0| 
-| 20220801T04:48:54Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo-rw/Windows-Backdoor | 30 | 8| 
 
 
 # symbolic execution on Github 推荐
