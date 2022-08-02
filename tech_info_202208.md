@@ -54,11 +54,11 @@
 | 20220802T00:30:51Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | 0 | 0| 
 | 20220802T00:28:28Z | idk  if will update | https://github.com/dodope56/maybe_some_exploits_for_roblox | 0 | 0| 
 | 20220801T20:38:02Z | Java program that create Charts of temperature and humidity exploiting dataset from Redis database, used JFreeChart library for drawing chart | https://github.com/Rizzo08-coder/datasetRedisCharJava | 0 | 0| 
+| 20220801T19:38:47Z | Collection of Exploit, CVES(Unauthenticated) and Wordpress Scanners | https://github.com/prok3z/Wordpress-Exploits | 36 | 11| 
 | 20220801T19:22:43Z | Exploits | https://github.com/b8ff/Exploits | 0 | 1| 
 | 20220801T19:10:40Z | Null | https://github.com/GuestyDev/Roblox-Exploits | 0 | 0| 
 | 20220801T19:05:36Z | A repo for security research and PoCs | https://github.com/stigward/PoCs-and-Exploits | 0 | 0| 
 | 20220801T18:51:33Z | Authenticatd SQL injection vulnerability in the %NEX Forms% Wordpress plugin | https://github.com/ehtec/nex-forms-exploit | 0 | 0| 
-| 20220801T15:13:38Z | 「💥」CVE-2022-33891 - Apache Spark Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 11 | 1| 
 
 
 # backdoor on Github 推荐
@@ -91,7 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220802T00:39:03Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1879 | 211| 
+| 20220802T00:50:04Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1880 | 211| 
 | 20220802T00:35:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40596 | 20542| 
 | 20220802T00:14:19Z | Null | https://github.com/Genesis-Israel/fuzzy-potato | 0 | 0| 
 | 20220802T00:05:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7639 | 1648| 
