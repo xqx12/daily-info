@@ -91,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220802T00:12:04Z | Null | https://github.com/Genesis-Israel/fuzzy-potato | 0 | 0| 
 | 20220802T00:05:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7639 | 1648| 
 | 20220801T23:22:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40597 | 20542| 
 | 20220801T22:49:37Z | Curated or modified wordlists for fuzzing and bruteforcing. | https://github.com/tera-si/wordlists | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220801T12:45:51Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1767 | 205| 
 | 20220801T12:42:02Z | Null | https://github.com/humble-barnacle001/fuzzy-garbanzo | 0 | 0| 
 | 20220801T12:21:11Z | Null | https://github.com/123ethan/fuzzy-octo-lamp | 0 | 0| 
-| 20220801T11:20:24Z | Реализация нечетких когнитивных карт на C# | https://github.com/DubZero/FuzzyCognitiveMap | 2 | 2| 
 
 
 
