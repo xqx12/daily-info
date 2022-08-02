@@ -32,7 +32,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220802T00:53:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7522 | 260| 
+| 20220802T01:05:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7523 | 260| 
 | 20220801T18:07:02Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 14 | 0| 
 | 20220801T10:25:55Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 742 | 37| 
 | 20220801T10:09:55Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 65 | 4| 
@@ -91,8 +91,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220802T01:02:06Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1884 | 211| 
-| 20220802T00:35:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40596 | 20542| 
+| 20220802T01:04:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40597 | 20542| 
+| 20220802T01:03:32Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 1885 | 211| 
 | 20220802T00:14:19Z | Null | https://github.com/Genesis-Israel/fuzzy-potato | 0 | 0| 
 | 20220802T00:05:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7639 | 1648| 
 | 20220801T22:49:37Z | Curated or modified wordlists for fuzzing and bruteforcing. | https://github.com/tera-si/wordlists | 0 | 0| 
