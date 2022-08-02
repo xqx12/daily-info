@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220802T11:31:47Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220802T12:51:56Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220802T10:57:03Z | CVE-2022-34265 | PoC for CVE-2022-34265 (Django) | https://github.com/aeyesec/CVE-2022-34265 | | 
 | 20220802T10:45:35Z | CVE-2022-22965 | Exploit for SpringShell. | https://github.com/iyamrotrix/CVE-2022-22965 | | 
 | 20220802T03:41:16Z | CVE-2022-26138 | Confluence Hardcoded Password POC | https://github.com/z92g/CVE-2022-26138 | | 
