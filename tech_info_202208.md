@@ -49,6 +49,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220802T00:32:25Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-a | 0 | 0| 
+| 20220802T00:31:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-a | 0 | 0| 
+| 20220802T00:30:51Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | 0 | 0| 
 | 20220802T00:28:28Z | idk  if will update | https://github.com/dodope56/maybe_some_exploits_for_roblox | 0 | 0| 
 | 20220801T20:38:02Z | Java program that create Charts of temperature and humidity exploiting dataset from Redis database, used JFreeChart library for drawing chart | https://github.com/Rizzo08-coder/datasetRedisCharJava | 0 | 0| 
 | 20220801T19:22:43Z | Exploits | https://github.com/b8ff/Exploits | 0 | 1| 
@@ -56,9 +59,6 @@
 | 20220801T19:05:36Z | A repo for security research and PoCs | https://github.com/stigward/PoCs-and-Exploits | 0 | 0| 
 | 20220801T18:51:33Z | Authenticatd SQL injection vulnerability in the %NEX Forms% Wordpress plugin | https://github.com/ehtec/nex-forms-exploit | 0 | 0| 
 | 20220801T15:13:38Z | 「💥」CVE-2022-33891 - Apache Spark Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 11 | 1| 
-| 20220801T12:43:03Z | Exploit miss configured mmpublish instances from %mmcafe.com.br% | https://github.com/rodnt/mmpublish-scanner | 1 | 0| 
-| 20220801T12:23:54Z | Exploits | https://github.com/hearsecurity/Exploits | 0 | 0| 
-| 20220801T12:10:48Z | shitty exploit | https://github.com/S2YM00N/SafeMc-AntiCrash | 0 | 0| 
 
 
 # backdoor on Github 推荐
