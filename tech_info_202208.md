@@ -49,7 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220802T00:13:57Z | idk  if will update | https://github.com/dodope56/maybe_some_exploits_for_roblox | 0 | 0| 
+| 20220802T00:28:28Z | idk  if will update | https://github.com/dodope56/maybe_some_exploits_for_roblox | 0 | 0| 
 | 20220801T20:38:02Z | Java program that create Charts of temperature and humidity exploiting dataset from Redis database, used JFreeChart library for drawing chart | https://github.com/Rizzo08-coder/datasetRedisCharJava | 0 | 0| 
 | 20220801T19:22:43Z | Exploits | https://github.com/b8ff/Exploits | 0 | 1| 
 | 20220801T19:10:40Z | Null | https://github.com/GuestyDev/Roblox-Exploits | 0 | 0| 
