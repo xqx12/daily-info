@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220801T20:38:02Z | Java program that create Charts of temperature and humidity exploiting dataset from Redis database, used JFreeChart library for drawing chart | https://github.com/Rizzo08-coder/datasetRedisCharJava | 0 | 0| 
+| 20220801T19:22:43Z | Exploits | https://github.com/b8ff/Exploits | 0 | 1| 
+| 20220801T19:10:40Z | Null | https://github.com/GuestyDev/Roblox-Exploits | 0 | 0| 
+| 20220801T19:05:36Z | A repo for security research and PoCs | https://github.com/stigward/PoCs-and-Exploits | 0 | 0| 
+| 20220801T18:51:33Z | Authenticatd SQL injection vulnerability in the %NEX Forms% Wordpress plugin | https://github.com/ehtec/nex-forms-exploit | 0 | 0| 
+| 20220801T15:13:38Z | 「💥」CVE-2022-33891 - Apache Spark Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | 11 | 1| 
 | 20220801T12:43:03Z | Exploit miss configured mmpublish instances from %mmcafe.com.br% | https://github.com/rodnt/mmpublish-scanner | 1 | 0| 
 | 20220801T12:23:54Z | Exploits | https://github.com/hearsecurity/Exploits | 0 | 0| 
 | 20220801T12:10:48Z | shitty exploit | https://github.com/S2YM00N/SafeMc-AntiCrash | 0 | 0| 
 | 20220801T12:09:36Z | Este projeto foi realizado para as disciplinas de Banco de Dados e Programação Orientada a Objetos. Explorando conhecimentos sobre SQL e Java. Conhecimentos adicionais: Exploit SQL, PenTest, Html, Apache local. | https://github.com/MathCarv/Projeto-SQL-Injection-BD-PO | 0 | 0| 
-| 20220801T11:59:02Z | shitty exploit | https://github.com/S2YM00N/SpigotExploit | 0 | 0| 
-| 20220801T11:59:01Z | Exploring Vulnerabilities and Exploits | https://github.com/SoldMap/Solana-CTF | 0 | 0| 
-| 20220801T11:54:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3552 | 550| 
-| 20220801T11:19:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3229 | 392| 
-| 20220801T10:42:49Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2842 | 178| 
-| 20220801T09:52:32Z | In Progress | https://github.com/coding610/KEL-Kinda-Exploited-Libary- | 0 | 0| 
 
 
 # backdoor on Github 推荐
