@@ -36,9 +36,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220802T12:50:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3233 | 393| 
 | 20220802T12:21:33Z | Null | https://github.com/Harvester57/Exploit-Protection-policy | 0 | 0| 
 | 20220802T12:02:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3581 | 551| 
-| 20220802T11:48:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3232 | 393| 
 | 20220802T11:48:20Z | Runs exploits, fast. | https://github.com/OpenAttackDefenseTools/ataka | 6 | 2| 
 | 20220802T11:47:47Z | A CLI tool used for bruteforcing WordPress by exploiting the XMLRPC interfaces. | https://github.com/mihneamanolache/wpLockPicker | 0 | 0| 
 | 20220802T11:41:12Z | Semi-automatic Approaches for Exploiting Shifter Patterns in Domain-specific Sentiment Analysis  | https://github.com/shmuhammad2004/shifter-patterns | 0 | 0| 
