@@ -80,6 +80,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220802T11:53:33Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
+| 20220802T04:59:30Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 259 | 18| 
+| 20220802T03:40:30Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 807 | 157| 
 | 20220801T09:08:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3033 | 427| 
 
 
