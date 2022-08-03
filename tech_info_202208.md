@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220803T00:04:51Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220803T00:45:45Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220802T22:57:50Z | CVE-2022-22965 | Exploit for SpringShell. | https://github.com/iyamrotrix/CVE-2022-22965 | | 
 | 20220802T20:48:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/lmdelm/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220802T20:42:25Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/emanuelandrei/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220803T00:46:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7642 | 1648| 
 | 20220803T00:21:38Z | This repo contain stuff related to HTML and web dev series. | https://github.com/rboehner-art/fuzzy-carnival | 0 | 0| 
 | 20220802T23:37:52Z | Null | https://github.com/TomCoalfish/FUZZY-NUMBER-DISTORTION-AMPLIFIER | 0 | 0| 
 | 20220802T23:36:43Z | Null | https://github.com/TomCoalfish/DISTORTED-FUZZY-MIND-VIRUS | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20220802T21:08:36Z | Supporting code for QEMU snapshot fuzzer | https://github.com/richyliu/qemu-fuzzing | 0 | 0| 
 | 20220802T19:34:03Z | Null | https://github.com/awoyelu123/fuzzy-octo-waddle | 0 | 0| 
 | 20220802T18:51:16Z | Statistical Analysis of PID controller, fuzzy response and neuro fuzzy response | https://github.com/lorrykomolo/PID-Controller-Neuro-Fuzzy-Response-Fuzzy-Response-Control-and-uncontrolled-humadity-Analysis- | 0 | 0| 
-| 20220802T18:45:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7641 | 1648| 
 | 20220802T15:50:34Z | Null | https://github.com/wanjiru701/fuzzy-octo-invention | 0 | 0| 
 | 20220802T14:12:22Z | Guided Differential Fuzzer | https://github.com/bahruzjabiyev/Gudifu | 0 | 0| 
 
