@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220803T00:21:38Z | This repo contain stuff related to HTML and web dev series. | https://github.com/rboehner-art/fuzzy-carnival | 0 | 0| 
 | 20220802T23:37:52Z | Null | https://github.com/TomCoalfish/FUZZY-NUMBER-DISTORTION-AMPLIFIER | 0 | 0| 
 | 20220802T23:36:43Z | Null | https://github.com/TomCoalfish/DISTORTED-FUZZY-MIND-VIRUS | 0 | 0| 
 | 20220802T22:58:14Z | testing pages | https://github.com/RansomD19/fuzzy-meme | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20220802T18:45:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7641 | 1648| 
 | 20220802T15:50:34Z | Null | https://github.com/wanjiru701/fuzzy-octo-invention | 0 | 0| 
 | 20220802T14:12:22Z | Guided Differential Fuzzer | https://github.com/bahruzjabiyev/Gudifu | 0 | 0| 
-| 20220802T12:44:21Z | Null | https://github.com/Itsritho/fuzzy-engine | 0 | 0| 
 
 
 
