@@ -99,6 +99,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220803T01:14:10Z | Null | https://github.com/luizalbertocviana/fuzzy-scripts | 0 | 0| 
+| 20220803T01:01:19Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 2175 | 229| 
 | 20220803T00:46:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7642 | 1648| 
 | 20220803T00:21:38Z | This repo contain stuff related to HTML and web dev series. | https://github.com/rboehner-art/fuzzy-carnival | 0 | 0| 
 | 20220802T23:37:52Z | Null | https://github.com/TomCoalfish/FUZZY-NUMBER-DISTORTION-AMPLIFIER | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20220802T21:08:36Z | Supporting code for QEMU snapshot fuzzer | https://github.com/richyliu/qemu-fuzzing | 0 | 0| 
 | 20220802T19:34:03Z | Null | https://github.com/awoyelu123/fuzzy-octo-waddle | 0 | 0| 
 | 20220802T18:51:16Z | Statistical Analysis of PID controller, fuzzy response and neuro fuzzy response | https://github.com/lorrykomolo/PID-Controller-Neuro-Fuzzy-Response-Fuzzy-Response-Control-and-uncontrolled-humadity-Analysis- | 0 | 0| 
-| 20220802T15:50:34Z | Null | https://github.com/wanjiru701/fuzzy-octo-invention | 0 | 0| 
 
 
 
