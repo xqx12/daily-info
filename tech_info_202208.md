@@ -67,16 +67,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220802T17:16:49Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo99/Windows-Backdoor | 31 | 10| 
+| 20220802T17:16:35Z | This paper is about manual exploitation of android open port vulnerability found in ES file manager. This open TCP 59777 port allows the attacker to install a backdoor  and gather all the user’s data. Further in this paper there will be a proof of concept presented  to consolidate the vulnerability. Download the PDF and enjoy !!! Cheers !!! | https://github.com/vino-theva/CVE-2019-6447 | 0 | 0| 
+| 20220802T16:26:55Z | Parallel SAT solver based on probabilistic backdoors | https://github.com/ctlab/itmo_parsat | 0 | 0| 
+| 20220802T15:14:23Z | you can find best backdoors here , they are usually built by python and c. | https://github.com/Special-Esmit/backdoor | 1 | 0| 
+| 20220802T13:40:39Z | Null | https://github.com/slykeer/backdoor | 0 | 0| 
 | 20220802T12:22:10Z | Null | https://github.com/Tianyue818/backdoor_attack_ag | 0 | 0| 
 | 20220802T09:08:16Z | Invisible Backdoor Attack with Sample-Specific Triggers | https://github.com/yuezunli/ISSBA | 33 | 16| 
 | 20220802T02:20:50Z | A simple implementation of a backdoor with nodejs - without libraries | https://github.com/pedr0aroucha/simple-backdoor-with-nodejs | 0 | 0| 
 | 20220802T01:01:46Z | This is the reimplementation code of paper [%Backdoor Attacks on Crowd Counting%](https://arxiv.org/abs/2207.05641) accepted by ACM MM 2022. | https://github.com/protagolabs/BackdoorAttacksonCrowdCounting | 0 | 0| 
 | 20220801T23:55:44Z | Backdoor Vulnerability Detection by Feeding Hard-coded Credentials to Bidirectional Encoder Representations from Transformers. | https://github.com/biringaChi/VulBERT | 1 | 0| 
-| 20220801T23:40:28Z | Null | https://github.com/trhacknon/Windows-Backdoor | 0 | 0| 
-| 20220801T21:40:38Z | Implementation of paper %Explanability-based backdoor attacks against graph neural networks% | https://github.com/xujing1994/Explanability_bkd_gnn | 0 | 0| 
-| 20220801T19:32:56Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 45 | 8| 
-| 20220801T10:59:16Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the hiphp_hole_code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 4 | 0| 
-| 20220801T08:46:22Z | A BackDoor writed in python | https://github.com/Creeper215ITA/PYD00R | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -91,6 +91,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220802T19:09:12Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 11 | 1| 
 | 20220801T13:09:29Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 8 | 2| 
 
 

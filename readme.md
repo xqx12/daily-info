@@ -59,6 +59,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220802T17:16:49Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/anonlo99/Windows-Backdoor | 31 | 10| 
+| 20220802T17:16:35Z | This paper is about manual exploitation of android open port vulnerability found in ES file manager. This open TCP 59777 port allows the attacker to install a backdoor  and gather all the user’s data. Further in this paper there will be a proof of concept presented  to consolidate the vulnerability. Download the PDF and enjoy !!! Cheers !!! | https://github.com/vino-theva/CVE-2019-6447 | 0 | 0| 
+| 20220802T16:26:55Z | Parallel SAT solver based on probabilistic backdoors | https://github.com/ctlab/itmo_parsat | 0 | 0| 
+| 20220802T15:14:23Z | you can find best backdoors here , they are usually built by python and c. | https://github.com/Special-Esmit/backdoor | 1 | 0| 
+| 20220802T13:40:39Z | Null | https://github.com/slykeer/backdoor | 0 | 0| 
 | 20220802T12:22:10Z | Null | https://github.com/Tianyue818/backdoor_attack_ag | 0 | 0| 
 | 20220802T09:08:16Z | Invisible Backdoor Attack with Sample-Specific Triggers | https://github.com/yuezunli/ISSBA | 33 | 16| 
 | 20220802T02:20:50Z | A simple implementation of a backdoor with nodejs - without libraries | https://github.com/pedr0aroucha/simple-backdoor-with-nodejs | 0 | 0| 
@@ -77,6 +82,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220802T19:09:12Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 11 | 1| 
 
 
 # fuzz on Github 推荐
