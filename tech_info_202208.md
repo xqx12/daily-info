@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220803T01:13:06Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 0 | 0| 
 | 20220803T01:11:46Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-u | 0 | 0| 
 | 20220803T01:10:42Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-u | 0 | 0| 
 | 20220802T23:58:05Z | Android exploit loader. This project revolves around a python program that can detect, load and exploit vulnerable versions of Android. | https://github.com/notson00b/ExploitingAna | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20220802T21:51:09Z | learning reverse engineering, binary exploitation, memory corruption | https://github.com/subodhss23/fuun | 0 | 0| 
 | 20220802T21:07:13Z | Attack Codes for DeFi | https://github.com/minaminao/defi-exploits | 1 | 0| 
 | 20220802T20:48:30Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silent PDF Exploit There are multiple Exploit PDF in Silent PDF Exploit, a package commonly used by web services to process Exploit PDF File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted PDF. The exploit for this vulnerability is being used in the wild. Why Are You Disclosing A Exploit PDF We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software. | https://github.com/lmdelm/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
-| 20220802T20:42:25Z | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/emanuelandrei/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220803T01:14:10Z | Null | https://github.com/luizalbertocviana/fuzzy-scripts | 0 | 0| 
 | 20220803T00:46:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7642 | 1648| 
 | 20220803T00:21:38Z | This repo contain stuff related to HTML and web dev series. | https://github.com/rboehner-art/fuzzy-carnival | 0 | 0| 
 | 20220802T23:37:52Z | Null | https://github.com/TomCoalfish/FUZZY-NUMBER-DISTORTION-AMPLIFIER | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20220802T19:34:03Z | Null | https://github.com/awoyelu123/fuzzy-octo-waddle | 0 | 0| 
 | 20220802T18:51:16Z | Statistical Analysis of PID controller, fuzzy response and neuro fuzzy response | https://github.com/lorrykomolo/PID-Controller-Neuro-Fuzzy-Response-Fuzzy-Response-Control-and-uncontrolled-humadity-Analysis- | 0 | 0| 
 | 20220802T15:50:34Z | Null | https://github.com/wanjiru701/fuzzy-octo-invention | 0 | 0| 
-| 20220802T14:12:22Z | Guided Differential Fuzzer | https://github.com/bahruzjabiyev/Gudifu | 0 | 0| 
 
 
 
