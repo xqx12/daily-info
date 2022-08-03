@@ -98,7 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220803T01:33:00Z | Web app using fuzzy logic to evaluate how much compatibility a person has with the computer science career. | https://github.com/guilhermedom/fuzzy-logic-comp-science-career | 0 | 0| 
+| 20220803T01:34:15Z | Web app using fuzzy logic to evaluate how much compatibility a person has with the computer science career. | https://github.com/guilhermedom/fuzzy-logic-comp-science-career | 0 | 0| 
 | 20220803T01:32:03Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 2176 | 229| 
 | 20220803T01:14:10Z | Null | https://github.com/luizalbertocviana/fuzzy-scripts | 0 | 0| 
 | 20220803T00:46:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7642 | 1648| 
