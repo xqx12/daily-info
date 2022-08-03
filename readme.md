@@ -20,9 +20,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220803T12:07:26Z | CVE-2022-33891 | 「💥」CVE-2022-33891 - Apache Spark Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | | 
 | 20220803T11:58:21Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220803T10:19:52Z | CVE-2021-43617 | Null | https://github.com/aweiiy/CVE-2021-43617 | | 
-| 20220803T09:38:27Z | CVE-2022-33891 | 「💥」CVE-2022-33891 - Apache Spark Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | | 
 | 20220803T09:27:11Z | CVE-2022-22947 | Null | https://github.com/LY613313/CVE-2022-22947 | | 
 
 

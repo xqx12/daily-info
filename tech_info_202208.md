@@ -22,9 +22,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220803T12:07:26Z | CVE-2022-33891 | 「💥」CVE-2022-33891 - Apache Spark Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | | 
 | 20220803T11:58:21Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220803T10:19:52Z | CVE-2021-43617 | Null | https://github.com/aweiiy/CVE-2021-43617 | | 
-| 20220803T09:38:27Z | CVE-2022-33891 | 「💥」CVE-2022-33891 - Apache Spark Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | | 
 | 20220803T09:27:11Z | CVE-2022-22947 | Null | https://github.com/LY613313/CVE-2022-22947 | | 
 | 20220802T22:57:50Z | CVE-2022-22965 | Exploit for SpringShell. | https://github.com/iyamrotrix/CVE-2022-22965 | | 
 | 20220802T20:48:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/lmdelm/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
