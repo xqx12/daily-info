@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220802T23:40:19Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220802T22:57:50Z | CVE-2022-22965 | Exploit for SpringShell. | https://github.com/iyamrotrix/CVE-2022-22965 | | 
 | 20220802T20:48:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/lmdelm/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220802T20:42:25Z | 未知编号 | We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast & reliably. Efficiency is guaranteed. | https://github.com/emanuelandrei/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
@@ -26,6 +25,7 @@
 | 20220802T18:54:12Z | CVE-2022-0847 | COMPILED | https://github.com/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220802T18:52:17Z | CVE-2022-21661 | CVE-2022-21661 exp for Elementor custom skin.  | https://github.com/XmasSnowISBACK/CVE-2022-21661 | | 
 | 20220802T17:11:29Z | CVE-2022-21661 | CVE-2022-21661 exp for Elementor custom skin. | https://github.com/QWERTYisme/CVE-2022-21661 | | 
+| 20220802T17:03:55Z | CVE-2021-44228 | Apache Log4j is a logging tool written in Java. This paper focuses on what is Log4j and log4shell  vulnerability and how it works, how it affects the victim, and  how can this be mitigated | https://github.com/vino-theva/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
