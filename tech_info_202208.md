@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220803T12:09:43Z | I came back to this exploit, and finished off what I wanted to do all along. | https://github.com/Exploitables/WinRing0-MSR-Exploit | 0 | 0| 
 | 20220803T12:00:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2852 | 177| 
 | 20220803T11:57:58Z | Face super-resolution (FSR) is dedicated to the restoration of high-resolution (HR) face images from their low-resolution (LR) coun- terparts. Many deep FSR methods exploit facial prior knowledge (e.g., facial landmark and parsing map) related to facial structure information to generate HR face images. However, directly training a facial prior es- timation network with deep FSR model requires manually labeled data, and is often computationally expensive. In addition, inaccurate facial pri- ors may degrade super-resolution performance. In this paper, we propose a residual FSR method with spatial attention mechanism guided by mul- tiscale receptive-field features (MRF) for converting LR face images (i.e., 16 × 16) to HR face images (i.e., 128 × 128). With our spatial attention mechanism, we can recover local details in face images without explicitly learning the prior knowledge. Quantitative and qualitative experiments show that our method outperforms state-of-the-art FSR method | https://github.com/SYLan2019/MRRNet | 1 | 0| 
 | 20220803T11:56:53Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20220803T10:31:25Z | Null | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 2 | 0| 
 | 20220803T01:13:06Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 0 | 0| 
 | 20220803T01:11:46Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-u | 0 | 0| 
-| 20220803T01:10:42Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-u | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -103,7 +103,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220803T12:02:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2905 | 590| 
-| 20220803T11:23:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7643 | 1649| 
+| 20220803T11:23:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7643 | 1650| 
 | 20220803T10:19:01Z | :zap: SSH into instances using fuzzy search. | https://github.com/pmazurek/aws-fuzzy-finder | 125 | 24| 
 | 20220803T08:43:49Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 16 | 1| 
 | 20220803T01:55:00Z | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 2182 | 233| 
