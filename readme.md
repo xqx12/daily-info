@@ -24,8 +24,8 @@
 | 20220802T18:58:39Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue  | https://github.com/XmasSnowISBACK/CVE-2022-36946 | | 
 | 20220802T18:54:12Z | CVE-2022-0847 | COMPILED | https://github.com/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20220802T18:52:17Z | CVE-2022-21661 | CVE-2022-21661 exp for Elementor custom skin.  | https://github.com/XmasSnowISBACK/CVE-2022-21661 | | 
+| 20220802T18:23:00Z | CVE-2022-26138 | Confluence Hardcoded Password POC | https://github.com/z92g/CVE-2022-26138 | | 
 | 20220802T17:11:29Z | CVE-2022-21661 | CVE-2022-21661 exp for Elementor custom skin. | https://github.com/QWERTYisme/CVE-2022-21661 | | 
-| 20220802T17:03:55Z | CVE-2021-44228 | Apache Log4j is a logging tool written in Java. This paper focuses on what is Log4j and log4shell  vulnerability and how it works, how it affects the victim, and  how can this be mitigated | https://github.com/vino-theva/CVE-2021-44228 | | 
 
 
 # klee on Github 推荐
