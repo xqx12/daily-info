@@ -23,6 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220804T01:09:18Z | 未知编号 | cve2022-26134 | https://github.com/0x14dli/cve2022-26134exp | | 
 | 20220804T00:32:50Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220803T19:38:09Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
 | 20220803T17:23:29Z | CVE-2020-2038 | Exploit to capitalize on vulnerability CVE-2020-2038. | https://github.com/und3sc0n0c1d0/CVE-2020-2038 | | 
@@ -32,7 +33,6 @@
 | 20220803T10:19:52Z | CVE-2021-43617 | Null | https://github.com/aweiiy/CVE-2021-43617 | | 
 | 20220803T09:27:11Z | CVE-2022-22947 | Null | https://github.com/LY613313/CVE-2022-22947 | | 
 | 20220802T22:57:50Z | CVE-2022-22965 | Exploit for SpringShell. | https://github.com/iyamrotrix/CVE-2022-22965 | | 
-| 20220802T20:48:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger & clipper  Desktop & Webcam screenshot | https://github.com/lmdelm/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 
 
 # klee on Github 推荐
@@ -57,7 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220804T01:07:36Z | tried to make a roblox exploit with the EasySploit api | https://github.com/Uziyt/MyExploit | 0 | 0| 
+| 20220804T01:09:08Z | tried to make a roblox exploit with the EasySploit api | https://github.com/Uziyt/MyExploit | 0 | 0| 
 | 20220804T00:41:09Z | Null | https://github.com/Uziyt/exploit-scripts | 1 | 0| 
 | 20220803T23:28:09Z | WPN Detection in the browser using JavaScript | https://github.com/dubniczky/VPN-Detect | 0 | 0| 
 | 20220803T21:24:57Z | Discord Remote Administration Tool fully written in c#, stub size of ~70kb, over 40 post exploitations modules | https://github.com/moom825/Discord-RAT-2.0 | 11 | 3| 
