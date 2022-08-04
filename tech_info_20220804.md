@@ -31,6 +31,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T07:32:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 20 | 3| 
 
 
 # exploit on Github 推荐
@@ -58,6 +59,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T02:05:13Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3035 | 427| 
 
 
 # big4 on Github 推荐
