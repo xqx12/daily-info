@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220804T00:25:57Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220804T00:32:50Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220803T19:38:09Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
 | 20220803T17:23:29Z | CVE-2020-2038 | Exploit to capitalize on vulnerability CVE-2020-2038. | https://github.com/und3sc0n0c1d0/CVE-2020-2038 | | 
 | 20220803T17:17:30Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
