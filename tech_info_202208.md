@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T00:41:09Z | Null | https://github.com/Uziyt/exploit-scripts | 1 | 0| 
 | 20220803T23:28:09Z | WPN Detection in the browser using JavaScript | https://github.com/dubniczky/VPN-Detect | 0 | 0| 
 | 20220803T21:24:57Z | Discord Remote Administration Tool fully written in c#, stub size of ~70kb, over 40 post exploitations modules | https://github.com/moom825/Discord-RAT-2.0 | 11 | 3| 
 | 20220803T18:30:49Z | Digital inpainting techniques are intended to recompose missing parts of an image or remove undesirable objects from it. Considering this study field, one of the main issues faced by inpainting methods is their high computational costs, as well as the visual aspect of the outputs under many specific occasions, leading to poor quality reconstructions. Aiming at exploiting and adapting the classic Smoothed-Particle Hydrodynamics (SPH) method in the context of digital inpainting, this research focuses on the study and development of a new inpainting technique which relies on the traditional SPH formulation. Our goals was to apply the usual SPH framework in the task of digital inpainting by using the patch-based propagation paradigm, i.e., the so-called patch-based image inpainting, where each SPH particle is interpreted as a full patch of pixels in our approach. | https://github.com/gmontroni/Digital-Inpainting-SPH | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20220803T12:51:26Z | Null | https://github.com/MajortomVR/exploits | 0 | 0| 
 | 20220803T12:27:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3596 | 551| 
 | 20220803T12:09:43Z | I came back to this exploit, and finished off what I wanted to do all along. | https://github.com/Exploitables/WinRing0-MSR-Exploit | 0 | 1| 
-| 20220803T12:00:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 2852 | 178| 
 
 
 # backdoor on Github 推荐
