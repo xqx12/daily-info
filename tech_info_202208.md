@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T12:39:12Z | Artifact evaluation repository for Fuzzle | https://github.com/SoftSec-KAIST/Fuzzle-artifact | 0 | 0| 
 | 20220804T12:18:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7645 | 1650| 
 | 20220804T11:52:00Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 757 | 159| 
 | 20220804T11:39:06Z | Null | https://github.com/sh-dian/Fuzzy-Logic | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20220804T08:04:40Z | Null | https://github.com/niranjana687/fuzzywinner | 0 | 0| 
 | 20220804T07:44:46Z | Fuzz any fields of your JSON. Any fields combination you like. Use the available methods, combinators, mutators, strategies. Write your own. | https://github.com/vzhirnov/post_json_fuzzer | 0 | 0| 
 | 20220804T07:07:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 54 | 17| 
-| 20220804T06:55:40Z | Research Project HSLU - Forensic Readiness with Fuzzy Hashing and Docker | https://github.com/NielsenMike/MrFuzzy | 0 | 0| 
 
 
 
