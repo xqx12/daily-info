@@ -77,9 +77,9 @@
 | 20220804T08:57:32Z | Null | https://github.com/AliNazariii/fuzzy-octo-spoon | 0 | 0| 
 | 20220804T08:04:40Z | Null | https://github.com/niranjana687/fuzzywinner | 0 | 0| 
 | 20220804T07:44:46Z | Fuzz any fields of your JSON. Any fields combination you like. Use the available methods, combinators, mutators, strategies. Write your own. | https://github.com/vzhirnov/post_json_fuzzer | 0 | 0| 
+| 20220804T07:07:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 54 | 17| 
 | 20220804T06:55:40Z | Research Project HSLU - Forensic Readiness with Fuzzy Hashing and Docker | https://github.com/NielsenMike/MrFuzzy | 0 | 0| 
 | 20220804T01:06:22Z | Artifacts generated for/during the evaluation of the paper “FuzzerAid: Grouping Fuzzed Crashes Based On Fault Signatures” | https://github.com/ashwinkj/artifact-2022-fuzzeraid | 1 | 0| 
-| 20220804T01:05:42Z | A fuzzing frontend prototype for .NET | https://github.com/dotnet/lepus-fuzzer | 1 | 0| 
 
 
 
