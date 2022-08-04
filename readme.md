@@ -45,8 +45,8 @@
 | 20220804T09:23:31Z | Chrome javascript engine exploits. | https://github.com/anvbis/chrome.v8.expl | 1 | 0| 
 | 20220804T08:39:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 473 | 135| 
 | 20220804T08:05:12Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 124 | 29| 
+| 20220804T06:08:21Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 45 | 23| 
 | 20220804T01:17:06Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-f | 0 | 0| 
-| 20220804T01:16:10Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-f | 0 | 0| 
 
 
 # backdoor on Github 推荐
