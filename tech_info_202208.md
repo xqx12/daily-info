@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T01:07:36Z | tried to make a roblox exploit with the EasySploit api | https://github.com/Uziyt/MyExploit | 0 | 0| 
 | 20220804T00:41:09Z | Null | https://github.com/Uziyt/exploit-scripts | 1 | 0| 
 | 20220803T23:28:09Z | WPN Detection in the browser using JavaScript | https://github.com/dubniczky/VPN-Detect | 0 | 0| 
 | 20220803T21:24:57Z | Discord Remote Administration Tool fully written in c#, stub size of ~70kb, over 40 post exploitations modules | https://github.com/moom825/Discord-RAT-2.0 | 11 | 3| 
@@ -66,7 +67,6 @@
 | 20220803T14:07:35Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 74 | 10| 
 | 20220803T12:51:26Z | Null | https://github.com/MajortomVR/exploits | 0 | 0| 
 | 20220803T12:27:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3596 | 551| 
-| 20220803T12:09:43Z | I came back to this exploit, and finished off what I wanted to do all along. | https://github.com/Exploitables/WinRing0-MSR-Exploit | 0 | 1| 
 
 
 # backdoor on Github 推荐
