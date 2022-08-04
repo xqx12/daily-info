@@ -23,9 +23,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220804T01:21:34Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
+| 20220804T11:53:01Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220804T11:48:50Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
 | 20220804T01:09:18Z | 未知编号 | cve2022-26134 | https://github.com/0x14dli/cve2022-26134exp | | 
-| 20220804T00:32:50Z | CVE-2022-34918 | Null | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220803T17:23:29Z | CVE-2020-2038 | Exploit to capitalize on vulnerability CVE-2020-2038. | https://github.com/und3sc0n0c1d0/CVE-2020-2038 | | 
 | 20220803T17:17:30Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
 | 20220803T17:14:55Z | cve-2021-3060 | Null | https://github.com/timb-machine-mirrors/cve-2021-3060.py | | 
@@ -38,8 +38,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220803T20:56:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7552 | 261| 
-| 20220803T02:37:08Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 66 | 4| 
+| 20220804T11:17:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7560 | 263| 
+| 20220804T02:27:42Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 67 | 4| 
 | 20220802T20:55:20Z | Extract all posix/uclibc linking and program optimization related code from KLEE into a linker program | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220802T18:26:38Z | Modified klee posix runtime filesystem | https://github.com/Generative-Program-Analysis/posix-runtime | 0 | 0| 
 | 20220801T18:07:02Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 14 | 0| 
@@ -57,21 +57,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T11:08:28Z | Soal web exploitation IFEST22 | https://github.com/shatternox/Forest-Fire-For-Dewaweb | 0 | 0| 
+| 20220804T11:04:22Z | Null | https://github.com/SimpleExploits/SimpleExploits | 0 | 0| 
+| 20220804T11:00:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 76 | 10| 
+| 20220804T10:15:27Z | A simulation of the infamous DAO hack from 2016 | https://github.com/ssteiger/the-dao-hack-simulation | 3 | 1| 
+| 20220804T09:43:44Z | Architecture Companies in Marathahalli. Sconconstructions In this phase, after having analyzed all the issues in the THINK THE IDEAL phase , we refine the parameters of your tertiary space-planning project, and develop the organization and the interior architectural concept of your offices according to your needs and goals. We study the proximity relationships of your services, their workforce, your business specificities, the number of meeting rooms and closed offices, related spaces such as corpo-working, gym, cafeterias, informal spaces, as well as the technical nature of your premises and their exploitable potential. At the same time, our building economists study and adjust the budget for interior work and furniture , according to evolving approaches according to your objectives, whether spatial, HR, social etc. than budgetary. Gradually updated, the detailed budget and planning also make it possible to challenge the design of the facilities. Our teams work together to perfect the partition until the satisfaction of all the stakeholders in the planning of your offices. The master plan of your project goes from macro-zoning to micro-zoning: the associated technical plans allow the costs of the redevelopment project to be assessed. We transform complex residential and commercial architectural data into incredible 3D architectural rendering projects. Sconconstructions is a global expert in computer visualization and animation, providing architects, designers, builders and owners, engineering firms, real estate, development companies and planners with premium 3D rendering services and advanced technologies. state-of-the-art virtual reality. We provide photorealistic 3D visualization of architecture, interior and products, animated videos, interactive virtual reality tours and Walkarounds. 3D interior visualization allows you to design amazing interiors as realistically as if they were already put together. Our Scondesign Artists have vast experience with diverse 3D Animation Rendering or Walkthrough Visualization. contact- 9441988317 http://sconconstructions.in/  | https://github.com/sconconstruction/Architecture-Companies-in-Marathahalli---Sconconstructions | 0 | 0| 
+| 20220804T09:23:31Z | Chrome javascript engine exploits. | https://github.com/anvbis/chrome.v8.expl | 1 | 0| 
+| 20220804T08:39:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 473 | 135| 
+| 20220804T08:05:12Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 124 | 29| 
 | 20220804T01:17:06Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-f | 0 | 0| 
 | 20220804T01:16:10Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-f | 0 | 0| 
-| 20220804T01:15:34Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-f | 0 | 0| 
-| 20220804T01:12:06Z | tried to make a roblox exploit with the EasySploit api | https://github.com/Uziyt/X-Sploit | 0 | 0| 
-| 20220804T01:09:08Z | tried to make a roblox exploit with the EasySploit api | https://github.com/Uziyt/MyExploit | 0 | 0| 
-| 20220804T00:41:09Z | Null | https://github.com/Uziyt/exploit-scripts | 1 | 0| 
-| 20220803T23:28:09Z | WPN Detection in the browser using JavaScript | https://github.com/dubniczky/VPN-Detect | 0 | 0| 
-| 20220803T21:24:57Z | Discord Remote Administration Tool fully written in c#, stub size of ~70kb, over 40 post exploitations modules | https://github.com/moom825/Discord-RAT-2.0 | 11 | 3| 
-| 20220803T18:55:25Z | This database is a compilation of age-structured abundance, weight, and fishing mortality metrics for over 100 commercially exploited marine fish populations.  | https://github.com/JulieCharbonneau/Age-structured-marine-fish-database | 0 | 1| 
-| 20220803T18:30:49Z | Digital inpainting techniques are intended to recompose missing parts of an image or remove undesirable objects from it. Considering this study field, one of the main issues faced by inpainting methods is their high computational costs, as well as the visual aspect of the outputs under many specific occasions, leading to poor quality reconstructions. Aiming at exploiting and adapting the classic Smoothed-Particle Hydrodynamics (SPH) method in the context of digital inpainting, this research focuses on the study and development of a new inpainting technique which relies on the traditional SPH formulation. Our goals was to apply the usual SPH framework in the task of digital inpainting by using the patch-based propagation paradigm, i.e., the so-called patch-based image inpainting, where each SPH particle is interpreted as a full patch of pixels in our approach. | https://github.com/gmontroni/Digital-Inpainting-SPH | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T10:39:13Z | A reverse shell written in Python | https://github.com/apacketofsweets/Sopdet | 2 | 0| 
+| 20220804T09:45:13Z | 🚪 The project that makes it possible to take over minecraft servers anonymously!💻 | https://github.com/KingDevCode/VirusV5-Web | 0 | 0| 
 | 20220803T22:58:48Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 21 | 17| 
 | 20220803T14:10:36Z | 🐱‍💻 ✂️ 🤬 PHP BackDoor Tools | https://github.com/flux10n/Flux10nShell-PrivateBuild--BETA- | 1 | 0| 
 | 20220803T13:50:56Z | Replace any downloaded files by a target with your OWN backdoors on fly via man in the middle attack (DEMO) | https://github.com/AuxGrep/ONFLY-BackdoorFACTORY | 0 | 0| 
@@ -80,8 +82,6 @@
 | 20220803T02:13:02Z | Null | https://github.com/Tianyue818/backdoor_attack_ag | 0 | 1| 
 | 20220802T17:16:35Z | This paper is about manual exploitation of android open port vulnerability found in ES file manager. This open TCP 59777 port allows the attacker to install a backdoor  and gather all the user’s data. Further in this paper there will be a proof of concept presented  to consolidate the vulnerability. Download the PDF and enjoy !!! Cheers !!! | https://github.com/vino-theva/CVE-2019-6447 | 0 | 0| 
 | 20220802T16:26:55Z | Parallel SAT solver based on probabilistic backdoors | https://github.com/ctlab/itmo_parsat | 0 | 0| 
-| 20220802T15:14:23Z | you can find best backdoors here , they are usually built by python and c. | https://github.com/Special-Esmit/backdoor | 1 | 0| 
-| 20220802T13:40:39Z | Null | https://github.com/slykeer/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -104,16 +104,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T11:52:00Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 757 | 159| 
+| 20220804T11:39:06Z | Null | https://github.com/sh-dian/Fuzzy-Logic | 0 | 0| 
+| 20220804T10:59:47Z | Detecting fuzzing attacks on linux. | https://github.com/danaZo/Fuzzing-Detector | 0 | 0| 
+| 20220804T10:06:30Z | Fuzzle: Making a Puzzle for Fuzzers (ASE%22) | https://github.com/SoftSec-KAIST/Fuzzle | 0 | 0| 
+| 20220804T08:57:32Z | Null | https://github.com/AliNazariii/fuzzy-octo-spoon | 0 | 0| 
+| 20220804T08:04:40Z | Null | https://github.com/niranjana687/fuzzywinner | 0 | 0| 
+| 20220804T07:44:46Z | Fuzz any fields of your JSON. Any fields combination you like. Use the available methods, combinators, mutators, strategies. Write your own. | https://github.com/vzhirnov/post_json_fuzzer | 0 | 0| 
+| 20220804T06:55:40Z | Research Project HSLU - Forensic Readiness with Fuzzy Hashing and Docker | https://github.com/NielsenMike/MrFuzzy | 0 | 0| 
 | 20220804T01:06:22Z | Artifacts generated for/during the evaluation of the paper “FuzzerAid: Grouping Fuzzed Crashes Based On Fault Signatures” | https://github.com/ashwinkj/artifact-2022-fuzzeraid | 1 | 0| 
 | 20220804T01:05:42Z | A fuzzing frontend prototype for .NET | https://github.com/dotnet/lepus-fuzzer | 1 | 0| 
-| 20220804T01:04:39Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 736 | 89| 
-| 20220803T23:34:33Z | Null | https://github.com/ggoebel93/fuzzy-spork | 0 | 0| 
-| 20220803T22:42:17Z | I try to make the fuzzy number distortion pedal | https://github.com/TomCoalfish/Fuzzy-Number-Amplifier | 0 | 0| 
-| 20220803T21:52:20Z | A model for artificial intelligence | https://github.com/Aaron-Speedy/fuzzy-programming | 0 | 0| 
-| 20220803T21:43:23Z | Null | https://github.com/Corvus-Delta/cFuzz | 0 | 0| 
-| 20220803T17:48:54Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 811 | 169| 
-| 20220803T13:21:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7644 | 1650| 
-| 20220803T12:56:11Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4264 | 1023| 
 
 
 
