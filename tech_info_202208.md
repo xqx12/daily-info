@@ -104,16 +104,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220803T23:54:22Z | A fuzzing frontend prototype for .NET | https://github.com/dotnet/lepus-fuzzer | 0 | 0| 
+| 20220804T01:06:22Z | Artifacts generated for/during the evaluation of the paper “FuzzerAid: Grouping Fuzzed Crashes Based On Fault Signatures” | https://github.com/ashwinkj/artifact-2022-fuzzeraid | 1 | 0| 
+| 20220804T01:05:42Z | A fuzzing frontend prototype for .NET | https://github.com/dotnet/lepus-fuzzer | 1 | 0| 
+| 20220804T01:04:39Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 736 | 89| 
 | 20220803T23:34:33Z | Null | https://github.com/ggoebel93/fuzzy-spork | 0 | 0| 
 | 20220803T22:42:17Z | I try to make the fuzzy number distortion pedal | https://github.com/TomCoalfish/Fuzzy-Number-Amplifier | 0 | 0| 
 | 20220803T21:52:20Z | A model for artificial intelligence | https://github.com/Aaron-Speedy/fuzzy-programming | 0 | 0| 
 | 20220803T21:43:23Z | Null | https://github.com/Corvus-Delta/cFuzz | 0 | 0| 
-| 20220803T21:27:27Z | Artifacts generated for/during the evaluation of the paper “FuzzerAid: Grouping Fuzzed Crashes Based On Fault Signatures” | https://github.com/ashwinkj/artifact-2022-fuzzeraid | 0 | 0| 
 | 20220803T17:48:54Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 811 | 169| 
 | 20220803T13:21:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7644 | 1650| 
 | 20220803T12:56:11Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4264 | 1023| 
-| 20220803T12:02:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2905 | 590| 
 
 
 
