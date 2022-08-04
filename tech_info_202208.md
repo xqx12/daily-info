@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T01:12:06Z | tried to make a roblox exploit with the EasySploit api | https://github.com/Uziyt/X-Sploit | 0 | 0| 
 | 20220804T01:09:08Z | tried to make a roblox exploit with the EasySploit api | https://github.com/Uziyt/MyExploit | 0 | 0| 
 | 20220804T00:41:09Z | Null | https://github.com/Uziyt/exploit-scripts | 1 | 0| 
 | 20220803T23:28:09Z | WPN Detection in the browser using JavaScript | https://github.com/dubniczky/VPN-Detect | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20220803T14:20:25Z | Quatrain(Question Answering for Patch Correctness Evaluation), a supervised learning approach that exploits a deep NLP model to classify the relatedness of a bug report with a patch description. | https://github.com/HaoyeTianCoder/Quatrain | 0 | 0| 
 | 20220803T14:07:35Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 74 | 10| 
 | 20220803T12:51:26Z | Null | https://github.com/MajortomVR/exploits | 0 | 0| 
-| 20220803T12:27:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3596 | 551| 
 
 
 # backdoor on Github 推荐
