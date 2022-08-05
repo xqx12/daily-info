@@ -59,9 +59,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T00:33:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7518 | 1751| 
 | 20220804T23:49:37Z | Code for An Oral History of Binary Exploitation Defenses | https://github.com/HuskyHacks/binary-exploitation-defenses-tsar | 0 | 0| 
 | 20220804T21:55:29Z | A JS keylogger to exploit XSS | https://github.com/Sharpforce/keylogger.js | 35 | 10| 
-| 20220804T21:48:20Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7517 | 1751| 
 | 20220804T21:29:53Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 7 | 0| 
 | 20220804T21:29:00Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 7 | 0| 
 | 20220804T20:50:32Z | Silent PDF Exploit 0day Codium Algorithm | https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-0day-Demonstration-2022 | 1 | 0| 
