@@ -83,7 +83,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220804T22:57:12Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40667 | 20568| 
 | 20220804T22:19:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1700 | 189| 
 | 20220804T21:48:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7648 | 1650| 
 | 20220804T21:12:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2906 | 590| 
@@ -93,6 +92,7 @@
 | 20220804T18:42:30Z | basic web fuzzer | https://github.com/d4rckh/rustfuzz | 0 | 0| 
 | 20220804T17:19:25Z | Null | https://github.com/KevinFan9729/FuzzyAmbiguityandAttentionDetermination | 0 | 0| 
 | 20220804T17:00:00Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 758 | 160| 
+| 20220804T15:59:02Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4791 | 494| 
 
 
 
