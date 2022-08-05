@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T00:35:29Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 1 | 0| 
 | 20220805T00:33:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7518 | 1751| 
 | 20220804T23:49:37Z | Code for An Oral History of Binary Exploitation Defenses | https://github.com/HuskyHacks/binary-exploitation-defenses-tsar | 0 | 0| 
 | 20220804T21:55:29Z | A JS keylogger to exploit XSS | https://github.com/Sharpforce/keylogger.js | 35 | 10| 
@@ -68,7 +69,6 @@
 | 20220804T20:45:33Z | This website chronicles the exploits of a fledgling indie developer as well as serving as his online resume and portfolio. Topics covered include, but are not limited to Game Development, Programming, 3D Modeling, Computer Graphics, and all visual or audible art in general! | https://github.com/tetrachord-dev/tetrachord-dev.github.io | 1 | 0| 
 | 20220804T20:10:23Z | This is a fixed version of RemoteMouse exploit which can be used for Mice vulnerable machine in Proving Grounds Play | https://github.com/d42kw01f/RemoteMouse-3.008_exploit | 0 | 0| 
 | 20220804T15:13:53Z | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | 5 | 0| 
-| 20220804T11:08:28Z | Soal web exploitation IFEST22 | https://github.com/shatternox/Forest-Fire-For-Dewaweb | 0 | 0| 
 
 
 # backdoor on Github 推荐
