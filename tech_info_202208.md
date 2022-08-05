@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T01:12:01Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-h | 0 | 0| 
 | 20220805T01:06:37Z | Repository of Nathan%s solutions to Exploit Education CTFs | https://github.com/secnate/Exploit-Education-CTFs | 0 | 0| 
 | 20220805T00:56:53Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 2 | 0| 
 | 20220805T00:33:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7518 | 1751| 
@@ -68,7 +69,6 @@
 | 20220804T21:29:00Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 7 | 0| 
 | 20220804T20:50:32Z | Silent PDF Exploit 0day Codium Algorithm | https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-0day-Demonstration-2022 | 1 | 0| 
 | 20220804T20:45:33Z | This website chronicles the exploits of a fledgling indie developer as well as serving as his online resume and portfolio. Topics covered include, but are not limited to Game Development, Programming, 3D Modeling, Computer Graphics, and all visual or audible art in general! | https://github.com/tetrachord-dev/tetrachord-dev.github.io | 1 | 0| 
-| 20220804T20:10:23Z | This is a fixed version of RemoteMouse exploit which can be used for Mice vulnerable machine in Proving Grounds Play | https://github.com/d42kw01f/RemoteMouse-3.008_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
