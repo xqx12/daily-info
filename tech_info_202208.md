@@ -78,7 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220805T12:02:40Z | Kendi bilgisayarınızın kontrolünü başkasına vermek istediğinizde kullanabileceğiniz proje | https://github.com/aysuyld/Backdoor-Dinleyici | 0 | 0| 
+| 20220805T12:05:24Z | Null | https://github.com/aysuyld/Backdoor-Dinleyici | 0 | 0| 
 | 20220805T10:23:48Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/Dinosaur_Backdoor | 0 | 0| 
 | 20220805T08:05:09Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 16 | 2| 
 | 20220804T22:17:13Z | python script help you to get ultimate acces to machine and generate (backdoor)  | https://github.com/aliennneX/easback | 1 | 0| 
