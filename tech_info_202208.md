@@ -72,7 +72,7 @@
 | 20220805T08:25:38Z | PHPMailer < 5.2.18 Remote Code Execution | https://github.com/zeeshanbhattined/exploit-CVE-2016-10033 | 0 | 0| 
 | 20220805T07:50:17Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 2 | 0| 
 | 20220805T07:33:19Z | Mailpl0it is a small utility that hunts the homepage of exploit-db looking for user supplied quer(y/ies) and notifies the user via email if an exploit is found for the supplied query. | https://github.com/bad-bit/mailpl0it | 31 | 6| 
-| 20220805T01:24:21Z | Repository of Nathan%s solutions to Exploit Education CTFs | https://github.com/secnate/Exploit-Education-CTFs | 0 | 0| 
+| 20220805T03:04:10Z | A Fullstack Academy Cybersecurity project examining the full cycle of the Follina (CVE-2022-30190) vulnerability, from exploit to detection and defense. | https://github.com/jeffymcjeffface/five-nights-at-follina-s | 1 | 0| 
 
 
 # backdoor on Github 推荐
