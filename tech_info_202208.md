@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T12:15:27Z | Kendi bilgisayarınızın kontrolünü başka bilgisayara vermek istediğinizde kullanabileceğiniz bir python projesi | https://github.com/aysuyld/Backdoor | 0 | 0| 
 | 20220805T12:05:24Z | Null | https://github.com/aysuyld/Backdoor-Dinleyici | 0 | 0| 
 | 20220805T10:23:48Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/Dinosaur_Backdoor | 0 | 0| 
 | 20220805T08:05:09Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 16 | 2| 
@@ -87,7 +88,6 @@
 | 20220804T17:19:19Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/NTTU__Dinosaur_Backdoor | 0 | 0| 
 | 20220804T17:11:16Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 121 | 33| 
 | 20220804T13:28:09Z | 🐱‍💻 ✂️ 🤬 PHP BackDoor Tools | https://github.com/flux10n/Buffer-Shell | 1 | 0| 
-| 20220804T10:39:13Z | A reverse shell written in Python | https://github.com/apacketofsweets/Sopdet | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
