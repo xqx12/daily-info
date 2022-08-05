@@ -63,8 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T12:02:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3641 | 554| 
 | 20220805T11:56:11Z | Null | https://github.com/shinoTM/Saturne-Exploit | 0 | 0| 
-| 20220805T11:24:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3640 | 554| 
 | 20220805T11:22:42Z | Gather sensitive information from (.idea) folder for pentesters | https://github.com/lijiejie/idea_exploit | 311 | 55| 
 | 20220805T11:21:37Z | Looking for exploits? Well Troy’s GitHub website is full of mobile exploits’’ | https://github.com/allahuphetic/856troy.GitHub.io | 0 | 0| 
 | 20220805T11:07:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 886 | 233| 
@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T12:02:40Z | Kendi bilgisayarınızın kontrolünü başkasına vermek istediğinizde kullanabileceğiniz proje | https://github.com/aysuyld/Backdoor-Dinleyici | 0 | 0| 
 | 20220805T10:23:48Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/Dinosaur_Backdoor | 0 | 0| 
 | 20220805T08:05:09Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 16 | 2| 
 | 20220804T22:17:13Z | python script help you to get ultimate acces to machine and generate (backdoor)  | https://github.com/aliennneX/easback | 1 | 0| 
@@ -87,19 +88,19 @@
 | 20220804T17:11:16Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 121 | 33| 
 | 20220804T13:28:09Z | 🐱‍💻 ✂️ 🤬 PHP BackDoor Tools | https://github.com/flux10n/Buffer-Shell | 1 | 0| 
 | 20220804T10:39:13Z | A reverse shell written in Python | https://github.com/apacketofsweets/Sopdet | 2 | 0| 
-| 20220804T09:45:13Z | 🚪 The project that makes it possible to take over minecraft servers anonymously!💻 | https://github.com/KingDevCode/VirusV5-Web | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T11:55:31Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
+| 20220805T08:50:28Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 260 | 18| 
+| 20220805T07:17:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2032 | 576| 
+| 20220805T07:01:24Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 810 | 157| 
+| 20220805T05:55:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 243 | 59| 
+| 20220805T04:32:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3037 | 426| 
 | 20220804T22:33:20Z | Reduce sequence explosion for symbolic execution on Ethereum smart contracts | https://github.com/Qiana0223/SE.io | 0 | 0| 
 | 20220804T18:23:30Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 706 | 76| 
-| 20220804T16:12:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3036 | 427| 
-| 20220803T20:28:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2030 | 576| 
-| 20220803T13:54:23Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 808 | 157| 
-| 20220802T11:53:33Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
-| 20220802T04:59:30Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 259 | 18| 
 
 
 # big4 on Github 推荐

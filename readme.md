@@ -39,8 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T12:02:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3641 | 554| 
 | 20220805T11:56:11Z | Null | https://github.com/shinoTM/Saturne-Exploit | 0 | 0| 
-| 20220805T11:24:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3640 | 554| 
 | 20220805T11:22:42Z | Gather sensitive information from (.idea) folder for pentesters | https://github.com/lijiejie/idea_exploit | 311 | 55| 
 | 20220805T11:21:37Z | Looking for exploits? Well Troy’s GitHub website is full of mobile exploits’’ | https://github.com/allahuphetic/856troy.GitHub.io | 0 | 0| 
 | 20220805T11:07:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 886 | 233| 
@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T12:02:40Z | Kendi bilgisayarınızın kontrolünü başkasına vermek istediğinizde kullanabileceğiniz proje | https://github.com/aysuyld/Backdoor-Dinleyici | 0 | 0| 
 | 20220805T10:23:48Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/Dinosaur_Backdoor | 0 | 0| 
 | 20220805T08:05:09Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 16 | 2| 
 
@@ -61,6 +62,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T11:55:31Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
+| 20220805T08:50:28Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 260 | 18| 
+| 20220805T07:17:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2032 | 576| 
+| 20220805T07:01:24Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 810 | 157| 
+| 20220805T05:55:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 243 | 59| 
+| 20220805T04:32:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3037 | 426| 
 
 
 # big4 on Github 推荐
