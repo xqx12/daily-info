@@ -59,7 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220805T00:35:29Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 1 | 0| 
+| 20220805T00:56:53Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 2 | 0| 
 | 20220805T00:33:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7518 | 1751| 
 | 20220804T23:49:37Z | Code for An Oral History of Binary Exploitation Defenses | https://github.com/HuskyHacks/binary-exploitation-defenses-tsar | 0 | 0| 
 | 20220804T21:55:29Z | A JS keylogger to exploit XSS | https://github.com/Sharpforce/keylogger.js | 35 | 10| 
