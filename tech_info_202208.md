@@ -39,7 +39,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220804T22:42:39Z | Null | https://github.com/Kleeritter/kleeritter | 0 | 0| 
-| 20220804T11:17:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7560 | 263| 
+| 20220804T14:27:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7561 | 263| 
 | 20220804T02:27:42Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 67 | 4| 
 | 20220802T20:55:20Z | Extract all posix/uclibc linking and program optimization related code from KLEE into a linker program | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220802T18:26:38Z | Modified klee posix runtime filesystem | https://github.com/Generative-Program-Analysis/posix-runtime | 0 | 0| 
