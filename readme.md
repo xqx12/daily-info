@@ -44,6 +44,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220804T23:49:37Z | Code for An Oral History of Binary Exploitation Defenses | https://github.com/HuskyHacks/binary-exploitation-defenses-tsar | 0 | 0| 
 | 20220804T21:55:29Z | A JS keylogger to exploit XSS | https://github.com/Sharpforce/keylogger.js | 35 | 10| 
+| 20220804T21:48:20Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7517 | 1751| 
 | 20220804T21:29:53Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 7 | 0| 
 | 20220804T21:29:00Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 7 | 0| 
 | 20220804T20:50:32Z | Silent PDF Exploit 0day Codium Algorithm | https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-0day-Demonstration-2022 | 1 | 0| 
@@ -51,7 +52,6 @@
 | 20220804T20:10:23Z | This is a fixed version of RemoteMouse exploit which can be used for Mice vulnerable machine in Proving Grounds Play | https://github.com/d42kw01f/RemoteMouse-3.008_exploit | 0 | 0| 
 | 20220804T15:13:53Z | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | 5 | 0| 
 | 20220804T11:08:28Z | Soal web exploitation IFEST22 | https://github.com/shatternox/Forest-Fire-For-Dewaweb | 0 | 0| 
-| 20220804T11:04:22Z | Null | https://github.com/SimpleExploits/SimpleExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
