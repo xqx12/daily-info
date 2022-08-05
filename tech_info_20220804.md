@@ -16,14 +16,19 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220804T12:25:27Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
-| 20220804T11:48:50Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
+| 20220804T21:44:11Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220804T21:11:04Z | CVE-2022-34970 | Vulnerability in Crow prior v1.0+4 | https://github.com/0xhebi/CVE-2022-34970 | | 
+| 20220804T15:13:53Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
+| 20220804T13:51:17Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
+| 20220804T13:12:49Z | CVE-2020-2038 | Exploit to capitalize on vulnerability CVE-2020-2038. | https://github.com/und3sc0n0c1d0/CVE-2020-2038 | | 
+| 20220804T13:02:10Z | CVE-2022-22947 | Null | https://github.com/LY613313/CVE-2022-22947 | | 
 | 20220804T01:09:18Z | 未知编号 | cve2022-26134 | https://github.com/0x14dli/cve2022-26134exp | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T22:42:39Z | Null | https://github.com/Kleeritter/kleeritter | 0 | 0| 
 | 20220804T11:17:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7560 | 263| 
 | 20220804T02:27:42Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 67 | 4| 
 
@@ -37,23 +42,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T23:49:37Z | Code for An Oral History of Binary Exploitation Defenses | https://github.com/HuskyHacks/binary-exploitation-defenses-tsar | 0 | 0| 
+| 20220804T21:55:29Z | A JS keylogger to exploit XSS | https://github.com/Sharpforce/keylogger.js | 35 | 10| 
+| 20220804T21:29:53Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 7 | 0| 
+| 20220804T21:29:00Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 7 | 0| 
+| 20220804T20:50:32Z | Silent PDF Exploit 0day Codium Algorithm | https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-0day-Demonstration-2022 | 1 | 0| 
+| 20220804T20:45:33Z | This website chronicles the exploits of a fledgling indie developer as well as serving as his online resume and portfolio. Topics covered include, but are not limited to Game Development, Programming, 3D Modeling, Computer Graphics, and all visual or audible art in general! | https://github.com/tetrachord-dev/tetrachord-dev.github.io | 1 | 0| 
+| 20220804T20:10:23Z | This is a fixed version of RemoteMouse exploit which can be used for Mice vulnerable machine in Proving Grounds Play | https://github.com/d42kw01f/RemoteMouse-3.008_exploit | 0 | 0| 
+| 20220804T15:13:53Z | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | 5 | 0| 
 | 20220804T11:08:28Z | Soal web exploitation IFEST22 | https://github.com/shatternox/Forest-Fire-For-Dewaweb | 0 | 0| 
 | 20220804T11:04:22Z | Null | https://github.com/SimpleExploits/SimpleExploits | 0 | 0| 
-| 20220804T11:00:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 76 | 10| 
-| 20220804T10:15:27Z | A simulation of the infamous DAO hack from 2016 | https://github.com/ssteiger/the-dao-hack-simulation | 3 | 1| 
-| 20220804T09:43:44Z | Architecture Companies in Marathahalli. Sconconstructions In this phase, after having analyzed all the issues in the THINK THE IDEAL phase , we refine the parameters of your tertiary space-planning project, and develop the organization and the interior architectural concept of your offices according to your needs and goals. We study the proximity relationships of your services, their workforce, your business specificities, the number of meeting rooms and closed offices, related spaces such as corpo-working, gym, cafeterias, informal spaces, as well as the technical nature of your premises and their exploitable potential. At the same time, our building economists study and adjust the budget for interior work and furniture , according to evolving approaches according to your objectives, whether spatial, HR, social etc. than budgetary. Gradually updated, the detailed budget and planning also make it possible to challenge the design of the facilities. Our teams work together to perfect the partition until the satisfaction of all the stakeholders in the planning of your offices. The master plan of your project goes from macro-zoning to micro-zoning: the associated technical plans allow the costs of the redevelopment project to be assessed. We transform complex residential and commercial architectural data into incredible 3D architectural rendering projects. Sconconstructions is a global expert in computer visualization and animation, providing architects, designers, builders and owners, engineering firms, real estate, development companies and planners with premium 3D rendering services and advanced technologies. state-of-the-art virtual reality. We provide photorealistic 3D visualization of architecture, interior and products, animated videos, interactive virtual reality tours and Walkarounds. 3D interior visualization allows you to design amazing interiors as realistically as if they were already put together. Our Scondesign Artists have vast experience with diverse 3D Animation Rendering or Walkthrough Visualization. contact- 9441988317 http://sconconstructions.in/  | https://github.com/sconconstruction/Architecture-Companies-in-Marathahalli---Sconconstructions | 0 | 0| 
-| 20220804T09:23:31Z | Chrome javascript engine exploits. | https://github.com/anvbis/chrome.v8.expl | 1 | 0| 
-| 20220804T08:39:24Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 473 | 135| 
-| 20220804T08:05:12Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 124 | 29| 
-| 20220804T06:08:21Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 45 | 23| 
-| 20220804T01:17:06Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-f | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220804T22:17:13Z | python script help you to get ultimate acces to machine and generate (backdoor)  | https://github.com/aliennneX/easback | 1 | 0| 
+| 20220804T17:58:46Z | Interesting collection of wordpress backdoors I%ve found | https://github.com/david-prv/backdoor-collection | 0 | 0| 
+| 20220804T17:43:11Z | Null | https://github.com/Nanboy-Ronan/Backdoor-FedGAN | 0 | 0| 
+| 20220804T17:19:19Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/NTTU__Dinosaur_Backdoor | 0 | 0| 
+| 20220804T13:28:09Z | 🐱‍💻 ✂️ 🤬 PHP BackDoor Tools | https://github.com/flux10n/Buffer-Shell | 1 | 0| 
 | 20220804T10:39:13Z | A reverse shell written in Python | https://github.com/apacketofsweets/Sopdet | 2 | 0| 
 | 20220804T09:45:13Z | 🚪 The project that makes it possible to take over minecraft servers anonymously!💻 | https://github.com/KingDevCode/VirusV5-Web | 0 | 0| 
+| 20220804T08:25:33Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 169 | 44| 
 
 
 # symbolic execution on Github 推荐
@@ -70,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220804T12:43:52Z | Fuzzle: Making a Puzzle for Fuzzers (ASE%22) | https://github.com/SoftSec-KAIST/Fuzzle | 0 | 0| 
-| 20220804T12:39:12Z | Artifact evaluation repository for Fuzzle | https://github.com/SoftSec-KAIST/Fuzzle-artifact | 0 | 0| 
-| 20220804T12:18:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7645 | 1650| 
-| 20220804T11:52:00Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 757 | 159| 
-| 20220804T11:39:06Z | Null | https://github.com/sh-dian/Fuzzy-Logic | 0 | 0| 
-| 20220804T10:59:47Z | Detecting fuzzing attacks on linux. | https://github.com/danaZo/Fuzzing-Detector | 0 | 0| 
-| 20220804T08:57:32Z | Null | https://github.com/AliNazariii/fuzzy-octo-spoon | 0 | 0| 
-| 20220804T08:04:40Z | Null | https://github.com/niranjana687/fuzzywinner | 0 | 0| 
-| 20220804T07:44:46Z | Fuzz any fields of your JSON. Any fields combination you like. Use the available methods, combinators, mutators, strategies. Write your own. | https://github.com/vzhirnov/post_json_fuzzer | 0 | 0| 
-| 20220804T07:07:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 54 | 17| 
+| 20220804T22:57:12Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40667 | 20567| 
+| 20220804T22:19:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1700 | 189| 
+| 20220804T21:48:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7648 | 1650| 
+| 20220804T21:12:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2906 | 590| 
+| 20220804T19:36:33Z | Null | https://github.com/achomamika01/Metaheuristics_Fuzzy_based_Clustering-Algorithm | 0 | 0| 
+| 20220804T19:21:29Z | Null | https://github.com/anantpatil123/fuzzySearch | 0 | 0| 
+| 20220804T18:48:19Z | testing guthubpages | https://github.com/9916631/fuzzy-meme | 0 | 0| 
+| 20220804T18:42:30Z | basic web fuzzer | https://github.com/d4rckh/rustfuzz | 0 | 0| 
+| 20220804T17:19:25Z | Null | https://github.com/KevinFan9729/FuzzyAmbiguityandAttentionDetermination | 0 | 0| 
+| 20220804T17:00:00Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 758 | 160| 
 
 
 
