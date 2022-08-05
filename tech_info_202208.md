@@ -108,6 +108,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T00:14:40Z | Vulnerabilities Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... | https://github.com/hktalent/scan4all | 2407 | 261| 
 | 20220805T00:13:47Z | Config files for my GitHub profile. | https://github.com/fuzz827/fuzz827 | 0 | 0| 
 | 20220804T22:57:12Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40667 | 20567| 
 | 20220804T22:19:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1700 | 189| 
@@ -117,7 +118,6 @@
 | 20220804T19:21:29Z | Null | https://github.com/anantpatil123/fuzzySearch | 0 | 0| 
 | 20220804T18:48:19Z | testing guthubpages | https://github.com/9916631/fuzzy-meme | 0 | 0| 
 | 20220804T18:42:30Z | basic web fuzzer | https://github.com/d4rckh/rustfuzz | 0 | 0| 
-| 20220804T17:19:25Z | Null | https://github.com/KevinFan9729/FuzzyAmbiguityandAttentionDetermination | 0 | 0| 
 
 
 
