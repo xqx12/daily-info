@@ -25,9 +25,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220805T12:06:36Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220805T10:57:01Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/emanuelandrei/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220805T10:55:06Z | CVE-2021-23841 | Null | https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841 | | 
-| 20220805T09:55:28Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220804T21:11:04Z | CVE-2022-34970 | Vulnerability in Crow prior v1.0+4 | https://github.com/0xhebi/CVE-2022-34970 | | 
 | 20220804T15:13:53Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
 | 20220804T13:51:17Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
