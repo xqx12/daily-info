@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220805 | 数据传输安全白皮书 | https://www.dwcon.cn/uploads/file/2022/08/04/1659617933559854.pdf| 
+| 20220805 | 美国关键基础设施网络防御路线发展与调整 | https://mp.weixin.qq.com/s/V2YgN6QOVQksbqiAv-F9Aw| 
 | 20220803 | 从0-1搭建企业级数据治理体系 | https://mp.weixin.qq.com/s/YvH7V1vivriHRYYMlaj-xQ| 
 | 20220803 | 国际网络攻击溯源机制的必要性和可行性探析 | https://mp.weixin.qq.com/s/9dgVqhUUEe9yipnzSDL2_A| 
 | 20220803 | 云计算安全的新阶段：云上风险发现与治理 | https://mp.weixin.qq.com/s/y5NRDQl6MUrxI2ZI1lCJPQ| 
@@ -23,7 +25,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220805T01:52:18Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220805T10:57:01Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/emanuelandrei/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
+| 20220805T10:55:06Z | CVE-2021-23841 | Null | https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841 | | 
+| 20220805T09:55:28Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220804T21:11:04Z | CVE-2022-34970 | Vulnerability in Crow prior v1.0+4 | https://github.com/0xhebi/CVE-2022-34970 | | 
 | 20220804T15:13:53Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
 | 20220804T13:51:17Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
@@ -31,16 +35,15 @@
 | 20220804T13:02:10Z | CVE-2022-22947 | Null | https://github.com/LY613313/CVE-2022-22947 | | 
 | 20220804T01:09:18Z | 未知编号 | cve2022-26134 | https://github.com/0x14dli/cve2022-26134exp | | 
 | 20220803T17:17:30Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
-| 20220803T17:14:55Z | cve-2021-3060 | Null | https://github.com/timb-machine-mirrors/cve-2021-3060.py | | 
-| 20220803T12:07:26Z | CVE-2022-33891 | 「💥」CVE-2022-33891 - Apache Spark Command Injection | https://github.com/AmoloHT/CVE-2022-33891 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T07:17:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2032 | 576| 
+| 20220805T03:14:43Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 68 | 4| 
 | 20220804T22:42:39Z | Null | https://github.com/Kleeritter/kleeritter | 0 | 0| 
 | 20220804T14:27:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7561 | 263| 
-| 20220804T02:27:42Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 67 | 4| 
 | 20220802T20:55:20Z | Extract all posix/uclibc linking and program optimization related code from KLEE into a linker program | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220802T18:26:38Z | Modified klee posix runtime filesystem | https://github.com/Generative-Program-Analysis/posix-runtime | 0 | 0| 
 | 20220801T18:07:02Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 14 | 0| 
@@ -52,6 +55,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T05:55:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 243 | 59| 
 | 20220804T07:32:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 20 | 3| 
 | 20220801T08:00:06Z | Repository del progetto di test automatici per il partner BPB | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB | 0 | 0| 
 
@@ -59,31 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T11:56:11Z | Null | https://github.com/shinoTM/Saturne-Exploit | 0 | 0| 
+| 20220805T11:24:52Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3640 | 554| 
+| 20220805T11:22:42Z | Gather sensitive information from (.idea) folder for pentesters | https://github.com/lijiejie/idea_exploit | 311 | 55| 
+| 20220805T11:21:37Z | Looking for exploits? Well Troy’s GitHub website is full of mobile exploits’’ | https://github.com/allahuphetic/856troy.GitHub.io | 0 | 0| 
+| 20220805T11:07:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 886 | 233| 
+| 20220805T11:00:36Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 24 | 0| 
+| 20220805T08:25:38Z | PHPMailer < 5.2.18 Remote Code Execution | https://github.com/zeeshanbhattined/exploit-CVE-2016-10033 | 0 | 0| 
+| 20220805T07:50:17Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 2 | 0| 
+| 20220805T07:33:19Z | Mailpl0it is a small utility that hunts the homepage of exploit-db looking for user supplied quer(y/ies) and notifies the user via email if an exploit is found for the supplied query. | https://github.com/bad-bit/mailpl0it | 31 | 6| 
 | 20220805T01:24:21Z | Repository of Nathan%s solutions to Exploit Education CTFs | https://github.com/secnate/Exploit-Education-CTFs | 0 | 0| 
-| 20220805T01:13:58Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | 0 | 0| 
-| 20220805T01:13:02Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-h | 0 | 0| 
-| 20220805T01:12:01Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-h | 0 | 0| 
-| 20220805T00:56:53Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 2 | 0| 
-| 20220805T00:33:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7518 | 1751| 
-| 20220804T23:49:37Z | Code for An Oral History of Binary Exploitation Defenses | https://github.com/HuskyHacks/binary-exploitation-defenses-tsar | 0 | 0| 
-| 20220804T21:55:29Z | A JS keylogger to exploit XSS | https://github.com/Sharpforce/keylogger.js | 35 | 10| 
-| 20220804T21:29:53Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 7 | 0| 
-| 20220804T21:29:00Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 7 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T10:23:48Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/Dinosaur_Backdoor | 0 | 0| 
+| 20220805T08:05:09Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 16 | 2| 
 | 20220804T22:17:13Z | python script help you to get ultimate acces to machine and generate (backdoor)  | https://github.com/aliennneX/easback | 1 | 0| 
 | 20220804T17:58:46Z | Interesting collection of wordpress backdoors I%ve found | https://github.com/david-prv/backdoor-collection | 0 | 0| 
 | 20220804T17:43:11Z | Null | https://github.com/Nanboy-Ronan/Backdoor-FedGAN | 0 | 0| 
 | 20220804T17:19:19Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/NTTU__Dinosaur_Backdoor | 0 | 0| 
+| 20220804T17:11:16Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 121 | 33| 
 | 20220804T13:28:09Z | 🐱‍💻 ✂️ 🤬 PHP BackDoor Tools | https://github.com/flux10n/Buffer-Shell | 1 | 0| 
 | 20220804T10:39:13Z | A reverse shell written in Python | https://github.com/apacketofsweets/Sopdet | 2 | 0| 
 | 20220804T09:45:13Z | 🚪 The project that makes it possible to take over minecraft servers anonymously!💻 | https://github.com/KingDevCode/VirusV5-Web | 0 | 0| 
-| 20220804T08:25:33Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 169 | 44| 
-| 20220803T22:58:48Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 21 | 17| 
-| 20220803T14:10:36Z | 🐱‍💻 ✂️ 🤬 PHP BackDoor Tools | https://github.com/flux10n/Flux10nShell-PrivateBuild--BETA- | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -108,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T11:55:31Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
+| 20220805T11:47:35Z | A dumb fuzzer, but not the worst one. | https://github.com/claire-lex/le-fuzzer-con | 0 | 0| 
+| 20220805T08:59:36Z | an example to use fuzzy logic controller (FLC) to control how fast you should run by heart rate | https://github.com/crosstyan/fuzzy-track | 0 | 0| 
+| 20220805T04:34:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7650 | 1650| 
+| 20220805T03:39:29Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 17 | 1| 
 | 20220805T01:34:38Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2408 | 261| 
 | 20220805T01:22:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40669 | 20570| 
 | 20220805T00:13:47Z | Config files for my GitHub profile. | https://github.com/fuzz827/fuzz827 | 0 | 0| 
 | 20220804T22:19:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1700 | 189| 
-| 20220804T21:48:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7648 | 1650| 
 | 20220804T21:12:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2906 | 590| 
-| 20220804T19:36:33Z | Null | https://github.com/achomamika01/Metaheuristics_Fuzzy_based_Clustering-Algorithm | 0 | 0| 
-| 20220804T19:21:29Z | Null | https://github.com/anantpatil123/fuzzySearch | 0 | 0| 
-| 20220804T18:48:19Z | testing guthubpages | https://github.com/9916631/fuzzy-meme | 0 | 0| 
-| 20220804T18:42:30Z | basic web fuzzer | https://github.com/d4rckh/rustfuzz | 0 | 0| 
 
 
 
