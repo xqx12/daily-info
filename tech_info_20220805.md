@@ -92,7 +92,7 @@
 | 20220805T12:36:34Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
 | 20220805T12:30:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7651 | 1652| 
 | 20220805T11:47:35Z | A dumb fuzzer, but not the worst one. | https://github.com/claire-lex/le-fuzzer-con | 0 | 0| 
-| 20220805T08:59:36Z | an example to use fuzzy logic controller (FLC) to control how fast you should run by heart rate | https://github.com/crosstyan/fuzzy-track | 0 | 0| 
+| 20220805T09:11:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2575 | 173| 
 
 
 
