@@ -117,13 +117,13 @@
 | 20220806T00:32:58Z | Null | https://github.com/edanese/fuzzy-happiness | 0 | 0| 
 | 20220806T00:32:46Z | Null | https://github.com/edanese/fuzzy-octo-memory | 0 | 0| 
 | 20220805T23:56:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2906 | 590| 
+| 20220805T23:08:05Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2439 | 265| 
 | 20220805T22:25:49Z | Null | https://github.com/mantapun/fuzzy-octo-lamp | 0 | 0| 
 | 20220805T21:17:35Z | Fuzzer for TP2 | https://github.com/yantavares/TP2-Fuzzer | 0 | 0| 
 | 20220805T21:13:33Z | basic web fuzzer | https://github.com/d4rckh/rustfuzz | 1 | 0| 
 | 20220805T20:08:15Z | FUZZIFIER-9000 Make all analog differential fuzzy numbers | https://github.com/TomCoalfish/FUZZIFIER-9000 | 0 | 0| 
 | 20220805T13:03:16Z | Null | https://github.com/JeffroMF/django-fuzzers | 0 | 0| 
 | 20220805T12:36:34Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
-| 20220805T12:30:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7651 | 1652| 
 
 
 

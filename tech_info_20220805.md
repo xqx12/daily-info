@@ -84,6 +84,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220805T23:56:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2906 | 590| 
+| 20220805T23:08:05Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2439 | 265| 
 | 20220805T22:25:49Z | Null | https://github.com/mantapun/fuzzy-octo-lamp | 0 | 0| 
 | 20220805T21:17:35Z | Fuzzer for TP2 | https://github.com/yantavares/TP2-Fuzzer | 0 | 0| 
 | 20220805T21:13:33Z | basic web fuzzer | https://github.com/d4rckh/rustfuzz | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20220805T12:36:34Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
 | 20220805T12:30:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7651 | 1652| 
 | 20220805T11:47:35Z | A dumb fuzzer, but not the worst one. | https://github.com/claire-lex/le-fuzzer-con | 0 | 0| 
-| 20220805T09:11:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2575 | 173| 
 
 
 
