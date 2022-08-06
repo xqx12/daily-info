@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T12:35:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 896 | 235| 
 | 20220806T11:52:28Z | Cross Site %Scripter% is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. | https://github.com/Xcod3bughunt3r/xsser | 1 | 0| 
 | 20220806T09:57:10Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 3 | 0| 
 | 20220806T09:16:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4770 | 656| 
@@ -73,7 +74,6 @@
 | 20220806T02:07:58Z | Repository for a comprehensive basic introduction into the Rowhammer exploit | https://github.com/SpartanEngineer24798/Rowhammer_Tutorial | 0 | 0| 
 | 20220806T01:46:03Z | Effective Exploit Label Information for Legal Judgement Prediction | https://github.com/aNLPer/EEL | 0 | 0| 
 | 20220806T01:44:24Z | A roblox Exploit | https://github.com/rhytxm/Paradox-Exploit | 0 | 0| 
-| 20220806T01:21:40Z | Exploit for CVE-2022-29582 targeting Google%s Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | 6 | 3| 
 
 
 # backdoor on Github 推荐
