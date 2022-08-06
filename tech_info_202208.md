@@ -115,8 +115,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T12:14:34Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners. | https://github.com/l00pss/Fuzzy | 0 | 0| 
+| 20220806T12:14:07Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2449 | 265| 
 | 20220806T12:07:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 55 | 17| 
-| 20220806T11:51:12Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2448 | 265| 
 | 20220806T11:35:57Z | %Vanilla JavaScript% Filtering Profanity Using Levenshtein Distance Algorithm  | https://github.com/dwirifki10/Fuzzy-Filtering-Profanity | 1 | 0| 
 | 20220806T11:33:33Z | DotDotPwn - The Directory Traversal Fuzzer. | https://github.com/Xcod3bughunt3r/dotdotpwn | 1 | 0| 
 | 20220806T11:26:07Z | Dizzy is a fuzzing framework. | https://github.com/Xcod3bughunt3r/dizzy | 1 | 0| 
@@ -124,7 +125,6 @@
 | 20220806T06:55:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7653 | 1652| 
 | 20220806T01:55:24Z | basic web fuzzer | https://github.com/d4rckh/rustfuzz | 2 | 0| 
 | 20220806T00:32:58Z | Null | https://github.com/edanese/fuzzy-happiness | 0 | 0| 
-| 20220806T00:32:46Z | Null | https://github.com/edanese/fuzzy-octo-memory | 0 | 0| 
 
 
 
