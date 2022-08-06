@@ -64,6 +64,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T00:49:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-r | 0 | 0| 
+| 20220806T00:48:29Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 0 | 0| 
+| 20220806T00:48:08Z | I came back to this exploit, and finished off what I wanted to do all along. | https://github.com/Exploitables/WinRing0-MSR-Exploit | 7 | 3| 
 | 20220806T00:35:49Z | Exploit for CVE-2022-29582 targeting Google%s Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | 4 | 2| 
 | 20220806T00:32:49Z | Effectively Exploit Label Information for | https://github.com/aNLPer/EEL | 0 | 0| 
 | 20220806T00:01:22Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 37 | 1| 
@@ -71,9 +74,6 @@
 | 20220805T20:00:17Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4811 | 602| 
 | 20220805T18:49:15Z | Das Repository für die Tools auf https://exploit.to/osint-tools/ | https://github.com/Exploit-to/OSINT-Tools | 0 | 0| 
 | 20220805T17:59:37Z | Exploration-exploitation model for the investigation of the coupling and decoupling processes between efficiency gains and resource consumption. | https://github.com/School-of-Collective-Intelligence/Jevons-Paradox-and-Cultural-Evolution | 0 | 0| 
-| 20220805T15:51:35Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1366 | 146| 
-| 20220805T12:26:49Z | Null | https://github.com/shinoTM/Saturne-Exploit | 0 | 0| 
-| 20220805T12:02:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3641 | 554| 
 
 
 # backdoor on Github 推荐
