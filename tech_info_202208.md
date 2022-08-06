@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220805T14:19:06Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220806T00:31:45Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220805T10:57:01Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/emanuelandrei/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220805T10:55:06Z | CVE-2021-23841 | Null | https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841 | | 
 | 20220804T21:11:04Z | CVE-2022-34970 | Vulnerability in Crow prior v1.0+4 | https://github.com/0xhebi/CVE-2022-34970 | | 
@@ -114,6 +114,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T00:32:58Z | Null | https://github.com/edanese/fuzzy-happiness | 0 | 0| 
+| 20220806T00:32:46Z | Null | https://github.com/edanese/fuzzy-octo-memory | 0 | 0| 
 | 20220805T23:56:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2906 | 590| 
 | 20220805T22:25:49Z | Null | https://github.com/mantapun/fuzzy-octo-lamp | 0 | 0| 
 | 20220805T21:17:35Z | Fuzzer for TP2 | https://github.com/yantavares/TP2-Fuzzer | 0 | 0| 
@@ -122,8 +124,6 @@
 | 20220805T13:03:16Z | Null | https://github.com/JeffroMF/django-fuzzers | 0 | 0| 
 | 20220805T12:36:34Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
 | 20220805T12:30:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7651 | 1652| 
-| 20220805T11:47:35Z | A dumb fuzzer, but not the worst one. | https://github.com/claire-lex/le-fuzzer-con | 0 | 0| 
-| 20220805T08:59:36Z | an example to use fuzzy logic controller (FLC) to control how fast you should run by heart rate | https://github.com/crosstyan/fuzzy-track | 0 | 0| 
 
 
 
