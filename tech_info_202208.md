@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T00:50:42Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-r | 0 | 0| 
 | 20220806T00:49:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-r | 0 | 0| 
 | 20220806T00:48:29Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 0 | 0| 
 | 20220806T00:48:08Z | I came back to this exploit, and finished off what I wanted to do all along. | https://github.com/Exploitables/WinRing0-MSR-Exploit | 7 | 3| 
@@ -73,7 +74,6 @@
 | 20220805T23:28:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11811 | 2034| 
 | 20220805T20:00:17Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4811 | 602| 
 | 20220805T18:49:15Z | Das Repository für die Tools auf https://exploit.to/osint-tools/ | https://github.com/Exploit-to/OSINT-Tools | 0 | 0| 
-| 20220805T17:59:37Z | Exploration-exploitation model for the investigation of the coupling and decoupling processes between efficiency gains and resource consumption. | https://github.com/School-of-Collective-Intelligence/Jevons-Paradox-and-Cultural-Evolution | 0 | 0| 
 
 
 # backdoor on Github 推荐
