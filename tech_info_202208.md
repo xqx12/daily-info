@@ -64,11 +64,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T01:12:01Z | Exploit for CVE-2022-29582 targeting Google%s Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | 5 | 2| 
 | 20220806T00:50:42Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-r | 0 | 0| 
 | 20220806T00:49:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-r | 0 | 0| 
 | 20220806T00:48:29Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 0 | 0| 
 | 20220806T00:48:08Z | I came back to this exploit, and finished off what I wanted to do all along. | https://github.com/Exploitables/WinRing0-MSR-Exploit | 7 | 3| 
-| 20220806T00:35:49Z | Exploit for CVE-2022-29582 targeting Google%s Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | 4 | 2| 
 | 20220806T00:32:49Z | Effectively Exploit Label Information for | https://github.com/aNLPer/EEL | 0 | 0| 
 | 20220806T00:01:22Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 37 | 1| 
 | 20220805T23:28:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11811 | 2034| 
