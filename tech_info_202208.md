@@ -79,6 +79,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T20:23:29Z | Null | https://github.com/SCLBD/BackdoorBench | 38 | 2| 
+| 20220805T16:10:02Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 76 | 23| 
+| 20220805T14:06:58Z | Best webshell backdoor  | https://github.com/Naughty-SEC/Shell-backdoor | 0 | 0| 
 | 20220805T12:15:27Z | Kendi bilgisayarınızın kontrolünü başka bilgisayara vermek istediğinizde kullanabileceğiniz bir python projesi | https://github.com/aysuyld/Backdoor | 0 | 0| 
 | 20220805T12:05:24Z | Null | https://github.com/aysuyld/Backdoor-Dinleyici | 0 | 0| 
 | 20220805T10:23:48Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/Dinosaur_Backdoor | 0 | 0| 
@@ -86,9 +89,6 @@
 | 20220804T22:17:13Z | python script help you to get ultimate acces to machine and generate (backdoor)  | https://github.com/aliennneX/easback | 1 | 0| 
 | 20220804T17:58:46Z | Interesting collection of wordpress backdoors I%ve found | https://github.com/david-prv/backdoor-collection | 0 | 0| 
 | 20220804T17:43:11Z | Null | https://github.com/Nanboy-Ronan/Backdoor-FedGAN | 0 | 0| 
-| 20220804T17:19:19Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/NTTU__Dinosaur_Backdoor | 0 | 0| 
-| 20220804T17:11:16Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 121 | 33| 
-| 20220804T13:28:09Z | 🐱‍💻 ✂️ 🤬 PHP BackDoor Tools | https://github.com/flux10n/Buffer-Shell | 1 | 0| 
 
 
 # symbolic execution on Github 推荐

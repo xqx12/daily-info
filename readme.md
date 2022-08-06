@@ -56,6 +56,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T20:23:29Z | Null | https://github.com/SCLBD/BackdoorBench | 38 | 2| 
+| 20220805T16:10:02Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 76 | 23| 
+| 20220805T14:06:58Z | Best webshell backdoor  | https://github.com/Naughty-SEC/Shell-backdoor | 0 | 0| 
 | 20220805T12:15:27Z | Kendi bilgisayarınızın kontrolünü başka bilgisayara vermek istediğinizde kullanabileceğiniz bir python projesi | https://github.com/aysuyld/Backdoor | 0 | 0| 
 | 20220805T12:05:24Z | Null | https://github.com/aysuyld/Backdoor-Dinleyici | 0 | 0| 
 | 20220805T10:23:48Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/Dinosaur_Backdoor | 0 | 0| 
