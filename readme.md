@@ -13,12 +13,14 @@
 | --- | --- | ---| 
 | 20220805 | 数据传输安全白皮书 | https://www.dwcon.cn/uploads/file/2022/08/04/1659617933559854.pdf| 
 | 20220805 | 美国关键基础设施网络防御路线发展与调整 | https://mp.weixin.qq.com/s/V2YgN6QOVQksbqiAv-F9Aw| 
+| 20220805 | 攻防演练第四年的一些碎碎念 | https://blog.csdn.net/momo_sleet/article/details/126125082| 
+| 20220805 | MSF多层内网渗透全过程 | https://xz.aliyun.com/t/11588| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220805T12:42:43Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220805T14:19:06Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220805T10:57:01Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/emanuelandrei/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220805T10:55:06Z | CVE-2021-23841 | Null | https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841 | | 
 
@@ -39,16 +41,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T23:49:29Z | Exploit for CVE-2022-29582 targeting Google%s Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | 3 | 2| 
+| 20220805T23:28:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11811 | 2034| 
+| 20220805T22:53:10Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 37 | 1| 
+| 20220805T20:00:17Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4811 | 602| 
+| 20220805T18:49:15Z | Das Repository für die Tools auf https://exploit.to/osint-tools/ | https://github.com/Exploit-to/OSINT-Tools | 0 | 0| 
+| 20220805T17:59:37Z | Exploration-exploitation model for the investigation of the coupling and decoupling processes between efficiency gains and resource consumption. | https://github.com/School-of-Collective-Intelligence/Jevons-Paradox-and-Cultural-Evolution | 0 | 0| 
+| 20220805T15:51:35Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1366 | 146| 
 | 20220805T12:26:49Z | Null | https://github.com/shinoTM/Saturne-Exploit | 0 | 0| 
 | 20220805T12:02:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3641 | 554| 
 | 20220805T11:22:42Z | Gather sensitive information from (.idea) folder for pentesters | https://github.com/lijiejie/idea_exploit | 311 | 55| 
-| 20220805T11:21:37Z | Looking for exploits? Well Troy’s GitHub website is full of mobile exploits’’ | https://github.com/allahuphetic/856troy.GitHub.io | 0 | 0| 
-| 20220805T11:07:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 886 | 233| 
-| 20220805T11:00:36Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 24 | 0| 
-| 20220805T08:25:38Z | PHPMailer < 5.2.18 Remote Code Execution | https://github.com/zeeshanbhattined/exploit-CVE-2016-10033 | 0 | 0| 
-| 20220805T07:50:17Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 2 | 0| 
-| 20220805T07:33:19Z | Mailpl0it is a small utility that hunts the homepage of exploit-db looking for user supplied quer(y/ies) and notifies the user via email if an exploit is found for the supplied query. | https://github.com/bad-bit/mailpl0it | 31 | 6| 
-| 20220805T03:04:10Z | A Fullstack Academy Cybersecurity project examining the full cycle of the Follina (CVE-2022-30190) vulnerability, from exploit to detection and defense. | https://github.com/jeffymcjeffface/five-nights-at-follina-s | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -63,7 +65,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220805T12:36:34Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
+| 20220805T13:55:10Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 9 | 0| 
 | 20220805T08:50:28Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 260 | 18| 
 | 20220805T07:17:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2032 | 576| 
 | 20220805T07:01:24Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 810 | 157| 
