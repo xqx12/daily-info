@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T00:32:49Z | Effectively Exploit Label Information for | https://github.com/aNLPer/EEL | 0 | 0| 
 | 20220806T00:01:22Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 37 | 1| 
 | 20220805T23:49:29Z | Exploit for CVE-2022-29582 targeting Google%s Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | 3 | 2| 
 | 20220805T23:28:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11811 | 2034| 
@@ -73,7 +74,6 @@
 | 20220805T15:51:35Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1366 | 146| 
 | 20220805T12:26:49Z | Null | https://github.com/shinoTM/Saturne-Exploit | 0 | 0| 
 | 20220805T12:02:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3641 | 554| 
-| 20220805T11:22:42Z | Gather sensitive information from (.idea) folder for pentesters | https://github.com/lijiejie/idea_exploit | 311 | 55| 
 
 
 # backdoor on Github 推荐
