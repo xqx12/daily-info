@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220806T01:12:01Z | Exploit for CVE-2022-29582 targeting Google%s Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | 5 | 2| 
+| 20220806T01:21:40Z | Exploit for CVE-2022-29582 targeting Google%s Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | 6 | 3| 
 | 20220806T00:50:42Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-r | 0 | 0| 
 | 20220806T00:49:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-r | 0 | 0| 
 | 20220806T00:48:29Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 0 | 0| 
