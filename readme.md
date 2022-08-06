@@ -40,7 +40,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220805T23:49:29Z | Exploit for CVE-2022-29582 targeting Google%s Kernel CTF | https://github.com/Ruia-ruia/CVE-2022-29582-Exploit | 3 | 2| 
 | 20220805T23:28:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11811 | 2034| 
 | 20220805T20:00:17Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4811 | 602| 
 | 20220805T18:49:15Z | Das Repository für die Tools auf https://exploit.to/osint-tools/ | https://github.com/Exploit-to/OSINT-Tools | 0 | 0| 
@@ -50,6 +49,7 @@
 | 20220805T12:02:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3641 | 554| 
 | 20220805T11:22:42Z | Gather sensitive information from (.idea) folder for pentesters | https://github.com/lijiejie/idea_exploit | 311 | 55| 
 | 20220805T11:21:37Z | Looking for exploits? Well Troy’s GitHub website is full of mobile exploits’’ | https://github.com/allahuphetic/856troy.GitHub.io | 0 | 0| 
+| 20220805T11:07:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 886 | 233| 
 
 
 # backdoor on Github 推荐
