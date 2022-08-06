@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T12:07:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 55 | 17| 
 | 20220806T11:51:12Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2448 | 265| 
 | 20220806T11:35:57Z | %Vanilla JavaScript% Filtering Profanity Using Levenshtein Distance Algorithm  | https://github.com/dwirifki10/Fuzzy-Filtering-Profanity | 1 | 0| 
 | 20220806T11:33:33Z | DotDotPwn - The Directory Traversal Fuzzer. | https://github.com/Xcod3bughunt3r/dotdotpwn | 1 | 0| 
