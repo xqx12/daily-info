@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220805T23:56:32Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2906 | 590| 
+| 20220805T22:25:49Z | Null | https://github.com/mantapun/fuzzy-octo-lamp | 0 | 0| 
+| 20220805T21:17:35Z | Fuzzer for TP2 | https://github.com/yantavares/TP2-Fuzzer | 0 | 0| 
+| 20220805T21:13:33Z | basic web fuzzer | https://github.com/d4rckh/rustfuzz | 1 | 0| 
+| 20220805T20:08:15Z | FUZZIFIER-9000 Make all analog differential fuzzy numbers | https://github.com/TomCoalfish/FUZZIFIER-9000 | 0 | 0| 
+| 20220805T13:03:16Z | Null | https://github.com/JeffroMF/django-fuzzers | 0 | 0| 
 | 20220805T12:36:34Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 8 | 0| 
-| 20220805T12:30:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7651 | 1650| 
+| 20220805T12:30:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7651 | 1652| 
 | 20220805T11:47:35Z | A dumb fuzzer, but not the worst one. | https://github.com/claire-lex/le-fuzzer-con | 0 | 0| 
 | 20220805T08:59:36Z | an example to use fuzzy logic controller (FLC) to control how fast you should run by heart rate | https://github.com/crosstyan/fuzzy-track | 0 | 0| 
-| 20220805T03:39:29Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 17 | 1| 
-| 20220805T01:34:38Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2408 | 261| 
-| 20220805T01:22:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40669 | 20570| 
-| 20220805T00:13:47Z | Config files for my GitHub profile. | https://github.com/fuzz827/fuzz827 | 0 | 0| 
-| 20220804T22:19:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1700 | 189| 
-| 20220804T21:12:26Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2906 | 590| 
 
 
 
