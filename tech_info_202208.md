@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220807T00:08:49Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220807T01:09:28Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220806T13:11:15Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
 | 20220806T13:05:12Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
 | 20220806T13:03:57Z | CVE-2022-24086 | Verifed Proof of Concept on CVE-2022-24086 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC | | 
