@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T00:01:12Z | Null | https://github.com/0x414141414/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve-main | 0 | 0| 
 | 20220806T23:59:14Z | Null | https://github.com/0x414141414/PDF-EXPLOIT-SILENT-2022 | 0 | 0| 
 | 20220806T23:57:44Z | A simple script that recursively downloads exploits for a windows system.  | https://github.com/kjd18/Windows-Exploit-Downloader | 0 | 0| 
 | 20220806T23:07:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3320 | 401| 
@@ -73,12 +74,14 @@
 | 20220806T12:35:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 896 | 235| 
 | 20220806T11:52:28Z | Cross Site %Scripter% is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. | https://github.com/Xcod3bughunt3r/xsser | 1 | 0| 
 | 20220806T11:48:58Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9282 | 1535| 
-| 20220806T09:57:10Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T23:31:46Z | Python Hacking Tools (PyHTools) (pht) é uma coleção de ferramentas de hacking escritas em python que consistem em scanner de rede, spoofer e detector de arp, spoofer de dns, injetor de código, sniffer de pacotes, jammer de rede, remetente de e-mail, downloader, coletor de senha sem fio credential harvester, keylogger, download&execute e reverse_backdoor junto com o login do site bruteforce, scraper, web spider etc. O PHT também inclui malwares que são indetectáveis ​​pelos antivírus. | https://github.com/heavyscan/PyHTools | 0 | 0| 
+| 20220806T20:57:10Z | Grub2 with backdoor modifications allowing the LUKS password to be sent over HTTP to a remote server when it is entered. | https://github.com/nstarke/backdoored-grub2 | 1 | 0| 
+| 20220806T19:49:39Z | ; ( | https://github.com/melamaze/Backdoor-identification | 1 | 0| 
 | 20220806T03:31:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 535 | 107| 
 | 20220806T03:10:43Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 77 | 24| 
 | 20220805T20:23:29Z | Null | https://github.com/SCLBD/BackdoorBench | 38 | 3| 
@@ -86,9 +89,6 @@
 | 20220805T12:15:27Z | Kendi bilgisayarınızın kontrolünü başka bilgisayara vermek istediğinizde kullanabileceğiniz bir python projesi | https://github.com/aysuyld/Backdoor | 0 | 0| 
 | 20220805T12:05:24Z | Null | https://github.com/aysuyld/Backdoor-Dinleyici | 0 | 0| 
 | 20220805T10:23:48Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/Dinosaur_Backdoor | 0 | 0| 
-| 20220805T08:05:09Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 16 | 2| 
-| 20220804T22:17:13Z | python script help you to get ultimate acces to machine and generate (backdoor)  | https://github.com/aliennneX/easback | 1 | 0| 
-| 20220804T17:58:46Z | Interesting collection of wordpress backdoors I%ve found | https://github.com/david-prv/backdoor-collection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

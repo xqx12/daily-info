@@ -60,6 +60,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T23:31:46Z | Python Hacking Tools (PyHTools) (pht) é uma coleção de ferramentas de hacking escritas em python que consistem em scanner de rede, spoofer e detector de arp, spoofer de dns, injetor de código, sniffer de pacotes, jammer de rede, remetente de e-mail, downloader, coletor de senha sem fio credential harvester, keylogger, download&execute e reverse_backdoor junto com o login do site bruteforce, scraper, web spider etc. O PHT também inclui malwares que são indetectáveis ​​pelos antivírus. | https://github.com/heavyscan/PyHTools | 0 | 0| 
+| 20220806T20:57:10Z | Grub2 with backdoor modifications allowing the LUKS password to be sent over HTTP to a remote server when it is entered. | https://github.com/nstarke/backdoored-grub2 | 1 | 0| 
+| 20220806T19:49:39Z | ; ( | https://github.com/melamaze/Backdoor-identification | 1 | 0| 
 | 20220806T03:31:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 535 | 107| 
 | 20220806T03:10:43Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 77 | 24| 
 
