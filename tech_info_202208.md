@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T12:19:51Z | IRC botnet. Mainly used for launch denial of service attacks. Spread by doing scope or random scanning on default SSH port and exploit through the http protocol. | https://github.com/boz3r/Fatebot | 0 | 2| 
 | 20220807T12:02:45Z | BlestSploit Framework, Blest Boyz ekibinden Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | 2 | 0| 
 | 20220807T11:52:31Z | Performance Exploitation in Low Computing Cost Model-Based EfficientDet for UAV Object Detection | https://github.com/IritaSee/bachelor_thesis | 0 | 0| 
 | 20220807T11:51:05Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 910 | 238| 
@@ -73,7 +74,6 @@
 | 20220807T08:23:53Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 9 | 0| 
 | 20220807T08:23:49Z | Null | https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT | 8 | 0| 
 | 20220807T08:23:46Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 10 | 1| 
-| 20220807T01:57:25Z | allegedly found by qoft and dort. | https://github.com/dropout1337/HCaptcha-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
