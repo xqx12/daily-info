@@ -109,6 +109,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T16:34:48Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 51 | 10| 
 | 20220802T19:09:12Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 11 | 1| 
 | 20220801T13:09:29Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 8 | 2| 
 
