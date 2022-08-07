@@ -26,31 +26,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220806T12:59:21Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220806T18:49:17Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220806T13:11:15Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
+| 20220806T13:05:12Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
+| 20220806T13:03:57Z | CVE-2022-24086 | Verifed Proof of Concept on CVE-2022-24086 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC | | 
 | 20220806T08:57:18Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
+| 20220805T13:36:09Z | CVE-2020-35476 | A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter.  | https://github.com/glowbase/CVE-2020-35476 | | 
 | 20220805T10:57:01Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/emanuelandrei/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220805T10:55:06Z | CVE-2021-23841 | Null | https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841 | | 
 | 20220804T21:11:04Z | CVE-2022-34970 | Vulnerability in Crow prior v1.0+4 | https://github.com/0xhebi/CVE-2022-34970 | | 
-| 20220804T13:51:17Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
 | 20220804T13:12:49Z | CVE-2020-2038 | Exploit to capitalize on vulnerability CVE-2020-2038. | https://github.com/und3sc0n0c1d0/CVE-2020-2038 | | 
-| 20220804T13:02:10Z | CVE-2022-22947 | Null | https://github.com/LY613313/CVE-2022-22947 | | 
-| 20220804T01:09:18Z | 未知编号 | cve2022-26134 | https://github.com/0x14dli/cve2022-26134exp | | 
-| 20220803T17:17:30Z | CVE-2022-26809 | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T22:55:12Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
+| 20220806T22:41:24Z | Modified KLEE%s POSIX File System Runtime | https://github.com/Generative-Program-Analysis/posix-runtime | 0 | 0| 
+| 20220806T14:50:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 3 | 0| 
 | 20220806T10:42:39Z | Null | https://github.com/kleegl/kleegl | 0 | 0| 
 | 20220806T07:51:35Z | VFS implementation for klee | https://github.com/mojyack/klee-vfs | 0 | 0| 
 | 20220806T03:56:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2033 | 576| 
 | 20220805T03:14:43Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 68 | 4| 
 | 20220804T22:42:39Z | Null | https://github.com/Kleeritter/kleeritter | 0 | 0| 
 | 20220804T14:27:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7561 | 263| 
-| 20220802T20:55:20Z | Extract all posix/uclibc linking and program optimization related code from KLEE into a linker program | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
-| 20220802T18:26:38Z | Modified klee posix runtime filesystem | https://github.com/Generative-Program-Analysis/posix-runtime | 0 | 0| 
 | 20220801T18:07:02Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 14 | 0| 
-| 20220801T10:25:55Z | 芫荽，基於 Klee One 改造的學習用台灣繁體字型 | https://github.com/ButTaiwan/iansui | 742 | 37| 
 
 
 # s2e on Github 推荐
@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T23:59:14Z | Null | https://github.com/0x414141414/PDF-EXPLOIT-SILENT-2022 | 0 | 0| 
+| 20220806T23:57:44Z | A simple script that recursively downloads exploits for a windows system.  | https://github.com/kjd18/Windows-Exploit-Downloader | 0 | 0| 
+| 20220806T23:07:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3320 | 401| 
+| 20220806T19:26:09Z | Null | https://github.com/avoidingkgb/my-first-exploit-scripts | 0 | 0| 
+| 20220806T19:23:30Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4772 | 657| 
+| 20220806T18:08:59Z | Null | https://github.com/rohankumardubey/FastjsonExploit | 0 | 0| 
 | 20220806T12:35:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 896 | 235| 
 | 20220806T11:52:28Z | Cross Site %Scripter% is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. | https://github.com/Xcod3bughunt3r/xsser | 1 | 0| 
+| 20220806T11:48:58Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9282 | 1535| 
 | 20220806T09:57:10Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 3 | 0| 
-| 20220806T09:16:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4770 | 656| 
-| 20220806T08:03:34Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1369 | 146| 
-| 20220806T07:40:36Z | Null | https://github.com/pour68/domain-name-exploit | 0 | 0| 
-| 20220806T07:22:16Z | Automatically search for the required class and package it as a jar Create One Min Jar file | https://github.com/hktalent/CreateOneMinJar | 2 | 2| 
-| 20220806T02:07:58Z | Repository for a comprehensive basic introduction into the Rowhammer exploit | https://github.com/SpartanEngineer24798/Rowhammer_Tutorial | 0 | 0| 
-| 20220806T01:46:03Z | Effective Exploit Label Information for Legal Judgement Prediction | https://github.com/aNLPer/EEL | 0 | 0| 
-| 20220806T01:44:24Z | A roblox Exploit | https://github.com/rhytxm/Paradox-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -94,6 +94,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T22:55:12Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220806T04:50:58Z | Created Symbolic Execution (SE) Engines for – Classical/Static SE, Selective SE (2 Versions), and Dynamic SE, with WLANG as the artifact; and applied them on real programs. Compared and analysed how each one fares against the other and where their specific utility may be applicable. | https://github.com/udityalaad/Explore_SymEx | 0 | 0| 
 | 20220806T03:56:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2033 | 576| 
 | 20220805T13:55:10Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 9 | 0| 
@@ -115,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220806T23:30:41Z | Null | https://github.com/Slinvak/fuzzy-octo-barnacle | 0 | 0| 
+| 20220806T22:05:25Z | FuzzyCircuit-3000 Solve all Analog circuit as the Fuzzy Number | https://github.com/TomCoalfish/FuzzyCircuit-3000 | 0 | 0| 
+| 20220806T21:19:21Z | Null | https://github.com/fuzzrye/fuzzrye.github.io | 0 | 0| 
+| 20220806T20:39:59Z | Null | https://github.com/Xicks/d-FuzzStream-Python | 0 | 0| 
+| 20220806T18:59:35Z | Small and Fast website fuzzing python class | https://github.com/nickhefty/aiofuzz | 0 | 0| 
+| 20220806T18:55:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7655 | 1652| 
 | 20220806T12:17:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 913 | 105| 
 | 20220806T12:14:34Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners. | https://github.com/l00pss/Fuzzy | 0 | 0| 
 | 20220806T12:14:07Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2449 | 265| 
 | 20220806T12:07:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 55 | 17| 
-| 20220806T11:35:57Z | %Vanilla JavaScript% Filtering Profanity Using Levenshtein Distance Algorithm  | https://github.com/dwirifki10/Fuzzy-Filtering-Profanity | 1 | 0| 
-| 20220806T11:33:33Z | DotDotPwn - The Directory Traversal Fuzzer. | https://github.com/Xcod3bughunt3r/dotdotpwn | 1 | 0| 
-| 20220806T11:26:07Z | Dizzy is a fuzzing framework. | https://github.com/Xcod3bughunt3r/dizzy | 1 | 0| 
-| 20220806T11:23:15Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1539 | 199| 
-| 20220806T06:55:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7653 | 1652| 
-| 20220806T01:55:24Z | basic web fuzzer | https://github.com/d4rckh/rustfuzz | 2 | 0| 
 
 
 
