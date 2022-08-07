@@ -37,6 +37,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220807T12:02:45Z | BlestSploit Framework, Blest Boyz ekibinden Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | 2 | 0| 
+| 20220807T11:52:31Z | Performance Exploitation in Low Computing Cost Model-Based EfficientDet for UAV Object Detection | https://github.com/IritaSee/bachelor_thesis | 0 | 0| 
 | 20220807T11:51:05Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 910 | 238| 
 | 20220807T11:26:01Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 20 | 1| 
 | 20220807T11:18:17Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9283 | 1535| 
@@ -45,7 +46,6 @@
 | 20220807T08:23:49Z | Null | https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT | 8 | 0| 
 | 20220807T08:23:46Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 10 | 1| 
 | 20220807T01:57:25Z | allegedly found by qoft and dort. | https://github.com/dropout1337/HCaptcha-Exploit | 1 | 0| 
-| 20220807T01:21:03Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e | 0 | 0| 
 
 
 # backdoor on Github 推荐
