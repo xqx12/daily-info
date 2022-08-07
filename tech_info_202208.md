@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220807 | XSS in Gmails Amp4Email | https://www.adico.me/post/xss-in-gmail-s-amp4email| 
+| 20220807 | [HTB] Europa Writeup | https://mp.weixin.qq.com/s/w2-nMCLqrkxKKivmTB7khw| 
 | 20220806 | Kaggle知识点：时序预测基础知识 | https://mp.weixin.qq.com/s/9eVI-US6vzZmokQWHtHxWQ| 
 | 20220806 | 安全控制有效性验证的发展趋势浅论 | https://mp.weixin.qq.com/s/QEcrByo-j0tK9430zzlSbA| 
 | 20220806 | [HTB] Haircut Writeup | https://www.jgeek.cn/article/106.html| 
@@ -19,14 +21,12 @@
 | 20220805 | 攻防演练第四年的一些碎碎念 | https://blog.csdn.net/momo_sleet/article/details/126125082| 
 | 20220805 | MSF多层内网渗透全过程 | https://xz.aliyun.com/t/11588| 
 | 20220803 | 从0-1搭建企业级数据治理体系 | https://mp.weixin.qq.com/s/YvH7V1vivriHRYYMlaj-xQ| 
-| 20220803 | 国际网络攻击溯源机制的必要性和可行性探析 | https://mp.weixin.qq.com/s/9dgVqhUUEe9yipnzSDL2_A| 
-| 20220803 | 云计算安全的新阶段：云上风险发现与治理 | https://mp.weixin.qq.com/s/y5NRDQl6MUrxI2ZI1lCJPQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220807T01:09:28Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220807T11:06:39Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220806T13:11:15Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
 | 20220806T13:05:12Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
 | 20220806T13:03:57Z | CVE-2022-24086 | Verifed Proof of Concept on CVE-2022-24086 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC | | 
@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T03:45:35Z | Config files for my GitHub profile. | https://github.com/Kleelynnx/Kleelynnx | 0 | 0| 
 | 20220807T00:14:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 4 | 0| 
 | 20220806T22:55:12Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220806T22:41:24Z | Modified KLEE%s POSIX File System Runtime | https://github.com/Generative-Program-Analysis/posix-runtime | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20220805T03:14:43Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 68 | 4| 
 | 20220804T22:42:39Z | Null | https://github.com/Kleeritter/kleeritter | 0 | 0| 
 | 20220804T14:27:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7561 | 263| 
-| 20220801T18:07:02Z | 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)。 | https://github.com/tonyhuan/GuanKiapTsingKhai | 14 | 0| 
 
 
 # s2e on Github 推荐
@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T11:51:05Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 910 | 238| 
+| 20220807T11:26:01Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 20 | 1| 
+| 20220807T11:18:17Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9283 | 1535| 
+| 20220807T09:35:17Z | Follow up EPSS | https://github.com/gunh0/exploit-prediction | 0 | 0| 
+| 20220807T08:23:53Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 9 | 0| 
+| 20220807T08:23:49Z | Null | https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT | 8 | 0| 
+| 20220807T08:23:46Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 10 | 1| 
+| 20220807T05:59:16Z | BlestSploit Framework, Blest Boyz ekibinden Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | 1 | 0| 
 | 20220807T01:57:25Z | allegedly found by qoft and dort. | https://github.com/dropout1337/HCaptcha-Exploit | 1 | 0| 
 | 20220807T01:21:03Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e | 0 | 0| 
-| 20220807T01:19:54Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-e | 0 | 0| 
-| 20220807T01:19:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-e | 0 | 0| 
-| 20220807T00:38:25Z | CVE-2007-2447 exploit written in python to get reverse shell | https://github.com/HerculesRD/PyUsernameMapScriptRCE | 0 | 0| 
-| 20220807T00:01:12Z | Null | https://github.com/0x414141414/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve-main | 0 | 0| 
-| 20220806T23:59:14Z | Null | https://github.com/0x414141414/PDF-EXPLOIT-SILENT-2022 | 0 | 0| 
-| 20220806T23:57:44Z | A simple script that recursively downloads exploits for a windows system.  | https://github.com/kjd18/Windows-Exploit-Downloader | 0 | 0| 
-| 20220806T23:21:43Z | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | 1 | 0| 
-| 20220806T23:07:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3320 | 401| 
 
 
 # backdoor on Github 推荐
