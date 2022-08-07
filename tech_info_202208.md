@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T00:34:38Z | CVE-2007-2447 exploit written in python to get reverse shell | https://github.com/HerculesRD/PyUsernameMapScriptRCE | 0 | 0| 
 | 20220807T00:01:12Z | Null | https://github.com/0x414141414/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve-main | 0 | 0| 
 | 20220806T23:59:14Z | Null | https://github.com/0x414141414/PDF-EXPLOIT-SILENT-2022 | 0 | 0| 
 | 20220806T23:57:44Z | A simple script that recursively downloads exploits for a windows system.  | https://github.com/kjd18/Windows-Exploit-Downloader | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20220806T19:23:30Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4772 | 657| 
 | 20220806T18:08:59Z | Null | https://github.com/rohankumardubey/FastjsonExploit | 0 | 0| 
 | 20220806T12:35:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 896 | 235| 
-| 20220806T11:52:28Z | Cross Site %Scripter% is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. | https://github.com/Xcod3bughunt3r/xsser | 1 | 0| 
 
 
 # backdoor on Github 推荐
