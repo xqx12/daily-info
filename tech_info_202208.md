@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T01:21:03Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e | 0 | 0| 
 | 20220807T01:19:54Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-e | 0 | 0| 
 | 20220807T01:19:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-e | 0 | 0| 
 | 20220807T00:38:25Z | CVE-2007-2447 exploit written in python to get reverse shell | https://github.com/HerculesRD/PyUsernameMapScriptRCE | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20220806T23:21:43Z | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | 1 | 0| 
 | 20220806T23:07:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3320 | 401| 
 | 20220806T19:26:09Z | Null | https://github.com/avoidingkgb/my-first-exploit-scripts | 0 | 0| 
-| 20220806T19:23:30Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4772 | 657| 
 
 
 # backdoor on Github 推荐
