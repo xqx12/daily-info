@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T00:14:25Z | CSSI 2022 Day 9 | https://github.com/sophiaawang/Fuzzy-Personality-Quiz | 0 | 0| 
 | 20220806T23:30:41Z | Null | https://github.com/Slinvak/fuzzy-octo-barnacle | 0 | 0| 
 | 20220806T22:05:25Z | FuzzyCircuit-3000 Solve all Analog circuit as the Fuzzy Number | https://github.com/TomCoalfish/FuzzyCircuit-3000 | 0 | 0| 
 | 20220806T21:19:21Z | Null | https://github.com/fuzzrye/fuzzrye.github.io | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20220806T12:17:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 913 | 105| 
 | 20220806T12:14:34Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners. | https://github.com/l00pss/Fuzzy | 0 | 0| 
 | 20220806T12:14:07Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2449 | 265| 
-| 20220806T12:07:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 55 | 17| 
 
 
 
