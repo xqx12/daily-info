@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T11:59:13Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 19 | 12| 
+| 20220807T10:41:50Z | The following is a python program to predict the gender of a person using fuzzy logic. It uses a general dataset taken from kaggle. From the dataset the program generates a heatmap to know the correlation between the dataset elements. It also has a GUI for easy user interaction | https://github.com/endurance11/Speech-Prediction-and-Recognition-using-Fuzzy-Logic | 0 | 0| 
+| 20220807T10:06:42Z | Null | https://github.com/leeeeys/fuzzy-train | 0 | 0| 
+| 20220807T06:50:51Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at BlackHat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 12 | 3| 
+| 20220807T03:42:01Z | Null | https://github.com/reallyQ/Fuzz | 0 | 0| 
 | 20220807T00:14:30Z | CSSI 2022 Day 9 | https://github.com/sophiaawang/Fuzzy-Personality-Quiz | 0 | 0| 
 | 20220806T23:30:41Z | Null | https://github.com/Slinvak/fuzzy-octo-barnacle | 0 | 0| 
 | 20220806T22:05:25Z | FuzzyCircuit-3000 Solve all Analog circuit as the Fuzzy Number | https://github.com/TomCoalfish/FuzzyCircuit-3000 | 0 | 0| 
 | 20220806T21:19:21Z | Null | https://github.com/fuzzrye/fuzzrye.github.io | 0 | 0| 
 | 20220806T20:39:59Z | Null | https://github.com/Xicks/d-FuzzStream-Python | 0 | 0| 
-| 20220806T18:59:35Z | Small and Fast website fuzzing python class | https://github.com/nickhefty/aiofuzz | 0 | 0| 
-| 20220806T18:55:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7655 | 1652| 
-| 20220806T12:17:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 913 | 105| 
-| 20220806T12:14:34Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners. | https://github.com/l00pss/Fuzzy | 0 | 0| 
-| 20220806T12:14:07Z | vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2449 | 265| 
 
 
 

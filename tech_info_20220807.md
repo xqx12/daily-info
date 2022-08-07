@@ -70,6 +70,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T11:59:13Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 19 | 12| 
+| 20220807T10:41:50Z | The following is a python program to predict the gender of a person using fuzzy logic. It uses a general dataset taken from kaggle. From the dataset the program generates a heatmap to know the correlation between the dataset elements. It also has a GUI for easy user interaction | https://github.com/endurance11/Speech-Prediction-and-Recognition-using-Fuzzy-Logic | 0 | 0| 
+| 20220807T10:06:42Z | Null | https://github.com/leeeeys/fuzzy-train | 0 | 0| 
+| 20220807T06:50:51Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at BlackHat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 12 | 3| 
+| 20220807T03:42:01Z | Null | https://github.com/reallyQ/Fuzz | 0 | 0| 
 | 20220807T00:14:30Z | CSSI 2022 Day 9 | https://github.com/sophiaawang/Fuzzy-Personality-Quiz | 0 | 0| 
 
 
