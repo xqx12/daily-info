@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220807T01:49:55Z | allegedly found by qoft and dort. | https://github.com/dropout1337/HCaptcha-Exploit | 0 | 0| 
+| 20220807T01:57:25Z | allegedly found by qoft and dort. | https://github.com/dropout1337/HCaptcha-Exploit | 1 | 0| 
 | 20220807T01:21:03Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e | 0 | 0| 
 | 20220807T01:19:54Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-e | 0 | 0| 
 | 20220807T01:19:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-e | 0 | 0| 
