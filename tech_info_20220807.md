@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T12:02:45Z | BlestSploit Framework, Blest Boyz ekibinden Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | 2 | 0| 
 | 20220807T11:51:05Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 910 | 238| 
 | 20220807T11:26:01Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 20 | 1| 
 | 20220807T11:18:17Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9283 | 1535| 
@@ -43,7 +44,6 @@
 | 20220807T08:23:53Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 9 | 0| 
 | 20220807T08:23:49Z | Null | https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT | 8 | 0| 
 | 20220807T08:23:46Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 10 | 1| 
-| 20220807T05:59:16Z | BlestSploit Framework, Blest Boyz ekibinden Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | 1 | 0| 
 | 20220807T01:57:25Z | allegedly found by qoft and dort. | https://github.com/dropout1337/HCaptcha-Exploit | 1 | 0| 
 | 20220807T01:21:03Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e | 0 | 0| 
 
@@ -51,11 +51,15 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T10:52:31Z | Dual_EC_DRBG recovery attack | https://github.com/ericlagergren/dualec | 0 | 0| 
+| 20220807T04:05:11Z | A BackDoor Bot made using discord.py! | https://github.com/ZukoHD/BackDoorBot | 0 | 0| 
+| 20220807T03:34:58Z | Best webshell backdoor  | https://github.com/Naughty-SEC/Shell-backdoor | 1 | 2| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T05:14:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3038 | 426| 
 
 
 # big4 on Github 推荐

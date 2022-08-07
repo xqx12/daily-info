@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T12:02:45Z | BlestSploit Framework, Blest Boyz ekibinden Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | 2 | 0| 
 | 20220807T11:51:05Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 910 | 238| 
 | 20220807T11:26:01Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 20 | 1| 
 | 20220807T11:18:17Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9283 | 1535| 
@@ -71,7 +72,6 @@
 | 20220807T08:23:53Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 9 | 0| 
 | 20220807T08:23:49Z | Null | https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT | 8 | 0| 
 | 20220807T08:23:46Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 10 | 1| 
-| 20220807T05:59:16Z | BlestSploit Framework, Blest Boyz ekibinden Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | 1 | 0| 
 | 20220807T01:57:25Z | allegedly found by qoft and dort. | https://github.com/dropout1337/HCaptcha-Exploit | 1 | 0| 
 | 20220807T01:21:03Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e | 0 | 0| 
 
@@ -79,21 +79,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T10:52:31Z | Dual_EC_DRBG recovery attack | https://github.com/ericlagergren/dualec | 0 | 0| 
+| 20220807T04:05:11Z | A BackDoor Bot made using discord.py! | https://github.com/ZukoHD/BackDoorBot | 0 | 0| 
+| 20220807T03:34:58Z | Best webshell backdoor  | https://github.com/Naughty-SEC/Shell-backdoor | 1 | 2| 
 | 20220806T23:31:46Z | Python Hacking Tools (PyHTools) (pht) é uma coleção de ferramentas de hacking escritas em python que consistem em scanner de rede, spoofer e detector de arp, spoofer de dns, injetor de código, sniffer de pacotes, jammer de rede, remetente de e-mail, downloader, coletor de senha sem fio credential harvester, keylogger, download&execute e reverse_backdoor junto com o login do site bruteforce, scraper, web spider etc. O PHT também inclui malwares que são indetectáveis ​​pelos antivírus. | https://github.com/heavyscan/PyHTools | 0 | 0| 
 | 20220806T20:57:10Z | Grub2 with backdoor modifications allowing the LUKS password to be sent over HTTP to a remote server when it is entered. | https://github.com/nstarke/backdoored-grub2 | 1 | 0| 
 | 20220806T19:49:39Z | ; ( | https://github.com/melamaze/Backdoor-identification | 1 | 0| 
 | 20220806T03:31:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 535 | 107| 
 | 20220806T03:10:43Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 77 | 24| 
 | 20220805T20:23:29Z | Null | https://github.com/SCLBD/BackdoorBench | 38 | 3| 
-| 20220805T14:06:58Z | Best webshell backdoor  | https://github.com/Naughty-SEC/Shell-backdoor | 0 | 1| 
 | 20220805T12:15:27Z | Kendi bilgisayarınızın kontrolünü başka bilgisayara vermek istediğinizde kullanabileceğiniz bir python projesi | https://github.com/aysuyld/Backdoor | 0 | 0| 
-| 20220805T12:05:24Z | Null | https://github.com/aysuyld/Backdoor-Dinleyici | 0 | 0| 
-| 20220805T10:23:48Z | 練習建置後門程式 | https://github.com/SmallliDinosaur/Dinosaur_Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T05:14:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3038 | 426| 
 | 20220806T22:55:12Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220806T04:50:58Z | Created Symbolic Execution (SE) Engines for – Classical/Static SE, Selective SE (2 Versions), and Dynamic SE, with WLANG as the artifact; and applied them on real programs. Compared and analysed how each one fares against the other and where their specific utility may be applicable. | https://github.com/udityalaad/Explore_SymEx | 0 | 0| 
 | 20220806T03:56:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2033 | 576| 
@@ -101,7 +102,6 @@
 | 20220805T08:50:28Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 260 | 18| 
 | 20220805T07:01:24Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 810 | 157| 
 | 20220805T05:55:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 243 | 59| 
-| 20220805T04:32:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3037 | 426| 
 | 20220804T22:33:20Z | Reduce sequence explosion for symbolic execution on Ethereum smart contracts | https://github.com/Qiana0223/SE.io | 0 | 0| 
 | 20220804T18:23:30Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 706 | 76| 
 
