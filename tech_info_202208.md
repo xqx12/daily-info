@@ -94,6 +94,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T12:17:14Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 0 | 0| 
 | 20220807T05:14:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3038 | 426| 
 | 20220806T22:55:12Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220806T04:50:58Z | Created Symbolic Execution (SE) Engines for – Classical/Static SE, Selective SE (2 Versions), and Dynamic SE, with WLANG as the artifact; and applied them on real programs. Compared and analysed how each one fares against the other and where their specific utility may be applicable. | https://github.com/udityalaad/Explore_SymEx | 0 | 0| 
@@ -103,7 +104,6 @@
 | 20220805T07:01:24Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 810 | 157| 
 | 20220805T05:55:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 243 | 59| 
 | 20220804T22:33:20Z | Reduce sequence explosion for symbolic execution on Ethereum smart contracts | https://github.com/Qiana0223/SE.io | 0 | 0| 
-| 20220804T18:23:30Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 706 | 76| 
 
 
 # big4 on Github 推荐

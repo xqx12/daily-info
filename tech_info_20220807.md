@@ -59,6 +59,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T12:17:14Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 0 | 0| 
 | 20220807T05:14:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3038 | 426| 
 
 
