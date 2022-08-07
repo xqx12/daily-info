@@ -30,7 +30,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220806T22:55:12Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220806T22:41:24Z | Modified KLEE%s POSIX File System Runtime | https://github.com/Generative-Program-Analysis/posix-runtime | 0 | 0| 
-| 20220806T14:50:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 3 | 0| 
 | 20220806T10:42:39Z | Null | https://github.com/kleegl/kleegl | 0 | 0| 
 | 20220806T07:51:35Z | VFS implementation for klee | https://github.com/mojyack/klee-vfs | 0 | 0| 
 | 20220806T03:56:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2033 | 576| 
