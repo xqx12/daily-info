@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220807T00:14:25Z | CSSI 2022 Day 9 | https://github.com/sophiaawang/Fuzzy-Personality-Quiz | 0 | 0| 
+| 20220807T00:14:30Z | CSSI 2022 Day 9 | https://github.com/sophiaawang/Fuzzy-Personality-Quiz | 0 | 0| 
 | 20220806T23:30:41Z | Null | https://github.com/Slinvak/fuzzy-octo-barnacle | 0 | 0| 
 | 20220806T22:05:25Z | FuzzyCircuit-3000 Solve all Analog circuit as the Fuzzy Number | https://github.com/TomCoalfish/FuzzyCircuit-3000 | 0 | 0| 
 | 20220806T21:19:21Z | Null | https://github.com/fuzzrye/fuzzrye.github.io | 0 | 0| 
