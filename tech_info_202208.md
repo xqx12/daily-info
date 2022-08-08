@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220808T01:44:51Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3678 | 554| 
+| 20220808T01:46:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3679 | 554| 
 | 20220808T01:40:25Z | A Core Used In Hispanarky.es, This plugin is designed to patch the different exploits that exist and make the process of creating anarchic servers easier, I hope you like it | https://github.com/MrRafter/HispanarkyCore | 2 | 1| 
 | 20220808T01:08:31Z | about me or smth | https://github.com/YieldingExploiter/YieldingExploiter | 0 | 0| 
 | 20220808T00:51:12Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g | 0 | 0| 
