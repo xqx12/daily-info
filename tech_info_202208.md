@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220808T00:51:12Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g | 0 | 0| 
 | 20220808T00:50:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-g | 0 | 0| 
 | 20220808T00:49:01Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | 0 | 0| 
 | 20220807T23:52:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 915 | 238| 
@@ -73,7 +74,6 @@
 | 20220807T21:05:26Z | Implementation of different coding program exploiting Transfer learning concepts | https://github.com/SMKProj/TransferLearning | 0 | 0| 
 | 20220807T20:45:53Z | Collection of my exploit scripts, bots, and random monitors. Enjoy! | https://github.com/yamsbot/small_projects | 0 | 0| 
 | 20220807T20:07:37Z | This tool is for exploiting rice cooker and for educational purposes only. | https://github.com/Z4RP1HR/RCE | 0 | 0| 
-| 20220807T19:11:34Z | Null | https://github.com/Arun89-crypto/BinaryExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
