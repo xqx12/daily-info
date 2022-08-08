@@ -48,8 +48,8 @@
 | 20220807T20:45:53Z | Collection of my exploit scripts, bots, and random monitors. Enjoy! | https://github.com/yamsbot/small_projects | 0 | 0| 
 | 20220807T20:07:37Z | This tool is for exploiting rice cooker and for educational purposes only. | https://github.com/Z4RP1HR/RCE | 0 | 0| 
 | 20220807T19:11:34Z | Null | https://github.com/Arun89-crypto/BinaryExploitation | 0 | 0| 
+| 20220807T18:27:08Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 161 | 36| 
 | 20220807T16:21:53Z | Use of Password Hash Instead of Password for Authentication in FAST OS DOCKER | https://github.com/ehtec/fast-os-docker-exploit | 0 | 0| 
-| 20220807T12:53:59Z | BlestSploit Framework, Blest Boyz ekibinden Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | 3 | 0| 
 
 
 # backdoor on Github 推荐
