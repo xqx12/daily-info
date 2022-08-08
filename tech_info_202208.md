@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220808T00:43:09Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
 | 20220807T18:27:14Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
-| 20220807T18:16:16Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
 | 20220807T17:23:22Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472,And automatically recover the domain control machine hash | https://github.com/lele8/CVE-2020-1472 | | 
 | 20220806T13:11:15Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
 | 20220806T13:05:12Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
