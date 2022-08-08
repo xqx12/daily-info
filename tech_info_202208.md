@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220808T00:15:56Z | Null | https://github.com/cipyermoon-T/backdoor.py | 0 | 0| 
 | 20220807T21:49:22Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 121 | 33| 
 | 20220807T15:50:50Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 22 | 17| 
 | 20220807T10:52:31Z | Dual_EC_DRBG recovery attack | https://github.com/ericlagergren/dualec | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20220806T20:57:10Z | Grub2 with backdoor modifications allowing the LUKS password to be sent over HTTP to a remote server when it is entered. | https://github.com/nstarke/backdoored-grub2 | 1 | 0| 
 | 20220806T19:49:39Z | ; ( | https://github.com/melamaze/Backdoor-identification | 1 | 0| 
 | 20220806T03:31:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 535 | 107| 
-| 20220806T03:10:43Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 77 | 24| 
 
 
 # symbolic execution on Github 推荐
