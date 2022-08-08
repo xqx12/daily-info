@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220808T00:49:01Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | 0 | 0| 
 | 20220807T23:52:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 915 | 238| 
 | 20220807T23:51:27Z | Finity is an Roblox Exploit GUI Library, It has a very sleek design and also has Documentation too! | https://github.com/LocalSmail/Finity | 0 | 0| 
 | 20220807T21:39:16Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1128 | 100| 
@@ -73,7 +74,6 @@
 | 20220807T20:07:37Z | This tool is for exploiting rice cooker and for educational purposes only. | https://github.com/Z4RP1HR/RCE | 0 | 0| 
 | 20220807T19:11:34Z | Null | https://github.com/Arun89-crypto/BinaryExploitation | 0 | 0| 
 | 20220807T18:27:08Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 161 | 36| 
-| 20220807T16:21:53Z | Use of Password Hash Instead of Password for Authentication in FAST OS DOCKER | https://github.com/ehtec/fast-os-docker-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
