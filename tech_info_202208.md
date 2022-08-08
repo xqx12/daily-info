@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220808T01:19:02Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 959 | 74| 
 | 20220808T01:11:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4793 | 494| 
 | 20220808T00:58:58Z | Grammar-based input generation for fuzzing | https://github.com/z2-2z/Chameleon | 1 | 0| 
 | 20220807T21:55:26Z | Null | https://github.com/jphapppy/fuzzy-octo-dollop | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20220807T18:26:58Z | API Wrapper for the Fuzzysearch API | https://github.com/himbolion/fuzzysearch | 0 | 0| 
 | 20220807T16:24:09Z | Null | https://github.com/ishirraov/fuzzy-waddle | 0 | 0| 
 | 20220807T16:17:07Z | Null | https://github.com/aliakbarr7/Fuzzy-Mamdani-Arduino-3in2out | 0 | 0| 
-| 20220807T16:09:46Z | An example C program which contains vulnerable code for common types of vulnerabilities. It can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 420 | 55| 
 
 
 
