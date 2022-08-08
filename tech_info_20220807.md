@@ -85,8 +85,8 @@
 | 20220807T16:24:09Z | Null | https://github.com/ishirraov/fuzzy-waddle | 0 | 0| 
 | 20220807T16:17:07Z | Null | https://github.com/aliakbarr7/Fuzzy-Mamdani-Arduino-3in2out | 0 | 0| 
 | 20220807T16:09:46Z | An example C program which contains vulnerable code for common types of vulnerabilities. It can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 420 | 55| 
-| 20220807T16:08:03Z | Grammar-based input generation for fuzzing | https://github.com/z2-2z/Chameleon | 0 | 0| 
 | 20220807T11:59:13Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 19 | 12| 
+| 20220807T10:41:50Z | The following is a python program to predict the gender of a person using fuzzy logic. It uses a general dataset taken from kaggle. From the dataset the program generates a heatmap to know the correlation between the dataset elements. It also has a GUI for easy user interaction | https://github.com/endurance11/Speech-Prediction-and-Recognition-using-Fuzzy-Logic | 0 | 0| 
 
 
 
