@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20220807 | XSS in Gmails Amp4Email | https://www.adico.me/post/xss-in-gmail-s-amp4email| 
 | 20220807 | [HTB] Europa Writeup | https://mp.weixin.qq.com/s/w2-nMCLqrkxKKivmTB7khw| 
+| 20220807 | 浅谈开源软件供应链风险 | https://mp.weixin.qq.com/s/OZevgo1K3rdP-R0oo0uTng| 
 | 20220806 | Kaggle知识点：时序预测基础知识 | https://mp.weixin.qq.com/s/9eVI-US6vzZmokQWHtHxWQ| 
 | 20220806 | 安全控制有效性验证的发展趋势浅论 | https://mp.weixin.qq.com/s/QEcrByo-j0tK9430zzlSbA| 
 | 20220806 | [HTB] Haircut Writeup | https://www.jgeek.cn/article/106.html| 
@@ -20,13 +21,14 @@
 | 20220805 | 美国关键基础设施网络防御路线发展与调整 | https://mp.weixin.qq.com/s/V2YgN6QOVQksbqiAv-F9Aw| 
 | 20220805 | 攻防演练第四年的一些碎碎念 | https://blog.csdn.net/momo_sleet/article/details/126125082| 
 | 20220805 | MSF多层内网渗透全过程 | https://xz.aliyun.com/t/11588| 
-| 20220803 | 从0-1搭建企业级数据治理体系 | https://mp.weixin.qq.com/s/YvH7V1vivriHRYYMlaj-xQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220807T11:06:39Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220807T18:27:14Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220807T18:16:16Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
+| 20220807T17:23:22Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472,And automatically recover the domain control machine hash | https://github.com/lele8/CVE-2020-1472 | | 
 | 20220806T13:11:15Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
 | 20220806T13:05:12Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
 | 20220806T13:03:57Z | CVE-2022-24086 | Verifed Proof of Concept on CVE-2022-24086 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC | | 
@@ -34,20 +36,18 @@
 | 20220805T13:36:09Z | CVE-2020-35476 | A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter.  | https://github.com/glowbase/CVE-2020-35476 | | 
 | 20220805T10:57:01Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/emanuelandrei/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220805T10:55:06Z | CVE-2021-23841 | Null | https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841 | | 
-| 20220804T21:11:04Z | CVE-2022-34970 | Vulnerability in Crow prior v1.0+4 | https://github.com/0xhebi/CVE-2022-34970 | | 
-| 20220804T13:12:49Z | CVE-2020-2038 | Exploit to capitalize on vulnerability CVE-2020-2038. | https://github.com/und3sc0n0c1d0/CVE-2020-2038 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T16:51:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2033 | 576| 
 | 20220807T03:45:35Z | Config files for my GitHub profile. | https://github.com/Kleelynnx/Kleelynnx | 0 | 0| 
 | 20220807T00:14:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 4 | 0| 
 | 20220806T22:55:12Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220806T22:41:24Z | Modified KLEE%s POSIX File System Runtime | https://github.com/Generative-Program-Analysis/posix-runtime | 0 | 0| 
 | 20220806T10:42:39Z | Null | https://github.com/kleegl/kleegl | 0 | 0| 
 | 20220806T07:51:35Z | VFS implementation for klee | https://github.com/mojyack/klee-vfs | 0 | 0| 
-| 20220806T03:56:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2033 | 576| 
 | 20220805T03:14:43Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 68 | 4| 
 | 20220804T22:42:39Z | Null | https://github.com/Kleeritter/kleeritter | 0 | 0| 
 | 20220804T14:27:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7561 | 263| 
@@ -64,21 +64,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T23:52:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 915 | 238| 
+| 20220807T23:51:27Z | Finity is an Roblox Exploit GUI Library, It has a very sleek design and also has Documentation too! | https://github.com/LocalSmail/Finity | 0 | 0| 
+| 20220807T21:39:16Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1128 | 100| 
+| 20220807T21:31:35Z | Roblox Keyless Exploit Vega X  is the most useful and Key-free Exploit that you can use Roblox Scripts with confidence! This Free Roblox Keyless Exploit Vega X  CheaterMad has been added to our website upon the high demand of our members on our site and has been registered as safe. You can now use your Roblox Scripts with a much safer exploit. Roblox Free Vega X Exploit is updated regularly and is currently UNDETECTED. Scripts in Roblox Keyless Exploit Vega X:      Murder Mystery Roblox Script     Arsenal Roblox Hack Script     Pet Simulator Scripts (Just Populars)     Anime Training Simulator     Mad City Roblox Script      Broken Bones Autofarm Script Hack     Build A Boat Script Hack     Dupe! Pet Simulator X Hack     And More Roblox Scripts and hacks.. | https://github.com/Crukko5253/Roblox-Keyless-Exploit-Vega-X-FREE-ROBLOX-EXPLOIT-VEGA-X-2.1.8A-and-script | 0 | 0| 
+| 20220807T21:05:26Z | Implementation of different coding program exploiting Transfer learning concepts | https://github.com/SMKProj/TransferLearning | 0 | 0| 
+| 20220807T20:45:53Z | Collection of my exploit scripts, bots, and random monitors. Enjoy! | https://github.com/yamsbot/small_projects | 0 | 0| 
+| 20220807T20:07:37Z | This tool is for exploiting rice cooker and for educational purposes only. | https://github.com/Z4RP1HR/RCE | 0 | 0| 
+| 20220807T19:11:34Z | Null | https://github.com/Arun89-crypto/BinaryExploitation | 0 | 0| 
+| 20220807T16:21:53Z | Use of Password Hash Instead of Password for Authentication in FAST OS DOCKER | https://github.com/ehtec/fast-os-docker-exploit | 0 | 0| 
 | 20220807T12:53:59Z | BlestSploit Framework, Blest Boyz ekibinden Exploits, Payloads, Posts ve Daha Fazlası gibi yayınlanmış modüllerle bir framework! | https://github.com/G00Dway/BlestSploit | 3 | 0| 
-| 20220807T12:19:51Z | IRC botnet. Mainly used for launch denial of service attacks. Spread by doing scope or random scanning on default SSH port and exploit through the http protocol. | https://github.com/boz3r/Fatebot | 0 | 2| 
-| 20220807T11:52:31Z | Performance Exploitation in Low Computing Cost Model-Based EfficientDet for UAV Object Detection | https://github.com/IritaSee/bachelor_thesis | 0 | 0| 
-| 20220807T11:51:05Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 910 | 238| 
-| 20220807T11:26:01Z | Sharing our knowledge and resources in the field of cyber security. | https://github.com/PwnLabMe-Project/Security-Resources | 20 | 1| 
-| 20220807T11:18:17Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9283 | 1535| 
-| 20220807T09:35:17Z | Follow up EPSS | https://github.com/gunh0/exploit-prediction | 0 | 0| 
-| 20220807T08:23:53Z | exe-to-doc-exploits | https://github.com/Gan02s/exe-to-doc-exploits | 9 | 0| 
-| 20220807T08:23:49Z | Null | https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT | 8 | 0| 
-| 20220807T08:23:46Z | Null | https://github.com/Gan02s/PDF-DOC-XLS-EXPLOIT | 10 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T21:49:22Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 121 | 33| 
+| 20220807T15:50:50Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 22 | 17| 
 | 20220807T10:52:31Z | Dual_EC_DRBG recovery attack | https://github.com/ericlagergren/dualec | 0 | 0| 
 | 20220807T04:05:11Z | A BackDoor Bot made using discord.py! | https://github.com/ZukoHD/BackDoorBot | 0 | 0| 
 | 20220807T03:34:58Z | Best webshell backdoor  | https://github.com/Naughty-SEC/Shell-backdoor | 1 | 2| 
@@ -87,8 +89,6 @@
 | 20220806T19:49:39Z | ; ( | https://github.com/melamaze/Backdoor-identification | 1 | 0| 
 | 20220806T03:31:27Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 535 | 107| 
 | 20220806T03:10:43Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 77 | 24| 
-| 20220805T20:23:29Z | Null | https://github.com/SCLBD/BackdoorBench | 38 | 3| 
-| 20220805T12:15:27Z | Kendi bilgisayarınızın kontrolünü başka bilgisayara vermek istediğinizde kullanabileceğiniz bir python projesi | https://github.com/aysuyld/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220807T21:55:26Z | Null | https://github.com/jphapppy/fuzzy-octo-dollop | 0 | 0| 
+| 20220807T21:45:05Z | Null | https://github.com/priitpu/fuzzy-couscous | 0 | 0| 
+| 20220807T21:29:37Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 13 | 3| 
+| 20220807T20:39:26Z | Null | https://github.com/samanarevan/fuzzy-robot | 0 | 0| 
+| 20220807T18:26:58Z | API Wrapper for the Fuzzysearch API | https://github.com/himbolion/fuzzysearch | 0 | 0| 
+| 20220807T16:24:09Z | Null | https://github.com/ishirraov/fuzzy-waddle | 0 | 0| 
+| 20220807T16:17:07Z | Null | https://github.com/aliakbarr7/Fuzzy-Mamdani-Arduino-3in2out | 0 | 0| 
+| 20220807T16:09:46Z | An example C program which contains vulnerable code for common types of vulnerabilities. It can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 420 | 55| 
+| 20220807T16:08:03Z | Grammar-based input generation for fuzzing | https://github.com/z2-2z/Chameleon | 0 | 0| 
 | 20220807T11:59:13Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 19 | 12| 
-| 20220807T10:41:50Z | The following is a python program to predict the gender of a person using fuzzy logic. It uses a general dataset taken from kaggle. From the dataset the program generates a heatmap to know the correlation between the dataset elements. It also has a GUI for easy user interaction | https://github.com/endurance11/Speech-Prediction-and-Recognition-using-Fuzzy-Logic | 0 | 0| 
-| 20220807T10:06:42Z | Null | https://github.com/leeeeys/fuzzy-train | 0 | 0| 
-| 20220807T06:50:51Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at BlackHat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 12 | 3| 
-| 20220807T03:42:01Z | Null | https://github.com/reallyQ/Fuzz | 0 | 0| 
-| 20220807T00:14:30Z | CSSI 2022 Day 9 | https://github.com/sophiaawang/Fuzzy-Personality-Quiz | 0 | 0| 
-| 20220806T23:30:41Z | Null | https://github.com/Slinvak/fuzzy-octo-barnacle | 0 | 0| 
-| 20220806T22:05:25Z | FuzzyCircuit-3000 Solve all Analog circuit as the Fuzzy Number | https://github.com/TomCoalfish/FuzzyCircuit-3000 | 0 | 0| 
-| 20220806T21:19:21Z | Null | https://github.com/fuzzrye/fuzzrye.github.io | 0 | 0| 
-| 20220806T20:39:59Z | Null | https://github.com/Xicks/d-FuzzStream-Python | 0 | 0| 
 
 
 
