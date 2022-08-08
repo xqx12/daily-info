@@ -64,11 +64,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220808T01:34:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3677 | 554| 
 | 20220808T01:08:31Z | about me or smth | https://github.com/YieldingExploiter/YieldingExploiter | 0 | 0| 
 | 20220808T00:51:12Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g | 0 | 0| 
 | 20220808T00:50:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-g | 0 | 0| 
 | 20220808T00:49:01Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | 0 | 0| 
-| 20220808T00:21:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3676 | 554| 
 | 20220807T23:52:07Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 915 | 238| 
 | 20220807T23:51:27Z | Finity is an Roblox Exploit GUI Library, It has a very sleek design and also has Documentation too! | https://github.com/LocalSmail/Finity | 0 | 0| 
 | 20220807T21:39:16Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1128 | 100| 
