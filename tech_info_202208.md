@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220808T01:08:31Z | about me or smth | https://github.com/YieldingExploiter/YieldingExploiter | 0 | 0| 
 | 20220808T00:51:12Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g | 0 | 0| 
 | 20220808T00:50:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-g | 0 | 0| 
 | 20220808T00:49:01Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20220807T21:31:35Z | Roblox Keyless Exploit Vega X  is the most useful and Key-free Exploit that you can use Roblox Scripts with confidence! This Free Roblox Keyless Exploit Vega X  CheaterMad has been added to our website upon the high demand of our members on our site and has been registered as safe. You can now use your Roblox Scripts with a much safer exploit. Roblox Free Vega X Exploit is updated regularly and is currently UNDETECTED. Scripts in Roblox Keyless Exploit Vega X:      Murder Mystery Roblox Script     Arsenal Roblox Hack Script     Pet Simulator Scripts (Just Populars)     Anime Training Simulator     Mad City Roblox Script      Broken Bones Autofarm Script Hack     Build A Boat Script Hack     Dupe! Pet Simulator X Hack     And More Roblox Scripts and hacks.. | https://github.com/Crukko5253/Roblox-Keyless-Exploit-Vega-X-FREE-ROBLOX-EXPLOIT-VEGA-X-2.1.8A-and-script | 0 | 0| 
 | 20220807T21:05:26Z | Implementation of different coding program exploiting Transfer learning concepts | https://github.com/SMKProj/TransferLearning | 0 | 0| 
 | 20220807T20:45:53Z | Collection of my exploit scripts, bots, and random monitors. Enjoy! | https://github.com/yamsbot/small_projects | 0 | 0| 
-| 20220807T20:07:37Z | This tool is for exploiting rice cooker and for educational purposes only. | https://github.com/Z4RP1HR/RCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
