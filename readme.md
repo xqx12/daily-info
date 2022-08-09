@@ -80,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220808T23:08:57Z | Ejemplos de lógica difusa para curso. | https://github.com/erojasfredini/Fuzzy | 0 | 0| 
+| 20220808T23:01:28Z | Null | https://github.com/Suraj-Siddharudh/AMF-Fuzzer | 0 | 0| 
+| 20220808T22:32:32Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2503 | 277| 
+| 20220808T21:55:58Z | Null | https://github.com/dmitrylala/lua_fuzzer | 0 | 0| 
+| 20220808T21:24:38Z | Testing out a basic Actions | https://github.com/PWC-Test-Org/fuzzy-adventure | 0 | 0| 
+| 20220808T21:10:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7659 | 1649| 
+| 20220808T14:38:46Z | #Whatsapp MD Bot #termux | https://github.com/Joker-Ofc/Fuzzy-Bot | 0 | 0| 
+| 20220808T14:01:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2580 | 175| 
 | 20220808T11:44:49Z | Fuzzle: Making a Puzzle for Fuzzers (ASE%22) | https://github.com/SoftSec-KAIST/Fuzzle | 4 | 0| 
 | 20220808T11:42:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 914 | 105| 
-| 20220808T11:24:30Z | Null | https://github.com/fuzzrye/fuzzrye.github.io | 0 | 0| 
-| 20220808T09:20:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7655 | 1651| 
-| 20220808T08:28:55Z | Null | https://github.com/Detnakone/fuzzy-bassoon | 0 | 0| 
-| 20220808T08:04:37Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 21 | 13| 
-| 20220808T07:54:49Z | Portfolio website (Web Dev internship for UNIcompiler | https://github.com/Sanjay22ai/fuzzy-system | 0 | 0| 
-| 20220808T07:48:32Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1428 | 63| 
-| 20220808T01:19:02Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 959 | 74| 
-| 20220808T01:11:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4793 | 494| 
 
 
 
