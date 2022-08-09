@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220809T12:41:04Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 926 | 240| 
+| 20220809T12:41:04Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 926 | 241| 
 | 20220809T11:54:26Z | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | 3 | 0| 
 | 20220809T10:51:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3703 | 554| 
 | 20220809T10:28:38Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1261 | 219| 
