@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220809T01:53:14Z | A collection of notes for exploiting and abusing Active Directory environments. | https://github.com/glowbase/active-directory-abuse-notes | 0 | 0| 
 | 20220809T01:02:26Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-w | 0 | 0| 
 | 20220809T01:01:40Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-w | 0 | 0| 
 | 20220809T01:00:53Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-w | 0 | 0| 
@@ -73,12 +74,12 @@
 | 20220808T20:01:12Z |  Invoke credentials in the shell. It results in the elevation of current permissions and allows for remote code execution. | https://github.com/kiolesis/Batch-Exploit | 0 | 0| 
 | 20220808T18:07:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11819 | 2038| 
 | 20220808T11:49:58Z | fortnite-exploits | https://github.com/fedeeendy/fortnite-exploits | 0 | 0| 
-| 20220808T11:45:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3689 | 554| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220809T01:58:02Z | Null | https://github.com/kamar101/Backdoor | 0 | 0| 
 | 20220808T23:20:41Z | Backdoor multi-função programado em c++ usando a API do Windows, quase não usando a biblioteca padrão. | https://github.com/EnderMega/Backdoor-Amil | 0 | 0| 
 | 20220808T22:04:33Z | Backdoor Bellingham HTML/CSS project that highlights the beauty of the city of subdued excitement! | https://github.com/dwstrong5/Backdoor-Bellingham | 0 | 0| 
 | 20220808T18:19:01Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 23 | 9| 
@@ -88,7 +89,6 @@
 | 20220808T00:02:09Z | Implemented machine learning-based inverse probability weighting and backdoor adjustment tools to investigate the effect of India%s premier child supplemental nutrition program (ICDS) on nutritional status. Found no evidence of positive average causal effect on childhood nutritional outcomes. | https://github.com/saulrichardson/The-Billion-Dollar-Failure-to-Fix-Indian-Undernutrition | 0 | 0| 
 | 20220807T15:50:50Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 22 | 17| 
 | 20220807T10:52:31Z | Dual_EC_DRBG recovery attack | https://github.com/ericlagergren/dualec | 0 | 0| 
-| 20220807T04:05:11Z | A BackDoor Bot made using discord.py! | https://github.com/ZukoHD/BackDoorBot | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -117,6 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220809T01:50:41Z | Null | https://github.com/sslab-gatech/RoboFuzz | 0 | 0| 
+| 20220809T01:50:12Z | A list of references to fuzzing resources for wifi security testing. | https://github.com/chibataiki/WiFi-Security | 0 | 0| 
 | 20220809T01:29:05Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2504 | 277| 
 | 20220809T00:57:18Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 17 | 4| 
 | 20220808T23:08:57Z | Ejemplos de lógica difusa para curso. | https://github.com/erojasfredini/Fuzzy | 0 | 0| 
@@ -125,8 +127,6 @@
 | 20220808T21:24:38Z | Testing out a basic Actions | https://github.com/PWC-Test-Org/fuzzy-adventure | 0 | 0| 
 | 20220808T21:10:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7659 | 1649| 
 | 20220808T14:38:46Z | #Whatsapp MD Bot #termux | https://github.com/Joker-Ofc/Fuzzy-Bot | 0 | 0| 
-| 20220808T14:01:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2580 | 175| 
-| 20220808T11:44:49Z | Fuzzle: Making a Puzzle for Fuzzers (ASE%22) | https://github.com/SoftSec-KAIST/Fuzzle | 4 | 0| 
 
 
 
