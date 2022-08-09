@@ -65,8 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220809T12:41:04Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 926 | 241| 
 | 20220809T11:54:26Z | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | 3 | 0| 
-| 20220809T11:50:21Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 925 | 240| 
 | 20220809T10:51:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3703 | 554| 
 | 20220809T10:28:38Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1261 | 219| 
 | 20220809T10:16:53Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 610 | 110| 
