@@ -81,7 +81,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220808T23:08:57Z | Ejemplos de lógica difusa para curso. | https://github.com/erojasfredini/Fuzzy | 0 | 0| 
 | 20220808T23:01:28Z | Null | https://github.com/Suraj-Siddharudh/AMF-Fuzzer | 0 | 0| 
-| 20220808T22:32:32Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2503 | 277| 
 | 20220808T21:55:58Z | Null | https://github.com/dmitrylala/lua_fuzzer | 0 | 0| 
 | 20220808T21:24:38Z | Testing out a basic Actions | https://github.com/PWC-Test-Org/fuzzy-adventure | 0 | 0| 
 | 20220808T21:10:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7659 | 1649| 
@@ -89,6 +88,7 @@
 | 20220808T14:01:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2580 | 175| 
 | 20220808T11:44:49Z | Fuzzle: Making a Puzzle for Fuzzers (ASE%22) | https://github.com/SoftSec-KAIST/Fuzzle | 4 | 0| 
 | 20220808T11:42:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 914 | 105| 
+| 20220808T11:24:30Z | Null | https://github.com/fuzzrye/fuzzrye.github.io | 0 | 0| 
 
 
 

@@ -117,10 +117,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220809T01:29:05Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2504 | 277| 
 | 20220809T00:57:18Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 17 | 4| 
 | 20220808T23:08:57Z | Ejemplos de lógica difusa para curso. | https://github.com/erojasfredini/Fuzzy | 0 | 0| 
 | 20220808T23:01:28Z | Null | https://github.com/Suraj-Siddharudh/AMF-Fuzzer | 0 | 0| 
-| 20220808T22:32:32Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2503 | 277| 
 | 20220808T21:55:58Z | Null | https://github.com/dmitrylala/lua_fuzzer | 0 | 0| 
 | 20220808T21:24:38Z | Testing out a basic Actions | https://github.com/PWC-Test-Org/fuzzy-adventure | 0 | 0| 
 | 20220808T21:10:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7659 | 1649| 
