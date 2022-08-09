@@ -21,7 +21,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220808T18:26:00Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220808T14:05:59Z | CVE-2022-22620 | Webkit (Safari) - Exploit | https://github.com/springsec/CVE-2022-22620 | | 
-| 20220808T10:48:55Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
 | 20220808T04:56:31Z | CVE-2021-20038 | Null | https://github.com/vesperp/CVE-2021-20038-SonicWall-RCE | | 
 | 20220808T02:38:38Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
 
