@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220810T01:35:52Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
 | 20220810T00:54:58Z | CVE-2022-29968 | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | | 
 | 20220809T23:17:40Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
 | 20220809T17:54:53Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
 | 20220809T14:28:51Z | CVE-2022-21881 | POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox | https://github.com/theabysslabs/CVE-2022-21881 | | 
 | 20220809T09:06:12Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
-| 20220809T07:52:28Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
 | 20220809T07:44:56Z | CVE-2022-22620 | Webkit (Safari) - Exploit | https://github.com/springsec/CVE-2022-22620 | | 
 | 20220809T06:06:00Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472,And automatically recover the domain control machine hash | https://github.com/lele8/CVE-2020-1472 | | 
 | 20220808T18:26:00Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 

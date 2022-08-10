@@ -23,7 +23,6 @@
 | 20220809T17:54:53Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
 | 20220809T14:28:51Z | CVE-2022-21881 | POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox | https://github.com/theabysslabs/CVE-2022-21881 | | 
 | 20220809T09:06:12Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
-| 20220809T07:52:28Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
 | 20220809T07:44:56Z | CVE-2022-22620 | Webkit (Safari) - Exploit | https://github.com/springsec/CVE-2022-22620 | | 
 | 20220809T06:06:00Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472,And automatically recover the domain control machine hash | https://github.com/lele8/CVE-2020-1472 | | 
 
