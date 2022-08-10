@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T01:46:22Z | Exploiting unlabeled data with vision and language models for object detection, ECCV 2022 | https://github.com/xiaofeng94/VL-PLM | 27 | 1| 
 | 20220810T01:24:58Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-j | 0 | 0| 
 | 20220810T01:23:34Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-j | 0 | 0| 
 | 20220810T01:22:30Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-j | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20220809T23:39:51Z | Null | https://github.com/nukanoto/audius-exploit | 0 | 0| 
 | 20220809T22:54:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4826 | 603| 
 | 20220809T22:43:42Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1581 | 328| 
-| 20220809T21:43:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 930 | 241| 
 
 
 # backdoor on Github 推荐
@@ -127,8 +127,8 @@
 | 20220809T23:18:19Z | Null | https://github.com/justinTsugranes/fuzzy-turtle | 0 | 0| 
 | 20220809T20:46:01Z | Experimental fuzzer for PHP libraries | https://github.com/nikic/PHP-Fuzzer | 318 | 12| 
 | 20220809T19:58:40Z | 📈 Uptime monitor and status page for Upptime, powered by @upptime | https://github.com/chubchenko/fuzzy-system | 0 | 0| 
+| 20220809T14:47:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4796 | 494| 
 | 20220809T12:44:56Z | Null | https://github.com/gorkemmt/Matlab_Fuzzy_Logic_Kullanarak_Camasir_Makinesi | 0 | 0| 
-| 20220809T12:08:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7665 | 1648| 
 
 
 

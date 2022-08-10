@@ -47,11 +47,11 @@
 | 20220809T22:43:42Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1581 | 328| 
 | 20220809T21:43:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 930 | 241| 
 | 20220809T21:06:02Z | Null | https://github.com/zxzxz1/YUB-Exploit | 0 | 0| 
-| 20220809T15:24:22Z | Exploiting unlabeled data with vision and language models for object detection, ECCV 2022 | https://github.com/xiaofeng94/VL-PLM | 28 | 1| 
 | 20220809T14:27:00Z | Finity is a sleek GUI Library for roblox exploits to have a nice, Impressive and customisable GUI for their users. | https://github.com/LocalSmail/Finity | 0 | 0| 
 | 20220809T11:54:26Z | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | 3 | 0| 
 | 20220809T10:51:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3703 | 554| 
 | 20220809T10:28:38Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1261 | 219| 
+| 20220809T10:16:53Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 610 | 110| 
 
 
 # backdoor on Github 推荐
@@ -87,13 +87,13 @@
 | 20220809T23:18:19Z | Null | https://github.com/justinTsugranes/fuzzy-turtle | 0 | 0| 
 | 20220809T20:46:01Z | Experimental fuzzer for PHP libraries | https://github.com/nikic/PHP-Fuzzer | 318 | 12| 
 | 20220809T19:58:40Z | 📈 Uptime monitor and status page for Upptime, powered by @upptime | https://github.com/chubchenko/fuzzy-system | 0 | 0| 
+| 20220809T14:47:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4796 | 494| 
 | 20220809T12:44:56Z | Null | https://github.com/gorkemmt/Matlab_Fuzzy_Logic_Kullanarak_Camasir_Makinesi | 0 | 0| 
 | 20220809T12:08:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7665 | 1648| 
 | 20220809T11:53:55Z | Grammar-based HTTP/2 fuzzer with mutation ability | https://github.com/bahruzjabiyev/frameshifter | 0 | 0| 
 | 20220809T11:34:43Z | My fuzzy types for python | https://github.com/boltholds/turbo-fuzzy | 0 | 0| 
 | 20220809T08:35:50Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 759 | 160| 
 | 20220809T08:19:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4268 | 1027| 
-| 20220809T08:03:52Z | Null | https://github.com/zarzisur/MPPT-comparison-Fuzzy-and-I-controller | 0 | 0| 
 
 
 
