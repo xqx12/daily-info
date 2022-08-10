@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220810T00:04:05Z | A Teleport Exploit for a certain Anticheat and Singleplayer. | https://github.com/PiPaPo4/teleport-exploit | 0 | 0| 
+| 20220810T00:07:35Z | A Teleport Exploit for a certain Anticheat and Singleplayer. | https://github.com/PiPaPo4/teleport-exploit | 0 | 0| 
 | 20220809T23:39:51Z | Null | https://github.com/nukanoto/audius-exploit | 0 | 0| 
 | 20220809T22:54:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4826 | 603| 
 | 20220809T22:49:20Z | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | 0 | 1| 
