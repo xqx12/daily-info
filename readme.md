@@ -38,11 +38,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T12:15:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3726 | 554| 
 | 20220810T11:32:40Z | This is a Electric State Dark RP Exploit. | https://github.com/NathanielTate/PianoClientScript | 0 | 0| 
 | 20220810T11:10:34Z | hcaptcha exploit found by qoft and dort | https://github.com/xhuloo/Hcaptcha-Exploit | 1 | 0| 
 | 20220810T10:59:16Z | CYBER KING SQUAD CSRF Auto Exploiter | https://github.com/Rh077king/Exploiter | 0 | 1| 
 | 20220810T10:54:05Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 933 | 241| 
-| 20220810T10:28:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3725 | 554| 
 | 20220810T10:04:18Z | Access Private Variables in Blockchain | https://github.com/ishinu/Private-Variable-Exploit- | 0 | 0| 
 | 20220810T09:35:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 475 | 137| 
 | 20220810T09:06:52Z | Null | https://github.com/thegoodpirate/exploits | 0 | 0| 
