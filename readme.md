@@ -86,7 +86,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220809T23:32:50Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 49 | 7| 
 | 20220809T23:18:19Z | Null | https://github.com/justinTsugranes/fuzzy-turtle | 0 | 0| 
 | 20220809T20:46:01Z | Experimental fuzzer for PHP libraries | https://github.com/nikic/PHP-Fuzzer | 318 | 12| 
 | 20220809T19:58:40Z | 📈 Uptime monitor and status page for Upptime, powered by @upptime | https://github.com/chubchenko/fuzzy-system | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20220809T11:34:43Z | My fuzzy types for python | https://github.com/boltholds/turbo-fuzzy | 0 | 0| 
 | 20220809T08:35:50Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 759 | 160| 
 | 20220809T08:19:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4268 | 1027| 
+| 20220809T08:03:52Z | Null | https://github.com/zarzisur/MPPT-comparison-Fuzzy-and-I-controller | 0 | 0| 
 
 
 
