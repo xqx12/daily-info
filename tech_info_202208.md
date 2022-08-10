@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T01:58:06Z | Native client coded in C/C++. Fully Unicode compatible. Downloader - Generate a downloader for any exe of your choice with options of execution from memory (RunPE) or disk. UAC Exploit for elevated privileges (Admin rights without UAC notice on Windows 10). Protect process. Impossible to kill process. Kill Windows Defender. Multi-mode, capable of handling both Tor and direct connected clients. On-Join/Connect tasks/Auto-commands Group view Desktop preview option in connection list/table. Thumbnail previews for either screen or webcam that you can move and place anywhere on your screen. Process manager Remote shell Connection manager Services manager Software manager Window manager Registry manager Firewall (IP blacklist from settings) | https://github.com/PowerIsCoding/BitRat-Cracked-SRC-2022 | 0 | 0| 
 | 20220810T01:56:22Z | Identify potentially exploitable HTTP methods using Rust | https://github.com/Ayodub/Rust_HTTP_Method_Enumerator | 0 | 0| 
 | 20220810T01:46:22Z | Exploiting unlabeled data with vision and language models for object detection, ECCV 2022 | https://github.com/xiaofeng94/VL-PLM | 27 | 1| 
 | 20220810T01:24:58Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-j | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20220810T00:54:58Z | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | 1 | 1| 
 | 20220810T00:07:35Z | A Teleport Exploit for a certain Anticheat and Singleplayer. | https://github.com/PiPaPo4/teleport-exploit | 0 | 0| 
 | 20220809T23:39:51Z | Null | https://github.com/nukanoto/audius-exploit | 0 | 0| 
-| 20220809T22:54:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4826 | 603| 
 
 
 # backdoor on Github 推荐
@@ -119,8 +119,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T02:00:09Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 57 | 7| 
 | 20220810T01:31:19Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2556 | 279| 
-| 20220810T01:10:41Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 54 | 7| 
 | 20220810T00:37:35Z | Null | https://github.com/sanjay1019/fuzzy-spoon | 0 | 0| 
 | 20220810T00:27:15Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1706 | 189| 
 | 20220810T00:23:16Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2582 | 175| 
