@@ -49,11 +49,11 @@
 | 20220809T22:49:20Z | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | 0 | 1| 
 | 20220809T21:43:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 930 | 241| 
 | 20220809T21:06:02Z | Null | https://github.com/zxzxz1/YUB-Exploit | 0 | 0| 
-| 20220809T20:32:47Z | This is a pre-authenticated RCE exploit for VMware vRealize Operations Manager | https://github.com/sourceincite/DashOverride | 0 | 2| 
 | 20220809T15:24:22Z | Exploiting unlabeled data with vision and language models for object detection, ECCV 2022 | https://github.com/xiaofeng94/VL-PLM | 28 | 1| 
 | 20220809T14:27:00Z | Finity is a sleek GUI Library for roblox exploits to have a nice, Impressive and customisable GUI for their users. | https://github.com/LocalSmail/Finity | 0 | 0| 
 | 20220809T11:54:26Z | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | 3 | 0| 
 | 20220809T10:51:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3703 | 554| 
+| 20220809T10:28:38Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1261 | 219| 
 
 
 # backdoor on Github 推荐
