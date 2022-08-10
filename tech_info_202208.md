@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T00:04:05Z | A Teleport Exploit for a certain Anticheat and Singleplayer. | https://github.com/PiPaPo4/teleport-exploit | 0 | 0| 
 | 20220809T23:39:51Z | Null | https://github.com/nukanoto/audius-exploit | 0 | 0| 
 | 20220809T22:54:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4826 | 603| 
 | 20220809T22:49:20Z | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | 0 | 1| 
@@ -74,7 +75,6 @@
 | 20220809T15:24:22Z | Exploiting unlabeled data with vision and language models for object detection, ECCV 2022 | https://github.com/xiaofeng94/VL-PLM | 28 | 1| 
 | 20220809T14:27:00Z | Finity is a sleek GUI Library for roblox exploits to have a nice, Impressive and customisable GUI for their users. | https://github.com/LocalSmail/Finity | 0 | 0| 
 | 20220809T11:54:26Z | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | 3 | 0| 
-| 20220809T10:51:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3703 | 554| 
 
 
 # backdoor on Github 推荐
