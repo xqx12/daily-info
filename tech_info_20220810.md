@@ -47,7 +47,7 @@
 | 20220810T09:35:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 475 | 137| 
 | 20220810T09:06:52Z | Null | https://github.com/thegoodpirate/exploits | 0 | 0| 
 | 20220810T07:42:02Z | Trying to make discord scam :< | https://github.com/DorkYBru/discord-exploit | 0 | 0| 
-| 20220810T06:14:50Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 777 | 70| 
+| 20220810T06:52:59Z | Vaile is an exploit client for auto rap battles. | https://github.com/heywhyyoulookinghere/Vaile | 0 | 0| 
 
 
 # backdoor on Github 推荐
