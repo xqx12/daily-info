@@ -65,6 +65,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T01:24:58Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-j | 0 | 0| 
+| 20220810T01:23:34Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-j | 0 | 0| 
+| 20220810T01:22:30Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-j | 0 | 0| 
 | 20220810T01:09:39Z | This is a pre-authenticated RCE exploit for VMware vRealize Operations Manager | https://github.com/sourceincite/DashOverride | 3 | 2| 
 | 20220810T00:54:58Z | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | 1 | 1| 
 | 20220810T00:07:35Z | A Teleport Exploit for a certain Anticheat and Singleplayer. | https://github.com/PiPaPo4/teleport-exploit | 0 | 0| 
@@ -72,9 +75,6 @@
 | 20220809T22:54:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4826 | 603| 
 | 20220809T22:43:42Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1581 | 328| 
 | 20220809T21:43:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 930 | 241| 
-| 20220809T21:06:02Z | Null | https://github.com/zxzxz1/YUB-Exploit | 0 | 0| 
-| 20220809T15:24:22Z | Exploiting unlabeled data with vision and language models for object detection, ECCV 2022 | https://github.com/xiaofeng94/VL-PLM | 28 | 1| 
-| 20220809T14:27:00Z | Finity is a sleek GUI Library for roblox exploits to have a nice, Impressive and customisable GUI for their users. | https://github.com/LocalSmail/Finity | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,7 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220810T01:19:46Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2554 | 279| 
+| 20220810T01:31:19Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2556 | 279| 
 | 20220810T01:10:41Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 54 | 7| 
 | 20220810T00:37:35Z | Null | https://github.com/sanjay1019/fuzzy-spoon | 0 | 0| 
 | 20220810T00:27:15Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1706 | 189| 
