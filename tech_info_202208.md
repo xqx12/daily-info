@@ -65,11 +65,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T00:54:58Z | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | 1 | 1| 
 | 20220810T00:39:22Z | This is a pre-authenticated RCE exploit for VMware vRealize Operations Manager | https://github.com/sourceincite/DashOverride | 2 | 2| 
 | 20220810T00:07:35Z | A Teleport Exploit for a certain Anticheat and Singleplayer. | https://github.com/PiPaPo4/teleport-exploit | 0 | 0| 
 | 20220809T23:39:51Z | Null | https://github.com/nukanoto/audius-exploit | 0 | 0| 
 | 20220809T22:54:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4826 | 603| 
-| 20220809T22:49:20Z | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | 0 | 1| 
 | 20220809T22:43:42Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1581 | 328| 
 | 20220809T21:43:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 930 | 241| 
 | 20220809T21:06:02Z | Null | https://github.com/zxzxz1/YUB-Exploit | 0 | 0| 
