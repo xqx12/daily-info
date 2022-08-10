@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T01:52:39Z | Identify potentially exploitable HTTP methods using Rust | https://github.com/Ayodub/Rust_HTTP_Method_Enumerator | 0 | 0| 
 | 20220810T01:46:22Z | Exploiting unlabeled data with vision and language models for object detection, ECCV 2022 | https://github.com/xiaofeng94/VL-PLM | 27 | 1| 
 | 20220810T01:24:58Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-j | 0 | 0| 
 | 20220810T01:23:34Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-j | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20220810T00:07:35Z | A Teleport Exploit for a certain Anticheat and Singleplayer. | https://github.com/PiPaPo4/teleport-exploit | 0 | 0| 
 | 20220809T23:39:51Z | Null | https://github.com/nukanoto/audius-exploit | 0 | 0| 
 | 20220809T22:54:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4826 | 603| 
-| 20220809T22:43:42Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1581 | 328| 
 
 
 # backdoor on Github 推荐
