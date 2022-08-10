@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220810T01:52:39Z | Identify potentially exploitable HTTP methods using Rust | https://github.com/Ayodub/Rust_HTTP_Method_Enumerator | 0 | 0| 
+| 20220810T01:56:22Z | Identify potentially exploitable HTTP methods using Rust | https://github.com/Ayodub/Rust_HTTP_Method_Enumerator | 0 | 0| 
 | 20220810T01:46:22Z | Exploiting unlabeled data with vision and language models for object detection, ECCV 2022 | https://github.com/xiaofeng94/VL-PLM | 27 | 1| 
 | 20220810T01:24:58Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-j | 0 | 0| 
 | 20220810T01:23:34Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-j | 0 | 0| 
