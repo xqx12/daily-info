@@ -20,7 +20,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220809T23:17:40Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
-| 20220809T22:49:20Z | CVE-2022-29968 | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | | 
 | 20220809T17:54:53Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
 | 20220809T14:28:51Z | CVE-2022-21881 | POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox | https://github.com/theabysslabs/CVE-2022-21881 | | 
 | 20220809T09:06:12Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
