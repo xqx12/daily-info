@@ -124,7 +124,7 @@
 | 20220810T10:13:37Z | Null | https://github.com/SaiGanesh9999/fuzzy-potato | 0 | 0| 
 | 20220810T07:32:53Z | Null | https://github.com/yuansec/FuzzDB-pro | 0 | 0| 
 | 20220810T06:33:15Z | Null | https://github.com/ericf1/fuzzy-match-geocode | 0 | 0| 
-| 20220810T06:18:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4270 | 1030| 
+| 20220810T06:18:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4270 | 1031| 
 | 20220810T03:44:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7666 | 1649| 
 | 20220810T02:00:09Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 57 | 7| 
 | 20220810T01:31:19Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2556 | 279| 
