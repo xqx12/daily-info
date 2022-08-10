@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220810T12:16:48Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 934 | 241| 
+| 20220810T12:52:57Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 935 | 241| 
 | 20220810T12:15:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3726 | 554| 
 | 20220810T11:32:40Z | This is a Electric State Dark RP Exploit. | https://github.com/NathanielTate/PianoClientScript | 0 | 0| 
 | 20220810T11:10:34Z | hcaptcha exploit found by qoft and dort | https://github.com/xhuloo/Hcaptcha-Exploit | 1 | 0| 
