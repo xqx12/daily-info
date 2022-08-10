@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220809T11:54:26Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
+| 20220809T23:17:40Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
+| 20220809T22:49:20Z | CVE-2022-29968 | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | | 
+| 20220809T17:54:53Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
+| 20220809T14:28:51Z | CVE-2022-21881 | POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox | https://github.com/theabysslabs/CVE-2022-21881 | | 
 | 20220809T09:06:12Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
 | 20220809T07:52:28Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
 | 20220809T07:44:56Z | CVE-2022-22620 | Webkit (Safari) - Exploit | https://github.com/springsec/CVE-2022-22620 | | 
 | 20220809T06:06:00Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472,And automatically recover the domain control machine hash | https://github.com/lele8/CVE-2020-1472 | | 
 | 20220808T18:26:00Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220808T04:56:31Z | CVE-2021-20038 | Null | https://github.com/vesperp/CVE-2021-20038-SonicWall-RCE | | 
-| 20220807T20:37:31Z | CVE-2022-29464 | A bots loader for CVE-2022-29464 with multithreading | https://github.com/Inplex-sys/CVE-2022-29464-loader | | 
-| 20220806T13:11:15Z | 未知编号 | Null | https://github.com/0x414141414/Silent-Word-Exploit-CVE-2022 | | 
-| 20220806T13:05:12Z | cve-2022-32224 | Null | https://github.com/ooooooo-q/cve-2022-32224-rails | | 
 
 
 # klee on Github 推荐
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220809T12:41:04Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 926 | 241| 
+| 20220809T23:39:51Z | Null | https://github.com/nukanoto/audius-exploit | 0 | 0| 
+| 20220809T22:54:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4826 | 603| 
+| 20220809T22:49:20Z | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | 0 | 1| 
+| 20220809T21:43:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 930 | 241| 
+| 20220809T21:06:02Z | Null | https://github.com/zxzxz1/YUB-Exploit | 0 | 0| 
+| 20220809T20:32:47Z | This is a pre-authenticated RCE exploit for VMware vRealize Operations Manager | https://github.com/sourceincite/DashOverride | 0 | 2| 
+| 20220809T15:24:22Z | Exploiting unlabeled data with vision and language models for object detection, ECCV 2022 | https://github.com/xiaofeng94/VL-PLM | 28 | 1| 
+| 20220809T14:27:00Z | Finity is a sleek GUI Library for roblox exploits to have a nice, Impressive and customisable GUI for their users. | https://github.com/LocalSmail/Finity | 0 | 0| 
 | 20220809T11:54:26Z | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | 3 | 0| 
 | 20220809T10:51:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3703 | 554| 
-| 20220809T10:28:38Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1261 | 219| 
-| 20220809T10:16:53Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 610 | 110| 
-| 20220809T10:01:22Z | Exploits | https://github.com/b8ff/Exploits | 4 | 2| 
-| 20220809T09:43:50Z | Easily find analytics on the recent Nomad Protocol exploit! | https://github.com/fourwadu/nomadhack | 0 | 0| 
-| 20220809T09:34:29Z | Null | https://github.com/Keyvanhardani/Exploit-eShop-Multipurpose-Ecommerce-Store-Website-3.0.4-Cross-Site-Scripting-XSS | 1 | 0| 
-| 20220809T09:19:16Z | Null | https://github.com/khizar345/Cyber-Exploits-and-Vulnerabilities-for-Ethical-Hackers | 0 | 0| 
-| 20220809T08:30:59Z | This include all the exploits of pwn101 labs on tryhackme  | https://github.com/0xpr4bin/pwn101 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220809T22:40:14Z | Bash Script with 4 ways to get persistence in Linux systems WITHOUT root permisions | https://github.com/S12cybersecurity/Infinite-Backdoors | 1 | 0| 
+| 20220809T20:12:53Z | Solution tool for backdoor.sdslabs.co | https://github.com/animotto/sdslabs-backdoor | 0 | 0| 
+| 20220809T19:59:59Z | Um backdoor escrito em C++ usando a API do Windows (winapi) e quase não usando a biblioteca padrão. | https://github.com/EnderMega/Backdoor-Amil | 0 | 0| 
+| 20220809T17:58:29Z | An installable plugin that will give you unrestricted access to the server%s file system and allow for uninterrupted or undetected access. | https://github.com/notmike101/Wordpress-Backdoor-Plugin | 2 | 0| 
 | 20220809T11:09:42Z | Null | https://github.com/Iabellavita/Simple-Backdoor | 1 | 0| 
 | 20220809T02:34:49Z | Backdoor feito em python | https://github.com/Thorkrz/zanguetsudoor | 0 | 0| 
 | 20220809T02:22:13Z | Null | https://github.com/kamar101/Backdoor | 0 | 0| 
-| 20220808T23:20:41Z | Backdoor multi-função programado em c++ usando a API do Windows, quase não usando a biblioteca padrão. | https://github.com/EnderMega/Backdoor-Amil | 0 | 0| 
 | 20220808T22:04:33Z | Backdoor Bellingham HTML/CSS project that highlights the beauty of the city of subdued excitement! | https://github.com/dwstrong5/Backdoor-Bellingham | 0 | 0| 
 | 20220808T18:19:01Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 23 | 9| 
 | 20220808T16:24:34Z | Null | https://github.com/Zer0Sploit/backdoor | 0 | 0| 
-| 20220808T16:04:56Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 122 | 33| 
-| 20220808T00:15:56Z | Null | https://github.com/cipyermoon-T/backdoor.py | 0 | 0| 
-| 20220808T00:02:09Z | Implemented machine learning-based inverse probability weighting and backdoor adjustment tools to investigate the effect of India%s premier child supplemental nutrition program (ICDS) on nutritional status. Found no evidence of positive average causal effect on childhood nutritional outcomes. | https://github.com/saulrichardson/The-Billion-Dollar-Failure-to-Fix-Indian-Undernutrition | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
