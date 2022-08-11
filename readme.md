@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T12:05:20Z | Null | https://github.com/Xcod3bughunt3r/Xcod3-ExploitDB-BinSploits | 0 | 0| 
 | 20220811T11:25:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3475 | 413| 
 | 20220811T11:10:24Z | Null | https://github.com/wo1fbit/Custom-Exploits | 0 | 0| 
 | 20220811T11:03:41Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1394 | 150| 
@@ -59,7 +60,6 @@
 | 20220811T08:40:54Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 14 | 3| 
 | 20220811T08:18:35Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 622 | 117| 
 | 20220811T04:49:47Z | Null | https://github.com/TYG-PHchien/TYG_Exploit | 2 | 0| 
-| 20220811T01:08:05Z | Future home of the worlds largest repo of Python exploits. Some by me, most by smarter people. | https://github.com/MythicStack/Python-Security-Tool-Database | 0 | 0| 
 
 
 # backdoor on Github 推荐
