@@ -51,10 +51,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T12:50:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3476 | 413| 
 | 20220811T12:46:10Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 623 | 117| 
 | 20220811T12:36:16Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4583 | 1594| 
 | 20220811T12:05:20Z | Null | https://github.com/Xcod3bughunt3r/Xcod3-ExploitDB-BinSploits | 0 | 0| 
-| 20220811T11:25:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3475 | 413| 
 | 20220811T11:10:24Z | Null | https://github.com/wo1fbit/Custom-Exploits | 0 | 0| 
 | 20220811T11:03:41Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1394 | 150| 
 | 20220811T10:02:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3737 | 554| 
