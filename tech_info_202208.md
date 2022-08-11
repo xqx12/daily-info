@@ -119,11 +119,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T00:53:38Z | Null | https://github.com/google/fuzztest | 2 | 0| 
 | 20220811T00:39:49Z | Null | https://github.com/AxelFuzzi/react_tienda_hardware_fuzzi | 0 | 0| 
 | 20220810T22:48:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 924 | 106| 
 | 20220810T21:55:38Z | Null | https://github.com/Jadentr44/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20220810T21:45:45Z | Testing out a basic Actions | https://github.com/PWC-Test-Org/fuzzy-adventure | 0 | 0| 
-| 20220810T21:28:28Z | Null | https://github.com/google/fuzztest | 1 | 0| 
 | 20220810T20:51:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2582 | 175| 
 | 20220810T18:43:40Z | Null | https://github.com/baudhyas/COVID-19-CLASSIFICATION-USING-CNN-AND-FUZZY-LOGIC-APPROACH-IN-CHEST-X-RAY-IMAGES | 0 | 0| 
 | 20220810T13:03:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7667 | 1650| 

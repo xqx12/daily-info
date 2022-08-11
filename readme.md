@@ -80,13 +80,13 @@
 | 20220810T22:48:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 924 | 106| 
 | 20220810T21:55:38Z | Null | https://github.com/Jadentr44/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20220810T21:45:45Z | Testing out a basic Actions | https://github.com/PWC-Test-Org/fuzzy-adventure | 0 | 0| 
-| 20220810T21:28:28Z | Null | https://github.com/google/fuzztest | 1 | 0| 
 | 20220810T20:51:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2582 | 175| 
 | 20220810T18:43:40Z | Null | https://github.com/baudhyas/COVID-19-CLASSIFICATION-USING-CNN-AND-FUZZY-LOGIC-APPROACH-IN-CHEST-X-RAY-IMAGES | 0 | 0| 
 | 20220810T13:03:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7667 | 1650| 
 | 20220810T12:22:35Z | Null | https://github.com/cecile92xc/fuzzy-disco | 0 | 0| 
 | 20220810T11:38:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2913 | 591| 
 | 20220810T10:13:37Z | Null | https://github.com/SaiGanesh9999/fuzzy-potato | 0 | 0| 
+| 20220810T07:32:53Z | Null | https://github.com/yuansec/FuzzDB-pro | 0 | 0| 
 
 
 
