@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220811 | Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling | https://portswigger.net/research/browser-powered-desync-attacks| 
+| 20220811 | CVE-2022-22252: Huawei HWLog Vmalloc Use-After-Free | https://labs.taszk.io/blog/post/79_hw_hwlog_uaf/| 
+| 20220811 | LibAFL: A Framework to Build Modular and Reusable Fuzzers | http://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf| 
+| 20220811 | 8 月份开始，微软将公开 Office 的调试符号 | https://msrc-blog.microsoft.com/2022/08/08/microsoft-office-to-publish-symbols-starting-august-2022/| 
+| 20220811 | 思科 Talos Lab 对思科 5 月份被黑事件的分析 | https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html| 
+| 20220811 | Linux 内核 GC 漏洞（CVE-2021-0920）的分析，该漏洞已有野外利用 | https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html| 
+| 20220811 | Active Directory 环境网络共享配置权限不当问题的分析和利用 | http://www.netspi.com/blog/technical/network-penetration-testing/network-share-permissions-powerhuntshares/| 
+| 20220811 | VMWare vRealize Operations Manager Pre-Authenticated RCE 漏洞的分析 | https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html| 
+| 20220811 | gorilla - 用于生成密码字段的工具 | https://github.com/d4rckh/gorilla| 
 
 
 # 安全维基 推荐
@@ -26,16 +35,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220811T01:40:25Z | CVE-2022-20866 | RSA Key Checker for CVE-2022-20866 | https://github.com/CiscoPSIRT/CVE-2022-20866 | | 
-| 20220811T01:06:37Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
-| 20220810T17:24:04Z | CVE-2022-1040 | This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication | https://github.com/APTIRAN/CVE-2022-1040 | | 
-| 20220810T16:20:24Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
-| 20220810T13:48:42Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
-| 20220810T11:15:48Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
-| 20220810T05:29:04Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
-| 20220810T00:54:58Z | CVE-2022-29968 | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | | 
-| 20220809T17:54:53Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
-| 20220809T14:28:51Z | CVE-2022-21881 | POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox | https://github.com/theabysslabs/CVE-2022-21881 | | 
+| 20220811T11:58:49Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
+| 20220811T11:21:15Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
+| 20220811T10:47:54Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220811T10:33:47Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
+| 20220811T06:00:13Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
+| 20220811T05:32:54Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
+| 20220811T03:07:18Z | CVE-2022-34970 | Vulnerability in Crow prior v1.0+4 | https://github.com/0xhebi/CVE-2022-34970 | | 
+| 20220811T03:07:14Z | CVE-2022-20866 | RSA Key Checker for CVE-2022-20866 | https://github.com/CiscoPSIRT/CVE-2022-20866 | | 
+| 20220811T03:06:58Z | CVE-2022-1040 | This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication | https://github.com/APTIRAN/CVE-2022-1040 | | 
+| 20220811T02:04:36Z | CVE-2022-21881 | POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox | https://github.com/theabysslabs/CVE-2022-21881 | | 
 
 
 # klee on Github 推荐
@@ -65,31 +74,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T11:25:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3475 | 413| 
+| 20220811T11:10:24Z | Null | https://github.com/wo1fbit/Custom-Exploits | 0 | 0| 
+| 20220811T11:03:41Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1394 | 150| 
+| 20220811T10:02:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3737 | 554| 
+| 20220811T08:50:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4787 | 660| 
+| 20220811T08:47:28Z | Delegate Call Storage Clash Exploit | https://github.com/ishinu/Delegate-Call-Storage-Clashes | 0 | 0| 
+| 20220811T08:40:54Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 14 | 3| 
+| 20220811T08:18:35Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 622 | 117| 
+| 20220811T04:49:47Z | Null | https://github.com/TYG-PHchien/TYG_Exploit | 2 | 0| 
 | 20220811T01:08:05Z | Future home of the worlds largest repo of Python exploits. Some by me, most by smarter people. | https://github.com/MythicStack/Python-Security-Tool-Database | 0 | 0| 
-| 20220811T00:56:46Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-t | 0 | 0| 
-| 20220811T00:56:04Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-t | 0 | 0| 
-| 20220811T00:54:59Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t | 0 | 0| 
-| 20220810T23:27:17Z | Proof of Concept of Audius Protocol Exploit on 2022-07-23 | https://github.com/nukanoto/audius-exploit | 1 | 0| 
-| 20220810T23:17:14Z | Null | https://github.com/trhacknon/Exploiter | 0 | 0| 
-| 20220810T19:49:53Z | Finity is a sleek GUI Library for roblox exploits to have a nice, Impressive and customisable GUI for their users. | https://github.com/LocalSmail/Finity | 1 | 0| 
-| 20220810T18:12:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4785 | 660| 
-| 20220810T12:52:57Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 935 | 241| 
-| 20220810T12:16:28Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 129 | 29| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T10:27:43Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 537 | 107| 
+| 20220811T08:12:22Z | Null | https://github.com/ambouhou/ros2-openshift-publisher-backdoor | 0 | 0| 
+| 20220811T07:21:06Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20220811T06:23:24Z | Null | https://github.com/SCLBD/BackdoorBench | 40 | 4| 
+| 20220811T02:43:21Z | Shell backdoor free bypass | https://github.com/Mr-7Mind/MiniShell | 1 | 0| 
 | 20220811T00:22:57Z | Bash Script with 4 ways to get persistence in Linux systems WITHOUT root permisions | https://github.com/S12cybersecurity/Infinite-Backdoors | 2 | 0| 
-| 20220810T19:59:52Z | Null | https://github.com/ambouhou/ros2-openshift-publisher-backdoor | 0 | 0| 
-| 20220810T08:36:39Z | Null | https://github.com/SCLBD/BackdoorBench | 39 | 4| 
+| 20220810T15:53:04Z | A Golang implant that uses Discord as a C2 team server | https://github.com/kensh1ro/Willie-C2 | 54 | 7| 
 | 20220810T08:21:01Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 24 | 9| 
 | 20220810T08:02:22Z | get persistence in Linux systems w\o root permisions | https://github.com/deepalarm/Infinite-Backdoors | 0 | 0| 
 | 20220809T20:12:53Z | Solution tool for backdoor.sdslabs.co | https://github.com/animotto/sdslabs-backdoor | 0 | 0| 
-| 20220809T19:59:59Z | Um backdoor escrito em C++ usando a API do Windows (winapi) e quase não usando a biblioteca padrão. | https://github.com/EnderMega/Backdoor-Amil | 0 | 0| 
-| 20220809T19:52:54Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 53 | 16| 
-| 20220809T17:58:29Z | An installable plugin that will give you unrestricted access to the server%s file system and allow for uninterrupted or undetected access. | https://github.com/notmike101/Wordpress-Backdoor-Plugin | 2 | 0| 
-| 20220809T13:38:48Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 536 | 107| 
 
 
 # symbolic execution on Github 推荐
