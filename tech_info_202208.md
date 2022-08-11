@@ -119,7 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220811T00:37:11Z | Null | https://github.com/AxelFuzzi/react_tienda_hardware_fuzzi | 0 | 0| 
+| 20220811T00:39:49Z | Null | https://github.com/AxelFuzzi/react_tienda_hardware_fuzzi | 0 | 0| 
 | 20220810T22:48:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 924 | 106| 
 | 20220810T21:55:38Z | Null | https://github.com/Jadentr44/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20220810T21:45:45Z | Testing out a basic Actions | https://github.com/PWC-Test-Org/fuzzy-adventure | 0 | 0| 
