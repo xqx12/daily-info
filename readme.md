@@ -25,7 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220811T11:58:49Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
+| 20220811T12:01:58Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
 | 20220811T11:21:15Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20220811T10:47:54Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220811T10:33:47Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
@@ -87,6 +87,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T11:59:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4274 | 1031| 
+| 20220811T11:47:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7669 | 1650| 
+| 20220811T10:16:07Z | Null | https://github.com/Katimaaka11/fuzzy-spork | 1 | 0| 
+| 20220811T08:38:50Z | 基于c++实现的用户名模糊搜索系统，底层使用了字典树实现 | https://github.com/harry502/FuzzyTree | 0 | 0| 
+| 20220811T07:58:16Z | Fuzzy logic implemented in PyTorch | https://github.com/VanessB/FuzzyTorch | 0 | 0| 
+| 20220811T07:51:30Z | as | https://github.com/realsadaf/fuzzy-doodle | 0 | 0| 
 | 20220811T00:53:38Z | Null | https://github.com/google/fuzztest | 2 | 0| 
 | 20220811T00:39:49Z | Null | https://github.com/AxelFuzzi/react_tienda_hardware_fuzzi | 0 | 0| 
 
