@@ -80,11 +80,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T00:22:57Z | Bash Script with 4 ways to get persistence in Linux systems WITHOUT root permisions | https://github.com/S12cybersecurity/Infinite-Backdoors | 2 | 0| 
 | 20220810T19:59:52Z | Null | https://github.com/ambouhou/ros2-openshift-publisher-backdoor | 0 | 0| 
 | 20220810T08:36:39Z | Null | https://github.com/SCLBD/BackdoorBench | 39 | 4| 
 | 20220810T08:21:01Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 24 | 9| 
 | 20220810T08:02:22Z | get persistence in Linux systems w\o root permisions | https://github.com/deepalarm/Infinite-Backdoors | 0 | 0| 
-| 20220809T22:40:14Z | Bash Script with 4 ways to get persistence in Linux systems WITHOUT root permisions | https://github.com/S12cybersecurity/Infinite-Backdoors | 1 | 0| 
 | 20220809T20:12:53Z | Solution tool for backdoor.sdslabs.co | https://github.com/animotto/sdslabs-backdoor | 0 | 0| 
 | 20220809T19:59:59Z | Um backdoor escrito em C++ usando a API do Windows (winapi) e quase não usando a biblioteca padrão. | https://github.com/EnderMega/Backdoor-Amil | 0 | 0| 
 | 20220809T19:52:54Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 53 | 16| 
