@@ -65,6 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T00:56:46Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-t | 0 | 0| 
+| 20220811T00:56:04Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-t | 0 | 0| 
 | 20220811T00:54:59Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t | 0 | 0| 
 | 20220810T23:27:17Z | Proof of Concept of Audius Protocol Exploit on 2022-07-23 | https://github.com/nukanoto/audius-exploit | 1 | 0| 
 | 20220810T23:17:14Z | Null | https://github.com/trhacknon/Exploiter | 0 | 0| 
@@ -73,8 +75,6 @@
 | 20220810T12:52:57Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 935 | 241| 
 | 20220810T12:16:28Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 129 | 29| 
 | 20220810T12:15:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3726 | 554| 
-| 20220810T11:32:40Z | This is a Electric State Dark RP Exploit. | https://github.com/NathanielTate/PianoClientScript | 0 | 0| 
-| 20220810T11:10:34Z | hcaptcha exploit found by qoft and dort | https://github.com/xhuloo/Hcaptcha-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
