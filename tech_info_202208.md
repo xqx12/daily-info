@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220811T01:40:25Z | CVE-2022-20866 | RSA Key Checker for CVE-2022-20866 | https://github.com/CiscoPSIRT/CVE-2022-20866 | | 
 | 20220811T01:06:37Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220810T17:24:04Z | CVE-2022-1040 | This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication | https://github.com/APTIRAN/CVE-2022-1040 | | 
-| 20220810T16:50:11Z | CVE-2022-20866 | RSA Key Checker for CVE-2022-20866 | https://github.com/CiscoPSIRT/CVE-2022-20866 | | 
 | 20220810T16:20:24Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20220810T13:48:42Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
 | 20220810T11:15:48Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
