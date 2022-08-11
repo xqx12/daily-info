@@ -89,7 +89,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220811T12:08:08Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 4 | 0| 
+| 20220811T12:13:17Z | BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 4 | 0| 
 | 20220811T10:27:43Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 537 | 107| 
 | 20220811T08:12:22Z | Null | https://github.com/ambouhou/ros2-openshift-publisher-backdoor | 0 | 0| 
 | 20220811T07:21:06Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
