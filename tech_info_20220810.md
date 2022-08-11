@@ -22,7 +22,6 @@
 | 20220810T16:20:24Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20220810T13:48:42Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
 | 20220810T11:15:48Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
-| 20220810T08:58:25Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220810T05:29:04Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
 | 20220810T00:54:58Z | CVE-2022-29968 | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | | 
 
