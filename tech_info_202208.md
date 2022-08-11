@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T00:37:11Z | Null | https://github.com/AxelFuzzi/react_tienda_hardware_fuzzi | 0 | 0| 
 | 20220810T22:48:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 924 | 106| 
 | 20220810T21:55:38Z | Null | https://github.com/Jadentr44/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20220810T21:45:45Z | Testing out a basic Actions | https://github.com/PWC-Test-Org/fuzzy-adventure | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20220810T13:03:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7667 | 1650| 
 | 20220810T12:22:35Z | Null | https://github.com/cecile92xc/fuzzy-disco | 0 | 0| 
 | 20220810T11:38:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2913 | 591| 
-| 20220810T10:13:37Z | Null | https://github.com/SaiGanesh9999/fuzzy-potato | 0 | 0| 
 
 
 
