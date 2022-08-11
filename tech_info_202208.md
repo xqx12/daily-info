@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T12:13:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 926 | 106| 
 | 20220811T11:59:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4274 | 1031| 
 | 20220811T11:47:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7669 | 1650| 
 | 20220811T10:16:07Z | Null | https://github.com/Katimaaka11/fuzzy-spork | 1 | 0| 
@@ -136,7 +137,6 @@
 | 20220811T07:51:30Z | as | https://github.com/realsadaf/fuzzy-doodle | 0 | 0| 
 | 20220811T00:53:38Z | Null | https://github.com/google/fuzztest | 2 | 0| 
 | 20220811T00:39:49Z | Null | https://github.com/AxelFuzzi/react_tienda_hardware_fuzzi | 0 | 0| 
-| 20220810T22:48:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 924 | 106| 
 | 20220810T21:55:38Z | Null | https://github.com/Jadentr44/fuzzy-octo-rotary-phone | 0 | 0| 
 
 
