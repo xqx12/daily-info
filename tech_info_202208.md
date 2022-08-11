@@ -89,6 +89,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T12:08:08Z | hiphp is BackDoor to control php-based sites hiphp can be controlled by sending commands, files, and tokens to the site using the http/https protocol. After copying the code and placing it in any php file on the target website, you will have permissions to enter it, read all files, delete and even upload new files to it. Also, this back door is password protected. | https://github.com/yasserbdj96/hiphp | 4 | 0| 
 | 20220811T10:27:43Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 537 | 107| 
 | 20220811T08:12:22Z | Null | https://github.com/ambouhou/ros2-openshift-publisher-backdoor | 0 | 0| 
 | 20220811T07:21:06Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220810T15:53:04Z | A Golang implant that uses Discord as a C2 team server | https://github.com/kensh1ro/Willie-C2 | 54 | 7| 
 | 20220810T08:21:01Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 24 | 9| 
 | 20220810T08:02:22Z | get persistence in Linux systems w\o root permisions | https://github.com/deepalarm/Infinite-Backdoors | 0 | 0| 
-| 20220809T20:12:53Z | Solution tool for backdoor.sdslabs.co | https://github.com/animotto/sdslabs-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
