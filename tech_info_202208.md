@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T23:27:17Z | Proof of Concept of Audius Protocol Exploit on 2022-07-23 | https://github.com/nukanoto/audius-exploit | 1 | 0| 
 | 20220810T23:17:14Z | Null | https://github.com/trhacknon/Exploiter | 0 | 0| 
 | 20220810T19:49:53Z | Finity is a sleek GUI Library for roblox exploits to have a nice, Impressive and customisable GUI for their users. | https://github.com/LocalSmail/Finity | 1 | 0| 
 | 20220810T18:12:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4785 | 660| 
@@ -74,7 +75,6 @@
 | 20220810T11:32:40Z | This is a Electric State Dark RP Exploit. | https://github.com/NathanielTate/PianoClientScript | 0 | 0| 
 | 20220810T11:10:34Z | hcaptcha exploit found by qoft and dort | https://github.com/xhuloo/Hcaptcha-Exploit | 1 | 0| 
 | 20220810T10:59:16Z | CYBER KING SQUAD CSRF Auto Exploiter | https://github.com/Rh077king/Exploiter | 0 | 1| 
-| 20220810T10:04:18Z | Access Private Variables in Blockchain | https://github.com/ishinu/Private-Variable-Exploit- | 0 | 0| 
 
 
 # backdoor on Github 推荐
