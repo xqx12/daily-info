@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220811T12:46:10Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 623 | 117| 
 | 20220811T12:36:16Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4583 | 1594| 
 | 20220811T12:05:20Z | Null | https://github.com/Xcod3bughunt3r/Xcod3-ExploitDB-BinSploits | 0 | 0| 
 | 20220811T11:25:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3475 | 413| 
@@ -83,7 +84,6 @@
 | 20220811T08:50:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4787 | 660| 
 | 20220811T08:47:28Z | Delegate Call Storage Clash Exploit | https://github.com/ishinu/Delegate-Call-Storage-Clashes | 0 | 0| 
 | 20220811T08:40:54Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 14 | 3| 
-| 20220811T08:18:35Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 622 | 117| 
 
 
 # backdoor on Github 推荐
