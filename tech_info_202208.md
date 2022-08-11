@@ -89,7 +89,7 @@
 | 20220809T19:59:59Z | Um backdoor escrito em C++ usando a API do Windows (winapi) e quase não usando a biblioteca padrão. | https://github.com/EnderMega/Backdoor-Amil | 0 | 0| 
 | 20220809T19:52:54Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 53 | 16| 
 | 20220809T17:58:29Z | An installable plugin that will give you unrestricted access to the server%s file system and allow for uninterrupted or undetected access. | https://github.com/notmike101/Wordpress-Backdoor-Plugin | 2 | 0| 
-| 20220809T11:09:42Z | Null | https://github.com/Iabellavita/Simple-Backdoor | 1 | 0| 
+| 20220809T13:38:48Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 536 | 107| 
 
 
 # symbolic execution on Github 推荐
