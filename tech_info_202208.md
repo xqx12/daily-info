@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220810T17:24:04Z | CVE-2022-1040 | This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication | https://github.com/APTIRAN/CVE-2022-1040 | | 
+| 20220810T16:50:11Z | CVE-2022-20866 | RSA Key Checker for CVE-2022-20866 | https://github.com/CiscoPSIRT/CVE-2022-20866 | | 
+| 20220810T16:20:24Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
+| 20220810T13:48:42Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
 | 20220810T11:15:48Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
-| 20220810T10:38:59Z | CVE-2022-1040 | This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication | https://github.com/APTIRAN/CVE-2022-1040 | | 
+| 20220810T08:58:25Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220810T05:29:04Z | CVE-2022-31061 | PoC for GLPI CVE-2022-31061 | https://github.com/Vu0r1-sec/CVE-2022-31061 | | 
-| 20220810T05:11:55Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
 | 20220810T00:54:58Z | CVE-2022-29968 | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | | 
 | 20220809T17:54:53Z | CVE-2021-4034 | Null | https://github.com/0xNix/CVE-2021-4034 | | 
 | 20220809T14:28:51Z | CVE-2022-21881 | POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox | https://github.com/theabysslabs/CVE-2022-21881 | | 
-| 20220809T09:06:12Z | CVE-2021-36260 | 海康威视RCE漏洞 批量检测和利用工具 | https://github.com/Cuerz/CVE-2021-36260 | | 
-| 20220809T07:44:56Z | CVE-2022-22620 | Webkit (Safari) - Exploit | https://github.com/springsec/CVE-2022-22620 | | 
-| 20220809T06:06:00Z | CVE-2020-1472 | Exploit for zerologon cve-2020-1472,And automatically recover the domain control machine hash | https://github.com/lele8/CVE-2020-1472 | | 
 
 
 # klee on Github 推荐
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T23:17:14Z | Null | https://github.com/trhacknon/Exploiter | 0 | 0| 
+| 20220810T19:49:53Z | Finity is a sleek GUI Library for roblox exploits to have a nice, Impressive and customisable GUI for their users. | https://github.com/LocalSmail/Finity | 1 | 0| 
+| 20220810T18:12:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4785 | 660| 
 | 20220810T12:52:57Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 935 | 241| 
+| 20220810T12:16:28Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 129 | 29| 
 | 20220810T12:15:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3726 | 554| 
 | 20220810T11:32:40Z | This is a Electric State Dark RP Exploit. | https://github.com/NathanielTate/PianoClientScript | 0 | 0| 
 | 20220810T11:10:34Z | hcaptcha exploit found by qoft and dort | https://github.com/xhuloo/Hcaptcha-Exploit | 1 | 0| 
 | 20220810T10:59:16Z | CYBER KING SQUAD CSRF Auto Exploiter | https://github.com/Rh077king/Exploiter | 0 | 1| 
 | 20220810T10:04:18Z | Access Private Variables in Blockchain | https://github.com/ishinu/Private-Variable-Exploit- | 0 | 0| 
-| 20220810T09:35:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 475 | 137| 
-| 20220810T09:06:52Z | Null | https://github.com/thegoodpirate/exploits | 0 | 0| 
-| 20220810T07:42:02Z | Trying to make discord scam :< | https://github.com/DorkYBru/discord-exploit | 0 | 0| 
-| 20220810T06:52:59Z | Vaile is an exploit client for auto rap battles. | https://github.com/heywhyyoulookinghere/Vaile | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T19:59:52Z | Null | https://github.com/ambouhou/ros2-openshift-publisher-backdoor | 0 | 0| 
 | 20220810T08:36:39Z | Null | https://github.com/SCLBD/BackdoorBench | 39 | 4| 
 | 20220810T08:21:01Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 24 | 9| 
 | 20220810T08:02:22Z | get persistence in Linux systems w\o root permisions | https://github.com/deepalarm/Infinite-Backdoors | 0 | 0| 
 | 20220809T22:40:14Z | Bash Script with 4 ways to get persistence in Linux systems WITHOUT root permisions | https://github.com/S12cybersecurity/Infinite-Backdoors | 1 | 0| 
 | 20220809T20:12:53Z | Solution tool for backdoor.sdslabs.co | https://github.com/animotto/sdslabs-backdoor | 0 | 0| 
 | 20220809T19:59:59Z | Um backdoor escrito em C++ usando a API do Windows (winapi) e quase não usando a biblioteca padrão. | https://github.com/EnderMega/Backdoor-Amil | 0 | 0| 
+| 20220809T19:52:54Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 53 | 16| 
 | 20220809T17:58:29Z | An installable plugin that will give you unrestricted access to the server%s file system and allow for uninterrupted or undetected access. | https://github.com/notmike101/Wordpress-Backdoor-Plugin | 2 | 0| 
 | 20220809T11:09:42Z | Null | https://github.com/Iabellavita/Simple-Backdoor | 1 | 0| 
-| 20220809T02:34:49Z | Backdoor feito em python | https://github.com/Thorkrz/zanguetsudoor | 0 | 0| 
-| 20220809T02:22:13Z | Null | https://github.com/kamar101/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -110,8 +110,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T15:13:13Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 52 | 10| 
 | 20220809T06:50:30Z | Null | https://github.com/DrGamma78/NDSS2022 | 0 | 0| 
-| 20220806T16:34:48Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 51 | 10| 
 | 20220802T19:09:12Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 11 | 1| 
 | 20220801T13:09:29Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 8 | 2| 
 
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220810T22:48:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 924 | 106| 
+| 20220810T21:55:38Z | Null | https://github.com/Jadentr44/fuzzy-octo-rotary-phone | 0 | 0| 
+| 20220810T21:45:45Z | Testing out a basic Actions | https://github.com/PWC-Test-Org/fuzzy-adventure | 0 | 0| 
+| 20220810T21:28:28Z | Null | https://github.com/google/fuzztest | 1 | 0| 
+| 20220810T20:51:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2582 | 175| 
+| 20220810T18:43:40Z | Null | https://github.com/baudhyas/COVID-19-CLASSIFICATION-USING-CNN-AND-FUZZY-LOGIC-APPROACH-IN-CHEST-X-RAY-IMAGES | 0 | 0| 
+| 20220810T13:03:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7667 | 1650| 
 | 20220810T12:22:35Z | Null | https://github.com/cecile92xc/fuzzy-disco | 0 | 0| 
 | 20220810T11:38:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2913 | 591| 
-| 20220810T10:38:11Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2581 | 175| 
 | 20220810T10:13:37Z | Null | https://github.com/SaiGanesh9999/fuzzy-potato | 0 | 0| 
-| 20220810T07:32:53Z | Null | https://github.com/yuansec/FuzzDB-pro | 0 | 0| 
-| 20220810T06:33:15Z | Null | https://github.com/ericf1/fuzzy-match-geocode | 0 | 0| 
-| 20220810T06:18:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4270 | 1031| 
-| 20220810T03:44:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7666 | 1649| 
-| 20220810T02:00:09Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 57 | 7| 
-| 20220810T01:31:19Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2556 | 279| 
 
 
 
