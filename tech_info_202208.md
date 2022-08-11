@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220811T01:06:18Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
+| 20220811T01:06:37Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20220810T17:24:04Z | CVE-2022-1040 | This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication | https://github.com/APTIRAN/CVE-2022-1040 | | 
 | 20220810T16:50:11Z | CVE-2022-20866 | RSA Key Checker for CVE-2022-20866 | https://github.com/CiscoPSIRT/CVE-2022-20866 | | 
 | 20220810T16:20:24Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220811T01:05:29Z | Future home of the worlds largest repo of Python exploits. Some by me, most by smarter people. | https://github.com/MythicStack/Python-Security-Tool-Database | 0 | 0| 
+| 20220811T01:08:05Z | Future home of the worlds largest repo of Python exploits. Some by me, most by smarter people. | https://github.com/MythicStack/Python-Security-Tool-Database | 0 | 0| 
 | 20220811T00:56:46Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-t | 0 | 0| 
 | 20220811T00:56:04Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-t | 0 | 0| 
 | 20220811T00:54:59Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t | 0 | 0| 
