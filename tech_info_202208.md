@@ -36,7 +36,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220812T01:27:02Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220812T01:44:18Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220811T23:40:12Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20220811T23:37:40Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220811T22:42:14Z | CVE-2022-31262 | GOG Galaxy LPE Exploit | https://github.com/secure-77/CVE-2022-31262 | | 
