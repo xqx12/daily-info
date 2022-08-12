@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220812T12:52:12Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220812T12:39:57Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20220812T12:38:46Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220812T12:37:02Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20220812T07:16:48Z | CVE-2022-24654 | PoC for CVE-2022-24654 | https://github.com/leonardobg/CVE-2022-24654 | | 
 | 20220812T06:49:39Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
@@ -37,8 +37,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T12:53:09Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 325 | 17| 
 | 20220812T12:34:25Z | This repository contains source code,exploit,writeups for various CTF challenges that we have encountered | https://github.com/IIT-BHU-CyberSec/CTF-Collection | 0 | 0| 
-| 20220812T12:33:42Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 324 | 17| 
 | 20220812T10:51:15Z | 0-day and N-day exploitation  | https://github.com/theabysslabs/theabysslabs.github.io | 0 | 0| 
 | 20220812T09:52:14Z | Progress with binary exploitation | https://github.com/adamlevincyber/binary-exploitation | 0 | 0| 
 | 20220812T09:15:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3751 | 554| 
@@ -52,6 +52,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T12:53:23Z | Null | https://github.com/MSI0072/BACKDOOR | 0 | 0| 
 | 20220812T03:54:13Z | Backdoor feito em python | https://github.com/Thorkrz/zanguetsudoor | 0 | 0| 
 
 
