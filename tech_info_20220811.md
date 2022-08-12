@@ -56,13 +56,13 @@
 | 20220811T23:37:40Z | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | 5 | 0| 
 | 20220811T22:42:14Z | GOG Galaxy LPE Exploit | https://github.com/secure-77/CVE-2022-31262 | 0 | 0| 
 | 20220811T22:05:26Z | Stagefright Android exploit   | https://github.com/jaythaceo/Android-exploit | 17 | 6| 
+| 20220811T20:36:56Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 350 | 37| 
 | 20220811T17:45:14Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1396 | 150| 
 | 20220811T17:39:07Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2589 | 404| 
 | 20220811T15:44:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 476 | 137| 
 | 20220811T12:50:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3476 | 413| 
 | 20220811T12:46:10Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 623 | 117| 
 | 20220811T12:36:16Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4583 | 1594| 
-| 20220811T12:05:20Z | Null | https://github.com/Xcod3bughunt3r/Xcod3-ExploitDB-BinSploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
