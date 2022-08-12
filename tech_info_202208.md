@@ -75,7 +75,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220812T12:33:09Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 323 | 16| 
+| 20220812T12:34:25Z | This repository contains source code,exploit,writeups for various CTF challenges that we have encountered | https://github.com/IIT-BHU-CyberSec/CTF-Collection | 0 | 0| 
+| 20220812T12:33:42Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 324 | 17| 
 | 20220812T10:51:15Z | 0-day and N-day exploitation  | https://github.com/theabysslabs/theabysslabs.github.io | 0 | 0| 
 | 20220812T09:52:14Z | Progress with binary exploitation | https://github.com/adamlevincyber/binary-exploitation | 0 | 0| 
 | 20220812T09:15:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3751 | 554| 
@@ -84,7 +85,6 @@
 | 20220812T08:04:01Z | Null | https://github.com/Joe1sn/LandOA_RCE_exploit | 0 | 0| 
 | 20220812T08:01:27Z | Oracle Manipulation Attack on Inverse Finance | https://github.com/yuichiroaoki/inverse-finance-exploit | 2 | 0| 
 | 20220812T07:51:06Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4587 | 1594| 
-| 20220812T06:44:14Z | CMS-Detector and Vulnerability Scanner & Exploiter. | https://github.com/Xcod3bughunt3r/xSindy | 1 | 0| 
 
 
 # backdoor on Github 推荐
