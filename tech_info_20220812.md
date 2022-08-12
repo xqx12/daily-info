@@ -69,6 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T12:47:55Z | Null | https://github.com/CheUhxg/FuzzNote | 0 | 0| 
 | 20220812T12:40:16Z | FUZZY NUMBER AMPLIFIER | https://github.com/TomCoalfish/FUZZY-DISTORTION | 0 | 0| 
 | 20220812T12:05:27Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1555 | 200| 
 | 20220812T10:48:56Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 24 | 13| 
@@ -78,7 +79,6 @@
 | 20220812T09:13:01Z | Null | https://github.com/86589a/fuzzy-couscous | 0 | 0| 
 | 20220812T08:00:04Z | Aplikasi untuk memprediksi nilai tukar petani dengan metode Fuzzy chain, bertujuan untuk memprediksi nilai NTP pada bulan berikutnya, berguna untuk kesiapan pemerintah dalam kebutuhan petani indonesia. | https://github.com/bimaega15/Prediksi-Nilai-Tukar-Petani-NTP-metode-Fuzzy-Chain | 0 | 0| 
 | 20220812T04:35:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7671 | 1653| 
-| 20220812T01:52:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 928 | 106| 
 
 
 
