@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T01:31:15Z | Null | https://github.com/Maireadka/fuzzy-giggle | 0 | 0| 
 | 20220812T00:19:40Z | Soy muy curioso | https://github.com/Nosexdjahaha/fuzzy-pancake | 1 | 0| 
 | 20220811T21:50:53Z | Null | https://github.com/matsuek/fuzzy-lamp | 0 | 0| 
 | 20220811T21:46:50Z | Null | https://github.com/HAYES1996/fuzzy-robot | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20220811T11:59:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4274 | 1032| 
 | 20220811T10:16:07Z | Null | https://github.com/Katimaaka11/fuzzy-spork | 1 | 0| 
 | 20220811T08:38:50Z | 基于c++实现的用户名模糊搜索系统，底层使用了字典树实现 | https://github.com/harry502/FuzzyTree | 0 | 0| 
-| 20220811T07:58:16Z | Fuzzy logic implemented in PyTorch | https://github.com/VanessB/FuzzyTorch | 0 | 0| 
 
 
 
