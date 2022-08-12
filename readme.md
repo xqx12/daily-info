@@ -33,9 +33,9 @@
 | 20220811T19:31:41Z | CVE-2022-29968 | Exploit PoC for CVE-2022-29968 by Joseph Ravichandran and Michael Wang | https://github.com/jprx/CVE-2022-29968 | | 
 | 20220811T15:58:40Z | CVE-2022-31101 | Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101) | https://github.com/karthikuj/CVE-2022-31101 | | 
 | 20220811T15:22:54Z | CVE-2022-24654 | PoC for CVE-2022-24654 | https://github.com/leonardobg/CVE-2022-24654 | | 
-| 20220811T14:46:35Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220811T14:20:30Z | cve-2021-4034 | Null | https://github.com/Silencecyber/cve-2021-4034 | | 
 | 20220811T06:00:13Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
+| 20220811T05:32:54Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 
 
 # klee on Github 推荐
