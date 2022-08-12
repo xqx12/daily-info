@@ -98,7 +98,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220811T21:50:53Z | Null | https://github.com/matsuek/fuzzy-lamp | 0 | 0| 
 | 20220811T21:46:50Z | Null | https://github.com/HAYES1996/fuzzy-robot | 0 | 0| 
-| 20220811T19:33:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 927 | 106| 
 | 20220811T19:21:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7670 | 1651| 
 | 20220811T12:28:03Z | Null | https://github.com/procrasticoder/Fuzzy | 0 | 0| 
 | 20220811T11:59:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4274 | 1032| 
@@ -106,6 +105,7 @@
 | 20220811T08:38:50Z | 基于c++实现的用户名模糊搜索系统，底层使用了字典树实现 | https://github.com/harry502/FuzzyTree | 0 | 0| 
 | 20220811T07:58:16Z | Fuzzy logic implemented in PyTorch | https://github.com/VanessB/FuzzyTorch | 0 | 0| 
 | 20220811T07:51:30Z | as | https://github.com/realsadaf/fuzzy-doodle | 0 | 0| 
+| 20220811T04:25:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 813 | 169| 
 
 
 
