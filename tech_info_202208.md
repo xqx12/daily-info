@@ -75,6 +75,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T01:37:33Z | Hcapcha exploit found by dort and qoft. | https://github.com/Qoft/Hcaptcha-exploit | 16 | 3| 
 | 20220812T00:56:27Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8 | 0 | 0| 
 | 20220812T00:55:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-8 | 0 | 0| 
 | 20220812T00:54:51Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-8 | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20220811T22:05:26Z | Stagefright Android exploit   | https://github.com/jaythaceo/Android-exploit | 17 | 6| 
 | 20220811T20:36:56Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 350 | 37| 
 | 20220811T17:45:14Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1396 | 150| 
-| 20220811T17:39:07Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2589 | 404| 
 
 
 # backdoor on Github 推荐
