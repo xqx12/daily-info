@@ -52,11 +52,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T03:54:13Z | Backdoor feito em python | https://github.com/Thorkrz/zanguetsudoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T09:48:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3047 | 429| 
 
 
 # big4 on Github 推荐

@@ -90,6 +90,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T03:54:13Z | Backdoor feito em python | https://github.com/Thorkrz/zanguetsudoor | 0 | 0| 
 | 20220811T22:13:08Z | Reverse Shell Backdoor made with Python2 using socket | https://github.com/Drpanoukl4/Python2-Reverse-Shell-Backdoor | 0 | 0| 
 | 20220811T21:57:29Z | Null | https://github.com/el0al/el0backdoor-listener | 0 | 0| 
 | 20220811T21:56:36Z | Best webshell backdoor  | https://github.com/Naughty-SEC/Shell-backdoor | 2 | 4| 
@@ -99,13 +100,12 @@
 | 20220811T13:55:37Z | velt: the last backdoor framework you%ll ever need | https://github.com/topsideduck/velt | 2 | 0| 
 | 20220811T13:03:45Z | BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 5 | 1| 
 | 20220811T12:55:08Z | backdoor | https://github.com/bastardhy/backdoor | 0 | 0| 
-| 20220811T08:12:22Z | Null | https://github.com/ambouhou/ros2-openshift-publisher-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220811T16:36:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3045 | 429| 
+| 20220812T09:48:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3047 | 429| 
 | 20220811T12:37:22Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 472 | 26| 
 | 20220811T12:17:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2037 | 577| 
 | 20220810T00:39:50Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 708 | 78| 
