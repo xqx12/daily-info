@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220813T01:14:18Z | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | 0 | 0| 
 | 20220813T00:06:32Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 947 | 246| 
 | 20220812T23:35:51Z | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | https://github.com/puzzlepeaches/Log4jUnifi | 80 | 19| 
 | 20220812T22:51:02Z | Web Security Scanner & Exploitation | https://github.com/gotr00t0day/Gsec | 5 | 0| 
@@ -85,7 +86,6 @@
 | 20220812T18:42:46Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/WibuNgoding/wp-duplicator-exploit | 2 | 1| 
 | 20220812T18:17:24Z | A compiled keylogger written in python with logging to a remote host | https://github.com/dubniczky/Remote-Keylogger | 0 | 0| 
 | 20220812T18:15:56Z | Null | https://github.com/hernan-soto/Exploits | 0 | 0| 
-| 20220812T12:53:09Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 325 | 17| 
 
 
 # backdoor on Github 推荐
