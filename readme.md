@@ -58,7 +58,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220813T01:28:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3048 | 429| 
+| 20220813T11:33:46Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 126 | 11| 
+| 20220813T05:32:11Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 471 | 26| 
+| 20220813T05:32:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3047 | 429| 
 
 
 # big4 on Github 推荐
