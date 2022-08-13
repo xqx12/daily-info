@@ -28,7 +28,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220812T19:11:07Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20220812T18:37:12Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
-| 20220812T17:54:19Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220812T16:44:20Z | CVE-2022-35513 | CVE-2022-35513 , blink1-pass-decrypt | https://github.com/p1ckzi/CVE-2022-35513 | | 
 | 20220812T15:24:44Z | CVE-2022-1040 | This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication | https://github.com/APTIRAN/CVE-2022-1040 | | 
 | 20220812T13:36:20Z | CVE-2022-20866 | RSA Key Checker for CVE-2022-20866 | https://github.com/CiscoPSIRT/CVE-2022-20866 | | 
@@ -48,6 +47,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T14:54:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 244 | 59| 
 
 
 # exploit on Github 推荐
@@ -76,6 +76,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T23:49:43Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 0 | 0| 
+| 20220812T21:56:25Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 709 | 78| 
+| 20220812T20:38:20Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 124 | 10| 
+| 20220812T18:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2039 | 577| 
+| 20220812T14:54:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 244 | 59| 
 | 20220812T09:48:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3047 | 429| 
 
 
