@@ -92,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220812T23:42:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40813 | 20640| 
+| 20220812T23:39:18Z | Null | https://github.com/AhmedMedDev/fuzzy-octo-robot | 0 | 0| 
+| 20220812T22:51:28Z | modified binutils code for fuzzing (macro) | https://github.com/zhangutah/binutils-code-2 | 0 | 0| 
+| 20220812T22:37:39Z | modified binutils code for fuzzing | https://github.com/zhangutah/binutils-code | 0 | 0| 
+| 20220812T21:50:13Z | Null | https://github.com/SandeepRavuri/Fuzzy-based-predective-analytics | 0 | 0| 
+| 20220812T21:49:31Z | Null | https://github.com/dumbbells98/fuzzy-octo-engine | 0 | 0| 
+| 20220812T18:16:55Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1436 | 63| 
+| 20220812T17:34:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7672 | 1654| 
+| 20220812T16:57:47Z | Null | https://github.com/mmehr1988/fuzzy-giggle | 0 | 0| 
 | 20220812T12:47:55Z | Null | https://github.com/CheUhxg/FuzzNote | 0 | 0| 
-| 20220812T12:40:16Z | FUZZY NUMBER AMPLIFIER | https://github.com/TomCoalfish/FUZZY-DISTORTION | 0 | 0| 
-| 20220812T12:05:27Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1555 | 200| 
-| 20220812T10:48:56Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 24 | 13| 
-| 20220812T09:34:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4276 | 1033| 
-| 20220812T09:28:15Z | StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing | https://github.com/vul337/StateFuzz | 12 | 0| 
-| 20220812T09:13:42Z | Null | https://github.com/MTRNord/matrix-fuzz | 0 | 0| 
-| 20220812T09:13:01Z | Null | https://github.com/86589a/fuzzy-couscous | 0 | 0| 
-| 20220812T08:00:04Z | Aplikasi untuk memprediksi nilai tukar petani dengan metode Fuzzy chain, bertujuan untuk memprediksi nilai NTP pada bulan berikutnya, berguna untuk kesiapan pemerintah dalam kebutuhan petani indonesia. | https://github.com/bimaega15/Prediksi-Nilai-Tukar-Petani-NTP-metode-Fuzzy-Chain | 0 | 0| 
-| 20220812T04:35:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7671 | 1653| 
 
 
 
