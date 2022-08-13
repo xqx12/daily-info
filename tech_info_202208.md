@@ -40,13 +40,13 @@
 | 20220813T11:57:03Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220813T11:20:12Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
 | 20220813T11:14:49Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
+| 20220813T09:36:08Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
 | 20220813T04:32:16Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20220812T18:49:57Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220812T16:44:20Z | CVE-2022-35513 | CVE-2022-35513 , blink1-pass-decrypt | https://github.com/p1ckzi/CVE-2022-35513 | | 
 | 20220812T15:24:44Z | CVE-2022-1040 | This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication | https://github.com/APTIRAN/CVE-2022-1040 | | 
 | 20220812T13:36:20Z | CVE-2022-20866 | RSA Key Checker for CVE-2022-20866 | https://github.com/CiscoPSIRT/CVE-2022-20866 | | 
 | 20220812T07:16:48Z | CVE-2022-24654 | PoC for CVE-2022-24654 | https://github.com/leonardobg/CVE-2022-24654 | | 
-| 20220812T06:49:39Z | CVE-2022-33980 | CVE | https://github.com/HKirito/CVE-2022-33980 | | 
 
 
 # klee on Github 推荐
