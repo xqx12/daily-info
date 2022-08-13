@@ -76,6 +76,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220813T01:26:55Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-z | 0 | 0| 
+| 20220813T01:26:09Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | 0 | 0| 
 | 20220813T01:21:57Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-z | 0 | 0| 
 | 20220813T01:14:18Z | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | 0 | 0| 
 | 20220813T00:06:32Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 947 | 246| 
@@ -84,8 +86,6 @@
 | 20220812T21:56:41Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 26 | 0| 
 | 20220812T21:14:53Z | Web_Dav Exploit | https://github.com/Shakun8/Web-dav-exploit | 0 | 1| 
 | 20220812T19:30:45Z | Multi camera gathering and exploiting tool (KoruptorSadap) 🎥 | https://github.com/imhunterand/KORSAP | 0 | 0| 
-| 20220812T18:42:46Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/WibuNgoding/wp-duplicator-exploit | 2 | 1| 
-| 20220812T18:17:24Z | A compiled keylogger written in python with logging to a remote host | https://github.com/dubniczky/Remote-Keylogger | 0 | 0| 
 
 
 # backdoor on Github 推荐
