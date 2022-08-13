@@ -81,7 +81,6 @@
 | 20220812T20:38:20Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 124 | 10| 
 | 20220812T18:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2039 | 577| 
 | 20220812T14:54:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 244 | 59| 
-| 20220812T09:48:19Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3047 | 429| 
 
 
 # big4 on Github 推荐
