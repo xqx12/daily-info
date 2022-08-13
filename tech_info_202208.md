@@ -76,13 +76,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220813T01:52:23Z | Web Security Scanner & Exploitation | https://github.com/gotr00t0day/Gsec | 6 | 1| 
 | 20220813T01:26:55Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-z | 0 | 0| 
 | 20220813T01:26:09Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | 0 | 0| 
 | 20220813T01:21:57Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-z | 0 | 0| 
 | 20220813T01:14:18Z | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | 0 | 0| 
 | 20220813T00:06:32Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 947 | 246| 
 | 20220812T23:35:51Z | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | https://github.com/puzzlepeaches/Log4jUnifi | 80 | 19| 
-| 20220812T22:51:02Z | Web Security Scanner & Exploitation | https://github.com/gotr00t0day/Gsec | 5 | 0| 
 | 20220812T21:56:41Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 26 | 0| 
 | 20220812T21:14:53Z | Web_Dav Exploit | https://github.com/Shakun8/Web-dav-exploit | 0 | 1| 
 | 20220812T19:30:45Z | Multi camera gathering and exploiting tool (KoruptorSadap) 🎥 | https://github.com/imhunterand/KORSAP | 0 | 0| 

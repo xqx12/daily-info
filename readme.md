@@ -54,7 +54,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220812T23:35:51Z | Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more. | https://github.com/puzzlepeaches/Log4jUnifi | 80 | 19| 
-| 20220812T22:51:02Z | Web Security Scanner & Exploitation | https://github.com/gotr00t0day/Gsec | 5 | 0| 
 | 20220812T21:56:41Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 26 | 0| 
 | 20220812T21:14:53Z | Web_Dav Exploit | https://github.com/Shakun8/Web-dav-exploit | 0 | 1| 
 | 20220812T19:30:45Z | Multi camera gathering and exploiting tool (KoruptorSadap) 🎥 | https://github.com/imhunterand/KORSAP | 0 | 0| 
@@ -63,6 +62,7 @@
 | 20220812T18:15:56Z | Null | https://github.com/hernan-soto/Exploits | 0 | 0| 
 | 20220812T12:53:09Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 325 | 17| 
 | 20220812T12:34:25Z | This repository contains source code,exploit,writeups for various CTF challenges that we have encountered | https://github.com/IIT-BHU-CyberSec/CTF-Collection | 0 | 0| 
+| 20220812T10:51:15Z | 0-day and N-day exploitation  | https://github.com/theabysslabs/theabysslabs.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
