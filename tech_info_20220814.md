@@ -82,6 +82,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T08:08:07Z | Anonymized artifact  - Scalable Program Clone Search Through Spectral Analysis | https://github.com/sppunderreview/ndss-spp | 1 | 0| 
+| 20220814T02:52:28Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 53 | 10| 
 
 
 # fuzz on Github 推荐
