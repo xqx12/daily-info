@@ -91,6 +91,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T01:09:09Z | Quaternion exponent moment based backdoor attacks | https://github.com/DLAIResearch/QEMB | 0 | 0| 
 | 20220814T01:06:42Z | Frequency domain backdoor attacks | https://github.com/DLAIResearch/FDNet | 0 | 0| 
 | 20220813T21:47:19Z | Null | https://github.com/DeveloperAvik/Backdoor | 0 | 0| 
 | 20220813T20:18:11Z | LKM to provide a code execution backdoor in userland. | https://github.com/hiatus/kdo | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220813T03:09:35Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 17 | 2| 
 | 20220812T16:55:53Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 178 | 53| 
 | 20220812T12:53:56Z | Null | https://github.com/MSI0072/BACKDOOR | 0 | 0| 
-| 20220812T03:54:13Z | Backdoor feito em python | https://github.com/Thorkrz/zanguetsudoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
