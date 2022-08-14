@@ -91,6 +91,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T01:55:05Z | BrowserBackdoor is an Electron Application with a JavaScript WebSocket Backdoor and a Ruby Command-Line Listener | https://github.com/IMcPwn/browser-backdoor | 342 | 96| 
 | 20220814T01:09:09Z | Quaternion exponent moment based backdoor attacks | https://github.com/DLAIResearch/QEMB | 0 | 0| 
 | 20220814T01:06:42Z | Frequency domain backdoor attacks | https://github.com/DLAIResearch/FDNet | 0 | 0| 
 | 20220813T21:47:19Z | Null | https://github.com/DeveloperAvik/Backdoor | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20220813T03:42:04Z | Velt: The Last Backdoor Framework You%ll Need | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20220813T03:09:35Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 17 | 2| 
 | 20220812T16:55:53Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 178 | 53| 
-| 20220812T12:53:56Z | Null | https://github.com/MSI0072/BACKDOOR | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
