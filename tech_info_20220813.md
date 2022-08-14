@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220813T23:48:16Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
 | 20220813T23:07:00Z | CVE-2022-33891 | CVE-2022-33891 Exploit For Apache Spark | https://github.com/DrLinuxOfficial/CVE-2022-33891 | | 
 | 20220813T19:03:20Z | CVE-2022-24654 | PoC for CVE-2022-24654 | https://github.com/leonardobg/CVE-2022-24654 | | 
 | 20220813T18:01:28Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
@@ -27,6 +26,7 @@
 | 20220813T13:22:15Z | CVE-2021-21300 | the payload of CVE-2021-21300 | https://github.com/Roboterh/CVE-2021-21300 | | 
 | 20220813T13:05:49Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220813T13:05:47Z | CVE-2021-43530 | CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 94. | https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | | 
+| 20220813T13:05:44Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
 
 
 # klee on Github 推荐
