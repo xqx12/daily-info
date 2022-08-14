@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T01:02:51Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-c | 0 | 0| 
 | 20220814T01:01:52Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 0 | 0| 
 | 20220814T01:01:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-c | 0 | 0| 
 | 20220814T00:00:34Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 359 | 17| 
@@ -85,7 +86,6 @@
 | 20220813T21:57:08Z | Null | https://github.com/LuxeCommand/ExploitChatter | 0 | 0| 
 | 20220813T19:34:18Z | Null | https://github.com/BagmetDenis/exploits_scripts | 0 | 0| 
 | 20220813T17:28:14Z | This proyect is created to exploit the buffer overflow vulnerability in windows XP. | https://github.com/ernestomgz/Tsunami | 0 | 0| 
-| 20220813T11:43:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4790 | 660| 
 
 
 # backdoor on Github 推荐
