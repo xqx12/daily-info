@@ -86,13 +86,13 @@
 | 20220813T23:12:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7674 | 1654| 
 | 20220813T22:22:30Z | Null | https://github.com/MaxG175/JavaFuzz | 0 | 0| 
 | 20220813T22:14:01Z | Null | https://github.com/A-Altemara/FuzzypawsFamilyFotos.1 | 0 | 0| 
-| 20220813T21:54:59Z | State-of-the-art grammar fuzzer  | https://github.com/Rog3rSm1th/kharma | 2 | 0| 
 | 20220813T19:22:10Z | Fuzzing JavaScript Engines with Aspect-preserving Mutation | https://github.com/sslab-gatech/DIE | 183 | 38| 
 | 20220813T18:49:31Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners. | https://github.com/l00pss/Fuzzy | 0 | 0| 
 | 20220813T16:04:09Z | Null | https://github.com/serkancan006/FuzzyLogicExamples | 0 | 0| 
 | 20220813T15:38:44Z | Config files for my GitHub profile. | https://github.com/asinitsyninfo/Fuzzy-Disaster-Relief | 0 | 0| 
 | 20220813T13:21:29Z | Null | https://github.com/aalink/FuzzyFinder | 0 | 2| 
 | 20220813T12:54:33Z | Null | https://github.com/fuzzilia/fuzzilia.github.io | 0 | 0| 
+| 20220813T12:25:47Z | Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. | https://github.com/sahilm/fuzzy | 1148 | 59| 
 
 
 
