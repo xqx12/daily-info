@@ -52,7 +52,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220814T00:45:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7643 | 263| 
+| 20220814T01:00:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7644 | 263| 
 | 20220814T00:40:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 9 | 0| 
 | 20220812T18:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2039 | 577| 
 | 20220812T13:15:53Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 47 | 9| 
@@ -76,6 +76,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T01:01:52Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 0 | 0| 
+| 20220814T01:01:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-c | 0 | 0| 
 | 20220814T00:00:34Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 359 | 17| 
 | 20220813T23:35:50Z | Android Penetration Tool [ RAT for Android ] | https://github.com/anirudhmalik/xhunter | 63 | 21| 
 | 20220813T23:07:00Z | CVE-2022-33891 Exploit For Apache Spark | https://github.com/DrLinuxOfficial/CVE-2022-33891 | 0 | 0| 
@@ -84,8 +86,6 @@
 | 20220813T19:34:18Z | Null | https://github.com/BagmetDenis/exploits_scripts | 0 | 0| 
 | 20220813T17:28:14Z | This proyect is created to exploit the buffer overflow vulnerability in windows XP. | https://github.com/ernestomgz/Tsunami | 0 | 0| 
 | 20220813T11:43:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4790 | 660| 
-| 20220813T10:54:12Z | Proof-of-concept for known security issues | https://github.com/TeamPhoneix/exploits | 0 | 0| 
-| 20220813T10:21:25Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 356 | 38| 
 
 
 # backdoor on Github 推荐
