@@ -106,9 +106,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T01:42:41Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 128 | 11| 
 | 20220814T00:37:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 472 | 26| 
 | 20220813T19:19:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3048 | 429| 
-| 20220813T15:33:00Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 127 | 11| 
 | 20220813T13:19:19Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 2 | 0| 
 | 20220812T21:56:25Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 709 | 78| 
 | 20220812T18:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2039 | 577| 

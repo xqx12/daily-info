@@ -69,7 +69,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220813T19:19:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3048 | 429| 
-| 20220813T15:33:00Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 127 | 11| 
 | 20220813T13:19:19Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 2 | 0| 
 
 
