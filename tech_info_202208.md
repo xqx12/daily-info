@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T12:04:03Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 364 | 17| 
 | 20220814T11:34:47Z | Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) SMBv1/SMBv2 using the Metasploit Framework | https://github.com/Xcod3bughunt3r/SMBploit | 1 | 0| 
 | 20220814T11:28:05Z | New!!  | https://github.com/TheExploiterBoy/TheExploiterBoy-New-Gui | 0 | 0| 
 | 20220814T10:42:30Z | Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions | https://github.com/dubniczky/Kernel-Exploits | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20220814T09:34:19Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 958 | 247| 
 | 20220814T05:30:47Z | Repository to store all my solutions for the PicoCTF 2022 challenges. | https://github.com/danielxreis/picoctf_2022 | 0 | 0| 
 | 20220814T04:32:50Z | Free keyless roblox exploit that uses the WeAreDevs API | https://github.com/octalol/OctaX | 0 | 0| 
-| 20220814T01:02:51Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-c | 0 | 0| 
 
 
 # backdoor on Github 推荐
