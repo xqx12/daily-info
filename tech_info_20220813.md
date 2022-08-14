@@ -73,7 +73,6 @@
 | 20220813T19:19:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3048 | 429| 
 | 20220813T15:33:00Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 127 | 11| 
 | 20220813T13:19:19Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 2 | 0| 
-| 20220813T05:32:11Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 471 | 26| 
 
 
 # big4 on Github 推荐
