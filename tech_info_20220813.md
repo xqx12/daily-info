@@ -70,14 +70,17 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220813T11:33:46Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 126 | 11| 
+| 20220813T19:19:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3048 | 429| 
+| 20220813T15:33:00Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 127 | 11| 
+| 20220813T13:19:19Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 2 | 0| 
 | 20220813T05:32:11Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 471 | 26| 
-| 20220813T05:32:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3047 | 429| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220813T20:06:36Z | A case study which reviews on NDSS 2020 %You Are What You Do: Hunting Stealthy Malware via Data Provenance Analysis% | https://github.com/Jasmoon99/case-study-YouAreWhatYouDo | 0 | 0| 
+| 20220813T17:27:57Z | Anonymized artifact  - Scalable Program Clone Search Through Spectral Analysis | https://github.com/sppunderreview/ndss-spp | 0 | 0| 
 
 
 # fuzz on Github 推荐
