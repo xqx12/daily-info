@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220814T12:04:03Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 364 | 17| 
+| 20220814T12:14:38Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 365 | 17| 
 | 20220814T11:34:47Z | Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) SMBv1/SMBv2 using the Metasploit Framework | https://github.com/Xcod3bughunt3r/SMBploit | 1 | 0| 
 | 20220814T11:28:05Z | New!!  | https://github.com/TheExploiterBoy/TheExploiterBoy-New-Gui | 0 | 0| 
 | 20220814T10:42:30Z | Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions | https://github.com/dubniczky/Kernel-Exploits | 0 | 0| 
