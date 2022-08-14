@@ -60,14 +60,21 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T09:50:41Z | A simple python script to connect to a server to establsih a backdoor connection  | https://github.com/Zeus-coder/Reverse_shell | 0 | 0| 
+| 20220814T09:00:23Z | Simple python socket source code to establish a backdoor connection  | https://github.com/Zeus-coder/sourcecode | 0 | 0| 
+| 20220814T05:51:32Z | backdoor | https://github.com/pretty-111/backdoor | 0 | 0| 
+| 20220814T05:14:25Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 100 | 33| 
+| 20220814T02:56:54Z | Quaternion exponent moment based backdoor attacks | https://github.com/DLAIResearch/QEMB | 0 | 0| 
+| 20220814T02:19:57Z | Frequency domain backdoor attacks | https://github.com/DLAIResearch/FDNet | 0 | 0| 
+| 20220814T02:12:47Z | Execute multiple payloads on the Teensy without re-flashing | https://github.com/IMcPwn/TeensyMultiPayload | 10 | 3| 
 | 20220814T01:55:05Z | BrowserBackdoor is an Electron Application with a JavaScript WebSocket Backdoor and a Ruby Command-Line Listener | https://github.com/IMcPwn/browser-backdoor | 342 | 96| 
-| 20220814T01:09:09Z | Quaternion exponent moment based backdoor attacks | https://github.com/DLAIResearch/QEMB | 0 | 0| 
-| 20220814T01:06:42Z | Frequency domain backdoor attacks | https://github.com/DLAIResearch/FDNet | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T08:08:32Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 3 | 0| 
+| 20220814T06:22:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2040 | 577| 
 | 20220814T01:42:41Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 128 | 11| 
 | 20220814T00:37:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 472 | 26| 
 

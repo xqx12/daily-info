@@ -91,31 +91,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T09:50:41Z | A simple python script to connect to a server to establsih a backdoor connection  | https://github.com/Zeus-coder/Reverse_shell | 0 | 0| 
+| 20220814T09:00:23Z | Simple python socket source code to establish a backdoor connection  | https://github.com/Zeus-coder/sourcecode | 0 | 0| 
+| 20220814T05:51:32Z | backdoor | https://github.com/pretty-111/backdoor | 0 | 0| 
+| 20220814T05:14:25Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 100 | 33| 
+| 20220814T02:56:54Z | Quaternion exponent moment based backdoor attacks | https://github.com/DLAIResearch/QEMB | 0 | 0| 
+| 20220814T02:19:57Z | Frequency domain backdoor attacks | https://github.com/DLAIResearch/FDNet | 0 | 0| 
+| 20220814T02:12:47Z | Execute multiple payloads on the Teensy without re-flashing | https://github.com/IMcPwn/TeensyMultiPayload | 10 | 3| 
 | 20220814T01:55:05Z | BrowserBackdoor is an Electron Application with a JavaScript WebSocket Backdoor and a Ruby Command-Line Listener | https://github.com/IMcPwn/browser-backdoor | 342 | 96| 
-| 20220814T01:09:09Z | Quaternion exponent moment based backdoor attacks | https://github.com/DLAIResearch/QEMB | 0 | 0| 
-| 20220814T01:06:42Z | Frequency domain backdoor attacks | https://github.com/DLAIResearch/FDNet | 0 | 0| 
 | 20220813T21:47:19Z | Null | https://github.com/DeveloperAvik/Backdoor | 0 | 0| 
 | 20220813T20:18:11Z | LKM to provide a code execution backdoor in userland. | https://github.com/hiatus/kdo | 0 | 0| 
-| 20220813T19:31:16Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 30 | 10| 
-| 20220813T15:55:38Z | Null | https://github.com/andresmadeddie/Creating-a-Backdoor---Owning-the-System | 0 | 0| 
-| 20220813T03:42:04Z | Velt: The Last Backdoor Framework You%ll Need | https://github.com/topsideduck/Velt | 0 | 0| 
-| 20220813T03:09:35Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 17 | 2| 
-| 20220812T16:55:53Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 178 | 53| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T08:08:32Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 3 | 0| 
+| 20220814T06:22:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2040 | 577| 
 | 20220814T01:42:41Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 128 | 11| 
 | 20220814T00:37:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 472 | 26| 
+| 20220813T22:33:55Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 4 | 1| 
 | 20220813T19:19:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3048 | 429| 
-| 20220813T13:19:19Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 2 | 0| 
 | 20220812T21:56:25Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 709 | 78| 
-| 20220812T18:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2039 | 577| 
 | 20220812T14:54:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 244 | 59| 
 | 20220809T08:34:29Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 2 | 0| 
 | 20220808T09:36:04Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 811 | 157| 
-| 20220808T09:34:25Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 42 | 23| 
 
 
 # big4 on Github 推荐
