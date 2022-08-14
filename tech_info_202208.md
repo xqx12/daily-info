@@ -22,46 +22,46 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220814 | 云隔离的梦想 | https://mp.weixin.qq.com/s/RjoLmNVCx0gUhPM3Psk74g| 
+| 20220814 | 云安全入门材料 | https://github.com/Esonhugh/Attack_Code| 
+| 20220814 | netspy-快速探测内网可达网段工具 | https://github.com/shmilylty/netspy| 
+| 20220814 | SnakeYaml反序列化 | https://xz.aliyun.com/t/11599| 
+| 20220814 | Executor内存马的实现 | https://xz.aliyun.com/t/11593| 
+| 20220814 | How I Hacked my Car | https://programmingwithstyle.com/posts/howihackedmycar/| 
 | 20220813 | 鼹鼠行动--针对QNAP网络存储设备的大规模攻击活动分析 | https://mp.weixin.qq.com/s/ua7KrEP5yWbvNHfCULgn8g| 
 | 20220812 | Black Hat 2022上最值得关注的十大议题 | https://mp.weixin.qq.com/s/urcX3HeERhAPmNYp_9K6BA| 
 | 20220812 | 谈谈安全对抗的本质 | https://mp.weixin.qq.com/s/9ugyhDvtrJLds_1C1nBosw| 
 | 20220812 | 云沙箱视角看攻防演练：样本类攻击手法总结 | https://mp.weixin.qq.com/s/v4V-hwhCi1nehvwZarCkbA| 
-| 20220812 | 智能系统数据安全 | https://mp.weixin.qq.com/s/u3lnWpACDETKBJfjxUq6RQ| 
-| 20220812 | Selenium自动化入坑指南 | https://mp.weixin.qq.com/s/rlCyeObSbehkl2At_Dmtjg| 
-| 20220812 | 浅谈NFT, Web3 和元宇宙 | https://mp.weixin.qq.com/s/l11SP7Nni-CZ__y3DEVX1Q| 
-| 20220812 | DevOps风险测绘之代码篇 | https://mp.weixin.qq.com/s/tgBp2HjJ46VaTXrnGnNnrQ| 
-| 20220812 | “无数据知识蒸馏”术语 | https://mp.weixin.qq.com/s/I9TlQ9zrIA0NoHl6_1_Fgw| 
-| 20220812 | Black Hat 2022上最值得关注的十大议题 | /news/30587| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220814T00:04:31Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
+| 20220814T10:01:45Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220814T08:42:35Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
+| 20220814T08:23:39Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220814T07:42:38Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
+| 20220814T04:36:34Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220813T23:07:00Z | CVE-2022-33891 | CVE-2022-33891 Exploit For Apache Spark | https://github.com/DrLinuxOfficial/CVE-2022-33891 | | 
 | 20220813T19:03:20Z | CVE-2022-24654 | PoC for CVE-2022-24654 | https://github.com/leonardobg/CVE-2022-24654 | | 
-| 20220813T18:01:28Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220813T17:00:57Z | CVE-2022-0847 | Modified dirtypipe script into auto root without have to search a file manually to hijack suid binary. | https://github.com/EagleTube/CVE-2022-0847 | | 
-| 20220813T16:55:06Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220813T15:50:53Z | CVE-2020-0796 | Lightweight PoC and Scanner for CVE-2020-0796 without authentication. | https://github.com/ran-sama/CVE-2020-0796 | | 
 | 20220813T13:22:15Z | CVE-2021-21300 | the payload of CVE-2021-21300 | https://github.com/Roboterh/CVE-2021-21300 | | 
-| 20220813T13:05:49Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20220813T13:05:47Z | CVE-2021-43530 | CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 94. | https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader- | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220814T01:00:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7644 | 263| 
-| 20220814T00:40:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 9 | 0| 
-| 20220812T18:25:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2039 | 577| 
+| 20220814T11:09:11Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 12 | 0| 
+| 20220814T08:12:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7647 | 263| 
+| 20220814T06:22:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2040 | 577| 
+| 20220813T22:33:55Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 4 | 1| 
 | 20220812T13:15:53Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 47 | 9| 
 | 20220811T13:58:57Z | Minimalist RESTful API for retrieving essential Genshin Impact data such as characters% and weapons% stats and their scaling | https://github.com/vichannnnn/yunaa-moe | 0 | 1| 
 | 20220807T03:45:35Z | Config files for my GitHub profile. | https://github.com/Kleelynnx/Kleelynnx | 0 | 0| 
 | 20220806T22:55:12Z | Preprocessor for symbolic execution, extracted from KLEE | https://github.com/Generative-Program-Analysis/fs-linker | 0 | 0| 
 | 20220806T22:41:24Z | Modified KLEE%s POSIX File System Runtime | https://github.com/Generative-Program-Analysis/posix-runtime | 0 | 0| 
 | 20220806T10:42:39Z | Null | https://github.com/kleegl/kleegl | 0 | 0| 
-| 20220806T07:51:35Z | VFS implementation for klee | https://github.com/mojyack/klee-vfs | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -76,16 +76,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T11:34:47Z | Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) SMBv1/SMBv2 using the Metasploit Framework | https://github.com/Xcod3bughunt3r/SMBploit | 1 | 0| 
+| 20220814T11:28:05Z | New!!  | https://github.com/TheExploiterBoy/TheExploiterBoy-New-Gui | 0 | 0| 
+| 20220814T10:42:30Z | Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions | https://github.com/dubniczky/Kernel-Exploits | 0 | 0| 
+| 20220814T10:41:52Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 281 | 198| 
+| 20220814T10:35:30Z | SSBlazer is the first attempt to exploit the deep learning technique for SSB site prediction based on genome-wide single-strand break sequencing data with single-nucleotide resolution. | https://github.com/sxu99/ssblazer | 0 | 0| 
+| 20220814T09:42:00Z | Example of exploiting mlflow_airflow ans external youtube api | https://github.com/koba4444/mlflow_airflow_example | 1 | 0| 
+| 20220814T09:34:19Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 958 | 247| 
+| 20220814T05:30:47Z | Repository to store all my solutions for the PicoCTF 2022 challenges. | https://github.com/danielxreis/picoctf_2022 | 0 | 0| 
+| 20220814T04:32:50Z | Free keyless roblox exploit that uses the WeAreDevs API | https://github.com/octalol/OctaX | 0 | 0| 
 | 20220814T01:02:51Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-c | 0 | 0| 
-| 20220814T01:01:52Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 0 | 0| 
-| 20220814T01:01:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-c | 0 | 0| 
-| 20220814T00:00:34Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 359 | 17| 
-| 20220813T23:35:50Z | Android Penetration Tool [ RAT for Android ] | https://github.com/anirudhmalik/xhunter | 63 | 21| 
-| 20220813T23:07:00Z | CVE-2022-33891 Exploit For Apache Spark | https://github.com/DrLinuxOfficial/CVE-2022-33891 | 0 | 0| 
-| 20220813T22:49:34Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 478 | 138| 
-| 20220813T21:57:08Z | Null | https://github.com/LuxeCommand/ExploitChatter | 0 | 0| 
-| 20220813T19:34:18Z | Null | https://github.com/BagmetDenis/exploits_scripts | 0 | 0| 
-| 20220813T17:28:14Z | This proyect is created to exploit the buffer overflow vulnerability in windows XP. | https://github.com/ernestomgz/Tsunami | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -132,16 +132,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T11:27:25Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2653 | 291| 
+| 20220814T11:18:48Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners.  | https://github.com/l00pss/Fuzzy-Mobile | 0 | 0| 
+| 20220814T10:26:37Z | A possible solution to the task that was provided as an assessment for an intern position, using a fuzzy string matching library(fuzzball.js) | https://github.com/pKap4/DocPlus_task_Fuzzy_matching | 0 | 0| 
+| 20220814T09:53:09Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners.  | https://github.com/l00pss/Fuzzy-Ws | 0 | 0| 
+| 20220814T08:48:44Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 25 | 13| 
+| 20220814T03:04:55Z | Null | https://github.com/Chloeeve/fuzzy-pancake | 0 | 0| 
 | 20220814T00:53:21Z | State-of-the-art grammar fuzzer  | https://github.com/Rog3rSm1th/kharma | 3 | 0| 
 | 20220813T23:12:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7674 | 1654| 
 | 20220813T22:22:30Z | Null | https://github.com/MaxG175/JavaFuzz | 0 | 0| 
 | 20220813T22:14:01Z | Null | https://github.com/A-Altemara/FuzzypawsFamilyFotos.1 | 0 | 0| 
-| 20220813T19:22:10Z | Fuzzing JavaScript Engines with Aspect-preserving Mutation | https://github.com/sslab-gatech/DIE | 183 | 38| 
-| 20220813T18:49:31Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners. | https://github.com/l00pss/Fuzzy | 0 | 0| 
-| 20220813T16:04:09Z | Null | https://github.com/serkancan006/FuzzyLogicExamples | 0 | 0| 
-| 20220813T15:38:44Z | Config files for my GitHub profile. | https://github.com/asinitsyninfo/Fuzzy-Disaster-Relief | 0 | 0| 
-| 20220813T13:21:29Z | Null | https://github.com/aalink/FuzzyFinder | 0 | 2| 
-| 20220813T12:54:33Z | Null | https://github.com/fuzzilia/fuzzilia.github.io | 0 | 0| 
 
 
 
