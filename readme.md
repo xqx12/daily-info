@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T12:21:41Z | Null | https://github.com/Ankit-Lamba-1729/fuzzy-doodle | 0 | 0| 
 | 20220814T12:08:12Z | Simple fuzzy matcher in C. | https://github.com/philj56/fuzzy-match | 0 | 0| 
 | 20220814T11:27:25Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2653 | 291| 
 | 20220814T11:18:48Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners.  | https://github.com/l00pss/Fuzzy-Mobile | 0 | 0| 
