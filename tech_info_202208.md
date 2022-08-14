@@ -139,8 +139,8 @@
 | 20220814T10:26:37Z | A possible solution to the task that was provided as an assessment for an intern position, using a fuzzy string matching library(fuzzball.js) | https://github.com/pKap4/DocPlus_task_Fuzzy_matching | 0 | 0| 
 | 20220814T09:53:09Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners.  | https://github.com/l00pss/Fuzzy-Ws | 0 | 0| 
 | 20220814T08:48:44Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 25 | 13| 
+| 20220814T03:10:36Z | State-of-the-art grammar fuzzer  | https://github.com/Rog3rSm1th/kharma | 4 | 0| 
 | 20220814T03:04:55Z | Null | https://github.com/Chloeeve/fuzzy-pancake | 0 | 0| 
-| 20220814T00:53:21Z | State-of-the-art grammar fuzzer  | https://github.com/Rog3rSm1th/kharma | 3 | 0| 
 | 20220813T23:12:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7674 | 1654| 
 
 
