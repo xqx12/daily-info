@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T12:50:33Z | Modern Roblox Exploit GUI | https://github.com/CompanionCubeGD/Flipper | 0 | 0| 
 | 20220814T12:18:20Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 366 | 18| 
 | 20220814T11:34:47Z | Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) SMBv1/SMBv2 using the Metasploit Framework | https://github.com/Xcod3bughunt3r/SMBploit | 1 | 0| 
 | 20220814T11:28:05Z | New!!  | https://github.com/TheExploiterBoy/TheExploiterBoy-New-Gui | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20220814T09:42:00Z | Example of exploiting mlflow_airflow ans external youtube api | https://github.com/koba4444/mlflow_airflow_example | 1 | 0| 
 | 20220814T09:34:19Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 958 | 247| 
 | 20220814T05:30:47Z | Repository to store all my solutions for the PicoCTF 2022 challenges. | https://github.com/danielxreis/picoctf_2022 | 0 | 0| 
-| 20220814T04:32:50Z | Free keyless roblox exploit that uses the WeAreDevs API | https://github.com/octalol/OctaX | 0 | 0| 
 
 
 # backdoor on Github 推荐
