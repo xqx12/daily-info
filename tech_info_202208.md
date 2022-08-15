@@ -37,8 +37,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220815T01:22:25Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
 | 20220815T00:59:35Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
-| 20220814T22:39:22Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
 | 20220814T22:24:19Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
 | 20220814T16:30:43Z | CVE-2022-31269 | Nortek Control Linear eMerge E3-Series 信息泄露 | https://github.com/Henry4E36/CVE-2022-31269 | | 
 | 20220814T16:08:20Z | cve-2021-4034 | Null | https://github.com/Geni0r/cve-2021-4034-poc | | 
