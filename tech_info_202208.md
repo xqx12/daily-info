@@ -37,6 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220815T01:38:17Z | CVE-2022-0847 | Modified dirtypipe script into auto root without have to search a file manually to hijack suid binary. | https://github.com/EagleTube/CVE-2022-0847 | | 
 | 20220815T01:36:30Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220815T01:30:19Z | CVE-2022-31269 | Nortek Control Linear eMerge E3-Series 信息泄露 | https://github.com/Henry4E36/CVE-2022-31269 | | 
 | 20220815T01:27:52Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
@@ -46,7 +47,6 @@
 | 20220814T10:01:45Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220814T04:36:34Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220813T23:07:00Z | CVE-2022-33891 | CVE-2022-33891 Exploit For Apache Spark | https://github.com/DrLinuxOfficial/CVE-2022-33891 | | 
-| 20220813T19:03:20Z | CVE-2022-24654 | PoC for CVE-2022-24654 | https://github.com/leonardobg/CVE-2022-24654 | | 
 
 
 # klee on Github 推荐
