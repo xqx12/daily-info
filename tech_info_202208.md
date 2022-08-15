@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220815T00:34:03Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 41 | 3| 
 | 20220815T00:30:40Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-i | 0 | 0| 
 | 20220815T00:29:38Z | Disconnect | https://github.com/Nofrisdan/exploit-bypass | 0 | 0| 
 | 20220815T00:29:31Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20220814T19:43:15Z | Exploiter tools. Best recommended for Synapse X and SirHurt. | https://github.com/KiaWeb/expo-tools | 0 | 0| 
 | 20220814T17:37:50Z | Exploit Script For Ragdoll System Test. | https://github.com/KingImanSlayer05/RST-MOD-PACK-V1 | 0 | 0| 
 | 20220814T16:42:23Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4792 | 661| 
-| 20220814T12:52:56Z | Modern Roblox Exploit GUI | https://github.com/CompanionCubeGD/Flipper | 0 | 0| 
 
 
 # backdoor on Github 推荐
