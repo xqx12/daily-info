@@ -37,23 +37,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220814T23:37:45Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220814T22:39:22Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
+| 20220814T22:24:19Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
+| 20220814T16:30:43Z | CVE-2022-31269 | Nortek Control Linear eMerge E3-Series 信息泄露 | https://github.com/Henry4E36/CVE-2022-31269 | | 
+| 20220814T16:08:20Z | cve-2021-4034 | Null | https://github.com/Geni0r/cve-2021-4034-poc | | 
+| 20220814T15:29:50Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220814T10:01:45Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20220814T08:42:35Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
-| 20220814T08:23:39Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
-| 20220814T07:42:38Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220814T04:36:34Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220813T23:07:00Z | CVE-2022-33891 | CVE-2022-33891 Exploit For Apache Spark | https://github.com/DrLinuxOfficial/CVE-2022-33891 | | 
 | 20220813T19:03:20Z | CVE-2022-24654 | PoC for CVE-2022-24654 | https://github.com/leonardobg/CVE-2022-24654 | | 
-| 20220813T17:00:57Z | CVE-2022-0847 | Modified dirtypipe script into auto root without have to search a file manually to hijack suid binary. | https://github.com/EagleTube/CVE-2022-0847 | | 
-| 20220813T15:50:53Z | CVE-2020-0796 | Lightweight PoC and Scanner for CVE-2020-0796 without authentication. | https://github.com/ran-sama/CVE-2020-0796 | | 
-| 20220813T13:22:15Z | CVE-2021-21300 | the payload of CVE-2021-21300 | https://github.com/Roboterh/CVE-2021-21300 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220814T11:09:11Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 12 | 0| 
-| 20220814T08:12:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7647 | 263| 
+| 20220814T18:13:12Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 17 | 0| 
+| 20220814T14:31:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7648 | 263| 
 | 20220814T06:22:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2040 | 577| 
 | 20220813T22:33:55Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 4 | 1| 
 | 20220812T13:15:53Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 47 | 9| 
@@ -76,21 +76,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T23:49:13Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 381 | 20| 
+| 20220814T21:06:26Z | roblox print exploit with auto updates | https://github.com/DxDef/print | 0 | 0| 
+| 20220814T19:43:15Z | Exploiter tools. Best recommended for Synapse X and SirHurt. | https://github.com/KiaWeb/expo-tools | 0 | 0| 
+| 20220814T17:37:50Z | Exploit Script For Ragdoll System Test. | https://github.com/KingImanSlayer05/RST-MOD-PACK-V1 | 0 | 0| 
+| 20220814T16:42:23Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4792 | 661| 
 | 20220814T12:52:56Z | Modern Roblox Exploit GUI | https://github.com/CompanionCubeGD/Flipper | 0 | 0| 
-| 20220814T12:18:20Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 366 | 18| 
 | 20220814T11:34:47Z | Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) SMBv1/SMBv2 using the Metasploit Framework | https://github.com/Xcod3bughunt3r/SMBploit | 1 | 0| 
 | 20220814T11:28:05Z | New!!  | https://github.com/TheExploiterBoy/TheExploiterBoy-New-Gui | 0 | 0| 
 | 20220814T10:42:30Z | Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions | https://github.com/dubniczky/Kernel-Exploits | 0 | 0| 
 | 20220814T10:41:52Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 281 | 198| 
-| 20220814T10:35:30Z | SSBlazer is the first attempt to exploit the deep learning technique for SSB site prediction based on genome-wide single-strand break sequencing data with single-nucleotide resolution. | https://github.com/sxu99/ssblazer | 0 | 0| 
-| 20220814T09:42:00Z | Example of exploiting mlflow_airflow ans external youtube api | https://github.com/koba4444/mlflow_airflow_example | 1 | 0| 
-| 20220814T09:34:19Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 958 | 247| 
-| 20220814T05:30:47Z | Repository to store all my solutions for the PicoCTF 2022 challenges. | https://github.com/danielxreis/picoctf_2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T14:42:55Z | PHP WebShell By ./EcchiExploit | https://github.com/dmzhari/403-bypass-shell-use-range-function | 1 | 2| 
+| 20220814T13:41:24Z | How to Embed a Backdoor into an Android APK | https://github.com/Hsnbacha/Android-Hacking | 0 | 0| 
 | 20220814T09:50:41Z | A simple python script to connect to a server to establsih a backdoor connection  | https://github.com/Zeus-coder/Reverse_shell | 0 | 0| 
 | 20220814T09:00:23Z | Simple python socket source code to establish a backdoor connection  | https://github.com/Zeus-coder/sourcecode | 0 | 0| 
 | 20220814T05:51:32Z | backdoor | https://github.com/pretty-111/backdoor | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20220814T02:19:57Z | Frequency domain backdoor attacks | https://github.com/DLAIResearch/FDNet | 0 | 0| 
 | 20220814T02:12:47Z | Execute multiple payloads on the Teensy without re-flashing | https://github.com/IMcPwn/TeensyMultiPayload | 10 | 3| 
 | 20220814T01:55:05Z | BrowserBackdoor is an Electron Application with a JavaScript WebSocket Backdoor and a Ruby Command-Line Listener | https://github.com/IMcPwn/browser-backdoor | 342 | 96| 
-| 20220813T21:47:19Z | Null | https://github.com/DeveloperAvik/Backdoor | 0 | 0| 
-| 20220813T20:18:11Z | LKM to provide a code execution backdoor in userland. | https://github.com/hiatus/kdo | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -132,6 +132,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220814T22:22:01Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 55 | 5| 
+| 20220814T21:10:53Z | State-of-the-art grammar-based fuzzer 🥷 | https://github.com/Rog3rSm1th/kharma | 4 | 0| 
 | 20220814T12:21:41Z | Null | https://github.com/Ankit-Lamba-1729/fuzzy-doodle | 0 | 0| 
 | 20220814T12:08:12Z | Simple fuzzy matcher in C. | https://github.com/philj56/fuzzy-match | 0 | 0| 
 | 20220814T11:27:25Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2653 | 291| 
@@ -139,9 +141,7 @@
 | 20220814T10:26:37Z | A possible solution to the task that was provided as an assessment for an intern position, using a fuzzy string matching library(fuzzball.js) | https://github.com/pKap4/DocPlus_task_Fuzzy_matching | 0 | 0| 
 | 20220814T09:53:09Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners.  | https://github.com/l00pss/Fuzzy-Ws | 0 | 0| 
 | 20220814T08:48:44Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 25 | 13| 
-| 20220814T03:10:36Z | State-of-the-art grammar fuzzer  | https://github.com/Rog3rSm1th/kharma | 4 | 0| 
 | 20220814T03:04:55Z | Null | https://github.com/Chloeeve/fuzzy-pancake | 0 | 0| 
-| 20220813T23:12:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7674 | 1654| 
 
 
 
