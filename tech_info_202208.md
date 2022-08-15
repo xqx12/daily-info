@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220815T00:54:44Z | 🕵️ Yet another CVE-2019-9670 exploit, but in Golang. | https://github.com/oppsec/zaber | 0 | 0| 
 | 20220815T00:48:01Z | Disconnect | https://github.com/Nofrisdan/exploit-bypass | 0 | 0| 
 | 20220815T00:39:40Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1179 | 413| 
 | 20220815T00:36:41Z | Exploits | https://github.com/b8ff/Exploits | 7 | 5| 
@@ -85,7 +86,6 @@
 | 20220815T00:28:36Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-i | 0 | 0| 
 | 20220815T00:16:10Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 382 | 20| 
 | 20220814T21:06:26Z | roblox print exploit with auto updates | https://github.com/DxDef/print | 0 | 0| 
-| 20220814T19:43:15Z | Exploiter tools. Best recommended for Synapse X and SirHurt. | https://github.com/KiaWeb/expo-tools | 0 | 0| 
 
 
 # backdoor on Github 推荐
