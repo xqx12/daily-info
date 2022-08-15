@@ -23,7 +23,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220814T22:24:19Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
-| 20220814T16:30:43Z | CVE-2022-31269 | Nortek Control Linear eMerge E3-Series 信息泄露 | https://github.com/Henry4E36/CVE-2022-31269 | | 
 | 20220814T16:08:20Z | cve-2021-4034 | Null | https://github.com/Geni0r/cve-2021-4034-poc | | 
 | 20220814T15:29:50Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220814T10:01:45Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
