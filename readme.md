@@ -20,8 +20,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220815T12:23:19Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220815T12:07:01Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-MASS-RCE | | 
-| 20220815T11:44:54Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220815T11:23:17Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220815T11:03:52Z | CVE-2022-34169 | https://nvd.nist.gov/vuln/detail/CVE-2022-34169 | https://github.com/bor8/CVE-2022-34169 | | 
 | 20220815T10:35:50Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220815T12:23:24Z | Null | https://github.com/JernejHabjan/fuzzy-waddle-test | 0 | 0| 
 | 20220815T12:20:57Z | Simple fuzzy matcher in C. | https://github.com/philj56/fuzzy-match | 23 | 0| 
 | 20220815T11:03:34Z | Modelling and Optimization Under Uncertainty | https://github.com/swathipathaikara/topicModelingAndFuzzy | 0 | 0| 
 | 20220815T10:26:49Z | Null | https://github.com/Yonghero/vue-fuzzy | 2 | 0| 
