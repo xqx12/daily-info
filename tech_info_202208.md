@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220815T12:29:09Z | Effective Exploit Label Information for Legal Judgement Prediction | https://github.com/aNLPer/EEL | 0 | 0| 
 | 20220815T10:46:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3784 | 561| 
 | 20220815T10:37:40Z | Lizard is a python-based fully automated infiltration script,feature-rich and can run on termux(Android).     Lizard是一款基于python的全自动化渗透脚本；支持端口扫描、IP探测、密码爆破、shodan扫描、网站目录后台扫描、whois查询，CMS识别，poc检测；webshell一句话连接，dos攻击，ddos攻击，exp利用；整体采用模块化设计，可自行调用 | https://github.com/wr0x00/Lizard | 36 | 7| 
 | 20220815T09:00:21Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9312 | 1536| 
@@ -85,7 +86,6 @@
 | 20220815T08:09:07Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1279 | 225| 
 | 20220815T06:31:57Z | 40+ Gadgets(More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server. | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 66 | 15| 
 | 20220815T06:13:44Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 479 | 138| 
-| 20220815T05:44:26Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 78 | 11| 
 
 
 # backdoor on Github 推荐
