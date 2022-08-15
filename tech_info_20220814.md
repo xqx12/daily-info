@@ -48,7 +48,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220814T23:49:13Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 381 | 20| 
 | 20220814T21:06:26Z | roblox print exploit with auto updates | https://github.com/DxDef/print | 0 | 0| 
 | 20220814T19:43:15Z | Exploiter tools. Best recommended for Synapse X and SirHurt. | https://github.com/KiaWeb/expo-tools | 0 | 0| 
 | 20220814T17:37:50Z | Exploit Script For Ragdoll System Test. | https://github.com/KingImanSlayer05/RST-MOD-PACK-V1 | 0 | 0| 
@@ -58,6 +57,7 @@
 | 20220814T11:28:05Z | New!!  | https://github.com/TheExploiterBoy/TheExploiterBoy-New-Gui | 0 | 0| 
 | 20220814T10:42:30Z | Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions | https://github.com/dubniczky/Kernel-Exploits | 0 | 0| 
 | 20220814T10:41:52Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 281 | 198| 
+| 20220814T10:35:30Z | SSBlazer is the first attempt to exploit the deep learning technique for SSB site prediction based on genome-wide single-strand break sequencing data with single-nucleotide resolution. | https://github.com/sxu99/ssblazer | 0 | 0| 
 
 
 # backdoor on Github 推荐

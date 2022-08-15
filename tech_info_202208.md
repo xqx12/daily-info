@@ -76,7 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220814T23:49:13Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 381 | 20| 
+| 20220815T00:16:10Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 382 | 20| 
 | 20220814T21:06:26Z | roblox print exploit with auto updates | https://github.com/DxDef/print | 0 | 0| 
 | 20220814T19:43:15Z | Exploiter tools. Best recommended for Synapse X and SirHurt. | https://github.com/KiaWeb/expo-tools | 0 | 0| 
 | 20220814T17:37:50Z | Exploit Script For Ragdoll System Test. | https://github.com/KingImanSlayer05/RST-MOD-PACK-V1 | 0 | 0| 
