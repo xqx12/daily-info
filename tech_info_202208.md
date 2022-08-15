@@ -106,16 +106,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220814T08:08:32Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 3 | 0| 
+| 20220814T23:40:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3047 | 429| 
+| 20220814T20:33:42Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 0 | 0| 
+| 20220814T20:32:17Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 4 | 0| 
 | 20220814T06:22:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2040 | 577| 
 | 20220814T01:42:41Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 128 | 11| 
 | 20220814T00:37:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 472 | 26| 
 | 20220813T22:33:55Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 4 | 1| 
-| 20220813T19:19:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3048 | 429| 
 | 20220812T21:56:25Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 709 | 78| 
 | 20220812T14:54:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 244 | 59| 
 | 20220809T08:34:29Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 2 | 0| 
-| 20220808T09:36:04Z | Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.  | https://github.com/AngoraFuzzer/Angora | 811 | 157| 
 
 
 # big4 on Github 推荐

@@ -78,7 +78,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220814T08:08:32Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 3 | 0| 
+| 20220814T23:40:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3047 | 429| 
+| 20220814T20:33:42Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 0 | 0| 
+| 20220814T20:32:17Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 4 | 0| 
 | 20220814T06:22:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2040 | 577| 
 | 20220814T01:42:41Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 128 | 11| 
 | 20220814T00:37:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 472 | 26| 
