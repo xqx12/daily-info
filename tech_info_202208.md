@@ -52,7 +52,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220814T18:13:12Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 17 | 0| 
+| 20220815T00:45:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 18 | 0| 
 | 20220814T14:31:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7648 | 263| 
 | 20220814T06:22:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2040 | 577| 
 | 20220813T22:33:55Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 4 | 1| 
@@ -76,6 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220815T00:39:40Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1179 | 413| 
 | 20220815T00:36:41Z | Exploits | https://github.com/b8ff/Exploits | 7 | 5| 
 | 20220815T00:34:03Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 41 | 3| 
 | 20220815T00:30:40Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-i | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20220815T00:16:10Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 382 | 20| 
 | 20220814T21:06:26Z | roblox print exploit with auto updates | https://github.com/DxDef/print | 0 | 0| 
 | 20220814T19:43:15Z | Exploiter tools. Best recommended for Synapse X and SirHurt. | https://github.com/KiaWeb/expo-tools | 0 | 0| 
-| 20220814T17:37:50Z | Exploit Script For Ragdoll System Test. | https://github.com/KingImanSlayer05/RST-MOD-PACK-V1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
