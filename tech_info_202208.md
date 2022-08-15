@@ -76,7 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220815T01:16:16Z | 🕵️ Yet another CVE-2019-9670 exploit, but in Golang. | https://github.com/oppsec/zaber | 0 | 0| 
+| 20220815T01:26:03Z | 🕵️ Yet another CVE-2019-9670 exploit, but in Golang. | https://github.com/oppsec/zaber | 1 | 0| 
 | 20220815T00:48:01Z | Disconnect | https://github.com/Nofrisdan/exploit-bypass | 0 | 0| 
 | 20220815T00:39:40Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1179 | 413| 
 | 20220815T00:36:41Z | Exploits | https://github.com/b8ff/Exploits | 7 | 5| 
