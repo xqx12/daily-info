@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220815T01:40:50Z | URL Shortener website | https://github.com/satyamrs00/fuzzyURLs | 0 | 0| 
 | 20220814T22:22:01Z | A collection of algorithms for fuzzy search like in Sublime Text. | https://github.com/tajmone/fuzzy-search | 55 | 5| 
 | 20220814T21:10:53Z | State-of-the-art grammar-based fuzzer 🥷 | https://github.com/Rog3rSm1th/kharma | 4 | 0| 
 | 20220814T12:21:41Z | Null | https://github.com/Ankit-Lamba-1729/fuzzy-doodle | 0 | 0| 
@@ -141,7 +142,6 @@
 | 20220814T10:26:37Z | A possible solution to the task that was provided as an assessment for an intern position, using a fuzzy string matching library(fuzzball.js) | https://github.com/pKap4/DocPlus_task_Fuzzy_matching | 0 | 0| 
 | 20220814T09:53:09Z | Fuzzy is a Rock technology company known for its delivery platform for food and merchandise. On Wolt’s apps (iOS and Android) or website, customers can order food and other items from the platform’s restaurant and merchant partners, and either pick up their order or have it delivered by the platform’s courier partners.  | https://github.com/l00pss/Fuzzy-Ws | 0 | 0| 
 | 20220814T08:48:44Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 25 | 13| 
-| 20220814T03:04:55Z | Null | https://github.com/Chloeeve/fuzzy-pancake | 0 | 0| 
 
 
 
