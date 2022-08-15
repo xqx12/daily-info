@@ -37,6 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220815T12:06:19Z | CVE-2022-26809 | Null | https://github.com/Ziggy78/CVE-2022-26809-MASS-RCE | | 
 | 20220815T11:44:54Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220815T11:23:17Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220815T11:03:52Z | CVE-2022-34169 | https://nvd.nist.gov/vuln/detail/CVE-2022-34169 | https://github.com/bor8/CVE-2022-34169 | | 
@@ -46,7 +47,6 @@
 | 20220815T07:53:37Z | CVE-2022-24500 | CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability | https://github.com/Daro1967/CVE-2022-24500-MASS-RCE | | 
 | 20220815T07:09:13Z | 未知编号 | CVE-2013-2028复现 | https://github.com/Sunqiz/CVE-2013-2028-reproduction | | 
 | 20220815T02:28:51Z | CVE-2022-35513 | CVE-2022-35513 , blink1-pass-decrypt | https://github.com/p1ckzi/CVE-2022-35513 | | 
-| 20220815T02:26:44Z | CVE-2022-33891 | CVE-2022-33891 Exploit For Apache Spark | https://github.com/DrLinuxOfficial/CVE-2022-33891 | | 
 
 
 # klee on Github 推荐
