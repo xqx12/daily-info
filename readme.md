@@ -56,6 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T12:20:00Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 539 | 107| 
 | 20220816T11:09:27Z | Access file system , delete files , send message remotely | https://github.com/taher27/Java-Backdoor | 1 | 0| 
 | 20220816T09:25:13Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 117 | 28| 
 | 20220816T09:18:01Z | change dataset to Cifar10 | https://github.com/melamaze/Cifar10-Backdoor-identification | 0 | 0| 
