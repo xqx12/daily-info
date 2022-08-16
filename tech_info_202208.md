@@ -22,6 +22,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220816 | [HTB] Antique Writeup | https://mp.weixin.qq.com/s/jZ3RASicFZIzxJb00BXShQ| 
 | 20220815 | 【自动化赏金之路】初试3个月 收入10000块的总结 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485734&idx=1&sn=2c002770e14e26da5199abf63f354aec&chksm=cfb73e96f8c0b780b585d065d7280935182a730f202286b5e8f3d0bd4a4600d3244671fd13ee&mpshare=1&srcid=0815XKzDg3HarM3ZXhEkii7q&sharer_sharetime=16| 
 | 20220815 | SecWiki周刊（第441期) | https://www.sec-wiki.com/weekly/441| 
 | 20220815 | ModSecurity 自建规则之路 | https://www.sec-in.com/article/1168| 
@@ -31,29 +32,28 @@
 | 20220814 | netspy-快速探测内网可达网段工具 | https://github.com/shmilylty/netspy| 
 | 20220814 | SnakeYaml反序列化 | https://xz.aliyun.com/t/11599| 
 | 20220814 | Executor内存马的实现 | https://xz.aliyun.com/t/11593| 
-| 20220814 | How I Hacked my Car | https://programmingwithstyle.com/posts/howihackedmycar/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220816T11:35:31Z | CVE-2022-20224 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224 | | 
+| 20220816T09:00:31Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
+| 20220816T08:14:31Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
+| 20220816T02:00:20Z | CVE-2022-21789 | Null | https://github.com/docfate111/CVE-2022-21789 | | 
 | 20220816T01:23:58Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
-| 20220816T00:04:24Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
 | 20220815T20:43:53Z | CVE-2022-36163 | Null | https://github.com/MaherAzzouzi/CVE-2022-36163 | | 
-| 20220815T20:39:30Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220815T20:36:51Z | CVE-2022-36162 | Null | https://github.com/MaherAzzouzi/CVE-2022-36162 | | 
 | 20220815T19:39:40Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
 | 20220815T18:15:55Z | CVE-2020-9496 | ApacheOfBiz 17.12.01 - Unauthorized Remote Code Executión  | https://github.com/Ly0nt4r/CVE-2020-9496 | | 
 | 20220815T15:42:38Z | CVE-2022-31269 | Nortek Control Linear eMerge E3-Series 信息泄露 | https://github.com/Henry4E36/CVE-2022-31269 | | 
-| 20220815T13:19:09Z | CVE-2020-4464 | Null | https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450 | | 
-| 20220815T12:07:01Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-MASS-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220816T01:57:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7663 | 266| 
-| 20220816T01:18:48Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 23 | 0| 
+| 20220816T11:37:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 30 | 0| 
+| 20220816T08:26:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7667 | 265| 
 | 20220815T09:44:06Z | Null | https://github.com/WadiAizouky/Kleegroup_demandeLogementS | 0 | 0| 
 | 20220815T08:40:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2042 | 577| 
 | 20220815T03:41:37Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 161 | 50| 
@@ -76,31 +76,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220816T01:36:48Z | Cisco ASA Software and ASDM Security Research | https://github.com/jbaines-r7/cisco_asa_research | 28 | 4| 
-| 20220816T00:56:32Z | exploit | https://github.com/PANWEITING/exploit | 0 | 0| 
-| 20220815T22:33:24Z | It is intentionally unsecure Solana Program. It is a playground for introducing vulnerabilities and testing exploits | https://github.com/SoldMap/Solana-CrowdFunding | 0 | 0| 
-| 20220815T21:47:25Z | Null | https://github.com/xinerva/exploit | 0 | 0| 
-| 20220815T20:41:10Z | Reserved for Detection lab testing, and exploits to test | https://github.com/davethegut/Detection_lab_testing | 0 | 0| 
-| 20220815T20:21:04Z | Null | https://github.com/Wooloo9368/Exploit | 0 | 0| 
-| 20220815T20:20:24Z | Solutions and exploits of CTF challenges I%ve successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | 0 | 0| 
-| 20220815T15:41:49Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 478 | 138| 
-| 20220815T15:41:44Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2590 | 404| 
-| 20220815T13:28:23Z | A tool for extracting, modifying, and crafting ASDM binary packages (CVE-2022-20829) | https://github.com/jbaines-r7/theway | 2 | 1| 
+| 20220816T11:15:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3796 | 563| 
+| 20220816T11:08:53Z | Server side remote code execution exploit. Author: sasuke78200 | https://github.com/hertanion/ViceCity-Server-RCE-Exploit | 0 | 0| 
+| 20220816T10:54:38Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 407 | 23| 
+| 20220816T10:35:40Z | dm | https://github.com/heywhyyoulookinghere/exploit-scripts | 0 | 0| 
+| 20220816T10:02:14Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 787 | 70| 
+| 20220816T09:41:00Z | Null | https://github.com/mousepad01/exploitation_workbench | 0 | 0| 
+| 20220816T08:50:01Z | Null | https://github.com/trinhtan/audius-protocol-exploit | 0 | 0| 
+| 20220816T08:20:13Z | The MATLAB P-code for estimating quality of JPEG compressed images. The code can be exploited to estimate quality of JPEG compressed images irrespective of block size and position of blocking artifact. | https://github.com/MdAmirBaig/IQA-of-JPEG-compressed-image | 0 | 0| 
+| 20220816T08:03:38Z | Null | https://github.com/ginsama01/exploit-train | 0 | 0| 
+| 20220816T07:36:43Z | Graveyard of past Web3 exploits | https://github.com/razzor-codes/Web3-Graveyard | 4 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T11:09:27Z | Access file system , delete files , send message remotely | https://github.com/taher27/Java-Backdoor | 1 | 0| 
+| 20220816T09:25:13Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 117 | 28| 
+| 20220816T09:18:01Z | change dataset to Cifar10 | https://github.com/melamaze/Cifar10-Backdoor-identification | 0 | 0| 
+| 20220816T06:01:19Z | Python 3 backdoor | https://github.com/dupontmartin112/PythonBackdoor | 0 | 0| 
 | 20220815T23:45:50Z | Criando um Sniffer em C para detecção de BackDoors. | https://github.com/agenteph/Sniffer-em-C | 0 | 0| 
-| 20220815T21:26:41Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 115 | 28| 
 | 20220815T20:44:58Z | Null | https://github.com/damjance-coding/backdoor | 0 | 0| 
 | 20220815T14:42:02Z | This is a project used for detecting backdoors at different levels. | https://github.com/liuyugeng/backdoor_detection | 0 | 0| 
 | 20220815T10:35:12Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 102 | 34| 
 | 20220815T09:55:03Z | Null | https://github.com/rcalix1/SaisiyatPreexistingBackdoors | 0 | 0| 
 | 20220815T04:11:27Z | Null | https://github.com/alxalx14/PackageBackdoor | 0 | 0| 
-| 20220815T03:15:55Z | Null | https://github.com/SCLBD/BackdoorBench | 41 | 5| 
-| 20220814T14:42:55Z | PHP WebShell By ./EcchiExploit | https://github.com/dmzhari/403-bypass-shell-use-range-function | 1 | 2| 
-| 20220814T13:41:24Z | How to Embed a Backdoor into an Android APK | https://github.com/Hsnbacha/Android-Hacking | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -132,16 +132,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T11:57:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7685 | 1656| 
+| 20220816T10:17:41Z | E:\HGVV\Code\Python\HGVV | https://github.com/hiepgavuive/fuzzy-bassoon | 0 | 0| 
+| 20220816T09:38:22Z | Null | https://github.com/Rachell93/fuzzy-spoon | 0 | 0| 
+| 20220816T09:17:10Z | fuzzylab, a Python fuzzy logic library | https://github.com/ITTcs/fuzzylab | 8 | 8| 
+| 20220816T07:53:07Z | State-of-the-art grammar-based fuzzer 🥷 | https://github.com/Rog3rSm1th/kharma | 23 | 3| 
+| 20220816T07:41:23Z | A Final Course Project from Maven Analytics | https://github.com/Yurhigz/Fuzzy_Factory_Project | 0 | 0| 
+| 20220816T07:26:58Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 906 | 97| 
+| 20220816T04:17:12Z | Null | https://github.com/Yonghero/fuzzyjs | 0 | 0| 
 | 20220816T01:50:09Z | Null | https://github.com/kicaumania/fuzzy-goggles | 0 | 0| 
 | 20220816T01:47:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4284 | 1034| 
-| 20220816T01:15:52Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2676 | 292| 
-| 20220816T00:53:56Z | Mutation-guided mutation-based fuzz testing | https://github.com/cmu-pasta/mu2 | 11 | 1| 
-| 20220816T00:48:10Z | Null | https://github.com/bastosismael/FuzzyRegression | 0 | 0| 
-| 20220816T00:21:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40860 | 20660| 
-| 20220816T00:16:38Z | State-of-the-art grammar-based fuzzer 🥷 | https://github.com/Rog3rSm1th/kharma | 21 | 3| 
-| 20220815T21:00:28Z | Null | https://github.com/pericoma0147/protobufFuzzer | 0 | 0| 
-| 20220815T20:33:00Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4803 | 494| 
-| 20220815T19:58:00Z | A lightweight new-tab page that lets you very quickly fuzzy find links and navigate to a result. | https://github.com/familyfriendlymikey/fuzzyhome | 4 | 0| 
 
 
 
