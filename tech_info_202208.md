@@ -91,6 +91,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T12:26:28Z | Scripts for backdoor ans more | https://github.com/AliSinaYOusofi/PythonProjects | 0 | 0| 
 | 20220816T12:20:00Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 539 | 107| 
 | 20220816T11:09:27Z | Access file system , delete files , send message remotely | https://github.com/taher27/Java-Backdoor | 1 | 0| 
 | 20220816T09:25:13Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 117 | 28| 
@@ -100,7 +101,6 @@
 | 20220815T20:44:58Z | Null | https://github.com/damjance-coding/backdoor | 0 | 0| 
 | 20220815T14:42:02Z | This is a project used for detecting backdoors at different levels. | https://github.com/liuyugeng/backdoor_detection | 0 | 0| 
 | 20220815T10:35:12Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 102 | 34| 
-| 20220815T09:55:03Z | Null | https://github.com/rcalix1/SaisiyatPreexistingBackdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
