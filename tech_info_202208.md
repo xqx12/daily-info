@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T00:53:56Z | Mutation-guided mutation-based fuzz testing | https://github.com/cmu-pasta/mu2 | 11 | 1| 
 | 20220816T00:48:10Z | Null | https://github.com/bastosismael/FuzzyRegression | 0 | 0| 
 | 20220816T00:21:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 40860 | 20660| 
 | 20220816T00:16:38Z | State-of-the-art grammar-based fuzzer 🥷 | https://github.com/Rog3rSm1th/kharma | 21 | 3| 
@@ -141,7 +142,6 @@
 | 20220815T19:35:20Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2677 | 291| 
 | 20220815T16:17:48Z | Null | https://github.com/matta/bazel-fuzz-example | 0 | 0| 
 | 20220815T16:04:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7683 | 1656| 
-| 20220815T12:50:22Z | Simple fuzzy matcher in C. | https://github.com/philj56/fuzzy-match | 24 | 0| 
 
 
 
