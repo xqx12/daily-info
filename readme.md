@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T12:04:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2930 | 588| 
 | 20220816T11:57:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7685 | 1656| 
 | 20220816T10:17:41Z | E:\HGVV\Code\Python\HGVV | https://github.com/hiepgavuive/fuzzy-bassoon | 0 | 0| 
 | 20220816T09:38:22Z | Null | https://github.com/Rachell93/fuzzy-spoon | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20220816T07:26:58Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 906 | 97| 
 | 20220816T04:17:12Z | Null | https://github.com/Yonghero/fuzzyjs | 0 | 0| 
 | 20220816T01:50:09Z | Null | https://github.com/kicaumania/fuzzy-goggles | 0 | 0| 
-| 20220816T01:47:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4284 | 1034| 
 
 
 
