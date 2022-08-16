@@ -76,7 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220816T01:34:16Z | Cisco ASA Software and ASDM Security Research | https://github.com/jbaines-r7/cisco_asa_research | 27 | 4| 
+| 20220816T01:36:48Z | Cisco ASA Software and ASDM Security Research | https://github.com/jbaines-r7/cisco_asa_research | 28 | 4| 
 | 20220816T00:56:32Z | exploit | https://github.com/PANWEITING/exploit | 0 | 0| 
 | 20220815T22:33:24Z | It is intentionally unsecure Solana Program. It is a playground for introducing vulnerabilities and testing exploits | https://github.com/SoldMap/Solana-CrowdFunding | 0 | 0| 
 | 20220815T21:47:25Z | Null | https://github.com/xinerva/exploit | 0 | 0| 
