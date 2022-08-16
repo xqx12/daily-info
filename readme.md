@@ -26,10 +26,10 @@
 | 20220815T19:39:40Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
 | 20220815T18:15:55Z | CVE-2020-9496 | ApacheOfBiz 17.12.01 - Unauthorized Remote Code Executión  | https://github.com/Ly0nt4r/CVE-2020-9496 | | 
 | 20220815T15:42:38Z | CVE-2022-31269 | Nortek Control Linear eMerge E3-Series 信息泄露 | https://github.com/Henry4E36/CVE-2022-31269 | | 
-| 20220815T15:42:37Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220815T13:19:09Z | CVE-2020-4464 | Null | https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450 | | 
 | 20220815T12:07:01Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-MASS-RCE | | 
 | 20220815T11:03:52Z | CVE-2022-34169 | https://nvd.nist.gov/vuln/detail/CVE-2022-34169 | https://github.com/bor8/CVE-2022-34169 | | 
+| 20220815T10:29:43Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 
 
 # klee on Github 推荐
