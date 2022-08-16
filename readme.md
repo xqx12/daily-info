@@ -96,13 +96,13 @@
 | 20220815T21:00:28Z | Null | https://github.com/pericoma0147/protobufFuzzer | 0 | 0| 
 | 20220815T20:33:00Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4803 | 494| 
 | 20220815T19:58:00Z | A lightweight new-tab page that lets you very quickly fuzzy find links and navigate to a result. | https://github.com/familyfriendlymikey/fuzzyhome | 4 | 0| 
-| 20220815T19:35:20Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2677 | 291| 
 | 20220815T16:17:48Z | Null | https://github.com/matta/bazel-fuzz-example | 0 | 0| 
 | 20220815T16:04:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7683 | 1656| 
 | 20220815T12:50:22Z | Simple fuzzy matcher in C. | https://github.com/philj56/fuzzy-match | 24 | 0| 
 | 20220815T12:23:24Z | Null | https://github.com/JernejHabjan/fuzzy-waddle-test | 0 | 0| 
 | 20220815T11:03:34Z | Modelling and Optimization Under Uncertainty | https://github.com/swathipathaikara/topicModelingAndFuzzy | 0 | 0| 
 | 20220815T10:26:49Z | Null | https://github.com/Yonghero/vue-fuzzy | 2 | 0| 
+| 20220815T09:14:20Z | Null | https://github.com/sunkipratiksha/fuzzy-system | 0 | 0| 
 
 
 
