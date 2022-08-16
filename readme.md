@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220816T12:21:34Z | CVE-2022-20223 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223 | | 
 | 20220816T12:10:21Z | CVE-2022-20229 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229 | | 
 | 20220816T11:35:31Z | CVE-2022-20224 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224 | | 
 | 20220816T09:00:31Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
@@ -40,8 +41,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T12:19:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3797 | 563| 
 | 20220816T12:03:52Z | Accelerating Convolutional Neural Network by Exploiting Sparsity on GPUs | https://github.com/sunnchioo/OCPA | 0 | 0| 
-| 20220816T11:15:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3796 | 563| 
 | 20220816T11:08:53Z | Server side remote code execution exploit. Author: sasuke78200 | https://github.com/hertanion/ViceCity-Server-RCE-Exploit | 0 | 0| 
 | 20220816T10:54:38Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 407 | 23| 
 | 20220816T10:35:40Z | dm | https://github.com/heywhyyoulookinghere/exploit-scripts | 0 | 0| 
