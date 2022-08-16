@@ -132,6 +132,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T01:47:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4284 | 1034| 
 | 20220816T01:15:52Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2676 | 292| 
 | 20220816T00:53:56Z | Mutation-guided mutation-based fuzz testing | https://github.com/cmu-pasta/mu2 | 11 | 1| 
 | 20220816T00:48:10Z | Null | https://github.com/bastosismael/FuzzyRegression | 0 | 0| 
@@ -141,7 +142,6 @@
 | 20220815T20:33:00Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4803 | 494| 
 | 20220815T19:58:00Z | A lightweight new-tab page that lets you very quickly fuzzy find links and navigate to a result. | https://github.com/familyfriendlymikey/fuzzyhome | 4 | 0| 
 | 20220815T16:17:48Z | Null | https://github.com/matta/bazel-fuzz-example | 0 | 0| 
-| 20220815T16:04:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7683 | 1656| 
 
 
 
