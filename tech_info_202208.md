@@ -37,6 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220816T12:08:11Z | CVE-2022-20229 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229 | | 
 | 20220816T11:35:31Z | CVE-2022-20224 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224 | | 
 | 20220816T09:00:31Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220816T08:14:31Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
@@ -46,7 +47,6 @@
 | 20220815T20:36:51Z | CVE-2022-36162 | Null | https://github.com/MaherAzzouzi/CVE-2022-36162 | | 
 | 20220815T19:39:40Z | CVE-2022-27925 | Zimbra RCE simple poc | https://github.com/vnhacker1337/CVE-2022-27925-PoC | | 
 | 20220815T18:15:55Z | CVE-2020-9496 | ApacheOfBiz 17.12.01 - Unauthorized Remote Code Executión  | https://github.com/Ly0nt4r/CVE-2020-9496 | | 
-| 20220815T15:42:38Z | CVE-2022-31269 | Nortek Control Linear eMerge E3-Series 信息泄露 | https://github.com/Henry4E36/CVE-2022-31269 | | 
 
 
 # klee on Github 推荐
