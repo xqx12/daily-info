@@ -37,7 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220816T12:21:34Z | CVE-2022-20223 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223 | | 
+| 20220816T12:30:29Z | CVE-2022-20223 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223 | | 
 | 20220816T12:10:21Z | CVE-2022-20229 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229 | | 
 | 20220816T11:35:31Z | CVE-2022-20224 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224 | | 
 | 20220816T09:00:31Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
