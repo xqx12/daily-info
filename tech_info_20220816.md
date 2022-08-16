@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T12:03:52Z | Accelerating Convolutional Neural Network by Exploiting Sparsity on GPUs | https://github.com/sunnchioo/OCPA | 0 | 0| 
 | 20220816T11:15:15Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3796 | 563| 
 | 20220816T11:08:53Z | Server side remote code execution exploit. Author: sasuke78200 | https://github.com/hertanion/ViceCity-Server-RCE-Exploit | 0 | 0| 
 | 20220816T10:54:38Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 407 | 23| 
@@ -48,7 +49,6 @@
 | 20220816T08:50:01Z | Null | https://github.com/trinhtan/audius-protocol-exploit | 0 | 0| 
 | 20220816T08:20:13Z | The MATLAB P-code for estimating quality of JPEG compressed images. The code can be exploited to estimate quality of JPEG compressed images irrespective of block size and position of blocking artifact. | https://github.com/MdAmirBaig/IQA-of-JPEG-compressed-image | 0 | 0| 
 | 20220816T08:03:38Z | Null | https://github.com/ginsama01/exploit-train | 0 | 0| 
-| 20220816T07:36:43Z | Graveyard of past Web3 exploits | https://github.com/razzor-codes/Web3-Graveyard | 4 | 2| 
 
 
 # backdoor on Github 推荐
