@@ -37,7 +37,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220816T01:07:07Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
+| 20220816T01:23:58Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 | 20220816T00:04:24Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
 | 20220815T20:43:53Z | CVE-2022-36163 | Null | https://github.com/MaherAzzouzi/CVE-2022-36163 | | 
 | 20220815T20:39:30Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
