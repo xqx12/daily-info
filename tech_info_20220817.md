@@ -16,6 +16,7 @@
 | 20220817 | Google 安全芯片 Titan M 的代码执行漏洞分析（CVE-2022-20233） | http://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html| 
 | 20220817 | CheckPoint 在 PyPI 平台检测到两款伪造的恶意软件包 | https://securelist.com/two-more-malicious-python-packages-in-the-pypi/107218/| 
 | 20220817 | ZecOps 对 AliExpress 平台购买的 Android 手机取证分析，发现该手机将系统 Android 6 伪造欺骗成 Android 10 | https://sec.today/pulses/0d783db1-d65c-4d1c-9328-7280b8ff5693/| 
+| 20220817 | ZecOps 对 AliExpress 平台购买的 Android 手机取证分析，发现该手机将系统 Android 6 伪造欺骗成 Android 10 | https://blog.zecops.com/research/fake-droids-your-new-android-device-is-actually-an-old-android-6/| 
 
 
 # 安全维基 推荐
@@ -64,13 +65,20 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220817T01:58:19Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 184 | 53| 
-| 20220817T01:50:15Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 6 | 2| 
+| 20220817T11:41:52Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 14 | 2| 
+| 20220817T11:00:34Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 188 | 53| 
+| 20220817T11:00:31Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 3 | 0| 
+| 20220817T08:34:06Z | Backdoor Attacks on Spiking NNs and Neuromorphic Datasets | https://github.com/GorkaAbad/NeuromorphicBackdoors | 1 | 0| 
+| 20220817T05:01:33Z | Null | https://github.com/SCLBD/BackdoorBench | 42 | 5| 
+| 20220817T03:37:36Z | precompiled backdoor and visual gui | https://github.com/Altify-Development/windows-backdoor | 1 | 0| 
+| 20220817T02:39:40Z | Null | https://github.com/rcalix1/SaisiyatPreexistingBackdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220817T07:22:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2042 | 577| 
+| 20220817T06:41:30Z | pre-compiled/linked coreutils programs used as benchmarks for symbolic execution | https://github.com/Generative-Program-Analysis/coreutils-linked | 0 | 0| 
 
 
 # big4 on Github 推荐

@@ -16,6 +16,7 @@
 | 20220817 | Google 安全芯片 Titan M 的代码执行漏洞分析（CVE-2022-20233） | http://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html| 
 | 20220817 | CheckPoint 在 PyPI 平台检测到两款伪造的恶意软件包 | https://securelist.com/two-more-malicious-python-packages-in-the-pypi/107218/| 
 | 20220817 | ZecOps 对 AliExpress 平台购买的 Android 手机取证分析，发现该手机将系统 Android 6 伪造欺骗成 Android 10 | https://sec.today/pulses/0d783db1-d65c-4d1c-9328-7280b8ff5693/| 
+| 20220817 | ZecOps 对 AliExpress 平台购买的 Android 手机取证分析，发现该手机将系统 Android 6 伪造欺骗成 Android 10 | https://blog.zecops.com/research/fake-droids-your-new-android-device-is-actually-an-old-android-6/| 
 | 20220812 | SMB RCE CVE-2022-35804漏洞介绍 | http://v-v.space/2022/08/11/CVE-2022-35804/| 
 | 20220811 | Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling | https://portswigger.net/research/browser-powered-desync-attacks| 
 | 20220811 | CVE-2022-22252: Huawei HWLog Vmalloc Use-After-Free | https://labs.taszk.io/blog/post/79_hw_hwlog_uaf/| 
@@ -25,7 +26,6 @@
 | 20220811 | Linux 内核 GC 漏洞（CVE-2021-0920）的分析，该漏洞已有野外利用 | https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html| 
 | 20220811 | Active Directory 环境网络共享配置权限不当问题的分析和利用 | http://www.netspi.com/blog/technical/network-penetration-testing/network-share-permissions-powerhuntshares/| 
 | 20220811 | VMWare vRealize Operations Manager Pre-Authenticated RCE 漏洞的分析 | https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html| 
-| 20220811 | gorilla - 用于生成密码字段的工具 | https://github.com/d4rckh/gorilla| 
 
 
 # 安全维基 推荐
@@ -100,31 +100,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220817T01:58:19Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 184 | 53| 
-| 20220817T01:50:15Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 6 | 2| 
+| 20220817T11:41:52Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 14 | 2| 
+| 20220817T11:00:34Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 188 | 53| 
+| 20220817T11:00:31Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 3 | 0| 
+| 20220817T08:34:06Z | Backdoor Attacks on Spiking NNs and Neuromorphic Datasets | https://github.com/GorkaAbad/NeuromorphicBackdoors | 1 | 0| 
+| 20220817T05:01:33Z | Null | https://github.com/SCLBD/BackdoorBench | 42 | 5| 
+| 20220817T03:37:36Z | precompiled backdoor and visual gui | https://github.com/Altify-Development/windows-backdoor | 1 | 0| 
+| 20220817T02:39:40Z | Null | https://github.com/rcalix1/SaisiyatPreexistingBackdoors | 0 | 0| 
 | 20220816T23:43:32Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1708 | 401| 
 | 20220816T21:30:59Z | Null | https://github.com/richmailYT/backdoor | 0 | 0| 
 | 20220816T19:38:39Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 119 | 28| 
-| 20220816T12:27:35Z | Scripts for backdoor ans more | https://github.com/AliSinaYOusofi/PythonProjects | 0 | 0| 
-| 20220816T12:20:00Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 539 | 107| 
-| 20220816T11:09:27Z | Access file system , delete files , send message remotely | https://github.com/taher27/Java-Backdoor | 1 | 0| 
-| 20220816T09:18:01Z | change dataset to Cifar10 | https://github.com/melamaze/Cifar10-Backdoor-identification | 0 | 0| 
-| 20220816T06:01:19Z | Python 3 backdoor | https://github.com/dupontmartin112/PythonBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220817T07:22:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2042 | 577| 
+| 20220817T06:41:30Z | pre-compiled/linked coreutils programs used as benchmarks for symbolic execution | https://github.com/Generative-Program-Analysis/coreutils-linked | 0 | 0| 
 | 20220816T18:07:44Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 129 | 11| 
 | 20220816T14:53:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3051 | 431| 
-| 20220816T12:51:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2043 | 577| 
 | 20220816T08:33:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
 | 20220815T14:24:05Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 5 | 0| 
 | 20220814T20:33:42Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 0 | 0| 
 | 20220814T00:37:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 472 | 26| 
 | 20220813T22:33:55Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 4 | 1| 
 | 20220812T21:56:25Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 709 | 78| 
-| 20220812T14:54:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 244 | 59| 
 
 
 # big4 on Github 推荐
