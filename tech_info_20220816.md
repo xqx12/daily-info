@@ -17,21 +17,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220816T19:48:36Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
+| 20220816T17:59:53Z | cve-2022-3452 | Null | https://github.com/kenyon-wong/cve-2022-3452 | | 
+| 20220816T15:55:29Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
+| 20220816T15:50:49Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-MASS-RCE | | 
+| 20220816T14:10:10Z | CVE-2022-29247 | Null | https://github.com/a1ise/CVE-2022-29247 | | 
 | 20220816T12:30:29Z | CVE-2022-20223 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223 | | 
 | 20220816T12:10:21Z | CVE-2022-20229 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229 | | 
 | 20220816T11:35:31Z | CVE-2022-20224 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224 | | 
 | 20220816T09:00:31Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
-| 20220816T08:14:31Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
 | 20220816T02:00:20Z | CVE-2022-21789 | Null | https://github.com/docfate111/CVE-2022-21789 | | 
-| 20220816T01:23:58Z | CVE-2022-34918 | CVE-2022-34918 netfilter nf_tables 本地提权 POC | https://github.com/veritas501/CVE-2022-34918 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220816T12:53:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7668 | 265| 
+| 20220816T23:17:56Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 37 | 0| 
+| 20220816T17:24:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7671 | 265| 
+| 20220816T14:02:02Z | All my jobs | https://github.com/xamie01/kleekit-jobs | 0 | 0| 
 | 20220816T12:51:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2043 | 577| 
-| 20220816T11:37:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 30 | 0| 
 
 
 # s2e on Github 推荐
@@ -42,25 +46,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T23:59:23Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-q | 0 | 0| 
+| 20220816T23:58:17Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-q | 0 | 0| 
+| 20220816T23:56:52Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-q | 0 | 0| 
+| 20220816T23:33:46Z | Free roblox exploit for the windows operating systems. virus free although it will flag as a virus their is no virus in the code. | https://github.com/BloxieBoy/AimWhere-RobloxExploit | 0 | 0| 
+| 20220816T20:46:27Z | Roblox Exploit  | https://github.com/GamerGuyAlex/SerpentWare | 0 | 0| 
+| 20220816T19:09:35Z | Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.  | https://github.com/Maximus-Meridius-SC/SOC-analyst-project | 0 | 0| 
+| 20220816T19:06:11Z | Baringo county is an Arid and Semi-arid region, its characteristics and challenges are not to be neglected. The area is characterized by extensive rangelands, communally owned land, pastoralism, extreme climate change, famine, floods, poverty, human-animal conflicts, tribal conflicts among the community, and many challenges. with the extensive land and lack of land tenure at a local level, exploitation of the land without regulation is very high. There is a gap in the conventional land administration systems such that customary and informal tenure cannot be easily handled. There is a need for complimentary approaches in land administration. The concept of the Social Tenure Domain Model is to bridge this gap by providing a standard for representing ‘peoples land’ relationships independent of the level of formality, legality, and technical accuracy. The STDM has been used in very many cases in both Africa and more importantly Kenya. In Kenya, the model has been used mostly in urban informal settlements. The objective of the use of STDM in the Kaptuya conservancy is used to create a topo cadastral map of the conservancy to enable the stakeholders to effectively plan the land use land cover within the conservancy to enable effective cohabitation of the animals and humans. The land use land cover plan will reduce land conflicts and encourage the pastoralist community to have planned grazings, therefore, solving the fights on resources that are majorly experienced in the pastoralist community.  The STDM plugin is installed in Qgis and the database is created. The model has four sections; party including the people, person, group, or groups owning the land, that has the social tenure relationship including land rights, occupancy, customary tenure, tenancy, ownership, rent, leases, permits, and any other, with a spatial unit that includes land, property, structure, natural resources, objects, etc. and all these are supported by supporting documents that have been scanned i.e. sketches from individuals or the community, audio recordings, photos, documented histories, and many other relevant documents. The need for efficient land recordation tools and the use of ICT has become a necessity and increasingly becoming more available in recent times. The STDM information tool provides the front-end interface for testing and applying the STDM concept and model. Building from the STDM prototype version and in adherence to GLTN core values (e.g. pro-poor, equity, affordability, good governance, subsidiarity, gender sensitiveness, systematic large scale approach, and sustainability), UN-Habitat/GLTN together with its implementing partners, has supported the continuous development of the information tool in a variety of application areas ranging from informal settlement upgrading to natural resource management. The data is collected from different methods from the sketches from the community, satellite images, and ground-truthing from GPS coordinates picked. The data is then processed and a database is created and a topo-cadastral map is created. The topo-cadastral map is then used to create a land use land cover plan for effective conservation. with the digitization phase that the country is in right now, this research is a step forward toward the desired goals.  | https://github.com/123098abc/KaptuyaSTDM.github.io | 0 | 0| 
+| 20220816T16:53:52Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 976 | 249| 
+| 20220816T15:35:56Z | Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules | https://github.com/moom825/Discord-RAT-2.0 | 20 | 5| 
 | 20220816T12:19:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3797 | 563| 
-| 20220816T12:03:52Z | Accelerating Convolutional Neural Network by Exploiting Sparsity on GPUs | https://github.com/sunnchioo/OCPA | 0 | 0| 
-| 20220816T11:08:53Z | Server side remote code execution exploit. Author: sasuke78200 | https://github.com/hertanion/ViceCity-Server-RCE-Exploit | 0 | 0| 
-| 20220816T10:54:38Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 407 | 23| 
-| 20220816T10:35:40Z | dm | https://github.com/heywhyyoulookinghere/exploit-scripts | 0 | 0| 
-| 20220816T10:02:14Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 787 | 70| 
-| 20220816T09:41:00Z | Null | https://github.com/mousepad01/exploitation_workbench | 0 | 0| 
-| 20220816T08:50:01Z | Null | https://github.com/trinhtan/audius-protocol-exploit | 0 | 0| 
-| 20220816T08:20:13Z | The MATLAB P-code for estimating quality of JPEG compressed images. The code can be exploited to estimate quality of JPEG compressed images irrespective of block size and position of blocking artifact. | https://github.com/MdAmirBaig/IQA-of-JPEG-compressed-image | 0 | 0| 
-| 20220816T08:03:38Z | Null | https://github.com/ginsama01/exploit-train | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T23:43:32Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1708 | 401| 
+| 20220816T21:30:59Z | Null | https://github.com/richmailYT/backdoor | 0 | 0| 
+| 20220816T19:38:39Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 119 | 28| 
+| 20220816T18:50:17Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 4 | 2| 
+| 20220816T13:26:06Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 182 | 53| 
 | 20220816T12:27:35Z | Scripts for backdoor ans more | https://github.com/AliSinaYOusofi/PythonProjects | 0 | 0| 
 | 20220816T12:20:00Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 539 | 107| 
 | 20220816T11:09:27Z | Access file system , delete files , send message remotely | https://github.com/taher27/Java-Backdoor | 1 | 0| 
-| 20220816T09:25:13Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 117 | 28| 
 | 20220816T09:18:01Z | change dataset to Cifar10 | https://github.com/melamaze/Cifar10-Backdoor-identification | 0 | 0| 
 | 20220816T06:01:19Z | Python 3 backdoor | https://github.com/dupontmartin112/PythonBackdoor | 0 | 0| 
 
@@ -81,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T23:53:09Z | Null | https://github.com/Philip-Pione/fuzzy-guacamole | 0 | 0| 
+| 20220816T23:05:34Z | Fuzz testing a staking contract | https://github.com/thadhutch/Foundry-Fuzz-Testing | 0 | 0| 
+| 20220816T21:11:59Z | Null | https://github.com/mhernandez77/fuzzy_shopping_cart | 0 | 0| 
+| 20220816T20:52:39Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 183 | 24| 
+| 20220816T20:48:56Z | Fuzz your Rust code with Google-developed Honggfuzz ! | https://github.com/rust-fuzz/honggfuzz-rs | 344 | 37| 
+| 20220816T20:43:59Z | Null | https://github.com/LuizFernandoDeveloper/Fuzzing | 0 | 0| 
+| 20220816T19:06:20Z | Null | https://github.com/csundheimjr/fuzzy-friend-finder | 0 | 0| 
 | 20220816T12:57:48Z | Null | https://github.com/208565064/fuzzy-octo-sniffle | 0 | 0| 
 | 20220816T12:55:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4287 | 1035| 
 | 20220816T12:04:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2930 | 588| 
-| 20220816T11:57:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7685 | 1656| 
-| 20220816T10:17:41Z | E:\HGVV\Code\Python\HGVV | https://github.com/hiepgavuive/fuzzy-bassoon | 0 | 0| 
-| 20220816T09:38:22Z | Null | https://github.com/Rachell93/fuzzy-spoon | 0 | 0| 
-| 20220816T09:17:10Z | fuzzylab, a Python fuzzy logic library | https://github.com/ITTcs/fuzzylab | 8 | 8| 
-| 20220816T07:53:07Z | State-of-the-art grammar-based fuzzer 🥷 | https://github.com/Rog3rSm1th/kharma | 23 | 3| 
-| 20220816T07:41:23Z | A Final Course Project from Maven Analytics | https://github.com/Yurhigz/Fuzzy_Factory_Project | 0 | 0| 
-| 20220816T07:26:58Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 906 | 97| 
 
 
 
