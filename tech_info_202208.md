@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220817T12:03:01Z | This is just for FREE apeirophobia scripts! | https://github.com/jogamerforgames2022/Apeirophobia_Scripts | 0 | 0| 
+| 20220817T12:08:46Z | This is just for FREE apeirophobia scripts! | https://github.com/jogamerforgames2022/Apeirophobia_Scripts | 0 | 0| 
 | 20220817T11:37:07Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 4271 | 870| 
 | 20220817T11:17:08Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 409 | 24| 
 | 20220817T11:12:02Z | Demonstration of IoT Edge module exploiting Azure Percept data. | https://github.com/kbeaugrand-org/AzurePerceptDemo | 0 | 0| 
