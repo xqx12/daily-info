@@ -120,11 +120,11 @@
 | 20220816T18:07:44Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 129 | 11| 
 | 20220816T14:53:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3051 | 431| 
 | 20220816T08:33:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
+| 20220815T16:24:35Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 19 | 4| 
 | 20220815T14:24:05Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 5 | 0| 
 | 20220814T20:33:42Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 0 | 0| 
 | 20220814T00:37:01Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 472 | 26| 
 | 20220813T22:33:55Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 4 | 1| 
-| 20220812T21:56:25Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 709 | 78| 
 
 
 # big4 on Github 推荐
