@@ -140,8 +140,8 @@
 | 20220816T20:43:59Z | Null | https://github.com/LuizFernandoDeveloper/Fuzzing | 0 | 0| 
 | 20220816T20:41:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7687 | 1658| 
 | 20220816T19:06:20Z | Null | https://github.com/csundheimjr/fuzzy-friend-finder | 0 | 0| 
+| 20220816T15:33:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4288 | 1035| 
 | 20220816T12:57:48Z | Null | https://github.com/208565064/fuzzy-octo-sniffle | 0 | 0| 
-| 20220816T12:55:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4287 | 1035| 
 
 
 
