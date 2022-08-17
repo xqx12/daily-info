@@ -138,10 +138,10 @@
 | 20220816T20:52:39Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 183 | 24| 
 | 20220816T20:48:56Z | Fuzz your Rust code with Google-developed Honggfuzz ! | https://github.com/rust-fuzz/honggfuzz-rs | 344 | 37| 
 | 20220816T20:43:59Z | Null | https://github.com/LuizFernandoDeveloper/Fuzzing | 0 | 0| 
+| 20220816T20:41:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7687 | 1658| 
 | 20220816T19:06:20Z | Null | https://github.com/csundheimjr/fuzzy-friend-finder | 0 | 0| 
 | 20220816T12:57:48Z | Null | https://github.com/208565064/fuzzy-octo-sniffle | 0 | 0| 
 | 20220816T12:55:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4287 | 1035| 
-| 20220816T12:04:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2930 | 588| 
 
 
 
