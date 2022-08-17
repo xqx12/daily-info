@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220817T12:03:01Z | This is just for FREE apeirophobia scripts! | https://github.com/jogamerforgames2022/Apeirophobia_Scripts | 0 | 0| 
 | 20220817T11:37:07Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 4271 | 870| 
 | 20220817T11:17:08Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 409 | 24| 
 | 20220817T11:12:02Z | Demonstration of IoT Edge module exploiting Azure Percept data. | https://github.com/kbeaugrand-org/AzurePerceptDemo | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20220817T08:24:51Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1146 | 103| 
 | 20220817T07:12:34Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 38 | 2| 
 | 20220817T06:12:07Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 79 | 11| 
-| 20220817T01:39:58Z | Exploits for betastar.org | https://github.com/BlacketWare/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220817T12:02:32Z | 4 лаба по нечеткой логике | https://github.com/VadimKiKi/Working-with-fuzzy-sets-second | 0 | 0| 
 | 20220817T11:57:09Z | Работа с нечеткими множествами | https://github.com/VadimKiKi/Working-with-fuzzy-sets-first | 0 | 0| 
 | 20220817T11:52:12Z | Null | https://github.com/Rakibul-Hasan-max/fuzzy-search-react | 0 | 0| 
 | 20220817T10:37:48Z | My first | https://github.com/MichPiao/fuzzy-parakeet | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220817T01:36:48Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2695 | 297| 
 | 20220817T00:14:13Z | Null | https://github.com/Philip-Pione/fuzzy-guacamole | 0 | 0| 
 | 20220816T23:05:34Z | Fuzz testing a staking contract | https://github.com/thadhutch/Foundry-Fuzz-Testing | 0 | 0| 
-| 20220816T21:11:59Z | Null | https://github.com/mhernandez77/fuzzy_shopping_cart | 0 | 0| 
 
 
 
