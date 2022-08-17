@@ -62,7 +62,6 @@
 | 20220816T23:43:32Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1708 | 401| 
 | 20220816T21:30:59Z | Null | https://github.com/richmailYT/backdoor | 0 | 0| 
 | 20220816T19:38:39Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 119 | 28| 
-| 20220816T18:50:17Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 4 | 2| 
 | 20220816T13:26:06Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 182 | 53| 
 | 20220816T12:27:35Z | Scripts for backdoor ans more | https://github.com/AliSinaYOusofi/PythonProjects | 0 | 0| 
 | 20220816T12:20:00Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 539 | 107| 
