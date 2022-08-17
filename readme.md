@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220817T12:20:57Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 616 | 74| 
 | 20220817T12:07:32Z | Работа с матрицами нечетких отношений | https://github.com/VadimKiKi/Working-with-fuzzy-sets-second | 0 | 0| 
 | 20220817T11:57:09Z | Работа с нечеткими множествами | https://github.com/VadimKiKi/Working-with-fuzzy-sets-first | 0 | 0| 
 | 20220817T11:52:12Z | Null | https://github.com/Rakibul-Hasan-max/fuzzy-search-react | 0 | 0| 
