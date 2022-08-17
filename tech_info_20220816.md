@@ -89,7 +89,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220816T23:53:09Z | Null | https://github.com/Philip-Pione/fuzzy-guacamole | 0 | 0| 
 | 20220816T23:05:34Z | Fuzz testing a staking contract | https://github.com/thadhutch/Foundry-Fuzz-Testing | 0 | 0| 
 | 20220816T21:11:59Z | Null | https://github.com/mhernandez77/fuzzy_shopping_cart | 0 | 0| 
 | 20220816T20:52:39Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 183 | 24| 
@@ -99,6 +98,7 @@
 | 20220816T19:06:20Z | Null | https://github.com/csundheimjr/fuzzy-friend-finder | 0 | 0| 
 | 20220816T12:57:48Z | Null | https://github.com/208565064/fuzzy-octo-sniffle | 0 | 0| 
 | 20220816T12:55:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4287 | 1035| 
+| 20220816T12:04:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2930 | 588| 
 
 
 
