@@ -134,6 +134,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220817T00:14:13Z | Null | https://github.com/Philip-Pione/fuzzy-guacamole | 0 | 0| 
 | 20220816T23:05:34Z | Fuzz testing a staking contract | https://github.com/thadhutch/Foundry-Fuzz-Testing | 0 | 0| 
+| 20220816T22:12:25Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2694 | 297| 
 | 20220816T21:11:59Z | Null | https://github.com/mhernandez77/fuzzy_shopping_cart | 0 | 0| 
 | 20220816T20:52:39Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 183 | 24| 
 | 20220816T20:48:56Z | Fuzz your Rust code with Google-developed Honggfuzz ! | https://github.com/rust-fuzz/honggfuzz-rs | 344 | 37| 
@@ -141,7 +142,6 @@
 | 20220816T20:41:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7687 | 1658| 
 | 20220816T19:06:20Z | Null | https://github.com/csundheimjr/fuzzy-friend-finder | 0 | 0| 
 | 20220816T15:33:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4288 | 1035| 
-| 20220816T12:57:48Z | Null | https://github.com/208565064/fuzzy-octo-sniffle | 0 | 0| 
 
 
 
