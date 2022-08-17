@@ -76,9 +76,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220816T18:07:44Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 129 | 11| 
+| 20220816T14:53:02Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3051 | 431| 
 | 20220816T12:51:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2043 | 577| 
 | 20220816T08:33:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
-| 20220816T07:10:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3050 | 429| 
 
 
 # big4 on Github 推荐
