@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220817 | 基于 Slope 的服务器的取证分析 Solana 公链大规模盗币事件 | https://mp.weixin.qq.com/s/YJgPNYykr2P1j2yHseJ2tQ| 
+| 20220817 | RE-Mind - 二进制逆向分析的方法论 | http://www.usenix.org/system/files/sec22-mantovani.pdf| 
+| 20220817 | AdobeReader DLL 加载漏洞与随机数转换逻辑漏洞分享(CVE-2021-21037) | https://mp.weixin.qq.com/s/tjyTMrgbbqX8ljZyZGwovw| 
+| 20220817 | Wiz 研究团队发现多个云厂商的 PostgreSQL-as-a-Service 服务存在安全隔离漏洞 | http://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities| 
+| 20220817 | Windows Segment Heap: Attacking the VS Allocator | http://labs.bluefrostsecurity.de/blog.html/2022/08/16/windows-segment-heap-attacking-the-vs-allocator/| 
+| 20220817 | Finding security vulnerabilities through fuzzing，一份关于 Fuzzing 的 workshop | http://fuzzing.in/codelabs/finding_security_vulnerabilities/index.html?index=..%2F..index#0| 
+| 20220817 | 通过修改进程环境变量实现 Windows 11 DLL 劫持 | http://www.wietzebeukema.nl/blog/save-the-environment-variables| 
+| 20220817 | Google 安全芯片 Titan M 的代码执行漏洞分析（CVE-2022-20233） | http://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html| 
+| 20220817 | CheckPoint 在 PyPI 平台检测到两款伪造的恶意软件包 | https://securelist.com/two-more-malicious-python-packages-in-the-pypi/107218/| 
+| 20220817 | ZecOps 对 AliExpress 平台购买的 Android 手机取证分析，发现该手机将系统 Android 6 伪造欺骗成 Android 10 | https://sec.today/pulses/0d783db1-d65c-4d1c-9328-7280b8ff5693/| 
 | 20220812 | SMB RCE CVE-2022-35804漏洞介绍 | http://v-v.space/2022/08/11/CVE-2022-35804/| 
 | 20220811 | Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling | https://portswigger.net/research/browser-powered-desync-attacks| 
 | 20220811 | CVE-2022-22252: Huawei HWLog Vmalloc Use-After-Free | https://labs.taszk.io/blog/post/79_hw_hwlog_uaf/| 
@@ -16,12 +26,12 @@
 | 20220811 | Active Directory 环境网络共享配置权限不当问题的分析和利用 | http://www.netspi.com/blog/technical/network-penetration-testing/network-share-permissions-powerhuntshares/| 
 | 20220811 | VMWare vRealize Operations Manager Pre-Authenticated RCE 漏洞的分析 | https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html| 
 | 20220811 | gorilla - 用于生成密码字段的工具 | https://github.com/d4rckh/gorilla| 
-| 20220811 | The Poor Mans Obfuscator | https://tttang.com/archive/1697/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220817 | 科研与英文学术论文写作 | https://space.bilibili.com/301285406/channel/collectiondetail?sid=535567| 
 | 20220816 | [HTB] Antique Writeup | https://mp.weixin.qq.com/s/jZ3RASicFZIzxJb00BXShQ| 
 | 20220815 | 【自动化赏金之路】初试3个月 收入10000块的总结 | https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485734&idx=1&sn=2c002770e14e26da5199abf63f354aec&chksm=cfb73e96f8c0b780b585d065d7280935182a730f202286b5e8f3d0bd4a4600d3244671fd13ee&mpshare=1&srcid=0815XKzDg3HarM3ZXhEkii7q&sharer_sharetime=16| 
 | 20220815 | SecWiki周刊（第441期) | https://www.sec-wiki.com/weekly/441| 
@@ -31,31 +41,30 @@
 | 20220814 | 云安全入门材料 | https://github.com/Esonhugh/Attack_Code| 
 | 20220814 | netspy-快速探测内网可达网段工具 | https://github.com/shmilylty/netspy| 
 | 20220814 | SnakeYaml反序列化 | https://xz.aliyun.com/t/11599| 
-| 20220814 | Executor内存马的实现 | https://xz.aliyun.com/t/11593| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220816T19:48:36Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
+| 20220817T12:00:28Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
+| 20220817T09:18:20Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
+| 20220817T03:05:37Z | CVE-2022-24500 | CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability | https://github.com/Daro1967/CVE-2022-24500-MASS-RCE | | 
+| 20220817T02:55:49Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-MASS-RCE | | 
 | 20220816T17:59:53Z | cve-2022-3452 | Null | https://github.com/kenyon-wong/cve-2022-3452 | | 
 | 20220816T15:55:29Z | CVE-2022-27925 | Null | https://github.com/MeDx64/CVE-2022-27925 | | 
-| 20220816T15:50:49Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-MASS-RCE | | 
 | 20220816T14:10:10Z | CVE-2022-29247 | Null | https://github.com/a1ise/CVE-2022-29247 | | 
 | 20220816T12:30:29Z | CVE-2022-20223 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20223 | | 
 | 20220816T12:10:21Z | CVE-2022-20229 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229 | | 
 | 20220816T11:35:31Z | CVE-2022-20224 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224 | | 
-| 20220816T09:00:31Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
-| 20220816T02:00:20Z | CVE-2022-21789 | Null | https://github.com/docfate111/CVE-2022-21789 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220817T01:50:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7674 | 265| 
-| 20220817T00:03:21Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 38 | 0| 
+| 20220817T10:15:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7683 | 265| 
+| 20220817T07:22:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2042 | 577| 
+| 20220817T06:11:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 40 | 0| 
 | 20220816T14:02:02Z | All my jobs | https://github.com/xamie01/kleekit-jobs | 0 | 0| 
-| 20220816T12:51:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2043 | 577| 
 | 20220815T09:44:06Z | Null | https://github.com/WadiAizouky/Kleegroup_demandeLogementS | 0 | 0| 
 | 20220815T03:41:37Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 161 | 50| 
 | 20220815T00:45:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 18 | 0| 
@@ -68,7 +77,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220812T14:54:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 244 | 59| 
-| 20220809T05:51:44Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 63 | 7| 
+| 20220809T05:51:44Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 63 | 8| 
 | 20220804T07:32:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 20 | 3| 
 | 20220801T08:00:06Z | Repository del progetto di test automatici per il partner BPB | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB | 0 | 0| 
 
@@ -76,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220817T11:37:07Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 4271 | 870| 
+| 20220817T11:17:08Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 409 | 24| 
+| 20220817T11:12:02Z | Demonstration of IoT Edge module exploiting Azure Percept data. | https://github.com/kbeaugrand-org/AzurePerceptDemo | 0 | 0| 
+| 20220817T11:04:44Z | Null | https://github.com/7h3h4ckv157/CTF-Exploits | 0 | 0| 
+| 20220817T09:58:01Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3804 | 567| 
+| 20220817T08:33:51Z | Null | https://github.com/chawdamrunal/Firebase_Exploit | 0 | 0| 
+| 20220817T08:24:51Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1146 | 103| 
+| 20220817T07:12:34Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 38 | 2| 
+| 20220817T06:12:07Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 79 | 11| 
 | 20220817T01:39:58Z | Exploits for betastar.org | https://github.com/BlacketWare/exploits | 0 | 0| 
-| 20220817T01:11:34Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 131 | 29| 
-| 20220816T23:59:23Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-q | 0 | 0| 
-| 20220816T23:58:17Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-q | 0 | 0| 
-| 20220816T23:56:52Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-q | 0 | 0| 
-| 20220816T23:33:46Z | Free roblox exploit for the windows operating systems. virus free although it will flag as a virus their is no virus in the code. | https://github.com/BloxieBoy/AimWhere-RobloxExploit | 0 | 0| 
-| 20220816T20:46:27Z | Roblox Exploit  | https://github.com/GamerGuyAlex/SerpentWare | 0 | 0| 
-| 20220816T19:09:35Z | Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.  | https://github.com/Maximus-Meridius-SC/SOC-analyst-project | 0 | 0| 
-| 20220816T19:06:11Z | Baringo county is an Arid and Semi-arid region, its characteristics and challenges are not to be neglected. The area is characterized by extensive rangelands, communally owned land, pastoralism, extreme climate change, famine, floods, poverty, human-animal conflicts, tribal conflicts among the community, and many challenges. with the extensive land and lack of land tenure at a local level, exploitation of the land without regulation is very high. There is a gap in the conventional land administration systems such that customary and informal tenure cannot be easily handled. There is a need for complimentary approaches in land administration. The concept of the Social Tenure Domain Model is to bridge this gap by providing a standard for representing ‘peoples land’ relationships independent of the level of formality, legality, and technical accuracy. The STDM has been used in very many cases in both Africa and more importantly Kenya. In Kenya, the model has been used mostly in urban informal settlements. The objective of the use of STDM in the Kaptuya conservancy is used to create a topo cadastral map of the conservancy to enable the stakeholders to effectively plan the land use land cover within the conservancy to enable effective cohabitation of the animals and humans. The land use land cover plan will reduce land conflicts and encourage the pastoralist community to have planned grazings, therefore, solving the fights on resources that are majorly experienced in the pastoralist community.  The STDM plugin is installed in Qgis and the database is created. The model has four sections; party including the people, person, group, or groups owning the land, that has the social tenure relationship including land rights, occupancy, customary tenure, tenancy, ownership, rent, leases, permits, and any other, with a spatial unit that includes land, property, structure, natural resources, objects, etc. and all these are supported by supporting documents that have been scanned i.e. sketches from individuals or the community, audio recordings, photos, documented histories, and many other relevant documents. The need for efficient land recordation tools and the use of ICT has become a necessity and increasingly becoming more available in recent times. The STDM information tool provides the front-end interface for testing and applying the STDM concept and model. Building from the STDM prototype version and in adherence to GLTN core values (e.g. pro-poor, equity, affordability, good governance, subsidiarity, gender sensitiveness, systematic large scale approach, and sustainability), UN-Habitat/GLTN together with its implementing partners, has supported the continuous development of the information tool in a variety of application areas ranging from informal settlement upgrading to natural resource management. The data is collected from different methods from the sketches from the community, satellite images, and ground-truthing from GPS coordinates picked. The data is then processed and a database is created and a topo-cadastral map is created. The topo-cadastral map is then used to create a land use land cover plan for effective conservation. with the digitization phase that the country is in right now, this research is a step forward toward the desired goals.  | https://github.com/123098abc/KaptuyaSTDM.github.io | 0 | 0| 
-| 20220816T16:53:52Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 976 | 249| 
 
 
 # backdoor on Github 推荐
@@ -132,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220817T11:57:09Z | Работа с нечеткими множествами | https://github.com/VadimKiKi/Working-with-fuzzy-sets-first | 0 | 0| 
+| 20220817T11:52:12Z | Null | https://github.com/Rakibul-Hasan-max/fuzzy-search-react | 0 | 0| 
+| 20220817T10:37:48Z | My first | https://github.com/MichPiao/fuzzy-parakeet | 0 | 0| 
+| 20220817T09:46:20Z | Null | https://github.com/Yonghero/fuzzyjs | 1 | 0| 
+| 20220817T09:30:45Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1574 | 200| 
+| 20220817T08:56:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7689 | 1658| 
 | 20220817T01:36:48Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2695 | 297| 
 | 20220817T00:14:13Z | Null | https://github.com/Philip-Pione/fuzzy-guacamole | 0 | 0| 
 | 20220816T23:05:34Z | Fuzz testing a staking contract | https://github.com/thadhutch/Foundry-Fuzz-Testing | 0 | 0| 
 | 20220816T21:11:59Z | Null | https://github.com/mhernandez77/fuzzy_shopping_cart | 0 | 0| 
-| 20220816T20:52:39Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 183 | 24| 
-| 20220816T20:48:56Z | Fuzz your Rust code with Google-developed Honggfuzz ! | https://github.com/rust-fuzz/honggfuzz-rs | 344 | 37| 
-| 20220816T20:43:59Z | Null | https://github.com/LuizFernandoDeveloper/Fuzzing | 0 | 0| 
-| 20220816T20:41:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7687 | 1658| 
-| 20220816T19:06:20Z | Null | https://github.com/csundheimjr/fuzzy-friend-finder | 0 | 0| 
-| 20220816T15:33:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4288 | 1035| 
 
 
 
