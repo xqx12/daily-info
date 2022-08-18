@@ -97,7 +97,7 @@
 | 20220817T23:56:56Z | Null | https://github.com/A-Altemara/FuzzypawsFamilyFotos | 0 | 0| 
 | 20220817T23:26:13Z | Null | https://github.com/AxelFuzzi/react_tienda_hardware_fuzzi | 0 | 0| 
 | 20220817T23:13:30Z | Null | https://github.com/monzter50/fuzzy_ga | 0 | 0| 
-| 20220817T22:18:04Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2709 | 301| 
+| 20220817T22:18:04Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2709 | 302| 
 | 20220817T22:16:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2588 | 174| 
 | 20220817T21:27:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7690 | 1657| 
 | 20220817T20:25:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4294 | 1037| 
