@@ -17,6 +17,8 @@
 | 20220818 | 利用 MachO 的 HIB Segment Bypass x86 macOS 的 KASLR | http://blog.ret2.io/2022/08/17/macos-dblmap-kernel-exploitation/| 
 | 20220818 | 研究员 Orange 对 Microsoft IIS Hash Table 的研究 | https://sec.today/pulses/8c7baa7c-76f1-41f6-b479-33f29597c282/| 
 | 20220818 | Apple 紧急发布 macOS 和 iOS 补丁更新，修复两个野外利用漏洞 | https://sec.today/pulses/860b6e59-ca76-45b0-a338-431e708d52e6/| 
+| 20220818 | 研究员 Orange 对 Microsoft IIS Hash Table 的研究 | http://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html| 
+| 20220818 | Apple 紧急发布 macOS 和 iOS 补丁更新，修复两个野外利用漏洞 | https://support.apple.com/zh-cn/HT213413| 
 | 20220817 | 基于 Slope 的服务器的取证分析 Solana 公链大规模盗币事件 | https://mp.weixin.qq.com/s/YJgPNYykr2P1j2yHseJ2tQ| 
 | 20220817 | RE-Mind - 二进制逆向分析的方法论 | http://www.usenix.org/system/files/sec22-mantovani.pdf| 
 | 20220817 | AdobeReader DLL 加载漏洞与随机数转换逻辑漏洞分享(CVE-2021-21037) | https://mp.weixin.qq.com/s/tjyTMrgbbqX8ljZyZGwovw| 
@@ -24,8 +26,6 @@
 | 20220817 | Windows Segment Heap: Attacking the VS Allocator | http://labs.bluefrostsecurity.de/blog.html/2022/08/16/windows-segment-heap-attacking-the-vs-allocator/| 
 | 20220817 | Finding security vulnerabilities through fuzzing，一份关于 Fuzzing 的 workshop | http://fuzzing.in/codelabs/finding_security_vulnerabilities/index.html?index=..%2F..index#0| 
 | 20220817 | 通过修改进程环境变量实现 Windows 11 DLL 劫持 | http://www.wietzebeukema.nl/blog/save-the-environment-variables| 
-| 20220817 | Google 安全芯片 Titan M 的代码执行漏洞分析（CVE-2022-20233） | http://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html| 
-| 20220817 | CheckPoint 在 PyPI 平台检测到两款伪造的恶意软件包 | https://securelist.com/two-more-malicious-python-packages-in-the-pypi/107218/| 
 
 
 # 安全维基 推荐
@@ -115,9 +115,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220818T02:40:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2042 | 578| 
 | 20220817T15:21:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3052 | 431| 
 | 20220817T13:16:50Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 2 | 0| 
-| 20220817T12:43:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2043 | 578| 
 | 20220817T06:41:30Z | pre-compiled/linked coreutils programs used as benchmarks for symbolic execution | https://github.com/Generative-Program-Analysis/coreutils-linked | 0 | 0| 
 | 20220816T18:07:44Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 129 | 11| 
 | 20220816T08:33:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 

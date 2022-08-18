@@ -17,6 +17,8 @@
 | 20220818 | 利用 MachO 的 HIB Segment Bypass x86 macOS 的 KASLR | http://blog.ret2.io/2022/08/17/macos-dblmap-kernel-exploitation/| 
 | 20220818 | 研究员 Orange 对 Microsoft IIS Hash Table 的研究 | https://sec.today/pulses/8c7baa7c-76f1-41f6-b479-33f29597c282/| 
 | 20220818 | Apple 紧急发布 macOS 和 iOS 补丁更新，修复两个野外利用漏洞 | https://sec.today/pulses/860b6e59-ca76-45b0-a338-431e708d52e6/| 
+| 20220818 | 研究员 Orange 对 Microsoft IIS Hash Table 的研究 | http://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html| 
+| 20220818 | Apple 紧急发布 macOS 和 iOS 补丁更新，修复两个野外利用漏洞 | https://support.apple.com/zh-cn/HT213413| 
 
 
 # 安全维基 推荐
@@ -81,6 +83,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220818T02:40:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2042 | 578| 
 
 
 # big4 on Github 推荐
