@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220818T00:41:34Z | XS-Search Exploit code ( Dreamhack ) | https://github.com/whguswo/XS-Search | 0 | 0| 
 | 20220818T00:13:27Z | Null | https://github.com/s3rgeym/wpgateway-plugin-exploit | 0 | 0| 
 | 20220817T23:25:27Z | A short roblox exploit using WeAreDevsAPI with a gui made in go with fyne. | https://github.com/cybe42/TaklaExploitV3 | 2 | 0| 
 | 20220817T23:03:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4795 | 660| 
@@ -94,7 +95,6 @@
 | 20220817T14:09:29Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1147 | 103| 
 | 20220817T14:09:27Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 4272 | 870| 
 | 20220817T12:57:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3803 | 567| 
-| 20220817T12:46:56Z | Tips for manually detect & exploit SQL injection Vulnerability : MySQL | https://github.com/rinku191/MySQL-SQL-Injection-Cheatsheet | 6 | 0| 
 
 
 # backdoor on Github 推荐
