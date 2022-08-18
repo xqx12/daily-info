@@ -91,10 +91,10 @@
 | 20220817T23:03:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4795 | 660| 
 | 20220817T22:52:50Z | Null | https://github.com/razordeveloper/Silent-PDF-Exploit | 0 | 0| 
 | 20220817T19:22:33Z | BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy [CVE-2020-15802] [CVE-2022-20361] | https://github.com/francozappa/blur | 0 | 0| 
+| 20220817T15:57:58Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 44 | 3| 
 | 20220817T14:58:41Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 80 | 11| 
 | 20220817T14:09:29Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1147 | 103| 
 | 20220817T14:09:27Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 4272 | 870| 
-| 20220817T12:57:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3803 | 567| 
 
 
 # backdoor on Github 推荐
