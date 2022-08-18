@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220818T01:38:13Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-d | 0 | 0| 
 | 20220818T01:37:27Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-d | 0 | 0| 
 | 20220818T01:36:32Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-d | 0 | 0| 
 | 20220818T01:32:46Z | Null | https://github.com/s3rgeym/wpgateway-plugin-exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20220817T22:52:50Z | Null | https://github.com/razordeveloper/Silent-PDF-Exploit | 0 | 0| 
 | 20220817T19:22:33Z | BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy [CVE-2020-15802] [CVE-2022-20361] | https://github.com/francozappa/blur | 0 | 0| 
 | 20220817T15:57:58Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 44 | 3| 
-| 20220817T14:58:41Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 80 | 11| 
 
 
 # backdoor on Github 推荐
