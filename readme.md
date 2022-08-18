@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220818T12:14:33Z | Modern exploit in Golang for ancient Nagra / Dish Network cards. | https://github.com/travisgoodspeed/nippertool | 0 | 0| 
 | 20220818T12:04:23Z | Linux Kernel Exploits collected from onlines or written by myself | https://github.com/HUSTSeclab/Kernel-Exploits | 1 | 0| 
 | 20220818T10:53:55Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 413 | 24| 
 | 20220818T09:36:58Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11879 | 2047| 
@@ -68,7 +69,6 @@
 | 20220818T08:18:15Z | This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.  | https://github.com/JonathanSalwan/ROPgadget | 3101 | 534| 
 | 20220818T07:50:03Z | Open-source repository for paper %LogGrep: Fast and Cheap Cloud Log Storage by Exploiting both Static and Runtime Patterns%(Eurosys%23) | https://github.com/THUBear-wjy/LogGrep | 0 | 0| 
 | 20220818T07:37:38Z | #Title: Sysax <= 5.53 SSH Username BoF Pre Auth RCE (Egghunter) #Author: Craig Freyman (@cd1zz) #OS Tested: XP SP3 32bit, 2003 Server SP2 (No DEP) | https://github.com/M4fiaB0y/Sysax-multi-server-ssh-username-exploit | 0 | 0| 
-| 20220818T07:14:41Z | Null | https://github.com/P4cm4n90/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -76,7 +76,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220818T10:20:40Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 540 | 107| 
 | 20220818T08:10:06Z | Null | https://github.com/SCLBD/BackdoorBench | 43 | 5| 
-| 20220818T03:09:07Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 6 | 0| 
+| 20220818T03:09:07Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 6 | 1| 
 | 20220818T03:05:07Z | The source for the website where I host my notes, please don%t backdoor my server | https://github.com/Noorquacker/notes-site | 0 | 0| 
 
 
