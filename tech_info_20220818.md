@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220818T12:07:12Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 265 | 44| 
 | 20220818T11:46:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7691 | 1658| 
 | 20220818T11:46:31Z | Null | https://github.com/d-karlss/fuzz-test | 0 | 0| 
 | 20220818T09:59:30Z | Null | https://github.com/smallAW/fuzzy-succotash | 0 | 0| 
