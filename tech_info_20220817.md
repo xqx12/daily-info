@@ -39,7 +39,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220817T23:25:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7691 | 265| 
 | 20220817T18:23:01Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 43 | 0| 
 | 20220817T13:43:13Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 161 | 50| 
 | 20220817T12:43:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2043 | 578| 
@@ -83,6 +82,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220817T15:21:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3052 | 431| 
+| 20220817T13:16:50Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 2 | 0| 
 | 20220817T12:43:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2043 | 578| 
 | 20220817T06:41:30Z | pre-compiled/linked coreutils programs used as benchmarks for symbolic execution | https://github.com/Generative-Program-Analysis/coreutils-linked | 0 | 0| 
 
