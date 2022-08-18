@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220818T12:04:23Z | Linux Kernel Exploits collected from onlines or written by myself | https://github.com/HUSTSeclab/Kernel-Exploits | 1 | 0| 
 | 20220818T10:53:55Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 413 | 24| 
-| 20220818T09:58:32Z | Linux Kernel Exploits collected from onlines or written by myself | https://github.com/HUSTSeclab/Kernel-Exploits | 0 | 0| 
 | 20220818T09:36:58Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11879 | 2047| 
 | 20220818T09:31:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3808 | 568| 
 | 20220818T09:07:28Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4796 | 660| 
