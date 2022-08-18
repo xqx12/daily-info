@@ -144,13 +144,13 @@
 | 20220817T23:56:56Z | Null | https://github.com/A-Altemara/FuzzypawsFamilyFotos | 0 | 0| 
 | 20220817T23:26:13Z | Null | https://github.com/AxelFuzzi/react_tienda_hardware_fuzzi | 0 | 0| 
 | 20220817T23:13:30Z | Null | https://github.com/monzter50/fuzzy_ga | 0 | 0| 
+| 20220817T22:18:04Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2709 | 301| 
 | 20220817T22:16:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2588 | 174| 
 | 20220817T21:27:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7690 | 1657| 
 | 20220817T20:25:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4294 | 1037| 
 | 20220817T16:18:33Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1445 | 63| 
 | 20220817T12:20:57Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 616 | 74| 
 | 20220817T12:07:32Z | Работа с матрицами нечетких отношений | https://github.com/VadimKiKi/Working-with-fuzzy-sets-second | 0 | 0| 
-| 20220817T11:57:09Z | Работа с нечеткими множествами | https://github.com/VadimKiKi/Working-with-fuzzy-sets-first | 0 | 0| 
 
 
 
