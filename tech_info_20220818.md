@@ -34,7 +34,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220818T11:18:45Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
+| 20220818T12:30:08Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220818T07:27:32Z | CVE-2021-44228 | Null | https://github.com/tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228 | | 
 | 20220818T07:06:27Z | CVE-2022-20229 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229 | | 
 | 20220818T06:58:11Z | CVE-2022-26923 | A powershell poc to load and automatically run Certify and Rubeus from memory. | https://github.com/lsecqt/CVE-2022-26923-Powershell-POC | | 
