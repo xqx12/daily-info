@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220819T01:42:08Z | CVE-2022-31793 | Null | https://github.com/xpgdgit/CVE-2022-31793 | | 
 | 20220818T22:48:30Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220818T21:20:48Z | CVE-2022-2414 | Null | https://github.com/superhac/CVE-2022-2414-POC | | 
 | 20220818T20:30:00Z | CVE-2022-37042 | Null | https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925 | | 
@@ -55,7 +56,6 @@
 | 20220818T06:58:11Z | CVE-2022-26923 | A powershell poc to load and automatically run Certify and Rubeus from memory. | https://github.com/lsecqt/CVE-2022-26923-Powershell-POC | | 
 | 20220818T06:22:42Z | CVE-2022-20224 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224 | | 
 | 20220818T04:53:14Z | CVE-2020-9496 | ApacheOfBiz 17.12.01 - Unauthorized Remote Code Executión  | https://github.com/Ly0nt4r/CVE-2020-9496 | | 
-| 20220817T14:34:56Z | CVE-2020-6364 | Remote code execution in CA APM Team Center (Wily Introscope) | https://github.com/gquere/CVE-2020-6364 | | 
 
 
 # klee on Github 推荐
