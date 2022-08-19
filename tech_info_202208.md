@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220819T01:42:08Z | CVE-2022-31793 | Null | https://github.com/xpgdgit/CVE-2022-31793 | | 
+| 20220819T01:48:57Z | CVE-2022-31793 | Null | https://github.com/xpgdgit/CVE-2022-31793 | | 
 | 20220818T22:48:30Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220818T21:20:48Z | CVE-2022-2414 | Null | https://github.com/superhac/CVE-2022-2414-POC | | 
 | 20220818T20:30:00Z | CVE-2022-37042 | Null | https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925 | | 
