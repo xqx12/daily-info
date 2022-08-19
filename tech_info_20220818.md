@@ -72,9 +72,9 @@
 | 20220818T22:50:01Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4797 | 661| 
 | 20220818T20:29:26Z | Null | https://github.com/GMScriptSpace/Script-Executor-Exploit | 0 | 0| 
 | 20220818T20:01:39Z | This project can help in real time object detection in mines, tunnels etc. with the help of a algorithm named YOLO(You Only Look Once). | https://github.com/aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation- | 0 | 0| 
-| 20220818T19:40:43Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 416 | 25| 
 | 20220818T19:07:14Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 81 | 11| 
 | 20220818T18:50:57Z | This repository was created with the intention to showcase the evolution of my parallel programming concepts through the application of different parallel pattern interaces. On their implementation various supported design patterns% usage and its exploitation can be observed from this abstraction. The programs leverage of those abstractions in order to attin higher performance  on a different set of applications. | https://github.com/Saccilotto/ppi_exploration | 0 | 0| 
+| 20220818T15:23:33Z | Small exploit challenge for trail of bits application | https://github.com/droidada/tob-challenge | 0 | 0| 
 
 
 # backdoor on Github 推荐
