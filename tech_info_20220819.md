@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220819T12:38:53Z | Database: P.H.O.L.Z Base | https://github.com/LeonardZa/LNH-Exploit-PHOLZ | 0 | 0| 
 | 20220819T11:17:00Z | Deployment templates, scripts, KQL queries, Sentinel Integration, Vulnerability Assessment and Exploitation techniques related to Web apps - extracted from the Azure Network Security Ninja master repo | https://github.com/gsriramit/Azure-NetSecNinja-WAF | 1 | 0| 
 | 20220819T10:32:41Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 989 | 252| 
 | 20220819T10:07:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3810 | 572| 
@@ -67,7 +68,6 @@
 | 20220819T06:33:32Z | Database: P.H.O.L.Z Base | https://github.com/LeonardZa/LNH-Exploit- | 0 | 0| 
 | 20220819T06:20:09Z | Balance Exploration and Exploitation in Hierarchical Reinforcement Learning via Directed Weighted Latent Landmark Graph | https://github.com/papercode2022/HILL | 0 | 0| 
 | 20220819T04:23:58Z | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | 4 | 0| 
-| 20220819T01:17:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4798 | 661| 
 
 
 # backdoor on Github 推荐
@@ -83,6 +83,7 @@
 | 20220819T10:24:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
 | 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 578| 
 | 20220819T09:24:27Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 10 | 0| 
+| 20220819T07:25:34Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 1 | 1| 
 
 
 # big4 on Github 推荐
