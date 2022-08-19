@@ -85,13 +85,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220819T01:17:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4798 | 661| 
 | 20220819T00:25:19Z | Test repo detailing the exploits of Barlon, the Victorious. | https://github.com/TronRoss/barlon_victorious | 0 | 0| 
 | 20220819T00:19:46Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 417 | 25| 
 | 20220818T23:47:14Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN9 | 0 | 0| 
 | 20220818T23:46:32Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN9 | 0 | 0| 
 | 20220818T23:45:37Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN9 | 0 | 0| 
 | 20220818T22:53:45Z | Repo of Exploits | https://github.com/aahmad097/SmokingGun | 0 | 0| 
-| 20220818T22:50:01Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4797 | 661| 
 | 20220818T20:29:26Z | Null | https://github.com/GMScriptSpace/Script-Executor-Exploit | 0 | 0| 
 | 20220818T20:01:39Z | This project can help in real time object detection in mines, tunnels etc. with the help of a algorithm named YOLO(You Only Look Once). | https://github.com/aman250820/A-System-architecture-for-real-time-subterranean-site-assessment-characterization-and-exploitation- | 0 | 0| 
 | 20220818T19:07:14Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 81 | 11| 
