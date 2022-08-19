@@ -16,6 +16,7 @@
 | 20220819 | 文件描述符和文件数据结构相关的安全漏洞研究 | https://i.blackhat.com/USA-22/Wednesday/US-22-Wu-Devils-Are-in-the-File.pdf| 
 | 20220819 | Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling | https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf| 
 | 20220819 | DirtyCred - 利用 Kernel Credentials Swap 实现提权的利用方法 | https://sec.today/pulses/646f8ac9-546d-4529-a933-21ffe5f21dd3/| 
+| 20220819 | DirtyCred - 利用 Kernel Credentials Swap 实现提权的利用方法 | http://github.com/markakd/dirtycred| 
 | 20220818 | Detecting kernel exploits with eBPF | https://i.blackhat.com/USA-22/Wednesday/US-22-Fournier-Return-To-Sender.pdf| 
 | 20220818 | 不同 URL Parser 解析之间的细微差异导致的安全问题 | https://blog.sonarsource.com/security-implications-of-url-parsing-differentials/| 
 | 20220818 | COMRACE Detecting Data Race Vulnerabilities in COM Objects | https://github.com/edwardz246003/presentations/blob/main/Usenix%20Security%202022/%E3%80%90Usenix%202022%20slides%E3%80%91COMRACE%20Detecting%20Data%20Race%20Vulnerabilities%20in%20COM%20Objects.pdf| 
@@ -25,7 +26,6 @@
 | 20220818 | Binary 对 Intel Pre-EFI (PEI) 攻击面的研究 | http://binarly.io/posts/Black_Hat_2022_The_Intel_PPAM_attack_story/index.html| 
 | 20220818 | TP-Link TL-WR841N 路由器 3 个漏洞分析 | https://blog.viettelcybersecurity.com/1day-to-0day-on-tl-link-tl-wr841n/| 
 | 20220818 | 利用 MachO 的 HIB Segment Bypass x86 macOS 的 KASLR | http://blog.ret2.io/2022/08/17/macos-dblmap-kernel-exploitation/| 
-| 20220818 | 研究员 Orange 对 Microsoft IIS Hash Table 的研究 | https://sec.today/pulses/8c7baa7c-76f1-41f6-b479-33f29597c282/| 
 
 
 # 安全维基 推荐
@@ -115,16 +115,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220818T19:41:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3053 | 431| 
+| 20220819T11:59:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3055 | 431| 
+| 20220819T10:24:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
+| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 578| 
+| 20220819T09:24:27Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 10 | 0| 
 | 20220818T19:12:05Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 473 | 26| 
-| 20220818T02:40:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2042 | 578| 
 | 20220817T13:16:50Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 2 | 0| 
 | 20220817T06:41:30Z | pre-compiled/linked coreutils programs used as benchmarks for symbolic execution | https://github.com/Generative-Program-Analysis/coreutils-linked | 0 | 0| 
 | 20220816T18:07:44Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 129 | 11| 
-| 20220816T08:33:34Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
 | 20220816T06:28:40Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 281 | 19| 
 | 20220815T16:24:35Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 19 | 4| 
-| 20220815T14:24:05Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 5 | 0| 
 
 
 # big4 on Github 推荐

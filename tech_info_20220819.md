@@ -16,6 +16,7 @@
 | 20220819 | 文件描述符和文件数据结构相关的安全漏洞研究 | https://i.blackhat.com/USA-22/Wednesday/US-22-Wu-Devils-Are-in-the-File.pdf| 
 | 20220819 | Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling | https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf| 
 | 20220819 | DirtyCred - 利用 Kernel Credentials Swap 实现提权的利用方法 | https://sec.today/pulses/646f8ac9-546d-4529-a933-21ffe5f21dd3/| 
+| 20220819 | DirtyCred - 利用 Kernel Credentials Swap 实现提权的利用方法 | http://github.com/markakd/dirtycred| 
 
 
 # 安全维基 推荐
@@ -78,6 +79,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220819T11:59:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3055 | 431| 
+| 20220819T10:24:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
+| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 578| 
+| 20220819T09:24:27Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 10 | 0| 
 
 
 # big4 on Github 推荐
