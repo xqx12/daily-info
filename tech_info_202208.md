@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220819T12:37:31Z | Scripts created to fuzz post form repeated times, leading to account lock and therefore user enumeration | https://github.com/iuribpmoro/accountLockFuzzing | 0 | 0| 
 | 20220819T11:59:33Z | A multithreaded Tomcat web-app with heuristic searches that generates a word cloud from the top (n) words associated with a chosen search term and categorizes the search term using a Neural Network | https://github.com/farisNassif/fuzzylogic-wordcloud-generator | 0 | 0| 
 | 20220819T11:51:20Z | University project of fuzzy regulator  | https://github.com/SirLukson/Fuzzy-regulator-for-inverted-pendulum | 0 | 0| 
 | 20220819T11:24:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 936 | 106| 
@@ -150,7 +151,6 @@
 | 20220819T10:38:35Z | rtd-tutorial | https://github.com/Primenod/fuzzy-octo-lamp | 0 | 0| 
 | 20220819T09:51:42Z | Null | https://github.com/sgafefwfe/fuzzy-pancake | 0 | 0| 
 | 20220819T09:24:27Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 10 | 0| 
-| 20220819T07:14:26Z | Fuzzy logic inference system for javascript | https://github.com/siavashmohammady66/fuzzylogic-js | 0 | 0| 
 
 
 
