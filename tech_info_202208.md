@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220819T11:37:12Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
+| 20220819T12:35:23Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220819T11:08:11Z | CVE-2022-37042 | Null | https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925 | | 
 | 20220819T11:05:39Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
 | 20220819T04:47:37Z | CVE-2022-27925 | Null | https://github.com/miko550/CVE-2022-27925 | | 
