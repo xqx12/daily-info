@@ -91,6 +91,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220818T19:41:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3053 | 431| 
+| 20220818T19:12:05Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 473 | 26| 
 | 20220818T02:40:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2042 | 578| 
 
 
