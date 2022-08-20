@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220820T00:57:12Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-2 | 0 | 0| 
 | 20220820T00:56:06Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2 | 0 | 0| 
 | 20220820T00:54:59Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-2 | 0 | 0| 
 | 20220820T00:18:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11890 | 2047| 
@@ -94,7 +95,6 @@
 | 20220819T19:42:21Z | The explosive growth in popularity of social networking leads to the problematic usage. An increasing number of social network mental disorders (SNMDs), such as Cyber-Relationship Addiction, Information Overload, and Net Compulsion, have been recently noted. Symptoms of these mental disorders are usually observed passively today, resulting in delayed clinical intervention. In this paper, we argue that mining online social behaviour provides an opportunity to actively identify SNMDs at an early stage. Our approach, new and innovative to the practice of SNMD detection, does not rely on self-revealing of those mental factors via questionnaires in Psychology. Instead, we propose a machine learning framework, namely, Social Network Mental Disorder Detection (SNMDD), that exploits features extracted from social network data to accurately identify potential cases of SNMDs. We also exploit multi-source learning in SNMDD and propose a new SNMD-based Tensor Model (STM) to improve the accuracy. To increase the scalability of STM, we further improve the efficiency with performance guarantee. Our framework is evaluated via a user study with 3126 online social network users. We conduct a feature analysis, and also apply SNMDD on large-scale datasets and analyse the characteristics of the three SNMD types. The results manifest that SNMDD is promising for identifying online social network users with potential SNMDs. | https://github.com/sohreddy/Comprehensive-study-on-SNMDs-via-online-social-media-mining | 0 | 0| 
 | 20220819T19:04:19Z | The greatest Roblox FE Exploits. | https://github.com/WiiZARDD/WiZHUB | 0 | 0| 
 | 20220819T15:33:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4800 | 661| 
-| 20220819T12:38:53Z | Database: P.H.O.L.Z Base | https://github.com/LeonardZa/LNH-Exploit-PHOLZ | 0 | 0| 
 
 
 # backdoor on Github 推荐
