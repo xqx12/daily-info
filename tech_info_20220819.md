@@ -47,7 +47,6 @@
 | 20220819T21:32:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7727 | 266| 
 | 20220819T15:19:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 50 | 0| 
 | 20220819T10:05:13Z | Null | https://github.com/WadiAizouky/Kleegroup_DemandeLog | 0 | 0| 
-| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 579| 
 
 
 # s2e on Github 推荐
@@ -85,7 +84,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220819T23:11:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3056 | 432| 
 | 20220819T10:24:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
-| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 579| 
 | 20220819T09:24:27Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 10 | 0| 
 | 20220819T07:25:34Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 1 | 1| 
 

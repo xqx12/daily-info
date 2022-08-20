@@ -61,10 +61,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220820T00:56:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2045 | 579| 
 | 20220819T21:32:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7727 | 266| 
 | 20220819T15:19:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 50 | 0| 
 | 20220819T10:05:13Z | Null | https://github.com/WadiAizouky/Kleegroup_DemandeLog | 0 | 0| 
-| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 579| 
 | 20220818T20:34:41Z | KleenScan API command-line tool | https://github.com/nbaertsch/KleenScanner | 0 | 0| 
 | 20220818T14:52:05Z | All my jobs | https://github.com/xamie01/kleekit-jobs | 0 | 0| 
 | 20220817T13:43:13Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 161 | 50| 
@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220820T00:56:06Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2 | 0 | 0| 
+| 20220820T00:54:59Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-2 | 0 | 0| 
 | 20220820T00:18:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11890 | 2047| 
 | 20220819T23:14:01Z | Roblox Scripts | https://github.com/kakuun333/Exploit_Scripts | 0 | 0| 
 | 20220819T23:06:24Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9334 | 1539| 
@@ -93,8 +95,6 @@
 | 20220819T19:04:19Z | The greatest Roblox FE Exploits. | https://github.com/WiiZARDD/WiZHUB | 0 | 0| 
 | 20220819T15:33:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4800 | 661| 
 | 20220819T12:38:53Z | Database: P.H.O.L.Z Base | https://github.com/LeonardZa/LNH-Exploit-PHOLZ | 0 | 0| 
-| 20220819T11:17:00Z | Deployment templates, scripts, KQL queries, Sentinel Integration, Vulnerability Assessment and Exploitation techniques related to Web apps - extracted from the Azure Network Security Ninja master repo | https://github.com/gsriramit/Azure-NetSecNinja-WAF | 1 | 0| 
-| 20220819T10:32:41Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 989 | 252| 
 
 
 # backdoor on Github 推荐
@@ -115,10 +115,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220820T00:56:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2045 | 579| 
 | 20220820T00:42:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 283 | 19| 
 | 20220819T23:11:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3056 | 432| 
 | 20220819T10:24:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
-| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 579| 
 | 20220819T09:24:27Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 10 | 0| 
 | 20220819T07:25:34Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 1 | 1| 
 | 20220818T19:12:05Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 473 | 26| 
