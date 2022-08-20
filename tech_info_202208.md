@@ -130,6 +130,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220819T18:24:42Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 2 | 0| 
 | 20220814T08:08:07Z | Anonymized artifact  - Scalable Program Clone Search Through Spectral Analysis | https://github.com/sppunderreview/ndss-spp | 1 | 0| 
 | 20220814T02:52:28Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 53 | 10| 
 | 20220813T20:06:36Z | A case study which reviews on NDSS 2020 %You Are What You Do: Hunting Stealthy Malware via Data Provenance Analysis% | https://github.com/Jasmoon99/case-study-YouAreWhatYouDo | 0 | 0| 
