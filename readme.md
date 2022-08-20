@@ -17,6 +17,7 @@
 | 20220819 | Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling | https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf| 
 | 20220819 | DirtyCred - 利用 Kernel Credentials Swap 实现提权的利用方法 | https://sec.today/pulses/646f8ac9-546d-4529-a933-21ffe5f21dd3/| 
 | 20220819 | DirtyCred - 利用 Kernel Credentials Swap 实现提权的利用方法 | http://github.com/markakd/dirtycred| 
+| 20220819 | 论如何优雅的注入 Java Agent 内存马 | http://paper.seebug.org/1945/| 
 
 
 # 安全维基 推荐
@@ -32,9 +33,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220819T12:35:23Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
-| 20220819T11:08:11Z | CVE-2022-37042 | Null | https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925 | | 
-| 20220819T11:05:39Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
+| 20220819T23:05:56Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
+| 20220819T21:33:24Z | CVE-2022-37042 | Null | https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925 | | 
+| 20220819T18:38:05Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220819T04:47:37Z | CVE-2022-27925 | Null | https://github.com/miko550/CVE-2022-27925 | | 
 | 20220819T04:12:30Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/sm0ke1337/CVE-2022-21894-Payload | | 
 | 20220819T01:48:57Z | CVE-2022-31793 | Null | https://github.com/xpgdgit/CVE-2022-31793 | | 
@@ -43,10 +44,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220819T10:57:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7721 | 266| 
+| 20220819T21:32:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7727 | 266| 
+| 20220819T15:19:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 50 | 0| 
 | 20220819T10:05:13Z | Null | https://github.com/WadiAizouky/Kleegroup_DemandeLog | 0 | 0| 
-| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 578| 
-| 20220819T07:59:15Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 48 | 0| 
+| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 579| 
 
 
 # s2e on Github 推荐
@@ -58,30 +59,34 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220819T23:14:01Z | Roblox Scripts | https://github.com/kakuun333/Exploit_Scripts | 0 | 0| 
+| 20220819T23:06:24Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9334 | 1539| 
+| 20220819T22:20:14Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11889 | 2047| 
+| 20220819T19:52:12Z | Null | https://github.com/xaxiex/htb-exploitscripts | 0 | 0| 
+| 20220819T19:42:21Z | The explosive growth in popularity of social networking leads to the problematic usage. An increasing number of social network mental disorders (SNMDs), such as Cyber-Relationship Addiction, Information Overload, and Net Compulsion, have been recently noted. Symptoms of these mental disorders are usually observed passively today, resulting in delayed clinical intervention. In this paper, we argue that mining online social behaviour provides an opportunity to actively identify SNMDs at an early stage. Our approach, new and innovative to the practice of SNMD detection, does not rely on self-revealing of those mental factors via questionnaires in Psychology. Instead, we propose a machine learning framework, namely, Social Network Mental Disorder Detection (SNMDD), that exploits features extracted from social network data to accurately identify potential cases of SNMDs. We also exploit multi-source learning in SNMDD and propose a new SNMD-based Tensor Model (STM) to improve the accuracy. To increase the scalability of STM, we further improve the efficiency with performance guarantee. Our framework is evaluated via a user study with 3126 online social network users. We conduct a feature analysis, and also apply SNMDD on large-scale datasets and analyse the characteristics of the three SNMD types. The results manifest that SNMDD is promising for identifying online social network users with potential SNMDs. | https://github.com/sohreddy/Comprehensive-study-on-SNMDs-via-online-social-media-mining | 0 | 0| 
+| 20220819T19:04:19Z | The greatest Roblox FE Exploits. | https://github.com/WiiZARDD/WiZHUB | 0 | 0| 
+| 20220819T15:33:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4800 | 661| 
 | 20220819T12:38:53Z | Database: P.H.O.L.Z Base | https://github.com/LeonardZa/LNH-Exploit-PHOLZ | 0 | 0| 
 | 20220819T11:17:00Z | Deployment templates, scripts, KQL queries, Sentinel Integration, Vulnerability Assessment and Exploitation techniques related to Web apps - extracted from the Azure Network Security Ninja master repo | https://github.com/gsriramit/Azure-NetSecNinja-WAF | 1 | 0| 
 | 20220819T10:32:41Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 989 | 252| 
-| 20220819T10:07:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3810 | 572| 
-| 20220819T08:45:02Z | Calculates multidimensional functions faster by exploiting their separability. | https://github.com/bionanoimaging/SeparableFunctions.jl | 0 | 0| 
-| 20220819T08:05:55Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 20 | 3| 
-| 20220819T07:44:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3531 | 428| 
-| 20220819T06:33:32Z | Database: P.H.O.L.Z Base | https://github.com/LeonardZa/LNH-Exploit- | 0 | 0| 
-| 20220819T06:20:09Z | Balance Exploration and Exploitation in Hierarchical Reinforcement Learning via Directed Weighted Latent Landmark Graph | https://github.com/papercode2022/HILL | 0 | 0| 
-| 20220819T04:23:58Z | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220819T08:23:42Z | BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 7 | 2| 
+| 20220819T23:08:25Z | BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 9 | 3| 
+| 20220819T14:38:45Z | A standalone FiveM script to prevent the backdoor called %Cipher% | https://github.com/HoaxFacts/fg-antiCipher | 7 | 2| 
+| 20220819T14:08:38Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 121 | 27| 
+| 20220819T13:27:37Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 7 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220819T11:59:39Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3055 | 431| 
+| 20220819T23:11:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3056 | 432| 
+| 20220819T16:35:34Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 282 | 19| 
 | 20220819T10:24:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
-| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 578| 
+| 20220819T09:34:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2044 | 579| 
 | 20220819T09:24:27Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 10 | 0| 
 | 20220819T07:25:34Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 1 | 1| 
 
@@ -94,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220819T23:02:31Z | Null | https://github.com/akashpatil7/FuzzDiff | 0 | 0| 
+| 20220819T22:33:42Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 751 | 89| 
+| 20220819T20:47:19Z | Simple Python Script that uses Radamsa to detect the Overall Stability and Crashes in Web Servers | https://github.com/parikhakshat/SimpleHttpServerFuzzer | 1 | 0| 
+| 20220819T20:17:12Z | Null | https://github.com/Maxi4993/fuzzy-palm-tree | 0 | 0| 
+| 20220819T20:03:39Z | Null | https://github.com/emersonamo809/fuzzy-octo-dollop | 0 | 0| 
+| 20220819T19:50:32Z | Null | https://github.com/bluebrother/fuzzy-sniffle | 0 | 0| 
+| 20220819T19:39:42Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
 | 20220819T12:52:46Z | University project of fuzzy regulator  | https://github.com/SirLukson/Fuzzy-regulator-for-inverted-pendulum | 0 | 0| 
 | 20220819T12:37:31Z | Scripts created to fuzz post form repeated times, leading to account lock and therefore user enumeration | https://github.com/iuribpmoro/accountLockFuzzing | 0 | 0| 
 | 20220819T11:59:33Z | A multithreaded Tomcat web-app with heuristic searches that generates a word cloud from the top (n) words associated with a chosen search term and categorizes the search term using a Neural Network | https://github.com/farisNassif/fuzzylogic-wordcloud-generator | 0 | 0| 
-| 20220819T11:24:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 936 | 106| 
-| 20220819T11:18:54Z | Just a repo with a lot of different binaries used as a rizin fuzz corpus | https://github.com/m4drat/rizin-fuzz-corpus | 0 | 0| 
-| 20220819T10:54:29Z | Null | https://github.com/Band0lik/fuzzy-broccoli | 0 | 0| 
-| 20220819T10:53:51Z | Null | https://github.com/muchai254/fuzzy-lamp | 0 | 0| 
-| 20220819T10:38:35Z | rtd-tutorial | https://github.com/Primenod/fuzzy-octo-lamp | 0 | 0| 
-| 20220819T09:51:42Z | Null | https://github.com/sgafefwfe/fuzzy-pancake | 0 | 0| 
-| 20220819T09:24:27Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 10 | 0| 
 
 
 
