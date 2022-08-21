@@ -101,6 +101,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220821T11:53:21Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 4 | 0| 
+| 20220821T06:47:09Z | small program to learn how  backdoor is created and used, also hopefully how to catch a backdoor that may be in use. | https://github.com/noelw19/py-backdoor-learning | 0 | 0| 
 | 20220820T19:11:01Z | Null | https://github.com/SCLBD/BackdoorBench | 44 | 5| 
 | 20220820T13:26:47Z | BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 12 | 4| 
 | 20220820T11:53:56Z | Clone of https://github.com/Fartlicker777/Backdoor-Hacking | https://github.com/KtaneModules/Backdoor-Hacking-Fartlicker777 | 0 | 0| 
@@ -109,8 +111,6 @@
 | 20220819T13:27:37Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 7 | 0| 
 | 20220819T12:55:17Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 35 | 11| 
 | 20220818T16:39:16Z | hacking console for Remissionis LARP | https://github.com/kss-fluency/backdoor | 0 | 0| 
-| 20220818T15:54:39Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 541 | 108| 
-| 20220818T03:09:07Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 6 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220819T23:02:31Z | Null | https://github.com/akashpatil7/FuzzDiff | 0 | 0| 
-| 20220819T22:33:42Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 751 | 89| 
-| 20220819T20:47:19Z | Simple Python Script that uses Radamsa to detect the Overall Stability and Crashes in Web Servers | https://github.com/parikhakshat/SimpleHttpServerFuzzer | 1 | 0| 
-| 20220819T20:17:12Z | Null | https://github.com/Maxi4993/fuzzy-palm-tree | 0 | 0| 
-| 20220819T20:03:39Z | Null | https://github.com/emersonamo809/fuzzy-octo-dollop | 0 | 0| 
-| 20220819T19:50:32Z | Null | https://github.com/bluebrother/fuzzy-sniffle | 0 | 0| 
-| 20220819T19:39:42Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
-| 20220819T12:52:46Z | University project of fuzzy regulator  | https://github.com/SirLukson/Fuzzy-regulator-for-inverted-pendulum | 0 | 0| 
-| 20220819T12:37:31Z | Scripts created to fuzz post form repeated times, leading to account lock and therefore user enumeration | https://github.com/iuribpmoro/accountLockFuzzing | 0 | 0| 
-| 20220819T11:59:33Z | A multithreaded Tomcat web-app with heuristic searches that generates a word cloud from the top (n) words associated with a chosen search term and categorizes the search term using a Neural Network | https://github.com/farisNassif/fuzzylogic-wordcloud-generator | 0 | 0| 
+| 20220821T11:56:52Z | Null | https://github.com/setayesh78/inverted-pendulum_Fuzzy-controller | 0 | 0| 
+| 20220821T11:17:40Z | Benchmarks for fuzzy search libraries | https://github.com/zoubingwu/bench-fuzzy-search | 0 | 0| 
+| 20220821T10:56:53Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xlittleboy/fuzz4bounty | 0 | 0| 
+| 20220821T08:19:09Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 11 | 2| 
+| 20220821T07:47:02Z | Null | https://github.com/burakomersaracoglu/Global-Power-Prediction-Systems-Type-1-Sugeno-like-Fuzzy-Inference-System-Model-Version-2015 | 0 | 0| 
+| 20220821T07:39:51Z | Null | https://github.com/burakomersaracoglu/Global-Power-Prediction-Systems-Type-2-Mamdani-like-Fuzzy-Inference-System-Model-Version-2015 | 0 | 0| 
+| 20220821T07:38:08Z | Null | https://github.com/burakomersaracoglu/Global-Power-Prediction-Systems-Type-1-Mamdani-like-Fuzzy-Inference-System-Model-Version-2015 | 0 | 0| 
+| 20220821T06:29:14Z | Tool of xfuzz, machine learning guided cross-contract fuzzing | https://github.com/ToolmanInside/xfuzz_tool | 0 | 0| 
+| 20220821T06:28:27Z | Wi-Fi Framework for creating proof-of-concepts, automated experiments, test suites, fuzzers, and more. | https://github.com/domienschepers/wifi-framework | 59 | 12| 
+| 20220821T03:30:56Z | Script to generate a URL list to scan / fuzz from a network address | https://github.com/jllerenac/URLbuilder | 0 | 0| 
 
 
 
