@@ -46,38 +46,39 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220821T11:48:32Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
+| 20220821T11:07:35Z | 未知编号 | This is a script for version detection of Webmin remote server interface. | https://github.com/monzaviman/CVE_2022_36446 | | 
+| 20220821T10:41:16Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
+| 20220821T09:31:31Z | CVE-2021-43811 | awslabs/sockeye Code injection via unsafe YAML loading CVE-2021-43811 | https://github.com/s-index/CVE-2021-43811 | | 
+| 20220821T03:06:52Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
+| 20220821T02:25:34Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape | | 
+| 20220820T23:07:04Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/sm0ke1337/CVE-2022-21894-Payload | | 
+| 20220820T22:06:47Z | 未知编号 | CVE_2021_24212 | https://github.com/EmmanuelCruzL/CVE_2021_24212 | | 
+| 20220820T11:01:58Z | CVE-2022-27925 | Null | https://github.com/navokus/CVE-2022-27925 | | 
 | 20220819T23:05:56Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
-| 20220819T21:33:24Z | CVE-2022-37042 | Null | https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925 | | 
-| 20220819T18:38:05Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
-| 20220819T04:47:37Z | CVE-2022-27925 | Null | https://github.com/miko550/CVE-2022-27925 | | 
-| 20220819T04:12:30Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/sm0ke1337/CVE-2022-21894-Payload | | 
-| 20220819T01:48:57Z | CVE-2022-31793 | Null | https://github.com/xpgdgit/CVE-2022-31793 | | 
-| 20220818T21:20:48Z | CVE-2022-2414 | Null | https://github.com/superhac/CVE-2022-2414-POC | | 
-| 20220818T07:27:32Z | CVE-2021-44228 | Null | https://github.com/tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228 | | 
-| 20220818T07:06:27Z | CVE-2022-20229 | Null | https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229 | | 
-| 20220818T06:58:11Z | CVE-2022-26923 | A powershell poc to load and automatically run Certify and Rubeus from memory. | https://github.com/lsecqt/CVE-2022-26923-Powershell-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220820T00:56:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2045 | 579| 
-| 20220819T21:32:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7727 | 266| 
-| 20220819T15:19:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 50 | 0| 
+| 20220821T11:35:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7743 | 266| 
+| 20220820T22:39:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 580| 
+| 20220820T17:02:16Z | Null | https://github.com/owam96/BST_KLEE | 0 | 0| 
+| 20220820T12:09:29Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 52 | 0| 
 | 20220819T10:05:13Z | Null | https://github.com/WadiAizouky/Kleegroup_DemandeLog | 0 | 0| 
 | 20220818T20:34:41Z | KleenScan API command-line tool | https://github.com/nbaertsch/KleenScanner | 0 | 0| 
 | 20220818T14:52:05Z | All my jobs | https://github.com/xamie01/kleekit-jobs | 0 | 0| 
 | 20220817T13:43:13Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 161 | 50| 
 | 20220815T09:44:06Z | Null | https://github.com/WadiAizouky/Kleegroup_demandeLogementS | 0 | 0| 
 | 20220815T00:45:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 18 | 0| 
-| 20220813T22:33:55Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 4 | 1| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220821T06:33:53Z | Null | https://github.com/yoonej111/S2E | 0 | 0| 
+| 20220820T20:26:13Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 246 | 59| 
 | 20220819T06:50:01Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 65 | 8| 
-| 20220812T14:54:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 244 | 59| 
 | 20220804T07:32:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 20 | 3| 
 | 20220801T08:00:06Z | Repository del progetto di test automatici per il partner BPB | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB | 0 | 0| 
 
@@ -85,46 +86,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220820T00:57:12Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-2 | 0 | 0| 
-| 20220820T00:56:06Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2 | 0 | 0| 
-| 20220820T00:54:59Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-2 | 0 | 0| 
-| 20220820T00:18:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11890 | 2047| 
-| 20220819T23:14:01Z | Roblox Scripts | https://github.com/kakuun333/Exploit_Scripts | 0 | 0| 
-| 20220819T23:06:24Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9334 | 1539| 
-| 20220819T19:52:12Z | Null | https://github.com/xaxiex/htb-exploitscripts | 0 | 0| 
-| 20220819T19:42:21Z | The explosive growth in popularity of social networking leads to the problematic usage. An increasing number of social network mental disorders (SNMDs), such as Cyber-Relationship Addiction, Information Overload, and Net Compulsion, have been recently noted. Symptoms of these mental disorders are usually observed passively today, resulting in delayed clinical intervention. In this paper, we argue that mining online social behaviour provides an opportunity to actively identify SNMDs at an early stage. Our approach, new and innovative to the practice of SNMD detection, does not rely on self-revealing of those mental factors via questionnaires in Psychology. Instead, we propose a machine learning framework, namely, Social Network Mental Disorder Detection (SNMDD), that exploits features extracted from social network data to accurately identify potential cases of SNMDs. We also exploit multi-source learning in SNMDD and propose a new SNMD-based Tensor Model (STM) to improve the accuracy. To increase the scalability of STM, we further improve the efficiency with performance guarantee. Our framework is evaluated via a user study with 3126 online social network users. We conduct a feature analysis, and also apply SNMDD on large-scale datasets and analyse the characteristics of the three SNMD types. The results manifest that SNMDD is promising for identifying online social network users with potential SNMDs. | https://github.com/sohreddy/Comprehensive-study-on-SNMDs-via-online-social-media-mining | 0 | 0| 
-| 20220819T19:04:19Z | The greatest Roblox FE Exploits. | https://github.com/WiiZARDD/WiZHUB | 0 | 0| 
-| 20220819T15:33:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4800 | 661| 
+| 20220821T11:41:49Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 1378 | 191| 
+| 20220821T09:46:03Z | the source code for  form you get will filter all your unwanted characters, symbols and prevent from script and sql exploits | https://github.com/aanand-shah09/form-security-validity | 0 | 0| 
+| 20220821T08:22:52Z | Defensive Intelligence and Exploitative Technology | https://github.com/doetotime/diet | 0 | 0| 
+| 20220821T05:17:07Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 40 | 2| 
+| 20220821T02:38:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 480 | 138| 
+| 20220821T01:47:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-nn | 0 | 0| 
+| 20220821T01:45:59Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 0 | 0| 
+| 20220821T01:45:01Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-nn | 0 | 0| 
+| 20220821T01:11:17Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 293 | 205| 
+| 20220820T23:56:25Z | Exploit Development tools | https://github.com/gnunez88/binexp-tools | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220819T23:08:25Z | BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 9 | 3| 
+| 20220820T19:11:01Z | Null | https://github.com/SCLBD/BackdoorBench | 44 | 5| 
+| 20220820T13:26:47Z | BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 12 | 4| 
+| 20220820T11:53:56Z | Clone of https://github.com/Fartlicker777/Backdoor-Hacking | https://github.com/KtaneModules/Backdoor-Hacking-Fartlicker777 | 0 | 0| 
 | 20220819T14:38:45Z | A standalone FiveM script to prevent the backdoor called %Cipher% | https://github.com/HoaxFacts/fg-antiCipher | 7 | 2| 
 | 20220819T14:08:38Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 121 | 27| 
 | 20220819T13:27:37Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 7 | 0| 
+| 20220819T12:55:17Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 35 | 11| 
 | 20220818T16:39:16Z | hacking console for Remissionis LARP | https://github.com/kss-fluency/backdoor | 0 | 0| 
 | 20220818T15:54:39Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 541 | 108| 
-| 20220818T08:10:06Z | Null | https://github.com/SCLBD/BackdoorBench | 43 | 5| 
 | 20220818T03:09:07Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 6 | 1| 
-| 20220818T03:05:07Z | The source for the website where I host my notes, please don%t backdoor my server | https://github.com/Noorquacker/notes-site | 0 | 0| 
-| 20220817T20:34:24Z | Simple backdoor using Telegram API | https://github.com/eminmuhammadi/arxaqapibot | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220820T00:56:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2045 | 579| 
-| 20220820T00:42:36Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 283 | 19| 
-| 20220819T23:11:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3056 | 432| 
+| 20220820T23:29:33Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 476 | 26| 
+| 20220820T22:56:16Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 285 | 20| 
+| 20220820T22:39:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 580| 
+| 20220820T19:29:41Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 12 | 1| 
+| 20220820T15:56:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3058 | 432| 
+| 20220820T10:53:06Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 130 | 12| 
 | 20220819T10:24:44Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 42| 
-| 20220819T09:24:27Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 10 | 0| 
 | 20220819T07:25:34Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 1 | 1| 
-| 20220818T19:12:05Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 473 | 26| 
 | 20220817T13:16:50Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 2 | 0| 
 | 20220817T06:41:30Z | pre-compiled/linked coreutils programs used as benchmarks for symbolic execution | https://github.com/Generative-Program-Analysis/coreutils-linked | 0 | 0| 
-| 20220816T18:07:44Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 129 | 11| 
 
 
 # big4 on Github 推荐
