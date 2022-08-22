@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220822 | 论如何优雅的注入Java Agent内存马 | https://mp.weixin.qq.com/s/xxaOsJdRE5OoRkMLkIj3Lg| 
+| 20220822 | Evil PLC Attack: Hacking PLCs to Attack Engineering Workstations | https://claroty.com/team82/research/evil-plc-attack-using-a-controller-as-predator-rather-than-prey| 
+| 20220822 | 利用 Burp 扩展 GraphQuail 测试 GraphQL API 的安全 | http://blog.forcesunseen.com/graphql-security-testing-without-a-schema| 
+| 20220822 | Exploiting WebKit JSPropertyNameEnumerator Out-of-Bounds Read (CVE-2021-1789) | http://starlabs.sg/blog/2022/08-exploiting-webkit-jspropertynameenumerator-out-of-bounds-read-cve-2021-1789/| 
+| 20220822 | 从头构建一个 Hypervisor | https://github.com/SinaKarvandi/Hypervisor-From-Scratch| 
+| 20220822 | 游戏安全方向的资料整理 | https://github.com/gmh5225/awesome-game-security| 
+| 20220822 | 渗透测试实战笔记 | https://github.com/ihebski/A-Red-Teamer-diaries| 
+| 20220822 | 在 iOS 和 Android 平台劫持 Flutter App 的流量 | http://blog.nviso.eu/2022/08/18/intercept-flutter-traffic-on-ios-and-android-http-https-dio-pinning/| 
+| 20220822 | 在 Trezor One 硬件钱包上实现 Fault Injection 硬件级攻击 | http://voidstarsec.com/blog/replicant-part-1| 
+| 20220822 | FreeBSD 11.0-13.0 aio_aqueue 内核引用计数漏洞，可被利用实现本地提权 | https://sec.today/pulses/d11cc530-f0f0-4bf0-a7b1-1d121feb490b/| 
+| 20220822 | FreeBSD 11.0-13.0 aio_aqueue 内核引用计数漏洞，可被利用实现本地提权 | http://accessvector.net/2022/freebsd-aio-lpe| 
 | 20220819 | 基于 eBPF 和非监督学习 Autoencoders 的进程异常行为检测 | https://www.evilsocket.net/2022/08/15/Process-behaviour-anomaly-detection-using-eBPF-and-unsupervised-learning-Autoencoders/| 
 | 20220819 | 利用 Google Translate 绕过钓鱼检测 | http://certitude.consulting/blog/en/bypass-phishing-detections-with-google-translate-2/| 
 | 20220819 | 思科被黑事件中收集的日志的分析 | http://trunc.org/learning/cisco-hack-tracks-left-in-the-logs| 
@@ -15,17 +26,6 @@
 | 20220819 | EDR 检测机制以及用 EDRSandblast 工具逃逸 EDR 的检测 | https://github.com/wavestone-cdt/EDRSandblast/tree/DefCon30Release| 
 | 20220819 | 文件描述符和文件数据结构相关的安全漏洞研究 | https://i.blackhat.com/USA-22/Wednesday/US-22-Wu-Devils-Are-in-the-File.pdf| 
 | 20220819 | Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling | https://i.blackhat.com/USA-22/Wednesday/us-22-Kettle-Browser-Powered-Desync-Attacks.pdf| 
-| 20220819 | DirtyCred - 利用 Kernel Credentials Swap 实现提权的利用方法 | https://sec.today/pulses/646f8ac9-546d-4529-a933-21ffe5f21dd3/| 
-| 20220819 | DirtyCred - 利用 Kernel Credentials Swap 实现提权的利用方法 | http://github.com/markakd/dirtycred| 
-| 20220819 | 论如何优雅的注入 Java Agent 内存马 | http://paper.seebug.org/1945/| 
-| 20220818 | Detecting kernel exploits with eBPF | https://i.blackhat.com/USA-22/Wednesday/US-22-Fournier-Return-To-Sender.pdf| 
-| 20220818 | 不同 URL Parser 解析之间的细微差异导致的安全问题 | https://blog.sonarsource.com/security-implications-of-url-parsing-differentials/| 
-| 20220818 | COMRACE Detecting Data Race Vulnerabilities in COM Objects | https://github.com/edwardz246003/presentations/blob/main/Usenix%20Security%202022/%E3%80%90Usenix%202022%20slides%E3%80%91COMRACE%20Detecting%20Data%20Race%20Vulnerabilities%20in%20COM%20Objects.pdf| 
-| 20220818 | eBPF for Windows 的实现以及相关的 API 漏洞挖掘 | http://bbs.undercurrents.io/BH2022.pdf| 
-| 20220818 | 利用 Azure AD 环境的协商协议 NegoEx 实现横向移动 | https://i.blackhat.com/USA-22/Wednesday/US-22-Rubin-AAD-Joined-Machines-New-Lateral-Movement.pdf| 
-| 20220818 | 攻击者渗透云通讯平台公司 Twilio 并利用其短信服务攻击 Signal 用户 | https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts| 
-| 20220818 | Binary 对 Intel Pre-EFI (PEI) 攻击面的研究 | http://binarly.io/posts/Black_Hat_2022_The_Intel_PPAM_attack_story/index.html| 
-| 20220818 | TP-Link TL-WR841N 路由器 3 个漏洞分析 | https://blog.viettelcybersecurity.com/1day-to-0day-on-tl-link-tl-wr841n/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220822T01:41:06Z | CVE-2022-1388 | F5 BIG-IP iControl REST身份验证绕过漏洞 | https://github.com/Henry4E36/CVE-2022-1388 | | 
+| 20220822T11:19:04Z | CVE-2021-3156 | The test report of this exploit. | https://github.com/baka9moe/CVE-2021-3156-TestReport | | 
+| 20220822T09:41:18Z | CVE-2022-26134 | CVE-2022-26134-Console | https://github.com/shiftsansan/CVE-2022-26134-Console | | 
+| 20220822T09:16:02Z | CVE-2022-36446 | Null | https://github.com/peanut-cc/CVE-2022-36446 | | 
+| 20220822T08:27:34Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
+| 20220822T02:38:45Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape | | 
+| 20220822T02:05:20Z | CVE-2022-1388 | F5 BIG-IP iControl REST身份验证绕过漏洞 | https://github.com/Henry4E36/CVE-2022-1388 | | 
 | 20220821T23:52:16Z | CVE-2021-09 | Just testing if some bot will do some action here LOL | https://github.com/zeroc00I/CVE-2021-09-03 | | 
 | 20220821T21:33:27Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220821T19:46:31Z | 未知编号 | Null | https://github.com/PyterSmithDarkGhost/IoT-CVE202227255 | | 
 | 20220821T15:49:19Z | CVE-2020-1938 | This is a modified version of the original GhostCat Exploit | https://github.com/YounesTasra-R4z3rSw0rd/CVE-2020-1938 | | 
-| 20220821T13:48:39Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
-| 20220821T11:48:32Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
-| 20220821T11:07:35Z | 未知编号 | This is a script for version detection of Webmin remote server interface. | https://github.com/monzaviman/CVE_2022_36446 | | 
-| 20220821T09:31:31Z | CVE-2021-43811 | awslabs/sockeye Code injection via unsafe YAML loading CVE-2021-43811 | https://github.com/s-index/CVE-2021-43811 | | 
-| 20220821T02:25:34Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220821T15:33:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7747 | 266| 
+| 20220822T10:34:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7749 | 266| 
 | 20220821T13:40:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 53 | 0| 
-| 20220820T22:39:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 580| 
+| 20220820T22:39:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
 | 20220820T17:02:16Z | Null | https://github.com/owam96/BST_KLEE | 0 | 0| 
+| 20220820T02:31:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 253 | 42| 
 | 20220819T10:05:13Z | Null | https://github.com/WadiAizouky/Kleegroup_DemandeLog | 0 | 0| 
 | 20220818T20:34:41Z | KleenScan API command-line tool | https://github.com/nbaertsch/KleenScanner | 0 | 0| 
 | 20220818T14:52:05Z | All my jobs | https://github.com/xamie01/kleekit-jobs | 0 | 0| 
 | 20220817T13:43:13Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 161 | 50| 
 | 20220815T09:44:06Z | Null | https://github.com/WadiAizouky/Kleegroup_demandeLogementS | 0 | 0| 
-| 20220815T00:45:40Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwGuiKai | 18 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220822T11:39:51Z | A collection of hacking / penetration testing resources to make you better! | https://github.com/vitalysim/Awesome-Hacking-Resources | 12379 | 1905| 
+| 20220822T11:31:16Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 86 | 11| 
+| 20220822T11:19:04Z | The test report of this exploit. | https://github.com/baka9moe/CVE-2021-3156-TestReport | 5 | 0| 
+| 20220822T09:44:08Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 427 | 28| 
+| 20220822T09:18:27Z | The ChromeCast Exploitation Kit | https://github.com/PabloBrusseel/CCEK | 22 | 7| 
+| 20220822T06:23:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3823 | 578| 
+| 20220822T06:22:30Z | A lightweight, exploit proof game framework for Roblox | https://github.com/Breadway/Sew | 0 | 0| 
+| 20220822T05:29:34Z | EBGui is a quick and easy user interface for Elemental Battlegrounds. | https://github.com/EarthToAccess/EBGUI | 0 | 0| 
 | 20220822T01:58:05Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vv | 0 | 0| 
 | 20220822T01:57:19Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-vv | 0 | 0| 
-| 20220822T01:47:44Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3099 | 577| 
-| 20220822T00:34:12Z | NFT - ETH Drainer from a signature request | https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature | 1 | 2| 
-| 20220822T00:08:41Z | Developed a mock website as part of a A-Level project. | https://github.com/n-k-a/OutdoorExploits | 0 | 0| 
-| 20220821T22:41:22Z | An XSS Exploitation Tool | https://github.com/Sharpforce/XSS-Exploitation-Tool | 35 | 10| 
-| 20220821T21:35:28Z | Web security risks 🌐 are still very much in their infancy :computer: . Websites are exposed to web exploitation attacks :x: . For so, the focus of this project :bulb: is to build firewalls to protect web applications from a variety of application layer attacks :lock_with_ink_pen: such as cross-site scripting (XSS), SQL injection, and cookie poisoning | https://github.com/Imeneallouche/Web-Application-Firewalls | 0 | 0| 
-| 20220821T20:55:22Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
-| 20220821T19:56:33Z | Best Crypter/Protector, To Protect Your Files. | https://github.com/CodiumAlgorithm/Codium-Crypter-1.9.0-Bypass-MalwareBytes-Rootkit-Startup---Persistence | 1 | 0| 
-| 20220821T19:05:23Z | The #1 Exploit for Ragdoll System Test | https://github.com/asdwasdwd/Endurance | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T01:29:08Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 89 | 10| 
+| 20220822T12:04:37Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 145 | 17| 
+| 20220822T11:42:27Z | Backdoor Client and Server | https://github.com/Radeonares32/python-backdoor | 0 | 0| 
+| 20220822T10:47:36Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 542 | 108| 
+| 20220822T08:22:17Z | HAVE TO BE UPGRADED LIKE THE PYTHON ONE :) | https://github.com/Thehacker-arch/RUST-BACKDOOR | 0 | 0| 
+| 20220822T07:47:44Z | Null | https://github.com/Apkaless/Ready-Backdoor-To-Use | 0 | 0| 
+| 20220822T01:12:35Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 15 | 1| 
 | 20220821T21:55:51Z | BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 12 | 5| 
 | 20220821T19:45:22Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20220821T15:40:04Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 8 | 0| 
 | 20220821T06:47:09Z | small program to learn how  backdoor is created and used, also hopefully how to catch a backdoor that may be in use. | https://github.com/noelw19/py-backdoor-learning | 0 | 0| 
-| 20220820T19:11:01Z | Null | https://github.com/SCLBD/BackdoorBench | 44 | 5| 
-| 20220820T11:53:56Z | Clone of https://github.com/Fartlicker777/Backdoor-Hacking | https://github.com/KtaneModules/Backdoor-Hacking-Fartlicker777 | 0 | 0| 
-| 20220819T14:38:45Z | A standalone FiveM script to prevent the backdoor called %Cipher% | https://github.com/HoaxFacts/fg-antiCipher | 7 | 2| 
-| 20220819T14:08:38Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 121 | 27| 
-| 20220819T12:55:17Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 35 | 11| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T01:56:49Z | Null | https://github.com/sherryzzz07/fuzzy-waddle | 0 | 0| 
-| 20220822T01:48:14Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2739 | 311| 
-| 20220822T00:46:40Z | Null | https://github.com/adityaharis69/ElektrokoagulasiFuzzy | 0 | 0| 
-| 20220822T00:44:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 938 | 106| 
-| 20220822T00:10:26Z | Null | https://github.com/FuZZED105/FuZZED105.github.io | 0 | 0| 
-| 20220821T23:20:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4302 | 1041| 
-| 20220821T21:25:04Z | Null | https://github.com/Kimono02/fuzzy-disco | 0 | 0| 
-| 20220821T20:31:35Z | Null | https://github.com/ernasifb/fuzzy-octo-spoon | 0 | 0| 
-| 20220821T17:50:03Z | Yug Srijeta | https://github.com/kanup4m/fuzzy-potato | 0 | 0| 
-| 20220821T11:56:52Z | Null | https://github.com/setayesh78/inverted-pendulum_Fuzzy-controller | 0 | 0| 
+| 20220822T11:43:03Z | Null | https://github.com/w1nkkk/fuzzy-dollop | 0 | 0| 
+| 20220822T10:30:17Z | my Codespaces | https://github.com/venkat-s/fuzzy-system | 0 | 0| 
+| 20220822T10:14:46Z | Plusfish is a classic web application vulnerability scanner/fuzzer and aimed at security professionals | https://github.com/google/plusfish | 16 | 7| 
+| 20220822T10:12:22Z | Null | https://github.com/Outcan/html5-fuzzy | 0 | 0| 
+| 20220822T09:57:52Z | Null | https://github.com/Developer-Gitonga/Fuzzy-guide | 0 | 0| 
+| 20220822T09:14:20Z | Copy of 389ds fuzzer | https://github.com/NathanMulbrook/389-ds-fuzz | 0 | 0| 
+| 20220822T09:09:13Z | Null | https://github.com/vforteli/FuzzySearch.Net | 1 | 0| 
+| 20220822T08:49:05Z | Null | https://github.com/Emelogu/fuzzy | 0 | 0| 
+| 20220822T08:27:19Z | Programa baseado em lógica fuzzy (inferência de Mamdani) que recebe três valores: pressão no pedal, velocidade da roda e velocidade do carro e que devolve a pressão no freio. O programa apresenta a área formada para o cálculo do centroide. | https://github.com/magabesi/Logica-Fuzzy-Projeto-Pressao-do-Freio- | 0 | 0| 
+| 20220822T08:18:59Z | Null | https://github.com/cokarane/fuzzy-octo-happiness | 0 | 0| 
 
 
 

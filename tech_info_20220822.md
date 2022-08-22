@@ -64,7 +64,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T11:57:25Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 144 | 17| 
+| 20220822T12:04:37Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 145 | 17| 
 | 20220822T11:42:27Z | Backdoor Client and Server | https://github.com/Radeonares32/python-backdoor | 0 | 0| 
 | 20220822T10:47:36Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 542 | 108| 
 | 20220822T08:22:17Z | HAVE TO BE UPGRADED LIKE THE PYTHON ONE :) | https://github.com/Thehacker-arch/RUST-BACKDOOR | 0 | 0| 
@@ -86,11 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T01:56:49Z | Null | https://github.com/sherryzzz07/fuzzy-waddle | 0 | 0| 
-| 20220822T01:48:14Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2739 | 311| 
-| 20220822T00:46:40Z | Null | https://github.com/adityaharis69/ElektrokoagulasiFuzzy | 0 | 0| 
-| 20220822T00:44:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 938 | 106| 
-| 20220822T00:10:26Z | Null | https://github.com/FuZZED105/FuZZED105.github.io | 0 | 0| 
+| 20220822T11:43:03Z | Null | https://github.com/w1nkkk/fuzzy-dollop | 0 | 0| 
+| 20220822T10:30:17Z | my Codespaces | https://github.com/venkat-s/fuzzy-system | 0 | 0| 
+| 20220822T10:14:46Z | Plusfish is a classic web application vulnerability scanner/fuzzer and aimed at security professionals | https://github.com/google/plusfish | 16 | 7| 
+| 20220822T10:12:22Z | Null | https://github.com/Outcan/html5-fuzzy | 0 | 0| 
+| 20220822T09:57:52Z | Null | https://github.com/Developer-Gitonga/Fuzzy-guide | 0 | 0| 
+| 20220822T09:14:20Z | Copy of 389ds fuzzer | https://github.com/NathanMulbrook/389-ds-fuzz | 0 | 0| 
+| 20220822T09:09:13Z | Null | https://github.com/vforteli/FuzzySearch.Net | 1 | 0| 
+| 20220822T08:49:05Z | Null | https://github.com/Emelogu/fuzzy | 0 | 0| 
+| 20220822T08:27:19Z | Programa baseado em lógica fuzzy (inferência de Mamdani) que recebe três valores: pressão no pedal, velocidade da roda e velocidade do carro e que devolve a pressão no freio. O programa apresenta a área formada para o cálculo do centroide. | https://github.com/magabesi/Logica-Fuzzy-Projeto-Pressao-do-Freio- | 0 | 0| 
+| 20220822T08:18:59Z | Null | https://github.com/cokarane/fuzzy-octo-happiness | 0 | 0| 
 
 
 
