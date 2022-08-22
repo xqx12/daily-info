@@ -49,7 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T11:39:51Z | A collection of hacking / penetration testing resources to make you better! | https://github.com/vitalysim/Awesome-Hacking-Resources | 12379 | 1905| 
+| 20220822T12:54:41Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 0 | 0| 
+| 20220822T12:52:53Z | A collection of hacking / penetration testing resources to make you better! | https://github.com/vitalysim/Awesome-Hacking-Resources | 12380 | 1905| 
 | 20220822T11:31:16Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 86 | 11| 
 | 20220822T11:19:04Z | The test report of this exploit. | https://github.com/baka9moe/CVE-2021-3156-TestReport | 5 | 0| 
 | 20220822T09:44:08Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 427 | 28| 
@@ -58,7 +59,6 @@
 | 20220822T06:22:30Z | A lightweight, exploit proof game framework for Roblox | https://github.com/Breadway/Sew | 0 | 0| 
 | 20220822T05:29:34Z | EBGui is a quick and easy user interface for Elemental Battlegrounds. | https://github.com/EarthToAccess/EBGUI | 0 | 0| 
 | 20220822T03:47:10Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4804 | 663| 
-| 20220822T01:58:05Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vv | 0 | 0| 
 
 
 # backdoor on Github 推荐
