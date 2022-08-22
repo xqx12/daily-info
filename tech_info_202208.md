@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220822T01:47:44Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3099 | 577| 
 | 20220822T00:34:12Z | NFT - ETH Drainer from a signature request | https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature | 1 | 2| 
 | 20220822T00:08:41Z | Developed a mock website as part of a A-Level project. | https://github.com/n-k-a/OutdoorExploits | 0 | 0| 
 | 20220821T22:41:22Z | An XSS Exploitation Tool | https://github.com/Sharpforce/XSS-Exploitation-Tool | 35 | 10| 
@@ -95,7 +96,6 @@
 | 20220821T19:05:23Z | The #1 Exploit for Ragdoll System Test | https://github.com/asdwasdwd/Endurance | 0 | 0| 
 | 20220821T18:35:07Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7634 | 1907| 
 | 20220821T18:22:19Z | Pwning browsers xD | https://github.com/huyql109/Browser-exploitation | 0 | 0| 
-| 20220821T18:13:55Z | My road to learning kernel exploitation ~~~ | https://github.com/huyql109/Kernel-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
