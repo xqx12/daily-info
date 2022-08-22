@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220822T01:41:06Z | CVE-2022-1388 | F5 BIG-IP iControl REST身份验证绕过漏洞 | https://github.com/Henry4E36/CVE-2022-1388 | | 
 | 20220821T23:52:16Z | CVE-2021-09 | Just testing if some bot will do some action here LOL | https://github.com/zeroc00I/CVE-2021-09-03 | | 
 | 20220821T21:33:27Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220821T19:46:31Z | 未知编号 | Null | https://github.com/PyterSmithDarkGhost/IoT-CVE202227255 | | 
@@ -55,7 +56,6 @@
 | 20220821T11:07:35Z | 未知编号 | This is a script for version detection of Webmin remote server interface. | https://github.com/monzaviman/CVE_2022_36446 | | 
 | 20220821T09:31:31Z | CVE-2021-43811 | awslabs/sockeye Code injection via unsafe YAML loading CVE-2021-43811 | https://github.com/s-index/CVE-2021-43811 | | 
 | 20220821T02:25:34Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape | | 
-| 20220820T23:07:04Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/sm0ke1337/CVE-2022-21894-Payload | | 
 
 
 # klee on Github 推荐
