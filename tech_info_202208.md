@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220822T01:58:05Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vv | 0 | 0| 
+| 20220822T01:57:19Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-vv | 0 | 0| 
 | 20220822T01:47:44Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3099 | 577| 
 | 20220822T00:34:12Z | NFT - ETH Drainer from a signature request | https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature | 1 | 2| 
 | 20220822T00:08:41Z | Developed a mock website as part of a A-Level project. | https://github.com/n-k-a/OutdoorExploits | 0 | 0| 
@@ -94,8 +96,6 @@
 | 20220821T20:55:22Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
 | 20220821T19:56:33Z | Best Crypter/Protector, To Protect Your Files. | https://github.com/CodiumAlgorithm/Codium-Crypter-1.9.0-Bypass-MalwareBytes-Rootkit-Startup---Persistence | 1 | 0| 
 | 20220821T19:05:23Z | The #1 Exploit for Ragdoll System Test | https://github.com/asdwasdwd/Endurance | 0 | 0| 
-| 20220821T18:35:07Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7634 | 1907| 
-| 20220821T18:22:19Z | Pwning browsers xD | https://github.com/huyql109/Browser-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220822T01:56:49Z | Null | https://github.com/sherryzzz07/fuzzy-waddle | 0 | 0| 
 | 20220822T01:48:14Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2739 | 311| 
 | 20220822T00:46:40Z | Null | https://github.com/adityaharis69/ElektrokoagulasiFuzzy | 0 | 0| 
 | 20220822T00:44:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 938 | 106| 
@@ -152,7 +153,6 @@
 | 20220821T20:31:35Z | Null | https://github.com/ernasifb/fuzzy-octo-spoon | 0 | 0| 
 | 20220821T17:50:03Z | Yug Srijeta | https://github.com/kanup4m/fuzzy-potato | 0 | 0| 
 | 20220821T11:56:52Z | Null | https://github.com/setayesh78/inverted-pendulum_Fuzzy-controller | 0 | 0| 
-| 20220821T11:17:40Z | Benchmarks for fuzzy search libraries | https://github.com/zoubingwu/bench-fuzzy-search | 0 | 0| 
 
 
 
