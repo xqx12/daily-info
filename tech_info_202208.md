@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220822T00:34:12Z | NFT - ETH Drainer from a signature request | https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature | 1 | 2| 
 | 20220822T00:08:41Z | Developed a mock website as part of a A-Level project. | https://github.com/n-k-a/OutdoorExploits | 0 | 0| 
 | 20220821T22:41:22Z | An XSS Exploitation Tool | https://github.com/Sharpforce/XSS-Exploitation-Tool | 35 | 10| 
 | 20220821T21:35:28Z | Web security risks 🌐 are still very much in their infancy :computer: . Websites are exposed to web exploitation attacks :x: . For so, the focus of this project :bulb: is to build firewalls to protect web applications from a variety of application layer attacks :lock_with_ink_pen: such as cross-site scripting (XSS), SQL injection, and cookie poisoning | https://github.com/Imeneallouche/Web-Application-Firewalls | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220821T18:35:07Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7634 | 1907| 
 | 20220821T18:22:19Z | Pwning browsers xD | https://github.com/huyql109/Browser-exploitation | 0 | 0| 
 | 20220821T18:13:55Z | My road to learning kernel exploitation ~~~ | https://github.com/huyql109/Kernel-exploitation | 0 | 0| 
-| 20220821T15:40:39Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 425 | 28| 
 
 
 # backdoor on Github 推荐
