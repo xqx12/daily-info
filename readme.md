@@ -52,7 +52,7 @@
 | 20220821T18:22:19Z | Pwning browsers xD | https://github.com/huyql109/Browser-exploitation | 0 | 0| 
 | 20220821T18:13:55Z | My road to learning kernel exploitation ~~~ | https://github.com/huyql109/Kernel-exploitation | 0 | 0| 
 | 20220821T17:02:25Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1158 | 105| 
-| 20220821T15:40:39Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 425 | 28| 
+| 20220821T16:47:52Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 45 | 3| 
 
 
 # backdoor on Github 推荐
