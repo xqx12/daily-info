@@ -143,13 +143,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220822T01:10:56Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2738 | 311| 
 | 20220822T00:46:40Z | Null | https://github.com/adityaharis69/ElektrokoagulasiFuzzy | 0 | 0| 
 | 20220822T00:44:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 938 | 106| 
 | 20220822T00:10:26Z | Null | https://github.com/FuZZED105/FuZZED105.github.io | 0 | 0| 
 | 20220821T23:20:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4302 | 1041| 
 | 20220821T21:25:04Z | Null | https://github.com/Kimono02/fuzzy-disco | 0 | 0| 
 | 20220821T20:31:35Z | Null | https://github.com/ernasifb/fuzzy-octo-spoon | 0 | 0| 
-| 20220821T20:31:31Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2737 | 311| 
 | 20220821T17:50:03Z | Yug Srijeta | https://github.com/kanup4m/fuzzy-potato | 0 | 0| 
 | 20220821T11:56:52Z | Null | https://github.com/setayesh78/inverted-pendulum_Fuzzy-controller | 0 | 0| 
 | 20220821T11:17:40Z | Benchmarks for fuzzy search libraries | https://github.com/zoubingwu/bench-fuzzy-search | 0 | 0| 

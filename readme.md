@@ -81,13 +81,13 @@
 | 20220821T23:20:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4302 | 1041| 
 | 20220821T21:25:04Z | Null | https://github.com/Kimono02/fuzzy-disco | 0 | 0| 
 | 20220821T20:31:35Z | Null | https://github.com/ernasifb/fuzzy-octo-spoon | 0 | 0| 
-| 20220821T20:31:31Z | vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2737 | 311| 
 | 20220821T17:50:03Z | Yug Srijeta | https://github.com/kanup4m/fuzzy-potato | 0 | 0| 
 | 20220821T11:56:52Z | Null | https://github.com/setayesh78/inverted-pendulum_Fuzzy-controller | 0 | 0| 
 | 20220821T11:17:40Z | Benchmarks for fuzzy search libraries | https://github.com/zoubingwu/bench-fuzzy-search | 0 | 0| 
 | 20220821T10:56:53Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xlittleboy/fuzz4bounty | 0 | 0| 
 | 20220821T08:19:09Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 11 | 2| 
 | 20220821T07:47:02Z | Null | https://github.com/burakomersaracoglu/Global-Power-Prediction-Systems-Type-1-Sugeno-like-Fuzzy-Inference-System-Model-Version-2015 | 0 | 0| 
+| 20220821T07:39:51Z | Null | https://github.com/burakomersaracoglu/Global-Power-Prediction-Systems-Type-2-Mamdani-like-Fuzzy-Inference-System-Model-Version-2015 | 0 | 0| 
 
 
 
