@@ -101,7 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T00:48:56Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 85 | 10| 
+| 20220822T00:51:08Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 86 | 10| 
 | 20220821T21:55:51Z | BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 12 | 5| 
 | 20220821T19:45:22Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20220821T15:40:04Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 8 | 0| 
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220822T00:46:40Z | Null | https://github.com/adityaharis69/ElektrokoagulasiFuzzy | 0 | 0| 
 | 20220822T00:44:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 938 | 106| 
 | 20220822T00:10:26Z | Null | https://github.com/FuZZED105/FuZZED105.github.io | 0 | 0| 
 | 20220821T23:20:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4302 | 1041| 
@@ -152,7 +153,6 @@
 | 20220821T17:50:03Z | Yug Srijeta | https://github.com/kanup4m/fuzzy-potato | 0 | 0| 
 | 20220821T11:56:52Z | Null | https://github.com/setayesh78/inverted-pendulum_Fuzzy-controller | 0 | 0| 
 | 20220821T11:17:40Z | Benchmarks for fuzzy search libraries | https://github.com/zoubingwu/bench-fuzzy-search | 0 | 0| 
-| 20220821T10:56:53Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xlittleboy/fuzz4bounty | 0 | 0| 
 
 
 
