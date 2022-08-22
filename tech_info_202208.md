@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T00:04:07Z | Developed a mock website as part of a A-Level project. | https://github.com/n-k-a/OutdoorExploits | 0 | 0| 
+| 20220822T00:08:41Z | Developed a mock website as part of a A-Level project. | https://github.com/n-k-a/OutdoorExploits | 0 | 0| 
 | 20220821T22:41:22Z | An XSS Exploitation Tool | https://github.com/Sharpforce/XSS-Exploitation-Tool | 35 | 10| 
 | 20220821T21:35:28Z | Web security risks 🌐 are still very much in their infancy :computer: . Websites are exposed to web exploitation attacks :x: . For so, the focus of this project :bulb: is to build firewalls to protect web applications from a variety of application layer attacks :lock_with_ink_pen: such as cross-site scripting (XSS), SQL injection, and cookie poisoning | https://github.com/Imeneallouche/Web-Application-Firewalls | 0 | 0| 
 | 20220821T20:55:22Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
