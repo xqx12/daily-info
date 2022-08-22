@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220821T23:52:16Z | CVE-2021-09 | Just testing if some bot will do some action here LOL | https://github.com/zeroc00I/CVE-2021-09-03 | | 
+| 20220821T21:33:27Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
+| 20220821T19:46:31Z | 未知编号 | Null | https://github.com/PyterSmithDarkGhost/IoT-CVE202227255 | | 
+| 20220821T15:49:19Z | CVE-2020-1938 | This is a modified version of the original GhostCat Exploit | https://github.com/YounesTasra-R4z3rSw0rd/CVE-2020-1938 | | 
+| 20220821T13:48:39Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
 | 20220821T11:48:32Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
 | 20220821T11:07:35Z | 未知编号 | This is a script for version detection of Webmin remote server interface. | https://github.com/monzaviman/CVE_2022_36446 | | 
-| 20220821T10:41:16Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220821T09:31:31Z | CVE-2021-43811 | awslabs/sockeye Code injection via unsafe YAML loading CVE-2021-43811 | https://github.com/s-index/CVE-2021-43811 | | 
-| 20220821T03:06:52Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
 | 20220821T02:25:34Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape | | 
 | 20220820T23:07:04Z | CVE-2022-21894 | Example payload for CVE-2022-21894 | https://github.com/sm0ke1337/CVE-2022-21894-Payload | | 
-| 20220820T22:06:47Z | 未知编号 | CVE_2021_24212 | https://github.com/EmmanuelCruzL/CVE_2021_24212 | | 
-| 20220820T11:01:58Z | CVE-2022-27925 | Null | https://github.com/navokus/CVE-2022-27925 | | 
-| 20220819T23:05:56Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220821T11:35:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7743 | 266| 
+| 20220821T15:33:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7747 | 266| 
+| 20220821T13:40:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 53 | 0| 
 | 20220820T22:39:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 580| 
 | 20220820T17:02:16Z | Null | https://github.com/owam96/BST_KLEE | 0 | 0| 
-| 20220820T12:09:29Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 52 | 0| 
 | 20220819T10:05:13Z | Null | https://github.com/WadiAizouky/Kleegroup_DemandeLog | 0 | 0| 
 | 20220818T20:34:41Z | KleenScan API command-line tool | https://github.com/nbaertsch/KleenScanner | 0 | 0| 
 | 20220818T14:52:05Z | All my jobs | https://github.com/xamie01/kleekit-jobs | 0 | 0| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220821T11:41:49Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 1378 | 191| 
-| 20220821T09:46:03Z | the source code for  form you get will filter all your unwanted characters, symbols and prevent from script and sql exploits | https://github.com/aanand-shah09/form-security-validity | 0 | 0| 
-| 20220821T08:22:52Z | Defensive Intelligence and Exploitative Technology | https://github.com/doetotime/diet | 0 | 0| 
-| 20220821T05:17:07Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 40 | 2| 
-| 20220821T02:38:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 480 | 138| 
-| 20220821T01:47:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-nn | 0 | 0| 
-| 20220821T01:45:59Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 0 | 0| 
-| 20220821T01:45:01Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-nn | 0 | 0| 
-| 20220821T01:11:17Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 293 | 205| 
-| 20220820T23:56:25Z | Exploit Development tools | https://github.com/gnunez88/binexp-tools | 0 | 0| 
+| 20220821T22:41:22Z | An XSS Exploitation Tool | https://github.com/Sharpforce/XSS-Exploitation-Tool | 35 | 10| 
+| 20220821T21:35:28Z | Web security risks 🌐 are still very much in their infancy :computer: . Websites are exposed to web exploitation attacks :x: . For so, the focus of this project :bulb: is to build firewalls to protect web applications from a variety of application layer attacks :lock_with_ink_pen: such as cross-site scripting (XSS), SQL injection, and cookie poisoning | https://github.com/Imeneallouche/Web-Application-Firewalls | 0 | 0| 
+| 20220821T20:55:22Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
+| 20220821T19:56:33Z | Best Crypter/Protector, To Protect Your Files. | https://github.com/CodiumAlgorithm/Codium-Crypter-1.9.0-Bypass-MalwareBytes-Rootkit-Startup---Persistence | 1 | 0| 
+| 20220821T19:05:23Z | The #1 Exploit for Ragdoll System Test | https://github.com/asdwasdwd/Endurance | 0 | 0| 
+| 20220821T18:35:07Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7634 | 1907| 
+| 20220821T18:22:19Z | Pwning browsers xD | https://github.com/huyql109/Browser-exploitation | 0 | 0| 
+| 20220821T18:13:55Z | My road to learning kernel exploitation ~~~ | https://github.com/huyql109/Kernel-exploitation | 0 | 0| 
+| 20220821T15:40:39Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 425 | 28| 
+| 20220821T15:37:58Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 84 | 11| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220821T12:42:13Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 12 | 2| 
+| 20220821T23:46:28Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 80 | 10| 
+| 20220821T21:55:51Z | BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 12 | 5| 
+| 20220821T19:45:22Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20220821T15:40:04Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 8 | 0| 
 | 20220821T06:47:09Z | small program to learn how  backdoor is created and used, also hopefully how to catch a backdoor that may be in use. | https://github.com/noelw19/py-backdoor-learning | 0 | 0| 
 | 20220820T19:11:01Z | Null | https://github.com/SCLBD/BackdoorBench | 44 | 5| 
-| 20220820T13:26:47Z | BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 12 | 4| 
 | 20220820T11:53:56Z | Clone of https://github.com/Fartlicker777/Backdoor-Hacking | https://github.com/KtaneModules/Backdoor-Hacking-Fartlicker777 | 0 | 0| 
 | 20220819T14:38:45Z | A standalone FiveM script to prevent the backdoor called %Cipher% | https://github.com/HoaxFacts/fg-antiCipher | 7 | 2| 
 | 20220819T14:08:38Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 121 | 27| 
-| 20220819T13:27:37Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 7 | 0| 
 | 20220819T12:55:17Z | Command and Control (C2) server with backdoor acting as Remote Administration Trojan (RAT) written in Python3 | https://github.com/safesploit/PythonRAT | 35 | 11| 
-| 20220818T16:39:16Z | hacking console for Remissionis LARP | https://github.com/kss-fluency/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220821T23:20:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4302 | 1041| 
+| 20220821T21:25:04Z | Null | https://github.com/Kimono02/fuzzy-disco | 0 | 0| 
+| 20220821T20:31:35Z | Null | https://github.com/ernasifb/fuzzy-octo-spoon | 0 | 0| 
+| 20220821T17:50:03Z | Yug Srijeta | https://github.com/kanup4m/fuzzy-potato | 0 | 0| 
 | 20220821T11:56:52Z | Null | https://github.com/setayesh78/inverted-pendulum_Fuzzy-controller | 0 | 0| 
 | 20220821T11:17:40Z | Benchmarks for fuzzy search libraries | https://github.com/zoubingwu/bench-fuzzy-search | 0 | 0| 
 | 20220821T10:56:53Z | Awesome wordlists for Bug Bounty Hunting | https://github.com/0xlittleboy/fuzz4bounty | 0 | 0| 
 | 20220821T08:19:09Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 11 | 2| 
 | 20220821T07:47:02Z | Null | https://github.com/burakomersaracoglu/Global-Power-Prediction-Systems-Type-1-Sugeno-like-Fuzzy-Inference-System-Model-Version-2015 | 0 | 0| 
 | 20220821T07:39:51Z | Null | https://github.com/burakomersaracoglu/Global-Power-Prediction-Systems-Type-2-Mamdani-like-Fuzzy-Inference-System-Model-Version-2015 | 0 | 0| 
-| 20220821T07:38:08Z | Null | https://github.com/burakomersaracoglu/Global-Power-Prediction-Systems-Type-1-Mamdani-like-Fuzzy-Inference-System-Model-Version-2015 | 0 | 0| 
-| 20220821T06:29:14Z | Tool of xfuzz, machine learning guided cross-contract fuzzing | https://github.com/ToolmanInside/xfuzz_tool | 0 | 0| 
-| 20220821T06:28:27Z | Wi-Fi Framework for creating proof-of-concepts, automated experiments, test suites, fuzzers, and more. | https://github.com/domienschepers/wifi-framework | 59 | 12| 
-| 20220821T03:30:56Z | Script to generate a URL list to scan / fuzz from a network address | https://github.com/jllerenac/URLbuilder | 0 | 0| 
 
 
 
