@@ -86,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220822T12:15:55Z | Null | https://github.com/Developer-Gitonga/Fuzzy-guide | 0 | 0| 
+| 20220822T12:11:24Z | Null | https://github.com/huangguagua555/Fuzzy-Granular-Residual-Network | 0 | 0| 
 | 20220822T11:43:03Z | Null | https://github.com/w1nkkk/fuzzy-dollop | 0 | 0| 
 | 20220822T10:30:17Z | my Codespaces | https://github.com/venkat-s/fuzzy-system | 0 | 0| 
 | 20220822T10:14:46Z | Plusfish is a classic web application vulnerability scanner/fuzzer and aimed at security professionals | https://github.com/google/plusfish | 16 | 7| 
 | 20220822T10:12:22Z | Null | https://github.com/Outcan/html5-fuzzy | 0 | 0| 
-| 20220822T09:57:52Z | Null | https://github.com/Developer-Gitonga/Fuzzy-guide | 0 | 0| 
 | 20220822T09:14:20Z | Copy of 389ds fuzzer | https://github.com/NathanMulbrook/389-ds-fuzz | 0 | 0| 
 | 20220822T09:09:13Z | Null | https://github.com/vforteli/FuzzySearch.Net | 1 | 0| 
 | 20220822T08:49:05Z | Null | https://github.com/Emelogu/fuzzy | 0 | 0| 
 | 20220822T08:27:19Z | Programa baseado em lógica fuzzy (inferência de Mamdani) que recebe três valores: pressão no pedal, velocidade da roda e velocidade do carro e que devolve a pressão no freio. O programa apresenta a área formada para o cálculo do centroide. | https://github.com/magabesi/Logica-Fuzzy-Projeto-Pressao-do-Freio- | 0 | 0| 
-| 20220822T08:18:59Z | Null | https://github.com/cokarane/fuzzy-octo-happiness | 0 | 0| 
 
 
 
