@@ -94,14 +94,14 @@
 | 20220822T06:23:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3823 | 578| 
 | 20220822T06:22:30Z | A lightweight, exploit proof game framework for Roblox | https://github.com/Breadway/Sew | 0 | 0| 
 | 20220822T05:29:34Z | EBGui is a quick and easy user interface for Elemental Battlegrounds. | https://github.com/EarthToAccess/EBGUI | 0 | 0| 
+| 20220822T03:47:10Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4804 | 663| 
 | 20220822T01:58:05Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vv | 0 | 0| 
-| 20220822T01:57:19Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-vv | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T12:04:37Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 145 | 17| 
+| 20220822T12:47:17Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 148 | 17| 
 | 20220822T11:42:27Z | Backdoor Client and Server | https://github.com/Radeonares32/python-backdoor | 0 | 0| 
 | 20220822T10:47:36Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 542 | 108| 
 | 20220822T08:22:17Z | HAVE TO BE UPGRADED LIKE THE PYTHON ONE :) | https://github.com/Thehacker-arch/RUST-BACKDOOR | 0 | 0| 
@@ -116,11 +116,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T00:09:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3059 | 433| 
+| 20220822T05:16:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3060 | 433| 
 | 20220821T20:50:06Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 42| 
 | 20220820T23:29:33Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 476 | 26| 
-| 20220820T22:56:16Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 285 | 20| 
-| 20220820T22:39:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 580| 
+| 20220820T22:56:16Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 285 | 21| 
+| 20220820T22:39:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
 | 20220820T19:29:41Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 12 | 1| 
 | 20220820T10:53:06Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 130 | 12| 
 | 20220819T07:25:34Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 1 | 1| 
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220822T12:32:51Z | A simplistic utility to dump the contents of a Go generated fuzz test corpus | https://github.com/antichris/go-fuzzdump | 0 | 0| 
+| 20220822T12:15:55Z | Null | https://github.com/Developer-Gitonga/Fuzzy-guide | 0 | 0| 
+| 20220822T12:11:24Z | Null | https://github.com/huangguagua555/Fuzzy-Granular-Residual-Network | 0 | 0| 
 | 20220822T11:43:03Z | Null | https://github.com/w1nkkk/fuzzy-dollop | 0 | 0| 
 | 20220822T10:30:17Z | my Codespaces | https://github.com/venkat-s/fuzzy-system | 0 | 0| 
 | 20220822T10:14:46Z | Plusfish is a classic web application vulnerability scanner/fuzzer and aimed at security professionals | https://github.com/google/plusfish | 16 | 7| 
 | 20220822T10:12:22Z | Null | https://github.com/Outcan/html5-fuzzy | 0 | 0| 
-| 20220822T09:57:52Z | Null | https://github.com/Developer-Gitonga/Fuzzy-guide | 0 | 0| 
 | 20220822T09:14:20Z | Copy of 389ds fuzzer | https://github.com/NathanMulbrook/389-ds-fuzz | 0 | 0| 
 | 20220822T09:09:13Z | Null | https://github.com/vforteli/FuzzySearch.Net | 1 | 0| 
 | 20220822T08:49:05Z | Null | https://github.com/Emelogu/fuzzy | 0 | 0| 
-| 20220822T08:27:19Z | Programa baseado em lógica fuzzy (inferência de Mamdani) que recebe três valores: pressão no pedal, velocidade da roda e velocidade do carro e que devolve a pressão no freio. O programa apresenta a área formada para o cálculo do centroide. | https://github.com/magabesi/Logica-Fuzzy-Projeto-Pressao-do-Freio- | 0 | 0| 
-| 20220822T08:18:59Z | Null | https://github.com/cokarane/fuzzy-octo-happiness | 0 | 0| 
 
 
 
