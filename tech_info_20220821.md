@@ -51,8 +51,8 @@
 | 20220821T18:35:07Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 7634 | 1907| 
 | 20220821T18:22:19Z | Pwning browsers xD | https://github.com/huyql109/Browser-exploitation | 0 | 0| 
 | 20220821T18:13:55Z | My road to learning kernel exploitation ~~~ | https://github.com/huyql109/Kernel-exploitation | 0 | 0| 
+| 20220821T17:02:25Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1158 | 105| 
 | 20220821T15:40:39Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 425 | 28| 
-| 20220821T15:37:58Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 84 | 11| 
 
 
 # backdoor on Github 推荐
