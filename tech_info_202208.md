@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220823 | OpenArk - Windows 平台开源 anti-rootkit 工具 | https://github.com/BlackINT3/OpenArk| 
+| 20220823 | 用于实现基于 Bochs 的 Linux 内核调试的工具 | http://github.com/therealdreg/bochs_linux_kernel_debugging| 
+| 20220823 | QCSuper - 与基于高通芯片手机通信的工具，支持抓取 2G/3G/4G无线帧数据 | https://github.com/P1sec/QCSuper| 
+| 20220823 | iPhone Lightning & JTAG hacking，来自 DEF CON 会议 | http://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/stacksmashing%20-%20The%20hitchhackers%20guide%20to%20iPhone%20Lightning%20%20%20JTAG%20hacking.pdf| 
+| 20220823 | Paracosme - Pwn2Own 比赛研究员利用 zero-click RCE 漏洞攻破 ICONICS Genesis64 工控软件的细节 | https://github.com/0vercl0k/paracosme| 
+| 20220823 | Debugger Lies: Stack Corruption | http://www.timdbg.com/posts/debugger-lies-part-1/| 
+| 20220823 | grpcurl - 与 gRPC 服务交互的类 curl 命令行工具 | https://github.com/fullstorydev/grpcurl| 
+| 20220823 | 篡改 NET CLR Usage Log 逃逸 EDR 的检测 | http://bohops.com/2022/08/22/investigating-net-clr-usage-log-tampering-techniques-for-edr-evasion-part-2/| 
+| 20220823 | 在 Flarum 论坛后台挖掘 RCE 漏洞 | http://paper.seebug.org/1946/| 
+| 20220823 | 基于 Mojo IPC 的 Chrome 沙箱绕过研究 | https://sec.today/pulses/d96fc34c-2c57-4ce5-90d0-96b4653e065f/| 
 | 20220822 | 论如何优雅的注入Java Agent内存马 | https://mp.weixin.qq.com/s/xxaOsJdRE5OoRkMLkIj3Lg| 
 | 20220822 | Evil PLC Attack: Hacking PLCs to Attack Engineering Workstations | https://claroty.com/team82/research/evil-plc-attack-using-a-controller-as-predator-rather-than-prey| 
 | 20220822 | 利用 Burp 扩展 GraphQuail 测试 GraphQL API 的安全 | http://blog.forcesunseen.com/graphql-security-testing-without-a-schema| 
@@ -16,21 +26,14 @@
 | 20220822 | 在 iOS 和 Android 平台劫持 Flutter App 的流量 | http://blog.nviso.eu/2022/08/18/intercept-flutter-traffic-on-ios-and-android-http-https-dio-pinning/| 
 | 20220822 | 在 Trezor One 硬件钱包上实现 Fault Injection 硬件级攻击 | http://voidstarsec.com/blog/replicant-part-1| 
 | 20220822 | FreeBSD 11.0-13.0 aio_aqueue 内核引用计数漏洞，可被利用实现本地提权 | https://sec.today/pulses/d11cc530-f0f0-4bf0-a7b1-1d121feb490b/| 
-| 20220822 | FreeBSD 11.0-13.0 aio_aqueue 内核引用计数漏洞，可被利用实现本地提权 | http://accessvector.net/2022/freebsd-aio-lpe| 
-| 20220822 | 基于USMA的内核通用EXP编写思路在 CVE-2022-34918 上的实践 | https://tttang.com/archive/1706/| 
-| 20220819 | 基于 eBPF 和非监督学习 Autoencoders 的进程异常行为检测 | https://www.evilsocket.net/2022/08/15/Process-behaviour-anomaly-detection-using-eBPF-and-unsupervised-learning-Autoencoders/| 
-| 20220819 | 利用 Google Translate 绕过钓鱼检测 | http://certitude.consulting/blog/en/bypass-phishing-detections-with-google-translate-2/| 
-| 20220819 | 思科被黑事件中收集的日志的分析 | http://trunc.org/learning/cisco-hack-tracks-left-in-the-logs| 
-| 20220819 | 基于 SSH SSHFP records 的大规模指纹分析 | https://arxiv.org/abs/2208.08846| 
-| 20220819 | Pwn2Own 2022 Mozilla Firefox renderer CVE-2022-1802 原型链污染漏洞分析 | https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1| 
-| 20220819 | PXEThief - 利用 Windows 的终端部署功能 SCCM 导出密码 | https://github.com/MWR-CyberSec/PXEThief| 
-| 20220819 | EDR 检测机制以及用 EDRSandblast 工具逃逸 EDR 的检测 | https://github.com/wavestone-cdt/EDRSandblast/tree/DefCon30Release| 
-| 20220819 | 文件描述符和文件数据结构相关的安全漏洞研究 | https://i.blackhat.com/USA-22/Wednesday/US-22-Wu-Devils-Are-in-the-File.pdf| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220823 | 美国国防工业网络保护框架和启示 | https://mp.weixin.qq.com/s/DRA3RinOgZnBoEpfi8DMnA| 
+| 20220823 | Celer Network cBridge 跨链桥事故真相：BGP 劫持 | https://mp.weixin.qq.com/s/SInU_o3Ct-7A6pFbKLqzHQ| 
+| 20220823 | 从攻击者视角聊聊K8S集群安全（上） | https://mp.weixin.qq.com/s/dcCPx0ETiT2QlRTS1ToVAw| 
 | 20220822 | SecWiki周刊（第442期) | https://www.sec-wiki.com/weekly/442| 
 | 20220819 | 数字取证与事件响应（DFIR）优质资源推荐 | https://mp.weixin.qq.com/s/ECHOFktRc7x7O7xnXYjUZA| 
 | 20220819 | 以色列国家网络安全防御体系建设及启示 | https://mp.weixin.qq.com/s/PLaeUIfIQhmqPlMzHBNYPg| 
@@ -38,14 +41,13 @@
 | 20220819 | 细谈新版企业风险评估模型 | https://mp.weixin.qq.com/s/sRV17YzvxEcLhk_2kgmKkQ| 
 | 20220819 | Tailmon-EDR: 开源主机安全卫士 | https://gitee.com/tailmon-edr| 
 | 20220818 | 基于海量样本数据的高级威胁发现 | https://mp.weixin.qq.com/s/s3jTwk-D--b6hX-1N_sBXg| 
-| 20220818 | 关键信息基础设施安全保护三大关键能力 | https://mp.weixin.qq.com/s/smY0WuXqmG4sFzjsEIv8tg| 
-| 20220818 | 金融行业能力安全运营能力成熟度模型（FCSO-CMM） | https://mp.weixin.qq.com/s/Hf3haBk1kxCk3uZnJ7FCCQ| 
-| 20220818 | How Hash-Based Safe Browsing Works in Google Chrome | https://security.googleblog.com/2022/08/how-hash-based-safe-browsing-works-in.html?m=1| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220823T11:38:44Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
+| 20220823T06:40:27Z | CVE-2022-22947 | Null | https://github.com/SiJiDo/CVE-2022-22947 | | 
 | 20220822T18:19:05Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
 | 20220822T16:10:11Z | CVE-2022-26809 | THE FINAL POC FOR CVE-2022-26809 TO ACHIEVE RCE  | https://github.com/ToomArni65/CVE-2022-26809-RCE | | 
 | 20220822T11:19:04Z | CVE-2021-3156 | The test report of this exploit. | https://github.com/baka9moe/CVE-2021-3156-TestReport | | 
@@ -54,8 +56,6 @@
 | 20220822T08:27:34Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
 | 20220822T02:38:45Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape | | 
 | 20220822T02:05:20Z | CVE-2022-1388 | F5 BIG-IP iControl REST身份验证绕过漏洞 | https://github.com/Henry4E36/CVE-2022-1388 | | 
-| 20220821T23:52:16Z | CVE-2021-09 | Just testing if some bot will do some action here LOL | https://github.com/zeroc00I/CVE-2021-09-03 | | 
-| 20220821T21:33:27Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 
 
 # klee on Github 推荐
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220823T11:40:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 245 | 59| 
 | 20220823T01:11:38Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 66 | 8| 
 | 20220821T06:33:53Z | Null | https://github.com/yoonej111/S2E | 0 | 0| 
-| 20220820T20:26:13Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 246 | 59| 
 | 20220804T07:32:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 20 | 3| 
 | 20220801T08:00:06Z | Repository del progetto di test automatici per il partner BPB | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB | 0 | 0| 
 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220823T11:48:07Z | An XSS Exploitation Tool | https://github.com/Sharpforce/XSS-Exploitation-Tool | 54 | 13| 
+| 20220823T11:30:06Z | wip | https://github.com/DarmExplosion/knx_exploit_tool | 0 | 0| 
+| 20220823T11:25:47Z | Python random small scripts to support exploiting Anime Game | https://github.com/gawgua/python-things | 0 | 0| 
+| 20220823T11:13:34Z | Null | https://github.com/hac01/exploit | 0 | 0| 
+| 20220823T08:42:03Z | Null | https://github.com/imail1/Wianis-Exploit | 0 | 0| 
+| 20220823T07:55:41Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2606 | 404| 
+| 20220823T07:44:46Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4615 | 1607| 
+| 20220823T04:42:00Z | WordPress CVE Exploit POC | https://github.com/shacojx/WordPress-CVE-Exploit-POC | 0 | 0| 
 | 20220823T01:27:51Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-cc | 0 | 0| 
 | 20220823T01:26:23Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cc | 0 | 0| 
-| 20220823T01:24:26Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-cc | 0 | 0| 
-| 20220823T01:12:37Z | GitOps Repository | https://github.com/northdepot/alpo-studio-alpo-studio-exploit-sound | 0 | 0| 
-| 20220823T01:05:16Z | Null | https://github.com/securitydweller/mordhau-matchreward-exploit | 0 | 0| 
-| 20220822T22:23:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4808 | 663| 
-| 20220822T21:13:21Z | Roblox exploit gui . | https://github.com/MrCrayfisho/Omega-Command-Gui | 1 | 0| 
-| 20220822T20:53:54Z | Null | https://github.com/trhacknon/XSS-Exploitation-Tool | 0 | 0| 
-| 20220822T20:46:00Z | Null | https://github.com/ViniciusNCorrea98/exploit | 0 | 0| 
-| 20220822T20:38:50Z | Take back control of Windows Code Integrity, no exploits or patching required! Requires that you control your own Platform Key (PK). | https://github.com/Wack0/SecureBootPolicyTools | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220823T01:54:19Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 191 | 22| 
+| 20220823T11:23:31Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 204 | 24| 
+| 20220823T09:54:32Z | Anotherrrr backdoor in python | https://github.com/Thehacker-arch/another_backdoor_python | 2 | 0| 
+| 20220823T08:41:10Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 19 | 2| 
+| 20220823T05:56:47Z | ; ( | https://github.com/melamaze/Backdoor-identification | 1 | 0| 
+| 20220823T03:28:20Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 81 | 9| 
 | 20220823T01:50:08Z | Improving Backdoor Attacks via Adversarial Distillation | https://github.com/hubin111/BAAD | 0 | 0| 
-| 20220823T00:52:13Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 17 | 1| 
 | 20220822T21:15:06Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 7 | 0| 
 | 20220822T20:27:53Z | BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 13 | 6| 
 | 20220822T20:04:20Z | BackDoor for server minecraft 1.12.2 | https://github.com/SkullYS0/BackDoor-for-server-minecraft-1.12.2 | 0 | 0| 
 | 20220822T18:41:51Z |  A collection of PHP backdoors scripts. For educational or testing purposes only. Webshell, Shell script | https://github.com/palmsec/php-backdoor | 0 | 0| 
-| 20220822T15:48:47Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 80 | 9| 
-| 20220822T11:42:27Z | Backdoor Client and Server | https://github.com/Radeonares32/python-backdoor | 0 | 0| 
-| 20220822T10:47:36Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 542 | 109| 
 
 
 # symbolic execution on Github 推荐
