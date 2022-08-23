@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220823T01:40:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7754 | 266| 
 | 20220822T16:32:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 54 | 0| 
-| 20220822T15:49:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7751 | 266| 
 | 20220822T14:43:15Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 162 | 50| 
 | 20220820T22:39:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
 | 20220820T17:02:16Z | Null | https://github.com/owam96/BST_KLEE | 0 | 0| 
@@ -76,9 +76,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220823T01:11:38Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 66 | 8| 
 | 20220821T06:33:53Z | Null | https://github.com/yoonej111/S2E | 0 | 0| 
 | 20220820T20:26:13Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 246 | 59| 
-| 20220819T06:50:01Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 65 | 8| 
 | 20220804T07:32:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 20 | 3| 
 | 20220801T08:00:06Z | Repository del progetto di test automatici per il partner BPB | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB | 0 | 0| 
 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220823T01:27:51Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-cc | 0 | 0| 
+| 20220823T01:26:23Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cc | 0 | 0| 
+| 20220823T01:24:26Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-cc | 0 | 0| 
+| 20220823T01:12:37Z | GitOps Repository | https://github.com/northdepot/alpo-studio-alpo-studio-exploit-sound | 0 | 0| 
+| 20220823T01:05:16Z | Null | https://github.com/securitydweller/mordhau-matchreward-exploit | 0 | 0| 
 | 20220822T22:23:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4808 | 663| 
 | 20220822T21:13:21Z | Roblox exploit gui . | https://github.com/MrCrayfisho/Omega-Command-Gui | 1 | 0| 
 | 20220822T20:53:54Z | Null | https://github.com/trhacknon/XSS-Exploitation-Tool | 0 | 0| 
 | 20220822T20:46:00Z | Null | https://github.com/ViniciusNCorrea98/exploit | 0 | 0| 
 | 20220822T20:38:50Z | Take back control of Windows Code Integrity, no exploits or patching required! Requires that you control your own Platform Key (PK). | https://github.com/Wack0/SecureBootPolicyTools | 0 | 0| 
-| 20220822T19:59:37Z | This little python pentesting script helps to find PoC Exploit code for CVEs. It%s great for taking detections from vuln scanners like Nessus and actually finding something to testing the exploitability. It scrapes directly for NVD as well as providing GoogleDorks for possible github code.  | https://github.com/Wooda001/findMeExploits | 1 | 0| 
-| 20220822T19:56:35Z | This repository contains various snippet code in order to exploit system | https://github.com/emanuelepicas/UsefullExploits | 0 | 0| 
-| 20220822T18:49:16Z | The Only Exploit You%ll need for Roblox. | https://github.com/WiiZARDD/WiZHUB | 0 | 0| 
-| 20220822T18:11:27Z | CTF style penetration test engagement attacking a vulnerable WordPress server employing methods of enumeration, exploitation, privelege escalation and establishing persistence. | https://github.com/keeslonkf/Attack_Defense_Analysis_VulnerableNetwork | 0 | 0| 
-| 20220822T12:54:41Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T23:54:14Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 186 | 21| 
+| 20220823T01:54:19Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 191 | 22| 
+| 20220823T01:50:08Z | Improving Backdoor Attacks via Adversarial Distillation | https://github.com/hubin111/BAAD | 0 | 0| 
+| 20220823T00:52:13Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 17 | 1| 
 | 20220822T21:15:06Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 7 | 0| 
 | 20220822T20:27:53Z | BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 13 | 6| 
 | 20220822T20:04:20Z | BackDoor for server minecraft 1.12.2 | https://github.com/SkullYS0/BackDoor-for-server-minecraft-1.12.2 | 0 | 0| 
 | 20220822T18:41:51Z |  A collection of PHP backdoors scripts. For educational or testing purposes only. Webshell, Shell script | https://github.com/palmsec/php-backdoor | 0 | 0| 
 | 20220822T15:48:47Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 80 | 9| 
-| 20220822T14:13:08Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 16 | 1| 
 | 20220822T11:42:27Z | Backdoor Client and Server | https://github.com/Radeonares32/python-backdoor | 0 | 0| 
 | 20220822T10:47:36Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 542 | 109| 
-| 20220822T10:15:44Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 18 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220823T00:57:09Z | Null | https://github.com/ana-amurrio/fuzzy | 0 | 0| 
 | 20220822T23:35:48Z | Data structures for fuzzy string search | https://github.com/talhasaruhan/fuzzy-search | 9 | 2| 
 | 20220822T23:05:28Z | Null | https://github.com/alanhaw/fuzzer-webp | 0 | 0| 
 | 20220822T23:05:08Z | A test repo for BZAN class | https://github.com/harshvardhaniimi/fuzzy-winner | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220822T12:32:51Z | A simplistic utility to dump the contents of a Go generated fuzz test corpus | https://github.com/antichris/go-fuzzdump | 0 | 0| 
 | 20220822T12:15:55Z | Null | https://github.com/Developer-Gitonga/Fuzzy-guide | 0 | 0| 
 | 20220822T12:11:24Z | Null | https://github.com/huangguagua555/Fuzzy-Granular-Residual-Network | 0 | 0| 
-| 20220822T11:43:03Z | Null | https://github.com/w1nkkk/fuzzy-dollop | 0 | 0| 
 
 
 

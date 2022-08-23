@@ -43,7 +43,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220822T16:32:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 54 | 0| 
-| 20220822T15:49:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7751 | 266| 
 | 20220822T14:43:15Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 162 | 50| 
 
 
@@ -70,16 +69,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220822T23:54:14Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 186 | 21| 
 | 20220822T21:15:06Z | Code for identifying natural backdoors in existing image datasets. | https://github.com/uchicago-sandlab/naturalbackdoors | 7 | 0| 
 | 20220822T20:27:53Z | BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 13 | 6| 
 | 20220822T20:04:20Z | BackDoor for server minecraft 1.12.2 | https://github.com/SkullYS0/BackDoor-for-server-minecraft-1.12.2 | 0 | 0| 
 | 20220822T18:41:51Z |  A collection of PHP backdoors scripts. For educational or testing purposes only. Webshell, Shell script | https://github.com/palmsec/php-backdoor | 0 | 0| 
 | 20220822T15:48:47Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 80 | 9| 
-| 20220822T14:13:08Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 16 | 1| 
 | 20220822T11:42:27Z | Backdoor Client and Server | https://github.com/Radeonares32/python-backdoor | 0 | 0| 
 | 20220822T10:47:36Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 542 | 109| 
 | 20220822T10:15:44Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 18 | 2| 
+| 20220822T08:22:17Z | HAVE TO BE UPGRADED LIKE THE PYTHON ONE :) | https://github.com/Thehacker-arch/RUST-BACKDOOR | 0 | 0| 
+| 20220822T07:47:44Z | Null | https://github.com/Apkaless/Ready-Backdoor-To-Use | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
