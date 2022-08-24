@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T00:46:36Z | A place for us to collaborate on our write-ups and store exploits for future use. | https://github.com/its0x11/rop-of-the-morning-to-you | 0 | 0| 
 | 20220824T00:44:37Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-tr | 0 | 0| 
 | 20220824T00:43:20Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tr | 0 | 0| 
 | 20220824T00:42:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-tr | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220823T23:28:14Z | Null | https://github.com/Meeow103/XLL-EXPLOIT-DROPPER | 0 | 0| 
 | 20220823T23:27:48Z | Null | https://github.com/Meeow103/JPG-and-png-Silent-Exploit-Clean | 0 | 0| 
 | 20220823T23:27:26Z | Null | https://github.com/Meeow103/Silent-PDF-Exploit-CLEAN | 0 | 0| 
-| 20220823T23:20:29Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-DOC-DOCX | 0 | 0| 
 
 
 # backdoor on Github 推荐
