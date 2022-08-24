@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220824 | 利用 PHP-FPM 做内存马的方法 | http://tttang.com/archive/1720/| 
 | 20220823 | OpenArk - Windows 平台开源 anti-rootkit 工具 | https://github.com/BlackINT3/OpenArk| 
 | 20220823 | 用于实现基于 Bochs 的 Linux 内核调试的工具 | http://github.com/therealdreg/bochs_linux_kernel_debugging| 
 | 20220823 | QCSuper - 与基于高通芯片手机通信的工具，支持抓取 2G/3G/4G无线帧数据 | https://github.com/P1sec/QCSuper| 
@@ -25,7 +26,6 @@
 | 20220822 | Exploiting WebKit JSPropertyNameEnumerator Out-of-Bounds Read (CVE-2021-1789) | http://starlabs.sg/blog/2022/08-exploiting-webkit-jspropertynameenumerator-out-of-bounds-read-cve-2021-1789/| 
 | 20220822 | 从头构建一个 Hypervisor | https://github.com/SinaKarvandi/Hypervisor-From-Scratch| 
 | 20220822 | 游戏安全方向的资料整理 | https://github.com/gmh5225/awesome-game-security| 
-| 20220822 | 渗透测试实战笔记 | https://github.com/ihebski/A-Red-Teamer-diaries| 
 
 
 # 安全维基 推荐
@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220824T11:54:37Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1032 | 272| 
+| 20220824T12:25:36Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1033 | 272| 
 | 20220824T11:41:02Z | LV-BERT: Exploiting Layer Variety for BERT (Findings of ACL 2021) | https://github.com/yuweihao/LV-BERT | 14 | 0| 
 | 20220824T11:35:44Z | Null | https://github.com/PuzzleFP/Eclipsis-Exploits | 0 | 0| 
 | 20220824T11:31:08Z | RCE Exploit within the RPC Library (CVE-2022-26809) | https://github.com/F1uk369/CVE-2022-26809 | 0 | 0| 
@@ -101,7 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220824T10:47:26Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 273 | 30| 
+| 20220824T12:20:12Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 274 | 30| 
 | 20220824T10:39:34Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 112 | 36| 
 | 20220824T07:39:45Z | Spynix is a keylogger application implemented in Java. Logs keystrokes, screenshots and webcam captures. | https://github.com/prathamesh-a/spynix-logger | 1 | 0| 
 | 20220823T18:57:10Z | Null | https://github.com/Eaglazu/python-backdoor | 0 | 0| 

@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220824 | 利用 PHP-FPM 做内存马的方法 | http://tttang.com/archive/1720/| 
 
 
 # 安全维基 推荐
@@ -48,7 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220824T11:54:37Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1032 | 272| 
+| 20220824T12:25:36Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1033 | 272| 
 | 20220824T11:41:02Z | LV-BERT: Exploiting Layer Variety for BERT (Findings of ACL 2021) | https://github.com/yuweihao/LV-BERT | 14 | 0| 
 | 20220824T11:35:44Z | Null | https://github.com/PuzzleFP/Eclipsis-Exploits | 0 | 0| 
 | 20220824T11:31:08Z | RCE Exploit within the RPC Library (CVE-2022-26809) | https://github.com/F1uk369/CVE-2022-26809 | 0 | 0| 
@@ -63,7 +64,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220824T10:47:26Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 273 | 30| 
+| 20220824T12:20:12Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 274 | 30| 
 | 20220824T10:39:34Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 112 | 36| 
 | 20220824T07:39:45Z | Spynix is a keylogger application implemented in Java. Logs keystrokes, screenshots and webcam captures. | https://github.com/prathamesh-a/spynix-logger | 1 | 0| 
 
