@@ -72,7 +72,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220823T22:59:17Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 246 | 29| 
 | 20220823T18:57:10Z | Null | https://github.com/Eaglazu/python-backdoor | 0 | 0| 
 | 20220823T17:48:51Z |  A collection of PHP backdoors scripts. For educational or testing purposes only. Webshell, Shell script | https://github.com/palmsec/php-backdoor | 0 | 0| 
 | 20220823T14:44:15Z | CIER is a Virus-Scanner, which works in a way, that it scans .java files/java projects for actual sequences, that are only used in backdoors | https://github.com/ferderplays/cier | 1 | 0| 
@@ -82,6 +81,7 @@
 | 20220823T06:10:29Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 111 | 36| 
 | 20220823T05:56:47Z | ; ( | https://github.com/melamaze/Backdoor-identification | 1 | 0| 
 | 20220823T03:28:20Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 81 | 9| 
+| 20220823T01:50:08Z | Improving Backdoor Attacks via Adversarial Distillation | https://github.com/hubin111/BAAD | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
