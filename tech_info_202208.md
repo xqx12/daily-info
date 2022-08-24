@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T01:26:18Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4819 | 664| 
 | 20220824T01:11:59Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1009 | 257| 
 | 20220824T00:46:36Z | A place for us to collaborate on our write-ups and store exploits for future use. | https://github.com/its0x11/rop-of-the-morning-to-you | 0 | 0| 
 | 20220824T00:44:37Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-tr | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220824T00:31:54Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1177 | 107| 
 | 20220823T23:31:22Z | Config files for my GitHub profile. | https://github.com/Cod-dy/exploiter208 | 0 | 0| 
 | 20220823T23:28:14Z | Null | https://github.com/Meeow103/XLL-EXPLOIT-DROPPER | 0 | 0| 
-| 20220823T23:27:48Z | Null | https://github.com/Meeow103/JPG-and-png-Silent-Exploit-Clean | 0 | 0| 
 
 
 # backdoor on Github 推荐

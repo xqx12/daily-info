@@ -64,9 +64,9 @@
 | 20220823T23:20:29Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-DOC-DOCX | 0 | 0| 
 | 20220823T23:19:20Z | Null | https://github.com/0x414141414/Excel-XLL-Exploit-Builder | 0 | 0| 
 | 20220823T23:18:29Z | Null | https://github.com/0x414141414/JPEG-JPG-Silent-Exploit-PRIVATE | 0 | 0| 
-| 20220823T22:16:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4818 | 664| 
 | 20220823T21:43:32Z | Null | https://github.com/sergiLopez/BufferOverflow-Exploit | 0 | 0| 
 | 20220823T19:53:56Z | EBGui is a quick and easy user interface for Elemental Battlegrounds. | https://github.com/EarthToAccess/EBGui | 0 | 0| 
+| 20220823T18:20:05Z | An XSS Exploitation Tool | https://github.com/Sharpforce/XSS-Exploitation-Tool | 57 | 13| 
 
 
 # backdoor on Github 推荐
