@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T02:00:25Z | Null | https://github.com/mindolluinfully/fuzzy-potato | 0 | 0| 
 | 20220824T01:09:14Z | Null | https://github.com/youbanned/fuzzy-umbrella | 0 | 0| 
 | 20220823T22:17:59Z | Config files for my GitHub profile. | https://github.com/FuzzyErmine/FuzzyErmine | 0 | 0| 
 | 20220823T22:06:48Z | Null | https://github.com/SottoMayor/fuzzy-problem | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220823T18:24:41Z | Stratified sampler generator, useful in fuzzing. | https://github.com/pyxis-roc/fuzzing-strata | 0 | 0| 
 | 20220823T18:08:06Z | Null | https://github.com/aidantr/fuzzy-gfe | 0 | 0| 
 | 20220823T14:59:20Z | Fuzzy search strings in strings in dotnet | https://github.com/vforteli/FuzzySearch.Net | 3 | 0| 
-| 20220823T12:16:04Z | Null | https://github.com/pajhe/fuzzy-spork | 0 | 0| 
 
 
 
