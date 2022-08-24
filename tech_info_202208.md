@@ -101,7 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220824T00:58:37Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 247 | 29| 
+| 20220824T01:09:47Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 248 | 29| 
 | 20220823T18:57:10Z | Null | https://github.com/Eaglazu/python-backdoor | 0 | 0| 
 | 20220823T17:48:51Z |  A collection of PHP backdoors scripts. For educational or testing purposes only. Webshell, Shell script | https://github.com/palmsec/php-backdoor | 0 | 0| 
 | 20220823T14:44:15Z | CIER is a Virus-Scanner, which works in a way, that it scans .java files/java projects for actual sequences, that are only used in backdoors | https://github.com/ferderplays/cier | 1 | 0| 
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T01:09:14Z | Null | https://github.com/youbanned/fuzzy-umbrella | 0 | 0| 
 | 20220823T22:17:59Z | Config files for my GitHub profile. | https://github.com/FuzzyErmine/FuzzyErmine | 0 | 0| 
 | 20220823T22:06:48Z | Null | https://github.com/SottoMayor/fuzzy-problem | 0 | 0| 
 | 20220823T21:24:04Z | Null | https://github.com/andrew-j-francis/fuzzi-planner | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220823T18:08:06Z | Null | https://github.com/aidantr/fuzzy-gfe | 0 | 0| 
 | 20220823T14:59:20Z | Fuzzy search strings in strings in dotnet | https://github.com/vforteli/FuzzySearch.Net | 3 | 0| 
 | 20220823T12:16:04Z | Null | https://github.com/pajhe/fuzzy-spork | 0 | 0| 
-| 20220823T11:50:35Z | Null | https://github.com/jessicayve/fuzzy-octo-spoon | 0 | 0| 
 
 
 
