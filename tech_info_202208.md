@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T00:42:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-tr | 0 | 0| 
 | 20220824T00:32:36Z | This repository is a collection of my notes, cheatsheets, tools and techniques for Offensive Security Exploit Development (EXP-301,OSED). | https://github.com/snowcra5h/OSED | 1 | 0| 
 | 20220824T00:31:54Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1177 | 107| 
 | 20220823T23:31:22Z | Config files for my GitHub profile. | https://github.com/Cod-dy/exploiter208 | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220823T23:20:29Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-DOC-DOCX | 0 | 0| 
 | 20220823T23:19:20Z | Null | https://github.com/0x414141414/Excel-XLL-Exploit-Builder | 0 | 0| 
 | 20220823T23:18:29Z | Null | https://github.com/0x414141414/JPEG-JPG-Silent-Exploit-PRIVATE | 0 | 0| 
-| 20220823T22:16:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4818 | 664| 
 
 
 # backdoor on Github 推荐
