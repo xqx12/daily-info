@@ -147,7 +147,7 @@
 | 20220824T07:57:43Z | python code need to be integrated with SUMO tool | https://github.com/monarch-98/FUZZY-DRL-SUMO- | 0 | 0| 
 | 20220824T07:40:51Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 20 | 3| 
 | 20220824T07:37:03Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 268 | 44| 
-| 20220824T07:20:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7708 | 1667| 
+| 20220824T07:20:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7708 | 1666| 
 | 20220824T02:00:25Z | Null | https://github.com/mindolluinfully/fuzzy-potato | 0 | 0| 
 | 20220824T01:09:14Z | Null | https://github.com/youbanned/fuzzy-umbrella | 0 | 0| 
 | 20220823T22:17:59Z | Config files for my GitHub profile. | https://github.com/FuzzyErmine/FuzzyErmine | 0 | 0| 
