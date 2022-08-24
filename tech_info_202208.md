@@ -31,53 +31,53 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220824 | 2021 攻击技术发展趋势报告全文 | http://blog.nsfocus.net/wp-content/uploads/2022/08/NSFOCUS.pdf| 
+| 20220824 | 某农信企业自主创新自动化安全基线检测平台建设实践 | https://mp.weixin.qq.com/s/-3ec660soSUFmngRjEvF8g| 
+| 20220824 | IJTCS-FAW 2022 机器学习与形式化方法分论坛精彩回顾 | https://mp.weixin.qq.com/s/KkpY8zURFj-WM7zD25lYrQ| 
+| 20220824 | 利用 PHP-FPM 做内存马的方法 | https://mp.weixin.qq.com/s/VrtFWM3Iufk0xkK_MRCCKA| 
+| 20220824 | IJTCS-FAW 2022 机器学习与形式化方法分论坛精彩回顾 | /news/30616| 
 | 20220823 | 美国国防工业网络保护框架和启示 | https://mp.weixin.qq.com/s/DRA3RinOgZnBoEpfi8DMnA| 
 | 20220823 | Celer Network cBridge 跨链桥事故真相：BGP 劫持 | https://mp.weixin.qq.com/s/SInU_o3Ct-7A6pFbKLqzHQ| 
 | 20220823 | 从攻击者视角聊聊K8S集群安全（上） | https://mp.weixin.qq.com/s/dcCPx0ETiT2QlRTS1ToVAw| 
 | 20220822 | SecWiki周刊（第442期) | https://www.sec-wiki.com/weekly/442| 
 | 20220819 | 数字取证与事件响应（DFIR）优质资源推荐 | https://mp.weixin.qq.com/s/ECHOFktRc7x7O7xnXYjUZA| 
-| 20220819 | 以色列国家网络安全防御体系建设及启示 | https://mp.weixin.qq.com/s/PLaeUIfIQhmqPlMzHBNYPg| 
-| 20220819 | 论如何优雅的注入Java Agent内存马 | https://mp.weixin.qq.com/s/xxaOsJdRE5OoRkMLkIj3Lg| 
-| 20220819 | 细谈新版企业风险评估模型 | https://mp.weixin.qq.com/s/sRV17YzvxEcLhk_2kgmKkQ| 
-| 20220819 | Tailmon-EDR: 开源主机安全卫士 | https://gitee.com/tailmon-edr| 
-| 20220818 | 基于海量样本数据的高级威胁发现 | https://mp.weixin.qq.com/s/s3jTwk-D--b6hX-1N_sBXg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220824T11:41:57Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
+| 20220824T11:31:08Z | CVE-2022-26809 | RCE Exploit within the RPC Library (CVE-2022-26809) | https://github.com/F1uk369/CVE-2022-26809 | | 
+| 20220824T09:29:54Z | CVE-2022-34265 | Null | https://github.com/ZhaoQi99/CVE-2022-34265 | | 
+| 20220824T07:58:45Z | CVE-2022-23779 | Internal Hostname Disclosure Vulnerability | https://github.com/Vulnmachines/Zoho_CVE-2022-23779 | | 
+| 20220824T06:34:51Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
+| 20220824T02:43:22Z | CVE-2022-37150 | multi vuls of odlms | https://github.com/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152 | | 
+| 20220824T02:17:37Z | CVE-2022-37153 | There is a XSS  vulnerability  in Artica Proxy 4.30.000000 | https://github.com/Fjowel/CVE-2022-37153 | | 
+| 20220824T02:01:17Z | CVE-2021-36749 | Null | https://github.com/hanch7274/CVE-2021-36749 | | 
 | 20220824T00:06:27Z | CVE-2022-0847 | Null | https://github.com/irwx777/CVE-2022-0847 | | 
-| 20220823T23:19:43Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
 | 20220823T12:48:54Z | CVE-2022-0847 | CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸 | https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape | | 
-| 20220823T12:39:47Z | CVE-2022-22947 | Null | https://github.com/SiJiDo/CVE-2022-22947 | | 
-| 20220823T12:37:13Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
-| 20220822T18:19:05Z | CVE-2022-36271 | This is working POC of CVE-2022-36271  | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271 | | 
-| 20220822T16:10:11Z | CVE-2022-26809 | THE FINAL POC FOR CVE-2022-26809 TO ACHIEVE RCE  | https://github.com/ToomArni65/CVE-2022-26809-RCE | | 
-| 20220822T11:19:04Z | CVE-2021-3156 | The test report of this exploit. | https://github.com/baka9moe/CVE-2021-3156-TestReport | | 
-| 20220822T09:41:18Z | CVE-2022-26134 | CVE-2022-26134-Console | https://github.com/shiftsansan/CVE-2022-26134-Console | | 
-| 20220822T09:16:02Z | CVE-2022-36446 | Null | https://github.com/peanut-cc/CVE-2022-36446 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220824T01:36:32Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 55 | 0| 
+| 20220824T11:32:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 57 | 1| 
+| 20220824T08:19:53Z | This is a portfolio website build manly with the use of SCSS and JavaScript | https://github.com/rasan1550/Ansel-Klee | 0 | 0| 
 | 20220823T15:49:25Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 47 | 9| 
 | 20220823T11:49:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7765 | 267| 
 | 20220823T11:40:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
-| 20220823T02:33:23Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 70 | 4| 
+| 20220823T02:33:23Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 70 | 6| 
 | 20220822T14:43:15Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 162 | 50| 
 | 20220820T17:02:16Z | Null | https://github.com/owam96/BST_KLEE | 0 | 0| 
 | 20220820T02:31:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 253 | 42| 
 | 20220819T10:05:13Z | Null | https://github.com/WadiAizouky/Kleegroup_DemandeLog | 0 | 0| 
-| 20220818T20:34:41Z | KleenScan API command-line tool | https://github.com/nbaertsch/KleenScanner | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T10:30:57Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 67 | 8| 
 | 20220823T19:03:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 246 | 59| 
-| 20220823T01:11:38Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 66 | 8| 
 | 20220821T06:33:53Z | Null | https://github.com/yoonej111/S2E | 0 | 0| 
 | 20220804T07:32:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 20 | 3| 
 | 20220801T08:00:06Z | Repository del progetto di test automatici per il partner BPB | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB | 0 | 0| 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220824T01:45:24Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1179 | 107| 
-| 20220824T01:26:18Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4819 | 664| 
-| 20220824T01:11:59Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1009 | 257| 
-| 20220824T00:46:36Z | A place for us to collaborate on our write-ups and store exploits for future use. | https://github.com/its0x11/rop-of-the-morning-to-you | 0 | 0| 
-| 20220824T00:44:37Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-tr | 0 | 0| 
-| 20220824T00:43:20Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tr | 0 | 0| 
-| 20220824T00:42:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-tr | 0 | 0| 
-| 20220824T00:32:36Z | This repository is a collection of my notes, cheatsheets, tools and techniques for Offensive Security Exploit Development (EXP-301,OSED). | https://github.com/snowcra5h/OSED | 1 | 0| 
-| 20220823T23:31:22Z | Config files for my GitHub profile. | https://github.com/Cod-dy/exploiter208 | 0 | 0| 
-| 20220823T23:28:14Z | Null | https://github.com/Meeow103/XLL-EXPLOIT-DROPPER | 0 | 0| 
+| 20220824T11:54:37Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1032 | 272| 
+| 20220824T11:41:02Z | LV-BERT: Exploiting Layer Variety for BERT (Findings of ACL 2021) | https://github.com/yuweihao/LV-BERT | 14 | 0| 
+| 20220824T11:35:44Z | Null | https://github.com/PuzzleFP/Eclipsis-Exploits | 0 | 0| 
+| 20220824T11:31:08Z | RCE Exploit within the RPC Library (CVE-2022-26809) | https://github.com/F1uk369/CVE-2022-26809 | 0 | 0| 
+| 20220824T10:46:23Z | Umbrella is a roblox script that is mostly used for exploits which tries any method of gaining persistence | https://github.com/ProductBranch/umbrella | 0 | 0| 
+| 20220824T10:25:45Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 807 | 76| 
+| 20220824T09:12:33Z | Demonstration of an EdDSA Double PubKey Sign Oracle misuse exploit | https://github.com/jonas-lj/EdDSA-exploit | 0 | 0| 
+| 20220824T07:58:29Z |  Utilized Dijkstra’s Algorithm and exploited map data structure for getting the optimised and efficient solution | https://github.com/hiraiitk/8-Puzzle-Game | 0 | 0| 
+| 20220824T07:43:20Z | WebShell For Ur Defacing And Exploits:) | https://github.com/Noilesha/WebShell | 0 | 0| 
+| 20220824T06:57:26Z | An XSS Exploitation Tool | https://github.com/Sharpforce/XSS-Exploitation-Tool | 58 | 13| 
 
 
 # backdoor on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T08:45:59Z | An algorithm that helps users search for information they need and suggests similar variants. | https://github.com/oilgo/fuzzy_search | 0 | 0| 
+| 20220824T07:57:43Z | python code need to be integrated with SUMO tool | https://github.com/monarch-98/FUZZY-DRL-SUMO- | 0 | 0| 
+| 20220824T07:40:51Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 20 | 3| 
+| 20220824T07:37:03Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 268 | 44| 
+| 20220824T07:20:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7708 | 1667| 
 | 20220824T02:00:25Z | Null | https://github.com/mindolluinfully/fuzzy-potato | 0 | 0| 
 | 20220824T01:09:14Z | Null | https://github.com/youbanned/fuzzy-umbrella | 0 | 0| 
 | 20220823T22:17:59Z | Config files for my GitHub profile. | https://github.com/FuzzyErmine/FuzzyErmine | 0 | 0| 
 | 20220823T22:06:48Z | Null | https://github.com/SottoMayor/fuzzy-problem | 0 | 0| 
 | 20220823T21:24:04Z | Null | https://github.com/andrew-j-francis/fuzzi-planner | 0 | 0| 
-| 20220823T21:02:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7706 | 1666| 
-| 20220823T18:43:33Z | Koby%s Dev LAB Mike | https://github.com/kobyingram11/fuzzy-goggles | 0 | 0| 
-| 20220823T18:24:41Z | Stratified sampler generator, useful in fuzzing. | https://github.com/pyxis-roc/fuzzing-strata | 0 | 0| 
-| 20220823T18:08:06Z | Null | https://github.com/aidantr/fuzzy-gfe | 0 | 0| 
-| 20220823T14:59:20Z | Fuzzy search strings in strings in dotnet | https://github.com/vforteli/FuzzySearch.Net | 3 | 0| 
 
 
 
