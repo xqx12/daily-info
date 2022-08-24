@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220824T11:41:57Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
+| 20220824T12:06:15Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
 | 20220824T11:31:08Z | CVE-2022-26809 | RCE Exploit within the RPC Library (CVE-2022-26809) | https://github.com/F1uk369/CVE-2022-26809 | | 
 | 20220824T09:29:54Z | CVE-2022-34265 | Null | https://github.com/ZhaoQi99/CVE-2022-34265 | | 
 | 20220824T07:58:45Z | CVE-2022-23779 | Internal Hostname Disclosure Vulnerability | https://github.com/Vulnmachines/Zoho_CVE-2022-23779 | | 
