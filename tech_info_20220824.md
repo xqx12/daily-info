@@ -84,9 +84,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T12:55:13Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 23 | 3| 
 | 20220824T12:40:55Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
 | 20220824T12:27:38Z | Null | https://github.com/HappyBorer/Fundamentals_of_fuzzy_logic | 0 | 0| 
-| 20220824T12:27:21Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 22 | 3| 
 | 20220824T08:45:59Z | An algorithm that helps users search for information they need and suggests similar variants. | https://github.com/oilgo/fuzzy_search | 0 | 0| 
 | 20220824T07:57:43Z | python code need to be integrated with SUMO tool | https://github.com/monarch-98/FUZZY-DRL-SUMO- | 0 | 0| 
 | 20220824T07:37:03Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 268 | 44| 
