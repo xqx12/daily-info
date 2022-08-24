@@ -116,10 +116,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T12:35:33Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 709 | 78| 
 | 20220824T09:20:39Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 477 | 26| 
 | 20220823T11:40:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
 | 20220823T07:53:08Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 286 | 21| 
-| 20220823T07:17:20Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 710 | 78| 
 | 20220823T07:13:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3063 | 433| 
 | 20220821T20:50:06Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 42| 
 | 20220820T19:29:41Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 12 | 2| 
