@@ -101,27 +101,27 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220824T01:21:08Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 250 | 29| 
+| 20220824T10:47:26Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 273 | 30| 
+| 20220824T10:39:34Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 112 | 36| 
+| 20220824T07:39:45Z | Spynix is a keylogger application implemented in Java. Logs keystrokes, screenshots and webcam captures. | https://github.com/prathamesh-a/spynix-logger | 1 | 0| 
 | 20220823T18:57:10Z | Null | https://github.com/Eaglazu/python-backdoor | 0 | 0| 
 | 20220823T17:48:51Z |  A collection of PHP backdoors scripts. For educational or testing purposes only. Webshell, Shell script | https://github.com/palmsec/php-backdoor | 0 | 0| 
 | 20220823T14:44:15Z | CIER is a Virus-Scanner, which works in a way, that it scans .java files/java projects for actual sequences, that are only used in backdoors | https://github.com/ferderplays/cier | 1 | 0| 
 | 20220823T14:28:34Z | A practice about reverse shell in python | https://github.com/EduarLS/Backdoor-python | 0 | 0| 
 | 20220823T09:54:32Z | Anotherrrr backdoor in python | https://github.com/Thehacker-arch/another_backdoor_python | 2 | 0| 
 | 20220823T08:41:10Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 19 | 2| 
-| 20220823T06:10:29Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 111 | 36| 
 | 20220823T05:56:47Z | ; ( | https://github.com/melamaze/Backdoor-identification | 1 | 0| 
-| 20220823T03:28:20Z | Tiny SHell Go - An open-source backdoor written in Go | https://github.com/CykuTW/tsh-go | 81 | 9| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T09:20:39Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 477 | 26| 
 | 20220823T11:40:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
 | 20220823T07:53:08Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 286 | 21| 
 | 20220823T07:17:20Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 710 | 78| 
 | 20220823T07:13:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3063 | 433| 
 | 20220821T20:50:06Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 42| 
-| 20220820T23:29:33Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 476 | 26| 
 | 20220820T19:29:41Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 12 | 2| 
 | 20220820T10:53:06Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 130 | 12| 
 | 20220819T07:25:34Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 1 | 1| 

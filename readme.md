@@ -63,12 +63,15 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220824T01:21:08Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 250 | 29| 
+| 20220824T10:47:26Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 273 | 30| 
+| 20220824T10:39:34Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 112 | 36| 
+| 20220824T07:39:45Z | Spynix is a keylogger application implemented in Java. Logs keystrokes, screenshots and webcam captures. | https://github.com/prathamesh-a/spynix-logger | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T09:20:39Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 477 | 26| 
 
 
 # big4 on Github 推荐
