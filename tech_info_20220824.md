@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T12:40:55Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
 | 20220824T12:27:38Z | Null | https://github.com/HappyBorer/Fundamentals_of_fuzzy_logic | 0 | 0| 
 | 20220824T12:27:21Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 22 | 3| 
 | 20220824T08:45:59Z | An algorithm that helps users search for information they need and suggests similar variants. | https://github.com/oilgo/fuzzy_search | 0 | 0| 

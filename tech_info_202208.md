@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T12:40:55Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
 | 20220824T12:27:38Z | Null | https://github.com/HappyBorer/Fundamentals_of_fuzzy_logic | 0 | 0| 
 | 20220824T12:27:21Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 22 | 3| 
 | 20220824T08:45:59Z | An algorithm that helps users search for information they need and suggests similar variants. | https://github.com/oilgo/fuzzy_search | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220824T02:00:25Z | Null | https://github.com/mindolluinfully/fuzzy-potato | 0 | 0| 
 | 20220824T01:09:14Z | Null | https://github.com/youbanned/fuzzy-umbrella | 0 | 0| 
 | 20220823T22:17:59Z | Config files for my GitHub profile. | https://github.com/FuzzyErmine/FuzzyErmine | 0 | 0| 
-| 20220823T22:06:48Z | Null | https://github.com/SottoMayor/fuzzy-problem | 0 | 0| 
 
 
 
