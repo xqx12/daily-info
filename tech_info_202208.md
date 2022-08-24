@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T00:44:37Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-tr | 0 | 0| 
+| 20220824T00:43:20Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tr | 0 | 0| 
 | 20220824T00:42:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-tr | 0 | 0| 
 | 20220824T00:32:36Z | This repository is a collection of my notes, cheatsheets, tools and techniques for Offensive Security Exploit Development (EXP-301,OSED). | https://github.com/snowcra5h/OSED | 1 | 0| 
 | 20220824T00:31:54Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1177 | 107| 
@@ -94,8 +96,6 @@
 | 20220823T23:27:48Z | Null | https://github.com/Meeow103/JPG-and-png-Silent-Exploit-Clean | 0 | 0| 
 | 20220823T23:27:26Z | Null | https://github.com/Meeow103/Silent-PDF-Exploit-CLEAN | 0 | 0| 
 | 20220823T23:20:29Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-DOC-DOCX | 0 | 0| 
-| 20220823T23:19:20Z | Null | https://github.com/0x414141414/Excel-XLL-Exploit-Builder | 0 | 0| 
-| 20220823T23:18:29Z | Null | https://github.com/0x414141414/JPEG-JPG-Silent-Exploit-PRIVATE | 0 | 0| 
 
 
 # backdoor on Github 推荐
