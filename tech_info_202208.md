@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220825 | 如何对登录接口加密字段进行暴破？ | https://www.sec-in.com/article/1899| 
 | 20220824 | 2021 攻击技术发展趋势报告全文 | http://blog.nsfocus.net/wp-content/uploads/2022/08/NSFOCUS.pdf| 
 | 20220824 | 某农信企业自主创新自动化安全基线检测平台建设实践 | https://mp.weixin.qq.com/s/-3ec660soSUFmngRjEvF8g| 
 | 20220824 | IJTCS-FAW 2022 机器学习与形式化方法分论坛精彩回顾 | https://mp.weixin.qq.com/s/KkpY8zURFj-WM7zD25lYrQ| 
@@ -40,37 +41,36 @@
 | 20220823 | Celer Network cBridge 跨链桥事故真相：BGP 劫持 | https://mp.weixin.qq.com/s/SInU_o3Ct-7A6pFbKLqzHQ| 
 | 20220823 | 从攻击者视角聊聊K8S集群安全（上） | https://mp.weixin.qq.com/s/dcCPx0ETiT2QlRTS1ToVAw| 
 | 20220822 | SecWiki周刊（第442期) | https://www.sec-wiki.com/weekly/442| 
-| 20220819 | 数字取证与事件响应（DFIR）优质资源推荐 | https://mp.weixin.qq.com/s/ECHOFktRc7x7O7xnXYjUZA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220825T01:55:05Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
-| 20220825T01:48:51Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
+| 20220825T11:56:22Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
+| 20220825T11:33:45Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
+| 20220825T10:00:31Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
+| 20220825T09:07:45Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
+| 20220825T08:37:18Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
+| 20220825T08:27:49Z | CVE-2022-37153 | There is a XSS  vulnerability  in Artica Proxy 4.30.000000 | https://github.com/Fjowel/CVE-2022-37153 | | 
+| 20220825T08:27:38Z | CVE-2022-23779 | Internal Hostname Disclosure Vulnerability | https://github.com/Vulnmachines/Zoho_CVE-2022-23779 | | 
 | 20220825T01:45:35Z | CVE-2022-37152 | An SQL injection was discovered inOnline Diagnostic Lab Management System | https://github.com/Fjowel/CVE-2022-37152 | | 
-| 20220825T01:40:53Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
 | 20220825T01:27:03Z | CVE-2022-37151 | There is an unauthorized access vulnerability in Online Diagnostic Lab Management System 1.0 | https://github.com/Fjowel/CVE-2022-37151 | | 
 | 20220825T00:58:52Z | CVE-2022-37150 | Online Diagnostic Lab Management System Stored XSS | https://github.com/Fjowel/CVE-2022-37150 | | 
-| 20220824T23:03:30Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
-| 20220824T19:24:28Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/Ls4ss/CVE-2020-29134 | | 
-| 20220824T18:29:33Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
-| 20220824T14:55:11Z | CVE-2021-40444 | Null | https://github.com/nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution- | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T01:41:24Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 73 | 7| 
+| 20220825T09:17:01Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 74 | 7| 
+| 20220825T07:51:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 59 | 1| 
+| 20220825T05:37:57Z | Personal TF2 HUD with parts taken from E.V.E HUD and ToonHUD | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
 | 20220824T17:05:18Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 47 | 10| 
-| 20220824T14:10:44Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 58 | 1| 
 | 20220824T08:19:53Z | This is a portfolio website build manly with the use of SCSS and JavaScript | https://github.com/rasan1550/Ansel-Klee | 0 | 0| 
 | 20220823T11:49:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7765 | 267| 
 | 20220823T11:40:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
 | 20220822T14:43:15Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 162 | 50| 
 | 20220820T17:02:16Z | Null | https://github.com/owam96/BST_KLEE | 0 | 0| 
 | 20220820T02:31:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 253 | 42| 
-| 20220819T10:05:13Z | Null | https://github.com/WadiAizouky/Kleegroup_DemandeLog | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,23 +86,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T01:42:26Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1060 | 281| 
-| 20220825T01:40:53Z | Null | https://github.com/theori-io/CVE-2022-32250-exploit | 1 | 0| 
-| 20220825T01:35:52Z |  vMass Bot  :biohazard:  Vulnerability Scanner & Auto Exploiter. | https://github.com/c99tn/vMassBot | 0 | 0| 
-| 20220825T01:31:41Z | Null | https://github.com/pwneddr/sudo-version-1.8.21p2_exploit | 0 | 0| 
-| 20220825T00:43:03Z | exploit with dvwa,may work on others, like file include | https://github.com/actiononme/scanvuln | 0 | 0| 
-| 20220825T00:33:23Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-bv | 0 | 0| 
-| 20220825T00:32:29Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bv | 0 | 0| 
-| 20220825T00:31:26Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-bv | 0 | 0| 
-| 20220825T00:26:11Z | A simple but very effective bookmark exploit via Javascript & Iframes made by me(Shax) | https://github.com/Shaxowfall/GoGuardian--XPLOIT-- | 1 | 1| 
-| 20220824T22:22:13Z | exploitive tool | https://github.com/dauntIess/newclosure | 0 | 0| 
+| 20220825T11:56:48Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1094 | 285| 
+| 20220825T11:06:36Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 814 | 77| 
+| 20220825T10:28:47Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3856 | 584| 
+| 20220825T10:18:07Z | Au cours de la réalisation d’un logiciel, les développeurs sont toujours confrontés à différents problèmes techniques. Afin d’y remédier, ils effectuent le plus souvent des recherches sur internet en consultant de la documentation, des forums, des tutoriels etc. Ces recherches peuvent couvrir une part considérable du temps consacré au développement du logiciel. Dans ce contexte, il est intéressant pour un développeur de garder des informations sur les problèmes rencontrés et les solutions trouvées. Ainsi, le développeur pourrait lui-même exploiter ultérieurement cette ressource et la partager avec d’autres. Cela permettrait de rendre la recherche de solutions plus rapide et précise. | https://github.com/Kalifasenou/ErrorNotes | 0 | 0| 
+| 20220825T10:14:17Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/Yaamiin/byob | 0 | 0| 
+| 20220825T10:11:02Z | 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新 | https://github.com/helloexp/0day | 890 | 413| 
+| 20220825T09:36:23Z | exploit with dvwa vulnerability environment | https://github.com/actiononme/scanvuln | 0 | 0| 
+| 20220825T09:17:23Z | Deployment templates, scripts, KQL queries, Sentinel Integration, Vulnerability Assessment and Exploitation techniques based on Network resources.  The assets have been taken from the Azure Network Security Ninja master repo | https://github.com/gsriramit/Azure-NetSecNinja-Firewall | 0 | 0| 
+| 20220825T08:45:07Z | Un Exploit foarte bun pentru roblox si cheia pentru acesta se poate lua foarte usor Ps: Mereu cand intri va trebui sa pui cheia | https://github.com/Victris70/SkySploit | 0 | 0| 
+| 20220825T08:32:06Z | The project was about exploiting the machine learning techniques and optimization algorithms in detecting an e-mail as spam or ham. A GUI was created to make predictions on any given email message. | https://github.com/Aruna222/Spam-email-detection-using-machine-learning-algorithms | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T01:12:10Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 543 | 109| 
-| 20220825T00:24:11Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 280 | 30| 
+| 20220825T10:52:42Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 284 | 30| 
+| 20220825T02:28:33Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 544 | 109| 
 | 20220824T22:00:16Z | Create automatically backdoors, for CTF. | https://github.com/Eneru/AutoBackdoorCTF | 0 | 0| 
 | 20220824T21:34:02Z | Remcos RAT V3.8.0 Latest version | https://github.com/Ox47100/Remcos-RAT-v3.8.0 | 1 | 0| 
 | 20220824T10:39:34Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 112 | 36| 
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220825T12:00:58Z | new repo | https://github.com/731ne/fuzzy-octo-meme | 0 | 0| 
+| 20220825T11:53:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 959 | 106| 
+| 20220825T11:52:54Z | Null | https://github.com/robert-alfwar/fuzzy-octo-journey | 0 | 0| 
+| 20220825T10:50:21Z | Null | https://github.com/Qin2007/fuzzy-happiness | 0 | 0| 
+| 20220825T10:22:32Z | Null | https://github.com/LeoneChen/libFuzzer | 0 | 0| 
+| 20220825T10:19:48Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 618 | 76| 
+| 20220825T06:33:23Z | Null | https://github.com/Zombie1989/fuzzy-robot | 0 | 0| 
+| 20220825T03:51:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7715 | 1669| 
 | 20220825T01:29:35Z | CL.0 ee! Client-side desync fuzzing [WIP] | https://github.com/dwisiswant0/cloe | 1 | 0| 
 | 20220825T01:28:53Z | potato | https://github.com/brighter03/Fuzzy | 0 | 0| 
-| 20220825T00:53:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 947 | 106| 
-| 20220825T00:10:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7714 | 1669| 
-| 20220824T21:50:06Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1718 | 192| 
-| 20220824T21:03:04Z | Null | https://github.com/aishakhalid512/Fuzz-Partial-Token | 0 | 0| 
-| 20220824T20:01:13Z | Null | https://github.com/Hack4rLIFE/Fuzz | 0 | 0| 
-| 20220824T12:55:13Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 23 | 3| 
-| 20220824T12:40:55Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
-| 20220824T12:27:38Z | Null | https://github.com/HappyBorer/Fundamentals_of_fuzzy_logic | 0 | 0| 
 
 
 
