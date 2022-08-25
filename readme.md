@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220825T12:37:23Z | Roblox Scripts/Exploits.  | https://github.com/ContentActivity/Roblox | 0 | 0| 
 | 20220825T12:28:41Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1097 | 285| 
 | 20220825T12:16:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3857 | 584| 
 | 20220825T11:06:36Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 814 | 77| 
@@ -54,7 +55,6 @@
 | 20220825T09:36:23Z | exploit with dvwa vulnerability environment | https://github.com/actiononme/scanvuln | 0 | 0| 
 | 20220825T09:17:23Z | Deployment templates, scripts, KQL queries, Sentinel Integration, Vulnerability Assessment and Exploitation techniques based on Network resources.  The assets have been taken from the Azure Network Security Ninja master repo | https://github.com/gsriramit/Azure-NetSecNinja-Firewall | 0 | 0| 
 | 20220825T08:45:07Z | Un Exploit foarte bun pentru roblox si cheia pentru acesta se poate lua foarte usor Ps: Mereu cand intri va trebui sa pui cheia | https://github.com/Victris70/SkySploit | 0 | 0| 
-| 20220825T08:32:06Z | The project was about exploiting the machine learning techniques and optimization algorithms in detecting an e-mail as spam or ham. A GUI was created to make predictions on any given email message. | https://github.com/Aruna222/Spam-email-detection-using-machine-learning-algorithms | 0 | 0| 
 
 
 # backdoor on Github 推荐
