@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T12:40:44Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1098 | 285| 
+| 20220825T12:46:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1099 | 285| 
 | 20220825T12:39:36Z | Roblox Scripts/Exploits.  | https://github.com/ContentActivity/Roblox | 1 | 0| 
 | 20220825T12:16:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3857 | 584| 
 | 20220825T11:06:36Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 814 | 77| 
@@ -60,6 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220825T12:46:46Z | Backdoor Entry in python 3 (Ethical Hacking) | https://github.com/Faizanalam416/Backdoor | 0 | 0| 
 | 20220825T12:07:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 546 | 109| 
 | 20220825T10:52:42Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 284 | 30| 
 
