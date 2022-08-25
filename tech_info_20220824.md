@@ -23,15 +23,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220824T23:03:30Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
-| 20220824T21:24:10Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220824T19:24:28Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/Ls4ss/CVE-2020-29134 | | 
-| 20220824T19:17:11Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
 | 20220824T18:29:33Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
 | 20220824T14:55:11Z | CVE-2021-40444 | Null | https://github.com/nvchungkma/CVE-2021-40444-Microsoft-Office-Word-Remote-Code-Execution- | | 
 | 20220824T11:31:08Z | CVE-2022-26809 | RCE Exploit within the RPC Library (CVE-2022-26809) | https://github.com/F1uk369/CVE-2022-26809 | | 
 | 20220824T09:29:54Z | CVE-2022-34265 | Null | https://github.com/ZhaoQi99/CVE-2022-34265 | | 
 | 20220824T07:58:45Z | CVE-2022-23779 | Internal Hostname Disclosure Vulnerability | https://github.com/Vulnmachines/Zoho_CVE-2022-23779 | | 
 | 20220824T02:43:22Z | CVE-2022-37150 | multi vuls of odlms | https://github.com/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152 | | 
+| 20220824T02:17:37Z | CVE-2022-37153 | There is a XSS  vulnerability  in Artica Proxy 4.30.000000 | https://github.com/Fjowel/CVE-2022-37153 | | 
+| 20220824T02:01:17Z | CVE-2021-36749 | Null | https://github.com/hanch7274/CVE-2021-36749 | | 
 
 
 # klee on Github 推荐
