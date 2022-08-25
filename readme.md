@@ -60,7 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T12:05:29Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 545 | 109| 
+| 20220825T12:07:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 546 | 109| 
 | 20220825T10:52:42Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 284 | 30| 
 
 

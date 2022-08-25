@@ -101,7 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T12:05:29Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 545 | 109| 
+| 20220825T12:07:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 546 | 109| 
 | 20220825T10:52:42Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 284 | 30| 
 | 20220824T22:00:16Z | Create automatically backdoors, for CTF. | https://github.com/Eneru/AutoBackdoorCTF | 0 | 0| 
 | 20220824T21:34:02Z | Remcos RAT V3.8.0 Latest version | https://github.com/Ox47100/Remcos-RAT-v3.8.0 | 1 | 0| 
