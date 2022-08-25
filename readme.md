@@ -77,6 +77,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220824T13:53:18Z | 3D visualization Blender addon for symbolic execution traces   | https://github.com/agra-uni-bremen/symex-3d | 0 | 0| 
+| 20220824T13:11:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3062 | 433| 
 | 20220824T12:35:33Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 709 | 78| 
 | 20220824T09:20:39Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 477 | 26| 
 
