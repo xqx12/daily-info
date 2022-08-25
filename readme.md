@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220825T12:54:20Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
 | 20220825T12:03:10Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
-| 20220825T11:33:45Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
 | 20220825T10:00:31Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220825T09:07:45Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
 | 20220825T08:37:18Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T12:46:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1099 | 285| 
+| 20220825T12:55:01Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1100 | 285| 
 | 20220825T12:39:36Z | Roblox Scripts/Exploits.  | https://github.com/ContentActivity/Roblox | 1 | 0| 
 | 20220825T12:16:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3857 | 584| 
 | 20220825T11:06:36Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 814 | 77| 
