@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220825T11:56:22Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
+| 20220825T12:03:10Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
 | 20220825T11:33:45Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
 | 20220825T10:00:31Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220825T09:07:45Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
@@ -150,9 +150,9 @@
 | 20220825T10:22:32Z | Null | https://github.com/LeoneChen/libFuzzer | 0 | 0| 
 | 20220825T10:19:48Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 618 | 76| 
 | 20220825T06:33:23Z | Null | https://github.com/Zombie1989/fuzzy-robot | 0 | 0| 
+| 20220825T05:00:55Z | fuzz report repo | https://github.com/CythZ/fuzz_repo | 0 | 0| 
 | 20220825T03:51:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7715 | 1669| 
 | 20220825T01:29:35Z | CL.0 ee! Client-side desync fuzzing [WIP] | https://github.com/dwisiswant0/cloe | 1 | 0| 
-| 20220825T01:28:53Z | potato | https://github.com/brighter03/Fuzzy | 0 | 0| 
 
 
 
