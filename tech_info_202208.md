@@ -101,8 +101,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220825T12:05:29Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 545 | 109| 
 | 20220825T10:52:42Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 284 | 30| 
-| 20220825T02:28:33Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 544 | 109| 
 | 20220824T22:00:16Z | Create automatically backdoors, for CTF. | https://github.com/Eneru/AutoBackdoorCTF | 0 | 0| 
 | 20220824T21:34:02Z | Remcos RAT V3.8.0 Latest version | https://github.com/Ox47100/Remcos-RAT-v3.8.0 | 1 | 0| 
 | 20220824T10:39:34Z | A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor. | https://github.com/dmdhrumilmistry/pyhtools | 112 | 36| 
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220825T12:06:04Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 7581 | 862| 
 | 20220825T12:00:58Z | new repo | https://github.com/731ne/fuzzy-octo-meme | 0 | 0| 
 | 20220825T11:53:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 959 | 106| 
 | 20220825T11:52:54Z | Null | https://github.com/robert-alfwar/fuzzy-octo-journey | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220825T06:33:23Z | Null | https://github.com/Zombie1989/fuzzy-robot | 0 | 0| 
 | 20220825T05:00:55Z | fuzz report repo | https://github.com/CythZ/fuzz_repo | 0 | 0| 
 | 20220825T03:51:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7715 | 1669| 
-| 20220825T01:29:35Z | CL.0 ee! Client-side desync fuzzing [WIP] | https://github.com/dwisiswant0/cloe | 1 | 0| 
 
 
 
