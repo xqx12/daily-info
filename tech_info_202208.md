@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T12:37:23Z | Roblox Scripts/Exploits.  | https://github.com/ContentActivity/Roblox | 0 | 0| 
-| 20220825T12:28:41Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1097 | 285| 
+| 20220825T12:40:44Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1098 | 285| 
+| 20220825T12:39:36Z | Roblox Scripts/Exploits.  | https://github.com/ContentActivity/Roblox | 1 | 0| 
 | 20220825T12:16:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3857 | 584| 
 | 20220825T11:06:36Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 814 | 77| 
 | 20220825T10:18:07Z | Au cours de la réalisation d’un logiciel, les développeurs sont toujours confrontés à différents problèmes techniques. Afin d’y remédier, ils effectuent le plus souvent des recherches sur internet en consultant de la documentation, des forums, des tutoriels etc. Ces recherches peuvent couvrir une part considérable du temps consacré au développement du logiciel. Dans ce contexte, il est intéressant pour un développeur de garder des informations sur les problèmes rencontrés et les solutions trouvées. Ainsi, le développeur pourrait lui-même exploiter ultérieurement cette ressource et la partager avec d’autres. Cela permettrait de rendre la recherche de solutions plus rapide et précise. | https://github.com/Kalifasenou/ErrorNotes | 0 | 0| 
