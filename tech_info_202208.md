@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220825T12:26:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 60 | 1| 
 | 20220825T09:17:01Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 74 | 7| 
-| 20220825T07:51:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 59 | 1| 
 | 20220825T05:37:57Z | Personal TF2 HUD with parts taken from E.V.E HUD and ToonHUD | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
 | 20220824T17:05:18Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 47 | 10| 
 | 20220824T08:19:53Z | This is a portfolio website build manly with the use of SCSS and JavaScript | https://github.com/rasan1550/Ansel-Klee | 0 | 0| 
@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T12:25:13Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1095 | 285| 
+| 20220825T12:27:18Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1096 | 285| 
 | 20220825T12:16:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3857 | 584| 
 | 20220825T11:06:36Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 814 | 77| 
 | 20220825T10:18:07Z | Au cours de la réalisation d’un logiciel, les développeurs sont toujours confrontés à différents problèmes techniques. Afin d’y remédier, ils effectuent le plus souvent des recherches sur internet en consultant de la documentation, des forums, des tutoriels etc. Ces recherches peuvent couvrir une part considérable du temps consacré au développement du logiciel. Dans ce contexte, il est intéressant pour un développeur de garder des informations sur les problèmes rencontrés et les solutions trouvées. Ainsi, le développeur pourrait lui-même exploiter ultérieurement cette ressource et la partager avec d’autres. Cela permettrait de rendre la recherche de solutions plus rapide et précise. | https://github.com/Kalifasenou/ErrorNotes | 0 | 0| 
