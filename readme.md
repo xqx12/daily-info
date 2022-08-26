@@ -69,8 +69,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220826T12:02:15Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 122 | 24| 
 | 20220826T10:28:09Z | A simple C code shellcode | https://github.com/Pig-Tail/minimal-backdoor | 0 | 0| 
-| 20220826T08:15:42Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 121 | 24| 
 | 20220826T08:00:32Z | Null | https://github.com/nethunt10/ssh-backdoor | 0 | 0| 
 | 20220826T00:53:12Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 287 | 30| 
 
@@ -89,6 +89,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220826T11:54:53Z | Null | https://github.com/SANJANAHARIKUMAR/Fuzzy-Logic-Optimized-Controller-Sanj-and-Sreeharsh- | 0 | 0| 
+| 20220826T10:56:37Z | Null | https://github.com/MahammadAli98/Fuzzies-main | 0 | 0| 
+| 20220826T10:54:59Z | Coordinated hybrid fuzzing framework with advanced coordination mode | https://github.com/leviljiang/Cohuzz | 0 | 0| 
+| 20220826T10:49:02Z | My place holder for anything useful to me and possibly to others | https://github.com/alunsin/fuzzy-waffle | 0 | 0| 
+| 20220826T09:48:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7718 | 1670| 
+| 20220826T06:26:06Z | 1024 Birds to your fuzzer | https://github.com/Aif4thah/CShidori | 4 | 0| 
 | 20220826T00:00:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2591 | 174| 
 
 

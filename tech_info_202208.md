@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220826 | Linux 内核远程利用方法和技巧，来自 HITB 会议 | https://conference.hitb.org/hitbsecconf2022sin/materials/D1T1%20-%20Erybody%20Gettin%20TIPC%20-%20Demystifying%20Remote%20Linux%20Kernel%20Exploitation%20-%20Sam%20Page.pdf| 
+| 20220826 | Ghidrathon - 为 Ghidra 提供 Python3 扩展支持 | https://www.mandiant.com/resources/blog/ghidrathon-snaking-ghidra-python-3-scripting| 
+| 20220826 | Magnifier - 交互式反编译工具 | http://blog.trailofbits.com/2022/08/25/magnifier-an-experiment-with-interactive-decompilation/| 
+| 20220826 | 为 Windows 开发的开源版本 EDR | https://github.com/0xrawsec/whids| 
+| 20220826 | FreeBSD-telnetd, NetBSD-telnetd 等相关组件被发现多个漏洞 | https://pierrekim.github.io/blog/2022-08-24-2-byte-dos-freebsd-netbsd-telnetd-netkit-telnetd-inetutils-telnetd-kerberos-telnetd.html| 
+| 20220826 | Paranoid - 在项目中检测加密、签名组件是否存在已知漏洞的工具库 | https://security.googleblog.com/2022/08/announcing-open-sourcing-of-paranoids.html| 
+| 20220826 | Pwn2Own 比赛利用第二个 Prototype Pollution 实现 Render 进程的逃逸 | https://www.zerodayinitiative.com/blog/2022/8/23/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-2| 
+| 20220826 | Bypassing AppLocker by abusing HashInfo | https://shells.systems/post-bypassing-applocker-by-abusing-hashinfo/| 
+| 20220826 | 基于 Windows System Calls Trace 的威胁检测 | http://marcoramilli.com/2022/08/23/windows-system-calls-for-hunters/| 
+| 20220826 | Windows Dirty Pipe CVE-2022-22715 命名管道驱动沙箱逃逸漏洞分析 | https://sec.today/pulses/a8844882-bd26-476f-be5e-c88b04d907c4/| 
+| 20220826 | Windows Dirty Pipe CVE-2022-22715 命名管道驱动沙箱逃逸漏洞分析 | http://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe| 
 | 20220825 | psexec原理分析和实现 | https://tttang.com/archive/1710/| 
 | 20220824 | 利用 PHP-FPM 做内存马的方法 | http://tttang.com/archive/1720/| 
 | 20220823 | OpenArk - Windows 平台开源 anti-rootkit 工具 | https://github.com/BlackINT3/OpenArk| 
@@ -15,17 +26,6 @@
 | 20220823 | Paracosme - Pwn2Own 比赛研究员利用 zero-click RCE 漏洞攻破 ICONICS Genesis64 工控软件的细节 | https://github.com/0vercl0k/paracosme| 
 | 20220823 | Debugger Lies: Stack Corruption | http://www.timdbg.com/posts/debugger-lies-part-1/| 
 | 20220823 | grpcurl - 与 gRPC 服务交互的类 curl 命令行工具 | https://github.com/fullstorydev/grpcurl| 
-| 20220823 | 篡改 NET CLR Usage Log 逃逸 EDR 的检测 | http://bohops.com/2022/08/22/investigating-net-clr-usage-log-tampering-techniques-for-edr-evasion-part-2/| 
-| 20220823 | 在 Flarum 论坛后台挖掘 RCE 漏洞 | http://paper.seebug.org/1946/| 
-| 20220823 | 基于 Mojo IPC 的 Chrome 沙箱绕过研究 | https://sec.today/pulses/d96fc34c-2c57-4ce5-90d0-96b4653e065f/| 
-| 20220823 | 基于 Mojo IPC 的 Chrome 沙箱绕过研究 | https://mp.weixin.qq.com/s/gqH0lqz1ey6IzT--UD9Jsg| 
-| 20220823 | Celer Network cBridge 跨链桥事故真相：BGP 劫持 | http://paper.seebug.org/1948/| 
-| 20220823 | linux内核模块编程教程 | https://0x00sec.org/t/the-linux-kernel-modules-programming/30639| 
-| 20220822 | 论如何优雅的注入Java Agent内存马 | https://mp.weixin.qq.com/s/xxaOsJdRE5OoRkMLkIj3Lg| 
-| 20220822 | Evil PLC Attack: Hacking PLCs to Attack Engineering Workstations | https://claroty.com/team82/research/evil-plc-attack-using-a-controller-as-predator-rather-than-prey| 
-| 20220822 | 利用 Burp 扩展 GraphQuail 测试 GraphQL API 的安全 | http://blog.forcesunseen.com/graphql-security-testing-without-a-schema| 
-| 20220822 | Exploiting WebKit JSPropertyNameEnumerator Out-of-Bounds Read (CVE-2021-1789) | http://starlabs.sg/blog/2022/08-exploiting-webkit-jspropertynameenumerator-out-of-bounds-read-cve-2021-1789/| 
-| 20220822 | 从头构建一个 Hypervisor | https://github.com/SinaKarvandi/Hypervisor-From-Scratch| 
 
 
 # 安全维基 推荐
@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220826T01:57:05Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
-| 20220826T01:43:14Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
-| 20220826T01:05:10Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
-| 20220825T20:44:14Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/LarityRay/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20220825T20:19:26Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers | https://github.com/MuChaTOO/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20220825T20:19:15Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/MuChaTOO/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20220825T18:36:42Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
-| 20220825T16:17:02Z | CVE-2022-23779 | Internal Hostname Disclosure Vulnerability | https://github.com/Vulnmachines/Zoho_CVE-2022-23779 | | 
-| 20220825T14:51:47Z | CVE-2022-21371 | Oracle WebLogic CVE-2022-21371 | https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371 | | 
-| 20220825T14:51:37Z | CVE-2022-34265 | PoC for CVE-2022-34265 | https://github.com/ZhaoQi99/CVE-2022-34265 | | 
+| 20220826T11:00:24Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
+| 20220826T10:42:42Z | CVE-2022-20142 | Null | https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142 | | 
+| 20220826T10:04:05Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
+| 20220826T09:38:13Z | CVE-2022-20007 | Null | https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007 | | 
+| 20220826T09:10:28Z | CVE-2020-1472 | ZeroLogon exploitation script,One-click recovery of domain controller machine Hash | https://github.com/lele8/CVE-2020-1472 | | 
+| 20220826T07:53:46Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
+| 20220826T07:38:29Z | CVE-2022-26134 | CVE-2022-26134 web payload | https://github.com/1337in/CVE-2022-26134web | | 
+| 20220826T06:23:58Z | CVE-2020-0416 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416 | | 
+| 20220826T05:55:41Z | CVE-2022-34265 | PoC for CVE-2022-34265 | https://github.com/ZhaoQi99/CVE-2022-34265 | | 
+| 20220826T05:26:13Z | CVE-2022-21371 | Oracle WebLogic CVE-2022-21371 | https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220826T08:20:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 61 | 1| 
+| 20220826T07:51:42Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 48 | 10| 
 | 20220825T13:05:07Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 75 | 7| 
-| 20220825T12:26:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 60 | 1| 
 | 20220825T05:37:57Z | Personal TF2 HUD with parts taken from E.V.E HUD and ToonHUD | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
-| 20220824T17:05:18Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 47 | 10| 
 | 20220824T08:19:53Z | This is a portfolio website build manly with the use of SCSS and JavaScript | https://github.com/rasan1550/Ansel-Klee | 0 | 0| 
 | 20220823T11:49:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7765 | 267| 
 | 20220823T11:40:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
@@ -86,22 +86,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220826T01:58:58Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1150 | 287| 
-| 20220826T01:58:56Z | Explorando Remote Desktop do Windows Server 2003 com o exploit Esteemaudit (sem Metasploit) e obtendo RCE (Remote Code Execution) | https://github.com/caique-garbim/Esteemaudit-without-Metasploit | 0 | 0| 
-| 20220826T01:11:14Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-hg | 0 | 0| 
-| 20220826T01:10:17Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg | 0 | 0| 
-| 20220826T01:09:27Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-hg | 0 | 0| 
-| 20220826T00:53:34Z | Como eu posso criar um exploit para injetar códigos no roblox, o que devo aprender ? | https://github.com/IlusionistaZ/How-to-create-exploit-roblox. | 0 | 0| 
-| 20220826T00:48:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 47 | 24| 
-| 20220825T22:32:08Z | Exe to PDF exploit Builder with 0 detections. Runtime and Scantime | https://github.com/luci61/Exe-to-pdf | 14 | 0| 
-| 20220825T20:19:15Z | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/MuChaTOO/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
-| 20220825T20:04:01Z | Null | https://github.com/pwneddr/exim-4.84.3-exploit | 0 | 0| 
+| 20220826T11:37:41Z | Exe to PDF exploit Builder with 0 detections. Runtime and Scantime | https://github.com/luci61/Exe-to-pdf | 18 | 1| 
+| 20220826T11:34:35Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1195 | 294| 
+| 20220826T11:30:18Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 1 | 0| 
+| 20220826T11:15:14Z | Lives and exploits of the most noted highwaymen, robbers and murderers of all nations Drawn from the most authentic sources and brought down to the present time by Charles Whitehead is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Lives-and-exploits-of-the-most-noted-highwaymen-robbers-and-murderers-of-all-nations-Drawn-fr__68752 | 0 | 0| 
+| 20220826T10:45:27Z | offensive shellcode book for hackers and programmers | https://github.com/security-essentials/offensive_shellcode | 1 | 0| 
+| 20220826T10:20:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 88 | 11| 
+| 20220826T10:10:51Z | Null | https://github.com/ahmadsgamer2/SpeedExploit-X | 0 | 0| 
+| 20220826T09:10:28Z | ZeroLogon exploitation script,One-click recovery of domain controller machine Hash | https://github.com/lele8/CVE-2020-1472 | 0 | 0| 
+| 20220826T08:45:56Z | A roblox anticheat, keeping exploiters at bay since 2022. | https://github.com/lua-ware/luawareanticheat | 0 | 0| 
+| 20220826T07:18:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 482 | 138| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220826T01:55:28Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 117 | 22| 
+| 20220826T12:02:15Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 122 | 24| 
+| 20220826T10:28:09Z | A simple C code shellcode | https://github.com/Pig-Tail/minimal-backdoor | 0 | 0| 
+| 20220826T08:00:32Z | Null | https://github.com/nethunt10/ssh-backdoor | 0 | 0| 
 | 20220826T00:53:12Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 287 | 30| 
 | 20220825T22:25:05Z | Undectable backdoor for windows with a listenner server | https://github.com/DHK-Tn/UndPay | 0 | 0| 
 | 20220825T19:52:02Z | Backdoor script using python. | https://github.com/cmglmsr/Backdoor | 0 | 0| 
@@ -109,8 +111,6 @@
 | 20220825T16:43:07Z | Null | https://github.com/xzfem98/BackDoor | 0 | 0| 
 | 20220825T12:46:46Z | Backdoor Entry in python 3 (Ethical Hacking) | https://github.com/Faizanalam416/Backdoor | 0 | 0| 
 | 20220825T12:07:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 546 | 109| 
-| 20220824T22:00:16Z | Create automatically backdoors, for CTF. | https://github.com/Eneru/AutoBackdoorCTF | 0 | 0| 
-| 20220824T21:34:02Z | Remcos RAT V3.8.0 Latest version | https://github.com/Ox47100/Remcos-RAT-v3.8.0 | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220826T11:54:53Z | Null | https://github.com/SANJANAHARIKUMAR/Fuzzy-Logic-Optimized-Controller-Sanj-and-Sreeharsh- | 0 | 0| 
+| 20220826T10:56:37Z | Null | https://github.com/MahammadAli98/Fuzzies-main | 0 | 0| 
+| 20220826T10:54:59Z | Coordinated hybrid fuzzing framework with advanced coordination mode | https://github.com/leviljiang/Cohuzz | 0 | 0| 
+| 20220826T10:49:02Z | My place holder for anything useful to me and possibly to others | https://github.com/alunsin/fuzzy-waffle | 0 | 0| 
+| 20220826T09:48:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7718 | 1670| 
+| 20220826T06:26:06Z | 1024 Birds to your fuzzer | https://github.com/Aif4thah/CShidori | 4 | 0| 
 | 20220826T00:00:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2591 | 174| 
 | 20220825T23:30:55Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 269 | 44| 
 | 20220825T23:29:20Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 2 | 0| 
 | 20220825T20:36:10Z | Null | https://github.com/meng-ma-biomed-AI/PolyFuzz_string_search | 0 | 0| 
-| 20220825T19:16:42Z | AdaCore%s GNAT Fuzz Mach Calculator Demo | https://github.com/TechieLew/AdaCore-GNATFuzz-Demo | 0 | 0| 
-| 20220825T12:06:04Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 7581 | 862| 
-| 20220825T12:00:58Z | new repo | https://github.com/731ne/fuzzy-octo-meme | 0 | 0| 
-| 20220825T11:53:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 959 | 106| 
-| 20220825T11:52:54Z | Null | https://github.com/robert-alfwar/fuzzy-octo-journey | 0 | 0| 
-| 20220825T10:50:21Z | Null | https://github.com/Qin2007/fuzzy-happiness | 0 | 0| 
 
 
 
