@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220826T12:05:36Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1195 | 294| 
+| 20220826T12:07:34Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1197 | 294| 
 | 20220826T11:37:41Z | Exe to PDF exploit Builder with 0 detections. Runtime and Scantime | https://github.com/luci61/Exe-to-pdf | 18 | 1| 
 | 20220826T11:30:18Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 1 | 0| 
 | 20220826T11:15:14Z | Lives and exploits of the most noted highwaymen, robbers and murderers of all nations Drawn from the most authentic sources and brought down to the present time by Charles Whitehead is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Lives-and-exploits-of-the-most-noted-highwaymen-robbers-and-murderers-of-all-nations-Drawn-fr__68752 | 0 | 0| 
