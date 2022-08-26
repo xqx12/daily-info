@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220826T11:34:44Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
 | 20220826T11:00:24Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
 | 20220826T10:42:42Z | CVE-2022-20142 | Null | https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142 | | 
 | 20220826T10:04:05Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
@@ -55,7 +56,6 @@
 | 20220826T07:38:29Z | CVE-2022-26134 | CVE-2022-26134 web payload | https://github.com/1337in/CVE-2022-26134web | | 
 | 20220826T06:23:58Z | CVE-2020-0416 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416 | | 
 | 20220826T05:55:41Z | CVE-2022-34265 | PoC for CVE-2022-34265 | https://github.com/ZhaoQi99/CVE-2022-34265 | | 
-| 20220826T05:26:13Z | CVE-2022-21371 | Oracle WebLogic CVE-2022-21371 | https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371 | | 
 
 
 # klee on Github 推荐
@@ -86,8 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220826T12:07:34Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1197 | 294| 
-| 20220826T11:37:41Z | Exe to PDF exploit Builder with 0 detections. Runtime and Scantime | https://github.com/luci61/Exe-to-pdf | 18 | 1| 
+| 20220826T12:13:11Z | Exe to PDF exploit Builder with 0 detections. Runtime and Scantime | https://github.com/luci61/Exe-to-pdf | 19 | 1| 
+| 20220826T12:11:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1198 | 294| 
+| 20220826T11:34:44Z | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | 12 | 5| 
 | 20220826T11:30:18Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 1 | 0| 
 | 20220826T11:15:14Z | Lives and exploits of the most noted highwaymen, robbers and murderers of all nations Drawn from the most authentic sources and brought down to the present time by Charles Whitehead is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Lives-and-exploits-of-the-most-noted-highwaymen-robbers-and-murderers-of-all-nations-Drawn-fr__68752 | 0 | 0| 
 | 20220826T10:45:27Z | offensive shellcode book for hackers and programmers | https://github.com/security-essentials/offensive_shellcode | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20220826T10:10:51Z | Null | https://github.com/ahmadsgamer2/SpeedExploit-X | 0 | 0| 
 | 20220826T09:10:28Z | ZeroLogon exploitation script,One-click recovery of domain controller machine Hash | https://github.com/lele8/CVE-2020-1472 | 0 | 0| 
 | 20220826T08:45:56Z | A roblox anticheat, keeping exploiters at bay since 2022. | https://github.com/lua-ware/luawareanticheat | 0 | 0| 
-| 20220826T07:18:12Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 482 | 138| 
 
 
 # backdoor on Github 推荐
