@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220826T00:42:15Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
+| 20220826T01:57:05Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
+| 20220826T01:43:14Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
+| 20220826T01:05:10Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
 | 20220825T20:44:14Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/LarityRay/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220825T20:19:26Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers | https://github.com/MuChaTOO/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220825T20:19:15Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/MuChaTOO/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20220825T18:38:50Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
 | 20220825T18:36:42Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
 | 20220825T16:17:02Z | CVE-2022-23779 | Internal Hostname Disclosure Vulnerability | https://github.com/Vulnmachines/Zoho_CVE-2022-23779 | | 
 | 20220825T14:51:47Z | CVE-2022-21371 | Oracle WebLogic CVE-2022-21371 | https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371 | | 
 | 20220825T14:51:37Z | CVE-2022-34265 | PoC for CVE-2022-34265 | https://github.com/ZhaoQi99/CVE-2022-34265 | | 
-| 20220825T10:00:31Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 
 
 # klee on Github 推荐
@@ -86,26 +86,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220826T01:58:58Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1150 | 287| 
+| 20220826T01:58:56Z | Explorando Remote Desktop do Windows Server 2003 com o exploit Esteemaudit (sem Metasploit) e obtendo RCE (Remote Code Execution) | https://github.com/caique-garbim/Esteemaudit-without-Metasploit | 0 | 0| 
+| 20220826T01:11:14Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-hg | 0 | 0| 
+| 20220826T01:10:17Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg | 0 | 0| 
+| 20220826T01:09:27Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-hg | 0 | 0| 
 | 20220826T00:53:34Z | Como eu posso criar um exploit para injetar códigos no roblox, o que devo aprender ? | https://github.com/IlusionistaZ/How-to-create-exploit-roblox. | 0 | 0| 
 | 20220826T00:48:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 47 | 24| 
-| 20220826T00:43:49Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1138 | 287| 
 | 20220825T22:32:08Z | Exe to PDF exploit Builder with 0 detections. Runtime and Scantime | https://github.com/luci61/Exe-to-pdf | 14 | 0| 
 | 20220825T20:19:15Z | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/MuChaTOO/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
 | 20220825T20:04:01Z | Null | https://github.com/pwneddr/exim-4.84.3-exploit | 0 | 0| 
-| 20220825T19:49:16Z | Null | https://github.com/ddnnife/exploiting-ddnnfs-eval | 0 | 0| 
-| 20220825T19:37:13Z | Optimized for use in Kali Linux, KSploit is a user friendly control panel in which to drive many metasploit tasks such as generating shells, payloads, and persistence scripts on the fly, starting listeners, and suggesting payloads and exploits. | https://github.com/kaotickj/K-Sploit | 2 | 0| 
-| 20220825T18:58:08Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 430 | 27| 
-| 20220825T12:39:36Z | Roblox Scripts/Exploits.  | https://github.com/ContentActivity/Roblox | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220826T01:55:28Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 117 | 22| 
 | 20220826T00:53:12Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 287 | 30| 
 | 20220825T22:25:05Z | Undectable backdoor for windows with a listenner server | https://github.com/DHK-Tn/UndPay | 0 | 0| 
 | 20220825T19:52:02Z | Backdoor script using python. | https://github.com/cmglmsr/Backdoor | 0 | 0| 
 | 20220825T16:57:57Z | Null | https://github.com/kingketan9/Working-Backdoor | 0 | 0| 
-| 20220825T16:52:42Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 114 | 22| 
 | 20220825T16:43:07Z | Null | https://github.com/xzfem98/BackDoor | 0 | 0| 
 | 20220825T12:46:46Z | Backdoor Entry in python 3 (Ethical Hacking) | https://github.com/Faizanalam416/Backdoor | 0 | 0| 
 | 20220825T12:07:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 546 | 109| 
@@ -116,7 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T19:02:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3063 | 433| 
+| 20220826T00:48:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3064 | 433| 
 | 20220824T13:53:18Z | 3D visualization Blender addon for symbolic execution traces   | https://github.com/agra-uni-bremen/symex-3d | 0 | 0| 
 | 20220824T12:35:33Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 709 | 78| 
 | 20220824T09:20:39Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 477 | 26| 

@@ -23,13 +23,13 @@
 | 20220825T20:44:14Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/LarityRay/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20220825T20:19:26Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers | https://github.com/MuChaTOO/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220825T20:19:15Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/MuChaTOO/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20220825T18:38:50Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
 | 20220825T18:36:42Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
 | 20220825T16:17:02Z | CVE-2022-23779 | Internal Hostname Disclosure Vulnerability | https://github.com/Vulnmachines/Zoho_CVE-2022-23779 | | 
 | 20220825T14:51:47Z | CVE-2022-21371 | Oracle WebLogic CVE-2022-21371 | https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371 | | 
 | 20220825T14:51:37Z | CVE-2022-34265 | PoC for CVE-2022-34265 | https://github.com/ZhaoQi99/CVE-2022-34265 | | 
 | 20220825T10:00:31Z | CVE-2022-36446 | A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997. | https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE | | 
 | 20220825T08:37:18Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
+| 20220825T08:27:49Z | CVE-2022-37153 | There is a XSS  vulnerability  in Artica Proxy 4.30.000000 | https://github.com/Fjowel/CVE-2022-37153 | | 
 
 
 # klee on Github 推荐
@@ -66,7 +66,6 @@
 | 20220825T22:25:05Z | Undectable backdoor for windows with a listenner server | https://github.com/DHK-Tn/UndPay | 0 | 0| 
 | 20220825T19:52:02Z | Backdoor script using python. | https://github.com/cmglmsr/Backdoor | 0 | 0| 
 | 20220825T16:57:57Z | Null | https://github.com/kingketan9/Working-Backdoor | 0 | 0| 
-| 20220825T16:52:42Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 114 | 22| 
 | 20220825T16:43:07Z | Null | https://github.com/xzfem98/BackDoor | 0 | 0| 
 | 20220825T12:46:46Z | Backdoor Entry in python 3 (Ethical Hacking) | https://github.com/Faizanalam416/Backdoor | 0 | 0| 
 | 20220825T12:07:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 546 | 109| 
@@ -75,7 +74,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220825T19:02:46Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3063 | 433| 
 
 
 # big4 on Github 推荐
