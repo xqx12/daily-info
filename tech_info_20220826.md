@@ -78,6 +78,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220826T09:24:55Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 478 | 26| 
+| 20220826T03:30:00Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 710 | 78| 
 | 20220826T00:48:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3064 | 433| 
 
 
