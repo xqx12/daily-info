@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220826T12:31:15Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
+| 20220826T12:52:20Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
 | 20220826T11:00:24Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
 | 20220826T10:42:42Z | CVE-2022-20142 | Null | https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142 | | 
 | 20220826T10:04:05Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
@@ -61,9 +61,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220826T12:52:03Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 76 | 7| 
 | 20220826T08:20:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 61 | 1| 
 | 20220826T07:51:42Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 48 | 10| 
-| 20220825T13:05:07Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 75 | 7| 
 | 20220825T05:37:57Z | Personal TF2 HUD with parts taken from E.V.E HUD and ToonHUD | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
 | 20220824T08:19:53Z | This is a portfolio website build manly with the use of SCSS and JavaScript | https://github.com/rasan1550/Ansel-Klee | 0 | 0| 
 | 20220823T11:49:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7765 | 267| 
@@ -86,9 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220826T12:52:20Z | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | 14 | 5| 
+| 20220826T12:49:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1199 | 294| 
 | 20220826T12:32:48Z | Exe to PDF exploit Builder with 0 detections. Runtime and Scantime | https://github.com/luci61/Exe-to-pdf | 20 | 1| 
-| 20220826T12:31:15Z | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | 13 | 5| 
-| 20220826T12:11:24Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1198 | 294| 
 | 20220826T11:30:18Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 1 | 0| 
 | 20220826T11:15:14Z | Lives and exploits of the most noted highwaymen, robbers and murderers of all nations Drawn from the most authentic sources and brought down to the present time by Charles Whitehead is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Lives-and-exploits-of-the-most-noted-highwaymen-robbers-and-murderers-of-all-nations-Drawn-fr__68752 | 0 | 0| 
 | 20220826T10:45:27Z | offensive shellcode book for hackers and programmers | https://github.com/security-essentials/offensive_shellcode | 1 | 0| 
