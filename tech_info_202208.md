@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220827T12:29:54Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1251 | 300| 
 | 20220827T12:18:11Z | Webdav Exploiter Made With Python | https://github.com/13utterflyy/Webdav-Exploiter | 1 | 1| 
-| 20220827T11:53:39Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1251 | 300| 
 | 20220827T11:12:34Z | Exploiting Discriminative Advantage of Spectrum for Hyperspectral Image Classification: SpectralFormer Enhanced by Spectrum Motion Feature | https://github.com/sssssyf/SF-ESMF | 0 | 0| 
 | 20220827T11:02:47Z | Bash Script to Escalate Privilieges exploiting User Groups | https://github.com/S12cybersecurity/Groups_PrivEsc | 1 | 0| 
 | 20220827T10:57:42Z | comprehensive admin dashboard exploiting hooks API, Syncfusion and Tailwind | https://github.com/arash-bahariye/admin-dashboard | 0 | 0| 
