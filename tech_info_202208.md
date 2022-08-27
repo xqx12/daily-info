@@ -31,38 +31,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220827 | Chrome沙箱绕过研究 | https://mp.weixin.qq.com/s/gqH0lqz1ey6IzT--UD9Jsg| 
+| 20220827 | 对云函数隐藏C2技术的防御反制思路 | https://xz.aliyun.com/t/11625| 
+| 20220826 | 我与入侵检测的二三事儿 | https://mp.weixin.qq.com/s/ZBHY-R2E7bzV17-jhfj4hA| 
+| 20220826 | 2022半年度反洗钱处罚信息汇总及分析 | https://mp.weixin.qq.com/s/tx50eeAsJIIk6yfDf1qgjw| 
+| 20220826 | Ruby安全漫谈 | https://mp.weixin.qq.com/s/ECLwMbbrf9lWXkhbUergXg| 
+| 20220826 | 如何开展蓝军工作与量化评估 | https://mp.weixin.qq.com/s/Zwa4wnKon-GYPb8ohb9miA| 
+| 20220826 | 匿名：《红队攻击安全配置》 | https://mp.weixin.qq.com/s/bK1Ku5y74kB4nKsL9kQjvQ| 
 | 20220825 | 如何对登录接口加密字段进行暴破？ | https://www.sec-in.com/article/1899| 
 | 20220825 | Antenna: 漏洞辅助验证存在与可利用性平台 | https://github.com/wuba/Antenna| 
 | 20220825 | 固件渗透的攻防之路 | https://mp.weixin.qq.com/s/YuS1tvbYRyM0iLWmniCdJg| 
-| 20220824 | 2021 攻击技术发展趋势报告全文 | http://blog.nsfocus.net/wp-content/uploads/2022/08/NSFOCUS.pdf| 
-| 20220824 | 某农信企业自主创新自动化安全基线检测平台建设实践 | https://mp.weixin.qq.com/s/-3ec660soSUFmngRjEvF8g| 
-| 20220824 | IJTCS-FAW 2022 机器学习与形式化方法分论坛精彩回顾 | https://mp.weixin.qq.com/s/KkpY8zURFj-WM7zD25lYrQ| 
-| 20220824 | 利用 PHP-FPM 做内存马的方法 | https://mp.weixin.qq.com/s/VrtFWM3Iufk0xkK_MRCCKA| 
-| 20220824 | IJTCS-FAW 2022 机器学习与形式化方法分论坛精彩回顾 | /news/30616| 
-| 20220823 | 美国国防工业网络保护框架和启示 | https://mp.weixin.qq.com/s/DRA3RinOgZnBoEpfi8DMnA| 
-| 20220823 | Celer Network cBridge 跨链桥事故真相：BGP 劫持 | https://mp.weixin.qq.com/s/SInU_o3Ct-7A6pFbKLqzHQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220826T12:52:20Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
-| 20220826T11:00:24Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
-| 20220826T10:42:42Z | CVE-2022-20142 | Null | https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142 | | 
-| 20220826T10:04:05Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
-| 20220826T09:38:13Z | CVE-2022-20007 | Null | https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007 | | 
-| 20220826T09:10:28Z | CVE-2020-1472 | ZeroLogon exploitation script,One-click recovery of domain controller machine Hash | https://github.com/lele8/CVE-2020-1472 | | 
-| 20220826T07:53:46Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
-| 20220826T07:38:29Z | CVE-2022-26134 | CVE-2022-26134 web payload | https://github.com/1337in/CVE-2022-26134web | | 
-| 20220826T06:23:58Z | CVE-2020-0416 | Null | https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416 | | 
-| 20220826T05:55:41Z | CVE-2022-34265 | PoC for CVE-2022-34265 | https://github.com/ZhaoQi99/CVE-2022-34265 | | 
+| 20220827T11:52:03Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
+| 20220827T10:10:03Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
+| 20220827T07:14:44Z | CVE-2022-21371 | Oracle WebLogic CVE-2022-21371 | https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371 | | 
+| 20220827T04:02:24Z | CVE-2022-0492 | CVE-2022-0492-Container-Escape | https://github.com/yoeelingBin/CVE-2022-0492-Container-Escape | | 
+| 20220827T03:25:09Z | CVE-2022-27925 | Python Script to exploit Zimbra Auth Bypass + RCE (CVE-2022-27925) | https://github.com/Chocapikk/CVE-2022-27925-Revshell | | 
+| 20220826T23:37:06Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
+| 20220826T23:25:52Z | cve-2020-9006 | Null | https://github.com/s3rgeym/cve-2020-9006 | | 
+| 20220826T16:53:01Z | CVE-2022-1802 | Null | https://github.com/mistymntncop/CVE-2022-1802 | | 
+| 20220826T16:22:08Z | CVE-2022-38766 | PoC for vulnerability in Renault ZOE Keyless System(CVE-2022-38766) | https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766 | | 
+| 20220826T14:43:13Z | CVE-2022-27925 | Zimbra CVE-2022-27925 PoC | https://github.com/Josexv1/CVE-2022-27925 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220827T06:35:35Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 63 | 1| 
 | 20220826T12:52:03Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 76 | 7| 
-| 20220826T08:20:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 61 | 1| 
 | 20220826T07:51:42Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 48 | 10| 
 | 20220825T05:37:57Z | Personal TF2 HUD with parts taken from E.V.E HUD and ToonHUD | https://github.com/MrCompoopter/kleenhud | 0 | 0| 
 | 20220824T08:19:53Z | This is a portfolio website build manly with the use of SCSS and JavaScript | https://github.com/rasan1550/Ansel-Klee | 0 | 0| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220826T12:52:20Z | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | 14 | 5| 
-| 20220826T12:49:55Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1199 | 294| 
-| 20220826T12:32:48Z | Exe to PDF exploit Builder with 0 detections. Runtime and Scantime | https://github.com/luci61/Exe-to-pdf | 20 | 1| 
-| 20220826T11:30:18Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 1 | 0| 
-| 20220826T11:15:14Z | Lives and exploits of the most noted highwaymen, robbers and murderers of all nations Drawn from the most authentic sources and brought down to the present time by Charles Whitehead is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Lives-and-exploits-of-the-most-noted-highwaymen-robbers-and-murderers-of-all-nations-Drawn-fr__68752 | 0 | 0| 
-| 20220826T10:45:27Z | offensive shellcode book for hackers and programmers | https://github.com/security-essentials/offensive_shellcode | 1 | 0| 
-| 20220826T10:20:05Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 88 | 11| 
-| 20220826T10:10:51Z | Null | https://github.com/ahmadsgamer2/SpeedExploit-X | 0 | 0| 
-| 20220826T09:10:28Z | ZeroLogon exploitation script,One-click recovery of domain controller machine Hash | https://github.com/lele8/CVE-2020-1472 | 0 | 0| 
-| 20220826T08:45:56Z | A roblox anticheat, keeping exploiters at bay since 2022. | https://github.com/lua-ware/luawareanticheat | 0 | 0| 
+| 20220827T12:18:11Z | Webdav Exploiter Made With Python | https://github.com/13utterflyy/Webdav-Exploiter | 1 | 1| 
+| 20220827T11:53:39Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1251 | 300| 
+| 20220827T11:12:34Z | Exploiting Discriminative Advantage of Spectrum for Hyperspectral Image Classification: SpectralFormer Enhanced by Spectrum Motion Feature | https://github.com/sssssyf/SF-ESMF | 0 | 0| 
+| 20220827T11:02:47Z | Bash Script to Escalate Privilieges exploiting User Groups | https://github.com/S12cybersecurity/Groups_PrivEsc | 1 | 0| 
+| 20220827T10:57:42Z | comprehensive admin dashboard exploiting hooks API, Syncfusion and Tailwind | https://github.com/arash-bahariye/admin-dashboard | 0 | 0| 
+| 20220827T01:48:08Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-b- | 0 | 0| 
+| 20220827T01:47:10Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b- | 0 | 0| 
+| 20220827T01:46:18Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-b- | 0 | 0| 
+| 20220827T01:28:38Z | Python Script to exploit Zimbra Auth Bypass + RCE (CVE-2022-27925) | https://github.com/Chocapikk/CVE-2022-27925-Revshell | 1 | 0| 
+| 20220827T01:24:39Z | 50+ Gadgets(17 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server. | https://github.com/cckuailong/JNDI-Injection-Exploit-Plus | 100 | 18| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220826T12:02:15Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 122 | 24| 
+| 20220827T10:45:08Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 130 | 25| 
+| 20220827T02:20:41Z | Exemplo de um malware backdoor para fins didáticos | https://github.com/matheusmalt/backdoor-simples | 0 | 0| 
+| 20220826T23:27:30Z | Python RCE Shell | https://github.com/s3rgeym/rc35h | 0 | 0| 
+| 20220826T23:25:22Z | Command-line tool for backdoor exploitation. | https://github.com/s3rgeym/backshell | 6 | 3| 
+| 20220826T18:34:28Z | Backdoor Reverse-shell, TCP, Python 3.x. Developed by @xp4xbox Lasagne module fixed by @Kwls1dev | https://github.com/Kwls1dev/Backdoor-Fixed | 0 | 0| 
 | 20220826T10:28:09Z | A simple C code shellcode | https://github.com/Pig-Tail/minimal-backdoor | 0 | 0| 
 | 20220826T08:00:32Z | Null | https://github.com/nethunt10/ssh-backdoor | 0 | 0| 
 | 20220826T00:53:12Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 287 | 30| 
 | 20220825T22:25:05Z | Undectable backdoor for windows with a listenner server | https://github.com/DHK-Tn/UndPay | 0 | 0| 
 | 20220825T19:52:02Z | Backdoor script using python. | https://github.com/cmglmsr/Backdoor | 0 | 0| 
-| 20220825T16:57:57Z | Null | https://github.com/kingketan9/Working-Backdoor | 0 | 0| 
-| 20220825T16:43:07Z | Null | https://github.com/xzfem98/BackDoor | 0 | 0| 
-| 20220825T12:46:46Z | Backdoor Entry in python 3 (Ethical Hacking) | https://github.com/Faizanalam416/Backdoor | 0 | 0| 
-| 20220825T12:07:19Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 546 | 109| 
 
 
 # symbolic execution on Github 推荐
