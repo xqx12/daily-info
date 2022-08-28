@@ -67,6 +67,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220828T11:58:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 972 | 109| 
+| 20220828T11:57:52Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 4 | 0| 
+| 20220828T11:25:59Z | Null | https://github.com/Thomasb69/fuzzy-engine | 0 | 0| 
+| 20220828T11:25:20Z | Lab 4 for 32004 | https://github.com/Makanana28/fuzzy-lab4 | 0 | 0| 
+| 20220828T10:24:06Z | NFT project | https://github.com/ChandelleArgente/fuzzy-train | 0 | 0| 
+| 20220828T09:51:03Z | Null | https://github.com/Morrisschool/fuzzy-octo-broccoli | 0 | 0| 
+| 20220828T09:40:10Z | Null | https://github.com/sambacha/foundry-prettier-fuzz | 0 | 0| 
+| 20220828T08:34:31Z | Config files for my GitHub profile. | https://github.com/Fuzzypn/Fuzzypn | 0 | 0| 
 | 20220828T01:55:57Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 28 | 14| 
 
 
