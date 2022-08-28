@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220828T00:32:52Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
+| 20220828T11:27:49Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
+| 20220828T07:45:44Z | CVE-2022-0492 | CVE-2022-0492-Container-Escape | https://github.com/yoeelingBin/CVE-2022-0492-Container-Escape | | 
+| 20220828T07:20:36Z | CVE-2021-41078 | nameko Arbitrary code execution due to YAML deserialization | https://github.com/s-index/CVE-2021-41078 | | 
+| 20220828T02:48:05Z | CVE-2022-24086 | Null | https://github.com/jturner786/magento-CVE-2022-24086 | | 
 | 20220828T00:06:29Z | CVE-2020-1472 | ZeroLogon exploitation script,One-click recovery of domain controller machine Hash | https://github.com/lele8/CVE-2020-1472 | | 
 | 20220827T16:38:15Z | CVE-2022-37177 | CVE-2022-37177 - HireVue-Broken-Or-Risky-Cryptographic-Algorithm | https://github.com/JC175/CVE-2022-37177 | | 
 | 20220827T16:18:15Z | CVE-2022-27255 | Simple checker for CVE-2022-27255 using poc_crash and telnet availability | https://github.com/stryker-project/CVE-2022-27255-checker | | 
 | 20220827T15:46:56Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking & cryptocurrency services in browsers | https://github.com/MuChaTOO/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220827T15:45:30Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through). | https://github.com/MuChaTOO/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20220827T14:47:13Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/LarityRay/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20220827T11:52:03Z | CVE-2022-32250 | Null | https://github.com/theori-io/CVE-2022-32250-exploit | | 
-| 20220827T07:14:44Z | CVE-2022-21371 | Oracle WebLogic CVE-2022-21371 | https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371 | | 
-| 20220827T04:02:24Z | CVE-2022-0492 | CVE-2022-0492-Container-Escape | https://github.com/yoeelingBin/CVE-2022-0492-Container-Escape | | 
 
 
 # klee on Github 推荐
@@ -86,22 +86,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220828T11:39:38Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1268 | 306| 
+| 20220828T11:20:48Z | A small wrapper around searchsploit to copy the exploit in one go | https://github.com/trismah/search-pyloit | 0 | 0| 
+| 20220828T11:15:38Z | Null | https://github.com/Kevinderfeini2/KevinExploit | 0 | 0| 
+| 20220828T09:24:31Z | Exploiting Instance-based Mixed Sampling via Auxiliary Source Domain Supervision for Domain-adaptive Action Detection | https://github.com/wwwfan628/DA-AIM | 0 | 0| 
+| 20220828T09:15:26Z | 42 , Privilege escalation exercices on a system image | https://github.com/kema-dev/rainfall | 0 | 0| 
+| 20220828T07:08:36Z | With this, you can easily find the pipe of any Roblox exploit, and subsequently develop your own Exploit API based on the received pipe and the available dll. | https://github.com/ttwizz/Pipe-Locator | 1 | 1| 
+| 20220828T06:38:37Z | PoC List | https://github.com/s-index/poc-list | 8 | 1| 
+| 20220828T05:37:37Z | Null | https://github.com/trhacknon/XDEBUG-Exploit | 0 | 0| 
 | 20220828T01:49:49Z | Null | https://github.com/kamalkarlos/Bot-Exploit-Wordpress | 0 | 0| 
 | 20220828T01:01:04Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-az | 0 | 0| 
-| 20220828T01:00:10Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-az | 0 | 0| 
-| 20220828T00:59:18Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-az | 0 | 0| 
-| 20220828T00:58:46Z | Null | https://github.com/jinviet/exploit_1 | 0 | 0| 
-| 20220828T00:22:11Z | PixelBot is a combination of an addon and a python program that exploits WoW API in order to automate characters and play the game alone (when you need 5 or 25 people). | https://github.com/Serenalyw/PixelBot | 3 | 2| 
-| 20220827T23:34:13Z | Garry’s Mod Exploit Hack  | https://github.com/Nevald/Garry-s-Mod-Exploit-Hack- | 0 | 0| 
-| 20220827T23:29:22Z | Scripts that i used to exploit some web/mobile app  vulnerabilities during pentests/ctfs | https://github.com/AymanRbati/appsec-scripts | 2 | 0| 
-| 20220827T22:59:27Z | Exploit For Tiktok Likes | https://github.com/Nevald/TikTok-Exploit-Likes | 0 | 0| 
-| 20220827T22:48:33Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1253 | 301| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220827T20:09:12Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 301 | 30| 
+| 20220828T03:38:48Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 302 | 30| 
 | 20220827T16:04:10Z | Create automatically backdoors, for CTF. | https://github.com/Eneru/AutoBackdoorCTF | 0 | 0| 
 | 20220827T15:20:46Z | A Windows Backdoor | https://github.com/nemzyxt/WinDoor | 0 | 0| 
 | 20220827T10:45:08Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 130 | 25| 
