@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220828T12:32:50Z | Alzheimer’s Disease (AD) is a neurological brain disorder marked by dementia and neurological dysfunction that affects memory, behavioral patterns, and reasoning. Alzheimer’s disease is an incurable disease that primarily affects people over the age of 40. Presently, Alzheimer’s disease is diagnosed through a manual evaluation of a patient’s MRI scan and neuro-psychological examinations. Deep Learning (DL), a type of Artificial Intelligence (AI), has pioneered new approaches to automate medical image diagnosis. The goal of this study is to create a reliable and efficient approach for classifying AD using MRI by applying the deep Convolutional Neural Network (CNN). In this paper, we propose a new CNN architecture for detecting AD with relatively few parameters and the proposed solution is ideal for training a smaller dataset. This proposed model successfully distinguishes the early stages of Alzheimer’s disease and shows class activation maps as a heat map on the brain. The proposed Alzheimer’s Disease Detection Network (ADD-Net) is built from scratch to precisely classify the stages of AD by decreasing parameters and calculation costs. The Kaggle MRI image dataset has a significant class imbalance problem and we exploited a synthetic oversampling technique to evenly distribute the image among the classes to prevent the problem of class imbalance. The proposed ADD-Net is extensively evaluated against DenseNet169, VGG19, and InceptionResNet V2 using precision, recall, F1-score, Area Under the Curve (AUC), and loss. The ADD-Net achieved the following values for evaluation metrics: 98.63%, 99.76%, 98.61%, 98.63%, 98.58%, and 0.0549 for accuracy, AUC , F1-score, precision, recall, and loss, respectively. From the simulation results, it is noted that the proposed ADD-Net outperforms other state-of-the-art models in all the evaluation metrics. | https://github.com/shahidzikria/ADD-Net | 0 | 0| 
 | 20220828T12:32:11Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1269 | 305| 
 | 20220828T11:20:48Z | A small wrapper around searchsploit to copy the exploit in one go | https://github.com/trismah/search-pyloit | 0 | 0| 
 | 20220828T11:15:38Z | Null | https://github.com/Kevinderfeini2/KevinExploit | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20220828T06:38:37Z | PoC List | https://github.com/s-index/poc-list | 8 | 1| 
 | 20220828T05:37:37Z | Null | https://github.com/trhacknon/XDEBUG-Exploit | 0 | 0| 
 | 20220828T01:49:49Z | Null | https://github.com/kamalkarlos/Bot-Exploit-Wordpress | 0 | 0| 
-| 20220828T01:01:04Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-az | 0 | 0| 
 
 
 # backdoor on Github 推荐
