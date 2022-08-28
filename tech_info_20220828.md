@@ -36,7 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220828T11:39:38Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1268 | 305| 
+| 20220828T12:32:11Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1269 | 305| 
 | 20220828T11:20:48Z | A small wrapper around searchsploit to copy the exploit in one go | https://github.com/trismah/search-pyloit | 0 | 0| 
 | 20220828T11:15:38Z | Null | https://github.com/Kevinderfeini2/KevinExploit | 0 | 0| 
 | 20220828T09:24:31Z | Exploiting Instance-based Mixed Sampling via Auxiliary Source Domain Supervision for Domain-adaptive Action Detection | https://github.com/wwwfan628/DA-AIM | 0 | 0| 
