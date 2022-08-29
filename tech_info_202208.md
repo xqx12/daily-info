@@ -101,8 +101,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220829T10:45:38Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 303 | 30| 
 | 20220828T16:22:38Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 13 | 6| 
-| 20220828T03:38:48Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 302 | 30| 
 | 20220827T16:04:10Z | Create automatically backdoors, for CTF. | https://github.com/Eneru/AutoBackdoorCTF | 0 | 0| 
 | 20220827T15:20:46Z | A Windows Backdoor | https://github.com/nemzyxt/WinDoor | 0 | 0| 
 | 20220827T10:45:08Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 130 | 25| 
@@ -116,8 +116,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220829T07:21:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3066 | 433| 
+| 20220829T04:34:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 43 | 23| 
 | 20220828T19:35:26Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 131 | 12| 
-| 20220828T14:01:03Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3067 | 433| 
 | 20220826T09:24:55Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 478 | 26| 
 | 20220826T03:30:00Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 710 | 78| 
 | 20220824T13:53:18Z | 3D visualization Blender addon for symbolic execution traces   | https://github.com/agra-uni-bremen/symex-3d | 0 | 0| 
@@ -125,15 +126,14 @@
 | 20220823T07:53:08Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 286 | 21| 
 | 20220821T20:50:06Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 42| 
 | 20220820T19:29:41Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 12 | 2| 
-| 20220819T07:25:34Z | A dynamic obfuscated JavaScript malware analysis tool with multi-execution and symbolic execution | https://github.com/madibkz/extract-js | 1 | 1| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220829T11:05:55Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 54 | 10| 
 | 20220819T18:24:42Z | This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS. | https://github.com/prncoprs/best-papers-in-computer-security | 2 | 0| 
 | 20220814T08:08:07Z | Anonymized artifact  - Scalable Program Clone Search Through Spectral Analysis | https://github.com/sppunderreview/ndss-spp | 1 | 0| 
-| 20220814T02:52:28Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 53 | 10| 
 | 20220813T20:06:36Z | A case study which reviews on NDSS 2020 %You Are What You Do: Hunting Stealthy Malware via Data Provenance Analysis% | https://github.com/Jasmoon99/case-study-YouAreWhatYouDo | 0 | 0| 
 | 20220809T06:50:30Z | Null | https://github.com/DrGamma78/NDSS2022 | 0 | 0| 
 | 20220802T19:09:12Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 11 | 1| 
