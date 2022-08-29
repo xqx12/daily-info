@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T00:27:59Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-FUD | 0 | 0| 
+| 20220829T00:30:49Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-Dropper | 0 | 0| 
+| 20220829T00:30:11Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 0 | 0| 
+| 20220829T00:29:45Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-FUD | 0 | 0| 
+| 20220829T00:29:19Z | Null | https://github.com/0x414141414/Silent-Word-Exploit | 0 | 0| 
 | 20220829T00:27:24Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-Builder | 0 | 0| 
 | 20220828T23:44:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4827 | 666| 
 | 20220828T23:11:35Z | Exploit LAPS to Translate Programming Languages. Full documentation: http://lapstrans.rtfd.io/ | https://github.com/pvs-hd-tea/LapsTrans | 1 | 0| 
 | 20220828T22:14:30Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1277 | 309| 
 | 20220828T21:27:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 484 | 138| 
 | 20220828T20:11:56Z | Null | https://github.com/Adam-120/COSMOS-X-EXPLOIT | 0 | 0| 
-| 20220828T18:26:37Z | Android N-Day Exploit research. | https://github.com/Chal13W1zz/bad-binder | 0 | 0| 
-| 20220828T15:17:34Z | Roblox exploit script | https://github.com/Ghosty255/Roblox-Script | 0 | 0| 
-| 20220828T12:39:42Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 432 | 28| 
 
 
 # backdoor on Github 推荐
