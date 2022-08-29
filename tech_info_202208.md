@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220829T11:54:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 981 | 109| 
+| 20220829T11:54:05Z | tools for CI-fuzzing automation | https://github.com/gardatech/bugbane | 14 | 0| 
+| 20220829T11:25:25Z | A data-flow guided fuzzer | https://github.com/adrianherrera/datAFLow | 19 | 3| 
+| 20220829T10:58:37Z | Simple Fuzzer written in Python | https://github.com/eastrd/dumbfuzz | 1 | 0| 
+| 20220829T10:55:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7731 | 1671| 
+| 20220829T10:42:28Z | Null | https://github.com/nmraqisa/fuzzy | 0 | 0| 
+| 20220829T09:30:20Z | Fuzzzapp - web app for musicians / next.js | https://github.com/BartYan/FUZZZAPP | 0 | 0| 
+| 20220829T08:47:44Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 27 | 3| 
+| 20220829T04:53:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4308 | 1041| 
 | 20220829T01:50:27Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 33 | 0| 
-| 20220828T23:38:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 977 | 109| 
-| 20220828T23:05:34Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
-| 20220828T22:12:42Z | Fuzzy test dictionary 模糊测试字典 | https://github.com/moekylin/FuzzDict | 0 | 0| 
-| 20220828T22:03:44Z | table cheat | https://github.com/Vivek-cy/fuzzy-octo-eureka | 0 | 0| 
-| 20220828T21:36:17Z | Fuzzy and MA-POCA: AIs that play games - CM3070 | https://github.com/ChrisCastelo/fuzzy_vs_poca | 0 | 0| 
-| 20220828T19:59:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2794 | 326| 
-| 20220828T19:00:00Z | Null | https://github.com/tclasen/fuzzy-octo-fiesta | 0 | 0| 
-| 20220828T11:25:59Z | Null | https://github.com/Thomasb69/fuzzy-engine | 0 | 0| 
-| 20220828T11:25:20Z | Lab 4 for 32004 | https://github.com/Makanana28/fuzzy-lab4 | 0 | 0| 
 
 
 
