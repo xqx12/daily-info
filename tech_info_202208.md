@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T01:45:43Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-hy | 0 | 0| 
+| 20220829T01:46:33Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20220829T01:45:15Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20220829T01:44:26Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20220829T01:41:47Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1278 | 309| 
