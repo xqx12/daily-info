@@ -50,7 +50,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220829T11:57:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3902 | 590| 
 | 20220829T11:40:41Z | Null | https://github.com/romanrakhlin/opensea-exploit | 0 | 0| 
-| 20220829T11:25:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1293 | 314| 
+| 20220829T11:25:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1293 | 315| 
 | 20220829T10:44:01Z | OneClick Exploit use Private | https://github.com/TruePredator/EternalBlueForiOS | 0 | 0| 
 | 20220829T10:09:37Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 126 | 135| 
 | 20220829T09:39:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 489 | 139| 
