@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220829T01:41:47Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1278 | 309| 
 | 20220829T00:34:45Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-Dropper | 0 | 0| 
 | 20220829T00:30:11Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 0 | 0| 
 | 20220829T00:29:45Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-FUD | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20220829T00:27:24Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-Builder | 0 | 0| 
 | 20220828T23:44:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4827 | 666| 
 | 20220828T23:11:35Z | Exploit LAPS to Translate Programming Languages. Full documentation: http://lapstrans.rtfd.io/ | https://github.com/pvs-hd-tea/LapsTrans | 1 | 0| 
-| 20220828T22:14:30Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1277 | 309| 
 | 20220828T21:27:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 484 | 138| 
 | 20220828T20:11:56Z | Null | https://github.com/Adam-120/COSMOS-X-EXPLOIT | 0 | 0| 
 
@@ -143,9 +143,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220829T01:41:42Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 32 | 0| 
 | 20220828T23:38:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 977 | 109| 
 | 20220828T23:05:34Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
-| 20220828T22:44:19Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 31 | 0| 
 | 20220828T22:12:42Z | Fuzzy test dictionary 模糊测试字典 | https://github.com/moekylin/FuzzDict | 0 | 0| 
 | 20220828T22:03:44Z | table cheat | https://github.com/Vivek-cy/fuzzy-octo-eureka | 0 | 0| 
 | 20220828T21:36:17Z | Fuzzy and MA-POCA: AIs that play games - CM3070 | https://github.com/ChrisCastelo/fuzzy_vs_poca | 0 | 0| 
