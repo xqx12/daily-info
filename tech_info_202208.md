@@ -15,6 +15,7 @@
 | 20220829 | Elevator - UAC Bypass by abusing RPC and debug objects | https://github.com/Kudaes/Elevator| 
 | 20220829 | 利用 Unified Automation 工控组件 OPC UA Server SDK 两个漏洞实现 RCE | https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/| 
 | 20220829 | VSCode Git Clone URL handler 被发现参数注入漏洞 | http://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/| 
+| 20220829 | ATT&CK中的攻与防——T1059 | http://tttang.com/archive/1718/| 
 | 20220827 | Unix 传奇人物Brian Kernighan 80岁的他还在不断进行修复 AWK 代码 | https://arstechnica.com/gadgets/2022/08/unix-legend-who-owes-us-nothing-keeps-fixing-foundational-awk-code/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social| 
 | 20220826 | Linux 内核远程利用方法和技巧，来自 HITB 会议 | https://conference.hitb.org/hitbsecconf2022sin/materials/D1T1%20-%20Erybody%20Gettin%20TIPC%20-%20Demystifying%20Remote%20Linux%20Kernel%20Exploitation%20-%20Sam%20Page.pdf| 
 | 20220826 | Ghidrathon - 为 Ghidra 提供 Python3 扩展支持 | https://www.mandiant.com/resources/blog/ghidrathon-snaking-ghidra-python-3-scripting| 
@@ -25,7 +26,6 @@
 | 20220826 | Pwn2Own 比赛利用第二个 Prototype Pollution 实现 Render 进程的逃逸 | https://www.zerodayinitiative.com/blog/2022/8/23/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-2| 
 | 20220826 | Bypassing AppLocker by abusing HashInfo | https://shells.systems/post-bypassing-applocker-by-abusing-hashinfo/| 
 | 20220826 | 基于 Windows System Calls Trace 的威胁检测 | http://marcoramilli.com/2022/08/23/windows-system-calls-for-hunters/| 
-| 20220826 | Windows Dirty Pipe CVE-2022-22715 命名管道驱动沙箱逃逸漏洞分析 | https://sec.today/pulses/a8844882-bd26-476f-be5e-c88b04d907c4/| 
 
 
 # 安全维基 推荐
@@ -86,7 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T12:36:36Z | Code Cave Finder And Injector | https://github.com/justalghamdi/PE-Miner | 2 | 0| 
+| 20220829T12:46:35Z | Null | https://github.com/Saiyato/exploits | 0 | 0| 
+| 20220829T12:45:02Z | Code Cave Finder And Injector | https://github.com/justalghamdi/PE-Miner | 3 | 0| 
 | 20220829T12:34:20Z | A Discord exploit that lags every voice channel in a server using a stupidly simple method. | https://github.com/0x44F/dcom-discord-lag-vc | 0 | 0| 
 | 20220829T12:14:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 490 | 139| 
 | 20220829T11:57:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3902 | 590| 
@@ -95,7 +96,6 @@
 | 20220829T10:44:01Z | OneClick Exploit use Private | https://github.com/TruePredator/EternalBlueForiOS | 0 | 0| 
 | 20220829T10:09:37Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 126 | 135| 
 | 20220829T09:06:03Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 7 | 0| 
-| 20220829T06:59:31Z | i will keep the solutions for every CTF problem  in the picoCTF / Web Exploitation / | https://github.com/SAISUJAYDUDALA/picoCTF-Web-Exploitation- | 0 | 0| 
 
 
 # backdoor on Github 推荐

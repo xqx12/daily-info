@@ -15,6 +15,7 @@
 | 20220829 | Elevator - UAC Bypass by abusing RPC and debug objects | https://github.com/Kudaes/Elevator| 
 | 20220829 | 利用 Unified Automation 工控组件 OPC UA Server SDK 两个漏洞实现 RCE | https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/| 
 | 20220829 | VSCode Git Clone URL handler 被发现参数注入漏洞 | http://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/| 
+| 20220829 | ATT&CK中的攻与防——T1059 | http://tttang.com/archive/1718/| 
 
 
 # 安全维基 推荐
@@ -48,7 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T12:36:36Z | Code Cave Finder And Injector | https://github.com/justalghamdi/PE-Miner | 2 | 0| 
+| 20220829T12:46:35Z | Null | https://github.com/Saiyato/exploits | 0 | 0| 
+| 20220829T12:45:02Z | Code Cave Finder And Injector | https://github.com/justalghamdi/PE-Miner | 3 | 0| 
 | 20220829T12:34:20Z | A Discord exploit that lags every voice channel in a server using a stupidly simple method. | https://github.com/0x44F/dcom-discord-lag-vc | 0 | 0| 
 | 20220829T12:14:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 490 | 139| 
 | 20220829T11:57:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3902 | 590| 
@@ -57,7 +59,6 @@
 | 20220829T10:44:01Z | OneClick Exploit use Private | https://github.com/TruePredator/EternalBlueForiOS | 0 | 0| 
 | 20220829T10:09:37Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 126 | 135| 
 | 20220829T09:06:03Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 7 | 0| 
-| 20220829T06:59:31Z | i will keep the solutions for every CTF problem  in the picoCTF / Web Exploitation / | https://github.com/SAISUJAYDUDALA/picoCTF-Web-Exploitation- | 0 | 0| 
 
 
 # backdoor on Github 推荐
