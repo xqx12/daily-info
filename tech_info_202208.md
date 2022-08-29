@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T12:24:54Z | Null | https://github.com/LucifersUncle/fuzzy-fiesta | 0 | 0| 
+| 20220829T12:27:57Z | Null | https://github.com/LucifersUncle/fuzzy-fiesta | 0 | 0| 
 | 20220829T11:54:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 981 | 109| 
 | 20220829T11:54:05Z | tools for CI-fuzzing automation | https://github.com/gardatech/bugbane | 14 | 0| 
 | 20220829T11:25:25Z | A data-flow guided fuzzer | https://github.com/adrianherrera/datAFLow | 19 | 3| 
