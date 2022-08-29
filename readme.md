@@ -48,7 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T12:30:57Z | A Discord exploit that lags every voice channel in a server using a stupidly simple method. | https://github.com/0x44F/dcom-discord-lag-vc | 0 | 0| 
+| 20220829T12:36:36Z | Code Cave Finder And Injector | https://github.com/justalghamdi/PE-Miner | 2 | 0| 
+| 20220829T12:34:20Z | A Discord exploit that lags every voice channel in a server using a stupidly simple method. | https://github.com/0x44F/dcom-discord-lag-vc | 0 | 0| 
 | 20220829T12:14:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 490 | 139| 
 | 20220829T11:57:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3902 | 590| 
 | 20220829T11:40:41Z | Null | https://github.com/romanrakhlin/opensea-exploit | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20220829T10:09:37Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 126 | 135| 
 | 20220829T09:06:03Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 7 | 0| 
 | 20220829T06:59:31Z | i will keep the solutions for every CTF problem  in the picoCTF / Web Exploitation / | https://github.com/SAISUJAYDUDALA/picoCTF-Web-Exploitation- | 0 | 0| 
-| 20220829T02:04:39Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 605 | 73| 
 
 
 # backdoor on Github 推荐
