@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220829T01:51:32Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1279 | 309| 
 | 20220829T01:46:33Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20220829T01:45:15Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hy | 1 | 0| 
 | 20220829T01:44:26Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-hy | 1 | 0| 
-| 20220829T01:41:47Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1278 | 309| 
 | 20220829T00:34:45Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-Dropper | 0 | 0| 
 | 20220829T00:30:11Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 0 | 0| 
 | 20220829T00:29:45Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-FUD | 0 | 0| 
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T01:41:42Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 32 | 0| 
+| 20220829T01:50:27Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 33 | 0| 
 | 20220828T23:38:22Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 977 | 109| 
 | 20220828T23:05:34Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
 | 20220828T22:12:42Z | Fuzzy test dictionary 模糊测试字典 | https://github.com/moekylin/FuzzDict | 0 | 0| 
