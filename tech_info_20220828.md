@@ -83,10 +83,10 @@
 | 20220828T22:12:42Z | Fuzzy test dictionary 模糊测试字典 | https://github.com/moekylin/FuzzDict | 0 | 0| 
 | 20220828T22:03:44Z | table cheat | https://github.com/Vivek-cy/fuzzy-octo-eureka | 0 | 0| 
 | 20220828T21:36:17Z | Fuzzy and MA-POCA: AIs that play games - CM3070 | https://github.com/ChrisCastelo/fuzzy_vs_poca | 0 | 0| 
+| 20220828T19:59:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2794 | 326| 
 | 20220828T19:00:00Z | Null | https://github.com/tclasen/fuzzy-octo-fiesta | 0 | 0| 
 | 20220828T11:25:59Z | Null | https://github.com/Thomasb69/fuzzy-engine | 0 | 0| 
 | 20220828T11:25:20Z | Lab 4 for 32004 | https://github.com/Makanana28/fuzzy-lab4 | 0 | 0| 
-| 20220828T10:24:06Z | NFT project | https://github.com/ChandelleArgente/fuzzy-train | 0 | 0| 
 
 
 
