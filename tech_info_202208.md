@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T00:30:49Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-Dropper | 0 | 0| 
+| 20220829T00:34:45Z | Null | https://github.com/0x414141414/Silent-XLL-Exploit-Dropper | 0 | 0| 
 | 20220829T00:30:11Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 0 | 0| 
 | 20220829T00:29:45Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-FUD | 0 | 0| 
 | 20220829T00:29:19Z | Null | https://github.com/0x414141414/Silent-Word-Exploit | 0 | 0| 
