@@ -53,7 +53,7 @@
 | 20220829T12:45:02Z | Code Cave Finder And Injector | https://github.com/justalghamdi/PE-Miner | 3 | 0| 
 | 20220829T12:34:20Z | A Discord exploit that lags every voice channel in a server using a stupidly simple method. | https://github.com/0x44F/dcom-discord-lag-vc | 0 | 0| 
 | 20220829T12:14:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 490 | 139| 
-| 20220829T11:57:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3902 | 590| 
+| 20220829T11:57:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3902 | 591| 
 | 20220829T11:40:41Z | Null | https://github.com/romanrakhlin/opensea-exploit | 0 | 0| 
 | 20220829T11:25:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1293 | 315| 
 | 20220829T10:44:01Z | OneClick Exploit use Private | https://github.com/TruePredator/EternalBlueForiOS | 0 | 0| 
