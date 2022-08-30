@@ -16,6 +16,7 @@
 | 20220829 | 利用 Unified Automation 工控组件 OPC UA Server SDK 两个漏洞实现 RCE | https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/| 
 | 20220829 | VSCode Git Clone URL handler 被发现参数注入漏洞 | http://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/| 
 | 20220829 | ATT&CK中的攻与防——T1059 | http://tttang.com/archive/1718/| 
+| 20220829 | 通过动态链接库绕过反病毒软件 Hook - Break JVM | http://paper.seebug.org/1953/| 
 | 20220827 | Unix 传奇人物Brian Kernighan 80岁的他还在不断进行修复 AWK 代码 | https://arstechnica.com/gadgets/2022/08/unix-legend-who-owes-us-nothing-keeps-fixing-foundational-awk-code/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social| 
 | 20220826 | Linux 内核远程利用方法和技巧，来自 HITB 会议 | https://conference.hitb.org/hitbsecconf2022sin/materials/D1T1%20-%20Erybody%20Gettin%20TIPC%20-%20Demystifying%20Remote%20Linux%20Kernel%20Exploitation%20-%20Sam%20Page.pdf| 
 | 20220826 | Ghidrathon - 为 Ghidra 提供 Python3 扩展支持 | https://www.mandiant.com/resources/blog/ghidrathon-snaking-ghidra-python-3-scripting| 
@@ -25,7 +26,6 @@
 | 20220826 | Paranoid - 在项目中检测加密、签名组件是否存在已知漏洞的工具库 | https://security.googleblog.com/2022/08/announcing-open-sourcing-of-paranoids.html| 
 | 20220826 | Pwn2Own 比赛利用第二个 Prototype Pollution 实现 Render 进程的逃逸 | https://www.zerodayinitiative.com/blog/2022/8/23/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-2| 
 | 20220826 | Bypassing AppLocker by abusing HashInfo | https://shells.systems/post-bypassing-applocker-by-abusing-hashinfo/| 
-| 20220826 | 基于 Windows System Calls Trace 的威胁检测 | http://marcoramilli.com/2022/08/23/windows-system-calls-for-hunters/| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220829T17:19:40Z | CVE-2021-25804 | Null | https://github.com/DShankle/VLC_CVE-2021-25804_Analysis | | 
+| 20220829T15:34:05Z | CVE-2021-36260 | Null | https://github.com/TakenoSite/Simple-CVE-2021-36260 | | 
+| 20220829T14:33:40Z | CVE-2020-9715 | Adobe Acrobat Reader UAF vulnerability Exploit code | https://github.com/WonjunChun/CVE-2020-9715 | | 
+| 20220829T13:40:45Z | CVE-2020-1472 | ZeroLogon exploitation script,One-click recovery of domain controller machine Hash | https://github.com/lele8/CVE-2020-1472 | | 
 | 20220829T11:29:46Z | CVE-2022-36200 | CVE-2022-36200 PoC | https://github.com/afaq1337/CVE-2022-36200 | | 
 | 20220829T09:56:53Z | CVE-2022-38766 | PoC for vulnerability in Renault ZOE Keyless System(CVE-2022-38766) | https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766 | | 
 | 20220829T08:48:38Z | CVE-2022-33891 | Apache Spark RCE - CVE-2022-33891 | https://github.com/Vulnmachines/Apache-spark-CVE-2022-33891 | | 
 | 20220829T06:55:25Z | CVE-2021-34527 | PrintNightmare (CVE-2021-34527) PoC Exploit | https://github.com/m8sec/CVE-2021-34527 | | 
 | 20220829T06:44:04Z | cve-2022-24637 | Based on https://devel0pment.de/?p=2494 | https://github.com/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce | | 
-| 20220829T03:07:56Z | CVE-2020-1472 | ZeroLogon exploitation script,One-click recovery of domain controller machine Hash | https://github.com/lele8/CVE-2020-1472 | | 
 | 20220828T21:45:50Z | CVE-2022-27255 | Simple checker for CVE-2022-27255 using poc_crash and telnet availability | https://github.com/stryker-project/CVE-2022-27255-checker | | 
-| 20220828T15:02:38Z | CVE-2022-27925 | Python Script to exploit Zimbra Auth Bypass + RCE (CVE-2022-27925) | https://github.com/Chocapikk/CVE-2022-27925-Revshell | | 
-| 20220828T14:44:47Z | CVE-2022-0492 | CVE-2022-0492-Container-Escape | https://github.com/yoeelingBin/CVE-2022-0492-Container-Escape | | 
-| 20220828T14:42:50Z | CVE-2022-37177 | CVE-2022-37177 - HireVue-Broken-Or-Risky-Cryptographic-Algorithm | https://github.com/JC175/CVE-2022-37177 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T06:46:34Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 77 | 7| 
+| 20220829T06:46:34Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 77 | 8| 
 | 20220828T15:31:00Z | KHC keystone project -  Classifying Wikipedia | https://github.com/ktllee/klee_keystone | 0 | 0| 
 | 20220827T15:34:43Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 35 | 1| 
 | 20220827T06:35:35Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 63 | 1| 
@@ -86,37 +86,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T00:22:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4830 | 666| 
+| 20220829T23:24:04Z | A simple library to easily exploit the PokeAPI. | https://github.com/Tykok/PokeAPI-Kotlin | 0 | 0| 
+| 20220829T22:53:01Z | The most 31337 low-level All-in-one shellcode exploitation framework you will ever need. | https://github.com/9xN/sh311.v | 0 | 0| 
+| 20220829T22:14:40Z | Notes regarding tips and tricks for CTF, exploitation, and privesc | https://github.com/Calebsw99/CTF | 0 | 0| 
+| 20220829T21:45:30Z | message @saafsslaaf on telegram for live demo | https://github.com/Dressc00de/Word-exploit-2022 | 0 | 0| 
+| 20220829T20:22:04Z | Simple exploit fixer for minecraft anarchy servers | https://github.com/SomeBoringNerd/Exploitfixer | 0 | 0| 
+| 20220829T15:15:58Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 300 | 209| 
+| 20220829T14:29:45Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2616 | 406| 
+| 20220829T14:22:27Z | This repository collects the results of the observability analysis of 26822 NEAs for the exploitation of Line-of-Sight navigation. The NEAs nodal passages in the decade 2023-2033 are analyzed by mean of a Figure-of-Merit which is used to rank mission scenarios based on the quality of the planets observables geometry. | https://github.com/stphano/NEAs-ranking | 0 | 0| 
 | 20220829T12:46:35Z | Null | https://github.com/Saiyato/exploits | 0 | 0| 
-| 20220829T12:45:02Z | Code Cave Finder And Injector | https://github.com/justalghamdi/PE-Miner | 3 | 0| 
-| 20220829T12:34:20Z | A Discord exploit that lags every voice channel in a server using a stupidly simple method. | https://github.com/0x44F/dcom-discord-lag-vc | 0 | 0| 
-| 20220829T12:14:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 490 | 139| 
-| 20220829T11:57:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3902 | 591| 
-| 20220829T11:40:41Z | Null | https://github.com/romanrakhlin/opensea-exploit | 0 | 0| 
-| 20220829T11:25:46Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1293 | 315| 
-| 20220829T10:44:01Z | OneClick Exploit use Private | https://github.com/TruePredator/EternalBlueForiOS | 0 | 0| 
-| 20220829T10:09:37Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 126 | 135| 
-| 20220829T09:06:03Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 7 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T12:51:58Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 304 | 30| 
+| 20220829T23:55:02Z | A simple Powershell Reverse Backdoor | https://github.com/Drew-Alleman/powershell-backdoor | 0 | 0| 
+| 20220829T23:46:40Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 0 | 0| 
+| 20220829T20:35:12Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 307 | 31| 
+| 20220829T18:33:06Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 547 | 109| 
+| 20220829T13:05:57Z | Null | https://github.com/brayden1337/backdoor | 0 | 0| 
 | 20220828T16:22:38Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 13 | 6| 
 | 20220827T16:04:10Z | Create automatically backdoors, for CTF. | https://github.com/Eneru/AutoBackdoorCTF | 0 | 0| 
 | 20220827T15:20:46Z | A Windows Backdoor | https://github.com/nemzyxt/WinDoor | 0 | 0| 
 | 20220827T10:45:08Z | A basic emulation of an %RPC Backdoor% | https://github.com/eladshamir/RPC-Backdoor | 130 | 25| 
 | 20220827T02:20:41Z | Exemplo de um malware backdoor para fins didáticos | https://github.com/matheusmalt/backdoor-simples | 0 | 0| 
-| 20220826T23:27:30Z | Python RCE Shell | https://github.com/s3rgeym/rc35h | 0 | 0| 
-| 20220826T23:25:22Z | Command-line tool for backdoor exploitation. | https://github.com/s3rgeym/backshell | 6 | 3| 
-| 20220826T18:34:28Z | Backdoor Reverse-shell, TCP, Python 3.x. Developed by @xp4xbox Lasagne module fixed by @Kwls1dev | https://github.com/Kwls1dev/Backdoor-Fixed | 0 | 0| 
-| 20220826T10:28:09Z | A simple C code shellcode | https://github.com/Pig-Tail/minimal-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220829T07:21:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3066 | 433| 
+| 20220829T19:17:15Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 6 | 0| 
+| 20220829T17:29:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3068 | 433| 
 | 20220829T04:34:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 43 | 23| 
 | 20220828T19:35:26Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 131 | 12| 
 | 20220826T09:24:55Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 478 | 26| 
@@ -125,7 +126,6 @@
 | 20220823T11:40:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
 | 20220823T07:53:08Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 286 | 21| 
 | 20220821T20:50:06Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 42| 
-| 20220820T19:29:41Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 12 | 2| 
 
 
 # big4 on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T00:21:49Z | This is a demonstration repo. | https://github.com/seneubauer/fuzzy-palm-tree | 0 | 0| 
+| 20220829T23:30:09Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 40 | 0| 
+| 20220829T21:00:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 983 | 109| 
+| 20220829T18:17:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7732 | 1671| 
+| 20220829T16:37:28Z | Mini OD/Fuzz files | https://github.com/marksescon/themini | 0 | 1| 
+| 20220829T15:36:53Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 56 | 18| 
 | 20220829T12:27:57Z | Null | https://github.com/LucifersUncle/fuzzy-fiesta | 0 | 0| 
-| 20220829T11:54:46Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 981 | 109| 
 | 20220829T11:54:05Z | tools for CI-fuzzing automation | https://github.com/gardatech/bugbane | 14 | 0| 
 | 20220829T11:25:25Z | A data-flow guided fuzzer | https://github.com/adrianherrera/datAFLow | 19 | 3| 
 | 20220829T10:58:37Z | Simple Fuzzer written in Python | https://github.com/eastrd/dumbfuzz | 1 | 0| 
-| 20220829T10:55:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7731 | 1671| 
-| 20220829T10:42:28Z | Null | https://github.com/nmraqisa/fuzzy | 0 | 0| 
-| 20220829T09:30:20Z | Fuzzzapp - web app for musicians / next.js | https://github.com/BartYan/FUZZZAPP | 0 | 0| 
-| 20220829T08:47:44Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 27 | 3| 
-| 20220829T04:53:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4308 | 1041| 
 
 
 
