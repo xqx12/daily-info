@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T12:46:43Z | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | 6 | 0| 
 | 20220830T12:39:00Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1329 | 321| 
 | 20220830T12:20:57Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 129 | 136| 
 | 20220830T12:18:52Z | This project was developed with one thing in mind, demonstrate how an attacker can exploit XSS to steal sessions from cookies/localstorage. | https://github.com/EHBLANKS/XSS_session_stealer | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220830T09:34:11Z | Static Map Generation from 3D LiDAR Point Clouds Exploiting Ground Segmentation | https://github.com/PRBonn/dynamic-point-removal | 5 | 0| 
 | 20220830T09:23:24Z | An utility mod for various GUI exploits | https://github.com/OriSpirit/InvGui | 0 | 0| 
 | 20220830T09:18:15Z | A penetration tester’s guide for Nextcloud exploit and penetration testing  | https://github.com/kh4sh3i/Nextcloud-penetration-testing | 0 | 0| 
-| 20220830T08:59:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3910 | 594| 
 
 
 # backdoor on Github 推荐
