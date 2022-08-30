@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220830T00:22:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4830 | 666| 
+| 20220830T01:34:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4830 | 666| 
 | 20220829T23:24:04Z | A simple library to easily exploit the PokeAPI. | https://github.com/Tykok/PokeAPI-Kotlin | 0 | 0| 
 | 20220829T22:53:01Z | The most 31337 low-level All-in-one shellcode exploitation framework you will ever need. | https://github.com/9xN/sh311.v | 0 | 0| 
 | 20220829T22:14:40Z | Notes regarding tips and tricks for CTF, exploitation, and privesc | https://github.com/Calebsw99/CTF | 0 | 0| 
