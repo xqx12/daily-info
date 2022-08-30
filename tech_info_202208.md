@@ -16,6 +16,7 @@
 | 20220830 | PureCrypter Loader 持续活跃，已经传播了 10 多个其它家族 | https://blog.netlab.360.com/purecrypter/| 
 | 20220830 | ZDI 将在今年 12 月份在加拿大多伦多举办 Pwn2Own 比赛，攻击目标包括多款手机和 IoT 设备 | https://www.zerodayinitiative.com/blog/2022/8/29/announcing-pwn2own-toronto-2022-and-introducing-the-soho-smashup| 
 | 20220830 | 5 款总下载量超过 140 万的 Chrome 浏览器扩展被发现存在恶意 cookie 注入行为，攻击者通过该方法获取电商网站抽成 | https://sec.today/pulses/5ae79baa-ef85-4b01-a501-398874a2d89b/| 
+| 20220830 | 5 款总下载量超过 140 万的 Chrome 浏览器扩展被发现存在恶意 cookie 注入行为，攻击者通过该方法获取电商网站抽成 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/malicious-cookie-stuffing-chrome-extensions-with-1-4-million-users/| 
 | 20220829 | Matano - 基于 Apache Iceberg 等项目搭建的 PB 级 Security Lake 数据平台 | https://github.com/matanolabs/matano| 
 | 20220829 | GitHub Pages Build Pipeline 命令注入漏洞 | http://blog.nietaanraken.nl/posts/github-pages-command-injection/| 
 | 20220829 | Google 发起从训练模型中逆向还原出训练数据集的安全挑战 | https://github.com/google-research/lm-extraction-benchmark| 
@@ -25,7 +26,6 @@
 | 20220829 | Elevator - UAC Bypass by abusing RPC and debug objects | https://github.com/Kudaes/Elevator| 
 | 20220829 | 利用 Unified Automation 工控组件 OPC UA Server SDK 两个漏洞实现 RCE | https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/| 
 | 20220829 | VSCode Git Clone URL handler 被发现参数注入漏洞 | http://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/| 
-| 20220829 | ATT&CK中的攻与防——T1059 | http://tttang.com/archive/1718/| 
 
 
 # 安全维基 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220830T01:50:12Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-gh | 0 | 0| 
-| 20220830T01:49:24Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gh | 0 | 0| 
-| 20220830T01:48:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-gh | 0 | 0| 
-| 20220830T01:34:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4830 | 666| 
-| 20220829T23:24:04Z | A simple library to easily exploit the PokeAPI. | https://github.com/Tykok/PokeAPI-Kotlin | 0 | 0| 
-| 20220829T22:53:01Z | The most 31337 low-level All-in-one shellcode exploitation framework you will ever need. | https://github.com/9xN/sh311.v | 0 | 0| 
-| 20220829T22:14:40Z | Notes regarding tips and tricks for CTF, exploitation, and privesc | https://github.com/Calebsw99/CTF | 0 | 0| 
-| 20220829T21:45:30Z | message @saafsslaaf on telegram for live demo | https://github.com/Dressc00de/Word-exploit-2022 | 0 | 0| 
-| 20220829T20:22:04Z | Simple exploit fixer for minecraft anarchy servers | https://github.com/SomeBoringNerd/Exploitfixer | 0 | 0| 
-| 20220829T15:15:58Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 300 | 209| 
+| 20220830T11:13:49Z | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Exploit | 90 | 51| 
+| 20220830T10:40:28Z | Null | https://github.com/ujwal-dhakal/Exploiting-GDELT-for-Supply-chain-disruption-management | 0 | 0| 
+| 20220830T10:18:40Z | Blazingfast DDoS protection bypass vulnerability. | https://github.com/0x44F/blazingfast-bypass | 10 | 1| 
+| 20220830T09:34:11Z | Static Map Generation from 3D LiDAR Point Clouds Exploiting Ground Segmentation | https://github.com/PRBonn/dynamic-point-removal | 5 | 0| 
+| 20220830T09:23:24Z | An utility mod for various GUI exploits | https://github.com/OriSpirit/InvGui | 0 | 0| 
+| 20220830T09:18:15Z | A penetration tester’s guide for Nextcloud exploit and penetration testing  | https://github.com/kh4sh3i/Nextcloud-penetration-testing | 0 | 0| 
+| 20220830T09:07:44Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 128 | 136| 
+| 20220830T08:59:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3910 | 594| 
+| 20220830T07:58:39Z | Useful scripts in post-exploitation phase | https://github.com/d1ch0t0my-code/Post-exploitation-scripts | 0 | 0| 
+| 20220830T06:18:59Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 492 | 140| 
 
 
 # backdoor on Github 推荐
