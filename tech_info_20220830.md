@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T12:18:52Z | This project was developed with one thing in mind, demonstrate how an attacker can exploit XSS to steal sessions from cookies/localstorage. | https://github.com/EHBLANKS/XSS_session_stealer | 0 | 0| 
 | 20220830T11:13:49Z | A exploit I found in discord | https://github.com/TheonlyIcebear/Discord-Image-Exploit | 90 | 51| 
 | 20220830T10:40:28Z | Null | https://github.com/ujwal-dhakal/Exploiting-GDELT-for-Supply-chain-disruption-management | 0 | 0| 
 | 20220830T10:18:40Z | Blazingfast DDoS protection bypass vulnerability. | https://github.com/0x44F/blazingfast-bypass | 10 | 1| 
@@ -60,7 +61,6 @@
 | 20220830T09:07:44Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 128 | 136| 
 | 20220830T08:59:20Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3910 | 594| 
 | 20220830T07:58:39Z | Useful scripts in post-exploitation phase | https://github.com/d1ch0t0my-code/Post-exploitation-scripts | 0 | 0| 
-| 20220830T06:18:59Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 492 | 140| 
 
 
 # backdoor on Github 推荐
@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T12:17:36Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 66 | 5| 
 | 20220830T12:04:44Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 62 | 0| 
 | 20220830T11:50:22Z | This repository includes various projects on Fuzzy Logic Systems. | https://github.com/savvask977/Fuzzy_Systems | 0 | 0| 
 | 20220830T11:39:25Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2967 | 596| 
@@ -96,7 +97,6 @@
 | 20220830T10:57:50Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2802 | 327| 
 | 20220830T10:50:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4309 | 1041| 
 | 20220830T10:33:16Z | Fuzzing everything with fzf! | https://github.com/lanker/fuzzer | 0 | 0| 
-| 20220830T09:44:03Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 66 | 5| 
 | 20220830T09:40:54Z | A data-flow guided fuzzer | https://github.com/adrianherrera/datAFLow | 28 | 3| 
 | 20220830T09:34:27Z | Null | https://github.com/mahmoodjasim/Fuzzy-Gene-Selection | 0 | 0| 
 
