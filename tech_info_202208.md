@@ -86,6 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T01:50:12Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-gh | 0 | 0| 
+| 20220830T01:49:24Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gh | 0 | 0| 
+| 20220830T01:48:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-gh | 0 | 0| 
 | 20220830T01:34:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4830 | 666| 
 | 20220829T23:24:04Z | A simple library to easily exploit the PokeAPI. | https://github.com/Tykok/PokeAPI-Kotlin | 0 | 0| 
 | 20220829T22:53:01Z | The most 31337 low-level All-in-one shellcode exploitation framework you will ever need. | https://github.com/9xN/sh311.v | 0 | 0| 
@@ -93,9 +96,6 @@
 | 20220829T21:45:30Z | message @saafsslaaf on telegram for live demo | https://github.com/Dressc00de/Word-exploit-2022 | 0 | 0| 
 | 20220829T20:22:04Z | Simple exploit fixer for minecraft anarchy servers | https://github.com/SomeBoringNerd/Exploitfixer | 0 | 0| 
 | 20220829T15:15:58Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 300 | 209| 
-| 20220829T14:29:45Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2616 | 406| 
-| 20220829T14:22:27Z | This repository collects the results of the observability analysis of 26822 NEAs for the exploitation of Line-of-Sight navigation. The NEAs nodal passages in the decade 2023-2033 are analyzed by mean of a Figure-of-Merit which is used to rank mission scenarios based on the quality of the planets observables geometry. | https://github.com/stphano/NEAs-ranking | 0 | 0| 
-| 20220829T12:46:35Z | Null | https://github.com/Saiyato/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T01:45:19Z | Null | https://github.com/a-bi-ok/fuzzy-octo-broccoli | 0 | 0| 
 | 20220830T00:21:49Z | This is a demonstration repo. | https://github.com/seneubauer/fuzzy-palm-tree | 0 | 0| 
 | 20220829T23:30:09Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 40 | 0| 
 | 20220829T21:00:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 983 | 109| 
@@ -152,7 +153,6 @@
 | 20220829T12:27:57Z | Null | https://github.com/LucifersUncle/fuzzy-fiesta | 0 | 0| 
 | 20220829T11:54:05Z | tools for CI-fuzzing automation | https://github.com/gardatech/bugbane | 14 | 0| 
 | 20220829T11:25:25Z | A data-flow guided fuzzer | https://github.com/adrianherrera/datAFLow | 19 | 3| 
-| 20220829T10:58:37Z | Simple Fuzzer written in Python | https://github.com/eastrd/dumbfuzz | 1 | 0| 
 
 
 
