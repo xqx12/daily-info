@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T12:43:34Z | Библиотека алгоритмов нечеткого прогнозирования и поддержки принятия решений | https://github.com/Kotya2001/FuzzyOps | 0 | 0| 
 | 20220830T12:17:36Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 66 | 5| 
 | 20220830T12:04:44Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 62 | 0| 
 | 20220830T11:50:22Z | This repository includes various projects on Fuzzy Logic Systems. | https://github.com/savvask977/Fuzzy_Systems | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220830T10:50:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4309 | 1041| 
 | 20220830T10:33:16Z | Fuzzing everything with fzf! | https://github.com/lanker/fuzzer | 0 | 0| 
 | 20220830T09:40:54Z | A data-flow guided fuzzer | https://github.com/adrianherrera/datAFLow | 28 | 3| 
-| 20220830T09:34:27Z | Null | https://github.com/mahmoodjasim/Fuzzy-Gene-Selection | 0 | 0| 
 
 
 
