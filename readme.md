@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T12:04:44Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 62 | 0| 
 | 20220830T11:50:22Z | This repository includes various projects on Fuzzy Logic Systems. | https://github.com/savvask977/Fuzzy_Systems | 0 | 0| 
 | 20220830T11:39:25Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2967 | 596| 
 | 20220830T11:31:19Z | Null | https://github.com/saminzare/Fuzzy-Controller-for-Inverted-Pendulum | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20220830T09:44:03Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 66 | 5| 
 | 20220830T09:40:54Z | A data-flow guided fuzzer | https://github.com/adrianherrera/datAFLow | 28 | 3| 
 | 20220830T09:34:27Z | Null | https://github.com/mahmoodjasim/Fuzzy-Gene-Selection | 0 | 0| 
-| 20220830T09:15:17Z | Demo repository | https://github.com/barlanurizar/fuzzy-spoon | 0 | 0| 
 
 
 
