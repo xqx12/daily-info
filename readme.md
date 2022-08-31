@@ -19,6 +19,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220831 | 证券行业应用安全架构设计实践 | https://mp.weixin.qq.com/s/-iZxbfLgQZ-UbHCu7Aha4A| 
+| 20220831 | Windows域内横向渗透实例 | https://mp.weixin.qq.com/s/BJgFvET4VhCEw_ZNr5G6tg| 
 
 
 # CVE Github 推荐
@@ -33,6 +35,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220831T06:39:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2051 | 582| 
 
 
 # s2e on Github 推荐

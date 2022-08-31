@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220831 | 证券行业应用安全架构设计实践 | https://mp.weixin.qq.com/s/-iZxbfLgQZ-UbHCu7Aha4A| 
+| 20220831 | Windows域内横向渗透实例 | https://mp.weixin.qq.com/s/BJgFvET4VhCEw_ZNr5G6tg| 
 | 20220830 | SecWiki周刊（第443期) | https://www.sec-wiki.com/weekly/443| 
 | 20220829 | [HTB] Jeeves Writeup | https://mp.weixin.qq.com/s/bXNEpez3usz4owoVsS6OFA| 
 | 20220827 | Chrome沙箱绕过研究 | https://mp.weixin.qq.com/s/gqH0lqz1ey6IzT--UD9Jsg| 
@@ -39,8 +41,6 @@
 | 20220826 | 2022半年度反洗钱处罚信息汇总及分析 | https://mp.weixin.qq.com/s/tx50eeAsJIIk6yfDf1qgjw| 
 | 20220826 | Ruby安全漫谈 | https://mp.weixin.qq.com/s/ECLwMbbrf9lWXkhbUergXg| 
 | 20220826 | 如何开展蓝军工作与量化评估 | https://mp.weixin.qq.com/s/Zwa4wnKon-GYPb8ohb9miA| 
-| 20220826 | 匿名：《红队攻击安全配置》 | https://mp.weixin.qq.com/s/bK1Ku5y74kB4nKsL9kQjvQ| 
-| 20220825 | 如何对登录接口加密字段进行暴破？ | https://www.sec-in.com/article/1899| 
 
 
 # CVE Github 推荐
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220830T15:01:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
+| 20220831T06:39:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2051 | 582| 
 | 20220829T06:46:34Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 77 | 8| 
 | 20220828T15:31:00Z | KHC keystone project -  Classifying Wikipedia | https://github.com/ktllee/klee_keystone | 0 | 0| 
 | 20220827T15:34:43Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 35 | 1| 
