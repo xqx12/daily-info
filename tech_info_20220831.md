@@ -49,6 +49,7 @@
 | 20220831T11:51:30Z | Invadium runs exploit playbooks against vulnerable target applications in an intuitive, reproducible, and well-defined manner. | https://github.com/dynatrace-oss/invadium | 6 | 0| 
 | 20220831T11:24:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3924 | 595| 
 | 20220831T10:59:38Z | Null | https://github.com/zxzxz1/Exploit-Blacklist | 0 | 0| 
+| 20220831T10:20:40Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1370 | 328| 
 | 20220831T10:13:16Z | Golang tool to search exploits from exploitdb | https://github.com/krishpranav/exploitdb | 2 | 0| 
 | 20220831T08:35:59Z | PARADISE: Exploiting Parallel Data for Multilingual Sequence-to-Sequence Pretraining (NAACL 2022) | https://github.com/machelreid/paradise | 5 | 0| 
 | 20220831T06:55:57Z | Android RAT with web panel and fully undetectable App Suport android 12 | https://github.com/Jennahacker/zenna_rat | 0 | 0| 

@@ -89,13 +89,13 @@
 | 20220831T11:51:30Z | Invadium runs exploit playbooks against vulnerable target applications in an intuitive, reproducible, and well-defined manner. | https://github.com/dynatrace-oss/invadium | 6 | 0| 
 | 20220831T11:24:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3924 | 595| 
 | 20220831T10:59:38Z | Null | https://github.com/zxzxz1/Exploit-Blacklist | 0 | 0| 
+| 20220831T10:20:40Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1370 | 328| 
 | 20220831T10:13:16Z | Golang tool to search exploits from exploitdb | https://github.com/krishpranav/exploitdb | 2 | 0| 
 | 20220831T08:35:59Z | PARADISE: Exploiting Parallel Data for Multilingual Sequence-to-Sequence Pretraining (NAACL 2022) | https://github.com/machelreid/paradise | 5 | 0| 
 | 20220831T06:55:57Z | Android RAT with web panel and fully undetectable App Suport android 12 | https://github.com/Jennahacker/zenna_rat | 0 | 0| 
 | 20220831T06:03:34Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4628 | 1614| 
 | 20220831T01:58:30Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-N1 | 0 | 0| 
 | 20220830T23:02:37Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11933 | 2055| 
-| 20220830T22:10:11Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 374 | 40| 
 
 
 # backdoor on Github 推荐
