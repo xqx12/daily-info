@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220831T01:58:30Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-N1 | 0 | 0| 
 | 20220830T23:02:37Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11933 | 2055| 
 | 20220830T22:10:11Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 374 | 40| 
 | 20220830T22:10:07Z | The most sought after application in roblox exploiting history, Synapse v3. | https://github.com/P-DennyGamingYT/Synapse-Beta | 0 | 1| 
@@ -95,7 +96,6 @@
 | 20220830T18:57:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4830 | 669| 
 | 20220830T12:46:43Z | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | 6 | 0| 
 | 20220830T12:39:00Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1329 | 321| 
-| 20220830T12:20:57Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 129 | 136| 
 
 
 # backdoor on Github 推荐
