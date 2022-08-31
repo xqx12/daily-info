@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220831 | KDU - 利用从正常合法软件中提取的有漏洞的驱动实现内核级别的内存任意读写，继而实现禁用内核保护、进程劫持等目标 | https://github.com/hfiref0x/KDU| 
+| 20220831 | 基于 SDR 分析 NFC 协议的工具 | https://github.com/josevcm/nfc-laboratory| 
+| 20220831 | MATE - 一套程序分析交互工具，用于基于 CPG 在 C/C++ 代码中挖掘漏洞 | https://galois.com/blog/2022/08/mate-interactive-program-analysis-with-code-property-graphs/| 
+| 20220831 | 利用直接 SYSCALL 调用禁用 Control Flow Guard，绕过终端防护软件的检测 | http://icebreaker.team/blogs/sleeping-with-control-flow-guard/| 
+| 20220831 | Talos 对 ModernLoader RAT 远控工具的分析 | https://blog.talosintelligence.com/2022/08/modernloader-delivers-multiple-stealers.html| 
+| 20220831 | FortiClient VPN 客户端 SYSTEM 权限任意文件写漏洞分析（CVE-2022-26113） | https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/| 
+| 20220831 | Bootkitting Windows Sandbox | http://secret.club/2022/08/29/bootkitting-windows-sandbox.html| 
+| 20220831 | Google 针对其作为主要贡献者的开源项目发起漏洞奖励计划 | https://security.googleblog.com/2023/08/Announcing-Googles-Open-Source-Software-Vulnerability-Rewards-Program%20.html| 
 | 20220830 | jscythe - 滥用 node.js inspector 机制实现任意 JS 代码执行 | https://github.com/evilsocket/jscythe| 
 | 20220830 | CyberGeeks 对 Pegasus Android 平台样本的技术分析 | http://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/| 
 | 20220830 | Linux 内核 nft_object UAF（CVE-2022-2586）漏洞利用 | http://www.openwall.com/lists/oss-security/2022/08/29/5| 
@@ -18,14 +26,6 @@
 | 20220830 | 5 款总下载量超过 140 万的 Chrome 浏览器扩展被发现存在恶意 cookie 注入行为，攻击者通过该方法获取电商网站抽成 | https://sec.today/pulses/5ae79baa-ef85-4b01-a501-398874a2d89b/| 
 | 20220830 | 5 款总下载量超过 140 万的 Chrome 浏览器扩展被发现存在恶意 cookie 注入行为，攻击者通过该方法获取电商网站抽成 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/malicious-cookie-stuffing-chrome-extensions-with-1-4-million-users/| 
 | 20220830 | UAC 原理与检测 | https://tttang.com/archive/1715/| 
-| 20220829 | Matano - 基于 Apache Iceberg 等项目搭建的 PB 级 Security Lake 数据平台 | https://github.com/matanolabs/matano| 
-| 20220829 | GitHub Pages Build Pipeline 命令注入漏洞 | http://blog.nietaanraken.nl/posts/github-pages-command-injection/| 
-| 20220829 | Google 发起从训练模型中逆向还原出训练数据集的安全挑战 | https://github.com/google-research/lm-extraction-benchmark| 
-| 20220829 | Ubuntu 22.04 内核 UAF 漏洞的利用 | https://conference.hitb.org/hitbsecconf2022sin/materials/D1T1%20-%20Settlers%20of%20Netlink%20-%20Exploiting%20a%20Limited%20UAF%20on%20Ubuntu%2022.04%20to%20Achieve%20LPE%20-%20Aaron%20Adams.pdf| 
-| 20220829 | 理想汽车研究员 Hao Chen 对互联汽车 MCU Fuzz 的研究 | http://conference.hitb.org/hitbsecconf2022sin/materials/D1%20COMMSEC%20-%20Fuzzing%20the%20MCU%20of%20Connected%20Vehicles%20for%20Security%20and%20Safety%20-%20Hao%20Chen.pdf| 
-| 20220829 | FwHunt Scanner - 在 UEFI 固件中扫描漏洞的工具 | https://github.com/binarly-io/fwhunt-scan| 
-| 20220829 | Elevator - UAC Bypass by abusing RPC and debug objects | https://github.com/Kudaes/Elevator| 
-| 20220829 | 利用 Unified Automation 工控组件 OPC UA Server SDK 两个漏洞实现 RCE | https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220831T01:05:28Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
-| 20220830T18:02:46Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
+| 20220831T11:14:25Z | CVE-2021-36260 | Null | https://github.com/TakenoSite/RemoteUploader-CVE-2021-36260 | | 
+| 20220831T09:20:50Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
+| 20220831T08:16:54Z | CVE-2022-33891 | Apache Spark RCE - CVE-2022-33891 | https://github.com/Vulnmachines/Apache-spark-CVE-2022-33891 | | 
+| 20220831T06:51:11Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220830T11:50:17Z | CVE-2021-2109 | Oracle Weblogic RCE - CVE-2022-2109 | https://github.com/Vulnmachines/oracle-weblogic-CVE-2021-2109 | | 
 | 20220830T11:27:35Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
 | 20220830T10:08:07Z | CVE-2020-19587 | Null | https://github.com/Deepak983/CVE-2020-19587 | | 
 | 20220830T10:00:01Z | CVE-2020-19586 | Incorrect Access Control issue in Yellowfin Business Intelligence 7.3 allows remote attackers to escalate privilege via MIAdminStyles.i4 Admin UI | https://github.com/Deepak983/CVE-2020-19586 | | 
 | 20220830T08:40:08Z | CVE-2022-21449 | repo showcasing generating "psychic signatures for java" | https://github.com/davwwwx/CVE-2022-21449 | | 
 | 20220830T07:40:00Z | CVE-2022-36200 | CVE-2022-36200 PoC | https://github.com/afaq1337/CVE-2022-36200 | | 
-| 20220829T17:19:40Z | CVE-2021-25804 | Null | https://github.com/DShankle/VLC_CVE-2021-25804_Analysis | | 
-| 20220829T15:34:05Z | CVE-2021-36260 | Null | https://github.com/TakenoSite/Simple-CVE-2021-36260 | | 
 
 
 # klee on Github 推荐
@@ -77,7 +77,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220830T09:03:21Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 249 | 59| 
-| 20220824T10:30:57Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 67 | 8| 
+| 20220824T10:30:57Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 67 | 9| 
 | 20220821T06:33:53Z | Null | https://github.com/yoonej111/S2E | 0 | 0| 
 | 20220804T07:32:23Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 20 | 4| 
 | 20220801T08:00:06Z | Repository del progetto di test automatici per il partner BPB | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB | 0 | 0| 
@@ -86,38 +86,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220831T11:51:30Z | Invadium runs exploit playbooks against vulnerable target applications in an intuitive, reproducible, and well-defined manner. | https://github.com/dynatrace-oss/invadium | 6 | 0| 
+| 20220831T11:24:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3924 | 595| 
+| 20220831T10:59:38Z | Null | https://github.com/zxzxz1/Exploit-Blacklist | 0 | 0| 
+| 20220831T10:13:16Z | Golang tool to search exploits from exploitdb | https://github.com/krishpranav/exploitdb | 2 | 0| 
+| 20220831T08:35:59Z | PARADISE: Exploiting Parallel Data for Multilingual Sequence-to-Sequence Pretraining (NAACL 2022) | https://github.com/machelreid/paradise | 5 | 0| 
+| 20220831T06:55:57Z | Android RAT with web panel and fully undetectable App Suport android 12 | https://github.com/Jennahacker/zenna_rat | 0 | 0| 
+| 20220831T06:03:34Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4628 | 1614| 
 | 20220831T01:58:30Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-N1 | 0 | 0| 
 | 20220830T23:02:37Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11933 | 2055| 
 | 20220830T22:10:11Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 374 | 40| 
-| 20220830T22:10:07Z | The most sought after application in roblox exploiting history, Synapse v3. | https://github.com/P-DennyGamingYT/Synapse-Beta | 0 | 1| 
-| 20220830T21:43:44Z | As a Red Team security analyst I attacked a vulnerable VM within the environment, ultimately gaining root access to the machine. Next as a Blue Team analyst, I used Kibana to review logs taken during the time of my Red Team attack. I used the logs to extract hard data and visualizations for this report. Then, I interpreted the log data to suggest mitigation measures for each exploit that I successfully performed. | https://github.com/nvian74/Vian_RedVsBlue_Project | 0 | 0| 
-| 20220830T20:36:21Z | Null | https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory | 0 | 0| 
-| 20220830T20:04:37Z | The goal is to share several cheatsheets related to web and internal pentest, red team, blue team, binary exploitation or reverse engineering, OSINT... that I could learn. | https://github.com/0xLuks/SecurityStuff | 0 | 0| 
-| 20220830T18:57:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4830 | 669| 
-| 20220830T12:46:43Z | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | 6 | 0| 
-| 20220830T12:39:00Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1329 | 321| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220831T10:07:45Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 313 | 31| 
+| 20220831T09:53:40Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 14 | 6| 
+| 20220831T08:26:50Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 41 | 26| 
+| 20220831T04:09:27Z | a simple backdoor script with python with frontend | https://github.com/Noizrom/backdoor | 0 | 0| 
 | 20220831T01:20:43Z | A simple Powershell Reverse Backdoor | https://github.com/Drew-Alleman/powershell-backdoor | 0 | 0| 
-| 20220830T22:34:30Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 311 | 31| 
 | 20220830T21:43:19Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 6 | 2| 
-| 20220830T21:26:39Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 14 | 6| 
 | 20220830T20:31:49Z | Null | https://github.com/brayden1337/backdoor2 | 0 | 0| 
 | 20220830T19:13:16Z | Null | https://github.com/damjance-coding/backdoor | 0 | 0| 
 | 20220830T15:29:56Z | Null | https://github.com/lilweasle/backdooring | 0 | 0| 
-| 20220830T13:47:53Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 37 | 26| 
 | 20220830T13:33:48Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 171 | 46| 
-| 20220830T10:42:26Z | Null | https://github.com/GraceCcc/mia-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220831T06:39:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2051 | 582| 
 | 20220830T23:32:28Z | Library for common symbolic execution utilities | https://github.com/Veridise/lib-symexec | 0 | 0| 
-| 20220830T15:01:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
 | 20220830T11:20:35Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 288 | 21| 
 | 20220830T06:23:37Z | Created Symbolic Execution (SE) Engines for – Classical/Static SE, Selective SE (2 Versions), and Dynamic SE, with WLANG as the artifact; and applied them on real programs. Compared and analysed how each one fares against the other and where their specific utility may be applicable. | https://github.com/udityalaad/Explore_SymEx | 1 | 0| 
 | 20220830T03:19:09Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 479 | 26| 
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220831T11:28:50Z | fuzzy Qlearning for aubo i5 direct teach | https://github.com/Y1n9KC/fuzzy-RL | 0 | 0| 
+| 20220831T11:05:42Z | syzkaller infrastructure for CheriBSD fuzzing. | https://github.com/CTSRD-CHERI/syzkaller-infrastructure | 0 | 0| 
+| 20220831T10:46:35Z | The speed of a fan would be controlled with regards to the temperature and humidity | https://github.com/farboddavoodi/fuzzy-control-system | 0 | 0| 
+| 20220831T09:36:56Z | Null | https://github.com/Elyniss/fuzzy-fortnight | 0 | 0| 
+| 20220831T07:30:35Z | This project contains efforts made to complete an assignment issued during the zuri internship | https://github.com/Ddilibe/fuzzy-disco | 0 | 0| 
+| 20220831T07:20:25Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 825 | 172| 
 | 20220831T01:42:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2809 | 328| 
-| 20220830T23:11:22Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 823 | 172| 
+| 20220831T00:42:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4310 | 1041| 
 | 20220830T21:06:32Z | The automated software testing technique fuzzing has seen a golden age in the last decade, with widespread use in industry and academia. On the hunt to find vulnerabilities, fuzzing binaries are compiled with default compiler optimizations such as -O2, or -O3, which remain the hard-coded default in popular fuzzers such as AFL++. On a binary level, software compiled from the same source code may vastly differ in control flow depending on used compilation flags. In this work, we aim to analyze the impact of different compiler optimizations on the fuzzing process and provide further insight. We influence compilation passes of the clang/LLVM compiler and analyze their impact on the fuzzing performance of AFL++. We integrate our work into Fuzzbench, an open-source fuzzing pipeline, and run experiments on real-world benchmarks. Our preliminary fuzzing results indicate that there is a delicate trade-off between runtime performance and code complexity. While our results show significant differences on the scale of individual benchmarks, when summarizing across the whole bench suite, there is no evidence to suggest a statistical difference in fuzzing performance. | https://github.com/mattweingarten/compilerOptimzationsFuzzing | 0 | 0| 
 | 20220830T20:54:45Z | Null | https://github.com/April-fengjian/Chess_Game_with_GrammarFuzzer | 0 | 0| 
-| 20220830T20:37:49Z | small protocol fuzzer | https://github.com/Hanzo-Labs/pkt_fuzzer | 0 | 1| 
-| 20220830T20:36:01Z | Cancer Classification | https://github.com/mahmoodjasim/Fuzzy-Gene-Selection-Code | 0 | 0| 
-| 20220830T12:43:34Z | Библиотека алгоритмов нечеткого прогнозирования и поддержки принятия решений | https://github.com/Kotya2001/FuzzyOps | 0 | 0| 
-| 20220830T12:17:36Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 66 | 5| 
-| 20220830T12:04:44Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 62 | 0| 
-| 20220830T11:50:22Z | This repository includes various projects on Fuzzy Logic Systems. | https://github.com/savvask977/Fuzzy_Systems | 0 | 0| 
 
 
 
