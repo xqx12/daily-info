@@ -60,10 +60,10 @@
 | 20220830T21:43:44Z | As a Red Team security analyst I attacked a vulnerable VM within the environment, ultimately gaining root access to the machine. Next as a Blue Team analyst, I used Kibana to review logs taken during the time of my Red Team attack. I used the logs to extract hard data and visualizations for this report. Then, I interpreted the log data to suggest mitigation measures for each exploit that I successfully performed. | https://github.com/nvian74/Vian_RedVsBlue_Project | 0 | 0| 
 | 20220830T20:36:21Z | Null | https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory | 0 | 0| 
 | 20220830T20:04:37Z | The goal is to share several cheatsheets related to web and internal pentest, red team, blue team, binary exploitation or reverse engineering, OSINT... that I could learn. | https://github.com/0xLuks/SecurityStuff | 0 | 0| 
+| 20220830T18:57:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4830 | 669| 
 | 20220830T12:46:43Z | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | 6 | 0| 
 | 20220830T12:39:00Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1329 | 321| 
 | 20220830T12:20:57Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 129 | 136| 
-| 20220830T12:18:52Z | This project was developed with one thing in mind, demonstrate how an attacker can exploit XSS to steal sessions from cookies/localstorage. | https://github.com/EHBLANKS/XSS_session_stealer | 0 | 0| 
 
 
 # backdoor on Github 推荐
