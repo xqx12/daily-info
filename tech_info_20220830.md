@@ -17,6 +17,7 @@
 | 20220830 | ZDI 将在今年 12 月份在加拿大多伦多举办 Pwn2Own 比赛，攻击目标包括多款手机和 IoT 设备 | https://www.zerodayinitiative.com/blog/2022/8/29/announcing-pwn2own-toronto-2022-and-introducing-the-soho-smashup| 
 | 20220830 | 5 款总下载量超过 140 万的 Chrome 浏览器扩展被发现存在恶意 cookie 注入行为，攻击者通过该方法获取电商网站抽成 | https://sec.today/pulses/5ae79baa-ef85-4b01-a501-398874a2d89b/| 
 | 20220830 | 5 款总下载量超过 140 万的 Chrome 浏览器扩展被发现存在恶意 cookie 注入行为，攻击者通过该方法获取电商网站抽成 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/malicious-cookie-stuffing-chrome-extensions-with-1-4-million-users/| 
+| 20220830 | UAC 原理与检测 | https://tttang.com/archive/1715/| 
 
 
 # 安全维基 推荐
@@ -28,8 +29,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220830T22:12:29Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
+| 20220830T18:02:46Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220830T11:50:17Z | CVE-2021-2109 | Oracle Weblogic RCE - CVE-2022-2109 | https://github.com/Vulnmachines/oracle-weblogic-CVE-2021-2109 | | 
-| 20220830T11:50:17Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220830T11:27:35Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
 | 20220830T10:08:07Z | CVE-2020-19587 | Null | https://github.com/Deepak983/CVE-2020-19587 | | 
 | 20220830T10:00:01Z | CVE-2020-19586 | Incorrect Access Control issue in Yellowfin Business Intelligence 7.3 allows remote attackers to escalate privilege via MIAdminStyles.i4 Admin UI | https://github.com/Deepak983/CVE-2020-19586 | | 
@@ -40,6 +42,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T15:01:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2050 | 582| 
 
 
 # s2e on Github 推荐
@@ -66,11 +69,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T22:34:30Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 311 | 31| 
+| 20220830T21:43:19Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 6 | 2| 
+| 20220830T21:26:39Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 14 | 6| 
+| 20220830T20:31:49Z | Null | https://github.com/brayden1337/backdoor2 | 0 | 0| 
+| 20220830T19:13:16Z | Null | https://github.com/damjance-coding/backdoor | 0 | 0| 
+| 20220830T15:29:56Z | Null | https://github.com/lilweasle/backdooring | 0 | 0| 
+| 20220830T13:47:53Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 37 | 26| 
+| 20220830T13:33:48Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 171 | 46| 
 | 20220830T10:42:26Z | Null | https://github.com/GraceCcc/mia-backdoor | 0 | 0| 
 | 20220830T10:18:02Z | Null | https://github.com/nethunt10/ssh-backdoor | 0 | 0| 
-| 20220830T09:05:44Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 548 | 110| 
-| 20220830T08:30:10Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 36 | 26| 
-| 20220830T02:10:38Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 1 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -89,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220830T23:11:22Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 823 | 172| 
+| 20220830T21:06:32Z | The automated software testing technique fuzzing has seen a golden age in the last decade, with widespread use in industry and academia. On the hunt to find vulnerabilities, fuzzing binaries are compiled with default compiler optimizations such as -O2, or -O3, which remain the hard-coded default in popular fuzzers such as AFL++. On a binary level, software compiled from the same source code may vastly differ in control flow depending on used compilation flags. In this work, we aim to analyze the impact of different compiler optimizations on the fuzzing process and provide further insight. We influence compilation passes of the clang/LLVM compiler and analyze their impact on the fuzzing performance of AFL++. We integrate our work into Fuzzbench, an open-source fuzzing pipeline, and run experiments on real-world benchmarks. Our preliminary fuzzing results indicate that there is a delicate trade-off between runtime performance and code complexity. While our results show significant differences on the scale of individual benchmarks, when summarizing across the whole bench suite, there is no evidence to suggest a statistical difference in fuzzing performance. | https://github.com/mattweingarten/compilerOptimzationsFuzzing | 0 | 0| 
+| 20220830T20:54:45Z | Null | https://github.com/April-fengjian/Chess_Game_with_GrammarFuzzer | 0 | 0| 
+| 20220830T20:37:49Z | small protocol fuzzer | https://github.com/Hanzo-Labs/pkt_fuzzer | 0 | 1| 
+| 20220830T20:36:01Z | Cancer Classification | https://github.com/mahmoodjasim/Fuzzy-Gene-Selection-Code | 0 | 0| 
 | 20220830T12:43:34Z | Библиотека алгоритмов нечеткого прогнозирования и поддержки принятия решений | https://github.com/Kotya2001/FuzzyOps | 0 | 0| 
 | 20220830T12:17:36Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 66 | 5| 
 | 20220830T12:04:44Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 62 | 0| 
 | 20220830T11:50:22Z | This repository includes various projects on Fuzzy Logic Systems. | https://github.com/savvask977/Fuzzy_Systems | 0 | 0| 
 | 20220830T11:39:25Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2967 | 596| 
-| 20220830T11:31:19Z | Null | https://github.com/saminzare/Fuzzy-Controller-for-Inverted-Pendulum | 0 | 0| 
-| 20220830T10:57:50Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2802 | 327| 
-| 20220830T10:50:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4309 | 1041| 
-| 20220830T10:33:16Z | Fuzzing everything with fzf! | https://github.com/lanker/fuzzer | 0 | 0| 
-| 20220830T09:40:54Z | A data-flow guided fuzzer | https://github.com/adrianherrera/datAFLow | 28 | 3| 
 
 
 
