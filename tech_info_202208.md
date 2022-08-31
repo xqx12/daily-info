@@ -147,12 +147,12 @@
 | 20220831T11:05:42Z | syzkaller infrastructure for CheriBSD fuzzing. | https://github.com/CTSRD-CHERI/syzkaller-infrastructure | 0 | 0| 
 | 20220831T10:46:35Z | The speed of a fan would be controlled with regards to the temperature and humidity | https://github.com/farboddavoodi/fuzzy-control-system | 0 | 0| 
 | 20220831T09:36:56Z | Null | https://github.com/Elyniss/fuzzy-fortnight | 0 | 0| 
+| 20220831T09:29:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7735 | 1673| 
 | 20220831T07:30:35Z | This project contains efforts made to complete an assignment issued during the zuri internship | https://github.com/Ddilibe/fuzzy-disco | 0 | 0| 
 | 20220831T07:20:25Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 825 | 172| 
 | 20220831T01:42:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2809 | 328| 
 | 20220831T00:42:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4310 | 1041| 
 | 20220830T21:06:32Z | The automated software testing technique fuzzing has seen a golden age in the last decade, with widespread use in industry and academia. On the hunt to find vulnerabilities, fuzzing binaries are compiled with default compiler optimizations such as -O2, or -O3, which remain the hard-coded default in popular fuzzers such as AFL++. On a binary level, software compiled from the same source code may vastly differ in control flow depending on used compilation flags. In this work, we aim to analyze the impact of different compiler optimizations on the fuzzing process and provide further insight. We influence compilation passes of the clang/LLVM compiler and analyze their impact on the fuzzing performance of AFL++. We integrate our work into Fuzzbench, an open-source fuzzing pipeline, and run experiments on real-world benchmarks. Our preliminary fuzzing results indicate that there is a delicate trade-off between runtime performance and code complexity. While our results show significant differences on the scale of individual benchmarks, when summarizing across the whole bench suite, there is no evidence to suggest a statistical difference in fuzzing performance. | https://github.com/mattweingarten/compilerOptimzationsFuzzing | 0 | 0| 
-| 20220830T20:54:45Z | Null | https://github.com/April-fengjian/Chess_Game_with_GrammarFuzzer | 0 | 0| 
 
 
 

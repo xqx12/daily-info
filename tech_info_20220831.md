@@ -84,6 +84,7 @@
 | 20220831T11:05:42Z | syzkaller infrastructure for CheriBSD fuzzing. | https://github.com/CTSRD-CHERI/syzkaller-infrastructure | 0 | 0| 
 | 20220831T10:46:35Z | The speed of a fan would be controlled with regards to the temperature and humidity | https://github.com/farboddavoodi/fuzzy-control-system | 0 | 0| 
 | 20220831T09:36:56Z | Null | https://github.com/Elyniss/fuzzy-fortnight | 0 | 0| 
+| 20220831T09:29:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7735 | 1673| 
 | 20220831T07:30:35Z | This project contains efforts made to complete an assignment issued during the zuri internship | https://github.com/Ddilibe/fuzzy-disco | 0 | 0| 
 | 20220831T07:20:25Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 825 | 172| 
 | 20220831T01:42:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2809 | 328| 
