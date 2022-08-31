@@ -103,11 +103,11 @@
 | 20220830T20:54:45Z | Null | https://github.com/April-fengjian/Chess_Game_with_GrammarFuzzer | 0 | 0| 
 | 20220830T20:37:49Z | small protocol fuzzer | https://github.com/Hanzo-Labs/pkt_fuzzer | 0 | 1| 
 | 20220830T20:36:01Z | Cancer Classification | https://github.com/mahmoodjasim/Fuzzy-Gene-Selection-Code | 0 | 0| 
-| 20220830T16:16:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2808 | 328| 
 | 20220830T12:43:34Z | Библиотека алгоритмов нечеткого прогнозирования и поддержки принятия решений | https://github.com/Kotya2001/FuzzyOps | 0 | 0| 
 | 20220830T12:17:36Z | A data-flow-guided fuzzer | https://github.com/HexHive/datAFLow | 66 | 5| 
 | 20220830T12:04:44Z | Coverage-guided, in-process fuzzing for the Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 62 | 0| 
 | 20220830T11:50:22Z | This repository includes various projects on Fuzzy Logic Systems. | https://github.com/savvask977/Fuzzy_Systems | 0 | 0| 
+| 20220830T11:39:25Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 2967 | 596| 
 
 
 
