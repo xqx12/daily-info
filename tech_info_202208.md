@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220831T01:20:43Z | A simple Powershell Reverse Backdoor | https://github.com/Drew-Alleman/powershell-backdoor | 0 | 0| 
 | 20220830T22:34:30Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 311 | 31| 
 | 20220830T21:43:19Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 6 | 2| 
 | 20220830T21:26:39Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or .onion | https://github.com/yasserbdj96/hiphp | 14 | 6| 
@@ -110,7 +111,6 @@
 | 20220830T13:47:53Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 37 | 26| 
 | 20220830T13:33:48Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 171 | 46| 
 | 20220830T10:42:26Z | Null | https://github.com/GraceCcc/mia-backdoor | 0 | 0| 
-| 20220830T10:18:02Z | Null | https://github.com/nethunt10/ssh-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
