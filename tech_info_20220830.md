@@ -29,7 +29,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220830T22:12:29Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
 | 20220830T18:02:46Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 | 20220830T11:50:17Z | CVE-2021-2109 | Oracle Weblogic RCE - CVE-2022-2109 | https://github.com/Vulnmachines/oracle-weblogic-CVE-2021-2109 | | 
 | 20220830T11:27:35Z | CVE-2022-37042 | Zimbra CVE-2022-37042 Nuclei weaponized template | https://github.com/aels/CVE-2022-37042 | | 
