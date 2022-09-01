@@ -14,6 +14,7 @@
 | 20220831 | FortiClient VPN 客户端 SYSTEM 权限任意文件写漏洞分析（CVE-2022-26113） | https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/| 
 | 20220831 | Bootkitting Windows Sandbox | http://secret.club/2022/08/29/bootkitting-windows-sandbox.html| 
 | 20220831 | Google 针对其作为主要贡献者的开源项目发起漏洞奖励计划 | https://security.googleblog.com/2023/08/Announcing-Googles-Open-Source-Software-Vulnerability-Rewards-Program%20.html| 
+| 20220831 | 浅析路由器WEB服务架构 | http://tttang.com/archive/1719/| 
 
 
 # 安全维基 推荐
@@ -26,15 +27,18 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220831T17:36:05Z | CVE-2022-24124 | Casdoor是一个基于OAuth 2.0/OIDC 的中心化的单点登录（SSO）身份验证平台，此漏洞属于Sql注入漏洞，在查询API 存在与字段和值参数相关的SQL注入漏洞 | https://github.com/cukw/CVE-2022-24124_POC | | 
+| 20220831T15:23:09Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
+| 20220831T13:10:42Z | CVE-2021-36260 | Null | https://github.com/TakenoSite/Simple-CVE-2021-36260 | | 
 | 20220831T11:14:25Z | CVE-2021-36260 | Null | https://github.com/TakenoSite/RemoteUploader-CVE-2021-36260 | | 
 | 20220831T09:20:50Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
 | 20220831T08:16:54Z | CVE-2022-33891 | Apache Spark RCE - CVE-2022-33891 | https://github.com/Vulnmachines/Apache-spark-CVE-2022-33891 | | 
-| 20220831T06:51:11Z | cve-2022-27255 | Null | https://github.com/infobyte/cve-2022-27255 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220831T16:53:58Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 36 | 1| 
 | 20220831T06:39:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2051 | 582| 
 
 
@@ -46,23 +50,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220831T12:21:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1371 | 328| 
-| 20220831T11:51:30Z | Invadium runs exploit playbooks against vulnerable target applications in an intuitive, reproducible, and well-defined manner. | https://github.com/dynatrace-oss/invadium | 6 | 0| 
+| 20220831T23:24:51Z | Proof-of-concept exploit for the Dirty Pipe vulnerability (CVE-2022-0847) | https://github.com/notl0cal/dpipe | 0 | 0| 
+| 20220831T23:03:56Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1379 | 330| 
+| 20220831T21:55:00Z | Invadium runs exploit playbooks against vulnerable target applications in an intuitive, reproducible, and well-defined manner. | https://github.com/dynatrace-oss/invadium | 6 | 0| 
+| 20220831T21:53:59Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 162 | 39| 
+| 20220831T21:50:53Z | Exploitation & Other Techniques | https://github.com/Calvindd2f/Methodologies | 0 | 0| 
+| 20220831T21:43:52Z | Null | https://github.com/PlayboyPrime/exploit | 0 | 0| 
+| 20220831T20:55:57Z | Makes it so you can not walk or run in Roblox games. Simple little exploit script. | https://github.com/User319183/no_speed.lua | 0 | 0| 
+| 20220831T20:04:15Z | Post exploitation tool, which permit priv esc, keeping access and others | https://github.com/fxndone/Exploiter | 0 | 0| 
+| 20220831T13:16:30Z | Null | https://github.com/GoshaTeamProj/Roblox-Exploits | 0 | 0| 
 | 20220831T11:24:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3924 | 595| 
-| 20220831T10:59:38Z | Null | https://github.com/zxzxz1/Exploit-Blacklist | 0 | 0| 
-| 20220831T10:13:16Z | Golang tool to search exploits from exploitdb | https://github.com/krishpranav/exploitdb | 2 | 0| 
-| 20220831T08:35:59Z | PARADISE: Exploiting Parallel Data for Multilingual Sequence-to-Sequence Pretraining (NAACL 2022) | https://github.com/machelreid/paradise | 5 | 0| 
-| 20220831T06:55:57Z | Android RAT with web panel and fully undetectable App Suport android 12 | https://github.com/Jennahacker/zenna_rat | 0 | 0| 
-| 20220831T06:03:34Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4628 | 1614| 
-| 20220831T01:58:30Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-N1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220831T10:07:45Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 313 | 31| 
+| 20220831T23:26:24Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 43 | 27| 
+| 20220831T21:54:19Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 316 | 31| 
+| 20220831T19:45:08Z | Null | https://github.com/trhacknon/Mini-Shell-Backdoor | 0 | 0| 
+| 20220831T18:33:09Z | Python reverse backdoor tool | https://github.com/liboep/reverse-backdoor | 0 | 0| 
+| 20220831T17:04:03Z | Null | https://github.com/steriospydev/backdoor | 0 | 0| 
+| 20220831T15:22:43Z | Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process. | https://github.com/22XploiterCrew-Team/Wpushell | 7 | 3| 
+| 20220831T13:39:07Z | Backdoor script using python. | https://github.com/cmglmsr/Backdoor | 0 | 0| 
 | 20220831T09:53:40Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 14 | 6| 
-| 20220831T08:26:50Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 41 | 26| 
 | 20220831T04:09:27Z | a simple backdoor script with python with frontend | https://github.com/Noizrom/backdoor | 0 | 0| 
 | 20220831T01:20:43Z | A simple Powershell Reverse Backdoor | https://github.com/Drew-Alleman/powershell-backdoor | 0 | 0| 
 
@@ -81,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220831T23:52:28Z | Null | https://github.com/jaimexu8/Fuzzy-Typers | 1 | 0| 
+| 20220831T22:37:55Z | django tutorial | https://github.com/cashew-nut/fuzzy-telegram | 0 | 0| 
+| 20220831T22:10:17Z | for learning github | https://github.com/tv139192/fuzzy-enigma | 0 | 0| 
+| 20220831T22:07:56Z | Null | https://github.com/amal572/WaterControlSystemUsingFuzzyLogicwithTrendAnalysis_ResearchGate | 0 | 0| 
+| 20220831T21:53:41Z | Wordlists em PT-BR, desde nomes, sobrenomes, e em breve adicionaremos endpoints em português para fuzzing. Todas as informações foram extraídas de fontes públicas. | https://github.com/rodolfomarianocy/Wordlists-PT-BR | 0 | 1| 
+| 20220831T21:44:41Z | Null | https://github.com/amal572/Fuzzy_project | 0 | 0| 
+| 20220831T21:42:59Z | Null | https://github.com/YangChenyuan/NablaFuzz-torch-jax | 0 | 0| 
+| 20220831T21:06:37Z | This is an attempt to implement neuro-fuzzy system on keras | https://github.com/kenoma/KerasFuzzy | 17 | 5| 
+| 20220831T13:13:36Z | Null | https://github.com/MaxWeigert/fuzzyclara | 0 | 0| 
 | 20220831T11:41:19Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4814 | 495| 
-| 20220831T11:28:50Z | fuzzy Qlearning for aubo i5 direct teach | https://github.com/Y1n9KC/fuzzy-RL | 0 | 0| 
-| 20220831T11:05:42Z | syzkaller infrastructure for CheriBSD fuzzing. | https://github.com/CTSRD-CHERI/syzkaller-infrastructure | 0 | 0| 
-| 20220831T10:46:35Z | The speed of a fan would be controlled with regards to the temperature and humidity | https://github.com/farboddavoodi/fuzzy-control-system | 0 | 0| 
-| 20220831T09:36:56Z | Null | https://github.com/Elyniss/fuzzy-fortnight | 0 | 0| 
-| 20220831T09:29:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7735 | 1673| 
-| 20220831T07:30:35Z | This project contains efforts made to complete an assignment issued during the zuri internship | https://github.com/Ddilibe/fuzzy-disco | 0 | 0| 
-| 20220831T07:20:25Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 825 | 172| 
-| 20220831T01:42:28Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2809 | 328| 
-| 20220831T00:42:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4310 | 1041| 
 
 
 
