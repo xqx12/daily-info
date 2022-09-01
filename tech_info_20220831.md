@@ -94,7 +94,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220831T23:52:28Z | Null | https://github.com/jaimexu8/Fuzzy-Typers | 1 | 0| 
 | 20220831T22:37:55Z | django tutorial | https://github.com/cashew-nut/fuzzy-telegram | 0 | 0| 
-| 20220831T22:37:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 41398 | 20780| 
 | 20220831T22:10:17Z | for learning github | https://github.com/tv139192/fuzzy-enigma | 0 | 0| 
 | 20220831T22:07:56Z | Null | https://github.com/amal572/WaterControlSystemUsingFuzzyLogicwithTrendAnalysis_ResearchGate | 0 | 0| 
 | 20220831T21:53:41Z | Wordlists em PT-BR, desde nomes, sobrenomes, e em breve adicionaremos endpoints em português para fuzzing. Todas as informações foram extraídas de fontes públicas. | https://github.com/rodolfomarianocy/Wordlists-PT-BR | 0 | 1| 
@@ -102,6 +101,7 @@
 | 20220831T21:42:59Z | Null | https://github.com/YangChenyuan/NablaFuzz-torch-jax | 0 | 0| 
 | 20220831T21:06:37Z | This is an attempt to implement neuro-fuzzy system on keras | https://github.com/kenoma/KerasFuzzy | 17 | 5| 
 | 20220831T13:23:34Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1270 | 96| 
+| 20220831T13:13:36Z | Null | https://github.com/MaxWeigert/fuzzyclara | 0 | 0| 
 
 
 
