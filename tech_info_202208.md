@@ -89,13 +89,13 @@
 | 20220831T23:24:51Z | Proof-of-concept exploit for the Dirty Pipe vulnerability (CVE-2022-0847) | https://github.com/notl0cal/dpipe | 0 | 0| 
 | 20220831T23:03:56Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1379 | 330| 
 | 20220831T21:55:00Z | Invadium runs exploit playbooks against vulnerable target applications in an intuitive, reproducible, and well-defined manner. | https://github.com/dynatrace-oss/invadium | 6 | 0| 
-| 20220831T21:53:59Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 162 | 39| 
 | 20220831T21:50:53Z | Exploitation & Other Techniques | https://github.com/Calvindd2f/Methodologies | 0 | 0| 
 | 20220831T21:43:52Z | Null | https://github.com/PlayboyPrime/exploit | 0 | 0| 
 | 20220831T20:55:57Z | Makes it so you can not walk or run in Roblox games. Simple little exploit script. | https://github.com/User319183/no_speed.lua | 0 | 0| 
 | 20220831T20:04:15Z | Post exploitation tool, which permit priv esc, keeping access and others | https://github.com/fxndone/Exploiter | 0 | 0| 
 | 20220831T13:16:30Z | Null | https://github.com/GoshaTeamProj/Roblox-Exploits | 0 | 0| 
 | 20220831T11:24:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 3924 | 595| 
+| 20220831T10:59:38Z | Null | https://github.com/zxzxz1/Exploit-Blacklist | 0 | 0| 
 
 
 # backdoor on Github 推荐
