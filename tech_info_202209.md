@@ -17,11 +17,30 @@
 | 20220907 | 有攻击组织对中非和西非法语区的金融机构发起代号 DangerousSavanna 的攻击行动 | http://research.checkpoint.com/2022/dangeroussavanna-two-year-long-campaign-targets-financial-institutions-in-french-speaking-africa/| 
 | 20220907 | Windows NFS 文件系统协议远程 SYSTEM 权限 RCE 漏洞分析（CVE-2022-34715） | https://sec.today/pulses/90da31e6-ad3f-472c-9b46-a11c78f2ffbc/| 
 | 20220907 | Windows NFS 文件系统协议远程 SYSTEM 权限 RCE 漏洞分析（CVE-2022-34715） | http://www.thezdi.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution| 
+| 20220906 | Simple IBM i (AS/400) hacking | http://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/| 
+| 20220906 | 后渗透阶段解密 ManageEngine Password Manager Pro 保存的密码 | http://www.shielder.com/blog/2022/09/how-to-decrypt-manage-engine-pmp-passwords-for-fun-and-domain-admin-a-red-teaming-tale/| 
+| 20220906 | 基于 Large Language Models 实现的代码补全机制在自动化漏洞修复方向的研究 | https://arxiv.org/abs/2112.02125| 
+| 20220906 | pfsense 的 pfBlockerNG 插件被发现 unauth RCE 漏洞 | http://www.ihteam.net/advisory/pfblockerng-unauth-rce-vulnerability/| 
+| 20220906 | Windows Cache Manager 内存缓存机制研究 | https://www.linkedin.com/pulse/inside-windows-cache-manager-artem-baranov| 
+| 20220906 | 手机平台的生物认证技术以及对应的 Bypass 研究 | http://securitycafe.ro/2022/09/05/mobile-pentesting-101-bypassing-biometric-authentication/| 
+| 20220906 | FUSE-T - macOS 平台不依赖内核扩展实现的 FUSE 文件系统 | https://www.fuse-t.org/| 
+| 20220906 | 替换 go 的 text/template 文本模板，防护注入漏洞 | https://github.com/google/safetext| 
+| 20220906 | macOS 新版本日志系统 Unified Logs 的实现分析 | https://www.mandiant.com/resources/blog/reviewing-macos-unified-logs| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220906 | [HTB] Chatterbox Writeup | https://mp.weixin.qq.com/s/UG7J5k_B7ECMal3T3v_v9A| 
+| 20220906 | OPSWAT 2022 年恶意软件分析调查报告 | https://mp.weixin.qq.com/s/j3svmn0grpjM-QOgaYXvUg| 
+| 20220905 | 内网渗透一周目小结 | https://www.sec-in.com/article/1896| 
+| 20220905 | SecWiki周刊（第444期) | https://www.sec-wiki.com/weekly/444| 
+| 20220905 | 基于AI算法的数据库异常监测系统的设计与实现 | https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html| 
+| 20220905 | 利用Nginx、Tyk Gateway API和CloudFlare防火墙隐藏C2设施 | https://xz.aliyun.com/t/11662| 
+| 20220902 | 2022上半年网络安全漏洞态势观察 | http://www.itsec.gov.cn/zxxw/202209/P020220902118368141314.pdf| 
+| 20220901 | 6种方法探测Cisco设备版本 | https://mp.weixin.qq.com/s/L6WWJIHMaoz7Ot8IoDlg-A| 
+| 20220901 | 商业银行安全纵深防御体系探索与实践 | https://mp.weixin.qq.com/s/wwqlQ62f1f_Vju7hmcqbTQ| 
+| 20220901 | 安全防御体系建设 | https://mp.weixin.qq.com/s/2sfIhibIVTghRk723x5eog| 
 
 
 # CVE Github 推荐
@@ -36,6 +55,7 @@
 | 20220907T03:15:33Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 | 20220907T02:07:43Z | cve-2021-34527 | CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation | https://github.com/hackerhouse-opensource/cve-2021-34527 | | 
 | 20220907T01:56:58Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/veritas501/CVE-2022-2639-PipeVersion | | 
+| 20220906T20:40:16Z | CVE-2022-27925 | Null | https://github.com/mohamedbenchikh/CVE-2022-27925 | | 
 
 
 # klee on Github 推荐
@@ -47,11 +67,15 @@
 | 20220907T09:53:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2054 | 586| 
 | 20220907T08:59:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7907 | 270| 
 | 20220907T04:25:01Z | Null | https://github.com/crcady/klee-utils | 0 | 0| 
+| 20220906T21:36:29Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 38 | 1| 
+| 20220902T17:21:53Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 182 | 29| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220902T02:41:24Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 250 | 59| 
+| 20220902T01:28:17Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 68 | 9| 
 
 
 # exploit on Github 推荐
@@ -80,6 +104,8 @@
 | 20220907T06:44:47Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 25 | 3| 
 | 20220907T05:23:55Z | Null | https://github.com/juliogarciape/backdoor-python | 0 | 0| 
 | 20220907T04:15:55Z | This is not my code but it is a nice memory of my childhood  | https://github.com/juliogarciape/backdoor-perl | 0 | 0| 
+| 20220906T19:18:52Z | Backdoor your favorite Minecraft Server with this Mod! | https://github.com/AcidOP/Sacred-Book | 1 | 0| 
+| 20220906T16:30:00Z | Python reverse shell - backdoor tool | https://github.com/liboep/reverse-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -91,11 +117,17 @@
 | 20220907T03:09:29Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 482 | 26| 
 | 20220907T01:10:00Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 14 | 2| 
 | 20220907T00:35:21Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 20 | 4| 
+| 20220905T02:46:49Z | SymLoc: Unleashing the Power of Symbolic Memory Locations in Symbolic Execution (Under Review) | https://github.com/AnonyGiit/SymLoc | 0 | 0| 
+| 20220902T22:41:36Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 44 | 23| 
+| 20220902T19:02:45Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 290 | 21| 
+| 20220902T09:57:11Z | ISA automatic test generator using the isla symbolic execution tool | https://github.com/rems-project/isla-testgen | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220903T03:16:37Z | This is the repository for D-Box paper presented at NDSS 2022 Symposium | https://github.com/RiS3-Lab/D-Box | 1 | 0| 
+| 20220901T18:17:09Z | PlanFuzz is a novel dynamic testing tool for discovering semantic DoS vulnerability in AD behavioral planning (NDSS 2022) | https://github.com/ASGuard-UCI/PlanFuzz | 11 | 1| 
 
 
 # fuzz on Github 推荐
