@@ -29,7 +29,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220907T23:47:49Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
 | 20220907T20:58:29Z | cve-2021-34527 | CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation | https://github.com/hackerhouse-opensource/cve-2021-34527 | | 
 | 20220907T17:07:48Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/avboy1337/CVE-2022-2639-PipeVersion | | 
 | 20220907T16:01:24Z | CVE-2022-36539 | Insecure Permissions WeDayCare | https://github.com/Fopje/CVE-2022-36539 | | 
