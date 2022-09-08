@@ -54,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220908T11:54:36Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 151 | 18| 
+| 20220908T12:04:15Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 152 | 18| 
 | 20220908T11:17:26Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | 1 | 0| 
 | 20220908T10:03:43Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1466 | 355| 
 | 20220908T10:00:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4031 | 611| 
