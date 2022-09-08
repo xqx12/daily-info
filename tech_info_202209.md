@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220908 | SyzScope - 自动化评估 Bug 安全影响的工具（Paper） | https://github.com/plummm/SyzScope| 
+| 20220908 | Mandiant 对伊朗 APT42 攻击组织的分析报告 | https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises| 
+| 20220908 | Go 语言社区将通过 govulncheck 和漏洞库实现对代码仓库的漏洞检测和漏洞管理 | https://go.dev/blog/vuln| 
+| 20220908 | Flipper Zero NFC file loader 硬件 Hacking 设备被发现一个溢出漏洞 | http://vvx7.io/posts/2022/09/your-amiibos-haunted/| 
+| 20220908 | NCC 对 QUIC 协议设计及实现的安全分析报告 | http://research.nccgroup.com/2022/09/05/constant-time-data-processing-at-a-secret-offset-privacy-and-quic/| 
+| 20220908 | Bypass Windows Sysmon 的攻击检测 | https://codewhitesec.blogspot.com/2022/09/attacks-on-sysmon-revisited-sysmonente.html| 
+| 20220908 | Bypass AMSI in local process hooking NtCreateSection | https://waawaa.github.io/es/amsi_bypass-hooking-NtCreateSection/| 
+| 20220908 | Groovy 模板引擎受限 RCE 环境的利用 | http://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/| 
+| 20220908 | SharkFest 21 Wireshark 会议的视频，其中有很多网络协议安全相关的议题内容 | https://www.youtube.com/playlist?list=PLz_ZpPUgiXqPcQWL3uRIq81ONbO28Pbb3| 
 | 20220907 | 从安全的角度看 Windows IPC Internals 之 Named Pipes | http://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html| 
 | 20220907 | winapiexec - 命令行方式直接调用 win32 API 的工具 | https://github.com/m417z/winapiexec| 
 | 20220907 | WordPress Core Unauthenticated Blind SSRF | https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/| 
@@ -17,20 +26,12 @@
 | 20220907 | 有攻击组织对中非和西非法语区的金融机构发起代号 DangerousSavanna 的攻击行动 | http://research.checkpoint.com/2022/dangeroussavanna-two-year-long-campaign-targets-financial-institutions-in-french-speaking-africa/| 
 | 20220907 | Windows NFS 文件系统协议远程 SYSTEM 权限 RCE 漏洞分析（CVE-2022-34715） | https://sec.today/pulses/90da31e6-ad3f-472c-9b46-a11c78f2ffbc/| 
 | 20220907 | Windows NFS 文件系统协议远程 SYSTEM 权限 RCE 漏洞分析（CVE-2022-34715） | http://www.thezdi.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution| 
-| 20220907 | James Webb JPEG With Malware | http://i5c.us/d29010| 
-| 20220906 | Simple IBM i (AS/400) hacking | http://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/| 
-| 20220906 | 后渗透阶段解密 ManageEngine Password Manager Pro 保存的密码 | http://www.shielder.com/blog/2022/09/how-to-decrypt-manage-engine-pmp-passwords-for-fun-and-domain-admin-a-red-teaming-tale/| 
-| 20220906 | 基于 Large Language Models 实现的代码补全机制在自动化漏洞修复方向的研究 | https://arxiv.org/abs/2112.02125| 
-| 20220906 | pfsense 的 pfBlockerNG 插件被发现 unauth RCE 漏洞 | http://www.ihteam.net/advisory/pfblockerng-unauth-rce-vulnerability/| 
-| 20220906 | Windows Cache Manager 内存缓存机制研究 | https://www.linkedin.com/pulse/inside-windows-cache-manager-artem-baranov| 
-| 20220906 | 手机平台的生物认证技术以及对应的 Bypass 研究 | http://securitycafe.ro/2022/09/05/mobile-pentesting-101-bypassing-biometric-authentication/| 
-| 20220906 | FUSE-T - macOS 平台不依赖内核扩展实现的 FUSE 文件系统 | https://www.fuse-t.org/| 
-| 20220906 | 替换 go 的 text/template 文本模板，防护注入漏洞 | https://github.com/google/safetext| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220908 | 存储桶学习与漏洞挖掘 | https://mp.weixin.qq.com/s/BDNv0Wal31nQMcobXwFK-w| 
 | 20220907 | B站流式传输架构的前世今生 | https://mp.weixin.qq.com/s/NawxeiP-_DFpyoekRrzlLQ| 
 | 20220906 | [HTB] Chatterbox Writeup | https://mp.weixin.qq.com/s/UG7J5k_B7ECMal3T3v_v9A| 
 | 20220906 | OPSWAT 2022 年恶意软件分析调查报告 | https://mp.weixin.qq.com/s/j3svmn0grpjM-QOgaYXvUg| 
@@ -40,29 +41,29 @@
 | 20220905 | 利用Nginx、Tyk Gateway API和CloudFlare防火墙隐藏C2设施 | https://xz.aliyun.com/t/11662| 
 | 20220902 | 2022上半年网络安全漏洞态势观察 | http://www.itsec.gov.cn/zxxw/202209/P020220902118368141314.pdf| 
 | 20220901 | 6种方法探测Cisco设备版本 | https://mp.weixin.qq.com/s/L6WWJIHMaoz7Ot8IoDlg-A| 
-| 20220901 | 商业银行安全纵深防御体系探索与实践 | https://mp.weixin.qq.com/s/wwqlQ62f1f_Vju7hmcqbTQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220908T11:07:41Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
+| 20220908T11:06:23Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
+| 20220908T10:54:45Z | CVE-2022-20126 | Null | https://github.com/Trinadh465/packages_apps_Bluetooth_AOSP10_r33_CVE-2022-20126 | | 
+| 20220908T09:12:06Z | CVE-2020-25478 | ASUS RT-AC87U TFTP is vulnerable to Denial of Service(DoS) attack | https://github.com/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack | | 
+| 20220908T09:11:25Z | CVE-2021-38314 | CVE-2021-38314 Python Exploit | https://github.com/akhilkoradiya/CVE-2021-38314 | | 
+| 20220908T08:23:49Z | cve-2021-34527 | CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation | https://github.com/hackerhouse-opensource/cve-2021-34527 | | 
+| 20220908T07:00:50Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
+| 20220908T06:59:22Z | CVE-2021-39674 | Null | https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674 | | 
 | 20220908T01:53:15Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/avboy1337/CVE-2022-2639-PipeVersion | | 
 | 20220908T01:47:37Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
-| 20220908T01:10:10Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
-| 20220908T00:23:02Z | CVE-2021-44228 | This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices. | https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation | | 
-| 20220907T20:58:29Z | cve-2021-34527 | CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation | https://github.com/hackerhouse-opensource/cve-2021-34527 | | 
-| 20220907T16:01:24Z | CVE-2022-36539 | Insecure Permissions WeDayCare | https://github.com/Fopje/CVE-2022-36539 | | 
-| 20220907T12:36:09Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
-| 20220907T11:46:30Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
-| 20220907T11:09:59Z | CVE-2021-3129 | CVE-2021-3129 POC | https://github.com/shadowabi/Laravel-CVE-2021-3129 | | 
-| 20220907T10:04:46Z | CVE-2022-29455 | Wordpress Vulnerability - XSS ( Cross-Site Scripting ) | https://github.com/akhilkoradiya/CVE-2022-29455 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220908T00:13:14Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 87 | 9| 
-| 20220908T00:06:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7916 | 270| 
+| 20220908T11:32:19Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 89 | 9| 
+| 20220908T11:21:16Z | Null | https://github.com/kleenex1/kleenex1.github.io | 0 | 0| 
+| 20220908T10:18:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7920 | 270| 
 | 20220907T20:32:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2055 | 586| 
 | 20220907T18:01:42Z | A REST framework built with Django to accept and store user input on a react app as well as performing user authentication/authorization. | https://github.com/0luwaseyi/Kleenr-backend | 0 | 0| 
 | 20220907T17:21:00Z | Kleenr is a company%s web application that provides industrial and household cleaning, as well as laundry services to people. | https://github.com/0luwaseyi/Kleenr | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20220907T11:14:14Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 51 | 11| 
 | 20220907T04:25:01Z | Null | https://github.com/crcady/klee-utils | 0 | 0| 
 | 20220906T21:36:29Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 38 | 1| 
-| 20220902T17:21:53Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 182 | 29| 
 
 
 # s2e on Github 推荐
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220908T11:54:36Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 151 | 18| 
+| 20220908T11:17:26Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | 1 | 0| 
+| 20220908T10:03:43Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1466 | 355| 
+| 20220908T10:00:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4031 | 611| 
+| 20220908T09:11:25Z | CVE-2021-38314 Python Exploit | https://github.com/akhilkoradiya/CVE-2021-38314 | 0 | 0| 
+| 20220908T09:02:55Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3039 | 464| 
+| 20220908T07:01:23Z | Simple PoC of log4j vulnerability | https://github.com/Setvizan/log4jExploit | 1 | 1| 
 | 20220908T01:51:43Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2640 | 411| 
 | 20220908T01:47:55Z | jira-exploit-cve  | https://github.com/ellord0xd/-jira-exploits | 0 | 0| 
-| 20220908T01:33:27Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1461 | 354| 
 | 20220908T01:27:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7616 | 1773| 
-| 20220907T23:59:10Z | Pack de Exploits kon buena estetika para 9.00 espero ke os guste komo a mi haberlo desarrollado ^_* | https://github.com/Neluve/Nelusion9 | 2 | 1| 
-| 20220907T22:54:32Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-mp | 0 | 0| 
-| 20220907T22:53:38Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mp | 0 | 0| 
-| 20220907T22:52:48Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-mp | 0 | 0| 
-| 20220907T22:41:14Z | Null | https://github.com/rcvalle/project-exploit-mitigations | 0 | 0| 
-| 20220907T20:22:02Z | Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00/6.72 | https://github.com/upal212/Payload-Guest-With-Icons | 12 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220908T10:10:23Z | Backdoor that connects via socket. It has many functions. | https://github.com/utkayfirat/Cursed | 0 | 0| 
+| 20220908T09:02:07Z | The aim of this Github repository is to collect and summarise research works on backdoor attacks and defences on deep learning models. | https://github.com/KassemKallas/Backdoor-Attacks-in-DeepLearning | 2 | 0| 
+| 20220908T06:09:12Z | Null | https://github.com/phungbatam/BackDoorDemo | 0 | 0| 
+| 20220908T06:03:45Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 8 | 0| 
+| 20220908T05:53:29Z | Null | https://github.com/SCLBD/BackdoorBench | 47 | 6| 
+| 20220908T04:30:17Z | Interactive proof-of-concept of the Dual_EC_DRBG backdoor | https://github.com/dmhacker/dual-ec-drbg | 4 | 0| 
+| 20220908T02:22:41Z | Null | https://github.com/INT2ECALL/awesome-backdoor | 0 | 0| 
 | 20220908T00:11:24Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 118 | 30| 
 | 20220907T17:04:45Z | Null | https://github.com/kodabamf/backdoor- | 0 | 0| 
 | 20220907T16:34:57Z | Create multiple backdoors for Pfsense | https://github.com/magna-sec/NoSense | 0 | 0| 
-| 20220907T15:54:36Z | Python script to detect bidirectional control characters and homoglyphs. | https://github.com/radioli/invisible-backdoors | 0 | 0| 
-| 20220907T14:33:41Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 553 | 110| 
-| 20220907T14:30:29Z | Cloud is a backdooe for Minecraft. | https://github.com/NotFenixioFilix/CloudBackdoor | 0 | 0| 
-| 20220907T14:26:32Z | Implementation of paper %More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks% | https://github.com/xujing1994/bkd_fedgnn | 0 | 0| 
-| 20220907T12:05:10Z | The aim of this Github repository is to collect and summarise research works on backdoor attacks and defences on deep learning models. | https://github.com/KassemKallas/Backdoor-Attacks-in-DeepLearning | 1 | 0| 
-| 20220907T08:11:24Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 47 | 8| 
-| 20220907T07:02:49Z | AmLeLe Tcp Backdoor | https://github.com/amaitou/DarkSpy | 19 | 3| 
 
 
 # symbolic execution on Github 推荐
