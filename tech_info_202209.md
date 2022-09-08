@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220908 | 存储桶学习与漏洞挖掘 | https://mp.weixin.qq.com/s/BDNv0Wal31nQMcobXwFK-w| 
+| 20220908 | EasyPen: 图形化安全巡检与应急工具 | https://github.com/lijiejie/EasyPen| 
 | 20220907 | B站流式传输架构的前世今生 | https://mp.weixin.qq.com/s/NawxeiP-_DFpyoekRrzlLQ| 
 | 20220906 | [HTB] Chatterbox Writeup | https://mp.weixin.qq.com/s/UG7J5k_B7ECMal3T3v_v9A| 
 | 20220906 | OPSWAT 2022 年恶意软件分析调查报告 | https://mp.weixin.qq.com/s/j3svmn0grpjM-QOgaYXvUg| 
@@ -40,7 +41,6 @@
 | 20220905 | 基于AI算法的数据库异常监测系统的设计与实现 | https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html| 
 | 20220905 | 利用Nginx、Tyk Gateway API和CloudFlare防火墙隐藏C2设施 | https://xz.aliyun.com/t/11662| 
 | 20220902 | 2022上半年网络安全漏洞态势观察 | http://www.itsec.gov.cn/zxxw/202209/P020220902118368141314.pdf| 
-| 20220901 | 6种方法探测Cisco设备版本 | https://mp.weixin.qq.com/s/L6WWJIHMaoz7Ot8IoDlg-A| 
 
 
 # CVE Github 推荐

@@ -21,6 +21,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220908 | 存储桶学习与漏洞挖掘 | https://mp.weixin.qq.com/s/BDNv0Wal31nQMcobXwFK-w| 
+| 20220908 | EasyPen: 图形化安全巡检与应急工具 | https://github.com/lijiejie/EasyPen| 
 
 
 # CVE Github 推荐
