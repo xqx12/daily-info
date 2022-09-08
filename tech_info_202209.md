@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220908T01:52:18Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/avboy1337/CVE-2022-2639-PipeVersion | | 
+| 20220908T01:53:15Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/avboy1337/CVE-2022-2639-PipeVersion | | 
 | 20220908T01:47:37Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
 | 20220908T01:10:10Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
 | 20220908T00:23:02Z | CVE-2021-44228 | This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices. | https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation | | 
