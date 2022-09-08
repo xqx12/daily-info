@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220908T01:51:43Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2640 | 411| 
 | 20220908T01:47:55Z | jira-exploit-cve  | https://github.com/ellord0xd/-jira-exploits | 0 | 0| 
 | 20220908T01:33:27Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1461 | 354| 
 | 20220908T01:27:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7616 | 1773| 
@@ -91,7 +92,6 @@
 | 20220907T22:53:38Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mp | 0 | 0| 
 | 20220907T22:52:48Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-mp | 0 | 0| 
 | 20220907T22:41:14Z | Null | https://github.com/rcvalle/project-exploit-mitigations | 0 | 0| 
-| 20220907T22:04:51Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2639 | 411| 
 | 20220907T20:22:02Z | Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00/6.72 | https://github.com/upal212/Payload-Guest-With-Icons | 12 | 2| 
 
 

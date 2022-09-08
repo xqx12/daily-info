@@ -63,11 +63,11 @@
 | 20220907T22:53:38Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mp | 0 | 0| 
 | 20220907T22:52:48Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-mp | 0 | 0| 
 | 20220907T22:41:14Z | Null | https://github.com/rcvalle/project-exploit-mitigations | 0 | 0| 
-| 20220907T22:04:51Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2639 | 411| 
 | 20220907T20:22:02Z | Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00/6.72 | https://github.com/upal212/Payload-Guest-With-Icons | 12 | 2| 
 | 20220907T19:45:50Z | >> Only for Educational Purposes | https://github.com/9hb/server-exploiter | 2 | 1| 
 | 20220907T19:06:29Z | https://github.com/Anon-Exploiter/SiteBroker.git | https://github.com/knifeparty666/SiteBroker | 0 | 0| 
 | 20220907T15:05:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4853 | 672| 
+| 20220907T12:39:41Z | MW3 Server protocol exploit | https://github.com/diamante0018/MW3ProtocolExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
