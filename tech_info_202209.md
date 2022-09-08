@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220908T01:27:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7616 | 1773| 
 | 20220907T23:59:10Z | Pack de Exploits kon buena estetika para 9.00 espero ke os guste komo a mi haberlo desarrollado ^_* | https://github.com/Neluve/Nelusion9 | 2 | 1| 
 | 20220907T22:54:32Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-mp | 0 | 0| 
 | 20220907T22:53:38Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-mp | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220907T20:22:02Z | Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00/6.72 | https://github.com/upal212/Payload-Guest-With-Icons | 12 | 2| 
 | 20220907T19:45:50Z | >> Only for Educational Purposes | https://github.com/9hb/server-exploiter | 2 | 1| 
 | 20220907T19:06:29Z | https://github.com/Anon-Exploiter/SiteBroker.git | https://github.com/knifeparty666/SiteBroker | 0 | 0| 
-| 20220907T15:05:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4853 | 672| 
 
 
 # backdoor on Github 推荐
