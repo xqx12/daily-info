@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220908T01:14:22Z | Null | https://github.com/srafique98/Fuzzy-Search | 0 | 0| 
 | 20220908T00:46:08Z | Just to make fuzzing vim easier | https://github.com/Eli2k765/FuzzingVim | 0 | 0| 
 | 20220908T00:26:14Z | Null | https://github.com/takeover-master/fuzzy-octo-guacamole | 0 | 0| 
 | 20220908T00:19:57Z | This repo is aimed at testing: l3ns as a distributed system composer for csharp service in docker with visual studio debug connecting to rabbitmq broker with fuzzing on a single user windows node | https://github.com/OlegJakushkin/l3ns-csharp-rmq-fuzzing | 1 | 0| 
@@ -144,7 +145,6 @@
 | 20220907T20:20:58Z | Null | https://github.com/joseffaghihi/Causal-fuzzy-Transformers | 0 | 0| 
 | 20220907T20:15:18Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/tpierrain/Diverse | 18 | 4| 
 | 20220907T19:27:08Z | Null | https://github.com/ndrvanv/fuzzy-octo-disco | 0 | 0| 
-| 20220907T12:42:02Z | Fuzzy Cluster Means with Rust lang | https://github.com/yejun614/fuzzy-cluster-means | 0 | 0| 
 
 
 
