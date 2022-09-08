@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220908T12:04:15Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 152 | 18| 
-| 20220908T11:17:26Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | 1 | 0| 
+| 20220908T12:14:31Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 154 | 18| 
+| 20220908T12:12:19Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | 2 | 0| 
 | 20220908T10:03:43Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1466 | 355| 
 | 20220908T10:00:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4031 | 611| 
 | 20220908T09:11:25Z | CVE-2021-38314 Python Exploit | https://github.com/akhilkoradiya/CVE-2021-38314 | 0 | 0| 
@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220908T12:16:10Z | Null | https://github.com/glenn309/fuzzy-couscous | 0 | 0| 
 | 20220908T11:31:16Z | Pre Entrega 2 | https://github.com/FreeHelado/FuzzCream-Ferreira_PreEntrega2 | 0 | 0| 
 | 20220908T09:27:00Z | Esimese praksi katsetus | https://github.com/evalottalepp/fuzzy-octo-parakeet | 0 | 0| 
 | 20220908T08:44:56Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 827 | 172| 
@@ -144,7 +145,6 @@
 | 20220908T01:14:22Z | Null | https://github.com/srafique98/Fuzzy-Search | 0 | 0| 
 | 20220908T00:46:08Z | Just to make fuzzing vim easier | https://github.com/Eli2k765/FuzzingVim | 0 | 0| 
 | 20220908T00:26:14Z | Null | https://github.com/takeover-master/fuzzy-octo-guacamole | 0 | 0| 
-| 20220908T00:19:57Z | This repo is aimed at testing: l3ns as a distributed system composer for csharp service in docker with visual studio debug connecting to rabbitmq broker with fuzzing on a single user windows node | https://github.com/OlegJakushkin/l3ns-csharp-rmq-fuzzing | 1 | 0| 
 
 
 
