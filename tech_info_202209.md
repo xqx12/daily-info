@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220908T01:33:27Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1461 | 354| 
 | 20220908T01:27:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7616 | 1773| 
 | 20220907T23:59:10Z | Pack de Exploits kon buena estetika para 9.00 espero ke os guste komo a mi haberlo desarrollado ^_* | https://github.com/Neluve/Nelusion9 | 2 | 1| 
 | 20220907T22:54:32Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-mp | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220907T22:04:51Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2639 | 411| 
 | 20220907T20:22:02Z | Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00/6.72 | https://github.com/upal212/Payload-Guest-With-Icons | 12 | 2| 
 | 20220907T19:45:50Z | >> Only for Educational Purposes | https://github.com/9hb/server-exploiter | 2 | 1| 
-| 20220907T19:06:29Z | https://github.com/Anon-Exploiter/SiteBroker.git | https://github.com/knifeparty666/SiteBroker | 0 | 0| 
 
 
 # backdoor on Github 推荐
