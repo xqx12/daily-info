@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220908T01:47:37Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
 | 20220908T01:45:34Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/avboy1337/CVE-2022-2639-PipeVersion | | 
 | 20220908T01:10:10Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
 | 20220908T00:23:02Z | CVE-2021-44228 | This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices. | https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation | | 
@@ -55,7 +56,6 @@
 | 20220907T11:46:30Z | CVE-2022-0337 | 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337 | https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera | | 
 | 20220907T11:09:59Z | CVE-2021-3129 | CVE-2021-3129 POC | https://github.com/shadowabi/Laravel-CVE-2021-3129 | | 
 | 20220907T10:04:46Z | CVE-2022-29455 | Wordpress Vulnerability - XSS ( Cross-Site Scripting ) | https://github.com/akhilkoradiya/CVE-2022-29455 | | 
-| 20220907T03:15:33Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 
 
 # klee on Github 推荐
