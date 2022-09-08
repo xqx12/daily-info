@@ -22,6 +22,7 @@
 | --- | --- | ---| 
 | 20220908 | 存储桶学习与漏洞挖掘 | https://mp.weixin.qq.com/s/BDNv0Wal31nQMcobXwFK-w| 
 | 20220908 | EasyPen: 图形化安全巡检与应急工具 | https://github.com/lijiejie/EasyPen| 
+| 20220908 | appshark：自动化漏洞及隐私合规检测工具 | https://github.com/bytedance/appshark| 
 
 
 # CVE Github 推荐
