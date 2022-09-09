@@ -104,7 +104,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220908T23:41:36Z | A Fuzzy-System(specialist system) to do a pre-diagnostic of Major Depression Disorder. | https://github.com/Yuhigawa/fuzzy-system-depression | 0 | 0| 
-| 20220908T23:27:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7762 | 1683| 
 | 20220908T20:28:24Z | Clear your mind to write | https://github.com/wdickerson/fuzzy-words | 0 | 0| 
 | 20220908T20:21:18Z | Showcasing our C/C++ fuzzing capabilities | https://github.com/CodeIntelligenceTesting/c-cpp-demo | 0 | 0| 
 | 20220908T18:58:13Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 2013 | 490| 
@@ -113,6 +112,7 @@
 | 20220908T11:31:16Z | Pre Entrega 2 | https://github.com/FreeHelado/FuzzCream-Ferreira_PreEntrega2 | 0 | 0| 
 | 20220908T09:27:00Z | Esimese praksi katsetus | https://github.com/evalottalepp/fuzzy-octo-parakeet | 0 | 0| 
 | 20220908T08:44:56Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 827 | 172| 
+| 20220908T07:40:56Z | Null | https://github.com/Glimakra-Webbutvecklare-2022/fuzzy-guide | 0 | 0| 
 
 
 
