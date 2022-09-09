@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220909 | 利用 RPCMon 工具监控 Windows 容器的通信 | https://www.cyberark.com/resources/threat-research-blog/understanding-windows-containers-communication| 
+| 20220909 | Attacking Firecracker: AWS microVM Monitor Written in Rust | http://www.graplsecurity.com/post/attacking-firecracker| 
+| 20220909 | 用 Fuzzing 的方法发现非内存破坏漏洞 | https://security.googleblog.com/2022/09/fuzzing-beyond-memory-corruption.html| 
+| 20220909 | 利用 InfoRail 协议的漏洞攻击 Ivanti Avalanche MDM 软件 | http://www.thezdi.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2| 
+| 20220909 | Prototype Pollution Primer for Pentesters and Programmers | http://labs.withsecure.com/blog/prototype-pollution-primer-for-pentesters-and-programmers/| 
+| 20220909 | eBPF Uprobe 的实现以及如何逃逸 Uprobe 监控 | http://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html| 
+| 20220909 | Android 远控工具 Spymax 的功能和实现分析 | http://insinuator.net/2022/09/spymax-the-android-rat-and-it-works-like-that/| 
+| 20220909 | Pwn2Own Miami 2022 比赛 AVEVA Edge SCADA 软件代码执行漏洞的分析和利用 | http://sector7.computest.nl/post/2022-09-aveva-edge/| 
+| 20220909 | Xalan-J XSLT 处理器整数截断漏洞的利用(CVE-2022-34169) | http://noahblog.360.cn/xalan-j-integer-truncation-reproduce-cve-2022-34169/| 
 | 20220908 | SyzScope - 自动化评估 Bug 安全影响的工具（Paper） | https://github.com/plummm/SyzScope| 
 | 20220908 | Mandiant 对伊朗 APT42 攻击组织的分析报告 | https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises| 
 | 20220908 | Go 语言社区将通过 govulncheck 和漏洞库实现对代码仓库的漏洞检测和漏洞管理 | https://go.dev/blog/vuln| 
@@ -17,60 +26,51 @@
 | 20220908 | SharkFest 21 Wireshark 会议的视频，其中有很多网络协议安全相关的议题内容 | https://www.youtube.com/playlist?list=PLz_ZpPUgiXqPcQWL3uRIq81ONbO28Pbb3| 
 | 20220908 | 原生反序列化链 jdk8u20 的新构造 | https://tttang.com/archive/1729/| 
 | 20220908 | ZOHO ManageEngine OpManager 两个RCE | https://da22le.github.io/zoho-manageengine-opmanager-%E4%B8%A4%E4%B8%AArce/| 
-| 20220907 | 从安全的角度看 Windows IPC Internals 之 Named Pipes | http://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html| 
-| 20220907 | winapiexec - 命令行方式直接调用 win32 API 的工具 | https://github.com/m417z/winapiexec| 
-| 20220907 | WordPress Core Unauthenticated Blind SSRF | https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/| 
-| 20220907 | Google Play 应用市场再次被检测到 Sharkbot 的变种 | http://research.nccgroup.com/2022/09/06/sharkbot-is-back-in-google-play/| 
-| 20220907 | phpMyAdmin 4.8.1 旧 RCE 漏洞 CVE-2018-12613 的分析 | https://blog.securelayer7.net/vulnerability-analysis-of-phpmyadmin-remote-code-execution/| 
-| 20220907 | FourCore 对 Ryuk 勒索软件家族历史和发展过程的分析 | https://fourcore.io/blogs/ryuk-ransomware-simulation-mitre-ttp| 
-| 20220907 | 通过检测敏感命令执行的方法实现 EDR 后渗透检测 | http://blog.thinkst.com/2022/09/sensitive-command-token-so-much-offense.html| 
-| 20220907 | curl 工具的 TLS 指纹以及修改指纹绕过服务端的检测 | https://daniel.haxx.se/blog/2022/09/02/curls-tls-fingerprint/| 
-| 20220907 | 有攻击组织对中非和西非法语区的金融机构发起代号 DangerousSavanna 的攻击行动 | http://research.checkpoint.com/2022/dangeroussavanna-two-year-long-campaign-targets-financial-institutions-in-french-speaking-africa/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220909 | 内网渗透软件-BloodHound使用指南 | https://mp.weixin.qq.com/s/M2LQjojTc7tk7eL_vD2lgQ| 
+| 20220909 | 基于netfilter的后门 | https://mp.weixin.qq.com/s/UL7Rd56MtSB6If_Tu_2N7w| 
+| 20220909 | JAVA常用框架SQL注入审计 | https://tttang.com/archive/1726/| 
+| 20220909 | 国家级网络攻击能力象限漫谈 | https://mp.weixin.qq.com/s/l7QCBK01OCru1e3o4nL52w| 
 | 20220908 | 存储桶学习与漏洞挖掘 | https://mp.weixin.qq.com/s/BDNv0Wal31nQMcobXwFK-w| 
 | 20220908 | EasyPen: 图形化安全巡检与应急工具 | https://github.com/lijiejie/EasyPen| 
 | 20220908 | appshark：自动化漏洞及隐私合规检测工具 | https://github.com/bytedance/appshark| 
 | 20220908 | Govulncheck：Go语言供应链漏洞检测工具 | https://exexute.github.io/2022/09/08/Go-Native-SCA-Tool-For-Developer/| 
 | 20220907 | B站流式传输架构的前世今生 | https://mp.weixin.qq.com/s/NawxeiP-_DFpyoekRrzlLQ| 
 | 20220906 | [HTB] Chatterbox Writeup | https://mp.weixin.qq.com/s/UG7J5k_B7ECMal3T3v_v9A| 
-| 20220906 | OPSWAT 2022 年恶意软件分析调查报告 | https://mp.weixin.qq.com/s/j3svmn0grpjM-QOgaYXvUg| 
-| 20220905 | 内网渗透一周目小结 | https://www.sec-in.com/article/1896| 
-| 20220905 | SecWiki周刊（第444期) | https://www.sec-wiki.com/weekly/444| 
-| 20220905 | 基于AI算法的数据库异常监测系统的设计与实现 | https://tech.meituan.com/2022/09/01/database-monitoring-based-on-ai.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220909T10:36:59Z | CVE-2022-31188 | CVE-2022-31188 - OpenCV CVAT (Computer Vision Annotation Tool) SSRF | https://github.com/emirpolatt/CVE-2022-31188 | | 
+| 20220909T10:34:53Z | CVE-2022-36446 | CVE-2022-36446 - Webmin 1.996 Remote Code Execution | https://github.com/emirpolatt/CVE-2022-36446 | | 
+| 20220909T10:06:06Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
+| 20220909T07:35:33Z | CVE-2022-20360 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360 | | 
+| 20220909T07:27:16Z | CVE-2022-34265 | Null | https://github.com/coco0x0a/CTF_CVE-2022-34265 | | 
 | 20220909T01:58:03Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/hxlxmjxbbxs/CVE-2022-2639-PipeVersion | | 
 | 20220908T23:18:14Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
-| 20220908T21:37:57Z | CVE-2022-34265 | Null | https://github.com/coco0x0a/CTF_CVE-2022-34265 | | 
 | 20220908T20:12:53Z | cve-2021-34527 | CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation | https://github.com/hackerhouse-opensource/cve-2021-34527 | | 
 | 20220908T14:17:30Z | CVE-2022-20126 | Null | https://github.com/Trinadh465/packages_apps_Bluetooth_AOSP10_r33_CVE-2022-20126 | | 
 | 20220908T11:07:41Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
-| 20220908T11:06:23Z | cve-2022-33891 | Apache Spark Shell Command Injection Vulnerability | https://github.com/HuskyHacks/cve-2022-33891 | | 
-| 20220908T09:12:06Z | CVE-2020-25478 | ASUS RT-AC87U TFTP is vulnerable to Denial of Service(DoS) attack | https://github.com/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack | | 
-| 20220908T09:11:25Z | CVE-2021-38314 | CVE-2021-38314 Python Exploit | https://github.com/akhilkoradiya/CVE-2021-38314 | | 
-| 20220908T06:59:22Z | CVE-2021-39674 | Null | https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220909T01:51:30Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 94 | 9| 
-| 20220909T01:34:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7930 | 270| 
-| 20220908T19:02:57Z | Null | https://github.com/Jaklees/Jack-Klees-P1-main | 0 | 0| 
+| 20220909T11:16:23Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 107 | 10| 
+| 20220909T07:19:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7932 | 270| 
+| 20220909T04:57:03Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 70 | 1| 
+| 20220909T03:54:48Z | HTML/CSS/JS Frontend, Java Servlets & JDBC to connect to postgreSQL DB hosted on AWS RDS | https://github.com/Jaklees/Jack-Klees-P1-main | 0 | 0| 
 | 20220908T11:21:16Z | Null | https://github.com/kleenex1/kleenex1.github.io | 0 | 0| 
 | 20220907T20:32:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2055 | 586| 
 | 20220907T18:01:42Z | A REST framework built with Django to accept and store user input on a react app as well as performing user authentication/authorization. | https://github.com/0luwaseyi/Kleenr-backend | 0 | 0| 
 | 20220907T17:21:00Z | Kleenr is a company%s web application that provides industrial and household cleaning, as well as laundry services to people. | https://github.com/0luwaseyi/Kleenr | 0 | 0| 
 | 20220907T12:21:56Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 4 | 0| 
 | 20220907T11:14:14Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 51 | 11| 
-| 20220907T04:25:01Z | Null | https://github.com/crcady/klee-utils | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,27 +83,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T11:37:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4044 | 613| 
+| 20220909T11:29:57Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 243 | 29| 
+| 20220909T11:24:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4659 | 1624| 
+| 20220909T10:41:24Z | Repository provides vulnerable simple Smart Contracts and test files that demonstrates and exploit them | https://github.com/JakubKub13/Smart_Contract_Security_Minimum2 | 0 | 0| 
+| 20220909T09:26:25Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 629 | 73| 
+| 20220909T09:25:49Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1474 | 359| 
+| 20220909T08:05:36Z | This is the exploit to privescalation to /usr/bin/pip | https://github.com/dkb4rb/PipExploit | 1 | 0| 
+| 20220909T01:54:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3605 | 438| 
 | 20220909T01:17:02Z | Null | https://github.com/PlayboyPrime/exploit | 0 | 0| 
 | 20220909T00:34:51Z | PortSwigger Labs | https://github.com/H4shByte/Web-App-Exploit-Scripts | 0 | 0| 
-| 20220909T00:33:16Z | Network Exploitation Scanner - Freshman HS portscanner  | https://github.com/raging-loon/nxs | 0 | 0| 
-| 20220909T00:05:29Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-io | 1 | 0| 
-| 20220909T00:04:21Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-io | 1 | 0| 
-| 20220909T00:03:18Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-io | 1 | 0| 
-| 20220908T22:55:44Z | biLouvain with algorithmic extensions: Multi-fuse, Murata+ exploiting intra-type information. | https://github.com/paolapesantez/biLouvain | 10 | 3| 
-| 20220908T19:56:45Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1471 | 355| 
-| 20220908T18:50:47Z | Reinforcement learning (RL) is an effective method to find reasoning pathways in incomplete knowledge graphs (KGs). To overcome the challenges of sparse rewards and the explore-exploit dilemma, a self-supervised pretraining method is proposed to warm up the policy network before the RL training stage. The seeding paths used in the supervised pretraining stage are generated by searching the 3-hop neighborhoods of start entities in a subset of training facts. Our self-supervised RL (SSRL) method with partial labels combines the fast learning speed of RL and wide coverage of SL. We adopt two RL architectures, i.e., MINERVA and MultiHopKG as our baseline RL models and experimentally show that our SSRL model consistently outperforms both baselines on all Hits@k and mean reciprocal rank (MRR) metrics on four large benchmark KG datasets. We also show that our SSRL model (either SS-MINERVA or SS-MultiHopKG) meets or exceeds current state-of-the-art results for all of these KG reasoning tasks. | https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning | 0 | 0| 
-| 20220908T12:47:38Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 159 | 20| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T09:04:20Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 556 | 110| 
+| 20220909T07:15:03Z | The purpose of the project is for educational purposes. Backdoor that connects via socket. It has many functions. Hacking windows computer. | https://github.com/utkayfirat/Cursed | 0 | 0| 
 | 20220909T01:26:27Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1919 | 689| 
 | 20220908T20:43:06Z | Create multiple backdoors for Pfsense | https://github.com/magna-sec/NoSense | 0 | 0| 
-| 20220908T20:05:03Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 554 | 110| 
-| 20220908T15:24:54Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 9 | 0| 
+| 20220908T15:24:54Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 9 | 1| 
 | 20220908T13:51:50Z | Python ile Backdorr | https://github.com/El-Turkco/Backdoor | 0 | 0| 
-| 20220908T10:10:23Z | Backdoor that connects via socket. It has many functions. | https://github.com/utkayfirat/Cursed | 0 | 0| 
 | 20220908T09:02:07Z | The aim of this Github repository is to collect and summarise research works on backdoor attacks and defences on deep learning models. | https://github.com/KassemKallas/Backdoor-Attacks-in-DeepLearning | 2 | 0| 
 | 20220908T06:09:12Z | Null | https://github.com/phungbatam/BackDoorDemo | 0 | 0| 
 | 20220908T05:53:29Z | Null | https://github.com/SCLBD/BackdoorBench | 47 | 6| 
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220909T01:56:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7764 | 1683| 
+| 20220909T11:56:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7768 | 1683| 
+| 20220909T11:55:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4320 | 1044| 
+| 20220909T11:38:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 41568 | 20847| 
+| 20220909T11:28:41Z | Entrega Sass I | https://github.com/FreeHelado/FuzzCream-Ferreira | 0 | 0| 
+| 20220909T10:44:42Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2861 | 332| 
+| 20220909T10:27:29Z | Projects I create | https://github.com/mvel007/fuzzy-meme | 0 | 0| 
+| 20220909T10:10:41Z | A web fuzzer written in rust | https://github.com/liquidlegs/Outrageous_Soda | 0 | 0| 
+| 20220909T09:38:06Z | Fizz Fuzz Game  | https://github.com/nmanuvenugopal/Day-5---100-Days-of-Code | 0 | 0| 
+| 20220909T06:50:20Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1629 | 206| 
 | 20220908T23:41:36Z | A Fuzzy-System(specialist system) to do a pre-diagnostic of Major Depression Disorder. | https://github.com/Yuhigawa/fuzzy-system-depression | 0 | 0| 
-| 20220908T20:28:24Z | Clear your mind to write | https://github.com/wdickerson/fuzzy-words | 0 | 0| 
-| 20220908T20:21:18Z | Showcasing our C/C++ fuzzing capabilities | https://github.com/CodeIntelligenceTesting/c-cpp-demo | 0 | 0| 
-| 20220908T18:58:13Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 2013 | 490| 
-| 20220908T14:49:35Z | A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets | https://github.com/status-im/nim-drchaos | 52 | 1| 
-| 20220908T12:16:10Z | Null | https://github.com/glenn309/fuzzy-couscous | 0 | 0| 
-| 20220908T11:31:16Z | Pre Entrega 2 | https://github.com/FreeHelado/FuzzCream-Ferreira_PreEntrega2 | 0 | 0| 
-| 20220908T09:27:00Z | Esimese praksi katsetus | https://github.com/evalottalepp/fuzzy-octo-parakeet | 0 | 0| 
-| 20220908T08:44:56Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 827 | 172| 
 
 
 
