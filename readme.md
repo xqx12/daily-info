@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T12:44:37Z | Predicting the probability of an exploit being released after a CVE is published (by Machine learning algorithm) | https://github.com/wisoffe/exploits-predict | 0 | 0| 
 | 20220909T12:35:41Z | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | 0 | 0| 
 | 20220909T12:31:42Z | Simple site internet permettant l%échange en direct par écrit et par call vidéo à la manière de Zoom, exploitation de la faille WebRTC | https://github.com/yanssou/PERSO-chat-et-appel-video-webrtc | 0 | 0| 
 | 20220909T12:30:44Z | CVE-2022-40297 - Proof of Concept: Privilage escalation in Ubuntu Touch 16.04 - by PIN Bruteforce | https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc | 2 | 2| 
@@ -65,7 +66,6 @@
 | 20220909T12:06:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4045 | 613| 
 | 20220909T11:24:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4659 | 1624| 
 | 20220909T10:41:24Z | Repository provides vulnerable simple Smart Contracts and test files that demonstrates and exploit them | https://github.com/JakubKub13/Smart_Contract_Security_Minimum2 | 0 | 0| 
-| 20220909T09:26:25Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 629 | 73| 
 
 
 # backdoor on Github 推荐
