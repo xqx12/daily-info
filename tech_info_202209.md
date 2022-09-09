@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T12:20:55Z | Network Exploitation Scanner - Freshman HS portscanner  | https://github.com/raging-loon/nxs | 0 | 0| 
+| 20220909T12:17:58Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1475 | 359| 
 | 20220909T12:12:14Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 244 | 29| 
 | 20220909T12:06:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4045 | 613| 
 | 20220909T11:24:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4659 | 1624| 
 | 20220909T10:41:24Z | Repository provides vulnerable simple Smart Contracts and test files that demonstrates and exploit them | https://github.com/JakubKub13/Smart_Contract_Security_Minimum2 | 0 | 0| 
 | 20220909T09:26:25Z | AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically. | https://github.com/GamehunterKaan/AutoPWN-Suite | 629 | 73| 
-| 20220909T09:25:49Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1474 | 359| 
 | 20220909T08:05:36Z | This is the exploit to privescalation to /usr/bin/pip | https://github.com/dkb4rb/PipExploit | 1 | 0| 
 | 20220909T01:54:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3605 | 438| 
 | 20220909T01:17:02Z | Null | https://github.com/PlayboyPrime/exploit | 0 | 0| 
-| 20220909T00:34:51Z | PortSwigger Labs | https://github.com/H4shByte/Web-App-Exploit-Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
