@@ -90,13 +90,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220908T05:47:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3086 | 434| 
+| 20220908T20:19:23Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 7 | 0| 
+| 20220908T19:42:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3087 | 434| 
 | 20220908T00:46:11Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 483 | 26| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220908T18:13:57Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 9 | 2| 
+| 20220908T16:22:39Z | Public repo for Improving Signal%s Sealed Sender paper from NDSS 21 | https://github.com/timartiny/Improving-Signal-Sealed-Sender | 0 | 0| 
 
 
 # fuzz on Github 推荐
