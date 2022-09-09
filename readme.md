@@ -29,7 +29,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220909T12:31:56Z | CVE-2022-3168 | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | | 
+| 20220909T12:40:55Z | CVE-2022-20128 | Android Debug Bridge (adb) was vulnerable to directory traversal attacks that could have been mounted by rogue/compromised adb daemons during an adb pull operation. | https://github.com/irsl/CVE-2022-20128 | | 
+| 20220909T12:35:41Z | CVE-2022-3168 | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | | 
 | 20220909T10:36:59Z | CVE-2022-31188 | CVE-2022-31188 - OpenCV CVAT (Computer Vision Annotation Tool) SSRF | https://github.com/emirpolatt/CVE-2022-31188 | | 
 | 20220909T10:34:53Z | CVE-2022-36446 | CVE-2022-36446 - Webmin 1.996 Remote Code Execution | https://github.com/emirpolatt/CVE-2022-36446 | | 
 | 20220909T10:06:06Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
@@ -90,6 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T12:37:48Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1629 | 206| 
 | 20220909T11:56:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7768 | 1683| 
 | 20220909T11:55:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4320 | 1044| 
 | 20220909T11:38:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 41568 | 20847| 
@@ -98,7 +100,6 @@
 | 20220909T10:27:29Z | Projects I create | https://github.com/mvel007/fuzzy-meme | 0 | 0| 
 | 20220909T10:10:41Z | A web fuzzer written in rust | https://github.com/liquidlegs/Outrageous_Soda | 0 | 0| 
 | 20220909T09:38:06Z | Fizz Fuzz Game  | https://github.com/nmanuvenugopal/Day-5---100-Days-of-Code | 0 | 0| 
-| 20220909T06:50:20Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1629 | 206| 
 
 
 
