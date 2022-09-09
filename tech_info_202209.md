@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220909T01:58:03Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/hxlxmjxbbxs/CVE-2022-2639-PipeVersion | | 
 | 20220908T23:18:14Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
 | 20220908T21:37:57Z | CVE-2022-34265 | Null | https://github.com/coco0x0a/CTF_CVE-2022-34265 | | 
 | 20220908T20:12:53Z | cve-2021-34527 | CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation | https://github.com/hackerhouse-opensource/cve-2021-34527 | | 
@@ -55,7 +56,6 @@
 | 20220908T09:12:06Z | CVE-2020-25478 | ASUS RT-AC87U TFTP is vulnerable to Denial of Service(DoS) attack | https://github.com/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack | | 
 | 20220908T09:11:25Z | CVE-2021-38314 | CVE-2021-38314 Python Exploit | https://github.com/akhilkoradiya/CVE-2021-38314 | | 
 | 20220908T06:59:22Z | CVE-2021-39674 | Null | https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674 | | 
-| 20220908T01:53:15Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/avboy1337/CVE-2022-2639-PipeVersion | | 
 
 
 # klee on Github 推荐
@@ -137,7 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220909T00:46:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7763 | 1683| 
+| 20220909T01:56:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7764 | 1683| 
 | 20220908T23:41:36Z | A Fuzzy-System(specialist system) to do a pre-diagnostic of Major Depression Disorder. | https://github.com/Yuhigawa/fuzzy-system-depression | 0 | 0| 
 | 20220908T20:28:24Z | Clear your mind to write | https://github.com/wdickerson/fuzzy-words | 0 | 0| 
 | 20220908T20:21:18Z | Showcasing our C/C++ fuzzing capabilities | https://github.com/CodeIntelligenceTesting/c-cpp-demo | 0 | 0| 
