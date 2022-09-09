@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220909T11:37:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4044 | 613| 
+| 20220909T12:06:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4045 | 613| 
 | 20220909T11:29:57Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 243 | 29| 
 | 20220909T11:24:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4659 | 1624| 
 | 20220909T10:41:24Z | Repository provides vulnerable simple Smart Contracts and test files that demonstrates and exploit them | https://github.com/JakubKub13/Smart_Contract_Security_Minimum2 | 0 | 0| 
