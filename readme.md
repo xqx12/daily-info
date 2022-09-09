@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220909T12:31:56Z | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | 0 | 0| 
+| 20220909T12:35:41Z | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | 0 | 0| 
 | 20220909T12:31:42Z | Simple site internet permettant l%échange en direct par écrit et par call vidéo à la manière de Zoom, exploitation de la faille WebRTC | https://github.com/yanssou/PERSO-chat-et-appel-video-webrtc | 0 | 0| 
 | 20220909T12:30:44Z | CVE-2022-40297 - Proof of Concept: Privilage escalation in Ubuntu Touch 16.04 - by PIN Bruteforce | https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc | 2 | 2| 
 | 20220909T12:20:55Z | Network Exploitation Scanner - Freshman HS portscanner  | https://github.com/raging-loon/nxs | 0 | 0| 
