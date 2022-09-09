@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T00:16:33Z | Network Exploitation Scanner - Freshman HS portscanner  | https://github.com/raging-loon/nxs | 0 | 0| 
 | 20220909T00:05:29Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-io | 1 | 0| 
 | 20220909T00:04:21Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-io | 1 | 0| 
 | 20220909T00:03:18Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-io | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20220908T12:47:38Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 159 | 20| 
 | 20220908T12:26:10Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | 3 | 0| 
 | 20220908T10:00:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4031 | 611| 
-| 20220908T09:11:25Z | CVE-2021-38314 Python Exploit | https://github.com/akhilkoradiya/CVE-2021-38314 | 0 | 0| 
 
 
 # backdoor on Github 推荐
