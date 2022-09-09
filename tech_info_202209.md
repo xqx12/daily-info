@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220909T00:16:33Z | Network Exploitation Scanner - Freshman HS portscanner  | https://github.com/raging-loon/nxs | 0 | 0| 
+| 20220909T00:33:16Z | Network Exploitation Scanner - Freshman HS portscanner  | https://github.com/raging-loon/nxs | 0 | 0| 
 | 20220909T00:05:29Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-io | 1 | 0| 
 | 20220909T00:04:21Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-io | 1 | 0| 
 | 20220909T00:03:18Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-io | 1 | 0| 
