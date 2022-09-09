@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220909T12:31:56Z | CVE-2022-3168 | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | | 
 | 20220909T10:36:59Z | CVE-2022-31188 | CVE-2022-31188 - OpenCV CVAT (Computer Vision Annotation Tool) SSRF | https://github.com/emirpolatt/CVE-2022-31188 | | 
 | 20220909T10:34:53Z | CVE-2022-36446 | CVE-2022-36446 - Webmin 1.996 Remote Code Execution | https://github.com/emirpolatt/CVE-2022-36446 | | 
 | 20220909T10:06:06Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
@@ -55,7 +56,6 @@
 | 20220908T23:18:14Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
 | 20220908T20:12:53Z | cve-2021-34527 | CVE-2021-34527 AddPrinterDriverEx() Privilege Escalation | https://github.com/hackerhouse-opensource/cve-2021-34527 | | 
 | 20220908T14:17:30Z | CVE-2022-20126 | Null | https://github.com/Trinadh465/packages_apps_Bluetooth_AOSP10_r33_CVE-2022-20126 | | 
-| 20220908T11:07:41Z | CVE-2022-34918 | Null | https://github.com/randorisec/CVE-2022-34918-LPE-PoC | | 
 
 
 # klee on Github 推荐
