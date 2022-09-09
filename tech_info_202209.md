@@ -98,9 +98,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T12:27:19Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1918 | 689| 
 | 20220909T09:04:20Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 556 | 110| 
 | 20220909T07:15:03Z | The purpose of the project is for educational purposes. Backdoor that connects via socket. It has many functions. Hacking windows computer. | https://github.com/utkayfirat/Cursed | 0 | 0| 
-| 20220909T01:26:27Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1919 | 689| 
 | 20220908T20:43:06Z | Create multiple backdoors for Pfsense | https://github.com/magna-sec/NoSense | 0 | 0| 
 | 20220908T15:24:54Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 9 | 1| 
 | 20220908T13:51:50Z | Python ile Backdorr | https://github.com/El-Turkco/Backdoor | 0 | 0| 

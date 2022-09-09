@@ -69,9 +69,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T12:27:19Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1918 | 689| 
 | 20220909T09:04:20Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 556 | 110| 
 | 20220909T07:15:03Z | The purpose of the project is for educational purposes. Backdoor that connects via socket. It has many functions. Hacking windows computer. | https://github.com/utkayfirat/Cursed | 0 | 0| 
-| 20220909T01:26:27Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1919 | 689| 
 
 
 # symbolic execution on Github 推荐
