@@ -137,7 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220909T23:58:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7783 | 1680| 
+| 20220910T00:10:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7784 | 1680| 
 | 20220909T23:15:48Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 7661 | 871| 
 | 20220909T23:12:06Z | A enumerator for MLIR, relying on the information given by IRDL. | https://github.com/opencompl/mlir-fuzz | 0 | 0| 
 | 20220909T22:30:26Z | Null | https://github.com/Aboai-prog/fuzzy-happiness- | 0 | 0| 
