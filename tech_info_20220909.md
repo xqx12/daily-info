@@ -24,27 +24,30 @@
 | 20220909 | 基于netfilter的后门 | https://mp.weixin.qq.com/s/UL7Rd56MtSB6If_Tu_2N7w| 
 | 20220909 | JAVA常用框架SQL注入审计 | https://tttang.com/archive/1726/| 
 | 20220909 | 国家级网络攻击能力象限漫谈 | https://mp.weixin.qq.com/s/l7QCBK01OCru1e3o4nL52w| 
+| 20220909 | SharpHostInfo: 一款快速探测内网主机信息工具 | https://github.com/shmilylty/SharpHostInfo| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220909T21:09:41Z | cve-2021-22205 | Finds an identifiable hash value for each version of GitLab vulnerable to CVE-2021-22205 (https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22205.json) for use in fingerprinting. | https://github.com/GitLab-Red-Team/cve-2021-22205-hash-harvester | | 
+| 20220909T20:26:15Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
+| 20220909T17:19:26Z | CVE-2022-40317 | Null | https://github.com/izdiwho/CVE-2022-40317 | | 
+| 20220909T14:52:49Z | CVE-2022-36446 | CVE-2022-36446 - Webmin 1.996 Remote Code Execution | https://github.com/emirpolatt/CVE-2022-36446 | | 
+| 20220909T14:51:45Z | CVE-2022-31188 | CVE-2022-31188 - OpenCV CVAT (Computer Vision Annotation Tool) SSRF | https://github.com/emirpolatt/CVE-2022-31188 | | 
 | 20220909T12:40:55Z | CVE-2022-20128 | Android Debug Bridge (adb) was vulnerable to directory traversal attacks that could have been mounted by rogue/compromised adb daemons during an adb pull operation. | https://github.com/irsl/CVE-2022-20128 | | 
 | 20220909T12:35:41Z | CVE-2022-3168 | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | | 
-| 20220909T10:36:59Z | CVE-2022-31188 | CVE-2022-31188 - OpenCV CVAT (Computer Vision Annotation Tool) SSRF | https://github.com/emirpolatt/CVE-2022-31188 | | 
-| 20220909T10:34:53Z | CVE-2022-36446 | CVE-2022-36446 - Webmin 1.996 Remote Code Execution | https://github.com/emirpolatt/CVE-2022-36446 | | 
 | 20220909T10:06:06Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
 | 20220909T07:35:33Z | CVE-2022-20360 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360 | | 
 | 20220909T07:27:16Z | CVE-2022-34265 | Null | https://github.com/coco0x0a/CTF_CVE-2022-34265 | | 
-| 20220909T01:58:03Z | CVE-2022-2639 | CVE-2022-2639 Linux kernel openvswitch local privilege escalation | https://github.com/hxlxmjxbbxs/CVE-2022-2639-PipeVersion | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220909T12:16:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7933 | 270| 
-| 20220909T11:16:23Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 107 | 10| 
-| 20220909T04:57:03Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 70 | 1| 
+| 20220909T19:47:28Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 114 | 12| 
+| 20220909T17:03:11Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 71 | 1| 
+| 20220909T16:59:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7936 | 270| 
 | 20220909T03:54:48Z | HTML/CSS/JS Frontend, Java Servlets & JDBC to connect to postgreSQL DB hosted on AWS RDS | https://github.com/Jaklees/Jack-Klees-P1-main | 0 | 0| 
 
 
@@ -56,16 +59,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T23:48:29Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-ui | 1 | 0| 
+| 20220909T23:47:42Z | Null | https://github.com/codingcore2/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ui | 1 | 0| 
+| 20220909T23:46:39Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-ui | 1 | 0| 
+| 20220909T23:27:10Z | Python Expl0it | https://github.com/krdsploit/VSFTPD-Exploit | 0 | 0| 
+| 20220909T23:13:50Z | Mario Kart 7 semi-primary exploit for the Nintendo 3DS. | https://github.com/PabloMK7/kartdlphax | 39 | 0| 
+| 20220909T22:53:46Z | Sliding Window Forecast. Receives an ML or AI (Neural) model and input dataframe consisting of output variable, covariates, plus exogenous variables. The input is transformed to exploit specified lag (autoregressive variables), sliding or expanding window observations, with specified forecast horizon. The output includes the transformed data frame, forecasts/predictions, over the specified horizons. | https://github.com/Aljgutier/sw_forecast | 0 | 0| 
+| 20220909T19:56:12Z | Null | https://github.com/Necati-Ustun/MyFavoriteExploits | 0 | 0| 
+| 20220909T15:11:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4859 | 672| 
 | 20220909T12:44:37Z | Predicting the probability of an exploit being released after a CVE is published (by Machine learning algorithm) | https://github.com/wisoffe/exploits-predict | 0 | 0| 
 | 20220909T12:35:41Z | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | 0 | 0| 
-| 20220909T12:31:42Z | Simple site internet permettant l%échange en direct par écrit et par call vidéo à la manière de Zoom, exploitation de la faille WebRTC | https://github.com/yanssou/PERSO-chat-et-appel-video-webrtc | 0 | 0| 
-| 20220909T12:30:44Z | CVE-2022-40297 - Proof of Concept: Privilage escalation in Ubuntu Touch 16.04 - by PIN Bruteforce | https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc | 2 | 2| 
-| 20220909T12:20:55Z | Network Exploitation Scanner - Freshman HS portscanner  | https://github.com/raging-loon/nxs | 0 | 0| 
-| 20220909T12:17:58Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1475 | 359| 
-| 20220909T12:12:14Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 244 | 29| 
-| 20220909T12:06:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4045 | 613| 
-| 20220909T11:24:17Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4659 | 1624| 
-| 20220909T10:41:24Z | Repository provides vulnerable simple Smart Contracts and test files that demonstrates and exploit them | https://github.com/JakubKub13/Smart_Contract_Security_Minimum2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -91,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220909T23:58:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7783 | 1680| 
+| 20220909T23:15:48Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 7661 | 871| 
+| 20220909T23:12:06Z | A enumerator for MLIR, relying on the information given by IRDL. | https://github.com/opencompl/mlir-fuzz | 0 | 0| 
+| 20220909T22:30:26Z | Null | https://github.com/Aboai-prog/fuzzy-happiness- | 0 | 0| 
+| 20220909T22:21:39Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 826 | 172| 
+| 20220909T18:47:36Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 694 | 40| 
+| 20220909T18:10:21Z | repository take 3 | https://github.com/earnold-stemcellnetwork/fuzzy-fresh | 0 | 0| 
+| 20220909T18:05:43Z | Null | https://github.com/wnqueiroz-labs/fuzz | 0 | 0| 
 | 20220909T12:51:12Z | Null | https://github.com/lappet-hang/fuzzy-fortnight | 0 | 0| 
-| 20220909T12:50:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7769 | 1682| 
 | 20220909T12:37:48Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1629 | 206| 
-| 20220909T11:55:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4320 | 1044| 
-| 20220909T11:38:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 41568 | 20847| 
-| 20220909T11:28:41Z | Entrega Sass I | https://github.com/FreeHelado/FuzzCream-Ferreira | 0 | 0| 
-| 20220909T10:44:42Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2861 | 332| 
-| 20220909T10:27:29Z | Projects I create | https://github.com/mvel007/fuzzy-meme | 0 | 0| 
-| 20220909T10:10:41Z | A web fuzzer written in rust | https://github.com/liquidlegs/Outrageous_Soda | 0 | 0| 
-| 20220909T09:38:06Z | Fizz Fuzz Game  | https://github.com/nmanuvenugopal/Day-5---100-Days-of-Code | 0 | 0| 
 
 
 
