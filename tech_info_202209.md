@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220910T11:54:22Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
+| 20220910T10:21:21Z | CVE-2022-34265 | Null | https://github.com/coco0x0a/CTF_CVE-2022-34265 | | 
+| 20220910T09:12:19Z | CVE-2022-24637 | Unauthicated RCE for open-web-analytics(1.7.3) | https://github.com/garySec/CVE-2022-24637 | | 
+| 20220910T09:08:44Z | CVE-2022-31188 | CVE-2022-31188 - OpenCV CVAT (Computer Vision Annotation Tool) SSRF | https://github.com/emirpolatt/CVE-2022-31188 | | 
+| 20220910T09:07:58Z | CVE-2022-36804 | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances.  | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | | 
+| 20220910T06:28:50Z | CVE-2021-38314 | CVE-2021-38314 Python Exploit | https://github.com/akhilkoradiya/CVE-2021-38314 | | 
+| 20220910T05:13:30Z | CVE-2021-41773 | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | | 
+| 20220910T03:42:14Z | CVE-2021-38163 | CVE-2021-38163 - exploit for SAP Netveawer | https://github.com/core1impact/CVE-2021-38163 | | 
 | 20220909T21:09:41Z | cve-2021-22205 | Finds an identifiable hash value for each version of GitLab vulnerable to CVE-2021-22205 (https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22205.json) for use in fingerprinting. | https://github.com/GitLab-Red-Team/cve-2021-22205-hash-harvester | | 
-| 20220909T20:26:15Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
 | 20220909T17:19:26Z | CVE-2022-40317 | Null | https://github.com/izdiwho/CVE-2022-40317 | | 
-| 20220909T14:52:49Z | CVE-2022-36446 | CVE-2022-36446 - Webmin 1.996 Remote Code Execution | https://github.com/emirpolatt/CVE-2022-36446 | | 
-| 20220909T14:51:45Z | CVE-2022-31188 | CVE-2022-31188 - OpenCV CVAT (Computer Vision Annotation Tool) SSRF | https://github.com/emirpolatt/CVE-2022-31188 | | 
-| 20220909T12:40:55Z | CVE-2022-20128 | Android Debug Bridge (adb) was vulnerable to directory traversal attacks that could have been mounted by rogue/compromised adb daemons during an adb pull operation. | https://github.com/irsl/CVE-2022-20128 | | 
-| 20220909T12:35:41Z | CVE-2022-3168 | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | | 
-| 20220909T10:06:06Z | CVE-2022-29078 | vuln ejs 3.1.6 docker | https://github.com/miko550/CVE-2022-29078 | | 
-| 20220909T07:35:33Z | CVE-2022-20360 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360 | | 
-| 20220909T07:27:16Z | CVE-2022-34265 | Null | https://github.com/coco0x0a/CTF_CVE-2022-34265 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220910T12:49:15Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 72 | 1| 
+| 20220910T08:24:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7940 | 271| 
 | 20220909T19:47:28Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 114 | 12| 
-| 20220909T17:03:11Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 71 | 1| 
-| 20220909T16:59:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7936 | 270| 
 | 20220909T03:54:48Z | HTML/CSS/JS Frontend, Java Servlets & JDBC to connect to postgreSQL DB hosted on AWS RDS | https://github.com/Jaklees/Jack-Klees-P1-main | 0 | 0| 
 | 20220908T11:21:16Z | Null | https://github.com/kleenex1/kleenex1.github.io | 0 | 0| 
 | 20220907T20:32:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2055 | 586| 
@@ -83,37 +83,37 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220910T01:47:05Z | Mobile Mouse 3.6.0.4 could allow a remote attacker to execute arbitrary code on the system, caused by improper input validation. By sending a specially-crafted request, an attacker could exploit this vulnerability to execute arbitrary code on the system. | https://github.com/blue0x1/mobilemouse | 0 | 0| 
-| 20220910T01:40:27Z | Exploiting Made Easy! level 8 only (Synapse, Script Ware, Etc) | https://github.com/ExploitingMadeEasyDev/Exploiting-Made-Easy | 0 | 0| 
-| 20220910T01:27:00Z | Null | https://github.com/kedao/exploitDefiLabs | 0 | 0| 
-| 20220910T00:50:28Z | ShellCollector is a post exploitation tool keeping track of your web backdoors staying under the radar | https://github.com/MrSaighnal/ShellCollector | 0 | 0| 
-| 20220909T23:48:29Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-ui | 1 | 0| 
-| 20220909T23:47:42Z | Null | https://github.com/codingcore2/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ui | 1 | 0| 
-| 20220909T23:46:39Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-ui | 1 | 0| 
-| 20220909T23:27:10Z | Python Expl0it | https://github.com/krdsploit/VSFTPD-Exploit | 0 | 0| 
-| 20220909T23:13:50Z | Mario Kart 7 semi-primary exploit for the Nintendo 3DS. | https://github.com/PabloMK7/kartdlphax | 39 | 0| 
-| 20220909T22:53:46Z | Sliding Window Forecast. Receives an ML or AI (Neural) model and input dataframe consisting of output variable, covariates, plus exogenous variables. The input is transformed to exploit specified lag (autoregressive variables), sliding or expanding window observations, with specified forecast horizon. The output includes the transformed data frame, forecasts/predictions, over the specified horizons. | https://github.com/Aljgutier/sw_forecast | 0 | 0| 
+| 20220910T12:50:27Z | EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 260 | 32| 
+| 20220910T12:25:35Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1497 | 360| 
+| 20220910T12:21:36Z | Web security risks 🌐 are still very much in their infancy :computer: . Websites are exposed to web exploitation attacks :x: . For so, the focus of this project :bulb: is to build firewalls to protect web applications from a variety of application layer attacks :lock_with_ink_pen: such as cross-site scripting (XSS), SQL injection, and cookie poisoning | https://github.com/Imeneallouche/Web-Application-Firewalls | 0 | 0| 
+| 20220910T11:44:55Z | Menu ExtraLight de Exploits para PS4 Version 9.00 | https://github.com/Neluve/SimplExploitS | 0 | 0| 
+| 20220910T10:52:41Z | Cockblock game-lagging and game-crashing exploits! | https://github.com/VideoGameSmash12/Cockblocker | 0 | 0| 
+| 20220910T09:07:58Z | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances.  | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | 0 | 0| 
+| 20220910T08:42:28Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 437 | 29| 
+| 20220910T08:32:41Z | 🧮 JavaFX Unit testing library for students of all universities exploiting Java at the center of the program. | https://github.com/ArobaseMc/Abaque | 0 | 0| 
+| 20220910T08:21:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 501 | 140| 
+| 20220910T01:57:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3606 | 438| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220910T12:54:39Z | Null | https://github.com/Seaocn/Motif-Backdoor | 0 | 0| 
+| 20220910T10:13:55Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1919 | 689| 
+| 20220910T09:48:50Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 10 | 1| 
 | 20220910T00:50:28Z | ShellCollector is a post exploitation tool keeping track of your web backdoors staying under the radar | https://github.com/MrSaighnal/ShellCollector | 0 | 0| 
-| 20220909T12:27:19Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1918 | 689| 
 | 20220909T09:04:20Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 556 | 110| 
 | 20220909T07:15:03Z | The purpose of the project is for educational purposes. Backdoor that connects via socket. It has many functions. Hacking windows computer. | https://github.com/utkayfirat/Cursed | 0 | 0| 
 | 20220908T20:43:06Z | Create multiple backdoors for Pfsense | https://github.com/magna-sec/NoSense | 0 | 0| 
-| 20220908T15:24:54Z | 一款通用ShellCode后门注入器，该工具主要用于在后渗透阶段使用，可将后门直接注入到特定进程内存中而不会在磁盘中留下任何痕迹。     A general shellcode backdoor injector. This tool is mainly used in the post penetration stage. It can inject the backdoor directly into the memory of a specific process without leaving any traces in the disk. | https://github.com/lyshark/Shellinject | 9 | 1| 
 | 20220908T13:51:50Z | Python ile Backdorr | https://github.com/El-Turkco/Backdoor | 0 | 0| 
 | 20220908T09:02:07Z | The aim of this Github repository is to collect and summarise research works on backdoor attacks and defences on deep learning models. | https://github.com/KassemKallas/Backdoor-Attacks-in-DeepLearning | 2 | 0| 
 | 20220908T06:09:12Z | Null | https://github.com/phungbatam/BackDoorDemo | 0 | 0| 
-| 20220908T05:53:29Z | Null | https://github.com/SCLBD/BackdoorBench | 47 | 6| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220909T21:49:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3091 | 434| 
+| 20220910T08:40:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3090 | 434| 
 | 20220909T11:58:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2054 | 586| 
 | 20220908T20:19:23Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 7 | 0| 
 | 20220908T00:46:11Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 483 | 26| 
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220910T00:34:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7785 | 1680| 
-| 20220909T23:15:48Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 7661 | 871| 
-| 20220909T23:12:06Z | A enumerator for MLIR, relying on the information given by IRDL. | https://github.com/opencompl/mlir-fuzz | 0 | 0| 
-| 20220909T22:30:26Z | Null | https://github.com/Aboai-prog/fuzzy-happiness- | 0 | 0| 
-| 20220909T22:21:39Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 826 | 172| 
-| 20220909T18:47:36Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 694 | 40| 
-| 20220909T18:10:21Z | repository take 3 | https://github.com/earnold-stemcellnetwork/fuzzy-fresh | 0 | 0| 
-| 20220909T18:05:43Z | Null | https://github.com/wnqueiroz-labs/fuzz | 0 | 0| 
-| 20220909T12:51:12Z | Null | https://github.com/lappet-hang/fuzzy-fortnight | 0 | 0| 
-| 20220909T12:37:48Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1629 | 206| 
+| 20220910T12:21:50Z | Null | https://github.com/Anas99-top/fuzzy-octo-system | 0 | 0| 
+| 20220910T11:32:19Z | Null | https://github.com/flexil/fuzzyNLP | 0 | 0| 
+| 20220910T11:29:11Z | WIP: Fuzzer for dynamic JS apps that require a browser to render a page. Think ffuf, but much simpler and with bad code. | https://github.com/eversinc33/LunarFuzz | 1 | 0| 
+| 20220910T10:57:28Z | Repository playing with fuzzy logic concepts for my blog | https://github.com/Mikael-Lovqvist/blog-fuzzy-logic | 0 | 0| 
+| 20220910T10:09:59Z | Null | https://github.com/Black-crypto-gif/fuzzy-lamp-commerce | 0 | 0| 
+| 20220910T10:03:30Z | Null | https://github.com/greedWizard/fuzzy-rotary-phone | 0 | 0| 
+| 20220910T09:02:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7794 | 1680| 
+| 20220910T08:40:42Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3001 | 598| 
+| 20220910T04:54:17Z | Null | https://github.com/tjuwhy/mlir-fuzz | 0 | 0| 
+| 20220910T04:08:21Z | Web App Fuzzer | https://github.com/danielserbu/MeinFuzzer | 0 | 0| 
 
 
 
