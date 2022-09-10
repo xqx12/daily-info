@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220910T01:46:37Z | Mobile Mouse 3.6.0.4 Remote Code Execution:                     Mobile Mouse could allow a remote attacker to execute arbitrary code on the system, caused by improper input validation. By sending a specially-crafted request, an attacker could exploit this vulnerability to execute arbitrary code on the system. | https://github.com/blue0x1/mobilemouse | 0 | 0| 
 | 20220910T01:40:27Z | Exploiting Made Easy! level 8 only (Synapse, Script Ware, Etc) | https://github.com/ExploitingMadeEasyDev/Exploiting-Made-Easy | 0 | 0| 
 | 20220910T01:27:00Z | Null | https://github.com/kedao/exploitDefiLabs | 0 | 0| 
 | 20220910T00:50:28Z | ShellCollector is a post exploitation tool keeping track of your web backdoors staying under the radar | https://github.com/MrSaighnal/ShellCollector | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220909T23:27:10Z | Python Expl0it | https://github.com/krdsploit/VSFTPD-Exploit | 0 | 0| 
 | 20220909T23:13:50Z | Mario Kart 7 semi-primary exploit for the Nintendo 3DS. | https://github.com/PabloMK7/kartdlphax | 39 | 0| 
 | 20220909T22:53:46Z | Sliding Window Forecast. Receives an ML or AI (Neural) model and input dataframe consisting of output variable, covariates, plus exogenous variables. The input is transformed to exploit specified lag (autoregressive variables), sliding or expanding window observations, with specified forecast horizon. The output includes the transformed data frame, forecasts/predictions, over the specified horizons. | https://github.com/Aljgutier/sw_forecast | 0 | 0| 
-| 20220909T19:56:12Z | Null | https://github.com/Necati-Ustun/MyFavoriteExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
