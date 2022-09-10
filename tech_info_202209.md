@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220910T01:27:00Z | Null | https://github.com/kedao/exploitDefiLabs | 0 | 0| 
 | 20220910T00:50:28Z | ShellCollector is a post exploitation tool keeping track of your web backdoors staying under the radar | https://github.com/MrSaighnal/ShellCollector | 0 | 0| 
 | 20220909T23:48:29Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-ui | 1 | 0| 
 | 20220909T23:47:42Z | Null | https://github.com/codingcore2/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ui | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20220909T22:53:46Z | Sliding Window Forecast. Receives an ML or AI (Neural) model and input dataframe consisting of output variable, covariates, plus exogenous variables. The input is transformed to exploit specified lag (autoregressive variables), sliding or expanding window observations, with specified forecast horizon. The output includes the transformed data frame, forecasts/predictions, over the specified horizons. | https://github.com/Aljgutier/sw_forecast | 0 | 0| 
 | 20220909T19:56:12Z | Null | https://github.com/Necati-Ustun/MyFavoriteExploits | 0 | 0| 
 | 20220909T15:11:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4859 | 672| 
-| 20220909T12:44:37Z | Predicting the probability of an exploit being released after a CVE is published (by Machine learning algorithm) | https://github.com/wisoffe/exploits-predict | 0 | 0| 
 
 
 # backdoor on Github 推荐
