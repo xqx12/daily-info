@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220910T00:50:28Z | ShellCollector is a post exploitation tool keeping track of your web backdoors staying under the radar | https://github.com/MrSaighnal/ShellCollector | 0 | 0| 
 | 20220909T23:48:29Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-ui | 1 | 0| 
 | 20220909T23:47:42Z | Null | https://github.com/codingcore2/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ui | 1 | 0| 
 | 20220909T23:46:39Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-ui | 1 | 0| 
@@ -92,12 +93,12 @@
 | 20220909T19:56:12Z | Null | https://github.com/Necati-Ustun/MyFavoriteExploits | 0 | 0| 
 | 20220909T15:11:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4859 | 672| 
 | 20220909T12:44:37Z | Predicting the probability of an exploit being released after a CVE is published (by Machine learning algorithm) | https://github.com/wisoffe/exploits-predict | 0 | 0| 
-| 20220909T12:35:41Z | Proof of concept code to exploit flaw in adb that allowed opening network connections on the host to arbitrary destinations | https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220910T00:50:28Z | ShellCollector is a post exploitation tool keeping track of your web backdoors staying under the radar | https://github.com/MrSaighnal/ShellCollector | 0 | 0| 
 | 20220909T12:27:19Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1918 | 689| 
 | 20220909T09:04:20Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 556 | 110| 
 | 20220909T07:15:03Z | The purpose of the project is for educational purposes. Backdoor that connects via socket. It has many functions. Hacking windows computer. | https://github.com/utkayfirat/Cursed | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20220908T09:02:07Z | The aim of this Github repository is to collect and summarise research works on backdoor attacks and defences on deep learning models. | https://github.com/KassemKallas/Backdoor-Attacks-in-DeepLearning | 2 | 0| 
 | 20220908T06:09:12Z | Null | https://github.com/phungbatam/BackDoorDemo | 0 | 0| 
 | 20220908T05:53:29Z | Null | https://github.com/SCLBD/BackdoorBench | 47 | 6| 
-| 20220908T04:30:17Z | Interactive proof-of-concept of the Dual_EC_DRBG backdoor | https://github.com/dmhacker/dual-ec-drbg | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
