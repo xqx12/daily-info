@@ -41,7 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220911T12:20:30Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 440 | 30| 
+| 20220911T12:49:14Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 441 | 30| 
 | 20220911T11:56:14Z | XeroHub is a hub for a lot of exploits for a lot of roblox games  | https://github.com/YkXero/Xero-HUB | 0 | 0| 
 | 20220911T11:07:50Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 7402 | 1952| 
 | 20220911T11:01:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11989 | 2058| 
