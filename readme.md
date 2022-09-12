@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T12:15:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11995 | 2057| 
 | 20220912T11:37:47Z | Wordpress %Complete Gallery Manager 3.3.3% Plugin File Upload Vulnerability | https://github.com/mbinshahzad/wp-complete-gallery-manager-3.3.3-exploit | 0 | 0| 
 | 20220912T11:36:33Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 448 | 30| 
 | 20220912T11:35:55Z | File Upload Vulnerability Exploit for dzs-zoomsounds 2.0 WordPress Plugin | https://github.com/mbinshahzad/dzs-zoomsounds-2.0-exploit | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20220912T10:44:34Z | Null | https://github.com/ExploitSWJTU/exploitswjtu.github.io | 0 | 0| 
 | 20220912T10:36:39Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/iDecompile/GPay-balance-exploiter-by-VenomX | 1 | 0| 
 | 20220912T10:31:24Z | A framework of standard Solidity Vulnerabilities and Exploit PoC, based on SBE | https://github.com/Crypto-Snow/Solidity-Vuln-PoC-Cheatsheet | 0 | 0| 
-| 20220912T10:15:28Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11994 | 2057| 
 | 20220912T06:07:34Z | Null | https://github.com/kedao/exploitDefiLabs | 4 | 1| 
 | 20220912T01:59:39Z | Simple Python tool automate the exploitation of Local file inclusion vulnerability | https://github.com/MohamedSayed458/LFIer | 0 | 0| 
 
