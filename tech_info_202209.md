@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T01:40:14Z | Primefaces 5.X EL Injection Exploit (CVE-2017-1000486) | https://github.com/oppsec/pwnfaces | 6 | 2| 
 | 20220912T00:47:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-IU | 1 | 0| 
 | 20220912T00:46:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-IU | 1 | 0| 
 | 20220912T00:45:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-iu | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20220911T21:20:36Z | this repository contains a some files to exploit a BoF exploit in MiniShare 1.4.1  | https://github.com/iojabal/Buffer-Overflow-Windows | 0 | 0| 
 | 20220911T21:18:53Z | An introduction to the exploitation of (elf-like) binary. | https://github.com/Pillowin/rainfall | 0 | 0| 
 | 20220911T21:02:30Z |  SmarterMail 16.x Exploit | https://github.com/secunnix/CVE-2019-7213 | 0 | 0| 
-| 20220911T20:04:02Z | This is a collection of exploits and exercises developed while preparing for the eCXD exam! | https://github.com/lem0nSec/eCXD | 0 | 0| 
 
 
 # backdoor on Github 推荐
