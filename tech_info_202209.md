@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220912T00:12:20Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
+| 20220912T01:21:01Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
 | 20220911T18:07:26Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/Expl0desploit/CVE-2022-32548 | | 
 | 20220911T14:42:27Z | CVE-2022-26809 | metasploit and python(Multi and single target) module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-RCE-MASS | | 
 | 20220911T07:14:09Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
