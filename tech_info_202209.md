@@ -83,6 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T00:47:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-IU | 1 | 0| 
+| 20220912T00:46:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-IU | 1 | 0| 
 | 20220912T00:45:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-iu | 1 | 0| 
 | 20220912T00:29:56Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1519 | 362| 
 | 20220911T23:13:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4932 | 606| 
@@ -91,8 +93,6 @@
 | 20220911T21:18:53Z | An introduction to the exploitation of (elf-like) binary. | https://github.com/Pillowin/rainfall | 0 | 0| 
 | 20220911T21:02:30Z |  SmarterMail 16.x Exploit | https://github.com/secunnix/CVE-2019-7213 | 0 | 0| 
 | 20220911T20:04:02Z | This is a collection of exploits and exercises developed while preparing for the eCXD exam! | https://github.com/lem0nSec/eCXD | 0 | 0| 
-| 20220911T19:51:02Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 444 | 30| 
-| 20220911T19:50:53Z | CVE-2022-0847(Dirty Pipe) vulnerability exploits. | https://github.com/Gustavo-Nogueira/Dirty-Pipe-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
