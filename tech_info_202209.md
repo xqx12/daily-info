@@ -83,11 +83,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T01:45:33Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1520 | 363| 
 | 20220912T01:40:14Z | Primefaces 5.X EL Injection Exploit (CVE-2017-1000486) | https://github.com/oppsec/pwnfaces | 6 | 2| 
 | 20220912T00:47:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-IU | 1 | 0| 
 | 20220912T00:46:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-IU | 1 | 0| 
 | 20220912T00:45:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-iu | 1 | 0| 
-| 20220912T00:29:56Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1519 | 363| 
 | 20220911T23:13:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4932 | 606| 
 | 20220911T21:33:38Z | my write-ups/exploits on the rooms | https://github.com/bytecodez/pwn101-tryhackme | 0 | 0| 
 | 20220911T21:20:36Z | this repository contains a some files to exploit a BoF exploit in MiniShare 1.4.1  | https://github.com/iojabal/Buffer-Overflow-Windows | 0 | 0| 
@@ -113,6 +113,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T01:44:15Z | Static IR translation and symbolic execution framework for x86/x86_64 | https://github.com/Colton1skees/TritonTranslator | 0 | 0| 
 | 20220911T22:10:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3091 | 433| 
 | 20220911T21:06:31Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 15 | 2| 
 | 20220911T10:35:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2053 | 585| 
@@ -122,7 +123,6 @@
 | 20220907T00:35:21Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 20 | 4| 
 | 20220905T02:46:49Z | SymLoc: Unleashing the Power of Symbolic Memory Locations in Symbolic Execution (Under Review) | https://github.com/AnonyGiit/SymLoc | 0 | 0| 
 | 20220902T22:41:36Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 44 | 23| 
-| 20220902T19:02:45Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 290 | 21| 
 
 
 # big4 on Github 推荐
