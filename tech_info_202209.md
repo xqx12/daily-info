@@ -137,6 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T01:58:00Z | Coveraged-based fuzzer for finding DBMS logical bugs | https://github.com/PSU-Security-Universe/sqlright | 10 | 3| 
 | 20220912T01:33:34Z | I want to share what I am working on as I go to school for Cyber Security - I will be posting here! | https://github.com/katiekachoo/fuzzy-octo-barnacle | 0 | 0| 
 | 20220912T01:16:19Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 2 | 0| 
 | 20220912T00:46:46Z | Making Token Level Fuzzer for Lua | https://github.com/Pwn9uin/Fuzzer-for-Lua | 0 | 0| 
@@ -146,7 +147,6 @@
 | 20220911T17:36:56Z | Null | https://github.com/codebenderhq/fuzzy-octo-happiness | 0 | 0| 
 | 20220911T15:13:12Z | Null | https://github.com/afpeel/fuzzy-waddle | 0 | 0| 
 | 20220911T13:52:39Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1481 | 65| 
-| 20220911T13:44:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 57 | 18| 
 
 
 
