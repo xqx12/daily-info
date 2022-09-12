@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T00:29:56Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1519 | 362| 
 | 20220911T23:13:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4932 | 606| 
 | 20220911T21:33:38Z | my write-ups/exploits on the rooms | https://github.com/bytecodez/pwn101-tryhackme | 0 | 0| 
 | 20220911T21:20:36Z | this repository contains a some files to exploit a BoF exploit in MiniShare 1.4.1  | https://github.com/iojabal/Buffer-Overflow-Windows | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20220911T19:51:02Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 444 | 30| 
 | 20220911T19:50:53Z | CVE-2022-0847(Dirty Pipe) vulnerability exploits. | https://github.com/Gustavo-Nogueira/Dirty-Pipe-Exploits | 0 | 0| 
 | 20220911T16:09:12Z | Network Exploitation Scanner - Freshman HS portscanner  | https://github.com/raging-loon/nxs | 0 | 0| 
-| 20220911T11:56:14Z | XeroHub is a hub for a lot of exploits for a lot of roblox games  | https://github.com/YkXero/Xero-HUB | 0 | 0| 
 
 
 # backdoor on Github 推荐
