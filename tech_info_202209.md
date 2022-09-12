@@ -86,7 +86,7 @@
 | 20220912T00:47:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-IU | 1 | 0| 
 | 20220912T00:46:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-IU | 1 | 0| 
 | 20220912T00:45:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-iu | 1 | 0| 
-| 20220912T00:29:56Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1519 | 362| 
+| 20220912T00:29:56Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1519 | 363| 
 | 20220911T23:13:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4932 | 606| 
 | 20220911T21:33:38Z | my write-ups/exploits on the rooms | https://github.com/bytecodez/pwn101-tryhackme | 0 | 0| 
 | 20220911T21:20:36Z | this repository contains a some files to exploit a BoF exploit in MiniShare 1.4.1  | https://github.com/iojabal/Buffer-Overflow-Windows | 0 | 0| 
