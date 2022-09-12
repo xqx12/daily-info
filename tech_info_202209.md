@@ -98,6 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T12:36:44Z | Null | https://github.com/nick6996war/backdoorssh | 0 | 0| 
 | 20220912T11:03:46Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 333 | 32| 
 | 20220912T10:31:58Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 6 | 2| 
 | 20220912T08:50:39Z | Solution of picoCTF 2022 NSA backdoor challenge. | https://github.com/vobst/ctf-nsa_backdoor | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20220911T06:51:23Z | Code and data of the ACL-IJCNLP 2021 paper %Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger% | https://github.com/thunlp/HiddenKiller | 18 | 6| 
 | 20220911T05:44:12Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 0 | 0| 
 | 20220910T23:17:46Z | Python3 script to exploit the PHP 8.1.0-dev Backdoor Command Execution  | https://github.com/NullBrunk/php-8.1.0-exploit | 0 | 0| 
-| 20220910T16:43:32Z | Null | https://github.com/allanvictor/wget_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
