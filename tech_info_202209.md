@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T12:14:14Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 635 | 80| 
 | 20220912T11:55:16Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2865 | 335| 
 | 20220912T11:14:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4326 | 1047| 
 | 20220912T10:59:49Z | Null | https://github.com/EbereChukss/fuzzy-giggle | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20220912T08:39:33Z | Steiner-Fuzz-List | https://github.com/Steiner-254/Steiner-Fuzz-List | 0 | 0| 
 | 20220912T01:58:00Z | Coveraged-based fuzzer for finding DBMS logical bugs | https://github.com/PSU-Security-Universe/sqlright | 10 | 3| 
 | 20220912T01:33:34Z | I want to share what I am working on as I go to school for Cyber Security - I will be posting here! | https://github.com/katiekachoo/fuzzy-octo-barnacle | 0 | 0| 
-| 20220912T01:16:19Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 2 | 0| 
 
 
 
