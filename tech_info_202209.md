@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T01:59:39Z | Simple Python tool automate the exploitation of Local file inclusion vulnerability | https://github.com/MohamedSayed458/LFIer | 0 | 0| 
 | 20220912T01:45:33Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1520 | 363| 
 | 20220912T01:40:14Z | Primefaces 5.X EL Injection Exploit (CVE-2017-1000486) | https://github.com/oppsec/pwnfaces | 6 | 2| 
 | 20220912T00:47:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-IU | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20220911T21:33:38Z | my write-ups/exploits on the rooms | https://github.com/bytecodez/pwn101-tryhackme | 0 | 0| 
 | 20220911T21:20:36Z | this repository contains a some files to exploit a BoF exploit in MiniShare 1.4.1  | https://github.com/iojabal/Buffer-Overflow-Windows | 0 | 0| 
 | 20220911T21:18:53Z | An introduction to the exploitation of (elf-like) binary. | https://github.com/Pillowin/rainfall | 0 | 0| 
-| 20220911T21:02:30Z |  SmarterMail 16.x Exploit | https://github.com/secunnix/CVE-2019-7213 | 0 | 0| 
 
 
 # backdoor on Github 推荐
