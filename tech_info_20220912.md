@@ -47,12 +47,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T11:37:47Z | Wordpress %Complete Gallery Manager 3.3.3% Plugin File Upload Vulnerability | https://github.com/mbinshahzad/wp-complete-gallery-manager-3.3.3-exploit | 0 | 0| 
+| 20220912T11:36:33Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 448 | 30| 
+| 20220912T11:35:55Z | File Upload Vulnerability Exploit for dzs-zoomsounds 2.0 WordPress Plugin | https://github.com/mbinshahzad/dzs-zoomsounds-2.0-exploit | 0 | 0| 
+| 20220912T11:25:29Z | A clone of  13o-bbr-bbq  DeepExploit modified  for updated Python and Kali 2022 | https://github.com/TheDreamPort/deep_exploit | 0 | 0| 
+| 20220912T10:44:34Z | Null | https://github.com/ExploitSWJTU/exploitswjtu.github.io | 0 | 0| 
+| 20220912T10:36:39Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/iDecompile/GPay-balance-exploiter-by-VenomX | 1 | 0| 
+| 20220912T10:31:24Z | A framework of standard Solidity Vulnerabilities and Exploit PoC, based on SBE | https://github.com/Crypto-Snow/Solidity-Vuln-PoC-Cheatsheet | 0 | 0| 
+| 20220912T06:07:34Z | Null | https://github.com/kedao/exploitDefiLabs | 4 | 1| 
 | 20220912T01:59:39Z | Simple Python tool automate the exploitation of Local file inclusion vulnerability | https://github.com/MohamedSayed458/LFIer | 0 | 0| 
 | 20220912T01:45:33Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1520 | 363| 
-| 20220912T01:40:14Z | Primefaces 5.X EL Injection Exploit (CVE-2017-1000486) | https://github.com/oppsec/pwnfaces | 6 | 2| 
-| 20220912T00:47:16Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-IU | 1 | 0| 
-| 20220912T00:46:24Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-IU | 1 | 0| 
-| 20220912T00:45:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-iu | 1 | 0| 
 
 
 # backdoor on Github 推荐
