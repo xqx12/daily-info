@@ -88,10 +88,10 @@
 | 20220911T17:36:56Z | Null | https://github.com/codebenderhq/fuzzy-octo-happiness | 0 | 0| 
 | 20220911T15:13:12Z | Null | https://github.com/afpeel/fuzzy-waddle | 0 | 0| 
 | 20220911T13:52:39Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1481 | 65| 
+| 20220911T13:44:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 57 | 18| 
 | 20220911T12:19:27Z | Null | https://github.com/Mochelo/fuzzy-system | 0 | 0| 
 | 20220911T11:18:31Z | Our world 🌎  | https://github.com/Charley10101/fuzzy-system | 0 | 0| 
 | 20220911T10:37:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 995 | 113| 
-| 20220911T09:57:27Z | Null | https://github.com/CongGroup/No-Fuzz | 0 | 0| 
 
 
 
