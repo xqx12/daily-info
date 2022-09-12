@@ -83,7 +83,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220911T21:45:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2593 | 176| 
-| 20220911T21:26:34Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 1 | 0| 
 | 20220911T19:25:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7808 | 1681| 
 | 20220911T17:36:56Z | Null | https://github.com/codebenderhq/fuzzy-octo-happiness | 0 | 0| 
 | 20220911T15:13:12Z | Null | https://github.com/afpeel/fuzzy-waddle | 0 | 0| 
@@ -92,6 +91,7 @@
 | 20220911T12:19:27Z | Null | https://github.com/Mochelo/fuzzy-system | 0 | 0| 
 | 20220911T11:18:31Z | Our world 🌎  | https://github.com/Charley10101/fuzzy-system | 0 | 0| 
 | 20220911T10:37:02Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 995 | 113| 
+| 20220911T09:57:27Z | Null | https://github.com/CongGroup/No-Fuzz | 0 | 0| 
 
 
 
