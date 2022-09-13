@@ -89,10 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220913T01:30:06Z | Null | https://github.com/Greecek/fuzzy-disco | 0 | 0| 
-| 20220913T01:29:21Z | Null | https://github.com/ryom0624/go-fuzz | 0 | 0| 
-| 20220913T00:42:59Z | fuzzing prettier :D | https://github.com/jasikpark/fuzz-prettier | 0 | 0| 
-| 20220913T00:33:10Z | Null | https://github.com/HimankC/fuzzy-robot | 0 | 0| 
+| 20220913T12:07:01Z | Fork of git.sr.ht/~pepe/jff to add keywords-based algorithm | https://github.com/tionis/fuzzy-select | 2 | 0| 
+| 20220913T12:06:24Z | Null | https://github.com/arshavinne/fuzzy | 0 | 0| 
+| 20220913T11:47:28Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3011 | 600| 
+| 20220913T11:24:28Z | Fuzzer that searches for vulnerabilities like Spectre and Meltdown in CPUs | https://github.com/microsoft/sca-fuzzer | 16 | 6| 
+| 20220913T11:07:12Z | ui | https://github.com/fuzzy-ez/fuzzy | 1 | 1| 
+| 20220913T10:01:35Z | Null | https://github.com/Josh115511/fuzzy-computing-machine | 0 | 0| 
+| 20220913T09:49:19Z | Null | https://github.com/gdgoenka077/fuzzy-octo-sniffle | 0 | 0| 
+| 20220913T09:41:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 38 | 3| 
+| 20220913T09:35:05Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 814 | 158| 
+| 20220913T09:30:03Z | Test site for Meta products | https://github.com/daveliew/fuzzy-pancake | 0 | 0| 
 
 
 
