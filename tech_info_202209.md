@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220913T00:30:54Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-er | 0 | 0| 
 | 20220913T00:30:27Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-er | 1 | 0| 
 | 20220913T00:29:51Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-er | 1 | 0| 
 | 20220913T00:29:11Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/BraVera51/GPay-balance-exploiter-by-VenomX | 11 | 0| 
@@ -92,7 +93,6 @@
 | 20220912T23:20:58Z | My repository for my school district that includes almost all of my blooket exploits. You%re welcome Tomball! | https://github.com/elidoesexploits/TISD-Blooket-Exploits | 0 | 0| 
 | 20220912T23:06:44Z | Null | https://github.com/0x414141414/JPG-Silent-Exploit | 0 | 0| 
 | 20220912T23:06:38Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-INJECTION | 0 | 0| 
-| 20220912T23:04:54Z | Null | https://github.com/0x414141414/SILENT-XLL-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
