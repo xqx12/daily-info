@@ -83,7 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220913T00:15:37Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/BraVera51/GPay-balance-exploiter-by-VenomX | 8 | 0| 
+| 20220913T00:29:51Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-er | 1 | 0| 
+| 20220913T00:29:11Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/BraVera51/GPay-balance-exploiter-by-VenomX | 11 | 0| 
 | 20220912T23:57:43Z | Making LLDB easier to use for exploit development and reverse engineering. | https://github.com/krakankrakan/llef | 0 | 0| 
 | 20220912T23:53:48Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 0 | 0| 
 | 20220912T23:39:41Z | Exploiting Android devices  | https://github.com/MR-DARK54/spy-dark | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20220912T23:06:38Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-INJECTION | 0 | 0| 
 | 20220912T23:04:54Z | Null | https://github.com/0x414141414/SILENT-XLL-EXPLOIT | 0 | 0| 
 | 20220912T22:29:11Z | wget make the filename length 236 char only, so it take the first 236 chars as the filename. | https://github.com/ossamayasserr/File_Upload_wget_Exploitation | 0 | 0| 
-| 20220912T12:15:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11995 | 2057| 
 
 
 # backdoor on Github 推荐
@@ -147,8 +147,8 @@
 | 20220912T18:16:42Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 636 | 80| 
 | 20220912T17:11:44Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 5 | 1| 
 | 20220912T16:47:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7815 | 1681| 
+| 20220912T15:35:37Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 827 | 172| 
 | 20220912T11:55:16Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2865 | 335| 
-| 20220912T11:14:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4326 | 1047| 
 
 
 
