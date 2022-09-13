@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220913T11:56:31Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1534 | 365| 
+| 20220913T11:56:31Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1534 | 366| 
 | 20220913T10:56:25Z | 😂 %KillWell% exploit developed for CS:GO (Counter-Strike: Global Offensive) that allows the exploiter to force bots to target a specific player and turn on literal AI aimbot | https://github.com/0x44F/csgo-killwell | 0 | 0| 
 | 20220913T10:04:12Z | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/ErrorNoInternet/FollinaScanner | 13 | 4| 
 | 20220913T09:09:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3611 | 440| 
