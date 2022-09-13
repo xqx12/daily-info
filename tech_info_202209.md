@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220912T23:26:22Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
+| 20220912T20:13:57Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
+| 20220912T15:02:52Z | CVE-2021-41773 | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | | 
 | 20220912T11:40:49Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-RCE-POC | | 
 | 20220912T11:13:02Z | CVE-2022-20361 | Null | https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361 | | 
-| 20220912T08:55:57Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
 | 20220912T08:50:54Z | CVE-2022-20128 | Android Debug Bridge (adb) was vulnerable to directory traversal attacks that could have been mounted by rogue/compromised adb daemons during an adb pull operation. | https://github.com/irsl/CVE-2022-20128 | | 
 | 20220912T08:30:31Z | CVE-2022-27925 | CVE-2022-27925 nuclei template | https://github.com/akincibor/CVE-2022-27925 | | 
 | 20220912T07:56:16Z | CVE-2022-20344 | Null | https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344 | | 
 | 20220912T07:28:49Z | CVE-2022-30075 | Null | https://github.com/M4fiaB0y/CVE-2022-30075 | | 
 | 20220912T05:13:40Z | cve-2021-42321 | Null | https://github.com/xnyuq/cve-2021-42321 | | 
-| 20220912T04:37:47Z | CVE-2021-41773 | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | | 
-| 20220911T18:07:26Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/Expl0desploit/CVE-2022-32548 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220912T06:05:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2052 | 585| 
+| 20220912T22:15:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2053 | 585| 
+| 20220912T15:07:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 74 | 1| 
 | 20220912T05:36:24Z | Null | https://github.com/kleenex1/kleenex1.github.io | 0 | 0| 
 | 20220912T01:15:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7944 | 271| 
-| 20220912T00:33:51Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 73 | 1| 
 | 20220912T00:30:25Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 25 | 1| 
 | 20220911T19:51:37Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 5 | 0| 
 | 20220911T17:23:12Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 183 | 29| 
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T23:57:43Z | Making LLDB easier to use for exploit development and reverse engineering. | https://github.com/krakankrakan/llef | 0 | 0| 
+| 20220912T23:53:48Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 0 | 0| 
+| 20220912T23:43:53Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/BraVera51/GPay-balance-exploiter-by-VenomX | 6 | 0| 
+| 20220912T23:39:41Z | Exploiting Android devices  | https://github.com/MR-DARK54/spy-dark | 1 | 0| 
+| 20220912T23:20:58Z | My repository for my school district that includes almost all of my blooket exploits. You%re welcome Tomball! | https://github.com/elidoesexploits/TISD-Blooket-Exploits | 0 | 0| 
+| 20220912T23:06:44Z | Null | https://github.com/0x414141414/JPG-Silent-Exploit | 0 | 0| 
+| 20220912T23:06:38Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-INJECTION | 0 | 0| 
+| 20220912T23:04:54Z | Null | https://github.com/0x414141414/SILENT-XLL-EXPLOIT | 0 | 0| 
+| 20220912T22:29:11Z | wget make the filename length 236 char only, so it take the first 236 chars as the filename. | https://github.com/ossamayasserr/File_Upload_wget_Exploitation | 0 | 0| 
 | 20220912T12:15:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11995 | 2057| 
-| 20220912T11:37:47Z | Wordpress %Complete Gallery Manager 3.3.3% Plugin File Upload Vulnerability | https://github.com/mbinshahzad/wp-complete-gallery-manager-3.3.3-exploit | 0 | 0| 
-| 20220912T11:36:33Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 448 | 30| 
-| 20220912T11:35:55Z | File Upload Vulnerability Exploit for dzs-zoomsounds 2.0 WordPress Plugin | https://github.com/mbinshahzad/dzs-zoomsounds-2.0-exploit | 0 | 0| 
-| 20220912T11:25:29Z | A clone of  13o-bbr-bbq  DeepExploit modified  for updated Python and Kali 2022 | https://github.com/TheDreamPort/deep_exploit | 0 | 0| 
-| 20220912T10:44:34Z | Null | https://github.com/ExploitSWJTU/exploitswjtu.github.io | 0 | 0| 
-| 20220912T10:36:39Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/iDecompile/GPay-balance-exploiter-by-VenomX | 1 | 0| 
-| 20220912T10:31:24Z | A framework of standard Solidity Vulnerabilities and Exploit PoC, based on SBE | https://github.com/Crypto-Snow/Solidity-Vuln-PoC-Cheatsheet | 0 | 0| 
-| 20220912T06:07:34Z | Null | https://github.com/kedao/exploitDefiLabs | 4 | 1| 
-| 20220912T01:59:39Z | Simple Python tool automate the exploitation of Local file inclusion vulnerability | https://github.com/MohamedSayed458/LFIer | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220912T12:14:14Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 635 | 80| 
+| 20220912T23:38:02Z | Null | https://github.com/Luke-Mostert/FuzzyChallenge2023 | 0 | 0| 
+| 20220912T22:56:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 996 | 113| 
+| 20220912T22:14:16Z | Fuzz tests for three c++ serializers - boost serialization, cereal, YAS | https://github.com/hknio/serializers_fuzz_tests | 0 | 0| 
+| 20220912T21:15:40Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1482 | 65| 
+| 20220912T20:27:27Z | Null | https://github.com/google/fuzztest | 4 | 0| 
+| 20220912T18:16:42Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 636 | 80| 
+| 20220912T17:11:44Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 5 | 1| 
+| 20220912T16:47:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7815 | 1681| 
 | 20220912T11:55:16Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2865 | 335| 
 | 20220912T11:14:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4326 | 1047| 
-| 20220912T10:59:49Z | Null | https://github.com/EbereChukss/fuzzy-giggle | 0 | 0| 
-| 20220912T09:57:12Z | WIP: Directory fuzzer for single page apps that require a browser to render content, with an interface similar to ffuf | https://github.com/eversinc33/lunarfuzz | 2 | 0| 
-| 20220912T09:52:19Z | Our world 🌎  | https://github.com/Charley10101/fuzzy-system | 1 | 0| 
-| 20220912T09:44:59Z | Null | https://github.com/csWen/fuzzy_trie_nif | 0 | 0| 
-| 20220912T08:39:33Z | Steiner-Fuzz-List | https://github.com/Steiner-254/Steiner-Fuzz-List | 0 | 0| 
-| 20220912T01:58:00Z | Coveraged-based fuzzer for finding DBMS logical bugs | https://github.com/PSU-Security-Universe/sqlright | 10 | 3| 
-| 20220912T01:33:34Z | I want to share what I am working on as I go to school for Cyber Security - I will be posting here! | https://github.com/katiekachoo/fuzzy-octo-barnacle | 0 | 0| 
 
 
 
