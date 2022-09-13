@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220913T01:19:13Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/Expl0desploit/CVE-2022-32548 | | 
+| 20220913T01:19:07Z | CVE-2022-26809 | metasploit and python(Multi and single target) module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-RCE-MASS | | 
+| 20220913T01:18:49Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
+| 20220913T01:18:39Z | CVE-2022-24637 | Unauthicated RCE for open-web-analytics(1.7.3) | https://github.com/garySec/CVE-2022-24637 | | 
 | 20220913T01:16:06Z | CVE-2022-20344 | Null | https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344 | | 
 | 20220913T01:15:44Z | CVE-2022-30075 | Null | https://github.com/M4fiaB0y/CVE-2022-30075 | | 
 | 20220913T01:15:17Z | CVE-2022-27925 | CVE-2022-27925 nuclei template | https://github.com/akincibor/CVE-2022-27925 | | 
 | 20220913T01:15:13Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-RCE-POC | | 
 | 20220913T01:15:06Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220913T01:14:52Z | CVE-2022-0847 | Poc | https://github.com/tmoneypenny/CVE-2022-0847 | | 
-| 20220913T01:06:11Z | CVE-2022-20361 | Null | https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361 | | 
-| 20220912T23:26:22Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
-| 20220912T15:02:52Z | CVE-2021-41773 | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | | 
-| 20220912T08:50:54Z | CVE-2022-20128 | Android Debug Bridge (adb) was vulnerable to directory traversal attacks that could have been mounted by rogue/compromised adb daemons during an adb pull operation. | https://github.com/irsl/CVE-2022-20128 | | 
 
 
 # klee on Github 推荐
