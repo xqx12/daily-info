@@ -63,9 +63,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T20:57:07Z | hey, I%m searching for help on creating a backdoor on the fat rat.  | https://github.com/itaym2910/thefatrat-kali-linux | 0 | 0| 
+| 20220912T17:43:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 7 | 3| 
+| 20220912T16:35:53Z | Tools Scanning Backdoor Dari FX(FierzaXploit) | https://github.com/fierzaeriez/FX-Anti-Webshell | 0 | 0| 
 | 20220912T12:40:16Z | Null | https://github.com/nick6996war/backdoorssh | 0 | 0| 
 | 20220912T11:03:46Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 333 | 32| 
-| 20220912T10:31:58Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 6 | 2| 
 | 20220912T08:50:39Z | Solution of picoCTF 2022 NSA backdoor challenge. | https://github.com/vobst/ctf-nsa_backdoor | 0 | 0| 
 | 20220912T04:54:21Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 560 | 110| 
 | 20220912T04:04:02Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 48 | 8| 
@@ -74,8 +76,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220912T22:15:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2053 | 585| 
+| 20220912T18:37:13Z | Symbolic Execution Engine for Statecharts | https://github.com/Yonav/see-statecharts | 0 | 0| 
+| 20220912T16:58:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3094 | 434| 
 | 20220912T10:30:16Z | Python tool to aid global function pointer hijacking through automatic static detection and symbolic execution | https://github.com/untangle-tool/untangle | 0 | 0| 
-| 20220912T06:05:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2052 | 585| 
 | 20220912T04:57:09Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 484 | 26| 
 | 20220912T04:54:11Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 71 | 16| 
 | 20220912T01:44:15Z | Static IR translation and symbolic execution framework for x86/x86_64 | https://github.com/Colton1skees/TritonTranslator | 0 | 0| 
