@@ -86,6 +86,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220913T12:34:27Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1535 | 366| 
 | 20220913T10:56:25Z | 😂 %KillWell% exploit developed for CS:GO (Counter-Strike: Global Offensive) that allows the exploiter to force bots to target a specific player and turn on literal AI aimbot | https://github.com/0x44F/csgo-killwell | 0 | 0| 
+| 20220913T10:24:19Z | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | 11 | 3| 
 | 20220913T10:04:12Z | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/ErrorNoInternet/FollinaScanner | 13 | 4| 
 | 20220913T09:09:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3611 | 440| 
 | 20220913T08:42:49Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12004 | 2059| 
@@ -93,7 +94,6 @@
 | 20220913T04:40:14Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1265 | 117| 
 | 20220913T00:33:48Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/BraVera51/GPay-balance-exploiter-by-VenomX | 12 | 0| 
 | 20220913T00:33:45Z | Null | https://github.com/0x414141414/JPG-Silent-Exploit | 1 | 0| 
-| 20220913T00:33:42Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-INJECTION | 1 | 0| 
 
 
 # backdoor on Github 推荐
