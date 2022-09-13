@@ -147,8 +147,8 @@
 | 20220912T21:15:40Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1482 | 65| 
 | 20220912T20:27:27Z | Null | https://github.com/google/fuzztest | 4 | 0| 
 | 20220912T18:16:42Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 636 | 80| 
+| 20220912T17:17:20Z | Null | https://github.com/hovandang/fuzzy-exercises | 0 | 0| 
 | 20220912T17:11:44Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 5 | 1| 
-| 20220912T16:47:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7815 | 1681| 
 
 
 

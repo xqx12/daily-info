@@ -101,10 +101,10 @@
 | 20220912T21:15:40Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1482 | 65| 
 | 20220912T20:27:27Z | Null | https://github.com/google/fuzztest | 4 | 0| 
 | 20220912T18:16:42Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 636 | 80| 
+| 20220912T17:17:20Z | Null | https://github.com/hovandang/fuzzy-exercises | 0 | 0| 
 | 20220912T17:11:44Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 5 | 1| 
 | 20220912T16:47:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7815 | 1681| 
 | 20220912T15:35:37Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 827 | 172| 
-| 20220912T11:55:16Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2865 | 335| 
 
 
 
