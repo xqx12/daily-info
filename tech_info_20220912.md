@@ -21,7 +21,6 @@
 | 20220912T23:26:22Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
 | 20220912T15:02:52Z | CVE-2021-41773 | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | | 
 | 20220912T11:40:49Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-RCE-POC | | 
-| 20220912T11:13:02Z | CVE-2022-20361 | Null | https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361 | | 
 | 20220912T08:50:54Z | CVE-2022-20128 | Android Debug Bridge (adb) was vulnerable to directory traversal attacks that could have been mounted by rogue/compromised adb daemons during an adb pull operation. | https://github.com/irsl/CVE-2022-20128 | | 
 | 20220912T08:30:31Z | CVE-2022-27925 | CVE-2022-27925 nuclei template | https://github.com/akincibor/CVE-2022-27925 | | 
 | 20220912T07:56:16Z | CVE-2022-20344 | Null | https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344 | | 
