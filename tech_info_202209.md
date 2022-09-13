@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220913T01:02:53Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220912T23:26:22Z | CVE-2022-22629 | CVE-2022-22629 Proof of Concept | https://github.com/parsdefense/CVE-2022-22629 | | 
-| 20220912T20:13:57Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220912T15:02:52Z | CVE-2021-41773 | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013 | | 
 | 20220912T11:40:49Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-RCE-POC | | 
 | 20220912T11:13:02Z | CVE-2022-20361 | Null | https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361 | | 
