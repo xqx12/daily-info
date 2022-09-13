@@ -139,6 +139,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220913T01:30:06Z | Null | https://github.com/Greecek/fuzzy-disco | 0 | 0| 
+| 20220913T01:29:21Z | Null | https://github.com/ryom0624/go-fuzz | 0 | 0| 
 | 20220913T00:42:59Z | fuzzing prettier :D | https://github.com/jasikpark/fuzz-prettier | 0 | 0| 
 | 20220913T00:33:10Z | Null | https://github.com/HimankC/fuzzy-robot | 0 | 0| 
 | 20220912T23:38:02Z | Null | https://github.com/Luke-Mostert/FuzzyChallenge2023 | 0 | 0| 
@@ -147,8 +149,6 @@
 | 20220912T21:15:40Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1482 | 65| 
 | 20220912T20:27:27Z | Null | https://github.com/google/fuzztest | 4 | 0| 
 | 20220912T18:16:42Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 636 | 80| 
-| 20220912T17:17:20Z | Null | https://github.com/hovandang/fuzzy-exercises | 0 | 0| 
-| 20220912T17:11:44Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 5 | 1| 
 
 
 
