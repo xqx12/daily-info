@@ -77,6 +77,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220913T08:34:12Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 73 | 16| 
+| 20220913T07:29:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3095 | 434| 
 
 
 # big4 on Github 推荐
