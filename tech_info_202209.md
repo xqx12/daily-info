@@ -139,7 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220913T00:41:28Z | fuzzing prettier :D | https://github.com/jasikpark/fuzz-prettier | 0 | 0| 
+| 20220913T00:42:59Z | fuzzing prettier :D | https://github.com/jasikpark/fuzz-prettier | 0 | 0| 
 | 20220913T00:33:10Z | Null | https://github.com/HimankC/fuzzy-robot | 0 | 0| 
 | 20220912T23:38:02Z | Null | https://github.com/Luke-Mostert/FuzzyChallenge2023 | 0 | 0| 
 | 20220912T22:56:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 996 | 113| 
