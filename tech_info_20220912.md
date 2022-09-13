@@ -30,7 +30,6 @@
 | 20220912T22:15:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2053 | 585| 
 | 20220912T15:07:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 74 | 1| 
 | 20220912T05:36:24Z | Null | https://github.com/kleenex1/kleenex1.github.io | 0 | 0| 
-| 20220912T01:15:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7944 | 271| 
 | 20220912T00:30:25Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 25 | 1| 
 
 
