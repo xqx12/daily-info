@@ -52,12 +52,12 @@
 | 20220912T23:53:48Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 0 | 0| 
 | 20220912T23:39:41Z | Exploiting Android devices  | https://github.com/MR-DARK54/spy-dark | 1 | 0| 
 | 20220912T23:20:58Z | My repository for my school district that includes almost all of my blooket exploits. You%re welcome Tomball! | https://github.com/elidoesexploits/TISD-Blooket-Exploits | 0 | 0| 
-| 20220912T23:06:44Z | Null | https://github.com/0x414141414/JPG-Silent-Exploit | 0 | 0| 
-| 20220912T23:06:38Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-INJECTION | 0 | 0| 
-| 20220912T23:04:54Z | Null | https://github.com/0x414141414/SILENT-XLL-EXPLOIT | 0 | 0| 
 | 20220912T22:29:11Z | wget make the filename length 236 char only, so it take the first 236 chars as the filename. | https://github.com/ossamayasserr/File_Upload_wget_Exploitation | 0 | 0| 
 | 20220912T12:15:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 11995 | 2057| 
 | 20220912T11:37:47Z | Wordpress %Complete Gallery Manager 3.3.3% Plugin File Upload Vulnerability | https://github.com/mbinshahzad/wp-complete-gallery-manager-3.3.3-exploit | 0 | 0| 
+| 20220912T11:36:33Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 448 | 30| 
+| 20220912T11:35:55Z | File Upload Vulnerability Exploit for dzs-zoomsounds 2.0 WordPress Plugin | https://github.com/mbinshahzad/dzs-zoomsounds-2.0-exploit | 0 | 0| 
+| 20220912T11:25:29Z | A clone of  13o-bbr-bbq  DeepExploit modified  for updated Python and Kali 2022 | https://github.com/TheDreamPort/deep_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
