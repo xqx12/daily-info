@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220913 | Elkeid - 一个云原生的基于主机的安全(入侵检测与风险识别)解决方案 | https://github.com/bytedance/Elkeid| 
+| 20220913 | Windows Kerberos CG API 在处理 ASN1 数据结构时缺乏对 PDU 类型的检查，导致本地提权漏洞（CVE-2022-34709） | https://bugs.chromium.org/p/project-zero/issues/detail?id=2301| 
+| 20220913 | Lorenz 勒索软件利用 Mitel MiVoice 的漏洞入侵目标公司，利用 BitLocker 实现数据加密 | https://arcticwolf.com/resources/blog/lorenz-ransomware-chiseling-in/| 
+| 20220913 | 利用 Microsoft Teams 的 GIF 图片处理流程实现隐蔽的 C&C | https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7| 
+| 20220913 | SiliFuzz - Fuzzing CPUs by proxy | https://github.com/google/silifuzz| 
+| 20220913 | 绕过 GitHub Required Reviewers 限制，向开源代码库提交恶意代码 | https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code| 
+| 20220913 | 不使用括号调用 JavaScript 函数的技巧 | https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses| 
+| 20220913 | Fuzzable - 通过静态分析定位可 Fuzz 目标的工具 | https://github.com/ex0dus-0x/fuzzable| 
+| 20220913 | 论文“The Convergence of Source Code and Binary Vulnerability Discovery – A Case Study”的解读 | https://o0xmuhe.github.io/2022/09/12/Paper-read-The-Convergence-of-Source-Code-and-Binary-Vulnerability-Discovery-%E2%80%93-A-Case-Study/| 
 | 20220911 | Authenticode (I): Understanding Windows Authenticode | http://reversea.me/index.php/authenticode-i-understanding-windows-authenticode/| 
 | 20220909 | 利用 RPCMon 工具监控 Windows 容器的通信 | https://www.cyberark.com/resources/threat-research-blog/understanding-windows-containers-communication| 
 | 20220909 | Attacking Firecracker: AWS microVM Monitor Written in Rust | http://www.graplsecurity.com/post/attacking-firecracker| 
@@ -17,20 +26,12 @@
 | 20220909 | Pwn2Own Miami 2022 比赛 AVEVA Edge SCADA 软件代码执行漏洞的分析和利用 | http://sector7.computest.nl/post/2022-09-aveva-edge/| 
 | 20220909 | Xalan-J XSLT 处理器整数截断漏洞的利用(CVE-2022-34169) | http://noahblog.360.cn/xalan-j-integer-truncation-reproduce-cve-2022-34169/| 
 | 20220908 | SyzScope - 自动化评估 Bug 安全影响的工具（Paper） | https://github.com/plummm/SyzScope| 
-| 20220908 | Mandiant 对伊朗 APT42 攻击组织的分析报告 | https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises| 
-| 20220908 | Go 语言社区将通过 govulncheck 和漏洞库实现对代码仓库的漏洞检测和漏洞管理 | https://go.dev/blog/vuln| 
-| 20220908 | Flipper Zero NFC file loader 硬件 Hacking 设备被发现一个溢出漏洞 | http://vvx7.io/posts/2022/09/your-amiibos-haunted/| 
-| 20220908 | NCC 对 QUIC 协议设计及实现的安全分析报告 | http://research.nccgroup.com/2022/09/05/constant-time-data-processing-at-a-secret-offset-privacy-and-quic/| 
-| 20220908 | Bypass Windows Sysmon 的攻击检测 | https://codewhitesec.blogspot.com/2022/09/attacks-on-sysmon-revisited-sysmonente.html| 
-| 20220908 | Bypass AMSI in local process hooking NtCreateSection | https://waawaa.github.io/es/amsi_bypass-hooking-NtCreateSection/| 
-| 20220908 | Groovy 模板引擎受限 RCE 环境的利用 | http://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/| 
-| 20220908 | SharkFest 21 Wireshark 会议的视频，其中有很多网络协议安全相关的议题内容 | https://www.youtube.com/playlist?list=PLz_ZpPUgiXqPcQWL3uRIq81ONbO28Pbb3| 
-| 20220908 | 原生反序列化链 jdk8u20 的新构造 | https://tttang.com/archive/1729/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220913 | 一个科技平台型企业的网络安全建设心得 | https://mp.weixin.qq.com/s/y_4A2gehmSPCoy8f2xNOPQ| 
 | 20220912 | [HTB] Bart Writeup | https://mp.weixin.qq.com/s/y4wXU1he7dqLvmzse08eiQ| 
 | 20220912 | SecWiki周刊（第445期) | https://www.sec-wiki.com/weekly/445| 
 | 20220911 | 物理模拟触屏点击 | https://binux.blog/2022/08/cat-planet-bot-part-1-touch-simulation/| 
@@ -40,42 +41,42 @@
 | 20220911 | 网络智能流量编排探索 | https://mp.weixin.qq.com/s/dd6KCmUfosEKpPkTF-rXRw| 
 | 20220909 | 内网渗透软件-BloodHound使用指南 | https://mp.weixin.qq.com/s/M2LQjojTc7tk7eL_vD2lgQ| 
 | 20220909 | 基于netfilter的后门 | https://mp.weixin.qq.com/s/UL7Rd56MtSB6If_Tu_2N7w| 
-| 20220909 | JAVA常用框架SQL注入审计 | https://tttang.com/archive/1726/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220913T10:24:19Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
+| 20220913T08:45:49Z | CVE-2022-34715 | CVE-2022-34715-POC pcap | https://github.com/Starssgo/CVE-2022-34715-POC | | 
+| 20220913T08:38:43Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220913T01:20:02Z | CVE-2022-36804 | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances.  | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | | 
 | 20220913T01:19:13Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/Expl0desploit/CVE-2022-32548 | | 
 | 20220913T01:19:07Z | CVE-2022-26809 | metasploit and python(Multi and single target) module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-RCE-MASS | | 
-| 20220913T01:18:49Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220913T01:18:39Z | CVE-2022-24637 | Unauthicated RCE for open-web-analytics(1.7.3) | https://github.com/garySec/CVE-2022-24637 | | 
 | 20220913T01:16:06Z | CVE-2022-20344 | Null | https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344 | | 
 | 20220913T01:15:44Z | CVE-2022-30075 | Null | https://github.com/M4fiaB0y/CVE-2022-30075 | | 
 | 20220913T01:15:17Z | CVE-2022-27925 | CVE-2022-27925 nuclei template | https://github.com/akincibor/CVE-2022-27925 | | 
-| 20220913T01:15:13Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-RCE-POC | | 
-| 20220913T01:15:06Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220913T10:40:43Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 8 | 0| 
+| 20220913T05:50:48Z | Null | https://github.com/klee972/klee972.github.io | 0 | 0| 
+| 20220913T05:08:32Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 184 | 29| 
 | 20220913T00:59:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 7954 | 271| 
 | 20220912T22:15:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2053 | 585| 
 | 20220912T15:07:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 74 | 1| 
 | 20220912T05:36:24Z | Null | https://github.com/kleenex1/kleenex1.github.io | 0 | 0| 
 | 20220912T00:30:25Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 25 | 1| 
 | 20220911T19:51:37Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 5 | 0| 
-| 20220911T17:23:12Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 183 | 29| 
-| 20220911T06:15:37Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 6 | 0| 
 | 20220910T16:15:37Z | Fuzzing tutorial with easy to learn labs 🚀 | https://github.com/yuawn/Fuzzing | 115 | 12| 
-| 20220910T16:06:42Z | Final year Cybersecurity project for SMU%s Information Systems course | https://github.com/alch-1/fyp-klee-automation | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220913T11:57:11Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 81 | 42| 
 | 20220902T02:41:24Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 250 | 59| 
 | 20220902T01:28:17Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 68 | 9| 
 
@@ -83,23 +84,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220913T11:56:31Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1534 | 365| 
+| 20220913T10:56:25Z | 😂 %KillWell% exploit developed for CS:GO (Counter-Strike: Global Offensive) that allows the exploiter to force bots to target a specific player and turn on literal AI aimbot | https://github.com/0x44F/csgo-killwell | 0 | 0| 
+| 20220913T10:04:12Z | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/ErrorNoInternet/FollinaScanner | 13 | 4| 
+| 20220913T09:09:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3611 | 440| 
+| 20220913T07:36:48Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1630 | 335| 
+| 20220913T04:40:14Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1265 | 117| 
 | 20220913T00:33:48Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/BraVera51/GPay-balance-exploiter-by-VenomX | 12 | 0| 
 | 20220913T00:33:45Z | Null | https://github.com/0x414141414/JPG-Silent-Exploit | 1 | 0| 
 | 20220913T00:33:42Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-INJECTION | 1 | 0| 
 | 20220913T00:33:41Z | Null | https://github.com/0x414141414/SILENT-XLL-EXPLOIT | 1 | 0| 
-| 20220913T00:30:54Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-er | 0 | 0| 
-| 20220913T00:30:27Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-er | 1 | 0| 
-| 20220913T00:29:51Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-er | 1 | 0| 
-| 20220912T23:57:43Z | Making LLDB easier to use for exploit development and reverse engineering. | https://github.com/krakankrakan/llef | 0 | 0| 
-| 20220912T23:53:48Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 0 | 0| 
-| 20220912T23:39:41Z | Exploiting Android devices  | https://github.com/MR-DARK54/spy-dark | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220913T04:20:17Z | A little script I made as a proof of concept. | https://github.com/Al9haPh0enix/BackdoorScript | 0 | 0| 
 | 20220912T20:57:07Z | hey, I%m searching for help on creating a backdoor on the fat rat.  | https://github.com/itaym2910/thefatrat-kali-linux | 0 | 0| 
-| 20220912T17:43:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 7 | 3| 
+| 20220912T17:43:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 7 | 4| 
 | 20220912T16:35:53Z | Tools Scanning Backdoor Dari FX(FierzaXploit) | https://github.com/fierzaeriez/FX-Anti-Webshell | 0 | 0| 
 | 20220912T12:40:16Z | Null | https://github.com/nick6996war/backdoorssh | 0 | 0| 
 | 20220912T11:03:46Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 333 | 32| 
@@ -107,7 +109,6 @@
 | 20220912T04:54:21Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 560 | 110| 
 | 20220912T04:04:02Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 48 | 8| 
 | 20220911T21:18:42Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 57 | 14| 
-| 20220911T15:35:47Z | backdoor script in python, in progress | https://github.com/dawidpawlik01/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
