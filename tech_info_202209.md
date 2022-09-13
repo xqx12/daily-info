@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220913T00:41:28Z | fuzzing prettier :D | https://github.com/jasikpark/fuzz-prettier | 0 | 0| 
 | 20220913T00:33:10Z | Null | https://github.com/HimankC/fuzzy-robot | 0 | 0| 
 | 20220912T23:38:02Z | Null | https://github.com/Luke-Mostert/FuzzyChallenge2023 | 0 | 0| 
 | 20220912T22:56:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 996 | 113| 
@@ -148,7 +149,6 @@
 | 20220912T18:16:42Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 636 | 80| 
 | 20220912T17:11:44Z | No fuzz ExUnit test server to mock third party services | https://github.com/danschultzer/test_server | 5 | 1| 
 | 20220912T16:47:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7815 | 1681| 
-| 20220912T15:35:37Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 827 | 172| 
 
 
 
