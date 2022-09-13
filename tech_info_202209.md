@@ -32,6 +32,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220913 | 一个科技平台型企业的网络安全建设心得 | https://mp.weixin.qq.com/s/y_4A2gehmSPCoy8f2xNOPQ| 
+| 20220913 | KCon 2022 Slide | https://github.com/knownsec/KCon/tree/master/2022| 
+| 20220913 | KCon 2022 Slide | /news/30663| 
 | 20220912 | [HTB] Bart Writeup | https://mp.weixin.qq.com/s/y4wXU1he7dqLvmzse08eiQ| 
 | 20220912 | SecWiki周刊（第445期) | https://www.sec-wiki.com/weekly/445| 
 | 20220911 | 物理模拟触屏点击 | https://binux.blog/2022/08/cat-planet-bot-part-1-touch-simulation/| 
@@ -39,8 +41,6 @@
 | 20220911 | 关于那WebSocket劫持的二三事 | https://xz.aliyun.com/t/11684| 
 | 20220911 | 网络安全的三大支柱和攻击向量 | https://mp.weixin.qq.com/s/BJ9XIncEI7O2NWPeTNk2uA| 
 | 20220911 | 网络智能流量编排探索 | https://mp.weixin.qq.com/s/dd6KCmUfosEKpPkTF-rXRw| 
-| 20220909 | 内网渗透软件-BloodHound使用指南 | https://mp.weixin.qq.com/s/M2LQjojTc7tk7eL_vD2lgQ| 
-| 20220909 | 基于netfilter的后门 | https://mp.weixin.qq.com/s/UL7Rd56MtSB6If_Tu_2N7w| 
 
 
 # CVE Github 推荐

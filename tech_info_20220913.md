@@ -21,6 +21,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220913 | 一个科技平台型企业的网络安全建设心得 | https://mp.weixin.qq.com/s/y_4A2gehmSPCoy8f2xNOPQ| 
+| 20220913 | KCon 2022 Slide | https://github.com/knownsec/KCon/tree/master/2022| 
+| 20220913 | KCon 2022 Slide | /news/30663| 
 
 
 # CVE Github 推荐
