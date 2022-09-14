@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220914T12:08:20Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3152 | 209| 
+| 20220914T12:29:49Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3153 | 209| 
 | 20220914T11:48:01Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-j- | 1 | 0| 
 | 20220914T11:47:02Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-j- | 1 | 0| 
 | 20220914T11:46:06Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-j- | 1 | 0| 
