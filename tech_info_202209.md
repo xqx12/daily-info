@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220914T01:20:15Z | Open-source repository for paper %LogGrep: Fast and Cheap Cloud Log Storage by Exploiting both Static and Runtime Patterns%(ACM Eurosys 2023) | https://github.com/THUBear-wjy/LogGrep | 0 | 0| 
 | 20220913T23:57:43Z | Run on a ROBLOX exploit and it will open a gui hack for the game. Works with almost all roblox games, updated every 1/2 month. | https://github.com/Mineleogameryt/UltimateRscripts | 0 | 0| 
 | 20220913T23:54:19Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o- | 0 | 0| 
 | 20220913T23:53:25Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-o- | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220913T20:35:02Z | A memes website vulnerable to upload exploits | https://github.com/belkhiritaha/Upload-Vuln | 0 | 0| 
 | 20220913T19:11:45Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 166 | 109| 
 | 20220913T14:28:06Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 90 | 11| 
-| 20220913T12:56:05Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1631 | 336| 
 
 
 # backdoor on Github 推荐
@@ -116,7 +116,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220913T22:07:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2055 | 585| 
+| 20220914T01:12:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2056 | 585| 
 | 20220913T17:40:41Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 3 | 0| 
 | 20220913T08:34:12Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 73 | 16| 
 | 20220913T07:29:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3095 | 434| 
