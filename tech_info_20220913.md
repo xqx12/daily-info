@@ -30,7 +30,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220913T17:51:18Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220913T08:38:43Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220913T01:20:02Z | CVE-2022-36804 | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances.  | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | | 
 | 20220913T01:19:13Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/Expl0desploit/CVE-2022-32548 | | 
@@ -40,12 +39,12 @@
 | 20220913T01:15:44Z | CVE-2022-30075 | Null | https://github.com/M4fiaB0y/CVE-2022-30075 | | 
 | 20220913T01:15:17Z | CVE-2022-27925 | CVE-2022-27925 nuclei template | https://github.com/akincibor/CVE-2022-27925 | | 
 | 20220913T01:15:13Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-RCE-POC | | 
+| 20220913T01:14:52Z | CVE-2022-0847 | Poc | https://github.com/tmoneypenny/CVE-2022-0847 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220913T22:07:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2055 | 585| 
 | 20220913T10:40:43Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 8 | 0| 
 | 20220913T05:50:48Z | Null | https://github.com/klee972/klee972.github.io | 0 | 0| 
 | 20220913T05:08:32Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 184 | 29| 
