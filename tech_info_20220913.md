@@ -85,6 +85,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220913T22:07:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2055 | 585| 
+| 20220913T17:40:41Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 3 | 0| 
 | 20220913T08:34:12Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 73 | 16| 
 | 20220913T07:29:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3095 | 434| 
 
