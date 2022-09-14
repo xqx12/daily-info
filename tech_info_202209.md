@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220914T01:14:44Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
+| 20220914T01:17:07Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220914T01:14:01Z | CVE-2022-34715 | CVE-2022-34715-POC pcap | https://github.com/Starssgo/CVE-2022-34715-POC | | 
 | 20220914T01:02:19Z | CVE-2022-1292 | Automation to validate the impact of the vulnerability CVE-2022-1292 on a specific system. | https://github.com/und3sc0n0c1d0/CVE-2022-1292 | | 
 | 20220914T01:02:17Z | CVE-2022-37703 | Amanda Information Disclosure bug. | https://github.com/MaherAzzouzi/CVE-2022-37703 | | 
