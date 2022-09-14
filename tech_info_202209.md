@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220914T12:43:05Z | CVE-2022-38789 | Null | https://github.com/ProxyStaffy/Airties-CVE-2022-38789 | | 
 | 20220914T12:06:24Z | CVE-2022-20347 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2022-20347 | | 
 | 20220914T11:03:19Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220914T10:51:42Z | CVE-2022-32548 | Unauthenticated Remote Code Execution in DrayTek Vigor. CVE-2022-32548 | https://github.com/Administrative2022/CVE-2022-32548-RCE | | 
@@ -55,7 +56,6 @@
 | 20220914T01:14:01Z | CVE-2022-34715 | CVE-2022-34715-POC pcap | https://github.com/Starssgo/CVE-2022-34715-POC | | 
 | 20220914T01:02:19Z | CVE-2022-1292 | Automation to validate the impact of the vulnerability CVE-2022-1292 on a specific system. | https://github.com/und3sc0n0c1d0/CVE-2022-1292 | | 
 | 20220914T01:02:17Z | CVE-2022-37703 | Amanda Information Disclosure bug. | https://github.com/MaherAzzouzi/CVE-2022-37703 | | 
-| 20220914T01:02:15Z | CVE-2022-35841 | small writeup on EnterpriseModernAppManager::ProvisionApplication bug | https://github.com/Wack0/CVE-2022-35841 | | 
 
 
 # klee on Github 推荐
@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220914T12:42:25Z | Detailed Postmortem of Uniswap v2-Schnoodle Exploit involving an ERC-777 smart contract (Schnoodle, symbol SNOOD)  | https://github.com/Vishvesh-rao/Truffle-Starknet-Box | 0 | 0| 
+| 20220914T12:44:35Z | Detailed Postmortem of Uniswap v2-Schnoodle Exploit involving an ERC-777 smart contract (Schnoodle, symbol SNOOD)  | https://github.com/Vishvesh-rao/Truffle-Starknet-Box | 0 | 0| 
 | 20220914T12:37:21Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3154 | 209| 
 | 20220914T12:24:01Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12010 | 2059| 
 | 20220914T11:48:01Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-j- | 1 | 0| 
