@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220914T01:39:48Z | Spectre Exploit for Java - Partially working | https://github.com/ericghara/JSpectre | 0 | 0| 
 | 20220914T01:20:15Z | Open-source repository for paper %LogGrep: Fast and Cheap Cloud Log Storage by Exploiting both Static and Runtime Patterns%(ACM Eurosys 2023) | https://github.com/THUBear-wjy/LogGrep | 0 | 0| 
 | 20220913T23:57:43Z | Run on a ROBLOX exploit and it will open a gui hack for the game. Works with almost all roblox games, updated every 1/2 month. | https://github.com/Mineleogameryt/UltimateRscripts | 0 | 0| 
 | 20220913T23:54:19Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o- | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20220913T22:50:29Z | This repository is focused to exploit Webapp vulnerabilities from CTF and create scripts | https://github.com/B1ner0ne/WebApp_challenges | 0 | 0| 
 | 20220913T20:35:02Z | A memes website vulnerable to upload exploits | https://github.com/belkhiritaha/Upload-Vuln | 0 | 0| 
 | 20220913T19:11:45Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 166 | 109| 
-| 20220913T14:28:06Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 90 | 11| 
 
 
 # backdoor on Github 推荐
