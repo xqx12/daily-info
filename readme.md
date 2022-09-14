@@ -24,6 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220914T12:06:24Z | CVE-2022-20347 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2022-20347 | | 
 | 20220914T11:03:19Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220914T10:51:42Z | CVE-2022-32548 | Unauthenticated Remote Code Execution in DrayTek Vigor. CVE-2022-32548 | https://github.com/Administrative2022/CVE-2022-32548-RCE | | 
 | 20220914T07:38:45Z | CVE-2022-37434 | Null | https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434 | | 
