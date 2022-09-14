@@ -51,7 +51,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220914T12:29:49Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3153 | 209| 
+| 20220914T12:37:21Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3154 | 209| 
+| 20220914T12:24:01Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12010 | 2059| 
 | 20220914T11:48:01Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-j- | 1 | 0| 
 | 20220914T11:47:02Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-j- | 1 | 0| 
 | 20220914T11:46:06Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-j- | 1 | 0| 
@@ -60,7 +61,6 @@
 | 20220914T11:04:28Z | exploit | https://github.com/http-www-kali-com/metsaploit | 0 | 0| 
 | 20220914T09:59:21Z | All new vulnerabilities (0day) | https://github.com/attakercyebr/Vulnerability-Scanner-Auto-Exploiter | 2 | 0| 
 | 20220914T09:41:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 503 | 140| 
-| 20220914T09:20:14Z | The face of a human is crucial for conveying identity. Computer scientists, Neuro scientists, and psychologists, all exploits this human feature using image processing techniques for commercial, and law enforcement applications. Likewise, this feature  can be invited into classrooms to maintain records of students’ attendance. Con- temporary traditional way of recording attendance involves human intervention and  requires cooperation of the students which is hectic and contribute towards waste of class time. An automated real-time classroom attendance system detects students from still image or video frame coming from a digital camera, and marks his/her attendance by recognizing them. The system utilizes Viola–Jones object detection  framework which is capable of processing images extremely rapidly with high detec- tion rates. In the next stage, the detected face in the image is recognized using Local  Binary Patterns Histogram. | https://github.com/theonlyNischal/Classroom-Attendance-System-Utilizing-Viola-Jones-for-Face-Detection-and-LBPH-for-Face-Recognition | 33 | 17| 
 
 
 # backdoor on Github 推荐
