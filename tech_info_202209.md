@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220914T12:42:25Z | Detailed Postmortem of Uniswap v2-Schnoodle Exploit involving an ERC-777 smart contract (Schnoodle, symbol SNOOD)  | https://github.com/Vishvesh-rao/Truffle-Starknet-Box | 0 | 0| 
 | 20220914T12:37:21Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3154 | 209| 
 | 20220914T12:24:01Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12010 | 2059| 
 | 20220914T11:48:01Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-j- | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20220914T11:32:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4103 | 619| 
 | 20220914T11:04:28Z | exploit | https://github.com/http-www-kali-com/metsaploit | 0 | 0| 
 | 20220914T09:59:21Z | All new vulnerabilities (0day) | https://github.com/attakercyebr/Vulnerability-Scanner-Auto-Exploiter | 2 | 0| 
-| 20220914T09:41:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 503 | 140| 
 
 
 # backdoor on Github 推荐
