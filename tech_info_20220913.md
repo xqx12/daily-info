@@ -30,16 +30,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220913T22:02:37Z | CVE-2022-1292 | Automation to validate the impact of the vulnerability CVE-2022-1292 on a specific system. | https://github.com/und3sc0n0c1d0/CVE-2022-1292 | | 
-| 20220913T19:26:38Z | CVE-2022-37703 | Amanda Information Disclosure bug. | https://github.com/MaherAzzouzi/CVE-2022-37703 | | 
-| 20220913T18:08:26Z | CVE-2022-35841 | small writeup on EnterpriseModernAppManager::ProvisionApplication bug | https://github.com/Wack0/CVE-2022-35841 | | 
 | 20220913T17:51:18Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
-| 20220913T08:45:49Z | CVE-2022-34715 | CVE-2022-34715-POC pcap | https://github.com/Starssgo/CVE-2022-34715-POC | | 
 | 20220913T08:38:43Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220913T01:20:02Z | CVE-2022-36804 | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances.  | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | | 
 | 20220913T01:19:13Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/Expl0desploit/CVE-2022-32548 | | 
 | 20220913T01:19:07Z | CVE-2022-26809 | metasploit and python(Multi and single target) module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-RCE-MASS | | 
 | 20220913T01:18:39Z | CVE-2022-24637 | Unauthicated RCE for open-web-analytics(1.7.3) | https://github.com/garySec/CVE-2022-24637 | | 
+| 20220913T01:16:06Z | CVE-2022-20344 | Null | https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344 | | 
+| 20220913T01:15:44Z | CVE-2022-30075 | Null | https://github.com/M4fiaB0y/CVE-2022-30075 | | 
+| 20220913T01:15:17Z | CVE-2022-27925 | CVE-2022-27925 nuclei template | https://github.com/akincibor/CVE-2022-27925 | | 
+| 20220913T01:15:13Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-RCE-POC | | 
 
 
 # klee on Github 推荐
