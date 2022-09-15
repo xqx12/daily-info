@@ -25,7 +25,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220914T21:58:06Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220914T04:29:08Z | CVE-2020-8515 | Null | https://github.com/trhacknon/CVE-2020-8515-PoC | | 
 | 20220914T04:25:23Z | CVE-2020-8515 | Null | https://github.com/trhacknon/CVE-2020-8515 | | 
 | 20220914T01:14:01Z | CVE-2022-34715 | CVE-2022-34715-POC pcap | https://github.com/Starssgo/CVE-2022-34715-POC | | 
