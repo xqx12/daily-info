@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T12:03:47Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 274 | 18| 
 | 20220915T12:01:57Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3057 | 465| 
 | 20220915T12:01:52Z | AMSI Windows Reverse Shell Exploitation Tool to bypass Antivirus | https://github.com/LukeProducts/Sheller | 0 | 0| 
 | 20220915T11:40:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4121 | 619| 
@@ -61,7 +62,6 @@
 | 20220915T09:52:21Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
 | 20220915T07:50:24Z | 42 OverRide / Security challenge - Binary exploits | https://github.com/lnicosia/OverRide | 0 | 0| 
 | 20220915T07:06:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3616 | 442| 
-| 20220915T01:39:22Z | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | 44 | 2| 
 
 
 # backdoor on Github 推荐
