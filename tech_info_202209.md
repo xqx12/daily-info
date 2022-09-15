@@ -87,12 +87,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T12:49:16Z | AMSI Windows Reverse Shell Exploitation Tool to bypass Antivirus | https://github.com/LukeProducts/Sheller | 1 | 0| 
 | 20220915T12:26:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3617 | 442| 
 | 20220915T12:25:32Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 453 | 27| 
 | 20220915T12:17:59Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3058 | 465| 
 | 20220915T12:08:42Z | Un système connecté pour exploiter les données Ecowatt | https://github.com/labsud/Ecowatt | 0 | 0| 
 | 20220915T12:03:47Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 274 | 18| 
-| 20220915T12:01:52Z | AMSI Windows Reverse Shell Exploitation Tool to bypass Antivirus | https://github.com/LukeProducts/Sheller | 0 | 0| 
 | 20220915T11:40:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4121 | 619| 
 | 20220915T11:39:05Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1002 | 94| 
 | 20220915T11:26:39Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1550 | 369| 
