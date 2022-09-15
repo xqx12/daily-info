@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T00:22:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1005 | 112| 
 | 20220914T23:22:13Z | Null | https://github.com/niiicolai/fuzzy-octo-telegram | 0 | 0| 
 | 20220914T23:15:47Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 264 | 23| 
 | 20220914T21:54:34Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220914T17:09:23Z | Null | https://github.com/google/fuzztest | 5 | 0| 
 | 20220914T12:46:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3017 | 601| 
 | 20220914T12:27:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7832 | 1682| 
-| 20220914T12:21:34Z | Null | https://github.com/sydr-fuzz/sydr-fuzz.github.io | 0 | 0| 
 
 
 
