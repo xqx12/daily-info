@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T00:06:01Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Lucifer1145/GPay-balance-exploiter-by-VenomX | 0 | 0| 
 | 20220915T00:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1545 | 369| 
 | 20220914T23:53:49Z | Project that exploit sentiment analysis (on tweets) to understand opinions and concerns of customers about the Metaverse | https://github.com/federicominniti/MetaverseBusinessConcernsNLP | 0 | 1| 
 | 20220914T23:46:56Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t- | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220914T22:54:59Z | Bookmarklet exploit that can force-disable extensions installed on Chrome | https://github.com/3kh0/ext-remover | 2 | 1| 
 | 20220914T20:37:13Z | My Roblox Exploit.Enjoy It! | https://github.com/Crashino/Dark-X | 0 | 0| 
 | 20220914T20:34:54Z | My Roblox Exploit,Enjoy It! | https://github.com/Crashino/Dark-X-Executor | 0 | 0| 
-| 20220914T12:56:20Z | Repository includes all the files, and configuration required to demonstrate buffer/stack overflow and exploitation bypassing Structured Exception Handling and Dynamic Execution Handling in Windows 7. | https://github.com/z5307356/guessthenumber | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,7 +119,7 @@
 | --- | --- | --- | --- | ---| 
 | 20220914T20:44:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3098 | 433| 
 | 20220914T17:35:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 251 | 59| 
-| 20220914T16:20:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2057 | 585| 
+| 20220914T16:20:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2057 | 584| 
 | 20220913T17:40:41Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 3 | 0| 
 | 20220913T08:34:12Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 73 | 16| 
 | 20220912T18:37:13Z | Symbolic Execution Engine for Statecharts | https://github.com/Yonav/see-statecharts | 0 | 0| 
