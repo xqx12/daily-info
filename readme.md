@@ -52,26 +52,32 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T12:01:57Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3057 | 465| 
+| 20220915T12:01:52Z | AMSI Windows Reverse Shell Exploitation Tool to bypass Antivirus | https://github.com/LukeProducts/Sheller | 0 | 0| 
 | 20220915T11:40:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4121 | 619| 
 | 20220915T11:39:05Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1002 | 94| 
 | 20220915T11:37:04Z | Un système connecté pour exploiter les données Ecowatt | https://github.com/labsud/Ecowatt | 0 | 0| 
 | 20220915T11:26:39Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1550 | 369| 
 | 20220915T09:52:21Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
-| 20220915T08:49:27Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3056 | 465| 
 | 20220915T07:50:24Z | 42 OverRide / Security challenge - Binary exploits | https://github.com/lnicosia/OverRide | 0 | 0| 
 | 20220915T07:06:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3616 | 442| 
 | 20220915T01:39:22Z | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | 44 | 2| 
-| 20220915T01:04:39Z | Bookmarklet exploit that can force-disable extensions installed on Chrome | https://github.com/3kh0/ext-remover | 2 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T11:28:45Z | Null | https://github.com/nanoqsh/backdoor | 0 | 0| 
+| 20220915T09:11:53Z | Null | https://github.com/SCLBD/BackdoorBench | 48 | 6| 
+| 20220915T06:34:47Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 18 | 8| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T11:42:24Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 74 | 16| 
+| 20220915T09:14:40Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 42| 
+| 20220915T09:13:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3099 | 433| 
 
 
 # big4 on Github 推荐

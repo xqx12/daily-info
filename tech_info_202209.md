@@ -87,46 +87,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T12:01:57Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3057 | 465| 
+| 20220915T12:01:52Z | AMSI Windows Reverse Shell Exploitation Tool to bypass Antivirus | https://github.com/LukeProducts/Sheller | 0 | 0| 
 | 20220915T11:40:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4121 | 619| 
 | 20220915T11:39:05Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1002 | 94| 
 | 20220915T11:37:04Z | Un système connecté pour exploiter les données Ecowatt | https://github.com/labsud/Ecowatt | 0 | 0| 
 | 20220915T11:26:39Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1550 | 369| 
 | 20220915T09:52:21Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
-| 20220915T08:49:27Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3056 | 465| 
 | 20220915T07:50:24Z | 42 OverRide / Security challenge - Binary exploits | https://github.com/lnicosia/OverRide | 0 | 0| 
 | 20220915T07:06:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3616 | 442| 
 | 20220915T01:39:22Z | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | 44 | 2| 
-| 20220915T01:04:39Z | Bookmarklet exploit that can force-disable extensions installed on Chrome | https://github.com/3kh0/ext-remover | 2 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T11:28:45Z | Null | https://github.com/nanoqsh/backdoor | 0 | 0| 
+| 20220915T09:11:53Z | Null | https://github.com/SCLBD/BackdoorBench | 48 | 6| 
+| 20220915T06:34:47Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 18 | 8| 
 | 20220914T20:12:04Z | Null | https://github.com/H4ckingToolz/Metasploit-FUD-backdoor | 0 | 0| 
+| 20220914T10:35:54Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 3 | 0| 
 | 20220914T09:02:03Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 54 | 3| 
 | 20220914T04:51:51Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1920 | 689| 
 | 20220914T03:48:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 174 | 47| 
 | 20220914T01:02:54Z | This is the official implementation of our paper %Black-box Ownership Verification for Dataset Protection via Backdoor Watermarking%. | https://github.com/THUYimingLi/DVBW | 2 | 0| 
 | 20220913T04:20:17Z | A little script I made as a proof of concept. | https://github.com/Al9haPh0enix/BackdoorScript | 0 | 0| 
-| 20220913T00:55:01Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 31 | 4| 
-| 20220912T20:57:07Z | hey, I%m searching for help on creating a backdoor on the fat rat.  | https://github.com/itaym2910/thefatrat-kali-linux | 0 | 0| 
-| 20220912T17:43:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 7 | 4| 
-| 20220912T16:35:53Z | Tools Scanning Backdoor Dari FX(FierzaXploit) | https://github.com/fierzaeriez/FX-Anti-Webshell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220914T20:44:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3098 | 433| 
-| 20220914T17:35:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 251 | 59| 
+| 20220915T11:42:24Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 74 | 16| 
+| 20220915T09:14:40Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 42| 
+| 20220915T09:13:47Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3099 | 433| 
+| 20220914T17:35:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 251 | 60| 
 | 20220914T16:20:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2057 | 584| 
 | 20220913T17:40:41Z | LISSA: An efficient symbolic execution approach for programs manipulating complex heap-allocated data structures. | https://github.com/JuanmaCopia/lissa | 3 | 0| 
-| 20220913T08:34:12Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 73 | 16| 
 | 20220912T18:37:13Z | Symbolic Execution Engine for Statecharts | https://github.com/Yonav/see-statecharts | 0 | 0| 
 | 20220912T10:30:16Z | Python tool to aid global function pointer hijacking through automatic static detection and symbolic execution | https://github.com/untangle-tool/untangle | 0 | 0| 
 | 20220912T04:57:09Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 484 | 26| 
 | 20220912T01:44:15Z | Static IR translation and symbolic execution framework for x86/x86_64 | https://github.com/Colton1skees/TritonTranslator | 0 | 0| 
-| 20220911T21:06:31Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 15 | 2| 
 
 
 # big4 on Github 推荐
