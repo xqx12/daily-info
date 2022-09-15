@@ -87,10 +87,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T00:24:13Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1545 | 369| 
 | 20220915T00:21:17Z | Exploit made for Roblox by Xyps0s | https://github.com/ShadowZzz1/Nyve-Keyless-Roblox-Exploit | 1 | 0| 
 | 20220915T00:21:15Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/ShadowZzz1/Omnis-Dead-Frontier-2-PrivateCheat | 1 | 0| 
 | 20220915T00:06:01Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Lucifer1145/GPay-balance-exploiter-by-VenomX | 0 | 0| 
-| 20220915T00:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1545 | 369| 
 | 20220914T23:53:49Z | Project that exploit sentiment analysis (on tweets) to understand opinions and concerns of customers about the Metaverse | https://github.com/federicominniti/MetaverseBusinessConcernsNLP | 0 | 1| 
 | 20220914T23:46:56Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t- | 0 | 0| 
 | 20220914T23:45:38Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-t- | 0 | 0| 
