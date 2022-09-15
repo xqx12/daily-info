@@ -62,11 +62,11 @@
 | 20220914T23:45:38Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-t- | 0 | 0| 
 | 20220914T23:43:01Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-t- | 0 | 0| 
 | 20220914T23:26:17Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 132 | 29| 
-| 20220914T22:54:59Z | Bookmarklet exploit that can force-disable extensions installed on Chrome | https://github.com/3kh0/ext-remover | 2 | 2| 
 | 20220914T20:37:13Z | My Roblox Exploit.Enjoy It! | https://github.com/Crashino/Dark-X | 0 | 0| 
 | 20220914T20:34:54Z | My Roblox Exploit,Enjoy It! | https://github.com/Crashino/Dark-X-Executor | 0 | 0| 
 | 20220914T12:56:20Z | Repository includes all the files, and configuration required to demonstrate buffer/stack overflow and exploitation bypassing Structured Exception Handling and Dynamic Execution Handling in Windows 7. | https://github.com/z5307356/guessthenumber | 0 | 0| 
 | 20220914T12:44:35Z | Detailed Postmortem of Uniswap v2-Schnoodle Exploit involving an ERC-777 smart contract (Schnoodle, symbol SNOOD)  | https://github.com/Vishvesh-rao/Truffle-Starknet-Box | 0 | 0| 
+| 20220914T12:37:21Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3154 | 209| 
 
 
 # backdoor on Github 推荐
