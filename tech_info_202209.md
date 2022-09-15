@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220915T01:13:44Z | CVE-2022-36804 | Remote Code Execution exploit for CVE-2022-36804 (BitBucket Server and DataCenter). | https://github.com/cryptolakk/CVE-2022-36804-RCE | | 
 | 20220915T01:07:41Z | CVE-2022-37434 | Null | https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434 | | 
 | 20220915T01:06:55Z | CVE-2022-32548 | Unauthenticated Remote Code Execution in DrayTek Vigor. CVE-2022-32548 | https://github.com/Administrative2022/CVE-2022-32548-RCE | | 
 | 20220915T01:06:38Z | CVE-2022-20347 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2022-20347 | | 
@@ -55,7 +56,6 @@
 | 20220914T21:58:06Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220914T04:29:08Z | CVE-2020-8515 | Null | https://github.com/trhacknon/CVE-2020-8515-PoC | | 
 | 20220914T04:25:23Z | CVE-2020-8515 | Null | https://github.com/trhacknon/CVE-2020-8515 | | 
-| 20220914T01:14:01Z | CVE-2022-34715 | CVE-2022-34715-POC pcap | https://github.com/Starssgo/CVE-2022-34715-POC | | 
 
 
 # klee on Github 推荐
