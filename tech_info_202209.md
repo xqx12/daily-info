@@ -96,7 +96,7 @@
 | 20220915T11:40:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4121 | 619| 
 | 20220915T11:39:05Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1002 | 94| 
 | 20220915T11:26:39Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1550 | 369| 
-| 20220915T09:52:21Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
+| 20220915T10:04:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12017 | 2060| 
 
 
 # backdoor on Github 推荐
