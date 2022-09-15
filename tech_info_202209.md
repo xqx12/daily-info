@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T00:47:50Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/ShadowZzz1/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
 | 20220915T00:45:54Z | Exploit made for Roblox by Xyps0s | https://github.com/ShadowZzz1/Nyve-Keyless-Roblox-Exploit | 1 | 0| 
 | 20220915T00:45:50Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/ShadowZzz1/Omnis-Dead-Frontier-2-PrivateCheat | 1 | 0| 
 | 20220915T00:32:51Z | Roblox Exploit UI | https://github.com/RVCDv/devvinware | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220914T23:46:56Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t- | 0 | 0| 
 | 20220914T23:45:38Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-t- | 0 | 0| 
 | 20220914T23:43:01Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-t- | 0 | 0| 
-| 20220914T23:26:17Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 132 | 29| 
 
 
 # backdoor on Github 推荐
@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220915T00:40:09Z | A Fuzzy microservice using Springboot and Angular | https://github.com/Canudo319/fuzzy-microservice-unip | 0 | 0| 
+| 20220915T00:47:09Z | A Fuzzy microservice using Springboot and Angular | https://github.com/Canudo319/fuzzy-microservice-unip | 0 | 0| 
 | 20220915T00:29:26Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 265 | 23| 
 | 20220915T00:22:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1005 | 112| 
 | 20220914T23:22:13Z | Null | https://github.com/niiicolai/fuzzy-octo-telegram | 0 | 0| 
