@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220915T12:38:13Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773m | | 
 | 20220915T12:35:18Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773.git1 | | 
 | 20220915T12:15:18Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013.get | | 
 | 20220915T11:35:00Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013L | | 
@@ -55,7 +56,6 @@
 | 20220915T10:08:51Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773-L- | | 
 | 20220915T09:57:01Z | CVE-2022-37208 | CVE-2022-37208 | https://github.com/AgainstTheLight/CVE-2022-37208 | | 
 | 20220915T09:53:06Z | CVE-2022-37207 | CVE-2022-37207 POC | https://github.com/AgainstTheLight/CVE-2022-37207 | | 
-| 20220915T09:48:18Z | CVE-2022-37206 | CVE-2022-37206 POC | https://github.com/AgainstTheLight/CVE-2022-37206 | | 
 
 
 # klee on Github 推荐
