@@ -41,7 +41,6 @@
 | 20220914T20:19:57Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 | 20220914T16:20:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2057 | 584| 
 | 20220914T14:05:19Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 6 | 0| 
-| 20220914T02:38:01Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 73 | 1| 
 
 
 # s2e on Github 推荐
