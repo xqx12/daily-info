@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220915T12:35:06Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773.git1 | | 
+| 20220915T12:35:18Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773.git1 | | 
 | 20220915T12:15:18Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013.get | | 
 | 20220915T11:35:00Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013L | | 
 | 20220915T11:32:51Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-MASS-RCE | | 
@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T12:26:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3617 | 442| 
+| 20220915T12:25:32Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 453 | 27| 
 | 20220915T12:17:59Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3058 | 465| 
 | 20220915T12:08:42Z | Un système connecté pour exploiter les données Ecowatt | https://github.com/labsud/Ecowatt | 0 | 0| 
 | 20220915T12:03:47Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 274 | 18| 
@@ -95,8 +97,6 @@
 | 20220915T11:39:05Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1002 | 94| 
 | 20220915T11:26:39Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1550 | 369| 
 | 20220915T09:52:21Z | cursus materiaal exploited | https://github.com/jey-ou/ib2802 | 0 | 0| 
-| 20220915T07:50:24Z | 42 OverRide / Security challenge - Binary exploits | https://github.com/lnicosia/OverRide | 0 | 0| 
-| 20220915T07:06:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3616 | 442| 
 
 
 # backdoor on Github 推荐
