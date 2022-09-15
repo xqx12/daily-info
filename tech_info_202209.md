@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T00:32:51Z | Roblox Exploit UI | https://github.com/RVCDv/devvinware | 0 | 0| 
 | 20220915T00:24:13Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1545 | 369| 
 | 20220915T00:21:17Z | Exploit made for Roblox by Xyps0s | https://github.com/ShadowZzz1/Nyve-Keyless-Roblox-Exploit | 1 | 0| 
 | 20220915T00:21:15Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/ShadowZzz1/Omnis-Dead-Frontier-2-PrivateCheat | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20220914T23:45:38Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-t- | 0 | 0| 
 | 20220914T23:43:01Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-t- | 0 | 0| 
 | 20220914T23:26:17Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 132 | 29| 
-| 20220914T22:54:59Z | Bookmarklet exploit that can force-disable extensions installed on Chrome | https://github.com/3kh0/ext-remover | 2 | 2| 
 
 
 # backdoor on Github 推荐
