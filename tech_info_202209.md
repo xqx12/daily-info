@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T01:39:22Z | AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception, CVPR 2022. | https://github.com/hustvl/AziNorm | 44 | 2| 
 | 20220915T01:04:39Z | Bookmarklet exploit that can force-disable extensions installed on Chrome | https://github.com/3kh0/ext-remover | 2 | 2| 
 | 20220915T00:57:19Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/BraVera1337/GPay-balance-exploiter-by-VenomX | 1 | 0| 
 | 20220915T00:47:50Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/ShadowZzz1/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20220915T00:24:13Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1545 | 369| 
 | 20220915T00:06:01Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Lucifer1145/GPay-balance-exploiter-by-VenomX | 0 | 0| 
 | 20220914T23:53:49Z | Project that exploit sentiment analysis (on tweets) to understand opinions and concerns of customers about the Metaverse | https://github.com/federicominniti/MetaverseBusinessConcernsNLP | 0 | 1| 
-| 20220914T23:46:56Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t- | 0 | 0| 
 
 
 # backdoor on Github 推荐
