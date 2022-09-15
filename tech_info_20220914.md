@@ -93,13 +93,13 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220914T23:22:13Z | Null | https://github.com/niiicolai/fuzzy-octo-telegram | 0 | 0| 
+| 20220914T21:57:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7835 | 1685| 
 | 20220914T21:54:34Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
 | 20220914T21:52:25Z | Starting my work  | https://github.com/Emanuelcarvalho2004/tal-fuzzy-dollop | 0 | 0| 
 | 20220914T21:50:06Z | Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer | https://github.com/langston-barrett/czz | 0 | 0| 
 | 20220914T19:34:40Z | Null | https://github.com/lgonzalezciampa/fuzzy-test | 0 | 0| 
 | 20220914T17:09:23Z | Null | https://github.com/google/fuzztest | 5 | 0| 
 | 20220914T12:46:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3017 | 601| 
-| 20220914T12:27:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7832 | 1682| 
 | 20220914T12:21:34Z | Null | https://github.com/sydr-fuzz/sydr-fuzz.github.io | 0 | 0| 
 | 20220914T11:17:48Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 41 | 4| 
 
