@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T00:01:51Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1545 | 369| 
 | 20220914T23:53:49Z | Project that exploit sentiment analysis (on tweets) to understand opinions and concerns of customers about the Metaverse | https://github.com/federicominniti/MetaverseBusinessConcernsNLP | 0 | 1| 
 | 20220914T23:46:56Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t- | 0 | 0| 
 | 20220914T23:45:38Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-t- | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220914T20:37:13Z | My Roblox Exploit.Enjoy It! | https://github.com/Crashino/Dark-X | 0 | 0| 
 | 20220914T20:34:54Z | My Roblox Exploit,Enjoy It! | https://github.com/Crashino/Dark-X-Executor | 0 | 0| 
 | 20220914T12:56:20Z | Repository includes all the files, and configuration required to demonstrate buffer/stack overflow and exploitation bypassing Structured Exception Handling and Dynamic Execution Handling in Windows 7. | https://github.com/z5307356/guessthenumber | 0 | 0| 
-| 20220914T12:44:35Z | Detailed Postmortem of Uniswap v2-Schnoodle Exploit involving an ERC-777 smart contract (Schnoodle, symbol SNOOD)  | https://github.com/Vishvesh-rao/Truffle-Starknet-Box | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220914T23:22:13Z | Null | https://github.com/niiicolai/fuzzy-octo-telegram | 0 | 0| 
+| 20220914T23:15:47Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 264 | 23| 
+| 20220914T21:54:34Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
+| 20220914T21:52:25Z | Starting my work  | https://github.com/Emanuelcarvalho2004/tal-fuzzy-dollop | 0 | 0| 
+| 20220914T21:50:06Z | Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer | https://github.com/langston-barrett/czz | 0 | 0| 
+| 20220914T19:34:40Z | Null | https://github.com/lgonzalezciampa/fuzzy-test | 0 | 0| 
+| 20220914T17:09:23Z | Null | https://github.com/google/fuzztest | 5 | 0| 
 | 20220914T12:46:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3017 | 601| 
 | 20220914T12:27:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7832 | 1682| 
 | 20220914T12:21:34Z | Null | https://github.com/sydr-fuzz/sydr-fuzz.github.io | 0 | 0| 
-| 20220914T11:38:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1003 | 112| 
-| 20220914T11:17:48Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 41 | 4| 
-| 20220914T10:00:50Z | Null | https://github.com/Richardswtrust/fuzzy-succotash-baba-voss | 0 | 0| 
-| 20220914T08:44:50Z | Null | https://github.com/redBorder/logstash-filter-fuzzy | 0 | 0| 
-| 20220914T07:12:48Z | Null | https://github.com/eduAlexandrPirogov/fuzzingNotes | 0 | 0| 
-| 20220914T05:52:35Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 640 | 81| 
-| 20220914T03:14:19Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 820 | 158| 
 
 
 

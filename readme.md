@@ -94,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220914T23:22:13Z | Null | https://github.com/niiicolai/fuzzy-octo-telegram | 0 | 0| 
+| 20220914T23:15:47Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 264 | 23| 
+| 20220914T21:54:34Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
+| 20220914T21:52:25Z | Starting my work  | https://github.com/Emanuelcarvalho2004/tal-fuzzy-dollop | 0 | 0| 
+| 20220914T21:50:06Z | Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer | https://github.com/langston-barrett/czz | 0 | 0| 
+| 20220914T19:34:40Z | Null | https://github.com/lgonzalezciampa/fuzzy-test | 0 | 0| 
+| 20220914T17:09:23Z | Null | https://github.com/google/fuzztest | 5 | 0| 
 | 20220914T12:46:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3017 | 601| 
 | 20220914T12:27:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7832 | 1682| 
 | 20220914T12:21:34Z | Null | https://github.com/sydr-fuzz/sydr-fuzz.github.io | 0 | 0| 
-| 20220914T11:38:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1003 | 112| 
-| 20220914T11:17:48Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 41 | 4| 
-| 20220914T10:00:50Z | Null | https://github.com/Richardswtrust/fuzzy-succotash-baba-voss | 0 | 0| 
-| 20220914T08:44:50Z | Null | https://github.com/redBorder/logstash-filter-fuzzy | 0 | 0| 
-| 20220914T07:12:48Z | Null | https://github.com/eduAlexandrPirogov/fuzzingNotes | 0 | 0| 
-| 20220914T05:52:35Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 640 | 81| 
-| 20220914T03:14:19Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 820 | 158| 
 
 
 
