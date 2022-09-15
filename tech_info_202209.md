@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220915T12:15:18Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013.get | | 
 | 20220915T11:35:00Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013L | | 
 | 20220915T11:32:51Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-MASS-RCE | | 
 | 20220915T11:28:51Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013 | | 
@@ -55,7 +56,6 @@
 | 20220915T09:53:06Z | CVE-2022-37207 | CVE-2022-37207 POC | https://github.com/AgainstTheLight/CVE-2022-37207 | | 
 | 20220915T09:48:18Z | CVE-2022-37206 | CVE-2022-37206 POC | https://github.com/AgainstTheLight/CVE-2022-37206 | | 
 | 20220915T09:46:06Z | CVE-2022-37205 | CVE-2022-37205 POC | https://github.com/AgainstTheLight/CVE-2022-37205 | | 
-| 20220915T09:43:39Z | CVE-2022-37204 | CVE-2022-37204 POC | https://github.com/AgainstTheLight/CVE-2022-37204 | | 
 
 
 # klee on Github 推荐
