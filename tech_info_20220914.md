@@ -25,16 +25,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220914T22:31:54Z | CVE-2022-29154 | HIP2022 presentation materials. | https://github.com/EgeBalci/CVE-2022-29154 | | 
 | 20220914T21:58:06Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
-| 20220914T19:03:43Z | CVE-2022-2546 | CVE-2022-2546 explained | https://github.com/0xvinix/CVE-2022-2546 | | 
-| 20220914T12:43:05Z | CVE-2022-38789 | Null | https://github.com/ProxyStaffy/Airties-CVE-2022-38789 | | 
-| 20220914T12:06:24Z | CVE-2022-20347 | Null | https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2022-20347 | | 
-| 20220914T10:51:42Z | CVE-2022-32548 | Unauthenticated Remote Code Execution in DrayTek Vigor. CVE-2022-32548 | https://github.com/Administrative2022/CVE-2022-32548-RCE | | 
 | 20220914T07:38:45Z | CVE-2022-37434 | Null | https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434 | | 
 | 20220914T04:29:08Z | CVE-2020-8515 | Null | https://github.com/trhacknon/CVE-2020-8515-PoC | | 
 | 20220914T04:25:23Z | CVE-2020-8515 | Null | https://github.com/trhacknon/CVE-2020-8515 | | 
 | 20220914T01:14:01Z | CVE-2022-34715 | CVE-2022-34715-POC pcap | https://github.com/Starssgo/CVE-2022-34715-POC | | 
+| 20220914T01:02:19Z | CVE-2022-1292 | Automation to validate the impact of the vulnerability CVE-2022-1292 on a specific system. | https://github.com/und3sc0n0c1d0/CVE-2022-1292 | | 
+| 20220914T01:02:17Z | CVE-2022-37703 | Amanda Information Disclosure bug. | https://github.com/MaherAzzouzi/CVE-2022-37703 | | 
+| 20220914T01:02:15Z | CVE-2022-35841 | small writeup on EnterpriseModernAppManager::ProvisionApplication bug | https://github.com/Wack0/CVE-2022-35841 | | 
 
 
 # klee on Github 推荐
