@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220915T01:40:27Z | Null | https://github.com/zidanzeera/fuzzy-invention | 0 | 0| 
 | 20220915T01:28:49Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 269 | 23| 
 | 20220915T00:47:09Z | A Fuzzy microservice using Springboot and Angular | https://github.com/Canudo319/fuzzy-microservice-unip | 0 | 0| 
 | 20220915T00:22:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1005 | 112| 
@@ -152,7 +153,6 @@
 | 20220914T21:52:25Z | Starting my work  | https://github.com/Emanuelcarvalho2004/tal-fuzzy-dollop | 0 | 0| 
 | 20220914T21:50:06Z | Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer | https://github.com/langston-barrett/czz | 0 | 0| 
 | 20220914T19:34:40Z | Null | https://github.com/lgonzalezciampa/fuzzy-test | 0 | 0| 
-| 20220914T17:09:23Z | Null | https://github.com/google/fuzztest | 5 | 0| 
 
 
 
