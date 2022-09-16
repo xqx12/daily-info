@@ -63,9 +63,9 @@
 | 20220915T23:14:01Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-h- | 1 | 0| 
 | 20220915T23:09:41Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h- | 1 | 0| 
 | 20220915T23:08:15Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-h- | 1 | 0| 
-| 20220915T22:13:32Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 284 | 20| 
 | 20220915T21:42:34Z | An XSS exploitation command-line interface and payload generator. | https://github.com/t3l3machus/toxssin | 470 | 67| 
 | 20220915T20:20:02Z | A Roblox script that aims to accurately simulate the 2016 Roblox client. | https://github.com/BeyondThe5D/Retrofiy | 0 | 1| 
+| 20220915T18:38:56Z | A web app built with hidden exploits for a CTF | https://github.com/jrreap/websec-ctfs | 0 | 0| 
 
 
 # backdoor on Github 推荐

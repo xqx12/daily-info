@@ -87,6 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T00:49:39Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 285 | 20| 
+| 20220916T00:45:27Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/TheJuicy69/EclipseWare-Free-Roblox-Exploits-v1.7- | 0 | 0| 
+| 20220916T00:45:27Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/TheJuicy69/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
 | 20220916T00:43:30Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/TheJuicy69/Omnis-Dead-Frontier-2-PrivateCheat | 1 | 0| 
 | 20220916T00:43:30Z | Exploit made for Roblox by Xyps0s | https://github.com/TheJuicy69/Nyve-Keyless-Roblox-Exploit | 1 | 0| 
 | 20220916T00:43:23Z | Ddos, Brute Force , Vpn checker , Vulnerability analysis , Trojan maker , Toolkit searcher , Port scanner , Firewall detector , Exploit searcher , Database stealer | https://github.com/kayung-developer/Hacking-Tools-System-for-Linux | 0 | 0| 
@@ -94,9 +97,6 @@
 | 20220915T23:46:59Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2988 | 542| 
 | 20220915T23:27:46Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/bravo91/GPay-balance-exploiter-by-VenomX | 1 | 0| 
 | 20220915T23:26:22Z | This tool is developed for burp suite practitioner certificate exam and HTTP Request Smuggling labs. The most important about this tool is TE.CL vulnerability exploitation and chunk size auto generator. Feel free to contribute and make a PR ;) Have fun exploiting these labs >.< | https://github.com/dhmosfunk/simple-http-smuggler-generator | 1 | 0| 
-| 20220915T23:23:05Z | Write-up for Sekhmet HackTheBox, CVE-2022-3506, Active Directory Exploitation | https://github.com/hackthebox-writeups/Sekhmet-HackTheBox-Writeup | 1 | 0| 
-| 20220915T23:14:01Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-h- | 1 | 0| 
-| 20220915T23:09:41Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h- | 1 | 0| 
 
 
 # backdoor on Github 推荐
