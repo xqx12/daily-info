@@ -15,6 +15,7 @@
 | 20220916 | BlackTech 组织利用 F5 BIG-IP 产品漏洞发起攻击的技术细节 | https://blogs.jpcert.or.jp/en/2022/09/bigip-exploit.html| 
 | 20220916 | 借助 tty_struct 结构体的 Linux 内核漏洞的利用 | https://github.com/smallkirby/kernelpwn/blob/master/technique/tty_struct.md| 
 | 20220916 | OpenRazer Linux 内核驱动漏洞的分析（CVE-2022-29021, CVE-2022-29022, CVE-2022-29023） | https://www.cyberark.com/resources/threat-research-blog/colorful-vulnerabilities| 
+| 20220916 | Blizzard Jailbreak iOS 15 - Booting The Patched Kernel | https://www.youtube.com/watch?v=3f_rBh3K-tE&feature=youtu.be| 
 | 20220915 | 利用 XSS 漏洞污染 Glassdoor 页面的缓存 | https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html| 
 | 20220915 | Windows IKE RCE 漏洞的 PoC（CVE-2022-34721） | https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-34721| 
 | 20220915 | Cobalt Strike 引入新特性 - External C2，这篇文章介绍如何自己构建一个 External C2 | https://xret2pwn.github.io/Myths-About-External-C2/| 
@@ -25,7 +26,6 @@
 | 20220915 | 利用 IPv6 绕过通过封源 IP 实现的爆破防护 | https://www.cyberis.com/article/bypassing-ip-based-brute-force-protection-ipv6| 
 | 20220915 | KCon 2022 黑客大会部分议题 PPT 公布 | http://paper.seebug.org/1967/| 
 | 20220915 | Go AST 浅析与CTF中的实战运用 | https://tttang.com/archive/1736/| 
-| 20220915 | Android NFC 条件竞争漏洞分析（CVE-2021-0870） | http://paper.seebug.org/1970/| 
 
 
 # 安全维基 推荐
@@ -88,6 +88,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220916T12:22:15Z | Un système connecté pour exploiter les données Ecowatt | https://github.com/labsud/Ecowatt | 0 | 0| 
+| 20220916T11:21:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12026 | 2063| 
 | 20220916T11:17:27Z | Tool to automatically exploit Active Directory privilege escalation paths shown by BloodHound | https://github.com/CravateRouge/autobloody | 64 | 6| 
 | 20220916T11:16:58Z | EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 329 | 43| 
 | 20220916T11:01:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4152 | 622| 
@@ -96,7 +97,6 @@
 | 20220916T09:16:36Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Nko91/GPay-balance-exploiter-by-VenomX | 1 | 0| 
 | 20220916T09:13:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 504 | 141| 
 | 20220916T08:40:59Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 529 | 31| 
-| 20220916T08:09:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3622 | 442| 
 
 
 # backdoor on Github 推荐
