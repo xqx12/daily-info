@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T01:21:53Z | a list of proxies, games, and exploits for school chromebooks | https://github.com/Eternal587/TheBedroom | 0 | 0| 
 | 20220916T00:58:57Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 286 | 20| 
 | 20220916T00:45:27Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/TheJuicy69/EclipseWare-Free-Roblox-Exploits-v1.7- | 0 | 0| 
 | 20220916T00:45:27Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/TheJuicy69/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20220916T00:38:01Z | A one file http server host PegaScape (Caffeine) exploit | https://github.com/jejer/caffeine | 0 | 0| 
 | 20220915T23:46:59Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2988 | 542| 
 | 20220915T23:27:46Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/bravo91/GPay-balance-exploiter-by-VenomX | 1 | 0| 
-| 20220915T23:26:22Z | This tool is developed for burp suite practitioner certificate exam and HTTP Request Smuggling labs. The most important about this tool is TE.CL vulnerability exploitation and chunk size auto generator. Feel free to contribute and make a PR ;) Have fun exploiting these labs >.< | https://github.com/dhmosfunk/simple-http-smuggler-generator | 1 | 0| 
 
 
 # backdoor on Github 推荐
