@@ -80,11 +80,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T11:58:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2059 | 584| 
+| 20220916T10:48:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3102 | 434| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T11:08:06Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 12 | 2| 
 
 
 # fuzz on Github 推荐
