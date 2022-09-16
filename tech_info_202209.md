@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220916T00:40:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7839 | 1686| 
+| 20220916T01:09:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7840 | 1686| 
 | 20220916T00:15:58Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1491 | 66| 
 | 20220915T22:59:52Z | The objective of this project is to show the use of a fuzzy logic system to estimate the young adult%s mental health and well-being index based on carefully chosen behavioural and environmental factors that are considered important for determining mental well-being | https://github.com/tahniasabah/Mental-Health-Index-calculation-using-Fuzzy-Logic-System | 0 | 0| 
 | 20220915T22:13:34Z | Null | https://github.com/SparcOG/fuzzy-octo-adventure | 0 | 0| 
