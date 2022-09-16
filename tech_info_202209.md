@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T12:29:33Z | API Flask fuzzy logic | https://github.com/Alieski/fuzzy-model | 1 | 0| 
 | 20220916T12:19:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7847 | 1686| 
 | 20220916T10:46:03Z | Console log Javascript Suit Jawa Game | https://github.com/FMATheNomad/fuzzy-octo-meme | 0 | 0| 
 | 20220916T10:45:17Z | A simple wrapper of idb for iOS GUI fuzzing testing | https://github.com/hagemon/ifz | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220916T08:36:20Z | Null | https://github.com/najmudinr/Fuzzy-Time-Series-Chen | 0 | 0| 
 | 20220916T08:23:55Z | Null | https://github.com/gryzmahlay/fuzzy-memory | 0 | 0| 
 | 20220916T08:09:15Z | Null | https://github.com/dhownah/fuzzy-tribble | 0 | 0| 
-| 20220916T06:24:19Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 43 | 4| 
 
 
 
