@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220915T17:22:23Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-POC-RCE | | 
-| 20220915T16:14:19Z | CVE-2022-30190 | Proof of concept for CVE-2022-30190 (Follina). | https://github.com/winstxnhdw/CVE-2022-30190 | | 
+| 20220916T01:01:18Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773m | | 
+| 20220916T01:01:16Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773S | | 
+| 20220916T01:01:09Z | CVE-2022-30190 | Proof of concept for CVE-2022-30190 (Follina). | https://github.com/winstxnhdw/CVE-2022-30190 | | 
+| 20220916T01:01:04Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-POC-RCE | | 
 | 20220915T14:51:04Z | CVE-2022-39841 | Null | https://github.com/stealthcopter/CVE-2022-39841 | | 
-| 20220915T14:17:45Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773S | | 
-| 20220915T12:38:13Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773m | | 
 | 20220915T12:35:18Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773.git1 | | 
 | 20220915T12:15:18Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013.get | | 
 | 20220915T11:35:00Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013L | | 

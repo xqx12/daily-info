@@ -28,16 +28,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220915T17:22:23Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-POC-RCE | | 
-| 20220915T16:14:19Z | CVE-2022-30190 | Proof of concept for CVE-2022-30190 (Follina). | https://github.com/winstxnhdw/CVE-2022-30190 | | 
 | 20220915T14:51:04Z | CVE-2022-39841 | Null | https://github.com/stealthcopter/CVE-2022-39841 | | 
-| 20220915T14:17:45Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773S | | 
-| 20220915T12:38:13Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773m | | 
 | 20220915T12:35:18Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773.git1 | | 
 | 20220915T12:15:18Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013.get | | 
 | 20220915T11:35:00Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013L | | 
 | 20220915T11:32:51Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-MASS-RCE | | 
 | 20220915T11:28:51Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013 | | 
+| 20220915T11:02:07Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773-PoC | | 
+| 20220915T10:08:51Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773-L- | | 
+| 20220915T09:57:01Z | CVE-2022-37208 | CVE-2022-37208 | https://github.com/AgainstTheLight/CVE-2022-37208 | | 
+| 20220915T09:53:06Z | CVE-2022-37207 | CVE-2022-37207 POC | https://github.com/AgainstTheLight/CVE-2022-37207 | | 
 
 
 # klee on Github 推荐
