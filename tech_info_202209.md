@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220916 | 利用 Jetty Web Server 提供的一些特性攻击 Web App | https://swarm.ptsecurity.com/jetty-features-for-hacking-web-apps/| 
+| 20220916 | Quantum 勒索软件的分析报告 | https://securityscorecard.pathfactory.com/research/quantum-ransomware| 
+| 20220916 | 云原生安全监控工具 Falco 开始支持 Google 开源的 gVisor 容器沙箱 | http://falco.org/blog/intro-gvisor-falco/| 
+| 20220916 | 域环境分析工具 BloodHound 的盲区 | http://blog.syss.com/posts/bloodhound-blindspots/| 
+| 20220916 | CVE North Stars - 充分收集并利用漏洞 CVE 相关的各类信息，指导漏洞挖掘和研究 | https://cve-north-stars.github.io/| 
+| 20220916 | NPM 市场 HubSpot 开发的 Bucky Client 被发现植入恶意代码 | https://blog.phylum.io/npm-malware-targeting-hubspots-bucky-client| 
+| 20220916 | BlackTech 组织利用 F5 BIG-IP 产品漏洞发起攻击的技术细节 | https://blogs.jpcert.or.jp/en/2022/09/bigip-exploit.html| 
+| 20220916 | 借助 tty_struct 结构体的 Linux 内核漏洞的利用 | https://github.com/smallkirby/kernelpwn/blob/master/technique/tty_struct.md| 
+| 20220916 | OpenRazer Linux 内核驱动漏洞的分析（CVE-2022-29021, CVE-2022-29022, CVE-2022-29023） | https://www.cyberark.com/resources/threat-research-blog/colorful-vulnerabilities| 
 | 20220915 | 利用 XSS 漏洞污染 Glassdoor 页面的缓存 | https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html| 
 | 20220915 | Windows IKE RCE 漏洞的 PoC（CVE-2022-34721） | https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-34721| 
 | 20220915 | Cobalt Strike 引入新特性 - External C2，这篇文章介绍如何自己构建一个 External C2 | https://xret2pwn.github.io/Myths-About-External-C2/| 
@@ -17,53 +26,44 @@
 | 20220915 | KCon 2022 黑客大会部分议题 PPT 公布 | http://paper.seebug.org/1967/| 
 | 20220915 | Go AST 浅析与CTF中的实战运用 | https://tttang.com/archive/1736/| 
 | 20220915 | Android NFC 条件竞争漏洞分析（CVE-2021-0870） | http://paper.seebug.org/1970/| 
-| 20220914 | 赛门铁克分析 1,859 款 App，发现 3/4 的 App 内存储了敏感的企业 AWS Access Token，利用泄露的 Token 可以访问企业的云上敏感数据 | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/mobile-supply-chain-aws| 
-| 20220914 | Windows 远程命令执行的一些工具，以及取证分析可以采集的证据 | https://www.synacktiv.com/publications/traces-of-windows-remote-command-execution.html| 
-| 20220914 | Azure Privilege Escalation via Azure API Permissions Abuse | https://posts.specterops.io/azure-privilege-escalation-via-azure-api-permissions-abuse-74aee1006f48?source=social.tw&gi=7377a029ca66| 
-| 20220914 | CloudFox - 在 Azure、GCP 等云环境中探测攻击面的工具 | https://bishopfox.com/blog/introducing-cloudfox| 
-| 20220914 | 利用泄露的敏感配置文件攻击基于 Laravel 的应用 | http://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/| 
-| 20220914 | Constellation - 为云环境 Kubernetes 提供机密计算能力的工具 | https://github.com/edgelesssys/constellation| 
-| 20220914 | MiraclePtr - 利用智能指针的方案缓解 Chrome 浏览器 UAF 漏洞的利用问题 | https://security.googleblog.com/2022/09/use-after-freedom-miracleptr.html| 
-| 20220914 | DELL 安全研究团队在 Azure AD PTA 认证方案发现漏洞，PTA Agent 证书可以被攻击者导出滥用 | https://www.secureworks.com/research/azure-active-directory-pass-through-authentication-flaws| 
-| 20220914 | 基于图卷积神经网络的 web 登录入口识别方法 | http://paper.seebug.org/1969/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220916 | NPM 供应链安全最佳实践指南 | https://www.freebuf.com/articles/network/344337.html| 
+| 20220916 | Gitlab常见漏洞复现及后利用 | https://xz.aliyun.com/t/11690| 
+| 20220916 | SEVulDet：基于语义增强的系统漏洞挖掘器 | https://github.com/SEVulDet/SEVulDet| 
+| 20220916 | 一文区分个人信息、敏感个人信息和隐私信息 | https://mp.weixin.qq.com/s/7RKpZTC6421CUE6lj1scAQ| 
 | 20220915 | Google数据安全自动化建设之路（白皮书） | https://zhuanlan.zhihu.com/p/564689012| 
 | 20220913 | 一个科技平台型企业的网络安全建设心得 | https://mp.weixin.qq.com/s/y_4A2gehmSPCoy8f2xNOPQ| 
 | 20220913 | KCon 2022 Slide | https://github.com/knownsec/KCon/tree/master/2022| 
 | 20220913 | KCon 2022 Slide | /news/30663| 
 | 20220912 | [HTB] Bart Writeup | https://mp.weixin.qq.com/s/y4wXU1he7dqLvmzse08eiQ| 
 | 20220912 | SecWiki周刊（第445期) | https://www.sec-wiki.com/weekly/445| 
-| 20220911 | 物理模拟触屏点击 | https://binux.blog/2022/08/cat-planet-bot-part-1-touch-simulation/| 
-| 20220911 | PyPI 网络钓鱼活动分析 | https://paper.seebug.org/1960/| 
-| 20220911 | 关于那WebSocket劫持的二三事 | https://xz.aliyun.com/t/11684| 
-| 20220911 | 网络安全的三大支柱和攻击向量 | https://mp.weixin.qq.com/s/BJ9XIncEI7O2NWPeTNk2uA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220916T01:31:24Z | CVE-2022-24497 | A Zeek detector for CVE-2022-24497. | https://github.com/corelight/CVE-2022-24497 | | 
-| 20220916T01:01:18Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773m | | 
-| 20220916T01:01:16Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773S | | 
-| 20220916T01:01:09Z | CVE-2022-30190 | Proof of concept for CVE-2022-30190 (Follina). | https://github.com/winstxnhdw/CVE-2022-30190 | | 
-| 20220916T01:01:04Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-POC-RCE | | 
-| 20220915T14:51:04Z | CVE-2022-39841 | Null | https://github.com/stealthcopter/CVE-2022-39841 | | 
-| 20220915T12:35:18Z | CVE-2021-41773 | Null | https://github.com/mightysai1997/CVE-2021-41773.git1 | | 
-| 20220915T12:15:18Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013.get | | 
-| 20220915T11:35:00Z | cve-2021-42013 | Null | https://github.com/mightysai1997/cve-2021-42013L | | 
-| 20220915T11:32:51Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-MASS-RCE | | 
+| 20220916T11:28:52Z | CVE-2021-39696 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696 | | 
+| 20220916T10:59:58Z | CVE-2021-44228 | Mass exploitation scripts for 12 software which are affected by log4j rce | https://github.com/Administrative2022/CVE-2021-44228-RCE | | 
+| 20220916T10:44:26Z | CVE-2022-1040 | Unauthenticated RCE in sophos webadmin and administrative console | https://github.com/Administrative2022/CVE-2022-1040 | | 
+| 20220916T10:14:26Z | CVE-2022-36804 | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances. | https://github.com/CEOrbey/CVE-2022-36804-RCE | | 
+| 20220916T09:59:04Z | CVE-2022-20347 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2022-20347 | | 
+| 20220916T08:49:08Z | CVE-2022-32548 | Unauthenticated Remote Code Execution in DrayTek Vigor. CVE-2022-32548 | https://github.com/Administrative2022/CVE-2022-32548-MASS-RCE | | 
+| 20220916T08:42:02Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-POC-RCE | | 
+| 20220916T08:41:16Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-MASS-RCE | | 
+| 20220916T08:17:56Z | CVE-2022-37210 | CVE-2022-37210 POC | https://github.com/AgainstTheLight/CVE-2022-37210 | | 
+| 20220916T08:15:13Z | CVE-2022-37209 | CVE-2022-37209 POC | https://github.com/AgainstTheLight/CVE-2022-37209 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220915T16:09:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2058 | 584| 
+| 20220916T11:58:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2059 | 584| 
+| 20220916T04:10:21Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 75 | 1| 
 | 20220915T14:17:37Z | Pull Requests for https://github.com/SonOfLilit/kleenexp | https://github.com/JoshuaFox/kleenexp | 0 | 0| 
-| 20220915T01:23:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 74 | 1| 
 | 20220914T23:07:22Z | Null | https://github.com/kleeve/kleeve.github.io | 0 | 0| 
 | 20220914T20:19:57Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 | 20220914T14:05:19Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 6 | 0| 
@@ -87,21 +87,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220916T01:44:07Z | a list of proxies, games, and exploits for school chromebooks | https://github.com/Eternal587/TheBedroom | 0 | 0| 
-| 20220916T01:22:56Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 287 | 20| 
-| 20220916T00:45:27Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/TheJuicy69/EclipseWare-Free-Roblox-Exploits-v1.7- | 0 | 0| 
-| 20220916T00:45:27Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/TheJuicy69/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
-| 20220916T00:43:30Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/TheJuicy69/Omnis-Dead-Frontier-2-PrivateCheat | 1 | 0| 
-| 20220916T00:43:30Z | Exploit made for Roblox by Xyps0s | https://github.com/TheJuicy69/Nyve-Keyless-Roblox-Exploit | 1 | 0| 
-| 20220916T00:43:23Z | Ddos, Brute Force , Vpn checker , Vulnerability analysis , Trojan maker , Toolkit searcher , Port scanner , Firewall detector , Exploit searcher , Database stealer | https://github.com/kayung-developer/Hacking-Tools-System-for-Linux | 0 | 0| 
-| 20220916T00:38:01Z | A one file http server host PegaScape (Caffeine) exploit | https://github.com/jejer/caffeine | 0 | 0| 
-| 20220915T23:46:59Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2988 | 542| 
-| 20220915T23:27:46Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/bravo91/GPay-balance-exploiter-by-VenomX | 1 | 0| 
+| 20220916T11:17:27Z | Tool to automatically exploit Active Directory privilege escalation paths shown by BloodHound | https://github.com/CravateRouge/autobloody | 64 | 6| 
+| 20220916T11:16:58Z | EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 329 | 43| 
+| 20220916T11:01:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4152 | 622| 
+| 20220916T10:59:58Z | Mass exploitation scripts for 12 software which are affected by log4j rce | https://github.com/Administrative2022/CVE-2021-44228-RCE | 0 | 0| 
+| 20220916T10:14:26Z | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances. | https://github.com/CEOrbey/CVE-2022-36804-RCE | 0 | 0| 
+| 20220916T09:16:36Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Nko91/GPay-balance-exploiter-by-VenomX | 1 | 0| 
+| 20220916T09:13:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 504 | 141| 
+| 20220916T08:09:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3622 | 442| 
+| 20220916T06:56:16Z | If you have a LFI vulnerability you can use this script to scan PIDs and maybe find a vulnerable process to exploit further. | https://github.com/Robing00/PID-via-LFI | 1 | 0| 
+| 20220916T04:40:37Z | CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime  | https://github.com/XmasSnowISBACK/CVE-2022-26809 | 30 | 11| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T09:29:15Z | A JSP Script that could be used as a backdoor to retain access into a hacked java servlet based web server. | https://github.com/Melan0ma/JspBackdoor | 0 | 0| 
+| 20220916T07:40:00Z | DarkSpy TCP Backdoor | https://github.com/amaitou/DarkSpy | 23 | 6| 
 | 20220916T01:44:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 175 | 48| 
 | 20220916T01:19:33Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 32 | 4| 
 | 20220915T22:47:55Z | Free NFT/ETH drainer -- NO Backdoors, send me a msg for the unobscured code. If you wanna use this, please make sure to host on either github pages with custom url or use a different hosting service | https://github.com/FREENFTMINT/TatePunkDrainer | 0 | 0| 
@@ -110,8 +112,6 @@
 | 20220915T06:34:47Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 18 | 8| 
 | 20220914T20:12:04Z | Null | https://github.com/H4ckingToolz/Metasploit-FUD-backdoor | 0 | 0| 
 | 20220914T16:19:20Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 8 | 5| 
-| 20220914T10:35:54Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 3 | 0| 
-| 20220914T09:02:03Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 54 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220916T01:17:40Z | Null | https://github.com/kenkenpi/fuzzy_control | 0 | 0| 
-| 20220916T01:09:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7840 | 1686| 
-| 20220916T00:15:58Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1491 | 66| 
-| 20220915T22:59:52Z | The objective of this project is to show the use of a fuzzy logic system to estimate the young adult%s mental health and well-being index based on carefully chosen behavioural and environmental factors that are considered important for determining mental well-being | https://github.com/tahniasabah/Mental-Health-Index-calculation-using-Fuzzy-Logic-System | 0 | 0| 
-| 20220915T22:13:34Z | Null | https://github.com/SparcOG/fuzzy-octo-adventure | 0 | 0| 
-| 20220915T21:29:55Z | org-babel support for web fuzzing with ffuf | https://github.com/daniel-ts/ob-ffuf | 0 | 0| 
-| 20220915T20:52:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 41706 | 20901| 
-| 20220915T20:44:18Z | Null | https://github.com/google/fuzztest | 6 | 0| 
-| 20220915T19:46:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1008 | 113| 
-| 20220915T16:33:32Z | Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer | https://github.com/langston-barrett/czz | 5 | 0| 
+| 20220916T10:46:03Z | Console log Javascript Suit Jawa Game | https://github.com/FMATheNomad/fuzzy-octo-meme | 0 | 0| 
+| 20220916T10:45:17Z | A simple wrapper of idb for iOS GUI fuzzing testing | https://github.com/hagemon/ifz | 0 | 0| 
+| 20220916T10:06:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7846 | 1686| 
+| 20220916T09:17:33Z | Null | https://github.com/wanliLiu/IntentFuzzer | 0 | 0| 
+| 20220916T09:01:07Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 11 | 4| 
+| 20220916T08:43:36Z | Null | https://github.com/grumpyNeko/myFuzz | 0 | 0| 
+| 20220916T08:36:20Z | Null | https://github.com/najmudinr/Fuzzy-Time-Series-Chen | 0 | 0| 
+| 20220916T08:23:55Z | Null | https://github.com/gryzmahlay/fuzzy-memory | 0 | 0| 
+| 20220916T08:09:15Z | Null | https://github.com/dhownah/fuzzy-tribble | 0 | 0| 
+| 20220916T06:24:19Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 43 | 4| 
 
 
 
