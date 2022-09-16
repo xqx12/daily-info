@@ -95,7 +95,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220915T22:59:52Z | The objective of this project is to show the use of a fuzzy logic system to estimate the young adult%s mental health and well-being index based on carefully chosen behavioural and environmental factors that are considered important for determining mental well-being | https://github.com/tahniasabah/Mental-Health-Index-calculation-using-Fuzzy-Logic-System | 0 | 0| 
-| 20220915T22:30:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7838 | 1686| 
 | 20220915T22:13:34Z | Null | https://github.com/SparcOG/fuzzy-octo-adventure | 0 | 0| 
 | 20220915T21:29:55Z | org-babel support for web fuzzing with ffuf | https://github.com/daniel-ts/ob-ffuf | 0 | 0| 
 | 20220915T20:52:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 41706 | 20901| 
@@ -104,6 +103,7 @@
 | 20220915T16:33:32Z | Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer | https://github.com/langston-barrett/czz | 5 | 0| 
 | 20220915T15:57:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2596 | 176| 
 | 20220915T11:44:55Z | Демо проект для доклада %Безопасная разработка% | https://github.com/belyaev-ms/fuzzing | 1 | 1| 
+| 20220915T09:45:20Z | Null | https://github.com/irekommend/location_fuzzy_search | 0 | 0| 
 
 
 
