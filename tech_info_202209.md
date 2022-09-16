@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T01:22:56Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 287 | 20| 
 | 20220916T01:21:53Z | a list of proxies, games, and exploits for school chromebooks | https://github.com/Eternal587/TheBedroom | 0 | 0| 
-| 20220916T00:58:57Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 286 | 20| 
 | 20220916T00:45:27Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/TheJuicy69/EclipseWare-Free-Roblox-Exploits-v1.7- | 0 | 0| 
 | 20220916T00:45:27Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/TheJuicy69/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
 | 20220916T00:43:30Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/TheJuicy69/Omnis-Dead-Frontier-2-PrivateCheat | 1 | 0| 
