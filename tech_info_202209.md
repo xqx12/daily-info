@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T01:19:33Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 32 | 4| 
 | 20220915T22:47:55Z | Free NFT/ETH drainer -- NO Backdoors, send me a msg for the unobscured code. If you wanna use this, please make sure to host on either github pages with custom url or use a different hosting service | https://github.com/FREENFTMINT/TatePunkDrainer | 0 | 0| 
 | 20220915T11:28:45Z | Null | https://github.com/nanoqsh/backdoor | 0 | 0| 
 | 20220915T09:11:53Z | Null | https://github.com/SCLBD/BackdoorBench | 48 | 6| 
@@ -111,7 +112,6 @@
 | 20220914T10:35:54Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 3 | 0| 
 | 20220914T09:02:03Z | The official implementation of Narcissus clean-label backdoor attack -- only takes THREE images to poison a face recognition dataset in a clean-label way and achieves a 99.89% attack success rate. | https://github.com/ruoxi-jia-group/Narcissus-backdoor-attack | 54 | 3| 
 | 20220914T04:51:51Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1920 | 689| 
-| 20220914T03:48:35Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 174 | 48| 
 
 
 # symbolic execution on Github 推荐
