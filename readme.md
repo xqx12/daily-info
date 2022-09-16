@@ -101,9 +101,9 @@
 | 20220915T20:52:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 41706 | 20901| 
 | 20220915T20:44:18Z | Null | https://github.com/google/fuzztest | 6 | 0| 
 | 20220915T19:46:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1008 | 113| 
-| 20220915T16:59:05Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1490 | 66| 
 | 20220915T16:33:32Z | Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer | https://github.com/langston-barrett/czz | 5 | 0| 
 | 20220915T15:57:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2596 | 176| 
+| 20220915T11:44:55Z | Демо проект для доклада %Безопасная разработка% | https://github.com/belyaev-ms/fuzzing | 1 | 1| 
 
 
 

@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T00:15:58Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1491 | 66| 
 | 20220915T22:59:52Z | The objective of this project is to show the use of a fuzzy logic system to estimate the young adult%s mental health and well-being index based on carefully chosen behavioural and environmental factors that are considered important for determining mental well-being | https://github.com/tahniasabah/Mental-Health-Index-calculation-using-Fuzzy-Logic-System | 0 | 0| 
 | 20220915T22:30:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7838 | 1686| 
 | 20220915T22:13:34Z | Null | https://github.com/SparcOG/fuzzy-octo-adventure | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20220915T20:52:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 41706 | 20901| 
 | 20220915T20:44:18Z | Null | https://github.com/google/fuzztest | 6 | 0| 
 | 20220915T19:46:03Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1008 | 113| 
-| 20220915T16:59:05Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1490 | 66| 
 | 20220915T16:33:32Z | Whole-program, Scheme-scriptable, multi-language, coverage-guided fuzzer | https://github.com/langston-barrett/czz | 5 | 0| 
 | 20220915T15:57:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2596 | 176| 
 
