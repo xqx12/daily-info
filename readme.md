@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T12:22:15Z | Un système connecté pour exploiter les données Ecowatt | https://github.com/labsud/Ecowatt | 0 | 0| 
 | 20220916T11:17:27Z | Tool to automatically exploit Active Directory privilege escalation paths shown by BloodHound | https://github.com/CravateRouge/autobloody | 64 | 6| 
 | 20220916T11:16:58Z | EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 329 | 43| 
 | 20220916T11:01:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4152 | 622| 
@@ -65,7 +66,6 @@
 | 20220916T09:13:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 504 | 141| 
 | 20220916T08:40:59Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 529 | 31| 
 | 20220916T08:09:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3622 | 442| 
-| 20220916T06:56:16Z | If you have a LFI vulnerability you can use this script to scan PIDs and maybe find a vulnerable process to exploit further. | https://github.com/Robing00/PID-via-LFI | 1 | 0| 
 
 
 # backdoor on Github 推荐
