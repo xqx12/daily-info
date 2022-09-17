@@ -16,6 +16,7 @@
 | 20220916 | 借助 tty_struct 结构体的 Linux 内核漏洞的利用 | https://github.com/smallkirby/kernelpwn/blob/master/technique/tty_struct.md| 
 | 20220916 | OpenRazer Linux 内核驱动漏洞的分析（CVE-2022-29021, CVE-2022-29022, CVE-2022-29023） | https://www.cyberark.com/resources/threat-research-blog/colorful-vulnerabilities| 
 | 20220916 | Blizzard Jailbreak iOS 15 - Booting The Patched Kernel | https://www.youtube.com/watch?v=3f_rBh3K-tE&feature=youtu.be| 
+| 20220916 | Bvp47-技术细节分析报告II | https://www.pangulab.cn/en/post/the_bvp47_a_top-tier_backdoor_of_us_nsa_equation_group_ii/| 
 
 
 # 安全维基 推荐
@@ -30,22 +31,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220916T11:28:52Z | CVE-2021-39696 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696 | | 
+| 20220916T17:50:58Z | CVE-2022-32917 | APPLE IOS/IPADOS UP TO 15.6.1 KERNEL LOCAL PRIVILEGE ESCALATION | https://github.com/Administrative2022/CVE-2022-32917-POC | | 
+| 20220916T16:34:02Z | CVE-2022-23773 | Null | https://github.com/danbudris/CVE-2022-23773-repro-target | | 
+| 20220916T16:28:35Z | CVE-2022-23773 | PoC repro of CVE-2022-23773 in Go | https://github.com/danbudris/CVE-2022-23773-repro | | 
+| 20220916T14:21:21Z | 未知编号 | github-fundamentals-CVenegas2022 created by GitHub Classroom | https://github.com/CS208/github-fundamentals-CVenegas2022 | | 
+| 20220916T14:12:35Z | CVE-2021-39696 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696 | | 
+| 20220916T13:43:52Z | CVE-2022-34718 | Windows TCP/IP unauthenticated Remote Code Execution Vulnerability. | https://github.com/Administrative2022/CVE-2022-34718-RCE-POC | | 
 | 20220916T10:59:58Z | CVE-2021-44228 | Mass exploitation scripts for 12 software which are affected by log4j rce | https://github.com/Administrative2022/CVE-2021-44228-RCE | | 
 | 20220916T10:44:26Z | CVE-2022-1040 | Unauthenticated RCE in sophos webadmin and administrative console | https://github.com/Administrative2022/CVE-2022-1040 | | 
 | 20220916T10:14:26Z | CVE-2022-36804 | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances. | https://github.com/CEOrbey/CVE-2022-36804-RCE | | 
 | 20220916T09:59:04Z | CVE-2022-20347 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2022-20347 | | 
-| 20220916T08:49:08Z | CVE-2022-32548 | Unauthenticated Remote Code Execution in DrayTek Vigor. CVE-2022-32548 | https://github.com/Administrative2022/CVE-2022-32548-MASS-RCE | | 
-| 20220916T08:42:02Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-POC-RCE | | 
-| 20220916T08:41:16Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-MASS-RCE | | 
-| 20220916T08:17:56Z | CVE-2022-37210 | CVE-2022-37210 POC | https://github.com/AgainstTheLight/CVE-2022-37210 | | 
-| 20220916T08:15:13Z | CVE-2022-37209 | CVE-2022-37209 POC | https://github.com/AgainstTheLight/CVE-2022-37209 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220916T11:58:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2059 | 584| 
+| 20220916T16:38:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2060 | 584| 
 | 20220916T04:10:21Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 75 | 1| 
 
 
@@ -57,21 +58,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T23:58:36Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4873 | 675| 
+| 20220916T23:23:24Z | My roblox exploits | https://github.com/Flimpix/RobloxScripts | 0 | 0| 
+| 20220916T21:41:57Z | Exploiting a vulnerable service on port 4848 | https://github.com/ArminToric28/Glassfish_Exploit | 0 | 0| 
+| 20220916T21:02:00Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-166336206-christianvogt2-exploit-pick | 0 | 0| 
+| 20220916T20:49:00Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheShadowZ/GPay-balance-exploiter-by-VenomX | 1 | 0| 
+| 20220916T20:31:39Z | xSMTP 🦟 Lightning fast, multithreaded smtp scanner targeting open-relay and unsecured servers in multiple network ranges. | https://github.com/c99tn/xSMTP | 3 | 0| 
+| 20220916T20:00:13Z | Solutions and exploits of CTF challenges I%ve successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | 2 | 0| 
 | 20220916T12:22:15Z | Un système connecté pour exploiter les données Ecowatt | https://github.com/labsud/Ecowatt | 0 | 0| 
 | 20220916T11:21:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12026 | 2063| 
 | 20220916T11:17:27Z | Tool to automatically exploit Active Directory privilege escalation paths shown by BloodHound | https://github.com/CravateRouge/autobloody | 64 | 6| 
-| 20220916T11:16:58Z | EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 329 | 43| 
-| 20220916T11:01:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4152 | 622| 
-| 20220916T10:59:58Z | Mass exploitation scripts for 12 software which are affected by log4j rce | https://github.com/Administrative2022/CVE-2021-44228-RCE | 0 | 0| 
-| 20220916T10:14:26Z | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances. | https://github.com/CEOrbey/CVE-2022-36804-RCE | 0 | 0| 
-| 20220916T09:16:36Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Nko91/GPay-balance-exploiter-by-VenomX | 1 | 0| 
-| 20220916T09:13:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 504 | 141| 
-| 20220916T08:40:59Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 529 | 31| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220916T21:24:28Z | botnet and backdoor for hacker using python | https://github.com/NH-web/NH-botnet | 0 | 0| 
+| 20220916T14:15:52Z | Detecting backdoors through layer-wise features analysis | https://github.com/anonymized1/DBALFA | 0 | 0| 
+| 20220916T13:30:46Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 562 | 110| 
 | 20220916T09:29:15Z | A JSP Script that could be used as a backdoor to retain access into a hacked java servlet based web server. | https://github.com/Melan0ma/JspBackdoor | 0 | 0| 
 | 20220916T07:40:00Z | DarkSpy TCP Backdoor | https://github.com/amaitou/DarkSpy | 23 | 6| 
 | 20220916T01:44:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 175 | 48| 
@@ -81,8 +85,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220916T11:58:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2059 | 584| 
-| 20220916T10:48:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3102 | 434| 
+| 20220916T19:50:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3101 | 434| 
+| 20220916T19:10:01Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 23 | 5| 
+| 20220916T16:38:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2060 | 584| 
+| 20220916T13:33:13Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 214 | 29| 
 
 
 # big4 on Github 推荐
