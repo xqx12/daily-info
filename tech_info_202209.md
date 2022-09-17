@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220917 | JWT认证攻击详解总结 | https://mp.weixin.qq.com/s/kfB0ovlafuAcoI5yEEkDEQ| 
+| 20220917 | 针对Uber被黑客攻击事件的简单分析 | https://mp.weixin.qq.com/s/QKt-nM-3kWEUksNTovyJrQ| 
+| 20220917 | GoTestWAF: 自动化评估Web应用程序安全 | https://mp.weixin.qq.com/s/RZplLKYua6J-JQztxGXS6A| 
 | 20220916 | NPM 供应链安全最佳实践指南 | https://www.freebuf.com/articles/network/344337.html| 
 | 20220916 | Gitlab常见漏洞复现及后利用 | https://xz.aliyun.com/t/11690| 
 | 20220916 | SEVulDet：基于语义增强的系统漏洞挖掘器 | https://github.com/SEVulDet/SEVulDet| 
@@ -38,35 +41,32 @@
 | 20220915 | Google数据安全自动化建设之路（白皮书） | https://zhuanlan.zhihu.com/p/564689012| 
 | 20220913 | 一个科技平台型企业的网络安全建设心得 | https://mp.weixin.qq.com/s/y_4A2gehmSPCoy8f2xNOPQ| 
 | 20220913 | KCon 2022 Slide | https://github.com/knownsec/KCon/tree/master/2022| 
-| 20220913 | KCon 2022 Slide | /news/30663| 
-| 20220912 | [HTB] Bart Writeup | https://mp.weixin.qq.com/s/y4wXU1he7dqLvmzse08eiQ| 
-| 20220912 | SecWiki周刊（第445期) | https://www.sec-wiki.com/weekly/445| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220916T17:50:58Z | CVE-2022-32917 | APPLE IOS/IPADOS UP TO 15.6.1 KERNEL LOCAL PRIVILEGE ESCALATION | https://github.com/Administrative2022/CVE-2022-32917-POC | | 
+| 20220917T11:54:56Z | CVE-2022-32548 | Mass Unauthenticated Remote Code Execution in DrayTek Vigor(CVE-2022-32548) botnet version | https://github.com/n0zxRY0/CVE-2022-32548-RCE | | 
+| 20220917T09:56:47Z | CVE-2021-39172 | Cachet 2.4 Code Execution via Laravel Configuration Injection CVE-2021-39172 | https://github.com/W1ngLess/CVE-2021-39172-RCE | | 
+| 20220917T07:32:07Z | CVE-2022-34718 | Windows TCP/IP unauthenticated Remote Code Execution Vulnerability. | https://github.com/Administrative2022/CVE-2022-34718-RCE-POC | | 
+| 20220917T07:31:56Z | CVE-2022-23773 | PoC repro of CVE-2022-23773 in Go | https://github.com/danbudris/CVE-2022-23773-repro | | 
+| 20220917T07:31:44Z | CVE-2022-32917 | APPLE IOS/IPADOS UP TO 15.6.1 KERNEL LOCAL PRIVILEGE ESCALATION | https://github.com/Administrative2022/CVE-2022-32917-POC | | 
+| 20220917T04:27:07Z | cve-2022-22954 | Null | https://github.com/corelight/cve-2022-22954 | | 
 | 20220916T16:34:02Z | CVE-2022-23773 | Null | https://github.com/danbudris/CVE-2022-23773-repro-target | | 
-| 20220916T16:28:35Z | CVE-2022-23773 | PoC repro of CVE-2022-23773 in Go | https://github.com/danbudris/CVE-2022-23773-repro | | 
 | 20220916T14:21:21Z | 未知编号 | github-fundamentals-CVenegas2022 created by GitHub Classroom | https://github.com/CS208/github-fundamentals-CVenegas2022 | | 
 | 20220916T14:12:35Z | CVE-2021-39696 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-39696 | | 
-| 20220916T13:43:52Z | CVE-2022-34718 | Windows TCP/IP unauthenticated Remote Code Execution Vulnerability. | https://github.com/Administrative2022/CVE-2022-34718-RCE-POC | | 
 | 20220916T10:59:58Z | CVE-2021-44228 | Mass exploitation scripts for 12 software which are affected by log4j rce | https://github.com/Administrative2022/CVE-2021-44228-RCE | | 
-| 20220916T10:44:26Z | CVE-2022-1040 | Unauthenticated RCE in sophos webadmin and administrative console | https://github.com/Administrative2022/CVE-2022-1040 | | 
-| 20220916T10:14:26Z | CVE-2022-36804 | A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances. | https://github.com/CEOrbey/CVE-2022-36804-RCE | | 
-| 20220916T09:59:04Z | CVE-2022-20347 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2022-20347 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220917T00:22:59Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 7 | 0| 
 | 20220916T16:38:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2060 | 584| 
 | 20220916T04:10:21Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 75 | 1| 
 | 20220915T14:17:37Z | Pull Requests for https://github.com/SonOfLilit/kleenexp | https://github.com/JoshuaFox/kleenexp | 0 | 0| 
 | 20220914T23:07:22Z | Null | https://github.com/kleeve/kleeve.github.io | 0 | 0| 
 | 20220914T20:19:57Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
-| 20220914T14:05:19Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 6 | 0| 
 | 20220913T10:40:43Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 8 | 0| 
 | 20220913T05:50:48Z | Null | https://github.com/klee972/klee972.github.io | 0 | 0| 
 | 20220913T05:08:32Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 184 | 29| 
@@ -87,21 +87,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220917T00:08:01Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/FrostyCheck/Omnis-Dead-Frontier-2-PrivateCheat | 3 | 0| 
-| 20220917T00:07:58Z | Exploit made for Roblox by Xyps0s | https://github.com/FrostyCheck/Nyve-Keyless-Roblox-Exploit | 3 | 0| 
-| 20220916T23:58:36Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4873 | 675| 
-| 20220916T23:23:24Z | My roblox exploits | https://github.com/Flimpix/RobloxScripts | 0 | 0| 
-| 20220916T21:41:57Z | Exploiting a vulnerable service on port 4848 | https://github.com/ArminToric28/Glassfish_Exploit | 0 | 0| 
-| 20220916T21:02:00Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-166336206-christianvogt2-exploit-pick | 0 | 0| 
-| 20220916T20:49:00Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheShadowZ/GPay-balance-exploiter-by-VenomX | 1 | 0| 
-| 20220916T20:31:39Z | xSMTP 🦟 Lightning fast, multithreaded smtp scanner targeting open-relay and unsecured servers in multiple network ranges. | https://github.com/c99tn/xSMTP | 3 | 0| 
-| 20220916T20:00:13Z | Solutions and exploits of CTF challenges I%ve successfully pwned | https://github.com/DragonTechRoyale/CTF-Solutions | 2 | 0| 
-| 20220916T12:22:15Z | Un système connecté pour exploiter les données Ecowatt | https://github.com/labsud/Ecowatt | 0 | 0| 
+| 20220917T12:24:34Z | A lib for Flipper Zero Edited and more  | https://github.com/Y4nN0xX/Flipper-Zero-Exploit | 0 | 0| 
+| 20220917T11:38:15Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12031 | 2065| 
+| 20220917T11:11:28Z | Null | https://github.com/harunLog/exploit.js | 0 | 0| 
+| 20220917T10:14:47Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1028 | 96| 
+| 20220917T09:56:47Z | Cachet 2.4 Code Execution via Laravel Configuration Injection CVE-2021-39172 | https://github.com/W1ngLess/CVE-2021-39172-RCE | 0 | 0| 
+| 20220917T09:43:32Z | basic api. compatibility for every exploit. | https://github.com/udkpg/snub-api | 3 | 1| 
+| 20220917T09:35:22Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4873 | 675| 
+| 20220917T07:04:21Z | Tutorial about web application attacks and Fundamental principle of How the attack works, Exploitation and How to defend from those attacks. | https://github.com/rahul0x00/BugBountyClass | 1 | 0| 
+| 20220917T06:23:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 507 | 141| 
+| 20220917T00:47:01Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-R- | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220917T08:03:15Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 336 | 32| 
+| 20220917T07:58:19Z | Spigot Backdoor Plugin for Minecraft | https://github.com/Akkey75/McDoor | 0 | 0| 
 | 20220916T21:24:28Z | botnet and backdoor for hacker using python | https://github.com/NH-web/NH-botnet | 0 | 0| 
 | 20220916T14:15:52Z | Detecting backdoors through layer-wise features analysis | https://github.com/anonymized1/DBALFA | 0 | 0| 
 | 20220916T13:30:46Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 562 | 110| 
@@ -110,14 +112,12 @@
 | 20220916T01:44:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 175 | 48| 
 | 20220916T01:19:33Z | webshell免杀案例 | https://github.com/rexSurprise/webshell-free | 32 | 4| 
 | 20220915T22:47:55Z | Free NFT/ETH drainer -- NO Backdoors, send me a msg for the unobscured code. If you wanna use this, please make sure to host on either github pages with custom url or use a different hosting service | https://github.com/FREENFTMINT/TatePunkDrainer | 0 | 0| 
-| 20220915T11:28:45Z | Null | https://github.com/nanoqsh/backdoor | 0 | 0| 
-| 20220915T09:11:53Z | Null | https://github.com/SCLBD/BackdoorBench | 48 | 6| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220916T19:50:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3101 | 434| 
+| 20220917T10:02:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3104 | 435| 
 | 20220916T19:10:01Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 23 | 5| 
 | 20220916T16:38:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2060 | 584| 
 | 20220916T13:33:13Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 214 | 29| 
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220916T12:29:33Z | API Flask fuzzy logic | https://github.com/Alieski/fuzzy-model | 1 | 0| 
-| 20220916T12:19:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7847 | 1686| 
-| 20220916T10:46:03Z | Console log Javascript Suit Jawa Game | https://github.com/FMATheNomad/fuzzy-octo-meme | 0 | 0| 
-| 20220916T10:45:17Z | A simple wrapper of idb for iOS GUI fuzzing testing | https://github.com/hagemon/ifz | 0 | 0| 
-| 20220916T09:17:33Z | Null | https://github.com/wanliLiu/IntentFuzzer | 0 | 0| 
-| 20220916T09:01:07Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 11 | 4| 
-| 20220916T08:43:36Z | Null | https://github.com/grumpyNeko/myFuzz | 0 | 0| 
-| 20220916T08:36:20Z | Null | https://github.com/najmudinr/Fuzzy-Time-Series-Chen | 0 | 0| 
-| 20220916T08:23:55Z | Null | https://github.com/gryzmahlay/fuzzy-memory | 0 | 0| 
-| 20220916T08:09:15Z | Null | https://github.com/dhownah/fuzzy-tribble | 0 | 0| 
+| 20220917T12:50:59Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3028 | 604| 
+| 20220917T12:25:52Z | Fuzzied - continuous fuzzing for smart contracts [ETHBerlin³ Submission] | https://github.com/1ultimat3/fuzzied | 0 | 0| 
+| 20220917T12:07:09Z | 收集本人自接触渗透测试用于漏洞验证的所有CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ | https://github.com/wjl110/CVE-Master | 4 | 0| 
+| 20220917T09:29:13Z | Null | https://github.com/anusha-pasupuleti/fuzzy-happiness | 0 | 0| 
+| 20220917T08:49:45Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1495 | 66| 
+| 20220917T08:34:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/JitPatro/Seclists-Snap | 0 | 0| 
+| 20220917T06:54:41Z | Null | https://github.com/koreakimbyung/fuzzy-goggles | 0 | 0| 
+| 20220917T06:48:15Z | In this project, our goal is to design a fuzzy expert system to detect whether a person has heart disease. | https://github.com/Mohadeseh-Atyabi/Fuzzy-expert-system-for-heart-disease-diagnosis | 0 | 0| 
+| 20220917T01:08:52Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2881 | 341| 
+| 20220916T15:13:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7849 | 1687| 
 
 
 
