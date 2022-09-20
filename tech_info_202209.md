@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220920T12:14:21Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220920T12:28:32Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220920T10:51:55Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/N0pch/CVE-2022-36804-mass-rce | | 
 | 20220920T10:08:47Z | cve-2022-36804 | CVE-2022-36804 Atlassian Bitbucket Command Injection Vulnerability | https://github.com/Vulnmachines/bitbucket-cve-2022-36804 | | 
 | 20220920T09:44:11Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220920T12:23:40Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheShadowG/GPay-balance-exploiter-by-VenomX | 4 | 0| 
+| 20220920T12:28:25Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheShadowG/GPay-balance-exploiter-by-VenomX | 5 | 0| 
 | 20220920T11:41:55Z | Roblox Exploit GUI | https://github.com/RVCDv/devvin | 0 | 0| 
 | 20220920T11:33:48Z | a shellcode is a small piece of code used as the payload in the exploitation of a software vulnerability. It is called %shellcode% because it typically starts a command shell from which the attacker can control the compromised machine, but any piece of code that performs a similar task can be called shellcode. Because the function of a payload is not limited to merely spawning a shell, some have suggested that the name shellcode is insufficient.[1] However, attempts at replacing the term have not gained wide acceptance. Shellcode is commonly written in machine code.  | https://github.com/ze3ter/shellcode-exploit | 0 | 0| 
 | 20220920T11:14:48Z | CTF XSS Challenge Exploit | https://github.com/yCherny/ctfxss | 0 | 0| 
