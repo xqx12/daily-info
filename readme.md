@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220920T12:28:32Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220920T12:42:30Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220920T10:51:55Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/N0pch/CVE-2022-36804-mass-rce | | 
 | 20220920T10:08:47Z | cve-2022-36804 | CVE-2022-36804 Atlassian Bitbucket Command Injection Vulnerability | https://github.com/Vulnmachines/bitbucket-cve-2022-36804 | | 
 | 20220920T09:44:11Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
