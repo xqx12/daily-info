@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220920T12:09:46Z | Null | https://github.com/mrsl2000/AutomaticBrakeSystem-FuzzyLogic | 0 | 0| 
 | 20220920T12:02:57Z | Fuzzy Logic and Fuzzy Inference for Python 3 | https://github.com/amogorkon/fuzzylogic | 67 | 13| 
 | 20220920T12:00:19Z | Null | https://github.com/mrsl2000/C-Means-FuzzyLogic | 0 | 0| 
 | 20220920T11:40:29Z | A Benchmark to Evaluate Windows Fuzzers | https://github.com/Anonymwinmagma/WinMagmaAnonymous | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220920T05:49:23Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 826 | 159| 
 | 20220920T04:54:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7856 | 1690| 
 | 20220918T18:11:33Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 45 | 4| 
-| 20220918T10:45:54Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1226 | 241| 
 
 
 

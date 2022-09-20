@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220920T12:09:46Z | Null | https://github.com/mrsl2000/AutomaticBrakeSystem-FuzzyLogic | 0 | 0| 
 | 20220920T12:02:57Z | Fuzzy Logic and Fuzzy Inference for Python 3 | https://github.com/amogorkon/fuzzylogic | 67 | 13| 
 | 20220920T12:00:19Z | Null | https://github.com/mrsl2000/C-Means-FuzzyLogic | 0 | 0| 
 | 20220920T11:40:29Z | A Benchmark to Evaluate Windows Fuzzers | https://github.com/Anonymwinmagma/WinMagmaAnonymous | 0 | 0| 
