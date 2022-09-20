@@ -54,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220920T12:18:14Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheShadowG/GPay-balance-exploiter-by-VenomX | 2 | 0| 
+| 20220920T12:23:40Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheShadowG/GPay-balance-exploiter-by-VenomX | 4 | 0| 
 | 20220920T11:41:55Z | Roblox Exploit GUI | https://github.com/RVCDv/devvin | 0 | 0| 
 | 20220920T11:33:48Z | a shellcode is a small piece of code used as the payload in the exploitation of a software vulnerability. It is called %shellcode% because it typically starts a command shell from which the attacker can control the compromised machine, but any piece of code that performs a similar task can be called shellcode. Because the function of a payload is not limited to merely spawning a shell, some have suggested that the name shellcode is insufficient.[1] However, attempts at replacing the term have not gained wide acceptance. Shellcode is commonly written in machine code.  | https://github.com/ze3ter/shellcode-exploit | 0 | 0| 
 | 20220920T11:14:48Z | CTF XSS Challenge Exploit | https://github.com/yCherny/ctfxss | 0 | 0| 
 | 20220920T10:54:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4230 | 635| 
 | 20220920T10:51:55Z | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/N0pch/CVE-2022-36804-mass-rce | 0 | 0| 
+| 20220920T10:24:36Z | Awesome list of step by step techniques  to achieve Remote Code Execution on various apps! | https://github.com/p0dalirius/Awesome-RCE-techniques | 1469 | 162| 
 | 20220920T09:08:14Z | PowerShell MachineAccountQuota and DNS exploit tools | https://github.com/Kevin-Robertson/Powermad | 786 | 142| 
 | 20220920T08:52:31Z | Null | https://github.com/RAFrei/MARCXML_exploit | 0 | 0| 
 | 20220920T08:48:21Z | Appsoft Thailand Exploit | https://github.com/T-Tools/appsoft | 0 | 0| 
-| 20220920T08:48:00Z | hcaptcha 0day exploit / bypass | https://github.com/Its-Vichy/hcaptcha-0day | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220920T12:24:38Z | Testing  | https://github.com/Faceasia/fuzzy-system | 0 | 0| 
 | 20220920T12:09:46Z | Null | https://github.com/mrsl2000/AutomaticBrakeSystem-FuzzyLogic | 0 | 0| 
 | 20220920T12:02:57Z | Fuzzy Logic and Fuzzy Inference for Python 3 | https://github.com/amogorkon/fuzzylogic | 67 | 13| 
 | 20220920T12:00:19Z | Null | https://github.com/mrsl2000/C-Means-FuzzyLogic | 0 | 0| 
