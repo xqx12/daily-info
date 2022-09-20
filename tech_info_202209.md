@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220920T12:02:57Z | Fuzzy Logic and Fuzzy Inference for Python 3 | https://github.com/amogorkon/fuzzylogic | 67 | 13| 
 | 20220920T12:00:19Z | Null | https://github.com/mrsl2000/C-Means-FuzzyLogic | 0 | 0| 
 | 20220920T11:40:29Z | A Benchmark to Evaluate Windows Fuzzers | https://github.com/Anonymwinmagma/WinMagmaAnonymous | 0 | 0| 
 | 20220920T09:59:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4339 | 1051| 
@@ -152,7 +153,6 @@
 | 20220920T04:54:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7856 | 1690| 
 | 20220918T18:11:33Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 45 | 4| 
 | 20220918T10:45:54Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1226 | 241| 
-| 20220918T10:28:11Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1465 | 260| 
 
 
 
