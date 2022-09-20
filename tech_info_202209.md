@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220920 | CVE-2022-32223 Discovery: DLL Hijacking via npm CLI | https://blog.aquasec.com/cve-2022-32223-dll-hijacking| 
+| 20220920 | 利用 Process Explorer 驱动的漏洞实现内核代码执行 | https://www.elastic.co/cn/security-labs/stopping-vulnerable-driver-attacks| 
+| 20220920 | Bitbucket Server CVE-2022-36804 漏洞分析 | https://www.anquanke.com/post/id/280193| 
+| 20220920 | Windows COM 实现之 Monikers | http://scorpiosoftware.net/2022/09/18/introduction-to-monikers/| 
+| 20220920 | Rockstar 游戏公司的 Slack 服务和 Confluence wiki 被黑，GTA 6 游戏的源码和视频泄露 | https://www.bleepingcomputer.com/news/security/gta-6-source-code-and-videos-leaked-after-rockstar-games-hack/| 
+| 20220920 | 将 EXE 重写成可以加载的 DLL 文件，支持 32 位和 64 位 EXE | https://github.com/hasherezade/exe_to_dll| 
+| 20220920 | 基于 Meterpreter Shellcode 实现的 Cobalt Strike 的 payload 分析 | http://decoded.avast.io/threatintel/decoding-cobalt-strike-understanding-payloads/| 
+| 20220920 | GraphQL Sever Fingerprinting | https://github.com/dolevf/graphw00f| 
 | 20220919 | 从攻击者的角度看 K8S Cluster 安全 | http://tutorialboy24.blogspot.com/2022/09/a-detailed-talk-about-k8s-cluster.html| 
 | 20220919 | Practical Attacks against NTLMv1 | https://www.trustedsec.com/blog/practical-attacks-against-ntlmv1/| 
 | 20220919 | Google 开源的 Docker 文件系统离线取证分析工具 | https://github.com/google/docker-explorer/| 
@@ -18,14 +26,6 @@
 | 20220919 | 针对U盘文件的盗与防攻略 | http://paper.seebug.org/1972/| 
 | 20220919 | MacOS 水坑攻击组合拳分析复现 | https://tttang.com/archive/1745/| 
 | 20220916 | 利用 Jetty Web Server 提供的一些特性攻击 Web App | https://swarm.ptsecurity.com/jetty-features-for-hacking-web-apps/| 
-| 20220916 | Quantum 勒索软件的分析报告 | https://securityscorecard.pathfactory.com/research/quantum-ransomware| 
-| 20220916 | 云原生安全监控工具 Falco 开始支持 Google 开源的 gVisor 容器沙箱 | http://falco.org/blog/intro-gvisor-falco/| 
-| 20220916 | 域环境分析工具 BloodHound 的盲区 | http://blog.syss.com/posts/bloodhound-blindspots/| 
-| 20220916 | CVE North Stars - 充分收集并利用漏洞 CVE 相关的各类信息，指导漏洞挖掘和研究 | https://cve-north-stars.github.io/| 
-| 20220916 | NPM 市场 HubSpot 开发的 Bucky Client 被发现植入恶意代码 | https://blog.phylum.io/npm-malware-targeting-hubspots-bucky-client| 
-| 20220916 | BlackTech 组织利用 F5 BIG-IP 产品漏洞发起攻击的技术细节 | https://blogs.jpcert.or.jp/en/2022/09/bigip-exploit.html| 
-| 20220916 | 借助 tty_struct 结构体的 Linux 内核漏洞的利用 | https://github.com/smallkirby/kernelpwn/blob/master/technique/tty_struct.md| 
-| 20220916 | OpenRazer Linux 内核驱动漏洞的分析（CVE-2022-29021, CVE-2022-29022, CVE-2022-29023） | https://www.cyberark.com/resources/threat-research-blog/colorful-vulnerabilities| 
 
 
 # 安全维基 推荐
@@ -46,29 +46,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220920T01:57:45Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20220920T01:01:25Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/notxesh/CVE-2022-36804-PoC | | 
-| 20220920T01:01:23Z | CVE-2022-36804 | Null | https://github.com/CEOrbey/CVE-2022-36804-POC-RCE | | 
-| 20220920T01:01:19Z | CVE-2022-31474 | New #WordPress #0Day #BackupBuddy Plugin #LFI | https://github.com/Administrative2022/CVE-2022-31474-wordpress | | 
-| 20220920T01:01:18Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-draytek | | 
-| 20220920T01:01:16Z | CVE-2022-32548 | CVE-2022-32548-RCE-POC | https://github.com/alexmention/CVE-2022-32548-RCE-POC | | 
-| 20220919T22:18:55Z | CVE-2022-32883 | Turning Your Computer Into a GPS Tracker With Apple Maps | https://github.com/breakpointHQ/CVE-2022-32883 | | 
-| 20220919T21:37:50Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
-| 20220919T18:36:33Z | CVE-2022-30190 | Proof of concept for CVE-2022-30190 (Follina). | https://github.com/winstxnhdw/CVE-2022-30190 | | 
-| 20220919T13:10:06Z | CVE-2022-2588 | A PoC for CVE-2022-2588 that triggers a WARNING | https://github.com/sang-chu/CVE-2022-2588 | | 
+| 20220920T10:51:55Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/N0pch/CVE-2022-36804-mass-rce | | 
+| 20220920T10:42:52Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220920T10:08:47Z | cve-2022-36804 | CVE-2022-36804 Atlassian Bitbucket Command Injection Vulnerability | https://github.com/Vulnmachines/bitbucket-cve-2022-36804 | | 
+| 20220920T09:44:11Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
+| 20220920T09:29:13Z | CVE-2022-20347 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20347 | | 
+| 20220920T08:29:40Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/notxesh/CVE-2022-36804-PoC | | 
+| 20220920T07:46:36Z | CVE-2022-32548 | CVE-2022-32548-RCE-POC | https://github.com/alexmention/CVE-2022-32548-RCE-POC | | 
+| 20220920T06:55:35Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
+| 20220920T06:52:51Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
+| 20220920T03:45:37Z | CVE-2021-41773 | Null | https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220920T00:49:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 78 | 1| 
+| 20220920T11:13:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2065 | 585| 
+| 20220920T08:33:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 80 | 1| 
+| 20220920T04:24:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 9 | 0| 
+| 20220920T02:09:53Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 8 | 0| 
 | 20220919T17:28:35Z | lab-01-pandas-kleeio created by GitHub Classroom | https://github.com/cs663-spring2021/lab-01-pandas-kleeio | 0 | 0| 
-| 20220919T15:55:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2062 | 584| 
-| 20220917T00:22:59Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 7 | 0| 
 | 20220915T14:17:37Z | Pull Requests for https://github.com/SonOfLilit/kleenexp | https://github.com/JoshuaFox/kleenexp | 0 | 0| 
 | 20220914T23:07:22Z | Null | https://github.com/kleeve/kleeve.github.io | 0 | 0| 
 | 20220914T20:19:57Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
-| 20220913T10:40:43Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 8 | 0| 
 | 20220913T05:50:48Z | Null | https://github.com/klee972/klee972.github.io | 0 | 0| 
 | 20220913T05:08:32Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 184 | 29| 
 
@@ -76,10 +76,10 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220920T07:05:13Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 21 | 4| 
 | 20220918T18:55:57Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 69 | 9| 
 | 20220914T21:11:27Z | Calumet S2EBPR pilot study | https://github.com/mckfarm/calumet_s2ebpr | 0 | 0| 
 | 20220914T17:35:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 251 | 60| 
-| 20220913T13:34:21Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 20 | 4| 
 | 20220913T13:34:10Z | S2E user side repository for Formation Flying study | https://github.com/ut-issl/s2e-ff | 2 | 0| 
 | 20220913T11:57:11Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 81 | 43| 
 
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220920T01:57:45Z | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | 88 | 1| 
-| 20220920T00:33:16Z | Null | https://github.com/MoonExploit/MoonExploit.github.io | 0 | 0| 
-| 20220920T00:06:59Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-i- | 0 | 0| 
-| 20220920T00:05:47Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-i- | 0 | 0| 
-| 20220920T00:04:37Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-i- | 0 | 0| 
-| 20220919T23:57:35Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1595 | 374| 
-| 20220919T23:45:07Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheFrostyX/GPay-balance-exploiter-by-VenomX | 10 | 0| 
-| 20220919T21:37:21Z | Null | https://github.com/SmokeXAdmin/RobloxExploit- | 0 | 0| 
-| 20220919T21:05:30Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/Nosferatu1337/EclipseWare-Free-Roblox-Exploits-v1.7 | 10 | 0| 
-| 20220919T20:57:29Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Nosferatu1337/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
+| 20220920T11:41:55Z | Roblox Exploit GUI | https://github.com/RVCDv/devvin | 0 | 0| 
+| 20220920T11:33:48Z | a shellcode is a small piece of code used as the payload in the exploitation of a software vulnerability. It is called %shellcode% because it typically starts a command shell from which the attacker can control the compromised machine, but any piece of code that performs a similar task can be called shellcode. Because the function of a payload is not limited to merely spawning a shell, some have suggested that the name shellcode is insufficient.[1] However, attempts at replacing the term have not gained wide acceptance. Shellcode is commonly written in machine code.  | https://github.com/ze3ter/shellcode-exploit | 0 | 0| 
+| 20220920T11:33:42Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheShadowG/GPay-balance-exploiter-by-VenomX | 1 | 0| 
+| 20220920T11:14:48Z | CTF XSS Challenge Exploit | https://github.com/yCherny/ctfxss | 0 | 0| 
+| 20220920T10:54:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4230 | 635| 
+| 20220920T10:51:55Z | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/N0pch/CVE-2022-36804-mass-rce | 0 | 0| 
+| 20220920T09:08:14Z | PowerShell MachineAccountQuota and DNS exploit tools | https://github.com/Kevin-Robertson/Powermad | 786 | 142| 
+| 20220920T08:52:31Z | Null | https://github.com/RAFrei/MARCXML_exploit | 0 | 0| 
+| 20220920T08:48:21Z | Appsoft Thailand Exploit | https://github.com/T-Tools/appsoft | 0 | 0| 
+| 20220920T08:48:00Z | hcaptcha 0day exploit / bypass | https://github.com/Its-Vichy/hcaptcha-0day | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220920T01:11:03Z | This is the official implementation of our paper %Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection%, accepted in NeurIPS 2022. | https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark | 1 | 0| 
-| 20220919T23:16:24Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1188 | 462| 
+| 20220920T11:40:04Z | Null | https://github.com/De-eloper/NJRAT-0.7d-Horror-Edition | 1 | 0| 
+| 20220920T10:43:25Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1190 | 463| 
+| 20220920T10:28:19Z | This is the official implementation of our paper %Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection%, accepted in NeurIPS 2022. | https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark | 6 | 0| 
+| 20220920T08:22:10Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 19 | 8| 
 | 20220919T22:28:25Z | Null | https://github.com/Geniucity12/backdoors | 0 | 0| 
 | 20220919T17:37:01Z | work in progress Kotlin discord bot | https://github.com/paspielka/Discord-Backdoor | 0 | 0| 
+| 20220919T12:18:33Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 562 | 110| 
 | 20220919T06:00:07Z | Null | https://github.com/wutongshenqiu/anti_kd_backdoor | 0 | 0| 
 | 20220919T04:18:49Z | Backdoor, é uma popular técnica de invasão hacker, a técnica basicamente consiste de infectar um computador com algum malware capaz de criar uma conexão remota com o servidor do atacante, | https://github.com/panda467/Backdoor | 0 | 0| 
 | 20220918T20:41:35Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 9 | 6| 
-| 20220918T18:09:57Z | python backdoor persistent script  with options of downloading, uploading starting programs on users pc, and keylogger  | https://github.com/Zeus-coder/Backdoor | 0 | 0| 
-| 20220918T17:45:50Z | PHP 8.1.0-dev User-Agentt Backdoor Exploit | https://github.com/illbison/PHP-8.1.0-dev-Backdoor-RCE | 0 | 0| 
-| 20220918T14:49:12Z | Source code for ECCV 2022 Poster: Data-free Backdoor Removal based on Channel Lipschitzness | https://github.com/rkteddy/channel-Lipschitzness-based-pruning | 5 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220918T00:51:44Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2881 | 341| 
-| 20220917T23:09:20Z | Null | https://github.com/Acetica/fuzzy-octo-umbrella | 0 | 0| 
-| 20220917T22:15:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7851 | 1688| 
-| 20220917T21:30:41Z | Null | https://github.com/Acquita/fuzzy-doodle | 0 | 0| 
-| 20220917T18:03:18Z | A structure-aware HTTP fuzzing library | https://github.com/epi052/feroxfuzz | 94 | 3| 
-| 20220917T17:38:55Z | Api backend para gerenciamente de tarefas - Devaria 2021 | https://github.com/RondineleG/FuzzyGarbanzo | 0 | 0| 
-| 20220917T17:23:34Z | Mirror of bunny-the-fuzzer AFL precursor by Michal Zalewski | https://github.com/novafacing/bunny | 0 | 0| 
-| 20220917T12:50:59Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3028 | 604| 
-| 20220917T12:25:52Z | Fuzzied - continuous fuzzing for smart contracts [ETHBerlin³ Submission] | https://github.com/1ultimat3/fuzzied | 0 | 0| 
-| 20220917T12:07:09Z | 收集本人自接触渗透测试用于漏洞验证的所有CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ | https://github.com/wjl110/CVE-Master | 4 | 0| 
+| 20220920T12:00:19Z | Null | https://github.com/mrsl2000/C-Means-FuzzyLogic | 0 | 0| 
+| 20220920T11:40:29Z | A Benchmark to Evaluate Windows Fuzzers | https://github.com/Anonymwinmagma/WinMagmaAnonymous | 0 | 0| 
+| 20220920T09:59:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4339 | 1051| 
+| 20220920T08:46:45Z | Null | https://github.com/knikhita/SmartContractFuzzing | 0 | 0| 
+| 20220920T07:23:36Z | Web fuzzer assignment for CS 3710 | https://github.com/kernelmethod/xfuzz | 0 | 0| 
+| 20220920T05:49:23Z | 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | 826 | 159| 
+| 20220920T04:54:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7856 | 1690| 
+| 20220918T18:11:33Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 45 | 4| 
+| 20220918T10:45:54Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1226 | 241| 
+| 20220918T10:28:11Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1465 | 260| 
 
 
 
