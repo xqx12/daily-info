@@ -96,7 +96,7 @@
 | 20220921T09:35:45Z | X-CUBE-MEMSMIC1 provides examples running on STM32 for the acquisition of ST analog and digital MEMS microphones. It also includes an example of ultrasound condition monitoring (UltrasoundFFT).  It exploits also the Performance Mode of the MP23DB01HP MEMS digital microphone available on the STEVAL-MIC006V1 board. | https://github.com/STMicroelectronics/x-cube-memsmic1 | 0 | 0| 
 | 20220921T09:29:36Z | We take on the challenge of combining spatialisation and ML. We propose a Network TD-SOM, which means Network and Self-organised maps of the topic documents. The Master’s theses dataset from NOVA IMS are used as an opportunity to evaluate the performance of Network TD-SOM. We exploit the results to design various kinds of spatialisation dedicated to different purposes. The Scrips, results, analysis, dataset and the my Master%s theses are available. | https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis | 0 | 0| 
 | 20220921T08:57:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 522 | 141| 
-| 20220921T06:00:12Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4685 | 1632| 
+| 20220921T08:08:49Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7665 | 1785| 
 
 
 # backdoor on Github 推荐
@@ -117,10 +117,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T12:17:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2067 | 585| 
 | 20220921T10:47:43Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 22 | 4| 
 | 20220921T09:15:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 485 | 27| 
 | 20220921T07:20:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3112 | 436| 
-| 20220920T11:13:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2065 | 585| 
 | 20220919T12:04:18Z | Code for tracelet-level symbolic execution | https://github.com/sem2vec/sem2vec-SE | 1 | 0| 
 | 20220919T02:43:07Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 75 | 16| 
 | 20220917T15:34:17Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 6 | 0| 
