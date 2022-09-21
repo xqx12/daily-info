@@ -87,10 +87,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T00:02:19Z | Null | https://github.com/0x414141414/PDF-Exploit-2022-Zero-Day | 1 | 0| 
 | 20220920T23:45:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 19 | 10| 
 | 20220920T23:22:20Z | Null | https://github.com/0x414141414/Silent-Excel-Office-Exploit | 0 | 0| 
 | 20220920T23:21:45Z | Null | https://github.com/0x414141414/Silent-Word-Office-Exploit | 0 | 0| 
-| 20220920T23:20:41Z | Null | https://github.com/0x414141414/PDF-Exploit-2022-Zero-Day | 0 | 0| 
 | 20220920T23:20:31Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit | 0 | 0| 
 | 20220920T23:07:13Z | Vidian, Lord Of Envy. Privilege Escalation exploitation written C# | https://github.com/pruno7/Vidian | 0 | 0| 
 | 20220920T22:49:24Z | ScanExp automates the scanning of any machine%s open ports via the ip address and performs a brute force attack on ports 20, 21 for the FTP protocol, port 22 for the SSH protocol and port 25 for the SMTP protocol, providing the choice between the use of two different wordlists for the username and password or two personalized wordlists chosen by the user. | https://github.com/CyberNDR/ScanExp | 0 | 0| 
@@ -117,7 +117,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220920T12:37:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3108 | 436| 
+| 20220920T23:03:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3110 | 436| 
+| 20220920T13:50:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 484 | 27| 
 | 20220920T11:13:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2065 | 585| 
 | 20220919T12:04:18Z | Code for tracelet-level symbolic execution | https://github.com/sem2vec/sem2vec-SE | 1 | 0| 
 | 20220919T02:43:07Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 75 | 16| 
@@ -126,7 +127,6 @@
 | 20220916T13:33:13Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 214 | 29| 
 | 20220915T09:14:40Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 42| 
 | 20220915T09:01:44Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 21 | 4| 
-| 20220914T17:35:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 251 | 60| 
 
 
 # big4 on Github 推荐

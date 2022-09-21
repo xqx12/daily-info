@@ -59,13 +59,13 @@
 | 20220920T23:45:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 19 | 10| 
 | 20220920T23:22:20Z | Null | https://github.com/0x414141414/Silent-Excel-Office-Exploit | 0 | 0| 
 | 20220920T23:21:45Z | Null | https://github.com/0x414141414/Silent-Word-Office-Exploit | 0 | 0| 
-| 20220920T23:20:41Z | Null | https://github.com/0x414141414/PDF-Exploit-2022-Zero-Day | 0 | 0| 
 | 20220920T23:20:31Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit | 0 | 0| 
 | 20220920T23:07:13Z | Vidian, Lord Of Envy. Privilege Escalation exploitation written C# | https://github.com/pruno7/Vidian | 0 | 0| 
 | 20220920T22:49:24Z | ScanExp automates the scanning of any machine%s open ports via the ip address and performs a brute force attack on ports 20, 21 for the FTP protocol, port 22 for the SSH protocol and port 25 for the SMTP protocol, providing the choice between the use of two different wordlists for the username and password or two personalized wordlists chosen by the user. | https://github.com/CyberNDR/ScanExp | 0 | 0| 
 | 20220920T21:49:10Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4982 | 612| 
 | 20220920T21:29:45Z | Post-Exploitation Secure Desktop Keylogger. 镜花水月. | https://github.com/brat-volk/MirrorFlower | 0 | 0| 
 | 20220920T20:29:40Z | La carte d’extension SenseHat est une carte de prototypage qu’on associe à une rapsberry pi pour développer et tester des applications utilisant des capteurs et un affichage défilant sur matrice à Led multi-couleurs.  Objectifs :  -Pratiquer la programmation python dans le cadre d’un développement d’un linux embarqué.  -Exploiter une librairie pour mesurer des grandeurs physiques (Température, pression et humidité), les afficher et journaliser leurs valeurs périodiquement dans un serveur distant via le protocole FTP. | https://github.com/ayarh/-Mini-projet-Programmation-python-simulation-de-capteurs-journalisation-en-FTP | 0 | 0| 
+| 20220920T12:48:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4231 | 635| 
 
 
 # backdoor on Github 推荐
@@ -83,7 +83,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220920T12:37:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3108 | 436| 
+| 20220920T23:03:59Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3110 | 436| 
+| 20220920T13:50:04Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 484 | 27| 
 | 20220920T11:13:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2065 | 585| 
 
 
