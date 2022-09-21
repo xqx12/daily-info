@@ -77,11 +77,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T10:47:43Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 22 | 4| 
+| 20220921T09:15:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 485 | 27| 
+| 20220921T07:20:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3112 | 436| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T10:29:38Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 56 | 11| 
 
 
 # fuzz on Github 推荐
