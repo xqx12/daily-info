@@ -25,16 +25,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220920T14:56:26Z | CVE-2022-20841 | Cisco RV series unauthenticated RCE laoder + mass scanner | https://github.com/Zerf0X/CVE-2022-20841-RCE | | 
-| 20220920T14:51:52Z | CVE-2022-38553 | CROSS SITE SCRIPTING (XSS) ON "ACADEMY LEARNING MANAGEMENT SYSTEM" - PROOF OF CONCEPT (POC) CVE-2022-38553 | https://github.com/4websecurity/CVE-2022-38553 | | 
-| 20220920T13:30:01Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/Expl0desploit/CVE-2022-20841 | | 
-| 20220920T10:51:55Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/N0pch/CVE-2022-36804-mass-rce | | 
-| 20220920T10:08:47Z | cve-2022-36804 | CVE-2022-36804 Atlassian Bitbucket Command Injection Vulnerability | https://github.com/Vulnmachines/bitbucket-cve-2022-36804 | | 
 | 20220920T09:44:11Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
 | 20220920T09:29:13Z | CVE-2022-20347 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20347 | | 
 | 20220920T07:46:36Z | CVE-2022-32548 | CVE-2022-32548-RCE-POC | https://github.com/alexmention/CVE-2022-32548-RCE-POC | | 
 | 20220920T03:45:37Z | CVE-2021-41773 | Null | https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773 | | 
 | 20220920T01:01:23Z | CVE-2022-36804 | Null | https://github.com/CEOrbey/CVE-2022-36804-POC-RCE | | 
+| 20220920T01:01:19Z | CVE-2022-31474 | New #WordPress #0Day #BackupBuddy Plugin #LFI | https://github.com/Administrative2022/CVE-2022-31474-wordpress | | 
+| 20220920T01:01:18Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/rftg1000/CVE-2022-32548-draytek | | 
 
 
 # klee on Github 推荐
