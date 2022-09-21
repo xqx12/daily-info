@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220920T23:45:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 19 | 10| 
+| 20220920T23:45:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 19 | 11| 
 | 20220920T23:22:20Z | Null | https://github.com/0x414141414/Silent-Excel-Office-Exploit | 0 | 0| 
 | 20220920T23:21:45Z | Null | https://github.com/0x414141414/Silent-Word-Office-Exploit | 0 | 0| 
 | 20220920T23:20:31Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit | 0 | 0| 

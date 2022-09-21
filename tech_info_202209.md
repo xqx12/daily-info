@@ -88,7 +88,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20220921T00:02:19Z | Null | https://github.com/0x414141414/PDF-Exploit-2022-Zero-Day | 1 | 0| 
-| 20220920T23:45:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 19 | 10| 
+| 20220920T23:45:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 19 | 11| 
 | 20220920T23:22:20Z | Null | https://github.com/0x414141414/Silent-Excel-Office-Exploit | 0 | 0| 
 | 20220920T23:21:45Z | Null | https://github.com/0x414141414/Silent-Word-Office-Exploit | 0 | 0| 
 | 20220920T23:20:31Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit | 0 | 0| 
@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T00:07:08Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 0 | 0| 
 | 20220920T19:30:06Z | python ile yazılmış bir backdoor | https://github.com/mehmet0can/Backdoor-2 | 1 | 0| 
 | 20220920T19:30:06Z | python ile yazıllmış backdoor | https://github.com/mehmet0can/Backdoor-1 | 1 | 0| 
 | 20220920T15:11:15Z | Efficient use of DEVITO_JIT_BACKDOOR in large codes with many Operators | https://github.com/speglich/DEVITO-Operator-Injector | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20220920T08:22:10Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 19 | 8| 
 | 20220919T22:28:25Z | Null | https://github.com/Geniucity12/backdoors | 0 | 0| 
 | 20220919T17:37:01Z | work in progress Kotlin discord bot | https://github.com/paspielka/Discord-Backdoor | 0 | 0| 
-| 20220919T12:18:33Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 562 | 110| 
 
 
 # symbolic execution on Github 推荐
