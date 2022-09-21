@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T00:36:05Z | Multi-Objective Automated Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
 | 20220920T22:31:51Z | Null | https://github.com/suman1124/fuzzy-umbrella | 0 | 0| 
 | 20220920T22:28:31Z | Implement a paper related to fuzzy systems. | https://github.com/sobhan-siamak/Implementation-A-proposed-method-for-learning-rule-weights-in-fuzzy-rule-based-classification-system | 0 | 0| 
 | 20220920T21:08:59Z | Modelado de Analisis FODA (SWOT) mediante Logica Difusa -- SWOT Modelling by Fuzzy Logic Implementation | https://github.com/schiodin8622/SWOT-Modelado-Fuzzy | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220920T12:24:38Z | Testing  | https://github.com/Faceasia/fuzzy-system | 0 | 0| 
 | 20220920T12:09:46Z | Null | https://github.com/mrsl2000/AutomaticBrakeSystem-FuzzyLogic | 0 | 0| 
 | 20220920T12:02:57Z | Fuzzy Logic and Fuzzy Inference for Python 3 | https://github.com/amogorkon/fuzzylogic | 67 | 13| 
-| 20220920T12:00:19Z | Null | https://github.com/mrsl2000/C-Means-FuzzyLogic | 0 | 0| 
 
 
 
