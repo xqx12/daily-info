@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220921T00:28:19Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220921T00:35:36Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220921T00:27:09Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/notxesh/CVE-2022-36804-PoC | | 
 | 20220920T22:45:00Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220920T14:56:26Z | CVE-2022-20841 | Cisco RV series unauthenticated RCE laoder + mass scanner | https://github.com/Zerf0X/CVE-2022-20841-RCE | | 
