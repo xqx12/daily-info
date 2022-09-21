@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T01:11:28Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
 | 20220921T00:34:07Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 0 | 0| 
 | 20220920T19:30:06Z | python ile yazılmış bir backdoor | https://github.com/mehmet0can/Backdoor-2 | 1 | 0| 
 | 20220920T19:30:06Z | python ile yazıllmış backdoor | https://github.com/mehmet0can/Backdoor-1 | 1 | 0| 
@@ -111,7 +112,6 @@
 | 20220920T10:28:19Z | This is the official implementation of our paper %Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection%, accepted in NeurIPS 2022. | https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark | 6 | 0| 
 | 20220920T08:22:10Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 19 | 8| 
 | 20220919T22:28:25Z | Null | https://github.com/Geniucity12/backdoors | 0 | 0| 
-| 20220919T17:37:01Z | work in progress Kotlin discord bot | https://github.com/paspielka/Discord-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
