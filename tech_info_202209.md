@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220921T00:07:08Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 0 | 0| 
+| 20220921T00:08:32Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 1 | 0| 
 | 20220920T19:30:06Z | python ile yazılmış bir backdoor | https://github.com/mehmet0can/Backdoor-2 | 1 | 0| 
 | 20220920T19:30:06Z | python ile yazıllmış backdoor | https://github.com/mehmet0can/Backdoor-1 | 1 | 0| 
 | 20220920T15:11:15Z | Efficient use of DEVITO_JIT_BACKDOOR in large codes with many Operators | https://github.com/speglich/DEVITO-Operator-Injector | 0 | 0| 
