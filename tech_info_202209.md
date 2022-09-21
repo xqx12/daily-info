@@ -87,6 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T01:15:42Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p- | 0 | 0| 
+| 20220921T01:15:05Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-p- | 1 | 0| 
+| 20220921T01:14:17Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-p- | 1 | 0| 
 | 20220921T00:52:36Z | A Roblox Exploit Client | https://github.com/JamStudios/HackRz | 0 | 0| 
 | 20220921T00:34:07Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 0 | 0| 
 | 20220921T00:02:19Z | Null | https://github.com/0x414141414/PDF-Exploit-2022-Zero-Day | 1 | 0| 
@@ -94,9 +97,6 @@
 | 20220920T23:22:20Z | Null | https://github.com/0x414141414/Silent-Excel-Office-Exploit | 0 | 0| 
 | 20220920T23:21:45Z | Null | https://github.com/0x414141414/Silent-Word-Office-Exploit | 0 | 0| 
 | 20220920T23:20:31Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit | 0 | 0| 
-| 20220920T23:07:13Z | Vidian, Lord Of Envy. Privilege Escalation exploitation written C# | https://github.com/pruno7/Vidian | 0 | 0| 
-| 20220920T22:49:24Z | ScanExp automates the scanning of any machine%s open ports via the ip address and performs a brute force attack on ports 20, 21 for the FTP protocol, port 22 for the SSH protocol and port 25 for the SMTP protocol, providing the choice between the use of two different wordlists for the username and password or two personalized wordlists chosen by the user. | https://github.com/CyberNDR/ScanExp | 0 | 0| 
-| 20220920T21:49:10Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4982 | 612| 
 
 
 # backdoor on Github 推荐
