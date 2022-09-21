@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T01:50:27Z | 一个利用OneForAll进行子域收集、Shodan API端口扫描、Xray漏洞Fuzz、Server酱的自动化漏洞扫描、即时通知提醒的漏洞挖掘辅助工具 | https://github.com/Echocipher/AUTO-EARN | 621 | 131| 
 | 20220921T00:36:05Z | Multi-Objective Automated Social Fuzz Testing | https://github.com/fzanart/Socialz | 0 | 0| 
 | 20220920T22:31:51Z | Null | https://github.com/suman1124/fuzzy-umbrella | 0 | 0| 
 | 20220920T22:28:31Z | Implement a paper related to fuzzy systems. | https://github.com/sobhan-siamak/Implementation-A-proposed-method-for-learning-rule-weights-in-fuzzy-rule-based-classification-system | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20220920T15:15:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2600 | 177| 
 | 20220920T12:24:38Z | Testing  | https://github.com/Faceasia/fuzzy-system | 0 | 0| 
 | 20220920T12:09:46Z | Null | https://github.com/mrsl2000/AutomaticBrakeSystem-FuzzyLogic | 0 | 0| 
-| 20220920T12:02:57Z | Fuzzy Logic and Fuzzy Inference for Python 3 | https://github.com/amogorkon/fuzzylogic | 67 | 13| 
 
 
 
