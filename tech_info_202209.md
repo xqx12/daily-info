@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220921T01:33:41Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220921T01:39:15Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220921T01:01:14Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220921T00:53:02Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220921T00:27:09Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/notxesh/CVE-2022-36804-PoC | | 
@@ -90,13 +90,13 @@
 | 20220921T01:16:07Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p- | 1 | 0| 
 | 20220921T01:15:05Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-p- | 1 | 0| 
 | 20220921T01:14:17Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-p- | 1 | 0| 
+| 20220921T01:10:10Z | Exploit chrome%s profile sync for free cloud storage | https://github.com/CoolElectronics/bookmarkfs | 261 | 5| 
 | 20220921T00:52:36Z | A Roblox Exploit Client | https://github.com/JamStudios/HackRz | 0 | 0| 
 | 20220921T00:34:07Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 0 | 0| 
 | 20220921T00:02:19Z | Null | https://github.com/0x414141414/PDF-Exploit-2022-Zero-Day | 1 | 0| 
 | 20220920T23:45:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 19 | 11| 
 | 20220920T23:22:20Z | Null | https://github.com/0x414141414/Silent-Excel-Office-Exploit | 0 | 0| 
 | 20220920T23:21:45Z | Null | https://github.com/0x414141414/Silent-Word-Office-Exploit | 0 | 0| 
-| 20220920T23:20:31Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
