@@ -25,7 +25,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220920T23:51:06Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220920T22:45:00Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220920T14:56:26Z | CVE-2022-20841 | Cisco RV series unauthenticated RCE laoder + mass scanner | https://github.com/Zerf0X/CVE-2022-20841-RCE | | 
 | 20220920T14:51:52Z | CVE-2022-38553 | CROSS SITE SCRIPTING (XSS) ON "ACADEMY LEARNING MANAGEMENT SYSTEM" - PROOF OF CONCEPT (POC) CVE-2022-38553 | https://github.com/4websecurity/CVE-2022-38553 | | 
@@ -34,7 +33,8 @@
 | 20220920T10:08:47Z | cve-2022-36804 | CVE-2022-36804 Atlassian Bitbucket Command Injection Vulnerability | https://github.com/Vulnmachines/bitbucket-cve-2022-36804 | | 
 | 20220920T09:44:11Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
 | 20220920T09:29:13Z | CVE-2022-20347 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20347 | | 
-| 20220920T08:29:40Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/notxesh/CVE-2022-36804-PoC | | 
+| 20220920T07:46:36Z | CVE-2022-32548 | CVE-2022-32548-RCE-POC | https://github.com/alexmention/CVE-2022-32548-RCE-POC | | 
+| 20220920T06:55:35Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 
 
 # klee on Github 推荐
