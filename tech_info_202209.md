@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220921T01:15:42Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p- | 0 | 0| 
+| 20220921T01:16:07Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p- | 1 | 0| 
 | 20220921T01:15:05Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-p- | 1 | 0| 
 | 20220921T01:14:17Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-p- | 1 | 0| 
 | 20220921T00:52:36Z | A Roblox Exploit Client | https://github.com/JamStudios/HackRz | 0 | 0| 
