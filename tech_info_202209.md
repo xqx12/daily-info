@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T00:34:07Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 0 | 0| 
 | 20220921T00:02:19Z | Null | https://github.com/0x414141414/PDF-Exploit-2022-Zero-Day | 1 | 0| 
 | 20220920T23:45:01Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 19 | 11| 
 | 20220920T23:22:20Z | Null | https://github.com/0x414141414/Silent-Excel-Office-Exploit | 0 | 0| 
@@ -96,13 +97,12 @@
 | 20220920T22:49:24Z | ScanExp automates the scanning of any machine%s open ports via the ip address and performs a brute force attack on ports 20, 21 for the FTP protocol, port 22 for the SSH protocol and port 25 for the SMTP protocol, providing the choice between the use of two different wordlists for the username and password or two personalized wordlists chosen by the user. | https://github.com/CyberNDR/ScanExp | 0 | 0| 
 | 20220920T21:49:10Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 4982 | 612| 
 | 20220920T21:29:45Z | Post-Exploitation Secure Desktop Keylogger. 镜花水月. | https://github.com/brat-volk/MirrorFlower | 0 | 0| 
-| 20220920T20:29:40Z | La carte d’extension SenseHat est une carte de prototypage qu’on associe à une rapsberry pi pour développer et tester des applications utilisant des capteurs et un affichage défilant sur matrice à Led multi-couleurs.  Objectifs :  -Pratiquer la programmation python dans le cadre d’un développement d’un linux embarqué.  -Exploiter une librairie pour mesurer des grandeurs physiques (Température, pression et humidité), les afficher et journaliser leurs valeurs périodiquement dans un serveur distant via le protocole FTP. | https://github.com/ayarh/-Mini-projet-Programmation-python-simulation-de-capteurs-journalisation-en-FTP | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220921T00:08:32Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 1 | 0| 
+| 20220921T00:34:07Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 0 | 0| 
 | 20220920T19:30:06Z | python ile yazılmış bir backdoor | https://github.com/mehmet0can/Backdoor-2 | 1 | 0| 
 | 20220920T19:30:06Z | python ile yazıllmış backdoor | https://github.com/mehmet0can/Backdoor-1 | 1 | 0| 
 | 20220920T15:11:15Z | Efficient use of DEVITO_JIT_BACKDOOR in large codes with many Operators | https://github.com/speglich/DEVITO-Operator-Injector | 0 | 0| 
