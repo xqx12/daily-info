@@ -25,7 +25,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220920T22:45:00Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
 | 20220920T14:56:26Z | CVE-2022-20841 | Cisco RV series unauthenticated RCE laoder + mass scanner | https://github.com/Zerf0X/CVE-2022-20841-RCE | | 
 | 20220920T14:51:52Z | CVE-2022-38553 | CROSS SITE SCRIPTING (XSS) ON "ACADEMY LEARNING MANAGEMENT SYSTEM" - PROOF OF CONCEPT (POC) CVE-2022-38553 | https://github.com/4websecurity/CVE-2022-38553 | | 
 | 20220920T13:30:01Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/Expl0desploit/CVE-2022-20841 | | 
@@ -35,6 +34,7 @@
 | 20220920T09:29:13Z | CVE-2022-20347 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20347 | | 
 | 20220920T07:46:36Z | CVE-2022-32548 | CVE-2022-32548-RCE-POC | https://github.com/alexmention/CVE-2022-32548-RCE-POC | | 
 | 20220920T03:45:37Z | CVE-2021-41773 | Null | https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773 | | 
+| 20220920T01:01:23Z | CVE-2022-36804 | Null | https://github.com/CEOrbey/CVE-2022-36804-POC-RCE | | 
 
 
 # klee on Github 推荐
