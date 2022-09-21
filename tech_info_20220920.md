@@ -34,7 +34,7 @@
 | 20220920T09:44:11Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
 | 20220920T09:29:13Z | CVE-2022-20347 | Null | https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20347 | | 
 | 20220920T07:46:36Z | CVE-2022-32548 | CVE-2022-32548-RCE-POC | https://github.com/alexmention/CVE-2022-32548-RCE-POC | | 
-| 20220920T06:55:35Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
+| 20220920T03:45:37Z | CVE-2021-41773 | Null | https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
