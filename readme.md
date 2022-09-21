@@ -15,6 +15,7 @@
 | 20220921 | uBlock Origin - Chrome、Firefox 浏览器 blocker 插件，支持对广告、Trackers、恶意站点的阻断 | https://github.com/gorhill/uBlock| 
 | 20220921 | 研究员 WOJCIECH REGUŁA 关于 macOS 平台攻击和渗透的分享 | https://www.securing.pl/en/presentation/0-day-up-your-sleeve-attacking-macos-environments/| 
 | 20220921 | Windows 11 大版本更新带来的新安全特性 | https://www.microsoft.com/security/blog/2022/09/20/new-windows-11-security-features-are-designed-for-hybrid-work/| 
+| 20220921 | Linux 之父決定將Rust編程語言加入Linux 6.1内核版本中。 | http://zd.net/3Sbj5hP| 
 
 
 # 安全维基 推荐

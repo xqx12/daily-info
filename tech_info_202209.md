@@ -15,6 +15,7 @@
 | 20220921 | uBlock Origin - Chrome、Firefox 浏览器 blocker 插件，支持对广告、Trackers、恶意站点的阻断 | https://github.com/gorhill/uBlock| 
 | 20220921 | 研究员 WOJCIECH REGUŁA 关于 macOS 平台攻击和渗透的分享 | https://www.securing.pl/en/presentation/0-day-up-your-sleeve-attacking-macos-environments/| 
 | 20220921 | Windows 11 大版本更新带来的新安全特性 | https://www.microsoft.com/security/blog/2022/09/20/new-windows-11-security-features-are-designed-for-hybrid-work/| 
+| 20220921 | Linux 之父決定將Rust編程語言加入Linux 6.1内核版本中。 | http://zd.net/3Sbj5hP| 
 | 20220920 | CVE-2022-32223 Discovery: DLL Hijacking via npm CLI | https://blog.aquasec.com/cve-2022-32223-dll-hijacking| 
 | 20220920 | 利用 Process Explorer 驱动的漏洞实现内核代码执行 | https://www.elastic.co/cn/security-labs/stopping-vulnerable-driver-attacks| 
 | 20220920 | Bitbucket Server CVE-2022-36804 漏洞分析 | https://www.anquanke.com/post/id/280193| 
@@ -25,7 +26,6 @@
 | 20220920 | GraphQL Sever Fingerprinting | https://github.com/dolevf/graphw00f| 
 | 20220920 | fastjson 1.2.80 漏洞分析 | http://y4er.com/posts/fastjson-1.2.80/| 
 | 20220919 | 从攻击者的角度看 K8S Cluster 安全 | http://tutorialboy24.blogspot.com/2022/09/a-detailed-talk-about-k8s-cluster.html| 
-| 20220919 | Practical Attacks against NTLMv1 | https://www.trustedsec.com/blog/practical-attacks-against-ntlmv1/| 
 
 
 # 安全维基 推荐
