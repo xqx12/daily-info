@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T12:10:55Z | EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 376 | 43| 
 | 20220921T11:54:55Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1090 | 98| 
 | 20220921T11:29:56Z | Final thesis | https://github.com/theofuhrmann/cybervulnerability-exploitability-classifier | 0 | 0| 
 | 20220921T11:29:41Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12047 | 2065| 
@@ -96,7 +97,6 @@
 | 20220921T09:35:45Z | X-CUBE-MEMSMIC1 provides examples running on STM32 for the acquisition of ST analog and digital MEMS microphones. It also includes an example of ultrasound condition monitoring (UltrasoundFFT).  It exploits also the Performance Mode of the MP23DB01HP MEMS digital microphone available on the STEVAL-MIC006V1 board. | https://github.com/STMicroelectronics/x-cube-memsmic1 | 0 | 0| 
 | 20220921T09:29:36Z | We take on the challenge of combining spatialisation and ML. We propose a Network TD-SOM, which means Network and Self-organised maps of the topic documents. The Master’s theses dataset from NOVA IMS are used as an opportunity to evaluate the performance of Network TD-SOM. We exploit the results to design various kinds of spatialisation dedicated to different purposes. The Scrips, results, analysis, dataset and the my Master%s theses are available. | https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis | 0 | 0| 
 | 20220921T08:57:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 522 | 141| 
-| 20220921T08:08:49Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7665 | 1785| 
 
 
 # backdoor on Github 推荐
