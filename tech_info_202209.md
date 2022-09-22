@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220921T23:56:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7859 | 1693| 
+| 20220921T23:08:51Z | Null | https://github.com/jac11/LFI_FUZZ | 0 | 0| 
+| 20220921T22:10:01Z | A tiny, efficient, fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 4 | 0| 
+| 20220921T19:56:13Z | Multithreaded URL fuzzer (i.e. subdomains, queries, directories) | https://github.com/ultros/fuzzbuster | 0 | 0| 
+| 20220921T19:11:20Z | testing-git | https://github.com/davidschwarz3/fuzzy-test | 0 | 0| 
+| 20220921T18:33:24Z | CrackQL is a GraphQL password brute-force and fuzzing utility. | https://github.com/nicholasaleks/CrackQL | 182 | 12| 
+| 20220921T16:54:40Z | DO NOT DOWNLOAD - THIS IS A TEST | https://github.com/ncomeau/fuzzy-waddle | 0 | 0| 
 | 20220921T11:23:40Z | Ethereum passbook application that accepts an Ethereum wallet address and fetches historical data of all the transactions | https://github.com/111mihir/fuzzy-spoon | 0 | 0| 
 | 20220921T11:21:36Z | Null | https://github.com/g3un/easy-fuzzer-framework | 2 | 0| 
 | 20220921T11:00:58Z | Null | https://github.com/ivanpugagonzalez/Modeling-Fuzzy-Fidelity | 0 | 0| 
-| 20220921T10:30:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7859 | 1693| 
-| 20220921T10:29:47Z | Subject: Fuzzy Logic System | https://github.com/hhoang308/PID-FuzzyLogic-Car-Matlab | 0 | 0| 
-| 20220921T06:41:10Z | 针对目标已知信息的字典生成工具 | https://github.com/ffffffff0x/name-fuzz | 140 | 24| 
-| 20220921T06:17:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4341 | 1052| 
-| 20220921T05:30:08Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 274 | 44| 
-| 20220921T04:11:30Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1466 | 260| 
-| 20220921T01:50:27Z | 一个利用OneForAll进行子域收集、Shodan API端口扫描、Xray漏洞Fuzz、Server酱的自动化漏洞扫描、即时通知提醒的漏洞挖掘辅助工具 | https://github.com/Echocipher/AUTO-EARN | 621 | 131| 
 
 
 
