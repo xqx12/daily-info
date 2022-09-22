@@ -54,12 +54,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T12:50:50Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 0 | 0| 
 | 20220922T12:22:01Z | Tinder Bypass Face Verification Get Face Verification Automatically , LEAKED SOURCE CODE | https://github.com/Projectrcs/Tinder-Exploit | 0 | 0| 
 | 20220922T12:21:26Z | A FortiADC exploitation interface using REST API | https://github.com/arandomdev247/node_tree | 0 | 0| 
 | 20220922T12:08:37Z | PoC for exploiting CVE-2019-2729 on WebLogic | https://github.com/Luchoane/CVE-2019-2729_creal | 0 | 0| 
 | 20220922T11:26:27Z | MacroExploit Latest version decompiled by ProjectRCS 2022/09/22, removed hwid protection. Source Code included. | https://github.com/Projectrcs/Macro-Exploit | 0 | 0| 
 | 20220922T11:25:07Z | XLLExcelDropper XLL EXPLOIT Latest version decompiled by ProjectRCS 2022/09/22, removed hwid protection. Source Code included. | https://github.com/Projectrcs/XLL-Excel-Dropper | 0 | 0| 
-| 20220922T09:27:55Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 0 | 0| 
 | 20220922T09:24:29Z | Directory bursting (also known as directory brute forcing) is a web application technology used to find and identify possible hidden directories in websites. This is done with the aim of finding forgotten or unsecured web directories to see if they are vulnerable to exploitation | https://github.com/vinaychethan/Bruteforce-Directory-Tool | 0 | 0| 
 | 20220922T09:16:10Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4267 | 638| 
 | 20220922T09:05:23Z | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | 41 | 13| 
