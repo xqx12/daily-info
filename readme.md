@@ -31,7 +31,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20220921T20:33:06Z | CVE-2021-44228 | CVE-2021-44228 POC / Example | https://github.com/bcdunbar/CVE-2021-44228-poc | | 
-| 20220921T19:16:07Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220921T18:14:19Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220921T15:18:25Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/notxesh/CVE-2022-36804-PoC | | 
 | 20220921T10:36:50Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
@@ -40,6 +39,7 @@
 | 20220921T04:47:31Z | CVE-2022-38577 | ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators. | https://github.com/sornram9254/CVE-2022-38577-Processmaker | | 
 | 20220921T01:42:55Z | CVE-2021-4034 | pwnkit auto exploiter written in Go, no network connectivity required. | https://github.com/1337Rin/CVE-2021-4034 | | 
 | 20220921T01:42:54Z | CVE-2021-40346 | HAProxy CVE-2021-40346 | https://github.com/Vulnmachines/HAProxy_CVE-2021-40346 | | 
+| 20220921T01:42:48Z | cve-2022-36804 | CVE-2022-36804 Atlassian Bitbucket Command Injection Vulnerability | https://github.com/Vulnmachines/bitbucket-cve-2022-36804 | | 
 
 
 # klee on Github 推荐
