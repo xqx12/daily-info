@@ -69,6 +69,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T12:29:29Z | Highly reliable botnet created in 100% python for Educational Purposes Only | https://github.com/CookiesServices/ISO | 1 | 0| 
 | 20220922T11:06:30Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 20 | 8| 
 | 20220922T04:22:24Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 565 | 110| 
 | 20220922T00:23:44Z | Null | https://github.com/irunwazed/nodejs-shell-backdoor | 0 | 0| 

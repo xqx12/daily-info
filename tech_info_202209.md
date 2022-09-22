@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T12:29:29Z | Highly reliable botnet created in 100% python for Educational Purposes Only | https://github.com/CookiesServices/ISO | 1 | 0| 
 | 20220922T11:06:30Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 20 | 8| 
 | 20220922T04:22:24Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 565 | 110| 
 | 20220922T00:23:44Z | Null | https://github.com/irunwazed/nodejs-shell-backdoor | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20220921T19:33:32Z | reverse_backdoor | https://github.com/dedsechack-1337/backdoor | 0 | 0| 
 | 20220921T16:59:23Z | Source code for ECCV 2022 Poster: Data-free Backdoor Removal based on Channel Lipschitzness | https://github.com/rkteddy/channel-Lipschitzness-based-pruning | 5 | 1| 
 | 20220921T16:16:06Z | Backdoor Shell for Windows | https://github.com/LastEnigmas/Backdoor-Shell | 0 | 0| 
-| 20220921T15:13:27Z | NjRat 0.7d Horror Edition New Update | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
