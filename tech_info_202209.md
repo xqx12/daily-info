@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T00:12:49Z | CS:GO , Roblox, Cs 1.6 Cheats | https://github.com/ROOT44x/Cheats-for-Games | 0 | 0| 
 | 20220922T00:01:12Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-f- | 1 | 0| 
 | 20220922T00:00:32Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-f- | 1 | 0| 
 | 20220921T23:59:44Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-f- | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20220921T23:36:31Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/FoxyFrost/EclipseWare-Free-Roblox-Exploits-v1.7 | 26 | 0| 
 | 20220921T23:10:39Z | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 363 | 28| 
 | 20220921T21:17:07Z | A deep reinforcement learning-based drug molecule generator focused on generation of molecules using SELFIES to exploit the guarantee of valid molecular structures. | https://github.com/naisuu/Rxitect | 1 | 3| 
-| 20220921T20:47:55Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/VenomCrackeD/GPay-balance-exploiter-by-VenomX | 26 | 0| 
 
 
 # backdoor on Github 推荐
