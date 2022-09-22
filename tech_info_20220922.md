@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T12:31:34Z | Null | https://github.com/yudhaputraa/fuzzy-logika | 0 | 0| 
 | 20220922T10:32:35Z | This tool is used for fuzzing API, directory fuzzing and sub domains fuzzing... | https://github.com/vivashu27/ifuzz | 1 | 0| 
 | 20220922T10:17:53Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1501 | 66| 
 | 20220922T09:58:06Z | Fuzzing 4 Digit Numbers | https://github.com/pear05/4-Digit-Numbers | 0 | 0| 
