@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220922T00:36:34Z | Null | https://github.com/qqqwda/fuzzy-spork | 0 | 0| 
+| 20220922T01:26:08Z | Null | https://github.com/qqqwda/fuzzy-spork | 0 | 0| 
 | 20220922T00:21:42Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1498 | 66| 
 | 20220921T23:56:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7859 | 1693| 
 | 20220921T23:08:51Z | Null | https://github.com/jac11/LFI_FUZZ | 0 | 0| 
