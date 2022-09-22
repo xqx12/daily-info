@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T01:41:25Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit-Club | 0 | 0| 
 | 20220922T00:12:49Z | CS:GO , Roblox, Cs 1.6 Cheats | https://github.com/ROOT44x/Cheats-for-Games | 0 | 0| 
 | 20220922T00:01:12Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-f- | 1 | 0| 
 | 20220922T00:00:32Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-f- | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20220921T23:37:10Z | Exploit made for Roblox by Xyps0s | https://github.com/FoxyFrost/Nyve-Keyless-Roblox-Exploit | 26 | 0| 
 | 20220921T23:36:31Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/FoxyFrost/EclipseWare-Free-Roblox-Exploits-v1.7 | 26 | 0| 
 | 20220921T23:10:39Z | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 363 | 28| 
-| 20220921T21:17:07Z | A deep reinforcement learning-based drug molecule generator focused on generation of molecules using SELFIES to exploit the guarantee of valid molecular structures. | https://github.com/naisuu/Rxitect | 1 | 3| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T01:40:36Z | Academic symbolic execution is better than awesome symbolic executions. | https://github.com/zhouxinan/academic_symbolic_execution | 0 | 0| 
 | 20220921T23:28:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3113 | 436| 
 | 20220921T23:10:39Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 30 | 19| 
 | 20220921T23:10:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2068 | 585| 
@@ -126,7 +127,6 @@
 | 20220919T02:43:07Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 75 | 16| 
 | 20220917T15:34:17Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 6 | 0| 
 | 20220916T19:10:01Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 23 | 5| 
-| 20220916T13:33:13Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 214 | 29| 
 
 
 # big4 on Github 推荐

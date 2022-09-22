@@ -65,8 +65,8 @@
 | 20220921T23:10:39Z | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 363 | 28| 
 | 20220921T21:17:07Z | A deep reinforcement learning-based drug molecule generator focused on generation of molecules using SELFIES to exploit the guarantee of valid molecular structures. | https://github.com/naisuu/Rxitect | 1 | 3| 
 | 20220921T20:47:55Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/VenomCrackeD/GPay-balance-exploiter-by-VenomX | 26 | 0| 
-| 20220921T18:05:28Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit-Club | 0 | 0| 
 | 20220921T15:36:27Z | CORS Exploitation web-page | https://github.com/userdehghani/cors | 1 | 0| 
+| 20220921T12:10:55Z | EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 376 | 43| 
 
 
 # backdoor on Github 推荐
