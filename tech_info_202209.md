@@ -33,20 +33,22 @@
 | --- | --- | ---| 
 | 20220921 | 终端入侵检测及防御规避之旅 | https://mp.weixin.qq.com/s/hJlSZ4iZ5kSJNTGngD9zMg| 
 | 20220921 | 我的三年红队生涯总结 | https://payloads.online/archivers/2022-09-19/1/| 
+| 20220921 | Cloud Native PostgreSQL攻击面分析 | https://mp.weixin.qq.com/s/uYJqM8pXJJF85LTW08r48Q| 
+| 20220921 | 2022羊城杯竞赛 Web题目解析 | https://mp.weixin.qq.com/s/-VMqjIR3-9-hDlHxsHVtFQ| 
 | 20220919 | BlackHat USA 2022 议题慢递 | https://mp.weixin.qq.com/s/Wniun8h7km1lJUQpNV409Q| 
 | 20220919 | JavaScript审计 | https://mp.weixin.qq.com/s/KBtfprcLMut1I9ZuxV6j3Q| 
 | 20220919 | 在OAuth流程中所产生的账户劫持漏洞研究 | https://mp.weixin.qq.com/s/liV8KLNw6mFTNMCwSs032Q| 
 | 20220919 | SecWiki周刊（第446期) | https://www.sec-wiki.com/weekly/446| 
 | 20220919 | 0到1搭建企业级数据治理体系 | https://mp.weixin.qq.com/s/nUU0waB3Z9r-f27fHQpqdQ| 
 | 20220918 | eCapture旁观者：Android HTTPS明文抓包，无需CA证书 | https://www.cnxct.com/ecapture-for-android/| 
-| 20220918 | 基于Clickhouse的下一代日志体系建设实践 | https://mp.weixin.qq.com/s/dUs7WUKUDOf9lLG6tzdk0g| 
-| 20220917 | JWT认证攻击详解总结 | https://mp.weixin.qq.com/s/kfB0ovlafuAcoI5yEEkDEQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220921T12:41:17Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220921T20:33:06Z | CVE-2021-44228 | CVE-2021-44228 POC / Example | https://github.com/bcdunbar/CVE-2021-44228-poc | | 
+| 20220921T19:16:07Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220921T18:14:19Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220921T10:36:50Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
 | 20220921T07:48:13Z | CVE-2022-39197 | CVE-2022-39197 | https://github.com/safe3s/CVE-2022-39197 | | 
 | 20220921T04:47:31Z | CVE-2022-38577 | ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators. | https://github.com/sornram9254/CVE-2022-38577-Processmaker | | 
@@ -54,14 +56,12 @@
 | 20220921T01:42:54Z | CVE-2021-40346 | HAProxy CVE-2021-40346 | https://github.com/Vulnmachines/HAProxy_CVE-2021-40346 | | 
 | 20220921T01:42:48Z | cve-2022-36804 | CVE-2022-36804 Atlassian Bitbucket Command Injection Vulnerability | https://github.com/Vulnmachines/bitbucket-cve-2022-36804 | | 
 | 20220921T01:42:46Z | CVE-2022-36804 | Proof of Concept exploit for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/N0pch/CVE-2022-36804-mass-rce | | 
-| 20220921T01:42:43Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/Expl0desploit/CVE-2022-20841 | | 
-| 20220921T01:42:40Z | CVE-2022-20841 | Cisco RV series unauthenticated RCE laoder + mass scanner | https://github.com/Zerf0X/CVE-2022-20841-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220921T12:17:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2067 | 585| 
+| 20220921T23:10:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2068 | 585| 
 | 20220920T14:06:05Z | My personal repository | https://github.com/KatKlee/KatKlee | 0 | 0| 
 | 20220920T08:33:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 80 | 1| 
 | 20220920T04:24:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 9 | 0| 
@@ -87,46 +87,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220921T12:10:55Z | EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 376 | 43| 
-| 20220921T11:54:55Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1090 | 98| 
-| 20220921T11:29:56Z | Final thesis | https://github.com/theofuhrmann/cybervulnerability-exploitability-classifier | 0 | 0| 
-| 20220921T11:29:41Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12047 | 2065| 
-| 20220921T11:20:29Z | Literally The Best Exploit Ever Found | https://github.com/nev3rbored/ltbeef | 0 | 0| 
-| 20220921T10:35:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3639 | 448| 
-| 20220921T09:58:16Z | Automate CTF A/D exploits! | https://github.com/semjon00/semjond | 0 | 0| 
-| 20220921T09:35:45Z | X-CUBE-MEMSMIC1 provides examples running on STM32 for the acquisition of ST analog and digital MEMS microphones. It also includes an example of ultrasound condition monitoring (UltrasoundFFT).  It exploits also the Performance Mode of the MP23DB01HP MEMS digital microphone available on the STEVAL-MIC006V1 board. | https://github.com/STMicroelectronics/x-cube-memsmic1 | 0 | 0| 
-| 20220921T09:29:36Z | We take on the challenge of combining spatialisation and ML. We propose a Network TD-SOM, which means Network and Self-organised maps of the topic documents. The Master’s theses dataset from NOVA IMS are used as an opportunity to evaluate the performance of Network TD-SOM. We exploit the results to design various kinds of spatialisation dedicated to different purposes. The Scrips, results, analysis, dataset and the my Master%s theses are available. | https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis | 0 | 0| 
-| 20220921T08:57:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 522 | 141| 
+| 20220922T00:01:12Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-f- | 1 | 0| 
+| 20220922T00:00:32Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-f- | 1 | 0| 
+| 20220921T23:59:44Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-f- | 1 | 0| 
+| 20220921T23:37:20Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/FoxyFrost/Omnis-Dead-Frontier-2-PrivateCheat | 26 | 0| 
+| 20220921T23:37:14Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/FoxyFrost/Nyve-Keyless-Roblox-Premium-Exploit | 26 | 0| 
+| 20220921T23:37:10Z | Exploit made for Roblox by Xyps0s | https://github.com/FoxyFrost/Nyve-Keyless-Roblox-Exploit | 26 | 0| 
+| 20220921T23:36:31Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/FoxyFrost/EclipseWare-Free-Roblox-Exploits-v1.7 | 26 | 0| 
+| 20220921T23:10:39Z | Exploit to allow loading arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 363 | 28| 
+| 20220921T21:17:07Z | A deep reinforcement learning-based drug molecule generator focused on generation of molecules using SELFIES to exploit the guarantee of valid molecular structures. | https://github.com/naisuu/Rxitect | 1 | 3| 
+| 20220921T20:47:55Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/VenomCrackeD/GPay-balance-exploiter-by-VenomX | 26 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220921T09:37:29Z | Null | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
+| 20220921T20:54:04Z | Highly reliable botnet created in 100% python for Educational Purposes Only | https://github.com/Callumgm/ISO | 1 | 0| 
+| 20220921T19:57:48Z | Null | https://github.com/Callumgm/Backdoor-Script | 0 | 0| 
+| 20220921T19:54:03Z | Eu sou brasileiro, portanto se você não consegui ler as minhas mensagens traduza no google tradutor para entender. | https://github.com/BrunoHenrique229/msfvenom-troubleshooting-for-backdoor-android | 0 | 0| 
+| 20220921T19:33:32Z | reverse_backdoor | https://github.com/dedsechack-1337/backdoor | 0 | 0| 
+| 20220921T16:59:23Z | Source code for ECCV 2022 Poster: Data-free Backdoor Removal based on Channel Lipschitzness | https://github.com/rkteddy/channel-Lipschitzness-based-pruning | 5 | 1| 
+| 20220921T16:16:06Z | Backdoor Shell for Windows | https://github.com/LastEnigmas/Backdoor-Shell | 0 | 0| 
+| 20220921T15:13:27Z | NjRat 0.7d Horror Edition New Update | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
 | 20220921T08:50:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 563 | 110| 
 | 20220921T01:55:21Z | This is the official implementation of our paper %Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection%, accepted in NeurIPS 2022. | https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark | 8 | 0| 
 | 20220921T00:34:07Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 0 | 0| 
-| 20220920T19:30:06Z | python ile yazılmış bir backdoor | https://github.com/mehmet0can/Backdoor-2 | 1 | 0| 
-| 20220920T19:30:06Z | python ile yazıllmış backdoor | https://github.com/mehmet0can/Backdoor-1 | 1 | 0| 
-| 20220920T15:11:15Z | Efficient use of DEVITO_JIT_BACKDOOR in large codes with many Operators | https://github.com/speglich/DEVITO-Operator-Injector | 0 | 0| 
-| 20220920T11:40:04Z | Null | https://github.com/De-eloper/NJRAT-0.7d-Horror-Edition | 1 | 0| 
-| 20220920T10:43:25Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1190 | 463| 
-| 20220920T08:22:10Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 19 | 8| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220921T12:17:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2067 | 585| 
+| 20220921T23:28:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3113 | 436| 
+| 20220921T23:10:39Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 30 | 19| 
+| 20220921T23:10:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2068 | 585| 
 | 20220921T10:47:43Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 22 | 4| 
 | 20220921T09:15:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 485 | 27| 
-| 20220921T07:20:40Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3112 | 436| 
 | 20220919T12:04:18Z | Code for tracelet-level symbolic execution | https://github.com/sem2vec/sem2vec-SE | 1 | 0| 
 | 20220919T02:43:07Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 75 | 16| 
 | 20220917T15:34:17Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 6 | 0| 
 | 20220916T19:10:01Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 23 | 5| 
 | 20220916T13:33:13Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 214 | 29| 
-| 20220915T09:14:40Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 176 | 42| 
 
 
 # big4 on Github 推荐
