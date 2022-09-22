@@ -146,7 +146,7 @@
 | 20220922T01:52:46Z | Null | https://github.com/toilacube/K-means-vs-Fuzzy-c-means | 0 | 0| 
 | 20220922T01:26:08Z | Null | https://github.com/qqqwda/fuzzy-spork | 0 | 0| 
 | 20220922T00:21:42Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1498 | 66| 
-| 20220921T23:56:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7859 | 1693| 
+| 20220921T23:56:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7859 | 1694| 
 | 20220921T23:08:51Z | Null | https://github.com/jac11/LFI_FUZZ | 0 | 0| 
 | 20220921T22:10:01Z | A tiny, efficient, fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 4 | 0| 
 | 20220921T19:56:13Z | Multithreaded URL fuzzer (i.e. subdomains, queries, directories) | https://github.com/ultros/fuzzbuster | 0 | 0| 
