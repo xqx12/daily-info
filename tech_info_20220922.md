@@ -54,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220922T12:50:50Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 0 | 0| 
+| 20220922T12:52:17Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 1 | 0| 
 | 20220922T12:22:01Z | Tinder Bypass Face Verification Get Face Verification Automatically , LEAKED SOURCE CODE | https://github.com/Projectrcs/Tinder-Exploit | 0 | 0| 
 | 20220922T12:21:26Z | A FortiADC exploitation interface using REST API | https://github.com/arandomdev247/node_tree | 0 | 0| 
 | 20220922T12:08:37Z | PoC for exploiting CVE-2019-2729 on WebLogic | https://github.com/Luchoane/CVE-2019-2729_creal | 0 | 0| 
