@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T01:36:14Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 564 | 110| 
 | 20220922T00:23:44Z | Null | https://github.com/irunwazed/nodejs-shell-backdoor | 0 | 0| 
 | 20220921T20:54:04Z | Highly reliable botnet created in 100% python for Educational Purposes Only | https://github.com/Callumgm/ISO | 1 | 0| 
 | 20220921T19:57:48Z | Null | https://github.com/Callumgm/Backdoor-Script | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20220921T16:59:23Z | Source code for ECCV 2022 Poster: Data-free Backdoor Removal based on Channel Lipschitzness | https://github.com/rkteddy/channel-Lipschitzness-based-pruning | 5 | 1| 
 | 20220921T16:16:06Z | Backdoor Shell for Windows | https://github.com/LastEnigmas/Backdoor-Shell | 0 | 0| 
 | 20220921T15:13:27Z | NjRat 0.7d Horror Edition New Update | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
-| 20220921T08:50:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 563 | 110| 
 | 20220921T01:55:21Z | This is the official implementation of our paper %Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection%, accepted in NeurIPS 2022. | https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark | 8 | 0| 
 
 

@@ -79,7 +79,6 @@
 | 20220921T16:59:23Z | Source code for ECCV 2022 Poster: Data-free Backdoor Removal based on Channel Lipschitzness | https://github.com/rkteddy/channel-Lipschitzness-based-pruning | 5 | 1| 
 | 20220921T16:16:06Z | Backdoor Shell for Windows | https://github.com/LastEnigmas/Backdoor-Shell | 0 | 0| 
 | 20220921T15:13:27Z | NjRat 0.7d Horror Edition New Update | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
-| 20220921T08:50:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 563 | 110| 
 | 20220921T01:55:21Z | This is the official implementation of our paper %Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection%, accepted in NeurIPS 2022. | https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark | 8 | 0| 
 | 20220921T00:34:07Z | NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition- | 0 | 0| 
 
