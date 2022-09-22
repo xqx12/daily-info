@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T01:52:46Z | Null | https://github.com/toilacube/K-means-vs-Fuzzy-c-means | 0 | 0| 
 | 20220922T01:26:08Z | Null | https://github.com/qqqwda/fuzzy-spork | 0 | 0| 
 | 20220922T00:21:42Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1498 | 66| 
 | 20220921T23:56:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7859 | 1693| 
@@ -152,7 +153,6 @@
 | 20220921T19:11:20Z | testing-git | https://github.com/davidschwarz3/fuzzy-test | 0 | 0| 
 | 20220921T18:33:24Z | CrackQL is a GraphQL password brute-force and fuzzing utility. | https://github.com/nicholasaleks/CrackQL | 182 | 12| 
 | 20220921T16:54:40Z | DO NOT DOWNLOAD - THIS IS A TEST | https://github.com/ncomeau/fuzzy-waddle | 0 | 0| 
-| 20220921T11:23:40Z | Ethereum passbook application that accepts an Ethereum wallet address and fetches historical data of all the transactions | https://github.com/111mihir/fuzzy-spoon | 0 | 0| 
 
 
 
