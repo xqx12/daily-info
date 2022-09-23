@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T12:19:45Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 16 | 3| 
 | 20220923T11:37:43Z | Null | https://github.com/post-cyberlabs/Exploits | 2 | 1| 
 | 20220923T11:33:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3641 | 448| 
 | 20220923T11:16:43Z | Sincan2 Mass Exploit | https://github.com/Sincan2/exploit | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20220923T08:47:50Z | Mass rce exploit for CVE-2022-36804 BITBUCKET SERVER UNAUTHENTICATED RCE | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | 0 | 0| 
 | 20220923T07:54:21Z | A python libary and command line tool to create a database of CVEs and their exploits | https://github.com/maringuu/cve-exploit-mapper | 0 | 0| 
 | 20220923T04:05:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 525 | 141| 
-| 20220923T01:42:44Z | This repo is for Out-of-Bound demo exploit. | https://github.com/ZhiQiAnSecFork/mock_proof | 0 | 0| 
 
 
 # backdoor on Github 推荐
