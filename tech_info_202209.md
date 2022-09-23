@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220923 | 以 Roshtyak 后门为例介绍恶意软件的自保护、杀软逃逸技巧 | http://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/| 
+| 20220923 | 利用 AWS API Gateway 的大 IP 池构建代理解决 IP 限制的问题 | https://github.com/Ge0rg3/requests-ip-rotator| 
+| 20220923 | 云安全审计工具 Scout Suite 开始支持对 Kubernetes clusters 的扫描 | http://research.nccgroup.com/2022/09/22/tool-release-project-kubescout-adding-kubernetes-support-to-scout-suite/| 
+| 20220923 | Microsoft Azure 云环境的攻击路径分析 | http://cloudbrothers.info/azure-attack-paths/| 
+| 20220923 | Quokka - Quarkslab 开源的二进制文件 Exporter | http://blog.quarkslab.com/quokka-a-fast-and-accurate-binary-exporter.html| 
+| 20220923 | 利用希捷在 Windows 系统安装的媒体同步服务的漏洞实现 SYSTEM 提权 | http://www.x86matthew.com/view_post?id=windows_seagate_lpe| 
+| 20220923 | Impacket Wmiexec 远程命令执行模块的用法以及防御检测方案 | https://www.crowdstrike.com/blog/how-to-detect-and-prevent-impackets-wmiexec/| 
 | 20220922 | 利用 NtUserHardErrorControl 实现 Windows 内核任意地址读写 | https://github.com/SecIdiot/ANGRYORCHARD| 
 | 20220922 | 利用 Bitbucket Server 的参数注入漏洞实现 Pre Auth RCE (CVE-2022-36804) | https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/| 
 | 20220922 | RF Hacking with a Flipper Zero | https://github.com/n0n5m1l3/Presentations| 
@@ -19,18 +26,12 @@
 | 20220922 | erlang-distribution-protocol 安全问题研究 | http://paper.seebug.org/1978/| 
 | 20220921 | BCS 2022 会议探索JNDI攻击议题 PPT | https://github.com/iSafeBlue/presentation-slides/blob/main/BCS2022-%E6%8E%A2%E7%B4%A2JNDI%E6%94%BB%E5%87%BB.pdf| 
 | 20220921 | 集成 FunJSQ 第三方游戏模块的 Netgear 路由器存在代码执行漏洞 | https://gbhackers.com/netgear-router-funjsq/| 
-| 20220921 | Dataprobe iBoot-PDU 智能配电产品被发现存在漏洞，可以远程断电 | https://claroty.com/team82/research/jumping-nat-to-shut-down-electric-devices| 
-| 20220921 | From Leaking TheHole to Chrome Renderer RCE | https://medium.com/numen-cyber-labs/from-leaking-thehole-to-chrome-renderer-rce-183dcb6f3078| 
-| 20220921 | 自制一个有自毁功能的 USB 闪存 | http://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/| 
-| 20220921 | Oracle 云基础设施（OCI）被发现存储卷存在未授权跨用户访问和修改漏洞 | http://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access| 
-| 20220921 | uBlock Origin - Chrome、Firefox 浏览器 blocker 插件，支持对广告、Trackers、恶意站点的阻断 | https://github.com/gorhill/uBlock| 
-| 20220921 | 研究员 WOJCIECH REGUŁA 关于 macOS 平台攻击和渗透的分享 | https://www.securing.pl/en/presentation/0-day-up-your-sleeve-attacking-macos-environments/| 
-| 20220921 | Windows 11 大版本更新带来的新安全特性 | https://www.microsoft.com/security/blog/2022/09/20/new-windows-11-security-features-are-designed-for-hybrid-work/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220923 | 揭露大佬挖主应用的一般性流程 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486332&idx=1&sn=238328c005b23ec39e375bb0f4f57652&chksm=e8a6011fdfd1880929ce3b1c3207ae1caf8827f845881fa110daab3a10f6177df3483ca77eea&token=798508684&lang=zh_CN#rd| 
 | 20220922 | 威胁情报分析工具集的docker 镜像 | https://github.com/cyware-labs/Threat-Response-Docker| 
 | 20220922 | phar反序列化学习 | https://www.sec-in.com/article/1867| 
 | 20220922 | rengine: 自动化信息收集的平台 | https://github.com/yogeshojha/rengine| 
@@ -40,27 +41,27 @@
 | 20220921 | 2022羊城杯竞赛 Web题目解析 | https://mp.weixin.qq.com/s/-VMqjIR3-9-hDlHxsHVtFQ| 
 | 20220919 | BlackHat USA 2022 议题慢递 | https://mp.weixin.qq.com/s/Wniun8h7km1lJUQpNV409Q| 
 | 20220919 | JavaScript审计 | https://mp.weixin.qq.com/s/KBtfprcLMut1I9ZuxV6j3Q| 
-| 20220919 | 在OAuth流程中所产生的账户劫持漏洞研究 | https://mp.weixin.qq.com/s/liV8KLNw6mFTNMCwSs032Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220923T11:37:31Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220923T11:37:09Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
+| 20220923T11:08:44Z | CVE-2022-36804 | PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/Chocapikk/CVE-2022-36804-ReverseShell | | 
+| 20220923T08:47:50Z | CVE-2022-36804 | Mass rce exploit for CVE-2022-36804 BITBUCKET SERVER UNAUTHENTICATED RCE | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | | 
+| 20220923T08:20:07Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
 | 20220923T01:06:55Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
-| 20220923T01:05:22Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
-| 20220922T20:43:28Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220922T19:50:26Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220922T19:43:58Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
 | 20220922T17:52:41Z | CVE-2022-29464 | WSO2 Arbitrary File Upload to Remote Command Execution (RCE) | https://github.com/hupe1980/CVE-2022-29464 | | 
 | 20220922T11:52:07Z | CVE-2022-39197 | CVE-2022-39197 | https://github.com/safe3s/CVE-2022-39197 | | 
-| 20220922T06:03:34Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
-| 20220922T03:59:01Z | CVE-2022-36804 | Multithreaded exploit script for CVE-2022-36804 affecting BitBucket versions <8.3.1 | https://github.com/notxesh/CVE-2022-36804-PoC | | 
-| 20220922T01:44:18Z | CVE-2021-44228 | CVE-2021-44228 POC / Example | https://github.com/bcdunbar/CVE-2021-44228-poc | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T06:41:04Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 52 | 12| 
 | 20220922T12:05:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2069 | 585| 
 | 20220922T08:37:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 26 | 1| 
 | 20220920T14:06:05Z | My personal repository | https://github.com/KatKlee/KatKlee | 0 | 0| 
@@ -70,14 +71,13 @@
 | 20220919T17:28:35Z | lab-01-pandas-kleeio created by GitHub Classroom | https://github.com/cs663-spring2021/lab-01-pandas-kleeio | 0 | 0| 
 | 20220915T14:17:37Z | Pull Requests for https://github.com/SonOfLilit/kleenexp | https://github.com/JoshuaFox/kleenexp | 0 | 0| 
 | 20220914T23:07:22Z | Null | https://github.com/kleeve/kleeve.github.io | 0 | 0| 
-| 20220914T20:19:57Z | Null | https://github.com/MrKleeblatt/KleeBuild | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T09:28:13Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 252 | 61| 
 | 20220923T00:02:50Z | Command line configuration & Test Tool for WIZnet Serial to Ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool | 7 | 4| 
-| 20220922T22:44:37Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 253 | 61| 
 | 20220921T01:34:00Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 70 | 10| 
 | 20220920T07:05:13Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 21 | 4| 
 | 20220914T21:11:27Z | Calumet S2EBPR pilot study | https://github.com/mckfarm/calumet_s2ebpr | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T11:37:43Z | Null | https://github.com/post-cyberlabs/Exploits | 2 | 1| 
+| 20220923T11:33:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3641 | 448| 
+| 20220923T11:16:43Z | Sincan2 Mass Exploit | https://github.com/Sincan2/exploit | 0 | 0| 
+| 20220923T11:08:44Z | PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/Chocapikk/CVE-2022-36804-ReverseShell | 0 | 0| 
+| 20220923T11:07:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4281 | 641| 
+| 20220923T08:47:50Z | Mass rce exploit for CVE-2022-36804 BITBUCKET SERVER UNAUTHENTICATED RCE | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | 0 | 0| 
+| 20220923T07:54:21Z | A python libary and command line tool to create a database of CVEs and their exploits | https://github.com/maringuu/cve-exploit-mapper | 0 | 0| 
+| 20220923T04:05:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 525 | 141| 
 | 20220923T01:42:44Z | This repo is for Out-of-Bound demo exploit. | https://github.com/ZhiQiAnSecFork/mock_proof | 0 | 0| 
 | 20220923T00:04:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-v- | 1 | 0| 
-| 20220923T00:04:08Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/TheEnd1337/Omnis-Dead-Frontier-2-PrivateCheat | 10 | 0| 
-| 20220923T00:03:55Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Premium-Exploit | 10 | 0| 
-| 20220923T00:03:41Z | Exploit made for Roblox by Xyps0s | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Exploit | 10 | 0| 
-| 20220923T00:03:09Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v- | 1 | 0| 
-| 20220923T00:01:58Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/TheEnd1337/EclipseWare-Free-Roblox-Exploits-v1.7 | 11 | 0| 
-| 20220923T00:01:57Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-v- | 1 | 0| 
-| 20220922T23:42:50Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/FrostyFoxy/GPay-balance-exploiter-by-VenomX | 21 | 0| 
-| 20220922T23:06:08Z | Docker CVE-2022-37708 | https://github.com/thekevinday/docker_lightman_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T09:31:42Z | A Backdoor made in python3 | https://github.com/xuantien177/backdoor_cmd_controller | 0 | 0| 
+| 20220923T07:14:36Z | Backdoor | https://github.com/abnormaldoescode/A-S-T-R-O | 0 | 0| 
+| 20220923T02:34:56Z | NjRat 0.7d Horror Edition  | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
 | 20220923T00:48:23Z | scanners and the backdoors for ethical hacking training | https://github.com/Major2000/hacking_programs | 1 | 0| 
-| 20220922T21:31:59Z | NjRat 0.7d Horror Edition  | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
 | 20220922T19:07:42Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 11 | 7| 
 | 20220922T18:37:27Z | Null | https://github.com/Hblgrim/RAM-BACKDOOR | 0 | 0| 
 | 20220922T17:27:26Z | Null | https://github.com/panpansuannai/ssh-backdoor-detect | 0 | 0| 
 | 20220922T15:33:19Z | This is an example of a self connecting backdoor which provides a shell for the attacker | https://github.com/Miguel-Frazao/simple-self-connecting-reverse-shell | 1 | 0| 
 | 20220922T12:29:29Z | Highly reliable botnet created in 100% python for Educational Purposes Only | https://github.com/CookiesServices/ISO | 1 | 1| 
 | 20220922T11:06:30Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 20 | 8| 
-| 20220922T04:22:24Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 565 | 110| 
-| 20220922T00:23:44Z | Null | https://github.com/irunwazed/nodejs-shell-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
