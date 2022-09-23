@@ -88,6 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T12:37:40Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g- | 0 | 0| 
+| 20220923T12:37:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g- | 1 | 0| 
+| 20220923T12:35:52Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-g- | 1 | 0| 
 | 20220923T12:28:16Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12063 | 2069| 
 | 20220923T12:24:56Z | Null | https://github.com/sujayadkesar/cofeecat_lets_exploit | 0 | 0| 
 | 20220923T12:19:45Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 16 | 3| 
@@ -95,9 +98,6 @@
 | 20220923T11:33:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3641 | 448| 
 | 20220923T11:16:43Z | Sincan2 Mass Exploit | https://github.com/Sincan2/exploit | 0 | 0| 
 | 20220923T11:08:44Z | PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/Chocapikk/CVE-2022-36804-ReverseShell | 0 | 0| 
-| 20220923T11:07:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4281 | 641| 
-| 20220923T08:47:50Z | Mass rce exploit for CVE-2022-36804 BITBUCKET SERVER UNAUTHENTICATED RCE | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | 0 | 0| 
-| 20220923T07:54:21Z | A python libary and command line tool to create a database of CVEs and their exploits | https://github.com/maringuu/cve-exploit-mapper | 0 | 0| 
 
 
 # backdoor on Github 推荐
