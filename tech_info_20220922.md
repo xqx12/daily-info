@@ -63,10 +63,10 @@
 | 20220922T21:33:53Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 91 | 11| 
 | 20220922T21:13:45Z | Pentest application | https://github.com/quentinmorelle96/Exploit-Application | 0 | 0| 
 | 20220922T21:06:56Z | A python based cross-platform tool that automates the process of detecting and exploiting error-based injection security flaws. | https://github.com/r0oth3x49/Xpath | 99 | 48| 
+| 20220922T18:34:39Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 223 | 51| 
 | 20220922T12:52:17Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 1 | 0| 
 | 20220922T12:22:01Z | Tinder Bypass Face Verification Get Face Verification Automatically , LEAKED SOURCE CODE | https://github.com/Projectrcs/Tinder-Exploit | 0 | 0| 
 | 20220922T12:21:26Z | A FortiADC exploitation interface using REST API | https://github.com/arandomdev247/node_tree | 0 | 0| 
-| 20220922T12:08:37Z | PoC for exploiting CVE-2019-2729 on WebLogic | https://github.com/Luchoane/CVE-2019-2729_creal | 0 | 0| 
 
 
 # backdoor on Github 推荐
