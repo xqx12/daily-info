@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220923T00:03:20Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
+| 20220923T00:46:41Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220922T20:43:28Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220922T19:50:26Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220922T19:43:58Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T00:48:23Z | scanners and the backdoors for ethical hacking training | https://github.com/Major2000/hacking_programs | 1 | 0| 
 | 20220922T21:31:59Z | NjRat 0.7d Horror Edition  | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
 | 20220922T19:07:42Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 11 | 7| 
 | 20220922T18:37:27Z | Null | https://github.com/Hblgrim/RAM-BACKDOOR | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20220922T11:06:30Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 20 | 8| 
 | 20220922T04:22:24Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 565 | 110| 
 | 20220922T00:23:44Z | Null | https://github.com/irunwazed/nodejs-shell-backdoor | 0 | 0| 
-| 20220921T20:54:04Z | Highly reliable botnet created in 100% python for Educational Purposes Only | https://github.com/Callumgm/ISO | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
