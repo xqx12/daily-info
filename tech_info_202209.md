@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220923T00:03:20Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220922T20:43:28Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220922T19:50:26Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220922T19:43:58Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
 | 20220922T17:52:41Z | CVE-2022-29464 | WSO2 Arbitrary File Upload to Remote Command Execution (RCE) | https://github.com/hupe1980/CVE-2022-29464 | | 
-| 20220922T16:30:43Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220922T16:00:13Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
 | 20220922T11:52:07Z | CVE-2022-39197 | CVE-2022-39197 | https://github.com/safe3s/CVE-2022-39197 | | 
 | 20220922T06:03:34Z | CVE-2022-37706 | A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04) | https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit | | 
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T00:02:32Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v- | 0 | 0| 
+| 20220923T00:01:58Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/TheEnd1337/EclipseWare-Free-Roblox-Exploits-v1.7 | 11 | 0| 
+| 20220923T00:01:57Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-v- | 1 | 0| 
 | 20220922T23:55:45Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/TheEnd1337/Omnis-Dead-Frontier-2-PrivateCheat | 9 | 0| 
 | 20220922T23:55:41Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Premium-Exploit | 9 | 0| 
 | 20220922T23:55:30Z | Exploit made for Roblox by Xyps0s | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Exploit | 9 | 0| 
-| 20220922T23:53:22Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/TheEnd1337/EclipseWare-Free-Roblox-Exploits-v1.7 | 10 | 0| 
 | 20220922T23:42:50Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/FrostyFoxy/GPay-balance-exploiter-by-VenomX | 21 | 0| 
 | 20220922T23:06:08Z | Docker CVE-2022-37708 | https://github.com/thekevinday/docker_lightman_exploit | 0 | 0| 
 | 20220922T21:40:33Z | a SIMPLE GUI program that uses a well known exploit that  can be exploited with public Breached DATABASES. the tool simply alter the password to make it  more common and that increases the chances of a working account from the publicly published database | https://github.com/iq-thegoat/Password-Exploiter | 0 | 0| 
 | 20220922T21:33:53Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 91 | 11| 
-| 20220922T21:13:45Z | Pentest application | https://github.com/quentinmorelle96/Exploit-Application | 0 | 0| 
-| 20220922T21:06:56Z | A python based cross-platform tool that automates the process of detecting and exploiting error-based injection security flaws. | https://github.com/r0oth3x49/Xpath | 99 | 48| 
 
 
 # backdoor on Github 推荐
@@ -117,10 +117,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220922T14:40:37Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 485 | 27| 
+| 20220922T14:36:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3116 | 436| 
 | 20220922T12:05:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2069 | 585| 
-| 20220922T10:26:05Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 486 | 27| 
 | 20220922T07:16:50Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 215 | 29| 
-| 20220922T02:57:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3114 | 436| 
 | 20220922T01:40:36Z | Academic symbolic execution is better than awesome symbolic executions. | https://github.com/zhouxinan/academic_symbolic_execution | 0 | 0| 
 | 20220921T23:10:39Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 30 | 19| 
 | 20220921T10:47:43Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 22 | 4| 
