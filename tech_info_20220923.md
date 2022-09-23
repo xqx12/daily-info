@@ -72,6 +72,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T06:09:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3117 | 436| 
 
 
 # big4 on Github 推荐
@@ -82,9 +83,15 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T11:31:51Z | coursework (assignments &hand written notes) | https://github.com/Princy1184/ELEC6604-Neural-networks-fuzzy-systems-and-genetic-algorithms | 0 | 0| 
+| 20220923T11:23:01Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
+| 20220923T10:44:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7863 | 1695| 
+| 20220923T10:05:25Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 50 | 5| 
+| 20220923T09:32:54Z | Null | https://github.com/sanju01sahu/fuzzy-octo-waddle | 0 | 0| 
 | 20220923T01:32:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2906 | 346| 
 | 20220923T01:32:40Z | Null | https://github.com/khanhngg/fuzzy-yellow-balls | 0 | 0| 
 | 20220923T01:19:31Z | Null | https://github.com/mjsabin01/fuzzy-happiness | 0 | 0| 
+| 20220923T01:02:51Z | FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares | https://github.com/FirmWire/FirmWire | 540 | 57| 
 | 20220923T00:24:42Z | Fuzzy Logic and Fuzzy Inference for Python 3 | https://github.com/amogorkon/fuzzylogic | 69 | 14| 
 
 
