@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220923T12:28:04Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-FULL-RCE | | 
 | 20220923T11:37:31Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220923T11:37:09Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220923T11:08:44Z | CVE-2022-36804 | PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/Chocapikk/CVE-2022-36804-ReverseShell | | 
@@ -55,7 +56,6 @@
 | 20220922T19:50:26Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220922T19:43:58Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
 | 20220922T17:52:41Z | CVE-2022-29464 | WSO2 Arbitrary File Upload to Remote Command Execution (RCE) | https://github.com/hupe1980/CVE-2022-29464 | | 
-| 20220922T11:52:07Z | CVE-2022-39197 | CVE-2022-39197 | https://github.com/safe3s/CVE-2022-39197 | | 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T12:28:16Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12063 | 2069| 
 | 20220923T12:24:56Z | Null | https://github.com/sujayadkesar/cofeecat_lets_exploit | 0 | 0| 
 | 20220923T12:19:45Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 16 | 3| 
 | 20220923T11:37:43Z | Null | https://github.com/post-cyberlabs/Exploits | 2 | 1| 
@@ -95,7 +96,6 @@
 | 20220923T11:16:43Z | Sincan2 Mass Exploit | https://github.com/Sincan2/exploit | 0 | 0| 
 | 20220923T11:08:44Z | PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/Chocapikk/CVE-2022-36804-ReverseShell | 0 | 0| 
 | 20220923T11:07:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4281 | 641| 
-| 20220923T09:54:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12062 | 2069| 
 | 20220923T08:47:50Z | Mass rce exploit for CVE-2022-36804 BITBUCKET SERVER UNAUTHENTICATED RCE | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | 0 | 0| 
 | 20220923T07:54:21Z | A python libary and command line tool to create a database of CVEs and their exploits | https://github.com/maringuu/cve-exploit-mapper | 0 | 0| 
 
