@@ -53,11 +53,11 @@
 | 20220923T11:16:43Z | Sincan2 Mass Exploit | https://github.com/Sincan2/exploit | 0 | 0| 
 | 20220923T11:08:44Z | PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/Chocapikk/CVE-2022-36804-ReverseShell | 0 | 0| 
 | 20220923T11:07:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4281 | 641| 
+| 20220923T09:54:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12062 | 2069| 
 | 20220923T08:47:50Z | Mass rce exploit for CVE-2022-36804 BITBUCKET SERVER UNAUTHENTICATED RCE | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | 0 | 0| 
 | 20220923T07:54:21Z | A python libary and command line tool to create a database of CVEs and their exploits | https://github.com/maringuu/cve-exploit-mapper | 0 | 0| 
 | 20220923T04:05:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 525 | 141| 
 | 20220923T01:42:44Z | This repo is for Out-of-Bound demo exploit. | https://github.com/ZhiQiAnSecFork/mock_proof | 0 | 0| 
-| 20220923T00:04:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-v- | 1 | 0| 
 
 
 # backdoor on Github 推荐
