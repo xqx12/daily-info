@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220923T12:41:17Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
+| 20220923T12:53:24Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220923T12:28:04Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-FULL-RCE | | 
 | 20220923T11:37:31Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220923T11:08:44Z | CVE-2022-36804 | PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/Chocapikk/CVE-2022-36804-ReverseShell | | 
