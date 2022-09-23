@@ -57,9 +57,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220922T23:55:45Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/TheEnd1337/Omnis-Dead-Frontier-2-PrivateCheat | 9 | 0| 
-| 20220922T23:55:41Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Premium-Exploit | 9 | 0| 
-| 20220922T23:55:30Z | Exploit made for Roblox by Xyps0s | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Exploit | 9 | 0| 
 | 20220922T23:42:50Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/FrostyFoxy/GPay-balance-exploiter-by-VenomX | 21 | 0| 
 | 20220922T23:06:08Z | Docker CVE-2022-37708 | https://github.com/thekevinday/docker_lightman_exploit | 0 | 0| 
 | 20220922T21:40:33Z | a SIMPLE GUI program that uses a well known exploit that  can be exploited with public Breached DATABASES. the tool simply alter the password to make it  more common and that increases the chances of a working account from the publicly published database | https://github.com/iq-thegoat/Password-Exploiter | 0 | 0| 
@@ -67,6 +64,9 @@
 | 20220922T21:13:45Z | Pentest application | https://github.com/quentinmorelle96/Exploit-Application | 0 | 0| 
 | 20220922T21:06:56Z | A python based cross-platform tool that automates the process of detecting and exploiting error-based injection security flaws. | https://github.com/r0oth3x49/Xpath | 99 | 48| 
 | 20220922T12:52:17Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 1 | 0| 
+| 20220922T12:22:01Z | Tinder Bypass Face Verification Get Face Verification Automatically , LEAKED SOURCE CODE | https://github.com/Projectrcs/Tinder-Exploit | 0 | 0| 
+| 20220922T12:21:26Z | A FortiADC exploitation interface using REST API | https://github.com/arandomdev247/node_tree | 0 | 0| 
+| 20220922T12:08:37Z | PoC for exploiting CVE-2019-2729 on WebLogic | https://github.com/Luchoane/CVE-2019-2729_creal | 0 | 0| 
 
 
 # backdoor on Github 推荐

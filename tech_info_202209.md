@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220923T00:02:32Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v- | 0 | 0| 
+| 20220923T00:04:20Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-v- | 1 | 0| 
+| 20220923T00:04:08Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/TheEnd1337/Omnis-Dead-Frontier-2-PrivateCheat | 10 | 0| 
+| 20220923T00:03:55Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Premium-Exploit | 10 | 0| 
+| 20220923T00:03:41Z | Exploit made for Roblox by Xyps0s | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Exploit | 10 | 0| 
+| 20220923T00:03:09Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-v- | 1 | 0| 
 | 20220923T00:01:58Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/TheEnd1337/EclipseWare-Free-Roblox-Exploits-v1.7 | 11 | 0| 
 | 20220923T00:01:57Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-v- | 1 | 0| 
-| 20220922T23:55:45Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/TheEnd1337/Omnis-Dead-Frontier-2-PrivateCheat | 9 | 0| 
-| 20220922T23:55:41Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Premium-Exploit | 9 | 0| 
-| 20220922T23:55:30Z | Exploit made for Roblox by Xyps0s | https://github.com/TheEnd1337/Nyve-Keyless-Roblox-Exploit | 9 | 0| 
 | 20220922T23:42:50Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/FrostyFoxy/GPay-balance-exploiter-by-VenomX | 21 | 0| 
 | 20220922T23:06:08Z | Docker CVE-2022-37708 | https://github.com/thekevinday/docker_lightman_exploit | 0 | 0| 
 | 20220922T21:40:33Z | a SIMPLE GUI program that uses a well known exploit that  can be exploited with public Breached DATABASES. the tool simply alter the password to make it  more common and that increases the chances of a working account from the publicly published database | https://github.com/iq-thegoat/Password-Exploiter | 0 | 0| 
-| 20220922T21:33:53Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 91 | 11| 
 
 
 # backdoor on Github 推荐
