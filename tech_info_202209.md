@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T00:24:42Z | Fuzzy Logic and Fuzzy Inference for Python 3 | https://github.com/amogorkon/fuzzylogic | 69 | 14| 
 | 20220922T21:52:49Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1653 | 207| 
 | 20220922T20:09:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7860 | 1695| 
 | 20220922T17:34:42Z | Fudz: It will fuzz with feeds. Twitter to RSS, Mastodon to RSS, Fiddle with existing RSS feeds. | https://github.com/revpriest/fudz | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20220922T10:32:35Z | This tool is used for fuzzing API, directory fuzzing and sub domains fuzzing... | https://github.com/vivashu27/ifuzz | 1 | 0| 
 | 20220922T10:17:53Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1501 | 66| 
 | 20220922T09:58:06Z | Fuzzing 4 Digit Numbers | https://github.com/pear05/4-Digit-Numbers | 0 | 0| 
-| 20220922T09:06:22Z | A fuzzing framework for SMT solvers | https://github.com/testsmt/yinyang | 133 | 16| 
 
 
 
