@@ -49,7 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220923T12:37:40Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g- | 0 | 0| 
+| 20220923T12:38:13Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g- | 1 | 0| 
 | 20220923T12:37:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g- | 1 | 0| 
 | 20220923T12:35:52Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-g- | 1 | 0| 
 | 20220923T12:28:16Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12063 | 2069| 
@@ -84,13 +84,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T12:30:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1654 | 207| 
 | 20220923T12:12:46Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 51 | 5| 
 | 20220923T11:31:51Z | coursework (assignments &hand written notes) | https://github.com/Princy1184/ELEC6604-Neural-networks-fuzzy-systems-and-genetic-algorithms | 0 | 0| 
 | 20220923T11:23:01Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
 | 20220923T10:44:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7863 | 1695| 
 | 20220923T09:32:54Z | Null | https://github.com/sanju01sahu/fuzzy-octo-waddle | 0 | 0| 
 | 20220923T08:32:01Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1503 | 66| 
-| 20220923T07:49:37Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1654 | 207| 
 | 20220923T01:32:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2906 | 346| 
 | 20220923T01:32:40Z | Null | https://github.com/khanhngg/fuzzy-yellow-balls | 0 | 0| 
 | 20220923T01:19:31Z | Null | https://github.com/mjsabin01/fuzzy-happiness | 0 | 0| 
