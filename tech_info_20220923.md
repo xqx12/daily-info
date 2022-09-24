@@ -32,11 +32,11 @@
 | 20220923T20:09:37Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/expl0despl0it/CVE-2022-32548 | | 
 | 20220923T20:07:02Z | CVE-2021-44158 | ASUS router exploit | https://github.com/expl0despl0it/CVE-2021-44158 | | 
 | 20220923T20:04:20Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/expl0despl0it/CVE-2022-20841 | | 
-| 20220923T19:19:27Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220923T14:29:31Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
 | 20220923T14:13:26Z | CVE-2022-31798 | CVE-2022-31798 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31798 | | 
 | 20220923T14:11:30Z | CVE-2022-31499 | CVE-2022-31499 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31499 | | 
 | 20220923T14:04:20Z | CVE-2022-31269 | CVE-2022-31269 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31269 | | 
+| 20220923T12:28:04Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-FULL-RCE | | 
 
 
 # klee on Github 推荐

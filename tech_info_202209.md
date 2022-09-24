@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220924T00:04:32Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220923T22:38:15Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220923T20:09:59Z | CVE-2022-25845 | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | | 
 | 20220923T20:09:37Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/expl0despl0it/CVE-2022-32548 | | 
 | 20220923T20:07:02Z | CVE-2021-44158 | ASUS router exploit | https://github.com/expl0despl0it/CVE-2021-44158 | | 
 | 20220923T20:04:20Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/expl0despl0it/CVE-2022-20841 | | 
-| 20220923T19:19:27Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220923T14:29:31Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
 | 20220923T14:13:26Z | CVE-2022-31798 | CVE-2022-31798 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31798 | | 
 | 20220923T14:11:30Z | CVE-2022-31499 | CVE-2022-31499 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31499 | | 
