@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T12:44:29Z | Null | https://github.com/Masyaka94/fuzzy-rotary-phone | 0 | 0| 
 | 20220924T11:09:24Z | Null | https://github.com/kodjofr/fuzzy-python | 0 | 0| 
 | 20220924T10:04:37Z | Null | https://github.com/CodeWithAj720/fuzzy-spoon | 0 | 0| 
 | 20220924T08:12:18Z | Hi | https://github.com/jinthekiller090809/fuzzy-octo-spork | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20220924T06:04:55Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 316 | 27| 
 | 20220924T05:44:07Z | Null | https://github.com/julieq03/fuzzy-adventure | 0 | 0| 
 | 20220924T04:08:00Z | Null | https://github.com/omohamnadi1975/fuzzy-couscous | 0 | 0| 
-| 20220924T01:21:05Z | Tells the time just like you want it | https://github.com/kockoklock/fuzzy_clock | 0 | 0| 
 
 
 
