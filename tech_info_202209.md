@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T00:59:57Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4892 | 678| 
 | 20220924T00:48:41Z | Null | https://github.com/BugKode/exploit | 0 | 0| 
 | 20220924T00:17:36Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-8- | 1 | 0| 
 | 20220924T00:16:34Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8- | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220923T20:09:59Z | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | 1 | 0| 
 | 20220923T20:09:37Z | DrayTek Vigor Exploit | https://github.com/expl0despl0it/CVE-2022-32548 | 1 | 0| 
 | 20220923T20:07:02Z | ASUS router exploit | https://github.com/expl0despl0it/CVE-2021-44158 | 1 | 0| 
-| 20220923T20:04:20Z | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/expl0despl0it/CVE-2022-20841 | 1 | 0| 
 
 
 # backdoor on Github 推荐
