@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220924T00:15:46Z | EVM Object Format Fuzzer | https://github.com/marioevz/eoffuzzer | 0 | 0| 
+| 20220924T00:20:30Z | EVM Object Format Fuzzer | https://github.com/marioevz/eoffuzzer | 0 | 0| 
 | 20220923T23:28:06Z | Fuzzy Search Demo using mongoose-fuzzy-search | https://github.com/ziphrax/fuzzy-search-demo | 0 | 0| 
 | 20220923T22:52:39Z | a fuzzer | https://github.com/kcpetersen111/fuzzer | 0 | 0| 
 | 20220923T19:47:45Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 56 | 5| 
