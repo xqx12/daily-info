@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220924T00:04:32Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
-| 20220923T22:38:15Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220924T11:39:16Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220924T11:20:05Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
+| 20220924T10:07:29Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
+| 20220924T09:28:05Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
 | 20220923T20:09:59Z | CVE-2022-25845 | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | | 
 | 20220923T20:09:37Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/expl0despl0it/CVE-2022-32548 | | 
 | 20220923T20:07:02Z | CVE-2021-44158 | ASUS router exploit | https://github.com/expl0despl0it/CVE-2021-44158 | | 
 | 20220923T20:04:20Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/expl0despl0it/CVE-2022-20841 | | 
-| 20220923T14:29:31Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
 | 20220923T14:13:26Z | CVE-2022-31798 | CVE-2022-31798 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31798 | | 
 | 20220923T14:11:30Z | CVE-2022-31499 | CVE-2022-31499 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31499 | | 
-| 20220923T14:04:20Z | CVE-2022-31269 | CVE-2022-31269 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31269 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220923T14:39:29Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 81 | 1| 
+| 20220924T11:16:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2070 | 585| 
+| 20220924T10:04:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 82 | 1| 
 | 20220923T06:41:04Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 52 | 12| 
-| 20220922T12:05:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2069 | 585| 
 | 20220922T08:37:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 26 | 1| 
 | 20220920T14:06:05Z | My personal repository | https://github.com/KatKlee/KatKlee | 0 | 0| 
 | 20220920T04:24:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 9 | 0| 
@@ -88,21 +88,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220924T00:59:57Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4892 | 678| 
-| 20220924T00:48:41Z | Null | https://github.com/BugKode/exploit | 0 | 0| 
-| 20220924T00:17:36Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-8- | 1 | 0| 
-| 20220924T00:16:34Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8- | 1 | 0| 
-| 20220924T00:15:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-8- | 1 | 0| 
-| 20220923T21:30:17Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 82 | 6| 
-| 20220923T20:50:24Z | OSCP Project: Powershell script to obtain information from a compromised system in a post-exploitation phase.  | https://github.com/Scan0r/Powershell-PEInfoCollector | 0 | 0| 
-| 20220923T20:09:59Z | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | 1 | 0| 
-| 20220923T20:09:37Z | DrayTek Vigor Exploit | https://github.com/expl0despl0it/CVE-2022-32548 | 1 | 0| 
-| 20220923T20:07:02Z | ASUS router exploit | https://github.com/expl0despl0it/CVE-2021-44158 | 1 | 0| 
+| 20220924T11:34:15Z |  Auto Exploiter By CYBER KING SQUAD   | https://github.com/CYBERKINGSQUAD/Exploiter | 2 | 0| 
+| 20220924T11:20:05Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 4 | 0| 
+| 20220924T11:19:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12069 | 2069| 
+| 20220924T11:18:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1639 | 24| 
+| 20220924T11:16:08Z | windows-kernel-exploits | https://github.com/bishuming/windows-kernel-exploits | 0 | 0| 
+| 20220924T10:05:35Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 15 | 6| 
+| 20220924T09:50:50Z | Clean scripts folder Version 0.1 last  9/24/2022 | https://github.com/TimmehKoala/Novi-Exploit-Libary | 0 | 0| 
+| 20220924T09:39:01Z | The code for : Revisiting the exploration-exploitation behavior of scholars% research topic selection: Evidence from a large-scale bibliographic database | https://github.com/WanaLearning/Revisiting-the-exploration-exploitation-behavior-of-scholars-research-topic-selection-Evidence-fro | 0 | 0| 
+| 20220924T08:47:42Z | Automate CTF A/D exploits! | https://github.com/semjon00/semjond | 0 | 0| 
+| 20220924T07:11:44Z | C2 exploitation framework | https://github.com/ghostking2802/Katana | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T11:17:56Z | A backdoor connection to connect with any computer. | https://github.com/aimanafzal/Backdoor-connection | 0 | 0| 
+| 20220924T08:00:48Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
+| 20220924T07:07:24Z | Null | https://github.com/Varun2205/udetectable_backdoor-with-C | 0 | 0| 
 | 20220923T21:30:17Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 82 | 6| 
 | 20220923T20:51:38Z | Null | https://github.com/HayabusaUchiwa777/BACKDOOR | 0 | 0| 
 | 20220923T14:53:58Z | hệ điều hành backdoor | https://github.com/KhoiCoder/BackDoor | 0 | 0| 
@@ -110,9 +113,6 @@
 | 20220923T07:14:36Z | Backdoor | https://github.com/abnormaldoescode/A-S-T-R-O | 0 | 0| 
 | 20220923T02:34:56Z | NjRat 0.7d Horror Edition  | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
 | 20220923T02:06:24Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 570 | 201| 
-| 20220923T00:48:23Z | scanners and the backdoors for ethical hacking training | https://github.com/Major2000/hacking_programs | 1 | 0| 
-| 20220922T19:07:42Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 11 | 7| 
-| 20220922T18:37:27Z | Null | https://github.com/Hblgrim/RAM-BACKDOOR | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T11:09:24Z | Null | https://github.com/kodjofr/fuzzy-python | 0 | 0| 
+| 20220924T10:04:37Z | Null | https://github.com/CodeWithAj720/fuzzy-spoon | 0 | 0| 
+| 20220924T08:12:18Z | Hi | https://github.com/jinthekiller090809/fuzzy-octo-spork | 0 | 0| 
+| 20220924T07:55:19Z | testing out codespaces | https://github.com/whocodes/fuzzy-adventure | 0 | 0| 
+| 20220924T07:43:16Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 59 | 5| 
+| 20220924T06:57:19Z | Null | https://github.com/loveisglitchy/fuzzy-barnacle | 0 | 0| 
+| 20220924T06:04:55Z | Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. | https://github.com/ex0dus-0x/fuzzable | 316 | 27| 
+| 20220924T05:44:07Z | Null | https://github.com/julieq03/fuzzy-adventure | 0 | 0| 
+| 20220924T04:08:00Z | Null | https://github.com/omohamnadi1975/fuzzy-couscous | 0 | 0| 
 | 20220924T01:21:05Z | Tells the time just like you want it | https://github.com/kockoklock/fuzzy_clock | 0 | 0| 
-| 20220924T01:12:19Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/catsuc/fuzzy-spoon | 3 | 0| 
-| 20220924T00:20:30Z | EVM Object Format Fuzzer | https://github.com/marioevz/eoffuzzer | 0 | 0| 
-| 20220923T23:28:06Z | Fuzzy Search Demo using mongoose-fuzzy-search | https://github.com/ziphrax/fuzzy-search-demo | 0 | 0| 
-| 20220923T22:52:39Z | a fuzzer | https://github.com/kcpetersen111/fuzzer | 0 | 0| 
-| 20220923T19:47:45Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 56 | 5| 
-| 20220923T19:08:13Z | Tennis data viz project | https://github.com/khanhngg/fuzzy-yellow-balls | 0 | 0| 
-| 20220923T17:03:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2602 | 176| 
-| 20220923T12:30:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1654 | 207| 
-| 20220923T11:31:51Z | coursework (assignments &hand written notes) | https://github.com/Princy1184/ELEC6604-Neural-networks-fuzzy-systems-and-genetic-algorithms | 0 | 0| 
 
 
 
