@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T21:30:17Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 82 | 6| 
+| 20220923T20:50:24Z | OSCP Project: Powershell script to obtain information from a compromised system in a post-exploitation phase.  | https://github.com/Scan0r/Powershell-PEInfoCollector | 0 | 0| 
+| 20220923T20:09:59Z | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | 1 | 0| 
+| 20220923T20:09:37Z | DrayTek Vigor Exploit | https://github.com/expl0despl0it/CVE-2022-32548 | 1 | 0| 
+| 20220923T20:07:02Z | ASUS router exploit | https://github.com/expl0despl0it/CVE-2021-44158 | 1 | 0| 
+| 20220923T20:04:20Z | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/expl0despl0it/CVE-2022-20841 | 1 | 0| 
+| 20220923T18:55:34Z | UI librarys for Roblox exploiting. | https://github.com/SynXenn/UiLibrary | 0 | 0| 
+| 20220923T15:11:24Z | Wii Letterbomb Exploit in a C# WinForm | https://github.com/nckstwrt/WiiLetterBomb | 0 | 0| 
 | 20220923T12:38:13Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g- | 1 | 0| 
 | 20220923T12:37:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g- | 1 | 0| 
-| 20220923T12:35:52Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-g- | 1 | 0| 
-| 20220923T12:28:16Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12063 | 2069| 
-| 20220923T12:24:56Z | Null | https://github.com/sujayadkesar/cofeecat_lets_exploit | 0 | 0| 
-| 20220923T12:19:45Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 16 | 3| 
-| 20220923T11:37:43Z | Null | https://github.com/post-cyberlabs/Exploits | 2 | 1| 
-| 20220923T11:33:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3641 | 448| 
-| 20220923T11:16:43Z | Sincan2 Mass Exploit | https://github.com/Sincan2/exploit | 0 | 0| 
-| 20220923T11:08:44Z | PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/Chocapikk/CVE-2022-36804-ReverseShell | 0 | 0| 
 
 
 # backdoor on Github 推荐
