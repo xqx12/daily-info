@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220924T00:14:01Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-8- | 0 | 0| 
+| 20220924T00:16:34Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8- | 1 | 0| 
+| 20220924T00:15:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-8- | 1 | 0| 
 | 20220923T21:30:17Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 82 | 6| 
 | 20220923T20:50:24Z | OSCP Project: Powershell script to obtain information from a compromised system in a post-exploitation phase.  | https://github.com/Scan0r/Powershell-PEInfoCollector | 0 | 0| 
 | 20220923T20:09:59Z | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220923T20:04:20Z | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/expl0despl0it/CVE-2022-20841 | 1 | 0| 
 | 20220923T18:55:34Z | UI librarys for Roblox exploiting. | https://github.com/SynXenn/UiLibrary | 0 | 0| 
 | 20220923T15:11:24Z | Wii Letterbomb Exploit in a C# WinForm | https://github.com/nckstwrt/WiiLetterBomb | 0 | 0| 
-| 20220923T12:38:13Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g- | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T00:15:46Z | EVM Object Format Fuzzer | https://github.com/marioevz/eoffuzzer | 0 | 0| 
 | 20220923T23:28:06Z | Fuzzy Search Demo using mongoose-fuzzy-search | https://github.com/ziphrax/fuzzy-search-demo | 0 | 0| 
 | 20220923T22:52:39Z | a fuzzer | https://github.com/kcpetersen111/fuzzer | 0 | 0| 
 | 20220923T19:47:45Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 56 | 5| 
@@ -153,7 +154,6 @@
 | 20220923T11:31:51Z | coursework (assignments &hand written notes) | https://github.com/Princy1184/ELEC6604-Neural-networks-fuzzy-systems-and-genetic-algorithms | 0 | 0| 
 | 20220923T11:23:01Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
 | 20220923T10:44:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7863 | 1695| 
-| 20220923T09:32:54Z | Null | https://github.com/sanju01sahu/fuzzy-octo-waddle | 0 | 0| 
 
 
 
