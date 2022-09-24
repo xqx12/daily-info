@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220924T12:45:27Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220924T12:33:53Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220924T12:11:27Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
-| 20220924T11:20:05Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220924T09:28:05Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
 | 20220923T20:09:59Z | CVE-2022-25845 | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | | 
 | 20220923T20:09:37Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/expl0despl0it/CVE-2022-32548 | | 
@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T12:45:27Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 5 | 0| 
 | 20220924T12:11:32Z | Null | https://github.com/iExploitYou/iExploitYou | 0 | 0| 
 | 20220924T11:34:15Z |  Auto Exploiter By CYBER KING SQUAD   | https://github.com/CYBERKINGSQUAD/Exploiter | 2 | 0| 
-| 20220924T11:20:05Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 4 | 0| 
 | 20220924T11:19:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12069 | 2069| 
 | 20220924T11:18:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1639 | 24| 
 | 20220924T11:16:08Z | windows-kernel-exploits | https://github.com/bishuming/windows-kernel-exploits | 0 | 0| 
