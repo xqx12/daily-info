@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T01:12:19Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/catsuc/fuzzy-spoon | 3 | 0| 
 | 20220924T00:20:30Z | EVM Object Format Fuzzer | https://github.com/marioevz/eoffuzzer | 0 | 0| 
 | 20220923T23:28:06Z | Fuzzy Search Demo using mongoose-fuzzy-search | https://github.com/ziphrax/fuzzy-search-demo | 0 | 0| 
 | 20220923T22:52:39Z | a fuzzer | https://github.com/kcpetersen111/fuzzer | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20220923T12:30:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1654 | 207| 
 | 20220923T11:31:51Z | coursework (assignments &hand written notes) | https://github.com/Princy1184/ELEC6604-Neural-networks-fuzzy-systems-and-genetic-algorithms | 0 | 0| 
 | 20220923T11:23:01Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
-| 20220923T10:44:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7863 | 1696| 
 
 
 
