@@ -77,6 +77,7 @@
 | 20220923T09:31:42Z | A Backdoor made in python3 | https://github.com/xuantien177/backdoor_cmd_controller | 0 | 0| 
 | 20220923T07:14:36Z | Backdoor | https://github.com/abnormaldoescode/A-S-T-R-O | 0 | 0| 
 | 20220923T02:34:56Z | NjRat 0.7d Horror Edition  | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
+| 20220923T02:06:24Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 570 | 201| 
 | 20220923T00:48:23Z | scanners and the backdoors for ethical hacking training | https://github.com/Major2000/hacking_programs | 1 | 0| 
 
 
