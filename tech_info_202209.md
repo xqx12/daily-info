@@ -153,7 +153,7 @@
 | 20220923T12:30:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1654 | 207| 
 | 20220923T11:31:51Z | coursework (assignments &hand written notes) | https://github.com/Princy1184/ELEC6604-Neural-networks-fuzzy-systems-and-genetic-algorithms | 0 | 0| 
 | 20220923T11:23:01Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
-| 20220923T10:44:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7863 | 1695| 
+| 20220923T10:44:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7863 | 1696| 
 
 
 
