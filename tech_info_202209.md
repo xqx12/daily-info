@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220924T12:11:27Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220924T11:39:16Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220924T11:20:05Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
-| 20220924T10:07:29Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220924T09:28:05Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
 | 20220923T20:09:59Z | CVE-2022-25845 | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | | 
 | 20220923T20:09:37Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/expl0despl0it/CVE-2022-32548 | | 
