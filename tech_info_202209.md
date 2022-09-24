@@ -32,40 +32,40 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220923 | 揭露大佬挖主应用的一般性流程 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486332&idx=1&sn=238328c005b23ec39e375bb0f4f57652&chksm=e8a6011fdfd1880929ce3b1c3207ae1caf8827f845881fa110daab3a10f6177df3483ca77eea&token=798508684&lang=zh_CN#rd| 
+| 20220923 | 基于统一结构生成的网安信息抽取研究 | https://mp.weixin.qq.com/s/SRLy7GTNIoIQzfl_S9hVdQ| 
+| 20220923 | 浅谈甲方单位的漏洞管理 | https://mp.weixin.qq.com/s/V7L9XWkE5cMxpP7VC4tATw| 
+| 20220923 | 加密流量安全背后的那些小秘闻 | https://mp.weixin.qq.com/s/1J1HNdA2wZF93-K-e7Pg8Q| 
 | 20220922 | 威胁情报分析工具集的docker 镜像 | https://github.com/cyware-labs/Threat-Response-Docker| 
 | 20220922 | phar反序列化学习 | https://www.sec-in.com/article/1867| 
 | 20220922 | rengine: 自动化信息收集的平台 | https://github.com/yogeshojha/rengine| 
 | 20220921 | 终端入侵检测及防御规避之旅 | https://mp.weixin.qq.com/s/hJlSZ4iZ5kSJNTGngD9zMg| 
 | 20220921 | 我的三年红队生涯总结 | https://payloads.online/archivers/2022-09-19/1/| 
 | 20220921 | Cloud Native PostgreSQL攻击面分析 | https://mp.weixin.qq.com/s/uYJqM8pXJJF85LTW08r48Q| 
-| 20220921 | 2022羊城杯竞赛 Web题目解析 | https://mp.weixin.qq.com/s/-VMqjIR3-9-hDlHxsHVtFQ| 
-| 20220919 | BlackHat USA 2022 议题慢递 | https://mp.weixin.qq.com/s/Wniun8h7km1lJUQpNV409Q| 
-| 20220919 | JavaScript审计 | https://mp.weixin.qq.com/s/KBtfprcLMut1I9ZuxV6j3Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220923T12:53:24Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
-| 20220923T12:28:04Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-FULL-RCE | | 
-| 20220923T11:37:31Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20220923T11:08:44Z | CVE-2022-36804 | PoC exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/Chocapikk/CVE-2022-36804-ReverseShell | | 
-| 20220923T08:47:50Z | CVE-2022-36804 | Mass rce exploit for CVE-2022-36804 BITBUCKET SERVER UNAUTHENTICATED RCE | https://github.com/CEOrbey/CVE-2022-36804-MASS-RCE | | 
-| 20220923T08:20:07Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
-| 20220923T01:06:55Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
-| 20220922T19:50:26Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
-| 20220922T19:43:58Z | CVE-2022-36804 | Bitbucket CVE-2022-36804 unauthenticated remote command execution | https://github.com/kljunowsky/CVE-2022-36804-POC | | 
-| 20220922T17:52:41Z | CVE-2022-29464 | WSO2 Arbitrary File Upload to Remote Command Execution (RCE) | https://github.com/hupe1980/CVE-2022-29464 | | 
+| 20220923T22:38:15Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220923T20:09:59Z | CVE-2022-25845 | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | | 
+| 20220923T20:09:37Z | CVE-2022-32548 | DrayTek Vigor Exploit | https://github.com/expl0despl0it/CVE-2022-32548 | | 
+| 20220923T20:07:02Z | CVE-2021-44158 | ASUS router exploit | https://github.com/expl0despl0it/CVE-2021-44158 | | 
+| 20220923T20:04:20Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/expl0despl0it/CVE-2022-20841 | | 
+| 20220923T19:19:27Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
+| 20220923T14:29:31Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
+| 20220923T14:13:26Z | CVE-2022-31798 | CVE-2022-31798 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31798 | | 
+| 20220923T14:11:30Z | CVE-2022-31499 | CVE-2022-31499 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31499 | | 
+| 20220923T14:04:20Z | CVE-2022-31269 | CVE-2022-31269 Proof of Concept | https://github.com/omarhashem123/CVE-2022-31269 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T14:39:29Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 81 | 1| 
 | 20220923T06:41:04Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 52 | 12| 
 | 20220922T12:05:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2069 | 585| 
 | 20220922T08:37:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 26 | 1| 
 | 20220920T14:06:05Z | My personal repository | https://github.com/KatKlee/KatKlee | 0 | 0| 
-| 20220920T08:33:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 80 | 1| 
 | 20220920T04:24:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 9 | 0| 
 | 20220920T02:09:53Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 8 | 0| 
 | 20220919T17:28:35Z | lab-01-pandas-kleeio created by GitHub Classroom | https://github.com/cs663-spring2021/lab-01-pandas-kleeio | 0 | 0| 
@@ -103,6 +103,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T21:30:17Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 82 | 6| 
+| 20220923T20:51:38Z | Null | https://github.com/HayabusaUchiwa777/BACKDOOR | 0 | 0| 
+| 20220923T14:53:58Z | hệ điều hành backdoor | https://github.com/KhoiCoder/BackDoor | 0 | 0| 
 | 20220923T09:31:42Z | A Backdoor made in python3 | https://github.com/xuantien177/backdoor_cmd_controller | 0 | 0| 
 | 20220923T07:14:36Z | Backdoor | https://github.com/abnormaldoescode/A-S-T-R-O | 0 | 0| 
 | 20220923T02:34:56Z | NjRat 0.7d Horror Edition  | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 1 | 0| 
@@ -110,16 +113,13 @@
 | 20220922T19:07:42Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 11 | 7| 
 | 20220922T18:37:27Z | Null | https://github.com/Hblgrim/RAM-BACKDOOR | 0 | 0| 
 | 20220922T17:27:26Z | Null | https://github.com/panpansuannai/ssh-backdoor-detect | 0 | 0| 
-| 20220922T15:33:19Z | This is an example of a self connecting backdoor which provides a shell for the attacker | https://github.com/Miguel-Frazao/simple-self-connecting-reverse-shell | 1 | 0| 
-| 20220922T12:29:29Z | Highly reliable botnet created in 100% python for Educational Purposes Only | https://github.com/CookiesServices/ISO | 1 | 1| 
-| 20220922T11:06:30Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network).  | https://github.com/yasserbdj96/hiphp | 20 | 8| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220923T12:40:13Z | Null | https://github.com/MatthewEthanTam/ExploringSymbolicExecutionTools | 0 | 0| 
-| 20220923T06:09:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3117 | 436| 
+| 20220923T23:07:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3120 | 436| 
+| 20220923T14:16:16Z | Null | https://github.com/MatthewEthanTam/ExploringSymbolicExecutionTools | 0 | 0| 
 | 20220922T14:40:37Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 485 | 27| 
 | 20220922T12:05:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2069 | 585| 
 | 20220922T07:16:50Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 215 | 29| 
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220923T23:28:06Z | Fuzzy Search Demo using mongoose-fuzzy-search | https://github.com/ziphrax/fuzzy-search-demo | 0 | 0| 
+| 20220923T22:52:39Z | a fuzzer | https://github.com/kcpetersen111/fuzzer | 0 | 0| 
+| 20220923T19:47:45Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 56 | 5| 
+| 20220923T19:08:13Z | Tennis data viz project | https://github.com/khanhngg/fuzzy-yellow-balls | 0 | 0| 
+| 20220923T17:03:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2602 | 176| 
 | 20220923T12:30:06Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1654 | 207| 
-| 20220923T12:12:46Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 51 | 5| 
 | 20220923T11:31:51Z | coursework (assignments &hand written notes) | https://github.com/Princy1184/ELEC6604-Neural-networks-fuzzy-systems-and-genetic-algorithms | 0 | 0| 
 | 20220923T11:23:01Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
 | 20220923T10:44:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7863 | 1695| 
 | 20220923T09:32:54Z | Null | https://github.com/sanju01sahu/fuzzy-octo-waddle | 0 | 0| 
-| 20220923T08:32:01Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1503 | 66| 
-| 20220923T01:32:57Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 2906 | 346| 
-| 20220923T01:32:40Z | Null | https://github.com/khanhngg/fuzzy-yellow-balls | 0 | 0| 
-| 20220923T01:19:31Z | Null | https://github.com/mjsabin01/fuzzy-happiness | 0 | 0| 
 
 
 
