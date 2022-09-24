@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220924T01:17:50Z | Tells the time just like you want it | https://github.com/kockoklock/fuzzy_clock | 0 | 0| 
+| 20220924T01:21:05Z | Tells the time just like you want it | https://github.com/kockoklock/fuzzy_clock | 0 | 0| 
 | 20220924T01:12:19Z | Repositório referente ao front-end da aplicação Cápsula do Tempo. | https://github.com/catsuc/fuzzy-spoon | 3 | 0| 
 | 20220924T00:20:30Z | EVM Object Format Fuzzer | https://github.com/marioevz/eoffuzzer | 0 | 0| 
 | 20220923T23:28:06Z | Fuzzy Search Demo using mongoose-fuzzy-search | https://github.com/ziphrax/fuzzy-search-demo | 0 | 0| 
