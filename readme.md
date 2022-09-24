@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T12:11:32Z | Null | https://github.com/iExploitYou/iExploitYou | 0 | 0| 
 | 20220924T11:34:15Z |  Auto Exploiter By CYBER KING SQUAD   | https://github.com/CYBERKINGSQUAD/Exploiter | 2 | 0| 
 | 20220924T11:20:05Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 4 | 0| 
 | 20220924T11:19:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12069 | 2069| 
@@ -46,7 +47,6 @@
 | 20220924T09:50:50Z | Clean scripts folder Version 0.1 last  9/24/2022 | https://github.com/TimmehKoala/Novi-Exploit-Libary | 0 | 0| 
 | 20220924T09:39:01Z | The code for : Revisiting the exploration-exploitation behavior of scholars% research topic selection: Evidence from a large-scale bibliographic database | https://github.com/WanaLearning/Revisiting-the-exploration-exploitation-behavior-of-scholars-research-topic-selection-Evidence-fro | 0 | 0| 
 | 20220924T08:47:42Z | Automate CTF A/D exploits! | https://github.com/semjon00/semjond | 0 | 0| 
-| 20220924T07:11:44Z | C2 exploitation framework | https://github.com/ghostking2802/Katana | 0 | 0| 
 
 
 # backdoor on Github 推荐
