@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T00:14:01Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-8- | 0 | 0| 
 | 20220923T21:30:17Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 82 | 6| 
 | 20220923T20:50:24Z | OSCP Project: Powershell script to obtain information from a compromised system in a post-exploitation phase.  | https://github.com/Scan0r/Powershell-PEInfoCollector | 0 | 0| 
 | 20220923T20:09:59Z | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220923T18:55:34Z | UI librarys for Roblox exploiting. | https://github.com/SynXenn/UiLibrary | 0 | 0| 
 | 20220923T15:11:24Z | Wii Letterbomb Exploit in a C# WinForm | https://github.com/nckstwrt/WiiLetterBomb | 0 | 0| 
 | 20220923T12:38:13Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g- | 1 | 0| 
-| 20220923T12:37:08Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-g- | 1 | 0| 
 
 
 # backdoor on Github 推荐
