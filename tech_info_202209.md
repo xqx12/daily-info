@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220924T12:55:14Z | Null | https://github.com/Evahhhh/S2-Tps-Exploitation_bdd | 0 | 0| 
 | 20220924T12:54:23Z | Null | https://github.com/Evahhhh/R206Exploitation_d_une_base_de_donnees | 0 | 0| 
 | 20220924T12:45:27Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 5 | 0| 
 | 20220924T12:11:32Z | Null | https://github.com/iExploitYou/iExploitYou | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220924T11:16:08Z | windows-kernel-exploits | https://github.com/bishuming/windows-kernel-exploits | 0 | 0| 
 | 20220924T10:05:35Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 15 | 6| 
 | 20220924T09:50:50Z | Clean scripts folder Version 0.1 last  9/24/2022 | https://github.com/TimmehKoala/Novi-Exploit-Libary | 0 | 0| 
-| 20220924T09:39:01Z | The code for : Revisiting the exploration-exploitation behavior of scholars% research topic selection: Evidence from a large-scale bibliographic database | https://github.com/WanaLearning/Revisiting-the-exploration-exploitation-behavior-of-scholars-research-topic-selection-Evidence-fro | 0 | 0| 
 
 
 # backdoor on Github 推荐
