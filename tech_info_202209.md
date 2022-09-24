@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220924T00:36:46Z | Null | https://github.com/BugKode/exploit | 0 | 0| 
+| 20220924T00:48:41Z | Null | https://github.com/BugKode/exploit | 0 | 0| 
 | 20220924T00:17:36Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-8- | 1 | 0| 
 | 20220924T00:16:34Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8- | 1 | 0| 
 | 20220924T00:15:41Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-8- | 1 | 0| 
