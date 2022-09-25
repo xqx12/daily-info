@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220925 | git-vuln-finder: Finding potential software vulnerabilitie... | https://github.com/cve-search/git-vuln-finder| 
 | 20220923 | 揭露大佬挖主应用的一般性流程 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486332&idx=1&sn=238328c005b23ec39e375bb0f4f57652&chksm=e8a6011fdfd1880929ce3b1c3207ae1caf8827f845881fa110daab3a10f6177df3483ca77eea&token=798508684&lang=zh_CN#rd| 
 | 20220923 | 基于统一结构生成的网安信息抽取研究 | https://mp.weixin.qq.com/s/SRLy7GTNIoIQzfl_S9hVdQ| 
 | 20220923 | 浅谈甲方单位的漏洞管理 | https://mp.weixin.qq.com/s/V7L9XWkE5cMxpP7VC4tATw| 
@@ -40,29 +41,28 @@
 | 20220922 | rengine: 自动化信息收集的平台 | https://github.com/yogeshojha/rengine| 
 | 20220921 | 终端入侵检测及防御规避之旅 | https://mp.weixin.qq.com/s/hJlSZ4iZ5kSJNTGngD9zMg| 
 | 20220921 | 我的三年红队生涯总结 | https://payloads.online/archivers/2022-09-19/1/| 
-| 20220921 | Cloud Native PostgreSQL攻击面分析 | https://mp.weixin.qq.com/s/uYJqM8pXJJF85LTW08r48Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220925T01:04:55Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
+| 20220925T10:26:32Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
+| 20220925T09:51:17Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
+| 20220925T09:29:35Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220925T08:19:22Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
+| 20220925T07:47:08Z | CVE-2022-2274 | A POC OF CVE-2022-2274 (openssl) | https://github.com/Malwareman007/CVE-2022-2274 | | 
+| 20220925T04:50:34Z | CVE-2021-4034 | Vulnerability to CVE-2021-4034 Pwnkit | https://github.com/flux10n/CVE-2021-4034 | | 
 | 20220925T00:31:30Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
-| 20220924T23:51:18Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20220924T23:32:42Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
-| 20220924T21:32:51Z | CVE-2022-2274 | A POC OF CVE-2022-2274 (openssl) | https://github.com/Malwareman007/CVE-2022-2274 | | 
 | 20220924T19:22:19Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809] | https://github.com/scoobyd00bi/CVE-2022-26809-RCE | | 
 | 20220924T18:22:56Z | CVE-2022-34729 | PoC for CVE-2022-34729 | https://github.com/Pwnrin/CVE-2022-34729 | | 
 | 20220924T14:36:47Z | CVE-2022-39197 | Null | https://github.com/purple-WL/Cobaltstrike-RCE-CVE-2022-39197 | | 
-| 20220924T12:11:27Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
-| 20220924T09:28:05Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T05:18:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2071 | 585| 
 | 20220924T13:37:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 83 | 1| 
-| 20220924T11:16:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2070 | 585| 
 | 20220923T06:41:04Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 52 | 12| 
 | 20220922T08:37:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 26 | 1| 
 | 20220920T14:06:05Z | My personal repository | https://github.com/KatKlee/KatKlee | 0 | 0| 
@@ -88,21 +88,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T11:58:16Z | Be notified whenever CISA updates their Known Exploited Vulnerabilities Catalog | https://github.com/hrbrmstr/kev-push | 1 | 0| 
+| 20220925T09:24:55Z | Null | https://github.com/ErrisanV/exploit | 0 | 0| 
+| 20220925T09:03:28Z | Program for the robot - %Biomimetic Soft Robot Exploiting Wheel-legs and Multimodal Locomotion for High Terrestrial Maneuverability% | https://github.com/hmy-repo/BioWheelSoftRobot | 0 | 0| 
+| 20220925T08:06:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 527 | 141| 
+| 20220925T06:46:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3642 | 447| 
+| 20220925T05:52:22Z | Lightweight & Keyless lua level 8 executor | https://github.com/EclipsesDev/EclipseWare | 6 | 0| 
+| 20220925T05:06:15Z | Null | https://github.com/Wondsploit/Exploiting | 0 | 0| 
+| 20220925T04:54:03Z | A simple exploiting hub made for new exploiters!  | https://github.com/tabanopro/TabEasyHub | 0 | 0| 
 | 20220925T01:34:43Z | Random scrapped project (EXPLOITING). Silent assassin gui  | https://github.com/iAmEpsonPrinter/SilentAssassinGUI | 0 | 0| 
 | 20220925T00:52:54Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c- | 1 | 0| 
-| 20220925T00:52:05Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-c- | 1 | 0| 
-| 20220925T00:51:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-c- | 1 | 0| 
-| 20220924T23:34:46Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1669 | 342| 
-| 20220924T23:12:58Z | Null | https://github.com/cooleoooo66/EXPLOIT | 0 | 0| 
-| 20220924T17:06:56Z | PowerShell scripts for reconnaissance, post-exploitation & hunting | https://github.com/tmenochet/PowerScan | 4 | 2| 
-| 20220924T12:55:14Z | Null | https://github.com/Evahhhh/S2-Tps-Exploitation_bdd | 0 | 0| 
-| 20220924T12:54:23Z | Null | https://github.com/Evahhhh/R206Exploitation_d_une_base_de_donnees | 0 | 0| 
-| 20220924T12:45:27Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 5 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T10:06:17Z | Extensive backdoor made for windows using Powershell | https://github.com/23Harshvardhan/Neko-An0maly | 0 | 0| 
 | 20220925T00:41:39Z | Null | https://github.com/asxnge/shell-backdoor | 0 | 0| 
 | 20220924T20:13:22Z | NjRat 0.7d Horror Edition + | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 2 | 0| 
 | 20220924T19:25:00Z | Null | https://github.com/marciomjta/backdoor | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20220924T08:00:48Z | Null | https://github.com/huaweipadu/backdoor | 0 | 0| 
 | 20220924T07:07:24Z | Null | https://github.com/Varun2205/udetectable_backdoor-with-C | 0 | 0| 
 | 20220923T21:30:17Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 82 | 6| 
-| 20220923T20:51:38Z | Null | https://github.com/HayabusaUchiwa777/BACKDOOR | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T11:14:41Z | Null | https://github.com/hrittikhere/go-fuzz-testing | 0 | 0| 
+| 20220925T10:47:32Z | MATLAB Simulink experiment of Permanent Magnet Synchronous Motor (PMSM) with Fuzzy Logic PID Controller.  | https://github.com/IrfanArif18/MATLAB-Simulink-PMSM-FuzzyPIDController-Experiment | 0 | 0| 
+| 20220925T10:22:34Z | APIFuzzing - a lua plugin for fuzzing and checking the Cuberite API | https://github.com/cuberite/APIFuzzing | 1 | 3| 
+| 20220925T10:19:42Z | Null | https://github.com/GuitarStep/fuzzy-octo-pancake | 0 | 0| 
+| 20220925T09:23:16Z | Controlling a Ball Plate System using Neuro-Fuzzy Logic | https://github.com/shreshth-29/Ball-Plate-Control-Using-Neuro-Fuzzy-Networks | 0 | 0| 
+| 20220925T09:02:44Z | Quickly fuzz any request in scope while browsing and  review anomalies | https://github.com/DrRek/Burp-Auto-Fuzz | 0 | 0| 
+| 20220925T08:10:02Z | Null | https://github.com/Sonichigo/fuzzy-enigma | 0 | 0| 
+| 20220925T08:08:33Z | Null | https://github.com/aitchjoe/leetcode-fuzzing | 0 | 0| 
+| 20220925T07:16:58Z | Final Project Example | https://github.com/ayannhuseynova/fuzzy-broccoli | 0 | 0| 
 | 20220925T00:36:55Z | Created with CodeSandbox | https://github.com/ibnharoon/test-fuzzy-filter | 0 | 0| 
-| 20220925T00:26:16Z | Null | https://github.com/markkayzer/fuzzy-guide | 0 | 0| 
-| 20220924T21:35:36Z | Null | https://github.com/wpennoyer/fuzzy-journey | 0 | 0| 
-| 20220924T18:14:50Z | Null | https://github.com/Vetust/fuzzy-happiness | 0 | 0| 
-| 20220924T16:41:14Z | Fuzzy name matching machine learning application | https://github.com/mkars01/fuzzy-name-matcher | 0 | 0| 
-| 20220924T15:41:05Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 724 | 42| 
-| 20220924T12:44:29Z | Null | https://github.com/Masyaka94/fuzzy-rotary-phone | 0 | 0| 
-| 20220924T11:09:24Z | Null | https://github.com/kodjofr/fuzzy-python | 0 | 0| 
-| 20220924T10:04:37Z | Null | https://github.com/CodeWithAj720/fuzzy-spoon | 0 | 0| 
-| 20220924T08:12:18Z | Hi | https://github.com/jinthekiller090809/fuzzy-octo-spork | 0 | 0| 
 
 
 
