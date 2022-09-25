@@ -48,8 +48,8 @@
 | 20220925T05:52:22Z | Lightweight & Keyless lua level 8 executor | https://github.com/EclipsesDev/EclipseWare | 6 | 0| 
 | 20220925T05:06:15Z | Null | https://github.com/Wondsploit/Exploiting | 0 | 0| 
 | 20220925T04:54:03Z | A simple exploiting hub made for new exploiters!  | https://github.com/tabanopro/TabEasyHub | 0 | 0| 
+| 20220925T01:45:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12071 | 2070| 
 | 20220925T01:34:43Z | Random scrapped project (EXPLOITING). Silent assassin gui  | https://github.com/iAmEpsonPrinter/SilentAssassinGUI | 0 | 0| 
-| 20220925T00:52:54Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c- | 1 | 0| 
 
 
 # backdoor on Github 推荐
