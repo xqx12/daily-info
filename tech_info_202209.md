@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T00:51:35Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-c- | 0 | 0| 
+| 20220925T00:51:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-c- | 1 | 0| 
 | 20220924T23:34:46Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1669 | 342| 
 | 20220924T23:12:58Z | Null | https://github.com/cooleoooo66/EXPLOIT | 0 | 0| 
 | 20220924T17:06:56Z | PowerShell scripts for reconnaissance, post-exploitation & hunting | https://github.com/tmenochet/PowerScan | 4 | 2| 
@@ -96,8 +98,6 @@
 | 20220924T12:45:27Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 5 | 0| 
 | 20220924T12:11:32Z | Null | https://github.com/iExploitYou/iExploitYou | 0 | 0| 
 | 20220924T11:34:15Z |  Auto Exploiter By CYBER KING SQUAD   | https://github.com/CYBERKINGSQUAD/Exploiter | 2 | 0| 
-| 20220924T11:19:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12069 | 2069| 
-| 20220924T11:18:03Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1639 | 24| 
 
 
 # backdoor on Github 推荐
