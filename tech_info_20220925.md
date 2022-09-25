@@ -40,11 +40,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T12:26:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3643 | 447| 
 | 20220925T12:03:24Z | Be notified whenever CISA updates their Known Exploited Vulnerabilities Catalog | https://github.com/hrbrmstr/kev-push | 1 | 0| 
 | 20220925T09:24:55Z | Null | https://github.com/ErrisanV/exploit | 0 | 0| 
 | 20220925T09:03:28Z | Program for the robot - %Biomimetic Soft Robot Exploiting Wheel-legs and Multimodal Locomotion for High Terrestrial Maneuverability% | https://github.com/hmy-repo/BioWheelSoftRobot | 0 | 0| 
 | 20220925T08:06:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 527 | 141| 
-| 20220925T06:46:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3642 | 447| 
 | 20220925T05:52:22Z | Lightweight & Keyless lua level 8 executor | https://github.com/EclipsesDev/EclipseWare | 6 | 0| 
 | 20220925T05:06:15Z | Null | https://github.com/Wondsploit/Exploiting | 0 | 0| 
 | 20220925T04:54:03Z | A simple exploiting hub made for new exploiters!  | https://github.com/tabanopro/TabEasyHub | 0 | 0| 
