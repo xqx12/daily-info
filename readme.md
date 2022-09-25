@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220925T10:26:32Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
+| 20220925T12:49:29Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220925T09:51:17Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
 | 20220925T09:29:35Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220925T08:19:22Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
@@ -40,9 +40,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T12:49:29Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 31 | 9| 
 | 20220925T12:26:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3643 | 447| 
 | 20220925T12:03:24Z | Be notified whenever CISA updates their Known Exploited Vulnerabilities Catalog | https://github.com/hrbrmstr/kev-push | 1 | 0| 
-| 20220925T10:26:32Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 30 | 9| 
 | 20220925T09:24:55Z | Null | https://github.com/ErrisanV/exploit | 0 | 0| 
 | 20220925T09:03:28Z | Program for the robot - %Biomimetic Soft Robot Exploiting Wheel-legs and Multimodal Locomotion for High Terrestrial Maneuverability% | https://github.com/hmy-repo/BioWheelSoftRobot | 0 | 0| 
 | 20220925T08:06:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 527 | 141| 
