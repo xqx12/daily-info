@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220925T00:51:35Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-c- | 0 | 0| 
+| 20220925T00:52:54Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c- | 1 | 0| 
+| 20220925T00:52:05Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-c- | 1 | 0| 
 | 20220925T00:51:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-c- | 1 | 0| 
 | 20220924T23:34:46Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1669 | 342| 
 | 20220924T23:12:58Z | Null | https://github.com/cooleoooo66/EXPLOIT | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220924T12:54:23Z | Null | https://github.com/Evahhhh/R206Exploitation_d_une_base_de_donnees | 0 | 0| 
 | 20220924T12:45:27Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 5 | 0| 
 | 20220924T12:11:32Z | Null | https://github.com/iExploitYou/iExploitYou | 0 | 0| 
-| 20220924T11:34:15Z |  Auto Exploiter By CYBER KING SQUAD   | https://github.com/CYBERKINGSQUAD/Exploiter | 2 | 0| 
 
 
 # backdoor on Github 推荐
