@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220925T00:31:30Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
 | 20220924T23:51:18Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220924T23:32:42Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220924T21:42:49Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
@@ -55,7 +56,6 @@
 | 20220924T14:36:47Z | CVE-2022-39197 | Null | https://github.com/purple-WL/Cobaltstrike-RCE-CVE-2022-39197 | | 
 | 20220924T12:11:27Z | cve-2022-39197 | cve-2022-39197  poc | https://github.com/burpheart/cve-2022-39197 | | 
 | 20220924T09:28:05Z | CVE-2022-39197 | CVE-2022-39197(CobaltStrike XSS <=4.7) POC | https://github.com/xzajyjs/CVE-2022-39197-POC | | 
-| 20220923T20:09:59Z | CVE-2022-25845 | Fastjson exploit | https://github.com/expl0despl0it/CVE-2022-25845 | | 
 
 
 # klee on Github 推荐
