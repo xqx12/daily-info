@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T01:34:43Z | Random scrapped project (EXPLOITING). Silent assassin gui  | https://github.com/iAmEpsonPrinter/SilentAssassinGUI | 0 | 0| 
 | 20220925T00:52:54Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c- | 1 | 0| 
 | 20220925T00:52:05Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-c- | 1 | 0| 
 | 20220925T00:51:11Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-c- | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20220924T12:55:14Z | Null | https://github.com/Evahhhh/S2-Tps-Exploitation_bdd | 0 | 0| 
 | 20220924T12:54:23Z | Null | https://github.com/Evahhhh/R206Exploitation_d_une_base_de_donnees | 0 | 0| 
 | 20220924T12:45:27Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 5 | 0| 
-| 20220924T12:11:32Z | Null | https://github.com/iExploitYou/iExploitYou | 0 | 0| 
 
 
 # backdoor on Github 推荐
