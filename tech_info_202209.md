@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T00:41:39Z | Null | https://github.com/asxnge/shell-backdoor | 0 | 0| 
 | 20220924T20:13:22Z | NjRat 0.7d Horror Edition + | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 2 | 0| 
 | 20220924T19:25:00Z | Null | https://github.com/marciomjta/backdoor | 0 | 0| 
 | 20220924T16:03:39Z | Code for One-shot Neural Backdoor Erasing via Adversarial Weight Masking (NeurIPS 2022) | https://github.com/jinghuichen/AWM | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20220924T07:07:24Z | Null | https://github.com/Varun2205/udetectable_backdoor-with-C | 0 | 0| 
 | 20220923T21:30:17Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 82 | 6| 
 | 20220923T20:51:38Z | Null | https://github.com/HayabusaUchiwa777/BACKDOOR | 0 | 0| 
-| 20220923T14:53:58Z | hệ điều hành backdoor | https://github.com/KhoiCoder/BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
