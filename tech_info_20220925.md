@@ -40,7 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220925T11:58:16Z | Be notified whenever CISA updates their Known Exploited Vulnerabilities Catalog | https://github.com/hrbrmstr/kev-push | 1 | 0| 
+| 20220925T12:03:24Z | Be notified whenever CISA updates their Known Exploited Vulnerabilities Catalog | https://github.com/hrbrmstr/kev-push | 1 | 0| 
 | 20220925T09:24:55Z | Null | https://github.com/ErrisanV/exploit | 0 | 0| 
 | 20220925T09:03:28Z | Program for the robot - %Biomimetic Soft Robot Exploiting Wheel-legs and Multimodal Locomotion for High Terrestrial Maneuverability% | https://github.com/hmy-repo/BioWheelSoftRobot | 0 | 0| 
 | 20220925T08:06:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 527 | 141| 
