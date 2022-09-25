@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220925T01:04:55Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220925T00:31:30Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
 | 20220924T23:51:18Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220924T23:32:42Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
-| 20220924T21:42:49Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220924T21:32:51Z | CVE-2022-2274 | A POC OF CVE-2022-2274 (openssl) | https://github.com/Malwareman007/CVE-2022-2274 | | 
 | 20220924T19:22:19Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809] | https://github.com/scoobyd00bi/CVE-2022-26809-RCE | | 
 | 20220924T18:22:56Z | CVE-2022-34729 | PoC for CVE-2022-34729 | https://github.com/Pwnrin/CVE-2022-34729 | | 
