@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220925T12:57:44Z | Final Project Example | https://github.com/ayannhuseynova/fuzzy-broccoli | 1 | 0| 
 | 20220925T12:12:13Z | Null | https://github.com/frankhlp/fuzzy-potato | 0 | 0| 
 | 20220925T11:14:41Z | Null | https://github.com/hrittikhere/go-fuzz-testing | 0 | 0| 
 | 20220925T10:47:32Z | MATLAB Simulink experiment of Permanent Magnet Synchronous Motor (PMSM) with Fuzzy Logic PID Controller.  | https://github.com/IrfanArif18/MATLAB-Simulink-PMSM-FuzzyPIDController-Experiment | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20220925T09:02:44Z | Quickly fuzz any request in scope while browsing and  review anomalies | https://github.com/DrRek/Burp-Auto-Fuzz | 0 | 0| 
 | 20220925T08:10:02Z | Null | https://github.com/Sonichigo/fuzzy-enigma | 0 | 0| 
 | 20220925T08:08:33Z | Null | https://github.com/aitchjoe/leetcode-fuzzing | 0 | 0| 
-| 20220925T07:16:58Z | Final Project Example | https://github.com/ayannhuseynova/fuzzy-broccoli | 0 | 0| 
 
 
 
