@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:23:26Z | Null | https://github.com/Skincha/fuzzy-palm-tree | 0 | 0| 
 | 20220926T12:15:25Z | Null | https://github.com/mboehme/FuzzingCompetition | 0 | 0| 
 | 20220926T12:13:23Z | Null | https://github.com/DarkArtz0/fuzzy-chad | 0 | 0| 
 | 20220926T11:42:56Z | Null | https://github.com/nargessalehi98/fuzzy-expert-system-for-diagnosis-of-heart-disease | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20220926T08:42:45Z | Null | https://github.com/Taglias/fuzzy-bassoon | 0 | 0| 
 | 20220926T08:11:09Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
 | 20220926T03:14:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7876 | 1698| 
-| 20220926T02:00:06Z | Null | https://github.com/sujadhali/fuzzy-octo-train | 0 | 0| 
 
 
 
