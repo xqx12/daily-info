@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220926T01:41:21Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220926T01:39:51Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220926T01:39:18Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220926T01:13:52Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
@@ -55,7 +56,6 @@
 | 20220925T21:25:38Z | CVE-2022-29464 | WSO2 Arbitrary File Upload to Remote Command Execution (RCE) | https://github.com/hupe1980/CVE-2022-29464 | | 
 | 20220925T21:25:34Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809] | https://github.com/scoobyd00bi/CVE-2022-26809-RCE | | 
 | 20220925T20:32:50Z | CVE-2022-36804 | Null | https://github.com/trhacknon/CVE-2022-36804-ReverseShell | | 
-| 20220925T08:19:22Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 
 
 # klee on Github 推荐
