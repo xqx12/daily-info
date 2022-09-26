@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T00:30:37Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0- | 1 | 0| 
+| 20220926T00:29:25Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-0- | 1 | 0| 
 | 20220926T00:28:24Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-0- | 1 | 0| 
 | 20220926T00:18:14Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 49 | 3| 
 | 20220925T23:52:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4896 | 677| 
@@ -96,14 +98,12 @@
 | 20220925T22:09:25Z | beta phase , basically will be a list of manual exploits for ctfs | https://github.com/daj0n/DedSec_Fr4meW0rk | 0 | 0| 
 | 20220925T21:57:41Z | This Bash scrip will Help to setup the exploit, host it and help you to not get errors. | https://github.com/rahibw/Folian_exploit_setuper | 0 | 0| 
 | 20220925T12:49:29Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 31 | 9| 
-| 20220925T12:26:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3643 | 447| 
-| 20220925T12:03:24Z | Be notified whenever CISA updates their Known Exploited Vulnerabilities Catalog | https://github.com/hrbrmstr/kev-push | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220926T00:21:27Z | Backdoors for ML models using data augmentation | https://github.com/slkdfjslkjfd/augmentation_backdoors | 1 | 0| 
+| 20220926T00:29:58Z | Backdoors for ML models using data augmentation | https://github.com/slkdfjslkjfd/augmentation_backdoors | 1 | 0| 
 | 20220925T19:36:19Z | Null | https://github.com/himalaya-kaushik/Backdoor_attack | 0 | 0| 
 | 20220925T15:51:38Z | Repo containing python code to create a reverse-backdoor on a target and a listener for the attacker to manage. | https://github.com/Anon4Now/reverse_backdoor_and_listener | 0 | 0| 
 | 20220925T10:06:17Z | Extensive backdoor made for windows using Powershell | https://github.com/23Harshvardhan/Neko-An0maly | 0 | 0| 
