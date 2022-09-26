@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220926T01:39:51Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220926T01:39:18Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220926T01:13:52Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
 | 20220925T22:48:44Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
 | 20220925T21:26:07Z | CVE-2022-34729 | PoC for CVE-2022-34729 | https://github.com/Pwnrin/CVE-2022-34729 | | 
-| 20220925T21:25:46Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220925T21:25:42Z | CVE-2022-39197 | Null | https://github.com/purple-WL/Cobaltstrike-RCE-CVE-2022-39197 | | 
 | 20220925T21:25:38Z | CVE-2022-29464 | WSO2 Arbitrary File Upload to Remote Command Execution (RCE) | https://github.com/hupe1980/CVE-2022-29464 | | 
 | 20220925T21:25:34Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809] | https://github.com/scoobyd00bi/CVE-2022-26809-RCE | | 

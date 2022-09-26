@@ -24,7 +24,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220925T22:48:44Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
 | 20220925T21:26:07Z | CVE-2022-34729 | PoC for CVE-2022-34729 | https://github.com/Pwnrin/CVE-2022-34729 | | 
-| 20220925T21:25:46Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220925T21:25:42Z | CVE-2022-39197 | Null | https://github.com/purple-WL/Cobaltstrike-RCE-CVE-2022-39197 | | 
 | 20220925T21:25:38Z | CVE-2022-29464 | WSO2 Arbitrary File Upload to Remote Command Execution (RCE) | https://github.com/hupe1980/CVE-2022-29464 | | 
 | 20220925T21:25:34Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809] | https://github.com/scoobyd00bi/CVE-2022-26809-RCE | | 
@@ -32,6 +31,7 @@
 | 20220925T08:19:22Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220925T07:47:08Z | CVE-2022-2274 | A POC OF CVE-2022-2274 (openssl) | https://github.com/Malwareman007/CVE-2022-2274 | | 
 | 20220925T04:50:34Z | CVE-2021-4034 | Vulnerability to CVE-2021-4034 Pwnkit | https://github.com/flux10n/CVE-2021-4034 | | 
+| 20220925T00:31:30Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
 
 
 # klee on Github 推荐
