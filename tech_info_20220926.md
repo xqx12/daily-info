@@ -27,6 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:19:51Z | CVE-2022-30507 | CVE-2022–30507 PoC  | https://github.com/yosef0x01/CVE-2022-30507 | | 
 | 20220926T12:15:56Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220926T12:08:12Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
 | 20220926T11:53:52Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 

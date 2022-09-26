@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:19:51Z | CVE-2022-30507 | CVE-2022–30507 PoC  | https://github.com/yosef0x01/CVE-2022-30507 | | 
 | 20220926T12:15:56Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220926T12:08:12Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
 | 20220926T11:53:52Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
@@ -55,7 +56,6 @@
 | 20220926T05:25:38Z | CVE-2022-29581 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581 | | 
 | 20220925T22:48:44Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
 | 20220925T21:26:07Z | CVE-2022-34729 | PoC for CVE-2022-34729 | https://github.com/Pwnrin/CVE-2022-34729 | | 
-| 20220925T21:25:42Z | CVE-2022-39197 | Null | https://github.com/purple-WL/Cobaltstrike-RCE-CVE-2022-39197 | | 
 
 
 # klee on Github 推荐
