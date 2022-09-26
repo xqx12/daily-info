@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T00:28:24Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-0- | 1 | 0| 
 | 20220926T00:18:14Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 49 | 3| 
 | 20220925T23:52:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4896 | 677| 
 | 20220925T23:34:33Z | Official website containing the projects listed here and not only! | https://github.com/Kipferl-OS/exploiting-croissant | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20220925T12:49:29Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 31 | 9| 
 | 20220925T12:26:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3643 | 447| 
 | 20220925T12:03:24Z | Be notified whenever CISA updates their Known Exploited Vulnerabilities Catalog | https://github.com/hrbrmstr/kev-push | 1 | 0| 
-| 20220925T10:47:45Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9441 | 1549| 
 
 
 # backdoor on Github 推荐
