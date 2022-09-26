@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220926T01:43:59Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
 | 20220926T01:41:21Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220926T01:39:51Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220926T01:39:18Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20220926T01:13:52Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
 | 20220925T22:48:44Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
 | 20220925T21:26:07Z | CVE-2022-34729 | PoC for CVE-2022-34729 | https://github.com/Pwnrin/CVE-2022-34729 | | 
 | 20220925T21:25:42Z | CVE-2022-39197 | Null | https://github.com/purple-WL/Cobaltstrike-RCE-CVE-2022-39197 | | 
