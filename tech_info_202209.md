@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:15:56Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220926T12:08:12Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
-| 20220926T11:57:09Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220926T11:53:52Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
 | 20220926T10:51:14Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220926T10:43:00Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
@@ -144,6 +144,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:15:25Z | Null | https://github.com/mboehme/FuzzingCompetition | 0 | 0| 
+| 20220926T12:13:23Z | Null | https://github.com/DarkArtz0/fuzzy-chad | 0 | 0| 
 | 20220926T11:42:56Z | Null | https://github.com/nargessalehi98/fuzzy-expert-system-for-diagnosis-of-heart-disease | 0 | 0| 
 | 20220926T11:31:53Z | Null | https://github.com/MrGrmm/fuzzy-waffle | 0 | 0| 
 | 20220926T09:48:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1025 | 116| 
@@ -152,8 +154,6 @@
 | 20220926T08:11:09Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
 | 20220926T03:14:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7876 | 1698| 
 | 20220926T02:00:06Z | Null | https://github.com/sujadhali/fuzzy-octo-train | 0 | 0| 
-| 20220926T01:30:57Z | Null | https://github.com/dleatherman/fuzzy-memory | 0 | 0| 
-| 20220925T22:52:49Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2243 | 418| 
 
 
 
