@@ -37,7 +37,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220925T18:56:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2072 | 585| 
 
 
 # s2e on Github 推荐
@@ -76,7 +75,6 @@
 | --- | --- | --- | --- | ---| 
 | 20220925T23:35:58Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 16 | 2| 
 | 20220925T20:07:46Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 19| 
-| 20220925T18:56:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2072 | 585| 
 | 20220925T18:43:39Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 486 | 27| 
 | 20220925T10:59:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3123 | 436| 
 
