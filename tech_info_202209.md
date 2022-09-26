@@ -97,7 +97,7 @@
 | 20220925T22:35:10Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 10505 | 2220| 
 | 20220925T22:09:25Z | beta phase , basically will be a list of manual exploits for ctfs | https://github.com/daj0n/DedSec_Fr4meW0rk | 0 | 0| 
 | 20220925T21:57:41Z | This Bash scrip will Help to setup the exploit, host it and help you to not get errors. | https://github.com/rahibw/Folian_exploit_setuper | 0 | 0| 
-| 20220925T12:49:29Z | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | 31 | 9| 
+| 20220925T21:34:56Z | All releases of the security research group (a.k.a. hackers) The Hacker%s Choice | https://github.com/hackerschoice/THC-Archive | 556 | 176| 
 
 
 # backdoor on Github 推荐
