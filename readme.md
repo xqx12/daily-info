@@ -68,12 +68,17 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T11:29:01Z | Config files for my GitHub profile. | https://github.com/Mj999Backdoor/Mj999Backdoor | 0 | 0| 
+| 20220926T11:27:12Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 0 | 0| 
+| 20220926T09:56:12Z | [FINAL] NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 2 | 0| 
+| 20220926T01:56:08Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 13 | 10| 
 | 20220926T00:39:17Z | machine learning backdoors inserted by data augmentation | https://github.com/slkdfjslkjfd/augmentation_backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T07:41:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3126 | 436| 
 | 20220926T00:38:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2073 | 585| 
 
 

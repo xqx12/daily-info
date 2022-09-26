@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T11:29:01Z | Config files for my GitHub profile. | https://github.com/Mj999Backdoor/Mj999Backdoor | 0 | 0| 
+| 20220926T11:27:12Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 0 | 0| 
+| 20220926T09:56:12Z | [FINAL] NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 2 | 0| 
+| 20220926T01:56:08Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 13 | 10| 
 | 20220926T00:39:17Z | machine learning backdoors inserted by data augmentation | https://github.com/slkdfjslkjfd/augmentation_backdoors | 0 | 0| 
 | 20220925T19:36:19Z | Null | https://github.com/himalaya-kaushik/Backdoor_attack | 0 | 0| 
 | 20220925T15:51:38Z | Repo containing python code to create a reverse-backdoor on a target and a listener for the attacker to manage. | https://github.com/Anon4Now/reverse_backdoor_and_listener | 0 | 0| 
 | 20220925T10:06:17Z | Extensive backdoor made for windows using Powershell | https://github.com/23Harshvardhan/Neko-An0maly | 0 | 0| 
-| 20220925T06:52:17Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 12 | 8| 
 | 20220925T02:19:07Z | Highly reliable botnet created in 100% python for Educational Purposes Only | https://github.com/CookiesServices/ISO | 2 | 2| 
 | 20220925T00:41:39Z | Null | https://github.com/asxnge/shell-backdoor | 0 | 0| 
-| 20220924T20:13:22Z | NjRat 0.7d Horror Edition + | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 2 | 0| 
-| 20220924T19:25:00Z | Null | https://github.com/marciomjta/backdoor | 0 | 0| 
-| 20220924T16:03:39Z | Code for One-shot Neural Backdoor Erasing via Adversarial Weight Masking (NeurIPS 2022) | https://github.com/jinghuichen/AWM | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T07:41:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3126 | 436| 
 | 20220926T00:38:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2073 | 585| 
 | 20220925T23:35:58Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 16 | 2| 
-| 20220925T20:07:46Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 19| 
+| 20220925T20:07:46Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 20| 
 | 20220925T18:43:39Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 486 | 27| 
-| 20220925T10:59:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3123 | 436| 
 | 20220924T00:28:51Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 0| 
+| 20220923T22:51:45Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 576 | 103| 
 | 20220923T14:16:16Z | Null | https://github.com/MatthewEthanTam/ExploringSymbolicExecutionTools | 0 | 0| 
 | 20220923T09:28:13Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 252 | 61| 
 | 20220922T07:16:50Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 215 | 29| 
-| 20220922T01:40:36Z | Academic symbolic execution is better than awesome symbolic executions. | https://github.com/zhouxinan/academic_symbolic_execution | 0 | 0| 
 
 
 # big4 on Github 推荐
