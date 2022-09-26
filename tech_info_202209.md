@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:08:12Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
 | 20220926T11:57:09Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220926T11:53:52Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
 | 20220926T10:51:14Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
 | 20220926T10:43:00Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
-| 20220926T10:14:35Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
 | 20220926T07:59:31Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20220926T05:25:38Z | CVE-2022-29581 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581 | | 
 | 20220925T22:48:44Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
