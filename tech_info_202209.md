@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:30:04Z | Null | https://github.com/Vatful/fuzzy-octo-barnacle | 0 | 0| 
 | 20220926T12:28:22Z | Null | https://github.com/DarkArtz0/fuzzy-chad | 0 | 0| 
 | 20220926T12:23:26Z | Null | https://github.com/Skincha/fuzzy-palm-tree | 0 | 0| 
 | 20220926T12:15:25Z | Null | https://github.com/mboehme/FuzzingCompetition | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20220926T08:49:13Z | Discovering ways of forming fuzzy sets and operations on them | https://github.com/SJzamula/FuzzyLogic1 | 0 | 0| 
 | 20220926T08:42:45Z | Null | https://github.com/Taglias/fuzzy-bassoon | 0 | 0| 
 | 20220926T08:11:09Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
-| 20220926T03:14:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7876 | 1698| 
 
 
 
