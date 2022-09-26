@@ -54,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220926T12:15:34Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12078 | 2070| 
+| 20220926T12:26:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12079 | 2070| 
 | 20220926T11:29:45Z | Exploit for Arbitrary File Move vulnerability in ZoneAlarm AV  | https://github.com/Wh04m1001/ZoneAlarmEoP | 0 | 0| 
 | 20220926T11:27:40Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1707 | 31| 
 | 20220926T11:20:55Z | 2022 The goal of this project is to create a search engine able to recognize the breed of a dog starting from an image uploaded by the user. The engine shows also the most similar pictures to the selected one. We implemented from scratch our version of IVFADC-Index to enable fast similarity search on deep features. For what concerns the Deep Neural Network, we exploited different versions of ResNet, first performing feature extraction and then applying fine tuning of some layers. Finally, a web user interface has been built to allow the search engine to be used in a web browser. | https://github.com/mickrew/DogScan | 1 | 0| 
@@ -91,9 +91,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:28:22Z | Null | https://github.com/DarkArtz0/fuzzy-chad | 0 | 0| 
 | 20220926T12:23:26Z | Null | https://github.com/Skincha/fuzzy-palm-tree | 0 | 0| 
 | 20220926T12:15:25Z | Null | https://github.com/mboehme/FuzzingCompetition | 0 | 0| 
-| 20220926T12:13:23Z | Null | https://github.com/DarkArtz0/fuzzy-chad | 0 | 0| 
 | 20220926T11:42:56Z | Null | https://github.com/nargessalehi98/fuzzy-expert-system-for-diagnosis-of-heart-disease | 0 | 0| 
 | 20220926T11:31:53Z | Null | https://github.com/MrGrmm/fuzzy-waffle | 0 | 0| 
 | 20220926T09:48:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1025 | 116| 
