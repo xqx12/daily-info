@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T00:14:42Z | Backdoors for ML models using data augmentation | https://github.com/slkdfjslkjfd/augmentation_backdoors | 0 | 0| 
 | 20220925T19:36:19Z | Null | https://github.com/himalaya-kaushik/Backdoor_attack | 0 | 0| 
 | 20220925T15:51:38Z | Repo containing python code to create a reverse-backdoor on a target and a listener for the attacker to manage. | https://github.com/Anon4Now/reverse_backdoor_and_listener | 0 | 0| 
 | 20220925T10:06:17Z | Extensive backdoor made for windows using Powershell | https://github.com/23Harshvardhan/Neko-An0maly | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20220924T20:13:22Z | NjRat 0.7d Horror Edition + | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 2 | 0| 
 | 20220924T19:25:00Z | Null | https://github.com/marciomjta/backdoor | 0 | 0| 
 | 20220924T16:03:39Z | Code for One-shot Neural Backdoor Erasing via Adversarial Weight Masking (NeurIPS 2022) | https://github.com/jinghuichen/AWM | 0 | 0| 
-| 20220924T14:49:09Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network). | https://github.com/yasserbdj96/hiphp | 20 | 8| 
 
 
 # symbolic execution on Github 推荐
