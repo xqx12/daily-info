@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220926 | 大量漏洞 CVE 的 PoC 代码收集 | https://www.reddit.com/r/ReverseEngineering/comments/xnr75o/comprehensive_list_of_cve_pocs/| 
+| 20220926 | 利用 DLL Sideloading 技术攻击 EDR | https://mansk1es.gitbook.io/edr-binary-abuse/| 
+| 20220926 | Hacking the PS4 / PS5 through the PS2 Emulator | https://cturt.github.io/mast1c0re.html| 
+| 20220926 | Go 工具在渗透测试、攻击中的应用 | http://cfp.balccon.org/media/go-offensive-building-blocks-final.pdf| 
+| 20220926 | iOS Native Code Obfuscation and Syscall Hooking | http://www.romainthomas.fr/post/22-09-ios-obfuscation-syscall-hooking/| 
+| 20220926 | Windows 虚拟化安全（VBS）研究 | https://github.com/connormcgarr/Presentations/blob/master/McGarr_BSidesKC2022.pdf| 
+| 20220926 | kmemd - 利用 GDB 调试器查看 Linux 内核的运行时内存 | https://github.com/wkz/kmemd| 
+| 20220926 | cpplumber - 用于从可执行文件中检测泄露的源码信息的工具 | https://github.com/ergrelet/cpplumber| 
+| 20220926 | Cronos - Sleep 混淆技术实现 | https://github.com/Idov31/Cronos| 
 | 20220923 | 以 Roshtyak 后门为例介绍恶意软件的自保护、杀软逃逸技巧 | http://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/| 
 | 20220923 | 利用 AWS API Gateway 的大 IP 池构建代理解决 IP 限制的问题 | https://github.com/Ge0rg3/requests-ip-rotator| 
 | 20220923 | 云安全审计工具 Scout Suite 开始支持对 Kubernetes clusters 的扫描 | http://research.nccgroup.com/2022/09/22/tool-release-project-kubescout-adding-kubernetes-support-to-scout-suite/| 
@@ -17,20 +26,13 @@
 | 20220922 | 利用 Bitbucket Server 的参数注入漏洞实现 Pre Auth RCE (CVE-2022-36804) | https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/| 
 | 20220922 | RF Hacking with a Flipper Zero | https://github.com/n0n5m1l3/Presentations| 
 | 20220922 | Exploiting Web3’s Hidden Attack Surface: Universal XSS on Netlify’s Next.js Library | https://samcurry.net/universal-xss-on-netlifys-next-js-library/| 
-| 20220922 | GitHub 警告称有攻击者伪造 CircleCI 网站窃取用户密钥和双因素认证 code | http://github.blog/2022-09-21-security-alert-new-phishing-campaign-targets-github-users/| 
-| 20220922 | 短消息服务 SMS 安全加密的分析 | https://github.com/mich01/SpiderSMS/blob/master/BSidesNairobi%202022%20-Michael%20Kangethe.pdf| 
-| 20220922 | 利用 Realtek eCOS SDK 的漏洞攻破多款路由器 | https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf| 
-| 20220922 | 逆向分析时，直接从汇编层直接 Call 原始 Native Function 的 3 种方案 | http://research.checkpoint.com/2022/native-function-and-assembly-code-invocation/| 
-| 20220922 | 利用 Binary Ninja 工具在 FreeBSD 内核中定位内存未初始化漏洞 | https://www.zerodayinitiative.com/blog/2022/9/19/mindshare-analyzing-bsd-kernels-with-binary-ninja| 
-| 20220922 | PPL利用 | https://tttang.com/archive/1743/| 
-| 20220922 | erlang-distribution-protocol 安全问题研究 | http://paper.seebug.org/1978/| 
-| 20220921 | BCS 2022 会议探索JNDI攻击议题 PPT | https://github.com/iSafeBlue/presentation-slides/blob/main/BCS2022-%E6%8E%A2%E7%B4%A2JNDI%E6%94%BB%E5%87%BB.pdf| 
-| 20220921 | 集成 FunJSQ 第三方游戏模块的 Netgear 路由器存在代码执行漏洞 | https://gbhackers.com/netgear-router-funjsq/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220926 | SecWiki周刊（第447期) | https://www.sec-wiki.com/weekly/447| 
+| 20220926 | Http Request-Smuggling | https://www.sec-in.com/article/1883| 
 | 20220925 | git-vuln-finder: Finding potential software vulnerabilitie... | https://github.com/cve-search/git-vuln-finder| 
 | 20220925 | 针对U盘文件的盗与防攻略 | https://mp.weixin.qq.com/s/LcgSc2lNBS6iQgHO88vmKg| 
 | 20220925 | goby指纹提取与yara逆向.md | https://xz.aliyun.com/t/11701| 
@@ -39,38 +41,36 @@
 | 20220925 | 黑客利用 BGP 劫持 IP 段窃取了约 23 万美元加密货币 | https://www.solidot.org/story?sid=72867| 
 | 20220923 | 揭露大佬挖主应用的一般性流程 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486332&idx=1&sn=238328c005b23ec39e375bb0f4f57652&chksm=e8a6011fdfd1880929ce3b1c3207ae1caf8827f845881fa110daab3a10f6177df3483ca77eea&token=798508684&lang=zh_CN#rd| 
 | 20220923 | 基于统一结构生成的网安信息抽取研究 | https://mp.weixin.qq.com/s/SRLy7GTNIoIQzfl_S9hVdQ| 
-| 20220923 | 浅谈甲方单位的漏洞管理 | https://mp.weixin.qq.com/s/V7L9XWkE5cMxpP7VC4tATw| 
-| 20220923 | 加密流量安全背后的那些小秘闻 | https://mp.weixin.qq.com/s/1J1HNdA2wZF93-K-e7Pg8Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220926T01:56:10Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
-| 20220926T01:43:59Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
-| 20220926T01:41:21Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
-| 20220926T01:39:18Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220926T11:57:09Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
+| 20220926T11:53:52Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
+| 20220926T10:51:14Z | CVE-2022-36804 | Somewhat Reliable PoC Exploit for CVE-2022-36804 (BitBucket Critical Command Injection) | https://github.com/BenHays142/CVE-2022-36804-PoC-Exploit | | 
+| 20220926T10:43:00Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
+| 20220926T10:14:35Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
+| 20220926T07:59:31Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20220926T05:25:38Z | CVE-2022-29581 | Null | https://github.com/nidhi7598/linux-4.19.72_CVE-2022-29581 | | 
 | 20220925T22:48:44Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
 | 20220925T21:26:07Z | CVE-2022-34729 | PoC for CVE-2022-34729 | https://github.com/Pwnrin/CVE-2022-34729 | | 
 | 20220925T21:25:42Z | CVE-2022-39197 | Null | https://github.com/purple-WL/Cobaltstrike-RCE-CVE-2022-39197 | | 
-| 20220925T21:25:38Z | CVE-2022-29464 | WSO2 Arbitrary File Upload to Remote Command Execution (RCE) | https://github.com/hupe1980/CVE-2022-29464 | | 
-| 20220925T21:25:34Z | CVE-2022-26809 | writeup and poc for [CVE-2022-26809] | https://github.com/scoobyd00bi/CVE-2022-26809-RCE | | 
-| 20220925T20:32:50Z | CVE-2022-36804 | Null | https://github.com/trhacknon/CVE-2022-36804-ReverseShell | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220926T01:08:18Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 258 | 44| 
+| 20220926T11:23:03Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 10 | 0| 
+| 20220926T06:29:45Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 259 | 44| 
+| 20220926T03:25:32Z | Null | https://github.com/crcady/klee-utils | 0 | 0| 
 | 20220926T00:38:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2073 | 585| 
 | 20220924T13:37:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 83 | 1| 
 | 20220923T06:41:04Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 52 | 12| 
 | 20220922T08:37:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 26 | 1| 
 | 20220920T14:06:05Z | My personal repository | https://github.com/KatKlee/KatKlee | 0 | 0| 
-| 20220920T04:24:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 9 | 0| 
 | 20220920T02:09:53Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 8 | 0| 
 | 20220919T17:28:35Z | lab-01-pandas-kleeio created by GitHub Classroom | https://github.com/cs663-spring2021/lab-01-pandas-kleeio | 0 | 0| 
-| 20220915T14:17:37Z | Pull Requests for https://github.com/SonOfLilit/kleenexp | https://github.com/JoshuaFox/kleenexp | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T11:29:45Z | Exploit for Arbitrary File Move vulnerability in ZoneAlarm AV  | https://github.com/Wh04m1001/ZoneAlarmEoP | 0 | 0| 
+| 20220926T11:27:40Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1707 | 31| 
+| 20220926T11:20:55Z | 2022 The goal of this project is to create a search engine able to recognize the breed of a dog starting from an image uploaded by the user. The engine shows also the most similar pictures to the selected one. We implemented from scratch our version of IVFADC-Index to enable fast similarity search on deep features. For what concerns the Deep Neural Network, we exploited different versions of ResNet, first performing feature extraction and then applying fine tuning of some layers. Finally, a web user interface has been built to allow the search engine to be used in a web browser. | https://github.com/mickrew/DogScan | 1 | 0| 
+| 20220926T10:26:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4311 | 645| 
+| 20220926T09:09:04Z | Shell script to cover your tracks on UNIX systems. Designed for pen testing `covering tracks` phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation. | https://github.com/sagarkhandve/covermytracks | 3 | 0| 
+| 20220926T06:46:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3651 | 448| 
+| 20220926T05:06:20Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 111 | 18| 
+| 20220926T02:57:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 527 | 141| 
 | 20220926T00:30:37Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0- | 1 | 0| 
 | 20220926T00:29:25Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-0- | 1 | 0| 
-| 20220926T00:28:24Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-0- | 1 | 0| 
-| 20220926T00:18:14Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 49 | 3| 
-| 20220925T23:52:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4896 | 677| 
-| 20220925T23:34:33Z | Official website containing the projects listed here and not only! | https://github.com/Kipferl-OS/exploiting-croissant | 0 | 0| 
-| 20220925T22:35:10Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 10505 | 2220| 
-| 20220925T22:09:25Z | beta phase , basically will be a list of manual exploits for ctfs | https://github.com/daj0n/DedSec_Fr4meW0rk | 0 | 0| 
-| 20220925T21:57:41Z | This Bash scrip will Help to setup the exploit, host it and help you to not get errors. | https://github.com/rahibw/Folian_exploit_setuper | 0 | 0| 
-| 20220925T21:34:56Z | All releases of the security research group (a.k.a. hackers) The Hacker%s Choice | https://github.com/hackerschoice/THC-Archive | 556 | 176| 
 
 
 # backdoor on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T11:42:56Z | Null | https://github.com/nargessalehi98/fuzzy-expert-system-for-diagnosis-of-heart-disease | 0 | 0| 
+| 20220926T11:31:53Z | Null | https://github.com/MrGrmm/fuzzy-waffle | 0 | 0| 
+| 20220926T09:48:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1025 | 116| 
+| 20220926T08:49:13Z | Discovering ways of forming fuzzy sets and operations on them | https://github.com/SJzamula/FuzzyLogic1 | 0 | 0| 
+| 20220926T08:42:45Z | Null | https://github.com/Taglias/fuzzy-bassoon | 0 | 0| 
+| 20220926T08:11:09Z | Null | https://github.com/HO-9/bob_efi_fuzzer | 0 | 0| 
+| 20220926T03:14:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7876 | 1698| 
 | 20220926T02:00:06Z | Null | https://github.com/sujadhali/fuzzy-octo-train | 0 | 0| 
 | 20220926T01:30:57Z | Null | https://github.com/dleatherman/fuzzy-memory | 0 | 0| 
-| 20220925T22:48:07Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 20 | 2| 
-| 20220925T22:45:25Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1506 | 66| 
-| 20220925T22:28:56Z | A basic python script that matches missing account names against names already in a database (used for data enrichment) | https://github.com/jnichols707/fuzzy-match | 0 | 0| 
-| 20220925T21:32:54Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 275 | 45| 
-| 20220925T21:04:07Z | Null | https://github.com/AngelAld/fuzzyLogic | 0 | 0| 
-| 20220925T20:09:01Z | DNS fuzzer and massive requests | https://github.com/nanih98/dungeons | 1 | 0| 
-| 20220925T19:17:24Z | OSS-Fuzz - continuous fuzzing of open source software | https://github.com/Vigilant-Linux/oss-fuzz | 0 | 0| 
-| 20220925T16:32:52Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 833 | 174| 
+| 20220925T22:52:49Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2243 | 418| 
 
 
 
