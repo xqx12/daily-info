@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:38:01Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7684 | 1786| 
+| 20220926T12:32:40Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4312 | 645| 
 | 20220926T12:26:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12079 | 2070| 
 | 20220926T11:29:45Z | Exploit for Arbitrary File Move vulnerability in ZoneAlarm AV  | https://github.com/Wh04m1001/ZoneAlarmEoP | 0 | 0| 
 | 20220926T11:27:40Z | The great software for some game that exploiting anime girls (and boys). | https://github.com/Akebi-Group/Akebi-GC | 1707 | 31| 
 | 20220926T11:20:55Z | 2022 The goal of this project is to create a search engine able to recognize the breed of a dog starting from an image uploaded by the user. The engine shows also the most similar pictures to the selected one. We implemented from scratch our version of IVFADC-Index to enable fast similarity search on deep features. For what concerns the Deep Neural Network, we exploited different versions of ResNet, first performing feature extraction and then applying fine tuning of some layers. Finally, a web user interface has been built to allow the search engine to be used in a web browser. | https://github.com/mickrew/DogScan | 1 | 0| 
-| 20220926T10:26:11Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4311 | 645| 
 | 20220926T09:09:04Z | Shell script to cover your tracks on UNIX systems. Designed for pen testing `covering tracks` phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation. | https://github.com/sagarkhandve/covermytracks | 3 | 0| 
 | 20220926T06:46:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3651 | 448| 
 | 20220926T05:06:20Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 111 | 18| 
 | 20220926T02:57:04Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 527 | 141| 
-| 20220926T00:30:37Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0- | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -133,6 +133,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T12:41:05Z | Null | https://github.com/BlazingFastPSI/NDSS23 | 0 | 0| 
 | 20220921T10:29:38Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 56 | 11| 
 | 20220916T11:08:06Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 12 | 2| 
 | 20220912T08:36:48Z | Original implementation of FlowPrint as in the NDSS %20 paper | https://github.com/Thijsvanede/FlowPrint | 70 | 27| 
