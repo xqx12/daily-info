@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220926T02:00:06Z | Null | https://github.com/sujadhali/fuzzy-octo-train | 0 | 0| 
 | 20220926T01:30:57Z | Null | https://github.com/dleatherman/fuzzy-memory | 0 | 0| 
 | 20220925T22:48:07Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 20 | 2| 
 | 20220925T22:45:25Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1506 | 66| 
@@ -153,7 +154,6 @@
 | 20220925T20:09:01Z | DNS fuzzer and massive requests | https://github.com/nanih98/dungeons | 1 | 0| 
 | 20220925T19:17:24Z | OSS-Fuzz - continuous fuzzing of open source software | https://github.com/Vigilant-Linux/oss-fuzz | 0 | 0| 
 | 20220925T16:32:52Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 833 | 174| 
-| 20220925T15:47:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7874 | 1696| 
 
 
 
