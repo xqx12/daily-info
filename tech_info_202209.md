@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220927 | 企业云同步工具 Druva inSync macOS 本地提权漏洞分析 | http://imhotepisinvisible.com/druva-lpe/| 
+| 20220927 | 最新 CS RCE 曲折的复现路（CVE-2022-39197） | https://mp.weixin.qq.com/s/l5e2p_WtYSCYYhYE0lzRdQ| 
+| 20220927 | 基于未签名 DLL 加载的行为事件检测 APT | http://unit42.paloaltonetworks.com/unsigned-dlls/| 
+| 20220927 | MD5-Monomorphic Shellcode Packer - 向可执行文件中插入 Shellcode 但保持 MD5 不变的工具 | https://github.com/DavidBuchanan314/monomorph| 
+| 20220927 | HITCON 会议关于 macOS 授权认证机制以及提权漏洞的议题 | https://hitcon.org/2022/en/agenda/2492d003-197e-44ac-bfe0-135bf5cd1707/| 
+| 20220927 | 研究员对 macOS Auto Login 自动登录配置过程的研究 | https://www.offensive-security.com/offsec/in-the-hunt-for-the-auto-login-setup-process/| 
+| 20220927 | 利用 Shift F10 键在装有 Windows Autopilot 的环境中实现提权 | https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html| 
+| 20220927 | Vultron - 多方漏洞合作披露的协议 | https://insights.sei.cmu.edu/blog/vultron-a-protocol-for-coordinated-vulnerability-disclosure/| 
+| 20220927 | 不同国家以及语言环境对用户设置的密码强度的影响 | https://www.gosecure.net/blog/2022/09/26/tell-me-where-you-live-and-i-will-tell-you-about-your-password-understanding-the-macrosocial-factors-influencing-passwords-strength/| 
 | 20220926 | 大量漏洞 CVE 的 PoC 代码收集 | https://www.reddit.com/r/ReverseEngineering/comments/xnr75o/comprehensive_list_of_cve_pocs/| 
 | 20220926 | 利用 DLL Sideloading 技术攻击 EDR | https://mansk1es.gitbook.io/edr-binary-abuse/| 
 | 20220926 | Hacking the PS4 / PS5 through the PS2 Emulator | https://cturt.github.io/mast1c0re.html| 
@@ -17,15 +26,6 @@
 | 20220926 | Cronos - Sleep 混淆技术实现 | https://github.com/Idov31/Cronos| 
 | 20220926 | Erbium Stealer 恶意软件分析报告 | https://www.cyfirma.com/outofband/erbium-stealer-malware-report/| 
 | 20220926 | BJT 晶体管入门指南教程视频(ElectroBOOM101 - 011) | https://www.youtube.com/watch?v=2uowMENwiHQ&feature=youtu.be| 
-| 20220923 | 以 Roshtyak 后门为例介绍恶意软件的自保护、杀软逃逸技巧 | http://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/| 
-| 20220923 | 利用 AWS API Gateway 的大 IP 池构建代理解决 IP 限制的问题 | https://github.com/Ge0rg3/requests-ip-rotator| 
-| 20220923 | 云安全审计工具 Scout Suite 开始支持对 Kubernetes clusters 的扫描 | http://research.nccgroup.com/2022/09/22/tool-release-project-kubescout-adding-kubernetes-support-to-scout-suite/| 
-| 20220923 | Microsoft Azure 云环境的攻击路径分析 | http://cloudbrothers.info/azure-attack-paths/| 
-| 20220923 | Quokka - Quarkslab 开源的二进制文件 Exporter | http://blog.quarkslab.com/quokka-a-fast-and-accurate-binary-exporter.html| 
-| 20220923 | 利用希捷在 Windows 系统安装的媒体同步服务的漏洞实现 SYSTEM 提权 | http://www.x86matthew.com/view_post?id=windows_seagate_lpe| 
-| 20220923 | Impacket Wmiexec 远程命令执行模块的用法以及防御检测方案 | https://www.crowdstrike.com/blog/how-to-detect-and-prevent-impackets-wmiexec/| 
-| 20220922 | 利用 NtUserHardErrorControl 实现 Windows 内核任意地址读写 | https://github.com/SecIdiot/ANGRYORCHARD| 
-| 20220922 | 利用 Bitbucket Server 的参数注入漏洞实现 Pre Auth RCE (CVE-2022-36804) | https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/| 
 
 
 # 安全维基 推荐
@@ -46,28 +46,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220926T23:51:48Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
-| 20220926T21:41:13Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20220926T21:16:52Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
-| 20220926T19:45:14Z | CVE-2022-30206 | A POC of CVE-2022-30206 | https://github.com/Malwareman007/CVE-2022-30206 | | 
-| 20220926T18:52:44Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
-| 20220926T18:41:43Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) | https://github.com/Eltehem/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20220926T18:41:37Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/Eltehem/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20220926T18:37:09Z | Cve-2022- | uint256 strength; uint256 dexterity; uint256 constitution; uint256 intelligence; uint256 wisdom; uint256 charisma; | https://github.com/chinagamer12312312/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20220926T17:10:11Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
-| 20220926T15:15:44Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
+| 20220927T11:49:51Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
+| 20220927T11:24:11Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
+| 20220927T10:55:23Z | CVE-2022-2274 | A POC OF CVE-2022-2274 (openssl) | https://github.com/Malwareman007/CVE-2022-2274 | | 
+| 20220927T10:55:22Z | CVE-2022-30206 | A POC of CVE-2022-30206 | https://github.com/Malwareman007/CVE-2022-30206 | | 
+| 20220927T06:30:58Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
+| 20220927T04:17:11Z | CVE-2021-20038 | SonicWall SMA 100 Multiple Vulnerabilities, RCE | https://github.com/MaX0dexpoit/CVE-2021-20038 | | 
+| 20220927T04:17:09Z | CVE-2022-30507 | CVE-2022–30507 PoC  | https://github.com/yosef0x01/CVE-2022-30507 | | 
+| 20220927T04:17:05Z | CVE-2022-32548 | DrayTek Vigor Routers RCE | https://github.com/MaX0dexpoit/CVE-2022-32548 | | 
+| 20220927T04:17:03Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
+| 20220927T04:16:57Z | CVE-2021-4034 | Vulnerability to CVE-2021-4034 Pwnkit | https://github.com/flux10n/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220926T22:41:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8110 | 272| 
-| 20220926T18:33:35Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 11 | 0| 
+| 20220927T11:18:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8117 | 272| 
+| 20220927T09:19:34Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 12 | 0| 
+| 20220927T07:21:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2074 | 585| 
+| 20220927T06:55:30Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 86 | 1| 
 | 20220926T13:52:29Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 9 | 0| 
 | 20220926T06:29:45Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 259 | 44| 
 | 20220926T03:25:32Z | Null | https://github.com/crcady/klee-utils | 0 | 0| 
-| 20220926T00:38:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2073 | 585| 
-| 20220924T13:37:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 83 | 1| 
 | 20220923T06:41:04Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 52 | 12| 
 | 20220922T08:37:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 26 | 1| 
 | 20220920T14:06:05Z | My personal repository | https://github.com/KatKlee/KatKlee | 0 | 0| 
@@ -89,22 +89,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220927T01:13:20Z | Null | https://github.com/github-user-418848/exploit-dev | 0 | 0| 
+| 20220927T00:44:52Z | Null | https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-y- | 1 | 0| 
+| 20220927T00:43:30Z | Null | https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y- | 1 | 0| 
+| 20220927T00:42:38Z | Null | https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-y- | 1 | 0| 
 | 20220926T23:12:23Z | Null | https://github.com/0x414141414/Premium-Silent-Excel-Exploit | 0 | 0| 
 | 20220926T23:11:40Z | Null | https://github.com/0x414141414/PAID-Silent-PDF-Exploit | 0 | 0| 
 | 20220926T23:11:04Z | Null | https://github.com/0x414141414/JPG-Silent-Exploit-Builder | 0 | 0| 
 | 20220926T22:43:05Z | Null | https://github.com/FoonixVR/Event-Exploits-Quest-VRC | 2 | 1| 
 | 20220926T21:57:05Z | Null | https://github.com/Marsh61/System-Mechanic-Exploit | 0 | 0| 
 | 20220926T21:25:27Z | A deep reinforcement learning-based drug molecule generator focused on generation of molecules using SELFIES to exploit the guarantee of valid molecular structures. | https://github.com/naisuu/Rxitect | 1 | 3| 
-| 20220926T21:02:44Z | Fortnite BigC Cheat is a Free Undetected Hack for Fortnite with Aimbot, ESP, Player Fly and many more that you can download right now.  Have you ever thought about why there are so many hackers cheating in Fortnite? And how annoying it is for the honest players that have to watch over their shoulder because of these cheaters? Well, I’m always wondering why cheaters are cheating. Is it because they can’t do it or is it just a game they are playing? The honest player wins, even though they have a small disadvantage. About Fortnite BigC Cheat  If you are interested in cheating at Fortnite, we got something for you. You probably know that Fortnite is the hottest gaming right now. If you never played it, I suggest you to start playing and test this new Fortnite BigC Cheat that AntiCheese has released for you for free. It has a lot of useful functions and it’s totally undetected at the moment for the Easy Anti Cheat version of Fortnite.  Fortnite BigC is a recent hack that was very recently which is going to become incredibly popular. This hack took on the new name ‘BigC’ and added way more features than any other Fortnite Cheats and Hacks that you have probably ever used. Not even talking about all the exploit features, but the variety of options available with this hack is incredible. | https://github.com/crysles/Fortnite-BigC-Cheat-v4.0-Free-External-Fortnite-Hack-2022 | 0 | 0| 
-| 20220926T20:53:07Z | Free Fortnite Cheat Vision Rage is brand new cheat that has been developed for Fortnite with many features including some insane exploits, the most remarkable ones being Aimbot, ESP and many exploits, with a big undetection rate to make sure you last the longest without being banned.  Tired of losing again and again? This External Fortnite Hack will change your gameplay style. Fortnite is not a very easy game for most people’s. There are many good players out there who dominate the lobby. So, if you want to win you should use our Fortnite hacks. | https://github.com/crykki/Free-Fortnite-Cheat-Vision-Rage-External-Fortnite-Hack | 0 | 0| 
-| 20220926T20:39:47Z | Null | https://github.com/mertbingol0/pwn-exploits | 0 | 0| 
-| 20220926T20:31:27Z | Trying to figure out how to write code in C and call it in Python to exploit the benefits and avoid the drawbacks of both languages with minimal over head. | https://github.com/Th3WarPheonix/Python_C_Binding | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220926T19:37:18Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1776 | 410| 
+| 20220927T09:57:20Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1780 | 410| 
 | 20220926T19:17:14Z | A python backdoor project for hacking study purpose | https://github.com/erionrb/python_backdoor | 0 | 0| 
 | 20220926T17:15:04Z | Null | https://github.com/NativoFrancesco/rs_backdoor | 0 | 0| 
 | 20220926T16:11:53Z | Null | https://github.com/GuanZihan/Deep-Backdoor-Attack | 0 | 0| 
