@@ -25,16 +25,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220927T23:04:02Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
-| 20220927T18:23:00Z | CVE-2021-44158 | ASUS router exploit + PoC | https://github.com/c0resploit/CVE-2021-44158 | | 
-| 20220927T18:22:56Z | CVE-2022-32548 | DrayTek Vigor Exploit + PoC | https://github.com/c0resploit/CVE-2022-32548 | | 
-| 20220927T18:22:50Z | CVE-2022-25845 | Fastjson exploit + PoC | https://github.com/c0resploit/CVE-2022-25845 | | 
-| 20220927T18:22:42Z | CVE-2022-20841 | Cisco Small Business RCE PoC + [included mass exploiter and scanner] | https://github.com/c0resploit/CVE-2022-20841 | | 
 | 20220927T18:05:59Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
 | 20220927T16:56:22Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC-exploit | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
 | 20220927T15:35:40Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) | https://github.com/Eltehem/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20220927T15:09:13Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220927T12:54:03Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
+| 20220927T10:55:23Z | CVE-2022-2274 | A POC OF CVE-2022-2274 (openssl) | https://github.com/Malwareman007/CVE-2022-2274 | | 
+| 20220927T10:55:22Z | CVE-2022-30206 | A POC of CVE-2022-30206 | https://github.com/Malwareman007/CVE-2022-30206 | | 
+| 20220927T04:17:11Z | CVE-2021-20038 | SonicWall SMA 100 Multiple Vulnerabilities, RCE | https://github.com/MaX0dexpoit/CVE-2021-20038 | | 
+| 20220927T04:17:09Z | CVE-2022-30507 | CVE-2022–30507 PoC  | https://github.com/yosef0x01/CVE-2022-30507 | | 
+| 20220927T04:17:05Z | CVE-2022-32548 | DrayTek Vigor Routers RCE | https://github.com/MaX0dexpoit/CVE-2022-32548 | | 
 
 
 # klee on Github 推荐
@@ -95,12 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220927T19:21:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7882 | 1701| 
+| 20220927T18:32:22Z | Null | https://github.com/AxelFuzzi/ProyectoFinalReactHardwareOnlineFuzzi | 0 | 0| 
+| 20220927T18:17:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1030 | 119| 
 | 20220927T12:37:44Z | Null | https://github.com/sezeranoJchrisostome/fuzzy-kmarket | 1 | 0| 
 | 20220927T12:29:30Z | A Vim plugin to add fuzzy search capabilities | https://github.com/eranfrie/fuzzy.vim | 0 | 0| 
 | 20220927T12:21:39Z | Null | https://github.com/TinusTinus98/fuzzy_numbers | 0 | 0| 
 | 20220927T12:10:09Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 66 | 5| 
 | 20220927T11:50:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4352 | 1056| 
 | 20220927T07:50:57Z | Go fuzzing examples | https://github.com/jmatosgrafana/gofuzzing | 0 | 0| 
+| 20220927T05:54:29Z | Automatic DNN generation for fuzzing and more. | https://github.com/ise-uiuc/nnsmith | 27 | 2| 
 
 
 
