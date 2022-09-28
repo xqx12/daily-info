@@ -25,25 +25,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220927T23:04:02Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
+| 20220927T18:23:00Z | CVE-2021-44158 | ASUS router exploit + PoC | https://github.com/c0resploit/CVE-2021-44158 | | 
+| 20220927T18:22:56Z | CVE-2022-32548 | DrayTek Vigor Exploit + PoC | https://github.com/c0resploit/CVE-2022-32548 | | 
+| 20220927T18:22:50Z | CVE-2022-25845 | Fastjson exploit + PoC | https://github.com/c0resploit/CVE-2022-25845 | | 
+| 20220927T18:22:42Z | CVE-2022-20841 | Cisco Small Business RCE PoC + [included mass exploiter and scanner] | https://github.com/c0resploit/CVE-2022-20841 | | 
+| 20220927T18:05:59Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
+| 20220927T16:56:22Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC-exploit | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
+| 20220927T15:35:40Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) | https://github.com/Eltehem/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20220927T15:09:13Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
 | 20220927T12:54:03Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
-| 20220927T12:51:56Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
-| 20220927T10:55:23Z | CVE-2022-2274 | A POC OF CVE-2022-2274 (openssl) | https://github.com/Malwareman007/CVE-2022-2274 | | 
-| 20220927T10:55:22Z | CVE-2022-30206 | A POC of CVE-2022-30206 | https://github.com/Malwareman007/CVE-2022-30206 | | 
-| 20220927T06:30:58Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
-| 20220927T04:17:11Z | CVE-2021-20038 | SonicWall SMA 100 Multiple Vulnerabilities, RCE | https://github.com/MaX0dexpoit/CVE-2021-20038 | | 
-| 20220927T04:17:09Z | CVE-2022-30507 | CVE-2022–30507 PoC  | https://github.com/yosef0x01/CVE-2022-30507 | | 
-| 20220927T04:17:05Z | CVE-2022-32548 | DrayTek Vigor Routers RCE | https://github.com/MaX0dexpoit/CVE-2022-32548 | | 
-| 20220927T04:17:03Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
-| 20220927T04:16:57Z | CVE-2021-4034 | Vulnerability to CVE-2021-4034 Pwnkit | https://github.com/flux10n/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220927T12:27:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8117 | 272| 
-| 20220927T09:19:34Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 12 | 0| 
+| 20220927T23:52:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8116 | 272| 
+| 20220927T17:05:58Z | python-1-Ethan-Klee created by GitHub Classroom | https://github.com/YSHS-APCSP-2022/python-1-Ethan-Klee | 0 | 0| 
+| 20220927T15:26:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 87 | 1| 
+| 20220927T15:25:31Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 13 | 0| 
 | 20220927T07:21:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2074 | 585| 
-| 20220927T06:55:30Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 86 | 1| 
 
 
 # s2e on Github 推荐
@@ -54,21 +55,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220927T23:34:24Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOITHACKINGYOUTUBER-TWITCHEETCTUDOQUESEENCAIXARNOMETODODEESPELHAR | 1 | 0| 
+| 20220927T22:34:37Z | Null | https://github.com/damilola5468/DoingExploit- | 0 | 0| 
+| 20220927T22:17:56Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/CrazyShultz/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
+| 20220927T22:17:55Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/CrazyShultz/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
+| 20220927T22:14:50Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/CrazyShultz/Omnis-Dead-Frontier-2-PrivateCheat | 1 | 0| 
+| 20220927T22:14:50Z | Exploit made for Roblox by Xyps0s | https://github.com/CrazyShultz/Nyve-Keyless-Roblox-Exploit | 1 | 0| 
+| 20220927T21:53:26Z | Null | https://github.com/hellmaxx/Exploit_and_CVE_Parser | 0 | 0| 
+| 20220927T21:45:54Z | Null | https://github.com/damienmaier/dirtycow-exploit-explanation | 0 | 0| 
+| 20220927T15:30:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4901 | 680| 
 | 20220927T12:54:06Z | SH And C++ Scripts For Exploitation | https://github.com/aouni0n/Exploit_Now | 0 | 0| 
-| 20220927T12:52:36Z | Null | https://github.com/TheDreamPort/deep_exploit | 0 | 0| 
-| 20220927T12:42:13Z | EasyPen is a GUI program which helps pentesters do target discovery, vulnerability scan and exploitation | https://github.com/lijiejie/EasyPen | 389 | 47| 
-| 20220927T12:26:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4321 | 648| 
-| 20220927T11:55:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3654 | 449| 
-| 20220927T11:08:44Z | Exploits and scripts created during OSCP Lab time | https://github.com/em1c/OSCP-Labs | 0 | 0| 
-| 20220927T10:38:00Z | A practical demonstraction of a reentrancy smart contract security attack to provide insight into its protection | https://github.com/HairConditioner/SmartContractExploit | 0 | 0| 
-| 20220927T10:06:14Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12082 | 2072| 
-| 20220927T09:45:22Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and more. | https://github.com/volkandindar/agartha | 190 | 40| 
-| 20220927T01:13:20Z | Null | https://github.com/github-user-418848/exploit-dev | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220927T18:26:31Z | More bind and reverse shells! This time written in Rust. | https://github.com/LukeDSchenk/rust-backdoors | 15 | 3| 
+| 20220927T17:34:37Z | Simple reverse and bind shells written in Go. | https://github.com/LukeDSchenk/go-backdoors | 22 | 12| 
+| 20220927T17:27:53Z | Velt: Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20220927T17:26:10Z | Null | https://github.com/zidansec/backdoor | 0 | 0| 
+| 20220927T15:37:49Z | It%s Just Backdoor Configuration for the security etc. Btw If There%s Error In Script Then Please Tell Me! | https://github.com/TheSpookyTester/Backdoor-configuration | 0 | 0| 
 | 20220927T12:58:04Z | Null | https://github.com/theozebua/teecoder-backdoor | 1 | 0| 
 | 20220927T09:57:20Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1780 | 410| 
 
@@ -76,6 +82,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220927T16:51:27Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 578 | 103| 
 | 20220927T07:21:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2074 | 585| 
 | 20220927T05:18:08Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 46 | 23| 
 
