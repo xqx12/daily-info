@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220928 | 特征检测和行为检测两种威胁检测方案的比较 | https://s3cur3th1ssh1t.github.io/Signature_vs_Behaviour/| 
+| 20220928 | HITB2022SIN 安全会议的视频公开了 | https://www.youtube.com/playlist?list=PLmv8T5-GONwRu8F1SgdBjP6XydFJipKoa| 
+| 20220928 | 利用 Snapshot Fuzzing 技术 Fuzz VirtualBox | http://www.usmacd.com/2022/07/21/2022-07-21-When-Hypervisor-Met-Snapshot-Fuzzing/| 
+| 20220928 | GateKeeper 实现机制以及在企业环境中的应用 | https://antman1p-30185.medium.com/jumping-over-the-gate-da555c075208| 
+| 20220928 | NSO Pegasus Android 样本分析 Part 2 | http://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-2/| 
+| 20220928 | Apple passkeys 实现机制研究 | https://www.slashid.dev/blog/passkeys-deepdive| 
+| 20220928 | Freeze - 利用进程挂起、直接 Syscall 调用等方法实现 Shellcode 隐蔽执行，逃逸 EDR 检测 | https://github.com/optiv/Freeze| 
+| 20220928 | IDA 2022 插件大赛的获奖名单 | http://hex-rays.com/contests_details/contest2022/| 
+| 20220928 | dnsReaper - 基于多个不同的云 DNS 服务收集子域名信息 | https://github.com/punk-security/dnsReaper| 
+| 20220928 | Electron 基于 Chrome 管理 Web API 隐私权限的细节 | https://sec.today/pulses/9d146ea6-ce9b-470f-adca-d37a164c10f5/| 
+| 20220928 | Electron 基于 Chrome 管理 Web API 隐私权限的细节 | http://blog.doyensec.com/2022/09/27/electron-api-default-permissions.html| 
 | 20220927 | 企业云同步工具 Druva inSync macOS 本地提权漏洞分析 | http://imhotepisinvisible.com/druva-lpe/| 
 | 20220927 | 最新 CS RCE 曲折的复现路（CVE-2022-39197） | https://mp.weixin.qq.com/s/l5e2p_WtYSCYYhYE0lzRdQ| 
 | 20220927 | 基于未签名 DLL 加载的行为事件检测 APT | http://unit42.paloaltonetworks.com/unsigned-dlls/| 
@@ -15,22 +26,12 @@
 | 20220927 | 利用 Shift F10 键在装有 Windows Autopilot 的环境中实现提权 | https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html| 
 | 20220927 | Vultron - 多方漏洞合作披露的协议 | https://insights.sei.cmu.edu/blog/vultron-a-protocol-for-coordinated-vulnerability-disclosure/| 
 | 20220927 | 不同国家以及语言环境对用户设置的密码强度的影响 | https://www.gosecure.net/blog/2022/09/26/tell-me-where-you-live-and-i-will-tell-you-about-your-password-understanding-the-macrosocial-factors-influencing-passwords-strength/| 
-| 20220926 | 大量漏洞 CVE 的 PoC 代码收集 | https://www.reddit.com/r/ReverseEngineering/comments/xnr75o/comprehensive_list_of_cve_pocs/| 
-| 20220926 | 利用 DLL Sideloading 技术攻击 EDR | https://mansk1es.gitbook.io/edr-binary-abuse/| 
-| 20220926 | Hacking the PS4 / PS5 through the PS2 Emulator | https://cturt.github.io/mast1c0re.html| 
-| 20220926 | Go 工具在渗透测试、攻击中的应用 | http://cfp.balccon.org/media/go-offensive-building-blocks-final.pdf| 
-| 20220926 | iOS Native Code Obfuscation and Syscall Hooking | http://www.romainthomas.fr/post/22-09-ios-obfuscation-syscall-hooking/| 
-| 20220926 | Windows 虚拟化安全（VBS）研究 | https://github.com/connormcgarr/Presentations/blob/master/McGarr_BSidesKC2022.pdf| 
-| 20220926 | kmemd - 利用 GDB 调试器查看 Linux 内核的运行时内存 | https://github.com/wkz/kmemd| 
-| 20220926 | cpplumber - 用于从可执行文件中检测泄露的源码信息的工具 | https://github.com/ergrelet/cpplumber| 
-| 20220926 | Cronos - Sleep 混淆技术实现 | https://github.com/Idov31/Cronos| 
-| 20220926 | Erbium Stealer 恶意软件分析报告 | https://www.cyfirma.com/outofband/erbium-stealer-malware-report/| 
-| 20220926 | BJT 晶体管入门指南教程视频(ElectroBOOM101 - 011) | https://www.youtube.com/watch?v=2uowMENwiHQ&feature=youtu.be| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20220928 | [HTB] Silo Writeup | https://www.jgeek.cn/article/113.html| 
 | 20220926 | SecWiki周刊（第447期) | https://www.sec-wiki.com/weekly/447| 
 | 20220926 | Http Request-Smuggling | https://www.sec-in.com/article/1883| 
 | 20220925 | git-vuln-finder: Finding potential software vulnerabilitie... | https://github.com/cve-search/git-vuln-finder| 
@@ -40,32 +41,31 @@
 | 20220925 | 谈谈最近失败的挖洞经历 | https://4ra1n.love/post/8NNRLtUsr/| 
 | 20220925 | 黑客利用 BGP 劫持 IP 段窃取了约 23 万美元加密货币 | https://www.solidot.org/story?sid=72867| 
 | 20220923 | 揭露大佬挖主应用的一般性流程 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486332&idx=1&sn=238328c005b23ec39e375bb0f4f57652&chksm=e8a6011fdfd1880929ce3b1c3207ae1caf8827f845881fa110daab3a10f6177df3483ca77eea&token=798508684&lang=zh_CN#rd| 
-| 20220923 | 基于统一结构生成的网安信息抽取研究 | https://mp.weixin.qq.com/s/SRLy7GTNIoIQzfl_S9hVdQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220928T01:56:03Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
+| 20220928T12:32:31Z | CVE-2022-30190 | CVE-2022-30190 (Exploit Microsoft) | https://github.com/flux10n/CVE-2022-30190 | | 
+| 20220928T10:09:49Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
+| 20220928T08:07:21Z | CVE-2022-36934 | tool for exploiting whatsapp rce | https://github.com/d4rk0x00/CVE-2022-36934-POC | | 
+| 20220928T07:48:26Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Xu0Tex1/CVE-2022-3236 | | 
+| 20220928T07:14:44Z | CVE-2022-36934 | An integer overflow in WhatsApp that results in remote code execution in an established video call. | https://github.com/F1uk369/CVE-2022-36934 | | 
+| 20220928T06:47:48Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/Xu0Tex1/CVE-2022-32548-RCE-POC | | 
 | 20220928T01:28:53Z | CVE-2022-20841 | Cisco Small Business RCE PoC + [included mass exploiter and scanner] | https://github.com/c0resploit/CVE-2022-20841 | | 
 | 20220928T01:28:24Z | CVE-2022-25845 | Fastjson exploit + PoC | https://github.com/c0resploit/CVE-2022-25845 | | 
 | 20220928T01:28:22Z | CVE-2022-32548 | DrayTek Vigor Exploit + PoC | https://github.com/c0resploit/CVE-2022-32548 | | 
 | 20220928T01:28:09Z | CVE-2021-44158 | ASUS router exploit + PoC | https://github.com/c0resploit/CVE-2021-44158 | | 
-| 20220927T18:05:59Z | cve-2022-36804 | A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804] | https://github.com/tahtaciburak/cve-2022-36804 | | 
-| 20220927T16:56:22Z | CVE-2022-35405 | ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC-exploit | https://github.com/viniciuspereiras/CVE-2022-35405 | | 
-| 20220927T15:35:40Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) | https://github.com/Eltehem/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20220927T15:09:13Z | CVE-2022-30206 | Exploit for CVE-2022-30206 | https://github.com/Pwnrin/CVE-2022-30206 | | 
-| 20220927T12:54:03Z | CVE-2022-28282 | PoC for CVE-2022-28282 | https://github.com/Pwnrin/CVE-2022-28282 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220927T23:52:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8116 | 272| 
+| 20220928T12:11:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8127 | 272| 
+| 20220928T03:37:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2075 | 585| 
 | 20220927T17:05:58Z | python-1-Ethan-Klee created by GitHub Classroom | https://github.com/YSHS-APCSP-2022/python-1-Ethan-Klee | 0 | 0| 
 | 20220927T15:26:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 87 | 1| 
 | 20220927T15:25:31Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 13 | 0| 
-| 20220927T07:21:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2074 | 585| 
 | 20220926T13:52:29Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 9 | 0| 
 | 20220926T06:29:45Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 259 | 44| 
 | 20220926T03:25:32Z | Null | https://github.com/crcady/klee-utils | 0 | 0| 
@@ -89,21 +89,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220928T00:54:18Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1689 | 545| 
-| 20220927T23:34:24Z | Null | https://github.com/PyterSmithDarkGhost/EXPLOITHACKINGYOUTUBER-TWITCHEETCTUDOQUESEENCAIXARNOMETODODEESPELHAR | 1 | 0| 
-| 20220927T22:34:37Z | Null | https://github.com/damilola5468/DoingExploit- | 0 | 0| 
-| 20220927T22:17:56Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/CrazyShultz/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
-| 20220927T22:17:55Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/CrazyShultz/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
-| 20220927T22:14:50Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/CrazyShultz/Omnis-Dead-Frontier-2-PrivateCheat | 1 | 0| 
-| 20220927T22:14:50Z | Exploit made for Roblox by Xyps0s | https://github.com/CrazyShultz/Nyve-Keyless-Roblox-Exploit | 1 | 0| 
-| 20220927T21:53:26Z | Null | https://github.com/hellmaxx/Exploit_and_CVE_Parser | 0 | 0| 
-| 20220927T21:45:54Z | Null | https://github.com/damienmaier/dirtycow-exploit-explanation | 0 | 0| 
-| 20220927T15:30:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4901 | 680| 
+| 20220928T12:32:31Z | CVE-2022-30190 (Exploit Microsoft) | https://github.com/flux10n/CVE-2022-30190 | 2 | 1| 
+| 20220928T12:26:51Z | Pentesting demonstration materials for Engr 100. Goes over what a simple pentest is, and goes through the process of wifi exploitation, recon, and exploitation of a vulnerable device. | https://github.com/BettridgeKameron/Engr100-Pentesting-Demo | 0 | 0| 
+| 20220928T12:23:36Z | Null | https://github.com/unCodeBoss/exploit-codes | 0 | 0| 
+| 20220928T12:21:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-tsre-build-e2e-akrr-exploit-have | 0 | 0| 
+| 20220928T12:03:29Z | Hacking the most viewed NFT marketplace tutorial on youtube | https://github.com/Shinpooo/nft-marketplace-exploit | 0 | 0| 
+| 20220928T12:01:42Z | Convertion d%un fichier NTriples en un fichier json exploitable par l%application graph-triplets | https://github.com/PierreLabs/nt2json | 0 | 0| 
+| 20220928T11:39:40Z | 一款结构简单、模块化的漏洞利用框架，用于研究学习，目前正在开发起步阶段 | https://github.com/tib36/Nokali-Kit | 2 | 0| 
+| 20220928T11:24:05Z | the Colosploit framework is a roblox exploitation tool used for beaming roblox accounts | https://github.com/LuaR0bloz/Colosploit | 2 | 0| 
+| 20220928T10:15:21Z | Null | https://github.com/lonewolf827/zeroday-link-exploit | 0 | 0| 
+| 20220928T09:59:38Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. | https://github.com/mufeedvh/moonwalk | 1033 | 102| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220928T04:46:31Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network). | https://github.com/yasserbdj96/hiphp | 22 | 8| 
 | 20220927T18:26:31Z | More bind and reverse shells! This time written in Rust. | https://github.com/LukeDSchenk/rust-backdoors | 15 | 3| 
 | 20220927T17:34:37Z | Simple reverse and bind shells written in Go. | https://github.com/LukeDSchenk/go-backdoors | 22 | 12| 
 | 20220927T17:27:53Z | Velt: Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
@@ -113,17 +114,16 @@
 | 20220927T09:57:20Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1780 | 410| 
 | 20220926T19:17:14Z | A python backdoor project for hacking study purpose | https://github.com/erionrb/python_backdoor | 0 | 0| 
 | 20220926T17:15:04Z | Null | https://github.com/NativoFrancesco/rs_backdoor | 0 | 0| 
-| 20220926T16:11:53Z | Null | https://github.com/GuanZihan/Deep-Backdoor-Attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220927T16:51:27Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 578 | 103| 
-| 20220927T07:21:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2074 | 585| 
+| 20220928T07:13:12Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 580 | 103| 
+| 20220928T04:28:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3127 | 439| 
+| 20220928T03:37:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2075 | 585| 
 | 20220927T05:18:08Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 46 | 23| 
 | 20220926T13:30:11Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 30 | 20| 
-| 20220926T07:41:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3126 | 439| 
 | 20220925T23:35:58Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 16 | 2| 
 | 20220925T18:43:39Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 486 | 27| 
 | 20220924T00:28:51Z | A small RISC-V symbolic execution engine | https://github.com/zyedidia/rvsym | 2 | 1| 

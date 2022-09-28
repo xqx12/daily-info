@@ -28,7 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220928T12:10:51Z | CVE-2022-30190 | CVE-2022-30190 | https://github.com/flux10n/CVE-2022-30190 | | 
+| 20220928T12:32:31Z | CVE-2022-30190 | CVE-2022-30190 (Exploit Microsoft) | https://github.com/flux10n/CVE-2022-30190 | | 
 | 20220928T10:09:49Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
 | 20220928T08:07:21Z | CVE-2022-36934 | tool for exploiting whatsapp rce | https://github.com/d4rk0x00/CVE-2022-36934-POC | | 
 | 20220928T07:48:26Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Xu0Tex1/CVE-2022-3236 | | 
@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220928T12:04:46Z | Null | https://github.com/unCodeBoss/exploit-codes | 0 | 0| 
+| 20220928T12:32:31Z | CVE-2022-30190 (Exploit Microsoft) | https://github.com/flux10n/CVE-2022-30190 | 2 | 1| 
+| 20220928T12:26:51Z | Pentesting demonstration materials for Engr 100. Goes over what a simple pentest is, and goes through the process of wifi exploitation, recon, and exploitation of a vulnerable device. | https://github.com/BettridgeKameron/Engr100-Pentesting-Demo | 0 | 0| 
+| 20220928T12:23:36Z | Null | https://github.com/unCodeBoss/exploit-codes | 0 | 0| 
+| 20220928T12:21:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-tsre-build-e2e-akrr-exploit-have | 0 | 0| 
 | 20220928T12:03:29Z | Hacking the most viewed NFT marketplace tutorial on youtube | https://github.com/Shinpooo/nft-marketplace-exploit | 0 | 0| 
 | 20220928T12:01:42Z | Convertion d%un fichier NTriples en un fichier json exploitable par l%application graph-triplets | https://github.com/PierreLabs/nt2json | 0 | 0| 
 | 20220928T11:39:40Z | 一款结构简单、模块化的漏洞利用框架，用于研究学习，目前正在开发起步阶段 | https://github.com/tib36/Nokali-Kit | 2 | 0| 
 | 20220928T11:24:05Z | the Colosploit framework is a roblox exploitation tool used for beaming roblox accounts | https://github.com/LuaR0bloz/Colosploit | 2 | 0| 
 | 20220928T10:15:21Z | Null | https://github.com/lonewolf827/zeroday-link-exploit | 0 | 0| 
 | 20220928T09:59:38Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. | https://github.com/mufeedvh/moonwalk | 1033 | 102| 
-| 20220928T09:41:22Z | Implementation et Exploitation du data Mart,  Mise en place de l%ETL utilisant pentahoData integration & Power BI | https://github.com/alamichaimaa/-systeme-decisionnel-dataset-AdventureWorks | 0 | 0| 
-| 20220928T09:24:54Z | Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. | https://github.com/carmaa/inception | 1480 | 203| 
-| 20220928T08:07:21Z | tool for exploiting whatsapp rce | https://github.com/d4rk0x00/CVE-2022-36934-POC | 0 | 0| 
 
 
 # backdoor on Github 推荐
