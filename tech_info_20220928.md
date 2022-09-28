@@ -59,12 +59,12 @@
 | 20220928T12:26:51Z | Pentesting demonstration materials for Engr 100. Goes over what a simple pentest is, and goes through the process of wifi exploitation, recon, and exploitation of a vulnerable device. | https://github.com/BettridgeKameron/Engr100-Pentesting-Demo | 0 | 0| 
 | 20220928T12:23:36Z | Null | https://github.com/unCodeBoss/exploit-codes | 0 | 0| 
 | 20220928T12:21:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-tsre-build-e2e-akrr-exploit-have | 0 | 0| 
+| 20220928T12:16:40Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12086 | 2073| 
 | 20220928T12:03:29Z | Hacking the most viewed NFT marketplace tutorial on youtube | https://github.com/Shinpooo/nft-marketplace-exploit | 0 | 0| 
 | 20220928T12:01:42Z | Convertion d%un fichier NTriples en un fichier json exploitable par l%application graph-triplets | https://github.com/PierreLabs/nt2json | 0 | 0| 
 | 20220928T11:39:40Z | 一款结构简单、模块化的漏洞利用框架，用于研究学习，目前正在开发起步阶段 | https://github.com/tib36/Nokali-Kit | 2 | 0| 
 | 20220928T11:24:05Z | the Colosploit framework is a roblox exploitation tool used for beaming roblox accounts | https://github.com/LuaR0bloz/Colosploit | 2 | 0| 
 | 20220928T10:15:21Z | Null | https://github.com/lonewolf827/zeroday-link-exploit | 0 | 0| 
-| 20220928T09:59:38Z | Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. | https://github.com/mufeedvh/moonwalk | 1033 | 102| 
 
 
 # backdoor on Github 推荐
