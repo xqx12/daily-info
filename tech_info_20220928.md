@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20220928T12:10:51Z | CVE-2022-30190 | CVE-2022-30190 | https://github.com/flux10n/CVE-2022-30190 | | 
 | 20220928T10:09:49Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
 | 20220928T08:07:21Z | CVE-2022-36934 | tool for exploiting whatsapp rce | https://github.com/d4rk0x00/CVE-2022-36934-POC | | 
 | 20220928T07:48:26Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Xu0Tex1/CVE-2022-3236 | | 
@@ -42,7 +43,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220928T12:03:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8126 | 272| 
+| 20220928T12:11:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8127 | 272| 
 | 20220928T03:37:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2075 | 585| 
 
 
@@ -75,6 +76,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220928T07:13:12Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 580 | 103| 
+| 20220928T04:28:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3127 | 439| 
+| 20220928T03:37:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2075 | 585| 
 
 
 # big4 on Github 推荐
