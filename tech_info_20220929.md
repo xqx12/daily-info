@@ -52,11 +52,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220929T12:30:19Z | AnnoMi is exploited to generate synthetic datasets in Motivational Interviewing | https://github.com/vsrana-ai/Augmenting-AnnoMI | 0 | 0| 
 | 20220929T12:14:45Z | Mine Research and Exploits for Windows Privilege Escalation | https://github.com/RashidKhanPathan/WindowsPrivilegeEscalation | 0 | 0| 
 | 20220929T12:08:49Z | Null | https://github.com/AyyaD5/exploitV1 | 0 | 0| 
 | 20220929T12:07:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4346 | 651| 
 | 20220929T12:02:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-e2e-demo-gtck-occur-exploit | 0 | 0| 
-| 20220929T11:55:40Z | AnnoMi is exploited to generate synthetic datasets in Motivational Interviewing | https://github.com/vsrana-ai/Augmenting-AnnoMI | 0 | 0| 
 | 20220929T11:46:05Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4910 | 681| 
 | 20220929T11:41:26Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4014 | 691| 
 | 20220929T11:39:03Z | I leak the new version of NetCat using a new exploit in python! | https://github.com/DarkVador33/NetCat-NEW-VERSION-LEAK | 0 | 0| 
