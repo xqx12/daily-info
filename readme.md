@@ -30,7 +30,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220928T22:33:19Z | CVE-2022-2588 | A PoC for CVE-2022-2588 that triggers a WARNING | https://github.com/sang-chu/CVE-2022-2588 | | 
 | 20220928T15:16:08Z | CVE-2022-30190 | CVE-2022-30190 (Exploit Microsoft) | https://github.com/flux10n/CVE-2022-30190 | | 
 | 20220928T14:32:42Z | CVE-2022-40490 | Tiny File Manager v2.4.7 and below are vulnerable to Cross Site Scripting | https://github.com/whitej3rry/CVE-2022-40490 | | 
 | 20220928T14:29:21Z | CVE-2022-40916 | Null | https://github.com/whitej3rry/CVE-2022-40916 | | 
@@ -40,6 +39,7 @@
 | 20220928T08:07:21Z | CVE-2022-36934 | tool for exploiting whatsapp rce | https://github.com/d4rk0x00/CVE-2022-36934-POC | | 
 | 20220928T07:48:26Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Xu0Tex1/CVE-2022-3236 | | 
 | 20220928T07:14:44Z | CVE-2022-36934 | An integer overflow in WhatsApp that results in remote code execution in an established video call. | https://github.com/F1uk369/CVE-2022-36934 | | 
+| 20220928T06:47:48Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/Xu0Tex1/CVE-2022-32548-RCE-POC | | 
 
 
 # klee on Github 推荐
