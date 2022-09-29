@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220929T12:14:45Z | Mine Research and Exploits for Windows Privilege Escalation | https://github.com/RashidKhanPathan/WindowsPrivilegeEscalation | 0 | 0| 
 | 20220929T12:08:49Z | Null | https://github.com/AyyaD5/exploitV1 | 0 | 0| 
 | 20220929T12:07:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4346 | 651| 
 | 20220929T12:02:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-e2e-demo-gtck-occur-exploit | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20220929T11:39:03Z | I leak the new version of NetCat using a new exploit in python! | https://github.com/DarkVador33/NetCat-NEW-VERSION-LEAK | 0 | 0| 
 | 20220929T09:57:24Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 228 | 51| 
 | 20220929T09:31:23Z | Null | https://github.com/imanbanda/SeriousSam-Vulnerability-exploitation-and-mitigation | 0 | 0| 
-| 20220929T08:49:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 529 | 141| 
 
 
 # backdoor on Github 推荐
