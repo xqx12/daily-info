@@ -32,6 +32,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20220928 | [HTB] Silo Writeup | https://www.jgeek.cn/article/113.html| 
+| 20220928 | 红队视角下的AWS横向移动 | https://mp.weixin.qq.com/s/Q0iiRJ53BwuU4LHynR4qWQ| 
+| 20220928 | 可信密态计算白皮书 | https://gw.alipayobjects.com/os/bmw-prod/56176409-5afa-4e86-85f7-1060116c01af.pdf| 
 | 20220926 | SecWiki周刊（第447期) | https://www.sec-wiki.com/weekly/447| 
 | 20220926 | Http Request-Smuggling | https://www.sec-in.com/article/1883| 
 | 20220925 | git-vuln-finder: Finding potential software vulnerabilitie... | https://github.com/cve-search/git-vuln-finder| 
@@ -39,38 +41,36 @@
 | 20220925 | goby指纹提取与yara逆向.md | https://xz.aliyun.com/t/11701| 
 | 20220925 | 某开源堡垒机历史漏洞分析 | https://xz.aliyun.com/t/11721| 
 | 20220925 | 谈谈最近失败的挖洞经历 | https://4ra1n.love/post/8NNRLtUsr/| 
-| 20220925 | 黑客利用 BGP 劫持 IP 段窃取了约 23 万美元加密货币 | https://www.solidot.org/story?sid=72867| 
-| 20220923 | 揭露大佬挖主应用的一般性流程 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486332&idx=1&sn=238328c005b23ec39e375bb0f4f57652&chksm=e8a6011fdfd1880929ce3b1c3207ae1caf8827f845881fa110daab3a10f6177df3483ca77eea&token=798508684&lang=zh_CN#rd| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20220928T12:32:31Z | CVE-2022-30190 | CVE-2022-30190 (Exploit Microsoft) | https://github.com/flux10n/CVE-2022-30190 | | 
+| 20220929T01:05:37Z | CVE-2022-2588 | A PoC for CVE-2022-2588 that triggers a WARNING | https://github.com/sang-chu/CVE-2022-2588 | | 
+| 20220929T00:52:35Z | cve-2021-21300 | Null | https://github.com/ruifi47/cve-2021-21300-PoC | | 
+| 20220928T15:16:08Z | CVE-2022-30190 | CVE-2022-30190 (Exploit Microsoft) | https://github.com/flux10n/CVE-2022-30190 | | 
+| 20220928T14:32:42Z | CVE-2022-40490 | Tiny File Manager v2.4.7 and below are vulnerable to Cross Site Scripting | https://github.com/whitej3rry/CVE-2022-40490 | | 
+| 20220928T14:29:21Z | CVE-2022-40916 | Null | https://github.com/whitej3rry/CVE-2022-40916 | | 
+| 20220928T14:11:30Z | CVE-2022-3236 | New 0day sophos firewall(userportal and webadmin) remote code execution cv 9.8 | https://github.com/Ziggy78/CVE-2022-3236-RCE-POC | | 
+| 20220928T14:02:05Z | CVE-2022-26809 | metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445 | https://github.com/Ziggy78/CVE-2022-26809-RCE | | 
 | 20220928T10:09:49Z | CVE-2022-39197 | CVE-2022-39197 漏洞补丁. CVE-2022-39197 Vulnerability Patch.  | https://github.com/burpheart/CVE-2022-39197-patch | | 
 | 20220928T08:07:21Z | CVE-2022-36934 | tool for exploiting whatsapp rce | https://github.com/d4rk0x00/CVE-2022-36934-POC | | 
 | 20220928T07:48:26Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Xu0Tex1/CVE-2022-3236 | | 
-| 20220928T07:14:44Z | CVE-2022-36934 | An integer overflow in WhatsApp that results in remote code execution in an established video call. | https://github.com/F1uk369/CVE-2022-36934 | | 
-| 20220928T06:47:48Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/Xu0Tex1/CVE-2022-32548-RCE-POC | | 
-| 20220928T01:28:53Z | CVE-2022-20841 | Cisco Small Business RCE PoC + [included mass exploiter and scanner] | https://github.com/c0resploit/CVE-2022-20841 | | 
-| 20220928T01:28:24Z | CVE-2022-25845 | Fastjson exploit + PoC | https://github.com/c0resploit/CVE-2022-25845 | | 
-| 20220928T01:28:22Z | CVE-2022-32548 | DrayTek Vigor Exploit + PoC | https://github.com/c0resploit/CVE-2022-32548 | | 
-| 20220928T01:28:09Z | CVE-2021-44158 | ASUS router exploit + PoC | https://github.com/c0resploit/CVE-2021-44158 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220928T12:11:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8127 | 272| 
-| 20220928T03:37:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2075 | 585| 
+| 20220928T15:54:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8129 | 272| 
+| 20220928T15:08:15Z | Null | https://github.com/softeg-klee/softeg-klee.github.io | 0 | 0| 
+| 20220928T13:39:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2076 | 585| 
 | 20220927T17:05:58Z | python-1-Ethan-Klee created by GitHub Classroom | https://github.com/YSHS-APCSP-2022/python-1-Ethan-Klee | 0 | 0| 
 | 20220927T15:26:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 87 | 1| 
 | 20220927T15:25:31Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 13 | 0| 
 | 20220926T13:52:29Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 9 | 0| 
-| 20220926T06:29:45Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 259 | 44| 
+| 20220926T06:29:45Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 259 | 45| 
 | 20220926T03:25:32Z | Null | https://github.com/crcady/klee-utils | 0 | 0| 
 | 20220923T06:41:04Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 52 | 12| 
-| 20220922T08:37:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 26 | 1| 
 
 
 # s2e on Github 推荐
@@ -89,22 +89,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220928T12:32:31Z | CVE-2022-30190 (Exploit Microsoft) | https://github.com/flux10n/CVE-2022-30190 | 2 | 1| 
-| 20220928T12:26:51Z | Pentesting demonstration materials for Engr 100. Goes over what a simple pentest is, and goes through the process of wifi exploitation, recon, and exploitation of a vulnerable device. | https://github.com/BettridgeKameron/Engr100-Pentesting-Demo | 0 | 0| 
-| 20220928T12:23:36Z | Null | https://github.com/unCodeBoss/exploit-codes | 0 | 0| 
-| 20220928T12:21:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-tsre-build-e2e-akrr-exploit-have | 0 | 0| 
-| 20220928T12:16:40Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12086 | 2073| 
-| 20220928T12:03:29Z | Hacking the most viewed NFT marketplace tutorial on youtube | https://github.com/Shinpooo/nft-marketplace-exploit | 0 | 0| 
-| 20220928T12:01:42Z | Convertion d%un fichier NTriples en un fichier json exploitable par l%application graph-triplets | https://github.com/PierreLabs/nt2json | 0 | 0| 
-| 20220928T11:39:40Z | 一款结构简单、模块化的漏洞利用框架，用于研究学习，目前正在开发起步阶段 | https://github.com/tib36/Nokali-Kit | 2 | 0| 
-| 20220928T11:24:05Z | the Colosploit framework is a roblox exploitation tool used for beaming roblox accounts | https://github.com/LuaR0bloz/Colosploit | 2 | 0| 
-| 20220928T10:15:21Z | Null | https://github.com/lonewolf827/zeroday-link-exploit | 0 | 0| 
+| 20220929T00:40:11Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1 | 1 | 0| 
+| 20220929T00:39:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1 | 1 | 0| 
+| 20220929T00:38:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1 | 1 | 0| 
+| 20220928T23:52:12Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7693 | 1786| 
+| 20220928T23:40:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12085 | 2073| 
+| 20220928T22:55:58Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4904 | 680| 
+| 20220928T22:25:41Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4015 | 691| 
+| 20220928T22:24:48Z | A plugin for Team Fortress 2 that restores the infamous Ap-Sap voice line spam exploit | https://github.com/Mikusch/wheatley-spam | 0 | 0| 
+| 20220928T21:46:36Z | Trying to figure out how to write code in C and call it in Python to exploit the benefits and avoid the drawbacks of both languages with minimal overhead. | https://github.com/Th3WarPheonix/Python_C_Binding | 0 | 0| 
+| 20220928T21:29:23Z | external server crasher for any* community server | https://github.com/9hb/server-exploiter | 2 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220928T04:46:31Z | hiphp - free & open source project for create a BackDoor to control php-based sites In the normal internet or sites in The Onion Router (tor network). | https://github.com/yasserbdj96/hiphp | 22 | 8| 
+| 20220928T20:26:10Z | hiphp - free & open source project for create a BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
+| 20220928T17:55:12Z | [FINAL] NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 2 | 0| 
+| 20220928T14:45:19Z | Null | https://github.com/christopher-james/vsftpd-backdoored | 0 | 0| 
 | 20220927T18:26:31Z | More bind and reverse shells! This time written in Rust. | https://github.com/LukeDSchenk/rust-backdoors | 15 | 3| 
 | 20220927T17:34:37Z | Simple reverse and bind shells written in Go. | https://github.com/LukeDSchenk/go-backdoors | 22 | 12| 
 | 20220927T17:27:53Z | Velt: Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
@@ -112,16 +114,14 @@
 | 20220927T15:37:49Z | It%s Just Backdoor Configuration for the security etc. Btw If There%s Error In Script Then Please Tell Me! | https://github.com/TheSpookyTester/Backdoor-configuration | 0 | 0| 
 | 20220927T12:58:04Z | Null | https://github.com/theozebua/teecoder-backdoor | 1 | 0| 
 | 20220927T09:57:20Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1780 | 410| 
-| 20220926T19:17:14Z | A python backdoor project for hacking study purpose | https://github.com/erionrb/python_backdoor | 0 | 0| 
-| 20220926T17:15:04Z | Null | https://github.com/NativoFrancesco/rs_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220928T17:01:01Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3128 | 439| 
+| 20220928T13:39:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2076 | 585| 
 | 20220928T07:13:12Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 580 | 103| 
-| 20220928T04:28:22Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3127 | 439| 
-| 20220928T03:37:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2075 | 585| 
 | 20220927T05:18:08Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 46 | 23| 
 | 20220926T13:30:11Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 30 | 20| 
 | 20220925T23:35:58Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 16 | 2| 
