@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20220928T01:18:28Z | Null | https://github.com/aidantr/FuzzyCRegression.jl | 0 | 0| 
-| 20220928T01:01:16Z | Null | https://github.com/battaprikshit/Web-Fuzzer | 0 | 0| 
-| 20220928T00:47:13Z | This is a repository created using the template given for the XFC. | https://github.com/DaniLazaro97/ExplainableFuzzyController-XFCompetition | 0 | 0| 
-| 20220928T00:43:41Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 192 | 26| 
-| 20220927T19:21:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7882 | 1701| 
-| 20220927T18:32:22Z | Null | https://github.com/AxelFuzzi/ProyectoFinalReactHardwareOnlineFuzzi | 0 | 0| 
-| 20220927T18:17:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1030 | 119| 
-| 20220927T12:37:44Z | Null | https://github.com/sezeranoJchrisostome/fuzzy-kmarket | 1 | 0| 
-| 20220927T12:29:30Z | A Vim plugin to add fuzzy search capabilities | https://github.com/eranfrie/fuzzy.vim | 0 | 0| 
-| 20220927T12:21:39Z | Null | https://github.com/TinusTinus98/fuzzy_numbers | 0 | 0| 
+| 20220929T02:00:40Z | Pi10t - continuous fuzzing for Advanced Auto-Driving Systems software. 自动驾驶系统漏洞列表 | https://github.com/Charmve/Pi10t | 0 | 0| 
+| 20220929T01:58:42Z | A tiny, efficient, fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 15 | 1| 
+| 20220929T00:26:59Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1757 | 200| 
+| 20220928T23:59:12Z | T | https://github.com/xMarcos-v/fuzzy-enigma | 0 | 0| 
+| 20220928T23:34:07Z | basic imitation fuzzing over traces in gridworld | https://github.com/mattelacqua/imitation-fuzzing | 0 | 0| 
+| 20220928T21:51:54Z | Null | https://github.com/google/fuzztest | 15 | 0| 
+| 20220928T21:45:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7886 | 1702| 
+| 20220928T13:33:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4837 | 502| 
+| 20220928T08:34:27Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 172 | 49| 
+| 20220928T02:11:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1031 | 120| 
 
 
 
