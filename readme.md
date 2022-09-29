@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20220929T12:08:49Z | Null | https://github.com/AyyaD5/exploitV1 | 0 | 0| 
+| 20220929T12:07:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4346 | 651| 
 | 20220929T12:02:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-e2e-demo-gtck-occur-exploit | 0 | 0| 
 | 20220929T11:55:40Z | AnnoMi is exploited to generate synthetic datasets in Motivational Interviewing | https://github.com/vsrana-ai/Augmenting-AnnoMI | 0 | 0| 
 | 20220929T11:46:05Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4910 | 681| 
 | 20220929T11:41:26Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4014 | 691| 
 | 20220929T11:39:03Z | I leak the new version of NetCat using a new exploit in python! | https://github.com/DarkVador33/NetCat-NEW-VERSION-LEAK | 0 | 0| 
-| 20220929T10:36:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4345 | 651| 
 | 20220929T09:57:24Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 228 | 51| 
 | 20220929T09:31:23Z | Null | https://github.com/imanbanda/SeriousSam-Vulnerability-exploitation-and-mitigation | 0 | 0| 
 | 20220929T08:49:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 529 | 141| 
-| 20220929T08:22:21Z | Bayesian predictive model for personalized treatment selection for new untreated patients, which leverages known predictive and prognostic biomarkers. In particular, predictive biomarkers are exploited to inform a product partition model with covariates (PPMx) to obtain homogeneous clusters. | https://github.com/mattpedone/treatppmx | 0 | 0| 
 
 
 # backdoor on Github 推荐
