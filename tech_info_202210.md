@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221002T01:57:33Z | Exploitable drivers, you know what I mean | https://github.com/CaledoniaProject/drivers-binaries | 11 | 4| 
 | 20221002T00:53:18Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9460 | 1552| 
 | 20221002T00:18:08Z | Scripts used for exploit command injection vulnerabilities | https://github.com/airrera/cmdi_scripts | 0 | 0| 
 | 20221002T00:10:00Z | Customizable lazy exploit pattern utility. | https://github.com/NoviceLive/pat | 13 | 6| 
@@ -54,7 +55,6 @@
 | 20221001T23:03:33Z | Exploits I developed for iTestServer. | https://github.com/isHaacK/iTestServer-Exploits | 0 | 0| 
 | 20221001T23:01:57Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | 5 | 1| 
 | 20221001T22:49:22Z | LeafsDev Exploit for roblox | https://github.com/LeafsDev/Leafploitss | 0 | 0| 
-| 20221001T21:39:25Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/IchiGo1339/GPay-balance-exploiter-by-VenomX | 1 | 0| 
 
 
 # backdoor on Github 推荐
