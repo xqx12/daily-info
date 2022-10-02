@@ -61,7 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221002T11:41:17Z | Null | https://github.com/p4tq/Hikivision-backdoor-scanner-and-snapshot-saver-YWRtaW46MTEK | 0 | 0| 
+| 20221002T12:08:39Z | Null | https://github.com/p4tq/Hikivision-backdoor-scanner-and-snapshot-saver-YWRtaW46MTEK | 0 | 0| 
 | 20221002T11:29:42Z | hiphp - free & open source project for create a BackDoor to control php-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
 | 20221002T04:25:03Z | A tool for hacking. | https://github.com/flux10n/IndoXploit-Shell | 4 | 0| 
 | 20221001T22:17:21Z | [NeurIPS 2022] %Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets% by Ruisi Cai*, Zhenyu Zhang*, Tianlong Chen, Xiaohan Chen, Zhangyang Wang | https://github.com/VITA-Group/Random-Shuffling-BackdoorDetect | 3 | 0| 
