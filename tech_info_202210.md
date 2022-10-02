@@ -85,7 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221002T01:45:14Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 620 | 8| 
+| 20221002T01:55:55Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 621 | 8| 
 | 20221002T01:41:32Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1259 | 247| 
 | 20221002T01:31:49Z | Null | https://github.com/azuddin/fuzzy-octo-pancake | 0 | 0| 
 | 20221002T01:26:40Z | Null | https://github.com/hansalemaos/a_pandas_ex_fuzz | 0 | 0| 
