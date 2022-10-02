@@ -86,7 +86,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221001T23:26:27Z | Config files for my GitHub profile. | https://github.com/FuzzyNewt/fuzzynewt.github.io | 0 | 0| 
-| 20221001T23:25:12Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42012 | 21061| 
 | 20221001T19:52:37Z | Python Codes for Fuzzy AND\OR Neurons | https://github.com/mjdateeq/FuzzyNeurons | 0 | 0| 
 | 20221001T18:17:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3074 | 609| 
 | 20221001T16:11:18Z | duty | https://github.com/guojing91/fuzzy-couscous | 0 | 0| 
@@ -95,6 +94,7 @@
 | 20221001T09:44:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3036 | 361| 
 | 20221001T09:41:30Z | Null | https://github.com/thaliyadhu/fuzzy-enigma | 0 | 0| 
 | 20221001T09:15:43Z | Null | https://github.com/DodoPasha/fuzzy-octo-pancake | 0 | 0| 
+| 20221001T08:24:41Z | Null | https://github.com/5MysterySD/fuzzy-octo-adventure | 1 | 0| 
 
 
 
