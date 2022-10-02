@@ -85,10 +85,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221002T01:41:32Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1259 | 246| 
+| 20221002T01:45:14Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 620 | 8| 
+| 20221002T01:41:32Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1259 | 247| 
 | 20221002T01:31:49Z | Null | https://github.com/azuddin/fuzzy-octo-pancake | 0 | 0| 
 | 20221002T01:26:40Z | Null | https://github.com/hansalemaos/a_pandas_ex_fuzz | 0 | 0| 
-| 20221002T01:26:15Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 619 | 8| 
 | 20221002T00:37:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42013 | 21062| 
 | 20221002T00:27:57Z | Null | https://github.com/u1f383/fuzzing-learning-in-30-days | 9 | 2| 
 | 20221001T23:26:27Z | Config files for my GitHub profile. | https://github.com/FuzzyNewt/fuzzynewt.github.io | 0 | 0| 
