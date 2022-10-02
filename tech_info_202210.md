@@ -89,7 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221002T12:27:52Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 662 | 11| 
+| 20221002T12:38:32Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 663 | 11| 
 | 20221002T12:16:38Z | about-fuzzy-broccoli | https://github.com/Vladimir998899/fuzzy-broccoli | 0 | 0| 
 | 20221002T11:03:18Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 18 | 1| 
 | 20221002T10:18:12Z | Null | https://github.com/bloodyhaze69/fuzzy-happiness | 0 | 0| 
