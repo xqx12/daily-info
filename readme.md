@@ -45,7 +45,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221001T23:08:08Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9459 | 1552| 
 | 20221001T23:03:33Z | Exploits I developed for iTestServer. | https://github.com/isHaacK/iTestServer-Exploits | 0 | 0| 
 | 20221001T23:01:57Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | 5 | 1| 
 | 20221001T22:49:22Z | LeafsDev Exploit for roblox | https://github.com/LeafsDev/Leafploitss | 0 | 0| 
@@ -55,6 +54,7 @@
 | 20221001T20:29:27Z | Null | https://github.com/kizza2/NightExploit | 0 | 0| 
 | 20221001T20:21:59Z | Null | https://github.com/kizza2/NightExploit-utils | 0 | 0| 
 | 20221001T16:53:45Z | Simple script for deface site with webdav vulnerabilitie | https://github.com/0xYazuko/WebDav-Exploit | 1 | 0| 
+| 20221001T12:43:04Z | mine | https://github.com/dei2004/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
