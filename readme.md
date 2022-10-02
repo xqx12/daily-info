@@ -70,7 +70,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221002T12:01:57Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 658 | 11| 
+| 20221002T12:13:40Z | about-fuzzy-broccoli | https://github.com/Vladimir998899/fuzzy-broccoli | 0 | 0| 
+| 20221002T12:12:29Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 659 | 11| 
 | 20221002T11:03:18Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 18 | 1| 
 | 20221002T10:18:12Z | Null | https://github.com/bloodyhaze69/fuzzy-happiness | 0 | 0| 
 | 20221002T09:39:44Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3043 | 362| 
@@ -79,7 +80,6 @@
 | 20221002T05:40:26Z | A fuzzing framework for blockchain consensus protocols | https://github.com/ConsensusFuzz/LOKI | 0 | 0| 
 | 20221002T01:41:32Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1259 | 246| 
 | 20221002T01:31:49Z | Null | https://github.com/azuddin/fuzzy-octo-pancake | 0 | 0| 
-| 20221002T01:26:40Z | Null | https://github.com/hansalemaos/a_pandas_ex_fuzz | 0 | 0| 
 
 
 
