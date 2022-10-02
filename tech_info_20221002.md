@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221002T12:38:56Z | Random PowerShell scripts mainly focused on post-exploitation capabilities | https://github.com/tmenochet/PowerUtils | 4 | 0| 
 | 20221002T12:32:07Z | Exploit Development  | https://github.com/0x34d/Exploit-Development | 0 | 0| 
 | 20221002T12:29:22Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1158 | 105| 
 | 20221002T11:59:41Z | Vulnerability Exploitation | https://github.com/Sore-Bloody/YaExGaP0cLan | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20221002T09:13:31Z | Google Map Api Key Exploiter | https://github.com/akhilkoradiya/GM-Key-Exploiter | 0 | 0| 
 | 20221002T09:00:42Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 7471 | 1961| 
 | 20221002T08:48:46Z | 888 RAT 1.2.4 Latest Version Lifetime – 2022 | https://github.com/Jennahacker/888-RAT | 0 | 0| 
-| 20221002T04:41:22Z | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | 4 | 3| 
 
 
 # backdoor on Github 推荐
