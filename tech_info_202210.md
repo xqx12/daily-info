@@ -49,13 +49,13 @@
 | 20221002T11:59:41Z | Vulnerability Exploitation | https://github.com/Sore-Bloody/YaExGaP0cLan | 0 | 0| 
 | 20221002T11:12:44Z | Exploit Development  | https://github.com/0x34d/Exploit-Development | 0 | 0| 
 | 20221002T09:52:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4363 | 656| 
+| 20221002T09:25:23Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12105 | 2075| 
 | 20221002T09:22:29Z | A collection of proof-of-concept exploit scripts written by the STAR Labs team for various CVEs that they discovered or found by others. | https://github.com/star-sg/CVE | 95 | 32| 
 | 20221002T09:13:31Z | Google Map Api Key Exploiter | https://github.com/akhilkoradiya/GM-Key-Exploiter | 0 | 0| 
 | 20221002T09:00:42Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 7471 | 1961| 
 | 20221002T08:48:46Z | 888 RAT 1.2.4 Latest Version Lifetime – 2022 | https://github.com/Jennahacker/888-RAT | 0 | 0| 
 | 20221002T04:41:22Z | A collection of netmd exploits usable with netmd-js | https://github.com/asivery/netmd-exploits | 4 | 3| 
 | 20221002T03:13:37Z | . مشروع يهدف لصنع برمجية خبيثة متكاملة  | https://github.com/justalghamdi/dvRAT | 25 | 5| 
-| 20221002T01:57:33Z | Exploitable drivers, you know what I mean | https://github.com/CaledoniaProject/drivers-binaries | 11 | 4| 
 
 
 # backdoor on Github 推荐
