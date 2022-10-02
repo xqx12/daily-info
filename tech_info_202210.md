@@ -45,6 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221002T00:10:00Z | Customizable lazy exploit pattern utility. | https://github.com/NoviceLive/pat | 13 | 6| 
+| 20221002T00:09:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t | 1 | 0| 
 | 20221002T00:08:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-t | 1 | 0| 
 | 20221002T00:07:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-t | 1 | 0| 
 | 20221001T23:58:35Z | Scripts used for exploit command injection vulnerabilities | https://github.com/airrera/cmdi_scripts | 0 | 0| 
@@ -53,8 +55,6 @@
 | 20221001T23:01:57Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | 5 | 1| 
 | 20221001T22:49:22Z | LeafsDev Exploit for roblox | https://github.com/LeafsDev/Leafploitss | 0 | 0| 
 | 20221001T21:39:25Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/IchiGo1339/GPay-balance-exploiter-by-VenomX | 1 | 0| 
-| 20221001T21:28:57Z | Payload Creator for Operating Systems and Programming Language | https://github.com/mython-dev/mythical-payload | 0 | 0| 
-| 20221001T21:16:24Z | boostreaper | https://github.com/kizza2/NightExploit-download | 0 | 0| 
 
 
 # backdoor on Github 推荐
