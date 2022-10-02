@@ -16,9 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221002T12:29:02Z | CVE-2022-41082 | CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins | https://github.com/krc0m/CVE-2022-41082 | | 
 | 20221002T12:01:06Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
 | 20221002T09:54:26Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
-| 20221002T08:51:59Z | CVE-2022-41082 | CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins | https://github.com/krc0m/CVE-2022-41082 | | 
 | 20221002T08:44:26Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
 
 

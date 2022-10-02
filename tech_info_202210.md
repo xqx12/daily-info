@@ -17,9 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221002T12:29:02Z | CVE-2022-41082 | CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins | https://github.com/krc0m/CVE-2022-41082 | | 
 | 20221002T12:01:06Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
 | 20221002T09:54:26Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
-| 20221002T08:51:59Z | CVE-2022-41082 | CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins | https://github.com/krc0m/CVE-2022-41082 | | 
 | 20221002T08:44:26Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
 | 20221001T16:02:45Z | CVE-2022-35914 | Null | https://github.com/cosad3s/CVE-2022-35914-poc | | 
 | 20221001T15:28:11Z | CVE-2022-3236 | unauthenticated remote code execution in userportal and webadmin component of sophos firewall | https://github.com/sevous/CVE-2022-3236-RCE | | 
