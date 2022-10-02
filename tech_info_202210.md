@@ -85,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221002T01:22:46Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 618 | 8| 
+| 20221002T01:31:49Z | Null | https://github.com/azuddin/fuzzy-octo-pancake | 0 | 0| 
+| 20221002T01:26:40Z | Null | https://github.com/hansalemaos/a_pandas_ex_fuzz | 0 | 0| 
+| 20221002T01:26:15Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 619 | 8| 
+| 20221002T01:24:40Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1259 | 246| 
 | 20221002T00:37:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42013 | 21062| 
 | 20221002T00:27:57Z | Null | https://github.com/u1f383/fuzzing-learning-in-30-days | 9 | 2| 
 | 20221001T23:26:27Z | Config files for my GitHub profile. | https://github.com/FuzzyNewt/fuzzynewt.github.io | 0 | 0| 
 | 20221001T19:52:37Z | Python Codes for Fuzzy AND\OR Neurons | https://github.com/mjdateeq/FuzzyNeurons | 0 | 0| 
 | 20221001T18:17:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3074 | 609| 
 | 20221001T16:11:18Z | duty | https://github.com/guojing91/fuzzy-couscous | 0 | 0| 
-| 20221001T15:43:18Z | nedis (NetDiscovery) is a fuzzer for web directories | https://github.com/fxttr/nedis | 0 | 0| 
-| 20221001T12:06:18Z | Null | https://github.com/jvsouzx/fuzzy | 0 | 0| 
-| 20221001T09:44:49Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3036 | 361| 
 
 
 
