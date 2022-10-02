@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221002T00:06:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-t | 0 | 0| 
 | 20221001T23:58:35Z | Scripts used for exploit command injection vulnerabilities | https://github.com/airrera/cmdi_scripts | 0 | 0| 
 | 20221001T23:08:08Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9459 | 1552| 
 | 20221001T23:03:33Z | Exploits I developed for iTestServer. | https://github.com/isHaacK/iTestServer-Exploits | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20221001T21:28:57Z | Payload Creator for Operating Systems and Programming Language | https://github.com/mython-dev/mythical-payload | 0 | 0| 
 | 20221001T21:16:24Z | boostreaper | https://github.com/kizza2/NightExploit-download | 0 | 0| 
 | 20221001T20:29:27Z | Null | https://github.com/kizza2/NightExploit | 0 | 0| 
-| 20221001T20:21:59Z | Null | https://github.com/kizza2/NightExploit-utils | 0 | 0| 
 
 
 # backdoor on Github 推荐
