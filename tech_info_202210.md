@@ -45,11 +45,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221002T00:18:08Z | Scripts used for exploit command injection vulnerabilities | https://github.com/airrera/cmdi_scripts | 0 | 0| 
 | 20221002T00:10:00Z | Customizable lazy exploit pattern utility. | https://github.com/NoviceLive/pat | 13 | 6| 
 | 20221002T00:09:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-t | 1 | 0| 
 | 20221002T00:08:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-t | 1 | 0| 
 | 20221002T00:07:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-t | 1 | 0| 
-| 20221001T23:58:35Z | Scripts used for exploit command injection vulnerabilities | https://github.com/airrera/cmdi_scripts | 0 | 0| 
 | 20221001T23:08:08Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9459 | 1552| 
 | 20221001T23:03:33Z | Exploits I developed for iTestServer. | https://github.com/isHaacK/iTestServer-Exploits | 0 | 0| 
 | 20221001T23:01:57Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/NoahCodingStuff/Discord-VoiceCall-exploit | 5 | 1| 
