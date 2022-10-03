@@ -84,7 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221003T12:31:15Z | Null | https://github.com/ikyycode/fuzzy | 0 | 0| 
+| 20221003T12:39:23Z | Sekilas program ini, Menerapkan metode Fuzzy yang Bertujuan untuk Mencari Nilai Terbaik. | https://github.com/ikyycode/fuzzy | 0 | 0| 
 | 20221003T12:22:38Z | Null | https://github.com/hina50/fuzzy-system | 0 | 0| 
 | 20221003T11:48:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3079 | 610| 
 | 20221003T11:24:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4362 | 1056| 
