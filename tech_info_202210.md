@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T01:47:22Z | 面向数据库配置的定向灰盒模糊测试 | https://github.com/likaiam/confFuzz | 0 | 0| 
 | 20221003T01:39:02Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 728 | 12| 
 | 20221003T01:34:47Z | Null | https://github.com/google/fuzztest | 30 | 1| 
 | 20221003T00:56:10Z | Receipe | https://github.com/prashanth92477/fuzzy-app | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20221002T19:45:44Z | Null | https://github.com/addy4/fuzzy-logic | 0 | 0| 
 | 20221002T19:17:42Z | My notes on Fuzzy Logic studying | https://github.com/dpalmasan/fuzzy-logic-notes | 0 | 0| 
 | 20221002T19:10:31Z | A GUI python application to brute-force search for personal information | https://github.com/HorridModz/FuzzyDox | 0 | 0| 
-| 20221002T19:09:05Z | Experimental tools related to FuzzySearch | https://github.com/Syfaro/fuzzysearch-next | 5 | 0| 
 
 
 
