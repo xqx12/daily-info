@@ -24,6 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:13:36Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI- | | 
 | 20221003T12:09:27Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
 | 20221003T10:49:10Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
 | 20221003T10:19:11Z | CVE-2020-28948 | Null | https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949 | | 
@@ -33,7 +34,6 @@
 | 20221002T19:45:20Z | CVE-2021-3493 | Null | https://github.com/Senz4wa/CVE-2021-3493 | | 
 | 20221002T19:43:01Z | CVE-2021-4034 | Null | https://github.com/Senz4wa/CVE-2021-4034 | | 
 | 20221002T19:35:37Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
-| 20221002T19:26:27Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
 
 
 # klee on Github 推荐
