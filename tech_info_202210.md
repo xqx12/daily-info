@@ -90,7 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221003T01:16:09Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 725 | 12| 
+| 20221003T01:24:54Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 726 | 12| 
 | 20221003T00:56:10Z | Receipe | https://github.com/prashanth92477/fuzzy-app | 0 | 0| 
 | 20221002T23:28:39Z | Null | https://github.com/zach8086/fuzzy-octo-eureka.github.io | 0 | 0| 
 | 20221002T22:23:03Z | API For MyFursona | https://github.com/MyFursona-Project/Fuzzy-Gopher | 1 | 0| 
