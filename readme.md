@@ -23,8 +23,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221003T12:42:48Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
-| 20221003T12:35:30Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
+| 20221003T12:49:16Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
+| 20221003T12:48:48Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
 | 20221003T12:31:17Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI | | 
 | 20221003T12:27:02Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI- | | 
 | 20221003T12:16:11Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
@@ -37,8 +37,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:47:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8164 | 275| 
 | 20221003T12:38:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 89 | 1| 
-| 20221003T06:50:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8163 | 275| 
 
 
 # s2e on Github 推荐
