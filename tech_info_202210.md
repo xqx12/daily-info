@@ -101,6 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:43:21Z | Fuzzer that searches for vulnerabilities like Spectre and Meltdown in CPUs | https://github.com/microsoft/sca-fuzzer | 19 | 9| 
 | 20221003T12:39:23Z | Sekilas program ini, Menerapkan metode Fuzzy yang Bertujuan untuk Mencari Nilai Terbaik. | https://github.com/ikyycode/fuzzy | 0 | 0| 
 | 20221003T12:22:38Z | Null | https://github.com/hina50/fuzzy-system | 0 | 0| 
 | 20221003T11:48:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3079 | 610| 
@@ -110,7 +111,6 @@
 | 20221003T11:05:19Z | Null | https://github.com/Infectu/fuzzy-octo-broccoli | 0 | 0| 
 | 20221003T10:46:11Z | BlueHatIL 2020 - Staying # and Bringing Covert Injection Tradecraft to .NET | https://github.com/73t178184/FuzzySecurityc | 0 | 0| 
 | 20221003T08:02:50Z | Null | https://github.com/pennyfyne/Fuzzy-adventure | 0 | 0| 
-| 20221003T07:48:03Z | Null | https://github.com/valeriecarter543546/fuzzy-bassoon | 0 | 0| 
 
 
 
