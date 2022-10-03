@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T00:56:10Z | Receipe | https://github.com/prashanth92477/fuzzy-app | 0 | 0| 
 | 20221002T23:28:39Z | Null | https://github.com/zach8086/fuzzy-octo-eureka.github.io | 0 | 0| 
 | 20221002T22:23:03Z | API For MyFursona | https://github.com/MyFursona-Project/Fuzzy-Gopher | 1 | 0| 
 | 20221002T19:48:04Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1522 | 68| 
@@ -99,7 +100,6 @@
 | 20221002T19:09:05Z | Experimental tools related to FuzzySearch | https://github.com/Syfaro/fuzzysearch-next | 5 | 0| 
 | 20221002T14:16:19Z | Null | https://github.com/sahil-binekar/fuzzy-robot | 0 | 0| 
 | 20221002T12:57:35Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 667 | 11| 
-| 20221002T12:16:38Z | about-fuzzy-broccoli | https://github.com/Vladimir998899/fuzzy-broccoli | 0 | 0| 
 
 
 
