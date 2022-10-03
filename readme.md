@@ -21,7 +21,6 @@
 | 20221002T19:35:37Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
 | 20221002T19:26:27Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
 | 20221002T15:29:21Z | CVE-2022-27925 | A loader for zimbra 2022 rce (cve-2022-27925) | https://github.com/Inplex-sys/CVE-2022-27925 | | 
-| 20221002T12:59:17Z | CVE-2022-35914 | Null | https://github.com/cosad3s/CVE-2022-35914-poc | | 
 | 20221002T12:29:02Z | CVE-2022-41082 | CVE-2022-41082 is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins | https://github.com/krc0m/CVE-2022-41082 | | 
 | 20221002T09:54:26Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
 | 20221002T08:44:26Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
