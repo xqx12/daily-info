@@ -24,6 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:35:30Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
 | 20221003T12:31:17Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI | | 
 | 20221003T12:27:02Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI- | | 
 | 20221003T12:16:11Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
@@ -33,12 +34,12 @@
 | 20221003T05:11:55Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyShell | https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC | | 
 | 20221003T02:44:37Z | CVE-2022-35914 | Null | https://github.com/cosad3s/CVE-2022-35914-poc | | 
 | 20221002T19:45:20Z | CVE-2021-3493 | Null | https://github.com/Senz4wa/CVE-2021-3493 | | 
-| 20221002T19:43:01Z | CVE-2021-4034 | Null | https://github.com/Senz4wa/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:38:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 89 | 1| 
 | 20221003T06:50:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8163 | 275| 
 | 20221002T16:10:26Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 39 | 1| 
 | 20221002T08:00:48Z | Null | https://github.com/IsaiahDaniel/kleencode | 0 | 0| 
