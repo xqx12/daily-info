@@ -23,8 +23,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:51:18Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
 | 20221003T12:49:16Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
-| 20221003T12:48:48Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
 | 20221003T12:31:17Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI | | 
 | 20221003T12:27:02Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI- | | 
 | 20221003T12:16:11Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
