@@ -47,8 +47,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T01:41:16Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4917 | 681| 
+| 20221003T01:37:21Z | MultiToolV4 est un Outil d%administration à distance entièrement écrit en c#. Intégré d%un RAT+Grabbeur contrôlé pour Discord avec plus de 40 modules de post-exploitation.  Le logiciel reunis toutes les fonctionnalités des meilleurs grabbeur discord en un outil, comme ItroublvTSC, pirateStealer, et le BbyStealer. (Anti webhook deleter intégrée+Obfuscator)   La fonctionnalité première est de pouvoir token grab sur discord avec une image, un gif, un mp4 ou fichier mp3. En gros lorsque la personne clique sur l%image, /gif/video que vous lui envoyer dans la conversation discord,  que vous pouvez générer avec le multitool, ça inject le grabber, puis tu reçois : son token, ses badges, ses serveur ou il est Owner, son email paypal, ip, credit card,  et mot de passe et cookie google, et son numéro de téléphone sur ton serveur/webhook !                                                                                                                Simple de convaincre quelqu%un de cliquer sur une image,  plutôt que lui faire installer et executer un .exe , ou un phishing par exemple, logique. | https://github.com/AirDrift92140/MultiToolV4.1 | 0 | 0| 
 | 20221003T01:29:07Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 22 | 0| 
-| 20221003T01:11:29Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4917 | 681| 
 | 20221003T00:32:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | 1 | 0| 
 | 20221003T00:31:36Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-b | 1 | 0| 
 | 20221003T00:30:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-b | 1 | 0| 
@@ -56,7 +57,6 @@
 | 20221002T22:52:55Z | Discord doesn%t update manually in Manjaro and Arch Linux. It makes a annoying display to download the update but it doesn%t work. So found a workaround from the forum exploiting the build_json file- | https://github.com/mdabir1203/Discord_Update_Fix_Manjaro-Mac | 0 | 0| 
 | 20221002T21:30:26Z | Null | https://github.com/agarmash/FroggerBeyondExploit | 0 | 0| 
 | 20221002T21:24:28Z | Challenges for Binary Exploitation Workshop | https://github.com/kablaa/CTF-Workshop | 511 | 105| 
-| 20221002T21:02:43Z | Notebooks used to extract data from the SEEDS dataset, train a CNN model from it and exploit obtained model. | https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition | 0 | 0| 
 
 
 # backdoor on Github 推荐
