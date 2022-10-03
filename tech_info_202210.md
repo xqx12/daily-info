@@ -55,7 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221003T11:56:05Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 30 | 3| 
+| 20221003T12:09:27Z | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | 0 | 0| 
+| 20221003T12:08:16Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 30 | 3| 
 | 20221003T11:53:37Z | In-game command bar for exploiters idk eeeee *cries* | https://github.com/RVCDv/eSyn | 0 | 0| 
 | 20221003T11:46:21Z | Exploit Development  | https://github.com/0x34d/Exploit-Development | 0 | 0| 
 | 20221003T10:19:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3662 | 449| 
@@ -64,7 +65,6 @@
 | 20221003T09:57:15Z | Scripts that i used to exploit some web/mobile app  vulnerabilities during pentests/ctfs | https://github.com/AymanRbati/appsec-scripts | 2 | 0| 
 | 20221003T09:48:34Z | Proof-of-Concept of exploits that may be published | https://github.com/RICSecLab/exploit-poc-public | 2 | 0| 
 | 20221003T08:11:45Z | nothing | https://github.com/sandeep-vatada/exploit | 0 | 0| 
-| 20221003T07:09:36Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4917 | 681| 
 
 
 # backdoor on Github 推荐
