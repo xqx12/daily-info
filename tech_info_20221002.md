@@ -43,7 +43,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221002T23:44:56Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 9 | 0| 
 | 20221002T22:52:55Z | Discord doesn%t update manually in Manjaro and Arch Linux. It makes a annoying display to download the update but it doesn%t work. So found a workaround from the forum exploiting the build_json file- | https://github.com/mdabir1203/Discord_Update_Fix_Manjaro-Mac | 0 | 0| 
 | 20221002T21:30:26Z | Null | https://github.com/agarmash/FroggerBeyondExploit | 0 | 0| 
 | 20221002T21:24:28Z | Challenges for Binary Exploitation Workshop | https://github.com/kablaa/CTF-Workshop | 511 | 105| 
@@ -53,6 +52,7 @@
 | 20221002T12:38:56Z | Random PowerShell scripts mainly focused on post-exploitation capabilities | https://github.com/tmenochet/PowerUtils | 4 | 0| 
 | 20221002T12:32:07Z | Exploit Development  | https://github.com/0x34d/Exploit-Development | 0 | 0| 
 | 20221002T12:29:22Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1158 | 105| 
+| 20221002T11:59:41Z | Vulnerability Exploitation | https://github.com/Sore-Bloody/YaExGaP0cLan | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -70,6 +70,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221002T20:10:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3134 | 440| 
 
 
 # big4 on Github 推荐

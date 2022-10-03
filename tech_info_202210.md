@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221002T23:44:56Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 9 | 0| 
+| 20221003T00:01:26Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 10 | 0| 
 | 20221002T22:52:55Z | Discord doesn%t update manually in Manjaro and Arch Linux. It makes a annoying display to download the update but it doesn%t work. So found a workaround from the forum exploiting the build_json file- | https://github.com/mdabir1203/Discord_Update_Fix_Manjaro-Mac | 0 | 0| 
 | 20221002T21:30:26Z | Null | https://github.com/agarmash/FroggerBeyondExploit | 0 | 0| 
 | 20221002T21:24:28Z | Challenges for Binary Exploitation Workshop | https://github.com/kablaa/CTF-Workshop | 511 | 105| 
@@ -77,9 +77,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221001T04:15:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2083 | 589| 
+| 20221002T20:10:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3134 | 440| 
+| 20221001T04:15:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2083 | 590| 
 | 20221001T02:59:24Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 23 | 4| 
-| 20221001T01:39:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3131 | 439| 
 
 
 # big4 on Github 推荐
