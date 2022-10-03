@@ -24,6 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:09:27Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
 | 20221003T10:49:10Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
 | 20221003T10:19:11Z | CVE-2020-28948 | Null | https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949 | | 
 | 20221003T05:12:11Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC | | 
@@ -33,7 +34,6 @@
 | 20221002T19:43:01Z | CVE-2021-4034 | Null | https://github.com/Senz4wa/CVE-2021-4034 | | 
 | 20221002T19:35:37Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
 | 20221002T19:26:27Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
-| 20221002T15:29:21Z | CVE-2022-27925 | A loader for zimbra 2022 rce (cve-2022-27925) | https://github.com/Inplex-sys/CVE-2022-27925 | | 
 
 
 # klee on Github 推荐
@@ -55,8 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:10:34Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 30 | 3| 
 | 20221003T12:09:27Z | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | 0 | 0| 
-| 20221003T12:08:16Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 30 | 3| 
 | 20221003T11:53:37Z | In-game command bar for exploiters idk eeeee *cries* | https://github.com/RVCDv/eSyn | 0 | 0| 
 | 20221003T11:46:21Z | Exploit Development  | https://github.com/0x34d/Exploit-Development | 0 | 0| 
 | 20221003T10:19:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3662 | 449| 
