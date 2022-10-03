@@ -88,8 +88,8 @@
 | 20221002T19:10:31Z | A GUI python application to brute-force search for personal information | https://github.com/HorridModz/FuzzyDox | 0 | 0| 
 | 20221002T19:09:05Z | Experimental tools related to FuzzySearch | https://github.com/Syfaro/fuzzysearch-next | 5 | 0| 
 | 20221002T14:16:19Z | Null | https://github.com/sahil-binekar/fuzzy-robot | 0 | 0| 
-| 20221002T12:57:35Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 667 | 11| 
 | 20221002T12:16:38Z | about-fuzzy-broccoli | https://github.com/Vladimir998899/fuzzy-broccoli | 0 | 0| 
+| 20221002T11:03:18Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 18 | 1| 
 
 
 
