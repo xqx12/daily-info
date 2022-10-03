@@ -23,6 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:31:17Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI | | 
 | 20221003T12:27:02Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI- | | 
 | 20221003T12:16:11Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
 | 20221003T10:49:10Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
@@ -81,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:31:15Z | Null | https://github.com/ikyycode/fuzzy | 0 | 0| 
 | 20221003T12:22:38Z | Null | https://github.com/hina50/fuzzy-system | 0 | 0| 
 | 20221003T11:48:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3079 | 610| 
 | 20221003T11:24:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4362 | 1056| 
@@ -90,7 +92,6 @@
 | 20221003T10:46:11Z | BlueHatIL 2020 - Staying # and Bringing Covert Injection Tradecraft to .NET | https://github.com/73t178184/FuzzySecurityc | 0 | 0| 
 | 20221003T08:02:50Z | Null | https://github.com/pennyfyne/Fuzzy-adventure | 0 | 0| 
 | 20221003T07:48:03Z | Null | https://github.com/valeriecarter543546/fuzzy-bassoon | 0 | 0| 
-| 20221003T07:43:00Z | Discovery-GraphQL-Endpoint-Fuzzing | https://github.com/Steiner-254/Discovery-GraphQL-Endpoint-Fuzzing | 1 | 0| 
 
 
 
