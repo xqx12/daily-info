@@ -32,8 +32,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T00:09:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8162 | 275| 
 | 20221002T16:10:26Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 39 | 1| 
-| 20221002T13:19:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8161 | 275| 
 | 20221002T08:00:48Z | Null | https://github.com/IsaiahDaniel/kleencode | 0 | 0| 
 | 20221001T12:19:43Z | Null | https://github.com/spookyman69/kleen | 0 | 0| 
 | 20221001T04:15:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2083 | 590| 
@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T00:09:10Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/kmeps4/ps5_403 | 0 | 0| 
 | 20221003T00:06:23Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 13 | 0| 
 | 20221002T22:52:55Z | Discord doesn%t update manually in Manjaro and Arch Linux. It makes a annoying display to download the update but it doesn%t work. So found a workaround from the forum exploiting the build_json file- | https://github.com/mdabir1203/Discord_Update_Fix_Manjaro-Mac | 0 | 0| 
 | 20221002T21:30:26Z | Null | https://github.com/agarmash/FroggerBeyondExploit | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20221002T19:07:31Z | Fall2022 cs161 project 1 writeup. | https://github.com/0xSTF/caltopian-exploits | 0 | 0| 
 | 20221002T12:38:56Z | Random PowerShell scripts mainly focused on post-exploitation capabilities | https://github.com/tmenochet/PowerUtils | 4 | 0| 
 | 20221002T12:32:07Z | Exploit Development  | https://github.com/0x34d/Exploit-Development | 0 | 0| 
-| 20221002T12:29:22Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1158 | 105| 
 
 
 # backdoor on Github 推荐
