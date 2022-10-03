@@ -54,7 +54,7 @@
 | 20221003T09:57:15Z | Scripts that i used to exploit some web/mobile app  vulnerabilities during pentests/ctfs | https://github.com/AymanRbati/appsec-scripts | 2 | 0| 
 | 20221003T09:48:34Z | Proof-of-Concept of exploits that may be published | https://github.com/RICSecLab/exploit-poc-public | 2 | 0| 
 | 20221003T08:11:45Z | nothing | https://github.com/sandeep-vatada/exploit | 0 | 0| 
-| 20221003T02:01:42Z | phpThumb v1.7.9 mass exploiter  | https://github.com/Mantodkaz/phpthumb | 0 | 0| 
+| 20221003T07:09:36Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4917 | 681| 
 
 
 # backdoor on Github 推荐
