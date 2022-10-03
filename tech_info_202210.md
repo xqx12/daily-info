@@ -24,14 +24,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221003T12:56:18Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC | | 
+| 20221003T12:58:48Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC | | 
+| 20221003T12:58:31Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyShell | https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC | | 
+| 20221003T12:56:56Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
+| 20221003T12:56:38Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
 | 20221003T12:51:18Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
-| 20221003T12:49:16Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
 | 20221003T12:31:17Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI | | 
 | 20221003T12:27:02Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI- | | 
-| 20221003T12:16:11Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
 | 20221003T10:19:11Z | CVE-2020-28948 | Null | https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949 | | 
-| 20221003T05:11:55Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyShell | https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC | | 
 | 20221003T02:44:37Z | CVE-2022-35914 | Null | https://github.com/cosad3s/CVE-2022-35914-poc | | 
 | 20221002T19:45:20Z | CVE-2021-3493 | Null | https://github.com/Senz4wa/CVE-2021-3493 | | 
 
@@ -56,8 +56,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T12:56:56Z | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | 1 | 1| 
 | 20221003T12:55:04Z | Null | https://github.com/0x34d/Exploit | 0 | 0| 
-| 20221003T12:16:11Z | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | 0 | 0| 
 | 20221003T12:10:34Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 30 | 3| 
 | 20221003T11:53:37Z | In-game command bar for exploiters idk eeeee *cries* | https://github.com/RVCDv/eSyn | 0 | 0| 
 | 20221003T11:46:21Z | Exploit Development  | https://github.com/0x34d/Exploit-Development | 0 | 0| 
