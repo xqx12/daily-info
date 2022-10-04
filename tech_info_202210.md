@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T00:07:32Z | Null | https://github.com/Dilla444/menentukan-harga-sewa-kamar-kos-menggunakan-metode-Tsukamoto-Logila-Fuzzy- | 0 | 0| 
 | 20221004T00:00:23Z | Test App | https://github.com/prashanth92477/fuzzy_app | 0 | 0| 
 | 20221003T23:50:06Z | Null | https://github.com/kamaluddinprima/SPK-Fuzzy | 0 | 0| 
 | 20221003T23:42:59Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 993 | 21| 
@@ -114,7 +115,6 @@
 | 20221003T22:01:58Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1524 | 68| 
 | 20221003T12:43:21Z | Fuzzer that searches for vulnerabilities like Spectre and Meltdown in CPUs | https://github.com/microsoft/sca-fuzzer | 19 | 9| 
 | 20221003T12:39:23Z | Sekilas program ini, Menerapkan metode Fuzzy yang Bertujuan untuk Mencari Nilai Terbaik. | https://github.com/ikyycode/fuzzy | 0 | 0| 
-| 20221003T12:22:38Z | Null | https://github.com/hina50/fuzzy-system | 0 | 0| 
 
 
 
