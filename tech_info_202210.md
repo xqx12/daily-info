@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221004T01:19:52Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
 | 20221004T00:50:16Z | CVE-2022-26134 | Null | https://github.com/trhacknon/CVE-2022-26134-miam | | 
 | 20221003T20:51:11Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
 | 20221003T20:51:10Z | CVE-2022-27925 | A loader for zimbra 2022 rce (cve-2022-27925) | https://github.com/Inplex-sys/CVE-2022-27925 | | 
@@ -34,7 +35,6 @@
 | 20221003T16:59:06Z | CVE-2022-39959 | Place holder for CVE-2022-39959 | https://github.com/usmarine2141/CVE-2022-39959 | | 
 | 20221003T16:42:19Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
 | 20221003T13:04:09Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
-| 20221003T12:59:43Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
 | 20221003T12:58:48Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC | | 
 
 
@@ -58,7 +58,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T01:05:56Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 317 | 15| 
+| 20221004T01:19:37Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 319 | 15| 
+| 20221004T01:18:53Z | This was my Team%s Submission for 2021 DataJam against Human Exploitation, a data-sciencce hackathon. This submission won the Outstanding Team Award.    | https://github.com/ghbeau/DataJam_2021_Submission | 0 | 0| 
+| 20221004T01:14:55Z | Exploits for games | https://github.com/DaScripted/Exploit | 0 | 0| 
 | 20221004T01:04:18Z | [MLHC 2020] Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts (Jabbour, Fouhey, Kazerooni, Sjoding, Wiens). https://arxiv.org/abs/2009.10132 | https://github.com/MLD3/Deep-Learning-Applied-to-Chest-X-rays-Exploiting-and-Preventing-Shortcuts | 5 | 1| 
 | 20221004T00:59:44Z | A CS Source Engine² for Creating Cheat/Trainers, Debug Valve Code, Exploring hidden game engine features, Exploit Develop, Assembly Analyzer, Network Emulator, Custom Scripting Interface for study and Cloud-based Decompiler for testing (and binary analysis). | https://github.com/keowu/sourceengineexplorer | 2 | 0| 
 | 20221004T00:27:33Z | Create an exploit development environment from a base Linux installation. | https://github.com/voidtutorial/environment | 0 | 0| 
@@ -66,8 +68,6 @@
 | 20221003T22:33:31Z | Roblox exploit scripts. You need them i guess? Well BUCKLE UP!!!!!! YOUR ABOUT TO SEE SOME. | https://github.com/TacoDark/Roblox-Exploit-Websites | 0 | 0| 
 | 20221003T18:57:48Z | Null | https://github.com/Adoherrent/PS5-Exploit | 0 | 0| 
 | 20221003T12:56:56Z | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | 1 | 1| 
-| 20221003T12:55:04Z | Null | https://github.com/0x34d/Exploit | 0 | 0| 
-| 20221003T12:10:34Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 30 | 3| 
 
 
 # backdoor on Github 推荐

@@ -32,9 +32,9 @@
 | 20221003T16:59:06Z | CVE-2022-39959 | Place holder for CVE-2022-39959 | https://github.com/usmarine2141/CVE-2022-39959 | | 
 | 20221003T16:42:19Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
 | 20221003T13:04:09Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
-| 20221003T12:59:43Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
 | 20221003T12:58:48Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC | | 
 | 20221003T12:58:31Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyShell | https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC | | 
+| 20221003T12:56:56Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
 
 
 # klee on Github 推荐
