@@ -58,7 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221003T23:55:11Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 299 | 14| 
+| 20221004T00:01:11Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 300 | 14| 
 | 20221003T23:44:09Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/Mika-Coding/Discord-VoiceCall-Exploit | 1 | 0| 
 | 20221003T22:33:31Z | Roblox exploit scripts. You need them i guess? Well BUCKLE UP!!!!!! YOUR ABOUT TO SEE SOME. | https://github.com/TacoDark/Roblox-Exploit-Websites | 0 | 0| 
 | 20221003T18:57:48Z | Null | https://github.com/Adoherrent/PS5-Exploit | 0 | 0| 
@@ -88,8 +88,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221003T05:52:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 488 | 27| 
-| 20221002T20:10:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3134 | 440| 
+| 20221003T16:27:28Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 47 | 23| 
+| 20221003T13:17:36Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 76 | 16| 
+| 20221003T05:52:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 488 | 28| 
+| 20221002T20:10:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3134 | 441| 
 | 20221001T04:15:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2083 | 591| 
 | 20221001T02:59:24Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 23 | 4| 
 
