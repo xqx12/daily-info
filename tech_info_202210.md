@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T12:16:20Z | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-Microsoft-Exchange-Server- | 0 | 0| 
 | 20221004T12:12:40Z | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-CVE-2022-41040-CVE-2022-41082- | 0 | 0| 
 | 20221004T10:50:10Z | EOLO ADB VP4412 Admin password bypass | https://github.com/Leproide/VP4412_Admin_Exploit | 0 | 0| 
 | 20221004T10:48:45Z |  :beetle: Repository of CVE found by OCD people | https://github.com/Orange-Cyberdefense/CVE-repository | 20 | 9| 
@@ -69,7 +70,6 @@
 | 20221004T02:24:51Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3863 | 959| 
 | 20221004T01:59:16Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 331 | 16| 
 | 20221004T01:57:20Z | Exploits for games | https://github.com/DaScripted/Exploits | 0 | 0| 
-| 20221004T01:57:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 530 | 142| 
 
 
 # backdoor on Github 推荐
