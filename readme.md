@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T12:04:13Z | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-CVE-2022-41040-CVE-2022-41082- | 0 | 0| 
+| 20221004T12:11:57Z | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-CVE-2022-41040-CVE-2022-41082- | 0 | 0| 
 | 20221004T10:50:10Z | EOLO ADB VP4412 Admin password bypass | https://github.com/Leproide/VP4412_Admin_Exploit | 0 | 0| 
 | 20221004T10:48:45Z |  :beetle: Repository of CVE found by OCD people | https://github.com/Orange-Cyberdefense/CVE-repository | 20 | 9| 
 | 20221004T09:14:02Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4920 | 682| 
