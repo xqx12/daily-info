@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T12:38:27Z | pirebok - an adversarial fuzzer | https://github.com/dogancanbakir/pirebok | 0 | 0| 
 | 20221004T11:55:08Z | Example E2E and component Cypress tests for Sudoku game | https://github.com/bahmutov/the-fuzzy-line | 0 | 0| 
 | 20221004T11:46:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4365 | 1057| 
 | 20221004T11:26:15Z | Null | https://github.com/google/fuzztest | 39 | 1| 
@@ -83,7 +84,6 @@
 | 20221004T08:44:24Z | Null | https://github.com/AntoniolopezH/fuzzy-succotash | 0 | 0| 
 | 20221004T08:35:30Z | Null | https://github.com/purplemiata402/fuzzy-spoon | 0 | 0| 
 | 20221004T08:32:37Z | Null | https://github.com/ananthareddy/Fuzzy-Skin-lesion-segmentation | 0 | 0| 
-| 20221004T08:07:12Z | Null | https://github.com/msingh2004/fuzzy-chainsaw | 0 | 0| 
 
 
 
