@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221004T00:50:16Z | CVE-2022-26134 | Null | https://github.com/trhacknon/CVE-2022-26134-miam | | 
 | 20221003T20:51:11Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
 | 20221003T20:51:10Z | CVE-2022-27925 | A loader for zimbra 2022 rce (cve-2022-27925) | https://github.com/Inplex-sys/CVE-2022-27925 | | 
 | 20221003T20:46:53Z | CVE-2022-35914 | Null | https://github.com/cosad3s/CVE-2022-35914-poc | | 
@@ -35,7 +36,6 @@
 | 20221003T13:04:09Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
 | 20221003T12:59:43Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
 | 20221003T12:58:48Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC | | 
-| 20221003T12:58:31Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyShell | https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC | | 
 
 
 # klee on Github 推荐
