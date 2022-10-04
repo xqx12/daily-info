@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T12:18:20Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 0 | 0| 
 | 20221004T12:16:20Z | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-Microsoft-Exchange-Server- | 0 | 0| 
 | 20221004T12:12:40Z | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-CVE-2022-41040-CVE-2022-41082- | 0 | 0| 
 | 20221004T10:50:10Z | EOLO ADB VP4412 Admin password bypass | https://github.com/Leproide/VP4412_Admin_Exploit | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20221004T07:16:06Z | Awesome Splunk SPL hunt queries that can be used to detect the latest vulnerability exploitation attempts & subsequent compromise | https://github.com/west-wind/Threat-Hunting-With-Splunk | 8 | 0| 
 | 20221004T02:24:51Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 3863 | 959| 
 | 20221004T01:59:16Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 331 | 16| 
-| 20221004T01:57:20Z | Exploits for games | https://github.com/DaScripted/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
