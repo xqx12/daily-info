@@ -58,16 +58,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T01:32:57Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 320 | 15| 
+| 20221004T01:37:38Z | Exploits for games | https://github.com/DaScripted/Exploits | 0 | 0| 
+| 20221004T01:36:07Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 322 | 15| 
+| 20221004T01:36:02Z | A CS Source Engine² for Creating Cheat/Trainers, Debug Valve Code, Exploring hidden game engine features, Exploit Develop, Assembly Analyzer, Network Emulator, Custom Scripting Interface for study and Cloud-based Decompiler for testing (and binary analysis). | https://github.com/keowu/sourceengineexplorer | 3 | 0| 
 | 20221004T01:21:18Z | This was my Team%s Submission for 2021 DataJam against Human Exploitation, a data-sciencce hackathon. This submission won the Outstanding Team Award.    | https://github.com/ghbeau/DataJam_2021_Submission | 0 | 0| 
 | 20221004T01:14:55Z | Exploits for games | https://github.com/DaScripted/Exploit | 0 | 0| 
 | 20221004T01:04:18Z | [MLHC 2020] Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts (Jabbour, Fouhey, Kazerooni, Sjoding, Wiens). https://arxiv.org/abs/2009.10132 | https://github.com/MLD3/Deep-Learning-Applied-to-Chest-X-rays-Exploiting-and-Preventing-Shortcuts | 5 | 1| 
-| 20221004T00:59:44Z | A CS Source Engine² for Creating Cheat/Trainers, Debug Valve Code, Exploring hidden game engine features, Exploit Develop, Assembly Analyzer, Network Emulator, Custom Scripting Interface for study and Cloud-based Decompiler for testing (and binary analysis). | https://github.com/keowu/sourceengineexplorer | 2 | 0| 
 | 20221004T00:27:33Z | Create an exploit development environment from a base Linux installation. | https://github.com/voidtutorial/environment | 0 | 0| 
 | 20221003T23:44:09Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/Mika-Coding/Discord-VoiceCall-Exploit | 1 | 0| 
 | 20221003T22:33:31Z | Roblox exploit scripts. You need them i guess? Well BUCKLE UP!!!!!! YOUR ABOUT TO SEE SOME. | https://github.com/TacoDark/Roblox-Exploit-Websites | 0 | 0| 
 | 20221003T18:57:48Z | Null | https://github.com/Adoherrent/PS5-Exploit | 0 | 0| 
-| 20221003T12:56:56Z | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | 1 | 1| 
 
 
 # backdoor on Github 推荐
@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T01:39:16Z | Null | https://github.com/rafiauliapermana/SistemPendukungKeputusan-TugasFuzzy | 0 | 0| 
 | 20221004T01:24:24Z | A very fast and simple (though memory-intensive) classification method. | https://github.com/TusorBalazs/Fuzzy-Hypermatrix-classifier | 0 | 0| 
 | 20221004T01:22:43Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 998 | 21| 
 | 20221004T01:08:28Z | Null | https://github.com/MBY-dotcom/SPK-FUZZY | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20221004T00:14:50Z | Null | https://github.com/Dilla444/menentukan-harga-sewa-kamar-kos-menggunakan-metode-Tsukamoto-Logila-Fuzzy- | 0 | 0| 
 | 20221004T00:10:59Z | Null | https://github.com/kamaluddinprima/Fuzzy | 0 | 0| 
 | 20221003T23:50:06Z | Null | https://github.com/kamaluddinprima/SPK-Fuzzy | 0 | 0| 
-| 20221003T23:39:42Z | FuzzEdge: An edge detection algorithm | https://github.com/abderhasan/fuzzedge | 0 | 1| 
 
 
 
