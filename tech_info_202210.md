@@ -105,6 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T01:08:28Z | Null | https://github.com/MBY-dotcom/SPK-FUZZY | 0 | 0| 
 | 20221004T00:54:57Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 997 | 21| 
 | 20221004T00:30:54Z | Holistic Greybox Fuzzing of Multi-Language Systems | https://github.com/Daybreak2019/PolyFuzz | 0 | 0| 
 | 20221004T00:20:35Z | Test App | https://github.com/prashanth92477/fuzzy_app | 0 | 0| 
@@ -114,7 +115,6 @@
 | 20221003T23:50:06Z | Null | https://github.com/kamaluddinprima/SPK-Fuzzy | 0 | 0| 
 | 20221003T23:39:42Z | FuzzEdge: An edge detection algorithm | https://github.com/abderhasan/fuzzedge | 0 | 1| 
 | 20221003T23:38:20Z | Null | https://github.com/Ashba1995/fuzzy-octo-bassoon | 0 | 0| 
-| 20221003T22:25:25Z | Null | https://github.com/google/fuzztest | 36 | 1| 
 
 
 
