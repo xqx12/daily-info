@@ -40,7 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T12:30:47Z | Remote File Inclusion | https://github.com/SleepTheGod/DiscordExploit | 0 | 0| 
+| 20221004T12:31:34Z | Remote File Inclusion | https://github.com/SleepTheGod/DiscordExploit | 0 | 0| 
 | 20221004T12:22:58Z | Null | https://github.com/whomScripts/exploits | 0 | 0| 
 | 20221004T12:18:20Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 0 | 0| 
 | 20221004T12:16:20Z | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-Microsoft-Exchange-Server- | 0 | 0| 
