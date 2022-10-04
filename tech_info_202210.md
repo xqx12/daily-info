@@ -58,8 +58,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T01:55:16Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 329 | 16| 
-| 20221004T01:37:38Z | Exploits for games | https://github.com/DaScripted/Exploits | 0 | 0| 
+| 20221004T01:57:20Z | Exploits for games | https://github.com/DaScripted/Exploits | 0 | 0| 
+| 20221004T01:57:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 530 | 142| 
+| 20221004T01:56:27Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 330 | 16| 
 | 20221004T01:36:02Z | A CS Source Engine² for Creating Cheat/Trainers, Debug Valve Code, Exploring hidden game engine features, Exploit Develop, Assembly Analyzer, Network Emulator, Custom Scripting Interface for study and Cloud-based Decompiler for testing (and binary analysis). | https://github.com/keowu/sourceengineexplorer | 3 | 0| 
 | 20221004T01:21:18Z | This was my Team%s Submission for 2021 DataJam against Human Exploitation, a data-sciencce hackathon. This submission won the Outstanding Team Award.    | https://github.com/ghbeau/DataJam_2021_Submission | 0 | 0| 
 | 20221004T01:14:55Z | Exploits for games | https://github.com/DaScripted/Exploit | 0 | 0| 
@@ -67,7 +68,6 @@
 | 20221004T00:27:33Z | Create an exploit development environment from a base Linux installation. | https://github.com/voidtutorial/environment | 0 | 0| 
 | 20221003T23:44:09Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/Mika-Coding/Discord-VoiceCall-Exploit | 1 | 0| 
 | 20221003T22:33:31Z | Roblox exploit scripts. You need them i guess? Well BUCKLE UP!!!!!! YOUR ABOUT TO SEE SOME. | https://github.com/TacoDark/Roblox-Exploit-Websites | 0 | 0| 
-| 20221003T18:57:48Z | Null | https://github.com/Adoherrent/PS5-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
