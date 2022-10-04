@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221003 | Linux Kernel 6.0 发布新版本 | http://lwn.net/Articles/910087/| 
+| 20221003 | Cobalt Strike CVE-2022-39197演示视频 | https://www.youtube.com/watch?v=cjg9FJFoezo| 
 
 
 # 安全维基 推荐
@@ -23,21 +25,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221003T20:51:11Z | CVE-2022-36804 | A loader for bitbucket 2022 rce (cve-2022-36804) | https://github.com/Inplex-sys/CVE-2022-36804 | | 
+| 20221003T20:51:10Z | CVE-2022-27925 | A loader for zimbra 2022 rce (cve-2022-27925) | https://github.com/Inplex-sys/CVE-2022-27925 | | 
+| 20221003T20:46:53Z | CVE-2022-35914 | Null | https://github.com/cosad3s/CVE-2022-35914-poc | | 
+| 20221003T17:57:58Z | CVE-2022-41040 | Null | https://github.com/CentarisCyber/CVE-2022-41040_Mitigation | | 
+| 20221003T16:59:06Z | CVE-2022-39959 | Place holder for CVE-2022-39959 | https://github.com/usmarine2141/CVE-2022-39959 | | 
+| 20221003T16:42:19Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
+| 20221003T13:04:09Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
+| 20221003T12:59:43Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
 | 20221003T12:58:48Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/k1vin-beaumont/CVE-2022-41040-RCE-POC | | 
 | 20221003T12:58:31Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyShell | https://github.com/k1vin-beaumont/CVE-2022-41082-RCE-POC | | 
-| 20221003T12:56:56Z | CVE-2022-41082 | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | | 
-| 20221003T12:56:38Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
-| 20221003T12:51:18Z | CVE-2022-41208 | Null | https://github.com/L34ked/CVE-2022-41208 | | 
-| 20221003T12:31:17Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI | | 
-| 20221003T12:27:02Z | CVE-2022-35914 | 批量poc脚本 | https://github.com/hughink/CVE-2022-35914-GLPI- | | 
-| 20221003T10:19:11Z | CVE-2020-28948 | Null | https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949 | | 
-| 20221003T02:44:37Z | CVE-2022-35914 | Null | https://github.com/cosad3s/CVE-2022-35914-poc | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221003T12:47:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8164 | 275| 
+| 20221003T22:10:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 40 | 1| 
+| 20221003T16:59:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8166 | 275| 
 | 20221003T12:38:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 89 | 1| 
 
 
@@ -50,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T23:55:11Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 299 | 14| 
+| 20221003T23:44:09Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/Mika-Coding/Discord-VoiceCall-Exploit | 1 | 0| 
+| 20221003T22:33:31Z | Roblox exploit scripts. You need them i guess? Well BUCKLE UP!!!!!! YOUR ABOUT TO SEE SOME. | https://github.com/TacoDark/Roblox-Exploit-Websites | 0 | 0| 
+| 20221003T18:57:48Z | Null | https://github.com/Adoherrent/PS5-Exploit | 0 | 0| 
 | 20221003T12:56:56Z | Mass exploitation tool for ProxyNotShell (CVE-2022-41082/CVE-2022-41040) supports multi threading and written in python | https://github.com/0xR0o7/CVE-2022-41082-MASS-RCE | 1 | 1| 
 | 20221003T12:55:04Z | Null | https://github.com/0x34d/Exploit | 0 | 0| 
 | 20221003T12:10:34Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 30 | 3| 
 | 20221003T11:53:37Z | In-game command bar for exploiters idk eeeee *cries* | https://github.com/RVCDv/eSyn | 0 | 0| 
 | 20221003T11:46:21Z | Exploit Development  | https://github.com/0x34d/Exploit-Development | 0 | 0| 
 | 20221003T10:19:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3662 | 449| 
-| 20221003T10:10:00Z | Null | https://github.com/MadJokkerr/Exploits | 0 | 0| 
-| 20221003T10:00:01Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 1099 | 173| 
-| 20221003T09:57:15Z | Scripts that i used to exploit some web/mobile app  vulnerabilities during pentests/ctfs | https://github.com/AymanRbati/appsec-scripts | 2 | 0| 
-| 20221003T09:48:34Z | Proof-of-Concept of exploits that may be published | https://github.com/RICSecLab/exploit-poc-public | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -84,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221003T23:50:06Z | Null | https://github.com/kamaluddinprima/SPK-Fuzzy | 0 | 0| 
+| 20221003T23:42:59Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 993 | 21| 
+| 20221003T23:39:42Z | FuzzEdge: An edge detection algorithm | https://github.com/abderhasan/fuzzedge | 0 | 1| 
+| 20221003T23:38:20Z | Null | https://github.com/Ashba1995/fuzzy-octo-bassoon | 0 | 0| 
+| 20221003T22:25:25Z | Null | https://github.com/google/fuzztest | 36 | 1| 
+| 20221003T22:01:58Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1524 | 68| 
 | 20221003T12:43:21Z | Fuzzer that searches for vulnerabilities like Spectre and Meltdown in CPUs | https://github.com/microsoft/sca-fuzzer | 19 | 9| 
 | 20221003T12:39:23Z | Sekilas program ini, Menerapkan metode Fuzzy yang Bertujuan untuk Mencari Nilai Terbaik. | https://github.com/ikyycode/fuzzy | 0 | 0| 
 | 20221003T12:22:38Z | Null | https://github.com/hina50/fuzzy-system | 0 | 0| 
 | 20221003T11:48:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3079 | 610| 
-| 20221003T11:24:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4362 | 1056| 
-| 20221003T11:20:28Z | Null | https://github.com/Dilla444/Metode-Fuzzy-Tsukamoto-Menentukan-Harga-Sewa-Kamar-Kos | 0 | 0| 
-| 20221003T11:05:55Z | Null | https://github.com/zach8086/fuzzy-octo-eureka.github.io | 0 | 0| 
-| 20221003T11:05:19Z | Null | https://github.com/Infectu/fuzzy-octo-broccoli | 0 | 0| 
-| 20221003T10:46:11Z | BlueHatIL 2020 - Staying # and Bringing Covert Injection Tradecraft to .NET | https://github.com/73t178184/FuzzySecurityc | 0 | 0| 
-| 20221003T08:02:50Z | Null | https://github.com/pennyfyne/Fuzzy-adventure | 0 | 0| 
 
 
 
