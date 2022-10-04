@@ -58,9 +58,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T01:59:16Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 331 | 16| 
 | 20221004T01:57:20Z | Exploits for games | https://github.com/DaScripted/Exploits | 0 | 0| 
 | 20221004T01:57:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 530 | 142| 
-| 20221004T01:56:27Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 330 | 16| 
 | 20221004T01:36:02Z | A CS Source Engine² for Creating Cheat/Trainers, Debug Valve Code, Exploring hidden game engine features, Exploit Develop, Assembly Analyzer, Network Emulator, Custom Scripting Interface for study and Cloud-based Decompiler for testing (and binary analysis). | https://github.com/keowu/sourceengineexplorer | 3 | 0| 
 | 20221004T01:21:18Z | This was my Team%s Submission for 2021 DataJam against Human Exploitation, a data-sciencce hackathon. This submission won the Outstanding Team Award.    | https://github.com/ghbeau/DataJam_2021_Submission | 0 | 0| 
 | 20221004T01:14:55Z | Exploits for games | https://github.com/DaScripted/Exploit | 0 | 0| 
@@ -105,7 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T01:51:39Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 999 | 21| 
+| 20221004T01:59:59Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1001 | 21| 
 | 20221004T01:49:36Z | Null | https://github.com/IsaiasGabrielDev/Trabalho_FuzzyBasquete | 0 | 0| 
 | 20221004T01:39:16Z | Null | https://github.com/rafiauliapermana/SistemPendukungKeputusan-TugasFuzzy | 0 | 0| 
 | 20221004T01:24:24Z | A very fast and simple (though memory-intensive) classification method. | https://github.com/TusorBalazs/Fuzzy-Hypermatrix-classifier | 0 | 0| 
