@@ -58,7 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T00:10:37Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 301 | 14| 
+| 20221004T00:13:29Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 302 | 14| 
 | 20221003T23:44:09Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/Mika-Coding/Discord-VoiceCall-Exploit | 1 | 0| 
 | 20221003T22:33:31Z | Roblox exploit scripts. You need them i guess? Well BUCKLE UP!!!!!! YOUR ABOUT TO SEE SOME. | https://github.com/TacoDark/Roblox-Exploit-Websites | 0 | 0| 
 | 20221003T18:57:48Z | Null | https://github.com/Adoherrent/PS5-Exploit | 0 | 0| 
