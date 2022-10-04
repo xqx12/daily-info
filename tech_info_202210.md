@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T00:27:33Z | Create an exploit development environment from a base Linux installation. | https://github.com/voidtutorial/environment | 0 | 0| 
 | 20221004T00:20:55Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 308 | 14| 
 | 20221003T23:44:09Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/Mika-Coding/Discord-VoiceCall-Exploit | 1 | 0| 
 | 20221003T22:33:31Z | Roblox exploit scripts. You need them i guess? Well BUCKLE UP!!!!!! YOUR ABOUT TO SEE SOME. | https://github.com/TacoDark/Roblox-Exploit-Websites | 0 | 0| 
@@ -67,7 +68,6 @@
 | 20221003T12:10:34Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 30 | 3| 
 | 20221003T11:53:37Z | In-game command bar for exploiters idk eeeee *cries* | https://github.com/RVCDv/eSyn | 0 | 0| 
 | 20221003T11:46:21Z | Exploit Development  | https://github.com/0x34d/Exploit-Development | 0 | 0| 
-| 20221003T10:19:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3662 | 449| 
 
 
 # backdoor on Github 推荐
