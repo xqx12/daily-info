@@ -105,10 +105,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T01:44:02Z | Null | https://github.com/IsaiasGabrielDev/Trabalho_FuzzyBasquete | 0 | 0| 
+| 20221004T01:51:39Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 999 | 21| 
+| 20221004T01:49:36Z | Null | https://github.com/IsaiasGabrielDev/Trabalho_FuzzyBasquete | 0 | 0| 
 | 20221004T01:39:16Z | Null | https://github.com/rafiauliapermana/SistemPendukungKeputusan-TugasFuzzy | 0 | 0| 
 | 20221004T01:24:24Z | A very fast and simple (though memory-intensive) classification method. | https://github.com/TusorBalazs/Fuzzy-Hypermatrix-classifier | 0 | 0| 
-| 20221004T01:22:43Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 998 | 21| 
 | 20221004T01:08:28Z | Null | https://github.com/MBY-dotcom/SPK-FUZZY | 0 | 0| 
 | 20221004T00:30:54Z | Holistic Greybox Fuzzing of Multi-Language Systems | https://github.com/Daybreak2019/PolyFuzz | 0 | 0| 
 | 20221004T00:20:35Z | Test App | https://github.com/prashanth92477/fuzzy_app | 0 | 0| 
