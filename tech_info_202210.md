@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221004T12:04:13Z | CVE-2022-41040 | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-CVE-2022-41040-CVE-2022-41082- | | 
 | 20221004T08:26:12Z | CVE-2022-36804 | Atlassian Bitbucket Server and Data Center - Command Injection Vulnerability (CVE-2022-36804) | https://github.com/ColdFusionX/CVE-2022-36804 | | 
 | 20221004T03:51:53Z | CVE-2022-41040 | Null | https://github.com/CentarisCyber/CVE-2022-41040_Mitigation | | 
 | 20221004T01:19:52Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
@@ -37,7 +38,6 @@
 | 20221003T20:46:53Z | CVE-2022-35914 | Null | https://github.com/cosad3s/CVE-2022-35914-poc | | 
 | 20221003T16:59:06Z | CVE-2022-39959 | Place holder for CVE-2022-39959 | https://github.com/usmarine2141/CVE-2022-39959 | | 
 | 20221003T16:42:19Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
-| 20221003T13:04:09Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
 
 
 # klee on Github 推荐
@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T12:04:13Z | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-CVE-2022-41040-CVE-2022-41082- | 0 | 0| 
 | 20221004T10:50:10Z | EOLO ADB VP4412 Admin password bypass | https://github.com/Leproide/VP4412_Admin_Exploit | 0 | 0| 
 | 20221004T10:48:45Z |  :beetle: Repository of CVE found by OCD people | https://github.com/Orange-Cyberdefense/CVE-repository | 20 | 9| 
 | 20221004T09:14:02Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4920 | 682| 
@@ -69,7 +70,6 @@
 | 20221004T01:59:16Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 331 | 16| 
 | 20221004T01:57:20Z | Exploits for games | https://github.com/DaScripted/Exploits | 0 | 0| 
 | 20221004T01:57:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 530 | 142| 
-| 20221004T01:36:02Z | A CS Source Engine² for Creating Cheat/Trainers, Debug Valve Code, Exploring hidden game engine features, Exploit Develop, Assembly Analyzer, Network Emulator, Custom Scripting Interface for study and Cloud-based Decompiler for testing (and binary analysis). | https://github.com/keowu/sourceengineexplorer | 3 | 0| 
 
 
 # backdoor on Github 推荐
