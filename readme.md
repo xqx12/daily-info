@@ -95,11 +95,11 @@
 | 20221003T23:38:20Z | Null | https://github.com/Ashba1995/fuzzy-octo-bassoon | 0 | 0| 
 | 20221003T22:25:25Z | Null | https://github.com/google/fuzztest | 36 | 1| 
 | 20221003T22:01:58Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1524 | 68| 
+| 20221003T15:25:53Z | Null | https://github.com/Dilla444/Diagnosa-Penyakit-Mata-Menggunakan-Metode-Fuzzy-Mamdani | 0 | 0| 
 | 20221003T12:43:21Z | Fuzzer that searches for vulnerabilities like Spectre and Meltdown in CPUs | https://github.com/microsoft/sca-fuzzer | 19 | 9| 
 | 20221003T12:39:23Z | Sekilas program ini, Menerapkan metode Fuzzy yang Bertujuan untuk Mencari Nilai Terbaik. | https://github.com/ikyycode/fuzzy | 0 | 0| 
 | 20221003T12:22:38Z | Null | https://github.com/hina50/fuzzy-system | 0 | 0| 
 | 20221003T11:48:24Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3079 | 610| 
-| 20221003T11:24:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4362 | 1056| 
 
 
 

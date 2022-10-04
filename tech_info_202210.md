@@ -58,7 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T00:15:18Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 303 | 14| 
+| 20221004T00:19:14Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 304 | 14| 
 | 20221003T23:44:09Z | Voice swapping/ Dissconnect your friends :)))) | https://github.com/Mika-Coding/Discord-VoiceCall-Exploit | 1 | 0| 
 | 20221003T22:33:31Z | Roblox exploit scripts. You need them i guess? Well BUCKLE UP!!!!!! YOUR ABOUT TO SEE SOME. | https://github.com/TacoDark/Roblox-Exploit-Websites | 0 | 0| 
 | 20221003T18:57:48Z | Null | https://github.com/Adoherrent/PS5-Exploit | 0 | 0| 
@@ -105,16 +105,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T00:17:32Z | Null | https://github.com/kamaluddinprima/FUZZY-SPK | 0 | 0| 
+| 20221004T00:14:50Z | Null | https://github.com/Dilla444/menentukan-harga-sewa-kamar-kos-menggunakan-metode-Tsukamoto-Logila-Fuzzy- | 0 | 0| 
 | 20221004T00:12:20Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 994 | 21| 
 | 20221004T00:10:59Z | Null | https://github.com/kamaluddinprima/Fuzzy | 0 | 0| 
-| 20221004T00:07:32Z | Null | https://github.com/Dilla444/menentukan-harga-sewa-kamar-kos-menggunakan-metode-Tsukamoto-Logila-Fuzzy- | 0 | 0| 
 | 20221004T00:00:23Z | Test App | https://github.com/prashanth92477/fuzzy_app | 0 | 0| 
 | 20221003T23:50:06Z | Null | https://github.com/kamaluddinprima/SPK-Fuzzy | 0 | 0| 
 | 20221003T23:39:42Z | FuzzEdge: An edge detection algorithm | https://github.com/abderhasan/fuzzedge | 0 | 1| 
 | 20221003T23:38:20Z | Null | https://github.com/Ashba1995/fuzzy-octo-bassoon | 0 | 0| 
 | 20221003T22:25:25Z | Null | https://github.com/google/fuzztest | 36 | 1| 
 | 20221003T22:01:58Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1524 | 68| 
-| 20221003T12:43:21Z | Fuzzer that searches for vulnerabilities like Spectre and Meltdown in CPUs | https://github.com/microsoft/sca-fuzzer | 19 | 9| 
 
 
 
