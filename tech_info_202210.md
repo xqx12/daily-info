@@ -76,6 +76,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T12:08:00Z | Kumpulan Shell Backdoor Untuk  We Up Ke sini:V Hehehe | https://github.com/bsl-offical/Shell-Backdoor | 0 | 0| 
 | 20221005T05:44:21Z | Null | https://github.com/yamengxi/Backdoor_XAI | 0 | 0| 
 | 20221004T19:16:13Z | telegram backdoor bot | https://github.com/Vermilonik/TelegramBackdoor | 0 | 0| 
 | 20221004T14:47:40Z | These are experimental codes of Backdoor Learning by Arpad Berta | https://github.com/szegedai/backdoored-adversary | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20221003T11:53:31Z | Null | https://github.com/Luminate-D/LannBackdoor | 3 | 1| 
 | 20221003T11:50:42Z | Make a loader that puts a script into the website%s code. Has a keylogger and a live screen view | https://github.com/adrianvla/website-backdoor.js | 1 | 0| 
 | 20221002T20:48:58Z | Trojans generally spread by some form of social engineering; for example, where a user is duped into executing an email attachment disguised to appear innocuous (e.g., a routine form to be filled in), or by clicking on some fake advertisement on social media or anywhere else. Although their payload can be anything, many modern forms act as a backdoor, contacting a controller who can then have unauthorized access to the affected computer.[6] Ransomware attacks are often carried out using a trojan. | https://github.com/HUGOW04/Trojan | 0 | 0| 
-| 20221002T19:44:04Z | Null | https://github.com/harigroup88/backdoor-jpg | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -110,11 +110,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T12:12:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7904 | 1711| 
 | 20221005T12:01:52Z | Null | https://github.com/4812571/python-fuzz-example | 0 | 0| 
 | 20221005T09:59:12Z | Null | https://github.com/Bibiruu/fuzzy-umbrella | 0 | 0| 
 | 20221005T09:53:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1476 | 259| 
 | 20221005T09:28:49Z | Null | https://github.com/rofiq999/fuzzy-guacamole-web11 | 0 | 0| 
-| 20221005T08:38:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7903 | 1711| 
 | 20221005T08:08:10Z | Null | https://github.com/SeriestPier/3d_fuzzy_guidance_system | 0 | 0| 
 | 20221005T08:06:16Z | # small game in python | https://github.com/EugeneStephen/fuzzy-chainsaw | 0 | 0| 
 | 20221005T07:45:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3056 | 363| 

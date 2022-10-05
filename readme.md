@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T12:08:00Z | Kumpulan Shell Backdoor Untuk  We Up Ke sini:V Hehehe | https://github.com/bsl-offical/Shell-Backdoor | 0 | 0| 
 | 20221005T05:44:21Z | Null | https://github.com/yamengxi/Backdoor_XAI | 0 | 0| 
 
 
@@ -72,11 +73,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T12:12:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7904 | 1711| 
 | 20221005T12:01:52Z | Null | https://github.com/4812571/python-fuzz-example | 0 | 0| 
 | 20221005T09:59:12Z | Null | https://github.com/Bibiruu/fuzzy-umbrella | 0 | 0| 
 | 20221005T09:53:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1476 | 259| 
 | 20221005T09:28:49Z | Null | https://github.com/rofiq999/fuzzy-guacamole-web11 | 0 | 0| 
-| 20221005T08:38:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7903 | 1711| 
 | 20221005T08:08:10Z | Null | https://github.com/SeriestPier/3d_fuzzy_guidance_system | 0 | 0| 
 | 20221005T08:06:16Z | # small game in python | https://github.com/EugeneStephen/fuzzy-chainsaw | 0 | 0| 
 | 20221005T07:45:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3056 | 363| 
