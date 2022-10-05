@@ -67,7 +67,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221005T12:01:09Z | Null | https://github.com/4812571/python-fuzz-example | 0 | 0| 
+| 20221005T12:01:52Z | Null | https://github.com/4812571/python-fuzz-example | 0 | 0| 
 | 20221005T09:59:12Z | Null | https://github.com/Bibiruu/fuzzy-umbrella | 0 | 0| 
 | 20221005T09:53:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1476 | 259| 
 | 20221005T09:28:49Z | Null | https://github.com/rofiq999/fuzzy-guacamole-web11 | 0 | 0| 
