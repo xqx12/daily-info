@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221005T12:02:57Z | CVE-2022-36804 | Null | https://github.com/qiwentaidi/CVE-2022-36804 | | 
 | 20221005T05:56:04Z | CVE-2022-41218 | Vulnerability Details for CVE-2022-41218 | https://github.com/V4bel/CVE-2022-41218 | | 
 | 20221005T05:13:21Z | CVE-2022-24086 | PoC of CVE-2022-24086 | https://github.com/akr3ch/CVE-2022-24086 | | 
 | 20221005T01:29:06Z | CVE-2022-36804 | Atlassian Bitbucket Server and Data Center - Command Injection Vulnerability (CVE-2022-36804) | https://github.com/ColdFusionX/CVE-2022-36804 | | 
@@ -57,6 +58,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T02:11:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3135 | 442| 
 
 
 # big4 on Github 推荐

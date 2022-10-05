@@ -29,6 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221005T12:02:57Z | CVE-2022-36804 | Null | https://github.com/qiwentaidi/CVE-2022-36804 | | 
 | 20221005T05:56:04Z | CVE-2022-41218 | Vulnerability Details for CVE-2022-41218 | https://github.com/V4bel/CVE-2022-41218 | | 
 | 20221005T05:13:21Z | CVE-2022-24086 | PoC of CVE-2022-24086 | https://github.com/akr3ch/CVE-2022-24086 | | 
 | 20221005T01:29:06Z | CVE-2022-36804 | Atlassian Bitbucket Server and Data Center - Command Injection Vulnerability (CVE-2022-36804) | https://github.com/ColdFusionX/CVE-2022-36804 | | 
@@ -38,7 +39,6 @@
 | 20221004T14:08:35Z | CVE-2022-41040 | mitigation script for MS Exchange server vuln | https://github.com/r3dcl1ff/CVE-2022-41040 | | 
 | 20221004T13:31:45Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
 | 20221004T13:12:46Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
-| 20221004T12:20:54Z | 未知编号 | Лабораторная работа по Веб-технологиям | https://github.com/fnbjghknhlm/2022-fall-lab-portfolio_CvetkovVyacheslavAndreevich | | 
 
 
 # klee on Github 推荐
@@ -91,7 +91,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T23:50:15Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3134 | 442| 
+| 20221005T02:11:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3135 | 442| 
 | 20221004T06:12:51Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 489 | 28| 
 | 20221003T16:27:28Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 47 | 23| 
 | 20221003T13:17:36Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 76 | 16| 
