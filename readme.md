@@ -25,9 +25,9 @@
 | 20221004T13:31:45Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
 | 20221004T12:20:54Z | 未知编号 | Лабораторная работа по Веб-технологиям | https://github.com/fnbjghknhlm/2022-fall-lab-portfolio_CvetkovVyacheslavAndreevich | | 
 | 20221004T12:12:40Z | CVE-2022-41040 | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-CVE-2022-41040-CVE-2022-41082- | | 
-| 20221004T08:26:12Z | CVE-2022-36804 | Atlassian Bitbucket Server and Data Center - Command Injection Vulnerability (CVE-2022-36804) | https://github.com/ColdFusionX/CVE-2022-36804 | | 
 | 20221004T03:51:53Z | CVE-2022-41040 | Null | https://github.com/CentarisCyber/CVE-2022-41040_Mitigation | | 
 | 20221004T01:19:52Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
+| 20221004T00:50:16Z | CVE-2022-26134 | Null | https://github.com/trhacknon/CVE-2022-26134-miam | | 
 
 
 # klee on Github 推荐
