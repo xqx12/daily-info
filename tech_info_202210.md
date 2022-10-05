@@ -60,11 +60,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221005T00:58:40Z | Experiment to exploit 308 redirects for fingerprinting users | https://github.com/DanielCarmingham/exploit308 | 0 | 0| 
+| 20221005T01:02:22Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 162 | 20| 
+| 20221005T00:59:20Z | Experiment to exploit 308 redirects for fingerprinting users | https://github.com/DanielCarmingham/exploit308 | 0 | 0| 
 | 20221005T00:01:15Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p | 1 | 0| 
 | 20221005T00:00:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p | 1 | 0| 
 | 20221004T23:59:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 1 | 0| 
-| 20221004T23:44:37Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 161 | 20| 
 | 20221004T23:32:55Z | Deploy and assess a simple web application environment’s security posture Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities Implement monitoring to identify insecure configurations and malicious activity Apply methods learned in the course to harden and secure the environment Design a DevSecOps pipeline | https://github.com/AhmedElbltagy1/Cloud-Security-Securing-the-Recipe-Vault-Web-Application | 0 | 0| 
 | 20221004T22:39:33Z | Null | https://github.com/JoshyJoshyVR/Python-exploits | 0 | 0| 
 | 20221004T22:02:34Z | Come on, a tool that exploits the vulnerability %cve2014-3704% and uploads files to the site | https://github.com/mr-sami-x/Digital-Storm | 3 | 0| 

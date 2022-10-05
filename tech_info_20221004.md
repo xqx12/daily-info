@@ -45,7 +45,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221004T23:59:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 1 | 0| 
-| 20221004T23:44:37Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 161 | 20| 
 | 20221004T23:32:55Z | Deploy and assess a simple web application environment’s security posture Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities Implement monitoring to identify insecure configurations and malicious activity Apply methods learned in the course to harden and secure the environment Design a DevSecOps pipeline | https://github.com/AhmedElbltagy1/Cloud-Security-Securing-the-Recipe-Vault-Web-Application | 0 | 0| 
 | 20221004T22:39:33Z | Null | https://github.com/JoshyJoshyVR/Python-exploits | 0 | 0| 
 | 20221004T22:02:34Z | Come on, a tool that exploits the vulnerability %cve2014-3704% and uploads files to the site | https://github.com/mr-sami-x/Digital-Storm | 3 | 0| 
@@ -54,6 +53,7 @@
 | 20221004T21:18:50Z | This is a writeup on how to exploit the ever popular EternalBlue vulnerability. | https://github.com/Ethical-Dyl/EternalBlue | 0 | 0| 
 | 20221004T21:12:34Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03 & 4.50FW | https://github.com/kmeps4/ps5_4xx | 3 | 0| 
 | 20221004T20:13:07Z | Tool to generate gopher links for exploiting SSRF | https://github.com/hupe1980/gopherfy | 0 | 0| 
+| 20221004T14:56:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4921 | 682| 
 
 
 # backdoor on Github 推荐
