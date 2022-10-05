@@ -59,6 +59,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T19:16:13Z | telegram backdoor bot | https://github.com/Vermilonik/TelegramBackdoor | 0 | 0| 
+| 20221004T14:47:40Z | These are experimental codes of Backdoor Learning by Arpad Berta | https://github.com/szegedai/backdoored-adversary | 0 | 0| 
 | 20221004T09:27:28Z | Receive credentials, discord tokens, backdoor and more functionality to come. | https://github.com/LTWeaver/Lazarus | 0 | 0| 
 | 20221004T04:44:43Z | WebShell/GIF.Backdoor.GEN , Yara Ruleset | https://github.com/Bashrc-007/WebShell-GIF.Backdoor.GEN | 0 | 0| 
 | 20221004T03:38:03Z | Null | https://github.com/BlackHoleSecurity/backdoor | 7 | 6| 

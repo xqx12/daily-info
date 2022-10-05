@@ -75,6 +75,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221004T19:16:13Z | telegram backdoor bot | https://github.com/Vermilonik/TelegramBackdoor | 0 | 0| 
+| 20221004T14:47:40Z | These are experimental codes of Backdoor Learning by Arpad Berta | https://github.com/szegedai/backdoored-adversary | 0 | 0| 
 | 20221004T09:27:28Z | Receive credentials, discord tokens, backdoor and more functionality to come. | https://github.com/LTWeaver/Lazarus | 0 | 0| 
 | 20221004T04:44:43Z | WebShell/GIF.Backdoor.GEN , Yara Ruleset | https://github.com/Bashrc-007/WebShell-GIF.Backdoor.GEN | 0 | 0| 
 | 20221004T03:38:03Z | Null | https://github.com/BlackHoleSecurity/backdoor | 7 | 6| 
@@ -83,8 +85,6 @@
 | 20221002T20:48:58Z | Trojans generally spread by some form of social engineering; for example, where a user is duped into executing an email attachment disguised to appear innocuous (e.g., a routine form to be filled in), or by clicking on some fake advertisement on social media or anywhere else. Although their payload can be anything, many modern forms act as a backdoor, contacting a controller who can then have unauthorized access to the affected computer.[6] Ransomware attacks are often carried out using a trojan. | https://github.com/HUGOW04/Trojan | 0 | 0| 
 | 20221002T19:44:04Z | Null | https://github.com/harigroup88/backdoor-jpg | 0 | 0| 
 | 20221002T18:37:20Z | A fake JDBC driver that allows OS command execution. | https://github.com/airman604/jdbc-backdoor | 100 | 21| 
-| 20221002T17:17:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
-| 20221002T14:59:51Z | shell scripting over HTTP  | https://github.com/vuhailongkl97/shellcrosshttp | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
