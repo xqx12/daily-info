@@ -76,6 +76,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T05:44:21Z | Null | https://github.com/yamengxi/Backdoor_XAI | 0 | 0| 
 | 20221004T19:16:13Z | telegram backdoor bot | https://github.com/Vermilonik/TelegramBackdoor | 0 | 0| 
 | 20221004T14:47:40Z | These are experimental codes of Backdoor Learning by Arpad Berta | https://github.com/szegedai/backdoored-adversary | 0 | 0| 
 | 20221004T09:27:28Z | Receive credentials, discord tokens, backdoor and more functionality to come. | https://github.com/LTWeaver/Lazarus | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20221003T11:50:42Z | Make a loader that puts a script into the website%s code. Has a keylogger and a live screen view | https://github.com/adrianvla/website-backdoor.js | 1 | 0| 
 | 20221002T20:48:58Z | Trojans generally spread by some form of social engineering; for example, where a user is duped into executing an email attachment disguised to appear innocuous (e.g., a routine form to be filled in), or by clicking on some fake advertisement on social media or anywhere else. Although their payload can be anything, many modern forms act as a backdoor, contacting a controller who can then have unauthorized access to the affected computer.[6] Ransomware attacks are often carried out using a trojan. | https://github.com/HUGOW04/Trojan | 0 | 0| 
 | 20221002T19:44:04Z | Null | https://github.com/harigroup88/backdoor-jpg | 0 | 0| 
-| 20221002T18:37:20Z | A fake JDBC driver that allows OS command execution. | https://github.com/airman604/jdbc-backdoor | 100 | 21| 
 
 
 # symbolic execution on Github 推荐
@@ -102,6 +102,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T07:16:48Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 10 | 0| 
+| 20221005T05:07:22Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 57 | 11| 
 | 20221003T11:35:35Z | Null | https://github.com/Jedi-Team/Anonymous-NDSS-240 | 0 | 0| 
 
 

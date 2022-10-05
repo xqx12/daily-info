@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T05:44:21Z | Null | https://github.com/yamengxi/Backdoor_XAI | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -64,6 +65,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T07:16:48Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 10 | 0| 
+| 20221005T05:07:22Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 57 | 11| 
 
 
 # fuzz on Github 推荐
