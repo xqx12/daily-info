@@ -14,6 +14,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221005 | 将ModSecurity内置到java应用实现第一代rasp | https://my.oschina.net/9199771/blog/5582107| 
 | 20221004 | Serverless安全揭秘：架构、风险与防护措施 | https://www.anquanke.com/post/id/281021| 
 | 20221004 | IDOR相关研究 | https://mp.weixin.qq.com/s/C6NuprrVSAx2Nh0fPXidwA| 
 | 20221003 | 代码检索和摘要中的自监督对比学习 | https://mp.weixin.qq.com/s/pTNNIeico9mcDqvcXos3cA| 
@@ -28,24 +29,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221005T05:56:04Z | CVE-2022-41218 | Vulnerability Details for CVE-2022-41218 | https://github.com/V4bel/CVE-2022-41218 | | 
+| 20221005T05:13:21Z | CVE-2022-24086 | PoC of CVE-2022-24086 | https://github.com/akr3ch/CVE-2022-24086 | | 
 | 20221005T01:29:06Z | CVE-2022-36804 | Atlassian Bitbucket Server and Data Center - Command Injection Vulnerability (CVE-2022-36804) | https://github.com/ColdFusionX/CVE-2022-36804 | | 
 | 20221004T17:42:39Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/kevin-beaum0nt/CVE-2022-41040-RCE-POC | | 
 | 20221004T17:42:32Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyNotShell | https://github.com/kevin-beaum0nt/CVE-2022-41082-RCE-POC | | 
 | 20221004T14:36:52Z | CVE-2022-35914 | Null | https://github.com/AruiBlog/CVE-2022-35914-GUI | | 
 | 20221004T14:08:35Z | CVE-2022-41040 | mitigation script for MS Exchange server vuln | https://github.com/r3dcl1ff/CVE-2022-41040 | | 
 | 20221004T13:31:45Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
+| 20221004T13:12:46Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
 | 20221004T12:20:54Z | 未知编号 | Лабораторная работа по Веб-технологиям | https://github.com/fnbjghknhlm/2022-fall-lab-portfolio_CvetkovVyacheslavAndreevich | | 
-| 20221004T12:12:40Z | CVE-2022-41040 | Zero-day vulnerabilities affecting Microsoft Exchange Server  | https://github.com/NitinYadav00/Exploit-CVE-2022-41040-CVE-2022-41082- | | 
-| 20221004T03:51:53Z | CVE-2022-41040 | Null | https://github.com/CentarisCyber/CVE-2022-41040_Mitigation | | 
-| 20221004T01:19:52Z | CVE-2022-41082 | CVE-2022-41082 and CVE-2022-41040 (ProxyNotShell) mass scanner | https://github.com/b3w7/CVE-2022-41082-Scanner | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221004T15:55:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8170 | 275| 
+| 20221005T09:05:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8174 | 275| 
+| 20221005T03:25:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 90 | 1| 
 | 20221003T22:10:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 40 | 1| 
-| 20221003T12:38:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 89 | 1| 
 | 20221002T08:00:48Z | Null | https://github.com/IsaiahDaniel/kleencode | 0 | 0| 
 | 20221001T12:19:43Z | Null | https://github.com/spookyman69/kleen | 0 | 0| 
 | 20221001T04:15:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2083 | 591| 
@@ -60,16 +61,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T11:58:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 94 | 11| 
+| 20221005T11:32:17Z | Null | https://github.com/Adoherrents/PS5-Exploit | 0 | 0| 
+| 20221005T11:16:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3664 | 449| 
+| 20221005T10:59:02Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 1513 | 39| 
+| 20221005T10:11:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4927 | 681| 
+| 20221005T09:37:54Z | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos | https://github.com/E1P0TR0/CVE-Machines_htb | 1 | 0| 
+| 20221005T07:49:51Z | an AIO Botnet / watchdog / c&c / server | https://github.com/h0lyl337/Botnet | 1 | 0| 
 | 20221005T01:02:22Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 162 | 20| 
 | 20221005T00:59:20Z | Experiment to exploit 308 redirects for fingerprinting users | https://github.com/DanielCarmingham/exploit308 | 0 | 0| 
 | 20221005T00:01:15Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p | 1 | 0| 
-| 20221005T00:00:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p | 1 | 0| 
-| 20221004T23:59:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 1 | 0| 
-| 20221004T23:32:55Z | Deploy and assess a simple web application environment’s security posture Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities Implement monitoring to identify insecure configurations and malicious activity Apply methods learned in the course to harden and secure the environment Design a DevSecOps pipeline | https://github.com/AhmedElbltagy1/Cloud-Security-Securing-the-Recipe-Vault-Web-Application | 0 | 0| 
-| 20221004T22:39:33Z | Null | https://github.com/JoshyJoshyVR/Python-exploits | 0 | 0| 
-| 20221004T22:02:34Z | Come on, a tool that exploits the vulnerability %cve2014-3704% and uploads files to the site | https://github.com/mr-sami-x/Digital-Storm | 3 | 0| 
-| 20221004T21:47:12Z | Some cibersecurity tools and exploits :) | https://github.com/SrPatoMan/ServerVersion | 0 | 0| 
-| 20221004T21:35:17Z | fud crypter bypass windows defender 2022 native crypter crypter fud 2022 free fud crypter 2022 buy fud crypter 2022 crypter runtime 2022 lime crypter darkcomet crypter crypter runtime 2022 fud crypter bypass windows defender 2022 darkcomet crypter #free fud crypter 2022 #exe fud crypter #fud crypter bypass windows defender 2022 #fud crypter bypass windows defender buy fud crypter 2022 #fud crypter bypass windows defender amsi native crypter crypter fud 2022#fud crypter bypass defender#Fud crypter#buy fud crypter bypass windows defendercrypter fud 2020#crypter fud freefree exe crypter#fud crypter for sale#fud encryption #silent exploit ---------------------------------------------------------------- ⚠️ This video is made for educational purposes only, we only test devices and systems that we own or have permission to test, you should not test the security of devices that you do not own or do not have permission to test. ⚠️   fud crypter, fud crypter 2022, fud crypter cracked, fud crypter download, free fud crypter 2022, exe fud crypter, apk crypter fud, python crypter fud, how to make fud crypter, free fud crypter, fud crypter github, fud crypter hackforums, lime crypter, fud crypter malware, fud crypter review, rat fud, fud crypter tutorial FUD Crypter 2022 %Hard Software% got Bypass Windows Defender 10 AMSI. FUD Crypter 2022 Bypassed Windows Defender %HardSoftware% and got runtime fud results! **For test and educational purposes only* | https://github.com/PCPEXPLOIT/Topher-Exe-FUD-Crypter-2022-Bypass-Windows-Defender-10-AMSI-Bypass-And-Hidden-Seystem | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -107,16 +108,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T12:01:09Z | Null | https://github.com/4812571/python-fuzz-example | 0 | 0| 
+| 20221005T09:59:12Z | Null | https://github.com/Bibiruu/fuzzy-umbrella | 0 | 0| 
+| 20221005T09:53:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1476 | 259| 
+| 20221005T09:28:49Z | Null | https://github.com/rofiq999/fuzzy-guacamole-web11 | 0 | 0| 
+| 20221005T08:38:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7903 | 1711| 
+| 20221005T08:08:10Z | Null | https://github.com/SeriestPier/3d_fuzzy_guidance_system | 0 | 0| 
+| 20221005T08:06:16Z | # small game in python | https://github.com/EugeneStephen/fuzzy-chainsaw | 0 | 0| 
+| 20221005T07:45:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3056 | 363| 
+| 20221005T07:09:05Z | Null | https://github.com/SpaceNaN/fuzzjit | 0 | 0| 
 | 20221005T01:36:45Z | Null | https://github.com/augustofarina/Logica-Fuzzy | 0 | 0| 
-| 20221005T01:07:58Z | Null | https://github.com/K0NDZ1L4/Fuzzy | 0 | 0| 
-| 20221005T00:42:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1037 | 124| 
-| 20221004T22:32:19Z | A very fast and simple (though memory-intensive) classification method. | https://github.com/TusorBalazs/Fuzzy-Hypermatrix-classifier | 0 | 0| 
-| 20221004T22:10:34Z | Week2 day 2 lab | https://github.com/LarsoftheGeats/fuzzy-barnacle | 0 | 0| 
-| 20221004T19:16:49Z | Null | https://github.com/Imran407704/fuzz | 0 | 0| 
-| 20221004T18:27:41Z | Null | https://github.com/google/fuzztest | 42 | 1| 
-| 20221004T17:03:57Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4841 | 501| 
-| 20221004T15:45:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7900 | 1711| 
-| 20221004T12:38:27Z | pirebok - an adversarial fuzzer | https://github.com/dogancanbakir/pirebok | 0 | 0| 
 
 
 
