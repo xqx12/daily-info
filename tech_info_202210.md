@@ -61,7 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221005T11:58:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 94 | 11| 
+| 20221005T11:58:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 94 | 12| 
 | 20221005T11:32:17Z | Null | https://github.com/Adoherrents/PS5-Exploit | 0 | 0| 
 | 20221005T11:16:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3664 | 449| 
 | 20221005T10:59:02Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 1513 | 39| 
