@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T00:58:40Z | Experiment to exploit 308 redirects for fingerprinting users | https://github.com/DanielCarmingham/exploit308 | 0 | 0| 
 | 20221005T00:01:15Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p | 1 | 0| 
 | 20221005T00:00:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-p | 1 | 0| 
 | 20221004T23:59:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 1 | 0| 
@@ -69,7 +70,6 @@
 | 20221004T22:02:34Z | Come on, a tool that exploits the vulnerability %cve2014-3704% and uploads files to the site | https://github.com/mr-sami-x/Digital-Storm | 3 | 0| 
 | 20221004T21:47:12Z | Some cibersecurity tools and exploits :) | https://github.com/SrPatoMan/ServerVersion | 0 | 0| 
 | 20221004T21:35:17Z | fud crypter bypass windows defender 2022 native crypter crypter fud 2022 free fud crypter 2022 buy fud crypter 2022 crypter runtime 2022 lime crypter darkcomet crypter crypter runtime 2022 fud crypter bypass windows defender 2022 darkcomet crypter #free fud crypter 2022 #exe fud crypter #fud crypter bypass windows defender 2022 #fud crypter bypass windows defender buy fud crypter 2022 #fud crypter bypass windows defender amsi native crypter crypter fud 2022#fud crypter bypass defender#Fud crypter#buy fud crypter bypass windows defendercrypter fud 2020#crypter fud freefree exe crypter#fud crypter for sale#fud encryption #silent exploit ---------------------------------------------------------------- ⚠️ This video is made for educational purposes only, we only test devices and systems that we own or have permission to test, you should not test the security of devices that you do not own or do not have permission to test. ⚠️   fud crypter, fud crypter 2022, fud crypter cracked, fud crypter download, free fud crypter 2022, exe fud crypter, apk crypter fud, python crypter fud, how to make fud crypter, free fud crypter, fud crypter github, fud crypter hackforums, lime crypter, fud crypter malware, fud crypter review, rat fud, fud crypter tutorial FUD Crypter 2022 %Hard Software% got Bypass Windows Defender 10 AMSI. FUD Crypter 2022 Bypassed Windows Defender %HardSoftware% and got runtime fud results! **For test and educational purposes only* | https://github.com/PCPEXPLOIT/Topher-Exe-FUD-Crypter-2022-Bypass-Windows-Defender-10-AMSI-Bypass-And-Hidden-Seystem | 0 | 0| 
-| 20221004T21:18:50Z | This is a writeup on how to exploit the ever popular EternalBlue vulnerability. | https://github.com/Ethical-Dyl/EternalBlue | 0 | 0| 
 
 
 # backdoor on Github 推荐
