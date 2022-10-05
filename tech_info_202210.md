@@ -107,6 +107,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T01:07:58Z | Null | https://github.com/K0NDZ1L4/Fuzzy | 0 | 0| 
 | 20221005T00:42:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1037 | 124| 
 | 20221004T22:32:19Z | A very fast and simple (though memory-intensive) classification method. | https://github.com/TusorBalazs/Fuzzy-Hypermatrix-classifier | 0 | 0| 
 | 20221004T22:10:34Z | Week2 day 2 lab | https://github.com/LarsoftheGeats/fuzzy-barnacle | 0 | 0| 
@@ -116,7 +117,6 @@
 | 20221004T15:45:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7900 | 1711| 
 | 20221004T12:38:27Z | pirebok - an adversarial fuzzer | https://github.com/dogancanbakir/pirebok | 0 | 0| 
 | 20221004T11:55:08Z | Example E2E and component Cypress tests for Sudoku game | https://github.com/bahmutov/the-fuzzy-line | 0 | 0| 
-| 20221004T11:46:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4365 | 1057| 
 
 
 
