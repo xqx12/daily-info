@@ -61,16 +61,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T00:17:12Z | Null | https://github.com/rwhmf55/PlayStation-4-Exploit | 0 | 0| 
+| 20221006T00:14:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
+| 20221006T00:13:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
+| 20221006T00:12:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20221005T23:44:01Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 527 | 33| 
 | 20221005T22:55:16Z | Tool to generate gopher links for exploiting SSRF | https://github.com/hupe1980/gopherfy | 0 | 0| 
 | 20221005T22:31:11Z | Curated list of awesome exploits for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
 | 20221005T22:25:53Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 111 | 10| 
 | 20221005T21:39:24Z | An exploiting hub i made | https://github.com/XbetaCodeIngBIGinner/Speedr-s-Exploiting-Hub-V1 | 0 | 0| 
 | 20221005T16:41:58Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1701 | 350| 
-| 20221005T15:31:38Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 976 | 269| 
-| 20221005T15:01:05Z | Config files for my GitHub profile. | https://github.com/WafflesExploit/WafflesExploit | 0 | 0| 
-| 20221005T12:42:25Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 96 | 14| 
-| 20221005T11:32:17Z | Null | https://github.com/Adoherrents/PS5-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
