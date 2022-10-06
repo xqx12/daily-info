@@ -29,23 +29,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221006T11:41:43Z | CVE-2022-30190 | this is a demo attack of FOLLINA exploit , a vulnerability that has been discovered in May 2022 and stood unpatched until June 2022 | https://github.com/Imeneallouche/Follina-attack-CVE-2022-30190- | | 
+| 20221006T11:38:27Z | CVE-2022-41082 | ProxyNotShell fully automated mass rce | https://github.com/V1rpo/CVE-2022-41082-MASS-RCE | | 
+| 20221006T08:27:11Z | CVE-2022-41040 | CVE-2022-41040 aka Proxynotshell | https://github.com/kev-beaumont/CVE-2022-41040-RCE-POC | | 
+| 20221006T08:26:55Z | CVE-2022-41082 | CVE-2022-41082 aka ProxyNotShell | https://github.com/kev-beaumont/CVE-2022-41082-RCE-POC | | 
+| 20221006T07:25:33Z | CVE-2022-41040 | Code set relating to CVE-2022-41040 | https://github.com/d3duct1v/CVE-2022-41040 | | 
 | 20221005T12:09:36Z | CVE-2022-36804 | Null | https://github.com/qiwentaidi/CVE-2022-36804 | | 
 | 20221005T05:56:04Z | CVE-2022-41218 | Vulnerability Details for CVE-2022-41218 | https://github.com/V4bel/CVE-2022-41218 | | 
 | 20221005T05:13:21Z | CVE-2022-24086 | PoC of CVE-2022-24086 | https://github.com/akr3ch/CVE-2022-24086 | | 
 | 20221005T01:29:06Z | CVE-2022-36804 | Atlassian Bitbucket Server and Data Center - Command Injection Vulnerability (CVE-2022-36804) | https://github.com/ColdFusionX/CVE-2022-36804 | | 
 | 20221004T17:42:39Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/kevin-beaum0nt/CVE-2022-41040-RCE-POC | | 
-| 20221004T17:42:32Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyNotShell | https://github.com/kevin-beaum0nt/CVE-2022-41082-RCE-POC | | 
-| 20221004T14:36:52Z | CVE-2022-35914 | Null | https://github.com/AruiBlog/CVE-2022-35914-GUI | | 
-| 20221004T14:08:35Z | CVE-2022-41040 | mitigation script for MS Exchange server vuln | https://github.com/r3dcl1ff/CVE-2022-41040 | | 
-| 20221004T13:31:45Z | CVE-2022-41040 | CVE-2022-41040 nuclei template | https://github.com/numanturle/CVE-2022-41040 | | 
-| 20221004T13:12:46Z | CVE-2022-30600 | Null | https://github.com/Boonjune/POC-CVE-2022-30600 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221005T22:54:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2084 | 591| 
-| 20221005T12:30:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8175 | 275| 
+| 20221006T09:52:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8178 | 275| 
+| 20221006T08:56:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2086 | 591| 
 | 20221005T03:25:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 90 | 1| 
 | 20221003T22:10:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 40 | 1| 
 | 20221002T08:00:48Z | Null | https://github.com/IsaiahDaniel/kleencode | 0 | 0| 
@@ -61,31 +61,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T12:04:30Z | Null | https://github.com/SalvatoreSpina/Binaries_exploitations | 0 | 0| 
+| 20221006T11:51:33Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 168 | 27| 
+| 20221006T11:41:43Z | this is a demo attack of FOLLINA exploit , a vulnerability that has been discovered in May 2022 and stood unpatched until June 2022 | https://github.com/Imeneallouche/Follina-attack-CVE-2022-30190- | 0 | 0| 
+| 20221006T10:13:41Z | This project aims to exploit GANs to generate weights, later used to reproduce trajectories for a Franka Emika robot to accomplish the task of strawberry picking  | https://github.com/Castelli-F/GAN_image_to_weight | 0 | 0| 
+| 20221006T08:05:42Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 32 | 3| 
+| 20221006T07:40:42Z | An exploiting hub i made | https://github.com/XbetaCodeIngBIGinner/Speedr-s-Exploiting-Hub-V1 | 0 | 0| 
+| 20221006T06:24:55Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1164 | 105| 
+| 20221006T05:51:53Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 442 | 184| 
+| 20221006T01:04:00Z | Curated list of awesome exploits/hacks for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
 | 20221006T00:41:28Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 528 | 33| 
-| 20221006T00:37:11Z | Null | https://github.com/rwhmf55/PlayStation-4-Exploit | 0 | 0| 
-| 20221006T00:32:48Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1692 | 545| 
-| 20221006T00:14:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
-| 20221006T00:13:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
-| 20221006T00:12:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u | 1 | 0| 
-| 20221005T22:55:16Z | Tool to generate gopher links for exploiting SSRF | https://github.com/hupe1980/gopherfy | 0 | 0| 
-| 20221005T22:31:11Z | Curated list of awesome exploits for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
-| 20221005T22:25:53Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 111 | 10| 
-| 20221005T21:39:24Z | An exploiting hub i made | https://github.com/XbetaCodeIngBIGinner/Speedr-s-Exploiting-Hub-V1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T11:36:13Z | Naxtarrr Shell Backdoor | https://github.com/nastar-id/naxtarrr-shell | 0 | 0| 
+| 20221006T11:24:38Z | Null | https://github.com/Mr-R013X-404/Backdoor-Shell | 0 | 0| 
+| 20221006T10:06:29Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 574 | 112| 
+| 20221006T07:08:19Z | R4B, a backdoor based on reverse port opening so as to avoid firewall detection. | https://github.com/darksidergod/R4B | 5 | 1| 
+| 20221006T01:12:18Z | Command and Control Backdoor | https://github.com/kevinseonpj/C-C-backdoor | 0 | 0| 
 | 20221005T20:27:18Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
-| 20221005T18:32:31Z | Naxtarrr Shell Backdoor | https://github.com/nastar-id/naxtarrr-shell | 0 | 0| 
 | 20221005T15:40:13Z | Null | https://github.com/michaelorina/python-backdoor | 1 | 0| 
 | 20221005T12:08:00Z | Kumpulan Shell Backdoor Untuk  We Up Ke sini:V Hehehe | https://github.com/bsl-offical/Shell-Backdoor | 0 | 0| 
 | 20221005T05:44:21Z | Null | https://github.com/yamengxi/Backdoor_XAI | 0 | 0| 
 | 20221004T19:16:13Z | telegram backdoor bot | https://github.com/Vermilonik/TelegramBackdoor | 0 | 0| 
-| 20221004T17:48:01Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 1 | 0| 
-| 20221004T14:47:40Z | These are experimental codes of Backdoor Learning by Arpad Berta | https://github.com/szegedai/backdoored-adversary | 0 | 0| 
-| 20221004T09:27:28Z | Receive credentials, discord tokens, backdoor and more functionality to come. | https://github.com/LTWeaver/Lazarus | 0 | 0| 
-| 20221004T04:44:43Z | WebShell/GIF.Backdoor.GEN , Yara Ruleset | https://github.com/Bashrc-007/WebShell-GIF.Backdoor.GEN | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
