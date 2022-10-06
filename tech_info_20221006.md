@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T12:50:36Z | Null | https://github.com/vesselfun/exploiters12604 | 0 | 0| 
 | 20221006T12:23:23Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 170 | 27| 
 | 20221006T12:20:28Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 0 | 0| 
 | 20221006T12:04:30Z | Null | https://github.com/SalvatoreSpina/Binaries_exploitations | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20221006T07:40:42Z | An exploiting hub i made | https://github.com/XbetaCodeIngBIGinner/Speedr-s-Exploiting-Hub-V1 | 0 | 0| 
 | 20221006T06:24:55Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1164 | 105| 
 | 20221006T05:51:53Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 442 | 184| 
-| 20221006T01:04:00Z | Curated list of awesome exploits/hacks for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
