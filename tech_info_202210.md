@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T00:32:48Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1692 | 545| 
 | 20221006T00:26:21Z | Null | https://github.com/rwhmf55/PlayStation-4-Exploit | 0 | 0| 
 | 20221006T00:14:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20221006T00:13:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
@@ -70,7 +71,6 @@
 | 20221005T22:31:11Z | Curated list of awesome exploits for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
 | 20221005T22:25:53Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 111 | 10| 
 | 20221005T21:39:24Z | An exploiting hub i made | https://github.com/XbetaCodeIngBIGinner/Speedr-s-Exploiting-Hub-V1 | 0 | 0| 
-| 20221005T16:41:58Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1701 | 350| 
 
 
 # backdoor on Github 推荐
