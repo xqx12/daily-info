@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T12:50:36Z | Null | https://github.com/vesselfun/exploiters12604 | 0 | 0| 
 | 20221006T12:23:23Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 170 | 27| 
 | 20221006T12:20:28Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 0 | 0| 
 | 20221006T12:04:30Z | Null | https://github.com/SalvatoreSpina/Binaries_exploitations | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221006T07:40:42Z | An exploiting hub i made | https://github.com/XbetaCodeIngBIGinner/Speedr-s-Exploiting-Hub-V1 | 0 | 0| 
 | 20221006T06:24:55Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1164 | 105| 
 | 20221006T05:51:53Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 442 | 184| 
-| 20221006T01:04:00Z | Curated list of awesome exploits/hacks for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -111,16 +111,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T12:53:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1042 | 123| 
+| 20221006T12:27:09Z | pîrebok - a guided adversarial fuzzer | https://github.com/dogancanbakir/pirebok | 6 | 1| 
+| 20221006T10:51:14Z | Null | https://github.com/28tame/fuzzy-octo-chainsaw | 0 | 0| 
+| 20221006T08:01:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7907 | 1712| 
+| 20221006T03:22:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4369 | 1057| 
 | 20221006T00:02:07Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/ropwareJB/jwtfuzz | 2 | 0| 
 | 20221005T23:46:51Z | Null | https://github.com/TypicalViperX/fuzzy-octo-computing-machine | 0 | 0| 
 | 20221005T22:47:34Z | Block based fuzzer | https://github.com/kjn7/fuzzkit | 0 | 0| 
-| 20221005T22:47:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1038 | 123| 
-| 20221005T22:41:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7905 | 1712| 
-| 20221005T13:57:15Z | Null | https://github.com/5MysterySD/fuzzy-octo-adventure | 1 | 0| 
+| 20221005T13:57:15Z | Null | https://github.com/5MysterySD/fuzzy-octo-adventure | 1 | 1| 
 | 20221005T12:01:52Z | Null | https://github.com/4812571/python-fuzz-example | 0 | 0| 
-| 20221005T09:59:12Z | Null | https://github.com/Bibiruu/fuzzy-umbrella | 0 | 0| 
-| 20221005T09:53:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1476 | 259| 
-| 20221005T09:28:49Z | Null | https://github.com/rofiq999/fuzzy-guacamole-web11 | 0 | 0| 
 
 
 

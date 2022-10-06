@@ -76,6 +76,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T12:53:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1042 | 123| 
+| 20221006T12:27:09Z | pîrebok - a guided adversarial fuzzer | https://github.com/dogancanbakir/pirebok | 6 | 1| 
+| 20221006T10:51:14Z | Null | https://github.com/28tame/fuzzy-octo-chainsaw | 0 | 0| 
+| 20221006T08:01:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7907 | 1712| 
+| 20221006T03:22:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4369 | 1057| 
 | 20221006T00:02:07Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/ropwareJB/jwtfuzz | 2 | 0| 
 
 
