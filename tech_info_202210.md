@@ -61,8 +61,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T12:23:23Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 170 | 27| 
+| 20221006T12:20:28Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 0 | 0| 
 | 20221006T12:04:30Z | Null | https://github.com/SalvatoreSpina/Binaries_exploitations | 0 | 0| 
-| 20221006T11:51:33Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 168 | 27| 
 | 20221006T11:41:43Z | this is a demo attack of FOLLINA exploit , a vulnerability that has been discovered in May 2022 and stood unpatched until June 2022 | https://github.com/Imeneallouche/Follina-attack-CVE-2022-30190- | 0 | 0| 
 | 20221006T10:13:41Z | This project aims to exploit GANs to generate weights, later used to reproduce trajectories for a Franka Emika robot to accomplish the task of strawberry picking  | https://github.com/Castelli-F/GAN_image_to_weight | 0 | 0| 
 | 20221006T08:05:42Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 32 | 3| 
@@ -70,15 +71,14 @@
 | 20221006T06:24:55Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1164 | 105| 
 | 20221006T05:51:53Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 442 | 184| 
 | 20221006T01:04:00Z | Curated list of awesome exploits/hacks for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
-| 20221006T00:41:28Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 528 | 33| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T12:40:02Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 576 | 112| 
 | 20221006T11:36:13Z | Naxtarrr Shell Backdoor | https://github.com/nastar-id/naxtarrr-shell | 0 | 0| 
 | 20221006T11:24:38Z | Null | https://github.com/Mr-R013X-404/Backdoor-Shell | 0 | 0| 
-| 20221006T10:06:29Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 574 | 112| 
 | 20221006T07:08:19Z | R4B, a backdoor based on reverse port opening so as to avoid firewall detection. | https://github.com/darksidergod/R4B | 5 | 1| 
 | 20221006T01:12:18Z | Command and Control Backdoor | https://github.com/kevinseonpj/C-C-backdoor | 0 | 0| 
 | 20221005T20:27:18Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
@@ -91,8 +91,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221005T22:54:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2084 | 591| 
-| 20221005T02:11:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3135 | 442| 
+| 20221006T08:56:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2086 | 591| 
+| 20221006T08:41:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3136 | 442| 
+| 20221006T03:45:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 43| 
 | 20221004T06:12:51Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 489 | 28| 
 | 20221003T16:27:28Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 47 | 23| 
 | 20221003T13:17:36Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 76 | 16| 
