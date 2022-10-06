@@ -38,13 +38,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221006T12:04:30Z | Null | https://github.com/SalvatoreSpina/Binaries_exploitations | 0 | 0| 
+| 20221006T11:51:33Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 168 | 27| 
+| 20221006T11:41:43Z | this is a demo attack of FOLLINA exploit , a vulnerability that has been discovered in May 2022 and stood unpatched until June 2022 | https://github.com/Imeneallouche/Follina-attack-CVE-2022-30190- | 0 | 0| 
+| 20221006T10:13:41Z | This project aims to exploit GANs to generate weights, later used to reproduce trajectories for a Franka Emika robot to accomplish the task of strawberry picking  | https://github.com/Castelli-F/GAN_image_to_weight | 0 | 0| 
+| 20221006T08:05:42Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API, and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 32 | 3| 
+| 20221006T07:40:42Z | An exploiting hub i made | https://github.com/XbetaCodeIngBIGinner/Speedr-s-Exploiting-Hub-V1 | 0 | 0| 
+| 20221006T06:24:55Z | Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1164 | 105| 
+| 20221006T05:51:53Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 442 | 184| 
 | 20221006T01:04:00Z | Curated list of awesome exploits/hacks for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
 | 20221006T00:41:28Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 528 | 33| 
-| 20221006T00:37:11Z | Null | https://github.com/rwhmf55/PlayStation-4-Exploit | 0 | 0| 
-| 20221006T00:32:48Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1692 | 545| 
-| 20221006T00:14:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
-| 20221006T00:13:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
-| 20221006T00:12:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u | 1 | 0| 
 
 
 # backdoor on Github 推荐
