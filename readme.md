@@ -39,7 +39,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221005T23:44:01Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 527 | 33| 
 | 20221005T22:55:16Z | Tool to generate gopher links for exploiting SSRF | https://github.com/hupe1980/gopherfy | 0 | 0| 
 | 20221005T22:31:11Z | Curated list of awesome exploits for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
 | 20221005T22:25:53Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 111 | 10| 
@@ -49,6 +48,7 @@
 | 20221005T15:01:05Z | Config files for my GitHub profile. | https://github.com/WafflesExploit/WafflesExploit | 0 | 0| 
 | 20221005T12:42:25Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 96 | 14| 
 | 20221005T11:32:17Z | Null | https://github.com/Adoherrents/PS5-Exploit | 0 | 0| 
+| 20221005T11:16:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3664 | 449| 
 
 
 # backdoor on Github 推荐
