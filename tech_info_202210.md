@@ -44,12 +44,12 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T22:54:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2084 | 591| 
 | 20221005T12:30:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8175 | 275| 
 | 20221005T03:25:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 90 | 1| 
 | 20221003T22:10:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 40 | 1| 
 | 20221002T08:00:48Z | Null | https://github.com/IsaiahDaniel/kleencode | 0 | 0| 
 | 20221001T12:19:43Z | Null | https://github.com/spookyman69/kleen | 0 | 0| 
-| 20221001T04:15:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2083 | 591| 
 
 
 # s2e on Github 推荐
@@ -61,31 +61,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T23:44:01Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 527 | 33| 
+| 20221005T22:55:16Z | Tool to generate gopher links for exploiting SSRF | https://github.com/hupe1980/gopherfy | 0 | 0| 
+| 20221005T22:31:11Z | Curated list of awesome exploits for school (Proxy, Game Hacks, etc) | https://github.com/UntrustableRus/awesome-school-exploits | 0 | 0| 
+| 20221005T22:25:53Z | D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange. | https://github.com/Balasys/dheater | 111 | 10| 
+| 20221005T21:39:24Z | An exploiting hub i made | https://github.com/XbetaCodeIngBIGinner/Speedr-s-Exploiting-Hub-V1 | 0 | 0| 
+| 20221005T16:41:58Z | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I%ve developed over years for Red Teaming/Pentesting/IT Security audits purposes. | https://github.com/mgeeky/Penetration-Testing-Tools | 1701 | 350| 
+| 20221005T15:31:38Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 976 | 269| 
+| 20221005T15:01:05Z | Config files for my GitHub profile. | https://github.com/WafflesExploit/WafflesExploit | 0 | 0| 
 | 20221005T12:42:25Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 96 | 14| 
 | 20221005T11:32:17Z | Null | https://github.com/Adoherrents/PS5-Exploit | 0 | 0| 
-| 20221005T11:16:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3664 | 449| 
-| 20221005T10:59:02Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 1513 | 39| 
-| 20221005T10:11:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4927 | 681| 
-| 20221005T09:37:54Z | Lista de exploits para vulnerar máquinas retiradas de la plataforma Hack the Box y scripts propios para automatizar los procesos | https://github.com/E1P0TR0/CVE-Machines_htb | 1 | 0| 
-| 20221005T07:49:51Z | an AIO Botnet / watchdog / c&c / server | https://github.com/h0lyl337/Botnet | 1 | 0| 
-| 20221005T01:02:22Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 162 | 20| 
-| 20221005T00:59:20Z | Experiment to exploit 308 redirects for fingerprinting users | https://github.com/DanielCarmingham/exploit308 | 0 | 0| 
-| 20221005T00:01:15Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-p | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221005T20:27:18Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
+| 20221005T18:32:31Z | Naxtarrr Shell Backdoor | https://github.com/nastar-id/naxtarrr-shell | 0 | 0| 
+| 20221005T15:40:13Z | Null | https://github.com/michaelorina/python-backdoor | 1 | 0| 
 | 20221005T12:08:00Z | Kumpulan Shell Backdoor Untuk  We Up Ke sini:V Hehehe | https://github.com/bsl-offical/Shell-Backdoor | 0 | 0| 
 | 20221005T05:44:21Z | Null | https://github.com/yamengxi/Backdoor_XAI | 0 | 0| 
 | 20221004T19:16:13Z | telegram backdoor bot | https://github.com/Vermilonik/TelegramBackdoor | 0 | 0| 
+| 20221004T17:48:01Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 1 | 0| 
 | 20221004T14:47:40Z | These are experimental codes of Backdoor Learning by Arpad Berta | https://github.com/szegedai/backdoored-adversary | 0 | 0| 
 | 20221004T09:27:28Z | Receive credentials, discord tokens, backdoor and more functionality to come. | https://github.com/LTWeaver/Lazarus | 0 | 0| 
 | 20221004T04:44:43Z | WebShell/GIF.Backdoor.GEN , Yara Ruleset | https://github.com/Bashrc-007/WebShell-GIF.Backdoor.GEN | 0 | 0| 
-| 20221004T03:38:03Z | Null | https://github.com/BlackHoleSecurity/backdoor | 7 | 6| 
-| 20221003T11:53:31Z | Null | https://github.com/Luminate-D/LannBackdoor | 3 | 1| 
-| 20221003T11:50:42Z | Make a loader that puts a script into the website%s code. Has a keylogger and a live screen view | https://github.com/adrianvla/website-backdoor.js | 1 | 0| 
-| 20221002T20:48:58Z | Trojans generally spread by some form of social engineering; for example, where a user is duped into executing an email attachment disguised to appear innocuous (e.g., a routine form to be filled in), or by clicking on some fake advertisement on social media or anywhere else. Although their payload can be anything, many modern forms act as a backdoor, contacting a controller who can then have unauthorized access to the affected computer.[6] Ransomware attacks are often carried out using a trojan. | https://github.com/HUGOW04/Trojan | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -110,16 +110,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221005T12:12:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7904 | 1711| 
+| 20221006T00:02:07Z | Library for fuzzing & attacking JSON Web Tokens (JWTs). Bindings for other languages included. | https://github.com/ropwareJB/jwtfuzz | 2 | 0| 
+| 20221005T23:46:51Z | Null | https://github.com/TypicalViperX/fuzzy-octo-computing-machine | 0 | 0| 
+| 20221005T22:47:34Z | Block based fuzzer | https://github.com/kjn7/fuzzkit | 0 | 0| 
+| 20221005T22:47:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1038 | 123| 
+| 20221005T22:41:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7905 | 1712| 
+| 20221005T13:57:15Z | Null | https://github.com/5MysterySD/fuzzy-octo-adventure | 1 | 0| 
 | 20221005T12:01:52Z | Null | https://github.com/4812571/python-fuzz-example | 0 | 0| 
 | 20221005T09:59:12Z | Null | https://github.com/Bibiruu/fuzzy-umbrella | 0 | 0| 
 | 20221005T09:53:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1476 | 259| 
 | 20221005T09:28:49Z | Null | https://github.com/rofiq999/fuzzy-guacamole-web11 | 0 | 0| 
-| 20221005T08:08:10Z | Null | https://github.com/SeriestPier/3d_fuzzy_guidance_system | 0 | 0| 
-| 20221005T08:06:16Z | # small game in python | https://github.com/EugeneStephen/fuzzy-chainsaw | 0 | 0| 
-| 20221005T07:45:37Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3056 | 363| 
-| 20221005T07:09:05Z | Null | https://github.com/SpaceNaN/fuzzjit | 0 | 0| 
-| 20221005T01:36:45Z | Null | https://github.com/augustofarina/Logica-Fuzzy | 0 | 0| 
 
 
 
