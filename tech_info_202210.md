@@ -61,7 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221006T00:17:12Z | Null | https://github.com/rwhmf55/PlayStation-4-Exploit | 0 | 0| 
+| 20221006T00:26:21Z | Null | https://github.com/rwhmf55/PlayStation-4-Exploit | 0 | 0| 
 | 20221006T00:14:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20221006T00:13:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20221006T00:12:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u | 1 | 0| 
