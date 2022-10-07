@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221007T12:21:27Z | Null | https://github.com/ThanhTu130200/fuzzy-correction | 0 | 0| 
 | 20221007T11:28:52Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 77 | 12| 
 | 20221007T10:43:32Z | Null | https://github.com/agon9877/fuzzy-guacamole | 0 | 0| 
 | 20221007T10:10:28Z | Config files for my GitHub profile. | https://github.com/FuzzyAzzy/FuzzyAzzy | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20221007T04:28:56Z | Null | https://github.com/EmadShawky/fuzz | 0 | 0| 
 | 20221007T01:47:09Z | Discovering ways of forming fuzzy sets and operations on them | https://github.com/SJzamula/FuzzyLogic1 | 0 | 0| 
 | 20221007T01:19:07Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1269 | 25| 
-| 20221007T01:05:45Z | Fuzzing Development | https://github.com/r0t0tiller/Fuzzing | 1 | 1| 
 
 
 
