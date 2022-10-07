@@ -46,7 +46,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221006T22:48:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4931 | 682| 
 | 20221006T21:55:36Z | We present a framework called TLF that builds a classifier for the target domain having only few labeled training records by transferring knowledge from the source domain having many labeled records. While existing methods often focus on one issue and leave the other one for the further work, TLF is capable of handling both issues simultaneously. In TLF, we alleviate feature discrepancy by identifying shared label distributions that act as the pivots to bridge the domains. We handle distribution divergence by simultaneously optimizing the structural risk functional, joint distributions between domains, and the manifold consistency underlying marginal distributions. Moreover, for the manifold consistency we exploit its intrinsic properties by identifying $k$ nearest neighbors of a record, where the value of k is determined automatically in TLF. Furthermore, since negative transfer is not desired, we consider only the source records that are belonging to the source pivots during the knowledge transfer. We evaluate TLF on seven publicly available natural datasets and compare the performance of TLF against the performance of eleven state-of-the-art techniques. We also evaluate the effectiveness of TLF in some challenging situations. Our experimental results, including statistical sign test and Nemenyi test analyses, indicate a clear superiority of the proposed framework over the state-of-the-art techniques. | https://github.com/grahman20/TLF | 0 | 0| 
-| 20221006T20:59:51Z | Simple scripts & exploration of what is possible to do with Python in the ethical hacking field. Key motivation is to secure the existing computer systems by exploiting its weaknesses first. Dedicated to all the curious & capable makers of tomorrow.  | https://github.com/biplabro/Ethical-Hacking-Using-Python | 0 | 0| 
 | 20221006T20:27:14Z | LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking. | https://github.com/n4ru/1vyrain | 800 | 55| 
 | 20221006T20:21:51Z | A hub i made of different scripts. | https://github.com/XbetaCodeIngBIGinner/Speedr-s-Exploiting-Hub | 0 | 0| 
 | 20221006T15:42:31Z | this is a demo attack of FOLLINA exploit , a vulnerability that has been discovered in May 2022 and stood unpatched until June 2022 | https://github.com/Imeneallouche/Follina-attack-CVE-2022-30190- | 0 | 0| 
@@ -54,6 +53,7 @@
 | 20221006T12:50:36Z | Null | https://github.com/vesselfun/exploiters12604 | 0 | 0| 
 | 20221006T12:23:23Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 170 | 27| 
 | 20221006T12:20:28Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 0 | 0| 
+| 20221006T12:04:30Z | Null | https://github.com/SalvatoreSpina/Binaries_exploitations | 0 | 0| 
 
 
 # backdoor on Github 推荐
