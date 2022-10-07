@@ -71,7 +71,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221006T19:31:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3137 | 442| 
+| 20221006T19:31:09Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3137 | 443| 
 | 20221006T14:28:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 20| 
 | 20221006T08:56:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2086 | 591| 
 | 20221006T03:45:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 45| 
