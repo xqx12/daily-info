@@ -85,7 +85,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221006T21:51:06Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1268 | 25| 
 | 20221006T20:56:44Z | Null | https://github.com/OpenMandrivaAssociation/octave-fuzzy-logic-toolkit | 0 | 0| 
 | 20221006T20:43:56Z | Null | https://github.com/parradaniela/fuzzy-fiesta | 0 | 0| 
 | 20221006T20:32:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1046 | 124| 
