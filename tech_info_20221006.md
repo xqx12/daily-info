@@ -85,7 +85,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221006T12:53:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1042 | 123| 
+| 20221006T21:51:06Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1268 | 25| 
+| 20221006T20:56:44Z | Null | https://github.com/OpenMandrivaAssociation/octave-fuzzy-logic-toolkit | 0 | 0| 
+| 20221006T20:43:56Z | Null | https://github.com/parradaniela/fuzzy-fiesta | 0 | 0| 
+| 20221006T20:32:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1046 | 124| 
+| 20221006T16:08:31Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1531 | 68| 
 | 20221006T12:27:09Z | pîrebok - a guided adversarial fuzzer | https://github.com/dogancanbakir/pirebok | 6 | 1| 
 | 20221006T10:51:14Z | Null | https://github.com/28tame/fuzzy-octo-chainsaw | 0 | 0| 
 | 20221006T08:01:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7907 | 1712| 
