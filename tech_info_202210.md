@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221007T12:23:52Z | HexBuddy Stealer is a Post-Exploitation Tool For Penetration Testers Based On Batch Script, Its Job Is To Steal The Browser And Wi-Fi Passwords Stored On The Computer And Send It TO The C2 Server On Discord | https://github.com/255815/HexBuddy-Stealer | 0 | 0| 
 | 20221007T12:07:07Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 199 | 28| 
 | 20221007T12:04:27Z | fully advance and powerful android rat 2022 | https://github.com/thepowerraj/SNK-RAT | 1 | 0| 
 | 20221007T11:57:38Z | Traitements et exploitation de données avec du DEEP LEARNING  et MACHINE LEARNING : nettoyage, prédictions, analyse, réseaux de neurones... | https://github.com/Michel-Nassalang/IA_TP | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20221007T09:42:45Z | Null | https://github.com/H4CK3RT3CH/awesome-exploit-development | 0 | 0| 
 | 20221007T09:05:05Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3101 | 471| 
 | 20221007T01:55:45Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 444 | 185| 
-| 20221007T01:08:38Z | Simple scripts & exploration of what is possible to do with Python in the ethical hacking field. Key motivation is to secure the existing computer systems by exploiting its weaknesses first. Dedicated to all the curious & capable makers of tomorrow.  | https://github.com/biplabro/Ethical-Hacking-Using-Python | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,7 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221007T12:21:27Z | Null | https://github.com/ThanhTu130200/fuzzy-correction | 0 | 0| 
+| 20221007T12:25:56Z | Null | https://github.com/ThanhTu130200/fuzzy-correction | 0 | 0| 
 | 20221007T11:28:52Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 77 | 12| 
 | 20221007T10:43:32Z | Null | https://github.com/agon9877/fuzzy-guacamole | 0 | 0| 
 | 20221007T10:10:28Z | Config files for my GitHub profile. | https://github.com/FuzzyAzzy/FuzzyAzzy | 0 | 0| 
