@@ -39,11 +39,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221007T12:04:27Z | fully advance and powerful android rat 2022 | https://github.com/thepowerraj/SNK-RAT | 1 | 0| 
 | 20221007T11:57:38Z | Traitements et exploitation de données avec du DEEP LEARNING  et MACHINE LEARNING : nettoyage, prédictions, analyse, réseaux de neurones... | https://github.com/Michel-Nassalang/IA_TP | 0 | 0| 
 | 20221007T11:29:42Z | Try to exploit BSC iavl vulnerability using latest IAVL/Tendermint | https://github.com/tzdybal/iavlvuln | 0 | 0| 
 | 20221007T11:23:59Z | Null | https://github.com/weeeeee8/ebg-exploits | 0 | 0| 
 | 20221007T10:47:44Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 198 | 28| 
-| 20221007T10:44:35Z | fully advance and powerful android rat 2022 | https://github.com/thepowerraj/SNK-RAT | 0 | 0| 
 | 20221007T09:51:32Z | An utility mod for various GUI exploits | https://github.com/RainVaporeon/InvGui | 3 | 0| 
 | 20221007T09:42:45Z | Null | https://github.com/H4CK3RT3CH/awesome-exploit-development | 0 | 0| 
 | 20221007T09:05:05Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3101 | 471| 
@@ -62,6 +62,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221007T09:21:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3141 | 443| 
 
 
 # big4 on Github 推荐
