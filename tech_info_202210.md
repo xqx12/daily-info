@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221007T01:47:09Z | Discovering ways of forming fuzzy sets and operations on them | https://github.com/SJzamula/FuzzyLogic1 | 0 | 0| 
 | 20221007T01:19:07Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1269 | 25| 
 | 20221007T01:05:45Z | Fuzzing Development | https://github.com/r0t0tiller/Fuzzing | 1 | 1| 
 | 20221006T20:56:44Z | Null | https://github.com/OpenMandrivaAssociation/octave-fuzzy-logic-toolkit | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20221006T12:27:09Z | pîrebok - a guided adversarial fuzzer | https://github.com/dogancanbakir/pirebok | 6 | 1| 
 | 20221006T10:51:14Z | Null | https://github.com/28tame/fuzzy-octo-chainsaw | 0 | 0| 
 | 20221006T08:01:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7907 | 1712| 
-| 20221006T03:22:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4369 | 1057| 
 
 
 
