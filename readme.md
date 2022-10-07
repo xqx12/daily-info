@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221007T12:28:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 73 | 4| 
 | 20221007T12:25:56Z | Null | https://github.com/ThanhTu130200/fuzzy-correction | 0 | 0| 
 | 20221007T11:28:52Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 77 | 12| 
 | 20221007T10:43:32Z | Null | https://github.com/agon9877/fuzzy-guacamole | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20221007T07:12:14Z | Swagger-API-Fuzzing-Lists | https://github.com/Steiner-254/Swagger-API-Fuzzing-Lists | 0 | 0| 
 | 20221007T04:28:56Z | Null | https://github.com/EmadShawky/fuzz | 0 | 0| 
 | 20221007T01:47:09Z | Discovering ways of forming fuzzy sets and operations on them | https://github.com/SJzamula/FuzzyLogic1 | 0 | 0| 
-| 20221007T01:19:07Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1269 | 25| 
 
 
 
