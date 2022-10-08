@@ -29,6 +29,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221008T01:08:50Z | CVE-2021-41773 | Apache 2.4.49 & 2.4.50 Path Traversal to RCE exploit | https://github.com/Juuso1337/CVE-2021-41773 | | 
+| 20221008T01:08:47Z | 未知编号 | A PoC exploit for the Apache Any23 <=2.5 RCE vulnerability  | https://github.com/jsharp6968/cve_2021_40146 | | 
+| 20221008T01:08:26Z | CVE-2022-41040 | Code set relating to CVE-2022-41040 | https://github.com/d3duct1v/CVE-2022-41040 | | 
 | 20221008T01:03:45Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
 | 20221008T01:03:42Z | CVE-2022-39959 | CVE-2022-39959 | https://github.com/usmarine2141/CVE-2022-39959 | | 
 | 20221008T01:03:41Z | CVE-2022-34918 | 1-day case study | https://github.com/Sechack06/CVE-2022-34918 | | 
@@ -36,9 +39,6 @@
 | 20221008T01:03:37Z | CVE-2022-38766 | PoC for vulnerability in Renault ZOE Keyless System(CVE-2022-38766) | https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766 | | 
 | 20221008T01:03:29Z | CVE-2021-29156 | PoC for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
 | 20221008T01:03:27Z | cve-2022-1040 | Save the trouble to open the burpsuite...Please do not use it for illegal purposes. | https://github.com/Keith-amateur/cve-2022-1040 | | 
-| 20221008T01:03:23Z | CVE-2022-21971 | POC Of CVE-2022-21971  | https://github.com/Malwareman007/CVE-2022-21971 | | 
-| 20221008T01:03:20Z | CVE-2022-26937 | POC Of CVE-2022-26937 | https://github.com/Malwareman007/CVE-2022-26937 | | 
-| 20221006T22:37:49Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/kevbeaumont/CVE-2022-41040-RCE-POC | | 
 
 
 # klee on Github 推荐
@@ -117,8 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T01:10:55Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1341 | 26| 
 | 20221008T00:54:27Z | Null | https://github.com/giacomo3000/fuzzy-octo-guacamole | 0 | 0| 
-| 20221008T00:41:43Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1340 | 26| 
 | 20221007T23:09:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7911 | 1715| 
 | 20221007T22:52:29Z | A Burpsuite extension written in Python to perform basic validation fuzzing | https://github.com/wdahlenburg/LogicalFuzzingEngine | 10 | 4| 
 | 20221007T22:30:10Z | Making a configurable fuzzy search in javascript | https://github.com/JakeAve/fuzzy-seach | 0 | 0| 
