@@ -80,9 +80,9 @@
 | 20221007T20:15:36Z | A better `/give` command for Minetest. | https://github.com/walking-octopus/fuzzy_give | 0 | 0| 
 | 20221007T19:05:07Z | Null | https://github.com/tomrsae/c-string-sanitizer-with-fuzzing | 0 | 0| 
 | 20221007T18:21:38Z | Null | https://github.com/jackzhen1996/fuzzySearch | 0 | 0| 
-| 20221007T13:07:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4371 | 1056| 
 | 20221007T12:28:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 73 | 4| 
 | 20221007T12:25:56Z | Null | https://github.com/ThanhTu130200/fuzzy-correction | 0 | 0| 
+| 20221007T11:28:52Z | Companion repository to the Fuzzing101 with LibAFL series of blog posts. | https://github.com/epi052/fuzzing-101-solutions | 77 | 12| 
 
 
 
