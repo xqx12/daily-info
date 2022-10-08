@@ -68,13 +68,13 @@
 | 20221008T00:18:40Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4933 | 682| 
 | 20221007T23:32:16Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 600 | 41| 
 | 20221007T23:25:38Z | Done as an exercise for me to further understand exploits and how to protect against them | https://github.com/lazaralex98/common-exploits-PoC | 0 | 0| 
+| 20221007T22:36:46Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2996 | 455| 
 | 20221007T22:25:10Z | Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface. | https://github.com/tijme/cmstplua-uac-bypass | 0 | 1| 
 | 20221007T20:45:20Z | Repo for code and datasets used in:  Exploiting Label Dependencies for Multi-Label Text Classification Using Transformers | https://github.com/hf-lis/ECIR2023 | 0 | 0| 
 | 20221007T19:15:03Z | an AIO Botnet / watchdog / c&c / server | https://github.com/h0lyl337/Drakaina-Botnet | 3 | 1| 
 | 20221007T14:22:21Z | Web3 threat related labelled datasets for data analysis and machine learning developments. | https://github.com/forta-network/labelled-datasets | 1 | 0| 
 | 20221007T12:23:52Z | HexBuddy Stealer is a Post-Exploitation Tool For Penetration Testers Based On Batch Script, Its Job Is To Steal The Browser And Wi-Fi Passwords Stored On The Computer And Send It TO The C2 Server On Discord | https://github.com/255815/HexBuddy-Stealer | 0 | 0| 
 | 20221007T12:07:07Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 199 | 28| 
-| 20221007T12:04:27Z | fully advance and powerful android rat 2022 | https://github.com/thepowerraj/SNK-RAT | 1 | 0| 
 
 
 # backdoor on Github 推荐
