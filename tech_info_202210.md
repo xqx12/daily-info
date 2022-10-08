@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T12:31:54Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 239 | 53| 
 | 20221008T12:22:16Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 229 | 35| 
 | 20221008T12:16:48Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3486 | 727| 
 | 20221008T12:16:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | 1 | 0| 
@@ -74,34 +75,34 @@
 | 20221008T10:56:38Z | Null | https://github.com/AhmadBayati/EXPLOIT | 0 | 0| 
 | 20221008T10:14:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3666 | 449| 
 | 20221008T09:46:26Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3281 | 221| 
-| 20221008T08:09:49Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 446 | 187| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221008T09:50:08Z | ((Disclaimant)) This simple backdoor wrote in C# is for demonstrational purposes ONLY any use of this file for other purposes is forbidden! | https://github.com/mtaghadosi/simple-backdoor | 0 | 0| 
+| 20221008T06:59:20Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 357 | 125| 
 | 20221007T18:57:56Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 4 | 0| 
 | 20221007T16:18:55Z | A basic implementation of Dual EC DRBG in C# | https://github.com/AGuyNamedTal/ECC-Backdoor-DUAL_EC_DRBG-Implementation | 0 | 0| 
 | 20221007T08:47:48Z | Null | https://github.com/SCLBD/Effective_backdoor_defense | 1 | 0| 
 | 20221007T08:23:35Z | A handler I made to interact with the PHP 8.1.0-dev backdoor.  | https://github.com/shafdo/php-8.1.0-dev-backdoor-handler | 0 | 0| 
 | 20221007T07:19:45Z | This is the official implementation of our paper %Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection%, accepted in NeurIPS 2022. | https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark | 13 | 1| 
 | 20221006T21:48:22Z | A fully undetected assembly reverse shell backdoor for Windows. | https://github.com/Ay0ubN0uri/win-rev-shell | 0 | 0| 
-| 20221006T14:12:01Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 577 | 112| 
+| 20221006T14:12:01Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 577 | 113| 
 | 20221006T13:41:58Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 3 | 0| 
-| 20221006T11:36:13Z | Naxtarrr Shell Backdoor | https://github.com/nastar-id/naxtarrr-shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221008T12:18:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3142 | 443| 
+| 20221008T09:44:47Z | Code for tracelet-level symbolic execution | https://github.com/sem2vec/sem2vec-SE | 4 | 0| 
 | 20221008T02:52:09Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 48 | 23| 
+| 20221007T06:45:17Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 490 | 28| 
 | 20221006T14:28:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 20| 
 | 20221006T08:56:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2086 | 591| 
 | 20221006T03:45:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 45| 
 | 20221004T11:17:32Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 71 | 1| 
-| 20221004T06:12:51Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 489 | 28| 
 | 20221003T13:17:36Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 76 | 16| 
 | 20221001T02:59:24Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 23 | 4| 
 

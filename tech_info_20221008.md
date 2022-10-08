@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T12:31:54Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 239 | 53| 
 | 20221008T12:22:16Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 229 | 35| 
 | 20221008T12:16:48Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3486 | 727| 
 | 20221008T12:16:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | 1 | 0| 
@@ -56,19 +57,20 @@
 | 20221008T10:56:38Z | Null | https://github.com/AhmadBayati/EXPLOIT | 0 | 0| 
 | 20221008T10:14:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3666 | 449| 
 | 20221008T09:46:26Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3281 | 221| 
-| 20221008T08:09:49Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 446 | 187| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221008T09:50:08Z | ((Disclaimant)) This simple backdoor wrote in C# is for demonstrational purposes ONLY any use of this file for other purposes is forbidden! | https://github.com/mtaghadosi/simple-backdoor | 0 | 0| 
+| 20221008T06:59:20Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 357 | 125| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221008T12:18:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3142 | 443| 
+| 20221008T09:44:47Z | Code for tracelet-level symbolic execution | https://github.com/sem2vec/sem2vec-SE | 4 | 0| 
 | 20221008T02:52:09Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 48 | 23| 
 
 
