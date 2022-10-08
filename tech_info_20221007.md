@@ -38,7 +38,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221007T23:25:38Z | Done as an exercise for me to further understand exploits and how to protect against them | https://github.com/lazaralex98/common-exploits-PoC | 0 | 0| 
-| 20221007T22:36:46Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2996 | 455| 
 | 20221007T22:25:10Z | Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface. | https://github.com/tijme/cmstplua-uac-bypass | 0 | 1| 
 | 20221007T20:45:20Z | Repo for code and datasets used in:  Exploiting Label Dependencies for Multi-Label Text Classification Using Transformers | https://github.com/hf-lis/ECIR2023 | 0 | 0| 
 | 20221007T19:15:03Z | an AIO Botnet / watchdog / c&c / server | https://github.com/h0lyl337/Drakaina-Botnet | 3 | 1| 
@@ -47,6 +46,7 @@
 | 20221007T12:07:07Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 199 | 28| 
 | 20221007T12:04:27Z | fully advance and powerful android rat 2022 | https://github.com/thepowerraj/SNK-RAT | 1 | 0| 
 | 20221007T11:57:38Z | Traitements et exploitation de données avec du DEEP LEARNING  et MACHINE LEARNING : nettoyage, prédictions, analyse, réseaux de neurones... | https://github.com/Michel-Nassalang/IA_TP | 0 | 0| 
+| 20221007T11:54:47Z | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | 143 | 32| 
 
 
 # backdoor on Github 推荐

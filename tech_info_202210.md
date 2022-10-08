@@ -65,13 +65,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T01:07:17Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2997 | 455| 
 | 20221008T01:00:16Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-r | 0 | 0| 
 | 20221008T00:59:43Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-r | 1 | 0| 
 | 20221008T00:58:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 1 | 0| 
 | 20221008T00:56:39Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 600 | 41| 
 | 20221008T00:18:40Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4933 | 682| 
 | 20221007T23:25:38Z | Done as an exercise for me to further understand exploits and how to protect against them | https://github.com/lazaralex98/common-exploits-PoC | 0 | 0| 
-| 20221007T22:36:46Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2996 | 455| 
 | 20221007T22:25:10Z | Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface. | https://github.com/tijme/cmstplua-uac-bypass | 0 | 1| 
 | 20221007T20:45:20Z | Repo for code and datasets used in:  Exploiting Label Dependencies for Multi-Label Text Classification Using Transformers | https://github.com/hf-lis/ECIR2023 | 0 | 0| 
 | 20221007T19:15:03Z | an AIO Botnet / watchdog / c&c / server | https://github.com/h0lyl337/Drakaina-Botnet | 3 | 1| 
