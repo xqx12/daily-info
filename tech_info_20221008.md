@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221008T12:56:42Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/7BitsTeam-exch_CVE-2021-42321 | | 
 | 20221008T12:53:03Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/exch_CVE-2021-42321 | | 
 | 20221008T12:08:35Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
 | 20221008T11:50:12Z | CVE-2021-4045 | TP-Link Tapo c200 ver <1.1.15 - Remote Code Execution (RCE) | https://github.com/1x019/CVE-2021-4045 | | 
@@ -28,7 +29,6 @@
 | 20221008T08:47:55Z | CVE-2020-26878 | Null | https://github.com/htarsoo/CVE-2020-26878 | | 
 | 20221008T08:36:57Z | CVE-2022-41082 | MASS SCANNER FOR PROXYNOTSHELL (CVE-2022-41082 & CVE-2022-41040) | https://github.com/b3wT/CVE-2022-41082-MASS-SCANNER | | 
 | 20221008T08:24:35Z | CVE-2022-31629 | CVE-2022-31629 POC | https://github.com/SilNex/CVE-2022-31629-poc | | 
-| 20221008T08:05:38Z | CVE-2022-21971 | POC Of CVE-2022-21971  | https://github.com/Malwareman007/CVE-2022-21971 | | 
 
 
 # klee on Github 推荐
