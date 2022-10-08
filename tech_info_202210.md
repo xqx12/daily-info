@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221008T12:48:40Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/exch_CVE-2021-42321 | | 
+| 20221008T12:53:03Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/exch_CVE-2021-42321 | | 
 | 20221008T12:08:35Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
 | 20221008T11:50:12Z | CVE-2021-4045 | TP-Link Tapo c200 ver <1.1.15 - Remote Code Execution (RCE) | https://github.com/1x019/CVE-2021-4045 | | 
 | 20221008T11:42:49Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
