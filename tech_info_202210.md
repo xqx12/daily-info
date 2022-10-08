@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221008T00:25:11Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1337 | 26| 
+| 20221008T00:32:04Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1338 | 26| 
 | 20221007T23:09:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7911 | 1715| 
 | 20221007T22:52:29Z | A Burpsuite extension written in Python to perform basic validation fuzzing | https://github.com/wdahlenburg/LogicalFuzzingEngine | 10 | 4| 
 | 20221007T22:30:10Z | Making a configurable fuzzy search in javascript | https://github.com/JakeAve/fuzzy-seach | 0 | 0| 
