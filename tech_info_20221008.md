@@ -84,6 +84,7 @@
 | 20221008T10:40:06Z | Null | https://github.com/AvinashReddy19/fuzzy-memory | 0 | 0| 
 | 20221008T08:56:34Z | fuzz all type  of most comman attackes  | https://github.com/bZxNetwork/fuzz | 0 | 1| 
 | 20221008T08:20:03Z | online wordlists for fuzzing  | https://github.com/mdn1nj4/wordlist | 0 | 0| 
+| 20221008T06:05:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3066 | 364| 
 | 20221008T05:36:30Z | Null | https://github.com/PoShaung/program-smoothing-fuzzing | 3 | 1| 
 | 20221008T01:59:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4372 | 1056| 
 | 20221008T01:23:20Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1342 | 26| 
