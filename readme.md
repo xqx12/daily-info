@@ -16,13 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221007T18:10:02Z | CVE-2022-26937 | POC Of CVE-2022-26937 | https://github.com/Malwareman007/CVE-2022-26937 | | 
-| 20221007T17:26:04Z | CVE-2022-21971 | POC Of CVE-2022-21971  | https://github.com/Malwareman007/CVE-2022-21971 | | 
-| 20221007T15:13:41Z | cve-2022-1040 | Save the trouble to open the burpsuite...Please do not use it for illegal purposes. | https://github.com/Keith-amateur/cve-2022-1040 | | 
-| 20221007T10:20:00Z | CVE-2021-29156 | PoC for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
-| 20221007T08:15:23Z | CVE-2022-31629 | CVE-2022-31629 POC | https://github.com/SilNex/CVE-2022-31629-poc | | 
-| 20221007T08:07:18Z | CVE-2022-34918 | 1-day case study | https://github.com/Sechack06/CVE-2022-34918 | | 
-| 20221007T06:28:02Z | CVE-2022-39959 | CVE-2022-39959 | https://github.com/usmarine2141/CVE-2022-39959 | | 
 
 
 # klee on Github 推荐
