@@ -29,6 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221008T01:37:52Z | CVE-2022-21971 | POC Of CVE-2022-21971  | https://github.com/Malwareman007/CVE-2022-21971 | | 
 | 20221008T01:08:50Z | CVE-2021-41773 | Apache 2.4.49 & 2.4.50 Path Traversal to RCE exploit | https://github.com/Juuso1337/CVE-2021-41773 | | 
 | 20221008T01:08:47Z | 未知编号 | A PoC exploit for the Apache Any23 <=2.5 RCE vulnerability  | https://github.com/jsharp6968/cve_2021_40146 | | 
 | 20221008T01:08:26Z | CVE-2022-41040 | Code set relating to CVE-2022-41040 | https://github.com/d3duct1v/CVE-2022-41040 | | 
@@ -38,7 +39,6 @@
 | 20221008T01:03:39Z | CVE-2022-31629 | CVE-2022-31629 POC | https://github.com/SilNex/CVE-2022-31629-poc | | 
 | 20221008T01:03:37Z | CVE-2022-38766 | PoC for vulnerability in Renault ZOE Keyless System(CVE-2022-38766) | https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766 | | 
 | 20221008T01:03:29Z | CVE-2021-29156 | PoC for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
-| 20221008T01:03:27Z | cve-2022-1040 | Save the trouble to open the burpsuite...Please do not use it for illegal purposes. | https://github.com/Keith-amateur/cve-2022-1040 | | 
 
 
 # klee on Github 推荐
