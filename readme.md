@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221008T12:33:43Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/exch_CVE-2021-42321 | | 
 | 20221008T12:08:35Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
 | 20221008T11:50:12Z | CVE-2021-4045 | TP-Link Tapo c200 ver <1.1.15 - Remote Code Execution (RCE) | https://github.com/1x019/CVE-2021-4045 | | 
 | 20221008T11:42:49Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
@@ -28,7 +29,6 @@
 | 20221008T08:36:57Z | CVE-2022-41082 | MASS SCANNER FOR PROXYNOTSHELL (CVE-2022-41082 & CVE-2022-41040) | https://github.com/b3wT/CVE-2022-41082-MASS-SCANNER | | 
 | 20221008T08:24:35Z | CVE-2022-31629 | CVE-2022-31629 POC | https://github.com/SilNex/CVE-2022-31629-poc | | 
 | 20221008T08:05:38Z | CVE-2022-21971 | POC Of CVE-2022-21971  | https://github.com/Malwareman007/CVE-2022-21971 | | 
-| 20221008T08:03:42Z | CVE-2022-26937 | POC Of CVE-2022-26937 | https://github.com/Malwareman007/CVE-2022-26937 | | 
 
 
 # klee on Github 推荐
@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T12:35:18Z | Null | https://github.com/donnael/fuzzy-goggles | 0 | 0| 
 | 20221008T10:40:06Z | Null | https://github.com/AvinashReddy19/fuzzy-memory | 0 | 0| 
 | 20221008T08:56:34Z | fuzz all type  of most comman attackes  | https://github.com/bZxNetwork/fuzz | 0 | 1| 
 | 20221008T08:20:03Z | online wordlists for fuzzing  | https://github.com/mdn1nj4/wordlist | 0 | 0| 
