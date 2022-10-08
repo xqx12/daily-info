@@ -47,7 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221008T12:15:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | 0 | 0| 
+| 20221008T12:16:48Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3486 | 727| 
+| 20221008T12:16:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | 1 | 0| 
 | 20221008T12:15:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-z | 1 | 0| 
 | 20221008T12:12:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-z | 1 | 0| 
 | 20221008T11:28:27Z | Wii U Exploit example files | https://github.com/cedkeChat/www-Wii-U-Exploit | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20221008T10:56:38Z | Null | https://github.com/AhmadBayati/EXPLOIT | 0 | 0| 
 | 20221008T10:14:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3666 | 449| 
 | 20221008T09:46:26Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3281 | 221| 
-| 20221008T08:12:06Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3485 | 727| 
 | 20221008T08:09:49Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 446 | 187| 
 
 
