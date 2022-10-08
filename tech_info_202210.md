@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T12:12:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-z | 1 | 0| 
 | 20221008T11:28:27Z | Wii U Exploit example files | https://github.com/cedkeChat/www-Wii-U-Exploit | 0 | 0| 
 | 20221008T11:28:19Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 228 | 34| 
 | 20221008T10:56:38Z | Null | https://github.com/AhmadBayati/EXPLOIT | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20221008T08:09:49Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 446 | 187| 
 | 20221008T07:52:02Z | Hello there! This Buffer Overflow documentation provides a complete demonstration, understanding and scripts necessary for buffer overflow exploitation.  | https://github.com/dhairyaattri/Buffer-Overflow | 0 | 0| 
 | 20221008T05:37:15Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 238 | 53| 
-| 20221008T05:12:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 532 | 142| 
 
 
 # backdoor on Github 推荐
