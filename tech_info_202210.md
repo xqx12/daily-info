@@ -65,8 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T12:58:04Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 230 | 35| 
 | 20221008T12:31:54Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 239 | 53| 
-| 20221008T12:22:16Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 229 | 35| 
 | 20221008T12:16:48Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3486 | 727| 
 | 20221008T12:16:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-z | 1 | 0| 
 | 20221008T12:15:14Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-z | 1 | 0| 
