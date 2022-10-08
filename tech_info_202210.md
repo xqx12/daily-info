@@ -29,6 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221008T12:05:41Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
 | 20221008T11:50:12Z | CVE-2021-4045 | TP-Link Tapo c200 ver <1.1.15 - Remote Code Execution (RCE) | https://github.com/1x019/CVE-2021-4045 | | 
 | 20221008T11:42:49Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221008T10:51:52Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
@@ -38,7 +39,6 @@
 | 20221008T08:24:35Z | CVE-2022-31629 | CVE-2022-31629 POC | https://github.com/SilNex/CVE-2022-31629-poc | | 
 | 20221008T08:05:38Z | CVE-2022-21971 | POC Of CVE-2022-21971  | https://github.com/Malwareman007/CVE-2022-21971 | | 
 | 20221008T08:03:42Z | CVE-2022-26937 | POC Of CVE-2022-26937 | https://github.com/Malwareman007/CVE-2022-26937 | | 
-| 20221008T07:53:18Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyNotShell | https://github.com/kevibeaumont/CVE-2022-41082-RCE-POC | | 
 
 
 # klee on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T10:40:06Z | Null | https://github.com/AvinashReddy19/fuzzy-memory | 0 | 0| 
+| 20221008T08:56:34Z | fuzz all type  of most comman attackes  | https://github.com/bZxNetwork/fuzz | 0 | 1| 
+| 20221008T08:20:03Z | online wordlists for fuzzing  | https://github.com/mdn1nj4/wordlist | 0 | 0| 
+| 20221008T05:36:30Z | Null | https://github.com/PoShaung/program-smoothing-fuzzing | 3 | 1| 
 | 20221008T01:59:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4372 | 1056| 
 | 20221008T01:23:20Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1342 | 26| 
 | 20221008T00:54:27Z | Null | https://github.com/giacomo3000/fuzzy-octo-guacamole | 0 | 0| 
 | 20221007T23:09:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7911 | 1715| 
 | 20221007T22:52:29Z | A Burpsuite extension written in Python to perform basic validation fuzzing | https://github.com/wdahlenburg/LogicalFuzzingEngine | 10 | 4| 
 | 20221007T22:30:10Z | Making a configurable fuzzy search in javascript | https://github.com/JakeAve/fuzzy-seach | 0 | 0| 
-| 20221007T21:37:04Z | Demo code and presos for Go fuzzing | https://github.com/katiehockman/fuzzing | 0 | 0| 
-| 20221007T20:15:36Z | A better `/give` command for Minetest. | https://github.com/walking-octopus/fuzzy_give | 0 | 0| 
-| 20221007T19:05:07Z | Null | https://github.com/tomrsae/c-string-sanitizer-with-fuzzing | 0 | 0| 
-| 20221007T18:21:38Z | Null | https://github.com/jackzhen1996/fuzzySearch | 0 | 0| 
 
 
 
