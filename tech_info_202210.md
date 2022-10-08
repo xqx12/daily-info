@@ -65,8 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T00:56:39Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 600 | 41| 
 | 20221008T00:18:40Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4933 | 682| 
-| 20221007T23:32:16Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 600 | 41| 
 | 20221007T23:25:38Z | Done as an exercise for me to further understand exploits and how to protect against them | https://github.com/lazaralex98/common-exploits-PoC | 0 | 0| 
 | 20221007T22:36:46Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2996 | 455| 
 | 20221007T22:25:10Z | Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface. | https://github.com/tijme/cmstplua-uac-bypass | 0 | 1| 
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T00:54:27Z | Null | https://github.com/giacomo3000/fuzzy-octo-guacamole | 0 | 0| 
 | 20221008T00:41:43Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1340 | 26| 
 | 20221007T23:09:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7911 | 1715| 
 | 20221007T22:52:29Z | A Burpsuite extension written in Python to perform basic validation fuzzing | https://github.com/wdahlenburg/LogicalFuzzingEngine | 10 | 4| 
@@ -126,7 +127,6 @@
 | 20221007T19:05:07Z | Null | https://github.com/tomrsae/c-string-sanitizer-with-fuzzing | 0 | 0| 
 | 20221007T18:21:38Z | Null | https://github.com/jackzhen1996/fuzzySearch | 0 | 0| 
 | 20221007T13:07:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4371 | 1056| 
-| 20221007T12:28:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 73 | 4| 
 
 
 
