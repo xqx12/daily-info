@@ -14,6 +14,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221008 | 网络空间战略预警体系的建设思考 | https://mp.weixin.qq.com/s/2z9ze6N4p2R_Tokbk0g-vA| 
+| 20221008 | 云原生安全系列（一） , Kubernetes云原生靶场搭建 | https://mp.weixin.qq.com/s/XmEhvrzwmcjW9lBIZMl2ag| 
+| 20221008 | Thinkphp5.1应用初探 | https://www.sec-in.com/article/1733| 
 | 20221005 | 将ModSecurity内置到java应用实现第一代rasp | https://my.oschina.net/9199771/blog/5582107| 
 | 20221004 | Serverless安全揭秘：架构、风险与防护措施 | https://www.anquanke.com/post/id/281021| 
 | 20221004 | IDOR相关研究 | https://mp.weixin.qq.com/s/C6NuprrVSAx2Nh0fPXidwA| 
@@ -21,29 +24,29 @@
 | 20221003 | SecWiki周刊（第448期) | https://www.sec-wiki.com/weekly/448| 
 | 20221003 | 浅析洞态iast产品 | https://mp.weixin.qq.com/s/fq2m59L_2Piqyeufl6eZFQ| 
 | 20221003 | DeFiHackLabs: Reproduce DeFi hack incidents using Foundry | https://github.com/SunWeb3Sec/DeFiHackLabs| 
-| 20221003 | Awesome-web3-Security: A curated list of web3Security mate... | https://github.com/Anugrahsr/Awesome-web3-Security| 
-| 20221003 | Havoc: 可延展的后渗透远控框架 | https://github.com/HavocFramework/Havoc| 
-| 20221003 | 《信息安全技术 软件供应链安全要求》（征求意见稿） | https://www.tc260.org.cn/front/bzzqyjDetail.html?id=20220930173005&norm_id=20211108000018&recode_id=48921| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221008T01:37:52Z | CVE-2022-21971 | POC Of CVE-2022-21971  | https://github.com/Malwareman007/CVE-2022-21971 | | 
-| 20221008T01:08:50Z | CVE-2021-41773 | Apache 2.4.49 & 2.4.50 Path Traversal to RCE exploit | https://github.com/Juuso1337/CVE-2021-41773 | | 
-| 20221008T01:08:47Z | 未知编号 | A PoC exploit for the Apache Any23 <=2.5 RCE vulnerability  | https://github.com/jsharp6968/cve_2021_40146 | | 
-| 20221008T01:08:26Z | CVE-2022-41040 | Code set relating to CVE-2022-41040 | https://github.com/d3duct1v/CVE-2022-41040 | | 
-| 20221008T01:03:45Z | CVE-2021-4154 | CVE-2021-4154 exploit | https://github.com/Markakd/CVE-2021-4154 | | 
-| 20221008T01:03:42Z | CVE-2022-39959 | CVE-2022-39959 | https://github.com/usmarine2141/CVE-2022-39959 | | 
-| 20221008T01:03:41Z | CVE-2022-34918 | 1-day case study | https://github.com/Sechack06/CVE-2022-34918 | | 
-| 20221008T01:03:39Z | CVE-2022-31629 | CVE-2022-31629 POC | https://github.com/SilNex/CVE-2022-31629-poc | | 
-| 20221008T01:03:37Z | CVE-2022-38766 | PoC for vulnerability in Renault ZOE Keyless System(CVE-2022-38766) | https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766 | | 
-| 20221008T01:03:29Z | CVE-2021-29156 | PoC for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
+| 20221008T11:50:12Z | CVE-2021-4045 | TP-Link Tapo c200 ver <1.1.15 - Remote Code Execution (RCE) | https://github.com/1x019/CVE-2021-4045 | | 
+| 20221008T11:42:49Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221008T10:51:52Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
+| 20221008T09:37:34Z | CVE-2022-24999 | Samples of the "qs" vulnerability CVE-2022-24999 | https://github.com/n8tz/CVE-2022-24999 | | 
+| 20221008T08:47:55Z | CVE-2020-26878 | Null | https://github.com/htarsoo/CVE-2020-26878 | | 
+| 20221008T08:36:57Z | CVE-2022-41082 | MASS SCANNER FOR PROXYNOTSHELL (CVE-2022-41082 & CVE-2022-41040) | https://github.com/b3wT/CVE-2022-41082-MASS-SCANNER | | 
+| 20221008T08:24:35Z | CVE-2022-31629 | CVE-2022-31629 POC | https://github.com/SilNex/CVE-2022-31629-poc | | 
+| 20221008T08:05:38Z | CVE-2022-21971 | POC Of CVE-2022-21971  | https://github.com/Malwareman007/CVE-2022-21971 | | 
+| 20221008T08:03:42Z | CVE-2022-26937 | POC Of CVE-2022-26937 | https://github.com/Malwareman007/CVE-2022-26937 | | 
+| 20221008T07:53:18Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyNotShell | https://github.com/kevibeaumont/CVE-2022-41082-RCE-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T11:38:04Z | Null | https://github.com/anuoye/Kleeva-Task-Website | 0 | 0| 
+| 20221008T06:59:52Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 90 | 1| 
+| 20221008T02:11:27Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
 | 20221007T17:24:58Z | A library from the KleeGameBase series that contains the classes shared between client and server | https://github.com/KleeSup/KleeGameBaseShared | 1 | 0| 
 | 20221007T13:05:17Z | Null | https://github.com/kleelab/kleelab.github.io | 1 | 0| 
 | 20221007T05:08:52Z | Null | https://github.com/fontworks-fonts/Klee | 750 | 21| 
@@ -51,9 +54,6 @@
 | 20221007T04:12:55Z | Null | https://github.com/nano-o/klee-rust | 0 | 0| 
 | 20221007T03:50:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8183 | 276| 
 | 20221006T08:56:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2086 | 591| 
-| 20221005T03:25:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 90 | 1| 
-| 20221003T22:10:28Z | Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation | https://github.com/crides/kleeb | 40 | 1| 
-| 20221002T08:00:48Z | Null | https://github.com/IsaiahDaniel/kleencode | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -65,21 +65,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221008T01:07:17Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 2997 | 455| 
-| 20221008T01:00:16Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-r | 0 | 0| 
-| 20221008T00:59:43Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-r | 1 | 0| 
-| 20221008T00:58:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 1 | 0| 
-| 20221008T00:56:39Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 600 | 41| 
-| 20221008T00:18:40Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4933 | 682| 
-| 20221007T23:25:38Z | Done as an exercise for me to further understand exploits and how to protect against them | https://github.com/lazaralex98/common-exploits-PoC | 0 | 0| 
-| 20221007T22:25:10Z | Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface. | https://github.com/tijme/cmstplua-uac-bypass | 0 | 1| 
-| 20221007T20:45:20Z | Repo for code and datasets used in:  Exploiting Label Dependencies for Multi-Label Text Classification Using Transformers | https://github.com/hf-lis/ECIR2023 | 0 | 0| 
-| 20221007T19:15:03Z | an AIO Botnet / watchdog / c&c / server | https://github.com/h0lyl337/Drakaina-Botnet | 3 | 1| 
+| 20221008T11:28:27Z | Wii U Exploit example files | https://github.com/cedkeChat/www-Wii-U-Exploit | 0 | 0| 
+| 20221008T11:28:19Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 228 | 34| 
+| 20221008T10:56:38Z | Null | https://github.com/AhmadBayati/EXPLOIT | 0 | 0| 
+| 20221008T10:14:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3666 | 449| 
+| 20221008T09:46:26Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3281 | 221| 
+| 20221008T08:12:06Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3485 | 727| 
+| 20221008T08:09:49Z | A cross platform C2/post-exploitation framework. | https://github.com/b23r0/Heroinn | 446 | 187| 
+| 20221008T07:52:02Z | Hello there! This Buffer Overflow documentation provides a complete demonstration, understanding and scripts necessary for buffer overflow exploitation.  | https://github.com/dhairyaattri/Buffer-Overflow | 0 | 0| 
+| 20221008T05:37:15Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 238 | 53| 
+| 20221008T05:12:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 532 | 142| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T09:50:08Z | ((Disclaimant)) This simple backdoor wrote in C# is for demonstrational purposes ONLY any use of this file for other purposes is forbidden! | https://github.com/mtaghadosi/simple-backdoor | 0 | 0| 
 | 20221007T18:57:56Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 4 | 0| 
 | 20221007T16:18:55Z | A basic implementation of Dual EC DRBG in C# | https://github.com/AGuyNamedTal/ECC-Backdoor-DUAL_EC_DRBG-Implementation | 0 | 0| 
 | 20221007T08:47:48Z | Null | https://github.com/SCLBD/Effective_backdoor_defense | 1 | 0| 
@@ -89,7 +90,6 @@
 | 20221006T14:12:01Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 577 | 112| 
 | 20221006T13:41:58Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 3 | 0| 
 | 20221006T11:36:13Z | Naxtarrr Shell Backdoor | https://github.com/nastar-id/naxtarrr-shell | 0 | 0| 
-| 20221006T11:24:38Z | Null | https://github.com/Mr-R013X-404/Backdoor-Shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
