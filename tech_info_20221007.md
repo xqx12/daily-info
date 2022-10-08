@@ -80,7 +80,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221007T23:58:30Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1334 | 26| 
 | 20221007T23:09:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7911 | 1715| 
 | 20221007T22:52:29Z | A Burpsuite extension written in Python to perform basic validation fuzzing | https://github.com/wdahlenburg/LogicalFuzzingEngine | 10 | 4| 
 | 20221007T22:30:10Z | Making a configurable fuzzy search in javascript | https://github.com/JakeAve/fuzzy-seach | 0 | 0| 
@@ -90,6 +89,7 @@
 | 20221007T18:21:38Z | Null | https://github.com/jackzhen1996/fuzzySearch | 0 | 0| 
 | 20221007T13:07:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4371 | 1056| 
 | 20221007T12:28:06Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 73 | 4| 
+| 20221007T12:25:56Z | Null | https://github.com/ThanhTu130200/fuzzy-correction | 0 | 0| 
 
 
 
