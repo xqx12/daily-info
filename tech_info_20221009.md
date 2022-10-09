@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221009T12:25:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-q | 1 | 0| 
 | 20221009T12:03:18Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5055 | 620| 
 | 20221009T11:49:55Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 92 | 11| 
 | 20221009T10:54:22Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3025 | 456| 
@@ -56,7 +57,6 @@
 | 20221009T07:31:59Z | Proof of Concept - BSC Beacon Exploit - October 2022 | https://github.com/mrspcbr/bsc-beacon-exploit-poc | 0 | 0| 
 | 20221009T06:21:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4936 | 682| 
 | 20221009T00:49:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3 | 1 | 0| 
-| 20221009T00:47:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3 | 1 | 0| 
 
 
 # backdoor on Github 推荐
