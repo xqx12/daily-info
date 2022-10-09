@@ -96,6 +96,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221009T12:31:26Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 718 | 80| 
 | 20221009T07:34:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2087 | 591| 
 | 20221009T07:02:30Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3143 | 443| 
 | 20221009T05:28:11Z | Null | https://github.com/VijiithaaSasidharan/SymbolicExecution_Angr | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20221007T06:45:17Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 490 | 28| 
 | 20221006T14:28:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 20| 
 | 20221006T03:45:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 45| 
-| 20221004T11:17:32Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 71 | 1| 
 
 
 # big4 on Github 推荐
