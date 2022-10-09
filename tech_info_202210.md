@@ -65,6 +65,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221009T00:49:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3 | 1 | 0| 
+| 20221009T00:47:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3 | 1 | 0| 
+| 20221009T00:46:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3 | 1 | 0| 
 | 20221009T00:36:24Z | Compiled version of the SweetPotato exploit | https://github.com/1mut1ny/sweetpotato | 0 | 0| 
 | 20221008T22:56:24Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4934 | 682| 
 | 20221008T21:45:44Z | an AIO Botnet / watchdog / c&c / server | https://github.com/h0lyl337/Drakaina-Botnet | 4 | 2| 
@@ -72,9 +75,6 @@
 | 20221008T20:32:55Z | ... | https://github.com/Flickworld/Random-Roblox-Exploit | 0 | 0| 
 | 20221008T19:52:15Z | Docker based HTTP(S) component of the PS4/PS5 Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 2 | 0| 
 | 20221008T19:33:32Z | Exploited a web server and gained admin privileges. | https://github.com/shwetan-zagade/Pickle_Rick_THM | 0 | 0| 
-| 20221008T19:23:55Z | Exploit for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | 1 | 0| 
-| 20221008T18:28:25Z | I%m building PoCs for different Solidity exploits as an exercise for me to further understand them and learn how to protect against them | https://github.com/lazaralex98/common-exploits-PoC | 0 | 0| 
-| 20221008T18:28:02Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/AstroBoy1339/GPay-balance-exploiter-by-VenomX | 21 | 0| 
 
 
 # backdoor on Github 推荐
