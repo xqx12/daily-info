@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221009T12:30:55Z | Null | https://github.com/davesolomon345/fuzzy-octo-meme | 0 | 0| 
 | 20221009T12:02:04Z | fast http fuzzer | https://github.com/wfsecs/TurboFuzzer | 1 | 0| 
 | 20221009T11:29:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7915 | 1716| 
 | 20221009T11:28:09Z | Sorbet Calculator | https://github.com/FuzzySecurity/FuzzySecurity.github.io | 1 | 0| 
@@ -128,7 +129,6 @@
 | 20221009T01:56:47Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1412 | 26| 
 | 20221009T00:31:27Z | Fizz Buzz Learning | https://github.com/ceshm/fuzzlearn | 0 | 0| 
 | 20221009T00:25:19Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 733 | 43| 
-| 20221009T00:21:10Z | Null | https://github.com/sezeranoJchrisostome/fuzzy-kmarket | 1 | 0| 
 
 
 
