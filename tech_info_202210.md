@@ -30,6 +30,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221009T12:45:25Z | CVE-2022- | CVE-2022-Test | https://github.com/h4ckdepy/CVE-2022-Test | | 
 | 20221009T12:21:05Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221009T12:20:27Z | CVE-2022- | CVE-testun1kmsg 123213 dasdsa | https://github.com/h4ckdepy/CVE-2022-testun1kmsg | | 
 | 20221009T12:12:59Z | CVE-2022-14444 | CVE-2022-14444 12312 | https://github.com/h4ckdepy/CVE-2022-14444 | | 
@@ -39,7 +40,6 @@
 | 20221009T01:27:01Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/exch_CVE-2021-42321 | | 
 | 20221009T01:03:06Z | CVE-2021-4045 | TP-Link Tapo c200 ver <1.1.15 - Remote Code Execution (RCE) | https://github.com/1x019/CVE-2021-4045 | | 
 | 20221009T01:03:05Z | CVE-2021-43798 | Grafana - Directory Traversal and Arbitrary File Read | https://github.com/hupe1980/CVE-2021-43798 | | 
-| 20221009T01:03:02Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/kevibeaumont/CVE-2022-41040-RCE-POC | | 
 
 
 # klee on Github 推荐
