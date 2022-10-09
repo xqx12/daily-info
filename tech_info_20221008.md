@@ -70,6 +70,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221008T13:22:45Z | Symbolic Execution Engine in Rust | https://github.com/norlen/symex | 0 | 0| 
 | 20221008T12:18:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3142 | 443| 
 | 20221008T09:44:47Z | Code for tracelet-level symbolic execution | https://github.com/sem2vec/sem2vec-SE | 4 | 0| 
 | 20221008T02:52:09Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 48 | 23| 
