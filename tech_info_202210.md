@@ -118,7 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221009T00:09:28Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1406 | 26| 
+| 20221009T00:18:26Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1407 | 26| 
 | 20221009T00:01:30Z | Null | https://github.com/mrodda/fuzzy-channel | 0 | 0| 
 | 20221008T23:29:14Z | Fizz Buzz Learning | https://github.com/ceshm/fuzzlearn | 0 | 0| 
 | 20221008T21:43:16Z | An approximate string comparison library. | https://github.com/MasalaMunch/fuzzier-matcher | 0 | 0| 
