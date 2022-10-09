@@ -30,6 +30,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221009T12:09:15Z | CVE-2022-14444 | test un1kmsg | https://github.com/h4ckdepy/CVE-2022-14444 | | 
 | 20221009T11:03:24Z | CVE-2022-40684 | CVE-2022-40684: Critical Authentication Bypass in FortiOS and FortiProxy | https://github.com/dickson0day/CVE-2022-40684 | | 
 | 20221009T08:53:44Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221009T08:26:46Z | CVE-2022-35914 | Null | https://github.com/xiaobaiakai/CVE-2022-35914 | | 
@@ -39,7 +40,6 @@
 | 20221009T01:03:05Z | CVE-2021-43798 | Grafana - Directory Traversal and Arbitrary File Read | https://github.com/hupe1980/CVE-2021-43798 | | 
 | 20221009T01:03:02Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/kevibeaumont/CVE-2022-41040-RCE-POC | | 
 | 20221009T01:02:59Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
-| 20221009T01:02:55Z | CVE-2022-24999 | "qs" prototype poisoning vulnerability ( CVE-2022-24999 ) | https://github.com/n8tz/CVE-2022-24999 | | 
 
 
 # klee on Github 推荐
