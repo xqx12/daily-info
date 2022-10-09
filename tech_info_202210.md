@@ -30,16 +30,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221009T12:21:05Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221009T12:20:27Z | CVE-2022- | CVE-testun1kmsg 123213 dasdsa | https://github.com/h4ckdepy/CVE-2022-testun1kmsg | | 
 | 20221009T12:12:59Z | CVE-2022-14444 | CVE-2022-14444 12312 | https://github.com/h4ckdepy/CVE-2022-14444 | | 
 | 20221009T11:03:24Z | CVE-2022-40684 | CVE-2022-40684: Critical Authentication Bypass in FortiOS and FortiProxy | https://github.com/dickson0day/CVE-2022-40684 | | 
-| 20221009T08:53:44Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221009T08:26:46Z | CVE-2022-35914 | Null | https://github.com/xiaobaiakai/CVE-2022-35914 | | 
 | 20221009T05:56:34Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
 | 20221009T01:27:01Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/exch_CVE-2021-42321 | | 
 | 20221009T01:03:06Z | CVE-2021-4045 | TP-Link Tapo c200 ver <1.1.15 - Remote Code Execution (RCE) | https://github.com/1x019/CVE-2021-4045 | | 
 | 20221009T01:03:05Z | CVE-2021-43798 | Grafana - Directory Traversal and Arbitrary File Read | https://github.com/hupe1980/CVE-2021-43798 | | 
 | 20221009T01:03:02Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/kevibeaumont/CVE-2022-41040-RCE-POC | | 
-| 20221009T01:02:59Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
 
 
 # klee on Github 推荐
