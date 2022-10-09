@@ -118,8 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221009T00:42:13Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1410 | 26| 
 | 20221009T00:31:27Z | Fizz Buzz Learning | https://github.com/ceshm/fuzzlearn | 0 | 0| 
-| 20221009T00:31:27Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1409 | 26| 
 | 20221009T00:25:19Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 733 | 43| 
 | 20221009T00:21:10Z | Null | https://github.com/sezeranoJchrisostome/fuzzy-kmarket | 1 | 0| 
 | 20221009T00:01:30Z | Null | https://github.com/mrodda/fuzzy-channel | 0 | 0| 
