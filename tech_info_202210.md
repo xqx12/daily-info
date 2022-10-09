@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221009T00:21:10Z | Null | https://github.com/sezeranoJchrisostome/fuzzy-kmarket | 1 | 0| 
 | 20221009T00:18:26Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1407 | 26| 
 | 20221009T00:01:30Z | Null | https://github.com/mrodda/fuzzy-channel | 0 | 0| 
 | 20221008T23:29:14Z | Fizz Buzz Learning | https://github.com/ceshm/fuzzlearn | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20221008T12:35:18Z | Null | https://github.com/donnael/fuzzy-goggles | 0 | 0| 
 | 20221008T10:40:06Z | Null | https://github.com/AvinashReddy19/fuzzy-memory | 0 | 0| 
 | 20221008T08:56:34Z | fuzz all type  of most comman attackes  | https://github.com/bZxNetwork/fuzz | 0 | 1| 
-| 20221008T08:20:03Z | online wordlists for fuzzing  | https://github.com/mdn1nj4/wordlist | 0 | 0| 
 
 
 
