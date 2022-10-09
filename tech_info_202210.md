@@ -29,16 +29,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221008T23:25:07Z | CVE-2022-24637 | Open Web Analytics (OWA) - Unauthenticated Remote Code Execution | https://github.com/hupe1980/CVE-2022-24637 | | 
+| 20221009T01:03:06Z | CVE-2021-4045 | TP-Link Tapo c200 ver <1.1.15 - Remote Code Execution (RCE) | https://github.com/1x019/CVE-2021-4045 | | 
+| 20221009T01:03:05Z | CVE-2021-43798 | Grafana - Directory Traversal and Arbitrary File Read | https://github.com/hupe1980/CVE-2021-43798 | | 
+| 20221009T01:03:02Z | CVE-2022-41040 | CVE-2022-41040-RCE-POC aka ProxyNotShell | https://github.com/kevibeaumont/CVE-2022-41040-RCE-POC | | 
+| 20221009T01:02:59Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
+| 20221009T01:02:57Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221009T01:02:55Z | CVE-2022-24999 | "qs" prototype poisoning vulnerability ( CVE-2022-24999 ) | https://github.com/n8tz/CVE-2022-24999 | | 
+| 20221009T01:02:36Z | CVE-2022-24637 | Open Web Analytics (OWA) - Unauthenticated Remote Code Execution | https://github.com/hupe1980/CVE-2022-24637 | | 
+| 20221009T01:02:34Z | CVE-2021-26855 | patched to work | https://github.com/ZephrFish/Exch-CVE-2021-26855_Priv | | 
 | 20221008T19:23:55Z | CVE-2021-29156 | Exploit for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
-| 20221008T17:23:23Z | CVE-2022-24999 | "qs" prototype poisoning vulnerability ( CVE-2022-24999 ) | https://github.com/n8tz/CVE-2022-24999 | | 
-| 20221008T16:25:45Z | CVE-2021-43798 | Grafana - Directory Traversal and Arbitrary File Read | https://github.com/hupe1980/CVE-2021-43798 | | 
 | 20221008T13:03:54Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/exch_CVE-2021-42321 | | 
-| 20221008T12:56:42Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/7BitsTeam-exch_CVE-2021-42321 | | 
-| 20221008T12:08:35Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
-| 20221008T11:50:12Z | CVE-2021-4045 | TP-Link Tapo c200 ver <1.1.15 - Remote Code Execution (RCE) | https://github.com/1x019/CVE-2021-4045 | | 
-| 20221008T11:42:49Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
-| 20221008T10:51:52Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
 
 
 # klee on Github 推荐
