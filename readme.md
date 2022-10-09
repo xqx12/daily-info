@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221009T12:09:15Z | CVE-2022-14444 | test un1kmsg | https://github.com/h4ckdepy/CVE-2022-14444 | | 
+| 20221009T12:12:59Z | CVE-2022-14444 | CVE-2022-14444 12312 | https://github.com/h4ckdepy/CVE-2022-14444 | | 
 | 20221009T11:03:24Z | CVE-2022-40684 | CVE-2022-40684: Critical Authentication Bypass in FortiOS and FortiProxy | https://github.com/dickson0day/CVE-2022-40684 | | 
 | 20221009T08:53:44Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221009T08:26:46Z | CVE-2022-35914 | Null | https://github.com/xiaobaiakai/CVE-2022-35914 | | 
