@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221009T12:27:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-q | 1 | 0| 
 | 20221009T12:26:36Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-q | 1 | 0| 
 | 20221009T12:25:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-q | 1 | 0| 
 | 20221009T12:03:18Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5055 | 620| 
@@ -75,7 +76,6 @@
 | 20221009T08:21:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3670 | 449| 
 | 20221009T07:37:54Z | . مشروع يهدف لصنع برمجية خبيثة متكاملة  | https://github.com/justalghamdi/dvRAT | 25 | 5| 
 | 20221009T07:31:59Z | Proof of Concept - BSC Beacon Exploit - October 2022 | https://github.com/mrspcbr/bsc-beacon-exploit-poc | 0 | 0| 
-| 20221009T06:21:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4936 | 682| 
 
 
 # backdoor on Github 推荐
