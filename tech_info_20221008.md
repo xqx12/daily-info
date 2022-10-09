@@ -84,7 +84,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221008T23:29:14Z | Fizz Buzz Learning | https://github.com/ceshm/fuzzlearn | 0 | 0| 
 | 20221008T21:43:16Z | An approximate string comparison library. | https://github.com/MasalaMunch/fuzzier-matcher | 0 | 0| 
 | 20221008T17:26:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7914 | 1715| 
 | 20221008T16:31:33Z | Null | https://github.com/hamdikchaou/FuzzyCloudWorkflowSim | 0 | 1| 
@@ -94,6 +93,7 @@
 | 20221008T08:20:03Z | online wordlists for fuzzing  | https://github.com/mdn1nj4/wordlist | 0 | 0| 
 | 20221008T06:05:58Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3066 | 364| 
 | 20221008T05:36:30Z | Null | https://github.com/PoShaung/program-smoothing-fuzzing | 3 | 1| 
+| 20221008T01:59:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4372 | 1056| 
 
 
 

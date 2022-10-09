@@ -118,11 +118,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221009T00:27:00Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1408 | 26| 
+| 20221009T00:31:27Z | Fizz Buzz Learning | https://github.com/ceshm/fuzzlearn | 0 | 0| 
+| 20221009T00:31:27Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1409 | 26| 
 | 20221009T00:25:19Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 733 | 43| 
 | 20221009T00:21:10Z | Null | https://github.com/sezeranoJchrisostome/fuzzy-kmarket | 1 | 0| 
 | 20221009T00:01:30Z | Null | https://github.com/mrodda/fuzzy-channel | 0 | 0| 
-| 20221008T23:29:14Z | Fizz Buzz Learning | https://github.com/ceshm/fuzzlearn | 0 | 0| 
 | 20221008T21:43:16Z | An approximate string comparison library. | https://github.com/MasalaMunch/fuzzier-matcher | 0 | 0| 
 | 20221008T17:26:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7914 | 1715| 
 | 20221008T16:31:33Z | Null | https://github.com/hamdikchaou/FuzzyCloudWorkflowSim | 0 | 1| 
