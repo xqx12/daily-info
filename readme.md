@@ -20,7 +20,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20221008T19:23:55Z | CVE-2021-29156 | Exploit for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
-| 20221008T13:03:54Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/exch_CVE-2021-42321 | | 
 | 20221008T12:56:42Z | CVE-2021-42321 | Null | https://github.com/7BitsTeam/7BitsTeam-exch_CVE-2021-42321 | | 
 | 20221008T12:08:35Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
 | 20221008T08:47:55Z | CVE-2020-26878 | Null | https://github.com/htarsoo/CVE-2020-26878 | | 
@@ -29,6 +28,7 @@
 | 20221008T08:05:38Z | CVE-2022-21971 | POC Of CVE-2022-21971  | https://github.com/Malwareman007/CVE-2022-21971 | | 
 | 20221008T08:03:42Z | CVE-2022-26937 | POC Of CVE-2022-26937 | https://github.com/Malwareman007/CVE-2022-26937 | | 
 | 20221008T07:53:18Z | CVE-2022-41082 | CVE-2022-41082-RCE-POC aka ProxyNotShell | https://github.com/kevibeaumont/CVE-2022-41082-RCE-POC | | 
+| 20221008T06:53:14Z | 未知编号 | Лабораторная работа по Веб-технологиям | https://github.com/stepancar-web-programming/2022-fall-lab-portfolio-cvetkov-vyacheslav-andreevich | | 
 
 
 # klee on Github 推荐
