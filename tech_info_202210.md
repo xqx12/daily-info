@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221010T12:37:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-j | 0 | 0| 
+| 20221010T12:38:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-j | 1 | 0| 
 | 20221010T11:14:34Z | Null | https://github.com/xth1314/Exploiting-Deep-Reinforcement-Learning-for-Edge-Caching-in-Cell-Free-Massive-MIMO-Systems | 0 | 0| 
 | 20221010T11:14:07Z | Collecting all my custom exploits used to solve the Damn Vulnerable DeFi challenges. | https://github.com/0xC4LL3/damn-vulnerable-defi-exploits | 0 | 0| 
 | 20221010T10:24:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4439 | 668| 
