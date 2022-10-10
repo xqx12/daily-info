@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T01:43:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 533 | 142| 
 | 20221010T01:08:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-y | 1 | 0| 
 | 20221010T01:07:43Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-y | 1 | 0| 
 | 20221010T01:06:54Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20221009T21:29:54Z | Null | https://github.com/MDev123/EzBlox-Exploits | 0 | 0| 
 | 20221009T21:15:46Z | Null | https://github.com/InfernalSpectro/Kali-Exploit | 0 | 0| 
 | 20221009T20:05:08Z | Fortnite Exploits | https://github.com/Bubble133/Fortnite-Exploits-Updated | 1 | 0| 
-| 20221009T20:03:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5059 | 620| 
 
 
 # backdoor on Github 推荐
