@@ -55,10 +55,10 @@
 | 20221009T21:29:54Z | Null | https://github.com/MDev123/EzBlox-Exploits | 0 | 0| 
 | 20221009T21:15:46Z | Null | https://github.com/InfernalSpectro/Kali-Exploit | 0 | 0| 
 | 20221009T20:05:08Z | Fortnite Exploits | https://github.com/Bubble133/Fortnite-Exploits-Updated | 1 | 0| 
-| 20221009T20:03:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5059 | 620| 
 | 20221009T18:39:23Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 61 | 22| 
 | 20221009T18:32:57Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 49 | 3| 
 | 20221009T17:16:24Z | Solves the 2D steady state heat equation by employing iteration. Uses OpenMP to exploit parallelism with build options for running on a CPU or offloading to a GPU. | https://github.com/lmarzen/heated_plate_openmp | 0 | 0| 
+| 20221009T12:42:11Z | Exploit for PID Reuse and Logical Error in DropBox%s XPC service | https://github.com/Pwnrin/DropBox-XPC-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
