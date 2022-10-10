@@ -83,9 +83,9 @@
 | 20221010T08:21:06Z | https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html | https://github.com/Khixinhxan/scikit-fuzzy-practice | 0 | 0| 
 | 20221010T07:44:09Z | Null | https://github.com/vrthra/fuzzer-compare | 2 | 0| 
 | 20221010T04:49:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4381 | 1058| 
+| 20221010T03:21:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 59 | 18| 
 | 20221010T01:59:22Z | Null | https://github.com/laythanhash/fuzzy-meme | 0 | 0| 
 | 20221010T01:47:54Z | Holistic Greybox Fuzzing of Multi-Language Systems | https://github.com/Daybreak2019/PolyFuzz | 0 | 0| 
-| 20221010T01:02:23Z | Null | https://github.com/quinwittz/fuzzy-robot | 0 | 0| 
 
 
 
