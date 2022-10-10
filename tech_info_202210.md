@@ -30,7 +30,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221010T00:45:09Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221010T01:18:59Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221009T17:15:07Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 
 | 20221009T16:53:31Z | 未知编号 | Automatic scanning (Shodan) and exploitation (PoC) script for the GLPI htmLawed vulnerability (CVE-2022_35914). | https://github.com/franckferman/GLPI-htmLawed-CVE-2022_35914-PoC | | 
 | 20221009T15:50:21Z | CVE-2022-40684 | CVE-2022-40684: Critical Authentication Bypass in FortiOS and FortiProxy | https://github.com/dickson0day/CVE-2022-40684 | | 
