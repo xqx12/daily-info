@@ -30,11 +30,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221010T01:48:46Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 
+| 20221010T01:48:41Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
 | 20221010T01:32:33Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
-| 20221009T17:15:07Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 
 | 20221009T16:53:31Z | 未知编号 | Automatic scanning (Shodan) and exploitation (PoC) script for the GLPI htmLawed vulnerability (CVE-2022_35914). | https://github.com/franckferman/GLPI-htmLawed-CVE-2022_35914-PoC | | 
 | 20221009T15:50:21Z | CVE-2022-40684 | CVE-2022-40684: Critical Authentication Bypass in FortiOS and FortiProxy | https://github.com/dickson0day/CVE-2022-40684 | | 
-| 20221009T15:27:40Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
 | 20221009T13:35:01Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
 | 20221009T12:45:25Z | CVE-2022- | CVE-2022-Test | https://github.com/h4ckdepy/CVE-2022-Test | | 
 | 20221009T12:20:27Z | CVE-2022- | CVE-testun1kmsg 123213 dasdsa | https://github.com/h4ckdepy/CVE-2022-testun1kmsg | | 
@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T01:47:54Z | Holistic Greybox Fuzzing of Multi-Language Systems | https://github.com/Daybreak2019/PolyFuzz | 0 | 0| 
 | 20221010T01:02:23Z | Null | https://github.com/quinwittz/fuzzy-robot | 0 | 0| 
 | 20221010T00:30:39Z | Null | https://github.com/dewipuji112/fuzzy | 0 | 0| 
 | 20221009T18:51:25Z | Just another repository | https://github.com/Mobb34/fuzzy-octo-pancake | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20221009T12:49:37Z | Null | https://github.com/emock/Fuzzinghans | 0 | 0| 
 | 20221009T12:30:55Z | Null | https://github.com/davesolomon345/fuzzy-octo-meme | 0 | 0| 
 | 20221009T12:02:04Z | fast http fuzzer | https://github.com/wfsecs/TurboFuzzer | 1 | 0| 
-| 20221009T11:28:09Z | Sorbet Calculator | https://github.com/FuzzySecurity/FuzzySecurity.github.io | 1 | 0| 
 
 
 
