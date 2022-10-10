@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T01:02:23Z | Null | https://github.com/quinwittz/fuzzy-robot | 0 | 0| 
 | 20221010T00:30:39Z | Null | https://github.com/dewipuji112/fuzzy | 0 | 0| 
 | 20221009T18:51:25Z | Just another repository | https://github.com/Mobb34/fuzzy-octo-pancake | 0 | 0| 
 | 20221009T17:30:40Z | Website from | https://github.com/0xGAD/fuzz | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20221009T12:30:55Z | Null | https://github.com/davesolomon345/fuzzy-octo-meme | 0 | 0| 
 | 20221009T12:02:04Z | fast http fuzzer | https://github.com/wfsecs/TurboFuzzer | 1 | 0| 
 | 20221009T11:28:09Z | Sorbet Calculator | https://github.com/FuzzySecurity/FuzzySecurity.github.io | 1 | 0| 
-| 20221009T09:07:19Z | http://127.0.0.1:5501/index.html | https://github.com/akshob99/fuzzy-broccoli | 0 | 0| 
 
 
 
