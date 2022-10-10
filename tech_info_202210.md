@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T01:59:22Z | Null | https://github.com/laythanhash/fuzzy-meme | 0 | 0| 
 | 20221010T01:47:54Z | Holistic Greybox Fuzzing of Multi-Language Systems | https://github.com/Daybreak2019/PolyFuzz | 0 | 0| 
 | 20221010T01:02:23Z | Null | https://github.com/quinwittz/fuzzy-robot | 0 | 0| 
 | 20221010T00:30:39Z | Null | https://github.com/dewipuji112/fuzzy | 0 | 0| 
 | 20221009T18:51:25Z | Just another repository | https://github.com/Mobb34/fuzzy-octo-pancake | 0 | 0| 
 | 20221009T17:30:40Z | Website from | https://github.com/0xGAD/fuzz | 0 | 0| 
 | 20221009T17:21:13Z | Fuzzy Clock watch face for wearOS - only in Danish and with 5 minute resolution | https://github.com/cwand/quarter-past-fuzzy | 0 | 0| 
-| 20221009T15:23:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7917 | 1716| 
+| 20221009T15:23:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7917 | 1717| 
 | 20221009T12:49:37Z | Null | https://github.com/emock/Fuzzinghans | 0 | 0| 
 | 20221009T12:30:55Z | Null | https://github.com/davesolomon345/fuzzy-octo-meme | 0 | 0| 
-| 20221009T12:02:04Z | fast http fuzzer | https://github.com/wfsecs/TurboFuzzer | 1 | 0| 
 
 
 
