@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221010T12:32:12Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221010T12:35:48Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221010T08:48:47Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
 | 20221010T08:06:35Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
 | 20221010T07:11:51Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T12:37:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-j | 0 | 0| 
 | 20221010T11:14:34Z | Null | https://github.com/xth1314/Exploiting-Deep-Reinforcement-Learning-for-Edge-Caching-in-Cell-Free-Massive-MIMO-Systems | 0 | 0| 
 | 20221010T11:14:07Z | Collecting all my custom exploits used to solve the Damn Vulnerable DeFi challenges. | https://github.com/0xC4LL3/damn-vulnerable-defi-exploits | 0 | 0| 
 | 20221010T10:24:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4439 | 668| 
@@ -51,13 +52,12 @@
 | 20221010T09:10:22Z | code for %Exploiting Hierarchical Correlations for Cross-City Cross-Mode Traffic Flow Prediction% | https://github.com/chenyan89/CCMHC | 0 | 0| 
 | 20221010T08:40:21Z | Oct 2021 exploit snapshot using BigQuery with support for deriving liquidity positions | https://github.com/indexed-finance/exploit-snapshot | 0 | 0| 
 | 20221010T08:15:38Z | NLog의 취약점을 이용한 모노 인젝션 익스플로잇. | https://github.com/shlifedev/mono-exploit | 0 | 0| 
-| 20221010T01:47:11Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5060 | 620| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221010T12:34:27Z | Null | https://github.com/Mustafa-Kum/Regedit-Backdoor-Python | 0 | 0| 
+| 20221010T12:37:25Z | Regedit Backdoor Python | https://github.com/Mustafa-Kum/Regedit-Backdoor-Python | 1 | 0| 
 | 20221010T10:06:51Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 4 | 0| 
 | 20221010T08:09:05Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 0 | 0| 
 
