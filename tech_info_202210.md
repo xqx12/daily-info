@@ -30,31 +30,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221010T11:31:32Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221010T08:48:47Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
+| 20221010T08:06:35Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
+| 20221010T07:11:51Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
+| 20221010T06:50:57Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
+| 20221010T03:47:18Z | CVE-2022-31479 | testtesttesttesttesttesttesttesttesttest | https://github.com/realyme/CVE-2022-31479-test | | 
+| 20221010T02:57:02Z | CVE-2022- | test漏洞 | https://github.com/exam-jcfxu/CVE-2022-test | | 
 | 20221010T01:48:46Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 
-| 20221010T01:48:41Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
-| 20221010T01:32:33Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221009T16:53:31Z | 未知编号 | Automatic scanning (Shodan) and exploitation (PoC) script for the GLPI htmLawed vulnerability (CVE-2022_35914). | https://github.com/franckferman/GLPI-htmLawed-CVE-2022_35914-PoC | | 
 | 20221009T15:50:21Z | CVE-2022-40684 | CVE-2022-40684: Critical Authentication Bypass in FortiOS and FortiProxy | https://github.com/dickson0day/CVE-2022-40684 | | 
-| 20221009T13:35:01Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
-| 20221009T12:45:25Z | CVE-2022- | CVE-2022-Test | https://github.com/h4ckdepy/CVE-2022-Test | | 
-| 20221009T12:20:27Z | CVE-2022- | CVE-testun1kmsg 123213 dasdsa | https://github.com/h4ckdepy/CVE-2022-testun1kmsg | | 
-| 20221009T12:12:59Z | CVE-2022-14444 | CVE-2022-14444 12312 | https://github.com/h4ckdepy/CVE-2022-14444 | | 
-| 20221009T08:26:46Z | CVE-2022-35914 | Null | https://github.com/xiaobaiakai/CVE-2022-35914 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T10:02:47Z | Null | https://github.com/vichannnnn/klee-giveaway-web | 0 | 0| 
+| 20221010T05:34:19Z | Null | https://github.com/thomosclub/klee21731 | 0 | 0| 
+| 20221010T02:05:31Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 9 | 0| 
 | 20221009T18:59:29Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 91 | 1| 
-| 20221009T15:42:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
+| 20221009T15:42:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 590| 
 | 20221009T12:16:33Z | Null | https://github.com/fontworks-fonts/Klee | 750 | 21| 
 | 20221008T11:38:04Z | Null | https://github.com/anuoye/Kleeva-Task-Website | 0 | 0| 
 | 20221008T02:11:27Z | Null | https://github.com/kleeeeea/kleeeeea.github.io | 1 | 0| 
 | 20221007T17:24:58Z | A library from the KleeGameBase series that contains the classes shared between client and server | https://github.com/KleeSup/KleeGameBaseShared | 1 | 0| 
 | 20221007T13:05:17Z | Null | https://github.com/kleelab/kleelab.github.io | 1 | 0| 
-| 20221007T05:03:24Z | modern regular expression syntax everywhere with a painless upgrade path | https://github.com/SonOfLilit/kleenexp | 53 | 12| 
-| 20221007T04:12:55Z | Null | https://github.com/nano-o/klee-rust | 0 | 0| 
-| 20221007T03:50:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8183 | 276| 
 
 
 # s2e on Github 推荐
@@ -66,21 +66,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T11:14:34Z | Null | https://github.com/xth1314/Exploiting-Deep-Reinforcement-Learning-for-Edge-Caching-in-Cell-Free-Massive-MIMO-Systems | 0 | 0| 
+| 20221010T11:14:07Z | Collecting all my custom exploits used to solve the Damn Vulnerable DeFi challenges. | https://github.com/0xC4LL3/damn-vulnerable-defi-exploits | 0 | 0| 
+| 20221010T10:24:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4439 | 668| 
+| 20221010T10:17:01Z | Silent Exploit Doc | https://github.com/coreena34/Silent-Doc-Exploit | 1 | 0| 
+| 20221010T09:39:17Z | Random tools, payloads and exploits. | https://github.com/Xcatolin/general-tooling | 3 | 1| 
+| 20221010T09:17:01Z | Null | https://github.com/tuannm-1876/exploit-server-simulator | 3 | 1| 
+| 20221010T09:10:22Z | code for %Exploiting Hierarchical Correlations for Cross-City Cross-Mode Traffic Flow Prediction% | https://github.com/chenyan89/CCMHC | 0 | 0| 
+| 20221010T08:40:21Z | Oct 2021 exploit snapshot using BigQuery with support for deriving liquidity positions | https://github.com/indexed-finance/exploit-snapshot | 0 | 0| 
+| 20221010T08:15:38Z | NLog의 취약점을 이용한 모노 인젝션 익스플로잇. | https://github.com/shlifedev/mono-exploit | 0 | 0| 
 | 20221010T01:47:11Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5060 | 620| 
-| 20221010T01:43:55Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 533 | 142| 
-| 20221010T01:08:31Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-y | 1 | 0| 
-| 20221010T01:07:43Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-y | 1 | 0| 
-| 20221010T01:06:54Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 1 | 0| 
-| 20221009T23:57:19Z | Exploiting Elliptic Curves cryptographic vulnerabilities, Weil and Tate Pairings and more. | https://github.com/sonnyzrwu/CO485-Final-Project | 0 | 0| 
-| 20221009T23:42:40Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4937 | 682| 
-| 20221009T22:24:50Z | Oct 2021 exploit snapshot using BigQuery with support for deriving liquidity positions | https://github.com/indexed-finance/exploit-snapshot | 0 | 0| 
-| 20221009T21:29:54Z | Null | https://github.com/MDev123/EzBlox-Exploits | 0 | 0| 
-| 20221009T21:15:46Z | Null | https://github.com/InfernalSpectro/Kali-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T10:06:51Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 4 | 0| 
+| 20221010T08:09:05Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 0 | 0| 
 | 20221009T22:27:43Z | LoVerst is a backdoor generator and backdoor generating tools. | https://github.com/Euronymou5/LoVeRst | 1 | 0| 
 | 20221009T16:05:50Z | AI-Lancet, backdoor removal | https://github.com/mooncaptain/AI-Lancet | 0 | 0| 
 | 20221009T16:02:07Z | A resource that watches for other resources to start. If the resource name of the started resource matches with a name in the %config%, it will run a function so the server-owner thinks, the other script causes the issue created by the function | https://github.com/oxince/fivem-silent-backdoor | 0 | 0| 
@@ -89,8 +91,6 @@
 | 20221009T04:51:57Z | backdoor-basic | https://github.com/El-SpaceX/NXT-backdoor | 0 | 0| 
 | 20221009T00:54:34Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 2 | 0| 
 | 20221008T15:54:24Z | [FINAL] NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 3 | 0| 
-| 20221008T09:50:08Z | ((Disclaimant)) This simple backdoor wrote in C# is for demonstrational purposes ONLY any use of this file for other purposes is forbidden! | https://github.com/mtaghadosi/simple-backdoor | 0 | 0| 
-| 20221008T06:59:20Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 357 | 125| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T11:03:46Z | Artifact for the paper %Signatr: A Data-Driven Fuzzing Tool for R% | https://github.com/PRL-PRG/sle22-signatr-artifact | 0 | 0| 
+| 20221010T10:37:46Z | IOCTL Fuzzer in Python | https://github.com/Inn0vatingGuy/IOCTLFuzzer | 0 | 0| 
+| 20221010T09:23:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7918 | 1717| 
+| 20221010T08:50:56Z | Null | https://github.com/Chrismaclean200/fuzzy-engine | 0 | 0| 
+| 20221010T08:21:06Z | https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html | https://github.com/Khixinhxan/scikit-fuzzy-practice | 0 | 0| 
+| 20221010T07:44:09Z | Null | https://github.com/vrthra/fuzzer-compare | 2 | 0| 
+| 20221010T04:49:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4381 | 1058| 
 | 20221010T01:59:22Z | Null | https://github.com/laythanhash/fuzzy-meme | 0 | 0| 
 | 20221010T01:47:54Z | Holistic Greybox Fuzzing of Multi-Language Systems | https://github.com/Daybreak2019/PolyFuzz | 0 | 0| 
 | 20221010T01:02:23Z | Null | https://github.com/quinwittz/fuzzy-robot | 0 | 0| 
-| 20221010T00:30:39Z | Null | https://github.com/dewipuji112/fuzzy | 0 | 0| 
-| 20221009T18:51:25Z | Just another repository | https://github.com/Mobb34/fuzzy-octo-pancake | 0 | 0| 
-| 20221009T17:30:40Z | Website from | https://github.com/0xGAD/fuzz | 0 | 0| 
-| 20221009T17:21:13Z | Fuzzy Clock watch face for wearOS - only in Danish and with 5 minute resolution | https://github.com/cwand/quarter-past-fuzzy | 0 | 0| 
-| 20221009T15:23:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7917 | 1717| 
-| 20221009T12:49:37Z | Null | https://github.com/emock/Fuzzinghans | 0 | 0| 
-| 20221009T12:30:55Z | Null | https://github.com/davesolomon345/fuzzy-octo-meme | 0 | 0| 
 
 
 
