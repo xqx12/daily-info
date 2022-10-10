@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T01:06:54Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 1 | 0| 
 | 20221009T23:57:19Z | Exploiting Elliptic Curves cryptographic vulnerabilities, Weil and Tate Pairings and more. | https://github.com/sonnyzrwu/CO485-Final-Project | 0 | 0| 
 | 20221009T23:42:40Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4937 | 682| 
 | 20221009T22:24:50Z | Oct 2021 exploit snapshot using BigQuery with support for deriving liquidity positions | https://github.com/indexed-finance/exploit-snapshot | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20221009T20:03:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5059 | 620| 
 | 20221009T18:39:23Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 61 | 22| 
 | 20221009T18:32:57Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 49 | 3| 
-| 20221009T17:16:24Z | Solves the 2D steady state heat equation by employing iteration. Uses OpenMP to exploit parallelism with build options for running on a CPU or offloading to a GPU. | https://github.com/lmarzen/heated_plate_openmp | 0 | 0| 
 
 
 # backdoor on Github 推荐
