@@ -57,7 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221010T12:33:54Z | Null | https://github.com/Mustafa-Kum/Regedit-Backdoor-Python | 0 | 0| 
+| 20221010T12:34:27Z | Null | https://github.com/Mustafa-Kum/Regedit-Backdoor-Python | 0 | 0| 
 | 20221010T10:06:51Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 4 | 0| 
 | 20221010T08:09:05Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 0 | 0| 
 
