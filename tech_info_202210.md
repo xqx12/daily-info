@@ -66,16 +66,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T12:41:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-j | 1 | 0| 
+| 20221010T12:40:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-j | 1 | 0| 
 | 20221010T12:38:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-j | 1 | 0| 
 | 20221010T11:14:34Z | Null | https://github.com/xth1314/Exploiting-Deep-Reinforcement-Learning-for-Edge-Caching-in-Cell-Free-Massive-MIMO-Systems | 0 | 0| 
 | 20221010T11:14:07Z | Collecting all my custom exploits used to solve the Damn Vulnerable DeFi challenges. | https://github.com/0xC4LL3/damn-vulnerable-defi-exploits | 0 | 0| 
+| 20221010T11:09:24Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 293 | 38| 
 | 20221010T10:24:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4439 | 668| 
 | 20221010T10:17:01Z | Silent Exploit Doc | https://github.com/coreena34/Silent-Doc-Exploit | 1 | 0| 
 | 20221010T09:39:17Z | Random tools, payloads and exploits. | https://github.com/Xcatolin/general-tooling | 3 | 1| 
 | 20221010T09:17:01Z | Null | https://github.com/tuannm-1876/exploit-server-simulator | 3 | 1| 
-| 20221010T09:10:22Z | code for %Exploiting Hierarchical Correlations for Cross-City Cross-Mode Traffic Flow Prediction% | https://github.com/chenyan89/CCMHC | 0 | 0| 
-| 20221010T08:40:21Z | Oct 2021 exploit snapshot using BigQuery with support for deriving liquidity positions | https://github.com/indexed-finance/exploit-snapshot | 0 | 0| 
-| 20221010T08:15:38Z | NLog의 취약점을 이용한 모노 인젝션 익스플로잇. | https://github.com/shlifedev/mono-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
