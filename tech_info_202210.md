@@ -30,7 +30,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221010T12:35:48Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221010T12:48:45Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221010T08:48:47Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
 | 20221010T08:06:35Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
 | 20221010T07:11:51Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T12:47:59Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 4 | 0| 
 | 20221010T12:41:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-j | 1 | 0| 
 | 20221010T12:40:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-j | 1 | 0| 
 | 20221010T12:38:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-j | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20221010T10:24:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4439 | 668| 
 | 20221010T10:17:01Z | Silent Exploit Doc | https://github.com/coreena34/Silent-Doc-Exploit | 1 | 0| 
 | 20221010T09:39:17Z | Random tools, payloads and exploits. | https://github.com/Xcatolin/general-tooling | 3 | 1| 
-| 20221010T09:17:01Z | Null | https://github.com/tuannm-1876/exploit-server-simulator | 3 | 1| 
 
 
 # backdoor on Github 推荐
