@@ -69,8 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T12:50:28Z | Null | https://github.com/jhoanax/Silent-Exploit-doc | 2 | 1| 
 | 20221011T12:48:22Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 303 | 42| 
-| 20221011T12:43:24Z | Null | https://github.com/jhoanax/Silent-Exploit-doc | 0 | 0| 
 | 20221011T12:31:53Z | DOM, Event Listener et API - Exploiter le DOM / dev semaine 3 lundi / W15D1 | https://github.com/linahello/D76_DOM | 0 | 0| 
 | 20221011T11:59:14Z | Exploit a Vulnerability | https://github.com/miasantana87/zero_day_attacks | 0 | 0| 
 | 20221011T11:31:31Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
@@ -108,7 +108,7 @@
 | 20221008T09:44:47Z | Code for tracelet-level symbolic execution | https://github.com/sem2vec/sem2vec-SE | 4 | 0| 
 | 20221008T02:52:09Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 48 | 23| 
 | 20221007T06:45:17Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 490 | 28| 
-| 20221006T14:28:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 20| 
+| 20221006T14:28:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 21| 
 
 
 # big4 on Github 推荐
