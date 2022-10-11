@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T12:43:24Z | Null | https://github.com/jhoanax/Silent-Exploit-doc | 0 | 0| 
 | 20221011T12:31:53Z | DOM, Event Listener et API - Exploiter le DOM / dev semaine 3 lundi / W15D1 | https://github.com/linahello/D76_DOM | 0 | 0| 
 | 20221011T12:12:58Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 302 | 41| 
 | 20221011T11:59:14Z | Exploit a Vulnerability | https://github.com/miasantana87/zero_day_attacks | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20221011T09:05:00Z | This code is for project: [Exploiting Temporal Side Information in Massive IoT Connectivity] and [On Massive IoT Connectivity with Temporally-Correlated User Activity]. | https://github.com/PolyuWirelessCommunicationLab/MMV-AMP-with-Side-Information | 4 | 2| 
 | 20221011T08:37:46Z | PS4 Exploit Loader | https://github.com/hbs7/hbs7.github.io | 1 | 0| 
 | 20221011T08:36:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3675 | 449| 
-| 20221011T07:50:33Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheFloatX/GPay-balance-exploiter-by-VenomX | 21 | 0| 
 
 
 # backdoor on Github 推荐
