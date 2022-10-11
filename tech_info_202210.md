@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221011T01:50:24Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221011T01:58:39Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221011T01:24:58Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
 | 20221011T01:24:52Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
 | 20221011T01:24:51Z | CVE-2022-35914 | Null | https://github.com/xiaobaiakai/CVE-2022-35914 | | 
