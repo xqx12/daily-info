@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20221011 | 漏洞管理过程中的定量计算方法 | https://mp.weixin.qq.com/s/5C6NeiNb6pifrZZh1vR_cg| 
 | 20221011 | Code Analysis With Joern | https://lightless.me/archives/code-analysis-with-joern.html| 
+| 20221011 | SecWiki周刊（第449期) | https://www.sec-wiki.com/weekly/449| 
 
 
 # CVE Github 推荐

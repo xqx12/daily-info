@@ -19,6 +19,7 @@
 | --- | --- | ---| 
 | 20221011 | 漏洞管理过程中的定量计算方法 | https://mp.weixin.qq.com/s/5C6NeiNb6pifrZZh1vR_cg| 
 | 20221011 | Code Analysis With Joern | https://lightless.me/archives/code-analysis-with-joern.html| 
+| 20221011 | SecWiki周刊（第449期) | https://www.sec-wiki.com/weekly/449| 
 | 20221010 | 我是如何测试Cache相关的漏洞的 | https://mp.weixin.qq.com/s/IfkpElF5O1Qz9aet8zSujA| 
 | 20221009 | OrcaC2: 一款基于Websocket加密通信的多功能C&C框架 | https://github.com/Ptkatz/OrcaC2| 
 | 20221009 | 美国司法部网络安全述职报告 | https://mp.weixin.qq.com/s/nIbSV4dGpVtp98beqeL2Hg| 
@@ -26,7 +27,6 @@
 | 20221009 | 恶意 Tor 浏览器安装程序正通过 YouTube 进行分发 | https://mp.weixin.qq.com/s/c3jixzRxo0eg2IrA9xcJtw| 
 | 20221008 | 网络空间战略预警体系的建设思考 | https://mp.weixin.qq.com/s/2z9ze6N4p2R_Tokbk0g-vA| 
 | 20221008 | 云原生安全系列（一） , Kubernetes云原生靶场搭建 | https://mp.weixin.qq.com/s/XmEhvrzwmcjW9lBIZMl2ag| 
-| 20221008 | Thinkphp5.1应用初探 | https://www.sec-in.com/article/1733| 
 
 
 # CVE Github 推荐
