@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T01:14:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12137 | 2084| 
 | 20221011T01:00:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4944 | 682| 
 | 20221011T00:27:29Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 653 | 48| 
 | 20221010T23:44:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-s | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20221010T23:41:58Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-s | 1 | 0| 
 | 20221010T23:06:14Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheSpeedy99/GPay-balance-exploiter-by-VenomX | 20 | 0| 
 | 20221010T22:43:53Z | a quick game to show explore/exploit dynamics | https://github.com/Lompta/explore-exploit-calculator-game | 0 | 1| 
-| 20221010T19:37:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12136 | 2083| 
 | 20221010T14:17:29Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 497 | 682| 
 
 
@@ -98,6 +98,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T00:56:54Z | Detecting Spectre vulnerabilities using symbolic execution, built on angr (github.com/angr/angr) | https://github.com/cdisselkoen/pitchfork | 73 | 5| 
 | 20221010T22:32:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3144 | 443| 
 | 20221010T07:02:52Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 719 | 80| 
 | 20221009T15:42:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 590| 
@@ -107,7 +108,6 @@
 | 20221008T02:52:09Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 48 | 23| 
 | 20221007T06:45:17Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 490 | 28| 
 | 20221006T14:28:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 20| 
-| 20221006T03:45:13Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 177 | 45| 
 
 
 # big4 on Github 推荐
