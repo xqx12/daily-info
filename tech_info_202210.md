@@ -121,9 +121,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T00:16:59Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1508 | 27| 
 | 20221010T22:56:22Z | Null | https://github.com/lccorpmx/FuzzyLogicBreaking | 0 | 0| 
 | 20221010T22:10:56Z | Null | https://github.com/tyler-hungerrr/fuzzy-telegram | 0 | 0| 
-| 20221010T22:03:00Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1507 | 27| 
 | 20221010T21:26:41Z | Null | https://github.com/Klowar/fuzz_example | 0 | 0| 
 | 20221010T20:43:41Z | Null | https://github.com/jvsouzx/fuzzy | 0 | 0| 
 | 20221010T19:42:09Z | Null | https://github.com/Taybenberg/FuzzyAlzheimerDiagnosis | 0 | 0| 
