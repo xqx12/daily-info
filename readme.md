@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T12:48:21Z | Null | https://github.com/petzecb/fuzzy-octo-waddle | 0 | 0| 
 | 20221011T12:32:36Z | Null | https://github.com/wa765/sistem_pakar_cuaca_fuzzy | 0 | 0| 
 | 20221011T11:43:44Z | Null | https://github.com/ChoiMyun/fuzzy-brand | 0 | 0| 
 | 20221011T10:46:08Z | The MATLAB pcode for the research paper titled %Particle Swarm Optimized Autonomous Learning Fuzzy System%. | https://github.com/Gu-X/Particle-Swarm-Optimized-Autonomous-Learning-Fuzzy-System | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221011T04:00:10Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 76 | 5| 
 | 20221011T03:50:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1053 | 124| 
 | 20221011T01:50:05Z | Null | https://github.com/FlameRender/fuzzy-octo-umbrella-quebec | 0 | 0| 
-| 20221011T01:48:58Z | Making a configurable fuzzy search in javascript | https://github.com/JakeAve/fuzz | 0 | 0| 
 
 
 
