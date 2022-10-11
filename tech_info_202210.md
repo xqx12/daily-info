@@ -17,6 +17,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221011 | 漏洞管理过程中的定量计算方法 | https://mp.weixin.qq.com/s/5C6NeiNb6pifrZZh1vR_cg| 
+| 20221011 | Code Analysis With Joern | https://lightless.me/archives/code-analysis-with-joern.html| 
 | 20221010 | 我是如何测试Cache相关的漏洞的 | https://mp.weixin.qq.com/s/IfkpElF5O1Qz9aet8zSujA| 
 | 20221009 | OrcaC2: 一款基于Websocket加密通信的多功能C&C框架 | https://github.com/Ptkatz/OrcaC2| 
 | 20221009 | 美国司法部网络安全述职报告 | https://mp.weixin.qq.com/s/nIbSV4dGpVtp98beqeL2Hg| 
@@ -25,74 +27,73 @@
 | 20221008 | 网络空间战略预警体系的建设思考 | https://mp.weixin.qq.com/s/2z9ze6N4p2R_Tokbk0g-vA| 
 | 20221008 | 云原生安全系列（一） , Kubernetes云原生靶场搭建 | https://mp.weixin.qq.com/s/XmEhvrzwmcjW9lBIZMl2ag| 
 | 20221008 | Thinkphp5.1应用初探 | https://www.sec-in.com/article/1733| 
-| 20221005 | 将ModSecurity内置到java应用实现第一代rasp | https://my.oschina.net/9199771/blog/5582107| 
-| 20221004 | Serverless安全揭秘：架构、风险与防护措施 | https://www.anquanke.com/post/id/281021| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221011T01:58:39Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221011T11:46:50Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221011T11:20:42Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
+| 20221011T11:13:15Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
+| 20221011T09:32:02Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
+| 20221011T09:03:56Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode | https://github.com/0nion1/CVE-2021-3129 | | 
+| 20221011T02:14:34Z | CVE-2021-4034 | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | | 
+| 20221011T02:14:32Z | CVE-2022-41082 | mass rce for ProxyNotShell  | https://github.com/t0mby/CVE-2022-41082-MASS-RCE | | 
+| 20221011T02:14:27Z | cve-2022-41352 | cve-2022-41352 poc | https://github.com/segfault-it/cve-2022-41352 | | 
 | 20221011T01:24:58Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
-| 20221011T01:24:52Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
 | 20221011T01:24:51Z | CVE-2022-35914 | Null | https://github.com/xiaobaiakai/CVE-2022-35914 | | 
-| 20221011T01:24:44Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
-| 20221010T23:44:02Z | CVE-2021-4034 | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | | 
-| 20221010T22:07:10Z | CVE-2021-29156 | Exploit for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
-| 20221010T21:52:59Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
-| 20221010T18:44:25Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 
-| 20221010T15:47:36Z | CVE-2022-41082 | mass rce for ProxyNotShell  | https://github.com/t0mby/CVE-2022-41082-MASS-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T10:55:34Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 98 | 1| 
+| 20221011T08:31:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
 | 20221011T00:06:02Z | Null | https://github.com/fontworks-fonts/Klee | 751 | 21| 
-| 20221010T23:50:04Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 96 | 1| 
 | 20221010T17:12:01Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 14 | 0| 
 | 20221010T16:32:10Z | Null | https://github.com/tokenCracker/NewKleeRunAutofarmUNDETECTED | 0 | 0| 
 | 20221010T16:29:50Z | Null | https://github.com/AdobeEnjoyerCrack/KleerRunUNDETECTEDAutoFarm | 0 | 0| 
 | 20221010T10:02:47Z | Null | https://github.com/vichannnnn/klee-giveaway-web | 0 | 0| 
 | 20221010T05:34:19Z | Null | https://github.com/thomosclub/klee21731 | 0 | 0| 
 | 20221010T02:05:31Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 9 | 0| 
-| 20221009T15:42:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 590| 
 | 20221008T11:38:04Z | Null | https://github.com/anuoye/Kleeva-Task-Website | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T10:06:30Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 22 | 4| 
 | 20221003T11:19:18Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 70 | 10| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221011T01:45:44Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 1202 | 416| 
-| 20221011T01:14:08Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12137 | 2084| 
-| 20221011T01:00:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4944 | 682| 
-| 20221011T00:27:29Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 653 | 48| 
-| 20221010T23:44:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-s | 1 | 0| 
-| 20221010T23:44:02Z | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | 0 | 0| 
-| 20221010T23:43:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-s | 1 | 0| 
-| 20221010T23:41:58Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-s | 1 | 0| 
-| 20221010T23:06:14Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheSpeedy99/GPay-balance-exploiter-by-VenomX | 20 | 0| 
-| 20221010T22:43:53Z | a quick game to show explore/exploit dynamics | https://github.com/Lompta/explore-exploit-calculator-game | 0 | 1| 
+| 20221011T11:59:14Z | Exploit a Vulnerability | https://github.com/miasantana87/zero_day_attacks | 0 | 0| 
+| 20221011T11:31:31Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
+| 20221011T10:55:24Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 301 | 41| 
+| 20221011T10:43:29Z | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | 8 | 1| 
+| 20221011T09:21:47Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/Jennahacker/zenna_rat | 12 | 5| 
+| 20221011T09:05:00Z | This code is for project: [Exploiting Temporal Side Information in Massive IoT Connectivity] and [On Massive IoT Connectivity with Temporally-Correlated User Activity]. | https://github.com/PolyuWirelessCommunicationLab/MMV-AMP-with-Side-Information | 4 | 2| 
+| 20221011T08:37:46Z | PS4 Exploit Loader | https://github.com/hbs7/hbs7.github.io | 1 | 0| 
+| 20221011T08:36:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3675 | 449| 
+| 20221011T07:50:33Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheFloatX/GPay-balance-exploiter-by-VenomX | 21 | 0| 
+| 20221011T07:23:59Z | Browser JavaScript engine exploits. | https://github.com/anvbis/browser.js.expl | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221010T16:00:16Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 21 | 12| 
+| 20221011T09:36:59Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/aleff-github/Backdoor-Client-Server-Socket-Python | 9 | 1| 
+| 20221011T08:10:42Z | Null | https://github.com/haodada001/Awesome-Backdoor-in-Deep-Learning | 2 | 0| 
+| 20221011T04:02:08Z | Null | https://github.com/kangjie-chen/pruning_backdoor | 0 | 0| 
+| 20221011T02:20:08Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 22 | 12| 
 | 20221010T12:37:25Z | Regedit Backdoor Python | https://github.com/Mustafa-Kum/Regedit-Backdoor-Python | 1 | 0| 
 | 20221010T10:06:51Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 4 | 0| 
 | 20221010T08:09:05Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 0 | 0| 
 | 20221009T22:27:43Z | LoVerst is a backdoor generator and backdoor generating tools. | https://github.com/Euronymou5/LoVeRst | 1 | 0| 
-| 20221009T16:05:50Z | AI-Lancet, backdoor removal | https://github.com/mooncaptain/AI-Lancet | 0 | 0| 
+| 20221009T16:05:50Z | AI-Lancet, backdoor removal | https://github.com/mooncaptain/AI-Lancet | 0 | 1| 
 | 20221009T16:02:07Z | A resource that watches for other resources to start. If the resource name of the started resource matches with a name in the %config%, it will run a function so the server-owner thinks, the other script causes the issue created by the function | https://github.com/oxince/fivem-silent-backdoor | 0 | 0| 
-| 20221009T10:56:03Z | Helium: Backdoor Framework | https://github.com/topsideduck/Helium | 0 | 0| 
-| 20221009T07:44:35Z | This is a simple DDoS python botnet script with remote monitoring & management with backdoor built-in for education purposes. | https://github.com/MayankFawkes/Python-Botnet | 157 | 50| 
-| 20221009T04:51:57Z | backdoor-basic | https://github.com/El-SpaceX/NXT-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221011T01:55:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7920 | 1719| 
+| 20221011T11:43:44Z | Null | https://github.com/ChoiMyun/fuzzy-brand | 0 | 0| 
+| 20221011T10:46:08Z | The MATLAB pcode for the research paper titled %Particle Swarm Optimized Autonomous Learning Fuzzy System%. | https://github.com/Gu-X/Particle-Swarm-Optimized-Autonomous-Learning-Fuzzy-System | 0 | 0| 
+| 20221011T10:00:00Z | Fuzzy_ligic about cientific_paper by parameters | https://github.com/Matthew-Likhachev/Fuzzy_ligic_scientific_paper | 0 | 0| 
+| 20221011T09:59:31Z | Null | https://github.com/wxzhy/fuzzy-rotary-phone | 0 | 0| 
+| 20221011T05:20:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7923 | 1719| 
+| 20221011T04:00:10Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 76 | 5| 
+| 20221011T03:50:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1053 | 124| 
 | 20221011T01:50:05Z | Null | https://github.com/FlameRender/fuzzy-octo-umbrella-quebec | 0 | 0| 
 | 20221011T01:48:58Z | Making a configurable fuzzy search in javascript | https://github.com/JakeAve/fuzz | 0 | 0| 
 | 20221011T00:16:59Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1508 | 27| 
-| 20221010T22:56:22Z | Null | https://github.com/lccorpmx/FuzzyLogicBreaking | 0 | 0| 
-| 20221010T22:10:56Z | Null | https://github.com/tyler-hungerrr/fuzzy-telegram | 0 | 0| 
-| 20221010T21:26:41Z | Null | https://github.com/Klowar/fuzz_example | 0 | 0| 
-| 20221010T20:43:41Z | Null | https://github.com/jvsouzx/fuzzy | 0 | 0| 
-| 20221010T19:42:09Z | Null | https://github.com/Taybenberg/FuzzyAlzheimerDiagnosis | 0 | 0| 
-| 20221010T18:38:26Z | This repository contains data (in the form of charts, graphs, etc. created via Python/Matplotlib) that was obtained while running fuzzing campaigns in different fuzzers, with the aim of comparing the performance of these fuzzers. | https://github.com/FelipeGirardi/FuzzingData | 0 | 0| 
 
 
 
