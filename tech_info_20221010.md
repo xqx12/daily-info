@@ -26,9 +26,9 @@
 | 20221010T18:44:25Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 
 | 20221010T15:47:36Z | CVE-2022-41082 | mass rce for ProxyNotShell  | https://github.com/t0mby/CVE-2022-41082-MASS-RCE | | 
 | 20221010T13:19:36Z | cve-2022-41352 | cve-2022-41352 poc | https://github.com/segfault-it/cve-2022-41352 | | 
-| 20221010T12:57:08Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
 | 20221010T08:48:47Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
 | 20221010T08:06:35Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
+| 20221010T03:47:18Z | CVE-2022-31479 | testtesttesttesttesttesttesttesttesttest | https://github.com/realyme/CVE-2022-31479-test | | 
 
 
 # klee on Github 推荐
