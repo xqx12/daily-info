@@ -68,8 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T01:00:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4944 | 682| 
 | 20221011T00:27:29Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 653 | 48| 
-| 20221010T23:49:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4944 | 682| 
 | 20221010T23:44:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-s | 1 | 0| 
 | 20221010T23:44:02Z | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | 0 | 0| 
 | 20221010T23:43:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-s | 1 | 0| 

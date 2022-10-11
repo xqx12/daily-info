@@ -51,7 +51,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221010T23:49:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4944 | 682| 
 | 20221010T23:44:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-s | 1 | 0| 
 | 20221010T23:44:02Z | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | 0 | 0| 
 | 20221010T23:43:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-s | 1 | 0| 
@@ -61,6 +60,7 @@
 | 20221010T19:37:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12136 | 2083| 
 | 20221010T14:17:29Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 497 | 682| 
 | 20221010T12:47:59Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 4 | 0| 
+| 20221010T12:41:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-j | 1 | 0| 
 
 
 # backdoor on Github 推荐
