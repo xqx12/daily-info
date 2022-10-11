@@ -32,12 +32,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221011T01:50:24Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221011T01:24:58Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
 | 20221011T01:24:52Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
 | 20221011T01:24:51Z | CVE-2022-35914 | Null | https://github.com/xiaobaiakai/CVE-2022-35914 | | 
 | 20221011T01:24:44Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
 | 20221010T23:44:02Z | CVE-2021-4034 | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | | 
-| 20221010T23:43:58Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221010T22:07:10Z | CVE-2021-29156 | Exploit for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
 | 20221010T21:52:59Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
 | 20221010T18:44:25Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 

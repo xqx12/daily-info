@@ -20,7 +20,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20221010T23:44:02Z | CVE-2021-4034 | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | | 
-| 20221010T23:43:58Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221010T22:07:10Z | CVE-2021-29156 | Exploit for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
 | 20221010T21:52:59Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
 | 20221010T18:44:25Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 
@@ -29,6 +28,7 @@
 | 20221010T08:48:47Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
 | 20221010T08:06:35Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
 | 20221010T03:47:18Z | CVE-2022-31479 | testtesttesttesttesttesttesttesttesttest | https://github.com/realyme/CVE-2022-31479-test | | 
+| 20221010T02:57:02Z | CVE-2022- | test漏洞 | https://github.com/exam-jcfxu/CVE-2022-test | | 
 
 
 # klee on Github 推荐
