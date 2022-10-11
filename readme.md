@@ -97,7 +97,7 @@
 | 20221010T16:37:59Z | Null | https://github.com/fuzztruction/fuzztruction | 1 | 0| 
 | 20221010T16:29:42Z | Null | https://github.com/ArthurLCW/FuzzingTestDocker | 0 | 0| 
 | 20221010T16:23:03Z | Null | https://github.com/fuzztruction/fuzztruction-experiments | 0 | 0| 
-| 20221010T13:08:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7919 | 1719| 
+| 20221010T11:03:46Z | Artifact for the paper %Signatr: A Data-Driven Fuzzing Tool for R% | https://github.com/PRL-PRG/sle22-signatr-artifact | 0 | 0| 
 
 
 
