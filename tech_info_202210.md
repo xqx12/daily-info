@@ -69,9 +69,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T12:48:22Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 303 | 42| 
 | 20221011T12:43:24Z | Null | https://github.com/jhoanax/Silent-Exploit-doc | 0 | 0| 
 | 20221011T12:31:53Z | DOM, Event Listener et API - Exploiter le DOM / dev semaine 3 lundi / W15D1 | https://github.com/linahello/D76_DOM | 0 | 0| 
-| 20221011T12:12:58Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 302 | 41| 
 | 20221011T11:59:14Z | Exploit a Vulnerability | https://github.com/miasantana87/zero_day_attacks | 0 | 0| 
 | 20221011T11:31:31Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
 | 20221011T10:43:29Z | The source code for my Roblox exploit, MainDab. | https://github.com/MainDabRblx/MainDabUISource | 8 | 1| 
