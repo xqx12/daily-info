@@ -6,29 +6,38 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221010 | Microsoft Windows Shift F10 Bypass and Autopilot privilge escalation(译文) | https://tttang.com/archive/1767/| 
+| 20221010 | Linux内核中的问题总结 | http://linuxtesting.org/results/ldv| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221010 | 我是如何测试Cache相关的漏洞的 | https://mp.weixin.qq.com/s/IfkpElF5O1Qz9aet8zSujA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221010T23:44:02Z | CVE-2021-4034 | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | | 
+| 20221010T23:43:58Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221010T22:07:10Z | CVE-2021-29156 | Exploit for CVE-2021-29156 | https://github.com/5amu/CVE-2021-29156 | | 
+| 20221010T21:52:59Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
+| 20221010T18:44:25Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 
+| 20221010T15:47:36Z | CVE-2022-41082 | mass rce for ProxyNotShell  | https://github.com/t0mby/CVE-2022-41082-MASS-RCE | | 
+| 20221010T13:19:36Z | cve-2022-41352 | cve-2022-41352 poc | https://github.com/segfault-it/cve-2022-41352 | | 
 | 20221010T12:57:08Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
-| 20221010T12:56:55Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221010T08:48:47Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
 | 20221010T08:06:35Z | CVE-2022-41082 | mass rce for ProxyNotShell | https://github.com/t0mby/CVE-2022-41082-RCE | | 
-| 20221010T06:50:57Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
-| 20221010T03:47:18Z | CVE-2022-31479 | testtesttesttesttesttesttesttesttesttest | https://github.com/realyme/CVE-2022-31479-test | | 
-| 20221010T02:57:02Z | CVE-2022- | test漏洞 | https://github.com/exam-jcfxu/CVE-2022-test | | 
-| 20221010T01:48:46Z | CVE-2022-26134 | Detecting CVE-2022-26134 using Nuclei | https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T23:50:04Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 96 | 1| 
+| 20221010T17:12:01Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 14 | 0| 
+| 20221010T16:32:10Z | Null | https://github.com/tokenCracker/NewKleeRunAutofarmUNDETECTED | 0 | 0| 
+| 20221010T16:29:50Z | Null | https://github.com/AdobeEnjoyerCrack/KleerRunUNDETECTEDAutoFarm | 0 | 0| 
 | 20221010T10:02:47Z | Null | https://github.com/vichannnnn/klee-giveaway-web | 0 | 0| 
 | 20221010T05:34:19Z | Null | https://github.com/thomosclub/klee21731 | 0 | 0| 
 | 20221010T02:05:31Z | An open-source Chinese font derived from Klee One and Ysabeau and LXGW WenKai.一款适合中日文混排的开源中文字体，基于 Ysabeau、 Klee One、霞鹜文楷衍生。 | https://github.com/NoHeartPen/QiushuiShotai | 9 | 0| 
@@ -42,21 +51,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221010T12:47:59Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 4 | 0| 
-| 20221010T12:41:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-j | 1 | 0| 
-| 20221010T12:40:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-j | 1 | 0| 
-| 20221010T12:38:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-j | 1 | 0| 
-| 20221010T11:14:34Z | Null | https://github.com/xth1314/Exploiting-Deep-Reinforcement-Learning-for-Edge-Caching-in-Cell-Free-Massive-MIMO-Systems | 0 | 0| 
-| 20221010T11:14:07Z | Collecting all my custom exploits used to solve the Damn Vulnerable DeFi challenges. | https://github.com/0xC4LL3/damn-vulnerable-defi-exploits | 0 | 0| 
-| 20221010T11:09:24Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 293 | 38| 
-| 20221010T10:24:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4439 | 668| 
-| 20221010T10:17:01Z | Silent Exploit Doc | https://github.com/coreena34/Silent-Doc-Exploit | 1 | 0| 
-| 20221010T09:39:17Z | Random tools, payloads and exploits. | https://github.com/Xcatolin/general-tooling | 3 | 1| 
+| 20221010T23:49:44Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4944 | 682| 
+| 20221010T23:44:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-s | 1 | 0| 
+| 20221010T23:44:02Z | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | 0 | 0| 
+| 20221010T23:43:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-s | 1 | 0| 
+| 20221010T23:41:58Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-s | 1 | 0| 
+| 20221010T23:06:14Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/TheSpeedy99/GPay-balance-exploiter-by-VenomX | 20 | 0| 
+| 20221010T22:43:53Z | a quick game to show explore/exploit dynamics | https://github.com/Lompta/explore-exploit-calculator-game | 0 | 1| 
+| 20221010T19:37:20Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12136 | 2083| 
+| 20221010T19:10:23Z | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.51FW | https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit | 652 | 48| 
+| 20221010T14:17:29Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 497 | 682| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221010T16:00:16Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 21 | 12| 
 | 20221010T12:37:25Z | Regedit Backdoor Python | https://github.com/Mustafa-Kum/Regedit-Backdoor-Python | 1 | 0| 
 | 20221010T10:06:51Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 4 | 0| 
 | 20221010T08:09:05Z | [Findings of EMNLP 2022] Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | https://github.com/lancopku/DAN | 0 | 0| 
@@ -77,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221010T11:03:46Z | Artifact for the paper %Signatr: A Data-Driven Fuzzing Tool for R% | https://github.com/PRL-PRG/sle22-signatr-artifact | 0 | 0| 
-| 20221010T10:37:46Z | IOCTL Fuzzer in Python | https://github.com/Inn0vatingGuy/IOCTLFuzzer | 0 | 0| 
-| 20221010T09:23:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7918 | 1717| 
-| 20221010T08:50:56Z | Null | https://github.com/Chrismaclean200/fuzzy-engine | 0 | 0| 
-| 20221010T08:21:06Z | https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html | https://github.com/Khixinhxan/scikit-fuzzy-practice | 0 | 0| 
-| 20221010T07:44:09Z | Null | https://github.com/vrthra/fuzzer-compare | 2 | 0| 
-| 20221010T04:49:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4381 | 1058| 
-| 20221010T03:21:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 59 | 18| 
-| 20221010T01:59:22Z | Null | https://github.com/laythanhash/fuzzy-meme | 0 | 0| 
-| 20221010T01:47:54Z | Holistic Greybox Fuzzing of Multi-Language Systems | https://github.com/Daybreak2019/PolyFuzz | 0 | 0| 
+| 20221010T22:56:22Z | Null | https://github.com/lccorpmx/FuzzyLogicBreaking | 0 | 0| 
+| 20221010T22:10:56Z | Null | https://github.com/tyler-hungerrr/fuzzy-telegram | 0 | 0| 
+| 20221010T22:03:00Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1507 | 27| 
+| 20221010T21:26:41Z | Null | https://github.com/Klowar/fuzz_example | 0 | 0| 
+| 20221010T20:43:41Z | Null | https://github.com/jvsouzx/fuzzy | 0 | 0| 
+| 20221010T19:42:09Z | Null | https://github.com/Taybenberg/FuzzyAlzheimerDiagnosis | 0 | 0| 
+| 20221010T18:38:26Z | This repository contains data (in the form of charts, graphs, etc. created via Python/Matplotlib) that was obtained while running fuzzing campaigns in different fuzzers, with the aim of comparing the performance of these fuzzers. | https://github.com/FelipeGirardi/FuzzingData | 0 | 0| 
+| 20221010T16:37:59Z | Null | https://github.com/fuzztruction/fuzztruction | 1 | 0| 
+| 20221010T16:23:03Z | Null | https://github.com/fuzztruction/fuzztruction-experiments | 0 | 0| 
+| 20221010T13:08:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7919 | 1719| 
 
 
 
