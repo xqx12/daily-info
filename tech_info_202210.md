@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221011T11:46:50Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
+| 20221011T12:55:46Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221011T11:20:42Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
 | 20221011T11:13:15Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
 | 20221011T09:32:02Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
