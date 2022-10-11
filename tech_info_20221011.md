@@ -14,6 +14,8 @@
 | 20221011 | 漏洞管理过程中的定量计算方法 | https://mp.weixin.qq.com/s/5C6NeiNb6pifrZZh1vR_cg| 
 | 20221011 | Code Analysis With Joern | https://lightless.me/archives/code-analysis-with-joern.html| 
 | 20221011 | SecWiki周刊（第449期) | https://www.sec-wiki.com/weekly/449| 
+| 20221011 | 使用 JARM 轻松识别 Internet 上的恶意服务器 | https://mp.weixin.qq.com/s/phtGCVnaiff-vKgJVTR0PQ| 
+| 20221011 | 电力网络安全分区(4+1+1区) | https://mp.weixin.qq.com/s/wcs0mWzBXh96Ds-qJ9H6xQ| 
 
 
 # CVE Github 推荐
@@ -85,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221011T12:32:36Z | Null | https://github.com/wa765/sistem_pakar_cuaca_fuzzy | 0 | 0| 
 | 20221011T11:43:44Z | Null | https://github.com/ChoiMyun/fuzzy-brand | 0 | 0| 
 | 20221011T10:46:08Z | The MATLAB pcode for the research paper titled %Particle Swarm Optimized Autonomous Learning Fuzzy System%. | https://github.com/Gu-X/Particle-Swarm-Optimized-Autonomous-Learning-Fuzzy-System | 0 | 0| 
 | 20221011T10:00:00Z | Fuzzy_ligic about cientific_paper by parameters | https://github.com/Matthew-Likhachev/Fuzzy_ligic_scientific_paper | 0 | 0| 
@@ -94,7 +97,6 @@
 | 20221011T03:50:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1053 | 124| 
 | 20221011T01:50:05Z | Null | https://github.com/FlameRender/fuzzy-octo-umbrella-quebec | 0 | 0| 
 | 20221011T01:48:58Z | Making a configurable fuzzy search in javascript | https://github.com/JakeAve/fuzz | 0 | 0| 
-| 20221011T00:16:59Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1508 | 27| 
 
 
 
