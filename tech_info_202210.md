@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221012T01:00:48Z | CVE-2022-40684 | CVE-2022-40684-RCE-POC Fortinet Vulnerability | https://github.com/CarlosV1e1ra/CVE-2022-40684-RCE-POC | | 
+| 20221012T01:03:15Z | CVE-2022-40684 | CVE-2022-40684-RCE-POC Fortinet Vulnerability | https://github.com/CarlosV1e1ra/CVE-2022-40684-RCE-POC | | 
 | 20221012T01:00:46Z | CVE-2022-41082 | PoC and writeup for CVE-2022-41082. is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins  | https://github.com/y4b4n/CVE-2022-41082-RCE-POC | | 
 | 20221012T01:00:45Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode | https://github.com/0nion1/CVE-2021-3129 | | 
 | 20221011T18:20:00Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
