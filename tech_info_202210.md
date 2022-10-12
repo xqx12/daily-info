@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T01:37:39Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 4390 | 888| 
 | 20221012T01:17:41Z | A container repository for my public web hacks! | https://github.com/0xSobky/HackVault | 1670 | 264| 
 | 20221012T00:24:59Z |  Binary Exploitation practices and my hobby | https://github.com/NishantxST/Binary-Exploitation | 0 | 0| 
 | 20221012T00:24:56Z | Null | https://github.com/qwertylord24/exploit.txt | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20221011T23:42:38Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3178 | 604| 
 | 20221011T23:36:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | 1 | 0| 
 | 20221011T23:34:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-m | 1 | 0| 
-| 20221011T23:33:04Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-m | 1 | 0| 
 
 
 # backdoor on Github 推荐
