@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T00:28:37Z | Null | https://github.com/Aya-atiya/Fuzzy-C-Mean-Project- | 0 | 0| 
 | 20221011T23:50:40Z | just a test | https://github.com/cherdt/fuzzbizz | 0 | 0| 
 | 20221011T23:35:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7924 | 1719| 
 | 20221011T21:41:48Z | Simple URL Fuzzer | https://github.com/Keyj33k/DirFuzz | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20221011T11:43:44Z | Null | https://github.com/ChoiMyun/fuzzy-brand | 0 | 0| 
 | 20221011T10:46:08Z | The MATLAB pcode for the research paper titled %Particle Swarm Optimized Autonomous Learning Fuzzy System%. | https://github.com/Gu-X/Particle-Swarm-Optimized-Autonomous-Learning-Fuzzy-System | 0 | 0| 
 | 20221011T10:00:00Z | Fuzzy_ligic about cientific_paper by parameters | https://github.com/Matthew-Likhachev/Fuzzy_ligic_scientific_paper | 0 | 0| 
-| 20221011T09:59:31Z | Null | https://github.com/wxzhy/fuzzy-rotary-phone | 0 | 0| 
 
 
 
