@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221012T12:30:48Z | CVE-2022-40684 | fortinet auth bypass analyze and exploit | https://github.com/Noxus007/CVE-2022-40684-RCE-POC | | 
 | 20221012T11:42:37Z | CVE-2022-35914 | Null | https://github.com/6E6L6F/CVE-2022-35914 | | 
 | 20221012T11:33:53Z | CVE-2022-41082 | PoC and writeup for CVE-2022-41082. is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins  | https://github.com/y4b4n/CVE-2022-41082-RCE-POC | | 
 | 20221012T10:22:55Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
@@ -81,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T12:31:38Z | Null | https://github.com/metaagustina2022/fuzzy-tribble | 0 | 0| 
 | 20221012T12:29:22Z | Null | https://github.com/annoregon/fuzzy-octo-guacamole | 0 | 0| 
 | 20221012T12:20:54Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
 | 20221012T11:47:16Z | Null | https://github.com/Tshepang14/fuzzy-train | 0 | 0| 
@@ -90,7 +92,6 @@
 | 20221012T09:49:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7925 | 1720| 
 | 20221012T07:47:12Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 77 | 5| 
 | 20221012T03:38:37Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1480 | 260| 
-| 20221012T00:28:37Z | Null | https://github.com/Aya-atiya/Fuzzy-C-Mean-Project- | 0 | 0| 
 
 
 
