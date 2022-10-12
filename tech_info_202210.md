@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221012T12:30:48Z | fortinet auth bypass analyze and exploit | https://github.com/Noxus007/CVE-2022-40684-RCE-POC | 0 | 0| 
+| 20221012T12:39:43Z | fortinet auth bypass analyze and exploit | https://github.com/Noxus007/CVE-2022-40684-RCE-POC | 0 | 0| 
 | 20221012T12:30:34Z | A Team Assignment on SQL Injection which includes the understandings of its types and data entries. The Project also includes step by step tutorial of how to exploit such SQLi types, the impacts caused by it and recommendations to avoid such exploits.  | https://github.com/it21026416/SQLInjection | 0 | 0| 
 | 20221012T12:20:54Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
 | 20221012T12:01:53Z | Exploit methods to carry out during a buffer overflow assessment | https://github.com/voker2311/Buffer-Overflow-Scripts | 0 | 0| 
