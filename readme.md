@@ -88,6 +88,7 @@
 | 20221012T10:20:20Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
 | 20221012T09:49:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7925 | 1720| 
 | 20221012T07:47:12Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 77 | 5| 
+| 20221012T03:38:37Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1480 | 260| 
 | 20221012T00:28:37Z | Null | https://github.com/Aya-atiya/Fuzzy-C-Mean-Project- | 0 | 0| 
 
 
