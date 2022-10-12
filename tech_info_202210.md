@@ -69,7 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221012T00:00:48Z | Null | https://github.com/NicholasCheek/WheelOfExploitation | 0 | 0| 
+| 20221012T00:01:31Z | Null | https://github.com/NicholasCheek/WheelOfExploitation | 0 | 0| 
 | 20221011T23:44:31Z | Open source roblox exploit | https://github.com/ogtabaluga/Pepexploit | 0 | 0| 
 | 20221011T23:42:38Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3178 | 604| 
 | 20221011T23:36:36Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | 1 | 0| 
@@ -99,8 +99,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221011T09:12:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3147 | 443| 
-| 20221011T08:31:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
+| 20221011T20:39:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3148 | 443| 
+| 20221011T18:55:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
 | 20221011T00:56:54Z | Detecting Spectre vulnerabilities using symbolic execution, built on angr (github.com/angr/angr) | https://github.com/cdisselkoen/pitchfork | 73 | 5| 
 | 20221010T07:02:52Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 719 | 80| 
 | 20221009T05:28:11Z | Null | https://github.com/VijiithaaSasidharan/SymbolicExecution_Angr | 0 | 0| 
