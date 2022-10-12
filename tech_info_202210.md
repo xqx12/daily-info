@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T00:23:50Z | Null | https://github.com/qwertylord24/exploit.exe | 0 | 0| 
 | 20221012T00:21:40Z |  Binary Exploitation practices and my hobby | https://github.com/NishantxST/Binary-Exploitation | 0 | 0| 
 | 20221012T00:01:31Z | Null | https://github.com/NicholasCheek/WheelOfExploitation | 0 | 0| 
 | 20221011T23:44:31Z | Open source roblox exploit | https://github.com/ogtabaluga/Pepexploit | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20221011T23:33:04Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-m | 1 | 0| 
 | 20221011T22:25:56Z | PS5 4.03 Exploit | https://github.com/Danteswap27/ps5 | 0 | 0| 
 | 20221011T14:48:50Z | Powershell Exploit detection for Windows | https://github.com/jake-k-38/win-ioc-detect | 2 | 0| 
-| 20221011T12:50:28Z | Null | https://github.com/jhoanax/Silent-Exploit-doc | 2 | 2| 
 
 
 # backdoor on Github 推荐
