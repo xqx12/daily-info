@@ -71,10 +71,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T12:01:53Z | Exploit methods to carry out during a buffer overflow assessment | https://github.com/voker2311/Buffer-Overflow-Scripts | 0 | 0| 
 | 20221012T11:31:55Z | We propose Endpoint Forecasting and Interpreting (EFI), a real-time attack forecast and interpretation system, which can automatically predict next move during post-exploitation and explain it in technique-level, then dispatch strategies to EDR for advance reinforcement.  | https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting | 0 | 0| 
 | 20221012T11:21:05Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 312 | 43| 
 | 20221012T10:20:55Z | Windows 32-bit binary exploitation. | https://github.com/anvbis/windows.x86.expl | 0 | 0| 
-| 20221012T09:55:28Z | Exploit methods to carry out during a buffer overflow assessment | https://github.com/voker2311/Buffer-Overflow-Scripts | 0 | 0| 
 | 20221012T09:31:07Z | UAF exploit code | https://github.com/KASTboi/UAF | 0 | 0| 
 | 20221012T08:45:52Z | SYNAPSE X CRACKED ROBLOX X SYNAPSE HACK 2022 FREE EXPLOIT VERSION FOR PC Pass - synapse | https://github.com/P2PP2/Synapse_Hack | 0 | 0| 
 | 20221012T08:11:46Z | Statistical analysis for exploiting vol products at FTX. | https://github.com/adevrent/vol_products_ftx | 0 | 0| 
@@ -101,16 +101,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221011T20:39:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3148 | 443| 
-| 20221011T18:55:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
+| 20221012T10:21:55Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 0 | 1| 
+| 20221012T10:19:59Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 4 | 1| 
+| 20221012T04:49:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
+| 20221012T04:29:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3149 | 443| 
+| 20221012T02:48:53Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 72 | 1| 
 | 20221011T00:56:54Z | Detecting Spectre vulnerabilities using symbolic execution, built on angr (github.com/angr/angr) | https://github.com/cdisselkoen/pitchfork | 73 | 5| 
 | 20221010T07:02:52Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 719 | 80| 
 | 20221009T05:28:11Z | Null | https://github.com/VijiithaaSasidharan/SymbolicExecution_Angr | 0 | 0| 
 | 20221008T13:22:45Z | Symbolic Execution Engine in Rust | https://github.com/norlen/symex | 0 | 0| 
 | 20221008T09:44:47Z | Code for tracelet-level symbolic execution | https://github.com/sem2vec/sem2vec-SE | 4 | 0| 
-| 20221008T02:52:09Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 48 | 23| 
-| 20221007T06:45:17Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 490 | 28| 
-| 20221006T14:28:19Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 31 | 21| 
 
 
 # big4 on Github 推荐
