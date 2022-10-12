@@ -45,6 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T12:30:48Z | fortinet auth bypass analyze and exploit | https://github.com/Noxus007/CVE-2022-40684-RCE-POC | 0 | 0| 
+| 20221012T12:30:34Z | A Team Assignment on SQL Injection which includes the understandings of its types and data entries. The Project also includes step by step tutorial of how to exploit such SQLi types, the impacts caused by it and recommendations to avoid such exploits.  | https://github.com/it21026416/SQLInjection | 0 | 0| 
 | 20221012T12:20:54Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
 | 20221012T12:01:53Z | Exploit methods to carry out during a buffer overflow assessment | https://github.com/voker2311/Buffer-Overflow-Scripts | 0 | 0| 
 | 20221012T11:31:55Z | We propose Endpoint Forecasting and Interpreting (EFI), a real-time attack forecast and interpretation system, which can automatically predict next move during post-exploitation and explain it in technique-level, then dispatch strategies to EDR for advance reinforcement.  | https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting | 0 | 0| 
@@ -53,8 +55,6 @@
 | 20221012T09:31:07Z | UAF exploit code | https://github.com/KASTboi/UAF | 0 | 0| 
 | 20221012T08:45:52Z | SYNAPSE X CRACKED ROBLOX X SYNAPSE HACK 2022 FREE EXPLOIT VERSION FOR PC Pass - synapse | https://github.com/P2PP2/Synapse_Hack | 0 | 0| 
 | 20221012T08:11:46Z | Statistical analysis for exploiting vol products at FTX. | https://github.com/adevrent/vol_products_ftx | 0 | 0| 
-| 20221012T07:37:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4947 | 683| 
-| 20221012T03:21:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3677 | 449| 
 
 
 # backdoor on Github 推荐
