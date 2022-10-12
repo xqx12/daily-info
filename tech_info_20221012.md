@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T12:29:22Z | Null | https://github.com/annoregon/fuzzy-octo-guacamole | 0 | 0| 
 | 20221012T12:20:54Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
 | 20221012T11:47:16Z | Null | https://github.com/Tshepang14/fuzzy-train | 0 | 0| 
 | 20221012T11:23:31Z | Exercises to learn how to fuzz with American Fuzzy Lop | https://github.com/mykter/afl-training | 993 | 179| 
