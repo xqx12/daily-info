@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T12:20:54Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
 | 20221012T12:01:53Z | Exploit methods to carry out during a buffer overflow assessment | https://github.com/voker2311/Buffer-Overflow-Scripts | 0 | 0| 
 | 20221012T11:31:55Z | We propose Endpoint Forecasting and Interpreting (EFI), a real-time attack forecast and interpretation system, which can automatically predict next move during post-exploitation and explain it in technique-level, then dispatch strategies to EDR for advance reinforcement.  | https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting | 0 | 0| 
 | 20221012T11:21:05Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 312 | 43| 
@@ -80,7 +81,6 @@
 | 20221012T08:11:46Z | Statistical analysis for exploiting vol products at FTX. | https://github.com/adevrent/vol_products_ftx | 0 | 0| 
 | 20221012T07:37:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4947 | 683| 
 | 20221012T03:21:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3677 | 449| 
-| 20221012T01:37:39Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 4390 | 888| 
 
 
 # backdoor on Github 推荐
@@ -124,11 +124,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T12:20:54Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
 | 20221012T11:47:16Z | Null | https://github.com/Tshepang14/fuzzy-train | 0 | 0| 
 | 20221012T11:23:31Z | Exercises to learn how to fuzz with American Fuzzy Lop | https://github.com/mykter/afl-training | 993 | 179| 
 | 20221012T11:18:10Z | FuzzySecurity Archive | https://github.com/FuzzySecurity/FuzzySecurity.github.io | 1 | 0| 
 | 20221012T10:52:26Z | Hacktoberfest | https://github.com/dhaval055/fuzzy-sniffle | 0 | 0| 
-| 20221012T10:20:20Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
 | 20221012T09:49:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7925 | 1720| 
 | 20221012T07:47:12Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 77 | 5| 
 | 20221012T03:38:37Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1480 | 260| 
