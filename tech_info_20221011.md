@@ -21,16 +21,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221011T20:17:54Z | CVE-2022-40684 | CVE-2022-40684-RCE-POC Fortinet Vulnerability | https://github.com/CarlosV1e1ra/CVE-2022-40684-RCE-POC | | 
 | 20221011T18:20:00Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
-| 20221011T15:37:01Z | CVE-2022-41082 | PoC and writeup for CVE-2022-41082. is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins  | https://github.com/y4b4n/CVE-2022-41082-RCE-POC | | 
 | 20221011T12:55:46Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import | https://github.com/CsEnox/CVE-2022-2992 | | 
 | 20221011T11:20:42Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
 | 20221011T09:32:02Z | CVE-2022-39197 | CVE-2022-39197 bug fix patch | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch | | 
-| 20221011T09:03:56Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode | https://github.com/0nion1/CVE-2021-3129 | | 
 | 20221011T02:14:34Z | CVE-2021-4034 | polkit priv esc: pkexec out of boundary exploit | https://github.com/Pixailz/CVE-2021-4034 | | 
 | 20221011T02:14:32Z | CVE-2022-41082 | mass rce for ProxyNotShell  | https://github.com/t0mby/CVE-2022-41082-MASS-RCE | | 
 | 20221011T02:14:27Z | cve-2022-41352 | cve-2022-41352 poc | https://github.com/segfault-it/cve-2022-41352 | | 
+| 20221011T01:24:58Z | CVE-2022-32548 | Null | https://github.com/uisvit/CVE-2022-32548-MASS-RCE | | 
+| 20221011T01:24:51Z | CVE-2022-35914 | Null | https://github.com/xiaobaiakai/CVE-2022-35914 | | 
+| 20221011T01:24:44Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
