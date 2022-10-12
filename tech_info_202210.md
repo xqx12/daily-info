@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T12:41:08Z | Null | https://github.com/N0N4M3D-b/bluetooth-backdoor | 0 | 0| 
 | 20221012T03:15:45Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 154 | 37| 
 | 20221011T22:26:24Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
 | 20221011T18:59:42Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 50 | 8| 
@@ -95,7 +96,6 @@
 | 20221011T04:02:08Z | Null | https://github.com/kangjie-chen/pruning_backdoor | 0 | 0| 
 | 20221011T02:20:08Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 22 | 13| 
 | 20221010T12:37:25Z | Regedit Backdoor Python | https://github.com/Mustafa-Kum/Regedit-Backdoor-Python | 1 | 0| 
-| 20221010T10:06:51Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
