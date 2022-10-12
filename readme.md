@@ -93,7 +93,7 @@
 | 20221012T10:52:26Z | Hacktoberfest | https://github.com/dhaval055/fuzzy-sniffle | 0 | 0| 
 | 20221012T09:49:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7925 | 1720| 
 | 20221012T07:47:12Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 77 | 5| 
-| 20221012T03:38:37Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1480 | 260| 
+| 20221012T06:33:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1056 | 126| 
 
 
 
