@@ -86,7 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221012T12:41:08Z | Null | https://github.com/N0N4M3D-b/bluetooth-backdoor | 0 | 0| 
+| 20221012T12:47:52Z | Null | https://github.com/N0N4M3D-b/bluetooth-backdoor | 0 | 0| 
 | 20221012T03:15:45Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 154 | 37| 
 | 20221011T22:26:24Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
 | 20221011T18:59:42Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 50 | 8| 
