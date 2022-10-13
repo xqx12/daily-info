@@ -48,7 +48,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221012T23:59:27Z | CSGO Python ESP Made By exploit#2091 | https://github.com/Bubble133/CSGO-Python-ESP | 0 | 0| 
-| 20221012T23:55:43Z | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | 0 | 0| 
 | 20221012T23:39:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-c | 1 | 0| 
 | 20221012T23:39:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-c | 1 | 0| 
 | 20221012T23:38:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 1 | 0| 
@@ -57,6 +56,7 @@
 | 20221012T19:31:41Z | Custom exploits | https://github.com/Notselwyn/exploits | 0 | 0| 
 | 20221012T17:38:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4948 | 684| 
 | 20221012T12:39:43Z | fortinet auth bypass analyze and exploit | https://github.com/Noxus007/CVE-2022-40684-RCE-POC | 0 | 0| 
+| 20221012T12:30:34Z | A Team Assignment on SQL Injection which includes the understandings of its types and data entries. The Project also includes step by step tutorial of how to exploit such SQLi types, the impacts caused by it and recommendations to avoid such exploits.  | https://github.com/it21026416/SQLInjection | 0 | 0| 
 
 
 # backdoor on Github 推荐
