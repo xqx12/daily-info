@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221013T01:39:16Z | Null | https://github.com/FluxXe1/msf-exploit | 0 | 0| 
+| 20221013T01:40:05Z | Null | https://github.com/FluxXe1/msf-exploit | 0 | 0| 
 | 20221013T01:02:49Z | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | 0 | 0| 
 | 20221012T23:59:27Z | CSGO Python ESP Made By exploit#2091 | https://github.com/Bubble133/CSGO-Python-ESP | 0 | 0| 
 | 20221012T23:39:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-c | 1 | 0| 
