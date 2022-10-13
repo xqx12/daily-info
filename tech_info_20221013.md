@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221013T12:30:51Z | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/multispl0it/CVE-2022-20841 | 0 | 0| 
 | 20221013T12:26:39Z | Fastjson exploit | https://github.com/multispl0it/CVE-2022-25845 | 0 | 0| 
 | 20221013T11:42:28Z | This is only for educational or entertainment purposes...Don%t exploit someone%s privacy.. | https://github.com/arshpb36/Arshdeep-singh-Phishing-links-for-social-media | 0 | 0| 
 | 20221013T11:16:31Z | Null | https://github.com/FerencStarterDev/Storm-Exploits-Web | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20221013T10:30:57Z | Repository for the paper Exploiting semantic segmentation to boost reinforcement learning in video game environments | https://github.com/Montyro/MarioSSRL | 0 | 0| 
 | 20221013T08:48:20Z | pwn exploits for the challenges which I try | https://github.com/ShyamSunder149/pwn-exploits | 0 | 0| 
 | 20221013T08:38:11Z | Shows how to use Spark for distributed processing on the PROBA-V Mission Exploitation Platform. | https://github.com/VITObelgium/python-spark-quickstart | 2 | 0| 
-| 20221013T08:16:32Z | chrome利用知识整理 | https://github.com/MingWilliams/chrome_exploit_knowledge | 0 | 0| 
 
 
 # backdoor on Github 推荐
