@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221013T12:24:35Z | CVE-2022-25845 | Fastjson exploit | https://github.com/multispl0it/CVE-2022-25845 | | 
 | 20221013T10:57:45Z | CVE-2022-2992 | Null | https://github.com/RealAlphaMan/CVE-2022-2992 | | 
 | 20221013T07:58:15Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode | https://github.com/0nion1/CVE-2021-3129 | | 
 | 20221013T02:41:47Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
@@ -41,7 +42,6 @@
 | 20221012T12:54:54Z | CVE-2022-0002 | test for CVE-2022-0002 "><s>2 {{9*9}} | https://github.com/nikokosm/CVE-2022-0002--s-1 | | 
 | 20221012T12:39:43Z | CVE-2022-40684 | fortinet auth bypass analyze and exploit | https://github.com/Noxus007/CVE-2022-40684-RCE-POC | | 
 | 20221012T11:42:37Z | CVE-2022-35914 | Null | https://github.com/6E6L6F/CVE-2022-35914 | | 
-| 20221012T11:33:53Z | CVE-2022-41082 | PoC and writeup for CVE-2022-41082. is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins  | https://github.com/y4b4n/CVE-2022-41082-RCE-POC | | 
 
 
 # klee on Github 推荐
