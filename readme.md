@@ -41,8 +41,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221013T01:40:05Z | Null | https://github.com/FluxXe1/msf-exploit | 0 | 0| 
-| 20221013T01:02:49Z | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | 0 | 0| 
+| 20221013T11:42:28Z | This is only for educational or entertainment purposes...Don%t exploit someone%s privacy.. | https://github.com/arshpb36/Arshdeep-singh-Phishing-links-for-social-media | 0 | 0| 
+| 20221013T11:16:31Z | Null | https://github.com/FerencStarterDev/Storm-Exploits-Web | 0 | 0| 
+| 20221013T11:10:23Z | A good website | https://github.com/FerencStarterDev/Storm-Exploit | 0 | 0| 
+| 20221013T11:06:09Z | Null | https://github.com/FerencStarterDev/Storm-Exploits | 0 | 1| 
+| 20221013T10:39:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4949 | 684| 
+| 20221013T10:30:57Z | Repository for the paper Exploiting semantic segmentation to boost reinforcement learning in video game environments | https://github.com/Montyro/MarioSSRL | 0 | 0| 
+| 20221013T08:48:20Z | pwn exploits for the challenges which I try | https://github.com/ShyamSunder149/pwn-exploits | 0 | 0| 
+| 20221013T08:38:11Z | Shows how to use Spark for distributed processing on the PROBA-V Mission Exploitation Platform. | https://github.com/VITObelgium/python-spark-quickstart | 2 | 0| 
+| 20221013T08:16:32Z | chrome利用知识整理 | https://github.com/MingWilliams/chrome_exploit_knowledge | 0 | 0| 
+| 20221013T07:13:25Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1698 | 547| 
 
 
 # backdoor on Github 推荐
@@ -69,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221013T12:01:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42268 | 21162| 
 | 20221013T11:51:28Z | Adaptive fuzzing of Hypothesis tests | https://github.com/Zac-HD/hypofuzz | 2 | 1| 
 | 20221013T11:23:28Z | Burp之Intruder的物尽其用插件 | https://github.com/fengzhouc/FuzzPayloadGennerator | 33 | 1| 
 | 20221013T11:22:55Z | Null | https://github.com/Adi-Sauter/fuzzy_model | 0 | 0| 
@@ -78,7 +87,6 @@
 | 20221013T10:03:57Z | Null | https://github.com/DragonLHR/fuzzy-octo-umbrella | 0 | 0| 
 | 20221013T09:53:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1056 | 126| 
 | 20221013T09:11:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7928 | 1720| 
-| 20221013T06:21:37Z | fuzzing-101 libafl solutions | https://github.com/rycbar77/libafl_learning | 0 | 0| 
 
 
 
