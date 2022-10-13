@@ -32,24 +32,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221012T23:55:43Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
+| 20221012T21:35:49Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
+| 20221012T18:27:13Z | CVE-2022-0847 | Null | https://github.com/edsonjt81/CVE-2022-0847-DirtyPipe- | | 
+| 20221012T15:42:02Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode | https://github.com/0nion1/CVE-2021-3129 | | 
+| 20221012T14:44:30Z | CVE-2022-40684 | fortinet auth bypass analyze and exploit | https://github.com/Br4velwd/CVE-2022-40684-RCE-POC | | 
 | 20221012T12:54:54Z | CVE-2022-0002 | test for CVE-2022-0002 "><s>2 {{9*9}} | https://github.com/nikokosm/CVE-2022-0002--s-1 | | 
 | 20221012T12:39:43Z | CVE-2022-40684 | fortinet auth bypass analyze and exploit | https://github.com/Noxus007/CVE-2022-40684-RCE-POC | | 
 | 20221012T11:42:37Z | CVE-2022-35914 | Null | https://github.com/6E6L6F/CVE-2022-35914 | | 
 | 20221012T11:33:53Z | CVE-2022-41082 | PoC and writeup for CVE-2022-41082. is a SSRF vulnerability which leads to remote code execution (RCE) when PowerShell is accessible to the attacker. a very problematic issue for sys admins  | https://github.com/y4b4n/CVE-2022-41082-RCE-POC | | 
-| 20221012T10:22:55Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
 | 20221012T10:13:17Z | CVE-2022-34918 | 1-day case study | https://github.com/Sechack06/CVE-2022-34918 | | 
-| 20221012T09:53:39Z | CVE-2022-34718 | Null | https://github.com/SecLabResearchBV/CVE-2022-34718-PoC | | 
-| 20221012T08:03:39Z | CVE-2022-24999 | "qs" prototype poisoning vulnerability ( CVE-2022-24999 ) | https://github.com/n8tz/CVE-2022-24999 | | 
-| 20221012T01:46:57Z | CVE-2022-40684 | CVE-2022-40684-RCE-POC Fortinet Vulnerability | https://github.com/CarlosV1e1ra/CVE-2022-40684-RCE-POC | | 
-| 20221012T01:00:45Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode | https://github.com/0nion1/CVE-2021-3129 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T19:21:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
 | 20221012T10:03:52Z | Null | https://github.com/vichannnnn/klee-giveaway-web | 1 | 0| 
 | 20221012T07:02:09Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 97 | 1| 
-| 20221012T04:49:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
 | 20221011T20:15:03Z | Klee%s Notes! 🍀 , t.me/GIDataBot | https://github.com/shardeex/GIDataBot | 1 | 0| 
 | 20221011T00:06:02Z | Null | https://github.com/fontworks-fonts/Klee | 751 | 21| 
 | 20221010T17:12:01Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 14 | 0| 
@@ -71,21 +71,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T23:59:27Z | CSGO Python ESP Made By exploit#2091 | https://github.com/Bubble133/CSGO-Python-ESP | 0 | 0| 
+| 20221012T23:55:43Z | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | 0 | 0| 
+| 20221012T23:39:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-c | 1 | 0| 
+| 20221012T23:39:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-c | 1 | 0| 
+| 20221012T23:38:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 1 | 0| 
+| 20221012T21:30:12Z | Null | https://github.com/YanMaciel/exploit | 0 | 0| 
+| 20221012T20:17:38Z | A vulnerability found within the Luhn checksum, discussed here: https://dev.to/jwestern1337/credit-card-exploitation-how-it-works-and-the-vulnerabilities-surrounding-billions-of-credit-card-users-1k88 | https://github.com/jwestern1337/credit-card-vulnerability | 0 | 0| 
+| 20221012T19:31:41Z | Custom exploits | https://github.com/Notselwyn/exploits | 0 | 0| 
+| 20221012T17:38:39Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4948 | 684| 
 | 20221012T12:39:43Z | fortinet auth bypass analyze and exploit | https://github.com/Noxus007/CVE-2022-40684-RCE-POC | 0 | 0| 
-| 20221012T12:30:34Z | A Team Assignment on SQL Injection which includes the understandings of its types and data entries. The Project also includes step by step tutorial of how to exploit such SQLi types, the impacts caused by it and recommendations to avoid such exploits.  | https://github.com/it21026416/SQLInjection | 0 | 0| 
-| 20221012T12:20:54Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
-| 20221012T12:01:53Z | Exploit methods to carry out during a buffer overflow assessment | https://github.com/voker2311/Buffer-Overflow-Scripts | 0 | 0| 
-| 20221012T11:31:55Z | We propose Endpoint Forecasting and Interpreting (EFI), a real-time attack forecast and interpretation system, which can automatically predict next move during post-exploitation and explain it in technique-level, then dispatch strategies to EDR for advance reinforcement.  | https://github.com/jieying-src/Endpoint-Forecasting-and-Interpreting | 0 | 0| 
-| 20221012T11:21:05Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 312 | 43| 
-| 20221012T10:20:55Z | Windows 32-bit binary exploitation. | https://github.com/anvbis/windows.x86.expl | 0 | 0| 
-| 20221012T09:31:07Z | UAF exploit code | https://github.com/KASTboi/UAF | 0 | 0| 
-| 20221012T08:45:52Z | SYNAPSE X CRACKED ROBLOX X SYNAPSE HACK 2022 FREE EXPLOIT VERSION FOR PC Pass - synapse | https://github.com/P2PP2/Synapse_Hack | 0 | 0| 
-| 20221012T08:11:46Z | Statistical analysis for exploiting vol products at FTX. | https://github.com/adevrent/vol_products_ftx | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T20:04:09Z | Official Implementation of NIPS 2022 paper Pre-activation Distributions Expose Backdoor Neurons | https://github.com/RJ-T/NIPS2022_EP_BNP | 0 | 0| 
+| 20221012T17:41:27Z | telegram backdoor bot | https://github.com/Vermilonik/TelegramBackdoor | 1 | 0| 
+| 20221012T16:04:11Z | Code for One-shot Neural Backdoor Erasing via Adversarial Weight Masking (NeurIPS 2022) | https://github.com/jinghuichen/AWM | 0 | 0| 
 | 20221012T12:47:52Z | Null | https://github.com/N0N4M3D-b/bluetooth-backdoor | 0 | 0| 
 | 20221012T03:15:45Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 154 | 37| 
 | 20221011T22:26:24Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
@@ -93,29 +96,27 @@
 | 20221011T09:36:59Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/aleff-github/Backdoor-Client-Server-Socket-Python | 9 | 1| 
 | 20221011T08:10:42Z | Null | https://github.com/haodada001/Awesome-Backdoor-in-Deep-Learning | 2 | 0| 
 | 20221011T08:10:42Z | Null | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 2 | 0| 
-| 20221011T04:02:08Z | Null | https://github.com/kangjie-chen/pruning_backdoor | 0 | 0| 
-| 20221011T02:20:08Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 22 | 13| 
-| 20221010T12:37:25Z | Regedit Backdoor Python | https://github.com/Mustafa-Kum/Regedit-Backdoor-Python | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T19:33:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3150 | 443| 
+| 20221012T19:21:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
+| 20221012T18:21:08Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 24 | 5| 
 | 20221012T10:21:55Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 0 | 1| 
 | 20221012T10:19:59Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 4 | 1| 
-| 20221012T04:49:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
-| 20221012T04:29:38Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3149 | 443| 
 | 20221012T02:48:53Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 72 | 1| 
 | 20221011T00:56:54Z | Detecting Spectre vulnerabilities using symbolic execution, built on angr (github.com/angr/angr) | https://github.com/cdisselkoen/pitchfork | 73 | 5| 
 | 20221010T07:02:52Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 719 | 80| 
 | 20221009T05:28:11Z | Null | https://github.com/VijiithaaSasidharan/SymbolicExecution_Angr | 0 | 0| 
 | 20221008T13:22:45Z | Symbolic Execution Engine in Rust | https://github.com/norlen/symex | 0 | 0| 
-| 20221008T09:44:47Z | Code for tracelet-level symbolic execution | https://github.com/sem2vec/sem2vec-SE | 4 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T13:39:41Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 12 | 2| 
 | 20221010T01:53:08Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 58 | 11| 
 | 20221005T07:16:48Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 10 | 0| 
 | 20221003T11:35:35Z | Null | https://github.com/Jedi-Team/Anonymous-NDSS-240 | 0 | 0| 
@@ -124,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221012T21:55:24Z | Tennis data viz project | https://github.com/khanhngg/fuzzy-yellow-balls | 0 | 0| 
+| 20221012T21:52:27Z | Null | https://github.com/IZOBRETATEL777/js-fuzzer | 0 | 0| 
+| 20221012T20:16:30Z | Null | https://github.com/js-fuzzer/js-fuzzer.github.io | 0 | 0| 
+| 20221012T20:05:49Z | Null | https://github.com/Nunnaphat1234/fuzzy-eureka | 0 | 0| 
+| 20221012T19:28:57Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1768 | 200| 
+| 20221012T15:14:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7926 | 1720| 
 | 20221012T12:31:38Z | Null | https://github.com/metaagustina2022/fuzzy-tribble | 0 | 0| 
 | 20221012T12:29:22Z | Null | https://github.com/annoregon/fuzzy-octo-guacamole | 0 | 0| 
 | 20221012T12:20:54Z | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | 0 | 0| 
-| 20221012T11:47:16Z | Null | https://github.com/Tshepang14/fuzzy-train | 0 | 0| 
-| 20221012T11:23:31Z | Exercises to learn how to fuzz with American Fuzzy Lop | https://github.com/mykter/afl-training | 993 | 179| 
-| 20221012T11:18:10Z | FuzzySecurity Archive | https://github.com/FuzzySecurity/FuzzySecurity.github.io | 1 | 0| 
-| 20221012T10:52:26Z | Hacktoberfest | https://github.com/dhaval055/fuzzy-sniffle | 0 | 0| 
-| 20221012T09:49:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7925 | 1720| 
-| 20221012T07:47:12Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 77 | 5| 
-| 20221012T06:33:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1056 | 126| 
+| 20221012T11:50:29Z | Null | https://github.com/google/fuzztest | 50 | 1| 
 
 
 
