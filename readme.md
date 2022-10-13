@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221013T12:24:35Z | Fastjson exploit | https://github.com/multispl0it/CVE-2022-25845 | 0 | 0| 
 | 20221013T11:42:28Z | This is only for educational or entertainment purposes...Don%t exploit someone%s privacy.. | https://github.com/arshpb36/Arshdeep-singh-Phishing-links-for-social-media | 0 | 0| 
 | 20221013T11:16:31Z | Null | https://github.com/FerencStarterDev/Storm-Exploits-Web | 0 | 0| 
 | 20221013T11:10:23Z | A good website | https://github.com/FerencStarterDev/Storm-Exploit | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20221013T08:48:20Z | pwn exploits for the challenges which I try | https://github.com/ShyamSunder149/pwn-exploits | 0 | 0| 
 | 20221013T08:38:11Z | Shows how to use Spark for distributed processing on the PROBA-V Mission Exploitation Platform. | https://github.com/VITObelgium/python-spark-quickstart | 2 | 0| 
 | 20221013T08:16:32Z | chrome利用知识整理 | https://github.com/MingWilliams/chrome_exploit_knowledge | 0 | 0| 
-| 20221013T07:13:25Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1698 | 547| 
 
 
 # backdoor on Github 推荐
@@ -63,7 +63,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221013T10:49:44Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 5 | 1| 
+| 20221013T12:25:38Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 6 | 1| 
 | 20221013T09:12:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3149 | 443| 
 | 20221013T08:47:14Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 1 | 2| 
 | 20221013T08:32:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
