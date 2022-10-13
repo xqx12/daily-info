@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221013T01:17:30Z | Null | https://github.com/ptepointes/fuzzy-train | 0 | 0| 
 | 20221013T00:57:24Z | Null | https://github.com/metzEric/fuzzy-spoon | 0 | 0| 
 | 20221012T21:55:24Z | Tennis data viz project | https://github.com/khanhngg/fuzzy-yellow-balls | 0 | 0| 
 | 20221012T21:52:27Z | Null | https://github.com/IZOBRETATEL777/js-fuzzer | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20221012T19:28:54Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1282 | 96| 
 | 20221012T15:14:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7926 | 1720| 
 | 20221012T12:31:38Z | Null | https://github.com/metaagustina2022/fuzzy-tribble | 0 | 0| 
-| 20221012T12:29:22Z | Null | https://github.com/annoregon/fuzzy-octo-guacamole | 0 | 0| 
 
 
 
