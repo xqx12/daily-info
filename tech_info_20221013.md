@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221013T12:24:35Z | CVE-2022-25845 | Fastjson exploit | https://github.com/multispl0it/CVE-2022-25845 | | 
+| 20221013T12:26:39Z | CVE-2022-25845 | Fastjson exploit | https://github.com/multispl0it/CVE-2022-25845 | | 
 | 20221013T10:57:45Z | CVE-2022-2992 | Null | https://github.com/RealAlphaMan/CVE-2022-2992 | | 
 | 20221013T07:58:15Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode | https://github.com/0nion1/CVE-2021-3129 | | 
 | 20221013T02:41:47Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221013T12:24:35Z | Fastjson exploit | https://github.com/multispl0it/CVE-2022-25845 | 0 | 0| 
+| 20221013T12:26:39Z | Fastjson exploit | https://github.com/multispl0it/CVE-2022-25845 | 0 | 0| 
 | 20221013T11:42:28Z | This is only for educational or entertainment purposes...Don%t exploit someone%s privacy.. | https://github.com/arshpb36/Arshdeep-singh-Phishing-links-for-social-media | 0 | 0| 
 | 20221013T11:16:31Z | Null | https://github.com/FerencStarterDev/Storm-Exploits-Web | 0 | 0| 
 | 20221013T11:10:23Z | A good website | https://github.com/FerencStarterDev/Storm-Exploit | 0 | 0| 
