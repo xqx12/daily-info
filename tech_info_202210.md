@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221013T01:01:08Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
+| 20221013T01:02:49Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
 | 20221012T21:35:49Z | CVE-2022-41040 | CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server | https://github.com/kljunowsky/CVE-2022-41040-POC | | 
 | 20221012T18:27:13Z | CVE-2022-0847 | Null | https://github.com/edsonjt81/CVE-2022-0847-DirtyPipe- | | 
 | 20221012T15:42:02Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode | https://github.com/0nion1/CVE-2021-3129 | | 
@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221013T01:01:08Z | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | 0 | 0| 
+| 20221013T01:02:49Z | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | 0 | 0| 
 | 20221012T23:59:27Z | CSGO Python ESP Made By exploit#2091 | https://github.com/Bubble133/CSGO-Python-ESP | 0 | 0| 
 | 20221012T23:39:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-c | 1 | 0| 
 | 20221012T23:39:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-c | 1 | 0| 
