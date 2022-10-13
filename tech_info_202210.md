@@ -125,13 +125,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221013T01:32:59Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1768 | 200| 
 | 20221013T01:17:30Z | Null | https://github.com/ptepointes/fuzzy-train | 0 | 0| 
 | 20221013T00:57:24Z | Null | https://github.com/metzEric/fuzzy-spoon | 0 | 0| 
 | 20221012T21:55:24Z | Tennis data viz project | https://github.com/khanhngg/fuzzy-yellow-balls | 0 | 0| 
 | 20221012T21:52:27Z | Null | https://github.com/IZOBRETATEL777/js-fuzzer | 0 | 0| 
 | 20221012T20:16:30Z | Null | https://github.com/js-fuzzer/js-fuzzer.github.io | 0 | 0| 
 | 20221012T20:05:49Z | Null | https://github.com/Nunnaphat1234/fuzzy-eureka | 0 | 0| 
-| 20221012T19:28:57Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1768 | 200| 
 | 20221012T19:28:54Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1282 | 96| 
 | 20221012T15:14:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7926 | 1720| 
 | 20221012T12:31:38Z | Null | https://github.com/metaagustina2022/fuzzy-tribble | 0 | 0| 
