@@ -32,7 +32,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221012T19:21:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
 | 20221012T10:03:52Z | Null | https://github.com/vichannnnn/klee-giveaway-web | 1 | 0| 
 | 20221012T07:02:09Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 97 | 1| 
 
@@ -73,7 +72,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221012T19:33:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3150 | 443| 
-| 20221012T19:21:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
 | 20221012T18:21:08Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 24 | 5| 
 | 20221012T16:45:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 583 | 102| 
 | 20221012T10:21:55Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 0 | 1| 
