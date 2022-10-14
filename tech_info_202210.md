@@ -32,8 +32,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221014T12:17:21Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T12:07:43Z | 未知编号 | CVE-40684-2022 | https://github.com/hackingyseguridad/cve-40684-2022 | | 
-| 20221014T11:59:34Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T11:45:35Z | CVE-2022-40684 | Null | https://github.com/iveresk/CVE-2022-40684 | | 
 | 20221014T11:31:33Z | CVE-2022-40684 | Null | https://github.com/secunnix/CVE-2022-40684 | | 
 | 20221014T11:00:40Z | CVE-2022-40684 | Null | https://github.com/mhd108/CVE-2022-40684 | | 
@@ -126,6 +126,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221014T12:15:33Z | Null | https://github.com/Stachiss/LogicaFuzzy-AnalisaFinanceiraCredito | 0 | 0| 
+| 20221014T12:15:14Z | Null | https://github.com/BiswajeetRay7/Fuzzing-wordlist | 0 | 2| 
 | 20221014T12:10:56Z | Null | https://github.com/chompou/fuzzing-ci | 0 | 0| 
 | 20221014T11:31:35Z | Null | https://github.com/Cien267/FuzzyLogic | 0 | 0| 
 | 20221014T11:27:47Z | Fuzzing zkEVM using the Fluffy fuzzer | https://github.com/Veridise/fluffy-zkevm-fuzzer | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20221014T10:52:45Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
 | 20221014T10:35:19Z | Null | https://github.com/dengorlach/fuzzy-computing-machine | 0 | 0| 
 | 20221014T09:44:24Z | Null | https://github.com/biasedLiar/c-fuzzing-with-ci | 0 | 0| 
-| 20221014T06:55:57Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 790 | 163| 
 
 
 
