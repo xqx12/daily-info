@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221014T12:51:56Z | CVE-2022-41852 | CVE-2022-41852 Proof of Concept | https://github.com/Warxim/CVE-2022-41852 | | 
 | 20221014T12:44:53Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T12:07:43Z | 未知编号 | CVE-40684-2022 | https://github.com/hackingyseguridad/cve-40684-2022 | | 
 | 20221014T11:45:35Z | CVE-2022-40684 | Null | https://github.com/iveresk/CVE-2022-40684 | | 
@@ -41,7 +42,6 @@
 | 20221014T09:08:28Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
 | 20221014T09:08:19Z | CVE-2021-45067 | Adobe Reader DC Information Leak Exploit  | https://github.com/hacksysteam/CVE-2021-45067 | | 
 | 20221014T08:53:26Z | CVE-2022-40648 | Multi-threaded Mass adding ssh keys for CVE-2022-40648 | https://github.com/b3wT/CVE-2022-40648-MASS | | 
-| 20221014T07:26:51Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
 
 
 # klee on Github 推荐
