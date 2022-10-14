@@ -45,7 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221014T12:13:24Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3503 | 248| 
+| 20221014T12:22:11Z | Null | https://github.com/imreplay/exploits-testing | 0 | 0| 
+| 20221014T12:21:32Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3504 | 248| 
 | 20221014T11:40:15Z | BRATA RAT - Advanced Android Remote Tool since 2018 - 2022 | https://github.com/brataratoffcial/BRATA-RAT-OFFICIALPAGE | 1 | 0| 
 | 20221014T10:55:00Z | Null | https://github.com/illupak/Windows-Exploitation | 0 | 0| 
 | 20221014T10:01:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4483 | 674| 
@@ -54,7 +55,6 @@
 | 20221014T09:25:39Z | tikbotting.com exploitation | https://github.com/pneb/TikBottingJS | 0 | 0| 
 | 20221014T09:01:57Z | automated script for exploiting CVE-2007-2447 | https://github.com/Aviksaikat/CVE-2007-2447 | 0 | 0| 
 | 20221014T07:22:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3682 | 449| 
-| 20221014T07:08:49Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 532 | 143| 
 
 
 # backdoor on Github 推荐
