@@ -125,7 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221014T12:14:54Z | Null | https://github.com/Stachiss/LogicaFuzzy-AnalisaFinanceiraCredito | 0 | 0| 
+| 20221014T12:15:33Z | Null | https://github.com/Stachiss/LogicaFuzzy-AnalisaFinanceiraCredito | 0 | 0| 
 | 20221014T12:10:56Z | Null | https://github.com/chompou/fuzzing-ci | 0 | 0| 
 | 20221014T11:31:35Z | Null | https://github.com/Cien267/FuzzyLogic | 0 | 0| 
 | 20221014T11:27:47Z | Fuzzing zkEVM using the Fluffy fuzzer | https://github.com/Veridise/fluffy-zkevm-fuzzer | 0 | 0| 
