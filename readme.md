@@ -20,7 +20,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221013T23:55:54Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
 | 20221013T19:48:21Z | CVE-2022-34918 | 1-day case study | https://github.com/Sechack06/CVE-2022-34918 | | 
 | 20221013T13:23:23Z | CVE-2022-2992 | Null | https://github.com/RealAlphaMan/CVE-2022-2992 | | 
 | 20221013T12:30:51Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/multispl0it/CVE-2022-20841 | | 
