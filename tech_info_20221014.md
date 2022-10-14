@@ -65,6 +65,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T09:02:18Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 8 | 1| 
+| 20221014T05:43:37Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3153 | 444| 
 
 
 # big4 on Github 推荐
