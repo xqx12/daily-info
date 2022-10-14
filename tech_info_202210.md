@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T00:16:35Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4952 | 684| 
 | 20221013T23:39:15Z | Roblox exploits scripts | https://github.com/InfernoRoblox/RobloxScripts | 0 | 0| 
 | 20221013T23:36:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | 1 | 0| 
 | 20221013T23:35:24Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-o | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20221013T21:21:07Z | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | 1 | 0| 
 | 20221013T21:11:46Z | GHDB wordlist - https://www.exploit-db.com/google-hacking-database | https://github.com/CATx003/GHDB | 0 | 0| 
 | 20221013T20:52:32Z | A folder to serve tools from during PT/Red Team engagements. Contains common executables and scripts for privesc, recon, pivoting and CVE exploitation. | https://github.com/tonyarris/srv | 0 | 0| 
-| 20221013T20:22:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4951 | 684| 
 | 20221013T12:30:51Z | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/multispl0it/CVE-2022-20841 | 0 | 0| 
 
 
