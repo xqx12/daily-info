@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221014T01:30:45Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
+| 20221014T01:33:17Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T01:12:09Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
 | 20221014T01:09:23Z | CVE-2022-40684 | Null | https://github.com/secunnix/CVE-2022-40684 | | 
 | 20221014T00:59:17Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
