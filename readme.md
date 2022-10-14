@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T12:14:54Z | Null | https://github.com/Stachiss/LogicaFuzzy-AnalisaFinanceiraCredito | 0 | 0| 
 | 20221014T12:10:56Z | Null | https://github.com/chompou/fuzzing-ci | 0 | 0| 
 | 20221014T11:31:35Z | Null | https://github.com/Cien267/FuzzyLogic | 0 | 0| 
 | 20221014T11:27:47Z | Fuzzing zkEVM using the Fluffy fuzzer | https://github.com/Veridise/fluffy-zkevm-fuzzer | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20221014T10:35:19Z | Null | https://github.com/dengorlach/fuzzy-computing-machine | 0 | 0| 
 | 20221014T09:44:24Z | Null | https://github.com/biasedLiar/c-fuzzing-with-ci | 0 | 0| 
 | 20221014T06:55:57Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 790 | 163| 
-| 20221014T01:55:56Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1592 | 27| 
 
 
 
