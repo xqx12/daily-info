@@ -32,9 +32,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221014T01:23:21Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T01:12:09Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
 | 20221014T01:09:23Z | CVE-2022-40684 | Null | https://github.com/secunnix/CVE-2022-40684 | | 
-| 20221014T01:03:32Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T00:59:17Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
 | 20221014T00:59:07Z | CVE-2022-23277 | CVE-2022-23277 POC to write a webshell to aspnet_client | https://github.com/7BitsTeam/CVE-2022-23277 | | 
 | 20221014T00:59:03Z | cve-2022-37298 | CVE-2022-37298 Shinken Monitoring | https://github.com/dbyio/cve-2022-37298-shinken | | 
