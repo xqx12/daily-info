@@ -125,7 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221014T00:24:14Z | Null | https://github.com/silchairmen/Fuzzer | 0 | 0| 
+| 20221014T00:25:52Z | Null | https://github.com/silchairmen/Fuzzer | 0 | 0| 
 | 20221014T00:12:46Z | Null | https://github.com/RafaFischerReichert/FuzzyLogic | 0 | 0| 
 | 20221014T00:09:44Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1589 | 27| 
 | 20221013T21:02:12Z | Fable bindings for fuzzysort | https://github.com/antidote-org/Antidote.FuzzySort | 0 | 0| 
