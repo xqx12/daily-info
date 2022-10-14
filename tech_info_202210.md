@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T00:12:46Z | Null | https://github.com/RafaFischerReichert/FuzzyLogic | 0 | 0| 
 | 20221013T21:02:12Z | Fable bindings for fuzzysort | https://github.com/antidote-org/Antidote.FuzzySort | 0 | 0| 
 | 20221013T20:55:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7933 | 1721| 
 | 20221013T20:41:00Z | uxfuzz is a black-box fuzzer used as a base for more os specific (unix based) fuzzers. it is scalable because of qemu being used to emualte in a way to be able to freely choose the number of instances and their memory. | https://github.com/b17fr13nds/uxfuzz | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20221013T12:12:55Z | Adaptive fuzzing of Hypothesis tests | https://github.com/Zac-HD/hypofuzz | 3 | 1| 
 | 20221013T11:23:28Z | Burp之Intruder的物尽其用插件 | https://github.com/fengzhouc/FuzzPayloadGennerator | 33 | 1| 
 | 20221013T11:22:55Z | Null | https://github.com/Adi-Sauter/fuzzy_model | 0 | 0| 
-| 20221013T10:31:42Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 277 | 45| 
 
 
 
