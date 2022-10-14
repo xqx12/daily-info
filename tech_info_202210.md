@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T12:45:34Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3506 | 248| 
 | 20221014T12:22:11Z | Null | https://github.com/imreplay/exploits-testing | 0 | 0| 
-| 20221014T12:21:32Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3504 | 248| 
 | 20221014T11:40:15Z | BRATA RAT - Advanced Android Remote Tool since 2018 - 2022 | https://github.com/brataratoffcial/BRATA-RAT-OFFICIALPAGE | 1 | 0| 
+| 20221014T10:57:27Z | Version for Shrec-V | https://github.com/MakxXun/ExploitableExploitsTeams-Shrec-V | 0 | 0| 
 | 20221014T10:55:00Z | Null | https://github.com/illupak/Windows-Exploitation | 0 | 0| 
 | 20221014T10:01:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4483 | 674| 
 | 20221014T10:01:16Z | Null | https://github.com/0xKMG/Smart-Contract-Exploits | 0 | 0| 
 | 20221014T09:57:01Z | Adaptive Differential Evolution based on Exploration and Exploitation Control | https://github.com/sustech-opal/aeec-de | 0 | 0| 
 | 20221014T09:25:39Z | tikbotting.com exploitation | https://github.com/pneb/TikBottingJS | 0 | 0| 
 | 20221014T09:01:57Z | automated script for exploiting CVE-2007-2447 | https://github.com/Aviksaikat/CVE-2007-2447 | 0 | 0| 
-| 20221014T07:22:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3682 | 449| 
 
 
 # backdoor on Github 推荐
@@ -125,6 +125,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T12:51:14Z | Null | https://github.com/preethi-selvaraj/fuzzy-invention | 0 | 0| 
+| 20221014T12:51:12Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42303 | 21185| 
 | 20221014T12:15:33Z | Null | https://github.com/Stachiss/LogicaFuzzy-AnalisaFinanceiraCredito | 0 | 0| 
 | 20221014T12:15:14Z | Null | https://github.com/BiswajeetRay7/Fuzzing-wordlist | 0 | 2| 
 | 20221014T12:10:56Z | Null | https://github.com/chompou/fuzzing-ci | 0 | 0| 
@@ -133,8 +135,6 @@
 | 20221014T11:22:34Z | Null | https://github.com/CUCUxii/FuzzDaPass | 0 | 0| 
 | 20221014T10:53:35Z | Null | https://github.com/grkumar123/Fuzzy-Neural-Networks | 0 | 0| 
 | 20221014T10:52:45Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
-| 20221014T10:35:19Z | Null | https://github.com/dengorlach/fuzzy-computing-machine | 0 | 0| 
-| 20221014T09:44:24Z | Null | https://github.com/biasedLiar/c-fuzzing-with-ci | 0 | 0| 
 
 
 
