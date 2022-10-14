@@ -125,7 +125,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T00:24:14Z | Null | https://github.com/silchairmen/Fuzzer | 0 | 0| 
 | 20221014T00:12:46Z | Null | https://github.com/RafaFischerReichert/FuzzyLogic | 0 | 0| 
+| 20221014T00:09:44Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1589 | 27| 
 | 20221013T21:02:12Z | Fable bindings for fuzzysort | https://github.com/antidote-org/Antidote.FuzzySort | 0 | 0| 
 | 20221013T20:55:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7933 | 1721| 
 | 20221013T20:41:00Z | uxfuzz is a black-box fuzzer used as a base for more os specific (unix based) fuzzers. it is scalable because of qemu being used to emualte in a way to be able to freely choose the number of instances and their memory. | https://github.com/b17fr13nds/uxfuzz | 0 | 0| 
@@ -133,8 +135,6 @@
 | 20221013T16:04:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4384 | 1062| 
 | 20221013T12:40:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42269 | 21161| 
 | 20221013T12:12:55Z | Adaptive fuzzing of Hypothesis tests | https://github.com/Zac-HD/hypofuzz | 3 | 1| 
-| 20221013T11:23:28Z | Burp之Intruder的物尽其用插件 | https://github.com/fengzhouc/FuzzPayloadGennerator | 33 | 1| 
-| 20221013T11:22:55Z | Null | https://github.com/Adi-Sauter/fuzzy_model | 0 | 0| 
 
 
 
