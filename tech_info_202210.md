@@ -86,23 +86,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221013T23:24:30Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
+| 20221013T22:56:46Z | Los backdoor son una de las herramientas más utilizadas Conexión Remota Servidor Cliente  | https://github.com/rdennifer/BackdoorsPY | 0 | 0| 
+| 20221013T21:55:02Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 158 | 37| 
+| 20221013T21:20:28Z | [FINAL] NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 4 | 1| 
+| 20221013T20:35:32Z | great client {SHORT-TERM DEVELOPMENT} | https://github.com/WardenDevelopment/Backdoor-client | 0 | 0| 
+| 20221013T14:20:45Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 31 | 2| 
 | 20221013T09:49:41Z | Secure login procedure with backdoor | https://github.com/KamilKrauze/InfoSecurity-Asssignment | 0 | 0| 
 | 20221012T20:04:09Z | Official Implementation of NIPS 2022 paper Pre-activation Distributions Expose Backdoor Neurons | https://github.com/RJ-T/NIPS2022_EP_BNP | 0 | 0| 
 | 20221012T17:41:27Z | telegram backdoor bot | https://github.com/Vermilonik/TelegramBackdoor | 1 | 0| 
 | 20221012T16:04:11Z | Code for One-shot Neural Backdoor Erasing via Adversarial Weight Masking (NeurIPS 2022) | https://github.com/jinghuichen/AWM | 0 | 0| 
-| 20221012T12:47:52Z | Null | https://github.com/N0N4M3D-b/bluetooth-backdoor | 0 | 0| 
-| 20221012T03:15:45Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 154 | 37| 
-| 20221011T22:26:24Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
-| 20221011T18:59:42Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 50 | 8| 
-| 20221011T09:36:59Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/aleff-github/Backdoor-Client-Server-Socket-Python | 9 | 1| 
-| 20221011T08:49:32Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 30 | 2| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221013T22:59:53Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3151 | 444| 
 | 20221013T12:25:38Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 6 | 1| 
-| 20221013T09:12:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3149 | 443| 
 | 20221013T08:47:14Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 1 | 2| 
 | 20221013T08:32:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
 | 20221012T18:21:08Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 24 | 5| 
