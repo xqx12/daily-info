@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221014T11:53:16Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3501 | 248| 
+| 20221014T12:13:24Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3503 | 248| 
 | 20221014T11:40:15Z | BRATA RAT - Advanced Android Remote Tool since 2018 - 2022 | https://github.com/brataratoffcial/BRATA-RAT-OFFICIALPAGE | 1 | 0| 
 | 20221014T10:55:00Z | Null | https://github.com/illupak/Windows-Exploitation | 0 | 0| 
 | 20221014T10:01:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4483 | 674| 
