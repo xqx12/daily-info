@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20221014 | 威胁情报：重要的与不重要的 | https://mp.weixin.qq.com/s/CSxUkgBb_8Did6bEpzBiaQ| 
+| 20221014 | IM钓鱼防御方案 | https://mp.weixin.qq.com/s/0Gs_7Ut4zGGUWQwQAy90jQ| 
 
 
 # CVE Github 推荐
