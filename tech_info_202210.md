@@ -125,9 +125,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T00:47:19Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1590 | 27| 
 | 20221014T00:25:52Z | Null | https://github.com/silchairmen/Fuzzer | 0 | 0| 
 | 20221014T00:12:46Z | Null | https://github.com/RafaFischerReichert/FuzzyLogic | 0 | 0| 
-| 20221014T00:09:44Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1589 | 27| 
 | 20221013T21:02:12Z | Fable bindings for fuzzysort | https://github.com/antidote-org/Antidote.FuzzySort | 0 | 0| 
 | 20221013T20:55:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7933 | 1721| 
 | 20221013T20:41:00Z | uxfuzz is a black-box fuzzer used as a base for more os specific (unix based) fuzzers. it is scalable because of qemu being used to emualte in a way to be able to freely choose the number of instances and their memory. | https://github.com/b17fr13nds/uxfuzz | 0 | 0| 
