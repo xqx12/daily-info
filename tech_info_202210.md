@@ -17,6 +17,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221014 | 威胁情报：重要的与不重要的 | https://mp.weixin.qq.com/s/CSxUkgBb_8Did6bEpzBiaQ| 
 | 20221013 | 对5.6w条xray结果的简单分析 | https://mp.weixin.qq.com/s/vhNGTBq8owncjlWyPJ0XGA| 
 | 20221013 | Google云基础架构安全设计学习 | https://uxss.net/2022/10/12/Google%E4%BA%91%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E5%AE%89%E5%85%A8%E8%AE%BE%E8%AE%A1%E5%AD%A6%E4%B9%A0/| 
 | 20221013 | 域内用户Hash获取方式总结 | https://mp.weixin.qq.com/s/k-VUKcivMw3bncK5RW2Mvg| 
@@ -26,7 +27,6 @@
 | 20221011 | Code Analysis With Joern | https://lightless.me/archives/code-analysis-with-joern.html| 
 | 20221011 | SecWiki周刊（第449期) | https://www.sec-wiki.com/weekly/449| 
 | 20221011 | 使用 JARM 轻松识别 Internet 上的恶意服务器 | https://mp.weixin.qq.com/s/phtGCVnaiff-vKgJVTR0PQ| 
-| 20221011 | 电力网络安全分区(4+1+1区) | https://mp.weixin.qq.com/s/wcs0mWzBXh96Ds-qJ9H6xQ| 
 
 
 # CVE Github 推荐
