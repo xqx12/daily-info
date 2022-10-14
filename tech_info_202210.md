@@ -32,37 +32,37 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221014T01:53:58Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
-| 20221014T01:36:26Z | CVE-2021-45067 | Adobe Reader DC Information Leak Exploit  | https://github.com/hacksysteam/CVE-2021-45067 | | 
-| 20221014T01:12:09Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
-| 20221014T01:09:23Z | CVE-2022-40684 | Null | https://github.com/secunnix/CVE-2022-40684 | | 
+| 20221014T11:59:34Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
+| 20221014T11:45:35Z | CVE-2022-40684 | Null | https://github.com/iveresk/CVE-2022-40684 | | 
+| 20221014T11:31:33Z | CVE-2022-40684 | Null | https://github.com/secunnix/CVE-2022-40684 | | 
+| 20221014T11:00:40Z | CVE-2022-40684 | Null | https://github.com/mhd108/CVE-2022-40684 | | 
+| 20221014T10:11:29Z | CVE-2022-40684 | CVE-2022-40684 Remote Fortinet Code Exeuction vulnerability | https://github.com/Carl0sV1e1ra/CVE-2022-40684 | | 
+| 20221014T09:08:28Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
+| 20221014T09:08:19Z | CVE-2021-45067 | Adobe Reader DC Information Leak Exploit  | https://github.com/hacksysteam/CVE-2021-45067 | | 
+| 20221014T08:53:26Z | CVE-2022-40648 | Multi-threaded Mass adding ssh keys for CVE-2022-40648 | https://github.com/b3wT/CVE-2022-40648-MASS | | 
+| 20221014T07:26:51Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
 | 20221014T00:59:17Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
-| 20221014T00:59:07Z | CVE-2022-23277 | CVE-2022-23277 POC to write a webshell to aspnet_client | https://github.com/7BitsTeam/CVE-2022-23277 | | 
-| 20221014T00:59:03Z | cve-2022-37298 | CVE-2022-37298 Shinken Monitoring | https://github.com/dbyio/cve-2022-37298-shinken | | 
-| 20221014T00:58:57Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
-| 20221013T19:48:21Z | CVE-2022-34918 | 1-day case study | https://github.com/Sechack06/CVE-2022-34918 | | 
-| 20221013T13:23:23Z | CVE-2022-2992 | Null | https://github.com/RealAlphaMan/CVE-2022-2992 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T10:43:36Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 102 | 1| 
+| 20221014T10:41:29Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 163 | 50| 
 | 20221013T23:41:08Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 15 | 0| 
 | 20221013T22:55:48Z | Null | https://github.com/Iykelistic/kleeva | 0 | 0| 
 | 20221013T15:48:39Z | Klee%s Notes! 🍀 , t.me/GIDataBot | https://github.com/shardeex/GIDataBot | 2 | 0| 
 | 20221013T08:32:51Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 591| 
 | 20221013T00:36:51Z | Null | https://github.com/SweetMiyako/kleeml | 0 | 0| 
 | 20221012T10:03:52Z | Null | https://github.com/vichannnnn/klee-giveaway-web | 1 | 0| 
-| 20221012T07:02:09Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 97 | 1| 
 | 20221011T00:06:02Z | Null | https://github.com/fontworks-fonts/Klee | 751 | 21| 
 | 20221010T16:32:10Z | Null | https://github.com/tokenCracker/NewKleeRunAutofarmUNDETECTED | 0 | 0| 
-| 20221010T16:29:50Z | Null | https://github.com/AdobeEnjoyerCrack/KleerRunUNDETECTEDAutoFarm | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221013T11:54:47Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 71 | 11| 
+| 20221014T02:49:52Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 72 | 11| 
 | 20221012T06:45:27Z | A MakeCode project | https://github.com/Pascosit22E/s2e21-task-3 | 0 | 0| 
 | 20221012T06:39:28Z | A MakeCode project | https://github.com/PCMS-SPMNET3/s2e00task320221012 | 0 | 0| 
 | 20221011T10:06:30Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 22 | 4| 
@@ -71,27 +71,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221014T01:02:31Z | Jumia is the Amazon in Africa, a leading e-commerce platform. I did an analysis of the company%s health from 2020 to 2021, some visual representations of the KPI of the company and a letter to shareholders to assess the company%s growth and potentials to exploit.  | https://github.com/billay1/Jumia-KPI-analysis-and-Shareholders-Letter | 0 | 0| 
-| 20221014T00:16:35Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4952 | 684| 
-| 20221013T23:39:15Z | Roblox exploits scripts | https://github.com/InfernoRoblox/RobloxScripts | 0 | 0| 
-| 20221013T23:36:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | 1 | 0| 
-| 20221013T23:35:24Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-o | 1 | 0| 
-| 20221013T23:34:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-o | 1 | 0| 
-| 20221013T23:25:58Z | This repository hosts the official code related to %Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer%, Guglielmo Camporese, Elena Izzo, Lamberto Ballan. BMVC, 2022. | https://github.com/guglielmocamporese/relvit | 7 | 1| 
-| 20221013T21:21:07Z | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | 1 | 0| 
-| 20221013T21:11:46Z | GHDB wordlist - https://www.exploit-db.com/google-hacking-database | https://github.com/CATx003/GHDB | 0 | 0| 
-| 20221013T20:52:32Z | A folder to serve tools from during PT/Red Team engagements. Contains common executables and scripts for privesc, recon, pivoting and CVE exploitation. | https://github.com/tonyarris/srv | 0 | 0| 
+| 20221014T11:53:16Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3501 | 248| 
+| 20221014T11:40:15Z | BRATA RAT - Advanced Android Remote Tool since 2018 - 2022 | https://github.com/brataratoffcial/BRATA-RAT-OFFICIALPAGE | 1 | 0| 
+| 20221014T10:55:00Z | Null | https://github.com/illupak/Windows-Exploitation | 0 | 0| 
+| 20221014T10:01:56Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4483 | 674| 
+| 20221014T10:01:16Z | Null | https://github.com/0xKMG/Smart-Contract-Exploits | 0 | 0| 
+| 20221014T09:57:01Z | Adaptive Differential Evolution based on Exploration and Exploitation Control | https://github.com/sustech-opal/aeec-de | 0 | 0| 
+| 20221014T09:25:39Z | tikbotting.com exploitation | https://github.com/pneb/TikBottingJS | 0 | 0| 
+| 20221014T09:01:57Z | automated script for exploiting CVE-2007-2447 | https://github.com/Aviksaikat/CVE-2007-2447 | 0 | 0| 
+| 20221014T07:22:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3682 | 449| 
+| 20221014T07:08:49Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 532 | 143| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T05:43:13Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 32 | 2| 
 | 20221013T23:24:30Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
 | 20221013T22:56:46Z | Los backdoor son una de las herramientas más utilizadas Conexión Remota Servidor Cliente  | https://github.com/rdennifer/BackdoorsPY | 0 | 0| 
 | 20221013T21:55:02Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 158 | 37| 
 | 20221013T21:20:28Z | [FINAL] NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 4 | 1| 
 | 20221013T20:35:32Z | great client {SHORT-TERM DEVELOPMENT} | https://github.com/WardenDevelopment/Backdoor-client | 0 | 0| 
-| 20221013T14:20:45Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 31 | 2| 
 | 20221013T09:49:41Z | Secure login procedure with backdoor | https://github.com/KamilKrauze/InfoSecurity-Asssignment | 0 | 0| 
 | 20221012T20:04:09Z | Official Implementation of NIPS 2022 paper Pre-activation Distributions Expose Backdoor Neurons | https://github.com/RJ-T/NIPS2022_EP_BNP | 0 | 0| 
 | 20221012T17:41:27Z | telegram backdoor bot | https://github.com/Vermilonik/TelegramBackdoor | 1 | 0| 
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T11:55:13Z | Null | https://github.com/chompou/fuzzing-ci | 0 | 0| 
+| 20221014T11:31:35Z | Null | https://github.com/Cien267/FuzzyLogic | 0 | 0| 
+| 20221014T11:27:47Z | Fuzzing zkEVM using the Fluffy fuzzer | https://github.com/Veridise/fluffy-zkevm-fuzzer | 0 | 0| 
+| 20221014T11:22:34Z | Null | https://github.com/CUCUxii/FuzzDaPass | 0 | 0| 
+| 20221014T10:53:35Z | Null | https://github.com/grkumar123/Fuzzy-Neural-Networks | 0 | 0| 
+| 20221014T10:52:45Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
+| 20221014T10:35:19Z | Null | https://github.com/dengorlach/fuzzy-computing-machine | 0 | 0| 
+| 20221014T09:44:24Z | Null | https://github.com/biasedLiar/c-fuzzing-with-ci | 0 | 0| 
+| 20221014T06:55:57Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 790 | 163| 
 | 20221014T01:55:56Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1592 | 27| 
-| 20221014T01:51:49Z | This is a game about fuzzy spork who would have thought | https://github.com/Faolan-Rad/fuzzy-spork | 0 | 0| 
-| 20221014T00:25:52Z | Null | https://github.com/silchairmen/Fuzzer | 0 | 0| 
-| 20221014T00:12:46Z | Null | https://github.com/RafaFischerReichert/FuzzyLogic | 0 | 0| 
-| 20221013T21:02:12Z | Fable bindings for fuzzysort | https://github.com/antidote-org/Antidote.FuzzySort | 0 | 0| 
-| 20221013T20:55:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7933 | 1721| 
-| 20221013T20:41:00Z | uxfuzz is a black-box fuzzer used as a base for more os specific (unix based) fuzzers. it is scalable because of qemu being used to emualte in a way to be able to freely choose the number of instances and their memory. | https://github.com/b17fr13nds/uxfuzz | 0 | 0| 
-| 20221013T19:37:48Z | Null | https://github.com/sevinaanjani/fuzzy | 0 | 0| 
-| 20221013T16:04:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4384 | 1062| 
-| 20221013T12:40:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42269 | 21161| 
 
 
 
