@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221014T12:03:48Z | 未知编号 | Null | https://github.com/hackingyseguridad/cve-40684-2022 | | 
 | 20221014T11:59:34Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T11:45:35Z | CVE-2022-40684 | Null | https://github.com/iveresk/CVE-2022-40684 | | 
 | 20221014T11:31:33Z | CVE-2022-40684 | Null | https://github.com/secunnix/CVE-2022-40684 | | 
@@ -41,7 +42,6 @@
 | 20221014T09:08:19Z | CVE-2021-45067 | Adobe Reader DC Information Leak Exploit  | https://github.com/hacksysteam/CVE-2021-45067 | | 
 | 20221014T08:53:26Z | CVE-2022-40648 | Multi-threaded Mass adding ssh keys for CVE-2022-40648 | https://github.com/b3wT/CVE-2022-40648-MASS | | 
 | 20221014T07:26:51Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
-| 20221014T00:59:17Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
 
 
 # klee on Github 推荐
