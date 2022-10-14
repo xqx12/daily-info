@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221014T12:03:48Z | 未知编号 | Null | https://github.com/hackingyseguridad/cve-40684-2022 | | 
+| 20221014T12:07:14Z | 未知编号 | Null | https://github.com/hackingyseguridad/cve-40684-2022 | | 
 | 20221014T11:59:34Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T11:45:35Z | CVE-2022-40684 | Null | https://github.com/iveresk/CVE-2022-40684 | | 
 | 20221014T11:31:33Z | CVE-2022-40684 | Null | https://github.com/secunnix/CVE-2022-40684 | | 
