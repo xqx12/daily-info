@@ -21,10 +21,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20221013T23:55:54Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
-| 20221013T21:21:07Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
-| 20221013T21:07:49Z | cve-2022-37298 | CVE-2022-37298 Shinken Monitoring | https://github.com/dbyio/cve-2022-37298-shinken | | 
 | 20221013T19:48:21Z | CVE-2022-34918 | 1-day case study | https://github.com/Sechack06/CVE-2022-34918 | | 
-| 20221013T13:59:54Z | CVE-2022-23277 | CVE-2022-23277 POC to write a webshell to aspnet_client | https://github.com/7BitsTeam/CVE-2022-23277 | | 
 | 20221013T13:23:23Z | CVE-2022-2992 | Null | https://github.com/RealAlphaMan/CVE-2022-2992 | | 
 | 20221013T12:30:51Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/multispl0it/CVE-2022-20841 | | 
 | 20221013T12:26:39Z | CVE-2022-25845 | Fastjson exploit | https://github.com/multispl0it/CVE-2022-25845 | | 
