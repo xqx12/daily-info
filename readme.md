@@ -21,7 +21,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20221013T23:55:54Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
-| 20221013T23:37:37Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221013T21:21:07Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
 | 20221013T21:07:49Z | cve-2022-37298 | CVE-2022-37298 Shinken Monitoring | https://github.com/dbyio/cve-2022-37298-shinken | | 
 | 20221013T20:43:42Z | CVE-2021-45067 | Adobe Reader DC Information Leak Exploit  | https://github.com/hacksysteam/CVE-2021-45067 | | 
@@ -30,6 +29,7 @@
 | 20221013T13:23:23Z | CVE-2022-2992 | Null | https://github.com/RealAlphaMan/CVE-2022-2992 | | 
 | 20221013T12:30:51Z | CVE-2022-20841 | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/multispl0it/CVE-2022-20841 | | 
 | 20221013T12:26:39Z | CVE-2022-25845 | Fastjson exploit | https://github.com/multispl0it/CVE-2022-25845 | | 
+| 20221013T07:58:15Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode | https://github.com/0nion1/CVE-2021-3129 | | 
 
 
 # klee on Github 推荐
