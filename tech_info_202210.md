@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T01:02:31Z | Jumia is the Amazon in Africa, a leading e-commerce platform. I did an analysis of the company%s health from 2020 to 2021, some visual representations of the KPI of the company and a letter to shareholders to assess the company%s growth and potentials to exploit.  | https://github.com/billay1/Jumia-KPI-analysis-and-Shareholders-Letter | 0 | 0| 
 | 20221014T00:16:35Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4952 | 684| 
 | 20221013T23:39:15Z | Roblox exploits scripts | https://github.com/InfernoRoblox/RobloxScripts | 0 | 0| 
 | 20221013T23:36:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20221013T21:21:07Z | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | 1 | 0| 
 | 20221013T21:11:46Z | GHDB wordlist - https://www.exploit-db.com/google-hacking-database | https://github.com/CATx003/GHDB | 0 | 0| 
 | 20221013T20:52:32Z | A folder to serve tools from during PT/Red Team engagements. Contains common executables and scripts for privesc, recon, pivoting and CVE exploitation. | https://github.com/tonyarris/srv | 0 | 0| 
-| 20221013T12:30:51Z | Cisco Small Business RCE [included mass exploiter and scanner] | https://github.com/multispl0it/CVE-2022-20841 | 0 | 0| 
 
 
 # backdoor on Github 推荐
