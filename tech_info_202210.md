@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221015T00:38:11Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
 | 20221015T00:29:38Z | CVE-2022-37434 | u think that it doesnt but it do | https://github.com/xen0bit/CVE-2022-37434_poc | | 
 | 20221015T00:12:21Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | | 
 | 20221014T23:39:15Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
@@ -41,7 +42,6 @@
 | 20221014T16:51:01Z | CVE-2022-41852 | CVE-2022-41852 Proof of Concept (unofficial) | https://github.com/Warxim/CVE-2022-41852 | | 
 | 20221014T15:09:48Z | CVE-2022-30190 | Proof of concept for CVE-2022-30190 (Follina). | https://github.com/winstxnhdw/CVE-2022-30190 | | 
 | 20221014T14:22:17Z | CVE-2022-40684 | Null | https://github.com/secunnix/CVE-2022-40684 | | 
-| 20221014T13:42:38Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
 
 
 # klee on Github 推荐
