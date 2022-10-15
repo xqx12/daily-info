@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T00:33:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-d | 1 | 0| 
 | 20221015T00:12:21Z | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | 1 | 0| 
 | 20221014T23:57:36Z | For All type of roblox can | https://github.com/etlaoco9087/etExploit-hub | 0 | 0| 
 | 20221014T23:56:37Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20221014T23:09:18Z | Null | https://github.com/Gcasas90/dde-exploitative-temperature | 0 | 0| 
 | 20221014T22:47:46Z | Ever had some weird devs look at your scripts with remote spies why not confuse them lmfao | https://github.com/karmawashere/Roblox-Anti-Remote-Spy-For-Exploits- | 0 | 0| 
 | 20221014T18:50:12Z | Null | https://github.com/FlixHype/exploit.js | 0 | 0| 
-| 20221014T12:45:34Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3506 | 248| 
 
 
 # backdoor on Github 推荐
