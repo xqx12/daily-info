@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T12:31:14Z | Null | https://github.com/westerblaker/fuzzy-bassoon | 0 | 0| 
 | 20221015T12:20:11Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 43 | 25| 
 | 20221015T10:53:06Z | Null | https://github.com/Amir-Samadi/extended-neo-fuzzy-neuron-ENFN- | 0 | 0| 
 | 20221015T10:02:38Z | relations | https://github.com/hotpaxx/fuzzy-eureka | 0 | 0| 
