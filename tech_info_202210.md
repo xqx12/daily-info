@@ -32,8 +32,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221015T00:46:07Z | CVE-2022-37434 | u think that it doesnt but it do | https://github.com/xen0bit/CVE-2022-37434_poc | | 
 | 20221015T00:38:11Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
-| 20221015T00:29:38Z | CVE-2022-37434 | u think that it doesnt but it do | https://github.com/xen0bit/CVE-2022-37434_poc | | 
 | 20221015T00:12:21Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | | 
 | 20221014T23:39:15Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
 | 20221014T23:16:05Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T00:46:01Z | Encontrare y compartire todos los codigo, exploits y tecnicas de ciber seguridad que aprendere y probare | https://github.com/gian110/Exploits | 0 | 0| 
 | 20221015T00:35:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-d | 1 | 0| 
 | 20221015T00:34:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-d | 1 | 0| 
 | 20221015T00:33:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-d | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20221014T23:46:55Z | Null | https://github.com/0x414141414/Silent-XLS-Exploit | 0 | 0| 
 | 20221014T23:46:06Z | Null | https://github.com/0x414141414/PDF-Exploit-2022-Silent-Exploit-Builder-2022 | 0 | 0| 
 | 20221014T23:43:30Z | Null | https://github.com/0x414141414/JPG-PNG-SILENT-EXPLOIT | 0 | 0| 
-| 20221014T23:09:18Z | Null | https://github.com/Gcasas90/dde-exploitative-temperature | 0 | 0| 
 
 
 # backdoor on Github 推荐
