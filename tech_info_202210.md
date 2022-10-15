@@ -72,7 +72,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221015T12:54:38Z | Null | https://github.com/illupak/Windows-Exploitation | 0 | 0| 
+| 20221015T12:56:45Z | This program is aiming to solve the problems that are encountered by real estate agencies(brokers) through their business ventures and different exploit. Using this program a business can save several hours of valuable time and use this time focusing on increasing their revenue. | https://github.com/kidusm001/Real-Estate-Managment-System-Project | 0 | 0| 
+| 20221015T12:55:55Z | Null | https://github.com/illupak/Windows-Exploitation | 0 | 0| 
 | 20221015T12:49:22Z | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | 0 | 0| 
 | 20221015T12:48:48Z | GitOps Repository | https://github.com/HACbs-ui-org/test-application-karthik-hold-exploit | 0 | 0| 
 | 20221015T12:46:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3682 | 449| 
@@ -81,7 +82,6 @@
 | 20221015T10:19:14Z | This is my very first exploit. I chose JPGChat because it is simple to exploit and I wanted to practice my python3 skills. | https://github.com/AdamVins/JPChat-exploit | 0 | 0| 
 | 20221015T09:47:51Z | An ios 14 - 16 based jailbreak using a new exploit found by the LinuxLim Team | https://github.com/iFreeDomain/v0rtex2 | 0 | 0| 
 | 20221015T09:12:37Z | lol post this link to get audio gif, exploit found by me and CAEC | https://github.com/BGP0/discord-audio-gif | 0 | 0| 
-| 20221015T09:04:31Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12160 | 2086| 
 
 
 # backdoor on Github 推荐
