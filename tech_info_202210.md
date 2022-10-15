@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T00:35:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-d | 1 | 0| 
+| 20221015T00:34:38Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-d | 1 | 0| 
 | 20221015T00:33:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-d | 1 | 0| 
 | 20221015T00:12:21Z | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | 1 | 0| 
 | 20221014T23:57:36Z | For All type of roblox can | https://github.com/etlaoco9087/etExploit-hub | 0 | 0| 
@@ -79,8 +81,6 @@
 | 20221014T23:46:06Z | Null | https://github.com/0x414141414/PDF-Exploit-2022-Silent-Exploit-Builder-2022 | 0 | 0| 
 | 20221014T23:43:30Z | Null | https://github.com/0x414141414/JPG-PNG-SILENT-EXPLOIT | 0 | 0| 
 | 20221014T23:09:18Z | Null | https://github.com/Gcasas90/dde-exploitative-temperature | 0 | 0| 
-| 20221014T22:47:46Z | Ever had some weird devs look at your scripts with remote spies why not confuse them lmfao | https://github.com/karmawashere/Roblox-Anti-Remote-Spy-For-Exploits- | 0 | 0| 
-| 20221014T18:50:12Z | Null | https://github.com/FlixHype/exploit.js | 0 | 0| 
 
 
 # backdoor on Github 推荐
