@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221015T12:46:31Z | CVE-2021-46422 | CVE-2021-46422漏洞 | https://github.com/Awei507/CVE-2021-46422 | | 
 | 20221015T12:43:46Z | CVE-2022-3236 | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | | 
 | 20221015T12:42:27Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221015T11:43:08Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | | 
@@ -26,7 +27,6 @@
 | 20221015T06:44:53Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
 | 20221015T02:53:39Z | CVE-2022-40684 | CVE-2022-40684 Remote Fortinet Code Exeuction vulnerability | https://github.com/Carl0sV1e1ra/CVE-2022-40684 | | 
 | 20221015T00:46:07Z | CVE-2022-37434 | u think that it doesnt but it do | https://github.com/xen0bit/CVE-2022-37434_poc | | 
-| 20221015T00:12:21Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | | 
 
 
 # klee on Github 推荐
@@ -46,9 +46,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T12:46:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3682 | 449| 
 | 20221015T12:43:46Z | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | 0 | 0| 
 | 20221015T11:36:17Z | exploit for CVE-2022-40684 Fortinet | https://github.com/ClickCyber/cve-2022-40684 | 0 | 0| 
-| 20221015T11:29:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3681 | 449| 
 | 20221015T11:13:31Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 329 | 43| 
 | 20221015T10:19:14Z | This is my very first exploit. I chose JPGChat because it is simple to exploit and I wanted to practice my python3 skills. | https://github.com/AdamVins/JPChat-exploit | 0 | 0| 
 | 20221015T09:47:51Z | An ios 14 - 16 based jailbreak using a new exploit found by the LinuxLim Team | https://github.com/iFreeDomain/v0rtex2 | 0 | 0| 
