@@ -32,7 +32,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221015T12:36:29Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
+| 20221015T12:43:46Z | CVE-2022-3236 | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | | 
+| 20221015T12:42:27Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221015T11:43:08Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | | 
 | 20221015T11:36:17Z | cve-2022-40684 | exploit for CVE-2022-40684 Fortinet | https://github.com/ClickCyber/cve-2022-40684 | | 
 | 20221015T10:09:02Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
@@ -41,7 +42,6 @@
 | 20221015T02:53:39Z | CVE-2022-40684 | CVE-2022-40684 Remote Fortinet Code Exeuction vulnerability | https://github.com/Carl0sV1e1ra/CVE-2022-40684 | | 
 | 20221015T00:46:07Z | CVE-2022-37434 | u think that it doesnt but it do | https://github.com/xen0bit/CVE-2022-37434_poc | | 
 | 20221015T00:12:21Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | | 
-| 20221014T17:05:30Z | CVE-2022-41040 | Null | https://github.com/ITPATJIDR/CVE-2022-41040 | | 
 
 
 # klee on Github 推荐
@@ -72,6 +72,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T12:43:46Z | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | 0 | 0| 
 | 20221015T11:36:17Z | exploit for CVE-2022-40684 Fortinet | https://github.com/ClickCyber/cve-2022-40684 | 0 | 0| 
 | 20221015T11:29:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3681 | 449| 
 | 20221015T11:13:31Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 329 | 43| 
@@ -81,7 +82,6 @@
 | 20221015T09:04:31Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12160 | 2086| 
 | 20221015T08:22:08Z | Exploit Wii U wup | https://github.com/cedkeChat/wup.ovh | 0 | 0| 
 | 20221015T08:15:01Z | I did a vulnerability Analysis & Exploitation for windows 10 vulnerability called SMBGhost & wrote a research paper about it. | https://github.com/Dilmika99/SNP_Project | 0 | 0| 
-| 20221015T04:03:24Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3497 | 731| 
 
 
 # backdoor on Github 推荐
