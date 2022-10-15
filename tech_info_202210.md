@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T12:20:11Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 43 | 25| 
 | 20221015T10:53:06Z | Null | https://github.com/Amir-Samadi/extended-neo-fuzzy-neuron-ENFN- | 0 | 0| 
 | 20221015T10:02:38Z | relations | https://github.com/hotpaxx/fuzzy-eureka | 0 | 0| 
 | 20221015T09:47:51Z | Null | https://github.com/VasyaZaycev/FuzzyGreenScore | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20221015T05:56:27Z | FuzzStore sells everthing | https://github.com/Mist1987/FuzzStore | 0 | 0| 
 | 20221015T02:34:50Z | Smart-case fuzzy filter for asyncomplete | https://github.com/FuDesign2008/asyncomplete-smart-fuzzy.vim | 0 | 0| 
 | 20221014T22:57:26Z | Lab Fuzzy Python | https://github.com/matheusrt12/Lab-Fuzzy-Python | 0 | 0| 
-| 20221014T21:57:38Z | A string comparison library to enable typo-tolerant text search in user-facing applications. | https://github.com/MasalaMunch/fuzzier-matcher | 0 | 0| 
 
 
 
