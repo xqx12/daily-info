@@ -32,8 +32,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221015T12:49:22Z | CVE-2022-3236 | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | | 
 | 20221015T12:46:31Z | CVE-2021-46422 | CVE-2021-46422漏洞 | https://github.com/Awei507/CVE-2021-46422 | | 
-| 20221015T12:43:46Z | CVE-2022-3236 | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | | 
 | 20221015T12:42:27Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221015T11:43:08Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | | 
 | 20221015T11:36:17Z | cve-2022-40684 | exploit for CVE-2022-40684 Fortinet | https://github.com/ClickCyber/cve-2022-40684 | | 
@@ -72,8 +72,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T12:49:22Z | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | 0 | 0| 
+| 20221015T12:48:48Z | GitOps Repository | https://github.com/HACbs-ui-org/test-application-karthik-hold-exploit | 0 | 0| 
 | 20221015T12:46:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3682 | 449| 
-| 20221015T12:43:46Z | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | 0 | 0| 
 | 20221015T11:36:17Z | exploit for CVE-2022-40684 Fortinet | https://github.com/ClickCyber/cve-2022-40684 | 0 | 0| 
 | 20221015T11:13:31Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 329 | 43| 
 | 20221015T10:19:14Z | This is my very first exploit. I chose JPGChat because it is simple to exploit and I wanted to practice my python3 skills. | https://github.com/AdamVins/JPChat-exploit | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20221015T09:12:37Z | lol post this link to get audio gif, exploit found by me and CAEC | https://github.com/BGP0/discord-audio-gif | 0 | 0| 
 | 20221015T09:04:31Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12160 | 2086| 
 | 20221015T08:22:08Z | Exploit Wii U wup | https://github.com/cedkeChat/wup.ovh | 0 | 0| 
-| 20221015T08:15:01Z | I did a vulnerability Analysis & Exploitation for windows 10 vulnerability called SMBGhost & wrote a research paper about it. | https://github.com/Dilmika99/SNP_Project | 0 | 0| 
 
 
 # backdoor on Github 推荐
