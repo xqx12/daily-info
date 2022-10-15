@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221015T00:11:24Z | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | 1 | 0| 
+| 20221015T00:12:21Z | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | 1 | 0| 
 | 20221014T23:57:36Z | For All type of roblox can | https://github.com/etlaoco9087/etExploit-hub | 0 | 0| 
 | 20221014T23:56:37Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20221014T23:46:55Z | Null | https://github.com/0x414141414/Silent-XLS-Exploit | 0 | 0| 
