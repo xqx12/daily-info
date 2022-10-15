@@ -19,7 +19,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221014T23:39:15Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
 | 20221014T23:16:05Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T18:24:07Z | CVE-2022-40684 | CVE-2022-40684 Remote Fortinet Code Exeuction vulnerability | https://github.com/Carl0sV1e1ra/CVE-2022-40684 | | 
 | 20221014T17:05:30Z | CVE-2022-41040 | Null | https://github.com/ITPATJIDR/CVE-2022-41040 | | 
@@ -29,6 +28,7 @@
 | 20221014T13:42:38Z | CVE-2022-40684 | Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/kljunowsky/CVE-2022-40684-POC | | 
 | 20221014T12:07:43Z | 未知编号 | CVE-40684-2022 | https://github.com/hackingyseguridad/cve-40684-2022 | | 
 | 20221014T11:45:35Z | CVE-2022-40684 | Null | https://github.com/iveresk/CVE-2022-40684 | | 
+| 20221014T11:00:40Z | CVE-2022-40684 | Null | https://github.com/mhd108/CVE-2022-40684 | | 
 
 
 # klee on Github 推荐
