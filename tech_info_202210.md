@@ -125,6 +125,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221014T22:57:26Z | Lab Fuzzy Python | https://github.com/matheusrt12/Lab-Fuzzy-Python | 0 | 0| 
+| 20221014T21:57:38Z | A string comparison library to enable typo-tolerant text search in user-facing applications. | https://github.com/MasalaMunch/fuzzier-matcher | 0 | 0| 
 | 20221014T12:51:14Z | Null | https://github.com/preethi-selvaraj/fuzzy-invention | 0 | 0| 
 | 20221014T12:51:12Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42303 | 21185| 
 | 20221014T12:15:33Z | Null | https://github.com/Stachiss/LogicaFuzzy-AnalisaFinanceiraCredito | 0 | 0| 
@@ -133,8 +135,6 @@
 | 20221014T11:31:35Z | Null | https://github.com/Cien267/FuzzyLogic | 0 | 0| 
 | 20221014T11:27:47Z | Fuzzing zkEVM using the Fluffy fuzzer | https://github.com/Veridise/fluffy-zkevm-fuzzer | 0 | 0| 
 | 20221014T11:22:34Z | Null | https://github.com/CUCUxii/FuzzDaPass | 0 | 0| 
-| 20221014T10:53:35Z | Null | https://github.com/grkumar123/Fuzzy-Neural-Networks | 0 | 0| 
-| 20221014T10:52:45Z | This repository is designed to provide an overview of fuzzing techniques and how to apply them to DevSecOps environments. | https://github.com/dthomas601/fuzzing_tutorial | 0 | 0| 
 
 
 
