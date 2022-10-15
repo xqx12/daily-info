@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221015T00:11:24Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | | 
+| 20221015T00:12:21Z | CVE-2022-2992 | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | | 
 | 20221014T23:39:15Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
 | 20221014T23:16:05Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
 | 20221014T18:24:07Z | CVE-2022-40684 | CVE-2022-40684 Remote Fortinet Code Exeuction vulnerability | https://github.com/Carl0sV1e1ra/CVE-2022-40684 | | 
@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T00:11:24Z | Authenticated Remote Command Execution in Gitlab via GitHub import. | https://github.com/Malwareman007/CVE-2022-2992 | 1 | 0| 
 | 20221014T23:57:36Z | For All type of roblox can | https://github.com/etlaoco9087/etExploit-hub | 0 | 0| 
 | 20221014T23:56:37Z | Null | https://github.com/Spard2/ps4exploit | 0 | 0| 
 | 20221014T23:46:55Z | Null | https://github.com/0x414141414/Silent-XLS-Exploit | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20221014T22:47:46Z | Ever had some weird devs look at your scripts with remote spies why not confuse them lmfao | https://github.com/karmawashere/Roblox-Anti-Remote-Spy-For-Exploits- | 0 | 0| 
 | 20221014T18:50:12Z | Null | https://github.com/FlixHype/exploit.js | 0 | 0| 
 | 20221014T12:45:34Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3506 | 248| 
-| 20221014T12:22:11Z | Null | https://github.com/imreplay/exploits-testing | 0 | 0| 
 
 
 # backdoor on Github 推荐
