@@ -35,7 +35,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221014T20:11:16Z | Service App | https://github.com/earnesthooks/GetKleend | 1 | 0| 
-| 20221014T13:35:28Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 103 | 1| 
 | 20221014T10:41:29Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 163 | 50| 
 
 
