@@ -17,6 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:22:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20221016T12:20:57Z | cve-2022-26134 | 漏洞测试 | https://github.com/polerstar/cve-2022-26134-poc | | 
+| 20221016T12:20:50Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221016T12:12:45Z | Cve-2022- | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20221016T12:08:42Z | CVE-2022-26134 | CVE-2022-26134poc | https://github.com/yyqxi/CVE-2022-26134 | | 
 | 20221016T12:03:51Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/latings/CVE-2022-26134 | | 
@@ -24,9 +27,6 @@
 | 20221016T11:07:39Z | CVE-2021-46422 | 韩国的无线路由器 os cmd 注入 | https://github.com/kelemaoya/CVE-2021-46422 | | 
 | 20221016T10:59:15Z | CVE-2022-26134 | Confluence Server and Data Center存在一个远程代码执行漏洞，未经身份验证的攻击者可以利用该漏洞向目标服务器注入恶意ONGL表达式，进而在目标服务器上执行任意代码。 | https://github.com/kelemaoya/CVE-2022-26134 | | 
 | 20221016T10:55:56Z | cve-2022-26134 | cve-2022-26134 | https://github.com/CJ-0107/cve-2022-26134 | | 
-| 20221016T10:53:24Z | cve-2021-46422 | cve-2021-46422 | https://github.com/CJ-0107/cve-2021-46422 | | 
-| 20221016T10:23:52Z | 未知编号 | Null | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20221016T10:22:52Z | 未知编号 | Null | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 
 
 # klee on Github 推荐
@@ -45,6 +45,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:22:42Z | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
+| 20221016T12:21:44Z | Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there%s no macro support) -Startup -base64 encode | https://github.com/RcsMonster/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
+| 20221016T12:20:50Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 | 20221016T12:19:47Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. | https://github.com/RcsMonster/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20221016T12:18:44Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/RcsMonster/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20221016T12:12:45Z | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
@@ -52,9 +55,6 @@
 | 20221016T11:47:31Z | A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications | https://github.com/readloud/XAttacker | 0 | 0| 
 | 20221016T11:35:49Z | Fortnite internal Orange Ware Source Code Esp Aimbot With Exploits | https://github.com/OumTX/Fortnite-OrangeWare-Source-Full | 1 | 0| 
 | 20221016T11:11:06Z | Aimbot:  Weapon Selection Memory Aim On Key (On/Off) Silent Aim (P Silent) Aim Bones (Head) (Neck) (Body) (Closest) No Recoil Knocked Players Backtrack Visibles Check Smooth (1-10) FOV (1-100) Visuals:  On Key (On/Off) Player Names Player Distance Itmes Health Bar (Constant) (Normal) Health Text Bounding Box (3D) (2D) | https://github.com/Matteo204/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
-| 20221016T11:09:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3684 | 450| 
-| 20221016T10:23:52Z | Null | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
-| 20221016T10:23:13Z | Null | https://github.com/RcsMonster/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
 
 
 # backdoor on Github 推荐
