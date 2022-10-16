@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:08:42Z | CVE-2022-26134 | CVE-2022-26134poc | https://github.com/yyqxi/CVE-2022-26134 | | 
 | 20221016T12:03:51Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/latings/CVE-2022-26134 | | 
-| 20221016T11:48:42Z | CVE-2022-26134 | CVE-2022-26134poc | https://github.com/yyqxi/CVE-2022-26134 | | 
 | 20221016T11:47:14Z | CVE-2021-46422 | CVE-2021-46422poc | https://github.com/yyqxi/CVE-2021-46422 | | 
 | 20221016T11:07:39Z | CVE-2021-46422 | 韩国的无线路由器 os cmd 注入 | https://github.com/kelemaoya/CVE-2021-46422 | | 
 | 20221016T10:59:15Z | CVE-2022-26134 | Confluence Server and Data Center存在一个远程代码执行漏洞，未经身份验证的攻击者可以利用该漏洞向目标服务器注入恶意ONGL表达式，进而在目标服务器上执行任意代码。 | https://github.com/kelemaoya/CVE-2022-26134 | | 
