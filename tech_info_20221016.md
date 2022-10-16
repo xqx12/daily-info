@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:01:21Z | Null | https://github.com/hakDean/ExploitDB | 0 | 0| 
 | 20221016T11:47:31Z | A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications | https://github.com/readloud/XAttacker | 0 | 0| 
 | 20221016T11:35:49Z | Fortnite internal Orange Ware Source Code Esp Aimbot With Exploits | https://github.com/OumTX/Fortnite-OrangeWare-Source-Full | 1 | 0| 
 | 20221016T11:11:06Z | Aimbot:  Weapon Selection Memory Aim On Key (On/Off) Silent Aim (P Silent) Aim Bones (Head) (Neck) (Body) (Closest) No Recoil Knocked Players Backtrack Visibles Check Smooth (1-10) FOV (1-100) Visuals:  On Key (On/Off) Player Names Player Distance Itmes Health Bar (Constant) (Normal) Health Text Bounding Box (3D) (2D) | https://github.com/Matteo204/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20221016T10:24:55Z | Null | https://github.com/RcsMonster/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20221016T10:23:52Z | Null | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 | 20221016T10:23:13Z | Null | https://github.com/RcsMonster/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
-| 20221016T10:22:52Z | Null | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -68,6 +68,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T02:14:34Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 75 | 2| 
 
 
 # big4 on Github 推荐
