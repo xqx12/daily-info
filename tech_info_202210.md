@@ -32,9 +32,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221016T00:56:35Z | CVE-2022-41852 | CVE-2022-41852 Proof of Concept (unofficial) | https://github.com/Warxim/CVE-2022-41852 | | 
 | 20221016T00:25:45Z | CVE-2022-40684 | Null | https://github.com/NeriaBasha/CVE-2022-40684 | | 
 | 20221015T18:25:23Z | CVE-2021-46422 | CVE-2021-46422漏洞 | https://github.com/Awei507/CVE-2021-46422 | | 
-| 20221015T18:15:11Z | CVE-2022-41852 | CVE-2022-41852 Proof of Concept (unofficial) | https://github.com/Warxim/CVE-2022-41852 | | 
 | 20221015T17:40:47Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
 | 20221015T17:06:07Z | CVE-2022-40684 | Exploit for CVE-2022-40684 vulnerability | https://github.com/mohamedbenchikh/CVE-2022-40684 | | 
 | 20221015T17:06:00Z | CVE-2022-41358 | Null | https://github.com/thecasual/CVE-2022-41358 | | 
