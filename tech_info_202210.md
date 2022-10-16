@@ -72,7 +72,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221016T00:53:19Z | 🔨 C++ External Valorant Aimbot + Esp , Latest version | https://github.com/Fnoberz/Valorant.External | 29 | 15| 
+| 20221016T01:02:13Z | 🔨 C++ External Valorant Aimbot + Esp , Latest version | https://github.com/Fnoberz/Valorant.External | 29 | 15| 
 | 20221016T00:00:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-h | 1 | 0| 
 | 20221015T23:59:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-h | 1 | 0| 
 | 20221015T23:59:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | 1 | 0| 
