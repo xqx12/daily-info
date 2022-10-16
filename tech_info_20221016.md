@@ -45,13 +45,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:18:44Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/RcsMonster/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20221016T12:12:45Z | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
 | 20221016T12:01:21Z | Null | https://github.com/hakDean/ExploitDB | 0 | 0| 
 | 20221016T11:47:31Z | A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications | https://github.com/readloud/XAttacker | 0 | 0| 
 | 20221016T11:35:49Z | Fortnite internal Orange Ware Source Code Esp Aimbot With Exploits | https://github.com/OumTX/Fortnite-OrangeWare-Source-Full | 1 | 0| 
 | 20221016T11:11:06Z | Aimbot:  Weapon Selection Memory Aim On Key (On/Off) Silent Aim (P Silent) Aim Bones (Head) (Neck) (Body) (Closest) No Recoil Knocked Players Backtrack Visibles Check Smooth (1-10) FOV (1-100) Visuals:  On Key (On/Off) Player Names Player Distance Itmes Health Bar (Constant) (Normal) Health Text Bounding Box (3D) (2D) | https://github.com/Matteo204/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
 | 20221016T11:09:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3684 | 450| 
-| 20221016T10:26:47Z | Null | https://github.com/RcsMonster/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20221016T10:24:55Z | Null | https://github.com/RcsMonster/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20221016T10:23:52Z | Null | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 | 20221016T10:23:13Z | Null | https://github.com/RcsMonster/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
