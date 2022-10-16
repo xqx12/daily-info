@@ -72,6 +72,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T01:19:24Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4957 | 684| 
+| 20221016T01:18:36Z | We implement an SQP scheme that exploits the temporal decomposition technique | https://github.com/senna1128/Temporal-Decomposition-Procedure | 0 | 0| 
 | 20221016T01:02:13Z | 🔨 C++ External Valorant Aimbot + Esp , Latest version | https://github.com/Fnoberz/Valorant.External | 29 | 15| 
 | 20221016T00:00:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-h | 1 | 0| 
 | 20221015T23:59:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-h | 1 | 0| 
@@ -80,8 +82,6 @@
 | 20221015T22:33:29Z | Tool to generate gopher links for exploiting SSRF | https://github.com/hupe1980/gopherfy | 0 | 0| 
 | 20221015T22:14:42Z | Gain access to any uploaded files in your class via DocViewer using an exploitation in Canvas API v1. | https://github.com/gaukas/instructure-canvas-file-oracle | 0 | 0| 
 | 20221015T21:17:53Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation. | https://github.com/volkandindar/agartha | 198 | 41| 
-| 20221015T21:17:15Z | this repo contains some pwn challenges i solved during my learning | https://github.com/OUB3LL4/Linxu-Binary-Exploitation | 0 | 0| 
-| 20221015T20:56:40Z | Null | https://github.com/captchassucks/NeoExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
