@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221016T00:06:54Z | CVE-2022-40684 | Null | https://github.com/NeriaBasha/CVE-2022-40684 | | 
 | 20221015T18:25:23Z | CVE-2021-46422 | CVE-2021-46422漏洞 | https://github.com/Awei507/CVE-2021-46422 | | 
 | 20221015T18:15:11Z | CVE-2022-41852 | CVE-2022-41852 Proof of Concept (unofficial) | https://github.com/Warxim/CVE-2022-41852 | | 
 | 20221015T17:40:47Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
@@ -41,7 +42,6 @@
 | 20221015T16:07:15Z | CVE-2022-26134 | 在受影响的Confluence Server 和Data Center 版本中，存在一个OGNL 注入漏洞，该漏洞允许未经身份验证的攻击者在Confluence Server 或Data Center 服务器上执行任意代码。 | https://github.com/kailing0220/CVE-2022-26134 | | 
 | 20221015T15:22:00Z | CVE-2022-41040 | Null | https://github.com/ITPATJIDR/CVE-2022-41040 | | 
 | 20221015T15:14:29Z | CVE-2021-46422 | Null | https://github.com/yigexioabai/CVE-2021-46422_RCE | | 
-| 20221015T14:34:57Z | CVE-2022-26134 | Null | https://github.com/yigexioabai/CVE-2022-26134-cve1 | | 
 
 
 # klee on Github 推荐
@@ -102,16 +102,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T21:50:16Z | GenSym, a compiler for parallel symbolic execution of LLVM | https://github.com/Generative-Program-Analysis/GenSym | 7 | 0| 
+| 20221015T19:17:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3154 | 444| 
+| 20221015T16:33:05Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 77 | 16| 
 | 20221015T08:45:39Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 74 | 2| 
 | 20221015T08:38:40Z | Source of the Symbolic Execution-based Test Tool Evaluator (SETTE) | https://github.com/SETTE-Testing/sette-tool | 11 | 6| 
 | 20221015T07:10:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
-| 20221015T07:10:52Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3153 | 444| 
 | 20221015T03:41:25Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 257 | 63| 
-| 20221014T18:00:16Z | GenSym, a compiler for symbolic execution | https://github.com/Generative-Program-Analysis/GenSym | 7 | 0| 
 | 20221014T16:48:15Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 49 | 23| 
 | 20221014T09:02:18Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 8 | 1| 
 | 20221013T08:47:14Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 1 | 2| 
-| 20221012T18:21:08Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 24 | 5| 
 
 
 # big4 on Github 推荐
