@@ -87,6 +87,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T01:15:15Z | SSH connection daemon for Debian/Raspbian/Ubuntu/etc | https://github.com/daradib/sidedoor | 108 | 19| 
 | 20221015T17:10:49Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 26 | 16| 
 | 20221015T14:32:35Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 0 | 0| 
 | 20221015T09:51:18Z | Null | https://github.com/P-Pimentinha/backdoor | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221014T21:11:11Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 33 | 2| 
 | 20221014T16:54:25Z | Drpanoukl4/Python-Irc-Botnet-Persistence-Backdoor | https://github.com/Drpanoukl4/Drpanoukl4-Python-Irc-Botnet-Persistence-Backdoor | 2 | 0| 
 | 20221013T23:24:30Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
-| 20221013T22:56:46Z | Los backdoor son una de las herramientas más utilizadas Conexión Remota Servidor Cliente  | https://github.com/rdennifer/BackdoorsPY | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
