@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:12:45Z | Cve-2022- | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20221016T12:08:42Z | CVE-2022-26134 | CVE-2022-26134poc | https://github.com/yyqxi/CVE-2022-26134 | | 
 | 20221016T12:03:51Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/latings/CVE-2022-26134 | | 
 | 20221016T11:47:14Z | CVE-2021-46422 | CVE-2021-46422poc | https://github.com/yyqxi/CVE-2021-46422 | | 
@@ -39,7 +40,6 @@
 | 20221016T10:59:15Z | CVE-2022-26134 | Confluence Server and Data Center存在一个远程代码执行漏洞，未经身份验证的攻击者可以利用该漏洞向目标服务器注入恶意ONGL表达式，进而在目标服务器上执行任意代码。 | https://github.com/kelemaoya/CVE-2022-26134 | | 
 | 20221016T10:55:56Z | cve-2022-26134 | cve-2022-26134 | https://github.com/CJ-0107/cve-2022-26134 | | 
 | 20221016T10:53:24Z | cve-2021-46422 | cve-2021-46422 | https://github.com/CJ-0107/cve-2021-46422 | | 
-| 20221016T10:33:02Z | Cve-2022- | Null | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20221016T10:23:52Z | 未知编号 | Null | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221016T10:22:52Z | 未知编号 | Null | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 
@@ -73,12 +73,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:12:45Z | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
 | 20221016T12:01:21Z | Null | https://github.com/hakDean/ExploitDB | 0 | 0| 
 | 20221016T11:47:31Z | A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications | https://github.com/readloud/XAttacker | 0 | 0| 
 | 20221016T11:35:49Z | Fortnite internal Orange Ware Source Code Esp Aimbot With Exploits | https://github.com/OumTX/Fortnite-OrangeWare-Source-Full | 1 | 0| 
 | 20221016T11:11:06Z | Aimbot:  Weapon Selection Memory Aim On Key (On/Off) Silent Aim (P Silent) Aim Bones (Head) (Neck) (Body) (Closest) No Recoil Knocked Players Backtrack Visibles Check Smooth (1-10) FOV (1-100) Visuals:  On Key (On/Off) Player Names Player Distance Itmes Health Bar (Constant) (Normal) Health Text Bounding Box (3D) (2D) | https://github.com/Matteo204/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
 | 20221016T11:09:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3684 | 450| 
-| 20221016T10:33:02Z | Null | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
 | 20221016T10:26:47Z | Null | https://github.com/RcsMonster/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20221016T10:24:55Z | Null | https://github.com/RcsMonster/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20221016T10:23:52Z | Null | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
