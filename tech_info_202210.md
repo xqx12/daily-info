@@ -32,21 +32,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221015T12:49:22Z | CVE-2022-3236 | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | | 
-| 20221015T12:46:31Z | CVE-2021-46422 | CVE-2021-46422漏洞 | https://github.com/Awei507/CVE-2021-46422 | | 
-| 20221015T12:42:27Z | CVE-2022-40684 | A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager | https://github.com/horizon3ai/CVE-2022-40684 | | 
-| 20221015T11:43:08Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-PoC-sample | | 
-| 20221015T11:36:17Z | cve-2022-40684 | exploit for CVE-2022-40684 Fortinet | https://github.com/ClickCyber/cve-2022-40684 | | 
-| 20221015T10:09:02Z | CVE-2022-40684 | PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only) | https://github.com/carlosevieira/CVE-2022-40684 | | 
-| 20221015T08:51:03Z | CVE-2022-41852 | CVE-2022-41852 Proof of Concept (unofficial) | https://github.com/Warxim/CVE-2022-41852 | | 
-| 20221015T06:44:53Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
-| 20221015T02:53:39Z | CVE-2022-40684 | CVE-2022-40684 Remote Fortinet Code Exeuction vulnerability | https://github.com/Carl0sV1e1ra/CVE-2022-40684 | | 
-| 20221015T00:46:07Z | CVE-2022-37434 | u think that it doesnt but it do | https://github.com/xen0bit/CVE-2022-37434_poc | | 
+| 20221015T18:25:23Z | CVE-2021-46422 | CVE-2021-46422漏洞 | https://github.com/Awei507/CVE-2021-46422 | | 
+| 20221015T18:15:11Z | CVE-2022-41852 | CVE-2022-41852 Proof of Concept (unofficial) | https://github.com/Warxim/CVE-2022-41852 | | 
+| 20221015T17:40:47Z | CVE-2022-40471 | RCE Exploit and Research  | https://github.com/RashidKhanPathan/CVE-2022-40471 | | 
+| 20221015T17:06:07Z | CVE-2022-40684 | Exploit for CVE-2022-40684 vulnerability | https://github.com/mohamedbenchikh/CVE-2022-40684 | | 
+| 20221015T17:06:00Z | CVE-2022-41358 | Null | https://github.com/thecasual/CVE-2022-41358 | | 
+| 20221015T16:52:50Z | CVE-2022-40684 | Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ] | https://github.com/Chocapikk/CVE-2022-40684 | | 
+| 20221015T16:07:15Z | CVE-2022-26134 | 在受影响的Confluence Server 和Data Center 版本中，存在一个OGNL 注入漏洞，该漏洞允许未经身份验证的攻击者在Confluence Server 或Data Center 服务器上执行任意代码。 | https://github.com/kailing0220/CVE-2022-26134 | | 
+| 20221015T15:22:00Z | CVE-2022-41040 | Null | https://github.com/ITPATJIDR/CVE-2022-41040 | | 
+| 20221015T15:14:29Z | CVE-2021-46422 | Null | https://github.com/yigexioabai/CVE-2021-46422_RCE | | 
+| 20221015T14:34:57Z | CVE-2022-26134 | Null | https://github.com/yigexioabai/CVE-2022-26134-cve1 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T20:52:39Z | Null | https://github.com/oldyue/klee | 0 | 0| 
+| 20221015T20:42:45Z | Null | https://github.com/Khori-Lee/klee_repo | 0 | 0| 
 | 20221015T07:47:20Z | Null | https://github.com/vichannnnn/klee-giveaway-web | 2 | 0| 
 | 20221015T07:10:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
 | 20221015T06:00:23Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 105 | 1| 
@@ -55,8 +57,6 @@
 | 20221013T23:41:08Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 15 | 0| 
 | 20221013T22:55:48Z | Null | https://github.com/Iykelistic/kleeva | 0 | 0| 
 | 20221013T15:48:39Z | Klee%s Notes! 🍀 , t.me/GIDataBot | https://github.com/shardeex/GIDataBot | 2 | 0| 
-| 20221013T00:36:51Z | Null | https://github.com/SweetMiyako/kleeml | 0 | 0| 
-| 20221011T00:06:02Z | Null | https://github.com/fontworks-fonts/Klee | 751 | 21| 
 
 
 # s2e on Github 推荐
@@ -72,21 +72,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221015T12:56:45Z | This program is aiming to solve the problems that are encountered by real estate agencies(brokers) through their business ventures and different exploit. Using this program a business can save several hours of valuable time and use this time focusing on increasing their revenue. | https://github.com/kidusm001/Real-Estate-Managment-System-Project | 0 | 0| 
-| 20221015T12:55:55Z | Null | https://github.com/illupak/Windows-Exploitation | 0 | 0| 
-| 20221015T12:49:22Z | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-RCE-POC | 0 | 0| 
-| 20221015T12:48:48Z | GitOps Repository | https://github.com/HACbs-ui-org/test-application-karthik-hold-exploit | 0 | 0| 
-| 20221015T12:46:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3682 | 449| 
-| 20221015T11:36:17Z | exploit for CVE-2022-40684 Fortinet | https://github.com/ClickCyber/cve-2022-40684 | 0 | 0| 
-| 20221015T11:13:31Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 329 | 43| 
-| 20221015T10:19:14Z | This is my very first exploit. I chose JPGChat because it is simple to exploit and I wanted to practice my python3 skills. | https://github.com/AdamVins/JPChat-exploit | 0 | 0| 
-| 20221015T09:47:51Z | An ios 14 - 16 based jailbreak using a new exploit found by the LinuxLim Team | https://github.com/iFreeDomain/v0rtex2 | 0 | 0| 
-| 20221015T09:12:37Z | lol post this link to get audio gif, exploit found by me and CAEC | https://github.com/BGP0/discord-audio-gif | 0 | 0| 
+| 20221016T00:00:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-h | 1 | 0| 
+| 20221015T23:59:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-h | 1 | 0| 
+| 20221015T23:59:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | 1 | 0| 
+| 20221015T22:56:11Z | This program is aiming to solve the problems that are encountered by real estate agencies(brokers) through their business ventures and different exploit. Using this program a business can save several hours of valuable time and use this time focusing on increasing their revenue. | https://github.com/kidusm001/Real-Estate-Managment-System-Project | 0 | 0| 
+| 20221015T22:33:29Z | Tool to generate gopher links for exploiting SSRF | https://github.com/hupe1980/gopherfy | 0 | 0| 
+| 20221015T22:14:42Z | Gain access to any uploaded files in your class via DocViewer using an exploitation in Canvas API v1. | https://github.com/gaukas/instructure-canvas-file-oracle | 0 | 0| 
+| 20221015T21:17:53Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation. | https://github.com/volkandindar/agartha | 198 | 41| 
+| 20221015T21:17:15Z | this repo contains some pwn challenges i solved during my learning | https://github.com/OUB3LL4/Linxu-Binary-Exploitation | 0 | 0| 
+| 20221015T20:56:40Z | Null | https://github.com/captchassucks/NeoExploit | 0 | 0| 
+| 20221015T16:52:50Z | Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ] | https://github.com/Chocapikk/CVE-2022-40684 | 0 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221015T17:10:49Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 26 | 16| 
+| 20221015T14:32:35Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 0 | 0| 
 | 20221015T09:51:18Z | Null | https://github.com/P-Pimentinha/backdoor | 0 | 0| 
 | 20221015T01:59:08Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 83 | 6| 
 | 20221014T23:51:11Z | A simple Windows Backdoor made in C | https://github.com/zummics/backdoor | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20221014T16:54:25Z | Drpanoukl4/Python-Irc-Botnet-Persistence-Backdoor | https://github.com/Drpanoukl4/Drpanoukl4-Python-Irc-Botnet-Persistence-Backdoor | 2 | 0| 
 | 20221013T23:24:30Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 22 | 8| 
 | 20221013T22:56:46Z | Los backdoor son una de las herramientas más utilizadas Conexión Remota Servidor Cliente  | https://github.com/rdennifer/BackdoorsPY | 0 | 0| 
-| 20221013T21:55:02Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 158 | 37| 
-| 20221013T21:20:28Z | [FINAL] NjRat 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 4 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T00:01:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42342 | 21200| 
+| 20221015T20:37:11Z | Null | https://github.com/Xicks/d-FuzzStream-Python-Experimental | 0 | 0| 
+| 20221015T20:03:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7937 | 1723| 
+| 20221015T17:47:41Z | a Heart Disease Diagnosis System Using Fuzzy Expert System | https://github.com/tanya-jp/HeartDiseaseDiagnosis-FuzzySys | 0 | 0| 
+| 20221015T17:31:21Z | Null | https://github.com/Xicks/d-FuzzStream-Python | 0 | 0| 
+| 20221015T16:51:33Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 45 | 25| 
+| 20221015T16:26:04Z | Everything for pentest. , 用于渗透测试的 payload 和 bypass 字典. | https://github.com/ffffffff0x/AboutSecurity | 713 | 155| 
 | 20221015T12:31:14Z | Null | https://github.com/westerblaker/fuzzy-bassoon | 0 | 0| 
-| 20221015T12:20:11Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 43 | 25| 
 | 20221015T10:53:06Z | Null | https://github.com/Amir-Samadi/extended-neo-fuzzy-neuron-ENFN- | 0 | 0| 
 | 20221015T10:02:38Z | relations | https://github.com/hotpaxx/fuzzy-eureka | 0 | 0| 
-| 20221015T09:47:51Z | Null | https://github.com/VasyaZaycev/FuzzyGreenScore | 0 | 0| 
-| 20221015T08:59:58Z | Null | https://github.com/TKV-LF/Fuzzy-C-Means | 0 | 0| 
-| 20221015T08:58:42Z | Tennis data viz project | https://github.com/khanhngg/fuzzy-yellow-balls | 1 | 0| 
-| 20221015T08:27:30Z | fuzzing-101 libafl solutions | https://github.com/rycbar77/libafl_learning | 0 | 0| 
-| 20221015T05:56:27Z | FuzzStore sells everthing | https://github.com/Mist1987/FuzzStore | 0 | 0| 
-| 20221015T02:34:50Z | Smart-case fuzzy filter for asyncomplete | https://github.com/FuDesign2008/asyncomplete-smart-fuzzy.vim | 0 | 0| 
 
 
 
