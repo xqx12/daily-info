@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:47:39Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation. | https://github.com/volkandindar/agartha | 198 | 41| 
 | 20221016T12:38:18Z | Null | https://github.com/hakDean/ExploitDB | 0 | 0| 
 | 20221016T12:31:40Z | Features Of Exodus Stealer Reborn Functions -Autofill -Cookies -Passwords -Bookmarks -History -Credit Cards  -Steals System INFO -Install Application -Running Application -Screenshot -Product Key -Sets And Grabs Clipboard  -Steals System Hardware info -Ip info and geoip location -System based bssid location -Wifi Saved Password -Webcam Screenshot - | https://github.com/RcsMonster/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-AccountExodus-Exploit-Stealer-Login-Bypass-Hack-Any-Acc | 0 | 0| 
 | 20221016T12:22:42Z | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20221016T12:18:44Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/RcsMonster/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20221016T12:12:45Z | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
 | 20221016T11:47:31Z | A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications | https://github.com/readloud/XAttacker | 0 | 0| 
-| 20221016T11:35:49Z | Fortnite internal Orange Ware Source Code Esp Aimbot With Exploits | https://github.com/OumTX/Fortnite-OrangeWare-Source-Full | 1 | 0| 
 
 
 # backdoor on Github 推荐
