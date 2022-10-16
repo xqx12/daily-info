@@ -73,6 +73,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:31:40Z | Features Of Exodus Stealer Reborn Functions -Autofill -Cookies -Passwords -Bookmarks -History -Credit Cards  -Steals System INFO -Install Application -Running Application -Screenshot -Product Key -Sets And Grabs Clipboard  -Steals System Hardware info -Ip info and geoip location -System based bssid location -Wifi Saved Password -Webcam Screenshot - | https://github.com/RcsMonster/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-AccountExodus-Exploit-Stealer-Login-Bypass-Hack-Any-Acc | 0 | 0| 
 | 20221016T12:22:42Z | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
 | 20221016T12:21:44Z | Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there%s no macro support) -Startup -base64 encode | https://github.com/RcsMonster/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
 | 20221016T12:20:50Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20221016T12:01:21Z | Null | https://github.com/hakDean/ExploitDB | 0 | 0| 
 | 20221016T11:47:31Z | A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications | https://github.com/readloud/XAttacker | 0 | 0| 
 | 20221016T11:35:49Z | Fortnite internal Orange Ware Source Code Esp Aimbot With Exploits | https://github.com/OumTX/Fortnite-OrangeWare-Source-Full | 1 | 0| 
-| 20221016T11:11:06Z | Aimbot:  Weapon Selection Memory Aim On Key (On/Off) Silent Aim (P Silent) Aim Bones (Head) (Neck) (Body) (Closest) No Recoil Knocked Players Backtrack Visibles Check Smooth (1-10) FOV (1-100) Visuals:  On Key (On/Off) Player Names Player Distance Itmes Health Bar (Constant) (Normal) Health Text Bounding Box (3D) (2D) | https://github.com/Matteo204/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
 
 
 # backdoor on Github 推荐
