@@ -72,6 +72,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T00:53:19Z | 🔨 C++ External Valorant Aimbot + Esp , Latest version | https://github.com/Fnoberz/Valorant.External | 29 | 15| 
 | 20221016T00:00:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-h | 1 | 0| 
 | 20221015T23:59:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-h | 1 | 0| 
 | 20221015T23:59:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | 1 | 0| 
@@ -81,7 +82,6 @@
 | 20221015T21:17:53Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation. | https://github.com/volkandindar/agartha | 198 | 41| 
 | 20221015T21:17:15Z | this repo contains some pwn challenges i solved during my learning | https://github.com/OUB3LL4/Linxu-Binary-Exploitation | 0 | 0| 
 | 20221015T20:56:40Z | Null | https://github.com/captchassucks/NeoExploit | 0 | 0| 
-| 20221015T16:52:50Z | Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ] | https://github.com/Chocapikk/CVE-2022-40684 | 0 | 2| 
 
 
 # backdoor on Github 推荐
