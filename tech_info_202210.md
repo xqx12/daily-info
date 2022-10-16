@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:49:18Z | Fuzzy controller project designed to estimate apartment price | https://github.com/Leenocktopus/fuzzy-controller | 0 | 0| 
 | 20221016T12:40:09Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1659 | 27| 
 | 20221016T12:16:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42349 | 21206| 
 | 20221016T10:14:07Z | Null | https://github.com/ONIZUKAGTO/TopoFuzzer | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20221016T05:40:31Z | Null | https://github.com/CheUhxg/FuzzNote | 1 | 0| 
 | 20221016T04:02:51Z | Null | https://github.com/Fuzzycyborg/fuzzycyborg | 0 | 0| 
 | 20221015T20:37:11Z | Null | https://github.com/Xicks/d-FuzzStream-Python-Experimental | 0 | 0| 
-| 20221015T20:03:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7937 | 1723| 
 
 
 
