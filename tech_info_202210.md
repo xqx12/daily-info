@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221016T12:54:27Z | CVE-2022-40684 | Exploit for CVE-2022-40684 vulnerability | https://github.com/mohamedbenchikh/CVE-2022-40684 | | 
 | 20221016T12:34:18Z | cve-2022-26134 | 漏洞测试 | https://github.com/polerstar/cve-2022-26134-poc | | 
 | 20221016T12:22:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20221016T12:20:50Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
@@ -41,7 +42,6 @@
 | 20221016T11:47:14Z | CVE-2021-46422 | CVE-2021-46422poc | https://github.com/yyqxi/CVE-2021-46422 | | 
 | 20221016T11:07:39Z | CVE-2021-46422 | 韩国的无线路由器 os cmd 注入 | https://github.com/kelemaoya/CVE-2021-46422 | | 
 | 20221016T10:59:15Z | CVE-2022-26134 | Confluence Server and Data Center存在一个远程代码执行漏洞，未经身份验证的攻击者可以利用该漏洞向目标服务器注入恶意ONGL表达式，进而在目标服务器上执行任意代码。 | https://github.com/kelemaoya/CVE-2022-26134 | | 
-| 20221016T10:55:56Z | cve-2022-26134 | cve-2022-26134 | https://github.com/CJ-0107/cve-2022-26134 | | 
 
 
 # klee on Github 推荐
