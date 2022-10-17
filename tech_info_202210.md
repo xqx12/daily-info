@@ -73,6 +73,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T00:03:18Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8 | 1 | 0| 
+| 20221017T00:02:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8 | 1 | 0| 
 | 20221016T22:35:06Z | NeoExploit is a exploit for roblox that mainly uses WRD api and is planning on moving to krnl api / easyexploits. | https://github.com/captchassucks/NeoExploit | 0 | 0| 
 | 20221016T21:50:49Z | Get Custom Discord level 3 vanity invite link | https://github.com/girlhefunnyaf44/Discord-Exploit | 0 | 0| 
 | 20221016T21:07:47Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3584 | 259| 
@@ -81,8 +83,6 @@
 | 20221016T19:11:03Z | [CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution | https://github.com/redrays-io/CVE-2022-39802 | 0 | 0| 
 | 20221016T18:58:55Z | slythe doxxer is a simple exe that uses the new discord exploit | https://github.com/sUgarhax/slithedoxxer | 0 | 0| 
 | 20221016T18:37:57Z | Null | https://github.com/Gohanckz/Exploits | 0 | 0| 
-| 20221016T18:27:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4959 | 685| 
-| 20221016T12:47:39Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation. | https://github.com/volkandindar/agartha | 198 | 41| 
 
 
 # backdoor on Github 推荐
@@ -103,16 +103,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T22:29:09Z | A symbolic execution tool to analyze Ethereum smart contracts | https://github.com/contractAnalysis/smartExecutor | 0 | 0| 
+| 20221016T22:01:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3156 | 444| 
+| 20221016T15:15:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2088 | 591| 
 | 20221016T02:14:34Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 75 | 2| 
 | 20221015T21:50:16Z | GenSym, a compiler for parallel symbolic execution of LLVM | https://github.com/Generative-Program-Analysis/GenSym | 7 | 0| 
-| 20221015T19:17:43Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3154 | 444| 
 | 20221015T16:33:05Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 77 | 16| 
 | 20221015T08:38:40Z | Source of the Symbolic Execution-based Test Tool Evaluator (SETTE) | https://github.com/SETTE-Testing/sette-tool | 11 | 6| 
-| 20221015T07:10:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
 | 20221015T03:41:25Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 257 | 63| 
 | 20221014T16:48:15Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 49 | 23| 
 | 20221014T09:02:18Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 8 | 1| 
-| 20221013T08:47:14Z | A Unit-Based Symbolic Execution Method for Detecting Memory Corruption Vulnerabilities in Executable Codes | https://github.com/SoftwareSecurityLab/UbSym | 1 | 2| 
 
 
 # big4 on Github 推荐
