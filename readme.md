@@ -49,7 +49,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221016T22:35:06Z | NeoExploit is a exploit for roblox that mainly uses WRD api and is planning on moving to krnl api / easyexploits. | https://github.com/captchassucks/NeoExploit | 0 | 0| 
 | 20221016T21:50:49Z | Get Custom Discord level 3 vanity invite link | https://github.com/girlhefunnyaf44/Discord-Exploit | 0 | 0| 
-| 20221016T21:07:47Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3584 | 259| 
 | 20221016T20:20:21Z | 💉C++ ,  Lua Executor New version Updates.  | https://github.com/Fnoberz/Fivem-Source | 47 | 25| 
 | 20221016T20:19:40Z | 🃏 Batch File for spoofing and delete track files Easy-Anti Cheat | https://github.com/Fnoberz/Apex-Spoofer | 57 | 22| 
 | 20221016T19:11:03Z | [CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution | https://github.com/redrays-io/CVE-2022-39802 | 0 | 0| 
@@ -57,6 +56,7 @@
 | 20221016T18:37:57Z | Null | https://github.com/Gohanckz/Exploits | 0 | 0| 
 | 20221016T18:27:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4959 | 685| 
 | 20221016T12:47:39Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation. | https://github.com/volkandindar/agartha | 198 | 41| 
+| 20221016T12:38:18Z | Null | https://github.com/hakDean/ExploitDB | 0 | 0| 
 
 
 # backdoor on Github 推荐
