@@ -73,16 +73,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221017T12:44:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-w | 0 | 0| 
+| 20221017T12:48:29Z | Null | https://github.com/Bl4ckM1rror/IP-Finder | 1 | 0| 
+| 20221017T12:46:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-w | 1 | 0| 
+| 20221017T12:45:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-w | 1 | 0| 
+| 20221017T12:44:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-w | 1 | 0| 
 | 20221017T12:05:06Z | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | 1 | 0| 
 | 20221017T11:44:39Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 26 | 1| 
-| 20221017T09:49:07Z | Null | https://github.com/Bl4ckM1rror/IP-Finder | 0 | 0| 
 | 20221017T09:32:19Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 3290 | 814| 
 | 20221017T08:29:12Z | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-MASS-RCE | 0 | 0| 
 | 20221017T06:58:16Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 539 | 32| 
 | 20221017T05:39:13Z | Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ] | https://github.com/Chocapikk/CVE-2022-40684 | 2 | 3| 
-| 20221017T03:43:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3687 | 449| 
-| 20221017T01:13:46Z | Remake of the KRNL Exploit with a custom UI. Not officially partnered with KRNL | https://github.com/Jsuth-2007/KRNLZ | 0 | 0| 
 
 
 # backdoor on Github 推荐
