@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221017T11:59:25Z | CVE-2022-0824 | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | | 
+| 20221017T12:05:06Z | CVE-2022-0824 | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | | 
 | 20221017T10:53:14Z | CVE-2022-36067 | vm2 sandbox remote code execution [mass adding] [payload send for botnets] | https://github.com/backcr4t/CVE-2022-36067-MASS-RCE | | 
 | 20221017T10:09:44Z | CVE-2022-40664 | Null | https://github.com/Jackey0/CVE-2022-40664 | | 
 | 20221017T09:55:44Z | CVE-2022-41082 | ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and a python wrapper to acieve RCE for Proxynotshell  | https://github.com/backcr4t/CVE-2022-41082-RCE | | 
@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221017T11:59:25Z | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | 0 | 0| 
+| 20221017T12:05:06Z | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | 1 | 0| 
 | 20221017T11:44:39Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 26 | 1| 
 | 20221017T09:49:07Z | Null | https://github.com/Bl4ckM1rror/IP-Finder | 0 | 0| 
 | 20221017T09:32:19Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 3290 | 814| 
 | 20221017T08:29:12Z | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-MASS-RCE | 0 | 0| 
+| 20221017T06:58:16Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 539 | 32| 
 | 20221017T05:39:13Z | Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ] | https://github.com/Chocapikk/CVE-2022-40684 | 2 | 3| 
 | 20221017T03:43:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3687 | 449| 
 | 20221017T01:13:46Z | Remake of the KRNL Exploit with a custom UI. Not officially partnered with KRNL | https://github.com/Jsuth-2007/KRNLZ | 0 | 0| 
 | 20221017T00:58:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3585 | 259| 
-| 20221017T00:52:01Z | Embedded intelligent Arduino programs as combination of hardware and software in Robotic buggy. Exploited various types of sensors features to enhance the performance. Fulfilled the challenges corresponding to various paths and hurdles. | https://github.com/umar-tariq-wani/Buggy-Project-Engineering-Design- | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -74,8 +74,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221017T01:36:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
-| 20221017T00:34:18Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1237 | 57| 
+| 20221017T03:14:20Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1238 | 57| 
+| 20221017T03:02:33Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3157 | 444| 
+| 20221017T02:51:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 592| 
 
 
 # big4 on Github 推荐
@@ -86,14 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T12:16:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7946 | 1724| 
+| 20221017T11:44:32Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1283 | 96| 
+| 20221017T10:30:11Z | Null | https://github.com/Adi-Sauter/fuzzy_model | 0 | 0| 
+| 20221017T10:25:52Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1422 | 277| 
+| 20221017T09:44:41Z | Null | https://github.com/MasterKinjalk/C19-Prediction-Using-Fuzzy | 0 | 0| 
+| 20221017T09:15:37Z | Fuzzing corpus for https://github.com/andygrunwald/vdf | https://github.com/andygrunwald/vdf-fuzzing-corpus | 0 | 0| 
+| 20221017T05:25:54Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 320 | 43| 
 | 20221017T01:57:05Z | Null | https://github.com/prethomas98/fuzzy-octo-guide | 0 | 0| 
 | 20221017T01:53:17Z | Null | https://github.com/alicia649/fuzzy-spork | 0 | 0| 
 | 20221017T00:51:42Z | K | https://github.com/Killerk6/fuzzy-guide | 0 | 0| 
-| 20221017T00:40:13Z | Null | https://github.com/Blindet/fuzzy-octo-guide | 0 | 0| 
-| 20221017T00:28:39Z | Null | https://github.com/hazelcru/fuzzy-octo-computing-machine | 0 | 0| 
-| 20221017T00:12:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7942 | 1724| 
-| 20221017T00:09:17Z | Null | https://github.com/bnaftali1/differentialFuzzer | 0 | 0| 
-| 20221017T00:04:36Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1666 | 27| 
 
 
 
