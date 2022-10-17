@@ -127,11 +127,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T00:09:17Z | Null | https://github.com/bnaftali1/differentialFuzzer | 0 | 0| 
 | 20221017T00:04:36Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1666 | 27| 
 | 20221016T23:59:38Z | A simple fuzz distorion vst3 & clap plugin.  | https://github.com/aizcutei/fuzz_test | 0 | 0| 
 | 20221016T23:53:06Z | Null | https://github.com/FuzzyFish1226/FuzzyFish1226.github.io | 0 | 0| 
 | 20221016T23:35:20Z | Null | https://github.com/Tony-St4rk/NOSQL_Fuzz_list | 0 | 0| 
-| 20221016T23:21:04Z | Null | https://github.com/bnaftali1/differentialFuzzer | 0 | 0| 
 | 20221016T20:40:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7941 | 1724| 
 | 20221016T20:31:12Z | Null | https://github.com/alva531/Fuzzy-Logic | 0 | 0| 
 | 20221016T20:15:30Z | Null | https://github.com/idalina-sachango/chetty-hendren-fuzzy-matching | 0 | 0| 
