@@ -87,10 +87,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T12:38:58Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1423 | 277| 
 | 20221017T12:16:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7946 | 1724| 
 | 20221017T11:44:32Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1283 | 96| 
 | 20221017T10:30:11Z | Null | https://github.com/Adi-Sauter/fuzzy_model | 0 | 0| 
-| 20221017T10:25:52Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1422 | 277| 
 | 20221017T09:44:41Z | Null | https://github.com/MasterKinjalk/C19-Prediction-Using-Fuzzy | 0 | 0| 
 | 20221017T09:15:37Z | Fuzzing corpus for https://github.com/andygrunwald/vdf | https://github.com/andygrunwald/vdf-fuzzing-corpus | 0 | 0| 
 | 20221017T06:57:12Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1486 | 261| 
