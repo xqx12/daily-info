@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T01:57:05Z | Null | https://github.com/prethomas98/fuzzy-octo-guide | 0 | 0| 
 | 20221017T01:53:17Z | Null | https://github.com/alicia649/fuzzy-spork | 0 | 0| 
 | 20221017T00:51:42Z | K | https://github.com/Killerk6/fuzzy-guide | 0 | 0| 
 | 20221017T00:40:13Z | Null | https://github.com/Blindet/fuzzy-octo-guide | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20221017T00:04:36Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1666 | 27| 
 | 20221016T23:59:38Z | A simple fuzz distorion vst3 & clap plugin.  | https://github.com/aizcutei/fuzz_test | 0 | 0| 
 | 20221016T23:53:06Z | Null | https://github.com/FuzzyFish1226/FuzzyFish1226.github.io | 0 | 0| 
-| 20221016T23:35:20Z | Null | https://github.com/Tony-St4rk/NOSQL_Fuzz_list | 0 | 0| 
 
 
 
