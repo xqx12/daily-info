@@ -73,6 +73,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T12:44:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-w | 0 | 0| 
 | 20221017T12:05:06Z | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | 1 | 0| 
 | 20221017T11:44:39Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 26 | 1| 
 | 20221017T09:49:07Z | Null | https://github.com/Bl4ckM1rror/IP-Finder | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20221017T05:39:13Z | Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ] | https://github.com/Chocapikk/CVE-2022-40684 | 2 | 3| 
 | 20221017T03:43:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3687 | 449| 
 | 20221017T01:13:46Z | Remake of the KRNL Exploit with a custom UI. Not officially partnered with KRNL | https://github.com/Jsuth-2007/KRNLZ | 0 | 0| 
-| 20221017T00:58:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3585 | 259| 
 
 
 # backdoor on Github 推荐
@@ -127,8 +127,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T12:45:44Z | Null | https://github.com/FuzzyFish1226/FuzzyFish1226.github.io | 0 | 0| 
 | 20221017T12:41:27Z | Null | https://github.com/orkanadrx/fuzzy-dollop | 0 | 0| 
-| 20221017T12:40:49Z | Null | https://github.com/FuzzyFish1226/FuzzyFish1226.github.io | 0 | 0| 
 | 20221017T12:38:58Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1423 | 277| 
 | 20221017T12:16:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7946 | 1724| 
 | 20221017T11:44:32Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1283 | 96| 
