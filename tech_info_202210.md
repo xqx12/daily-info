@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T00:28:39Z | Null | https://github.com/hazelcru/fuzzy-octo-computing-machine | 0 | 0| 
 | 20221017T00:12:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7942 | 1724| 
 | 20221017T00:09:17Z | Null | https://github.com/bnaftali1/differentialFuzzer | 0 | 0| 
 | 20221017T00:04:36Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1666 | 27| 
@@ -136,7 +137,6 @@
 | 20221016T20:31:12Z | Null | https://github.com/alva531/Fuzzy-Logic | 0 | 0| 
 | 20221016T20:15:30Z | Null | https://github.com/idalina-sachango/chetty-hendren-fuzzy-matching | 0 | 0| 
 | 20221016T20:10:16Z | URL Shortner | https://github.com/bhavana-i/FuzzyURL | 0 | 0| 
-| 20221016T20:07:57Z | A Maven plugin for running and analyzing fuzzing campaigns | https://github.com/neu-se/meringue | 2 | 2| 
 
 
 
