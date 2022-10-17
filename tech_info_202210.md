@@ -73,6 +73,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T01:13:46Z | Remake of the KRNL Exploit with a custom UI. Not officially partnered with KRNL | https://github.com/Jsuth-2007/KRNLZ | 0 | 0| 
 | 20221017T00:58:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3585 | 259| 
 | 20221017T00:52:01Z | Embedded intelligent Arduino programs as combination of hardware and software in Robotic buggy. Exploited various types of sensors features to enhance the performance. Fulfilled the challenges corresponding to various paths and hurdles. | https://github.com/umar-tariq-wani/Buggy-Project-Engineering-Design- | 1 | 0| 
 | 20221017T00:50:06Z | Embedded intelligent Arduino programs as combination of hardware and software in Robotic buggy. Exploited various types of sensors features to enhance the performance. Fulfilled the challenges corresponding to various paths and hurdles. | https://github.com/umartariq361/Buggy-Project-Engineering-Design- | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20221017T00:02:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8 | 1 | 0| 
 | 20221016T22:35:06Z | NeoExploit is a exploit for roblox that mainly uses WRD api and is planning on moving to krnl api / easyexploits. | https://github.com/captchassucks/NeoExploit | 0 | 0| 
 | 20221016T21:50:49Z | Get Custom Discord level 3 vanity invite link | https://github.com/girlhefunnyaf44/Discord-Exploit | 0 | 0| 
-| 20221016T20:20:21Z | 💉C++ ,  Lua Executor New version Updates.  | https://github.com/Fnoberz/Fivem-Source | 47 | 25| 
 
 
 # backdoor on Github 推荐
