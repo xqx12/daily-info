@@ -73,6 +73,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T00:50:06Z | Embedded intelligent Arduino programs as combination of hardware and software in Robotic buggy. Exploited various types of sensors features to enhance the performance. Fulfilled the challenges corresponding to various paths and hurdles. | https://github.com/umartariq361/Buggy-Project-Engineering-Design- | 0 | 0| 
 | 20221017T00:47:38Z | A Azure Exploitation Toolkit for Red Team & Pentesters | https://github.com/SikretaLabs/BlueMap | 0 | 0| 
 | 20221017T00:04:11Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8 | 1 | 0| 
 | 20221017T00:03:18Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8 | 1 | 0| 
@@ -82,7 +83,6 @@
 | 20221016T21:07:47Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3584 | 259| 
 | 20221016T20:20:21Z | 💉C++ ,  Lua Executor New version Updates.  | https://github.com/Fnoberz/Fivem-Source | 47 | 25| 
 | 20221016T20:19:40Z | 🃏 Batch File for spoofing and delete track files Easy-Anti Cheat | https://github.com/Fnoberz/Apex-Spoofer | 57 | 22| 
-| 20221016T19:11:03Z | [CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution | https://github.com/redrays-io/CVE-2022-39802 | 0 | 0| 
 
 
 # backdoor on Github 推荐
