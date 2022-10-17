@@ -32,28 +32,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221016T23:51:46Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
+| 20221016T19:11:03Z | CVE-2022-39802 | [CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution | https://github.com/redrays-io/CVE-2022-39802 | | 
+| 20221016T18:40:27Z | CVE-2022-39802 | [CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution | https://github.com/vah13/CVE-2022-39802 | | 
+| 20221016T16:58:26Z | CVE-2021-44103 | Null | https://github.com/paulotrindadec/CVE-2021-44103 | | 
+| 20221016T15:26:24Z | CVE-2021-46422 | Telesquare SDT-CW3B1 1.1.0 版本存在操作系统命令注入漏洞。远程攻击者可利用该漏洞在无需任何身份验证的情况下执行操作系统命令。 | https://github.com/kailing0220/CVE-2021-46422 | | 
+| 20221016T14:02:24Z | CVE-2022-40664 | Null | https://github.com/Jackey0/CVE-2022-40664 | | 
+| 20221016T13:37:05Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/kussamun55/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20221016T13:37:01Z | Cve-2022- | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/kussamun55/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
+| 20221016T13:01:52Z | CVE-2021-46422 | 漏洞检测 | https://github.com/polerstar/CVE-2021-46422-poc | | 
 | 20221016T12:54:27Z | CVE-2022-40684 | Exploit for CVE-2022-40684 vulnerability | https://github.com/mohamedbenchikh/CVE-2022-40684 | | 
-| 20221016T12:34:18Z | cve-2022-26134 | 漏洞测试 | https://github.com/polerstar/cve-2022-26134-poc | | 
-| 20221016T12:22:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20221016T12:20:50Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20221016T12:12:45Z | Cve-2022- | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221016T12:08:42Z | CVE-2022-26134 | CVE-2022-26134poc | https://github.com/yyqxi/CVE-2022-26134 | | 
-| 20221016T12:03:51Z | CVE-2022-26134 | CVE-2022-26134 | https://github.com/latings/CVE-2022-26134 | | 
-| 20221016T11:47:14Z | CVE-2021-46422 | CVE-2021-46422poc | https://github.com/yyqxi/CVE-2021-46422 | | 
-| 20221016T11:07:39Z | CVE-2021-46422 | 韩国的无线路由器 os cmd 注入 | https://github.com/kelemaoya/CVE-2021-46422 | | 
-| 20221016T10:59:15Z | CVE-2022-26134 | Confluence Server and Data Center存在一个远程代码执行漏洞，未经身份验证的攻击者可以利用该漏洞向目标服务器注入恶意ONGL表达式，进而在目标服务器上执行任意代码。 | https://github.com/kelemaoya/CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T16:35:16Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 106 | 1| 
+| 20221016T15:15:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2088 | 591| 
 | 20221016T03:11:36Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 162 | 50| 
 | 20221016T02:40:18Z | Null | https://github.com/Khori-Lee/klee_xfce | 0 | 0| 
 | 20221015T20:52:39Z | Null | https://github.com/oldyue/klee | 0 | 0| 
 | 20221015T20:42:45Z | Null | https://github.com/Khori-Lee/klee_repo | 0 | 0| 
 | 20221015T07:47:20Z | Null | https://github.com/vichannnnn/klee-giveaway-web | 2 | 0| 
-| 20221015T07:10:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
-| 20221015T06:00:23Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 105 | 1| 
 | 20221014T20:11:16Z | Service App | https://github.com/earnesthooks/GetKleend | 1 | 0| 
 | 20221013T23:41:08Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 15 | 0| 
 | 20221013T22:55:48Z | Null | https://github.com/Iykelistic/kleeva | 0 | 0| 
@@ -73,31 +73,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221016T22:35:06Z | NeoExploit is a exploit for roblox that mainly uses WRD api and is planning on moving to krnl api / easyexploits. | https://github.com/captchassucks/NeoExploit | 0 | 0| 
+| 20221016T21:50:49Z | Get Custom Discord level 3 vanity invite link | https://github.com/girlhefunnyaf44/Discord-Exploit | 0 | 0| 
+| 20221016T21:07:47Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3584 | 259| 
+| 20221016T20:20:21Z | 💉C++ ,  Lua Executor New version Updates.  | https://github.com/Fnoberz/Fivem-Source | 47 | 25| 
+| 20221016T20:19:40Z | 🃏 Batch File for spoofing and delete track files Easy-Anti Cheat | https://github.com/Fnoberz/Apex-Spoofer | 57 | 22| 
+| 20221016T19:11:03Z | [CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution | https://github.com/redrays-io/CVE-2022-39802 | 0 | 0| 
+| 20221016T18:58:55Z | slythe doxxer is a simple exe that uses the new discord exploit | https://github.com/sUgarhax/slithedoxxer | 0 | 0| 
+| 20221016T18:37:57Z | Null | https://github.com/Gohanckz/Exploits | 0 | 0| 
+| 20221016T18:27:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4959 | 685| 
 | 20221016T12:47:39Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation. | https://github.com/volkandindar/agartha | 198 | 41| 
-| 20221016T12:38:18Z | Null | https://github.com/hakDean/ExploitDB | 0 | 0| 
-| 20221016T12:31:40Z | Features Of Exodus Stealer Reborn Functions -Autofill -Cookies -Passwords -Bookmarks -History -Credit Cards  -Steals System INFO -Install Application -Running Application -Screenshot -Product Key -Sets And Grabs Clipboard  -Steals System Hardware info -Ip info and geoip location -System based bssid location -Wifi Saved Password -Webcam Screenshot - | https://github.com/RcsMonster/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-AccountExodus-Exploit-Stealer-Login-Bypass-Hack-Any-Acc | 0 | 0| 
-| 20221016T12:22:42Z | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RcsMonster/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
-| 20221016T12:21:44Z | Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there%s no macro support) -Startup -base64 encode | https://github.com/RcsMonster/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
-| 20221016T12:20:50Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RcsMonster/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
-| 20221016T12:19:47Z | Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. | https://github.com/RcsMonster/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
-| 20221016T12:18:44Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/RcsMonster/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
-| 20221016T12:12:45Z | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/RcsMonster/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | 0 | 0| 
-| 20221016T11:47:31Z | A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications | https://github.com/readloud/XAttacker | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221016T11:32:06Z | Helium: Backdoor Framework | https://github.com/topsideduck/Helium | 1 | 0| 
+| 20221016T22:28:10Z | Null | https://github.com/NirLevy98/bpftrace_backdoor_example | 0 | 0| 
+| 20221016T20:26:29Z | [CCS%22] Backdoor Attacks on Spiking NNs and Neuromorphic Datasets | https://github.com/GorkaAbad/NeuromorphicBackdoors | 2 | 0| 
+| 20221016T17:17:51Z | This tool is a undetectable Backdoor built using python | https://github.com/theonlyanson/Backdoor | 0 | 0| 
+| 20221016T14:55:15Z | Helium: Backdoor Framework | https://github.com/topsideduck/Helium | 1 | 0| 
 | 20221016T07:54:58Z | Null | https://github.com/VZsoldier/NSW-school-backdoor | 0 | 0| 
 | 20221016T04:40:21Z | SSH connection daemon for Debian/Raspbian/Ubuntu/etc | https://github.com/daradib/sidedoor | 109 | 19| 
-| 20221015T17:10:49Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 26 | 16| 
+| 20221015T17:10:49Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 26 | 17| 
 | 20221015T14:32:35Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 0 | 0| 
 | 20221015T09:51:18Z | Null | https://github.com/P-Pimentinha/backdoor | 0 | 0| 
 | 20221015T01:59:08Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 83 | 6| 
-| 20221014T23:51:11Z | A simple Windows Backdoor made in C | https://github.com/zummics/backdoor | 0 | 0| 
-| 20221014T23:26:57Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 39 | 17| 
-| 20221014T21:11:11Z | An open-source toolkit for textual backdoor attack and defense | https://github.com/thunlp/OpenBackdoor | 33 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -127,16 +127,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221016T12:55:38Z | Fuzzy controller project designed to estimate apartment price | https://github.com/Leenocktopus/fuzzy-controller | 0 | 0| 
-| 20221016T12:40:09Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1659 | 27| 
-| 20221016T12:16:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42349 | 21206| 
-| 20221016T10:14:07Z | Null | https://github.com/ONIZUKAGTO/TopoFuzzer | 0 | 0| 
-| 20221016T09:57:17Z | Null | https://github.com/zhangziyang301/Fuzzing | 0 | 0| 
-| 20221016T07:28:35Z | Null | https://github.com/LouQiongdan/Multilabel-Takagi-Sugeno-Kang-Fuzzy-System | 1 | 0| 
-| 20221016T07:19:55Z | Null | https://github.com/Heathermarie1989/fuzzy-train | 0 | 0| 
-| 20221016T05:40:31Z | Null | https://github.com/CheUhxg/FuzzNote | 1 | 0| 
-| 20221016T04:02:51Z | Null | https://github.com/Fuzzycyborg/fuzzycyborg | 0 | 0| 
-| 20221015T20:37:11Z | Null | https://github.com/Xicks/d-FuzzStream-Python-Experimental | 0 | 0| 
+| 20221016T23:59:38Z | A simple fuzz distorion vst3 & clap plugin.  | https://github.com/aizcutei/fuzz_test | 0 | 0| 
+| 20221016T23:53:06Z | Null | https://github.com/FuzzyFish1226/FuzzyFish1226.github.io | 0 | 0| 
+| 20221016T23:35:20Z | Null | https://github.com/Tony-St4rk/NOSQL_Fuzz_list | 0 | 0| 
+| 20221016T23:21:04Z | Null | https://github.com/bnaftali1/differentialFuzzer | 0 | 0| 
+| 20221016T22:25:44Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1665 | 27| 
+| 20221016T20:40:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7941 | 1724| 
+| 20221016T20:31:12Z | Null | https://github.com/alva531/Fuzzy-Logic | 0 | 0| 
+| 20221016T20:15:30Z | Null | https://github.com/idalina-sachango/chetty-hendren-fuzzy-matching | 0 | 0| 
+| 20221016T20:10:16Z | URL Shortner | https://github.com/bhavana-i/FuzzyURL | 0 | 0| 
+| 20221016T20:07:57Z | A Maven plugin for running and analyzing fuzzing campaigns | https://github.com/neu-se/meringue | 2 | 2| 
 
 
 
