@@ -74,7 +74,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221016T22:29:09Z | A symbolic execution tool to analyze Ethereum smart contracts | https://github.com/contractAnalysis/smartExecutor | 0 | 0| 
 | 20221016T22:01:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3156 | 444| 
-| 20221016T15:15:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2088 | 591| 
 | 20221016T02:14:34Z | Symbolic execution engine written in Solidity, based on Difference Logic. | https://github.com/leonardoalt/dl_symb_exec_sol | 75 | 2| 
 
 
