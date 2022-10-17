@@ -103,6 +103,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T00:34:18Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1237 | 57| 
 | 20221016T22:29:09Z | A symbolic execution tool to analyze Ethereum smart contracts | https://github.com/contractAnalysis/smartExecutor | 0 | 0| 
 | 20221016T22:01:06Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3156 | 444| 
 | 20221016T15:15:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2088 | 591| 
@@ -112,7 +113,6 @@
 | 20221015T08:38:40Z | Source of the Symbolic Execution-based Test Tool Evaluator (SETTE) | https://github.com/SETTE-Testing/sette-tool | 11 | 6| 
 | 20221015T03:41:25Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 257 | 63| 
 | 20221014T16:48:15Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 49 | 23| 
-| 20221014T09:02:18Z | A Unit-Based Symbolic Execution Method for Detecting Heap Overflow Vulnerability in Executable Codes | https://github.com/SoftwareSecurityLab/Heap-Overflow-Detection | 8 | 1| 
 
 
 # big4 on Github 推荐
