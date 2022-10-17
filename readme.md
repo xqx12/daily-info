@@ -93,10 +93,10 @@
 | 20221017T10:25:52Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1422 | 277| 
 | 20221017T09:44:41Z | Null | https://github.com/MasterKinjalk/C19-Prediction-Using-Fuzzy | 0 | 0| 
 | 20221017T09:15:37Z | Fuzzing corpus for https://github.com/andygrunwald/vdf | https://github.com/andygrunwald/vdf-fuzzing-corpus | 0 | 0| 
+| 20221017T06:57:12Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1486 | 261| 
 | 20221017T05:25:54Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 320 | 43| 
 | 20221017T01:57:05Z | Null | https://github.com/prethomas98/fuzzy-octo-guide | 0 | 0| 
 | 20221017T01:53:17Z | Null | https://github.com/alicia649/fuzzy-spork | 0 | 0| 
-| 20221017T00:51:42Z | K | https://github.com/Killerk6/fuzzy-guide | 0 | 0| 
 
 
 
