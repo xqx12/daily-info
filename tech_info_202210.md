@@ -17,38 +17,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221017 | Response中所隐藏的杀机---揭秘响应中所存在的脆弱点 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486620&idx=1&sn=d2a1e8fc2bb22ae66cdb8caccf769747&chksm=e8a606ffdfd18fe96568686377b5b54f8304ea21b9ca9bca231ccb90552a6a7cf6819cb56e17&token=471424595&lang=zh_CN#rd| 
+| 20221017 | SecWiki周刊（第450期) | https://www.sec-wiki.com/weekly/450| 
+| 20221017 | 最新CS RCE（CVE-2022-39197）复现心得分享 | https://mp.weixin.qq.com/s/89wXyPaSn3TYn4pmVdr-Mw| 
+| 20221017 | [HTB] Nunchucks Writeup | https://mp.weixin.qq.com/s/HPVEB8408-7NhuGzf9DGCg| 
+| 20221017 | 动静态结合分析非标准MD5算法及还原 | https://mp.weixin.qq.com/s/5ZbBEIh-JsyoscIWCqYJyw| 
 | 20221016 | 计算机教育中缺失的一课 | https://missing-semester-cn.github.io/| 
 | 20221015 | 推荐系统排序环节的特征Embedding建模 | https://zhuanlan.zhihu.com/p/573576653| 
 | 20221014 | 威胁情报：重要的与不重要的 | https://mp.weixin.qq.com/s/CSxUkgBb_8Did6bEpzBiaQ| 
 | 20221014 | IM钓鱼防御方案 | https://mp.weixin.qq.com/s/0Gs_7Ut4zGGUWQwQAy90jQ| 
 | 20221014 | 基于语音数据的实体和关系抽取 | https://zhuanlan.zhihu.com/p/573667782| 
-| 20221013 | 对5.6w条xray结果的简单分析 | https://mp.weixin.qq.com/s/vhNGTBq8owncjlWyPJ0XGA| 
-| 20221013 | Google云基础架构安全设计学习 | https://uxss.net/2022/10/12/Google%E4%BA%91%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E5%AE%89%E5%85%A8%E8%AE%BE%E8%AE%A1%E5%AD%A6%E4%B9%A0/| 
-| 20221013 | 域内用户Hash获取方式总结 | https://mp.weixin.qq.com/s/k-VUKcivMw3bncK5RW2Mvg| 
-| 20221013 | 你所不知道的CRLF---header中潜藏的漏洞 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486591&idx=1&sn=f0c62d1f070709bf13b3d75b8940dc2d&chksm=e8a6061cdfd18f0afa2f195a9a868341417ced28112c740f81945bfd12eb0ec55a49353b5938&token=1532783018&lang=zh_CN#rd| 
-| 20221012 | AWS S3 Bucket子域接管实现可信钓鱼服务攻击 | https://mp.weixin.qq.com/s/9BeHub6YCp0oM8jHrK6_dg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221016T23:51:46Z | CVE-2022-26134 | CVE-2022-26134 - Pre-Auth Remote Code Execution via OGNL Injection | https://github.com/Chocapikk/CVE-2022-26134 | | 
-| 20221016T19:11:03Z | CVE-2022-39802 | [CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution | https://github.com/redrays-io/CVE-2022-39802 | | 
-| 20221016T18:40:27Z | CVE-2022-39802 | [CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution | https://github.com/vah13/CVE-2022-39802 | | 
-| 20221016T16:58:26Z | CVE-2021-44103 | Null | https://github.com/paulotrindadec/CVE-2021-44103 | | 
-| 20221016T15:26:24Z | CVE-2021-46422 | Telesquare SDT-CW3B1 1.1.0 版本存在操作系统命令注入漏洞。远程攻击者可利用该漏洞在无需任何身份验证的情况下执行操作系统命令。 | https://github.com/kailing0220/CVE-2021-46422 | | 
-| 20221016T14:02:24Z | CVE-2022-40664 | Null | https://github.com/Jackey0/CVE-2022-40664 | | 
-| 20221016T13:37:05Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/kussamun55/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20221016T13:37:01Z | Cve-2022- | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/kussamun55/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221016T13:01:52Z | CVE-2021-46422 | 漏洞检测 | https://github.com/polerstar/CVE-2021-46422-poc | | 
-| 20221016T12:54:27Z | CVE-2022-40684 | Exploit for CVE-2022-40684 vulnerability | https://github.com/mohamedbenchikh/CVE-2022-40684 | | 
+| 20221017T11:59:25Z | CVE-2022-0824 | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | | 
+| 20221017T10:53:14Z | CVE-2022-36067 | vm2 sandbox remote code execution [mass adding] [payload send for botnets] | https://github.com/backcr4t/CVE-2022-36067-MASS-RCE | | 
+| 20221017T10:09:44Z | CVE-2022-40664 | Null | https://github.com/Jackey0/CVE-2022-40664 | | 
+| 20221017T09:55:44Z | CVE-2022-41082 | ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and a python wrapper to acieve RCE for Proxynotshell  | https://github.com/backcr4t/CVE-2022-41082-RCE | | 
+| 20221017T09:46:01Z | CVE-2022-24990 | Null | https://github.com/jsongmax/terraMaster-CVE-2022-24990 | | 
+| 20221017T09:46:00Z | CVE-2022-40684 | Null | https://github.com/jsongmax/Fortinet-CVE-2022-40684 | | 
+| 20221017T08:49:50Z | CVE-2022-40684 | Null | https://github.com/puckiestyle/CVE-2022-40684 | | 
+| 20221017T08:29:12Z | CVE-2022-3236 | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-MASS-RCE | | 
+| 20221017T08:22:14Z | cve-2022-37298 | CVE-2022-37298 Shinken Monitoring | https://github.com/dbyio/cve-2022-37298 | | 
+| 20221017T08:00:38Z | CVE-2022-39197 | Null | https://github.com/PyterSmithDarkGhost/CVE-2022-39197-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221017T01:36:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2089 | 591| 
-| 20221016T16:35:16Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 106 | 1| 
+| 20221017T10:56:09Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 107 | 1| 
+| 20221017T02:51:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 592| 
 | 20221016T03:11:36Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 162 | 50| 
 | 20221016T02:40:18Z | Null | https://github.com/Khori-Lee/klee_xfce | 0 | 0| 
 | 20221015T20:52:39Z | Null | https://github.com/oldyue/klee | 0 | 0| 
@@ -62,8 +62,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T05:44:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 260 | 63| 
 | 20221016T01:21:10Z | Null | https://github.com/KimKiHyun0206/S2E2 | 0 | 0| 
-| 20221015T03:41:25Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 257 | 63| 
 | 20221014T02:49:52Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 72 | 11| 
 | 20221012T06:45:27Z | A MakeCode project | https://github.com/Pascosit22E/s2e21-task-3 | 0 | 0| 
 | 20221012T06:39:28Z | A MakeCode project | https://github.com/PCMS-SPMNET3/s2e00task320221012 | 0 | 0| 
@@ -73,31 +73,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T11:59:25Z | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | 0 | 0| 
+| 20221017T11:44:39Z | [NeurIPS2022] FreGAN: Exploiting Frequency Components for Training GANs under Limited Data | https://github.com/kobeshegu/FreGAN_NeurIPS2022 | 26 | 1| 
+| 20221017T09:49:07Z | Null | https://github.com/Bl4ckM1rror/IP-Finder | 0 | 0| 
+| 20221017T09:32:19Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 3290 | 814| 
+| 20221017T08:29:12Z | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-MASS-RCE | 0 | 0| 
+| 20221017T05:39:13Z | Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ] | https://github.com/Chocapikk/CVE-2022-40684 | 2 | 3| 
+| 20221017T03:43:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3687 | 449| 
 | 20221017T01:13:46Z | Remake of the KRNL Exploit with a custom UI. Not officially partnered with KRNL | https://github.com/Jsuth-2007/KRNLZ | 0 | 0| 
 | 20221017T00:58:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3585 | 259| 
 | 20221017T00:52:01Z | Embedded intelligent Arduino programs as combination of hardware and software in Robotic buggy. Exploited various types of sensors features to enhance the performance. Fulfilled the challenges corresponding to various paths and hurdles. | https://github.com/umar-tariq-wani/Buggy-Project-Engineering-Design- | 1 | 0| 
-| 20221017T00:50:06Z | Embedded intelligent Arduino programs as combination of hardware and software in Robotic buggy. Exploited various types of sensors features to enhance the performance. Fulfilled the challenges corresponding to various paths and hurdles. | https://github.com/umartariq361/Buggy-Project-Engineering-Design- | 0 | 0| 
-| 20221017T00:47:38Z | A Azure Exploitation Toolkit for Red Team & Pentesters | https://github.com/SikretaLabs/BlueMap | 0 | 0| 
-| 20221017T00:04:11Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8 | 1 | 0| 
-| 20221017T00:03:18Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8 | 1 | 0| 
-| 20221017T00:02:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8 | 1 | 0| 
-| 20221016T22:35:06Z | NeoExploit is a exploit for roblox that mainly uses WRD api and is planning on moving to krnl api / easyexploits. | https://github.com/captchassucks/NeoExploit | 0 | 0| 
-| 20221016T21:50:49Z | Get Custom Discord level 3 vanity invite link | https://github.com/girlhefunnyaf44/Discord-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T08:49:16Z | FUD windows backdoor | https://github.com/Chocapikk/FUD | 0 | 0| 
+| 20221017T07:53:52Z | Backdoor RAT written in Rust with the discord API | https://github.com/DeanCash/discord-RAT-rust | 0 | 0| 
+| 20221017T06:15:35Z | Null | https://github.com/VertexVstore/Python_Backdoor | 0 | 0| 
+| 20221017T06:10:09Z | Null | https://github.com/VertexVstore/C_Backdoor | 0 | 0| 
 | 20221017T01:05:46Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 585 | 114| 
 | 20221016T22:28:10Z | Null | https://github.com/NirLevy98/bpftrace_backdoor_example | 0 | 0| 
 | 20221016T20:26:29Z | [CCS%22] Backdoor Attacks on Spiking NNs and Neuromorphic Datasets | https://github.com/GorkaAbad/NeuromorphicBackdoors | 2 | 0| 
-| 20221016T17:17:51Z | This tool is a undetectable Backdoor built using python | https://github.com/theonlyanson/Backdoor | 0 | 0| 
+| 20221016T17:17:51Z | This tool is a undetectable Backdoor built using python | https://github.com/theonlyanson/Backdoor | 0 | 1| 
 | 20221016T14:55:15Z | Helium: Backdoor Framework | https://github.com/topsideduck/Helium | 1 | 0| 
 | 20221016T07:54:58Z | Null | https://github.com/VZsoldier/NSW-school-backdoor | 0 | 0| 
-| 20221016T04:40:21Z | SSH connection daemon for Debian/Raspbian/Ubuntu/etc | https://github.com/daradib/sidedoor | 109 | 19| 
-| 20221015T17:10:49Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 26 | 17| 
-| 20221015T14:32:35Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 0 | 0| 
-| 20221015T09:51:18Z | Null | https://github.com/P-Pimentinha/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
