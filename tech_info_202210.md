@@ -73,6 +73,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T00:04:11Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-8 | 1 | 0| 
 | 20221017T00:03:18Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-8 | 1 | 0| 
 | 20221017T00:02:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-8 | 1 | 0| 
 | 20221016T22:35:06Z | NeoExploit is a exploit for roblox that mainly uses WRD api and is planning on moving to krnl api / easyexploits. | https://github.com/captchassucks/NeoExploit | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20221016T20:19:40Z | 🃏 Batch File for spoofing and delete track files Easy-Anti Cheat | https://github.com/Fnoberz/Apex-Spoofer | 57 | 22| 
 | 20221016T19:11:03Z | [CVE-2022-39802] File path traversal vulnerability in SAP Manufacturing Execution | https://github.com/redrays-io/CVE-2022-39802 | 0 | 0| 
 | 20221016T18:58:55Z | slythe doxxer is a simple exe that uses the new discord exploit | https://github.com/sUgarhax/slithedoxxer | 0 | 0| 
-| 20221016T18:37:57Z | Null | https://github.com/Gohanckz/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -127,11 +127,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T00:04:36Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1666 | 27| 
 | 20221016T23:59:38Z | A simple fuzz distorion vst3 & clap plugin.  | https://github.com/aizcutei/fuzz_test | 0 | 0| 
 | 20221016T23:53:06Z | Null | https://github.com/FuzzyFish1226/FuzzyFish1226.github.io | 0 | 0| 
 | 20221016T23:35:20Z | Null | https://github.com/Tony-St4rk/NOSQL_Fuzz_list | 0 | 0| 
 | 20221016T23:21:04Z | Null | https://github.com/bnaftali1/differentialFuzzer | 0 | 0| 
-| 20221016T22:25:44Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1665 | 27| 
 | 20221016T20:40:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7941 | 1724| 
 | 20221016T20:31:12Z | Null | https://github.com/alva531/Fuzzy-Logic | 0 | 0| 
 | 20221016T20:15:30Z | Null | https://github.com/idalina-sachango/chetty-hendren-fuzzy-matching | 0 | 0| 

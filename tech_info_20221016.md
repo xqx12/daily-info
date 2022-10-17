@@ -91,12 +91,12 @@
 | 20221016T23:53:06Z | Null | https://github.com/FuzzyFish1226/FuzzyFish1226.github.io | 0 | 0| 
 | 20221016T23:35:20Z | Null | https://github.com/Tony-St4rk/NOSQL_Fuzz_list | 0 | 0| 
 | 20221016T23:21:04Z | Null | https://github.com/bnaftali1/differentialFuzzer | 0 | 0| 
-| 20221016T22:25:44Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1665 | 27| 
 | 20221016T20:40:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7941 | 1724| 
 | 20221016T20:31:12Z | Null | https://github.com/alva531/Fuzzy-Logic | 0 | 0| 
 | 20221016T20:15:30Z | Null | https://github.com/idalina-sachango/chetty-hendren-fuzzy-matching | 0 | 0| 
 | 20221016T20:10:16Z | URL Shortner | https://github.com/bhavana-i/FuzzyURL | 0 | 0| 
 | 20221016T20:07:57Z | A Maven plugin for running and analyzing fuzzing campaigns | https://github.com/neu-se/meringue | 2 | 2| 
+| 20221016T15:33:38Z | Asynchronous fuzzy finder in vim9script | https://github.com/kohnish/vim9-fuzzy | 4 | 0| 
 
 
 
