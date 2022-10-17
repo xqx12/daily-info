@@ -88,6 +88,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221017T01:05:46Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 585 | 114| 
 | 20221016T22:28:10Z | Null | https://github.com/NirLevy98/bpftrace_backdoor_example | 0 | 0| 
 | 20221016T20:26:29Z | [CCS%22] Backdoor Attacks on Spiking NNs and Neuromorphic Datasets | https://github.com/GorkaAbad/NeuromorphicBackdoors | 2 | 0| 
 | 20221016T17:17:51Z | This tool is a undetectable Backdoor built using python | https://github.com/theonlyanson/Backdoor | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20221015T17:10:49Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 26 | 17| 
 | 20221015T14:32:35Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 0 | 0| 
 | 20221015T09:51:18Z | Null | https://github.com/P-Pimentinha/backdoor | 0 | 0| 
-| 20221015T01:59:08Z | pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 83 | 6| 
 
 
 # symbolic execution on Github 推荐
