@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T12:49:47Z | my java exploits | https://github.com/plainsight16/java_escapades | 0 | 0| 
 | 20221018T12:38:16Z | Repo to contain all my java exploits | https://github.com/plainsight16/java_projects | 0 | 0| 
 | 20221018T11:59:13Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 93 | 11| 
 | 20221018T10:46:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3689 | 449| 
@@ -55,7 +56,6 @@
 | 20221018T08:53:17Z | Exploitation Tool for CVE-2017-3066 targeting Adobe Coldfusion 11/12 | https://github.com/codewhitesec/ColdFusionPwn | 84 | 30| 
 | 20221018T08:52:42Z | Null | https://github.com/codewhitesec/groovy-2.4.5-exploit | 10 | 5| 
 | 20221018T08:52:08Z | Exploit for SAP P4 Java Deserialization (http://codewhitesec.blogspot.com/2017/05/sap-customers-make-sure-your-sapjvm-is.html) | https://github.com/codewhitesec/sap-p4-java-deserialization-exploit | 8 | 5| 
-| 20221018T08:31:01Z | Null | https://github.com/PattateDouce/SAE-S2-04-Exploitation-BD | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -82,6 +82,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T12:50:22Z | Null | https://github.com/SpaceNaN/fuzzjit | 7 | 2| 
+| 20221018T12:49:54Z | Simple flexible rust library and program (fuzzerk) to test input processing of programs over console/file/tls/tcp transparently using structured and controlled random and or predefined data. Also contains app specific vm and scripting language to allow fuzzerk operations to be controlled in a fine grained manner. | https://github.com/hanishkvc/prgs-rustland-tester-fuzzerk | 0 | 0| 
 | 20221018T12:35:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4392 | 1060| 
 | 20221018T12:33:59Z | Null | https://github.com/LFKoning/fuzzy_match | 0 | 0| 
 | 20221018T12:21:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1066 | 130| 
@@ -90,8 +92,6 @@
 | 20221018T09:32:02Z | Null | https://github.com/anjasdamina/fuzzy | 0 | 0| 
 | 20221018T08:54:48Z | Null | https://github.com/scuzyx/dataset-of-DyFuzz | 0 | 0| 
 | 20221018T07:29:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7949 | 1723| 
-| 20221018T06:31:11Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 321 | 43| 
-| 20221018T01:47:01Z | fuzzy sets, fuzzy numbers, fuzzy fuzzy fuzzy... | https://github.com/kessler/fuzzy-math | 0 | 0| 
 
 
 
