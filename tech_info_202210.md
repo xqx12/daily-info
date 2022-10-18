@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221018T12:34:37Z | CVE-2022-42889 | CVE-2022-42889 sample application (Apache Commons Text RCE) | https://github.com/standb/CVE-2022-42889 | | 
+| 20221018T12:35:44Z | CVE-2022-42889 | CVE-2022-42889 dockerized sample application (Apache Commons Text RCE) | https://github.com/standb/CVE-2022-42889 | | 
 | 20221018T12:26:25Z | CVE-2022-27502 | Exploit of RealVNC VNC Server | https://github.com/alirezac0/CVE-2022-27502 | | 
 | 20221018T12:05:18Z | cve-2022-42889 | Dockerized POC for CVE-2022-42889 Text4Shell | https://github.com/karthikuj/cve-2022-42889-text4shell-docker | | 
 | 20221018T10:38:34Z | CVE-2022-3368 | Null | https://github.com/Wh04m1001/CVE-2022-3368 | | 
@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T12:38:16Z | Repo to contain all my java exploits | https://github.com/plainsight16/java_projects | 0 | 0| 
 | 20221018T11:59:13Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 93 | 11| 
 | 20221018T10:46:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3689 | 449| 
 | 20221018T10:45:50Z | Weblogic exploit | https://github.com/lucy9x/WLExploit | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20221018T08:52:42Z | Null | https://github.com/codewhitesec/groovy-2.4.5-exploit | 10 | 5| 
 | 20221018T08:52:08Z | Exploit for SAP P4 Java Deserialization (http://codewhitesec.blogspot.com/2017/05/sap-customers-make-sure-your-sapjvm-is.html) | https://github.com/codewhitesec/sap-p4-java-deserialization-exploit | 8 | 5| 
 | 20221018T08:31:01Z | Null | https://github.com/PattateDouce/SAE-S2-04-Exploitation-BD | 0 | 0| 
-| 20221018T08:16:50Z | Null | https://github.com/S71btR/Redis-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
