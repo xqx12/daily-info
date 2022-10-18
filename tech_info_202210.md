@@ -127,6 +127,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T01:45:54Z | fuzzy sets, fuzzy numbers, fuzzy fuzzy fuzzy... | https://github.com/kessler/fuzzy-math | 0 | 0| 
 | 20221017T22:02:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7948 | 1723| 
 | 20221017T21:42:52Z | Null | https://github.com/hoooowsh/broadcast-fuzzer | 0 | 0| 
 | 20221017T21:22:45Z | Match lines of a text file against another text file with optional additional fields | https://github.com/IMSA-ITS/fuzzy-match | 0 | 0| 
@@ -136,7 +137,6 @@
 | 20221017T17:57:34Z | This is short wordlist of my own making for directory web fuzzing | https://github.com/botesjuan/0-common-with-mylist | 0 | 0| 
 | 20221017T16:08:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2608 | 176| 
 | 20221017T12:45:44Z | Null | https://github.com/FuzzyFish1226/FuzzyFish1226.github.io | 0 | 0| 
-| 20221017T12:41:27Z | Null | https://github.com/orkanadrx/fuzzy-dollop | 0 | 0| 
 
 
 
