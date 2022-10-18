@@ -34,7 +34,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221018T12:11:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 261 | 46| 
+| 20221018T12:11:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 261 | 47| 
 
 
 # s2e on Github 推荐
@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T12:21:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1066 | 130| 
 | 20221018T11:53:21Z | Need inspiration? How about fuzzy-parakeet? | https://github.com/Monicagomez45/fuzzy-parakeet- | 0 | 0| 
 | 20221018T10:15:38Z | Null | https://github.com/lobziik/kube_api_fuzz | 0 | 0| 
 | 20221018T09:32:02Z | Null | https://github.com/anjasdamina/fuzzy | 0 | 0| 

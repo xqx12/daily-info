@@ -47,7 +47,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221018T12:11:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 261 | 46| 
+| 20221018T12:11:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 261 | 47| 
 | 20221017T10:56:09Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 107 | 1| 
 | 20221017T02:51:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 592| 
 | 20221016T03:11:36Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 162 | 50| 
@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T12:21:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1066 | 130| 
 | 20221018T11:53:21Z | Need inspiration? How about fuzzy-parakeet? | https://github.com/Monicagomez45/fuzzy-parakeet- | 0 | 0| 
 | 20221018T10:15:38Z | Null | https://github.com/lobziik/kube_api_fuzz | 0 | 0| 
 | 20221018T09:32:02Z | Null | https://github.com/anjasdamina/fuzzy | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20221018T01:47:01Z | fuzzy sets, fuzzy numbers, fuzzy fuzzy fuzzy... | https://github.com/kessler/fuzzy-math | 0 | 0| 
 | 20221018T01:38:43Z | Null | https://github.com/SpaceNaN/fuzzjit | 6 | 2| 
 | 20221017T21:42:52Z | Null | https://github.com/hoooowsh/broadcast-fuzzer | 0 | 0| 
-| 20221017T21:22:45Z | Match lines of a text file against another text file with optional additional fields | https://github.com/IMSA-ITS/fuzzy-match | 0 | 0| 
 
 
 
