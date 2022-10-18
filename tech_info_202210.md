@@ -73,6 +73,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T00:10:24Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
+| 20221018T00:09:30Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20221017T23:49:35Z | Post-Exploitation script to exfiltrate 7-zip files | https://github.com/Qeisi/7-ZipPostExp | 1 | 1| 
 | 20221017T23:15:20Z | Config files for my GitHub profile. | https://github.com/ItsJustExploits/ItsJustExploits | 0 | 0| 
 | 20221017T23:15:16Z | RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements. | https://github.com/ihebski/A-Red-Teamer-diaries | 966 | 194| 
@@ -81,8 +83,6 @@
 | 20221017T21:40:59Z | NeoExploit is a exploit for roblox that mainly uses WRD api and is planning on moving to krnl api / easyexploits. | https://github.com/captchassucks/NeoExploit | 0 | 0| 
 | 20221017T21:17:05Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Vitallity1339/Nyve-Keyless-Roblox-Premium-Exploit | 16 | 0| 
 | 20221017T21:09:37Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 30 | 19| 
-| 20221017T16:40:54Z | The course provides students with knowledge and skills to program in Python language, exploiting modern tools, libraries, and computing platforms based on Python, in order to develop and apply machine learning methods effectively. | https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning | 0 | 0| 
-| 20221017T12:48:29Z | Null | https://github.com/Bl4ckM1rror/IP-Finder | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -103,7 +103,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221017T12:55:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3158 | 444| 
+| 20221017T12:55:04Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3158 | 446| 
 | 20221017T03:14:20Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1238 | 57| 
 | 20221017T02:51:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 592| 
 | 20221016T22:29:09Z | A symbolic execution tool to analyze Ethereum smart contracts | https://github.com/contractAnalysis/smartExecutor | 0 | 0| 
