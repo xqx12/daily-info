@@ -22,15 +22,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20221017T21:45:59Z | CVE-2022-33980 | POC for CVE-2022-33980 (Apache Commons Configuration RCE vulnerability) | https://github.com/sammwyy/CVE-2022-33980-POC | | 
-| 20221017T19:01:27Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 | https://github.com/SeanWrightSec/CVE-2022-42889-PoC | | 
 | 20221017T18:56:57Z | CVE-2022-42889 | Mass exploitation tool for CVE-2022-42889 (Apache Commons Text RCE) supports list of ips | https://github.com/pr0n3d/CVE-2022-42889-MASS-RCE | | 
 | 20221017T18:42:00Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2022_21882-cve_2021_1732 | | 
 | 20221017T16:58:42Z | CVE-2022-42889 | CVE-2022-42889 sample application (Apache Commons Text RCE) | https://github.com/standb/CVE-2022-42889 | | 
-| 20221017T12:05:06Z | CVE-2022-0824 | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | | 
 | 20221017T11:39:17Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/MSD-Gaming/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20221017T10:53:14Z | CVE-2022-36067 | vm2 sandbox remote code execution [mass adding] [payload send for botnets] | https://github.com/backcr4t/CVE-2022-36067-MASS-RCE | | 
 | 20221017T10:09:44Z | CVE-2022-40664 | Null | https://github.com/Jackey0/CVE-2022-40664 | | 
-| 20221017T09:55:44Z | CVE-2022-41082 | ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and a python wrapper to acieve RCE for Proxynotshell  | https://github.com/backcr4t/CVE-2022-41082-RCE | | 
+| 20221017T09:46:01Z | CVE-2022-24990 | Null | https://github.com/jsongmax/terraMaster-CVE-2022-24990 | | 
+| 20221017T09:46:00Z | CVE-2022-40684 | Null | https://github.com/jsongmax/Fortinet-CVE-2022-40684 | | 
+| 20221017T08:49:50Z | CVE-2022-40684 | Null | https://github.com/puckiestyle/CVE-2022-40684 | | 
+| 20221017T08:22:14Z | cve-2022-37298 | CVE-2022-37298 Shinken Monitoring | https://github.com/dbyio/cve-2022-37298 | | 
 
 
 # klee on Github 推荐
