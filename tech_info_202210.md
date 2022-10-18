@@ -32,6 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221018T12:34:37Z | CVE-2022-42889 | CVE-2022-42889 sample application (Apache Commons Text RCE) | https://github.com/standb/CVE-2022-42889 | | 
 | 20221018T12:26:25Z | CVE-2022-27502 | Exploit of RealVNC VNC Server | https://github.com/alirezac0/CVE-2022-27502 | | 
 | 20221018T12:05:18Z | cve-2022-42889 | Dockerized POC for CVE-2022-42889 Text4Shell | https://github.com/karthikuj/cve-2022-42889-text4shell-docker | | 
 | 20221018T10:38:34Z | CVE-2022-3368 | Null | https://github.com/Wh04m1001/CVE-2022-3368 | | 
@@ -41,7 +42,6 @@
 | 20221018T03:27:54Z | CVE-2022-0824 | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | | 
 | 20221018T01:08:29Z | CVE-2022-36067 | vm2 sandbox remote code execution [mass adding] [payload send for botnets] | https://github.com/backcr4t/CVE-2022-36067-MASS-RCE | | 
 | 20221018T01:08:27Z | CVE-2022-41082 | ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and a python wrapper to acieve RCE for Proxynotshell  | https://github.com/backcr4t/CVE-2022-41082-RCE | | 
-| 20221018T01:08:25Z | CVE-2022-3236 | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-MASS-RCE | | 
 
 
 # klee on Github 推荐
@@ -128,6 +128,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T12:35:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4392 | 1060| 
+| 20221018T12:33:59Z | Null | https://github.com/LFKoning/fuzzy_match | 0 | 0| 
 | 20221018T12:21:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1066 | 130| 
 | 20221018T11:53:21Z | Need inspiration? How about fuzzy-parakeet? | https://github.com/Monicagomez45/fuzzy-parakeet- | 0 | 0| 
 | 20221018T10:15:38Z | Null | https://github.com/lobziik/kube_api_fuzz | 0 | 0| 
@@ -136,8 +138,6 @@
 | 20221018T07:29:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7949 | 1723| 
 | 20221018T06:31:11Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 321 | 43| 
 | 20221018T01:47:01Z | fuzzy sets, fuzzy numbers, fuzzy fuzzy fuzzy... | https://github.com/kessler/fuzzy-math | 0 | 0| 
-| 20221018T01:38:43Z | Null | https://github.com/SpaceNaN/fuzzjit | 6 | 2| 
-| 20221017T21:42:52Z | Null | https://github.com/hoooowsh/broadcast-fuzzer | 0 | 0| 
 
 
 
