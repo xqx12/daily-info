@@ -67,6 +67,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T10:43:31Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 24 | 5| 
+| 20221018T09:28:37Z | GenSym, a compiler for parallel symbolic execution of LLVM | https://github.com/Generative-Program-Analysis/GenSym | 10 | 0| 
+| 20221018T09:02:36Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3161 | 446| 
+| 20221018T05:17:07Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1237 | 57| 
 
 
 # big4 on Github 推荐
