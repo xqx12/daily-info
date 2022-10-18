@@ -73,7 +73,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221018T00:10:24Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-l | 0 | 0| 
+| 20221018T00:11:50Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l | 1 | 0| 
+| 20221018T00:10:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20221018T00:09:30Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20221017T23:49:35Z | Post-Exploitation script to exfiltrate 7-zip files | https://github.com/Qeisi/7-ZipPostExp | 1 | 1| 
 | 20221017T23:15:20Z | Config files for my GitHub profile. | https://github.com/ItsJustExploits/ItsJustExploits | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20221017T22:25:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4965 | 684| 
 | 20221017T21:40:59Z | NeoExploit is a exploit for roblox that mainly uses WRD api and is planning on moving to krnl api / easyexploits. | https://github.com/captchassucks/NeoExploit | 0 | 0| 
 | 20221017T21:17:05Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Vitallity1339/Nyve-Keyless-Roblox-Premium-Exploit | 16 | 0| 
-| 20221017T21:09:37Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 30 | 19| 
 
 
 # backdoor on Github 推荐
