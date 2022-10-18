@@ -17,6 +17,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221018 | 我在人间凑数的日子---网恋篇（一） | https://www.sec-in.com/article/1568| 
+| 20221018 | 为了上网,我黑了酒店上网管理系统并脱下酒店/网管的“内裤” | https://mp.weixin.qq.com/s/CmSFNwP3xDR5OmE8uPDkcw| 
+| 20221018 | 【安全练兵场】, BurpSuite靶场系列之SQL注入 | https://mp.weixin.qq.com/s/RqB-vMifxn0-4hrn0OEoHQ| 
 | 20221017 | Response中所隐藏的杀机---揭秘响应中所存在的脆弱点 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486620&idx=1&sn=d2a1e8fc2bb22ae66cdb8caccf769747&chksm=e8a606ffdfd18fe96568686377b5b54f8304ea21b9ca9bca231ccb90552a6a7cf6819cb56e17&token=471424595&lang=zh_CN#rd| 
 | 20221017 | SecWiki周刊（第450期) | https://www.sec-wiki.com/weekly/450| 
 | 20221017 | 最新CS RCE（CVE-2022-39197）复现心得分享 | https://mp.weixin.qq.com/s/89wXyPaSn3TYn4pmVdr-Mw| 
@@ -24,24 +27,21 @@
 | 20221017 | 动静态结合分析非标准MD5算法及还原 | https://mp.weixin.qq.com/s/5ZbBEIh-JsyoscIWCqYJyw| 
 | 20221016 | 计算机教育中缺失的一课 | https://missing-semester-cn.github.io/| 
 | 20221015 | 推荐系统排序环节的特征Embedding建模 | https://zhuanlan.zhihu.com/p/573576653| 
-| 20221014 | 威胁情报：重要的与不重要的 | https://mp.weixin.qq.com/s/CSxUkgBb_8Did6bEpzBiaQ| 
-| 20221014 | IM钓鱼防御方案 | https://mp.weixin.qq.com/s/0Gs_7Ut4zGGUWQwQAy90jQ| 
-| 20221014 | 基于语音数据的实体和关系抽取 | https://zhuanlan.zhihu.com/p/573667782| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221018T01:08:31Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 | https://github.com/SeanWrightSec/CVE-2022-42889-PoC | | 
-| 20221018T01:08:30Z | CVE-2022-0824 | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | | 
+| 20221018T11:54:21Z | cve-2022-42889 | Dockerized POC for CVE-2022-42889 Text4Shell | https://github.com/karthikuj/cve-2022-42889-text4shell-docker | | 
+| 20221018T10:38:34Z | CVE-2022-3368 | Null | https://github.com/Wh04m1001/CVE-2022-3368 | | 
+| 20221018T10:13:00Z | CVE-2022-27502 | Exploit of RealVNC VNC Server | https://github.com/alirezac0/CVE-2022-27502 | | 
+| 20221018T09:15:41Z | CVE-2022-40684 | Null | https://github.com/jsongmax/Fortinet-CVE-2022-40684 | | 
+| 20221018T09:15:22Z | CVE-2022-24990 | Null | https://github.com/jsongmax/terraMaster-CVE-2022-24990 | | 
+| 20221018T09:03:03Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 | https://github.com/SeanWrightSec/CVE-2022-42889-PoC | | 
+| 20221018T03:27:54Z | CVE-2022-0824 | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | | 
 | 20221018T01:08:29Z | CVE-2022-36067 | vm2 sandbox remote code execution [mass adding] [payload send for botnets] | https://github.com/backcr4t/CVE-2022-36067-MASS-RCE | | 
 | 20221018T01:08:27Z | CVE-2022-41082 | ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and a python wrapper to acieve RCE for Proxynotshell  | https://github.com/backcr4t/CVE-2022-41082-RCE | | 
 | 20221018T01:08:25Z | CVE-2022-3236 | CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/n0npro/CVE-2022-3236-MASS-RCE | | 
-| 20221017T21:45:59Z | CVE-2022-33980 | POC for CVE-2022-33980 (Apache Commons Configuration RCE vulnerability) | https://github.com/sammwyy/CVE-2022-33980-POC | | 
-| 20221017T18:56:57Z | CVE-2022-42889 | Mass exploitation tool for CVE-2022-42889 (Apache Commons Text RCE) supports list of ips | https://github.com/pr0n3d/CVE-2022-42889-MASS-RCE | | 
-| 20221017T18:42:00Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2022_21882-cve_2021_1732 | | 
-| 20221017T16:58:42Z | CVE-2022-42889 | CVE-2022-42889 sample application (Apache Commons Text RCE) | https://github.com/standb/CVE-2022-42889 | | 
-| 20221017T11:39:17Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/MSD-Gaming/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 
 
 # klee on Github 推荐
@@ -62,6 +62,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T11:33:07Z | Null | https://github.com/pgonline123/s2eYav1YyM | 0 | 0| 
 | 20221017T05:44:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 260 | 63| 
 | 20221016T01:21:10Z | Null | https://github.com/KimKiHyun0206/S2E2 | 0 | 0| 
 | 20221014T02:49:52Z | The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more! | https://github.com/SQLab/CRAXplusplus | 72 | 11| 
@@ -73,21 +74,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221018T01:11:41Z | Adaptive Differential Evolution based on Exploration and Exploitation Control | https://github.com/sustech-opal/aeec-de | 0 | 0| 
-| 20221018T00:11:50Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-l | 1 | 0| 
-| 20221018T00:10:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-l | 1 | 0| 
-| 20221018T00:09:30Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
-| 20221017T23:49:35Z | Post-Exploitation script to exfiltrate 7-zip files | https://github.com/Qeisi/7-ZipPostExp | 1 | 1| 
-| 20221017T23:15:20Z | Config files for my GitHub profile. | https://github.com/ItsJustExploits/ItsJustExploits | 0 | 0| 
-| 20221017T23:15:16Z | RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements. | https://github.com/ihebski/A-Red-Teamer-diaries | 966 | 194| 
-| 20221017T22:59:14Z | roblox rec exploit | https://github.com/ArtisticCloud/rec- | 0 | 0| 
-| 20221017T22:25:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4965 | 684| 
-| 20221017T21:40:59Z | NeoExploit is a exploit for roblox that mainly uses WRD api and is planning on moving to krnl api / easyexploits. | https://github.com/captchassucks/NeoExploit | 0 | 0| 
+| 20221018T11:59:13Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 93 | 11| 
+| 20221018T10:46:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3689 | 449| 
+| 20221018T10:45:50Z | Weblogic exploit | https://github.com/lucy9x/WLExploit | 0 | 0| 
+| 20221018T10:09:05Z | Instagram bruteforce exploit module | https://github.com/readloud/InstaBrute | 0 | 0| 
+| 20221018T08:54:12Z | Simple delegatecall solidity exploit. | https://github.com/XabierOterino/Delegatecall-Exploit | 0 | 0| 
+| 20221018T08:53:17Z | Exploitation Tool for CVE-2017-3066 targeting Adobe Coldfusion 11/12 | https://github.com/codewhitesec/ColdFusionPwn | 84 | 30| 
+| 20221018T08:52:42Z | Null | https://github.com/codewhitesec/groovy-2.4.5-exploit | 10 | 5| 
+| 20221018T08:52:08Z | Exploit for SAP P4 Java Deserialization (http://codewhitesec.blogspot.com/2017/05/sap-customers-make-sure-your-sapjvm-is.html) | https://github.com/codewhitesec/sap-p4-java-deserialization-exploit | 8 | 5| 
+| 20221018T08:31:01Z | Null | https://github.com/PattateDouce/SAE-S2-04-Exploitation-BD | 0 | 0| 
+| 20221018T08:16:50Z | Null | https://github.com/S71btR/Redis-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T10:16:45Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 410 | 51| 
+| 20221018T04:54:42Z | [NeurIPS%22] Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork. Haotao Wang, Junyuan Hong, Aston Zhang, Jiayu Zhou, Zhangyang Wang | https://github.com/VITA-Group/Trap-and-Replace-Backdoor-Defense | 0 | 0| 
 | 20221017T17:54:08Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 1 | 0| 
 | 20221017T13:05:25Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 586 | 115| 
 | 20221017T08:49:16Z | FUD windows backdoor | https://github.com/Chocapikk/FUD | 0 | 0| 
@@ -96,8 +99,6 @@
 | 20221017T06:10:09Z | Null | https://github.com/VertexVstore/C_Backdoor | 0 | 0| 
 | 20221016T22:28:10Z | Null | https://github.com/NirLevy98/bpftrace_backdoor_example | 0 | 0| 
 | 20221016T20:26:29Z | [CCS%22] Backdoor Attacks on Spiking NNs and Neuromorphic Datasets | https://github.com/GorkaAbad/NeuromorphicBackdoors | 2 | 0| 
-| 20221016T17:17:51Z | This tool is a undetectable Backdoor built using python | https://github.com/theonlyanson/Backdoor | 0 | 1| 
-| 20221016T14:55:15Z | Helium: Backdoor Framework | https://github.com/topsideduck/Helium | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -127,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T11:53:21Z | Need inspiration? How about fuzzy-parakeet? | https://github.com/Monicagomez45/fuzzy-parakeet- | 0 | 0| 
+| 20221018T10:15:38Z | Null | https://github.com/lobziik/kube_api_fuzz | 0 | 0| 
+| 20221018T09:32:02Z | Null | https://github.com/anjasdamina/fuzzy | 0 | 0| 
+| 20221018T08:54:48Z | Null | https://github.com/scuzyx/dataset-of-DyFuzz | 0 | 0| 
+| 20221018T07:29:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7949 | 1723| 
+| 20221018T06:31:11Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 321 | 43| 
 | 20221018T01:47:01Z | fuzzy sets, fuzzy numbers, fuzzy fuzzy fuzzy... | https://github.com/kessler/fuzzy-math | 0 | 0| 
-| 20221017T22:02:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7948 | 1723| 
+| 20221018T01:38:43Z | Null | https://github.com/SpaceNaN/fuzzjit | 6 | 2| 
 | 20221017T21:42:52Z | Null | https://github.com/hoooowsh/broadcast-fuzzer | 0 | 0| 
 | 20221017T21:22:45Z | Match lines of a text file against another text file with optional additional fields | https://github.com/IMSA-ITS/fuzzy-match | 0 | 0| 
-| 20221017T20:05:41Z | Config files for my GitHub profile. | https://github.com/fuzzy-mcfuzzface/fuzzy-mcfuzzface | 0 | 0| 
-| 20221017T19:50:25Z | Null | https://github.com/9host1st/simpleFuzzingMachine | 0 | 0| 
-| 20221017T19:09:18Z | Null | https://github.com/Devuuuuuu/fuzzy-octo-waddle | 0 | 0| 
-| 20221017T17:57:34Z | This is short wordlist of my own making for directory web fuzzing | https://github.com/botesjuan/0-common-with-mylist | 0 | 0| 
-| 20221017T16:08:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2608 | 176| 
-| 20221017T12:45:44Z | Null | https://github.com/FuzzyFish1226/FuzzyFish1226.github.io | 0 | 0| 
 
 
 
