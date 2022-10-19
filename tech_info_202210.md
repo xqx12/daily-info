@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221019T00:17:03Z | 💼 Batch file Remove trace file + server log and registy / clean | https://github.com/Fnoberz/Fivem-Spoofer | 35 | 10| 
 | 20221018T23:57:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-- | 1 | 0| 
 | 20221018T23:57:15Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-- | 1 | 0| 
 | 20221018T23:56:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-- | 1 | 0| 
@@ -82,7 +83,6 @@
 | 20221018T23:16:56Z | ⚔️ Aimbot + Esp For multiplayer / with instructions for use | https://github.com/Fnoberz/Rust-internal | 20 | 6| 
 | 20221018T23:12:06Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 29 | 16| 
 | 20221018T23:11:40Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 30 | 19| 
-| 20221018T23:08:14Z | 💼 Batch file Remove trace file + server log and registy / clean | https://github.com/Fnoberz/Fivem-Spoofer | 36 | 10| 
 | 20221018T23:07:41Z | 😎 C++ External Fortnite Full Aimbot Smooth , A Free open source | https://github.com/Fnoberz/Fortnite-External | 45 | 21| 
 
 
