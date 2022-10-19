@@ -67,6 +67,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221019T10:45:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3163 | 446| 
+| 20221019T07:59:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2091 | 592| 
+| 20221019T07:05:36Z | Some intro into symbolic execution using K-framework and z3 | https://github.com/vasil-sd/symbolic-execution | 0 | 0| 
+| 20221019T02:52:52Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1238 | 57| 
 
 
 # big4 on Github 推荐
