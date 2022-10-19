@@ -24,13 +24,13 @@
 | 20221018T23:32:11Z | CVE-2022-42889 | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | | 
 | 20221018T21:14:15Z | cve-2022-42889 | Dockerized POC for CVE-2022-42889 Text4Shell | https://github.com/karthikuj/cve-2022-42889-text4shell-docker | | 
 | 20221018T20:50:21Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 | https://github.com/SeanWrightSec/CVE-2022-42889-PoC | | 
-| 20221018T19:54:01Z | CVE-2022-42889 | CVE-2022-42889 Remote Code Exection Vulnerability aka Text4Shell | https://github.com/Goss1TheDog/CVE-2022-42889-RCE-POC | | 
 | 20221018T14:20:06Z | CVE-2020-13937 | Apache Kylin有一个restful api会在没有任何认证的情况下暴露配置信息 | https://github.com/kailing0220/CVE-2020-13937 | | 
 | 20221018T13:55:33Z | cve-2022-42889 | cve-2022-42889 Text4Shell CVE-2022-42889 affects Apache Commons Text versions 1.5 through 1.9. It has been patched as of Commons Text version 1.10.  | https://github.com/ClickCyber/cve-2022-42889 | | 
 | 20221018T12:35:44Z | CVE-2022-42889 | CVE-2022-42889 dockerized sample application (Apache Commons Text RCE) | https://github.com/standb/CVE-2022-42889 | | 
 | 20221018T09:15:41Z | CVE-2022-40684 | Null | https://github.com/jsongmax/Fortinet-CVE-2022-40684 | | 
 | 20221018T09:15:22Z | CVE-2022-24990 | Null | https://github.com/jsongmax/terraMaster-CVE-2022-24990 | | 
 | 20221018T03:27:54Z | CVE-2022-0824 | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | | 
+| 20221018T01:08:29Z | CVE-2022-36067 | vm2 sandbox remote code execution [mass adding] [payload send for botnets] | https://github.com/backcr4t/CVE-2022-36067-MASS-RCE | | 
 
 
 # klee on Github 推荐
