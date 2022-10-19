@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221019T01:50:55Z | Null | https://github.com/abbguillermo/TP4_PIAPC_FuzzyLogic | 0 | 0| 
 | 20221019T00:41:28Z | Null | https://github.com/JavierdiazS/Fuzzy-PD-controller | 0 | 0| 
 | 20221019T00:25:46Z | Null | https://github.com/Naharthegrandma/fuzzy-octo-enigma | 0 | 0| 
 | 20221019T00:24:00Z | Null | https://github.com/frenchddysgl/fuzzy-fortnight | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20221018T20:38:13Z | Null | https://github.com/exitlevel/fuzz | 0 | 0| 
 | 20221018T12:50:22Z | Null | https://github.com/SpaceNaN/fuzzjit | 7 | 2| 
 | 20221018T12:49:54Z | Simple flexible rust library and program (fuzzerk) to test input processing of programs over console/file/tls/tcp transparently using structured and controlled random and or predefined data. Also contains app specific vm and scripting language to allow fuzzerk operations to be controlled in a fine grained manner. | https://github.com/hanishkvc/prgs-rustland-tester-fuzzerk | 0 | 0| 
-| 20221018T12:35:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4392 | 1060| 
 
 
 
