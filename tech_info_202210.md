@@ -128,7 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221019T01:50:55Z | Null | https://github.com/abbguillermo/TP4_PIAPC_FuzzyLogic | 0 | 0| 
+| 20221019T01:53:54Z | Null | https://github.com/abbguillermo/TP4_PIAPC_FuzzyLogic | 0 | 0| 
 | 20221019T00:41:28Z | Null | https://github.com/JavierdiazS/Fuzzy-PD-controller | 0 | 0| 
 | 20221019T00:25:46Z | Null | https://github.com/Naharthegrandma/fuzzy-octo-enigma | 0 | 0| 
 | 20221019T00:24:00Z | Null | https://github.com/frenchddysgl/fuzzy-fortnight | 0 | 0| 
