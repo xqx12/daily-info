@@ -17,39 +17,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221019 | 代码审计web渗透 SRC资料大礼包，提取码加v:ms08076 | https://pan.baidu.com/s/1jdab7WIBbILJg5oq_vpTtQ| 
+| 20221019 | 常见的一些威胁情报分析平台 | https://mp.weixin.qq.com/s/OgHVGVAA2ZjVGvw-mcYNVQ| 
+| 20221019 | 【安全练兵场】, BurpSuite靶场系列之身份验证 | https://mp.weixin.qq.com/s/wDWcdTdFRkI8cMK1_pv94w| 
+| 20221019 | 2020美亚杯个人赛复盘 | https://mp.weixin.qq.com/s/sA7FS9g0Uq5WcO-yuUxEWg| 
 | 20221018 | 我在人间凑数的日子---网恋篇（一） | https://www.sec-in.com/article/1568| 
 | 20221018 | 为了上网,我黑了酒店上网管理系统并脱下酒店/网管的“内裤” | https://mp.weixin.qq.com/s/CmSFNwP3xDR5OmE8uPDkcw| 
 | 20221018 | 【安全练兵场】, BurpSuite靶场系列之SQL注入 | https://mp.weixin.qq.com/s/RqB-vMifxn0-4hrn0OEoHQ| 
 | 20221018 | 企业安全建设的起步 | https://mp.weixin.qq.com/s/cqEMl0Jchu40c7Itxc0qww| 
 | 20221018 | 车联网安全基础知识之USB SPH2.0线束制作 | https://mp.weixin.qq.com/s/01tV6GfK8L4hNEyn0suwdw| 
 | 20221017 | Response中所隐藏的杀机---揭秘响应中所存在的脆弱点 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486620&idx=1&sn=d2a1e8fc2bb22ae66cdb8caccf769747&chksm=e8a606ffdfd18fe96568686377b5b54f8304ea21b9ca9bca231ccb90552a6a7cf6819cb56e17&token=471424595&lang=zh_CN#rd| 
-| 20221017 | SecWiki周刊（第450期) | https://www.sec-wiki.com/weekly/450| 
-| 20221017 | 最新CS RCE（CVE-2022-39197）复现心得分享 | https://mp.weixin.qq.com/s/89wXyPaSn3TYn4pmVdr-Mw| 
-| 20221017 | [HTB] Nunchucks Writeup | https://mp.weixin.qq.com/s/HPVEB8408-7NhuGzf9DGCg| 
-| 20221017 | 动静态结合分析非标准MD5算法及还原 | https://mp.weixin.qq.com/s/5ZbBEIh-JsyoscIWCqYJyw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221019T01:55:58Z | CVE-2022-33980 | POC for CVE-2022-33980 (Apache Commons Configuration RCE vulnerability) | https://github.com/sammwyy/CVE-2022-33980-POC | | 
-| 20221019T01:30:06Z | CVE-2022-42889 | CVE-2022-42889 Remote Code Exection Vulnerability aka Text4Shell | https://github.com/Goss1TheDog/CVE-2022-42889-RCE-POC | | 
-| 20221019T01:18:44Z | CVE-2022-3368 | Null | https://github.com/Wh04m1001/CVE-2022-3368 | | 
-| 20221019T01:00:57Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/MSD-Gaming/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20221019T01:00:49Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2022_21882-cve_2021_1732 | | 
-| 20221019T01:00:47Z | CVE-2022-27502 | Exploit of RealVNC VNC Server | https://github.com/alirezac0/CVE-2022-27502 | | 
-| 20221018T23:32:11Z | CVE-2022-42889 | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | | 
-| 20221018T21:14:15Z | cve-2022-42889 | Dockerized POC for CVE-2022-42889 Text4Shell | https://github.com/karthikuj/cve-2022-42889-text4shell-docker | | 
-| 20221018T20:50:21Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 | https://github.com/SeanWrightSec/CVE-2022-42889-PoC | | 
-| 20221018T14:20:06Z | CVE-2020-13937 | Apache Kylin有一个restful api会在没有任何认证的情况下暴露配置信息 | https://github.com/kailing0220/CVE-2020-13937 | | 
+| 20221019T11:49:09Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
+| 20221019T11:15:29Z | CVE-2022-40674 | Null | https://github.com/nidhi7598/-expat_2.1.0_CVE-2022-40674 | | 
+| 20221019T10:58:49Z | CVE-2020-0688 | Exploit updated to use Python 3. | https://github.com/TheKickPuncher/CVE-2020-0688-Python3 | | 
+| 20221019T10:18:01Z | CVE-2022-33980 | POC for CVE-2022-33980 (Apache Commons Configuration RCE vulnerability) | https://github.com/sammwyy/CVE-2022-33980-POC | | 
+| 20221019T10:12:28Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 | https://github.com/SeanWrightSec/CVE-2022-42889-PoC | | 
+| 20221019T09:32:43Z | CVE-2022-40684 | Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ] | https://github.com/Chocapikk/CVE-2022-40684 | | 
+| 20221019T09:26:54Z | CVE-2022-27502 | Exploit of RealVNC VNC Server | https://github.com/alirezac0/CVE-2022-27502 | | 
+| 20221019T09:25:53Z | cve-2022-42889 | Dockerized POC for CVE-2022-42889 Text4Shell | https://github.com/karthikuj/cve-2022-42889-text4shell-docker | | 
+| 20221019T08:54:33Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/MSD-Gaming/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20221019T06:57:07Z | cve-2022-42889 | Null | https://github.com/eunomie/cve-2022-42889-check | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221019T10:35:11Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 108 | 1| 
+| 20221019T07:59:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2091 | 592| 
 | 20221018T12:11:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 261 | 47| 
-| 20221017T10:56:09Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 107 | 1| 
-| 20221017T02:51:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2090 | 592| 
 | 20221016T03:11:36Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 162 | 50| 
 | 20221016T02:40:18Z | Null | https://github.com/Khori-Lee/klee_xfce | 0 | 0| 
 | 20221015T20:52:39Z | Null | https://github.com/oldyue/klee | 0 | 0| 
@@ -74,16 +74,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221019T01:40:21Z | TikiWiki 1.9.5 Sirius exploit (Bind Shell) | https://github.com/caique-garbim/TikiWiki_1.9.5_Exploit | 0 | 0| 
-| 20221019T00:38:20Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/Nobellius/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
-| 20221019T00:38:20Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Nobellius/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
-| 20221019T00:36:19Z | Exploits for games | https://github.com/LayingLower/Exploits-for-game | 0 | 0| 
-| 20221019T00:17:03Z | 💼 Batch file Remove trace file + server log and registy / clean | https://github.com/Fnoberz/Fivem-Spoofer | 35 | 10| 
-| 20221018T23:57:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-- | 1 | 0| 
-| 20221018T23:57:15Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-- | 1 | 0| 
-| 20221018T23:56:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-- | 1 | 0| 
-| 20221018T23:32:11Z | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | 0 | 0| 
-| 20221018T23:30:54Z | Script to extract a CSF token by exploiting CSS via a vulnerable parameter  | https://github.com/cl0bber/CSS-Exfiltration | 0 | 0| 
+| 20221019T11:49:09Z | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | 0 | 0| 
+| 20221019T11:48:37Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 375 | 51| 
+| 20221019T10:58:49Z | Exploit updated to use Python 3. | https://github.com/TheKickPuncher/CVE-2020-0688-Python3 | 0 | 0| 
+| 20221019T10:06:13Z | damn vulnerable defi solutions | https://github.com/mmbarbas/smartcontracts_exploits | 0 | 0| 
+| 20221019T10:05:17Z | A Azure Exploitation Toolkit for Red Team & Pentesters | https://github.com/SikretaLabs/BlueMap | 0 | 0| 
+| 20221019T09:19:57Z | 🔗 Easy Spoof Cfx.re 365 Day / Work on the latest patch  | https://github.com/Fnoberz/Fivem-CFX-Spoofer | 46 | 31| 
+| 20221019T09:19:14Z | ⚡️ Bypass Injector Exec  / Please read the instructions for use carefully.  | https://github.com/Fnoberz/FiveM-Exec-Bypass | 37 | 9| 
+| 20221019T09:18:17Z | 😎 External Fortnite Feature list: Aimbot + Esp / C++ Open Source | https://github.com/Fnoberz/Fortnite-External | 45 | 21| 
+| 20221019T09:17:39Z | 💉C++ ,  Lua Executor New version Updates.  | https://github.com/Fnoberz/Fivem-Source | 47 | 25| 
+| 20221019T09:17:04Z | 💼 Batch file Remove trace file + server log and registy / clean | https://github.com/Fnoberz/Fivem-Spoofer | 35 | 10| 
 
 
 # backdoor on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221019T09:47:52Z | Storage space for Parity DB fuzzing data | https://github.com/paritytech/clusterfuzz-parity-db | 0 | 0| 
+| 20221019T09:40:30Z | Null | https://github.com/fakitil/fuzzy-octo-palm-tree | 0 | 0| 
+| 20221019T08:05:04Z | Null | https://github.com/jahtakesya/fuzzer.py | 0 | 0| 
+| 20221019T07:30:06Z | Null | https://github.com/ste-R-S/fuzzy-waddle | 0 | 0| 
+| 20221019T06:58:39Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 387 | 66| 
+| 20221019T06:58:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3125 | 629| 
+| 20221019T06:46:40Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 0 | 0| 
 | 20221019T01:53:54Z | Null | https://github.com/abbguillermo/TP4_PIAPC_FuzzyLogic | 0 | 0| 
 | 20221019T00:41:28Z | Null | https://github.com/JavierdiazS/Fuzzy-PD-controller | 0 | 0| 
 | 20221019T00:25:46Z | Null | https://github.com/Naharthegrandma/fuzzy-octo-enigma | 0 | 0| 
-| 20221019T00:24:00Z | Null | https://github.com/frenchddysgl/fuzzy-fortnight | 0 | 0| 
-| 20221018T23:36:46Z | Null | https://github.com/LunarMunkey/fuzzy-munkey | 0 | 0| 
-| 20221018T22:02:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7950 | 1724| 
-| 20221018T20:56:21Z | breach fuzz is a fuzzing tool which accepts a curl command as parameter (from burp or browsers) | https://github.com/breachr/bfuzz | 0 | 0| 
-| 20221018T20:38:13Z | Null | https://github.com/exitlevel/fuzz | 0 | 0| 
-| 20221018T12:50:22Z | Null | https://github.com/SpaceNaN/fuzzjit | 7 | 2| 
-| 20221018T12:49:54Z | Simple flexible rust library and program (fuzzerk) to test input processing of programs over console/file/tls/tcp transparently using structured and controlled random and or predefined data. Also contains app specific vm and scripting language to allow fuzzerk operations to be controlled in a fine grained manner. | https://github.com/hanishkvc/prgs-rustland-tester-fuzzerk | 0 | 0| 
 
 
 
