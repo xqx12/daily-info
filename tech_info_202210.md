@@ -32,11 +32,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221019T01:18:44Z | CVE-2022-3368 | Null | https://github.com/Wh04m1001/CVE-2022-3368 | | 
 | 20221019T01:00:59Z | CVE-2022-33980 | POC for CVE-2022-33980 (Apache Commons Configuration RCE vulnerability) | https://github.com/sammwyy/CVE-2022-33980-POC | | 
 | 20221019T01:00:57Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG | https://github.com/MSD-Gaming/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221019T01:00:49Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2022_21882-cve_2021_1732 | | 
 | 20221019T01:00:47Z | CVE-2022-27502 | Exploit of RealVNC VNC Server | https://github.com/alirezac0/CVE-2022-27502 | | 
-| 20221019T01:00:44Z | CVE-2022-3368 | Null | https://github.com/Wh04m1001/CVE-2022-3368 | | 
 | 20221018T23:32:11Z | CVE-2022-42889 | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | | 
 | 20221018T21:14:15Z | cve-2022-42889 | Dockerized POC for CVE-2022-42889 Text4Shell | https://github.com/karthikuj/cve-2022-42889-text4shell-docker | | 
 | 20221018T20:50:21Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 | https://github.com/SeanWrightSec/CVE-2022-42889-PoC | | 
