@@ -74,7 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221019T01:36:18Z | TikiWiki 1.9.5 Sirius exploit (Bind Shell) | https://github.com/caique-garbim/TikiWiki_1.9.5_Exploit | 0 | 0| 
+| 20221019T01:40:21Z | TikiWiki 1.9.5 Sirius exploit (Bind Shell) | https://github.com/caique-garbim/TikiWiki_1.9.5_Exploit | 0 | 0| 
 | 20221019T00:38:20Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/Nobellius/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
 | 20221019T00:38:20Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Nobellius/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
 | 20221019T00:36:19Z | Exploits for games | https://github.com/LayingLower/Exploits-for-game | 0 | 0| 
