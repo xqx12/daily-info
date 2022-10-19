@@ -74,7 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221019T00:34:23Z | Hacks for Outside by Milk%s Studio | https://github.com/LayingLower/Exploits-for-game | 0 | 0| 
+| 20221019T00:36:19Z | Exploits for games | https://github.com/LayingLower/Exploits-for-game | 0 | 0| 
 | 20221019T00:17:03Z | 💼 Batch file Remove trace file + server log and registy / clean | https://github.com/Fnoberz/Fivem-Spoofer | 35 | 10| 
 | 20221018T23:57:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-- | 1 | 0| 
 | 20221018T23:57:15Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-- | 1 | 0| 
@@ -128,10 +128,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221019T00:33:03Z | Null | https://github.com/JavierdiazS/Fuzzy-PD-controller | 0 | 0| 
 | 20221019T00:25:46Z | Null | https://github.com/Naharthegrandma/fuzzy-octo-enigma | 0 | 0| 
 | 20221019T00:24:00Z | Null | https://github.com/frenchddysgl/fuzzy-fortnight | 0 | 0| 
 | 20221018T23:36:46Z | Null | https://github.com/LunarMunkey/fuzzy-munkey | 0 | 0| 
-| 20221018T22:44:15Z | Null | https://github.com/JavierdiazS/Fuzzy-PD-controller | 0 | 0| 
 | 20221018T22:02:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7950 | 1724| 
 | 20221018T20:56:21Z | breach fuzz is a fuzzing tool which accepts a curl command as parameter (from burp or browsers) | https://github.com/breachr/bfuzz | 0 | 0| 
 | 20221018T20:38:13Z | Null | https://github.com/exitlevel/fuzz | 0 | 0| 

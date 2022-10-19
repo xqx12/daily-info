@@ -87,7 +87,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221018T23:36:46Z | Null | https://github.com/LunarMunkey/fuzzy-munkey | 0 | 0| 
-| 20221018T22:44:15Z | Null | https://github.com/JavierdiazS/Fuzzy-PD-controller | 0 | 0| 
 | 20221018T22:02:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7950 | 1724| 
 | 20221018T20:56:21Z | breach fuzz is a fuzzing tool which accepts a curl command as parameter (from burp or browsers) | https://github.com/breachr/bfuzz | 0 | 0| 
 | 20221018T20:38:13Z | Null | https://github.com/exitlevel/fuzz | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20221018T12:35:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4392 | 1060| 
 | 20221018T12:33:59Z | Null | https://github.com/LFKoning/fuzzy_match | 0 | 0| 
 | 20221018T12:21:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1066 | 130| 
+| 20221018T11:53:21Z | Need inspiration? How about fuzzy-parakeet? | https://github.com/Monicagomez45/fuzzy-parakeet- | 0 | 0| 
 
 
 
