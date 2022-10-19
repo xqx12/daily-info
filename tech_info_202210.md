@@ -74,6 +74,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221019T00:38:20Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/Nobellius/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
+| 20221019T00:38:20Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Nobellius/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
 | 20221019T00:36:19Z | Exploits for games | https://github.com/LayingLower/Exploits-for-game | 0 | 0| 
 | 20221019T00:17:03Z | 💼 Batch file Remove trace file + server log and registy / clean | https://github.com/Fnoberz/Fivem-Spoofer | 35 | 10| 
 | 20221018T23:57:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-- | 1 | 0| 
@@ -82,8 +84,6 @@
 | 20221018T23:32:11Z | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | 0 | 0| 
 | 20221018T23:30:54Z | Script to extract a CSF token by exploiting CSS via a vulnerable parameter  | https://github.com/cl0bber/CSS-Exfiltration | 0 | 0| 
 | 20221018T23:16:56Z | ⚔️ Aimbot + Esp For multiplayer / with instructions for use | https://github.com/Fnoberz/Rust-internal | 20 | 6| 
-| 20221018T23:12:06Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 29 | 16| 
-| 20221018T23:11:40Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 30 | 19| 
 
 
 # backdoor on Github 推荐
