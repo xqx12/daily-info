@@ -89,6 +89,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T22:41:38Z | Null | https://github.com/KevinCaires/first_backdoor | 0 | 0| 
+| 20221018T13:10:57Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 51 | 8| 
 | 20221018T10:16:45Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 410 | 51| 
 | 20221018T04:54:42Z | [NeurIPS%22] Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork. Haotao Wang, Junyuan Hong, Aston Zhang, Jiayu Zhou, Zhangyang Wang | https://github.com/VITA-Group/Trap-and-Replace-Backdoor-Defense | 0 | 0| 
 | 20221017T17:54:08Z | backdoor de acesso remoto (em desenvolvimento) | https://github.com/mednic/bckdoor | 1 | 0| 
@@ -97,8 +99,6 @@
 | 20221017T07:53:52Z | Backdoor RAT written in Rust with the discord API | https://github.com/DeanCash/discord-RAT-rust | 0 | 0| 
 | 20221017T06:15:35Z | Null | https://github.com/VertexVstore/Python_Backdoor | 0 | 0| 
 | 20221017T06:10:09Z | Null | https://github.com/VertexVstore/C_Backdoor | 0 | 0| 
-| 20221016T22:28:10Z | Null | https://github.com/NirLevy98/bpftrace_backdoor_example | 0 | 0| 
-| 20221016T20:26:29Z | [CCS%22] Backdoor Attacks on Spiking NNs and Neuromorphic Datasets | https://github.com/GorkaAbad/NeuromorphicBackdoors | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
