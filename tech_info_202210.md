@@ -128,6 +128,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221019T00:24:18Z | Null | https://github.com/Naharthegrandma/fuzzy-octo-enigma | 0 | 0| 
+| 20221019T00:24:00Z | Null | https://github.com/frenchddysgl/fuzzy-fortnight | 0 | 0| 
 | 20221018T23:36:46Z | Null | https://github.com/LunarMunkey/fuzzy-munkey | 0 | 0| 
 | 20221018T22:44:15Z | Null | https://github.com/JavierdiazS/Fuzzy-PD-controller | 0 | 0| 
 | 20221018T22:02:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7950 | 1724| 
@@ -136,8 +138,6 @@
 | 20221018T12:50:22Z | Null | https://github.com/SpaceNaN/fuzzjit | 7 | 2| 
 | 20221018T12:49:54Z | Simple flexible rust library and program (fuzzerk) to test input processing of programs over console/file/tls/tcp transparently using structured and controlled random and or predefined data. Also contains app specific vm and scripting language to allow fuzzerk operations to be controlled in a fine grained manner. | https://github.com/hanishkvc/prgs-rustland-tester-fuzzerk | 0 | 0| 
 | 20221018T12:35:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4392 | 1060| 
-| 20221018T12:33:59Z | Null | https://github.com/LFKoning/fuzzy_match | 0 | 0| 
-| 20221018T12:21:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1066 | 130| 
 
 
 
