@@ -74,6 +74,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221019T01:36:18Z | TikiWiki 1.9.5 Sirius exploit (Bind Shell) | https://github.com/caique-garbim/TikiWiki_1.9.5_Exploit | 0 | 0| 
 | 20221019T00:38:20Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/Nobellius/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
 | 20221019T00:38:20Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Nobellius/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
 | 20221019T00:36:19Z | Exploits for games | https://github.com/LayingLower/Exploits-for-game | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20221018T23:56:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-- | 1 | 0| 
 | 20221018T23:32:11Z | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | 0 | 0| 
 | 20221018T23:30:54Z | Script to extract a CSF token by exploiting CSS via a vulnerable parameter  | https://github.com/cl0bber/CSS-Exfiltration | 0 | 0| 
-| 20221018T23:16:56Z | ⚔️ Aimbot + Esp For multiplayer / with instructions for use | https://github.com/Fnoberz/Rust-internal | 20 | 6| 
 
 
 # backdoor on Github 推荐
