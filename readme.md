@@ -14,21 +14,23 @@
 | 20221018 | 我在人间凑数的日子---网恋篇（一） | https://www.sec-in.com/article/1568| 
 | 20221018 | 为了上网,我黑了酒店上网管理系统并脱下酒店/网管的“内裤” | https://mp.weixin.qq.com/s/CmSFNwP3xDR5OmE8uPDkcw| 
 | 20221018 | 【安全练兵场】, BurpSuite靶场系列之SQL注入 | https://mp.weixin.qq.com/s/RqB-vMifxn0-4hrn0OEoHQ| 
+| 20221018 | 企业安全建设的起步 | https://mp.weixin.qq.com/s/cqEMl0Jchu40c7Itxc0qww| 
+| 20221018 | 车联网安全基础知识之USB SPH2.0线束制作 | https://mp.weixin.qq.com/s/01tV6GfK8L4hNEyn0suwdw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221018T23:32:11Z | CVE-2022-42889 | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | | 
+| 20221018T23:28:09Z | CVE-2022-3368 | Null | https://github.com/Wh04m1001/CVE-2022-3368 | | 
+| 20221018T22:10:21Z | CVE-2022-27502 | Exploit of RealVNC VNC Server | https://github.com/alirezac0/CVE-2022-27502 | | 
+| 20221018T21:14:15Z | cve-2022-42889 | Dockerized POC for CVE-2022-42889 Text4Shell | https://github.com/karthikuj/cve-2022-42889-text4shell-docker | | 
+| 20221018T20:50:21Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 | https://github.com/SeanWrightSec/CVE-2022-42889-PoC | | 
+| 20221018T19:54:01Z | CVE-2022-42889 | CVE-2022-42889 Remote Code Exection Vulnerability aka Text4Shell | https://github.com/Goss1TheDog/CVE-2022-42889-RCE-POC | | 
+| 20221018T14:20:06Z | CVE-2020-13937 | Apache Kylin有一个restful api会在没有任何认证的情况下暴露配置信息 | https://github.com/kailing0220/CVE-2020-13937 | | 
+| 20221018T13:55:33Z | cve-2022-42889 | cve-2022-42889 Text4Shell CVE-2022-42889 affects Apache Commons Text versions 1.5 through 1.9. It has been patched as of Commons Text version 1.10.  | https://github.com/ClickCyber/cve-2022-42889 | | 
 | 20221018T12:35:44Z | CVE-2022-42889 | CVE-2022-42889 dockerized sample application (Apache Commons Text RCE) | https://github.com/standb/CVE-2022-42889 | | 
-| 20221018T12:26:25Z | CVE-2022-27502 | Exploit of RealVNC VNC Server | https://github.com/alirezac0/CVE-2022-27502 | | 
-| 20221018T12:05:18Z | cve-2022-42889 | Dockerized POC for CVE-2022-42889 Text4Shell | https://github.com/karthikuj/cve-2022-42889-text4shell-docker | | 
-| 20221018T10:38:34Z | CVE-2022-3368 | Null | https://github.com/Wh04m1001/CVE-2022-3368 | | 
 | 20221018T09:15:41Z | CVE-2022-40684 | Null | https://github.com/jsongmax/Fortinet-CVE-2022-40684 | | 
-| 20221018T09:15:22Z | CVE-2022-24990 | Null | https://github.com/jsongmax/terraMaster-CVE-2022-24990 | | 
-| 20221018T09:03:03Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 | https://github.com/SeanWrightSec/CVE-2022-42889-PoC | | 
-| 20221018T03:27:54Z | CVE-2022-0824 | Exploit POC for CVE-2022-0824 | https://github.com/pizza-power/golang-webmin-CVE-2022-0824-revshell | | 
-| 20221018T01:08:29Z | CVE-2022-36067 | vm2 sandbox remote code execution [mass adding] [payload send for botnets] | https://github.com/backcr4t/CVE-2022-36067-MASS-RCE | | 
-| 20221018T01:08:27Z | CVE-2022-41082 | ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and a python wrapper to acieve RCE for Proxynotshell  | https://github.com/backcr4t/CVE-2022-41082-RCE | | 
 
 
 # klee on Github 推荐
@@ -46,16 +48,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221018T12:49:47Z | my java exploits | https://github.com/plainsight16/java_escapades | 0 | 0| 
-| 20221018T12:38:16Z | Repo to contain all my java exploits | https://github.com/plainsight16/java_projects | 0 | 0| 
-| 20221018T11:59:13Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 93 | 11| 
-| 20221018T10:46:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3689 | 449| 
-| 20221018T10:45:50Z | Weblogic exploit | https://github.com/lucy9x/WLExploit | 0 | 0| 
-| 20221018T10:09:05Z | Instagram bruteforce exploit module | https://github.com/readloud/InstaBrute | 0 | 0| 
-| 20221018T08:54:12Z | Simple delegatecall solidity exploit. | https://github.com/XabierOterino/Delegatecall-Exploit | 0 | 0| 
-| 20221018T08:53:17Z | Exploitation Tool for CVE-2017-3066 targeting Adobe Coldfusion 11/12 | https://github.com/codewhitesec/ColdFusionPwn | 84 | 30| 
-| 20221018T08:52:42Z | Null | https://github.com/codewhitesec/groovy-2.4.5-exploit | 10 | 5| 
-| 20221018T08:52:08Z | Exploit for SAP P4 Java Deserialization (http://codewhitesec.blogspot.com/2017/05/sap-customers-make-sure-your-sapjvm-is.html) | https://github.com/codewhitesec/sap-p4-java-deserialization-exploit | 8 | 5| 
+| 20221018T23:57:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-- | 1 | 0| 
+| 20221018T23:57:15Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-- | 1 | 0| 
+| 20221018T23:56:16Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-- | 1 | 0| 
+| 20221018T23:32:11Z | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | 0 | 0| 
+| 20221018T23:30:54Z | Script to extract a CSF token by exploiting CSS via a vulnerable parameter  | https://github.com/cl0bber/CSS-Exfiltration | 0 | 0| 
+| 20221018T23:16:56Z | ⚔️ Aimbot + Esp For multiplayer / with instructions for use | https://github.com/Fnoberz/Rust-internal | 20 | 6| 
+| 20221018T23:12:06Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 29 | 16| 
+| 20221018T23:11:40Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 30 | 19| 
+| 20221018T23:08:14Z | 💼 Batch file Remove trace file + server log and registy / clean | https://github.com/Fnoberz/Fivem-Spoofer | 36 | 10| 
+| 20221018T23:07:41Z | 😎 C++ External Fortnite Full Aimbot Smooth , A Free open source | https://github.com/Fnoberz/Fortnite-External | 45 | 21| 
 
 
 # backdoor on Github 推荐
@@ -82,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221018T23:36:46Z | Null | https://github.com/LunarMunkey/fuzzy-munkey | 0 | 0| 
+| 20221018T22:44:15Z | Null | https://github.com/JavierdiazS/Fuzzy-PD-controller | 0 | 0| 
+| 20221018T22:02:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7950 | 1724| 
+| 20221018T20:56:21Z | breach fuzz is a fuzzing tool which accepts a curl command as parameter (from burp or browsers) | https://github.com/breachr/bfuzz | 0 | 0| 
+| 20221018T20:38:13Z | Null | https://github.com/exitlevel/fuzz | 0 | 0| 
 | 20221018T12:50:22Z | Null | https://github.com/SpaceNaN/fuzzjit | 7 | 2| 
 | 20221018T12:49:54Z | Simple flexible rust library and program (fuzzerk) to test input processing of programs over console/file/tls/tcp transparently using structured and controlled random and or predefined data. Also contains app specific vm and scripting language to allow fuzzerk operations to be controlled in a fine grained manner. | https://github.com/hanishkvc/prgs-rustland-tester-fuzzerk | 0 | 0| 
 | 20221018T12:35:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4392 | 1060| 
 | 20221018T12:33:59Z | Null | https://github.com/LFKoning/fuzzy_match | 0 | 0| 
 | 20221018T12:21:54Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1066 | 130| 
-| 20221018T11:53:21Z | Need inspiration? How about fuzzy-parakeet? | https://github.com/Monicagomez45/fuzzy-parakeet- | 0 | 0| 
-| 20221018T10:15:38Z | Null | https://github.com/lobziik/kube_api_fuzz | 0 | 0| 
-| 20221018T09:32:02Z | Null | https://github.com/anjasdamina/fuzzy | 0 | 0| 
-| 20221018T08:54:48Z | Null | https://github.com/scuzyx/dataset-of-DyFuzz | 0 | 0| 
-| 20221018T07:29:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7949 | 1723| 
 
 
 
