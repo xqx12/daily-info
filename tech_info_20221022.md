@@ -79,11 +79,19 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221022T14:19:39Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 15 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221022T22:41:31Z | Fuzz instagram to find someone | https://github.com/Tech0ne/InstagramFuzzer | 0 | 0| 
+| 20221022T20:32:00Z | Fuzzy text extractors | https://github.com/oesh/fuzzy_parsers | 0 | 0| 
+| 20221022T20:30:43Z | Change directories with fuzzy search | https://github.com/DannyBen/fuzzycd | 2 | 0| 
+| 20221022T19:09:38Z | Null | https://github.com/Lattife/Fuzzy-fiesta-ya | 0 | 0| 
+| 20221022T18:54:12Z | Null | https://github.com/jurhs2000/miniproyecto7-fuzzy-logic | 0 | 0| 
+| 20221022T15:18:44Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 748 | 43| 
+| 20221022T12:47:45Z | Null | https://github.com/jblnt/fuzzy-potato | 0 | 0| 
 
 
 
