@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221023T12:47:47Z | Reanimation that%s way better than Catware Reanimate. | https://github.com/StrokeThePea/GelatekReanimate | 4 | 3| 
 | 20221023T12:17:41Z | Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM. | https://github.com/pownjs/pown | 232 | 34| 
 | 20221023T11:38:25Z | 个人网站开发 | https://github.com/mubaike/Vue-exploitation | 0 | 0| 
 | 20221023T10:26:59Z | Null | https://github.com/system-reboot/Exploit-the-Game | 0 | 0| 
@@ -81,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221023T12:49:28Z | Null | https://github.com/yagol2020/CrossFuzzer | 0 | 0| 
 | 20221023T12:09:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7961 | 1727| 
 | 20221023T11:27:50Z | Null | https://github.com/laipopo/simple_fuzzer | 0 | 0| 
 | 20221023T11:27:30Z | Null | https://github.com/gyojikato/Fuzzy-Logic-Control-System-on-Hydroponic-Culture-of-Lettuce-using-Raspberry-Pi | 0 | 0| 
@@ -90,7 +92,6 @@
 | 20221023T10:25:02Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1029 | 83| 
 | 20221023T07:53:24Z | Null | https://github.com/CheUhxg/FuzzNote | 1 | 0| 
 | 20221023T07:11:35Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 325 | 35| 
-| 20221023T00:51:57Z | Null | https://github.com/iFuzzing/iFuzzing | 0 | 0| 
 
 
 
