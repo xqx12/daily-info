@@ -17,13 +17,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221023T12:20:29Z | CVE-2022-42889 | A simple dockerize application that shows how to exploit the CVE-2022-42889 vulnerability. | https://github.com/akshayithape-devops/CVE-2022-42889-POC | | 
+| 20221023T12:13:56Z | CVE-2022-36663 | Internal network scanner through Gluu IAM blind ssrf | https://github.com/Qeisi/CVE-2022-36663-PoC | | 
+| 20221023T12:10:09Z | CVE-2022-39197 | CVE-2022-39197 RCE POC | https://github.com/TheCryingGame/CVE-2022-39197-RCE | | 
 | 20221023T11:48:36Z | CVE-2022-37705 | Amanda 3.5.1 second LPE. | https://github.com/MaherAzzouzi/CVE-2022-37705 | | 
 | 20221023T11:43:49Z | CVE-2022-37704 | Amanda 3.5.1 LPE | https://github.com/MaherAzzouzi/CVE-2022-37704 | | 
 | 20221023T09:15:27Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
 | 20221023T09:14:48Z | CVE-2021-27928 | A Database Server Docker build for CVE-2021-27928 & another project CVE-2021-40438 | https://github.com/WilsonFung414/CVE-2021-27928_Docker | | 
 | 20221023T09:06:13Z | CVE-2022-42889 | Apache Text4Shell (CVE-2022-42889) Burp Bounty Profile | https://github.com/0xmaximus/Apache-Commons-Text-CVE-2022-42889 | | 
-| 20221023T08:40:11Z | CVE-2022-39197 | CVE-2022-39197 RCE POC | https://github.com/TheCryingGame/CVE-2022-39197-RCE | | 
-| 20221023T06:23:08Z | CVE-2022-42889 | A simple dockerize application that shows how to exploit the CVE-2022-42889 vulnerability. | https://github.com/akshayithape-devops/CVE-2022-42889-POC | | 
 
 
 # klee on Github 推荐
@@ -44,10 +45,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221023T12:17:41Z | Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM. | https://github.com/pownjs/pown | 232 | 34| 
 | 20221023T11:38:25Z | 个人网站开发 | https://github.com/mubaike/Vue-exploitation | 0 | 0| 
 | 20221023T10:26:59Z | Null | https://github.com/system-reboot/Exploit-the-Game | 0 | 0| 
 | 20221023T09:41:51Z | This is a penetration testing program, written in shell script, to automate the scanning, enumeration, vulnerability assessment and exploitation of local network devices. | https://github.com/C-Dr4gon/VulnerPloit | 0 | 0| 
-| 20221023T09:38:38Z | Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM. | https://github.com/pownjs/pown | 231 | 34| 
 | 20221023T09:28:43Z | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | 12 | 3| 
 | 20221023T09:16:16Z | Improved version of Karo%s Exploit Host.. Mainly for personal use. | https://github.com/a0zhar/karo218 | 0 | 1| 
 | 20221023T07:15:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 534 | 143| 
@@ -80,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221023T12:09:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7961 | 1727| 
 | 20221023T11:27:50Z | Null | https://github.com/laipopo/simple_fuzzer | 0 | 0| 
 | 20221023T11:27:30Z | Null | https://github.com/gyojikato/Fuzzy-Logic-Control-System-on-Hydroponic-Culture-of-Lettuce-using-Raspberry-Pi | 0 | 0| 
 | 20221023T11:22:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 843 | 175| 
