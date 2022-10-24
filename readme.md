@@ -54,10 +54,10 @@
 | 20221023T22:01:40Z | Analysis of the major exploits that took place on the Ethereum blockchain | https://github.com/MikeSpa/ethereum-exploit | 0 | 0| 
 | 20221023T21:45:28Z | PS4 FW9.00 Exploit Menu with .js and .bin Payload Loader and Payload Chainloader. All important payloads are included! | https://github.com/Storm21CH/PS4-FW9.00-Exploit-Menu | 0 | 0| 
 | 20221023T21:44:43Z | A basic book e-commerce web-app implementation exploiting Mysql-nodejs driver. | https://github.com/notslok/Ecomm_MySQL_version | 0 | 0| 
+| 20221023T17:39:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4986 | 689| 
 | 20221023T12:47:47Z | Reanimation that%s way better than Catware Reanimate. | https://github.com/StrokeThePea/GelatekReanimate | 4 | 3| 
 | 20221023T12:17:41Z | Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM. | https://github.com/pownjs/pown | 232 | 34| 
 | 20221023T11:38:25Z | 个人网站开发 | https://github.com/mubaike/Vue-exploitation | 0 | 0| 
-| 20221023T10:26:59Z | Null | https://github.com/system-reboot/Exploit-the-Game | 0 | 0| 
 
 
 # backdoor on Github 推荐
