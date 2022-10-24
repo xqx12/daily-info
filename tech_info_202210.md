@@ -78,16 +78,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221024T00:00:58Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/Gooliver993/Omnis-Dead-Frontier-2-PrivateCheat | 2 | 1| 
-| 20221024T00:00:56Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Gooliver993/Nyve-Keyless-Roblox-Premium-Exploit | 2 | 0| 
-| 20221024T00:00:43Z | Exploit made for Roblox by Xyps0s | https://github.com/Gooliver993/Nyve-Keyless-Roblox-Exploit | 2 | 0| 
-| 20221023T23:58:35Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Gooliver993/GPay-balance-exploiter-by-VenomX | 7 | 0| 
-| 20221023T23:58:16Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/Gooliver993/EclipseWare-Free-Roblox-Exploits-v1.7 | 12 | 0| 
+| 20221024T00:12:07Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/Gooliver993/EclipseWare-Free-Roblox-Exploits-v1.7 | 13 | 0| 
+| 20221024T00:11:39Z | Exploit made for Roblox by Xyps0s | https://github.com/Gooliver993/Nyve-Keyless-Roblox-Exploit | 4 | 0| 
+| 20221024T00:09:42Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Gooliver993/GPay-balance-exploiter-by-VenomX | 8 | 0| 
+| 20221024T00:06:02Z | This exploit serves to find a login gap from the system administrator to enter the dashboard page.   This attack will usually work on websites that have the kcfinder extension. | https://github.com/GarudaID/search-login | 1 | 0| 
+| 20221024T00:03:15Z | Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE | https://github.com/Gooliver993/Omnis-Dead-Frontier-2-PrivateCheat | 3 | 1| 
+| 20221024T00:02:42Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Gooliver993/Nyve-Keyless-Roblox-Premium-Exploit | 3 | 0| 
 | 20221023T23:38:33Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANa | 1 | 0| 
 | 20221023T23:37:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANa | 1 | 0| 
 | 20221023T23:36:47Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANa | 1 | 0| 
 | 20221023T22:01:40Z | Analysis of the major exploits that took place on the Ethereum blockchain | https://github.com/MikeSpa/ethereum-exploit | 0 | 0| 
-| 20221023T21:45:28Z | PS4 FW9.00 Exploit Menu with .js and .bin Payload Loader and Payload Chainloader. All important payloads are included! | https://github.com/Storm21CH/PS4-FW9.00-Exploit-Menu | 0 | 0| 
 
 
 # backdoor on Github 推荐
