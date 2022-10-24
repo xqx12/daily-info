@@ -18,15 +18,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20221023T18:43:49Z | CVE-2022-42889 | A simple dockerize application that shows how to exploit the CVE-2022-42889 vulnerability. | https://github.com/akshayithape-devops/CVE-2022-42889-POC | | 
-| 20221023T18:42:56Z | CVE-2022-37705 | Amanda 3.5.1 second LPE. | https://github.com/MaherAzzouzi/CVE-2022-37705 | | 
 | 20221023T16:32:47Z | CVE-2022-42045 | Null | https://github.com/ReCryptLLC/CVE-2022-42045 | | 
 | 20221023T15:34:15Z | CVE-2022-30190 | Null | https://github.com/WilsonFung414/CVE-2022-30190 | | 
-| 20221023T15:20:48Z | CVE-2022-38813 | Authenticated Vertical Privilege Escalation Vulnerability in Blood Donor Management System | https://github.com/RashidKhanPathan/CVE-2022-38813 | | 
-| 20221023T12:13:56Z | CVE-2022-36663 | Internal network scanner through Gluu IAM blind ssrf | https://github.com/Qeisi/CVE-2022-36663-PoC | | 
 | 20221023T12:10:09Z | CVE-2022-39197 | CVE-2022-39197 RCE POC | https://github.com/TheCryingGame/CVE-2022-39197-RCE | | 
-| 20221023T11:43:49Z | CVE-2022-37704 | Amanda 3.5.1 LPE | https://github.com/MaherAzzouzi/CVE-2022-37704 | | 
-| 20221023T09:15:27Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
-| 20221023T09:14:48Z | CVE-2021-27928 | A Database Server Docker build for CVE-2021-27928 & another project CVE-2021-40438 | https://github.com/WilsonFung414/CVE-2021-27928_Docker | | 
+| 20221023T09:06:13Z | CVE-2022-42889 | Apache Text4Shell (CVE-2022-42889) Burp Bounty Profile | https://github.com/0xmaximus/Apache-Commons-Text-CVE-2022-42889 | | 
 
 
 # klee on Github 推荐

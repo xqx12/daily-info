@@ -35,16 +35,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221024T00:50:52Z | CVE-2022-38813 | Authenticated Vertical Privilege Escalation Vulnerability in Blood Donor Management System | https://github.com/RashidKhanPathan/CVE-2022-38813 | | 
+| 20221024T00:50:50Z | CVE-2022-37705 | Amanda 3.5.1 second LPE. | https://github.com/MaherAzzouzi/CVE-2022-37705 | | 
+| 20221024T00:50:48Z | CVE-2022-37704 | Amanda 3.5.1 LPE | https://github.com/MaherAzzouzi/CVE-2022-37704 | | 
+| 20221024T00:50:43Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
+| 20221024T00:50:41Z | CVE-2022-36663 | Internal network scanner through Gluu IAM blind ssrf | https://github.com/Qeisi/CVE-2022-36663-PoC | | 
+| 20221024T00:50:39Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
+| 20221024T00:50:36Z | CVE-2020-15568 | A quick and easy POC for CVE-2020-15568 | https://github.com/n0bugz/CVE-2020-15568 | | 
+| 20221024T00:50:34Z | CVE-2021-27928 | A Database Server Docker build for CVE-2021-27928 & another project CVE-2021-40438 | https://github.com/WilsonFung414/CVE-2021-27928_Docker | | 
 | 20221024T00:47:56Z | CVE-2022-42889 | CVE-2022-42889 aka Text4Shell research & PoC | https://github.com/cxzero/CVE-2022-42889-text4shell | | 
 | 20221023T18:43:49Z | CVE-2022-42889 | A simple dockerize application that shows how to exploit the CVE-2022-42889 vulnerability. | https://github.com/akshayithape-devops/CVE-2022-42889-POC | | 
-| 20221023T18:42:56Z | CVE-2022-37705 | Amanda 3.5.1 second LPE. | https://github.com/MaherAzzouzi/CVE-2022-37705 | | 
-| 20221023T16:32:47Z | CVE-2022-42045 | Null | https://github.com/ReCryptLLC/CVE-2022-42045 | | 
-| 20221023T15:34:15Z | CVE-2022-30190 | Null | https://github.com/WilsonFung414/CVE-2022-30190 | | 
-| 20221023T15:20:48Z | CVE-2022-38813 | Authenticated Vertical Privilege Escalation Vulnerability in Blood Donor Management System | https://github.com/RashidKhanPathan/CVE-2022-38813 | | 
-| 20221023T12:13:56Z | CVE-2022-36663 | Internal network scanner through Gluu IAM blind ssrf | https://github.com/Qeisi/CVE-2022-36663-PoC | | 
-| 20221023T12:10:09Z | CVE-2022-39197 | CVE-2022-39197 RCE POC | https://github.com/TheCryingGame/CVE-2022-39197-RCE | | 
-| 20221023T11:43:49Z | CVE-2022-37704 | Amanda 3.5.1 LPE | https://github.com/MaherAzzouzi/CVE-2022-37704 | | 
-| 20221023T09:15:27Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
 
 
 # klee on Github 推荐
@@ -78,7 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221024T00:44:56Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Gooliver993/Nyve-Keyless-Roblox-Premium-Exploit | 14 | 0| 
+| 20221024T00:51:10Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Gooliver993/Nyve-Keyless-Roblox-Premium-Exploit | 15 | 0| 
 | 20221024T00:42:59Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Gooliver993/GPay-balance-exploiter-by-VenomX | 16 | 0| 
 | 20221024T00:38:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-e2e-demo-aqvv-suffer-exploit | 0 | 0| 
 | 20221024T00:31:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4986 | 689| 
