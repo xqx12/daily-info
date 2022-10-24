@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221024T00:31:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4986 | 689| 
 | 20221024T00:28:30Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Gooliver993/Nyve-Keyless-Roblox-Premium-Exploit | 10 | 0| 
 | 20221024T00:25:15Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Gooliver993/GPay-balance-exploiter-by-VenomX | 14 | 0| 
 | 20221024T00:24:12Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/Gooliver993/EclipseWare-Free-Roblox-Exploits-v1.7 | 16 | 0| 
@@ -87,7 +88,6 @@
 | 20221023T23:38:33Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANa | 1 | 0| 
 | 20221023T23:37:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANa | 1 | 0| 
 | 20221023T23:36:47Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANa | 1 | 0| 
-| 20221023T22:01:40Z | Analysis of the major exploits that took place on the Ethereum blockchain | https://github.com/MikeSpa/ethereum-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
