@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221024T00:38:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-dotnet-e2e-demo-aqvv-suffer-exploit | 0 | 0| 
 | 20221024T00:34:04Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Gooliver993/GPay-balance-exploiter-by-VenomX | 15 | 0| 
 | 20221024T00:31:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 4986 | 689| 
 | 20221024T00:28:30Z | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | https://github.com/Gooliver993/Nyve-Keyless-Roblox-Premium-Exploit | 10 | 0| 
@@ -87,7 +88,6 @@
 | 20221024T00:06:02Z | This exploit serves to find a login gap from the system administrator to enter the dashboard page.   This attack will usually work on websites that have the kcfinder extension. | https://github.com/GarudaID/search-login | 1 | 0| 
 | 20221023T23:38:33Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANa | 1 | 0| 
 | 20221023T23:37:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANa | 1 | 0| 
-| 20221023T23:36:47Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANa | 1 | 0| 
 
 
 # backdoor on Github 推荐
