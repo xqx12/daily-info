@@ -17,48 +17,58 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221023T12:20:29Z | CVE-2022-42889 | A simple dockerize application that shows how to exploit the CVE-2022-42889 vulnerability. | https://github.com/akshayithape-devops/CVE-2022-42889-POC | | 
+| 20221023T18:43:49Z | CVE-2022-42889 | A simple dockerize application that shows how to exploit the CVE-2022-42889 vulnerability. | https://github.com/akshayithape-devops/CVE-2022-42889-POC | | 
+| 20221023T18:42:56Z | CVE-2022-37705 | Amanda 3.5.1 second LPE. | https://github.com/MaherAzzouzi/CVE-2022-37705 | | 
+| 20221023T17:54:58Z | CVE-2022-42889 | CVE-2022-42889 aka Text4Shell research & PoC | https://github.com/cxzero/CVE-2022-42889-text4shell | | 
+| 20221023T16:32:47Z | CVE-2022-42045 | Null | https://github.com/ReCryptLLC/CVE-2022-42045 | | 
+| 20221023T15:34:15Z | CVE-2022-30190 | Null | https://github.com/WilsonFung414/CVE-2022-30190 | | 
+| 20221023T15:20:48Z | CVE-2022-38813 | Authenticated Vertical Privilege Escalation Vulnerability in Blood Donor Management System | https://github.com/RashidKhanPathan/CVE-2022-38813 | | 
 | 20221023T12:13:56Z | CVE-2022-36663 | Internal network scanner through Gluu IAM blind ssrf | https://github.com/Qeisi/CVE-2022-36663-PoC | | 
 | 20221023T12:10:09Z | CVE-2022-39197 | CVE-2022-39197 RCE POC | https://github.com/TheCryingGame/CVE-2022-39197-RCE | | 
-| 20221023T11:48:36Z | CVE-2022-37705 | Amanda 3.5.1 second LPE. | https://github.com/MaherAzzouzi/CVE-2022-37705 | | 
 | 20221023T11:43:49Z | CVE-2022-37704 | Amanda 3.5.1 LPE | https://github.com/MaherAzzouzi/CVE-2022-37704 | | 
 | 20221023T09:15:27Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
-| 20221023T09:14:48Z | CVE-2021-27928 | A Database Server Docker build for CVE-2021-27928 & another project CVE-2021-40438 | https://github.com/WilsonFung414/CVE-2021-27928_Docker | | 
-| 20221023T09:06:13Z | CVE-2022-42889 | Apache Text4Shell (CVE-2022-42889) Burp Bounty Profile | https://github.com/0xmaximus/Apache-Commons-Text-CVE-2022-42889 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221023T12:40:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8787 | 293| 
+| 20221023T19:04:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8792 | 293| 
+| 20221023T16:33:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 113 | 1| 
+| 20221023T13:36:47Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 12 | 0| 
 | 20221023T10:54:47Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 164 | 51| 
 | 20221023T07:55:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2096 | 592| 
-| 20221023T07:12:47Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 11 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221023T04:12:10Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 261 | 63| 
+| 20221023T14:19:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 262 | 63| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221023T23:58:35Z | GPay balance exploiter (cheat) (Forcer) by VenomX | https://github.com/Gooliver993/GPay-balance-exploiter-by-VenomX | 7 | 0| 
+| 20221023T23:58:16Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/Gooliver993/EclipseWare-Free-Roblox-Exploits-v1.7 | 12 | 0| 
+| 20221023T23:38:33Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANa | 1 | 0| 
+| 20221023T23:37:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANa | 1 | 0| 
+| 20221023T23:36:47Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANa | 1 | 0| 
+| 20221023T22:01:40Z | Analysis of the major exploits that took place on the Ethereum blockchain | https://github.com/MikeSpa/ethereum-exploit | 0 | 0| 
+| 20221023T21:45:28Z | PS4 FW9.00 Exploit Menu with .js and .bin Payload Loader and Payload Chainloader. All important payloads are included! | https://github.com/Storm21CH/PS4-FW9.00-Exploit-Menu | 0 | 0| 
+| 20221023T21:44:43Z | A basic book e-commerce web-app implementation exploiting Mysql-nodejs driver. | https://github.com/notslok/Ecomm_MySQL_version | 0 | 0| 
 | 20221023T12:47:47Z | Reanimation that%s way better than Catware Reanimate. | https://github.com/StrokeThePea/GelatekReanimate | 4 | 3| 
 | 20221023T12:17:41Z | Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM. | https://github.com/pownjs/pown | 232 | 34| 
-| 20221023T11:38:25Z | 个人网站开发 | https://github.com/mubaike/Vue-exploitation | 0 | 0| 
-| 20221023T10:26:59Z | Null | https://github.com/system-reboot/Exploit-the-Game | 0 | 0| 
-| 20221023T09:41:51Z | This is a penetration testing program, written in shell script, to automate the scanning, enumeration, vulnerability assessment and exploitation of local network devices. | https://github.com/C-Dr4gon/VulnerPloit | 0 | 0| 
-| 20221023T09:28:43Z | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | 12 | 3| 
-| 20221023T09:16:16Z | Improved version of Karo%s Exploit Host.. Mainly for personal use. | https://github.com/a0zhar/karo218 | 0 | 1| 
-| 20221023T07:15:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 534 | 143| 
-| 20221023T05:42:11Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4770 | 1649| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221023T22:03:44Z | Null | https://github.com/theaidev/Neural-Backdoor-Papers | 0 | 0| 
+| 20221023T19:53:23Z | Interactive program that gives access to a system that is executed on. Command execution. Access file system. Upload/download files. Run keylogger. …..etc | https://github.com/okazaki0/Backdoor-Virus | 1 | 0| 
+| 20221023T19:50:50Z | SMB-backdoor implementation | https://github.com/APT64/RePulsar | 2 | 0| 
+| 20221023T16:58:10Z | Unlock security module, obtain root privilege and so on. | https://github.com/vankel/backdoor_mmap_tools | 0 | 0| 
+| 20221023T16:54:21Z | Null | https://github.com/Whiteh4tWolf/shell-backdoor | 0 | 0| 
+| 20221023T15:21:54Z | server programme and python backdoor | https://github.com/ankurtehlan/Python_Tools | 0 | 0| 
 | 20221023T08:43:42Z | A simple alexNet CNN to simulate backdoor attack in continuous learning. | https://github.com/Huangzirui1206/myAlexNet | 0 | 0| 
 | 20221023T08:05:36Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 264 | 89| 
 | 20221023T05:03:32Z | A Simple Demonstration Of A Backdoor Using Python | https://github.com/pinguatnull/Project-NullVoid | 0 | 0| 
@@ -82,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221023T22:06:24Z | Null | https://github.com/ScottFlat26/fuzzy-octo-bassoon | 0 | 0| 
+| 20221023T22:01:40Z | Adaptive fuzzing of Hypothesis tests | https://github.com/Zac-HD/hypofuzz | 12 | 0| 
+| 20221023T21:53:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7963 | 1728| 
+| 20221023T21:45:35Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1559 | 68| 
+| 20221023T20:08:40Z | Just a simple fuzzer | https://github.com/h4ckndr3s/Fuzzer | 0 | 0| 
+| 20221023T18:08:11Z | A Rust implementation of bbhash. | https://github.com/Quin-Darcy/fuzzy-hasher | 0 | 0| 
 | 20221023T12:54:37Z | Null | https://github.com/yagol2020/CrossFuzzer | 0 | 0| 
 | 20221023T12:51:46Z | A port from a JFuzzylite to .NET platform | https://github.com/reavenheart/FuzzyliteCSharp | 0 | 0| 
-| 20221023T12:09:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7961 | 1727| 
+| 20221023T12:23:16Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1071 | 131| 
 | 20221023T11:27:50Z | Null | https://github.com/laipopo/simple_fuzzer | 0 | 0| 
-| 20221023T11:27:30Z | Null | https://github.com/gyojikato/Fuzzy-Logic-Control-System-on-Hydroponic-Culture-of-Lettuce-using-Raspberry-Pi | 0 | 0| 
-| 20221023T11:22:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 843 | 175| 
-| 20221023T10:51:31Z | Null | https://github.com/min23asdw/Fuzzy_gear_shift | 0 | 0| 
-| 20221023T10:37:42Z | Null | https://github.com/ni-zo/fuzzy-system | 0 | 0| 
-| 20221023T10:25:02Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1029 | 83| 
-| 20221023T07:53:24Z | Null | https://github.com/CheUhxg/FuzzNote | 1 | 0| 
 
 
 
