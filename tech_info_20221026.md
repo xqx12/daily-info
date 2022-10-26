@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221026T12:35:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 0 | 0| 
 | 20221026T11:18:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4530 | 679| 
 | 20221026T10:11:01Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12198 | 2094| 
 | 20221026T09:35:26Z | Null | https://github.com/cipher1234/Exploits | 4 | 5| 
@@ -50,12 +51,12 @@
 | 20221026T08:20:09Z | 💉C++ ,  Lua Executor New version Updates.  | https://github.com/Fnoberz/Fivem-Source | 48 | 25| 
 | 20221026T08:19:20Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 537 | 143| 
 | 20221026T05:32:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3711 | 456| 
-| 20221026T01:54:56Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/ChavvW/EclipseWare-Free-Roblox-Exploits-v1.7 | 26 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221026T12:35:37Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 0 | 0| 
 | 20221026T10:27:28Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 32 | 18| 
 | 20221026T07:29:38Z | backdoor | https://github.com/ilanitel/backdoor | 0 | 0| 
 | 20221026T01:15:24Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 95 | 21| 
@@ -65,6 +66,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221026T12:31:47Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1239 | 57| 
+| 20221026T08:58:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2099 | 591| 
+| 20221026T07:32:39Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 27 | 1| 
 
 
 # big4 on Github 推荐
@@ -75,7 +79,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221026T12:32:28Z | A simple Python program to fuxx control requests to DFU | https://github.com/alfiecg24/DFU-Fuzzer | 0 | 0| 
+| 20221026T12:45:27Z | Cancer Classification | https://github.com/mahmoodjasim/Fuzzy-Gene-Selection-Code | 0 | 0| 
+| 20221026T12:37:07Z | Null | https://github.com/shintadls/task-AI-2-fuzzy-logic | 0 | 0| 
+| 20221026T12:35:51Z | A simple Python program to fuxx control requests to DFU | https://github.com/alfiecg24/DFU-Fuzzer | 0 | 0| 
 | 20221026T12:16:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7983 | 1733| 
 | 20221026T11:25:31Z | Null | https://github.com/dawoodkhann678/fuzzyspind | 0 | 0| 
 | 20221026T10:42:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1075 | 132| 
@@ -83,8 +89,6 @@
 | 20221026T10:24:46Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 845 | 175| 
 | 20221026T10:17:19Z | DOUBLE Your Web Hacking Rewards with Fuzzing, published by Packt | https://github.com/PacktPublishing/DOUBLE-Your-Web-Hacking-Rewards-with-Fuzzing | 1 | 0| 
 | 20221026T10:15:57Z | AFL++ using the Ball-Larus path profiling algorithm for coverage feedback | https://github.com/adrianherrera/ball-larus-fuzz | 1 | 0| 
-| 20221026T09:23:31Z | 模糊测试模板生成器、FUZZ模板、模板机制 | https://github.com/MR1INVISIBLE/Template-data-generator | 0 | 0| 
-| 20221026T09:16:50Z | use aflplusplus to fuzz network software | https://github.com/MR1INVISIBLE/AFLplusplus-network | 0 | 0| 
 
 
 
