@@ -28,7 +28,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221026T12:04:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8975 | 300| 
+| 20221026T12:19:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 8976 | 300| 
 | 20221026T08:58:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2099 | 591| 
 | 20221026T05:22:16Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 116 | 1| 
 
@@ -49,8 +49,8 @@
 | 20221026T08:22:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-relate-exploit | 0 | 0| 
 | 20221026T08:20:09Z | 💉C++ ,  Lua Executor New version Updates.  | https://github.com/Fnoberz/Fivem-Source | 48 | 25| 
 | 20221026T08:19:20Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 537 | 143| 
+| 20221026T05:32:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3711 | 456| 
 | 20221026T01:54:56Z | Roblox Eclipseware Exploits (over 50+ in one program) | https://github.com/ChavvW/EclipseWare-Free-Roblox-Exploits-v1.7 | 26 | 0| 
-| 20221026T01:54:50Z | Null | https://github.com/zu3829393/Appsoft-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,8 +75,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221026T12:16:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7983 | 1733| 
 | 20221026T11:25:31Z | Null | https://github.com/dawoodkhann678/fuzzyspind | 0 | 0| 
-| 20221026T11:21:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7982 | 1733| 
 | 20221026T10:42:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1075 | 132| 
 | 20221026T10:32:50Z | Null | https://github.com/kat-hyt/FuzzyInferenceAlgorithm | 0 | 0| 
 | 20221026T10:24:46Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 845 | 175| 
