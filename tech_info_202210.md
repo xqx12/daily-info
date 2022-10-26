@@ -136,6 +136,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221026T12:32:28Z | A simple Python program to fuxx control requests to DFU | https://github.com/alfiecg24/DFU-Fuzzer | 0 | 0| 
 | 20221026T12:16:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7983 | 1733| 
 | 20221026T11:25:31Z | Null | https://github.com/dawoodkhann678/fuzzyspind | 0 | 0| 
 | 20221026T10:42:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1075 | 132| 
@@ -145,7 +146,6 @@
 | 20221026T10:15:57Z | AFL++ using the Ball-Larus path profiling algorithm for coverage feedback | https://github.com/adrianherrera/ball-larus-fuzz | 1 | 0| 
 | 20221026T09:23:31Z | 模糊测试模板生成器、FUZZ模板、模板机制 | https://github.com/MR1INVISIBLE/Template-data-generator | 0 | 0| 
 | 20221026T09:16:50Z | use aflplusplus to fuzz network software | https://github.com/MR1INVISIBLE/AFLplusplus-network | 0 | 0| 
-| 20221026T07:57:37Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 83 | 6| 
 
 
 
