@@ -27,6 +27,7 @@
 | --- | --- | ---| 
 | 20221028 | IDC权威发布,天懋信息位居视频物联安全管理平台市场领导者 | https://mp.weixin.qq.com/s/iKAwrofDV9Ei3X1cHkLQRg| 
 | 20221028 | 美新版《国家安全战略》中的网络安全 | https://mp.weixin.qq.com/s/VZ0ofovRfJIUbxQuHvaLyQ| 
+| 20221028 | DeFi Hacks Analysis - Root Cause | https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee| 
 | 20221027 | 那些年我研发的无用模块——攻击样本回放模块 | https://mp.weixin.qq.com/s/zNTAGbM_Tjv9dWcjlsWkqg| 
 | 20221026 | DEAR：一种基于深度学习的程序自动修复方法 | https://mp.weixin.qq.com/s/glgVqNDDInTRO97xexLuCg| 
 | 20221026 | 攻防演练态势及防守思路 | https://mp.weixin.qq.com/s/yOvmo7RBrpKHL_hetT8jKg| 
@@ -34,7 +35,6 @@
 | 20221024 | Bold-Falcon: 开源的自动化恶意软件分析系统 | https://github.com/PowerLZY/Bold-Falcon| 
 | 20221024 | SecWiki周刊（第451期) | https://www.sec-wiki.com/weekly/451| 
 | 20221024 | 一文帮你解决APP抓包难题 | https://www.sec-in.com/article/1639| 
-| 20221024 | 赏金猎人系列-如何测试sso相关的漏洞 | https://mp.weixin.qq.com/s/aOsDZiTYZOUpCYuTXasPkw| 
 
 
 # CVE Github 推荐
