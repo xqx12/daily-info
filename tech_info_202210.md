@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221028T12:02:59Z | Python scripts to get a reverse shell (post-exploitation) | https://github.com/hawkwheels/Python_C2 | 0 | 0| 
+| 20221028T12:09:42Z | Python scripts to get a reverse shell (post-exploitation) | https://github.com/hawkwheels/Python_C2 | 0 | 0| 
 | 20221028T11:35:22Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 420 | 45| 
 | 20221028T11:09:32Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 34 | 24| 
 | 20221028T10:15:44Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-exploit-treat | 0 | 0| 
