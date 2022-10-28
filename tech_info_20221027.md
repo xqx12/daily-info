@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221027 | optee学习篇(1) 环境&调试 | https://o0xmuhe.github.io/2022/08/24/optee%E5%AD%A6%E4%B9%A0/| 
 
 
 # 安全维基 推荐
@@ -17,19 +18,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221027T21:31:30Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20221027T19:48:41Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
+| 20221027T18:40:51Z | CVE-2022-42889 | Text4Shell PoC Exploit  | https://github.com/west-wind/CVE-2022-42889 | | 
+| 20221027T18:35:12Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
+| 20221027T18:24:11Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
+| 20221027T15:32:55Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
 | 20221027T11:05:09Z | CVE-2022-39197 | CobaltStrike <= 4.7.1 RCE | https://github.com/its-arun/CVE-2022-39197 | | 
 | 20221027T08:30:39Z | CVE-2022-42889 | Null | https://github.com/Vulnmachines/text4shell-CVE-2022-42889 | | 
-| 20221027T07:56:12Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20221027T06:14:40Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
 | 20221027T01:04:25Z | CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | | 
 | 20221027T01:04:18Z | cve-2021-43798 |  cve-2021-43798 Grafana 8.3.0 - Directory Traversal and Arbitrary File Read | https://github.com/0bfxgh0st/cve-2021-43798 | | 
-| 20221027T01:04:15Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221027T12:55:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9013 | 302| 
+| 20221027T14:18:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9017 | 302| 
 | 20221027T11:04:43Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 117 | 1| 
 | 20221027T10:20:56Z | Null | https://github.com/Rajkumarraja2001/kleeen-cloud | 0 | 0| 
 | 20221027T09:52:34Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
@@ -45,23 +49,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221027T23:45:51Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 224 | 26| 
+| 20221027T23:41:45Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5 | 1 | 0| 
+| 20221027T23:40:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5 | 1 | 0| 
+| 20221027T23:39:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | 1 | 0| 
+| 20221027T21:38:00Z | BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | https://github.com/Exopteron/BiblioRCE | 3 | 0| 
+| 20221027T21:22:54Z | Null | https://github.com/lilendian0x00/Linux-Binary-Exploitation | 0 | 0| 
+| 20221027T20:31:45Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/IchigoV2/AutoFarm-SonicSpeed-Exploit | 1 | 0| 
+| 20221027T20:31:42Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/IchigoV2/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 1 | 0| 
+| 20221027T16:12:44Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 95 | 11| 
 | 20221027T12:49:33Z | Demo website to illustrate how easy some exploits can be pulled off. | https://github.com/bramvandenbussche/hacking101-demo | 0 | 0| 
-| 20221027T12:47:17Z | Roblox Script Packs by Charlzk | https://github.com/Charlzk05/Roblox-Websites-Script-Packs | 2 | 0| 
-| 20221027T12:36:01Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9570 | 1553| 
-| 20221027T12:18:53Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 418 | 45| 
-| 20221027T11:49:34Z | Roblox Script Packs by Charlzk | https://github.com/Charlzk05/Roblox-Script-Packs | 2 | 0| 
-| 20221027T11:36:12Z | A SelfBot To Exploit or Troll Your friend | https://github.com/Anri2321/VermunSelfBot | 0 | 0| 
-| 20221027T11:30:52Z | Roblox Exploit No key  | https://github.com/slikps/slikps.github.io | 0 | 0| 
-| 20221027T10:56:26Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12202 | 2096| 
-| 20221027T10:47:55Z | Null | https://github.com/BrianOctopus/Silent-Exploit-Builder-2022 | 0 | 0| 
-| 20221027T10:47:13Z | Null | https://github.com/system-reboot/Exploit-the-Game | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221027T18:59:40Z | Null | https://github.com/SanggamXploiter/BackdoorPhising | 0 | 0| 
+| 20221027T18:12:17Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 7 | 2| 
+| 20221027T14:08:40Z | Null | https://github.com/unCodeBoss/backdoor | 0 | 0| 
 | 20221027T12:30:30Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 2 | 0| 
-| 20221027T08:54:35Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 6 | 2| 
 | 20221027T04:08:08Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 63 | 18| 
 | 20221027T04:07:36Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 35 | 20| 
 
