@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20221028 | IDC权威发布,天懋信息位居视频物联安全管理平台市场领导者 | https://mp.weixin.qq.com/s/iKAwrofDV9Ei3X1cHkLQRg| 
 | 20221028 | 美新版《国家安全战略》中的网络安全 | https://mp.weixin.qq.com/s/VZ0ofovRfJIUbxQuHvaLyQ| 
+| 20221028 | DeFi Hacks Analysis - Root Cause | https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee| 
 
 
 # CVE Github 推荐
