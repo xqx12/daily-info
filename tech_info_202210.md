@@ -25,6 +25,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221028 | IDC权威发布,天懋信息位居视频物联安全管理平台市场领导者 | https://mp.weixin.qq.com/s/iKAwrofDV9Ei3X1cHkLQRg| 
+| 20221028 | 美新版《国家安全战略》中的网络安全 | https://mp.weixin.qq.com/s/VZ0ofovRfJIUbxQuHvaLyQ| 
 | 20221027 | 那些年我研发的无用模块——攻击样本回放模块 | https://mp.weixin.qq.com/s/zNTAGbM_Tjv9dWcjlsWkqg| 
 | 20221026 | DEAR：一种基于深度学习的程序自动修复方法 | https://mp.weixin.qq.com/s/glgVqNDDInTRO97xexLuCg| 
 | 20221026 | 攻防演练态势及防守思路 | https://mp.weixin.qq.com/s/yOvmo7RBrpKHL_hetT8jKg| 
@@ -33,29 +35,27 @@
 | 20221024 | SecWiki周刊（第451期) | https://www.sec-wiki.com/weekly/451| 
 | 20221024 | 一文帮你解决APP抓包难题 | https://www.sec-in.com/article/1639| 
 | 20221024 | 赏金猎人系列-如何测试sso相关的漏洞 | https://mp.weixin.qq.com/s/aOsDZiTYZOUpCYuTXasPkw| 
-| 20221021 | Python pickle反序列化浅析 | https://mp.weixin.qq.com/s/aZA47Y4MXhcZzhF-KA8xrg| 
-| 20221020 | woodpecker-framwork-release: 高危漏洞精准检测与深度利用框... | https://github.com/woodpecker-framework/woodpecker-framwork-release| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221028T11:10:40Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
+| 20221028T10:00:12Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
+| 20221028T09:04:59Z | CVE-2022-40687 | Omisión de autenticación utilizando una ruta o canal alternativa en el producto de Fortinet. | https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner | | 
+| 20221028T08:12:47Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
+| 20221028T07:45:04Z | CVE-2022-42889 | CVE-2022-42889 aka Text4Shell research & PoC | https://github.com/cxzero/CVE-2022-42889-text4shell | | 
+| 20221028T05:56:45Z | CVE-2020-26233 | Null | https://github.com/an1p3lg5/CVE-2020-26233 | | 
+| 20221028T03:46:00Z | CVE-2022-40684 | Null | https://github.com/hughink/CVE-2022-40684 | | 
+| 20221028T03:38:08Z | 未知编号 | Null | https://github.com/cvelopers/COMP229-F2022-A2-CVEL | | 
 | 20221028T01:51:35Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20221028T01:49:15Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
 | 20221028T01:46:51Z | CVE-2021-43890 | Null | https://github.com/yonggui-li/CVE-2021-43890_poc | | 
-| 20221028T01:28:41Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
-| 20221027T19:48:41Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
-| 20221027T18:40:51Z | CVE-2022-42889 | Text4Shell PoC Exploit  | https://github.com/west-wind/CVE-2022-42889 | | 
-| 20221027T18:24:11Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
-| 20221027T11:05:09Z | CVE-2022-39197 | CobaltStrike <= 4.7.1 RCE | https://github.com/its-arun/CVE-2022-39197 | | 
-| 20221027T08:30:39Z | CVE-2022-42889 | Null | https://github.com/Vulnmachines/text4shell-CVE-2022-42889 | | 
-| 20221027T01:04:25Z | CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221027T14:18:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9017 | 302| 
+| 20221028T09:42:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9028 | 302| 
 | 20221027T11:04:43Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 117 | 1| 
 | 20221027T10:20:56Z | Null | https://github.com/Rajkumarraja2001/kleeen-cloud | 0 | 0| 
 | 20221027T09:52:34Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
@@ -70,6 +70,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221028T02:37:12Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 82 | 44| 
 | 20221027T12:22:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 263 | 64| 
 | 20221021T09:15:49Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 23 | 4| 
 | 20221020T11:32:11Z | Null | https://github.com/F-UMI/S2E2API | 0 | 0| 
@@ -83,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221028T01:53:39Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 433 | 54| 
-| 20221028T01:05:33Z | Null | https://github.com/lilendian0x00/Linux-Binary-Exploitation | 1 | 0| 
-| 20221028T00:37:13Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 96 | 11| 
-| 20221028T00:37:03Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 225 | 25| 
-| 20221028T00:24:42Z | Null | https://github.com/jennifercarreno/Jinja2-ExploitMe | 0 | 0| 
-| 20221027T23:41:45Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5 | 1 | 0| 
-| 20221027T23:40:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5 | 1 | 0| 
-| 20221027T23:39:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | 1 | 0| 
-| 20221027T21:38:00Z | BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | https://github.com/Exopteron/BiblioRCE | 3 | 0| 
-| 20221027T20:31:45Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/IchigoV2/AutoFarm-SonicSpeed-Exploit | 1 | 0| 
+| 20221028T12:02:59Z | Python scripts to get a reverse shell (post-exploitation) | https://github.com/hawkwheels/Python_C2 | 0 | 0| 
+| 20221028T11:35:22Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 420 | 45| 
+| 20221028T11:09:32Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 34 | 24| 
+| 20221028T10:15:44Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-exploit-treat | 0 | 0| 
+| 20221028T10:00:13Z | Explorando Remote Desktop do Windows Server 2003 com o exploit Esteemaudit (sem Metasploit) e obtendo RCE. | https://github.com/caique-garbim/MS12-020_Esteemaudit | 0 | 0| 
+| 20221028T09:43:51Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4542 | 679| 
+| 20221028T08:58:34Z | Repo for Honours project on exploration and exploitation | https://github.com/exie1/Complex-systems-EE | 0 | 0| 
+| 20221028T08:50:38Z | Null | https://github.com/hawkwheels/Exploit_Scripts | 1 | 0| 
+| 20221028T08:15:22Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-cause-exploit | 0 | 0| 
+| 20221028T07:52:52Z | Dynamic Cat Swarm Optimization, Cat Swarm Optimization, Exploration and exploitation phases, Metaheuristics, Optimization.  | https://github.com/aramahmed/DCSO-Algorithm | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221028T11:25:06Z | BackdoorDemo | https://github.com/TJKkking/BackdoorDemo | 0 | 0| 
+| 20221028T11:24:23Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 3 | 2| 
+| 20221028T08:31:07Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 8 | 3| 
+| 20221028T02:28:05Z | verify if jar have backdoor or others malware%s | https://github.com/Halqq/PrChecker | 1 | 0| 
+| 20221028T02:16:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 53 | 8| 
 | 20221028T01:53:39Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 433 | 54| 
 | 20221028T00:28:35Z | Alat rekayasa sosial (Reverse Shell Backdoor Builder untuk Windows/Android) dengan Ngrok. | https://github.com/ZeusSec1337/PhisingBackdoor- | 0 | 0| 
 | 20221027T18:59:40Z | Null | https://github.com/SanggamXploiter/BackdoorPhising | 0 | 0| 
-| 20221027T18:12:17Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 7 | 2| 
 | 20221027T14:08:40Z | Null | https://github.com/unCodeBoss/backdoor | 0 | 0| 
 | 20221027T12:30:30Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 2 | 0| 
-| 20221027T04:08:08Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 63 | 18| 
-| 20221027T04:07:36Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 35 | 20| 
-| 20221026T16:17:21Z | python script that allows you to get access to a target machine and creates a reverse shell so you can execute commands on the windows target machine remotely.  | https://github.com/pranav9087/backdoor-for-windows-using-python | 0 | 1| 
-| 20221026T07:29:38Z | backdoor | https://github.com/ilanitel/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -138,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221028T10:54:53Z | Null | https://github.com/alphapapa100/fuzzy-octo-guide | 0 | 0| 
+| 20221028T10:48:24Z | Null | https://github.com/kingofDaniel/fuzzy-winner | 1 | 1| 
+| 20221028T10:22:42Z | extension project from Magma for building fuzzer-benchmark pairs | https://github.com/fceval/fceval_magma | 0 | 0| 
+| 20221028T09:01:16Z | Null | https://github.com/mwaoh/Fuzzy-logic-image-enhancement | 0 | 0| 
+| 20221028T08:47:22Z | AIGoFuzzing : Mutation-Based AIG Fuzzer | https://github.com/d-kfmnn/aigofuzzing | 0 | 0| 
+| 20221028T08:46:56Z | AIGoFuzzing : MultAIGenFuzzer: Generation-Based AIG Fuzzer for Multipliers | https://github.com/d-kfmnn/multaigenfuzzer | 0 | 0| 
+| 20221028T07:58:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4404 | 1069| 
 | 20221027T23:38:20Z | A Fuzzy microservice using Springboot and Angular | https://github.com/Canudo319/fuzzy-microservice-unip | 0 | 0| 
 | 20221027T23:27:40Z | Null | https://github.com/google/fuzztest | 67 | 4| 
 | 20221027T22:19:06Z | team profile generator | https://github.com/bmckenzie88/module-10-fuzzy-journey | 0 | 0| 
-| 20221027T22:14:52Z | fuzzing ultrahtml w/ jazzer.js | https://github.com/jasikpark/fuzz-ultrahtml | 0 | 0| 
-| 20221027T21:54:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7998 | 1735| 
-| 20221027T21:48:34Z | Config files for my GitHub profile. | https://github.com/TheOracle-Fuzz/TheOracle-Fuzz | 0 | 0| 
-| 20221027T19:09:12Z | Null | https://github.com/rajibhuq/Artificial-Pancreas-Using-Fuzzy-Logic-Controller | 0 | 0| 
-| 20221027T09:20:12Z | R implementation for paper: Online sequential fuzzy extreme learning machine for function approximation and classification problems | https://github.com/hoodpy/OS-Fuzzy-ELM | 0 | 0| 
-| 20221027T07:08:50Z | Work for money | https://github.com/Cheung0-bit/fuzzy_ahp | 1 | 0| 
-| 20221027T01:38:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4402 | 1068| 
 
 
 
