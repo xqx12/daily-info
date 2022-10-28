@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221028T12:54:55Z | Null | https://github.com/goitaaboubakar25/fuzzy-system | 0 | 0| 
 | 20221028T12:39:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8003 | 1736| 
 | 20221028T10:54:53Z | Null | https://github.com/alphapapa100/fuzzy-octo-guide | 0 | 0| 
 | 20221028T10:48:24Z | Null | https://github.com/kingofDaniel/fuzzy-winner | 1 | 1| 
@@ -148,7 +149,6 @@
 | 20221028T08:46:56Z | AIGoFuzzing : MultAIGenFuzzer: Generation-Based AIG Fuzzer for Multipliers | https://github.com/d-kfmnn/multaigenfuzzer | 0 | 0| 
 | 20221028T07:58:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4404 | 1069| 
 | 20221027T23:38:20Z | A Fuzzy microservice using Springboot and Angular | https://github.com/Canudo319/fuzzy-microservice-unip | 0 | 0| 
-| 20221027T23:27:40Z | Null | https://github.com/google/fuzztest | 67 | 4| 
 
 
 
