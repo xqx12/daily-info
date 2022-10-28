@@ -49,7 +49,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221027T23:45:51Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 224 | 25| 
 | 20221027T23:41:45Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T23:40:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T23:39:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | 1 | 0| 
@@ -57,8 +56,9 @@
 | 20221027T21:22:54Z | Null | https://github.com/lilendian0x00/Linux-Binary-Exploitation | 0 | 0| 
 | 20221027T20:31:45Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/IchigoV2/AutoFarm-SonicSpeed-Exploit | 1 | 0| 
 | 20221027T20:31:42Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/IchigoV2/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 1 | 0| 
-| 20221027T16:12:44Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 95 | 11| 
 | 20221027T12:49:33Z | Demo website to illustrate how easy some exploits can be pulled off. | https://github.com/bramvandenbussche/hacking101-demo | 0 | 0| 
+| 20221027T12:47:17Z | Roblox Script Packs by Charlzk | https://github.com/Charlzk05/Roblox-Websites-Script-Packs | 2 | 0| 
+| 20221027T12:36:01Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9570 | 1553| 
 
 
 # backdoor on Github 推荐
