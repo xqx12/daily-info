@@ -49,7 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221027T23:45:51Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 224 | 26| 
+| 20221027T23:45:51Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 224 | 25| 
 | 20221027T23:41:45Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T23:40:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T23:39:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | 1 | 0| 
@@ -75,8 +75,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221027T22:01:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3178 | 448| 
 | 20221027T10:56:18Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 33 | 3| 
-| 20221027T01:12:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3179 | 448| 
 
 
 # big4 on Github 推荐
@@ -87,12 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221027T09:38:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7993 | 1733| 
+| 20221027T23:38:20Z | A Fuzzy microservice using Springboot and Angular | https://github.com/Canudo319/fuzzy-microservice-unip | 0 | 0| 
+| 20221027T23:27:40Z | Null | https://github.com/google/fuzztest | 67 | 4| 
+| 20221027T22:19:06Z | team profile generator | https://github.com/bmckenzie88/module-10-fuzzy-journey | 0 | 0| 
+| 20221027T22:14:52Z | fuzzing ultrahtml w/ jazzer.js | https://github.com/jasikpark/fuzz-ultrahtml | 0 | 0| 
+| 20221027T21:54:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7998 | 1735| 
+| 20221027T21:48:34Z | Config files for my GitHub profile. | https://github.com/TheOracle-Fuzz/TheOracle-Fuzz | 0 | 0| 
+| 20221027T19:09:12Z | Null | https://github.com/rajibhuq/Artificial-Pancreas-Using-Fuzzy-Logic-Controller | 0 | 0| 
 | 20221027T09:20:12Z | R implementation for paper: Online sequential fuzzy extreme learning machine for function approximation and classification problems | https://github.com/hoodpy/OS-Fuzzy-ELM | 0 | 0| 
 | 20221027T07:08:50Z | Work for money | https://github.com/Cheung0-bit/fuzzy_ahp | 1 | 0| 
 | 20221027T01:38:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4402 | 1068| 
-| 20221027T01:36:13Z | A Fuzzy microservice using Springboot and Angular | https://github.com/Canudo319/fuzzy-microservice-unip | 0 | 0| 
-| 20221027T00:53:22Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4855 | 500| 
 
 
 
