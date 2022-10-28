@@ -18,11 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221027T21:31:30Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20221027T19:48:41Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
 | 20221027T18:40:51Z | CVE-2022-42889 | Text4Shell PoC Exploit  | https://github.com/west-wind/CVE-2022-42889 | | 
 | 20221027T18:24:11Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
-| 20221027T15:32:55Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
 | 20221027T11:05:09Z | CVE-2022-39197 | CobaltStrike <= 4.7.1 RCE | https://github.com/its-arun/CVE-2022-39197 | | 
 | 20221027T08:30:39Z | CVE-2022-42889 | Null | https://github.com/Vulnmachines/text4shell-CVE-2022-42889 | | 
 | 20221027T01:04:25Z | CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | | 

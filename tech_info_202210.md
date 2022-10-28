@@ -40,16 +40,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221028T01:07:21Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
-| 20221027T21:31:30Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20221028T01:51:35Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
+| 20221028T01:49:15Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
+| 20221028T01:46:51Z | CVE-2021-43890 | Null | https://github.com/yonggui-li/CVE-2021-43890_poc | | 
+| 20221028T01:28:41Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
 | 20221027T19:48:41Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
 | 20221027T18:40:51Z | CVE-2022-42889 | Text4Shell PoC Exploit  | https://github.com/west-wind/CVE-2022-42889 | | 
 | 20221027T18:24:11Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
-| 20221027T15:32:55Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
 | 20221027T11:05:09Z | CVE-2022-39197 | CobaltStrike <= 4.7.1 RCE | https://github.com/its-arun/CVE-2022-39197 | | 
 | 20221027T08:30:39Z | CVE-2022-42889 | Null | https://github.com/Vulnmachines/text4shell-CVE-2022-42889 | | 
 | 20221027T01:04:25Z | CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | | 
-| 20221027T01:04:18Z | cve-2021-43798 |  cve-2021-43798 Grafana 8.3.0 - Directory Traversal and Arbitrary File Read | https://github.com/0bfxgh0st/cve-2021-43798 | | 
 
 
 # klee on Github 推荐
@@ -83,11 +83,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221028T01:53:39Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 433 | 54| 
 | 20221028T01:05:33Z | Null | https://github.com/lilendian0x00/Linux-Binary-Exploitation | 1 | 0| 
 | 20221028T00:37:13Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 96 | 11| 
 | 20221028T00:37:03Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 225 | 25| 
 | 20221028T00:24:42Z | Null | https://github.com/jennifercarreno/Jinja2-ExploitMe | 0 | 0| 
-| 20221028T00:10:56Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 432 | 54| 
 | 20221027T23:41:45Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T23:40:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T23:39:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | 1 | 0| 
@@ -98,8 +98,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221028T01:53:39Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 433 | 54| 
 | 20221028T00:28:35Z | Alat rekayasa sosial (Reverse Shell Backdoor Builder untuk Windows/Android) dengan Ngrok. | https://github.com/ZeusSec1337/PhisingBackdoor- | 0 | 0| 
-| 20221028T00:10:56Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 432 | 54| 
 | 20221027T18:59:40Z | Null | https://github.com/SanggamXploiter/BackdoorPhising | 0 | 0| 
 | 20221027T18:12:17Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 7 | 2| 
 | 20221027T14:08:40Z | Null | https://github.com/unCodeBoss/backdoor | 0 | 0| 
@@ -130,7 +130,7 @@
 | --- | --- | --- | --- | ---| 
 | 20221025T14:19:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 16 | 2| 
 | 20221019T06:46:40Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 0 | 0| 
-| 20221010T01:53:08Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 58 | 12| 
+| 20221010T01:53:08Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 58 | 13| 
 | 20221005T07:16:48Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 10 | 1| 
 | 20221003T11:35:35Z | Null | https://github.com/Jedi-Team/Anonymous-NDSS-240 | 0 | 0| 
 
