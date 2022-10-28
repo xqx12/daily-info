@@ -40,10 +40,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221028T01:07:21Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
 | 20221027T21:31:30Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20221027T19:48:41Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
 | 20221027T18:40:51Z | CVE-2022-42889 | Text4Shell PoC Exploit  | https://github.com/west-wind/CVE-2022-42889 | | 
-| 20221027T18:35:12Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
 | 20221027T18:24:11Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
 | 20221027T15:32:55Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
 | 20221027T11:05:09Z | CVE-2022-39197 | CobaltStrike <= 4.7.1 RCE | https://github.com/its-arun/CVE-2022-39197 | | 
@@ -83,21 +83,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221027T23:45:51Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 224 | 26| 
+| 20221028T01:05:33Z | Null | https://github.com/lilendian0x00/Linux-Binary-Exploitation | 1 | 0| 
+| 20221028T00:37:13Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 96 | 11| 
+| 20221028T00:37:03Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 225 | 25| 
+| 20221028T00:24:42Z | Null | https://github.com/jennifercarreno/Jinja2-ExploitMe | 0 | 0| 
+| 20221028T00:10:56Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 432 | 54| 
 | 20221027T23:41:45Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T23:40:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T23:39:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T21:38:00Z | BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | https://github.com/Exopteron/BiblioRCE | 3 | 0| 
-| 20221027T21:22:54Z | Null | https://github.com/lilendian0x00/Linux-Binary-Exploitation | 0 | 0| 
 | 20221027T20:31:45Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/IchigoV2/AutoFarm-SonicSpeed-Exploit | 1 | 0| 
-| 20221027T20:31:42Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/IchigoV2/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 1 | 0| 
-| 20221027T16:12:44Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 95 | 11| 
-| 20221027T12:49:33Z | Demo website to illustrate how easy some exploits can be pulled off. | https://github.com/bramvandenbussche/hacking101-demo | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221028T00:28:35Z | Alat rekayasa sosial (Reverse Shell Backdoor Builder untuk Windows/Android) dengan Ngrok. | https://github.com/ZeusSec1337/PhisingBackdoor- | 0 | 0| 
+| 20221028T00:10:56Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 432 | 54| 
 | 20221027T18:59:40Z | Null | https://github.com/SanggamXploiter/BackdoorPhising | 0 | 0| 
 | 20221027T18:12:17Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 7 | 2| 
 | 20221027T14:08:40Z | Null | https://github.com/unCodeBoss/backdoor | 0 | 0| 
@@ -105,16 +107,14 @@
 | 20221027T04:08:08Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 63 | 18| 
 | 20221027T04:07:36Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 35 | 20| 
 | 20221026T16:17:21Z | python script that allows you to get access to a target machine and creates a reverse shell so you can execute commands on the windows target machine remotely.  | https://github.com/pranav9087/backdoor-for-windows-using-python | 0 | 1| 
-| 20221026T08:33:32Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 431 | 54| 
 | 20221026T07:29:38Z | backdoor | https://github.com/ilanitel/backdoor | 0 | 0| 
-| 20221026T01:15:24Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 95 | 21| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221027T22:01:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3178 | 448| 
 | 20221027T10:56:18Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 33 | 3| 
-| 20221027T01:12:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3179 | 448| 
 | 20221026T18:04:05Z | GenSym, a compiler for parallel symbolic execution of LLVM | https://github.com/Generative-Program-Analysis/GenSym | 20 | 0| 
 | 20221026T12:31:47Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1239 | 57| 
 | 20221026T08:58:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2099 | 591| 
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221027T09:38:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7993 | 1733| 
+| 20221027T23:38:20Z | A Fuzzy microservice using Springboot and Angular | https://github.com/Canudo319/fuzzy-microservice-unip | 0 | 0| 
+| 20221027T23:27:40Z | Null | https://github.com/google/fuzztest | 67 | 4| 
+| 20221027T22:19:06Z | team profile generator | https://github.com/bmckenzie88/module-10-fuzzy-journey | 0 | 0| 
+| 20221027T22:14:52Z | fuzzing ultrahtml w/ jazzer.js | https://github.com/jasikpark/fuzz-ultrahtml | 0 | 0| 
+| 20221027T21:54:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 7998 | 1735| 
+| 20221027T21:48:34Z | Config files for my GitHub profile. | https://github.com/TheOracle-Fuzz/TheOracle-Fuzz | 0 | 0| 
+| 20221027T19:09:12Z | Null | https://github.com/rajibhuq/Artificial-Pancreas-Using-Fuzzy-Logic-Controller | 0 | 0| 
 | 20221027T09:20:12Z | R implementation for paper: Online sequential fuzzy extreme learning machine for function approximation and classification problems | https://github.com/hoodpy/OS-Fuzzy-ELM | 0 | 0| 
 | 20221027T07:08:50Z | Work for money | https://github.com/Cheung0-bit/fuzzy_ahp | 1 | 0| 
 | 20221027T01:38:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4402 | 1068| 
-| 20221027T01:36:13Z | A Fuzzy microservice using Springboot and Angular | https://github.com/Canudo319/fuzzy-microservice-unip | 0 | 0| 
-| 20221027T00:53:22Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4855 | 500| 
-| 20221026T23:05:59Z | use fuzzy logic inference to predict irrigation duration | https://github.com/Aya-Ai-2022/Greenhouse-by-fuzzy-logic | 0 | 0| 
-| 20221026T21:43:32Z | Testing qwebsite | https://github.com/FuzzyMemento/FuzzyMemento.github.io | 0 | 0| 
-| 20221026T21:24:12Z | This repo is for my robot that used fuzzy logic controller to avoid obstacles.  | https://github.com/Lamekatwork/DCMetalBot_FuzzyLogicController | 1 | 0| 
-| 20221026T19:13:28Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 85 | 6| 
 
 
 

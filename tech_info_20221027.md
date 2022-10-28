@@ -21,7 +21,6 @@
 | 20221027T21:31:30Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20221027T19:48:41Z | CVE-2021-4034 | Null | https://github.com/galoget/PwnKit-CVE-2021-4034 | | 
 | 20221027T18:40:51Z | CVE-2022-42889 | Text4Shell PoC Exploit  | https://github.com/west-wind/CVE-2022-42889 | | 
-| 20221027T18:35:12Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
 | 20221027T18:24:11Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
 | 20221027T15:32:55Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
 | 20221027T11:05:09Z | CVE-2022-39197 | CobaltStrike <= 4.7.1 RCE | https://github.com/its-arun/CVE-2022-39197 | | 
@@ -53,9 +52,9 @@
 | 20221027T23:40:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T23:39:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5 | 1 | 0| 
 | 20221027T21:38:00Z | BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | https://github.com/Exopteron/BiblioRCE | 3 | 0| 
-| 20221027T21:22:54Z | Null | https://github.com/lilendian0x00/Linux-Binary-Exploitation | 0 | 0| 
 | 20221027T20:31:45Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/IchigoV2/AutoFarm-SonicSpeed-Exploit | 1 | 0| 
 | 20221027T20:31:42Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/IchigoV2/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 1 | 0| 
+| 20221027T19:28:44Z | One of the BEST up to date iReady hacks. Similar to iReady Overload. | https://github.com/notplu/Nullify | 9 | 8| 
 | 20221027T12:49:33Z | Demo website to illustrate how easy some exploits can be pulled off. | https://github.com/bramvandenbussche/hacking101-demo | 0 | 0| 
 | 20221027T12:47:17Z | Roblox Script Packs by Charlzk | https://github.com/Charlzk05/Roblox-Websites-Script-Packs | 2 | 0| 
 | 20221027T12:36:01Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9570 | 1553| 
