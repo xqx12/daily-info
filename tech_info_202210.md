@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T01:12:18Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 4 | 2| 
 | 20221029T01:01:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | 1 | 0| 
 | 20221029T00:59:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7 | 1 | 0| 
 | 20221029T00:58:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7 | 1 | 0| 
@@ -94,7 +95,6 @@
 | 20221028T22:54:53Z | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscordExploits | 0 | 0| 
 | 20221028T22:46:45Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stand-exploit | 0 | 0| 
 | 20221028T22:25:48Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3112 | 473| 
-| 20221028T21:52:10Z | GPay balance exploit READ MORE BELOW | https://github.com/HappyElmo/GPAY-BALANCE-EXPLOIT | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T01:17:52Z | Null | https://github.com/dberry38/fuzzy-eureka | 0 | 0| 
 | 20221028T22:48:33Z | Null | https://github.com/soldiii/FuzzyNumbers | 0 | 0| 
 | 20221028T21:22:18Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
 | 20221028T20:32:38Z | Revizor - a fuzzer that searches for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 24 | 14| 
@@ -150,7 +151,6 @@
 | 20221028T18:55:02Z | Config files for my GitHub profile. | https://github.com/FuzzyRaptor/FuzzyRaptor | 0 | 0| 
 | 20221028T18:45:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4405 | 1069| 
 | 20221028T13:52:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2616 | 176| 
-| 20221028T12:54:55Z | Null | https://github.com/goitaaboubakar25/fuzzy-system | 0 | 0| 
 
 
 
