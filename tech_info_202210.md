@@ -56,8 +56,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T00:50:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9031 | 303| 
 | 20221028T22:34:42Z | Klee listens to the commands given by the user and executes certain functions. Klee is mainly a conversation-based bot who talks to the user enthusiastically. | https://github.com/krishnapriya-n/klee-va | 1 | 0| 
-| 20221028T13:36:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9030 | 303| 
 | 20221027T11:04:43Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 117 | 1| 
 | 20221027T10:20:56Z | Null | https://github.com/Rajkumarraja2001/kleeen-cloud | 0 | 0| 
 | 20221027T09:52:34Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T01:01:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | 1 | 0| 
+| 20221029T00:59:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7 | 1 | 0| 
+| 20221029T00:58:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7 | 1 | 0| 
+| 20221029T00:54:38Z | Null | https://github.com/3vilc0de/exploit-bot | 0 | 0| 
 | 20221029T00:15:48Z | Yes, I will finish this exploit this time. | https://github.com/Exploitables/WinRing0-Code-Base-Exploit | 0 | 0| 
 | 20221028T23:44:22Z | An exploit of the (patched) business logic vulnerability in AZOTA%s backend. Worked in Nov 2021. | https://github.com/nhdtxdy/Azota-Exploit | 1 | 0| 
 | 20221028T22:54:53Z | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscordExploits | 0 | 0| 
 | 20221028T22:46:45Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stand-exploit | 0 | 0| 
 | 20221028T22:25:48Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3112 | 473| 
 | 20221028T21:52:10Z | GPay balance exploit READ MORE BELOW | https://github.com/HappyElmo/GPAY-BALANCE-EXPLOIT | 1 | 0| 
-| 20221028T21:42:10Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/IShowY/Roblox-BloxFlip-Predictor-Exploit | 1 | 0| 
-| 20221028T21:02:47Z | This repository is just used to exploit a stored XSS for a CTF challenge on HTB | https://github.com/dcianciulli/hacktheboo-cursed-party | 0 | 0| 
-| 20221028T19:48:45Z | Null | https://github.com/timoludwig-test/exploit-blame | 0 | 0| 
-| 20221028T18:00:23Z | This Has only JavaScript Code So you can put it in your bookmark to make it function. | https://github.com/ShadowClark/ProdigyExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
