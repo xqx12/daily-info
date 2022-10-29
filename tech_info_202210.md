@@ -41,24 +41,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221029T01:48:58Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
+| 20221029T11:15:21Z | 未知编号 | Not the author of this script, reposting as original repo link is broken | https://github.com/itwestend/cve_2022_26134 | | 
+| 20221029T10:23:51Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
+| 20221029T09:26:17Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
+| 20221029T09:01:34Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
+| 20221029T05:18:25Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
 | 20221028T17:55:39Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20221028T16:22:59Z | CVE-2021-38817 | Remote OS Command Injection in TastyIgniter v3.0.7 Sendmail Path field | https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection | | 
-| 20221028T13:54:42Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
 | 20221028T11:10:40Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
-| 20221028T10:00:12Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
 | 20221028T09:04:59Z | CVE-2022-40687 | Omisión de autenticación utilizando una ruta o canal alternativa en el producto de Fortinet. | https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner | | 
 | 20221028T08:12:47Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
-| 20221028T07:45:04Z | CVE-2022-42889 | CVE-2022-42889 aka Text4Shell research & PoC | https://github.com/cxzero/CVE-2022-42889-text4shell | | 
-| 20221028T05:56:45Z | CVE-2020-26233 | Null | https://github.com/an1p3lg5/CVE-2020-26233 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221029T01:48:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9033 | 304| 
+| 20221029T11:04:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9044 | 305| 
+| 20221029T08:25:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 118 | 1| 
 | 20221028T22:34:42Z | Klee listens to the commands given by the user and executes certain functions. Klee is mainly a conversation-based bot who talks to the user enthusiastically. | https://github.com/krishnapriya-n/klee-va | 1 | 0| 
-| 20221027T11:04:43Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 117 | 1| 
 | 20221027T10:20:56Z | Null | https://github.com/Rajkumarraja2001/kleeen-cloud | 0 | 0| 
 | 20221027T09:52:34Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
 | 20221027T04:56:23Z | Null | https://github.com/ndtam1112/KleeWeb | 0 | 0| 
@@ -71,8 +71,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T03:26:53Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 264 | 64| 
 | 20221028T02:37:12Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 82 | 44| 
-| 20221027T12:22:43Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 263 | 64| 
 | 20221021T09:15:49Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 23 | 4| 
 | 20221020T11:32:11Z | Null | https://github.com/F-UMI/S2E2API | 0 | 0| 
 | 20221018T11:33:07Z | Null | https://github.com/pgonline123/s2eYav1YyM | 0 | 0| 
@@ -85,27 +85,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T11:52:42Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 283 | 28| 
+| 20221029T11:03:26Z | Exploit Database search bot | https://github.com/Odnoletov/edb-bot | 0 | 0| 
+| 20221029T10:55:17Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 35 | 24| 
+| 20221029T09:37:31Z | exploit ver | https://github.com/lmd2kk7/ver | 0 | 0| 
+| 20221029T09:10:21Z | Some MongoDB clusters have no authentication and can therefor be accessed without credentials | https://github.com/mihneamanolache/MongoDB-Exploit | 0 | 0| 
+| 20221029T07:15:07Z | Null | https://github.com/SureFireExplits/SureFireExploit | 0 | 0| 
+| 20221029T06:27:55Z | BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | https://github.com/Exopteron/BiblioRCE | 5 | 0| 
 | 20221029T01:57:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stop-exploit | 0 | 0| 
 | 20221029T01:32:35Z | Another tool for exploiting CVE-2017-9248, a cryptographic weakness in Telerik UI for ASP.NET AJAX dialog handler. | https://github.com/blacklanternsecurity/dp_cryptomg | 30 | 4| 
 | 20221029T01:12:18Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 4 | 2| 
-| 20221029T01:01:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | 1 | 0| 
-| 20221029T00:59:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7 | 1 | 0| 
-| 20221029T00:58:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-7 | 1 | 0| 
-| 20221029T00:54:38Z | Null | https://github.com/3vilc0de/exploit-bot | 0 | 0| 
-| 20221029T00:15:48Z | Yes, I will finish this exploit this time. | https://github.com/Exploitables/WinRing0-Code-Base-Exploit | 0 | 0| 
-| 20221028T23:44:22Z | An exploit of the (patched) business logic vulnerability in AZOTA%s backend. Worked in Nov 2021. | https://github.com/nhdtxdy/Azota-Exploit | 1 | 0| 
-| 20221028T22:54:53Z | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscordExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T05:18:25Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 6 | 3| 
 | 20221029T00:35:33Z | verify if jar have backdoor or others malware%s | https://github.com/Halqq/PrChecker | 4 | 1| 
 | 20221029T00:31:10Z | Null | https://github.com/Noniod7/BackDoorKu | 0 | 0| 
 | 20221028T17:08:39Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 7 | 0| 
 | 20221028T16:33:50Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 434 | 54| 
 | 20221028T14:34:00Z | Null | https://github.com/bharath1214228/food-backdoordounuts | 0 | 0| 
-| 20221028T13:54:42Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 5 | 3| 
 | 20221028T11:25:06Z | BackdoorDemo | https://github.com/TJKkking/BackdoorDemo | 0 | 0| 
 | 20221028T11:24:23Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 3 | 2| 
 | 20221028T08:31:07Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 8 | 3| 
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T11:58:40Z | Null | https://github.com/energitjuvar/fuzzy-sniffle | 0 | 0| 
+| 20221029T11:57:09Z | Null | https://github.com/viniVN7/Logica-Fuzzy | 0 | 0| 
+| 20221029T09:33:43Z | Null | https://github.com/mohammedabdelhafiz/fuzzbuzz | 0 | 0| 
+| 20221029T08:21:37Z | Null | https://github.com/kingofDaniel/fuzzy-succotash | 1 | 2| 
+| 20221029T07:41:47Z | Null | https://github.com/mand919/fuzzy-adventure | 0 | 0| 
+| 20221029T07:03:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1088 | 132| 
+| 20221029T06:18:13Z | A fuzz face with swappable transistors for fun and profit. | https://github.com/michael-hirschmugl/flexi_fuzz | 0 | 0| 
+| 20221029T03:51:15Z | Fuzzer is a music gear e-commerce. | https://github.com/igutzzz/fuzzer | 0 | 0| 
+| 20221029T02:48:23Z | Null | https://github.com/mzs555557/FuzzingbookExercise | 0 | 0| 
 | 20221029T01:59:00Z | Null | https://github.com/ZiuNgai666/fuzzy-pancake | 0 | 0| 
-| 20221029T01:43:06Z | Fuzzer is a music gear e-commerce. | https://github.com/igutzzz/fuzzer | 0 | 0| 
-| 20221029T01:19:46Z | Null | https://github.com/dberry38/fuzzy-eureka | 0 | 0| 
-| 20221028T22:48:33Z | Null | https://github.com/soldiii/FuzzyNumbers | 0 | 0| 
-| 20221028T21:22:18Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
-| 20221028T20:32:38Z | Revizor - a fuzzer that searches for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 24 | 14| 
-| 20221028T20:31:53Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 200 | 29| 
-| 20221028T20:13:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8007 | 1738| 
-| 20221028T19:25:25Z | Null | https://github.com/JysinTestOrg/fuzzy-octo-telegram | 0 | 0| 
-| 20221028T18:55:02Z | Config files for my GitHub profile. | https://github.com/FuzzyRaptor/FuzzyRaptor | 0 | 0| 
 
 
 
