@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T00:14:10Z | Null | https://github.com/Noniod7/BackDoorKu | 0 | 0| 
 | 20221028T23:59:49Z | verify if jar have backdoor or others malware%s | https://github.com/Halqq/PrChecker | 3 | 1| 
 | 20221028T17:08:39Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 7 | 0| 
 | 20221028T16:33:50Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 434 | 54| 
@@ -109,7 +110,6 @@
 | 20221028T11:24:23Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 3 | 2| 
 | 20221028T08:31:07Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 8 | 3| 
 | 20221028T02:16:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 53 | 8| 
-| 20221028T00:28:35Z | Alat rekayasa sosial (Reverse Shell Backdoor Builder untuk Windows/Android) dengan Ngrok. | https://github.com/ZeusSec1337/PhisingBackdoor- | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
