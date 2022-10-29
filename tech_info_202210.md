@@ -26,6 +26,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221029 | 美国网络安全国策之EDR「端点检测和响应」 | https://mp.weixin.qq.com/s/qA0thrPVY2UmE5wlP4zIMQ| 
 | 20221028 | IDC权威发布,天懋信息位居视频物联安全管理平台市场领导者 | https://mp.weixin.qq.com/s/iKAwrofDV9Ei3X1cHkLQRg| 
 | 20221028 | 美新版《国家安全战略》中的网络安全 | https://mp.weixin.qq.com/s/VZ0ofovRfJIUbxQuHvaLyQ| 
 | 20221028 | DeFi Hacks Analysis - Root Cause | https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee| 
@@ -35,7 +36,6 @@
 | 20221026 | 攻防演练态势及防守思路 | https://mp.weixin.qq.com/s/yOvmo7RBrpKHL_hetT8jKg| 
 | 20221025 | 安全同学讲Maven重打包的故事 | https://mp.weixin.qq.com/s/xsJkB0onUkakrVH0wejcIg| 
 | 20221024 | Bold-Falcon: 开源的自动化恶意软件分析系统 | https://github.com/PowerLZY/Bold-Falcon| 
-| 20221024 | SecWiki周刊（第451期) | https://www.sec-wiki.com/weekly/451| 
 
 
 # CVE Github 推荐

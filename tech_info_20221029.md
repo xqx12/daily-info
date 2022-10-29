@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221029 | 美国网络安全国策之EDR「端点检测和响应」 | https://mp.weixin.qq.com/s/qA0thrPVY2UmE5wlP4zIMQ| 
 
 
 # CVE Github 推荐
