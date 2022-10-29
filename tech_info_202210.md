@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T12:53:52Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-exploit-discuss | 0 | 0| 
 | 20221029T12:16:39Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 284 | 28| 
 | 20221029T11:03:26Z | Exploit Database search bot | https://github.com/Odnoletov/edb-bot | 0 | 0| 
 | 20221029T10:55:17Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 35 | 24| 
@@ -94,7 +95,6 @@
 | 20221029T07:15:07Z | Null | https://github.com/SureFireExplits/SureFireExploit | 0 | 0| 
 | 20221029T06:27:55Z | BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | https://github.com/Exopteron/BiblioRCE | 5 | 0| 
 | 20221029T01:57:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stop-exploit | 0 | 0| 
-| 20221029T01:32:35Z | Another tool for exploiting CVE-2017-9248, a cryptographic weakness in Telerik UI for ASP.NET AJAX dialog handler. | https://github.com/blacklanternsecurity/dp_cryptomg | 30 | 4| 
 
 
 # backdoor on Github 推荐
