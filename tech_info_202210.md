@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T00:15:48Z | Yes, I will finish this exploit this time. | https://github.com/Exploitables/WinRing0-Code-Base-Exploit | 0 | 0| 
 | 20221028T23:44:22Z | An exploit of the (patched) business logic vulnerability in AZOTA%s backend. Worked in Nov 2021. | https://github.com/nhdtxdy/Azota-Exploit | 1 | 0| 
 | 20221028T22:54:53Z | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscordExploits | 0 | 0| 
 | 20221028T22:46:45Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stand-exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20221028T21:02:47Z | This repository is just used to exploit a stored XSS for a CTF challenge on HTB | https://github.com/dcianciulli/hacktheboo-cursed-party | 0 | 0| 
 | 20221028T19:48:45Z | Null | https://github.com/timoludwig-test/exploit-blame | 0 | 0| 
 | 20221028T18:00:23Z | This Has only JavaScript Code So you can put it in your bookmark to make it function. | https://github.com/ShadowClark/ProdigyExploit | 0 | 0| 
-| 20221028T12:09:42Z | Python scripts to get a reverse shell (post-exploitation) | https://github.com/hawkwheels/Python_C2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
