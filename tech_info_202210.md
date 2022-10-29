@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T01:57:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stop-exploit | 0 | 0| 
 | 20221029T01:32:35Z | Another tool for exploiting CVE-2017-9248, a cryptographic weakness in Telerik UI for ASP.NET AJAX dialog handler. | https://github.com/blacklanternsecurity/dp_cryptomg | 30 | 4| 
 | 20221029T01:12:18Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 4 | 2| 
 | 20221029T01:01:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | 1 | 0| 
@@ -94,7 +95,6 @@
 | 20221029T00:15:48Z | Yes, I will finish this exploit this time. | https://github.com/Exploitables/WinRing0-Code-Base-Exploit | 0 | 0| 
 | 20221028T23:44:22Z | An exploit of the (patched) business logic vulnerability in AZOTA%s backend. Worked in Nov 2021. | https://github.com/nhdtxdy/Azota-Exploit | 1 | 0| 
 | 20221028T22:54:53Z | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscordExploits | 0 | 0| 
-| 20221028T22:46:45Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stand-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T01:59:00Z | Null | https://github.com/ZiuNgai666/fuzzy-pancake | 0 | 0| 
 | 20221029T01:43:06Z | Fuzzer is a music gear e-commerce. | https://github.com/igutzzz/fuzzer | 0 | 0| 
 | 20221029T01:19:46Z | Null | https://github.com/dberry38/fuzzy-eureka | 0 | 0| 
 | 20221028T22:48:33Z | Null | https://github.com/soldiii/FuzzyNumbers | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20221028T20:13:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8007 | 1738| 
 | 20221028T19:25:25Z | Null | https://github.com/JysinTestOrg/fuzzy-octo-telegram | 0 | 0| 
 | 20221028T18:55:02Z | Config files for my GitHub profile. | https://github.com/FuzzyRaptor/FuzzyRaptor | 0 | 0| 
-| 20221028T18:45:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4405 | 1069| 
 
 
 
