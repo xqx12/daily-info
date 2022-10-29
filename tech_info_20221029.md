@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221029T11:52:42Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 283 | 28| 
+| 20221029T12:16:39Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 284 | 28| 
 | 20221029T11:03:26Z | Exploit Database search bot | https://github.com/Odnoletov/edb-bot | 0 | 0| 
 | 20221029T10:55:17Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 35 | 24| 
 | 20221029T09:37:31Z | exploit ver | https://github.com/lmd2kk7/ver | 0 | 0| 
