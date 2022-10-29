@@ -115,7 +115,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221027T22:01:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3178 | 448| 
+| 20221027T22:01:12Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3178 | 449| 
 | 20221027T10:56:18Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 33 | 3| 
 | 20221026T18:04:05Z | GenSym, a compiler for parallel symbolic execution of LLVM | https://github.com/Generative-Program-Analysis/GenSym | 20 | 0| 
 | 20221026T12:31:47Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1239 | 57| 
@@ -130,6 +130,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221028T14:01:33Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 13 | 2| 
 | 20221025T14:19:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 16 | 2| 
 | 20221019T06:46:40Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 0 | 0| 
 | 20221010T01:53:08Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 58 | 13| 
