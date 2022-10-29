@@ -90,11 +90,11 @@
 | 20221029T10:55:17Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 35 | 24| 
 | 20221029T09:37:31Z | exploit ver | https://github.com/lmd2kk7/ver | 0 | 0| 
 | 20221029T09:10:21Z | Some MongoDB clusters have no authentication and can therefor be accessed without credentials | https://github.com/mihneamanolache/MongoDB-Exploit | 0 | 0| 
+| 20221029T09:03:15Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12212 | 2101| 
 | 20221029T07:15:07Z | Null | https://github.com/SureFireExplits/SureFireExploit | 0 | 0| 
 | 20221029T06:27:55Z | BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | https://github.com/Exopteron/BiblioRCE | 5 | 0| 
 | 20221029T01:57:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stop-exploit | 0 | 0| 
 | 20221029T01:32:35Z | Another tool for exploiting CVE-2017-9248, a cryptographic weakness in Telerik UI for ASP.NET AJAX dialog handler. | https://github.com/blacklanternsecurity/dp_cryptomg | 30 | 4| 
-| 20221029T01:12:18Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 4 | 2| 
 
 
 # backdoor on Github 推荐
