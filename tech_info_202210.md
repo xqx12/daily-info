@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T12:13:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3156 | 640| 
 | 20221029T11:58:40Z | Null | https://github.com/energitjuvar/fuzzy-sniffle | 0 | 0| 
 | 20221029T11:57:09Z | Null | https://github.com/viniVN7/Logica-Fuzzy | 0 | 0| 
 | 20221029T09:33:43Z | Null | https://github.com/mohammedabdelhafiz/fuzzbuzz | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20221029T06:18:13Z | A fuzz face with swappable transistors for fun and profit. | https://github.com/michael-hirschmugl/flexi_fuzz | 0 | 0| 
 | 20221029T03:51:15Z | Fuzzer is a music gear e-commerce. | https://github.com/igutzzz/fuzzer | 0 | 0| 
 | 20221029T02:48:23Z | Null | https://github.com/mzs555557/FuzzingbookExercise | 0 | 0| 
-| 20221029T01:59:00Z | Null | https://github.com/ZiuNgai666/fuzzy-pancake | 0 | 0| 
 
 
 
