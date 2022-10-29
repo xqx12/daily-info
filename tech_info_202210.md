@@ -41,6 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221029T01:48:58Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
 | 20221028T17:55:39Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20221028T16:22:59Z | CVE-2021-38817 | Remote OS Command Injection in TastyIgniter v3.0.7 Sendmail Path field | https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection | | 
 | 20221028T13:54:42Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
@@ -50,13 +51,12 @@
 | 20221028T08:12:47Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
 | 20221028T07:45:04Z | CVE-2022-42889 | CVE-2022-42889 aka Text4Shell research & PoC | https://github.com/cxzero/CVE-2022-42889-text4shell | | 
 | 20221028T05:56:45Z | CVE-2020-26233 | Null | https://github.com/an1p3lg5/CVE-2020-26233 | | 
-| 20221028T03:46:00Z | CVE-2022-40684 | Null | https://github.com/hughink/CVE-2022-40684 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221029T01:24:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9032 | 303| 
+| 20221029T01:48:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9033 | 304| 
 | 20221028T22:34:42Z | Klee listens to the commands given by the user and executes certain functions. Klee is mainly a conversation-based bot who talks to the user enthusiastically. | https://github.com/krishnapriya-n/klee-va | 1 | 0| 
 | 20221027T11:04:43Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 117 | 1| 
 | 20221027T10:20:56Z | Null | https://github.com/Rajkumarraja2001/kleeen-cloud | 0 | 0| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T01:32:35Z | Another tool for exploiting CVE-2017-9248, a cryptographic weakness in Telerik UI for ASP.NET AJAX dialog handler. | https://github.com/blacklanternsecurity/dp_cryptomg | 30 | 4| 
 | 20221029T01:12:18Z | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | 4 | 2| 
 | 20221029T01:01:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-7 | 1 | 0| 
 | 20221029T00:59:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-7 | 1 | 0| 
@@ -94,7 +95,6 @@
 | 20221028T23:44:22Z | An exploit of the (patched) business logic vulnerability in AZOTA%s backend. Worked in Nov 2021. | https://github.com/nhdtxdy/Azota-Exploit | 1 | 0| 
 | 20221028T22:54:53Z | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscordExploits | 0 | 0| 
 | 20221028T22:46:45Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stand-exploit | 0 | 0| 
-| 20221028T22:25:48Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3112 | 473| 
 
 
 # backdoor on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T01:43:06Z | Fuzzer is a music gear e-commerce. | https://github.com/igutzzz/fuzzer | 0 | 0| 
 | 20221029T01:19:46Z | Null | https://github.com/dberry38/fuzzy-eureka | 0 | 0| 
 | 20221028T22:48:33Z | Null | https://github.com/soldiii/FuzzyNumbers | 0 | 0| 
 | 20221028T21:22:18Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20221028T19:25:25Z | Null | https://github.com/JysinTestOrg/fuzzy-octo-telegram | 0 | 0| 
 | 20221028T18:55:02Z | Config files for my GitHub profile. | https://github.com/FuzzyRaptor/FuzzyRaptor | 0 | 0| 
 | 20221028T18:45:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4405 | 1069| 
-| 20221028T13:52:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2616 | 176| 
 
 
 
