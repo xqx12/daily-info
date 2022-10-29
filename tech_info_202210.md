@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221029T01:17:52Z | Null | https://github.com/dberry38/fuzzy-eureka | 0 | 0| 
+| 20221029T01:19:46Z | Null | https://github.com/dberry38/fuzzy-eureka | 0 | 0| 
 | 20221028T22:48:33Z | Null | https://github.com/soldiii/FuzzyNumbers | 0 | 0| 
 | 20221028T21:22:18Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
 | 20221028T20:32:38Z | Revizor - a fuzzer that searches for microarchitectural leaks in CPUs | https://github.com/microsoft/sca-fuzzer | 24 | 14| 
