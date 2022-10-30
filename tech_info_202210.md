@@ -141,6 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T01:56:19Z | Null | https://github.com/reinan47/fuzzy_MaquinaDeLavar | 0 | 0| 
+| 20221030T01:53:18Z | Null | https://github.com/mzs555557/FuzzingbookExercise | 0 | 0| 
 | 20221030T01:46:44Z | Null | https://github.com/Planet-Source-Code/lefteris-eleftheriades-fuzzy-game-check-it-out__1-34699 | 0 | 0| 
 | 20221030T01:45:55Z | Aprendendo logica fuzzy(nebulosa) IA | https://github.com/reinan47/MaquinaDeLavar-fuzzy | 0 | 0| 
 | 20221030T00:36:06Z | West | https://github.com/Nehewest4sure/fuzzy-potato | 0 | 0| 
@@ -149,8 +151,6 @@
 | 20221029T21:21:50Z | Null | https://github.com/Ekzorcist/pentest | 2 | 3| 
 | 20221029T18:18:01Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1563 | 69| 
 | 20221029T16:53:20Z | Who%s that pokemon? | https://github.com/PippoGit/fuzzy-octo-system | 0 | 1| 
-| 20221029T12:13:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3156 | 640| 
-| 20221029T11:58:40Z | Null | https://github.com/energitjuvar/fuzzy-sniffle | 0 | 0| 
 
 
 
