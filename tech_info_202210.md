@@ -56,6 +56,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T12:15:26Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20221030T10:58:58Z | Null | https://github.com/Kleevietanh98/https-repo.kleevietanh.net- | 1 | 0| 
 | 20221030T10:06:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9061 | 306| 
 | 20221029T08:25:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 118 | 1| 
@@ -65,7 +66,6 @@
 | 20221027T04:56:23Z | Null | https://github.com/ndtam1112/KleeWeb | 0 | 0| 
 | 20221026T08:58:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2099 | 591| 
 | 20221025T22:32:11Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
-| 20221024T14:29:45Z | This is a blogging and video subscription website built using nextjs and firebase | https://github.com/Mundia-Pizo/kleencode | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T12:18:15Z | Null | https://github.com/mquacinee/fuzzy-palm-tree | 0 | 0| 
 | 20221030T12:01:08Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 4688 | 1236| 
 | 20221030T11:04:46Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 60 | 21| 
 | 20221030T09:20:40Z | Null | https://github.com/krushi1992/FuzzyNet | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20221030T01:45:55Z | Aprendendo logica fuzzy(nebulosa) IA | https://github.com/reinan47/MaquinaDeLavar-fuzzy | 0 | 0| 
 | 20221030T00:36:06Z | West | https://github.com/Nehewest4sure/fuzzy-potato | 0 | 0| 
 | 20221030T00:07:29Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
-| 20221030T00:05:25Z | A fast classifier based on indexing tables and fuzzy logic. | https://github.com/TusorBalazs/Sequential-Fuzzy-Indexing-Tables | 0 | 0| 
 
 
 
