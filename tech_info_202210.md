@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221030T01:31:00Z | Aprendendo logica fuzzy(nebulosa) IA | https://github.com/reinan47/MaquinaDeLavar-fuzzy | 0 | 0| 
+| 20221030T01:36:10Z | Aprendendo logica fuzzy(nebulosa) IA | https://github.com/reinan47/MaquinaDeLavar-fuzzy | 0 | 0| 
 | 20221030T00:36:06Z | West | https://github.com/Nehewest4sure/fuzzy-potato | 0 | 0| 
 | 20221030T00:07:29Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
 | 20221030T00:05:25Z | A fast classifier based on indexing tables and fuzzy logic. | https://github.com/TusorBalazs/Sequential-Fuzzy-Indexing-Tables | 0 | 0| 
