@@ -41,22 +41,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221029T23:02:13Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
+| 20221029T21:25:02Z | CVE-2022-21907 | POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability. | https://github.com/Malwareman007/CVE-2022-21907 | | 
+| 20221029T19:08:07Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/skylarcoolya/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
+| 20221029T18:43:33Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20221029T18:42:30Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/RydeinGG/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20221029T14:18:33Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20221029T11:15:21Z | 未知编号 | Not the author of this script, reposting as original repo link is broken | https://github.com/itwestend/cve_2022_26134 | | 
 | 20221029T10:23:51Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
-| 20221029T09:26:17Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
 | 20221029T09:01:34Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
 | 20221029T05:18:25Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
-| 20221028T17:55:39Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
-| 20221028T16:22:59Z | CVE-2021-38817 | Remote OS Command Injection in TastyIgniter v3.0.7 Sendmail Path field | https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection | | 
-| 20221028T11:10:40Z | CVE-2022-36231 | pdf_info <= 0.5.3 OS Command Injection | https://github.com/affix/CVE-2022-36231 | | 
-| 20221028T09:04:59Z | CVE-2022-40687 | Omisión de autenticación utilizando una ruta o canal alternativa en el producto de Fortinet. | https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner | | 
-| 20221028T08:12:47Z | CVE-2022-40684 | Null | https://github.com/qingsiweisan/CVE-2022-40684 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221029T11:04:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9044 | 305| 
+| 20221029T22:08:33Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9047 | 306| 
 | 20221029T08:25:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 118 | 1| 
 | 20221028T22:34:42Z | Klee listens to the commands given by the user and executes certain functions. Klee is mainly a conversation-based bot who talks to the user enthusiastically. | https://github.com/krishnapriya-n/klee-va | 1 | 0| 
 | 20221027T10:20:56Z | Null | https://github.com/Rajkumarraja2001/kleeen-cloud | 0 | 0| 
@@ -85,23 +85,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221029T12:53:52Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-exploit-discuss | 0 | 0| 
-| 20221029T12:16:39Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 284 | 28| 
-| 20221029T11:03:26Z | Exploit Database search bot | https://github.com/Odnoletov/edb-bot | 0 | 0| 
-| 20221029T10:55:17Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 35 | 24| 
-| 20221029T09:37:31Z | exploit ver | https://github.com/lmd2kk7/ver | 0 | 0| 
-| 20221029T09:10:21Z | Some MongoDB clusters have no authentication and can therefor be accessed without credentials | https://github.com/mihneamanolache/MongoDB-Exploit | 0 | 0| 
-| 20221029T09:03:15Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12212 | 2101| 
-| 20221029T07:15:07Z | Null | https://github.com/SureFireExplits/SureFireExploit | 0 | 0| 
-| 20221029T06:27:55Z | BiblioCraft File Manipulation/Remote Code Execution exploit affecting BiblioCraft versions prior to v2.4.6 | https://github.com/Exopteron/BiblioRCE | 5 | 0| 
-| 20221029T01:57:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-stop-exploit | 0 | 0| 
+| 20221030T00:15:54Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 84 | 7| 
+| 20221030T00:11:17Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANv | 1 | 0| 
+| 20221030T00:10:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANv | 1 | 0| 
+| 20221030T00:07:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANv | 1 | 0| 
+| 20221029T23:43:55Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 50 | 4| 
+| 20221029T22:33:11Z | Null | https://github.com/Planet-Source-Code/no0ne-cgi-exploit-scanner-2-0-1-407-tests-bug-fixed__1-8611 | 0 | 0| 
+| 20221029T22:04:56Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-inform-exploit | 0 | 0| 
+| 20221029T21:58:55Z | Null | https://github.com/FlyingDigitalz/id_mc_exploit | 0 | 0| 
+| 20221029T19:54:12Z | Null | https://github.com/NEVESCOOL/WIIU-EXPLOITS | 0 | 0| 
+| 20221029T19:16:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-understand-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221029T23:05:15Z | verify if jar have backdoor or others malware%s | https://github.com/Halqq/PrChecker | 6 | 1| 
+| 20221029T19:35:21Z | Your personal backdoor for your device. | https://github.com/Xeroxxhah/6u4rd | 1 | 0| 
 | 20221029T05:18:25Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 6 | 3| 
-| 20221029T00:35:33Z | verify if jar have backdoor or others malware%s | https://github.com/Halqq/PrChecker | 4 | 1| 
 | 20221029T00:31:10Z | Null | https://github.com/Noniod7/BackDoorKu | 0 | 0| 
 | 20221028T17:08:39Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 7 | 0| 
 | 20221028T16:33:50Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 434 | 54| 
@@ -109,7 +110,6 @@
 | 20221028T11:25:06Z | BackdoorDemo | https://github.com/TJKkking/BackdoorDemo | 0 | 0| 
 | 20221028T11:24:23Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 3 | 2| 
 | 20221028T08:31:07Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 8 | 3| 
-| 20221028T02:16:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 53 | 8| 
 
 
 # symbolic execution on Github 推荐
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T00:07:29Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
+| 20221030T00:05:25Z | A fast classifier based on indexing tables and fuzzy logic. | https://github.com/TusorBalazs/Sequential-Fuzzy-Indexing-Tables | 0 | 0| 
+| 20221029T21:21:50Z | Null | https://github.com/Ekzorcist/pentest | 2 | 3| 
+| 20221029T18:18:01Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1563 | 69| 
+| 20221029T16:53:20Z | Who%s that pokemon? | https://github.com/PippoGit/fuzzy-octo-system | 0 | 1| 
 | 20221029T12:13:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3156 | 640| 
 | 20221029T11:58:40Z | Null | https://github.com/energitjuvar/fuzzy-sniffle | 0 | 0| 
 | 20221029T11:57:09Z | Null | https://github.com/viniVN7/Logica-Fuzzy | 0 | 0| 
 | 20221029T09:33:43Z | Null | https://github.com/mohammedabdelhafiz/fuzzbuzz | 0 | 0| 
 | 20221029T08:21:37Z | Null | https://github.com/kingofDaniel/fuzzy-succotash | 1 | 2| 
-| 20221029T07:41:47Z | Null | https://github.com/mand919/fuzzy-adventure | 0 | 0| 
-| 20221029T07:03:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1088 | 132| 
-| 20221029T06:18:13Z | A fuzz face with swappable transistors for fun and profit. | https://github.com/michael-hirschmugl/flexi_fuzz | 0 | 0| 
-| 20221029T03:51:15Z | Fuzzer is a music gear e-commerce. | https://github.com/igutzzz/fuzzer | 0 | 0| 
-| 20221029T02:48:23Z | Null | https://github.com/mzs555557/FuzzingbookExercise | 0 | 0| 
 
 
 
