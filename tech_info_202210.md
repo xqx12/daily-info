@@ -41,11 +41,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221029T23:02:13Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
+| 20221030T10:14:49Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/skylarcoolya/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
+| 20221030T10:14:18Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20221030T10:14:16Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/RydeinGG/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20221030T07:29:33Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
 | 20221029T21:25:02Z | CVE-2022-21907 | POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability. | https://github.com/Malwareman007/CVE-2022-21907 | | 
-| 20221029T19:08:07Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/skylarcoolya/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221029T18:43:33Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20221029T18:42:30Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/RydeinGG/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221029T14:18:33Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20221029T11:15:21Z | 未知编号 | Not the author of this script, reposting as original repo link is broken | https://github.com/itwestend/cve_2022_26134 | | 
 | 20221029T10:23:51Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
@@ -56,7 +56,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221030T01:51:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9050 | 306| 
+| 20221030T10:58:58Z | Null | https://github.com/Kleevietanh98/https-repo.kleevietanh.net- | 1 | 0| 
+| 20221030T10:06:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9061 | 306| 
 | 20221029T08:25:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 118 | 1| 
 | 20221028T22:34:42Z | Klee listens to the commands given by the user and executes certain functions. Klee is mainly a conversation-based bot who talks to the user enthusiastically. | https://github.com/krishnapriya-n/klee-va | 1 | 0| 
 | 20221027T10:20:56Z | Null | https://github.com/Rajkumarraja2001/kleeen-cloud | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20221026T08:58:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2099 | 591| 
 | 20221025T22:32:11Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
 | 20221024T14:29:45Z | This is a blogging and video subscription website built using nextjs and firebase | https://github.com/Mundia-Pizo/kleencode | 0 | 0| 
-| 20221024T08:54:15Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 14 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T11:52:17Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/Jennahacker/zenna_rat | 17 | 9| 
+| 20221030T10:25:14Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 2294 | 332| 
+| 20221030T09:50:15Z | Just some scripts exploits | https://github.com/DhurimHalili/Scripts | 0 | 0| 
+| 20221030T06:50:05Z | Null | https://github.com/reject-all/php-self-exploit | 1 | 0| 
 | 20221030T01:39:13Z | Null | https://github.com/LeontKing2/WRD-ExploitAPI-Template-Modified | 0 | 0| 
 | 20221030T00:15:54Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 84 | 7| 
 | 20221030T00:11:17Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANv | 1 | 0| 
 | 20221030T00:10:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANv | 1 | 0| 
 | 20221030T00:07:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANv | 1 | 0| 
 | 20221029T23:43:55Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 50 | 4| 
-| 20221029T22:33:11Z | Null | https://github.com/Planet-Source-Code/no0ne-cgi-exploit-scanner-2-0-1-407-tests-bug-fixed__1-8611 | 0 | 0| 
-| 20221029T22:04:56Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-inform-exploit | 0 | 0| 
-| 20221029T21:58:55Z | Null | https://github.com/FlyingDigitalz/id_mc_exploit | 0 | 0| 
-| 20221029T19:54:12Z | Null | https://github.com/NEVESCOOL/WIIU-EXPLOITS | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T11:10:17Z | Simple multi egg for pterodactyl without backdoors | https://github.com/Fex-Development/Fex-multiegg | 2 | 1| 
+| 20221030T08:02:24Z | Null | https://github.com/7fx8ss/DA-HOOD-BACKDOOR | 0 | 0| 
+| 20221030T07:47:42Z | Null | https://github.com/rondeo-balos/backdoor-php | 0 | 0| 
+| 20221030T05:07:19Z | Your personal backdoor for your device. | https://github.com/Xeroxxhah/6u4rd | 2 | 0| 
+| 20221030T02:11:17Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 3 | 2| 
 | 20221029T23:05:15Z | verify if jar have backdoor or others malware%s | https://github.com/Halqq/PrChecker | 6 | 1| 
-| 20221029T19:35:21Z | Your personal backdoor for your device. | https://github.com/Xeroxxhah/6u4rd | 1 | 0| 
 | 20221029T05:18:25Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 6 | 3| 
 | 20221029T00:31:10Z | Null | https://github.com/Noniod7/BackDoorKu | 0 | 0| 
 | 20221028T17:08:39Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 7 | 0| 
 | 20221028T16:33:50Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 434 | 54| 
-| 20221028T14:34:00Z | Null | https://github.com/bharath1214228/food-backdoordounuts | 0 | 0| 
-| 20221028T11:25:06Z | BackdoorDemo | https://github.com/TJKkking/BackdoorDemo | 0 | 0| 
-| 20221028T11:24:23Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 3 | 2| 
-| 20221028T08:31:07Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 8 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -141,6 +141,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T12:01:08Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 4688 | 1236| 
+| 20221030T11:04:46Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 60 | 21| 
+| 20221030T09:20:40Z | Null | https://github.com/krushi1992/FuzzyNet | 0 | 0| 
 | 20221030T01:56:19Z | Null | https://github.com/reinan47/fuzzy_MaquinaDeLavar | 0 | 0| 
 | 20221030T01:53:18Z | Null | https://github.com/mzs555557/FuzzingbookExercise | 0 | 0| 
 | 20221030T01:46:44Z | Null | https://github.com/Planet-Source-Code/lefteris-eleftheriades-fuzzy-game-check-it-out__1-34699 | 0 | 0| 
@@ -148,9 +151,6 @@
 | 20221030T00:36:06Z | West | https://github.com/Nehewest4sure/fuzzy-potato | 0 | 0| 
 | 20221030T00:07:29Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
 | 20221030T00:05:25Z | A fast classifier based on indexing tables and fuzzy logic. | https://github.com/TusorBalazs/Sequential-Fuzzy-Indexing-Tables | 0 | 0| 
-| 20221029T21:21:50Z | Null | https://github.com/Ekzorcist/pentest | 2 | 3| 
-| 20221029T18:18:01Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1563 | 69| 
-| 20221029T16:53:20Z | Who%s that pokemon? | https://github.com/PippoGit/fuzzy-octo-system | 0 | 1| 
 
 
 
