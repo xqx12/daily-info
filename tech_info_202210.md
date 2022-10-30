@@ -141,7 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221030T01:36:10Z | Aprendendo logica fuzzy(nebulosa) IA | https://github.com/reinan47/MaquinaDeLavar-fuzzy | 0 | 0| 
+| 20221030T01:46:44Z | Null | https://github.com/Planet-Source-Code/lefteris-eleftheriades-fuzzy-game-check-it-out__1-34699 | 0 | 0| 
+| 20221030T01:45:55Z | Aprendendo logica fuzzy(nebulosa) IA | https://github.com/reinan47/MaquinaDeLavar-fuzzy | 0 | 0| 
 | 20221030T00:36:06Z | West | https://github.com/Nehewest4sure/fuzzy-potato | 0 | 0| 
 | 20221030T00:07:29Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
 | 20221030T00:05:25Z | A fast classifier based on indexing tables and fuzzy logic. | https://github.com/TusorBalazs/Sequential-Fuzzy-Indexing-Tables | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20221029T16:53:20Z | Who%s that pokemon? | https://github.com/PippoGit/fuzzy-octo-system | 0 | 1| 
 | 20221029T12:13:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3156 | 640| 
 | 20221029T11:58:40Z | Null | https://github.com/energitjuvar/fuzzy-sniffle | 0 | 0| 
-| 20221029T11:57:09Z | Null | https://github.com/viniVN7/Logica-Fuzzy | 0 | 0| 
 
 
 
