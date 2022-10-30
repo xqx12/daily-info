@@ -72,7 +72,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221029T03:26:53Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 264 | 64| 
-| 20221028T02:37:12Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 82 | 44| 
+| 20221028T02:37:12Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 82 | 45| 
 | 20221021T09:15:49Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 23 | 4| 
 | 20221020T11:32:11Z | Null | https://github.com/F-UMI/S2E2API | 0 | 0| 
 | 20221018T11:33:07Z | Null | https://github.com/pgonline123/s2eYav1YyM | 0 | 0| 
