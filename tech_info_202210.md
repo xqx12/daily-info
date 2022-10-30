@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221030T00:59:33Z | Null | https://github.com/LeontKing2/WRD-ExploitAPI-Template-Modified | 0 | 0| 
+| 20221030T01:39:13Z | Null | https://github.com/LeontKing2/WRD-ExploitAPI-Template-Modified | 0 | 0| 
 | 20221030T00:15:54Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 84 | 7| 
 | 20221030T00:11:17Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANv | 1 | 0| 
 | 20221030T00:10:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANv | 1 | 0| 
