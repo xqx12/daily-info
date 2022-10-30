@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T12:27:33Z | This Project is a Aimbot for KRNL Exploits | https://github.com/LoveMig6334/Aimbot-V.2-KRNL | 0 | 0| 
+| 20221030T12:23:57Z | Null | https://github.com/Planet-Source-Code/alan-perelman-command-prompt-through-iis-exploit__1-25149 | 0 | 0| 
 | 20221030T11:52:17Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/Jennahacker/zenna_rat | 17 | 9| 
 | 20221030T10:25:14Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 2294 | 332| 
 | 20221030T09:50:15Z | Just some scripts exploits | https://github.com/DhurimHalili/Scripts | 0 | 0| 
@@ -93,8 +95,6 @@
 | 20221030T00:15:54Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 84 | 7| 
 | 20221030T00:11:17Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANv | 1 | 0| 
 | 20221030T00:10:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANv | 1 | 0| 
-| 20221030T00:07:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANv | 1 | 0| 
-| 20221029T23:43:55Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 50 | 4| 
 
 
 # backdoor on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T12:27:24Z | Null | https://github.com/snkzt/go-with-fuzz | 0 | 0| 
 | 20221030T12:18:15Z | Null | https://github.com/mquacinee/fuzzy-palm-tree | 0 | 0| 
 | 20221030T12:01:08Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 4688 | 1236| 
 | 20221030T11:04:46Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 60 | 21| 
@@ -150,7 +151,6 @@
 | 20221030T01:46:44Z | Null | https://github.com/Planet-Source-Code/lefteris-eleftheriades-fuzzy-game-check-it-out__1-34699 | 0 | 0| 
 | 20221030T01:45:55Z | Aprendendo logica fuzzy(nebulosa) IA | https://github.com/reinan47/MaquinaDeLavar-fuzzy | 0 | 0| 
 | 20221030T00:36:06Z | West | https://github.com/Nehewest4sure/fuzzy-potato | 0 | 0| 
-| 20221030T00:07:29Z | A simple to use classifier, using a modified Radial Basis Function Network architecture to achieve a flexible, fuzzy inference-based classification. | https://github.com/TusorBalazs/Fuzzy-Filter-Network | 0 | 0| 
 
 
 
