@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221031T01:37:33Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 2295 | 333| 
 | 20221030T23:50:52Z | Android CVE exploit development, Notes, Info & Research | https://github.com/happyhackerhour/androidexploitdev | 0 | 0| 
 | 20221030T23:49:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANi | 1 | 0| 
 | 20221030T23:48:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANi | 1 | 0| 
@@ -94,7 +95,6 @@
 | 20221030T21:25:40Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 0 | 0| 
 | 20221030T20:56:28Z | Roblox Lua scripts | https://github.com/Wondsploit/Exploiting-Scripts | 0 | 0| 
 | 20221030T20:46:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5005 | 695| 
-| 20221030T19:18:52Z | Repository of Nathan%s solutions to Exploit Education CTFs | https://github.com/secnate/Exploit-Education-CTFs | 0 | 0| 
 
 
 # backdoor on Github 推荐
