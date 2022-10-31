@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221031T00:19:21Z | Null | https://github.com/johnortaliza/fuzzy-octo-adventure | 0 | 0| 
 | 20221030T21:05:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4410 | 1068| 
 | 20221030T20:45:09Z | Null | https://github.com/Janmajayamall/fuzzy-message-detection | 0 | 0| 
 | 20221030T20:10:24Z | Scripts compute Criticality Number using Fuzzy ANP approach | https://github.com/sharmaviven1/FuzzyANP | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20221030T15:37:51Z | API Fuzzer written in python | https://github.com/insidious-security/pyfuz | 0 | 0| 
 | 20221030T12:27:24Z | Null | https://github.com/snkzt/go-with-fuzz | 0 | 0| 
 | 20221030T12:18:15Z | Null | https://github.com/mquacinee/fuzzy-palm-tree | 0 | 0| 
-| 20221030T12:01:08Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 4688 | 1236| 
 
 
 
