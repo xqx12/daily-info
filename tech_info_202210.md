@@ -101,7 +101,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221031T11:54:18Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 13 | 0| 
-| 20221031T10:57:34Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 7 | 2| 
+| 20221031T10:57:34Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 7 | 3| 
 | 20221031T10:30:33Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 98 | 21| 
 | 20221031T07:09:03Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 9 | 3| 
 | 20221031T03:45:42Z | Null | https://github.com/Anonimo055x/Backdoor-Invasao-Visual-Studio-Ransomware | 0 | 0| 
