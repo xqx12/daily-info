@@ -41,6 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221031T01:29:33Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
 | 20221031T00:50:16Z | CVE-2022-0739 | Proof-of-Concept exploit (SQLI BookingPress  before 1.0.11) | https://github.com/destr4ct/CVE-2022-0739 | | 
 | 20221031T00:50:12Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/sml1nk/CVE-2022-3236-RCE | | 
 | 20221031T00:50:06Z | CVE-2022-28219 | 建立一個概念類似 CVE-2022-28219 的測試環境 | https://github.com/aeifkz/CVE-2022-28219-Like | | 
@@ -48,7 +49,6 @@
 | 20221030T15:45:29Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20221030T10:14:49Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/skylarcoolya/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20221030T10:14:16Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/RydeinGG/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20221030T07:29:33Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
 | 20221029T21:25:02Z | CVE-2022-21907 | POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability. | https://github.com/Malwareman007/CVE-2022-21907 | | 
 | 20221029T14:18:33Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 
