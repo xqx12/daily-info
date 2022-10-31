@@ -82,10 +82,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221031T12:13:59Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 794 | 162| 
 | 20221031T10:58:21Z | Null | https://github.com/nagadeepak511/fuzzy-spoon | 0 | 0| 
 | 20221031T10:35:32Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 19 | 1| 
 | 20221031T10:35:07Z | AFL++ using the Ball-Larus path profiling algorithm for coverage feedback | https://github.com/adrianherrera/ball-larus-fuzz | 9 | 1| 
-| 20221031T10:30:15Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 793 | 162| 
 | 20221031T09:38:44Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 86 | 6| 
 | 20221031T08:44:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8015 | 1740| 
 | 20221031T08:19:11Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 3 | 1| 
