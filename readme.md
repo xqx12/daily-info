@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221031T11:56:46Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 99 | 11| 
+| 20221031T12:26:58Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 100 | 11| 
 | 20221031T11:18:09Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-blow-exploit | 0 | 0| 
 | 20221031T10:43:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-exploit-want | 0 | 0| 
 | 20221031T10:35:24Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3518 | 734| 
@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221031T12:27:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8016 | 1740| 
 | 20221031T12:18:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4412 | 1069| 
 | 20221031T12:17:35Z | Null | https://github.com/JahidJust/-The-design-of-an-image-segmentation-algorithm-based-on-fuzzy-entropy-and-particle-swarm-optimiza | 0 | 0| 
 | 20221031T12:13:59Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 794 | 162| 
@@ -89,7 +90,6 @@
 | 20221031T10:35:32Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 19 | 1| 
 | 20221031T10:35:07Z | AFL++ using the Ball-Larus path profiling algorithm for coverage feedback | https://github.com/adrianherrera/ball-larus-fuzz | 9 | 1| 
 | 20221031T09:38:44Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 86 | 6| 
-| 20221031T08:44:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8015 | 1740| 
 | 20221031T08:19:11Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 3 | 1| 
 | 20221031T07:43:06Z | 备份文件扫描器、备份文件Fuzz字典生成器 | https://github.com/Y0-kan/BackUpFileScanner | 0 | 0| 
 
