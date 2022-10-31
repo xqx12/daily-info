@@ -41,6 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221031T12:35:47Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
 | 20221031T11:45:42Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
 | 20221031T11:23:05Z | CVE-2021-39144 | {VMware Cloud Foundation} remote code execution vulnerability via XStream (CVE-2021-39144) | https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE | | 
 | 20221031T04:28:52Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
@@ -50,7 +51,6 @@
 | 20221031T00:50:12Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/sml1nk/CVE-2022-3236-RCE | | 
 | 20221031T00:50:06Z | CVE-2022-28219 | 建立一個概念類似 CVE-2022-28219 的測試環境 | https://github.com/aeifkz/CVE-2022-28219-Like | | 
 | 20221030T18:24:39Z | CVE-2021-4034 | Null | https://github.com/jehovah2002/CVE-2021-4034-pwnkit | | 
-| 20221030T10:14:49Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/skylarcoolya/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 
 
 # klee on Github 推荐
