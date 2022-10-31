@@ -41,24 +41,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221030T19:36:05Z | CVE-2022-0739 | Proof-of-Concept exploit (SQLI BookingPress  before 1.0.11) | https://github.com/destr4ct/CVE-2022-0739 | | 
+| 20221030T18:24:39Z | CVE-2021-4034 | Null | https://github.com/jehovah2002/CVE-2021-4034-pwnkit | | 
+| 20221030T18:13:08Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/sml1nk/CVE-2022-3236-RCE | | 
+| 20221030T15:45:29Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20221030T10:14:49Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/skylarcoolya/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221030T10:14:18Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20221030T10:14:16Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/RydeinGG/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221030T07:29:33Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
 | 20221029T21:25:02Z | CVE-2022-21907 | POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability. | https://github.com/Malwareman007/CVE-2022-21907 | | 
 | 20221029T14:18:33Z | CVE-2022-2588 | exploit for CVE-2022-2588 | https://github.com/Markakd/CVE-2022-2588 | | 
 | 20221029T11:15:21Z | 未知编号 | Not the author of this script, reposting as original repo link is broken | https://github.com/itwestend/cve_2022_26134 | | 
-| 20221029T10:23:51Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
-| 20221029T09:01:34Z | CVE-2022-40684 | An authentication bypass using an alternate path or channel in Fortinet product | https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner | | 
-| 20221029T05:18:25Z | CVE-2022-1609 | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T16:58:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9068 | 306| 
 | 20221030T12:15:26Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20221030T10:58:58Z | Null | https://github.com/Kleevietanh98/https-repo.kleevietanh.net- | 1 | 0| 
-| 20221030T10:06:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9061 | 306| 
 | 20221029T08:25:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 118 | 1| 
 | 20221028T22:34:42Z | Klee listens to the commands given by the user and executes certain functions. Klee is mainly a conversation-based bot who talks to the user enthusiastically. | https://github.com/krishnapriya-n/klee-va | 1 | 0| 
 | 20221027T10:20:56Z | Null | https://github.com/Rajkumarraja2001/kleeen-cloud | 0 | 0| 
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221030T12:27:33Z | This Project is a Aimbot for KRNL Exploits | https://github.com/LoveMig6334/Aimbot-V.2-KRNL | 0 | 0| 
-| 20221030T12:23:57Z | Null | https://github.com/Planet-Source-Code/alan-perelman-command-prompt-through-iis-exploit__1-25149 | 0 | 0| 
-| 20221030T11:52:17Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/Jennahacker/zenna_rat | 17 | 9| 
-| 20221030T10:25:14Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 2294 | 332| 
-| 20221030T09:50:15Z | Just some scripts exploits | https://github.com/DhurimHalili/Scripts | 0 | 0| 
-| 20221030T06:50:05Z | Null | https://github.com/reject-all/php-self-exploit | 1 | 0| 
-| 20221030T01:39:13Z | Null | https://github.com/LeontKing2/WRD-ExploitAPI-Template-Modified | 0 | 0| 
-| 20221030T00:15:54Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 84 | 7| 
-| 20221030T00:11:17Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANv | 1 | 0| 
-| 20221030T00:10:22Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANv | 1 | 0| 
+| 20221030T23:50:52Z | Android CVE exploit development, Notes, Info & Research | https://github.com/happyhackerhour/androidexploitdev | 0 | 0| 
+| 20221030T23:49:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANi | 1 | 0| 
+| 20221030T23:48:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANi | 1 | 0| 
+| 20221030T23:48:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANi | 1 | 0| 
+| 20221030T23:39:57Z | Exploit forums for hacking school chromebooks, proxies, etc | https://github.com/yeetsquad747/exploitcb | 0 | 0| 
+| 20221030T21:32:33Z | A simple exploit that allows a website to detect if a user is using GoGuardian. | https://github.com/SaturnKai/goguardian-exploit | 0 | 0| 
+| 20221030T21:25:40Z | Just H4 and L0 publishing write ups of hacking CTFs and challenges | https://github.com/Ha-L0/Ha-L0.github.io | 0 | 0| 
+| 20221030T20:56:28Z | Roblox Lua scripts | https://github.com/Wondsploit/Exploiting-Scripts | 0 | 0| 
+| 20221030T20:46:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5005 | 695| 
+| 20221030T19:18:52Z | Repository of Nathan%s solutions to Exploit Education CTFs | https://github.com/secnate/Exploit-Education-CTFs | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -141,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T21:05:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4410 | 1068| 
+| 20221030T20:45:09Z | Null | https://github.com/Janmajayamall/fuzzy-message-detection | 0 | 0| 
+| 20221030T20:10:24Z | Scripts compute Criticality Number using Fuzzy ANP approach | https://github.com/sharmaviven1/FuzzyANP | 0 | 0| 
+| 20221030T18:52:57Z | A fast classifier based on indexing tables and fuzzy logic. | https://github.com/TusorBalazs/Sequential-Fuzzy-Indexing-Tables | 0 | 0| 
+| 20221030T18:07:17Z | Null | https://github.com/Sabin-Subedi/fuzzy-octo-spork | 0 | 0| 
+| 20221030T17:40:03Z | Null | https://github.com/khalilazizi/fuzzy-chainsaw | 0 | 0| 
+| 20221030T15:37:51Z | API Fuzzer written in python | https://github.com/insidious-security/pyfuz | 0 | 0| 
 | 20221030T12:27:24Z | Null | https://github.com/snkzt/go-with-fuzz | 0 | 0| 
 | 20221030T12:18:15Z | Null | https://github.com/mquacinee/fuzzy-palm-tree | 0 | 0| 
 | 20221030T12:01:08Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 4688 | 1236| 
-| 20221030T11:04:46Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 60 | 21| 
-| 20221030T09:20:40Z | Null | https://github.com/krushi1992/FuzzyNet | 0 | 0| 
-| 20221030T01:56:19Z | Null | https://github.com/reinan47/fuzzy_MaquinaDeLavar | 0 | 0| 
-| 20221030T01:53:18Z | Null | https://github.com/mzs555557/FuzzingbookExercise | 0 | 0| 
-| 20221030T01:46:44Z | Null | https://github.com/Planet-Source-Code/lefteris-eleftheriades-fuzzy-game-check-it-out__1-34699 | 0 | 0| 
-| 20221030T01:45:55Z | Aprendendo logica fuzzy(nebulosa) IA | https://github.com/reinan47/MaquinaDeLavar-fuzzy | 0 | 0| 
-| 20221030T00:36:06Z | West | https://github.com/Nehewest4sure/fuzzy-potato | 0 | 0| 
 
 
 
