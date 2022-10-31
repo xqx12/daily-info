@@ -56,7 +56,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221031T01:25:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9069 | 306| 
+| 20221031T01:45:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9070 | 306| 
 | 20221030T12:15:26Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20221030T10:58:58Z | Null | https://github.com/Kleevietanh98/https-repo.kleevietanh.net- | 1 | 0| 
 | 20221029T08:25:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 118 | 1| 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221031T01:37:33Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 2295 | 333| 
+| 20221031T01:37:33Z | Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。 | https://github.com/lcvvvv/kscan | 2295 | 334| 
 | 20221030T23:50:52Z | Android CVE exploit development, Notes, Info & Research | https://github.com/happyhackerhour/androidexploitdev | 0 | 0| 
 | 20221030T23:49:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANi | 1 | 0| 
 | 20221030T23:48:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANi | 1 | 0| 
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221031T01:46:37Z | Null | https://github.com/reziqvins/FuzzyApp-Pengukur-kelayakan-Minyak-Metode-Mamdani | 0 | 0| 
 | 20221031T00:19:21Z | Null | https://github.com/johnortaliza/fuzzy-octo-adventure | 0 | 0| 
 | 20221030T21:05:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4410 | 1068| 
 | 20221030T20:45:09Z | Null | https://github.com/Janmajayamall/fuzzy-message-detection | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20221030T17:40:03Z | Null | https://github.com/khalilazizi/fuzzy-chainsaw | 0 | 0| 
 | 20221030T15:37:51Z | API Fuzzer written in python | https://github.com/insidious-security/pyfuz | 0 | 0| 
 | 20221030T12:27:24Z | Null | https://github.com/snkzt/go-with-fuzz | 0 | 0| 
-| 20221030T12:18:15Z | Null | https://github.com/mquacinee/fuzzy-palm-tree | 0 | 0| 
 
 
 
