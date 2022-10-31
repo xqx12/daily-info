@@ -70,6 +70,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221031T09:34:02Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 44| 
+| 20221031T08:22:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3180 | 449| 
 
 
 # big4 on Github 推荐
