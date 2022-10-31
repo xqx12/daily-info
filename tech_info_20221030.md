@@ -56,6 +56,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T23:48:51Z | Null | https://github.com/nhamle2/Windows-7-Backdoor | 0 | 0| 
+| 20221030T14:02:01Z | Null | https://github.com/xvovabluex/backdoor-js-source | 0 | 0| 
 | 20221030T11:10:17Z | Simple multi egg for pterodactyl without backdoors | https://github.com/Fex-Development/Fex-multiegg | 2 | 1| 
 | 20221030T08:02:24Z | Null | https://github.com/7fx8ss/DA-HOOD-BACKDOOR | 0 | 0| 
 | 20221030T07:47:42Z | Null | https://github.com/rondeo-balos/backdoor-php | 0 | 0| 

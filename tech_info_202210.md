@@ -100,6 +100,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221030T23:48:51Z | Null | https://github.com/nhamle2/Windows-7-Backdoor | 0 | 0| 
+| 20221030T14:02:01Z | Null | https://github.com/xvovabluex/backdoor-js-source | 0 | 0| 
 | 20221030T11:10:17Z | Simple multi egg for pterodactyl without backdoors | https://github.com/Fex-Development/Fex-multiegg | 2 | 1| 
 | 20221030T08:02:24Z | Null | https://github.com/7fx8ss/DA-HOOD-BACKDOOR | 0 | 0| 
 | 20221030T07:47:42Z | Null | https://github.com/rondeo-balos/backdoor-php | 0 | 0| 
@@ -108,8 +110,6 @@
 | 20221029T23:05:15Z | verify if jar have backdoor or others malware%s | https://github.com/Halqq/PrChecker | 6 | 1| 
 | 20221029T05:18:25Z | Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor | https://github.com/NullBrunk/CVE-2022-1609 | 6 | 3| 
 | 20221029T00:31:10Z | Null | https://github.com/Noniod7/BackDoorKu | 0 | 0| 
-| 20221028T17:08:39Z | Code repository for the paper --- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | https://github.com/Unispac/Fight-Poison-With-Poison | 7 | 0| 
-| 20221028T16:33:50Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 434 | 54| 
 
 
 # symbolic execution on Github 推荐
