@@ -134,7 +134,7 @@
 | 20221028T14:01:33Z | Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications (NDSS 2022) | https://github.com/enferas/TestabilityTarpits | 13 | 2| 
 | 20221025T14:19:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 16 | 2| 
 | 20221019T06:46:40Z | Code for the NDSS%23 paper %DARWIN: Survival of the Fittest Fuzzing Mutators% | https://github.com/TUDA-SSL/DARWIN | 0 | 0| 
-| 20221010T01:53:08Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 58 | 13| 
+| 20221010T01:53:08Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 58 | 14| 
 | 20221005T07:16:48Z | Code for NDSS 2022 paper %MIRROR: Model Inversion for Deep Learning Network with High Fidelity% | https://github.com/njuaplusplus/mirror | 10 | 1| 
 | 20221003T11:35:35Z | Null | https://github.com/Jedi-Team/Anonymous-NDSS-240 | 0 | 0| 
 
