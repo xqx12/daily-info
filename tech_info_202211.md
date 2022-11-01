@@ -84,12 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221101T12:12:44Z | Null | https://github.com/mirrjy/fuzzy-train | 0 | 0| 
+| 20221101T10:57:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8020 | 1742| 
+| 20221101T10:47:59Z | Null | https://github.com/Thetravellerbroh/fuzzy-enigma | 0 | 0| 
+| 20221101T09:26:37Z | Null | https://github.com/somiha/LearnPerfFuzz | 0 | 0| 
+| 20221101T09:22:04Z | Null | https://github.com/Darshan-Kantesariya/fuzzy-octo-goggles | 0 | 0| 
+| 20221101T09:06:48Z | EthFuzzer is a fuzzing tool for Ethereum%s smart contract. | https://github.com/kishow01/ethFuzzer | 0 | 0| 
+| 20221101T09:02:14Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 2032 | 494| 
 | 20221101T01:52:26Z | jo.py testcases | https://github.com/Jyothsnam23/fuzzy-octo-giggle | 0 | 0| 
 | 20221101T01:28:48Z | Null | https://github.com/pemeraldy/fuzzy-garbanzo | 0 | 0| 
 | 20221101T01:08:12Z | Null | https://github.com/mozzpapp/fuzzy-memory | 0 | 0| 
-| 20221101T01:03:24Z | Null | https://github.com/fdsjocxojv/fuzzy-pancake | 0 | 0| 
-| 20221101T00:55:14Z | Fuzzy matcher, sorter, and conveter for ddc.vim | https://github.com/tani/ddc-fuzzy | 49 | 4| 
-| 20221101T00:37:04Z | Null | https://github.com/ipegte93/fuzzy-succotash | 0 | 0| 
 
 
 
