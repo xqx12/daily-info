@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221101T12:45:29Z | Exploits for all kinds of embedded devices, mostly ones found by myself | https://github.com/myyxl/embedded-devices-exploits | 0 | 0| 
 | 20221101T12:42:05Z | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks) Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) Saved | https://github.com/privatenets/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 1 | 0| 
 | 20221101T11:52:39Z | Null | https://github.com/reve4u/doc-exploits | 0 | 0| 
 | 20221101T11:51:48Z | Null | https://github.com/reve4u/Doc-Exploit | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20221101T06:51:43Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 295 | 31| 
 | 20221101T03:24:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 541 | 144| 
 | 20221101T01:05:40Z | Roblox Your Bizarre Adventure Hack  | https://github.com/EuropeanMaster/Roblox-Your-Bizarre-Adventure-Hack-YBA-Script-PRIVATE-EXPLOIT | 1 | 0| 
-| 20221101T00:52:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 49 | 26| 
 
 
 # backdoor on Github 推荐
