@@ -82,6 +82,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221031T21:35:33Z | A small sample from the %Practical Symbolic Execution% course, showing some of the slides describing test case generation, and an associated small lab | https://github.com/atredis-jordan/SymbolicExecutionCourseSample | 1 | 0| 
 | 20221031T09:34:02Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 178 | 44| 
 | 20221031T08:22:31Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3180 | 449| 
 
