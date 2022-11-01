@@ -29,34 +29,34 @@
 | 20221031 | 全球高级持续性威胁（APT）2022年中报告 | https://mp.weixin.qq.com/s/w9GHtqcAbHx-E5OsQXkKPw| 
 | 20221031 | 一篇了解Java反射 | https://www.sec-in.com/article/1647| 
 | 20221031 | 写在博士生涯的最后 | https://mp.weixin.qq.com/s/MAdWdQPBj_--gMZVjR0qOg| 
-| 20221029 | 美国网络安全国策之EDR「端点检测和响应」 | https://mp.weixin.qq.com/s/qA0thrPVY2UmE5wlP4zIMQ| 
-| 20221028 | IDC权威发布,天懋信息位居视频物联安全管理平台市场领导者 | https://mp.weixin.qq.com/s/iKAwrofDV9Ei3X1cHkLQRg| 
-| 20221028 | 美新版《国家安全战略》中的网络安全 | https://mp.weixin.qq.com/s/VZ0ofovRfJIUbxQuHvaLyQ| 
-| 20221028 | DeFi Hacks Analysis - Root Cause | https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee| 
-| 20221028 | 网络产品安全漏洞收集平台备案管理办法 | https://mp.weixin.qq.com/s/7suSo7b-6zI7M5pghZfD4w| 
-| 20221027 | 那些年我研发的无用模块——攻击样本回放模块 | https://mp.weixin.qq.com/s/zNTAGbM_Tjv9dWcjlsWkqg| 
-| 20221026 | DEAR：一种基于深度学习的程序自动修复方法 | https://mp.weixin.qq.com/s/glgVqNDDInTRO97xexLuCg| 
+| 20221031 | 从科学家到企业家要迈过多少道坎？ | https://mp.weixin.qq.com/s/4C-XLR26kXnY1rXHcNodGA| 
+| 20221031 | APT28 样本分析报告 | https://mp.weixin.qq.com/s/If9KE4_jxKhYrnOXLn0y2A| 
+| 20221031 | BREAK业务风险枚举与规避知识框架v0.1.0 | https://mp.weixin.qq.com/s/_x3ejq8TA1iHDQFm6JQ2PQ| 
+| 20221031 | RAID 2022 论文录用列表 | https://mp.weixin.qq.com/s/Wa9lqNLwUDHuL0rqib4ajQ| 
+| 20221031 | 低成本自制短信转发器（Air780E+ESP32C3） | https://www.chenxublog.com/2022/10/28/19-9-sms-forwarding-air780e-esp32c3.html| 
+| 20221031 | SecWiki周刊（第452期) | https://www.sec-wiki.com/weekly/452| 
+| 20221031 | RAID 2022 论文录用列表 | /news/30783| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221031T12:35:47Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
-| 20221031T11:45:42Z | CVE-2022-22947 | Spring Cloud Gateway远程代码执行 | https://github.com/savior-only/CVE-2022-22947 | | 
-| 20221031T11:23:05Z | CVE-2021-39144 | {VMware Cloud Foundation} remote code execution vulnerability via XStream (CVE-2021-39144) | https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE | | 
-| 20221031T04:28:52Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20221031T02:11:48Z | CVE-2021-43890 | Null | https://github.com/yonggui-li/CVE-2021-43890_poc | | 
-| 20221031T02:09:38Z | CVE-2022-21907 | POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability. | https://github.com/Malwareman007/CVE-2022-21907 | | 
-| 20221031T00:50:16Z | CVE-2022-0739 | Proof-of-Concept exploit (SQLI BookingPress  before 1.0.11) | https://github.com/destr4ct/CVE-2022-0739 | | 
-| 20221031T00:50:12Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/sml1nk/CVE-2022-3236-RCE | | 
-| 20221031T00:50:06Z | CVE-2022-28219 | 建立一個概念類似 CVE-2022-28219 的測試環境 | https://github.com/aeifkz/CVE-2022-28219-Like | | 
-| 20221030T18:24:39Z | CVE-2021-4034 | Null | https://github.com/jehovah2002/CVE-2021-4034-pwnkit | | 
+| 20221031T23:32:27Z | cve-2022- | Null | https://github.com/roycewilliams/openssl-nov-1-critical-cve-2022-tracking | | 
+| 20221031T22:54:31Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks) Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) Saved | https://github.com/privatenets/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20221031T17:58:49Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
+| 20221031T16:36:29Z | CVE-2022-22909 | Hotel Druid 3.0.3 Code Injection to Remote Code Execution | https://github.com/0z09e/CVE-2022-22909 | | 
+| 20221031T15:03:31Z | CVE-2022-42098 | KLiK-SocialMediaWebsite v1.0.1 has SQL Injection Vulnerabilities at profile.php | https://github.com/bypazs/CVE-2022-42098 | | 
+| 20221031T14:56:35Z | CVE-2022-42097 | Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the comment. | https://github.com/bypazs/CVE-2022-42097 | | 
+| 20221031T14:50:37Z | CVE-2022-42096 | Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Post content. | https://github.com/bypazs/CVE-2022-42096 | | 
+| 20221031T14:41:57Z | CVE-2022-42094 | Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Card content. | https://github.com/bypazs/CVE-2022-42094 | | 
+| 20221031T12:54:21Z | CVE-2021-38817 | Remote OS Command Injection in TastyIgniter v3.0.7 Sendmail Path field | https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection | | 
+| 20221031T12:50:54Z | CVE-2022-0739 | Proof-of-Concept exploit (SQLI BookingPress  before 1.0.11) | https://github.com/destr4ct/CVE-2022-0739 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221031T12:20:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9085 | 307| 
+| 20221031T17:18:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9089 | 308| 
 | 20221031T02:15:28Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 119 | 1| 
 | 20221030T12:15:26Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20221030T10:58:58Z | Null | https://github.com/Kleevietanh98/https-repo.kleevietanh.net- | 1 | 0| 
@@ -71,6 +71,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221031T19:58:53Z | Null | https://github.com/F-UMI/S2E2 | 0 | 0| 
 | 20221031T10:58:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 265 | 64| 
 | 20221028T02:37:12Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 82 | 45| 
 | 20221021T09:15:49Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 23 | 4| 
@@ -85,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221031T12:26:58Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 100 | 11| 
-| 20221031T11:18:09Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-blow-exploit | 0 | 0| 
-| 20221031T10:43:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-exploit-want | 0 | 0| 
-| 20221031T10:35:24Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 3518 | 734| 
-| 20221031T10:26:21Z | 🦠🔬 Forta agent that detects deployment of smart contracts containing an exploit function | https://github.com/kovart/forta-attack-simulation | 26 | 2| 
-| 20221031T09:17:44Z | source to ban any account in mobile game critical ops | https://github.com/culturally/critical-ops-0day | 4 | 1| 
-| 20221031T08:19:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 540 | 144| 
-| 20221031T08:11:59Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-default-head-exploit | 0 | 0| 
-| 20221031T08:09:17Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 92 | 26| 
-| 20221031T08:04:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 65 | 23| 
+| 20221031T23:56:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANh | 2 | 0| 
+| 20221031T23:55:35Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANh | 2 | 0| 
+| 20221031T23:54:57Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANh | 2 | 0| 
+| 20221031T23:43:42Z | 🌲 C++ open source , Aimbot is powered by Driver in use.  | https://github.com/Fnoberz/Rust-External | 38 | 25| 
+| 20221031T23:17:45Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 294 | 31| 
+| 20221031T23:14:52Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/EuropeanMaster/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 1 | 0| 
+| 20221031T23:14:52Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/EuropeanMaster/AutoFarm-SonicSpeed-Exploit | 1 | 0| 
+| 20221031T23:10:38Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/EuropeanMaster/DF2-DeaD-Frontier2-PrivateCheat | 1 | 0| 
+| 20221031T23:10:38Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/EuropeanMaster/Roblox-NYveeee-Private-Exploit-Leak3D | 1 | 0| 
+| 20221031T22:54:31Z | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks) Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) Saved | https://github.com/privatenets/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221031T21:32:19Z | Source code of njRAT v0.5.0 | https://github.com/De-eloper/njRAT-v0.5.0-SRC | 1 | 0| 
+| 20221031T16:13:07Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 9 | 4| 
 | 20221031T11:54:18Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 13 | 0| 
-| 20221031T10:57:34Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 7 | 3| 
+| 20221031T11:44:30Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 181 | 48| 
 | 20221031T10:30:33Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 98 | 21| 
 | 20221031T07:09:03Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 9 | 3| 
 | 20221031T03:45:42Z | Null | https://github.com/Anonimo055x/Backdoor-Invasao-Visual-Studio-Ransomware | 0 | 0| 
 | 20221030T23:48:51Z | Null | https://github.com/nhamle2/Windows-7-Backdoor | 0 | 0| 
 | 20221030T14:02:01Z | Null | https://github.com/xvovabluex/backdoor-js-source | 0 | 0| 
 | 20221030T11:10:17Z | Simple multi egg for pterodactyl without backdoors | https://github.com/Fex-Development/Fex-multiegg | 2 | 1| 
-| 20221030T08:02:24Z | Null | https://github.com/7fx8ss/DA-HOOD-BACKDOOR | 0 | 0| 
-| 20221030T07:47:42Z | Null | https://github.com/rondeo-balos/backdoor-php | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -141,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221031T12:27:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8016 | 1740| 
-| 20221031T12:18:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4412 | 1069| 
-| 20221031T12:17:35Z | Null | https://github.com/JahidJust/-The-design-of-an-image-segmentation-algorithm-based-on-fuzzy-entropy-and-particle-swarm-optimiza | 0 | 0| 
-| 20221031T12:13:59Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 794 | 162| 
-| 20221031T10:58:21Z | Null | https://github.com/nagadeepak511/fuzzy-spoon | 0 | 0| 
-| 20221031T10:35:32Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 19 | 1| 
-| 20221031T10:35:07Z | AFL++ using the Ball-Larus path profiling algorithm for coverage feedback | https://github.com/adrianherrera/ball-larus-fuzz | 9 | 1| 
-| 20221031T09:38:44Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 86 | 6| 
-| 20221031T08:19:11Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 3 | 1| 
-| 20221031T07:43:06Z | 备份文件扫描器、备份文件Fuzz字典生成器 | https://github.com/Y0-kan/BackUpFileScanner | 0 | 0| 
+| 20221031T22:57:52Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 201 | 29| 
+| 20221031T22:48:03Z | Null | https://github.com/alejandraquintero018/fuzzy-potato | 0 | 0| 
+| 20221031T20:30:42Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 280 | 45| 
+| 20221031T20:22:00Z | YouBot with setting fuzzy logic control on Coppelia Sim | https://github.com/HalfBody/CoppeliaSim_Fuzzy | 0 | 0| 
+| 20221031T20:17:16Z | Mine wordlists for fuzzing scanning bruteforcing etc :) | https://github.com/sekkabak/mine | 0 | 0| 
+| 20221031T19:28:33Z | Null | https://github.com/shili-51/FuzzyLibraries | 0 | 0| 
+| 20221031T19:24:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4415 | 1069| 
+| 20221031T19:15:11Z | jo.py testcases | https://github.com/Jyothsnam23/fuzzy-octo-giggle | 0 | 0| 
+| 20221031T18:49:35Z | Basic fuzzing mutator | https://github.com/0xricksanchez/hantu | 1 | 0| 
+| 20221031T15:48:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8018 | 1742| 
 
 
 
