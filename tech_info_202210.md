@@ -102,7 +102,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221031T21:32:19Z | Source code of njRAT v0.5.0 | https://github.com/De-eloper/njRAT-v0.5.0-SRC | 1 | 0| 
-| 20221031T16:13:07Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 9 | 4| 
 | 20221031T11:54:18Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 13 | 0| 
 | 20221031T11:44:30Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 181 | 48| 
 | 20221031T10:30:33Z | LKM  Rootkit | https://github.com/carloslack/KoviD | 98 | 21| 
@@ -111,6 +110,7 @@
 | 20221030T23:48:51Z | Null | https://github.com/nhamle2/Windows-7-Backdoor | 0 | 0| 
 | 20221030T14:02:01Z | Null | https://github.com/xvovabluex/backdoor-js-source | 0 | 0| 
 | 20221030T11:10:17Z | Simple multi egg for pterodactyl without backdoors | https://github.com/Fex-Development/Fex-multiegg | 2 | 1| 
+| 20221030T08:02:24Z | Null | https://github.com/7fx8ss/DA-HOOD-BACKDOOR | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
