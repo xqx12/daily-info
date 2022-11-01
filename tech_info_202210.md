@@ -148,7 +148,7 @@
 | 20221031T20:22:00Z | YouBot with setting fuzzy logic control on Coppelia Sim | https://github.com/HalfBody/CoppeliaSim_Fuzzy | 0 | 0| 
 | 20221031T20:17:16Z | Mine wordlists for fuzzing scanning bruteforcing etc :) | https://github.com/sekkabak/mine | 0 | 0| 
 | 20221031T19:28:33Z | Null | https://github.com/shili-51/FuzzyLibraries | 0 | 0| 
-| 20221031T19:24:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4415 | 1069| 
+| 20221031T19:24:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4415 | 1068| 
 | 20221031T19:15:11Z | jo.py testcases | https://github.com/Jyothsnam23/fuzzy-octo-giggle | 0 | 0| 
 | 20221031T18:49:35Z | Basic fuzzing mutator | https://github.com/0xricksanchez/hantu | 1 | 0| 
 | 20221031T15:48:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8018 | 1742| 
