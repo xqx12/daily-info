@@ -17,8 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221101T12:35:13Z | CVE-2022-40146 | Null | https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar | | 
+| 20221101T12:32:02Z | CVE-2021-39144 | {VMware Cloud Foundation} remote code execution vulnerability via XStream (CVE-2021-39144) | https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE | | 
 | 20221101T11:22:21Z | CVE-2022-3518 | Null | https://github.com/lohith19/CVE-2022-3518 | | 
-| 20221101T10:49:08Z | CVE-2022-40146 | Null | https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar | | 
 | 20221101T09:31:18Z | CVE-2021-41773 | python编写的apache路径穿越poc&exp | https://github.com/aqiao-jashell/py-CVE-2021-41773 | | 
 | 20221101T07:55:47Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20221101T07:22:11Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks) Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) Saved | https://github.com/privatenets/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
@@ -26,7 +27,6 @@
 | 20221101T07:21:49Z | CVE-2021-4034 | Null | https://github.com/jehovah2002/CVE-2021-4034-pwnkit | | 
 | 20221101T07:20:06Z | CVE-2022-22909 | Hotel Druid 3.0.3 Code Injection to Remote Code Execution | https://github.com/0z09e/CVE-2022-22909 | | 
 | 20221101T07:20:03Z | CVE-2022-42098 | KLiK-SocialMediaWebsite v1.0.1 has SQL Injection Vulnerabilities at profile.php | https://github.com/bypazs/CVE-2022-42098 | | 
-| 20221101T07:19:55Z | CVE-2022-42097 | Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the comment. | https://github.com/bypazs/CVE-2022-42097 | | 
 
 
 # klee on Github 推荐
@@ -79,6 +79,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221101T03:27:55Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 5 | 1| 
 
 
 # fuzz on Github 推荐

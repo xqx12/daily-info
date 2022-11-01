@@ -17,9 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221101T12:35:13Z | CVE-2022-40146 | Null | https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar | | 
 | 20221101T12:32:02Z | CVE-2021-39144 | {VMware Cloud Foundation} remote code execution vulnerability via XStream (CVE-2021-39144) | https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE | | 
 | 20221101T11:22:21Z | CVE-2022-3518 | Null | https://github.com/lohith19/CVE-2022-3518 | | 
-| 20221101T10:49:08Z | CVE-2022-40146 | Null | https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar | | 
 | 20221101T09:31:18Z | CVE-2021-41773 | python编写的apache路径穿越poc&exp | https://github.com/aqiao-jashell/py-CVE-2021-41773 | | 
 | 20221101T07:55:47Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20221101T07:22:11Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks) Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) Saved | https://github.com/privatenets/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
