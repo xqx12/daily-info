@@ -53,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221102T11:52:51Z | Just some general PC-Exploits like Buffer Overflow and Fork Bombs | https://github.com/kraemr/PC-Exploits | 0 | 0| 
+| 20221102T12:20:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 542 | 144| 
+| 20221102T12:19:48Z | Just some general PC-Exploits like Buffer Overflow and Fork Bombs | https://github.com/kraemr/PC-Exploits | 0 | 0| 
 | 20221102T11:41:03Z | Moses: Exploiting Cross-device Transferable Features for On-device Tensor Program Optimization [in submission] | https://github.com/Kyrie-Zhao/Moses | 1 | 1| 
 | 20221102T10:36:58Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 296 | 34| 
 | 20221102T09:46:55Z | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | 29 | 6| 
@@ -62,7 +63,6 @@
 | 20221102T09:36:13Z | Guía de instalación de BeEF Browser Exploitation Framework en una máquina Ubuntu 22.04 | https://github.com/demontaim/BeEF-en-ubuntu-22.04 | 0 | 0| 
 | 20221102T08:54:08Z | This is a binary exploitation tool allowing to make basic buffer overflow faster and easier. It%s written in Python | https://github.com/bastienbournas/valhalla | 0 | 0| 
 | 20221102T07:55:26Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12229 | 2103| 
-| 20221102T07:41:19Z | Example of exploits of the OWASP Top 10 most critical security risks to web applications. | https://github.com/RubenAgDev/OWASP-Top-Ten-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
