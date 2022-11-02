@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221102T12:07:42Z | CVE-2022-31692 | A sample spring boot application demonstrating configuration that is vulnerable to CVE-2022-31692 | https://github.com/SpindleSec/CVE-2022-31692 | | 
 | 20221102T12:04:40Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
 | 20221102T10:48:25Z | CVE-2022-3602 | Null | https://github.com/eatscrayon/CVE-2022-3602-poc | | 
 | 20221102T10:10:02Z | CVE-2022-40146 | Null | https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar | | 
@@ -37,7 +38,6 @@
 | 20221102T01:39:49Z | CVE-2022-42176 | Null | https://github.com/soy-oreocato/CVE-2022-42176 | | 
 | 20221102T01:06:04Z | CVE-2022-40470 | Cross Site Scripting in Blood Donor Management System Using CodeIgniter - 1.0 | https://github.com/RashidKhanPathan/CVE-2022-40470 | | 
 | 20221102T01:04:50Z | cve-2022-3602 | cve-2022-3602 poc | https://github.com/attilaszia/cve-2022-3602 | | 
-| 20221102T01:04:35Z | CVE-2022-3518 | Null | https://github.com/lohith19/CVE-2022-3518 | | 
 
 
 # klee on Github 推荐
