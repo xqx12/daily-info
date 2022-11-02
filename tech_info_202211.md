@@ -106,6 +106,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221102T12:46:05Z | Familiarization with Fuzzy Logic Designer Toolbox of MATLAB. Implementation of rules base, for a PI Fuzzy controller, a self driving car and development of neuro-fuzzy models. | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
 | 20221102T11:09:36Z | Null | https://github.com/RafiAndeo/Fuzzy_Algorithm | 0 | 0| 
 | 20221102T10:04:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20221102T09:59:17Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 32 | 15| 
@@ -115,7 +116,6 @@
 | 20221102T08:00:51Z | UT based automated fuzz driver generation | https://github.com/Samsung/UTopia | 33 | 10| 
 | 20221102T00:42:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42692 | 21337| 
 | 20221101T23:53:08Z | Customizable fuzzy control unit builder for gameobjects and alike in Unity. | https://github.com/matabal/fuzzycontrol | 0 | 0| 
-| 20221101T23:10:13Z | Null | https://github.com/samriddhiK/Fuzzy | 0 | 0| 
 
 
 

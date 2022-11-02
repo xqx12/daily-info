@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221102T12:46:05Z | Familiarization with Fuzzy Logic Designer Toolbox of MATLAB. Implementation of rules base, for a PI Fuzzy controller, a self driving car and development of neuro-fuzzy models. | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
 | 20221102T11:09:36Z | Null | https://github.com/RafiAndeo/Fuzzy_Algorithm | 0 | 0| 
 | 20221102T10:04:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20221102T09:59:17Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 32 | 15| 
