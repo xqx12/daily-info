@@ -56,7 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221102T11:56:40Z | a freshly launched simple todo app list manager container running on Node.js built with Docker  | https://github.com/skills59/DevOps-s2e1 | 0 | 0| 
+| 20221102T12:59:04Z | a freshly launched simple todo app list manager built with Node.js and container running on Docker  | https://github.com/skills59/DevOps-s2e1 | 0 | 0| 
 | 20221101T22:07:41Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 5 | 2| 
 | 20221101T20:22:32Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 266 | 64| 
 

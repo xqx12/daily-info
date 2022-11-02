@@ -48,7 +48,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221102T11:56:40Z | a freshly launched simple todo app list manager container running on Node.js built with Docker  | https://github.com/skills59/DevOps-s2e1 | 0 | 0| 
+| 20221102T12:59:04Z | a freshly launched simple todo app list manager built with Node.js and container running on Docker  | https://github.com/skills59/DevOps-s2e1 | 0 | 0| 
 
 
 # exploit on Github 推荐
