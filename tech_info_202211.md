@@ -20,6 +20,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221102T01:39:49Z | CVE-2022-42176 | Null | https://github.com/soy-oreocato/CVE-2022-42176 | | 
+| 20221102T01:39:37Z | CVE-2022-0739 | Simple bash script to automate the exploit of cve 2022 0739 | https://github.com/Chris01s/CVE-2022-0739 | | 
 | 20221102T01:23:25Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
 | 20221102T01:06:10Z | CVE-2022-40146 | Null | https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar | | 
 | 20221102T01:06:04Z | CVE-2022-40470 | Cross Site Scripting in Blood Donor Management System Using CodeIgniter - 1.0 | https://github.com/RashidKhanPathan/CVE-2022-40470 | | 
@@ -28,8 +30,6 @@
 | 20221102T01:04:35Z | CVE-2022-3518 | Null | https://github.com/lohith19/CVE-2022-3518 | | 
 | 20221102T01:04:31Z | CVE-2021-41773 | python编写的apache路径穿越poc&exp | https://github.com/aqiao-jashell/py-CVE-2021-41773 | | 
 | 20221102T01:04:27Z | CVE-2021-41773 | apache路径穿越漏洞poc&exp | https://github.com/aqiao-jashell/CVE-2021-41773 | | 
-| 20221102T00:59:06Z | cve-2022- | Null | https://github.com/roycewilliams/openssl-nov-1-critical-cve-2022-tracking | | 
-| 20221101T18:46:30Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps) Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks) Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) Saved | https://github.com/privatenets/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 
 
 # klee on Github 推荐
@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221102T01:40:54Z | Will leak the waypoint tp exploit here because everyone has it and no one cares | https://github.com/Asfall0/Fortnite-WaypointTP-Leak | 1 | 0| 
+| 20221102T01:40:54Z | Fortnite Exploits | https://github.com/Asfall0/Fortnite-Exploits | 1 | 0| 
+| 20221102T01:39:40Z | Persistence and Exploitation  | https://github.com/Maninthebath/Hraefn | 1 | 0| 
+| 20221102T01:39:37Z | Simple bash script to automate the exploit of cve 2022 0739 | https://github.com/Chris01s/CVE-2022-0739 | 0 | 0| 
 | 20221102T01:23:33Z | Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode. Will run under WINE  | https://github.com/dzzie/VS_LIBEMU | 160 | 57| 
 | 20221102T01:20:52Z | Fornite Exploits V3 | https://github.com/Asfall0/Fortnite-Exploits-V4 | 1 | 0| 
 | 20221102T01:04:43Z | SambaCry (CVE-2017-7494) exploit for Samba , bind shell without Metasploit | https://github.com/caique-garbim/CVE-2017-7494_SambaCry | 1 | 0| 
 | 20221102T00:57:11Z | Fornite Exploits V3 | https://github.com/Fadeeeeed/Fortnite-Exploits-V4 | 1 | 0| 
 | 20221102T00:49:15Z | Fornite Exploits V3 | https://github.com/Fadeeeeeed/Fortnite-Exploits-V4 | 0 | 0| 
 | 20221102T00:42:37Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 284 | 31| 
-| 20221101T23:57:41Z | warranty-less PoC for certscare, use at your own risk, IMNAL | https://github.com/micr0sh0ft/certscare-openssl3-exploit | 0 | 0| 
-| 20221101T23:56:30Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANt | 1 | 0| 
-| 20221101T23:55:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANt | 1 | 0| 
-| 20221101T23:54:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANt | 1 | 0| 
 
 
 # backdoor on Github 推荐
