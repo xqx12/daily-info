@@ -62,7 +62,7 @@
 | 20221102T09:36:13Z | Guía de instalación de BeEF Browser Exploitation Framework en una máquina Ubuntu 22.04 | https://github.com/demontaim/BeEF-en-ubuntu-22.04 | 0 | 0| 
 | 20221102T08:54:08Z | This is a binary exploitation tool allowing to make basic buffer overflow faster and easier. It%s written in Python | https://github.com/bastienbournas/valhalla | 0 | 0| 
 | 20221102T07:41:19Z | Example of exploits of the OWASP Top 10 most critical security risks to web applications. | https://github.com/RubenAgDev/OWASP-Top-Ten-Exploits | 0 | 0| 
-| 20221102T01:47:18Z | Fortnite Private Exploit | https://github.com/Asfall0/Fortnite-Stats-Pipe | 1 | 0| 
+| 20221102T05:10:11Z | Framework for interaction with external Win32 processes | https://github.com/ep1h/external-process | 2 | 0| 
 
 
 # backdoor on Github 推荐
