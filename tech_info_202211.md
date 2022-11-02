@@ -71,8 +71,8 @@
 | 20221102T09:41:22Z | This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/Jean-xavierr/42Rainfall | 0 | 0| 
 | 20221102T09:36:13Z | Guía de instalación de BeEF Browser Exploitation Framework en una máquina Ubuntu 22.04 | https://github.com/demontaim/BeEF-en-ubuntu-22.04 | 0 | 0| 
 | 20221102T08:54:08Z | This is a binary exploitation tool allowing to make basic buffer overflow faster and easier. It%s written in Python | https://github.com/bastienbournas/valhalla | 0 | 0| 
+| 20221102T07:55:26Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12229 | 2103| 
 | 20221102T07:41:19Z | Example of exploits of the OWASP Top 10 most critical security risks to web applications. | https://github.com/RubenAgDev/OWASP-Top-Ten-Exploits | 0 | 0| 
-| 20221102T05:10:11Z | Framework for interaction with external Win32 processes | https://github.com/ep1h/external-process | 2 | 0| 
 
 
 # backdoor on Github 推荐
