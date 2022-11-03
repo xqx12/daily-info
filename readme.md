@@ -106,12 +106,12 @@
 | 20221102T22:16:53Z | Null | https://github.com/eggpowder/fuzzy-octo | 0 | 0| 
 | 20221102T22:00:49Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1570 | 69| 
 | 20221102T21:46:46Z | Null | https://github.com/hendriksym12/fuzzy-invention | 0 | 0| 
-| 20221102T20:55:39Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 35 | 16| 
 | 20221102T20:29:16Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2618 | 177| 
 | 20221102T16:43:05Z | Null | https://github.com/s21911-pj/NAI-Fuzzy-Logic | 0 | 0| 
 | 20221102T15:28:43Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 202 | 29| 
 | 20221102T12:46:05Z | Familiarization with Fuzzy Logic Designer Toolbox of MATLAB. Implementation of rules base, for a PI Fuzzy controller, a self driving car and development of neuro-fuzzy models. | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
 | 20221102T11:09:36Z | Null | https://github.com/RafiAndeo/Fuzzy_Algorithm | 0 | 0| 
+| 20221102T10:04:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
