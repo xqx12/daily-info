@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221103T11:36:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9110 | 309| 
+| 20221103T12:31:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9111 | 309| 
 | 20221103T08:30:51Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
 | 20221103T06:32:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 122 | 1| 
 
@@ -91,7 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221103T12:25:55Z | Swift bindings for the Rust fuzzy-matcher crate | https://github.com/alin23/FuzzyMatcher | 0 | 0| 
+| 20221103T12:30:54Z | Swift bindings for the Rust fuzzy-matcher crate | https://github.com/alin23/FuzzyMatcher | 0 | 0| 
 | 20221103T12:20:22Z | This Project will convert speech to text and further perform approximation search | https://github.com/ManoharAQ4/AmazonTranscribe-FuzzySearch | 0 | 0| 
 | 20221103T11:25:15Z | Small but effective wordlist for brute-forcing and discovering hidden things. | https://github.com/tamimhasan404/Wordlist404 | 82 | 27| 
 | 20221103T11:17:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42730 | 21347| 
