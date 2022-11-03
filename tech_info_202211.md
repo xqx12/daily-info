@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T12:25:01Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 300 | 32| 
 | 20221103T12:05:59Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 0 | 0| 
 | 20221103T11:49:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-wait-exploit | 0 | 0| 
 | 20221103T10:18:45Z | Null | https://github.com/Jibs40/MI206---Systemes-Exploitation-Avances | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20221103T07:06:32Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12229 | 2102| 
 | 20221103T01:24:33Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 57 | 3| 
 | 20221103T00:44:57Z | Exploit forums for hacking school chromebooks, proxies, etc | https://github.com/yeetsquad747/exploitcb | 0 | 0| 
-| 20221103T00:35:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANw | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T12:25:55Z | Swift bindings for the Rust fuzzy-matcher crate | https://github.com/alin23/FuzzyMatcher | 0 | 0| 
 | 20221103T12:20:22Z | This Project will convert speech to text and further perform approximation search | https://github.com/ManoharAQ4/AmazonTranscribe-FuzzySearch | 0 | 0| 
 | 20221103T11:25:15Z | Small but effective wordlist for brute-forcing and discovering hidden things. | https://github.com/tamimhasan404/Wordlist404 | 82 | 27| 
 | 20221103T11:17:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42730 | 21347| 
@@ -137,7 +138,6 @@
 | 20221103T08:46:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8028 | 1743| 
 | 20221103T08:16:59Z | Null | https://github.com/nabitang/fuzzy-tribble | 0 | 0| 
 | 20221103T07:50:04Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 27 | 19| 
-| 20221103T01:24:35Z | Eliminate the blue circles before time runs out! | https://github.com/nataliesmyth/fuzzy-octo-memory | 2 | 0| 
 
 
 
