@@ -41,7 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221103T12:02:30Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221103T12:45:50Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221103T11:23:45Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Amulab/CVE-2022-33679 | | 
 | 20221103T10:01:52Z | CVE-2022-36946 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946 | | 
 | 20221103T09:54:03Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Blyth0He/CVE-2022-33679 | | 
@@ -78,7 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221103T12:44:02Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 0 | 0| 
+| 20221103T12:46:47Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 0 | 0| 
 | 20221103T12:41:52Z | HACKING -The Art of Exploitation [2nd edition] | https://github.com/hashiba-k-jp/Hacking | 0 | 0| 
 | 20221103T12:26:45Z | Ever had some weird devs look at your scripts with remote spies why not confuse them lmfao | https://github.com/karmawashere/Roblox-Anti-Remote-Spy-For-Exploits- | 0 | 0| 
 | 20221103T12:25:01Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 300 | 32| 
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T12:47:49Z | Null | https://github.com/YashGarg29/fuzzy-dollop | 0 | 0| 
+| 20221103T12:47:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42731 | 21347| 
 | 20221103T12:30:54Z | Swift bindings for the Rust fuzzy-matcher crate | https://github.com/alin23/FuzzyMatcher | 0 | 0| 
 | 20221103T12:20:22Z | This Project will convert speech to text and further perform approximation search | https://github.com/ManoharAQ4/AmazonTranscribe-FuzzySearch | 0 | 0| 
 | 20221103T11:25:15Z | Small but effective wordlist for brute-forcing and discovering hidden things. | https://github.com/tamimhasan404/Wordlist404 | 82 | 27| 
-| 20221103T11:17:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42730 | 21347| 
 | 20221103T10:35:42Z | Null | https://github.com/Brahimadou/fuzzy-computing-machine | 0 | 0| 
 | 20221103T10:12:59Z | Null | https://github.com/HariSajja/fuzzy | 0 | 0| 
 | 20221103T10:12:26Z | Advanced fuzzing via Model Based Testing for Cosmos blockchains | https://github.com/informalsystems/atomkraft | 50 | 5| 
 | 20221103T08:46:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8028 | 1743| 
 | 20221103T08:16:59Z | Null | https://github.com/nabitang/fuzzy-tribble | 0 | 0| 
-| 20221103T07:50:04Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 27 | 19| 
 
 
 
