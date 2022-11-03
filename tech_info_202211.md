@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T01:24:33Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 57 | 3| 
 | 20221103T00:44:57Z | Exploit forums for hacking school chromebooks, proxies, etc | https://github.com/yeetsquad747/exploitcb | 0 | 0| 
 | 20221103T00:35:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANw | 1 | 0| 
 | 20221103T00:34:41Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANw | 1 | 0| 
@@ -76,12 +77,12 @@
 | 20221103T00:23:01Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/ILLAOYAO/Fortnite-Lama-Exploit | 1 | 0| 
 | 20221103T00:14:27Z | Fortnite Exploits | https://github.com/Huashy/Fortnite-Shoot-Through-Walls-Exploit | 0 | 0| 
 | 20221103T00:10:35Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 34 | 22| 
-| 20221103T00:05:34Z | random pwn writeups and exploits | https://github.com/notjek1/pwnpwnpwn | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T01:24:21Z | Free NFT/ETH drainer -- NO Backdoors, send me a msg for the unobscured code. If you wanna use this, please make sure to host on either github pages with custom url or use a different hosting service | https://github.com/FREENFTMINT/TatePunkDrainer | 1 | 5| 
 | 20221102T20:14:28Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 10 | 3| 
 | 20221102T18:50:47Z | Code for An Adaptive Black-box Backdoor Detection Method for Deep Neural Networks | https://github.com/xinqiaozhang/adatrojan | 4 | 0| 
 | 20221102T18:23:11Z | This is one of my first projects. What the script does: it goes to a pastebin link that you%ll provide and searches for text that you pasted on pastebin.com, then it executes anything that you%ve typed to the pastebin textbox. It%s like a blind injection of commands that is very primitive, but hard to detect (at least I think). | https://github.com/GitClo/chrome-driver-backdoor | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20221102T15:33:05Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 7 | 0| 
 | 20221102T14:23:01Z | Null | https://github.com/marwanomar1/Backdoor-Learning-for-NLP | 0 | 0| 
 | 20221102T13:38:36Z | Null | https://github.com/HttpsWes/BackDoor-Club | 0 | 0| 
-| 20221102T13:13:55Z | verify if jar have backdoor or others malware%s | https://github.com/Halqq/PrChecker | 9 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T01:24:35Z | Eliminate the blue circles before time runs out! | https://github.com/nataliesmyth/fuzzy-octo-memory | 2 | 0| 
 | 20221103T01:19:19Z | Null | https://github.com/JoeyBrar/fuzzy-carnival | 3 | 0| 
 | 20221103T01:13:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8027 | 1743| 
 | 20221103T00:40:26Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 36 | 16| 
@@ -125,7 +126,6 @@
 | 20221102T21:46:46Z | Null | https://github.com/hendriksym12/fuzzy-invention | 0 | 0| 
 | 20221102T20:29:16Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2618 | 177| 
 | 20221102T16:43:05Z | Null | https://github.com/s21911-pj/NAI-Fuzzy-Logic | 0 | 0| 
-| 20221102T15:28:43Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 202 | 29| 
 
 
 
