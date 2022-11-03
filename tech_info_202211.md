@@ -67,6 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:34:41Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANw | 1 | 0| 
+| 20221103T00:33:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANw | 1 | 0| 
 | 20221103T00:27:40Z | Just some mini fortnite exploits | https://github.com/ILLAOYAO/Fortnite-Private-Exploits-Leaked | 1 | 0| 
 | 20221103T00:25:01Z | Fortnite Exploits | https://github.com/ILLAOYAO/Fortnite-Shoot-Through-Walls-Exploit | 2 | 0| 
 | 20221103T00:23:01Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/ILLAOYAO/Fortnite-Lama-Exploit | 1 | 0| 
@@ -75,8 +77,6 @@
 | 20221103T00:05:34Z | random pwn writeups and exploits | https://github.com/notjek1/pwnpwnpwn | 0 | 0| 
 | 20221102T22:55:28Z | This is a Project that is currently unfinished due to some personal issues and lawsuits with Instagram. Its being used to test Some stuff on Instagram and chain them to Exploits  | https://github.com/0xGast/Instagram-Wrapper | 0 | 0| 
 | 20221102T21:41:43Z | Just some mini fortnite exploits | https://github.com/Huashy/Fortnite-Private-Exploits-Leaked | 1 | 0| 
-| 20221102T21:40:38Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/Huashy/Fortnite-Lama-Exploit | 1 | 0| 
-| 20221102T20:46:36Z | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | 2720 | 612| 
 
 
 # backdoor on Github 推荐
