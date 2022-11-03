@@ -67,6 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:23:01Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/ILLAOYAO/Fortnite-Lama-Exploit | 1 | 0| 
+| 20221103T00:22:02Z | Fortnite Exploits | https://github.com/ILLAOYAO/Fortnite-Shoot-Through-Walls-Exploit | 1 | 0| 
 | 20221103T00:14:27Z | Fortnite Exploits | https://github.com/Huashy/Fortnite-Shoot-Through-Walls-Exploit | 0 | 0| 
 | 20221103T00:10:35Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 34 | 22| 
 | 20221103T00:05:34Z | random pwn writeups and exploits | https://github.com/notjek1/pwnpwnpwn | 0 | 0| 
@@ -75,8 +77,6 @@
 | 20221102T21:40:38Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/Huashy/Fortnite-Lama-Exploit | 1 | 0| 
 | 20221102T20:46:36Z | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | 2720 | 612| 
 | 20221102T20:18:35Z | A console admin script built for synapseX & Script-Ware may not work on other executors. | https://github.com/Teemsploit/SituationAdmin.lua | 3 | 3| 
-| 20221102T20:14:28Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 10 | 3| 
-| 20221102T19:17:16Z | Persistence and Exploitation  | https://github.com/Maninthebath/Hraefn | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:23:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8026 | 1743| 
 | 20221102T23:34:36Z | Null | https://github.com/tithii124/fuzzy-eureka | 0 | 0| 
 | 20221102T22:16:53Z | Null | https://github.com/eggpowder/fuzzy-octo | 0 | 0| 
 | 20221102T22:00:49Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1570 | 69| 
@@ -125,7 +126,6 @@
 | 20221102T16:43:05Z | Null | https://github.com/s21911-pj/NAI-Fuzzy-Logic | 0 | 0| 
 | 20221102T15:28:43Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 202 | 29| 
 | 20221102T12:46:05Z | Familiarization with Fuzzy Logic Designer Toolbox of MATLAB. Implementation of rules base, for a PI Fuzzy controller, a self driving car and development of neuro-fuzzy models. | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
-| 20221102T11:09:36Z | Null | https://github.com/RafiAndeo/Fuzzy_Algorithm | 0 | 0| 
 
 
 
