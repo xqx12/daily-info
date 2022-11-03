@@ -116,8 +116,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T01:13:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8027 | 1743| 
+| 20221103T01:05:40Z | Null | https://github.com/JoeyBrar/fuzzy-carnival | 2 | 0| 
 | 20221103T00:40:26Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 36 | 16| 
-| 20221103T00:23:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8026 | 1743| 
 | 20221102T23:34:36Z | Null | https://github.com/tithii124/fuzzy-eureka | 0 | 0| 
 | 20221102T22:16:53Z | Null | https://github.com/eggpowder/fuzzy-octo | 0 | 0| 
 | 20221102T22:00:49Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1570 | 69| 
@@ -125,7 +126,6 @@
 | 20221102T20:29:16Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2618 | 177| 
 | 20221102T16:43:05Z | Null | https://github.com/s21911-pj/NAI-Fuzzy-Logic | 0 | 0| 
 | 20221102T15:28:43Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 202 | 29| 
-| 20221102T12:46:05Z | Familiarization with Fuzzy Logic Designer Toolbox of MATLAB. Implementation of rules base, for a PI Fuzzy controller, a self driving car and development of neuro-fuzzy models. | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
 
 
 
