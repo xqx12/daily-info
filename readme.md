@@ -85,11 +85,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T02:39:50Z | Null | https://github.com/sgwguagua/ndss | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T12:20:22Z | This Project will convert speech to text and further perform approximation search | https://github.com/ManoharAQ4/AmazonTranscribe-FuzzySearch | 0 | 0| 
 | 20221103T11:25:15Z | Small but effective wordlist for brute-forcing and discovering hidden things. | https://github.com/tamimhasan404/Wordlist404 | 82 | 27| 
 | 20221103T11:17:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42730 | 21347| 
 | 20221103T10:35:42Z | Null | https://github.com/Brahimadou/fuzzy-computing-machine | 0 | 0| 
@@ -99,7 +101,6 @@
 | 20221103T08:16:59Z | Null | https://github.com/nabitang/fuzzy-tribble | 0 | 0| 
 | 20221103T07:50:04Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 27 | 19| 
 | 20221103T01:24:35Z | Eliminate the blue circles before time runs out! | https://github.com/nataliesmyth/fuzzy-octo-memory | 2 | 0| 
-| 20221103T01:19:19Z | Null | https://github.com/JoeyBrar/fuzzy-carnival | 3 | 0| 
 
 
 
