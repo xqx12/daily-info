@@ -80,7 +80,7 @@
 | --- | --- | --- | --- | ---| 
 | 20221103T12:26:45Z | Ever had some weird devs look at your scripts with remote spies why not confuse them lmfao | https://github.com/karmawashere/Roblox-Anti-Remote-Spy-For-Exploits- | 0 | 0| 
 | 20221103T12:25:01Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 300 | 32| 
-| 20221103T12:05:59Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 0 | 0| 
+| 20221103T12:05:59Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 0 | 1| 
 | 20221103T11:49:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-wait-exploit | 0 | 0| 
 | 20221103T10:18:45Z | Null | https://github.com/Jibs40/MI206---Systemes-Exploitation-Avances | 0 | 0| 
 | 20221103T09:27:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 541 | 144| 
