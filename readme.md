@@ -27,16 +27,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221102T23:51:29Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
 | 20221102T23:44:09Z | CVE-2022-3602 | Null | https://github.com/eatscrayon/CVE-2022-3602-poc | | 
-| 20221102T22:46:26Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
 | 20221102T21:49:55Z | CVE-2022-42889 | CVE-2022-42889 Blind-RCE Nuclei Template | https://github.com/Hack4rLIFE/CVE-2022-42889 | | 
-| 20221102T20:27:12Z | CVE-2022-33079 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33079 | | 
 | 20221102T20:18:42Z | CVE-2022-36663 | Internal network scanner through Gluu IAM blind ssrf | https://github.com/aqeisi/CVE-2022-36663-PoC | | 
 | 20221102T18:36:45Z | cve-2022-3602 | cve-2022-3602 poc | https://github.com/attilaszia/cve-2022-3602 | | 
 | 20221102T12:22:54Z | CVE-2022-31692 | A sample spring boot application demonstrating configuration that is vulnerable to CVE-2022-31692 | https://github.com/SpindleSec/CVE-2022-31692 | | 
 | 20221102T10:10:02Z | CVE-2022-40146 | Null | https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar | | 
 | 20221102T04:47:17Z | CVE-2021-1732 | CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发 | https://github.com/ratw/CVE-2021-1732 | | 
+| 20221102T01:39:49Z | CVE-2022-42176 | Null | https://github.com/soy-oreocato/CVE-2022-42176 | | 
+| 20221102T01:06:04Z | CVE-2022-40470 | Cross Site Scripting in Blood Donor Management System Using CodeIgniter - 1.0 | https://github.com/RashidKhanPathan/CVE-2022-40470 | | 
+| 20221102T01:04:35Z | CVE-2022-3518 | Null | https://github.com/lohith19/CVE-2022-3518 | | 
 
 
 # klee on Github 推荐

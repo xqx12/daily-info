@@ -31,16 +31,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:51:43Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
+| 20221103T00:51:41Z | CVE-2022-33079 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33079 | | 
+| 20221103T00:51:37Z | CVE-2022-40687 | Omisión de autenticación utilizando una ruta o canal alternativa en el producto de Fortinet. | https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner | | 
+| 20221103T00:51:33Z | CVE-2022-0185 | CVE-2022-0185 exploit | https://github.com/featherL/CVE-2022-0185-exploit | | 
+| 20221103T00:51:30Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
+| 20221103T00:51:22Z | CVE-2022-0739 | Simple bash script to automate the exploit of cve 2022 0739 | https://github.com/Chris01s/CVE-2022-0739 | | 
 | 20221103T00:42:25Z | CVE-2021-27905 | POC for LFI related to CVE-2021-27905 | https://github.com/pdelteil/CVE-2021-27905.POC | | 
 | 20221103T00:14:49Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
-| 20221102T23:51:29Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
 | 20221102T23:44:09Z | CVE-2022-3602 | Null | https://github.com/eatscrayon/CVE-2022-3602-poc | | 
-| 20221102T22:46:26Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
 | 20221102T21:49:55Z | CVE-2022-42889 | CVE-2022-42889 Blind-RCE Nuclei Template | https://github.com/Hack4rLIFE/CVE-2022-42889 | | 
-| 20221102T20:27:12Z | CVE-2022-33079 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33079 | | 
-| 20221102T20:18:42Z | CVE-2022-36663 | Internal network scanner through Gluu IAM blind ssrf | https://github.com/aqeisi/CVE-2022-36663-PoC | | 
-| 20221102T18:36:45Z | cve-2022-3602 | cve-2022-3602 poc | https://github.com/attilaszia/cve-2022-3602 | | 
-| 20221102T12:22:54Z | CVE-2022-31692 | A sample spring boot application demonstrating configuration that is vulnerable to CVE-2022-31692 | https://github.com/SpindleSec/CVE-2022-31692 | | 
 
 
 # klee on Github 推荐
@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:44:57Z | Exploit forums for hacking school chromebooks, proxies, etc | https://github.com/yeetsquad747/exploitcb | 0 | 0| 
 | 20221103T00:35:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANw | 1 | 0| 
 | 20221103T00:34:41Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANw | 1 | 0| 
 | 20221103T00:33:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANw | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20221103T00:14:27Z | Fortnite Exploits | https://github.com/Huashy/Fortnite-Shoot-Through-Walls-Exploit | 0 | 0| 
 | 20221103T00:10:35Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 34 | 22| 
 | 20221103T00:05:34Z | random pwn writeups and exploits | https://github.com/notjek1/pwnpwnpwn | 0 | 0| 
-| 20221102T22:55:28Z | This is a Project that is currently unfinished due to some personal issues and lawsuits with Instagram. Its being used to test Some stuff on Instagram and chain them to Exploits  | https://github.com/0xGast/Instagram-Wrapper | 0 | 0| 
 
 
 # backdoor on Github 推荐
