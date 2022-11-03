@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:27:40Z | Just some mini fortnite exploits | https://github.com/ILLAOYAO/Fortnite-Private-Exploits-Leaked | 1 | 0| 
 | 20221103T00:25:01Z | Fortnite Exploits | https://github.com/ILLAOYAO/Fortnite-Shoot-Through-Walls-Exploit | 2 | 0| 
 | 20221103T00:23:01Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/ILLAOYAO/Fortnite-Lama-Exploit | 1 | 0| 
 | 20221103T00:14:27Z | Fortnite Exploits | https://github.com/Huashy/Fortnite-Shoot-Through-Walls-Exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20221102T21:41:43Z | Just some mini fortnite exploits | https://github.com/Huashy/Fortnite-Private-Exploits-Leaked | 1 | 0| 
 | 20221102T21:40:38Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/Huashy/Fortnite-Lama-Exploit | 1 | 0| 
 | 20221102T20:46:36Z | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | 2720 | 612| 
-| 20221102T20:18:35Z | A console admin script built for synapseX & Script-Ware may not work on other executors. | https://github.com/Teemsploit/SituationAdmin.lua | 3 | 3| 
 
 
 # backdoor on Github 推荐
