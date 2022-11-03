@@ -31,6 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:14:49Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
 | 20221102T23:51:29Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
 | 20221102T23:44:09Z | CVE-2022-3602 | Null | https://github.com/eatscrayon/CVE-2022-3602-poc | | 
 | 20221102T22:46:26Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
@@ -38,7 +39,6 @@
 | 20221102T20:27:12Z | CVE-2022-33079 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33079 | | 
 | 20221102T20:18:42Z | CVE-2022-36663 | Internal network scanner through Gluu IAM blind ssrf | https://github.com/aqeisi/CVE-2022-36663-PoC | | 
 | 20221102T18:36:45Z | cve-2022-3602 | cve-2022-3602 poc | https://github.com/attilaszia/cve-2022-3602 | | 
-| 20221102T18:10:29Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
 | 20221102T12:22:54Z | CVE-2022-31692 | A sample spring boot application demonstrating configuration that is vulnerable to CVE-2022-31692 | https://github.com/SpindleSec/CVE-2022-31692 | | 
 | 20221102T10:10:02Z | CVE-2022-40146 | Null | https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar | | 
 
@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:14:27Z | Fortnite Exploits | https://github.com/Huashy/Fortnite-Shoot-Through-Walls-Exploit | 0 | 0| 
 | 20221103T00:10:35Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 34 | 22| 
 | 20221103T00:05:34Z | random pwn writeups and exploits | https://github.com/notjek1/pwnpwnpwn | 0 | 0| 
 | 20221102T22:55:28Z | This is a Project that is currently unfinished due to some personal issues and lawsuits with Instagram. Its being used to test Some stuff on Instagram and chain them to Exploits  | https://github.com/0xGast/Instagram-Wrapper | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20221102T20:18:35Z | A console admin script built for synapseX & Script-Ware may not work on other executors. | https://github.com/Teemsploit/SituationAdmin.lua | 3 | 3| 
 | 20221102T20:14:28Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 10 | 3| 
 | 20221102T19:17:16Z | Persistence and Exploitation  | https://github.com/Maninthebath/Hraefn | 2 | 0| 
-| 20221102T15:24:57Z | Framework for interaction with external Win32 processes | https://github.com/ep1h/external-process | 3 | 0| 
 
 
 # backdoor on Github 推荐

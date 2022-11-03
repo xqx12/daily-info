@@ -34,9 +34,9 @@
 | 20221102T20:27:12Z | CVE-2022-33079 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33079 | | 
 | 20221102T20:18:42Z | CVE-2022-36663 | Internal network scanner through Gluu IAM blind ssrf | https://github.com/aqeisi/CVE-2022-36663-PoC | | 
 | 20221102T18:36:45Z | cve-2022-3602 | cve-2022-3602 poc | https://github.com/attilaszia/cve-2022-3602 | | 
-| 20221102T18:10:29Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
 | 20221102T12:22:54Z | CVE-2022-31692 | A sample spring boot application demonstrating configuration that is vulnerable to CVE-2022-31692 | https://github.com/SpindleSec/CVE-2022-31692 | | 
 | 20221102T10:10:02Z | CVE-2022-40146 | Null | https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar | | 
+| 20221102T04:47:17Z | CVE-2021-1732 | CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发 | https://github.com/ratw/CVE-2021-1732 | | 
 
 
 # klee on Github 推荐
