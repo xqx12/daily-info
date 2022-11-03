@@ -41,7 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221103T11:24:56Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221103T12:02:30Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221103T11:23:45Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Amulab/CVE-2022-33679 | | 
 | 20221103T10:01:52Z | CVE-2022-36946 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946 | | 
 | 20221103T09:54:03Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Blyth0He/CVE-2022-33679 | | 
