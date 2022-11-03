@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T12:05:59Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 0 | 0| 
 | 20221103T11:49:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-wait-exploit | 0 | 0| 
 | 20221103T10:18:45Z | Null | https://github.com/Jibs40/MI206---Systemes-Exploitation-Avances | 0 | 0| 
 | 20221103T09:27:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 541 | 144| 
@@ -63,7 +64,6 @@
 | 20221103T01:24:33Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 57 | 3| 
 | 20221103T00:44:57Z | Exploit forums for hacking school chromebooks, proxies, etc | https://github.com/yeetsquad747/exploitcb | 0 | 0| 
 | 20221103T00:35:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANw | 1 | 0| 
-| 20221103T00:34:41Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANw | 1 | 0| 
 
 
 # backdoor on Github 推荐
