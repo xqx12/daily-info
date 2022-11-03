@@ -78,16 +78,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T12:44:02Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 0 | 0| 
+| 20221103T12:41:52Z | HACKING -The Art of Exploitation [2nd edition] | https://github.com/hashiba-k-jp/Hacking | 0 | 0| 
 | 20221103T12:26:45Z | Ever had some weird devs look at your scripts with remote spies why not confuse them lmfao | https://github.com/karmawashere/Roblox-Anti-Remote-Spy-For-Exploits- | 0 | 0| 
 | 20221103T12:25:01Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 300 | 32| 
-| 20221103T12:05:59Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 0 | 1| 
 | 20221103T11:49:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-wait-exploit | 0 | 0| 
 | 20221103T10:18:45Z | Null | https://github.com/Jibs40/MI206---Systemes-Exploitation-Avances | 0 | 0| 
 | 20221103T09:27:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 541 | 144| 
 | 20221103T07:56:48Z | Exploit Windows-Based BufferOverflow (vulnserver) | https://github.com/xehn1337/BufferOverFlow | 0 | 0| 
 | 20221103T07:51:45Z | This repo contains the environments of each module of Exploit | https://github.com/XpI0It/exploit-game-environments | 0 | 0| 
 | 20221103T07:06:32Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12229 | 2102| 
-| 20221103T01:24:33Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 57 | 3| 
 
 
 # backdoor on Github 推荐
