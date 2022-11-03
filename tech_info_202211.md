@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221103T00:41:16Z | CVE-2021-27905 | POC for LFI related to CVE-2021-27905 | https://github.com/pdelteil/CVE-2021-27905.POC | | 
+| 20221103T00:42:25Z | CVE-2021-27905 | POC for LFI related to CVE-2021-27905 | https://github.com/pdelteil/CVE-2021-27905.POC | | 
 | 20221103T00:14:49Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
 | 20221102T23:51:29Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
 | 20221102T23:44:09Z | CVE-2022-3602 | Null | https://github.com/eatscrayon/CVE-2022-3602-poc | | 
