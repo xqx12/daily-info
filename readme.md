@@ -64,10 +64,10 @@
 | 20221102T20:46:36Z | Advanced vulnerability scanning with Nmap NSE | https://github.com/scipag/vulscan | 2720 | 612| 
 | 20221102T20:18:35Z | A console admin script built for synapseX & Script-Ware may not work on other executors. | https://github.com/Teemsploit/SituationAdmin.lua | 3 | 3| 
 | 20221102T20:14:28Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 10 | 3| 
+| 20221102T19:51:50Z | Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks. | https://github.com/2lstudios-mc/FlameCord | 180 | 119| 
 | 20221102T19:17:16Z | Persistence and Exploitation  | https://github.com/Maninthebath/Hraefn | 2 | 0| 
 | 20221102T15:24:57Z | Framework for interaction with external Win32 processes | https://github.com/ep1h/external-process | 3 | 0| 
 | 20221102T12:27:06Z | 1.12.2 Exploit Patcher for 2b2t | https://github.com/gammadopplermc/quackforfun | 0 | 0| 
-| 20221102T12:20:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 542 | 144| 
 
 
 # backdoor on Github 推荐

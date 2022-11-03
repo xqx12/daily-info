@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:35:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANw | 1 | 0| 
 | 20221103T00:34:41Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANw | 1 | 0| 
 | 20221103T00:33:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANw | 1 | 0| 
 | 20221103T00:27:40Z | Just some mini fortnite exploits | https://github.com/ILLAOYAO/Fortnite-Private-Exploits-Leaked | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20221103T00:10:35Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 34 | 22| 
 | 20221103T00:05:34Z | random pwn writeups and exploits | https://github.com/notjek1/pwnpwnpwn | 0 | 0| 
 | 20221102T22:55:28Z | This is a Project that is currently unfinished due to some personal issues and lawsuits with Instagram. Its being used to test Some stuff on Instagram and chain them to Exploits  | https://github.com/0xGast/Instagram-Wrapper | 0 | 0| 
-| 20221102T21:41:43Z | Just some mini fortnite exploits | https://github.com/Huashy/Fortnite-Private-Exploits-Leaked | 1 | 0| 
 
 
 # backdoor on Github 推荐
