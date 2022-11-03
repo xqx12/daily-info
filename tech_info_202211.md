@@ -41,7 +41,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221103T12:45:50Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221103T12:49:38Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221103T11:23:45Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Amulab/CVE-2022-33679 | | 
 | 20221103T10:01:52Z | CVE-2022-36946 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946 | | 
 | 20221103T09:54:03Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Blyth0He/CVE-2022-33679 | | 
@@ -78,7 +78,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221103T12:46:47Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 0 | 0| 
+| 20221103T12:51:05Z | 💉C++ ,  Lua Executor New version Updates.  | https://github.com/Fnoberz/Fivem-Source | 50 | 25| 
+| 20221103T12:49:47Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 1 | 0| 
 | 20221103T12:41:52Z | HACKING -The Art of Exploitation [2nd edition] | https://github.com/hashiba-k-jp/Hacking | 0 | 0| 
 | 20221103T12:26:45Z | Ever had some weird devs look at your scripts with remote spies why not confuse them lmfao | https://github.com/karmawashere/Roblox-Anti-Remote-Spy-For-Exploits- | 0 | 0| 
 | 20221103T12:25:01Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 300 | 32| 
@@ -87,12 +88,12 @@
 | 20221103T09:27:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 541 | 144| 
 | 20221103T07:56:48Z | Exploit Windows-Based BufferOverflow (vulnserver) | https://github.com/xehn1337/BufferOverFlow | 0 | 0| 
 | 20221103T07:51:45Z | This repo contains the environments of each module of Exploit | https://github.com/XpI0It/exploit-game-environments | 0 | 0| 
-| 20221103T07:06:32Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12229 | 2102| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T12:50:01Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20221103T07:19:04Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 99 | 7| 
 | 20221103T05:19:03Z | webshell免杀案例 | https://github.com/r3x5ur/webshell-free | 39 | 4| 
 | 20221103T03:16:28Z | shell backdoor web | https://github.com/mrkronkz/shell-backdor | 0 | 0| 
@@ -101,7 +102,6 @@
 | 20221102T18:50:47Z | Code for An Adaptive Black-box Backdoor Detection Method for Deep Neural Networks | https://github.com/xinqiaozhang/adatrojan | 4 | 0| 
 | 20221102T18:23:11Z | This is one of my first projects. What the script does: it goes to a pastebin link that you%ll provide and searches for text that you pasted on pastebin.com, then it executes anything that you%ve typed to the pastebin textbox. It%s like a blind injection of commands that is very primitive, but hard to detect (at least I think). | https://github.com/GitClo/chrome-driver-backdoor | 0 | 0| 
 | 20221102T17:23:04Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 45 | 7| 
-| 20221102T16:08:28Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20221102T15:45:59Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 57 | 8| 
 
 
