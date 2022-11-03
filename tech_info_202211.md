@@ -116,8 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T01:19:19Z | Null | https://github.com/JoeyBrar/fuzzy-carnival | 3 | 0| 
 | 20221103T01:13:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8027 | 1743| 
-| 20221103T01:05:40Z | Null | https://github.com/JoeyBrar/fuzzy-carnival | 2 | 0| 
 | 20221103T00:40:26Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 36 | 16| 
 | 20221102T23:34:36Z | Null | https://github.com/tithii124/fuzzy-eureka | 0 | 0| 
 | 20221102T22:16:53Z | Null | https://github.com/eggpowder/fuzzy-octo | 0 | 0| 
