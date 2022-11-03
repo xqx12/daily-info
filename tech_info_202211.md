@@ -67,8 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:25:01Z | Fortnite Exploits | https://github.com/ILLAOYAO/Fortnite-Shoot-Through-Walls-Exploit | 2 | 0| 
 | 20221103T00:23:01Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/ILLAOYAO/Fortnite-Lama-Exploit | 1 | 0| 
-| 20221103T00:22:02Z | Fortnite Exploits | https://github.com/ILLAOYAO/Fortnite-Shoot-Through-Walls-Exploit | 1 | 0| 
 | 20221103T00:14:27Z | Fortnite Exploits | https://github.com/Huashy/Fortnite-Shoot-Through-Walls-Exploit | 0 | 0| 
 | 20221103T00:10:35Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 34 | 22| 
 | 20221103T00:05:34Z | random pwn writeups and exploits | https://github.com/notjek1/pwnpwnpwn | 0 | 0| 
