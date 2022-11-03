@@ -67,6 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T00:07:16Z | 🔫 External Valorant Aimbot + Esp + SkinChanger , Release Update !  | https://github.com/Fnoberz/Valorant.External | 33 | 22| 
+| 20221103T00:05:34Z | random pwn writeups and exploits | https://github.com/notjek1/pwnpwnpwn | 0 | 0| 
 | 20221102T22:55:28Z | This is a Project that is currently unfinished due to some personal issues and lawsuits with Instagram. Its being used to test Some stuff on Instagram and chain them to Exploits  | https://github.com/0xGast/Instagram-Wrapper | 0 | 0| 
 | 20221102T21:41:43Z | Just some mini fortnite exploits | https://github.com/Huashy/Fortnite-Private-Exploits-Leaked | 1 | 0| 
 | 20221102T21:40:38Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/Huashy/Fortnite-Lama-Exploit | 1 | 0| 
@@ -75,8 +77,6 @@
 | 20221102T20:14:28Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 10 | 3| 
 | 20221102T19:17:16Z | Persistence and Exploitation  | https://github.com/Maninthebath/Hraefn | 2 | 0| 
 | 20221102T15:24:57Z | Framework for interaction with external Win32 processes | https://github.com/ep1h/external-process | 3 | 0| 
-| 20221102T12:27:06Z | 1.12.2 Exploit Patcher for 2b2t | https://github.com/gammadopplermc/quackforfun | 0 | 0| 
-| 20221102T12:20:01Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 542 | 144| 
 
 
 # backdoor on Github 推荐
