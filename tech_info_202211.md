@@ -31,16 +31,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221103T01:43:43Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
+| 20221103T01:42:51Z | 未知编号 | Null | https://github.com/Undefind404/cve_2021_41773 | | 
 | 20221103T01:26:29Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
 | 20221103T01:02:28Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
-| 20221103T00:51:43Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
 | 20221103T00:51:41Z | CVE-2022-33079 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33079 | | 
 | 20221103T00:51:37Z | CVE-2022-40687 | Omisión de autenticación utilizando una ruta o canal alternativa en el producto de Fortinet. | https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner | | 
 | 20221103T00:51:33Z | CVE-2022-0185 | CVE-2022-0185 exploit | https://github.com/featherL/CVE-2022-0185-exploit | | 
 | 20221103T00:51:22Z | CVE-2022-0739 | Simple bash script to automate the exploit of cve 2022 0739 | https://github.com/Chris01s/CVE-2022-0739 | | 
 | 20221103T00:42:25Z | CVE-2021-27905 | POC for LFI related to CVE-2021-27905 | https://github.com/pdelteil/CVE-2021-27905.POC | | 
 | 20221102T23:44:09Z | CVE-2022-3602 | Null | https://github.com/eatscrayon/CVE-2022-3602-poc | | 
-| 20221102T21:49:55Z | CVE-2022-42889 | CVE-2022-42889 Blind-RCE Nuclei Template | https://github.com/Hack4rLIFE/CVE-2022-42889 | | 
 
 
 # klee on Github 推荐
