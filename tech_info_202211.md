@@ -31,9 +31,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221103T01:54:27Z | CVE-2021-41773 | apache路径穿越漏洞poc&exp | https://github.com/aqiao-jashell/CVE-2021-41773 | | 
 | 20221103T01:46:49Z | CVE-2021-41773 | python编写的apache路径穿越poc&exp | https://github.com/aqiao-jashell/py-CVE-2021-41773 | | 
 | 20221103T01:46:18Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
-| 20221103T01:44:24Z | CVE-2021-41773 | apache路径穿越漏洞poc&exp | https://github.com/aqiao-jashell/CVE-2021-41773 | | 
 | 20221103T01:43:43Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
 | 20221103T01:42:51Z | 未知编号 | Null | https://github.com/Undefind404/cve_2021_41773 | | 
 | 20221103T01:26:29Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
