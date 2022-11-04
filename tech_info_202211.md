@@ -80,6 +80,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221104T00:06:23Z | A repository for Go lang based custom exploitation scripts | https://github.com/cse001/Go-Security | 0 | 0| 
+| 20221104T00:05:45Z | A repository for Rust based custom exploitation scripts | https://github.com/cse001/Rusted-Security | 0 | 0| 
 | 20221103T23:53:50Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-FUD | 0 | 0| 
 | 20221103T23:51:52Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit-2022 | 0 | 0| 
 | 20221103T23:51:15Z | Null | https://github.com/0x414141414/-Silent-PDF-Exploit-2022- | 0 | 0| 
@@ -88,8 +90,6 @@
 | 20221103T21:33:07Z | this will help you to exploit json api and etc | https://github.com/imran-niaz/Leak-Stor- | 0 | 0| 
 | 20221103T19:14:00Z | Null | https://github.com/ModExploit/ModExploit.github.io | 0 | 0| 
 | 20221103T17:35:46Z | Null | https://github.com/suljov/Windows-and-Active-Directory | 1 | 0| 
-| 20221103T17:35:28Z | Hacking linux | https://github.com/suljov/Hacking-linux | 1 | 0| 
-| 20221103T17:23:37Z | Slip is a malicious archive generator to exploit path traversal vulnerabilities | https://github.com/0xless/slip | 1 | 0| 
 
 
 # backdoor on Github 推荐
