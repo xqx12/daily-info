@@ -80,16 +80,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221104T01:30:44Z | Fornite Exploits V3 | https://github.com/Xquadro/Fortnite-Exploits-V4 | 0 | 0| 
+| 20221104T01:30:29Z | Will leak the waypoint tp exploit here because everyone has it and no one cares | https://github.com/Xquadro/Fortnite-WaypointTP-Leak | 1 | 0| 
+| 20221104T01:30:26Z | Fortnite Exploits | https://github.com/Xquadro/Fortnite-Exploits | 1 | 0| 
+| 20221104T01:30:04Z | Fortnite Private Exploit | https://github.com/Xquadro/Fortnite-Stats-Pipe | 1 | 0| 
 | 20221104T01:19:28Z | Roblox Your Bizarre Adventure Hack  | https://github.com/Vampiredream19/Roblox-Your-Bizarre-Adventure-Hack-YBA-Script-PRIVATE-EXPLOIT | 1 | 0| 
 | 20221104T01:17:15Z | CSGO BattleField EXPLOITS | https://github.com/Kooxxy/Returned-Oriant-Programming-CSGO-Battlefield-Exploits | 2 | 0| 
 | 20221104T01:17:13Z | Genshin LunareeT CheeTos | https://github.com/Kooxxy/Genshin-LunareeT-CheeTos-Privat3-L3AK3D | 2 | 0| 
 | 20221104T01:12:17Z | DayZ External Cheat V2 4 0 | https://github.com/Kooxxy/DayZ-External-Cheat-V2-4-0-PRIVAT3-LEAK3D-BY-G0L | 2 | 0| 
 | 20221104T01:10:13Z | Null | https://github.com/ModExploit/ModExploit.github.io | 1 | 0| 
 | 20221104T01:09:42Z | Garrys Mode MultiCheat | https://github.com/Kooxxy/Garrys-Mode-MultiCheat-based-on-SDK | 2 | 0| 
-| 20221104T01:09:06Z | Impersonating Google Play Billing Service | https://github.com/Kooxxy/Billing-App-Hack-LEAKED | 1 | 0| 
-| 20221104T01:09:04Z | FrameWork Millin | https://github.com/Kooxxy/Millins-FrameWork-Private-Leak3d-V1-0- | 1 | 0| 
-| 20221104T01:09:04Z | URBAN TERROR INTERIUM MULTICHEAT | https://github.com/Kooxxy/URBAN-TERROR-INTERIUM-SOFTAIM-ESP-AIMBOT-WALLHACK-AND-20-MORE-FEATURES | 1 | 0| 
-| 20221104T01:09:04Z | League Of Legends KBOT | https://github.com/Kooxxy/League-Of-Legends-External-KBOT-V7 | 1 | 0| 
 
 
 # backdoor on Github 推荐
