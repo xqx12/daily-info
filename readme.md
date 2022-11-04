@@ -28,16 +28,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221103T23:31:48Z | CVE-2022-36804 | Null | https://github.com/Jhonsonwannaa/CVE-2022-36804 | | 
 | 20221103T19:50:13Z | CVE-2022-42889 | CVE-2022-42889 Blind-RCE Nuclei Template | https://github.com/Hack4rLIFE/CVE-2022-42889 | | 
 | 20221103T19:30:20Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
-| 20221103T11:23:45Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Amulab/CVE-2022-33679 | | 
-| 20221103T10:01:52Z | CVE-2022-36946 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946 | | 
-| 20221103T09:54:03Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Blyth0He/CVE-2022-33679 | | 
 | 20221103T08:29:07Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
 | 20221103T06:15:31Z | 未知编号 | Null | https://github.com/Undefind404/cve_2021_41773 | | 
 | 20221103T02:15:44Z | CVE-2022-0185 | CVE-2022-0185 exploit | https://github.com/featherL/CVE-2022-0185-exploit | | 
 | 20221103T01:54:27Z | CVE-2021-41773 | apache路径穿越漏洞poc&exp | https://github.com/aqiao-jashell/CVE-2021-41773 | | 
+| 20221103T01:46:49Z | CVE-2021-41773 | python编写的apache路径穿越poc&exp | https://github.com/aqiao-jashell/py-CVE-2021-41773 | | 
+| 20221103T01:46:18Z | CVE-2022-3602 | Null | https://github.com/colmmacc/CVE-2022-3602 | | 
+| 20221103T00:51:41Z | CVE-2022-33079 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33079 | | 
+| 20221103T00:51:37Z | CVE-2022-40687 | Omisión de autenticación utilizando una ruta o canal alternativa en el producto de Fortinet. | https://github.com/williamkhepri/CVE-2022-40687-metasploit-scanner | | 
 
 
 # klee on Github 推荐
