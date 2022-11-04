@@ -132,8 +132,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221104T00:30:12Z | Null | https://github.com/kamvretchannellovedssnation27/fuzzy-journey | 1 | 0| 
 | 20221104T00:13:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 62 | 21| 
-| 20221104T00:12:40Z | Null | https://github.com/kamvretchannellovedssnation27/fuzzy-journey | 0 | 0| 
 | 20221103T23:57:44Z | Null | https://github.com/cryy22/obsidian-FuzzySuggestModal-bug-demo | 0 | 0| 
 | 20221103T23:36:50Z | Technically  | https://github.com/Adanogu/fuzzy-octo-lamp | 0 | 0| 
 | 20221103T23:27:36Z | Null | https://github.com/albuquerque53/fuzzy-golang | 0 | 0| 
