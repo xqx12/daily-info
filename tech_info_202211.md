@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221104T01:45:14Z | Roblox Your Bizarre Adventure Hack  | https://github.com/Sajufaria/Roblox-Your-Bizarre-Adventure-Hack-YBA-Script-PRIVATE-EXPLOIT | 1 | 0| 
 | 20221104T01:39:21Z | Fornite Exploits V3 | https://github.com/Sajufaria/Fortnite-Exploits-V4 | 1 | 0| 
 | 20221104T01:30:44Z | Fornite Exploits V3 | https://github.com/Xquadro/Fortnite-Exploits-V4 | 0 | 0| 
 | 20221104T01:30:29Z | Will leak the waypoint tp exploit here because everyone has it and no one cares | https://github.com/Xquadro/Fortnite-WaypointTP-Leak | 1 | 0| 
@@ -89,7 +90,6 @@
 | 20221104T01:17:15Z | CSGO BattleField EXPLOITS | https://github.com/Kooxxy/Returned-Oriant-Programming-CSGO-Battlefield-Exploits | 2 | 0| 
 | 20221104T01:17:13Z | Genshin LunareeT CheeTos | https://github.com/Kooxxy/Genshin-LunareeT-CheeTos-Privat3-L3AK3D | 2 | 0| 
 | 20221104T01:12:17Z | DayZ External Cheat V2 4 0 | https://github.com/Kooxxy/DayZ-External-Cheat-V2-4-0-PRIVAT3-LEAK3D-BY-G0L | 2 | 0| 
-| 20221104T01:10:13Z | Null | https://github.com/ModExploit/ModExploit.github.io | 1 | 0| 
 
 
 # backdoor on Github 推荐
