@@ -132,6 +132,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221104T00:13:33Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 62 | 21| 
+| 20221104T00:12:40Z | Null | https://github.com/kamvretchannellovedssnation27/fuzzy-journey | 0 | 0| 
 | 20221103T23:57:44Z | Null | https://github.com/cryy22/obsidian-FuzzySuggestModal-bug-demo | 0 | 0| 
 | 20221103T23:36:50Z | Technically  | https://github.com/Adanogu/fuzzy-octo-lamp | 0 | 0| 
 | 20221103T23:27:36Z | Null | https://github.com/albuquerque53/fuzzy-golang | 0 | 0| 
@@ -140,8 +142,6 @@
 | 20221103T22:13:07Z | Null | https://github.com/jpanchal74/fuzzydemo-repo | 0 | 0| 
 | 20221103T21:46:37Z | Null | https://github.com/AdamKaluza/Fuzzy-Logic-Speed-Ticket-Predictions | 0 | 0| 
 | 20221103T21:43:15Z | Null | https://github.com/AdamKaluza/FuzzyLogic_SpeedTicket | 0 | 0| 
-| 20221103T21:37:53Z | Null | https://github.com/AdamKaluza/FuzzyLogic | 0 | 0| 
-| 20221103T21:13:52Z | Null | https://github.com/petakila/fuzzy-computing-machine | 0 | 0| 
 
 
 
