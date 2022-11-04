@@ -31,13 +31,13 @@
 | 20221103T23:31:48Z | CVE-2022-36804 | Null | https://github.com/Jhonsonwannaa/CVE-2022-36804 | | 
 | 20221103T19:50:13Z | CVE-2022-42889 | CVE-2022-42889 Blind-RCE Nuclei Template | https://github.com/Hack4rLIFE/CVE-2022-42889 | | 
 | 20221103T19:30:20Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
-| 20221103T14:03:28Z | CVE-2021-3156 | 利用sudo提权，只针对cnetos7 | https://github.com/PhuketIsland/CVE-2021-3156-centos7 | | 
 | 20221103T11:23:45Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Amulab/CVE-2022-33679 | | 
 | 20221103T10:01:52Z | CVE-2022-36946 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946 | | 
 | 20221103T09:54:03Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Blyth0He/CVE-2022-33679 | | 
 | 20221103T09:10:24Z | CVE-2022-41446 | Privilege Escalation in Teachers Record Management System using CodeIgnitor | https://github.com/RashidKhanPathan/CVE-2022-41446 | | 
 | 20221103T08:45:30Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692-demo | | 
 | 20221103T08:29:07Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
+| 20221103T06:15:31Z | 未知编号 | Null | https://github.com/Undefind404/cve_2021_41773 | | 
 
 
 # klee on Github 推荐
