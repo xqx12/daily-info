@@ -43,11 +43,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221104T01:07:51Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221104T00:57:15Z | CVE-2022-41446 | Privilege Escalation in Teachers Record Management System using CodeIgnitor | https://github.com/RashidKhanPathan/CVE-2022-41446 | | 
 | 20221104T00:57:05Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692-demo | | 
 | 20221104T00:57:00Z | CVE-2021-3156 | 利用sudo提权，只针对cnetos7 | https://github.com/PhuketIsland/CVE-2021-3156-centos7 | | 
 | 20221104T00:56:54Z | CVE-2021-27905 | POC for LFI related to CVE-2021-27905 | https://github.com/pdelteil/CVE-2021-27905.POC | | 
-| 20221104T00:25:44Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221103T23:31:48Z | CVE-2022-36804 | Null | https://github.com/Jhonsonwannaa/CVE-2022-36804 | | 
 | 20221103T19:50:13Z | CVE-2022-42889 | CVE-2022-42889 Blind-RCE Nuclei Template | https://github.com/Hack4rLIFE/CVE-2022-42889 | | 
 | 20221103T19:30:20Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
@@ -80,16 +80,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221104T01:00:31Z | Fornite Exploits V3 | https://github.com/GumellX1/Fortnite-Exploits-V4 | 1 | 0| 
-| 20221104T00:59:26Z | Fortnite Exploits | https://github.com/GumellX1/Fortnite-Exploits | 1 | 0| 
-| 20221104T00:59:25Z | Will leak the waypoint tp exploit here because everyone has it and no one cares | https://github.com/GumellX1/Fortnite-WaypointTP-Leak | 1 | 0| 
-| 20221104T00:59:00Z | Fortnite Private Exploit | https://github.com/GumellX1/Fortnite-Stats-Pipe | 1 | 0| 
-| 20221104T00:47:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANr | 1 | 0| 
-| 20221104T00:46:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANr | 1 | 0| 
-| 20221104T00:45:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANr | 1 | 0| 
-| 20221104T00:06:23Z | A repository for Go lang based custom exploitation scripts | https://github.com/cse001/Go-Security | 0 | 0| 
-| 20221104T00:05:45Z | A repository for Rust based custom exploitation scripts | https://github.com/cse001/Rusted-Security | 0 | 0| 
-| 20221103T23:53:50Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-FUD | 0 | 0| 
+| 20221104T01:09:06Z | Impersonating Google Play Billing Service | https://github.com/Kooxxy/Billing-App-Hack-LEAKED | 1 | 0| 
+| 20221104T01:09:04Z | FrameWork Millin | https://github.com/Kooxxy/Millins-FrameWork-Private-Leak3d-V1-0- | 1 | 0| 
+| 20221104T01:09:04Z | URBAN TERROR INTERIUM MULTICHEAT | https://github.com/Kooxxy/URBAN-TERROR-INTERIUM-SOFTAIM-ESP-AIMBOT-WALLHACK-AND-20-MORE-FEATURES | 1 | 0| 
+| 20221104T01:09:04Z | League Of Legends KBOT | https://github.com/Kooxxy/League-Of-Legends-External-KBOT-V7 | 1 | 0| 
+| 20221104T01:09:04Z | DayZ External Cheat V2 4 0 | https://github.com/Kooxxy/DayZ-External-Cheat-V2-4-0-PRIVAT3-LEAK3D-BY-G0L | 1 | 0| 
+| 20221104T01:09:04Z | Garrys Mode MultiCheat | https://github.com/Kooxxy/Garrys-Mode-MultiCheat-based-on-SDK | 1 | 0| 
+| 20221104T01:09:04Z | Top Level Overlay Drawing For GameCheating | https://github.com/Kooxxy/Top-Level-Overlay-Drawing-For-GameCheating-L3AK3D-BY-M0 | 1 | 0| 
+| 20221104T01:09:03Z | Signature Cheat Engine Maker | https://github.com/Kooxxy/Signature-Cheat-Engine-Maker-V2-PRIVATE | 1 | 0| 
+| 20221104T01:09:03Z | MEMORYSCANNER L3AK3D BY K0BY | https://github.com/Kooxxy/MemoryScanner-LEAKED-BY-K0BY | 1 | 0| 
+| 20221104T01:09:01Z | Exploit DirectX11Hook | https://github.com/Kooxxy/Exploit-DirectX11-Hook-Leaked-Private-By-M3 | 2 | 0| 
 
 
 # backdoor on Github 推荐
