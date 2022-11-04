@@ -80,16 +80,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221104T01:00:31Z | Fornite Exploits V3 | https://github.com/GumellX1/Fortnite-Exploits-V4 | 1 | 0| 
+| 20221104T00:59:26Z | Fortnite Exploits | https://github.com/GumellX1/Fortnite-Exploits | 1 | 0| 
+| 20221104T00:59:25Z | Will leak the waypoint tp exploit here because everyone has it and no one cares | https://github.com/GumellX1/Fortnite-WaypointTP-Leak | 1 | 0| 
+| 20221104T00:59:00Z | Fortnite Private Exploit | https://github.com/GumellX1/Fortnite-Stats-Pipe | 1 | 0| 
 | 20221104T00:47:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANr | 1 | 0| 
 | 20221104T00:46:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANr | 1 | 0| 
 | 20221104T00:45:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANr | 1 | 0| 
 | 20221104T00:06:23Z | A repository for Go lang based custom exploitation scripts | https://github.com/cse001/Go-Security | 0 | 0| 
 | 20221104T00:05:45Z | A repository for Rust based custom exploitation scripts | https://github.com/cse001/Rusted-Security | 0 | 0| 
 | 20221103T23:53:50Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-FUD | 0 | 0| 
-| 20221103T23:51:52Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit-2022 | 0 | 0| 
-| 20221103T23:51:15Z | Null | https://github.com/0x414141414/-Silent-PDF-Exploit-2022- | 0 | 0| 
-| 20221103T22:58:48Z | Null | https://github.com/NightScripts-API/exploit | 0 | 0| 
-| 20221103T21:54:11Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-settle-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
