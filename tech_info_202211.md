@@ -30,6 +30,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20221103 | P2P 僵尸网络：回顾·现状·持续监测 | https://blog.netlab.360.com/p2p-botnet-monitor/| 
+| 20221103 | 公有云攻防系列：云凭证的泄露与利用 | https://mp.weixin.qq.com/s/V2hTqTnUbAsPDWLHljiQ4A| 
+| 20221103 | 新加坡正式成立以网络为重点的“数字和情报军” | https://mp.weixin.qq.com/s/sPLwCfysg-1xSRhS35oQGg| 
 | 20221102 | 浅析NodeJS | https://xz.aliyun.com/t/11791| 
 | 20221102 | 西北工业大学遭网络攻击事件的分析与思考 | https://mp.weixin.qq.com/s/_H2JtjRHG6PCds6zRDH7Rw| 
 | 20221101 | 资源消耗漏洞+支付漏洞+抓包练习 加底部微信免费领取学习资料 | https://mp.weixin.qq.com/s/aM0v8d7NTYQwAmSLwVTcfw| 
@@ -41,24 +43,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221103T12:53:53Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221103T23:51:51Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221103T23:31:48Z | CVE-2022-36804 | Null | https://github.com/Jhonsonwannaa/CVE-2022-36804 | | 
+| 20221103T19:50:13Z | CVE-2022-42889 | CVE-2022-42889 Blind-RCE Nuclei Template | https://github.com/Hack4rLIFE/CVE-2022-42889 | | 
+| 20221103T19:30:20Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
+| 20221103T14:03:28Z | CVE-2021-3156 | 利用sudo提权，只针对cnetos7 | https://github.com/PhuketIsland/CVE-2021-3156-centos7 | | 
 | 20221103T11:23:45Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Amulab/CVE-2022-33679 | | 
 | 20221103T10:01:52Z | CVE-2022-36946 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946 | | 
 | 20221103T09:54:03Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Blyth0He/CVE-2022-33679 | | 
 | 20221103T09:10:24Z | CVE-2022-41446 | Privilege Escalation in Teachers Record Management System using CodeIgnitor | https://github.com/RashidKhanPathan/CVE-2022-41446 | | 
 | 20221103T08:45:30Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692-demo | | 
-| 20221103T08:29:07Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
-| 20221103T06:15:31Z | 未知编号 | Null | https://github.com/Undefind404/cve_2021_41773 | | 
-| 20221103T04:39:12Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
-| 20221103T02:15:44Z | CVE-2022-0185 | CVE-2022-0185 exploit | https://github.com/featherL/CVE-2022-0185-exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221103T12:31:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9111 | 309| 
+| 20221103T17:16:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9119 | 309| 
+| 20221103T16:19:07Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 123 | 1| 
 | 20221103T08:30:51Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
-| 20221103T06:32:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 122 | 1| 
 | 20221102T12:42:12Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 51| 
 | 20221102T10:12:23Z | Null | https://github.com/HolgerGottChristensen/klee-exercises | 0 | 0| 
 | 20221102T07:24:07Z | Null | https://github.com/Sanjaysenthilme/Sample-Kleeen-software | 0 | 0| 
@@ -78,21 +80,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221103T12:51:05Z | 💉C++ ,  Lua Executor New version Updates.  | https://github.com/Fnoberz/Fivem-Source | 50 | 25| 
-| 20221103T12:49:47Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 1 | 0| 
-| 20221103T12:41:52Z | HACKING -The Art of Exploitation [2nd edition] | https://github.com/hashiba-k-jp/Hacking | 0 | 0| 
-| 20221103T12:26:45Z | Ever had some weird devs look at your scripts with remote spies why not confuse them lmfao | https://github.com/karmawashere/Roblox-Anti-Remote-Spy-For-Exploits- | 0 | 0| 
-| 20221103T12:25:01Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 300 | 32| 
-| 20221103T11:49:29Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-wait-exploit | 0 | 0| 
-| 20221103T10:18:45Z | Null | https://github.com/Jibs40/MI206---Systemes-Exploitation-Avances | 0 | 0| 
-| 20221103T09:27:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 541 | 144| 
-| 20221103T07:56:48Z | Exploit Windows-Based BufferOverflow (vulnserver) | https://github.com/xehn1337/BufferOverFlow | 0 | 0| 
-| 20221103T07:51:45Z | This repo contains the environments of each module of Exploit | https://github.com/XpI0It/exploit-game-environments | 0 | 0| 
+| 20221103T23:53:50Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-FUD | 0 | 0| 
+| 20221103T23:51:52Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit-2022 | 0 | 0| 
+| 20221103T23:51:15Z | Null | https://github.com/0x414141414/-Silent-PDF-Exploit-2022- | 0 | 0| 
+| 20221103T22:58:48Z | Null | https://github.com/NightScripts-API/exploit | 0 | 0| 
+| 20221103T21:54:11Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-settle-exploit | 0 | 0| 
+| 20221103T21:33:07Z | this will help you to exploit json api and etc | https://github.com/imran-niaz/Leak-Stor- | 0 | 0| 
+| 20221103T19:14:00Z | Null | https://github.com/ModExploit/ModExploit.github.io | 0 | 0| 
+| 20221103T17:35:46Z | Null | https://github.com/suljov/Windows-and-Active-Directory | 1 | 0| 
+| 20221103T17:35:28Z | Hacking linux | https://github.com/suljov/Hacking-linux | 1 | 0| 
+| 20221103T17:23:37Z | Slip is a malicious archive generator to exploit path traversal vulnerabilities | https://github.com/0xless/slip | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221103T20:34:15Z | The backdoor for my school Recital Project. | https://github.com/yrafalin/RPBackdoor | 1 | 0| 
+| 20221103T18:22:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 8 | 0| 
 | 20221103T12:50:01Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20221103T07:19:04Z | .NET executable to use when dealing with privilege escalation on Windows to gain local administrator access | https://github.com/notdodo/LocalAdminSharp | 99 | 7| 
 | 20221103T05:19:03Z | webshell免杀案例 | https://github.com/r3x5ur/webshell-free | 39 | 4| 
@@ -101,8 +105,6 @@
 | 20221102T20:14:28Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 10 | 3| 
 | 20221102T18:50:47Z | Code for An Adaptive Black-box Backdoor Detection Method for Deep Neural Networks | https://github.com/xinqiaozhang/adatrojan | 4 | 0| 
 | 20221102T18:23:11Z | This is one of my first projects. What the script does: it goes to a pastebin link that you%ll provide and searches for text that you pasted on pastebin.com, then it executes anything that you%ve typed to the pastebin textbox. It%s like a blind injection of commands that is very primitive, but hard to detect (at least I think). | https://github.com/GitClo/chrome-driver-backdoor | 0 | 0| 
-| 20221102T17:23:04Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 45 | 7| 
-| 20221102T15:45:59Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 57 | 8| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221103T12:47:49Z | Null | https://github.com/YashGarg29/fuzzy-dollop | 0 | 0| 
-| 20221103T12:47:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42731 | 21347| 
-| 20221103T12:30:54Z | Swift bindings for the Rust fuzzy-matcher crate | https://github.com/alin23/FuzzyMatcher | 0 | 0| 
-| 20221103T12:20:22Z | This Project will convert speech to text and further perform approximation search | https://github.com/ManoharAQ4/AmazonTranscribe-FuzzySearch | 0 | 0| 
-| 20221103T11:25:15Z | Small but effective wordlist for brute-forcing and discovering hidden things. | https://github.com/tamimhasan404/Wordlist404 | 82 | 27| 
-| 20221103T10:35:42Z | Null | https://github.com/Brahimadou/fuzzy-computing-machine | 0 | 0| 
-| 20221103T10:12:59Z | Null | https://github.com/HariSajja/fuzzy | 0 | 0| 
-| 20221103T10:12:26Z | Advanced fuzzing via Model Based Testing for Cosmos blockchains | https://github.com/informalsystems/atomkraft | 50 | 5| 
-| 20221103T08:46:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8028 | 1743| 
-| 20221103T08:16:59Z | Null | https://github.com/nabitang/fuzzy-tribble | 0 | 0| 
+| 20221103T23:57:44Z | Null | https://github.com/cryy22/obsidian-FuzzySuggestModal-bug-demo | 0 | 0| 
+| 20221103T23:36:50Z | Technically  | https://github.com/Adanogu/fuzzy-octo-lamp | 0 | 0| 
+| 20221103T23:27:36Z | Null | https://github.com/albuquerque53/fuzzy-golang | 0 | 0| 
+| 20221103T23:06:39Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 0 | 0| 
+| 20221103T22:22:54Z | Null | https://github.com/eunjikim97/fuzzy-string-matching-in-python | 0 | 0| 
+| 20221103T22:13:07Z | Null | https://github.com/jpanchal74/fuzzydemo-repo | 0 | 0| 
+| 20221103T21:46:37Z | Null | https://github.com/AdamKaluza/Fuzzy-Logic-Speed-Ticket-Predictions | 0 | 0| 
+| 20221103T21:43:15Z | Null | https://github.com/AdamKaluza/FuzzyLogic_SpeedTicket | 0 | 0| 
+| 20221103T21:37:53Z | Null | https://github.com/AdamKaluza/FuzzyLogic | 0 | 0| 
+| 20221103T21:13:52Z | Null | https://github.com/petakila/fuzzy-computing-machine | 0 | 0| 
 
 
 
