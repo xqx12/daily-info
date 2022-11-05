@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221105T11:58:17Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221105T12:26:39Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221105T10:43:17Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
 | 20221105T09:07:05Z | CVE-2022-42889 | CVE-2022-42889 (a.k.a. Text4Shell) RCE Proof of Concept | https://github.com/sunnyvale-it/CVE-2022-42889-PoC | | 
 | 20221105T07:35:29Z | CVE-2021-3156 | 利用sudo提权，只针对cnetos7 | https://github.com/PhuketIsland/CVE-2021-3156-centos7 | | 
@@ -71,6 +71,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221105T12:16:08Z | Null | https://github.com/julopsalar/jFuzzyLogic-Parking | 0 | 0| 
+| 20221105T11:42:56Z | Null | https://github.com/user-prasad/-Muthinei-Prasad--Ann-fuzzy-logic--project | 0 | 0| 
+| 20221105T11:00:15Z | Null | https://github.com/meetAmarAtGithub/Reva_8_Fuzzy_Logic | 0 | 0| 
+| 20221105T10:44:29Z | Coverage guided fuzzer for javascript | https://github.com/milahu/jsfuzz | 0 | 0| 
+| 20221105T10:13:10Z | Null | https://github.com/hicytree/fuzzy-waddle | 0 | 0| 
+| 20221105T08:37:07Z | An LTSpice simulation repository for a fuzz face guitar effect. | https://github.com/michael-hirschmugl/pnp_fuzz_simulation | 0 | 0| 
+| 20221105T08:32:51Z | Docker registry UI made with love  | https://github.com/Tchoupinax/fuzzy-engine | 9 | 0| 
 
 
 
