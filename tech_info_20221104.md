@@ -65,7 +65,7 @@
 | 20221104T22:42:11Z | Doulingo-Exploit | https://github.com/JigglyPeople/Doulingo-Hack | 1 | 0| 
 | 20221104T22:23:23Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/Witarius/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
 | 20221104T22:23:22Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/Witarius/Nyve-Keyless-Roblox-Premium-Exploit | 1 | 0| 
-| 20221104T20:50:50Z | Roblox Your Bizarre Adventure Hack  | https://github.com/Bubble008/Roblox-Your-Bizarre-Adventure-Hack-YBA-Script-PRIVATE-EXPLOIT | 2 | 0| 
+| 20221104T21:46:23Z | A Roblox script that aims to accurately simulate the 2016 Roblox client. | https://github.com/BeyondThe5D/Retrofiy | 4 | 1| 
 
 
 # backdoor on Github 推荐
