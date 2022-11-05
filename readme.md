@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221105T11:56:57Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221105T12:29:26Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221105T11:50:35Z | Laravel PHPUNIT Rce Auto Exploit & Retrieving information in .env (such as SMTP, AWS, TWILIO, SSH, NEXMO, PERFECTMONEY, and other.) | https://github.com/splitsploit/laravel-rce | 0 | 0| 
 | 20221105T11:43:54Z | Exploiting the xmlrpc.php on all WordPress versions | https://github.com/splitsploit/xmlrpc-exploit | 0 | 0| 
 | 20221105T06:10:26Z | Null | https://github.com/yubhyper/Exploit-Version | 0 | 0| 
@@ -66,6 +66,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221105T02:39:57Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 17 | 2| 
 
 
 # fuzz on Github 推荐
