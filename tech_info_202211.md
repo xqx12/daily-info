@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221105T01:32:22Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221105T11:58:17Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221105T10:43:17Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
+| 20221105T09:07:05Z | CVE-2022-42889 | CVE-2022-42889 (a.k.a. Text4Shell) RCE Proof of Concept | https://github.com/sunnyvale-it/CVE-2022-42889-PoC | | 
+| 20221105T07:35:29Z | CVE-2021-3156 | 利用sudo提权，只针对cnetos7 | https://github.com/PhuketIsland/CVE-2021-3156-centos7 | | 
 | 20221104T21:19:33Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-PoC | | 
 | 20221104T14:05:32Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Amulab/CVE-2022-33679 | | 
-| 20221104T10:29:55Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
 | 20221104T08:59:58Z | CVE-2022-33679 | poc of CVE-2022-33679 | https://github.com/Blyth0He/CVE-2022-33679 | | 
-| 20221104T02:56:24Z | CVE-2021-3156 | 利用sudo提权，只针对cnetos7 | https://github.com/PhuketIsland/CVE-2021-3156-centos7 | | 
 | 20221104T02:35:18Z | cve-2022-3602 | Null | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc | | 
 | 20221104T01:22:24Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692-demo | | 
 | 20221104T01:19:40Z | CVE-2022-36946 | Null | https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946 | | 
-| 20221104T01:19:25Z | CVE-2022-36804 | Null | https://github.com/Jhonsonwannaa/CVE-2022-36804 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221105T01:42:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9128 | 309| 
+| 20221105T10:01:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9133 | 309| 
 | 20221105T00:14:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 126 | 1| 
 | 20221104T19:44:06Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
 | 20221104T07:38:03Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
@@ -84,23 +84,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221105T01:44:14Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
-| 20221105T01:03:24Z | Null | https://github.com/NXIGHT/Exploit-script | 0 | 0| 
-| 20221105T00:43:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANo | 2 | 0| 
-| 20221105T00:39:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANo | 2 | 0| 
-| 20221105T00:33:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANo | 1 | 0| 
-| 20221104T23:59:27Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7285 | 1754| 
-| 20221104T23:33:34Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/ShaunTheSheep1/DF2-DeaD-Frontier2-PrivateCheat | 1 | 0| 
-| 20221104T23:33:34Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/ShaunTheSheep1/Roblox-NYveeee-Private-Exploit-Leak3D | 1 | 0| 
-| 20221104T23:24:46Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/slingson249/Roblox-BloxFlip-Predictor-Exploit | 1 | 0| 
-| 20221104T23:09:43Z | GPay balance exploit READ MORE BELOW | https://github.com/ElwinVi/GPAY-BALANCE-EXPLOIT | 1 | 0| 
+| 20221105T11:56:57Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221105T11:50:35Z | Laravel PHPUNIT Rce Auto Exploit & Retrieving information in .env (such as SMTP, AWS, TWILIO, SSH, NEXMO, PERFECTMONEY, and other.) | https://github.com/splitsploit/laravel-rce | 0 | 0| 
+| 20221105T11:43:54Z | Exploiting the xmlrpc.php on all WordPress versions | https://github.com/splitsploit/xmlrpc-exploit | 0 | 0| 
+| 20221105T06:10:26Z | Null | https://github.com/yubhyper/Exploit-Version | 0 | 0| 
+| 20221105T05:54:38Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 105 | 11| 
+| 20221105T05:15:01Z | 🔵 Spoof HWID banned Vanguard 152 or other code , It works in the current version. | https://github.com/Fnoberz/Valorant-Spoofer | 75 | 17| 
+| 20221105T04:12:51Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 35 | 22| 
+| 20221105T04:11:56Z | ⚔️ Rust Cheat Internal Release Follow Step in Videos , Work in last Patch | https://github.com/Fnoberz/Rust-internal | 22 | 7| 
+| 20221105T04:08:59Z | 💉 Fivem Exec , Open Source C++ External Release | https://github.com/Fnoberz/Example-injector | 22 | 7| 
+| 20221105T04:07:42Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 50 | 23| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221105T08:55:19Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 79 | 11| 
+| 20221105T03:55:37Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 40 | 21| 
 | 20221104T23:59:27Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7285 | 1754| 
-| 20221104T23:21:16Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 72 | 10| 
 | 20221104T18:53:02Z | Remote Administration Tool | https://github.com/Indestructible7/Luminosity-Link-1.1 | 1 | 0| 
 | 20221104T18:53:01Z | Remote Administration Tool | https://github.com/Indestructible7/Imminent-Monitor-v3.9 | 1 | 0| 
 | 20221104T18:53:00Z | Remote Administration Tool | https://github.com/Indestructible7/LarryLurexRAT-v0.2 | 1 | 0| 
@@ -108,14 +109,13 @@
 | 20221104T18:52:58Z | Remote Administration Tool | https://github.com/Indestructible7/Parallax-v1.0.7 | 1 | 0| 
 | 20221104T18:46:40Z | Free NFT/ETH drainer -- NO Backdoors, send me a msg for the unobscured code. If you wanna use this, please make sure to host on either github pages with custom url or use a different hosting service | https://github.com/FREENFTMINT/TatePunkDrainer | 2 | 5| 
 | 20221104T16:07:55Z | This is a clone of x-ui with Iran%s censorship proxy backdoors configured  | https://github.com/alirezamohammadshah/x-ui-iran-ports | 0 | 0| 
-| 20221104T14:10:40Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221104T07:23:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3184 | 450| 
-| 20221103T15:41:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2103 | 593| 
+| 20221105T07:26:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2104 | 594| 
+| 20221105T06:01:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3185 | 450| 
 | 20221103T15:28:22Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 25 | 5| 
 | 20221103T13:23:51Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 588 | 105| 
 | 20221102T14:09:57Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 50 | 24| 
