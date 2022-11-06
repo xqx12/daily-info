@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T14:09:23Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12240 | 2104| 
+| 20221106T14:08:12Z | A collection of proof-of-concept exploit scripts written by the team at Redway Security for various CVEs. | https://github.com/redwaysecurity/CVEs | 0 | 0| 
 | 20221106T13:57:49Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221106T13:11:28Z | Federated Learning on Blockchain exploiting zk-SNARK | https://github.com/6iKezbAD3CZnf/blockchained-ml | 0 | 0| 
 | 20221106T12:27:14Z | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | 0 | 0| 
 | 20221106T12:09:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANf | 1 | 0| 
 | 20221106T12:09:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANf | 1 | 0| 
 | 20221106T12:08:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANf | 1 | 0| 
-| 20221106T12:08:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12239 | 2103| 
 | 20221106T10:39:21Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 108 | 27| 
 | 20221106T09:45:02Z | We propose a skeletal data fusion system for human gait analysis which is a system composed of two main parts, the first part which concerns the acquisition and processing of skeletal data acquired by a Kinect sensor network. The second part concerns the exploitation of the merged data for the analysis of human gait using a set of ML algorithms. | https://github.com/Rabie-zem/skeletal-data-fusion-for-human-Gait-Analysis | 0 | 0| 
-| 20221106T09:22:14Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 853 | 152| 
 
 
 # backdoor on Github 推荐
