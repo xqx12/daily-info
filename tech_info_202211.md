@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T13:02:40Z | Null | https://github.com/elifguner341/IJFS-Spherical-Fuzzy-Soft-Sets-Theory-and-Aggregation-Operator-with-itsApplications | 0 | 0| 
 | 20221106T11:08:22Z | An implementation of the FuzzyDBSCAN algorithm. | https://github.com/schulzch/fuzzy_dbscan | 9 | 0| 
 | 20221106T06:54:47Z | Null | https://github.com/iamcodemaniac/fuzzy-octo-journey | 0 | 0| 
 | 20221106T00:14:37Z | Example project for Fuzzy Simulation package. | https://github.com/simondimc/unity-fuzzy-simulation-example | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20221105T21:24:45Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1577 | 70| 
 | 20221105T15:32:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 485 | 62| 
 | 20221105T12:16:08Z | Null | https://github.com/julopsalar/jFuzzyLogic-Parking | 0 | 0| 
-| 20221105T11:42:56Z | Null | https://github.com/user-prasad/-Muthinei-Prasad--Ann-fuzzy-logic--project | 0 | 0| 
 
 
 
