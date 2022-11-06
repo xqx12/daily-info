@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T00:18:59Z | Nokia X2 ADB Exploit for Stock Rom | https://github.com/symbuzzer/nokia-x2-adb-exploit-root | 0 | 0| 
 | 20221106T00:08:42Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221105T22:13:49Z | Null | https://github.com/Killa666Kill/FUD-CRYPTER-with-SILENT-EXPLOIT | 0 | 0| 
 | 20221105T21:13:15Z | Powershell Exploit detection for Windows | https://github.com/jake-k-38/win-ioc-detect | 3 | 0| 
@@ -93,7 +94,6 @@
 | 20221105T19:14:02Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 305 | 18| 
 | 20221105T19:02:07Z | Various exploits I%ve recreated in python or golang | https://github.com/AstralsDB/Exploits | 0 | 0| 
 | 20221105T14:59:02Z | Null | https://github.com/yubhyper/Exploit | 0 | 0| 
-| 20221105T12:39:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 543 | 144| 
 
 
 # backdoor on Github 推荐
