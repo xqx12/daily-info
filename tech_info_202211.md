@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221106 | 2022年工业信息安全技能大赛“望岳杯”锦标赛 wp | https://www.anquanke.com/post/id/282335| 
+| 20221106 | openwrt 路由器的奇怪 DNS 劫持 | https://green-m.me//2022/11/01/openwrt-dns-hijack/| 
 | 20221104 | Prowler: AWS security best practices 基线检查 | https://github.com/prowler-cloud/prowler| 
 | 20221104 | 使用电信 TR069 内网架设 WireGuard 隧道异地组网 | https://www.kryii.com/89.html| 
 | 20221103 | P2P 僵尸网络：回顾·现状·持续监测 | https://blog.netlab.360.com/p2p-botnet-monitor/| 
@@ -39,29 +41,27 @@
 | 20221102 | 浅析NodeJS | https://xz.aliyun.com/t/11791| 
 | 20221102 | 西北工业大学遭网络攻击事件的分析与思考 | https://mp.weixin.qq.com/s/_H2JtjRHG6PCds6zRDH7Rw| 
 | 20221101 | 资源消耗漏洞+支付漏洞+抓包练习 加底部微信免费领取学习资料 | https://mp.weixin.qq.com/s/aM0v8d7NTYQwAmSLwVTcfw| 
-| 20221101 | 从西工大攻击揭秘美军网空作战发展 | https://mp.weixin.qq.com/s/s43-B6oFYBitl_HaLZYulQ| 
-| 20221101 | Team Finance 被黑简要分析 | https://mp.weixin.qq.com/s/041iCqcdRbKUDFauc45gow| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221106T12:30:26Z | CVE-2021-29447 | Proof of Concept for CVE-2021-29447 written in Python | https://github.com/Val-Resh/CVE-2021-29447-POC | | 
+| 20221106T12:27:14Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | | 
+| 20221106T12:03:05Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC | | 
+| 20221106T10:15:15Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
+| 20221106T07:35:22Z | CVE-2022-2586 | gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread | https://github.com/sniper404ghostxploit/CVE-2022-2586 | | 
+| 20221106T06:23:14Z | CVE-2022-35914 | Unauthenticated RCE in GLPI 10.0.2 | https://github.com/Gabriel-Lima232/CVE-2022-35914 | | 
+| 20221106T05:25:34Z | CVE-2021-29447 | Arbitrary file read controller based on CVE-2021-29447 | https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447 | | 
 | 20221106T01:24:13Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221105T21:50:50Z | CVE-2021-29447 | Null | https://github.com/b-abderrahmane/CVE-2021-29447-POC | | 
-| 20221105T19:30:41Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
 | 20221105T17:26:00Z | Cve-2022- | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/kussamun55/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221105T17:25:53Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/kussamun55/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20221105T17:23:50Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/RydeinGG/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20221105T17:23:48Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RydeinGG/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20221105T17:23:26Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/skylarcoolya/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221105T14:21:15Z | cve-2022-42889 | Script to handle CVE 2022-42889 | https://github.com/QAInsights/cve-2022-42889-jmeter | | 
-| 20221105T13:38:08Z | CVE-2022-36067 | This repo contains payload for the CVE-2022-36067 | https://github.com/Prathamrajgor/Exploit-For-CVE-2022-36067 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221105T19:49:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9134 | 310| 
+| 20221106T12:23:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9138 | 310| 
 | 20221105T00:17:22Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 16 | 0| 
 | 20221105T00:14:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 126 | 1| 
 | 20221104T19:44:06Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
@@ -84,27 +84,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221106T01:54:22Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
-| 20221106T01:36:07Z | Nokia X2 ADB Exploit for Stock Rom | https://github.com/symbuzzer/nokia-x2-adb-exploit-root | 1 | 0| 
-| 20221106T01:12:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANm | 1 | 0| 
-| 20221106T01:12:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANm | 1 | 0| 
-| 20221106T01:11:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANm | 1 | 0| 
-| 20221106T00:48:57Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 95 | 72| 
-| 20221106T00:36:41Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-2022 | 1 | 0| 
-| 20221106T00:36:40Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit- | 1 | 0| 
-| 20221106T00:36:39Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 1 | 0| 
-| 20221105T23:47:13Z | Code for paper Exploiting Reward Shifting in Value-Based Deep RL | https://github.com/holarissun/RewardShifting | 3 | 0| 
+| 20221106T12:54:07Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221106T12:27:14Z | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | 0 | 0| 
+| 20221106T12:09:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANf | 1 | 0| 
+| 20221106T12:09:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANf | 1 | 0| 
+| 20221106T12:08:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANf | 1 | 0| 
+| 20221106T12:08:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12239 | 2103| 
+| 20221106T10:39:21Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 108 | 27| 
+| 20221106T09:45:02Z | We propose a skeletal data fusion system for human gait analysis which is a system composed of two main parts, the first part which concerns the acquisition and processing of skeletal data acquired by a Kinect sensor network. The second part concerns the exploitation of the merged data for the analysis of human gait using a set of ML algorithms. | https://github.com/Rabie-zem/skeletal-data-fusion-for-human-Gait-Analysis | 0 | 0| 
+| 20221106T09:22:14Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 853 | 152| 
+| 20221106T09:20:24Z | Collection of all the exploits I ever wrote | https://github.com/brightprogrammer/pwned | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T09:05:01Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7287 | 1754| 
 | 20221106T00:03:14Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 81 | 11| 
 | 20221105T16:33:53Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 1 | 3| 
 | 20221105T16:33:52Z | Free NFT/ETH drainer -- NO Backdoors, send me a msg for the unobscured code. If you wanna use this, please make sure to host on either github pages with custom url or use a different hosting service | https://github.com/FREENFTMINT/TatePunkDrainer | 3 | 5| 
 | 20221105T12:46:26Z | Obfuscated Webshell Backdoor that can bypass 403 (Forbidden),406 (Not Acceptable) and imunify360 Firewall | https://github.com/security007/Minion-Webshell-Backdoor | 0 | 0| 
 | 20221105T03:55:37Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 40 | 21| 
-| 20221104T23:59:27Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7285 | 1754| 
 | 20221104T18:53:02Z | Remote Administration Tool | https://github.com/Indestructible7/Luminosity-Link-1.1 | 1 | 0| 
 | 20221104T18:53:01Z | Remote Administration Tool | https://github.com/Indestructible7/Imminent-Monitor-v3.9 | 1 | 0| 
 | 20221104T18:53:00Z | Remote Administration Tool | https://github.com/Indestructible7/LarryLurexRAT-v0.2 | 1 | 0| 
@@ -138,6 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T11:08:22Z | An implementation of the FuzzyDBSCAN algorithm. | https://github.com/schulzch/fuzzy_dbscan | 9 | 0| 
+| 20221106T06:54:47Z | Null | https://github.com/iamcodemaniac/fuzzy-octo-journey | 0 | 0| 
 | 20221106T00:14:37Z | Example project for Fuzzy Simulation package. | https://github.com/simondimc/unity-fuzzy-simulation-example | 0 | 0| 
 | 20221105T23:07:25Z | Fuzzy logic based framework for Unity game engine that offers visual programming of collective behaviour. | https://github.com/simondimc/unity-fuzzy-simulation | 0 | 0| 
 | 20221105T21:54:30Z | Null | https://github.com/AG7496/BertFuzzyTextClassifier | 0 | 0| 
@@ -146,8 +148,6 @@
 | 20221105T15:32:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 485 | 62| 
 | 20221105T12:16:08Z | Null | https://github.com/julopsalar/jFuzzyLogic-Parking | 0 | 0| 
 | 20221105T11:42:56Z | Null | https://github.com/user-prasad/-Muthinei-Prasad--Ann-fuzzy-logic--project | 0 | 0| 
-| 20221105T11:00:15Z | Null | https://github.com/meetAmarAtGithub/Reva_8_Fuzzy_Logic | 0 | 0| 
-| 20221105T10:44:29Z | Coverage guided fuzzer for javascript | https://github.com/milahu/jsfuzz | 0 | 0| 
 
 
 
