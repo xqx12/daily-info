@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T13:11:28Z | Federated Learning on Blockchain exploiting zk-SNARK | https://github.com/6iKezbAD3CZnf/blockchained-ml | 0 | 0| 
 | 20221106T12:54:07Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221106T12:27:14Z | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | 0 | 0| 
 | 20221106T12:09:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANf | 1 | 0| 
@@ -51,7 +52,6 @@
 | 20221106T10:39:21Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 108 | 27| 
 | 20221106T09:45:02Z | We propose a skeletal data fusion system for human gait analysis which is a system composed of two main parts, the first part which concerns the acquisition and processing of skeletal data acquired by a Kinect sensor network. The second part concerns the exploitation of the merged data for the analysis of human gait using a set of ML algorithms. | https://github.com/Rabie-zem/skeletal-data-fusion-for-human-Gait-Analysis | 0 | 0| 
 | 20221106T09:22:14Z | 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。 | https://github.com/W01fh4cker/Serein | 853 | 152| 
-| 20221106T09:20:24Z | Collection of all the exploits I ever wrote | https://github.com/brightprogrammer/pwned | 3 | 0| 
 
 
 # backdoor on Github 推荐
@@ -64,6 +64,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T06:41:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3187 | 450| 
 
 
 # big4 on Github 推荐
