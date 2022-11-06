@@ -84,12 +84,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T00:52:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221106T00:48:57Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 95 | 72| 
 | 20221106T00:36:41Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-2022 | 1 | 0| 
 | 20221106T00:36:40Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit- | 1 | 0| 
 | 20221106T00:36:39Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 1 | 0| 
 | 20221106T00:18:59Z | Nokia X2 ADB Exploit for Stock Rom | https://github.com/symbuzzer/nokia-x2-adb-exploit-root | 0 | 0| 
-| 20221106T00:08:42Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221105T23:47:13Z | Code for paper Exploiting Reward Shifting in Value-Based Deep RL | https://github.com/holarissun/RewardShifting | 3 | 0| 
 | 20221105T22:13:49Z | Null | https://github.com/Killa666Kill/FUD-CRYPTER-with-SILENT-EXPLOIT | 0 | 0| 
 | 20221105T21:13:15Z | Powershell Exploit detection for Windows | https://github.com/jake-k-38/win-ioc-detect | 3 | 0| 
