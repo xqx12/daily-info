@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221105T23:47:13Z | Code for paper Exploiting Reward Shifting in Value-Based Deep RL | https://github.com/holarissun/RewardShifting | 3 | 0| 
 | 20221105T22:13:49Z | Null | https://github.com/Killa666Kill/FUD-CRYPTER-with-SILENT-EXPLOIT | 0 | 0| 
 | 20221105T21:13:15Z | Powershell Exploit detection for Windows | https://github.com/jake-k-38/win-ioc-detect | 3 | 0| 
 | 20221105T20:15:52Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3124 | 472| 
@@ -53,7 +54,6 @@
 | 20221105T19:02:07Z | Various exploits I%ve recreated in python or golang | https://github.com/AstralsDB/Exploits | 0 | 0| 
 | 20221105T14:59:02Z | Null | https://github.com/yubhyper/Exploit | 0 | 0| 
 | 20221105T12:39:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 543 | 144| 
-| 20221105T12:30:36Z | In this repository i will leave my path through binary exploitation as i learn  | https://github.com/orionLP/binex | 0 | 0| 
 
 
 # backdoor on Github 推荐

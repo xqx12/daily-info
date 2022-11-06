@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T00:32:07Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 0 | 0| 
+| 20221106T00:31:37Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit- | 0 | 0| 
+| 20221106T00:30:46Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-2022 | 0 | 0| 
 | 20221106T00:18:59Z | Nokia X2 ADB Exploit for Stock Rom | https://github.com/symbuzzer/nokia-x2-adb-exploit-root | 0 | 0| 
 | 20221106T00:08:42Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221105T23:47:13Z | Code for paper Exploiting Reward Shifting in Value-Based Deep RL | https://github.com/holarissun/RewardShifting | 3 | 0| 
 | 20221105T22:13:49Z | Null | https://github.com/Killa666Kill/FUD-CRYPTER-with-SILENT-EXPLOIT | 0 | 0| 
 | 20221105T21:13:15Z | Powershell Exploit detection for Windows | https://github.com/jake-k-38/win-ioc-detect | 3 | 0| 
 | 20221105T20:15:52Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3124 | 472| 
 | 20221105T19:30:41Z | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | 0 | 0| 
-| 20221105T19:26:33Z | Null | https://github.com/suljov/Windows-and-Active-Directory | 3 | 0| 
-| 20221105T19:14:02Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 305 | 18| 
-| 20221105T19:02:07Z | Various exploits I%ve recreated in python or golang | https://github.com/AstralsDB/Exploits | 0 | 0| 
-| 20221105T14:59:02Z | Null | https://github.com/yubhyper/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
