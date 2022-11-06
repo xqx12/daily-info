@@ -114,7 +114,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221106T06:41:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3187 | 450| 
+| 20221106T13:20:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3188 | 450| 
 | 20221105T23:12:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2103 | 594| 
 | 20221103T15:28:22Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 25 | 5| 
 | 20221103T13:23:51Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 588 | 105| 
