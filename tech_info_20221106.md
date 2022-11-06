@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T13:27:52Z | Null | https://github.com/trishakshi/fuzzy-funicular | 0 | 0| 
 | 20221106T13:02:40Z | Null | https://github.com/elifguner341/IJFS-Spherical-Fuzzy-Soft-Sets-Theory-and-Aggregation-Operator-with-itsApplications | 0 | 0| 
 | 20221106T11:08:22Z | An implementation of the FuzzyDBSCAN algorithm. | https://github.com/schulzch/fuzzy_dbscan | 9 | 0| 
 | 20221106T06:54:47Z | Null | https://github.com/iamcodemaniac/fuzzy-octo-journey | 0 | 0| 
