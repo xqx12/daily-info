@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T00:48:57Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 95 | 72| 
 | 20221106T00:36:41Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-2022 | 1 | 0| 
 | 20221106T00:36:40Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit- | 1 | 0| 
 | 20221106T00:36:39Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20221105T22:13:49Z | Null | https://github.com/Killa666Kill/FUD-CRYPTER-with-SILENT-EXPLOIT | 0 | 0| 
 | 20221105T21:13:15Z | Powershell Exploit detection for Windows | https://github.com/jake-k-38/win-ioc-detect | 3 | 0| 
 | 20221105T20:15:52Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 3124 | 472| 
-| 20221105T19:30:41Z | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | 0 | 0| 
 
 
 # backdoor on Github 推荐
