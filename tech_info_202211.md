@@ -84,11 +84,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T01:54:22Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221106T01:36:07Z | Nokia X2 ADB Exploit for Stock Rom | https://github.com/symbuzzer/nokia-x2-adb-exploit-root | 1 | 0| 
 | 20221106T01:12:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANm | 1 | 0| 
 | 20221106T01:12:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANm | 1 | 0| 
 | 20221106T01:11:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANm | 1 | 0| 
-| 20221106T00:52:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221106T00:48:57Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 95 | 72| 
 | 20221106T00:36:41Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-2022 | 1 | 0| 
 | 20221106T00:36:40Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit- | 1 | 0| 
