@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T01:36:07Z | Nokia X2 ADB Exploit for Stock Rom | https://github.com/symbuzzer/nokia-x2-adb-exploit-root | 1 | 0| 
 | 20221106T01:12:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANm | 1 | 0| 
 | 20221106T01:12:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANm | 1 | 0| 
 | 20221106T01:11:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANm | 1 | 0| 
@@ -92,7 +93,6 @@
 | 20221106T00:36:41Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-2022 | 1 | 0| 
 | 20221106T00:36:40Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit- | 1 | 0| 
 | 20221106T00:36:39Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 1 | 0| 
-| 20221106T00:18:59Z | Nokia X2 ADB Exploit for Stock Rom | https://github.com/symbuzzer/nokia-x2-adb-exploit-root | 0 | 0| 
 | 20221105T23:47:13Z | Code for paper Exploiting Reward Shifting in Value-Based Deep RL | https://github.com/holarissun/RewardShifting | 3 | 0| 
 
 
