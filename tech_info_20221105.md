@@ -85,12 +85,12 @@
 | 20221105T21:54:30Z | Null | https://github.com/AG7496/BertFuzzyTextClassifier | 0 | 0| 
 | 20221105T21:41:21Z | Repo for work of the course %Debugging and Fuzzing% | https://github.com/Techspiring/debuggingandfuzzing | 0 | 0| 
 | 20221105T21:24:45Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1577 | 70| 
+| 20221105T15:32:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 485 | 62| 
 | 20221105T12:16:08Z | Null | https://github.com/julopsalar/jFuzzyLogic-Parking | 0 | 0| 
 | 20221105T11:42:56Z | Null | https://github.com/user-prasad/-Muthinei-Prasad--Ann-fuzzy-logic--project | 0 | 0| 
 | 20221105T11:00:15Z | Null | https://github.com/meetAmarAtGithub/Reva_8_Fuzzy_Logic | 0 | 0| 
 | 20221105T10:44:29Z | Coverage guided fuzzer for javascript | https://github.com/milahu/jsfuzz | 0 | 0| 
 | 20221105T10:13:10Z | Null | https://github.com/hicytree/fuzzy-waddle | 0 | 0| 
-| 20221105T09:54:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1096 | 136| 
 
 
 

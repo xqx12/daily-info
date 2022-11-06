@@ -84,9 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221106T00:32:07Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 0 | 0| 
-| 20221106T00:31:37Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit- | 0 | 0| 
-| 20221106T00:30:46Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-2022 | 0 | 0| 
+| 20221106T00:36:41Z | Null | https://github.com/0x414141414/JPEG-Silent-Exploit-2022 | 1 | 0| 
+| 20221106T00:36:40Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit- | 1 | 0| 
+| 20221106T00:36:39Z | Null | https://github.com/0x414141414/Silent-Excel-Exploit- | 1 | 0| 
 | 20221106T00:18:59Z | Nokia X2 ADB Exploit for Stock Rom | https://github.com/symbuzzer/nokia-x2-adb-exploit-root | 0 | 0| 
 | 20221106T00:08:42Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221105T23:47:13Z | Code for paper Exploiting Reward Shifting in Value-Based Deep RL | https://github.com/holarissun/RewardShifting | 3 | 0| 
@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T00:14:37Z | Example project for Fuzzy Simulation package. | https://github.com/simondimc/unity-fuzzy-simulation-example | 0 | 0| 
 | 20221105T23:07:25Z | Fuzzy logic based framework for Unity game engine that offers visual programming of collective behaviour. | https://github.com/simondimc/unity-fuzzy-simulation | 0 | 0| 
 | 20221105T21:54:30Z | Null | https://github.com/AG7496/BertFuzzyTextClassifier | 0 | 0| 
 | 20221105T21:41:21Z | Repo for work of the course %Debugging and Fuzzing% | https://github.com/Techspiring/debuggingandfuzzing | 0 | 0| 
 | 20221105T21:24:45Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1577 | 70| 
+| 20221105T15:32:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 485 | 62| 
 | 20221105T12:16:08Z | Null | https://github.com/julopsalar/jFuzzyLogic-Parking | 0 | 0| 
 | 20221105T11:42:56Z | Null | https://github.com/user-prasad/-Muthinei-Prasad--Ann-fuzzy-logic--project | 0 | 0| 
 | 20221105T11:00:15Z | Null | https://github.com/meetAmarAtGithub/Reva_8_Fuzzy_Logic | 0 | 0| 
 | 20221105T10:44:29Z | Coverage guided fuzzer for javascript | https://github.com/milahu/jsfuzz | 0 | 0| 
-| 20221105T10:13:10Z | Null | https://github.com/hicytree/fuzzy-waddle | 0 | 0| 
-| 20221105T09:54:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1096 | 136| 
 
 
 
