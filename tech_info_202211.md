@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221105T22:26:32Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221106T01:24:13Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221105T21:50:50Z | CVE-2021-29447 | Null | https://github.com/b-abderrahmane/CVE-2021-29447-POC | | 
 | 20221105T19:30:41Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
 | 20221105T17:26:00Z | Cve-2022- | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/kussamun55/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 

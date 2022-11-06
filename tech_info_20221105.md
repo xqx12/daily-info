@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221105T22:26:32Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221105T21:50:50Z | CVE-2021-29447 | Null | https://github.com/b-abderrahmane/CVE-2021-29447-POC | | 
 | 20221105T19:30:41Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
 | 20221105T17:26:00Z | Cve-2022- | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/kussamun55/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
@@ -26,6 +25,7 @@
 | 20221105T17:23:26Z | Cve-2022- | This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follo | https://github.com/skylarcoolya/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20221105T14:21:15Z | cve-2022-42889 | Script to handle CVE 2022-42889 | https://github.com/QAInsights/cve-2022-42889-jmeter | | 
 | 20221105T13:38:08Z | CVE-2022-36067 | This repo contains payload for the CVE-2022-36067 | https://github.com/Prathamrajgor/Exploit-For-CVE-2022-36067 | | 
+| 20221105T10:43:17Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
 
 
 # klee on Github 推荐
