@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221107T01:31:46Z | FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing. | https://github.com/securebinary/firebaseExploiter | 5 | 1| 
+| 20221107T01:59:50Z | FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing. | https://github.com/securebinary/firebaseExploiter | 6 | 1| 
 | 20221107T01:30:11Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221107T01:27:44Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/Garoubaba/Nyve-Keyless-Roblox-Premium-Exploit | 2 | 0| 
 | 20221107T01:26:37Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/Garoubaba/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
