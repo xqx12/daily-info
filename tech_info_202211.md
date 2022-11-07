@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T01:31:46Z | FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing. | https://github.com/securebinary/firebaseExploiter | 5 | 1| 
 | 20221107T01:30:11Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221107T01:27:44Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/Garoubaba/Nyve-Keyless-Roblox-Premium-Exploit | 2 | 0| 
 | 20221107T01:26:37Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/Garoubaba/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20221106T21:34:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANq | 1 | 0| 
 | 20221106T21:33:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANq | 1 | 0| 
 | 20221106T19:01:09Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 10 | 3| 
-| 20221106T14:09:23Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12240 | 2104| 
 
 
 # backdoor on Github 推荐
