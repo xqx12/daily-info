@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221107T01:05:03Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | | 
+| 20221107T01:04:59Z | CVE-2021-29447 | Proof of Concept for CVE-2021-29447 written in Python | https://github.com/Val-Resh/CVE-2021-29447-POC | | 
+| 20221107T01:04:55Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC | | 
+| 20221107T01:04:49Z | CVE-2022-2586 | gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread | https://github.com/sniper404ghostxploit/CVE-2022-2586 | | 
+| 20221107T01:04:45Z | CVE-2022-35914 | Unauthenticated RCE in GLPI 10.0.2 | https://github.com/Gabriel-Lima232/CVE-2022-35914 | | 
 | 20221107T00:50:54Z | CVE-2022-36067 | This repo contains payload for the CVE-2022-36067 | https://github.com/Prathamrajgor/Exploit-For-CVE-2022-36067 | | 
 | 20221107T00:50:51Z | cve-2022-42889 | Script to handle CVE 2022-42889 | https://github.com/QAInsights/cve-2022-42889-jmeter | | 
 | 20221107T00:50:48Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
 | 20221107T00:50:43Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-PoC | | 
 | 20221106T16:08:06Z | CVE-2022-42889 | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | | 
-| 20221106T12:30:26Z | CVE-2021-29447 | Proof of Concept for CVE-2021-29447 written in Python | https://github.com/Val-Resh/CVE-2021-29447-POC | | 
-| 20221106T12:27:14Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | | 
-| 20221106T12:03:05Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC | | 
-| 20221106T07:35:22Z | CVE-2022-2586 | gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread | https://github.com/sniper404ghostxploit/CVE-2022-2586 | | 
-| 20221106T06:23:14Z | CVE-2022-35914 | Unauthenticated RCE in GLPI 10.0.2 | https://github.com/Gabriel-Lima232/CVE-2022-35914 | | 
 
 
 # klee on Github 推荐
@@ -84,10 +84,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T01:05:07Z | The first poc video presenting the sql injection test from (  WordPress Core 5.8.2-%WP_Query%  / CVE-2022-21661)  | https://github.com/APTIRAN/CVE-2022-21661 | 1 | 0| 
 | 20221107T01:01:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221107T00:26:00Z | A repository dedicated to exploiting chrome%s V8. | https://github.com/ret2eax/chrome_exploitation | 0 | 0| 
 | 20221106T23:20:39Z | Null | https://github.com/alestorm980/CloudMe-Exploit | 0 | 0| 
-| 20221106T21:45:02Z | The first poc video presenting the sql injection test from (  WordPress Core 5.8.2-%WP_Query%  / CVE-2022-21661)  | https://github.com/APTIRAN/CVE-2022-21661 | 0 | 0| 
 | 20221106T21:34:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANq | 1 | 0| 
 | 20221106T21:33:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANq | 1 | 0| 
 | 20221106T19:01:09Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 10 | 3| 
