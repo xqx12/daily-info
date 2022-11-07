@@ -84,8 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221107T02:04:34Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
-| 20221107T01:59:50Z | FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing. | https://github.com/securebinary/firebaseExploiter | 6 | 1| 
+| 20221107T02:15:52Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221107T02:15:26Z | FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing. | https://github.com/securebinary/firebaseExploiter | 7 | 1| 
+| 20221107T02:11:46Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7289 | 1755| 
 | 20221107T01:27:44Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/Garoubaba/Nyve-Keyless-Roblox-Premium-Exploit | 2 | 0| 
 | 20221107T01:26:37Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/Garoubaba/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
 | 20221107T01:05:07Z | The first poc video presenting the sql injection test from (  WordPress Core 5.8.2-%WP_Query%  / CVE-2022-21661)  | https://github.com/APTIRAN/CVE-2022-21661 | 1 | 0| 
@@ -93,7 +94,6 @@
 | 20221106T23:20:39Z | Null | https://github.com/alestorm980/CloudMe-Exploit | 0 | 0| 
 | 20221106T21:34:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANq | 1 | 0| 
 | 20221106T21:33:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANq | 1 | 0| 
-| 20221106T19:01:09Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 10 | 3| 
 
 
 # backdoor on Github 推荐
