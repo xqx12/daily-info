@@ -85,8 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T13:56:34Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANz | 0 | 0| 
+| 20221107T13:52:47Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221107T13:49:57Z | This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/Jean-xavierr/42Rainfall | 0 | 0| 
-| 20221107T13:43:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221107T12:37:10Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 543 | 144| 
 | 20221107T12:18:40Z | PIROP Asterisk exploits | https://github.com/vusec/pirop | 0 | 0| 
 | 20221107T12:04:36Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 85 | 6| 
@@ -94,7 +95,6 @@
 | 20221107T11:22:59Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-wear | 0 | 0| 
 | 20221107T11:19:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-confirm | 0 | 0| 
 | 20221107T09:48:45Z | Some notes + exercises that I%ve done during my study for the Offensive Security Exploit Developer. | https://github.com/mrtouch93/OSED-Notes | 0 | 0| 
-| 20221107T02:48:21Z | FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing. | https://github.com/securebinary/firebaseExploiter | 8 | 1| 
 
 
 # backdoor on Github 推荐
