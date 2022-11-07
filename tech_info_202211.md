@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T02:48:21Z | FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing. | https://github.com/securebinary/firebaseExploiter | 8 | 1| 
+| 20221107T02:47:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4621 | 682| 
 | 20221107T02:31:32Z | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | 1269 | 258| 
 | 20221107T02:15:52Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
-| 20221107T02:15:26Z | FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing. | https://github.com/securebinary/firebaseExploiter | 7 | 1| 
 | 20221107T02:11:46Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7289 | 1755| 
 | 20221107T01:27:44Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/Garoubaba/Nyve-Keyless-Roblox-Premium-Exploit | 2 | 0| 
 | 20221107T01:26:37Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/Garoubaba/EclipseWare-Free-Roblox-Exploits-v1.7 | 1 | 0| 
 | 20221107T01:05:07Z | The first poc video presenting the sql injection test from (  WordPress Core 5.8.2-%WP_Query%  / CVE-2022-21661)  | https://github.com/APTIRAN/CVE-2022-21661 | 1 | 0| 
 | 20221107T00:26:00Z | A repository dedicated to exploiting chrome%s V8. | https://github.com/ret2eax/chrome_exploitation | 0 | 0| 
 | 20221106T23:20:39Z | Null | https://github.com/alestorm980/CloudMe-Exploit | 0 | 0| 
-| 20221106T21:34:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANq | 1 | 0| 
 
 
 # backdoor on Github 推荐
