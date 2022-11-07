@@ -102,8 +102,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T13:08:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42816 | 21376| 
 | 20221107T12:55:00Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 93 | 8| 
-| 20221107T12:51:17Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42815 | 21376| 
 | 20221107T12:12:41Z | EthFuzzer is a fuzzing tool for Ethereum%s smart contract. | https://github.com/kishow01/ethFuzzer | 1 | 0| 
 | 20221107T11:11:29Z | This repo explores Google OSS-Fuzz | https://github.com/aduquet/FuzzingExp-GoogleOSS-Fuzz | 0 | 0| 
 | 20221107T10:48:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4425 | 1071| 
