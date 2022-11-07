@@ -139,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221107T02:58:39Z | Null | https://github.com/Rafi-90/fuzzy-octo-tribble | 0 | 0| 
-| 20221107T02:28:47Z | Config files for my GitHub profile. | https://github.com/fuzzy-lee/fuzzy-lee | 0 | 0| 
-| 20221107T01:04:54Z | Null | https://github.com/taovcu/dpuFuzzing | 0 | 0| 
-| 20221106T22:25:40Z | Null | https://github.com/1244sSs/fuzzy-eureka- | 0 | 0| 
-| 20221106T21:40:03Z | Null | https://github.com/romulosantos92/SistemaFuzzy01---Maquina-de-lavar | 0 | 0| 
-| 20221106T21:35:07Z | Stoj%s GitHub Test via PluralSight | https://github.com/stevenstoj/fuzzy-octo-train | 0 | 0| 
-| 20221106T21:33:41Z | Null | https://github.com/brengose/fuzzy-octo-eureka | 0 | 0| 
-| 20221106T21:11:23Z | Enhancing Phase Mapping for High-throughput X-ray Diffraction Experiments using Fuzzy Clustering | https://github.com/NU-CUCIS/FuzzyXRDClustering | 0 | 0| 
-| 20221106T20:51:34Z | Null | https://github.com/GameChaser782/Material-Selection-using-Fuzzy-Logic | 0 | 0| 
-| 20221106T20:39:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4861 | 500| 
+| 20221107T12:55:00Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 93 | 8| 
+| 20221107T12:51:17Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42815 | 21376| 
+| 20221107T12:12:41Z | EthFuzzer is a fuzzing tool for Ethereum%s smart contract. | https://github.com/kishow01/ethFuzzer | 1 | 0| 
+| 20221107T11:11:29Z | This repo explores Google OSS-Fuzz | https://github.com/aduquet/FuzzingExp-GoogleOSS-Fuzz | 0 | 0| 
+| 20221107T10:48:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4425 | 1071| 
+| 20221107T10:37:57Z | Null | https://github.com/rivkabuskila/fuzzing-detector | 0 | 0| 
+| 20221107T09:44:45Z | My first repo | https://github.com/xjkg/fuzzy-happiness | 0 | 0| 
+| 20221107T09:17:52Z | Null | https://github.com/rcoedo/fuzzy-fish | 0 | 0| 
+| 20221107T08:33:30Z | Null | https://github.com/taovcu/dpuFuzzing | 0 | 0| 
+| 20221107T08:21:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8036 | 1746| 
 
 
 
