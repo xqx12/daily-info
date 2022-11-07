@@ -114,6 +114,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T02:01:34Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 21 | 6| 
 | 20221106T13:20:50Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3188 | 450| 
 | 20221105T23:12:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2103 | 594| 
 | 20221103T15:28:22Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 25 | 5| 
@@ -123,7 +124,6 @@
 | 20221102T09:36:52Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 34 | 3| 
 | 20221101T22:07:41Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 5 | 2| 
 | 20221101T21:51:44Z | A small sample from the %Practical Symbolic Execution% course, showing some of the slides describing test case generation, and an associated small lab | https://github.com/atredis-jordan/SymbolicExecutionCourseSample | 3 | 2| 
-| 20221101T12:13:24Z | A survey of literature and applications for symbolic execution tools | https://github.com/LinqLover/symbolic-execution-survey | 0 | 0| 
 
 
 # big4 on Github 推荐
