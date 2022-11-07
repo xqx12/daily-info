@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T01:23:59Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/Garoubaba/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
+| 20221107T01:23:59Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/Garoubaba/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
 | 20221107T01:05:07Z | The first poc video presenting the sql injection test from (  WordPress Core 5.8.2-%WP_Query%  / CVE-2022-21661)  | https://github.com/APTIRAN/CVE-2022-21661 | 1 | 0| 
 | 20221107T01:01:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221107T00:26:00Z | A repository dedicated to exploiting chrome%s V8. | https://github.com/ret2eax/chrome_exploitation | 0 | 0| 
@@ -92,8 +94,6 @@
 | 20221106T21:33:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANq | 1 | 0| 
 | 20221106T19:01:09Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 10 | 3| 
 | 20221106T14:09:23Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12240 | 2104| 
-| 20221106T14:08:12Z | A collection of proof-of-concept exploit scripts written by the team at Redway Security for various CVEs. | https://github.com/redwaysecurity/CVEs | 0 | 0| 
-| 20221106T13:57:22Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 11 | 3| 
 
 
 # backdoor on Github 推荐
