@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T01:44:06Z | Project Decrepitation for FudanTML | https://github.com/FudanTML/Backdoor-Detection-and-Robust-Training | 0 | 0| 
 | 20221106T23:16:54Z | Null | https://github.com/TakenoSite/Linux-BackDoor | 0 | 0| 
 | 20221106T22:41:56Z | Research Paper | https://github.com/Ryuikari/Contact-tracing-a-doorway-to-well-being-or-a-backdoor-to-security-vulnerabilities- | 0 | 0| 
 | 20221106T19:54:12Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 359 | 126| 
@@ -108,7 +109,6 @@
 | 20221105T16:33:53Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 1 | 3| 
 | 20221105T16:33:52Z | Free NFT/ETH drainer -- NO Backdoors, send me a msg for the unobscured code. If you wanna use this, please make sure to host on either github pages with custom url or use a different hosting service | https://github.com/FREENFTMINT/TatePunkDrainer | 3 | 5| 
 | 20221105T12:46:26Z | Obfuscated Webshell Backdoor that can bypass 403 (Forbidden),406 (Not Acceptable) and imunify360 Firewall | https://github.com/security007/Minion-Webshell-Backdoor | 0 | 0| 
-| 20221105T03:55:37Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 40 | 21| 
 
 
 # symbolic execution on Github 推荐
