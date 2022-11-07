@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221106T12:23:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9138 | 310| 
+| 20221106T16:41:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9139 | 310| 
 | 20221105T00:17:22Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 16 | 0| 
 | 20221105T00:14:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 126 | 1| 
 | 20221104T19:44:06Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221107T00:53:16Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221107T01:01:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221107T00:26:00Z | A repository dedicated to exploiting chrome%s V8. | https://github.com/ret2eax/chrome_exploitation | 0 | 0| 
 | 20221106T23:20:39Z | Null | https://github.com/alestorm980/CloudMe-Exploit | 0 | 0| 
 | 20221106T21:45:02Z | The first poc video presenting the sql injection test from (  WordPress Core 5.8.2-%WP_Query%  / CVE-2022-21661)  | https://github.com/APTIRAN/CVE-2022-21661 | 0 | 0| 
@@ -139,6 +139,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T01:04:54Z | Null | https://github.com/taovcu/dpuFuzzing | 0 | 0| 
 | 20221106T22:25:40Z | Null | https://github.com/1244sSs/fuzzy-eureka- | 0 | 0| 
 | 20221106T21:40:03Z | Null | https://github.com/romulosantos92/SistemaFuzzy01---Maquina-de-lavar | 0 | 0| 
 | 20221106T21:35:07Z | Stoj%s GitHub Test via PluralSight | https://github.com/stevenstoj/fuzzy-octo-train | 0 | 0| 
@@ -148,7 +149,6 @@
 | 20221106T20:39:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4861 | 500| 
 | 20221106T19:51:41Z | fuzz | https://github.com/ShaikhFaisalQ/fuzz | 0 | 0| 
 | 20221106T17:57:37Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 91 | 8| 
-| 20221106T14:58:25Z | Null | https://github.com/PetrosyanSahak/Project_Fuzz | 0 | 0| 
 
 
 
