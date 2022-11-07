@@ -54,7 +54,6 @@
 | 20221106T23:16:54Z | Null | https://github.com/TakenoSite/Linux-BackDoor | 0 | 0| 
 | 20221106T22:41:56Z | Research Paper | https://github.com/Ryuikari/Contact-tracing-a-doorway-to-well-being-or-a-backdoor-to-security-vulnerabilities- | 0 | 0| 
 | 20221106T19:54:12Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 359 | 126| 
-| 20221106T17:32:50Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7288 | 1755| 
 | 20221106T13:57:22Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 11 | 3| 
 | 20221106T00:03:14Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 81 | 11| 
 
