@@ -116,7 +116,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221107T11:18:31Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1240 | 58| 
-| 20221107T10:14:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3188 | 450| 
+| 20221107T10:14:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3188 | 451| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
 | 20221107T02:01:34Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 21 | 6| 
 | 20221105T23:12:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2103 | 594| 
