@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221107T13:58:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANz | 0 | 0| 
+| 20221107T13:59:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANz | 1 | 0| 
 | 20221107T13:58:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANz | 1 | 0| 
 | 20221107T13:57:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANz | 1 | 0| 
 | 20221107T13:52:47Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
