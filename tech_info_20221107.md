@@ -104,7 +104,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221107T13:08:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42816 | 21376| 
+| 20221107T13:18:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42817 | 21376| 
+| 20221107T13:17:04Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
 | 20221107T12:55:00Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 93 | 8| 
 | 20221107T12:12:41Z | EthFuzzer is a fuzzing tool for Ethereum%s smart contract. | https://github.com/kishow01/ethFuzzer | 1 | 0| 
 | 20221107T11:11:29Z | This repo explores Google OSS-Fuzz | https://github.com/aduquet/FuzzingExp-GoogleOSS-Fuzz | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20221107T09:44:45Z | My first repo | https://github.com/xjkg/fuzzy-happiness | 0 | 0| 
 | 20221107T09:17:52Z | Null | https://github.com/rcoedo/fuzzy-fish | 0 | 0| 
 | 20221107T08:33:30Z | Null | https://github.com/taovcu/dpuFuzzing | 0 | 0| 
-| 20221107T08:21:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8036 | 1746| 
 
 
 
