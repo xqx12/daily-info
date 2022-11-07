@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221107T00:50:54Z | CVE-2022-36067 | This repo contains payload for the CVE-2022-36067 | https://github.com/Prathamrajgor/Exploit-For-CVE-2022-36067 | | 
+| 20221107T00:50:51Z | cve-2022-42889 | Script to handle CVE 2022-42889 | https://github.com/QAInsights/cve-2022-42889-jmeter | | 
+| 20221107T00:50:48Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
+| 20221107T00:50:43Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-PoC | | 
+| 20221106T16:08:06Z | CVE-2022-42889 | A simple application that shows how to exploit the CVE-2022-42889 vulnerability | https://github.com/korteke/CVE-2022-42889-POC | | 
 | 20221106T12:30:26Z | CVE-2021-29447 | Proof of Concept for CVE-2021-29447 written in Python | https://github.com/Val-Resh/CVE-2021-29447-POC | | 
 | 20221106T12:27:14Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | | 
 | 20221106T12:03:05Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC | | 
-| 20221106T10:15:15Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
 | 20221106T07:35:22Z | CVE-2022-2586 | gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread | https://github.com/sniper404ghostxploit/CVE-2022-2586 | | 
 | 20221106T06:23:14Z | CVE-2022-35914 | Unauthenticated RCE in GLPI 10.0.2 | https://github.com/Gabriel-Lima232/CVE-2022-35914 | | 
-| 20221106T05:25:34Z | CVE-2021-29447 | Arbitrary file read controller based on CVE-2021-29447 | https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447 | | 
-| 20221106T01:24:13Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
-| 20221105T21:50:50Z | CVE-2021-29447 | Null | https://github.com/b-abderrahmane/CVE-2021-29447-POC | | 
-| 20221105T17:26:00Z | Cve-2022- | The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through | https://github.com/kussamun55/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 
 
 # klee on Github 推荐
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T00:53:16Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221107T00:26:00Z | A repository dedicated to exploiting chrome%s V8. | https://github.com/ret2eax/chrome_exploitation | 0 | 0| 
+| 20221106T23:20:39Z | Null | https://github.com/alestorm980/CloudMe-Exploit | 0 | 0| 
+| 20221106T21:45:02Z | The first poc video presenting the sql injection test from (  WordPress Core 5.8.2-%WP_Query%  / CVE-2022-21661)  | https://github.com/APTIRAN/CVE-2022-21661 | 0 | 0| 
+| 20221106T21:34:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANq | 1 | 0| 
+| 20221106T21:33:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANq | 1 | 0| 
+| 20221106T19:01:09Z | The main plugin used by l2x9.me to add features such as /home and /ignore and to fix exploits | https://github.com/254nm/L2X9RebootCore | 10 | 3| 
 | 20221106T14:09:23Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12240 | 2104| 
 | 20221106T14:08:12Z | A collection of proof-of-concept exploit scripts written by the team at Redway Security for various CVEs. | https://github.com/redwaysecurity/CVEs | 0 | 0| 
-| 20221106T13:57:49Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
-| 20221106T13:11:28Z | Federated Learning on Blockchain exploiting zk-SNARK | https://github.com/6iKezbAD3CZnf/blockchained-ml | 0 | 0| 
-| 20221106T12:27:14Z | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | 0 | 0| 
-| 20221106T12:09:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANf | 1 | 0| 
-| 20221106T12:09:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANf | 1 | 0| 
-| 20221106T12:08:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANf | 1 | 0| 
-| 20221106T10:39:21Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 108 | 27| 
-| 20221106T09:45:02Z | We propose a skeletal data fusion system for human gait analysis which is a system composed of two main parts, the first part which concerns the acquisition and processing of skeletal data acquired by a Kinect sensor network. The second part concerns the exploitation of the merged data for the analysis of human gait using a set of ML algorithms. | https://github.com/Rabie-zem/skeletal-data-fusion-for-human-Gait-Analysis | 0 | 0| 
+| 20221106T13:57:22Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 11 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221106T09:05:01Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7287 | 1754| 
+| 20221106T23:16:54Z | Null | https://github.com/TakenoSite/Linux-BackDoor | 0 | 0| 
+| 20221106T22:41:56Z | Research Paper | https://github.com/Ryuikari/Contact-tracing-a-doorway-to-well-being-or-a-backdoor-to-security-vulnerabilities- | 0 | 0| 
+| 20221106T19:54:12Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 359 | 126| 
+| 20221106T17:32:50Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7288 | 1755| 
+| 20221106T13:57:22Z | Collaborative malware exchange repository. | https://github.com/saferwall/malware-souk | 11 | 3| 
 | 20221106T00:03:14Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 81 | 11| 
 | 20221105T16:33:53Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 1 | 3| 
 | 20221105T16:33:52Z | Free NFT/ETH drainer -- NO Backdoors, send me a msg for the unobscured code. If you wanna use this, please make sure to host on either github pages with custom url or use a different hosting service | https://github.com/FREENFTMINT/TatePunkDrainer | 3 | 5| 
 | 20221105T12:46:26Z | Obfuscated Webshell Backdoor that can bypass 403 (Forbidden),406 (Not Acceptable) and imunify360 Firewall | https://github.com/security007/Minion-Webshell-Backdoor | 0 | 0| 
 | 20221105T03:55:37Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 40 | 21| 
-| 20221104T18:53:02Z | Remote Administration Tool | https://github.com/Indestructible7/Luminosity-Link-1.1 | 1 | 0| 
-| 20221104T18:53:01Z | Remote Administration Tool | https://github.com/Indestructible7/Imminent-Monitor-v3.9 | 1 | 0| 
-| 20221104T18:53:00Z | Remote Administration Tool | https://github.com/Indestructible7/LarryLurexRAT-v0.2 | 1 | 0| 
-| 20221104T18:53:00Z | Remote Administration Tool | https://github.com/Indestructible7/CyberGate-v3.4.2.2 | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,6 +129,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221106T15:52:54Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 67 | 36| 
 | 20221105T02:39:57Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 17 | 2| 
 | 20221103T19:57:01Z | Home of the 2023 NDSS Workshop on Binary Analysis Research | https://github.com/bar2023/bar2023.github.io | 0 | 0| 
 | 20221103T02:39:50Z | Null | https://github.com/sgwguagua/ndss | 0 | 0| 
@@ -138,16 +139,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221106T13:38:55Z | Null | https://github.com/trishakshi/fuzzy-funicular | 0 | 0| 
-| 20221106T13:02:40Z | Null | https://github.com/elifguner341/IJFS-Spherical-Fuzzy-Soft-Sets-Theory-and-Aggregation-Operator-with-itsApplications | 0 | 0| 
-| 20221106T11:08:22Z | An implementation of the FuzzyDBSCAN algorithm. | https://github.com/schulzch/fuzzy_dbscan | 9 | 0| 
-| 20221106T06:54:47Z | Null | https://github.com/iamcodemaniac/fuzzy-octo-journey | 0 | 0| 
-| 20221106T00:14:37Z | Example project for Fuzzy Simulation package. | https://github.com/simondimc/unity-fuzzy-simulation-example | 0 | 0| 
-| 20221105T23:07:25Z | Fuzzy logic based framework for Unity game engine that offers visual programming of collective behaviour. | https://github.com/simondimc/unity-fuzzy-simulation | 0 | 0| 
-| 20221105T21:54:30Z | Null | https://github.com/AG7496/BertFuzzyTextClassifier | 0 | 0| 
-| 20221105T21:41:21Z | Repo for work of the course %Debugging and Fuzzing% | https://github.com/Techspiring/debuggingandfuzzing | 0 | 0| 
-| 20221105T21:24:45Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1577 | 70| 
-| 20221105T15:32:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 485 | 62| 
+| 20221106T22:25:40Z | Null | https://github.com/1244sSs/fuzzy-eureka- | 0 | 0| 
+| 20221106T21:40:03Z | Null | https://github.com/romulosantos92/SistemaFuzzy01---Maquina-de-lavar | 0 | 0| 
+| 20221106T21:35:07Z | Stoj%s GitHub Test via PluralSight | https://github.com/stevenstoj/fuzzy-octo-train | 0 | 0| 
+| 20221106T21:33:41Z | Null | https://github.com/brengose/fuzzy-octo-eureka | 0 | 0| 
+| 20221106T21:11:23Z | Enhancing Phase Mapping for High-throughput X-ray Diffraction Experiments using Fuzzy Clustering | https://github.com/NU-CUCIS/FuzzyXRDClustering | 0 | 0| 
+| 20221106T20:51:34Z | Null | https://github.com/GameChaser782/Material-Selection-using-Fuzzy-Logic | 0 | 0| 
+| 20221106T20:39:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4861 | 500| 
+| 20221106T19:51:41Z | fuzz | https://github.com/ShaikhFaisalQ/fuzz | 0 | 0| 
+| 20221106T17:57:37Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 91 | 8| 
+| 20221106T14:58:25Z | Null | https://github.com/PetrosyanSahak/Project_Fuzz | 0 | 0| 
 
 
 
