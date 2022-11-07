@@ -76,8 +76,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T13:16:38Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 3 | 0| 
 | 20221107T12:51:26Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 85 | 11| 
-| 20221107T11:48:54Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 2 | 0| 
 | 20221107T10:26:14Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/padsalatushal/CVE-2011-2523 | 4 | 0| 
 | 20221107T10:16:21Z | Archive Shell Backdoor Build Using React | https://github.com/DK77-sys/Shell-Backdoor-Archive | 0 | 0| 
 | 20221107T08:51:11Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 6 | 0| 
