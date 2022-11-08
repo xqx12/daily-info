@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T01:04:02Z | Null | https://github.com/jmckinny/fuzzy | 0 | 0| 
 | 20221108T00:38:44Z | Null | https://github.com/wandachu/fuzzy-octo-pancake | 0 | 0| 
 | 20221108T00:21:33Z | Null | https://github.com/JaxonAdams/fuzzy-spoon | 0 | 0| 
 | 20221108T00:10:12Z | Null | https://github.com/mirladerina/fuzzy-spoon | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20221107T13:17:04Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
 | 20221107T12:55:00Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 93 | 8| 
 | 20221107T12:12:41Z | EthFuzzer is a fuzzing tool for Ethereum%s smart contract. | https://github.com/kishow01/ethFuzzer | 1 | 0| 
-| 20221107T11:11:29Z | This repo explores Google OSS-Fuzz | https://github.com/aduquet/FuzzingExp-GoogleOSS-Fuzz | 0 | 0| 
 
 
 
