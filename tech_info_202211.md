@@ -141,8 +141,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T13:15:12Z | A fuzzy string comparison library for Elixir | https://github.com/patrickdet/fuzzy_compare | 15 | 1| 
 | 20221108T13:01:14Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
-| 20221108T12:36:41Z | A fuzzy string comparison library for Elixir | https://github.com/patrickdet/fuzzy_compare | 14 | 1| 
 | 20221108T11:36:31Z | Null | https://github.com/kdenny25/fuzzy_logic | 0 | 0| 
 | 20221108T11:08:22Z | Lets you set up Java Out Of Process Fuzzing on your CI Fuzz server, without using the local installation first | https://github.com/ci-fuzz/web-app-fuzzing-template-project | 1 | 1| 
 | 20221108T09:48:07Z | Null | https://github.com/nsutnghiadoan/fuzzy-fe | 1 | 0| 
