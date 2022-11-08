@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221108T02:13:29Z | CVE-2021-43657 | This is a reference/POC for CVE-2021-43657 | https://github.com/c0n5n3d/CVE-2021-43657 | | 
 | 20221108T02:05:24Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
 | 20221108T01:51:01Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221108T01:04:34Z | CVE-2022-3602 | Null | https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786 | | 
@@ -55,7 +56,6 @@
 | 20221107T08:49:20Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
 | 20221107T07:39:20Z | CVE-2022-42889 | Null | https://github.com/adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889 | | 
 | 20221107T01:05:03Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | | 
-| 20221107T01:04:59Z | CVE-2021-29447 | Proof of Concept for CVE-2021-29447 written in Python | https://github.com/Val-Resh/CVE-2021-29447-POC | | 
 
 
 # klee on Github 推荐
