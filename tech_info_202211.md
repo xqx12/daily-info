@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T01:40:58Z | Null | https://github.com/dcschwalm/C--assisted-exploitation | 0 | 0| 
 | 20221108T01:39:40Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221108T00:31:16Z | This git will analyze software vulnerabilities such as “buffer overflow” and prevent their exploitation. | https://github.com/KonstantinTsibilskas/Buffer-overflow | 0 | 0| 
 | 20221108T00:28:42Z | Larapler Random Exploit | https://github.com/im-hanzou/larapler | 0 | 1| 
@@ -94,7 +95,6 @@
 | 20221108T00:08:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN5 | 1 | 0| 
 | 20221107T23:45:55Z | Python script to extract shellcode from object/executable files | https://github.com/Neetx/Shellcode-Extractor | 6 | 5| 
 | 20221107T23:35:22Z | Powershell Exploit detection for Windows | https://github.com/jake-k-38/win-ioc-detect | 5 | 1| 
-| 20221107T23:15:26Z | WIP - This is an implementation of the model inversion attack described in %Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures% (Fredrikson Et al.) | https://github.com/procrastimax/face-classification-model-inversion | 0 | 0| 
 
 
 # backdoor on Github 推荐
