@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221108T02:14:10Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221108T02:23:00Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221108T01:52:00Z | ToldeHub is revolutionary in exploiting with soon to come big games and hopefully a great fanbase | https://github.com/ToldeHub/ToldeHub | 0 | 0| 
 | 20221108T01:40:58Z | Null | https://github.com/dcschwalm/C--assisted-exploitation | 0 | 0| 
 | 20221108T00:31:16Z | This git will analyze software vulnerabilities such as “buffer overflow” and prevent their exploitation. | https://github.com/KonstantinTsibilskas/Buffer-overflow | 0 | 0| 
