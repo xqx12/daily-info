@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T02:54:14Z | a php fuzzer class for security research | https://github.com/ShangRui-hash/Fuzzer | 0 | 0| 
 | 20221108T02:38:40Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 282 | 36| 
 | 20221108T02:07:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4863 | 500| 
 | 20221108T02:07:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1746| 
@@ -149,7 +150,6 @@
 | 20221108T00:38:44Z | Null | https://github.com/wandachu/fuzzy-octo-pancake | 0 | 0| 
 | 20221108T00:21:33Z | Null | https://github.com/JaxonAdams/fuzzy-spoon | 0 | 0| 
 | 20221108T00:10:12Z | Null | https://github.com/mirladerina/fuzzy-spoon | 0 | 0| 
-| 20221107T20:00:46Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 99 | 2| 
 
 
 
