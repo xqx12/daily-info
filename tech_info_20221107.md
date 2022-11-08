@@ -62,16 +62,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T23:45:55Z | Python script to extract shellcode from object/executable files | https://github.com/Neetx/Shellcode-Extractor | 6 | 5| 
+| 20221107T23:35:22Z | Powershell Exploit detection for Windows | https://github.com/jake-k-38/win-ioc-detect | 5 | 1| 
+| 20221107T23:15:26Z | WIP - This is an implementation of the model inversion attack described in %Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures% (Fredrikson Et al.) | https://github.com/procrastimax/face-classification-model-inversion | 0 | 0| 
+| 20221107T22:59:52Z | Useful Stuff that rightfully belongs to AnthonyIsntHere | https://github.com/AnthonyIsntHere/anthonysrepository | 3 | 11| 
+| 20221107T21:54:07Z | Projects I made in verilog as part of assignments or simple experimentations. | https://github.com/akashdeeep/My_Verilog_Exploits | 0 | 0| 
+| 20221107T21:23:54Z | Null | https://github.com/Brakatuta/AntiExploitAllowedUsers | 0 | 0| 
 | 20221107T13:59:02Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANz | 1 | 0| 
 | 20221107T13:58:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANz | 1 | 0| 
 | 20221107T13:57:04Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANz | 1 | 0| 
-| 20221107T13:52:47Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221107T13:49:57Z | This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/Jean-xavierr/42Rainfall | 0 | 0| 
-| 20221107T12:37:10Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 543 | 144| 
-| 20221107T12:18:40Z | PIROP Asterisk exploits | https://github.com/vusec/pirop | 0 | 0| 
-| 20221107T12:04:36Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 85 | 6| 
-| 20221107T11:55:27Z | Null | https://github.com/MainDabRblx/KiwiExploitsDocs | 0 | 0| 
-| 20221107T11:22:59Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-wear | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -90,8 +90,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T18:29:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3189 | 452| 
+| 20221107T15:45:55Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 589 | 105| 
 | 20221107T11:18:31Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1240 | 58| 
-| 20221107T10:14:27Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3188 | 451| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
 | 20221107T02:01:34Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 21 | 6| 
 
