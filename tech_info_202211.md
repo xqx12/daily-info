@@ -94,7 +94,7 @@
 | 20221108T00:10:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN6 | 1 | 0| 
 | 20221108T00:09:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN5 | 1 | 0| 
 | 20221108T00:08:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN5 | 1 | 0| 
-| 20221107T23:45:55Z | Python script to extract shellcode from object/executable files | https://github.com/Neetx/Shellcode-Extractor | 6 | 5| 
+| 20221108T00:06:42Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 138 | 29| 
 
 
 # backdoor on Github 推荐
