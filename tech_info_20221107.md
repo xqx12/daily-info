@@ -77,7 +77,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221107T23:36:52Z | Demonstration of a backdoor in OpenSea Shared Storefront | https://github.com/fulldecent/opensea-shared-storefront-backdoor | 17 | 0| 
 | 20221107T16:45:31Z | [Keylogger && Shell Backdoor] Educational trojan horse.  | https://github.com/SaltyMilk/SH13LD | 3 | 0| 
 | 20221107T15:31:11Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 8 | 1| 
 | 20221107T13:16:38Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 3 | 0| 

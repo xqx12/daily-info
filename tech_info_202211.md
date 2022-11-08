@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221108T01:18:15Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221108T01:51:01Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221108T01:04:34Z | CVE-2022-3602 | Null | https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786 | | 
 | 20221108T00:46:02Z | CVE-2021-29447 | Arbitrary file read controller based on CVE-2021-29447 | https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447 | | 
 | 20221107T23:50:21Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T01:52:00Z | ToldeHub is revolutionary in exploiting with soon to come big games and hopefully a great fanbase | https://github.com/ToldeHub/ToldeHub | 0 | 0| 
 | 20221108T01:40:58Z | Null | https://github.com/dcschwalm/C--assisted-exploitation | 0 | 0| 
 | 20221108T01:39:40Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221108T00:31:16Z | This git will analyze software vulnerabilities such as “buffer overflow” and prevent their exploitation. | https://github.com/KonstantinTsibilskas/Buffer-overflow | 0 | 0| 
@@ -94,14 +95,13 @@
 | 20221108T00:09:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN5 | 1 | 0| 
 | 20221108T00:08:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN5 | 1 | 0| 
 | 20221107T23:45:55Z | Python script to extract shellcode from object/executable files | https://github.com/Neetx/Shellcode-Extractor | 6 | 5| 
-| 20221107T23:35:22Z | Powershell Exploit detection for Windows | https://github.com/jake-k-38/win-ioc-detect | 5 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T01:52:19Z | Demonstration of a backdoor in OpenSea Shared Storefront | https://github.com/fulldecent/opensea-shared-storefront-backdoor | 18 | 0| 
 | 20221108T00:45:55Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/padsalatushal/CVE-2011-2523 | 5 | 1| 
-| 20221107T23:36:52Z | Demonstration of a backdoor in OpenSea Shared Storefront | https://github.com/fulldecent/opensea-shared-storefront-backdoor | 17 | 0| 
 | 20221107T16:45:31Z | [Keylogger && Shell Backdoor] Educational trojan horse.  | https://github.com/SaltyMilk/SH13LD | 3 | 0| 
 | 20221107T15:31:11Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 8 | 1| 
 | 20221107T13:16:38Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 3 | 0| 
