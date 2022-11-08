@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221108T01:13:06Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221108T01:39:40Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221108T00:31:16Z | This git will analyze software vulnerabilities such as “buffer overflow” and prevent their exploitation. | https://github.com/KonstantinTsibilskas/Buffer-overflow | 0 | 0| 
 | 20221108T00:28:42Z | Larapler Random Exploit | https://github.com/im-hanzou/larapler | 0 | 1| 
 | 20221108T00:18:16Z | Null | https://github.com/MeowbahLover/RobloxExploit | 0 | 0| 
