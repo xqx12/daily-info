@@ -33,7 +33,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221107T23:50:21Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
 | 20221107T23:37:21Z | CVE-2022-2586 | gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread | https://github.com/sniper404ghostxploit/CVE-2022-2586 | | 
 | 20221107T18:29:08Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
 | 20221107T08:49:20Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
@@ -43,6 +42,7 @@
 | 20221107T01:04:55Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC | | 
 | 20221107T01:04:45Z | CVE-2022-35914 | Unauthenticated RCE in GLPI 10.0.2 | https://github.com/Gabriel-Lima232/CVE-2022-35914 | | 
 | 20221107T00:50:54Z | CVE-2022-36067 | This repo contains payload for the CVE-2022-36067 | https://github.com/Prathamrajgor/Exploit-For-CVE-2022-36067 | | 
+| 20221107T00:50:51Z | cve-2022-42889 | Script to handle CVE 2022-42889 | https://github.com/QAInsights/cve-2022-42889-jmeter | | 
 
 
 # klee on Github 推荐
