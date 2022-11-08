@@ -85,7 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221108T13:14:00Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221108T13:32:26Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 93 | 7| 
+| 20221108T13:32:16Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221108T12:49:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4650 | 686| 
 | 20221108T12:46:51Z | Android hacking with Image | https://github.com/pro-rat/IMAGE-RAT | 1 | 0| 
 | 20221108T12:31:31Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 2 | 0| 
@@ -94,7 +95,6 @@
 | 20221108T11:45:24Z | Simple and standalone exploit execution toolkit | https://github.com/lavish/flappy | 0 | 0| 
 | 20221108T11:42:54Z | Old exploit, patched in most servers, still may work on some. Adds the ability to choose NPC and weapon to spawn. Based on SynchronCity. | https://github.com/alejandrocs3719/drvrej-spawner-exploit | 0 | 0| 
 | 20221108T09:04:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 544 | 144| 
-| 20221108T06:38:12Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 36 | 23| 
 
 
 # backdoor on Github 推荐
