@@ -33,16 +33,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221107T12:35:23Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
+| 20221107T23:50:21Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
+| 20221107T23:37:21Z | CVE-2022-2586 | gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread | https://github.com/sniper404ghostxploit/CVE-2022-2586 | | 
+| 20221107T18:29:08Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
 | 20221107T08:53:22Z | CVE-2022-3602 | Null | https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786 | | 
 | 20221107T08:49:20Z | CVE-2022-43144 | PoC to exploit CVE-2022-43144 | https://github.com/mudassiruddin/CVE-2022-43144-Stored-XSS | | 
 | 20221107T07:39:20Z | CVE-2022-42889 | Null | https://github.com/adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889 | | 
 | 20221107T01:05:03Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/g01f/CVE-2022-3236-POC | | 
 | 20221107T01:04:59Z | CVE-2021-29447 | Proof of Concept for CVE-2021-29447 written in Python | https://github.com/Val-Resh/CVE-2021-29447-POC | | 
 | 20221107T01:04:55Z | CVE-2022-32548 | DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field | https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC | | 
-| 20221107T01:04:49Z | CVE-2022-2586 | gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread | https://github.com/sniper404ghostxploit/CVE-2022-2586 | | 
 | 20221107T01:04:45Z | CVE-2022-35914 | Unauthenticated RCE in GLPI 10.0.2 | https://github.com/Gabriel-Lima232/CVE-2022-35914 | | 
-| 20221107T00:50:54Z | CVE-2022-36067 | This repo contains payload for the CVE-2022-36067 | https://github.com/Prathamrajgor/Exploit-For-CVE-2022-36067 | | 
 
 
 # klee on Github 推荐
@@ -77,11 +77,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T23:36:52Z | Demonstration of a backdoor in OpenSea Shared Storefront | https://github.com/fulldecent/opensea-shared-storefront-backdoor | 17 | 0| 
+| 20221107T16:45:31Z | [Keylogger && Shell Backdoor] Educational trojan horse.  | https://github.com/SaltyMilk/SH13LD | 3 | 0| 
+| 20221107T15:31:11Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 8 | 1| 
 | 20221107T13:16:38Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 3 | 0| 
 | 20221107T12:51:26Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 85 | 11| 
-| 20221107T10:26:14Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/padsalatushal/CVE-2011-2523 | 4 | 0| 
 | 20221107T10:16:21Z | Archive Shell Backdoor Build Using React | https://github.com/DK77-sys/Shell-Backdoor-Archive | 0 | 0| 
-| 20221107T08:51:11Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 6 | 0| 
 | 20221107T03:12:56Z | Project Description for FudanTML | https://github.com/FudanTML/Backdoor-Detection-and-Robust-Training | 0 | 0| 
 | 20221107T02:11:46Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7289 | 1755| 
 
@@ -105,6 +106,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221107T20:00:46Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 99 | 2| 
+| 20221107T14:55:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8037 | 1746| 
 | 20221107T13:18:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42817 | 21376| 
 | 20221107T13:17:04Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
 | 20221107T12:55:00Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 93 | 8| 
@@ -112,9 +115,7 @@
 | 20221107T11:11:29Z | This repo explores Google OSS-Fuzz | https://github.com/aduquet/FuzzingExp-GoogleOSS-Fuzz | 0 | 0| 
 | 20221107T10:48:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4425 | 1071| 
 | 20221107T10:37:57Z | Null | https://github.com/rivkabuskila/fuzzing-detector | 0 | 0| 
-| 20221107T09:44:45Z | My first repo | https://github.com/xjkg/fuzzy-happiness | 0 | 0| 
-| 20221107T09:17:52Z | Null | https://github.com/rcoedo/fuzzy-fish | 0 | 0| 
-| 20221107T08:33:30Z | Null | https://github.com/taovcu/dpuFuzzing | 0 | 0| 
+| 20221107T10:03:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4862 | 500| 
 
 
 
