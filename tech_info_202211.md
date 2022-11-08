@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T02:42:50Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/hanaui-git/ZeroDiscord | 93 | 33| 
 | 20221108T02:23:00Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221108T01:52:00Z | ToldeHub is revolutionary in exploiting with soon to come big games and hopefully a great fanbase | https://github.com/ToldeHub/ToldeHub | 0 | 0| 
 | 20221108T01:40:58Z | Null | https://github.com/dcschwalm/C--assisted-exploitation | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20221108T00:10:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN6 | 1 | 0| 
 | 20221108T00:09:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN5 | 1 | 0| 
 | 20221108T00:08:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN5 | 1 | 0| 
-| 20221108T00:06:42Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 138 | 29| 
 
 
 # backdoor on Github 推荐
