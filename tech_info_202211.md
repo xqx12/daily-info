@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T02:58:43Z | All my favorite Roblox exploits | https://github.com/blurryfxcedride/roblox-exploits | 0 | 0| 
+| 20221108T02:53:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4627 | 683| 
 | 20221108T02:42:50Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/hanaui-git/ZeroDiscord | 93 | 33| 
 | 20221108T02:23:00Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221108T01:52:00Z | ToldeHub is revolutionary in exploiting with soon to come big games and hopefully a great fanbase | https://github.com/ToldeHub/ToldeHub | 0 | 0| 
@@ -93,14 +95,12 @@
 | 20221108T00:28:42Z | Larapler Random Exploit | https://github.com/im-hanzou/larapler | 0 | 1| 
 | 20221108T00:18:16Z | Null | https://github.com/MeowbahLover/RobloxExploit | 0 | 0| 
 | 20221108T00:10:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN6 | 1 | 0| 
-| 20221108T00:09:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN5 | 1 | 0| 
-| 20221108T00:08:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN5 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221108T01:52:19Z | Demonstration of a backdoor in OpenSea Shared Storefront | https://github.com/fulldecent/opensea-shared-storefront-backdoor | 18 | 0| 
+| 20221108T01:52:19Z | Demonstration of a backdoor in OpenSea Shared Storefront | https://github.com/fulldecent/opensea-shared-storefront-backdoor | 18 | 1| 
 | 20221108T00:45:55Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/padsalatushal/CVE-2011-2523 | 5 | 1| 
 | 20221107T16:45:31Z | [Keylogger && Shell Backdoor] Educational trojan horse.  | https://github.com/SaltyMilk/SH13LD | 3 | 0| 
 | 20221107T15:31:11Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 8 | 1| 
