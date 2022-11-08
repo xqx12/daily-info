@@ -140,6 +140,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T01:11:37Z | An XSS fuzzer for Django | https://github.com/tonybaloney/django-xss-fuzzer | 33 | 4| 
 | 20221108T01:04:02Z | Null | https://github.com/jmckinny/fuzzy | 0 | 0| 
 | 20221108T00:38:44Z | Null | https://github.com/wandachu/fuzzy-octo-pancake | 0 | 0| 
 | 20221108T00:21:33Z | Null | https://github.com/JaxonAdams/fuzzy-spoon | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20221107T13:18:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42817 | 21376| 
 | 20221107T13:17:04Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
 | 20221107T12:55:00Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 93 | 8| 
-| 20221107T12:12:41Z | EthFuzzer is a fuzzing tool for Ethereum%s smart contract. | https://github.com/kishow01/ethFuzzer | 1 | 0| 
 
 
 
