@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221108 | 卡巴斯基发布 2022 Q3 季度 DDoS 攻击分析报告 | https://securelist.com/ddos-report-q3-2022/107860/| 
+| 20221108 | VAST - 基于 MLIR 框架，为 C/C++ 语言实现的前端程序分析工具 | https://github.com/trailofbits/vast| 
+| 20221108 | Weaponizing Windows Syscalls as Modern 32-bit Shellcode，来自 DEF CON 30 会议，不依赖 Win32 API，以纯 SYSCALL 的方式，在 64 位 Windows 上运行 32 位的 Shellcode | http://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Tarek%20Abdelmotaleb%20%20%20Dr.%20Bramwell%20Brizendine%20-%20Weaponizing%20Windows%20Syscalls%20as%20Modern%2032-bit%20Shellcode.pdf| 
+| 20221108 | SpyGuard - 增强版的 TinyCheck，通过网络流量检测主机是否已经被攻陷 | https://github.com/SpyGuard/SpyGuard| 
+| 20221108 | 复现近期的 Apache Commons JXPath 远程代码执行(CVE-2022-41852)漏洞 | https://xz.aliyun.com/t/11813| 
+| 20221108 | Snaffler - 渗透测试项目中帮助探测 Windows/AD 环境的工具 | https://github.com/SnaffCon/Snaffler| 
+| 20221108 | 有攻击者利用 Python 包的 typosquat 问题攻击开发者，替换开发者剪切板中的加密货币钱包地址 | https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard| 
+| 20221108 | Chromium 浏览器项目利用 BRP-ASan 从 ASan 爆出的 UAF 漏洞中识别条件竞争问题 | https://chromium-review.googlesource.com/c/chromium/src/+/3934091| 
+| 20221108 | 利用 Acronis 备份保护软件的路径穿越+Open Redirect 漏洞窃取用户隐私 | https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html| 
+| 20221108 | ManageEngine ADAudit Plus 任意文件写漏洞的分析和利用（CVE-2021–42847） | https://sec.today/pulses/b66fe8c9-3c78-4a5b-bc8d-ab925a06f80d/| 
 | 20221107 | SocialFish - 一款开源的钓鱼和信息收集工具 | https://github.com/UndeadSec/SocialFish| 
 | 20221107 | pGALA 关于被攻击事件的声明 | https://medium.com/pnetwork/pgala-post-mortem-measures-taken-to-safeguard-the-ecosystem-from-malicious-actors-and-recovery-6407048f4497| 
 | 20221107 | 在 OpCode 层面，尤其是 Call OpCode，对抗 .NET Decompiler 的分析 | http://washi.dev/blog/posts/confusing-decompilers-with-call/| 
@@ -16,16 +26,6 @@
 | 20221107 | drgn - 支持通过 Python 实现脚本化扩展的调试器 | https://github.com/osandov/drgn| 
 | 20221107 | Project Zero 对三星设备被发现的一套野外利用链的分析，该利用链利用 Clipboard Provider 及内核、驱动组件的漏洞实现完整利用，涉及漏洞去年已被修复 | https://googleprojectzero.blogspot.com/2022/11/a-very-powerful-clipboard-samsung-in-the-wild-exploit-chain.html| 
 | 20221107 | HRDevHelper - 一款用于可视化查看 IDA Hex-Rays 反汇编代码的 AST ctree 的插件 | https://sec.today/pulses/752d4f84-9267-4f6d-8f05-cd758719f600/| 
-| 20221107 | HRDevHelper - 一款用于可视化查看 IDA Hex-Rays 反汇编代码的 AST ctree 的插件 | http://hex-rays.com/blog/plugin-focus-hrdevhelper/| 
-| 20221104 | Dropbox 被黑，攻击者利用被黑员工的密钥信息窃取了 Dropbox 存储在 GitHub 的大量源码 | https://cybersecuritynews.com/dropbox-hacked/| 
-| 20221104 | 以其他已连接 USB 设备的身份注入击键指令，来自 USENIX 会议的 Paper：The Impostor Among US(B): Off-Path Injection Attacks on USB Communications | https://github.com/0xADE1A1DE/USB-Injection| 
-| 20221104 | Sec-consult 对互联网的 DNS 解析服务分析发现，大量存在 Kaminsky DNS 缓存污染攻击的风险 | http://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/| 
-| 20221104 | 某款刷机工具 Unlock 实现机制的研究 | https://o0xmuhe.github.io/2022/11/01/Qual-Android%E6%96%B9%E6%A1%88Unlock%E5%AD%A6%E4%B9%A0-%E4%BB%A5Oneplus7Pro%E4%B8%BA%E4%BE%8B/| 
-| 20221104 | 卡巴斯基对云环境实际攻击样本及相关攻击手法的总结分析 | https://securelist.com/server-side-attacks-cc-in-public-clouds-mdr-cases/107826/?reseller=gb_securelist-uk_acq_ona_smm__all_b2c_some_sma_______&utm_source=twitter&utm_medium=social&utm_campaign=uk_kdaily_db0077&utm_content=sm-post&utm_term=uk_twitter_organic_rhhb771knwrzhoo| 
-| 20221104 | NSA 发布 Ghidra 10.2 版本，Debugger、Decompiler 等组件均有更新 | http://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.2_build| 
-| 20221104 | Git 修复了一个本地仓库 clone 过程中的符号链接 Following 问题，可以泄露用户敏感信息 | https://github.com/git/git/security/advisories/GHSA-3wp6-j8xr-qw85| 
-| 20221104 | 这篇文章分析为什么这两天爆出的 OpenSSL punycode 漏洞没有提前被 Fuzz 测试发现 | https://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html| 
-| 20221104 | James Forshaw 发现 Windows 认证中使用的 RC4 加密存在缺陷，可以以其他用户的身份认证 | https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html| 
 
 
 # 安全维基 推荐
@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221108T02:41:49Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
-| 20221108T02:25:11Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221108T12:01:54Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221108T11:46:37Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
 | 20221108T02:13:29Z | CVE-2021-43657 | This is a reference/POC for CVE-2021-43657 | https://github.com/c0n5n3d/CVE-2021-43657 | | 
 | 20221108T01:04:34Z | CVE-2022-3602 | Null | https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786 | | 
 | 20221108T00:46:02Z | CVE-2021-29447 | Arbitrary file read controller based on CVE-2021-29447 | https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447 | | 
@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T06:09:50Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
+| 20221108T05:37:22Z | Null | https://github.com/Sanjay-senthil/Demo-Kleen | 0 | 0| 
+| 20221108T05:37:04Z | Null | https://github.com/SandeapViswaprasad/Kleeen_demo_sample | 0 | 0| 
 | 20221107T13:51:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 127 | 1| 
 | 20221107T13:42:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9149 | 310| 
 | 20221105T00:17:22Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 16 | 0| 
 | 20221104T19:44:06Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
 | 20221104T07:38:03Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
-| 20221103T08:30:51Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
 | 20221102T12:42:12Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 51| 
 | 20221102T10:12:23Z | Null | https://github.com/HolgerGottChristensen/klee-exercises | 0 | 0| 
-| 20221102T07:24:07Z | Null | https://github.com/Sanjaysenthilme/Sample-Kleeen-software | 0 | 0| 
-| 20221101T07:52:22Z | Klee%s Notes! 🍀 , t.me/GIDataBot | https://github.com/shardeex/GIDataBot | 3 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221108T02:58:43Z | All my favorite Roblox exploits | https://github.com/blurryfxcedride/roblox-exploits | 0 | 0| 
-| 20221108T02:53:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4627 | 683| 
-| 20221108T02:42:50Z | A collection of Discord hacks, exploits & tools that is completely made using NodeJS. | https://github.com/hanaui-git/ZeroDiscord | 93 | 33| 
-| 20221108T02:23:00Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
-| 20221108T01:52:00Z | ToldeHub is revolutionary in exploiting with soon to come big games and hopefully a great fanbase | https://github.com/ToldeHub/ToldeHub | 0 | 0| 
-| 20221108T01:40:58Z | Null | https://github.com/dcschwalm/C--assisted-exploitation | 0 | 0| 
-| 20221108T00:31:16Z | This git will analyze software vulnerabilities such as “buffer overflow” and prevent their exploitation. | https://github.com/KonstantinTsibilskas/Buffer-overflow | 0 | 0| 
-| 20221108T00:28:42Z | Larapler Random Exploit | https://github.com/im-hanzou/larapler | 0 | 1| 
-| 20221108T00:18:16Z | Null | https://github.com/MeowbahLover/RobloxExploit | 0 | 0| 
-| 20221108T00:10:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN6 | 1 | 0| 
+| 20221108T12:49:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4650 | 686| 
+| 20221108T12:46:51Z | Android hacking with Image | https://github.com/pro-rat/IMAGE-RAT | 1 | 0| 
+| 20221108T12:31:31Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 2 | 0| 
+| 20221108T12:19:28Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 542 | 33| 
+| 20221108T12:13:25Z | A WIP exploit manager with python | https://github.com/PunchCakee/AlphaApe | 0 | 0| 
+| 20221108T12:01:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221108T11:45:24Z | Simple and standalone exploit execution toolkit | https://github.com/lavish/flappy | 0 | 0| 
+| 20221108T11:42:54Z | Old exploit, patched in most servers, still may work on some. Adds the ability to choose NPC and weapon to spawn. Based on SynchronCity. | https://github.com/alejandrocs3719/drvrej-spawner-exploit | 0 | 0| 
+| 20221108T09:04:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 544 | 144| 
+| 20221108T06:38:12Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 36 | 23| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T10:27:54Z | Pytorch Implementation from this paper: https://arxiv.org/pdf/2206.07840.pdf | https://github.com/QuangNguyen2609/ARCHITECTURAL-BACKDOORS-IN-NEURAL-NETWORKS | 1 | 0| 
+| 20221108T08:32:59Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 48 | 8| 
+| 20221108T06:53:12Z | Null | https://github.com/backdoordetectors/backdoordetectors.github.io | 0 | 0| 
+| 20221108T06:15:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 9 | 0| 
+| 20221108T06:08:09Z | Null | https://github.com/zszfympxdebug/backdoor | 0 | 0| 
+| 20221108T05:15:34Z | Project Description for FudanTML | https://github.com/FudanTML/Robust-Training-on-Backdoored-Data | 0 | 0| 
+| 20221108T04:46:01Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 9 | 1| 
+| 20221108T03:44:39Z | Null | https://github.com/Nosax69/Windows-Backdoor-Using-Python | 0 | 0| 
+| 20221108T03:27:17Z | Backdoors written in various languages. | https://github.com/RosePwns/Backdoors | 0 | 0| 
 | 20221108T01:52:19Z | Demonstration of a backdoor in OpenSea Shared Storefront | https://github.com/fulldecent/opensea-shared-storefront-backdoor | 18 | 1| 
-| 20221108T00:45:55Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution | https://github.com/padsalatushal/CVE-2011-2523 | 5 | 1| 
-| 20221107T16:45:31Z | [Keylogger && Shell Backdoor] Educational trojan horse.  | https://github.com/SaltyMilk/SH13LD | 3 | 0| 
-| 20221107T15:31:11Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 8 | 1| 
-| 20221107T13:16:38Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 3 | 0| 
-| 20221107T12:51:26Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 85 | 11| 
-| 20221107T10:16:21Z | Archive Shell Backdoor Build Using React | https://github.com/DK77-sys/Shell-Backdoor-Archive | 0 | 0| 
-| 20221107T03:12:56Z | Project Description for FudanTML | https://github.com/FudanTML/Backdoor-Detection-and-Robust-Training | 0 | 0| 
-| 20221107T02:11:46Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7289 | 1755| 
-| 20221106T23:16:54Z | Null | https://github.com/TakenoSite/Linux-BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,8 +130,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T11:45:41Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 2 | 0| 
+| 20221108T11:23:08Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 69 | 36| 
 | 20221107T09:35:54Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 6 | 1| 
-| 20221107T09:05:21Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 68 | 36| 
 | 20221105T02:39:57Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 17 | 2| 
 | 20221103T19:57:01Z | Home of the 2023 NDSS Workshop on Binary Analysis Research | https://github.com/bar2023/bar2023.github.io | 0 | 0| 
 | 20221103T02:39:50Z | Null | https://github.com/sgwguagua/ndss | 0 | 0| 
@@ -140,16 +141,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T13:01:14Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
+| 20221108T12:36:41Z | A fuzzy string comparison library for Elixir | https://github.com/patrickdet/fuzzy_compare | 14 | 1| 
+| 20221108T11:36:31Z | Null | https://github.com/kdenny25/fuzzy_logic | 0 | 0| 
+| 20221108T11:08:22Z | Lets you set up Java Out Of Process Fuzzing on your CI Fuzz server, without using the local installation first | https://github.com/ci-fuzz/web-app-fuzzing-template-project | 1 | 1| 
+| 20221108T09:48:07Z | Null | https://github.com/nsutnghiadoan/fuzzy-fe | 1 | 0| 
+| 20221108T09:27:17Z | Electric Motor Fault Detection and Classificatoin | https://github.com/AugustUnderground/fuzzy-yeti-balls | 0 | 0| 
+| 20221108T09:17:00Z | directed fuzzing for linux kenerel | https://github.com/zjuchenyuan/gfuzz_linux | 0 | 0| 
+| 20221108T03:11:29Z | Null | https://github.com/adechanP/Tugas6_DSKE_Fuzzy_Arduino | 0 | 0| 
 | 20221108T02:54:14Z | a php fuzzer class for security research | https://github.com/ShangRui-hash/Fuzzer | 0 | 0| 
 | 20221108T02:38:40Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 282 | 36| 
-| 20221108T02:07:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4863 | 500| 
-| 20221108T02:07:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1746| 
-| 20221108T02:07:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4426 | 1071| 
-| 20221108T01:11:37Z | An XSS fuzzer for Django | https://github.com/tonybaloney/django-xss-fuzzer | 33 | 4| 
-| 20221108T01:04:02Z | Null | https://github.com/jmckinny/fuzzy | 0 | 0| 
-| 20221108T00:38:44Z | Null | https://github.com/wandachu/fuzzy-octo-pancake | 0 | 0| 
-| 20221108T00:21:33Z | Null | https://github.com/JaxonAdams/fuzzy-spoon | 0 | 0| 
-| 20221108T00:10:12Z | Null | https://github.com/mirladerina/fuzzy-spoon | 0 | 0| 
 
 
 
