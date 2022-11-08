@@ -79,6 +79,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T11:13:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3190 | 452| 
 | 20221108T02:37:16Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 590 | 105| 
 
 
