@@ -140,16 +140,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T02:07:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4863 | 500| 
+| 20221108T02:07:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1746| 
+| 20221108T02:07:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4426 | 1071| 
 | 20221108T01:11:37Z | An XSS fuzzer for Django | https://github.com/tonybaloney/django-xss-fuzzer | 33 | 4| 
 | 20221108T01:04:02Z | Null | https://github.com/jmckinny/fuzzy | 0 | 0| 
 | 20221108T00:38:44Z | Null | https://github.com/wandachu/fuzzy-octo-pancake | 0 | 0| 
 | 20221108T00:21:33Z | Null | https://github.com/JaxonAdams/fuzzy-spoon | 0 | 0| 
 | 20221108T00:10:12Z | Null | https://github.com/mirladerina/fuzzy-spoon | 0 | 0| 
 | 20221107T20:00:46Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 99 | 2| 
-| 20221107T14:55:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8037 | 1746| 
 | 20221107T13:18:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42817 | 21376| 
-| 20221107T13:17:04Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
-| 20221107T12:55:00Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 93 | 8| 
 
 
 
