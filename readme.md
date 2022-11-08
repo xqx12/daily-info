@@ -16,6 +16,7 @@
 | 20221108 | Chromium 浏览器项目利用 BRP-ASan 从 ASan 爆出的 UAF 漏洞中识别条件竞争问题 | https://chromium-review.googlesource.com/c/chromium/src/+/3934091| 
 | 20221108 | 利用 Acronis 备份保护软件的路径穿越+Open Redirect 漏洞窃取用户隐私 | https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html| 
 | 20221108 | ManageEngine ADAudit Plus 任意文件写漏洞的分析和利用（CVE-2021–42847） | https://sec.today/pulses/b66fe8c9-3c78-4a5b-bc8d-ab925a06f80d/| 
+| 20221108 | ManageEngine ADAudit Plus 任意文件写漏洞的分析和利用（CVE-2021–42847） | https://medium.com/@erik.wynter/pwning-manageengine-from-endpoint-to-exploit-bc5793836fd| 
 
 
 # 安全维基 推荐

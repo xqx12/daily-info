@@ -16,6 +16,7 @@
 | 20221108 | Chromium 浏览器项目利用 BRP-ASan 从 ASan 爆出的 UAF 漏洞中识别条件竞争问题 | https://chromium-review.googlesource.com/c/chromium/src/+/3934091| 
 | 20221108 | 利用 Acronis 备份保护软件的路径穿越+Open Redirect 漏洞窃取用户隐私 | https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html| 
 | 20221108 | ManageEngine ADAudit Plus 任意文件写漏洞的分析和利用（CVE-2021–42847） | https://sec.today/pulses/b66fe8c9-3c78-4a5b-bc8d-ab925a06f80d/| 
+| 20221108 | ManageEngine ADAudit Plus 任意文件写漏洞的分析和利用（CVE-2021–42847） | https://medium.com/@erik.wynter/pwning-manageengine-from-endpoint-to-exploit-bc5793836fd| 
 | 20221107 | SocialFish - 一款开源的钓鱼和信息收集工具 | https://github.com/UndeadSec/SocialFish| 
 | 20221107 | pGALA 关于被攻击事件的声明 | https://medium.com/pnetwork/pgala-post-mortem-measures-taken-to-safeguard-the-ecosystem-from-malicious-actors-and-recovery-6407048f4497| 
 | 20221107 | 在 OpCode 层面，尤其是 Call OpCode，对抗 .NET Decompiler 的分析 | http://washi.dev/blog/posts/confusing-decompilers-with-call/| 
@@ -25,7 +26,6 @@
 | 20221107 | Kunlun Lab 研究员 brightiup 在 Mosec 会议关于 Mach IPC 议题演讲的 PPT | https://github.com/brightiup/Trekking/blob/main/Slides/MOSEC22-BGT.pdf| 
 | 20221107 | drgn - 支持通过 Python 实现脚本化扩展的调试器 | https://github.com/osandov/drgn| 
 | 20221107 | Project Zero 对三星设备被发现的一套野外利用链的分析，该利用链利用 Clipboard Provider 及内核、驱动组件的漏洞实现完整利用，涉及漏洞去年已被修复 | https://googleprojectzero.blogspot.com/2022/11/a-very-powerful-clipboard-samsung-in-the-wild-exploit-chain.html| 
-| 20221107 | HRDevHelper - 一款用于可视化查看 IDA Hex-Rays 反汇编代码的 AST ctree 的插件 | https://sec.today/pulses/752d4f84-9267-4f6d-8f05-cd758719f600/| 
 
 
 # 安全维基 推荐
