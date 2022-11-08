@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221108T13:47:00Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20221108T13:58:47Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20221108T10:27:54Z | Pytorch Implementation from this paper: https://arxiv.org/pdf/2206.07840.pdf | https://github.com/QuangNguyen2609/ARCHITECTURAL-BACKDOORS-IN-NEURAL-NETWORKS | 1 | 0| 
 | 20221108T08:32:59Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 48 | 8| 
 | 20221108T06:53:12Z | Null | https://github.com/backdoordetectors/backdoordetectors.github.io | 0 | 0| 
@@ -149,8 +149,8 @@
 | 20221108T09:48:07Z | Null | https://github.com/nsutnghiadoan/fuzzy-fe | 1 | 0| 
 | 20221108T09:27:17Z | Electric Motor Fault Detection and Classificatoin | https://github.com/AugustUnderground/fuzzy-yeti-balls | 0 | 0| 
 | 20221108T09:17:00Z | directed fuzzing for linux kenerel | https://github.com/zjuchenyuan/gfuzz_linux | 0 | 0| 
+| 20221108T03:43:14Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 398 | 70| 
 | 20221108T03:11:29Z | Null | https://github.com/adechanP/Tugas6_DSKE_Fuzzy_Arduino | 0 | 0| 
-| 20221108T02:54:14Z | a php fuzzer class for security research | https://github.com/ShangRui-hash/Fuzzer | 0 | 0| 
 
 
 
