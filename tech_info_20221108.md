@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T13:42:24Z | Null | https://github.com/hioensis/fuzzy-doodle | 0 | 0| 
 | 20221108T13:15:12Z | A fuzzy string comparison library for Elixir | https://github.com/patrickdet/fuzzy_compare | 15 | 1| 
 | 20221108T13:01:14Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
 | 20221108T11:36:31Z | Null | https://github.com/kdenny25/fuzzy_logic | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20221108T09:17:00Z | directed fuzzing for linux kenerel | https://github.com/zjuchenyuan/gfuzz_linux | 0 | 0| 
 | 20221108T03:11:29Z | Null | https://github.com/adechanP/Tugas6_DSKE_Fuzzy_Arduino | 0 | 0| 
 | 20221108T02:54:14Z | a php fuzzer class for security research | https://github.com/ShangRui-hash/Fuzzer | 0 | 0| 
-| 20221108T02:38:40Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 282 | 36| 
 
 
 
