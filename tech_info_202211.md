@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T01:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1747| 
 | 20221109T01:45:02Z | A fuzzy approach to evaluate image segmentation based on image complexity | https://github.com/luismadhe/Fuzzy-evaluation_image-segmentation | 0 | 0| 
 | 20221109T01:22:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4429 | 1072| 
 | 20221109T01:07:41Z | Null | https://github.com/Goliver10/fuzzy-octo-palm-tree | 0 | 0| 
@@ -149,7 +150,6 @@
 | 20221108T23:47:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42856 | 21388| 
 | 20221108T23:27:36Z | Fuzz Face Guitar Pedal Project Repository. All relevant information for the fuzz face pedal will be held here. | https://github.com/Lakehead-Georgian-Electronics-Club/Fuzz-Face-Guitar-Pedal | 0 | 1| 
 | 20221108T23:17:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2617 | 177| 
-| 20221108T23:16:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8037 | 1747| 
 | 20221108T22:44:56Z | Null | https://github.com/TiagoMPereira/controlador_fuzzy | 0 | 0| 
 
 

@@ -102,12 +102,12 @@
 | 20221108T23:47:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42856 | 21388| 
 | 20221108T23:27:36Z | Fuzz Face Guitar Pedal Project Repository. All relevant information for the fuzz face pedal will be held here. | https://github.com/Lakehead-Georgian-Electronics-Club/Fuzz-Face-Guitar-Pedal | 0 | 1| 
 | 20221108T23:17:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2617 | 177| 
-| 20221108T23:16:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8037 | 1747| 
 | 20221108T22:44:56Z | Null | https://github.com/TiagoMPereira/controlador_fuzzy | 0 | 0| 
 | 20221108T16:08:50Z | A simple mail transfer (username) Fuzzer. Allows for external wordlists. Written in python | https://github.com/e-war/SMTFuzz | 0 | 0| 
 | 20221108T13:42:24Z | Null | https://github.com/hioensis/fuzzy-doodle | 0 | 0| 
 | 20221108T13:15:12Z | A fuzzy string comparison library for Elixir | https://github.com/patrickdet/fuzzy_compare | 15 | 1| 
 | 20221108T13:01:14Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
+| 20221108T11:36:31Z | Null | https://github.com/kdenny25/fuzzy_logic | 0 | 0| 
 
 
 
