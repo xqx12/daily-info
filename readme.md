@@ -78,9 +78,9 @@
 | 20221108T16:10:13Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 2 | 3| 
 | 20221108T13:58:47Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20221108T10:27:54Z | Pytorch Implementation from this paper: https://arxiv.org/pdf/2206.07840.pdf | https://github.com/QuangNguyen2609/ARCHITECTURAL-BACKDOORS-IN-NEURAL-NETWORKS | 1 | 0| 
-| 20221108T08:32:59Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 48 | 8| 
 | 20221108T06:53:12Z | Null | https://github.com/backdoordetectors/backdoordetectors.github.io | 0 | 0| 
 | 20221108T06:15:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 9 | 0| 
+| 20221108T06:08:09Z | Null | https://github.com/zszfympxdebug/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T01:03:33Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 49 | 8| 
 | 20221109T00:38:12Z | A backdoor for Windows 11/10 | https://github.com/RosePwns/AVEvasionandBackdoor | 1 | 0| 
 | 20221109T00:37:39Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7293 | 1755| 
 | 20221108T23:36:05Z | The best backdoor scanner there is. | https://github.com/k4scripts/backdoor.exe | 27 | 19| 
@@ -109,7 +110,6 @@
 | 20221108T16:10:13Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 2 | 3| 
 | 20221108T13:58:47Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20221108T10:27:54Z | Pytorch Implementation from this paper: https://arxiv.org/pdf/2206.07840.pdf | https://github.com/QuangNguyen2609/ARCHITECTURAL-BACKDOORS-IN-NEURAL-NETWORKS | 1 | 0| 
-| 20221108T08:32:59Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 48 | 8| 
 
 
 # symbolic execution on Github 推荐
