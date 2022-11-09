@@ -61,8 +61,8 @@
 | 20221108T21:24:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-select-exploit | 0 | 0| 
 | 20221108T21:10:35Z | Post-Exploitation script to exfiltrate 7-zip files | https://github.com/aqeisi/7-ZipPostExp | 12 | 7| 
 | 20221108T21:02:02Z | Sonar Antibot - Experimental anti bot plugin for Minecraft BungeeCord servers (1.7-1.19) - Blocking netty exploits and more... | https://github.com/jonesdevelopment/sonar | 3 | 2| 
+| 20221108T16:25:56Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 826 | 128| 
 | 20221108T13:32:26Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 93 | 7| 
-| 20221108T12:49:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4650 | 686| 
 
 
 # backdoor on Github 推荐
