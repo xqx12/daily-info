@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221109T02:23:00Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
+| 20221109T02:31:46Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221109T02:03:07Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 831 | 129| 
 | 20221109T01:37:33Z | Exploiting temporal redundancies of multi-coil cine cardiac data for MRI reconstruction with unrolled cross-domain networks.  | https://github.com/f78bono/deep-cine-cardiac-mri | 0 | 0| 
 | 20221109T01:19:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-borrow | 0 | 0| 
@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221109T01:59:55Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1117 | 138| 
+| 20221109T02:31:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1118 | 138| 
 | 20221109T01:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1748| 
 | 20221109T01:45:02Z | A fuzzy approach to evaluate image segmentation based on image complexity | https://github.com/luismadhe/Fuzzy-evaluation_image-segmentation | 0 | 0| 
 | 20221109T01:22:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4429 | 1072| 
