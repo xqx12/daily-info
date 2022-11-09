@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221109T01:45:25Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 830 | 129| 
+| 20221109T02:03:07Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 831 | 129| 
 | 20221109T01:37:33Z | Exploiting temporal redundancies of multi-coil cine cardiac data for MRI reconstruction with unrolled cross-domain networks.  | https://github.com/f78bono/deep-cine-cardiac-mri | 0 | 0| 
 | 20221109T01:19:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-borrow | 0 | 0| 
 | 20221109T01:01:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
