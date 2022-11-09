@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T02:34:17Z | Vulnerability Research | https://github.com/a-rey/exploits | 0 | 0| 
 | 20221109T02:31:46Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221109T02:03:07Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 831 | 129| 
 | 20221109T01:37:33Z | Exploiting temporal redundancies of multi-coil cine cardiac data for MRI reconstruction with unrolled cross-domain networks.  | https://github.com/f78bono/deep-cine-cardiac-mri | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20221108T22:38:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANl | 1 | 0| 
 | 20221108T22:36:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANl | 1 | 0| 
 | 20221108T22:34:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANs | 1 | 0| 
-| 20221108T21:24:55Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-pnepz-exploit-change | 0 | 0| 
 
 
 # backdoor on Github 推荐
