@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T01:19:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-borrow | 0 | 0| 
 | 20221109T01:01:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221109T01:00:42Z | Exploiting temporal redundancies of unrolled cross-domain networks in multi-coil cine MRI reconstruction. | https://github.com/f78bono/deep-cine-cardiac-mri | 0 | 0| 
 | 20221109T00:18:24Z | Customer reviews are comments given to a  company based on a customer%s experience  with the organization. By obtaining and  analyzing customer reviews, companies can  measure customer satisfaction, identify  recurring customer issues, determine areas for  improvement in existing strategies, and even  discover new trends that can be exploited. | https://github.com/Jbenhur8901/webscrapping | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20221108T22:34:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANs | 1 | 0| 
 | 20221108T21:24:55Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-pnepz-exploit-change | 0 | 0| 
 | 20221108T21:24:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-select-exploit | 0 | 0| 
-| 20221108T21:10:35Z | Post-Exploitation script to exfiltrate 7-zip files | https://github.com/aqeisi/7-ZipPostExp | 12 | 7| 
 
 
 # backdoor on Github 推荐
