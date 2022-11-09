@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221109T01:38:03Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 829 | 129| 
+| 20221109T01:45:25Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 830 | 129| 
 | 20221109T01:37:33Z | Exploiting temporal redundancies of multi-coil cine cardiac data for MRI reconstruction with unrolled cross-domain networks.  | https://github.com/f78bono/deep-cine-cardiac-mri | 0 | 0| 
 | 20221109T01:19:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-borrow | 0 | 0| 
 | 20221109T01:01:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
@@ -141,7 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221109T01:23:51Z | A fuzzy approach to evaluate image segmentation based on image complexity | https://github.com/luismadhe/Fuzzy-evaluation_image-segmentation | 0 | 0| 
+| 20221109T01:45:02Z | A fuzzy approach to evaluate image segmentation based on image complexity | https://github.com/luismadhe/Fuzzy-evaluation_image-segmentation | 0 | 0| 
 | 20221109T01:22:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4429 | 1072| 
 | 20221109T01:07:41Z | Null | https://github.com/Goliver10/fuzzy-octo-palm-tree | 0 | 0| 
 | 20221109T00:14:55Z | Null | https://github.com/Mattliketocode/fuzzy-octo-tribble | 0 | 0| 
