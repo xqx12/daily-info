@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221109T13:32:10Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
 | 20221109T13:02:15Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221109T11:40:59Z | CVE-2021-27928 | A Database Server Docker build for CVE-2021-27928 & another project CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker | | 
 | 20221109T11:12:02Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
@@ -55,7 +56,6 @@
 | 20221109T01:09:01Z | CVE-2021-38819 | Null | https://github.com/m4sk0ff/CVE-2021-38819 | | 
 | 20221109T01:08:55Z | CVE-2021-1675 | Null | https://github.com/sai-reddy2021/CVE-2021-1675-LPE | | 
 | 20221109T01:08:48Z | CVE-2022-20138 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138 | | 
-| 20221109T00:45:12Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 
 
 # klee on Github 推荐
