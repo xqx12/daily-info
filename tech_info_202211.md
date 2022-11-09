@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221109T02:01:02Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221109T01:09:01Z | CVE-2021-38819 | Null | https://github.com/m4sk0ff/CVE-2021-38819 | | 
 | 20221109T01:08:55Z | CVE-2021-1675 | Null | https://github.com/sai-reddy2021/CVE-2021-1675-LPE | | 
 | 20221109T01:08:48Z | CVE-2022-20138 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138 | | 
@@ -55,7 +56,6 @@
 | 20221109T00:44:56Z | CVE-2022-22965 | CVE-2022-22965图形化检测工具 | https://github.com/iloveflag/Fast-CVE-2022-22965 | | 
 | 20221108T22:42:48Z | CVE-2022-3602 | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | | 
 | 20221108T17:02:05Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
-| 20221108T16:09:59Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 
 
 # klee on Github 推荐
@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T01:59:55Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1117 | 138| 
 | 20221109T01:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1747| 
 | 20221109T01:45:02Z | A fuzzy approach to evaluate image segmentation based on image complexity | https://github.com/luismadhe/Fuzzy-evaluation_image-segmentation | 0 | 0| 
 | 20221109T01:22:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4429 | 1072| 
@@ -150,7 +151,6 @@
 | 20221108T23:47:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42856 | 21388| 
 | 20221108T23:27:36Z | Fuzz Face Guitar Pedal Project Repository. All relevant information for the fuzz face pedal will be held here. | https://github.com/Lakehead-Georgian-Electronics-Club/Fuzz-Face-Guitar-Pedal | 0 | 1| 
 | 20221108T23:17:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2617 | 177| 
-| 20221108T22:44:56Z | Null | https://github.com/TiagoMPereira/controlador_fuzzy | 0 | 0| 
 
 
 
