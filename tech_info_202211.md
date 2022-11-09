@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T01:07:41Z | Null | https://github.com/Goliver10/fuzzy-octo-palm-tree | 0 | 0| 
 | 20221109T00:14:55Z | Null | https://github.com/Mattliketocode/fuzzy-octo-tribble | 0 | 0| 
 | 20221108T23:48:55Z | Null | https://github.com/Ladamss9/fuzzy-meme | 0 | 0| 
 | 20221108T23:47:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42856 | 21388| 
@@ -150,7 +151,6 @@
 | 20221108T22:44:56Z | Null | https://github.com/TiagoMPereira/controlador_fuzzy | 0 | 0| 
 | 20221108T16:08:50Z | A simple mail transfer (username) Fuzzer. Allows for external wordlists. Written in python | https://github.com/e-war/SMTFuzz | 0 | 0| 
 | 20221108T13:42:24Z | Null | https://github.com/hioensis/fuzzy-doodle | 0 | 0| 
-| 20221108T13:15:12Z | A fuzzy string comparison library for Elixir | https://github.com/patrickdet/fuzzy_compare | 15 | 1| 
 
 
 
