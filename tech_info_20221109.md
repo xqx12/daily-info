@@ -95,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T13:26:05Z | Null | https://github.com/Sam-Rowe/fuzzy-octo-waddle | 0 | 0| 
 | 20221109T13:07:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1755 | 219| 
 | 20221109T12:02:23Z | A simple ISLa-based fuzzer for fuzzing the `ping` utility. | https://github.com/rindPHI/ICMPFuzzer | 0 | 0| 
 | 20221109T11:18:57Z | Null | https://github.com/Jeremias1229/fuzzy | 0 | 0| 
 | 20221109T10:49:41Z | Null | https://github.com/lttn1204/Fuzzing | 0 | 0| 
 | 20221109T10:13:34Z | Null | https://github.com/Souvavs/fuzzy-succotash | 0 | 0| 
+| 20221109T07:37:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4430 | 1072| 
 | 20221109T04:27:35Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 207 | 30| 
 | 20221109T03:00:55Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1524 | 257| 
 | 20221109T02:40:13Z | Fuzzing Guided by Pixel Rank for Deep Neural Networks | https://github.com/1saacYing/RFuzz | 0 | 0| 
-| 20221109T02:31:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1118 | 138| 
-| 20221109T01:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1748| 
 
 
 
