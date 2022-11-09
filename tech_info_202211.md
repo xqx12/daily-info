@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221109T02:09:13Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221109T02:28:31Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221109T01:09:01Z | CVE-2021-38819 | Null | https://github.com/m4sk0ff/CVE-2021-38819 | | 
 | 20221109T01:08:55Z | CVE-2021-1675 | Null | https://github.com/sai-reddy2021/CVE-2021-1675-LPE | | 
 | 20221109T01:08:48Z | CVE-2022-20138 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138 | | 
