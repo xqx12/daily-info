@@ -141,6 +141,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T02:40:13Z | Fuzzing Guided by Pixel Rank for Deep Neural Networks | https://github.com/1saacYing/RFuzz | 0 | 0| 
 | 20221109T02:31:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1118 | 138| 
 | 20221109T01:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1748| 
 | 20221109T01:45:02Z | A fuzzy approach to evaluate image segmentation based on image complexity | https://github.com/luismadhe/Fuzzy-evaluation_image-segmentation | 0 | 0| 
@@ -150,7 +151,6 @@
 | 20221108T23:48:55Z | Null | https://github.com/Ladamss9/fuzzy-meme | 0 | 0| 
 | 20221108T23:47:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42856 | 21388| 
 | 20221108T23:27:36Z | Fuzz Face Guitar Pedal Project Repository. All relevant information for the fuzz face pedal will be held here. | https://github.com/Lakehead-Georgian-Electronics-Club/Fuzz-Face-Guitar-Pedal | 0 | 1| 
-| 20221108T23:17:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2617 | 177| 
 
 
 
