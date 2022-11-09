@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T02:55:09Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-uXBk7-exploit-constitute | 0 | 0| 
 | 20221109T02:34:17Z | Vulnerability Research | https://github.com/a-rey/exploits | 0 | 0| 
 | 20221109T02:31:46Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221109T02:03:07Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 831 | 129| 
@@ -94,7 +95,6 @@
 | 20221108T22:42:48Z | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | 0 | 0| 
 | 20221108T22:38:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANl | 1 | 0| 
 | 20221108T22:36:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANl | 1 | 0| 
-| 20221108T22:34:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANs | 1 | 0| 
 
 
 # backdoor on Github 推荐
