@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221109T13:41:31Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
 | 20221109T13:41:19Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
-| 20221109T13:32:10Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
 | 20221109T13:02:15Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221109T11:40:59Z | CVE-2021-27928 | A Database Server Docker build for CVE-2021-27928 & another project CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker | | 
 | 20221109T11:12:02Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T13:41:35Z | Null | https://github.com/thefewchosen/exploits | 0 | 0| 
 | 20221109T12:31:57Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 422 | 71| 
 | 20221109T12:25:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-dare-exploit | 0 | 0| 
 | 20221109T10:12:08Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-create | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20221109T08:05:36Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation. | https://github.com/volkandindar/agartha | 210 | 43| 
 | 20221109T07:36:17Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 106 | 11| 
 | 20221109T02:55:09Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-uXBk7-exploit-constitute | 0 | 0| 
-| 20221109T02:34:17Z | Vulnerability Research | https://github.com/a-rey/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
