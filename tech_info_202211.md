@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221109T13:46:24Z | CVE-2020-0796 | CVE-2020-0796 | https://github.com/SEHandler/CVE-2020-0796 | | 
 | 20221109T13:41:31Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
 | 20221109T13:41:19Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
 | 20221109T13:02:15Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
@@ -55,7 +56,6 @@
 | 20221109T08:44:14Z | CVE-2022-1162 | A simple tool to enumerate users in gitlab | https://github.com/ipsBruno/CVE-2022-1162 | | 
 | 20221109T08:22:53Z | CVE-2022-3602 | Null | https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786 | | 
 | 20221109T01:09:01Z | CVE-2021-38819 | Null | https://github.com/m4sk0ff/CVE-2021-38819 | | 
-| 20221109T01:08:55Z | CVE-2021-1675 | Null | https://github.com/sai-reddy2021/CVE-2021-1675-LPE | | 
 
 
 # klee on Github 推荐
