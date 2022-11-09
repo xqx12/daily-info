@@ -27,13 +27,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221108T13:52:25Z | CVE-2022-20138 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138 | | 
+| 20221108T22:42:48Z | CVE-2022-3602 | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | | 
+| 20221108T19:45:45Z | CVE-2021-1675 | Null | https://github.com/sai-reddy2021/CVE-2021-1675-LPE | | 
+| 20221108T17:02:05Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
+| 20221108T17:01:41Z | CVE-2021-38819 | Null | https://github.com/m4sk0ff/CVE-2021-38819 | | 
+| 20221108T16:09:59Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
+| 20221108T14:35:17Z | CVE-2022-42889 | CVE-2022-42889 (a.k.a. Text4Shell) RCE Proof of Concept | https://github.com/sunnyvale-it/CVE-2022-42889-PoC | | 
+| 20221108T14:24:52Z | CVE-2022-20138 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138 | | 
 | 20221108T13:51:16Z | CVE-2022-20138 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138 | | 
-| 20221108T13:45:35Z | CVE-2022-22965 | Null | https://github.com/iloveflag/Fast-CVE-2022-22965 | | 
 | 20221108T13:24:21Z | CVE-2021-29447 | Arbitrary file read controller based on CVE-2021-29447 | https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447 | | 
-| 20221108T12:01:54Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
-| 20221108T11:46:37Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
-| 20221108T02:13:29Z | CVE-2021-43657 | This is a reference/POC for CVE-2021-43657 | https://github.com/c0n5n3d/CVE-2021-43657 | | 
 | 20221108T01:04:34Z | CVE-2022-3602 | Null | https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786 | | 
 
 
@@ -54,31 +56,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T22:42:48Z | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | 0 | 0| 
+| 20221108T22:38:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANl | 1 | 0| 
+| 20221108T22:36:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANl | 1 | 0| 
+| 20221108T22:34:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANs | 1 | 0| 
+| 20221108T21:24:55Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-pnepz-exploit-change | 0 | 0| 
+| 20221108T21:24:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-select-exploit | 0 | 0| 
+| 20221108T21:10:35Z | Post-Exploitation script to exfiltrate 7-zip files | https://github.com/aqeisi/7-ZipPostExp | 12 | 7| 
+| 20221108T21:02:02Z | Sonar Antibot - Experimental anti bot plugin for Minecraft BungeeCord servers (1.7-1.19) - Blocking netty exploits and more... | https://github.com/jonesdevelopment/sonar | 3 | 2| 
 | 20221108T13:32:26Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 93 | 7| 
-| 20221108T13:32:16Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221108T12:49:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4650 | 686| 
-| 20221108T12:46:51Z | Android hacking with Image | https://github.com/pro-rat/IMAGE-RAT | 1 | 0| 
-| 20221108T12:31:31Z | A Open-Source Roblox exploit hub.  | https://github.com/JustRizkDev/Roblox-Exploit | 2 | 0| 
-| 20221108T12:19:28Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 542 | 33| 
-| 20221108T12:13:25Z | A WIP exploit manager with python | https://github.com/PunchCakee/AlphaApe | 0 | 0| 
-| 20221108T11:45:24Z | Simple and standalone exploit execution toolkit | https://github.com/lavish/flappy | 0 | 0| 
-| 20221108T11:42:54Z | Old exploit, patched in most servers, still may work on some. Adds the ability to choose NPC and weapon to spawn. Based on SynchronCity. | https://github.com/alejandrocs3719/drvrej-spawner-exploit | 0 | 0| 
-| 20221108T09:04:39Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 544 | 144| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T23:36:05Z | The best backdoor scanner there is. | https://github.com/k4scripts/backdoor.exe | 27 | 19| 
+| 20221108T21:24:34Z | Backdoor Trojan Virus Application  | https://github.com/emre-unaldi/Trojan-Virus-Application | 0 | 0| 
+| 20221108T18:22:06Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 11 | 1| 
+| 20221108T18:16:29Z | Null | https://github.com/LiangSiyuan21/BackdoorBench-main | 0 | 0| 
+| 20221108T16:10:13Z | CASINO PHISHING ETH & NFT DRAINER (NEW NEW NEW) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐⭐⭐⭐⭐ the repo If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) | https://github.com/FREENFTMINT/Casino-Phishing-ETH-Drainer | 2 | 3| 
 | 20221108T13:58:47Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20221108T10:27:54Z | Pytorch Implementation from this paper: https://arxiv.org/pdf/2206.07840.pdf | https://github.com/QuangNguyen2609/ARCHITECTURAL-BACKDOORS-IN-NEURAL-NETWORKS | 1 | 0| 
 | 20221108T08:32:59Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 48 | 8| 
 | 20221108T06:53:12Z | Null | https://github.com/backdoordetectors/backdoordetectors.github.io | 0 | 0| 
 | 20221108T06:15:26Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 9 | 0| 
-| 20221108T06:08:09Z | Null | https://github.com/zszfympxdebug/backdoor | 0 | 0| 
-| 20221108T05:15:34Z | Project Description for FudanTML | https://github.com/FudanTML/Robust-Training-on-Backdoored-Data | 0 | 0| 
-| 20221108T04:46:01Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 9 | 1| 
-| 20221108T03:44:39Z | Null | https://github.com/Nosax69/Windows-Backdoor-Using-Python | 0 | 0| 
-| 20221108T03:27:17Z | Backdoors written in various languages. | https://github.com/RosePwns/Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -99,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T23:48:55Z | Null | https://github.com/Ladamss9/fuzzy-meme | 0 | 0| 
+| 20221108T23:47:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 42856 | 21388| 
+| 20221108T23:27:36Z | Fuzz Face Guitar Pedal Project Repository. All relevant information for the fuzz face pedal will be held here. | https://github.com/Lakehead-Georgian-Electronics-Club/Fuzz-Face-Guitar-Pedal | 0 | 1| 
+| 20221108T23:17:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2617 | 177| 
+| 20221108T23:16:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8037 | 1747| 
+| 20221108T22:44:56Z | Null | https://github.com/TiagoMPereira/controlador_fuzzy | 0 | 0| 
+| 20221108T16:08:50Z | A simple mail transfer (username) Fuzzer. Allows for external wordlists. Written in python | https://github.com/e-war/SMTFuzz | 0 | 0| 
 | 20221108T13:42:24Z | Null | https://github.com/hioensis/fuzzy-doodle | 0 | 0| 
 | 20221108T13:15:12Z | A fuzzy string comparison library for Elixir | https://github.com/patrickdet/fuzzy_compare | 15 | 1| 
 | 20221108T13:01:14Z | Null | https://github.com/bitajalali/Type1-TSK-Fuzzy-Logic-System | 0 | 0| 
-| 20221108T11:36:31Z | Null | https://github.com/kdenny25/fuzzy_logic | 0 | 0| 
-| 20221108T11:08:22Z | Lets you set up Java Out Of Process Fuzzing on your CI Fuzz server, without using the local installation first | https://github.com/ci-fuzz/web-app-fuzzing-template-project | 1 | 1| 
-| 20221108T09:48:07Z | Null | https://github.com/nsutnghiadoan/fuzzy-fe | 1 | 0| 
-| 20221108T09:27:17Z | Electric Motor Fault Detection and Classificatoin | https://github.com/AugustUnderground/fuzzy-yeti-balls | 0 | 0| 
-| 20221108T09:17:00Z | directed fuzzing for linux kenerel | https://github.com/zjuchenyuan/gfuzz_linux | 0 | 0| 
-| 20221108T03:43:14Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 398 | 70| 
-| 20221108T03:11:29Z | Null | https://github.com/adechanP/Tugas6_DSKE_Fuzzy_Arduino | 0 | 0| 
 
 
 
