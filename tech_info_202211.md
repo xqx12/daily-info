@@ -142,7 +142,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221109T01:59:55Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1117 | 138| 
-| 20221109T01:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1747| 
+| 20221109T01:53:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1748| 
 | 20221109T01:45:02Z | A fuzzy approach to evaluate image segmentation based on image complexity | https://github.com/luismadhe/Fuzzy-evaluation_image-segmentation | 0 | 0| 
 | 20221109T01:22:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4429 | 1072| 
 | 20221109T01:07:41Z | Null | https://github.com/Goliver10/fuzzy-octo-palm-tree | 0 | 0| 
