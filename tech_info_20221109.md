@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221109T13:33:52Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
+| 20221109T13:41:19Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
 | 20221109T13:32:10Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
 | 20221109T13:02:15Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221109T11:40:59Z | CVE-2021-27928 | A Database Server Docker build for CVE-2021-27928 & another project CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker | | 
@@ -81,7 +81,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221109T12:08:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3190 | 451| 
+| 20221109T12:08:58Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3190 | 450| 
 | 20221109T11:29:06Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1241 | 58| 
 | 20221109T10:37:35Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 269 | 64| 
 | 20221109T08:40:50Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 591 | 105| 
