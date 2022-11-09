@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T02:23:00Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221109T02:03:07Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 831 | 129| 
 | 20221109T01:37:33Z | Exploiting temporal redundancies of multi-coil cine cardiac data for MRI reconstruction with unrolled cross-domain networks.  | https://github.com/f78bono/deep-cine-cardiac-mri | 0 | 0| 
 | 20221109T01:19:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-borrow | 0 | 0| 
-| 20221109T01:01:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221109T00:18:24Z | Customer reviews are comments given to a  company based on a customer%s experience  with the organization. By obtaining and  analyzing customer reviews, companies can  measure customer satisfaction, identify  recurring customer issues, determine areas for  improvement in existing strategies, and even  discover new trends that can be exploited. | https://github.com/Jbenhur8901/webscrapping | 0 | 0| 
 | 20221108T22:42:48Z | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | 0 | 0| 
 | 20221108T22:38:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANl | 1 | 0| 
