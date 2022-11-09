@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T01:25:21Z | IoT固件漏洞复现环境 | https://github.com/VulnTotal-Team/IoT-vulhub | 826 | 128| 
 | 20221109T01:19:01Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-borrow | 0 | 0| 
 | 20221109T01:01:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221109T01:00:42Z | Exploiting temporal redundancies of unrolled cross-domain networks in multi-coil cine MRI reconstruction. | https://github.com/f78bono/deep-cine-cardiac-mri | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20221108T22:36:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANl | 1 | 0| 
 | 20221108T22:34:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANs | 1 | 0| 
 | 20221108T21:24:55Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-pnepz-exploit-change | 0 | 0| 
-| 20221108T21:24:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-select-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
