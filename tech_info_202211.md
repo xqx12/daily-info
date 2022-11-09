@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221109T01:09:01Z | CVE-2021-38819 | Null | https://github.com/m4sk0ff/CVE-2021-38819 | | 
+| 20221109T01:08:55Z | CVE-2021-1675 | Null | https://github.com/sai-reddy2021/CVE-2021-1675-LPE | | 
+| 20221109T01:08:48Z | CVE-2022-20138 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138 | | 
 | 20221109T00:45:12Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 | 20221109T00:45:11Z | CVE-2021-43657 | This is a reference/POC for CVE-2021-43657 | https://github.com/c0n5n3d/CVE-2021-43657 | | 
 | 20221109T00:45:01Z | CVE-2021-44228 | DO NOT USE FOR ANYTHING REAL. Simple springboot sample app with vulnerability CVE-2021-44228 aka "Log4Shell"  | https://github.com/srcporter/CVE-2021-44228 | | 
 | 20221109T00:44:56Z | CVE-2022-22965 | CVE-2022-22965图形化检测工具 | https://github.com/iloveflag/Fast-CVE-2022-22965 | | 
 | 20221108T22:42:48Z | CVE-2022-3602 | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | | 
-| 20221108T19:45:45Z | CVE-2021-1675 | Null | https://github.com/sai-reddy2021/CVE-2021-1675-LPE | | 
 | 20221108T17:02:05Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
-| 20221108T17:01:41Z | CVE-2021-38819 | Null | https://github.com/m4sk0ff/CVE-2021-38819 | | 
 | 20221108T16:09:59Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
-| 20221108T14:35:17Z | CVE-2022-42889 | CVE-2022-42889 (a.k.a. Text4Shell) RCE Proof of Concept | https://github.com/sunnyvale-it/CVE-2022-42889-PoC | | 
 
 
 # klee on Github 推荐

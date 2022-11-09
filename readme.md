@@ -28,12 +28,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20221108T22:42:48Z | CVE-2022-3602 | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | | 
-| 20221108T19:45:45Z | CVE-2021-1675 | Null | https://github.com/sai-reddy2021/CVE-2021-1675-LPE | | 
 | 20221108T17:02:05Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
-| 20221108T17:01:41Z | CVE-2021-38819 | Null | https://github.com/m4sk0ff/CVE-2021-38819 | | 
 | 20221108T16:09:59Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
 | 20221108T14:35:17Z | CVE-2022-42889 | CVE-2022-42889 (a.k.a. Text4Shell) RCE Proof of Concept | https://github.com/sunnyvale-it/CVE-2022-42889-PoC | | 
-| 20221108T14:24:52Z | CVE-2022-20138 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20138 | | 
 | 20221108T13:51:16Z | CVE-2022-20138 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20138 | | 
 | 20221108T13:24:21Z | CVE-2021-29447 | Arbitrary file read controller based on CVE-2021-29447 | https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447 | | 
 | 20221108T01:04:34Z | CVE-2022-3602 | Null | https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786 | | 
