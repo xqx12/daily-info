@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T01:01:58Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221109T01:00:42Z | Exploiting temporal redundancies of unrolled cross-domain networks in multi-coil cine MRI reconstruction. | https://github.com/f78bono/deep-cine-cardiac-mri | 0 | 0| 
-| 20221109T00:44:06Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 415 | 70| 
 | 20221109T00:18:24Z | Customer reviews are comments given to a  company based on a customer%s experience  with the organization. By obtaining and  analyzing customer reviews, companies can  measure customer satisfaction, identify  recurring customer issues, determine areas for  improvement in existing strategies, and even  discover new trends that can be exploited. | https://github.com/Jbenhur8901/webscrapping | 0 | 0| 
 | 20221108T22:42:48Z | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | 0 | 0| 
 | 20221108T22:38:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANl | 1 | 0| 
@@ -115,8 +115,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221108T20:45:48Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3189 | 450| 
 | 20221108T13:17:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 268 | 64| 
-| 20221108T11:13:56Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3190 | 452| 
 | 20221108T02:37:16Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 590 | 105| 
 | 20221107T11:18:31Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1240 | 58| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
