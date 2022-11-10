@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221110T13:20:52Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
+| 20221110T13:38:10Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
 | 20221110T12:22:15Z | CVE-2021-25641 | A Exploit Tool For CVE-2021-25641. | https://github.com/l0n3rs/CVE-2021-25641 | | 
 | 20221110T10:06:14Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS | https://github.com/maikroservice/CVE-2022-43332 | | 
 | 20221110T08:30:12Z | CVE-2022-1012 | Null | https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012 | | 
