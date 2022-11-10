@@ -85,9 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T01:19:45Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
 | 20221110T01:10:00Z | Null | https://github.com/AllOuttaWasabi/ApplicationLayerExploitation | 0 | 0| 
 | 20221110T01:00:21Z | Null | https://github.com/MoonExecutor/VoyagerExploit | 0 | 0| 
-| 20221110T00:57:56Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
 | 20221110T00:15:49Z | Null | https://github.com/Liveguide125/Liv3xbyte-exploits | 0 | 0| 
 | 20221109T23:58:41Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 53 | 23| 
 | 20221109T23:03:32Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 41 | 25| 
