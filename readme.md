@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T13:17:47Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 95 | 8| 
 | 20221110T12:48:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1121 | 139| 
 | 20221110T12:16:40Z | implementation fuzzy logic for decision making under uncertainty | https://github.com/si32/FuzzyLogic | 0 | 0| 
 | 20221110T12:12:06Z | Exploring libraries like rapidfuzz and recordlinkage to comparing strings and dataframes. | https://github.com/kdenny25/fuzzy_logic_sandbox | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20221110T11:20:27Z | Project in Air conditioner controller recommendation using fuzzy logic. This project is deployed using flask. | https://github.com/realsanjeev/Air-conditioner-controller-recommendation-using-fuzzy-logic | 1 | 0| 
 | 20221110T08:27:53Z | Trying Out Go Generics & Fuzzing By Implementing Euclid%s Algorithm | https://github.com/el10savio/goGCD | 0 | 0| 
 | 20221110T00:58:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8036 | 1748| 
-| 20221110T00:38:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4429 | 1072| 
 
 
 
