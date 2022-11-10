@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T02:43:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-yQfdb-escape-exploit | 0 | 0| 
 | 20221110T01:19:45Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
 | 20221110T01:10:00Z | Null | https://github.com/AllOuttaWasabi/ApplicationLayerExploitation | 0 | 0| 
 | 20221110T01:00:21Z | Null | https://github.com/MoonExecutor/VoyagerExploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20221109T23:03:28Z | 💉 Lua Executor New Updated + Dumper Scripts , Open Source C++  | https://github.com/Fnoberz/Fivem-Source | 49 | 25| 
 | 20221109T22:18:47Z | please visit:  | https://github.com/touhidshaikh/exploit-exercises | 0 | 0| 
 | 20221109T18:10:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 64 | 23| 
-| 20221109T13:41:35Z | Null | https://github.com/thefewchosen/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
