@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221110T01:59:19Z | CVE-2022-39395 | Null | https://github.com/harry1osborn/CVE-2022-39395 | | 
-| 20221110T01:56:26Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
+| 20221110T02:03:20Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
+| 20221110T02:01:50Z | CVE-2022-39395 | CVE-2022-39395 valid pay | https://github.com/harry1osborn/CVE-2022-39395 | | 
 | 20221109T18:14:42Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20221109T18:06:29Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 | 20221109T13:46:24Z | CVE-2020-0796 | CVE-2020-0796 | https://github.com/SEHandler/CVE-2020-0796 | | 
