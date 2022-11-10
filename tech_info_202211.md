@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221110 | Fuzzing NVIDIA 驱动，挖掘本地提权漏洞 | https://github.com/quarkslab/conf-presentations/blob/master/Hexacon-2022/fuzzing_NVIDIA_drivers-tdore.pdf| 
+| 20221110 | 利用 Ethernet Ghosting 技术，在以太网层隐藏设备 | http://www.immunit.ch/blog/2022/10/26/ethernet-ghosting-nac-bypass/| 
+| 20221110 | 组合多个漏洞实现 IT 监控产品 Checkmk 的 RCE 系列的第二篇 | https://blog.sonarsource.com/checkmk-rce-chain-2/| 
+| 20221110 | 开源库 libxml 2 的 xmlParseNameComplex 被发现整数溢出漏洞，该漏洞影响广泛，Apple 也发布补丁修复该漏洞 | http://gitlab.gnome.org/GNOME/libxml2/-/issues/381| 
+| 20221110 | roadtx - 支持基于 Primary Refresh Token、PRT cookies 等方式实现自动化 Azure AD 认证的工具 | http://dirkjanm.io/introducing-roadtools-token-exchange-roadtx/| 
+| 20221110 | Eclypsium 安全团队在 Eurosoft 等三家公司的 bootloader 中发现多个高危漏洞，成功利用这些漏洞可以篡改系统、安装后门 | https://eclypsium.com/2022/08/11/vulnerable-bootloaders-2022/| 
+| 20221110 | Lenovo Diagnostics 驱动（Windows）访问控制处理不当，导致低权限进程可以实现任意物理、虚拟内存地址读写 | https://github.com/alfarom256/CVE-2022-3699/| 
+| 20221110 | PyPI 包管理市场的 apicolor 包利用图片隐写技术隐藏恶意代码 | http://research.checkpoint.com/2022/check-point-cloudguard-spectral-exposes-new-obfuscation-techniques-for-malicious-packages-on-pypi/| 
+| 20221110 | 2021 年天府杯中使用的 Adobe Reader 越界写漏洞（​CVE-2021-44707）的分析和利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
 | 20221109 | Mandiant 对 APT 29 组织的追踪，以及他们如何滥用 Windows Credential Roaming 特性 | https://www.mandiant.com/resources/blog/apt29-windows-credential-roaming| 
 | 20221109 | ABB TotalFlow 油气流量计算仪设备被发现一个路径穿越漏洞，来自 Team82 的分析 | https://claroty.com/team82/research/an-oil-and-gas-weak-spot-flow-computers| 
 | 20221109 | Tenda W15Ev2 AC1200 路由器被发现 11 个漏洞 | http://boschko.ca/tenda_ac1200_router/| 
@@ -17,20 +26,12 @@
 | 20221109 | 初探HTTP Request Smuggling | https://tttang.com/archive/1808/| 
 | 20221108 | 卡巴斯基发布 2022 Q3 季度 DDoS 攻击分析报告 | https://securelist.com/ddos-report-q3-2022/107860/| 
 | 20221108 | VAST - 基于 MLIR 框架，为 C/C++ 语言实现的前端程序分析工具 | https://github.com/trailofbits/vast| 
-| 20221108 | Weaponizing Windows Syscalls as Modern 32-bit Shellcode，来自 DEF CON 30 会议，不依赖 Win32 API，以纯 SYSCALL 的方式，在 64 位 Windows 上运行 32 位的 Shellcode | http://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Tarek%20Abdelmotaleb%20%20%20Dr.%20Bramwell%20Brizendine%20-%20Weaponizing%20Windows%20Syscalls%20as%20Modern%2032-bit%20Shellcode.pdf| 
-| 20221108 | SpyGuard - 增强版的 TinyCheck，通过网络流量检测主机是否已经被攻陷 | https://github.com/SpyGuard/SpyGuard| 
-| 20221108 | 复现近期的 Apache Commons JXPath 远程代码执行(CVE-2022-41852)漏洞 | https://xz.aliyun.com/t/11813| 
-| 20221108 | Snaffler - 渗透测试项目中帮助探测 Windows/AD 环境的工具 | https://github.com/SnaffCon/Snaffler| 
-| 20221108 | 有攻击者利用 Python 包的 typosquat 问题攻击开发者，替换开发者剪切板中的加密货币钱包地址 | https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard| 
-| 20221108 | Chromium 浏览器项目利用 BRP-ASan 从 ASan 爆出的 UAF 漏洞中识别条件竞争问题 | https://chromium-review.googlesource.com/c/chromium/src/+/3934091| 
-| 20221108 | 利用 Acronis 备份保护软件的路径穿越+Open Redirect 漏洞窃取用户隐私 | https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html| 
-| 20221108 | ManageEngine ADAudit Plus 任意文件写漏洞的分析和利用（CVE-2021–42847） | https://sec.today/pulses/b66fe8c9-3c78-4a5b-bc8d-ab925a06f80d/| 
-| 20221108 | ManageEngine ADAudit Plus 任意文件写漏洞的分析和利用（CVE-2021–42847） | https://medium.com/@erik.wynter/pwning-manageengine-from-endpoint-to-exploit-bc5793836fd| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221110 | Spring Boot RCE到内存马探索 | https://www.sec-in.com/article/1575| 
 | 20221109 | 机器学习为何难以应用于真实的网络入侵检测系统？（上） | https://mp.weixin.qq.com/s/UGFtM1Toue9B4NMdCss-OA| 
 | 20221109 | Electron攻击面分析 | https://mp.weixin.qq.com/s/E9cBVrIikwDm1X586xl-vw| 
 | 20221107 | SecWiki周刊（第453期) | https://www.sec-wiki.com/weekly/453| 
@@ -40,22 +41,21 @@
 | 20221107 | 现代化安全产品 | https://mp.weixin.qq.com/s/9S0y10f-GLSnt4oPfNE5pg| 
 | 20221107 | 如何测试设置(Setting)功能 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486882&idx=1&sn=79af29d6eea31a659e92f1e2e8dab631&chksm=e8a607c1dfd18ed72691ecae120faccd69dcaece15a671e5b924d91967f6440215a7f05853f8&token=868985101&lang=zh_CN#rd| 
 | 20221106 | 2022年工业信息安全技能大赛“望岳杯”锦标赛 wp | https://www.anquanke.com/post/id/282335| 
-| 20221106 | openwrt 路由器的奇怪 DNS 劫持 | https://green-m.me//2022/11/01/openwrt-dns-hijack/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221110T02:54:49Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
+| 20221110T12:45:32Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
+| 20221110T12:22:15Z | CVE-2021-25641 | A Exploit Tool For CVE-2021-25641. | https://github.com/l0n3rs/CVE-2021-25641 | | 
+| 20221110T10:06:14Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS | https://github.com/maikroservice/CVE-2022-43332 | | 
+| 20221110T08:30:12Z | CVE-2022-1012 | Null | https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012 | | 
+| 20221110T07:14:07Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | | 
+| 20221110T03:05:05Z | CVE-2020-0796 | CVE-2020-0796 | https://github.com/SEHandler/CVE-2020-0796 | | 
+| 20221110T03:05:00Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
+| 20221110T03:04:57Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
 | 20221110T02:01:50Z | CVE-2022-39395 | CVE-2022-39395 valid pay | https://github.com/harry1osborn/CVE-2022-39395 | | 
 | 20221109T18:14:42Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
-| 20221109T18:06:29Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
-| 20221109T13:46:24Z | CVE-2020-0796 | CVE-2020-0796 | https://github.com/SEHandler/CVE-2020-0796 | | 
-| 20221109T13:41:31Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
-| 20221109T13:41:19Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
-| 20221109T13:02:15Z | CVE-2022-33679 | One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html | https://github.com/Bdenneu/CVE-2022-33679 | | 
-| 20221109T11:40:59Z | CVE-2021-27928 | A Database Server Docker build for CVE-2021-27928 & another project CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker | | 
-| 20221109T11:12:02Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
 
 
 # klee on Github 推荐
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221110T02:43:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-yQfdb-escape-exploit | 0 | 0| 
-| 20221110T01:19:45Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
-| 20221110T01:10:00Z | Null | https://github.com/AllOuttaWasabi/ApplicationLayerExploitation | 0 | 0| 
-| 20221110T01:00:21Z | Null | https://github.com/MoonExecutor/VoyagerExploit | 0 | 0| 
-| 20221110T00:15:49Z | Null | https://github.com/Liveguide125/Liv3xbyte-exploits | 0 | 0| 
-| 20221109T23:58:41Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 53 | 23| 
-| 20221109T23:03:32Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 41 | 25| 
-| 20221109T23:03:28Z | 💉 Lua Executor New Updated + Dumper Scripts , Open Source C++  | https://github.com/Fnoberz/Fivem-Source | 49 | 25| 
-| 20221109T22:18:47Z | please visit:  | https://github.com/touhidshaikh/exploit-exercises | 0 | 0| 
-| 20221109T18:10:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 64 | 23| 
+| 20221110T12:31:39Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-ouf0m-exploit-plan | 0 | 0| 
+| 20221110T12:26:50Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhh | 1 | 0| 
+| 20221110T12:25:58Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhh | 1 | 0| 
+| 20221110T12:22:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANhh | 1 | 0| 
+| 20221110T11:37:43Z | Null | https://github.com/zoemurmure/HEVD-Exploit | 0 | 0| 
+| 20221110T11:07:50Z | A Simple tool to use your phone as a hacking device. | https://github.com/Axelaxl/exploiting-phone | 0 | 0| 
+| 20221110T10:21:25Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 43 | 25| 
+| 20221110T10:16:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4668 | 687| 
+| 20221110T09:15:00Z | Null | https://github.com/akashdeeep/my-codeforces-exploits | 0 | 0| 
+| 20221110T06:51:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 65 | 23| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T07:25:13Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 63 | 18| 
+| 20221110T04:41:05Z | Using a batch file to evade Windows Defender and insert a backdoor. | https://github.com/RosePwns/DefenderOldSchool | 1 | 0| 
+| 20221110T03:05:33Z | Evade Defender and Backdoor Windows 11/10 | https://github.com/RosePwns/DefenderEvader | 1 | 0| 
+| 20221110T02:59:30Z | Shell Backdoor | https://github.com/dewanggakm/limshell | 0 | 0| 
 | 20221109T23:53:53Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7295 | 1755| 
-| 20221109T18:15:23Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 62 | 18| 
 | 20221109T16:20:31Z | Null | https://github.com/despossivel/BetterBackdoor | 0 | 0| 
 | 20221109T12:25:33Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 12 | 1| 
 | 20221109T11:59:26Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 0 | 0| 
 | 20221109T11:37:33Z | njRAT 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 4 | 4| 
 | 20221109T08:20:23Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 4 | 0| 
-| 20221109T07:06:56Z | Evade Defender and Backdoor Windows 11/10 | https://github.com/RosePwns/StinkyRat | 1 | 0| 
-| 20221109T03:52:38Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 50 | 8| 
-| 20221109T01:55:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 86 | 11| 
 
 
 # symbolic execution on Github 推荐
@@ -142,16 +142,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T12:48:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1121 | 139| 
+| 20221110T12:16:40Z | implementation fuzzy logic for decision making under uncertainty | https://github.com/si32/FuzzyLogic | 0 | 0| 
+| 20221110T12:12:06Z | Exploring libraries like rapidfuzz and recordlinkage to comparing strings and dataframes. | https://github.com/kdenny25/fuzzy_logic_sandbox | 0 | 0| 
+| 20221110T12:07:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3187 | 642| 
+| 20221110T12:00:14Z | Null | https://github.com/PabloCortes49/Fuzzy-Pancake | 0 | 0| 
+| 20221110T11:44:26Z | My first repo | https://github.com/xjkg/fuzzy-happiness | 0 | 0| 
+| 20221110T11:20:27Z | Project in Air conditioner controller recommendation using fuzzy logic. This project is deployed using flask. | https://github.com/realsanjeev/Air-conditioner-controller-recommendation-using-fuzzy-logic | 1 | 0| 
+| 20221110T08:27:53Z | Trying Out Go Generics & Fuzzing By Implementing Euclid%s Algorithm | https://github.com/el10savio/goGCD | 0 | 0| 
 | 20221110T00:58:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8036 | 1748| 
 | 20221110T00:38:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4429 | 1072| 
-| 20221109T22:51:16Z | Null | https://github.com/gonestco/fuzzitall-optipng | 0 | 0| 
-| 20221109T20:39:08Z | Stoj%s GitHub Test via PluralSight | https://github.com/stevenstoj/fuzzy-octo-train | 0 | 0| 
-| 20221109T20:04:51Z | Null | https://github.com/damselflywingz/In_vivo_infection_series_fuzzy_RNA-seq | 0 | 0| 
-| 20221109T18:11:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 666 | 83| 
-| 20221109T18:08:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2616 | 177| 
-| 20221109T18:06:10Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 850 | 179| 
-| 20221109T13:26:05Z | Null | https://github.com/Sam-Rowe/fuzzy-octo-waddle | 0 | 0| 
-| 20221109T13:07:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1755 | 219| 
 
 
 
