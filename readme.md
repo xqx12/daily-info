@@ -14,6 +14,7 @@
 | 20221109 | 用于 Hook Burp 的 HTTP/TLS 栈以篡改浏览器指纹的扩展 | https://github.com/sleeyax/burp-awesome-tls| 
 | 20221109 | ZDI 对今天微软发布的 11 月份补丁的分析 | http://www.thezdi.com/blog/2022/11/8/the-november-2022-security-update-review| 
 | 20221109 | Sigstore - Linux 基金会下的一个项目，用于为 Linux 生态提供整套代码签名基础设施的套件 | http://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/| 
+| 20221109 | 初探HTTP Request Smuggling | https://tttang.com/archive/1808/| 
 
 
 # 安全维基 推荐
@@ -26,6 +27,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221109T18:14:42Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
+| 20221109T18:06:29Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 | 20221109T13:46:24Z | CVE-2020-0796 | CVE-2020-0796 | https://github.com/SEHandler/CVE-2020-0796 | | 
 | 20221109T13:41:31Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
 | 20221109T13:41:19Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
@@ -34,8 +37,6 @@
 | 20221109T11:12:02Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
 | 20221109T09:44:25Z | cve-2022-31692 | A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 | https://github.com/SpindleSec/cve-2022-31692 | | 
 | 20221109T08:44:14Z | CVE-2022-1162 | A simple tool to enumerate users in gitlab | https://github.com/ipsBruno/CVE-2022-1162 | | 
-| 20221109T08:22:53Z | CVE-2022-3602 | Null | https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786 | | 
-| 20221109T01:09:01Z | CVE-2021-38819 | Null | https://github.com/m4sk0ff/CVE-2021-38819 | | 
 
 
 # klee on Github 推荐
@@ -53,24 +54,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T23:58:41Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 53 | 23| 
+| 20221109T23:03:32Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 41 | 25| 
+| 20221109T23:03:28Z | 💉 Lua Executor New Updated + Dumper Scripts , Open Source C++  | https://github.com/Fnoberz/Fivem-Source | 49 | 25| 
+| 20221109T22:18:47Z | please visit:  | https://github.com/touhidshaikh/exploit-exercises | 0 | 0| 
+| 20221109T18:10:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 64 | 23| 
 | 20221109T13:41:35Z | Null | https://github.com/thefewchosen/exploits | 0 | 0| 
 | 20221109T12:31:57Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 422 | 71| 
 | 20221109T12:25:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-dare-exploit | 0 | 0| 
 | 20221109T10:12:08Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-create | 0 | 0| 
 | 20221109T09:51:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-W3hWD-exploit-rest | 0 | 0| 
-| 20221109T09:40:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4658 | 687| 
-| 20221109T09:19:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12257 | 2104| 
-| 20221109T08:05:36Z | a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation. | https://github.com/volkandindar/agartha | 210 | 43| 
-| 20221109T07:36:17Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 106 | 11| 
-| 20221109T02:55:09Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-uXBk7-exploit-constitute | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T23:53:53Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7295 | 1755| 
+| 20221109T18:15:23Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 62 | 18| 
+| 20221109T16:20:31Z | Null | https://github.com/despossivel/BetterBackdoor | 0 | 0| 
 | 20221109T12:25:33Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 12 | 1| 
 | 20221109T11:59:26Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 0 | 0| 
-| 20221109T11:52:10Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7297 | 1756| 
 | 20221109T11:37:33Z | njRAT 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 4 | 4| 
 | 20221109T08:20:23Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 4 | 0| 
 | 20221109T07:06:56Z | Evade Defender and Backdoor Windows 11/10 | https://github.com/RosePwns/StinkyRat | 1 | 0| 
@@ -95,16 +98,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221109T22:51:16Z | Null | https://github.com/gonestco/fuzzitall-optipng | 0 | 0| 
+| 20221109T20:39:08Z | Stoj%s GitHub Test via PluralSight | https://github.com/stevenstoj/fuzzy-octo-train | 0 | 0| 
+| 20221109T20:04:51Z | Null | https://github.com/damselflywingz/In_vivo_infection_series_fuzzy_RNA-seq | 0 | 0| 
+| 20221109T18:11:02Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 666 | 83| 
+| 20221109T18:08:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2616 | 177| 
+| 20221109T18:06:10Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 850 | 179| 
 | 20221109T13:26:05Z | Null | https://github.com/Sam-Rowe/fuzzy-octo-waddle | 0 | 0| 
 | 20221109T13:07:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1755 | 219| 
 | 20221109T12:02:23Z | A simple ISLa-based fuzzer for fuzzing the `ping` utility. | https://github.com/rindPHI/ICMPFuzzer | 0 | 0| 
 | 20221109T11:18:57Z | Null | https://github.com/Jeremias1229/fuzzy | 0 | 0| 
-| 20221109T10:49:41Z | Null | https://github.com/lttn1204/Fuzzing | 0 | 0| 
-| 20221109T10:13:34Z | Null | https://github.com/Souvavs/fuzzy-succotash | 0 | 0| 
-| 20221109T07:37:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4430 | 1072| 
-| 20221109T04:27:35Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 207 | 30| 
-| 20221109T03:00:55Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1524 | 257| 
-| 20221109T02:40:13Z | Fuzzing Guided by Pixel Rank for Deep Neural Networks | https://github.com/1saacYing/RFuzz | 0 | 0| 
 
 
 
