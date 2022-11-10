@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T01:10:00Z | Null | https://github.com/AllOuttaWasabi/ApplicationLayerExploitation | 0 | 0| 
 | 20221110T01:00:21Z | Null | https://github.com/MoonExecutor/VoyagerExploit | 0 | 0| 
 | 20221110T00:57:56Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
 | 20221110T00:15:49Z | Null | https://github.com/Liveguide125/Liv3xbyte-exploits | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20221109T22:18:47Z | please visit:  | https://github.com/touhidshaikh/exploit-exercises | 0 | 0| 
 | 20221109T18:10:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 64 | 23| 
 | 20221109T13:41:35Z | Null | https://github.com/thefewchosen/exploits | 0 | 0| 
-| 20221109T12:31:57Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 422 | 71| 
 
 
 # backdoor on Github 推荐
@@ -115,10 +115,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T01:12:49Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1242 | 58| 
 | 20221109T18:08:12Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 590 | 105| 
 | 20221109T17:56:24Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3190 | 451| 
 | 20221109T17:50:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2102 | 594| 
-| 20221109T11:29:06Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1241 | 58| 
 | 20221109T10:37:35Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 269 | 64| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
 | 20221107T02:01:34Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 21 | 6| 
