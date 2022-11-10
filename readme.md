@@ -52,6 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T13:44:53Z | Tool to help to cryptanalysis for cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | 6 | 1| 
+| 20221110T13:42:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12258 | 2104| 
 | 20221110T12:31:39Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-ouf0m-exploit-plan | 0 | 0| 
 | 20221110T12:26:50Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhh | 1 | 0| 
 | 20221110T12:25:58Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhh | 1 | 0| 
@@ -60,8 +62,6 @@
 | 20221110T11:07:50Z | A Simple tool to use your phone as a hacking device. | https://github.com/Axelaxl/exploiting-phone | 0 | 0| 
 | 20221110T10:21:25Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 43 | 25| 
 | 20221110T10:16:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4668 | 687| 
-| 20221110T09:15:00Z | Null | https://github.com/akashdeeep/my-codeforces-exploits | 0 | 0| 
-| 20221110T06:51:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 65 | 23| 
 
 
 # backdoor on Github 推荐
