@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221110T02:15:51Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
+| 20221110T02:26:58Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
 | 20221110T02:01:50Z | CVE-2022-39395 | CVE-2022-39395 valid pay | https://github.com/harry1osborn/CVE-2022-39395 | | 
 | 20221109T18:14:42Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 | 20221109T18:06:29Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
@@ -109,7 +109,7 @@
 | 20221109T08:20:23Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 4 | 0| 
 | 20221109T07:06:56Z | Evade Defender and Backdoor Windows 11/10 | https://github.com/RosePwns/StinkyRat | 1 | 0| 
 | 20221109T03:52:38Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 50 | 8| 
-| 20221109T00:38:12Z | A backdoor for Windows 11/10 | https://github.com/RosePwns/AVEvasionandBackdoor | 1 | 0| 
+| 20221109T01:55:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 86 | 11| 
 
 
 # symbolic execution on Github 推荐

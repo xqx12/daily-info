@@ -78,7 +78,7 @@
 | 20221109T08:20:23Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 4 | 0| 
 | 20221109T07:06:56Z | Evade Defender and Backdoor Windows 11/10 | https://github.com/RosePwns/StinkyRat | 1 | 0| 
 | 20221109T03:52:38Z | An open-source toolkit for textual backdoor attack and defense (NeurIPS 2022 D&B) | https://github.com/thunlp/OpenBackdoor | 50 | 8| 
-| 20221109T00:38:12Z | A backdoor for Windows 11/10 | https://github.com/RosePwns/AVEvasionandBackdoor | 1 | 0| 
+| 20221109T01:55:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 86 | 11| 
 
 
 # symbolic execution on Github 推荐
