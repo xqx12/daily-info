@@ -15,6 +15,7 @@
 | 20221110 | Lenovo Diagnostics 驱动（Windows）访问控制处理不当，导致低权限进程可以实现任意物理、虚拟内存地址读写 | https://github.com/alfarom256/CVE-2022-3699/| 
 | 20221110 | PyPI 包管理市场的 apicolor 包利用图片隐写技术隐藏恶意代码 | http://research.checkpoint.com/2022/check-point-cloudguard-spectral-exposes-new-obfuscation-techniques-for-malicious-packages-on-pypi/| 
 | 20221110 | 2021 年天府杯中使用的 Adobe Reader 越界写漏洞（​CVE-2021-44707）的分析和利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
+| 20221110 | Dumping Lsass Process Memory In Different Ways | https://tttang.com/archive/1810/| 
 
 
 # 安全维基 推荐

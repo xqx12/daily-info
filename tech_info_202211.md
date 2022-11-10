@@ -15,6 +15,7 @@
 | 20221110 | Lenovo Diagnostics 驱动（Windows）访问控制处理不当，导致低权限进程可以实现任意物理、虚拟内存地址读写 | https://github.com/alfarom256/CVE-2022-3699/| 
 | 20221110 | PyPI 包管理市场的 apicolor 包利用图片隐写技术隐藏恶意代码 | http://research.checkpoint.com/2022/check-point-cloudguard-spectral-exposes-new-obfuscation-techniques-for-malicious-packages-on-pypi/| 
 | 20221110 | 2021 年天府杯中使用的 Adobe Reader 越界写漏洞（​CVE-2021-44707）的分析和利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
+| 20221110 | Dumping Lsass Process Memory In Different Ways | https://tttang.com/archive/1810/| 
 | 20221109 | Mandiant 对 APT 29 组织的追踪，以及他们如何滥用 Windows Credential Roaming 特性 | https://www.mandiant.com/resources/blog/apt29-windows-credential-roaming| 
 | 20221109 | ABB TotalFlow 油气流量计算仪设备被发现一个路径穿越漏洞，来自 Team82 的分析 | https://claroty.com/team82/research/an-oil-and-gas-weak-spot-flow-computers| 
 | 20221109 | Tenda W15Ev2 AC1200 路由器被发现 11 个漏洞 | http://boschko.ca/tenda_ac1200_router/| 
@@ -25,7 +26,6 @@
 | 20221109 | Sigstore - Linux 基金会下的一个项目，用于为 Linux 生态提供整套代码签名基础设施的套件 | http://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/| 
 | 20221109 | 初探HTTP Request Smuggling | https://tttang.com/archive/1808/| 
 | 20221108 | 卡巴斯基发布 2022 Q3 季度 DDoS 攻击分析报告 | https://securelist.com/ddos-report-q3-2022/107860/| 
-| 20221108 | VAST - 基于 MLIR 框架，为 C/C++ 语言实现的前端程序分析工具 | https://github.com/trailofbits/vast| 
 
 
 # 安全维基 推荐
