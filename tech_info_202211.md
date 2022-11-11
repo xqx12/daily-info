@@ -143,7 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221111T01:25:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4430 | 1071| 
+| 20221111T01:25:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4430 | 1072| 
 | 20221111T01:18:11Z | Null | https://github.com/Jodavid/seminario_ppgmds_fuzzyclass | 0 | 0| 
 | 20221111T00:04:04Z | Null | https://github.com/IFAlonso/fuzzy_network_sensor | 0 | 0| 
 | 20221110T23:20:39Z | Null | https://github.com/crackallcode/api-fuzzer-with-JSON-response- | 0 | 0| 
