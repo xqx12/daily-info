@@ -88,13 +88,13 @@
 | 20221111T01:04:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANaa | 1 | 0| 
 | 20221111T01:03:47Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANaa | 1 | 0| 
 | 20221111T01:02:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANaa | 1 | 0| 
+| 20221110T23:56:54Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 273 | 59| 
 | 20221110T23:45:49Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 38 | 23| 
 | 20221110T23:42:43Z | L’objectif de cette première partie est de recueillir un jeu de données nettoyé et constitué des mots les plus essentiels et les plus représentatifs et l%identification de la spécificité des données texte, en ce sens qu’elles sont rarement exploitables sous leur forme brute. | https://github.com/Yasmineoueslati/Jalon_1_NLP | 0 | 0| 
 | 20221110T23:20:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5034 | 699| 
 | 20221110T22:28:48Z | Scripts and objects pertaining to the article %Exploration-exploitation learning in foraging hummingbirds is drive by cumulative experience and energetic costs% by Courtney Donkersteeg and Roslyn Dakin | https://github.com/CourtneyDonkersteeg/hummingbird-exploration-analysis | 0 | 0| 
 | 20221110T22:25:31Z | A discord phishing tool | https://github.com/TheonlyIcebear/Discord-Image-Exploit | 99 | 50| 
 | 20221110T19:10:10Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 311 | 33| 
-| 20221110T17:37:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3749 | 461| 
 
 
 # backdoor on Github 推荐
