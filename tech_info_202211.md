@@ -143,6 +143,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T01:25:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4430 | 1071| 
 | 20221111T01:18:11Z | Null | https://github.com/Jodavid/seminario_ppgmds_fuzzyclass | 0 | 0| 
 | 20221111T00:04:04Z | Null | https://github.com/IFAlonso/fuzzy_network_sensor | 0 | 0| 
 | 20221110T23:20:39Z | Null | https://github.com/crackallcode/api-fuzzer-with-JSON-response- | 0 | 0| 
@@ -152,7 +153,6 @@
 | 20221110T21:14:15Z | Null | https://github.com/Gaurav-rai-15/fuzzyLogic-code | 0 | 0| 
 | 20221110T16:34:30Z | Estudo da Técnica de Fuzzy Matching | https://github.com/dugabsBR/fuzzy_matching | 0 | 0| 
 | 20221110T16:30:26Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 769 | 45| 
-| 20221110T13:21:28Z | Null | https://github.com/BhagyaBlasterz/fuzzy-fiesta | 0 | 0| 
 
 
 
