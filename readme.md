@@ -33,6 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221111T13:09:35Z | cve-2022-1 | cve-2022-1 | https://github.com/mike-develop-root/cve-2022-1 | | 
 | 20221111T12:56:52Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
 | 20221111T12:21:51Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
 | 20221111T10:57:59Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 

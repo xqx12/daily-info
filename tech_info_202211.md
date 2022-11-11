@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221111T13:09:35Z | cve-2022-1 | cve-2022-1 | https://github.com/mike-develop-root/cve-2022-1 | | 
 | 20221111T12:56:52Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
 | 20221111T12:21:51Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
 | 20221111T10:57:59Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 
@@ -55,7 +56,6 @@
 | 20221111T00:45:15Z | CVE-2021-25641 | A Exploit Tool For CVE-2021-25641. | https://github.com/l0n3rs/CVE-2021-25641 | | 
 | 20221111T00:45:09Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | | 
 | 20221110T08:30:12Z | CVE-2022-1012 | Null | https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012 | | 
-| 20221110T03:05:05Z | CVE-2020-0796 | CVE-2020-0796 | https://github.com/SEHandler/CVE-2020-0796 | | 
 
 
 # klee on Github 推荐
