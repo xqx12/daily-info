@@ -88,7 +88,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221110T23:20:39Z | Null | https://github.com/crackallcode/api-fuzzer-with-JSON-response- | 0 | 0| 
 | 20221110T23:14:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1750| 
 | 20221110T21:17:13Z | Null | https://github.com/jcoteeeeee/fuzzy-carnival | 0 | 0| 
 | 20221110T21:16:43Z | Null | https://github.com/clever0ne/fuzzy_systems_lab_4 | 0 | 0| 
@@ -98,6 +97,7 @@
 | 20221110T13:21:28Z | Null | https://github.com/BhagyaBlasterz/fuzzy-fiesta | 0 | 0| 
 | 20221110T13:17:47Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 95 | 8| 
 | 20221110T12:48:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1121 | 139| 
+| 20221110T12:16:40Z | implementation fuzzy logic for decision making under uncertainty | https://github.com/si32/FuzzyLogic | 0 | 0| 
 
 
 
