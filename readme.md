@@ -27,7 +27,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221110T23:57:35Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
 | 20221110T08:30:12Z | CVE-2022-1012 | Null | https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012 | | 
 | 20221110T03:05:05Z | CVE-2020-0796 | CVE-2020-0796 | https://github.com/SEHandler/CVE-2020-0796 | | 
 | 20221110T03:05:00Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
@@ -75,7 +74,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221110T13:47:34Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3193 | 451| 
+| 20221110T21:54:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3196 | 452| 
 | 20221110T11:23:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 270 | 65| 
 | 20221110T01:12:49Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1242 | 58| 
 
