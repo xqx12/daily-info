@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221111 | POC 2022 会议，有研究员从安全角度对 Rust 语言的分析 | http://www.msuiche.com/posts/poc-2022-korea-keynote/| 
+| 20221111 | 微软 MSTIC 威胁情报团队在 CyberWarCon 2022 会议分享议题的一些细节 | https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/| 
+| 20221111 | 浏览器证书颁发机构自身信誉度的安全隐患分析 | http://www.schneier.com/blog/archives/2022/11/an-untrustworthy-tls-certificate-in-browsers.html| 
+| 20221111 | 这篇 Blog 介绍 IDA 中如何查找两个函数之间的调用路径的算法 | http://evilpan.com/2022/11/04/path-finder/| 
+| 20221111 | Positive Hack Days 2022 安全论坛上的 ATM Hacking 挑战题的 writeup | http://boschko.ca/atm-kiosk-hacking-phd2022/| 
+| 20221111 | xterm 虚拟终端被发现由 ^G 引发的漏洞，特殊条件下可以实现 RCE | http://www.openwall.com/lists/oss-security/2022/11/10/1| 
+| 20221111 | 这篇 Blog 以 SQLite 的一个整数溢出漏洞为例介绍编译器的 Divergent representations 问题，即编译器对变量溢出的处理在不同地方不一致的问题 | http://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/| 
+| 20221111 | Google Pixel 设备被发现锁屏绕过漏洞，影响所有 Google Pixel 设备 | http://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/| 
+| 20221111 | 研究员 Mickey Jin 在这两天举办的 POC 会议上分享的多个 macOS SIP Bypass 漏洞的细节 | https://sec.today/pulses/025a68fc-96c9-4a37-9fb2-644d3b52c940/| 
+| 20221111 | 研究员 Mickey Jin 在这两天举办的 POC 会议上分享的多个 macOS SIP Bypass 漏洞的细节 | https://www.trendmicro.com/en_us/research/22/k/cve-2019-8561-a-hard-to-banish-packagekit-framework-vulnerabilit.html| 
 | 20221110 | Fuzzing NVIDIA 驱动，挖掘本地提权漏洞 | https://github.com/quarkslab/conf-presentations/blob/master/Hexacon-2022/fuzzing_NVIDIA_drivers-tdore.pdf| 
 | 20221110 | 利用 Ethernet Ghosting 技术，在以太网层隐藏设备 | http://www.immunit.ch/blog/2022/10/26/ethernet-ghosting-nac-bypass/| 
 | 20221110 | 组合多个漏洞实现 IT 监控产品 Checkmk 的 RCE 系列的第二篇 | https://blog.sonarsource.com/checkmk-rce-chain-2/| 
@@ -16,46 +26,36 @@
 | 20221110 | PyPI 包管理市场的 apicolor 包利用图片隐写技术隐藏恶意代码 | http://research.checkpoint.com/2022/check-point-cloudguard-spectral-exposes-new-obfuscation-techniques-for-malicious-packages-on-pypi/| 
 | 20221110 | 2021 年天府杯中使用的 Adobe Reader 越界写漏洞（​CVE-2021-44707）的分析和利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
 | 20221110 | Dumping Lsass Process Memory In Different Ways | https://tttang.com/archive/1810/| 
-| 20221109 | Mandiant 对 APT 29 组织的追踪，以及他们如何滥用 Windows Credential Roaming 特性 | https://www.mandiant.com/resources/blog/apt29-windows-credential-roaming| 
-| 20221109 | ABB TotalFlow 油气流量计算仪设备被发现一个路径穿越漏洞，来自 Team82 的分析 | https://claroty.com/team82/research/an-oil-and-gas-weak-spot-flow-computers| 
-| 20221109 | Tenda W15Ev2 AC1200 路由器被发现 11 个漏洞 | http://boschko.ca/tenda_ac1200_router/| 
-| 20221109 | 用错误注入的方法绕过 Renesas RH850/P1M-E 控制器的读保护 | http://blog.willemmelching.nl/carhacking/2022/11/08/rh850-glitch/| 
-| 20221109 | Jit-Picking - 利用 Differential Fuzzing 的方案挖掘 JS 引擎 JIT 的漏洞 | http://mu00d8.me/paper/bernhard22jitpicking.pdf| 
-| 20221109 | 用于 Hook Burp 的 HTTP/TLS 栈以篡改浏览器指纹的扩展 | https://github.com/sleeyax/burp-awesome-tls| 
-| 20221109 | ZDI 对今天微软发布的 11 月份补丁的分析 | http://www.thezdi.com/blog/2022/11/8/the-november-2022-security-update-review| 
-| 20221109 | Sigstore - Linux 基金会下的一个项目，用于为 Linux 生态提供整套代码签名基础设施的套件 | http://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/| 
-| 20221109 | 初探HTTP Request Smuggling | https://tttang.com/archive/1808/| 
-| 20221108 | 卡巴斯基发布 2022 Q3 季度 DDoS 攻击分析报告 | https://securelist.com/ddos-report-q3-2022/107860/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221111 | 机器学习为何难以应用于真实的网络入侵检测系统？（下） | https://mp.weixin.qq.com/s/ZRMhhX6D3x2FixWonwrX0g| 
+| 20221111 | [HTB] Driver Writeup | https://mp.weixin.qq.com/s/UQlDF_fAw0-VsOdp2jQ3Wg| 
+| 20221111 | Accidental $70k Google Pixel Lock Screen Bypass | https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/| 
+| 20221111 | 体系化建设云上安全能力 | https://mp.weixin.qq.com/s/prG64nwyb6tlzyxVGp7fxQ| 
+| 20221111 | 漏洞管理十大度量指标 | https://mp.weixin.qq.com/s/EExp6-IOTDd_WJwoWkj4Fw| 
+| 20221111 | 试与国内网络安全监管机构商榷二三事 | https://mp.weixin.qq.com/s/ukFg_L4eBzZGH_SOF2BnvQ| 
+| 20221111 | 对ZDI公布的InfraSuite Device Master一揽子漏洞的分析 | https://tttang.com/archive/1806/| 
 | 20221110 | Spring Boot RCE到内存马探索 | https://www.sec-in.com/article/1575| 
 | 20221109 | 机器学习为何难以应用于真实的网络入侵检测系统？（上） | https://mp.weixin.qq.com/s/UGFtM1Toue9B4NMdCss-OA| 
 | 20221109 | Electron攻击面分析 | https://mp.weixin.qq.com/s/E9cBVrIikwDm1X586xl-vw| 
-| 20221107 | SecWiki周刊（第453期) | https://www.sec-wiki.com/weekly/453| 
-| 20221107 | 关键信息基础设施安全保护标准体系解析 | https://mp.weixin.qq.com/s/sZ98UgV4gdx3M1z-76h9Jg| 
-| 20221107 | 如何跨平台追踪社交媒体用户 | https://mp.weixin.qq.com/s/91R2D4G__VH3kGu4HSBssQ| 
-| 20221107 | 浅谈终端安全与DLP治理 | https://mp.weixin.qq.com/s/TOlDEeW4RbHufuP6CreWKQ| 
-| 20221107 | 现代化安全产品 | https://mp.weixin.qq.com/s/9S0y10f-GLSnt4oPfNE5pg| 
-| 20221107 | 如何测试设置(Setting)功能 | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486882&idx=1&sn=79af29d6eea31a659e92f1e2e8dab631&chksm=e8a607c1dfd18ed72691ecae120faccd69dcaece15a671e5b924d91967f6440215a7f05853f8&token=868985101&lang=zh_CN#rd| 
-| 20221106 | 2022年工业信息安全技能大赛“望岳杯”锦标赛 wp | https://www.anquanke.com/post/id/282335| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221111T01:18:56Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
+| 20221111T12:56:52Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
+| 20221111T12:21:51Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
+| 20221111T10:57:59Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 
+| 20221111T10:24:01Z | CVE-2022-3942 | Null | https://github.com/maikroservice/CVE-2022-3942 | | 
+| 20221111T07:00:58Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
 | 20221111T00:45:23Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
 | 20221111T00:45:15Z | CVE-2021-25641 | A Exploit Tool For CVE-2021-25641. | https://github.com/l0n3rs/CVE-2021-25641 | | 
 | 20221111T00:45:09Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | | 
 | 20221110T08:30:12Z | CVE-2022-1012 | Null | https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012 | | 
 | 20221110T03:05:05Z | CVE-2020-0796 | CVE-2020-0796 | https://github.com/SEHandler/CVE-2020-0796 | | 
-| 20221110T03:05:00Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
-| 20221110T03:04:57Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
-| 20221110T02:01:50Z | CVE-2022-39395 | CVE-2022-39395 valid pay | https://github.com/harry1osborn/CVE-2022-39395 | | 
-| 20221109T18:14:42Z | CVE-2021-44228 | Null | https://github.com/b-abderrahmane/CVE-2021-44228-playground | | 
 
 
 # klee on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T12:42:00Z | Null | https://github.com/jabvbcyave/fuzzy-octo-fiesta | 0 | 0| 
+| 20221111T12:30:13Z | Null | https://github.com/user-prasad/-Muthinei-Prasad--Ann-fuzzy-logic--project | 0 | 0| 
+| 20221111T11:31:06Z | Test task for Gemicle | https://github.com/Zesoman/fuzzy-bassoon | 0 | 0| 
+| 20221111T11:12:48Z | Null | https://github.com/aayusha424/fuzzy-rotary-phone | 0 | 0| 
+| 20221111T11:02:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 97 | 8| 
+| 20221111T10:58:32Z | fuzzing bot for fuzzing infrastructure | https://github.com/daehee87/fuzzing-bot | 0 | 0| 
+| 20221111T10:23:25Z | Sedikit coretan berbasis gabut. Mohon dikoreksi kalo ada salah! | https://github.com/arshavinne/fuzzy | 1 | 0| 
 | 20221111T01:44:28Z | Null | https://github.com/crackallcode/api-fuzzer-with-JSON-response- | 0 | 0| 
 | 20221111T01:25:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4430 | 1072| 
 | 20221111T01:18:11Z | Null | https://github.com/Jodavid/seminario_ppgmds_fuzzyclass | 0 | 0| 
-| 20221111T00:04:04Z | Null | https://github.com/IFAlonso/fuzzy_network_sensor | 0 | 0| 
-| 20221110T23:14:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1750| 
-| 20221110T21:17:13Z | Null | https://github.com/jcoteeeeee/fuzzy-carnival | 0 | 0| 
-| 20221110T21:16:43Z | Null | https://github.com/clever0ne/fuzzy_systems_lab_4 | 0 | 0| 
-| 20221110T21:14:15Z | Null | https://github.com/Gaurav-rai-15/fuzzyLogic-code | 0 | 0| 
-| 20221110T16:34:30Z | Estudo da Técnica de Fuzzy Matching | https://github.com/dugabsBR/fuzzy_matching | 0 | 0| 
-| 20221110T16:30:26Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 769 | 45| 
 
 
 
