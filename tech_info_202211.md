@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221110T13:38:10Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
-| 20221110T12:22:15Z | CVE-2021-25641 | A Exploit Tool For CVE-2021-25641. | https://github.com/l0n3rs/CVE-2021-25641 | | 
-| 20221110T10:06:14Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS | https://github.com/maikroservice/CVE-2022-43332 | | 
+| 20221111T00:45:23Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
+| 20221111T00:45:15Z | CVE-2021-25641 | A Exploit Tool For CVE-2021-25641. | https://github.com/l0n3rs/CVE-2021-25641 | | 
+| 20221111T00:45:09Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | | 
+| 20221110T23:57:35Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
 | 20221110T08:30:12Z | CVE-2022-1012 | Null | https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012 | | 
-| 20221110T07:14:07Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | | 
 | 20221110T03:05:05Z | CVE-2020-0796 | CVE-2020-0796 | https://github.com/SEHandler/CVE-2020-0796 | | 
 | 20221110T03:05:00Z | CVE-2021-27928 | Second Database For CVE-2021-40438_Docker_2 (FYP project, for own use only) | https://github.com/WilsonFung414/CVE-2021-27928_Docker_2 | | 
 | 20221110T03:04:57Z | CVE-2021-40438 | Second one for web vulnerability (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker_2 | | 
@@ -100,6 +100,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T18:37:55Z | Null | https://github.com/c4lyp5o/dpims-backdoor | 0 | 0| 
+| 20221110T18:07:32Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 44 | 25| 
 | 20221110T07:25:13Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 63 | 18| 
 | 20221110T04:41:05Z | Using a batch file to evade Windows Defender and insert a backdoor. | https://github.com/RosePwns/DefenderOldSchool | 1 | 0| 
 | 20221110T03:05:33Z | Evade Defender and Backdoor Windows 11/10 | https://github.com/RosePwns/DefenderEvader | 1 | 0| 
@@ -108,8 +110,6 @@
 | 20221109T16:20:31Z | Null | https://github.com/despossivel/BetterBackdoor | 0 | 0| 
 | 20221109T12:25:33Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 12 | 1| 
 | 20221109T11:59:26Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 0 | 0| 
-| 20221109T11:37:33Z | njRAT 0.7d Horror Edition | https://github.com/De-eloper/NjRat-0.7d-Horror-Edition | 4 | 4| 
-| 20221109T08:20:23Z | Successive Interference Cancellation Based Defense for Trigger Backdoor in Federated Learning | https://github.com/melamaze/SICDF | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -143,16 +143,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T00:44:08Z | Null | https://github.com/Jodavid/seminario_ppgmds_fuzzyclass | 0 | 0| 
+| 20221111T00:04:04Z | Null | https://github.com/IFAlonso/fuzzy_network_sensor | 0 | 0| 
+| 20221110T23:20:39Z | Null | https://github.com/crackallcode/api-fuzzer-with-JSON-response- | 0 | 0| 
+| 20221110T23:14:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1749| 
+| 20221110T21:17:13Z | Null | https://github.com/jcoteeeeee/fuzzy-carnival | 0 | 0| 
+| 20221110T21:16:43Z | Null | https://github.com/clever0ne/fuzzy_systems_lab_4 | 0 | 0| 
+| 20221110T21:14:15Z | Null | https://github.com/Gaurav-rai-15/fuzzyLogic-code | 0 | 0| 
+| 20221110T16:34:30Z | Estudo da Técnica de Fuzzy Matching | https://github.com/dugabsBR/fuzzy_matching | 0 | 0| 
+| 20221110T16:30:26Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 769 | 45| 
 | 20221110T13:21:28Z | Null | https://github.com/BhagyaBlasterz/fuzzy-fiesta | 0 | 0| 
-| 20221110T13:17:47Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 95 | 8| 
-| 20221110T12:48:09Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1121 | 139| 
-| 20221110T12:16:40Z | implementation fuzzy logic for decision making under uncertainty | https://github.com/si32/FuzzyLogic | 0 | 0| 
-| 20221110T12:12:06Z | Exploring libraries like rapidfuzz and recordlinkage to comparing strings and dataframes. | https://github.com/kdenny25/fuzzy_logic_sandbox | 0 | 0| 
-| 20221110T12:07:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3187 | 642| 
-| 20221110T12:00:14Z | Null | https://github.com/PabloCortes49/Fuzzy-Pancake | 0 | 0| 
-| 20221110T11:44:26Z | My first repo | https://github.com/xjkg/fuzzy-happiness | 0 | 0| 
-| 20221110T11:20:27Z | Project in Air conditioner controller recommendation using fuzzy logic. This project is deployed using flask. | https://github.com/realsanjeev/Air-conditioner-controller-recommendation-using-fuzzy-logic | 1 | 0| 
-| 20221110T08:27:53Z | Trying Out Go Generics & Fuzzing By Implementing Euclid%s Algorithm | https://github.com/el10savio/goGCD | 0 | 0| 
 
 
 
