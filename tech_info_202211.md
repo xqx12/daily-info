@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T02:37:11Z | Null | https://github.com/yeetsquad747/exploitcb | 0 | 0| 
 | 20221111T02:34:59Z | 💉 Lua Executor New Updated + Dumper Scripts , Open Source C++  | https://github.com/Fnoberz/Fivem-Exec | 49 | 25| 
 | 20221111T02:33:57Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 43 | 25| 
 | 20221111T02:33:38Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 53 | 23| 
@@ -94,7 +95,6 @@
 | 20221111T01:04:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANaa | 1 | 0| 
 | 20221111T01:03:47Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANaa | 1 | 0| 
 | 20221111T01:02:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANaa | 1 | 0| 
-| 20221110T23:42:43Z | L’objectif de cette première partie est de recueillir un jeu de données nettoyé et constitué des mots les plus essentiels et les plus représentatifs et l%identification de la spécificité des données texte, en ce sens qu’elles sont rarement exploitables sous leur forme brute. | https://github.com/Yasmineoueslati/Jalon_1_NLP | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -115,9 +115,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221110T22:30:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1241 | 58| 
 | 20221110T21:54:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3196 | 452| 
 | 20221110T11:23:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 270 | 65| 
-| 20221110T01:12:49Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1242 | 58| 
 | 20221109T18:08:12Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 590 | 105| 
 | 20221109T17:50:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2102 | 594| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
