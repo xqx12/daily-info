@@ -92,9 +92,9 @@
 | 20221111T07:35:07Z | 💉 Lua Executor New Updated + Dumper Scripts , Open Source C++  | https://github.com/Fnoberz/Fivem-Exec | 49 | 25| 
 | 20221111T07:35:00Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 43 | 25| 
 | 20221111T07:33:56Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 53 | 23| 
+| 20221111T03:25:57Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 3192 | 624| 
 | 20221111T02:37:11Z | Null | https://github.com/yeetsquad747/exploitcb | 0 | 0| 
 | 20221111T02:25:23Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 274 | 59| 
-| 20221111T02:23:39Z | pwn environments and exploits | https://github.com/minaminao/pwn | 5 | 1| 
 
 
 # backdoor on Github 推荐
