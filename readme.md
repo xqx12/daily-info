@@ -89,7 +89,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221110T23:20:39Z | Null | https://github.com/crackallcode/api-fuzzer-with-JSON-response- | 0 | 0| 
-| 20221110T23:14:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1749| 
+| 20221110T23:14:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8038 | 1750| 
 | 20221110T21:17:13Z | Null | https://github.com/jcoteeeeee/fuzzy-carnival | 0 | 0| 
 | 20221110T21:16:43Z | Null | https://github.com/clever0ne/fuzzy_systems_lab_4 | 0 | 0| 
 | 20221110T21:14:15Z | Null | https://github.com/Gaurav-rai-15/fuzzyLogic-code | 0 | 0| 
