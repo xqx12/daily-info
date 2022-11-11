@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T02:34:59Z | 💉 Lua Executor New Updated + Dumper Scripts , Open Source C++  | https://github.com/Fnoberz/Fivem-Exec | 49 | 25| 
+| 20221111T02:33:57Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 43 | 25| 
 | 20221111T02:32:59Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 38 | 23| 
 | 20221111T02:25:23Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 274 | 59| 
 | 20221111T02:23:39Z | pwn environments and exploits | https://github.com/minaminao/pwn | 5 | 1| 
@@ -93,8 +95,6 @@
 | 20221111T01:02:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANaa | 1 | 0| 
 | 20221110T23:42:43Z | L’objectif de cette première partie est de recueillir un jeu de données nettoyé et constitué des mots les plus essentiels et les plus représentatifs et l%identification de la spécificité des données texte, en ce sens qu’elles sont rarement exploitables sous leur forme brute. | https://github.com/Yasmineoueslati/Jalon_1_NLP | 0 | 0| 
 | 20221110T23:20:09Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5034 | 699| 
-| 20221110T22:28:48Z | Scripts and objects pertaining to the article %Exploration-exploitation learning in foraging hummingbirds is drive by cumulative experience and energetic costs% by Courtney Donkersteeg and Roslyn Dakin | https://github.com/CourtneyDonkersteeg/hummingbird-exploration-analysis | 0 | 0| 
-| 20221110T22:25:31Z | A discord phishing tool | https://github.com/TheonlyIcebear/Discord-Image-Exploit | 99 | 50| 
 
 
 # backdoor on Github 推荐
