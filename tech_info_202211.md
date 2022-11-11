@@ -100,21 +100,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T12:26:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 88 | 11| 
+| 20221111T11:01:38Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7302 | 1755| 
+| 20221111T07:31:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 45 | 25| 
+| 20221111T07:14:00Z | install backdoor on target computer | https://github.com/drycko/reverse_backdoor | 0 | 0| 
+| 20221111T05:36:06Z | Null | https://github.com/Verse-Hub/BackDoor-UI | 0 | 0| 
 | 20221110T18:37:55Z | Null | https://github.com/c4lyp5o/dpims-backdoor | 0 | 0| 
-| 20221110T18:07:32Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 44 | 25| 
 | 20221110T07:25:13Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 63 | 18| 
 | 20221110T04:41:05Z | Using a batch file to evade Windows Defender and insert a backdoor. | https://github.com/RosePwns/DefenderOldSchool | 1 | 0| 
 | 20221110T03:05:33Z | Evade Defender and Backdoor Windows 11/10 | https://github.com/RosePwns/DefenderEvader | 1 | 0| 
 | 20221110T02:59:30Z | Shell Backdoor | https://github.com/dewanggakm/limshell | 0 | 0| 
-| 20221109T23:53:53Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7295 | 1755| 
-| 20221109T16:20:31Z | Null | https://github.com/despossivel/BetterBackdoor | 0 | 0| 
-| 20221109T12:25:33Z | Source code for our paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 12 | 1| 
-| 20221109T11:59:26Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T11:37:50Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 35 | 3| 
 | 20221110T22:30:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1241 | 58| 
 | 20221110T21:54:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3196 | 452| 
 | 20221110T11:23:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 270 | 65| 
@@ -124,18 +125,17 @@
 | 20221107T02:01:34Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 21 | 6| 
 | 20221103T23:58:08Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 26 | 6| 
 | 20221103T15:28:22Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 25 | 5| 
-| 20221102T14:09:57Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 50 | 24| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T03:15:35Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 18 | 2| 
 | 20221110T05:25:19Z | Null | https://github.com/nosdsdfs/ndsssdss | 0 | 0| 
 | 20221109T18:16:21Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 59 | 16| 
 | 20221108T11:45:41Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 2 | 0| 
 | 20221108T11:23:08Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 69 | 36| 
 | 20221107T09:35:54Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 6 | 1| 
-| 20221105T02:39:57Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 17 | 2| 
 | 20221103T19:57:01Z | Home of the 2023 NDSS Workshop on Binary Analysis Research | https://github.com/bar2023/bar2023.github.io | 0 | 0| 
 | 20221103T02:39:50Z | Null | https://github.com/sgwguagua/ndss | 0 | 0| 
 
