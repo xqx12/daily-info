@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221112T01:33:09Z | HTML and CSS Course Assignment | https://github.com/aBadMan91/fuzzy-octo-system | 0 | 0| 
+| 20221112T01:39:20Z | HTML and CSS Course Assignment - GameHub - Aleks | https://github.com/aBadMan91/fuzzy-octo-system | 0 | 0| 
 | 20221111T21:36:53Z | Null | https://github.com/lambdaclass/fuzzing_examples | 0 | 0| 
 | 20221111T21:12:21Z | Config files for my GitHub profile. | https://github.com/Fuzzlefish/Fuzzlefish | 0 | 0| 
 | 20221111T20:53:51Z | LFI-Fuzzing | https://github.com/Steiner-254/LFI-Fuzzing | 1 | 0| 
