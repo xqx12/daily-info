@@ -31,21 +31,22 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221112 | 从一道题入门 UEFI PWN | https://paper.seebug.org/2010/| 
+| 20221112 | ​CVE-2021-44707 Adobe Reader越界写漏洞分析与利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
+| 20221112 | USTC Hackergame 2022 | https://imlonghao.com/60.html| 
+| 20221112 | Java安全攻防之老版本 Fastjson 的一些不出网利用 | https://www.anquanke.com/post/id/283079| 
+| 20221112 | 最近碰到的 Python pickle 反序列化小总结 | https://xz.aliyun.com/t/11807| 
+| 20221112 | jpress代码审计分享 | https://xz.aliyun.com/t/11832| 
+| 20221112 | 欧洲安全局发布《2022年网络安全威胁全景》报告 | https://mp.weixin.qq.com/s/U-YwbRs7tDU93vwgpLywRw| 
 | 20221111 | 机器学习为何难以应用于真实的网络入侵检测系统？（下） | https://mp.weixin.qq.com/s/ZRMhhX6D3x2FixWonwrX0g| 
 | 20221111 | [HTB] Driver Writeup | https://mp.weixin.qq.com/s/UQlDF_fAw0-VsOdp2jQ3Wg| 
 | 20221111 | Accidental $70k Google Pixel Lock Screen Bypass | https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/| 
-| 20221111 | 体系化建设云上安全能力 | https://mp.weixin.qq.com/s/prG64nwyb6tlzyxVGp7fxQ| 
-| 20221111 | 漏洞管理十大度量指标 | https://mp.weixin.qq.com/s/EExp6-IOTDd_WJwoWkj4Fw| 
-| 20221111 | 试与国内网络安全监管机构商榷二三事 | https://mp.weixin.qq.com/s/ukFg_L4eBzZGH_SOF2BnvQ| 
-| 20221111 | 对ZDI公布的InfraSuite Device Master一揽子漏洞的分析 | https://tttang.com/archive/1806/| 
-| 20221110 | Spring Boot RCE到内存马探索 | https://www.sec-in.com/article/1575| 
-| 20221109 | 机器学习为何难以应用于真实的网络入侵检测系统？（上） | https://mp.weixin.qq.com/s/UGFtM1Toue9B4NMdCss-OA| 
-| 20221109 | Electron攻击面分析 | https://mp.weixin.qq.com/s/E9cBVrIikwDm1X586xl-vw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221112T11:37:02Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
 | 20221112T00:27:32Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221111T22:53:02Z | cve-2021-29447 | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | | 
 | 20221111T18:34:30Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 
@@ -55,13 +56,12 @@
 | 20221111T12:56:52Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
 | 20221111T12:21:51Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
 | 20221111T10:24:01Z | CVE-2022-3942 | Null | https://github.com/maikroservice/CVE-2022-3942 | | 
-| 20221111T07:00:58Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221112T01:56:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9189 | 311| 
+| 20221112T09:49:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9194 | 311| 
 | 20221109T13:11:06Z | Null | https://github.com/KLee7777/IBMDataScienceKLee | 0 | 0| 
 | 20221108T06:09:50Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
 | 20221108T05:37:22Z | Null | https://github.com/Sanjay-senthil/Demo-Kleen | 0 | 0| 
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T05:24:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 271 | 66| 
 | 20221111T15:21:54Z | Calumet S2EBPR pilot study | https://github.com/mckfarm/calumet_s2ebpr | 0 | 0| 
-| 20221110T11:23:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 270 | 65| 
 | 20221107T13:09:33Z | ( Code = GitHub = Jenkins = EC2 = Docker ) a simple DevOps project which will require My Codes to be pushed GitHub which will then be passed for continuous build to Jenkins and then deployed to Amazon EC2 and then to Docker for containerization | https://github.com/skills59/DevOps-s2e2 | 0 | 0| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
 | 20221102T12:59:04Z | a freshly launched simple todo app list manager built with Node.js and container running on Docker  | https://github.com/skills59/DevOps-s2e1 | 0 | 0| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T12:26:40Z | An exploitable markdown server for penetration testing practice | https://github.com/dubniczky/Exploitable-Markdown | 0 | 0| 
+| 20221112T12:25:53Z | [OSINT] Exploitation de potentielles traces à partir du GaiaID/Google ID | https://github.com/Seeraiwer/gaiated | 0 | 0| 
+| 20221112T11:54:45Z | NVD parser for CVEs, CPEs and CWEs with all known used exploits | https://github.com/iveresk/nvd-cve-parser | 0 | 0| 
+| 20221112T11:49:27Z | An implementation of the model inversion attack described in %Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures% (Fredrikson Et al.) | https://github.com/procrastimax/face-classification-model-inversion | 0 | 0| 
+| 20221112T11:17:26Z | Introduction to the exploitation of (elf-like) binary | https://github.com/loaki/42-rainfall | 0 | 0| 
+| 20221112T08:48:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12270 | 2106| 
+| 20221112T06:12:29Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 319 | 34| 
+| 20221112T03:43:32Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 43 | 25| 
 | 20221112T02:31:32Z | ANE kernel r/w exploit for iOS 15 and macOS 12  | https://github.com/0x36/weightBufs | 60 | 3| 
 | 20221112T01:56:33Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7305 | 1755| 
-| 20221112T01:48:22Z | Null | https://github.com/AlaskaC2/Exploits | 0 | 0| 
-| 20221112T01:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANu | 1 | 0| 
-| 20221112T01:20:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANu | 1 | 0| 
-| 20221112T01:19:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANu | 1 | 0| 
-| 20221112T01:00:10Z | Null | https://github.com/ModExploit/ModExploit.github.io | 2 | 0| 
-| 20221111T23:45:47Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 5 | 0| 
-| 20221111T22:58:03Z | Currently the PS Vita PS4 Link app Reverse Engineering project (which should hopefully lead us into finding a way to exploit the PS4) | https://github.com/VaxVok/VakushiiVitaFT4 | 0 | 0| 
-| 20221111T22:53:02Z | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T11:27:35Z | backdoor em python | https://github.com/TsuomiLOL/backdoor | 0 | 0| 
+| 20221112T09:13:20Z | Null | https://github.com/leam01123/backdoor | 0 | 0| 
+| 20221112T09:07:06Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 46 | 26| 
+| 20221112T07:51:12Z | An improved method for making CNN immune to Backdoor Attack by Activating Clustering | https://github.com/HelloLeexy/immune_backdoor_attack | 0 | 0| 
+| 20221112T07:29:32Z | Null | https://github.com/marwanomar1/NLP-backdoor-with-K-means-clustering | 0 | 0| 
+| 20221112T05:39:18Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 0 | 0| 
 | 20221112T01:56:33Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7305 | 1755| 
 | 20221111T22:53:30Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 8| 
 | 20221111T12:26:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 88 | 11| 
-| 20221111T07:31:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 45 | 26| 
 | 20221111T07:14:00Z | install backdoor on target computer | https://github.com/drycko/reverse_backdoor | 0 | 0| 
-| 20221111T05:36:06Z | Null | https://github.com/Verse-Hub/BackDoor-UI | 0 | 0| 
-| 20221110T18:37:55Z | Null | https://github.com/c4lyp5o/dpims-backdoor | 0 | 0| 
-| 20221110T07:25:13Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 63 | 18| 
-| 20221110T04:41:05Z | Using a batch file to evade Windows Defender and insert a backdoor. | https://github.com/RosePwns/DefenderOldSchool | 1 | 0| 
-| 20221110T03:05:33Z | Evade Defender and Backdoor Windows 11/10 | https://github.com/RosePwns/DefenderEvader | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -144,6 +144,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T10:34:50Z | Null | https://github.com/raihanchaira/Fuzzy-Logic | 0 | 0| 
+| 20221112T09:22:36Z | Null | https://github.com/meetAmarAtGithub/8_Fuzzy_Logic | 0 | 0| 
+| 20221112T09:11:46Z | Null | https://github.com/ConannDoylee/DeadzoneFuzzy | 0 | 0| 
 | 20221112T02:37:23Z | Null | https://github.com/RhayLiberty/fuzzy-pancake | 0 | 0| 
 | 20221112T02:23:13Z | MuFuzz: Enlightening Smart Contract Fuzzing via State-Oriented Mutation and Dynamic Energy Adjustment (ISSTA 2023 Under Review) | https://github.com/PaperCodeBase/MuFuzz | 0 | 0| 
 | 20221112T01:39:20Z | HTML and CSS Course Assignment - GameHub - Aleks | https://github.com/aBadMan91/fuzzy-octo-system | 0 | 0| 
@@ -151,9 +154,6 @@
 | 20221111T21:12:21Z | Config files for my GitHub profile. | https://github.com/Fuzzlefish/Fuzzlefish | 0 | 0| 
 | 20221111T20:53:51Z | LFI-Fuzzing | https://github.com/Steiner-254/LFI-Fuzzing | 1 | 0| 
 | 20221111T19:45:15Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
-| 20221111T19:08:12Z | Go ile sitenin alt sayfalarını arama | https://github.com/MKLKCDG/Golang_Fuzzing_Tool | 0 | 0| 
-| 20221111T18:47:08Z | Null | https://github.com/huangzhangchi/fuzzy-blue-lights | 0 | 0| 
-| 20221111T17:55:14Z | Null | https://github.com/vansh1/fuzz | 0 | 0| 
 
 
 
