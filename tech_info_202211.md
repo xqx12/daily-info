@@ -101,26 +101,26 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T22:53:30Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 8| 
+| 20221111T16:22:56Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7304 | 1755| 
 | 20221111T12:26:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 88 | 11| 
-| 20221111T11:01:38Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7302 | 1755| 
-| 20221111T07:31:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 45 | 25| 
+| 20221111T07:31:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 45 | 26| 
 | 20221111T07:14:00Z | install backdoor on target computer | https://github.com/drycko/reverse_backdoor | 0 | 0| 
 | 20221111T05:36:06Z | Null | https://github.com/Verse-Hub/BackDoor-UI | 0 | 0| 
 | 20221110T18:37:55Z | Null | https://github.com/c4lyp5o/dpims-backdoor | 0 | 0| 
 | 20221110T07:25:13Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 63 | 18| 
 | 20221110T04:41:05Z | Using a batch file to evade Windows Defender and insert a backdoor. | https://github.com/RosePwns/DefenderOldSchool | 1 | 0| 
 | 20221110T03:05:33Z | Evade Defender and Backdoor Windows 11/10 | https://github.com/RosePwns/DefenderEvader | 1 | 0| 
-| 20221110T02:59:30Z | Shell Backdoor | https://github.com/dewanggakm/limshell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221111T11:37:50Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 35 | 3| 
+| 20221111T20:58:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 591 | 105| 
+| 20221111T20:26:33Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 38 | 3| 
+| 20221111T15:36:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3197 | 452| 
 | 20221110T22:30:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1241 | 58| 
-| 20221110T21:54:00Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3196 | 452| 
 | 20221110T11:23:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 270 | 65| 
-| 20221109T18:08:12Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 590 | 105| 
 | 20221109T17:50:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2102 | 594| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
 | 20221107T02:01:34Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 21 | 6| 

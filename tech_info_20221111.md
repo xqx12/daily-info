@@ -74,9 +74,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T22:53:30Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 8| 
+| 20221111T16:22:56Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7304 | 1755| 
 | 20221111T12:26:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 88 | 11| 
-| 20221111T11:01:38Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7302 | 1755| 
-| 20221111T07:31:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 45 | 25| 
+| 20221111T07:31:21Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 45 | 26| 
 | 20221111T07:14:00Z | install backdoor on target computer | https://github.com/drycko/reverse_backdoor | 0 | 0| 
 | 20221111T05:36:06Z | Null | https://github.com/Verse-Hub/BackDoor-UI | 0 | 0| 
 
@@ -84,7 +85,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221111T11:37:50Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 35 | 3| 
+| 20221111T20:58:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 591 | 105| 
+| 20221111T20:26:33Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 38 | 3| 
+| 20221111T15:36:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3197 | 452| 
 
 
 # big4 on Github 推荐
