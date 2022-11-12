@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T13:23:43Z | Null | https://github.com/ab-dm/fuzzy-octo-eureka | 0 | 0| 
 | 20221112T10:34:50Z | Null | https://github.com/raihanchaira/Fuzzy-Logic | 0 | 0| 
 | 20221112T09:22:36Z | Null | https://github.com/meetAmarAtGithub/8_Fuzzy_Logic | 0 | 0| 
 | 20221112T09:11:46Z | Null | https://github.com/ConannDoylee/DeadzoneFuzzy | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20221111T21:36:53Z | Null | https://github.com/lambdaclass/fuzzing_examples | 0 | 0| 
 | 20221111T21:12:21Z | Config files for my GitHub profile. | https://github.com/Fuzzlefish/Fuzzlefish | 0 | 0| 
 | 20221111T20:53:51Z | LFI-Fuzzing | https://github.com/Steiner-254/LFI-Fuzzing | 1 | 0| 
-| 20221111T19:45:15Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
 
 
 

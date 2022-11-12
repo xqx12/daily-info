@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T13:23:43Z | Null | https://github.com/ab-dm/fuzzy-octo-eureka | 0 | 0| 
 | 20221112T10:34:50Z | Null | https://github.com/raihanchaira/Fuzzy-Logic | 0 | 0| 
 | 20221112T09:22:36Z | Null | https://github.com/meetAmarAtGithub/8_Fuzzy_Logic | 0 | 0| 
 | 20221112T09:11:46Z | Null | https://github.com/ConannDoylee/DeadzoneFuzzy | 0 | 0| 
