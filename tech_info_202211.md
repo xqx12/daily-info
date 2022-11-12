@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221112T00:27:32Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
+| 20221111T22:53:02Z | cve-2021-29447 | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | | 
+| 20221111T18:34:30Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 
+| 20221111T16:27:19Z | CVE-2022-40140 | A Shodan hunter for CVE-2022-40140  | https://github.com/ipsBruno/CVE-2022-40140-SCANNER | | 
 | 20221111T13:47:00Z | cve-2022-5 | cve-2022-5 | https://github.com/mike-develop-root/cve-2022-5 | | 
 | 20221111T13:09:35Z | cve-2022-1 | cve-2022-1 | https://github.com/mike-develop-root/cve-2022-1 | | 
 | 20221111T12:56:52Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
 | 20221111T12:21:51Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
-| 20221111T10:57:59Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 
 | 20221111T10:24:01Z | CVE-2022-3942 | Null | https://github.com/maikroservice/CVE-2022-3942 | | 
 | 20221111T07:00:58Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
-| 20221111T00:45:23Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
-| 20221111T00:45:15Z | CVE-2021-25641 | A Exploit Tool For CVE-2021-25641. | https://github.com/l0n3rs/CVE-2021-25641 | | 
-| 20221111T00:45:09Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | | 
 
 
 # klee on Github 推荐
@@ -70,12 +70,13 @@
 | 20221105T00:17:22Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 16 | 0| 
 | 20221104T19:44:06Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
 | 20221104T07:38:03Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
-| 20221102T12:42:12Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 51| 
+| 20221102T12:42:12Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 50| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T15:21:54Z | Calumet S2EBPR pilot study | https://github.com/mckfarm/calumet_s2ebpr | 0 | 0| 
 | 20221110T11:23:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 270 | 65| 
 | 20221107T13:09:33Z | ( Code = GitHub = Jenkins = EC2 = Docker ) a simple DevOps project which will require My Codes to be pushed GitHub which will then be passed for continuous build to Jenkins and then deployed to Amazon EC2 and then to Docker for containerization | https://github.com/skills59/DevOps-s2e2 | 0 | 0| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
@@ -85,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T01:00:10Z | Null | https://github.com/ModExploit/ModExploit.github.io | 2 | 0| 
+| 20221112T00:22:20Z | ANE kernel r/w exploit for iOS 15 and macOS 12  | https://github.com/0x36/weightBufs | 54 | 3| 
+| 20221111T22:58:03Z | Currently the PS Vita PS4 Link app Reverse Engineering project (which should hopefully lead us into finding a way to exploit the PS4) | https://github.com/VaxVok/VakushiiVitaFT4 | 0 | 0| 
+| 20221111T22:53:02Z | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | 0 | 0| 
+| 20221111T22:39:03Z | Null | https://github.com/trhacknon/sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python- | 0 | 0| 
+| 20221111T21:03:24Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5148 | 625| 
 | 20221111T12:21:58Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 9 | 3| 
 | 20221111T12:10:30Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
 | 20221111T12:10:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12267 | 2105| 
 | 20221111T07:35:12Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 38 | 23| 
-| 20221111T07:35:07Z | 💉 Lua Executor New Updated + Dumper Scripts , Open Source C++  | https://github.com/Fnoberz/Fivem-Exec | 49 | 25| 
-| 20221111T07:35:00Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 43 | 25| 
-| 20221111T07:33:56Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 53 | 23| 
-| 20221111T03:25:57Z | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | 3192 | 624| 
-| 20221111T02:37:11Z | Null | https://github.com/yeetsquad747/exploitcb | 0 | 0| 
-| 20221111T02:25:23Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 274 | 59| 
 
 
 # backdoor on Github 推荐
@@ -143,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221111T21:36:53Z | Null | https://github.com/lambdaclass/fuzzing_examples | 0 | 0| 
+| 20221111T21:12:21Z | Config files for my GitHub profile. | https://github.com/Fuzzlefish/Fuzzlefish | 0 | 0| 
+| 20221111T20:53:51Z | LFI-Fuzzing | https://github.com/Steiner-254/LFI-Fuzzing | 1 | 0| 
+| 20221111T19:45:15Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
+| 20221111T19:08:12Z | Go ile sitenin alt sayfalarını arama | https://github.com/MKLKCDG/Golang_Fuzzing_Tool | 0 | 0| 
+| 20221111T18:47:08Z | Null | https://github.com/huangzhangchi/fuzzy-blue-lights | 0 | 0| 
+| 20221111T17:55:14Z | Null | https://github.com/vansh1/fuzz | 0 | 0| 
+| 20221111T15:29:24Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1489 | 287| 
+| 20221111T14:23:27Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 9 | 2| 
 | 20221111T12:42:00Z | Null | https://github.com/jabvbcyave/fuzzy-octo-fiesta | 0 | 0| 
-| 20221111T12:30:13Z | Null | https://github.com/user-prasad/-Muthinei-Prasad--Ann-fuzzy-logic--project | 0 | 0| 
-| 20221111T11:31:06Z | Test task for Gemicle | https://github.com/Zesoman/fuzzy-bassoon | 0 | 0| 
-| 20221111T11:12:48Z | Null | https://github.com/aayusha424/fuzzy-rotary-phone | 0 | 0| 
-| 20221111T11:02:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 97 | 8| 
-| 20221111T10:58:32Z | fuzzing bot for fuzzing infrastructure | https://github.com/daehee87/fuzzing-bot | 0 | 0| 
-| 20221111T10:23:25Z | Sedikit coretan berbasis gabut. Mohon dikoreksi kalo ada salah! | https://github.com/arshavinne/fuzzy | 1 | 0| 
-| 20221111T01:44:28Z | Null | https://github.com/crackallcode/api-fuzzer-with-JSON-response- | 0 | 0| 
-| 20221111T01:25:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4430 | 1072| 
-| 20221111T01:18:11Z | Null | https://github.com/Jodavid/seminario_ppgmds_fuzzyclass | 0 | 0| 
 
 
 
