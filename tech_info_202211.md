@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221112T02:15:41Z | Null | https://github.com/PaperCodeBase/MuFuzz | 0 | 0| 
+| 20221112T02:23:13Z | MuFuzz: Enlightening Smart Contract Fuzzing via State-Oriented Mutation and Dynamic Energy Adjustment (ISSTA 2023 Under Review) | https://github.com/PaperCodeBase/MuFuzz | 0 | 0| 
 | 20221112T01:39:20Z | HTML and CSS Course Assignment - GameHub - Aleks | https://github.com/aBadMan91/fuzzy-octo-system | 0 | 0| 
 | 20221111T21:36:53Z | Null | https://github.com/lambdaclass/fuzzing_examples | 0 | 0| 
 | 20221111T21:12:21Z | Config files for my GitHub profile. | https://github.com/Fuzzlefish/Fuzzlefish | 0 | 0| 
