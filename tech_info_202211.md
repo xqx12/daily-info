@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T01:51:22Z | ANE kernel r/w exploit for iOS 15 and macOS 12  | https://github.com/0x36/weightBufs | 58 | 3| 
 | 20221112T01:48:22Z | Null | https://github.com/AlaskaC2/Exploits | 0 | 0| 
-| 20221112T01:22:00Z | ANE kernel r/w exploit for iOS 15 and macOS 12  | https://github.com/0x36/weightBufs | 57 | 3| 
 | 20221112T01:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANu | 1 | 0| 
 | 20221112T01:20:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANu | 1 | 0| 
 | 20221112T01:19:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANu | 1 | 0| 
