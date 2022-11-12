@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T01:48:22Z | Null | https://github.com/AlaskaC2/Exploits | 0 | 0| 
 | 20221112T01:22:00Z | ANE kernel r/w exploit for iOS 15 and macOS 12  | https://github.com/0x36/weightBufs | 57 | 3| 
 | 20221112T01:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANu | 1 | 0| 
 | 20221112T01:20:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANu | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20221111T22:58:03Z | Currently the PS Vita PS4 Link app Reverse Engineering project (which should hopefully lead us into finding a way to exploit the PS4) | https://github.com/VaxVok/VakushiiVitaFT4 | 0 | 0| 
 | 20221111T22:53:02Z | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | 0 | 0| 
 | 20221111T22:39:03Z | Null | https://github.com/trhacknon/sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python- | 0 | 0| 
-| 20221111T21:03:24Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5148 | 625| 
 
 
 # backdoor on Github 推荐
