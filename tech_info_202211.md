@@ -61,12 +61,12 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T00:04:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9188 | 311| 
 | 20221109T13:11:06Z | Null | https://github.com/KLee7777/IBMDataScienceKLee | 0 | 0| 
 | 20221108T06:09:50Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
 | 20221108T05:37:22Z | Null | https://github.com/Sanjay-senthil/Demo-Kleen | 0 | 0| 
 | 20221108T05:37:04Z | Null | https://github.com/SandeapViswaprasad/Kleeen_demo_sample | 0 | 0| 
 | 20221107T13:51:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 127 | 1| 
-| 20221107T13:42:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9149 | 310| 
 | 20221105T00:17:22Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 16 | 0| 
 | 20221104T19:44:06Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
 | 20221104T07:38:03Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
@@ -91,11 +91,11 @@
 | 20221112T01:20:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANu | 1 | 0| 
 | 20221112T01:19:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANu | 1 | 0| 
 | 20221112T01:00:10Z | Null | https://github.com/ModExploit/ModExploit.github.io | 2 | 0| 
+| 20221111T23:45:47Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 5 | 0| 
 | 20221111T22:58:03Z | Currently the PS Vita PS4 Link app Reverse Engineering project (which should hopefully lead us into finding a way to exploit the PS4) | https://github.com/VaxVok/VakushiiVitaFT4 | 0 | 0| 
 | 20221111T22:53:02Z | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | 0 | 0| 
 | 20221111T22:39:03Z | Null | https://github.com/trhacknon/sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python- | 0 | 0| 
 | 20221111T21:03:24Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5148 | 625| 
-| 20221111T12:21:58Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 9 | 3| 
 
 
 # backdoor on Github 推荐
