@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221112T02:04:03Z | ANE kernel r/w exploit for iOS 15 and macOS 12  | https://github.com/0x36/weightBufs | 59 | 3| 
+| 20221112T02:31:32Z | ANE kernel r/w exploit for iOS 15 and macOS 12  | https://github.com/0x36/weightBufs | 60 | 3| 
 | 20221112T01:56:33Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7305 | 1755| 
 | 20221112T01:48:22Z | Null | https://github.com/AlaskaC2/Exploits | 0 | 0| 
 | 20221112T01:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANu | 1 | 0| 
