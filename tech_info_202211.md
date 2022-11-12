@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T01:19:37Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANu | 0 | 0| 
+| 20221112T01:19:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANu | 1 | 0| 
 | 20221112T01:16:48Z | ANE kernel r/w exploit for iOS 15 and macOS 12  | https://github.com/0x36/weightBufs | 56 | 3| 
 | 20221112T01:00:10Z | Null | https://github.com/ModExploit/ModExploit.github.io | 2 | 0| 
 | 20221111T22:58:03Z | Currently the PS Vita PS4 Link app Reverse Engineering project (which should hopefully lead us into finding a way to exploit the PS4) | https://github.com/VaxVok/VakushiiVitaFT4 | 0 | 0| 
@@ -94,8 +96,6 @@
 | 20221111T21:03:24Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5148 | 625| 
 | 20221111T12:21:58Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 9 | 3| 
 | 20221111T12:10:30Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
-| 20221111T12:10:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12267 | 2105| 
-| 20221111T07:35:12Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 38 | 23| 
 
 
 # backdoor on Github 推荐
