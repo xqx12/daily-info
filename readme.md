@@ -64,11 +64,11 @@
 | 20221111T22:53:02Z | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | 0 | 0| 
 | 20221111T22:39:03Z | Null | https://github.com/trhacknon/sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python- | 0 | 0| 
 | 20221111T21:03:24Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5148 | 625| 
+| 20221111T15:21:41Z | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | 154 | 19| 
 | 20221111T12:21:58Z | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | 9 | 3| 
 | 20221111T12:10:30Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
 | 20221111T12:10:11Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12267 | 2105| 
 | 20221111T07:35:12Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 38 | 23| 
-| 20221111T07:35:07Z | 💉 Lua Executor New Updated + Dumper Scripts , Open Source C++  | https://github.com/Fnoberz/Fivem-Exec | 49 | 25| 
 
 
 # backdoor on Github 推荐
