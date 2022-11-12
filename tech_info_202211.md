@@ -144,6 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T02:37:23Z | Null | https://github.com/RhayLiberty/fuzzy-pancake | 0 | 0| 
 | 20221112T02:23:13Z | MuFuzz: Enlightening Smart Contract Fuzzing via State-Oriented Mutation and Dynamic Energy Adjustment (ISSTA 2023 Under Review) | https://github.com/PaperCodeBase/MuFuzz | 0 | 0| 
 | 20221112T01:39:20Z | HTML and CSS Course Assignment - GameHub - Aleks | https://github.com/aBadMan91/fuzzy-octo-system | 0 | 0| 
 | 20221111T21:36:53Z | Null | https://github.com/lambdaclass/fuzzing_examples | 0 | 0| 
@@ -153,7 +154,6 @@
 | 20221111T19:08:12Z | Go ile sitenin alt sayfalarını arama | https://github.com/MKLKCDG/Golang_Fuzzing_Tool | 0 | 0| 
 | 20221111T18:47:08Z | Null | https://github.com/huangzhangchi/fuzzy-blue-lights | 0 | 0| 
 | 20221111T17:55:14Z | Null | https://github.com/vansh1/fuzz | 0 | 0| 
-| 20221111T15:29:24Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1489 | 287| 
 
 
 
