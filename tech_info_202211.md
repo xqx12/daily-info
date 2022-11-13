@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T12:58:52Z | Null | https://github.com/nipunagarwal4235/fuzzy-spoon | 0 | 0| 
+| 20221113T12:54:53Z | Null | https://github.com/RoboDevelopX/AI-Fuzzy-Logic | 0 | 0| 
+| 20221113T12:54:25Z | Null | https://github.com/DylanSoren/FuzzyController | 1 | 0| 
+| 20221113T12:17:46Z | Null | https://github.com/zjuchenyuan/G-Fuzz-Linux | 0 | 0| 
+| 20221113T12:15:34Z | Null | https://github.com/KanzCoding/fuzzy-funicular | 0 | 0| 
+| 20221113T09:19:30Z | Null | https://github.com/vortiozo/fuzzy-engine | 0 | 0| 
+| 20221113T07:38:29Z | Null | https://github.com/ConannDoylee/DeadzoneFuzzy | 0 | 0| 
 | 20221113T02:31:10Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1496 | 287| 
 | 20221113T01:35:40Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
 | 20221113T00:53:20Z | Null | https://github.com/Hikaru2021/Whole-Chicken-on-Air-Fryer-Classiification-using-Fuzzy-Logic | 0 | 0| 
-| 20221113T00:22:38Z | Flipper Zero iButton Fuzzer plugin | https://github.com/xMasterX/ibutton-fuzzer | 0 | 0| 
-| 20221112T22:51:33Z | Null | https://github.com/TinchoOlivari/fuzzy-octo-disco | 0 | 0| 
-| 20221112T22:46:28Z | Config files for my GitHub profile. | https://github.com/R9-Fuzzy/R9-Fuzzy | 0 | 0| 
-| 20221112T19:51:30Z | Null | https://github.com/pollirrata/fuzzylogic | 0 | 0| 
-| 20221112T16:39:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/Nishchal1203/bluestack | 0 | 0| 
-| 20221112T14:06:59Z | Null | https://github.com/EngrShabir135/Fuzzy_c_mean_clustering | 0 | 0| 
-| 20221112T13:23:43Z | Null | https://github.com/ab-dm/fuzzy-octo-eureka | 0 | 0| 
 
 
 

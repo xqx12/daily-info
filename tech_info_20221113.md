@@ -72,10 +72,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T12:58:52Z | Null | https://github.com/nipunagarwal4235/fuzzy-spoon | 0 | 0| 
+| 20221113T12:54:53Z | Null | https://github.com/RoboDevelopX/AI-Fuzzy-Logic | 0 | 0| 
+| 20221113T12:54:25Z | Null | https://github.com/DylanSoren/FuzzyController | 1 | 0| 
+| 20221113T12:17:46Z | Null | https://github.com/zjuchenyuan/G-Fuzz-Linux | 0 | 0| 
+| 20221113T12:15:34Z | Null | https://github.com/KanzCoding/fuzzy-funicular | 0 | 0| 
+| 20221113T09:19:30Z | Null | https://github.com/vortiozo/fuzzy-engine | 0 | 0| 
+| 20221113T07:38:29Z | Null | https://github.com/ConannDoylee/DeadzoneFuzzy | 0 | 0| 
 | 20221113T02:31:10Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1496 | 287| 
 | 20221113T01:35:40Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
 | 20221113T00:53:20Z | Null | https://github.com/Hikaru2021/Whole-Chicken-on-Air-Fryer-Classiification-using-Fuzzy-Logic | 0 | 0| 
-| 20221113T00:22:38Z | Flipper Zero iButton Fuzzer plugin | https://github.com/xMasterX/ibutton-fuzzer | 0 | 0| 
 
 
 
