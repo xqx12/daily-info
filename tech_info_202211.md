@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221113T02:30:42Z | Suite of scripts for more efficient enumeration and exploitation. Endless work in progess.  | https://github.com/Orange-Joe/redreishi | 0 | 0| 
+| 20221113T02:31:44Z | Suite of scripts for more efficient enumeration and exploitation. Endless work in progess.  | https://github.com/Orange-Joe/redreishi | 0 | 0| 
 | 20221113T01:39:51Z | disable and enable chrome extension exploit with bookmarklets and javascript | https://github.com/VirescentOverlord/disable-extention | 0 | 0| 
 | 20221113T01:39:23Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 39 | 23| 
 | 20221113T00:44:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANii | 1 | 0| 
@@ -144,10 +144,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T02:31:10Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1496 | 287| 
 | 20221113T01:35:40Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
 | 20221113T00:53:20Z | Null | https://github.com/Hikaru2021/Whole-Chicken-on-Air-Fryer-Classiification-using-Fuzzy-Logic | 0 | 0| 
 | 20221113T00:22:38Z | Flipper Zero iButton Fuzzer plugin | https://github.com/xMasterX/ibutton-fuzzer | 0 | 0| 
-| 20221112T23:09:26Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1495 | 287| 
 | 20221112T22:51:33Z | Null | https://github.com/TinchoOlivari/fuzzy-octo-disco | 0 | 0| 
 | 20221112T22:46:28Z | Config files for my GitHub profile. | https://github.com/R9-Fuzzy/R9-Fuzzy | 0 | 0| 
 | 20221112T19:51:30Z | Null | https://github.com/pollirrata/fuzzylogic | 0 | 0| 

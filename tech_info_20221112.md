@@ -84,7 +84,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221112T23:09:26Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1495 | 287| 
 | 20221112T22:51:33Z | Null | https://github.com/TinchoOlivari/fuzzy-octo-disco | 0 | 0| 
 | 20221112T22:46:28Z | Config files for my GitHub profile. | https://github.com/R9-Fuzzy/R9-Fuzzy | 0 | 0| 
 | 20221112T19:51:30Z | Null | https://github.com/pollirrata/fuzzylogic | 0 | 0| 
@@ -94,6 +93,7 @@
 | 20221112T10:34:50Z | Null | https://github.com/raihanchaira/Fuzzy-Logic | 0 | 0| 
 | 20221112T09:22:36Z | Null | https://github.com/meetAmarAtGithub/8_Fuzzy_Logic | 0 | 0| 
 | 20221112T09:11:46Z | Null | https://github.com/ConannDoylee/DeadzoneFuzzy | 0 | 0| 
+| 20221112T03:46:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8039 | 1750| 
 
 
 
