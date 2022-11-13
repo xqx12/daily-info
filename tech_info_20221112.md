@@ -50,9 +50,9 @@
 | 20221112T21:57:43Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 52 | 23| 
 | 20221112T20:13:06Z | Null | https://github.com/bhagvatgiri/WavLink-Router-Exploitation | 0 | 0| 
 | 20221112T18:39:25Z | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | 8 | 2| 
+| 20221112T18:33:25Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 5150 | 625| 
 | 20221112T16:59:51Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 344 | 250| 
 | 20221112T13:44:48Z | [OSINT] Exploitation of potential traces from the GaiaID/Google ID | https://github.com/Seeraiwer/gaiated | 0 | 0| 
-| 20221112T12:26:40Z | An exploitable markdown server for penetration testing practice | https://github.com/dubniczky/Exploitable-Markdown | 0 | 0| 
 
 
 # backdoor on Github 推荐
