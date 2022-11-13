@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T13:57:43Z | Config files for my GitHub profile. | https://github.com/Kleeby/Kleeby | 0 | 0| 
 | 20221113T11:29:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9203 | 311| 
 | 20221113T10:28:35Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
 | 20221113T07:02:58Z | Null | https://github.com/Klee345/kLEE | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221108T06:09:50Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
 | 20221108T05:37:22Z | Null | https://github.com/Sanjay-senthil/Demo-Kleen | 0 | 0| 
 | 20221108T05:37:04Z | Null | https://github.com/SandeapViswaprasad/Kleeen_demo_sample | 0 | 0| 
-| 20221107T13:51:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 127 | 1| 
 
 
 # s2e on Github 推荐
@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T14:21:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnh | 0 | 0| 
+| 20221113T14:20:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANnh | 0 | 0| 
 | 20221113T13:24:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12275 | 2108| 
 | 20221113T13:18:10Z | Counter Blox : Sauce - Restored OP Exploits | https://github.com/ExplodingBottle/RobloxCBSExploits | 0 | 0| 
 | 20221113T12:36:09Z | Efficient implementation of Gaussian factorial model that exploits the Cumulative Shrinkage Process prior. | https://github.com/LorenzoCif/CUSP_Cpp | 0 | 0| 
@@ -94,8 +96,6 @@
 | 20221113T10:52:41Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 2 | 1| 
 | 20221113T10:28:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5043 | 700| 
 | 20221113T08:46:22Z | I wrote a nice malware in c that is capeable to destroy windows security. it involoves a fresh privilege esxelation exploit, lsass dumper, reverse shell, keylogging, iat hooking, hollowing, dll injection and more!! | https://github.com/IlayTheVuln/WindowsOffender | 3 | 0| 
-| 20221113T07:04:15Z | for android and windows | https://github.com/hariJP/exploits | 0 | 0| 
-| 20221113T04:33:49Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 276 | 59| 
 
 
 # backdoor on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221113T13:57:01Z | This code is slightly simplified implementation of fuzzy control. | https://github.com/43254022km/FuzzyControl | 0 | 0| 
+| 20221113T14:16:29Z | A slightly simple implementation of fuzzy control. | https://github.com/43254022km/FuzzyControl | 2 | 0| 
+| 20221113T14:13:58Z | Qiyana : .py tool for fuzzing directories,params,etc.. | https://github.com/SirBugs/Qiyana | 0 | 0| 
+| 20221113T14:10:45Z | Null | https://github.com/DylanSoren/FuzzyController | 2 | 0| 
+| 20221113T14:09:49Z | Null | https://github.com/albyhlx/fuzzy-umbrella | 1 | 0| 
 | 20221113T12:58:52Z | Null | https://github.com/nipunagarwal4235/fuzzy-spoon | 0 | 0| 
 | 20221113T12:54:53Z | Null | https://github.com/RoboDevelopX/AI-Fuzzy-Logic | 0 | 0| 
-| 20221113T12:54:25Z | Null | https://github.com/DylanSoren/FuzzyController | 1 | 0| 
 | 20221113T12:17:46Z | Null | https://github.com/zjuchenyuan/G-Fuzz-Linux | 0 | 0| 
 | 20221113T12:15:34Z | Null | https://github.com/KanzCoding/fuzzy-funicular | 0 | 0| 
 | 20221113T09:19:30Z | Null | https://github.com/vortiozo/fuzzy-engine | 0 | 0| 
 | 20221113T07:38:29Z | Null | https://github.com/ConannDoylee/DeadzoneFuzzy | 0 | 0| 
-| 20221113T02:31:10Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1496 | 287| 
-| 20221113T01:35:40Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
 
 
 
