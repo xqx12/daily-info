@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221113 | 信息搜集中的Tips | https://mp.weixin.qq.com/s/zN6dasLa3fcSgqndc9Lujg| 
 | 20221112 | 从一道题入门 UEFI PWN | https://paper.seebug.org/2010/| 
 | 20221112 | ​CVE-2021-44707 Adobe Reader越界写漏洞分析与利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
 | 20221112 | USTC Hackergame 2022 | https://imlonghao.com/60.html| 
@@ -40,7 +41,6 @@
 | 20221112 | 欧洲安全局发布《2022年网络安全威胁全景》报告 | https://mp.weixin.qq.com/s/U-YwbRs7tDU93vwgpLywRw| 
 | 20221111 | 机器学习为何难以应用于真实的网络入侵检测系统？（下） | https://mp.weixin.qq.com/s/ZRMhhX6D3x2FixWonwrX0g| 
 | 20221111 | [HTB] Driver Writeup | https://mp.weixin.qq.com/s/UQlDF_fAw0-VsOdp2jQ3Wg| 
-| 20221111 | Accidental $70k Google Pixel Lock Screen Bypass | https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/| 
 
 
 # CVE Github 推荐
@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221112T16:32:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9197 | 311| 
+| 20221113T11:29:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9203 | 311| 
+| 20221113T10:28:35Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
+| 20221113T07:02:58Z | Null | https://github.com/Klee345/kLEE | 0 | 0| 
+| 20221113T06:58:46Z | Null | https://github.com/Klee345/Klee345 | 0 | 0| 
 | 20221112T15:22:36Z | Klee%s Notes! 🍀 , t.me/GIDataBot | https://github.com/shardeex/GIDataBot | 4 | 0| 
 | 20221109T13:11:06Z | Null | https://github.com/KLee7777/IBMDataScienceKLee | 0 | 0| 
 | 20221108T06:09:50Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
 | 20221108T05:37:22Z | Null | https://github.com/Sanjay-senthil/Demo-Kleen | 0 | 0| 
 | 20221108T05:37:04Z | Null | https://github.com/SandeapViswaprasad/Kleeen_demo_sample | 0 | 0| 
 | 20221107T13:51:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 127 | 1| 
-| 20221105T00:17:22Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 16 | 0| 
-| 20221104T19:44:06Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
-| 20221104T07:38:03Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T12:36:09Z | Efficient implementation of Gaussian factorial model that exploits the Cumulative Shrinkage Process prior. | https://github.com/LorenzoCif/CUSP_Cpp | 0 | 0| 
+| 20221113T12:27:56Z | Null | https://github.com/SatisfiedBucket/DoorsExploit | 0 | 0| 
+| 20221113T11:11:25Z | CloudMe 1.11.2 - Buffer Overflow, Windows remote Exploit  | https://github.com/F1r0x/Exploit-CloudMe-1.11.2- | 0 | 0| 
+| 20221113T11:10:29Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12274 | 2107| 
+| 20221113T10:52:41Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 2 | 1| 
+| 20221113T10:28:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5043 | 700| 
+| 20221113T08:46:22Z | I wrote a nice malware in c that is capeable to destroy windows security. it involoves a fresh privilege esxelation exploit, lsass dumper, reverse shell, keylogging, iat hooking, hollowing, dll injection and more!! | https://github.com/IlayTheVuln/WindowsOffender | 3 | 0| 
+| 20221113T07:04:15Z | for android and windows | https://github.com/hariJP/exploits | 0 | 0| 
+| 20221113T04:33:49Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 276 | 59| 
 | 20221113T02:31:44Z | Suite of scripts for more efficient enumeration and exploitation. Endless work in progess.  | https://github.com/Orange-Joe/redreishi | 0 | 0| 
-| 20221113T01:39:51Z | disable and enable chrome extension exploit with bookmarklets and javascript | https://github.com/VirescentOverlord/disable-extention | 0 | 0| 
-| 20221113T01:39:23Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 39 | 23| 
-| 20221113T00:44:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANii | 1 | 0| 
-| 20221113T00:43:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANii | 1 | 0| 
-| 20221113T00:42:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANii | 1 | 0| 
-| 20221112T23:55:10Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | 48 | 25| 
-| 20221112T23:47:54Z | Null | https://github.com/detour-exploiter/detour-exploiter.github.io | 0 | 0| 
-| 20221112T23:12:27Z | Null | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
-| 20221112T22:38:34Z | VidUI; The premier video-recording UI for Elemental Battlegrounds. | https://github.com/EarthToAccess/VidUI | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T12:59:32Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 10 | 0| 
+| 20221113T08:30:16Z | This Is A Python BackDoor That Downloads A Bash Script From What Ever Server You Put It On Install apache2 And Put The Bash.sh File In Your /var/www/html Folder And Change The Link In Your Backdoor.py Run The Python Script And Enjoy | https://github.com/Strxzy/Python-Backdoor | 0 | 0| 
+| 20221113T08:07:20Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7306 | 1755| 
 | 20221113T02:36:07Z | Simple Shell Backdoor By ./AmmarExploit | https://github.com/AmmarrBN/My-Shell-Backdoor | 0 | 0| 
 | 20221113T02:27:55Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 3 | 0| 
 | 20221112T17:17:57Z | A HTTP server that runs commands | https://github.com/andrtell/backdoor | 0 | 0| 
-| 20221112T16:17:46Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7307 | 1755| 
 | 20221112T11:27:35Z | backdoor em python | https://github.com/TsuomiLOL/backdoor | 0 | 0| 
 | 20221112T09:13:20Z | Null | https://github.com/leam01123/backdoor | 0 | 0| 
 | 20221112T09:07:06Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 46 | 26| 
 | 20221112T07:51:12Z | An improved method for making CNN immune to Backdoor Attack by Activating Clustering | https://github.com/HelloLeexy/immune_backdoor_attack | 0 | 0| 
-| 20221112T07:29:32Z | Null | https://github.com/marwanomar1/NLP-backdoor-with-K-means-clustering | 0 | 0| 
-| 20221112T05:39:18Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -131,6 +131,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T08:41:56Z | Null | https://github.com/Kitiyaparnnn/NDSS-Software | 0 | 0| 
 | 20221111T03:15:35Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 18 | 2| 
 | 20221110T05:25:19Z | Null | https://github.com/nosdsdfs/ndsssdss | 0 | 0| 
 | 20221109T18:16:21Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 59 | 16| 
