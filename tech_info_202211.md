@@ -144,7 +144,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221113T01:16:37Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
+| 20221113T01:35:40Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
 | 20221113T00:53:20Z | Null | https://github.com/Hikaru2021/Whole-Chicken-on-Air-Fryer-Classiification-using-Fuzzy-Logic | 0 | 0| 
 | 20221113T00:22:38Z | Flipper Zero iButton Fuzzer plugin | https://github.com/xMasterX/ibutton-fuzzer | 0 | 0| 
 | 20221112T23:09:26Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1495 | 287| 
