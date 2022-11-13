@@ -61,7 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221112T13:38:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9195 | 311| 
+| 20221112T16:32:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9197 | 311| 
+| 20221112T15:22:36Z | Klee%s Notes! 🍀 , t.me/GIDataBot | https://github.com/shardeex/GIDataBot | 4 | 0| 
 | 20221109T13:11:06Z | Null | https://github.com/KLee7777/IBMDataScienceKLee | 0 | 0| 
 | 20221108T06:09:50Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
 | 20221108T05:37:22Z | Null | https://github.com/Sanjay-senthil/Demo-Kleen | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221105T00:17:22Z | 基於 Klee One 製作的香港繁體字型 | https://github.com/ItMarki/jyunsaikaai | 16 | 0| 
 | 20221104T19:44:06Z | Null | https://github.com/akashmony01/kleensafe | 0 | 0| 
 | 20221104T07:38:03Z | Null | https://github.com/HARININARAYANAN2010/Kleeen | 0 | 0| 
-| 20221102T12:42:12Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 50| 
 
 
 # s2e on Github 推荐
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221112T13:44:48Z | [OSINT] Exploitation of potential traces from the GaiaID/Google ID | https://github.com/Seeraiwer/gaiated | 0 | 0| 
-| 20221112T12:26:40Z | An exploitable markdown server for penetration testing practice | https://github.com/dubniczky/Exploitable-Markdown | 0 | 0| 
-| 20221112T11:54:45Z | NVD parser for CVEs, CPEs and CWEs with all known used exploits | https://github.com/iveresk/nvd-cve-parser | 0 | 0| 
-| 20221112T11:49:27Z | An implementation of the model inversion attack described in %Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures% (Fredrikson Et al.) | https://github.com/procrastimax/face-classification-model-inversion | 0 | 0| 
-| 20221112T11:17:26Z | Introduction to the exploitation of (elf-like) binary | https://github.com/loaki/42-rainfall | 0 | 0| 
-| 20221112T08:48:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12270 | 2106| 
-| 20221112T06:12:29Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 319 | 34| 
-| 20221112T03:43:32Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 43 | 25| 
-| 20221112T02:31:32Z | ANE kernel r/w exploit for iOS 15 and macOS 12  | https://github.com/0x36/weightBufs | 60 | 3| 
-| 20221112T01:56:33Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7305 | 1755| 
+| 20221113T00:44:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANii | 1 | 0| 
+| 20221113T00:43:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANii | 1 | 0| 
+| 20221113T00:42:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANii | 1 | 0| 
+| 20221112T23:55:10Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | 48 | 25| 
+| 20221112T23:47:54Z | Null | https://github.com/detour-exploiter/detour-exploiter.github.io | 0 | 0| 
+| 20221112T23:12:27Z | Null | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
+| 20221112T22:38:34Z | VidUI; The premier video-recording UI for Elemental Battlegrounds. | https://github.com/EarthToAccess/VidUI | 0 | 0| 
+| 20221112T21:57:43Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 52 | 23| 
+| 20221112T20:13:06Z | Null | https://github.com/bhagvatgiri/WavLink-Router-Exploitation | 0 | 0| 
+| 20221112T18:39:25Z | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | 8 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221112T17:17:57Z | A HTTP server that runs commands | https://github.com/andrtell/backdoor | 0 | 0| 
+| 20221112T16:17:46Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7307 | 1755| 
 | 20221112T11:27:35Z | backdoor em python | https://github.com/TsuomiLOL/backdoor | 0 | 0| 
 | 20221112T09:13:20Z | Null | https://github.com/leam01123/backdoor | 0 | 0| 
 | 20221112T09:07:06Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 46 | 26| 
 | 20221112T07:51:12Z | An improved method for making CNN immune to Backdoor Attack by Activating Clustering | https://github.com/HelloLeexy/immune_backdoor_attack | 0 | 0| 
 | 20221112T07:29:32Z | Null | https://github.com/marwanomar1/NLP-backdoor-with-K-means-clustering | 0 | 0| 
 | 20221112T05:39:18Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 0 | 0| 
-| 20221112T01:56:33Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7305 | 1755| 
 | 20221111T22:53:30Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 8| 
 | 20221111T12:26:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 88 | 11| 
-| 20221111T07:14:00Z | install backdoor on target computer | https://github.com/drycko/reverse_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -144,16 +144,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T00:53:20Z | Null | https://github.com/Hikaru2021/Whole-Chicken-on-Air-Fryer-Classiification-using-Fuzzy-Logic | 0 | 0| 
+| 20221113T00:22:38Z | Flipper Zero iButton Fuzzer plugin | https://github.com/xMasterX/ibutton-fuzzer | 0 | 0| 
+| 20221112T23:09:26Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1495 | 287| 
+| 20221112T22:51:33Z | Null | https://github.com/TinchoOlivari/fuzzy-octo-disco | 0 | 0| 
+| 20221112T22:46:28Z | Config files for my GitHub profile. | https://github.com/R9-Fuzzy/R9-Fuzzy | 0 | 0| 
+| 20221112T20:22:42Z | Web Fuzzer | https://github.com/0bfxgh0st/fuzz | 3 | 0| 
+| 20221112T19:51:30Z | Null | https://github.com/pollirrata/fuzzylogic | 0 | 0| 
+| 20221112T16:39:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/Nishchal1203/bluestack | 0 | 0| 
 | 20221112T14:06:59Z | Null | https://github.com/EngrShabir135/Fuzzy_c_mean_clustering | 0 | 0| 
 | 20221112T13:23:43Z | Null | https://github.com/ab-dm/fuzzy-octo-eureka | 0 | 0| 
-| 20221112T10:34:50Z | Null | https://github.com/raihanchaira/Fuzzy-Logic | 0 | 0| 
-| 20221112T09:22:36Z | Null | https://github.com/meetAmarAtGithub/8_Fuzzy_Logic | 0 | 0| 
-| 20221112T09:11:46Z | Null | https://github.com/ConannDoylee/DeadzoneFuzzy | 0 | 0| 
-| 20221112T02:37:23Z | Null | https://github.com/RhayLiberty/fuzzy-pancake | 0 | 0| 
-| 20221112T02:23:13Z | MuFuzz: Enlightening Smart Contract Fuzzing via State-Oriented Mutation and Dynamic Energy Adjustment (ISSTA 2023 Under Review) | https://github.com/PaperCodeBase/MuFuzz | 0 | 0| 
-| 20221112T01:39:20Z | HTML and CSS Course Assignment - GameHub - Aleks | https://github.com/aBadMan91/fuzzy-octo-system | 0 | 0| 
-| 20221111T21:36:53Z | Null | https://github.com/lambdaclass/fuzzing_examples | 0 | 0| 
-| 20221111T21:12:21Z | Config files for my GitHub profile. | https://github.com/Fuzzlefish/Fuzzlefish | 0 | 0| 
 
 
 
