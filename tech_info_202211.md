@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221113 | optee学习(2) CA&TA调用流程分析 | https://o0xmuhe.github.io/2022/10/26/optee%E5%AD%A6%E4%B9%A0-2-CA-TA/| 
 | 20221111 | POC 2022 会议，有研究员从安全角度对 Rust 语言的分析 | http://www.msuiche.com/posts/poc-2022-korea-keynote/| 
 | 20221111 | 微软 MSTIC 威胁情报团队在 CyberWarCon 2022 会议分享议题的一些细节 | https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/| 
 | 20221111 | 浏览器证书颁发机构自身信誉度的安全隐患分析 | http://www.schneier.com/blog/archives/2022/11/an-untrustworthy-tls-certificate-in-browsers.html| 
@@ -25,7 +26,6 @@
 | 20221110 | Lenovo Diagnostics 驱动（Windows）访问控制处理不当，导致低权限进程可以实现任意物理、虚拟内存地址读写 | https://github.com/alfarom256/CVE-2022-3699/| 
 | 20221110 | PyPI 包管理市场的 apicolor 包利用图片隐写技术隐藏恶意代码 | http://research.checkpoint.com/2022/check-point-cloudguard-spectral-exposes-new-obfuscation-techniques-for-malicious-packages-on-pypi/| 
 | 20221110 | 2021 年天府杯中使用的 Adobe Reader 越界写漏洞（​CVE-2021-44707）的分析和利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
-| 20221110 | Dumping Lsass Process Memory In Different Ways | https://tttang.com/archive/1810/| 
 
 
 # 安全维基 推荐

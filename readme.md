@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221113 | optee学习(2) CA&TA调用流程分析 | https://o0xmuhe.github.io/2022/10/26/optee%E5%AD%A6%E4%B9%A0-2-CA-TA/| 
 
 
 # 安全维基 推荐
