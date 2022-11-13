@@ -36,11 +36,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T13:24:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12275 | 2107| 
 | 20221113T13:18:10Z | Counter Blox : Sauce - Restored OP Exploits | https://github.com/ExplodingBottle/RobloxCBSExploits | 0 | 0| 
 | 20221113T12:36:09Z | Efficient implementation of Gaussian factorial model that exploits the Cumulative Shrinkage Process prior. | https://github.com/LorenzoCif/CUSP_Cpp | 0 | 0| 
 | 20221113T12:27:56Z | Null | https://github.com/SatisfiedBucket/DoorsExploit | 0 | 0| 
 | 20221113T11:11:25Z | CloudMe 1.11.2 - Buffer Overflow, Windows remote Exploit  | https://github.com/F1r0x/Exploit-CloudMe-1.11.2- | 0 | 0| 
-| 20221113T11:10:29Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12274 | 2107| 
 | 20221113T10:52:41Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 2 | 1| 
 | 20221113T10:28:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5043 | 700| 
 | 20221113T08:46:22Z | I wrote a nice malware in c that is capeable to destroy windows security. it involoves a fresh privilege esxelation exploit, lsass dumper, reverse shell, keylogging, iat hooking, hollowing, dll injection and more!! | https://github.com/IlayTheVuln/WindowsOffender | 3 | 0| 
