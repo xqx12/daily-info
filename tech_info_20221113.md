@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T13:16:45Z | Counter Blox : Sauce - Restored OP Exploits | https://github.com/ExplodingBottle/RobloxCBSExploits | 0 | 0| 
 | 20221113T12:36:09Z | Efficient implementation of Gaussian factorial model that exploits the Cumulative Shrinkage Process prior. | https://github.com/LorenzoCif/CUSP_Cpp | 0 | 0| 
 | 20221113T12:27:56Z | Null | https://github.com/SatisfiedBucket/DoorsExploit | 0 | 0| 
 | 20221113T11:11:25Z | CloudMe 1.11.2 - Buffer Overflow, Windows remote Exploit  | https://github.com/F1r0x/Exploit-CloudMe-1.11.2- | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20221113T08:46:22Z | I wrote a nice malware in c that is capeable to destroy windows security. it involoves a fresh privilege esxelation exploit, lsass dumper, reverse shell, keylogging, iat hooking, hollowing, dll injection and more!! | https://github.com/IlayTheVuln/WindowsOffender | 3 | 0| 
 | 20221113T07:04:15Z | for android and windows | https://github.com/hariJP/exploits | 0 | 0| 
 | 20221113T04:33:49Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 276 | 59| 
-| 20221113T02:31:44Z | Suite of scripts for more efficient enumeration and exploitation. Endless work in progess.  | https://github.com/Orange-Joe/redreishi | 0 | 0| 
 
 
 # backdoor on Github 推荐
