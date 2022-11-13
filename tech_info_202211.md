@@ -86,7 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221113T01:37:48Z | disable and enable chrome extension exploit with bookmarklets and javascript | https://github.com/VirescentOverlord/disable-extention | 0 | 0| 
+| 20221113T01:39:51Z | disable and enable chrome extension exploit with bookmarklets and javascript | https://github.com/VirescentOverlord/disable-extention | 0 | 0| 
+| 20221113T01:39:23Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 39 | 23| 
 | 20221113T00:44:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANii | 1 | 0| 
 | 20221113T00:43:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANii | 1 | 0| 
 | 20221113T00:42:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANii | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20221112T23:12:27Z | Null | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
 | 20221112T22:38:34Z | VidUI; The premier video-recording UI for Elemental Battlegrounds. | https://github.com/EarthToAccess/VidUI | 0 | 0| 
 | 20221112T21:57:43Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 52 | 23| 
-| 20221112T20:13:06Z | Null | https://github.com/bhagvatgiri/WavLink-Router-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
