@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T02:27:55Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 3 | 0| 
 | 20221112T17:17:57Z | A HTTP server that runs commands | https://github.com/andrtell/backdoor | 0 | 0| 
 | 20221112T16:17:46Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7307 | 1755| 
 | 20221112T11:27:35Z | backdoor em python | https://github.com/TsuomiLOL/backdoor | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20221112T07:29:32Z | Null | https://github.com/marwanomar1/NLP-backdoor-with-K-means-clustering | 0 | 0| 
 | 20221112T05:39:18Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 0 | 0| 
 | 20221111T22:53:30Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 8| 
-| 20221111T12:26:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 88 | 11| 
 
 
 # symbolic execution on Github 推荐
