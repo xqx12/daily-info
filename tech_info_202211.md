@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T01:37:48Z | disable and enable chrome extension exploit with bookmarklets and javascript | https://github.com/VirescentOverlord/disable-extention | 0 | 0| 
 | 20221113T00:44:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANii | 1 | 0| 
 | 20221113T00:43:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANii | 1 | 0| 
 | 20221113T00:42:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANii | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20221112T22:38:34Z | VidUI; The premier video-recording UI for Elemental Battlegrounds. | https://github.com/EarthToAccess/VidUI | 0 | 0| 
 | 20221112T21:57:43Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 52 | 23| 
 | 20221112T20:13:06Z | Null | https://github.com/bhagvatgiri/WavLink-Router-Exploitation | 0 | 0| 
-| 20221112T18:39:25Z | Pentesting post exploitation tool for slack | https://github.com/NoF0rte/slack-slurp | 8 | 2| 
 
 
 # backdoor on Github 推荐
