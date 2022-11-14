@@ -45,12 +45,12 @@
 | 20221113T23:18:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvv | 1 | 0| 
 | 20221113T23:16:35Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANvv | 1 | 0| 
 | 20221113T23:06:20Z | awesome iot exploit resource | https://github.com/f0cus77/awesome-iot-security-resource | 0 | 0| 
+| 20221113T22:06:09Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 277 | 59| 
 | 20221113T18:19:34Z | Exploiting the many-time pad vulnerability  | https://github.com/cmg189/cipher_decryption | 0 | 0| 
 | 20221113T14:21:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnh | 0 | 0| 
 | 20221113T14:20:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANnh | 0 | 0| 
 | 20221113T13:24:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12275 | 2108| 
 | 20221113T13:18:10Z | Counter Blox : Sauce - Restored OP Exploits | https://github.com/ExplodingBottle/RobloxCBSExploits | 0 | 0| 
-| 20221113T12:36:09Z | Efficient implementation of Gaussian factorial model that exploits the Cumulative Shrinkage Process prior. | https://github.com/LorenzoCif/CUSP_Cpp | 0 | 0| 
 
 
 # backdoor on Github 推荐
