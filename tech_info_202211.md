@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T13:48:53Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/WebHacking-ExploitCode-POC | 0 | 0| 
 | 20221114T13:45:14Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC | 0 | 0| 
 | 20221114T13:42:41Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC- | 0 | 0| 
 | 20221114T13:10:41Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/praskaga92/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221114T12:23:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12283 | 2108| 
 | 20221114T11:50:10Z | Null | https://github.com/BladyX86/Discord-image-exploit | 0 | 0| 
 | 20221114T10:12:08Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
-| 20221114T09:42:16Z | Null | https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory | 5 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,9 +146,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T13:48:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3201 | 642| 
 | 20221114T13:28:39Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1520 | 264| 
 | 20221114T13:24:54Z | Null | https://github.com/sadiachydola/Neural-Network-and-Fuzzy-Logic | 0 | 0| 
-| 20221114T12:29:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3200 | 642| 
 | 20221114T12:29:13Z | Null | https://github.com/shraddhash123/fuzzy-succotash | 0 | 0| 
 | 20221114T10:56:20Z | Null | https://github.com/Yashwantthh/fuzzy-waddle | 0 | 0| 
 | 20221114T10:45:08Z | Fuzz Bizz Game Application | https://github.com/ManishaSh/fizzbuzzgame | 0 | 0| 
