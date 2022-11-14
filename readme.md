@@ -50,16 +50,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T12:54:36Z | Null | https://github.com/Tentgrat/Exploit | 0 | 0| 
+| 20221114T12:37:08Z | A random exploit i made for no reason | https://github.com/ilzr0/testxl | 0 | 0| 
+| 20221114T12:36:31Z | Null | https://github.com/yenil140/AntiExploitBypasser | 0 | 0| 
+| 20221114T12:23:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12283 | 2108| 
+| 20221114T11:50:10Z | Null | https://github.com/BladyX86/Discord-image-exploit | 0 | 0| 
+| 20221114T10:12:08Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
+| 20221114T09:42:16Z | Null | https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory | 5 | 0| 
+| 20221114T09:33:15Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 313 | 40| 
+| 20221114T09:27:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4694 | 688| 
 | 20221114T02:58:57Z | A collection of scripts and exploits I made for Hack the Box. | https://github.com/nuker/htb-scripts | 0 | 0| 
-| 20221114T02:47:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4690 | 687| 
-| 20221114T00:59:52Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-e2e-demo-ognh-exploit-describe | 0 | 0| 
-| 20221114T00:32:35Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 7 | 0| 
-| 20221114T00:10:26Z | Null | https://github.com/Deccomo/FLW-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T10:23:04Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 1 | 0| 
 | 20221114T00:57:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
 | 20221114T00:42:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 8| 
 
