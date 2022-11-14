@@ -15,6 +15,7 @@
 | 20221114 | 滥用 Google Calendar 作为一种钓鱼传播的媒介 | https://drew-sec.github.io| 
 | 20221114 | 从硬件角度研究 SpaceX Starlink 终端的安全性，利用电压错误注入的技术实现任意代码执行 | https://github.com/KULeuven-COSIC/Starlink-FI| 
 | 20221114 | Android 逻辑漏洞的重要性和优势逐渐体现，这篇 Blog 分析 Android 系统的 4 大组件以及可能存在的逻辑漏洞类型 | http://evilpan.com/2022/11/13/android-bugs/| 
+| 20221114 | IceXLoader 恶意软件破坏了全球数千名受害者的计算机 | http://paper.seebug.org/2014/| 
 | 20221113 | optee学习(2) CA&TA调用流程分析 | https://o0xmuhe.github.io/2022/10/26/optee%E5%AD%A6%E4%B9%A0-2-CA-TA/| 
 | 20221111 | POC 2022 会议，有研究员从安全角度对 Rust 语言的分析 | http://www.msuiche.com/posts/poc-2022-korea-keynote/| 
 | 20221111 | 微软 MSTIC 威胁情报团队在 CyberWarCon 2022 会议分享议题的一些细节 | https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/| 
@@ -25,7 +26,6 @@
 | 20221111 | 这篇 Blog 以 SQLite 的一个整数溢出漏洞为例介绍编译器的 Divergent representations 问题，即编译器对变量溢出的处理在不同地方不一致的问题 | http://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/| 
 | 20221111 | Google Pixel 设备被发现锁屏绕过漏洞，影响所有 Google Pixel 设备 | http://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/| 
 | 20221111 | 研究员 Mickey Jin 在这两天举办的 POC 会议上分享的多个 macOS SIP Bypass 漏洞的细节 | https://sec.today/pulses/025a68fc-96c9-4a37-9fb2-644d3b52c940/| 
-| 20221111 | 研究员 Mickey Jin 在这两天举办的 POC 会议上分享的多个 macOS SIP Bypass 漏洞的细节 | https://www.trendmicro.com/en_us/research/22/k/cve-2019-8561-a-hard-to-banish-packagekit-framework-vulnerabilit.html| 
 
 
 # 安全维基 推荐

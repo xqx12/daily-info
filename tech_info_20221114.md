@@ -15,6 +15,7 @@
 | 20221114 | 滥用 Google Calendar 作为一种钓鱼传播的媒介 | https://drew-sec.github.io| 
 | 20221114 | 从硬件角度研究 SpaceX Starlink 终端的安全性，利用电压错误注入的技术实现任意代码执行 | https://github.com/KULeuven-COSIC/Starlink-FI| 
 | 20221114 | Android 逻辑漏洞的重要性和优势逐渐体现，这篇 Blog 分析 Android 系统的 4 大组件以及可能存在的逻辑漏洞类型 | http://evilpan.com/2022/11/13/android-bugs/| 
+| 20221114 | IceXLoader 恶意软件破坏了全球数千名受害者的计算机 | http://paper.seebug.org/2014/| 
 
 
 # 安全维基 推荐
