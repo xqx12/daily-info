@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221114T13:15:16Z | Null | https://github.com/sadiachydola/Neural-Network-and-Fuzzy-Logic | 0 | 0| 
+| 20221114T13:24:54Z | Null | https://github.com/sadiachydola/Neural-Network-and-Fuzzy-Logic | 0 | 0| 
 | 20221114T12:29:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3200 | 642| 
 | 20221114T12:29:13Z | Null | https://github.com/shraddhash123/fuzzy-succotash | 0 | 0| 
 | 20221114T10:56:20Z | Null | https://github.com/Yashwantthh/fuzzy-waddle | 0 | 0| 
