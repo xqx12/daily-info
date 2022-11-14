@@ -67,7 +67,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221113T10:08:21Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 41 | 3| 
+| 20221113T23:31:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3198 | 452| 
+| 20221113T22:42:42Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 496 | 28| 
 
 
 # big4 on Github 推荐

@@ -116,16 +116,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221113T10:08:21Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 41 | 3| 
+| 20221114T00:23:03Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 44 | 3| 
+| 20221113T23:31:25Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3198 | 452| 
+| 20221113T22:42:42Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 496 | 28| 
 | 20221112T21:08:14Z | GenSym, a compiler for parallel symbolic execution of LLVM | https://github.com/Generative-Program-Analysis/GenSym | 21 | 1| 
 | 20221112T05:24:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 271 | 66| 
 | 20221111T20:58:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 591 | 106| 
-| 20221111T15:36:26Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3197 | 452| 
 | 20221110T22:30:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1241 | 58| 
 | 20221109T17:50:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2102 | 594| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
 | 20221107T02:01:34Z | A Symbolic Execution Engine for Wasm Bytecode and A Cross-Platform Smart Contract Vulnerability Detector | https://github.com/gongbell/WANA | 21 | 6| 
-| 20221103T23:58:08Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 26 | 6| 
 
 
 # big4 on Github 推荐
@@ -134,7 +134,7 @@
 | 20221113T08:41:56Z | Null | https://github.com/Kitiyaparnnn/NDSS-Software | 0 | 0| 
 | 20221111T03:15:35Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 18 | 2| 
 | 20221110T05:25:19Z | Null | https://github.com/nosdsdfs/ndsssdss | 0 | 0| 
-| 20221109T18:16:21Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 59 | 16| 
+| 20221109T18:16:21Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 59 | 15| 
 | 20221108T11:45:41Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 2 | 0| 
 | 20221108T11:23:08Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 69 | 36| 
 | 20221107T09:35:54Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 6 | 1| 
