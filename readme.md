@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T13:04:56Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/praskaga92/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 | 20221114T12:54:36Z | Null | https://github.com/Tentgrat/Exploit | 0 | 0| 
 | 20221114T12:37:08Z | A random exploit i made for no reason | https://github.com/ilzr0/testxl | 0 | 0| 
 | 20221114T12:36:31Z | Null | https://github.com/yenil140/AntiExploitBypasser | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20221114T09:42:16Z | Null | https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory | 5 | 0| 
 | 20221114T09:33:15Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 313 | 40| 
 | 20221114T09:27:21Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4694 | 688| 
-| 20221114T02:58:57Z | A collection of scripts and exploits I made for Hack the Box. | https://github.com/nuker/htb-scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
