@@ -146,10 +146,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T02:12:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1124 | 141| 
 | 20221114T00:49:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2618 | 177| 
 | 20221113T23:26:47Z | Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hair. Fuzzy Wuzzy wasn%t very fuzzy, was he? | https://github.com/jarodchase/fuzzingLists | 0 | 0| 
 | 20221113T22:54:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4868 | 499| 
-| 20221113T22:49:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1123 | 141| 
 | 20221113T22:24:00Z | Null | https://github.com/Chaos-Knight-King/fuzzy-adventure | 0 | 0| 
 | 20221113T21:31:40Z | Null | https://github.com/kenballus/url_differential_fuzzing | 0 | 0| 
 | 20221113T21:11:25Z | Null | https://github.com/PetrosyanSahak/Project_Fuzz | 0 | 0| 
