@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T13:45:14Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC | 0 | 0| 
 | 20221114T13:42:41Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC- | 0 | 0| 
 | 20221114T13:10:41Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/praskaga92/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 | 20221114T12:54:36Z | Null | https://github.com/Tentgrat/Exploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221114T11:50:10Z | Null | https://github.com/BladyX86/Discord-image-exploit | 0 | 0| 
 | 20221114T10:12:08Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
 | 20221114T09:42:16Z | Null | https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory | 5 | 0| 
-| 20221114T09:33:15Z | Proof of concept code for Datadog Security Labs referenced exploits. | https://github.com/DataDog/security-labs-pocs | 313 | 40| 
 
 
 # backdoor on Github 推荐
