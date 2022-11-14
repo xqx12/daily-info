@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T13:28:39Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1520 | 264| 
 | 20221114T13:24:54Z | Null | https://github.com/sadiachydola/Neural-Network-and-Fuzzy-Logic | 0 | 0| 
 | 20221114T12:29:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3200 | 642| 
 | 20221114T12:29:13Z | Null | https://github.com/shraddhash123/fuzzy-succotash | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221114T03:23:40Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1309 | 97| 
 | 20221114T02:28:52Z | Null | https://github.com/SirChristianWilliam/Spike-fuzzy-matching | 0 | 0| 
 | 20221114T02:12:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1124 | 141| 
-| 20221114T00:49:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2618 | 177| 
 
 
 
