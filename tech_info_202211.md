@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221114T00:36:07Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
+| 20221114T00:23:47Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
+| 20221113T16:48:19Z | CVE-2021-4045 | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | | 
+| 20221113T15:54:13Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
 | 20221112T11:37:02Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
-| 20221112T00:27:32Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221111T22:53:02Z | cve-2021-29447 | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | | 
 | 20221111T18:34:30Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 
 | 20221111T16:27:19Z | CVE-2022-40140 | A Shodan hunter for CVE-2022-40140  | https://github.com/ipsBruno/CVE-2022-40140-SCANNER | | 
 | 20221111T13:47:00Z | cve-2022-5 | cve-2022-5 | https://github.com/mike-develop-root/cve-2022-5 | | 
 | 20221111T13:09:35Z | cve-2022-1 | cve-2022-1 | https://github.com/mike-develop-root/cve-2022-1 | | 
-| 20221111T12:56:52Z | CVE-2022-3699 | Lenovo Diagnostics Driver EoP - Arbitrary R/W | https://github.com/alfarom256/CVE-2022-3699 | | 
-| 20221111T12:21:51Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
-| 20221111T10:24:01Z | CVE-2022-3942 | Null | https://github.com/maikroservice/CVE-2022-3942 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221113T22:24:50Z | Config files for my GitHub profile. | https://github.com/kleewerock22/kleewerock22 | 0 | 0| 
+| 20221113T21:07:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9205 | 311| 
 | 20221113T13:57:43Z | Config files for my GitHub profile. | https://github.com/Kleeby/Kleeby | 0 | 0| 
-| 20221113T11:29:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9203 | 311| 
 | 20221113T10:28:35Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
 | 20221113T07:02:58Z | Null | https://github.com/Klee345/kLEE | 0 | 0| 
 | 20221113T06:58:46Z | Null | https://github.com/Klee345/Klee345 | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221109T13:11:06Z | Null | https://github.com/KLee7777/IBMDataScienceKLee | 0 | 0| 
 | 20221108T06:09:50Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
 | 20221108T05:37:22Z | Null | https://github.com/Sanjay-senthil/Demo-Kleen | 0 | 0| 
-| 20221108T05:37:04Z | Null | https://github.com/SandeapViswaprasad/Kleeen_demo_sample | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,21 +86,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T00:59:52Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-e2e-demo-ognh-exploit-describe | 0 | 0| 
+| 20221114T00:32:35Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 7 | 0| 
+| 20221114T00:10:26Z | Null | https://github.com/Deccomo/FLW-Exploits | 0 | 0| 
+| 20221113T23:19:11Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANvv | 1 | 0| 
+| 20221113T23:18:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvv | 1 | 0| 
+| 20221113T23:16:35Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANvv | 1 | 0| 
+| 20221113T23:06:20Z | awesome iot exploit resource | https://github.com/f0cus77/awesome-iot-security-resource | 0 | 0| 
+| 20221113T18:19:34Z | Exploiting the many-time pad vulnerability  | https://github.com/cmg189/cipher_decryption | 0 | 0| 
 | 20221113T14:21:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnh | 0 | 0| 
 | 20221113T14:20:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANnh | 0 | 0| 
-| 20221113T13:24:39Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12275 | 2108| 
-| 20221113T13:18:10Z | Counter Blox : Sauce - Restored OP Exploits | https://github.com/ExplodingBottle/RobloxCBSExploits | 0 | 0| 
-| 20221113T12:36:09Z | Efficient implementation of Gaussian factorial model that exploits the Cumulative Shrinkage Process prior. | https://github.com/LorenzoCif/CUSP_Cpp | 0 | 0| 
-| 20221113T12:27:56Z | Null | https://github.com/SatisfiedBucket/DoorsExploit | 0 | 0| 
-| 20221113T11:11:25Z | CloudMe 1.11.2 - Buffer Overflow, Windows remote Exploit  | https://github.com/F1r0x/Exploit-CloudMe-1.11.2- | 0 | 0| 
-| 20221113T10:52:41Z | #Cybersec community | https://github.com/sujayadkesar/Let-s-Exploit | 2 | 1| 
-| 20221113T10:28:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5043 | 700| 
-| 20221113T08:46:22Z | I wrote a nice malware in c that is capeable to destroy windows security. it involoves a fresh privilege esxelation exploit, lsass dumper, reverse shell, keylogging, iat hooking, hollowing, dll injection and more!! | https://github.com/IlayTheVuln/WindowsOffender | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T00:57:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
+| 20221114T00:42:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 8| 
+| 20221113T18:27:32Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 279 | 94| 
 | 20221113T12:59:32Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 10 | 0| 
 | 20221113T08:30:16Z | This Is A Python BackDoor That Downloads A Bash Script From What Ever Server You Put It On Install apache2 And Put The Bash.sh File In Your /var/www/html Folder And Change The Link In Your Backdoor.py Run The Python Script And Enjoy | https://github.com/Strxzy/Python-Backdoor | 0 | 0| 
 | 20221113T08:07:20Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7306 | 1755| 
@@ -108,9 +111,6 @@
 | 20221113T02:27:55Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 3 | 0| 
 | 20221112T17:17:57Z | A HTTP server that runs commands | https://github.com/andrtell/backdoor | 0 | 0| 
 | 20221112T11:27:35Z | backdoor em python | https://github.com/TsuomiLOL/backdoor | 0 | 0| 
-| 20221112T09:13:20Z | Null | https://github.com/leam01123/backdoor | 0 | 0| 
-| 20221112T09:07:06Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 46 | 26| 
-| 20221112T07:51:12Z | An improved method for making CNN immune to Backdoor Attack by Activating Clustering | https://github.com/HelloLeexy/immune_backdoor_attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -145,16 +145,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221113T14:16:29Z | A slightly simple implementation of fuzzy control. | https://github.com/43254022km/FuzzyControl | 2 | 0| 
-| 20221113T14:13:58Z | Qiyana : .py tool for fuzzing directories,params,etc.. | https://github.com/SirBugs/Qiyana | 0 | 0| 
-| 20221113T14:10:45Z | Null | https://github.com/DylanSoren/FuzzyController | 2 | 0| 
-| 20221113T14:09:49Z | Null | https://github.com/albyhlx/fuzzy-umbrella | 1 | 0| 
-| 20221113T12:58:52Z | Null | https://github.com/nipunagarwal4235/fuzzy-spoon | 0 | 0| 
-| 20221113T12:54:53Z | Null | https://github.com/RoboDevelopX/AI-Fuzzy-Logic | 0 | 0| 
-| 20221113T12:17:46Z | Null | https://github.com/zjuchenyuan/G-Fuzz-Linux | 0 | 0| 
-| 20221113T12:15:34Z | Null | https://github.com/KanzCoding/fuzzy-funicular | 0 | 0| 
-| 20221113T09:19:30Z | Null | https://github.com/vortiozo/fuzzy-engine | 0 | 0| 
-| 20221113T07:38:29Z | Null | https://github.com/ConannDoylee/DeadzoneFuzzy | 0 | 0| 
+| 20221114T00:49:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2618 | 177| 
+| 20221113T23:26:47Z | Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hair. Fuzzy Wuzzy wasn%t very fuzzy, was he? | https://github.com/jarodchase/fuzzingLists | 0 | 0| 
+| 20221113T22:54:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4868 | 499| 
+| 20221113T22:49:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1123 | 141| 
+| 20221113T22:24:00Z | Null | https://github.com/Chaos-Knight-King/fuzzy-adventure | 0 | 0| 
+| 20221113T21:31:40Z | Null | https://github.com/kenballus/url_differential_fuzzing | 0 | 0| 
+| 20221113T21:11:25Z | Null | https://github.com/PetrosyanSahak/Project_Fuzz | 0 | 0| 
+| 20221113T20:31:29Z | Implementation of Gemicle test task | https://github.com/Zesoman/fuzzy-bassoon | 0 | 0| 
+| 20221113T20:22:22Z | Null | https://github.com/ilhamfadli/scm-fuzzy-tsukamoto-ta | 0 | 0| 
+| 20221113T20:22:06Z | Null | https://github.com/ilhamfadli/scm-fuzzy-tsukamoto-kp | 0 | 0| 
 
 
 
