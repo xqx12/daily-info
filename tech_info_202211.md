@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221114T02:48:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9211 | 312| 
+| 20221114T02:57:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9212 | 312| 
 | 20221113T22:24:50Z | Config files for my GitHub profile. | https://github.com/kleewerock22/kleewerock22 | 0 | 0| 
 | 20221113T13:57:43Z | Config files for my GitHub profile. | https://github.com/Kleeby/Kleeby | 0 | 0| 
 | 20221113T10:28:35Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T02:58:57Z | A collection of scripts and exploits I made for Hack the Box. | https://github.com/nuker/htb-scripts | 0 | 0| 
 | 20221114T02:47:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4690 | 687| 
 | 20221114T00:59:52Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-e2e-demo-ognh-exploit-describe | 0 | 0| 
 | 20221114T00:32:35Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 7 | 0| 
@@ -96,7 +97,6 @@
 | 20221113T23:16:35Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANvv | 1 | 0| 
 | 20221113T23:06:20Z | awesome iot exploit resource | https://github.com/f0cus77/awesome-iot-security-resource | 0 | 0| 
 | 20221113T22:06:09Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 277 | 59| 
-| 20221113T18:19:34Z | Exploiting the many-time pad vulnerability  | https://github.com/cmg189/cipher_decryption | 0 | 0| 
 
 
 # backdoor on Github 推荐
