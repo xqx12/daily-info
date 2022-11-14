@@ -52,10 +52,10 @@
 | 20221113T16:48:19Z | CVE-2021-4045 | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | | 
 | 20221113T15:54:13Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
 | 20221112T11:37:02Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
+| 20221112T01:31:10Z | CVE-2022-22947 | Spring Cloud Gateway 远程代码执行漏洞Exp Spring_Cloud_Gateway_RCE_Exp-CVE-2022-22947 | https://github.com/Axx8/CVE-2022-22947_Rce_Exp | | 
 | 20221111T22:53:02Z | cve-2021-29447 | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | | 
 | 20221111T18:34:30Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 
 | 20221111T13:47:00Z | cve-2022-5 | cve-2022-5 | https://github.com/mike-develop-root/cve-2022-5 | | 
-| 20221111T13:09:35Z | cve-2022-1 | cve-2022-1 | https://github.com/mike-develop-root/cve-2022-1 | | 
 
 
 # klee on Github 推荐
