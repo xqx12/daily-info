@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221114 | 利用 Ptrace 的调试能力实现跨进程任意 syscall 调用 | https://medium.com/@0xFounders/using-rust-and-ptrace-to-invoke-syscalls-262dc585fcd3| 
+| 20221114 | Windows CLFS 日志文件系统 CVE-2022-24481 野外漏洞的分析以及补丁的绕过分析 | http://blog.northseapwn.top/2022/11/11/Windows-Kernel-Exploit-CVE-2022-35803-in-Common-Log-File-System/index.html| 
+| 20221114 | WebKit JavaScriptCore JIT CVE-2020-9802 漏洞的分析和利用 | https://shxdow.me/cve-2020-9802/| 
+| 20221114 | 挪威一款流行的 Zaptec Pro 电动车充电桩的安全研究报告 | https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/| 
+| 20221114 | Shufflecake - 在 Linux 系统中创建隐藏分区的工具 | https://research.kudelskisecurity.com/2022/11/10/introducing-shufflecake-plausible-deniability-for-multiple-hidden-filesystems-on-linux/| 
+| 20221114 | Linux msg_msg 结构在漏洞利用中的应用以及相关的利用缓解措施分析 | https://hardenedvault.net/blog/2022-11-13-msg_msg-recon-mitigation-ved/| 
+| 20221114 | 滥用 Google Calendar 作为一种钓鱼传播的媒介 | https://drew-sec.github.io| 
+| 20221114 | 从硬件角度研究 SpaceX Starlink 终端的安全性，利用电压错误注入的技术实现任意代码执行 | https://github.com/KULeuven-COSIC/Starlink-FI| 
+| 20221114 | Android 逻辑漏洞的重要性和优势逐渐体现，这篇 Blog 分析 Android 系统的 4 大组件以及可能存在的逻辑漏洞类型 | http://evilpan.com/2022/11/13/android-bugs/| 
 | 20221113 | optee学习(2) CA&TA调用流程分析 | https://o0xmuhe.github.io/2022/10/26/optee%E5%AD%A6%E4%B9%A0-2-CA-TA/| 
 | 20221111 | POC 2022 会议，有研究员从安全角度对 Rust 语言的分析 | http://www.msuiche.com/posts/poc-2022-korea-keynote/| 
 | 20221111 | 微软 MSTIC 威胁情报团队在 CyberWarCon 2022 会议分享议题的一些细节 | https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/| 
@@ -17,20 +26,13 @@
 | 20221111 | Google Pixel 设备被发现锁屏绕过漏洞，影响所有 Google Pixel 设备 | http://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/| 
 | 20221111 | 研究员 Mickey Jin 在这两天举办的 POC 会议上分享的多个 macOS SIP Bypass 漏洞的细节 | https://sec.today/pulses/025a68fc-96c9-4a37-9fb2-644d3b52c940/| 
 | 20221111 | 研究员 Mickey Jin 在这两天举办的 POC 会议上分享的多个 macOS SIP Bypass 漏洞的细节 | https://www.trendmicro.com/en_us/research/22/k/cve-2019-8561-a-hard-to-banish-packagekit-framework-vulnerabilit.html| 
-| 20221110 | Fuzzing NVIDIA 驱动，挖掘本地提权漏洞 | https://github.com/quarkslab/conf-presentations/blob/master/Hexacon-2022/fuzzing_NVIDIA_drivers-tdore.pdf| 
-| 20221110 | 利用 Ethernet Ghosting 技术，在以太网层隐藏设备 | http://www.immunit.ch/blog/2022/10/26/ethernet-ghosting-nac-bypass/| 
-| 20221110 | 组合多个漏洞实现 IT 监控产品 Checkmk 的 RCE 系列的第二篇 | https://blog.sonarsource.com/checkmk-rce-chain-2/| 
-| 20221110 | 开源库 libxml 2 的 xmlParseNameComplex 被发现整数溢出漏洞，该漏洞影响广泛，Apple 也发布补丁修复该漏洞 | http://gitlab.gnome.org/GNOME/libxml2/-/issues/381| 
-| 20221110 | roadtx - 支持基于 Primary Refresh Token、PRT cookies 等方式实现自动化 Azure AD 认证的工具 | http://dirkjanm.io/introducing-roadtools-token-exchange-roadtx/| 
-| 20221110 | Eclypsium 安全团队在 Eurosoft 等三家公司的 bootloader 中发现多个高危漏洞，成功利用这些漏洞可以篡改系统、安装后门 | https://eclypsium.com/2022/08/11/vulnerable-bootloaders-2022/| 
-| 20221110 | Lenovo Diagnostics 驱动（Windows）访问控制处理不当，导致低权限进程可以实现任意物理、虚拟内存地址读写 | https://github.com/alfarom256/CVE-2022-3699/| 
-| 20221110 | PyPI 包管理市场的 apicolor 包利用图片隐写技术隐藏恶意代码 | http://research.checkpoint.com/2022/check-point-cloudguard-spectral-exposes-new-obfuscation-techniques-for-malicious-packages-on-pypi/| 
-| 20221110 | 2021 年天府杯中使用的 Adobe Reader 越界写漏洞（​CVE-2021-44707）的分析和利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221114 | SecWiki周刊（第454期) | https://www.sec-wiki.com/weekly/454| 
+| 20221114 | 简单实用远控小工具Todesk | https://mp.weixin.qq.com/s/lVgcikWV-GH8lX295AGr0w| 
 | 20221113 | 信息搜集中的Tips | https://mp.weixin.qq.com/s/zN6dasLa3fcSgqndc9Lujg| 
 | 20221112 | 从一道题入门 UEFI PWN | https://paper.seebug.org/2010/| 
 | 20221112 | ​CVE-2021-44707 Adobe Reader越界写漏洞分析与利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
@@ -39,29 +41,28 @@
 | 20221112 | 最近碰到的 Python pickle 反序列化小总结 | https://xz.aliyun.com/t/11807| 
 | 20221112 | jpress代码审计分享 | https://xz.aliyun.com/t/11832| 
 | 20221112 | 欧洲安全局发布《2022年网络安全威胁全景》报告 | https://mp.weixin.qq.com/s/U-YwbRs7tDU93vwgpLywRw| 
-| 20221111 | 机器学习为何难以应用于真实的网络入侵检测系统？（下） | https://mp.weixin.qq.com/s/ZRMhhX6D3x2FixWonwrX0g| 
-| 20221111 | [HTB] Driver Writeup | https://mp.weixin.qq.com/s/UQlDF_fAw0-VsOdp2jQ3Wg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221114T02:40:01Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
+| 20221114T12:47:44Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
+| 20221114T12:36:49Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
+| 20221114T08:37:02Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
 | 20221114T01:05:02Z | CVE-2022-40140 | A Shodan hunter for CVE-2022-40140  | https://github.com/ipsBruno/CVE-2022-40140-SCANNER | | 
-| 20221114T00:23:47Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
 | 20221113T16:48:19Z | CVE-2021-4045 | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | | 
 | 20221113T15:54:13Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
 | 20221112T11:37:02Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
 | 20221112T01:31:10Z | CVE-2022-22947 | Spring Cloud Gateway 远程代码执行漏洞Exp Spring_Cloud_Gateway_RCE_Exp-CVE-2022-22947 | https://github.com/Axx8/CVE-2022-22947_Rce_Exp | | 
 | 20221111T22:53:02Z | cve-2021-29447 | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | | 
 | 20221111T18:34:30Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 
-| 20221111T13:47:00Z | cve-2022-5 | cve-2022-5 | https://github.com/mike-develop-root/cve-2022-5 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221114T02:57:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9212 | 312| 
+| 20221114T09:42:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9225 | 312| 
+| 20221114T08:54:37Z | Null | https://github.com/CristiGB/klee-Card | 0 | 0| 
 | 20221113T22:24:50Z | Config files for my GitHub profile. | https://github.com/kleewerock22/kleewerock22 | 0 | 0| 
 | 20221113T13:57:43Z | Config files for my GitHub profile. | https://github.com/Kleeby/Kleeby | 0 | 0| 
 | 20221113T10:28:35Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
@@ -70,14 +71,13 @@
 | 20221112T15:22:36Z | Klee%s Notes! 🍀 , t.me/GIDataBot | https://github.com/shardeex/GIDataBot | 4 | 0| 
 | 20221109T13:11:06Z | Null | https://github.com/KLee7777/IBMDataScienceKLee | 0 | 0| 
 | 20221108T06:09:50Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
-| 20221108T05:37:22Z | Null | https://github.com/Sanjay-senthil/Demo-Kleen | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T05:58:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 272 | 66| 
 | 20221114T01:42:12Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 25 | 4| 
-| 20221112T05:24:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 271 | 66| 
 | 20221111T15:21:54Z | Calumet S2EBPR pilot study | https://github.com/mckfarm/calumet_s2ebpr | 0 | 0| 
 | 20221107T13:09:33Z | ( Code = GitHub = Jenkins = EC2 = Docker ) a simple DevOps project which will require My Codes to be pushed GitHub which will then be passed for continuous build to Jenkins and then deployed to Amazon EC2 and then to Docker for containerization | https://github.com/skills59/DevOps-s2e2 | 0 | 0| 
 | 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T12:29:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3200 | 642| 
+| 20221114T12:29:13Z | Null | https://github.com/shraddhash123/fuzzy-succotash | 0 | 0| 
+| 20221114T10:56:20Z | Null | https://github.com/Yashwantthh/fuzzy-waddle | 0 | 0| 
+| 20221114T10:45:08Z | Fuzz Bizz Game Application | https://github.com/ManishaSh/fizzbuzzgame | 0 | 0| 
+| 20221114T10:00:14Z | Null | https://github.com/RagingScout95/Fuzzy_logic_experiments | 0 | 0| 
+| 20221114T03:23:40Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1309 | 97| 
 | 20221114T02:28:52Z | Null | https://github.com/SirChristianWilliam/Spike-fuzzy-matching | 0 | 0| 
 | 20221114T02:12:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1124 | 141| 
 | 20221114T00:49:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2618 | 177| 
 | 20221113T23:26:47Z | Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hair. Fuzzy Wuzzy wasn%t very fuzzy, was he? | https://github.com/jarodchase/fuzzingLists | 0 | 0| 
-| 20221113T22:54:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4868 | 499| 
-| 20221113T22:24:00Z | Null | https://github.com/Chaos-Knight-King/fuzzy-adventure | 0 | 0| 
-| 20221113T21:31:40Z | Null | https://github.com/kenballus/url_differential_fuzzing | 0 | 0| 
-| 20221113T21:11:25Z | Null | https://github.com/PetrosyanSahak/Project_Fuzz | 0 | 0| 
-| 20221113T20:31:29Z | Implementation of Gemicle test task | https://github.com/Zesoman/fuzzy-bassoon | 0 | 0| 
-| 20221113T20:22:22Z | Null | https://github.com/ilhamfadli/scm-fuzzy-tsukamoto-ta | 0 | 0| 
 
 
 
