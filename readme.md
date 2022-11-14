@@ -27,9 +27,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221114T13:07:38Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
 | 20221114T12:47:44Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221114T12:36:49Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
-| 20221114T08:37:02Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
 | 20221114T01:05:02Z | CVE-2022-40140 | A Shodan hunter for CVE-2022-40140  | https://github.com/ipsBruno/CVE-2022-40140-SCANNER | | 
 
 
