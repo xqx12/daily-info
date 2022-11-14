@@ -96,9 +96,9 @@
 | 20221114T10:56:20Z | Null | https://github.com/Yashwantthh/fuzzy-waddle | 0 | 0| 
 | 20221114T10:45:08Z | Fuzz Bizz Game Application | https://github.com/ManishaSh/fizzbuzzgame | 0 | 0| 
 | 20221114T10:00:14Z | Null | https://github.com/RagingScout95/Fuzzy_logic_experiments | 0 | 0| 
+| 20221114T08:33:52Z | Null | https://github.com/zjuchenyuan/G-Fuzz-Linux | 0 | 1| 
 | 20221114T03:23:40Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1309 | 97| 
 | 20221114T02:28:52Z | Null | https://github.com/SirChristianWilliam/Spike-fuzzy-matching | 0 | 0| 
-| 20221114T02:12:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1124 | 141| 
 
 
 
