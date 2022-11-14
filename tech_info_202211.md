@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221114T13:05:58Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/praskaga92/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
+| 20221114T13:10:41Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/praskaga92/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 | 20221114T12:54:36Z | Null | https://github.com/Tentgrat/Exploit | 0 | 0| 
 | 20221114T12:37:08Z | A random exploit i made for no reason | https://github.com/ilzr0/testxl | 0 | 0| 
 | 20221114T12:36:31Z | Null | https://github.com/yenil140/AntiExploitBypasser | 0 | 0| 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T13:15:16Z | Null | https://github.com/sadiachydola/Neural-Network-and-Fuzzy-Logic | 0 | 0| 
 | 20221114T12:29:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3200 | 642| 
 | 20221114T12:29:13Z | Null | https://github.com/shraddhash123/fuzzy-succotash | 0 | 0| 
 | 20221114T10:56:20Z | Null | https://github.com/Yashwantthh/fuzzy-waddle | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221114T02:28:52Z | Null | https://github.com/SirChristianWilliam/Spike-fuzzy-matching | 0 | 0| 
 | 20221114T02:12:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1124 | 141| 
 | 20221114T00:49:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2618 | 177| 
-| 20221113T23:26:47Z | Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hair. Fuzzy Wuzzy wasn%t very fuzzy, was he? | https://github.com/jarodchase/fuzzingLists | 0 | 0| 
 
 
 
