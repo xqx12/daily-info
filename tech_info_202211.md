@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T02:15:14Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4687 | 687| 
 | 20221114T00:59:52Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-component-application-e2e-demo-ognh-exploit-describe | 0 | 0| 
 | 20221114T00:32:35Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 7 | 0| 
 | 20221114T00:10:26Z | Null | https://github.com/Deccomo/FLW-Exploits | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221113T23:06:20Z | awesome iot exploit resource | https://github.com/f0cus77/awesome-iot-security-resource | 0 | 0| 
 | 20221113T22:06:09Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 277 | 59| 
 | 20221113T18:19:34Z | Exploiting the many-time pad vulnerability  | https://github.com/cmg189/cipher_decryption | 0 | 0| 
-| 20221113T14:21:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnh | 0 | 0| 
 
 
 # backdoor on Github 推荐
