@@ -104,7 +104,7 @@
 | --- | --- | --- | --- | ---| 
 | 20221114T00:57:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
 | 20221114T00:42:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 8| 
-| 20221113T18:27:32Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 279 | 94| 
+| 20221113T18:27:32Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 279 | 95| 
 | 20221113T12:59:32Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 10 | 0| 
 | 20221113T08:30:16Z | This Is A Python BackDoor That Downloads A Bash Script From What Ever Server You Put It On Install apache2 And Put The Bash.sh File In Your /var/www/html Folder And Change The Link In Your Backdoor.py Run The Python Script And Enjoy | https://github.com/Strxzy/Python-Backdoor | 0 | 0| 
 | 20221113T08:07:20Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7306 | 1755| 
