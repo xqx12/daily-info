@@ -26,7 +26,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221113T22:24:50Z | Config files for my GitHub profile. | https://github.com/kleewerock22/kleewerock22 | 0 | 0| 
-| 20221113T21:07:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9205 | 311| 
 | 20221113T13:57:43Z | Config files for my GitHub profile. | https://github.com/Kleeby/Kleeby | 0 | 0| 
 | 20221113T10:28:35Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
 | 20221113T07:02:58Z | Null | https://github.com/Klee345/kLEE | 0 | 0| 
