@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T01:31:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 64 | 22| 
 | 20221115T00:33:09Z | Frontend Mentor interactive comments section challenge | https://github.com/kennyware/fuzzy-engine | 0 | 0| 
 | 20221114T23:40:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4873 | 499| 
 | 20221114T23:13:10Z | Null | https://github.com/dimitaracev/fuzzy-garbanzo | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221114T17:45:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8040 | 1751| 
 | 20221114T13:48:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3201 | 642| 
 | 20221114T13:28:39Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1520 | 264| 
-| 20221114T13:24:54Z | Null | https://github.com/sadiachydola/Neural-Network-and-Fuzzy-Logic | 0 | 0| 
 
 
 
