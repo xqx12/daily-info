@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T01:06:13Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 11 | 0| 
 | 20221115T00:21:48Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 21 | 4| 
 | 20221114T23:06:17Z | Null | https://github.com/maliciousxarxus/backdoor.php | 0 | 0| 
 | 20221114T20:05:27Z | ~  Advanced  Linux Backdoor  ~ | https://github.com/KingstonCyberSec/linux_backdoor | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20221114T00:57:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
 | 20221114T00:42:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 9| 
 | 20221113T18:27:32Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 279 | 95| 
-| 20221113T12:59:32Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 10 | 0| 
 
 
 # symbolic execution on Github 推荐
