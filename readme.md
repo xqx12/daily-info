@@ -81,6 +81,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221114T19:54:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3199 | 452| 
 | 20221114T06:02:34Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 46 | 3| 
 | 20221114T05:58:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 272 | 66| 
 | 20221114T04:35:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2107 | 597| 
