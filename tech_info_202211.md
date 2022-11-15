@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T01:22:38Z | Social WarFare Plugin (<=3.5.2) Remote Code Execution | https://github.com/caique-garbim/CVE-2019-9978_Exploit | 0 | 0| 
+| 20221115T01:23:09Z | Social WarFare Plugin (<=3.5.2) Remote Code Execution | https://github.com/caique-garbim/CVE-2019-9978_Exploit | 0 | 0| 
 | 20221115T01:11:51Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 584 | 43| 
 | 20221115T01:09:33Z | Null | https://github.com/martinsam16/xmlrpc-exploits | 0 | 0| 
 | 20221115T01:04:22Z | Script used for aim assist in the Roblox Game Client. | https://github.com/shawnjb/aim-assistant | 0 | 0| 
@@ -150,12 +150,12 @@
 | 20221114T23:40:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4873 | 499| 
 | 20221114T23:13:10Z | Null | https://github.com/dimitaracev/fuzzy-garbanzo | 0 | 0| 
 | 20221114T22:23:19Z | Null | https://github.com/Shawoy/fuzzy-wa | 0 | 0| 
+| 20221114T22:01:07Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 801 | 162| 
 | 20221114T20:29:52Z | Null | https://github.com/HexHive/GLeeFuzz | 3 | 1| 
 | 20221114T17:45:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8040 | 1751| 
 | 20221114T13:48:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3201 | 642| 
 | 20221114T13:28:39Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1520 | 264| 
 | 20221114T13:24:54Z | Null | https://github.com/sadiachydola/Neural-Network-and-Fuzzy-Logic | 0 | 0| 
-| 20221114T12:29:13Z | Null | https://github.com/shraddhash123/fuzzy-succotash | 0 | 0| 
 
 
 
