@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T01:08:41Z | Null | https://github.com/martinsam16/xmlrpc-exploits | 0 | 0| 
+| 20221115T01:09:33Z | Null | https://github.com/martinsam16/xmlrpc-exploits | 0 | 0| 
 | 20221115T01:04:22Z | Script used for aim assist in the Roblox Game Client. | https://github.com/shawnjb/aim-assistant | 0 | 0| 
 | 20221115T00:58:38Z | Source code of the FRP exploit for Android 5/6/7 running on Motorola devices | https://github.com/hippich/motorola_frp_removal | 0 | 0| 
 | 20221114T23:58:22Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
