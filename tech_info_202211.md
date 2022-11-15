@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T01:11:51Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 584 | 43| 
 | 20221115T01:09:33Z | Null | https://github.com/martinsam16/xmlrpc-exploits | 0 | 0| 
 | 20221115T01:04:22Z | Script used for aim assist in the Roblox Game Client. | https://github.com/shawnjb/aim-assistant | 0 | 0| 
 | 20221115T00:58:38Z | Source code of the FRP exploit for Android 5/6/7 running on Motorola devices | https://github.com/hippich/motorola_frp_removal | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221114T13:42:41Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC- | 0 | 0| 
 | 20221114T13:10:41Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/praskaga92/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 | 20221114T12:54:36Z | Null | https://github.com/Tentgrat/Exploit | 0 | 0| 
-| 20221114T12:37:08Z | A random exploit i made for no reason | https://github.com/ilzr0/testxl | 0 | 0| 
 
 
 # backdoor on Github 推荐
