@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20221114 | SecWiki周刊（第454期) | https://www.sec-wiki.com/weekly/454| 
 | 20221114 | 简单实用远控小工具Todesk | https://mp.weixin.qq.com/s/lVgcikWV-GH8lX295AGr0w| 
+| 20221114 | 中国eBPF大会演讲slide | https://gitee.com/linuxkerneltravel/ebpf-conference/tree/master| 
 | 20221113 | 信息搜集中的Tips | https://mp.weixin.qq.com/s/zN6dasLa3fcSgqndc9Lujg| 
 | 20221112 | 从一道题入门 UEFI PWN | https://paper.seebug.org/2010/| 
 | 20221112 | ​CVE-2021-44707 Adobe Reader越界写漏洞分析与利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
@@ -40,28 +41,29 @@
 | 20221112 | Java安全攻防之老版本 Fastjson 的一些不出网利用 | https://www.anquanke.com/post/id/283079| 
 | 20221112 | 最近碰到的 Python pickle 反序列化小总结 | https://xz.aliyun.com/t/11807| 
 | 20221112 | jpress代码审计分享 | https://xz.aliyun.com/t/11832| 
-| 20221112 | 欧洲安全局发布《2022年网络安全威胁全景》报告 | https://mp.weixin.qq.com/s/U-YwbRs7tDU93vwgpLywRw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221115T00:27:57Z | CVE-2022-40140 | A Shodan hunter for CVE-2022-40140  | https://github.com/ipsBruno/CVE-2022-40140-SCANNER | | 
+| 20221115T00:14:16Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
+| 20221114T19:10:55Z | CVE-2022-29464 | Null | https://github.com/gbrsh/CVE-2022-29464 | | 
+| 20221114T17:05:27Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
+| 20221114T14:49:23Z | CVE-2020-9484 | Exploit for Apache Tomcat deserialization (CVE-2020-9484) which could lead to RCE | https://github.com/caique-garbim/CVE-2020-9484_Exploit | | 
 | 20221114T13:07:38Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
-| 20221114T12:47:44Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221114T12:36:49Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
-| 20221114T01:05:02Z | CVE-2022-40140 | A Shodan hunter for CVE-2022-40140  | https://github.com/ipsBruno/CVE-2022-40140-SCANNER | | 
 | 20221113T16:48:19Z | CVE-2021-4045 | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | | 
 | 20221113T15:54:13Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
 | 20221112T11:37:02Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
-| 20221112T01:31:10Z | CVE-2022-22947 | Spring Cloud Gateway 远程代码执行漏洞Exp Spring_Cloud_Gateway_RCE_Exp-CVE-2022-22947 | https://github.com/Axx8/CVE-2022-22947_Rce_Exp | | 
-| 20221111T22:53:02Z | cve-2021-29447 | Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files. | https://github.com/M3l0nPan/wordpress-cve-2021-29447 | | 
-| 20221111T18:34:30Z | CVE-2022-1015 | A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel. | https://github.com/ysanatomic/CVE-2022-1015 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221114T09:42:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9225 | 312| 
+| 20221115T00:52:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9227 | 312| 
+| 20221114T19:35:33Z | Klee | https://github.com/aiskunks/Klee | 2 | 1| 
+| 20221114T15:36:44Z | Config files for my GitHub profile. | https://github.com/Kleeh62/Kleeh62 | 0 | 0| 
 | 20221114T08:54:37Z | Null | https://github.com/CristiGB/klee-Card | 0 | 0| 
 | 20221113T22:24:50Z | Config files for my GitHub profile. | https://github.com/kleewerock22/kleewerock22 | 0 | 0| 
 | 20221113T13:57:43Z | Config files for my GitHub profile. | https://github.com/Kleeby/Kleeby | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20221113T07:02:58Z | Null | https://github.com/Klee345/kLEE | 0 | 0| 
 | 20221113T06:58:46Z | Null | https://github.com/Klee345/Klee345 | 0 | 0| 
 | 20221112T15:22:36Z | Klee%s Notes! 🍀 , t.me/GIDataBot | https://github.com/shardeex/GIDataBot | 4 | 0| 
-| 20221109T13:11:06Z | Null | https://github.com/KLee7777/IBMDataScienceKLee | 0 | 0| 
-| 20221108T06:09:50Z | Null | https://github.com/Sanjay-senthil/Kleen-Software | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,6 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T00:58:38Z | Source code of the FRP exploit for Android 5/6/7 running on Motorola devices | https://github.com/hippich/motorola_frp_removal | 0 | 0| 
+| 20221115T00:18:27Z | Script used for aim assist in the Roblox Game Client. | https://github.com/shawnjb/aim-assistant | 0 | 0| 
+| 20221114T23:58:22Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
 | 20221114T13:50:50Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/WebHacking-ExploitCode-POC | 0 | 0| 
 | 20221114T13:45:14Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC | 0 | 0| 
 | 20221114T13:42:41Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC- | 0 | 0| 
@@ -94,24 +97,21 @@
 | 20221114T12:54:36Z | Null | https://github.com/Tentgrat/Exploit | 0 | 0| 
 | 20221114T12:37:08Z | A random exploit i made for no reason | https://github.com/ilzr0/testxl | 0 | 0| 
 | 20221114T12:36:31Z | Null | https://github.com/yenil140/AntiExploitBypasser | 0 | 0| 
-| 20221114T12:23:17Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12283 | 2108| 
-| 20221114T11:50:10Z | Null | https://github.com/BladyX86/Discord-image-exploit | 0 | 0| 
-| 20221114T10:12:08Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T00:21:48Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 21 | 4| 
+| 20221114T23:06:17Z | Null | https://github.com/maliciousxarxus/backdoor.php | 0 | 0| 
+| 20221114T20:05:27Z | ~  Advanced  Linux Backdoor  ~ | https://github.com/KingstonCyberSec/linux_backdoor | 0 | 0| 
+| 20221114T14:30:21Z | Flare-On 9 Challenge 8 (Backdoor) | https://github.com/ScooperUser/FlareOn9-Challenge8 | 0 | 0| 
+| 20221114T14:19:29Z | Null | https://github.com/huangbin5/backdoor_ostrack | 0 | 0| 
 | 20221114T10:23:04Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 1 | 0| 
 | 20221114T00:57:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
-| 20221114T00:42:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 8| 
+| 20221114T00:42:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 9| 
 | 20221113T18:27:32Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 279 | 95| 
 | 20221113T12:59:32Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 10 | 0| 
-| 20221113T08:30:16Z | This Is A Python BackDoor That Downloads A Bash Script From What Ever Server You Put It On Install apache2 And Put The Bash.sh File In Your /var/www/html Folder And Change The Link In Your Backdoor.py Run The Python Script And Enjoy | https://github.com/Strxzy/Python-Backdoor | 0 | 0| 
-| 20221113T08:07:20Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7306 | 1755| 
-| 20221113T02:36:07Z | Simple Shell Backdoor By ./AmmarExploit | https://github.com/AmmarrBN/My-Shell-Backdoor | 0 | 0| 
-| 20221113T02:27:55Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 3 | 0| 
-| 20221112T17:17:57Z | A HTTP server that runs commands | https://github.com/andrtell/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T00:33:09Z | Frontend Mentor interactive comments section challenge | https://github.com/kennyware/fuzzy-engine | 0 | 0| 
+| 20221114T23:40:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4873 | 499| 
+| 20221114T23:13:10Z | Null | https://github.com/dimitaracev/fuzzy-garbanzo | 0 | 0| 
+| 20221114T22:23:19Z | Null | https://github.com/Shawoy/fuzzy-wa | 0 | 0| 
+| 20221114T20:29:52Z | Null | https://github.com/HexHive/GLeeFuzz | 3 | 1| 
+| 20221114T17:45:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8040 | 1751| 
 | 20221114T13:48:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3201 | 642| 
 | 20221114T13:28:39Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1520 | 264| 
 | 20221114T13:24:54Z | Null | https://github.com/sadiachydola/Neural-Network-and-Fuzzy-Logic | 0 | 0| 
 | 20221114T12:29:13Z | Null | https://github.com/shraddhash123/fuzzy-succotash | 0 | 0| 
-| 20221114T10:56:20Z | Null | https://github.com/Yashwantthh/fuzzy-waddle | 0 | 0| 
-| 20221114T10:45:08Z | Fuzz Bizz Game Application | https://github.com/ManishaSh/fizzbuzzgame | 0 | 0| 
-| 20221114T10:00:14Z | Null | https://github.com/RagingScout95/Fuzzy_logic_experiments | 0 | 0| 
-| 20221114T08:33:52Z | Null | https://github.com/zjuchenyuan/G-Fuzz-Linux | 0 | 1| 
-| 20221114T03:54:14Z | An example fuzzer about how to fuzz a JS engine combinign Nautilus with Token-level fuzzing  | https://github.com/andreafioraldi/libafl_quickjs_fuzzing | 25 | 3| 
-| 20221114T03:23:40Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1309 | 97| 
 
 
 
