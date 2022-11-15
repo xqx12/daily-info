@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221115T01:36:30Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221115T00:27:57Z | CVE-2022-40140 | A Shodan hunter for CVE-2022-40140  | https://github.com/ipsBruno/CVE-2022-40140-SCANNER | | 
-| 20221115T00:14:16Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221114T19:10:55Z | CVE-2022-29464 | Null | https://github.com/gbrsh/CVE-2022-29464 | | 
 | 20221114T17:05:27Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
 | 20221114T14:49:23Z | CVE-2020-9484 | Exploit for Apache Tomcat deserialization (CVE-2020-9484) which could lead to RCE | https://github.com/caique-garbim/CVE-2020-9484_Exploit | | 
