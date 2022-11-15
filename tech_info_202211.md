@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T01:53:52Z | This is a menu i made that contains blooket cheats , quizlet cheats , edpuzzle - testing cheats , prodigy chetas ,,, and some other fun and useful tools | https://github.com/etxnight/Et-exploits | 0 | 0| 
+| 20221115T01:58:40Z | This is a menu i made that contains cheats, fun, and useful tools | https://github.com/etxnight/Et-exploits | 0 | 0| 
 | 20221115T01:46:28Z | bug exploit | https://github.com/catwj/bug-exploit | 0 | 0| 
 | 20221115T01:23:09Z | Social WarFare Plugin (<=3.5.2) Remote Code Execution | https://github.com/caique-garbim/CVE-2019-9978_Exploit | 0 | 0| 
 | 20221115T01:11:51Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 584 | 43| 
