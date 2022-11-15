@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T02:50:15Z | This is a menu i made that contains cheats, fun, and useful tools | https://github.com/etxnight/Et-exploits-1.3 | 1 | 0| 
 | 20221115T02:13:39Z | This is a menu i made that contains cheats, fun, and useful tools | https://github.com/etxnight/Et-exploits | 1 | 0| 
 | 20221115T01:46:28Z | bug exploit | https://github.com/catwj/bug-exploit | 0 | 0| 
 | 20221115T01:23:09Z | Social WarFare Plugin (<=3.5.2) Remote Code Execution | https://github.com/caique-garbim/CVE-2019-9978_Exploit | 0 | 0| 
@@ -96,13 +97,12 @@
 | 20221115T00:58:38Z | Source code of the FRP exploit for Android 5/6/7 running on Motorola devices | https://github.com/hippich/motorola_frp_removal | 0 | 0| 
 | 20221114T23:58:22Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
 | 20221114T13:50:50Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/WebHacking-ExploitCode-POC | 0 | 0| 
-| 20221114T13:45:14Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T01:51:02Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 22 | 5| 
+| 20221115T02:38:16Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 23 | 5| 
 | 20221115T01:06:13Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 11 | 0| 
 | 20221114T23:06:17Z | Null | https://github.com/maliciousxarxus/backdoor.php | 0 | 0| 
 | 20221114T20:05:27Z | ~  Advanced  Linux Backdoor  ~ | https://github.com/KingstonCyberSec/linux_backdoor | 0 | 0| 
@@ -146,6 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T02:39:32Z | Null | https://github.com/agussanjaya06/fuzzy-logic | 0 | 0| 
+| 20221115T02:39:02Z | Null | https://github.com/nopatgr/fuzzy-logic | 0 | 0| 
 | 20221115T01:56:43Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 849 | 181| 
 | 20221115T01:56:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3201 | 642| 
 | 20221115T01:56:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8039 | 1751| 
@@ -154,8 +156,6 @@
 | 20221114T23:40:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4873 | 499| 
 | 20221114T23:13:10Z | Null | https://github.com/dimitaracev/fuzzy-garbanzo | 0 | 0| 
 | 20221114T22:23:19Z | Null | https://github.com/Shawoy/fuzzy-wa | 0 | 0| 
-| 20221114T22:01:07Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 801 | 162| 
-| 20221114T20:29:52Z | Null | https://github.com/HexHive/GLeeFuzz | 3 | 1| 
 
 
 
