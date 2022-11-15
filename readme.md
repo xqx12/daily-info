@@ -101,11 +101,11 @@
 | 20221114T22:23:19Z | Null | https://github.com/Shawoy/fuzzy-wa | 0 | 0| 
 | 20221114T22:01:07Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 801 | 162| 
 | 20221114T20:29:52Z | Null | https://github.com/HexHive/GLeeFuzz | 3 | 1| 
-| 20221114T17:45:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8040 | 1751| 
-| 20221114T13:48:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3201 | 642| 
 | 20221114T13:28:39Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1520 | 264| 
 | 20221114T13:24:54Z | Null | https://github.com/sadiachydola/Neural-Network-and-Fuzzy-Logic | 0 | 0| 
 | 20221114T12:29:13Z | Null | https://github.com/shraddhash123/fuzzy-succotash | 0 | 0| 
+| 20221114T10:56:20Z | Null | https://github.com/Yashwantthh/fuzzy-waddle | 0 | 0| 
+| 20221114T10:45:08Z | Fuzz Bizz Game Application | https://github.com/ManishaSh/fizzbuzzgame | 0 | 0| 
 
 
 
