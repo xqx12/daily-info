@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221115T02:29:25Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
-| 20221115T01:45:22Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
-| 20221115T00:27:57Z | CVE-2022-40140 | A Shodan hunter for CVE-2022-40140  | https://github.com/ipsBruno/CVE-2022-40140-SCANNER | | 
-| 20221114T19:10:55Z | CVE-2022-29464 | Null | https://github.com/gbrsh/CVE-2022-29464 | | 
-| 20221114T17:05:27Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
-| 20221114T14:49:23Z | CVE-2020-9484 | Exploit for Apache Tomcat deserialization (CVE-2020-9484) which could lead to RCE | https://github.com/caique-garbim/CVE-2020-9484_Exploit | | 
-| 20221114T13:07:38Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
-| 20221113T16:48:19Z | CVE-2021-4045 | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | | 
-| 20221113T15:54:13Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
-| 20221112T11:37:02Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
+| 20221115T12:16:21Z | CVE-2022-29464 | Null | https://github.com/gbrsh/CVE-2022-29464 | | 
+| 20221115T11:37:58Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
+| 20221115T09:11:42Z | CVE-2022-22947 | Null | https://github.com/qq87234770/CVE-2022-22947 | | 
+| 20221115T08:52:13Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/noflowpls/CVE-2021-41773 | | 
+| 20221115T08:37:25Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
+| 20221115T08:36:55Z | CVE-2022-22947 | Spring Cloud Gateway 远程代码执行漏洞Exp Spring_Cloud_Gateway_RCE_Exp-CVE-2022-22947 | https://github.com/Axx8/CVE-2022-22947_Rce_Exp | | 
+| 20221115T08:36:51Z | CVE-2020-9484 | Exploit for Apache Tomcat deserialization (CVE-2020-9484) which could lead to RCE | https://github.com/caique-garbim/CVE-2020-9484_Exploit | | 
+| 20221115T08:35:34Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
+| 20221115T06:22:30Z | 未知编号 | Null | https://github.com/hohlovscky2017/Demo_15_11_2022_cvety | | 
+| 20221115T03:20:57Z | CVE-2021-29447 | A Golang program to automate the execution of CVE-2021-29447 | https://github.com/thomas-osgood/CVE-2021-29447 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T01:14:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9228 | 312| 
+| 20221115T13:41:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9238 | 313| 
+| 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
 | 20221114T19:35:33Z | Klee | https://github.com/aiskunks/Klee | 2 | 1| 
 | 20221114T15:36:44Z | Config files for my GitHub profile. | https://github.com/Kleeh62/Kleeh62 | 0 | 0| 
 | 20221114T08:54:37Z | Null | https://github.com/CristiGB/klee-Card | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221113T10:28:35Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
 | 20221113T07:02:58Z | Null | https://github.com/Klee345/kLEE | 0 | 0| 
 | 20221113T06:58:46Z | Null | https://github.com/Klee345/Klee345 | 0 | 0| 
-| 20221112T15:22:36Z | Klee%s Notes! 🍀 , t.me/GIDataBot | https://github.com/shardeex/GIDataBot | 4 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,46 +87,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T02:50:15Z | This is a menu i made that contains cheats, fun, and useful tools | https://github.com/etxnight/Et-exploits-1.3 | 1 | 0| 
-| 20221115T02:13:39Z | This is a menu i made that contains cheats, fun, and useful tools | https://github.com/etxnight/Et-exploits | 1 | 0| 
-| 20221115T01:46:28Z | bug exploit | https://github.com/catwj/bug-exploit | 0 | 0| 
-| 20221115T01:23:09Z | Social WarFare Plugin (<=3.5.2) Remote Code Execution | https://github.com/caique-garbim/CVE-2019-9978_Exploit | 0 | 0| 
-| 20221115T01:11:51Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 584 | 43| 
-| 20221115T01:09:33Z | Null | https://github.com/martinsam16/xmlrpc-exploits | 0 | 0| 
-| 20221115T01:04:22Z | Script used for aim assist in the Roblox Game Client. | https://github.com/shawnjb/aim-assistant | 0 | 0| 
-| 20221115T00:58:38Z | Source code of the FRP exploit for Android 5/6/7 running on Motorola devices | https://github.com/hippich/motorola_frp_removal | 0 | 0| 
-| 20221114T23:58:22Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
-| 20221114T13:50:50Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/WebHacking-ExploitCode-POC | 0 | 0| 
+| 20221115T13:56:23Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12307 | 2114| 
+| 20221115T13:26:53Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/Jennahacker/zenna_rat | 26 | 9| 
+| 20221115T13:23:04Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 100 | 7| 
+| 20221115T12:27:05Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 66 | 24| 
+| 20221115T11:48:10Z | a simple ip grabber using bloxboosts open ip (patch it please) | https://github.com/phishontop/bloxboost-exploit | 0 | 0| 
+| 20221115T10:50:45Z | Log4j vulner testing environment based on CVE-2021-44228. It provide guidance to build the sample infrastructure and the exploit scripts. Supporting cooki3 script as the main exploit tools & integration | https://github.com/hotpotcookie/log4shell-white-box | 2 | 1| 
+| 20221115T10:35:40Z | Null | https://github.com/Hustrox/Warex-Exploit | 0 | 0| 
+| 20221115T10:01:16Z | We propose an approach in which the developer interacts with the SBFL algorithm by giving feedback on the elements of the prioritized list. We exploit contextual knowledge of the user about the next item in the ranked list, with which larger code entities can be repositioned in their suspiciousness. | https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io | 2 | 0| 
+| 20221115T09:58:15Z | An Vulnerable Bank Page that is Vulnerable to Log4Shell Exploit | https://github.com/Qerim-iseni09/Insecure-Bank | 0 | 0| 
+| 20221115T09:51:55Z | Null | https://github.com/diluuk/python_exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T02:38:16Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 23 | 5| 
+| 20221115T13:53:56Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 40 | 8| 
+| 20221115T12:13:41Z | webshell免杀案例 | https://github.com/r3x5ur/webshell-free | 44 | 4| 
+| 20221115T12:03:51Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 280 | 96| 
+| 20221115T10:24:25Z | Backdoor Learning about some well known or new backdoor attacks and defenses. | https://github.com/MinqiShao/backdoor-learning | 0 | 0| 
+| 20221115T06:38:16Z | Null | https://github.com/GabrielMartorelli/backdoor | 0 | 0| 
+| 20221115T06:04:25Z | Null | https://github.com/yujingmarkjiang/Time_Series_Backdoor_Attack | 0 | 0| 
+| 20221115T04:48:29Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 2 | 0| 
+| 20221115T04:47:32Z | Backdoor in dual_ec_drbg | https://github.com/damienmaier/dual-ec-drbg-lab | 0 | 0| 
 | 20221115T01:06:13Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 11 | 0| 
-| 20221114T23:06:17Z | Null | https://github.com/maliciousxarxus/backdoor.php | 0 | 0| 
-| 20221114T20:05:27Z | ~  Advanced  Linux Backdoor  ~ | https://github.com/KingstonCyberSec/linux_backdoor | 0 | 0| 
-| 20221114T14:30:21Z | Flare-On 9 Challenge 8 (Backdoor) | https://github.com/ScooperUser/FlareOn9-Challenge8 | 0 | 0| 
-| 20221114T14:19:29Z | Null | https://github.com/huangbin5/backdoor_ostrack | 0 | 0| 
-| 20221114T10:23:04Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 1 | 0| 
-| 20221114T00:57:39Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
-| 20221114T00:42:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 23 | 9| 
-| 20221113T18:27:32Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 279 | 95| 
+| 20221114T23:24:35Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 65 | 19| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T12:38:34Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 10 | 2| 
+| 20221115T07:43:47Z | A program analysis tool based on symbolic execution to find bugs. | https://github.com/0x41-13/mit-6.858-lab3 | 1 | 0| 
+| 20221115T04:07:46Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 47 | 3| 
 | 20221114T19:54:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3199 | 452| 
-| 20221114T06:02:34Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 46 | 3| 
 | 20221114T05:58:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 272 | 66| 
 | 20221114T04:35:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2107 | 597| 
 | 20221114T01:12:25Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 2 | 0| 
 | 20221113T22:42:42Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 496 | 28| 
 | 20221112T21:08:14Z | GenSym, a compiler for parallel symbolic execution of LLVM | https://github.com/Generative-Program-Analysis/GenSym | 21 | 1| 
 | 20221111T20:58:49Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 591 | 106| 
-| 20221110T22:30:57Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1241 | 58| 
-| 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
 
 
 # big4 on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T02:39:32Z | Null | https://github.com/agussanjaya06/fuzzy-logic | 0 | 0| 
-| 20221115T02:39:02Z | Null | https://github.com/nopatgr/fuzzy-logic | 0 | 0| 
-| 20221115T01:56:43Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 849 | 181| 
-| 20221115T01:56:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3201 | 642| 
-| 20221115T01:56:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8039 | 1751| 
-| 20221115T01:31:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 64 | 22| 
-| 20221115T00:33:09Z | Frontend Mentor interactive comments section challenge | https://github.com/kennyware/fuzzy-engine | 0 | 0| 
-| 20221114T23:40:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4873 | 499| 
-| 20221114T23:13:10Z | Null | https://github.com/dimitaracev/fuzzy-garbanzo | 0 | 0| 
-| 20221114T22:23:19Z | Null | https://github.com/Shawoy/fuzzy-wa | 0 | 0| 
+| 20221115T13:36:17Z | Null | https://github.com/aedoardo/ipv6-fuzzer | 0 | 0| 
+| 20221115T13:27:26Z | fuzz corpus seed | https://github.com/willstruggle/fuzz-corpus | 0 | 0| 
+| 20221115T13:07:46Z | fuzzy k means untuk pengelompokan jenis jenis umkm, untuk peta menggunakan openstreetmap dan leaflet.js | https://github.com/imitasi11/Fuzzy-K-means-Clustering-umkm-sragen- | 0 | 0| 
+| 20221115T13:04:50Z | fuzzy K means untuk clustering, untuk map memakai Gmap API | https://github.com/imitasi11/Fuzzy-K-means-Clustering-slb-di-surakarta- | 0 | 0| 
+| 20221115T13:03:29Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 774 | 91| 
+| 20221115T12:59:57Z | menggunakan fuzzy K-means untuk clustering daerah dan menggunakan library leafletjs + Geojson untuk peta  | https://github.com/imitasi11/fuzzy-Kmeans-Clustering-Padi-Sragen | 0 | 0| 
+| 20221115T12:57:05Z | Fuzzie is a simple Rest API and GraphQL fuzzing tool as VSCode extension | https://github.com/weixian-zhang/Fuzzie | 2 | 0| 
+| 20221115T12:54:08Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 98 | 8| 
+| 20221115T12:52:26Z | menggunakan fuzzy c means untuk clustering rekomendasi pkl untuk murid smk | https://github.com/imitasi11/fuzzy-Cmeans-monitoring-pkl-smk | 0 | 0| 
+| 20221115T12:35:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4435 | 1073| 
 
 
 
