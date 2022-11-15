@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221115T01:45:22Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
 | 20221115T01:36:30Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221115T00:27:57Z | CVE-2022-40140 | A Shodan hunter for CVE-2022-40140  | https://github.com/ipsBruno/CVE-2022-40140-SCANNER | | 
 | 20221114T19:10:55Z | CVE-2022-29464 | Null | https://github.com/gbrsh/CVE-2022-29464 | | 
 | 20221114T17:05:27Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
 | 20221114T14:49:23Z | CVE-2020-9484 | Exploit for Apache Tomcat deserialization (CVE-2020-9484) which could lead to RCE | https://github.com/caique-garbim/CVE-2020-9484_Exploit | | 
 | 20221114T13:07:38Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
-| 20221114T12:36:49Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
 | 20221113T16:48:19Z | CVE-2021-4045 | Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera | https://github.com/hacefresko/CVE-2021-4045-PoC | | 
 | 20221113T15:54:13Z | CVE-2022-3949 | XSS in Simple Cashiering System | https://github.com/maikroservice/CVE-2022-3949 | | 
 | 20221112T11:37:02Z | CVE-2022-43332 | Cross Site Scripting in WonderCMS v3.3.4 | https://github.com/maikroservice/CVE-2022-43332 | | 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T01:46:28Z | bug exploit | https://github.com/catwj/bug-exploit | 0 | 0| 
 | 20221115T01:23:09Z | Social WarFare Plugin (<=3.5.2) Remote Code Execution | https://github.com/caique-garbim/CVE-2019-9978_Exploit | 0 | 0| 
 | 20221115T01:11:51Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 584 | 43| 
 | 20221115T01:09:33Z | Null | https://github.com/martinsam16/xmlrpc-exploits | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221114T13:50:50Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/WebHacking-ExploitCode-POC | 0 | 0| 
 | 20221114T13:45:14Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC | 0 | 0| 
 | 20221114T13:42:41Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC- | 0 | 0| 
-| 20221114T13:10:41Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/praskaga92/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

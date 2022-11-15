@@ -33,7 +33,6 @@
 | 20221114T17:05:27Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
 | 20221114T14:49:23Z | CVE-2020-9484 | Exploit for Apache Tomcat deserialization (CVE-2020-9484) which could lead to RCE | https://github.com/caique-garbim/CVE-2020-9484_Exploit | | 
 | 20221114T13:07:38Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
-| 20221114T12:36:49Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
 
 
 # klee on Github 推荐
