@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T01:53:52Z | This is a menu i made that contains blooket cheats , quizlet cheats , edpuzzle - testing cheats , prodigy chetas ,,, and some other fun and useful tools | https://github.com/etxnight/Et-exploits | 0 | 0| 
 | 20221115T01:46:28Z | bug exploit | https://github.com/catwj/bug-exploit | 0 | 0| 
 | 20221115T01:23:09Z | Social WarFare Plugin (<=3.5.2) Remote Code Execution | https://github.com/caique-garbim/CVE-2019-9978_Exploit | 0 | 0| 
 | 20221115T01:11:51Z | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | 584 | 43| 
@@ -96,7 +97,6 @@
 | 20221114T23:58:22Z | website for helping exploit a bug with chromebook | https://github.com/red78massive1573/open-url | 0 | 0| 
 | 20221114T13:50:50Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/WebHacking-ExploitCode-POC | 0 | 0| 
 | 20221114T13:45:14Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC | 0 | 0| 
-| 20221114T13:42:41Z | Proof Of Concept Code for Web Exploit | https://github.com/Revi1337/Web-Exploit-Code-POC- | 0 | 0| 
 
 
 # backdoor on Github 推荐
