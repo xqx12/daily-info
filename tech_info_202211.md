@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221116T02:30:22Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221116T01:22:11Z | CVE-2021-41773 | Apache Exploitation | https://github.com/WebApache/CVE-2021-41773-Apache-RCE | | 
 | 20221116T01:22:07Z | CVE-2022-24637 | FIxed exploit for CVE-2022-24637 (original xplt: https://www.exploit-db.com/exploits/51026) | https://github.com/icebreack/CVE-2022-24637 | | 
 | 20221116T01:22:01Z | CVE-2022-22947 | Null | https://github.com/qq87234770/CVE-2022-22947 | | 
 | 20221116T01:21:51Z | 未知编号 | Null | https://github.com/hohlovscky2017/Demo_15_11_2022_cvety | | 
-| 20221116T01:18:46Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221115T12:16:21Z | CVE-2022-29464 | Null | https://github.com/gbrsh/CVE-2022-29464 | | 
 | 20221115T11:37:58Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
 | 20221115T08:52:13Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/noflowpls/CVE-2021-41773 | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221116T01:24:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9242 | 313| 
+| 20221116T02:57:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9243 | 313| 
 | 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
 | 20221114T19:35:33Z | Klee | https://github.com/aiskunks/Klee | 2 | 1| 
 | 20221114T15:36:44Z | Config files for my GitHub profile. | https://github.com/Kleeh62/Kleeh62 | 0 | 0| 
@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221116T02:15:24Z | Exploit-DB ID 44068 code in Python3 | https://github.com/JF10R/EDB-ID44068 | 0 | 0| 
+| 20221116T01:44:39Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3240 | 613| 
 | 20221116T00:39:30Z | Null | https://github.com/Brean0/exploitPotential | 0 | 0| 
 | 20221116T00:24:50Z | This repository contains some challenges made to the understanding of how exploit some scenarios where there are security vulnerabilities and help to think about how to mitigate them =)   | https://github.com/zeroc00I/eternalnoobchallenges | 0 | 0| 
 | 20221116T00:10:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyy | 1 | 0| 
@@ -95,23 +97,21 @@
 | 20221115T23:36:16Z | NVD parser for CVEs, CPEs and CWEs with all known used exploits | https://github.com/iveresk/nvd-cve-parser | 0 | 0| 
 | 20221115T19:46:49Z | ⚡️ Bypass Injector Exec  / Please read the instructions for use carefully.  | https://github.com/Fnoberz/Fivem-Exec | 38 | 10| 
 | 20221115T19:46:31Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | 48 | 25| 
-| 20221115T19:46:20Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 44 | 26| 
-| 20221115T19:45:08Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 52 | 23| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221116T01:18:58Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 86 | 19| 
+| 20221116T02:04:08Z | Null | https://github.com/Xig620/CSE-498-Backdoor-attack-benchmark | 0 | 0| 
+| 20221116T02:00:14Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 4 | 0| 
+| 20221116T01:55:22Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 89 | 19| 
 | 20221116T01:12:54Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 189 | 51| 
-| 20221115T21:44:20Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 3 | 0| 
 | 20221115T18:20:28Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 281 | 96| 
 | 20221115T17:55:32Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
 | 20221115T17:42:02Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 41 | 18| 
 | 20221115T17:41:02Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 66 | 19| 
 | 20221115T17:38:29Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 149 | 45| 
 | 20221115T16:26:11Z | Kernel  rk | https://github.com/carloslack/KoviD | 99 | 21| 
-| 20221115T12:13:41Z | webshell免杀案例 | https://github.com/r3x5ur/webshell-free | 44 | 4| 
 
 
 # symbolic execution on Github 推荐
@@ -132,9 +132,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T13:47:46Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 19 | 2| 
 | 20221114T03:08:06Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 60 | 15| 
 | 20221113T08:41:56Z | Null | https://github.com/Kitiyaparnnn/NDSS-Software | 0 | 0| 
-| 20221111T03:15:35Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 18 | 2| 
 | 20221110T05:25:19Z | Null | https://github.com/nosdsdfs/ndsssdss | 0 | 0| 
 | 20221108T11:45:41Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 2 | 0| 
 | 20221108T11:23:08Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 69 | 36| 
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T13:36:17Z | Null | https://github.com/aedoardo/ipv6-fuzzer | 0 | 0| 
-| 20221115T13:27:26Z | fuzz corpus seed | https://github.com/willstruggle/fuzz-corpus | 0 | 0| 
-| 20221115T13:07:46Z | fuzzy k means untuk pengelompokan jenis jenis umkm, untuk peta menggunakan openstreetmap dan leaflet.js | https://github.com/imitasi11/Fuzzy-K-means-Clustering-umkm-sragen- | 0 | 0| 
-| 20221115T13:04:50Z | fuzzy K means untuk clustering, untuk map memakai Gmap API | https://github.com/imitasi11/Fuzzy-K-means-Clustering-slb-di-surakarta- | 0 | 0| 
-| 20221115T13:03:29Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 774 | 91| 
-| 20221115T12:59:57Z | menggunakan fuzzy K-means untuk clustering daerah dan menggunakan library leafletjs + Geojson untuk peta  | https://github.com/imitasi11/fuzzy-Kmeans-Clustering-Padi-Sragen | 0 | 0| 
-| 20221115T12:57:05Z | Fuzzie is a simple Rest API and GraphQL fuzzing tool as VSCode extension | https://github.com/weixian-zhang/Fuzzie | 2 | 0| 
-| 20221115T12:54:08Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 98 | 8| 
-| 20221115T12:52:26Z | menggunakan fuzzy c means untuk clustering rekomendasi pkl untuk murid smk | https://github.com/imitasi11/fuzzy-Cmeans-monitoring-pkl-smk | 0 | 0| 
-| 20221115T12:35:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4435 | 1073| 
+| 20221116T02:50:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1130 | 143| 
+| 20221116T02:37:55Z | fuzz corpus seed | https://github.com/willstruggle/fuzz-corpus | 0 | 0| 
+| 20221116T02:31:26Z | Null | https://github.com/kort-watson/fuzz_pedal | 0 | 0| 
+| 20221116T02:27:29Z | Null | https://github.com/kort-watson/fuzz_pedal_site | 0 | 0| 
+| 20221116T02:14:36Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 850 | 181| 
+| 20221116T01:05:41Z | Python tool for guessing pages on Wordpress websites. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
+| 20221116T00:39:24Z | Documentation | https://github.com/s-earnest/fuzzy-train.github.io | 0 | 0| 
+| 20221115T22:13:03Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 328 | 48| 
+| 20221115T21:28:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4874 | 499| 
+| 20221115T15:21:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8043 | 1751| 
 
 
 

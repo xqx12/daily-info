@@ -47,16 +47,15 @@
 | 20221115T19:46:20Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 44 | 26| 
 | 20221115T19:45:08Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 52 | 23| 
 | 20221115T19:44:31Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 39 | 23| 
+| 20221115T18:10:05Z | 一个红队知识仓库 | https://github.com/Threekiii/Awesome-Redteam | 1589 | 283| 
 | 20221115T13:56:23Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12307 | 2114| 
 | 20221115T13:26:53Z | Android RAT with web panel and fully undetectable App support android 12 | https://github.com/Jennahacker/zenna_rat | 26 | 9| 
 | 20221115T13:23:04Z | Determine whether your compute is truly vulnerable to a specific vulnerability by accounting for all factors which affect *actual* exploitability (runtime execution, configuration, permissions, existence of a mitigation, OS, etc..) | https://github.com/Rezilion/mi-x | 100 | 7| 
-| 20221115T12:27:05Z | One of the few malware collection | https://github.com/Vichingo455/MalwareDatabase | 66 | 24| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221115T21:44:20Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 3 | 0| 
 | 20221115T18:20:28Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 281 | 96| 
 | 20221115T17:55:32Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
 | 20221115T17:42:02Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 41 | 18| 
@@ -66,6 +65,7 @@
 | 20221115T12:13:41Z | webshell免杀案例 | https://github.com/r3x5ur/webshell-free | 44 | 4| 
 | 20221115T10:24:25Z | Backdoor Learning about some well known or new backdoor attacks and defenses. | https://github.com/MinqiShao/backdoor-learning | 0 | 0| 
 | 20221115T06:38:16Z | Null | https://github.com/GabrielMartorelli/backdoor | 0 | 0| 
+| 20221115T06:04:25Z | Null | https://github.com/yujingmarkjiang/Time_Series_Backdoor_Attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -81,21 +81,22 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T13:47:46Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 19 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221115T22:13:03Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 328 | 48| 
+| 20221115T21:28:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4874 | 499| 
+| 20221115T15:21:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8043 | 1751| 
 | 20221115T13:36:17Z | Null | https://github.com/aedoardo/ipv6-fuzzer | 0 | 0| 
-| 20221115T13:27:26Z | fuzz corpus seed | https://github.com/willstruggle/fuzz-corpus | 0 | 0| 
 | 20221115T13:07:46Z | fuzzy k means untuk pengelompokan jenis jenis umkm, untuk peta menggunakan openstreetmap dan leaflet.js | https://github.com/imitasi11/Fuzzy-K-means-Clustering-umkm-sragen- | 0 | 0| 
 | 20221115T13:04:50Z | fuzzy K means untuk clustering, untuk map memakai Gmap API | https://github.com/imitasi11/Fuzzy-K-means-Clustering-slb-di-surakarta- | 0 | 0| 
 | 20221115T13:03:29Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 774 | 91| 
 | 20221115T12:59:57Z | menggunakan fuzzy K-means untuk clustering daerah dan menggunakan library leafletjs + Geojson untuk peta  | https://github.com/imitasi11/fuzzy-Kmeans-Clustering-Padi-Sragen | 0 | 0| 
 | 20221115T12:57:05Z | Fuzzie is a simple Rest API and GraphQL fuzzing tool as VSCode extension | https://github.com/weixian-zhang/Fuzzie | 2 | 0| 
 | 20221115T12:54:08Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 98 | 8| 
-| 20221115T12:52:26Z | menggunakan fuzzy c means untuk clustering rekomendasi pkl untuk murid smk | https://github.com/imitasi11/fuzzy-Cmeans-monitoring-pkl-smk | 0 | 0| 
-| 20221115T12:35:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4435 | 1073| 
 
 
 
