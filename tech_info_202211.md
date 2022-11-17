@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221117T02:38:39Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
 | 20221117T01:52:49Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
 | 20221117T01:52:46Z | CVE-2021-34473 | A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability | https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER | | 
 | 20221117T00:29:05Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
-| 20221116T19:14:13Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
 | 20221116T11:21:00Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
 | 20221116T03:51:02Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20221116T01:22:11Z | CVE-2021-41773 | Apache Exploitation | https://github.com/WebApache/CVE-2021-41773-Apache-RCE | | 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221117T02:25:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9253 | 313| 
+| 20221117T02:41:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9254 | 313| 
 | 20221116T13:54:23Z | Config files for my GitHub profile. | https://github.com/Kleevietanh98/Kleevietanh98 | 0 | 0| 
 | 20221116T12:14:16Z | Btos%s Discord Bot for Minecraft and Discord report & automation | https://github.com/ItzPeaxel/Klee | 0 | 0| 
 | 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
@@ -102,10 +102,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T02:40:22Z | 一款基于Http.sys的利用工具    ZhuriLab/Joker 备份 | https://github.com/Mr-xn/Joker | 6 | 5| 
+| 20221117T02:37:20Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 162 | 40| 
 | 20221117T02:24:28Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1349 | 536| 
-| 20221117T01:44:04Z | 一款基于Http.sys的利用工具    ZhuriLab/Joker 备份 | https://github.com/Mr-xn/Joker | 5 | 5| 
 | 20221117T01:04:28Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
-| 20221117T00:31:57Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 161 | 40| 
 | 20221116T19:53:34Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 49 | 26| 
 | 20221116T18:29:46Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 24 | 8| 
 | 20221116T18:23:45Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 6 | 3| 
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T02:32:05Z | Directory bruteforcing on Wordpress websites. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
 | 20221117T02:00:27Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
 | 20221117T01:05:19Z | Null | https://github.com/mendy-2013/PnP-fuzzy-mask-extraction-module | 0 | 0| 
 | 20221117T00:57:32Z | Null | https://github.com/MichaelBittencourt/AutomatedFuzzyCode | 0 | 0| 
@@ -153,9 +154,8 @@
 | 20221116T22:11:01Z | Tutorial de como usar o Git e GITHUB | https://github.com/italoCesarSilvaOliveira/fuzzy-eureka | 0 | 0| 
 | 20221116T22:00:02Z | curl_lib_fuzz | https://github.com/OZ1NG/lib_fuzz_m | 0 | 0| 
 | 20221116T18:25:04Z | Null | https://github.com/crate-crypto/proto-danksharding-fuzzy-test | 0 | 0| 
-| 20221116T15:36:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1753| 
+| 20221116T15:36:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1754| 
 | 20221116T05:03:03Z | Null | https://github.com/lukearcher/django_fuzzy_matching_demo | 0 | 0| 
-| 20221116T02:50:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1130 | 143| 
 
 
 

@@ -21,7 +21,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221116T19:14:13Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
 | 20221116T11:21:00Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
 | 20221116T03:51:02Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20221116T01:22:11Z | CVE-2021-41773 | Apache Exploitation | https://github.com/WebApache/CVE-2021-41773-Apache-RCE | | 
@@ -46,6 +45,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221116T23:56:05Z | FiveM-Exec-Bypass / FiveM-Exec-Bypass | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
+| 20221116T18:30:47Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7851 | 1823| 
 | 20221116T13:32:31Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 3840 | 285| 
 | 20221116T13:26:29Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/Awiene1337/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
 | 20221116T13:23:42Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/Awiene1337/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
@@ -54,7 +54,6 @@
 | 20221116T12:27:41Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 4 | 0| 
 | 20221116T11:53:53Z | ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild. ECCV 2022. | https://github.com/bytedance/particle-sfm | 112 | 7| 
 | 20221116T11:35:22Z | Anti-Privacy Exploitation System | https://github.com/halfstackpgr/HiddenTesla | 0 | 0| 
-| 20221116T11:29:06Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12325 | 2116| 
 
 
 # backdoor on Github 推荐
@@ -93,7 +92,7 @@
 | 20221116T22:11:01Z | Tutorial de como usar o Git e GITHUB | https://github.com/italoCesarSilvaOliveira/fuzzy-eureka | 0 | 0| 
 | 20221116T22:00:02Z | curl_lib_fuzz | https://github.com/OZ1NG/lib_fuzz_m | 0 | 0| 
 | 20221116T18:25:04Z | Null | https://github.com/crate-crypto/proto-danksharding-fuzzy-test | 0 | 0| 
-| 20221116T15:36:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1753| 
+| 20221116T15:36:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1754| 
 | 20221116T05:03:03Z | Null | https://github.com/lukearcher/django_fuzzy_matching_demo | 0 | 0| 
 | 20221116T02:50:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1130 | 143| 
 | 20221116T02:37:55Z | fuzz corpus seed | https://github.com/willstruggle/fuzz-corpus | 0 | 0| 
