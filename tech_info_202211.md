@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221116T14:58:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9251 | 313| 
+| 20221117T02:18:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9252 | 313| 
 | 20221116T13:54:23Z | Config files for my GitHub profile. | https://github.com/Kleevietanh98/Kleevietanh98 | 0 | 0| 
 | 20221116T12:14:16Z | Btos%s Discord Bot for Minecraft and Discord report & automation | https://github.com/ItzPeaxel/Klee | 0 | 0| 
 | 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T02:23:18Z | ⚔️ Rust Cheat Internal Release Follow Step in Videos , Work in last Patch | https://github.com/Fnoberz/Rust-internal | 22 | 8| 
 | 20221117T02:12:32Z | Pytorch implementation of our paper -- Exploiting  the Partly Scratch-off Lottery Ticket for Quantization-Aware Training | https://github.com/zysxmu/LTS | 0 | 0| 
 | 20221117T02:12:23Z | Meduso is an open-source post-exploitation tool containing a botnet payload and a c2 server | https://github.com/davidsonmizael/meduso | 2 | 0| 
 | 20221117T02:00:27Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
@@ -96,16 +97,15 @@
 | 20221117T01:23:22Z | By the Way is an exploit that enables a root shell on Mikrotik devices running RouterOS versions: | https://github.com/babyshen/routeros-CVE-2018-14847-bytheway | 1 | 0| 
 | 20221117T00:29:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANd | 1 | 0| 
 | 20221117T00:28:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANd | 1 | 0| 
-| 20221117T00:25:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANd | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T02:24:28Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1349 | 536| 
 | 20221117T01:44:04Z | 一款基于Http.sys的利用工具    ZhuriLab/Joker 备份 | https://github.com/Mr-xn/Joker | 5 | 5| 
 | 20221117T01:04:28Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20221117T00:31:57Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 161 | 40| 
-| 20221116T21:50:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1348 | 536| 
 | 20221116T19:53:34Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 49 | 26| 
 | 20221116T18:29:46Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 24 | 8| 
 | 20221116T18:23:45Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 6 | 3| 

@@ -59,7 +59,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221116T21:50:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1348 | 536| 
 | 20221116T19:53:34Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 49 | 26| 
 | 20221116T18:29:46Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 24 | 8| 
 | 20221116T18:23:45Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 6 | 3| 
@@ -69,6 +68,7 @@
 | 20221116T03:53:18Z | List of commands to attack slave computer from server | https://github.com/xxAJxx/Python_Backdoor | 0 | 0| 
 | 20221116T02:04:08Z | Null | https://github.com/Xig620/CSE-498-Backdoor-attack-benchmark | 0 | 0| 
 | 20221116T02:00:14Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 4 | 0| 
+| 20221116T01:32:43Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 90 | 11| 
 
 
 # symbolic execution on Github 推荐
