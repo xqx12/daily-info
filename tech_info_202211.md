@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221117T01:52:49Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
+| 20221117T01:52:46Z | CVE-2021-34473 | A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability | https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER | | 
 | 20221117T00:29:05Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221116T19:14:13Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
 | 20221116T11:21:00Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
-| 20221116T11:09:51Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
-| 20221116T08:33:59Z | CVE-2021-34473 | A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability | https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER | | 
 | 20221116T03:51:02Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20221116T01:22:11Z | CVE-2021-41773 | Apache Exploitation | https://github.com/WebApache/CVE-2021-41773-Apache-RCE | | 
 | 20221116T01:22:07Z | CVE-2022-24637 | FIxed exploit for CVE-2022-24637 (original xplt: https://www.exploit-db.com/exploits/51026) | https://github.com/icebreack/CVE-2022-24637 | | 
@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T02:00:27Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
+| 20221117T01:54:22Z | Roblox Your Bizarre Adventure Hack  | https://github.com/Gunemahaedx/Roblox-Your-Bizarre-Adventure-Hack-YBA-Script-PRIVATE-EXPLOIT | 0 | 0| 
 | 20221117T01:33:33Z | GitOps Repository | https://github.com/amisstea-playground/test-application-demo-owe-exploit | 0 | 0| 
 | 20221117T01:33:14Z | Exploit using WRD API, you can use the code from this to make your own exploits. | https://github.com/Te1amon/roblox-exploit-template | 0 | 0| 
 | 20221117T01:23:22Z | By the Way is an exploit that enables a root shell on Mikrotik devices running RouterOS versions: | https://github.com/babyshen/routeros-CVE-2018-14847-bytheway | 1 | 0| 
@@ -95,8 +97,6 @@
 | 20221117T00:28:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANd | 1 | 0| 
 | 20221117T00:25:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANd | 1 | 0| 
 | 20221117T00:08:25Z | Impersonating Google Play Billing Service | https://github.com/Gnokneissi/Billing-App-Hack-LEAKED | 0 | 0| 
-| 20221117T00:03:27Z | URBAN TERROR INTERIUM MULTICHEAT | https://github.com/Gnokneissi/URBAN-TERROR-INTERIUM-SOFTAIM-ESP-AIMBOT-WALLHACK-AND-20-MORE-FEATURES | 0 | 0| 
-| 20221116T23:56:05Z | FiveM-Exec-Bypass / FiveM-Exec-Bypass | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -104,7 +104,7 @@
 | --- | --- | --- | --- | ---| 
 | 20221117T01:44:04Z | 一款基于Http.sys的利用工具    ZhuriLab/Joker 备份 | https://github.com/Mr-xn/Joker | 5 | 4| 
 | 20221117T01:04:28Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
-| 20221117T00:31:57Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 161 | 38| 
+| 20221117T00:31:57Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 161 | 40| 
 | 20221116T21:50:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1348 | 536| 
 | 20221116T19:53:34Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 49 | 26| 
 | 20221116T18:29:46Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 24 | 8| 
