@@ -22,8 +22,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221116T19:14:13Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
 | 20221116T11:21:00Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
-| 20221116T11:09:51Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
-| 20221116T08:33:59Z | CVE-2021-34473 | A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability | https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER | | 
 | 20221116T03:51:02Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20221116T01:22:11Z | CVE-2021-41773 | Apache Exploitation | https://github.com/WebApache/CVE-2021-41773-Apache-RCE | | 
 | 20221116T01:22:07Z | CVE-2022-24637 | FIxed exploit for CVE-2022-24637 (original xplt: https://www.exploit-db.com/exploits/51026) | https://github.com/icebreack/CVE-2022-24637 | | 
