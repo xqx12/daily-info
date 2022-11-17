@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T02:12:32Z | Pytorch implementation of our paper -- Exploiting  the Partly Scratch-off Lottery Ticket for Quantization-Aware Training | https://github.com/zysxmu/LTS | 0 | 0| 
+| 20221117T02:12:23Z | Meduso is an open-source post-exploitation tool containing a botnet payload and a c2 server | https://github.com/davidsonmizael/meduso | 2 | 0| 
 | 20221117T02:00:27Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
 | 20221117T01:54:22Z | Roblox Your Bizarre Adventure Hack  | https://github.com/Gunemahaedx/Roblox-Your-Bizarre-Adventure-Hack-YBA-Script-PRIVATE-EXPLOIT | 0 | 0| 
 | 20221117T01:33:33Z | GitOps Repository | https://github.com/amisstea-playground/test-application-demo-owe-exploit | 0 | 0| 
 | 20221117T01:33:14Z | Exploit using WRD API, you can use the code from this to make your own exploits. | https://github.com/Te1amon/roblox-exploit-template | 0 | 0| 
 | 20221117T01:23:22Z | By the Way is an exploit that enables a root shell on Mikrotik devices running RouterOS versions: | https://github.com/babyshen/routeros-CVE-2018-14847-bytheway | 1 | 0| 
-| 20221117T01:17:18Z | code for Exploiting the Partly Scratch-off Lottery Ticket for Quantization-Aware Training | https://github.com/zysxmu/LTS | 0 | 0| 
 | 20221117T00:29:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANd | 1 | 0| 
 | 20221117T00:28:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANd | 1 | 0| 
 | 20221117T00:25:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANd | 1 | 0| 
-| 20221117T00:08:25Z | Impersonating Google Play Billing Service | https://github.com/Gnokneissi/Billing-App-Hack-LEAKED | 0 | 0| 
 
 
 # backdoor on Github 推荐
