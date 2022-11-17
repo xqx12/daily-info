@@ -90,13 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221116T22:11:01Z | Tutorial de como usar o Git e GITHUB | https://github.com/italoCesarSilvaOliveira/fuzzy-eureka | 0 | 0| 
+| 20221116T22:00:02Z | curl_lib_fuzz | https://github.com/OZ1NG/lib_fuzz_m | 0 | 0| 
+| 20221116T18:25:04Z | Null | https://github.com/crate-crypto/proto-danksharding-fuzzy-test | 0 | 0| 
+| 20221116T15:36:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1753| 
+| 20221116T05:03:03Z | Null | https://github.com/lukearcher/django_fuzzy_matching_demo | 0 | 0| 
 | 20221116T02:50:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1130 | 143| 
 | 20221116T02:37:55Z | fuzz corpus seed | https://github.com/willstruggle/fuzz-corpus | 0 | 0| 
 | 20221116T02:31:26Z | Null | https://github.com/kort-watson/fuzz_pedal | 0 | 0| 
 | 20221116T02:27:29Z | Null | https://github.com/kort-watson/fuzz_pedal_site | 0 | 0| 
 | 20221116T02:14:36Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 850 | 181| 
-| 20221116T01:05:41Z | Python tool for guessing pages on Wordpress websites. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
-| 20221116T00:39:24Z | Documentation | https://github.com/s-earnest/fuzzy-train.github.io | 0 | 0| 
 
 
 
