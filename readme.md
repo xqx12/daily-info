@@ -15,6 +15,7 @@
 | 20221116 | 域渗透思维导图 | https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg| 
 | 20221116 | 如何成为优秀工程师之软技能篇 | https://mp.weixin.qq.com/s/pQqSHw-Gou8Sd70hvZWl8g| 
 | 20221116 | 互联网跟帖评论服务管理规定 | http://www.cac.gov.cn/2022-11/16/c_1670253725725039.htm| 
+| 20221116 | 域渗透思维导图 | https://mp.weixin.qq.com/s/ygTeMU4Oh7SaTci2UtA70w| 
 
 
 # CVE Github 推荐

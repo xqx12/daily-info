@@ -35,12 +35,12 @@
 | 20221116 | 域渗透思维导图 | https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg| 
 | 20221116 | 如何成为优秀工程师之软技能篇 | https://mp.weixin.qq.com/s/pQqSHw-Gou8Sd70hvZWl8g| 
 | 20221116 | 互联网跟帖评论服务管理规定 | http://www.cac.gov.cn/2022-11/16/c_1670253725725039.htm| 
+| 20221116 | 域渗透思维导图 | https://mp.weixin.qq.com/s/ygTeMU4Oh7SaTci2UtA70w| 
 | 20221114 | SecWiki周刊（第454期) | https://www.sec-wiki.com/weekly/454| 
 | 20221114 | 简单实用远控小工具Todesk | https://mp.weixin.qq.com/s/lVgcikWV-GH8lX295AGr0w| 
 | 20221114 | 中国eBPF大会演讲slide | https://gitee.com/linuxkerneltravel/ebpf-conference/tree/master| 
 | 20221113 | 信息搜集中的Tips | https://mp.weixin.qq.com/s/zN6dasLa3fcSgqndc9Lujg| 
 | 20221112 | 从一道题入门 UEFI PWN | https://paper.seebug.org/2010/| 
-| 20221112 | ​CVE-2021-44707 Adobe Reader越界写漏洞分析与利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
 
 
 # CVE Github 推荐
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221117T02:18:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9252 | 313| 
+| 20221117T02:25:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9253 | 313| 
 | 20221116T13:54:23Z | Config files for my GitHub profile. | https://github.com/Kleevietanh98/Kleevietanh98 | 0 | 0| 
 | 20221116T12:14:16Z | Btos%s Discord Bot for Minecraft and Discord report & automation | https://github.com/ItzPeaxel/Klee | 0 | 0| 
 | 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
