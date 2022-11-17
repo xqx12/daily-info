@@ -31,37 +31,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221116 | 网络空间测绘理论体系概述 | https://mp.weixin.qq.com/s/CxZAfsTzY4r1AQLcNP-JGg| 
+| 20221116 | 域渗透思维导图 | https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg| 
+| 20221116 | 如何成为优秀工程师之软技能篇 | https://mp.weixin.qq.com/s/pQqSHw-Gou8Sd70hvZWl8g| 
+| 20221116 | 互联网跟帖评论服务管理规定 | http://www.cac.gov.cn/2022-11/16/c_1670253725725039.htm| 
 | 20221114 | SecWiki周刊（第454期) | https://www.sec-wiki.com/weekly/454| 
 | 20221114 | 简单实用远控小工具Todesk | https://mp.weixin.qq.com/s/lVgcikWV-GH8lX295AGr0w| 
 | 20221114 | 中国eBPF大会演讲slide | https://gitee.com/linuxkerneltravel/ebpf-conference/tree/master| 
 | 20221113 | 信息搜集中的Tips | https://mp.weixin.qq.com/s/zN6dasLa3fcSgqndc9Lujg| 
 | 20221112 | 从一道题入门 UEFI PWN | https://paper.seebug.org/2010/| 
 | 20221112 | ​CVE-2021-44707 Adobe Reader越界写漏洞分析与利用 | https://mp.weixin.qq.com/s/elLI4YvJ0u9yYoyQpsv1og| 
-| 20221112 | USTC Hackergame 2022 | https://imlonghao.com/60.html| 
-| 20221112 | Java安全攻防之老版本 Fastjson 的一些不出网利用 | https://www.anquanke.com/post/id/283079| 
-| 20221112 | 最近碰到的 Python pickle 反序列化小总结 | https://xz.aliyun.com/t/11807| 
-| 20221112 | jpress代码审计分享 | https://xz.aliyun.com/t/11832| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221116T02:30:22Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
+| 20221117T00:29:05Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
+| 20221116T19:14:13Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
+| 20221116T11:21:00Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
+| 20221116T11:09:51Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
+| 20221116T08:33:59Z | CVE-2021-34473 | A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability | https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER | | 
+| 20221116T03:51:02Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20221116T01:22:11Z | CVE-2021-41773 | Apache Exploitation | https://github.com/WebApache/CVE-2021-41773-Apache-RCE | | 
 | 20221116T01:22:07Z | CVE-2022-24637 | FIxed exploit for CVE-2022-24637 (original xplt: https://www.exploit-db.com/exploits/51026) | https://github.com/icebreack/CVE-2022-24637 | | 
 | 20221116T01:22:01Z | CVE-2022-22947 | Null | https://github.com/qq87234770/CVE-2022-22947 | | 
 | 20221116T01:21:51Z | 未知编号 | Null | https://github.com/hohlovscky2017/Demo_15_11_2022_cvety | | 
-| 20221115T12:16:21Z | CVE-2022-29464 | Null | https://github.com/gbrsh/CVE-2022-29464 | | 
-| 20221115T11:37:58Z | CVE-2022-41082 | Microsoft Exchange Server Remote Code Execution Vulnerability. | https://github.com/notareaperbutDR34P3r/http-vuln-CVE-2022-41082 | | 
-| 20221115T08:52:13Z | CVE-2021-41773 | CVE-2021-41773 | https://github.com/noflowpls/CVE-2021-41773 | | 
-| 20221115T08:37:25Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
-| 20221115T08:36:55Z | CVE-2022-22947 | Spring Cloud Gateway 远程代码执行漏洞Exp Spring_Cloud_Gateway_RCE_Exp-CVE-2022-22947 | https://github.com/Axx8/CVE-2022-22947_Rce_Exp | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221116T02:57:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9243 | 313| 
+| 20221116T14:58:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9251 | 313| 
+| 20221116T13:54:23Z | Config files for my GitHub profile. | https://github.com/Kleevietanh98/Kleevietanh98 | 0 | 0| 
+| 20221116T12:14:16Z | Btos%s Discord Bot for Minecraft and Discord report & automation | https://github.com/ItzPeaxel/Klee | 0 | 0| 
 | 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
 | 20221114T19:35:33Z | Klee | https://github.com/aiskunks/Klee | 2 | 1| 
 | 20221114T15:36:44Z | Config files for my GitHub profile. | https://github.com/Kleeh62/Kleeh62 | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20221113T22:24:50Z | Config files for my GitHub profile. | https://github.com/kleewerock22/kleewerock22 | 0 | 0| 
 | 20221113T13:57:43Z | Config files for my GitHub profile. | https://github.com/Kleeby/Kleeby | 0 | 0| 
 | 20221113T10:28:35Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
-| 20221113T07:02:58Z | Null | https://github.com/Klee345/kLEE | 0 | 0| 
-| 20221113T06:58:46Z | Null | https://github.com/Klee345/Klee345 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,46 +87,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221116T02:15:24Z | Exploit-DB ID 44068 code in Python3 | https://github.com/JF10R/EDB-ID44068 | 0 | 0| 
-| 20221116T01:44:39Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3240 | 613| 
-| 20221116T00:39:30Z | Null | https://github.com/Brean0/exploitPotential | 0 | 0| 
-| 20221116T00:24:50Z | This repository contains some challenges made to the understanding of how exploit some scenarios where there are security vulnerabilities and help to think about how to mitigate them =)   | https://github.com/zeroc00I/eternalnoobchallenges | 0 | 0| 
-| 20221116T00:10:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyy | 1 | 0| 
-| 20221116T00:09:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyy | 1 | 0| 
-| 20221116T00:08:01Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyy | 1 | 0| 
-| 20221115T23:36:16Z | NVD parser for CVEs, CPEs and CWEs with all known used exploits | https://github.com/iveresk/nvd-cve-parser | 0 | 0| 
-| 20221115T19:46:49Z | ⚡️ Bypass Injector Exec  / Please read the instructions for use carefully.  | https://github.com/Fnoberz/Fivem-Exec | 38 | 10| 
-| 20221115T19:46:31Z | 💉 Lua Executor , Open Source C++ , Exec + Dumper Scripts + Bypass | https://github.com/Fnoberz/Fivem-Source | 48 | 25| 
+| 20221117T01:33:33Z | GitOps Repository | https://github.com/amisstea-playground/test-application-demo-owe-exploit | 0 | 0| 
+| 20221117T01:33:14Z | Exploit using WRD API, you can use the code from this to make your own exploits. | https://github.com/Te1amon/roblox-exploit-template | 0 | 0| 
+| 20221117T01:23:22Z | By the Way is an exploit that enables a root shell on Mikrotik devices running RouterOS versions: | https://github.com/babyshen/routeros-CVE-2018-14847-bytheway | 1 | 0| 
+| 20221117T01:17:18Z | code for Exploiting the Partly Scratch-off Lottery Ticket for Quantization-Aware Training | https://github.com/zysxmu/LTS | 0 | 0| 
+| 20221117T00:29:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANd | 1 | 0| 
+| 20221117T00:28:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANd | 1 | 0| 
+| 20221117T00:25:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANd | 1 | 0| 
+| 20221117T00:08:25Z | Impersonating Google Play Billing Service | https://github.com/Gnokneissi/Billing-App-Hack-LEAKED | 0 | 0| 
+| 20221117T00:03:27Z | URBAN TERROR INTERIUM MULTICHEAT | https://github.com/Gnokneissi/URBAN-TERROR-INTERIUM-SOFTAIM-ESP-AIMBOT-WALLHACK-AND-20-MORE-FEATURES | 0 | 0| 
+| 20221116T23:56:05Z | FiveM-Exec-Bypass / FiveM-Exec-Bypass | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221116T02:04:08Z | Null | https://github.com/Xig620/CSE-498-Backdoor-attack-benchmark | 0 | 0| 
-| 20221116T02:00:14Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 4 | 0| 
-| 20221116T01:55:22Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 89 | 19| 
-| 20221116T01:12:54Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 189 | 51| 
-| 20221115T18:20:28Z | Remote Access Tool Written In C# | https://github.com/arsium/EagleMonitorRAT | 281 | 96| 
-| 20221115T17:55:32Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
-| 20221115T17:42:02Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 41 | 18| 
-| 20221115T17:41:02Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 66 | 19| 
-| 20221115T17:38:29Z | PyBotNet framework, high level remote control | https://github.com/onionj/pybotnet | 149 | 45| 
-| 20221115T16:26:11Z | Kernel  rk | https://github.com/carloslack/KoviD | 99 | 21| 
+| 20221117T01:44:04Z | 一款基于Http.sys的利用工具    ZhuriLab/Joker 备份 | https://github.com/Mr-xn/Joker | 5 | 4| 
+| 20221117T01:04:28Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20221117T00:31:57Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 161 | 38| 
+| 20221116T21:50:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1348 | 536| 
+| 20221116T19:53:34Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 49 | 26| 
+| 20221116T18:29:46Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 24 | 8| 
+| 20221116T18:23:45Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 6 | 3| 
+| 20221116T15:21:36Z | This Trojan Can Give A Message With Most Popular Languages, Do DDoS/DoS Attacks, Give Backdoor Access To Hackers, Send Bulk E-mails, Gave Error Masseges, etc.) | https://github.com/Lojifreek/Troyanamic-Trojan | 0 | 0| 
+| 20221116T12:34:11Z | 中文自然语言处理模型安全 | https://github.com/highpdl/Chinese_NLP_Backdoor | 1 | 0| 
+| 20221116T12:33:54Z | Null | https://github.com/cutty01/simple-backdoor-python | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221116T20:15:39Z | Lab 2 for CS527 | https://github.com/franciscob1218/CS527-Symbolic-Execution | 0 | 0| 
+| 20221116T17:50:26Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 48 | 3| 
+| 20221116T15:52:06Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 499 | 28| 
+| 20221116T12:44:06Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 593 | 106| 
+| 20221116T10:57:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3200 | 453| 
 | 20221115T23:33:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 51 | 24| 
-| 20221115T15:15:47Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 592 | 106| 
 | 20221115T12:38:34Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 10 | 2| 
 | 20221115T07:43:47Z | A program analysis tool based on symbolic execution to find bugs. | https://github.com/0x41-13/mit-6.858-lab3 | 1 | 0| 
-| 20221115T04:07:46Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 47 | 3| 
-| 20221114T19:54:54Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3199 | 452| 
 | 20221114T05:58:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 272 | 66| 
 | 20221114T04:35:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2107 | 597| 
-| 20221114T01:12:25Z | Symbolic Execution and Static Analysis Tool for Python src code | https://github.com/rich-java-dev/py-symbex | 2 | 0| 
-| 20221113T22:42:42Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 496 | 28| 
 
 
 # big4 on Github 推荐
