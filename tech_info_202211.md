@@ -31,37 +31,37 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221117 | JNDI注入工具改造 | https://sec-in.com/article/1632| 
+| 20221117 | 基于统计与变异分析的缺陷变量定位技术 | https://mp.weixin.qq.com/s/XVWFL8LvK9QLprnEG5YYSA| 
+| 20221117 | 战场智能指挥系统 DELTA 深度分析报告 | https://mp.weixin.qq.com/s/dgCudvjhNBV3x75XX1OqEQ| 
+| 20221117 | SecXOps安全智能分析技术白皮书 | http://blog.nsfocus.net/wp-content/uploads/2022/11/SecXOps-whitepaper.pdf| 
 | 20221116 | 网络空间测绘理论体系概述 | https://mp.weixin.qq.com/s/CxZAfsTzY4r1AQLcNP-JGg| 
 | 20221116 | 域渗透思维导图 | https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg| 
 | 20221116 | 如何成为优秀工程师之软技能篇 | https://mp.weixin.qq.com/s/pQqSHw-Gou8Sd70hvZWl8g| 
 | 20221116 | 互联网跟帖评论服务管理规定 | http://www.cac.gov.cn/2022-11/16/c_1670253725725039.htm| 
 | 20221116 | 域渗透思维导图 | https://mp.weixin.qq.com/s/ygTeMU4Oh7SaTci2UtA70w| 
 | 20221114 | SecWiki周刊（第454期) | https://www.sec-wiki.com/weekly/454| 
-| 20221114 | 简单实用远控小工具Todesk | https://mp.weixin.qq.com/s/lVgcikWV-GH8lX295AGr0w| 
-| 20221114 | 中国eBPF大会演讲slide | https://gitee.com/linuxkerneltravel/ebpf-conference/tree/master| 
-| 20221113 | 信息搜集中的Tips | https://mp.weixin.qq.com/s/zN6dasLa3fcSgqndc9Lujg| 
-| 20221112 | 从一道题入门 UEFI PWN | https://paper.seebug.org/2010/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221117T13:25:32Z | CVE-2022-0847 | Null | https://github.com/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability- | | 
+| 20221117T12:57:47Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
+| 20221117T09:10:13Z | CVE-2022-43096 | Null | https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096 | | 
+| 20221117T08:09:54Z | CVE-2021-21972 | Null | https://github.com/trhacknon/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | | 
+| 20221117T08:09:04Z | CVE-2021-21972 | Null | https://github.com/trhacknon/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972 | | 
+| 20221117T07:23:03Z | CVE-2021-44228 | Null | https://github.com/trhacknon/CVE-2021-44228-Scanner | | 
+| 20221117T06:20:39Z | CVE-2022-24706 | CouchDB & EPMD RCE exploit | https://github.com/LightningGod7/CVE-2022-24706-POC | | 
+| 20221117T04:03:13Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
+| 20221117T03:40:53Z | CVE-2021-29447 | A Golang program to automate the execution of CVE-2021-29447 | https://github.com/thomas-osgood/CVE-2021-29447 | | 
 | 20221117T02:38:39Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
-| 20221117T01:52:49Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
-| 20221117T01:52:46Z | CVE-2021-34473 | A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability | https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER | | 
-| 20221117T00:29:05Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
-| 20221116T11:21:00Z | CVE-2021-40438 | An Application Server Docker build for CVE-2021-40438 (FYP Project, for own use only) | https://github.com/WilsonFung414/CVE-2021-40438_Docker | | 
-| 20221116T03:51:02Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | | 
-| 20221116T01:22:11Z | CVE-2021-41773 | Apache Exploitation | https://github.com/WebApache/CVE-2021-41773-Apache-RCE | | 
-| 20221116T01:22:07Z | CVE-2022-24637 | FIxed exploit for CVE-2022-24637 (original xplt: https://www.exploit-db.com/exploits/51026) | https://github.com/icebreack/CVE-2022-24637 | | 
-| 20221116T01:22:01Z | CVE-2022-22947 | Null | https://github.com/qq87234770/CVE-2022-22947 | | 
-| 20221116T01:21:51Z | 未知编号 | Null | https://github.com/hohlovscky2017/Demo_15_11_2022_cvety | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221117T02:41:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9254 | 313| 
+| 20221117T12:12:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9262 | 313| 
 | 20221116T13:54:23Z | Config files for my GitHub profile. | https://github.com/Kleevietanh98/Kleevietanh98 | 0 | 0| 
 | 20221116T12:14:16Z | Btos%s Discord Bot for Minecraft and Discord report & automation | https://github.com/ItzPeaxel/Klee | 0 | 0| 
 | 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
@@ -87,46 +87,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221117T02:23:18Z | ⚔️ Rust Cheat Internal Release Follow Step in Videos , Work in last Patch | https://github.com/Fnoberz/Rust-internal | 22 | 8| 
-| 20221117T02:12:32Z | Pytorch implementation of our paper -- Exploiting  the Partly Scratch-off Lottery Ticket for Quantization-Aware Training | https://github.com/zysxmu/LTS | 0 | 0| 
-| 20221117T02:12:23Z | Meduso is an open-source post-exploitation tool containing a botnet payload and a c2 server | https://github.com/davidsonmizael/meduso | 2 | 0| 
-| 20221117T02:00:27Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
-| 20221117T01:54:22Z | Roblox Your Bizarre Adventure Hack  | https://github.com/Gunemahaedx/Roblox-Your-Bizarre-Adventure-Hack-YBA-Script-PRIVATE-EXPLOIT | 0 | 0| 
-| 20221117T01:33:33Z | GitOps Repository | https://github.com/amisstea-playground/test-application-demo-owe-exploit | 0 | 0| 
-| 20221117T01:33:14Z | Exploit using WRD API, you can use the code from this to make your own exploits. | https://github.com/Te1amon/roblox-exploit-template | 0 | 0| 
-| 20221117T01:23:22Z | By the Way is an exploit that enables a root shell on Mikrotik devices running RouterOS versions: | https://github.com/babyshen/routeros-CVE-2018-14847-bytheway | 1 | 0| 
-| 20221117T00:29:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANd | 1 | 0| 
-| 20221117T00:28:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANd | 1 | 0| 
+| 20221117T13:35:02Z | ESMORGA: Exploiting Superconvergence in Meshes for Optimal Representations of the Geometry with high Accuracy   | https://github.com/XuliaDS/esmorga | 0 | 0| 
+| 20221117T13:20:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7852 | 1823| 
+| 20221117T13:09:21Z | An Vulnerable Bank Page that is Vulnerable to Log4Shell Exploit | https://github.com/Qerim-iseni09/Insecure-Bank | 0 | 0| 
+| 20221117T13:00:22Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/peixerahasx/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
+| 20221117T12:58:42Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/peixerahasx/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20221117T12:57:47Z | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | 6 | 1| 
+| 20221117T12:44:04Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/peixerahasx/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
+| 20221117T09:39:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12332 | 2120| 
+| 20221117T08:55:55Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4828 | 1661| 
+| 20221117T07:54:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3758 | 461| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T13:47:19Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 187 | 46| 
+| 20221117T11:47:30Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
+| 20221117T10:54:04Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
+| 20221117T10:38:50Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 20 | 4| 
+| 20221117T10:21:11Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 604 | 119| 
+| 20221117T09:03:45Z | Hikvision Backdoor using Shodan. Python file that scans IP%s from Shodan. | https://github.com/mr-exo/HikvisionBackdoor | 0 | 0| 
+| 20221117T08:30:46Z | Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection | https://github.com/yuanchun-li/DeepPayload | 1 | 0| 
 | 20221117T02:54:57Z | 一款基于Http.sys的利用工具    ZhuriLab/Joker 备份 | https://github.com/Mr-xn/Joker | 7 | 5| 
-| 20221117T02:37:20Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 162 | 40| 
 | 20221117T02:24:28Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1349 | 536| 
-| 20221117T01:04:28Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 | 20221116T19:53:34Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 49 | 26| 
-| 20221116T18:29:46Z | Official Implementation of ICLR 2022 paper, ``Adversarial Unlearning of Backdoors via Implicit Hypergradient%% | https://github.com/YiZeng623/I-BAU | 24 | 8| 
-| 20221116T18:23:45Z | HTTP Banking Botnet Ro3b | https://github.com/Pr3tor1an/-Ro3b-botnet | 6 | 3| 
-| 20221116T15:21:36Z | This Trojan Can Give A Message With Most Popular Languages, Do DDoS/DoS Attacks, Give Backdoor Access To Hackers, Send Bulk E-mails, Gave Error Masseges, etc.) | https://github.com/Lojifreek/Troyanamic-Trojan | 0 | 0| 
-| 20221116T12:34:11Z | 中文自然语言处理模型安全 | https://github.com/highpdl/Chinese_NLP_Backdoor | 1 | 0| 
-| 20221116T12:33:54Z | Null | https://github.com/cutty01/simple-backdoor-python | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T08:58:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 594 | 106| 
+| 20221117T04:17:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 501 | 28| 
+| 20221117T03:10:15Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 79 | 16| 
 | 20221116T20:15:39Z | Lab 2 for CS527 | https://github.com/franciscob1218/CS527-Symbolic-Execution | 0 | 0| 
 | 20221116T17:50:26Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 48 | 3| 
-| 20221116T15:52:06Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 499 | 28| 
-| 20221116T12:44:06Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 593 | 106| 
 | 20221116T10:57:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3200 | 453| 
 | 20221115T23:33:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 51 | 24| 
 | 20221115T12:38:34Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 10 | 2| 
 | 20221115T07:43:47Z | A program analysis tool based on symbolic execution to find bugs. | https://github.com/0x41-13/mit-6.858-lab3 | 1 | 0| 
 | 20221114T05:58:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 272 | 66| 
-| 20221114T04:35:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2107 | 597| 
 
 
 # big4 on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T13:48:14Z | Null | https://github.com/paolorabbito/fuzzyWuzzy | 0 | 0| 
+| 20221117T13:18:51Z | Null | https://github.com/abdalla/fuzzing-tests-go | 0 | 0| 
+| 20221117T13:06:49Z | MuFuzz: Enlightening Smart Contract Fuzzing via State-Oriented Mutation and Dynamic Energy Adjustment (ISSTA 2023 Under Review) | https://github.com/PaperCodeBase/MuFuzz | 0 | 0| 
+| 20221117T12:26:39Z | This repository is a key code for static fuzzy mutation techniques based on abstract syntax trees. All the algorithms in this repository can be improved and used as mutators by relevant researchers. | https://github.com/dengpeiran/static-fuzzy-mutation | 0 | 0| 
+| 20221117T12:08:41Z | create micro services | https://github.com/soumyadevporiya/fuzzy-invention | 0 | 0| 
+| 20221117T11:32:24Z | Null | https://github.com/SpaceNaN/fuzzjit | 20 | 3| 
+| 20221117T11:07:14Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 102 | 8| 
+| 20221117T10:26:53Z | Python script for asynchrous fuzz multiple URL and routes | https://github.com/0x4380/rfuzz | 0 | 0| 
+| 20221117T03:52:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1754| 
 | 20221117T02:32:05Z | Directory bruteforcing on Wordpress websites. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
-| 20221117T02:00:27Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
-| 20221117T01:05:19Z | Null | https://github.com/mendy-2013/PnP-fuzzy-mask-extraction-module | 0 | 0| 
-| 20221117T00:57:32Z | Null | https://github.com/MichaelBittencourt/AutomatedFuzzyCode | 0 | 0| 
-| 20221117T00:37:50Z | Null | https://github.com/Mywayismylife/fuzzy-adventure | 0 | 0| 
-| 20221116T22:11:01Z | Tutorial de como usar o Git e GITHUB | https://github.com/italoCesarSilvaOliveira/fuzzy-eureka | 0 | 0| 
-| 20221116T22:00:02Z | curl_lib_fuzz | https://github.com/OZ1NG/lib_fuzz_m | 0 | 0| 
-| 20221116T18:25:04Z | Null | https://github.com/crate-crypto/proto-danksharding-fuzzy-test | 0 | 0| 
-| 20221116T15:36:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1754| 
-| 20221116T05:03:03Z | Null | https://github.com/lukearcher/django_fuzzy_matching_demo | 0 | 0| 
 
 
 
