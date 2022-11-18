@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T13:35:08Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 103 | 8| 
 | 20221118T13:18:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8048 | 1755| 
 | 20221118T13:04:53Z | Null | https://github.com/MU-HPDI/FuzzyFusion_DeepLearning_Tutorial | 0 | 0| 
 | 20221118T12:43:43Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 71 | 7| 
@@ -96,7 +97,6 @@
 | 20221118T01:44:11Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4876 | 499| 
 | 20221118T01:32:58Z | About Exemplo prático aplicando a lógica fuzzy. Disciplina de Inteligência Artificial do IFTO campus Paraíso. | https://github.com/realmarcos/Ex_implementacao_Logica_Fuzzy | 0 | 0| 
 | 20221118T01:15:41Z | Null | https://github.com/shivakumar20/fuzzy_match | 0 | 0| 
-| 20221118T01:14:35Z | Null | https://github.com/koenmatek/fuzzy-bassoon | 0 | 0| 
 
 
 
