@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221118 | Akamai 在新观察到的域名中每月可标记 1300 万恶意域名 | https://mp.weixin.qq.com/s/A_tNuBiBvMeavfhPndsRbg| 
+| 20221118 | Brute Ratel C4 Badger分析实战与检测 | https://mp.weixin.qq.com/s/Nnag6DSf_wx2YrnTXEwNug| 
+| 20221118 | 网络空间测绘视角下的乌克兰网络脆弱性分析 | https://mp.weixin.qq.com/s/KgwMSpIfvmOqqn_pgdrGjQ| 
 | 20221117 | JNDI注入工具改造 | https://sec-in.com/article/1632| 
 | 20221117 | 基于统计与变异分析的缺陷变量定位技术 | https://mp.weixin.qq.com/s/XVWFL8LvK9QLprnEG5YYSA| 
 | 20221117 | 战场智能指挥系统 DELTA 深度分析报告 | https://mp.weixin.qq.com/s/dgCudvjhNBV3x75XX1OqEQ| 
@@ -38,14 +41,13 @@
 | 20221116 | 网络空间测绘理论体系概述 | https://mp.weixin.qq.com/s/CxZAfsTzY4r1AQLcNP-JGg| 
 | 20221116 | 域渗透思维导图 | https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg| 
 | 20221116 | 如何成为优秀工程师之软技能篇 | https://mp.weixin.qq.com/s/pQqSHw-Gou8Sd70hvZWl8g| 
-| 20221116 | 互联网跟帖评论服务管理规定 | http://www.cac.gov.cn/2022-11/16/c_1670253725725039.htm| 
-| 20221116 | 域渗透思维导图 | https://mp.weixin.qq.com/s/ygTeMU4Oh7SaTci2UtA70w| 
-| 20221114 | SecWiki周刊（第454期) | https://www.sec-wiki.com/weekly/454| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221118T12:23:04Z | CVE-2021-41773 | Null | https://github.com/Adamanti1/CVE-2021-41773-Vulnerable-service | | 
+| 20221118T07:07:18Z | cve-2022-0441 | CVE-2022-0441 - MasterStudy LMS 2.7.6 | https://github.com/SDragon1205/cve-2022-0441 | | 
 | 20221118T02:13:06Z | CVE-2021-43798 | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | | 
 | 20221118T01:18:53Z | CVE-2021-29447 | Null | https://github.com/Abdulazizalsewedy/CVE-2021-29447 | | 
 | 20221118T01:18:50Z | CVE-2022-0847 | Null | https://github.com/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability- | | 
@@ -54,14 +56,12 @@
 | 20221118T01:18:41Z | CVE-2021-21972 | Null | https://github.com/trhacknon/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | | 
 | 20221118T01:18:38Z | CVE-2021-21972 | Null | https://github.com/trhacknon/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972 | | 
 | 20221118T01:08:16Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | | 
-| 20221118T00:05:55Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | | 
-| 20221117T23:51:59Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221118T01:46:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9269 | 313| 
+| 20221118T09:55:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9274 | 313| 
 | 20221117T16:55:47Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
 | 20221116T13:54:23Z | Config files for my GitHub profile. | https://github.com/Kleevietanh98/Kleevietanh98 | 0 | 0| 
 | 20221116T12:14:16Z | Btos%s Discord Bot for Minecraft and Discord report & automation | https://github.com/ItzPeaxel/Klee | 0 | 0| 
@@ -102,16 +102,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T12:10:05Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 13 | 0| 
+| 20221118T09:28:35Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1815 | 416| 
+| 20221118T08:34:13Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 21 | 4| 
+| 20221118T08:20:47Z | Null | https://github.com/shihe98/Source-Specific_Backdoor--Demon_SCAn | 2 | 0| 
+| 20221118T07:35:51Z | shell backdoor web | https://github.com/mrkronkz/shell-backdor | 2 | 0| 
+| 20221118T04:02:01Z | Null | https://github.com/Vankst/backdoor | 0 | 0| 
+| 20221118T03:15:52Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 90 | 11| 
 | 20221118T01:28:02Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 606 | 119| 
 | 20221117T21:23:59Z | Backdoor Hide Plugin Show (Wordpress , CMS) | https://github.com/joysuperman/Hide-Pludin-Show | 0 | 0| 
 | 20221117T20:54:23Z | Wp Backdoor Plugin | https://github.com/joysuperman/Wp-Backdoor-Plugin | 0 | 0| 
-| 20221117T19:41:15Z | Null | https://github.com/LunaData1111/Backdoor-to-vault | 0 | 0| 
-| 20221117T16:13:45Z | Null | https://github.com/somesmall/CSE498-AML-Xiyang-Hu-Backdoor-Benchmark | 0 | 0| 
-| 20221117T15:30:37Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 582 | 205| 
-| 20221117T14:45:13Z | Null | https://github.com/AlexVoin04/Backdoor | 0 | 0| 
-| 20221117T13:47:19Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 187 | 46| 
-| 20221117T11:47:30Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
-| 20221117T10:54:04Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T12:43:43Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 71 | 7| 
+| 20221118T12:35:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4441 | 1074| 
+| 20221118T12:03:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8047 | 1755| 
+| 20221118T11:36:56Z | CS361 - Artifical Intelligence , Tic tac toe project with implemented min max algorithm and alpha beta pruning | https://github.com/SalehBM/fuzzy-adventure | 0 | 0| 
 | 20221118T02:52:04Z | This repository is a key code for static fuzzy mutation techniques based on abstract syntax trees. All the algorithms in this repository can be improved and used as mutators by relevant researchers. | https://github.com/Static-bugs-Detection-Club/static-fuzzy-mutation | 0 | 0| 
 | 20221118T01:44:11Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4876 | 499| 
 | 20221118T01:32:58Z | About Exemplo prático aplicando a lógica fuzzy. Disciplina de Inteligência Artificial do IFTO campus Paraíso. | https://github.com/realmarcos/Ex_implementacao_Logica_Fuzzy | 0 | 0| 
 | 20221118T01:15:41Z | Null | https://github.com/shivakumar20/fuzzy_match | 0 | 0| 
 | 20221118T01:14:35Z | Null | https://github.com/koenmatek/fuzzy-bassoon | 0 | 0| 
 | 20221117T23:51:23Z | Directory bruteforcing on Wordpress. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
-| 20221117T23:37:43Z | Null | https://github.com/magdalenakedzia/fuzzy-place | 1 | 0| 
-| 20221117T23:07:21Z | DeeFuzzRadio | https://github.com/yomguy/DeeFuzzRadio | 0 | 0| 
-| 20221117T21:51:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1754| 
-| 20221117T20:34:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4440 | 1073| 
 
 
 
