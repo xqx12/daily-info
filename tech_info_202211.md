@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T13:48:11Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd.py | 2 | 0| 
+| 20221118T13:47:46Z | Sample project to show off an exploit in older versions of Android | https://github.com/savvasdalkitsis/LocationExploit | 0 | 0| 
 | 20221118T12:19:20Z | Chromium javascript engine n-day exploits. | https://github.com/anvbis/chrome.v8.n-days | 0 | 0| 
 | 20221118T10:41:13Z | Unravels any libcs magic for your ret2libc exploit. | https://github.com/m1ghtym0/magic_gadget_finder | 75 | 9| 
 | 20221118T09:17:58Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-alter-exploit | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20221118T07:23:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12335 | 2121| 
 | 20221118T02:53:55Z | Null | https://github.com/HexHive/Evocatio | 12 | 1| 
 | 20221118T02:24:46Z | Pentest Showcase : Security Vulnerability Exploitation In Web Applications | https://github.com/rizkytegar/canting | 0 | 0| 
-| 20221118T02:22:34Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/ziyaasxzv/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
-| 20221118T02:13:06Z | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | 0 | 0| 
 
 
 # backdoor on Github 推荐
