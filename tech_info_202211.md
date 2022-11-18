@@ -146,10 +146,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T13:18:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8048 | 1755| 
 | 20221118T13:04:53Z | Null | https://github.com/MU-HPDI/FuzzyFusion_DeepLearning_Tutorial | 0 | 0| 
 | 20221118T12:43:43Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 71 | 7| 
 | 20221118T12:35:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4441 | 1074| 
-| 20221118T12:03:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8047 | 1755| 
 | 20221118T11:36:56Z | CS361 - Artifical Intelligence , Tic tac toe project with implemented min max algorithm and alpha beta pruning | https://github.com/SalehBM/fuzzy-adventure | 0 | 0| 
 | 20221118T02:52:04Z | This repository is a key code for static fuzzy mutation techniques based on abstract syntax trees. All the algorithms in this repository can be improved and used as mutators by relevant researchers. | https://github.com/Static-bugs-Detection-Club/static-fuzzy-mutation | 0 | 0| 
 | 20221118T01:44:11Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4876 | 499| 
