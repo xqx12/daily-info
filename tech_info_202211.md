@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221118T13:29:16Z | CVE-2022-40127 | Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC | https://github.com/Mr-xn/CVE-2022-40127 | | 
 | 20221118T12:23:04Z | CVE-2021-41773 | Null | https://github.com/Adamanti1/CVE-2021-41773-Vulnerable-service | | 
 | 20221118T07:07:18Z | cve-2022-0441 | CVE-2022-0441 - MasterStudy LMS 2.7.6 | https://github.com/SDragon1205/cve-2022-0441 | | 
 | 20221118T02:13:06Z | CVE-2021-43798 | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | | 
@@ -55,7 +56,6 @@
 | 20221118T01:18:44Z | CVE-2022-43096 | Null | https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096 | | 
 | 20221118T01:18:41Z | CVE-2021-21972 | Null | https://github.com/trhacknon/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | | 
 | 20221118T01:18:38Z | CVE-2021-21972 | Null | https://github.com/trhacknon/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972 | | 
-| 20221118T01:08:16Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | | 
 
 
 # klee on Github 推荐
