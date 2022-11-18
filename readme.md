@@ -89,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221117T23:51:23Z | Directory bruteforcing on Wordpress. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
+| 20221117T23:37:43Z | Null | https://github.com/magdalenakedzia/fuzzy-place | 1 | 0| 
+| 20221117T23:07:21Z | DeeFuzzRadio | https://github.com/yomguy/DeeFuzzRadio | 0 | 0| 
+| 20221117T21:51:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1754| 
+| 20221117T20:34:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4440 | 1073| 
+| 20221117T20:07:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1134 | 144| 
 | 20221117T13:48:14Z | Null | https://github.com/paolorabbito/fuzzyWuzzy | 0 | 0| 
 | 20221117T13:18:51Z | Null | https://github.com/abdalla/fuzzing-tests-go | 0 | 0| 
 | 20221117T13:06:49Z | MuFuzz: Enlightening Smart Contract Fuzzing via State-Oriented Mutation and Dynamic Energy Adjustment (ISSTA 2023 Under Review) | https://github.com/PaperCodeBase/MuFuzz | 0 | 0| 
 | 20221117T12:26:39Z | This repository is a key code for static fuzzy mutation techniques based on abstract syntax trees. All the algorithms in this repository can be improved and used as mutators by relevant researchers. | https://github.com/dengpeiran/static-fuzzy-mutation | 0 | 0| 
-| 20221117T12:08:41Z | create micro services | https://github.com/soumyadevporiya/fuzzy-invention | 0 | 0| 
-| 20221117T11:32:24Z | Null | https://github.com/SpaceNaN/fuzzjit | 20 | 3| 
-| 20221117T11:07:14Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 102 | 8| 
-| 20221117T10:26:53Z | Python script for asynchrous fuzz multiple URL and routes | https://github.com/0x4380/rfuzz | 0 | 0| 
-| 20221117T03:52:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1754| 
-| 20221117T02:32:05Z | Directory bruteforcing on Wordpress websites. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
 
 
 
