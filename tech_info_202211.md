@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T02:53:55Z | Null | https://github.com/HexHive/Evocatio | 12 | 1| 
 | 20221118T02:24:46Z | Pentest Showcase : Security Vulnerability Exploitation In Web Applications | https://github.com/rizkytegar/canting | 0 | 0| 
 | 20221118T02:22:34Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/ziyaasxzv/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
 | 20221118T02:13:06Z | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221117T23:31:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANuu | 1 | 0| 
 | 20221117T23:31:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANuu | 1 | 0| 
 | 20221117T23:27:50Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANuu | 1 | 0| 
-| 20221117T22:25:14Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221118T02:50:46Z | Null | https://github.com/Static-bugs-Detection-Club/static-fuzzy-mutation | 0 | 0| 
+| 20221118T02:52:04Z | This repository is a key code for static fuzzy mutation techniques based on abstract syntax trees. All the algorithms in this repository can be improved and used as mutators by relevant researchers. | https://github.com/Static-bugs-Detection-Club/static-fuzzy-mutation | 0 | 0| 
 | 20221118T01:44:11Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4876 | 499| 
 | 20221118T01:32:58Z | About Exemplo prático aplicando a lógica fuzzy. Disciplina de Inteligência Artificial do IFTO campus Paraíso. | https://github.com/realmarcos/Ex_implementacao_Logica_Fuzzy | 0 | 0| 
 | 20221118T01:15:41Z | Null | https://github.com/shivakumar20/fuzzy_match | 0 | 0| 
