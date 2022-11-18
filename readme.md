@@ -45,13 +45,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T12:19:20Z | Chromium javascript engine n-day exploits. | https://github.com/anvbis/chrome.v8.n-days | 0 | 0| 
+| 20221118T10:41:13Z | Unravels any libcs magic for your ret2libc exploit. | https://github.com/m1ghtym0/magic_gadget_finder | 75 | 9| 
+| 20221118T09:17:58Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-alter-exploit | 0 | 0| 
+| 20221118T08:52:09Z | Config files for my GitHub profile. | https://github.com/BadExploit/BadExploit | 0 | 0| 
+| 20221118T08:27:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 547 | 144| 
+| 20221118T07:23:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12335 | 2121| 
 | 20221118T02:53:55Z | Null | https://github.com/HexHive/Evocatio | 12 | 1| 
 | 20221118T02:24:46Z | Pentest Showcase : Security Vulnerability Exploitation In Web Applications | https://github.com/rizkytegar/canting | 0 | 0| 
 | 20221118T02:22:34Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/ziyaasxzv/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
 | 20221118T02:13:06Z | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | 0 | 0| 
-| 20221118T02:00:53Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/ziyaasxzv/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
-| 20221118T01:52:18Z | Automation for return2dlsolve binary exploit  | https://github.com/L0rdT33z/r2dlresolve-auto | 0 | 0| 
-| 20221118T01:43:15Z | Null | https://github.com/rizkytegar/canting-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -70,6 +73,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T10:33:09Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 4 | 3| 
+| 20221118T09:13:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3204 | 453| 
 
 
 # big4 on Github 推荐

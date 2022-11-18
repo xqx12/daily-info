@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T12:19:20Z | Chromium javascript engine n-day exploits. | https://github.com/anvbis/chrome.v8.n-days | 0 | 0| 
+| 20221118T10:41:13Z | Unravels any libcs magic for your ret2libc exploit. | https://github.com/m1ghtym0/magic_gadget_finder | 75 | 9| 
+| 20221118T09:17:58Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-alter-exploit | 0 | 0| 
+| 20221118T08:52:09Z | Config files for my GitHub profile. | https://github.com/BadExploit/BadExploit | 0 | 0| 
+| 20221118T08:27:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 547 | 144| 
+| 20221118T07:23:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12335 | 2121| 
 | 20221118T02:53:55Z | Null | https://github.com/HexHive/Evocatio | 12 | 1| 
 | 20221118T02:24:46Z | Pentest Showcase : Security Vulnerability Exploitation In Web Applications | https://github.com/rizkytegar/canting | 0 | 0| 
 | 20221118T02:22:34Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/ziyaasxzv/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
 | 20221118T02:13:06Z | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | 0 | 0| 
-| 20221118T02:00:53Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/ziyaasxzv/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
-| 20221118T01:52:18Z | Automation for return2dlsolve binary exploit  | https://github.com/L0rdT33z/r2dlresolve-auto | 0 | 0| 
-| 20221118T01:43:15Z | Null | https://github.com/rizkytegar/canting-exploit | 0 | 0| 
-| 20221117T23:31:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANuu | 1 | 0| 
-| 20221117T23:31:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANuu | 1 | 0| 
-| 20221117T23:27:50Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANuu | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T10:33:09Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 4 | 3| 
+| 20221118T09:13:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3204 | 453| 
 | 20221117T08:58:34Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 594 | 106| 
 | 20221117T04:17:28Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 501 | 28| 
 | 20221117T03:10:15Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 79 | 16| 
 | 20221116T20:15:39Z | Lab 2 for CS527 | https://github.com/franciscob1218/CS527-Symbolic-Execution | 0 | 0| 
 | 20221116T17:50:26Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 48 | 3| 
-| 20221116T10:57:10Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3200 | 453| 
 | 20221115T23:33:55Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 51 | 24| 
 | 20221115T12:38:34Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 10 | 2| 
 | 20221115T07:43:47Z | A program analysis tool based on symbolic execution to find bugs. | https://github.com/0x41-13/mit-6.858-lab3 | 1 | 0| 
-| 20221114T05:58:22Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 272 | 66| 
 
 
 # big4 on Github 推荐
