@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T02:50:46Z | Null | https://github.com/Static-bugs-Detection-Club/static-fuzzy-mutation | 0 | 0| 
 | 20221118T01:44:11Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4876 | 499| 
 | 20221118T01:32:58Z | About Exemplo prático aplicando a lógica fuzzy. Disciplina de Inteligência Artificial do IFTO campus Paraíso. | https://github.com/realmarcos/Ex_implementacao_Logica_Fuzzy | 0 | 0| 
 | 20221118T01:15:41Z | Null | https://github.com/shivakumar20/fuzzy_match | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221117T23:07:21Z | DeeFuzzRadio | https://github.com/yomguy/DeeFuzzRadio | 0 | 0| 
 | 20221117T21:51:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8045 | 1754| 
 | 20221117T20:34:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4440 | 1073| 
-| 20221117T20:07:40Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1134 | 144| 
 
 
 
