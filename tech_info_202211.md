@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221117 | com组件的从0-1 | https://tttang.com/archive/1824/| 
+| 20221117 | Linux 内核 cls_route 过滤器 UAF 漏洞（CVE-2022-2588）分析与验证 | http://paper.seebug.org/2019/| 
 | 20221114 | 利用 Ptrace 的调试能力实现跨进程任意 syscall 调用 | https://medium.com/@0xFounders/using-rust-and-ptrace-to-invoke-syscalls-262dc585fcd3| 
 | 20221114 | Windows CLFS 日志文件系统 CVE-2022-24481 野外漏洞的分析以及补丁的绕过分析 | http://blog.northseapwn.top/2022/11/11/Windows-Kernel-Exploit-CVE-2022-35803-in-Common-Log-File-System/index.html| 
 | 20221114 | WebKit JavaScriptCore JIT CVE-2020-9802 漏洞的分析和利用 | https://shxdow.me/cve-2020-9802/| 
@@ -24,8 +26,6 @@
 | 20221111 | Positive Hack Days 2022 安全论坛上的 ATM Hacking 挑战题的 writeup | http://boschko.ca/atm-kiosk-hacking-phd2022/| 
 | 20221111 | xterm 虚拟终端被发现由 ^G 引发的漏洞，特殊条件下可以实现 RCE | http://www.openwall.com/lists/oss-security/2022/11/10/1| 
 | 20221111 | 这篇 Blog 以 SQLite 的一个整数溢出漏洞为例介绍编译器的 Divergent representations 问题，即编译器对变量溢出的处理在不同地方不一致的问题 | http://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/| 
-| 20221111 | Google Pixel 设备被发现锁屏绕过漏洞，影响所有 Google Pixel 设备 | http://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/| 
-| 20221111 | 研究员 Mickey Jin 在这两天举办的 POC 会议上分享的多个 macOS SIP Bypass 漏洞的细节 | https://sec.today/pulses/025a68fc-96c9-4a37-9fb2-644d3b52c940/| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221117T13:25:32Z | CVE-2022-0847 | Null | https://github.com/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability- | | 
-| 20221117T12:57:47Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
-| 20221117T09:10:13Z | CVE-2022-43096 | Null | https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096 | | 
-| 20221117T08:09:54Z | CVE-2021-21972 | Null | https://github.com/trhacknon/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | | 
-| 20221117T08:09:04Z | CVE-2021-21972 | Null | https://github.com/trhacknon/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972 | | 
-| 20221117T07:23:03Z | CVE-2021-44228 | Null | https://github.com/trhacknon/CVE-2021-44228-Scanner | | 
-| 20221117T06:20:39Z | CVE-2022-24706 | CouchDB & EPMD RCE exploit | https://github.com/LightningGod7/CVE-2022-24706-POC | | 
-| 20221117T04:03:13Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
-| 20221117T03:40:53Z | CVE-2021-29447 | A Golang program to automate the execution of CVE-2021-29447 | https://github.com/thomas-osgood/CVE-2021-29447 | | 
-| 20221117T02:38:39Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
+| 20221118T02:13:06Z | CVE-2021-43798 | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | | 
+| 20221118T01:18:53Z | CVE-2021-29447 | Null | https://github.com/Abdulazizalsewedy/CVE-2021-29447 | | 
+| 20221118T01:18:50Z | CVE-2022-0847 | Null | https://github.com/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability- | | 
+| 20221118T01:18:47Z | CVE-2022-31691 | A write-up of my (so far inconclusive) look into CVE-2022-31691 | https://github.com/SpindleSec/CVE-2022-31691 | | 
+| 20221118T01:18:44Z | CVE-2022-43096 | Null | https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096 | | 
+| 20221118T01:18:41Z | CVE-2021-21972 | Null | https://github.com/trhacknon/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | | 
+| 20221118T01:18:38Z | CVE-2021-21972 | Null | https://github.com/trhacknon/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972 | | 
+| 20221118T01:08:16Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | | 
+| 20221118T00:05:55Z | CVE-2022-0847 | A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability. | https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20221117T23:51:59Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221117T12:12:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9262 | 313| 
+| 20221118T01:46:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9269 | 313| 
+| 20221117T16:55:47Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
 | 20221116T13:54:23Z | Config files for my GitHub profile. | https://github.com/Kleevietanh98/Kleevietanh98 | 0 | 0| 
 | 20221116T12:14:16Z | Btos%s Discord Bot for Minecraft and Discord report & automation | https://github.com/ItzPeaxel/Klee | 0 | 0| 
 | 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221114T08:54:37Z | Null | https://github.com/CristiGB/klee-Card | 0 | 0| 
 | 20221113T22:24:50Z | Config files for my GitHub profile. | https://github.com/kleewerock22/kleewerock22 | 0 | 0| 
 | 20221113T13:57:43Z | Config files for my GitHub profile. | https://github.com/Kleeby/Kleeby | 0 | 0| 
-| 20221113T10:28:35Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221117T13:35:02Z | ESMORGA: Exploiting Superconvergence in Meshes for Optimal Representations of the Geometry with high Accuracy   | https://github.com/XuliaDS/esmorga | 0 | 0| 
-| 20221117T13:20:25Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 7852 | 1823| 
-| 20221117T13:09:21Z | An Vulnerable Bank Page that is Vulnerable to Log4Shell Exploit | https://github.com/Qerim-iseni09/Insecure-Bank | 0 | 0| 
-| 20221117T13:00:22Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/peixerahasx/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
-| 20221117T12:58:42Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/peixerahasx/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
-| 20221117T12:57:47Z | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | 6 | 1| 
-| 20221117T12:44:04Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/peixerahasx/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
-| 20221117T09:39:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12332 | 2120| 
-| 20221117T08:55:55Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4828 | 1661| 
-| 20221117T07:54:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3758 | 461| 
+| 20221118T02:24:46Z | Pentest Showcase : Security Vulnerability Exploitation In Web Applications | https://github.com/rizkytegar/canting | 0 | 0| 
+| 20221118T02:22:34Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/ziyaasxzv/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
+| 20221118T02:13:06Z | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | 0 | 0| 
+| 20221118T02:00:53Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/ziyaasxzv/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
+| 20221118T01:52:18Z | Automation for return2dlsolve binary exploit  | https://github.com/L0rdT33z/r2dlresolve-auto | 0 | 0| 
+| 20221118T01:43:15Z | Null | https://github.com/rizkytegar/canting-exploit | 0 | 0| 
+| 20221117T23:31:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANuu | 1 | 0| 
+| 20221117T23:31:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANuu | 1 | 0| 
+| 20221117T23:27:50Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANuu | 1 | 0| 
+| 20221117T22:25:14Z | Null | https://github.com/0x414141414/Silent-Word-Exploit-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T01:28:02Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 606 | 119| 
+| 20221117T21:23:59Z | Backdoor Hide Plugin Show (Wordpress , CMS) | https://github.com/joysuperman/Hide-Pludin-Show | 0 | 0| 
+| 20221117T20:54:23Z | Wp Backdoor Plugin | https://github.com/joysuperman/Wp-Backdoor-Plugin | 0 | 0| 
+| 20221117T19:41:15Z | Null | https://github.com/LunaData1111/Backdoor-to-vault | 0 | 0| 
+| 20221117T16:13:45Z | Null | https://github.com/somesmall/CSE498-AML-Xiyang-Hu-Backdoor-Benchmark | 0 | 0| 
+| 20221117T15:30:37Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 582 | 205| 
+| 20221117T14:45:13Z | Null | https://github.com/AlexVoin04/Backdoor | 0 | 0| 
 | 20221117T13:47:19Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 187 | 46| 
 | 20221117T11:47:30Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
 | 20221117T10:54:04Z | Velt Backdoor Framework | https://github.com/topsideduck/Velt | 0 | 0| 
-| 20221117T10:38:50Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 20 | 4| 
-| 20221117T10:21:11Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 604 | 119| 
-| 20221117T09:03:45Z | Hikvision Backdoor using Shodan. Python file that scans IP%s from Shodan. | https://github.com/mr-exo/HikvisionBackdoor | 0 | 0| 
-| 20221117T08:30:46Z | Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection | https://github.com/yuanchun-li/DeepPayload | 1 | 0| 
-| 20221117T02:54:57Z | 一款基于Http.sys的利用工具    ZhuriLab/Joker 备份 | https://github.com/Mr-xn/Joker | 7 | 5| 
-| 20221117T02:24:28Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 1349 | 536| 
-| 20221116T19:53:34Z | It is the latest version of private RAT called Xworm. I share this one for free, so leave the star⭐ to this repository | https://github.com/Shinyenigma/XWorm-RAT | 49 | 26| 
 
 
 # symbolic execution on Github 推荐
