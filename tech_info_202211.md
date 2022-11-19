@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T13:03:23Z | Null | https://github.com/Esesna/FuzzyLogic_and_GA | 0 | 0| 
 | 20221119T12:48:15Z | Directory and page bruteforcing on Wordpress. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
 | 20221119T08:48:26Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
 | 20221119T07:56:18Z | ZTP Eye Shredder Fuzzer (Using UE to Orchestrate Dolphin instances) | https://github.com/zcanann/EyeShredderFuzzer | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221119T02:50:09Z | Coverage-guided fuzzing system based on gradient vector coverage for deep neural networks | https://github.com/seclab-yonsei/GradFuzz-keras | 1 | 0| 
 | 20221119T02:44:14Z | fuzzy tahani | https://github.com/alvinamam/fuzzy | 0 | 0| 
 | 20221118T22:10:58Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1803 | 201| 
-| 20221118T22:07:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8049 | 1755| 
 
 
 
