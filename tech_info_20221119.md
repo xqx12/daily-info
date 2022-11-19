@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T13:17:44Z | Oxygen u roblox exploit ported for gnu linux. | https://github.com/evghenii12/Oxygenuforgnu-linux | 0 | 0| 
 | 20221119T13:03:38Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 282 | 59| 
 | 20221119T12:05:56Z | Exploiting Dynamic Spatio-Temporal Correlations For Origin-Destination Demand Prediction | https://github.com/yepiao11/DSTCN | 0 | 0| 
 | 20221119T11:57:55Z | Null | https://github.com/yuozhao/Exploit-Collection | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20221119T10:36:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5054 | 703| 
 | 20221119T02:46:18Z | Api for whatsexploits | https://github.com/NomadWithoutAHome/WhatExploitsAPI | 0 | 0| 
 | 20221119T01:51:26Z | Undtected Python based Cs Exploit | https://github.com/DebatesCheats/MazeV4 | 0 | 0| 
-| 20221119T01:09:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyu | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -76,7 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221119T13:11:55Z | Null | https://github.com/fuzzybuzzyboy/Fuzzy.me | 0 | 0| 
+| 20221119T13:18:08Z | Null | https://github.com/h33tlit/BOF-fuzz | 0 | 0| 
+| 20221119T13:17:37Z | Null | https://github.com/fuzzybuzzyboy/Fuzzy.me | 0 | 0| 
 | 20221119T13:03:23Z | Null | https://github.com/Esesna/FuzzyLogic_and_GA | 0 | 0| 
 | 20221119T12:48:15Z | Directory and page bruteforcing on Wordpress. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
 | 20221119T08:48:26Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20221119T07:01:38Z | Null | https://github.com/alfianDKurnia/Fuzzy-Logic | 0 | 0| 
 | 20221119T05:01:22Z | Null | https://github.com/erniuks12/fuzzy-octo-disco | 0 | 0| 
 | 20221119T02:50:09Z | Coverage-guided fuzzing system based on gradient vector coverage for deep neural networks | https://github.com/seclab-yonsei/GradFuzz-keras | 1 | 0| 
-| 20221119T02:44:14Z | fuzzy tahani | https://github.com/alvinamam/fuzzy | 0 | 0| 
 
 
 
