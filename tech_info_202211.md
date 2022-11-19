@@ -87,7 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221119T01:06:51Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyu | 0 | 0| 
+| 20221119T01:09:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyu | 1 | 0| 
+| 20221119T01:08:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyu | 1 | 0| 
+| 20221119T01:07:16Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyu | 1 | 0| 
 | 20221119T00:18:16Z | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | 1 | 0| 
 | 20221118T23:38:41Z | iOS 15.0-15.7.1 semi-tethered jailbreak based on the checkm8 BootROM exploit | https://github.com/Dylbin/bluera1n | 0 | 0| 
 | 20221118T22:57:44Z | Supporting programs that leverage efforts to research Cortex XDR | https://github.com/mikefak/XDR-PoC | 1 | 0| 
@@ -95,8 +97,6 @@
 | 20221118T19:33:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3761 | 465| 
 | 20221118T17:31:48Z | Null | https://github.com/DShankle/HEVD_Stack_Overflow_Exploit | 0 | 0| 
 | 20221118T13:48:11Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd.py | 2 | 0| 
-| 20221118T13:47:46Z | Sample project to show off an exploit in older versions of Android | https://github.com/savvasdalkitsis/LocationExploit | 0 | 0| 
-| 20221118T12:19:20Z | Chromium javascript engine n-day exploits. | https://github.com/anvbis/chrome.v8.n-days | 0 | 0| 
 
 
 # backdoor on Github 推荐
