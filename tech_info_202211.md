@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T02:46:18Z | Api for whatsexploits | https://github.com/NomadWithoutAHome/WhatExploitsAPI | 0 | 0| 
 | 20221119T01:51:26Z | Undtected Python based Cs Exploit | https://github.com/DebatesCheats/MazeV4 | 0 | 0| 
 | 20221119T01:09:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyu | 1 | 0| 
 | 20221119T01:08:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyu | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20221118T23:38:41Z | iOS 15.0-15.7.1 semi-tethered jailbreak based on the checkm8 BootROM exploit | https://github.com/Dylbin/bluera1n | 0 | 0| 
 | 20221118T22:57:44Z | Supporting programs that leverage efforts to research Cortex XDR | https://github.com/mikefak/XDR-PoC | 1 | 0| 
 | 20221118T21:34:40Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 40 | 23| 
-| 20221118T19:33:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3761 | 465| 
 
 
 # backdoor on Github 推荐
