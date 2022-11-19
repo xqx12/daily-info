@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T13:03:38Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 282 | 59| 
 | 20221119T12:05:56Z | Exploiting Dynamic Spatio-Temporal Correlations For Origin-Destination Demand Prediction | https://github.com/yepiao11/DSTCN | 0 | 0| 
 | 20221119T11:57:55Z | Null | https://github.com/yuozhao/Exploit-Collection | 0 | 0| 
 | 20221119T11:54:33Z | Null | https://github.com/vasev85/exploit | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20221119T02:46:18Z | Api for whatsexploits | https://github.com/NomadWithoutAHome/WhatExploitsAPI | 0 | 0| 
 | 20221119T01:51:26Z | Undtected Python based Cs Exploit | https://github.com/DebatesCheats/MazeV4 | 0 | 0| 
 | 20221119T01:09:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyu | 1 | 0| 
-| 20221119T01:08:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyu | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -61,6 +61,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T11:53:09Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 11 | 2| 
+| 20221119T10:14:01Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 14 | 0| 
+| 20221119T09:06:37Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 273 | 66| 
 | 20221119T02:58:00Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 80 | 16| 
 | 20221119T01:33:01Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 49 | 3| 
 
