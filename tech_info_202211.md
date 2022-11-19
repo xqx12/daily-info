@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221119T13:17:44Z | Oxygen u roblox exploit ported for gnu linux. | https://github.com/evghenii12/Oxygenuforgnu-linux | 0 | 0| 
+| 20221119T13:29:38Z | Oxygen u roblox exploit ported for gnu linux. | https://github.com/evghenii12/Oxygenuforgnu-linux | 0 | 0| 
 | 20221119T13:03:38Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 282 | 59| 
 | 20221119T12:05:56Z | Exploiting Dynamic Spatio-Temporal Correlations For Origin-Destination Demand Prediction | https://github.com/yepiao11/DSTCN | 0 | 0| 
 | 20221119T11:57:55Z | Null | https://github.com/yuozhao/Exploit-Collection | 0 | 0| 
