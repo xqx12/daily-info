@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T13:11:55Z | Null | https://github.com/fuzzybuzzyboy/Fuzzy.me | 0 | 0| 
 | 20221119T13:03:23Z | Null | https://github.com/Esesna/FuzzyLogic_and_GA | 0 | 0| 
 | 20221119T12:48:15Z | Directory and page bruteforcing on Wordpress. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
 | 20221119T08:48:26Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
