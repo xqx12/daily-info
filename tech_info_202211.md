@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221119 | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg| 
+| 20221119 | 2022信息安全四大顶会Fuzz论文汇总 | https://mp.weixin.qq.com/s/fXopKsFW4mwkUK29AwsnSA| 
 | 20221118 | Akamai 在新观察到的域名中每月可标记 1300 万恶意域名 | https://mp.weixin.qq.com/s/A_tNuBiBvMeavfhPndsRbg| 
 | 20221118 | Brute Ratel C4 Badger分析实战与检测 | https://mp.weixin.qq.com/s/Nnag6DSf_wx2YrnTXEwNug| 
 | 20221118 | 网络空间测绘视角下的乌克兰网络脆弱性分析 | https://mp.weixin.qq.com/s/KgwMSpIfvmOqqn_pgdrGjQ| 
@@ -39,14 +41,13 @@
 | 20221117 | 战场智能指挥系统 DELTA 深度分析报告 | https://mp.weixin.qq.com/s/dgCudvjhNBV3x75XX1OqEQ| 
 | 20221117 | SecXOps安全智能分析技术白皮书 | http://blog.nsfocus.net/wp-content/uploads/2022/11/SecXOps-whitepaper.pdf| 
 | 20221116 | 网络空间测绘理论体系概述 | https://mp.weixin.qq.com/s/CxZAfsTzY4r1AQLcNP-JGg| 
-| 20221116 | 域渗透思维导图 | https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg| 
-| 20221116 | 如何成为优秀工程师之软技能篇 | https://mp.weixin.qq.com/s/pQqSHw-Gou8Sd70hvZWl8g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221119T02:17:37Z | CVE-2022-40127 | Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC | https://github.com/Mr-xn/CVE-2022-40127 | | 
+| 20221119T12:22:17Z | CVE-2022-40127 | Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC | https://github.com/Mr-xn/CVE-2022-40127 | | 
+| 20221119T10:36:37Z | CVE-2022-3992 | Cross Site Scripting on sanitization-management-system | https://github.com/Urban4/CVE-2022-3992 | | 
 | 20221118T18:28:57Z | CVE-2021-3166 | Mastering CVE-2021-3166 | https://github.com/kaisersource/CVE-2021-3166 | | 
 | 20221118T18:02:31Z | CVE-2021-42013 | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | https://github.com/12345qwert123456/CVE-2021-42013 | | 
 | 20221118T18:02:12Z | CVE-2021-41773 | Vulnerable configuration Apache HTTP Server version 2.4.49 | https://github.com/12345qwert123456/CVE-2021-41773 | | 
@@ -55,12 +56,12 @@
 | 20221118T02:13:06Z | CVE-2021-43798 | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | | 
 | 20221118T01:18:53Z | CVE-2021-29447 | Null | https://github.com/Abdulazizalsewedy/CVE-2021-29447 | | 
 | 20221118T01:18:50Z | CVE-2022-0847 | Null | https://github.com/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability- | | 
-| 20221118T01:18:47Z | CVE-2022-31691 | A write-up of my (so far inconclusive) look into CVE-2022-31691 | https://github.com/SpindleSec/CVE-2022-31691 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T06:39:38Z | Config files for my GitHub profile. | https://github.com/GabiKleebi02/GabiKleebi02 | 0 | 0| 
 | 20221119T02:37:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9282 | 313| 
 | 20221118T13:39:39Z | Null | https://github.com/cornelizbasa-pinteam/klee-demo | 0 | 0| 
 | 20221117T16:55:47Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221114T19:35:33Z | Klee | https://github.com/aiskunks/Klee | 2 | 1| 
 | 20221114T15:36:44Z | Config files for my GitHub profile. | https://github.com/Kleeh62/Kleeh62 | 0 | 0| 
 | 20221114T08:54:37Z | Null | https://github.com/CristiGB/klee-Card | 0 | 0| 
-| 20221113T22:24:50Z | Config files for my GitHub profile. | https://github.com/kleewerock22/kleewerock22 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T12:05:56Z | Exploiting Dynamic Spatio-Temporal Correlations For Origin-Destination Demand Prediction | https://github.com/yepiao11/DSTCN | 0 | 0| 
+| 20221119T11:57:55Z | Null | https://github.com/yuozhao/Exploit-Collection | 0 | 0| 
+| 20221119T11:54:33Z | Null | https://github.com/vasev85/exploit | 0 | 0| 
+| 20221119T11:17:03Z | Null | https://github.com/ManiSelvaraj123/xss-exploit | 0 | 0| 
+| 20221119T10:37:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12337 | 2123| 
+| 20221119T10:36:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5054 | 703| 
 | 20221119T02:46:18Z | Api for whatsexploits | https://github.com/NomadWithoutAHome/WhatExploitsAPI | 0 | 0| 
 | 20221119T01:51:26Z | Undtected Python based Cs Exploit | https://github.com/DebatesCheats/MazeV4 | 0 | 0| 
 | 20221119T01:09:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyu | 1 | 0| 
 | 20221119T01:08:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyu | 1 | 0| 
-| 20221119T01:07:16Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyu | 1 | 0| 
-| 20221119T00:55:54Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 105 | 86| 
-| 20221119T00:18:16Z | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | 1 | 0| 
-| 20221118T23:38:41Z | iOS 15.0-15.7.1 semi-tethered jailbreak based on the checkm8 BootROM exploit | https://github.com/Dylbin/bluera1n | 0 | 0| 
-| 20221118T22:57:44Z | Supporting programs that leverage efforts to research Cortex XDR | https://github.com/mikefak/XDR-PoC | 1 | 0| 
-| 20221118T21:34:40Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 40 | 23| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T10:27:02Z | Null | https://github.com/elior19940/Revese-Shell-Socket-BackDoor | 0 | 0| 
+| 20221119T08:02:53Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 145 | 27| 
+| 20221119T05:00:00Z | Null | https://github.com/Pranav-guptaa/backdoor | 0 | 0| 
 | 20221118T18:45:16Z | Null | https://github.com/bdg221/testBackdoor | 0 | 0| 
+| 20221118T18:18:21Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 5 | 0| 
 | 20221118T12:10:05Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 13 | 0| 
 | 20221118T09:28:35Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1815 | 416| 
 | 20221118T08:34:13Z | A quick script to spot the usage of Unicode Bidi (bidirectional) characters that could lead to an Invisible Backdoor | https://github.com/cybersecsi/invisible-backdoor-detector | 21 | 4| 
 | 20221118T08:20:47Z | Null | https://github.com/shihe98/Source-Specific_Backdoor--Demon_SCAn | 2 | 0| 
 | 20221118T07:35:51Z | shell backdoor web | https://github.com/mrkronkz/shell-backdor | 2 | 0| 
-| 20221118T04:02:01Z | Null | https://github.com/Vankst/backdoor | 0 | 0| 
-| 20221118T03:15:52Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 90 | 11| 
-| 20221118T01:28:02Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 606 | 119| 
-| 20221117T21:23:59Z | Backdoor Hide Plugin Show (Wordpress , CMS) | https://github.com/joysuperman/Hide-Pludin-Show | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T12:48:15Z | Directory and page bruteforcing on Wordpress. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
+| 20221119T08:48:26Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
+| 20221119T07:56:18Z | ZTP Eye Shredder Fuzzer (Using UE to Orchestrate Dolphin instances) | https://github.com/zcanann/EyeShredderFuzzer | 0 | 0| 
+| 20221119T07:16:27Z | A ZF implementation to produce Java Fuzzers. | https://github.com/deanziyangyu/ZF_Java | 0 | 0| 
+| 20221119T07:01:38Z | Null | https://github.com/alfianDKurnia/Fuzzy-Logic | 0 | 0| 
+| 20221119T05:01:22Z | Null | https://github.com/erniuks12/fuzzy-octo-disco | 0 | 0| 
 | 20221119T02:50:09Z | Coverage-guided fuzzing system based on gradient vector coverage for deep neural networks | https://github.com/seclab-yonsei/GradFuzz-keras | 1 | 0| 
 | 20221119T02:44:14Z | fuzzy tahani | https://github.com/alvinamam/fuzzy | 0 | 0| 
 | 20221118T22:10:58Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1803 | 201| 
 | 20221118T22:07:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8049 | 1755| 
-| 20221118T20:03:47Z | A suite of fuzzing tests for both the live version of the Mattermost server and for the codebase itself. | https://github.com/masonproco/mattermost-fuzzer-cis6614 | 0 | 0| 
-| 20221118T17:45:25Z | PX | https://github.com/Chadiab/Android-Fuzzing | 0 | 0| 
-| 20221118T16:57:33Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 51 | 5| 
-| 20221118T14:26:04Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 443 | 37| 
-| 20221118T14:13:29Z | Null | https://github.com/bob11vrdp/vBoxFuzzer | 0 | 0| 
-| 20221118T13:35:08Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 103 | 8| 
 
 
 
