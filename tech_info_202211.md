@@ -91,12 +91,12 @@
 | 20221119T01:09:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyu | 1 | 0| 
 | 20221119T01:08:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyu | 1 | 0| 
 | 20221119T01:07:16Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyu | 1 | 0| 
+| 20221119T00:55:54Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 105 | 86| 
 | 20221119T00:18:16Z | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | 1 | 0| 
 | 20221118T23:38:41Z | iOS 15.0-15.7.1 semi-tethered jailbreak based on the checkm8 BootROM exploit | https://github.com/Dylbin/bluera1n | 0 | 0| 
 | 20221118T22:57:44Z | Supporting programs that leverage efforts to research Cortex XDR | https://github.com/mikefak/XDR-PoC | 1 | 0| 
 | 20221118T21:34:40Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 40 | 23| 
 | 20221118T19:33:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3761 | 465| 
-| 20221118T17:31:48Z | Null | https://github.com/DShankle/HEVD_Stack_Overflow_Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T02:40:26Z | fuzzy tahani | https://github.com/alvinamam/fuzzy | 0 | 0| 
 | 20221119T02:33:50Z | Coverage-guided fuzzing system based on gradient vector coverage for deep neural networks | https://github.com/seclab-yonsei/GradFuzz-keras | 0 | 0| 
 | 20221118T22:10:58Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1803 | 201| 
 | 20221118T22:07:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8049 | 1755| 
@@ -155,7 +156,6 @@
 | 20221118T14:26:04Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 443 | 37| 
 | 20221118T14:13:29Z | Null | https://github.com/bob11vrdp/vBoxFuzzer | 0 | 0| 
 | 20221118T13:35:08Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 103 | 8| 
-| 20221118T13:04:53Z | Null | https://github.com/MU-HPDI/FuzzyFusion_DeepLearning_Tutorial | 0 | 0| 
 
 
 
