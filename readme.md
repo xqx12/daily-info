@@ -74,6 +74,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221118T15:25:35Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 594 | 106| 
 | 20221118T13:16:32Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 12 | 0| 
 | 20221118T10:33:09Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 4 | 3| 
 | 20221118T09:13:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3204 | 453| 
