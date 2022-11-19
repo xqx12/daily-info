@@ -22,13 +22,13 @@
 | 20221118T18:28:57Z | CVE-2021-3166 | Mastering CVE-2021-3166 | https://github.com/kaisersource/CVE-2021-3166 | | 
 | 20221118T18:02:31Z | CVE-2021-42013 | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | https://github.com/12345qwert123456/CVE-2021-42013 | | 
 | 20221118T18:02:12Z | CVE-2021-41773 | Vulnerable configuration Apache HTTP Server version 2.4.49 | https://github.com/12345qwert123456/CVE-2021-41773 | | 
-| 20221118T15:25:45Z | CVE-2022-40127 | Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC | https://github.com/Mr-xn/CVE-2022-40127 | | 
 | 20221118T12:23:04Z | CVE-2021-41773 | Null | https://github.com/Adamanti1/CVE-2021-41773-Vulnerable-service | | 
 | 20221118T07:07:18Z | cve-2022-0441 | CVE-2022-0441 - MasterStudy LMS 2.7.6 | https://github.com/SDragon1205/cve-2022-0441 | | 
 | 20221118T02:13:06Z | CVE-2021-43798 | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | | 
 | 20221118T01:18:53Z | CVE-2021-29447 | Null | https://github.com/Abdulazizalsewedy/CVE-2021-29447 | | 
 | 20221118T01:18:50Z | CVE-2022-0847 | Null | https://github.com/siholley/CVE-2022-0847-Dirty-Pipe-Vulnerability- | | 
 | 20221118T01:18:47Z | CVE-2022-31691 | A write-up of my (so far inconclusive) look into CVE-2022-31691 | https://github.com/SpindleSec/CVE-2022-31691 | | 
+| 20221118T01:18:44Z | CVE-2022-43096 | Null | https://github.com/ProxyStaffy/Mediatrix-CVE-2022-43096 | | 
 
 
 # klee on Github 推荐
