@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T01:51:26Z | Undtected Python based Cs Exploit | https://github.com/DebatesCheats/MazeV4 | 0 | 0| 
 | 20221119T01:09:08Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyu | 1 | 0| 
 | 20221119T01:08:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyu | 1 | 0| 
 | 20221119T01:07:16Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyu | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20221118T21:34:40Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 40 | 23| 
 | 20221118T19:33:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3761 | 465| 
 | 20221118T17:31:48Z | Null | https://github.com/DShankle/HEVD_Stack_Overflow_Exploit | 0 | 0| 
-| 20221118T13:48:11Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd.py | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T01:49:56Z | Null | https://github.com/seclab-yonsei/GradFuzz-keras | 0 | 0| 
 | 20221118T22:10:58Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 1803 | 201| 
 | 20221118T22:07:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8049 | 1755| 
 | 20221118T20:03:47Z | A suite of fuzzing tests for both the live version of the Mattermost server and for the codebase itself. | https://github.com/masonproco/mattermost-fuzzer-cis6614 | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221118T14:13:29Z | Null | https://github.com/bob11vrdp/vBoxFuzzer | 0 | 0| 
 | 20221118T13:35:08Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 103 | 8| 
 | 20221118T13:04:53Z | Null | https://github.com/MU-HPDI/FuzzyFusion_DeepLearning_Tutorial | 0 | 0| 
-| 20221118T12:43:43Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 71 | 7| 
 
 
 
