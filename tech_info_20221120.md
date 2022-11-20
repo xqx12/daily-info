@@ -74,7 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221120T13:47:17Z | 1st Repository | https://github.com/yagerog/fuzzy-octo-chainsaw | 0 | 0| 
+| 20221120T13:48:38Z | 1st Repository | https://github.com/yagerog/fuzzy-octo-chainsaw | 0 | 0| 
 | 20221120T13:04:07Z | just basic ui component | https://github.com/fuzzy-ez/fuzzy | 2 | 1| 
 | 20221120T11:56:48Z | Null | https://github.com/sara-hajiaghajani/fuzzy_detection | 0 | 0| 
 | 20221120T11:55:53Z | fuzzy-couscous-cli | https://github.com/Tobi-De/fuzzy-couscous-cli | 0 | 0| 
