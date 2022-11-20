@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221120 | 漏洞赏金猎人系列-测试电商类相关功能步骤和Tips-I | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486923&idx=1&sn=32a915045229c85f21da381f5eeb072f&chksm=e8a607a8dfd18ebe9b5248b1310003ce294c239224db8364a999caaa8ad7a898ea597d229e12&token=1618310243&lang=zh_CN#rd| 
 | 20221119 | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg| 
 | 20221119 | 2022信息安全四大顶会Fuzz论文汇总 | https://mp.weixin.qq.com/s/fXopKsFW4mwkUK29AwsnSA| 
 | 20221118 | Akamai 在新观察到的域名中每月可标记 1300 万恶意域名 | https://mp.weixin.qq.com/s/A_tNuBiBvMeavfhPndsRbg| 
@@ -40,29 +41,29 @@
 | 20221117 | 基于统计与变异分析的缺陷变量定位技术 | https://mp.weixin.qq.com/s/XVWFL8LvK9QLprnEG5YYSA| 
 | 20221117 | 战场智能指挥系统 DELTA 深度分析报告 | https://mp.weixin.qq.com/s/dgCudvjhNBV3x75XX1OqEQ| 
 | 20221117 | SecXOps安全智能分析技术白皮书 | http://blog.nsfocus.net/wp-content/uploads/2022/11/SecXOps-whitepaper.pdf| 
-| 20221116 | 网络空间测绘理论体系概述 | https://mp.weixin.qq.com/s/CxZAfsTzY4r1AQLcNP-JGg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221120T00:57:12Z | CVE-2022-40127 | Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC | https://github.com/Mr-xn/CVE-2022-40127 | | 
-| 20221119T23:28:56Z | cve-2022-0847 | Resources required for building Pluralsight CVE-2022-0847 lab | https://github.com/Turzum/ps-lab-cve-2022-0847 | | 
+| 20221120T12:52:35Z | cve-2022-0441 | CVE-2022-0441 - MasterStudy LMS 2.7.6 | https://github.com/SDragon1205/cve-2022-0441 | | 
+| 20221120T12:33:30Z | cve-2022-0847 | Resources required for building Pluralsight CVE-2022-0847 lab | https://github.com/Turzum/ps-lab-cve-2022-0847 | | 
+| 20221120T11:54:55Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
+| 20221120T11:35:05Z | CVE-2022-44830 | Null | https://github.com/RashidKhanPathan/CVE-2022-44830 | | 
+| 20221120T11:33:46Z | CVE-2022-43117 | Null | https://github.com/RashidKhanPathan/CVE-2022-43117 | | 
+| 20221120T07:45:32Z | CVE-2022-3546 | Null | https://github.com/thehackingverse/CVE-2022-3546 | | 
+| 20221120T06:30:50Z | CVE-2022-40127 | Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC | https://github.com/Mr-xn/CVE-2022-40127 | | 
 | 20221119T14:46:56Z | CVE-2021-29447 | Null | https://github.com/Abdulazizalsewedy/CVE-2021-29447 | | 
 | 20221119T10:36:37Z | CVE-2022-3992 | Cross Site Scripting on sanitization-management-system | https://github.com/Urban4/CVE-2022-3992 | | 
 | 20221118T18:28:57Z | CVE-2021-3166 | Mastering CVE-2021-3166 | https://github.com/kaisersource/CVE-2021-3166 | | 
-| 20221118T18:02:31Z | CVE-2021-42013 | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | https://github.com/12345qwert123456/CVE-2021-42013 | | 
-| 20221118T18:02:12Z | CVE-2021-41773 | Vulnerable configuration Apache HTTP Server version 2.4.49 | https://github.com/12345qwert123456/CVE-2021-41773 | | 
-| 20221118T12:23:04Z | CVE-2021-41773 | Null | https://github.com/Adamanti1/CVE-2021-41773-Vulnerable-service | | 
-| 20221118T07:07:18Z | cve-2022-0441 | CVE-2022-0441 - MasterStudy LMS 2.7.6 | https://github.com/SDragon1205/cve-2022-0441 | | 
-| 20221118T02:13:06Z | CVE-2021-43798 | Null | https://github.com/trhacknon/exploit-grafana-CVE-2021-43798 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221120T12:25:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9294 | 314| 
+| 20221120T06:26:07Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 0 | 0| 
 | 20221119T06:39:38Z | Config files for my GitHub profile. | https://github.com/GabiKleebi02/GabiKleebi02 | 0 | 0| 
-| 20221119T02:37:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9282 | 313| 
 | 20221118T13:39:39Z | Null | https://github.com/cornelizbasa-pinteam/klee-demo | 0 | 0| 
 | 20221117T16:55:47Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
 | 20221116T13:54:23Z | Config files for my GitHub profile. | https://github.com/Kleevietanh98/Kleevietanh98 | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
 | 20221114T19:35:33Z | Klee | https://github.com/aiskunks/Klee | 2 | 1| 
 | 20221114T15:36:44Z | Config files for my GitHub profile. | https://github.com/Kleeh62/Kleeh62 | 0 | 0| 
-| 20221114T08:54:37Z | Null | https://github.com/CristiGB/klee-Card | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,22 +87,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221120T12:57:24Z | Shell script to cover your tracks on UNIX systems. Designed for pen testing %covering tracks% phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation. | https://github.com/sundowndev/covermyass | 191 | 33| 
+| 20221120T12:20:50Z | A colection of Python2 exploits, adapted to work with Python3 | https://github.com/fphoer/exploits-in-py3 | 0 | 0| 
+| 20221120T12:09:29Z | Null | https://github.com/Maalfer/Buscador_Exploits | 0 | 0| 
+| 20221120T08:54:17Z | A very simple anti-exploit type of plugin | https://github.com/Guedosha/SecurityAdditions | 3 | 0| 
 | 20221120T02:30:58Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 43 | 23| 
 | 20221120T02:25:00Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 112 | 27| 
 | 20221120T01:42:39Z | Null | https://github.com/R3bug/exploitstuff | 0 | 0| 
 | 20221120T00:36:59Z | A base for creating a Roblox Exploit API. *Only for NamedPipes based execution.  | https://github.com/JustRaiy/BaseAPI | 0 | 0| 
 | 20221119T23:51:47Z | ForceX roblox script exploit by Ryzen | https://github.com/RyzenID/ForceX | 0 | 0| 
 | 20221119T22:53:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN01 | 1 | 0| 
-| 20221119T22:52:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN01 | 1 | 0| 
-| 20221119T22:52:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN01 | 1 | 0| 
-| 20221119T20:46:54Z | Konica Minolta FTP Utility ftpd 1.00 Exploit - Remote Code Execution | https://github.com/caique-garbim/KonicaMinoltaFTP1.00_Exploit | 0 | 0| 
-| 20221119T15:45:50Z | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221120T01:24:56Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 256 | 60| 
+| 20221120T11:36:28Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 260 | 62| 
+| 20221120T07:39:06Z | Null | https://github.com/AlexVoin04/Backdoor | 0 | 0| 
 | 20221119T20:52:10Z | Null | https://github.com/s3q/backdoor_exe | 0 | 0| 
 | 20221119T18:19:57Z | Python3 script to exploit the PHP 8.1.0-dev Backdoor Command Execution  | https://github.com/NullBrunk/PHP-8.1.0-exploit | 0 | 0| 
 | 20221119T18:19:19Z | Python exploit for CVE-2011-2523 (VsFTPd 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
@@ -111,7 +112,6 @@
 | 20221119T05:00:00Z | Null | https://github.com/Pranav-guptaa/backdoor | 0 | 0| 
 | 20221118T18:45:16Z | Null | https://github.com/bdg221/testBackdoor | 0 | 0| 
 | 20221118T18:18:21Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 5 | 0| 
-| 20221118T12:10:05Z | This tool is used for backdoor and shellcode generation for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 13 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221120T11:56:48Z | Null | https://github.com/sara-hajiaghajani/fuzzy_detection | 0 | 0| 
+| 20221120T11:55:53Z | fuzzy-couscous-cli | https://github.com/Tobi-De/fuzzy-couscous-cli | 0 | 0| 
+| 20221120T11:20:57Z | Null | https://github.com/ArlindPestisha/fuzzy-adventure | 0 | 0| 
+| 20221120T09:40:17Z | Null | https://github.com/nisa888/fuzzy-octo-dollop | 0 | 0| 
+| 20221120T08:08:19Z | fuzzing bot for fuzzing infrastructure | https://github.com/daehee87/fuzzing-bot | 0 | 0| 
+| 20221120T08:07:58Z | Null | https://github.com/medamayakii/FuzzyCShape | 0 | 0| 
 | 20221120T01:13:38Z | fuzzing open source projects using libFuzzer | https://github.com/eddyspaghette/libFuzzer-examples | 0 | 0| 
+| 20221120T00:19:45Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 104 | 8| 
 | 20221119T20:31:37Z | Null | https://github.com/wxrick/fuzzyDataProject | 0 | 0| 
 | 20221119T20:28:47Z | Null | https://github.com/g3un/easy-fuzzer-framework | 2 | 0| 
-| 20221119T20:14:21Z | Null | https://github.com/webthethird/solidity-diff-fuzz-upgrades | 0 | 0| 
-| 20221119T19:52:00Z | Config files for my GitHub profile. | https://github.com/CaptainFuzzyFace/CaptainFuzzyFace | 0 | 0| 
-| 20221119T18:24:51Z | Null | https://github.com/fuzzybuzzyboy/Fuzzy.me | 0 | 0| 
-| 20221119T17:48:34Z | Null | https://github.com/magdalenakedzia/fuzzy-place | 1 | 0| 
-| 20221119T13:18:08Z | Null | https://github.com/h33tlit/BOF-fuzz | 0 | 0| 
-| 20221119T13:03:23Z | Null | https://github.com/Esesna/FuzzyLogic_and_GA | 0 | 0| 
-| 20221119T12:48:15Z | Directory and page bruteforcing on Wordpress. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
 
 
 
