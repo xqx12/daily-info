@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221120T02:22:28Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 113 | 28| 
+| 20221120T02:25:00Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 112 | 27| 
 | 20221120T01:42:39Z | Null | https://github.com/R3bug/exploitstuff | 0 | 0| 
 | 20221120T00:36:59Z | A base for creating a Roblox Exploit API. *Only for NamedPipes based execution.  | https://github.com/JustRaiy/BaseAPI | 0 | 0| 
 | 20221119T23:51:47Z | ForceX roblox script exploit by Ryzen | https://github.com/RyzenID/ForceX | 0 | 0| 
