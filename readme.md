@@ -18,7 +18,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221119T12:22:17Z | CVE-2022-40127 | Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC | https://github.com/Mr-xn/CVE-2022-40127 | | 
+| 20221119T23:28:56Z | cve-2022-0847 | Resources required for building Pluralsight CVE-2022-0847 lab | https://github.com/Turzum/ps-lab-cve-2022-0847 | | 
+| 20221119T14:46:56Z | CVE-2021-29447 | Null | https://github.com/Abdulazizalsewedy/CVE-2021-29447 | | 
 | 20221119T10:36:37Z | CVE-2022-3992 | Cross Site Scripting on sanitization-management-system | https://github.com/Urban4/CVE-2022-3992 | | 
 
 
@@ -38,21 +39,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T23:51:47Z | ForceX roblox script exploit by Ryzen | https://github.com/RyzenID/ForceX | 0 | 0| 
+| 20221119T22:53:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN01 | 1 | 0| 
+| 20221119T22:52:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN01 | 1 | 0| 
+| 20221119T22:52:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN01 | 1 | 0| 
+| 20221119T20:46:54Z | Konica Minolta FTP Utility ftpd 1.00 Exploit - Remote Code Execution | https://github.com/caique-garbim/KonicaMinoltaFTP1.00_Exploit | 0 | 0| 
 | 20221119T13:29:38Z | Oxygen u roblox exploit ported for gnu linux. | https://github.com/evghenii12/Oxygenuforgnu-linux | 0 | 0| 
 | 20221119T13:03:38Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 282 | 59| 
 | 20221119T12:05:56Z | Exploiting Dynamic Spatio-Temporal Correlations For Origin-Destination Demand Prediction | https://github.com/yepiao11/DSTCN | 0 | 0| 
 | 20221119T11:57:55Z | Null | https://github.com/yuozhao/Exploit-Collection | 0 | 0| 
 | 20221119T11:54:33Z | Null | https://github.com/vasev85/exploit | 0 | 0| 
-| 20221119T11:17:03Z | Null | https://github.com/ManiSelvaraj123/xss-exploit | 0 | 0| 
-| 20221119T10:37:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12337 | 2123| 
-| 20221119T10:36:51Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5054 | 703| 
-| 20221119T02:46:18Z | Api for whatsexploits | https://github.com/NomadWithoutAHome/WhatExploitsAPI | 0 | 0| 
-| 20221119T01:51:26Z | Undtected Python based Cs Exploit | https://github.com/DebatesCheats/MazeV4 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221119T20:52:10Z | Null | https://github.com/s3q/backdoor_exe | 0 | 0| 
+| 20221119T18:19:57Z | Python3 script to exploit the PHP 8.1.0-dev Backdoor Command Execution  | https://github.com/NullBrunk/PHP-8.1.0-exploit | 0 | 0| 
+| 20221119T18:19:19Z | Python exploit for CVE-2011-2523 (VsFTPd 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
 | 20221119T13:09:58Z | Revese Shell, Socket BackDoor | https://github.com/elior19940/Revese-Shell-Socket-BackDoor | 0 | 0| 
 | 20221119T08:02:53Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 145 | 27| 
 | 20221119T05:00:00Z | Null | https://github.com/Pranav-guptaa/backdoor | 0 | 0| 
@@ -76,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221119T13:27:10Z | Null | https://github.com/fuzzybuzzyboy/Fuzzy.me | 0 | 0| 
+| 20221119T20:31:37Z | Null | https://github.com/wxrick/fuzzyDataProject | 0 | 0| 
+| 20221119T20:28:47Z | Null | https://github.com/g3un/easy-fuzzer-framework | 2 | 0| 
+| 20221119T20:14:21Z | Null | https://github.com/webthethird/solidity-diff-fuzz-upgrades | 0 | 0| 
+| 20221119T19:52:00Z | Config files for my GitHub profile. | https://github.com/CaptainFuzzyFace/CaptainFuzzyFace | 0 | 0| 
+| 20221119T18:24:51Z | Null | https://github.com/fuzzybuzzyboy/Fuzzy.me | 0 | 0| 
+| 20221119T17:48:34Z | Null | https://github.com/magdalenakedzia/fuzzy-place | 1 | 0| 
 | 20221119T13:18:08Z | Null | https://github.com/h33tlit/BOF-fuzz | 0 | 0| 
 | 20221119T13:03:23Z | Null | https://github.com/Esesna/FuzzyLogic_and_GA | 0 | 0| 
 | 20221119T12:48:15Z | Directory and page bruteforcing on Wordpress. | https://github.com/entr0pie/wordpress-fuzz | 0 | 0| 
 | 20221119T08:48:26Z | A curated list of wordlists for discovery, enumeration, fuzzing, and exploitation. | https://github.com/david-palma/wordlists | 0 | 0| 
-| 20221119T07:56:18Z | ZTP Eye Shredder Fuzzer (Using UE to Orchestrate Dolphin instances) | https://github.com/zcanann/EyeShredderFuzzer | 0 | 0| 
-| 20221119T07:16:27Z | A ZF implementation to produce Java Fuzzers. | https://github.com/deanziyangyu/ZF_Java | 0 | 0| 
-| 20221119T07:01:38Z | Null | https://github.com/alfianDKurnia/Fuzzy-Logic | 0 | 0| 
-| 20221119T05:01:22Z | Null | https://github.com/erniuks12/fuzzy-octo-disco | 0 | 0| 
-| 20221119T02:50:09Z | Coverage-guided fuzzing system based on gradient vector coverage for deep neural networks | https://github.com/seclab-yonsei/GradFuzz-keras | 1 | 0| 
 
 
 
