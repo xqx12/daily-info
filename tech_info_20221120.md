@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221120T13:51:07Z | Null | https://github.com/NoSafeWord/league-of-legends-ranked-name-exploit | 0 | 0| 
 | 20221120T12:57:24Z | Shell script to cover your tracks on UNIX systems. Designed for pen testing %covering tracks% phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation. | https://github.com/sundowndev/covermyass | 191 | 33| 
 | 20221120T12:20:50Z | A colection of Python2 exploits, adapted to work with Python3 | https://github.com/fphoer/exploits-in-py3 | 0 | 0| 
 | 20221120T12:09:29Z | Null | https://github.com/Maalfer/Buscador_Exploits | 0 | 0| 
