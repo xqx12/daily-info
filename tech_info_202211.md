@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221120T01:12:21Z | fuzzing open source projects using libFuzzer | https://github.com/eddyspaghette/libFuzzer-examples | 0 | 0| 
+| 20221120T01:13:38Z | fuzzing open source projects using libFuzzer | https://github.com/eddyspaghette/libFuzzer-examples | 0 | 0| 
 | 20221119T20:31:37Z | Null | https://github.com/wxrick/fuzzyDataProject | 0 | 0| 
 | 20221119T20:28:47Z | Null | https://github.com/g3un/easy-fuzzer-framework | 2 | 0| 
 | 20221119T20:14:21Z | Null | https://github.com/webthethird/solidity-diff-fuzz-upgrades | 0 | 0| 
