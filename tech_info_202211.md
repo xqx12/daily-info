@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221120T13:47:17Z | 1st Repository | https://github.com/yagerog/fuzzy-octo-chainsaw | 0 | 0| 
 | 20221120T13:04:07Z | just basic ui component | https://github.com/fuzzy-ez/fuzzy | 2 | 1| 
 | 20221120T11:56:48Z | Null | https://github.com/sara-hajiaghajani/fuzzy_detection | 0 | 0| 
 | 20221120T11:55:53Z | fuzzy-couscous-cli | https://github.com/Tobi-De/fuzzy-couscous-cli | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221120T08:07:58Z | Null | https://github.com/medamayakii/FuzzyCShape | 0 | 0| 
 | 20221120T01:13:38Z | fuzzing open source projects using libFuzzer | https://github.com/eddyspaghette/libFuzzer-examples | 0 | 0| 
 | 20221120T00:19:45Z | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | https://github.com/musana/fuzzuli | 104 | 8| 
-| 20221119T20:31:37Z | Null | https://github.com/wxrick/fuzzyDataProject | 0 | 0| 
 
 
 
