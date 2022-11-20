@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221120T02:30:58Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 43 | 23| 
 | 20221120T02:25:00Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 112 | 27| 
 | 20221120T01:42:39Z | Null | https://github.com/R3bug/exploitstuff | 0 | 0| 
 | 20221120T00:36:59Z | A base for creating a Roblox Exploit API. *Only for NamedPipes based execution.  | https://github.com/JustRaiy/BaseAPI | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221119T22:52:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN01 | 1 | 0| 
 | 20221119T20:46:54Z | Konica Minolta FTP Utility ftpd 1.00 Exploit - Remote Code Execution | https://github.com/caique-garbim/KonicaMinoltaFTP1.00_Exploit | 0 | 0| 
 | 20221119T15:45:50Z | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | 2 | 0| 
-| 20221119T13:29:38Z | Oxygen u roblox exploit ported for gnu linux. | https://github.com/evghenii12/Oxygenuforgnu-linux | 0 | 0| 
 
 
 # backdoor on Github 推荐
