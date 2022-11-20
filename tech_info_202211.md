@@ -94,9 +94,9 @@
 | 20221119T22:52:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN01 | 1 | 0| 
 | 20221119T22:52:05Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN01 | 1 | 0| 
 | 20221119T20:46:54Z | Konica Minolta FTP Utility ftpd 1.00 Exploit - Remote Code Execution | https://github.com/caique-garbim/KonicaMinoltaFTP1.00_Exploit | 0 | 0| 
+| 20221119T15:45:50Z | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | 2 | 0| 
 | 20221119T13:29:38Z | Oxygen u roblox exploit ported for gnu linux. | https://github.com/evghenii12/Oxygenuforgnu-linux | 0 | 0| 
 | 20221119T13:03:38Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 282 | 59| 
-| 20221119T12:05:56Z | Exploiting Dynamic Spatio-Temporal Correlations For Origin-Destination Demand Prediction | https://github.com/yepiao11/DSTCN | 0 | 0| 
 
 
 # backdoor on Github 推荐
