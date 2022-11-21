@@ -146,6 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T02:50:42Z | Null | https://github.com/caogle/fuzzynote | 0 | 0| 
+| 20221121T02:50:04Z | Fuzzy controller | https://github.com/jonathanarturocando/mamdani-fuzzy-control | 0 | 0| 
 | 20221121T02:24:08Z | Null | https://github.com/GGabirel/ParallelFuzzing | 0 | 0| 
 | 20221121T02:23:58Z | Null | https://github.com/Onur1634/fuzzy-sniffle | 1 | 0| 
 | 20221121T02:08:11Z | some fuzz project | https://github.com/1786909415/FUZZ | 0 | 0| 
@@ -154,8 +156,6 @@
 | 20221120T23:35:23Z | Null | https://github.com/iStrannik/FuzzGoTemplate | 0 | 0| 
 | 20221120T22:31:23Z | Fuzzy vaccum cleaner  | https://github.com/chokrihamza/Fuzzy-vaccum-cleaner- | 0 | 0| 
 | 20221120T20:55:07Z | Null | https://github.com/marktanaphat/-fuzzy-The-Control-speed-of-the-air-conditioner-fan-problem- | 0 | 0| 
-| 20221120T20:53:02Z | Null | https://github.com/marktanaphat/fuzzy_The--Control-speed-of-the-air-conditioner-fan-problem | 0 | 0| 
-| 20221120T19:05:56Z | Null | https://github.com/Apollo11lynn/fuzzy-potato | 0 | 0| 
 
 
 
