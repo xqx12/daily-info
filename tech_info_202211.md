@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T01:12:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANj | 0 | 0| 
+| 20221121T01:11:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANj | 1 | 0| 
 | 20221120T22:54:20Z | DeFi Attacks & Exploits all the biggest cryptocurrency thefts from 2021 to 2022 | https://github.com/demining/Defi-Attacks | 0 | 0| 
 | 20221120T22:36:49Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 168 | 43| 
 | 20221120T22:35:48Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 184 | 37| 
@@ -95,8 +97,6 @@
 | 20221120T12:57:24Z | Shell script to cover your tracks on UNIX systems. Designed for pen testing %covering tracks% phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation. | https://github.com/sundowndev/covermyass | 191 | 33| 
 | 20221120T12:20:50Z | A colection of Python2 exploits, adapted to work with Python3 | https://github.com/fphoer/exploits-in-py3 | 0 | 0| 
 | 20221120T12:09:29Z | Null | https://github.com/Maalfer/Buscador_Exploits | 0 | 0| 
-| 20221120T08:54:17Z | A very simple anti-exploit type of plugin | https://github.com/Guedosha/SecurityAdditions | 3 | 0| 
-| 20221120T02:30:58Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 43 | 23| 
 
 
 # backdoor on Github 推荐
