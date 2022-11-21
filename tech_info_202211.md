@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T02:31:24Z | This is a script to exploit DOM XSS in jQuery anchor href attribute sink using location.search source in the PortSwigger Web Security Lab. | https://github.com/pho3nix-writeups/wps-lab-dom-xss-in-jquery-anchor-href-attribute-sink-using-locationSearch-source-script | 0 | 0| 
 | 20221121T01:14:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANj | 1 | 0| 
 | 20221121T01:13:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANj | 1 | 0| 
 | 20221121T01:11:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANj | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20221120T22:25:29Z | A repo containing some built puppet modules for SecGen | https://github.com/JD2344/SecGen_Exploits | 0 | 0| 
 | 20221120T19:00:46Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 8 | 0| 
 | 20221120T13:51:07Z | Null | https://github.com/NoSafeWord/league-of-legends-ranked-name-exploit | 0 | 0| 
-| 20221120T12:57:24Z | Shell script to cover your tracks on UNIX systems. Designed for pen testing %covering tracks% phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation. | https://github.com/sundowndev/covermyass | 191 | 33| 
 
 
 # backdoor on Github 推荐
