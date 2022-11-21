@@ -117,7 +117,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221120T04:06:55Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 15 | 0| 
+| 20221121T00:11:00Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 16 | 0| 
 | 20221119T20:54:41Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 5 | 4| 
 | 20221119T11:53:09Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 11 | 2| 
 | 20221119T09:06:37Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 273 | 66| 

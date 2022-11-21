@@ -67,7 +67,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221120T04:06:55Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 15 | 0| 
 
 
 # big4 on Github 推荐
