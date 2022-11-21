@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221121T13:58:32Z | CVE-2022-29464 | Null | https://github.com/Jhonsonwannaa/CVE-2022-29464- | | 
 | 20221121T10:27:22Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
 | 20221121T07:10:50Z | cve-2022-41352 | Null | https://github.com/aryrz/cve-2022-41352-zimbra-rce | | 
 | 20221121T01:13:29Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
@@ -55,7 +56,6 @@
 | 20221120T18:07:14Z | CVE-2020-23592 | CSRF attack leads to Reset ONU to Factory Default  | https://github.com/huzaifahussain98/CVE-2020-23592 | | 
 | 20221120T18:04:52Z | CVE-2020-23590 | CSRF leads to change the password for "WLAN SSID" | https://github.com/huzaifahussain98/CVE-2020-23590 | | 
 | 20221120T18:01:59Z | CVE-2020-23589 | Denial of Service through CSRF | https://github.com/huzaifahussain98/CVE-2020-23589 | | 
-| 20221120T18:00:47Z | CVE-2020-23588 | CSRF attack leads to "Enable or Disable Ports" and to "Change port numbers | https://github.com/huzaifahussain98/CVE-2020-23588 | | 
 
 
 # klee on Github 推荐
