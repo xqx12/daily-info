@@ -146,7 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T02:19:29Z | Null | https://github.com/Onur1634/fuzzy-sniffle | 0 | 0| 
+| 20221121T02:24:08Z | Null | https://github.com/GGabirel/ParallelFuzzing | 0 | 0| 
+| 20221121T02:23:58Z | Null | https://github.com/Onur1634/fuzzy-sniffle | 1 | 0| 
 | 20221121T02:08:11Z | some fuzz project | https://github.com/1786909415/FUZZ | 0 | 0| 
 | 20221121T01:01:42Z | setup for fuzzing jffs2 | https://github.com/docfate111/qemufs-fuzz-setup | 0 | 0| 
 | 20221120T23:56:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8052 | 1756| 
@@ -155,7 +156,6 @@
 | 20221120T20:55:07Z | Null | https://github.com/marktanaphat/-fuzzy-The-Control-speed-of-the-air-conditioner-fan-problem- | 0 | 0| 
 | 20221120T20:53:02Z | Null | https://github.com/marktanaphat/fuzzy_The--Control-speed-of-the-air-conditioner-fan-problem | 0 | 0| 
 | 20221120T19:05:56Z | Null | https://github.com/Apollo11lynn/fuzzy-potato | 0 | 0| 
-| 20221120T13:49:08Z | Null | https://github.com/EliorRusso/Fuzzerd | 0 | 0| 
 
 
 
