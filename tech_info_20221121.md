@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20221121 | CodeQL的自动化代码审计之路（中篇） | https://mp.weixin.qq.com/s/5UmBkqCsBt64WY2JllIVSw| 
 | 20221121 | SecWiki周刊（第455期) | https://www.sec-wiki.com/weekly/455| 
+| 20221121 | 以朝鲜黑客为例看如何利用 VirusTotal 进行样本拓线 | https://mp.weixin.qq.com/s/0vyOdtWJh2PgtU3Fm2Bz9w| 
 
 
 # CVE Github 推荐

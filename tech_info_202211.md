@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20221121 | CodeQL的自动化代码审计之路（中篇） | https://mp.weixin.qq.com/s/5UmBkqCsBt64WY2JllIVSw| 
 | 20221121 | SecWiki周刊（第455期) | https://www.sec-wiki.com/weekly/455| 
+| 20221121 | 以朝鲜黑客为例看如何利用 VirusTotal 进行样本拓线 | https://mp.weixin.qq.com/s/0vyOdtWJh2PgtU3Fm2Bz9w| 
 | 20221120 | 漏洞赏金猎人系列-测试电商类相关功能步骤和Tips-I | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486923&idx=1&sn=32a915045229c85f21da381f5eeb072f&chksm=e8a607a8dfd18ebe9b5248b1310003ce294c239224db8364a999caaa8ad7a898ea597d229e12&token=1618310243&lang=zh_CN#rd| 
 | 20221119 | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg| 
 | 20221119 | 2022信息安全四大顶会Fuzz论文汇总 | https://mp.weixin.qq.com/s/fXopKsFW4mwkUK29AwsnSA| 
@@ -40,7 +41,6 @@
 | 20221118 | Brute Ratel C4 Badger分析实战与检测 | https://mp.weixin.qq.com/s/Nnag6DSf_wx2YrnTXEwNug| 
 | 20221118 | 网络空间测绘视角下的乌克兰网络脆弱性分析 | https://mp.weixin.qq.com/s/KgwMSpIfvmOqqn_pgdrGjQ| 
 | 20221117 | JNDI注入工具改造 | https://sec-in.com/article/1632| 
-| 20221117 | 基于统计与变异分析的缺陷变量定位技术 | https://mp.weixin.qq.com/s/XVWFL8LvK9QLprnEG5YYSA| 
 
 
 # CVE Github 推荐
