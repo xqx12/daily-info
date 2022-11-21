@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221121T01:13:29Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221121T00:39:16Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_FinalProject_CVE20220847_Detection | | 
 | 20221120T18:14:53Z | CVE-2021-42717 | Detection and Mitigation script for CVE-2021-42717 -> ModSecurity DoS Vulnerability in JSON Parsing  | https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717 | | 
 | 20221120T18:09:10Z | CVE-2020-23593 | INFORMATION DISCLOSURE :CSRF to enable syslog mode and send to remote syslog server IP and Port. | https://github.com/huzaifahussain98/CVE-2020-23593 | | 
@@ -55,7 +56,6 @@
 | 20221120T18:00:47Z | CVE-2020-23588 | CSRF attack leads to "Enable or Disable Ports" and to "Change port numbers | https://github.com/huzaifahussain98/CVE-2020-23588 | | 
 | 20221120T17:59:08Z | CVE-2020-23587 |  Men in the middle attack is possible through CSRF | https://github.com/huzaifahussain98/CVE-2020-23587 | | 
 | 20221120T17:58:25Z | CVE-2020-23586 | CSRF allows to Add Network Traffic Control Type Rule | https://github.com/huzaifahussain98/CVE-2020-23586 | | 
-| 20221120T17:27:09Z | CVE-2020-23585 | cross-site request forgery (CSRF) attack on "OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028". | https://github.com/huzaifahussain98/CVE-2020-23585 | | 
 
 
 # klee on Github 推荐
@@ -87,7 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T01:12:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANj | 0 | 0| 
+| 20221121T01:14:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANj | 1 | 0| 
+| 20221121T01:13:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANj | 1 | 0| 
 | 20221121T01:11:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANj | 1 | 0| 
 | 20221120T22:54:20Z | DeFi Attacks & Exploits all the biggest cryptocurrency thefts from 2021 to 2022 | https://github.com/demining/Defi-Attacks | 0 | 0| 
 | 20221120T22:36:49Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 168 | 43| 
@@ -96,7 +97,6 @@
 | 20221120T13:51:07Z | Null | https://github.com/NoSafeWord/league-of-legends-ranked-name-exploit | 0 | 0| 
 | 20221120T12:57:24Z | Shell script to cover your tracks on UNIX systems. Designed for pen testing %covering tracks% phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation. | https://github.com/sundowndev/covermyass | 191 | 33| 
 | 20221120T12:20:50Z | A colection of Python2 exploits, adapted to work with Python3 | https://github.com/fphoer/exploits-in-py3 | 0 | 0| 
-| 20221120T12:09:29Z | Null | https://github.com/Maalfer/Buscador_Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
