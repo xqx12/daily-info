@@ -40,8 +40,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T13:49:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4726 | 692| 
+| 20221121T13:48:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5057 | 703| 
 | 20221121T13:26:54Z | E²VA short for Exploitation Experience with Vulnerable App is a vulnerable app to learn userspace exploitation on Android | https://github.com/fkie-cad/eeva | 0 | 0| 
-| 20221121T13:17:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4725 | 692| 
 | 20221121T12:55:18Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhn | 1 | 0| 
 | 20221121T12:54:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhn | 1 | 0| 
 | 20221121T12:53:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANhn | 1 | 0| 
@@ -49,13 +50,12 @@
 | 20221121T11:39:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12346 | 2125| 
 | 20221121T10:31:49Z | some programmed tools | https://github.com/DummyfiedJalal03/ExPloitTooLs | 0 | 0| 
 | 20221121T06:18:17Z | Some common security vulnerabilities in smart contracts | https://github.com/adnhq/smart-contract-exploits | 0 | 0| 
-| 20221121T02:31:24Z | This is a script to exploit DOM XSS in jQuery anchor href attribute sink using location.search source in the PortSwigger Web Security Lab. | https://github.com/pho3nix-writeups/wps-lab-dom-xss-in-jquery-anchor-href-attribute-sink-using-locationSearch-source-script | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T13:33:55Z | Backdoor Sample Detection through Model Mutation Testing | https://github.com/BLINKSK/BDMMT | 0 | 0| 
+| 20221121T13:49:18Z | Backdoor Sample Detection through Model Mutation Testing | https://github.com/BLINKSK/BDMMT | 0 | 0| 
 | 20221121T13:09:39Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 272 | 64| 
 | 20221121T10:02:31Z | All binders I collect will be here | https://github.com/De-eloper/Binder-Collection | 1 | 0| 
 | 20221121T08:18:41Z | a Simple ELF Backdoor | https://github.com/gbdngb12/Simple-elf-backdoor | 0 | 0| 
