@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T02:54:06Z | Fuzzing corpus for my cloudflare-ddns project | https://github.com/favonia/cloudflare-ddns-fuzzing-corpus | 0 | 0| 
 | 20221121T02:52:55Z | some fuzz project | https://github.com/1786909415/FUZZ | 0 | 0| 
 | 20221121T02:50:42Z | Null | https://github.com/caogle/fuzzynote | 0 | 0| 
 | 20221121T02:50:04Z | Fuzzy controller | https://github.com/jonathanarturocando/mamdani-fuzzy-control | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221120T23:56:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8052 | 1756| 
 | 20221120T23:35:23Z | Null | https://github.com/iStrannik/FuzzGoTemplate | 0 | 0| 
 | 20221120T22:31:23Z | Fuzzy vaccum cleaner  | https://github.com/chokrihamza/Fuzzy-vaccum-cleaner- | 0 | 0| 
-| 20221120T20:55:07Z | Null | https://github.com/marktanaphat/-fuzzy-The-Control-speed-of-the-air-conditioner-fan-problem- | 0 | 0| 
 
 
 
