@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T02:08:11Z | some fuzz project | https://github.com/1786909415/FUZZ | 0 | 0| 
 | 20221120T23:56:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8052 | 1756| 
 | 20221120T23:35:23Z | Null | https://github.com/iStrannik/FuzzGoTemplate | 0 | 0| 
 | 20221120T22:31:23Z | Fuzzy vaccum cleaner  | https://github.com/chokrihamza/Fuzzy-vaccum-cleaner- | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221120T13:49:08Z | Null | https://github.com/EliorRusso/Fuzzerd | 0 | 0| 
 | 20221120T13:48:38Z | 1st Repository | https://github.com/yagerog/fuzzy-octo-chainsaw | 0 | 0| 
 | 20221120T13:04:07Z | just basic ui component | https://github.com/fuzzy-ez/fuzzy | 2 | 1| 
-| 20221120T11:56:48Z | Null | https://github.com/sara-hajiaghajani/fuzzy_detection | 0 | 0| 
 
 
 
