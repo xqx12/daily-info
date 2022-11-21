@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221120T13:21:23Z | CVE-2022-40127 | Apache Airflow < 2.4.0 DAG  example_bash_operator RCE POC | https://github.com/Mr-xn/CVE-2022-40127 | | 
-| 20221120T12:52:35Z | cve-2022-0441 | CVE-2022-0441 - MasterStudy LMS 2.7.6 | https://github.com/SDragon1205/cve-2022-0441 | | 
-| 20221120T12:33:30Z | cve-2022-0847 | Resources required for building Pluralsight CVE-2022-0847 lab | https://github.com/Turzum/ps-lab-cve-2022-0847 | | 
-| 20221120T11:54:55Z | cve-2022-31898 | Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215 | https://github.com/gigaryte/cve-2022-31898 | | 
-| 20221120T11:35:05Z | CVE-2022-44830 | Null | https://github.com/RashidKhanPathan/CVE-2022-44830 | | 
-| 20221120T11:33:46Z | CVE-2022-43117 | Null | https://github.com/RashidKhanPathan/CVE-2022-43117 | | 
-| 20221120T07:45:32Z | CVE-2022-3546 | Null | https://github.com/thehackingverse/CVE-2022-3546 | | 
-| 20221119T14:46:56Z | CVE-2021-29447 | Null | https://github.com/Abdulazizalsewedy/CVE-2021-29447 | | 
-| 20221119T10:36:37Z | CVE-2022-3992 | Cross Site Scripting on sanitization-management-system | https://github.com/Urban4/CVE-2022-3992 | | 
-| 20221118T18:28:57Z | CVE-2021-3166 | Mastering CVE-2021-3166 | https://github.com/kaisersource/CVE-2021-3166 | | 
+| 20221121T00:39:16Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_FinalProject_CVE20220847_Detection | | 
+| 20221120T18:14:53Z | CVE-2021-42717 | Detection and Mitigation script for CVE-2021-42717 -> ModSecurity DoS Vulnerability in JSON Parsing  | https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717 | | 
+| 20221120T18:09:10Z | CVE-2020-23593 | INFORMATION DISCLOSURE :CSRF to enable syslog mode and send to remote syslog server IP and Port. | https://github.com/huzaifahussain98/CVE-2020-23593 | | 
+| 20221120T18:07:14Z | CVE-2020-23592 | CSRF attack leads to Reset ONU to Factory Default  | https://github.com/huzaifahussain98/CVE-2020-23592 | | 
+| 20221120T18:04:52Z | CVE-2020-23590 | CSRF leads to change the password for "WLAN SSID" | https://github.com/huzaifahussain98/CVE-2020-23590 | | 
+| 20221120T18:01:59Z | CVE-2020-23589 | Denial of Service through CSRF | https://github.com/huzaifahussain98/CVE-2020-23589 | | 
+| 20221120T18:00:47Z | CVE-2020-23588 | CSRF attack leads to "Enable or Disable Ports" and to "Change port numbers | https://github.com/huzaifahussain98/CVE-2020-23588 | | 
+| 20221120T17:59:08Z | CVE-2020-23587 |  Men in the middle attack is possible through CSRF | https://github.com/huzaifahussain98/CVE-2020-23587 | | 
+| 20221120T17:58:25Z | CVE-2020-23586 | CSRF allows to Add Network Traffic Control Type Rule | https://github.com/huzaifahussain98/CVE-2020-23586 | | 
+| 20221120T17:27:09Z | CVE-2020-23585 | cross-site request forgery (CSRF) attack on "OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028". | https://github.com/huzaifahussain98/CVE-2020-23585 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221120T12:25:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9294 | 314| 
+| 20221120T20:53:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9297 | 314| 
 | 20221120T06:26:07Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 0 | 0| 
 | 20221119T06:39:38Z | Config files for my GitHub profile. | https://github.com/GabiKleebi02/GabiKleebi02 | 0 | 0| 
 | 20221118T13:39:39Z | Null | https://github.com/cornelizbasa-pinteam/klee-demo | 0 | 0| 
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221120T22:54:20Z | DeFi Attacks & Exploits all the biggest cryptocurrency thefts from 2021 to 2022 | https://github.com/demining/Defi-Attacks | 0 | 0| 
+| 20221120T22:36:49Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 168 | 43| 
+| 20221120T22:35:48Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 184 | 37| 
+| 20221120T22:25:29Z | A repo containing some built puppet modules for SecGen | https://github.com/JD2344/SecGen_Exploits | 0 | 0| 
 | 20221120T13:51:07Z | Null | https://github.com/NoSafeWord/league-of-legends-ranked-name-exploit | 0 | 0| 
 | 20221120T12:57:24Z | Shell script to cover your tracks on UNIX systems. Designed for pen testing %covering tracks% phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation. | https://github.com/sundowndev/covermyass | 191 | 33| 
 | 20221120T12:20:50Z | A colection of Python2 exploits, adapted to work with Python3 | https://github.com/fphoer/exploits-in-py3 | 0 | 0| 
 | 20221120T12:09:29Z | Null | https://github.com/Maalfer/Buscador_Exploits | 0 | 0| 
 | 20221120T08:54:17Z | A very simple anti-exploit type of plugin | https://github.com/Guedosha/SecurityAdditions | 3 | 0| 
 | 20221120T02:30:58Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 43 | 23| 
-| 20221120T02:25:00Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 112 | 27| 
-| 20221120T01:42:39Z | Null | https://github.com/R3bug/exploitstuff | 0 | 0| 
-| 20221120T00:36:59Z | A base for creating a Roblox Exploit API. *Only for NamedPipes based execution.  | https://github.com/JustRaiy/BaseAPI | 0 | 0| 
-| 20221119T23:51:47Z | ForceX roblox script exploit by Ryzen | https://github.com/RyzenID/ForceX | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221120T11:36:28Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 260 | 62| 
+| 20221121T00:20:59Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 266 | 64| 
+| 20221121T00:04:26Z | Null | https://github.com/cipyermoon-T/CIGARRO_backdoor | 0 | 0| 
+| 20221120T18:06:26Z | ARBITAR FILE UPLOAD LEADS TO %delete every file for Denial of Service (using %rm -rf *.*% in the code), reverse connection (using %.asp% webshell), backdoor , Escalation of Privileges, etc%. | https://github.com/huzaifahussain98/CVE-2020-23591 | 0 | 0| 
+| 20221120T17:19:53Z | Null | https://github.com/BregozZ0/BackdoorExample | 0 | 0| 
 | 20221120T07:39:06Z | Null | https://github.com/AlexVoin04/Backdoor | 0 | 0| 
 | 20221119T20:52:10Z | Null | https://github.com/s3q/backdoor_exe | 0 | 0| 
 | 20221119T18:19:57Z | Python3 script to exploit the PHP 8.1.0-dev Backdoor Command Execution  | https://github.com/NullBrunk/PHP-8.1.0-exploit | 0 | 0| 
 | 20221119T18:19:19Z | Python exploit for CVE-2011-2523 (VsFTPd 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
 | 20221119T13:09:58Z | Revese Shell, Socket BackDoor | https://github.com/elior19940/Revese-Shell-Socket-BackDoor | 0 | 0| 
 | 20221119T08:02:53Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 145 | 27| 
-| 20221119T05:00:00Z | Null | https://github.com/Pranav-guptaa/backdoor | 0 | 0| 
-| 20221118T18:45:16Z | Null | https://github.com/bdg221/testBackdoor | 0 | 0| 
-| 20221118T18:18:21Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
