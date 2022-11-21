@@ -32,7 +32,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221120T20:53:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9297 | 314| 
 | 20221120T06:26:07Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 0 | 0| 
 
 
@@ -79,16 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221120T23:56:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8052 | 1756| 
+| 20221120T23:35:23Z | Null | https://github.com/iStrannik/FuzzGoTemplate | 0 | 0| 
+| 20221120T22:31:23Z | Fuzzy vaccum cleaner  | https://github.com/chokrihamza/Fuzzy-vaccum-cleaner- | 0 | 0| 
+| 20221120T20:55:07Z | Null | https://github.com/marktanaphat/-fuzzy-The-Control-speed-of-the-air-conditioner-fan-problem- | 0 | 0| 
+| 20221120T20:53:02Z | Null | https://github.com/marktanaphat/fuzzy_The--Control-speed-of-the-air-conditioner-fan-problem | 0 | 0| 
+| 20221120T19:05:56Z | Null | https://github.com/Apollo11lynn/fuzzy-potato | 0 | 0| 
 | 20221120T13:49:08Z | Null | https://github.com/EliorRusso/Fuzzerd | 0 | 0| 
 | 20221120T13:48:38Z | 1st Repository | https://github.com/yagerog/fuzzy-octo-chainsaw | 0 | 0| 
 | 20221120T13:04:07Z | just basic ui component | https://github.com/fuzzy-ez/fuzzy | 2 | 1| 
 | 20221120T11:56:48Z | Null | https://github.com/sara-hajiaghajani/fuzzy_detection | 0 | 0| 
-| 20221120T11:55:53Z | fuzzy-couscous-cli | https://github.com/Tobi-De/fuzzy-couscous-cli | 0 | 0| 
-| 20221120T11:20:57Z | Null | https://github.com/ArlindPestisha/fuzzy-adventure | 0 | 0| 
-| 20221120T09:40:17Z | Null | https://github.com/nisa888/fuzzy-octo-dollop | 0 | 0| 
-| 20221120T08:08:19Z | fuzzing bot for fuzzing infrastructure | https://github.com/daehee87/fuzzing-bot | 0 | 0| 
-| 20221120T08:07:58Z | Null | https://github.com/medamayakii/FuzzyCShape | 0 | 0| 
-| 20221120T01:13:38Z | fuzzing open source projects using libFuzzer | https://github.com/eddyspaghette/libFuzzer-examples | 0 | 0| 
 
 
 
