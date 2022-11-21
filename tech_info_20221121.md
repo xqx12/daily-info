@@ -79,7 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T13:08:21Z | Null | https://github.com/AngieYcorni/fuzzy-spoon | 0 | 0| 
+| 20221121T13:11:43Z | Null | https://github.com/AngieYcorni/fuzzy-spoon | 0 | 0| 
 | 20221121T09:43:02Z | Null | https://github.com/Nidhika1121/fuzzybasedSummarization | 0 | 0| 
 | 20221121T09:16:55Z | Fuzzy C-Means implementation in c and theoretical derivation of FCM | https://github.com/medamayakii/FuzzyCMeans | 0 | 0| 
 | 20221121T08:10:47Z | A tool for seamless redirection of live connections to new server locations. It enables MTD security with a middle virtual network to disrupt network reconnaissance attacks. | https://github.com/wsoussi/TopoFuzzer | 0 | 0| 
