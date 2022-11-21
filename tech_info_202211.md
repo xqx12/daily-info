@@ -146,11 +146,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T02:52:55Z | some fuzz project | https://github.com/1786909415/FUZZ | 0 | 0| 
 | 20221121T02:50:42Z | Null | https://github.com/caogle/fuzzynote | 0 | 0| 
 | 20221121T02:50:04Z | Fuzzy controller | https://github.com/jonathanarturocando/mamdani-fuzzy-control | 0 | 0| 
 | 20221121T02:24:08Z | Null | https://github.com/GGabirel/ParallelFuzzing | 0 | 0| 
 | 20221121T02:23:58Z | Null | https://github.com/Onur1634/fuzzy-sniffle | 1 | 0| 
-| 20221121T02:08:11Z | some fuzz project | https://github.com/1786909415/FUZZ | 0 | 0| 
 | 20221121T01:01:42Z | setup for fuzzing jffs2 | https://github.com/docfate111/qemufs-fuzz-setup | 0 | 0| 
 | 20221120T23:56:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8052 | 1756| 
 | 20221120T23:35:23Z | Null | https://github.com/iStrannik/FuzzGoTemplate | 0 | 0| 
