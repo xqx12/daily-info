@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221121 | CodeQL的自动化代码审计之路（中篇） | https://mp.weixin.qq.com/s/5UmBkqCsBt64WY2JllIVSw| 
+| 20221121 | SecWiki周刊（第455期) | https://www.sec-wiki.com/weekly/455| 
 | 20221120 | 漏洞赏金猎人系列-测试电商类相关功能步骤和Tips-I | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486923&idx=1&sn=32a915045229c85f21da381f5eeb072f&chksm=e8a607a8dfd18ebe9b5248b1310003ce294c239224db8364a999caaa8ad7a898ea597d229e12&token=1618310243&lang=zh_CN#rd| 
 | 20221119 | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg| 
 | 20221119 | 2022信息安全四大顶会Fuzz论文汇总 | https://mp.weixin.qq.com/s/fXopKsFW4mwkUK29AwsnSA| 
@@ -39,13 +41,13 @@
 | 20221118 | 网络空间测绘视角下的乌克兰网络脆弱性分析 | https://mp.weixin.qq.com/s/KgwMSpIfvmOqqn_pgdrGjQ| 
 | 20221117 | JNDI注入工具改造 | https://sec-in.com/article/1632| 
 | 20221117 | 基于统计与变异分析的缺陷变量定位技术 | https://mp.weixin.qq.com/s/XVWFL8LvK9QLprnEG5YYSA| 
-| 20221117 | 战场智能指挥系统 DELTA 深度分析报告 | https://mp.weixin.qq.com/s/dgCudvjhNBV3x75XX1OqEQ| 
-| 20221117 | SecXOps安全智能分析技术白皮书 | http://blog.nsfocus.net/wp-content/uploads/2022/11/SecXOps-whitepaper.pdf| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221121T10:27:22Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
+| 20221121T07:10:50Z | cve-2022-41352 | Null | https://github.com/aryrz/cve-2022-41352-zimbra-rce | | 
 | 20221121T01:13:29Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221121T00:39:16Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_FinalProject_CVE20220847_Detection | | 
 | 20221120T18:14:53Z | CVE-2021-42717 | Detection and Mitigation script for CVE-2021-42717 -> ModSecurity DoS Vulnerability in JSON Parsing  | https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717 | | 
@@ -54,14 +56,13 @@
 | 20221120T18:04:52Z | CVE-2020-23590 | CSRF leads to change the password for "WLAN SSID" | https://github.com/huzaifahussain98/CVE-2020-23590 | | 
 | 20221120T18:01:59Z | CVE-2020-23589 | Denial of Service through CSRF | https://github.com/huzaifahussain98/CVE-2020-23589 | | 
 | 20221120T18:00:47Z | CVE-2020-23588 | CSRF attack leads to "Enable or Disable Ports" and to "Change port numbers | https://github.com/huzaifahussain98/CVE-2020-23588 | | 
-| 20221120T17:59:08Z | CVE-2020-23587 |  Men in the middle attack is possible through CSRF | https://github.com/huzaifahussain98/CVE-2020-23587 | | 
-| 20221120T17:58:25Z | CVE-2020-23586 | CSRF allows to Add Network Traffic Control Type Rule | https://github.com/huzaifahussain98/CVE-2020-23586 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T02:12:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9305 | 314| 
+| 20221121T10:31:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9318 | 318| 
+| 20221121T08:03:18Z | Assigned UI for both APP DEV & Techno | https://github.com/kbdiamondes/kleeneair-diamante-assigned | 0 | 0| 
 | 20221120T06:26:07Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 0 | 0| 
 | 20221119T06:39:38Z | Config files for my GitHub profile. | https://github.com/GabiKleebi02/GabiKleebi02 | 0 | 0| 
 | 20221118T13:39:39Z | Null | https://github.com/cornelizbasa-pinteam/klee-demo | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20221116T12:14:16Z | Btos%s Discord Bot for Minecraft and Discord report & automation | https://github.com/ItzPeaxel/Klee | 0 | 0| 
 | 20221115T12:14:50Z | Null | https://github.com/kbdiamondes/KleeneAir-FrontEnd | 0 | 0| 
 | 20221114T19:35:33Z | Klee | https://github.com/aiskunks/Klee | 2 | 1| 
-| 20221114T15:36:44Z | Config files for my GitHub profile. | https://github.com/Kleeh62/Kleeh62 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T12:55:18Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhn | 1 | 0| 
+| 20221121T12:54:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhn | 1 | 0| 
+| 20221121T12:53:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANhn | 1 | 0| 
+| 20221121T12:28:10Z | E²VA short for Exploitation Experience with Vulnerable App is a vulnerable app to learn userspace exploitation on Android | https://github.com/fkie-cad/eeva | 0 | 0| 
+| 20221121T12:10:30Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4724 | 692| 
+| 20221121T12:04:08Z | CVE-1999-1053 Proof-of-Concept Exploit | https://github.com/siunam321/CVE-1999-1053-PoC | 0 | 0| 
+| 20221121T11:39:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12346 | 2125| 
+| 20221121T10:31:49Z | some programmed tools | https://github.com/DummyfiedJalal03/ExPloitTooLs | 0 | 0| 
+| 20221121T06:18:17Z | Some common security vulnerabilities in smart contracts | https://github.com/adnhq/smart-contract-exploits | 0 | 0| 
 | 20221121T02:31:24Z | This is a script to exploit DOM XSS in jQuery anchor href attribute sink using location.search source in the PortSwigger Web Security Lab. | https://github.com/pho3nix-writeups/wps-lab-dom-xss-in-jquery-anchor-href-attribute-sink-using-locationSearch-source-script | 0 | 0| 
-| 20221121T01:14:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANj | 1 | 0| 
-| 20221121T01:13:06Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANj | 1 | 0| 
-| 20221121T01:11:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANj | 1 | 0| 
-| 20221120T22:54:20Z | DeFi Attacks & Exploits all the biggest cryptocurrency thefts from 2021 to 2022 | https://github.com/demining/Defi-Attacks | 0 | 0| 
-| 20221120T22:36:49Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 168 | 43| 
-| 20221120T22:35:48Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 184 | 37| 
-| 20221120T22:25:29Z | A repo containing some built puppet modules for SecGen | https://github.com/JD2344/SecGen_Exploits | 0 | 0| 
-| 20221120T19:00:46Z | A sparsity and linearity-exploiting interior-point solver, now with readable internals | https://github.com/SleipnirGroup/Sleipnir | 8 | 0| 
-| 20221120T13:51:07Z | Null | https://github.com/NoSafeWord/league-of-legends-ranked-name-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T02:32:53Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 267 | 64| 
+| 20221121T11:20:04Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 271 | 64| 
+| 20221121T10:02:31Z | All binders I collect will be here | https://github.com/De-eloper/Binder-Collection | 1 | 0| 
+| 20221121T08:33:37Z | Backdoor Sample Detection through Model Mutation Testing | https://github.com/BLINKSK/BDMMT | 0 | 0| 
+| 20221121T08:18:41Z | a Simple ELF Backdoor | https://github.com/gbdngb12/Simple-elf-backdoor | 0 | 0| 
+| 20221121T07:02:00Z | Null | https://github.com/caseLearner0718/implement_backdoorCFG | 0 | 0| 
+| 20221121T04:52:50Z | Null | https://github.com/backdoordetectors/backdoordetectors.github.io | 0 | 0| 
 | 20221121T00:04:26Z | Null | https://github.com/cipyermoon-T/CIGARRO_backdoor | 0 | 0| 
+| 20221120T23:24:03Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 583 | 205| 
 | 20221120T18:06:26Z | ARBITAR FILE UPLOAD LEADS TO %delete every file for Denial of Service (using %rm -rf *.*% in the code), reverse connection (using %.asp% webshell), backdoor , Escalation of Privileges, etc%. | https://github.com/huzaifahussain98/CVE-2020-23591 | 0 | 0| 
 | 20221120T17:19:53Z | Null | https://github.com/BregozZ0/BackdoorExample | 0 | 0| 
-| 20221120T07:39:06Z | Null | https://github.com/AlexVoin04/Backdoor | 0 | 0| 
-| 20221119T20:52:10Z | Null | https://github.com/s3q/backdoor_exe | 0 | 0| 
-| 20221119T18:19:57Z | Python3 script to exploit the PHP 8.1.0-dev Backdoor Command Execution  | https://github.com/NullBrunk/PHP-8.1.0-exploit | 0 | 0| 
-| 20221119T18:19:19Z | Python exploit for CVE-2011-2523 (VsFTPd 2.3.4 Backdoor Command Execution) | https://github.com/NullBrunk/CVE-2011-2523 | 1 | 2| 
-| 20221119T13:09:58Z | Revese Shell, Socket BackDoor | https://github.com/elior19940/Revese-Shell-Socket-BackDoor | 0 | 0| 
-| 20221119T08:02:53Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 145 | 27| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T09:43:02Z | Null | https://github.com/Nidhika1121/fuzzybasedSummarization | 0 | 0| 
+| 20221121T09:16:55Z | Fuzzy C-Means implementation in c and theoretical derivation of FCM | https://github.com/medamayakii/FuzzyCMeans | 0 | 0| 
+| 20221121T08:10:47Z | A tool for seamless redirection of live connections to new server locations. It enables MTD security with a middle virtual network to disrupt network reconnaissance attacks. | https://github.com/wsoussi/TopoFuzzer | 0 | 0| 
+| 20221121T06:43:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8053 | 1756| 
+| 20221121T02:59:26Z | Null | https://github.com/caogle/fuzzynote | 0 | 0| 
 | 20221121T02:54:06Z | Fuzzing corpus for my cloudflare-ddns project | https://github.com/favonia/cloudflare-ddns-fuzzing-corpus | 0 | 0| 
 | 20221121T02:52:55Z | some fuzz project | https://github.com/1786909415/FUZZ | 0 | 0| 
-| 20221121T02:50:42Z | Null | https://github.com/caogle/fuzzynote | 0 | 0| 
 | 20221121T02:50:04Z | Fuzzy controller | https://github.com/jonathanarturocando/mamdani-fuzzy-control | 0 | 0| 
 | 20221121T02:24:08Z | Null | https://github.com/GGabirel/ParallelFuzzing | 0 | 0| 
 | 20221121T02:23:58Z | Null | https://github.com/Onur1634/fuzzy-sniffle | 1 | 0| 
-| 20221121T01:01:42Z | setup for fuzzing jffs2 | https://github.com/docfate111/qemufs-fuzz-setup | 0 | 0| 
-| 20221120T23:56:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8052 | 1756| 
-| 20221120T23:35:23Z | Null | https://github.com/iStrannik/FuzzGoTemplate | 0 | 0| 
-| 20221120T22:31:23Z | Fuzzy vaccum cleaner  | https://github.com/chokrihamza/Fuzzy-vaccum-cleaner- | 0 | 0| 
 
 
 
