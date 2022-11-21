@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T13:46:15Z | Code for the producer station for Popsenteret%s FUZZ exhibition. | https://github.com/jpclemente97/PopsenteretProducerStation | 0 | 0| 
 | 20221121T13:43:56Z | fuzzy sets, fuzzy numbers, fuzzy fuzzy fuzzy... | https://github.com/kessler/fuzzy-math | 3 | 0| 
 | 20221121T13:34:49Z | Null | https://github.com/g3un/easy-fuzzer-framework | 3 | 0| 
 | 20221121T13:11:43Z | Null | https://github.com/AngieYcorni/fuzzy-spoon | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20221121T06:43:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8053 | 1756| 
 | 20221121T06:15:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2619 | 177| 
 | 20221121T02:59:26Z | Null | https://github.com/caogle/fuzzynote | 0 | 0| 
-| 20221121T02:54:06Z | Fuzzing corpus for my cloudflare-ddns project | https://github.com/favonia/cloudflare-ddns-fuzzing-corpus | 0 | 0| 
 
 
 
