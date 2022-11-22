@@ -102,8 +102,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T02:26:57Z | Hack Windows and Linux which ruby | https://github.com/ghostdtdn/black-backdoorv1.3 | 0 | 0| 
 | 20221122T02:18:58Z | a Simple ELF Backdoor | https://github.com/gbdngb12/Simple-elf-backdoor | 1 | 0| 
-| 20221122T02:18:26Z | Null | https://github.com/ghostdtdn/black-backdoorv1.3 | 0 | 0| 
 | 20221122T02:14:31Z | Null | https://github.com/ghostdtdn/black-backdoor | 0 | 0| 
 | 20221122T00:43:52Z | Null | https://github.com/LunaData1111/Backdoor-to-vault | 0 | 0| 
 | 20221121T22:53:31Z | Source code to old spy-net trojan. | https://github.com/De-eloper/Spynet-2.7-Beta | 0 | 0| 
@@ -146,7 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221122T01:48:51Z | Null | https://github.com/marticztn/fuzzyerasw | 0 | 0| 
+| 20221122T02:25:45Z | Null | https://github.com/marticztn/fuzzyerasw | 0 | 0| 
 | 20221122T01:38:18Z | Null | https://github.com/marticztn/fuzzyerasw.github.io | 0 | 0| 
 | 20221122T01:28:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1136 | 146| 
 | 20221122T00:20:39Z | Null | https://github.com/Nikitotr/fuzzy-octo-winner | 0 | 0| 
