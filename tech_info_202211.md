@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T23:59:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9321 | 320| 
+| 20221122T02:09:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9322 | 320| 
 | 20221121T10:58:54Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 8 | 1| 
 | 20221121T08:03:18Z | Assigned UI for both APP DEV & Techno | https://github.com/kbdiamondes/kleeneair-diamante-assigned | 0 | 0| 
 | 20221120T06:26:07Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 0 | 0| 
@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T02:10:54Z | Null | https://github.com/ghostdtdn/black-backdoor | 0 | 0| 
 | 20221122T00:43:52Z | Null | https://github.com/LunaData1111/Backdoor-to-vault | 0 | 0| 
 | 20221121T22:53:31Z | Source code to old spy-net trojan. | https://github.com/De-eloper/Spynet-2.7-Beta | 0 | 0| 
 | 20221121T22:42:28Z | Experiments with using mqtt as a C2 mechanism | https://github.com/grampae/mqtaxi | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20221121T13:53:53Z | Backdoor Sample Detection through Model Mutation Testing | https://github.com/BLINKSK/BDMMT | 0 | 0| 
 | 20221121T13:09:39Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 272 | 64| 
 | 20221121T08:18:41Z | a Simple ELF Backdoor | https://github.com/gbdngb12/Simple-elf-backdoor | 0 | 0| 
-| 20221121T07:02:00Z | Null | https://github.com/caseLearner0718/implement_backdoorCFG | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
