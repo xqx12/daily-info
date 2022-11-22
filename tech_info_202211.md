@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T13:07:20Z | Null | https://github.com/lmiller1990/fuzzy-search-tree | 0 | 0| 
 | 20221122T12:57:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43172 | 21519| 
 | 20221122T12:51:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8060 | 1756| 
 | 20221122T11:32:47Z | Go gili ile yazılmış verilen url fuziing aracı | https://github.com/yaseminmerveayar/go_url_fuzzer | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221122T02:40:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2620 | 177| 
 | 20221122T02:39:53Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 284 | 36| 
 | 20221122T02:39:53Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 106 | 8| 
-| 20221122T02:37:07Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1314 | 97| 
 
 
 
