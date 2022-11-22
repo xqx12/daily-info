@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T01:28:00Z | It is a simple script coded in bash scripting to exploit the PwnKit vulnerability (cve-2021-4034), the idea of this is to try to automate the exploitation of this vulnerability as much as possible. | https://github.com/T3slaa/pwnkit-pwn | 3 | 1| 
 | 20221122T00:56:52Z | Null | https://github.com/Nodology/System-Preferences-Exploit | 0 | 0| 
 | 20221122T00:10:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1n | 1 | 0| 
 | 20221122T00:09:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN1n | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20221121T22:44:33Z | BFS 2022 ekoparty windows challenge writeup | https://github.com/tin-z/report_BFS_ekoparty_2022_exploitation_challenges | 0 | 0| 
 | 20221121T22:18:27Z | FrameWork Millin | https://github.com/liknesbexzode/Millins-FrameWork-Private-Leak3d-V1-0- | 0 | 0| 
 | 20221121T22:17:48Z | DayZ External Cheat V2 4 0 | https://github.com/liknesbexzode/DayZ-External-Cheat-V2-4-0-PRIVAT3-LEAK3D-BY-G0L | 0 | 0| 
-| 20221121T22:17:22Z | League Of Legends KBOT | https://github.com/liknesbexzode/League-Of-Legends-External-KBOT-V7 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T01:28:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1136 | 146| 
 | 20221122T00:20:39Z | Null | https://github.com/Nikitotr/fuzzy-octo-winner | 0 | 0| 
 | 20221121T23:31:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8057 | 1756| 
 | 20221121T22:06:38Z | Tugas Implementasi Fuzzy_Kelompok 4 | https://github.com/AndreanRivai/Implementasi-Fuzzy- | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221121T20:46:54Z | Null | https://github.com/Tobi-De/fuzzy-couscous | 1 | 0| 
 | 20221121T20:19:33Z | This repository was created to place projects and exercises developed in the field of Fuzzy Logic (CAP-424), subject taught in the postgraduate course at the National Institute for Space Research (INPE). | https://github.com/Leledj/Fuzzy-Logic | 0 | 0| 
 | 20221121T19:31:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4880 | 501| 
-| 20221121T13:46:15Z | Code for the producer station for Popsenteret%s FUZZ exhibition. | https://github.com/jpclemente97/PopsenteretProducerStation | 0 | 0| 
 
 
 
