@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T13:56:00Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 35 | 19| 
 | 20221122T13:11:54Z | Null | https://github.com/MarinceanAdrian/Fuzzy_systems | 0 | 0| 
 | 20221122T13:07:20Z | Null | https://github.com/lmiller1990/fuzzy-search-tree | 0 | 0| 
 | 20221122T12:57:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43172 | 21519| 
@@ -155,7 +156,6 @@
 | 20221122T10:54:52Z | Null | https://github.com/lintanggilang/Fuzzy_wuzzy_without_dictionary | 0 | 0| 
 | 20221122T09:41:20Z | Tugas Fuzzy metode Mamdani dirancang oleh: | https://github.com/AndoZR/Fuzzy-Mamdani-PKB-A | 0 | 0| 
 | 20221122T02:40:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2620 | 177| 
-| 20221122T02:39:53Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 284 | 36| 
 
 
 
