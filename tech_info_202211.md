@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221122T02:26:57Z | Hack Windows and Linux which ruby | https://github.com/ghostdtdn/black-backdoorv1.3 | 0 | 0| 
+| 20221122T02:29:04Z | Hack Windows and Linux which ruby | https://github.com/ghostdtdn/black-backdoorv1.3 | 0 | 0| 
 | 20221122T02:18:58Z | a Simple ELF Backdoor | https://github.com/gbdngb12/Simple-elf-backdoor | 1 | 0| 
 | 20221122T02:14:31Z | Null | https://github.com/ghostdtdn/black-backdoor | 0 | 0| 
 | 20221122T00:43:52Z | Null | https://github.com/LunaData1111/Backdoor-to-vault | 0 | 0| 
