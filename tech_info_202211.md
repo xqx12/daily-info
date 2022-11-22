@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T02:15:44Z | Null | https://github.com/ghostdtdn/black-backdoorv1.3 | 0 | 0| 
 | 20221122T02:14:31Z | Null | https://github.com/ghostdtdn/black-backdoor | 0 | 0| 
 | 20221122T00:43:52Z | Null | https://github.com/LunaData1111/Backdoor-to-vault | 0 | 0| 
 | 20221121T22:53:31Z | Source code to old spy-net trojan. | https://github.com/De-eloper/Spynet-2.7-Beta | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20221121T17:56:03Z | Null | https://github.com/LaironLF/PR7_Python_backdoor | 0 | 0| 
 | 20221121T13:53:53Z | Backdoor Sample Detection through Model Mutation Testing | https://github.com/BLINKSK/BDMMT | 0 | 0| 
 | 20221121T13:09:39Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 272 | 64| 
-| 20221121T08:18:41Z | a Simple ELF Backdoor | https://github.com/gbdngb12/Simple-elf-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
