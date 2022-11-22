@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T13:47:55Z | With this application, you can hide your exe files in word files. | https://github.com/Atalayagiz/Freya-Word-Exploit-Builder-1.0.1 | 0 | 0| 
 | 20221122T13:41:40Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 1 | 0| 
 | 20221122T13:09:46Z | Null | https://github.com/yosxos/Post-Exploitation-Tool | 0 | 0| 
 | 20221122T13:04:53Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Titanic | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221122T12:27:50Z | Scripts I made to %prank% my 10 year old brother, they all have some in-built flaw to exploit so that I can trick him into learning new stuff | https://github.com/Aeases/bash-pranks | 0 | 0| 
 | 20221122T11:40:29Z | Null | https://github.com/PrayanshParmar/Vanilla_Bufferoverflow_Exploitation | 0 | 0| 
 | 20221122T11:32:20Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Cartographie_Radars | 0 | 0| 
-| 20221122T11:32:16Z | Null | https://github.com/flols/Exploitation_Data_Radars_MDS | 0 | 0| 
 
 
 # backdoor on Github 推荐
