@@ -96,9 +96,9 @@
 | 20221121T20:54:01Z | Null | https://github.com/mhurtado2/fuzzy-pancake | 0 | 0| 
 | 20221121T20:46:54Z | Null | https://github.com/Tobi-De/fuzzy-couscous | 1 | 0| 
 | 20221121T20:19:33Z | This repository was created to place projects and exercises developed in the field of Fuzzy Logic (CAP-424), subject taught in the postgraduate course at the National Institute for Space Research (INPE). | https://github.com/Leledj/Fuzzy-Logic | 0 | 0| 
+| 20221121T19:31:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4880 | 501| 
 | 20221121T13:46:15Z | Code for the producer station for Popsenteret%s FUZZ exhibition. | https://github.com/jpclemente97/PopsenteretProducerStation | 0 | 0| 
 | 20221121T13:43:56Z | fuzzy sets, fuzzy numbers, fuzzy fuzzy fuzzy... | https://github.com/kessler/fuzzy-math | 3 | 0| 
-| 20221121T13:34:49Z | Null | https://github.com/g3un/easy-fuzzer-framework | 3 | 0| 
 
 
 
