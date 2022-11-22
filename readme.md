@@ -61,7 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221122T10:27:12Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
+| 20221122T13:19:09Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
 | 20221122T05:38:00Z | Null | https://github.com/Serdyuk-prog/micro-backdoor | 0 | 0| 
 | 20221122T02:32:40Z | Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit. | https://github.com/reveng007/reveng_rtkit | 72 | 19| 
 | 20221122T02:30:33Z | Hack Windows and Linux with ruby | https://github.com/ghostdtdn/black-backdoorv1.3 | 0 | 0| 
