@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221122T02:08:06Z | CVE-2022-21907 | Null | https://github.com/ShuiChang2019/CVE-2022-21907 | | 
 | 20221121T22:21:59Z | CVE-2022-22954 | Null | https://github.com/Jhonsonwannaa/CVE-2022-22954 | | 
 | 20221121T17:11:21Z | CVE-2021-42013 | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | https://github.com/12345qwert123456/CVE-2021-42013 | | 
 | 20221121T16:25:14Z | CVE-2021-41773 | Vulnerable configuration Apache HTTP Server version 2.4.49 | https://github.com/12345qwert123456/CVE-2021-41773 | | 
@@ -55,7 +56,6 @@
 | 20221121T01:13:29Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221121T00:39:16Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_FinalProject_CVE20220847_Detection | | 
 | 20221120T18:14:53Z | CVE-2021-42717 | Detection and Mitigation script for CVE-2021-42717 -> ModSecurity DoS Vulnerability in JSON Parsing  | https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717 | | 
-| 20221120T18:09:10Z | CVE-2020-23593 | INFORMATION DISCLOSURE :CSRF to enable syslog mode and send to remote syslog server IP and Port. | https://github.com/huzaifahussain98/CVE-2020-23593 | | 
 
 
 # klee on Github 推荐
