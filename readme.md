@@ -47,7 +47,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T23:54:28Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 0 | 0| 
 | 20221121T23:29:27Z | Pentesters are often employed to find and exploit security vulnerabilities in websites. One of the most common bugs that pentesters look for is cross site scripting (XSS). XSS flaws allow attackers to inject malicious code into webpages viewed by other users. | https://github.com/sofokliskarelis/XSS-Vuln_Scanner | 0 | 0| 
 | 20221121T22:44:33Z | BFS 2022 ekoparty windows challenge writeup | https://github.com/tin-z/report_BFS_ekoparty_2022_exploitation_challenges | 0 | 0| 
 | 20221121T22:18:27Z | FrameWork Millin | https://github.com/liknesbexzode/Millins-FrameWork-Private-Leak3d-V1-0- | 0 | 0| 
@@ -57,6 +56,7 @@
 | 20221121T22:08:20Z | A public archive with multiple exploits or programs. | https://github.com/NotDarkn/Archives | 1 | 0| 
 | 20221121T14:54:25Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 107 | 11| 
 | 20221121T13:49:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4726 | 692| 
+| 20221121T13:48:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5057 | 703| 
 
 
 # backdoor on Github 推荐
