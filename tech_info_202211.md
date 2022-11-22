@@ -146,6 +146,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T02:40:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2620 | 177| 
+| 20221122T02:39:53Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 284 | 36| 
 | 20221122T02:25:45Z | Null | https://github.com/marticztn/fuzzyerasw | 0 | 0| 
 | 20221122T01:38:18Z | Null | https://github.com/marticztn/fuzzyerasw.github.io | 0 | 0| 
 | 20221122T01:28:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1136 | 146| 
@@ -154,8 +156,6 @@
 | 20221121T22:06:38Z | Tugas Implementasi Fuzzy_Kelompok 4 | https://github.com/AndreanRivai/Implementasi-Fuzzy- | 0 | 0| 
 | 20221121T21:57:28Z | Null | https://github.com/Azertinv/cipher_fuzzer | 1 | 0| 
 | 20221121T21:11:37Z | Frog - Fuzzing Reproducer Automatic Generator | https://github.com/henryrneh/frog | 0 | 0| 
-| 20221121T20:54:01Z | Null | https://github.com/mhurtado2/fuzzy-pancake | 0 | 0| 
-| 20221121T20:46:54Z | Null | https://github.com/Tobi-De/fuzzy-couscous | 1 | 0| 
 
 
 
