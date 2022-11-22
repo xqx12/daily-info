@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T13:09:46Z | Null | https://github.com/yosxos/Post-Exploitation-Tool | 0 | 0| 
+| 20221122T13:04:53Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Titanic | 0 | 0| 
 | 20221122T12:58:40Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12350 | 2127| 
 | 20221122T12:45:56Z | Null | https://github.com/Atalayagiz/Freya-Office-Word-Exploit | 1 | 0| 
 | 20221122T12:38:38Z | A public archive with multiple exploits or programs. | https://github.com/NotDarkn/Archives | 2 | 0| 
-| 20221122T12:30:32Z | Null | https://github.com/yosxos/Post-Exploitation-Tool | 0 | 0| 
 | 20221122T12:27:50Z | Scripts I made to %prank% my 10 year old brother, they all have some in-built flaw to exploit so that I can trick him into learning new stuff | https://github.com/Aeases/bash-pranks | 0 | 0| 
 | 20221122T11:40:29Z | Null | https://github.com/PrayanshParmar/Vanilla_Bufferoverflow_Exploitation | 0 | 0| 
 | 20221122T11:32:20Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Cartographie_Radars | 0 | 0| 
 | 20221122T11:32:16Z | Null | https://github.com/flols/Exploitation_Data_Radars_MDS | 0 | 0| 
 | 20221122T07:48:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 549 | 144| 
-| 20221122T07:10:41Z | Null | https://github.com/k0i/MyExploitDB | 0 | 0| 
 
 
 # backdoor on Github 推荐
