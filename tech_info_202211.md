@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221121 | ZK框架权限绕过导致R1Soft Server Backup Manager RCE并接管Agent | https://tttang.com/archive/1833/| 
+| 20221121 | Wordpress 插件 woocommerce 插件 SQL 注入漏洞分析 | http://paper.seebug.org/2023/| 
 | 20221117 | com组件的从0-1 | https://tttang.com/archive/1824/| 
 | 20221117 | Linux 内核 cls_route 过滤器 UAF 漏洞（CVE-2022-2588）分析与验证 | http://paper.seebug.org/2019/| 
 | 20221114 | 利用 Ptrace 的调试能力实现跨进程任意 syscall 调用 | https://medium.com/@0xFounders/using-rust-and-ptrace-to-invoke-syscalls-262dc585fcd3| 
@@ -24,8 +26,6 @@
 | 20221111 | 浏览器证书颁发机构自身信誉度的安全隐患分析 | http://www.schneier.com/blog/archives/2022/11/an-untrustworthy-tls-certificate-in-browsers.html| 
 | 20221111 | 这篇 Blog 介绍 IDA 中如何查找两个函数之间的调用路径的算法 | http://evilpan.com/2022/11/04/path-finder/| 
 | 20221111 | Positive Hack Days 2022 安全论坛上的 ATM Hacking 挑战题的 writeup | http://boschko.ca/atm-kiosk-hacking-phd2022/| 
-| 20221111 | xterm 虚拟终端被发现由 ^G 引发的漏洞，特殊条件下可以实现 RCE | http://www.openwall.com/lists/oss-security/2022/11/10/1| 
-| 20221111 | 这篇 Blog 以 SQLite 的一个整数溢出漏洞为例介绍编译器的 Divergent representations 问题，即编译器对变量溢出的处理在不同地方不一致的问题 | http://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/| 
 
 
 # 安全维基 推荐
@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221121T22:21:59Z | CVE-2022-22954 | Null | https://github.com/Jhonsonwannaa/CVE-2022-22954 | | 
+| 20221121T17:11:21Z | CVE-2021-42013 | Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50 | https://github.com/12345qwert123456/CVE-2021-42013 | | 
+| 20221121T16:25:14Z | CVE-2021-41773 | Vulnerable configuration Apache HTTP Server version 2.4.49 | https://github.com/12345qwert123456/CVE-2021-41773 | | 
 | 20221121T13:58:32Z | CVE-2022-29464 | Null | https://github.com/Jhonsonwannaa/CVE-2022-29464- | | 
 | 20221121T10:27:22Z | CVE-2022-42889 | Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)  | https://github.com/cryxnet/CVE-2022-42889-RCE | | 
 | 20221121T07:10:50Z | cve-2022-41352 | Null | https://github.com/aryrz/cve-2022-41352-zimbra-rce | | 
@@ -53,15 +56,12 @@
 | 20221121T00:39:16Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_FinalProject_CVE20220847_Detection | | 
 | 20221120T18:14:53Z | CVE-2021-42717 | Detection and Mitigation script for CVE-2021-42717 -> ModSecurity DoS Vulnerability in JSON Parsing  | https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717 | | 
 | 20221120T18:09:10Z | CVE-2020-23593 | INFORMATION DISCLOSURE :CSRF to enable syslog mode and send to remote syslog server IP and Port. | https://github.com/huzaifahussain98/CVE-2020-23593 | | 
-| 20221120T18:07:14Z | CVE-2020-23592 | CSRF attack leads to Reset ONU to Factory Default  | https://github.com/huzaifahussain98/CVE-2020-23592 | | 
-| 20221120T18:04:52Z | CVE-2020-23590 | CSRF leads to change the password for "WLAN SSID" | https://github.com/huzaifahussain98/CVE-2020-23590 | | 
-| 20221120T18:01:59Z | CVE-2020-23589 | Denial of Service through CSRF | https://github.com/huzaifahussain98/CVE-2020-23589 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T10:31:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9318 | 318| 
+| 20221121T23:59:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9321 | 319| 
 | 20221121T08:03:18Z | Assigned UI for both APP DEV & Techno | https://github.com/kbdiamondes/kleeneair-diamante-assigned | 0 | 0| 
 | 20221120T06:26:07Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 0 | 0| 
 | 20221119T06:39:38Z | Config files for my GitHub profile. | https://github.com/GabiKleebi02/GabiKleebi02 | 0 | 0| 
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221121T13:49:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4726 | 692| 
-| 20221121T13:48:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5057 | 703| 
-| 20221121T13:26:54Z | E²VA short for Exploitation Experience with Vulnerable App is a vulnerable app to learn userspace exploitation on Android | https://github.com/fkie-cad/eeva | 0 | 0| 
-| 20221121T12:55:18Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhn | 1 | 0| 
-| 20221121T12:54:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhn | 1 | 0| 
-| 20221121T12:53:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANhn | 1 | 0| 
-| 20221121T12:04:08Z | CVE-1999-1053 Proof-of-Concept Exploit | https://github.com/siunam321/CVE-1999-1053-PoC | 0 | 0| 
-| 20221121T11:39:33Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12346 | 2125| 
-| 20221121T10:31:49Z | some programmed tools | https://github.com/DummyfiedJalal03/ExPloitTooLs | 0 | 0| 
-| 20221121T06:18:17Z | Some common security vulnerabilities in smart contracts | https://github.com/adnhq/smart-contract-exploits | 0 | 0| 
+| 20221122T00:56:52Z | Null | https://github.com/Nodology/System-Preferences-Exploit | 0 | 0| 
+| 20221122T00:10:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1n | 1 | 0| 
+| 20221122T00:09:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN1n | 1 | 0| 
+| 20221122T00:08:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN1n | 1 | 0| 
+| 20221121T23:54:28Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 0 | 0| 
+| 20221121T23:29:27Z | Pentesters are often employed to find and exploit security vulnerabilities in websites. One of the most common bugs that pentesters look for is cross site scripting (XSS). XSS flaws allow attackers to inject malicious code into webpages viewed by other users. | https://github.com/sofokliskarelis/XSS-Vuln_Scanner | 0 | 0| 
+| 20221121T22:44:33Z | BFS 2022 ekoparty windows challenge writeup | https://github.com/tin-z/report_BFS_ekoparty_2022_exploitation_challenges | 0 | 0| 
+| 20221121T22:18:27Z | FrameWork Millin | https://github.com/liknesbexzode/Millins-FrameWork-Private-Leak3d-V1-0- | 0 | 0| 
+| 20221121T22:17:48Z | DayZ External Cheat V2 4 0 | https://github.com/liknesbexzode/DayZ-External-Cheat-V2-4-0-PRIVAT3-LEAK3D-BY-G0L | 0 | 0| 
+| 20221121T22:17:22Z | League Of Legends KBOT | https://github.com/liknesbexzode/League-Of-Legends-External-KBOT-V7 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T00:43:52Z | Null | https://github.com/LunaData1111/Backdoor-to-vault | 0 | 0| 
+| 20221121T22:53:31Z | Source code to old spy-net trojan. | https://github.com/De-eloper/Spynet-2.7-Beta | 0 | 0| 
+| 20221121T22:42:28Z | Experiments with using mqtt as a C2 mechanism | https://github.com/grampae/mqtaxi | 0 | 0| 
+| 20221121T22:34:05Z | Binder collection - 100+ Binders for Malware | https://github.com/De-eloper/Binder-Collection | 2 | 0| 
+| 20221121T21:41:34Z | Gecko Backdoor Bypassed | https://github.com/MadExploits/Gecko | 16 | 5| 
+| 20221121T17:56:03Z | Null | https://github.com/LaironLF/PR7_Python_backdoor | 0 | 0| 
 | 20221121T13:53:53Z | Backdoor Sample Detection through Model Mutation Testing | https://github.com/BLINKSK/BDMMT | 0 | 0| 
 | 20221121T13:09:39Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 272 | 64| 
-| 20221121T10:02:31Z | All binders I collect will be here | https://github.com/De-eloper/Binder-Collection | 1 | 0| 
 | 20221121T08:18:41Z | a Simple ELF Backdoor | https://github.com/gbdngb12/Simple-elf-backdoor | 0 | 0| 
 | 20221121T07:02:00Z | Null | https://github.com/caseLearner0718/implement_backdoorCFG | 0 | 0| 
-| 20221121T04:52:50Z | Null | https://github.com/backdoordetectors/backdoordetectors.github.io | 0 | 0| 
-| 20221121T00:04:26Z | Null | https://github.com/cipyermoon-T/CIGARRO_backdoor | 0 | 0| 
-| 20221120T23:24:03Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 583 | 205| 
-| 20221120T18:06:26Z | ARBITAR FILE UPLOAD LEADS TO %delete every file for Denial of Service (using %rm -rf *.*% in the code), reverse connection (using %.asp% webshell), backdoor , Escalation of Privileges, etc%. | https://github.com/huzaifahussain98/CVE-2020-23591 | 0 | 0| 
-| 20221120T17:19:53Z | Null | https://github.com/BregozZ0/BackdoorExample | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T00:20:39Z | Null | https://github.com/Nikitotr/fuzzy-octo-winner | 0 | 0| 
+| 20221121T23:31:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8057 | 1756| 
+| 20221121T22:06:38Z | Tugas Implementasi Fuzzy_Kelompok 4 | https://github.com/AndreanRivai/Implementasi-Fuzzy- | 0 | 0| 
+| 20221121T21:57:28Z | Null | https://github.com/Azertinv/cipher_fuzzer | 1 | 0| 
+| 20221121T21:11:37Z | Frog - Fuzzing Reproducer Automatic Generator | https://github.com/henryrneh/frog | 0 | 0| 
+| 20221121T20:54:01Z | Null | https://github.com/mhurtado2/fuzzy-pancake | 0 | 0| 
+| 20221121T20:46:54Z | Null | https://github.com/Tobi-De/fuzzy-couscous | 1 | 0| 
+| 20221121T20:19:33Z | This repository was created to place projects and exercises developed in the field of Fuzzy Logic (CAP-424), subject taught in the postgraduate course at the National Institute for Space Research (INPE). | https://github.com/Leledj/Fuzzy-Logic | 0 | 0| 
 | 20221121T13:46:15Z | Code for the producer station for Popsenteret%s FUZZ exhibition. | https://github.com/jpclemente97/PopsenteretProducerStation | 0 | 0| 
 | 20221121T13:43:56Z | fuzzy sets, fuzzy numbers, fuzzy fuzzy fuzzy... | https://github.com/kessler/fuzzy-math | 3 | 0| 
-| 20221121T13:34:49Z | Null | https://github.com/g3un/easy-fuzzer-framework | 3 | 0| 
-| 20221121T13:11:43Z | Null | https://github.com/AngieYcorni/fuzzy-spoon | 0 | 0| 
-| 20221121T09:43:02Z | Null | https://github.com/Nidhika1121/fuzzybasedSummarization | 0 | 0| 
-| 20221121T09:16:55Z | Fuzzy C-Means implementation in c and theoretical derivation of FCM | https://github.com/medamayakii/FuzzyCMeans | 0 | 0| 
-| 20221121T08:10:47Z | A tool for seamless redirection of live connections to new server locations. It enables MTD security with a middle virtual network to disrupt network reconnaissance attacks. | https://github.com/wsoussi/TopoFuzzer | 0 | 0| 
-| 20221121T06:43:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8053 | 1756| 
-| 20221121T06:15:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2619 | 177| 
-| 20221121T02:59:26Z | Null | https://github.com/caogle/fuzzynote | 0 | 0| 
 
 
 
