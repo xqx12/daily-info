@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221122T01:38:18Z | Null | https://github.com/marticztn/fuzzyerasw.github.io | 0 | 0| 
 | 20221122T01:28:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1136 | 146| 
 | 20221122T00:20:39Z | Null | https://github.com/Nikitotr/fuzzy-octo-winner | 0 | 0| 
 | 20221121T23:31:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8057 | 1756| 
@@ -155,7 +156,6 @@
 | 20221121T20:54:01Z | Null | https://github.com/mhurtado2/fuzzy-pancake | 0 | 0| 
 | 20221121T20:46:54Z | Null | https://github.com/Tobi-De/fuzzy-couscous | 1 | 0| 
 | 20221121T20:19:33Z | This repository was created to place projects and exercises developed in the field of Fuzzy Logic (CAP-424), subject taught in the postgraduate course at the National Institute for Space Research (INPE). | https://github.com/Leledj/Fuzzy-Logic | 0 | 0| 
-| 20221121T19:31:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4880 | 501| 
 
 
 
