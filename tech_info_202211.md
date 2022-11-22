@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221122T13:47:55Z | With this application, you can hide your exe files in word files. | https://github.com/Atalayagiz/Freya-Word-Exploit-Builder-1.0.1 | 0 | 0| 
+| 20221122T13:54:11Z | With this application, you can hide your exe files in word files. | https://github.com/Atalayagiz/Freya-Word-Exploit-Builder-1.0.1 | 0 | 0| 
 | 20221122T13:41:40Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 1 | 0| 
 | 20221122T13:09:46Z | Null | https://github.com/yosxos/Post-Exploitation-Tool | 0 | 0| 
 | 20221122T13:04:53Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Titanic | 0 | 0| 
