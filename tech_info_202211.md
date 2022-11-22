@@ -117,6 +117,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221121T10:58:54Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 8 | 1| 
 | 20221121T10:35:38Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 502 | 28| 
 | 20221121T08:39:45Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 594 | 107| 
 | 20221121T00:11:00Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 16 | 0| 
@@ -126,7 +127,6 @@
 | 20221119T02:58:00Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 80 | 17| 
 | 20221119T01:33:01Z | TTexplore is a library that performs path exploration on binary code using symbolic execution | https://github.com/JonathanSalwan/ttexplore | 49 | 3| 
 | 20221118T09:13:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3204 | 453| 
-| 20221116T20:15:39Z | Lab 2 for CS527 | https://github.com/franciscob1218/CS527-Symbolic-Execution | 0 | 0| 
 
 
 # big4 on Github 推荐
