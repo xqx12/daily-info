@@ -33,7 +33,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221122T23:25:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9345 | 319| 
 | 20221122T15:11:27Z | A standalone Unreal Engine Blueprint visualizer for the web | https://github.com/Joined-Forces/klee | 12 | 1| 
 | 20221122T14:25:45Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 137 | 1| 
 | 20221122T11:14:37Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 9 | 1| 
