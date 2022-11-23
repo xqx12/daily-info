@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T13:48:21Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12352 | 2127| 
 | 20221123T13:08:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4734 | 693| 
 | 20221123T12:56:17Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 1 | 0| 
 | 20221123T12:41:01Z | Null | https://github.com/flols/Exploitation_Data_BAN_MDS- | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20221123T09:24:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 551 | 144| 
 | 20221123T09:23:41Z | Go deep or broad? Exploit hybrid network architecture for weakly supervised object classiﬁcation and localization. | https://github.com/GuangqianGuo/DB-HbridNet | 1 | 0| 
 | 20221123T09:23:41Z | Go deep or broad? Exploit hybrid network architecture for weakly supervised object classiﬁcation and localization. | https://github.com/tg-Flipped/DB-HbridNet | 1 | 0| 
-| 20221123T09:06:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12351 | 2127| 
 | 20221123T02:46:58Z | A project that seeks to end most of the exploits | https://github.com/Anti-Exploit-Group/Anti-Exploit-Scripts-Found-2 | 0 | 0| 
 
 
