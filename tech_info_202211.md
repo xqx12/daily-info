@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221123T02:20:51Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
 | 20221123T01:56:36Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RCSVVVVVOLk/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221122T22:21:49Z | CVE-2022-45472 | DOM Based XSS | https://github.com/nicbrinkley/CVE-2022-45472 | | 
 | 20221122T18:45:59Z | CVE-2022-41923 | Null | https://github.com/grails/GSSC-CVE-2022-41923 | | 
@@ -55,7 +56,6 @@
 | 20221122T08:49:59Z | CVE-2022-29464 | Null | https://github.com/Jhonsonwannaa/CVE-2022-29464- | | 
 | 20221122T08:49:55Z | cve-2022-41352 | Null | https://github.com/aryrz/cve-2022-41352-zimbra-rce | | 
 | 20221122T08:49:51Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
-| 20221122T08:44:49Z | CVE-2020-23586 | CSRF allows to Add Network Traffic Control Type Rule | https://github.com/huzaifahussain98/CVE-2020-23586 | | 
 
 
 # klee on Github 推荐
