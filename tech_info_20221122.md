@@ -54,10 +54,10 @@
 | 20221122T23:27:36Z | This file holds in our exploits and yes, you will be called a skid for one of the scripts because of ss players.  | https://github.com/NullBerlington/Kodaware | 0 | 0| 
 | 20221122T23:19:47Z | Null | https://github.com/raphaelsander/slmail_exploit | 0 | 0| 
 | 20221122T22:53:05Z | Null | https://github.com/user-lc1bd6fl4q/vulnserver-bof-exploit.py | 0 | 0| 
+| 20221122T22:06:33Z | S2.04 - Exploitation d%une base de données , Création d%une base de données et de fonctions PLpgSQL | https://github.com/AlexandreThePlot/SAE_S2.04_BDD_Gestion_Notes_Etudiants | 0 | 0| 
 | 20221122T13:54:11Z | With this application, you can hide your exe files in word files. | https://github.com/Atalayagiz/Freya-Word-Exploit-Builder-1.0.1 | 0 | 0| 
 | 20221122T13:41:40Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 1 | 0| 
 | 20221122T13:09:46Z | Null | https://github.com/yosxos/Post-Exploitation-Tool | 0 | 0| 
-| 20221122T13:04:53Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Titanic | 0 | 0| 
 
 
 # backdoor on Github 推荐
