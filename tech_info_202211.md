@@ -87,9 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T13:59:18Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 2 | 0| 
 | 20221123T13:48:21Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12352 | 2127| 
 | 20221123T13:08:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4734 | 693| 
-| 20221123T12:56:17Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 1 | 0| 
 | 20221123T12:41:01Z | Null | https://github.com/flols/Exploitation_Data_BAN_MDS- | 0 | 0| 
 | 20221123T11:34:43Z | An exploit for CMS in order to perform Remote Code Execution (RCE) through the design manager flaw in the system | https://github.com/Wobomba/CMS-Exploit | 0 | 0| 
 | 20221123T11:24:46Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Cartographie_Adresses | 0 | 0| 
