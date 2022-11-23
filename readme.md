@@ -42,10 +42,10 @@
 | 20221123T11:34:43Z | An exploit for CMS in order to perform Remote Code Execution (RCE) through the design manager flaw in the system | https://github.com/Wobomba/CMS-Exploit | 0 | 0| 
 | 20221123T11:24:46Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Cartographie_Adresses | 0 | 0| 
 | 20221123T09:24:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 551 | 144| 
+| 20221123T09:23:41Z | Go deep or broad? Exploit hybrid network architecture for weakly supervised object classiﬁcation and localization. | https://github.com/GuangqianGuo/DB-HbridNet | 1 | 0| 
 | 20221123T09:06:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12351 | 2127| 
 | 20221123T02:46:58Z | A project that seeks to end most of the exploits | https://github.com/Anti-Exploit-Group/Anti-Exploit-Scripts-Found-2 | 0 | 0| 
 | 20221123T01:56:45Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/yeemuiahsanio/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
-| 20221123T01:50:34Z | GPay balance exploit READ MORE BELOW | https://github.com/yeemuiahsanio/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -74,16 +74,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T13:18:11Z | Null | https://github.com/SaiGanesh21/Fuzzy-logic | 0 | 0| 
+| 20221123T13:17:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43192 | 21536| 
 | 20221123T12:50:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 855 | 183| 
-| 20221123T12:38:01Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43191 | 21536| 
 | 20221123T12:14:49Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 107 | 8| 
 | 20221123T12:03:49Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzz.pm | 17 | 3| 
 | 20221123T11:57:37Z | Null | https://github.com/MJ-SEO/Fuzz_testing | 0 | 0| 
 | 20221123T11:15:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1139 | 147| 
 | 20221123T09:24:21Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 37 | 19| 
+| 20221123T08:36:27Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1780 | 228| 
 | 20221123T01:47:04Z | Null | https://github.com/ssnivlek/fuzzy_csv_search | 0 | 0| 
-| 20221123T01:02:24Z | Null | https://github.com/Tobi-De/fuzzy-couscous | 2 | 0| 
-| 20221123T00:22:37Z | Null | https://github.com/DiegoSouza11/fuzzy-telegram | 0 | 0| 
 
 
 
