@@ -152,10 +152,10 @@
 | 20221123T12:03:49Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzz.pm | 17 | 3| 
 | 20221123T11:57:37Z | Null | https://github.com/MJ-SEO/Fuzz_testing | 0 | 0| 
 | 20221123T11:15:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1139 | 147| 
+| 20221123T09:24:21Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 37 | 19| 
 | 20221123T01:47:04Z | Null | https://github.com/ssnivlek/fuzzy_csv_search | 0 | 0| 
 | 20221123T01:02:24Z | Null | https://github.com/Tobi-De/fuzzy-couscous | 2 | 0| 
 | 20221123T00:22:37Z | Null | https://github.com/DiegoSouza11/fuzzy-telegram | 0 | 0| 
-| 20221123T00:18:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8062 | 1756| 
 
 
 
