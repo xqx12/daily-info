@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221123T02:26:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9348 | 319| 
+| 20221123T11:58:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9366 | 319| 
+| 20221123T08:04:31Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 267 | 49| 
+| 20221123T07:18:44Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 11 | 1| 
 | 20221122T15:11:27Z | A standalone Unreal Engine Blueprint visualizer for the web | https://github.com/Joined-Forces/klee | 12 | 1| 
 | 20221122T14:25:45Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 137 | 1| 
-| 20221122T11:14:37Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 9 | 1| 
 | 20221122T06:34:44Z | ⚡ Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/itzAnasov/Kleeja-da | 3 | 1| 
 | 20221121T08:03:18Z | Assigned UI for both APP DEV & Techno | https://github.com/kbdiamondes/kleeneair-diamante-assigned | 0 | 0| 
 | 20221120T06:26:07Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 0 | 0| 
 | 20221119T06:39:38Z | Config files for my GitHub profile. | https://github.com/GabiKleebi02/GabiKleebi02 | 0 | 0| 
 | 20221118T13:39:39Z | Null | https://github.com/cornelizbasa-pinteam/klee-demo | 0 | 0| 
-| 20221117T16:55:47Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T12:56:17Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 1 | 0| 
+| 20221123T12:41:01Z | Null | https://github.com/flols/Exploitation_Data_BAN_MDS- | 0 | 0| 
+| 20221123T11:34:43Z | An exploit for CMS in order to perform Remote Code Execution (RCE) through the design manager flaw in the system | https://github.com/Wobomba/CMS-Exploit | 0 | 0| 
+| 20221123T11:24:46Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Cartographie_Adresses | 0 | 0| 
+| 20221123T09:24:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 551 | 144| 
+| 20221123T09:06:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12351 | 2127| 
 | 20221123T02:46:58Z | A project that seeks to end most of the exploits | https://github.com/Anti-Exploit-Group/Anti-Exploit-Scripts-Found-2 | 0 | 0| 
 | 20221123T01:56:45Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/yeemuiahsanio/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 | 20221123T01:50:34Z | GPay balance exploit READ MORE BELOW | https://github.com/yeemuiahsanio/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20221123T01:28:25Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 55 | 23| 
-| 20221123T01:24:01Z | GPay balance exploit READ MORE BELOW | https://github.com/gavgavirnah/GPAY-BALANCE-EXPLOIT | 0 | 0| 
-| 20221123T00:52:59Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/poolakfjeturu/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
-| 20221123T00:52:47Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/poolakfjeturu/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
-| 20221123T00:51:27Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/poolakfjeturu/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
-| 20221123T00:51:15Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/poolakfjeturu/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
-| 20221123T00:47:21Z | Impersonates a MySQL server and attempts to retrieve files on the client system via LOAD DATA LOCAL INFILE. | https://github.com/jbacco/mysql-local-infile-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T12:21:15Z | Fileless Linux Backdoor using the globalsocket network. | https://github.com/owu-fd/Fileless-Linux-Door | 0 | 0| 
+| 20221123T11:46:57Z | Source code of NjRat Ghost Edition | https://github.com/De-eloper/SRC-NjRat-Ghost-Edition | 2 | 0| 
+| 20221123T11:34:29Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
+| 20221123T09:53:18Z | Null | https://github.com/4i2zero/Window-backdoor-using-Python-Socket- | 1 | 0| 
+| 20221123T07:34:37Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 0 | 0| 
+| 20221123T06:16:50Z | Null | https://github.com/BigPigMoon/learn_backdoor | 0 | 0| 
 | 20221122T23:16:04Z | Shell BackdoOr Full Automatic Collection | https://github.com/ShellCleaned/Best_Shell_Collection | 0 | 0| 
 | 20221122T23:14:19Z | windows backdoor | https://github.com/vende11s/Dupnix-3 | 2 | 0| 
 | 20221122T20:20:34Z | Get a simple remote shell | https://github.com/Yulypso/Tiny-Backdoor-Generator | 0 | 0| 
 | 20221122T18:47:40Z | Beta release of NjRat Ghost Edition | https://github.com/De-eloper/NjRat-Ghost-Edition | 1 | 0| 
-| 20221122T15:31:41Z | A Backdoor System | https://github.com/EinKaktus/Backdoor | 0 | 0| 
-| 20221122T14:21:36Z | Null | https://github.com/BECKQuentin/backdoor | 0 | 0| 
-| 20221122T14:10:43Z | Sandman is a backdoor that is meant to work on hardened networks during red team engagements. | https://github.com/readloud/Sandman | 0 | 0| 
-| 20221122T13:45:12Z | Null | https://github.com/Antuh/BackDoor-Antuh | 0 | 0| 
-| 20221122T13:19:09Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
-| 20221122T05:38:00Z | Null | https://github.com/Serdyuk-prog/micro-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -146,16 +146,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T12:50:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 855 | 183| 
+| 20221123T12:38:01Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43191 | 21536| 
+| 20221123T12:14:49Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 107 | 8| 
+| 20221123T12:03:49Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzz.pm | 17 | 3| 
+| 20221123T11:57:37Z | Null | https://github.com/MJ-SEO/Fuzz_testing | 0 | 0| 
+| 20221123T11:15:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1139 | 147| 
 | 20221123T01:47:04Z | Null | https://github.com/ssnivlek/fuzzy_csv_search | 0 | 0| 
+| 20221123T01:02:24Z | Null | https://github.com/Tobi-De/fuzzy-couscous | 2 | 0| 
 | 20221123T00:22:37Z | Null | https://github.com/DiegoSouza11/fuzzy-telegram | 0 | 0| 
 | 20221123T00:18:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8062 | 1756| 
-| 20221123T00:08:24Z | SISTEM PENDUKUNG KEPUTUSAN PEMBERIAN PINJAMAN KARYAWAN MENGGUNAKAN METODE FUZZY TSUKAMOTO DAN MOORA PADA PT INDO SANKIE SUKSES | https://github.com/DwikiFirmansyah/Projek22-METODE-FUZZY-TSUKAMOTO-DAN-MOORA | 0 | 0| 
-| 20221122T23:30:50Z | Null | https://github.com/aimanbinggo/Fuzzy-train | 0 | 0| 
-| 20221122T23:13:17Z | Create libraries with collections of strings and run (Python-) fast matches against them. | https://github.com/mvwouw/FuzzyMatching | 0 | 0| 
-| 20221122T17:13:25Z | Swift API | https://github.com/chrispflepsen/fuzzy-funicular | 0 | 0| 
-| 20221122T15:50:22Z | Estudando lógica fuzzy | https://github.com/PedroMesquitaIsidoro/logicaFuzzy | 0 | 0| 
-| 20221122T13:56:00Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 35 | 19| 
-| 20221122T13:11:54Z | Null | https://github.com/MarinceanAdrian/Fuzzy_systems | 0 | 0| 
 
 
 
