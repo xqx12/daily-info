@@ -146,6 +146,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T01:47:04Z | Null | https://github.com/ssnivlek/fuzzy_csv_search | 0 | 0| 
 | 20221123T00:22:37Z | Null | https://github.com/DiegoSouza11/fuzzy-telegram | 0 | 0| 
 | 20221123T00:18:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8062 | 1756| 
 | 20221123T00:08:24Z | SISTEM PENDUKUNG KEPUTUSAN PEMBERIAN PINJAMAN KARYAWAN MENGGUNAKAN METODE FUZZY TSUKAMOTO DAN MOORA PADA PT INDO SANKIE SUKSES | https://github.com/DwikiFirmansyah/Projek22-METODE-FUZZY-TSUKAMOTO-DAN-MOORA | 0 | 0| 
@@ -155,7 +156,6 @@
 | 20221122T15:50:22Z | Estudando lógica fuzzy | https://github.com/PedroMesquitaIsidoro/logicaFuzzy | 0 | 0| 
 | 20221122T13:56:00Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 35 | 19| 
 | 20221122T13:11:54Z | Null | https://github.com/MarinceanAdrian/Fuzzy_systems | 0 | 0| 
-| 20221122T13:07:20Z | Null | https://github.com/lmiller1990/fuzzy-search-tree | 0 | 0| 
 
 
 
