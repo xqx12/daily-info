@@ -96,7 +96,7 @@
 | 20221123T09:24:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 551 | 144| 
 | 20221123T09:23:41Z | Go deep or broad? Exploit hybrid network architecture for weakly supervised object classiﬁcation and localization. | https://github.com/GuangqianGuo/DB-HbridNet | 1 | 0| 
 | 20221123T09:23:41Z | Go deep or broad? Exploit hybrid network architecture for weakly supervised object classiﬁcation and localization. | https://github.com/tg-Flipped/DB-HbridNet | 1 | 0| 
-| 20221123T02:46:58Z | A project that seeks to end most of the exploits | https://github.com/Anti-Exploit-Group/Anti-Exploit-Scripts-Found-2 | 0 | 0| 
+| 20221123T03:12:11Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3180 | 482| 
 
 
 # backdoor on Github 推荐
