@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T13:08:09Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4734 | 693| 
 | 20221123T12:56:17Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 1 | 0| 
 | 20221123T12:41:01Z | Null | https://github.com/flols/Exploitation_Data_BAN_MDS- | 0 | 0| 
 | 20221123T11:34:43Z | An exploit for CMS in order to perform Remote Code Execution (RCE) through the design manager flaw in the system | https://github.com/Wobomba/CMS-Exploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221123T02:46:58Z | A project that seeks to end most of the exploits | https://github.com/Anti-Exploit-Group/Anti-Exploit-Scripts-Found-2 | 0 | 0| 
 | 20221123T01:56:45Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/yeemuiahsanio/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 | 20221123T01:50:34Z | GPay balance exploit READ MORE BELOW | https://github.com/yeemuiahsanio/GPAY-BALANCE-EXPLOIT | 0 | 0| 
-| 20221123T01:28:25Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 55 | 23| 
 
 
 # backdoor on Github 推荐
