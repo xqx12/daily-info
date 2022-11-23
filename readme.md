@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T13:26:42Z | Config files for my GitHub profile. | https://github.com/InFuzzz/InFuzzz | 0 | 0| 
 | 20221123T13:23:39Z | Cipher bruteforcer for the eye glyphs in noita | https://github.com/Azertinv/cipher_fuzzer | 1 | 0| 
 | 20221123T13:18:11Z | Null | https://github.com/SaiGanesh21/Fuzzy-logic | 0 | 0| 
 | 20221123T13:17:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43192 | 21535| 
@@ -83,7 +84,6 @@
 | 20221123T11:57:37Z | Null | https://github.com/MJ-SEO/Fuzz_testing | 0 | 0| 
 | 20221123T11:15:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1139 | 147| 
 | 20221123T09:24:21Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 37 | 19| 
-| 20221123T08:36:27Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1780 | 228| 
 
 
 
