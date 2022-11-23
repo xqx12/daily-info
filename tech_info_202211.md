@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221122T13:54:11Z | With this application, you can hide your exe files in word files. | https://github.com/Atalayagiz/Freya-Word-Exploit-Builder-1.0.1 | 0 | 0| 
-| 20221122T13:41:40Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 1 | 0| 
-| 20221122T13:09:46Z | Null | https://github.com/yosxos/Post-Exploitation-Tool | 0 | 0| 
-| 20221122T13:04:53Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Titanic | 0 | 0| 
-| 20221122T12:58:40Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12350 | 2127| 
-| 20221122T12:45:56Z | Null | https://github.com/Atalayagiz/Freya-Office-Word-Exploit | 1 | 0| 
-| 20221122T12:38:38Z | A public archive with multiple exploits or programs. | https://github.com/NotDarkn/Archives | 2 | 0| 
-| 20221122T12:27:50Z | Scripts I made to %prank% my 10 year old brother, they all have some in-built flaw to exploit so that I can trick him into learning new stuff | https://github.com/Aeases/bash-pranks | 0 | 0| 
-| 20221122T11:40:29Z | Null | https://github.com/PrayanshParmar/Vanilla_Bufferoverflow_Exploitation | 0 | 0| 
-| 20221122T11:32:20Z | MDS - Cours Exploitation des données | https://github.com/ElenCrissy/Cartographie_Radars | 0 | 0| 
+| 20221123T00:52:59Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/poolakfjeturu/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
+| 20221123T00:52:47Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/poolakfjeturu/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20221123T00:51:27Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/poolakfjeturu/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
+| 20221123T00:51:15Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/poolakfjeturu/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
+| 20221123T00:47:21Z | Impersonates a MySQL server and attempts to retrieve files on the client system via LOAD DATA LOCAL INFILE. | https://github.com/jbacco/mysql-local-infile-exploit | 0 | 0| 
+| 20221122T23:47:37Z | j | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1j | 1 | 0| 
+| 20221122T23:46:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN1j | 1 | 0| 
+| 20221122T23:45:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN1j | 1 | 0| 
+| 20221122T23:27:36Z | This file holds in our exploits and yes, you will be called a skid for one of the scripts because of ss players.  | https://github.com/NullBerlington/Kodaware | 0 | 0| 
+| 20221122T23:19:47Z | Null | https://github.com/raphaelsander/slmail_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
