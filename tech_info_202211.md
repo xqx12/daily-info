@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221123T01:56:36Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RCSVVVVVOLk/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221122T22:21:49Z | CVE-2022-45472 | DOM Based XSS | https://github.com/nicbrinkley/CVE-2022-45472 | | 
 | 20221122T18:45:59Z | CVE-2022-41923 | Null | https://github.com/grails/GSSC-CVE-2022-41923 | | 
 | 20221122T16:07:46Z | Cve-2022- | If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi | https://github.com/RCSVVVVVOLk/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221122T15:48:17Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RCSVVVVVOLk/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221122T15:46:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RCSVVVVVOLk/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20221122T08:50:08Z | CVE-2022-22954 | Null | https://github.com/Jhonsonwannaa/CVE-2022-22954 | | 
 | 20221122T08:49:59Z | CVE-2022-29464 | Null | https://github.com/Jhonsonwannaa/CVE-2022-29464- | | 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T01:56:45Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/yeemuiahsanio/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 | 20221123T01:50:34Z | GPay balance exploit READ MORE BELOW | https://github.com/yeemuiahsanio/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20221123T01:28:25Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 55 | 23| 
 | 20221123T01:24:01Z | GPay balance exploit READ MORE BELOW | https://github.com/gavgavirnah/GPAY-BALANCE-EXPLOIT | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221123T00:51:15Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/poolakfjeturu/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
 | 20221123T00:47:21Z | Impersonates a MySQL server and attempts to retrieve files on the client system via LOAD DATA LOCAL INFILE. | https://github.com/jbacco/mysql-local-infile-exploit | 0 | 0| 
 | 20221123T00:13:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 141 | 0| 
-| 20221122T23:47:37Z | j | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1j | 1 | 0| 
 
 
 # backdoor on Github 推荐

@@ -21,13 +21,13 @@
 | 20221122T22:21:49Z | CVE-2022-45472 | DOM Based XSS | https://github.com/nicbrinkley/CVE-2022-45472 | | 
 | 20221122T18:45:59Z | CVE-2022-41923 | Null | https://github.com/grails/GSSC-CVE-2022-41923 | | 
 | 20221122T16:07:46Z | Cve-2022- | If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi | https://github.com/RCSVVVVVOLk/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
-| 20221122T15:48:17Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RCSVVVVVOLk/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20221122T15:46:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RCSVVVVVOLk/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 | 20221122T08:50:08Z | CVE-2022-22954 | Null | https://github.com/Jhonsonwannaa/CVE-2022-22954 | | 
 | 20221122T08:49:59Z | CVE-2022-29464 | Null | https://github.com/Jhonsonwannaa/CVE-2022-29464- | | 
 | 20221122T08:49:55Z | cve-2022-41352 | Null | https://github.com/aryrz/cve-2022-41352-zimbra-rce | | 
 | 20221122T08:49:51Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221122T08:44:49Z | CVE-2020-23586 | CSRF allows to Add Network Traffic Control Type Rule | https://github.com/huzaifahussain98/CVE-2020-23586 | | 
+| 20221122T08:44:40Z | CVE-2020-23587 |  Men in the middle attack is possible through CSRF | https://github.com/huzaifahussain98/CVE-2020-23587 | | 
 
 
 # klee on Github 推荐
