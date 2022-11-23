@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T01:24:01Z | GPay balance exploit READ MORE BELOW | https://github.com/gavgavirnah/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20221123T00:52:59Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/poolakfjeturu/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
 | 20221123T00:52:47Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/poolakfjeturu/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
 | 20221123T00:51:27Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/poolakfjeturu/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221122T23:46:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN1j | 1 | 0| 
 | 20221122T23:45:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN1j | 1 | 0| 
 | 20221122T23:27:36Z | This file holds in our exploits and yes, you will be called a skid for one of the scripts because of ss players.  | https://github.com/NullBerlington/Kodaware | 0 | 0| 
-| 20221122T23:19:47Z | Null | https://github.com/raphaelsander/slmail_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
