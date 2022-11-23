@@ -146,10 +146,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T13:42:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43193 | 21535| 
 | 20221123T13:26:42Z | Config files for my GitHub profile. | https://github.com/InFuzzz/InFuzzz | 0 | 0| 
 | 20221123T13:23:39Z | Cipher bruteforcer for the eye glyphs in noita | https://github.com/Azertinv/cipher_fuzzer | 1 | 0| 
 | 20221123T13:18:11Z | Null | https://github.com/SaiGanesh21/Fuzzy-logic | 0 | 0| 
-| 20221123T13:17:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43192 | 21535| 
 | 20221123T12:50:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 855 | 183| 
 | 20221123T12:14:49Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 107 | 8| 
 | 20221123T12:03:49Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzz.pm | 17 | 3| 
