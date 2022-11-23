@@ -62,6 +62,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T07:18:44Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 11 | 1| 
+| 20221123T06:51:36Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 503 | 28| 
 
 
 # big4 on Github 推荐
