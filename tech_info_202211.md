@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221123T01:50:34Z | GPay balance exploit READ MORE BELOW | https://github.com/yeemuiahsanio/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20221123T01:28:25Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 55 | 23| 
 | 20221123T01:24:01Z | GPay balance exploit READ MORE BELOW | https://github.com/gavgavirnah/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20221123T00:52:59Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/poolakfjeturu/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
@@ -94,9 +95,8 @@
 | 20221123T00:51:27Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/poolakfjeturu/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
 | 20221123T00:51:15Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/poolakfjeturu/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
 | 20221123T00:47:21Z | Impersonates a MySQL server and attempts to retrieve files on the client system via LOAD DATA LOCAL INFILE. | https://github.com/jbacco/mysql-local-infile-exploit | 0 | 0| 
+| 20221123T00:13:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 141 | 0| 
 | 20221122T23:47:37Z | j | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN1j | 1 | 0| 
-| 20221122T23:46:21Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN1j | 1 | 0| 
-| 20221122T23:45:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN1j | 1 | 0| 
 
 
 # backdoor on Github 推荐
