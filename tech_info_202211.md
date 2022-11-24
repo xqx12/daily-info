@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221124T01:47:10Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
+| 20221124T01:58:22Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221124T01:09:07Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
 | 20221124T00:41:23Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
 | 20221123T21:21:49Z | 未知编号 | Null | https://github.com/M889SEC/CVE-2022 | | 
