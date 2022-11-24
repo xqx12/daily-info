@@ -104,11 +104,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221124T02:05:50Z | Source code of NjRat Ghost Edition | https://github.com/De-eloper/SRC-NjRat-Ghost-Edition | 4 | 0| 
 | 20221124T00:31:16Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7332 | 1756| 
 | 20221123T22:41:34Z | Null | https://github.com/M889SEC/SHELL-BACKDOOR | 0 | 0| 
 | 20221123T19:21:33Z | Завгородний Никита ПР-21.106 | https://github.com/Timothek2112/Backdoor | 0 | 0| 
 | 20221123T18:10:27Z | pwn++ :  a Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 83 | 7| 
-| 20221123T17:48:36Z | Source code of NjRat Ghost Edition | https://github.com/De-eloper/SRC-NjRat-Ghost-Edition | 3 | 0| 
 | 20221123T15:29:23Z | A powerful new type of malware that blends in one %package% four types of malwares TimeBoms, Backdoors, Ransomwares and Worms. | https://github.com/ExPloit256/Lexanil | 0 | 0| 
 | 20221123T12:21:15Z | Fileless Linux Backdoor using the globalsocket network. | https://github.com/owu-fd/Fileless-Linux-Door | 0 | 0| 
 | 20221123T11:34:29Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
