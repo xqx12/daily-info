@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221124T13:26:41Z | exploit of notepad++% update mechanism | https://github.com/Bora-Horza-Gobuchul/notepadExploit | 0 | 0| 
 | 20221124T12:38:13Z | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | 0 | 0| 
 | 20221124T11:59:28Z | An guide to vanilla buffer overflow exploitation with the help of brainpan-vm. | https://github.com/PrayanshParmar/Vanilla_Bufferoverflow_Exploitation | 1 | 0| 
 | 20221124T11:21:27Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12359 | 2127| 
@@ -99,13 +100,12 @@
 | 20221124T09:27:18Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 110 | 11| 
 | 20221124T08:59:01Z | An example of a FUSE filesystem that can be used in kernel exploitation as a replacement for userfaultfd technique | https://github.com/LukeGix/FUSEFs_exploitation | 0 | 0| 
 | 20221124T02:10:17Z | Tutorial de como tornar um scan de rede em uma ferramenta de recon / exploit | https://github.com/NORD-Function/AngryExploit | 0 | 0| 
-| 20221124T00:59:37Z | Null | https://github.com/Sombody101/ExploitUtilities | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221124T13:19:53Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 404 | 98| 
+| 20221124T13:26:24Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 405 | 98| 
 | 20221124T12:48:46Z | Null | https://github.com/Lucas-Bispo/backdoor | 0 | 0| 
 | 20221124T10:31:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 92 | 12| 
 | 20221124T10:16:57Z | Null | https://github.com/aelsi2-edu/learn_backdoor | 0 | 0| 
