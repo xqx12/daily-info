@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221124T01:09:07Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
 | 20221124T00:41:23Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
 | 20221123T21:21:49Z | 未知编号 | Null | https://github.com/M889SEC/CVE-2022 | | 
 | 20221123T20:24:51Z | CVE-2022-41923 | Null | https://github.com/grails/GSSC-CVE-2022-41923 | | 
@@ -55,7 +56,6 @@
 | 20221122T22:21:49Z | CVE-2022-45472 | DOM Based XSS | https://github.com/nicbrinkley/CVE-2022-45472 | | 
 | 20221122T16:07:46Z | Cve-2022- | If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi | https://github.com/RCSVVVVVOLk/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 | 20221122T15:46:42Z | 未知编号 | Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s | https://github.com/RCSVVVVVOLk/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
-| 20221122T08:50:08Z | CVE-2022-22954 | Null | https://github.com/Jhonsonwannaa/CVE-2022-22954 | | 
 
 
 # klee on Github 推荐
