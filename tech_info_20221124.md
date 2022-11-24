@@ -42,6 +42,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221124T12:38:13Z | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | 0 | 0| 
+| 20221124T11:59:28Z | An guide to vanilla buffer overflow exploitation with the help of brainpan-vm. | https://github.com/PrayanshParmar/Vanilla_Bufferoverflow_Exploitation | 1 | 0| 
+| 20221124T11:21:27Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12359 | 2127| 
+| 20221124T10:50:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4736 | 694| 
+| 20221124T10:14:14Z | Me Learning a lua | https://github.com/AdamxzV3/RobloxExploitingLearning | 0 | 0| 
+| 20221124T09:48:50Z | Exploiting Efail vulnerability in e.g. in Thunderbird | https://github.com/jaads/Efail-malleability-gadget-exploit | 4 | 0| 
+| 20221124T09:27:18Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 110 | 11| 
+| 20221124T08:59:01Z | An example of a FUSE filesystem that can be used in kernel exploitation as a replacement for userfaultfd technique | https://github.com/LukeGix/FUSEFs_exploitation | 0 | 0| 
 | 20221124T02:10:17Z | Tutorial de como tornar um scan de rede em uma ferramenta de recon / exploit | https://github.com/NORD-Function/AngryExploit | 0 | 0| 
 | 20221124T00:59:37Z | Null | https://github.com/Sombody101/ExploitUtilities | 0 | 0| 
 
