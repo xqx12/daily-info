@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221124 | BAS那点事儿 | https://xz.aliyun.com/t/11880| 
+| 20221124 | Android组件安全之drozer实战 | https://mp.weixin.qq.com/s/96f6wVomEjC9_kyzsoylQg| 
 | 20221122 | 侦查取证中系统镜像的还原与分析 | https://mp.weixin.qq.com/s/Bl7Y8Ca_a7oZez8ryWQ3FQ| 
 | 20221122 | 初探Java安全之JavaAgent | https://sec-in.com/article/1690| 
 | 20221121 | CodeQL的自动化代码审计之路（中篇） | https://mp.weixin.qq.com/s/5UmBkqCsBt64WY2JllIVSw| 
@@ -39,8 +41,6 @@
 | 20221120 | 漏洞赏金猎人系列-测试电商类相关功能步骤和Tips-I | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486923&idx=1&sn=32a915045229c85f21da381f5eeb072f&chksm=e8a607a8dfd18ebe9b5248b1310003ce294c239224db8364a999caaa8ad7a898ea597d229e12&token=1618310243&lang=zh_CN#rd| 
 | 20221119 | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg| 
 | 20221119 | 2022信息安全四大顶会Fuzz论文汇总 | https://mp.weixin.qq.com/s/fXopKsFW4mwkUK29AwsnSA| 
-| 20221118 | Akamai 在新观察到的域名中每月可标记 1300 万恶意域名 | https://mp.weixin.qq.com/s/A_tNuBiBvMeavfhPndsRbg| 
-| 20221118 | Brute Ratel C4 Badger分析实战与检测 | https://mp.weixin.qq.com/s/Nnag6DSf_wx2YrnTXEwNug| 
 
 
 # CVE Github 推荐
@@ -61,21 +61,22 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221124T02:02:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9372 | 319| 
+| 20221124T11:05:04Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 166 | 50| 
+| 20221124T09:55:00Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 138 | 1| 
+| 20221124T09:48:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9381 | 319| 
+| 20221124T09:27:10Z | Null | https://github.com/AnnaKopejkina/Kleee | 0 | 0| 
+| 20221124T05:59:13Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
 | 20221123T23:00:27Z | हार्ड ड्राइव क्लीनर - चयनित हार्ड ड्राइव पर स्थान साफ़ करने के लिए PowerShell स्क्रिप्ट। | https://github.com/powershelleng/hi-haard-draiv-kleenar | 0 | 0| 
 | 20221123T17:00:00Z | Null | https://github.com/AnnaKopejkina/Klee | 0 | 0| 
 | 20221123T08:04:31Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 267 | 49| 
 | 20221123T07:18:44Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 11 | 1| 
 | 20221122T15:11:27Z | A standalone Unreal Engine Blueprint visualizer for the web | https://github.com/Joined-Forces/klee | 12 | 1| 
-| 20221122T14:25:45Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 137 | 1| 
-| 20221122T06:34:44Z | ⚡ Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/itzAnasov/Kleeja-da | 3 | 1| 
-| 20221121T08:03:18Z | Assigned UI for both APP DEV & Techno | https://github.com/kbdiamondes/kleeneair-diamante-assigned | 0 | 0| 
-| 20221120T06:26:07Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221124T12:21:32Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 83 | 45| 
 | 20221123T16:17:12Z | Repository del progetto di test automatici per i partner mancanti, aggiornato alla versione uiPath-non legacy.  | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_PM_2.0 | 0 | 0| 
 | 20221123T15:48:11Z |  Repository del progetto di test automatici per il partner BPB, aggiornato alla versione uiPath-non legacy. | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB_2.0 | 0 | 0| 
 | 20221122T14:12:57Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 25 | 4| 
@@ -104,16 +105,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221124T12:48:46Z | Null | https://github.com/Lucas-Bispo/backdoor | 0 | 0| 
+| 20221124T12:29:16Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 403 | 98| 
+| 20221124T10:31:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 92 | 12| 
+| 20221124T10:16:57Z | Null | https://github.com/aelsi2-edu/learn_backdoor | 0 | 0| 
+| 20221124T08:44:42Z | Null | https://github.com/Lesstisa/Backdoor | 0 | 0| 
+| 20221124T08:01:35Z | A Minimalist Backdoor Written In Python (Under Development) | https://github.com/0xN1nja/darkness-python | 0 | 0| 
+| 20221124T04:08:53Z | B4CKD00R | https://github.com/MLJG7/backdoors | 0 | 0| 
+| 20221124T04:06:02Z | SERVIDOR CONECTA EL BACKDOOR | https://github.com/MLJG7/TCP_4444 | 0 | 0| 
 | 20221124T02:05:50Z | Source code of NjRat Ghost Edition | https://github.com/De-eloper/SRC-NjRat-Ghost-Edition | 4 | 0| 
 | 20221124T00:31:16Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7332 | 1756| 
-| 20221123T22:41:34Z | Null | https://github.com/M889SEC/SHELL-BACKDOOR | 0 | 0| 
-| 20221123T19:21:33Z | Завгородний Никита ПР-21.106 | https://github.com/Timothek2112/Backdoor | 0 | 0| 
-| 20221123T18:10:27Z | pwn++ :  a Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 83 | 7| 
-| 20221123T15:29:23Z | A powerful new type of malware that blends in one %package% four types of malwares TimeBoms, Backdoors, Ransomwares and Worms. | https://github.com/ExPloit256/Lexanil | 0 | 0| 
-| 20221123T12:21:15Z | Fileless Linux Backdoor using the globalsocket network. | https://github.com/owu-fd/Fileless-Linux-Door | 0 | 0| 
-| 20221123T11:34:29Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
-| 20221123T09:53:18Z | Null | https://github.com/4i2zero/Window-backdoor-using-Python-Socket- | 1 | 0| 
-| 20221123T07:34:37Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -148,16 +149,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221124T01:14:56Z | Null | https://github.com/nilupak/fuzzy-funicular | 0 | 0| 
-| 20221123T23:42:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8064 | 1758| 
-| 20221123T23:33:37Z | Null | https://github.com/lucasnevespereira/heterogram-fuzz-test | 0 | 0| 
-| 20221123T22:33:33Z | Null | https://github.com/Aubrey200/fuzzy-umbrella | 0 | 0| 
-| 20221123T13:55:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1140 | 147| 
-| 20221123T13:42:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 43193 | 21535| 
-| 20221123T13:26:42Z | Config files for my GitHub profile. | https://github.com/InFuzzz/InFuzzz | 0 | 0| 
-| 20221123T13:23:39Z | Cipher bruteforcer for the eye glyphs in noita | https://github.com/Azertinv/cipher_fuzzer | 1 | 0| 
-| 20221123T13:18:11Z | Null | https://github.com/SaiGanesh21/Fuzzy-logic | 0 | 0| 
-| 20221123T12:50:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 855 | 183| 
+| 20221124T13:00:35Z | Null | https://github.com/NicolasDenis57/fuzzy-chainsaw | 0 | 0| 
+| 20221124T12:58:53Z | tools for CI fuzzing automation | https://github.com/gardatech/bugbane | 18 | 1| 
+| 20221124T12:51:15Z | Null | https://github.com/yasyaindra/fuzzy-fever-py | 0 | 0| 
+| 20221124T12:22:40Z | Null | https://github.com/ajay-ghale/fuzzy-spoon | 0 | 0| 
+| 20221124T11:55:29Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1541 | 260| 
+| 20221124T11:43:13Z | Null | https://github.com/Jirka-Jinda/fuzzy_rule_system | 0 | 0| 
+| 20221124T11:18:19Z | Null | https://github.com/lkspneionf/fuzzy-memory | 0 | 0| 
+| 20221124T10:59:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1147 | 151| 
+| 20221124T10:50:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8069 | 1759| 
+| 20221124T10:39:15Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 40 | 19| 
 
 
 
