@@ -148,6 +148,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221124T01:14:56Z | Null | https://github.com/nilupak/fuzzy-funicular | 0 | 0| 
 | 20221123T23:42:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8064 | 1758| 
 | 20221123T23:33:37Z | Null | https://github.com/lucasnevespereira/heterogram-fuzz-test | 0 | 0| 
 | 20221123T22:33:33Z | Null | https://github.com/Aubrey200/fuzzy-umbrella | 0 | 0| 
@@ -157,7 +158,6 @@
 | 20221123T13:23:39Z | Cipher bruteforcer for the eye glyphs in noita | https://github.com/Azertinv/cipher_fuzzer | 1 | 0| 
 | 20221123T13:18:11Z | Null | https://github.com/SaiGanesh21/Fuzzy-logic | 0 | 0| 
 | 20221123T12:50:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 855 | 183| 
-| 20221123T12:14:49Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 107 | 8| 
 
 
 
