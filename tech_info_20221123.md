@@ -28,7 +28,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221123T23:00:27Z | हार्ड ड्राइव क्लीनर - चयनित हार्ड ड्राइव पर स्थान साफ़ करने के लिए PowerShell स्क्रिप्ट। | https://github.com/powershelleng/hi-haard-draiv-kleenar | 0 | 0| 
 | 20221123T17:00:00Z | Null | https://github.com/AnnaKopejkina/Klee | 0 | 0| 
-| 20221123T15:15:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9370 | 319| 
 | 20221123T08:04:31Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 267 | 49| 
 | 20221123T07:18:44Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 11 | 1| 
 
