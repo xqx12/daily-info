@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221124T02:10:17Z | Tutorial de como tornar um scan de rede em uma ferramenta de recon / exploit | https://github.com/NORD-Function/AngryExploit | 0 | 0| 
 | 20221124T00:59:37Z | Null | https://github.com/Sombody101/ExploitUtilities | 0 | 0| 
 | 20221123T23:39:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1v | 1 | 0| 
 | 20221123T23:38:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1v | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20221123T21:25:18Z | A collection of JavaScript Codes I%ve made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | 338 | 79| 
 | 20221123T16:27:17Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 109 | 11| 
 | 20221123T13:59:18Z | Vaultiris - CVE Monitor | https://github.com/L1GH7/Vaultiris | 2 | 0| 
-| 20221123T13:48:21Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12352 | 2127| 
 
 
 # backdoor on Github 推荐
