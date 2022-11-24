@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221124T13:13:08Z | CVE-2022-38374 | Null | https://github.com/azhurtanov/CVE-2022-38374 | | 
 | 20221124T01:58:22Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221124T01:09:07Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
 | 20221124T00:41:23Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
