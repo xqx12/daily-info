@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221125T12:29:00Z | A Azure Exploitation Toolkit for Red Team & Pentesters | https://github.com/SikretaLabs/BlueMap | 21 | 0| 
 | 20221125T12:16:21Z | Null | https://github.com/NathanReturns/ExploiterBOT | 0 | 0| 
 | 20221125T12:15:57Z | Guía en Español del método del RNG Abuse y el Exploit de los tres días. | https://github.com/layxa/esprngabuse | 0 | 0| 
 | 20221125T12:08:00Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12366 | 2127| 
@@ -100,7 +101,6 @@
 | 20221125T09:58:15Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 168 | 42| 
 | 20221125T09:04:25Z | Scan/Exploit - EternalBlue MS17-010 - Windows 7 32/64 Bits | https://github.com/d4t4s3c/Win7Blue | 51 | 14| 
 | 20221125T08:52:54Z | Vulnerabilities in some blockchain projects and there exploits | https://github.com/caaat-eth/chain-exploit | 38 | 7| 
-| 20221125T08:47:38Z | CMS Detection and Exploit Kit based on Whatcms.org API | https://github.com/natthasath/cms-detect-exploit-whatcms | 0 | 0| 
 
 
 # backdoor on Github 推荐
