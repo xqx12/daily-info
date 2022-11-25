@@ -33,7 +33,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221124T11:05:04Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 166 | 50| 
-| 20221124T09:55:00Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 138 | 1| 
 | 20221124T09:27:10Z | Null | https://github.com/AnnaKopejkina/Kleee | 0 | 0| 
 | 20221124T05:59:13Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
 
@@ -89,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221124T22:31:29Z | Null | https://github.com/antoniperuzynski/FuzzyClassification | 0 | 0| 
+| 20221124T20:52:46Z | Null | https://github.com/clever0ne/fuzzy_systems_lab_6 | 0 | 0| 
+| 20221124T20:27:27Z | Null | https://github.com/paolorabbito/fuzzyWuzzy | 0 | 0| 
+| 20221124T20:17:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8070 | 1760| 
+| 20221124T14:30:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1148 | 151| 
 | 20221124T13:00:35Z | Null | https://github.com/NicolasDenis57/fuzzy-chainsaw | 0 | 0| 
 | 20221124T12:58:53Z | tools for CI fuzzing automation | https://github.com/gardatech/bugbane | 18 | 1| 
 | 20221124T12:51:15Z | Null | https://github.com/yasyaindra/fuzzy-fever-py | 0 | 0| 
 | 20221124T12:22:40Z | Null | https://github.com/ajay-ghale/fuzzy-spoon | 0 | 0| 
 | 20221124T11:55:29Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1541 | 260| 
-| 20221124T11:43:13Z | Null | https://github.com/Jirka-Jinda/fuzzy_rule_system | 0 | 0| 
-| 20221124T11:18:19Z | Null | https://github.com/lkspneionf/fuzzy-memory | 0 | 0| 
-| 20221124T10:59:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1147 | 151| 
-| 20221124T10:50:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8069 | 1759| 
-| 20221124T10:39:15Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 40 | 19| 
 
 
 
