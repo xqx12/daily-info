@@ -91,13 +91,13 @@
 | 20221124T22:31:29Z | Null | https://github.com/antoniperuzynski/FuzzyClassification | 0 | 0| 
 | 20221124T20:52:46Z | Null | https://github.com/clever0ne/fuzzy_systems_lab_6 | 0 | 0| 
 | 20221124T20:27:27Z | Null | https://github.com/paolorabbito/fuzzyWuzzy | 0 | 0| 
-| 20221124T20:17:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8070 | 1760| 
 | 20221124T16:35:04Z | Cipher bruteforcer for the eye glyphs in noita | https://github.com/Azertinv/cipher_fuzzer | 1 | 0| 
 | 20221124T14:30:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1148 | 151| 
 | 20221124T13:00:35Z | Null | https://github.com/NicolasDenis57/fuzzy-chainsaw | 0 | 0| 
 | 20221124T12:58:53Z | tools for CI fuzzing automation | https://github.com/gardatech/bugbane | 18 | 1| 
 | 20221124T12:51:15Z | Null | https://github.com/yasyaindra/fuzzy-fever-py | 0 | 0| 
 | 20221124T12:22:40Z | Null | https://github.com/ajay-ghale/fuzzy-spoon | 0 | 0| 
+| 20221124T11:55:29Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1541 | 260| 
 
 
 

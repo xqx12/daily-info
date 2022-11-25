@@ -150,11 +150,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221125T01:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8071 | 1760| 
 | 20221125T01:05:19Z | Null | https://github.com/Saohomhom/fuzzy-system | 0 | 0| 
 | 20221124T22:31:29Z | Null | https://github.com/antoniperuzynski/FuzzyClassification | 0 | 0| 
 | 20221124T20:52:46Z | Null | https://github.com/clever0ne/fuzzy_systems_lab_6 | 0 | 0| 
 | 20221124T20:27:27Z | Null | https://github.com/paolorabbito/fuzzyWuzzy | 0 | 0| 
-| 20221124T20:17:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8070 | 1760| 
 | 20221124T16:35:04Z | Cipher bruteforcer for the eye glyphs in noita | https://github.com/Azertinv/cipher_fuzzer | 1 | 0| 
 | 20221124T14:30:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1148 | 151| 
 | 20221124T13:00:35Z | Null | https://github.com/NicolasDenis57/fuzzy-chainsaw | 0 | 0| 
