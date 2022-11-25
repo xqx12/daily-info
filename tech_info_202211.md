@@ -106,7 +106,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221125T13:21:25Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 505 | 114| 
+| 20221125T13:51:01Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
+| 20221125T13:50:32Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 507 | 114| 
 | 20221125T11:20:12Z | Basic scripts and reverse shell programs | https://github.com/bara96/backdoors | 0 | 0| 
 | 20221125T07:49:47Z | A tool for hacking. | https://github.com/flux10n/IndoXploit-Shell | 6 | 1| 
 | 20221125T06:51:08Z | Reuploaded | https://github.com/De-eloper/SRC-NjRat-Ghost-Edition | 2 | 0| 
@@ -115,7 +116,6 @@
 | 20221124T12:48:46Z | Null | https://github.com/Lucas-Bispo/backdoor | 0 | 0| 
 | 20221124T10:31:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 92 | 12| 
 | 20221124T10:16:57Z | Null | https://github.com/aelsi2-edu/learn_backdoor | 0 | 0| 
-| 20221124T08:44:42Z | Null | https://github.com/Lesstisa/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
