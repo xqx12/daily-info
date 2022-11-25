@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221125T13:53:00Z | Null | https://github.com/natalysado/fuzzy-octo-palm-tree | 0 | 0| 
 | 20221125T12:56:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1156 | 151| 
 | 20221125T12:44:42Z | Null | https://github.com/cindyadamayanti/Fuzzy-Time-Series-Chen-dan-Cheng | 0 | 0| 
 | 20221125T12:10:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 675 | 85| 

@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221125T13:53:00Z | Null | https://github.com/natalysado/fuzzy-octo-palm-tree | 0 | 0| 
 | 20221125T12:56:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1156 | 151| 
 | 20221125T12:44:42Z | Null | https://github.com/cindyadamayanti/Fuzzy-Time-Series-Chen-dan-Cheng | 0 | 0| 
 | 20221125T12:10:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 675 | 85| 
@@ -160,7 +161,6 @@
 | 20221125T07:38:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8072 | 1760| 
 | 20221125T06:24:57Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 108 | 8| 
 | 20221125T01:05:19Z | Null | https://github.com/Saohomhom/fuzzy-system | 0 | 0| 
-| 20221124T22:31:29Z | Null | https://github.com/antoniperuzynski/FuzzyClassification | 0 | 0| 
 
 
 
