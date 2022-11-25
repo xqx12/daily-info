@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221125 | 图视角下的信息抽取技术研究 | https://mp.weixin.qq.com/s/EnsnauMumycUFo_iSWoyXQ| 
 | 20221124 | BAS那点事儿 | https://xz.aliyun.com/t/11880| 
 | 20221124 | Android组件安全之drozer实战 | https://mp.weixin.qq.com/s/96f6wVomEjC9_kyzsoylQg| 
 | 20221122 | 侦查取证中系统镜像的还原与分析 | https://mp.weixin.qq.com/s/Bl7Y8Ca_a7oZez8ryWQ3FQ| 
@@ -40,29 +41,28 @@
 | 20221121 | 以朝鲜黑客为例看如何利用 VirusTotal 进行样本拓线 | https://mp.weixin.qq.com/s/0vyOdtWJh2PgtU3Fm2Bz9w| 
 | 20221120 | 漏洞赏金猎人系列-测试电商类相关功能步骤和Tips-I | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486923&idx=1&sn=32a915045229c85f21da381f5eeb072f&chksm=e8a607a8dfd18ebe9b5248b1310003ce294c239224db8364a999caaa8ad7a898ea597d229e12&token=1618310243&lang=zh_CN#rd| 
 | 20221119 | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg| 
-| 20221119 | 2022信息安全四大顶会Fuzz论文汇总 | https://mp.weixin.qq.com/s/fXopKsFW4mwkUK29AwsnSA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221125T11:41:09Z | CVE-2022-38374 | Null | https://github.com/azhurtanov/CVE-2022-38374 | | 
+| 20221125T09:05:43Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
+| 20221125T04:02:09Z | CVE-2021-40303 | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | https://github.com/zecopro/CVE-2021-40303 | | 
+| 20221125T04:02:05Z | CVE-2022-3602 | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | | 
+| 20221125T04:02:02Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
+| 20221125T04:01:56Z | CVE-2022-39197 | CVE-2022-39197 | https://github.com/adeljck/CVE-2022-39197 | | 
+| 20221125T04:01:51Z | CVE-2022-2650 | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | https://github.com/HackinKraken/CVE-2022-2650 | | 
 | 20221125T01:28:57Z | 未知编号 | Confluence | https://github.com/Jhonsonwannaa/CVE_20222_26134 | | 
 | 20221124T23:34:12Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
-| 20221124T21:01:49Z | CVE-2022-2650 | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | https://github.com/HackinKraken/CVE-2022-2650 | | 
-| 20221124T20:00:16Z | CVE-2021-40303 | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | https://github.com/zecopro/CVE-2021-40303 | | 
-| 20221124T17:26:32Z | CVE-2022-39197 | CVE-2022-39197 | https://github.com/adeljck/CVE-2022-39197 | | 
 | 20221124T16:24:15Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
-| 20221124T13:16:01Z | CVE-2022-38374 | Null | https://github.com/azhurtanov/CVE-2022-38374 | | 
-| 20221124T01:58:22Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
-| 20221124T01:09:07Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
-| 20221124T00:41:23Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221125T02:53:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9397 | 319| 
-| 20221125T02:49:26Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 139 | 1| 
+| 20221125T12:14:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9413 | 320| 
+| 20221125T03:36:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 140 | 1| 
 | 20221124T11:05:04Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 166 | 50| 
 | 20221124T09:27:10Z | Null | https://github.com/AnnaKopejkina/Kleee | 0 | 0| 
 | 20221124T05:59:13Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221125T07:18:48Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 6 | 3| 
 | 20221124T12:21:32Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 83 | 45| 
 | 20221123T16:17:12Z | Repository del progetto di test automatici per i partner mancanti, aggiornato alla versione uiPath-non legacy.  | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_PM_2.0 | 0 | 0| 
 | 20221123T15:48:11Z |  Repository del progetto di test automatici per il partner BPB, aggiornato alla versione uiPath-non legacy. | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB_2.0 | 0 | 0| 
@@ -90,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221125T02:32:34Z | Exploit in ROBLOX the chad way! | https://github.com/CLIsploit/CLIsploit | 0 | 0| 
-| 20221125T02:27:31Z | Proof of concept exploits reproducing the largest smart contract exploits | https://github.com/VarunVerma7/Defi-Hacks-Recreated | 1 | 0| 
-| 20221124T23:44:17Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/UserDevo/Fortnite-Lama-Exploit | 1 | 0| 
-| 20221124T23:35:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3781 | 463| 
-| 20221124T23:29:07Z | Fortnite Exploits | https://github.com/JustCheatsOn/Fortnite-Shoot-Through-Walls-Exploit | 1 | 0| 
-| 20221124T22:24:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3v | 1 | 0| 
-| 20221124T22:23:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3v | 1 | 0| 
-| 20221124T22:22:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3v | 1 | 0| 
-| 20221124T22:08:45Z | Null | https://github.com/UtkarshV09/Log4j-Exploit | 0 | 0| 
-| 20221124T20:20:55Z | A public archive with multiple exploits or programs. | https://github.com/NotDarkn/Archives | 3 | 0| 
+| 20221125T12:16:21Z | Null | https://github.com/NathanReturns/ExploiterBOT | 0 | 0| 
+| 20221125T12:15:57Z | Guía en Español del método del RNG Abuse y el Exploit de los tres días. | https://github.com/layxa/esprngabuse | 0 | 0| 
+| 20221125T12:08:00Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12366 | 2127| 
+| 20221125T11:37:56Z | A little Python-Code that erans money for ya | https://github.com/FuckingToasterz/MoneyMakingExploit | 0 | 0| 
+| 20221125T11:11:29Z | %On balanced exploitation of marine ecosystems% ]] | https://github.com/annicebowen/singlespeciesmodel1.0 | 0 | 1| 
+| 20221125T10:29:11Z | Header Exploitation HTTP | https://github.com/c0dejump/HExHTTP | 0 | 0| 
+| 20221125T09:58:15Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 168 | 42| 
+| 20221125T09:04:25Z | Scan/Exploit - EternalBlue MS17-010 - Windows 7 32/64 Bits | https://github.com/d4t4s3c/Win7Blue | 51 | 14| 
+| 20221125T08:52:54Z | Vulnerabilities in some blockchain projects and there exploits | https://github.com/caaat-eth/chain-exploit | 38 | 7| 
+| 20221125T08:47:38Z | CMS Detection and Exploit Kit based on Whatcms.org API | https://github.com/natthasath/cms-detect-exploit-whatcms | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -150,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221125T01:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8071 | 1760| 
+| 20221125T12:56:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1156 | 151| 
+| 20221125T12:44:42Z | Null | https://github.com/cindyadamayanti/Fuzzy-Time-Series-Chen-dan-Cheng | 0 | 0| 
+| 20221125T12:10:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 675 | 85| 
+| 20221125T11:55:22Z | Null | https://github.com/AcharyaProject/Fuzzy-CNN-on-IoT-Environment- | 0 | 0| 
+| 20221125T11:49:31Z | Null | https://github.com/300334mm/fuzzy-chainsaw | 0 | 0| 
+| 20221125T10:38:19Z | Null | https://github.com/ELSENI1/fuzzy-computing-machine | 0 | 0| 
+| 20221125T07:38:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8072 | 1760| 
+| 20221125T06:24:57Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 108 | 8| 
 | 20221125T01:05:19Z | Null | https://github.com/Saohomhom/fuzzy-system | 0 | 0| 
 | 20221124T22:31:29Z | Null | https://github.com/antoniperuzynski/FuzzyClassification | 0 | 0| 
-| 20221124T20:52:46Z | Null | https://github.com/clever0ne/fuzzy_systems_lab_6 | 0 | 0| 
-| 20221124T20:27:27Z | Null | https://github.com/paolorabbito/fuzzyWuzzy | 0 | 0| 
-| 20221124T16:35:04Z | Cipher bruteforcer for the eye glyphs in noita | https://github.com/Azertinv/cipher_fuzzer | 1 | 0| 
-| 20221124T14:30:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1148 | 151| 
-| 20221124T13:00:35Z | Null | https://github.com/NicolasDenis57/fuzzy-chainsaw | 0 | 0| 
-| 20221124T12:58:53Z | tools for CI fuzzing automation | https://github.com/gardatech/bugbane | 18 | 1| 
-| 20221124T12:51:15Z | Null | https://github.com/yasyaindra/fuzzy-fever-py | 0 | 0| 
 
 
 
