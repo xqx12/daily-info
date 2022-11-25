@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221125T01:28:09Z | 未知编号 | Confluence | https://github.com/Jhonsonwannaa/CVE_20222_26134 | | 
+| 20221125T01:28:57Z | 未知编号 | Confluence | https://github.com/Jhonsonwannaa/CVE_20222_26134 | | 
 | 20221124T23:34:12Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
 | 20221124T21:01:49Z | CVE-2022-2650 | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | https://github.com/HackinKraken/CVE-2022-2650 | | 
 | 20221124T20:00:16Z | CVE-2021-40303 | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | https://github.com/zecopro/CVE-2021-40303 | | 
