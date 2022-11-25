@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221124T23:34:12Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
+| 20221124T21:01:49Z | CVE-2022-2650 | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | https://github.com/HackinKraken/CVE-2022-2650 | | 
+| 20221124T20:00:16Z | CVE-2021-40303 | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | https://github.com/zecopro/CVE-2021-40303 | | 
+| 20221124T17:26:32Z | CVE-2022-39197 | CVE-2022-39197 | https://github.com/adeljck/CVE-2022-39197 | | 
+| 20221124T16:24:15Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
 | 20221124T13:16:01Z | CVE-2022-38374 | Null | https://github.com/azhurtanov/CVE-2022-38374 | | 
 | 20221124T01:58:22Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221124T01:09:07Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
 | 20221124T00:41:23Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
 | 20221123T21:21:49Z | 未知编号 | Null | https://github.com/M889SEC/CVE-2022 | | 
-| 20221123T20:24:51Z | CVE-2022-41923 | Null | https://github.com/grails/GSSC-CVE-2022-41923 | | 
-| 20221123T16:32:14Z | CVE-2022-32060 | An arbitrary file upload vulnerability in the Update Branding Settings component of Snipe-IT v6.0.2 allows attackers to execute arbitrary code via a crafted file. | https://github.com/bypazs/CVE-2022-32060 | | 
-| 20221123T01:56:36Z | 未知编号 | Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a | https://github.com/RCSVVVVVOLk/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20221122T22:21:49Z | CVE-2022-45472 | DOM Based XSS | https://github.com/nicbrinkley/CVE-2022-45472 | | 
-| 20221122T16:07:46Z | Cve-2022- | If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi | https://github.com/RCSVVVVVOLk/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221124T23:59:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9392 | 319| 
 | 20221124T11:05:04Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 166 | 50| 
 | 20221124T09:55:00Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 138 | 1| 
-| 20221124T09:48:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9381 | 319| 
 | 20221124T09:27:10Z | Null | https://github.com/AnnaKopejkina/Kleee | 0 | 0| 
 | 20221124T05:59:13Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
 | 20221123T23:00:27Z | हार्ड ड्राइव क्लीनर - चयनित हार्ड ड्राइव पर स्थान साफ़ करने के लिए PowerShell स्क्रिप्ट। | https://github.com/powershelleng/hi-haard-draiv-kleenar | 0 | 0| 
@@ -90,22 +90,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221124T13:26:41Z | exploit of notepad++% update mechanism | https://github.com/Bora-Horza-Gobuchul/notepadExploit | 0 | 0| 
-| 20221124T12:38:13Z | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | 0 | 0| 
-| 20221124T11:59:28Z | An guide to vanilla buffer overflow exploitation with the help of brainpan-vm. | https://github.com/PrayanshParmar/Vanilla_Bufferoverflow_Exploitation | 1 | 0| 
-| 20221124T11:21:27Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12359 | 2127| 
-| 20221124T10:50:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4736 | 694| 
-| 20221124T10:14:14Z | Me Learning a lua | https://github.com/AdamxzV3/RobloxExploitingLearning | 0 | 0| 
-| 20221124T09:48:50Z | Exploiting Efail vulnerability in e.g. in Thunderbird | https://github.com/jaads/Efail-malleability-gadget-exploit | 4 | 0| 
-| 20221124T09:27:18Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 110 | 11| 
-| 20221124T08:59:01Z | An example of a FUSE filesystem that can be used in kernel exploitation as a replacement for userfaultfd technique | https://github.com/LukeGix/FUSEFs_exploitation | 0 | 0| 
-| 20221124T02:10:17Z | Tutorial de como tornar um scan de rede em uma ferramenta de recon / exploit | https://github.com/NORD-Function/AngryExploit | 0 | 0| 
+| 20221125T00:05:07Z | Proof of concept exploits reproducing the largest smart contract exploits | https://github.com/VarunVerma7/Defi-Hacks-Recreated | 0 | 0| 
+| 20221124T23:44:17Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/UserDevo/Fortnite-Lama-Exploit | 1 | 0| 
+| 20221124T23:35:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3781 | 463| 
+| 20221124T23:29:07Z | Fortnite Exploits | https://github.com/JustCheatsOn/Fortnite-Shoot-Through-Walls-Exploit | 1 | 0| 
+| 20221124T22:24:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3v | 1 | 0| 
+| 20221124T22:23:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3v | 1 | 0| 
+| 20221124T22:22:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3v | 1 | 0| 
+| 20221124T22:08:45Z | Null | https://github.com/UtkarshV09/Log4j-Exploit | 0 | 0| 
+| 20221124T21:45:34Z | Exploit in ROBLOX the chad way! | https://github.com/CLIsploit/CLIsploit | 0 | 0| 
+| 20221124T20:20:55Z | A public archive with multiple exploits or programs. | https://github.com/NotDarkn/Archives | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221124T13:26:24Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 405 | 99| 
+| 20221125T00:27:00Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 448 | 106| 
+| 20221124T14:54:32Z | Null | https://github.com/Minster23/BACKDOOR-TEST | 0 | 0| 
+| 20221124T14:30:58Z | Reuploaded | https://github.com/De-eloper/SRC-NjRat-Ghost-Edition | 1 | 0| 
 | 20221124T12:48:46Z | Null | https://github.com/Lucas-Bispo/backdoor | 0 | 0| 
 | 20221124T10:31:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 92 | 12| 
 | 20221124T10:16:57Z | Null | https://github.com/aelsi2-edu/learn_backdoor | 0 | 0| 
@@ -113,8 +115,6 @@
 | 20221124T08:01:35Z | A Minimalist Backdoor Written In Python (Under Development) | https://github.com/0xN1nja/darkness-python | 0 | 0| 
 | 20221124T04:08:53Z | B4CKD00R | https://github.com/MLJG7/backdoors | 0 | 0| 
 | 20221124T04:06:02Z | SERVIDOR CONECTA EL BACKDOOR | https://github.com/MLJG7/TCP_4444 | 0 | 0| 
-| 20221124T02:05:50Z | Source code of NjRat Ghost Edition | https://github.com/De-eloper/SRC-NjRat-Ghost-Edition | 4 | 0| 
-| 20221124T00:31:16Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7332 | 1756| 
 
 
 # symbolic execution on Github 推荐
