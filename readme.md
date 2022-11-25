@@ -53,9 +53,9 @@
 | 20221124T22:23:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3v | 1 | 0| 
 | 20221124T22:22:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3v | 1 | 0| 
 | 20221124T22:08:45Z | Null | https://github.com/UtkarshV09/Log4j-Exploit | 0 | 0| 
-| 20221124T21:45:34Z | Exploit in ROBLOX the chad way! | https://github.com/CLIsploit/CLIsploit | 0 | 0| 
 | 20221124T20:20:55Z | A public archive with multiple exploits or programs. | https://github.com/NotDarkn/Archives | 3 | 0| 
 | 20221124T13:26:41Z | exploit of notepad++% update mechanism | https://github.com/Bora-Horza-Gobuchul/notepadExploit | 0 | 0| 
+| 20221124T12:38:13Z | Technical Blog / Notes to document my various exploits | https://github.com/ChristopherLiew/chris-liew-technical-blog | 0 | 0| 
 
 
 # backdoor on Github 推荐

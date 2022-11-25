@@ -90,7 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221125T00:05:07Z | Proof of concept exploits reproducing the largest smart contract exploits | https://github.com/VarunVerma7/Defi-Hacks-Recreated | 0 | 0| 
+| 20221125T02:32:34Z | Exploit in ROBLOX the chad way! | https://github.com/CLIsploit/CLIsploit | 0 | 0| 
+| 20221125T02:27:31Z | Proof of concept exploits reproducing the largest smart contract exploits | https://github.com/VarunVerma7/Defi-Hacks-Recreated | 1 | 0| 
 | 20221124T23:44:17Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/UserDevo/Fortnite-Lama-Exploit | 1 | 0| 
 | 20221124T23:35:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3781 | 463| 
 | 20221124T23:29:07Z | Fortnite Exploits | https://github.com/JustCheatsOn/Fortnite-Shoot-Through-Walls-Exploit | 1 | 0| 
@@ -98,7 +99,6 @@
 | 20221124T22:23:18Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3v | 1 | 0| 
 | 20221124T22:22:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3v | 1 | 0| 
 | 20221124T22:08:45Z | Null | https://github.com/UtkarshV09/Log4j-Exploit | 0 | 0| 
-| 20221124T21:45:34Z | Exploit in ROBLOX the chad way! | https://github.com/CLIsploit/CLIsploit | 0 | 0| 
 | 20221124T20:20:55Z | A public archive with multiple exploits or programs. | https://github.com/NotDarkn/Archives | 3 | 0| 
 
 
