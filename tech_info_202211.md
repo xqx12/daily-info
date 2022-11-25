@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221125T01:28:09Z | 未知编号 | Confluence | https://github.com/Jhonsonwannaa/CVE_20222_26134 | | 
 | 20221124T23:34:12Z | CVE-2022-24637 | Unauthenticated RCE in Open Web Analytics (OWA) <1.7.4 | https://github.com/JacobEbben/CVE-2022-24637 | | 
 | 20221124T21:01:49Z | CVE-2022-2650 | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | https://github.com/HackinKraken/CVE-2022-2650 | | 
 | 20221124T20:00:16Z | CVE-2021-40303 | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | https://github.com/zecopro/CVE-2021-40303 | | 
@@ -55,7 +56,6 @@
 | 20221124T01:58:22Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221124T01:09:07Z | CVE-2022-33679 | Null | https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679 | | 
 | 20221124T00:41:23Z | CVE-2022-44789 | Null | https://github.com/alalng/CVE-2022-44789 | | 
-| 20221123T21:21:49Z | 未知编号 | Null | https://github.com/M889SEC/CVE-2022 | | 
 
 
 # klee on Github 推荐
