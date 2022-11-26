@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221126 | CVE-2022-42920 BCEL 任意文件写漏洞 | https://xz.aliyun.com/t/11866| 
+| 20221126 | 美国开源软件安全评价方法体系分析 | https://mp.weixin.qq.com/s/q_R76IME0FnX0fwgS7R8Bw| 
 | 20221125 | 图视角下的信息抽取技术研究 | https://mp.weixin.qq.com/s/EnsnauMumycUFo_iSWoyXQ| 
 | 20221124 | BAS那点事儿 | https://xz.aliyun.com/t/11880| 
 | 20221124 | Android组件安全之drozer实战 | https://mp.weixin.qq.com/s/96f6wVomEjC9_kyzsoylQg| 
@@ -39,30 +41,28 @@
 | 20221121 | CodeQL的自动化代码审计之路（中篇） | https://mp.weixin.qq.com/s/5UmBkqCsBt64WY2JllIVSw| 
 | 20221121 | SecWiki周刊（第455期) | https://www.sec-wiki.com/weekly/455| 
 | 20221121 | 以朝鲜黑客为例看如何利用 VirusTotal 进行样本拓线 | https://mp.weixin.qq.com/s/0vyOdtWJh2PgtU3Fm2Bz9w| 
-| 20221120 | 漏洞赏金猎人系列-测试电商类相关功能步骤和Tips-I | https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247486923&idx=1&sn=32a915045229c85f21da381f5eeb072f&chksm=e8a607a8dfd18ebe9b5248b1310003ce294c239224db8364a999caaa8ad7a898ea597d229e12&token=1618310243&lang=zh_CN#rd| 
-| 20221119 | 美国态势感知之CHARIOT物联网加密项目 | https://mp.weixin.qq.com/s/wtiZOHMDFOwP6fVokPBNLg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221125T18:48:52Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Adynervi/CVE-2022-3236-MASS-RCE | | 
+| 20221126T11:07:56Z | CVE-2021-43258 | ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit | https://github.com/MRvirusIR/CVE-2021-43258 | | 
+| 20221126T10:43:24Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Adynervi/CVE-2022-3236-MASS-RCE | | 
+| 20221126T08:46:04Z | CVE-2021-43657 | This is a reference/POC for CVE-2021-43657 | https://github.com/c0n5n3d/CVE-2021-43657 | | 
+| 20221126T07:35:42Z | CVE-2022-38374 | Null | https://github.com/azhurtanov/CVE-2022-38374 | | 
 | 20221125T15:41:53Z | CVE-2022-22963 | Null | https://github.com/dr6817/CVE-2022-22963 | | 
-| 20221125T14:56:30Z | CVE-2022-38374 | Null | https://github.com/azhurtanov/CVE-2022-38374 | | 
 | 20221125T09:05:43Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 | 20221125T04:02:09Z | CVE-2021-40303 | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | https://github.com/zecopro/CVE-2021-40303 | | 
 | 20221125T04:02:05Z | CVE-2022-3602 | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | | 
 | 20221125T04:02:02Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221125T04:01:56Z | CVE-2022-39197 | CVE-2022-39197 | https://github.com/adeljck/CVE-2022-39197 | | 
-| 20221125T04:01:51Z | CVE-2022-2650 | Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application | https://github.com/HackinKraken/CVE-2022-2650 | | 
-| 20221125T01:28:57Z | 未知编号 | Confluence | https://github.com/Jhonsonwannaa/CVE_20222_26134 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221126T02:50:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 143 | 1| 
-| 20221126T02:25:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9419 | 320| 
+| 20221126T12:35:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9428 | 321| 
+| 20221126T08:29:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 144 | 1| 
 | 20221126T01:02:36Z | Null | https://github.com/ElRegioMau/KeepKleenAndroid | 0 | 0| 
 | 20221125T21:39:24Z | Null | https://github.com/actions-marketplace-validations/Minoro-Ltd_kleene_ai.doctor | 0 | 0| 
 | 20221124T11:05:04Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 166 | 50| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221126T12:30:45Z | aaaaaa | https://github.com/swolls/---Script-generated-by-SimpleSpy---fixed-version-for-exploits-other-than-synapse-krnl-made-by-stum | 0 | 0| 
+| 20221126T12:23:11Z | the homepage of exploitation | https://github.com/Exploit0xfffff/Exploit0xfffff | 0 | 0| 
+| 20221126T12:21:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 552 | 144| 
+| 20221126T11:39:18Z | Null | https://github.com/yuzhibo666/exploit | 0 | 0| 
+| 20221126T11:07:56Z | ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit | https://github.com/MRvirusIR/CVE-2021-43258 | 0 | 0| 
+| 20221126T08:30:24Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 111 | 11| 
 | 20221126T02:26:03Z | Sauvegarde du TME3 de système d%exploitation, gestion des pipes en C et entrée/sorties fichiers. | https://github.com/Rockinfox91/sys-exploit-tme | 0 | 0| 
 | 20221126T00:27:36Z | The best python3 minecraft grabber in the world | https://github.com/matxd291/MineExploit | 2 | 0| 
 | 20221126T00:19:43Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 51 | 3| 
 | 20221125T23:48:47Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4v | 1 | 0| 
-| 20221125T23:46:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-4v | 1 | 0| 
-| 20221125T23:45:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4v | 1 | 0| 
-| 20221125T23:34:08Z | In this repository I try to complete the exam %Programming 2% of the university, exploiting the potential of python. The purpose of this repo is for fun and practice only | https://github.com/EhyMaik97/UniverstityExamsExercise | 0 | 0| 
-| 20221125T23:28:17Z | A place where I write walk-throughs for hacks or exploits I%ve done | https://github.com/DoubtfulFox/Hacking-Walkthroughs | 0 | 0| 
-| 20221125T15:53:50Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5075 | 705| 
-| 20221125T12:29:00Z | A Azure Exploitation Toolkit for Red Team & Pentesters | https://github.com/SikretaLabs/BlueMap | 21 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221126T02:55:09Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 533 | 120| 
-| 20221126T02:46:56Z | This is the chrome extension %Searchblox% without the backdoor code. | https://github.com/RangerTanger/Searchblox-Clean | 0 | 0| 
+| 20221126T11:57:00Z | python3 backdoor protected with username and password | https://github.com/NullBrunk/python-backdoor | 0 | 0| 
+| 20221126T09:58:10Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 539 | 123| 
+| 20221126T04:42:35Z | This is the chrome extension %Searchblox% without the backdoor code. | https://github.com/RangerTanger/Searchblox-Clean | 0 | 0| 
+| 20221126T03:57:02Z | LIst Shell Backdoor All Bypass | https://github.com/ItsMeAlf404/Backdoor | 0 | 0| 
 | 20221126T02:18:39Z | Null | https://github.com/c0ntempt/51mp3L-Web-Backdoor | 0 | 0| 
 | 20221125T21:59:25Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 80 | 22| 
 | 20221125T21:57:06Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
-| 20221125T21:35:50Z | Null | https://github.com/NullBrunk/python-backdoor | 0 | 0| 
 | 20221125T19:44:02Z | backdoor em python | https://github.com/TsuomiLOL/backdoor | 0 | 0| 
 | 20221125T15:49:14Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/coreos/vmw_backdoor-rs | 5 | 1| 
 | 20221125T14:04:27Z | Basic python scripts and reverse shell programs | https://github.com/bara96/backdoors | 0 | 0| 
-| 20221125T13:51:01Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221126T13:00:31Z | A fuzzer for SMT solvers | https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz | 2 | 0| 
+| 20221126T10:58:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 856 | 183| 
+| 20221126T10:58:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4450 | 1079| 
+| 20221126T10:43:52Z | Null | https://github.com/h3033771547/fuzzy-octo-disco | 0 | 0| 
+| 20221126T10:21:50Z | test | https://github.com/susahcebok/fuzzy-robot | 0 | 0| 
+| 20221126T09:11:22Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 119 | 19| 
+| 20221126T07:28:59Z | Null | https://github.com/heydan98/Fuzzy | 0 | 0| 
+| 20221126T07:24:07Z | Null | https://github.com/zhouhoulin30/FuzzingPaperReadingNote | 0 | 0| 
+| 20221126T06:38:49Z | Null | https://github.com/mimicria/fuzzdicts | 2 | 0| 
 | 20221126T02:22:33Z | scripts to aid fuzzing url parameters at scale | https://github.com/chakal1337/url-param-fuzz | 0 | 0| 
-| 20221125T22:58:38Z | Docker registry UI made with love  | https://github.com/Tchoupinax/fuzzy-engine | 9 | 0| 
-| 20221125T22:01:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8073 | 1761| 
-| 20221125T21:26:32Z | Chapter 1 code_Project_17 The Third part 3 of %The Arduino World Book% code_Project_17 Fuzzy Logic (Mamdani) with Arduino Project | https://github.com/FarkadAdnan/Project-17-Fuzzy-Logic-Mamdani-with-Arduino-Project | 1 | 0| 
-| 20221125T16:57:44Z | test | https://github.com/susahcebok/fuzzy-robot | 0 | 0| 
-| 20221125T14:27:15Z | Cipher bruteforcer for the eye glyphs in noita | https://github.com/Azertinv/cipher_fuzzer | 2 | 0| 
-| 20221125T13:53:00Z | Null | https://github.com/natalysado/fuzzy-octo-palm-tree | 0 | 0| 
-| 20221125T12:56:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1156 | 151| 
-| 20221125T12:44:42Z | Null | https://github.com/cindyadamayanti/Fuzzy-Time-Series-Chen-dan-Cheng | 0 | 0| 
-| 20221125T12:10:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 675 | 85| 
 
 
 
