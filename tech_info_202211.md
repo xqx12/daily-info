@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221126T13:44:01Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 58 | 25| 
 | 20221126T13:30:22Z | A fuzzer for SMT solvers | https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz | 2 | 0| 
 | 20221126T10:58:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 856 | 183| 
 | 20221126T10:58:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4450 | 1079| 
@@ -160,7 +161,6 @@
 | 20221126T07:28:59Z | Null | https://github.com/heydan98/Fuzzy | 0 | 0| 
 | 20221126T07:24:07Z | Null | https://github.com/zhouhoulin30/FuzzingPaperReadingNote | 0 | 0| 
 | 20221126T06:38:49Z | Null | https://github.com/mimicria/fuzzdicts | 2 | 0| 
-| 20221126T02:22:33Z | scripts to aid fuzzing url parameters at scale | https://github.com/chakal1337/url-param-fuzz | 0 | 0| 
 
 
 
