@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221125 | 浅谈JspWebshell之编码 | https://tttang.com/archive/1840/| 
 
 
 # 安全维基 推荐
@@ -17,7 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221125T11:41:09Z | CVE-2022-38374 | Null | https://github.com/azhurtanov/CVE-2022-38374 | | 
+| 20221125T18:48:52Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Adynervi/CVE-2022-3236-MASS-RCE | | 
+| 20221125T15:41:53Z | CVE-2022-22963 | Null | https://github.com/dr6817/CVE-2022-22963 | | 
+| 20221125T14:56:30Z | CVE-2022-38374 | Null | https://github.com/azhurtanov/CVE-2022-38374 | | 
 | 20221125T09:05:43Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
 | 20221125T04:02:09Z | CVE-2021-40303 | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | https://github.com/zecopro/CVE-2021-40303 | | 
 | 20221125T04:02:05Z | CVE-2022-3602 | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | | 
@@ -30,7 +33,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221125T13:42:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9414 | 320| 
+| 20221125T21:39:24Z | Null | https://github.com/actions-marketplace-validations/Minoro-Ltd_kleene_ai.doctor | 0 | 0| 
+| 20221125T17:41:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9417 | 320| 
 | 20221125T03:36:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 140 | 1| 
 
 
@@ -43,24 +47,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221125T23:48:47Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4v | 1 | 0| 
+| 20221125T23:46:23Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-4v | 1 | 0| 
+| 20221125T23:45:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4v | 1 | 0| 
+| 20221125T23:34:08Z | In this repository I try to complete the exam %Programming 2% of the university, exploiting the potential of python. The purpose of this repo is for fun and practice only | https://github.com/EhyMaik97/UniverstityExamsExercise | 0 | 0| 
+| 20221125T23:28:17Z | A place where I write walk-throughs for hacks or exploits I%ve done | https://github.com/DoubtfulFox/Hacking-Walkthroughs | 0 | 0| 
 | 20221125T12:29:00Z | A Azure Exploitation Toolkit for Red Team & Pentesters | https://github.com/SikretaLabs/BlueMap | 21 | 0| 
 | 20221125T12:16:21Z | Null | https://github.com/NathanReturns/ExploiterBOT | 0 | 0| 
 | 20221125T12:15:57Z | Guía en Español del método del RNG Abuse y el Exploit de los tres días. | https://github.com/layxa/esprngabuse | 0 | 0| 
 | 20221125T12:08:00Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12366 | 2127| 
 | 20221125T11:37:56Z | A little Python-Code that erans money for ya | https://github.com/FuckingToasterz/MoneyMakingExploit | 0 | 0| 
-| 20221125T11:11:29Z | %On balanced exploitation of marine ecosystems% ]] | https://github.com/annicebowen/singlespeciesmodel1.0 | 0 | 1| 
-| 20221125T10:29:11Z | Header Exploitation HTTP | https://github.com/c0dejump/HExHTTP | 0 | 0| 
-| 20221125T09:58:15Z | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | 168 | 42| 
-| 20221125T09:04:25Z | Scan/Exploit - EternalBlue MS17-010 - Windows 7 32/64 Bits | https://github.com/d4t4s3c/Win7Blue | 51 | 14| 
-| 20221125T08:52:54Z | Vulnerabilities in some blockchain projects and there exploits | https://github.com/caaat-eth/chain-exploit | 38 | 7| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221125T21:57:06Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
+| 20221125T21:35:50Z | Null | https://github.com/NullBrunk/python-backdoor | 0 | 0| 
+| 20221125T19:44:02Z | backdoor em python | https://github.com/TsuomiLOL/backdoor | 0 | 0| 
+| 20221125T15:49:14Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/coreos/vmw_backdoor-rs | 5 | 1| 
+| 20221125T14:04:27Z | Basic python scripts and reverse shell programs | https://github.com/bara96/backdoors | 0 | 0| 
 | 20221125T13:51:01Z | a durable FL backdoor | https://github.com/mmwan101010/Durable-Federated-Learning-Backdoor | 6 | 0| 
-| 20221125T13:50:32Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 507 | 114| 
-| 20221125T11:20:12Z | Basic scripts and reverse shell programs | https://github.com/bara96/backdoors | 0 | 0| 
 | 20221125T07:49:47Z | A tool for hacking. | https://github.com/flux10n/IndoXploit-Shell | 6 | 1| 
 | 20221125T06:51:08Z | Reuploaded | https://github.com/De-eloper/SRC-NjRat-Ghost-Edition | 2 | 0| 
 | 20221125T05:10:59Z | Bypass Shell Backdoor | https://github.com/ShellCleaned/Bypass_Webshell | 0 | 0| 
@@ -80,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221125T22:58:38Z | Docker registry UI made with love  | https://github.com/Tchoupinax/fuzzy-engine | 9 | 0| 
+| 20221125T22:01:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8073 | 1761| 
+| 20221125T21:26:32Z | Chapter 1 code_Project_17 The Third part 3 of %The Arduino World Book% code_Project_17 Fuzzy Logic (Mamdani) with Arduino Project | https://github.com/FarkadAdnan/Project-17-Fuzzy-Logic-Mamdani-with-Arduino-Project | 1 | 0| 
+| 20221125T16:57:44Z | test | https://github.com/susahcebok/fuzzy-robot | 0 | 0| 
+| 20221125T14:27:15Z | Cipher bruteforcer for the eye glyphs in noita | https://github.com/Azertinv/cipher_fuzzer | 2 | 0| 
 | 20221125T13:53:00Z | Null | https://github.com/natalysado/fuzzy-octo-palm-tree | 0 | 0| 
 | 20221125T12:56:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1156 | 151| 
 | 20221125T12:44:42Z | Null | https://github.com/cindyadamayanti/Fuzzy-Time-Series-Chen-dan-Cheng | 0 | 0| 
 | 20221125T12:10:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 675 | 85| 
 | 20221125T11:55:22Z | Null | https://github.com/AcharyaProject/Fuzzy-CNN-on-IoT-Environment- | 0 | 0| 
-| 20221125T11:49:31Z | Null | https://github.com/300334mm/fuzzy-chainsaw | 0 | 0| 
-| 20221125T10:38:19Z | Null | https://github.com/ELSENI1/fuzzy-computing-machine | 0 | 0| 
-| 20221125T07:38:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8072 | 1760| 
-| 20221125T06:24:57Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 108 | 8| 
-| 20221125T01:05:19Z | Null | https://github.com/Saohomhom/fuzzy-system | 0 | 0| 
 
 
 
