@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221126T02:22:33Z | scripts to aid fuzzing url parameters at scale | https://github.com/chakal1337/url-param-fuzz | 0 | 0| 
 | 20221125T22:58:38Z | Docker registry UI made with love  | https://github.com/Tchoupinax/fuzzy-engine | 9 | 0| 
 | 20221125T22:01:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8073 | 1761| 
 | 20221125T21:26:32Z | Chapter 1 code_Project_17 The Third part 3 of %The Arduino World Book% code_Project_17 Fuzzy Logic (Mamdani) with Arduino Project | https://github.com/FarkadAdnan/Project-17-Fuzzy-Logic-Mamdani-with-Arduino-Project | 1 | 0| 
@@ -160,7 +161,6 @@
 | 20221125T12:56:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1156 | 151| 
 | 20221125T12:44:42Z | Null | https://github.com/cindyadamayanti/Fuzzy-Time-Series-Chen-dan-Cheng | 0 | 0| 
 | 20221125T12:10:31Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 675 | 85| 
-| 20221125T11:55:22Z | Null | https://github.com/AcharyaProject/Fuzzy-CNN-on-IoT-Environment- | 0 | 0| 
 
 
 
