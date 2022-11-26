@@ -50,11 +50,11 @@
 | 20221125T23:45:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-4v | 1 | 0| 
 | 20221125T23:34:08Z | In this repository I try to complete the exam %Programming 2% of the university, exploiting the potential of python. The purpose of this repo is for fun and practice only | https://github.com/EhyMaik97/UniverstityExamsExercise | 0 | 0| 
 | 20221125T23:28:17Z | A place where I write walk-throughs for hacks or exploits I%ve done | https://github.com/DoubtfulFox/Hacking-Walkthroughs | 0 | 0| 
+| 20221125T15:53:50Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5075 | 705| 
 | 20221125T12:29:00Z | A Azure Exploitation Toolkit for Red Team & Pentesters | https://github.com/SikretaLabs/BlueMap | 21 | 0| 
 | 20221125T12:16:21Z | Null | https://github.com/NathanReturns/ExploiterBOT | 0 | 0| 
 | 20221125T12:15:57Z | Guía en Español del método del RNG Abuse y el Exploit de los tres días. | https://github.com/layxa/esprngabuse | 0 | 0| 
 | 20221125T12:08:00Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12366 | 2127| 
-| 20221125T11:37:56Z | A little Python-Code that erans money for ya | https://github.com/FuckingToasterz/MoneyMakingExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
