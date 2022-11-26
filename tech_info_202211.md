@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221126T02:27:16Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 142 | 1| 
+| 20221126T02:50:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 143 | 1| 
 | 20221126T02:25:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9419 | 320| 
 | 20221126T01:02:36Z | Null | https://github.com/ElRegioMau/KeepKleenAndroid | 0 | 0| 
 | 20221125T21:39:24Z | Null | https://github.com/actions-marketplace-validations/Minoro-Ltd_kleene_ai.doctor | 0 | 0| 
