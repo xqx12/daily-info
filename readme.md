@@ -34,7 +34,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221125T21:39:24Z | Null | https://github.com/actions-marketplace-validations/Minoro-Ltd_kleene_ai.doctor | 0 | 0| 
-| 20221125T03:36:58Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 140 | 1| 
 
 
 # s2e on Github 推荐
