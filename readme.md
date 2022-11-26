@@ -61,6 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221125T21:59:25Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 80 | 22| 
 | 20221125T21:57:06Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
 | 20221125T21:35:50Z | Null | https://github.com/NullBrunk/python-backdoor | 0 | 0| 
 | 20221125T19:44:02Z | backdoor em python | https://github.com/TsuomiLOL/backdoor | 0 | 0| 
