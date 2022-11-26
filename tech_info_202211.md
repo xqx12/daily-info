@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221126T02:26:03Z | Sauvegarde du TME3 de système d%exploitation, gestion des pipes en C et entrée/sorties fichiers. | https://github.com/Rockinfox91/sys-exploit-tme | 0 | 0| 
 | 20221126T00:27:36Z | The best python3 minecraft grabber in the world | https://github.com/matxd291/MineExploit | 2 | 0| 
 | 20221126T00:19:43Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 51 | 3| 
 | 20221125T23:48:47Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-4v | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20221125T23:28:17Z | A place where I write walk-throughs for hacks or exploits I%ve done | https://github.com/DoubtfulFox/Hacking-Walkthroughs | 0 | 0| 
 | 20221125T12:29:00Z | A Azure Exploitation Toolkit for Red Team & Pentesters | https://github.com/SikretaLabs/BlueMap | 21 | 0| 
 | 20221125T12:16:21Z | Null | https://github.com/NathanReturns/ExploiterBOT | 0 | 0| 
-| 20221125T12:15:57Z | Guía en Español del método del RNG Abuse y el Exploit de los tres días. | https://github.com/layxa/esprngabuse | 0 | 0| 
 
 
 # backdoor on Github 推荐
