@@ -151,7 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221126T13:06:25Z | A fuzzer for SMT solvers | https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz | 2 | 0| 
+| 20221126T13:25:41Z | A fuzzer for SMT solvers | https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz | 2 | 0| 
 | 20221126T10:58:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 856 | 183| 
 | 20221126T10:58:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4450 | 1079| 
 | 20221126T10:43:52Z | Null | https://github.com/h3033771547/fuzzy-octo-disco | 0 | 0| 
