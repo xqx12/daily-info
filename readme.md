@@ -27,8 +27,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221126T13:58:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9429 | 321| 
-| 20221126T08:29:20Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 144 | 1| 
+| 20221126T18:14:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9431 | 321| 
+| 20221126T15:22:50Z | Null | https://github.com/AnnaKopejkina/KLEE | 0 | 0| 
+| 20221126T14:19:54Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 145 | 1| 
 | 20221126T01:02:36Z | Null | https://github.com/ElRegioMau/KeepKleenAndroid | 0 | 0| 
 
 
@@ -40,22 +41,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221126T23:57:11Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 311 | 18| 
+| 20221126T23:43:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1k | 1 | 0| 
+| 20221126T23:43:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1k | 1 | 0| 
+| 20221126T23:42:07Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1k | 1 | 0| 
+| 20221126T22:03:40Z | A repo containing some built puppet modules for SecGen | https://github.com/JD2344/SecGen_Exploits | 0 | 0| 
+| 20221126T16:50:12Z | A Python bot to exploit the Microsoft Rewards program [FR only] | https://github.com/marcb152/msft-rewards-bot | 1 | 0| 
+| 20221126T16:42:35Z | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | 4 | 0| 
+| 20221126T15:29:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 111 | 11| 
 | 20221126T12:51:07Z | This is the docker container I use to do linux binary exploitation on. | https://github.com/CanOzSec/BinExp-Lab | 0 | 0| 
 | 20221126T12:30:45Z | aaaaaa | https://github.com/swolls/---Script-generated-by-SimpleSpy---fixed-version-for-exploits-other-than-synapse-krnl-made-by-stum | 0 | 0| 
-| 20221126T12:23:11Z | the homepage of exploitation | https://github.com/Exploit0xfffff/Exploit0xfffff | 0 | 0| 
-| 20221126T12:21:00Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 552 | 144| 
-| 20221126T11:39:18Z | Null | https://github.com/yuzhibo666/exploit | 0 | 0| 
-| 20221126T11:07:56Z | ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit | https://github.com/MRvirusIR/CVE-2021-43258 | 0 | 0| 
-| 20221126T08:30:24Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 111 | 11| 
-| 20221126T02:26:03Z | Sauvegarde du TME3 de système d%exploitation, gestion des pipes en C et entrée/sorties fichiers. | https://github.com/Rockinfox91/sys-exploit-tme | 0 | 0| 
-| 20221126T00:27:36Z | The best python3 minecraft grabber in the world | https://github.com/matxd291/MineExploit | 2 | 0| 
-| 20221126T00:19:43Z | Titanium is Paper fork which aims to improve performance, fix exploits and bugs, improve API and provide better configuration for server administrators. | https://github.com/TitaniumMC/Titanium | 51 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221126T13:34:56Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 542 | 124| 
+| 20221126T23:22:33Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 554 | 125| 
+| 20221126T18:15:11Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 0 | 0| 
+| 20221126T17:04:21Z | webshell | https://github.com/liiuxii/zxc | 6 | 4| 
+| 20221126T15:30:41Z | Program for remote control (backdoor) with a graphical interface. Built-in keyloger and screenloger and more. This program is not intended for malicious purposes. Exclusively for educational purposes!!!  | https://github.com/VorobyevAI/Remote_Control-python-backdoor | 0 | 0| 
 | 20221126T11:57:00Z | python3 backdoor protected with username and password | https://github.com/NullBrunk/python-backdoor | 0 | 0| 
 | 20221126T04:42:35Z | This is the chrome extension %Searchblox% without the backdoor code. | https://github.com/RangerTanger/Searchblox-Clean | 0 | 0| 
 | 20221126T03:57:02Z | LIst Shell Backdoor All Bypass | https://github.com/ItsMeAlf404/Backdoor | 0 | 0| 
@@ -75,16 +79,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221126T20:25:48Z | Null | https://github.com/casmpy/fuzzycoders_KOC26_CipherSchools | 0 | 0| 
+| 20221126T20:06:18Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1782 | 228| 
+| 20221126T19:56:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8077 | 1761| 
+| 20221126T19:34:54Z | Null | https://github.com/LithiumFish893/fuzzing-101-solutions-part-1 | 0 | 0| 
+| 20221126T19:29:45Z | Null | https://github.com/LithiumFish893/fuzzing101part1 | 0 | 0| 
+| 20221126T16:28:23Z | Interview question 1 fuzz buzz | https://github.com/LszQ0/fuzz_buzz | 0 | 0| 
 | 20221126T14:00:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4449 | 1079| 
 | 20221126T13:44:01Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 58 | 25| 
 | 20221126T13:30:22Z | A fuzzer for SMT solvers | https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz | 2 | 0| 
 | 20221126T10:58:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 856 | 183| 
-| 20221126T10:43:52Z | Null | https://github.com/h3033771547/fuzzy-octo-disco | 0 | 0| 
-| 20221126T10:21:50Z | test | https://github.com/susahcebok/fuzzy-robot | 0 | 0| 
-| 20221126T09:11:22Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 119 | 19| 
-| 20221126T07:28:59Z | Null | https://github.com/heydan98/Fuzzy | 0 | 0| 
-| 20221126T07:24:07Z | Null | https://github.com/zhouhoulin30/FuzzingPaperReadingNote | 0 | 0| 
-| 20221126T06:38:49Z | Null | https://github.com/mimicria/fuzzdicts | 2 | 0| 
 
 
 
