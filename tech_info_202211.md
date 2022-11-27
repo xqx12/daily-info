@@ -155,7 +155,7 @@
 | 20221127T00:24:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3233 | 647| 
 | 20221126T20:25:48Z | Null | https://github.com/casmpy/fuzzycoders_KOC26_CipherSchools | 0 | 0| 
 | 20221126T20:06:18Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1782 | 228| 
-| 20221126T19:56:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8077 | 1761| 
+| 20221126T19:56:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8077 | 1762| 
 | 20221126T19:34:54Z | Null | https://github.com/LithiumFish893/fuzzing-101-solutions-part-1 | 0 | 0| 
 | 20221126T19:29:45Z | Null | https://github.com/LithiumFish893/fuzzing101part1 | 0 | 0| 
 | 20221126T16:28:23Z | Interview question 1 fuzz buzz | https://github.com/LszQ0/fuzz_buzz | 0 | 0| 
