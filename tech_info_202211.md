@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221127T02:25:05Z | Config files for my GitHub profile. | https://github.com/BackdoorCeo/BackdoorCeo | 0 | 0| 
 | 20221127T02:21:44Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
 | 20221127T01:29:48Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 556 | 125| 
 | 20221126T18:15:11Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20221126T04:42:35Z | This is the chrome extension %Searchblox% without the backdoor code. | https://github.com/RangerTanger/Searchblox-Clean | 0 | 0| 
 | 20221126T03:57:02Z | LIst Shell Backdoor All Bypass | https://github.com/ItsMeAlf404/Backdoor | 0 | 0| 
 | 20221126T02:18:39Z | Null | https://github.com/c0ntempt/51mp3L-Web-Backdoor | 0 | 0| 
-| 20221125T21:59:25Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 80 | 22| 
 
 
 # symbolic execution on Github 推荐
