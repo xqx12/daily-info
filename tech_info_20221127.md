@@ -79,6 +79,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221127T13:12:54Z | Null | https://github.com/dominiksisejkovic/magic-fuzzer | 0 | 0| 
+| 20221127T13:08:44Z | subzuf is a smart DNS response-guided subdomain fuzzer | https://github.com/elceef/subzuf | 0 | 0| 
 | 20221127T12:49:53Z | Audio-based project for Vietnam road traffic congestion detection | https://github.com/grokking-vietnam/fuzzy | 0 | 0| 
 | 20221127T12:26:28Z | Tool for rapid prototyping of a hydraulic model that can be read and edited with SWMM. | https://github.com/BuczynskiRafal/Fuzzy_catchments | 0 | 0| 
 | 20221127T12:05:24Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzzpm | 17 | 3| 
@@ -87,7 +88,6 @@
 | 20221127T07:56:12Z | Null | https://github.com/hjakdshf/fuzzy-spork | 0 | 0| 
 | 20221127T07:14:45Z | Null | https://github.com/SafONOV11102/fuzzy-octo-- | 0 | 0| 
 | 20221127T06:27:16Z | Null | https://github.com/jmelm93/fuzzy-matching | 0 | 0| 
-| 20221127T03:45:54Z | A simple django project template for modern web apps. | https://github.com/Tobi-De/fuzzy-couscous | 5 | 0| 
 
 
 
