@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221127T01:08:36Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 48 | 17| 
 | 20221127T00:24:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 3233 | 647| 
 | 20221126T20:25:48Z | Null | https://github.com/casmpy/fuzzycoders_KOC26_CipherSchools | 0 | 0| 
 | 20221126T20:06:18Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 1782 | 228| 
@@ -160,7 +161,6 @@
 | 20221126T16:28:23Z | Interview question 1 fuzz buzz | https://github.com/LszQ0/fuzz_buzz | 0 | 0| 
 | 20221126T14:00:00Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4449 | 1079| 
 | 20221126T13:44:01Z | ✨🔐 CNCF Fuzzers | https://github.com/cncf/cncf-fuzzing | 58 | 25| 
-| 20221126T13:30:22Z | A fuzzer for SMT solvers | https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz | 2 | 0| 
 
 
 
