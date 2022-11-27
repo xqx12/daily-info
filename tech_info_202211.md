@@ -126,7 +126,7 @@
 | 20221124T21:18:13Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 32 | 21| 
 | 20221123T07:18:44Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 11 | 1| 
 | 20221122T08:14:30Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 17 | 0| 
-| 20221121T08:39:45Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 594 | 107| 
+| 20221121T08:39:45Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 594 | 106| 
 | 20221119T20:54:41Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 5 | 4| 
 | 20221119T11:53:09Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 11 | 3| 
 | 20221119T09:06:37Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 273 | 66| 
