@@ -33,6 +33,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221127T09:44:09Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 25 | 4| 
 
 
 # exploit on Github 推荐
@@ -66,6 +67,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221127T13:01:31Z | A combined disassembler/static analysis/symbolic execution/debugger framework. | https://github.com/marirs/vivisect-rs | 0 | 0| 
 
 
 # big4 on Github 推荐
