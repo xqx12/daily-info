@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221127T02:22:30Z | Null | https://github.com/dhanjani/solv-protocol-exploit | 0 | 0| 
 | 20221127T02:17:40Z | Null | https://github.com/k0i/MyExploitDB | 0 | 0| 
 | 20221126T23:57:11Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 311 | 18| 
 | 20221126T23:43:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1k | 1 | 0| 
@@ -100,12 +101,12 @@
 | 20221126T16:50:12Z | A Python bot to exploit the Microsoft Rewards program [FR only] | https://github.com/marcb152/msft-rewards-bot | 1 | 0| 
 | 20221126T16:42:35Z | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | 4 | 0| 
 | 20221126T15:29:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 111 | 11| 
-| 20221126T13:28:18Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 142 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221127T02:21:44Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
 | 20221127T01:29:48Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 556 | 125| 
 | 20221126T18:15:11Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 0 | 0| 
 | 20221126T17:04:21Z | webshell | https://github.com/liiuxii/zxc | 6 | 4| 
@@ -115,7 +116,6 @@
 | 20221126T03:57:02Z | LIst Shell Backdoor All Bypass | https://github.com/ItsMeAlf404/Backdoor | 0 | 0| 
 | 20221126T02:18:39Z | Null | https://github.com/c0ntempt/51mp3L-Web-Backdoor | 0 | 0| 
 | 20221125T21:59:25Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 80 | 22| 
-| 20221125T21:57:06Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
