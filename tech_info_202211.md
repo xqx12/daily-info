@@ -144,7 +144,7 @@
 | 20221110T05:25:19Z | Null | https://github.com/nosdsdfs/ndsssdss | 0 | 0| 
 | 20221108T11:45:41Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 2 | 0| 
 | 20221107T09:35:54Z | Repository for synthCT framework (NDSS%22) | https://github.com/FPSG-UIUC/synthCT | 6 | 1| 
-| 20221103T19:57:01Z | Home of the 2023 NDSS Workshop on Binary Analysis Research | https://github.com/bar2023/bar2023.github.io | 0 | 0| 
+| 20221103T19:57:01Z | Home of the 2023 NDSS Workshop on Binary Analysis Research | https://github.com/bar2023/bar2023.github.io | 0 | 1| 
 | 20221103T02:39:50Z | Null | https://github.com/sgwguagua/ndss | 0 | 0| 
 
 
