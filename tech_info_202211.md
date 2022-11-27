@@ -99,8 +99,8 @@
 | 20221126T16:50:12Z | A Python bot to exploit the Microsoft Rewards program [FR only] | https://github.com/marcb152/msft-rewards-bot | 1 | 0| 
 | 20221126T16:42:35Z | A forum website to discuss about proxies, chromebook exploits, etc. | https://github.com/yeetsquad747/exploitcb | 4 | 0| 
 | 20221126T15:29:02Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 111 | 11| 
+| 20221126T13:28:18Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 142 | 0| 
 | 20221126T12:51:07Z | This is the docker container I use to do linux binary exploitation on. | https://github.com/CanOzSec/BinExp-Lab | 0 | 0| 
-| 20221126T12:30:45Z | aaaaaa | https://github.com/swolls/---Script-generated-by-SimpleSpy---fixed-version-for-exploits-other-than-synapse-krnl-made-by-stum | 0 | 0| 
 
 
 # backdoor on Github 推荐
