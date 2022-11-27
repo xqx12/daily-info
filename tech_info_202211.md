@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221127T13:21:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12370 | 2127| 
 | 20221127T12:53:04Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2121 | 387| 
 | 20221127T12:20:03Z | Search New Exploit By MrMad | https://github.com/MadExploits/SearchExploit | 0 | 0| 
 | 20221127T11:12:56Z | An Inclusive Exploit for OAS | https://github.com/0x0is1/profanity | 2 | 1| 
@@ -98,7 +99,6 @@
 | 20221127T10:11:51Z | (_^) | https://github.com/daud0x0/exploit | 0 | 0| 
 | 20221127T09:40:41Z | Null | https://github.com/tochyodikwa/XSS-exploit-first-attempt | 0 | 0| 
 | 20221127T09:07:24Z | Simple roblox script execution exploit | https://github.com/NezyDev/Nezy-Exploit | 0 | 0| 
-| 20221127T08:26:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12369 | 2127| 
 | 20221127T02:29:55Z | Null | https://github.com/dhanjani/solv-protocol-exploit | 0 | 0| 
 | 20221127T02:17:40Z | Null | https://github.com/k0i/MyExploitDB | 0 | 0| 
 
