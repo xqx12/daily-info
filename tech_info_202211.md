@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221127T02:22:30Z | Null | https://github.com/dhanjani/solv-protocol-exploit | 0 | 0| 
+| 20221127T02:29:55Z | Null | https://github.com/dhanjani/solv-protocol-exploit | 0 | 0| 
 | 20221127T02:17:40Z | Null | https://github.com/k0i/MyExploitDB | 0 | 0| 
 | 20221126T23:57:11Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 311 | 18| 
 | 20221126T23:43:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1k | 1 | 0| 
