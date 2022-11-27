@@ -78,7 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221127T13:11:02Z | Null | https://github.com/dominiksisejkovic/magic-fuzzer | 0 | 0| 
+| 20221127T13:12:54Z | Null | https://github.com/dominiksisejkovic/magic-fuzzer | 0 | 0| 
 | 20221127T12:49:53Z | Audio-based project for Vietnam road traffic congestion detection | https://github.com/grokking-vietnam/fuzzy | 0 | 0| 
 | 20221127T12:26:28Z | Tool for rapid prototyping of a hydraulic model that can be read and edited with SWMM. | https://github.com/BuczynskiRafal/Fuzzy_catchments | 0 | 0| 
 | 20221127T12:05:24Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzzpm | 17 | 3| 
