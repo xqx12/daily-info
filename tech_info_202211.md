@@ -151,7 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221128T02:06:27Z | Null | https://github.com/eyexploit/echidna-fuzzer | 0 | 0| 
+| 20221128T02:10:35Z | Null | https://github.com/eyexploit/echidna-fuzzer | 0 | 0| 
 | 20221128T02:05:33Z | Exemplo de teste utilizando fuzzy | https://github.com/LayssonENS/go-fuzzy-test | 0 | 0| 
 | 20221128T01:25:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 65 | 22| 
 | 20221127T21:44:38Z | Null | https://github.com/MiguelXD13/fuzzyexamples | 0 | 0| 
