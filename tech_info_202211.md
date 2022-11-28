@@ -91,10 +91,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221128T02:03:35Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9699 | 1559| 
 | 20221128T02:00:50Z | Null | https://github.com/0x414141414/MS-WORD-EXPLOIT-SILENT | 0 | 0| 
 | 20221128T01:59:42Z | Null | https://github.com/0x414141414/PDF-SILENT-EXPLOIT-2022 | 0 | 0| 
 | 20221128T01:59:14Z | Null | https://github.com/0x414141414/.JPG-Silent-Exploit | 0 | 0| 
-| 20221128T00:26:02Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9698 | 1559| 
 | 20221128T00:10:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1o | 1 | 0| 
 | 20221128T00:09:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1o | 1 | 0| 
 | 20221128T00:08:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1o | 1 | 0| 
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221128T02:05:33Z | Exemplo de teste utilizando fuzzy | https://github.com/LayssonENS/go-fuzzy-test | 0 | 0| 
 | 20221128T01:25:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 65 | 22| 
 | 20221127T21:44:38Z | Null | https://github.com/MiguelXD13/fuzzyexamples | 0 | 0| 
 | 20221127T19:57:21Z | The program warns about fuzzing | https://github.com/ShaniVahav/fuzzing_detect | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20221127T13:08:44Z | subzuf is a smart DNS response-guided subdomain fuzzer | https://github.com/elceef/subzuf | 0 | 0| 
 | 20221127T12:49:53Z | Audio-based project for Vietnam road traffic congestion detection | https://github.com/grokking-vietnam/fuzzy | 0 | 0| 
 | 20221127T12:26:28Z | Tool for rapid prototyping of a hydraulic model that can be read and edited with SWMM. | https://github.com/BuczynskiRafal/Fuzzy_catchments | 0 | 0| 
-| 20221127T12:05:24Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzzpm | 17 | 3| 
 
 
 
