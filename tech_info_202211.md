@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221128T02:00:50Z | Null | https://github.com/0x414141414/MS-WORD-EXPLOIT-SILENT | 0 | 0| 
 | 20221128T01:59:42Z | Null | https://github.com/0x414141414/PDF-SILENT-EXPLOIT-2022 | 0 | 0| 
 | 20221128T01:59:14Z | Null | https://github.com/0x414141414/.JPG-Silent-Exploit | 0 | 0| 
 | 20221128T00:26:02Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9698 | 1559| 
@@ -100,7 +101,6 @@
 | 20221127T20:56:48Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 46 | 25| 
 | 20221127T19:43:06Z | This repository contains memory addresses for various versions of Roblox. Feel free to use this in any of your programs/exploits. More memory addresses will be included later on. | https://github.com/Te1amon/roblox-address-dumps | 0 | 0| 
 | 20221127T18:20:13Z | Roblox exploit hub | https://github.com/Memerip/Ripper-Hub | 0 | 0| 
-| 20221127T16:39:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5081 | 706| 
 
 
 # backdoor on Github 推荐
