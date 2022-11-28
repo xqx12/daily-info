@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221128T02:53:15Z | An utility mod for various GUI exploits | https://github.com/RainVaporeon/InvGui | 4 | 0| 
 | 20221128T02:03:35Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9699 | 1559| 
 | 20221128T02:00:50Z | Null | https://github.com/0x414141414/MS-WORD-EXPLOIT-SILENT | 0 | 0| 
 | 20221128T01:59:42Z | Null | https://github.com/0x414141414/PDF-SILENT-EXPLOIT-2022 | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20221128T00:08:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1o | 1 | 0| 
 | 20221127T20:56:48Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 46 | 25| 
 | 20221127T20:55:49Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 47 | 27| 
-| 20221127T19:43:06Z | This repository contains memory addresses for various versions of Roblox. Feel free to use this in any of your programs/exploits. More memory addresses will be included later on. | https://github.com/Te1amon/roblox-address-dumps | 0 | 0| 
 
 
 # backdoor on Github 推荐
