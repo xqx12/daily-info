@@ -39,22 +39,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221127T20:56:48Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 46 | 25| 
+| 20221127T19:43:06Z | This repository contains memory addresses for various versions of Roblox. Feel free to use this in any of your programs/exploits. More memory addresses will be included later on. | https://github.com/Te1amon/roblox-address-dumps | 0 | 0| 
+| 20221127T18:20:13Z | Roblox exploit hub | https://github.com/Memerip/Ripper-Hub | 0 | 0| 
+| 20221127T16:39:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5081 | 706| 
 | 20221127T13:21:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12370 | 2127| 
 | 20221127T12:53:04Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2121 | 387| 
 | 20221127T12:20:03Z | Search New Exploit By MrMad | https://github.com/MadExploits/SearchExploit | 0 | 0| 
 | 20221127T11:12:56Z | An Inclusive Exploit for OAS | https://github.com/0x0is1/profanity | 2 | 1| 
 | 20221127T10:58:26Z | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | 3 | 0| 
 | 20221127T10:11:51Z | (_^) | https://github.com/daud0x0/exploit | 0 | 0| 
-| 20221127T09:40:41Z | Null | https://github.com/tochyodikwa/XSS-exploit-first-attempt | 0 | 0| 
-| 20221127T09:07:24Z | Simple roblox script execution exploit | https://github.com/NezyDev/Nezy-Exploit | 0 | 0| 
-| 20221127T02:29:55Z | Null | https://github.com/dhanjani/solv-protocol-exploit | 0 | 0| 
-| 20221127T02:17:40Z | Null | https://github.com/k0i/MyExploitDB | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221127T13:23:42Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 568 | 125| 
+| 20221127T18:58:11Z | lol | https://github.com/Halqq/LeuxBackdoor-0.0.8-deobf | 1 | 0| 
+| 20221127T15:26:24Z | Null | https://github.com/Vladdisllvv13/backdoorH | 0 | 0| 
 | 20221127T12:22:27Z | Null | https://github.com/AntarcticaV/BackDoor-python | 0 | 0| 
 | 20221127T09:03:19Z | Null | https://github.com/Serdyuk-prog/micro-backdoor | 0 | 0| 
 | 20221127T08:25:47Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 7 | 0| 
@@ -78,16 +79,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221127T21:44:38Z | Null | https://github.com/MiguelXD13/fuzzyexamples | 0 | 0| 
+| 20221127T19:57:21Z | The program warns about fuzzing | https://github.com/ShaniVahav/fuzzing_detect | 0 | 0| 
+| 20221127T18:17:19Z | API to fuzzy | https://github.com/AnthonyHolguin/fuzzy | 0 | 0| 
+| 20221127T16:48:17Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 1522 | 287| 
 | 20221127T13:12:54Z | Null | https://github.com/dominiksisejkovic/magic-fuzzer | 0 | 0| 
 | 20221127T13:08:44Z | subzuf is a smart DNS response-guided subdomain fuzzer | https://github.com/elceef/subzuf | 0 | 0| 
 | 20221127T12:49:53Z | Audio-based project for Vietnam road traffic congestion detection | https://github.com/grokking-vietnam/fuzzy | 0 | 0| 
 | 20221127T12:26:28Z | Tool for rapid prototyping of a hydraulic model that can be read and edited with SWMM. | https://github.com/BuczynskiRafal/Fuzzy_catchments | 0 | 0| 
 | 20221127T12:05:24Z | Differential Fuzzer to hunt for logic bugs on Perl Modules | https://github.com/htrgouvea/fuzzpm | 17 | 3| 
 | 20221127T11:49:06Z | Null | https://github.com/KonovalovStas/FuzzyOctoSystem | 0 | 0| 
-| 20221127T09:24:01Z | test | https://github.com/susahcebok/fuzzy-robot | 1 | 0| 
-| 20221127T07:56:12Z | Null | https://github.com/hjakdshf/fuzzy-spork | 0 | 0| 
-| 20221127T07:14:45Z | Null | https://github.com/SafONOV11102/fuzzy-octo-- | 0 | 0| 
-| 20221127T06:27:16Z | Null | https://github.com/jmelm93/fuzzy-matching | 0 | 0| 
 
 
 
