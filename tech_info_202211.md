@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221128T02:06:27Z | Null | https://github.com/eyexploit/echidna-fuzzer | 0 | 0| 
 | 20221128T02:05:33Z | Exemplo de teste utilizando fuzzy | https://github.com/LayssonENS/go-fuzzy-test | 0 | 0| 
 | 20221128T01:25:56Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 65 | 22| 
 | 20221127T21:44:38Z | Null | https://github.com/MiguelXD13/fuzzyexamples | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20221127T13:12:54Z | Null | https://github.com/dominiksisejkovic/magic-fuzzer | 0 | 0| 
 | 20221127T13:08:44Z | subzuf is a smart DNS response-guided subdomain fuzzer | https://github.com/elceef/subzuf | 0 | 0| 
 | 20221127T12:49:53Z | Audio-based project for Vietnam road traffic congestion detection | https://github.com/grokking-vietnam/fuzzy | 0 | 0| 
-| 20221127T12:26:28Z | Tool for rapid prototyping of a hydraulic model that can be read and edited with SWMM. | https://github.com/BuczynskiRafal/Fuzzy_catchments | 0 | 0| 
 
 
 
