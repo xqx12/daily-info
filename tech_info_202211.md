@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221128T01:58:54Z | Null | https://github.com/0x414141414/.JPG-Silent-Exploit | 0 | 0| 
+| 20221128T01:59:42Z | Null | https://github.com/0x414141414/PDF-SILENT-EXPLOIT-2022 | 0 | 0| 
+| 20221128T01:59:14Z | Null | https://github.com/0x414141414/.JPG-Silent-Exploit | 0 | 0| 
 | 20221128T00:26:02Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9698 | 1559| 
 | 20221128T00:10:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1o | 1 | 0| 
 | 20221128T00:09:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1o | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20221127T19:43:06Z | This repository contains memory addresses for various versions of Roblox. Feel free to use this in any of your programs/exploits. More memory addresses will be included later on. | https://github.com/Te1amon/roblox-address-dumps | 0 | 0| 
 | 20221127T18:20:13Z | Roblox exploit hub | https://github.com/Memerip/Ripper-Hub | 0 | 0| 
 | 20221127T16:39:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5081 | 706| 
-| 20221127T13:21:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12370 | 2127| 
 
 
 # backdoor on Github 推荐
