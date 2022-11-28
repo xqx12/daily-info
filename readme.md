@@ -44,10 +44,10 @@
 | 20221127T16:39:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5081 | 706| 
 | 20221127T13:21:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12370 | 2127| 
 | 20221127T12:53:04Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2121 | 387| 
+| 20221127T12:25:48Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 144 | 0| 
 | 20221127T12:20:03Z | Search New Exploit By MrMad | https://github.com/MadExploits/SearchExploit | 0 | 0| 
 | 20221127T11:12:56Z | An Inclusive Exploit for OAS | https://github.com/0x0is1/profanity | 2 | 1| 
 | 20221127T10:58:26Z | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | 3 | 0| 
-| 20221127T10:11:51Z | (_^) | https://github.com/daud0x0/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
