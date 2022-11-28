@@ -39,6 +39,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221127T20:56:48Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 46 | 25| 
+| 20221127T20:55:49Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 47 | 27| 
 | 20221127T19:43:06Z | This repository contains memory addresses for various versions of Roblox. Feel free to use this in any of your programs/exploits. More memory addresses will be included later on. | https://github.com/Te1amon/roblox-address-dumps | 0 | 0| 
 | 20221127T18:20:13Z | Roblox exploit hub | https://github.com/Memerip/Ripper-Hub | 0 | 0| 
 | 20221127T16:39:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5081 | 706| 
@@ -47,7 +48,6 @@
 | 20221127T12:25:48Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 144 | 0| 
 | 20221127T12:20:03Z | Search New Exploit By MrMad | https://github.com/MadExploits/SearchExploit | 0 | 0| 
 | 20221127T11:12:56Z | An Inclusive Exploit for OAS | https://github.com/0x0is1/profanity | 2 | 1| 
-| 20221127T10:58:26Z | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | 3 | 0| 
 
 
 # backdoor on Github 推荐
