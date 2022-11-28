@@ -24,7 +24,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221127T17:58:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9442 | 322| 
 | 20221127T12:27:03Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 147 | 1| 
 | 20221127T12:16:35Z | Config files for my GitHub profile. | https://github.com/KleeSup/KleeSup | 0 | 0| 
 | 20221127T04:19:59Z | हार्ड ड्राइव क्लीनर - चयनित हार्ड ड्राइव पर स्थान साफ़ करने के लिए PowerShell स्क्रिप्ट। | https://github.com/jimrtyler/hi-haard-draiv-kleenar | 0 | 0| 
