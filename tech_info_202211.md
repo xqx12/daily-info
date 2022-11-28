@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221128 | 基于IO_FILE的高版本glibc利用链 | https://tttang.com/archive/1845/| 
+| 20221128 | 基于污点分析的静态分析被应用于堆漏洞检测 | https://github.com/CoolerVoid/heap_detective| 
+| 20221128 | 基于patch对TP-Link一处未初始化访问漏洞的分析和利用，并发现仍存在其他受此漏洞影响的固件版本。 | https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md| 
+| 20221128 | Chrome浏览器Blink组件UAF漏洞（CVE-2022-3654）细节，由project-zero的glazunov发现，是由于CVE-2022-3199漏洞错误修复导致的补丁绕过。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2358| 
+| 20221128 | 利用vBulletin的一个N-day对象注入漏洞实现任意PHP代码执行。 | https://www.reddit.com/r/netsec/comments/z5cql6/exploiting_an_nday_vbulletin_php_object_injection/| 
+| 20221128 | Kubeeye，一款Kubernetes漏洞检测工具，能够给出修复建议，支持客制化。 | https://www.kitploit.com/2022/11/kubeeye-tool-to-find-various-problems.html| 
+| 20221128 | Python的格式化字符串如果攻击者可控的话，可能会导致信息泄漏。 | http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/| 
+| 20221128 | 介绍了Jackalope的基本使用方法，对Damn Vulnerable C Program中的示例程序进行模糊测试 | https://www.youtube.com/watch?v=rXbaHSXiCtg&feature=youtu.be| 
+| 20221128 | 详解JDK的Runtime.getRuntime().exec(String)的原理：会先将输入字符串以\x20\t\n\r\f进行split，之后再作为Process的argv进行命令执行。 | http://www.freebuf.com/vuls/350760.html| 
 | 20221125 | 浅谈JspWebshell之编码 | https://tttang.com/archive/1840/| 
 | 20221121 | ZK框架权限绕过导致R1Soft Server Backup Manager RCE并接管Agent | https://tttang.com/archive/1833/| 
 | 20221121 | Wordpress 插件 woocommerce 插件 SQL 注入漏洞分析 | http://paper.seebug.org/2023/| 
@@ -17,66 +26,57 @@
 | 20221114 | 挪威一款流行的 Zaptec Pro 电动车充电桩的安全研究报告 | https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/| 
 | 20221114 | Shufflecake - 在 Linux 系统中创建隐藏分区的工具 | https://research.kudelskisecurity.com/2022/11/10/introducing-shufflecake-plausible-deniability-for-multiple-hidden-filesystems-on-linux/| 
 | 20221114 | Linux msg_msg 结构在漏洞利用中的应用以及相关的利用缓解措施分析 | https://hardenedvault.net/blog/2022-11-13-msg_msg-recon-mitigation-ved/| 
-| 20221114 | 滥用 Google Calendar 作为一种钓鱼传播的媒介 | https://drew-sec.github.io| 
-| 20221114 | 从硬件角度研究 SpaceX Starlink 终端的安全性，利用电压错误注入的技术实现任意代码执行 | https://github.com/KULeuven-COSIC/Starlink-FI| 
-| 20221114 | Android 逻辑漏洞的重要性和优势逐渐体现，这篇 Blog 分析 Android 系统的 4 大组件以及可能存在的逻辑漏洞类型 | http://evilpan.com/2022/11/13/android-bugs/| 
-| 20221114 | IceXLoader 恶意软件破坏了全球数千名受害者的计算机 | http://paper.seebug.org/2014/| 
-| 20221113 | optee学习(2) CA&TA调用流程分析 | https://o0xmuhe.github.io/2022/10/26/optee%E5%AD%A6%E4%B9%A0-2-CA-TA/| 
-| 20221111 | POC 2022 会议，有研究员从安全角度对 Rust 语言的分析 | http://www.msuiche.com/posts/poc-2022-korea-keynote/| 
-| 20221111 | 微软 MSTIC 威胁情报团队在 CyberWarCon 2022 会议分享议题的一些细节 | https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/| 
-| 20221111 | 浏览器证书颁发机构自身信誉度的安全隐患分析 | http://www.schneier.com/blog/archives/2022/11/an-untrustworthy-tls-certificate-in-browsers.html| 
-| 20221111 | 这篇 Blog 介绍 IDA 中如何查找两个函数之间的调用路径的算法 | http://evilpan.com/2022/11/04/path-finder/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221128 | AFL系模糊器中Havoc变异策略研究与改进 | https://mp.weixin.qq.com/s/A2Dk6WOZo7FZ_3bFRSsk-Q| 
+| 20221128 | NAUTILUS：面向语法的灰盒模糊测试方法 | https://mp.weixin.qq.com/s/l-dpLkrB_GaiBkp_YHnIXQ| 
+| 20221128 | 2022年中国安全技术成熟度曲线 | https://mp.weixin.qq.com/s/7nxdi3UlEcJXMi53gJOzSw| 
+| 20221128 | SecWiki周刊（第456期) | https://www.sec-wiki.com/weekly/456| 
+| 20221128 | CobaltStrike4.5 分析总结 | https://mp.weixin.qq.com/s/K47FXTMEWfB_474aHAGU5g| 
+| 20221128 | MITRE ATT&CK 第五轮评估结果发布 | https://mp.weixin.qq.com/s/mEKMKfL3DjtkEvFCKYWNLA| 
 | 20221127 | JAVA开发中涉及的基础安全问题和解决方法初探 | https://xz.aliyun.com/t/11890| 
 | 20221126 | CVE-2022-42920 BCEL 任意文件写漏洞 | https://xz.aliyun.com/t/11866| 
 | 20221126 | 美国开源软件安全评价方法体系分析 | https://mp.weixin.qq.com/s/q_R76IME0FnX0fwgS7R8Bw| 
 | 20221125 | 图视角下的信息抽取技术研究 | https://mp.weixin.qq.com/s/EnsnauMumycUFo_iSWoyXQ| 
-| 20221124 | BAS那点事儿 | https://xz.aliyun.com/t/11880| 
-| 20221124 | Android组件安全之drozer实战 | https://mp.weixin.qq.com/s/96f6wVomEjC9_kyzsoylQg| 
-| 20221122 | 侦查取证中系统镜像的还原与分析 | https://mp.weixin.qq.com/s/Bl7Y8Ca_a7oZez8ryWQ3FQ| 
-| 20221122 | 初探Java安全之JavaAgent | https://sec-in.com/article/1690| 
-| 20221121 | CodeQL的自动化代码审计之路（中篇） | https://mp.weixin.qq.com/s/5UmBkqCsBt64WY2JllIVSw| 
-| 20221121 | SecWiki周刊（第455期) | https://www.sec-wiki.com/weekly/455| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221128T09:23:41Z | CVE-2021-43258 | ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit | https://github.com/MRvirusIR/CVE-2021-43258 | | 
+| 20221128T09:23:36Z | CVE-2022-22971 | Null | https://github.com/tchize/CVE-2022-22971 | | 
+| 20221128T09:23:26Z | CVE-2022-22963 | Null | https://github.com/dr6817/CVE-2022-22963 | | 
+| 20221128T09:23:19Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Adynervi/CVE-2022-3236-MASS-RCE | | 
+| 20221128T05:24:16Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
+| 20221128T03:50:10Z | CVE-2021-33558 | CVE-2021-33558 POC | https://github.com/anldori/CVE-2021-33558 | | 
 | 20221127T10:58:26Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
-| 20221127T00:20:33Z | CVE-2022-22971 | Null | https://github.com/tchize/CVE-2022-22971 | | 
-| 20221126T11:07:56Z | CVE-2021-43258 | ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit | https://github.com/MRvirusIR/CVE-2021-43258 | | 
-| 20221126T10:43:24Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Adynervi/CVE-2022-3236-MASS-RCE | | 
 | 20221126T08:46:04Z | CVE-2021-43657 | This is a reference/POC for CVE-2021-43657 | https://github.com/c0n5n3d/CVE-2021-43657 | | 
 | 20221126T07:35:42Z | CVE-2022-38374 | Null | https://github.com/azhurtanov/CVE-2022-38374 | | 
-| 20221125T15:41:53Z | CVE-2022-22963 | Null | https://github.com/dr6817/CVE-2022-22963 | | 
 | 20221125T09:05:43Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
-| 20221125T04:02:09Z | CVE-2021-40303 | perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile. | https://github.com/zecopro/CVE-2021-40303 | | 
-| 20221125T04:02:05Z | CVE-2022-3602 | Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6  | https://github.com/corelight/CVE-2022-3602 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221128T02:19:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9444 | 322| 
+| 20221128T12:38:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9456 | 322| 
+| 20221128T11:57:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 49| 
+| 20221128T05:36:33Z | Null | https://github.com/luckyjc8/logviewer_klee | 0 | 0| 
+| 20221128T03:16:02Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 12 | 1| 
 | 20221127T12:27:03Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 147 | 1| 
 | 20221127T12:16:35Z | Config files for my GitHub profile. | https://github.com/KleeSup/KleeSup | 0 | 0| 
 | 20221127T04:19:59Z | हार्ड ड्राइव क्लीनर - चयनित हार्ड ड्राइव पर स्थान साफ़ करने के लिए PowerShell स्क्रिप्ट। | https://github.com/jimrtyler/hi-haard-draiv-kleenar | 0 | 0| 
 | 20221126T15:22:50Z | Null | https://github.com/AnnaKopejkina/KLEE | 0 | 0| 
 | 20221126T01:02:36Z | Null | https://github.com/ElRegioMau/KeepKleenAndroid | 0 | 0| 
 | 20221125T21:39:24Z | Null | https://github.com/actions-marketplace-validations/Minoro-Ltd_kleene_ai.doctor | 0 | 0| 
-| 20221124T11:05:04Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 166 | 50| 
-| 20221124T09:27:10Z | Null | https://github.com/AnnaKopejkina/Kleee | 0 | 0| 
-| 20221124T05:59:13Z | Null | https://github.com/Usagixineist/A-new-font-base-on-Klee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221127T09:44:09Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 25 | 4| 
+| 20221128T08:38:41Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 25 | 4| 
 | 20221125T07:18:48Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 6 | 3| 
 | 20221124T12:21:32Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 83 | 45| 
 | 20221123T16:17:12Z | Repository del progetto di test automatici per i partner mancanti, aggiornato alla versione uiPath-non legacy.  | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_PM_2.0 | 0 | 0| 
@@ -91,21 +91,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221128T12:57:58Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/auruteneleryp/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
+| 20221128T12:57:46Z | AutoFarm SonicSpeed Exploit made by hks0r3ty | https://github.com/auruteneleryp/AutoFarm-SonicSpeed-Exploit | 0 | 0| 
+| 20221128T12:56:27Z | DF2 DeaD Frontier2 PrivateCheat INCLUDING AIMBOT SOFTAIM ESP AND MORE | https://github.com/auruteneleryp/DF2-DeaD-Frontier2-PrivateCheat | 0 | 0| 
+| 20221128T12:56:17Z | Roblox NYveeee Private Exploit Leak3D WITH 50 FEATURES | https://github.com/auruteneleryp/Roblox-NYveeee-Private-Exploit-Leak3D | 0 | 0| 
+| 20221128T12:44:15Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9702 | 1559| 
+| 20221128T12:14:42Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 476 | 66| 
+| 20221128T10:36:26Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4750 | 694| 
+| 20221128T10:31:59Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 112 | 11| 
+| 20221128T10:28:57Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 955 | 102| 
 | 20221128T02:53:15Z | An utility mod for various GUI exploits | https://github.com/RainVaporeon/InvGui | 4 | 0| 
-| 20221128T02:03:35Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9699 | 1559| 
-| 20221128T02:00:50Z | Null | https://github.com/0x414141414/MS-WORD-EXPLOIT-SILENT | 0 | 0| 
-| 20221128T01:59:42Z | Null | https://github.com/0x414141414/PDF-SILENT-EXPLOIT-2022 | 0 | 0| 
-| 20221128T01:59:14Z | Null | https://github.com/0x414141414/.JPG-Silent-Exploit | 0 | 0| 
-| 20221128T00:10:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1o | 1 | 0| 
-| 20221128T00:09:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1o | 1 | 0| 
-| 20221128T00:08:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1o | 1 | 0| 
-| 20221127T20:56:48Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 46 | 25| 
-| 20221127T20:55:49Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 47 | 27| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221128T12:54:51Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 2 | 0| 
+| 20221128T12:53:22Z | Natural Backdoor Dataset, inclouding t-shirt, hat, apple, glass | https://github.com/backdoorrrr/Natural-Backdoor-Dataset | 0 | 0| 
+| 20221128T10:22:22Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7125 | 2055| 
 | 20221128T02:32:00Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 606 | 129| 
 | 20221127T18:58:11Z | lol | https://github.com/Halqq/LeuxBackdoor-0.0.8-deobf | 1 | 0| 
 | 20221127T15:26:24Z | Null | https://github.com/Vladdisllvv13/backdoorH | 0 | 0| 
@@ -113,9 +116,6 @@
 | 20221127T09:03:19Z | Null | https://github.com/Serdyuk-prog/micro-backdoor | 0 | 0| 
 | 20221127T08:25:47Z | Code for the paper %BadPrompt: Backdoor Attacks on Continuous Prompts% | https://github.com/papersPapers/BadPrompt | 7 | 0| 
 | 20221127T08:08:43Z | The Remote System-Hijack Program is a Backdoor application, which gives complete control over a remote system. | https://github.com/Muneer44/Remote-System-Hijack | 0 | 0| 
-| 20221127T05:47:50Z | Public Implementation of AsiaCCS 2023 paper %DHBE: Data-free Holistic Backdoor Erasing in Deep Neural Networks via Restricted Adversarial Distillation% | https://github.com/yanzhicong/DHBE | 0 | 0| 
-| 20221127T02:39:22Z | Config files for my GitHub profile. | https://github.com/BackdoorCeo/BackdoorCeo | 0 | 0| 
-| 20221127T02:21:44Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
