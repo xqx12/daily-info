@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221128T00:31:29Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 179 | 44| 
 | 20221127T13:19:11Z | A combined disassembler/static analysis/symbolic execution/debugger framework. | https://github.com/marirs/vivisect-rs | 0 | 0| 
 | 20221125T06:28:22Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 504 | 28| 
 | 20221124T21:18:13Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 32 | 21| 
@@ -130,7 +131,6 @@
 | 20221119T20:54:41Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 5 | 4| 
 | 20221119T11:53:09Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 11 | 3| 
 | 20221119T09:06:37Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 273 | 66| 
-| 20221119T02:58:00Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 80 | 17| 
 
 
 # big4 on Github 推荐
