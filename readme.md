@@ -23,6 +23,7 @@
 | 20221128 | ThreatFox：开源威胁情报共享平台 | https://github.com/abusech/ThreatFox| 
 | 20221128 | THREATINT_PROCESS_SYSCALL_USAGE：Windows 23H2 引入新的 ETW Event 缓解漏洞利用 | https://windows-internals.com/an-end-to-kaslr-bypasses/| 
 | 20221128 | AWS AppSyncs的confused deputy problem漏洞的细节，该漏洞允许一个恶意租户通过AppSyncs的访问别的租户的资源 | https://thehackernews.com/2022/11/researchers-detail-appsync-cross-tenant.html| 
+| 20221128 | Chrome团队在Oilpan中开启了指针压缩以提升性能。 | https://v8.dev/blog/oilpan-pointer-compression| 
 
 
 # 安全维基 推荐

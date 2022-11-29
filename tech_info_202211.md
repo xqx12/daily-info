@@ -23,9 +23,9 @@
 | 20221128 | ThreatFox：开源威胁情报共享平台 | https://github.com/abusech/ThreatFox| 
 | 20221128 | THREATINT_PROCESS_SYSCALL_USAGE：Windows 23H2 引入新的 ETW Event 缓解漏洞利用 | https://windows-internals.com/an-end-to-kaslr-bypasses/| 
 | 20221128 | AWS AppSyncs的confused deputy problem漏洞的细节，该漏洞允许一个恶意租户通过AppSyncs的访问别的租户的资源 | https://thehackernews.com/2022/11/researchers-detail-appsync-cross-tenant.html| 
+| 20221128 | Chrome团队在Oilpan中开启了指针压缩以提升性能。 | https://v8.dev/blog/oilpan-pointer-compression| 
 | 20221125 | 浅谈JspWebshell之编码 | https://tttang.com/archive/1840/| 
 | 20221121 | ZK框架权限绕过导致R1Soft Server Backup Manager RCE并接管Agent | https://tttang.com/archive/1833/| 
-| 20221121 | Wordpress 插件 woocommerce 插件 SQL 注入漏洞分析 | http://paper.seebug.org/2023/| 
 
 
 # 安全维基 推荐
