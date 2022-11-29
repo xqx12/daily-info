@@ -60,7 +60,7 @@
 | 20221129T11:24:08Z | Network Enumeration And Post Exploitation | https://github.com/Bkmaxx/Neteye | 0 | 0| 
 | 20221129T10:58:29Z | Null | https://github.com/gbrsh/kernel_exploits | 0 | 0| 
 | 20221129T10:51:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 553 | 144| 
-| 20221129T10:15:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4753 | 694| 
+| 20221129T10:15:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4753 | 695| 
 | 20221129T10:02:56Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12385 | 2129| 
 | 20221129T09:34:06Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 366 | 19| 
 | 20221129T09:30:09Z | XSS Exploitation Tool | https://github.com/diksha-chhabra/kill-xss | 0 | 0| 
