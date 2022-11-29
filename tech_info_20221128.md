@@ -46,7 +46,6 @@
 | 20221128T09:23:41Z | CVE-2021-43258 | ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit | https://github.com/MRvirusIR/CVE-2021-43258 | | 
 | 20221128T09:23:36Z | CVE-2022-22971 | Null | https://github.com/tchize/CVE-2022-22971 | | 
 | 20221128T09:23:26Z | CVE-2022-22963 | Null | https://github.com/dr6817/CVE-2022-22963 | | 
-| 20221128T09:23:19Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Adynervi/CVE-2022-3236-MASS-RCE | | 
 | 20221128T03:50:10Z | CVE-2021-33558 | CVE-2021-33558 POC | https://github.com/anldori/CVE-2021-33558 | | 
 
 
@@ -77,9 +76,9 @@
 | 20221128T13:57:45Z | A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation. | https://github.com/t3l3machus/wwwtree | 3 | 0| 
 | 20221128T13:56:31Z | A script collection to Modify the Discord client | https://github.com/NuroC/Discord-Exploits | 0 | 0| 
 | 20221128T13:54:35Z | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of two types of annotations: (i) clinical entities: pathologies, symptoms, procedures, body parts, etc., according to standard clinical taxonomies (i.e. SNOMED-CT, ICD-10); and (ii) temporal information and factuality: events, time expressions, and temporal relations according to the THYME standard. The corpus is organised into three layers, with different purposes. Layer 1: about 25K tokens per language with full manual annotation of clinical entities, temporal information and factuality, for benchmarkingand linguistic analysis. Layer 2: 50-100K tokens per language with semi-automatic annotations of clinical entities, to be used to train baseline systems. Layer 3: about 1M tokens per language of non-annotated medical documents to be exploited by semi-supervised approaches. Researchers can use the benchmark training and test splits of our corpus to develop and test their own models. We trained several deep learning based models and provide baselines using the benchmark. Both the corpus and the built models will be available through the ELG platform.  | https://github.com/hltfbk/E3C-Corpus | 3 | 1| 
+| 20221128T13:54:12Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 62 | 25| 
 | 20221128T13:37:11Z | YApi bool-based injection exploit. | https://github.com/Anthem-whisper/YApi-Exploit | 0 | 0| 
 | 20221128T13:17:57Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4751 | 694| 
-| 20221128T12:57:58Z | et3nol RobloxBloxFruitPrivateCheatExploitScript  | https://github.com/auruteneleryp/et3nol-RobloxBloxFruitPrivateCheatExploitScript | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,6 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221128T22:45:59Z | Null | https://github.com/mateus-ceccagno/futebol-americano-fuzzy | 0 | 0| 
+| 20221128T14:54:04Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 77 | 22| 
 | 20221128T13:45:39Z | TCP 3way handshake fuzzer in Python.312 with Scapy | https://github.com/zdanl/tcpcunt | 0 | 0| 
 | 20221128T13:22:36Z | Null | https://github.com/dbouidaine/Fuzzy-C-Means | 0 | 0| 
 | 20221128T12:48:38Z | Null | https://github.com/BCS21090011/TryToCreateAGraphAndFuzzyApp | 0 | 0| 
@@ -126,9 +127,7 @@
 | 20221128T12:20:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4451 | 1080| 
 | 20221128T11:26:06Z | Modular Highly Parallel Fuzzer | https://github.com/Cybergenik/hopper | 0 | 0| 
 | 20221128T08:28:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8082 | 1762| 
-| 20221128T02:56:39Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 67 | 22| 
 | 20221128T02:10:35Z | Null | https://github.com/eyexploit/echidna-fuzzer | 0 | 0| 
-| 20221128T02:05:33Z | Exemplo de teste utilizando fuzzy | https://github.com/LayssonENS/go-fuzzy-test | 0 | 0| 
 
 
 
