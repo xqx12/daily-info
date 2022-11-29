@@ -106,7 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221129T12:16:52Z | Self-made FUD crypter. Passes WD 100% | https://github.com/SilentFUD/SilentCrypterV1.5 | 1 | 0| 
+| 20221129T13:18:15Z | Self-made FUD crypter. Passes WD 100% | https://github.com/SilentFUD/SilentCrypterV1.5 | 2 | 0| 
 | 20221129T10:29:16Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7129 | 2055| 
 | 20221129T07:36:32Z | ICLR 2023 Workshop Backdoor Attacks and Defenses in Machine Learning (BANDS), https://iclr23-bands.github.io/ | https://github.com/ICLR23-BANDS/ICLR23-BANDS.github.io | 0 | 0| 
 | 20221129T05:09:33Z | UCEN HAXOR | https://github.com/UcenHaxor07/Webshell_Backdoor | 1 | 0| 
