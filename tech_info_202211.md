@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221129 | LNK文件导致的勒索攻击 | https://thedfirreport.com/2022/11/28/emotet-strikes-again-lnk-file-leads-to-domain-wide-ransomware/| 
+| 20221129 | Windows 漏洞利用缓解细节参考 | https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/exploit-protection-reference?view=o365-worldwide| 
+| 20221129 | Havoc C2 绕过 Defender For Endpoint 横向移动实战 | http://link.medium.com/7GwUnFncZub| 
+| 20221129 | peafl64: Windows 64位PE文件静态插桩工具 | https://github.com/Sentinel-One/peafl64| 
+| 20221129 | 星阑科技PortalLab的YApi远程命令执行漏洞分析，并提供了一款命令行扫描工具scalpel | http://paper.seebug.org/2028/| 
+| 20221129 | x86-64 上的 GCC 12.2.0 对UB行为的处理可能导致看上去无害的整数溢出漏洞变得危险 | https://www.reddit.com/r/programming/comments/z6f0ae/gcc_undefined_behaviors_are_getting_wild/| 
+| 20221129 | 动态分析Windows漏洞缓解技术之导入地址过滤 | https://wambui-ngige.medium.com/dynamic-analysis-of-windows-exploit-mitigations-import-address-filtering-16fc28029529| 
+| 20221129 | 基于污点分析技术的C/C++语言堆漏洞静态检测工具 | https://www.reddit.com/r/ReverseEngineering/comments/z6lb16/heap_detective_is_an_opensource_static_analysis/| 
+| 20221129 | ios16 内核内存破坏漏洞分析，可从APP默认沙箱直接触发 | http://securityonline.info/researcher-released-the-technical-details-for-cve-2022-32898-in-ios-16/| 
+| 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://sec.today/pulses/05c67cf3-89be-4b5c-a316-f121b66ca037/| 
+| 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://github.com/viaMover/contract-audit-reports/blob/main/Mover_Final_Report.pdf| 
 | 20221128 | 基于IO_FILE的高版本glibc利用链 | https://tttang.com/archive/1845/| 
 | 20221128 | 基于污点分析的静态分析被应用于堆漏洞检测 | https://github.com/CoolerVoid/heap_detective| 
 | 20221128 | 基于patch对TP-Link一处未初始化访问漏洞的分析和利用，并发现仍存在其他受此漏洞影响的固件版本。 | https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md| 
@@ -15,22 +26,12 @@
 | 20221128 | Python的格式化字符串如果攻击者可控的话，可能会导致信息泄漏。 | http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/| 
 | 20221128 | 介绍了Jackalope的基本使用方法，对Damn Vulnerable C Program中的示例程序进行模糊测试 | https://www.youtube.com/watch?v=rXbaHSXiCtg&feature=youtu.be| 
 | 20221128 | 详解JDK的Runtime.getRuntime().exec(String)的原理：会先将输入字符串以\x20\t\n\r\f进行split，之后再作为Process的argv进行命令执行。 | http://www.freebuf.com/vuls/350760.html| 
-| 20221128 | Sock5 反向代理工具 | https://github.com/Coldzer0/ReverseSock5Proxy| 
-| 20221128 | 攻击智能手表以使其显示自定义内容 | https://cybervelia.com/?p=1380| 
-| 20221128 | 用Jenkins来自动化构建红队工具 | https://http418infosec.com/offsecops-using-jenkins-for-red-team-tooling/| 
-| 20221128 | MITRE ATT&CK Version 12 新特性 | https://ahead.feedly.com/posts/introduction-to-mitre-attack-featuring-version-12-2022| 
-| 20221128 | Koxic 勒索软件在韩国传播 | http://paper.seebug.org/2027/| 
-| 20221128 | ThreatFox：开源威胁情报共享平台 | https://github.com/abusech/ThreatFox| 
-| 20221128 | THREATINT_PROCESS_SYSCALL_USAGE：Windows 23H2 引入新的 ETW Event 缓解漏洞利用 | https://windows-internals.com/an-end-to-kaslr-bypasses/| 
-| 20221128 | AWS AppSyncs的confused deputy problem漏洞的细节，该漏洞允许一个恶意租户通过AppSyncs的访问别的租户的资源 | https://thehackernews.com/2022/11/researchers-detail-appsync-cross-tenant.html| 
-| 20221128 | Chrome团队在Oilpan中开启了指针压缩以提升性能。 | https://v8.dev/blog/oilpan-pointer-compression| 
-| 20221125 | 浅谈JspWebshell之编码 | https://tttang.com/archive/1840/| 
-| 20221121 | ZK框架权限绕过导致R1Soft Server Backup Manager RCE并接管Agent | https://tttang.com/archive/1833/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221129 | 浅谈CVE-2022-22965漏洞成因（六） | https://www.sec-in.com/article/1798| 
 | 20221128 | AFL系模糊器中Havoc变异策略研究与改进 | https://mp.weixin.qq.com/s/A2Dk6WOZo7FZ_3bFRSsk-Q| 
 | 20221128 | NAUTILUS：面向语法的灰盒模糊测试方法 | https://mp.weixin.qq.com/s/l-dpLkrB_GaiBkp_YHnIXQ| 
 | 20221128 | 2022年中国安全技术成熟度曲线 | https://mp.weixin.qq.com/s/7nxdi3UlEcJXMi53gJOzSw| 
@@ -40,29 +41,28 @@
 | 20221127 | JAVA开发中涉及的基础安全问题和解决方法初探 | https://xz.aliyun.com/t/11890| 
 | 20221126 | CVE-2022-42920 BCEL 任意文件写漏洞 | https://xz.aliyun.com/t/11866| 
 | 20221126 | 美国开源软件安全评价方法体系分析 | https://mp.weixin.qq.com/s/q_R76IME0FnX0fwgS7R8Bw| 
-| 20221125 | 图视角下的信息抽取技术研究 | https://mp.weixin.qq.com/s/EnsnauMumycUFo_iSWoyXQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221129T12:58:59Z | CVE-2022-43369 | Null | https://github.com/sudoninja-noob/CVE-2022-43369 | | 
+| 20221129T12:56:13Z | CVE-2021-3493 | Null | https://github.com/fei9747/CVE-2021-3493 | | 
+| 20221129T11:35:27Z | CVE-2022-41412 | Null | https://github.com/renmizo/CVE-2022-41412 | | 
+| 20221129T09:56:08Z | CVE-2021-4034 | Null | https://github.com/fei9747/CVE-2021-4034 | | 
+| 20221129T04:29:29Z | CVE-2022-22965 | CVE-2022-22965 proof of concept | https://github.com/clemoregan/SSE4-CVE-2022-22965 | | 
+| 20221129T04:29:20Z | CVE-2021-33558 | CVE-2021-33558 POC | https://github.com/anldori/CVE-2021-33558 | | 
+| 20221129T02:52:58Z | CVE-2022-41413 | Null | https://github.com/renmizo/CVE-2022-41413 | | 
 | 20221129T02:30:37Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Adynervi/CVE-2022-3236-MASS-RCE | | 
 | 20221128T17:54:21Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
-| 20221128T14:38:12Z | CVE-2022-22965 | CVE-2022-22965 proof of concept | https://github.com/clemoregan/SSE4-CVE-2022-22965 | | 
 | 20221128T14:28:07Z | CVE-2022-22965 | Null | https://github.com/ClemExp/CVE-2022-22965-PoC | | 
-| 20221128T13:11:27Z | cve-2022-41352 | Zimbra <9.0.0.p27 RCE | https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce | | 
-| 20221128T09:23:41Z | CVE-2021-43258 | ChurchInfo 1.2.13-1.3.0 Remote Code Execution Exploit | https://github.com/MRvirusIR/CVE-2021-43258 | | 
-| 20221128T09:23:36Z | CVE-2022-22971 | Null | https://github.com/tchize/CVE-2022-22971 | | 
-| 20221128T09:23:26Z | CVE-2022-22963 | Null | https://github.com/dr6817/CVE-2022-22963 | | 
-| 20221128T03:50:10Z | CVE-2021-33558 | CVE-2021-33558 POC | https://github.com/anldori/CVE-2021-33558 | | 
-| 20221127T10:58:26Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221129T02:06:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9460 | 322| 
-| 20221129T01:48:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 598| 
+| 20221129T11:16:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9468 | 324| 
+| 20221129T09:50:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 598| 
 | 20221128T11:57:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 49| 
 | 20221128T05:36:33Z | Null | https://github.com/luckyjc8/logviewer_klee | 0 | 0| 
 | 20221128T03:16:02Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 12 | 1| 
@@ -76,46 +76,46 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221129T12:47:04Z | Created with StackBlitz ⚡️ | https://github.com/amirdahal/angular-ivyybm-s2etww | 0 | 0| 
+| 20221129T12:06:48Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 25 | 4| 
+| 20221129T08:14:29Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 6 | 3| 
 | 20221128T19:50:34Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 274 | 66| 
 | 20221128T15:48:44Z | Calumet S2EBPR full-scale pilot | https://github.com/mckfarm/calumet_s2ebpr | 0 | 0| 
 | 20221128T13:33:16Z | Null | https://github.com/wayline89/s2exo3 | 0 | 0| 
-| 20221128T08:38:41Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 25 | 4| 
-| 20221125T07:18:48Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 6 | 3| 
 | 20221124T12:21:32Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 83 | 45| 
 | 20221123T16:17:12Z | Repository del progetto di test automatici per i partner mancanti, aggiornato alla versione uiPath-non legacy.  | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_PM_2.0 | 0 | 0| 
 | 20221123T15:48:11Z |  Repository del progetto di test automatici per il partner BPB, aggiornato alla versione uiPath-non legacy. | https://github.com/AndreaMazzucchelliS2E/S2E_TestingAutomatico_BPB_2.0 | 0 | 0| 
 | 20221107T13:09:33Z | ( Code = GitHub = Jenkins = EC2 = Docker ) a simple DevOps project which will require My Codes to be pushed GitHub which will then be passed for continuous build to Jenkins and then deployed to Amazon EC2 and then to Docker for containerization | https://github.com/skills59/DevOps-s2e2 | 0 | 0| 
-| 20221107T09:16:04Z | The Chef symbolic execution platform, based off S2E | https://github.com/dslab-epfl/chef | 6 | 2| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221129T11:24:08Z | Network Enumeration And Post Exploitation | https://github.com/Bkmaxx/Neteye | 0 | 0| 
+| 20221129T10:58:29Z | Null | https://github.com/gbrsh/kernel_exploits | 0 | 0| 
+| 20221129T10:51:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 553 | 144| 
+| 20221129T10:15:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4753 | 694| 
+| 20221129T10:02:56Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12385 | 2129| 
+| 20221129T09:34:06Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 366 | 19| 
+| 20221129T09:30:09Z | XSS Exploitation Tool | https://github.com/diksha-chhabra/kill-xss | 0 | 0| 
+| 20221129T08:48:29Z | Null | https://github.com/HexHive/Evocatio | 19 | 1| 
 | 20221129T02:22:19Z | 🔫 Valorant Cheat External Public Relesase , Aimbot + Esp + Skin Changers  | https://github.com/Fnoberz/Valorant.External | 48 | 25| 
 | 20221129T01:22:24Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 114 | 11| 
-| 20221129T01:09:18Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2n | 1 | 0| 
-| 20221129T01:07:45Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2n | 1 | 0| 
-| 20221129T01:06:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2n | 1 | 0| 
-| 20221129T00:24:09Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/ahmicstasiow/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
-| 20221129T00:21:37Z | Useful functions for exploits | https://github.com/NinetyUnderScore/ExLib | 0 | 0| 
-| 20221129T00:21:29Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/ahmicstasiow/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
-| 20221129T00:21:13Z | Create a .EXE archive from your file or convert an existing archive to the .XLS format with this Silent XLS Exploit Builder generator. You can either upload your file or provide us a URL that will point to a file or archive and the conversion to the .XLS format will start right away. | https://github.com/0x414141414/SILENT-XLL-EXCEL-EXPLOIT | 0 | 0| 
-| 20221128T22:14:09Z | Null | https://github.com/Diana-fv/API_Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221129T12:16:52Z | Self-made FUD crypter. Passes WD 100% | https://github.com/SilentFUD/SilentCrypterV1.5 | 1 | 0| 
+| 20221129T10:29:16Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7129 | 2055| 
+| 20221129T07:36:32Z | ICLR 2023 Workshop Backdoor Attacks and Defenses in Machine Learning (BANDS), https://iclr23-bands.github.io/ | https://github.com/ICLR23-BANDS/ICLR23-BANDS.github.io | 0 | 0| 
+| 20221129T05:09:33Z | UCEN HAXOR | https://github.com/UcenHaxor07/Webshell_Backdoor | 1 | 0| 
 | 20221128T23:07:30Z | Hello/hi to all those who you see this repository!                                I share with you this ETH drainer for free (please use it for educational purposes), I am a teacher and I prefer to share my knowledge than to take profit from it, this one has no backdoors and is not obfuscated you can check it by yourself, I hope you will enjoy it ! | https://github.com/G2Ski/ETH-DrainerV4 | 0 | 0| 
-| 20221128T22:35:05Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7127 | 2055| 
 | 20221128T22:18:39Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 147 | 27| 
 | 20221128T16:38:08Z | Defending Against Backdoor Attacks by Layer-wise Feature Analysis | https://github.com/anonymized1/DBALFA | 0 | 0| 
 | 20221128T15:36:25Z | Creating a backdoor trojan to connect Ubuntu user to Kali Linux | https://github.com/sallyeo/ethicalHack | 0 | 0| 
 | 20221128T14:16:42Z | Null | https://github.com/Timothek2112/LastBackdoor | 0 | 0| 
 | 20221128T13:39:21Z | Null | https://github.com/Xoma-MDK/Backdoor-py | 0 | 0| 
-| 20221128T12:54:51Z | Null | https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack | 2 | 0| 
-| 20221128T12:53:22Z | Natural Backdoor Dataset, inclouding t-shirt, hat, apple, glass | https://github.com/backdoorrrr/Natural-Backdoor-Dataset | 0 | 0| 
-| 20221128T02:32:00Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 606 | 129| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221129T02:38:43Z | Null | https://github.com/vsviryd777/fuzzbuzz1 | 0 | 0| 
-| 20221129T02:35:25Z | Null | https://github.com/Tiltedtable/fuzzy-lamp | 0 | 0| 
-| 20221129T01:55:37Z | Null | https://github.com/wolfejw86/fuzzy-table | 0 | 0| 
-| 20221129T01:53:10Z | Null | https://github.com/morgankn/fuzzy-funicular | 0 | 0| 
-| 20221129T01:05:54Z | Null | https://github.com/stanmanga79/fuzzy-octo-dollop-project-11282022 | 0 | 0| 
-| 20221129T00:49:33Z | Implementação de controlador Fuzzy - Desafio da disciplina Introdução à Inteligência Artificial pelo mestrado do Programa de Pós-Graduação em Mecatrônica da Universidade Federal da Bahia. | https://github.com/jhaidan42/controlador_fuzzy | 0 | 0| 
-| 20221128T22:45:59Z | Null | https://github.com/mateus-ceccagno/futebol-americano-fuzzy | 0 | 0| 
-| 20221128T14:54:04Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 77 | 22| 
-| 20221128T13:45:39Z | TCP 3way handshake fuzzer in Python.312 with Scapy | https://github.com/zdanl/tcpcunt | 0 | 0| 
-| 20221128T13:22:36Z | Null | https://github.com/dbouidaine/Fuzzy-C-Means | 0 | 0| 
+| 20221129T12:35:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8087 | 1761| 
+| 20221129T12:19:19Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1316 | 96| 
+| 20221129T11:57:23Z | Null | https://github.com/Ace41286/fuzzy-tribble | 0 | 0| 
+| 20221129T11:40:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1177 | 152| 
+| 20221129T11:05:21Z | Null | https://github.com/VarunDmalla/FuzzyLogicBMS | 0 | 0| 
+| 20221129T10:35:01Z | Verilog Fuzzer to test the major simulators and sythesisers by generating random, valid Verilog. | https://github.com/ymherklotz/verismith | 76 | 5| 
+| 20221129T09:58:11Z | Null | https://github.com/michal-kosiba/Fuzzy-Climate-Simulator-for-terrariums | 0 | 0| 
+| 20221129T09:56:28Z | Null | https://github.com/j0si/fuzzy_sanctions | 1 | 0| 
+| 20221129T09:51:17Z | My personal wordlist for the fuzzing phases during the pentetration tests. | https://github.com/AlessandraZullo/SecurityBoard | 3 | 0| 
+| 20221129T09:44:12Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 217 | 30| 
 
 
 
