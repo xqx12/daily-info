@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221129T13:33:59Z | Null | https://github.com/HexHive/Evocatio | 20 | 1| 
 | 20221129T13:30:45Z | Exploitation Base de donnée | https://github.com/Zipen999/sae-2.04 | 3 | 0| 
 | 20221129T13:23:35Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 285 | 60| 
 | 20221129T13:21:28Z | Null | https://github.com/rulopelon/PythonBreachExploit | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20221129T10:51:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 553 | 144| 
 | 20221129T10:15:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4753 | 695| 
 | 20221129T10:02:56Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12385 | 2129| 
-| 20221129T09:34:06Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 366 | 19| 
 
 
 # backdoor on Github 推荐
