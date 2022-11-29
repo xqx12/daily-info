@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221129T13:05:14Z | CVE-2022-45217 | Null | https://github.com/sudoninja-noob/CVE-2022-45217 | | 
 | 20221129T12:58:59Z | CVE-2022-43369 | Null | https://github.com/sudoninja-noob/CVE-2022-43369 | | 
 | 20221129T12:56:13Z | CVE-2021-3493 | Null | https://github.com/fei9747/CVE-2021-3493 | | 
 | 20221129T11:35:27Z | CVE-2022-41412 | Null | https://github.com/renmizo/CVE-2022-41412 | | 
@@ -55,7 +56,6 @@
 | 20221129T02:52:58Z | CVE-2022-41413 | Null | https://github.com/renmizo/CVE-2022-41413 | | 
 | 20221129T02:30:37Z | CVE-2022-3236 | Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool | https://github.com/Adynervi/CVE-2022-3236-MASS-RCE | | 
 | 20221128T17:54:21Z | CVE-2020-0796 | PoC for triggering buffer overflow via CVE-2020-0796 | https://github.com/eerykitty/CVE-2020-0796-PoC | | 
-| 20221128T14:28:07Z | CVE-2022-22965 | Null | https://github.com/ClemExp/CVE-2022-22965-PoC | | 
 
 
 # klee on Github 推荐

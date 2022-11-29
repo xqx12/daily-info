@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221129T13:05:14Z | CVE-2022-45217 | Null | https://github.com/sudoninja-noob/CVE-2022-45217 | | 
 | 20221129T12:58:59Z | CVE-2022-43369 | Null | https://github.com/sudoninja-noob/CVE-2022-43369 | | 
 | 20221129T12:56:13Z | CVE-2021-3493 | Null | https://github.com/fei9747/CVE-2021-3493 | | 
 | 20221129T11:35:27Z | CVE-2022-41412 | Null | https://github.com/renmizo/CVE-2022-41412 | | 
