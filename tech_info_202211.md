@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221130T01:16:04Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 286 | 60| 
+| 20221130T01:16:04Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 286 | 61| 
 | 20221129T22:43:36Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 515 | 697| 
 | 20221129T21:57:30Z | Binary Exploitation Code | https://github.com/Revi1337/SystemHacking-ExploitCode-POC | 0 | 0| 
 | 20221129T20:55:34Z | Demonstration of a performance issue with parsing long invalid queries that could be exploited for a DoS attack | https://github.com/stellanor/absinthe_parser_perf_demo | 0 | 0| 
@@ -151,6 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221130T01:18:08Z | Calculates, using fuzzy logic, the risk of a car-pedestrian collision occurring. | https://github.com/GuilhermeViannaMoura/PedestrianCollisionFuzzyLogic | 0 | 0| 
 | 20221130T01:15:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8093 | 1761| 
 | 20221130T00:48:46Z | String search and Fuzzy String Matching algorithms. | https://github.com/vmdharan/fuzzy-strings | 0 | 0| 
 | 20221130T00:40:16Z | Null | https://github.com/woodwilliam/fuzzywuzzy | 0 | 0| 
@@ -160,7 +161,6 @@
 | 20221129T18:20:44Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 20 | 7| 
 | 20221129T13:59:30Z | Null | https://github.com/nMaax/fuzzy-dollop | 0 | 0| 
 | 20221129T13:50:32Z | a smart DNS response-guided subdomain fuzzer | https://github.com/elceef/subzuf | 36 | 2| 
-| 20221129T13:43:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1178 | 152| 
 
 
 
