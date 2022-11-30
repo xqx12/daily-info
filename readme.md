@@ -47,6 +47,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221130T13:54:26Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 115 | 11| 
+| 20221130T13:47:09Z | Chromium javascript engine n-day exploits. | https://github.com/anvbis/chromium.js-engine.n-days | 1 | 0| 
+| 20221130T13:44:33Z | Vulnerable C application to practice reverse engineering & exploit development for courses like the EXP-312 / OSED. | https://github.com/vvinoth/SatraAcademy | 0 | 0| 
 | 20221130T13:22:50Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 120 | 27| 
 | 20221130T13:19:18Z | This is where I will put my exploits made during the studies. | https://github.com/shwzr/study | 0 | 1| 
 | 20221130T13:11:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3801 | 468| 
@@ -54,9 +57,6 @@
 | 20221130T12:29:55Z | YApi boolean-based injection exploit. | https://github.com/Anthem-whisper/YApi-Exploit | 37 | 7| 
 | 20221130T12:06:04Z | Security Research and PoC | https://github.com/sschakraborty/SecurityPOC | 0 | 0| 
 | 20221130T12:05:20Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5082 | 707| 
-| 20221130T11:12:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-review-exploit | 0 | 0| 
-| 20221130T10:03:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-rGzD7-exploit-check | 0 | 0| 
-| 20221130T09:56:38Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 115 | 17| 
 
 
 # backdoor on Github 推荐
