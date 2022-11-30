@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221130T13:22:50Z | vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl. | https://github.com/c99tn/vMass | 120 | 27| 
 | 20221130T13:19:18Z | This is where I will put my exploits made during the studies. | https://github.com/shwzr/study | 0 | 1| 
 | 20221130T13:11:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3801 | 468| 
 | 20221130T12:51:28Z | There are many ways to attack a smart contract to make it unusable.  One exploit we introduce here is denial of service by making the function to send Ether fail  and the other way to prevent this is to allow the users to withdraw their Ether instead of sending it. | https://github.com/MoMih2022/Attack-in-solidity-Denial-of-service | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20221130T11:12:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-review-exploit | 0 | 0| 
 | 20221130T10:03:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-rGzD7-exploit-check | 0 | 0| 
 | 20221130T08:48:24Z | Exploits written. | https://github.com/risesecurity/exploits | 0 | 0| 
-| 20221130T08:48:17Z | Exploits written. | https://github.com/rcvalle/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
