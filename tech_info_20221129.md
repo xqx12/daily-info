@@ -18,6 +18,7 @@
 | 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://sec.today/pulses/05c67cf3-89be-4b5c-a316-f121b66ca037/| 
 | 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://github.com/viaMover/contract-audit-reports/blob/main/Mover_Final_Report.pdf| 
 | 20221129 | 针对雄迈IoT设备的漏洞利用 | https://vulncheck.com/blog/xiongmai-iot-exploitation| 
+| 20221129 | 零知识证明实现不当而被绕过的案例 | http://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/| 
 
 
 # 安全维基 推荐

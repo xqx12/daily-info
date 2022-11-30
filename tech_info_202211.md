@@ -18,6 +18,7 @@
 | 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://sec.today/pulses/05c67cf3-89be-4b5c-a316-f121b66ca037/| 
 | 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://github.com/viaMover/contract-audit-reports/blob/main/Mover_Final_Report.pdf| 
 | 20221129 | 针对雄迈IoT设备的漏洞利用 | https://vulncheck.com/blog/xiongmai-iot-exploitation| 
+| 20221129 | 零知识证明实现不当而被绕过的案例 | http://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/| 
 | 20221128 | 基于IO_FILE的高版本glibc利用链 | https://tttang.com/archive/1845/| 
 | 20221128 | 基于污点分析的静态分析被应用于堆漏洞检测 | https://github.com/CoolerVoid/heap_detective| 
 | 20221128 | 基于patch对TP-Link一处未初始化访问漏洞的分析和利用，并发现仍存在其他受此漏洞影响的固件版本。 | https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md| 
@@ -25,7 +26,6 @@
 | 20221128 | 利用vBulletin的一个N-day对象注入漏洞实现任意PHP代码执行。 | https://www.reddit.com/r/netsec/comments/z5cql6/exploiting_an_nday_vbulletin_php_object_injection/| 
 | 20221128 | Kubeeye，一款Kubernetes漏洞检测工具，能够给出修复建议，支持客制化。 | https://www.kitploit.com/2022/11/kubeeye-tool-to-find-various-problems.html| 
 | 20221128 | Python的格式化字符串如果攻击者可控的话，可能会导致信息泄漏。 | http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/| 
-| 20221128 | 介绍了Jackalope的基本使用方法，对Damn Vulnerable C Program中的示例程序进行模糊测试 | https://www.youtube.com/watch?v=rXbaHSXiCtg&feature=youtu.be| 
 
 
 # 安全维基 推荐
