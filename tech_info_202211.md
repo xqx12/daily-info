@@ -17,6 +17,7 @@
 | 20221129 | ios16 内核内存破坏漏洞分析，可从APP默认沙箱直接触发 | http://securityonline.info/researcher-released-the-technical-details-for-cve-2022-32898-in-ios-16/| 
 | 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://sec.today/pulses/05c67cf3-89be-4b5c-a316-f121b66ca037/| 
 | 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://github.com/viaMover/contract-audit-reports/blob/main/Mover_Final_Report.pdf| 
+| 20221129 | 针对雄迈IoT设备的漏洞利用 | https://vulncheck.com/blog/xiongmai-iot-exploitation| 
 | 20221128 | 基于IO_FILE的高版本glibc利用链 | https://tttang.com/archive/1845/| 
 | 20221128 | 基于污点分析的静态分析被应用于堆漏洞检测 | https://github.com/CoolerVoid/heap_detective| 
 | 20221128 | 基于patch对TP-Link一处未初始化访问漏洞的分析和利用，并发现仍存在其他受此漏洞影响的固件版本。 | https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md| 
@@ -25,7 +26,6 @@
 | 20221128 | Kubeeye，一款Kubernetes漏洞检测工具，能够给出修复建议，支持客制化。 | https://www.kitploit.com/2022/11/kubeeye-tool-to-find-various-problems.html| 
 | 20221128 | Python的格式化字符串如果攻击者可控的话，可能会导致信息泄漏。 | http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/| 
 | 20221128 | 介绍了Jackalope的基本使用方法，对Damn Vulnerable C Program中的示例程序进行模糊测试 | https://www.youtube.com/watch?v=rXbaHSXiCtg&feature=youtu.be| 
-| 20221128 | 详解JDK的Runtime.getRuntime().exec(String)的原理：会先将输入字符串以\x20\t\n\r\f进行split，之后再作为Process的argv进行命令执行。 | http://www.freebuf.com/vuls/350760.html| 
 
 
 # 安全维基 推荐

@@ -17,6 +17,7 @@
 | 20221129 | ios16 内核内存破坏漏洞分析，可从APP默认沙箱直接触发 | http://securityonline.info/researcher-released-the-technical-details-for-cve-2022-32898-in-ios-16/| 
 | 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://sec.today/pulses/05c67cf3-89be-4b5c-a316-f121b66ca037/| 
 | 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://github.com/viaMover/contract-audit-reports/blob/main/Mover_Final_Report.pdf| 
+| 20221129 | 针对雄迈IoT设备的漏洞利用 | https://vulncheck.com/blog/xiongmai-iot-exploitation| 
 
 
 # 安全维基 推荐
