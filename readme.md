@@ -47,8 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221130T13:03:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3800 | 468| 
-| 20221130T12:58:15Z | This is where I will put my exploits made during the studies. | https://github.com/shwzr/study | 0 | 1| 
+| 20221130T13:19:18Z | This is where I will put my exploits made during the studies. | https://github.com/shwzr/study | 0 | 1| 
+| 20221130T13:11:14Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3801 | 468| 
 | 20221130T12:51:28Z | There are many ways to attack a smart contract to make it unusable.  One exploit we introduce here is denial of service by making the function to send Ether fail  and the other way to prevent this is to allow the users to withdraw their Ether instead of sending it. | https://github.com/MoMih2022/Attack-in-solidity-Denial-of-service | 0 | 0| 
 | 20221130T12:29:55Z | YApi boolean-based injection exploit. | https://github.com/Anthem-whisper/YApi-Exploit | 37 | 7| 
 | 20221130T12:06:04Z | Security Research and PoC | https://github.com/sschakraborty/SecurityPOC | 0 | 0| 
