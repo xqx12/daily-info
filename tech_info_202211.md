@@ -151,7 +151,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221130T13:54:20Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 774 | 46| 
+| 20221130T13:58:18Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 776 | 46| 
 | 20221130T13:32:45Z | Null | https://github.com/Hyxogen/minishell-fuzz | 0 | 0| 
 | 20221130T13:31:39Z | Null | https://github.com/actions-marketplace-validations/FuzzyMonkeyCo_setup-monkey | 0 | 0| 
 | 20221130T13:31:18Z | Null | https://github.com/actions-marketplace-validations/fuzzbuzz_pr-comment | 0 | 0| 
