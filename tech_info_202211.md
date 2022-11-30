@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221130T02:37:29Z | GitOps Repository | https://github.com/hacbs-cqi/test-application-N6juw-inform-exploit | 0 | 0| 
 | 20221130T02:29:52Z | Null | https://github.com/fei9747/linux-exploit-suggester | 0 | 0| 
 | 20221130T01:30:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1j | 1 | 0| 
 | 20221130T01:29:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1j | 1 | 0| 
@@ -100,7 +101,6 @@
 | 20221129T22:43:36Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 515 | 697| 
 | 20221129T21:57:30Z | Binary Exploitation Code | https://github.com/Revi1337/SystemHacking-ExploitCode-POC | 0 | 0| 
 | 20221129T20:55:34Z | Demonstration of a performance issue with parsing long invalid queries that could be exploited for a DoS attack | https://github.com/stellanor/absinthe_parser_perf_demo | 0 | 0| 
-| 20221129T20:53:32Z | Null | https://github.com/dannyallover/exploit_C_programs | 0 | 0| 
 
 
 # backdoor on Github 推荐
