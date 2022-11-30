@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221130T13:04:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4453 | 1080| 
 | 20221130T12:57:39Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 4 | 0| 
 | 20221130T11:58:51Z | Null | https://github.com/heisenbergpxh/FuzzyQubControl | 0 | 0| 
 | 20221130T11:22:49Z | Null | https://github.com/silmagarciamarquez/fuzzy-fuzz | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20221130T10:20:10Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 14 | 9| 
 | 20221130T10:11:34Z | LYFE  | https://github.com/Sameertech1/fuzzy-garbanzo | 0 | 0| 
 | 20221130T02:09:07Z | String search and Fuzzy String Matching algorithms. | https://github.com/vmdharan/fuzzy-strings | 0 | 0| 
-| 20221130T01:18:08Z | Calculates, using fuzzy logic, the risk of a car-pedestrian collision occurring. | https://github.com/GuilhermeViannaMoura/PedestrianCollisionFuzzyLogic | 0 | 0| 
 
 
 
