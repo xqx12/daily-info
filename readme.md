@@ -31,7 +31,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221129T18:59:03Z | CVE-2022-34721 | 流血你(BLEED YOU) A critical RCE vulnerability in Windows Internet Key Exchange (IKE) Protocol Extensions | https://github.com/sandpix/CVE-2022-34721-RCE-POC | | 
 | 20221129T13:05:14Z | CVE-2022-45217 | Null | https://github.com/sudoninja-noob/CVE-2022-45217 | | 
 | 20221129T12:58:59Z | CVE-2022-43369 | Null | https://github.com/sudoninja-noob/CVE-2022-43369 | | 
 | 20221129T12:56:13Z | CVE-2021-3493 | Null | https://github.com/fei9747/CVE-2021-3493 | | 
