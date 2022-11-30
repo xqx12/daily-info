@@ -97,10 +97,10 @@
 | 20221130T12:06:04Z | Security Research and PoC | https://github.com/sschakraborty/SecurityPOC | 0 | 0| 
 | 20221130T12:05:20Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5082 | 707| 
 | 20221130T11:12:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-review-exploit | 0 | 0| 
+| 20221130T10:59:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3799 | 468| 
 | 20221130T10:03:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-rGzD7-exploit-check | 0 | 0| 
 | 20221130T08:48:24Z | Exploits written. | https://github.com/risesecurity/exploits | 0 | 0| 
 | 20221130T08:48:17Z | Exploits written. | https://github.com/rcvalle/exploits | 0 | 0| 
-| 20221130T06:29:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 554 | 144| 
 
 
 # backdoor on Github 推荐
@@ -121,10 +121,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221130T03:54:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2114 | 599| 
 | 20221129T16:00:46Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 81 | 17| 
 | 20221129T10:33:59Z | Gas optimizer based on pattern matching and symbolic execution | https://github.com/VelitasDao/Himari | 0 | 0| 
 | 20221129T10:30:41Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 181 | 44| 
-| 20221129T09:50:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 598| 
 | 20221128T16:22:50Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 26 | 5| 
 | 20221128T16:22:44Z | Compiled Sail ISA snapshots for the Isla symbolic execution tool | https://github.com/rems-project/isla-snapshots | 2 | 1| 
 | 20221128T14:41:04Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 34 | 21| 
