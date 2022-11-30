@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221130 | 宏碁修复了一个固件漏洞，攻击者利用该漏洞可禁用 Secure Boot | https://thehackernews.com/2022/11/new-flaw-in-acer-laptops-could-let.html| 
+| 20221130 | Linux内核蓝牙模块UAF漏洞细节（CVE-2022-42896），可用于远程代码执行。 | https://github.com/google/security-research/security/advisories/GHSA-pf87-6c9q-jvm4| 
+| 20221130 | Linux内核蓝牙模块信息泄漏漏洞细节（CVE-2022-42895），可用于远程泄漏内核地址。 | https://github.com/google/security-research/security/advisories/GHSA-vccx-8h74-2357| 
+| 20221130 | DNSSEC 的响应机制会泄漏字典序排列的前后可用子域名称，利用该机制可枚举存在的子域名 | http://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/| 
 | 20221129 | LNK文件导致的勒索攻击 | https://thedfirreport.com/2022/11/28/emotet-strikes-again-lnk-file-leads-to-domain-wide-ransomware/| 
 | 20221129 | Windows 漏洞利用缓解细节参考 | https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/exploit-protection-reference?view=o365-worldwide| 
 | 20221129 | Havoc C2 绕过 Defender For Endpoint 横向移动实战 | http://link.medium.com/7GwUnFncZub| 
@@ -22,10 +26,6 @@
 | 20221128 | 基于IO_FILE的高版本glibc利用链 | https://tttang.com/archive/1845/| 
 | 20221128 | 基于污点分析的静态分析被应用于堆漏洞检测 | https://github.com/CoolerVoid/heap_detective| 
 | 20221128 | 基于patch对TP-Link一处未初始化访问漏洞的分析和利用，并发现仍存在其他受此漏洞影响的固件版本。 | https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md| 
-| 20221128 | Chrome浏览器Blink组件UAF漏洞（CVE-2022-3654）细节，由project-zero的glazunov发现，是由于CVE-2022-3199漏洞错误修复导致的补丁绕过。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2358| 
-| 20221128 | 利用vBulletin的一个N-day对象注入漏洞实现任意PHP代码执行。 | https://www.reddit.com/r/netsec/comments/z5cql6/exploiting_an_nday_vbulletin_php_object_injection/| 
-| 20221128 | Kubeeye，一款Kubernetes漏洞检测工具，能够给出修复建议，支持客制化。 | https://www.kitploit.com/2022/11/kubeeye-tool-to-find-various-problems.html| 
-| 20221128 | Python的格式化字符串如果攻击者可控的话，可能会导致信息泄漏。 | http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/| 
 
 
 # 安全维基 推荐
@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221130T02:21:51Z | CVE-2022-34721 | 流血你(BLEED YOU) A critical RCE vulnerability in Windows Internet Key Exchange (IKE) Protocol Extensions | https://github.com/sandpix/CVE-2022-34721-RCE-POC | | 
+| 20221130T12:57:44Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
+| 20221130T12:46:08Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
+| 20221130T12:08:51Z | CVE-2022-1388 | Null | https://github.com/revanmalang/CVE-2022-1388 | | 
+| 20221130T08:12:53Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
+| 20221130T06:11:36Z | CVE-2022-43369 | Null | https://github.com/sudoninja-noob/CVE-2022-43369 | | 
+| 20221130T06:11:34Z | CVE-2022-45217 | Null | https://github.com/sudoninja-noob/CVE-2022-45217 | | 
+| 20221130T06:11:29Z | CVE-2022-34721 | 流血你(BLEED YOU) A critical RCE vulnerability in Windows Internet Key Exchange (IKE) Protocol Extensions | https://github.com/sandpix/CVE-2022-34721-RCE-POC | | 
+| 20221130T06:04:21Z | CVE-2021-3493 | Null | https://github.com/fei9747/CVE-2021-3493 | | 
 | 20221130T00:41:09Z | CVE-2020-0796 | Null | https://github.com/NetJBS/-CVE-2020-0796-RCE | | 
-| 20221129T13:05:14Z | CVE-2022-45217 | Null | https://github.com/sudoninja-noob/CVE-2022-45217 | | 
-| 20221129T12:58:59Z | CVE-2022-43369 | Null | https://github.com/sudoninja-noob/CVE-2022-43369 | | 
-| 20221129T12:56:13Z | CVE-2021-3493 | Null | https://github.com/fei9747/CVE-2021-3493 | | 
 | 20221129T11:35:27Z | CVE-2022-41412 | Null | https://github.com/renmizo/CVE-2022-41412 | | 
-| 20221129T09:56:08Z | CVE-2021-4034 | Null | https://github.com/fei9747/CVE-2021-4034 | | 
-| 20221129T04:29:29Z | CVE-2022-22965 | CVE-2022-22965 proof of concept | https://github.com/clemoregan/SSE4-CVE-2022-22965 | | 
-| 20221129T04:29:20Z | CVE-2021-33558 | CVE-2021-33558 POC | https://github.com/anldori/CVE-2021-33558 | | 
-| 20221129T02:52:58Z | CVE-2022-41413 | Null | https://github.com/renmizo/CVE-2022-41413 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221130T02:35:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9471 | 323| 
-| 20221129T09:50:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 598| 
+| 20221130T12:22:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9477 | 324| 
+| 20221130T07:47:52Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 149 | 1| 
+| 20221130T03:54:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2114 | 599| 
 | 20221128T11:57:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 268 | 49| 
 | 20221128T05:36:33Z | Null | https://github.com/luckyjc8/logviewer_klee | 0 | 0| 
 | 20221128T03:16:02Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 12 | 1| 
-| 20221127T12:27:03Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 147 | 1| 
 | 20221127T12:16:35Z | Config files for my GitHub profile. | https://github.com/KleeSup/KleeSup | 0 | 0| 
 | 20221127T04:19:59Z | हार्ड ड्राइव क्लीनर - चयनित हार्ड ड्राइव पर स्थान साफ़ करने के लिए PowerShell स्क्रिप्ट। | https://github.com/jimrtyler/hi-haard-draiv-kleenar | 0 | 0| 
 | 20221126T15:22:50Z | Null | https://github.com/AnnaKopejkina/KLEE | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221130T02:37:29Z | GitOps Repository | https://github.com/hacbs-cqi/test-application-N6juw-inform-exploit | 0 | 0| 
-| 20221130T02:29:52Z | Null | https://github.com/fei9747/linux-exploit-suggester | 0 | 0| 
-| 20221130T01:30:05Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1j | 1 | 0| 
-| 20221130T01:29:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1j | 1 | 0| 
-| 20221130T01:28:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1j | 1 | 0| 
-| 20221130T01:23:19Z | Comparison and implementation of various parallel versions of the k-means clustering algorithm: in addition to the sequential version, implementations have been made that exploit the parallelism of CPUs and GPUs through Omp and CUDA programming languages and through multithreading. | https://github.com/divanoLetto/Parallel_Computing_Kmeans_Omp_CUDA | 0 | 0| 
-| 20221130T01:16:04Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 286 | 61| 
-| 20221129T22:43:36Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 515 | 697| 
-| 20221129T21:57:30Z | Binary Exploitation Code | https://github.com/Revi1337/SystemHacking-ExploitCode-POC | 0 | 0| 
-| 20221129T20:55:34Z | Demonstration of a performance issue with parsing long invalid queries that could be exploited for a DoS attack | https://github.com/stellanor/absinthe_parser_perf_demo | 0 | 0| 
+| 20221130T12:58:15Z | This is where I will put my exploits made during the studies. | https://github.com/shwzr/study | 0 | 1| 
+| 20221130T12:51:28Z | There are many ways to attack a smart contract to make it unusable.  One exploit we introduce here is denial of service by making the function to send Ether fail  and the other way to prevent this is to allow the users to withdraw their Ether instead of sending it. | https://github.com/MoMih2022/Attack-in-solidity-Denial-of-service | 0 | 0| 
+| 20221130T12:29:55Z | YApi boolean-based injection exploit. | https://github.com/Anthem-whisper/YApi-Exploit | 37 | 7| 
+| 20221130T12:06:04Z | Security Research and PoC | https://github.com/sschakraborty/SecurityPOC | 0 | 0| 
+| 20221130T12:05:20Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5082 | 707| 
+| 20221130T11:12:51Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-iBAF4-review-exploit | 0 | 0| 
+| 20221130T10:03:12Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/-rGzD7-exploit-check | 0 | 0| 
+| 20221130T08:48:24Z | Exploits written. | https://github.com/risesecurity/exploits | 0 | 0| 
+| 20221130T08:48:17Z | Exploits written. | https://github.com/rcvalle/exploits | 0 | 0| 
+| 20221130T06:29:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 554 | 144| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221130T12:59:35Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
+| 20221130T12:03:09Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM | 2 | 0| 
+| 20221130T06:33:54Z | ICLR 2023 Workshop Backdoor Attacks and Defenses in Machine Learning (BANDS), https://iclr23-bands.github.io/ | https://github.com/ICLR23-BANDS/ICLR23-BANDS.github.io | 2 | 0| 
 | 20221129T21:14:26Z | Null | https://github.com/Nsidave/backdoor | 0 | 0| 
-| 20221129T20:59:18Z | ICLR 2023 Workshop Backdoor Attacks and Defenses in Machine Learning (BANDS), https://iclr23-bands.github.io/ | https://github.com/ICLR23-BANDS/ICLR23-BANDS.github.io | 1 | 0| 
 | 20221129T19:26:01Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7131 | 2055| 
 | 20221129T19:18:23Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 42 | 18| 
 | 20221129T19:14:27Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3lemachus/Villain | 0 | 0| 
 | 20221129T14:26:35Z | Null | https://github.com/enzocardeal/backdoor-playground | 0 | 0| 
 | 20221129T13:18:15Z | Self-made FUD crypter. Passes WD 100% | https://github.com/SilentFUD/SilentCrypterV1.5 | 2 | 0| 
 | 20221129T05:09:33Z | UCEN HAXOR | https://github.com/UcenHaxor07/Webshell_Backdoor | 1 | 0| 
-| 20221128T23:07:30Z | Hello/hi to all those who you see this repository!                                I share with you this ETH drainer for free (please use it for educational purposes), I am a teacher and I prefer to share my knowledge than to take profit from it, this one has no backdoors and is not obfuscated you can check it by yourself, I hope you will enjoy it ! | https://github.com/G2Ski/ETH-DrainerV4 | 0 | 0| 
-| 20221128T22:18:39Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 147 | 27| 
 
 
 # symbolic execution on Github 推荐
@@ -151,16 +151,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221130T12:57:39Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 4 | 0| 
+| 20221130T11:58:51Z | Null | https://github.com/heisenbergpxh/FuzzyQubControl | 0 | 0| 
+| 20221130T11:22:49Z | Null | https://github.com/silmagarciamarquez/fuzzy-fuzz | 0 | 0| 
+| 20221130T11:09:55Z | Null | https://github.com/silmagarciamarquez/fuzzy-robot | 0 | 0| 
+| 20221130T10:47:51Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 112 | 8| 
+| 20221130T10:34:14Z | Null | https://github.com/bhardwajankur1008/fuzzy-computing-machine | 0 | 0| 
+| 20221130T10:20:10Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 14 | 9| 
+| 20221130T10:11:34Z | LYFE  | https://github.com/Sameertech1/fuzzy-garbanzo | 0 | 0| 
 | 20221130T02:09:07Z | String search and Fuzzy String Matching algorithms. | https://github.com/vmdharan/fuzzy-strings | 0 | 0| 
 | 20221130T01:18:08Z | Calculates, using fuzzy logic, the risk of a car-pedestrian collision occurring. | https://github.com/GuilhermeViannaMoura/PedestrianCollisionFuzzyLogic | 0 | 0| 
-| 20221130T01:15:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8093 | 1761| 
-| 20221130T00:40:16Z | Null | https://github.com/woodwilliam/fuzzywuzzy | 0 | 0| 
-| 20221130T00:24:16Z | Null | https://github.com/Chiedoziem/fuzzy-fiesta | 0 | 0| 
-| 20221129T23:36:09Z | Null | https://github.com/turbocanary/turbotest_mb2kyjzi_jyk8fuzz | 0 | 0| 
-| 20221129T22:39:55Z | incog.dev recreation | https://github.com/DC0CD/fuzzy-meme.github.io | 0 | 0| 
-| 20221129T18:20:44Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 20 | 7| 
-| 20221129T13:59:30Z | Null | https://github.com/nMaax/fuzzy-dollop | 0 | 0| 
-| 20221129T13:50:32Z | a smart DNS response-guided subdomain fuzzer | https://github.com/elceef/subzuf | 36 | 2| 
 
 
 
