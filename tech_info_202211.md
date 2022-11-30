@@ -121,6 +121,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221129T16:00:46Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 81 | 17| 
 | 20221129T10:33:59Z | Gas optimizer based on pattern matching and symbolic execution | https://github.com/VelitasDao/Himari | 0 | 0| 
 | 20221129T10:30:41Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 181 | 44| 
 | 20221129T09:50:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 598| 
@@ -129,8 +130,7 @@
 | 20221128T14:41:04Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 34 | 21| 
 | 20221128T11:36:15Z | Simple interpreter and symbolic executor designed for fast prototyping of symbolic execution algorithms. Cloned from https://gitlab.fi.muni.cz/xchalup4/slowbeast | https://github.com/staticafi/sbt-slowbeast | 0 | 0| 
 | 20221128T08:35:27Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 505 | 28| 
-| 20221128T07:42:07Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 595 | 106| 
-| 20221128T03:16:02Z | FastKLEE: Faster Symbolic Execution via Reducing Redundant Bound Checking of Type-Safe Pointers | https://github.com/haoxintu/FastKLEE | 12 | 1| 
+| 20221128T07:42:07Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 595 | 107| 
 
 
 # big4 on Github 推荐

@@ -89,6 +89,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221129T16:00:46Z | Symbolic Execution Over Processor Traces | https://github.com/carter-yagemann/ARCUS | 81 | 17| 
 | 20221129T10:33:59Z | Gas optimizer based on pattern matching and symbolic execution | https://github.com/VelitasDao/Himari | 0 | 0| 
 | 20221129T10:30:41Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 181 | 44| 
 | 20221129T09:50:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 598| 
