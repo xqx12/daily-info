@@ -91,7 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221130T01:27:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1j | 0 | 0| 
+| 20221130T01:29:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1j | 1 | 0| 
+| 20221130T01:28:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1j | 1 | 0| 
 | 20221130T01:23:19Z | Comparison and implementation of various parallel versions of the k-means clustering algorithm: in addition to the sequential version, implementations have been made that exploit the parallelism of CPUs and GPUs through Omp and CUDA programming languages and through multithreading. | https://github.com/divanoLetto/Parallel_Computing_Kmeans_Omp_CUDA | 0 | 0| 
 | 20221130T01:16:04Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 286 | 61| 
 | 20221129T22:43:36Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP-Benchmark/BenchmarkJava | 515 | 697| 
@@ -100,7 +101,6 @@
 | 20221129T20:53:32Z | Null | https://github.com/dannyallover/exploit_C_programs | 0 | 0| 
 | 20221129T16:50:53Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12390 | 2129| 
 | 20221129T13:58:26Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2m | 0 | 0| 
-| 20221129T13:33:59Z | Null | https://github.com/HexHive/Evocatio | 20 | 1| 
 
 
 # backdoor on Github 推荐
