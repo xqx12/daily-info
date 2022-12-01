@@ -13,6 +13,7 @@
 | 20221130 | 从安全角度介绍windows com组件的原理及研究方法 | http://paper.seebug.org/2030/| 
 | 20221130 | Apache Fineract金融服务项目中的文件上传模块存在路径穿越问题，可导致远程命令执行。 | http://securityonline.info/cve-2022-44635-apache-fineract-remote-code-execution/| 
 | 20221130 | 微软Microsoft Exchange ProxyNotShell RCE漏洞的Exploit公布 | http://packetstormsecurity.com/files/170066| 
+| 20221130 | CNCF的prometheus存在一个缓存投毒导致的认证绕过问题，攻击者可以通过污染计算密码hash的缓存，从而实现使用密码hash而不是密码就可以实现认证。 | http://securityonline.info/cve-2022-46146-authentication-bypass-in-open-source-prometheus-project/| 
 
 
 # 安全维基 推荐
