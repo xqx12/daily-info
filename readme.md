@@ -93,9 +93,9 @@
 | 20221201T12:27:32Z | 编译选项随机化 | https://github.com/hahhalushe/afl-fuzz.c- | 1 | 0| 
 | 20221201T12:16:11Z | Null | https://github.com/Guilherme-Scarano/FuzzyFrenagem | 0 | 0| 
 | 20221201T12:10:32Z | Pre-Silicon Hardware Fuzzing Toolkit | https://github.com/IntelLabs/PreSiFuzz | 1 | 1| 
+| 20221201T12:07:28Z | a smart DNS response-guided subdomain fuzzer | https://github.com/elceef/subzuf | 75 | 6| 
 | 20221201T11:58:55Z | Projeto utilizando o modelo de IA fuzzy para regular a velocidade de um ventilador com base na temperatura e umidade | https://github.com/jinkijack/fuzzy-ia | 0 | 0| 
 | 20221201T11:46:55Z | Custom Vue 3 TS Fuzzy Search Component | https://github.com/urbivor/fuzzy-search | 0 | 0| 
-| 20221201T11:46:08Z | Fuzzy Search built with Vanilla JS & Node | https://github.com/urbivor/FuzzySearchVanilla | 0 | 0| 
 
 
 
