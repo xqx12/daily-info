@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221201T13:06:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4761 | 696| 
 | 20221201T12:10:04Z | Null | https://github.com/Olbrychski/Exploits | 0 | 0| 
 | 20221201T12:00:18Z | Ladon modular hacking framework penetration scanner & Cobalt strike, Ladon 9.3.0 has 178 built-in modules, including information collection / surviving host / port scanning / service identification / password blasting / vulnerability detection / vulnerability utilization. Vulnerability detection includes ms17010 / smbghost / Weblogic / ActiveMQ  | https://github.com/k8gege/Ladon | 3569 | 775| 
 | 20221201T12:00:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 116 | 11| 
@@ -55,7 +56,6 @@
 | 20221201T10:36:56Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 288 | 61| 
 | 20221201T09:26:01Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 63 | 26| 
 | 20221201T09:21:13Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 4868 | 1987| 
-| 20221201T08:44:31Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.js-engine.n-days | 3 | 0| 
 
 
 # backdoor on Github 推荐
@@ -86,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221201T13:06:33Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 117 | 8| 
 | 20221201T12:48:35Z | Null | https://github.com/jminich94/fuzzy-engine | 0 | 0| 
 | 20221201T12:36:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8100 | 1761| 
 | 20221201T12:28:49Z | Null | https://github.com/AdamKorcz/go-118-fuzz-build | 9 | 6| 
@@ -95,7 +96,6 @@
 | 20221201T11:58:55Z | Projeto utilizando o modelo de IA fuzzy para regular a velocidade de um ventilador com base na temperatura e umidade | https://github.com/jinkijack/fuzzy-ia | 0 | 0| 
 | 20221201T11:46:55Z | Custom Vue 3 TS Fuzzy Search Component | https://github.com/urbivor/fuzzy-search | 0 | 0| 
 | 20221201T11:46:08Z | Fuzzy Search built with Vanilla JS & Node | https://github.com/urbivor/FuzzySearchVanilla | 0 | 0| 
-| 20221201T11:14:46Z | Null | https://github.com/antonioaugusto1/ProjetoFuzzy | 0 | 0| 
 
 
 
