@@ -12,6 +12,7 @@
 | 20221130 | DNSSEC 的响应机制会泄漏字典序排列的前后可用子域名称，利用该机制可枚举存在的子域名 | http://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/| 
 | 20221130 | 从安全角度介绍windows com组件的原理及研究方法 | http://paper.seebug.org/2030/| 
 | 20221130 | Apache Fineract金融服务项目中的文件上传模块存在路径穿越问题，可导致远程命令执行。 | http://securityonline.info/cve-2022-44635-apache-fineract-remote-code-execution/| 
+| 20221130 | 微软Microsoft Exchange ProxyNotShell RCE漏洞的Exploit公布 | http://packetstormsecurity.com/files/170066| 
 
 
 # 安全维基 推荐

@@ -12,6 +12,7 @@
 | 20221130 | DNSSEC 的响应机制会泄漏字典序排列的前后可用子域名称，利用该机制可枚举存在的子域名 | http://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/| 
 | 20221130 | 从安全角度介绍windows com组件的原理及研究方法 | http://paper.seebug.org/2030/| 
 | 20221130 | Apache Fineract金融服务项目中的文件上传模块存在路径穿越问题，可导致远程命令执行。 | http://securityonline.info/cve-2022-44635-apache-fineract-remote-code-execution/| 
+| 20221130 | 微软Microsoft Exchange ProxyNotShell RCE漏洞的Exploit公布 | http://packetstormsecurity.com/files/170066| 
 | 20221129 | LNK文件导致的勒索攻击 | https://thedfirreport.com/2022/11/28/emotet-strikes-again-lnk-file-leads-to-domain-wide-ransomware/| 
 | 20221129 | Windows 漏洞利用缓解细节参考 | https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/exploit-protection-reference?view=o365-worldwide| 
 | 20221129 | Havoc C2 绕过 Defender For Endpoint 横向移动实战 | http://link.medium.com/7GwUnFncZub| 
@@ -25,7 +26,6 @@
 | 20221129 | Sherlock对Mover的合约审计报告，包含一个高危和一个中危漏洞。 | https://github.com/viaMover/contract-audit-reports/blob/main/Mover_Final_Report.pdf| 
 | 20221129 | 针对雄迈IoT设备的漏洞利用 | https://vulncheck.com/blog/xiongmai-iot-exploitation| 
 | 20221129 | 零知识证明实现不当而被绕过的案例 | http://blog.trailofbits.com/2022/11/29/specialized-zero-knowledge-proof-failures/| 
-| 20221128 | 基于IO_FILE的高版本glibc利用链 | https://tttang.com/archive/1845/| 
 
 
 # 安全维基 推荐
