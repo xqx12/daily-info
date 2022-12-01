@@ -61,7 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221201T13:04:31Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1046 | 197| 
+| 20221201T13:08:57Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1047 | 197| 
 | 20221201T12:10:21Z | Anotherrrr backdoor in python | https://github.com/Thehacker-arch/another_backdoor_python | 3 | 0| 
 | 20221201T09:26:11Z | Null | https://github.com/Fox-Senko-san/backdoor123 | 0 | 0| 
 | 20221201T09:25:29Z | Null | https://github.com/Fox-Senko-san/backdoor | 0 | 0| 
@@ -88,7 +88,7 @@
 | --- | --- | --- | --- | ---| 
 | 20221201T13:06:33Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 117 | 8| 
 | 20221201T12:48:35Z | Null | https://github.com/jminich94/fuzzy-engine | 0 | 0| 
-| 20221201T12:36:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8100 | 1761| 
+| 20221201T12:36:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8100 | 1760| 
 | 20221201T12:28:49Z | Null | https://github.com/AdamKorcz/go-118-fuzz-build | 9 | 6| 
 | 20221201T12:27:32Z | 编译选项随机化 | https://github.com/hahhalushe/afl-fuzz.c- | 1 | 0| 
 | 20221201T12:16:11Z | Null | https://github.com/Guilherme-Scarano/FuzzyFrenagem | 0 | 0| 
