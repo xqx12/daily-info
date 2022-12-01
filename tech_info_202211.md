@@ -107,7 +107,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221130T20:19:36Z | Bukkit, Spigot, Paper backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 8 | 0| 
-| 20221130T16:50:15Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3lemachus/Villain | 2 | 0| 
 | 20221130T16:31:23Z | Null | https://github.com/Raikovm/backdoor-lab | 0 | 0| 
 | 20221130T13:44:02Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM | 2 | 0| 
 | 20221130T12:59:35Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
@@ -116,6 +115,7 @@
 | 20221129T19:26:01Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 7131 | 2055| 
 | 20221129T19:18:23Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 42 | 18| 
 | 20221129T14:26:35Z | Null | https://github.com/enzocardeal/backdoor-playground | 0 | 0| 
+| 20221129T13:18:15Z | Self-made FUD crypter. Passes WD 100% | https://github.com/SilentFUD/SilentCrypterV1.5 | 2 | 0| 
 
 
 # symbolic execution on Github 推荐

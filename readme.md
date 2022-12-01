@@ -67,7 +67,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221130T20:19:36Z | Bukkit, Spigot, Paper backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 8 | 0| 
-| 20221130T16:50:15Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3lemachus/Villain | 2 | 0| 
 | 20221130T16:31:23Z | Null | https://github.com/Raikovm/backdoor-lab | 0 | 0| 
 | 20221130T13:44:02Z | Offical implementation for the work %BadCM: Invisible Backdoor Attack against Cross-Modal Learning%. | https://github.com/xandery-geek/BadCM | 2 | 0| 
 | 20221130T12:59:35Z | FUD Backdoors | https://github.com/Chocapikk/FUD | 0 | 0| 
