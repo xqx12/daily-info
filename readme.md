@@ -18,6 +18,7 @@
 | 20221201 | Huawei Hypervisor-利用系统日志系统的OOB访问(CVE-2021-39979) | http://blog.impalabs.com/2212_advisory_huawei-security-hypervisor.html| 
 | 20221201 | TransferFrom 函数未强制要求授权转账数额必须大于 0，因此可以从任意用户账户向未授权的账户发起转账 0 的交易而不会失败，用户可能因此进行误操作 | https://mp.weixin.qq.com/s/vnHnDG435WYIoN2VNK_oTw| 
 | 20221201 | 针对Redhat开源的Java框架Quarkus开发者的钓鱼攻击，开发者访问恶意网站后js代码通过修改Quarkus的配置实现对于develpoment Box的RCE | https://thehackernews.com/2022/12/researchers-disclose-critical-rce.html| 
+| 20221201 | IBM Cloud Databases for PostgreSQL中的供应链漏洞导致未授权的数据库访问 | https://www.reddit.com/r/netsec/comments/z9qeyj/how_we_found_a_supplychain_vulnerability_in_ibm/| 
 
 
 # 安全维基 推荐
