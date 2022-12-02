@@ -85,6 +85,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T02:43:38Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1250 | 58| 
 | 20221201T13:44:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3225 | 454| 
 | 20221201T10:19:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 596 | 107| 
 
