@@ -12,6 +12,8 @@
 | 20221202 | 因身份鉴别和授权机制的缺乏，以及不安全的通信机制，三款总下载量达200万的 app 存在 RCE 漏洞 | http://cybersecuritynews.com/rce-flaw-with-2m-downloaded-app/| 
 | 20221202 | VSCode远程代码执行漏洞（CVE-2022-41034）细节，存在于ipynb文件加载流程中，用户点击恶意链接即可能受到攻击。 | https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m| 
 | 20221202 | Avast详细的介绍了Mustang Panda的一些工具集以及木马加载流程链 | http://decoded.avast.io/threatintel/apt-treasure-trove-avast-suspects-chinese-apt-group-mustang-panda-is-collecting-data-from-burmese-government-agencies-and-opposition-groups/| 
+| 20221202 | BlackBerry发布关于狩猎beacons的白皮书,从网站特征,流量,文件结构,硬编码等多角度进行讨论 | https://github.com/blackorbird/APT_REPORT/blob/master/APT-hunting/hunting-cobaltstrike-beacons-in-the-dark.pdf| 
+| 20221202 | CertPotato-滥用ADCS特性而进行权限提升 | https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/| 
 
 
 # 安全维基 推荐
@@ -35,9 +37,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T14:02:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9492 | 326| 
 | 20221202T10:45:37Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 150 | 1| 
 | 20221202T10:07:54Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
-| 20221202T08:36:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9491 | 326| 
 
 
 # s2e on Github 推荐
@@ -49,6 +51,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T13:39:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4765 | 697| 
+| 20221202T13:35:40Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 290 | 61| 
+| 20221202T13:14:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-I-4jT-exploit-influence | 0 | 0| 
 | 20221202T13:09:07Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 116 | 17| 
 | 20221202T13:07:19Z | Null | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
 | 20221202T12:56:36Z | Nemo - A Remote Access Trojan & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 2 | 0| 
@@ -56,16 +61,14 @@
 | 20221202T09:46:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3817 | 473| 
 | 20221202T09:30:04Z | Exploit/Script for Oil Warfare Tycoon. | https://github.com/defrizletov/oil-warfare-tycoon | 0 | 0| 
 | 20221202T09:15:47Z | Null | https://github.com/inigoalda/xml_rss_exploit | 0 | 0| 
-| 20221202T07:48:55Z | Null | https://github.com/CT77777/alphaFinance-Exploit | 0 | 0| 
-| 20221202T03:34:04Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.js-engine.n-days | 4 | 0| 
-| 20221202T02:39:48Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/pienzontimr/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T14:00:03Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1149 | 211| 
+| 20221202T13:54:13Z | tryhackme KOTH (king-of-hil) | https://github.com/R00TPIE/KOTH | 0 | 0| 
 | 20221202T13:11:55Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 96 | 13| 
-| 20221202T13:01:24Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1142 | 210| 
 | 20221202T10:02:25Z | This code creates a backdoor in a node application that you can access from other server. | https://github.com/yucf7/backdoor-npm-package | 0 | 0| 
 | 20221202T09:55:50Z | Null | https://github.com/fedorfedka/py_backdoor | 0 | 0| 
 | 20221202T04:11:21Z | Null | https://github.com/fereshteh-razmi/dp_backdoors_analysis | 0 | 0| 
@@ -86,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T14:03:19Z | Fuzzy logic to classify football players | https://github.com/mateus-ceccagno/fuzzy-footbal | 0 | 0| 
 | 20221202T12:14:32Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 50 | 16| 
 | 20221202T12:05:24Z | Simple lightweight Fuzzy Search library for Adobe ExtendScript | https://github.com/Nico-Duduf/fuzzy-search.jsxinc | 0 | 0| 
 | 20221202T11:48:18Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 121 | 8| 
@@ -94,7 +98,7 @@
 | 20221202T11:07:42Z | Null | https://github.com/markjpT/fuzzy-tribble | 0 | 0| 
 | 20221202T11:01:14Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 615 | 123| 
 | 20221202T08:20:15Z | A simple django project template for modern web apps. | https://github.com/Tobi-De/fuzzy-couscous | 12 | 1| 
-| 20221202T01:00:58Z | filesystem fuzzer using LKL and HYDRAulic Damnation | https://github.com/docfate111/hdlklfuzzer | 0 | 0| 
+| 20221202T03:37:26Z | python script to fuzz pe section names | https://github.com/mmssr/pe_sexy_fuzzer_simple.py | 0 | 0| 
 
 
 
