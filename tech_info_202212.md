@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T02:39:48Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/pienzontimr/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
 | 20221202T02:17:34Z | GitOps Repository | https://github.com/hacbs-cqi/test-application-N6juw-possess-exploit | 0 | 0| 
 | 20221202T02:16:46Z | GPay balance exploit READ MORE BELOW | https://github.com/ayisonspyrusu/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20221202T02:15:51Z | Binary exploitation from 0x0 to 0x4865726f | https://github.com/ywoak/Rainfall | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20221201T23:30:06Z | Simple django rce exploitation with leaked SECRET_KEY variable | https://github.com/0xuf/DJRCE | 0 | 0| 
 | 20221201T23:18:26Z | Introduction to different kind of exploit in the form of multiple CTF | https://github.com/ywoak/SnowCrash | 1 | 0| 
 | 20221201T23:13:55Z | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | 1 | 0| 
-| 20221201T21:53:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1p | 1 | 0| 
 
 
 # backdoor on Github 推荐
