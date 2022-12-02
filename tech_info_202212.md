@@ -47,12 +47,14 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T02:18:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 275 | 66| 
 | 20221201T07:39:12Z | S2erial_TcpServer_Long | https://github.com/liukai007/S2erial_TcpServer_Long | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T02:17:34Z | GitOps Repository | https://github.com/hacbs-cqi/test-application-N6juw-possess-exploit | 0 | 0| 
 | 20221202T02:16:46Z | GPay balance exploit READ MORE BELOW | https://github.com/ayisonspyrusu/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20221202T02:15:51Z | Binary exploitation from 0x0 to 0x4865726f | https://github.com/ywoak/Rainfall | 0 | 0| 
 | 20221202T01:56:25Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 146 | 0| 
@@ -62,7 +64,6 @@
 | 20221201T23:18:26Z | Introduction to different kind of exploit in the form of multiple CTF | https://github.com/ywoak/SnowCrash | 1 | 0| 
 | 20221201T23:13:55Z | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | 1 | 0| 
 | 20221201T21:53:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1p | 1 | 0| 
-| 20221201T21:52:15Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1p | 1 | 0| 
 
 
 # backdoor on Github 推荐
