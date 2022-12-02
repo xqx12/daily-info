@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T02:15:51Z | Binary exploitation from 0x0 to 0x4865726f | https://github.com/ywoak/Rainfall | 0 | 0| 
 | 20221202T01:56:25Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 146 | 0| 
 | 20221202T00:10:28Z | Refinery Caves %exploit% | https://github.com/QuoniamScripting/Huzki | 0 | 0| 
 | 20221201T23:31:57Z | Re-implement in Python the results presented in Figure 2.2 of the Sutton & Barto book comparing a greedy  method with two -greedy methods (𝜀 =0.01 and 𝜀 =0.1), on the 10-armed testbed, and present your code  and results. Include a discussion of the exploration - exploitation dilemma in relation to your findings.  | https://github.com/sriragjayakumar/10-arm-testbed | 1 | 0| 
@@ -62,13 +63,12 @@
 | 20221201T21:53:10Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1p | 1 | 0| 
 | 20221201T21:52:15Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1p | 1 | 0| 
 | 20221201T21:51:20Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1p | 1 | 0| 
-| 20221201T20:45:29Z | Say No To Exploits - the solution against unruly kids | https://github.com/YohSambre/snte | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221202T02:00:24Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1102 | 205| 
+| 20221202T02:13:31Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1104 | 206| 
 | 20221202T00:52:35Z | Null | https://github.com/fereshteh-razmi/dp_backdoors_analysis | 0 | 0| 
 | 20221201T20:27:33Z | Bukkit, Spigot, Paper backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 12 | 0| 
 | 20221201T19:15:43Z | Probabilistic backdoor trees for SAT solving | https://github.com/ctlab/itmo_parsat | 0 | 0| 
