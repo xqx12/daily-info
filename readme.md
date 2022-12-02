@@ -99,12 +99,12 @@
 | 20221201T23:28:58Z | Null | https://github.com/TiagoMPereira/controlador_fuzzy | 0 | 0| 
 | 20221201T22:00:10Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 865 | 52| 
 | 20221201T21:24:03Z | Estudo da Técnica de Fuzzy Matching | https://github.com/dugabsBR/fuzzy_matching | 0 | 0| 
+| 20221201T21:23:27Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 129 | 19| 
 | 20221201T14:12:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4891 | 502| 
 | 20221201T13:57:43Z | Excellent  | https://github.com/EDYAJ1/fuzzy-octo-potato | 0 | 0| 
 | 20221201T13:39:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4455 | 1082| 
 | 20221201T13:32:14Z | Example of usage of woke fuzzer (woke==1.2.1) | https://github.com/hacker-DOM/woke-fuzzer-example | 0 | 0| 
 | 20221201T13:06:33Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 117 | 8| 
-| 20221201T12:48:35Z | Null | https://github.com/jminich94/fuzzy-engine | 0 | 0| 
 
 
 
