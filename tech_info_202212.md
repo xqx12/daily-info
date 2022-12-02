@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221202 | CVE-2022-41325:VLC的vnc模块mallocFrameBufferHandler函数存在整数溢出漏洞 | https://www.synacktiv.com/sites/default/files/2022-11/vlc_vnc_int_overflow-CVE-2022-41325.pdf| 
+| 20221202 | 在 Linux 内核中查找特定大小对象的简易脚本 | https://github.com/chompie1337/kernel_obj_finder| 
+| 20221202 | 美国 CISA 发布一款勒索软件的技术细节通告，包括 TTP 和 IOC 等信息 | https://go.dhs.gov/Znp| 
+| 20221202 | 因身份鉴别和授权机制的缺乏，以及不安全的通信机制，三款总下载量达200万的 app 存在 RCE 漏洞 | http://cybersecuritynews.com/rce-flaw-with-2m-downloaded-app/| 
+| 20221202 | VSCode远程代码执行漏洞（CVE-2022-41034）细节，存在于ipynb文件加载流程中，用户点击恶意链接即可能受到攻击。 | https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m| 
+| 20221202 | Avast详细的介绍了Mustang Panda的一些工具集以及木马加载流程链 | http://decoded.avast.io/threatintel/apt-treasure-trove-avast-suspects-chinese-apt-group-mustang-panda-is-collecting-data-from-burmese-government-agencies-and-opposition-groups/| 
 | 20221201 | 在进行身份认证时，程序会基于用户可控的HTTP请求的Host域构造新请求，并通过这一新请求的返回结果判断用户是否认证成功。若用户修改Host指向自己可控HTTPS服务器，则可以绕过身份认证。 | http://paper.seebug.org/2031/| 
 | 20221201 | LastPass的数据有可能已经被黑客窃取！ | https://www.freebuf.com/news/351313.html| 
 | 20221201 | 安全工具，可解析NTLM消息、可实现针对微软ADFS服务的NTLM转发攻击 | http://securityonline.info/adfsrelay-ntlm-relaying-attacks-targeting-adfs/| 
@@ -24,13 +30,20 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221202 | 细谈CS分离式shellcode的加载之旅 | https://mp.weixin.qq.com/s/cgp6aFwiU7S8x2jS2VXoTQ| 
+| 20221202 | 企业级钓鱼演练平台搭建 | https://xz.aliyun.com/t/11898| 
+| 20221202 | POLYGLOT：使用语义验证的通用语言处理器模糊测试引擎 | https://mp.weixin.qq.com/s/KnXLjn1Da6HmglWD7OFy6Q| 
+| 20221202 | Tenda Ax12 设备分析 | https://www.anquanke.com/post/id/283630| 
+| 20221202 | 隐私计算线上慕课 | https://space.bilibili.com/2073575923/channel/collectiondetail?sid=883666| 
 | 20221201 | 通过网空搜索引擎发现恶意软件控制面板登录页面 | https://mp.weixin.qq.com/s/RV8_AeLWSA0txYcWiLrxYQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221201T23:13:55Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
+| 20221202T11:54:41Z | CVE-2022-41082 | writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell | https://github.com/Adynervi/CVE-2022-41082-RCE-PoC | | 
+| 20221202T08:41:36Z | CVE-2022-43680 | Null | https://github.com/nidhi7598/G3_expat-2.2.6_CVE-2022-43680 | | 
+| 20221202T08:35:17Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
 | 20221201T23:05:37Z | CVE-2022-31007 | Null | https://github.com/gscharf/CVE-2022-31007-Python-POC | | 
 | 20221201T17:17:51Z | CVE-2022-24491 | A Zeek CVE-2022-24491 detector. | https://github.com/corelight/CVE-2022-24491 | | 
 | 20221201T09:34:30Z | CVE-2022-41049 | POC of Microcorp vuln | https://github.com/NathanScottGithub/CVE-2022-41049-POC | | 
@@ -42,7 +55,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221201T15:45:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9482 | 326| 
+| 20221202T10:45:37Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 150 | 1| 
+| 20221202T10:07:54Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
+| 20221202T08:36:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9491 | 326| 
 
 
 # s2e on Github 推荐
@@ -55,38 +70,38 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T13:09:07Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 116 | 17| 
+| 20221202T13:07:19Z | Null | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
+| 20221202T12:56:36Z | Nemo - A Remote Access Trojan & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 2 | 0| 
+| 20221202T12:13:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12404 | 2131| 
+| 20221202T09:46:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3817 | 473| 
+| 20221202T09:30:04Z | Exploit/Script for Oil Warfare Tycoon. | https://github.com/defrizletov/oil-warfare-tycoon | 0 | 0| 
+| 20221202T09:15:47Z | Null | https://github.com/inigoalda/xml_rss_exploit | 0 | 0| 
+| 20221202T07:48:55Z | Null | https://github.com/CT77777/alphaFinance-Exploit | 0 | 0| 
+| 20221202T03:34:04Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.js-engine.n-days | 4 | 0| 
 | 20221202T02:39:48Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/pienzontimr/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
-| 20221202T02:17:34Z | GitOps Repository | https://github.com/hacbs-cqi/test-application-N6juw-possess-exploit | 0 | 0| 
-| 20221202T02:16:46Z | GPay balance exploit READ MORE BELOW | https://github.com/ayisonspyrusu/GPAY-BALANCE-EXPLOIT | 0 | 0| 
-| 20221202T02:15:51Z | Binary exploitation from 0x0 to 0x4865726f | https://github.com/ywoak/Rainfall | 0 | 0| 
-| 20221202T01:56:25Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 146 | 0| 
-| 20221202T00:10:28Z | Refinery Caves %exploit% | https://github.com/QuoniamScripting/Huzki | 0 | 0| 
-| 20221201T23:31:57Z | Re-implement in Python the results presented in Figure 2.2 of the Sutton & Barto book comparing a greedy  method with two -greedy methods (𝜀 =0.01 and 𝜀 =0.1), on the 10-armed testbed, and present your code  and results. Include a discussion of the exploration - exploitation dilemma in relation to your findings.  | https://github.com/sriragjayakumar/10-arm-testbed | 1 | 0| 
-| 20221201T23:30:06Z | Simple django rce exploitation with leaked SECRET_KEY variable | https://github.com/0xuf/DJRCE | 0 | 0| 
-| 20221201T23:18:26Z | Introduction to different kind of exploit in the form of multiple CTF | https://github.com/ywoak/SnowCrash | 1 | 0| 
-| 20221201T23:13:55Z | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221202T02:13:31Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1104 | 206| 
-| 20221202T00:52:35Z | Null | https://github.com/fereshteh-razmi/dp_backdoors_analysis | 0 | 0| 
+| 20221202T13:11:55Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 96 | 13| 
+| 20221202T13:01:24Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1142 | 210| 
+| 20221202T10:02:25Z | This code creates a backdoor in a node application that you can access from other server. | https://github.com/yucf7/backdoor-npm-package | 0 | 0| 
+| 20221202T09:55:50Z | Null | https://github.com/fedorfedka/py_backdoor | 0 | 0| 
+| 20221202T04:11:21Z | Null | https://github.com/fereshteh-razmi/dp_backdoors_analysis | 0 | 0| 
 | 20221201T20:27:33Z | Bukkit, Spigot, Paper backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 12 | 0| 
 | 20221201T19:15:43Z | Probabilistic backdoor trees for SAT solving | https://github.com/ctlab/itmo_parsat | 0 | 0| 
 | 20221201T16:53:01Z | Reverse dll hook shell backdoor trojan(works however for work on windows 10 -11 updated windows anti virus deception methods need to be introduced. ) | https://github.com/indirectDirectEnumeration69/Reverse-backdoor-trojan | 0 | 0| 
 | 20221201T12:10:21Z | Anotherrrr backdoor in python | https://github.com/Thehacker-arch/another_backdoor_python | 3 | 0| 
 | 20221201T09:26:11Z | Null | https://github.com/Fox-Senko-san/backdoor123 | 0 | 0| 
-| 20221201T09:25:29Z | Null | https://github.com/Fox-Senko-san/backdoor | 0 | 0| 
-| 20221201T08:03:02Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 95 | 13| 
-| 20221201T04:07:05Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T12:31:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3227 | 454| 
 | 20221202T02:43:38Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1250 | 58| 
-| 20221201T13:44:41Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3225 | 454| 
 | 20221201T10:19:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 596 | 107| 
 
 
@@ -99,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T12:14:32Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 50 | 16| 
+| 20221202T12:05:24Z | Simple lightweight Fuzzy Search library for Adobe ExtendScript | https://github.com/Nico-Duduf/fuzzy-search.jsxinc | 0 | 0| 
+| 20221202T11:48:18Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 121 | 8| 
+| 20221202T11:36:59Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 44 | 20| 
+| 20221202T11:16:37Z | Fuzzy Index for Python, written in Rust. Works like error-tolerant dict, keyed by a human input. | https://github.com/blaa/fuzzdex | 9 | 0| 
+| 20221202T11:07:42Z | Null | https://github.com/markjpT/fuzzy-tribble | 0 | 0| 
+| 20221202T11:01:14Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 615 | 123| 
+| 20221202T08:20:15Z | A simple django project template for modern web apps. | https://github.com/Tobi-De/fuzzy-couscous | 12 | 1| 
 | 20221202T01:00:58Z | filesystem fuzzer using LKL and HYDRAulic Damnation | https://github.com/docfate111/hdlklfuzzer | 0 | 0| 
 | 20221201T23:55:53Z | Null | https://github.com/ske4404/fuzzy-system | 0 | 0| 
-| 20221201T23:28:58Z | Null | https://github.com/TiagoMPereira/controlador_fuzzy | 0 | 0| 
-| 20221201T22:00:10Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 865 | 52| 
-| 20221201T21:24:03Z | Estudo da Técnica de Fuzzy Matching | https://github.com/dugabsBR/fuzzy_matching | 0 | 0| 
-| 20221201T21:23:27Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 129 | 19| 
-| 20221201T14:12:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4891 | 502| 
-| 20221201T13:57:43Z | Excellent  | https://github.com/EDYAJ1/fuzzy-octo-potato | 0 | 0| 
-| 20221201T13:39:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4455 | 1082| 
-| 20221201T13:32:14Z | Example of usage of woke fuzzer (woke==1.2.1) | https://github.com/hacker-DOM/woke-fuzzer-example | 0 | 0| 
 
 
 

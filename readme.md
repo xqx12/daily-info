@@ -11,6 +11,7 @@
 | 20221202 | 美国 CISA 发布一款勒索软件的技术细节通告，包括 TTP 和 IOC 等信息 | https://go.dhs.gov/Znp| 
 | 20221202 | 因身份鉴别和授权机制的缺乏，以及不安全的通信机制，三款总下载量达200万的 app 存在 RCE 漏洞 | http://cybersecuritynews.com/rce-flaw-with-2m-downloaded-app/| 
 | 20221202 | VSCode远程代码执行漏洞（CVE-2022-41034）细节，存在于ipynb文件加载流程中，用户点击恶意链接即可能受到攻击。 | https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m| 
+| 20221202 | Avast详细的介绍了Mustang Panda的一些工具集以及木马加载流程链 | http://decoded.avast.io/threatintel/apt-treasure-trove-avast-suspects-chinese-apt-group-mustang-panda-is-collecting-data-from-burmese-government-agencies-and-opposition-groups/| 
 
 
 # 安全维基 推荐
@@ -48,6 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T13:09:07Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 116 | 17| 
+| 20221202T13:07:19Z | Null | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
 | 20221202T12:56:36Z | Nemo - A Remote Access Trojan & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 2 | 0| 
 | 20221202T12:13:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12404 | 2131| 
 | 20221202T09:46:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3817 | 473| 
@@ -56,13 +59,12 @@
 | 20221202T07:48:55Z | Null | https://github.com/CT77777/alphaFinance-Exploit | 0 | 0| 
 | 20221202T03:34:04Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.js-engine.n-days | 4 | 0| 
 | 20221202T02:39:48Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/pienzontimr/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
-| 20221202T02:17:34Z | GitOps Repository | https://github.com/hacbs-cqi/test-application-N6juw-possess-exploit | 0 | 0| 
-| 20221202T02:16:46Z | GPay balance exploit READ MORE BELOW | https://github.com/ayisonspyrusu/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T13:11:55Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 96 | 13| 
 | 20221202T13:01:24Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1142 | 210| 
 | 20221202T10:02:25Z | This code creates a backdoor in a node application that you can access from other server. | https://github.com/yucf7/backdoor-npm-package | 0 | 0| 
 | 20221202T09:55:50Z | Null | https://github.com/fedorfedka/py_backdoor | 0 | 0| 
@@ -72,6 +74,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T12:31:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3227 | 454| 
 | 20221202T02:43:38Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1250 | 58| 
 
 
@@ -83,6 +86,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221202T12:14:32Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 50 | 16| 
+| 20221202T12:05:24Z | Simple lightweight Fuzzy Search library for Adobe ExtendScript | https://github.com/Nico-Duduf/fuzzy-search.jsxinc | 0 | 0| 
+| 20221202T11:48:18Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 121 | 8| 
+| 20221202T11:36:59Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 44 | 20| 
+| 20221202T11:16:37Z | Fuzzy Index for Python, written in Rust. Works like error-tolerant dict, keyed by a human input. | https://github.com/blaa/fuzzdex | 9 | 0| 
+| 20221202T11:07:42Z | Null | https://github.com/markjpT/fuzzy-tribble | 0 | 0| 
+| 20221202T11:01:14Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 615 | 123| 
+| 20221202T08:20:15Z | A simple django project template for modern web apps. | https://github.com/Tobi-De/fuzzy-couscous | 12 | 1| 
 | 20221202T01:00:58Z | filesystem fuzzer using LKL and HYDRAulic Damnation | https://github.com/docfate111/hdlklfuzzer | 0 | 0| 
 
 
