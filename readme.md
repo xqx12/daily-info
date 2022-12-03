@@ -15,6 +15,7 @@
 | 20221202 | BlackBerry发布关于狩猎beacons的白皮书,从网站特征,流量,文件结构,硬编码等多角度进行讨论 | https://github.com/blackorbird/APT_REPORT/blob/master/APT-hunting/hunting-cobaltstrike-beacons-in-the-dark.pdf| 
 | 20221202 | CertPotato-滥用ADCS特性而进行权限提升 | https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/| 
 | 20221202 | 论文介绍RISC-V架构上的JOP漏洞利用方法 | https://arxiv.org/pdf/2211.16212.pdf| 
+| 20221202 | 一个专门fuzz User-Agent ， X-Forwarded-For， Referer的 SQLI Fuzzer | https://github.com/root-tanishq/userefuzz| 
 
 
 # 安全维基 推荐

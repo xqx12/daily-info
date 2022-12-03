@@ -15,6 +15,7 @@
 | 20221202 | BlackBerry发布关于狩猎beacons的白皮书,从网站特征,流量,文件结构,硬编码等多角度进行讨论 | https://github.com/blackorbird/APT_REPORT/blob/master/APT-hunting/hunting-cobaltstrike-beacons-in-the-dark.pdf| 
 | 20221202 | CertPotato-滥用ADCS特性而进行权限提升 | https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/| 
 | 20221202 | 论文介绍RISC-V架构上的JOP漏洞利用方法 | https://arxiv.org/pdf/2211.16212.pdf| 
+| 20221202 | 一个专门fuzz User-Agent ， X-Forwarded-For， Referer的 SQLI Fuzzer | https://github.com/root-tanishq/userefuzz| 
 | 20221201 | 在进行身份认证时，程序会基于用户可控的HTTP请求的Host域构造新请求，并通过这一新请求的返回结果判断用户是否认证成功。若用户修改Host指向自己可控HTTPS服务器，则可以绕过身份认证。 | http://paper.seebug.org/2031/| 
 | 20221201 | LastPass的数据有可能已经被黑客窃取！ | https://www.freebuf.com/news/351313.html| 
 | 20221201 | 安全工具，可解析NTLM消息、可实现针对微软ADFS服务的NTLM转发攻击 | http://securityonline.info/adfsrelay-ntlm-relaying-attacks-targeting-adfs/| 
@@ -25,7 +26,6 @@
 | 20221201 | snap-confine是一个Ubuntu中默认安装的SUID-root程序，存在条件竞争漏洞，结合multipathd中的认证绕过和符号链接漏洞能够在Ubuntu Server上实现本地提权 | http://seclists.org/oss-sec/2022/q4/164| 
 | 20221201 | HiveV5勒索软件文件解密Poc和算法分析 | https://github.com/reecdeep/HiveV5_file_decryptor| 
 | 20221201 | Huawei Hypervisor-利用系统日志系统的OOB访问(CVE-2021-39979) | http://blog.impalabs.com/2212_advisory_huawei-security-hypervisor.html| 
-| 20221201 | TransferFrom 函数未强制要求授权转账数额必须大于 0，因此可以从任意用户账户向未授权的账户发起转账 0 的交易而不会失败，用户可能因此进行误操作 | https://mp.weixin.qq.com/s/vnHnDG435WYIoN2VNK_oTw| 
 
 
 # 安全维基 推荐
@@ -42,6 +42,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221203T01:33:07Z | CVE-2022-0739 | Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | | 
 | 20221202T15:46:43Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 | 20221202T14:36:30Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
 | 20221202T11:54:41Z | CVE-2022-41082 | writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell | https://github.com/Adynervi/CVE-2022-41082-RCE-PoC | | 
@@ -51,7 +52,6 @@
 | 20221201T09:34:30Z | CVE-2022-41049 | POC of Microcorp vuln | https://github.com/NathanScottGithub/CVE-2022-41049-POC | | 
 | 20221201T09:06:49Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
 | 20221201T08:35:16Z | CVE-2022-1388 | Null | https://github.com/revanmalang/CVE-2022-1388 | | 
-| 20221201T07:25:32Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 
 
 # klee on Github 推荐
@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T01:27:14Z | Null | https://github.com/nathangurnee/fuzzer-stats | 0 | 0| 
 | 20221203T00:38:21Z | Null | https://github.com/alangray11/fuzzy-tribble | 0 | 0| 
 | 20221202T23:49:27Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 1 | 0| 
 | 20221202T23:20:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1182 | 154| 
@@ -129,7 +130,6 @@
 | 20221202T15:22:04Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1837 | 29| 
 | 20221202T14:03:19Z | Fuzzy logic to classify football players | https://github.com/mateus-ceccagno/fuzzy-footbal | 0 | 0| 
 | 20221202T12:14:32Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 50 | 16| 
-| 20221202T12:05:24Z | Simple lightweight Fuzzy Search library for Adobe ExtendScript | https://github.com/Nico-Duduf/fuzzy-search.jsxinc | 0 | 0| 
 
 
 
