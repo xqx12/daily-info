@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T13:04:59Z | Null | https://github.com/darshannn10/Binary-Exploitation | 0 | 0| 
 | 20221203T12:33:16Z | New takes and original works in the world of 32 bit windows hacks | https://github.com/xoltar89/win32exploits | 0 | 0| 
 | 20221203T12:29:02Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5095 | 710| 
 | 20221203T09:20:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3819 | 473| 
