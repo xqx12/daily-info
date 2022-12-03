@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221203 | Spring heapdump泄露shiro key造成RCE | https://xz.aliyun.com/t/11908| 
 
 
 # 安全维基 推荐
@@ -14,6 +15,7 @@
 | 20221203 | THREAT-crawl: Automated Method and Tool to Crawl Criminal ... | https://gitlab.tue.nl/threat-crawl/THREATcrawl/| 
 | 20221203 | 国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/B6-usDq7cpXqgvOUXS2fHA| 
 | 20221203 | [HTB] Secret Writeup | https://mp.weixin.qq.com/s/vB0bUZ02j88gALvIbuKWNA| 
+| 20221203 | Web漏洞挖掘基础系列 | https://www.bilibili.com/video/BV1TG4y1V7xc/| 
 
 
 # CVE Github 推荐
@@ -29,7 +31,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221203T13:34:04Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9497 | 326| 
+| 20221203T14:14:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9499 | 326| 
 | 20221203T12:29:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 599| 
 
 
@@ -41,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T13:53:38Z | Exploit/Script for War Tycoon. | https://github.com/defrizletov/war-tycoon | 0 | 0| 
 | 20221203T13:21:06Z | For educational purposes only! | https://github.com/Wiggle-woggle/ZERO-DAY-DISCORD-EXPLOITS | 0 | 0| 
 | 20221203T13:08:59Z | New takes and original works in the world of 32 bit windows hacks | https://github.com/xoltar89/win32exploits | 0 | 0| 
 | 20221203T13:04:59Z | Null | https://github.com/darshannn10/Binary-Exploitation | 0 | 0| 
@@ -50,7 +53,6 @@
 | 20221203T09:08:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12407 | 2131| 
 | 20221203T04:52:55Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4872 | 1675| 
 | 20221203T01:33:07Z | Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | 0 | 0| 
-| 20221203T01:19:15Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3b | 2 | 0| 
 
 
 # backdoor on Github 推荐
