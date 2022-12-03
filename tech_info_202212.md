@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T02:02:15Z | Null | https://github.com/Planet-Source-Code/l124rd-ai-fuzzy-logic__1-10948 | 0 | 0| 
 | 20221203T01:41:20Z | Null | https://github.com/Planet-Source-Code/lefteris-eleftheriades-fuzzy-game-check-it-out__1-34699 | 0 | 0| 
 | 20221203T01:27:14Z | Null | https://github.com/nathangurnee/fuzzer-stats | 0 | 0| 
 | 20221203T00:38:21Z | Null | https://github.com/alangray11/fuzzy-tribble | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20221202T20:42:32Z | Texturizer plugin. Add some grit and fuzz to your sound. | https://github.com/Stoejmaskiner/MEP00-Texture | 0 | 0| 
 | 20221202T17:50:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8103 | 1763| 
 | 20221202T15:22:04Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1837 | 29| 
-| 20221202T14:03:19Z | Fuzzy logic to classify football players | https://github.com/mateus-ceccagno/fuzzy-footbal | 0 | 0| 
 
 
 
