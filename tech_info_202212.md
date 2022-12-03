@@ -78,16 +78,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T14:16:54Z | Null | https://github.com/Vitorpignataro/Exploits_Scripts | 0 | 0| 
 | 20221203T13:53:38Z | Exploit/Script for War Tycoon. | https://github.com/defrizletov/war-tycoon | 0 | 0| 
 | 20221203T13:21:06Z | For educational purposes only! | https://github.com/Wiggle-woggle/ZERO-DAY-DISCORD-EXPLOITS | 0 | 0| 
 | 20221203T13:08:59Z | New takes and original works in the world of 32 bit windows hacks | https://github.com/xoltar89/win32exploits | 0 | 0| 
 | 20221203T13:04:59Z | Null | https://github.com/darshannn10/Binary-Exploitation | 0 | 0| 
 | 20221203T12:29:02Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5095 | 710| 
+| 20221203T12:00:57Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2129 | 390| 
 | 20221203T09:20:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3819 | 473| 
 | 20221203T09:13:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 556 | 144| 
 | 20221203T09:08:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12407 | 2131| 
-| 20221203T04:52:55Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4872 | 1675| 
-| 20221203T01:33:07Z | Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | 0 | 0| 
 
 
 # backdoor on Github 推荐
