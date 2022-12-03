@@ -74,9 +74,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221203T00:50:50Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3b | 1 | 0| 
-| 20221203T00:49:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3b | 1 | 0| 
-| 20221203T00:49:00Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3b | 1 | 0| 
+| 20221203T01:19:15Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3b | 2 | 0| 
+| 20221203T01:19:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3b | 2 | 0| 
+| 20221203T01:19:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3b | 2 | 0| 
 | 20221202T23:49:27Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 1 | 0| 
 | 20221202T22:47:37Z | Null | https://github.com/Planet-Source-Code/no0ne-cgi-exploit-scanner-2-0-1-407-tests-bug-fixed__1-8611 | 0 | 0| 
 | 20221202T13:39:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4765 | 697| 
@@ -89,16 +89,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221202T14:00:03Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1149 | 211| 
-| 20221202T13:54:13Z | tryhackme KOTH (king-of-hil) | https://github.com/R00TPIE/KOTH | 0 | 0| 
+| 20221203T00:58:38Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1188 | 218| 
+| 20221202T19:28:15Z | Null | https://github.com/kunalkashyap855/defending-against-data-poisoning-and-backdoor-attacks | 0 | 0| 
+| 20221202T16:22:08Z | Bukkit, Spigot, Paper backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 13 | 1| 
+| 20221202T14:34:15Z | tryhackme KOTH (king-of-the-hil) | https://github.com/R00TPIE/KOTH | 0 | 0| 
 | 20221202T13:11:55Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 96 | 13| 
+| 20221202T10:55:39Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 6 | 0| 
 | 20221202T10:02:25Z | This code creates a backdoor in a node application that you can access from other server. | https://github.com/yucf7/backdoor-npm-package | 0 | 0| 
 | 20221202T09:55:50Z | Null | https://github.com/fedorfedka/py_backdoor | 0 | 0| 
 | 20221202T04:11:21Z | Null | https://github.com/fereshteh-razmi/dp_backdoors_analysis | 0 | 0| 
-| 20221201T20:27:33Z | Bukkit, Spigot, Paper backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 12 | 0| 
 | 20221201T19:15:43Z | Probabilistic backdoor trees for SAT solving | https://github.com/ctlab/itmo_parsat | 0 | 0| 
-| 20221201T16:53:01Z | Reverse dll hook shell backdoor trojan(works however for work on windows 10 -11 updated windows anti virus deception methods need to be introduced. ) | https://github.com/indirectDirectEnumeration69/Reverse-backdoor-trojan | 0 | 0| 
-| 20221201T12:10:21Z | Anotherrrr backdoor in python | https://github.com/Thehacker-arch/another_backdoor_python | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T00:38:21Z | Null | https://github.com/alangray11/fuzzy-tribble | 0 | 0| 
+| 20221202T23:49:27Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 1 | 0| 
+| 20221202T23:20:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1182 | 154| 
+| 20221202T22:15:34Z | Null | https://github.com/nattibd/fuzzy-spoon | 0 | 0| 
+| 20221202T20:42:32Z | Texturizer plugin. Add some grit and fuzz to your sound. | https://github.com/Stoejmaskiner/MEP00-Texture | 0 | 0| 
+| 20221202T17:50:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8103 | 1763| 
+| 20221202T15:22:04Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1837 | 29| 
 | 20221202T14:03:19Z | Fuzzy logic to classify football players | https://github.com/mateus-ceccagno/fuzzy-footbal | 0 | 0| 
 | 20221202T12:14:32Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 50 | 16| 
 | 20221202T12:05:24Z | Simple lightweight Fuzzy Search library for Adobe ExtendScript | https://github.com/Nico-Duduf/fuzzy-search.jsxinc | 0 | 0| 
-| 20221202T11:48:18Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 121 | 8| 
-| 20221202T11:36:59Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 44 | 20| 
-| 20221202T11:16:37Z | Fuzzy Index for Python, written in Rust. Works like error-tolerant dict, keyed by a human input. | https://github.com/blaa/fuzzdex | 9 | 0| 
-| 20221202T11:07:42Z | Null | https://github.com/markjpT/fuzzy-tribble | 0 | 0| 
-| 20221202T11:01:14Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 615 | 123| 
-| 20221202T08:20:15Z | A simple django project template for modern web apps. | https://github.com/Tobi-De/fuzzy-couscous | 12 | 1| 
-| 20221202T03:37:26Z | python script to fuzz pe section names | https://github.com/mmssr/pe_sexy_fuzzer_simple.py | 0 | 0| 
 
 
 
