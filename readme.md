@@ -64,7 +64,7 @@
 | 20221202T13:07:19Z | Null | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
 | 20221202T12:56:36Z | Nemo - A Remote Access Trojan & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 2 | 0| 
 | 20221202T12:13:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12404 | 2131| 
-| 20221202T10:57:00Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9722 | 1561| 
+| 20221202T10:57:00Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9722 | 1560| 
 
 
 # backdoor on Github 推荐
