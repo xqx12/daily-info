@@ -42,6 +42,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221203T01:53:14Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | | 
 | 20221203T01:33:07Z | CVE-2022-0739 | Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | | 
 | 20221202T15:46:43Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 | 20221202T14:36:30Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
@@ -51,7 +52,6 @@
 | 20221201T17:17:51Z | CVE-2022-24491 | A Zeek CVE-2022-24491 detector. | https://github.com/corelight/CVE-2022-24491 | | 
 | 20221201T09:34:30Z | CVE-2022-41049 | POC of Microcorp vuln | https://github.com/NathanScottGithub/CVE-2022-41049-POC | | 
 | 20221201T09:06:49Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
-| 20221201T08:35:16Z | CVE-2022-1388 | Null | https://github.com/revanmalang/CVE-2022-1388 | | 
 
 
 # klee on Github 推荐
