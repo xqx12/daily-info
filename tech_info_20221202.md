@@ -42,7 +42,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221202T16:27:02Z | Null | https://github.com/devnose/Kleertech-Jacket-Client | 0 | 0| 
 | 20221202T14:28:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 599| 
-| 20221202T14:20:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9493 | 326| 
 | 20221202T10:45:37Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 150 | 1| 
 | 20221202T10:07:54Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
 
@@ -65,7 +64,7 @@
 | 20221202T13:07:19Z | Null | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
 | 20221202T12:56:36Z | Nemo - A Remote Access Trojan & Post-Exploitation Framework (WIP). | https://github.com/CompeyDev/nemo | 2 | 0| 
 | 20221202T12:13:52Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12404 | 2131| 
-| 20221202T10:57:00Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9722 | 1560| 
+| 20221202T10:57:00Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9722 | 1561| 
 
 
 # backdoor on Github 推荐
