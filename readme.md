@@ -102,7 +102,7 @@
 | 20221202T20:42:32Z | Texturizer plugin. Add some grit and fuzz to your sound. | https://github.com/Stoejmaskiner/MEP00-Texture | 0 | 0| 
 | 20221202T17:50:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8103 | 1763| 
 | 20221202T15:22:04Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 1837 | 29| 
-| 20221202T14:03:19Z | Fuzzy logic to classify football players | https://github.com/mateus-ceccagno/fuzzy-footbal | 0 | 0| 
+| 20221202T14:55:15Z | Fuzzy logic to classify football players | https://github.com/mateus-ceccagno/fuzzy-footbal | 0 | 0| 
 | 20221202T12:14:32Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 50 | 16| 
 | 20221202T12:05:24Z | Simple lightweight Fuzzy Search library for Adobe ExtendScript | https://github.com/Nico-Duduf/fuzzy-search.jsxinc | 0 | 0| 
 | 20221202T11:48:18Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 121 | 8| 
