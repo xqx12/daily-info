@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221203 | THREAT-crawl: Automated Method and Tool to Crawl Criminal ... | https://gitlab.tue.nl/threat-crawl/THREATcrawl/| 
+| 20221203 | 国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/B6-usDq7cpXqgvOUXS2fHA| 
 | 20221202 | 细谈CS分离式shellcode的加载之旅 | https://mp.weixin.qq.com/s/cgp6aFwiU7S8x2jS2VXoTQ| 
 | 20221202 | 企业级钓鱼演练平台搭建 | https://xz.aliyun.com/t/11898| 
 | 20221202 | POLYGLOT：使用语义验证的通用语言处理器模糊测试引擎 | https://mp.weixin.qq.com/s/KnXLjn1Da6HmglWD7OFy6Q| 
@@ -42,24 +44,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221203T12:41:51Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
+| 20221203T11:45:49Z | CVE-2020-5752 | Druva inSync Windows Client 6.6.3 - Local Privilege Escalation (PowerShell) RCE | https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell- | | 
+| 20221203T10:08:00Z | 未知编号 | Лабораторная работа по Веб-технологиям | https://github.com/stepancar-web-programming/2022-fall-lab-portfolio-cvetkov-vyacheslav-andreevich | | 
 | 20221203T01:53:14Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | | 
 | 20221203T01:33:07Z | CVE-2022-0739 | Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | | 
-| 20221202T15:46:43Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 | 20221202T14:36:30Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
 | 20221202T11:54:41Z | CVE-2022-41082 | writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell | https://github.com/Adynervi/CVE-2022-41082-RCE-PoC | | 
 | 20221202T08:41:36Z | CVE-2022-43680 | Null | https://github.com/nidhi7598/G3_expat-2.2.6_CVE-2022-43680 | | 
 | 20221201T23:05:37Z | CVE-2022-31007 | Null | https://github.com/gscharf/CVE-2022-31007-Python-POC | | 
 | 20221201T17:17:51Z | CVE-2022-24491 | A Zeek CVE-2022-24491 detector. | https://github.com/corelight/CVE-2022-24491 | | 
-| 20221201T09:34:30Z | CVE-2022-41049 | POC of Microcorp vuln | https://github.com/NathanScottGithub/CVE-2022-41049-POC | | 
-| 20221201T09:06:49Z | cve-2021-29447 | Null | https://github.com/mega8bit/exploit_cve-2021-29447 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221203T01:34:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9494 | 326| 
+| 20221203T12:29:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 599| 
+| 20221203T08:52:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9496 | 326| 
 | 20221202T16:27:02Z | Null | https://github.com/devnose/Kleertech-Jacket-Client | 0 | 0| 
-| 20221202T14:28:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 599| 
 | 20221202T10:45:37Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 150 | 1| 
 | 20221202T10:07:54Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
 
@@ -74,31 +76,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T12:33:16Z | New takes and original works in the world of 32 bit windows hacks | https://github.com/xoltar89/win32exploits | 0 | 0| 
+| 20221203T12:29:02Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5095 | 710| 
+| 20221203T09:20:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3819 | 473| 
+| 20221203T09:13:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 556 | 144| 
+| 20221203T09:08:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12407 | 2131| 
 | 20221203T01:33:07Z | Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | 0 | 0| 
 | 20221203T01:19:15Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3b | 2 | 0| 
 | 20221203T01:19:13Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3b | 2 | 0| 
 | 20221203T01:19:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3b | 2 | 0| 
 | 20221202T23:49:27Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 1 | 0| 
-| 20221202T22:47:37Z | Null | https://github.com/Planet-Source-Code/no0ne-cgi-exploit-scanner-2-0-1-407-tests-bug-fixed__1-8611 | 0 | 0| 
-| 20221202T13:39:32Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4765 | 697| 
-| 20221202T13:35:40Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 290 | 61| 
-| 20221202T13:14:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-I-4jT-exploit-influence | 0 | 0| 
-| 20221202T13:09:07Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 116 | 17| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T12:42:33Z | Minecraft Server (Bukkit, Spigot, Paper) backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 17 | 3| 
+| 20221203T11:36:05Z | Null | https://github.com/iswantomahmud2/backdoor | 0 | 0| 
+| 20221203T10:46:09Z | Null | https://github.com/yucf7/backdoor-to-my-server-npm | 0 | 0| 
+| 20221203T07:57:48Z | tryhackme KOTH (king-of-the-hil) | https://github.com/R00TPIE/KOTH | 0 | 0| 
+| 20221203T04:55:41Z | Null | https://github.com/BuckLuckDuck/micro-backdoor | 0 | 0| 
 | 20221203T00:58:38Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1188 | 218| 
 | 20221202T19:28:15Z | Null | https://github.com/kunalkashyap855/defending-against-data-poisoning-and-backdoor-attacks | 0 | 0| 
-| 20221202T16:22:08Z | Bukkit, Spigot, Paper backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 13 | 1| 
-| 20221202T14:34:15Z | tryhackme KOTH (king-of-the-hil) | https://github.com/R00TPIE/KOTH | 0 | 0| 
 | 20221202T13:11:55Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 96 | 13| 
 | 20221202T10:55:39Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 6 | 0| 
 | 20221202T10:02:25Z | This code creates a backdoor in a node application that you can access from other server. | https://github.com/yucf7/backdoor-npm-package | 0 | 0| 
-| 20221202T09:55:50Z | Null | https://github.com/fedorfedka/py_backdoor | 0 | 0| 
-| 20221202T04:11:21Z | Null | https://github.com/fereshteh-razmi/dp_backdoors_analysis | 0 | 0| 
-| 20221201T19:15:43Z | Probabilistic backdoor trees for SAT solving | https://github.com/ctlab/itmo_parsat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T12:52:41Z | Null | https://github.com/conchoid/fuzz | 0 | 0| 
+| 20221203T12:34:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8104 | 1763| 
+| 20221203T12:23:59Z | Null | https://github.com/Starry-9t/fuzzy-octo-happiness | 0 | 0| 
+| 20221203T11:05:54Z | Null | https://github.com/GudiVaraprasad/traffic-control-fuzzy | 0 | 0| 
+| 20221203T10:26:32Z | Python dictionary with a FUZZY key-matching opportunity | https://github.com/pysnippet/fuzzymap | 1 | 1| 
+| 20221203T09:46:40Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1619 | 73| 
+| 20221203T08:34:27Z | Python based fuzzer with a regex like syntax. Supports generation of strings and variables specified in files. | https://github.com/abhishekg999/Fuzex | 0 | 0| 
 | 20221203T03:00:05Z | Fuzzy logic to classify football players | https://github.com/mateus-ceccagno/fuzzy-footbal | 1 | 0| 
 | 20221203T02:02:15Z | Null | https://github.com/Planet-Source-Code/l124rd-ai-fuzzy-logic__1-10948 | 0 | 0| 
 | 20221203T01:41:20Z | Null | https://github.com/Planet-Source-Code/lefteris-eleftheriades-fuzzy-game-check-it-out__1-34699 | 0 | 0| 
-| 20221203T01:27:14Z | Null | https://github.com/nathangurnee/fuzzer-stats | 0 | 0| 
-| 20221203T00:38:21Z | Null | https://github.com/alangray11/fuzzy-tribble | 0 | 0| 
-| 20221203T00:27:15Z | Modular Highly Parallel Fuzzer | https://github.com/Cybergenik/hopper | 2 | 0| 
-| 20221202T23:49:27Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 1 | 0| 
-| 20221202T23:20:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1182 | 154| 
-| 20221202T22:15:34Z | Null | https://github.com/nattibd/fuzzy-spoon | 0 | 0| 
-| 20221202T20:42:32Z | Texturizer plugin. Add some grit and fuzz to your sound. | https://github.com/Stoejmaskiner/MEP00-Texture | 0 | 0| 
 
 
 
