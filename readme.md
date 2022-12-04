@@ -7,6 +7,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20221203 | Spring heapdump泄露shiro key造成RCE | https://xz.aliyun.com/t/11908| 
+| 20221203 | 利用CodeQL快速挖未授权RCE的示例 | https://www.reddit.com/r/netsec/comments/zbfj1a/preauth_rce_with_codeql_in_under_20_minutes/| 
+| 20221203 | volexity披露了Lazarus APT组织采取了两种手法针对加密货币行业目标,其一通过搭建钓鱼站点部署带有AppleJeus木马的安装包文件进行钓鱼活动,安装包会释放带有白加黑的恶意载荷并且创造计划任务.AppleJeus植入物会通过收集信息并且上传到云端,等待下一步的指令.其二通过Microsoft Office宏植入(宏分为解码OLE对象的blob和从OpenDriver上下载第二阶段的载荷),后续逻辑与第一种基本一致 | https://www.volexity.com/blog/2022/12/01/buyer-beware-fake-cryptocurrency-applications-serving-as-front-for-applejeus-malware/| 
 
 
 # 安全维基 推荐
@@ -21,7 +23,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221203T12:41:51Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
+| 20221203T21:44:51Z | CVE-2021-44521 | full PoC of CVE-2021-44521  | https://github.com/Yeyvo/poc-CVE-2021-44521 | | 
+| 20221203T20:29:37Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
+| 20221203T15:03:10Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
 | 20221203T11:45:49Z | CVE-2020-5752 | Druva inSync Windows Client 6.6.3 - Local Privilege Escalation (PowerShell) RCE | https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell- | | 
 | 20221203T10:08:00Z | 未知编号 | Лабораторная работа по Веб-технологиям | https://github.com/stepancar-web-programming/2022-fall-lab-portfolio-cvetkov-vyacheslav-andreevich | | 
 | 20221203T01:53:14Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | | 
@@ -31,7 +35,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221203T14:14:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9499 | 326| 
+| 20221203T16:46:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9498 | 326| 
+| 20221203T16:28:42Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20221203T12:29:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 599| 
 
 
@@ -43,22 +48,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T23:59:17Z | Null | https://github.com/ThomasMahr/WirelessExploitation | 0 | 0| 
+| 20221203T21:25:05Z | Null | https://github.com/MrAnonymousX22/Silent-PDF-Builder | 0 | 0| 
+| 20221203T20:39:36Z | Based from Windows Exploits, but not directly forked from it. You can call it a continuation of Windows Exploits | https://github.com/quetzalcoatl201/quetzas-exploits | 0 | 0| 
+| 20221203T19:51:33Z | Null | https://github.com/KrishSai1997/Exploit-MSI-Lab | 0 | 0| 
+| 20221203T19:11:36Z | Irei colocar aqui os exploits que eu criar | https://github.com/gshell0st/Exploit-Development | 1 | 0| 
+| 20221203T17:27:04Z | Null | https://github.com/x203f/WordBombExploits | 0 | 0| 
 | 20221203T14:16:54Z | Null | https://github.com/Vitorpignataro/Exploits_Scripts | 0 | 0| 
 | 20221203T13:53:38Z | Exploit/Script for War Tycoon. | https://github.com/defrizletov/war-tycoon | 0 | 0| 
 | 20221203T13:21:06Z | For educational purposes only! | https://github.com/Wiggle-woggle/ZERO-DAY-DISCORD-EXPLOITS | 0 | 0| 
 | 20221203T13:08:59Z | New takes and original works in the world of 32 bit windows hacks | https://github.com/xoltar89/win32exploits | 0 | 0| 
-| 20221203T13:04:59Z | Null | https://github.com/darshannn10/Binary-Exploitation | 0 | 0| 
-| 20221203T12:29:02Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5095 | 710| 
-| 20221203T12:00:57Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2129 | 390| 
-| 20221203T09:20:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3819 | 473| 
-| 20221203T09:13:22Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 556 | 144| 
-| 20221203T09:08:46Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12407 | 2131| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221203T12:42:33Z | Minecraft Server (Bukkit, Spigot, Paper) backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 17 | 3| 
+| 20221203T15:01:05Z | PAM Backdoor | https://github.com/rek7/madlib | 11 | 6| 
 | 20221203T11:36:05Z | Null | https://github.com/iswantomahmud2/backdoor | 0 | 0| 
 | 20221203T10:46:09Z | Null | https://github.com/yucf7/backdoor-to-my-server-npm | 0 | 0| 
 | 20221203T07:57:48Z | tryhackme KOTH (king-of-the-hil) | https://github.com/R00TPIE/KOTH | 0 | 0| 
@@ -81,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221203T23:36:39Z | Null | https://github.com/rinaldidouglas/LogicaFuzzy | 0 | 0| 
+| 20221203T22:34:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8105 | 1763| 
+| 20221203T21:48:49Z | Null | https://github.com/RobG7414/fuzzy-guide | 0 | 0| 
+| 20221203T21:45:40Z | a test game | https://github.com/UnluckySlava/fuzzy-journey | 0 | 0| 
+| 20221203T21:19:39Z | It is an autmation tool that lets you filter the parameters that you get have for a particular domain. You can check if the parameters are valid or not, and also if the fuzz is reflected or not. The input is a file with a list of parameters for a domain | https://github.com/viehgroup/paramlinter-master | 0 | 0| 
 | 20221203T13:05:09Z | Null | https://github.com/conchoid/fuzz | 0 | 0| 
-| 20221203T12:34:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8104 | 1763| 
 | 20221203T12:23:59Z | Null | https://github.com/Starry-9t/fuzzy-octo-happiness | 0 | 0| 
 | 20221203T11:05:54Z | Null | https://github.com/GudiVaraprasad/traffic-control-fuzzy | 0 | 0| 
 | 20221203T10:26:32Z | Python dictionary with a FUZZY key-matching opportunity | https://github.com/pysnippet/fuzzymap | 1 | 1| 
 | 20221203T09:46:40Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 1619 | 73| 
-| 20221203T08:34:27Z | Python based fuzzer with a regex like syntax. Supports generation of strings and variables specified in files. | https://github.com/abhishekg999/Fuzex | 0 | 0| 
-| 20221203T03:00:05Z | Fuzzy logic to classify football players | https://github.com/mateus-ceccagno/fuzzy-footbal | 1 | 0| 
-| 20221203T02:02:15Z | Null | https://github.com/Planet-Source-Code/l124rd-ai-fuzzy-logic__1-10948 | 0 | 0| 
-| 20221203T01:41:20Z | Null | https://github.com/Planet-Source-Code/lefteris-eleftheriades-fuzzy-game-check-it-out__1-34699 | 0 | 0| 
 
 
 
