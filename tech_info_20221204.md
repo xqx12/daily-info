@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221204T13:16:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5097 | 710| 
 | 20221204T12:55:05Z | Discord : https://discord.gg/DdYZxecf6x | https://github.com/BartuYalcin/Tierra37Exploit-V1.0 | 0 | 0| 
 | 20221204T12:51:01Z | For educational purposes only! | https://github.com/Wiggle-woggle/ZERO-DAY-DISCORD-EXPLOITS | 1 | 1| 
 | 20221204T12:41:01Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12411 | 2132| 
@@ -50,7 +51,6 @@
 | 20221204T10:11:05Z | post exploitation tool for mass meterpreter sessions | https://github.com/musana/qurmi | 0 | 0| 
 | 20221204T09:50:20Z | This is a discord bot that crashes minecraft servers using exploits. | https://github.com/theDesConnet/EvilMC | 14 | 6| 
 | 20221204T09:08:00Z | Une page web pour le cours de SNT | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
-| 20221204T02:04:24Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 11 | 0| 
 
 
 # backdoor on Github 推荐
