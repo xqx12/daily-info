@@ -10,6 +10,8 @@
 | 20221203 | 利用CodeQL快速挖未授权RCE的示例 | https://www.reddit.com/r/netsec/comments/zbfj1a/preauth_rce_with_codeql_in_under_20_minutes/| 
 | 20221203 | volexity披露了Lazarus APT组织采取了两种手法针对加密货币行业目标,其一通过搭建钓鱼站点部署带有AppleJeus木马的安装包文件进行钓鱼活动,安装包会释放带有白加黑的恶意载荷并且创造计划任务.AppleJeus植入物会通过收集信息并且上传到云端,等待下一步的指令.其二通过Microsoft Office宏植入(宏分为解码OLE对象的blob和从OpenDriver上下载第二阶段的载荷),后续逻辑与第一种基本一致 | https://www.volexity.com/blog/2022/12/01/buyer-beware-fake-cryptocurrency-applications-serving-as-front-for-applejeus-malware/| 
 | 20221203 | HTB靶机CarpeDiem的writeup by 0xdf | https://0xdf.gitlab.io/2022/12/03/htb-carpediem.html| 
+| 20221203 | GL-MT300N-V2路由器的漏洞利用以及固件提取 | http://boschko.ca/glinet-router/| 
+| 20221203 | 针对chrome中WebUI的攻击面分析，如检查缺失，智能指针多次初始化，线程竞争以及UAF等 | http://eternalsakura13.com/2022/12/03/webui/| 
 | 20221202 | CVE-2022-41325:VLC的vnc模块mallocFrameBufferHandler函数存在整数溢出漏洞 | https://www.synacktiv.com/sites/default/files/2022-11/vlc_vnc_int_overflow-CVE-2022-41325.pdf| 
 | 20221202 | 在 Linux 内核中查找特定大小对象的简易脚本 | https://github.com/chompie1337/kernel_obj_finder| 
 | 20221202 | 美国 CISA 发布一款勒索软件的技术细节通告，包括 TTP 和 IOC 等信息 | https://go.dhs.gov/Znp| 
@@ -24,8 +26,6 @@
 | 20221201 | LastPass的数据有可能已经被黑客窃取！ | https://www.freebuf.com/news/351313.html| 
 | 20221201 | 安全工具，可解析NTLM消息、可实现针对微软ADFS服务的NTLM转发攻击 | http://securityonline.info/adfsrelay-ntlm-relaying-attacks-targeting-adfs/| 
 | 20221201 | Google TAG发表了一篇关于可能来自于西班牙巴塞罗那的一家名为Variston IT的公司所开发的Heliconia利用框架,其中分为主要的三个部分:Heliconia Noise(一个web框架,用于部署浏览器sbx-issues1228036),Heliconia Soft(一个web框架用于部署含有Windows Defender的exp利用-CVE-2021-42298),File(适用于 Windows 和 Linux 的 Firefox 漏洞利用链-CVE-2022-26485) | https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/| 
-| 20221201 | 伪造 Kerberos 和 LDAP 服务器并使用一个公开 SID，可绕过 Intel Data Center Manager 的身份鉴别过程 | http://packetstormsecurity.com/files/170065| 
-| 20221201 | 通过构造预发布版本的 NPM 包可引入漏洞或恶意代码并逃过检测 | https://thehackernews.com/2022/11/researchers-find-way-malicious-npm.html| 
 
 
 # 安全维基 推荐
