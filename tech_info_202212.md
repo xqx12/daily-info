@@ -79,7 +79,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221204T01:03:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2o | 0 | 0| 
+| 20221204T01:05:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2o | 1 | 0| 
+| 20221204T01:04:55Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2o | 1 | 0| 
+| 20221204T01:04:07Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2o | 1 | 0| 
 | 20221204T00:34:59Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/bridanrodika7/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
 | 20221204T00:09:02Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/gamargajdekc/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
 | 20221203T23:59:17Z | Null | https://github.com/ThomasMahr/WirelessExploitation | 0 | 0| 
@@ -87,8 +89,6 @@
 | 20221203T20:39:36Z | Based from Windows Exploits, but not directly forked from it. You can call it a continuation of Windows Exploits | https://github.com/quetzalcoatl201/quetzas-exploits | 0 | 0| 
 | 20221203T19:51:33Z | Null | https://github.com/KrishSai1997/Exploit-MSI-Lab | 0 | 0| 
 | 20221203T19:11:36Z | Irei colocar aqui os exploits que eu criar | https://github.com/gshell0st/Exploit-Development | 1 | 0| 
-| 20221203T17:27:04Z | Null | https://github.com/x203f/WordBombExploits | 0 | 0| 
-| 20221203T14:16:54Z | Null | https://github.com/Vitorpignataro/Exploits_Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
