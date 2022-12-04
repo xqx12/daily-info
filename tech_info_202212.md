@@ -79,6 +79,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221204T01:03:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-2o | 0 | 0| 
 | 20221204T00:34:59Z | KeyLess Nyve RobloxExploit Over 10 FEATURES | https://github.com/bridanrodika7/Nyve-Keyless-Roblox-Premium-Exploit | 0 | 0| 
 | 20221204T00:09:02Z | Roblox Eclipseware Exploits over 50 in one program | https://github.com/gamargajdekc/EclipseWare-Free-Roblox-Exploits-v1.7 | 0 | 0| 
 | 20221203T23:59:17Z | Null | https://github.com/ThomasMahr/WirelessExploitation | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20221203T19:11:36Z | Irei colocar aqui os exploits que eu criar | https://github.com/gshell0st/Exploit-Development | 1 | 0| 
 | 20221203T17:27:04Z | Null | https://github.com/x203f/WordBombExploits | 0 | 0| 
 | 20221203T14:16:54Z | Null | https://github.com/Vitorpignataro/Exploits_Scripts | 0 | 0| 
-| 20221203T13:53:38Z | Exploit/Script for War Tycoon. | https://github.com/defrizletov/war-tycoon | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,6 +113,7 @@
 | 20221203T02:58:37Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1252 | 58| 
 | 20221202T14:58:08Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 11 | 3| 
 | 20221202T12:31:14Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3227 | 455| 
+| 20221202T02:18:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 275 | 66| 
 | 20221201T10:19:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 596 | 107| 
 
 
