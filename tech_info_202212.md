@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221204T01:29:40Z | Null | https://github.com/RS9977/FuzzyLogicEdgeDetection | 0 | 0| 
 | 20221204T00:52:03Z | Null | https://github.com/WillianSi/ProjetoFuzzy | 0 | 0| 
 | 20221203T23:36:39Z | Null | https://github.com/rinaldidouglas/LogicaFuzzy | 0 | 0| 
 | 20221203T22:34:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8105 | 1763| 
@@ -135,7 +136,6 @@
 | 20221203T13:05:09Z | Null | https://github.com/conchoid/fuzz | 0 | 0| 
 | 20221203T12:23:59Z | Null | https://github.com/Starry-9t/fuzzy-octo-happiness | 0 | 0| 
 | 20221203T11:05:54Z | Null | https://github.com/GudiVaraprasad/traffic-control-fuzzy | 0 | 0| 
-| 20221203T10:26:32Z | Python dictionary with a FUZZY key-matching opportunity | https://github.com/pysnippet/fuzzymap | 1 | 1| 
 
 
 
