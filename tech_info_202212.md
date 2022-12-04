@@ -103,8 +103,8 @@
 | 20221203T04:55:41Z | Null | https://github.com/BuckLuckDuck/micro-backdoor | 0 | 0| 
 | 20221203T00:58:38Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1188 | 218| 
 | 20221202T19:28:15Z | Null | https://github.com/kunalkashyap855/defending-against-data-poisoning-and-backdoor-attacks | 0 | 0| 
+| 20221202T13:58:32Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/ryanwe1ss/Windows-Backdoor | 44 | 13| 
 | 20221202T13:11:55Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 96 | 13| 
-| 20221202T10:55:39Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 6 | 0| 
 
 
 # symbolic execution on Github 推荐
