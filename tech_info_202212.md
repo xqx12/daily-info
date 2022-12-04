@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221204T01:59:51Z | CVE-2022-43097 | All details about CVE-2022-43097 | https://github.com/nibin-m/CVE-2022-43097 | | 
 | 20221203T21:44:51Z | CVE-2021-44521 | full PoC of CVE-2021-44521  | https://github.com/Yeyvo/poc-CVE-2021-44521 | | 
 | 20221203T20:29:37Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 | 20221203T15:03:10Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
@@ -55,7 +56,6 @@
 | 20221203T01:33:07Z | CVE-2022-0739 | Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | | 
 | 20221202T14:36:30Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
 | 20221202T11:54:41Z | CVE-2022-41082 | writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell | https://github.com/Adynervi/CVE-2022-41082-RCE-PoC | | 
-| 20221202T08:41:36Z | CVE-2022-43680 | Null | https://github.com/nidhi7598/G3_expat-2.2.6_CVE-2022-43680 | | 
 
 
 # klee on Github 推荐
