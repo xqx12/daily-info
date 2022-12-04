@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20221204 | Sysmon 中任意文件删除/写入的POC (CVE-2022-41120/CVE-2022-XXXXX) | https://github.com/Wh04m1001/SysmonEoP| 
 | 20221204 | PrintNotifyPotato - PrintNotify COM接口提权 用于win10,11 Windows Server 2012 - 2022 | https://github.com/BeichenDream/PrintNotifyPotato| 
+| 20221204 | CVE-2022-21661:WordPress Core 5.8.2 - WP_Query sql注入 | https://github.com/APTIRAN/CVE-2022-21661| 
 
 
 # 安全维基 推荐

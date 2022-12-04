@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20221204 | Sysmon 中任意文件删除/写入的POC (CVE-2022-41120/CVE-2022-XXXXX) | https://github.com/Wh04m1001/SysmonEoP| 
 | 20221204 | PrintNotifyPotato - PrintNotify COM接口提权 用于win10,11 Windows Server 2012 - 2022 | https://github.com/BeichenDream/PrintNotifyPotato| 
+| 20221204 | CVE-2022-21661:WordPress Core 5.8.2 - WP_Query sql注入 | https://github.com/APTIRAN/CVE-2022-21661| 
 | 20221203 | Spring heapdump泄露shiro key造成RCE | https://xz.aliyun.com/t/11908| 
 | 20221203 | 利用CodeQL快速挖未授权RCE的示例 | https://www.reddit.com/r/netsec/comments/zbfj1a/preauth_rce_with_codeql_in_under_20_minutes/| 
 | 20221203 | volexity披露了Lazarus APT组织采取了两种手法针对加密货币行业目标,其一通过搭建钓鱼站点部署带有AppleJeus木马的安装包文件进行钓鱼活动,安装包会释放带有白加黑的恶意载荷并且创造计划任务.AppleJeus植入物会通过收集信息并且上传到云端,等待下一步的指令.其二通过Microsoft Office宏植入(宏分为解码OLE对象的blob和从OpenDriver上下载第二阶段的载荷),后续逻辑与第一种基本一致 | https://www.volexity.com/blog/2022/12/01/buyer-beware-fake-cryptocurrency-applications-serving-as-front-for-applejeus-malware/| 
@@ -25,7 +26,6 @@
 | 20221202 | 论文介绍RISC-V架构上的JOP漏洞利用方法 | https://arxiv.org/pdf/2211.16212.pdf| 
 | 20221202 | 一个专门fuzz User-Agent ， X-Forwarded-For， Referer的 SQLI Fuzzer | https://github.com/root-tanishq/userefuzz| 
 | 20221201 | 在进行身份认证时，程序会基于用户可控的HTTP请求的Host域构造新请求，并通过这一新请求的返回结果判断用户是否认证成功。若用户修改Host指向自己可控HTTPS服务器，则可以绕过身份认证。 | http://paper.seebug.org/2031/| 
-| 20221201 | LastPass的数据有可能已经被黑客窃取！ | https://www.freebuf.com/news/351313.html| 
 
 
 # 安全维基 推荐
