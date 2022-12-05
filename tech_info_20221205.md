@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221205T13:26:26Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 | 20221205T12:26:40Z | CVE-2022-43680 | Null | https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680 | | 
 | 20221205T11:25:40Z | CVE-2022-2022 | Null | https://github.com/sdfbjaksff/CVE-2022-2022 | | 
 | 20221205T09:47:53Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
-| 20221205T09:17:33Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 | 20221205T07:39:52Z | CVE-2022-0739 | Python Exploit for CVE-2022-0739 | https://github.com/BKreisel/CVE-2022-0739 | | 
 | 20221205T07:39:21Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
 | 20221205T07:36:27Z | CVE-2022-24112 | CVE-2022-24112_POC | https://github.com/Acczdy/CVE-2022-24112_POC | | 
