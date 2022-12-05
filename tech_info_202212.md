@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221205T02:09:28Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 | 20221204T22:12:55Z | CVE-2022-2588 | Null | https://github.com/BassamGraini/CVE-2022-2588 | | 
 | 20221204T21:00:05Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
-| 20221204T20:25:01Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 | 20221204T15:38:28Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
 | 20221204T03:07:42Z | CVE-2022-24112 | CVE-2022-24112_POC | https://github.com/Acczdy/CVE-2022-24112_POC | | 
 | 20221204T02:15:53Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | | 
