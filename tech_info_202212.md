@@ -134,6 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T13:51:02Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 123 | 9| 
 | 20221205T13:42:29Z | Null | https://github.com/kleber0a0m/FuzzyFrenagem | 0 | 0| 
 | 20221205T13:35:43Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1322 | 96| 
 | 20221205T13:33:57Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 171 | 27| 
@@ -143,7 +144,6 @@
 | 20221205T12:32:51Z | Null | https://github.com/Moaz20190549/Apply-k-means-and-fuzzy-c-mean-on-student-pass-or-fail-data-set- | 0 | 0| 
 | 20221205T12:18:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4459 | 1082| 
 | 20221205T11:59:12Z | Fuzzing Browsers | https://github.com/RootUp/BFuzz | 293 | 53| 
-| 20221205T11:57:43Z | i know this code violating DRY and SOLID principles | https://github.com/MEnbiyaDemir/Airplane-AutoLanding-Fuzzy-Logic | 0 | 0| 
 
 
 
