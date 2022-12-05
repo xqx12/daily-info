@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T13:17:34Z | Sistema de Fuzzy com Frenagem de velocidade e distância aula de IA sex período sistemas | https://github.com/Matheusfr17x/FuzzyFrenagem | 0 | 0| 
 | 20221205T12:43:00Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 21 | 7| 
 | 20221205T12:37:35Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 172 | 27| 
 | 20221205T12:32:51Z | Null | https://github.com/Moaz20190549/Apply-k-means-and-fuzzy-c-mean-on-student-pass-or-fail-data-set- | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20221205T11:46:38Z | Site vitrine | https://github.com/Flwrian/Fuzzy | 0 | 0| 
 | 20221205T11:30:51Z | Null | https://github.com/jinkijack/fuzzyFrenagem | 0 | 0| 
 | 20221205T11:29:45Z | Null | https://github.com/Brendo09/Fuzzy | 0 | 0| 
-| 20221205T11:29:33Z | Null | https://github.com/chapollin/FuzzyProject | 0 | 0| 
 
 
 
