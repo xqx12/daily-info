@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T02:20:15Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.v8.n-day.exploits | 4 | 0| 
 | 20221205T02:19:47Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.v8.n-days | 4 | 0| 
 | 20221205T00:15:42Z | Collection of discord features & exploits | https://github.com/recreational-computing/discord-features | 13 | 0| 
 | 20221204T21:46:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1g | 1 | 0| 
@@ -91,7 +92,6 @@
 | 20221204T21:00:05Z | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | 0 | 0| 
 | 20221204T20:32:26Z | python scripts and exploit for whitehat  | https://github.com/luck221/PythonHackScripts | 0 | 1| 
 | 20221204T16:38:16Z | Null | https://github.com/skraynick/PythonExploitFramework | 0 | 0| 
-| 20221204T16:16:01Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 947 | 209| 
 
 
 # backdoor on Github 推荐
