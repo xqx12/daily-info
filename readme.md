@@ -85,7 +85,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221204T23:52:43Z | Project code submission | https://github.com/mosmith3asu/EEE598_FuzzyQLearning | 0 | 0| 
 | 20221204T22:55:45Z | Fuzzer for 42school projects | https://github.com/Helsingxx/CRASH-STATION | 0 | 0| 
 | 20221204T21:31:00Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 858 | 183| 
 | 20221204T21:19:44Z | Null | https://github.com/Amadeo-Tunyi/fuzzy-c-means-python | 0 | 0| 
@@ -95,6 +94,7 @@
 | 20221204T10:15:09Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 218 | 31| 
 | 20221204T08:13:50Z | Program to determine the best restaurant based on service and food | https://github.com/naufal7567/FuzzyApp | 0 | 0| 
 | 20221204T07:35:13Z | Null | https://github.com/fuzz6001/fuzz6001 | 0 | 0| 
+| 20221204T01:29:40Z | Null | https://github.com/RS9977/FuzzyLogicEdgeDetection | 0 | 0| 
 
 
 
