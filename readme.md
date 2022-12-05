@@ -10,6 +10,7 @@
 | 20221204 | PrintNotifyPotato - PrintNotify COM接口提权 用于win10,11 Windows Server 2012 - 2022 | https://github.com/BeichenDream/PrintNotifyPotato| 
 | 20221204 | CVE-2022-21661:WordPress Core 5.8.2 - WP_Query sql注入 | https://github.com/APTIRAN/CVE-2022-21661| 
 | 20221204 | 探索8086 微处理器的微码引擎是如何工作的 | https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html| 
+| 20221204 | Neton，用于获取沙箱指纹的工具 | https://www.kitploit.com/2022/12/neton-tool-for-getting-information-from.html| 
 
 
 # 安全维基 推荐

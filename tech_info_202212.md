@@ -10,6 +10,7 @@
 | 20221204 | PrintNotifyPotato - PrintNotify COM接口提权 用于win10,11 Windows Server 2012 - 2022 | https://github.com/BeichenDream/PrintNotifyPotato| 
 | 20221204 | CVE-2022-21661:WordPress Core 5.8.2 - WP_Query sql注入 | https://github.com/APTIRAN/CVE-2022-21661| 
 | 20221204 | 探索8086 微处理器的微码引擎是如何工作的 | https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html| 
+| 20221204 | Neton，用于获取沙箱指纹的工具 | https://www.kitploit.com/2022/12/neton-tool-for-getting-information-from.html| 
 | 20221203 | Spring heapdump泄露shiro key造成RCE | https://xz.aliyun.com/t/11908| 
 | 20221203 | 利用CodeQL快速挖未授权RCE的示例 | https://www.reddit.com/r/netsec/comments/zbfj1a/preauth_rce_with_codeql_in_under_20_minutes/| 
 | 20221203 | volexity披露了Lazarus APT组织采取了两种手法针对加密货币行业目标,其一通过搭建钓鱼站点部署带有AppleJeus木马的安装包文件进行钓鱼活动,安装包会释放带有白加黑的恶意载荷并且创造计划任务.AppleJeus植入物会通过收集信息并且上传到云端,等待下一步的指令.其二通过Microsoft Office宏植入(宏分为解码OLE对象的blob和从OpenDriver上下载第二阶段的载荷),后续逻辑与第一种基本一致 | https://www.volexity.com/blog/2022/12/01/buyer-beware-fake-cryptocurrency-applications-serving-as-front-for-applejeus-malware/| 
@@ -25,7 +26,6 @@
 | 20221202 | BlackBerry发布关于狩猎beacons的白皮书,从网站特征,流量,文件结构,硬编码等多角度进行讨论 | https://github.com/blackorbird/APT_REPORT/blob/master/APT-hunting/hunting-cobaltstrike-beacons-in-the-dark.pdf| 
 | 20221202 | CertPotato-滥用ADCS特性而进行权限提升 | https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/| 
 | 20221202 | 论文介绍RISC-V架构上的JOP漏洞利用方法 | https://arxiv.org/pdf/2211.16212.pdf| 
-| 20221202 | 一个专门fuzz User-Agent ， X-Forwarded-For， Referer的 SQLI Fuzzer | https://github.com/root-tanishq/userefuzz| 
 
 
 # 安全维基 推荐
