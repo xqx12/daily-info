@@ -129,7 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221205T01:09:02Z | Project code submission | https://github.com/mosmith3asu/EEE598_FuzzyQLearning | 0 | 0| 
+| 20221205T01:21:02Z | Project code submission | https://github.com/mosmith3asu/EEE598_FuzzyQLearning | 0 | 0| 
 | 20221205T00:52:14Z | Config files for my GitHub profile. | https://github.com/fuzzy88/fuzzy88 | 0 | 0| 
 | 20221205T00:21:22Z | Null | https://github.com/mateus-ceccagno/football-fuzzy | 0 | 0| 
 | 20221204T22:55:45Z | Fuzzer for 42school projects | https://github.com/Helsingxx/CRASH-STATION | 0 | 0| 
