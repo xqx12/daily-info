@@ -11,6 +11,7 @@
 | 20221204 | CVE-2022-21661:WordPress Core 5.8.2 - WP_Query sql注入 | https://github.com/APTIRAN/CVE-2022-21661| 
 | 20221204 | 探索8086 微处理器的微码引擎是如何工作的 | https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html| 
 | 20221204 | Neton，用于获取沙箱指纹的工具 | https://www.kitploit.com/2022/12/neton-tool-for-getting-information-from.html| 
+| 20221204 | 在Discord中植入RCE后门的尝试，作者起初选择使用Python调用API与server通信，并通过Nuitka将其打包为PE，但会使得程序文件大小增加40+ MB，后续尝试通过SMB进行优化。 | https://medium.com/@lsecqt/weaponizing-discord-shell-via-smb-92375e730e26| 
 
 
 # 安全维基 推荐
