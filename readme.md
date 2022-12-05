@@ -70,7 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221205T13:06:03Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1394 | 245| 
+| 20221205T13:30:33Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1395 | 245| 
 | 20221205T11:54:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 614 | 122| 
 | 20221205T07:29:03Z | Null | https://github.com/KosameAmegai/eval-wget-shell-backdoor | 0 | 0| 
 | 20221205T06:20:29Z | Hoy les traigo esta script que se trata de un menu que genera un backdoor sh , tipo reverse_http el uso es simple bash backdoor.sh selecione un backdoor y envielo a la victima use ig.social , backdoor solo sirve para ver , descargar los archivos del almacenamiento interno de la victima mediante el servidor python y con un tunel ssh.  | https://github.com/MRX90902WX/Backdoor-sh | 1 | 0| 
@@ -99,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T13:35:43Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1322 | 96| 
+| 20221205T13:33:57Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 171 | 27| 
+| 20221205T13:27:53Z | Null | https://github.com/ThomasNakas/fuzzy-octo-couscous | 0 | 0| 
 | 20221205T13:17:34Z | Sistema de Fuzzy com Frenagem de velocidade e distância aula de IA sex período sistemas | https://github.com/Matheusfr17x/FuzzyFrenagem | 0 | 0| 
 | 20221205T12:43:00Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 21 | 7| 
-| 20221205T12:37:35Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 172 | 27| 
 | 20221205T12:32:51Z | Null | https://github.com/Moaz20190549/Apply-k-means-and-fuzzy-c-mean-on-student-pass-or-fail-data-set- | 0 | 0| 
 | 20221205T12:18:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4459 | 1082| 
 | 20221205T11:59:12Z | Fuzzing Browsers | https://github.com/RootUp/BFuzz | 293 | 53| 
 | 20221205T11:57:43Z | i know this code violating DRY and SOLID principles | https://github.com/MEnbiyaDemir/Airplane-AutoLanding-Fuzzy-Logic | 0 | 0| 
 | 20221205T11:46:38Z | Site vitrine | https://github.com/Flwrian/Fuzzy | 0 | 0| 
-| 20221205T11:30:51Z | Null | https://github.com/jinkijack/fuzzyFrenagem | 0 | 0| 
-| 20221205T11:29:45Z | Null | https://github.com/Brendo09/Fuzzy | 0 | 0| 
 
 
 
