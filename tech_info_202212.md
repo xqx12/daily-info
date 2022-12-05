@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221205T02:20:15Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.v8.n-day.exploits | 4 | 0| 
+| 20221205T02:20:56Z | Chrome javascript engine exploits that I%ve written. | https://github.com/anvbis/chrome.v8.n-day.exploits | 4 | 0| 
 | 20221205T02:19:47Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.v8.n-days | 4 | 0| 
 | 20221205T00:15:42Z | Collection of discord features & exploits | https://github.com/recreational-computing/discord-features | 13 | 0| 
 | 20221204T21:46:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1g | 1 | 0| 
