@@ -13,6 +13,7 @@
 | 20221205 | 从取证的角度分析Windows进程中的有趣的数据结构 | https://eforensicsmag.com/an-introduction-to-memory-forensics-windows-process-internals-by-joseph-moronwi/| 
 | 20221205 | 如何使用PPLKiller绕过PPL保护调试受保护的进程及相关技术原理。 | https://itm4n.github.io/debugging-protected-processes/| 
 | 20221205 | 两个OpenSSL高危漏洞分析（CVE-2022-3786、CVE-2022-3602），以及如何使用libfuzzer去发现上述漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/zbyx41/how_to_replicate_openssl_vulnerabilities/| 
+| 20221205 | SiriusXM 某一网站存在漏洞可影响多家车企，允许攻击者仅通过VID即可获取客户信息，通过进一步提权可导致受害客户的汽车被远程解锁、启动、定位、鸣笛。 | http://cybersecuritynews.com/vulnerability-in-honda-nissan-toyota-cars-app/| 
 | 20221204 | Sysmon 中任意文件删除/写入的POC (CVE-2022-41120/CVE-2022-XXXXX) | https://github.com/Wh04m1001/SysmonEoP| 
 | 20221204 | PrintNotifyPotato - PrintNotify COM接口提权 用于win10,11 Windows Server 2012 - 2022 | https://github.com/BeichenDream/PrintNotifyPotato| 
 | 20221204 | CVE-2022-21661:WordPress Core 5.8.2 - WP_Query sql注入 | https://github.com/APTIRAN/CVE-2022-21661| 
@@ -25,7 +26,6 @@
 | 20221203 | HTB靶机CarpeDiem的writeup by 0xdf | https://0xdf.gitlab.io/2022/12/03/htb-carpediem.html| 
 | 20221203 | GL-MT300N-V2路由器的漏洞利用以及固件提取 | http://boschko.ca/glinet-router/| 
 | 20221203 | 针对chrome中WebUI的攻击面分析，如检查缺失，智能指针多次初始化，线程竞争以及UAF等 | http://eternalsakura13.com/2022/12/03/webui/| 
-| 20221202 | CVE-2022-41325:VLC的vnc模块mallocFrameBufferHandler函数存在整数溢出漏洞 | https://www.synacktiv.com/sites/default/files/2022-11/vlc_vnc_int_overflow-CVE-2022-41325.pdf| 
 
 
 # 安全维基 推荐
@@ -91,10 +91,10 @@
 | 20221205T10:49:09Z | An Evil Tool to Exploit Targets | https://github.com/Pyloris/shroud | 0 | 0| 
 | 20221205T06:13:58Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4876 | 1674| 
 | 20221205T04:55:19Z | Chrome javascript engine exploits that I%ve written. | https://github.com/anvbis/chrome-v8_n-days | 4 | 0| 
+| 20221205T04:06:58Z | BI T3434 Project on data mining CVEs and Exploits | https://github.com/gsmith257-cyber/BIT3434CVE | 1 | 0| 
 | 20221205T03:04:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 558 | 144| 
 | 20221205T02:51:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4771 | 698| 
 | 20221205T02:20:56Z | Chrome javascript engine exploits that I%ve written. | https://github.com/anvbis/chrome.v8.n-day.exploits | 4 | 0| 
-| 20221205T02:19:47Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.v8.n-days | 4 | 0| 
 
 
 # backdoor on Github 推荐

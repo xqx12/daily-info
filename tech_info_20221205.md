@@ -13,6 +13,7 @@
 | 20221205 | 从取证的角度分析Windows进程中的有趣的数据结构 | https://eforensicsmag.com/an-introduction-to-memory-forensics-windows-process-internals-by-joseph-moronwi/| 
 | 20221205 | 如何使用PPLKiller绕过PPL保护调试受保护的进程及相关技术原理。 | https://itm4n.github.io/debugging-protected-processes/| 
 | 20221205 | 两个OpenSSL高危漏洞分析（CVE-2022-3786、CVE-2022-3602），以及如何使用libfuzzer去发现上述漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/zbyx41/how_to_replicate_openssl_vulnerabilities/| 
+| 20221205 | SiriusXM 某一网站存在漏洞可影响多家车企，允许攻击者仅通过VID即可获取客户信息，通过进一步提权可导致受害客户的汽车被远程解锁、启动、定位、鸣笛。 | http://cybersecuritynews.com/vulnerability-in-honda-nissan-toyota-cars-app/| 
 
 
 # 安全维基 推荐
@@ -60,10 +61,10 @@
 | 20221205T10:49:09Z | An Evil Tool to Exploit Targets | https://github.com/Pyloris/shroud | 0 | 0| 
 | 20221205T06:13:58Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4876 | 1674| 
 | 20221205T04:55:19Z | Chrome javascript engine exploits that I%ve written. | https://github.com/anvbis/chrome-v8_n-days | 4 | 0| 
+| 20221205T04:06:58Z | BI T3434 Project on data mining CVEs and Exploits | https://github.com/gsmith257-cyber/BIT3434CVE | 1 | 0| 
 | 20221205T03:04:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 558 | 144| 
 | 20221205T02:51:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4771 | 698| 
 | 20221205T02:20:56Z | Chrome javascript engine exploits that I%ve written. | https://github.com/anvbis/chrome.v8.n-day.exploits | 4 | 0| 
-| 20221205T02:19:47Z | Chrome JS engine n-day exploits I%ve written. | https://github.com/anvbis/chrome.v8.n-days | 4 | 0| 
 
 
 # backdoor on Github 推荐
