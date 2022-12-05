@@ -137,7 +137,7 @@
 | 20221205T13:51:02Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 123 | 9| 
 | 20221205T13:42:29Z | Null | https://github.com/kleber0a0m/FuzzyFrenagem | 0 | 0| 
 | 20221205T13:35:43Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1322 | 96| 
-| 20221205T13:33:57Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 171 | 27| 
+| 20221205T13:33:57Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 171 | 28| 
 | 20221205T13:27:53Z | Null | https://github.com/ThomasNakas/fuzzy-octo-couscous | 0 | 0| 
 | 20221205T13:17:34Z | Sistema de Fuzzy com Frenagem de velocidade e distância aula de IA sex período sistemas | https://github.com/Matheusfr17x/FuzzyFrenagem | 0 | 0| 
 | 20221205T12:43:00Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 21 | 7| 
