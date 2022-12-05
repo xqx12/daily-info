@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T01:05:05Z | Null | https://github.com/wangqiuoe/CSE498-AML-QiWangCancanZhang-BackdoorBenchmark | 0 | 0| 
 | 20221204T21:59:19Z | CSE498 Adversarial Machine Learning | https://github.com/nietzsche9088/CSE498-AML-QiuyuTang-BackdoorBenchmark | 0 | 0| 
 | 20221204T21:02:15Z | Null | https://github.com/sadega00/shell-backdoor- | 0 | 0| 
 | 20221204T12:27:58Z | Backdoor Pony is a web application that allows researchers to test a wide variety of attacks and defences on different neural network models on a single platform.  | https://github.com/Rezonansce/backdoorponyv2 | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20221204T05:48:48Z | Backdoor gang | https://github.com/Issekai/stashspot | 0 | 0| 
 | 20221203T15:01:05Z | PAM Backdoor | https://github.com/rek7/madlib | 11 | 6| 
 | 20221203T11:36:05Z | Null | https://github.com/iswantomahmud2/backdoor | 0 | 0| 
-| 20221203T10:46:09Z | Null | https://github.com/yucf7/backdoor-to-my-server-npm | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
