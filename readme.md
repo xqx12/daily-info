@@ -84,11 +84,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T12:24:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 277 | 66| 
+| 20221205T10:53:46Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 28 | 5| 
+| 20221205T08:38:58Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 405 | 37| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T04:01:13Z | Code for NDSS 2021 Paper %Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses Against Federated Learning% | https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning | 63 | 15| 
 
 
 # fuzz on Github 推荐
