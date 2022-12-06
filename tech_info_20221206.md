@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221206T13:30:13Z | Tool to help to cryptanalysis for cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | 7 | 1| 
 | 20221206T12:56:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4782 | 700| 
 | 20221206T12:34:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12419 | 2133| 
 | 20221206T12:22:20Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 5 | 0| 
@@ -56,13 +57,12 @@
 | 20221206T10:38:00Z | Create your bots for Minecraft. Additionally, log4j exploit implementation. | https://github.com/AlexandrMilko/PenBot | 0 | 0| 
 | 20221206T09:45:56Z | Third party patch for EsteemAudit NSA Exploit released in 2017 | https://github.com/trapmine/esteemaudit-patch | 0 | 0| 
 | 20221206T08:01:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3832 | 474| 
-| 20221206T01:26:04Z | I determine the best explore/explot algorithm to use to store my belongings in the morning | https://github.com/aribish/explore-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221206T13:23:25Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1478 | 261| 
+| 20221206T13:39:46Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1479 | 261| 
 | 20221206T09:24:40Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 97 | 13| 
 | 20221206T02:52:32Z | backdoor attack on minicoco | https://github.com/srikeerthi207/minicoco_backdoor | 0 | 0| 
 
