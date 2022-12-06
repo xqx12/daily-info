@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221206T01:01:09Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1433 | 253| 
+| 20221206T01:01:31Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1434 | 253| 
 | 20221205T19:47:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221205T17:23:58Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 7 | 0| 
 | 20221205T16:20:22Z | An enhanced version of icmpdoor | https://github.com/my-0day/icmp_backdoor_enhanced | 0 | 0| 
@@ -115,14 +115,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T19:03:38Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 406 | 37| 
+| 20221205T14:36:32Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 29 | 5| 
 | 20221205T12:24:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 277 | 66| 
-| 20221205T10:53:46Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 28 | 5| 
-| 20221205T08:38:58Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 405 | 37| 
 | 20221204T01:50:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3228 | 455| 
 | 20221203T12:29:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 600| 
 | 20221203T02:58:37Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1252 | 58| 
 | 20221202T14:58:08Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 11 | 3| 
-| 20221201T10:19:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 596 | 107| 
+| 20221201T10:19:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 596 | 108| 
 
 
 # big4 on Github 推荐
