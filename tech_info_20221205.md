@@ -15,6 +15,7 @@
 | 20221205 | 两个OpenSSL高危漏洞分析（CVE-2022-3786、CVE-2022-3602），以及如何使用libfuzzer去发现上述漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/zbyx41/how_to_replicate_openssl_vulnerabilities/| 
 | 20221205 | SiriusXM 某一网站存在漏洞可影响多家车企，允许攻击者仅通过VID即可获取客户信息，通过进一步提权可导致受害客户的汽车被远程解锁、启动、定位、鸣笛。 | http://cybersecuritynews.com/vulnerability-in-honda-nissan-toyota-cars-app/| 
 | 20221205 | DuckLogs 恶意软件在野外执行多种恶意活动 | http://paper.seebug.org/2034/| 
+| 20221205 | 一个逆向工程研讨会的ppt，讲到了很多x86下逆向的技巧 | https://github.com/romainthomas/reverse-engineering-workshop| 
 
 
 # 安全维基 推荐
