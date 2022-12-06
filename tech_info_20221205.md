@@ -14,6 +14,7 @@
 | 20221205 | 如何使用PPLKiller绕过PPL保护调试受保护的进程及相关技术原理。 | https://itm4n.github.io/debugging-protected-processes/| 
 | 20221205 | 两个OpenSSL高危漏洞分析（CVE-2022-3786、CVE-2022-3602），以及如何使用libfuzzer去发现上述漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/zbyx41/how_to_replicate_openssl_vulnerabilities/| 
 | 20221205 | SiriusXM 某一网站存在漏洞可影响多家车企，允许攻击者仅通过VID即可获取客户信息，通过进一步提权可导致受害客户的汽车被远程解锁、启动、定位、鸣笛。 | http://cybersecuritynews.com/vulnerability-in-honda-nissan-toyota-cars-app/| 
+| 20221205 | DuckLogs 恶意软件在野外执行多种恶意活动 | http://paper.seebug.org/2034/| 
 
 
 # 安全维基 推荐
@@ -26,6 +27,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221205T21:13:31Z | cve-2021-41773 | Exploit for path transversal vulnerability in apache | https://github.com/TheKernelPanic/exploit-apache2-cve-2021-41773 | | 
+| 20221205T16:18:19Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
 | 20221205T13:26:26Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 | 20221205T12:26:40Z | CVE-2022-43680 | Null | https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680 | | 
 | 20221205T11:25:40Z | CVE-2022-2022 | Null | https://github.com/sdfbjaksff/CVE-2022-2022 | | 
@@ -34,52 +37,51 @@
 | 20221205T07:39:21Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
 | 20221205T07:36:27Z | CVE-2022-24112 | CVE-2022-24112_POC | https://github.com/Acczdy/CVE-2022-24112_POC | | 
 | 20221205T07:36:21Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
-| 20221205T07:25:18Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221205T10:15:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9516 | 327| 
+| 20221205T15:01:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9519 | 327| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T15:35:34Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 6| 
 | 20221205T12:24:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 277 | 66| 
 | 20221205T12:20:29Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 6 | 5| 
-| 20221205T11:00:09Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 25 | 5| 
 | 20221205T08:13:33Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 84 | 45| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T23:38:51Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem  Topics | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
+| 20221205T23:24:09Z | Pwntools exploit template | https://github.com/Andromeda1957/pwn_template | 0 | 0| 
+| 20221205T23:21:34Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass-LUA | 0 | 0| 
+| 20221205T21:13:31Z | Exploit for path transversal vulnerability in apache | https://github.com/TheKernelPanic/exploit-apache2-cve-2021-41773 | 0 | 0| 
+| 20221205T21:09:08Z | We have presented CIL method to learn the optimal dynamic treatment regime by exploiting information from both trajectories (positive and negative). | https://github.com/IhteshamShah/Cooperative-Imitation-Learning-CIL- | 0 | 0| 
+| 20221205T18:51:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 50 | 27| 
+| 20221205T16:42:03Z | Made a multitool cuz I was Bored | https://github.com/etxnight/Et-exploits-Multitool | 0 | 0| 
 | 20221205T13:03:34Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9733 | 1560| 
 | 20221205T12:57:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12414 | 2132| 
 | 20221205T11:25:37Z | The third homework of Math experiment by exploiting Mathematica | https://github.com/hyp-YupengHe/Mathematica-Homework | 0 | 0| 
-| 20221205T10:49:09Z | An Evil Tool to Exploit Targets | https://github.com/Pyloris/shroud | 0 | 0| 
-| 20221205T06:13:58Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 4876 | 1674| 
-| 20221205T04:55:19Z | Chrome javascript engine exploits that I%ve written. | https://github.com/anvbis/chrome-v8_n-days | 4 | 0| 
-| 20221205T04:06:58Z | BI T3434 Project on data mining CVEs and Exploits | https://github.com/gsmith257-cyber/BIT3434CVE | 1 | 0| 
-| 20221205T03:04:48Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 558 | 144| 
-| 20221205T02:51:36Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4771 | 698| 
-| 20221205T02:20:56Z | Chrome javascript engine exploits that I%ve written. | https://github.com/anvbis/chrome.v8.n-day.exploits | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221205T13:30:33Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1395 | 245| 
+| 20221205T19:47:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
+| 20221205T17:23:58Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 7 | 0| 
+| 20221205T16:20:22Z | An enhanced version of icmpdoor | https://github.com/my-0day/icmp_backdoor_enhanced | 0 | 0| 
+| 20221205T14:48:27Z | Hoy les traigo esta script que se trata de un menu que genera un backdoor sh , tipo reverse_http el uso es simple bash backdoor.sh selecione un backdoor y envielo a la victima use ig.social , backdoor solo sirve para ver , descargar los archivos del almacenamiento interno de la victima mediante el servidor python y con un tunel ssh.  | https://github.com/MRX90902WX/Backdoor-sh | 0 | 0| 
 | 20221205T11:54:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 614 | 122| 
 | 20221205T07:29:03Z | Null | https://github.com/KosameAmegai/eval-wget-shell-backdoor | 0 | 0| 
-| 20221205T06:20:29Z | Hoy les traigo esta script que se trata de un menu que genera un backdoor sh , tipo reverse_http el uso es simple bash backdoor.sh selecione un backdoor y envielo a la victima use ig.social , backdoor solo sirve para ver , descargar los archivos del almacenamiento interno de la victima mediante el servidor python y con un tunel ssh.  | https://github.com/MRX90902WX/Backdoor-sh | 1 | 0| 
 | 20221205T06:04:32Z | Null | https://github.com/SaiRohit255/CSE-598--Dataset-Condensation-and-its-effects-against-backdoor-attacks | 0 | 0| 
 | 20221205T05:24:31Z | Null | https://github.com/guruks94/Semantic-Backdoor-Attack | 0 | 0| 
 | 20221205T04:32:14Z | Null | https://github.com/Xig620/CSE498_Xiaoyu_backdoor-attack_benchmark | 0 | 0| 
 | 20221205T04:06:31Z | Null | https://github.com/Xig620/Xig620-CSE_498_Xiaoyu_Backdoor-attack-benchmark | 0 | 0| 
-| 20221205T03:50:17Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 24 | 9| 
-| 20221205T01:05:05Z | Null | https://github.com/wangqiuoe/CSE498-AML-QiWangCancanZhang-BackdoorBenchmark | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -99,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221205T23:42:44Z | Projet UTS Mata Kuliah Sistem Cerdas - Penentuan Doses Terfavorit Fikom UDB | https://github.com/tobimaulana/FuzzyLogic_DosenFavorit | 0 | 0| 
+| 20221205T23:01:21Z | IFSULDEMINAS Campus Machado - Inteligência Artificial - 2022 | https://github.com/MarceloMFerreira/Logica-Fuzzy | 0 | 0| 
+| 20221205T22:56:58Z | Null | https://github.com/Jackson-Vieira/fuzzy-lamp | 0 | 0| 
+| 20221205T22:27:06Z | Null | https://github.com/tarrol/fuzzy-engine | 0 | 0| 
+| 20221205T22:20:43Z | pachinko | https://github.com/lrnecgcysiam/fuzzy-pancake | 0 | 0| 
+| 20221205T20:36:37Z | tg chanel news_wb | https://github.com/liiizzzzza/fuzzy-tribble | 0 | 0| 
 | 20221205T13:51:02Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 123 | 9| 
 | 20221205T13:42:29Z | Null | https://github.com/kleber0a0m/FuzzyFrenagem | 0 | 0| 
 | 20221205T13:35:43Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1322 | 96| 
 | 20221205T13:33:57Z | User-Agent , X-Forwarded-For and Referer SQLI Fuzzer | https://github.com/root-tanishq/userefuzz | 171 | 28| 
-| 20221205T13:27:53Z | Null | https://github.com/ThomasNakas/fuzzy-octo-couscous | 0 | 0| 
-| 20221205T13:17:34Z | Sistema de Fuzzy com Frenagem de velocidade e distância aula de IA sex período sistemas | https://github.com/Matheusfr17x/FuzzyFrenagem | 0 | 0| 
-| 20221205T12:43:00Z | kAFL Fuzzer | https://github.com/IntelLabs/kafl.fuzzer | 21 | 7| 
-| 20221205T12:32:51Z | Null | https://github.com/Moaz20190549/Apply-k-means-and-fuzzy-c-mean-on-student-pass-or-fail-data-set- | 0 | 0| 
-| 20221205T12:18:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4459 | 1082| 
-| 20221205T11:59:12Z | Fuzzing Browsers | https://github.com/RootUp/BFuzz | 293 | 53| 
 
 
 
