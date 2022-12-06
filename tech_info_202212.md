@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221206T01:05:49Z | Null | https://github.com/aribish/explore-exploit | 0 | 0| 
 | 20221205T23:38:51Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem  Topics | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
 | 20221205T23:24:09Z | Pwntools exploit template | https://github.com/Andromeda1957/pwn_template | 0 | 0| 
 | 20221205T23:21:34Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass-LUA | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20221205T16:42:03Z | Made a multitool cuz I was Bored | https://github.com/etxnight/Et-exploits-Multitool | 0 | 0| 
 | 20221205T13:03:34Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9733 | 1560| 
 | 20221205T12:57:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12414 | 2132| 
-| 20221205T11:25:37Z | The third homework of Math experiment by exploiting Mathematica | https://github.com/hyp-YupengHe/Mathematica-Homework | 0 | 0| 
 
 
 # backdoor on Github 推荐
