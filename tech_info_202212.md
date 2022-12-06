@@ -93,14 +93,14 @@
 | 20221205T21:09:08Z | We have presented CIL method to learn the optimal dynamic treatment regime by exploiting information from both trajectories (positive and negative). | https://github.com/IhteshamShah/Cooperative-Imitation-Learning-CIL- | 0 | 0| 
 | 20221205T18:51:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 50 | 27| 
 | 20221205T16:42:03Z | Made a multitool cuz I was Bored | https://github.com/etxnight/Et-exploits-Multitool | 0 | 0| 
+| 20221205T16:27:20Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 147 | 0| 
 | 20221205T13:03:34Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9733 | 1560| 
-| 20221205T12:57:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12414 | 2132| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221206T01:01:31Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1434 | 253| 
+| 20221206T01:38:45Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1436 | 253| 
 | 20221205T19:47:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221205T17:23:58Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 7 | 0| 
 | 20221205T16:20:22Z | An enhanced version of icmpdoor | https://github.com/my-0day/icmp_backdoor_enhanced | 0 | 0| 

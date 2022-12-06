@@ -64,9 +64,9 @@
 | 20221205T21:09:08Z | We have presented CIL method to learn the optimal dynamic treatment regime by exploiting information from both trajectories (positive and negative). | https://github.com/IhteshamShah/Cooperative-Imitation-Learning-CIL- | 0 | 0| 
 | 20221205T18:51:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 50 | 27| 
 | 20221205T16:42:03Z | Made a multitool cuz I was Bored | https://github.com/etxnight/Et-exploits-Multitool | 0 | 0| 
+| 20221205T16:27:20Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 147 | 0| 
 | 20221205T13:03:34Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9733 | 1560| 
 | 20221205T12:57:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12414 | 2132| 
-| 20221205T11:25:37Z | The third homework of Math experiment by exploiting Mathematica | https://github.com/hyp-YupengHe/Mathematica-Homework | 0 | 0| 
 
 
 # backdoor on Github 推荐
