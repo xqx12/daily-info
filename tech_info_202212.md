@@ -134,7 +134,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221206T02:29:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8113 | 1765| 
+| 20221206T02:34:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8114 | 1767| 
 | 20221206T00:29:25Z | Site vitrine | https://github.com/Flwrian/Fuzzy | 0 | 0| 
 | 20221206T00:28:32Z | Null | https://github.com/woodwilliam/fuzzywuzzy | 0 | 0| 
 | 20221205T23:42:44Z | Projet UTS Mata Kuliah Sistem Cerdas - Penentuan Doses Terfavorit Fikom UDB | https://github.com/tobimaulana/FuzzyLogic_DosenFavorit | 0 | 0| 
