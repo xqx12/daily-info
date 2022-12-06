@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221206T01:05:49Z | Null | https://github.com/aribish/explore-exploit | 0 | 0| 
+| 20221206T01:09:17Z | I determine the best explore/explot algorithm to use to store my belongings in the morning | https://github.com/aribish/explore-exploit | 0 | 0| 
 | 20221205T23:38:51Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem  Topics | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
 | 20221205T23:24:09Z | Pwntools exploit template | https://github.com/Andromeda1957/pwn_template | 0 | 0| 
 | 20221205T23:21:34Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass-LUA | 0 | 0| 
