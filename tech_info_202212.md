@@ -135,6 +135,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221206T13:09:04Z | Config files for my GitHub profile. | https://github.com/fuzznuts62/fuzznuts62 | 0 | 0| 
 | 20221206T13:01:49Z | Null | https://github.com/merlinepedra/FUZZY-LOGIC-PYTHON | 2 | 0| 
 | 20221206T13:01:30Z | Null | https://github.com/merlinepedra25/FUZZY-LOGIC-PYTHON | 0 | 0| 
 | 20221206T11:16:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8115 | 1769| 
@@ -144,7 +145,6 @@
 | 20221206T08:00:50Z | A cli tool to bootstrap your django projects and enhance your development experience.  | https://github.com/Tobi-De/fuzzy-couscous | 12 | 1| 
 | 20221206T05:49:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4460 | 1082| 
 | 20221206T02:35:54Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4896 | 504| 
-| 20221206T00:29:25Z | Site vitrine | https://github.com/Flwrian/Fuzzy | 0 | 0| 
 
 
 
