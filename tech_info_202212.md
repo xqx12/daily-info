@@ -86,23 +86,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221206T12:56:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4782 | 700| 
+| 20221206T12:34:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12419 | 2133| 
+| 20221206T12:22:20Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 5 | 0| 
+| 20221206T11:22:44Z | Wi-Fi Exploitation Framework | https://github.com/D3Ext/WEF | 1393 | 136| 
+| 20221206T11:03:42Z | Pattern Exploiting Training | https://github.com/sallyy1/KoPET | 0 | 0| 
+| 20221206T11:00:12Z | Collection of malware files found on WordPress sites | https://github.com/stefanpejcic/wordpress-malware | 23 | 7| 
+| 20221206T10:38:00Z | Create your bots for Minecraft. Additionally, log4j exploit implementation. | https://github.com/AlexandrMilko/PenBot | 0 | 0| 
+| 20221206T09:45:56Z | Third party patch for EsteemAudit NSA Exploit released in 2017 | https://github.com/trapmine/esteemaudit-patch | 0 | 0| 
+| 20221206T08:01:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3832 | 474| 
 | 20221206T01:26:04Z | I determine the best explore/explot algorithm to use to store my belongings in the morning | https://github.com/aribish/explore-exploit | 0 | 0| 
-| 20221205T23:38:51Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem  Topics | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass | 0 | 0| 
-| 20221205T23:24:09Z | Pwntools exploit template | https://github.com/Andromeda1957/pwn_template | 0 | 0| 
-| 20221205T23:21:34Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem | https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass-LUA | 0 | 0| 
-| 20221205T21:13:31Z | Exploit for path transversal vulnerability in apache | https://github.com/TheKernelPanic/exploit-apache2-cve-2021-41773 | 0 | 0| 
-| 20221205T21:09:08Z | We have presented CIL method to learn the optimal dynamic treatment regime by exploiting information from both trajectories (positive and negative). | https://github.com/IhteshamShah/Cooperative-Imitation-Learning-CIL- | 0 | 0| 
-| 20221205T18:51:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 50 | 27| 
-| 20221205T16:42:03Z | Made a multitool cuz I was Bored | https://github.com/etxnight/Et-exploits-Multitool | 0 | 0| 
-| 20221205T16:27:20Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 147 | 0| 
-| 20221205T13:03:34Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 9733 | 1560| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221206T12:31:42Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1477 | 261| 
+| 20221206T09:24:40Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 97 | 13| 
 | 20221206T02:52:32Z | backdoor attack on minicoco | https://github.com/srikeerthi207/minicoco_backdoor | 0 | 0| 
-| 20221206T02:14:43Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1438 | 253| 
 | 20221205T19:47:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221205T17:23:58Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 7 | 0| 
 | 20221205T16:20:22Z | An enhanced version of icmpdoor | https://github.com/my-0day/icmp_backdoor_enhanced | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20221205T11:54:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 614 | 122| 
 | 20221205T07:29:03Z | Null | https://github.com/KosameAmegai/eval-wget-shell-backdoor | 0 | 0| 
 | 20221205T06:04:32Z | Null | https://github.com/SaiRohit255/CSE-598--Dataset-Condensation-and-its-effects-against-backdoor-attacks | 0 | 0| 
-| 20221205T05:24:31Z | Null | https://github.com/guruks94/Semantic-Backdoor-Attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
