@@ -17,6 +17,7 @@
 | 20221205 | DuckLogs 恶意软件在野外执行多种恶意活动 | http://paper.seebug.org/2034/| 
 | 20221205 | 一个逆向工程研讨会的ppt，讲到了很多x86下逆向的技巧 | https://github.com/romainthomas/reverse-engineering-workshop| 
 | 20221205 | REvil勒索软件的分析报告 | https://securityscorecard.pathfactory.com/research/detailed-analysis-revil| 
+| 20221205 | Cacti修复了评分9.8的命令注入漏洞CVE-2022-46169，攻击无需认证。 | http://securityonline.info/cve-2022-46169-critical-vulnerability-affects-cacti-network-graphing-solution/| 
 | 20221204 | Sysmon 中任意文件删除/写入的POC (CVE-2022-41120/CVE-2022-XXXXX) | https://github.com/Wh04m1001/SysmonEoP| 
 | 20221204 | PrintNotifyPotato - PrintNotify COM接口提权 用于win10,11 Windows Server 2012 - 2022 | https://github.com/BeichenDream/PrintNotifyPotato| 
 | 20221204 | CVE-2022-21661:WordPress Core 5.8.2 - WP_Query sql注入 | https://github.com/APTIRAN/CVE-2022-21661| 
@@ -25,7 +26,6 @@
 | 20221204 | 在Discord中植入RCE后门的尝试，作者起初选择使用Python调用API与server通信，并通过Nuitka将其打包为PE，但会使得程序文件大小增加40+ MB，后续尝试通过SMB进行优化。 | https://medium.com/@lsecqt/weaponizing-discord-shell-via-smb-92375e730e26| 
 | 20221203 | Spring heapdump泄露shiro key造成RCE | https://xz.aliyun.com/t/11908| 
 | 20221203 | 利用CodeQL快速挖未授权RCE的示例 | https://www.reddit.com/r/netsec/comments/zbfj1a/preauth_rce_with_codeql_in_under_20_minutes/| 
-| 20221203 | volexity披露了Lazarus APT组织采取了两种手法针对加密货币行业目标,其一通过搭建钓鱼站点部署带有AppleJeus木马的安装包文件进行钓鱼活动,安装包会释放带有白加黑的恶意载荷并且创造计划任务.AppleJeus植入物会通过收集信息并且上传到云端,等待下一步的指令.其二通过Microsoft Office宏植入(宏分为解码OLE对象的blob和从OpenDriver上下载第二阶段的载荷),后续逻辑与第一种基本一致 | https://www.volexity.com/blog/2022/12/01/buyer-beware-fake-cryptocurrency-applications-serving-as-front-for-applejeus-malware/| 
 
 
 # 安全维基 推荐

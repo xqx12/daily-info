@@ -17,6 +17,7 @@
 | 20221205 | DuckLogs 恶意软件在野外执行多种恶意活动 | http://paper.seebug.org/2034/| 
 | 20221205 | 一个逆向工程研讨会的ppt，讲到了很多x86下逆向的技巧 | https://github.com/romainthomas/reverse-engineering-workshop| 
 | 20221205 | REvil勒索软件的分析报告 | https://securityscorecard.pathfactory.com/research/detailed-analysis-revil| 
+| 20221205 | Cacti修复了评分9.8的命令注入漏洞CVE-2022-46169，攻击无需认证。 | http://securityonline.info/cve-2022-46169-critical-vulnerability-affects-cacti-network-graphing-solution/| 
 
 
 # 安全维基 推荐
