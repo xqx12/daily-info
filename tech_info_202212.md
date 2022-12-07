@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T13:42:35Z | Null | https://github.com/fishermavis/skybus-backdoor | 0 | 0| 
 | 20221207T13:30:48Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1539 | 273| 
 | 20221207T09:55:30Z | Mimicry is a security tool developed by Chaitin Technology for active deception in exploitation and post-exploitation. | https://github.com/chaitin/mimicry | 1 | 1| 
 | 20221207T08:25:08Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 615 | 122| 
@@ -111,7 +112,6 @@
 | 20221205T19:47:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221205T17:23:58Z | A collection of malwares found on the internet. | https://github.com/Princekin/malware-database | 7 | 0| 
 | 20221205T16:20:22Z | An enhanced version of icmpdoor | https://github.com/my-0day/icmp_backdoor_enhanced | 0 | 0| 
-| 20221205T14:48:27Z | Hoy les traigo esta script que se trata de un menu que genera un backdoor sh , tipo reverse_http el uso es simple bash backdoor.sh selecione un backdoor y envielo a la victima use ig.social , backdoor solo sirve para ver , descargar los archivos del almacenamiento interno de la victima mediante el servidor python y con un tunel ssh.  | https://github.com/MRX90902WX/Backdoor-sh | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
