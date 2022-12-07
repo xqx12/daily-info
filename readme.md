@@ -18,6 +18,8 @@
 | 20221206 | Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/| 
 | 20221206 | 如何在已root的手机上绕过Android SSL Pinning劫持HTTPS流量，以及如何修改APK以绕过Proxy Unaware劫持HTTP流量。 | https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8| 
 | 20221206 | VMware vSphere/vCenter 权限提升漏洞(CVE-2021-22015)在metasploit框架上的利用代码。 | http://packetstormsecurity.com/files/170116/vcenter_java_wrapper_vmon_priv_esc.rb.txt| 
+| 20221206 | pdfmake支持通过js创建pdf，但未对用户输入做任何验证，也没有使用沙箱环境，造成RCE | https://securitylab.github.com/advisories/GHSL-2022-068_pdfmake/| 
+| 20221206 | Safari浏览器JSC存在类型混淆漏洞CVE-2022-42823，含触发PAC异常的PoC | http://ssd-disclosure.com/apple-safari-javascriptcore-inspector-type-confusion/| 
 
 
 # 安全维基 推荐

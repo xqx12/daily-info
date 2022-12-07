@@ -18,14 +18,14 @@
 | 20221206 | Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/| 
 | 20221206 | 如何在已root的手机上绕过Android SSL Pinning劫持HTTPS流量，以及如何修改APK以绕过Proxy Unaware劫持HTTP流量。 | https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8| 
 | 20221206 | VMware vSphere/vCenter 权限提升漏洞(CVE-2021-22015)在metasploit框架上的利用代码。 | http://packetstormsecurity.com/files/170116/vcenter_java_wrapper_vmon_priv_esc.rb.txt| 
+| 20221206 | pdfmake支持通过js创建pdf，但未对用户输入做任何验证，也没有使用沙箱环境，造成RCE | https://securitylab.github.com/advisories/GHSL-2022-068_pdfmake/| 
+| 20221206 | Safari浏览器JSC存在类型混淆漏洞CVE-2022-42823，含触发PAC异常的PoC | http://ssd-disclosure.com/apple-safari-javascriptcore-inspector-type-confusion/| 
 | 20221205 | C2 新思路：利用 Excel 的 WEBSERVICE 函数 “在检测到 url 发生变化时自动发起新请求” 这一特性进行数据泄露 | https://systemweakness.com/data-exfiltration-using-excel-d12271525fb6?gi=8554f160b2ec| 
 | 20221205 | Sysmon 中包含一个能让普通用户以 “NT AUTHORITY\SYSTEM” 用户的身份完成任意文件/目录删除操作的漏洞，将该漏洞与 “利用任意文件删除进行提权” 技术相结合，可完成EoP | http://securityonline.info/cve-2022-41120-poc-released-for-windows-sysmon-elevation-of-privilege-vulnerability/| 
 | 20221205 | 伪装成MSI的植入物分析 | https://www.cybereason.com/blog/threat-analysis-msi-masquerading-as-software-installer| 
 | 20221205 | 利用缓存投毒进行XSS - November 22 XSS 挑战的官方解决方案 | https://www.youtube.com/watch?v=nY7HT1lNHwQ| 
 | 20221205 | 从取证的角度分析Windows进程中的有趣的数据结构 | https://eforensicsmag.com/an-introduction-to-memory-forensics-windows-process-internals-by-joseph-moronwi/| 
 | 20221205 | 如何使用PPLKiller绕过PPL保护调试受保护的进程及相关技术原理。 | https://itm4n.github.io/debugging-protected-processes/| 
-| 20221205 | 两个OpenSSL高危漏洞分析（CVE-2022-3786、CVE-2022-3602），以及如何使用libfuzzer去发现上述漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/zbyx41/how_to_replicate_openssl_vulnerabilities/| 
-| 20221205 | SiriusXM 某一网站存在漏洞可影响多家车企，允许攻击者仅通过VID即可获取客户信息，通过进一步提权可导致受害客户的汽车被远程解锁、启动、定位、鸣笛。 | http://cybersecuritynews.com/vulnerability-in-honda-nissan-toyota-cars-app/| 
 
 
 # 安全维基 推荐
@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221207T01:49:05Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1507 | 269| 
+| 20221207T01:49:05Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1507 | 270| 
 | 20221206T21:55:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 98 | 13| 
 | 20221206T02:52:32Z | backdoor attack on minicoco | https://github.com/srikeerthi207/minicoco_backdoor | 0 | 0| 
 | 20221205T19:47:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
