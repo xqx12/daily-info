@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221207 | 尽管进行了多因素身份认证，但若能获取到受害者用户登录后的 Cookie，就可以通过直接传递 Cookie 的方式接管受害者用户的账户 | https://blog.netwrix.com/2022/11/29/bypassing-mfa-with-pass-the-cookie-attack/| 
+| 20221207 | 微软披露DEV-0139(疑似Lazarus)针对加密货币行业发起定向攻击,其主要通过社工获取信任后使用Telegram为载体投递武器化的macro宏文档,宏执行后释放另一个xls并且其内嵌的宏下载一个png文件(由白文件,黑dll,带有Guid xor加密后的backdoor程序组成),然后将这三个部分分割后提取出来再写入本地.然后其通过白加黑的手法运行载荷。除了xls载荷还有利用msi安装包进行植入的活动,其也是利用白加黑以进行木马的植入 | https://www.microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/| 
+| 20221207 | 暗网中的 InTheBox 市场为移动恶意软件制造者提供了多种类别的 Webinjects 模板 | http://cybersecuritynews.com/largest-mobile-malware-darkweb-marketplace/| 
+| 20221207 | X server所使用的底层像素管理库pixman存在整数溢出漏洞可导致堆越界写 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2345| 
+| 20221207 | 使用 Akamai WAF Bypass 在 Spring Boot 错误页面上通过 SSTI 而进行 RCE | https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/| 
+| 20221207 | 介绍Netgear RAX30 1.0.7.78版本的DHCP命令注入和WAN利用链 | https://www.reddit.com/r/netsec/comments/ze8pr7/the_last_breath_of_our_netgear_rax30_bugs_a/| 
+| 20221207 | 使用 OpenAI 的 davinci-003 模型为 IDA Pro 反编译的函数提供注释和变量重命名信息的插件 | https://github.com/JusticeRage/Gepetto| 
+| 20221207 | DanaBot恶意软件的混淆技术分析，涉及多种对抗逆向工程的实用方法 | https://www.zscaler.com/blogs/security-research/technical-analysis-danabot-obfuscation-techniques| 
+| 20221207 | CI/CD 的供应链安全案例，如果一个项目使用了有漏洞的Github action，攻击者可以通过发起MR实现提权 | https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks| 
 | 20221206 | 介绍Windows注册表内部构成及相关安全防护措施 | https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75?gi=4f8edcbb391| 
 | 20221206 | NodeBB 中存在一个原型污染漏洞，攻击者可利用该漏洞接管他人的账户 | http://securityonline.info/cve-2022-46164-account-takeover-vulnerability-found-in-nodebb/| 
 | 20221206 | 恶意软件新趋势：越来越多的勒索软件利用已知口令或漏洞对 RDP 服务端进行攻击 | http://cybersecuritynews.com/rdp-servers-actively-targeted-by-hackers/| 
@@ -17,60 +26,51 @@
 | 20221206 | V8 heap sandbox安全机制设计思路及防御的主要漏洞类型。 | https://docs.google.com/presentation/d/1iDWDHuAZ8ee-dRF5Lkf0nwO2mkLdZG_YJEP1yPvJ09E/edit?usp=sharing| 
 | 20221206 | Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/| 
 | 20221206 | 如何在已root的手机上绕过Android SSL Pinning劫持HTTPS流量，以及如何修改APK以绕过Proxy Unaware劫持HTTP流量。 | https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8| 
-| 20221206 | VMware vSphere/vCenter 权限提升漏洞(CVE-2021-22015)在metasploit框架上的利用代码。 | http://packetstormsecurity.com/files/170116/vcenter_java_wrapper_vmon_priv_esc.rb.txt| 
-| 20221206 | pdfmake支持通过js创建pdf，但未对用户输入做任何验证，也没有使用沙箱环境，造成RCE | https://securitylab.github.com/advisories/GHSL-2022-068_pdfmake/| 
-| 20221206 | Safari浏览器JSC存在类型混淆漏洞CVE-2022-42823，含触发PAC异常的PoC | http://ssd-disclosure.com/apple-safari-javascriptcore-inspector-type-confusion/| 
-| 20221205 | C2 新思路：利用 Excel 的 WEBSERVICE 函数 “在检测到 url 发生变化时自动发起新请求” 这一特性进行数据泄露 | https://systemweakness.com/data-exfiltration-using-excel-d12271525fb6?gi=8554f160b2ec| 
-| 20221205 | Sysmon 中包含一个能让普通用户以 “NT AUTHORITY\SYSTEM” 用户的身份完成任意文件/目录删除操作的漏洞，将该漏洞与 “利用任意文件删除进行提权” 技术相结合，可完成EoP | http://securityonline.info/cve-2022-41120-poc-released-for-windows-sysmon-elevation-of-privilege-vulnerability/| 
-| 20221205 | 伪装成MSI的植入物分析 | https://www.cybereason.com/blog/threat-analysis-msi-masquerading-as-software-installer| 
-| 20221205 | 利用缓存投毒进行XSS - November 22 XSS 挑战的官方解决方案 | https://www.youtube.com/watch?v=nY7HT1lNHwQ| 
-| 20221205 | 从取证的角度分析Windows进程中的有趣的数据结构 | https://eforensicsmag.com/an-introduction-to-memory-forensics-windows-process-internals-by-joseph-moronwi/| 
-| 20221205 | 如何使用PPLKiller绕过PPL保护调试受保护的进程及相关技术原理。 | https://itm4n.github.io/debugging-protected-processes/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20221207 | DISTDET：具有成本效益的分布式网络威胁检测系统 | https://mp.weixin.qq.com/s/AdyyZQit40tulOaIyNAbEA| 
+| 20221207 | SEVulDet：一种语义增强的可学习漏洞检测器 | https://mp.weixin.qq.com/s/agQNMQo9atwZOFjPBleLcg| 
+| 20221207 | ConDySTA: 上下文感知的动态辅助静态污点分析 | https://mp.weixin.qq.com/s/syrJfq9HsB_Ob4yvN4_KtA| 
+| 20221207 | 开源软件供应链安全系列：OSS风险点与预防 | https://mp.weixin.qq.com/s/Sn9-qk_cfgTHBJh9ourD4A| 
+| 20221207 | 安全概念分析框架 | https://mp.weixin.qq.com/s/JysvRftmGl2zg41ko8n1yA| 
 | 20221206 | 从Deserialization和覆盖trustURLCodebase进行JNDI注入 | https://sec-in.com/article/1980| 
 | 20221205 | SecWiki周刊（第457期) | https://www.sec-wiki.com/weekly/457| 
 | 20221205 | S&P22：探测并抵御CI服务中的非法加密挖矿 | https://mp.weixin.qq.com/s/uC7Jbtbqs2BHPtjiiQqG8Q| 
 | 20221204 | GadgetInspector改造中反序列化三个source点的原理分析 | https://xz.aliyun.com/t/11915| 
 | 20221203 | THREAT-crawl: Automated Method and Tool to Crawl Criminal ... | https://gitlab.tue.nl/threat-crawl/THREATcrawl/| 
-| 20221203 | 国内外网络靶场发展状态演进与分析 | https://mp.weixin.qq.com/s/B6-usDq7cpXqgvOUXS2fHA| 
-| 20221203 | [HTB] Secret Writeup | https://mp.weixin.qq.com/s/vB0bUZ02j88gALvIbuKWNA| 
-| 20221203 | Web漏洞挖掘基础系列 | https://www.bilibili.com/video/BV1TG4y1V7xc/| 
-| 20221202 | 细谈CS分离式shellcode的加载之旅 | https://mp.weixin.qq.com/s/cgp6aFwiU7S8x2jS2VXoTQ| 
-| 20221202 | 企业级钓鱼演练平台搭建 | https://xz.aliyun.com/t/11898| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221207T02:25:41Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
+| 20221207T11:04:01Z | CVE-2022-1388 | Null | https://github.com/amitlttwo/CVE-2022-1388 | | 
+| 20221207T10:56:15Z | CVE-2021-41805 | HashiCorp Consul exploit with python. (CVE-2021-41805) | https://github.com/I-Am-Nelson/CVE-2021-41805 | | 
+| 20221207T06:45:41Z | CVE-2022-20441 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441 | | 
+| 20221207T03:17:53Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
 | 20221207T02:25:11Z | CVE-2022-2414 | A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests. | https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept | | 
 | 20221206T18:06:07Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
-| 20221206T16:59:56Z | CVE-2022-1388 | Null | https://github.com/amitlttwo/CVE-2022-1388 | | 
 | 20221206T16:21:03Z | CVE-2022-31626 | Null | https://github.com/amitlttwo/CVE-2022-31626 | | 
 | 20221206T11:51:55Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221206T10:28:35Z | CVE-2022-11111111 | demo | https://github.com/sdfbjaksff/CVE-2022-11111111 | | 
 | 20221206T00:54:18Z | cve-2021-21380 | A CodeQL workshop covering CVE-2021-21380 | https://github.com/advanced-security/codeql-workshop-cve-2021-21380 | | 
-| 20221205T21:13:31Z | cve-2021-41773 | Exploit for path transversal vulnerability in apache | https://github.com/TheKernelPanic/exploit-apache2-cve-2021-41773 | | 
-| 20221205T16:18:19Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221207T02:34:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9538 | 327| 
+| 20221207T12:26:59Z | my hexo blog | https://github.com/kleeper914/kleeper914.github.io | 1 | 0| 
+| 20221207T12:21:11Z | Null | https://github.com/abdulraheemiq/bootstrap-purple-kleeja | 0 | 0| 
+| 20221207T11:01:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9539 | 327| 
 | 20221206T23:09:13Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 269 | 49| 
 | 20221206T09:38:51Z | a clone of https://github.com/lifting-bits/klee.git. | https://github.com/huddy1985/klee-native | 0 | 0| 
-| 20221204T18:49:26Z | my hexo blog | https://github.com/kleeper914/kleeper914.github.io | 0 | 0| 
 | 20221204T18:49:23Z | A standalone Unreal Engine Blueprint visualizer for the web | https://github.com/Joined-Forces/klee | 13 | 1| 
 | 20221203T16:28:42Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20221203T12:29:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 600| 
 | 20221202T16:27:02Z | Null | https://github.com/devnose/Kleertech-Jacket-Client | 0 | 0| 
 | 20221202T10:45:37Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 150 | 1| 
-| 20221202T10:07:54Z | Scala library for generating and manipulation of images treated as a point => color functions. | https://github.com/skac112/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -137,16 +137,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221207T01:53:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8118 | 1769| 
+| 20221207T12:55:59Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 125 | 9| 
+| 20221207T12:47:46Z | An example Java App to show examples of unit, fuzz and component testing | https://github.com/CodeIntelligenceTesting/Road-Smart | 2 | 0| 
+| 20221207T11:50:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8119 | 1770| 
+| 20221207T11:38:51Z | Null | https://github.com/Bensoto22/fuzzy-engine | 0 | 0| 
+| 20221207T11:28:08Z | Store rating system using fuzzy logic (lab project) | https://github.com/glebbash/fuzzy-store-rating | 0 | 0| 
+| 20221207T09:26:34Z | Null | https://github.com/slowkeep/FuzzCatcher | 0 | 0| 
+| 20221207T09:26:21Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 1425 | 317| 
 | 20221207T00:03:35Z | Null | https://github.com/kra0s22/fuzzy-logic-water-quality | 0 | 0| 
 | 20221206T23:47:12Z | Optimizing Directed Fuzzing via Target-tailored Program State Restriction | https://github.com/HexHive/SieveFuzz | 4 | 0| 
 | 20221206T23:17:45Z | Null | https://github.com/duckduckstab1/fuzzy-goggles | 0 | 0| 
-| 20221206T21:23:47Z | Null | https://github.com/liuhaoping/gen-fuzzyhash | 0 | 0| 
-| 20221206T20:55:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1190 | 154| 
-| 20221206T20:12:45Z | Null | https://github.com/rinaldidouglas/LogicaFuzzy | 0 | 0| 
-| 20221206T13:09:04Z | Config files for my GitHub profile. | https://github.com/fuzznuts62/fuzznuts62 | 0 | 0| 
-| 20221206T13:01:49Z | Null | https://github.com/merlinepedra/FUZZY-LOGIC-PYTHON | 2 | 0| 
-| 20221206T13:01:30Z | Null | https://github.com/merlinepedra25/FUZZY-LOGIC-PYTHON | 0 | 0| 
 
 
 
