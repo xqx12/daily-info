@@ -16,6 +16,8 @@
 | 20221206 | MikroTik RouterOS 的 hotspot 程序存在越界读漏洞，可能导致有权限的用户获得任意代码执行能力 | http://securityonline.info/cve-2022-45313-mikrotik-routeros-flaw-can-lead-to-execute-arbitrary-code/| 
 | 20221206 | V8 heap sandbox安全机制设计思路及防御的主要漏洞类型。 | https://docs.google.com/presentation/d/1iDWDHuAZ8ee-dRF5Lkf0nwO2mkLdZG_YJEP1yPvJ09E/edit?usp=sharing| 
 | 20221206 | Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/| 
+| 20221206 | 如何在已root的手机上绕过Android SSL Pinning劫持HTTPS流量，以及如何修改APK以绕过Proxy Unaware劫持HTTP流量。 | https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8| 
+| 20221206 | VMware vSphere/vCenter 权限提升漏洞(CVE-2021-22015)在metasploit框架上的利用代码。 | http://packetstormsecurity.com/files/170116/vcenter_java_wrapper_vmon_priv_esc.rb.txt| 
 | 20221205 | C2 新思路：利用 Excel 的 WEBSERVICE 函数 “在检测到 url 发生变化时自动发起新请求” 这一特性进行数据泄露 | https://systemweakness.com/data-exfiltration-using-excel-d12271525fb6?gi=8554f160b2ec| 
 | 20221205 | Sysmon 中包含一个能让普通用户以 “NT AUTHORITY\SYSTEM” 用户的身份完成任意文件/目录删除操作的漏洞，将该漏洞与 “利用任意文件删除进行提权” 技术相结合，可完成EoP | http://securityonline.info/cve-2022-41120-poc-released-for-windows-sysmon-elevation-of-privilege-vulnerability/| 
 | 20221205 | 伪装成MSI的植入物分析 | https://www.cybereason.com/blog/threat-analysis-msi-masquerading-as-software-installer| 
@@ -24,8 +26,6 @@
 | 20221205 | 如何使用PPLKiller绕过PPL保护调试受保护的进程及相关技术原理。 | https://itm4n.github.io/debugging-protected-processes/| 
 | 20221205 | 两个OpenSSL高危漏洞分析（CVE-2022-3786、CVE-2022-3602），以及如何使用libfuzzer去发现上述漏洞。 | https://www.reddit.com/r/ReverseEngineering/comments/zbyx41/how_to_replicate_openssl_vulnerabilities/| 
 | 20221205 | SiriusXM 某一网站存在漏洞可影响多家车企，允许攻击者仅通过VID即可获取客户信息，通过进一步提权可导致受害客户的汽车被远程解锁、启动、定位、鸣笛。 | http://cybersecuritynews.com/vulnerability-in-honda-nissan-toyota-cars-app/| 
-| 20221205 | DuckLogs 恶意软件在野外执行多种恶意活动 | http://paper.seebug.org/2034/| 
-| 20221205 | 一个逆向工程研讨会的ppt，讲到了很多x86下逆向的技巧 | https://github.com/romainthomas/reverse-engineering-workshop| 
 
 
 # 安全维基 推荐
@@ -137,7 +137,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221207T00:59:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8119 | 1769| 
+| 20221207T01:53:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8118 | 1769| 
 | 20221207T00:03:35Z | Null | https://github.com/kra0s22/fuzzy-logic-water-quality | 0 | 0| 
 | 20221206T23:47:12Z | Optimizing Directed Fuzzing via Target-tailored Program State Restriction | https://github.com/HexHive/SieveFuzz | 4 | 0| 
 | 20221206T23:17:45Z | Null | https://github.com/duckduckstab1/fuzzy-goggles | 0 | 0| 

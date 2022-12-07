@@ -16,6 +16,8 @@
 | 20221206 | MikroTik RouterOS 的 hotspot 程序存在越界读漏洞，可能导致有权限的用户获得任意代码执行能力 | http://securityonline.info/cve-2022-45313-mikrotik-routeros-flaw-can-lead-to-execute-arbitrary-code/| 
 | 20221206 | V8 heap sandbox安全机制设计思路及防御的主要漏洞类型。 | https://docs.google.com/presentation/d/1iDWDHuAZ8ee-dRF5Lkf0nwO2mkLdZG_YJEP1yPvJ09E/edit?usp=sharing| 
 | 20221206 | Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/| 
+| 20221206 | 如何在已root的手机上绕过Android SSL Pinning劫持HTTPS流量，以及如何修改APK以绕过Proxy Unaware劫持HTTP流量。 | https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8| 
+| 20221206 | VMware vSphere/vCenter 权限提升漏洞(CVE-2021-22015)在metasploit框架上的利用代码。 | http://packetstormsecurity.com/files/170116/vcenter_java_wrapper_vmon_priv_esc.rb.txt| 
 
 
 # 安全维基 推荐
