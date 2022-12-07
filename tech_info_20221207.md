@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T13:18:41Z | Décrire, nettoyer, exploiter les données pour la mise en place et la présententation d%une application diététique | https://github.com/110111-1/DS-OPENFOODFACT-SANTE | 0 | 0| 
 | 20221207T12:44:08Z | Post-exploitation tool to cover your tracks on various operating systems | https://github.com/sundowndev/covermyass | 206 | 37| 
 | 20221207T12:05:08Z | Null | https://github.com/dugisan3rd/exploit | 0 | 0| 
 | 20221207T11:50:51Z | Public Archive of Reverse-Engineering & Binary-Exploitation Challenges for APU BOH 2022 | https://github.com/WesleyWong420/Battle-of-Hackers-2022 | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20221207T10:54:21Z | The AluTrace Project was a project funded by the german Ministry of Economics, Labor and Tourism Baden-Württemberg (34-4224.044/21, 01/2020-12/2021) to digitally link the data and knowledge islands that are created through product development and manufacturing cycles in order to exploit them for lightweight design. | https://github.com/Mat-O-Lab/AluTrace-Data-and-Documentation | 0 | 0| 
 | 20221207T10:31:25Z | Did you need a tool to operate DVR devices and CCTV cameras??  congratulations. You have it right now! | https://github.com/C4ssif3r/Ariana-DVR-exploiter-Framework | 0 | 0| 
 | 20221207T06:58:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12424 | 2132| 
-| 20221207T02:53:16Z | Mimicry is a security tool developed by Chaitin Technology for active deception in exploitation and post-exploitation. | https://github.com/chaitin/mimicry | 0 | 0| 
 
 
 # backdoor on Github 推荐
