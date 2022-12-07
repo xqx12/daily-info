@@ -17,6 +17,7 @@
 | 20221207 | CI/CD 的供应链安全案例，如果一个项目使用了有漏洞的Github action，攻击者可以通过发起MR实现提权 | https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks| 
 | 20221207 | GOAD lab part11 ACL writeup | https://mayfly277.github.io/posts/GOADv2-pwning-part11/| 
 | 20221207 | CVE-2022-25765:pdfkit-Exploit-Reverse-Shell | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell| 
+| 20221207 | 使用 pipe_buffer 的任意读/写技术,用于linux kernel 利用 | http://interruptlabs.co.uk/labs/pipe_buffer/| 
 | 20221206 | 介绍Windows注册表内部构成及相关安全防护措施 | https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75?gi=4f8edcbb391| 
 | 20221206 | NodeBB 中存在一个原型污染漏洞，攻击者可利用该漏洞接管他人的账户 | http://securityonline.info/cve-2022-46164-account-takeover-vulnerability-found-in-nodebb/| 
 | 20221206 | 恶意软件新趋势：越来越多的勒索软件利用已知口令或漏洞对 RDP 服务端进行攻击 | http://cybersecuritynews.com/rdp-servers-actively-targeted-by-hackers/| 
@@ -25,7 +26,6 @@
 | 20221206 | Synacktiv发布了对针对ESXi名为PrideLocker的勒索的详细分析 | https://www.synacktiv.com/publications/pridelocker-a-new-fork-of-babuk-esx-encryptor.html| 
 | 20221206 | freebsd的ping有一个栈溢出漏洞，一个恶意的ICMP response可能会导致运行ping的主机被RCE。 | https://securityaffairs.co/wordpress/139300/hacking/cve-2022-23093-freebsd-systems-flaw.html| 
 | 20221206 | MikroTik RouterOS 的 hotspot 程序存在越界读漏洞，可能导致有权限的用户获得任意代码执行能力 | http://securityonline.info/cve-2022-45313-mikrotik-routeros-flaw-can-lead-to-execute-arbitrary-code/| 
-| 20221206 | V8 heap sandbox安全机制设计思路及防御的主要漏洞类型。 | https://docs.google.com/presentation/d/1iDWDHuAZ8ee-dRF5Lkf0nwO2mkLdZG_YJEP1yPvJ09E/edit?usp=sharing| 
 
 
 # 安全维基 推荐
@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221207T13:55:54Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221207T13:36:43Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
 | 20221207T11:04:01Z | CVE-2022-1388 | Null | https://github.com/amitlttwo/CVE-2022-1388 | | 
 | 20221207T10:56:15Z | CVE-2021-41805 | HashiCorp Consul exploit with python. (CVE-2021-41805) | https://github.com/I-Am-Nelson/CVE-2021-41805 | | 
@@ -55,7 +56,6 @@
 | 20221206T16:21:03Z | CVE-2022-31626 | Null | https://github.com/amitlttwo/CVE-2022-31626 | | 
 | 20221206T11:51:55Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221206T10:28:35Z | CVE-2022-11111111 | demo | https://github.com/sdfbjaksff/CVE-2022-11111111 | | 
-| 20221206T00:54:18Z | cve-2021-21380 | A CodeQL workshop covering CVE-2021-21380 | https://github.com/advanced-security/codeql-workshop-cve-2021-21380 | | 
 
 
 # klee on Github 推荐
@@ -138,8 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T13:55:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 126 | 9| 
 | 20221207T13:47:38Z | fuzzy logic final assignment in University | https://github.com/Khangnd143/fuzzy-logic-assignment- | 0 | 0| 
-| 20221207T12:55:59Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 125 | 9| 
 | 20221207T12:47:46Z | An example Java App to show examples of unit, fuzz and component testing | https://github.com/CodeIntelligenceTesting/Road-Smart | 2 | 0| 
 | 20221207T11:50:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8119 | 1770| 
 | 20221207T11:38:51Z | Null | https://github.com/Bensoto22/fuzzy-engine | 0 | 0| 

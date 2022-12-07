@@ -17,6 +17,7 @@
 | 20221207 | CI/CD 的供应链安全案例，如果一个项目使用了有漏洞的Github action，攻击者可以通过发起MR实现提权 | https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks| 
 | 20221207 | GOAD lab part11 ACL writeup | https://mayfly277.github.io/posts/GOADv2-pwning-part11/| 
 | 20221207 | CVE-2022-25765:pdfkit-Exploit-Reverse-Shell | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell| 
+| 20221207 | 使用 pipe_buffer 的任意读/写技术,用于linux kernel 利用 | http://interruptlabs.co.uk/labs/pipe_buffer/| 
 
 
 # 安全维基 推荐
@@ -32,6 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221207T13:55:54Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221207T13:36:43Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
 | 20221207T11:04:01Z | CVE-2022-1388 | Null | https://github.com/amitlttwo/CVE-2022-1388 | | 
 | 20221207T10:56:15Z | CVE-2021-41805 | HashiCorp Consul exploit with python. (CVE-2021-41805) | https://github.com/I-Am-Nelson/CVE-2021-41805 | | 
@@ -95,8 +97,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T13:55:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 126 | 9| 
 | 20221207T13:47:38Z | fuzzy logic final assignment in University | https://github.com/Khangnd143/fuzzy-logic-assignment- | 0 | 0| 
-| 20221207T12:55:59Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 125 | 9| 
 | 20221207T12:47:46Z | An example Java App to show examples of unit, fuzz and component testing | https://github.com/CodeIntelligenceTesting/Road-Smart | 2 | 0| 
 | 20221207T11:50:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8119 | 1770| 
 | 20221207T11:38:51Z | Null | https://github.com/Bensoto22/fuzzy-engine | 0 | 0| 
