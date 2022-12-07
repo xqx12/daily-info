@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221207T02:25:41Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
+| 20221207T02:25:11Z | CVE-2022-2414 | A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests. | https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept | | 
 | 20221206T18:06:07Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
 | 20221206T16:59:56Z | CVE-2022-1388 | Null | https://github.com/amitlttwo/CVE-2022-1388 | | 
 | 20221206T16:21:03Z | CVE-2022-31626 | Null | https://github.com/amitlttwo/CVE-2022-31626 | | 
-| 20221206T14:38:48Z | CVE-2022-2414 | A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests. | https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept | | 
 | 20221206T11:51:55Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221206T10:28:35Z | CVE-2022-11111111 | demo | https://github.com/sdfbjaksff/CVE-2022-11111111 | | 
 | 20221206T00:54:18Z | cve-2021-21380 | A CodeQL workshop covering CVE-2021-21380 | https://github.com/advanced-security/codeql-workshop-cve-2021-21380 | | 
 | 20221205T21:13:31Z | cve-2021-41773 | Exploit for path transversal vulnerability in apache | https://github.com/TheKernelPanic/exploit-apache2-cve-2021-41773 | | 
 | 20221205T16:18:19Z | CVE-2022-26726 | TCC Bypass | https://github.com/acheong08/CVE-2022-26726-POC | | 
-| 20221205T13:26:26Z | CVE-2022-44721 | Null | https://github.com/purplededa/CVE-2022-44721-CsFalconUninstaller | | 
 
 
 # klee on Github 推荐

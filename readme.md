@@ -32,7 +32,6 @@
 | 20221206T18:06:07Z | CVE-2022-26265 | The first proof of concept of the Contao CMS RCE | https://github.com/Inplex-sys/CVE-2022-26265 | | 
 | 20221206T16:59:56Z | CVE-2022-1388 | Null | https://github.com/amitlttwo/CVE-2022-1388 | | 
 | 20221206T16:21:03Z | CVE-2022-31626 | Null | https://github.com/amitlttwo/CVE-2022-31626 | | 
-| 20221206T14:38:48Z | CVE-2022-2414 | A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests. | https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept | | 
 | 20221206T11:51:55Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221206T10:28:35Z | CVE-2022-11111111 | demo | https://github.com/sdfbjaksff/CVE-2022-11111111 | | 
 | 20221206T00:54:18Z | cve-2021-21380 | A CodeQL workshop covering CVE-2021-21380 | https://github.com/advanced-security/codeql-workshop-cve-2021-21380 | | 
