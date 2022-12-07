@@ -53,22 +53,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T12:44:08Z | Post-exploitation tool to cover your tracks on various operating systems | https://github.com/sundowndev/covermyass | 206 | 37| 
+| 20221207T12:05:08Z | Null | https://github.com/dugisan3rd/exploit | 0 | 0| 
+| 20221207T11:50:51Z | Public Archive of Reverse-Engineering & Binary-Exploitation Challenges for APU BOH 2022 | https://github.com/WesleyWong420/Battle-of-Hackers-2022 | 0 | 0| 
+| 20221207T11:49:49Z | A post-exploitation toolkit to simulate the weaponization and detection of native Windows binaries based on LOLBas framework.  | https://github.com/WesleyWong420/Build-Your-Own-LOLBins | 0 | 0| 
+| 20221207T11:29:24Z | PHPunit Checker CVE-2017-9841 By MrMad | https://github.com/MadExploits/PHPunit-Exploit | 0 | 0| 
+| 20221207T10:56:15Z | HashiCorp Consul exploit with python. (CVE-2021-41805) | https://github.com/I-Am-Nelson/CVE-2021-41805 | 0 | 0| 
+| 20221207T10:54:21Z | The AluTrace Project was a project funded by the german Ministry of Economics, Labor and Tourism Baden-Württemberg (34-4224.044/21, 01/2020-12/2021) to digitally link the data and knowledge islands that are created through product development and manufacturing cycles in order to exploit them for lightweight design. | https://github.com/Mat-O-Lab/AluTrace-Data-and-Documentation | 0 | 0| 
+| 20221207T10:31:25Z | Did you need a tool to operate DVR devices and CCTV cameras??  congratulations. You have it right now! | https://github.com/C4ssif3r/Ariana-DVR-exploiter-Framework | 0 | 0| 
+| 20221207T06:58:57Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12424 | 2132| 
 | 20221207T02:53:16Z | Mimicry is a security tool developed by Chaitin Technology for active deception in exploitation and post-exploitation. | https://github.com/chaitin/mimicry | 0 | 0| 
-| 20221207T02:31:14Z | Chrome javascript engine exploits that I%ve written. | https://github.com/anvbis/chromium_v8_n-days | 4 | 0| 
-| 20221207T01:34:38Z | CVE Exploit Demonstration | https://github.com/KJOONHWAN/CVE-Exploit-Demonstration | 0 | 0| 
-| 20221207T01:34:38Z | CVE Exploit Demonstration | https://github.com/Xandevistan/CVE-Exploit-Demonstration | 0 | 0| 
-| 20221207T01:28:39Z | SILENT XLS XLSX EXPLOIT | https://github.com/0x414141414/Silent-Excel-Exploit-2023 | 0 | 0| 
-| 20221207T01:27:02Z | Microsoft Office Silent Exploit for Word | https://github.com/0x414141414/Silent-DOCX-Exploit-2023 | 0 | 0| 
-| 20221207T01:25:47Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-2023 | 0 | 0| 
-| 20221207T01:23:15Z | Null | https://github.com/0x414141414/JPG-SILENT-EXPLOIT-2023 | 0 | 0| 
-| 20221207T01:17:53Z | A GUI version of axi0mX%s ipwndfu exploit suite (by @tarbaII) | https://github.com/TarballCoLtd/checkm8gui | 68 | 21| 
-| 20221207T01:03:15Z | A simple CLI to setup a basic C++ development environment based on task statements from the judge platform (https://judge.science.unitn.it/), exploiting VSCode shortcuts through npm to compile and run in no time! | https://github.com/Seba-T/MontresorBuilder | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221207T01:49:05Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1507 | 270| 
+| 20221207T13:03:24Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1533 | 273| 
+| 20221207T09:55:30Z | Mimicry is a security tool developed by Chaitin Technology for active deception in exploitation and post-exploitation. | https://github.com/chaitin/mimicry | 1 | 1| 
+| 20221207T05:52:57Z | A Script For Block Fivem Backdoors | https://github.com/mo13ammad/FivemBackDoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
