@@ -88,6 +88,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221207T01:34:38Z | CVE Exploit Demonstration | https://github.com/KJOONHWAN/CVE-Exploit-Demonstration | 0 | 0| 
+| 20221207T01:34:38Z | CVE Exploit Demonstration | https://github.com/Xandevistan/CVE-Exploit-Demonstration | 0 | 0| 
 | 20221207T01:28:39Z | SILENT XLS XLSX EXPLOIT | https://github.com/0x414141414/Silent-Excel-Exploit-2023 | 0 | 0| 
 | 20221207T01:27:02Z | Microsoft Office Silent Exploit for Word | https://github.com/0x414141414/Silent-DOCX-Exploit-2023 | 0 | 0| 
 | 20221207T01:25:47Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-2023 | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221207T01:03:15Z | A simple CLI to setup a basic C++ development environment based on task statements from the judge platform (https://judge.science.unitn.it/), exploiting VSCode shortcuts through npm to compile and run in no time! | https://github.com/Seba-T/MontresorBuilder | 0 | 0| 
 | 20221207T00:30:51Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about  Software Exploits in Cybersecurity. | https://github.com/paulveillard/cybersecurity-exploits | 4 | 1| 
 | 20221207T00:27:23Z | Useful Bookmarklets and 1 Exploit! | https://github.com/ro2alive/bookmarklets | 0 | 0| 
-| 20221207T00:01:28Z | i have done something very wrong to america | https://github.com/SteeKsi/i-have-listened-to-the-exploited-once | 0 | 0| 
 
 
 # backdoor on Github 推荐
