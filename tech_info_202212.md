@@ -15,6 +15,7 @@
 | 20221207 | 使用 OpenAI 的 davinci-003 模型为 IDA Pro 反编译的函数提供注释和变量重命名信息的插件 | https://github.com/JusticeRage/Gepetto| 
 | 20221207 | DanaBot恶意软件的混淆技术分析，涉及多种对抗逆向工程的实用方法 | https://www.zscaler.com/blogs/security-research/technical-analysis-danabot-obfuscation-techniques| 
 | 20221207 | CI/CD 的供应链安全案例，如果一个项目使用了有漏洞的Github action，攻击者可以通过发起MR实现提权 | https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks| 
+| 20221207 | GOAD lab part11 ACL writeup | https://mayfly277.github.io/posts/GOADv2-pwning-part11/| 
 | 20221206 | 介绍Windows注册表内部构成及相关安全防护措施 | https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75?gi=4f8edcbb391| 
 | 20221206 | NodeBB 中存在一个原型污染漏洞，攻击者可利用该漏洞接管他人的账户 | http://securityonline.info/cve-2022-46164-account-takeover-vulnerability-found-in-nodebb/| 
 | 20221206 | 恶意软件新趋势：越来越多的勒索软件利用已知口令或漏洞对 RDP 服务端进行攻击 | http://cybersecuritynews.com/rdp-servers-actively-targeted-by-hackers/| 
@@ -25,7 +26,6 @@
 | 20221206 | MikroTik RouterOS 的 hotspot 程序存在越界读漏洞，可能导致有权限的用户获得任意代码执行能力 | http://securityonline.info/cve-2022-45313-mikrotik-routeros-flaw-can-lead-to-execute-arbitrary-code/| 
 | 20221206 | V8 heap sandbox安全机制设计思路及防御的主要漏洞类型。 | https://docs.google.com/presentation/d/1iDWDHuAZ8ee-dRF5Lkf0nwO2mkLdZG_YJEP1yPvJ09E/edit?usp=sharing| 
 | 20221206 | Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/| 
-| 20221206 | 如何在已root的手机上绕过Android SSL Pinning劫持HTTPS流量，以及如何修改APK以绕过Proxy Unaware劫持HTTP流量。 | https://kishorbalan.medium.com/its-all-about-android-ssl-pinning-bypass-and-intercepting-proxy-unaware-applications-91689c0763d8| 
 
 
 # 安全维基 推荐
@@ -117,13 +117,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T13:10:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2116 | 600| 
 | 20221207T11:20:11Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 35 | 21| 
 | 20221207T07:58:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3228 | 455| 
 | 20221206T15:14:15Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 17 | 2| 
 | 20221205T19:03:38Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 406 | 37| 
 | 20221205T14:36:32Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 29 | 5| 
 | 20221205T12:24:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 277 | 66| 
-| 20221203T12:29:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 600| 
 | 20221203T02:58:37Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1252 | 58| 
 | 20221202T14:58:08Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 11 | 3| 
 | 20221201T10:19:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 596 | 108| 

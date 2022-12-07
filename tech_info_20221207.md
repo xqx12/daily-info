@@ -15,6 +15,7 @@
 | 20221207 | 使用 OpenAI 的 davinci-003 模型为 IDA Pro 反编译的函数提供注释和变量重命名信息的插件 | https://github.com/JusticeRage/Gepetto| 
 | 20221207 | DanaBot恶意软件的混淆技术分析，涉及多种对抗逆向工程的实用方法 | https://www.zscaler.com/blogs/security-research/technical-analysis-danabot-obfuscation-techniques| 
 | 20221207 | CI/CD 的供应链安全案例，如果一个项目使用了有漏洞的Github action，攻击者可以通过发起MR实现提权 | https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks| 
+| 20221207 | GOAD lab part11 ACL writeup | https://mayfly277.github.io/posts/GOADv2-pwning-part11/| 
 
 
 # 安全维基 推荐
@@ -77,6 +78,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T13:10:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2116 | 600| 
 | 20221207T11:20:11Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 35 | 21| 
 | 20221207T07:58:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3228 | 455| 
 
