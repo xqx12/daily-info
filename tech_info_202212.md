@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T01:34:38Z | CVE Exploit Demonstration | https://github.com/KJOONHWAN/CVE-Exploit-Demonstration | 0 | 0| 
+| 20221207T01:28:39Z | SILENT XLS XLSX EXPLOIT | https://github.com/0x414141414/Silent-Excel-Exploit-2023 | 0 | 0| 
+| 20221207T01:27:02Z | Microsoft Office Silent Exploit for Word | https://github.com/0x414141414/Silent-DOCX-Exploit-2023 | 0 | 0| 
+| 20221207T01:25:47Z | Null | https://github.com/0x414141414/Silent-PDF-Exploit-2023 | 0 | 0| 
 | 20221207T01:23:15Z | Null | https://github.com/0x414141414/JPG-SILENT-EXPLOIT-2023 | 0 | 0| 
 | 20221207T01:17:53Z | A GUI version of axi0mX%s ipwndfu exploit suite (by @tarbaII) | https://github.com/TarballCoLtd/checkm8gui | 68 | 21| 
 | 20221207T01:03:15Z | A simple CLI to setup a basic C++ development environment based on task statements from the judge platform (https://judge.science.unitn.it/), exploiting VSCode shortcuts through npm to compile and run in no time! | https://github.com/Seba-T/MontresorBuilder | 0 | 0| 
 | 20221207T00:30:51Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about  Software Exploits in Cybersecurity. | https://github.com/paulveillard/cybersecurity-exploits | 4 | 1| 
 | 20221207T00:27:23Z | Useful Bookmarklets and 1 Exploit! | https://github.com/ro2alive/bookmarklets | 0 | 0| 
 | 20221207T00:01:28Z | i have done something very wrong to america | https://github.com/SteeKsi/i-have-listened-to-the-exploited-once | 0 | 0| 
-| 20221206T16:30:01Z | Writeups for the 2022 TryHackMe Advent of Cyber event  | https://github.com/fyceu/THM-aoc2022 | 0 | 1| 
-| 20221206T13:30:13Z | Tool to help to cryptanalysis for cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | 7 | 1| 
-| 20221206T12:56:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4782 | 700| 
-| 20221206T12:34:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12419 | 2133| 
 
 
 # backdoor on Github 推荐
