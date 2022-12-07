@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T01:23:15Z | Null | https://github.com/0x414141414/JPG-SILENT-EXPLOIT-2023 | 0 | 0| 
+| 20221207T01:17:53Z | A GUI version of axi0mX%s ipwndfu exploit suite (by @tarbaII) | https://github.com/TarballCoLtd/checkm8gui | 68 | 21| 
 | 20221207T01:03:15Z | A simple CLI to setup a basic C++ development environment based on task statements from the judge platform (https://judge.science.unitn.it/), exploiting VSCode shortcuts through npm to compile and run in no time! | https://github.com/Seba-T/MontresorBuilder | 0 | 0| 
 | 20221207T00:30:51Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about  Software Exploits in Cybersecurity. | https://github.com/paulveillard/cybersecurity-exploits | 4 | 1| 
 | 20221207T00:27:23Z | Useful Bookmarklets and 1 Exploit! | https://github.com/ro2alive/bookmarklets | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20221206T13:30:13Z | Tool to help to cryptanalysis for cryptanalysis exploit developers and CTF players | https://github.com/gogo2464/cryptatools-rs | 7 | 1| 
 | 20221206T12:56:39Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 4782 | 700| 
 | 20221206T12:34:12Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 12419 | 2133| 
-| 20221206T12:22:20Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 5 | 0| 
-| 20221206T11:31:40Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 53 | 4| 
 
 
 # backdoor on Github 推荐
