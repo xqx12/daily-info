@@ -16,6 +16,7 @@
 | 20221207 | DanaBot恶意软件的混淆技术分析，涉及多种对抗逆向工程的实用方法 | https://www.zscaler.com/blogs/security-research/technical-analysis-danabot-obfuscation-techniques| 
 | 20221207 | CI/CD 的供应链安全案例，如果一个项目使用了有漏洞的Github action，攻击者可以通过发起MR实现提权 | https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks| 
 | 20221207 | GOAD lab part11 ACL writeup | https://mayfly277.github.io/posts/GOADv2-pwning-part11/| 
+| 20221207 | CVE-2022-25765:pdfkit-Exploit-Reverse-Shell | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell| 
 | 20221206 | 介绍Windows注册表内部构成及相关安全防护措施 | https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75?gi=4f8edcbb391| 
 | 20221206 | NodeBB 中存在一个原型污染漏洞，攻击者可利用该漏洞接管他人的账户 | http://securityonline.info/cve-2022-46164-account-takeover-vulnerability-found-in-nodebb/| 
 | 20221206 | 恶意软件新趋势：越来越多的勒索软件利用已知口令或漏洞对 RDP 服务端进行攻击 | http://cybersecuritynews.com/rdp-servers-actively-targeted-by-hackers/| 
@@ -25,7 +26,6 @@
 | 20221206 | freebsd的ping有一个栈溢出漏洞，一个恶意的ICMP response可能会导致运行ping的主机被RCE。 | https://securityaffairs.co/wordpress/139300/hacking/cve-2022-23093-freebsd-systems-flaw.html| 
 | 20221206 | MikroTik RouterOS 的 hotspot 程序存在越界读漏洞，可能导致有权限的用户获得任意代码执行能力 | http://securityonline.info/cve-2022-45313-mikrotik-routeros-flaw-can-lead-to-execute-arbitrary-code/| 
 | 20221206 | V8 heap sandbox安全机制设计思路及防御的主要漏洞类型。 | https://docs.google.com/presentation/d/1iDWDHuAZ8ee-dRF5Lkf0nwO2mkLdZG_YJEP1yPvJ09E/edit?usp=sharing| 
-| 20221206 | Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/| 
 
 
 # 安全维基 推荐

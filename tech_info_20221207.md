@@ -16,6 +16,7 @@
 | 20221207 | DanaBot恶意软件的混淆技术分析，涉及多种对抗逆向工程的实用方法 | https://www.zscaler.com/blogs/security-research/technical-analysis-danabot-obfuscation-techniques| 
 | 20221207 | CI/CD 的供应链安全案例，如果一个项目使用了有漏洞的Github action，攻击者可以通过发起MR实现提权 | https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks| 
 | 20221207 | GOAD lab part11 ACL writeup | https://mayfly277.github.io/posts/GOADv2-pwning-part11/| 
+| 20221207 | CVE-2022-25765:pdfkit-Exploit-Reverse-Shell | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell| 
 
 
 # 安全维基 推荐
