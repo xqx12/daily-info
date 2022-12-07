@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221205T15:35:34Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 26 | 7| 
+| 20221206T15:19:21Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 27 | 7| 
 | 20221205T12:24:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 277 | 66| 
 | 20221205T12:20:29Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 6 | 6| 
 | 20221205T08:13:33Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 84 | 45| 
@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221207T00:58:48Z | A simple CLI to setup a basic C++ development environment based on task statements from the judge platform (https://judge.science.unitn.it/), exploiting VSCode shortcuts through npm to compile and run in no time! | https://github.com/Seba-T/MontresorBuilder | 0 | 0| 
+| 20221207T01:03:15Z | A simple CLI to setup a basic C++ development environment based on task statements from the judge platform (https://judge.science.unitn.it/), exploiting VSCode shortcuts through npm to compile and run in no time! | https://github.com/Seba-T/MontresorBuilder | 0 | 0| 
 | 20221207T00:30:51Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about  Software Exploits in Cybersecurity. | https://github.com/paulveillard/cybersecurity-exploits | 4 | 1| 
 | 20221207T00:27:23Z | Useful Bookmarklets and 1 Exploit! | https://github.com/ro2alive/bookmarklets | 0 | 0| 
 | 20221207T00:01:28Z | i have done something very wrong to america | https://github.com/SteeKsi/i-have-listened-to-the-exploited-once | 0 | 0| 
@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221207T01:01:04Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1505 | 269| 
+| 20221207T01:03:15Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1506 | 269| 
 | 20221206T21:55:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 98 | 13| 
 | 20221206T02:52:32Z | backdoor attack on minicoco | https://github.com/srikeerthi207/minicoco_backdoor | 0 | 0| 
 | 20221205T19:47:53Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
@@ -117,10 +117,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221206T19:16:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3229 | 455| 
+| 20221206T15:14:15Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 17 | 2| 
 | 20221205T19:03:38Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 406 | 37| 
 | 20221205T14:36:32Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 29 | 5| 
 | 20221205T12:24:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 277 | 66| 
-| 20221204T01:50:51Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3228 | 455| 
 | 20221203T12:29:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2115 | 600| 
 | 20221203T02:58:37Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1252 | 58| 
 | 20221202T14:58:08Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 11 | 3| 
