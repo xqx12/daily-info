@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221207T13:03:24Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1533 | 273| 
+| 20221207T13:03:55Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1534 | 273| 
 | 20221207T09:55:30Z | Mimicry is a security tool developed by Chaitin Technology for active deception in exploitation and post-exploitation. | https://github.com/chaitin/mimicry | 1 | 1| 
 | 20221207T05:52:57Z | A Script For Block Fivem Backdoors | https://github.com/mo13ammad/FivemBackDoors | 0 | 0| 
 | 20221206T21:55:21Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 98 | 13| 
@@ -117,7 +117,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221206T19:16:42Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3229 | 455| 
+| 20221207T11:20:11Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 35 | 21| 
+| 20221207T07:58:11Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3228 | 455| 
 | 20221206T15:14:15Z | A native symbolic execution engine for WebAssembly | https://github.com/HNYuuu/SeeWasm | 17 | 2| 
 | 20221205T19:03:38Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 406 | 37| 
 | 20221205T14:36:32Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 29 | 5| 
