@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221207T02:53:16Z | Mimicry is a security tool developed by Chaitin Technology for active deception in exploitation and post-exploitation. | https://github.com/chaitin/mimicry | 0 | 0| 
 | 20221207T02:31:14Z | Chrome javascript engine exploits that I%ve written. | https://github.com/anvbis/chromium_v8_n-days | 4 | 0| 
 | 20221207T01:34:38Z | CVE Exploit Demonstration | https://github.com/KJOONHWAN/CVE-Exploit-Demonstration | 0 | 0| 
 | 20221207T01:34:38Z | CVE Exploit Demonstration | https://github.com/Xandevistan/CVE-Exploit-Demonstration | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221207T01:23:15Z | Null | https://github.com/0x414141414/JPG-SILENT-EXPLOIT-2023 | 0 | 0| 
 | 20221207T01:17:53Z | A GUI version of axi0mX%s ipwndfu exploit suite (by @tarbaII) | https://github.com/TarballCoLtd/checkm8gui | 68 | 21| 
 | 20221207T01:03:15Z | A simple CLI to setup a basic C++ development environment based on task statements from the judge platform (https://judge.science.unitn.it/), exploiting VSCode shortcuts through npm to compile and run in no time! | https://github.com/Seba-T/MontresorBuilder | 0 | 0| 
-| 20221207T00:30:51Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about  Software Exploits in Cybersecurity. | https://github.com/paulveillard/cybersecurity-exploits | 4 | 1| 
 
 
 # backdoor on Github 推荐
