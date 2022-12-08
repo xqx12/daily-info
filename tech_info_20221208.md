@@ -67,6 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221208T13:27:29Z | Null | https://github.com/YukiM00/Backdoored-ImageNet | 0 | 0| 
 | 20221208T12:53:33Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1617 | 289| 
 | 20221208T12:20:37Z | ⚠️ Backdoor plugin for Minecraft server with multiple helpful commands | https://github.com/minhh2792/Nemesis | 2 | 0| 
 | 20221208T10:12:34Z | Code for the paper %Sniper Backdoor: Single Client Targeted Backdoor Attack in Federated Learning%. SaTML%23. | https://github.com/GorkaAbad/Sniper-Backdoor | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20221208T07:10:03Z | C# backdoor code with encrypted traffic and using syscall | https://github.com/ZemarKhos/Encrypted-Syscalls-Backdoor | 0 | 0| 
 | 20221208T05:54:05Z | Es un script simple que detecta conexiones que están intentado establecerse (normalmente usadas por las RevShell), las Enumera, Elimina y Muestra la ruta absoluta del Archivo. | https://github.com/xKaNoNR/backdoor_remover | 0 | 0| 
 | 20221208T04:36:45Z | Simple backdoor written in C | https://github.com/jamirnasci/backdoor | 0 | 0| 
-| 20221208T02:38:46Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 66 | 22| 
 
 
 # symbolic execution on Github 推荐
