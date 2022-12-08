@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221208T13:15:28Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 31 | 1| 
 | 20221208T13:06:30Z | Community curated list of nuclei templates for finding unknown security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 137 | 13| 
 | 20221208T12:25:26Z | Null | https://github.com/mastercodeon314/fuzzy-octo-succotash | 2 | 0| 
 | 20221208T12:04:26Z | A fuzzy-finder command-line tool for importing terraform resources | https://github.com/paololazzari/fuzzy-terraform-import | 0 | 1| 
@@ -104,7 +105,6 @@
 | 20221208T02:55:41Z | Null | https://github.com/PykuBBerx/fuzzy-bassoon | 0 | 0| 
 | 20221208T02:09:32Z | Null | https://github.com/Aidennnn33/fuzzy-octo-disco | 0 | 0| 
 | 20221208T01:22:57Z | Fuzzing web engines with js even though thats a dumb idea | https://github.com/petab1te/jsfuzz | 0 | 0| 
-| 20221208T00:05:10Z | Null | https://github.com/google/fuzztest | 192 | 9| 
 
 
 
