@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221208T02:55:41Z | Null | https://github.com/PykuBBerx/fuzzy-bassoon | 0 | 0| 
 | 20221208T02:09:32Z | Null | https://github.com/Aidennnn33/fuzzy-octo-disco | 0 | 0| 
 | 20221208T01:22:57Z | Fuzzing web engines with js even though thats a dumb idea | https://github.com/petab1te/jsfuzz | 0 | 0| 
 | 20221208T00:05:10Z | Null | https://github.com/google/fuzztest | 192 | 9| 
@@ -147,7 +148,6 @@
 | 20221207T21:44:54Z | Fuzzy matching of lightbox data to county parcel data | https://github.com/RaunchyIguana/assessor_fuzzymatching | 0 | 0| 
 | 20221207T19:43:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8121 | 1771| 
 | 20221207T19:08:43Z | Null | https://github.com/slowkeep/FuzzCatcher | 0 | 0| 
-| 20221207T13:55:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 126 | 9| 
 
 
 
