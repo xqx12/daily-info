@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221208T01:25:23Z | A roblox exploit, ur free version. | https://github.com/felipekkkj/NinjaExploit | 0 | 0| 
+| 20221208T01:27:36Z | A roblox exploit, ur free version. | https://github.com/felipekkkj/NinjaExploit | 0 | 0| 
 | 20221208T01:22:29Z | Official Nerd Hub Roblox Exploit , https://discord.gg/224NsX4USD | https://github.com/shockwinning/Nerd-Hub | 0 | 0| 
 | 20221207T23:40:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1s | 1 | 0| 
 | 20221207T23:39:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1s | 1 | 0| 
