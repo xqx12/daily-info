@@ -81,7 +81,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221207T23:39:09Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 4 | 0| 
-| 20221207T22:03:24Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 65 | 22| 
 | 20221207T18:38:04Z | A smart home connected, secure authentication panel, providing entry into my apartment | https://github.com/a-dubs/smart-backdoor-auth-panel | 0 | 0| 
 | 20221207T18:34:26Z | gmod backdoor scanner | https://github.com/BoxFanned/mScan | 1 | 0| 
 | 20221207T15:36:17Z | test | https://github.com/melamaze/Noise-backdoor-attack | 0 | 0| 
