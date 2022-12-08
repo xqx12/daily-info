@@ -138,8 +138,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221208T13:41:19Z | Community curated list of nuclei templates for finding unknown security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 138 | 13| 
 | 20221208T13:15:28Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 31 | 1| 
-| 20221208T13:06:30Z | Community curated list of nuclei templates for finding unknown security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 137 | 13| 
 | 20221208T12:25:26Z | Null | https://github.com/mastercodeon314/fuzzy-octo-succotash | 2 | 0| 
 | 20221208T12:04:26Z | A fuzzy-finder command-line tool for importing terraform resources | https://github.com/paololazzari/fuzzy-terraform-import | 0 | 1| 
 | 20221208T09:48:57Z | Fuzzer for Kotlin compiler. Found > 65 unique bugs in kotlinc v1.1.4-3. | https://github.com/ItsLastDay/KotlinFuzzer | 6 | 0| 
