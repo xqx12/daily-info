@@ -40,15 +40,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20221207T21:15:23Z | CVE-2021-20323 | Null | https://github.com/ndmalc/CVE-2021-20323 | | 
-| 20221207T19:17:05Z | CVE-2022-30129 | Null | https://github.com/RoccoPearce/CVE-2022-30129 | | 
-| 20221207T17:56:54Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample | | 
-| 20221207T17:23:49Z | cve-2021-21380 | A CodeQL workshop covering CVE-2021-21380 | https://github.com/advanced-security/codeql-workshop-cve-2021-21380 | | 
 | 20221207T16:51:09Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
 | 20221207T13:55:54Z | 未知编号 | Null | https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection | | 
 | 20221207T11:04:01Z | CVE-2022-1388 | Null | https://github.com/amitlttwo/CVE-2022-1388 | | 
-| 20221207T10:56:15Z | CVE-2021-41805 | HashiCorp Consul exploit with python. (CVE-2021-41805) | https://github.com/I-Am-Nelson/CVE-2021-41805 | | 
 | 20221207T06:45:41Z | CVE-2022-20441 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441 | | 
-| 20221207T02:25:11Z | CVE-2022-2414 | A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests. | https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept | | 
 
 
 # klee on Github 推荐
