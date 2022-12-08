@@ -25,6 +25,7 @@
 | 20221207 | 朝APT组织APT37以docx为载体模板为rtf文件内嵌html对象使用IE 0day(CVE-2022-41128)对目标进行攻击 | https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/| 
 | 20221207 | Apiiro AI 引擎检测到名为pywz的pypi供应链投毒攻击，该恶意package于12月2日上传。 | http://apiiro.com/blog/apiiros-ai-engine-detected-a-software-supply-chain-attack-in-pypi/| 
 | 20221207 | PowerISO处理VHD文件格式的功能存在越界写漏洞，进一步利用可实现任意地址写 | https://blog.talosintelligence.com/vulnerability-spotlight-memory-corruption-vulnerability-discovered-in-poweriso/| 
+| 20221207 | CVE-2022-44900：py7zr.SevenZipFile.extractall()中存在漏洞，通过符号链接构造恶意7z文件可实现任意文件读写 | http://packetstormsecurity.com/files/170127| 
 
 
 # 安全维基 推荐

@@ -25,7 +25,7 @@
 | 20221207 | 朝APT组织APT37以docx为载体模板为rtf文件内嵌html对象使用IE 0day(CVE-2022-41128)对目标进行攻击 | https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/| 
 | 20221207 | Apiiro AI 引擎检测到名为pywz的pypi供应链投毒攻击，该恶意package于12月2日上传。 | http://apiiro.com/blog/apiiros-ai-engine-detected-a-software-supply-chain-attack-in-pypi/| 
 | 20221207 | PowerISO处理VHD文件格式的功能存在越界写漏洞，进一步利用可实现任意地址写 | https://blog.talosintelligence.com/vulnerability-spotlight-memory-corruption-vulnerability-discovered-in-poweriso/| 
-| 20221206 | 介绍Windows注册表内部构成及相关安全防护措施 | https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75?gi=4f8edcbb391| 
+| 20221207 | CVE-2022-44900：py7zr.SevenZipFile.extractall()中存在漏洞，通过符号链接构造恶意7z文件可实现任意文件读写 | http://packetstormsecurity.com/files/170127| 
 
 
 # 安全维基 推荐
@@ -102,9 +102,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221208T02:43:28Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1587 | 281| 
 | 20221208T02:38:46Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 66 | 22| 
 | 20221208T02:22:00Z | Mimicry is a security tool developed by Chaitin Technology for active deception in exploitation and post-exploitation. | https://github.com/chaitin/mimicry | 2 | 1| 
-| 20221208T01:34:57Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1586 | 281| 
 | 20221207T23:39:09Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 4 | 0| 
 | 20221207T18:38:04Z | A smart home connected, secure authentication panel, providing entry into my apartment | https://github.com/a-dubs/smart-backdoor-auth-panel | 0 | 0| 
 | 20221207T18:34:26Z | gmod backdoor scanner | https://github.com/BoxFanned/mScan | 1 | 0| 
