@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221208T01:17:01Z | Fuzzing web engines with js even though thats a dumb idea | https://github.com/petab1te/jsfuzz | 0 | 0| 
 | 20221208T00:05:10Z | Null | https://github.com/google/fuzztest | 192 | 9| 
 | 20221207T23:35:40Z | Rust debugger for Windows processes. Use for fuzzing instrumentation. | https://github.com/talha/crash_monitor | 1 | 0| 
 | 20221207T23:08:27Z | Tennis data viz project | https://github.com/khanhngg/fuzzy-yellow-balls | 1 | 0| 
@@ -147,7 +148,6 @@
 | 20221207T19:08:43Z | Null | https://github.com/slowkeep/FuzzCatcher | 0 | 0| 
 | 20221207T13:55:56Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 126 | 9| 
 | 20221207T13:47:38Z | fuzzy logic final assignment in University | https://github.com/Khangnd143/fuzzy-logic-assignment- | 0 | 0| 
-| 20221207T12:47:46Z | An example Java App to show examples of unit, fuzz and component testing | https://github.com/CodeIntelligenceTesting/Road-Smart | 2 | 0| 
 
 
 
