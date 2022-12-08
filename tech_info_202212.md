@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221208T01:27:36Z | A roblox exploit, ur free version. | https://github.com/felipekkkj/NinjaExploit | 0 | 0| 
+| 20221208T01:33:59Z | A roblox exploit, ur free version. | https://github.com/felipekkkj/NinjaExploit | 1 | 0| 
 | 20221208T01:22:29Z | Official Nerd Hub Roblox Exploit , https://discord.gg/224NsX4USD | https://github.com/shockwinning/Nerd-Hub | 0 | 0| 
 | 20221207T23:40:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1s | 1 | 0| 
 | 20221207T23:39:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1s | 1 | 0| 
@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221208T00:24:56Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1585 | 280| 
+| 20221208T01:34:57Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1586 | 281| 
 | 20221207T23:39:09Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 4 | 0| 
 | 20221207T22:03:24Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 65 | 22| 
 | 20221207T18:38:04Z | A smart home connected, secure authentication panel, providing entry into my apartment | https://github.com/a-dubs/smart-backdoor-auth-panel | 0 | 0| 
