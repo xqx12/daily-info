@@ -55,7 +55,6 @@
 | --- | --- | --- | --- | ---| 
 | 20221207T15:55:43Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 51| 
 | 20221207T15:44:21Z | Null | https://github.com/onionoino/klee | 0 | 0| 
-| 20221207T14:30:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9541 | 327| 
 | 20221207T13:10:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2116 | 600| 
 | 20221207T12:26:59Z | my hexo blog | https://github.com/kleeper914/kleeper914.github.io | 1 | 0| 
 | 20221207T12:21:11Z | Null | https://github.com/abdulraheemiq/bootstrap-purple-kleeja | 0 | 0| 
