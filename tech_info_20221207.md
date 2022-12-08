@@ -24,6 +24,7 @@
 | 20221207 | 逆向豪威OS12D40驱动 | https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/| 
 | 20221207 | 朝APT组织APT37以docx为载体模板为rtf文件内嵌html对象使用IE 0day(CVE-2022-41128)对目标进行攻击 | https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/| 
 | 20221207 | Apiiro AI 引擎检测到名为pywz的pypi供应链投毒攻击，该恶意package于12月2日上传。 | http://apiiro.com/blog/apiiros-ai-engine-detected-a-software-supply-chain-attack-in-pypi/| 
+| 20221207 | PowerISO处理VHD文件格式的功能存在越界写漏洞，进一步利用可实现任意地址写 | https://blog.talosintelligence.com/vulnerability-spotlight-memory-corruption-vulnerability-discovered-in-poweriso/| 
 
 
 # 安全维基 推荐
