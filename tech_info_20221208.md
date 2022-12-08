@@ -82,6 +82,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221208T08:02:18Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1253 | 58| 
+| 20221208T05:33:40Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 407 | 37| 
 
 
 # big4 on Github 推荐
