@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221208T01:22:29Z | Official Nerd Hub Roblox Exploit , https://discord.gg/224NsX4USD | https://github.com/shockwinning/Nerd-Hub | 0 | 0| 
 | 20221207T23:40:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1s | 1 | 0| 
 | 20221207T23:39:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1s | 1 | 0| 
 | 20221207T23:37:52Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1s | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20221207T20:55:52Z | This is a menu i made that contains cheats, fun, and useful tools. THERE IS A MULTITOOL TOO | https://github.com/etxnight/Et-exploits-1.4-FIXED | 5 | 2| 
 | 20221207T19:16:58Z | 😎 External Fortnite Kernel Driver Bypass Anti-Cheat , Aimbot + Esp  | https://github.com/Fnoberz/Fortnite-External | 68 | 28| 
 | 20221207T14:11:55Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2134 | 393| 
-| 20221207T13:18:41Z | Décrire, nettoyer, exploiter les données pour la mise en place et la présententation d%une application diététique | https://github.com/110111-1/DS-OPENFOODFACT-SANTE | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221208T01:17:01Z | Fuzzing web engines with js even though thats a dumb idea | https://github.com/petab1te/jsfuzz | 0 | 0| 
+| 20221208T01:22:57Z | Fuzzing web engines with js even though thats a dumb idea | https://github.com/petab1te/jsfuzz | 0 | 0| 
 | 20221208T00:05:10Z | Null | https://github.com/google/fuzztest | 192 | 9| 
 | 20221207T23:35:40Z | Rust debugger for Windows processes. Use for fuzzing instrumentation. | https://github.com/talha/crash_monitor | 1 | 0| 
 | 20221207T23:08:27Z | Tennis data viz project | https://github.com/khanhngg/fuzzy-yellow-balls | 1 | 0| 
