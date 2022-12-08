@@ -23,9 +23,9 @@
 | 20221207 | CVE-2022-46169:Unauthenticated Command Injection in Cactil | https://github.com/Cacti/cacti/security/advisories/GHSA-6p93-p743-35gf| 
 | 20221207 | 逆向豪威OS12D40驱动 | https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/| 
 | 20221207 | 朝APT组织APT37以docx为载体模板为rtf文件内嵌html对象使用IE 0day(CVE-2022-41128)对目标进行攻击 | https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/| 
+| 20221207 | Apiiro AI 引擎检测到名为pywz的pypi供应链投毒攻击，该恶意package于12月2日上传。 | http://apiiro.com/blog/apiiros-ai-engine-detected-a-software-supply-chain-attack-in-pypi/| 
 | 20221206 | 介绍Windows注册表内部构成及相关安全防护措施 | https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75?gi=4f8edcbb391| 
 | 20221206 | NodeBB 中存在一个原型污染漏洞，攻击者可利用该漏洞接管他人的账户 | http://securityonline.info/cve-2022-46164-account-takeover-vulnerability-found-in-nodebb/| 
-| 20221206 | 恶意软件新趋势：越来越多的勒索软件利用已知口令或漏洞对 RDP 服务端进行攻击 | http://cybersecuritynews.com/rdp-servers-actively-targeted-by-hackers/| 
 
 
 # 安全维基 推荐

@@ -23,6 +23,7 @@
 | 20221207 | CVE-2022-46169:Unauthenticated Command Injection in Cactil | https://github.com/Cacti/cacti/security/advisories/GHSA-6p93-p743-35gf| 
 | 20221207 | 逆向豪威OS12D40驱动 | https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/| 
 | 20221207 | 朝APT组织APT37以docx为载体模板为rtf文件内嵌html对象使用IE 0day(CVE-2022-41128)对目标进行攻击 | https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/| 
+| 20221207 | Apiiro AI 引擎检测到名为pywz的pypi供应链投毒攻击，该恶意package于12月2日上传。 | http://apiiro.com/blog/apiiros-ai-engine-detected-a-software-supply-chain-attack-in-pypi/| 
 
 
 # 安全维基 推荐
