@@ -63,11 +63,11 @@
 | 20221208T21:23:10Z | The menu for the SCOPE EXPLOIT. | https://github.com/OctoLinkSCHOOL/SC0PEX | 0 | 0| 
 | 20221208T21:09:26Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem  | https://github.com/Fnoberz/Fivem-Exec | 44 | 11| 
 | 20221208T20:19:09Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about  Software Exploits in Cybersecurity. | https://github.com/paulveillard/cybersecurity-exploits | 5 | 1| 
-| 20221208T19:29:45Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 4 | 2| 
 | 20221208T12:55:41Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/Zun889/Fortnite-Lama-Exploit | 0 | 0| 
 | 20221208T12:40:38Z | Null | https://github.com/Jh0nySims/TakiiExploit | 0 | 0| 
 | 20221208T12:31:44Z | This is a batch script that automates the post exploitation phase when you gain a shell and you have obtained administrative rights, whether it%s from your beacon or shell. | https://github.com/smadi0x01/JustBatchThem | 0 | 0| 
 | 20221208T12:18:30Z | TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 291 | 61| 
+| 20221208T12:16:08Z | My exploration and exploitation of HF-RL-Course | https://github.com/ayulockin/HF-RL-Course | 0 | 0| 
 
 
 # backdoor on Github 推荐

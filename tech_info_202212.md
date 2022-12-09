@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T02:47:45Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 5 | 2| 
 | 20221209T02:46:06Z | exploit for dirtycow | https://github.com/zh-explorer/dirtycow | 3 | 0| 
 | 20221209T02:41:02Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
 | 20221209T01:57:07Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/Kapspire-Exploits | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221208T22:22:58Z | Null | https://github.com/SuprajaBaskaran/exploits-npm | 0 | 0| 
 | 20221208T21:23:45Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 117 | 11| 
 | 20221208T21:23:10Z | The menu for the SCOPE EXPLOIT. | https://github.com/OctoLinkSCHOOL/SC0PEX | 0 | 0| 
-| 20221208T21:09:26Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem  | https://github.com/Fnoberz/Fivem-Exec | 44 | 11| 
 
 
 # backdoor on Github 推荐
