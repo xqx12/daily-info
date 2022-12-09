@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T02:41:02Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
+| 20221209T02:39:39Z | exploit for dirtycow | https://github.com/zh-explorer/dirtycow | 2 | 0| 
 | 20221209T01:57:07Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/Kapspire-Exploits | 0 | 0| 
 | 20221209T01:50:42Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/kapspire-exploits | 0 | 0| 
 | 20221209T01:13:30Z | Intercept AnyDesk traffic to detect unhautorized IP Address and scam attempts | https://github.com/marik22354/AnyDesk_Exploit | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20221208T21:23:45Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 117 | 11| 
 | 20221208T21:23:10Z | The menu for the SCOPE EXPLOIT. | https://github.com/OctoLinkSCHOOL/SC0PEX | 0 | 0| 
 | 20221208T21:09:26Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem  | https://github.com/Fnoberz/Fivem-Exec | 44 | 11| 
-| 20221208T20:19:09Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about  Software Exploits in Cybersecurity. | https://github.com/paulveillard/cybersecurity-exploits | 5 | 1| 
-| 20221208T19:29:45Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 4 | 2| 
 
 
 # backdoor on Github 推荐
