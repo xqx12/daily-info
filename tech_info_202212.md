@@ -138,16 +138,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T02:49:31Z | Null | https://github.com/dossj88/fuzzy-adventure | 0 | 0| 
+| 20221209T02:44:44Z | Null | https://github.com/EmilyAbrahart/fuzzyspoon | 0 | 0| 
 | 20221209T01:35:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8129 | 1774| 
 | 20221209T01:19:59Z | Fuzzing tool for testing vulnerabilities with DVWA | https://github.com/hxl1116/web-fuzzer | 0 | 0| 
 | 20221209T01:00:03Z | Null | https://github.com/SteeKsi/either-fuzzy-logic-will-resolve-into-boolean-logic-or-it-will-not | 0 | 0| 
 | 20221209T00:59:25Z | Null | https://github.com/SteeKsi/there-is-no-evidence-the-logic-of-a-neural-network-is-fuzzy-and-has-ever-been-fuzzy | 0 | 0| 
 | 20221209T00:47:09Z | Null | https://github.com/pirataNet33/FuzzingForceBrute-Dictionarys | 0 | 0| 
 | 20221208T23:49:01Z | Null | https://github.com/Jackson-Vieira/fuzzy-lamp | 0 | 0| 
-| 20221208T23:16:41Z | Null | https://github.com/dossj88/fuzzy-adventure | 0 | 0| 
 | 20221208T22:17:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2627 | 178| 
 | 20221208T21:22:22Z | Null | https://github.com/Hearlvein/fuzzycs | 0 | 0| 
-| 20221208T20:47:21Z | Null | https://github.com/team-demonslayer/fuzzy-octo-winner | 0 | 0| 
 
 
 
