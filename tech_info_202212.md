@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T01:16:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9548 | 327| 
 | 20221208T15:44:13Z | Null | https://github.com/pendlirajashekhar/KleeTeams | 0 | 0| 
-| 20221208T11:45:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9547 | 327| 
 | 20221208T08:16:10Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 16 | 50| 
 | 20221207T15:55:43Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 165 | 51| 
 | 20221207T15:44:21Z | Null | https://github.com/onionoino/klee | 0 | 0| 
@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221209T00:49:24Z | Intercept AnyDesk traffic to detect unhautorized IP Address and scam attempts | https://github.com/marik22354/AnyDesk_Exploit | 0 | 0| 
+| 20221209T01:13:30Z | Intercept AnyDesk traffic to detect unhautorized IP Address and scam attempts | https://github.com/marik22354/AnyDesk_Exploit | 0 | 0| 
 | 20221209T00:40:53Z | Roblox Exploit Using WRD Api  | https://github.com/ROOT44x/Kol_Roblox_Exploit. | 0 | 0| 
 | 20221208T22:22:58Z | Null | https://github.com/SuprajaBaskaran/exploits-npm | 0 | 0| 
 | 20221208T21:23:45Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 117 | 11| 
