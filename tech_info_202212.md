@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221209T01:39:25Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/kapspire-exploits | 0 | 0| 
+| 20221209T01:50:42Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/kapspire-exploits | 0 | 0| 
 | 20221209T01:13:30Z | Intercept AnyDesk traffic to detect unhautorized IP Address and scam attempts | https://github.com/marik22354/AnyDesk_Exploit | 0 | 0| 
 | 20221209T00:40:53Z | Roblox Exploit Using WRD Api  | https://github.com/ROOT44x/Kol_Roblox_Exploit. | 0 | 0| 
 | 20221208T22:22:58Z | Null | https://github.com/SuprajaBaskaran/exploits-npm | 0 | 0| 
