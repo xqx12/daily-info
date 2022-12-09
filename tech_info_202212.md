@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221209T13:28:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9556 | 328| 
+| 20221209T13:52:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 9557 | 328| 
 | 20221209T10:14:11Z | Null | https://github.com/onionoino/klee | 0 | 0| 
 | 20221209T08:42:28Z | Null | https://github.com/pendlirajashekhar/KleeTeams | 0 | 0| 
 | 20221208T08:16:10Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 16 | 50| 
@@ -146,8 +146,8 @@
 | 20221209T12:27:35Z | A fuzzy-finder command-line tool for importing terraform resources | https://github.com/paololazzari/fuzzy-terraform-import | 5 | 1| 
 | 20221209T11:53:32Z | A cli tool to bootstrap your django projects and enhance your development experience.  | https://github.com/Tobi-De/fuzzy-couscous | 14 | 1| 
 | 20221209T10:52:32Z | Null | https://github.com/csk1116/Fuzzy-Logic-and-Control-Course-Project | 0 | 0| 
+| 20221209T10:20:27Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 127 | 9| 
 | 20221209T08:47:00Z | Null | https://github.com/MaxWeigert/fuzzyclara | 2 | 0| 
-| 20221209T07:42:18Z | Null | https://github.com/inder9999/Fuzzy_CPUScheduling | 0 | 1| 
 
 
 
