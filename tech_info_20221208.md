@@ -86,6 +86,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221208T23:59:12Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 511 | 29| 
+| 20221208T18:18:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3230 | 455| 
 | 20221208T13:09:35Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 30 | 5| 
 | 20221208T08:02:18Z | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! | https://github.com/illera88/Ponce | 1253 | 58| 
 | 20221208T05:33:40Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 407 | 37| 
