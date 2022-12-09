@@ -48,13 +48,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221209T02:47:45Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 5 | 2| 
+| 20221209T13:02:45Z | Null | https://github.com/psatoshi/exploit- | 0 | 0| 
+| 20221209T12:43:04Z | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | 2 | 0| 
+| 20221209T12:38:05Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 8 | 2| 
+| 20221209T12:15:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3836 | 473| 
+| 20221209T11:15:45Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1411 | 139| 
+| 20221209T10:13:29Z | Smuggler can detect and exploit -HTTP Smuggling- vulnerabilities. | https://github.com/epsylon/Smuggler | 20 | 10| 
+| 20221209T09:50:48Z | My Roblox Exploit,Enjoy It! | https://github.com/Crashino/Dark-X-Executor | 0 | 0| 
+| 20221209T09:14:27Z | Just some scripts for roblox exploits. | https://github.com/Sx-p0t/BloxSploitsScripts | 0 | 0| 
+| 20221209T03:05:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 559 | 145| 
 | 20221209T02:46:06Z | exploit for dirtycow | https://github.com/zh-explorer/dirtycow | 3 | 0| 
-| 20221209T02:41:02Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
-| 20221209T01:57:07Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/Kapspire-Exploits | 0 | 0| 
-| 20221209T01:50:42Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/kapspire-exploits | 0 | 0| 
-| 20221209T01:13:30Z | Intercept AnyDesk traffic to detect unhautorized IP Address and scam attempts | https://github.com/marik22354/AnyDesk_Exploit | 0 | 0| 
-| 20221209T00:40:53Z | Roblox Exploit Using WRD Api  | https://github.com/ROOT44x/Kol_Roblox_Exploit. | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -73,6 +76,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T11:51:15Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
+| 20221209T10:11:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 597 | 108| 
+| 20221209T05:19:38Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 512 | 29| 
 | 20221209T01:17:18Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 31 | 5| 
 
 
