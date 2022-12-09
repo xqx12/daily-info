@@ -18,6 +18,7 @@
 | 20221208 | 疑似APT-C-56（透明部落）针对恐怖主义的攻击活动分析 | https://mp.weixin.qq.com/s/J_A12SOX0k5TOYFAegBv_w| 
 | 20221208 | 基于gdrv-loader驱动的windows内核漏洞利用case学习 | https://v1k1ngfr.github.io/loading-windows-unsigned-driver/| 
 | 20221208 | Furbo狗相机漏洞挖掘过程：作者详细描述了从UART连接到发现固件更新MitM漏洞的过程 | http://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii| 
+| 20221208 | 本文介绍了一种基于栈的内核利用方法，有内核任意地址能力的攻击者可以利用该方法直接完成内核利用 具体地，该文章： 1. 介绍了一种利用cpu_entry_area构造内核地址读写的方法，cpu_entry_area是内核处理DB异常所用的栈，它在内核内存中是处于固定位置，因此可以直接绕过KASLR。作者向Linux内核团队建议了将cpu_entry_area地址随机化修复方法，这样可以有效的阻止remote kernel attack 2.作者又介绍了用prefetch绕过推算cpu_entry_area的方法，指出就算cpu_entry_area随机化了也挡不住local kernel attack | https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html| 
 
 
 # 安全维基 推荐
