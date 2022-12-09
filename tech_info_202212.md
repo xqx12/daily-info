@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221209T01:15:22Z | Fuzzing tool for testing vulnerabilities with DVWA | https://github.com/hxl1116/web-fuzzer | 0 | 0| 
+| 20221209T01:18:29Z | Fuzzing tool for testing vulnerabilities with DVWA | https://github.com/hxl1116/web-fuzzer | 0 | 0| 
 | 20221209T01:00:03Z | Null | https://github.com/SteeKsi/either-fuzzy-logic-will-resolve-into-boolean-logic-or-it-will-not | 0 | 0| 
 | 20221209T00:59:25Z | Null | https://github.com/SteeKsi/there-is-no-evidence-the-logic-of-a-neural-network-is-fuzzy-and-has-ever-been-fuzzy | 0 | 0| 
 | 20221209T00:47:09Z | Null | https://github.com/pirataNet33/FuzzingForceBrute-Dictionarys | 0 | 0| 
