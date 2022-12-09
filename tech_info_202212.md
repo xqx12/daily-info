@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221209T13:11:40Z | Metasploit-framework is a pentest Tool for exploiting and exploit scanning, that%s often difficulty to use for IT-Beginners. So that it%s why i code this script - exploit-scanning was my first big problem to understand. To check the security-strength of your router / website, or undestanding exploiting methods. | https://github.com/DroPZsec/MFETB | 0 | 0| 
+| 20221209T13:12:52Z | Metasploit-framework is a pentest Tool for exploiting and exploit scanning, that%s often difficulty to use for IT-Beginners. So that it%s why i code this script - exploit-scanning was my first big problem to understand. To check the security-strength of your router / website, or undestanding exploiting methods. | https://github.com/DroPZsec/MFETB | 1 | 0| 
 | 20221209T13:02:53Z | Null | https://github.com/psatoshi/exploit | 0 | 0| 
 | 20221209T13:02:45Z | Null | https://github.com/psatoshi/exploit- | 0 | 0| 
 | 20221209T12:43:04Z | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | 2 | 0| 
