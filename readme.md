@@ -100,7 +100,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221208T23:49:01Z | Null | https://github.com/Jackson-Vieira/fuzzy-lamp | 0 | 0| 
-| 20221208T23:46:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8128 | 1774| 
 | 20221208T23:16:41Z | Null | https://github.com/dossj88/fuzzy-adventure | 0 | 0| 
 | 20221208T22:17:00Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2627 | 178| 
 | 20221208T21:22:22Z | Null | https://github.com/Hearlvein/fuzzycs | 0 | 0| 
@@ -109,6 +108,7 @@
 | 20221208T20:20:28Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 6 | 2| 
 | 20221208T13:41:19Z | Community curated list of nuclei templates for finding unknown security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 138 | 13| 
 | 20221208T13:15:28Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 31 | 1| 
+| 20221208T12:25:26Z | Null | https://github.com/mastercodeon314/fuzzy-octo-succotash | 2 | 0| 
 
 
 
