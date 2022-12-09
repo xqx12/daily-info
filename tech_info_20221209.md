@@ -51,13 +51,13 @@
 | 20221209T13:12:52Z | Metasploit-framework is a pentest Tool for exploiting and exploit scanning, that%s often difficulty to use for IT-Beginners. So that it%s why i code this script - exploit-scanning was my first big problem to understand. To check the security-strength of your router / website, or undestanding exploiting methods. | https://github.com/DroPZsec/MFETB | 1 | 0| 
 | 20221209T13:02:53Z | Null | https://github.com/psatoshi/exploit | 0 | 0| 
 | 20221209T13:02:45Z | Null | https://github.com/psatoshi/exploit- | 0 | 0| 
+| 20221209T12:58:27Z | A lightweight rogue LDAP server which is a modified version of the JNDIExploit-1 | https://github.com/twelvesec/RogueLDAP | 4 | 4| 
 | 20221209T12:43:04Z | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | 2 | 0| 
 | 20221209T12:38:05Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 8 | 2| 
 | 20221209T12:15:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3836 | 473| 
 | 20221209T11:15:45Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1411 | 139| 
 | 20221209T10:13:29Z | Smuggler can detect and exploit -HTTP Smuggling- vulnerabilities. | https://github.com/epsylon/Smuggler | 20 | 10| 
 | 20221209T09:50:48Z | My Roblox Exploit,Enjoy It! | https://github.com/Crashino/Dark-X-Executor | 0 | 0| 
-| 20221209T09:14:27Z | Just some scripts for roblox exploits. | https://github.com/Sx-p0t/BloxSploitsScripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
