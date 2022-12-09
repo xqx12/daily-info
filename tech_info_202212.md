@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20221209T02:14:43Z | CVE-2020-25790 | Typesetter CMS文件上传漏洞环境 | https://github.com/7Mitu/CVE-2020-25790 | | 
 | 20221208T22:01:14Z | CVE-2022-45265 | Null | https://github.com/maikroservice/CVE-2022-45265 | | 
 | 20221208T18:44:02Z | CVE-2022-2414 | A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests. | https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept | | 
 | 20221208T07:55:25Z | CVE-2022-25765 | pdfkit <0.8.6 command injection shell. The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) - CVE-2022-25765 | https://github.com/CyberArchitect1/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell | | 
-| 20221208T06:04:13Z | CVE-2020-25790 | Typesetter CMS文件上传漏洞环境 | https://github.com/7Mitu/CVE-2020-25790 | | 
 | 20221208T02:20:22Z | cve-2021-21380 | A CodeQL workshop covering CVE-2021-21380 | https://github.com/advanced-security/codeql-workshop-cve-2021-21380 | | 
 | 20221208T02:20:10Z | CVE-2022-30190 | Educational Follina PoC Tool | https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample | | 
 | 20221208T02:19:59Z | CVE-2021-41805 | HashiCorp Consul exploit with python. (CVE-2021-41805) | https://github.com/I-Am-Nelson/CVE-2021-41805 | | 
