@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T01:57:07Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/Kapspire-Exploits | 0 | 0| 
 | 20221209T01:50:42Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/kapspire-exploits | 0 | 0| 
 | 20221209T01:13:30Z | Intercept AnyDesk traffic to detect unhautorized IP Address and scam attempts | https://github.com/marik22354/AnyDesk_Exploit | 0 | 0| 
 | 20221209T00:40:53Z | Roblox Exploit Using WRD Api  | https://github.com/ROOT44x/Kol_Roblox_Exploit. | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221208T21:09:26Z | 🩸 Lua Exec Bypass + Dumper Scirpts , Compatible with the latest version of Fivem  | https://github.com/Fnoberz/Fivem-Exec | 44 | 11| 
 | 20221208T20:19:09Z | An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about  Software Exploits in Cybersecurity. | https://github.com/paulveillard/cybersecurity-exploits | 5 | 1| 
 | 20221208T19:29:45Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 4 | 2| 
-| 20221208T12:55:41Z | This project exploits the lama bug from Fortnite Save the World | https://github.com/Zun889/Fortnite-Lama-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
