@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T02:46:06Z | exploit for dirtycow | https://github.com/zh-explorer/dirtycow | 3 | 0| 
 | 20221209T02:41:02Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
-| 20221209T02:39:39Z | exploit for dirtycow | https://github.com/zh-explorer/dirtycow | 2 | 0| 
 | 20221209T01:57:07Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/Kapspire-Exploits | 0 | 0| 
 | 20221209T01:50:42Z | Roblox exploits with FE features undetected to the client. | https://github.com/Kapspire/kapspire-exploits | 0 | 0| 
 | 20221209T01:13:30Z | Intercept AnyDesk traffic to detect unhautorized IP Address and scam attempts | https://github.com/marik22354/AnyDesk_Exploit | 0 | 0| 
