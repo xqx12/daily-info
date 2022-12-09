@@ -17,6 +17,7 @@
 | 20221208 | 一个利用使用ChatGPT的代码修改能力来完善反编译体验的工具 | https://github.com/mahaloz/DAILA| 
 | 20221208 | 疑似APT-C-56（透明部落）针对恐怖主义的攻击活动分析 | https://mp.weixin.qq.com/s/J_A12SOX0k5TOYFAegBv_w| 
 | 20221208 | 基于gdrv-loader驱动的windows内核漏洞利用case学习 | https://v1k1ngfr.github.io/loading-windows-unsigned-driver/| 
+| 20221208 | Furbo狗相机漏洞挖掘过程：作者详细描述了从UART连接到发现固件更新MitM漏洞的过程 | http://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii| 
 | 20221207 | 尽管进行了多因素身份认证，但若能获取到受害者用户登录后的 Cookie，就可以通过直接传递 Cookie 的方式接管受害者用户的账户 | https://blog.netwrix.com/2022/11/29/bypassing-mfa-with-pass-the-cookie-attack/| 
 | 20221207 | 微软披露DEV-0139(疑似Lazarus)针对加密货币行业发起定向攻击,其主要通过社工获取信任后使用Telegram为载体投递武器化的macro宏文档,宏执行后释放另一个xls并且其内嵌的宏下载一个png文件(由白文件,黑dll,带有Guid xor加密后的backdoor程序组成),然后将这三个部分分割后提取出来再写入本地.然后其通过白加黑的手法运行载荷。除了xls载荷还有利用msi安装包进行植入的活动,其也是利用白加黑以进行木马的植入 | https://www.microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/| 
 | 20221207 | 暗网中的 InTheBox 市场为移动恶意软件制造者提供了多种类别的 Webinjects 模板 | http://cybersecuritynews.com/largest-mobile-malware-darkweb-marketplace/| 
@@ -25,7 +26,6 @@
 | 20221207 | 介绍Netgear RAX30 1.0.7.78版本的DHCP命令注入和WAN利用链 | https://www.reddit.com/r/netsec/comments/ze8pr7/the_last_breath_of_our_netgear_rax30_bugs_a/| 
 | 20221207 | 使用 OpenAI 的 davinci-003 模型为 IDA Pro 反编译的函数提供注释和变量重命名信息的插件 | https://github.com/JusticeRage/Gepetto| 
 | 20221207 | DanaBot恶意软件的混淆技术分析，涉及多种对抗逆向工程的实用方法 | https://www.zscaler.com/blogs/security-research/technical-analysis-danabot-obfuscation-techniques| 
-| 20221207 | CI/CD 的供应链安全案例，如果一个项目使用了有漏洞的Github action，攻击者可以通过发起MR实现提权 | https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks| 
 
 
 # 安全维基 推荐

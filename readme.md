@@ -17,6 +17,7 @@
 | 20221208 | 一个利用使用ChatGPT的代码修改能力来完善反编译体验的工具 | https://github.com/mahaloz/DAILA| 
 | 20221208 | 疑似APT-C-56（透明部落）针对恐怖主义的攻击活动分析 | https://mp.weixin.qq.com/s/J_A12SOX0k5TOYFAegBv_w| 
 | 20221208 | 基于gdrv-loader驱动的windows内核漏洞利用case学习 | https://v1k1ngfr.github.io/loading-windows-unsigned-driver/| 
+| 20221208 | Furbo狗相机漏洞挖掘过程：作者详细描述了从UART连接到发现固件更新MitM漏洞的过程 | http://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii| 
 
 
 # 安全维基 推荐
