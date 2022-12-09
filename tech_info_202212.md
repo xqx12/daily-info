@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T02:41:02Z | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | 1 | 0| 
 | 20221209T02:25:54Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1652 | 292| 
 | 20221209T00:48:39Z | 「🚪」Linux Backdoor based on ICMP protocol | https://github.com/MrEmpy/Pingoor | 7 | 0| 
 | 20221208T23:22:40Z | Null | https://github.com/n0vay/backdoor-detector-badnets | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20221208T13:27:29Z | Null | https://github.com/YukiM00/Backdoored-ImageNet | 0 | 0| 
 | 20221208T10:12:34Z | Code for the paper %Sniper Backdoor: Single Client Targeted Backdoor Attack in Federated Learning%. SaTML%23. | https://github.com/GorkaAbad/Sniper-Backdoor | 0 | 0| 
 | 20221208T09:12:52Z | !! BETA !! | https://github.com/Vermilonik/TelegramBackdoor | 0 | 0| 
-| 20221208T07:38:49Z | Null | https://github.com/sakadeajagath/backdoor_tmp | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
