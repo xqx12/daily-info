@@ -109,9 +109,9 @@
 | 20221208T20:47:21Z | Null | https://github.com/team-demonslayer/fuzzy-octo-winner | 0 | 0| 
 | 20221208T20:47:20Z | Null | https://github.com/marianc000/HighlightingFuzzySearchResults | 0 | 0| 
 | 20221208T20:20:28Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 6 | 2| 
+| 20221208T20:12:41Z | Null | https://github.com/jpmllord/SVS_fuzzer | 0 | 0| 
 | 20221208T13:41:19Z | Community curated list of nuclei templates for finding unknown security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 138 | 13| 
 | 20221208T13:15:28Z | Test Case Generator Based on Branch Coverage and Fuzzing | https://github.com/WeWatchWall/fast-fuzz | 31 | 1| 
-| 20221208T12:25:26Z | Null | https://github.com/mastercodeon314/fuzzy-octo-succotash | 2 | 0| 
 
 
 
