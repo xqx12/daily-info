@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T13:11:40Z | Metasploit-framework is a pentest Tool for exploiting and exploit scanning, that%s often difficulty to use for IT-Beginners. So that it%s why i code this script - exploit-scanning was my first big problem to understand. To check the security-strength of your router / website, or undestanding exploiting methods. | https://github.com/DroPZsec/MFETB | 0 | 0| 
+| 20221209T13:02:53Z | Null | https://github.com/psatoshi/exploit | 0 | 0| 
 | 20221209T13:02:45Z | Null | https://github.com/psatoshi/exploit- | 0 | 0| 
 | 20221209T12:43:04Z | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | 2 | 0| 
 | 20221209T12:38:05Z | Signing-key abuse and update exploitation framework | https://github.com/kpcyrd/sh4d0wup | 8 | 2| 
@@ -95,8 +97,6 @@
 | 20221209T10:13:29Z | Smuggler can detect and exploit -HTTP Smuggling- vulnerabilities. | https://github.com/epsylon/Smuggler | 20 | 10| 
 | 20221209T09:50:48Z | My Roblox Exploit,Enjoy It! | https://github.com/Crashino/Dark-X-Executor | 0 | 0| 
 | 20221209T09:14:27Z | Just some scripts for roblox exploits. | https://github.com/Sx-p0t/BloxSploitsScripts | 0 | 0| 
-| 20221209T03:05:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 559 | 145| 
-| 20221209T02:46:06Z | exploit for dirtycow | https://github.com/zh-explorer/dirtycow | 3 | 0| 
 
 
 # backdoor on Github 推荐
