@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T13:54:50Z | Simple django rce exploitation with leaked SECRET_KEY variable | https://github.com/0xuf/DJRCE | 5 | 1| 
 | 20221209T13:12:52Z | Metasploit-framework is a pentest Tool for exploiting and exploit scanning, that%s often difficulty to use for IT-Beginners. So that it%s why i code this script - exploit-scanning was my first big problem to understand. To check the security-strength of your router / website, or undestanding exploiting methods. | https://github.com/DroPZsec/MFETB | 1 | 0| 
 | 20221209T13:02:53Z | Null | https://github.com/psatoshi/exploit | 0 | 0| 
 | 20221209T13:02:45Z | Null | https://github.com/psatoshi/exploit- | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20221209T12:15:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 3836 | 473| 
 | 20221209T11:15:45Z | Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作 | https://github.com/teamssix/cf | 1411 | 139| 
 | 20221209T10:13:29Z | Smuggler can detect and exploit -HTTP Smuggling- vulnerabilities. | https://github.com/epsylon/Smuggler | 20 | 10| 
-| 20221209T09:50:48Z | My Roblox Exploit,Enjoy It! | https://github.com/Crashino/Dark-X-Executor | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,8 +117,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221209T13:51:56Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 598 | 108| 
 | 20221209T11:51:15Z | A symbolic execution engine in Prolog for C | https://github.com/LilyOSullivan/SymbolicExecutionForCWithParser | 0 | 0| 
-| 20221209T10:11:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 597 | 108| 
 | 20221209T05:19:38Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 512 | 29| 
 | 20221209T01:17:18Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 31 | 5| 
 | 20221208T18:18:29Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3230 | 455| 
