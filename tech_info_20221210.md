@@ -70,6 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221210T08:29:24Z | Optik is a set of symbolic execution tools that assist smart-contract fuzzers | https://github.com/crytic/optik | 36 | 5| 
+| 20221210T08:22:45Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 514 | 29| 
+| 20221210T07:34:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2118 | 602| 
 
 
 # big4 on Github 推荐
