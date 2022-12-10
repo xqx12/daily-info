@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221210T02:24:00Z | Null | https://github.com/Queenmiya28/fuzzy-enigma | 0 | 0| 
 | 20221210T01:50:21Z | Null | https://github.com/Putrantooo/FuzzyTsukamoto-KTHNR | 0 | 0| 
 | 20221210T01:11:02Z | Null | https://github.com/Putrantooo/SPK-FuzzyTsukamoto-ProduksiBarang | 0 | 0| 
 | 20221210T00:11:02Z | Null | https://github.com/RobertoCampos3030/FuzzyLogicR | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20221209T22:56:15Z | This is a quick utility to help reboot a server at a specific time. Specify a time and then copy the command to the clipboard. If you are rebooting a lot of servers, you can fuzz the results by a set number of minutes to stagger reboot times. | https://github.com/rblackman/reboot-schedule | 0 | 0| 
 | 20221209T22:08:22Z | Null | https://github.com/Ibraheem-Halasah22/AI_Fuzzy_Tip_Task | 0 | 0| 
 | 20221209T19:56:44Z | An implementation of eFLL in Toit. | https://github.com/davidg238/fuzzy_logic | 2 | 0| 
-| 20221209T13:33:35Z | Tennis data viz project | https://github.com/khanhngg/fuzzy-yellow-balls | 2 | 0| 
 
 
 
