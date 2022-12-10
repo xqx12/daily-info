@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221210T01:39:38Z | This repo implements pruning defense for backdoors in BadNets | https://github.com/95anantsingh/NYU-Pruning-Defense-For-BadNets | 0 | 0| 
 | 20221210T01:30:29Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1717 | 305| 
 | 20221210T01:19:05Z | Null | https://github.com/MohitK29/ML-CyberSec-HW2-backdoor-detector-for-BadNets | 0 | 0| 
 | 20221210T00:38:35Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
@@ -111,7 +112,6 @@
 | 20221209T21:14:29Z | Backdoor detector for BadNets (HW 2 for Machine Learning for cybersecurity) | https://github.com/Lucaz97/backdoor-detector-for-BadNets | 0 | 0| 
 | 20221209T20:07:20Z | Lab2 ML for cybersecurity | https://github.com/waterfield-95/backdoorDetector | 0 | 0| 
 | 20221209T17:52:20Z | Null | https://github.com/ankushpratap95/ML-Cybersec-backdoor-detector-design | 0 | 0| 
-| 20221209T13:56:13Z | Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code ! | https://github.com/ymophen/nft-drainer-fake-mint | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
