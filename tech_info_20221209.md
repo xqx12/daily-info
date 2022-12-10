@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221209T23:58:34Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 1 | 0| 
+| 20221209T23:58:34Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 1 | 1| 
 | 20221209T23:43:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5n | 1 | 0| 
 | 20221209T23:41:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5n | 1 | 0| 
 | 20221209T23:40:07Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5n | 1 | 0| 

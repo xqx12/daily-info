@@ -90,7 +90,7 @@
 | 20221210T02:15:38Z | Null | https://github.com/Robloxsaw/CIHG-s-DarkX-Exploit | 0 | 0| 
 | 20221210T01:10:11Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 16 | 1| 
 | 20221210T00:34:31Z | Exploit for stumble guys with real time information sent to discord, inf gems, inf wins, free nickname changes, only base code for backup, do not distribute with api keys  | https://github.com/xDaswx/StumbleExploitBot | 0 | 0| 
-| 20221209T23:58:34Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 1 | 0| 
+| 20221209T23:58:34Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 1 | 1| 
 | 20221209T23:43:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5n | 1 | 0| 
 | 20221209T23:41:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-5n | 1 | 0| 
 | 20221209T23:40:07Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-5n | 1 | 0| 
@@ -102,8 +102,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221210T02:33:37Z | Null | https://github.com/MohitK29/ML-CyberSec-HW2-backdoor-detector-for-BadNets | 0 | 0| 
 | 20221210T02:23:42Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1720 | 305| 
-| 20221210T02:04:47Z | Null | https://github.com/MohitK29/ML-CyberSec-HW2-backdoor-detector-for-BadNets | 0 | 0| 
 | 20221210T01:39:38Z | This repo implements pruning defense for backdoors in BadNets | https://github.com/95anantsingh/NYU-Pruning-Defense-For-BadNets | 0 | 0| 
 | 20221210T00:38:35Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
 | 20221210T00:26:30Z | Backdoor Detection and Pruning for Badnets training on youtube face dataset | https://github.com/akashsky1994/backdoor-detector-badnets | 0 | 0| 
