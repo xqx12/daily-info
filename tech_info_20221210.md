@@ -84,6 +84,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221210T12:49:44Z | Null | https://github.com/Kag3ra/fuzzy-wuzzy | 0 | 0| 
+| 20221210T12:21:43Z | Community curated list of nuclei templates for finding unknown security vulnerabilities. | https://github.com/projectdiscovery/fuzzing-templates | 166 | 18| 
 | 20221210T11:50:14Z | A simple fuzzer which tries different payloads to achieve a SQL Injection | https://github.com/melkonid/Fuzzing | 0 | 0| 
 | 20221210T10:36:22Z | Null | https://github.com/sebastianyebes/CS345-Fuzzy-Logic | 0 | 0| 
 | 20221210T10:16:40Z | Null | https://github.com/csk1116/Fuzzy-Logic-and-Control-Course-Project | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20221210T08:50:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 3303 | 391| 
 | 20221210T08:46:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8136 | 1774| 
 | 20221210T02:57:49Z | Config files for my GitHub profile. | https://github.com/JuanCgarcia09/Fuzzy-Navigation-for-a-Vehicle | 0 | 0| 
-| 20221210T02:24:00Z | Null | https://github.com/Queenmiya28/fuzzy-enigma | 0 | 0| 
 
 
 
