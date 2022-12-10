@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221210T02:57:12Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/ryanwe1ss/Windows-Backdoor | 45 | 13| 
 | 20221210T02:44:48Z | Null | https://github.com/MohitK29/ML-CyberSec-HW2-backdoor-detector-for-BadNets | 0 | 0| 
 | 20221210T02:41:45Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1722 | 305| 
 | 20221210T01:39:38Z | This repo implements pruning defense for backdoors in BadNets | https://github.com/95anantsingh/NYU-Pruning-Defense-For-BadNets | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20221209T22:36:26Z | NYU ECE-GY 9163 Machine Learning for Cyber Security Lab 2 | https://github.com/kunalkashyap855/pruning-defense-on-backdoored-networks | 0 | 0| 
 | 20221209T21:14:29Z | Backdoor detector for BadNets (HW 2 for Machine Learning for cybersecurity) | https://github.com/Lucaz97/backdoor-detector-for-BadNets | 0 | 0| 
 | 20221209T20:07:20Z | Lab2 ML for cybersecurity | https://github.com/waterfield-95/backdoorDetector | 0 | 0| 
-| 20221209T17:52:20Z | Null | https://github.com/ankushpratap95/ML-Cybersec-backdoor-detector-design | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -138,6 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221210T02:57:49Z | Config files for my GitHub profile. | https://github.com/JuanCgarcia09/Fuzzy-Navigation-for-a-Vehicle | 0 | 0| 
 | 20221210T02:24:00Z | Null | https://github.com/Queenmiya28/fuzzy-enigma | 0 | 0| 
 | 20221210T01:50:21Z | Null | https://github.com/Putrantooo/FuzzyTsukamoto-KTHNR | 0 | 0| 
 | 20221210T01:11:02Z | Null | https://github.com/Putrantooo/SPK-FuzzyTsukamoto-ProduksiBarang | 0 | 0| 
@@ -147,7 +148,6 @@
 | 20221209T23:42:50Z | FL & KBS system data | https://github.com/ReconCS4/Fuzzy_Logic_System_Repository | 2 | 0| 
 | 20221209T22:56:15Z | This is a quick utility to help reboot a server at a specific time. Specify a time and then copy the command to the clipboard. If you are rebooting a lot of servers, you can fuzz the results by a set number of minutes to stagger reboot times. | https://github.com/rblackman/reboot-schedule | 0 | 0| 
 | 20221209T22:08:22Z | Null | https://github.com/Ibraheem-Halasah22/AI_Fuzzy_Tip_Task | 0 | 0| 
-| 20221209T19:56:44Z | An implementation of eFLL in Toit. | https://github.com/davidg238/fuzzy_logic | 2 | 0| 
 
 
 
