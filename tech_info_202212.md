@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221210T01:10:11Z | A community dedicated to evading school censorship. | https://github.com/yeetsquad747/exploitcb | 16 | 1| 
 | 20221210T00:34:31Z | Exploit for stumble guys with real time information sent to discord, inf gems, inf wins, free nickname changes, only base code for backup, do not distribute with api keys  | https://github.com/xDaswx/StumbleExploitBot | 0 | 0| 
 | 20221209T23:58:34Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 1 | 0| 
 | 20221209T23:43:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-5n | 1 | 0| 
@@ -96,7 +97,6 @@
 | 20221209T21:32:32Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 52 | 27| 
 | 20221209T13:54:50Z | Simple django rce exploitation with leaked SECRET_KEY variable | https://github.com/0xuf/DJRCE | 5 | 1| 
 | 20221209T13:12:52Z | Metasploit-framework is a pentest Tool for exploiting and exploit scanning, that%s often difficulty to use for IT-Beginners. So that it%s why i code this script - exploit-scanning was my first big problem to understand. To check the security-strength of your router / website, or undestanding exploiting methods. | https://github.com/DroPZsec/MFETB | 1 | 0| 
-| 20221209T13:02:53Z | Null | https://github.com/psatoshi/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
