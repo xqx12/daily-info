@@ -138,7 +138,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20221210T01:26:28Z | Null | https://github.com/Putrantooo/FuzzyTsukamoto-KTHNR | 0 | 0| 
+| 20221210T01:50:21Z | Null | https://github.com/Putrantooo/FuzzyTsukamoto-KTHNR | 0 | 0| 
 | 20221210T01:11:02Z | Null | https://github.com/Putrantooo/SPK-FuzzyTsukamoto-ProduksiBarang | 0 | 0| 
 | 20221210T00:11:02Z | Null | https://github.com/RobertoCampos3030/FuzzyLogicR | 0 | 0| 
 | 20221210T00:09:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 8134 | 1774| 
