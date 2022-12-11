@@ -55,7 +55,7 @@
 | 20221210T23:08:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3l | 1 | 0| 
 | 20221210T21:48:50Z | Null | https://github.com/necaz1337/fivem-carry-exploit | 0 | 0| 
 | 20221210T20:57:15Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 45 | 6| 
-| 20221210T19:52:28Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 4 | 0| 
+| 20221210T20:12:16Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 12 | 3| 
 
 
 # backdoor on Github 推荐
