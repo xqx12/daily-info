@@ -47,7 +47,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20221210T23:49:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5119 | 713| 
-| 20221210T23:48:51Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2140 | 393| 
 | 20221210T23:42:17Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 52 | 27| 
 | 20221210T23:20:50Z | Collect and analyze PoC released on GitHub, Exploit-DB, etc. | https://github.com/ck9/PoCcollector | 0 | 0| 
 | 20221210T23:11:01Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3l | 1 | 0| 
@@ -56,6 +55,7 @@
 | 20221210T21:48:50Z | Null | https://github.com/necaz1337/fivem-carry-exploit | 0 | 0| 
 | 20221210T20:57:15Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 45 | 6| 
 | 20221210T20:12:16Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 12 | 3| 
+| 20221210T19:52:28Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 4 | 0| 
 
 
 # backdoor on Github 推荐
