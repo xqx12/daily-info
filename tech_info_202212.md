@@ -102,8 +102,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T13:18:54Z | A simple script to automate systemd backdoor | https://github.com/MatheuZSecurity/systemd-backdoor | 4 | 0| 
+| 20221211T13:13:36Z | For hackers by Hacker.This tool is used for hacking and made easy for everyone this tool is based on Arch_linux. | https://github.com/furjac/FG_Teams | 2 | 0| 
 | 20221211T12:51:52Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1773 | 310| 
-| 20221211T12:45:49Z | A simple script to automate systemd backdoor | https://github.com/MatheuZSecurity/systemd-backdoor | 3 | 0| 
 | 20221211T10:52:17Z | Null | https://github.com/chichidd/BackdoorDynamicDNN | 0 | 0| 
 | 20221210T23:05:29Z | Null | https://github.com/draboin/bash-script-for-backdoors | 0 | 0| 
 | 20221210T19:09:35Z | pwn++ :  a Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 85 | 6| 
@@ -111,7 +112,6 @@
 | 20221210T14:44:17Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 216 | 62| 
 | 20221210T11:54:12Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/PawanKumarPandit/Villain | 0 | 0| 
 | 20221210T10:43:17Z | part of a project i had that i can share | https://github.com/Danielv8899/netcatBackdoor | 0 | 0| 
-| 20221210T09:19:26Z | Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code ! | https://github.com/ymophen/Nft-drainer-fake-mint | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
