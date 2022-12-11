@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T01:28:14Z | Roblox BloxFlip Predictor With Over 50 GAMES For SUPPORT | https://github.com/cobanipiurim/Roblox-BloxFlip-Predictor-Exploit | 0 | 0| 
+| 20221211T01:17:33Z | GPay balance exploit READ MORE BELOW | https://github.com/haesmgodayx/GPAY-BALANCE-EXPLOIT | 0 | 0| 
 | 20221210T23:49:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5119 | 713| 
 | 20221210T23:48:51Z | Library for exploiting YouTube%s internal API | https://github.com/Tyrrrz/YoutubeExplode | 2140 | 393| 
 | 20221210T23:42:17Z | 🌲Rust Cheating Public External Driver Kernel , Aimbot + Esp  | https://github.com/Fnoberz/Rust-External | 52 | 27| 
@@ -95,8 +97,6 @@
 | 20221210T23:10:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3l | 1 | 0| 
 | 20221210T23:08:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3l | 1 | 0| 
 | 20221210T21:48:50Z | Null | https://github.com/necaz1337/fivem-carry-exploit | 0 | 0| 
-| 20221210T20:57:15Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 45 | 6| 
-| 20221210T19:52:28Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 4 | 0| 
 
 
 # backdoor on Github 推荐
