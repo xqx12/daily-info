@@ -61,15 +61,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221210T23:05:29Z | Null | https://github.com/draboin/bash-script-for-backdoors | 0 | 0| 
+| 20221210T19:09:35Z | pwn++ :  a Windows & Linux pwn library to play with modern C++ - and yeah, it%s pwn++, not pwn-- (it%s a toy library constantly changing, don%t count on it for stability) | https://github.com/hugsy/pwn-- | 85 | 6| 
+| 20221210T17:59:54Z | Minecraft Server (Bukkit, Spigot, Paper) backdoor, using ow2 asm | https://github.com/Body-Alhoha/OpenEctasy | 20 | 4| 
+| 20221210T14:44:17Z | Windows Remote Administration Tool that uses Discord as C2 | https://github.com/3ct0s/disctopia-c2 | 216 | 62| 
 | 20221210T13:09:01Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/t3l3machus/Villain | 1737 | 306| 
 | 20221210T11:54:12Z | Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team. | https://github.com/PawanKumarPandit/Villain | 0 | 0| 
 | 20221210T10:43:17Z | part of a project i had that i can share | https://github.com/Danielv8899/netcatBackdoor | 0 | 0| 
 | 20221210T09:19:26Z | Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code ! | https://github.com/ymophen/Nft-drainer-fake-mint | 0 | 0| 
 | 20221210T03:49:10Z | Null | https://github.com/MohitK29/ML-CyberSec-HW2-backdoor-detector-for-BadNets | 0 | 0| 
 | 20221210T02:57:12Z | A Hidden and Undetectable Remote Access Tool written in C++ and Server in Python3. | https://github.com/ryanwe1ss/Windows-Backdoor | 45 | 13| 
-| 20221210T01:39:38Z | This repo implements pruning defense for backdoors in BadNets | https://github.com/95anantsingh/NYU-Pruning-Defense-For-BadNets | 0 | 0| 
-| 20221210T00:38:35Z | hiphp - free & open source project for create a BackDoor to control PHP-based sites. | https://github.com/yasserbdj96/hiphp | 25 | 9| 
-| 20221210T00:26:30Z | Backdoor Detection and Pruning for Badnets training on youtube face dataset | https://github.com/akashsky1994/backdoor-detector-badnets | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
