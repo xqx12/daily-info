@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20221211T13:49:27Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
+| 20221211T13:56:05Z | CVE-2022-45025 | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | | 
 | 20221211T12:55:15Z | CVE-2022-39425 | CVE-2022-39425 PoC | https://github.com/bob11vrdp/CVE-2022-39425 | | 
 | 20221211T11:08:52Z | CVE-2022-36537 | CVE-2022-36537 | https://github.com/agnihackers/CVE-2022-36537-EXPLOIT | | 
 | 20221210T20:03:16Z | 未知编号 | Null | https://github.com/PyterSmithDarkGhost/ZERODAYENCADEAMENTOCVE2022-41040-CVE2022-41082 | | 
@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20221211T13:56:05Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 39 | 5| 
 | 20221211T13:53:28Z | Payload generator to exfiltrate user cookies through the PHP info page bypassing the HttpOnly flag during XSS exploitation. | https://github.com/HackCommander/PHP-info-cookie-stealer | 2 | 0| 
-| 20221211T13:49:27Z | [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom) | https://github.com/yuriisanin/CVE-2022-45025 | 38 | 5| 
 | 20221211T13:45:54Z | We, at Lavicheats, always strive to be one of the leading and most reliable gameplay cheat and hack providers, when it comes to security, usability, and compatibility. We%ve been developing high-quality, undetected games hacks for years. We update all of our gameplay hacks continuously, including Fortnite Battle cheats, to stay undetected and keep  | https://github.com/junyeong01/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat | 0 | 0| 
 | 20221211T13:23:20Z | Null | https://github.com/0x14mth3n1ght/Systeme_Exploitation-S3 | 0 | 0| 
 | 20221211T13:19:04Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 14 | 3| 
